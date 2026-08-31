@@ -1,0 +1,25 @@
+{
+  "schema": "manga-anime-git-migration/g3-bootstrap-bindings/v1",
+  "phase": "G3",
+  "run_id": "g3-private-repository-bootstrap-20260831T160141Z",
+  "framework": {
+    "version": "1.4.0-owner-review-candidate",
+    "sha256": "c68836fc9a94910f587f7f8af8408fb2683ef164bfc3d22348fada61d5cfb215"
+  },
+  "g2_closure": {
+    "approved_candidate_sha256": "64b6e029a3139adf0cfb4ff9e1ae2b982db2db899309e92928c43097bb37c1e1",
+    "decision_application_sha256": "102bdd9f524276a75a359ce91396f882b7129cc4cf65880cc1a9608e73c1e990",
+    "independent_audit_results_sha256": "6f52f93bd766ab61af82c0c876681ab0a16d646e961a9499357cf610b5ace274"
+  },
+  "repository": {
+    "provider": "GitHub",
+    "owner": "deep-blue-zero",
+    "name": "anime-manga-ln-games-analysis",
+    "remote": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis.git",
+    "repository_id": "1352620662",
+    "visibility": "PRIVATE",
+    "default_branch": "main",
+    "remote_state": "CREATED_PRIVATE_EMPTY"
+  },
+  "corpus_content_included": false
+}

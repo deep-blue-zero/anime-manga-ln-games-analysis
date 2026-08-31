@@ -1,0 +1,64 @@
+{
+  "schema": "manga-anime-git-migration/tracked-file-policy/v1",
+  "allowed_roots": [
+    ".github/",
+    "characters/",
+    "governance/",
+    "series/",
+    "studies/",
+    "tools/"
+  ],
+  "allowed_root_files": [
+    ".gitattributes",
+    ".gitignore",
+    "AGENTS.md",
+    "CHARACTER_ANALYSIS_INDEX.md",
+    "README.md"
+  ],
+  "forbidden_paths": [
+    ".gitmodules",
+    ".github/workflows/",
+    "credentials/",
+    "evidence/",
+    "private-evidence/",
+    "raw/",
+    "quarantine/"
+  ],
+  "allowed_text_extensions": [
+    ".csv",
+    ".json",
+    ".jsonl",
+    ".md",
+    ".py",
+    ".tsv",
+    ".txt",
+    ".yaml",
+    ".yml"
+  ],
+  "default_external_extensions": [
+    ".7z",
+    ".avi",
+    ".cbz",
+    ".db",
+    ".dll",
+    ".exe",
+    ".flac",
+    ".gif",
+    ".jpeg",
+    ".jpg",
+    ".m4a",
+    ".mkv",
+    ".mov",
+    ".mp3",
+    ".mp4",
+    ".png",
+    ".rar",
+    ".sqlite",
+    ".wav",
+    ".webm",
+    ".zip"
+  ],
+  "review_threshold_bytes": 1048576,
+  "generated_structured_default_external_bytes": 10485760,
+  "hard_exception_threshold_bytes": 26214400
+}

@@ -1,0 +1,35 @@
+# Local/editor state
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.tmp
+*.bak
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Credentials and secrets
+.env
+.env.*
+credentials/
+secrets/
+*.pem
+*.p12
+*.pfx
+*.key
+
+# Migration evidence and raw acquisition are never repository content
+evidence/
+raw/
+acquisition/
+immutable-download/
+private-evidence/
+quarantine/
+
+# Tool output
+build/
+dist/
+reports/local/

@@ -1,0 +1,39 @@
+{
+  "schema": "manga-anime-git-migration/authority-scope/v1",
+  "state": "G3_BOOTSTRAP_NONAUTHORITATIVE",
+  "authority_epoch": 0,
+  "before_verified_g8_activation": {
+    "analytical_authority": "GOOGLE_DRIVE",
+    "drive_writes_by_migration": "PROHIBITED",
+    "git_candidate": "NONAUTHORITATIVE_PROPOSED_REPRESENTATION"
+  },
+  "after_verified_g8_activation": {
+    "migrated_analysis": "GIT",
+    "native_google_sheets": "CONTROLLED_DRIVE_AUTHORING_SURFACE_EFFECTIVE_ONLY_AFTER_VERIFIED_EXPORT_AND_GIT_MERGE",
+    "reference_drive_artifacts": "DRIVE_OR_PRIVATE_EVIDENCE_BY_MANIFEST",
+    "local_extraction_workspace": "NONAUTHORITATIVE_TOOLING_AND_SOURCE_ARTIFACT_WORKSPACE"
+  },
+  "repository": {
+    "provider": "GitHub",
+    "owner": "deep-blue-zero",
+    "name": "anime-manga-ln-games-analysis",
+    "remote": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis.git",
+    "visibility_at_launch": "PRIVATE_OWNER_ONLY",
+    "repository_id": "1352620662"
+  },
+  "repository_roots": {
+    "series": "series/<stable-slug>/",
+    "studies": "studies/<stable-slug>/",
+    "characters": "characters/",
+    "governance": "governance/"
+  },
+  "cutover": {
+    "status": "NOT_STARTED",
+    "stabilization_days": 14,
+    "audit_cadence": [
+      "DAILY_DELTA_CHECK",
+      "DAY_7_FULL_AUDIT",
+      "DAY_14_FULL_AUDIT_AND_OWNER_ACCEPTANCE"
+    ]
+  }
+}

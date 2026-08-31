@@ -1,0 +1,25 @@
+schema: manga-anime-git-migration/authority-state/v1
+authority_epoch: 0
+state: PRE_CUTOVER_DRIVE_AUTHORITATIVE
+effective_authority:
+  analytical_corpus: GOOGLE_DRIVE
+  git_candidate: NONAUTHORITATIVE
+migration:
+  framework_version: 1.4.0-owner-review-candidate
+  completed_gate: G2
+  current_gate: G3_BOOTSTRAP_CANDIDATE
+repository:
+  provider: GitHub
+  owner: deep-blue-zero
+  name: anime-manga-ln-games-analysis
+  remote: https://github.com/deep-blue-zero/anime-manga-ln-games-analysis.git
+  repository_id: "1352620662"
+  visibility: PRIVATE_OWNER_ONLY
+  default_branch: main
+  license_status: UNLICENSED_DURING_PRIVATE_MIGRATION
+activation:
+  cutover_id: null
+  commit_oid: null
+  tag: null
+  scope_hash: null
+  status: NOT_AUTHORIZED

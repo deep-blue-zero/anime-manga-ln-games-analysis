@@ -1,0 +1,16 @@
+# Preserve imported bytes by default. Generated controls are normalized explicitly.
+* -text
+
+/.gitattributes text eol=lf
+/.gitignore text eol=lf
+/.github/CODEOWNERS text eol=lf
+/AGENTS.md text eol=lf
+/README.md text eol=lf
+/CHARACTER_ANALYSIS_INDEX.md text eol=lf
+/characters/README.md text eol=lf
+/characters/registry.jsonl text eol=lf
+/governance/** text eol=lf
+/series/README.md text eol=lf
+/series/registry.json text eol=lf
+/studies/README.md text eol=lf
+/tools/** text eol=lf

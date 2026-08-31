@@ -1,0 +1,132 @@
+{
+  "$id": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/main/governance/schemas/character-analysis-index.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Character Analysis Registry Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "character_id",
+    "preferred_name",
+    "series_id",
+    "franchise_id",
+    "continuity_id",
+    "incarnation",
+    "aliases",
+    "analytical_dimensions",
+    "evidence",
+    "narrative_coverage",
+    "migration_status",
+    "curation_status",
+    "inclusion_basis"
+  ],
+  "properties": {
+    "character_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*:[a-z0-9][a-z0-9-]*$"
+    },
+    "preferred_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "series_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "franchise_id": {
+      "type": ["string", "null"]
+    },
+    "continuity_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "incarnation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["value", "language", "kind", "ambiguous"],
+        "properties": {
+          "value": {"type": "string", "minLength": 1},
+          "language": {"type": "string", "minLength": 2},
+          "kind": {
+            "enum": ["ORIGINAL_SCRIPT", "TRANSLITERATION", "TRANSLATION", "SPELLING", "ALTERNATIVE"]
+          },
+          "ambiguous": {"type": "boolean"},
+          "note": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "analytical_dimensions": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "enum": ["BEHAVIOR", "PSYCHOLOGY", "SPEECH", "ETHICS", "RELATIONSHIPS", "IDEOLOGY", "DECISION_MAKING"]
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["repository_path", "semantic_locator", "reviewed"],
+        "properties": {
+          "repository_path": {"type": "string", "pattern": "^(series|studies)/"},
+          "semantic_locator": {"type": "string", "minLength": 1},
+          "reviewed": {"const": true},
+          "dimensions": {"type": "array", "uniqueItems": true, "items": {"type": "string"}}
+        }
+      }
+    },
+    "narrative_coverage": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["type", "locator"],
+        "properties": {
+          "type": {"enum": ["EPISODE", "CHAPTER", "VOLUME", "ARC", "ROUTE", "QUEST"]},
+          "locator": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "migration_status": {
+      "enum": ["NOT_YET_MIGRATED", "MIGRATED_UNREVIEWED", "MIGRATED_REVIEWED"]
+    },
+    "curation_status": {
+      "enum": ["UNREVIEWED", "CANDIDATE", "INCLUDED", "EXCLUDED_REVIEWED"]
+    },
+    "inclusion_basis": {
+      "enum": [null, "DEDICATED", "DISTRIBUTED_SUBSTANTIAL"]
+    },
+    "notes": {
+      "type": ["string", "null"]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {"curation_status": {"const": "INCLUDED"}},
+        "required": ["curation_status"]
+      },
+      "then": {
+        "properties": {
+          "evidence": {"minItems": 1},
+          "inclusion_basis": {"enum": ["DEDICATED", "DISTRIBUTED_SUBSTANTIAL"]},
+          "migration_status": {"const": "MIGRATED_REVIEWED"}
+        }
+      }
+    }
+  ],
+  "x-curation-rule": "Mention counts do not establish substantial analysis; inclusion is curated.",
+  "x-index-role": "Generated discovery surface; not the migration ledger or authority registry.",
+  "x-phase-2-extension": {
+    "name": "Cross-Series Character Reconstruction Capability Registry",
+    "relationship": "LAYERED_OVER_SECTION_15_NOT_A_REPLACEMENT",
+    "status": "PLANNED_NOT_POPULATED_AT_MIGRATION"
+  }
+}
