@@ -3,6 +3,7 @@
 .gitignore
 AGENTS.md
 CHARACTER_ANALYSIS_INDEX.md
+CONTRIBUTING.md
 README.md
 characters/README.md
 characters/registry.jsonl
@@ -12,6 +13,7 @@ governance/CHATGPT_AUTHORITY_AND_ROUTING.md
 governance/MANGA_ANIME_CORPUS_INDEX.md
 governance/REPOSITORY_STRUCTURE.md
 governance/policies/ARTIFACT_ELIGIBILITY.md
+governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md
 governance/policies/REPOSITORY_CONTROLS.md
 governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt
 governance/repository-controls/bootstrap-bindings.json

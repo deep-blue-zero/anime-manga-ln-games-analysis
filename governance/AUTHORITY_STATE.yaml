@@ -7,16 +7,26 @@ effective_authority:
 migration:
   framework_version: 1.4.0-owner-review-candidate
   completed_gate: G2
-  current_gate: G3_BOOTSTRAP_CANDIDATE
+  current_gate: G3_PUBLICATION_GOVERNANCE_CANDIDATE
 repository:
   provider: GitHub
   owner: deep-blue-zero
   name: anime-manga-ln-games-analysis
   remote: https://github.com/deep-blue-zero/anime-manga-ln-games-analysis.git
   repository_id: "1352620662"
-  visibility: PRIVATE_OWNER_ONLY
+  visibility: PRIVATE_PENDING_SEPARATE_PUBLIC_ACTIVATION
+  approved_target_visibility: PUBLIC_OWNER_MAINTAINED
   default_branch: main
-  license_status: UNLICENSED_DURING_PRIVATE_MIGRATION
+  upstream_human_writers:
+    - deep-blue-zero
+  external_contributions: NOT_ACCEPTED
+  independent_forks: PERMITTED
+  license_status: UNLICENSED_PENDING_OWNER_DECISION
+publication:
+  amendment_sha256: 577f789effc292ed32ef2450815e159fbd882a19b2afa8ad19bd14c81411420c
+  visibility_activation: NOT_YET_AUTHORIZED
+  final_history_audit: REQUIRED
+  native_main_and_activation_tag_protections: REQUIRED_AFTER_PUBLICATION
 activation:
   cutover_id: null
   commit_oid: null

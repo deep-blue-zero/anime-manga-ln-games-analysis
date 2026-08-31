@@ -1,12 +1,14 @@
 # Anime, Manga, Light-Novel, and Games Analysis
 
-Private Git migration repository for human- and LLM-readable analytical work about anime, manga, light novels, and games.
+Owner-maintained repository for human- and LLM-readable analytical work about anime, manga, light novels, and games.
 
 ## Current state
 
-This is the G3 repository bootstrap. It contains governance, schemas, validation tooling, and repository controls only. No analytical corpus has been migrated in this commit.
+This is the G3 repository bootstrap. It contains governance, schemas, validation tooling, and repository controls only. No analytical corpus has been migrated yet.
 
 Google Drive remains authoritative until a separately approved G8 activation changes the authority state. The Git tree is currently a nonauthoritative candidate representation.
+
+The GitHub repository is still private while the publication candidate is audited. Its approved target is public visibility after a separately hash-approved activation. Public readers may make independent forks, but the upstream repository is a personal project: `deep-blue-zero` is its sole writer and contributor, and external pull requests or patches are not accepted. See `CONTRIBUTING.md` and `governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md`.
 
 ## First read
 
@@ -24,4 +26,8 @@ Google Drive remains authoritative until a separately approved G8 activation cha
 - `governance/` — authority, policies, schemas, and navigation
 - `tools/` — deterministic repository validation and generators
 
-The repository is private and owner-only during migration. Any future public release requires an independent publication audit and separate owner decision.
+## Publication and license state
+
+Every public push must pass the repository's publication-safety controls before it leaves the contained migration workspace. Raw acquisition evidence, primary-source media, excluded binaries, credentials, personal data, local paths, and non-migrated Drive references stay outside Git.
+
+No content license has been selected. A separate owner decision is required before the first substantive analytical corpus batch is published.

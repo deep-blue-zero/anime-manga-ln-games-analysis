@@ -24,6 +24,17 @@ SECRET_PATTERNS = {
     "AWS access key": re.compile(rb"\bAKIA[0-9A-Z]{16}\b"),
     "Google API key": re.compile(rb"\bAIza[0-9A-Za-z_-]{30,}\b"),
 }
+PUBLICATION_PATTERNS = {
+    "Google Drive URL": re.compile(rb"https://(?:drive|docs)\.google\.com", re.IGNORECASE),
+    "local absolute path": re.compile(
+        rb"(?:\b[A-Z]" + rb":" + rb"[\\/]|file" + rb"://)",
+        re.IGNORECASE,
+    ),
+    "personal email address": re.compile(
+        rb"\b[A-Z0-9._%+-]+@(?:gmail|googlemail|outlook|hotmail|yahoo)\.[A-Z]{2,}\b",
+        re.IGNORECASE,
+    ),
+}
 
 
 class ValidationError(Exception):
@@ -109,6 +120,9 @@ def validate_bytes(root: Path, paths: list[str], policy: dict) -> list[str]:
         for label, pattern in SECRET_PATTERNS.items():
             if pattern.search(data):
                 errors.append(f"possible {label} in {path}")
+        for label, pattern in PUBLICATION_PATTERNS.items():
+            if pattern.search(data):
+                errors.append(f"publication hazard ({label}) in {path}")
         suffix = Path(path).suffix.casefold()
         if suffix in text_extensions or Path(path).name in special_text:
             if data.startswith(b"\xef\xbb\xbf"):
@@ -134,6 +148,30 @@ def validate_bytes(root: Path, paths: list[str], policy: dict) -> list[str]:
                     json.loads(line)
                 except json.JSONDecodeError as exc:
                     errors.append(f"invalid JSONL in {path}:{line_number}: {exc}")
+    return errors
+
+
+def validate_commit_identities(root: Path, policy: dict) -> list[str]:
+    allowed = {
+        (item["name"], item["email"])
+        for item in policy["allowed_commit_identities"]
+    }
+    raw = git(root, "log", "--all", "--format=%an%x1f%ae%x1f%cn%x1f%ce%x1e")
+    errors: list[str] = []
+    for record in raw.decode("utf-8", "strict").split("\x1e"):
+        record = record.strip("\r\n")
+        if not record:
+            continue
+        fields = record.split("\x1f")
+        if len(fields) != 4:
+            errors.append("unable to parse a Git author/committer identity")
+            continue
+        author = (fields[0], fields[1])
+        committer = (fields[2], fields[3])
+        if author not in allowed:
+            errors.append(f"non-owner Git author identity: {author[0]} <{author[1]}>")
+        if committer not in allowed:
+            errors.append(f"non-owner Git committer identity: {committer[0]} <{committer[1]}>")
     return errors
 
 
@@ -177,6 +215,7 @@ def main() -> int:
     errors.extend(validate_g3_exact_set(root, paths))
     errors.extend(validate_paths(root, paths, staged_modes(root), policy))
     errors.extend(validate_bytes(root, paths, policy))
+    errors.extend(validate_commit_identities(root, policy))
     errors.extend(validate_generated_index(root))
     if errors:
         for error in errors:

@@ -18,8 +18,15 @@
     "owner": "deep-blue-zero",
     "name": "anime-manga-ln-games-analysis",
     "remote": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis.git",
-    "visibility_at_launch": "PRIVATE_OWNER_ONLY",
-    "repository_id": "1352620662"
+    "repository_id": "1352620662",
+    "current_visibility": "PRIVATE_PENDING_SEPARATE_PUBLIC_ACTIVATION",
+    "approved_target_visibility": "PUBLIC_OWNER_MAINTAINED",
+    "upstream_human_writers": [
+      "deep-blue-zero"
+    ],
+    "external_contributions": "NOT_ACCEPTED",
+    "independent_forks": "PERMITTED",
+    "license_status": "UNLICENSED_PENDING_OWNER_DECISION"
   },
   "repository_roots": {
     "series": "series/<stable-slug>/",
