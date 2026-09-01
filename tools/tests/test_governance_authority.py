@@ -667,7 +667,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G4",
             "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-            "current_subphase": "G5_T05_BLUE_ARCHIVE_INTEGRATED",
+            "current_subphase": "G5_T06_YOUJO_SENKI_INTEGRATED",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -677,6 +677,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "GENSHIN_IMPACT_FURINA_MONOGRAPH_V1",
                 "IDOLMASTER_CINDERELLA_GIRLS_MOBILE_GAME_CHARACTER_MONOGRAPHS_V1",
                 "BLUE_ARCHIVE_PROLOGUE_CHAPTER_1_AND_LONGITUDINAL_ANALYSIS_V1",
+                "YOUJO_SENKI_V2_ANALYTICAL_CORPUS_V1",
             ],
             "integrated_reference_controls": [
                 "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY",
@@ -706,12 +707,12 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 ),
             },
             "g5_progress": {
-                "last_tranche": "G5_T05_BLUE_ARCHIVE",
-                "run_id": "g5-t05-blue-archive-20260901T122749Z",
-                "source_receipt_sha256": "e5a5aea807cf711691e0788881aeb5b9223ec4edb92da43cb9e71cf0adefbce1",
-                "transformation_receipt_sha256": "c91539cc3065cd56575c836b638bb795e448eff65392c1689554ff359f1678c5",
-                "source_objects": 48,
-                "payload_paths": 36,
+                "last_tranche": "G5_T06_YOUJO_SENKI",
+                "run_id": "g5-t06-youjo-senki-20260901T132724Z",
+                "source_receipt_sha256": "b62ea48fd1742006a78ad6502fc2378f840375a6c9e5e8cb6bf56460b56dc762",
+                "transformation_receipt_sha256": "e47f15c4365ac397136927bbbfda9bfbf2951f142bc4877b155a68b34a7047bd",
+                "source_objects": 44,
+                "payload_paths": 16,
                 "tracked_paths_after": len(
                     (
                         REPOSITORY_ROOT
@@ -854,6 +855,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "genshin-impact",
                 "the-idolmaster-cinderella-girls-mobile-games",
                 "blue-archive",
+                "youjo-senki",
             }.issubset(set(series_ids))
         )
         series_by_id = {row["series_id"]: row for row in series_registry["series"]}
@@ -936,6 +938,19 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "series/blue-archive/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T05_BLUE_ARCHIVE",
+                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+            },
+        )
+        self.assertEqual(
+            series_by_id["youjo-senki"],
+            {
+                "series_id": "youjo-senki",
+                "stable_slug": "youjo-senki",
+                "canonical_title": "YOUJO SENKI",
+                "media": ["LIGHT_NOVEL"],
+                "repository_path": "series/youjo-senki/",
+                "materialization_status": "PRESENT_REVIEWED",
+                "migration_scope": "G5_T06_V2_ANALYTICAL_CORPUS",
                 "authority_status": "NONAUTHORITATIVE_PRE_G8",
             },
         )
@@ -1151,6 +1166,40 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "crosswalk/materialization-results.jsonl",
         ):
             self.assertFalse(any(row["drive_id"] in t05_folder_ids for row in rows(relative)))
+
+        youjo_mappings = [
+            row for row in rows("crosswalk/drive-to-git.jsonl")
+            if row.get("series_id") == "youjo-senki"
+        ]
+        self.assertEqual(len(youjo_mappings), 16)
+        youjo_output_table = "".join(
+            f"{row['git_path']}\t{row['git_bytes']}\t{row['git_sha256']}\n"
+            for row in sorted(youjo_mappings, key=lambda item: item["git_path"].encode("utf-8"))
+        ).encode("utf-8")
+        self.assertEqual(
+            hashlib.sha256(youjo_output_table).hexdigest(),
+            "fab10f114df2b2132813647122b3e7e4391cd2a914f1c10314a76621cc391fbb",
+        )
+        youjo_plans = [
+            row for row in rows("crosswalk/path-plan.jsonl")
+            if row.get("destination_path", "").startswith("series/youjo-senki/")
+        ]
+        youjo_results = [
+            row for row in rows("crosswalk/materialization-results.jsonl")
+            if row.get("run_id") == "g5-t06-youjo-senki-20260901T132724Z"
+        ]
+        self.assertEqual(len(youjo_plans), 16)
+        self.assertEqual(len(youjo_results), 16)
+        self.assertTrue(all(row["decision"] == "MIGRATE_TEXT" for row in youjo_plans))
+        self.assertTrue(all(row["result"] == "MATERIALIZED_AND_HASH_VERIFIED" for row in youjo_results))
+        t06_reference_ids = {'13pEqvLZiv8Pc0SjvbsWSYpk_G4VMKZ0b', '140ow12czVj4J8Q_JR44MSWI98LUxj3uk', '16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh', '17UvtZCM9QBQdFtqKjDsebZfQXsuB2idH', '1AMNfngVWTSm_4O0XadlJjHWjR8hMw21X', '1B9k4mqImDwLNhZz4jrbXi85h5fSsN7dP', '1C95SxSuba7Fr9diTMyc1N8q58TbzxsLs', '1Eoz8hpJMoeksACmQgvJXntTEcYM-w20g', '1GZMXU-ulPFfKFKGrjl6GjXUYtqnorwg5', '1GlDNvT5spgIQk5VaUU5S2Qsk5dF174hR', '1JxHeRuCRltCmQsyIs2nQruzewx1U8Bmd', '1LRcSX-k739E4O4xQ2ImZnawzx6IylARo', '1LYRzJS4AL6jHAmIAjkaOC-HIWQQdBp51', '1TomsYaw1BmQMRp-JuMils2PeHzl375uo', '1Ul_BbZkw9UkSOrDik3hmWVfcK84WWGvW', '1VJj8j-KwC2ODJT7mkJcX1zvExrY4Cvl2', '1Z7UPnnWeFoO2tpXxv1NfvWtcMkPwt63V', '1aDiFqWjWHZ53xX-lBvjMLfA6eN89Z7SZ', '1d6vk6xFzkML17mwbUmBrWyxNxftptkv4', '1dPqF3RjqawccCi8LA59QVMXsp2KDvH63', '1i1Ov7u5yGciH55j-04LxIR4CWck61-KH', '1keRBa1MAecQmFefKgmnUMroSeOarf1B1', '1l8ok-FT2RMmDl-qeXJnVaj8hrS7pzKeu', '1q1xEv83Ld8KGENT_cZTN3OhAzjoFqzzs', '1v3oLyOSuwD9WgZX_TvAPekRo20g4m_Rh', '1whdImFw-vUblagWfpiqEmY58hT1vd3LZ', '1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4', '1zWogK3vzZ0Tj1_92r3NaESIj1NzV1Biv'}
+        for relative in (
+            "crosswalk/drive-to-git.jsonl",
+            "crosswalk/path-plan.jsonl",
+            "crosswalk/materialization-results.jsonl",
+        ):
+            self.assertFalse(any(row["drive_id"] in t06_reference_ids for row in rows(relative)))
+        self.assertFalse(any(row["series_id"] == "youjo-senki" for row in character_rows))
 
     def test_g5_t01_maebashi_tuple_is_exact(self) -> None:
         drive_ids = {

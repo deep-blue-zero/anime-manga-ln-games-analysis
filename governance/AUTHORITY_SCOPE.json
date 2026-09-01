@@ -5,7 +5,7 @@
   "migration": {
     "completed_gate": "G4",
     "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-    "current_subphase": "G5_T05_BLUE_ARCHIVE_INTEGRATED",
+    "current_subphase": "G5_T06_YOUJO_SENKI_INTEGRATED",
     "integrated_candidates": [
       "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
       "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -14,7 +14,8 @@
       "MASS_EFFECT_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
       "GENSHIN_IMPACT_FURINA_MONOGRAPH_V1",
       "IDOLMASTER_CINDERELLA_GIRLS_MOBILE_GAME_CHARACTER_MONOGRAPHS_V1",
-      "BLUE_ARCHIVE_PROLOGUE_CHAPTER_1_AND_LONGITUDINAL_ANALYSIS_V1"
+      "BLUE_ARCHIVE_PROLOGUE_CHAPTER_1_AND_LONGITUDINAL_ANALYSIS_V1",
+      "YOUJO_SENKI_V2_ANALYTICAL_CORPUS_V1"
     ],
     "integrated_reference_controls": [
       "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY"
@@ -30,13 +31,13 @@
       "pilot_high_water_tree": "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
     },
     "g5_progress": {
-      "last_tranche": "G5_T05_BLUE_ARCHIVE",
-      "run_id": "g5-t05-blue-archive-20260901T122749Z",
-      "source_receipt_sha256": "e5a5aea807cf711691e0788881aeb5b9223ec4edb92da43cb9e71cf0adefbce1",
-      "transformation_receipt_sha256": "c91539cc3065cd56575c836b638bb795e448eff65392c1689554ff359f1678c5",
-      "source_objects": 48,
-      "payload_paths": 36,
-      "tracked_paths_after": 200,
+      "last_tranche": "G5_T06_YOUJO_SENKI",
+      "run_id": "g5-t06-youjo-senki-20260901T132724Z",
+      "source_receipt_sha256": "b62ea48fd1742006a78ad6502fc2378f840375a6c9e5e8cb6bf56460b56dc762",
+      "transformation_receipt_sha256": "e47f15c4365ac397136927bbbfda9bfbf2951f142bc4877b155a68b34a7047bd",
+      "source_objects": 44,
+      "payload_paths": 16,
+      "tracked_paths_after": 216,
       "status": "MATERIALIZED_VALIDATED_GIT_TRANCHE"
     }
   },

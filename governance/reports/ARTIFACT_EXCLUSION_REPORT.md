@@ -2,7 +2,7 @@
 
 ## Scope
 
-This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, G5-T03 Genshin Impact Furina V1, G5-T04 Cinderella Girls mobile-game analysis, and G5-T05 Blue Archive Prologue/Chapter 1 analysis. It is not the final archive-wide exclusion review.
+This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, G5-T03 Genshin Impact Furina V1, G5-T04 Cinderella Girls mobile-game analysis, G5-T05 Blue Archive Prologue/Chapter 1 analysis, and G5-T06 Youjo Senki V2 analysis. It is not the final archive-wide exclusion review.
 
 ## U149 tranche
 
@@ -110,6 +110,56 @@ The frozen source boundary contains 48 Drive objects: 35 Markdown artifacts, one
 | Binary or archive artifacts | 0 | Not applicable | None are in the exact T05 source boundary |
 
 Source-selection receipt SHA-256: `e5a5aea807cf711691e0788881aeb5b9223ec4edb92da43cb9e71cf0adefbce1`. Inert materialization receipt SHA-256: `c91539cc3065cd56575c836b638bb795e448eff65392c1689554ff359f1678c5`. The final 36-output table has SHA-256 `0452531eb1a07058ade65e7c1b252ffaaf684ffce22cb3f8aedcc6461ad631e3`.
+
+## G5-T06 Youjo Senki V2 analysis
+
+The frozen full-prefix boundary contains 44 selected objects. Sixteen reviewed Markdown artifacts materialize after only the exact frozen authority-array, CommonMark hard-break, and terminal-LF normalizations, totaling 810,912 Git bytes. Twenty generated or extracted ordinary files totaling 57,369,073 bytes and eight structural folders remain `REFERENCE_DRIVE`; no binary, archive, LFS, large-text, rights, or named artifact exception is introduced. The 52,894,654-byte CMR locator index remains outside Git. Tanya's dedicated legacy monograph is migrated as analysis but remains ineligible for Character Index v2 materialization because the recognized authority quartet is absent.
+
+| Class | Count | Disposition | Reason |
+|---|---:|---|---|
+| Reviewed analytical Markdown | 16 | `MIGRATE_TEXT` | Human- and LLM-readable analysis with exact frozen output hashes |
+| Generated or extracted reconstruction outputs | 20 | `REFERENCE_DRIVE` | Downstream generated material, including a 52,894,654-byte locator index |
+| Structural Drive folders | 8 | `REFERENCE_DRIVE` | Hierarchy/provenance metadata only |
+
+Source-selection receipt SHA-256: `b62ea48fd1742006a78ad6502fc2378f840375a6c9e5e8cb6bf56460b56dc762`. Inert materialization receipt SHA-256: `e47f15c4365ac397136927bbbfda9bfbf2951f142bc4877b155a68b34a7047bd`. The final 16-output table has SHA-256 `fab10f114df2b2132813647122b3e7e4391cd2a914f1c10314a76621cc391fbb`.
+
+Reference-only ordinary artifacts:
+
+| Drive ID | Source path | Bytes | SHA-256 | Disposition |
+|---|---|---:|---|---|
+| `16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh` | `Youjo Senki/06 Character Modeling and Reconstruction/00 Frameworks and Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md` | 43630 | `405d89789d730ec3ccdff1de020d318dc39c9910b36577d2b3e1f63a52737361` | `REFERENCE_DRIVE` |
+| `1d6vk6xFzkML17mwbUmBrWyxNxftptkv4` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/README.md` | 7294 | `cbb374eb7d6a55602300004bd3dda3a13bc3b773c7db46ee0dfef152aeb38059` | `REFERENCE_DRIVE` |
+| `1C95SxSuba7Fr9diTMyc1N8q58TbzxsLs` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_CHARACTER_ALIAS_MAP.tsv` | 25311 | `567426240c2072a21e6abea40775fd2428a6aec433f85417da2c8de08a8161a9` | `REFERENCE_DRIVE` |
+| `1LYRzJS4AL6jHAmIAjkaOC-HIWQQdBp51` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_CHARACTER_RECONSTRUCTION_READINESS_AUDIT.md` | 26319 | `30ace4c0f4a0b03aa003aea8e7377cb1595450bed326451908a59bf13c5c3417` | `REFERENCE_DRIVE` |
+| `13pEqvLZiv8Pc0SjvbsWSYpk_G4VMKZ0b` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_CHARACTER_RECONSTRUCTION_READINESS_METRICS.tsv` | 5034 | `e5299ffeb29f542c7015003a3f0f8bb8f957793620eaa2d37957ea3a0eeeb6fb` | `REFERENCE_DRIVE` |
+| `1keRBa1MAecQmFefKgmnUMroSeOarf1B1` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_CMR1_READINESS_AUDIT_SCRIPT.py` | 11609 | `7a563001eef1e24259cb1637077665c5f47cd4690c5e8d9e2d417daeb0a13836` | `REFERENCE_DRIVE` |
+| `1zWogK3vzZ0Tj1_92r3NaESIj1NzV1Biv` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_CMR_SOURCE_EXTRACTION_MANIFEST.md` | 9049 | `67120306369bb343f691f0007d5fbc968eb7de4a083a391f7adeb5914606eaad` | `REFERENCE_DRIVE` |
+| `1l8ok-FT2RMmDl-qeXJnVaj8hrS7pzKeu` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_CMR_SOURCE_EXTRACTION_SCRIPT.py` | 14916 | `e21635d9f19d5925e2ad3f40aaaf2ac8cfff4d0f1dee8082c49415be09f04adc` | `REFERENCE_DRIVE` |
+| `140ow12czVj4J8Q_JR44MSWI98LUxj3uk` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_CMR_SOURCE_LOCATOR_INDEX.tsv` | 52894654 | `c84fa4c8e0251730887b51913a8f32ea68c39be68ff4adae8d995d49292f5cfe` | `REFERENCE_DRIVE` |
+| `1GlDNvT5spgIQk5VaUU5S2Qsk5dF174hR` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_CMR_SOURCE_MEMBER_INDEX.tsv` | 203927 | `e05b9fe26ec35e4590b9e148005b49f7ed142ec2f6ca2868e99561981372e220` | `REFERENCE_DRIVE` |
+| `1JxHeRuCRltCmQsyIs2nQruzewx1U8Bmd` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_TANYA_CMR2B_ADJUDICATION_MANIFEST.md` | 14888 | `43c1cf9bb04e2883e473a85d2db306b1242741569263778974db1b6229d5b02b` | `REFERENCE_DRIVE` |
+| `1whdImFw-vUblagWfpiqEmY58hT1vd3LZ` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_TANYA_CMR2B_ADJUDICATION_SCRIPT.py` | 98103 | `23078662fed83e7aa8ba7c5e59fe9e0946a58ab75abab61a7de0a326e5e6909f` | `REFERENCE_DRIVE` |
+| `1Eoz8hpJMoeksACmQgvJXntTEcYM-w20g` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_TANYA_CMR2_ADJUDICATION_LEDGER.tsv` | 648524 | `4391f1042668cdc2148f6e09b975317cb5ab9d20c9e0e1679d491c450a8e6fa0` | `REFERENCE_DRIVE` |
+| `1v3oLyOSuwD9WgZX_TvAPekRo20g4m_Rh` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_TANYA_CMR2_CANDIDATE_RETRIEVAL_MANIFEST.md` | 9142 | `2edb901c91698f8bc460909193fc87175dff766181dddc2cf67bf7735121828b` | `REFERENCE_DRIVE` |
+| `1GZMXU-ulPFfKFKGrjl6GjXUYtqnorwg5` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_TANYA_CMR2_CANDIDATE_RETRIEVAL_SCRIPT.py` | 17909 | `95e52f0e50f42c16eec4bb421245d7f150959478451559e6e47614052c87a074` | `REFERENCE_DRIVE` |
+| `1LRcSX-k739E4O4xQ2ImZnawzx6IylARo` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_TANYA_CMR2_CANDIDATE_SCENE_POOL.tsv` | 2290984 | `8344b6196565645cfe373d3468fa4f3c618d1c4d3afb363667c64a073a5c469a` | `REFERENCE_DRIVE` |
+| `1i1Ov7u5yGciH55j-04LxIR4CWck61-KH` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators/YOUJO_SENKI_TANYA_CMR2_DIAGNOSTIC_EVIDENCE_INDEX.tsv` | 1043995 | `1240953f6174375e64ddf1eb44af83954984a438c4b2fbc5d8869dabcf42ce68` | `REFERENCE_DRIVE` |
+| `1VJj8j-KwC2ODJT7mkJcX1zvExrY4Cvl2` | `Youjo Senki/06 Character Modeling and Reconstruction/02 Character Models/README.md` | 1401 | `b937176e3c85e5b86a88b40e3343b9c66846bbb8d05be5c866464f0eca13e416` | `REFERENCE_DRIVE` |
+| `1B9k4mqImDwLNhZz4jrbXi85h5fSsN7dP` | `Youjo Senki/06 Character Modeling and Reconstruction/03 Relationship Registers/README.md` | 1160 | `4149b405131c6752d343badea04ec7f83d1c231e9d328e2292009740fc665bf0` | `REFERENCE_DRIVE` |
+| `1Z7UPnnWeFoO2tpXxv1NfvWtcMkPwt63V` | `Youjo Senki/06 Character Modeling and Reconstruction/04 QA and Simulation/README.md` | 1224 | `43a09f35d735cd04edff32e127cc843e0b3d6626ade794687c1c29f6a06263b1` | `REFERENCE_DRIVE` |
+
+Reference-only structural folders:
+
+| Drive ID | Source path | Revision-record SHA-256 | Disposition |
+|---|---|---|---|
+| `17UvtZCM9QBQdFtqKjDsebZfQXsuB2idH` | `Youjo Senki` | `3b8505bee9a6a629e32a371d939c79e2b8ced0002609fcd857c8254674b7d307` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4` | `Youjo Senki/06 Character Modeling and Reconstruction` | `7acf416b2bb5df2db3421f1efa65920e4dfc070f06daf1cee940793a15f3e8c8` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1Ul_BbZkw9UkSOrDik3hmWVfcK84WWGvW` | `Youjo Senki/06 Character Modeling and Reconstruction/00 Frameworks and Methods` | `6c6d377bdb5d4a3473eb90adc61d3c8b54fe7ff5893e7acd964fb63ed450db8b` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1aDiFqWjWHZ53xX-lBvjMLfA6eN89Z7SZ` | `Youjo Senki/06 Character Modeling and Reconstruction/01 Evidence and Locators` | `4694c2765e4f9a457d6afd8caf46b1752986ef9e30eb6413ac9b86da2e8c2a1c` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1AMNfngVWTSm_4O0XadlJjHWjR8hMw21X` | `Youjo Senki/06 Character Modeling and Reconstruction/02 Character Models` | `ff4dd10ae7d3de408e1ff6004dc1eea461877e65e74fe05a7d7e2aeee51565a3` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1TomsYaw1BmQMRp-JuMils2PeHzl375uo` | `Youjo Senki/06 Character Modeling and Reconstruction/03 Relationship Registers` | `553c8cc09c491a282515fa8e430db5caa8272ce681c23e699985d028dffa6fc1` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1dPqF3RjqawccCi8LA59QVMXsp2KDvH63` | `Youjo Senki/06 Character Modeling and Reconstruction/04 QA and Simulation` | `13b0f0eff615c0875ad759c985e3ecdbf07359ef4233cf72ee22e00a03bd1fa6` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1q1xEv83Ld8KGENT_cZTN3OhAzjoFqzzs` | `Youjo Senki/V2 Analysis` | `bdba3156297b9a2761f0ab9301620a77c38098bb8af758e5e8a98ac1faaa2e18` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
 
 ## Default exclusions retained
 

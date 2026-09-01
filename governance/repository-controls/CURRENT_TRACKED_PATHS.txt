@@ -167,6 +167,22 @@ series/the-idolmaster-cinderella-girls-u149/V1 Analysis/04 Character and Special
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/06 Full-Series Synthesis/U149_FULL_SERIES_SYNTHESIS.md
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/90 Conversation Archives/Manga and anime discussions - U149 Deep Analysis - Full Transcript.md
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/MANIFEST.md
+series/youjo-senki/CURRENT_STATE_AND_CORPUS_MAP.md
+series/youjo-senki/V2 Analysis/00_README_AND_CORPUS_MAP.md
+series/youjo-senki/V2 Analysis/01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md
+series/youjo-senki/V2 Analysis/02_TANYA_DEGURECHAFF_CHARACTER_DEEP_DIVE.md
+series/youjo-senki/V2 Analysis/03_IMPERIAL_PROFESSIONALS_RELATIONSHIPS_AND_COMMAND_CULTURE.md
+series/youjo-senki/V2 Analysis/04_COUNTERPERSPECTIVES_ENEMIES_ALLIES_AND_PARALLEL_PROFESSIONALS.md
+series/youjo-senki/V2 Analysis/05_POLITICS_INSTITUTIONS_STATECRAFT_AND_WAR_TERMINATION.md
+series/youjo-senki/V2 Analysis/06_STRATEGY_DOCTRINE_LOGISTICS_AND_ORGANIZATIONAL_LEARNING.md
+series/youjo-senki/V2 Analysis/07_ETHICS_LAW_AUTONOMY_AND_VIOLENCE.md
+series/youjo-senki/V2 Analysis/08_FAITH_BEING_X_MAGIC_TECHNOLOGY_AND_BODILY_AUTHORSHIP.md
+series/youjo-senki/V2 Analysis/09_NARRATION_LANGUAGE_HISTORIOGRAPHY_GENRE_AND_MOTIFS.md
+series/youjo-senki/V2 Analysis/10_COMPARATIVE_REFERENCE_AND_OPEN_QUESTIONS.md
+series/youjo-senki/V2 Analysis/11_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+series/youjo-senki/V2 Analysis/12_JAPANESE_ENGLISH_TRANSLATION_AUDIT_LEDGER.md
+series/youjo-senki/V2 Analysis/FRAMEWORK_MANIFEST.md
+series/youjo-senki/V2 Analysis/V2_MIGRATION_AUDIT.md
 studies/README.md
 studies/comparative-media/Mass Effect/01 Character Monographs/MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md
 studies/comparative-media/Mass Effect/01 Character Monographs/MASS_EFFECT_RENEGADE_SHEPARD_CHARACTER_MONOGRAPH.md

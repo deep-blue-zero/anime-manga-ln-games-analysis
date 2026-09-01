@@ -84,6 +84,18 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T05_BLUE_ARCHIVE",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "youjo-senki",
+      "stable_slug": "youjo-senki",
+      "canonical_title": "YOUJO SENKI",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/youjo-senki/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T06_V2_ANALYTICAL_CORPUS",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
     }
   ]
 }
