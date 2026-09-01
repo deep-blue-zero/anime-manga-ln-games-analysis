@@ -74,6 +74,29 @@ class PhaseValidationTests(unittest.TestCase):
             failures,
         )
 
+    def test_repository_audit_workflow_rejects_shallow_history(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        baseline = (ROOT / path).read_bytes()
+        complete_fetch = b'git fetch --no-tags origin "${GITHUB_SHA}"'
+        shallow_fetch = b'git fetch --no-tags --depth=2 origin "${GITHUB_SHA}"'
+        self.assertIn(complete_fetch, baseline)
+        snapshot = GitSnapshot(
+            ROOT,
+            "IN_MEMORY",
+            {
+                path: SnapshotEntry(
+                    path,
+                    "100644",
+                    baseline.replace(complete_fetch, shallow_fetch, 1),
+                )
+            },
+        )
+        failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path]})
+        self.assertIn(
+            "repository-audit workflow contains prohibited capability: --depth",
+            failures,
+        )
+
     def test_historical_g3_commit_exact_set(self) -> None:
         snapshot = GitSnapshot.from_commit(ROOT, G3_BOUND_COMMIT)
         expected = read_manifest_from_snapshot(snapshot, G3_MANIFEST)

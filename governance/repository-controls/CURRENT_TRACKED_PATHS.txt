@@ -21,6 +21,7 @@ governance/MANGA_ANIME_CORPUS_INDEX.md
 governance/REPOSITORY_STRUCTURE.md
 governance/policies/ARTIFACT_ELIGIBILITY.md
 governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md
+governance/policies/RECURRING_TRANCHE_PROCESS.md
 governance/policies/REPOSITORY_CONTROLS.md
 governance/reports/ARTIFACT_EXCLUSION_REPORT.md
 governance/repository-controls/CURRENT_TRACKED_PATHS.txt

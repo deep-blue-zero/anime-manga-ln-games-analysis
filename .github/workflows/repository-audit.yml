@@ -27,9 +27,10 @@ jobs:
           set -euo pipefail
           git init .
           git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
-          git fetch --no-tags --depth=2 origin "${GITHUB_SHA}"
+          git fetch --no-tags origin "${GITHUB_SHA}"
           git checkout --detach FETCH_HEAD
           test "$(git rev-parse HEAD)" = "${GITHUB_SHA}"
+          test "$(git rev-parse --is-shallow-repository)" = "false"
 
       - name: Install hash-locked validation dependencies
         shell: bash
@@ -39,9 +40,12 @@ jobs:
 
       - name: Validate the exact commit
         shell: bash
+        env:
+          MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"
         run: |
           set -euo pipefail
           python tools/validate_repository.py --phase current --snapshot commit --commit "${GITHUB_SHA}" --repo .
           python tools/generate_character_index.py --check --snapshot commit --commit "${GITHUB_SHA}" --repo .
+          mkdir -p "${MANGA_ANIME_TEST_TMP}"
           python -m unittest discover -s tools/tests -p "test_*.py"
           git show --check --format= "${GITHUB_SHA}"

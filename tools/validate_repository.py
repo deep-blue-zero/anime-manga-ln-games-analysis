@@ -216,10 +216,13 @@ def validate_audit_workflow(
         "  workflow_dispatch:",
         "permissions:\n  contents: read",
         "runs-on: ubuntu-24.04",
-        "git fetch --no-tags --depth=2",
+        'MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"',
+        'git fetch --no-tags origin "${GITHUB_SHA}"',
+        'test "$(git rev-parse --is-shallow-repository)" = "false"',
         "--require-hashes",
         "tools/validate_repository.py",
         "tools/generate_character_index.py --check",
+        'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
         "python -m unittest discover",
         'git show --check --format= "${GITHUB_SHA}"',
     )
@@ -239,6 +242,10 @@ def validate_audit_workflow(
         "actions/upload-artifact",
         "GITHUB_TOKEN",
         "gh ",
+        "--depth",
+        "--deepen",
+        "--shallow-exclude",
+        "--shallow-since",
     )
     for fragment in forbidden_fragments:
         if fragment in text:
