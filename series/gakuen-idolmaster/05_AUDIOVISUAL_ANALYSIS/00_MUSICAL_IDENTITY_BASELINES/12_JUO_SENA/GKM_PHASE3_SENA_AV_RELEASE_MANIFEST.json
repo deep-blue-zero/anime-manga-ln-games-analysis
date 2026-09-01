@@ -1,0 +1,65 @@
+{
+  "series": "GKM",
+  "character": "Juo Sena / 十王星南",
+  "release": "GAKUEN_IDOLMASTER_PHASE3_SENA_COMPLETE_AUDIOVISUAL_BASELINE",
+  "generation": "V2",
+  "status": "canonical",
+  "last_updated": "2026-08-16",
+  "source_media_included": false,
+  "artifacts": [
+    {
+      "filename": "GKM_SENA_COMPLETE_AUDIOVISUAL_BASELINE.md",
+      "bytes": 34877,
+      "sha256": "9ac0a9627cf83ff38456aac55985bb940b77a9463792e1985c0e26e112eb50d8",
+      "word_count": 4988
+    },
+    {
+      "filename": "GKM_SENA_DIALOGUE_VOICE_ACTING_CLOSE_READING.md",
+      "bytes": 12643,
+      "sha256": "11d8f8eb8abf33ad856b8fe1c8500754dbc867d095d923c18275d2afbed32d19",
+      "word_count": 1811
+    },
+    {
+      "filename": "GKM_SENA_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md",
+      "bytes": 11085,
+      "sha256": "ff7196e9ae569cc1d4c4193bf837321ccd6b8d20b512c7dcbae1f3691a02b3d2",
+      "word_count": 1525
+    },
+    {
+      "filename": "GKM_SENA_AV_EVIDENCE_AND_METRICS_MATRIX.md",
+      "bytes": 9351,
+      "sha256": "2f94a3af28f933d1a496686577f2ea5c110941aca6634e0e26b75ac0b5956304",
+      "word_count": 1508
+    },
+    {
+      "filename": "GKM_CORE_12_JUO_SENA_AV_REVISION_ADDENDUM.md",
+      "bytes": 4567,
+      "sha256": "970356ee8c31d8db1b12965111cd3c7bd33252a51ce0200b6d6565bdd0fdf8cc",
+      "word_count": 664
+    },
+    {
+      "filename": "GKM_PHASE3_SENA_AUDIOVISUAL_COMPLETION_REPORT.md",
+      "bytes": 3455,
+      "sha256": "d542b06ac5d5c9aa9f22cca388f3961daea7eadfd79b2ee1911217f28af52dca",
+      "word_count": 390
+    },
+    {
+      "filename": "GKM_PHASE3_SENA_AUDIOVISUAL_SOURCE_MANIFEST.json",
+      "bytes": 35742,
+      "sha256": "d324274794b513941f9735349fbbd1c089b5711dd8f22e3f8cd04f173dc1a55e",
+      "word_count": null
+    },
+    {
+      "filename": "GKM_PHASE3_SENA_AV_DELIVERY_AUDIT.md",
+      "bytes": 2784,
+      "sha256": "d216e2d8bbb5502b1a640c6b2a299b14ed39c3dbe8f30125f40637a32434a864",
+      "word_count": 366
+    },
+    {
+      "filename": "GKM_PHASE3_SENA_AV_TECHNICAL_METRICS_APPENDIX.md",
+      "bytes": 2833,
+      "sha256": "fd68cd5b1f403ce2a637c6b30e513c36cd2586f7b856b83908a72db5e95d21db",
+      "word_count": 521
+    }
+  ]
+}

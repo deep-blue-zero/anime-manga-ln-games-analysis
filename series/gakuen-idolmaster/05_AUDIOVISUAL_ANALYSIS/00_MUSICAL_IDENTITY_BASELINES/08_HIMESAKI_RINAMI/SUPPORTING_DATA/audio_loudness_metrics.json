@@ -1,0 +1,98 @@
+{
+  "RINAMI-P01": {
+    "integrated_lufs": -14.9,
+    "loudness_range_lu": 6.0,
+    "true_peak_dbfs": -0.4,
+    "status": "ok"
+  },
+  "RINAMI-P02": {
+    "integrated_lufs": -8.2,
+    "loudness_range_lu": 4.0,
+    "true_peak_dbfs": 1.3,
+    "status": "ok"
+  },
+  "RINAMI-P03": {
+    "integrated_lufs": -15.4,
+    "loudness_range_lu": 12.2,
+    "true_peak_dbfs": -0.0,
+    "status": "ok"
+  },
+  "RINAMI-P04": {
+    "integrated_lufs": -9.7,
+    "loudness_range_lu": 6.1,
+    "true_peak_dbfs": 0.4,
+    "status": "ok"
+  },
+  "RINAMI-P05": {
+    "integrated_lufs": -13.0,
+    "loudness_range_lu": 4.4,
+    "true_peak_dbfs": -0.4,
+    "status": "ok"
+  },
+  "RINAMI-P06": {
+    "integrated_lufs": -14.2,
+    "loudness_range_lu": 2.1,
+    "true_peak_dbfs": -1.1,
+    "status": "ok"
+  },
+  "RINAMI-P07": {
+    "integrated_lufs": -13.4,
+    "loudness_range_lu": 3.0,
+    "true_peak_dbfs": -0.4,
+    "status": "ok"
+  },
+  "RINAMI-P08": {
+    "integrated_lufs": -14.1,
+    "loudness_range_lu": 3.8,
+    "true_peak_dbfs": -0.4,
+    "status": "ok"
+  },
+  "RINAMI-P09": {
+    "integrated_lufs": -14.0,
+    "loudness_range_lu": 5.7,
+    "true_peak_dbfs": -0.2,
+    "status": "ok"
+  },
+  "RINAMI-P10": {
+    "integrated_lufs": -12.7,
+    "loudness_range_lu": 5.6,
+    "true_peak_dbfs": -0.1,
+    "status": "ok"
+  },
+  "RINAMI-P11": {
+    "integrated_lufs": -10.3,
+    "loudness_range_lu": 4.1,
+    "true_peak_dbfs": 0.1,
+    "status": "ok"
+  },
+  "RINAMI-P12": {
+    "integrated_lufs": -9.1,
+    "loudness_range_lu": 5.2,
+    "true_peak_dbfs": 1.3,
+    "status": "ok"
+  },
+  "RINAMI-P13": {
+    "integrated_lufs": -11.6,
+    "loudness_range_lu": 2.1,
+    "true_peak_dbfs": -0.4,
+    "status": "ok"
+  },
+  "RINAMI-P14": {
+    "integrated_lufs": -13.7,
+    "loudness_range_lu": 4.8,
+    "true_peak_dbfs": -0.2,
+    "status": "ok"
+  },
+  "RINAMI-P15": {
+    "integrated_lufs": -13.6,
+    "loudness_range_lu": 5.5,
+    "true_peak_dbfs": 0.1,
+    "status": "ok"
+  },
+  "RINAMI-P16": {
+    "integrated_lufs": -16.5,
+    "loudness_range_lu": 4.8,
+    "true_peak_dbfs": -6.2,
+    "status": "ok"
+  }
+}

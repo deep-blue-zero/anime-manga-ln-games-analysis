@@ -1,0 +1,110 @@
+[
+  {
+    "clip": "nana_plain_e16",
+    "duration_s": 22.69,
+    "rms_dbfs": -27.75,
+    "f0_median_hz": 377.5,
+    "f0_p10_hz": 202.6,
+    "f0_p90_hz": 558.0,
+    "f0_range_80pct_hz": 355.4,
+    "voiced_fraction": 0.543,
+    "intensity_median_db": 58.0,
+    "intensity_p90_db": 71.3
+  },
+  {
+    "clip": "nana_usamin_e16",
+    "duration_s": 49.05,
+    "rms_dbfs": -22.65,
+    "f0_median_hz": 386.5,
+    "f0_p10_hz": 104.8,
+    "f0_p90_hz": 570.0,
+    "f0_range_80pct_hz": 465.1,
+    "voiced_fraction": 0.601,
+    "intensity_median_db": 70.2,
+    "intensity_p90_db": 74.8
+  },
+  {
+    "clip": "rin_e20",
+    "duration_s": 14.52,
+    "rms_dbfs": -31.69,
+    "f0_median_hz": 246.2,
+    "f0_p10_hz": 183.9,
+    "f0_p90_hz": 394.6,
+    "f0_range_80pct_hz": 210.7,
+    "voiced_fraction": 0.412,
+    "intensity_median_db": 51.8,
+    "intensity_p90_db": 67.5
+  },
+  {
+    "clip": "uzuki_e01",
+    "duration_s": 2.25,
+    "rms_dbfs": -24.11,
+    "f0_median_hz": 354.0,
+    "f0_p10_hz": 110.4,
+    "f0_p90_hz": 516.3,
+    "f0_range_80pct_hz": 405.9,
+    "voiced_fraction": 0.751,
+    "intensity_median_db": 68.7,
+    "intensity_p90_db": 73.3
+  },
+  {
+    "clip": "uzuki_e20",
+    "duration_s": 17.27,
+    "rms_dbfs": -35.81,
+    "f0_median_hz": 406.8,
+    "f0_p10_hz": 232.6,
+    "f0_p90_hz": 496.1,
+    "f0_range_80pct_hz": 263.5,
+    "voiced_fraction": 0.201,
+    "intensity_median_db": 29.5,
+    "intensity_p90_db": 63.5
+  },
+  {
+    "clip": "uzuki_e21",
+    "duration_s": 2.13,
+    "rms_dbfs": -24.97,
+    "f0_median_hz": 334.4,
+    "f0_p10_hz": 66.1,
+    "f0_p90_hz": 557.4,
+    "f0_range_80pct_hz": 491.3,
+    "voiced_fraction": 0.785,
+    "intensity_median_db": 66.4,
+    "intensity_p90_db": 73.5
+  },
+  {
+    "clip": "uzuki_e23",
+    "duration_s": 2.13,
+    "rms_dbfs": -29.06,
+    "f0_median_hz": 454.0,
+    "f0_p10_hz": 391.3,
+    "f0_p90_hz": 545.0,
+    "f0_range_80pct_hz": 153.7,
+    "voiced_fraction": 0.636,
+    "intensity_median_db": 63.3,
+    "intensity_p90_db": 68.8
+  },
+  {
+    "clip": "uzuki_e24",
+    "duration_s": 2.75,
+    "rms_dbfs": -22.96,
+    "f0_median_hz": 367.3,
+    "f0_p10_hz": 309.1,
+    "f0_p90_hz": 564.6,
+    "f0_range_80pct_hz": 255.5,
+    "voiced_fraction": 0.568,
+    "intensity_median_db": 66.8,
+    "intensity_p90_db": 75.6
+  },
+  {
+    "clip": "uzuki_e25",
+    "duration_s": 2.42,
+    "rms_dbfs": -27.22,
+    "f0_median_hz": 448.0,
+    "f0_p10_hz": 373.9,
+    "f0_p90_hz": 571.1,
+    "f0_range_80pct_hz": 197.2,
+    "voiced_fraction": 0.555,
+    "intensity_median_db": 64.2,
+    "intensity_p90_db": 71.3
+  }
+]

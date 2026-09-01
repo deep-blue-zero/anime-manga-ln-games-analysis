@@ -1,0 +1,3 @@
+# JP Audio Acquisition Audit
+
+Status: `ACQUIRED`; asset index: `RESOLVED`; integrity: `PASS`. AzurLane-AssetDownloader `4.7.1` acquired JP client versions `{'CV': '1243', 'AZL': '9.3.386'}` with a documented `cue` whitelist; the post-download integrity pass completed before cataloging. The catalog contains 6609 stream records from 4694 source files, and 344 unique target-relevant source bundles were archived by SHA-256. Drive publication manifest `1TFT1bkGIl6_QGsQrUjwDIWDPH60WRq7U` currently records 311 verified source-bundle files; 33 newly added bundles remain pending. `vgmstream` r2083 identified CRI ACB/UTF containers and CRI HCA subsongs without altering original bytes. The EN-only community mirror was not ingested.

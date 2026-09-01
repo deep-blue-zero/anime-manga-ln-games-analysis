@@ -1,0 +1,10003 @@
+{
+  "release": "CG2015_Definitive_Analytical_Corpus_v1.0",
+  "unique_locators": 1619,
+  "locators": [
+    {
+      "locator": "0.904",
+      "claim_ids": [
+        "CG-PERF-0037"
+      ]
+    },
+    {
+      "locator": "10:43.60-10:44.52",
+      "claim_ids": [
+        "CG-INST-0016"
+      ]
+    },
+    {
+      "locator": "14:30-16:40",
+      "claim_ids": [
+        "CG-PERF-0044"
+      ]
+    },
+    {
+      "locator": "A little bit of courage shows your way.",
+      "claim_ids": [
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "CG-CIND-0010",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "CG-CIND-0011",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "CG-CIND-0012",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "CG-CIND-0013",
+      "claim_ids": [
+        "CG-MOTIF-0029"
+      ]
+    },
+    {
+      "locator": "CG-MOTIF-0015",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "CG-MOTIF-0018",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "CG-PERF-0020",
+      "claim_ids": [
+        "CG-PERF-0028"
+      ]
+    },
+    {
+      "locator": "CG2015_EP16_DEEP_READING_V2.md",
+      "claim_ids": [
+        "CG-VOICE-0023"
+      ]
+    },
+    {
+      "locator": "E01-ASS0001-0013",
+      "claim_ids": [
+        "CG-MOTIF-0013"
+      ]
+    },
+    {
+      "locator": "E01-ASS0001-0019",
+      "claim_ids": [
+        "CG-CIND-0001",
+        "CG-CIND-0002"
+      ]
+    },
+    {
+      "locator": "E01-ASS0014-0035",
+      "claim_ids": [
+        "CG-PERF-0014"
+      ]
+    },
+    {
+      "locator": "E01-ASS0042-0045",
+      "claim_ids": [
+        "CG-CHAR-0001"
+      ]
+    },
+    {
+      "locator": "E01-ASS0121-0124",
+      "claim_ids": [
+        "CG-MOTIF-0001"
+      ]
+    },
+    {
+      "locator": "E01-ASS0160-0171",
+      "claim_ids": [
+        "CG-PROD-0001"
+      ]
+    },
+    {
+      "locator": "E01-ASS0209-0218",
+      "claim_ids": [
+        "CG-CHAR-0002"
+      ]
+    },
+    {
+      "locator": "E01-ASS0279-0285",
+      "claim_ids": [
+        "CG-PROD-0001"
+      ]
+    },
+    {
+      "locator": "E01-ASS0279-0286",
+      "claim_ids": [
+        "CG-CHAR-0002"
+      ]
+    },
+    {
+      "locator": "E01-ASS0279-0448",
+      "claim_ids": [
+        "CG-ARCH-0001"
+      ]
+    },
+    {
+      "locator": "E01-ASS0289-0297",
+      "claim_ids": [
+        "CG-PROD-0002"
+      ]
+    },
+    {
+      "locator": "E01-ASS0392-0448",
+      "claim_ids": [
+        "CG-REL-0001",
+        "CG-PROD-0007"
+      ]
+    },
+    {
+      "locator": "E01-ASS0413-0438",
+      "claim_ids": [
+        "CG-CHAR-0001"
+      ]
+    },
+    {
+      "locator": "E01-ASS0448-0450",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-ASS0450-0453",
+      "claim_ids": [
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-AUDIO00:00-00:09.57",
+      "claim_ids": [
+        "CG-MOTIF-0013"
+      ]
+    },
+    {
+      "locator": "E01-AUDIO00:08-02:12.30",
+      "claim_ids": [
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-AUDIO00:48-02:12.30",
+      "claim_ids": [
+        "CG-PERF-0014"
+      ]
+    },
+    {
+      "locator": "E01-AUDIO22:42-23:01.28",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-AUDIO22:42-23:22.72",
+      "claim_ids": [
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-CS01-02",
+      "claim_ids": [
+        "CG-MOTIF-0013"
+      ]
+    },
+    {
+      "locator": "E01-CS01-04",
+      "claim_ids": [
+        "CG-CIND-0001",
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-CS02-04",
+      "claim_ids": [
+        "CG-PERF-0014"
+      ]
+    },
+    {
+      "locator": "E01-CS11-12",
+      "claim_ids": [
+        "CG-MOTIF-0001"
+      ]
+    },
+    {
+      "locator": "E01-CS29-31",
+      "claim_ids": [
+        "CG-REL-0001"
+      ]
+    },
+    {
+      "locator": "E01-CS31-32",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-CS32-33",
+      "claim_ids": [
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_000004",
+      "claim_ids": [
+        "CG-MOTIF-0013"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_000007",
+      "claim_ids": [
+        "CG-MOTIF-0013"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_000010",
+      "claim_ids": [
+        "CG-MOTIF-0013",
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_000019",
+      "claim_ids": [
+        "CG-MOTIF-0013"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_000057",
+      "claim_ids": [
+        "CG-PERF-0014"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_000061",
+      "claim_ids": [
+        "CG-PERF-0014",
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_000075",
+      "claim_ids": [
+        "CG-PERF-0014"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_000084",
+      "claim_ids": [
+        "CG-PERF-0014"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001059",
+      "claim_ids": [
+        "CG-REL-0001"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001112",
+      "claim_ids": [
+        "CG-REL-0001"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001136",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001139",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001140",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001142",
+      "claim_ids": [
+        "CG-MOTIF-0014",
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001146",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001147",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001149",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001152",
+      "claim_ids": [
+        "CG-MOTIF-0014",
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001166",
+      "claim_ids": [
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001168",
+      "claim_ids": [
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-FRAME_001176",
+      "claim_ids": [
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E01-SCENE03",
+      "claim_ids": [
+        "CG-MOTIF-0001"
+      ]
+    },
+    {
+      "locator": "E01-T00:00-00:46.23",
+      "claim_ids": [
+        "CG-MOTIF-0013"
+      ]
+    },
+    {
+      "locator": "E01-T00:09.57-01:13.97",
+      "claim_ids": [
+        "CG-CIND-0001",
+        "CG-CIND-0002"
+      ]
+    },
+    {
+      "locator": "E01-T00:51.70-02:12.15",
+      "claim_ids": [
+        "CG-PERF-0014"
+      ]
+    },
+    {
+      "locator": "E01-T02:41.60-02:56.53",
+      "claim_ids": [
+        "CG-CHAR-0001"
+      ]
+    },
+    {
+      "locator": "E01-T06:58.65-07:09.31",
+      "claim_ids": [
+        "CG-MOTIF-0001"
+      ]
+    },
+    {
+      "locator": "E01-T09:10.07-09:48.03",
+      "claim_ids": [
+        "CG-PROD-0001"
+      ]
+    },
+    {
+      "locator": "E01-T11:10.07-11:33",
+      "claim_ids": [
+        "CG-CHAR-0002"
+      ]
+    },
+    {
+      "locator": "E01-T14:27.81-14:47.63",
+      "claim_ids": [
+        "CG-PROD-0001"
+      ]
+    },
+    {
+      "locator": "E01-T14:27.81-14:54",
+      "claim_ids": [
+        "CG-CHAR-0002"
+      ]
+    },
+    {
+      "locator": "E01-T14:27.81-22:42.38",
+      "claim_ids": [
+        "CG-ARCH-0001"
+      ]
+    },
+    {
+      "locator": "E01-T15:03.92-15:38.21",
+      "claim_ids": [
+        "CG-PROD-0002"
+      ]
+    },
+    {
+      "locator": "E01-T19:35.11-22:42.38",
+      "claim_ids": [
+        "CG-REL-0001",
+        "CG-PROD-0007"
+      ]
+    },
+    {
+      "locator": "E01-T20:40.72-22:04",
+      "claim_ids": [
+        "CG-CHAR-0001"
+      ]
+    },
+    {
+      "locator": "E01-T22:37.09-23:01.28",
+      "claim_ids": [
+        "CG-MOTIF-0014"
+      ]
+    },
+    {
+      "locator": "E01-T23:01.28-23:22.72",
+      "claim_ids": [
+        "CG-CIND-0009"
+      ]
+    },
+    {
+      "locator": "E02-ASS0001-0006",
+      "claim_ids": [
+        "CG-INST-0001"
+      ]
+    },
+    {
+      "locator": "E02-ASS0079-0091",
+      "claim_ids": [
+        "CG-CHAR-0003"
+      ]
+    },
+    {
+      "locator": "E02-ASS0212-0223",
+      "claim_ids": [
+        "CG-PERF-0015"
+      ]
+    },
+    {
+      "locator": "E02-ASS0278-0289",
+      "claim_ids": [
+        "CG-MEDIA-0001"
+      ]
+    },
+    {
+      "locator": "E02-ASS0278-0464",
+      "claim_ids": [
+        "CG-ARCH-0001"
+      ]
+    },
+    {
+      "locator": "E02-ASS0353-0356",
+      "claim_ids": [
+        "CG-CHAR-0004"
+      ]
+    },
+    {
+      "locator": "E02-ASS0413-0437",
+      "claim_ids": [
+        "CG-MEDIA-0001"
+      ]
+    },
+    {
+      "locator": "E02-ASS0413-0464",
+      "claim_ids": [
+        "CG-PROD-0003",
+        "CG-PROD-0007"
+      ]
+    },
+    {
+      "locator": "E02-ASS0436-0464",
+      "claim_ids": [
+        "CG-CHAR-0003",
+        "CG-REL-0002"
+      ]
+    },
+    {
+      "locator": "E02-ASS0485-0490",
+      "claim_ids": [
+        "CG-PROD-0004"
+      ]
+    },
+    {
+      "locator": "E02-ASS0522-0525",
+      "claim_ids": [
+        "CG-MOTIF-0015"
+      ]
+    },
+    {
+      "locator": "E02-ASS0522-0538",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E02-ASS0526-0538",
+      "claim_ids": [
+        "CG-CIND-0010"
+      ]
+    },
+    {
+      "locator": "E02-AUDIO09:34-10:23.64",
+      "claim_ids": [
+        "CG-PERF-0015"
+      ]
+    },
+    {
+      "locator": "E02-AUDIO22:27.7-22:44.7",
+      "claim_ids": [
+        "CG-MOTIF-0015"
+      ]
+    },
+    {
+      "locator": "E02-AUDIO22:27.7-23:51.75",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E02-AUDIO22:44.68-23:51.75",
+      "claim_ids": [
+        "CG-CIND-0010"
+      ]
+    },
+    {
+      "locator": "E02-CS01-14",
+      "claim_ids": [
+        "CG-INST-0001"
+      ]
+    },
+    {
+      "locator": "E02-CS30-31",
+      "claim_ids": [
+        "CG-MEDIA-0001"
+      ]
+    },
+    {
+      "locator": "E02-CS30-34",
+      "claim_ids": [
+        "CG-PROD-0003"
+      ]
+    },
+    {
+      "locator": "E02-CS31-34",
+      "claim_ids": [
+        "CG-REL-0002"
+      ]
+    },
+    {
+      "locator": "E02-CS35",
+      "claim_ids": [
+        "CG-PROD-0004"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_000385",
+      "claim_ids": [
+        "CG-INST-0001"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_000537",
+      "claim_ids": [
+        "CG-PERF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_000553",
+      "claim_ids": [
+        "CG-PERF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_000567",
+      "claim_ids": [
+        "CG-PERF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_000576",
+      "claim_ids": [
+        "CG-PERF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_000590",
+      "claim_ids": [
+        "CG-PERF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_000592",
+      "claim_ids": [
+        "CG-PERF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_000986",
+      "claim_ids": [
+        "CG-MEDIA-0001",
+        "CG-PROD-0003"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001089",
+      "claim_ids": [
+        "CG-PROD-0003"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001138",
+      "claim_ids": [
+        "CG-PROD-0003"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001201",
+      "claim_ids": [
+        "CG-PROD-0004"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001282",
+      "claim_ids": [
+        "CG-MOTIF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001289",
+      "claim_ids": [
+        "CG-MOTIF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001291",
+      "claim_ids": [
+        "CG-MOTIF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001294",
+      "claim_ids": [
+        "CG-MOTIF-0015"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001296",
+      "claim_ids": [
+        "CG-MOTIF-0015",
+        "CG-CIND-0010"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001301",
+      "claim_ids": [
+        "CG-CIND-0010"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001306",
+      "claim_ids": [
+        "CG-CIND-0010"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001309",
+      "claim_ids": [
+        "CG-CIND-0010"
+      ]
+    },
+    {
+      "locator": "E02-FRAME_001318",
+      "claim_ids": [
+        "CG-CIND-0010"
+      ]
+    },
+    {
+      "locator": "E02-SCENE03",
+      "claim_ids": [
+        "CG-PERF-0015"
+      ]
+    },
+    {
+      "locator": "E02-T00:04.23-00:20",
+      "claim_ids": [
+        "CG-INST-0001"
+      ]
+    },
+    {
+      "locator": "E02-T04:10.90-04:54.11",
+      "claim_ids": [
+        "CG-CHAR-0003"
+      ]
+    },
+    {
+      "locator": "E02-T12:44-13:10",
+      "claim_ids": [
+        "CG-MEDIA-0001"
+      ]
+    },
+    {
+      "locator": "E02-T12:44-20:01.52",
+      "claim_ids": [
+        "CG-ARCH-0001"
+      ]
+    },
+    {
+      "locator": "E02-T15:16-15:32",
+      "claim_ids": [
+        "CG-CHAR-0004"
+      ]
+    },
+    {
+      "locator": "E02-T18:15.62-18:58",
+      "claim_ids": [
+        "CG-MEDIA-0001"
+      ]
+    },
+    {
+      "locator": "E02-T18:15.62-20:01.52",
+      "claim_ids": [
+        "CG-PROD-0003",
+        "CG-PROD-0007"
+      ]
+    },
+    {
+      "locator": "E02-T18:55-20:01.52",
+      "claim_ids": [
+        "CG-CHAR-0003",
+        "CG-REL-0002"
+      ]
+    },
+    {
+      "locator": "E02-T20:48-21:03",
+      "claim_ids": [
+        "CG-PROD-0004"
+      ]
+    },
+    {
+      "locator": "E03-ASS0085-0106",
+      "claim_ids": [
+        "CG-PROD-0005"
+      ]
+    },
+    {
+      "locator": "E03-ASS0122-0131",
+      "claim_ids": [
+        "CG-PERF-0001",
+        "CG-PROD-0005"
+      ]
+    },
+    {
+      "locator": "E03-ASS0122-0478",
+      "claim_ids": [
+        "CG-ARCH-0001"
+      ]
+    },
+    {
+      "locator": "E03-ASS0215",
+      "claim_ids": [
+        "CG-PERF-0001"
+      ]
+    },
+    {
+      "locator": "E03-ASS0215-0248",
+      "claim_ids": [
+        "CG-PROD-0005",
+        "CG-INST-0002"
+      ]
+    },
+    {
+      "locator": "E03-ASS0347-0363",
+      "claim_ids": [
+        "CG-VOICE-0019"
+      ]
+    },
+    {
+      "locator": "E03-ASS0354",
+      "claim_ids": [
+        "CG-CIND-0003"
+      ]
+    },
+    {
+      "locator": "E03-ASS0356-0368",
+      "claim_ids": [
+        "CG-VOICE-0001"
+      ]
+    },
+    {
+      "locator": "E03-ASS0356-0375",
+      "claim_ids": [
+        "CG-REL-0003"
+      ]
+    },
+    {
+      "locator": "E03-ASS0356-0399",
+      "claim_ids": [
+        "CG-PROD-0007"
+      ]
+    },
+    {
+      "locator": "E03-ASS0379-0399",
+      "claim_ids": [
+        "CG-REL-0004"
+      ]
+    },
+    {
+      "locator": "E03-ASS0397-0399",
+      "claim_ids": [
+        "CG-PERF-0016"
+      ]
+    },
+    {
+      "locator": "E03-ASS0400-0429",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-ASS0400-0444",
+      "claim_ids": [
+        "CG-PERF-0002"
+      ]
+    },
+    {
+      "locator": "E03-ASS0429-0445",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-ASS0478",
+      "claim_ids": [
+        "CG-PROD-0006"
+      ]
+    },
+    {
+      "locator": "E03-ASS0488-0490",
+      "claim_ids": [
+        "CG-MOTIF-0016"
+      ]
+    },
+    {
+      "locator": "E03-ASS0489",
+      "claim_ids": [
+        "CG-PERF-0003"
+      ]
+    },
+    {
+      "locator": "E03-AUDIO17:11.26-17:50.84",
+      "claim_ids": [
+        "CG-VOICE-0019"
+      ]
+    },
+    {
+      "locator": "E03-AUDIO17:14-17:43",
+      "claim_ids": [
+        "CG-VOICE-0001"
+      ]
+    },
+    {
+      "locator": "E03-AUDIO19:09.75-19:19.13",
+      "claim_ids": [
+        "CG-PERF-0016"
+      ]
+    },
+    {
+      "locator": "E03-AUDIO19:28.67-21:06.29",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-AUDIO20:23.70-20:27.00",
+      "claim_ids": [
+        "CG-MEDIA-0008"
+      ]
+    },
+    {
+      "locator": "E03-AUDIO21:06.29-21:46.58",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-AUDIO23:40.92-23:53.08",
+      "claim_ids": [
+        "CG-MOTIF-0016"
+      ]
+    },
+    {
+      "locator": "E03-CS09-27",
+      "claim_ids": [
+        "CG-PROD-0005",
+        "CG-INST-0002"
+      ]
+    },
+    {
+      "locator": "E03-CS30",
+      "claim_ids": [
+        "CG-CIND-0003"
+      ]
+    },
+    {
+      "locator": "E03-CS30-31",
+      "claim_ids": [
+        "CG-REL-0003"
+      ]
+    },
+    {
+      "locator": "E03-CS32-33",
+      "claim_ids": [
+        "CG-REL-0004"
+      ]
+    },
+    {
+      "locator": "E03-CS34-39",
+      "claim_ids": [
+        "CG-CIND-0003"
+      ]
+    },
+    {
+      "locator": "E03-CS34-40",
+      "claim_ids": [
+        "CG-PERF-0002"
+      ]
+    },
+    {
+      "locator": "E03-CS44",
+      "claim_ids": [
+        "CG-PERF-0003"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001050",
+      "claim_ids": [
+        "CG-VOICE-0019"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001051",
+      "claim_ids": [
+        "CG-VOICE-0019"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001052",
+      "claim_ids": [
+        "CG-VOICE-0019"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001056",
+      "claim_ids": [
+        "CG-VOICE-0019"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001059",
+      "claim_ids": [
+        "CG-VOICE-0019"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001062",
+      "claim_ids": [
+        "CG-VOICE-0019"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001063",
+      "claim_ids": [
+        "CG-REL-0003",
+        "CG-VOICE-0001"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001141",
+      "claim_ids": [
+        "CG-PERF-0016"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001142",
+      "claim_ids": [
+        "CG-PERF-0016"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001146",
+      "claim_ids": [
+        "CG-REL-0004",
+        "CG-PERF-0016"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001147",
+      "claim_ids": [
+        "CG-PERF-0016"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001148",
+      "claim_ids": [
+        "CG-PERF-0016"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001159",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001170",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001188",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001214",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001224",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001275",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001281",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001291",
+      "claim_ids": [
+        "CG-PERF-0017"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001292",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001296",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001308",
+      "claim_ids": [
+        "CG-PERF-0002"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001309",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001312",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001316",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001323",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001327",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001334",
+      "claim_ids": [
+        "CG-VOICE-0020"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001416",
+      "claim_ids": [
+        "CG-MOTIF-0016"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001418",
+      "claim_ids": [
+        "CG-MOTIF-0016"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001420",
+      "claim_ids": [
+        "CG-MOTIF-0016"
+      ]
+    },
+    {
+      "locator": "E03-FRAME_001426",
+      "claim_ids": [
+        "CG-MOTIF-0016"
+      ]
+    },
+    {
+      "locator": "E03-T04:40-05:35",
+      "claim_ids": [
+        "CG-PROD-0005"
+      ]
+    },
+    {
+      "locator": "E03-T06:27.53-06:58.31",
+      "claim_ids": [
+        "CG-PERF-0001",
+        "CG-PROD-0005"
+      ]
+    },
+    {
+      "locator": "E03-T06:27.53-23:16.96",
+      "claim_ids": [
+        "CG-ARCH-0001"
+      ]
+    },
+    {
+      "locator": "E03-T11:06.69-11:09.82",
+      "claim_ids": [
+        "CG-PERF-0001"
+      ]
+    },
+    {
+      "locator": "E03-T11:06.69-12:24.52",
+      "claim_ids": [
+        "CG-PROD-0005",
+        "CG-INST-0002"
+      ]
+    },
+    {
+      "locator": "E03-T17:08.80-17:11.18",
+      "claim_ids": [
+        "CG-CIND-0003"
+      ]
+    },
+    {
+      "locator": "E03-T17:14-17:43",
+      "claim_ids": [
+        "CG-VOICE-0001"
+      ]
+    },
+    {
+      "locator": "E03-T17:14-18:04",
+      "claim_ids": [
+        "CG-REL-0003"
+      ]
+    },
+    {
+      "locator": "E03-T17:14-19:19.13",
+      "claim_ids": [
+        "CG-PROD-0007"
+      ]
+    },
+    {
+      "locator": "E03-T18:20-19:19.13",
+      "claim_ids": [
+        "CG-REL-0004"
+      ]
+    },
+    {
+      "locator": "E03-T19:28.66-21:10",
+      "claim_ids": [
+        "CG-CIND-0003"
+      ]
+    },
+    {
+      "locator": "E03-T19:28.66-21:38.95",
+      "claim_ids": [
+        "CG-PERF-0002"
+      ]
+    },
+    {
+      "locator": "E03-T23:13.66-23:16.96",
+      "claim_ids": [
+        "CG-PROD-0006"
+      ]
+    },
+    {
+      "locator": "E03-T23:49.66-23:51.25",
+      "claim_ids": [
+        "CG-PERF-0003"
+      ]
+    },
+    {
+      "locator": "E04-ASS0001-0002",
+      "claim_ids": [
+        "CG-MEDIA-0008"
+      ]
+    },
+    {
+      "locator": "E04-ASS0002-0013",
+      "claim_ids": [
+        "CG-MEDIA-0002"
+      ]
+    },
+    {
+      "locator": "E04-ASS0002-0456",
+      "claim_ids": [
+        "CG-REL-0005"
+      ]
+    },
+    {
+      "locator": "E04-ASS0010-0013",
+      "claim_ids": [
+        "CG-REL-0005"
+      ]
+    },
+    {
+      "locator": "E04-ASS0042-0064",
+      "claim_ids": [
+        "CG-CHAR-0005"
+      ]
+    },
+    {
+      "locator": "E04-ASS0042-0451",
+      "claim_ids": [
+        "CG-MEDIA-0002"
+      ]
+    },
+    {
+      "locator": "E04-ASS0218-0238",
+      "claim_ids": [
+        "CG-CHAR-0006"
+      ]
+    },
+    {
+      "locator": "E04-ASS0218-0308",
+      "claim_ids": [
+        "CG-PROD-0008"
+      ]
+    },
+    {
+      "locator": "E04-ASS0242-0249",
+      "claim_ids": [
+        "CG-CHAR-0007"
+      ]
+    },
+    {
+      "locator": "E04-ASS0266-0283",
+      "claim_ids": [
+        "CG-REL-0005"
+      ]
+    },
+    {
+      "locator": "E04-ASS0316-0322",
+      "claim_ids": [
+        "CG-MOTIF-0017"
+      ]
+    },
+    {
+      "locator": "E04-ASS0316-0345",
+      "claim_ids": [
+        "CG-CHAR-0007"
+      ]
+    },
+    {
+      "locator": "E04-ASS0372-0382",
+      "claim_ids": [
+        "CG-CHAR-0008"
+      ]
+    },
+    {
+      "locator": "E04-ASS0401-0423",
+      "claim_ids": [
+        "CG-CHAR-0009"
+      ]
+    },
+    {
+      "locator": "E04-ASS0437-0451",
+      "claim_ids": [
+        "CG-PROD-0008"
+      ]
+    },
+    {
+      "locator": "E04-ASS0475-0496",
+      "claim_ids": [
+        "CG-INST-0003"
+      ]
+    },
+    {
+      "locator": "E04-ASS0495-0509",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E04-AUDIO00:02.15-00:06.32",
+      "claim_ids": [
+        "CG-MEDIA-0008"
+      ]
+    },
+    {
+      "locator": "E04-AUDIO14:35.35-14:56.83",
+      "claim_ids": [
+        "CG-MOTIF-0017"
+      ]
+    },
+    {
+      "locator": "E04-AUDIO22:39-23:52.24",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E04-CS01-33",
+      "claim_ids": [
+        "CG-MEDIA-0002"
+      ]
+    },
+    {
+      "locator": "E04-CS08-09",
+      "claim_ids": [
+        "CG-CHAR-0005"
+      ]
+    },
+    {
+      "locator": "E04-CS19-20",
+      "claim_ids": [
+        "CG-CHAR-0006"
+      ]
+    },
+    {
+      "locator": "E04-CS19-33",
+      "claim_ids": [
+        "CG-PROD-0008"
+      ]
+    },
+    {
+      "locator": "E04-CS20-25",
+      "claim_ids": [
+        "CG-CHAR-0007"
+      ]
+    },
+    {
+      "locator": "E04-CS27-28",
+      "claim_ids": [
+        "CG-CHAR-0008"
+      ]
+    },
+    {
+      "locator": "E04-CS30-31",
+      "claim_ids": [
+        "CG-CHAR-0009"
+      ]
+    },
+    {
+      "locator": "E04-CS35-36",
+      "claim_ids": [
+        "CG-INST-0003"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000002",
+      "claim_ids": [
+        "CG-MEDIA-0008"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000003",
+      "claim_ids": [
+        "CG-MEDIA-0008"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000004",
+      "claim_ids": [
+        "CG-MEDIA-0008"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000007",
+      "claim_ids": [
+        "CG-MEDIA-0008"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000222",
+      "claim_ids": [
+        "CG-CHAR-0005"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000604",
+      "claim_ids": [
+        "CG-CHAR-0006"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000625",
+      "claim_ids": [
+        "CG-CHAR-0007"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000728",
+      "claim_ids": [
+        "CG-MOTIF-0017"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000730",
+      "claim_ids": [
+        "CG-MOTIF-0017"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000735",
+      "claim_ids": [
+        "CG-MOTIF-0017"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000738",
+      "claim_ids": [
+        "CG-MOTIF-0017"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000744",
+      "claim_ids": [
+        "CG-MOTIF-0017"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000749",
+      "claim_ids": [
+        "CG-MOTIF-0017"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000753",
+      "claim_ids": [
+        "CG-CHAR-0007"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000873",
+      "claim_ids": [
+        "CG-CHAR-0008"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000944",
+      "claim_ids": [
+        "CG-CHAR-0009"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_000971",
+      "claim_ids": [
+        "CG-CHAR-0009"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_001140",
+      "claim_ids": [
+        "CG-INST-0003"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_001161",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_001165",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_001166",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_001173",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_001184",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E04-FRAME_001188",
+      "claim_ids": [
+        "CG-CIND-0011"
+      ]
+    },
+    {
+      "locator": "E04-T00:06.32-00:45.53",
+      "claim_ids": [
+        "CG-MEDIA-0002"
+      ]
+    },
+    {
+      "locator": "E04-T00:30.09-00:45.53",
+      "claim_ids": [
+        "CG-REL-0005"
+      ]
+    },
+    {
+      "locator": "E04-T02:42.98-03:48.91",
+      "claim_ids": [
+        "CG-CHAR-0005"
+      ]
+    },
+    {
+      "locator": "E04-T02:42.98-20:54.36",
+      "claim_ids": [
+        "CG-MEDIA-0002"
+      ]
+    },
+    {
+      "locator": "E04-T10:30.07-11:18.91",
+      "claim_ids": [
+        "CG-CHAR-0006"
+      ]
+    },
+    {
+      "locator": "E04-T10:30.07-14:22.71",
+      "claim_ids": [
+        "CG-PROD-0008"
+      ]
+    },
+    {
+      "locator": "E04-T11:23.33-11:46.19",
+      "claim_ids": [
+        "CG-CHAR-0007"
+      ]
+    },
+    {
+      "locator": "E04-T12:28.02-13:10.06",
+      "claim_ids": [
+        "CG-REL-0005"
+      ]
+    },
+    {
+      "locator": "E04-T14:35.35-16:21.63",
+      "claim_ids": [
+        "CG-CHAR-0007"
+      ]
+    },
+    {
+      "locator": "E04-T17:22.60-18:03.90",
+      "claim_ids": [
+        "CG-CHAR-0008"
+      ]
+    },
+    {
+      "locator": "E04-T18:59.28-20:07.48",
+      "claim_ids": [
+        "CG-CHAR-0009"
+      ]
+    },
+    {
+      "locator": "E04-T20:39.43-20:54.36",
+      "claim_ids": [
+        "CG-PROD-0008"
+      ]
+    },
+    {
+      "locator": "E04-T21:50.04-22:43.68",
+      "claim_ids": [
+        "CG-INST-0003"
+      ]
+    },
+    {
+      "locator": "E05-ASS0063-0073",
+      "claim_ids": [
+        "CG-INST-0004",
+        "CG-PROD-0010"
+      ]
+    },
+    {
+      "locator": "E05-ASS0186-0195",
+      "claim_ids": [
+        "CG-INST-0005"
+      ]
+    },
+    {
+      "locator": "E05-ASS0205-0233",
+      "claim_ids": [
+        "CG-MOTIF-0002"
+      ]
+    },
+    {
+      "locator": "E05-ASS0217-0226",
+      "claim_ids": [
+        "CG-PROD-0010"
+      ]
+    },
+    {
+      "locator": "E05-ASS0281-0284",
+      "claim_ids": [
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-ASS0310-0389",
+      "claim_ids": [
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-ASS0336-0341",
+      "claim_ids": [
+        "CG-INST-0015",
+        "CG-PERF-0018"
+      ]
+    },
+    {
+      "locator": "E05-ASS0363-0374",
+      "claim_ids": [
+        "CG-CHAR-0011"
+      ]
+    },
+    {
+      "locator": "E05-ASS0448-0463",
+      "claim_ids": [
+        "CG-CHAR-0010",
+        "CG-VOICE-0002"
+      ]
+    },
+    {
+      "locator": "E05-ASS0449-0479",
+      "claim_ids": [
+        "CG-PROD-0010"
+      ]
+    },
+    {
+      "locator": "E05-ASS0454-0479",
+      "claim_ids": [
+        "CG-PROD-0009"
+      ]
+    },
+    {
+      "locator": "E05-ASS0479",
+      "claim_ids": [
+        "CG-VOICE-0002"
+      ]
+    },
+    {
+      "locator": "E05-ASS0508-0526",
+      "claim_ids": [
+        "CG-REL-0006",
+        "CG-MOTIF-0002"
+      ]
+    },
+    {
+      "locator": "E05-ASS0514-0528",
+      "claim_ids": [
+        "CG-CIND-0012"
+      ]
+    },
+    {
+      "locator": "E05-ASS0529-0538",
+      "claim_ids": [
+        "CG-CIND-0012"
+      ]
+    },
+    {
+      "locator": "E05-AUDIO14:04-14:22",
+      "claim_ids": [
+        "CG-INST-0015",
+        "CG-PERF-0018"
+      ]
+    },
+    {
+      "locator": "E05-AUDIO19:07.67-20:44.39",
+      "claim_ids": [
+        "CG-VOICE-0002"
+      ]
+    },
+    {
+      "locator": "E05-AUDIO22:31.81-23:14.19",
+      "claim_ids": [
+        "CG-CIND-0012"
+      ]
+    },
+    {
+      "locator": "E05-CS08-09",
+      "claim_ids": [
+        "CG-INST-0004"
+      ]
+    },
+    {
+      "locator": "E05-CS16",
+      "claim_ids": [
+        "CG-INST-0005"
+      ]
+    },
+    {
+      "locator": "E05-CS17-18",
+      "claim_ids": [
+        "CG-MOTIF-0002"
+      ]
+    },
+    {
+      "locator": "E05-CS21-25",
+      "claim_ids": [
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-CS24-25",
+      "claim_ids": [
+        "CG-CHAR-0011"
+      ]
+    },
+    {
+      "locator": "E05-CS30",
+      "claim_ids": [
+        "CG-CHAR-0010"
+      ]
+    },
+    {
+      "locator": "E05-CS30-31",
+      "claim_ids": [
+        "CG-PROD-0009"
+      ]
+    },
+    {
+      "locator": "E05-CS33-34",
+      "claim_ids": [
+        "CG-REL-0006",
+        "CG-MOTIF-0002"
+      ]
+    },
+    {
+      "locator": "E05-CS33-35",
+      "claim_ids": [
+        "CG-CIND-0012"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_000242",
+      "claim_ids": [
+        "CG-INST-0004"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_000549",
+      "claim_ids": [
+        "CG-INST-0005"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_000731",
+      "claim_ids": [
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_000777",
+      "claim_ids": [
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_000827",
+      "claim_ids": [
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_000842",
+      "claim_ids": [
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_000892",
+      "claim_ids": [
+        "CG-CHAR-0011",
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_001101",
+      "claim_ids": [
+        "CG-CHAR-0010"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_001138",
+      "claim_ids": [
+        "CG-PROD-0009"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_001149",
+      "claim_ids": [
+        "CG-PROD-0009"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_001243",
+      "claim_ids": [
+        "CG-REL-0006",
+        "CG-CIND-0012"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_001264",
+      "claim_ids": [
+        "CG-CIND-0012"
+      ]
+    },
+    {
+      "locator": "E05-FRAME_001269",
+      "claim_ids": [
+        "CG-CIND-0012"
+      ]
+    },
+    {
+      "locator": "E05-T03:10.63-03:47.66",
+      "claim_ids": [
+        "CG-INST-0004",
+        "CG-PROD-0010"
+      ]
+    },
+    {
+      "locator": "E05-T07:58.46-08:33.54",
+      "claim_ids": [
+        "CG-INST-0005"
+      ]
+    },
+    {
+      "locator": "E05-T08:51.34-10:12.59",
+      "claim_ids": [
+        "CG-MOTIF-0002"
+      ]
+    },
+    {
+      "locator": "E05-T09:26.34-09:54.53",
+      "claim_ids": [
+        "CG-PROD-0010"
+      ]
+    },
+    {
+      "locator": "E05-T12:03.83-12:16.05",
+      "claim_ids": [
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-T13:05.39-16:35.81",
+      "claim_ids": [
+        "CG-INST-0015"
+      ]
+    },
+    {
+      "locator": "E05-T15:24.49-15:54.81",
+      "claim_ids": [
+        "CG-CHAR-0011"
+      ]
+    },
+    {
+      "locator": "E05-T19:07.67-19:55.17",
+      "claim_ids": [
+        "CG-CHAR-0010",
+        "CG-VOICE-0002"
+      ]
+    },
+    {
+      "locator": "E05-T19:10.13-20:44.39",
+      "claim_ids": [
+        "CG-PROD-0010"
+      ]
+    },
+    {
+      "locator": "E05-T19:23.64-20:44.39",
+      "claim_ids": [
+        "CG-PROD-0009"
+      ]
+    },
+    {
+      "locator": "E05-T20:40.01-20:44.39",
+      "claim_ids": [
+        "CG-VOICE-0002"
+      ]
+    },
+    {
+      "locator": "E05-T21:55.63-22:36.67",
+      "claim_ids": [
+        "CG-REL-0006",
+        "CG-MOTIF-0002"
+      ]
+    },
+    {
+      "locator": "E05-T22:11.81-22:43.99",
+      "claim_ids": [
+        "CG-CIND-0012"
+      ]
+    },
+    {
+      "locator": "E06-ASS0034-0039",
+      "claim_ids": [
+        "CG-VOICE-0003"
+      ]
+    },
+    {
+      "locator": "E06-ASS0034-0049",
+      "claim_ids": [
+        "CG-CHAR-0012"
+      ]
+    },
+    {
+      "locator": "E06-ASS0096-0100",
+      "claim_ids": [
+        "CG-PERF-0006",
+        "CG-PROD-0011"
+      ]
+    },
+    {
+      "locator": "E06-ASS0161-0167",
+      "claim_ids": [
+        "CG-CHAR-0012"
+      ]
+    },
+    {
+      "locator": "E06-ASS0169-0255",
+      "claim_ids": [
+        "CG-REL-0007"
+      ]
+    },
+    {
+      "locator": "E06-ASS0262-0263",
+      "claim_ids": [
+        "CG-MOTIF-0003"
+      ]
+    },
+    {
+      "locator": "E06-ASS0262-0279",
+      "claim_ids": [
+        "CG-PROD-0011"
+      ]
+    },
+    {
+      "locator": "E06-ASS0272-0281",
+      "claim_ids": [
+        "CG-PROD-0012"
+      ]
+    },
+    {
+      "locator": "E06-ASS0338-0343",
+      "claim_ids": [
+        "CG-PROD-0012",
+        "CG-MOTIF-0003"
+      ]
+    },
+    {
+      "locator": "E06-ASS0359-0467",
+      "claim_ids": [
+        "CG-REL-0007"
+      ]
+    },
+    {
+      "locator": "E06-ASS0363-0367",
+      "claim_ids": [
+        "CG-CHAR-0012",
+        "CG-VOICE-0003"
+      ]
+    },
+    {
+      "locator": "E06-ASS0372-0393",
+      "claim_ids": [
+        "CG-PERF-0005"
+      ]
+    },
+    {
+      "locator": "E06-ASS0375-0393",
+      "claim_ids": [
+        "CG-PERF-0018"
+      ]
+    },
+    {
+      "locator": "E06-ASS0394-0402",
+      "claim_ids": [
+        "CG-PERF-0019"
+      ]
+    },
+    {
+      "locator": "E06-ASS0394-0417",
+      "claim_ids": [
+        "CG-PERF-0004"
+      ]
+    },
+    {
+      "locator": "E06-ASS0401-0416",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-ASS0401-0471",
+      "claim_ids": [
+        "CG-PERF-0019"
+      ]
+    },
+    {
+      "locator": "E06-ASS0418-0419",
+      "claim_ids": [
+        "CG-PERF-0005"
+      ]
+    },
+    {
+      "locator": "E06-ASS0437-0454",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-ASS0437-0463",
+      "claim_ids": [
+        "CG-PROD-0012"
+      ]
+    },
+    {
+      "locator": "E06-ASS0437-0466",
+      "claim_ids": [
+        "CG-VOICE-0003"
+      ]
+    },
+    {
+      "locator": "E06-ASS0437-0467",
+      "claim_ids": [
+        "CG-PERF-0004"
+      ]
+    },
+    {
+      "locator": "E06-ASS0439-0458",
+      "claim_ids": [
+        "CG-PROD-0011"
+      ]
+    },
+    {
+      "locator": "E06-ASS0443-0452",
+      "claim_ids": [
+        "CG-PERF-0006"
+      ]
+    },
+    {
+      "locator": "E06-ASS0445-0449",
+      "claim_ids": [
+        "CG-CHAR-0012"
+      ]
+    },
+    {
+      "locator": "E06-AUDIO02:27.84-02:44.23",
+      "claim_ids": [
+        "CG-VOICE-0003"
+      ]
+    },
+    {
+      "locator": "E06-AUDIO17:57.18-19:41.14",
+      "claim_ids": [
+        "CG-PERF-0018"
+      ]
+    },
+    {
+      "locator": "E06-AUDIO17:57.18-22:43",
+      "claim_ids": [
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E06-AUDIO19:50-20:10",
+      "claim_ids": [
+        "CG-PERF-0019"
+      ]
+    },
+    {
+      "locator": "E06-AUDIO20:10-22:43",
+      "claim_ids": [
+        "CG-PERF-0019"
+      ]
+    },
+    {
+      "locator": "E06-AUDIO20:12.52-20:41.59",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-AUDIO21:19.51-21:54.55",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-AUDIO21:19.51-22:38.88",
+      "claim_ids": [
+        "CG-VOICE-0003"
+      ]
+    },
+    {
+      "locator": "E06-CS16-24",
+      "claim_ids": [
+        "CG-REL-0007"
+      ]
+    },
+    {
+      "locator": "E06-CS25",
+      "claim_ids": [
+        "CG-MOTIF-0003"
+      ]
+    },
+    {
+      "locator": "E06-CS29",
+      "claim_ids": [
+        "CG-MOTIF-0003"
+      ]
+    },
+    {
+      "locator": "E06-CS30-41",
+      "claim_ids": [
+        "CG-REL-0007"
+      ]
+    },
+    {
+      "locator": "E06-CS31-36",
+      "claim_ids": [
+        "CG-PERF-0018"
+      ]
+    },
+    {
+      "locator": "E06-CS31-38",
+      "claim_ids": [
+        "CG-PERF-0005"
+      ]
+    },
+    {
+      "locator": "E06-CS36-37",
+      "claim_ids": [
+        "CG-PERF-0019"
+      ]
+    },
+    {
+      "locator": "E06-CS36-41",
+      "claim_ids": [
+        "CG-PERF-0004"
+      ]
+    },
+    {
+      "locator": "E06-CS37",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-CS39",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-CS39-40",
+      "claim_ids": [
+        "CG-PERF-0006"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_000780",
+      "claim_ids": [
+        "CG-MOTIF-0003"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_000914",
+      "claim_ids": [
+        "CG-MOTIF-0003"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_000972",
+      "claim_ids": [
+        "CG-PERF-0018"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_000996",
+      "claim_ids": [
+        "CG-PERF-0018"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001082",
+      "claim_ids": [
+        "CG-PERF-0018"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001103",
+      "claim_ids": [
+        "CG-PERF-0019"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001105",
+      "claim_ids": [
+        "CG-PERF-0019"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001119",
+      "claim_ids": [
+        "CG-PERF-0019",
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001125",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001128",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001137",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001159",
+      "claim_ids": [
+        "CG-PERF-0005"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001184",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001205",
+      "claim_ids": [
+        "CG-PERF-0020"
+      ]
+    },
+    {
+      "locator": "E06-FRAME_001211",
+      "claim_ids": [
+        "CG-PERF-0006"
+      ]
+    },
+    {
+      "locator": "E06-T02:27.84-02:44.23",
+      "claim_ids": [
+        "CG-VOICE-0003"
+      ]
+    },
+    {
+      "locator": "E06-T02:27.84-03:14.80",
+      "claim_ids": [
+        "CG-CHAR-0012"
+      ]
+    },
+    {
+      "locator": "E06-T05:12.21-05:25.47",
+      "claim_ids": [
+        "CG-PERF-0006",
+        "CG-PROD-0011"
+      ]
+    },
+    {
+      "locator": "E06-T08:01.96-08:17.43",
+      "claim_ids": [
+        "CG-CHAR-0012"
+      ]
+    },
+    {
+      "locator": "E06-T08:20.52-12:26.52",
+      "claim_ids": [
+        "CG-REL-0007"
+      ]
+    },
+    {
+      "locator": "E06-T12:54.71-13:02.68",
+      "claim_ids": [
+        "CG-MOTIF-0003"
+      ]
+    },
+    {
+      "locator": "E06-T12:54.71-14:03.99",
+      "claim_ids": [
+        "CG-PROD-0011"
+      ]
+    },
+    {
+      "locator": "E06-T13:34.00-14:03.99",
+      "claim_ids": [
+        "CG-PROD-0012"
+      ]
+    },
+    {
+      "locator": "E06-T16:23.71-16:31.84",
+      "claim_ids": [
+        "CG-PROD-0012",
+        "CG-MOTIF-0003"
+      ]
+    },
+    {
+      "locator": "E06-T17:10.09-22:39.83",
+      "claim_ids": [
+        "CG-REL-0007"
+      ]
+    },
+    {
+      "locator": "E06-T17:19.60-17:31.69",
+      "claim_ids": [
+        "CG-CHAR-0012",
+        "CG-VOICE-0003"
+      ]
+    },
+    {
+      "locator": "E06-T17:43.13-19:50.33",
+      "claim_ids": [
+        "CG-PERF-0005"
+      ]
+    },
+    {
+      "locator": "E06-T19:56.13-20:39.39",
+      "claim_ids": [
+        "CG-PERF-0004"
+      ]
+    },
+    {
+      "locator": "E06-T20:47.35-20:51.73",
+      "claim_ids": [
+        "CG-PERF-0005"
+      ]
+    },
+    {
+      "locator": "E06-T21:19.51-22:34.16",
+      "claim_ids": [
+        "CG-PROD-0012"
+      ]
+    },
+    {
+      "locator": "E06-T21:19.51-22:38.88",
+      "claim_ids": [
+        "CG-VOICE-0003"
+      ]
+    },
+    {
+      "locator": "E06-T21:19.51-22:39.83",
+      "claim_ids": [
+        "CG-PERF-0004"
+      ]
+    },
+    {
+      "locator": "E06-T21:22.43-22:23.40",
+      "claim_ids": [
+        "CG-PROD-0011"
+      ]
+    },
+    {
+      "locator": "E06-T21:28.43-21:55.83",
+      "claim_ids": [
+        "CG-PERF-0006"
+      ]
+    },
+    {
+      "locator": "E06-T21:34.06-21:50.42",
+      "claim_ids": [
+        "CG-CHAR-0012"
+      ]
+    },
+    {
+      "locator": "E07-ASS0088-0109",
+      "claim_ids": [
+        "CG-REL-0008"
+      ]
+    },
+    {
+      "locator": "E07-ASS0097-0103",
+      "claim_ids": [
+        "CG-CHAR-0015"
+      ]
+    },
+    {
+      "locator": "E07-ASS0189-0192",
+      "claim_ids": [
+        "CG-CHAR-0014"
+      ]
+    },
+    {
+      "locator": "E07-ASS0228-0240",
+      "claim_ids": [
+        "CG-PROD-0013"
+      ]
+    },
+    {
+      "locator": "E07-ASS0264-0286",
+      "claim_ids": [
+        "CG-PROD-0014"
+      ]
+    },
+    {
+      "locator": "E07-ASS0264-0303",
+      "claim_ids": [
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E07-ASS0268-0293",
+      "claim_ids": [
+        "CG-MEDIA-0003"
+      ]
+    },
+    {
+      "locator": "E07-ASS0289-0298",
+      "claim_ids": [
+        "CG-CHAR-0013"
+      ]
+    },
+    {
+      "locator": "E07-ASS0313-0326",
+      "claim_ids": [
+        "CG-CHAR-0013"
+      ]
+    },
+    {
+      "locator": "E07-ASS0331-0334",
+      "claim_ids": [
+        "CG-VOICE-0004"
+      ]
+    },
+    {
+      "locator": "E07-ASS0331-0350",
+      "claim_ids": [
+        "CG-PROD-0013"
+      ]
+    },
+    {
+      "locator": "E07-ASS0335-0342",
+      "claim_ids": [
+        "CG-REL-0008"
+      ]
+    },
+    {
+      "locator": "E07-ASS0344-0381",
+      "claim_ids": [
+        "CG-MOTIF-0018"
+      ]
+    },
+    {
+      "locator": "E07-ASS0350-0351",
+      "claim_ids": [
+        "CG-CHAR-0015"
+      ]
+    },
+    {
+      "locator": "E07-ASS0360-0364",
+      "claim_ids": [
+        "CG-MOTIF-0004"
+      ]
+    },
+    {
+      "locator": "E07-ASS0365-0370",
+      "claim_ids": [
+        "CG-VOICE-0004"
+      ]
+    },
+    {
+      "locator": "E07-AUDIO16:22.88-18:41.72",
+      "claim_ids": [
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E07-AUDIO20:18.50-20:36.50",
+      "claim_ids": [
+        "CG-VOICE-0004"
+      ]
+    },
+    {
+      "locator": "E07-AUDIO21:13.13-23:24",
+      "claim_ids": [
+        "CG-MOTIF-0018"
+      ]
+    },
+    {
+      "locator": "E07-CS07-09",
+      "claim_ids": [
+        "CG-REL-0008"
+      ]
+    },
+    {
+      "locator": "E07-CS15-16",
+      "claim_ids": [
+        "CG-CHAR-0014"
+      ]
+    },
+    {
+      "locator": "E07-CS18-19",
+      "claim_ids": [
+        "CG-PROD-0013"
+      ]
+    },
+    {
+      "locator": "E07-CS21-23",
+      "claim_ids": [
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E07-CS22-23",
+      "claim_ids": [
+        "CG-PROD-0014",
+        "CG-MEDIA-0003"
+      ]
+    },
+    {
+      "locator": "E07-CS23-25",
+      "claim_ids": [
+        "CG-CHAR-0013"
+      ]
+    },
+    {
+      "locator": "E07-CS25-27",
+      "claim_ids": [
+        "CG-PROD-0013"
+      ]
+    },
+    {
+      "locator": "E07-CS26-27",
+      "claim_ids": [
+        "CG-REL-0008"
+      ]
+    },
+    {
+      "locator": "E07-CS27-29",
+      "claim_ids": [
+        "CG-MOTIF-0018"
+      ]
+    },
+    {
+      "locator": "E07-CS28",
+      "claim_ids": [
+        "CG-MOTIF-0004"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000306",
+      "claim_ids": [
+        "CG-REL-0008"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000367",
+      "claim_ids": [
+        "CG-REL-0008"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000757",
+      "claim_ids": [
+        "CG-PROD-0013"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000843",
+      "claim_ids": [
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000859",
+      "claim_ids": [
+        "CG-PROD-0014",
+        "CG-MEDIA-0003"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000867",
+      "claim_ids": [
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000887",
+      "claim_ids": [
+        "CG-PROD-0014",
+        "CG-MEDIA-0003",
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000897",
+      "claim_ids": [
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000918",
+      "claim_ids": [
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_000921",
+      "claim_ids": [
+        "CG-PROD-0033"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_001036",
+      "claim_ids": [
+        "CG-REL-0008"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_001058",
+      "claim_ids": [
+        "CG-PROD-0013",
+        "CG-MOTIF-0018"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_001067",
+      "claim_ids": [
+        "CG-MOTIF-0018"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_001070",
+      "claim_ids": [
+        "CG-MOTIF-0018"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_001095",
+      "claim_ids": [
+        "CG-MOTIF-0018"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_001102",
+      "claim_ids": [
+        "CG-MOTIF-0004",
+        "CG-MOTIF-0018"
+      ]
+    },
+    {
+      "locator": "E07-FRAME_001143",
+      "claim_ids": [
+        "CG-MOTIF-0018"
+      ]
+    },
+    {
+      "locator": "E07-T05:31.89-06:50.85",
+      "claim_ids": [
+        "CG-REL-0008"
+      ]
+    },
+    {
+      "locator": "E07-T05:58.59-06:22.78",
+      "claim_ids": [
+        "CG-CHAR-0015"
+      ]
+    },
+    {
+      "locator": "E07-T11:53.53-12:08.29",
+      "claim_ids": [
+        "CG-CHAR-0014"
+      ]
+    },
+    {
+      "locator": "E07-T14:01.99-14:53.84",
+      "claim_ids": [
+        "CG-PROD-0013"
+      ]
+    },
+    {
+      "locator": "E07-T16:22.88-17:29.37",
+      "claim_ids": [
+        "CG-PROD-0014"
+      ]
+    },
+    {
+      "locator": "E07-T16:33.81-17:54.97",
+      "claim_ids": [
+        "CG-MEDIA-0003"
+      ]
+    },
+    {
+      "locator": "E07-T17:39.62-18:14.57",
+      "claim_ids": [
+        "CG-CHAR-0013"
+      ]
+    },
+    {
+      "locator": "E07-T19:32.19-20:09.40",
+      "claim_ids": [
+        "CG-CHAR-0013"
+      ]
+    },
+    {
+      "locator": "E07-T20:19.03-20:36.01",
+      "claim_ids": [
+        "CG-VOICE-0004"
+      ]
+    },
+    {
+      "locator": "E07-T20:19.03-21:38.57",
+      "claim_ids": [
+        "CG-PROD-0013"
+      ]
+    },
+    {
+      "locator": "E07-T20:40.05-21:05.12",
+      "claim_ids": [
+        "CG-REL-0008"
+      ]
+    },
+    {
+      "locator": "E07-T21:35.23-21:41.91",
+      "claim_ids": [
+        "CG-CHAR-0015"
+      ]
+    },
+    {
+      "locator": "E07-T22:19.03-22:34.33",
+      "claim_ids": [
+        "CG-MOTIF-0004"
+      ]
+    },
+    {
+      "locator": "E07-T22:38.38-22:54.52",
+      "claim_ids": [
+        "CG-VOICE-0004"
+      ]
+    },
+    {
+      "locator": "E08-ASS0148-0173",
+      "claim_ids": [
+        "CG-CHAR-0016"
+      ]
+    },
+    {
+      "locator": "E08-ASS0169-0173",
+      "claim_ids": [
+        "CG-PROD-0015"
+      ]
+    },
+    {
+      "locator": "E08-ASS0290-0297",
+      "claim_ids": [
+        "CG-CHAR-0016"
+      ]
+    },
+    {
+      "locator": "E08-ASS0342-0351",
+      "claim_ids": [
+        "CG-PROD-0016"
+      ]
+    },
+    {
+      "locator": "E08-ASS0367-0371",
+      "claim_ids": [
+        "CG-MOTIF-0005"
+      ]
+    },
+    {
+      "locator": "E08-ASS0367-0391",
+      "claim_ids": [
+        "CG-PROD-0016"
+      ]
+    },
+    {
+      "locator": "E08-ASS0399-0403",
+      "claim_ids": [
+        "CG-VOICE-0005"
+      ]
+    },
+    {
+      "locator": "E08-ASS0404-0410",
+      "claim_ids": [
+        "CG-PROD-0015",
+        "CG-MEDIA-0004"
+      ]
+    },
+    {
+      "locator": "E08-ASS0411-0413",
+      "claim_ids": [
+        "CG-REL-0009",
+        "CG-VOICE-0005"
+      ]
+    },
+    {
+      "locator": "E08-ASS0419-0440",
+      "claim_ids": [
+        "CG-PERF-0007"
+      ]
+    },
+    {
+      "locator": "E08-ASS0429-0446",
+      "claim_ids": [
+        "CG-PERF-0021"
+      ]
+    },
+    {
+      "locator": "E08-ASS0440-0444",
+      "claim_ids": [
+        "CG-CHAR-0017",
+        "CG-VOICE-0005"
+      ]
+    },
+    {
+      "locator": "E08-AUDIO21:49.25-22:57.86",
+      "claim_ids": [
+        "CG-PERF-0021"
+      ]
+    },
+    {
+      "locator": "E08-AUDIO22:41.00-22:51.00",
+      "claim_ids": [
+        "CG-VOICE-0005"
+      ]
+    },
+    {
+      "locator": "E08-CS13-15",
+      "claim_ids": [
+        "CG-CHAR-0016"
+      ]
+    },
+    {
+      "locator": "E08-CS15",
+      "claim_ids": [
+        "CG-PROD-0015"
+      ]
+    },
+    {
+      "locator": "E08-CS18-21",
+      "claim_ids": [
+        "CG-MOTIF-0005"
+      ]
+    },
+    {
+      "locator": "E08-CS22-23",
+      "claim_ids": [
+        "CG-CHAR-0016"
+      ]
+    },
+    {
+      "locator": "E08-CS25-26",
+      "claim_ids": [
+        "CG-PROD-0016"
+      ]
+    },
+    {
+      "locator": "E08-CS27",
+      "claim_ids": [
+        "CG-MOTIF-0005"
+      ]
+    },
+    {
+      "locator": "E08-CS27-29",
+      "claim_ids": [
+        "CG-PROD-0016"
+      ]
+    },
+    {
+      "locator": "E08-CS30-31",
+      "claim_ids": [
+        "CG-PROD-0015",
+        "CG-MEDIA-0004",
+        "CG-REL-0009"
+      ]
+    },
+    {
+      "locator": "E08-CS31-34",
+      "claim_ids": [
+        "CG-PERF-0007"
+      ]
+    },
+    {
+      "locator": "E08-CS33-34",
+      "claim_ids": [
+        "CG-PERF-0021"
+      ]
+    },
+    {
+      "locator": "E08-CS34-35",
+      "claim_ids": [
+        "CG-CHAR-0017"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_000464",
+      "claim_ids": [
+        "CG-PROD-0015"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_000748",
+      "claim_ids": [
+        "CG-CHAR-0016"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_000892",
+      "claim_ids": [
+        "CG-PROD-0016"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_000956",
+      "claim_ids": [
+        "CG-MOTIF-0005"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_001064",
+      "claim_ids": [
+        "CG-PROD-0015",
+        "CG-MEDIA-0004"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_001087",
+      "claim_ids": [
+        "CG-REL-0009"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_001151",
+      "claim_ids": [
+        "CG-PERF-0021"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_001162",
+      "claim_ids": [
+        "CG-PERF-0021"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_001183",
+      "claim_ids": [
+        "CG-PERF-0021"
+      ]
+    },
+    {
+      "locator": "E08-FRAME_001191",
+      "claim_ids": [
+        "CG-CHAR-0017",
+        "CG-PERF-0021"
+      ]
+    },
+    {
+      "locator": "E08-T07:36.60-09:01.85",
+      "claim_ids": [
+        "CG-CHAR-0016"
+      ]
+    },
+    {
+      "locator": "E08-T08:49.55-09:01.85",
+      "claim_ids": [
+        "CG-PROD-0015"
+      ]
+    },
+    {
+      "locator": "E08-T14:42.03-15:00.13",
+      "claim_ids": [
+        "CG-CHAR-0016"
+      ]
+    },
+    {
+      "locator": "E08-T16:53.16-17:22.94",
+      "claim_ids": [
+        "CG-PROD-0016"
+      ]
+    },
+    {
+      "locator": "E08-T18:15.49-18:27.75",
+      "claim_ids": [
+        "CG-MOTIF-0005"
+      ]
+    },
+    {
+      "locator": "E08-T18:15.49-19:30.36",
+      "claim_ids": [
+        "CG-PROD-0016"
+      ]
+    },
+    {
+      "locator": "E08-T19:52.46-20:03.56",
+      "claim_ids": [
+        "CG-VOICE-0005"
+      ]
+    },
+    {
+      "locator": "E08-T20:04.85-20:29.75",
+      "claim_ids": [
+        "CG-MEDIA-0004"
+      ]
+    },
+    {
+      "locator": "E08-T20:13.98-20:29.75",
+      "claim_ids": [
+        "CG-PROD-0015"
+      ]
+    },
+    {
+      "locator": "E08-T20:30.33-20:38.92",
+      "claim_ids": [
+        "CG-REL-0009",
+        "CG-VOICE-0005"
+      ]
+    },
+    {
+      "locator": "E08-T21:04.66-22:41.34",
+      "claim_ids": [
+        "CG-PERF-0007"
+      ]
+    },
+    {
+      "locator": "E08-T22:41.38-22:52.72",
+      "claim_ids": [
+        "CG-CHAR-0017",
+        "CG-VOICE-0005"
+      ]
+    },
+    {
+      "locator": "E09-ASS0001-0007",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-ASS0198-0213",
+      "claim_ids": [
+        "CG-PERF-0008"
+      ]
+    },
+    {
+      "locator": "E09-ASS0201-0219",
+      "claim_ids": [
+        "CG-PROD-0017"
+      ]
+    },
+    {
+      "locator": "E09-ASS0213-0215",
+      "claim_ids": [
+        "CG-VOICE-0006"
+      ]
+    },
+    {
+      "locator": "E09-ASS0342-0353",
+      "claim_ids": [
+        "CG-PROD-0018"
+      ]
+    },
+    {
+      "locator": "E09-ASS0342-0372",
+      "claim_ids": [
+        "CG-CHAR-0019"
+      ]
+    },
+    {
+      "locator": "E09-ASS0346-0353",
+      "claim_ids": [
+        "CG-PROD-0017"
+      ]
+    },
+    {
+      "locator": "E09-ASS0355-0361",
+      "claim_ids": [
+        "CG-CHAR-0018"
+      ]
+    },
+    {
+      "locator": "E09-ASS0355-0372",
+      "claim_ids": [
+        "CG-REL-0010"
+      ]
+    },
+    {
+      "locator": "E09-ASS0359-0361",
+      "claim_ids": [
+        "CG-VOICE-0006"
+      ]
+    },
+    {
+      "locator": "E09-ASS0390-0490",
+      "claim_ids": [
+        "CG-REL-0010"
+      ]
+    },
+    {
+      "locator": "E09-ASS0423-0490",
+      "claim_ids": [
+        "CG-CHAR-0019"
+      ]
+    },
+    {
+      "locator": "E09-ASS0466-0480",
+      "claim_ids": [
+        "CG-CHAR-0020",
+        "CG-MOTIF-0006"
+      ]
+    },
+    {
+      "locator": "E09-ASS0521-0533",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-ASS0534-0546",
+      "claim_ids": [
+        "CG-REL-0029"
+      ]
+    },
+    {
+      "locator": "E09-AUDIO00:01.48-00:19.41",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-AUDIO09:32.00-09:42.80",
+      "claim_ids": [
+        "CG-VOICE-0006"
+      ]
+    },
+    {
+      "locator": "E09-AUDIO15:53.00-16:07.10",
+      "claim_ids": [
+        "CG-VOICE-0006"
+      ]
+    },
+    {
+      "locator": "E09-AUDIO22:30.16-23:04.49",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-AUDIO23:05.11-23:54.42",
+      "claim_ids": [
+        "CG-REL-0029"
+      ]
+    },
+    {
+      "locator": "E09-CS01",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-CS15-16",
+      "claim_ids": [
+        "CG-PERF-0008"
+      ]
+    },
+    {
+      "locator": "E09-CS15-17",
+      "claim_ids": [
+        "CG-PROD-0017"
+      ]
+    },
+    {
+      "locator": "E09-CS25-26",
+      "claim_ids": [
+        "CG-PROD-0018"
+      ]
+    },
+    {
+      "locator": "E09-CS25-28",
+      "claim_ids": [
+        "CG-CHAR-0019"
+      ]
+    },
+    {
+      "locator": "E09-CS26",
+      "claim_ids": [
+        "CG-PROD-0017"
+      ]
+    },
+    {
+      "locator": "E09-CS27",
+      "claim_ids": [
+        "CG-CHAR-0018"
+      ]
+    },
+    {
+      "locator": "E09-CS27-28",
+      "claim_ids": [
+        "CG-REL-0010"
+      ]
+    },
+    {
+      "locator": "E09-CS30-35",
+      "claim_ids": [
+        "CG-REL-0010"
+      ]
+    },
+    {
+      "locator": "E09-CS31-35",
+      "claim_ids": [
+        "CG-CHAR-0019"
+      ]
+    },
+    {
+      "locator": "E09-CS33-34",
+      "claim_ids": [
+        "CG-CHAR-0020",
+        "CG-MOTIF-0006"
+      ]
+    },
+    {
+      "locator": "E09-CS36",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-CS36-37",
+      "claim_ids": [
+        "CG-REL-0029"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_000003",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_000009",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_000524",
+      "claim_ids": [
+        "CG-PERF-0008"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_000900",
+      "claim_ids": [
+        "CG-PROD-0018"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_000923",
+      "claim_ids": [
+        "CG-CHAR-0018"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_001161",
+      "claim_ids": [
+        "CG-CHAR-0020",
+        "CG-MOTIF-0006"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_001283",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_001287",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_001301",
+      "claim_ids": [
+        "CG-PERF-0022"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_001302",
+      "claim_ids": [
+        "CG-REL-0029"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_001309",
+      "claim_ids": [
+        "CG-REL-0029"
+      ]
+    },
+    {
+      "locator": "E09-FRAME_001313",
+      "claim_ids": [
+        "CG-REL-0029"
+      ]
+    },
+    {
+      "locator": "E09-T08:44.05-09:33.84",
+      "claim_ids": [
+        "CG-PERF-0008"
+      ]
+    },
+    {
+      "locator": "E09-T08:55.64-09:54.41",
+      "claim_ids": [
+        "CG-PROD-0017"
+      ]
+    },
+    {
+      "locator": "E09-T09:32.34-09:42.56",
+      "claim_ids": [
+        "CG-VOICE-0006"
+      ]
+    },
+    {
+      "locator": "E09-T14:54.50-15:25.61",
+      "claim_ids": [
+        "CG-PROD-0018"
+      ]
+    },
+    {
+      "locator": "E09-T14:54.50-16:33.64",
+      "claim_ids": [
+        "CG-CHAR-0019"
+      ]
+    },
+    {
+      "locator": "E09-T15:02.72-15:25.61",
+      "claim_ids": [
+        "CG-PROD-0017"
+      ]
+    },
+    {
+      "locator": "E09-T15:31.66-16:06.70",
+      "claim_ids": [
+        "CG-CHAR-0018"
+      ]
+    },
+    {
+      "locator": "E09-T15:31.66-16:33.64",
+      "claim_ids": [
+        "CG-REL-0010"
+      ]
+    },
+    {
+      "locator": "E09-T15:53.72-16:06.70",
+      "claim_ids": [
+        "CG-VOICE-0006"
+      ]
+    },
+    {
+      "locator": "E09-T17:22.86-21:07.29",
+      "claim_ids": [
+        "CG-REL-0010"
+      ]
+    },
+    {
+      "locator": "E09-T18:30.34-21:07.29",
+      "claim_ids": [
+        "CG-CHAR-0019"
+      ]
+    },
+    {
+      "locator": "E09-T20:14.48-20:45.60",
+      "claim_ids": [
+        "CG-CHAR-0020",
+        "CG-MOTIF-0006"
+      ]
+    },
+    {
+      "locator": "E10-ASS0009-0012",
+      "claim_ids": [
+        "CG-MEDIA-0009"
+      ]
+    },
+    {
+      "locator": "E10-ASS0130-0131",
+      "claim_ids": [
+        "CG-PERF-0009"
+      ]
+    },
+    {
+      "locator": "E10-ASS0140-0146",
+      "claim_ids": [
+        "CG-PROD-0019"
+      ]
+    },
+    {
+      "locator": "E10-ASS0281-0286",
+      "claim_ids": [
+        "CG-INST-0006"
+      ]
+    },
+    {
+      "locator": "E10-ASS0411-0412",
+      "claim_ids": [
+        "CG-PROD-0020"
+      ]
+    },
+    {
+      "locator": "E10-ASS0432-0437",
+      "claim_ids": [
+        "CG-CHAR-0023"
+      ]
+    },
+    {
+      "locator": "E10-ASS0432-0459",
+      "claim_ids": [
+        "CG-CHAR-0022"
+      ]
+    },
+    {
+      "locator": "E10-ASS0432-0463",
+      "claim_ids": [
+        "CG-REL-0011"
+      ]
+    },
+    {
+      "locator": "E10-ASS0432-0489",
+      "claim_ids": [
+        "CG-MOTIF-0007"
+      ]
+    },
+    {
+      "locator": "E10-ASS0440-0445",
+      "claim_ids": [
+        "CG-CHAR-0021",
+        "CG-VOICE-0007"
+      ]
+    },
+    {
+      "locator": "E10-ASS0455-0489",
+      "claim_ids": [
+        "CG-PERF-0009"
+      ]
+    },
+    {
+      "locator": "E10-ASS0467-0471",
+      "claim_ids": [
+        "CG-PROD-0020"
+      ]
+    },
+    {
+      "locator": "E10-ASS0478-0488",
+      "claim_ids": [
+        "CG-PERF-0023"
+      ]
+    },
+    {
+      "locator": "E10-ASS0510-0512",
+      "claim_ids": [
+        "CG-VOICE-0007"
+      ]
+    },
+    {
+      "locator": "E10-ASS0538-0557",
+      "claim_ids": [
+        "CG-PERF-0023",
+        "CG-REL-0030"
+      ]
+    },
+    {
+      "locator": "E10-AUDIO00:19.50-00:33.55",
+      "claim_ids": [
+        "CG-MEDIA-0009"
+      ]
+    },
+    {
+      "locator": "E10-AUDIO18:37.00-18:56.50",
+      "claim_ids": [
+        "CG-VOICE-0007"
+      ]
+    },
+    {
+      "locator": "E10-AUDIO20:19.03-20:48.26",
+      "claim_ids": [
+        "CG-PERF-0023"
+      ]
+    },
+    {
+      "locator": "E10-AUDIO21:35.50-21:44.50",
+      "claim_ids": [
+        "CG-VOICE-0007"
+      ]
+    },
+    {
+      "locator": "E10-AUDIO22:37.67-23:56.70",
+      "claim_ids": [
+        "CG-PERF-0023",
+        "CG-REL-0030"
+      ]
+    },
+    {
+      "locator": "E10-CS01",
+      "claim_ids": [
+        "CG-MEDIA-0009"
+      ]
+    },
+    {
+      "locator": "E10-CS11",
+      "claim_ids": [
+        "CG-PERF-0009"
+      ]
+    },
+    {
+      "locator": "E10-CS12",
+      "claim_ids": [
+        "CG-PROD-0019"
+      ]
+    },
+    {
+      "locator": "E10-CS21",
+      "claim_ids": [
+        "CG-INST-0006"
+      ]
+    },
+    {
+      "locator": "E10-CS30",
+      "claim_ids": [
+        "CG-PROD-0020"
+      ]
+    },
+    {
+      "locator": "E10-CS32",
+      "claim_ids": [
+        "CG-CHAR-0023"
+      ]
+    },
+    {
+      "locator": "E10-CS32-34",
+      "claim_ids": [
+        "CG-REL-0011",
+        "CG-CHAR-0022"
+      ]
+    },
+    {
+      "locator": "E10-CS32-36",
+      "claim_ids": [
+        "CG-MOTIF-0007"
+      ]
+    },
+    {
+      "locator": "E10-CS33",
+      "claim_ids": [
+        "CG-CHAR-0021"
+      ]
+    },
+    {
+      "locator": "E10-CS34-36",
+      "claim_ids": [
+        "CG-PERF-0009"
+      ]
+    },
+    {
+      "locator": "E10-CS35",
+      "claim_ids": [
+        "CG-PROD-0020"
+      ]
+    },
+    {
+      "locator": "E10-CS35-36",
+      "claim_ids": [
+        "CG-PERF-0023"
+      ]
+    },
+    {
+      "locator": "E10-CS39-40",
+      "claim_ids": [
+        "CG-PERF-0023",
+        "CG-REL-0030"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_000017",
+      "claim_ids": [
+        "CG-MEDIA-0009"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_000327",
+      "claim_ids": [
+        "CG-PERF-0009"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_000349",
+      "claim_ids": [
+        "CG-PROD-0019"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_000357",
+      "claim_ids": [
+        "CG-PROD-0019"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_000666",
+      "claim_ids": [
+        "CG-INST-0006"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_000673",
+      "claim_ids": [
+        "CG-INST-0006"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001031",
+      "claim_ids": [
+        "CG-PROD-0020"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001094",
+      "claim_ids": [
+        "CG-REL-0011",
+        "CG-CHAR-0022",
+        "CG-CHAR-0023",
+        "CG-MOTIF-0007"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001100",
+      "claim_ids": [
+        "CG-REL-0011",
+        "CG-CHAR-0023"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001104",
+      "claim_ids": [
+        "CG-CHAR-0021"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001114",
+      "claim_ids": [
+        "CG-CHAR-0021"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001134",
+      "claim_ids": [
+        "CG-REL-0011",
+        "CG-CHAR-0022",
+        "CG-MOTIF-0007"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001141",
+      "claim_ids": [
+        "CG-PERF-0009",
+        "CG-REL-0011",
+        "CG-CHAR-0022",
+        "CG-MOTIF-0007"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001180",
+      "claim_ids": [
+        "CG-PROD-0020"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001194",
+      "claim_ids": [
+        "CG-PERF-0023"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001203",
+      "claim_ids": [
+        "CG-PERF-0023"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001221",
+      "claim_ids": [
+        "CG-PERF-0023"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001229",
+      "claim_ids": [
+        "CG-PERF-0009",
+        "CG-MOTIF-0007"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001307",
+      "claim_ids": [
+        "CG-REL-0030"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001327",
+      "claim_ids": [
+        "CG-REL-0030"
+      ]
+    },
+    {
+      "locator": "E10-FRAME_001333",
+      "claim_ids": [
+        "CG-REL-0030"
+      ]
+    },
+    {
+      "locator": "E10-T06:10.85-06:20.69",
+      "claim_ids": [
+        "CG-PERF-0009"
+      ]
+    },
+    {
+      "locator": "E10-T06:41.01-07:04.86",
+      "claim_ids": [
+        "CG-PROD-0019"
+      ]
+    },
+    {
+      "locator": "E10-T12:14.67-12:26.00",
+      "claim_ids": [
+        "CG-INST-0006"
+      ]
+    },
+    {
+      "locator": "E10-T17:27.44-17:34.20",
+      "claim_ids": [
+        "CG-PROD-0020"
+      ]
+    },
+    {
+      "locator": "E10-T18:21.29-18:33.50",
+      "claim_ids": [
+        "CG-CHAR-0023"
+      ]
+    },
+    {
+      "locator": "E10-T18:21.29-19:38.70",
+      "claim_ids": [
+        "CG-CHAR-0022"
+      ]
+    },
+    {
+      "locator": "E10-T18:21.29-19:43.33",
+      "claim_ids": [
+        "CG-REL-0011"
+      ]
+    },
+    {
+      "locator": "E10-T18:21.29-20:48.77",
+      "claim_ids": [
+        "CG-MOTIF-0007"
+      ]
+    },
+    {
+      "locator": "E10-T18:37.60-18:55.95",
+      "claim_ids": [
+        "CG-CHAR-0021",
+        "CG-VOICE-0007"
+      ]
+    },
+    {
+      "locator": "E10-T19:22.31-20:48.77",
+      "claim_ids": [
+        "CG-PERF-0009"
+      ]
+    },
+    {
+      "locator": "E10-T19:53.96-20:08.00",
+      "claim_ids": [
+        "CG-PROD-0020"
+      ]
+    },
+    {
+      "locator": "E10-T21:35.94-21:44.00",
+      "claim_ids": [
+        "CG-VOICE-0007"
+      ]
+    },
+    {
+      "locator": "E11-ASS0124-0136",
+      "claim_ids": [
+        "CG-INST-0007"
+      ]
+    },
+    {
+      "locator": "E11-ASS0128-0136",
+      "claim_ids": [
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-ASS0143-0155",
+      "claim_ids": [
+        "CG-PROD-0022"
+      ]
+    },
+    {
+      "locator": "E11-ASS0170-0171",
+      "claim_ids": [
+        "CG-CHAR-0024"
+      ]
+    },
+    {
+      "locator": "E11-ASS0184-0189",
+      "claim_ids": [
+        "CG-CHAR-0024"
+      ]
+    },
+    {
+      "locator": "E11-ASS0232-0238",
+      "claim_ids": [
+        "CG-CHAR-0025"
+      ]
+    },
+    {
+      "locator": "E11-ASS0242-0243",
+      "claim_ids": [
+        "CG-CHAR-0024",
+        "CG-MEDIA-0005"
+      ]
+    },
+    {
+      "locator": "E11-ASS0254-0260",
+      "claim_ids": [
+        "CG-MEDIA-0005"
+      ]
+    },
+    {
+      "locator": "E11-ASS0258-0271",
+      "claim_ids": [
+        "CG-CHAR-0025"
+      ]
+    },
+    {
+      "locator": "E11-ASS0264-0271",
+      "claim_ids": [
+        "CG-VOICE-0009"
+      ]
+    },
+    {
+      "locator": "E11-ASS0279-0283",
+      "claim_ids": [
+        "CG-VOICE-0009"
+      ]
+    },
+    {
+      "locator": "E11-ASS0298-0312",
+      "claim_ids": [
+        "CG-VOICE-0008"
+      ]
+    },
+    {
+      "locator": "E11-ASS0305-0326",
+      "claim_ids": [
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-ASS0328-0345",
+      "claim_ids": [
+        "CG-PERF-0024"
+      ]
+    },
+    {
+      "locator": "E11-ASS0348-0359",
+      "claim_ids": [
+        "CG-REL-0031"
+      ]
+    },
+    {
+      "locator": "E11-ASS0360-0367",
+      "claim_ids": [
+        "CG-REL-0031"
+      ]
+    },
+    {
+      "locator": "E11-ASS0381-0382",
+      "claim_ids": [
+        "CG-REL-0012"
+      ]
+    },
+    {
+      "locator": "E11-ASS0394-0416",
+      "claim_ids": [
+        "CG-PERF-0010",
+        "CG-VOICE-0008"
+      ]
+    },
+    {
+      "locator": "E11-ASS0394-0420",
+      "claim_ids": [
+        "CG-PERF-0025"
+      ]
+    },
+    {
+      "locator": "E11-ASS0420-0434",
+      "claim_ids": [
+        "CG-PERF-0010",
+        "CG-PERF-0024"
+      ]
+    },
+    {
+      "locator": "E11-ASS0420-0438",
+      "claim_ids": [
+        "CG-PERF-0026"
+      ]
+    },
+    {
+      "locator": "E11-ASS0435-0438",
+      "claim_ids": [
+        "CG-PROD-0021",
+        "CG-REL-0012"
+      ]
+    },
+    {
+      "locator": "E11-ASS0442-0458",
+      "claim_ids": [
+        "CG-MOTIF-0008"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO13:27.00-13:54.20",
+      "claim_ids": [
+        "CG-VOICE-0009"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO14:10.00-14:23.00",
+      "claim_ids": [
+        "CG-VOICE-0009"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO15:11.00-15:57.80",
+      "claim_ids": [
+        "CG-VOICE-0008"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO16:50.07-17:34.87",
+      "claim_ids": [
+        "CG-PERF-0024"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO17:44.00-18:21.83",
+      "claim_ids": [
+        "CG-REL-0031"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO18:31.51-18:47.15",
+      "claim_ids": [
+        "CG-REL-0031"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO19:52.00-20:52.80",
+      "claim_ids": [
+        "CG-VOICE-0008"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO19:52.50-21:01.78",
+      "claim_ids": [
+        "CG-PERF-0025"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO21:01.78-22:02.90",
+      "claim_ids": [
+        "CG-PERF-0024"
+      ]
+    },
+    {
+      "locator": "E11-AUDIO21:01.78-22:10.48",
+      "claim_ids": [
+        "CG-PERF-0026"
+      ]
+    },
+    {
+      "locator": "E11-CS15",
+      "claim_ids": [
+        "CG-INST-0007",
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-CS16",
+      "claim_ids": [
+        "CG-PROD-0022"
+      ]
+    },
+    {
+      "locator": "E11-CS17",
+      "claim_ids": [
+        "CG-CHAR-0024"
+      ]
+    },
+    {
+      "locator": "E11-CS19",
+      "claim_ids": [
+        "CG-CHAR-0024"
+      ]
+    },
+    {
+      "locator": "E11-CS21",
+      "claim_ids": [
+        "CG-CHAR-0025"
+      ]
+    },
+    {
+      "locator": "E11-CS22",
+      "claim_ids": [
+        "CG-CHAR-0024",
+        "CG-MEDIA-0005"
+      ]
+    },
+    {
+      "locator": "E11-CS23",
+      "claim_ids": [
+        "CG-MEDIA-0005"
+      ]
+    },
+    {
+      "locator": "E11-CS23-24",
+      "claim_ids": [
+        "CG-CHAR-0025"
+      ]
+    },
+    {
+      "locator": "E11-CS26-27",
+      "claim_ids": [
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-CS28",
+      "claim_ids": [
+        "CG-PERF-0024"
+      ]
+    },
+    {
+      "locator": "E11-CS29-30",
+      "claim_ids": [
+        "CG-REL-0031"
+      ]
+    },
+    {
+      "locator": "E11-CS31",
+      "claim_ids": [
+        "CG-REL-0012"
+      ]
+    },
+    {
+      "locator": "E11-CS32-33",
+      "claim_ids": [
+        "CG-PERF-0010"
+      ]
+    },
+    {
+      "locator": "E11-CS32-34",
+      "claim_ids": [
+        "CG-PERF-0025"
+      ]
+    },
+    {
+      "locator": "E11-CS34-35",
+      "claim_ids": [
+        "CG-PERF-0024"
+      ]
+    },
+    {
+      "locator": "E11-CS34-36",
+      "claim_ids": [
+        "CG-PERF-0026"
+      ]
+    },
+    {
+      "locator": "E11-CS35",
+      "claim_ids": [
+        "CG-PERF-0010"
+      ]
+    },
+    {
+      "locator": "E11-CS36",
+      "claim_ids": [
+        "CG-PROD-0021",
+        "CG-REL-0012"
+      ]
+    },
+    {
+      "locator": "E11-CS36-37",
+      "claim_ids": [
+        "CG-MOTIF-0008"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000471",
+      "claim_ids": [
+        "CG-INST-0007"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000481",
+      "claim_ids": [
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000487",
+      "claim_ids": [
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000498",
+      "claim_ids": [
+        "CG-INST-0007"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000514",
+      "claim_ids": [
+        "CG-PROD-0022"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000530",
+      "claim_ids": [
+        "CG-PROD-0022"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000578",
+      "claim_ids": [
+        "CG-CHAR-0024"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000639",
+      "claim_ids": [
+        "CG-CHAR-0024"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000642",
+      "claim_ids": [
+        "CG-CHAR-0024"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000718",
+      "claim_ids": [
+        "CG-CHAR-0025"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000754",
+      "claim_ids": [
+        "CG-CHAR-0024",
+        "CG-MEDIA-0005"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000800",
+      "claim_ids": [
+        "CG-CHAR-0025",
+        "CG-MEDIA-0005"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000802",
+      "claim_ids": [
+        "CG-MEDIA-0005"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000809",
+      "claim_ids": [
+        "CG-CHAR-0025"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000822",
+      "claim_ids": [
+        "CG-CHAR-0025"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000917",
+      "claim_ids": [
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000954",
+      "claim_ids": [
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_000980",
+      "claim_ids": [
+        "CG-PERF-0024"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001004",
+      "claim_ids": [
+        "CG-PERF-0024"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001009",
+      "claim_ids": [
+        "CG-PERF-0024"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001026",
+      "claim_ids": [
+        "CG-REL-0031"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001041",
+      "claim_ids": [
+        "CG-REL-0031"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001059",
+      "claim_ids": [
+        "CG-REL-0031"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001069",
+      "claim_ids": [
+        "CG-REL-0031"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001143",
+      "claim_ids": [
+        "CG-REL-0012"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001168",
+      "claim_ids": [
+        "CG-PERF-0010",
+        "CG-PERF-0025"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001187",
+      "claim_ids": [
+        "CG-PERF-0025"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001198",
+      "claim_ids": [
+        "CG-PERF-0010",
+        "CG-PERF-0025"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001207",
+      "claim_ids": [
+        "CG-PERF-0025"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001225",
+      "claim_ids": [
+        "CG-PERF-0025"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001240",
+      "claim_ids": [
+        "CG-PERF-0010",
+        "CG-PERF-0026"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001270",
+      "claim_ids": [
+        "CG-PERF-0026"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001275",
+      "claim_ids": [
+        "CG-PERF-0026"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001277",
+      "claim_ids": [
+        "CG-PERF-0026"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001278",
+      "claim_ids": [
+        "CG-PERF-0026"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001283",
+      "claim_ids": [
+        "CG-PERF-0026"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001286",
+      "claim_ids": [
+        "CG-PROD-0021",
+        "CG-REL-0012"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001289",
+      "claim_ids": [
+        "CG-PROD-0021",
+        "CG-REL-0012"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001300",
+      "claim_ids": [
+        "CG-MOTIF-0008"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001305",
+      "claim_ids": [
+        "CG-MOTIF-0008"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001310",
+      "claim_ids": [
+        "CG-MOTIF-0008"
+      ]
+    },
+    {
+      "locator": "E11-FRAME_001320",
+      "claim_ids": [
+        "CG-MOTIF-0008"
+      ]
+    },
+    {
+      "locator": "E11-T06:38.04-07:08.50",
+      "claim_ids": [
+        "CG-INST-0007"
+      ]
+    },
+    {
+      "locator": "E11-T06:46.89-07:08.50",
+      "claim_ids": [
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-T07:23.13-07:57.12",
+      "claim_ids": [
+        "CG-PROD-0022"
+      ]
+    },
+    {
+      "locator": "E11-T08:39.71-08:44.80",
+      "claim_ids": [
+        "CG-CHAR-0024"
+      ]
+    },
+    {
+      "locator": "E11-T09:28.88-09:48.50",
+      "claim_ids": [
+        "CG-CHAR-0024"
+      ]
+    },
+    {
+      "locator": "E11-T11:51.52-12:13.55",
+      "claim_ids": [
+        "CG-CHAR-0025"
+      ]
+    },
+    {
+      "locator": "E11-T12:22.30-12:27.98",
+      "claim_ids": [
+        "CG-CHAR-0024",
+        "CG-MEDIA-0005"
+      ]
+    },
+    {
+      "locator": "E11-T13:02.01-13:19.49",
+      "claim_ids": [
+        "CG-MEDIA-0005"
+      ]
+    },
+    {
+      "locator": "E11-T13:10.10-13:53.69",
+      "claim_ids": [
+        "CG-CHAR-0025"
+      ]
+    },
+    {
+      "locator": "E11-T13:27.62-13:53.69",
+      "claim_ids": [
+        "CG-VOICE-0009"
+      ]
+    },
+    {
+      "locator": "E11-T14:10.83-14:22.01",
+      "claim_ids": [
+        "CG-VOICE-0009"
+      ]
+    },
+    {
+      "locator": "E11-T15:11.18-15:57.27",
+      "claim_ids": [
+        "CG-VOICE-0008"
+      ]
+    },
+    {
+      "locator": "E11-T15:29.16-16:34.81",
+      "claim_ids": [
+        "CG-PROD-0021"
+      ]
+    },
+    {
+      "locator": "E11-T19:28.27-19:32.00",
+      "claim_ids": [
+        "CG-REL-0012"
+      ]
+    },
+    {
+      "locator": "E11-T19:52.50-20:52.23",
+      "claim_ids": [
+        "CG-PERF-0010",
+        "CG-VOICE-0008"
+      ]
+    },
+    {
+      "locator": "E11-T21:01.78-21:56.00",
+      "claim_ids": [
+        "CG-PERF-0010"
+      ]
+    },
+    {
+      "locator": "E11-T22:10.48-22:23.16",
+      "claim_ids": [
+        "CG-PROD-0021",
+        "CG-REL-0012"
+      ]
+    },
+    {
+      "locator": "E11-T22:35.21-23:12.20",
+      "claim_ids": [
+        "CG-MOTIF-0008"
+      ]
+    },
+    {
+      "locator": "E12-ASS0074-0079",
+      "claim_ids": [
+        "CG-NG-0001"
+      ]
+    },
+    {
+      "locator": "E12-ASS0141-0147",
+      "claim_ids": [
+        "CG-PROD-0023"
+      ]
+    },
+    {
+      "locator": "E12-ASS0144-0147",
+      "claim_ids": [
+        "CG-MOTIF-0009",
+        "CG-VOICE-0010"
+      ]
+    },
+    {
+      "locator": "E12-ASS0149-0158",
+      "claim_ids": [
+        "CG-REL-0013"
+      ]
+    },
+    {
+      "locator": "E12-ASS0191-0205",
+      "claim_ids": [
+        "CG-CHAR-0026"
+      ]
+    },
+    {
+      "locator": "E12-ASS0191-0359",
+      "claim_ids": [
+        "CG-PROD-0024"
+      ]
+    },
+    {
+      "locator": "E12-ASS0201-0202",
+      "claim_ids": [
+        "CG-VOICE-0010"
+      ]
+    },
+    {
+      "locator": "E12-ASS0201-0205",
+      "claim_ids": [
+        "CG-VOICE-0021"
+      ]
+    },
+    {
+      "locator": "E12-ASS0207-0215",
+      "claim_ids": [
+        "CG-REL-0032"
+      ]
+    },
+    {
+      "locator": "E12-ASS0224-0323",
+      "claim_ids": [
+        "CG-REL-0032"
+      ]
+    },
+    {
+      "locator": "E12-ASS0341-0357",
+      "claim_ids": [
+        "CG-PERF-0027"
+      ]
+    },
+    {
+      "locator": "E12-ASS0358-0395",
+      "claim_ids": [
+        "CG-PERF-0027"
+      ]
+    },
+    {
+      "locator": "E12-ASS0360-0384",
+      "claim_ids": [
+        "CG-REL-0014"
+      ]
+    },
+    {
+      "locator": "E12-ASS0386-0395",
+      "claim_ids": [
+        "CG-CHAR-0027",
+        "CG-VOICE-0021",
+        "CG-REL-0033"
+      ]
+    },
+    {
+      "locator": "E12-ASS0396-0398",
+      "claim_ids": [
+        "CG-CHAR-0028"
+      ]
+    },
+    {
+      "locator": "E12-ASS0402-0411",
+      "claim_ids": [
+        "CG-REL-0015"
+      ]
+    },
+    {
+      "locator": "E12-ASS0402-0416",
+      "claim_ids": [
+        "CG-VOICE-0010"
+      ]
+    },
+    {
+      "locator": "E12-ASS0412-0416",
+      "claim_ids": [
+        "CG-CHAR-0029"
+      ]
+    },
+    {
+      "locator": "E12-ASS0439-0454",
+      "claim_ids": [
+        "CG-REL-0016"
+      ]
+    },
+    {
+      "locator": "E12-AUDIO08:35-08:49",
+      "claim_ids": [
+        "CG-VOICE-0010"
+      ]
+    },
+    {
+      "locator": "E12-AUDIO11:52-11:58",
+      "claim_ids": [
+        "CG-VOICE-0010"
+      ]
+    },
+    {
+      "locator": "E12-AUDIO11:52.24-12:09.88",
+      "claim_ids": [
+        "CG-VOICE-0021"
+      ]
+    },
+    {
+      "locator": "E12-AUDIO12:12.84-12:55.99",
+      "claim_ids": [
+        "CG-REL-0032"
+      ]
+    },
+    {
+      "locator": "E12-AUDIO12:52.59-16:27.01",
+      "claim_ids": [
+        "CG-REL-0032"
+      ]
+    },
+    {
+      "locator": "E12-AUDIO17:01.17-18:00.95",
+      "claim_ids": [
+        "CG-PERF-0027"
+      ]
+    },
+    {
+      "locator": "E12-AUDIO18:01.03-19:31.32",
+      "claim_ids": [
+        "CG-PERF-0027"
+      ]
+    },
+    {
+      "locator": "E12-AUDIO18:58.17-19:31.32",
+      "claim_ids": [
+        "CG-VOICE-0021",
+        "CG-REL-0033"
+      ]
+    },
+    {
+      "locator": "E12-AUDIO19:59-21:07",
+      "claim_ids": [
+        "CG-VOICE-0010"
+      ]
+    },
+    {
+      "locator": "E12-CS10",
+      "claim_ids": [
+        "CG-NG-0001"
+      ]
+    },
+    {
+      "locator": "E12-CS13",
+      "claim_ids": [
+        "CG-PROD-0023",
+        "CG-MOTIF-0009"
+      ]
+    },
+    {
+      "locator": "E12-CS14",
+      "claim_ids": [
+        "CG-REL-0013"
+      ]
+    },
+    {
+      "locator": "E12-CS17",
+      "claim_ids": [
+        "CG-CHAR-0026",
+        "CG-VOICE-0021"
+      ]
+    },
+    {
+      "locator": "E12-CS17-30",
+      "claim_ids": [
+        "CG-PROD-0024"
+      ]
+    },
+    {
+      "locator": "E12-CS18-27",
+      "claim_ids": [
+        "CG-REL-0032"
+      ]
+    },
+    {
+      "locator": "E12-CS28-33",
+      "claim_ids": [
+        "CG-PERF-0027"
+      ]
+    },
+    {
+      "locator": "E12-CS31-32",
+      "claim_ids": [
+        "CG-REL-0014"
+      ]
+    },
+    {
+      "locator": "E12-CS32-33",
+      "claim_ids": [
+        "CG-CHAR-0027",
+        "CG-VOICE-0021",
+        "CG-REL-0033"
+      ]
+    },
+    {
+      "locator": "E12-CS33",
+      "claim_ids": [
+        "CG-CHAR-0028"
+      ]
+    },
+    {
+      "locator": "E12-CS34",
+      "claim_ids": [
+        "CG-REL-0015",
+        "CG-CHAR-0029"
+      ]
+    },
+    {
+      "locator": "E12-CS37-38",
+      "claim_ids": [
+        "CG-REL-0016"
+      ]
+    },
+    {
+      "locator": "E12-FRAME_000279",
+      "claim_ids": [
+        "CG-NG-0001"
+      ]
+    },
+    {
+      "locator": "E12-FRAME_000416",
+      "claim_ids": [
+        "CG-PROD-0023",
+        "CG-MOTIF-0009"
+      ]
+    },
+    {
+      "locator": "E12-FRAME_000553",
+      "claim_ids": [
+        "CG-CHAR-0026"
+      ]
+    },
+    {
+      "locator": "E12-FRAME_001031",
+      "claim_ids": [
+        "CG-CHAR-0027"
+      ]
+    },
+    {
+      "locator": "E12-FRAME_001071",
+      "claim_ids": [
+        "CG-CHAR-0028"
+      ]
+    },
+    {
+      "locator": "E12-FRAME_001096",
+      "claim_ids": [
+        "CG-REL-0015"
+      ]
+    },
+    {
+      "locator": "E12-FRAME_001121",
+      "claim_ids": [
+        "CG-CHAR-0029"
+      ]
+    },
+    {
+      "locator": "E12-FRAME_001184",
+      "claim_ids": [
+        "CG-REL-0016"
+      ]
+    },
+    {
+      "locator": "E12-FRAME_001220",
+      "claim_ids": [
+        "CG-REL-0016"
+      ]
+    },
+    {
+      "locator": "E12-SCENE06",
+      "claim_ids": [
+        "CG-PROD-0024"
+      ]
+    },
+    {
+      "locator": "E12-T04:38.31-04:59.96",
+      "claim_ids": [
+        "CG-NG-0001"
+      ]
+    },
+    {
+      "locator": "E12-T08:29.37-08:48.52",
+      "claim_ids": [
+        "CG-PROD-0023"
+      ]
+    },
+    {
+      "locator": "E12-T08:35.46-08:48.52",
+      "claim_ids": [
+        "CG-MOTIF-0009"
+      ]
+    },
+    {
+      "locator": "E12-T08:52.39-09:31.30",
+      "claim_ids": [
+        "CG-REL-0013"
+      ]
+    },
+    {
+      "locator": "E12-T11:23.67-12:09.88",
+      "claim_ids": [
+        "CG-CHAR-0026"
+      ]
+    },
+    {
+      "locator": "E12-T11:23.67-16:53.55",
+      "claim_ids": [
+        "CG-PROD-0024"
+      ]
+    },
+    {
+      "locator": "E12-T18:06.03-18:54.62",
+      "claim_ids": [
+        "CG-REL-0014"
+      ]
+    },
+    {
+      "locator": "E12-T18:58.17-19:31.32",
+      "claim_ids": [
+        "CG-CHAR-0027"
+      ]
+    },
+    {
+      "locator": "E12-T19:36.66-19:49.01",
+      "claim_ids": [
+        "CG-CHAR-0028"
+      ]
+    },
+    {
+      "locator": "E12-T19:59.02-20:44.90",
+      "claim_ids": [
+        "CG-REL-0015"
+      ]
+    },
+    {
+      "locator": "E12-T20:48.61-21:06.17",
+      "claim_ids": [
+        "CG-CHAR-0029"
+      ]
+    },
+    {
+      "locator": "E12-T23:18.72-23:56.75",
+      "claim_ids": [
+        "CG-REL-0016"
+      ]
+    },
+    {
+      "locator": "E13-ASS0087-0099",
+      "claim_ids": [
+        "CG-ETHICS-0001"
+      ]
+    },
+    {
+      "locator": "E13-ASS0125-0135",
+      "claim_ids": [
+        "CG-CHAR-0030",
+        "CG-VOICE-0011"
+      ]
+    },
+    {
+      "locator": "E13-ASS0159-0196",
+      "claim_ids": [
+        "CG-VOICE-0011"
+      ]
+    },
+    {
+      "locator": "E13-ASS0177-0196",
+      "claim_ids": [
+        "CG-REL-0017"
+      ]
+    },
+    {
+      "locator": "E13-ASS0212-0224",
+      "claim_ids": [
+        "CG-INST-0016"
+      ]
+    },
+    {
+      "locator": "E13-ASS0217-0224",
+      "claim_ids": [
+        "CG-INST-0008"
+      ]
+    },
+    {
+      "locator": "E13-ASS0235-0251",
+      "claim_ids": [
+        "CG-REL-0018"
+      ]
+    },
+    {
+      "locator": "E13-ASS0257-0260",
+      "claim_ids": [
+        "CG-PROD-0025"
+      ]
+    },
+    {
+      "locator": "E13-ASS0257-0272",
+      "claim_ids": [
+        "CG-PERF-0028"
+      ]
+    },
+    {
+      "locator": "E13-ASS0262-0269",
+      "claim_ids": [
+        "CG-NG-0002"
+      ]
+    },
+    {
+      "locator": "E13-ASS0262-0320",
+      "claim_ids": [
+        "CG-VOICE-0012"
+      ]
+    },
+    {
+      "locator": "E13-ASS0273-0320",
+      "claim_ids": [
+        "CG-PERF-0011",
+        "CG-PERF-0028"
+      ]
+    },
+    {
+      "locator": "E13-ASS0355-0377",
+      "claim_ids": [
+        "CG-CHAR-0031"
+      ]
+    },
+    {
+      "locator": "E13-ASS0378-0402",
+      "claim_ids": [
+        "CG-REL-0019"
+      ]
+    },
+    {
+      "locator": "E13-ASS0378-0405",
+      "claim_ids": [
+        "CG-REL-0033"
+      ]
+    },
+    {
+      "locator": "E13-ASS0421-0437",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "E13-ASS0424-0431",
+      "claim_ids": [
+        "CG-REL-0020"
+      ]
+    },
+    {
+      "locator": "E13-ASS0438-0442",
+      "claim_ids": [
+        "CG-NG-0003"
+      ]
+    },
+    {
+      "locator": "E13-ASS0438-0480",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "E13-ASS0449-0454",
+      "claim_ids": [
+        "CG-CHAR-0032"
+      ]
+    },
+    {
+      "locator": "E13-ASS0449-0480",
+      "claim_ids": [
+        "CG-VOICE-0012"
+      ]
+    },
+    {
+      "locator": "E13-ASS0455-0456",
+      "claim_ids": [
+        "CG-NG-0002"
+      ]
+    },
+    {
+      "locator": "E13-ASS0459-0474",
+      "claim_ids": [
+        "CG-CIND-0004"
+      ]
+    },
+    {
+      "locator": "E13-ASS0476-0480",
+      "claim_ids": [
+        "CG-CIND-0005"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO05:27-06:03",
+      "claim_ids": [
+        "CG-CHAR-0030",
+        "CG-VOICE-0011"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO07:37-09:55",
+      "claim_ids": [
+        "CG-VOICE-0011"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO10:26.27-10:56.63",
+      "claim_ids": [
+        "CG-INST-0016"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO12:19.55-12:50.59",
+      "claim_ids": [
+        "CG-PERF-0028"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO12:30-15:09",
+      "claim_ids": [
+        "CG-VOICE-0012"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO13:01.59-15:08.51",
+      "claim_ids": [
+        "CG-PERF-0028"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO17:44.17-19:36.15",
+      "claim_ids": [
+        "CG-REL-0033"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO21:00.36-21:49.75",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO21:51.54-23:54.91",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO22:28-22:41",
+      "claim_ids": [
+        "CG-CHAR-0032"
+      ]
+    },
+    {
+      "locator": "E13-AUDIO22:28-23:55",
+      "claim_ids": [
+        "CG-VOICE-0012"
+      ]
+    },
+    {
+      "locator": "E13-CS05-06",
+      "claim_ids": [
+        "CG-ETHICS-0001"
+      ]
+    },
+    {
+      "locator": "E13-CS07-08",
+      "claim_ids": [
+        "CG-CHAR-0030"
+      ]
+    },
+    {
+      "locator": "E13-CS12-15",
+      "claim_ids": [
+        "CG-REL-0017"
+      ]
+    },
+    {
+      "locator": "E13-CS16-17",
+      "claim_ids": [
+        "CG-INST-0008",
+        "CG-INST-0016"
+      ]
+    },
+    {
+      "locator": "E13-CS17-18",
+      "claim_ids": [
+        "CG-REL-0018"
+      ]
+    },
+    {
+      "locator": "E13-CS19",
+      "claim_ids": [
+        "CG-PROD-0025",
+        "CG-NG-0002"
+      ]
+    },
+    {
+      "locator": "E13-CS19-25",
+      "claim_ids": [
+        "CG-PERF-0028"
+      ]
+    },
+    {
+      "locator": "E13-CS20-25",
+      "claim_ids": [
+        "CG-PERF-0011"
+      ]
+    },
+    {
+      "locator": "E13-CS28-30",
+      "claim_ids": [
+        "CG-CHAR-0031"
+      ]
+    },
+    {
+      "locator": "E13-CS30-38",
+      "claim_ids": [
+        "CG-REL-0019",
+        "CG-REL-0033"
+      ]
+    },
+    {
+      "locator": "E13-CS41-42",
+      "claim_ids": [
+        "CG-REL-0020"
+      ]
+    },
+    {
+      "locator": "E13-CS41-45",
+      "claim_ids": [
+        "CG-MOTIF-0019"
+      ]
+    },
+    {
+      "locator": "E13-CS43",
+      "claim_ids": [
+        "CG-NG-0003",
+        "CG-CHAR-0032"
+      ]
+    },
+    {
+      "locator": "E13-CS44",
+      "claim_ids": [
+        "CG-NG-0002",
+        "CG-CIND-0004"
+      ]
+    },
+    {
+      "locator": "E13-CS45",
+      "claim_ids": [
+        "CG-CIND-0005"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000205",
+      "claim_ids": [
+        "CG-ETHICS-0001"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000222",
+      "claim_ids": [
+        "CG-ETHICS-0001"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000278",
+      "claim_ids": [
+        "CG-CHAR-0030"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000487",
+      "claim_ids": [
+        "CG-REL-0017"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000616",
+      "claim_ids": [
+        "CG-INST-0008"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000659",
+      "claim_ids": [
+        "CG-REL-0018"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000720",
+      "claim_ids": [
+        "CG-PROD-0025"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000749",
+      "claim_ids": [
+        "CG-PERF-0011"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000908",
+      "claim_ids": [
+        "CG-PERF-0011"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_000964",
+      "claim_ids": [
+        "CG-CHAR-0031"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_001309",
+      "claim_ids": [
+        "CG-REL-0020"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_001356",
+      "claim_ids": [
+        "CG-NG-0003"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_001376",
+      "claim_ids": [
+        "CG-CHAR-0032"
+      ]
+    },
+    {
+      "locator": "E13-FRAME_001408",
+      "claim_ids": [
+        "CG-CIND-0004"
+      ]
+    },
+    {
+      "locator": "E13-T03:42.83-04:15.15",
+      "claim_ids": [
+        "CG-ETHICS-0001"
+      ]
+    },
+    {
+      "locator": "E13-T05:27.31-06:02.64",
+      "claim_ids": [
+        "CG-CHAR-0030"
+      ]
+    },
+    {
+      "locator": "E13-T08:28.45-09:55.58",
+      "claim_ids": [
+        "CG-REL-0017"
+      ]
+    },
+    {
+      "locator": "E13-T10:38.53-10:56.63",
+      "claim_ids": [
+        "CG-INST-0008"
+      ]
+    },
+    {
+      "locator": "E13-T11:17.66-12:02.78",
+      "claim_ids": [
+        "CG-REL-0018"
+      ]
+    },
+    {
+      "locator": "E13-T12:19.55-12:27.40",
+      "claim_ids": [
+        "CG-PROD-0025"
+      ]
+    },
+    {
+      "locator": "E13-T12:30.48-12:45.41",
+      "claim_ids": [
+        "CG-NG-0002"
+      ]
+    },
+    {
+      "locator": "E13-T13:01.59-15:08.51",
+      "claim_ids": [
+        "CG-PERF-0011"
+      ]
+    },
+    {
+      "locator": "E13-T16:28.18-17:39.87",
+      "claim_ids": [
+        "CG-CHAR-0031"
+      ]
+    },
+    {
+      "locator": "E13-T17:44.17-19:34.65",
+      "claim_ids": [
+        "CG-REL-0019"
+      ]
+    },
+    {
+      "locator": "E13-T21:06.29-21:28.60",
+      "claim_ids": [
+        "CG-REL-0020"
+      ]
+    },
+    {
+      "locator": "E13-T21:51.54-22:06.01",
+      "claim_ids": [
+        "CG-NG-0003"
+      ]
+    },
+    {
+      "locator": "E13-T22:28.33-22:40.72",
+      "claim_ids": [
+        "CG-CHAR-0032"
+      ]
+    },
+    {
+      "locator": "E13-T22:47.89-22:52.01",
+      "claim_ids": [
+        "CG-NG-0002"
+      ]
+    },
+    {
+      "locator": "E13-T22:56.86-23:38.07",
+      "claim_ids": [
+        "CG-CIND-0004"
+      ]
+    },
+    {
+      "locator": "E13-T23:39.98-23:54.91",
+      "claim_ids": [
+        "CG-CIND-0005"
+      ]
+    },
+    {
+      "locator": "E14-ASS0001-0008",
+      "claim_ids": [
+        "CG-CIND-0006",
+        "CG-CIND-0013"
+      ]
+    },
+    {
+      "locator": "E14-ASS0041-0044",
+      "claim_ids": [
+        "CG-VOICE-0015"
+      ]
+    },
+    {
+      "locator": "E14-ASS0045-0064",
+      "claim_ids": [
+        "CG-MEDIA-0006"
+      ]
+    },
+    {
+      "locator": "E14-ASS0059-0064",
+      "claim_ids": [
+        "CG-ARCH-0002"
+      ]
+    },
+    {
+      "locator": "E14-ASS0080-0083",
+      "claim_ids": [
+        "CG-INST-0009"
+      ]
+    },
+    {
+      "locator": "E14-ASS0084-0092",
+      "claim_ids": [
+        "CG-VOICE-0015"
+      ]
+    },
+    {
+      "locator": "E14-ASS0090-0092",
+      "claim_ids": [
+        "CG-PROD-0027"
+      ]
+    },
+    {
+      "locator": "E14-ASS0111-0130",
+      "claim_ids": [
+        "CG-MEDIA-0006"
+      ]
+    },
+    {
+      "locator": "E14-ASS0119-0123",
+      "claim_ids": [
+        "CG-CHAR-0035"
+      ]
+    },
+    {
+      "locator": "E14-ASS0173-0200",
+      "claim_ids": [
+        "CG-INST-0011"
+      ]
+    },
+    {
+      "locator": "E14-ASS0224-0228",
+      "claim_ids": [
+        "CG-REL-0023"
+      ]
+    },
+    {
+      "locator": "E14-ASS0224-0238",
+      "claim_ids": [
+        "CG-PROD-0026"
+      ]
+    },
+    {
+      "locator": "E14-ASS0229-0238",
+      "claim_ids": [
+        "CG-CHAR-0033",
+        "CG-VOICE-0013"
+      ]
+    },
+    {
+      "locator": "E14-ASS0256-0268",
+      "claim_ids": [
+        "CG-REL-0021",
+        "CG-PERF-0012"
+      ]
+    },
+    {
+      "locator": "E14-ASS0269-0279",
+      "claim_ids": [
+        "CG-MEDIA-0006"
+      ]
+    },
+    {
+      "locator": "E14-ASS0275-0276",
+      "claim_ids": [
+        "CG-REL-0021"
+      ]
+    },
+    {
+      "locator": "E14-ASS0275-0279",
+      "claim_ids": [
+        "CG-CHAR-0034"
+      ]
+    },
+    {
+      "locator": "E14-ASS0277-0279",
+      "claim_ids": [
+        "CG-VOICE-0014"
+      ]
+    },
+    {
+      "locator": "E14-ASS0288-0359",
+      "claim_ids": [
+        "CG-INST-0011"
+      ]
+    },
+    {
+      "locator": "E14-ASS0289-0311",
+      "claim_ids": [
+        "CG-CHAR-0036"
+      ]
+    },
+    {
+      "locator": "E14-ASS0290-0308",
+      "claim_ids": [
+        "CG-PERF-0029"
+      ]
+    },
+    {
+      "locator": "E14-ASS0407-0421",
+      "claim_ids": [
+        "CG-INST-0010",
+        "CG-REL-0023"
+      ]
+    },
+    {
+      "locator": "E14-ASS0422-0447",
+      "claim_ids": [
+        "CG-MOTIF-0020"
+      ]
+    },
+    {
+      "locator": "E14-ASS0425-0428",
+      "claim_ids": [
+        "CG-REL-0022"
+      ]
+    },
+    {
+      "locator": "E14-ASS0444-0447",
+      "claim_ids": [
+        "CG-ARCH-0002",
+        "CG-INST-0009",
+        "CG-INST-0010",
+        "CG-VOICE-0015"
+      ]
+    },
+    {
+      "locator": "E14-ASS0446-0447",
+      "claim_ids": [
+        "CG-CIND-0006"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO00:10.07-00:45.90",
+      "claim_ids": [
+        "CG-CIND-0013"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO02:56-03:10",
+      "claim_ids": [
+        "CG-VOICE-0015"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO05:03-05:30",
+      "claim_ids": [
+        "CG-VOICE-0015"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO06:41-06:56",
+      "claim_ids": [
+        "CG-CHAR-0035"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO11:34-12:07",
+      "claim_ids": [
+        "CG-PROD-0026"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO11:47-12:07",
+      "claim_ids": [
+        "CG-CHAR-0033",
+        "CG-VOICE-0013"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO14:04-14:13",
+      "claim_ids": [
+        "CG-CHAR-0034",
+        "CG-VOICE-0014"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO15:01.30-16:01.77",
+      "claim_ids": [
+        "CG-PERF-0029"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO15:47-15:52",
+      "claim_ids": [
+        "CG-CHAR-0036"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO21:52.54-23:56.84",
+      "claim_ids": [
+        "CG-MOTIF-0020"
+      ]
+    },
+    {
+      "locator": "E14-AUDIO23:39-23:57",
+      "claim_ids": [
+        "CG-VOICE-0015"
+      ]
+    },
+    {
+      "locator": "E14-CS01-02",
+      "claim_ids": [
+        "CG-CIND-0006",
+        "CG-CIND-0013"
+      ]
+    },
+    {
+      "locator": "E14-CS05-09",
+      "claim_ids": [
+        "CG-MOTIF-0010"
+      ]
+    },
+    {
+      "locator": "E14-CS07-08",
+      "claim_ids": [
+        "CG-MEDIA-0006"
+      ]
+    },
+    {
+      "locator": "E14-CS09",
+      "claim_ids": [
+        "CG-PROD-0027"
+      ]
+    },
+    {
+      "locator": "E14-CS11",
+      "claim_ids": [
+        "CG-CHAR-0035",
+        "CG-MEDIA-0006"
+      ]
+    },
+    {
+      "locator": "E14-CS13-16",
+      "claim_ids": [
+        "CG-INST-0011"
+      ]
+    },
+    {
+      "locator": "E14-CS17-18",
+      "claim_ids": [
+        "CG-PROD-0026",
+        "CG-CHAR-0033"
+      ]
+    },
+    {
+      "locator": "E14-CS19",
+      "claim_ids": [
+        "CG-REL-0021",
+        "CG-PERF-0012"
+      ]
+    },
+    {
+      "locator": "E14-CS20",
+      "claim_ids": [
+        "CG-CHAR-0034",
+        "CG-REL-0021",
+        "CG-MEDIA-0006"
+      ]
+    },
+    {
+      "locator": "E14-CS21-22",
+      "claim_ids": [
+        "CG-PERF-0029"
+      ]
+    },
+    {
+      "locator": "E14-CS21-23",
+      "claim_ids": [
+        "CG-CHAR-0036"
+      ]
+    },
+    {
+      "locator": "E14-CS21-25",
+      "claim_ids": [
+        "CG-INST-0011"
+      ]
+    },
+    {
+      "locator": "E14-CS30",
+      "claim_ids": [
+        "CG-INST-0010",
+        "CG-REL-0023"
+      ]
+    },
+    {
+      "locator": "E14-CS31",
+      "claim_ids": [
+        "CG-REL-0022"
+      ]
+    },
+    {
+      "locator": "E14-CS31-33",
+      "claim_ids": [
+        "CG-MOTIF-0020"
+      ]
+    },
+    {
+      "locator": "E14-CS33",
+      "claim_ids": [
+        "CG-ARCH-0002",
+        "CG-INST-0009",
+        "CG-INST-0010",
+        "CG-MOTIF-0010"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000032",
+      "claim_ids": [
+        "CG-CIND-0006"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000046",
+      "claim_ids": [
+        "CG-CIND-0006"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000296",
+      "claim_ids": [
+        "CG-PROD-0027"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000300",
+      "claim_ids": [
+        "CG-PROD-0027"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000625",
+      "claim_ids": [
+        "CG-PROD-0026"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000630",
+      "claim_ids": [
+        "CG-PROD-0026"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000635",
+      "claim_ids": [
+        "CG-PROD-0026",
+        "CG-CHAR-0033"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000644",
+      "claim_ids": [
+        "CG-PROD-0026",
+        "CG-CHAR-0033",
+        "CG-VOICE-0013"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000688",
+      "claim_ids": [
+        "CG-REL-0021",
+        "CG-PERF-0012"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000706",
+      "claim_ids": [
+        "CG-REL-0021",
+        "CG-PERF-0012"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000747",
+      "claim_ids": [
+        "CG-CHAR-0034",
+        "CG-REL-0021"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000752",
+      "claim_ids": [
+        "CG-CHAR-0034"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000753",
+      "claim_ids": [
+        "CG-CHAR-0034"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000755",
+      "claim_ids": [
+        "CG-CHAR-0034"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000785",
+      "claim_ids": [
+        "CG-CHAR-0036"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000789",
+      "claim_ids": [
+        "CG-PERF-0029"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000800",
+      "claim_ids": [
+        "CG-PERF-0029"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000822",
+      "claim_ids": [
+        "CG-PERF-0029"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000833",
+      "claim_ids": [
+        "CG-CHAR-0036"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000843",
+      "claim_ids": [
+        "CG-CHAR-0036"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000848",
+      "claim_ids": [
+        "CG-CHAR-0036"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_000851",
+      "claim_ids": [
+        "CG-CHAR-0036"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_001110",
+      "claim_ids": [
+        "CG-REL-0023"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_001139",
+      "claim_ids": [
+        "CG-INST-0010",
+        "CG-REL-0023"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_001178",
+      "claim_ids": [
+        "CG-REL-0022"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_001182",
+      "claim_ids": [
+        "CG-REL-0022"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_001231",
+      "claim_ids": [
+        "CG-MOTIF-0010"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_001239",
+      "claim_ids": [
+        "CG-INST-0009",
+        "CG-MOTIF-0010"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_001245",
+      "claim_ids": [
+        "CG-ARCH-0002",
+        "CG-INST-0009",
+        "CG-MOTIF-0010"
+      ]
+    },
+    {
+      "locator": "E14-FRAME_001250",
+      "claim_ids": [
+        "CG-INST-0009"
+      ]
+    },
+    {
+      "locator": "E14-T00:10.07-00:45.90",
+      "claim_ids": [
+        "CG-CIND-0006"
+      ]
+    },
+    {
+      "locator": "E14-T03:11.05-04:10.94",
+      "claim_ids": [
+        "CG-MEDIA-0006"
+      ]
+    },
+    {
+      "locator": "E14-T03:54.88-04:10.94",
+      "claim_ids": [
+        "CG-ARCH-0002"
+      ]
+    },
+    {
+      "locator": "E14-T04:46.56-05:01.78",
+      "claim_ids": [
+        "CG-INST-0009"
+      ]
+    },
+    {
+      "locator": "E14-T05:21.34-05:30.15",
+      "claim_ids": [
+        "CG-PROD-0027"
+      ]
+    },
+    {
+      "locator": "E14-T06:20.82-07:09.70",
+      "claim_ids": [
+        "CG-MEDIA-0006"
+      ]
+    },
+    {
+      "locator": "E14-T06:41.34-06:55.52",
+      "claim_ids": [
+        "CG-CHAR-0035"
+      ]
+    },
+    {
+      "locator": "E14-T08:52.80-10:13.38",
+      "claim_ids": [
+        "CG-INST-0011"
+      ]
+    },
+    {
+      "locator": "E14-T11:34.59-11:45.69",
+      "claim_ids": [
+        "CG-REL-0023"
+      ]
+    },
+    {
+      "locator": "E14-T11:34.59-12:06.87",
+      "claim_ids": [
+        "CG-PROD-0026"
+      ]
+    },
+    {
+      "locator": "E14-T11:47.02-12:06.87",
+      "claim_ids": [
+        "CG-CHAR-0033"
+      ]
+    },
+    {
+      "locator": "E14-T12:53.21-13:26.11",
+      "claim_ids": [
+        "CG-REL-0021",
+        "CG-PERF-0012"
+      ]
+    },
+    {
+      "locator": "E14-T13:37.05-14:08.49",
+      "claim_ids": [
+        "CG-MEDIA-0006"
+      ]
+    },
+    {
+      "locator": "E14-T13:57.02-14:04.36",
+      "claim_ids": [
+        "CG-REL-0021"
+      ]
+    },
+    {
+      "locator": "E14-T13:57.02-14:12.45",
+      "claim_ids": [
+        "CG-CHAR-0034"
+      ]
+    },
+    {
+      "locator": "E14-T14:57.00-18:25.50",
+      "claim_ids": [
+        "CG-INST-0011"
+      ]
+    },
+    {
+      "locator": "E14-T14:59.59-16:13.79",
+      "claim_ids": [
+        "CG-CHAR-0036"
+      ]
+    },
+    {
+      "locator": "E14-T21:10.54-21:44.66",
+      "claim_ids": [
+        "CG-INST-0010",
+        "CG-REL-0023"
+      ]
+    },
+    {
+      "locator": "E14-T22:09.56-22:17.15",
+      "claim_ids": [
+        "CG-REL-0022"
+      ]
+    },
+    {
+      "locator": "E14-T23:39.19-23:56.84",
+      "claim_ids": [
+        "CG-ARCH-0002",
+        "CG-INST-0009",
+        "CG-INST-0010"
+      ]
+    },
+    {
+      "locator": "E14-T23:50.91-23:56.84",
+      "claim_ids": [
+        "CG-CIND-0006"
+      ]
+    },
+    {
+      "locator": "E15-ASS0001-0005",
+      "claim_ids": [
+        "CG-INST-0012"
+      ]
+    },
+    {
+      "locator": "E15-ASS0001-0020",
+      "claim_ids": [
+        "CG-CIND-0013"
+      ]
+    },
+    {
+      "locator": "E15-ASS0028-0030",
+      "claim_ids": [
+        "CG-INST-0012"
+      ]
+    },
+    {
+      "locator": "E15-ASS0033-0037",
+      "claim_ids": [
+        "CG-PROD-0028",
+        "CG-MOTIF-0012"
+      ]
+    },
+    {
+      "locator": "E15-ASS0033-0046",
+      "claim_ids": [
+        "CG-ARCH-0003",
+        "CG-ETHICS-0002"
+      ]
+    },
+    {
+      "locator": "E15-ASS0038-0040",
+      "claim_ids": [
+        "CG-PROD-0029",
+        "CG-VOICE-0016"
+      ]
+    },
+    {
+      "locator": "E15-ASS0042-0046",
+      "claim_ids": [
+        "CG-INST-0013"
+      ]
+    },
+    {
+      "locator": "E15-ASS0054-0077",
+      "claim_ids": [
+        "CG-REL-0024"
+      ]
+    },
+    {
+      "locator": "E15-ASS0109-0115",
+      "claim_ids": [
+        "CG-INST-0014"
+      ]
+    },
+    {
+      "locator": "E15-ASS0116-0140",
+      "claim_ids": [
+        "CG-NG-0004"
+      ]
+    },
+    {
+      "locator": "E15-ASS0120-0132",
+      "claim_ids": [
+        "CG-CHAR-0037",
+        "CG-VOICE-0017"
+      ]
+    },
+    {
+      "locator": "E15-ASS0134-0140",
+      "claim_ids": [
+        "CG-CHAR-0038"
+      ]
+    },
+    {
+      "locator": "E15-ASS0149-0158",
+      "claim_ids": [
+        "CG-CIND-0007"
+      ]
+    },
+    {
+      "locator": "E15-ASS0181-0206",
+      "claim_ids": [
+        "CG-MEDIA-0007"
+      ]
+    },
+    {
+      "locator": "E15-ASS0211-0224",
+      "claim_ids": [
+        "CG-CHAR-0039"
+      ]
+    },
+    {
+      "locator": "E15-ASS0211-0237",
+      "claim_ids": [
+        "CG-REL-0024",
+        "CG-PROD-0031",
+        "CG-CHAR-0040"
+      ]
+    },
+    {
+      "locator": "E15-ASS0239-0244",
+      "claim_ids": [
+        "CG-REL-0028"
+      ]
+    },
+    {
+      "locator": "E15-ASS0258-0284",
+      "claim_ids": [
+        "CG-PROD-0031",
+        "CG-REL-0028"
+      ]
+    },
+    {
+      "locator": "E15-ASS0294-0335",
+      "claim_ids": [
+        "CG-REL-0026"
+      ]
+    },
+    {
+      "locator": "E15-ASS0294-0362",
+      "claim_ids": [
+        "CG-MEDIA-0007"
+      ]
+    },
+    {
+      "locator": "E15-ASS0351-0362",
+      "claim_ids": [
+        "CG-PERF-0013"
+      ]
+    },
+    {
+      "locator": "E15-ASS0351-0388",
+      "claim_ids": [
+        "CG-REL-0025",
+        "CG-VOICE-0018"
+      ]
+    },
+    {
+      "locator": "E15-ASS0351-0391",
+      "claim_ids": [
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-ASS0368-0388",
+      "claim_ids": [
+        "CG-PROD-0030",
+        "CG-MOTIF-0011",
+        "CG-ETHICS-0002"
+      ]
+    },
+    {
+      "locator": "E15-ASS0395-0430",
+      "claim_ids": [
+        "CG-MOTIF-0020"
+      ]
+    },
+    {
+      "locator": "E15-ASS0400-0427",
+      "claim_ids": [
+        "CG-REL-0027"
+      ]
+    },
+    {
+      "locator": "E15-ASS0408-0427",
+      "claim_ids": [
+        "CG-VOICE-0022"
+      ]
+    },
+    {
+      "locator": "E15-ASS0428-0430",
+      "claim_ids": [
+        "CG-ARCH-0003",
+        "CG-PROD-0032",
+        "CG-CIND-0008"
+      ]
+    },
+    {
+      "locator": "E15-AUDIO00:13.66-02:00.47",
+      "claim_ids": [
+        "CG-CIND-0013"
+      ]
+    },
+    {
+      "locator": "E15-AUDIO03:05-03:15",
+      "claim_ids": [
+        "CG-PROD-0029",
+        "CG-VOICE-0016"
+      ]
+    },
+    {
+      "locator": "E15-AUDIO07:09-07:33",
+      "claim_ids": [
+        "CG-CHAR-0037",
+        "CG-VOICE-0017"
+      ]
+    },
+    {
+      "locator": "E15-AUDIO19:20-20:01",
+      "claim_ids": [
+        "CG-PERF-0013",
+        "CG-VOICE-0018"
+      ]
+    },
+    {
+      "locator": "E15-AUDIO19:20.64-21:49.33",
+      "claim_ids": [
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-AUDIO20:30-21:15",
+      "claim_ids": [
+        "CG-PROD-0030",
+        "CG-VOICE-0018"
+      ]
+    },
+    {
+      "locator": "E15-AUDIO22:02.72-23:48.41",
+      "claim_ids": [
+        "CG-MOTIF-0020"
+      ]
+    },
+    {
+      "locator": "E15-AUDIO22:38.84-23:32.30",
+      "claim_ids": [
+        "CG-VOICE-0022"
+      ]
+    },
+    {
+      "locator": "E15-CS01",
+      "claim_ids": [
+        "CG-INST-0012"
+      ]
+    },
+    {
+      "locator": "E15-CS01-07",
+      "claim_ids": [
+        "CG-CIND-0013"
+      ]
+    },
+    {
+      "locator": "E15-CS09",
+      "claim_ids": [
+        "CG-INST-0012",
+        "CG-PROD-0028",
+        "CG-PROD-0029",
+        "CG-INST-0013",
+        "CG-MOTIF-0012"
+      ]
+    },
+    {
+      "locator": "E15-CS10",
+      "claim_ids": [
+        "CG-REL-0024"
+      ]
+    },
+    {
+      "locator": "E15-CS12-13",
+      "claim_ids": [
+        "CG-INST-0014"
+      ]
+    },
+    {
+      "locator": "E15-CS13",
+      "claim_ids": [
+        "CG-NG-0004",
+        "CG-CHAR-0037",
+        "CG-CHAR-0038"
+      ]
+    },
+    {
+      "locator": "E15-CS17",
+      "claim_ids": [
+        "CG-CIND-0007"
+      ]
+    },
+    {
+      "locator": "E15-CS19-20",
+      "claim_ids": [
+        "CG-MEDIA-0007"
+      ]
+    },
+    {
+      "locator": "E15-CS20-21",
+      "claim_ids": [
+        "CG-REL-0024",
+        "CG-CHAR-0039",
+        "CG-CHAR-0040"
+      ]
+    },
+    {
+      "locator": "E15-CS20-24",
+      "claim_ids": [
+        "CG-PROD-0031"
+      ]
+    },
+    {
+      "locator": "E15-CS21-24",
+      "claim_ids": [
+        "CG-REL-0028"
+      ]
+    },
+    {
+      "locator": "E15-CS26-28",
+      "claim_ids": [
+        "CG-REL-0026"
+      ]
+    },
+    {
+      "locator": "E15-CS26-30",
+      "claim_ids": [
+        "CG-MEDIA-0007"
+      ]
+    },
+    {
+      "locator": "E15-CS30",
+      "claim_ids": [
+        "CG-PERF-0013"
+      ]
+    },
+    {
+      "locator": "E15-CS30-33",
+      "claim_ids": [
+        "CG-REL-0025"
+      ]
+    },
+    {
+      "locator": "E15-CS30-34",
+      "claim_ids": [
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-CS32-33",
+      "claim_ids": [
+        "CG-PROD-0030",
+        "CG-MOTIF-0011"
+      ]
+    },
+    {
+      "locator": "E15-CS34-35",
+      "claim_ids": [
+        "CG-PROD-0031"
+      ]
+    },
+    {
+      "locator": "E15-CS35-36",
+      "claim_ids": [
+        "CG-REL-0027",
+        "CG-VOICE-0022"
+      ]
+    },
+    {
+      "locator": "E15-CS35-37",
+      "claim_ids": [
+        "CG-MOTIF-0020"
+      ]
+    },
+    {
+      "locator": "E15-CS37",
+      "claim_ids": [
+        "CG-ARCH-0003",
+        "CG-PROD-0032",
+        "CG-CIND-0008"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000019",
+      "claim_ids": [
+        "CG-CIND-0013"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000042",
+      "claim_ids": [
+        "CG-CIND-0013"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000112",
+      "claim_ids": [
+        "CG-CIND-0013"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000240",
+      "claim_ids": [
+        "CG-PROD-0028",
+        "CG-PROD-0029"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000291",
+      "claim_ids": [
+        "CG-REL-0024"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000411",
+      "claim_ids": [
+        "CG-NG-0004",
+        "CG-CHAR-0037",
+        "CG-VOICE-0017"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000584",
+      "claim_ids": [
+        "CG-CIND-0007"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000743",
+      "claim_ids": [
+        "CG-PROD-0031",
+        "CG-REL-0028"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000961",
+      "claim_ids": [
+        "CG-REL-0026"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_000991",
+      "claim_ids": [
+        "CG-REL-0026"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001034",
+      "claim_ids": [
+        "CG-REL-0026"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001127",
+      "claim_ids": [
+        "CG-PERF-0013",
+        "CG-REL-0025",
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001159",
+      "claim_ids": [
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001172",
+      "claim_ids": [
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001195",
+      "claim_ids": [
+        "CG-PROD-0030",
+        "CG-REL-0025",
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001202",
+      "claim_ids": [
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001213",
+      "claim_ids": [
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001231",
+      "claim_ids": [
+        "CG-PROD-0030"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001243",
+      "claim_ids": [
+        "CG-PERF-0030"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001274",
+      "claim_ids": [
+        "CG-MOTIF-0020"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001284",
+      "claim_ids": [
+        "CG-PROD-0031"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001288",
+      "claim_ids": [
+        "CG-PROD-0031"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001304",
+      "claim_ids": [
+        "CG-VOICE-0022"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001325",
+      "claim_ids": [
+        "CG-MOTIF-0020",
+        "CG-VOICE-0022"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001361",
+      "claim_ids": [
+        "CG-MOTIF-0020"
+      ]
+    },
+    {
+      "locator": "E15-FRAME_001374",
+      "claim_ids": [
+        "CG-ARCH-0003",
+        "CG-PROD-0032",
+        "CG-CIND-0008"
+      ]
+    },
+    {
+      "locator": "E15-T00:13.66-00:30.68",
+      "claim_ids": [
+        "CG-INST-0012"
+      ]
+    },
+    {
+      "locator": "E15-T02:24.54-02:40.89",
+      "claim_ids": [
+        "CG-INST-0012"
+      ]
+    },
+    {
+      "locator": "E15-T02:45.14-03:04.70",
+      "claim_ids": [
+        "CG-PROD-0028",
+        "CG-MOTIF-0012"
+      ]
+    },
+    {
+      "locator": "E15-T02:45.14-03:33.03",
+      "claim_ids": [
+        "CG-ARCH-0003",
+        "CG-ETHICS-0002"
+      ]
+    },
+    {
+      "locator": "E15-T03:05.37-03:14.51",
+      "claim_ids": [
+        "CG-PROD-0029"
+      ]
+    },
+    {
+      "locator": "E15-T03:17.01-03:33.03",
+      "claim_ids": [
+        "CG-INST-0013"
+      ]
+    },
+    {
+      "locator": "E15-T03:58.34-05:12.46",
+      "claim_ids": [
+        "CG-REL-0024"
+      ]
+    },
+    {
+      "locator": "E15-T06:25.66-06:45.68",
+      "claim_ids": [
+        "CG-INST-0014"
+      ]
+    },
+    {
+      "locator": "E15-T06:25.66-07:50.95",
+      "claim_ids": [
+        "CG-NG-0004"
+      ]
+    },
+    {
+      "locator": "E15-T06:51.89-07:30.06",
+      "claim_ids": [
+        "CG-CHAR-0037"
+      ]
+    },
+    {
+      "locator": "E15-T07:33.31-07:50.95",
+      "claim_ids": [
+        "CG-CHAR-0038"
+      ]
+    },
+    {
+      "locator": "E15-T09:43.98-10:19.35",
+      "claim_ids": [
+        "CG-CIND-0007"
+      ]
+    },
+    {
+      "locator": "E15-T10:33.61-11:23.99",
+      "claim_ids": [
+        "CG-MEDIA-0007"
+      ]
+    },
+    {
+      "locator": "E15-T11:36.88-12:21.94",
+      "claim_ids": [
+        "CG-CHAR-0039"
+      ]
+    },
+    {
+      "locator": "E15-T11:36.88-12:45.37",
+      "claim_ids": [
+        "CG-REL-0024",
+        "CG-PROD-0031",
+        "CG-CHAR-0040"
+      ]
+    },
+    {
+      "locator": "E15-T14:19.88-14:31.35",
+      "claim_ids": [
+        "CG-REL-0028"
+      ]
+    },
+    {
+      "locator": "E15-T15:13.64-16:16.29",
+      "claim_ids": [
+        "CG-PROD-0031",
+        "CG-REL-0028"
+      ]
+    },
+    {
+      "locator": "E15-T16:37.31-18:21.08",
+      "claim_ids": [
+        "CG-REL-0026"
+      ]
+    },
+    {
+      "locator": "E15-T16:37.31-20:00.85",
+      "claim_ids": [
+        "CG-MEDIA-0007"
+      ]
+    },
+    {
+      "locator": "E15-T19:20.64-20:00.85",
+      "claim_ids": [
+        "CG-PERF-0013"
+      ]
+    },
+    {
+      "locator": "E15-T19:20.64-21:15.21",
+      "claim_ids": [
+        "CG-REL-0025"
+      ]
+    },
+    {
+      "locator": "E15-T20:19.03-21:15.21",
+      "claim_ids": [
+        "CG-PROD-0030",
+        "CG-MOTIF-0011",
+        "CG-ETHICS-0002"
+      ]
+    },
+    {
+      "locator": "E15-T22:15.98-23:32.30",
+      "claim_ids": [
+        "CG-REL-0027"
+      ]
+    },
+    {
+      "locator": "E15-T23:43.32-24:00.98",
+      "claim_ids": [
+        "CG-ARCH-0003",
+        "CG-PROD-0032",
+        "CG-CIND-0008"
+      ]
+    },
+    {
+      "locator": "E16-ASS0002-0011",
+      "claim_ids": [
+        "CG-PROD-0034"
+      ]
+    },
+    {
+      "locator": "E16-ASS0012-0025",
+      "claim_ids": [
+        "CG-INST-0017"
+      ]
+    },
+    {
+      "locator": "E16-ASS0073-0081",
+      "claim_ids": [
+        "CG-CHAR-0041"
+      ]
+    },
+    {
+      "locator": "E16-ASS0080-0081",
+      "claim_ids": [
+        "CG-VOICE-0023"
+      ]
+    },
+    {
+      "locator": "E16-ASS0131-0138",
+      "claim_ids": [
+        "CG-PERF-0031"
+      ]
+    },
+    {
+      "locator": "E16-ASS0167-0174",
+      "claim_ids": [
+        "CG-PERF-0031"
+      ]
+    },
+    {
+      "locator": "E16-ASS0167-0179",
+      "claim_ids": [
+        "CG-CHAR-0041"
+      ]
+    },
+    {
+      "locator": "E16-ASS0167-0180",
+      "claim_ids": [
+        "CG-REL-0034"
+      ]
+    },
+    {
+      "locator": "E16-ASS0183-0192",
+      "claim_ids": [
+        "CG-INST-0018"
+      ]
+    },
+    {
+      "locator": "E16-ASS0216-0233",
+      "claim_ids": [
+        "CG-INST-0018"
+      ]
+    },
+    {
+      "locator": "E16-ASS0262-0290",
+      "claim_ids": [
+        "CG-CHAR-0042",
+        "CG-MEDIA-0010"
+      ]
+    },
+    {
+      "locator": "E16-ASS0303-0306",
+      "claim_ids": [
+        "CG-CHAR-0041"
+      ]
+    },
+    {
+      "locator": "E16-ASS0331-0359",
+      "claim_ids": [
+        "CG-MEDIA-0010"
+      ]
+    },
+    {
+      "locator": "E16-ASS0342-0351",
+      "claim_ids": [
+        "CG-REL-0034"
+      ]
+    },
+    {
+      "locator": "E16-ASS0352-0359",
+      "claim_ids": [
+        "CG-VOICE-0023",
+        "CG-PERF-0031"
+      ]
+    },
+    {
+      "locator": "E16-ASS0360-0369",
+      "claim_ids": [
+        "CG-PROD-0035"
+      ]
+    },
+    {
+      "locator": "E16-ASS0364-0369",
+      "claim_ids": [
+        "CG-REL-0035"
+      ]
+    },
+    {
+      "locator": "E16-ASS0375-0394",
+      "claim_ids": [
+        "CG-CIND-0014"
+      ]
+    },
+    {
+      "locator": "E16-ASS0375-0409",
+      "claim_ids": [
+        "CG-PERF-0031"
+      ]
+    },
+    {
+      "locator": "E16-ASS0375-0417",
+      "claim_ids": [
+        "CG-MEDIA-0010"
+      ]
+    },
+    {
+      "locator": "E16-ASS0394-0409",
+      "claim_ids": [
+        "CG-VOICE-0023"
+      ]
+    },
+    {
+      "locator": "E16-ASS0410-0413",
+      "claim_ids": [
+        "CG-VOICE-0023"
+      ]
+    },
+    {
+      "locator": "E16-ASS0421-0432",
+      "claim_ids": [
+        "CG-INST-0019"
+      ]
+    },
+    {
+      "locator": "E16-ASS0426-0440",
+      "claim_ids": [
+        "CG-MOTIF-0021"
+      ]
+    },
+    {
+      "locator": "E16-ASS0433-0440",
+      "claim_ids": [
+        "CG-REL-0035"
+      ]
+    },
+    {
+      "locator": "E16-ASS0443-0457",
+      "claim_ids": [
+        "CG-MOTIF-0021"
+      ]
+    },
+    {
+      "locator": "E16-CS01",
+      "claim_ids": [
+        "CG-PROD-0034"
+      ]
+    },
+    {
+      "locator": "E16-CS01-02",
+      "claim_ids": [
+        "CG-INST-0017"
+      ]
+    },
+    {
+      "locator": "E16-CS09-10",
+      "claim_ids": [
+        "CG-CHAR-0041"
+      ]
+    },
+    {
+      "locator": "E16-CS13,16,26-31",
+      "claim_ids": [
+        "CG-PERF-0031"
+      ]
+    },
+    {
+      "locator": "E16-CS16",
+      "claim_ids": [
+        "CG-CHAR-0041",
+        "CG-REL-0034"
+      ]
+    },
+    {
+      "locator": "E16-CS16-19",
+      "claim_ids": [
+        "CG-INST-0018"
+      ]
+    },
+    {
+      "locator": "E16-CS20-22",
+      "claim_ids": [
+        "CG-CHAR-0042"
+      ]
+    },
+    {
+      "locator": "E16-CS22-23",
+      "claim_ids": [
+        "CG-CHAR-0041"
+      ]
+    },
+    {
+      "locator": "E16-CS25-26",
+      "claim_ids": [
+        "CG-REL-0034"
+      ]
+    },
+    {
+      "locator": "E16-CS27",
+      "claim_ids": [
+        "CG-PROD-0035"
+      ]
+    },
+    {
+      "locator": "E16-CS27,33",
+      "claim_ids": [
+        "CG-REL-0035"
+      ]
+    },
+    {
+      "locator": "E16-CS27-29",
+      "claim_ids": [
+        "CG-CIND-0014"
+      ]
+    },
+    {
+      "locator": "E16-CS32-33",
+      "claim_ids": [
+        "CG-INST-0019"
+      ]
+    },
+    {
+      "locator": "E16-CS33-35",
+      "claim_ids": [
+        "CG-MOTIF-0021"
+      ]
+    },
+    {
+      "locator": "E16-T00:09.41-00:44.52",
+      "claim_ids": [
+        "CG-PROD-0034"
+      ]
+    },
+    {
+      "locator": "E16-T00:46.36-01:26.02",
+      "claim_ids": [
+        "CG-INST-0017"
+      ]
+    },
+    {
+      "locator": "E16-T04:17.40-04:45.02",
+      "claim_ids": [
+        "CG-CHAR-0041"
+      ]
+    },
+    {
+      "locator": "E16-T04:34.71-04:45.02",
+      "claim_ids": [
+        "CG-VOICE-0023"
+      ]
+    },
+    {
+      "locator": "E16-T06:51.06-07:10.04",
+      "claim_ids": [
+        "CG-PERF-0031"
+      ]
+    },
+    {
+      "locator": "E16-T08:27.20-08:48.84",
+      "claim_ids": [
+        "CG-PERF-0031"
+      ]
+    },
+    {
+      "locator": "E16-T08:27.20-09:05.70",
+      "claim_ids": [
+        "CG-CHAR-0041"
+      ]
+    },
+    {
+      "locator": "E16-T08:27.20-09:09.15",
+      "claim_ids": [
+        "CG-REL-0034"
+      ]
+    },
+    {
+      "locator": "E16-T09:12.32-09:46.78",
+      "claim_ids": [
+        "CG-INST-0018"
+      ]
+    },
+    {
+      "locator": "E16-T10:49.38-11:40.18",
+      "claim_ids": [
+        "CG-INST-0018"
+      ]
+    },
+    {
+      "locator": "E16-T13:11.90-14:26.22",
+      "claim_ids": [
+        "CG-CHAR-0042",
+        "CG-MEDIA-0010"
+      ]
+    },
+    {
+      "locator": "E16-T15:09.72-15:25.11",
+      "claim_ids": [
+        "CG-CHAR-0041"
+      ]
+    },
+    {
+      "locator": "E16-T16:56.79-18:30.51",
+      "claim_ids": [
+        "CG-MEDIA-0010"
+      ]
+    },
+    {
+      "locator": "E16-T17:29.19-18:02.85",
+      "claim_ids": [
+        "CG-REL-0034"
+      ]
+    },
+    {
+      "locator": "E16-T18:07.82-18:30.51",
+      "claim_ids": [
+        "CG-VOICE-0023",
+        "CG-PERF-0031"
+      ]
+    },
+    {
+      "locator": "E16-T18:31.22-19:12.29",
+      "claim_ids": [
+        "CG-PROD-0035"
+      ]
+    },
+    {
+      "locator": "E16-T18:46.31-19:12.29",
+      "claim_ids": [
+        "CG-REL-0035"
+      ]
+    },
+    {
+      "locator": "E16-T19:27.02-20:21.16",
+      "claim_ids": [
+        "CG-CIND-0014"
+      ]
+    },
+    {
+      "locator": "E16-T19:27.02-21:10.21",
+      "claim_ids": [
+        "CG-PERF-0031"
+      ]
+    },
+    {
+      "locator": "E16-T19:27.02-21:34.48",
+      "claim_ids": [
+        "CG-MEDIA-0010"
+      ]
+    },
+    {
+      "locator": "E16-T20:21.16-21:10.21",
+      "claim_ids": [
+        "CG-VOICE-0023"
+      ]
+    },
+    {
+      "locator": "E16-T21:13.13-21:23.14",
+      "claim_ids": [
+        "CG-VOICE-0023"
+      ]
+    },
+    {
+      "locator": "E16-T21:48.12-22:22.20",
+      "claim_ids": [
+        "CG-INST-0019"
+      ]
+    },
+    {
+      "locator": "E16-T22:04.30-22:43.34",
+      "claim_ids": [
+        "CG-MOTIF-0021"
+      ]
+    },
+    {
+      "locator": "E16-T22:24.66-22:43.34",
+      "claim_ids": [
+        "CG-REL-0035"
+      ]
+    },
+    {
+      "locator": "E16-T22:48.51-23:50.08",
+      "claim_ids": [
+        "CG-MOTIF-0021"
+      ]
+    },
+    {
+      "locator": "E17-ASS0003-0015",
+      "claim_ids": [
+        "CG-CHAR-0044"
+      ]
+    },
+    {
+      "locator": "E17-ASS0026-0028",
+      "claim_ids": [
+        "CG-MOTIF-0022"
+      ]
+    },
+    {
+      "locator": "E17-ASS0034-0055",
+      "claim_ids": [
+        "CG-INST-0020"
+      ]
+    },
+    {
+      "locator": "E17-ASS0049-0055",
+      "claim_ids": [
+        "CG-CIND-0015"
+      ]
+    },
+    {
+      "locator": "E17-ASS0056-0078",
+      "claim_ids": [
+        "CG-PROD-0036"
+      ]
+    },
+    {
+      "locator": "E17-ASS0079-0095",
+      "claim_ids": [
+        "CG-INST-0021"
+      ]
+    },
+    {
+      "locator": "E17-ASS0116-0123",
+      "claim_ids": [
+        "CG-CHAR-0045"
+      ]
+    },
+    {
+      "locator": "E17-ASS0127-0141",
+      "claim_ids": [
+        "CG-CHAR-0043"
+      ]
+    },
+    {
+      "locator": "E17-ASS0172-0179",
+      "claim_ids": [
+        "CG-VOICE-0024"
+      ]
+    },
+    {
+      "locator": "E17-ASS0198-0204",
+      "claim_ids": [
+        "CG-CHAR-0045"
+      ]
+    },
+    {
+      "locator": "E17-ASS0223-0229",
+      "claim_ids": [
+        "CG-CHAR-0043"
+      ]
+    },
+    {
+      "locator": "E17-ASS0226-0229",
+      "claim_ids": [
+        "CG-REL-0038"
+      ]
+    },
+    {
+      "locator": "E17-ASS0226-0235",
+      "claim_ids": [
+        "CG-CHAR-0044"
+      ]
+    },
+    {
+      "locator": "E17-ASS0236-0239",
+      "claim_ids": [
+        "CG-CHAR-0044"
+      ]
+    },
+    {
+      "locator": "E17-ASS0275-0294",
+      "claim_ids": [
+        "CG-REL-0036"
+      ]
+    },
+    {
+      "locator": "E17-ASS0299-0320",
+      "claim_ids": [
+        "CG-REL-0037"
+      ]
+    },
+    {
+      "locator": "E17-ASS0321-0333",
+      "claim_ids": [
+        "CG-CHAR-0045"
+      ]
+    },
+    {
+      "locator": "E17-ASS0340-0363",
+      "claim_ids": [
+        "CG-PERF-0032"
+      ]
+    },
+    {
+      "locator": "E17-ASS0349-0358",
+      "claim_ids": [
+        "CG-CHAR-0043"
+      ]
+    },
+    {
+      "locator": "E17-ASS0349-0360",
+      "claim_ids": [
+        "CG-VOICE-0024",
+        "CG-MEDIA-0011"
+      ]
+    },
+    {
+      "locator": "E17-ASS0361-0363",
+      "claim_ids": [
+        "CG-REL-0038"
+      ]
+    },
+    {
+      "locator": "E17-ASS0364-0371",
+      "claim_ids": [
+        "CG-MEDIA-0011"
+      ]
+    },
+    {
+      "locator": "E17-ASS0372-0376",
+      "claim_ids": [
+        "CG-REL-0038"
+      ]
+    },
+    {
+      "locator": "E17-ASS0377-0383",
+      "claim_ids": [
+        "CG-MOTIF-0022"
+      ]
+    },
+    {
+      "locator": "E17-CS01-02",
+      "claim_ids": [
+        "CG-CHAR-0044"
+      ]
+    },
+    {
+      "locator": "E17-CS05-08",
+      "claim_ids": [
+        "CG-MOTIF-0022"
+      ]
+    },
+    {
+      "locator": "E17-CS08-09",
+      "claim_ids": [
+        "CG-INST-0020",
+        "CG-CIND-0015"
+      ]
+    },
+    {
+      "locator": "E17-CS09-11",
+      "claim_ids": [
+        "CG-PROD-0036"
+      ]
+    },
+    {
+      "locator": "E17-CS10-12",
+      "claim_ids": [
+        "CG-INST-0021"
+      ]
+    },
+    {
+      "locator": "E17-CS13,19-20,28-29",
+      "claim_ids": [
+        "CG-CHAR-0045"
+      ]
+    },
+    {
+      "locator": "E17-CS14,22,30-31",
+      "claim_ids": [
+        "CG-CHAR-0043"
+      ]
+    },
+    {
+      "locator": "E17-CS17",
+      "claim_ids": [
+        "CG-VOICE-0024"
+      ]
+    },
+    {
+      "locator": "E17-CS22,31-32",
+      "claim_ids": [
+        "CG-REL-0038"
+      ]
+    },
+    {
+      "locator": "E17-CS22-23",
+      "claim_ids": [
+        "CG-CHAR-0044"
+      ]
+    },
+    {
+      "locator": "E17-CS25-26",
+      "claim_ids": [
+        "CG-REL-0036"
+      ]
+    },
+    {
+      "locator": "E17-CS27-28",
+      "claim_ids": [
+        "CG-REL-0037"
+      ]
+    },
+    {
+      "locator": "E17-CS29-31",
+      "claim_ids": [
+        "CG-PERF-0032"
+      ]
+    },
+    {
+      "locator": "E17-CS30-31",
+      "claim_ids": [
+        "CG-VOICE-0024",
+        "CG-MEDIA-0011"
+      ]
+    },
+    {
+      "locator": "E17-CS31-32",
+      "claim_ids": [
+        "CG-MEDIA-0011"
+      ]
+    },
+    {
+      "locator": "E17-CS32-33",
+      "claim_ids": [
+        "CG-MOTIF-0022"
+      ]
+    },
+    {
+      "locator": "E17-T00:20.08-01:00.29",
+      "claim_ids": [
+        "CG-CHAR-0044"
+      ]
+    },
+    {
+      "locator": "E17-T02:03.19-02:14.95",
+      "claim_ids": [
+        "CG-MOTIF-0022"
+      ]
+    },
+    {
+      "locator": "E17-T02:54.95-04:18.45",
+      "claim_ids": [
+        "CG-INST-0020"
+      ]
+    },
+    {
+      "locator": "E17-T03:50.88-04:18.45",
+      "claim_ids": [
+        "CG-CIND-0015"
+      ]
+    },
+    {
+      "locator": "E17-T04:28.71-05:30.72",
+      "claim_ids": [
+        "CG-PROD-0036"
+      ]
+    },
+    {
+      "locator": "E17-T05:32.23-06:25.86",
+      "claim_ids": [
+        "CG-INST-0021"
+      ]
+    },
+    {
+      "locator": "E17-T07:32.01-07:53.66",
+      "claim_ids": [
+        "CG-CHAR-0045"
+      ]
+    },
+    {
+      "locator": "E17-T08:05.34-08:41.17",
+      "claim_ids": [
+        "CG-CHAR-0043"
+      ]
+    },
+    {
+      "locator": "E17-T10:28.86-10:52.34",
+      "claim_ids": [
+        "CG-VOICE-0024"
+      ]
+    },
+    {
+      "locator": "E17-T11:46.85-12:00.87",
+      "claim_ids": [
+        "CG-CHAR-0045"
+      ]
+    },
+    {
+      "locator": "E17-T13:18.82-13:39.59",
+      "claim_ids": [
+        "CG-CHAR-0043"
+      ]
+    },
+    {
+      "locator": "E17-T13:29.16-13:35.71",
+      "claim_ids": [
+        "CG-REL-0038"
+      ]
+    },
+    {
+      "locator": "E17-T13:29.16-14:06.66",
+      "claim_ids": [
+        "CG-CHAR-0044"
+      ]
+    },
+    {
+      "locator": "E17-T14:27.30-14:36.06",
+      "claim_ids": [
+        "CG-CHAR-0044"
+      ]
+    },
+    {
+      "locator": "E17-T16:39.48-17:38.33",
+      "claim_ids": [
+        "CG-REL-0036"
+      ]
+    },
+    {
+      "locator": "E17-T18:14.28-19:38.33",
+      "claim_ids": [
+        "CG-REL-0037"
+      ]
+    },
+    {
+      "locator": "E17-T19:54.80-20:28.55",
+      "claim_ids": [
+        "CG-CHAR-0045"
+      ]
+    },
+    {
+      "locator": "E17-T20:48.77-22:04.14",
+      "claim_ids": [
+        "CG-PERF-0032"
+      ]
+    },
+    {
+      "locator": "E17-T21:26.10-21:48.42",
+      "claim_ids": [
+        "CG-CHAR-0043"
+      ]
+    },
+    {
+      "locator": "E17-T21:26.10-21:50.62",
+      "claim_ids": [
+        "CG-VOICE-0024",
+        "CG-MEDIA-0011"
+      ]
+    },
+    {
+      "locator": "E17-T21:51.04-22:04.14",
+      "claim_ids": [
+        "CG-REL-0038"
+      ]
+    },
+    {
+      "locator": "E17-T22:08.81-22:33.67",
+      "claim_ids": [
+        "CG-MEDIA-0011"
+      ]
+    },
+    {
+      "locator": "E17-T22:38.05-22:51.86",
+      "claim_ids": [
+        "CG-REL-0038"
+      ]
+    },
+    {
+      "locator": "E17-T22:52.02-23:49.58",
+      "claim_ids": [
+        "CG-MOTIF-0022"
+      ]
+    },
+    {
+      "locator": "E18-ASS0047-0080",
+      "claim_ids": [
+        "CG-INST-0022"
+      ]
+    },
+    {
+      "locator": "E18-ASS0081-0100",
+      "claim_ids": [
+        "CG-PROD-0037"
+      ]
+    },
+    {
+      "locator": "E18-ASS0169-0178",
+      "claim_ids": [
+        "CG-PERF-0033"
+      ]
+    },
+    {
+      "locator": "E18-ASS0197-0212",
+      "claim_ids": [
+        "CG-CHAR-0047"
+      ]
+    },
+    {
+      "locator": "E18-ASS0216-0234",
+      "claim_ids": [
+        "CG-NG-0005"
+      ]
+    },
+    {
+      "locator": "E18-ASS0244-0254",
+      "claim_ids": [
+        "CG-REL-0039"
+      ]
+    },
+    {
+      "locator": "E18-ASS0277-0310",
+      "claim_ids": [
+        "CG-VOICE-0025"
+      ]
+    },
+    {
+      "locator": "E18-ASS0287-0310",
+      "claim_ids": [
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-ASS0311-0336",
+      "claim_ids": [
+        "CG-CHAR-0047"
+      ]
+    },
+    {
+      "locator": "E18-ASS0323-0373",
+      "claim_ids": [
+        "CG-REL-0039"
+      ]
+    },
+    {
+      "locator": "E18-ASS0337-0346",
+      "claim_ids": [
+        "CG-PROD-0038"
+      ]
+    },
+    {
+      "locator": "E18-ASS0350-0373",
+      "claim_ids": [
+        "CG-VOICE-0026"
+      ]
+    },
+    {
+      "locator": "E18-ASS0374-0395",
+      "claim_ids": [
+        "CG-REL-0040"
+      ]
+    },
+    {
+      "locator": "E18-ASS0397-0420",
+      "claim_ids": [
+        "CG-PROD-0039"
+      ]
+    },
+    {
+      "locator": "E18-ASS0416-0421",
+      "claim_ids": [
+        "CG-CHAR-0046",
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "E18-ASS0416-0430",
+      "claim_ids": [
+        "CG-MOTIF-0023"
+      ]
+    },
+    {
+      "locator": "E18-ASS0420-0422",
+      "claim_ids": [
+        "CG-VOICE-0025"
+      ]
+    },
+    {
+      "locator": "E18-ASS0420-0430",
+      "claim_ids": [
+        "CG-PROD-0038"
+      ]
+    },
+    {
+      "locator": "E18-ASS0432-0434",
+      "claim_ids": [
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "E18-ASS0435-0469",
+      "claim_ids": [
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "E18-ASS0441-0461",
+      "claim_ids": [
+        "CG-CHAR-0046",
+        "CG-VOICE-0025",
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-ASS0476-0485",
+      "claim_ids": [
+        "CG-INST-0022"
+      ]
+    },
+    {
+      "locator": "E18-CS09-10",
+      "claim_ids": [
+        "CG-INST-0022"
+      ]
+    },
+    {
+      "locator": "E18-CS11",
+      "claim_ids": [
+        "CG-PROD-0037"
+      ]
+    },
+    {
+      "locator": "E18-CS13",
+      "claim_ids": [
+        "CG-PROD-0038",
+        "CG-MOTIF-0023"
+      ]
+    },
+    {
+      "locator": "E18-CS16",
+      "claim_ids": [
+        "CG-PERF-0033"
+      ]
+    },
+    {
+      "locator": "E18-CS18",
+      "claim_ids": [
+        "CG-CHAR-0047"
+      ]
+    },
+    {
+      "locator": "E18-CS18-19",
+      "claim_ids": [
+        "CG-NG-0005"
+      ]
+    },
+    {
+      "locator": "E18-CS19",
+      "claim_ids": [
+        "CG-REL-0039"
+      ]
+    },
+    {
+      "locator": "E18-CS22-23",
+      "claim_ids": [
+        "CG-VOICE-0025"
+      ]
+    },
+    {
+      "locator": "E18-CS23",
+      "claim_ids": [
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-CS23-24",
+      "claim_ids": [
+        "CG-CHAR-0047"
+      ]
+    },
+    {
+      "locator": "E18-CS25",
+      "claim_ids": [
+        "CG-PROD-0038"
+      ]
+    },
+    {
+      "locator": "E18-CS26",
+      "claim_ids": [
+        "CG-REL-0039",
+        "CG-VOICE-0026"
+      ]
+    },
+    {
+      "locator": "E18-CS27",
+      "claim_ids": [
+        "CG-REL-0040"
+      ]
+    },
+    {
+      "locator": "E18-CS28",
+      "claim_ids": [
+        "CG-PROD-0039"
+      ]
+    },
+    {
+      "locator": "E18-CS28-29",
+      "claim_ids": [
+        "CG-CHAR-0046",
+        "CG-MOTIF-0023"
+      ]
+    },
+    {
+      "locator": "E18-CS29",
+      "claim_ids": [
+        "CG-PROD-0038"
+      ]
+    },
+    {
+      "locator": "E18-CS31-32",
+      "claim_ids": [
+        "CG-CHAR-0046",
+        "CG-VOICE-0025",
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-CS31-33",
+      "claim_ids": [
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000217",
+      "claim_ids": [
+        "CG-INST-0022"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000296",
+      "claim_ids": [
+        "CG-INST-0022"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000318",
+      "claim_ids": [
+        "CG-PROD-0037"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000334",
+      "claim_ids": [
+        "CG-PROD-0037"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000409",
+      "claim_ids": [
+        "CG-PROD-0038",
+        "CG-MOTIF-0023"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000508",
+      "claim_ids": [
+        "CG-PERF-0033"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000604",
+      "claim_ids": [
+        "CG-NG-0005"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000621",
+      "claim_ids": [
+        "CG-NG-0005"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000653",
+      "claim_ids": [
+        "CG-REL-0039"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000796",
+      "claim_ids": [
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000811",
+      "claim_ids": [
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000902",
+      "claim_ids": [
+        "CG-PROD-0038"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000909",
+      "claim_ids": [
+        "CG-PROD-0038"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000934",
+      "claim_ids": [
+        "CG-REL-0039",
+        "CG-VOICE-0026"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_000964",
+      "claim_ids": [
+        "CG-REL-0039",
+        "CG-VOICE-0026"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001008",
+      "claim_ids": [
+        "CG-REL-0040"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001028",
+      "claim_ids": [
+        "CG-CHAR-0046",
+        "CG-PROD-0039"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001034",
+      "claim_ids": [
+        "CG-CHAR-0046",
+        "CG-PROD-0039"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001039",
+      "claim_ids": [
+        "CG-PROD-0039"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001065",
+      "claim_ids": [
+        "CG-PROD-0038",
+        "CG-MOTIF-0023"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001075",
+      "claim_ids": [
+        "CG-PROD-0038",
+        "CG-MOTIF-0023"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001118",
+      "claim_ids": [
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001140",
+      "claim_ids": [
+        "CG-VOICE-0025",
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001158",
+      "claim_ids": [
+        "CG-VOICE-0025",
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001161",
+      "claim_ids": [
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001162",
+      "claim_ids": [
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-FRAME_001195",
+      "claim_ids": [
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "E18-T02:54.45-04:34.59",
+      "claim_ids": [
+        "CG-INST-0022"
+      ]
+    },
+    {
+      "locator": "E18-T04:34.80-05:24.68",
+      "claim_ids": [
+        "CG-PROD-0037"
+      ]
+    },
+    {
+      "locator": "E18-T08:30.45-08:53.06",
+      "claim_ids": [
+        "CG-PERF-0033"
+      ]
+    },
+    {
+      "locator": "E18-T09:42.35-10:24.90",
+      "claim_ids": [
+        "CG-CHAR-0047"
+      ]
+    },
+    {
+      "locator": "E18-T10:36.20-11:31.25",
+      "claim_ids": [
+        "CG-NG-0005"
+      ]
+    },
+    {
+      "locator": "E18-T12:02.12-12:30.19",
+      "claim_ids": [
+        "CG-REL-0039"
+      ]
+    },
+    {
+      "locator": "E18-T13:37.17-15:00.09",
+      "claim_ids": [
+        "CG-VOICE-0025"
+      ]
+    },
+    {
+      "locator": "E18-T13:58.32-15:00.09",
+      "claim_ids": [
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-T15:00.30-16:08.28",
+      "claim_ids": [
+        "CG-CHAR-0047"
+      ]
+    },
+    {
+      "locator": "E18-T15:24.19-18:00.39",
+      "claim_ids": [
+        "CG-REL-0039"
+      ]
+    },
+    {
+      "locator": "E18-T16:12.03-16:42.98",
+      "claim_ids": [
+        "CG-PROD-0038"
+      ]
+    },
+    {
+      "locator": "E18-T16:51.32-18:00.39",
+      "claim_ids": [
+        "CG-VOICE-0026"
+      ]
+    },
+    {
+      "locator": "E18-T18:01.23-19:00.75",
+      "claim_ids": [
+        "CG-REL-0040"
+      ]
+    },
+    {
+      "locator": "E18-T19:07.75-20:23.70",
+      "claim_ids": [
+        "CG-PROD-0039"
+      ]
+    },
+    {
+      "locator": "E18-T20:07.02-20:29.04",
+      "claim_ids": [
+        "CG-CHAR-0046",
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "E18-T20:07.02-20:55.86",
+      "claim_ids": [
+        "CG-MOTIF-0023"
+      ]
+    },
+    {
+      "locator": "E18-T20:23.70-20:55.86",
+      "claim_ids": [
+        "CG-PROD-0038"
+      ]
+    },
+    {
+      "locator": "E18-T20:25.37-20:29.04",
+      "claim_ids": [
+        "CG-VOICE-0025"
+      ]
+    },
+    {
+      "locator": "E18-T21:06.20-21:11.96",
+      "claim_ids": [
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "E18-T21:13.50-23:07.49",
+      "claim_ids": [
+        "CG-MOTIF-0024"
+      ]
+    },
+    {
+      "locator": "E18-T21:33.31-22:22.74",
+      "claim_ids": [
+        "CG-CHAR-0046",
+        "CG-VOICE-0025",
+        "CG-PERF-0034"
+      ]
+    },
+    {
+      "locator": "E18-T23:22.88-23:54.74",
+      "claim_ids": [
+        "CG-INST-0022"
+      ]
+    },
+    {
+      "locator": "E19-ASS0001-0010",
+      "claim_ids": [
+        "CG-REL-0041"
+      ]
+    },
+    {
+      "locator": "E19-ASS0036-0055",
+      "claim_ids": [
+        "CG-ARCH-0004"
+      ]
+    },
+    {
+      "locator": "E19-ASS0088-0131",
+      "claim_ids": [
+        "CG-CHAR-0048"
+      ]
+    },
+    {
+      "locator": "E19-ASS0088-0145",
+      "claim_ids": [
+        "CG-CHAR-0049",
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-ASS0106-0124",
+      "claim_ids": [
+        "CG-VOICE-0027"
+      ]
+    },
+    {
+      "locator": "E19-ASS0132-0145",
+      "claim_ids": [
+        "CG-PERF-0035",
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-ASS0193-0211",
+      "claim_ids": [
+        "CG-REL-0041"
+      ]
+    },
+    {
+      "locator": "E19-ASS0216-0234",
+      "claim_ids": [
+        "CG-INST-0023"
+      ]
+    },
+    {
+      "locator": "E19-ASS0245-0252",
+      "claim_ids": [
+        "CG-PROD-0040"
+      ]
+    },
+    {
+      "locator": "E19-ASS0261-0270",
+      "claim_ids": [
+        "CG-CHAR-0048",
+        "CG-VOICE-0027",
+        "CG-PERF-0035",
+        "CG-CHAR-0049"
+      ]
+    },
+    {
+      "locator": "E19-ASS0261-0277",
+      "claim_ids": [
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-ASS0290-0295",
+      "claim_ids": [
+        "CG-PROD-0040"
+      ]
+    },
+    {
+      "locator": "E19-ASS0297-0315",
+      "claim_ids": [
+        "CG-PERF-0036"
+      ]
+    },
+    {
+      "locator": "E19-ASS0297-0346",
+      "claim_ids": [
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-ASS0298-0315",
+      "claim_ids": [
+        "CG-PERF-0037"
+      ]
+    },
+    {
+      "locator": "E19-ASS0316-0322",
+      "claim_ids": [
+        "CG-PERF-0036"
+      ]
+    },
+    {
+      "locator": "E19-ASS0316-0344",
+      "claim_ids": [
+        "CG-REL-0042"
+      ]
+    },
+    {
+      "locator": "E19-ASS0336-0344",
+      "claim_ids": [
+        "CG-VOICE-0027",
+        "CG-CHAR-0049"
+      ]
+    },
+    {
+      "locator": "E19-ASS0361-0369",
+      "claim_ids": [
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-ASS0368-0391",
+      "claim_ids": [
+        "CG-PERF-0037",
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-ASS0381-0391",
+      "claim_ids": [
+        "CG-ARCH-0004"
+      ]
+    },
+    {
+      "locator": "E19-ASS0392-0399",
+      "claim_ids": [
+        "CG-INST-0024",
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-ASS0402-0414",
+      "claim_ids": [
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-CS01",
+      "claim_ids": [
+        "CG-REL-0041"
+      ]
+    },
+    {
+      "locator": "E19-CS07",
+      "claim_ids": [
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-CS07-09",
+      "claim_ids": [
+        "CG-ARCH-0004"
+      ]
+    },
+    {
+      "locator": "E19-CS12-14",
+      "claim_ids": [
+        "CG-CHAR-0048"
+      ]
+    },
+    {
+      "locator": "E19-CS12-16",
+      "claim_ids": [
+        "CG-CHAR-0049",
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-CS13-14",
+      "claim_ids": [
+        "CG-VOICE-0027"
+      ]
+    },
+    {
+      "locator": "E19-CS14-16",
+      "claim_ids": [
+        "CG-PERF-0035"
+      ]
+    },
+    {
+      "locator": "E19-CS19-20",
+      "claim_ids": [
+        "CG-REL-0041"
+      ]
+    },
+    {
+      "locator": "E19-CS20-21",
+      "claim_ids": [
+        "CG-INST-0023"
+      ]
+    },
+    {
+      "locator": "E19-CS22",
+      "claim_ids": [
+        "CG-PROD-0040"
+      ]
+    },
+    {
+      "locator": "E19-CS23",
+      "claim_ids": [
+        "CG-CHAR-0048",
+        "CG-VOICE-0027",
+        "CG-PERF-0035",
+        "CG-CHAR-0049",
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-CS25",
+      "claim_ids": [
+        "CG-PROD-0040"
+      ]
+    },
+    {
+      "locator": "E19-CS25-27",
+      "claim_ids": [
+        "CG-PERF-0036"
+      ]
+    },
+    {
+      "locator": "E19-CS28",
+      "claim_ids": [
+        "CG-PERF-0036"
+      ]
+    },
+    {
+      "locator": "E19-CS28-29",
+      "claim_ids": [
+        "CG-VOICE-0027",
+        "CG-REL-0042",
+        "CG-CHAR-0049"
+      ]
+    },
+    {
+      "locator": "E19-CS31",
+      "claim_ids": [
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-CS31-34",
+      "claim_ids": [
+        "CG-ARCH-0004",
+        "CG-PERF-0037"
+      ]
+    },
+    {
+      "locator": "E19-CS35",
+      "claim_ids": [
+        "CG-INST-0024"
+      ]
+    },
+    {
+      "locator": "E19-CS35-36",
+      "claim_ids": [
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_000199",
+      "claim_ids": [
+        "CG-ARCH-0004"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_000405",
+      "claim_ids": [
+        "CG-CHAR-0048"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_000733",
+      "claim_ids": [
+        "CG-INST-0023"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_000738",
+      "claim_ids": [
+        "CG-INST-0023"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_000747",
+      "claim_ids": [
+        "CG-INST-0023"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_000806",
+      "claim_ids": [
+        "CG-PROD-0040"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_000825",
+      "claim_ids": [
+        "CG-CHAR-0048"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_000924",
+      "claim_ids": [
+        "CG-PROD-0040"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_001003",
+      "claim_ids": [
+        "CG-REL-0042",
+        "CG-PERF-0036"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_001034",
+      "claim_ids": [
+        "CG-REL-0042"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_001039",
+      "claim_ids": [
+        "CG-REL-0042"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_001040",
+      "claim_ids": [
+        "CG-REL-0042"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_001125",
+      "claim_ids": [
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_001160",
+      "claim_ids": [
+        "CG-ARCH-0004",
+        "CG-PERF-0037"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_001243",
+      "claim_ids": [
+        "CG-INST-0024"
+      ]
+    },
+    {
+      "locator": "E19-FRAME_001255",
+      "claim_ids": [
+        "CG-INST-0024"
+      ]
+    },
+    {
+      "locator": "E19-T00:03.48-00:30.01",
+      "claim_ids": [
+        "CG-REL-0041"
+      ]
+    },
+    {
+      "locator": "E19-T02:29.71-03:26.39",
+      "claim_ids": [
+        "CG-ARCH-0004"
+      ]
+    },
+    {
+      "locator": "E19-T05:28.64-07:39.86",
+      "claim_ids": [
+        "CG-CHAR-0048"
+      ]
+    },
+    {
+      "locator": "E19-T05:28.64-08:43.50",
+      "claim_ids": [
+        "CG-CHAR-0049",
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-T06:21.15-07:16.00",
+      "claim_ids": [
+        "CG-VOICE-0027"
+      ]
+    },
+    {
+      "locator": "E19-T07:46.86-08:43.50",
+      "claim_ids": [
+        "CG-PERF-0035",
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-T11:11.32-12:08.38",
+      "claim_ids": [
+        "CG-REL-0041"
+      ]
+    },
+    {
+      "locator": "E19-T12:21.18-13:22.53",
+      "claim_ids": [
+        "CG-INST-0023"
+      ]
+    },
+    {
+      "locator": "E19-T14:00.78-14:26.68",
+      "claim_ids": [
+        "CG-PROD-0040"
+      ]
+    },
+    {
+      "locator": "E19-T14:47.49-15:17.48",
+      "claim_ids": [
+        "CG-CHAR-0048",
+        "CG-VOICE-0027",
+        "CG-PERF-0035",
+        "CG-CHAR-0049"
+      ]
+    },
+    {
+      "locator": "E19-T14:47.49-15:33.62",
+      "claim_ids": [
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-T16:29.47-16:42.82",
+      "claim_ids": [
+        "CG-PROD-0040"
+      ]
+    },
+    {
+      "locator": "E19-T16:49.86-17:39.45",
+      "claim_ids": [
+        "CG-PERF-0036"
+      ]
+    },
+    {
+      "locator": "E19-T16:49.86-19:20.97",
+      "claim_ids": [
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-T16:54.99-17:39.45",
+      "claim_ids": [
+        "CG-PERF-0037"
+      ]
+    },
+    {
+      "locator": "E19-T17:45.96-18:05.98",
+      "claim_ids": [
+        "CG-PERF-0036"
+      ]
+    },
+    {
+      "locator": "E19-T17:45.96-19:13.26",
+      "claim_ids": [
+        "CG-REL-0042"
+      ]
+    },
+    {
+      "locator": "E19-T18:42.56-19:13.26",
+      "claim_ids": [
+        "CG-VOICE-0027",
+        "CG-CHAR-0049"
+      ]
+    },
+    {
+      "locator": "E19-T20:23.70-20:45.40",
+      "claim_ids": [
+        "CG-REL-0043"
+      ]
+    },
+    {
+      "locator": "E19-T20:40.72-21:56.67",
+      "claim_ids": [
+        "CG-PERF-0037",
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-T21:15.46-21:56.67",
+      "claim_ids": [
+        "CG-ARCH-0004"
+      ]
+    },
+    {
+      "locator": "E19-T22:09.31-22:35.83",
+      "claim_ids": [
+        "CG-INST-0024",
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E19-T22:50.02-23:54.91",
+      "claim_ids": [
+        "CG-MOTIF-0025"
+      ]
+    },
+    {
+      "locator": "E20-ASS0001-0018",
+      "claim_ids": [
+        "CG-INST-0025"
+      ]
+    },
+    {
+      "locator": "E20-ASS0037-0083",
+      "claim_ids": [
+        "CG-CIND-0016"
+      ]
+    },
+    {
+      "locator": "E20-ASS0056-0083",
+      "claim_ids": [
+        "CG-INST-0026"
+      ]
+    },
+    {
+      "locator": "E20-ASS0070-0091",
+      "claim_ids": [
+        "CG-PROD-0041"
+      ]
+    },
+    {
+      "locator": "E20-ASS0166-0177",
+      "claim_ids": [
+        "CG-CHAR-0051"
+      ]
+    },
+    {
+      "locator": "E20-ASS0166-0210",
+      "claim_ids": [
+        "CG-REL-0045"
+      ]
+    },
+    {
+      "locator": "E20-ASS0238-0259",
+      "claim_ids": [
+        "CG-PERF-0039",
+        "CG-CHAR-0051"
+      ]
+    },
+    {
+      "locator": "E20-ASS0265-0297",
+      "claim_ids": [
+        "CG-VOICE-0028"
+      ]
+    },
+    {
+      "locator": "E20-ASS0269-0284",
+      "claim_ids": [
+        "CG-CHAR-0050"
+      ]
+    },
+    {
+      "locator": "E20-ASS0285-0301",
+      "claim_ids": [
+        "CG-PROD-0042"
+      ]
+    },
+    {
+      "locator": "E20-ASS0285-0315",
+      "claim_ids": [
+        "CG-CIND-0016"
+      ]
+    },
+    {
+      "locator": "E20-ASS0298-0315",
+      "claim_ids": [
+        "CG-PERF-0038"
+      ]
+    },
+    {
+      "locator": "E20-ASS0302-0315",
+      "claim_ids": [
+        "CG-CHAR-0050",
+        "CG-REL-0044"
+      ]
+    },
+    {
+      "locator": "E20-ASS0306-0311",
+      "claim_ids": [
+        "CG-VOICE-0028"
+      ]
+    },
+    {
+      "locator": "E20-ASS0316-0325",
+      "claim_ids": [
+        "CG-MOTIF-0026"
+      ]
+    },
+    {
+      "locator": "E20-ASS0330-0334",
+      "claim_ids": [
+        "CG-VOICE-0029"
+      ]
+    },
+    {
+      "locator": "E20-ASS0344-0417",
+      "claim_ids": [
+        "CG-CIND-0016"
+      ]
+    },
+    {
+      "locator": "E20-ASS0345-0376",
+      "claim_ids": [
+        "CG-NG-0006"
+      ]
+    },
+    {
+      "locator": "E20-ASS0349-0356",
+      "claim_ids": [
+        "CG-CHAR-0051"
+      ]
+    },
+    {
+      "locator": "E20-ASS0351-0356",
+      "claim_ids": [
+        "CG-VOICE-0029"
+      ]
+    },
+    {
+      "locator": "E20-ASS0357-0390",
+      "claim_ids": [
+        "CG-NG-0007"
+      ]
+    },
+    {
+      "locator": "E20-ASS0378-0383",
+      "claim_ids": [
+        "CG-VOICE-0029"
+      ]
+    },
+    {
+      "locator": "E20-ASS0391-0417",
+      "claim_ids": [
+        "CG-MOTIF-0027"
+      ]
+    },
+    {
+      "locator": "E20-ASS0403-0407",
+      "claim_ids": [
+        "CG-REL-0044"
+      ]
+    },
+    {
+      "locator": "E20-ASS0410-0417",
+      "claim_ids": [
+        "CG-NG-0007"
+      ]
+    },
+    {
+      "locator": "E20-AUDIO13:50-15:18",
+      "claim_ids": [
+        "CG-PERF-0039"
+      ]
+    },
+    {
+      "locator": "E20-AUDIO16:45-18:35",
+      "claim_ids": [
+        "CG-PERF-0038"
+      ]
+    },
+    {
+      "locator": "E20-AUDIO20:00-24:00",
+      "claim_ids": [
+        "CG-MOTIF-0027"
+      ]
+    },
+    {
+      "locator": "E20-CS01-03",
+      "claim_ids": [
+        "CG-INST-0025"
+      ]
+    },
+    {
+      "locator": "E20-CS09",
+      "claim_ids": [
+        "CG-CIND-0016"
+      ]
+    },
+    {
+      "locator": "E20-CS10-11",
+      "claim_ids": [
+        "CG-PROD-0041",
+        "CG-INST-0026"
+      ]
+    },
+    {
+      "locator": "E20-CS17,23-24,30-31",
+      "claim_ids": [
+        "CG-CHAR-0051"
+      ]
+    },
+    {
+      "locator": "E20-CS17-20",
+      "claim_ids": [
+        "CG-REL-0045"
+      ]
+    },
+    {
+      "locator": "E20-CS23-24",
+      "claim_ids": [
+        "CG-PERF-0039"
+      ]
+    },
+    {
+      "locator": "E20-CS25-28",
+      "claim_ids": [
+        "CG-VOICE-0028"
+      ]
+    },
+    {
+      "locator": "E20-CS25-29",
+      "claim_ids": [
+        "CG-CHAR-0050"
+      ]
+    },
+    {
+      "locator": "E20-CS26-27",
+      "claim_ids": [
+        "CG-PROD-0042"
+      ]
+    },
+    {
+      "locator": "E20-CS27-28",
+      "claim_ids": [
+        "CG-PERF-0038"
+      ]
+    },
+    {
+      "locator": "E20-CS27-29,35",
+      "claim_ids": [
+        "CG-REL-0044"
+      ]
+    },
+    {
+      "locator": "E20-CS28-29",
+      "claim_ids": [
+        "CG-MOTIF-0026"
+      ]
+    },
+    {
+      "locator": "E20-CS30-32",
+      "claim_ids": [
+        "CG-NG-0006",
+        "CG-VOICE-0029"
+      ]
+    },
+    {
+      "locator": "E20-CS31-36",
+      "claim_ids": [
+        "CG-NG-0007"
+      ]
+    },
+    {
+      "locator": "E20-CS33-36",
+      "claim_ids": [
+        "CG-MOTIF-0027"
+      ]
+    },
+    {
+      "locator": "E20-FRAME_000851",
+      "claim_ids": [
+        "CG-PERF-0039"
+      ]
+    },
+    {
+      "locator": "E20-FRAME_000865",
+      "claim_ids": [
+        "CG-PERF-0039"
+      ]
+    },
+    {
+      "locator": "E20-T00:12.24-01:19.64",
+      "claim_ids": [
+        "CG-INST-0025"
+      ]
+    },
+    {
+      "locator": "E20-T03:51.34-05:18.97",
+      "claim_ids": [
+        "CG-INST-0026"
+      ]
+    },
+    {
+      "locator": "E20-T04:35.96-05:39.90",
+      "claim_ids": [
+        "CG-PROD-0041"
+      ]
+    },
+    {
+      "locator": "E20-T09:45.36-10:08.67",
+      "claim_ids": [
+        "CG-CHAR-0051"
+      ]
+    },
+    {
+      "locator": "E20-T09:45.36-11:42.35",
+      "claim_ids": [
+        "CG-REL-0045"
+      ]
+    },
+    {
+      "locator": "E20-T13:29.29-15:17.27",
+      "claim_ids": [
+        "CG-PERF-0039",
+        "CG-CHAR-0051"
+      ]
+    },
+    {
+      "locator": "E20-T15:38.42-17:35.87",
+      "claim_ids": [
+        "CG-VOICE-0028"
+      ]
+    },
+    {
+      "locator": "E20-T15:49.18-16:45.15",
+      "claim_ids": [
+        "CG-CHAR-0050"
+      ]
+    },
+    {
+      "locator": "E20-T16:51.16-17:49.47",
+      "claim_ids": [
+        "CG-PROD-0042"
+      ]
+    },
+    {
+      "locator": "E20-T17:41.04-18:35.14",
+      "claim_ids": [
+        "CG-PERF-0038"
+      ]
+    },
+    {
+      "locator": "E20-T17:53.68-18:35.14",
+      "claim_ids": [
+        "CG-CHAR-0050"
+      ]
+    },
+    {
+      "locator": "E20-T17:53.68-18:36.09",
+      "claim_ids": [
+        "CG-REL-0044"
+      ]
+    },
+    {
+      "locator": "E20-T18:05.98-18:25.83",
+      "claim_ids": [
+        "CG-VOICE-0028"
+      ]
+    },
+    {
+      "locator": "E20-T18:43.14-19:04.96",
+      "claim_ids": [
+        "CG-MOTIF-0026"
+      ]
+    },
+    {
+      "locator": "E20-T19:31.53-19:45.79",
+      "claim_ids": [
+        "CG-VOICE-0029"
+      ]
+    },
+    {
+      "locator": "E20-T20:13.65-21:39.36",
+      "claim_ids": [
+        "CG-NG-0006"
+      ]
+    },
+    {
+      "locator": "E20-T20:24.54-20:46.06",
+      "claim_ids": [
+        "CG-CHAR-0051"
+      ]
+    },
+    {
+      "locator": "E20-T20:31.54-20:46.06",
+      "claim_ids": [
+        "CG-VOICE-0029"
+      ]
+    },
+    {
+      "locator": "E20-T20:47.68-22:25.66",
+      "claim_ids": [
+        "CG-NG-0007"
+      ]
+    },
+    {
+      "locator": "E20-T21:47.87-22:05.14",
+      "claim_ids": [
+        "CG-VOICE-0029"
+      ]
+    },
+    {
+      "locator": "E20-T22:27.53-23:56.00",
+      "claim_ids": [
+        "CG-MOTIF-0027"
+      ]
+    },
+    {
+      "locator": "E20-T23:17.17-23:28.72",
+      "claim_ids": [
+        "CG-REL-0044"
+      ]
+    },
+    {
+      "locator": "E20-T23:33.89-23:56.00",
+      "claim_ids": [
+        "CG-NG-0007"
+      ]
+    },
+    {
+      "locator": "E21-ASS0005-0013",
+      "claim_ids": [
+        "CG-NG-0008"
+      ]
+    },
+    {
+      "locator": "E21-ASS0042-0058",
+      "claim_ids": [
+        "CG-PERF-0040"
+      ]
+    },
+    {
+      "locator": "E21-ASS0048-0058",
+      "claim_ids": [
+        "CG-PERF-0041"
+      ]
+    },
+    {
+      "locator": "E21-ASS0088-0138",
+      "claim_ids": [
+        "CG-INST-0027"
+      ]
+    },
+    {
+      "locator": "E21-ASS0118-0129",
+      "claim_ids": [
+        "CG-REL-0048"
+      ]
+    },
+    {
+      "locator": "E21-ASS0142-0160",
+      "claim_ids": [
+        "CG-NG-0008"
+      ]
+    },
+    {
+      "locator": "E21-ASS0162-0175",
+      "claim_ids": [
+        "CG-PROD-0043"
+      ]
+    },
+    {
+      "locator": "E21-ASS0193-0201",
+      "claim_ids": [
+        "CG-VOICE-0031"
+      ]
+    },
+    {
+      "locator": "E21-ASS0202-0216",
+      "claim_ids": [
+        "CG-PERF-0040"
+      ]
+    },
+    {
+      "locator": "E21-ASS0219-0268",
+      "claim_ids": [
+        "CG-REL-0047"
+      ]
+    },
+    {
+      "locator": "E21-ASS0230-0253",
+      "claim_ids": [
+        "CG-REL-0046",
+        "CG-VOICE-0030"
+      ]
+    },
+    {
+      "locator": "E21-ASS0283-0352",
+      "claim_ids": [
+        "CG-PERF-0040",
+        "CG-PERF-0041"
+      ]
+    },
+    {
+      "locator": "E21-ASS0323-0337",
+      "claim_ids": [
+        "CG-CHAR-0052",
+        "CG-REL-0048"
+      ]
+    },
+    {
+      "locator": "E21-ASS0367-0383",
+      "claim_ids": [
+        "CG-PERF-0041",
+        "CG-NG-0009"
+      ]
+    },
+    {
+      "locator": "E21-ASS0384-0389",
+      "claim_ids": [
+        "CG-INST-0027"
+      ]
+    },
+    {
+      "locator": "E21-ASS0387-0389",
+      "claim_ids": [
+        "CG-REL-0048",
+        "CG-NG-0009"
+      ]
+    },
+    {
+      "locator": "E21-ASS0390-0415",
+      "claim_ids": [
+        "CG-VOICE-0031",
+        "CG-CHAR-0053"
+      ]
+    },
+    {
+      "locator": "E21-ASS0394-0415",
+      "claim_ids": [
+        "CG-PROD-0044"
+      ]
+    },
+    {
+      "locator": "E21-ASS0416-0427",
+      "claim_ids": [
+        "CG-MOTIF-0028"
+      ]
+    },
+    {
+      "locator": "E21-CS01-02",
+      "claim_ids": [
+        "CG-NG-0008"
+      ]
+    },
+    {
+      "locator": "E21-CS09-10",
+      "claim_ids": [
+        "CG-PERF-0040",
+        "CG-PERF-0041"
+      ]
+    },
+    {
+      "locator": "E21-CS11-14",
+      "claim_ids": [
+        "CG-INST-0027"
+      ]
+    },
+    {
+      "locator": "E21-CS12-13",
+      "claim_ids": [
+        "CG-REL-0048"
+      ]
+    },
+    {
+      "locator": "E21-CS14-16",
+      "claim_ids": [
+        "CG-NG-0008"
+      ]
+    },
+    {
+      "locator": "E21-CS16-17",
+      "claim_ids": [
+        "CG-PROD-0043"
+      ]
+    },
+    {
+      "locator": "E21-CS18",
+      "claim_ids": [
+        "CG-VOICE-0031"
+      ]
+    },
+    {
+      "locator": "E21-CS18-19",
+      "claim_ids": [
+        "CG-PERF-0040"
+      ]
+    },
+    {
+      "locator": "E21-CS20-24",
+      "claim_ids": [
+        "CG-REL-0047"
+      ]
+    },
+    {
+      "locator": "E21-CS21-23",
+      "claim_ids": [
+        "CG-REL-0046",
+        "CG-VOICE-0030"
+      ]
+    },
+    {
+      "locator": "E21-CS25-29",
+      "claim_ids": [
+        "CG-PERF-0040"
+      ]
+    },
+    {
+      "locator": "E21-CS25-31",
+      "claim_ids": [
+        "CG-PERF-0041"
+      ]
+    },
+    {
+      "locator": "E21-CS27-28",
+      "claim_ids": [
+        "CG-CHAR-0052",
+        "CG-REL-0048"
+      ]
+    },
+    {
+      "locator": "E21-CS30-32",
+      "claim_ids": [
+        "CG-NG-0009"
+      ]
+    },
+    {
+      "locator": "E21-CS31-32",
+      "claim_ids": [
+        "CG-REL-0048",
+        "CG-INST-0027"
+      ]
+    },
+    {
+      "locator": "E21-CS32-34",
+      "claim_ids": [
+        "CG-VOICE-0031",
+        "CG-CHAR-0053",
+        "CG-PROD-0044"
+      ]
+    },
+    {
+      "locator": "E21-CS34-36",
+      "claim_ids": [
+        "CG-MOTIF-0028"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000031",
+      "claim_ids": [
+        "CG-NG-0008"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000302",
+      "claim_ids": [
+        "CG-PERF-0041"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000566",
+      "claim_ids": [
+        "CG-NG-0008"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000589",
+      "claim_ids": [
+        "CG-NG-0008"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000617",
+      "claim_ids": [
+        "CG-PROD-0043"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000629",
+      "claim_ids": [
+        "CG-PROD-0043"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000765",
+      "claim_ids": [
+        "CG-REL-0047"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000808",
+      "claim_ids": [
+        "CG-REL-0046"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000839",
+      "claim_ids": [
+        "CG-REL-0046"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_000885",
+      "claim_ids": [
+        "CG-REL-0047"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001029",
+      "claim_ids": [
+        "CG-PERF-0040",
+        "CG-PERF-0041"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001066",
+      "claim_ids": [
+        "CG-CHAR-0052"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001092",
+      "claim_ids": [
+        "CG-CHAR-0052"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001104",
+      "claim_ids": [
+        "CG-CHAR-0052"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001180",
+      "claim_ids": [
+        "CG-PERF-0041",
+        "CG-NG-0009"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001247",
+      "claim_ids": [
+        "CG-INST-0027"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001289",
+      "claim_ids": [
+        "CG-CHAR-0053"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001311",
+      "claim_ids": [
+        "CG-CHAR-0053",
+        "CG-PROD-0044"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001329",
+      "claim_ids": [
+        "CG-VOICE-0031",
+        "CG-CHAR-0053",
+        "CG-PROD-0044"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001339",
+      "claim_ids": [
+        "CG-VOICE-0031",
+        "CG-PROD-0044"
+      ]
+    },
+    {
+      "locator": "E21-FRAME_001372",
+      "claim_ids": [
+        "CG-MOTIF-0028"
+      ]
+    },
+    {
+      "locator": "E21-T00:21.84-00:56.96",
+      "claim_ids": [
+        "CG-NG-0008"
+      ]
+    },
+    {
+      "locator": "E21-T03:25.06-04:05.52",
+      "claim_ids": [
+        "CG-PERF-0040"
+      ]
+    },
+    {
+      "locator": "E21-T03:42.20-04:05.52",
+      "claim_ids": [
+        "CG-PERF-0041"
+      ]
+    },
+    {
+      "locator": "E21-T05:31.31-07:38.39",
+      "claim_ids": [
+        "CG-INST-0027"
+      ]
+    },
+    {
+      "locator": "E21-T06:41.55-07:10.50",
+      "claim_ids": [
+        "CG-REL-0048"
+      ]
+    },
+    {
+      "locator": "E21-T07:57.25-09:11.24",
+      "claim_ids": [
+        "CG-NG-0008"
+      ]
+    },
+    {
+      "locator": "E21-T09:14.03-10:02.75",
+      "claim_ids": [
+        "CG-PROD-0043"
+      ]
+    },
+    {
+      "locator": "E21-T11:21.08-11:40.51",
+      "claim_ids": [
+        "CG-VOICE-0031"
+      ]
+    },
+    {
+      "locator": "E21-T11:44.10-12:31.73",
+      "claim_ids": [
+        "CG-PERF-0040"
+      ]
+    },
+    {
+      "locator": "E21-T12:51.75-15:15.43",
+      "claim_ids": [
+        "CG-REL-0047"
+      ]
+    },
+    {
+      "locator": "E21-T13:18.28-14:35.64",
+      "claim_ids": [
+        "CG-REL-0046",
+        "CG-VOICE-0030"
+      ]
+    },
+    {
+      "locator": "E21-T16:02.94-19:33.32",
+      "claim_ids": [
+        "CG-PERF-0040",
+        "CG-PERF-0041"
+      ]
+    },
+    {
+      "locator": "E21-T17:58.64-18:44.73",
+      "claim_ids": [
+        "CG-CHAR-0052",
+        "CG-REL-0048"
+      ]
+    },
+    {
+      "locator": "E21-T20:02.51-20:58.03",
+      "claim_ids": [
+        "CG-PERF-0041",
+        "CG-NG-0009"
+      ]
+    },
+    {
+      "locator": "E21-T21:07.12-21:34.10",
+      "claim_ids": [
+        "CG-INST-0027"
+      ]
+    },
+    {
+      "locator": "E21-T21:21.68-21:34.10",
+      "claim_ids": [
+        "CG-REL-0048",
+        "CG-NG-0009"
+      ]
+    },
+    {
+      "locator": "E21-T21:38.90-22:57.48",
+      "claim_ids": [
+        "CG-VOICE-0031",
+        "CG-CHAR-0053"
+      ]
+    },
+    {
+      "locator": "E21-T21:53.13-22:57.48",
+      "claim_ids": [
+        "CG-PROD-0044"
+      ]
+    },
+    {
+      "locator": "E21-T22:58.69-23:49.91",
+      "claim_ids": [
+        "CG-MOTIF-0028"
+      ]
+    },
+    {
+      "locator": "E22-ASS0040-0047",
+      "claim_ids": [
+        "CG-INST-0028"
+      ]
+    },
+    {
+      "locator": "E22-ASS0094-0114",
+      "claim_ids": [
+        "CG-NG-0010"
+      ]
+    },
+    {
+      "locator": "E22-ASS0139-0143",
+      "claim_ids": [
+        "CG-VOICE-0032"
+      ]
+    },
+    {
+      "locator": "E22-ASS0157-0159",
+      "claim_ids": [
+        "CG-REL-0050"
+      ]
+    },
+    {
+      "locator": "E22-ASS0170-0179",
+      "claim_ids": [
+        "CG-PERF-0042"
+      ]
+    },
+    {
+      "locator": "E22-ASS0187-0228",
+      "claim_ids": [
+        "CG-PROD-0045"
+      ]
+    },
+    {
+      "locator": "E22-ASS0238-0261",
+      "claim_ids": [
+        "CG-REL-0049"
+      ]
+    },
+    {
+      "locator": "E22-ASS0244-0246",
+      "claim_ids": [
+        "CG-PROD-0045"
+      ]
+    },
+    {
+      "locator": "E22-ASS0261-0312",
+      "claim_ids": [
+        "CG-REL-0049",
+        "CG-PERF-0043"
+      ]
+    },
+    {
+      "locator": "E22-ASS0321-0355",
+      "claim_ids": [
+        "CG-PERF-0044"
+      ]
+    },
+    {
+      "locator": "E22-ASS0327-0337",
+      "claim_ids": [
+        "CG-REL-0050"
+      ]
+    },
+    {
+      "locator": "E22-ASS0370-0381",
+      "claim_ids": [
+        "CG-INST-0029"
+      ]
+    },
+    {
+      "locator": "E22-ASS0385-0390",
+      "claim_ids": [
+        "CG-INST-0030"
+      ]
+    },
+    {
+      "locator": "E22-ASS0391-0420",
+      "claim_ids": [
+        "CG-REL-0051"
+      ]
+    },
+    {
+      "locator": "E22-ASS0425-0433",
+      "claim_ids": [
+        "CG-NG-0011"
+      ]
+    },
+    {
+      "locator": "E22-ASS0434-0442",
+      "claim_ids": [
+        "CG-MEDIA-0012"
+      ]
+    },
+    {
+      "locator": "E22-ASS0443-0450",
+      "claim_ids": [
+        "CG-CHAR-0054"
+      ]
+    },
+    {
+      "locator": "E22-ASS0459-0480",
+      "claim_ids": [
+        "CG-VOICE-0032"
+      ]
+    },
+    {
+      "locator": "E22-ASS0470-0487",
+      "claim_ids": [
+        "CG-PROD-0046"
+      ]
+    },
+    {
+      "locator": "E22-ASS0485-0490",
+      "claim_ids": [
+        "CG-MOTIF-0029"
+      ]
+    },
+    {
+      "locator": "E22-CS08-09",
+      "claim_ids": [
+        "CG-INST-0028"
+      ]
+    },
+    {
+      "locator": "E22-CS13-15",
+      "claim_ids": [
+        "CG-NG-0010"
+      ]
+    },
+    {
+      "locator": "E22-CS17-18",
+      "claim_ids": [
+        "CG-REL-0050"
+      ]
+    },
+    {
+      "locator": "E22-CS19-20",
+      "claim_ids": [
+        "CG-PERF-0042"
+      ]
+    },
+    {
+      "locator": "E22-CS20-24",
+      "claim_ids": [
+        "CG-PROD-0045"
+      ]
+    },
+    {
+      "locator": "E22-CS23-25",
+      "claim_ids": [
+        "CG-REL-0049"
+      ]
+    },
+    {
+      "locator": "E22-CS25-28",
+      "claim_ids": [
+        "CG-REL-0049",
+        "CG-PERF-0043"
+      ]
+    },
+    {
+      "locator": "E22-CS28-35",
+      "claim_ids": [
+        "CG-PERF-0044"
+      ]
+    },
+    {
+      "locator": "E22-CS30-32",
+      "claim_ids": [
+        "CG-REL-0050"
+      ]
+    },
+    {
+      "locator": "E22-CS36-38",
+      "claim_ids": [
+        "CG-INST-0029"
+      ]
+    },
+    {
+      "locator": "E22-CS37-38",
+      "claim_ids": [
+        "CG-INST-0030"
+      ]
+    },
+    {
+      "locator": "E22-CS38-40",
+      "claim_ids": [
+        "CG-REL-0051"
+      ]
+    },
+    {
+      "locator": "E22-CS40-41",
+      "claim_ids": [
+        "CG-NG-0011"
+      ]
+    },
+    {
+      "locator": "E22-CS41-42",
+      "claim_ids": [
+        "CG-CHAR-0054",
+        "CG-MEDIA-0012"
+      ]
+    },
+    {
+      "locator": "E22-CS43-44",
+      "claim_ids": [
+        "CG-VOICE-0032",
+        "CG-PROD-0046"
+      ]
+    },
+    {
+      "locator": "E22-CS44-45",
+      "claim_ids": [
+        "CG-MOTIF-0029"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_000397",
+      "claim_ids": [
+        "CG-NG-0010"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_000410",
+      "claim_ids": [
+        "CG-NG-0010"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_000630",
+      "claim_ids": [
+        "CG-PROD-0045"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_000693",
+      "claim_ids": [
+        "CG-PROD-0045"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_000755",
+      "claim_ids": [
+        "CG-PROD-0045"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_000819",
+      "claim_ids": [
+        "CG-PERF-0043"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_000873",
+      "claim_ids": [
+        "CG-PERF-0043"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_000940",
+      "claim_ids": [
+        "CG-PERF-0044"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_000976",
+      "claim_ids": [
+        "CG-PERF-0044",
+        "CG-REL-0050"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_001024",
+      "claim_ids": [
+        "CG-PERF-0044"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_001141",
+      "claim_ids": [
+        "CG-INST-0029"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_001234",
+      "claim_ids": [
+        "CG-REL-0051"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_001271",
+      "claim_ids": [
+        "CG-NG-0011"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_001299",
+      "claim_ids": [
+        "CG-MEDIA-0012"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_001360",
+      "claim_ids": [
+        "CG-VOICE-0032"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_001401",
+      "claim_ids": [
+        "CG-VOICE-0032",
+        "CG-PROD-0046"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_001424",
+      "claim_ids": [
+        "CG-PROD-0046",
+        "CG-MOTIF-0029"
+      ]
+    },
+    {
+      "locator": "E22-FRAME_001447",
+      "claim_ids": [
+        "CG-MOTIF-0029"
+      ]
+    },
+    {
+      "locator": "E22-T02:59.95-03:27.89",
+      "claim_ids": [
+        "CG-INST-0028"
+      ]
+    },
+    {
+      "locator": "E22-T05:23.14-06:30.96",
+      "claim_ids": [
+        "CG-NG-0010"
+      ]
+    },
+    {
+      "locator": "E22-T07:23.92-07:31.22",
+      "claim_ids": [
+        "CG-VOICE-0032"
+      ]
+    },
+    {
+      "locator": "E22-T08:09.84-08:17.98",
+      "claim_ids": [
+        "CG-REL-0050"
+      ]
+    },
+    {
+      "locator": "E22-T08:47.80-09:18.96",
+      "claim_ids": [
+        "CG-PERF-0042"
+      ]
+    },
+    {
+      "locator": "E22-T09:40.23-11:04.65",
+      "claim_ids": [
+        "CG-PROD-0045"
+      ]
+    },
+    {
+      "locator": "E22-T11:27.04-12:22.56",
+      "claim_ids": [
+        "CG-REL-0049"
+      ]
+    },
+    {
+      "locator": "E22-T11:38.68-11:46.85",
+      "claim_ids": [
+        "CG-PROD-0045"
+      ]
+    },
+    {
+      "locator": "E22-T12:22.64-14:13.67",
+      "claim_ids": [
+        "CG-REL-0049",
+        "CG-PERF-0043"
+      ]
+    },
+    {
+      "locator": "E22-T14:40.19-16:32.97",
+      "claim_ids": [
+        "CG-PERF-0044"
+      ]
+    },
+    {
+      "locator": "E22-T15:19.32-15:37.96",
+      "claim_ids": [
+        "CG-REL-0050"
+      ]
+    },
+    {
+      "locator": "E22-T17:13.14-18:05.65",
+      "claim_ids": [
+        "CG-INST-0029"
+      ]
+    },
+    {
+      "locator": "E22-T18:26.75-18:49.49",
+      "claim_ids": [
+        "CG-INST-0030"
+      ]
+    },
+    {
+      "locator": "E22-T18:55.78-20:00.85",
+      "claim_ids": [
+        "CG-REL-0051"
+      ]
+    },
+    {
+      "locator": "E22-T20:27.08-20:55.02",
+      "claim_ids": [
+        "CG-NG-0011"
+      ]
+    },
+    {
+      "locator": "E22-T20:55.82-21:13.63",
+      "claim_ids": [
+        "CG-MEDIA-0012"
+      ]
+    },
+    {
+      "locator": "E22-T21:15.25-21:37.23",
+      "claim_ids": [
+        "CG-CHAR-0054"
+      ]
+    },
+    {
+      "locator": "E22-T22:08.97-22:55.44",
+      "claim_ids": [
+        "CG-VOICE-0032"
+      ]
+    },
+    {
+      "locator": "E22-T22:32.33-23:18.66",
+      "claim_ids": [
+        "CG-PROD-0046"
+      ]
+    },
+    {
+      "locator": "E22-T23:15.04-24:00.98",
+      "claim_ids": [
+        "CG-MOTIF-0029"
+      ]
+    },
+    {
+      "locator": "Where does this road lead to?",
+      "claim_ids": [
+        "CG-MOTIF-0022"
+      ]
+    },
+    {
+      "locator": "美しい城にはそれに見合うお姫様を",
+      "claim_ids": [
+        "CG-CIND-0016"
+      ]
+    }
+  ]
+}

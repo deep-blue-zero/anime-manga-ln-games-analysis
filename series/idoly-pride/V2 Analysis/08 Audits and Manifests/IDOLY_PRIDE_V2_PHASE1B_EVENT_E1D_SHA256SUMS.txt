@@ -1,0 +1,17 @@
+# IDOLY PRIDE V2 Phase 1B Event E1-D SHA256 manifest
+
+# Source snapshot: IP-V2-SNAPSHOT-2026-08-13-A
+# Frozen: 2026-08-15
+# Scope: E1-D United States dissolution/re-authorization chain
+
+18ffb6fc1d3ba6dfb1f2bd3cfdb55a626eee7b67e914e208511376c866ed9731  event_2025_005_st-eve-2507-free.md  # raw source event part 1
+6aca3acd154d138a5f0e338b782ec0eca0e0bebc82dcf65be606f1efb2b6634f  event_2025_007_st-eve-2508-free.md  # raw source event part 2
+45221257193635bbd248cc4f1c008d2026a7e753c3439b9eab4b97c5197e70a7  IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E1C_BASELINE.md  # inherited governing baseline
+a5f295dd81d3d3fc4cf9a8e7b3a86acedda4ba7f78bacc8fc39be0582ed34974  IDOLY_PRIDE_V2_PHASE1B_EVENT_E1C_SHA256SUMS.txt  # prior tranche integrity manifest
+b3c3c60c37d55be8630850f9206b6c78c3996a6b9c9f3f4e088e7d0d10cb7c5c  IDOLY_PRIDE_V2_PHASE1B_EVENT_E1D_PRIMARY_FINDINGS_FREEZE.md  # prospective primary findings freeze
+1c8f857c1434ac531a46c2898e2a29508f271017e2ed9875a6cc402ed8a81025  IDOLY_PRIDE_V2_PHASE1B_EVENT_E1D_CLOSE_READ_AUDIT.md  # final close-read audit after historical stress test
+7a8228e6672c86bae09aeaf074bea5258d3c97c1cb268a7bece889bf6144c3c6  IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E1D_BASELINE.md  # successor governing baseline
+bc32e865a0a4080e4c33cb3de00af494f0bb209ebb43164889414ad2495edfcd  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.10.md  # successor active coverage ledger
+
+# Formal dependency carried forward
+# adv-live-eve-2508-event-05

@@ -1,0 +1,24 @@
+{
+  "phase8_locator_route_count": 1045,
+  "all_routes_current_source_verified": true,
+  "counts": {
+    "EXACT_SOURCE_VERIFIED": 1023,
+    "PARAPHRASE_COORD_CONTEXT_VERIFIED": 21,
+    "EXACT_COORD_ONLY_VERIFIED": 1
+  },
+  "compound_route_rechecks": {
+    "V07-L044": {
+      "second_coord": "p-009.xhtml para 400",
+      "second_anchor": "意識と鼓動が溶け合うような、魔法のような時間が溶ける。互いの心臓が、別々の鼓動を刻み始める。"
+    },
+    "V09-L061": {
+      "second_coord": "p-013.xhtml para 3",
+      "second_anchor": "「今でも好き。……きっとずっと、好きなまま」"
+    }
+  },
+  "notes": [
+    "EXACT_SOURCE_VERIFIED includes 1021 single-coordinate exact matches plus 2 compound two-coordinate exact locks whose second coordinates were independently rechecked.",
+    "PARAPHRASE_COORD_CONTEXT_VERIFIED rows preserve paraphrase status and verify current-source location/context rather than upgrading them to quotation-grade.",
+    "EXACT_COORD_ONLY_VERIFIED is the V05-L051 English-title provenance route, whose source coordinate is current but whose English title is not treated as Japanese quote text."
+  ]
+}

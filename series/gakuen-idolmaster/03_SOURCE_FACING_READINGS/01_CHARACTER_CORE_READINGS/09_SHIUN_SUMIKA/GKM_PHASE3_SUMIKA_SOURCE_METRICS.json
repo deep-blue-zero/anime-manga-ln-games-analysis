@@ -1,0 +1,68 @@
+{
+  "series": "GKM",
+  "character": "Shiun Sumika / 紫雲清夏",
+  "source_lock": "GAKUMAS V2 Source Lock 1.0",
+  "commit": "00d150a069a3ffa723a1ff264752ba242024caad",
+  "total_objects": 204,
+  "total_messages": 5682,
+  "families": {
+    "cidol": {
+      "objects": 24,
+      "messages": 1116
+    },
+    "dear": {
+      "objects": 38,
+      "messages": 2613
+    },
+    "live": {
+      "objects": 8,
+      "messages": 14
+    },
+    "pevent": {
+      "objects": 83,
+      "messages": 1023
+    },
+    "pgrowth": {
+      "objects": 3,
+      "messages": 11
+    },
+    "pstory": {
+      "objects": 46,
+      "messages": 893
+    },
+    "startup": {
+      "objects": 2,
+      "messages": 12
+    }
+  },
+  "pstory_series": {
+    "series_001": {
+      "objects": 31,
+      "messages": 723
+    },
+    "series_002": {
+      "objects": 11,
+      "messages": 127
+    },
+    "series_003": {
+      "objects": 4,
+      "messages": 43
+    }
+  },
+  "p3_fragments": [
+    "adv_pstory_003_ssmk_final-failure-01.txt",
+    "adv_pstory_003_ssmk_final-normal-02.txt",
+    "adv_pstory_003_ssmk_selection-failure-01.txt",
+    "adv_pstory_003_ssmk_selection-normal-02.txt"
+  ],
+  "direct_A1_spot_checks": {
+    "Dear005": "1CPfI_wa1TEd7xQfy37bWFVe-nF5yBwSK",
+    "Dear008": "1bX-iA79MROge2uHlOjp2DQDncoycA4M_",
+    "Dear014": "19tH78aLXOSBst-tzOBIOUMCcbwCyo6ZP",
+    "Dear026": "13c2LuMb1q3hdUkvUuU2fpiz4mU0YjnbZ",
+    "Dear031": "1kTzWWWY-TuJRgeOjcJlD9I0j4H-y1Afs",
+    "Dear037": "1udaOha1boDXzAXu1EJS1OVdTcVtYbmFF"
+  },
+  "phase3_thesis": "self-authored expectation",
+  "av_state": "pending; request packet prepared"
+}

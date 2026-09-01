@@ -1,0 +1,11 @@
+e8d004e76b21ac69adf049df74a2da9f5081277ac43023e3f7b1ad13c1360c0f  IDOLY_PRIDE_V2_PHASE1B_TSUKI_NO_TEMPEST_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
+0d934502cf6c5d41b8329c4e23e2911e385e4e2d9f42728730673b8767447888  IDOLY_PRIDE_V2_PHASE1B_TSUKI_NO_TEMPEST_ORIGIN_AUDIT.md
+02593c893349283c40e3607c7c680de2df9f77dc7e254a662dcd93a42cffb1db  IDOLY_PRIDE_V2_HOSHIMI_ANIME_GAME_EXPANSION_AUDIT_ADDENDUM_TSUKI_NO_TEMPEST_ORIGINS.md
+469767f8816fe0f14b5e6b936b4d770b22b9bcb2a044ca93491130ed53d36d4f  IDOLY_PRIDE_V2_PHASE1B_SUNNY_PEACE_ORIGIN_AUDIT_ADDENDUM_TSUKI_SAKI.md
+a32bafd8171a7403050a943ec6785f433ff94e6b1b43baa3477a67ed5d10206e  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v0.7.md
+
+# Next output and recommended model
+# Next output: Phase 1B LizNoir origins (origin_liz_001 -> origin_liz_010)
+# Recommended model: GPT-5.6 Sol
+# Recommended reasoning level: High
+# Reason: the next tranche returns to multi-document primary-source close reading, source-native freeze construction, historical adversarial comparison, and cross-unit/cross-media provenance routing.

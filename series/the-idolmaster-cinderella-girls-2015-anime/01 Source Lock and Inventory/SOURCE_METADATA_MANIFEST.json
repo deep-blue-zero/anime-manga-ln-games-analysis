@@ -1,0 +1,71 @@
+{
+  "series": "THE IDOLM@STER CINDERELLA GIRLS",
+  "year": 2015,
+  "scope": "E01-E26",
+  "payloads_in_release": false,
+  "subtitle_timing": {
+    "E01-E11": "+0.98s",
+    "E12": "+0.82s",
+    "E13-E25": "+0.98s",
+    "E26": "0.00s"
+  },
+  "dialogue_language": {
+    "E01-E25": "Japanese",
+    "E26": "English subtitle navigation layer; Japanese program audio"
+  },
+  "retained_bundle_fingerprints": {
+    "E14": {
+      "sha256": "e72c7f79374c2c2745d4d07e5adc5963d9d740b9d3adee77c6bbf5def064f755",
+      "hash_status": "complete"
+    },
+    "E15": {
+      "sha256": "8ba2220ef91c6fb6634fd1a49bbcca67e47f044a19dd21a9ff9c0c0975d95546",
+      "hash_status": "complete"
+    },
+    "E16": {
+      "sha256": "634468adaf57acdea457347bb8030312f959f71f7c6874bfb3917f7bbe221fe3",
+      "hash_status": "complete"
+    },
+    "E17": {
+      "sha256": "8ba838a0a99d0c30f112e7440da18eb685f25884b918fbe2b4c172ef51bff4da",
+      "hash_status": "complete"
+    },
+    "E20": {
+      "sha256": "6a741d497212a8040a850967be345842db1ceacfc0ad7755a33399387f2ed51c",
+      "hash_status": "complete"
+    },
+    "E21": {
+      "sha256": "4ac9fab3a9d810c03e4e1ceda9216f7550e8c81407099c44b1ba86b54af236c0",
+      "hash_status": "complete"
+    },
+    "E22": {
+      "sha256": "5a6b27f5358a7c91fe196b0d2f9b67eb81a0cdf589cbd2f98e1aeb21a880577a",
+      "hash_status": "complete"
+    },
+    "E23": {
+      "sha256": "7c4fb428ea9d3c4826f86490cacd598d607e1f089be769a296cda2afd7e00d5a",
+      "hash_status": "complete"
+    },
+    "E24": {
+      "sha256": "fbbacc27e0efedf0b5f8d1106ab069b4e3badb805493f1d33dd584579377dd90",
+      "hash_status": "complete"
+    },
+    "E25": {
+      "sha256": "ec019281106cab882572f989c10250ed1b892a50206a1ee9d12dddeced72dd6a",
+      "hash_status": "complete"
+    },
+    "E26": {
+      "sha256": "430705cf8a4ec0ddf6aba1fb11fb4f189ef2ea10021655619ef4de2affa3b564",
+      "hash_status": "complete"
+    },
+    "E18": {
+      "sha256_prefix": "8faa9b7842ae",
+      "hash_status": "prefix_only"
+    },
+    "E19": {
+      "sha256_prefix": "febc61e5aa7b",
+      "hash_status": "prefix_only"
+    }
+  },
+  "note": "This manifest contains only metadata explicitly preserved in CG2015_SOURCE_LOCK_AND_INVENTORY_E01-E26.md; missing source hashes are not reconstructed."
+}

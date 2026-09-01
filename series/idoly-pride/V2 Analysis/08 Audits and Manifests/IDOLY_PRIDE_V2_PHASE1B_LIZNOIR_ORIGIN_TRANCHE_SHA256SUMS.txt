@@ -1,0 +1,16 @@
+499998460a2a0269ac93c31d7c377f4d01a0157264e4a616e27fdcf179e40bde  IDOLY_PRIDE_V2_PHASE1B_LIZNOIR_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
+1086e67a49fc34075f8a215b101c77ef8375bd7fbcdb9f44eb940982c8c0d8eb  IDOLY_PRIDE_V2_PHASE1B_LIZNOIR_ORIGIN_PRIMARY_FINDINGS_FREEZE_v1.1.md
+c60e6804b957dd3c8cde33a1fdcd43e84363b33ad4f26056e414f9fd13ad04b3  IDOLY_PRIDE_V2_PHASE1B_LIZNOIR_ORIGIN_AUDIT.md
+c79ca5cb4d0cd50ccc279800aebf65fc6e5ee70ff8cf41714a16d38810b32111  IDOLY_PRIDE_V2_HOSHIMI_ANIME_GAME_EXPANSION_AUDIT_ADDENDUM_LIZNOIR_ORIGINS.md
+7a365e8601f96471fe3757ee200a56410716e8dde7b494ea26f979ec1304d6be  IDOLY_PRIDE_V2_PHASE1B_TIER_A_AUDIT_TRANCHE_01_ADDENDUM_LIZNOIR_SAEGUSA_VENUS.md
+951b50dd6f6eaa551bee8987a3e21a1c2dd6a5bbfb3e59fb3a55ead64ecc6404  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v0.8.md
+
+# Freeze integrity note
+# The v1.0 primary findings freeze is the immutable proof of pre-historical source-native analysis.
+# The v1.1 copy changes only mistaken English pronouns/gendered wording for Igawa Aoi; substantive findings are unchanged.
+
+# Next output and recommended model
+# Next output: Phase 1B TRINITYAiLE origins (origin_tri_001 -> origin_tri_006)
+# Recommended model: GPT-5.6 Sol
+# Recommended reasoning level: High
+# Reason: the next tranche returns to multi-document primary-source close reading, source-native freeze construction, historical adversarial comparison, and cross-media chronology/recontextualization routing.

@@ -1,0 +1,114 @@
+{
+  "RINAMI-P01": {
+    "sample_count": 16,
+    "mean_luma_0_255": 41.92,
+    "luma_range_0_255": 83.53,
+    "mean_rgb_stddev_0_255": 51.84,
+    "mean_channel_spread_0_255": 47.39
+  },
+  "RINAMI-P02": {
+    "sample_count": 16,
+    "mean_luma_0_255": 185.97,
+    "luma_range_0_255": 155.91,
+    "mean_rgb_stddev_0_255": 49.32,
+    "mean_channel_spread_0_255": 35.71
+  },
+  "RINAMI-P03": {
+    "sample_count": 16,
+    "mean_luma_0_255": 73.78,
+    "luma_range_0_255": 45.12,
+    "mean_rgb_stddev_0_255": 75.43,
+    "mean_channel_spread_0_255": 61.81
+  },
+  "RINAMI-P04": {
+    "sample_count": 16,
+    "mean_luma_0_255": 75.45,
+    "luma_range_0_255": 0.01,
+    "mean_rgb_stddev_0_255": 84.77,
+    "mean_channel_spread_0_255": 69.96
+  },
+  "RINAMI-P05": {
+    "sample_count": 16,
+    "mean_luma_0_255": 80.02,
+    "luma_range_0_255": 128.23,
+    "mean_rgb_stddev_0_255": 72.83,
+    "mean_channel_spread_0_255": 61.04
+  },
+  "RINAMI-P06": {
+    "sample_count": 16,
+    "mean_luma_0_255": 183.7,
+    "luma_range_0_255": 133.93,
+    "mean_rgb_stddev_0_255": 42.57,
+    "mean_channel_spread_0_255": 44.19
+  },
+  "RINAMI-P07": {
+    "sample_count": 16,
+    "mean_luma_0_255": 55.8,
+    "luma_range_0_255": 106.51,
+    "mean_rgb_stddev_0_255": 56.65,
+    "mean_channel_spread_0_255": 41.63
+  },
+  "RINAMI-P08": {
+    "sample_count": 16,
+    "mean_luma_0_255": 67.75,
+    "luma_range_0_255": 111.64,
+    "mean_rgb_stddev_0_255": 67.28,
+    "mean_channel_spread_0_255": 59.62
+  },
+  "RINAMI-P09": {
+    "sample_count": 16,
+    "mean_luma_0_255": 62.15,
+    "luma_range_0_255": 101.38,
+    "mean_rgb_stddev_0_255": 55.7,
+    "mean_channel_spread_0_255": 43.46
+  },
+  "RINAMI-P10": {
+    "sample_count": 16,
+    "mean_luma_0_255": 44.48,
+    "luma_range_0_255": 75.57,
+    "mean_rgb_stddev_0_255": 57.42,
+    "mean_channel_spread_0_255": 42.08
+  },
+  "RINAMI-P11": {
+    "sample_count": 16,
+    "mean_luma_0_255": 111.07,
+    "luma_range_0_255": 190.61,
+    "mean_rgb_stddev_0_255": 43.84,
+    "mean_channel_spread_0_255": 75.92
+  },
+  "RINAMI-P12": {
+    "sample_count": 16,
+    "mean_luma_0_255": 105.72,
+    "luma_range_0_255": 182.84,
+    "mean_rgb_stddev_0_255": 51.44,
+    "mean_channel_spread_0_255": 38.84
+  },
+  "RINAMI-P13": {
+    "sample_count": 16,
+    "mean_luma_0_255": 49.2,
+    "luma_range_0_255": 81.23,
+    "mean_rgb_stddev_0_255": 52.97,
+    "mean_channel_spread_0_255": 35.38
+  },
+  "RINAMI-P14": {
+    "sample_count": 16,
+    "mean_luma_0_255": 96.2,
+    "luma_range_0_255": 148.74,
+    "mean_rgb_stddev_0_255": 69.18,
+    "mean_channel_spread_0_255": 74.56
+  },
+  "RINAMI-P15": {
+    "sample_count": 16,
+    "mean_luma_0_255": 112.14,
+    "luma_range_0_255": 159.14,
+    "mean_rgb_stddev_0_255": 81.9,
+    "mean_channel_spread_0_255": 65.86
+  },
+  "RINAMI-P16": {
+    "sample_count": 4,
+    "mean_luma_0_255": 106.26,
+    "luma_range_0_255": 0.0,
+    "mean_rgb_stddev_0_255": 105.14,
+    "mean_channel_spread_0_255": 19.59
+  }
+}

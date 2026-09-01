@@ -1,0 +1,1629 @@
+{
+  "project": "Gakuen Idolmaster / 学園アイドルマスター",
+  "phase": "3 — Fujita Kotone complete audiovisual baseline",
+  "series": "GKM",
+  "character": "Fujita Kotone / 藤田ことね",
+  "source_lock": "GAKUMAS V2 Source Lock 1.0 + Kotone AV registry 2026-08-15",
+  "created": "2026-08-15",
+  "staged_kotone_object_count": 26,
+  "reused_shared_object_count": 1,
+  "directly_materialized_media_count": 25,
+  "remote_or_text_aligned_count": 2,
+  "media": [
+    {
+      "canonical_name": "MUS004_CAMPUS_MODE_3DMV",
+      "source_filename": "4K HDR「Campus mode!!」(藤田ことね フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "drive_id": "1nmMxnveCUK-2Ksd2h6Sa0FMkJOgdO-qS",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/4K HDR「Campus mode!!」(藤田ことね フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "size_bytes": 105775355,
+      "sha256": "b4b004e71fd1c8ae97975e3abb20137e506f85d81952d5216d66662f82121f50",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "159.915828",
+          "size": "105775355",
+          "bit_rate": "5291551"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 154.157,
+        "rms_db_mean": -17.179,
+        "rms_db_p10": -19.262,
+        "rms_db_p50": -14.605,
+        "rms_db_p90": -12.151,
+        "dynamic_range_p90_p10_db": 7.111,
+        "spectral_centroid_hz_mean": 2663.5,
+        "spectral_bandwidth_hz_mean": 2527.9,
+        "spectral_flatness_mean": 0.069065,
+        "spectral_rolloff85_hz_mean": 5374.9,
+        "hf_power_ratio_ge5khz": 0.029076,
+        "onset_rate_per_s": 4.1386,
+        "onset_strength_mean": 1.3287,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-12.46",
+        "input_tp": "-0.22",
+        "input_lra": "3.50",
+        "input_thresh": "-22.58",
+        "output_i": "-22.76",
+        "output_tp": "-6.16",
+        "output_lra": "3.10",
+        "output_thresh": "-32.84",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.24"
+      }
+    },
+    {
+      "canonical_name": "MUS008_ENDLESS_DANCE_3DMV",
+      "source_filename": "4K HDR「ENDLESS DANCE」(藤田ことね SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "drive_id": "1HfagSUVt3h3LaZ7wzoqhpGQTbRLTeyys",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/4K HDR「ENDLESS DANCE」(藤田ことね SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "size_bytes": 73449202,
+      "sha256": "cb80cdbbe7026a51fdda1c9f76ef29535ab0ef9e61db4bd695ab60d8a8008f29",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "109.760726",
+          "size": "73449202",
+          "bit_rate": "5353404"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 101.982,
+        "rms_db_mean": -17.576,
+        "rms_db_p10": -19.899,
+        "rms_db_p50": -12.919,
+        "rms_db_p90": -10.566,
+        "dynamic_range_p90_p10_db": 9.334,
+        "spectral_centroid_hz_mean": 2832.6,
+        "spectral_bandwidth_hz_mean": 2499.0,
+        "spectral_flatness_mean": 0.097876,
+        "spectral_rolloff85_hz_mean": 5554.8,
+        "hf_power_ratio_ge5khz": 0.031756,
+        "onset_rate_per_s": 2.3534,
+        "onset_strength_mean": 1.2651,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-11.51",
+        "input_tp": "0.09",
+        "input_lra": "2.30",
+        "input_thresh": "-21.65",
+        "output_i": "-22.35",
+        "output_tp": "-5.42",
+        "output_lra": "1.90",
+        "output_thresh": "-32.44",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.65"
+      }
+    },
+    {
+      "canonical_name": "MUS009_HOWLING_3DMV",
+      "source_filename": "4K HDR「Howling over the World」 (藤田ことね ソロ SSR)【学マス⧸学園アイドルマスタ⧸ Gakuen idolm@ster MV】-(1080p60).mp4",
+      "drive_id": "1_i2HCU0QnTJxyM5t6qxw5urxEWw4m-RK",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/4K HDR「Howling over the World」 (藤田ことね ソロ SSR)【学マス⧸学園アイドルマスタ⧸ Gakuen idolm@ster MV】-(1080p60).mp4",
+      "size_bytes": 71202058,
+      "sha256": "a6ab1a9237e4d023968302388b7c59c51df56eb0193e867256013dc5a5312a5d",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "111.246803",
+          "size": "71202058",
+          "bit_rate": "5120295"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 103.468,
+        "rms_db_mean": -18.583,
+        "rms_db_p10": -24.83,
+        "rms_db_p50": -14.844,
+        "rms_db_p90": -11.947,
+        "dynamic_range_p90_p10_db": 12.883,
+        "spectral_centroid_hz_mean": 2835.9,
+        "spectral_bandwidth_hz_mean": 2518.6,
+        "spectral_flatness_mean": 0.065521,
+        "spectral_rolloff85_hz_mean": 5496.5,
+        "hf_power_ratio_ge5khz": 0.02649,
+        "onset_rate_per_s": 4.2815,
+        "onset_strength_mean": 1.3804,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-13.57",
+        "input_tp": "-0.20",
+        "input_lra": "5.30",
+        "input_thresh": "-23.90",
+        "output_i": "-21.82",
+        "output_tp": "-2.00",
+        "output_lra": "4.20",
+        "output_thresh": "-32.01",
+        "normalization_type": "dynamic",
+        "target_offset": "-1.18"
+      }
+    },
+    {
+      "canonical_name": "MUS002A_YELLOW_BIG_BANG_3DMV",
+      "source_filename": "4K HDR「Yellow Big Bang！」 (歌：藤田ことね)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "drive_id": "1oBAYWar3TQT9uCiW27CDW4g3J_AI2zs-",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/4K HDR「Yellow Big Bang！」 (歌：藤田ことね)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "size_bytes": 125693814,
+      "sha256": "680a052749af61e95d2432a355725d35add5285714743abf5256eedc33ea5c2b",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "183.367982",
+          "size": "125693814",
+          "bit_rate": "5483784"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 176.147,
+        "rms_db_mean": -16.932,
+        "rms_db_p10": -21.927,
+        "rms_db_p50": -15.929,
+        "rms_db_p90": -12.024,
+        "dynamic_range_p90_p10_db": 9.903,
+        "spectral_centroid_hz_mean": 2573.9,
+        "spectral_bandwidth_hz_mean": 2474.7,
+        "spectral_flatness_mean": 0.040741,
+        "spectral_rolloff85_hz_mean": 5262.6,
+        "hf_power_ratio_ge5khz": 0.023919,
+        "onset_rate_per_s": 3.9172,
+        "onset_strength_mean": 1.3623,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-13.91",
+        "input_tp": "-0.07",
+        "input_lra": "5.60",
+        "input_thresh": "-24.07",
+        "output_i": "-21.69",
+        "output_tp": "-3.23",
+        "output_lra": "4.20",
+        "output_thresh": "-31.79",
+        "normalization_type": "dynamic",
+        "target_offset": "-1.31"
+      }
+    },
+    {
+      "canonical_name": "MUS005_GAMUSHARA_3DMV",
+      "source_filename": "4K HDR「がむしゃらに行こう！」 (藤田ことね SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(2160p60).mp4",
+      "drive_id": "1-HoIWKNyNnpBNM6gx9ZgecqpLF7coE2z",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/4K HDR「がむしゃらに行こう！」 (藤田ことね SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(2160p60).mp4",
+      "size_bytes": 232217104,
+      "sha256": "c076e498aac8528365079cdcd795427887bc30be607146c83f757b62df01e209",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "vp9",
+            "codec_type": "video",
+            "width": 3840,
+            "height": 2160,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "110.155465",
+          "size": "232217104",
+          "bit_rate": "16864681"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 103.515,
+        "rms_db_mean": -19.528,
+        "rms_db_p10": -34.897,
+        "rms_db_p50": -15.29,
+        "rms_db_p90": -11.934,
+        "dynamic_range_p90_p10_db": 22.962,
+        "spectral_centroid_hz_mean": 2486.8,
+        "spectral_bandwidth_hz_mean": 2481.0,
+        "spectral_flatness_mean": 0.057988,
+        "spectral_rolloff85_hz_mean": 5184.4,
+        "hf_power_ratio_ge5khz": 0.024667,
+        "onset_rate_per_s": 3.0334,
+        "onset_strength_mean": 1.4822,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-13.68",
+        "input_tp": "0.29",
+        "input_lra": "4.30",
+        "input_thresh": "-24.13",
+        "output_i": "-22.86",
+        "output_tp": "-5.60",
+        "output_lra": "5.20",
+        "output_thresh": "-33.12",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.14"
+      }
+    },
+    {
+      "canonical_name": "MUS010_MIRACLE_NANAU_3DMV",
+      "source_filename": "4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (藤田ことね SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "drive_id": "1pyXV5wqIZX2nuT4Bva3cFsdiHp_MSdQ-",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (藤田ことね SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "size_bytes": 73326535,
+      "sha256": "44826913ba0127d43a1cfab4d3f58a147ceb78a2c91f8d3cbcbb1d0f29e08e27",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "117.098231",
+          "size": "73326535",
+          "bit_rate": "5009574"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 103.027,
+        "rms_db_mean": -19.559,
+        "rms_db_p10": -26.466,
+        "rms_db_p50": -15.266,
+        "rms_db_p90": -12.071,
+        "dynamic_range_p90_p10_db": 14.395,
+        "spectral_centroid_hz_mean": 3263.5,
+        "spectral_bandwidth_hz_mean": 2645.7,
+        "spectral_flatness_mean": 0.107021,
+        "spectral_rolloff85_hz_mean": 6310.4,
+        "hf_power_ratio_ge5khz": 0.054571,
+        "onset_rate_per_s": 2.7663,
+        "onset_strength_mean": 1.6142,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-13.33",
+        "input_tp": "0.02",
+        "input_lra": "4.60",
+        "input_thresh": "-23.63",
+        "output_i": "-22.01",
+        "output_tp": "-2.00",
+        "output_lra": "4.10",
+        "output_thresh": "-32.20",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.99"
+      }
+    },
+    {
+      "canonical_name": "MUS001B_SEKAIICHI_3DMV",
+      "source_filename": "4K HDR「世界一可愛い私」(歌：藤田ことね)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "drive_id": "1qk8hhB8FztFEoCuNSYOqse9aeOVnDrsU",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/4K HDR「世界一可愛い私」(歌：藤田ことね)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "size_bytes": 102128092,
+      "sha256": "2372d7d097134bff31321bc09cb5ca8976b74bea5f08a8dcc5562eff1be1f1dd",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "156.548934",
+          "size": "102128092",
+          "bit_rate": "5218973"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 146.146,
+        "rms_db_mean": -17.122,
+        "rms_db_p10": -23.925,
+        "rms_db_p50": -16.2,
+        "rms_db_p90": -11.207,
+        "dynamic_range_p90_p10_db": 12.719,
+        "spectral_centroid_hz_mean": 2374.2,
+        "spectral_bandwidth_hz_mean": 2362.7,
+        "spectral_flatness_mean": 0.02857,
+        "spectral_rolloff85_hz_mean": 4665.3,
+        "hf_power_ratio_ge5khz": 0.012698,
+        "onset_rate_per_s": 3.2433,
+        "onset_strength_mean": 1.2811,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-14.17",
+        "input_tp": "-0.03",
+        "input_lra": "10.00",
+        "input_thresh": "-24.34",
+        "output_i": "-21.63",
+        "output_tp": "-5.38",
+        "output_lra": "6.90",
+        "output_thresh": "-31.68",
+        "normalization_type": "dynamic",
+        "target_offset": "-1.37"
+      }
+    },
+    {
+      "canonical_name": "MUS003B_SHUKI_3DMV",
+      "source_filename": "4K HDR「自己肯定感爆上げ↑↑しゅきしゅきソング」 (藤田ことね STEP3 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "drive_id": "1hyp4Pv5UXz1yLQS1LBl2T09VnnbF5Ave",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/4K HDR「自己肯定感爆上げ↑↑しゅきしゅきソング」 (藤田ことね STEP3 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "size_bytes": 118533846,
+      "sha256": "0afbbb01c1323ac1b17e5b26317a4d0ff47c5eedeae6f2b714d9739733615542",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "169.366349",
+          "size": "118533846",
+          "bit_rate": "5598932"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 162.238,
+        "rms_db_mean": -15.034,
+        "rms_db_p10": -22.156,
+        "rms_db_p50": -11.457,
+        "rms_db_p90": -8.533,
+        "dynamic_range_p90_p10_db": 13.623,
+        "spectral_centroid_hz_mean": 2618.1,
+        "spectral_bandwidth_hz_mean": 2595.6,
+        "spectral_flatness_mean": 0.041598,
+        "spectral_rolloff85_hz_mean": 5504.1,
+        "hf_power_ratio_ge5khz": 0.016938,
+        "onset_rate_per_s": 3.4456,
+        "onset_strength_mean": 1.3911,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-13.65",
+        "input_tp": "-0.13",
+        "input_lra": "4.90",
+        "input_thresh": "-23.78",
+        "output_i": "-21.96",
+        "output_tp": "-6.00",
+        "output_lra": "3.70",
+        "output_thresh": "-32.06",
+        "normalization_type": "dynamic",
+        "target_offset": "-1.04"
+      }
+    },
+    {
+      "canonical_name": "MUS012_REIRIS_3DMV",
+      "source_filename": "4K HDR「雨上がりのアイリス」 (Re;IRIS 花海咲季・藤田ことね・月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "drive_id": "1YA2Z6qmQ-A9Bc8KMzTR5Oej9hV7KTGNz",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/4K HDR「雨上がりのアイリス」 (Re;IRIS 花海咲季・藤田ことね・月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "size_bytes": 131322949,
+      "sha256": "c22fc210987561c2b0c9c069b4f81ad092f5e7c4093657fb4372aa4b44a29c1d",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "199.459410",
+          "size": "131322949",
+          "bit_rate": "5267154"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 192.493,
+        "rms_db_mean": -18.17,
+        "rms_db_p10": -25.215,
+        "rms_db_p50": -15.302,
+        "rms_db_p90": -11.207,
+        "dynamic_range_p90_p10_db": 14.009,
+        "spectral_centroid_hz_mean": 2517.6,
+        "spectral_bandwidth_hz_mean": 2503.0,
+        "spectral_flatness_mean": 0.039925,
+        "spectral_rolloff85_hz_mean": 5202.2,
+        "hf_power_ratio_ge5khz": 0.023236,
+        "onset_rate_per_s": 2.691,
+        "onset_strength_mean": 1.1995,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-13.98",
+        "input_tp": "-0.30",
+        "input_lra": "9.30",
+        "input_thresh": "-24.32",
+        "output_i": "-22.10",
+        "output_tp": "-6.23",
+        "output_lra": "6.30",
+        "output_thresh": "-32.29",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.90"
+      }
+    },
+    {
+      "canonical_name": "MUS006_THE_CUTE_FULL_MIX_SOURCE",
+      "source_filename": "The Cute!!!-(1080p25).mp4",
+      "drive_id": "1CuE7XIOpOpMR5UfN5YRz5-MDP21uV_N9",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/The Cute!!!-(1080p25).mp4",
+      "size_bytes": 13073975,
+      "sha256": "5288a9f9223f27fca606392b5b3e9d8d6d0c97dd1a0bcdbec34ee19ae67fdd7e",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1080,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "232.140000",
+          "size": "13073975",
+          "bit_rate": "450554"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 226.72,
+        "rms_db_mean": -10.614,
+        "rms_db_p10": -17.706,
+        "rms_db_p50": -8.618,
+        "rms_db_p90": -6.18,
+        "dynamic_range_p90_p10_db": 11.526,
+        "spectral_centroid_hz_mean": 2877.6,
+        "spectral_bandwidth_hz_mean": 2732.7,
+        "spectral_flatness_mean": 0.050855,
+        "spectral_rolloff85_hz_mean": 6033.4,
+        "hf_power_ratio_ge5khz": 0.02829,
+        "onset_rate_per_s": 2.201,
+        "onset_strength_mean": 1.2749,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-7.98",
+        "input_tp": "0.40",
+        "input_lra": "9.50",
+        "input_thresh": "-18.35",
+        "output_i": "-22.14",
+        "output_tp": "-9.11",
+        "output_lra": "6.60",
+        "output_thresh": "-32.26",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.86"
+      }
+    },
+    {
+      "canonical_name": "MUS002B_YELLOW_BIG_BANG_FULL_MIX_SOURCE",
+      "source_filename": "Yellow Big Bang！-(1080p25).mp4",
+      "drive_id": "1xrSmX6zXsVBMY7lfF0Y6ymRsNnDxzyDk",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/Yellow Big Bang！-(1080p25).mp4",
+      "size_bytes": 12343358,
+      "sha256": "7f1fa44840d49b2924fb6759256d3fc090479faa529c5081144e6ff8bb40ec1e",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1080,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "247.882993",
+          "size": "12343358",
+          "bit_rate": "398360"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 241.232,
+        "rms_db_mean": -10.262,
+        "rms_db_p10": -15.823,
+        "rms_db_p50": -9.092,
+        "rms_db_p90": -6.07,
+        "dynamic_range_p90_p10_db": 9.752,
+        "spectral_centroid_hz_mean": 2643.4,
+        "spectral_bandwidth_hz_mean": 2605.9,
+        "spectral_flatness_mean": 0.04214,
+        "spectral_rolloff85_hz_mean": 5586.1,
+        "hf_power_ratio_ge5khz": 0.025639,
+        "onset_rate_per_s": 3.1007,
+        "onset_strength_mean": 1.3815,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-7.76",
+        "input_tp": "0.17",
+        "input_lra": "6.20",
+        "input_thresh": "-18.00",
+        "output_i": "-22.80",
+        "output_tp": "-12.69",
+        "output_lra": "4.20",
+        "output_thresh": "-32.87",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.20"
+      }
+    },
+    {
+      "canonical_name": "DIA011_GO_MY_WAY_COMMU",
+      "source_filename": "【GO MY WAY!!】藤田ことね  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "drive_id": "1Rhhi1yqzagCDf6POQ9QsrUGVVJBLByKJ",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【GO MY WAY!!】藤田ことね  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "size_bytes": 140904293,
+      "sha256": "4fcaf774a19b5e7bf2c3d41c4a35fe922dd253833e5a0790af909aa28d6ed0ec",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "668.990113",
+          "size": "140904293",
+          "bit_rate": "1684979"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "DIA009_GAMUSHARA_COMMU",
+      "source_filename": "【がむしゃらに行こう！】藤田ことね  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "drive_id": "1mqBTBEVgRS_SuwVym2v2My_WYKIlKF8m",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【がむしゃらに行こう！】藤田ことね  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "size_bytes": 89751572,
+      "sha256": "c5ac3d07b185a12da5470bf0842bf6cb8aa99ae32d7476cb9e74280eb2318939",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "642.960544",
+          "size": "89751572",
+          "bit_rate": "1116728"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "DIA003_DEAR_021_027",
+      "source_filename": "【学マス】藤田ことね  親愛度コミュ21～27話まとめ【STEP3】-(720p30).mp4",
+      "drive_id": "1qFC9paIgl0VcXjvVdft11GjhlWelLtxy",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【学マス】藤田ことね  親愛度コミュ21～27話まとめ【STEP3】-(720p30).mp4",
+      "size_bytes": 208930167,
+      "sha256": "29af646e900afb92ea19dd5988cb92e00860593894b4d032087cb147b697b0ee",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "30/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "bin_data",
+            "codec_type": "data",
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 3,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "2280.000000",
+          "size": "208930167",
+          "bit_rate": "733088"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "DIA001_DEAR_001_010",
+      "source_filename": "【学マス】藤田ことね　親愛度１～１０話【アイドルコミュ】-(1080p30).mp4",
+      "drive_id": "122u3VSKYMsVZDj0Dzo66_y15CZodCoAW",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【学マス】藤田ことね　親愛度１～１０話【アイドルコミュ】-(1080p30).mp4",
+      "size_bytes": 267205971,
+      "sha256": "dd638a2161852950e792bcce172a32bd1c02ccab5762ad86113f11dc215991eb",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "30/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "2867.246440",
+          "size": "267205971",
+          "bit_rate": "745540"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "DIA006_CAMPUS_COMMU",
+      "source_filename": "【楽曲コミュ】Campus mode!!【藤田ことね】【学マス】-(1080p30).mp4",
+      "drive_id": "1d2HQbaTuIAGLuHeL9ZY_K4HepQ66STss",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【楽曲コミュ】Campus mode!!【藤田ことね】【学マス】-(1080p30).mp4",
+      "size_bytes": 119622688,
+      "sha256": "7bb626b591ca041ff7116a7fd83cfa6b7a7cc1255b77c09ffc891aa5d3422c88",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "30/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "644.771701",
+          "size": "119622688",
+          "bit_rate": "1484217"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "DIA008_WHITE_NIGHT_COMMU",
+      "source_filename": "【楽曲コミュ】White Night! White Wish!【藤田ことね】【学マス】-(1080p30).mp4",
+      "drive_id": "1EZnjbzyvBr1fhqEMlTt1MPBb10HknL7V",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【楽曲コミュ】White Night! White Wish!【藤田ことね】【学マス】-(1080p30).mp4",
+      "size_bytes": 133959077,
+      "sha256": "8b21d24880e3be95bf9076b81db18e5e3e6c94fea0a0990557e71438573a2716",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "30/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "530.808163",
+          "size": "133959077",
+          "bit_rate": "2018945"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "DIA005_YELLOW_COMMU",
+      "source_filename": "【楽曲コミュ】Yellow Big Bang！【藤田ことね】【学マス】-(1080p30).mp4",
+      "drive_id": "1oqAos8Q8zjP_4Abg1NA4aBY4ICr20YDo",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【楽曲コミュ】Yellow Big Bang！【藤田ことね】【学マス】-(1080p30).mp4",
+      "size_bytes": 128486267,
+      "sha256": "d502f05595a7e40194d8498d9c1e3df68a8fa5f73a5977cdb5812052cb732143",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "30/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "576.806893",
+          "size": "128486267",
+          "bit_rate": "1782035"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "DIA004_SEKAIICHI_COMMU",
+      "source_filename": "【楽曲コミュ】世界一可愛い私【藤田ことね】【学マス】-(1080p30).mp4",
+      "drive_id": "1115Wv_nt4JCWnX09Nxe5Fb_vEQjGKw5F",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【楽曲コミュ】世界一可愛い私【藤田ことね】【学マス】-(1080p30).mp4",
+      "size_bytes": 103105798,
+      "sha256": "e40580379ed43089ade81727a1e0a19fe7fdf735d3314bcadb201903256c3c1c",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "30/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "531.481542",
+          "size": "103105798",
+          "bit_rate": "1551975"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "DIA007_SHUKI_COMMU",
+      "source_filename": "【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田ことね  楽曲コミュまとめ【学マス】-(720p30).mp4",
+      "drive_id": "1QlQ7QNcYluZzzIXtoG_LY5Mlf-9L8ze4",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【自己肯定感爆上げ↑↑しゅきしゅきソング】藤田ことね  楽曲コミュまとめ【学マス】-(720p30).mp4",
+      "size_bytes": 45597948,
+      "sha256": "1512a55cc845172167ff672f22845d6808ade4b849ddd4c852ab58b07328c8b3",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "30/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "554.051338",
+          "size": "45597948",
+          "bit_rate": "658393"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "DIA010_REIRIS_COMMU",
+      "source_filename": "【雨上がりのアイリス】藤田ことね 楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "drive_id": "1CZ8-LsetjLl1d7cWb7f_Wb1Jp6HTX-3q",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/【雨上がりのアイリス】藤田ことね 楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "size_bytes": 64261105,
+      "sha256": "fd72e3074489a44cd6d46ca1bf516747aa75be431029c06bf8f2c71cf1db9956",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "602.581043",
+          "size": "64261105",
+          "bit_rate": "853144"
+        }
+      },
+      "direct_inspection": "DIRECT_AV"
+    },
+    {
+      "canonical_name": "MUS011_HAJIME_3DMV",
+      "source_filename": "初 - 藤田ことね ソロVer. (Hajime - Kotone Fujita Solo Ver.)-(1080p60).mp4",
+      "drive_id": "1YT3MTDzhB4FGap_hx8hf-K3dGmSUhGTI",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/初 - 藤田ことね ソロVer. (Hajime - Kotone Fujita Solo Ver.)-(1080p60).mp4",
+      "size_bytes": 76467494,
+      "sha256": "ceab530418c011d7723d5ad0ff0913781685e9bc773d18254a98bcb288129496",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1554,
+            "height": 1080,
+            "r_frame_rate": "60000/1001"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "158.499410",
+          "size": "76467494",
+          "bit_rate": "3859572"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 158.29,
+        "rms_db_mean": -24.126,
+        "rms_db_p10": -28.527,
+        "rms_db_p50": -22.027,
+        "rms_db_p90": -19.22,
+        "dynamic_range_p90_p10_db": 9.306,
+        "spectral_centroid_hz_mean": 2364.8,
+        "spectral_bandwidth_hz_mean": 2365.9,
+        "spectral_flatness_mean": 0.03701,
+        "spectral_rolloff85_hz_mean": 4744.4,
+        "hf_power_ratio_ge5khz": 0.011692,
+        "onset_rate_per_s": 3.1019,
+        "onset_strength_mean": 1.2512,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-20.40",
+        "input_tp": "-6.48",
+        "input_lra": "6.00",
+        "input_thresh": "-30.57",
+        "output_i": "-22.30",
+        "output_tp": "-2.00",
+        "output_lra": "5.20",
+        "output_thresh": "-32.38",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.70"
+      }
+    },
+    {
+      "canonical_name": "MUS007_FUWAFUWA_OFFICIAL_MV",
+      "source_filename": "初星学園 「ふわふわ」Official Music Video (HATSUBOSHI GAKUEN - Fuwafuwa)-(1080p24).mp4",
+      "drive_id": "1JDT-16jZ0UviPErqbsBw3YzMQ9zCxV9B",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/初星学園 「ふわふわ」Official Music Video (HATSUBOSHI GAKUEN - Fuwafuwa)-(1080p24).mp4",
+      "size_bytes": 70823319,
+      "sha256": "f63a65bed1be147e801ab9c90185a4ab326674baf07d50f52ee3dd0cdc4b9e5f",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "240.024671",
+          "size": "70823319",
+          "bit_rate": "2360534"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 227.277,
+        "rms_db_mean": -13.79,
+        "rms_db_p10": -19.422,
+        "rms_db_p50": -12.744,
+        "rms_db_p90": -9.249,
+        "dynamic_range_p90_p10_db": 10.172,
+        "spectral_centroid_hz_mean": 2951.1,
+        "spectral_bandwidth_hz_mean": 2849.5,
+        "spectral_flatness_mean": 0.057069,
+        "spectral_rolloff85_hz_mean": 6330.2,
+        "hf_power_ratio_ge5khz": 0.031763,
+        "onset_rate_per_s": 3.6607,
+        "onset_strength_mean": 1.4927,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-11.50",
+        "input_tp": "0.46",
+        "input_lra": "4.60",
+        "input_thresh": "-21.58",
+        "output_i": "-22.56",
+        "output_tp": "-7.55",
+        "output_lra": "4.40",
+        "output_thresh": "-32.63",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.44"
+      }
+    },
+    {
+      "canonical_name": "MUS001A_SEKAIICHI_OFFICIAL_MV",
+      "source_filename": "初星学園 「世界一可愛い私」Official Music Video (HATSUBOSHI GAKUEN - Sekaiichi kawaii watashi)-(1080p24).mp4",
+      "drive_id": "1lYVI2F76Oe0bTYe1LrmKHWvkv4TXk9KD",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/初星学園 「世界一可愛い私」Official Music Video (HATSUBOSHI GAKUEN - Sekaiichi kawaii watashi)-(1080p24).mp4",
+      "size_bytes": 80955439,
+      "sha256": "2e77bc6561bccd4ce15b40a7196b2815f7841ec0a8bb23eda8a0d926925432e3",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "238.399274",
+          "size": "80955439",
+          "bit_rate": "2716633"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 231.665,
+        "rms_db_mean": -10.771,
+        "rms_db_p10": -15.904,
+        "rms_db_p50": -9.986,
+        "rms_db_p90": -6.097,
+        "dynamic_range_p90_p10_db": 9.807,
+        "spectral_centroid_hz_mean": 2480.8,
+        "spectral_bandwidth_hz_mean": 2442.0,
+        "spectral_flatness_mean": 0.03055,
+        "spectral_rolloff85_hz_mean": 4958.4,
+        "hf_power_ratio_ge5khz": 0.012703,
+        "onset_rate_per_s": 2.8187,
+        "onset_strength_mean": 1.3158,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-8.92",
+        "input_tp": "0.26",
+        "input_lra": "5.70",
+        "input_thresh": "-18.97",
+        "output_i": "-22.25",
+        "output_tp": "-8.91",
+        "output_lra": "5.10",
+        "output_thresh": "-32.27",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.75"
+      }
+    },
+    {
+      "canonical_name": "MUS003A_SHUKI_OFFICIAL_MV",
+      "source_filename": "初星学園「自己肯定感爆上げ↑↑しゅきしゅきソング」Official Music Video (Self-affirmation Explosion! Love Love Song)-(1080p24).mp4",
+      "drive_id": "1cCpRvU5iBBscpePZccn-RM1KtnaXNqLA",
+      "source_path": "/mnt/data/gkm_kotone_av/videos/初星学園「自己肯定感爆上げ↑↑しゅきしゅきソング」Official Music Video (Self-affirmation Explosion! Love Love Song)-(1080p24).mp4",
+      "size_bytes": 113478282,
+      "sha256": "6a36c367938f07005bc59f1289f125cf74d5ddf84317bcb24cdbe45ec172cbce",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "90000/1"
+          }
+        ],
+        "format": {
+          "duration": "231.897687",
+          "size": "113478282",
+          "bit_rate": "3914770"
+        }
+      },
+      "direct_inspection": "DIRECT_AV",
+      "full_mix_signal": {
+        "trimmed_duration_s": 230.04,
+        "rms_db_mean": -9.744,
+        "rms_db_p10": -14.093,
+        "rms_db_p50": -8.582,
+        "rms_db_p90": -6.878,
+        "dynamic_range_p90_p10_db": 7.216,
+        "spectral_centroid_hz_mean": 2774.8,
+        "spectral_bandwidth_hz_mean": 2641.8,
+        "spectral_flatness_mean": 0.043421,
+        "spectral_rolloff85_hz_mean": 5732.9,
+        "hf_power_ratio_ge5khz": 0.036417,
+        "onset_rate_per_s": 3.7733,
+        "onset_strength_mean": 1.616,
+        "tempo_bpm_estimate": null
+      },
+      "loudness": {
+        "input_i": "-8.79",
+        "input_tp": "-0.87",
+        "input_lra": "4.80",
+        "input_thresh": "-18.89",
+        "output_i": "-22.58",
+        "output_tp": "-10.24",
+        "output_lra": "4.50",
+        "output_thresh": "-32.61",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.42"
+      }
+    },
+    {
+      "canonical_name": "DIA002_DEAR_011_020",
+      "source_filename": "【学マス】藤田ことね　親愛度１１～２０話【アイドルコミュ】-(1080p30).mp4",
+      "drive_id": "1megRYJI0rZLDq79q-RYgcpwqKbnMHrmH",
+      "size_bytes": 297620710,
+      "sha256": null,
+      "ffprobe": null,
+      "direct_inspection": "TEXT_ALIGNED_REMOTE_AV_NOT_MATERIALIZED",
+      "reason": "connector transfer ceiling; exact Source Lock dialogue retained"
+    },
+    {
+      "canonical_name": "MUS013_GO_MY_WAY_3DMV",
+      "source_filename": "4K HDR「GO MY WAY!! 」(藤田ことね SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(2160p60).mp4",
+      "drive_id": "1WB9KVyi11bKN9UJuE3Ir8jHTQEVpaMWP",
+      "size_bytes": 441553300,
+      "sha256": null,
+      "ffprobe": {
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 3840,
+            "height": 2160,
+            "r_frame_rate": "60/1"
+          }
+        ]
+      },
+      "direct_inspection": "REMOTE_METADATA_ONLY",
+      "reason": "connector transfer ceiling; commu and same-song comparative evidence available"
+    }
+  ],
+  "unavailable_or_deferred_requests": [
+    {
+      "request": "ガラクタロード 楽曲コミュ [藤田ことね]",
+      "status": "EXISTENCE_OR_PUBLIC_AVAILABILITY_UNCONFIRMED",
+      "blocking": false
+    },
+    {
+      "request": "ガラクタロード 3DMV [藤田ことね]",
+      "status": "PUBLIC_CAPTURE_UNAVAILABLE_OR_UNCONFIRMED",
+      "blocking": false
+    },
+    {
+      "request": "ガラクタロード [藤田ことね Solo Ver.] audio",
+      "status": "CONFIRMED FUTURE/SEPARATE RELEASE; NOT IN ACTIVE AV SET",
+      "blocking": false
+    }
+  ],
+  "raw_text_sources": [
+    {
+      "drive_id": "1ddB7hr6IR6E4QaW67ikyOZ3n015KxFgo",
+      "filename": "03_idol_communications.dialogue.txt",
+      "sha256": "54492c0ec384c42a3faed6b82fcf135ab92a0723597915e36935ec843be5b310"
+    },
+    {
+      "drive_id": "1wUe9NuGF-96BLOsluxy4nKK6mj32Haw7",
+      "filename": "04_dear_idol.dialogue.txt",
+      "sha256": "bc11dd3412ab28dd6348a810e51e05bab50325da650fe421db4e366883f88106"
+    }
+  ],
+  "derived_analysis_files": [
+    "GKM_KOTONE_COMPLETE_AUDIOVISUAL_BASELINE.md",
+    "GKM_KOTONE_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md",
+    "GKM_KOTONE_DIALOGUE_VOICE_ACTING_CLOSE_READING.md",
+    "GKM_KOTONE_AV_EVIDENCE_AND_METRICS_MATRIX.md",
+    "GKM_CORE_03_FUJITA_KOTONE_AV_REVISION_ADDENDUM.md",
+    "GKM_PHASE3_KOTONE_AUDIOVISUAL_COMPLETION_REPORT.md",
+    "GKM_PHASE3_KOTONE_AV_DELIVERY_AUDIT.md",
+    "GKM_PHASE3_KOTONE_AUDIOVISUAL_ARTIFACT_CHECKSUMS.sha256"
+  ],
+  "redistribution_policy": "Source audio/video, screenshots, and contact sheets are not included in the analytical release archive."
+}

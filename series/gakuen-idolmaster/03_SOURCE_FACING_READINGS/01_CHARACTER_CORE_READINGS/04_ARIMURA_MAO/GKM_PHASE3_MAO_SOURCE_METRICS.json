@@ -1,0 +1,39 @@
+{
+  "series": "GKM",
+  "character": {"code": "amao", "ja": "有村麻央", "en": "Arimura Mao"},
+  "source_lock": {
+    "name": "GAKUMAS V2 Source Lock 1.0",
+    "commit": "00d150a069a3ffa723a1ff264752ba242024caad",
+    "generated": "2026-08-02T22:21:04Z"
+  },
+  "mao_owned_corpus": {
+    "source_objects": 204,
+    "message_lines": 5875,
+    "families": {
+      "pstory": {"source_objects": 46, "message_lines": 1036},
+      "dear": {"source_objects": 38, "message_lines": 2756},
+      "cidol": {"source_objects": 24, "message_lines": 1056},
+      "pevent": {"source_objects": 83, "message_lines": 988},
+      "live": {"source_objects": 8, "message_lines": 14},
+      "pgrowth": {"source_objects": 3, "message_lines": 12},
+      "startup": {"source_objects": 2, "message_lines": 13}
+    }
+  },
+  "produce_story": {
+    "series_001": {"source_objects": 31, "message_lines": 808},
+    "series_002": {"source_objects": 11, "message_lines": 190},
+    "series_003": {"source_objects": 4, "message_lines": 38}
+  },
+  "direct_unit_story_mao_appearances_checked": [
+    "adv_unit_01-02_12.txt",
+    "adv_unit_01-04_17.txt"
+  ],
+  "a1_high_load_spot_checks": [
+    "adv_dear_amao_003.txt",
+    "adv_dear_amao_015.txt",
+    "adv_dear_amao_025.txt",
+    "adv_dear_amao_027.txt",
+    "adv_dear_amao_036.txt"
+  ],
+  "audiovisual_inspected": false
+}

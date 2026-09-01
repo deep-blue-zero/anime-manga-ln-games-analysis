@@ -1,0 +1,21 @@
+# IDOLY PRIDE V2 Phase 1B Event Rerank SHA-256 Manifest
+
+Integrity: CONTROLLED_RERANK_WITH_DISCLOSED_HISTORICAL_LABEL_EXPOSURE
+
+No event finding is admitted to Tier-A by this manifest. It locks routing/scoring state only.
+
+f7171f9fb321c4d47e304391316a12fc11df1bbcf85b61a0f56c6c23abf6c21e  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_POST_TIER_A_MAIN_NARRATIVE_BASELINE.md
+fcfb2f199d2bd1fefa308fc01874331935fd03131938579a12a6401c00dfcfeb  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_EVENT_RERANK_INDEPENDENT_SCORING.json
+205849f370b35ce92da8612312ed530d97b3da26a937c70da0c797fac3ba96a1  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_EVENT_RERANK_INDEPENDENT_SCORING.tsv
+121077c964b06bc14cbcc813e469b66289edd3d61c9f45c28f0c990f41cb2f68  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_EVENT_RERANK_HISTORICAL_COMPARISON.json
+f5e7433c9d12c9e0eaa88c88e9f9731776450f4207058249301deb3520036b5e  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_EVENT_RERANK_AUDIT.md
+b221d3aa6eb4649320e3c0ad740013ffc6aed6b15e2ff55222071f5538abab2f  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_EVENT_CLOSE_READ_QUEUE.md
+83d61d6586afc41d143102d46773af2827a59fa4e68c596da8628136253857f0  /mnt/data/IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.6.md
+
+Notes:
+- 60/60 raw event bundles were present in the working set.
+- historical CORE/IMPORTANT duplicate files were excluded from evidence scoring.
+- historical labels were used only for post-scoring comparison and targeted adversarial reread.
+- E1 threshold: score 19-21.
+- E1 close-read execution is dependency ordered and may differ from impact rank.
+- E1-D requires event_2025_005 -> event_2025_007 as one linked freeze.

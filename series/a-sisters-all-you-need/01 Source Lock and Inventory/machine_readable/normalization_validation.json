@@ -1,0 +1,144 @@
+{
+  "series": "IMOSAE",
+  "source_set_id": "IMOSAE-JP-LN-RAW-1.0",
+  "normalization_spec": "IMOSAE-NORM-SPEC-1.0",
+  "volumes": {
+    "V01": {
+      "ruby": 2081,
+      "format_nodes": 139,
+      "paragraphs": 2529,
+      "gaiji": 76,
+      "class_LEXICAL_GLYPH": 30,
+      "class_STRUCTURAL_ORNAMENT": 22,
+      "class_NONSTANDARD_DAKUTEN": 6,
+      "class_KAOMOJI_EMOJI": 1,
+      "class_DIE_FACE": 17
+    },
+    "V02": {
+      "ruby": 1949,
+      "format_nodes": 174,
+      "paragraphs": 2550,
+      "gaiji": 58,
+      "class_COMPOSITE_TEXT_GLYPH": 3,
+      "class_STRUCTURAL_ORNAMENT": 20,
+      "class_NONSTANDARD_DAKUTEN": 4,
+      "class_KAOMOJI_EMOJI": 4,
+      "class_DECORATED_TEXT": 5,
+      "class_LOGOTYPE_TEXT": 8,
+      "class_DIE_FACE": 14
+    },
+    "V03": {
+      "ruby": 1811,
+      "paragraphs": 2283,
+      "gaiji": 30,
+      "format_nodes": 103,
+      "class_STRUCTURAL_ORNAMENT": 28,
+      "class_KAOMOJI_EMOJI": 2
+    },
+    "V04": {
+      "ruby": 2781,
+      "format_nodes": 171,
+      "paragraphs": 2716,
+      "gaiji": 42,
+      "class_NONSTANDARD_DAKUTEN": 3,
+      "class_STRUCTURAL_ORNAMENT": 13,
+      "class_EXPRESSIVE_MARK": 1,
+      "class_DIE_FACE": 17,
+      "class_PROLONGATION_MARK": 6,
+      "class_KAOMOJI_EMOJI": 2
+    },
+    "V05": {
+      "ruby": 2231,
+      "paragraphs": 2230,
+      "gaiji": 28,
+      "format_nodes": 106,
+      "class_STRUCTURAL_ORNAMENT": 17,
+      "class_NONSTANDARD_DAKUTEN": 6,
+      "class_KAOMOJI_EMOJI": 3,
+      "class_PUNCTUATION": 2
+    },
+    "V06": {
+      "ruby": 2157,
+      "format_nodes": 91,
+      "paragraphs": 2323,
+      "gaiji": 70,
+      "class_STRUCTURAL_ORNAMENT": 18,
+      "class_LEXICAL_GLYPH": 27,
+      "class_DIE_FACE": 25
+    },
+    "V07": {
+      "ruby": 2172,
+      "paragraphs": 2716,
+      "gaiji": 31,
+      "format_nodes": 115,
+      "class_STRUCTURAL_ORNAMENT": 27,
+      "class_NONSTANDARD_DAKUTEN": 1,
+      "class_KAOMOJI_EMOJI": 3
+    },
+    "V08": {
+      "ruby": 1677,
+      "paragraphs": 2193,
+      "gaiji": 32,
+      "format_nodes": 100,
+      "class_STRUCTURAL_ORNAMENT": 31,
+      "class_NONSTANDARD_DAKUTEN": 1
+    },
+    "V09": {
+      "ruby": 2005,
+      "format_nodes": 122,
+      "paragraphs": 2258,
+      "gaiji": 118,
+      "class_STRUCTURAL_ORNAMENT": 27,
+      "class_NONSTANDARD_DAKUTEN": 4,
+      "class_DIE_FACE": 87
+    },
+    "V10": {
+      "ruby": 1750,
+      "format_nodes": 113,
+      "paragraphs": 2314,
+      "gaiji": 23,
+      "class_STRUCTURAL_ORNAMENT": 23
+    },
+    "V11": {
+      "ruby": 1826,
+      "format_nodes": 232,
+      "paragraphs": 2277,
+      "gaiji": 19,
+      "class_STRUCTURAL_ORNAMENT": 17,
+      "class_NONSTANDARD_DAKUTEN": 2
+    },
+    "V12": {
+      "ruby": 2140,
+      "format_nodes": 274,
+      "paragraphs": 2509,
+      "gaiji": 34,
+      "class_STRUCTURAL_ORNAMENT": 27,
+      "class_KAOMOJI_EMOJI": 2,
+      "class_NONSTANDARD_DAKUTEN": 5
+    },
+    "V13": {
+      "ruby": 2320,
+      "format_nodes": 332,
+      "paragraphs": 2999,
+      "gaiji": 44,
+      "class_STRUCTURAL_ORNAMENT": 38,
+      "class_TITLE_SYMBOL": 5,
+      "class_EXPRESSIVE_MARK": 1
+    },
+    "V14": {
+      "ruby": 2183,
+      "format_nodes": 285,
+      "paragraphs": 2335,
+      "gaiji": 46,
+      "class_STRUCTURAL_ORNAMENT": 40,
+      "class_TITLE_SYMBOL": 1,
+      "class_NONSTANDARD_DAKUTEN": 3,
+      "class_LEXICAL_GLYPH": 2
+    }
+  },
+  "total_gaiji": 651,
+  "mapped_gaiji": 651,
+  "ruby": 29083,
+  "paragraphs": 34232,
+  "emphasis_nodes": 2357
+}

@@ -1,0 +1,124 @@
+{
+  "series": "GKM",
+  "character": "Hataya Misuzu / 秦谷美鈴",
+  "character_code": "hmsz",
+  "phase": 3,
+  "generation": "V2",
+  "status": "canonical_support",
+  "source_lock": "GAKUMAS V2 Source Lock 1.0",
+  "source_lock_commit": "00d150a069a3ffa723a1ff264752ba242024caad",
+  "source_lock_revision": 32,
+  "bundle": {
+    "file": "99_complete_character_bundle.dialogue.txt",
+    "sha256": "c81041b9fa2d1a048f691ae4ab442ce6b3aa4cdbe6a7b7984c77a442ba367fbc",
+    "objects": 197,
+    "messages": 5018
+  },
+  "category_counts": {
+    "pstory": {
+      "objects": 46,
+      "messages": 715
+    },
+    "pevent": {
+      "objects": 83,
+      "messages": 1056
+    },
+    "cidol": {
+      "objects": 18,
+      "messages": 701
+    },
+    "dear": {
+      "objects": 37,
+      "messages": 2508
+    },
+    "live": {
+      "objects": 8,
+      "messages": 15
+    },
+    "pgrowth": {
+      "objects": 3,
+      "messages": 11
+    },
+    "startup": {
+      "objects": 2,
+      "messages": 12
+    }
+  },
+  "produce_story_series": {
+    "series_001": {
+      "objects": 31,
+      "messages": 536
+    },
+    "series_002": {
+      "objects": 11,
+      "messages": 151
+    },
+    "series_003": {
+      "objects": 4,
+      "messages": 28
+    }
+  },
+  "cidol_episode_counts": {
+    "000": {
+      "objects": 3,
+      "messages": 93
+    },
+    "005": {
+      "objects": 3,
+      "messages": 137
+    },
+    "010": {
+      "objects": 3,
+      "messages": 135
+    },
+    "014": {
+      "objects": 3,
+      "messages": 109
+    },
+    "015": {
+      "objects": 3,
+      "messages": 119
+    },
+    "016": {
+      "objects": 3,
+      "messages": 108
+    }
+  },
+  "branch_controls": {
+    "P1[MISUZU]": "Series 1 Produce Story",
+    "P2[MISUZU]": "Series 2/N.I.A. Produce Story",
+    "P3-C[MISUZU]": "four conditional Series-3 result fragments only",
+    "D-MISUZU": "Dear 001-037",
+    "M-MISUZU": "modular pevent/CIDOL/live/growth/startup"
+  },
+  "high_load_textual_anchors": [
+    "dear_001 — pace / scouting contract",
+    "dear_005 — heart saturation / indispensability desire",
+    "dear_010 — Temari gaze / idol origin",
+    "dear_014 — conflict as friendship",
+    "dear_016 — Rinha / admire me",
+    "dear_022 — stored resentment",
+    "dear_026 — broken promise / wrong-path effort",
+    "dear_027 — cold omnipotence childhood / mutual ambition",
+    "dear_032 — private crying / Temari-Producer specialness",
+    "dear_036 — D-MISUZU Prima Stella",
+    "dear_037 — night-sky expansion / high-place yawn"
+  ],
+  "legacy_transcript": {
+    "file": "Manga and anime discussions - Gakuen Idolmaster Deep Dive - Full Transcript.md",
+    "sha256": "7e7e3644f2d619ac07caab8d5f17a071d64497516aaa48a705aec092fc0dadb9",
+    "role": "historical hypothesis/provenance only"
+  },
+  "official_discography_metadata_checked_2026_08_16": [
+    "ツキノカメ",
+    "たいせつなもの",
+    "Superlative",
+    "ヨルニテ",
+    "Star-mine",
+    "VEIL",
+    "ENDLESS DANCE [秦谷美鈴 Solo Ver.]",
+    "標 [秦谷美鈴 Solo Ver.]",
+    "ガラクタロード [秦谷美鈴 Solo Ver.]"
+  ],
+  "generated_at": "2026-08-16"
+}

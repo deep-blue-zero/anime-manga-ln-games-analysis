@@ -1,0 +1,52 @@
+{
+  "series": "GKM",
+  "character": {
+    "code": "hume",
+    "name_en": "Ume Hanami",
+    "name_ja": "花海 佑芽"
+  },
+  "generation": "V2",
+  "phase": 3,
+  "source_lock": "GAKUMAS V2 Source Lock 1.0",
+  "source_lock_commit": "00d150a069a3ffa723a1ff264752ba242024caad",
+  "source_lock_revision": 32,
+  "bundle_totals": {
+    "unique_source_objects": 204,
+    "dialogue_messages": 5841,
+    "warnings": 0
+  },
+  "categories": {
+    "produce_story": {"objects": 46, "messages": 944, "series_001_objects": 31, "series_002_objects": 11, "series_003_conditional_fragments": 4},
+    "produce_events": {"objects": 83, "messages": 1062},
+    "idol_communications": {"objects": 24, "messages": 1106},
+    "dear_idol": {"objects": 38, "messages": 2685},
+    "live": {"objects": 8, "messages": 20},
+    "growth": {"objects": 3, "messages": 12},
+    "startup_seasonal": {"objects": 2, "messages": 12}
+  },
+  "continuity_tracks": ["P1[UME]", "P2[UME]", "P3-C[UME]", "D-UME", "M-UME"],
+  "local_bundle_controls": [
+    {"file":"00_bundle_manifest.json","bytes":137144,"sha256":"6e87ac3caa42c7763b609486ecc59e21fb8db21e9c2516ffe565f8881ad717b3"},
+    {"file":"01_produce_main_story.dialogue.txt","bytes":116946,"sha256":"a9b232eabc900b756b0cb755c8d13c741009c36b5122ad989cc3c3d652aa1466"},
+    {"file":"02_produce_events.dialogue.txt","bytes":171938,"sha256":"83787160632698ef8a1c4b10510013363448a3610bbc6ca47140ee7c84cdc060"},
+    {"file":"03_idol_communications.dialogue.txt","bytes":107424,"sha256":"da2ef7a6da066ff295e850511cd6a20766a31c1d6121b5296e5139f07e15c9fb"},
+    {"file":"04_dear_idol.dialogue.txt","bytes":241398,"sha256":"0caa4353795e78cd5e6f2572b73cb89aac2f46a41165e209c55ca93ee3ccdd5c"},
+    {"file":"05_live_scenes.dialogue.txt","bytes":8554,"sha256":"52ab78d708beef65c9e394d34802bde57a1f36618914d65e0aa4a3b52d57c1f1"},
+    {"file":"06_system_growth_startup.dialogue.txt","bytes":7165,"sha256":"a0c39e34cdc0c3480f9acf153c18ac2f93beaa8cf3fce00203143711622fa4d6"},
+    {"file":"90_raw_scene_index.json","bytes":62492,"sha256":"da820b099a332b5df2983034d3481fb8da8f0da55855ee37802cb98134bab072"}
+  ],
+  "raw_a1_spot_checks": [
+    {"source":"Dear 004","drive_id":"1KLDK6CmOBA2zFZ7eUQp_M_EGH_A7jzXi","sha256":"9c4f8de9bb29754a6779799278c0ae3d6e885a28c6d6c71004a2f90291ae1792"},
+    {"source":"Dear 009","drive_id":"1SF6C7m_VuEqTXNep-CCo6Xqov0gT4U5S","sha256":"d5f087bdd381e8a1e473b78a27f3100b0c0a48f6cbbf17cdc4d15c60b304c560"},
+    {"source":"Dear 019","drive_id":"1MoPEiYgW2oXztOF3RimrKw15J1EzkoD1","sha256":"9a3d77389732b4172d2be33e5a4d9d49749234985aa8f0519aea723df785ceb9"},
+    {"source":"Dear 027","drive_id":"16XNZ82VPD-8X6f0vdNBmKESnYYJDj_w4","sha256":"7d56ab5cac5285e6812239a80842a4b6d076743ef1fa7acf9ab4e7a47260c4c9"},
+    {"source":"Dear 033","drive_id":"11BjAFoMkFCCQfoIItRDclYrNEhn6u-sK","sha256":"0b9c7d3becc0e375e280aa624d97fcf629ac919091f2e1b290e7d81e9677c282"},
+    {"source":"Dear 036","drive_id":"1tby2SqkHSXMp9vZPIWRA3ty4bAtTbHnC","sha256":"7a0947895e121d3841dc5ad0127376f41ed351d417d8975c8bbc9592c3009526"},
+    {"source":"Dear 037","drive_id":"1tr9gsISgsav6K7U4myu4ah0vK8yG6uJ9","sha256":"76c90c980450fb214d0d4cbd0880cb1e2a2dcf2e1944327d844dcb8bc97c055a"}
+  ],
+  "branch_controls": {
+    "series_003_policy": "conditional fragments; do not concatenate into one biography",
+    "dear_036_policy": "D-UME Prima Stella summit only; do not promote as universal P3 outcome"
+  },
+  "analysis_completed": "2026-08-16"
+}

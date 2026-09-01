@@ -1,0 +1,530 @@
+---
+series: "THE IDOLM@STER CINDERELLA GIRLS"
+year: 2015
+episode: 11
+artifact_id: "CG2015_EP11_MUSIC_SOUND_RETROSPECTIVE_ADDENDUM"
+artifact_type: "retrospective_music_sound_addendum"
+source_bundle: "ep11_screenshots(2).zip"
+source_sha256: "38307378033309c3904a9a95c34b2ad94321baeecfb612b6db3ab9a85d45fbc2"
+source_language: "Japanese"
+original_spoiler_horizon: "E11"
+semantic_evidence_boundary: "E01-E11 only"
+methodological_horizon: "v2 retrospective audit conducted after E15"
+analysis_method: "CinderellaGirlsAnalyticalMethod_v2.md"
+architecture_protocol: "CINDERELLA_GIRLS_MULTI_DOCUMENT_ANALYSIS_AND_SYNTHESIS_PROTOCOL_V1.md"
+original_episode_artifact_modified: false
+subtitle_cues: 478
+retained_frames: 739
+contact_sheets_reviewed: "37/37"
+archive_crc: "passed"
+music_sound_ledger: true
+status: "canonical_retrospective_addendum"
+---
+
+# THE IDOLM@STER CINDERELLA GIRLS — Episode 11
+## Retrospective Music and Sound Audit
+### From incompatible drafts to audible ratification: Asterisk becomes a unit by sounding different together
+
+## Scope
+
+The canonical Episode-11 reading already established the central relational conclusion:
+
+> Miku Maekawa and Riina Tada do not become compatible by discovering that they were secretly the same. Their unit becomes viable when persistent difference can be treated as `持ち味` and each member can protect the other's `拘り`.
+
+The v2 sound audit substantially strengthens that reading because Episode 11 does not merely **tell** us that the two have learned to respect their differences. It makes the process audible at three different levels:
+
+1. **creative labor** — the girls voice and reject incompatible lyric ideas before producing a shared song;
+2. **live social coordination** — Miku's cat-idol audience call becomes something Riina can enter without becoming a copy of Miku;
+3. **formal episode structure** — their completed performance is heard before the quiet office scene in which they explicitly ratify the pairing and only afterward acquire the name Asterisk.
+
+The governing sonic refinement is:
+
+> **Episode 11 makes compatibility an audible achievement. Miku and Riina first fail to make their individual vocabularies coexist, then learn to enter one another's performance grammar, and finally produce a song capable of carrying both identities at once.**
+
+This is stronger than a generic "opposites attract" reading. The episode is interested in **co-authorship under persistent difference**.
+
+---
+
+# I. Source lock and archive disambiguation
+
+Three same-named Episode-11 bundles were available in the active workspace.
+
+Only one belongs to *THE IDOLM@STER CINDERELLA GIRLS*:
+
+- `ep11_screenshots(2).zip`
+- SHA-256: `38307378033309c3904a9a95c34b2ad94321baeecfb612b6db3ab9a85d45fbc2`
+- internal source path identifies `THE_IDOLM@STER_CINDERELLA_GIRLS`
+- 478 Japanese ASS cues
+- 739 retained non-contact frames
+- 37/37 contact sheets
+- complete program-audio MP3
+- ZIP CRC validation passed
+
+The other two archives were inspected and excluded:
+
+- `ep11_screenshots(1).zip` = *Lycoris Recoil* Episode 11
+- `ep11_screenshots.zip` = *IDOLY PRIDE* Episode 11
+
+No material from either excluded archive is used below.
+
+---
+
+# II. The creative problem is heard before it is solved
+
+After Miku volunteers the pair for the emergency live and Riina accepts the challenge, the episode does not jump directly from "we will write lyrics" to a polished final song.
+
+Instead, beginning around 16:50, it lets us hear them **test incompatible fragments aloud** while writing.
+
+Riina's attempts lean heavily into the vocabulary she associates with rock. Miku's answer leans heavily into cat/cute vocabulary. Each reacts negatively to the other's proposal.
+
+Representative locators:
+
+- `E11-AUDIO16:50.07-17:34.87`
+- `E11-ASS0328-0345`
+- `E11-FRAME_000980`
+- `E11-FRAME_000998`
+- `E11-FRAME_001004`
+- `E11-FRAME_001009`
+- `E11-CS28`
+
+The important point is not that either draft is musically "bad" in a technical sense. The source does not provide enough isolated compositional evidence for that judgment.
+
+The important point is **relational**.
+
+At this stage, each girl is still trying to make the shared song legible through a vocabulary centered on her own preferred identity.
+
+The problem therefore becomes audible as:
+
+> **two sincere identities producing adjacent material rather than one jointly authored musical object.**
+
+This gives the final song an audible genealogy.
+
+When `ΦωΦver!!` later combines rock-coded heat/COOL language with cute/cat imagery inside one performance, that integration is not merely a songwriters' premise handed to the audience from outside the story. Episode 11 has already shown the two performers struggling to create language that can contain both sides.
+
+The final song should therefore be read as evidence of **creative co-authorship**, not simply compatibility demonstrated after the fact.
+
+---
+
+# III. `We're the friends!` creates a supportive social field without solving the unit for them
+
+At approximately 17:44, `We're the friends!` enters across a montage that spans separate places, continued writing, food, school, Producer's work, and peers bringing support.
+
+Locators:
+
+- `E11-AUDIO17:44.00-18:21.83`
+- `E11-ASS0348-0359`
+- `E11-FRAME_001026`
+- `E11-FRAME_001041`
+- `E11-FRAME_001059`
+- `E11-FRAME_001069`
+- `E11-CS29-30`
+
+The visual montage does not present Miku and Riina as the source of the sung track. The same music bridges different spaces and activities, so its dramatic function is best treated as **non-diegetic montage organization**.
+
+Its lyric field concerns friendship, sharing difficult and positive states, proximity, and gratitude. That gives the labor montage an unusually warm relational frame.
+
+But the episode immediately refuses an easy conclusion.
+
+After the montage, Miku and Riina are still stuck:
+
+- each still finds the other's wording difficult to inhabit;
+- they resume arguing;
+- they decide to rethink the lyrics again.
+
+The soundtrack therefore does **not** function as:
+
+> friendship song plays → incompatibility disappears.
+
+Its stronger function is:
+
+> **friendship/support surrounds the work, but the performers themselves must still negotiate how their differences will become usable.**
+
+That distinction matters for the series' broader production ethic. Good conditions can make development possible; they do not author the finished person or relationship automatically.
+
+The insert song also widens the unit's creative ecology. Their eventual result is not produced in an isolated dyad. It occurs inside a network in which:
+
+- peers bring food;
+- peers check on them;
+- Producer manages the opportunity;
+- ordinary school time continues;
+- and the two performers keep returning to the work.
+
+The social field supports authorship without replacing it.
+
+---
+
+# IV. The `にゃー` sequence turns Miku's persona grammar into a shared live action
+
+The emergency event provides the clearest new sound finding.
+
+Miku begins the public segment in her established cat-idol register and asks the audience to answer `にゃー`.
+
+Locators for the complete sequence:
+
+- `E11-AUDIO19:52.50-21:01.78`
+- `E11-ASS0394-0420`
+- `E11-FRAME_001168`
+- `E11-FRAME_001173`
+- `E11-FRAME_001177`
+- `E11-FRAME_001187`
+- `E11-FRAME_001198`
+- `E11-FRAME_001207`
+- `E11-FRAME_001225`
+- `E11-CS32-34`
+
+The sequence develops in stages.
+
+## 1. Miku owns the call
+
+Miku asks the crowd to answer her cat call.
+
+Riina is visibly and vocally uncomfortable with entering that grammar.
+
+This preserves the basic difference between them.
+
+## 2. Riina's participation begins as hesitation
+
+Her early responses are fragmented and reluctant rather than a clean imitation of Miku's performance style.
+
+That matters because the scene does not pretend that compatibility instantly removes embarrassment.
+
+## 3. Riina eventually gives a clear projected `にゃー`
+
+At approximately 20:36, Riina crosses the threshold from resistance into active participation.
+
+The visual framing isolates her vocal effort before the sequence expands again.
+
+## 4. The call becomes repeatable between performers and audience
+
+The repeated `にゃー` pattern then grows into a larger shared event involving the stage and crowd.
+
+A mixed-program RMS sanity check is directionally consistent with that expansion: the later repeated responses occupy a substantially larger acoustic field than the first response. Those values are **not** treated as a measurement of audience size, emotional sincerity, or recognition; they only support the directly audible change in scale within the mixed program track.
+
+The crucial analytical point is that Riina has entered **Miku's performance grammar**.
+
+But this is not assimilation.
+
+Riina does not emerge from the sequence as a cat idol.
+
+Immediately afterward, the shared song retains language and presentation coded toward Riina's rock aspiration as well as Miku's cute/cat identity.
+
+So the live sequence enacts a more precise relational principle:
+
+> **respecting another person's authored identity can include temporarily performing inside her grammar without surrendering one's own.**
+
+This is a stronger account of compatibility than either compromise-through-erasure or hidden sameness.
+
+---
+
+# V. `ΦωΦver!!` makes differentiated co-authorship audible
+
+The song begins at approximately 21:01 after the shared count-in.
+
+Locators:
+
+- `E11-AUDIO21:01.78-22:02.90`
+- `E11-ASS0420-0434`
+- `E11-FRAME_001240`
+- `E11-FRAME_001241`
+- `E11-FRAME_001249`
+- `E11-FRAME_001256`
+- `E11-FRAME_001260`
+- `E11-FRAME_001267`
+- `E11-CS34-35`
+
+The song's verbal field deliberately contains both sides of the earlier conflict.
+
+Riina-coded material invokes:
+
+- heat;
+- COOL/rock language;
+- forward drive.
+
+Miku-coded material invokes:
+
+- cuteness;
+- ribbon;
+- tail/cat imagery.
+
+The song then places those distinctions inside shared plural and forward-moving language.
+
+The retrospective significance is not that every lyric can be assigned mechanically to one girl.
+
+The stronger and safer conclusion is formal:
+
+> **the final musical object has enough room to contain signs that were previously treated as mutually obstructive.**
+
+The pair does not solve difference by reducing the song to a neutral midpoint stripped of both identities.
+
+Nor does one identity simply defeat the other.
+
+The song turns their disagreement into **arrangement material**.
+
+That is the sonic counterpart to the later line that they can continue while respecting one another's `拘り`.
+
+---
+
+# VI. Performance comes before ratification
+
+Episode 11 makes a particularly strong formal choice at the end.
+
+`ΦωΦver!!` begins as an in-world stage performance and continues through the ending-credit/public montage. The music then fades out; the program track falls to near-silence before the scene returns to the quiet office.
+
+Only **after** that completed performance does Producer ask whether the unit will continue.
+
+The relevant sequence is:
+
+1. public live;
+2. continued musical/credit coda;
+3. musical fade and acoustic reset;
+4. office conversation;
+5. Miku and Riina explicitly say they can continue while respecting each other's priorities;
+6. the provisional mark is noticed and becomes the unit name `Asterisk`.
+
+Locators:
+
+- `E11-AUDIO21:01.78-22:10.48`
+- `E11-ASS0420-0438`
+- `E11-FRAME_001240`
+- `E11-FRAME_001270`
+- `E11-FRAME_001275`
+- `E11-FRAME_001277`
+- `E11-FRAME_001278`
+- `E11-FRAME_001283`
+- `E11-CS34-36`
+
+The mixed program track confirms a real acoustic boundary: the performance remains strong through the ending section, drops sharply during the final fade, and reaches near-silent levels before office dialogue resumes.
+
+This ordering is analytically important.
+
+The institution does **not** name the unit first and then present a song as proof of an already settled identity.
+
+Instead:
+
+> **the pair becomes publicly and musically legible before it is finally administratively ratified and named.**
+
+That strengthens the canonical qualification of Producer's earlier compatibility judgment.
+
+His judgment initiates the experiment.
+
+It does not complete the meaning of the unit.
+
+The performers acquire evidence through:
+
+- cohabitation;
+- argument;
+- songwriting;
+- peer support;
+- live accommodation;
+- audience interaction;
+- and shared performance.
+
+Only then do they say yes.
+
+The sound structure therefore gives us a particularly clean sequence:
+
+> **institutional hypothesis → lived/creative test → audible public result → silence → performer ratification → administrative name.**
+
+---
+
+# VII. Lightweight music-and-sound ledger
+
+| Sonic event | Source/form | Dramatic function |
+|---|---|---|
+| Competing draft fragments | Performer voice inside songwriting labor | Makes incompatible identity vocabularies audible before integration |
+| `We're the friends!` montage | Non-diegetic insert over multiple spaces | Frames songwriting inside peer support without magically solving incompatibility |
+| First `にゃー` calls | Diegetic MC/audience call-and-response | Begins as Miku-owned persona grammar |
+| Riina's clear/repeated `にゃー` | Diegetic performer vocal action | Demonstrates active entry into Miku's grammar without identity surrender |
+| `ΦωΦver!!` | Diegetic live → ending-credit bridge | Integrates rock/cute/cat signifiers inside one shared musical object |
+| Performance fade / near-silence | Music-to-quiet transition | Separates lived public evidence from later administrative ratification |
+| Quiet office confirmation | Dialogue after performance | Makes explicit that the unit is performer-ratified after the test |
+| `Asterisk` naming | Administrative/relational dialogue | Names an identity that has already become experientially and musically usable |
+
+---
+
+# VIII. Retrospective claim delta
+
+## `CG-PERF-0024` — `VERIFIED_STRENGTHENED`
+
+> **Episode 11 makes Miku and Riina's co-authorship audible by letting them voice incompatible cat/cute- and rock-centered draft language before `ΦωΦver!!` later contains both identity fields inside one shared song; the final unit sound is therefore produced through revision of failed one-sided drafts rather than presented as a fully formed institutional gift.**
+
+Primary evidence:
+
+- `E11-AUDIO16:50.07-17:34.87`
+- `E11-ASS0328-0345`
+- `E11-FRAME_000980`
+- `E11-FRAME_001004`
+- `E11-FRAME_001009`
+- `E11-CS28`
+- `E11-AUDIO21:01.78-22:02.90`
+- `E11-ASS0420-0434`
+- `E11-CS34-35`
+
+Primary home:
+
+- `07_PERFORMANCE_SONGS_AUDIENCE_SUCCESS_AND_RECOGNITION.md`
+
+Secondary homes:
+
+- `04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md`
+- `03_TAKEP_PRODUCER_DEVELOPMENTAL_AUTHORSHIP_AND_RESPONSIBILITY.md`
+
+Revision / audit note:
+
+“Failed draft” describes relational unusability inside this unit process, not an unsupported technical judgment of songwriting quality.
+
+---
+
+## `CG-REL-0031` — `VERIFIED_STRENGTHENED`
+
+> **The non-diegetic `We're the friends!` montage places Miku and Riina's songwriting labor inside a wider field of peer support and shared care, but the episode returns them to unresolved disagreement afterward; supportive community is therefore a developmental condition rather than a substitute author of compatibility.**
+
+Primary evidence:
+
+- `E11-AUDIO17:44.00-18:21.83`
+- `E11-ASS0348-0359`
+- `E11-FRAME_001026`
+- `E11-FRAME_001041`
+- `E11-FRAME_001059`
+- `E11-FRAME_001069`
+- `E11-CS29-30`
+- `E11-AUDIO18:31.51-18:47.15`
+- `E11-ASS0360-0367`
+
+Primary home:
+
+- `05_CINDERELLA_PROJECT_COLLECTIVE_FORMATION_LEADERSHIP_AND_BELONGING.md`
+
+Secondary homes:
+
+- `04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md`
+- `09_FAILURE_CARE_AUTONOMY_AND_DEVELOPMENTAL_RISK.md`
+
+Revision / audit note:
+
+The song's relational lyric field frames the montage; it does not prove that every person shown has the same conception of friendship or that music itself resolves the unit conflict.
+
+---
+
+## `CG-PERF-0025` — `VERIFIED_STRENGTHENED`
+
+> **The pre-song `にゃー` call-and-response changes from Miku-led cat-idol grammar and Riina's hesitant participation into a clear projected Riina response and repeated performer/audience call before the song begins; Riina can enter Miku's authored performance grammar without being assimilated into Miku's identity.**
+
+Primary evidence:
+
+- `E11-AUDIO19:52.50-21:01.78`
+- `E11-ASS0394-0420`
+- `E11-FRAME_001168`
+- `E11-FRAME_001187`
+- `E11-FRAME_001198`
+- `E11-FRAME_001207`
+- `E11-FRAME_001225`
+- `E11-CS32-34`
+
+Primary home:
+
+- `07_PERFORMANCE_SONGS_AUDIENCE_SUCCESS_AND_RECOGNITION.md`
+
+Secondary homes:
+
+- `04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md`
+- `11_JAPANESE_VOICE_PERFORMED_VOCAL_STATES_AND_RELATIONAL_REGISTER.md`
+
+Revision / audit note:
+
+Mixed-track amplitude differences are retained only as directional confirmation of changing acoustic scale; they are not treated as a measure of audience size, recognition, or sincerity.
+
+---
+
+## `CG-PERF-0026` — `VERIFIED_STRENGTHENED`
+
+> **`ΦωΦver!!` is heard as a completed public performance before the quiet office scene in which Miku and Riina explicitly ratify continuation and the provisional mark becomes `Asterisk`; Episode 11 therefore makes the unit musically/publicly legible before it becomes finally administratively named.**
+
+Primary evidence:
+
+- `E11-AUDIO21:01.78-22:10.48`
+- `E11-ASS0420-0438`
+- `E11-FRAME_001240`
+- `E11-FRAME_001270`
+- `E11-FRAME_001275`
+- `E11-FRAME_001277`
+- `E11-FRAME_001278`
+- `E11-FRAME_001283`
+- `E11-CS34-36`
+
+Primary home:
+
+- `07_PERFORMANCE_SONGS_AUDIENCE_SUCCESS_AND_RECOGNITION.md`
+
+Secondary homes:
+
+- `03_TAKEP_PRODUCER_DEVELOPMENTAL_AUTHORSHIP_AND_RESPONSIBILITY.md`
+- `06_346_PRODUCTION_INSTITUTIONS_AND_PHILOSOPHIES_OF_PRODUCTION.md`
+- `04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md`
+
+Revision / audit note:
+
+This strengthens the existing “institutionally initiated, experientially ratified” model. It does not erase the opportunity pressure already recorded in `CG-INST-0007`.
+
+---
+
+# IX. Specialist-document routing delta
+
+Episode 11 adds material to the following mature synthesis tracks.
+
+## `03_TAKEP_PRODUCER_DEVELOPMENTAL_AUTHORSHIP_AND_RESPONSIBILITY.md`
+
+Add the distinction:
+
+> Producer can hypothesize compatibility and authorize the test, but performance evidence and performer ratification determine whether the relationship becomes genuinely usable.
+
+## `04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md`
+
+Strengthen Asterisk as the clearest first-cour case of:
+
+> **compatibility as mutual usability of persistent difference.**
+
+The pair's final musical identity does not require either member to surrender her preferred persona vocabulary.
+
+## `05_CINDERELLA_PROJECT_COLLECTIVE_FORMATION_LEADERSHIP_AND_BELONGING.md`
+
+Add `We're the friends!` as evidence that peer/community support can surround creative labor without replacing the pair's responsibility to resolve their own conflict.
+
+## `07_PERFORMANCE_SONGS_AUDIENCE_SUCCESS_AND_RECOGNITION.md`
+
+Add three functions of E11 music:
+
+- drafting as audible creative labor;
+- audience call-and-response as relational testing;
+- final song as evidence used before unit ratification.
+
+## `11_JAPANESE_VOICE_PERFORMED_VOCAL_STATES_AND_RELATIONAL_REGISTER.md`
+
+Add the `にゃー` sequence as a case where a performer temporarily enters another performer's stylized register without that act becoming evidence that her own prior register was false.
+
+---
+
+# X. Episode-11 sonic conclusion
+
+Episode 11 is one of the strongest first-cour examples of music functioning as **developmental evidence rather than narrative reward**.
+
+The song does not merely appear after the relationship is solved.
+
+The episode makes us hear:
+
+- incompatible drafts;
+- supportive context;
+- continued disagreement;
+- an initially awkward act of accommodation;
+- a growing shared audience rhythm;
+- a song capable of carrying both identity vocabularies;
+- a fade into quiet;
+- and only then explicit ratification.
+
+The strongest retrospective formulation is therefore:
+
+> **Asterisk becomes a unit twice: first in sound, then in administration.**
+
+The first transformation matters more.
+
+By the time the provisional mark acquires a name, Miku and Riina have already demonstrated that difference can be written, voiced, negotiated and performed without being erased.

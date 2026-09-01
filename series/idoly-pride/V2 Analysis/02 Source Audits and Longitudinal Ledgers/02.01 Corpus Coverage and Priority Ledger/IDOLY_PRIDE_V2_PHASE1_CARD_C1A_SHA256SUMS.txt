@@ -1,0 +1,65 @@
+# IDOLY PRIDE V2 Phase 1 Card C1-A integrity manifest
+# Created 2026-08-16
+
+# Primary card sources
+cd1b32c96e24766fb8cea04c661e983663c8554ee2959c31b58159e8998f691e  card_kan_007_st-card-kan-05-fest-02.md
+c4422c17eaa88c7070d505d18aa51c838622d3f372881e3e8eb2b9f0ff80f53f  card_kan_014_st-card-kan-05-snro-00.md
+f7141e191b7f2a0f5498c989322dc1163ee7e8d41394f8c034b15c982727e5c6  card_suz_003_st-card-suz-05-anml-00.md
+40bd127af5a6de9a70bcb39c3a56dd23baa9d6639d6699a3fd76aad958c133d5  card_kor_005_st-card-kor-05-fest-02.md
+20a5757b2e9ffbf38cf9e701bb6961f2fc32611ccba3bb83d407ba771b1b360c  card_hrk_009_st-card-hrk-05-link-00.md
+d347171db0b21addbc204f2118a494691ac4e5c810d16ddcde09a52c58b4b164  card_mhk_011_st-card-mhk-05-pajm-00.md
+8eb51230780d44fca5d88ca43f87e8ed14606debb5e6cda9568dd54551bf7df6  card_mhk_006_st-card-mhk-05-fest-02.md
+
+# Companion-message parent corpora used after prospective card-only freeze
+2ff47d03b996943010a8ccf5cee5ebe7b1aab8ac28b611eb955b31c2e75f1779  messages_message_group_kan.dialogue.txt
+# exact admitted message: message-card-kan-05-fest-02
+9c685c6fbf6fbaf267878efd2184b640f24cd9d03ef927edb8c0f25ebce55fab  messages_message_group_suz.dialogue.txt
+# exact admitted message: message-card-suz-05-anml-00
+10860dda3204a0d44691abb902ffff8e920327ce78215458ffce8f1ada8d5092  messages_message_group_kor.dialogue.txt
+# exact admitted message: message-card-kor-05-fest-02
+8940cb7c0d0208ed6212fa0712478f59add4e959ac2eca4081058c34fb34863a  messages_message_group_hrk.dialogue.txt
+# exact admitted message: message-card-hrk-05-link-00
+56eb23cf5504339ce59c5b6fb81349149d05503b63c0ddeb29d626462b803f30  messages_message_group_mhk.dialogue.txt
+# exact admitted messages: message-card-mhk-05-pajm-00; message-card-mhk-05-fest-02
+
+# Inherited authority / routing
+6bc2104f13672fe1166d0578e7680992aff568901ed5d2e24ac67a4fb77d9ca6  IDOLY_PRIDE_V2_PHASE1_POST_BOND_B3_BASELINE.md
+737a22a1ef0b533ca111db2660c0345d3ea31a25fd862051a56fa9629ce66370  IDOLY_PRIDE_V2_PHASE1_LOWER_TIER_CLOSE_READ_QUEUE.md
+3c093fa3acdc280bcd56dc69c73d7b67b9725d95ebdd654c75fa5926c8048ee9  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.27.md
+
+# C1-A analysis artifacts
+ef594c92c2ba304e6f7fd5db37c59da492b5e89d55cee3fc44415719395b3ec6  IDOLY_PRIDE_V2_PHASE1_CARD_C1A_PRIMARY_FINDINGS_FREEZE.md
+f87e3a6cd21bbb26132da39b619c7d9c841f2445349cfb9e8f321efa01e2c221  IDOLY_PRIDE_V2_PHASE1_CARD_C1A_CLOSE_READ_AUDIT.md
+7176abdf83c53590c4e52d0e8bbc1bb7f53f389b4855e5570207f5b82d4c7e8c  IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1A_BASELINE.md
+0afe228a5023a759042058fd7737d061c043f26d2691ebf134529f25b2bc1cb4  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.28.md
+
+# Prospective-integrity gate
+# The primary findings freeze was created before any listed companion message or Tier-H/V1 historical prose was consulted.
+
+# Card source formal dependencies
+# No C1-A card bundle declares a missing audiovisual/formal asset.
+
+# Kana authority correction
+# Historical categorical "paternal abandonment" shorthand is revised to CONTACT_WITHOUT_FAMILY_RECONSTITUTION while preserving non-co-residence, deprivation, and failed family restoration.
+# OPEN_VERIFY_KANA_CARD_CORROBORATION is resolved narrowly by card_kan_014: Kana explicitly recalls meeting Kuromi at the dream amusement park. This is not blanket crossover-ontology authority.
+
+# Suzu authority safeguard
+# Maternal approval remains provisional; the study-abroad issue is explicitly only on hold.
+# Suzu's proof-seeking overwork is not evidence that Hoshimi institutionally requires overwork.
+
+# fran authority safeguard
+# Idol and fashion work are concurrent serious vocations at this endpoint; no hierarchy is inferred.
+# Cross-domain skill transfer requires contextual adaptation.
+
+# Haruko authority safeguard
+# The musical fulfills legacy through role inheritance rather than literal posthumous co-presence with Mana.
+# Companion message confirms succession without impersonation: Haruko resolves to lead in her own way.
+
+# miho authority safeguard
+# Yō's recognition becomes miho's own embodied value; the hair is not a static memorial obligation.
+# Friend Glass legacy continues through re-authorship; IIIX does not replace Yō and the cover does not supersede Sundance.
+
+# Next operation
+# Phase 1 Card Close Read — C1-B: relationship and late-state authorship
+# card_ngs_007_st-card-ngs-05-fest-02 -> card_ktn_007_st-card-ktn-05-fest-02 -> card_szk_002_st-card-szk-05-angl-00 -> card_rui_007_st-card-rui-05-fest-04
+# tel-card-rui-05-fest-04 remains unavailable and must not be reconstructed.

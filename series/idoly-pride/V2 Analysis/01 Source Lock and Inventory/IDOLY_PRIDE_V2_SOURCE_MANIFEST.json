@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "project": "IDOLY PRIDE",
+  "document_id": "IDOLY_PRIDE_V2_SOURCE_MANIFEST",
+  "manifest_version": "1.0",
+  "framework_version": "2.1",
+  "source_snapshot_id": "IP-V2-SNAPSHOT-2026-08-13-A",
+  "created": "2026-08-13",
+  "game": {
+    "source_root_drive_id": "1cMu5RIhgB1vpRv6JtG-jAiOR3Pf_dSqY",
+    "source_refresh_utc": "2026-08-13T20:13:01+00:00",
+    "ingest_generated_utc": "2026-08-13T20:24:41+00:00",
+    "source_story_count": 3879,
+    "ingest_bundle_count": 665,
+    "story_metadata_records": 2067,
+    "bond_stories": 160,
+    "card_story_parts": 1089,
+    "card_story_stems": 363,
+    "unique_transcript_asset_ids": 2120,
+    "transcript_json_cached": 2088,
+    "normalized_story_scripts": 2067,
+    "normalized_story_utterances": 173316,
+    "message_groups": 45,
+    "message_threads": 1812,
+    "message_lines_items": 44370,
+    "telephone_references": 256,
+    "telephone_audio_cached": 211,
+    "telephone_asr": 211,
+    "telephone_audio_unavailable": 45,
+    "missing_processed_asset_references": 32,
+    "layers": {
+      "analysis_bundles": "1YXaSvw-cxmo4Ud8i6GpJ-X5rkKnjvKMU",
+      "idoly_ingest": "1Ow24RCbzh0u664cXy2pKz6jjVKCg847h",
+      "historical_selected_events": "1nlzx67folaG2xYpieCCbYbxKlB47tIxr",
+      "visual_assets": "1_aFrIISPJMDGwOTtDY1PhE-hWAsq5Tgc",
+      "four_koma": "1r-7cRgIS0S93YbgdHQ6EbolOst6mcAAQ"
+    },
+    "hashes": {
+      "source_snapshot_json": "a4233ed33e0bf1f4c6c8cede77b3e5f28fa5e6cd4b20794a0bf60d0f81845ce4",
+      "analysis_bundles_manifest_json": "d926c70151bc59434c78262520870c169ab59b2e90dc1d505a87873b35352ce2",
+      "idoly_ingest_catalog_jsonl": "17321157d1220f12a318304d70ac513ca46b040ea95a851325f2200eb67410a3",
+      "four_koma_download_manifest_json": "b60181653be2bc1b7591a8c37d0d71cd40b3aca4789e1a0bbb7080ff01e2ea61"
+    }
+  },
+  "anime": {
+    "episodes": 12,
+    "screenshots": 9052,
+    "contact_sheets": 458,
+    "timing_audit": "pass",
+    "archive_identity": "sha256 of exact supplied ZIPs governs",
+    "known_nonblocking_discrepancies": [
+      "minor archive-size differences relative to older extraction manifest",
+      "small Episode 1 subtitle-snapshot provenance mismatch"
+    ],
+    "sha256": {
+      "ep01_screenshots.zip": "08022f93b35d8c575dd994edc9ca5037897b51875f50a34190487a14d3095d0b",
+      "ep02_screenshots.zip": "33eed6a1531b0ea10f6ca77cbe84c6c38d67fc0e16942a29b99bae286b9e9fb2",
+      "ep03_screenshots.zip": "61955cb0ea5d0a78dbc56949326e9df9ac5be5ed215a7baebfa562e47263f6c2",
+      "ep04_screenshots.zip": "d994d0cb812935782b564538ac4ac487b4d419da56f985ff2725d196623491c7",
+      "ep05_screenshots.zip": "9d08419f5960ac96ae6d1f94b1655cd1eba0347c6100a2a78d3894ec47233c95",
+      "ep06_screenshots.zip": "dfb397f95a4b1b9883a230ff8eaf1be090b59b27b08c67cf0ab1058b27363291",
+      "ep07_screenshots.zip": "60637e8fb1f1a28e87bce7fea716d31160f8d3c3b206ff75084fa6a16eff86ad",
+      "ep08_screenshots.zip": "a371cce5a385f2a6eef6a2b08c55ea56671f96ac2190886876bb5d73e58c9bc5",
+      "ep09_screenshots.zip": "7d7a456878154e98d0ab7e863a44a7452cd2ad873f1d4ce15bed66f2c888f160",
+      "ep10_screenshots.zip": "399cc7eb69057741aa8195cf384cba66d3179eba9a82bd41719cb24cc080bcd6",
+      "ep11_screenshots.zip": "c5a1a3fd212b4f8eeec6554c164ba943a8ccc19af72ae045f157da5794ea16e9",
+      "ep12_screenshots.zip": "56fd2a4a868768ba90a8821cff3e6d6c0ab4d61570ad1e17cf75f12f9b364b6c"
+    },
+    "provenance_files_sha256": {
+      "manifest(20260813-230720).json": "412c2afdcc8d28e5d401c6a964039f6a9343e367ad636633b072f728f54d2020",
+      "README(3).md": "f2618ae1c0861caeb54698e7750edf693daeb8bb99421463b1d60c3a53769b32",
+      "subtitle_timing_audit(1).json": "a8eb62aa031696c2a832ab73192c42da0fee91d0d2f9c2794fd70afb4346f603"
+    }
+  },
+  "four_koma": {
+    "manifest_date": "2026-08-09",
+    "main": 113,
+    "back_stage": 20,
+    "first_step_extra": 1,
+    "aipura_bside": 11,
+    "aipura_bside_specials": 6,
+    "total": 151
+  },
+  "analysis_artifact_root": "1u6DoS4oXllD2ShvX5KiWXq7mddtzdZKT",
+  "phase_0_folder": "1qrpj7ZOUOgXVpwMOXK8nfXjbyYJce3GT"
+}

@@ -1,0 +1,24 @@
+676c5511ed0203bfd6a32c35078dcb445658999642ccffd50ebe60cc639d8a64  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_TOKYO_MAIN_STORY_TRANCHE_SHA256SUMS.txt
+413a14434dacc036990601a3e8f07e840360f465eb567e078596d916b3bd60af  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_IIIX_ORIGIN_CHRONOLOGY_CORRECTION_AND_TOKYO_GATE_REVISION.md
+d3a6f9f5bc6838d3f2a7caf54de8a9f72f2772c2ced61f4b61c482dc29189419  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_IIIX_PRE_TOKYO_BASELINE_v1.1.md
+c87a62ed5defc63a7522b823361bedf7a902c9c2be68609ebc1c8b2634e73c9a  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_TOKYO_MAIN_STORY_PRIMARY_FINDINGS_FREEZE.md
+5a160f4e4fa1b6a54f5558de95bb3ee9b8c973d0fc681b7ac50b4fd10c6bb1e1  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_TOKYO_MAIN_STORY_AUDIT.md
+22740e210fb0cacacdfe7e024c370773ba0a1760c8811c773c7927156f5587cc  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_POST_TOKYO_BASELINE.md
+ddba8343094898b64e8731f55953e06c4960afd292ba8c0989bb4afc01c31ff5  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_IIIX_POST_IUNITY_TO_BIG4_ENTRY_BRIDGE.md
+bc0bb72bb0b4b757723583d5ea69ed32fe67611f6b80371839caa1b588ca2ae0  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_BIG4_ENTRY_GOVERNING_BASELINE.md
+96af9562a340a72021c1cbccdf7a9dd05e85ca8d24d9ac1b2f8fe00aedf5fca7  /mnt/data/IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.2.md
+
+# Integrity notes
+# This manifest extends the frozen Tokyo tranche for the BIG4 entry gate; it does not supersede or mutate the Tokyo freeze.
+# The frozen post-Tokyo baseline remains unchanged.
+# The chronology bridge admits only st-group-thrx-01-01-18 through 20 after the I-UNITY boundary anchor at story 17.
+# BIG4 entry state is governed by POST_TOKYO_BASELINE + IIIX_POST_IUNITY_TO_BIG4_ENTRY_BRIDGE.
+# Ledger v1.1 is preserved as historical working state; v1.2 corrects its premature self-managed-IIIX wording prospectively.
+# During gate reconciliation, a localized opening passage of big4_001 was inspected only to confirm that freelance IIIX is already prior history at BIG4 entry.
+# Required BIG4 prospective integrity: CONTROLLED_RECONSTRUCTION_WITH_DISCLOSED_HISTORICAL_AND_PRIMARY_SOURCE_HINDSIGHT.
+# Historical V1 BIG4 analysis remains quarantined until the BIG4 primary findings freeze is locked.
+
+# Next output and recommended model
+# Next analytical output: Phase 1B BIG4 main-story sequential audit (big4_001_dark_of_the_moon -> big4_014_epilogue)
+# Recommended model: GPT-5.6 Sol
+# Recommended reasoning level: Extra High

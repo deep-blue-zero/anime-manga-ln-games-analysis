@@ -1,0 +1,146 @@
+[
+  {
+    "source_id": "RINAMI-P01",
+    "title": "clumsy trick 3DMV",
+    "class": "performance",
+    "duration_seconds": 161.587664,
+    "mean_volume_dbfs": -18.6,
+    "max_volume_dbfs": -0.4,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P02",
+    "title": "clumsy trick official MV",
+    "class": "performance",
+    "duration_seconds": 232.176327,
+    "mean_volume_dbfs": -11.6,
+    "max_volume_dbfs": 0.0,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P03",
+    "title": "L.U.V 3DMV",
+    "class": "performance",
+    "duration_seconds": 200.736508,
+    "mean_volume_dbfs": -19.3,
+    "max_volume_dbfs": -0.0,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P04",
+    "title": "L.U.V full-song presentation",
+    "class": "performance",
+    "duration_seconds": 251.366009,
+    "mean_volume_dbfs": -12.9,
+    "max_volume_dbfs": 0.0,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P05",
+    "title": "36℃ U･B･U 3DMV",
+    "class": "performance",
+    "duration_seconds": 169.15737,
+    "mean_volume_dbfs": -16.7,
+    "max_volume_dbfs": -0.4,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P06",
+    "title": "36℃ U･B･U official MV",
+    "class": "performance",
+    "duration_seconds": 251.634649,
+    "mean_volume_dbfs": -16.6,
+    "max_volume_dbfs": -1.1,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P07",
+    "title": "Campus mode!! 3DMV",
+    "class": "performance",
+    "duration_seconds": 160.380227,
+    "mean_volume_dbfs": -17.3,
+    "max_volume_dbfs": -0.4,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P08",
+    "title": "ガラクタロード 3DMV",
+    "class": "performance",
+    "duration_seconds": 164.118639,
+    "mean_volume_dbfs": -18.2,
+    "max_volume_dbfs": -0.4,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P09",
+    "title": "Howling over the World 3DMV",
+    "class": "performance",
+    "duration_seconds": 111.386122,
+    "mean_volume_dbfs": -17.8,
+    "max_volume_dbfs": -0.2,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P10",
+    "title": "SUGAR FLAVOR duet 3DMV",
+    "class": "performance",
+    "duration_seconds": 138.646349,
+    "mean_volume_dbfs": -15.8,
+    "max_volume_dbfs": -0.2,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P11",
+    "title": "SUGAR FLAVOR official MV",
+    "class": "performance",
+    "duration_seconds": 188.104853,
+    "mean_volume_dbfs": -12.6,
+    "max_volume_dbfs": -0.0,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P12",
+    "title": "歌声は君いろ official MV",
+    "class": "performance",
+    "duration_seconds": 278.314376,
+    "mean_volume_dbfs": -12.1,
+    "max_volume_dbfs": 0.0,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P13",
+    "title": "ENDLESS DANCE 3DMV",
+    "class": "performance",
+    "duration_seconds": 109.389206,
+    "mean_volume_dbfs": -15.5,
+    "max_volume_dbfs": -0.4,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P14",
+    "title": "がむしゃらに行こう！ 3DMV",
+    "class": "performance",
+    "duration_seconds": 109.644626,
+    "mean_volume_dbfs": -17.8,
+    "max_volume_dbfs": -0.3,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P15",
+    "title": "ミラクルナナウ(ﾟ∀ﾟ)！ 3DMV",
+    "class": "performance",
+    "duration_seconds": 116.819592,
+    "mean_volume_dbfs": -18.0,
+    "max_volume_dbfs": -0.0,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  },
+  {
+    "source_id": "RINAMI-P16",
+    "title": "初 [Rinami] song video",
+    "class": "performance",
+    "duration_seconds": 153.878639,
+    "mean_volume_dbfs": -19.7,
+    "max_volume_dbfs": -6.4,
+    "analysis_note": "whole supplied mix; volumedetect descriptor; not an isolated vocal stem"
+  }
+]

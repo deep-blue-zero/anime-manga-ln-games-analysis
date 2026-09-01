@@ -1,0 +1,90 @@
+[
+  {
+    "scene": "D01_REHEARSAL_07m10",
+    "start_seconds": 430,
+    "duration_seconds": 18,
+    "note": "early onee-san rehearsal / ordinary dialogue mix",
+    "rms_dbfs": -26.79,
+    "active_frame_ratio": 0.65,
+    "f0_proxy_median_hz": 302.3,
+    "f0_proxy_iqr_hz": 102.6,
+    "f0_voiced_frames": 856
+  },
+  {
+    "scene": "D02_COMPETITIVE_31m35",
+    "start_seconds": 1895,
+    "duration_seconds": 18,
+    "note": "NIA/competitive relation scene mix",
+    "rms_dbfs": -24.96,
+    "active_frame_ratio": 0.65,
+    "f0_proxy_median_hz": 282.4,
+    "f0_proxy_iqr_hz": 128.6,
+    "f0_voiced_frames": 759
+  },
+  {
+    "scene": "D03_CHILDHOOD_31m35",
+    "start_seconds": 1895,
+    "duration_seconds": 18,
+    "note": "Dear 026 childhood loneliness disclosure mix",
+    "rms_dbfs": -25.75,
+    "active_frame_ratio": 0.65,
+    "f0_proxy_median_hz": 266.9,
+    "f0_proxy_iqr_hz": 116.0,
+    "f0_voiced_frames": 1075
+  },
+  {
+    "scene": "D03_CRISIS_39m20",
+    "start_seconds": 2360,
+    "duration_seconds": 18,
+    "note": "Dear 027 distress/crying mix",
+    "rms_dbfs": -27.71,
+    "active_frame_ratio": 0.65,
+    "f0_proxy_median_hz": 259.0,
+    "f0_proxy_iqr_hz": 139.5,
+    "f0_voiced_frames": 858
+  },
+  {
+    "scene": "D03_DECLARATION_41m35",
+    "start_seconds": 2495,
+    "duration_seconds": 18,
+    "note": "Dear 027 renewed desire declaration mix",
+    "rms_dbfs": -28.31,
+    "active_frame_ratio": 0.65,
+    "f0_proxy_median_hz": 313.9,
+    "f0_proxy_iqr_hz": 133.5,
+    "f0_voiced_frames": 636
+  },
+  {
+    "scene": "D04_SUMMIT_47m00",
+    "start_seconds": 2820,
+    "duration_seconds": 18,
+    "note": "Dear 036 summit/result mix",
+    "rms_dbfs": -26.28,
+    "active_frame_ratio": 0.65,
+    "f0_proxy_median_hz": 333.2,
+    "f0_proxy_iqr_hz": 177.7,
+    "f0_voiced_frames": 439
+  },
+  {
+    "scene": "D04_CONFESSION_53m20",
+    "start_seconds": 3200,
+    "duration_seconds": 18,
+    "note": "Dear 037 confession mix",
+    "rms_dbfs": -23.96,
+    "active_frame_ratio": 0.65,
+    "f0_proxy_median_hz": 266.4,
+    "f0_proxy_iqr_hz": 147.4,
+    "f0_voiced_frames": 574
+  },
+  {
+    "scene": "D04_VOW_54m35",
+    "start_seconds": 3275,
+    "duration_seconds": 18,
+    "note": "Dear 037 lifelong vow mix",
+    "rms_dbfs": -26.12,
+    "active_frame_ratio": 0.65,
+    "f0_proxy_median_hz": 293.3,
+    "f0_proxy_iqr_hz": 161.6,
+    "f0_voiced_frames": 1181
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "document_id": "GKM_PHASE3_KOTONE_SOURCE_METRICS",
+  "source_lock": "00d150a069a3ffa723a1ff264752ba242024caad",
+  "source_lock_generated": "2026-08-02T22:21:04Z",
+  "character": {
+    "code": "fktn",
+    "name_en": "Kotone Fujita",
+    "name_ja": "藤田 ことね"
+  },
+  "source_object_count": 192,
+  "message_count_total": 4748,
+  "categories": {
+    "cidol": {
+      "files": 27,
+      "message_lines": 1142
+    },
+    "dear": {
+      "files": 28,
+      "message_lines": 1666
+    },
+    "live": {
+      "files": 9,
+      "message_lines": 16
+    },
+    "pevent": {
+      "files": 81,
+      "message_lines": 1017
+    },
+    "pgrowth": {
+      "files": 3,
+      "message_lines": 11
+    },
+    "pstory": {
+      "files": 42,
+      "message_lines": 884
+    },
+    "startup": {
+      "files": 2,
+      "message_lines": 12
+    }
+  },
+  "pstory_inventory": {
+    "series_001_objects": 31,
+    "series_002_objects": 11,
+    "series_003_objects": 0,
+    "note": "Source Lock snapshot fact; later H.I.F. state is preserved in Dear/modular sources."
+  },
+  "direct_A1_spot_checks": [
+    "dear_010",
+    "dear_016",
+    "dear_017",
+    "dear_018",
+    "dear_025",
+    "dear_027"
+  ],
+  "local_source_files": [
+    {
+      "file": "00_bundle_manifest.json",
+      "bytes": 131815,
+      "sha256": "1c1c283ce461cec97fef404196b92aff53fdab2294a13f5277e0e3dd5f888deb"
+    },
+    {
+      "file": "99_complete_character_bundle.dialogue.txt",
+      "bytes": 576402,
+      "sha256": "29423550fe715775965c9b9b3c48d167ad0ffefc4bf9770f25d2bf4108ad89c9"
+    },
+    {
+      "file": "01_produce_main_story.dialogue.txt",
+      "bytes": 114017,
+      "sha256": "d9131ba37ae66f595768d8429d6c4399a59729851b4d07ea32606d84f8bdd1b2"
+    },
+    {
+      "file": "02_produce_events.dialogue.txt",
+      "bytes": 168360,
+      "sha256": "dab69afd4a1b7e26fbc8e8add6e817c75431bec947b574d872a187fb3b01fa1c"
+    },
+    {
+      "file": "03_idol_communications.dialogue.txt",
+      "bytes": 119980,
+      "sha256": "54492c0ec384c42a3faed6b82fcf135ab92a0723597915e36935ec843be5b310"
+    },
+    {
+      "file": "04_dear_idol.dialogue.txt",
+      "bytes": 157281,
+      "sha256": "bc11dd3412ab28dd6348a810e51e05bab50325da650fe421db4e366883f88106"
+    },
+    {
+      "file": "05_live_scenes.dialogue.txt",
+      "bytes": 9669,
+      "sha256": "ba8c3a1adbd31257a79eddea991777d522a2cf74a64982d80da534cbc50f8db7"
+    },
+    {
+      "file": "06_system_growth_startup.dialogue.txt",
+      "bytes": 7018,
+      "sha256": "af8f74da8d69b6060f66e9b60e1855f227a2d88a1a2cf22d9cf73dac9fc1bb9e"
+    },
+    {
+      "file": "90_raw_scene_index.json",
+      "bytes": 60358,
+      "sha256": "aeede4130fb22d4c6560cd259420997a4e515c97bea1756a14e8b1123e052667"
+    },
+    {
+      "file": "dear_010.txt",
+      "bytes": 177418,
+      "sha256": "98373d9c3883dd48d24507be8b715256083facf6cb6d7ff040c5f2659f54238a"
+    },
+    {
+      "file": "dear_016.txt",
+      "bytes": 131130,
+      "sha256": "f81f67e98ecd595856988f26ecace0707de96419a5a4d3780cf8ab219ce53625"
+    },
+    {
+      "file": "dear_017.txt",
+      "bytes": 299436,
+      "sha256": "db4e17b3fc52a908d0fcaffd03c552521d22af755b440c8503acad622cc033a9"
+    },
+    {
+      "file": "dear_018.txt",
+      "bytes": 134768,
+      "sha256": "a99daf58ddea25b594f114aad1bf33461e0042a07065ba601c7c81484fd27638"
+    },
+    {
+      "file": "dear_025.txt",
+      "bytes": 108515,
+      "sha256": "8e255cb041f57b383d233fd67154f3a8de8492b553b8af3bc65d3fac9d1c2d52"
+    },
+    {
+      "file": "dear_027.txt",
+      "bytes": 330237,
+      "sha256": "8a47d771c4d44bc74e8535629fab19d9545408c3b1f3c66517229e6c955dace9"
+    }
+  ]
+}

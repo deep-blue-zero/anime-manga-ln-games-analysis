@@ -1,0 +1,4406 @@
+{
+  "series": "GKM",
+  "character": "Kuramoto China / 倉本千奈",
+  "generation": "V2",
+  "release": "R1",
+  "created": "2026-08-21",
+  "method": "Sparse uniform/seek-based frame sampling from already extracted JPEG inspection frames. These are complete-frame edited-source descriptors, not performer-isolated motion or cinematography measurements.",
+  "sources": [
+    {
+      "keyframe_id": "CHINA-D01",
+      "id": "AV-CHINA-001",
+      "drive_id": "1qB3EZXT46_teGexgHuk26rtYvPaZjPnJ",
+      "filename": "【学マス】倉本千奈　親愛度１～１０話【アイドルコミュ】-(720p30).mp4",
+      "class": "dear_compilation",
+      "role": "Dear 001-010",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-D01",
+      "sample_count": 48,
+      "mean_value": 0.2575396563236912,
+      "mean_saturation": 0.0750202777562663,
+      "mean_dark_fraction": 0.6878147754854368,
+      "mean_bright_fraction": 0.14331418133090615,
+      "mean_edge_fraction": 0.05195976183252427,
+      "mean_inter_sample_absolute_difference": 0.06143679695223716,
+      "frames": [
+        {
+          "file": "00_00031.374.jpg",
+          "timestamp_seconds": 31.374,
+          "mean_value": 0.34077557921409607,
+          "mean_saturation": 0.28619393706321716,
+          "dark_fraction": 0.6679611650485436,
+          "bright_fraction": 0.3170206310679612,
+          "edge_fraction": 0.014153519417475727
+        },
+        {
+          "file": "01_00094.121.jpg",
+          "timestamp_seconds": 94.121,
+          "mean_value": 0.330716073513031,
+          "mean_saturation": 0.02349841594696045,
+          "dark_fraction": 0.6681128640776699,
+          "bright_fraction": 0.3178246359223301,
+          "edge_fraction": 0.014381067961165048
+        },
+        {
+          "file": "02_00156.869.jpg",
+          "timestamp_seconds": 156.869,
+          "mean_value": 0.2627120316028595,
+          "mean_saturation": 0.06566867232322693,
+          "dark_fraction": 0.6676881067961165,
+          "bright_fraction": 0.11884101941747573,
+          "edge_fraction": 0.04868021844660194
+        },
+        {
+          "file": "03_00219.617.jpg",
+          "timestamp_seconds": 219.617,
+          "mean_value": 0.2653404772281647,
+          "mean_saturation": 0.08768609166145325,
+          "dark_fraction": 0.6676122572815534,
+          "bright_fraction": 0.1397148058252427,
+          "edge_fraction": 0.045039441747572816
+        },
+        {
+          "file": "04_00282.364.jpg",
+          "timestamp_seconds": 282.364,
+          "mean_value": 0.25937771797180176,
+          "mean_saturation": 0.10747787356376648,
+          "dark_fraction": 0.6677639563106796,
+          "bright_fraction": 0.13087075242718446,
+          "edge_fraction": 0.05992111650485437
+        },
+        {
+          "file": "05_00345.112.jpg",
+          "timestamp_seconds": 345.112,
+          "mean_value": 0.26439666748046875,
+          "mean_saturation": 0.0898854210972786,
+          "dark_fraction": 0.6680066747572816,
+          "bright_fraction": 0.13922936893203883,
+          "edge_fraction": 0.048847087378640776
+        },
+        {
+          "file": "06_00407.859.jpg",
+          "timestamp_seconds": 407.859,
+          "mean_value": 0.29309698939323425,
+          "mean_saturation": 0.024860259145498276,
+          "dark_fraction": 0.6676425970873786,
+          "bright_fraction": 0.21802184466019417,
+          "edge_fraction": 0.057311893203883496
+        },
+        {
+          "file": "07_00470.607.jpg",
+          "timestamp_seconds": 470.607,
+          "mean_value": 0.20033255219459534,
+          "mean_saturation": 0.07617451250553131,
+          "dark_fraction": 0.7608768203883495,
+          "bright_fraction": 0.08598300970873786,
+          "edge_fraction": 0.05069781553398058
+        },
+        {
+          "file": "08_00533.354.jpg",
+          "timestamp_seconds": 533.354,
+          "mean_value": 0.20090252161026,
+          "mean_saturation": 0.07670444250106812,
+          "dark_fraction": 0.7604368932038835,
+          "bright_fraction": 0.08739381067961165,
+          "edge_fraction": 0.04975728155339806
+        },
+        {
+          "file": "09_00596.102.jpg",
+          "timestamp_seconds": 596.102,
+          "mean_value": 0.2642609477043152,
+          "mean_saturation": 0.06586147099733353,
+          "dark_fraction": 0.6677336165048544,
+          "bright_fraction": 0.11834041262135922,
+          "edge_fraction": 0.06394114077669903
+        },
+        {
+          "file": "10_00658.850.jpg",
+          "timestamp_seconds": 658.85,
+          "mean_value": 0.2642582356929779,
+          "mean_saturation": 0.07012225687503815,
+          "dark_fraction": 0.667627427184466,
+          "bright_fraction": 0.11800667475728155,
+          "edge_fraction": 0.06438106796116505
+        },
+        {
+          "file": "11_00721.597.jpg",
+          "timestamp_seconds": 721.597,
+          "mean_value": 0.26160508394241333,
+          "mean_saturation": 0.06806711852550507,
+          "dark_fraction": 0.6680370145631068,
+          "bright_fraction": 0.11743021844660194,
+          "edge_fraction": 0.04171723300970874
+        },
+        {
+          "file": "12_00784.345.jpg",
+          "timestamp_seconds": 784.345,
+          "mean_value": 0.20043474435806274,
+          "mean_saturation": 0.07786259055137634,
+          "dark_fraction": 0.7493780339805826,
+          "bright_fraction": 0.10377730582524272,
+          "edge_fraction": 0.03894114077669903
+        },
+        {
+          "file": "13_00847.092.jpg",
+          "timestamp_seconds": 847.092,
+          "mean_value": 0.26336669921875,
+          "mean_saturation": 0.1064986139535904,
+          "dark_fraction": 0.6687955097087379,
+          "bright_fraction": 0.13907766990291262,
+          "edge_fraction": 0.06337985436893204
+        },
+        {
+          "file": "14_00909.840.jpg",
+          "timestamp_seconds": 909.84,
+          "mean_value": 0.29717880487442017,
+          "mean_saturation": 0.05962914600968361,
+          "dark_fraction": 0.6677336165048544,
+          "bright_fraction": 0.1979520631067961,
+          "edge_fraction": 0.0432493932038835
+        },
+        {
+          "file": "15_00972.587.jpg",
+          "timestamp_seconds": 972.587,
+          "mean_value": 0.2902655303478241,
+          "mean_saturation": 0.06901080906391144,
+          "dark_fraction": 0.6679308252427184,
+          "bright_fraction": 0.17627427184466019,
+          "edge_fraction": 0.05279126213592233
+        },
+        {
+          "file": "16_01035.335.jpg",
+          "timestamp_seconds": 1035.335,
+          "mean_value": 0.2894626557826996,
+          "mean_saturation": 0.07140301167964935,
+          "dark_fraction": 0.6680825242718447,
+          "bright_fraction": 0.17639563106796116,
+          "edge_fraction": 0.054262742718446604
+        },
+        {
+          "file": "17_01098.083.jpg",
+          "timestamp_seconds": 1098.083,
+          "mean_value": 0.26471492648124695,
+          "mean_saturation": 0.07264402508735657,
+          "dark_fraction": 0.6677639563106796,
+          "bright_fraction": 0.12063106796116504,
+          "edge_fraction": 0.06644417475728155
+        },
+        {
+          "file": "18_01160.830.jpg",
+          "timestamp_seconds": 1160.83,
+          "mean_value": 0.26151472330093384,
+          "mean_saturation": 0.06326932460069656,
+          "dark_fraction": 0.6677639563106796,
+          "bright_fraction": 0.11500303398058252,
+          "edge_fraction": 0.043810679611650485
+        },
+        {
+          "file": "19_01223.578.jpg",
+          "timestamp_seconds": 1223.578,
+          "mean_value": 0.26347780227661133,
+          "mean_saturation": 0.0651625245809555,
+          "dark_fraction": 0.6676425970873786,
+          "bright_fraction": 0.12161711165048544,
+          "edge_fraction": 0.043492111650485436
+        },
+        {
+          "file": "20_01286.325.jpg",
+          "timestamp_seconds": 1286.325,
+          "mean_value": 0.27784132957458496,
+          "mean_saturation": 0.07947798073291779,
+          "dark_fraction": 0.667870145631068,
+          "bright_fraction": 0.15031856796116505,
+          "edge_fraction": 0.05009101941747573
+        },
+        {
+          "file": "21_01349.073.jpg",
+          "timestamp_seconds": 1349.073,
+          "mean_value": 0.3458804190158844,
+          "mean_saturation": 0.020938929170370102,
+          "dark_fraction": 0.6678549757281553,
+          "bright_fraction": 0.31979672330097086,
+          "edge_fraction": 0.014411407766990292
+        },
+        {
+          "file": "22_01411.820.jpg",
+          "timestamp_seconds": 1411.82,
+          "mean_value": 0.2640851140022278,
+          "mean_saturation": 0.06682135164737701,
+          "dark_fraction": 0.6678398058252427,
+          "bright_fraction": 0.11692961165048543,
+          "edge_fraction": 0.06444174757281554
+        },
+        {
+          "file": "23_01474.568.jpg",
+          "timestamp_seconds": 1474.568,
+          "mean_value": 0.2627169191837311,
+          "mean_saturation": 0.06794736534357071,
+          "dark_fraction": 0.667870145631068,
+          "bright_fraction": 0.1163986650485437,
+          "edge_fraction": 0.06425970873786407
+        },
+        {
+          "file": "24_01537.316.jpg",
+          "timestamp_seconds": 1537.316,
+          "mean_value": 0.26201796531677246,
+          "mean_saturation": 0.07126504927873611,
+          "dark_fraction": 0.6678094660194175,
+          "bright_fraction": 0.11337985436893204,
+          "edge_fraction": 0.06858313106796117
+        },
+        {
+          "file": "25_01600.063.jpg",
+          "timestamp_seconds": 1600.063,
+          "mean_value": 0.2995718717575073,
+          "mean_saturation": 0.04641758278012276,
+          "dark_fraction": 0.6676729368932038,
+          "bright_fraction": 0.19699635922330097,
+          "edge_fraction": 0.05101638349514563
+        },
+        {
+          "file": "26_01662.811.jpg",
+          "timestamp_seconds": 1662.811,
+          "mean_value": 0.29811421036720276,
+          "mean_saturation": 0.07761779427528381,
+          "dark_fraction": 0.6690230582524271,
+          "bright_fraction": 0.21884101941747572,
+          "edge_fraction": 0.04820995145631068
+        },
+        {
+          "file": "27_01725.558.jpg",
+          "timestamp_seconds": 1725.558,
+          "mean_value": 0.278319776058197,
+          "mean_saturation": 0.09440790116786957,
+          "dark_fraction": 0.6708131067961165,
+          "bright_fraction": 0.16730885922330097,
+          "edge_fraction": 0.06771844660194175
+        },
+        {
+          "file": "28_01788.306.jpg",
+          "timestamp_seconds": 1788.306,
+          "mean_value": 0.2654445469379425,
+          "mean_saturation": 0.0718541294336319,
+          "dark_fraction": 0.6677942961165049,
+          "bright_fraction": 0.12231492718446602,
+          "edge_fraction": 0.06547330097087378
+        },
+        {
+          "file": "29_01851.053.jpg",
+          "timestamp_seconds": 1851.053,
+          "mean_value": 0.26352179050445557,
+          "mean_saturation": 0.07223324477672577,
+          "dark_fraction": 0.6677942961165049,
+          "bright_fraction": 0.11614077669902913,
+          "edge_fraction": 0.06330400485436893
+        },
+        {
+          "file": "30_01913.801.jpg",
+          "timestamp_seconds": 1913.801,
+          "mean_value": 0.26120713353157043,
+          "mean_saturation": 0.0668632835149765,
+          "dark_fraction": 0.6677336165048544,
+          "bright_fraction": 0.11500303398058252,
+          "edge_fraction": 0.047421116504854366
+        },
+        {
+          "file": "31_01976.549.jpg",
+          "timestamp_seconds": 1976.549,
+          "mean_value": 0.16249358654022217,
+          "mean_saturation": 0.04700004681944847,
+          "dark_fraction": 0.7825546116504855,
+          "bright_fraction": 0.048012742718446605,
+          "edge_fraction": 0.04996966019417476
+        },
+        {
+          "file": "32_02039.296.jpg",
+          "timestamp_seconds": 2039.296,
+          "mean_value": 0.16520434617996216,
+          "mean_saturation": 0.05028294026851654,
+          "dark_fraction": 0.774924150485437,
+          "bright_fraction": 0.050849514563106796,
+          "edge_fraction": 0.04951456310679612
+        },
+        {
+          "file": "33_02102.044.jpg",
+          "timestamp_seconds": 2102.044,
+          "mean_value": 0.16462644934654236,
+          "mean_saturation": 0.051543522626161575,
+          "dark_fraction": 0.780051577669903,
+          "bright_fraction": 0.053413228155339804,
+          "edge_fraction": 0.05160800970873786
+        },
+        {
+          "file": "34_02164.791.jpg",
+          "timestamp_seconds": 2164.791,
+          "mean_value": 0.16560673713684082,
+          "mean_saturation": 0.05017109215259552,
+          "dark_fraction": 0.7795054611650486,
+          "bright_fraction": 0.05361043689320388,
+          "edge_fraction": 0.05153216019417476
+        },
+        {
+          "file": "35_02227.539.jpg",
+          "timestamp_seconds": 2227.539,
+          "mean_value": 0.16517549753189087,
+          "mean_saturation": 0.05299096554517746,
+          "dark_fraction": 0.7792779126213593,
+          "bright_fraction": 0.05276092233009709,
+          "edge_fraction": 0.05157766990291262
+        },
+        {
+          "file": "36_02290.286.jpg",
+          "timestamp_seconds": 2290.286,
+          "mean_value": 0.26954352855682373,
+          "mean_saturation": 0.22261951863765717,
+          "dark_fraction": 0.4564775485436893,
+          "bright_fraction": 0.07533373786407767,
+          "edge_fraction": 0.08813713592233009
+        },
+        {
+          "file": "37_02353.034.jpg",
+          "timestamp_seconds": 2353.034,
+          "mean_value": 0.2684818208217621,
+          "mean_saturation": 0.10534325987100601,
+          "dark_fraction": 0.6749241504854369,
+          "bright_fraction": 0.19587378640776698,
+          "edge_fraction": 0.057888349514563106
+        },
+        {
+          "file": "38_02415.782.jpg",
+          "timestamp_seconds": 2415.782,
+          "mean_value": 0.27071160078048706,
+          "mean_saturation": 0.10691265761852264,
+          "dark_fraction": 0.6748634708737864,
+          "bright_fraction": 0.20157766990291262,
+          "edge_fraction": 0.05347390776699029
+        },
+        {
+          "file": "39_02478.529.jpg",
+          "timestamp_seconds": 2478.529,
+          "mean_value": 0.26996663212776184,
+          "mean_saturation": 0.11075659096240997,
+          "dark_fraction": 0.6744690533980583,
+          "bright_fraction": 0.19948422330097088,
+          "edge_fraction": 0.05614381067961165
+        },
+        {
+          "file": "40_02541.277.jpg",
+          "timestamp_seconds": 2541.277,
+          "mean_value": 0.2627871036529541,
+          "mean_saturation": 0.06948786228895187,
+          "dark_fraction": 0.6679156553398058,
+          "bright_fraction": 0.11574635922330097,
+          "edge_fraction": 0.062469660194174756
+        },
+        {
+          "file": "41_02604.024.jpg",
+          "timestamp_seconds": 2604.024,
+          "mean_value": 0.26351198554039,
+          "mean_saturation": 0.06842756271362305,
+          "dark_fraction": 0.6678398058252427,
+          "bright_fraction": 0.11787014563106796,
+          "edge_fraction": 0.06580703883495145
+        },
+        {
+          "file": "42_02666.772.jpg",
+          "timestamp_seconds": 2666.772,
+          "mean_value": 0.26428133249282837,
+          "mean_saturation": 0.07477989047765732,
+          "dark_fraction": 0.667945995145631,
+          "bright_fraction": 0.11915958737864078,
+          "edge_fraction": 0.06404733009708738
+        },
+        {
+          "file": "43_02729.519.jpg",
+          "timestamp_seconds": 2729.519,
+          "mean_value": 0.2617717981338501,
+          "mean_saturation": 0.06577438116073608,
+          "dark_fraction": 0.6676729368932038,
+          "bright_fraction": 0.11230279126213592,
+          "edge_fraction": 0.06671723300970873
+        },
+        {
+          "file": "44_02792.267.jpg",
+          "timestamp_seconds": 2792.267,
+          "mean_value": 0.26361873745918274,
+          "mean_saturation": 0.06803350150585175,
+          "dark_fraction": 0.6678398058252427,
+          "bright_fraction": 0.11912924757281554,
+          "edge_fraction": 0.061771844660194176
+        },
+        {
+          "file": "45_02855.015.jpg",
+          "timestamp_seconds": 2855.015,
+          "mean_value": 0.0632636696100235,
+          "mean_saturation": 0.03745675086975098,
+          "dark_fraction": 0.9885770631067962,
+          "bright_fraction": 0.002245145631067961,
+          "edge_fraction": 0.006826456310679611
+        },
+        {
+          "file": "46_02917.762.jpg",
+          "timestamp_seconds": 2917.762,
+          "mean_value": 0.3258373737335205,
+          "mean_saturation": 0.028426790609955788,
+          "dark_fraction": 0.667748786407767,
+          "bright_fraction": 0.24810376213592233,
+          "edge_fraction": 0.046450242718446604
+        },
+        {
+          "file": "47_02980.510.jpg",
+          "timestamp_seconds": 2980.51,
+          "mean_value": 0.33810946345329285,
+          "mean_saturation": 0.027440868318080902,
+          "dark_fraction": 0.6678549757281553,
+          "bright_fraction": 0.3007736650485437,
+          "edge_fraction": 0.040003033980582525
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-D02",
+      "id": "AV-CHINA-002",
+      "drive_id": "1A01BzommAVx79yDZIOmmI5WWzUq2AQ3z",
+      "filename": "【学マス】倉本千奈　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+      "class": "dear_compilation",
+      "role": "Dear 011-020 / N.I.A.",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-D02",
+      "sample_count": 48,
+      "mean_value": 0.6615637910241882,
+      "mean_saturation": 0.3237043695213894,
+      "mean_dark_fraction": 0.15311425465210354,
+      "mean_bright_fraction": 0.5161164416464401,
+      "mean_edge_fraction": 0.09179466272249191,
+      "mean_inter_sample_absolute_difference": 0.0673330476745329,
+      "frames": [
+        {
+          "file": "00_00028.239.jpg",
+          "timestamp_seconds": 28.239,
+          "mean_value": 0.666682243347168,
+          "mean_saturation": 0.33343327045440674,
+          "dark_fraction": 0.1271996359223301,
+          "bright_fraction": 0.49270327669902914,
+          "edge_fraction": 0.10986043689320388
+        },
+        {
+          "file": "01_00084.718.jpg",
+          "timestamp_seconds": 84.718,
+          "mean_value": 0.5953502058982849,
+          "mean_saturation": 0.31819990277290344,
+          "dark_fraction": 0.1304611650485437,
+          "bright_fraction": 0.3930370145631068,
+          "edge_fraction": 0.07352851941747574
+        },
+        {
+          "file": "02_00141.197.jpg",
+          "timestamp_seconds": 141.197,
+          "mean_value": 0.6681281924247742,
+          "mean_saturation": 0.33516931533813477,
+          "dark_fraction": 0.12742718446601942,
+          "bright_fraction": 0.49649575242718447,
+          "edge_fraction": 0.11054308252427185
+        },
+        {
+          "file": "03_00197.675.jpg",
+          "timestamp_seconds": 197.675,
+          "mean_value": 0.6666926145553589,
+          "mean_saturation": 0.32549503445625305,
+          "dark_fraction": 0.1274120145631068,
+          "bright_fraction": 0.4914593446601942,
+          "edge_fraction": 0.08369235436893203
+        },
+        {
+          "file": "04_00254.154.jpg",
+          "timestamp_seconds": 254.154,
+          "mean_value": 0.6708691120147705,
+          "mean_saturation": 0.3361462652683258,
+          "dark_fraction": 0.1275485436893204,
+          "bright_fraction": 0.5043234223300971,
+          "edge_fraction": 0.10691747572815534
+        },
+        {
+          "file": "05_00310.633.jpg",
+          "timestamp_seconds": 310.633,
+          "mean_value": 0.6446768641471863,
+          "mean_saturation": 0.3262937664985657,
+          "dark_fraction": 0.22305825242718447,
+          "bright_fraction": 0.5709041262135922,
+          "edge_fraction": 0.06483616504854368
+        },
+        {
+          "file": "06_00367.111.jpg",
+          "timestamp_seconds": 367.111,
+          "mean_value": 0.6654781699180603,
+          "mean_saturation": 0.32986220717430115,
+          "dark_fraction": 0.12753337378640778,
+          "bright_fraction": 0.49123179611650486,
+          "edge_fraction": 0.1092991504854369
+        },
+        {
+          "file": "07_00423.590.jpg",
+          "timestamp_seconds": 423.59,
+          "mean_value": 0.6648784875869751,
+          "mean_saturation": 0.33223414421081543,
+          "dark_fraction": 0.12716929611650485,
+          "bright_fraction": 0.48865291262135924,
+          "edge_fraction": 0.10804004854368932
+        },
+        {
+          "file": "08_00480.069.jpg",
+          "timestamp_seconds": 480.069,
+          "mean_value": 0.668266773223877,
+          "mean_saturation": 0.3383003771305084,
+          "dark_fraction": 0.12713895631067962,
+          "bright_fraction": 0.4981492718446602,
+          "edge_fraction": 0.10931432038834951
+        },
+        {
+          "file": "09_00536.547.jpg",
+          "timestamp_seconds": 536.547,
+          "mean_value": 0.7005099654197693,
+          "mean_saturation": 0.3413521349430084,
+          "dark_fraction": 0.12665351941747574,
+          "bright_fraction": 0.5641838592233009,
+          "edge_fraction": 0.11573118932038835
+        },
+        {
+          "file": "10_00593.026.jpg",
+          "timestamp_seconds": 593.026,
+          "mean_value": 0.7011045813560486,
+          "mean_saturation": 0.34378254413604736,
+          "dark_fraction": 0.1268507281553398,
+          "bright_fraction": 0.5665958737864077,
+          "edge_fraction": 0.11802184466019418
+        },
+        {
+          "file": "11_00649.505.jpg",
+          "timestamp_seconds": 649.505,
+          "mean_value": 0.6989244818687439,
+          "mean_saturation": 0.33818989992141724,
+          "dark_fraction": 0.12710861650485436,
+          "bright_fraction": 0.5620145631067961,
+          "edge_fraction": 0.11829490291262136
+        },
+        {
+          "file": "12_00705.983.jpg",
+          "timestamp_seconds": 705.983,
+          "mean_value": 0.7174424529075623,
+          "mean_saturation": 0.33796653151512146,
+          "dark_fraction": 0.1271996359223301,
+          "bright_fraction": 0.6096783980582524,
+          "edge_fraction": 0.09669296116504854
+        },
+        {
+          "file": "13_00762.462.jpg",
+          "timestamp_seconds": 762.462,
+          "mean_value": 0.6994695067405701,
+          "mean_saturation": 0.34423336386680603,
+          "dark_fraction": 0.12722997572815534,
+          "bright_fraction": 0.5636832524271844,
+          "edge_fraction": 0.12016080097087378
+        },
+        {
+          "file": "14_00818.941.jpg",
+          "timestamp_seconds": 818.941,
+          "mean_value": 0.6750518083572388,
+          "mean_saturation": 0.33694830536842346,
+          "dark_fraction": 0.12817050970873786,
+          "bright_fraction": 0.5145479368932039,
+          "edge_fraction": 0.09308252427184466
+        },
+        {
+          "file": "15_00875.419.jpg",
+          "timestamp_seconds": 875.419,
+          "mean_value": 0.6741779446601868,
+          "mean_saturation": 0.3190082907676697,
+          "dark_fraction": 0.12779126213592232,
+          "bright_fraction": 0.4986650485436893,
+          "edge_fraction": 0.0845115291262136
+        },
+        {
+          "file": "16_00931.898.jpg",
+          "timestamp_seconds": 931.898,
+          "mean_value": 0.6867122650146484,
+          "mean_saturation": 0.3588606119155884,
+          "dark_fraction": 0.1292020631067961,
+          "bright_fraction": 0.5254247572815534,
+          "edge_fraction": 0.084375
+        },
+        {
+          "file": "17_00988.377.jpg",
+          "timestamp_seconds": 988.377,
+          "mean_value": 0.6733754277229309,
+          "mean_saturation": 0.32595571875572205,
+          "dark_fraction": 0.12750303398058252,
+          "bright_fraction": 0.49980279126213595,
+          "edge_fraction": 0.08534587378640776
+        },
+        {
+          "file": "18_01044.855.jpg",
+          "timestamp_seconds": 1044.855,
+          "mean_value": 0.6693906784057617,
+          "mean_saturation": 0.34781166911125183,
+          "dark_fraction": 0.1279884708737864,
+          "bright_fraction": 0.5074484223300971,
+          "edge_fraction": 0.11632281553398058
+        },
+        {
+          "file": "19_01101.334.jpg",
+          "timestamp_seconds": 1101.334,
+          "mean_value": 0.6707743406295776,
+          "mean_saturation": 0.32137155532836914,
+          "dark_fraction": 0.13050667475728156,
+          "bright_fraction": 0.5229824029126213,
+          "edge_fraction": 0.10104672330097088
+        },
+        {
+          "file": "20_01157.813.jpg",
+          "timestamp_seconds": 1157.813,
+          "mean_value": 0.6702532172203064,
+          "mean_saturation": 0.31780025362968445,
+          "dark_fraction": 0.1313258495145631,
+          "bright_fraction": 0.5256826456310679,
+          "edge_fraction": 0.10279126213592232
+        },
+        {
+          "file": "21_01214.291.jpg",
+          "timestamp_seconds": 1214.291,
+          "mean_value": 0.6768130660057068,
+          "mean_saturation": 0.3332860767841339,
+          "dark_fraction": 0.12838288834951456,
+          "bright_fraction": 0.5265776699029127,
+          "edge_fraction": 0.08654429611650485
+        },
+        {
+          "file": "22_01270.770.jpg",
+          "timestamp_seconds": 1270.77,
+          "mean_value": 0.6802756786346436,
+          "mean_saturation": 0.3390420377254486,
+          "dark_fraction": 0.12848907766990292,
+          "bright_fraction": 0.5366504854368932,
+          "edge_fraction": 0.08854672330097087
+        },
+        {
+          "file": "23_01327.249.jpg",
+          "timestamp_seconds": 1327.249,
+          "mean_value": 0.6964104175567627,
+          "mean_saturation": 0.32377859950065613,
+          "dark_fraction": 0.12821601941747574,
+          "bright_fraction": 0.5859830097087378,
+          "edge_fraction": 0.0860133495145631
+        },
+        {
+          "file": "24_01383.727.jpg",
+          "timestamp_seconds": 1383.727,
+          "mean_value": 0.6760120987892151,
+          "mean_saturation": 0.3422788083553314,
+          "dark_fraction": 0.1273361650485437,
+          "bright_fraction": 0.5074029126213592,
+          "edge_fraction": 0.08645327669902912
+        },
+        {
+          "file": "25_01440.206.jpg",
+          "timestamp_seconds": 1440.206,
+          "mean_value": 0.7042378187179565,
+          "mean_saturation": 0.30810803174972534,
+          "dark_fraction": 0.1286104368932039,
+          "bright_fraction": 0.5982554611650486,
+          "edge_fraction": 0.07715412621359223
+        },
+        {
+          "file": "26_01496.685.jpg",
+          "timestamp_seconds": 1496.685,
+          "mean_value": 0.7106881737709045,
+          "mean_saturation": 0.333465576171875,
+          "dark_fraction": 0.12838288834951456,
+          "bright_fraction": 0.602442354368932,
+          "edge_fraction": 0.07560679611650485
+        },
+        {
+          "file": "27_01553.163.jpg",
+          "timestamp_seconds": 1553.163,
+          "mean_value": 0.6977522373199463,
+          "mean_saturation": 0.3186087906360626,
+          "dark_fraction": 0.12716929611650485,
+          "bright_fraction": 0.5779277912621359,
+          "edge_fraction": 0.08287317961165049
+        },
+        {
+          "file": "28_01609.642.jpg",
+          "timestamp_seconds": 1609.642,
+          "mean_value": 0.6954696774482727,
+          "mean_saturation": 0.3100481927394867,
+          "dark_fraction": 0.12689623786407767,
+          "bright_fraction": 0.5757433252427184,
+          "edge_fraction": 0.07794296116504855
+        },
+        {
+          "file": "29_01666.121.jpg",
+          "timestamp_seconds": 1666.121,
+          "mean_value": 0.6949470043182373,
+          "mean_saturation": 0.31161025166511536,
+          "dark_fraction": 0.1272603155339806,
+          "bright_fraction": 0.5732099514563107,
+          "edge_fraction": 0.0794751213592233
+        },
+        {
+          "file": "30_01722.599.jpg",
+          "timestamp_seconds": 1722.599,
+          "mean_value": 0.663429856300354,
+          "mean_saturation": 0.33933642506599426,
+          "dark_fraction": 0.12738167475728154,
+          "bright_fraction": 0.4972997572815534,
+          "edge_fraction": 0.1019872572815534
+        },
+        {
+          "file": "31_01779.078.jpg",
+          "timestamp_seconds": 1779.078,
+          "mean_value": 0.6620103120803833,
+          "mean_saturation": 0.3344811797142029,
+          "dark_fraction": 0.1271996359223301,
+          "bright_fraction": 0.49255157766990293,
+          "edge_fraction": 0.09863470873786408
+        },
+        {
+          "file": "32_01835.557.jpg",
+          "timestamp_seconds": 1835.557,
+          "mean_value": 0.6629145741462708,
+          "mean_saturation": 0.33584752678871155,
+          "dark_fraction": 0.1271996359223301,
+          "bright_fraction": 0.49376516990291264,
+          "edge_fraction": 0.10415655339805825
+        },
+        {
+          "file": "33_01892.035.jpg",
+          "timestamp_seconds": 1892.035,
+          "mean_value": 0.6628873348236084,
+          "mean_saturation": 0.3438933491706848,
+          "dark_fraction": 0.127563713592233,
+          "bright_fraction": 0.4889108009708738,
+          "edge_fraction": 0.084375
+        },
+        {
+          "file": "34_01948.514.jpg",
+          "timestamp_seconds": 1948.514,
+          "mean_value": 0.6676099300384521,
+          "mean_saturation": 0.3290713429450989,
+          "dark_fraction": 0.1272754854368932,
+          "bright_fraction": 0.4945995145631068,
+          "edge_fraction": 0.10587075242718447
+        },
+        {
+          "file": "35_02004.993.jpg",
+          "timestamp_seconds": 2004.993,
+          "mean_value": 0.66807621717453,
+          "mean_saturation": 0.33289778232574463,
+          "dark_fraction": 0.12704793689320387,
+          "bright_fraction": 0.49541868932038835,
+          "edge_fraction": 0.11069478155339806
+        },
+        {
+          "file": "36_02061.471.jpg",
+          "timestamp_seconds": 2061.471,
+          "mean_value": 0.7091453075408936,
+          "mean_saturation": 0.30741921067237854,
+          "dark_fraction": 0.1275485436893204,
+          "bright_fraction": 0.6034739077669903,
+          "edge_fraction": 0.0845115291262136
+        },
+        {
+          "file": "37_02117.950.jpg",
+          "timestamp_seconds": 2117.95,
+          "mean_value": 0.7162418961524963,
+          "mean_saturation": 0.29924309253692627,
+          "dark_fraction": 0.1271996359223301,
+          "bright_fraction": 0.6225879854368932,
+          "edge_fraction": 0.0819629854368932
+        },
+        {
+          "file": "38_02174.429.jpg",
+          "timestamp_seconds": 2174.429,
+          "mean_value": 0.6848727464675903,
+          "mean_saturation": 0.33016064763069153,
+          "dark_fraction": 0.12721480582524272,
+          "bright_fraction": 0.535816140776699,
+          "edge_fraction": 0.08633191747572816
+        },
+        {
+          "file": "39_02230.907.jpg",
+          "timestamp_seconds": 2230.907,
+          "mean_value": 0.6976176500320435,
+          "mean_saturation": 0.31889277696609497,
+          "dark_fraction": 0.1274726941747573,
+          "bright_fraction": 0.5760922330097087,
+          "edge_fraction": 0.08351031553398058
+        },
+        {
+          "file": "40_02287.386.jpg",
+          "timestamp_seconds": 2287.386,
+          "mean_value": 0.6933159828186035,
+          "mean_saturation": 0.3124740719795227,
+          "dark_fraction": 0.12686589805825244,
+          "bright_fraction": 0.5696753640776699,
+          "edge_fraction": 0.07959648058252428
+        },
+        {
+          "file": "41_02343.865.jpg",
+          "timestamp_seconds": 2343.865,
+          "mean_value": 0.6987290382385254,
+          "mean_saturation": 0.32106903195381165,
+          "dark_fraction": 0.1268507281553398,
+          "bright_fraction": 0.5794599514563107,
+          "edge_fraction": 0.08332827669902913
+        },
+        {
+          "file": "42_02400.343.jpg",
+          "timestamp_seconds": 2400.343,
+          "mean_value": 0.6956259608268738,
+          "mean_saturation": 0.30790334939956665,
+          "dark_fraction": 0.12704793689320387,
+          "bright_fraction": 0.5750606796116505,
+          "edge_fraction": 0.07707827669902913
+        },
+        {
+          "file": "43_02456.822.jpg",
+          "timestamp_seconds": 2456.822,
+          "mean_value": 0.696799635887146,
+          "mean_saturation": 0.3207975924015045,
+          "dark_fraction": 0.1269872572815534,
+          "bright_fraction": 0.5736498786407767,
+          "edge_fraction": 0.08396541262135922
+        },
+        {
+          "file": "44_02513.301.jpg",
+          "timestamp_seconds": 2513.301,
+          "mean_value": 0.694696843624115,
+          "mean_saturation": 0.3129236400127411,
+          "dark_fraction": 0.127123786407767,
+          "bright_fraction": 0.5723907766990292,
+          "edge_fraction": 0.07864077669902912
+        },
+        {
+          "file": "45_02569.779.jpg",
+          "timestamp_seconds": 2569.779,
+          "mean_value": 0.23072554171085358,
+          "mean_saturation": 0.0795038640499115,
+          "dark_fraction": 0.6976334951456311,
+          "bright_fraction": 0.15612864077669902,
+          "edge_fraction": 0.07148058252427185
+        },
+        {
+          "file": "46_02626.258.jpg",
+          "timestamp_seconds": 2626.258,
+          "mean_value": 0.2151576578617096,
+          "mean_saturation": 0.11441884189844131,
+          "dark_fraction": 0.6738622572815534,
+          "bright_fraction": 0.09422026699029126,
+          "edge_fraction": 0.10138046116504855
+        },
+        {
+          "file": "47_02682.737.jpg",
+          "timestamp_seconds": 2682.737,
+          "mean_value": 0.6543899774551392,
+          "mean_saturation": 0.5688344836235046,
+          "dark_fraction": 0.1367870145631068,
+          "bright_fraction": 0.38062803398058254,
+          "edge_fraction": 0.03561893203883495
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-D03",
+      "id": "AV-CHINA-003",
+      "drive_id": "1smRVO5UvSeYn1lYmSXnaNWTE_nPhJPFC",
+      "filename": "【学マス】倉本千奈  親愛度コミュ21～27話まとめ【STEP3】-(480p30).mp4",
+      "class": "dear_compilation",
+      "role": "Dear 021-027 / STEP3 election",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-D03",
+      "sample_count": 48,
+      "mean_value": 0.6186338185022274,
+      "mean_saturation": 0.2974618279840797,
+      "mean_dark_fraction": 0.13057778367718445,
+      "mean_bright_fraction": 0.36561741504854367,
+      "mean_edge_fraction": 0.16236157463592235,
+      "mean_inter_sample_absolute_difference": 0.09469594893620369,
+      "frames": [
+        {
+          "file": "00_00030.709.jpg",
+          "timestamp_seconds": 30.709,
+          "mean_value": 0.6502220034599304,
+          "mean_saturation": 0.2709122598171234,
+          "dark_fraction": 0.12287621359223301,
+          "bright_fraction": 0.41457827669902914,
+          "edge_fraction": 0.16304611650485437
+        },
+        {
+          "file": "01_00092.126.jpg",
+          "timestamp_seconds": 92.126,
+          "mean_value": 0.5997298955917358,
+          "mean_saturation": 0.28274980187416077,
+          "dark_fraction": 0.1230127427184466,
+          "bright_fraction": 0.3117263349514563,
+          "edge_fraction": 0.1811134708737864
+        },
+        {
+          "file": "02_00153.543.jpg",
+          "timestamp_seconds": 153.543,
+          "mean_value": 0.5965722799301147,
+          "mean_saturation": 0.2720585763454437,
+          "dark_fraction": 0.12257281553398058,
+          "bright_fraction": 0.3005006067961165,
+          "edge_fraction": 0.18642293689320388
+        },
+        {
+          "file": "03_00214.960.jpg",
+          "timestamp_seconds": 214.96,
+          "mean_value": 0.6011077165603638,
+          "mean_saturation": 0.2852148711681366,
+          "dark_fraction": 0.12240594660194175,
+          "bright_fraction": 0.31394114077669905,
+          "edge_fraction": 0.1820388349514563
+        },
+        {
+          "file": "04_00276.378.jpg",
+          "timestamp_seconds": 276.378,
+          "mean_value": 0.5948688983917236,
+          "mean_saturation": 0.27520275115966797,
+          "dark_fraction": 0.12245145631067961,
+          "bright_fraction": 0.2995752427184466,
+          "edge_fraction": 0.1837985436893204
+        },
+        {
+          "file": "05_00337.795.jpg",
+          "timestamp_seconds": 337.795,
+          "mean_value": 0.596672534942627,
+          "mean_saturation": 0.2875393331050873,
+          "dark_fraction": 0.12264866504854369,
+          "bright_fraction": 0.30508191747572816,
+          "edge_fraction": 0.18407160194174757
+        },
+        {
+          "file": "06_00399.212.jpg",
+          "timestamp_seconds": 399.212,
+          "mean_value": 0.6379148960113525,
+          "mean_saturation": 0.26666098833084106,
+          "dark_fraction": 0.12264866504854369,
+          "bright_fraction": 0.38575546116504855,
+          "edge_fraction": 0.15920813106796117
+        },
+        {
+          "file": "07_00460.629.jpg",
+          "timestamp_seconds": 460.629,
+          "mean_value": 0.6085571050643921,
+          "mean_saturation": 0.2911006510257721,
+          "dark_fraction": 0.12452973300970874,
+          "bright_fraction": 0.3616504854368932,
+          "edge_fraction": 0.1652609223300971
+        },
+        {
+          "file": "08_00522.047.jpg",
+          "timestamp_seconds": 522.047,
+          "mean_value": 0.6344454288482666,
+          "mean_saturation": 0.30579671263694763,
+          "dark_fraction": 0.12236043689320389,
+          "bright_fraction": 0.38496662621359223,
+          "edge_fraction": 0.16479065533980583
+        },
+        {
+          "file": "09_00583.464.jpg",
+          "timestamp_seconds": 583.464,
+          "mean_value": 0.6411932706832886,
+          "mean_saturation": 0.30099859833717346,
+          "dark_fraction": 0.12263349514563107,
+          "bright_fraction": 0.41395631067961164,
+          "edge_fraction": 0.1730734223300971
+        },
+        {
+          "file": "10_00644.881.jpg",
+          "timestamp_seconds": 644.881,
+          "mean_value": 0.6042325496673584,
+          "mean_saturation": 0.29175126552581787,
+          "dark_fraction": 0.12595570388349514,
+          "bright_fraction": 0.35147148058252425,
+          "edge_fraction": 0.16777912621359223
+        },
+        {
+          "file": "11_00706.299.jpg",
+          "timestamp_seconds": 706.299,
+          "mean_value": 0.6252771019935608,
+          "mean_saturation": 0.3371621072292328,
+          "dark_fraction": 0.12286104368932038,
+          "bright_fraction": 0.3691595873786408,
+          "edge_fraction": 0.1744235436893204
+        },
+        {
+          "file": "12_00767.716.jpg",
+          "timestamp_seconds": 767.716,
+          "mean_value": 0.5983819365501404,
+          "mean_saturation": 0.2842678725719452,
+          "dark_fraction": 0.1229368932038835,
+          "bright_fraction": 0.3069781553398058,
+          "edge_fraction": 0.18178094660194175
+        },
+        {
+          "file": "13_00829.133.jpg",
+          "timestamp_seconds": 829.133,
+          "mean_value": 0.599001407623291,
+          "mean_saturation": 0.2813481390476227,
+          "dark_fraction": 0.12283070388349515,
+          "bright_fraction": 0.30549150485436893,
+          "edge_fraction": 0.1831614077669903
+        },
+        {
+          "file": "14_00890.550.jpg",
+          "timestamp_seconds": 890.55,
+          "mean_value": 0.5997517108917236,
+          "mean_saturation": 0.27793508768081665,
+          "dark_fraction": 0.12261832524271844,
+          "bright_fraction": 0.30556735436893206,
+          "edge_fraction": 0.18432949029126214
+        },
+        {
+          "file": "15_00951.968.jpg",
+          "timestamp_seconds": 951.968,
+          "mean_value": 0.6051296591758728,
+          "mean_saturation": 0.3271709084510803,
+          "dark_fraction": 0.12401395631067962,
+          "bright_fraction": 0.35444478155339804,
+          "edge_fraction": 0.16611043689320387
+        },
+        {
+          "file": "16_01013.385.jpg",
+          "timestamp_seconds": 1013.385,
+          "mean_value": 0.6015679836273193,
+          "mean_saturation": 0.28889018297195435,
+          "dark_fraction": 0.12245145631067961,
+          "bright_fraction": 0.31494235436893203,
+          "edge_fraction": 0.1814016990291262
+        },
+        {
+          "file": "17_01074.802.jpg",
+          "timestamp_seconds": 1074.802,
+          "mean_value": 0.598657488822937,
+          "mean_saturation": 0.2869572937488556,
+          "dark_fraction": 0.12273968446601942,
+          "bright_fraction": 0.3091777912621359,
+          "edge_fraction": 0.18250910194174758
+        },
+        {
+          "file": "18_01136.219.jpg",
+          "timestamp_seconds": 1136.219,
+          "mean_value": 0.5918159484863281,
+          "mean_saturation": 0.2824089527130127,
+          "dark_fraction": 0.12260315533980583,
+          "bright_fraction": 0.29925667475728157,
+          "edge_fraction": 0.17930825242718446
+        },
+        {
+          "file": "19_01197.637.jpg",
+          "timestamp_seconds": 1197.637,
+          "mean_value": 0.5962214469909668,
+          "mean_saturation": 0.2812378704547882,
+          "dark_fraction": 0.12264866504854369,
+          "bright_fraction": 0.30295813106796116,
+          "edge_fraction": 0.18138652912621359
+        },
+        {
+          "file": "20_01259.054.jpg",
+          "timestamp_seconds": 1259.054,
+          "mean_value": 0.6456653475761414,
+          "mean_saturation": 0.2957276999950409,
+          "dark_fraction": 0.12243628640776699,
+          "bright_fraction": 0.4116656553398058,
+          "edge_fraction": 0.17871662621359224
+        },
+        {
+          "file": "21_01320.471.jpg",
+          "timestamp_seconds": 1320.471,
+          "mean_value": 0.6473182439804077,
+          "mean_saturation": 0.3089650571346283,
+          "dark_fraction": 0.12267900485436893,
+          "bright_fraction": 0.39217233009708735,
+          "edge_fraction": 0.1828125
+        },
+        {
+          "file": "22_01381.888.jpg",
+          "timestamp_seconds": 1381.888,
+          "mean_value": 0.5264289379119873,
+          "mean_saturation": 0.29135245084762573,
+          "dark_fraction": 0.19435679611650486,
+          "bright_fraction": 0.2788379854368932,
+          "edge_fraction": 0.15200242718446602
+        },
+        {
+          "file": "23_01443.306.jpg",
+          "timestamp_seconds": 1443.306,
+          "mean_value": 0.5786135196685791,
+          "mean_saturation": 0.27555179595947266,
+          "dark_fraction": 0.12369538834951456,
+          "bright_fraction": 0.27383191747572816,
+          "edge_fraction": 0.16061893203883496
+        },
+        {
+          "file": "24_01504.723.jpg",
+          "timestamp_seconds": 1504.723,
+          "mean_value": 0.6349674463272095,
+          "mean_saturation": 0.47637370228767395,
+          "dark_fraction": 0.12307342233009709,
+          "bright_fraction": 0.3683859223300971,
+          "edge_fraction": 0.1533980582524272
+        },
+        {
+          "file": "25_01566.140.jpg",
+          "timestamp_seconds": 1566.14,
+          "mean_value": 0.6345645189285278,
+          "mean_saturation": 0.4274943768978119,
+          "dark_fraction": 0.12263349514563107,
+          "bright_fraction": 0.3759405339805825,
+          "edge_fraction": 0.15465716019417475
+        },
+        {
+          "file": "26_01627.557.jpg",
+          "timestamp_seconds": 1627.557,
+          "mean_value": 0.632794201374054,
+          "mean_saturation": 0.4795052111148834,
+          "dark_fraction": 0.12351334951456311,
+          "bright_fraction": 0.3630764563106796,
+          "edge_fraction": 0.15386832524271846
+        },
+        {
+          "file": "27_01688.975.jpg",
+          "timestamp_seconds": 1688.975,
+          "mean_value": 0.6030645966529846,
+          "mean_saturation": 0.3056999146938324,
+          "dark_fraction": 0.12331614077669903,
+          "bright_fraction": 0.3479672330097087,
+          "edge_fraction": 0.17906553398058253
+        },
+        {
+          "file": "28_01750.392.jpg",
+          "timestamp_seconds": 1750.392,
+          "mean_value": 0.6423348784446716,
+          "mean_saturation": 0.32088926434516907,
+          "dark_fraction": 0.1231492718446602,
+          "bright_fraction": 0.41410800970873785,
+          "edge_fraction": 0.17135922330097086
+        },
+        {
+          "file": "29_01811.809.jpg",
+          "timestamp_seconds": 1811.809,
+          "mean_value": 0.6342698931694031,
+          "mean_saturation": 0.32849645614624023,
+          "dark_fraction": 0.12298240291262136,
+          "bright_fraction": 0.38317657766990293,
+          "edge_fraction": 0.1693264563106796
+        },
+        {
+          "file": "30_01873.227.jpg",
+          "timestamp_seconds": 1873.227,
+          "mean_value": 0.6586816906929016,
+          "mean_saturation": 0.2806176543235779,
+          "dark_fraction": 0.12472694174757282,
+          "bright_fraction": 0.4607706310679612,
+          "edge_fraction": 0.16436589805825244
+        },
+        {
+          "file": "31_01934.644.jpg",
+          "timestamp_seconds": 1934.644,
+          "mean_value": 0.6164183616638184,
+          "mean_saturation": 0.3104669451713562,
+          "dark_fraction": 0.12431735436893204,
+          "bright_fraction": 0.34868021844660196,
+          "edge_fraction": 0.18534587378640777
+        },
+        {
+          "file": "32_01996.061.jpg",
+          "timestamp_seconds": 1996.061,
+          "mean_value": 0.563077449798584,
+          "mean_saturation": 0.3309606909751892,
+          "dark_fraction": 0.1319023058252427,
+          "bright_fraction": 0.2465260922330097,
+          "edge_fraction": 0.16884101941747573
+        },
+        {
+          "file": "33_02057.478.jpg",
+          "timestamp_seconds": 2057.478,
+          "mean_value": 0.618772029876709,
+          "mean_saturation": 0.3079935312271118,
+          "dark_fraction": 0.12415048543689321,
+          "bright_fraction": 0.35406553398058255,
+          "edge_fraction": 0.18184162621359223
+        },
+        {
+          "file": "34_02118.896.jpg",
+          "timestamp_seconds": 2118.896,
+          "mean_value": 0.5770192742347717,
+          "mean_saturation": 0.3008234202861786,
+          "dark_fraction": 0.12481796116504855,
+          "bright_fraction": 0.2664745145631068,
+          "edge_fraction": 0.16145327669902912
+        },
+        {
+          "file": "35_02180.313.jpg",
+          "timestamp_seconds": 2180.313,
+          "mean_value": 0.6588606834411621,
+          "mean_saturation": 0.2692045569419861,
+          "dark_fraction": 0.12289138349514563,
+          "bright_fraction": 0.45605279126213594,
+          "edge_fraction": 0.16066444174757283
+        },
+        {
+          "file": "36_02241.730.jpg",
+          "timestamp_seconds": 2241.73,
+          "mean_value": 0.6068592071533203,
+          "mean_saturation": 0.31924763321876526,
+          "dark_fraction": 0.1230127427184466,
+          "bright_fraction": 0.322314927184466,
+          "edge_fraction": 0.1759253640776699
+        },
+        {
+          "file": "37_02303.147.jpg",
+          "timestamp_seconds": 2303.147,
+          "mean_value": 0.6345456838607788,
+          "mean_saturation": 0.3072998821735382,
+          "dark_fraction": 0.12445388349514563,
+          "bright_fraction": 0.3848907766990291,
+          "edge_fraction": 0.16673240291262137
+        },
+        {
+          "file": "38_02364.565.jpg",
+          "timestamp_seconds": 2364.565,
+          "mean_value": 0.3665910065174103,
+          "mean_saturation": 0.3389004170894623,
+          "dark_fraction": 0.39293082524271844,
+          "bright_fraction": 0.14952973300970873,
+          "edge_fraction": 0.0426122572815534
+        },
+        {
+          "file": "39_02425.982.jpg",
+          "timestamp_seconds": 2425.982,
+          "mean_value": 0.5731322169303894,
+          "mean_saturation": 0.34074869751930237,
+          "dark_fraction": 0.12255764563106795,
+          "bright_fraction": 0.27110133495145633,
+          "edge_fraction": 0.18401092233009708
+        },
+        {
+          "file": "40_02487.399.jpg",
+          "timestamp_seconds": 2487.399,
+          "mean_value": 0.5923895239830017,
+          "mean_saturation": 0.282217800617218,
+          "dark_fraction": 0.12554611650485437,
+          "bright_fraction": 0.318628640776699,
+          "edge_fraction": 0.18162924757281554
+        },
+        {
+          "file": "41_02548.816.jpg",
+          "timestamp_seconds": 2548.816,
+          "mean_value": 0.6584323644638062,
+          "mean_saturation": 0.27025216817855835,
+          "dark_fraction": 0.12351334951456311,
+          "bright_fraction": 0.44378033980582526,
+          "edge_fraction": 0.1752123786407767
+        },
+        {
+          "file": "42_02610.234.jpg",
+          "timestamp_seconds": 2610.234,
+          "mean_value": 0.593839704990387,
+          "mean_saturation": 0.2921484112739563,
+          "dark_fraction": 0.12254247572815534,
+          "bright_fraction": 0.28329793689320387,
+          "edge_fraction": 0.15957220873786407
+        },
+        {
+          "file": "43_02671.651.jpg",
+          "timestamp_seconds": 2671.651,
+          "mean_value": 0.5738763809204102,
+          "mean_saturation": 0.2845655381679535,
+          "dark_fraction": 0.12290655339805825,
+          "bright_fraction": 0.26706614077669905,
+          "edge_fraction": 0.1636984223300971
+        },
+        {
+          "file": "44_02733.068.jpg",
+          "timestamp_seconds": 2733.068,
+          "mean_value": 0.6793702244758606,
+          "mean_saturation": 0.28222376108169556,
+          "dark_fraction": 0.12264866504854369,
+          "bright_fraction": 0.4929611650485437,
+          "edge_fraction": 0.16253033980582524
+        },
+        {
+          "file": "45_02794.486.jpg",
+          "timestamp_seconds": 2794.486,
+          "mean_value": 0.7994627952575684,
+          "mean_saturation": 0.07264450192451477,
+          "dark_fraction": 0.12138956310679612,
+          "bright_fraction": 0.7221328883495146,
+          "edge_fraction": 0.10327669902912621
+        },
+        {
+          "file": "46_02855.903.jpg",
+          "timestamp_seconds": 2855.903,
+          "mean_value": 0.6917126178741455,
+          "mean_saturation": 0.3694991171360016,
+          "dark_fraction": 0.13035497572815535,
+          "bright_fraction": 0.5656856796116505,
+          "edge_fraction": 0.06381978155339806
+        },
+        {
+          "file": "47_02917.320.jpg",
+          "timestamp_seconds": 2917.32,
+          "mean_value": 0.8700392246246338,
+          "mean_saturation": 0.03093286231160164,
+          "dark_fraction": 0.12143507281553398,
+          "bright_fraction": 0.8753337378640776,
+          "edge_fraction": 0.010983009708737864
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-D04",
+      "id": "AV-CHINA-004",
+      "drive_id": "1BP3QbrYCASrYDsGVLESp7NVPo6aJHIc2",
+      "filename": "【学マス】 倉本千奈 親愛度コミュ28～37話まとめ【H.I.F編】【STEP4】-(480p30).mp4",
+      "class": "dear_compilation",
+      "role": "Dear 028-037 / STEP4 H.I.F.",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-D04",
+      "sample_count": 48,
+      "mean_value": 0.6290501444988573,
+      "mean_saturation": 0.4754934298495452,
+      "mean_dark_fraction": 0.18330172936893205,
+      "mean_bright_fraction": 0.4524470949635922,
+      "mean_edge_fraction": 0.11606650738268609,
+      "mean_inter_sample_absolute_difference": 0.08072917992645438,
+      "frames": [
+        {
+          "file": "00_00041.924.jpg",
+          "timestamp_seconds": 41.924,
+          "mean_value": 0.6737165451049805,
+          "mean_saturation": 0.4537244141101837,
+          "dark_fraction": 0.12176881067961165,
+          "bright_fraction": 0.4742870145631068,
+          "edge_fraction": 0.1340867718446602
+        },
+        {
+          "file": "01_00125.772.jpg",
+          "timestamp_seconds": 125.772,
+          "mean_value": 0.6778457164764404,
+          "mean_saturation": 0.45767301321029663,
+          "dark_fraction": 0.1217991504854369,
+          "bright_fraction": 0.4803398058252427,
+          "edge_fraction": 0.13357099514563106
+        },
+        {
+          "file": "02_00209.619.jpg",
+          "timestamp_seconds": 209.619,
+          "mean_value": 0.6817446947097778,
+          "mean_saturation": 0.45311543345451355,
+          "dark_fraction": 0.12155643203883496,
+          "bright_fraction": 0.48713592233009706,
+          "edge_fraction": 0.12290655339805825
+        },
+        {
+          "file": "03_00293.467.jpg",
+          "timestamp_seconds": 293.467,
+          "mean_value": 0.7813071012496948,
+          "mean_saturation": 0.37584388256073,
+          "dark_fraction": 0.12176881067961165,
+          "bright_fraction": 0.6963895631067961,
+          "edge_fraction": 0.07674453883495146
+        },
+        {
+          "file": "04_00377.315.jpg",
+          "timestamp_seconds": 377.315,
+          "mean_value": 0.7294511795043945,
+          "mean_saturation": 0.40165823698043823,
+          "dark_fraction": 0.1219508495145631,
+          "bright_fraction": 0.5887742718446602,
+          "edge_fraction": 0.09547936893203883
+        },
+        {
+          "file": "05_00461.163.jpg",
+          "timestamp_seconds": 461.163,
+          "mean_value": 0.6806764602661133,
+          "mean_saturation": 0.44597741961479187,
+          "dark_fraction": 0.12201152912621359,
+          "bright_fraction": 0.48715109223300973,
+          "edge_fraction": 0.11875
+        },
+        {
+          "file": "06_00545.010.jpg",
+          "timestamp_seconds": 545.01,
+          "mean_value": 0.6713664531707764,
+          "mean_saturation": 0.45161956548690796,
+          "dark_fraction": 0.12169296116504855,
+          "bright_fraction": 0.4669599514563107,
+          "edge_fraction": 0.1289745145631068
+        },
+        {
+          "file": "07_00628.858.jpg",
+          "timestamp_seconds": 628.858,
+          "mean_value": 0.6790806651115417,
+          "mean_saturation": 0.4478401243686676,
+          "dark_fraction": 0.12157160194174757,
+          "bright_fraction": 0.48278216019417475,
+          "edge_fraction": 0.12190533980582524
+        },
+        {
+          "file": "08_00712.706.jpg",
+          "timestamp_seconds": 712.706,
+          "mean_value": 0.6742939949035645,
+          "mean_saturation": 0.4558725953102112,
+          "dark_fraction": 0.12217839805825242,
+          "bright_fraction": 0.47653216019417477,
+          "edge_fraction": 0.13495145631067962
+        },
+        {
+          "file": "09_00796.554.jpg",
+          "timestamp_seconds": 796.554,
+          "mean_value": 0.6744986772537231,
+          "mean_saturation": 0.452111154794693,
+          "dark_fraction": 0.12178398058252426,
+          "bright_fraction": 0.47766990291262135,
+          "edge_fraction": 0.11818871359223301
+        },
+        {
+          "file": "10_00880.401.jpg",
+          "timestamp_seconds": 880.401,
+          "mean_value": 0.676563560962677,
+          "mean_saturation": 0.4568045437335968,
+          "dark_fraction": 0.1219508495145631,
+          "bright_fraction": 0.4773361650485437,
+          "edge_fraction": 0.13645327669902912
+        },
+        {
+          "file": "11_00964.249.jpg",
+          "timestamp_seconds": 964.249,
+          "mean_value": 0.6956385374069214,
+          "mean_saturation": 0.4381486773490906,
+          "dark_fraction": 0.12170813106796116,
+          "bright_fraction": 0.5104520631067961,
+          "edge_fraction": 0.13332827669902914
+        },
+        {
+          "file": "12_01048.097.jpg",
+          "timestamp_seconds": 1048.097,
+          "mean_value": 0.696395754814148,
+          "mean_saturation": 0.4401901960372925,
+          "dark_fraction": 0.12198118932038834,
+          "bright_fraction": 0.5138046116504854,
+          "edge_fraction": 0.1326001213592233
+        },
+        {
+          "file": "13_01131.944.jpg",
+          "timestamp_seconds": 1131.944,
+          "mean_value": 0.7024698853492737,
+          "mean_saturation": 0.44200968742370605,
+          "dark_fraction": 0.1217384708737864,
+          "bright_fraction": 0.5291110436893204,
+          "edge_fraction": 0.12148058252427184
+        },
+        {
+          "file": "14_01215.792.jpg",
+          "timestamp_seconds": 1215.792,
+          "mean_value": 0.6672843098640442,
+          "mean_saturation": 0.4964068531990051,
+          "dark_fraction": 0.12836771844660194,
+          "bright_fraction": 0.4798847087378641,
+          "edge_fraction": 0.127563713592233
+        },
+        {
+          "file": "15_01299.640.jpg",
+          "timestamp_seconds": 1299.64,
+          "mean_value": 0.708465576171875,
+          "mean_saturation": 0.49835553765296936,
+          "dark_fraction": 0.12172330097087379,
+          "bright_fraction": 0.5416868932038835,
+          "edge_fraction": 0.13050667475728156
+        },
+        {
+          "file": "16_01383.488.jpg",
+          "timestamp_seconds": 1383.488,
+          "mean_value": 0.707973062992096,
+          "mean_saturation": 0.504472553730011,
+          "dark_fraction": 0.12176881067961165,
+          "bright_fraction": 0.5420813106796116,
+          "edge_fraction": 0.12945995145631067
+        },
+        {
+          "file": "17_01467.335.jpg",
+          "timestamp_seconds": 1467.335,
+          "mean_value": 0.7049607634544373,
+          "mean_saturation": 0.49011287093162537,
+          "dark_fraction": 0.1223756067961165,
+          "bright_fraction": 0.5613319174757282,
+          "edge_fraction": 0.1273968446601942
+        },
+        {
+          "file": "18_01551.183.jpg",
+          "timestamp_seconds": 1551.183,
+          "mean_value": 0.6405455470085144,
+          "mean_saturation": 0.49727481603622437,
+          "dark_fraction": 0.1429004854368932,
+          "bright_fraction": 0.4132129854368932,
+          "edge_fraction": 0.1288379854368932
+        },
+        {
+          "file": "19_01635.031.jpg",
+          "timestamp_seconds": 1635.031,
+          "mean_value": 0.7009204030036926,
+          "mean_saturation": 0.47157755494117737,
+          "dark_fraction": 0.12768507281553398,
+          "bright_fraction": 0.5468446601941748,
+          "edge_fraction": 0.12185983009708738
+        },
+        {
+          "file": "20_01718.879.jpg",
+          "timestamp_seconds": 1718.879,
+          "mean_value": 0.583220899105072,
+          "mean_saturation": 0.45700791478157043,
+          "dark_fraction": 0.2370752427184466,
+          "bright_fraction": 0.42495449029126214,
+          "edge_fraction": 0.11923543689320389
+        },
+        {
+          "file": "21_01802.726.jpg",
+          "timestamp_seconds": 1802.726,
+          "mean_value": 0.5833407640457153,
+          "mean_saturation": 0.4613012671470642,
+          "dark_fraction": 0.23739381067961166,
+          "bright_fraction": 0.4263804611650485,
+          "edge_fraction": 0.11932645631067962
+        },
+        {
+          "file": "22_01886.574.jpg",
+          "timestamp_seconds": 1886.574,
+          "mean_value": 0.5831810832023621,
+          "mean_saturation": 0.4586397707462311,
+          "dark_fraction": 0.23759101941747574,
+          "bright_fraction": 0.42568264563106795,
+          "edge_fraction": 0.12050970873786408
+        },
+        {
+          "file": "23_01970.422.jpg",
+          "timestamp_seconds": 1970.422,
+          "mean_value": 0.6748713850975037,
+          "mean_saturation": 0.496952086687088,
+          "dark_fraction": 0.1217991504854369,
+          "bright_fraction": 0.4706007281553398,
+          "edge_fraction": 0.12272451456310679
+        },
+        {
+          "file": "24_02054.270.jpg",
+          "timestamp_seconds": 2054.27,
+          "mean_value": 0.6698415875434875,
+          "mean_saturation": 0.5010637044906616,
+          "dark_fraction": 0.12193567961165049,
+          "bright_fraction": 0.4523361650485437,
+          "edge_fraction": 0.14206614077669902
+        },
+        {
+          "file": "25_02138.117.jpg",
+          "timestamp_seconds": 2138.117,
+          "mean_value": 0.6529667377471924,
+          "mean_saturation": 0.4908350706100464,
+          "dark_fraction": 0.12672936893203884,
+          "bright_fraction": 0.42885315533980584,
+          "edge_fraction": 0.11973604368932039
+        },
+        {
+          "file": "26_02221.965.jpg",
+          "timestamp_seconds": 2221.965,
+          "mean_value": 0.5487725734710693,
+          "mean_saturation": 0.5449079871177673,
+          "dark_fraction": 0.25459648058252426,
+          "bright_fraction": 0.3918082524271845,
+          "edge_fraction": 0.11110436893203883
+        },
+        {
+          "file": "27_02305.813.jpg",
+          "timestamp_seconds": 2305.813,
+          "mean_value": 0.5484525561332703,
+          "mean_saturation": 0.5474595427513123,
+          "dark_fraction": 0.2529884708737864,
+          "bright_fraction": 0.3899726941747573,
+          "edge_fraction": 0.11494235436893203
+        },
+        {
+          "file": "28_02389.661.jpg",
+          "timestamp_seconds": 2389.661,
+          "mean_value": 0.5466560125350952,
+          "mean_saturation": 0.5452131628990173,
+          "dark_fraction": 0.25459648058252426,
+          "bright_fraction": 0.3877882281553398,
+          "edge_fraction": 0.1162621359223301
+        },
+        {
+          "file": "29_02473.508.jpg",
+          "timestamp_seconds": 2473.508,
+          "mean_value": 0.6681289672851562,
+          "mean_saturation": 0.44975852966308594,
+          "dark_fraction": 0.12210254854368932,
+          "bright_fraction": 0.46075546116504856,
+          "edge_fraction": 0.138061286407767
+        },
+        {
+          "file": "30_02557.356.jpg",
+          "timestamp_seconds": 2557.356,
+          "mean_value": 0.6705746650695801,
+          "mean_saturation": 0.43291571736335754,
+          "dark_fraction": 0.12172330097087379,
+          "bright_fraction": 0.46345570388349516,
+          "edge_fraction": 0.1183859223300971
+        },
+        {
+          "file": "31_02641.204.jpg",
+          "timestamp_seconds": 2641.204,
+          "mean_value": 0.6625683903694153,
+          "mean_saturation": 0.4406985342502594,
+          "dark_fraction": 0.12216322815533981,
+          "bright_fraction": 0.4503033980582524,
+          "edge_fraction": 0.13706007281553398
+        },
+        {
+          "file": "32_02725.052.jpg",
+          "timestamp_seconds": 2725.052,
+          "mean_value": 0.6640851497650146,
+          "mean_saturation": 0.4287734031677246,
+          "dark_fraction": 0.12192050970873787,
+          "bright_fraction": 0.4450242718446602,
+          "edge_fraction": 0.12392293689320388
+        },
+        {
+          "file": "33_02808.899.jpg",
+          "timestamp_seconds": 2808.899,
+          "mean_value": 0.5426678657531738,
+          "mean_saturation": 0.4631064832210541,
+          "dark_fraction": 0.2931735436893204,
+          "bright_fraction": 0.39834648058252425,
+          "edge_fraction": 0.11865898058252428
+        },
+        {
+          "file": "34_02892.747.jpg",
+          "timestamp_seconds": 2892.747,
+          "mean_value": 0.5761857628822327,
+          "mean_saturation": 0.46777984499931335,
+          "dark_fraction": 0.2371510922330097,
+          "bright_fraction": 0.397436286407767,
+          "edge_fraction": 0.12014563106796117
+        },
+        {
+          "file": "35_02976.595.jpg",
+          "timestamp_seconds": 2976.595,
+          "mean_value": 0.5736355781555176,
+          "mean_saturation": 0.469788134098053,
+          "dark_fraction": 0.24185376213592233,
+          "bright_fraction": 0.4027002427184466,
+          "edge_fraction": 0.11659587378640776
+        },
+        {
+          "file": "36_03060.443.jpg",
+          "timestamp_seconds": 3060.443,
+          "mean_value": 0.5500743389129639,
+          "mean_saturation": 0.44973623752593994,
+          "dark_fraction": 0.1237257281553398,
+          "bright_fraction": 0.3316747572815534,
+          "edge_fraction": 0.08231189320388349
+        },
+        {
+          "file": "37_03144.290.jpg",
+          "timestamp_seconds": 3144.29,
+          "mean_value": 0.7115756869316101,
+          "mean_saturation": 0.44536343216896057,
+          "dark_fraction": 0.1341626213592233,
+          "bright_fraction": 0.6052639563106796,
+          "edge_fraction": 0.1108009708737864
+        },
+        {
+          "file": "38_03228.138.jpg",
+          "timestamp_seconds": 3228.138,
+          "mean_value": 0.6481329202651978,
+          "mean_saturation": 0.46959879994392395,
+          "dark_fraction": 0.14869538834951457,
+          "bright_fraction": 0.4815382281553398,
+          "edge_fraction": 0.124438713592233
+        },
+        {
+          "file": "39_03311.986.jpg",
+          "timestamp_seconds": 3311.986,
+          "mean_value": 0.6772117018699646,
+          "mean_saturation": 0.47664162516593933,
+          "dark_fraction": 0.12994538834951455,
+          "bright_fraction": 0.5036104368932038,
+          "edge_fraction": 0.13006674757281553
+        },
+        {
+          "file": "40_03395.833.jpg",
+          "timestamp_seconds": 3395.833,
+          "mean_value": 0.6684421896934509,
+          "mean_saturation": 0.4728224575519562,
+          "dark_fraction": 0.1407766990291262,
+          "bright_fraction": 0.4809617718446602,
+          "edge_fraction": 0.12319478155339805
+        },
+        {
+          "file": "41_03479.681.jpg",
+          "timestamp_seconds": 3479.681,
+          "mean_value": 0.7097316980361938,
+          "mean_saturation": 0.4860191345214844,
+          "dark_fraction": 0.12252730582524272,
+          "bright_fraction": 0.5541717233009709,
+          "edge_fraction": 0.12022148058252427
+        },
+        {
+          "file": "42_03563.529.jpg",
+          "timestamp_seconds": 3563.529,
+          "mean_value": 0.6392782926559448,
+          "mean_saturation": 0.5528647899627686,
+          "dark_fraction": 0.12223907766990291,
+          "bright_fraction": 0.44754247572815536,
+          "edge_fraction": 0.11303094660194175
+        },
+        {
+          "file": "43_03647.377.jpg",
+          "timestamp_seconds": 3647.377,
+          "mean_value": 0.6345208883285522,
+          "mean_saturation": 0.5701056122779846,
+          "dark_fraction": 0.12452973300970874,
+          "bright_fraction": 0.44180825242718447,
+          "edge_fraction": 0.12471177184466019
+        },
+        {
+          "file": "44_03731.224.jpg",
+          "timestamp_seconds": 3731.224,
+          "mean_value": 0.6358785033226013,
+          "mean_saturation": 0.5583411455154419,
+          "dark_fraction": 0.12260315533980583,
+          "bright_fraction": 0.44264259708737863,
+          "edge_fraction": 0.11388046116504855
+        },
+        {
+          "file": "45_03815.072.jpg",
+          "timestamp_seconds": 3815.072,
+          "mean_value": 0.6968896985054016,
+          "mean_saturation": 0.82967609167099,
+          "dark_fraction": 0.12141990291262136,
+          "bright_fraction": 0.37369538834951455,
+          "edge_fraction": 0.029657160194174758
+        },
+        {
+          "file": "46_03898.920.jpg",
+          "timestamp_seconds": 3898.92,
+          "mean_value": 0.02380235120654106,
+          "mean_saturation": 0.4092833995819092,
+          "dark_fraction": 0.9682797330097087,
+          "bright_fraction": 0.0023058252427184465,
+          "edge_fraction": 0.030203276699029127
+        },
+        {
+          "file": "47_03982.768.jpg",
+          "timestamp_seconds": 3982.768,
+          "mean_value": 0.024519799277186394,
+          "mean_saturation": 0.31624162197113037,
+          "dark_fraction": 0.964502427184466,
+          "bright_fraction": 0.0020782766990291262,
+          "edge_fraction": 0.034890776699029125
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-C01",
+      "id": "AV-CHINA-005",
+      "drive_id": "1c1k-nX0Ld76TLOmNJ16TrdoijJjCgFwN",
+      "filename": "【楽曲コミュ】Wonder Scale【倉本千奈】【学マス】-(1080p30).mp4",
+      "class": "song_communication",
+      "role": "Wonder Scale song commu",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-C01",
+      "sample_count": 24,
+      "mean_value": 0.5961037874221802,
+      "mean_saturation": 0.2925403341650963,
+      "mean_dark_fraction": 0.1675654834142395,
+      "mean_bright_fraction": 0.3648121460355987,
+      "mean_edge_fraction": 0.17038961367313912,
+      "mean_inter_sample_absolute_difference": 0.058116011888436646,
+      "frames": [
+        {
+          "file": "00_00010.858.jpg",
+          "timestamp_seconds": 10.858,
+          "mean_value": 0.6433019042015076,
+          "mean_saturation": 0.2701753079891205,
+          "dark_fraction": 0.13370752427184465,
+          "bright_fraction": 0.4074332524271845,
+          "edge_fraction": 0.16425970873786408
+        },
+        {
+          "file": "01_00032.575.jpg",
+          "timestamp_seconds": 32.575,
+          "mean_value": 0.6399126648902893,
+          "mean_saturation": 0.2718922197818756,
+          "dark_fraction": 0.13355582524271845,
+          "bright_fraction": 0.40332220873786406,
+          "edge_fraction": 0.15975424757281553
+        },
+        {
+          "file": "02_00054.291.jpg",
+          "timestamp_seconds": 54.291,
+          "mean_value": 0.6411275267601013,
+          "mean_saturation": 0.27032339572906494,
+          "dark_fraction": 0.1336620145631068,
+          "bright_fraction": 0.40493021844660193,
+          "edge_fraction": 0.15967839805825243
+        },
+        {
+          "file": "03_00076.008.jpg",
+          "timestamp_seconds": 76.008,
+          "mean_value": 0.6286349892616272,
+          "mean_saturation": 0.2920146584510803,
+          "dark_fraction": 0.133935072815534,
+          "bright_fraction": 0.37736650485436896,
+          "edge_fraction": 0.19016990291262137
+        },
+        {
+          "file": "04_00097.724.jpg",
+          "timestamp_seconds": 97.724,
+          "mean_value": 0.6272161602973938,
+          "mean_saturation": 0.28590792417526245,
+          "dark_fraction": 0.13413228155339807,
+          "bright_fraction": 0.3729217233009709,
+          "edge_fraction": 0.18968446601941746
+        },
+        {
+          "file": "05_00119.441.jpg",
+          "timestamp_seconds": 119.441,
+          "mean_value": 0.6492756605148315,
+          "mean_saturation": 0.27574655413627625,
+          "dark_fraction": 0.13351031553398057,
+          "bright_fraction": 0.4184162621359223,
+          "edge_fraction": 0.1652760922330097
+        },
+        {
+          "file": "06_00141.157.jpg",
+          "timestamp_seconds": 141.157,
+          "mean_value": 0.6422745585441589,
+          "mean_saturation": 0.28155913949012756,
+          "dark_fraction": 0.13398058252427184,
+          "bright_fraction": 0.40618932038834954,
+          "edge_fraction": 0.16445691747572816
+        },
+        {
+          "file": "07_00162.873.jpg",
+          "timestamp_seconds": 162.873,
+          "mean_value": 0.6461018323898315,
+          "mean_saturation": 0.2883926033973694,
+          "dark_fraction": 0.13449635922330097,
+          "bright_fraction": 0.44088288834951456,
+          "edge_fraction": 0.1669144417475728
+        },
+        {
+          "file": "08_00184.590.jpg",
+          "timestamp_seconds": 184.59,
+          "mean_value": 0.630033552646637,
+          "mean_saturation": 0.3131462633609772,
+          "dark_fraction": 0.14036711165048543,
+          "bright_fraction": 0.419872572815534,
+          "edge_fraction": 0.17905036407766992
+        },
+        {
+          "file": "09_00206.306.jpg",
+          "timestamp_seconds": 206.306,
+          "mean_value": 0.5797141790390015,
+          "mean_saturation": 0.2761518955230713,
+          "dark_fraction": 0.13525485436893203,
+          "bright_fraction": 0.3116049757281553,
+          "edge_fraction": 0.17240594660194175
+        },
+        {
+          "file": "10_00228.023.jpg",
+          "timestamp_seconds": 228.023,
+          "mean_value": 0.6310182809829712,
+          "mean_saturation": 0.31104207038879395,
+          "dark_fraction": 0.13972997572815535,
+          "bright_fraction": 0.40861650485436896,
+          "edge_fraction": 0.17283070388349514
+        },
+        {
+          "file": "11_00249.739.jpg",
+          "timestamp_seconds": 249.739,
+          "mean_value": 0.627806544303894,
+          "mean_saturation": 0.3090050220489502,
+          "dark_fraction": 0.13982099514563107,
+          "bright_fraction": 0.39804308252427184,
+          "edge_fraction": 0.17190533980582523
+        },
+        {
+          "file": "12_00271.456.jpg",
+          "timestamp_seconds": 271.456,
+          "mean_value": 0.6311460733413696,
+          "mean_saturation": 0.30801549553871155,
+          "dark_fraction": 0.14029126213592233,
+          "bright_fraction": 0.41759708737864076,
+          "edge_fraction": 0.17284587378640776
+        },
+        {
+          "file": "13_00293.172.jpg",
+          "timestamp_seconds": 293.172,
+          "mean_value": 0.5783143043518066,
+          "mean_saturation": 0.3118661940097809,
+          "dark_fraction": 0.14256674757281554,
+          "bright_fraction": 0.3225273058252427,
+          "edge_fraction": 0.1799757281553398
+        },
+        {
+          "file": "14_00314.889.jpg",
+          "timestamp_seconds": 314.889,
+          "mean_value": 0.5785979628562927,
+          "mean_saturation": 0.31342577934265137,
+          "dark_fraction": 0.14249089805825244,
+          "bright_fraction": 0.3196146844660194,
+          "edge_fraction": 0.17595570388349516
+        },
+        {
+          "file": "15_00336.605.jpg",
+          "timestamp_seconds": 336.605,
+          "mean_value": 0.6319606304168701,
+          "mean_saturation": 0.31520983576774597,
+          "dark_fraction": 0.1394872572815534,
+          "bright_fraction": 0.4077366504854369,
+          "edge_fraction": 0.17430218446601942
+        },
+        {
+          "file": "16_00358.322.jpg",
+          "timestamp_seconds": 358.322,
+          "mean_value": 0.6594581007957458,
+          "mean_saturation": 0.32244423031806946,
+          "dark_fraction": 0.13364684466019416,
+          "bright_fraction": 0.46773361650485434,
+          "edge_fraction": 0.18050667475728155
+        },
+        {
+          "file": "17_00380.038.jpg",
+          "timestamp_seconds": 380.038,
+          "mean_value": 0.5496677756309509,
+          "mean_saturation": 0.2875211238861084,
+          "dark_fraction": 0.2212378640776699,
+          "bright_fraction": 0.344751213592233,
+          "edge_fraction": 0.14940837378640776
+        },
+        {
+          "file": "18_00401.755.jpg",
+          "timestamp_seconds": 401.755,
+          "mean_value": 0.5336251258850098,
+          "mean_saturation": 0.28986650705337524,
+          "dark_fraction": 0.21808252427184466,
+          "bright_fraction": 0.2859526699029126,
+          "edge_fraction": 0.1585254854368932
+        },
+        {
+          "file": "19_00423.471.jpg",
+          "timestamp_seconds": 423.471,
+          "mean_value": 0.5016806721687317,
+          "mean_saturation": 0.27805501222610474,
+          "dark_fraction": 0.2638197815533981,
+          "bright_fraction": 0.27607706310679614,
+          "edge_fraction": 0.1703883495145631
+        },
+        {
+          "file": "20_00445.187.jpg",
+          "timestamp_seconds": 445.187,
+          "mean_value": 0.5068276524543762,
+          "mean_saturation": 0.28688591718673706,
+          "dark_fraction": 0.26193871359223303,
+          "bright_fraction": 0.2856037621359223,
+          "edge_fraction": 0.17026699029126213
+        },
+        {
+          "file": "21_00466.904.jpg",
+          "timestamp_seconds": 466.904,
+          "mean_value": 0.5063610672950745,
+          "mean_saturation": 0.2872261106967926,
+          "dark_fraction": 0.26168082524271846,
+          "bright_fraction": 0.28228155339805827,
+          "edge_fraction": 0.1735133495145631
+        },
+        {
+          "file": "22_00488.620.jpg",
+          "timestamp_seconds": 488.62,
+          "mean_value": 0.5097584128379822,
+          "mean_saturation": 0.2877490520477295,
+          "dark_fraction": 0.260057645631068,
+          "bright_fraction": 0.2884557038834951,
+          "edge_fraction": 0.17034283980582524
+        },
+        {
+          "file": "23_00510.337.jpg",
+          "timestamp_seconds": 510.337,
+          "mean_value": 0.5326752662658691,
+          "mean_saturation": 0.2873457074165344,
+          "dark_fraction": 0.21011832524271845,
+          "bright_fraction": 0.2875606796116505,
+          "edge_fraction": 0.15693264563106796
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-C02",
+      "id": "AV-CHINA-006",
+      "drive_id": "143z8j5zrzTmpKL42OMjZ6mHGJTtQKdpl",
+      "filename": "【楽曲コミュ】日々、発見的ステップ！【倉本千奈】【学マス】-(1080p30).mp4",
+      "class": "song_communication",
+      "role": "日々、発見的ステップ！ song commu",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-C02",
+      "sample_count": 24,
+      "mean_value": 0.6084870373209318,
+      "mean_saturation": 0.2902796156704426,
+      "mean_dark_fraction": 0.14971113976537218,
+      "mean_bright_fraction": 0.35776446197411005,
+      "mean_edge_fraction": 0.1745550161812298,
+      "mean_inter_sample_absolute_difference": 0.06278417114694805,
+      "frames": [
+        {
+          "file": "00_00008.852.jpg",
+          "timestamp_seconds": 8.852,
+          "mean_value": 0.5053311586380005,
+          "mean_saturation": 0.2749233841896057,
+          "dark_fraction": 0.2795964805825243,
+          "bright_fraction": 0.29411407766990294,
+          "edge_fraction": 0.16471480582524273
+        },
+        {
+          "file": "01_00026.556.jpg",
+          "timestamp_seconds": 26.556,
+          "mean_value": 0.5064571499824524,
+          "mean_saturation": 0.2745538055896759,
+          "dark_fraction": 0.27938410194174756,
+          "bright_fraction": 0.29804308252427186,
+          "edge_fraction": 0.16190837378640777
+        },
+        {
+          "file": "02_00044.261.jpg",
+          "timestamp_seconds": 44.261,
+          "mean_value": 0.47934842109680176,
+          "mean_saturation": 0.2720980942249298,
+          "dark_fraction": 0.28008191747572814,
+          "bright_fraction": 0.2452518203883495,
+          "edge_fraction": 0.16108919902912622
+        },
+        {
+          "file": "03_00061.965.jpg",
+          "timestamp_seconds": 61.965,
+          "mean_value": 0.6207270622253418,
+          "mean_saturation": 0.24615399539470673,
+          "dark_fraction": 0.12786711165048545,
+          "bright_fraction": 0.34875606796116504,
+          "edge_fraction": 0.19434162621359224
+        },
+        {
+          "file": "04_00079.669.jpg",
+          "timestamp_seconds": 79.669,
+          "mean_value": 0.6224404573440552,
+          "mean_saturation": 0.24529121816158295,
+          "dark_fraction": 0.1279884708737864,
+          "bright_fraction": 0.3520479368932039,
+          "edge_fraction": 0.18965412621359223
+        },
+        {
+          "file": "05_00097.373.jpg",
+          "timestamp_seconds": 97.373,
+          "mean_value": 0.6239602565765381,
+          "mean_saturation": 0.25135472416877747,
+          "dark_fraction": 0.12801881067961166,
+          "bright_fraction": 0.35749393203883495,
+          "edge_fraction": 0.19335558252427185
+        },
+        {
+          "file": "06_00115.078.jpg",
+          "timestamp_seconds": 115.078,
+          "mean_value": 0.6377803683280945,
+          "mean_saturation": 0.24973319470882416,
+          "dark_fraction": 0.127563713592233,
+          "bright_fraction": 0.37642597087378643,
+          "edge_fraction": 0.16664138349514562
+        },
+        {
+          "file": "07_00132.782.jpg",
+          "timestamp_seconds": 132.782,
+          "mean_value": 0.618003249168396,
+          "mean_saturation": 0.2522231936454773,
+          "dark_fraction": 0.12844356796116504,
+          "bright_fraction": 0.3446146844660194,
+          "edge_fraction": 0.17120752427184466
+        },
+        {
+          "file": "08_00150.486.jpg",
+          "timestamp_seconds": 150.486,
+          "mean_value": 0.6229148507118225,
+          "mean_saturation": 0.23200981318950653,
+          "dark_fraction": 0.1280643203883495,
+          "bright_fraction": 0.35834344660194173,
+          "edge_fraction": 0.16337985436893204
+        },
+        {
+          "file": "09_00168.190.jpg",
+          "timestamp_seconds": 168.19,
+          "mean_value": 0.6217625141143799,
+          "mean_saturation": 0.2682114243507385,
+          "dark_fraction": 0.12827669902912622,
+          "bright_fraction": 0.3545358009708738,
+          "edge_fraction": 0.17228458737864077
+        },
+        {
+          "file": "10_00185.895.jpg",
+          "timestamp_seconds": 185.895,
+          "mean_value": 0.6201494336128235,
+          "mean_saturation": 0.2567097246646881,
+          "dark_fraction": 0.1280643203883495,
+          "bright_fraction": 0.35016686893203886,
+          "edge_fraction": 0.1736498786407767
+        },
+        {
+          "file": "11_00203.599.jpg",
+          "timestamp_seconds": 203.599,
+          "mean_value": 0.6199471950531006,
+          "mean_saturation": 0.26672133803367615,
+          "dark_fraction": 0.12823118932038835,
+          "bright_fraction": 0.34952973300970874,
+          "edge_fraction": 0.17448422330097088
+        },
+        {
+          "file": "12_00221.303.jpg",
+          "timestamp_seconds": 221.303,
+          "mean_value": 0.615650475025177,
+          "mean_saturation": 0.25154685974121094,
+          "dark_fraction": 0.12841322815533981,
+          "bright_fraction": 0.3398665048543689,
+          "edge_fraction": 0.17433252427184465
+        },
+        {
+          "file": "13_00239.007.jpg",
+          "timestamp_seconds": 239.007,
+          "mean_value": 0.6328308582305908,
+          "mean_saturation": 0.237037792801857,
+          "dark_fraction": 0.12814016990291263,
+          "bright_fraction": 0.38587682038834953,
+          "edge_fraction": 0.1632129854368932
+        },
+        {
+          "file": "14_00256.712.jpg",
+          "timestamp_seconds": 256.712,
+          "mean_value": 0.6603372097015381,
+          "mean_saturation": 0.22642819583415985,
+          "dark_fraction": 0.1315230582524272,
+          "bright_fraction": 0.44534283980582523,
+          "edge_fraction": 0.180810072815534
+        },
+        {
+          "file": "15_00274.416.jpg",
+          "timestamp_seconds": 274.416,
+          "mean_value": 0.6628276705741882,
+          "mean_saturation": 0.2244979739189148,
+          "dark_fraction": 0.1301729368932039,
+          "bright_fraction": 0.45203276699029127,
+          "edge_fraction": 0.17506067961165048
+        },
+        {
+          "file": "16_00292.120.jpg",
+          "timestamp_seconds": 292.12,
+          "mean_value": 0.6422159671783447,
+          "mean_saturation": 0.37431812286376953,
+          "dark_fraction": 0.12874696601941749,
+          "bright_fraction": 0.39817961165048543,
+          "edge_fraction": 0.18144720873786407
+        },
+        {
+          "file": "17_00309.824.jpg",
+          "timestamp_seconds": 309.824,
+          "mean_value": 0.6349128484725952,
+          "mean_saturation": 0.3729594051837921,
+          "dark_fraction": 0.12958131067961165,
+          "bright_fraction": 0.3886680825242718,
+          "edge_fraction": 0.18206917475728154
+        },
+        {
+          "file": "18_00327.529.jpg",
+          "timestamp_seconds": 327.529,
+          "mean_value": 0.6337199211120605,
+          "mean_saturation": 0.35601311922073364,
+          "dark_fraction": 0.12774575242718447,
+          "bright_fraction": 0.38634708737864076,
+          "edge_fraction": 0.19594963592233008
+        },
+        {
+          "file": "19_00345.233.jpg",
+          "timestamp_seconds": 345.233,
+          "mean_value": 0.6321772933006287,
+          "mean_saturation": 0.3745557963848114,
+          "dark_fraction": 0.13006674757281553,
+          "bright_fraction": 0.3845873786407767,
+          "edge_fraction": 0.18147754854368933
+        },
+        {
+          "file": "20_00362.937.jpg",
+          "timestamp_seconds": 362.937,
+          "mean_value": 0.5817555785179138,
+          "mean_saturation": 0.37615248560905457,
+          "dark_fraction": 0.15010618932038836,
+          "bright_fraction": 0.3288834951456311,
+          "edge_fraction": 0.16565533980582525
+        },
+        {
+          "file": "21_00380.641.jpg",
+          "timestamp_seconds": 380.641,
+          "mean_value": 0.6434131860733032,
+          "mean_saturation": 0.3458053767681122,
+          "dark_fraction": 0.12766990291262137,
+          "bright_fraction": 0.40857099514563106,
+          "edge_fraction": 0.17283070388349514
+        },
+        {
+          "file": "22_00398.346.jpg",
+          "timestamp_seconds": 398.346,
+          "mean_value": 0.5908896327018738,
+          "mean_saturation": 0.36401355266571045,
+          "dark_fraction": 0.1372876213592233,
+          "bright_fraction": 0.326122572815534,
+          "edge_fraction": 0.1574635922330097
+        },
+        {
+          "file": "23_00416.050.jpg",
+          "timestamp_seconds": 416.05,
+          "mean_value": 0.5741361379623413,
+          "mean_saturation": 0.37339818477630615,
+          "dark_fraction": 0.15203276699029125,
+          "bright_fraction": 0.31254550970873785,
+          "edge_fraction": 0.1722997572815534
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-C03",
+      "id": "AV-CHINA-007",
+      "drive_id": "1LBaT5Ei7ND3qALQB22YwTqtc-YgJvUdc",
+      "filename": "【雪解けに】倉本千奈 楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "class": "song_communication",
+      "role": "雪解けに family-history song commu",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-C03",
+      "sample_count": 24,
+      "mean_value": 0.5725876192251841,
+      "mean_saturation": 0.231794078523914,
+      "mean_dark_fraction": 0.12152546015372168,
+      "mean_bright_fraction": 0.26984476132686086,
+      "mean_edge_fraction": 0.09571134203074434,
+      "mean_inter_sample_absolute_difference": 0.03616853685968596,
+      "frames": [
+        {
+          "file": "00_00011.923.jpg",
+          "timestamp_seconds": 11.923,
+          "mean_value": 0.5706453323364258,
+          "mean_saturation": 0.2265946865081787,
+          "dark_fraction": 0.12176881067961165,
+          "bright_fraction": 0.26422936893203886,
+          "edge_fraction": 0.06941747572815533
+        },
+        {
+          "file": "01_00035.770.jpg",
+          "timestamp_seconds": 35.77,
+          "mean_value": 0.5718531012535095,
+          "mean_saturation": 0.22333815693855286,
+          "dark_fraction": 0.12157160194174757,
+          "bright_fraction": 0.26829490291262137,
+          "edge_fraction": 0.06852245145631068
+        },
+        {
+          "file": "02_00059.617.jpg",
+          "timestamp_seconds": 59.617,
+          "mean_value": 0.5721473693847656,
+          "mean_saturation": 0.23684290051460266,
+          "dark_fraction": 0.12134405339805825,
+          "bright_fraction": 0.2691747572815534,
+          "edge_fraction": 0.10869235436893204
+        },
+        {
+          "file": "03_00083.464.jpg",
+          "timestamp_seconds": 83.464,
+          "mean_value": 0.5711190104484558,
+          "mean_saturation": 0.23873060941696167,
+          "dark_fraction": 0.1216626213592233,
+          "bright_fraction": 0.2686134708737864,
+          "edge_fraction": 0.10500606796116504
+        },
+        {
+          "file": "04_00107.311.jpg",
+          "timestamp_seconds": 107.311,
+          "mean_value": 0.5721613764762878,
+          "mean_saturation": 0.2242143303155899,
+          "dark_fraction": 0.12190533980582524,
+          "bright_fraction": 0.26659587378640776,
+          "edge_fraction": 0.07182949029126214
+        },
+        {
+          "file": "05_00131.158.jpg",
+          "timestamp_seconds": 131.158,
+          "mean_value": 0.571384608745575,
+          "mean_saturation": 0.2296890765428543,
+          "dark_fraction": 0.12193567961165049,
+          "bright_fraction": 0.26856796116504855,
+          "edge_fraction": 0.10277609223300971
+        },
+        {
+          "file": "06_00155.005.jpg",
+          "timestamp_seconds": 155.005,
+          "mean_value": 0.5739311575889587,
+          "mean_saturation": 0.23881331086158752,
+          "dark_fraction": 0.12143507281553398,
+          "bright_fraction": 0.2731644417475728,
+          "edge_fraction": 0.1055370145631068
+        },
+        {
+          "file": "07_00178.852.jpg",
+          "timestamp_seconds": 178.852,
+          "mean_value": 0.5723658204078674,
+          "mean_saturation": 0.2293792963027954,
+          "dark_fraction": 0.12120752427184465,
+          "bright_fraction": 0.26679308252427186,
+          "edge_fraction": 0.06864381067961164
+        },
+        {
+          "file": "08_00202.699.jpg",
+          "timestamp_seconds": 202.699,
+          "mean_value": 0.5712811946868896,
+          "mean_saturation": 0.2289927750825882,
+          "dark_fraction": 0.12161711165048544,
+          "bright_fraction": 0.267748786407767,
+          "edge_fraction": 0.10386832524271844
+        },
+        {
+          "file": "09_00226.545.jpg",
+          "timestamp_seconds": 226.545,
+          "mean_value": 0.574948251247406,
+          "mean_saturation": 0.23357225954532623,
+          "dark_fraction": 0.12132888349514563,
+          "bright_fraction": 0.2756978155339806,
+          "edge_fraction": 0.10315533980582524
+        },
+        {
+          "file": "10_00250.392.jpg",
+          "timestamp_seconds": 250.392,
+          "mean_value": 0.571337878704071,
+          "mean_saturation": 0.22760264575481415,
+          "dark_fraction": 0.12160194174757281,
+          "bright_fraction": 0.2698877427184466,
+          "edge_fraction": 0.10094053398058253
+        },
+        {
+          "file": "11_00274.239.jpg",
+          "timestamp_seconds": 274.239,
+          "mean_value": 0.5682399868965149,
+          "mean_saturation": 0.22461214661598206,
+          "dark_fraction": 0.12157160194174757,
+          "bright_fraction": 0.2566140776699029,
+          "edge_fraction": 0.07337682038834951
+        },
+        {
+          "file": "12_00298.086.jpg",
+          "timestamp_seconds": 298.086,
+          "mean_value": 0.5732956528663635,
+          "mean_saturation": 0.23309996724128723,
+          "dark_fraction": 0.12132888349514563,
+          "bright_fraction": 0.2716474514563107,
+          "edge_fraction": 0.10115291262135923
+        },
+        {
+          "file": "13_00321.933.jpg",
+          "timestamp_seconds": 321.933,
+          "mean_value": 0.5720608234405518,
+          "mean_saturation": 0.23805087804794312,
+          "dark_fraction": 0.12155643203883496,
+          "bright_fraction": 0.270752427184466,
+          "edge_fraction": 0.10398968446601942
+        },
+        {
+          "file": "14_00345.780.jpg",
+          "timestamp_seconds": 345.78,
+          "mean_value": 0.5739951133728027,
+          "mean_saturation": 0.23807701468467712,
+          "dark_fraction": 0.12141990291262136,
+          "bright_fraction": 0.27381674757281554,
+          "edge_fraction": 0.10656856796116505
+        },
+        {
+          "file": "15_00369.627.jpg",
+          "timestamp_seconds": 369.627,
+          "mean_value": 0.5765386819839478,
+          "mean_saturation": 0.22700446844100952,
+          "dark_fraction": 0.12126820388349514,
+          "bright_fraction": 0.27205703883495147,
+          "edge_fraction": 0.07633495145631068
+        },
+        {
+          "file": "16_00393.474.jpg",
+          "timestamp_seconds": 393.474,
+          "mean_value": 0.574641227722168,
+          "mean_saturation": 0.23798783123493195,
+          "dark_fraction": 0.12151092233009708,
+          "bright_fraction": 0.27472694174757284,
+          "edge_fraction": 0.10512742718446602
+        },
+        {
+          "file": "17_00417.321.jpg",
+          "timestamp_seconds": 417.321,
+          "mean_value": 0.5691415071487427,
+          "mean_saturation": 0.22887808084487915,
+          "dark_fraction": 0.12148058252427184,
+          "bright_fraction": 0.26328883495145633,
+          "edge_fraction": 0.10376213592233009
+        },
+        {
+          "file": "18_00441.168.jpg",
+          "timestamp_seconds": 441.168,
+          "mean_value": 0.5723816752433777,
+          "mean_saturation": 0.22922509908676147,
+          "dark_fraction": 0.12202669902912622,
+          "bright_fraction": 0.27189016990291265,
+          "edge_fraction": 0.10573422330097088
+        },
+        {
+          "file": "19_00465.014.jpg",
+          "timestamp_seconds": 465.014,
+          "mean_value": 0.5739440321922302,
+          "mean_saturation": 0.23244456946849823,
+          "dark_fraction": 0.12172330097087379,
+          "bright_fraction": 0.2729368932038835,
+          "edge_fraction": 0.10251820388349514
+        },
+        {
+          "file": "20_00488.861.jpg",
+          "timestamp_seconds": 488.861,
+          "mean_value": 0.5732963681221008,
+          "mean_saturation": 0.23451706767082214,
+          "dark_fraction": 0.12111650485436894,
+          "bright_fraction": 0.2709041262135922,
+          "edge_fraction": 0.10191140776699029
+        },
+        {
+          "file": "21_00512.708.jpg",
+          "timestamp_seconds": 512.708,
+          "mean_value": 0.5696035623550415,
+          "mean_saturation": 0.22754396498203278,
+          "dark_fraction": 0.12161711165048544,
+          "bright_fraction": 0.2648968446601942,
+          "edge_fraction": 0.10353458737864078
+        },
+        {
+          "file": "22_00536.555.jpg",
+          "timestamp_seconds": 536.555,
+          "mean_value": 0.5775632262229919,
+          "mean_saturation": 0.2346583753824234,
+          "dark_fraction": 0.12111650485436894,
+          "bright_fraction": 0.28041565533980584,
+          "edge_fraction": 0.09916565533980583
+        },
+        {
+          "file": "23_00560.402.jpg",
+          "timestamp_seconds": 560.402,
+          "mean_value": 0.574225902557373,
+          "mean_saturation": 0.23918837308883667,
+          "dark_fraction": 0.12149575242718447,
+          "bright_fraction": 0.273558859223301,
+          "edge_fraction": 0.10550667475728155
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-C04",
+      "id": "AV-CHINA-008",
+      "drive_id": "1O3nx5Lw6MrAGiIfIXT4YHvW29qaAcM3H",
+      "filename": "【楽曲コミュ】Campus mode!!【倉本千奈】【学マス】-(1080p30).mp4",
+      "class": "song_communication",
+      "role": "Campus mode!! song commu",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-C04",
+      "sample_count": 24,
+      "mean_value": 0.6054563348491987,
+      "mean_saturation": 0.2766019788881143,
+      "mean_dark_fraction": 0.15220848503236248,
+      "mean_bright_fraction": 0.3753564927184467,
+      "mean_edge_fraction": 0.1842675465210356,
+      "mean_inter_sample_absolute_difference": 0.06259851088828366,
+      "frames": [
+        {
+          "file": "00_00014.019.jpg",
+          "timestamp_seconds": 14.019,
+          "mean_value": 0.6321761012077332,
+          "mean_saturation": 0.2651588022708893,
+          "dark_fraction": 0.1229368932038835,
+          "bright_fraction": 0.3913683252427185,
+          "edge_fraction": 0.19089805825242717
+        },
+        {
+          "file": "01_00042.056.jpg",
+          "timestamp_seconds": 42.056,
+          "mean_value": 0.6421835422515869,
+          "mean_saturation": 0.25456708669662476,
+          "dark_fraction": 0.12270934466019418,
+          "bright_fraction": 0.40479368932038834,
+          "edge_fraction": 0.16720266990291263
+        },
+        {
+          "file": "02_00070.093.jpg",
+          "timestamp_seconds": 70.093,
+          "mean_value": 0.6416369080543518,
+          "mean_saturation": 0.2514835000038147,
+          "dark_fraction": 0.12298240291262136,
+          "bright_fraction": 0.40350424757281556,
+          "edge_fraction": 0.17219356796116506
+        },
+        {
+          "file": "03_00098.130.jpg",
+          "timestamp_seconds": 98.13,
+          "mean_value": 0.647683322429657,
+          "mean_saturation": 0.2545391321182251,
+          "dark_fraction": 0.12292172330097087,
+          "bright_fraction": 0.4161559466019418,
+          "edge_fraction": 0.1676881067961165
+        },
+        {
+          "file": "04_00126.167.jpg",
+          "timestamp_seconds": 126.167,
+          "mean_value": 0.6283273100852966,
+          "mean_saturation": 0.2555919587612152,
+          "dark_fraction": 0.1229368932038835,
+          "bright_fraction": 0.3828125,
+          "edge_fraction": 0.20051577669902912
+        },
+        {
+          "file": "05_00154.204.jpg",
+          "timestamp_seconds": 154.204,
+          "mean_value": 0.6338518857955933,
+          "mean_saturation": 0.2630891501903534,
+          "dark_fraction": 0.12286104368932038,
+          "bright_fraction": 0.3956007281553398,
+          "edge_fraction": 0.19634405339805824
+        },
+        {
+          "file": "06_00182.241.jpg",
+          "timestamp_seconds": 182.241,
+          "mean_value": 0.627774178981781,
+          "mean_saturation": 0.25551989674568176,
+          "dark_fraction": 0.12284587378640777,
+          "bright_fraction": 0.3819174757281553,
+          "edge_fraction": 0.1970873786407767
+        },
+        {
+          "file": "07_00210.278.jpg",
+          "timestamp_seconds": 210.278,
+          "mean_value": 0.6326205134391785,
+          "mean_saturation": 0.26650258898735046,
+          "dark_fraction": 0.12264866504854369,
+          "bright_fraction": 0.39086771844660195,
+          "edge_fraction": 0.19611650485436893
+        },
+        {
+          "file": "08_00238.316.jpg",
+          "timestamp_seconds": 238.316,
+          "mean_value": 0.6264435052871704,
+          "mean_saturation": 0.3040977418422699,
+          "dark_fraction": 0.12439320388349515,
+          "bright_fraction": 0.3931128640776699,
+          "edge_fraction": 0.1935983009708738
+        },
+        {
+          "file": "09_00266.353.jpg",
+          "timestamp_seconds": 266.353,
+          "mean_value": 0.6320273876190186,
+          "mean_saturation": 0.30616387724876404,
+          "dark_fraction": 0.12361953883495146,
+          "bright_fraction": 0.4015473300970874,
+          "edge_fraction": 0.18944174757281554
+        },
+        {
+          "file": "10_00294.390.jpg",
+          "timestamp_seconds": 294.39,
+          "mean_value": 0.6138070225715637,
+          "mean_saturation": 0.29116490483283997,
+          "dark_fraction": 0.1275485436893204,
+          "bright_fraction": 0.3725728155339806,
+          "edge_fraction": 0.19208131067961165
+        },
+        {
+          "file": "11_00322.427.jpg",
+          "timestamp_seconds": 322.427,
+          "mean_value": 0.6178250312805176,
+          "mean_saturation": 0.28869107365608215,
+          "dark_fraction": 0.1327518203883495,
+          "bright_fraction": 0.38704490291262134,
+          "edge_fraction": 0.1845115291262136
+        },
+        {
+          "file": "12_00350.464.jpg",
+          "timestamp_seconds": 350.464,
+          "mean_value": 0.6211684346199036,
+          "mean_saturation": 0.3038775622844696,
+          "dark_fraction": 0.12425667475728155,
+          "bright_fraction": 0.3851638349514563,
+          "edge_fraction": 0.19746662621359223
+        },
+        {
+          "file": "13_00378.501.jpg",
+          "timestamp_seconds": 378.501,
+          "mean_value": 0.6334605813026428,
+          "mean_saturation": 0.3053347170352936,
+          "dark_fraction": 0.1238015776699029,
+          "bright_fraction": 0.4053094660194175,
+          "edge_fraction": 0.19450849514563107
+        },
+        {
+          "file": "14_00406.538.jpg",
+          "timestamp_seconds": 406.538,
+          "mean_value": 0.6312333345413208,
+          "mean_saturation": 0.3059256374835968,
+          "dark_fraction": 0.12369538834951456,
+          "bright_fraction": 0.39952973300970873,
+          "edge_fraction": 0.19582827669902914
+        },
+        {
+          "file": "15_00434.575.jpg",
+          "timestamp_seconds": 434.575,
+          "mean_value": 0.6155599355697632,
+          "mean_saturation": 0.28723278641700745,
+          "dark_fraction": 0.13235740291262135,
+          "bright_fraction": 0.3819174757281553,
+          "edge_fraction": 0.1896996359223301
+        },
+        {
+          "file": "16_00462.613.jpg",
+          "timestamp_seconds": 462.613,
+          "mean_value": 0.6322402954101562,
+          "mean_saturation": 0.30346596240997314,
+          "dark_fraction": 0.12437803398058253,
+          "bright_fraction": 0.40253337378640774,
+          "edge_fraction": 0.19500910194174756
+        },
+        {
+          "file": "17_00490.650.jpg",
+          "timestamp_seconds": 490.65,
+          "mean_value": 0.6323459148406982,
+          "mean_saturation": 0.27665162086486816,
+          "dark_fraction": 0.1243628640776699,
+          "bright_fraction": 0.39308252427184465,
+          "edge_fraction": 0.17474211165048545
+        },
+        {
+          "file": "18_00518.687.jpg",
+          "timestamp_seconds": 518.687,
+          "mean_value": 0.5136438012123108,
+          "mean_saturation": 0.2664552628993988,
+          "dark_fraction": 0.24705703883495145,
+          "bright_fraction": 0.29713288834951457,
+          "edge_fraction": 0.17284587378640776
+        },
+        {
+          "file": "19_00546.724.jpg",
+          "timestamp_seconds": 546.724,
+          "mean_value": 0.5145982503890991,
+          "mean_saturation": 0.26515015959739685,
+          "dark_fraction": 0.24811893203883495,
+          "bright_fraction": 0.30188106796116504,
+          "edge_fraction": 0.16970570388349515
+        },
+        {
+          "file": "20_00574.761.jpg",
+          "timestamp_seconds": 574.761,
+          "mean_value": 0.6350594162940979,
+          "mean_saturation": 0.28080877661705017,
+          "dark_fraction": 0.14067050970873787,
+          "bright_fraction": 0.4223756067961165,
+          "edge_fraction": 0.16418385922330098
+        },
+        {
+          "file": "21_00602.798.jpg",
+          "timestamp_seconds": 602.798,
+          "mean_value": 0.492941677570343,
+          "mean_saturation": 0.2581140697002411,
+          "dark_fraction": 0.28313106796116505,
+          "bright_fraction": 0.2980127427184466,
+          "edge_fraction": 0.1798998786407767
+        },
+        {
+          "file": "22_00630.835.jpg",
+          "timestamp_seconds": 630.835,
+          "mean_value": 0.5164831280708313,
+          "mean_saturation": 0.26597052812576294,
+          "dark_fraction": 0.24632888349514562,
+          "bright_fraction": 0.29995449029126214,
+          "edge_fraction": 0.17131371359223302
+        },
+        {
+          "file": "23_00658.873.jpg",
+          "timestamp_seconds": 658.873,
+          "mean_value": 0.5158605575561523,
+          "mean_saturation": 0.26289069652557373,
+          "dark_fraction": 0.2436893203883495,
+          "bright_fraction": 0.3003640776699029,
+          "edge_fraction": 0.1695388349514563
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-C05",
+      "id": "AV-CHINA-009",
+      "drive_id": "1fymSECYmKq4OOOGgkNUUfb_8cZGgvmBy",
+      "filename": "【空と約束】倉本千奈  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "class": "song_communication",
+      "role": "空と約束 song commu",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-C05",
+      "sample_count": 25,
+      "mean_value": 0.6120129203796387,
+      "mean_saturation": 0.2904640877246857,
+      "mean_dark_fraction": 0.1262083072960327,
+      "mean_bright_fraction": 0.35419101694075683,
+      "mean_edge_fraction": 0.1788559768941184,
+      "mean_inter_sample_absolute_difference": 0.061207934360330306,
+      "frames": [
+        {
+          "file": "00_00012.414.jpg",
+          "timestamp_seconds": 12.414,
+          "mean_value": 0.5983169674873352,
+          "mean_saturation": 0.30471375584602356,
+          "dark_fraction": 0.12337682038834952,
+          "bright_fraction": 0.3196753640776699,
+          "edge_fraction": 0.18237257281553398
+        },
+        {
+          "file": "00_00016.553.jpg",
+          "timestamp_seconds": 16.553,
+          "mean_value": 0.5953395962715149,
+          "mean_saturation": 0.2822836935520172,
+          "dark_fraction": 0.1272370486656201,
+          "bright_fraction": 0.31605180533751964,
+          "edge_fraction": 0.19497645211930925
+        },
+        {
+          "file": "01_00037.243.jpg",
+          "timestamp_seconds": 37.243,
+          "mean_value": 0.5933386087417603,
+          "mean_saturation": 0.30178460478782654,
+          "dark_fraction": 0.12337682038834952,
+          "bright_fraction": 0.30863167475728154,
+          "edge_fraction": 0.1877275485436893
+        },
+        {
+          "file": "01_00049.658.jpg",
+          "timestamp_seconds": 49.658,
+          "mean_value": 0.6000778079032898,
+          "mean_saturation": 0.26952704787254333,
+          "dark_fraction": 0.12696232339089483,
+          "bright_fraction": 0.32195839874411303,
+          "edge_fraction": 0.17660910518053374
+        },
+        {
+          "file": "02_00062.072.jpg",
+          "timestamp_seconds": 62.072,
+          "mean_value": 0.5962680578231812,
+          "mean_saturation": 0.30555039644241333,
+          "dark_fraction": 0.12328580097087379,
+          "bright_fraction": 0.3152002427184466,
+          "edge_fraction": 0.18719660194174756
+        },
+        {
+          "file": "02_00082.763.jpg",
+          "timestamp_seconds": 82.763,
+          "mean_value": 0.5933254957199097,
+          "mean_saturation": 0.27389323711395264,
+          "dark_fraction": 0.1276098901098901,
+          "bright_fraction": 0.3125,
+          "edge_fraction": 0.1934850863422292
+        },
+        {
+          "file": "03_00086.901.jpg",
+          "timestamp_seconds": 86.901,
+          "mean_value": 0.5977427959442139,
+          "mean_saturation": 0.3066881000995636,
+          "dark_fraction": 0.1230885922330097,
+          "bright_fraction": 0.3194629854368932,
+          "edge_fraction": 0.18058252427184465
+        },
+        {
+          "file": "03_00115.868.jpg",
+          "timestamp_seconds": 115.868,
+          "mean_value": 0.5989953279495239,
+          "mean_saturation": 0.2725865840911865,
+          "dark_fraction": 0.12725667189952905,
+          "bright_fraction": 0.3233712715855573,
+          "edge_fraction": 0.17187990580847723
+        },
+        {
+          "file": "04_00111.730.jpg",
+          "timestamp_seconds": 111.73,
+          "mean_value": 0.6042007803916931,
+          "mean_saturation": 0.3028200566768646,
+          "dark_fraction": 0.12346783980582525,
+          "bright_fraction": 0.3272148058252427,
+          "edge_fraction": 0.16095266990291263
+        },
+        {
+          "file": "04_00148.973.jpg",
+          "timestamp_seconds": 148.973,
+          "mean_value": 0.6408545970916748,
+          "mean_saturation": 0.30943670868873596,
+          "dark_fraction": 0.12743328100470958,
+          "bright_fraction": 0.4304552590266876,
+          "edge_fraction": 0.18096546310832026
+        },
+        {
+          "file": "05_00136.559.jpg",
+          "timestamp_seconds": 136.559,
+          "mean_value": 0.6052624583244324,
+          "mean_saturation": 0.3075259327888489,
+          "dark_fraction": 0.12307342233009709,
+          "bright_fraction": 0.33058252427184465,
+          "edge_fraction": 0.16451759708737865
+        },
+        {
+          "file": "05_00182.079.jpg",
+          "timestamp_seconds": 182.079,
+          "mean_value": 0.6473879814147949,
+          "mean_saturation": 0.3034366965293884,
+          "dark_fraction": 0.1271193092621664,
+          "bright_fraction": 0.44301412872841445,
+          "edge_fraction": 0.18118131868131868
+        },
+        {
+          "file": "06_00161.388.jpg",
+          "timestamp_seconds": 161.388,
+          "mean_value": 0.6290684342384338,
+          "mean_saturation": 0.3198755383491516,
+          "dark_fraction": 0.12374089805825243,
+          "bright_fraction": 0.38094660194174756,
+          "edge_fraction": 0.16856796116504855
+        },
+        {
+          "file": "06_00215.184.jpg",
+          "timestamp_seconds": 215.184,
+          "mean_value": 0.6394262909889221,
+          "mean_saturation": 0.3129388689994812,
+          "dark_fraction": 0.1276098901098901,
+          "bright_fraction": 0.42635400313971744,
+          "edge_fraction": 0.1838304552590267
+        },
+        {
+          "file": "07_00248.289.jpg",
+          "timestamp_seconds": 248.289,
+          "mean_value": 0.6539148092269897,
+          "mean_saturation": 0.29656678438186646,
+          "dark_fraction": 0.12692307692307692,
+          "bright_fraction": 0.45357142857142857,
+          "edge_fraction": 0.1811420722135008
+        },
+        {
+          "file": "08_00281.394.jpg",
+          "timestamp_seconds": 281.394,
+          "mean_value": 0.6590781807899475,
+          "mean_saturation": 0.2926196753978729,
+          "dark_fraction": 0.12737441130298274,
+          "bright_fraction": 0.4638932496075353,
+          "edge_fraction": 0.18104395604395604
+        },
+        {
+          "file": "09_00314.499.jpg",
+          "timestamp_seconds": 314.499,
+          "mean_value": 0.6229230165481567,
+          "mean_saturation": 0.2847849130630493,
+          "dark_fraction": 0.1273940345368917,
+          "bright_fraction": 0.3737441130298273,
+          "edge_fraction": 0.17533359497645212
+        },
+        {
+          "file": "10_00347.605.jpg",
+          "timestamp_seconds": 347.605,
+          "mean_value": 0.6412084102630615,
+          "mean_saturation": 0.30571120977401733,
+          "dark_fraction": 0.1274921507064364,
+          "bright_fraction": 0.43194662480376766,
+          "edge_fraction": 0.17621664050235478
+        },
+        {
+          "file": "11_00380.710.jpg",
+          "timestamp_seconds": 380.71,
+          "mean_value": 0.5954238772392273,
+          "mean_saturation": 0.2806369662284851,
+          "dark_fraction": 0.12776687598116168,
+          "bright_fraction": 0.31671899529042385,
+          "edge_fraction": 0.18343799058084773
+        },
+        {
+          "file": "12_00413.815.jpg",
+          "timestamp_seconds": 413.815,
+          "mean_value": 0.5990439653396606,
+          "mean_saturation": 0.27514007687568665,
+          "dark_fraction": 0.12717817896389325,
+          "bright_fraction": 0.3244701726844584,
+          "edge_fraction": 0.17849293563579277
+        },
+        {
+          "file": "13_00446.920.jpg",
+          "timestamp_seconds": 446.92,
+          "mean_value": 0.59600430727005,
+          "mean_saturation": 0.26126551628112793,
+          "dark_fraction": 0.12733516483516483,
+          "bright_fraction": 0.3207613814756672,
+          "edge_fraction": 0.17197802197802198
+        },
+        {
+          "file": "14_00480.025.jpg",
+          "timestamp_seconds": 480.025,
+          "mean_value": 0.6024941205978394,
+          "mean_saturation": 0.26674002408981323,
+          "dark_fraction": 0.12696232339089483,
+          "bright_fraction": 0.3327708006279435,
+          "edge_fraction": 0.17295918367346938
+        },
+        {
+          "file": "15_00513.131.jpg",
+          "timestamp_seconds": 513.131,
+          "mean_value": 0.5974079966545105,
+          "mean_saturation": 0.2645368278026581,
+          "dark_fraction": 0.1271585557299843,
+          "bright_fraction": 0.3179552590266876,
+          "edge_fraction": 0.17272370486656202
+        },
+        {
+          "file": "16_00546.236.jpg",
+          "timestamp_seconds": 546.236,
+          "mean_value": 0.5966880321502686,
+          "mean_saturation": 0.27800050377845764,
+          "dark_fraction": 0.12741365777080063,
+          "bright_fraction": 0.3220565149136578,
+          "edge_fraction": 0.1813579277864992
+        },
+        {
+          "file": "17_00579.341.jpg",
+          "timestamp_seconds": 579.341,
+          "mean_value": 0.596531093120575,
+          "mean_saturation": 0.2825384736061096,
+          "dark_fraction": 0.1275706436420722,
+          "bright_fraction": 0.32146781789638934,
+          "edge_fraction": 0.18186813186813186
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-C06",
+      "id": "AV-CHINA-010",
+      "drive_id": "1cmKCgdek46iLWjcatXz7jhKIubJ0Kvfp",
+      "filename": "【みちなるひろがる】倉本千奈  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "class": "song_communication",
+      "role": "みちなるひろがる / ゆめぱしー song commu",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-C06",
+      "sample_count": 18,
+      "mean_value": 0.6351288225915697,
+      "mean_saturation": 0.22905022568172878,
+      "mean_dark_fraction": 0.12686202686202683,
+      "mean_bright_fraction": 0.35268075178789465,
+      "mean_edge_fraction": 0.18923665620094188,
+      "mean_inter_sample_absolute_difference": 0.0472557175466243,
+      "frames": [
+        {
+          "file": "00_00017.096.jpg",
+          "timestamp_seconds": 17.096,
+          "mean_value": 0.6210275888442993,
+          "mean_saturation": 0.22742798924446106,
+          "dark_fraction": 0.12735478806907377,
+          "bright_fraction": 0.3218210361067504,
+          "edge_fraction": 0.16699372056514913
+        },
+        {
+          "file": "01_00051.287.jpg",
+          "timestamp_seconds": 51.287,
+          "mean_value": 0.6296618580818176,
+          "mean_saturation": 0.23885440826416016,
+          "dark_fraction": 0.12696232339089483,
+          "bright_fraction": 0.3454277864992151,
+          "edge_fraction": 0.1987441130298273
+        },
+        {
+          "file": "02_00085.478.jpg",
+          "timestamp_seconds": 85.478,
+          "mean_value": 0.6397365927696228,
+          "mean_saturation": 0.22477222979068756,
+          "dark_fraction": 0.12688383045525903,
+          "bright_fraction": 0.3641679748822606,
+          "edge_fraction": 0.1773155416012559
+        },
+        {
+          "file": "03_00119.670.jpg",
+          "timestamp_seconds": 119.67,
+          "mean_value": 0.6230655312538147,
+          "mean_saturation": 0.22657456994056702,
+          "dark_fraction": 0.12688383045525903,
+          "bright_fraction": 0.3315541601255887,
+          "edge_fraction": 0.1803767660910518
+        },
+        {
+          "file": "04_00153.861.jpg",
+          "timestamp_seconds": 153.861,
+          "mean_value": 0.6248226761817932,
+          "mean_saturation": 0.22852957248687744,
+          "dark_fraction": 0.12656985871271587,
+          "bright_fraction": 0.33169152276295133,
+          "edge_fraction": 0.20239403453689167
+        },
+        {
+          "file": "05_00188.053.jpg",
+          "timestamp_seconds": 188.053,
+          "mean_value": 0.6303280591964722,
+          "mean_saturation": 0.2288028448820114,
+          "dark_fraction": 0.12653061224489795,
+          "bright_fraction": 0.3406789638932496,
+          "edge_fraction": 0.20096153846153847
+        },
+        {
+          "file": "06_00222.244.jpg",
+          "timestamp_seconds": 222.244,
+          "mean_value": 0.6293482780456543,
+          "mean_saturation": 0.23319043219089508,
+          "dark_fraction": 0.1270408163265306,
+          "bright_fraction": 0.3427786499215071,
+          "edge_fraction": 0.1948587127158556
+        },
+        {
+          "file": "07_00256.435.jpg",
+          "timestamp_seconds": 256.435,
+          "mean_value": 0.6333102583885193,
+          "mean_saturation": 0.23600618541240692,
+          "dark_fraction": 0.1271193092621664,
+          "bright_fraction": 0.3510989010989011,
+          "edge_fraction": 0.1952708006279435
+        },
+        {
+          "file": "08_00290.627.jpg",
+          "timestamp_seconds": 290.627,
+          "mean_value": 0.6401501893997192,
+          "mean_saturation": 0.22342775762081146,
+          "dark_fraction": 0.1267072213500785,
+          "bright_fraction": 0.35523940345368915,
+          "edge_fraction": 0.1681514913657771
+        },
+        {
+          "file": "09_00324.818.jpg",
+          "timestamp_seconds": 324.818,
+          "mean_value": 0.6597670912742615,
+          "mean_saturation": 0.22000794112682343,
+          "dark_fraction": 0.1266287284144427,
+          "bright_fraction": 0.4018249607535322,
+          "edge_fraction": 0.18333987441130298
+        },
+        {
+          "file": "10_00359.010.jpg",
+          "timestamp_seconds": 359.01,
+          "mean_value": 0.6365105509757996,
+          "mean_saturation": 0.22951790690422058,
+          "dark_fraction": 0.12684458398744114,
+          "bright_fraction": 0.35645604395604397,
+          "edge_fraction": 0.1760204081632653
+        },
+        {
+          "file": "11_00393.201.jpg",
+          "timestamp_seconds": 393.201,
+          "mean_value": 0.632269561290741,
+          "mean_saturation": 0.23513160645961761,
+          "dark_fraction": 0.1268249607535322,
+          "bright_fraction": 0.3481750392464678,
+          "edge_fraction": 0.1978414442700157
+        },
+        {
+          "file": "12_00427.392.jpg",
+          "timestamp_seconds": 427.392,
+          "mean_value": 0.6306011080741882,
+          "mean_saturation": 0.2358098030090332,
+          "dark_fraction": 0.12700156985871272,
+          "bright_fraction": 0.34419152276295134,
+          "edge_fraction": 0.20147174254317113
+        },
+        {
+          "file": "13_00461.584.jpg",
+          "timestamp_seconds": 461.584,
+          "mean_value": 0.6493101119995117,
+          "mean_saturation": 0.22009597718715668,
+          "dark_fraction": 0.12698194662480378,
+          "bright_fraction": 0.37970957613814754,
+          "edge_fraction": 0.1960557299843014
+        },
+        {
+          "file": "14_00495.775.jpg",
+          "timestamp_seconds": 495.775,
+          "mean_value": 0.637156069278717,
+          "mean_saturation": 0.22643065452575684,
+          "dark_fraction": 0.12686420722135008,
+          "bright_fraction": 0.35502354788069074,
+          "edge_fraction": 0.17517660910518054
+        },
+        {
+          "file": "15_00529.966.jpg",
+          "timestamp_seconds": 529.966,
+          "mean_value": 0.6513217091560364,
+          "mean_saturation": 0.21864508092403412,
+          "dark_fraction": 0.12678571428571428,
+          "bright_fraction": 0.38324175824175827,
+          "edge_fraction": 0.19417189952904237
+        },
+        {
+          "file": "16_00564.158.jpg",
+          "timestamp_seconds": 564.158,
+          "mean_value": 0.6318244338035583,
+          "mean_saturation": 0.23596562445163727,
+          "dark_fraction": 0.12706043956043955,
+          "bright_fraction": 0.3475667189952904,
+          "edge_fraction": 0.19721350078492936
+        },
+        {
+          "file": "17_00598.349.jpg",
+          "timestamp_seconds": 598.349,
+          "mean_value": 0.632107138633728,
+          "mean_saturation": 0.23371347784996033,
+          "dark_fraction": 0.12647174254317112,
+          "bright_fraction": 0.34760596546310835,
+          "edge_fraction": 0.19990188383045526
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-P01",
+      "id": "AV-CHINA-011",
+      "drive_id": "1j2b3BnLhm8kNfHFse9gCMNNL4y3LSrxM",
+      "filename": "4K HDR「Wonder Scale」(歌：倉本千奈)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(2160p60).mp4",
+      "class": "rendered_performance",
+      "role": "Wonder Scale 3DMV",
+      "canonical": true,
+      "sample_directory": "keyframes/uniform/CHINA-P01",
+      "sample_count": 11,
+      "mean_value": 0.20229135860096326,
+      "mean_saturation": 0.4728202359242873,
+      "mean_dark_fraction": 0.6095565149136578,
+      "mean_bright_fraction": 0.04173861852433281,
+      "mean_edge_fraction": 0.05700906236620522,
+      "mean_inter_sample_absolute_difference": 0.11786095201969146,
+      "frames": [
+        {
+          "file": "00_00004.944.jpg",
+          "timestamp_seconds": 4.944,
+          "mean_value": 0.14925824105739594,
+          "mean_saturation": 0.6004614233970642,
+          "dark_fraction": 0.7770211930926216,
+          "bright_fraction": 0.016051805337519622,
+          "edge_fraction": 0.04446624803767661
+        },
+        {
+          "file": "01_00014.832.jpg",
+          "timestamp_seconds": 14.832,
+          "mean_value": 0.13846439123153687,
+          "mean_saturation": 0.3416786789894104,
+          "dark_fraction": 0.6664246467817896,
+          "bright_fraction": 0.002511773940345369,
+          "edge_fraction": 0.0336734693877551
+        },
+        {
+          "file": "02_00024.720.jpg",
+          "timestamp_seconds": 24.72,
+          "mean_value": 0.243963360786438,
+          "mean_saturation": 0.496827095746994,
+          "dark_fraction": 0.4963697017268446,
+          "bright_fraction": 0.039540816326530615,
+          "edge_fraction": 0.08877551020408163
+        },
+        {
+          "file": "03_00034.607.jpg",
+          "timestamp_seconds": 34.607,
+          "mean_value": 0.23648183047771454,
+          "mean_saturation": 0.4159991145133972,
+          "dark_fraction": 0.5270604395604396,
+          "bright_fraction": 0.05423861852433281,
+          "edge_fraction": 0.06842621664050236
+        },
+        {
+          "file": "04_00044.495.jpg",
+          "timestamp_seconds": 44.495,
+          "mean_value": 0.2256937474012375,
+          "mean_saturation": 0.48062682151794434,
+          "dark_fraction": 0.5746664050235479,
+          "bright_fraction": 0.04666405023547881,
+          "edge_fraction": 0.07258634222919937
+        },
+        {
+          "file": "05_00054.383.jpg",
+          "timestamp_seconds": 54.383,
+          "mean_value": 0.15260089933872223,
+          "mean_saturation": 0.4748540222644806,
+          "dark_fraction": 0.7022174254317112,
+          "bright_fraction": 0.014913657770800628,
+          "edge_fraction": 0.07543171114599687
+        },
+        {
+          "file": "06_00064.271.jpg",
+          "timestamp_seconds": 64.271,
+          "mean_value": 0.18656964600086212,
+          "mean_saturation": 0.5198445320129395,
+          "dark_fraction": 0.5716444270015698,
+          "bright_fraction": 0.007417582417582417,
+          "edge_fraction": 0.05217817896389325
+        },
+        {
+          "file": "07_00074.159.jpg",
+          "timestamp_seconds": 74.159,
+          "mean_value": 0.17369310557842255,
+          "mean_saturation": 0.4786878526210785,
+          "dark_fraction": 0.7488029827315542,
+          "bright_fraction": 0.061813186813186816,
+          "edge_fraction": 0.0461734693877551
+        },
+        {
+          "file": "08_00084.047.jpg",
+          "timestamp_seconds": 84.047,
+          "mean_value": 0.3077423870563507,
+          "mean_saturation": 0.5078919529914856,
+          "dark_fraction": 0.5672095761381476,
+          "bright_fraction": 0.1637166405023548,
+          "edge_fraction": 0.06183281004709576
+        },
+        {
+          "file": "09_00093.934.jpg",
+          "timestamp_seconds": 93.934,
+          "mean_value": 0.1549122929573059,
+          "mean_saturation": 0.4777258038520813,
+          "dark_fraction": 0.6430533751962323,
+          "bright_fraction": 0.0028061224489795917,
+          "edge_fraction": 0.04542778649921507
+        },
+        {
+          "file": "10_00103.822.jpg",
+          "timestamp_seconds": 103.822,
+          "mean_value": 0.2558250427246094,
+          "mean_saturation": 0.4064252972602844,
+          "dark_fraction": 0.4306514913657771,
+          "bright_fraction": 0.04945054945054945,
+          "edge_fraction": 0.038127943485086344
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-MV01",
+      "id": "AV-CHINA-012",
+      "drive_id": "11iMaCObZGddh7ZPH0YVIandwCO2eNQlU",
+      "filename": "初星学園 「Wonder Scale」Official Music Video (HATSUBOSHI GAKUEN - Wonder Scale)-(1080p24).mp4",
+      "class": "authored_official_mv",
+      "role": "Wonder Scale official MV",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-MV01",
+      "sample_count": 12,
+      "mean_value": 0.49369061303635436,
+      "mean_saturation": 0.48184620464841527,
+      "mean_dark_fraction": 0.20624127094972067,
+      "mean_bright_fraction": 0.1967280609869646,
+      "mean_edge_fraction": 0.06462406890130352,
+      "mean_inter_sample_absolute_difference": 0.23694365539334036,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.5281814932823181,
+          "mean_saturation": 0.444126158952713,
+          "dark_fraction": 0.1319308659217877,
+          "bright_fraction": 0.20939245810055865,
+          "edge_fraction": 0.06243016759776536
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.6998236179351807,
+          "mean_saturation": 0.4311094880104065,
+          "dark_fraction": 0.00022695530726256984,
+          "bright_fraction": 0.28615572625698327,
+          "edge_fraction": 0.04219622905027933
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.5455735921859741,
+          "mean_saturation": 0.4952768087387085,
+          "dark_fraction": 0.009008379888268156,
+          "bright_fraction": 0.08769203910614524,
+          "edge_fraction": 0.09086941340782123
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.6413030624389648,
+          "mean_saturation": 0.41313543915748596,
+          "dark_fraction": 0.00736731843575419,
+          "bright_fraction": 0.2902409217877095,
+          "edge_fraction": 0.07321927374301676
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.614319920539856,
+          "mean_saturation": 0.19591017067432404,
+          "dark_fraction": 0.00736731843575419,
+          "bright_fraction": 0.24125349162011173,
+          "edge_fraction": 0.09848114525139665
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.7045924067497253,
+          "mean_saturation": 0.3336293697357178,
+          "dark_fraction": 0.09827164804469274,
+          "bright_fraction": 0.4914280726256983,
+          "edge_fraction": 0.05387569832402234
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.7802915573120117,
+          "mean_saturation": 0.6592321991920471,
+          "dark_fraction": 0.0,
+          "bright_fraction": 0.5910614525139665,
+          "edge_fraction": 0.0703736033519553
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.1200840100646019,
+          "mean_saturation": 0.5704658627510071,
+          "dark_fraction": 0.9580656424581006,
+          "bright_fraction": 0.0009951117318435755,
+          "edge_fraction": 0.023952513966480446
+        },
+        {
+          "file": "raw_08.jpg",
+          "timestamp_seconds": 8.0,
+          "mean_value": 0.4374980926513672,
+          "mean_saturation": 0.8103200793266296,
+          "dark_fraction": 0.0,
+          "bright_fraction": 0.0012569832402234637,
+          "edge_fraction": 0.015450418994413408
+        },
+        {
+          "file": "raw_09.jpg",
+          "timestamp_seconds": 9.0,
+          "mean_value": 0.3039492070674896,
+          "mean_saturation": 0.5325212478637695,
+          "dark_fraction": 0.23116270949720671,
+          "bright_fraction": 0.009270251396648044,
+          "edge_fraction": 0.03821578212290503
+        },
+        {
+          "file": "raw_10.jpg",
+          "timestamp_seconds": 10.0,
+          "mean_value": 0.4450063109397888,
+          "mean_saturation": 0.4317292869091034,
+          "dark_fraction": 0.1651885474860335,
+          "bright_fraction": 0.11641061452513966,
+          "edge_fraction": 0.138268156424581
+        },
+        {
+          "file": "raw_11.jpg",
+          "timestamp_seconds": 11.0,
+          "mean_value": 0.1036640852689743,
+          "mean_saturation": 0.46469834446907043,
+          "dark_fraction": 0.8663058659217877,
+          "bright_fraction": 0.03557960893854749,
+          "edge_fraction": 0.06815642458100558
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-P02",
+      "id": "AV-CHINA-013",
+      "drive_id": "1JE5dfCvt9XtOfUXGtX8DvaBcGzC_ZPF8",
+      "filename": "4K HDR「日々、発見的ステップ！」(歌：倉本千奈 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "class": "rendered_performance",
+      "role": "日々、発見的ステップ！ 3DMV",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-P02",
+      "sample_count": 12,
+      "mean_value": 0.47840844591458637,
+      "mean_saturation": 0.38340863585472107,
+      "mean_dark_fraction": 0.2956383845437617,
+      "mean_bright_fraction": 0.29768243715083803,
+      "mean_edge_fraction": 0.1207227653631285,
+      "mean_inter_sample_absolute_difference": 0.23437198590148578,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.3497096002101898,
+          "mean_saturation": 0.39203718304634094,
+          "dark_fraction": 0.3541550279329609,
+          "bright_fraction": 0.1216131284916201,
+          "edge_fraction": 0.1631459497206704
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.48900628089904785,
+          "mean_saturation": 0.34948405623435974,
+          "dark_fraction": 0.27789804469273743,
+          "bright_fraction": 0.28126745810055864,
+          "edge_fraction": 0.1586417597765363
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.6488302946090698,
+          "mean_saturation": 0.3880310654640198,
+          "dark_fraction": 0.23922835195530726,
+          "bright_fraction": 0.5688896648044692,
+          "edge_fraction": 0.07304469273743017
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.41133150458335876,
+          "mean_saturation": 0.37484437227249146,
+          "dark_fraction": 0.26791201117318436,
+          "bright_fraction": 0.146927374301676,
+          "edge_fraction": 0.09792248603351955
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.5392298698425293,
+          "mean_saturation": 0.35909485816955566,
+          "dark_fraction": 0.2542423184357542,
+          "bright_fraction": 0.38999650837988825,
+          "edge_fraction": 0.11850558659217877
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.6624036431312561,
+          "mean_saturation": 0.4514799118041992,
+          "dark_fraction": 0.23444483240223463,
+          "bright_fraction": 0.6011347765363129,
+          "edge_fraction": 0.062168296089385476
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.4035424292087555,
+          "mean_saturation": 0.37221089005470276,
+          "dark_fraction": 0.329713687150838,
+          "bright_fraction": 0.18624301675977653,
+          "edge_fraction": 0.13591131284916202
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.39582559466362,
+          "mean_saturation": 0.35348761081695557,
+          "dark_fraction": 0.3531075418994413,
+          "bright_fraction": 0.1880062849162011,
+          "edge_fraction": 0.10717527932960894
+        },
+        {
+          "file": "raw_08.jpg",
+          "timestamp_seconds": 8.0,
+          "mean_value": 0.5008594393730164,
+          "mean_saturation": 0.4194648265838623,
+          "dark_fraction": 0.27417946927374304,
+          "bright_fraction": 0.2887744413407821,
+          "edge_fraction": 0.1318959497206704
+        },
+        {
+          "file": "raw_09.jpg",
+          "timestamp_seconds": 9.0,
+          "mean_value": 0.5588054656982422,
+          "mean_saturation": 0.4073168933391571,
+          "dark_fraction": 0.25619762569832405,
+          "bright_fraction": 0.4134776536312849,
+          "edge_fraction": 0.10377094972067039
+        },
+        {
+          "file": "raw_10.jpg",
+          "timestamp_seconds": 10.0,
+          "mean_value": 0.3869549036026001,
+          "mean_saturation": 0.36461910605430603,
+          "dark_fraction": 0.3574196927374302,
+          "bright_fraction": 0.17494762569832403,
+          "edge_fraction": 0.1710195530726257
+        },
+        {
+          "file": "raw_11.jpg",
+          "timestamp_seconds": 11.0,
+          "mean_value": 0.39440232515335083,
+          "mean_saturation": 0.36883285641670227,
+          "dark_fraction": 0.34916201117318435,
+          "bright_fraction": 0.210911312849162,
+          "edge_fraction": 0.1254713687150838
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-P03",
+      "id": "AV-CHINA-015",
+      "drive_id": "1g7vQqWeGQIFMKActxw-qlQDzfftEK5wn",
+      "filename": "4K HDR「Campus mode!!」(倉本千奈 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "class": "rendered_performance",
+      "role": "Campus mode!! 3DMV",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-P03",
+      "sample_count": 12,
+      "mean_value": 0.3017960824072361,
+      "mean_saturation": 0.493270439406236,
+      "mean_dark_fraction": 0.44565147811918066,
+      "mean_bright_fraction": 0.07723900139664804,
+      "mean_edge_fraction": 0.069262104283054,
+      "mean_inter_sample_absolute_difference": 0.1664707443930886,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.3306865692138672,
+          "mean_saturation": 0.5241257548332214,
+          "dark_fraction": 0.32714734636871506,
+          "bright_fraction": 0.06559008379888268,
+          "edge_fraction": 0.04645600558659218
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.14092528820037842,
+          "mean_saturation": 0.4349806606769562,
+          "dark_fraction": 0.7336941340782123,
+          "bright_fraction": 0.001920391061452514,
+          "edge_fraction": 0.023568435754189945
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.2620961368083954,
+          "mean_saturation": 0.48655688762664795,
+          "dark_fraction": 0.49352304469273744,
+          "bright_fraction": 0.061749301675977655,
+          "edge_fraction": 0.06731843575418994
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.40563705563545227,
+          "mean_saturation": 0.5068539977073669,
+          "dark_fraction": 0.2701117318435754,
+          "bright_fraction": 0.1017981843575419,
+          "edge_fraction": 0.10872905027932961
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.3641529381275177,
+          "mean_saturation": 0.45302051305770874,
+          "dark_fraction": 0.3843400837988827,
+          "bright_fraction": 0.11923882681564246,
+          "edge_fraction": 0.08767458100558659
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.24492688477039337,
+          "mean_saturation": 0.5505502820014954,
+          "dark_fraction": 0.5188896648044693,
+          "bright_fraction": 0.041218575418994416,
+          "edge_fraction": 0.04539106145251397
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.28672024607658386,
+          "mean_saturation": 0.4287933111190796,
+          "dark_fraction": 0.4052199720670391,
+          "bright_fraction": 0.06597416201117319,
+          "edge_fraction": 0.0611731843575419
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.32386019825935364,
+          "mean_saturation": 0.5888874530792236,
+          "dark_fraction": 0.42386522346368716,
+          "bright_fraction": 0.06223812849162011,
+          "edge_fraction": 0.074231843575419
+        },
+        {
+          "file": "raw_08.jpg",
+          "timestamp_seconds": 8.0,
+          "mean_value": 0.3789852261543274,
+          "mean_saturation": 0.5075253248214722,
+          "dark_fraction": 0.29055516759776534,
+          "bright_fraction": 0.09947625698324022,
+          "edge_fraction": 0.12800279329608938
+        },
+        {
+          "file": "raw_09.jpg",
+          "timestamp_seconds": 9.0,
+          "mean_value": 0.2492261826992035,
+          "mean_saturation": 0.47568678855895996,
+          "dark_fraction": 0.5960370111731843,
+          "bright_fraction": 0.09450069832402234,
+          "edge_fraction": 0.06400139664804469
+        },
+        {
+          "file": "raw_10.jpg",
+          "timestamp_seconds": 10.0,
+          "mean_value": 0.31933310627937317,
+          "mean_saturation": 0.4466521143913269,
+          "dark_fraction": 0.3979574022346369,
+          "bright_fraction": 0.08406075418994413,
+          "edge_fraction": 0.057192737430167596
+        },
+        {
+          "file": "raw_11.jpg",
+          "timestamp_seconds": 11.0,
+          "mean_value": 0.3150031566619873,
+          "mean_saturation": 0.5156121850013733,
+          "dark_fraction": 0.5064769553072626,
+          "bright_fraction": 0.12910265363128492,
+          "edge_fraction": 0.06740572625698324
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-P04",
+      "id": "AV-CHINA-014",
+      "drive_id": "1DZ4Uz5KUKo_h-rqVFZafcUown65IrxL9",
+      "filename": "4K HDR「空と約束」 (倉本千奈 STEP3 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "class": "rendered_performance",
+      "role": "空と約束 STEP3 3DMV",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-P04",
+      "sample_count": 8,
+      "mean_value": 0.4565755072981119,
+      "mean_saturation": 0.5214055255055428,
+      "mean_dark_fraction": 0.31567082751396647,
+      "mean_bright_fraction": 0.25877924231843574,
+      "mean_edge_fraction": 0.07123996159217877,
+      "mean_inter_sample_absolute_difference": 0.19439243844577245,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.1701708287000656,
+          "mean_saturation": 0.6206805109977722,
+          "dark_fraction": 0.6013791899441341,
+          "bright_fraction": 0.00034916201117318437,
+          "edge_fraction": 0.0859986033519553
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.3948616683483124,
+          "mean_saturation": 0.5007069706916809,
+          "dark_fraction": 0.2720146648044693,
+          "bright_fraction": 0.1322800279329609,
+          "edge_fraction": 0.06785963687150838
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.47200873494148254,
+          "mean_saturation": 0.5509771108627319,
+          "dark_fraction": 0.3119413407821229,
+          "bright_fraction": 0.24731145251396647,
+          "edge_fraction": 0.056843575418994416
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.6551290154457092,
+          "mean_saturation": 0.5810452699661255,
+          "dark_fraction": 0.23926326815642457,
+          "bright_fraction": 0.5605970670391062,
+          "edge_fraction": 0.040118715083798884
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.5309480428695679,
+          "mean_saturation": 0.5731551647186279,
+          "dark_fraction": 0.25335195530726257,
+          "bright_fraction": 0.3203212290502793,
+          "edge_fraction": 0.12164804469273743
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.3826015293598175,
+          "mean_saturation": 0.4683714509010315,
+          "dark_fraction": 0.3201990223463687,
+          "bright_fraction": 0.14519902234636872,
+          "edge_fraction": 0.029120111731843576
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.49176883697509766,
+          "mean_saturation": 0.40871661901474,
+          "dark_fraction": 0.25661662011173186,
+          "bright_fraction": 0.27527932960893853,
+          "edge_fraction": 0.12390013966480447
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.5551154017448425,
+          "mean_saturation": 0.4675911068916321,
+          "dark_fraction": 0.2706005586592179,
+          "bright_fraction": 0.38889664804469276,
+          "edge_fraction": 0.04443086592178771
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-P05",
+      "id": "AV-CHINA-016",
+      "drive_id": "1i3ZPaYcsEj9EKVFCvRV0lwxCwM9ZBFQI",
+      "filename": "4K HDR「みちなるひろがる」 (篠澤広・倉本千奈 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "class": "rendered_performance",
+      "role": "みちなるひろがる China/Hiro 3DMV",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-P05",
+      "sample_count": 8,
+      "mean_value": 0.448955774307251,
+      "mean_saturation": 0.4562397114932537,
+      "mean_dark_fraction": 0.34986688198324023,
+      "mean_bright_fraction": 0.28499694483240223,
+      "mean_edge_fraction": 0.09958537011173185,
+      "mean_inter_sample_absolute_difference": 0.23925720368112838,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.31295737624168396,
+          "mean_saturation": 0.4294561743736267,
+          "dark_fraction": 0.37643156424581004,
+          "bright_fraction": 0.08123254189944135,
+          "edge_fraction": 0.12246857541899442
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.40633177757263184,
+          "mean_saturation": 0.45078137516975403,
+          "dark_fraction": 0.35123952513966483,
+          "bright_fraction": 0.18543994413407822,
+          "edge_fraction": 0.09966829608938547
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.4843706488609314,
+          "mean_saturation": 0.4454747438430786,
+          "dark_fraction": 0.24951117318435753,
+          "bright_fraction": 0.2870635474860335,
+          "edge_fraction": 0.058344972067039105
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.5210456252098083,
+          "mean_saturation": 0.4219612777233124,
+          "dark_fraction": 0.2713687150837989,
+          "bright_fraction": 0.3447625698324022,
+          "edge_fraction": 0.09273743016759776
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.5309919118881226,
+          "mean_saturation": 0.43902838230133057,
+          "dark_fraction": 0.3379364525139665,
+          "bright_fraction": 0.41244762569832405,
+          "edge_fraction": 0.11552025139664804
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.47323086857795715,
+          "mean_saturation": 0.48071062564849854,
+          "dark_fraction": 0.3842527932960894,
+          "bright_fraction": 0.3686103351955307,
+          "edge_fraction": 0.11988477653631285
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.6224724054336548,
+          "mean_saturation": 0.44204482436180115,
+          "dark_fraction": 0.30844972067039106,
+          "bright_fraction": 0.5761871508379889,
+          "edge_fraction": 0.09085195530726257
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.24024558067321777,
+          "mean_saturation": 0.5404602885246277,
+          "dark_fraction": 0.5197451117318436,
+          "bright_fraction": 0.024231843575418993,
+          "edge_fraction": 0.09720670391061452
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-MV02",
+      "id": "AV-CHINA-017",
+      "drive_id": "11mI8RgJylKF-gdGGGfMAPlJbgchJbK4U",
+      "filename": "初星学園 「みちなるひろがる」Official Music Video (HATSUBOSHI GAKUEN - Unknown Unbound)-(1080p30).mp4",
+      "class": "authored_official_mv",
+      "role": "みちなるひろがる official MV",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-MV02",
+      "sample_count": 8,
+      "mean_value": 0.39595082454616204,
+      "mean_saturation": 0.3399369517574087,
+      "mean_dark_fraction": 0.3132987081005587,
+      "mean_bright_fraction": 0.1862473812849162,
+      "mean_edge_fraction": 0.03561234287709497,
+      "mean_inter_sample_absolute_difference": 0.3065422134740012,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.0044594150967895985,
+          "mean_saturation": 0.015024441294372082,
+          "dark_fraction": 1.0,
+          "bright_fraction": 0.0,
+          "edge_fraction": 0.0
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.7633411288261414,
+          "mean_saturation": 0.02642369456589222,
+          "dark_fraction": 0.1005586592178771,
+          "bright_fraction": 0.6346194134078212,
+          "edge_fraction": 0.05499301675977654
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.3272232711315155,
+          "mean_saturation": 0.33150267601013184,
+          "dark_fraction": 0.23915851955307263,
+          "bright_fraction": 0.04128840782122905,
+          "edge_fraction": 0.04574022346368715
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.39170488715171814,
+          "mean_saturation": 0.48330971598625183,
+          "dark_fraction": 0.10432960893854748,
+          "bright_fraction": 0.0,
+          "edge_fraction": 0.011312849162011173
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.3937281668186188,
+          "mean_saturation": 0.34619900584220886,
+          "dark_fraction": 0.5447101955307263,
+          "bright_fraction": 0.36726606145251395,
+          "edge_fraction": 0.04039804469273743
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.6244682669639587,
+          "mean_saturation": 0.6401386260986328,
+          "dark_fraction": 0.1628840782122905,
+          "bright_fraction": 0.43987430167597763,
+          "edge_fraction": 0.04732891061452514
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.3325330913066864,
+          "mean_saturation": 0.3947077989578247,
+          "dark_fraction": 0.212447625698324,
+          "bright_fraction": 0.0067039106145251395,
+          "edge_fraction": 0.0703736033519553
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.3301483690738678,
+          "mean_saturation": 0.4821896553039551,
+          "dark_fraction": 0.14230097765363128,
+          "bright_fraction": 0.00022695530726256984,
+          "edge_fraction": 0.014752094972067038
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-MV03",
+      "id": "AV-CHINA-018",
+      "drive_id": "1U8aU_cE0lIXwWpkKve3Y1qvpRYKRLMwF",
+      "filename": "初星学園 「ときめきのソルフェージュ」Official Music Video (HATSUBOSHI GAKUEN - Fantasy Solfege)-(1080p24).mp4",
+      "class": "authored_official_mv",
+      "role": "ときめきのソルフェージュ official MV",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-MV03",
+      "sample_count": 8,
+      "mean_value": 0.7690317742526531,
+      "mean_saturation": 0.3723764829337597,
+      "mean_dark_fraction": 0.031119064245810055,
+      "mean_bright_fraction": 0.5603548358938547,
+      "mean_edge_fraction": 0.08470888617318437,
+      "mean_inter_sample_absolute_difference": 0.2674115683351244,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.4268374741077423,
+          "mean_saturation": 0.6209120750427246,
+          "dark_fraction": 0.17990572625698323,
+          "bright_fraction": 0.014228351955307262,
+          "edge_fraction": 0.01675977653631285
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.9647681713104248,
+          "mean_saturation": 0.2681763768196106,
+          "dark_fraction": 0.0,
+          "bright_fraction": 0.9839560055865921,
+          "edge_fraction": 0.15600558659217878
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.9642115831375122,
+          "mean_saturation": 0.43111616373062134,
+          "dark_fraction": 0.0,
+          "bright_fraction": 0.96080656424581,
+          "edge_fraction": 0.03037709497206704
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.8917509317398071,
+          "mean_saturation": 0.34032440185546875,
+          "dark_fraction": 0.0,
+          "bright_fraction": 0.7839909217877095,
+          "edge_fraction": 0.12583798882681566
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.8064109683036804,
+          "mean_saturation": 0.4304928183555603,
+          "dark_fraction": 0.0,
+          "bright_fraction": 0.44594972067039107,
+          "edge_fraction": 0.09711941340782122
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.8129277229309082,
+          "mean_saturation": 0.3677571713924408,
+          "dark_fraction": 0.0007332402234636871,
+          "bright_fraction": 0.742423184357542,
+          "edge_fraction": 0.10261871508379888
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.7459268569946289,
+          "mean_saturation": 0.2347509264945984,
+          "dark_fraction": 0.01560754189944134,
+          "bright_fraction": 0.4383554469273743,
+          "edge_fraction": 0.03626047486033519
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.539420485496521,
+          "mean_saturation": 0.28548192977905273,
+          "dark_fraction": 0.05270600558659218,
+          "bright_fraction": 0.11312849162011174,
+          "edge_fraction": 0.11269203910614525
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-P06",
+      "id": "AV-CHINA-019",
+      "drive_id": "1CxE6uGjanwVZFYLegwzAI3CYvMlo7DVv",
+      "filename": "4K HDR「がむしゃらに行こう！」 (倉本千奈 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "class": "rendered_performance",
+      "role": "がむしゃらに行こう！ range test",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-P06",
+      "sample_count": 8,
+      "mean_value": 0.6111465245485306,
+      "mean_saturation": 0.5062096938490868,
+      "mean_dark_fraction": 0.2553072625698324,
+      "mean_bright_fraction": 0.48575200768156424,
+      "mean_edge_fraction": 0.09988434008379889,
+      "mean_inter_sample_absolute_difference": 0.2026961190359933,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.4442005753517151,
+          "mean_saturation": 0.42142149806022644,
+          "dark_fraction": 0.4009252793296089,
+          "bright_fraction": 0.2692912011173184,
+          "edge_fraction": 0.13779678770949721
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.615313708782196,
+          "mean_saturation": 0.5431745648384094,
+          "dark_fraction": 0.2332576815642458,
+          "bright_fraction": 0.47009427374301677,
+          "edge_fraction": 0.0865572625698324
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.6273329257965088,
+          "mean_saturation": 0.5905294418334961,
+          "dark_fraction": 0.23610335195530727,
+          "bright_fraction": 0.4760300279329609,
+          "edge_fraction": 0.11567737430167598
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.6471231579780579,
+          "mean_saturation": 0.4325839877128601,
+          "dark_fraction": 0.23039455307262569,
+          "bright_fraction": 0.5667248603351955,
+          "edge_fraction": 0.05640712290502793
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.6196538805961609,
+          "mean_saturation": 0.5480875968933105,
+          "dark_fraction": 0.2341131284916201,
+          "bright_fraction": 0.49198673184357544,
+          "edge_fraction": 0.0782995810055866
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.6264483332633972,
+          "mean_saturation": 0.5053523778915405,
+          "dark_fraction": 0.2332576815642458,
+          "bright_fraction": 0.4719448324022346,
+          "edge_fraction": 0.0892108938547486
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.6624419093132019,
+          "mean_saturation": 0.44521990418434143,
+          "dark_fraction": 0.23893156424581005,
+          "bright_fraction": 0.6159217877094972,
+          "edge_fraction": 0.13992667597765363
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.6466577053070068,
+          "mean_saturation": 0.5633081793785095,
+          "dark_fraction": 0.23547486033519552,
+          "bright_fraction": 0.524022346368715,
+          "edge_fraction": 0.09519902234636872
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-P07",
+      "id": "AV-CHINA-020",
+      "drive_id": "1O7ujN5P1_MKb_rvo3M5wH65_tKyPOrMY",
+      "filename": "4K HDR「ENDLESS DANCE」(倉本千奈 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "class": "rendered_performance",
+      "role": "ENDLESS DANCE range test",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-P07",
+      "sample_count": 8,
+      "mean_value": 0.2828922951593995,
+      "mean_saturation": 0.6935287229716778,
+      "mean_dark_fraction": 0.5272368191340782,
+      "mean_bright_fraction": 0.10175453910614525,
+      "mean_edge_fraction": 0.05322538407821229,
+      "mean_inter_sample_absolute_difference": 0.1582362332514354,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.1968538612127304,
+          "mean_saturation": 0.6900195479393005,
+          "dark_fraction": 0.6422311452513967,
+          "bright_fraction": 0.05199022346368715,
+          "edge_fraction": 0.04125349162011173
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.18693320453166962,
+          "mean_saturation": 0.4650095999240875,
+          "dark_fraction": 0.7218051675977654,
+          "bright_fraction": 0.057000698324022346,
+          "edge_fraction": 0.05116969273743017
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.37318435311317444,
+          "mean_saturation": 0.87583327293396,
+          "dark_fraction": 0.24797486033519553,
+          "bright_fraction": 0.09809706703910615,
+          "edge_fraction": 0.03751745810055866
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.07531862705945969,
+          "mean_saturation": 0.5363679528236389,
+          "dark_fraction": 0.9326990223463687,
+          "bright_fraction": 0.00036662011173184357,
+          "edge_fraction": 0.029993016759776538
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.4264063537120819,
+          "mean_saturation": 0.7798283696174622,
+          "dark_fraction": 0.3524441340782123,
+          "bright_fraction": 0.2424231843575419,
+          "edge_fraction": 0.07941689944134078
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.45951220393180847,
+          "mean_saturation": 0.6734831929206848,
+          "dark_fraction": 0.27300977653631286,
+          "bright_fraction": 0.2053421787709497,
+          "edge_fraction": 0.08114525139664805
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.2431657463312149,
+          "mean_saturation": 0.7838231325149536,
+          "dark_fraction": 0.5954259776536313,
+          "bright_fraction": 0.04408170391061453,
+          "edge_fraction": 0.05377094972067039
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.30176401138305664,
+          "mean_saturation": 0.7438647150993347,
+          "dark_fraction": 0.452304469273743,
+          "bright_fraction": 0.11473463687150838,
+          "edge_fraction": 0.05153631284916201
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-P08",
+      "id": "AV-CHINA-021",
+      "drive_id": "1YB8Pie5jWgBojY-DrOnepOGHN1m4XIBC",
+      "filename": "4K HDR「Howling over the World」 (倉本千奈 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "class": "rendered_performance",
+      "role": "Howling over the World range test",
+      "canonical": true,
+      "sample_directory": "keyframes/fast/CHINA-P08",
+      "sample_count": 8,
+      "mean_value": 0.2426176421577111,
+      "mean_saturation": 0.35153786512091756,
+      "mean_dark_fraction": 0.6057371682960894,
+      "mean_bright_fraction": 0.08495329958100559,
+      "mean_edge_fraction": 0.059684881284916204,
+      "mean_inter_sample_absolute_difference": 0.19388527742453984,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.22298410534858704,
+          "mean_saturation": 0.5681094527244568,
+          "dark_fraction": 0.6002269553072626,
+          "bright_fraction": 0.04677025139664805,
+          "edge_fraction": 0.04893505586592179
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.1153765469789505,
+          "mean_saturation": 0.20737716555595398,
+          "dark_fraction": 0.8150837988826816,
+          "bright_fraction": 0.004486731843575419,
+          "edge_fraction": 0.07004189944134079
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.16864252090454102,
+          "mean_saturation": 0.5103021860122681,
+          "dark_fraction": 0.7384951117318436,
+          "bright_fraction": 0.025995111731843577,
+          "edge_fraction": 0.025977653631284917
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.27501049637794495,
+          "mean_saturation": 0.44726306200027466,
+          "dark_fraction": 0.4817562849162011,
+          "bright_fraction": 0.0775663407821229,
+          "edge_fraction": 0.06744064245810055
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.3903389871120453,
+          "mean_saturation": 0.16517788171768188,
+          "dark_fraction": 0.422643156424581,
+          "bright_fraction": 0.15275837988826815,
+          "edge_fraction": 0.09200418994413408
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.36674776673316956,
+          "mean_saturation": 0.5786638259887695,
+          "dark_fraction": 0.30982891061452517,
+          "bright_fraction": 0.10532472067039106,
+          "edge_fraction": 0.07157821229050279
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.39785444736480713,
+          "mean_saturation": 0.31140822172164917,
+          "dark_fraction": 0.4778631284916201,
+          "bright_fraction": 0.26672486033519555,
+          "edge_fraction": 0.1015013966480447
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.003986266441643238,
+          "mean_saturation": 0.024001125246286392,
+          "dark_fraction": 1.0,
+          "bright_fraction": 0.0,
+          "edge_fraction": 0.0
+        }
+      ]
+    },
+    {
+      "keyframe_id": "CHINA-S01",
+      "id": "AV-CHINA-S01",
+      "drive_id": "1XwJJHeYvy6jHQWL2Q-HqGUH3lXnghQXn",
+      "filename": "氷渡香名江【プロデューサー。お嬢様を怖がらせないでいただけますか？】【倉本千奈】親愛度コミュ 21話-(1080p25).mp4",
+      "class": "supplemental_excerpt",
+      "role": "Dear 021 Kanae excerpt; duplicate scene aid",
+      "canonical": false,
+      "sample_directory": "keyframes/fast/CHINA-S01",
+      "sample_count": 8,
+      "mean_value": 0.7113150432705879,
+      "mean_saturation": 0.3117579407989979,
+      "mean_dark_fraction": 0.002826030027932961,
+      "mean_bright_fraction": 0.3977959148044693,
+      "mean_edge_fraction": 0.19716087639664803,
+      "mean_inter_sample_absolute_difference": 0.06202069749789579,
+      "frames": [
+        {
+          "file": "raw_00.jpg",
+          "timestamp_seconds": 0.0,
+          "mean_value": 0.729249119758606,
+          "mean_saturation": 0.31028231978416443,
+          "dark_fraction": 0.002967877094972067,
+          "bright_fraction": 0.4473463687150838,
+          "edge_fraction": 0.18956005586592178
+        },
+        {
+          "file": "raw_01.jpg",
+          "timestamp_seconds": 1.0,
+          "mean_value": 0.7465116381645203,
+          "mean_saturation": 0.31088465452194214,
+          "dark_fraction": 0.0030377094972067037,
+          "bright_fraction": 0.4869064245810056,
+          "edge_fraction": 0.18388617318435754
+        },
+        {
+          "file": "raw_02.jpg",
+          "timestamp_seconds": 2.0,
+          "mean_value": 0.6992329359054565,
+          "mean_saturation": 0.3101430833339691,
+          "dark_fraction": 0.0027583798882681566,
+          "bright_fraction": 0.36744064245810054,
+          "edge_fraction": 0.20618016759776536
+        },
+        {
+          "file": "raw_03.jpg",
+          "timestamp_seconds": 3.0,
+          "mean_value": 0.7026512026786804,
+          "mean_saturation": 0.30264055728912354,
+          "dark_fraction": 0.002880586592178771,
+          "bright_fraction": 0.3698149441340782,
+          "edge_fraction": 0.19313896648044693
+        },
+        {
+          "file": "raw_04.jpg",
+          "timestamp_seconds": 4.0,
+          "mean_value": 0.699899435043335,
+          "mean_saturation": 0.31955406069755554,
+          "dark_fraction": 0.0025314245810055865,
+          "bright_fraction": 0.36941340782122906,
+          "edge_fraction": 0.20469622905027932
+        },
+        {
+          "file": "raw_05.jpg",
+          "timestamp_seconds": 5.0,
+          "mean_value": 0.697949230670929,
+          "mean_saturation": 0.3157164752483368,
+          "dark_fraction": 0.002706005586592179,
+          "bright_fraction": 0.36478701117318435,
+          "edge_fraction": 0.20761173184357543
+        },
+        {
+          "file": "raw_06.jpg",
+          "timestamp_seconds": 6.0,
+          "mean_value": 0.7015858292579651,
+          "mean_saturation": 0.32011517882347107,
+          "dark_fraction": 0.0028631284916201117,
+          "bright_fraction": 0.3753491620111732,
+          "edge_fraction": 0.20289804469273742
+        },
+        {
+          "file": "raw_07.jpg",
+          "timestamp_seconds": 7.0,
+          "mean_value": 0.7134409546852112,
+          "mean_saturation": 0.3047271966934204,
+          "dark_fraction": 0.0028631284916201117,
+          "bright_fraction": 0.40130935754189945,
+          "edge_fraction": 0.18931564245810056
+        }
+      ]
+    }
+  ]
+}

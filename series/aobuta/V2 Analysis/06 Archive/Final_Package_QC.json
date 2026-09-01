@@ -1,0 +1,32 @@
+{
+  "release_version": "1.0",
+  "date": "2026-08-12",
+  "status": "passed",
+  "expected_final_file_count": 89,
+  "source_revalidation": {
+    "sources": 17,
+    "sha256_passed": 17,
+    "size_passed": 17,
+    "zip_crc_passed": 17
+  },
+  "links": {
+    "checked_internal_links": 357,
+    "external_links_ignored": 0,
+    "broken_count": 0,
+    "broken": []
+  },
+  "duplication": {
+    "duplicate_groups_600plus": 0
+  },
+  "markdown": {
+    "files": 66,
+    "utf8_passed": 66,
+    "frontmatter_passed": 66
+  },
+  "source_payload_scan": {
+    "forbidden_count": 0,
+    "forbidden": []
+  },
+  "substantive_word_total": 380431,
+  "checksum_policy": "all packaged files except ARTIFACT_CHECKSUMS.sha256 itself"
+}

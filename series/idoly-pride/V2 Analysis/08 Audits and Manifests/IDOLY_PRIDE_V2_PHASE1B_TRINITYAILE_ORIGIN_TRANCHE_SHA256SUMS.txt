@@ -1,0 +1,15 @@
+1c01cf16448fc0a728e0155c3f92872702ea530e69c5c88994387810a47f13d1  IDOLY_PRIDE_V2_PHASE1B_TRINITYAILE_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
+8b305130a3993e4526456521b6d5451dfb2ccac3531427aea2950199668bb5be  IDOLY_PRIDE_V2_PHASE1B_TRINITYAILE_ORIGIN_AUDIT.md
+f4e9bc71f3069f8f446966911b5370934eb3b9418ffcadc0ddf5a11ff70d73e5  IDOLY_PRIDE_V2_HOSHIMI_ANIME_GAME_EXPANSION_AUDIT_ADDENDUM_TRINITYAILE_ORIGINS.md
+13547b9e69876f7c4685f48b16cb305ae00a390c13a37d15d2a4cc598c95b4dd  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v0.9.md
+
+# Freeze integrity note
+# The primary findings freeze was finalized and SHA-256 locked before historical TRINITYAiLE analysis was consulted.
+# Freeze integrity: PRISTINE.
+
+# Next output and recommended model
+# Next output: Phase 1B IIIX origins (origin_thrx_001 -> origin_thrx_004)
+# Dependency status: HARD PREREQUISITE before Tokyo main story.
+# Recommended model: GPT-5.6 Sol
+# Recommended reasoning level: Extra High
+# Reason: IIIX becomes a major governing actor in Tokyo. Its origin must establish formation, internal relationships, professional philosophy, agency/management structure, and pre-Tokyo state before the Tokyo prospective read; errors here would contaminate the main-story baseline.

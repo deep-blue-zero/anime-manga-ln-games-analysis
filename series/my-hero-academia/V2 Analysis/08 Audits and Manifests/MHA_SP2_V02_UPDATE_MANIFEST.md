@@ -1,0 +1,78 @@
+---
+series: MHA
+artifact_type: manifest
+scope: V02_UPDATE
+generation: V2
+status: canonical
+source_boundary: "MHA SP2 corpus state after canonical Volume 2 deep reading"
+supersedes: null
+superseded_by: null
+do_not_use_as_current_authority: false
+---
+
+# MHA SP2 — Volume 2 Update Manifest
+
+## Source
+- Japanese Volume 2 CBZ Drive ID: `1q4aa5eylIZMUJObKpAvmsWc49wsE80gA`
+- Working-storage policy: fetched/materialized temporarily; canonical source remains in Drive.
+- Chapters: 8–17.
+
+## Canonical deep reading
+- `MHA_SP2_V02_DEEP_READING.md`
+- Drive ID: `19C3yJh0Q0Pjr36nR_YHPF-n5BjjueYXo`
+- Method: `MHA_SP2_ANALYTICAL_METHOD_V2_1.md`
+
+## Existing cumulative artifacts updated in place
+- `MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md` — `1KN9X0tT7v6yjUxdwUnNfBhofXb0uEvPk`
+- `MHA_SP2_UA_STUDENTS_STAFF_CHARACTER_STATE_LEDGER.md` — `1pSfH16usUudnK_11uPesd_iXFCMj30BQ`
+- `MHA_SP2_PRO_HERO_CHARACTER_STATE_LEDGER.md` — `1zaDNVefhZOOlXEr5auSqypE7T38GOUPJ`
+- `MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md` — `1vUHPXSKjsSWL7RUHrNMGiLHlzv7ftcF7`
+- `MHA_SP2_RELATIONSHIP_STATE_LEDGER.md` — `1m4QYuycH7KblGK5os-rqgmrrcvqlqImm`
+- `MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md` — `1jLZSCkjrdcazLPojRE0Y13TxXXYKIIhv`
+- `CURRENT_STATE_AND_CORPUS_MAP.md` — `1xigCMJcOEt3bjol8gxatGJdBfFo7rP84`
+- `MHA_SP2_SOURCE_INVENTORY.md` — `1fp9HWM3h4DW2Ef2XXHBk4MVk1QfwPXVs`
+
+## New cumulative thematic/evidence artifacts instantiated
+- `MHA_SP2_POWER_PHILOSOPHY_LEDGER.md` — `1cAeX8_M89hEcb_gZcNmMdfVdOK7u07JF`
+- `MHA_SP2_HERO_SOCIETY_LEDGER.md` — `10gEecJ3F5x80SkPTVSZC1-4FASSEFWOQ`
+- `MHA_SP2_RECOGNITION_FAILED_RESCUE_LEDGER.md` — `1UqPx1kkhSoO1TkrGwAb842gUhDVOmSH9`
+- `MHA_SP2_VILLAIN_FORMATION_LEDGER.md` — `1kzDNpGM57ddg5C-gkMBZ8_Ab38VpbXIq`
+- `MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md` — `1xbYS39Hmqp2RUKpbQ86RxMo5l35Kh6lQ`
+- `MHA_SP2_VISUAL_MOTIF_LEDGER.md` — `1IjyBx43uin38jzdwbshRjTIfAiCEyoJS`
+- `MHA_SP2_CALLBACK_PAYOFF_LEDGER.md` — `1dAQXcE3z5qdYyDRecX5CVmSzWApytyno`
+- `MHA_SP2_FIRST_PASS_CORRECTION_LEDGER.md` — `1j6vCy5OI7MU2c5IZnRUQesvnQnF-R7ZZ`
+- `MHA_SP2_PRIMARY_SOURCE_LOCATOR.md` — `1znRiVmw5GmgSdL2jLyudxv7Crc7c9y1v`
+
+## Key readiness transitions
+- Midoriya Izuku: `emerging → moderate`
+- Bakugo Katsuki: `emerging → moderate`
+- Iida Tenya: `emerging → moderate`
+- All Might: `emerging → moderate`
+- Aizawa Shota: `emerging → moderate`
+- New `emerging` baselines: Tsuyu, Yaoyorozu, Todoroki, Shigaraki, Kurogiri, Recovery Girl, Thirteen.
+
+## Local SHA-256 audit
+
+```text
+741a022e022a28cf77d17d939b9ff35acad9ce4a6ba7d1bc152f7a0f98536915  MHA_SP2_V02_DEEP_READING.md
+71d6977ec962c4a0d571e915cc8ae6d4cf77ed8f28cf9b0ea62cd7dd86acd155  MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md
+e0f73dfe2cf5796a28940f7cdef937761adac411c9f5329f75887feba85137a1  MHA_SP2_UA_STUDENTS_STAFF_CHARACTER_STATE_LEDGER.md
+3b762d06433ba03a3389035b39351af8110483818bc44f72219d36298771b7ec  MHA_SP2_PRO_HERO_CHARACTER_STATE_LEDGER.md
+f016363047330b19fbdbccca3a3f452e1cc713bd3a528ed1d126e782d88a0766  MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md
+e08f6bf7f4a80e5bc27ef54f413b3e82e21398beafbfd9c7873bb6984709033d  MHA_SP2_RELATIONSHIP_STATE_LEDGER.md
+3333a1a43db4adcf38b28a2cffdf10b5c4d533eee727fc9cfae286635381fd7a  MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md
+3bdd7d37eafc6df143e7852d07b65b2c742f3c0f52c38c05d0077d10a1aaf731  MHA_SP2_POWER_PHILOSOPHY_LEDGER.md
+3a00c4e7e36c258bf8a05b2ae20e031f82eb957cdccdf6b6c63f3093b5b18124  MHA_SP2_HERO_SOCIETY_LEDGER.md
+70c0088ff1fb606623d6b63a0d5b385d85c9ff80f482215e5c0ac6c2e24a9d11  MHA_SP2_RECOGNITION_FAILED_RESCUE_LEDGER.md
+7ec8764e4f4b64aaa98be44e270cf12ea01cc1d936805181a7d042725d2b34d5  MHA_SP2_VILLAIN_FORMATION_LEDGER.md
+4df04f3351d87da81938b6c252b9acc7b0b35b02ed438eba17cbcfdb7c5d1414  MHA_SP2_JAPANESE_VOCABULARY_LEDGER.md
+78dab8dbd0f4607d5a50c6c1e4ed0d0288797b0253e778c37ede2466483d46d8  MHA_SP2_VISUAL_MOTIF_LEDGER.md
+1ab908da8af9e3afc85399682d3152952156097c6e3a2182dd109be5cdaf1292  MHA_SP2_CALLBACK_PAYOFF_LEDGER.md
+4acb4bad5151cdbb357e53e7cd5dc64b249cca02731b917fdb72f95530c553e9  MHA_SP2_FIRST_PASS_CORRECTION_LEDGER.md
+2d60e808eab7b98cbb28b8102878ed239bbfc5587980c0f17b6b862cc7bb8bb7  MHA_SP2_PRIMARY_SOURCE_LOCATOR.md
+ed78925ffda15f68fcc25010acbc8090f7af61b5a1aac8ca9ae2794b45b9b16d  CURRENT_STATE_AND_CORPUS_MAP.md
+21e98090a87bb22bc16f026745033a9924af8e665e91ba154d8e4e7100d76afe  MHA_SP2_SOURCE_INVENTORY.md
+```
+
+## Next sequential authority
+Volume 03 is the next unread main-series scope.

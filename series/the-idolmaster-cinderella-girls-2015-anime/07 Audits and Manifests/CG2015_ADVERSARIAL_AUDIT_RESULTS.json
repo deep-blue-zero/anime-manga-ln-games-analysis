@@ -1,0 +1,309 @@
+{
+  "claim_count": 410,
+  "claim_unique": 410,
+  "claim_structure_issues": [],
+  "missing_source_node_refs": [],
+  "ass_counts": {
+    "1": 464,
+    "2": 539,
+    "3": 490,
+    "4": 510,
+    "5": 542,
+    "6": 471,
+    "7": 391,
+    "8": 468,
+    "9": 546,
+    "10": 557,
+    "11": 478,
+    "12": 454,
+    "13": 480,
+    "14": 447,
+    "15": 430,
+    "16": 457,
+    "17": 383,
+    "18": 485,
+    "19": 414,
+    "20": 417,
+    "21": 427,
+    "22": 490,
+    "23": 405,
+    "24": 397,
+    "25": 386,
+    "26": 585
+  },
+  "ass_locator_count": 587,
+  "time_locator_count": 624,
+  "malformed_locators": [],
+  "canonical_ref_counts": {
+    "00_README_AND_CORPUS_MAP.md": 0,
+    "01_SERIES_ARCHITECTURE_AND_EPISODE_PROGRESSION.md": 141,
+    "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md": 61,
+    "03_TAKEP_PRODUCER_DEVELOPMENTAL_AUTHORSHIP_AND_RESPONSIBILITY.md": 72,
+    "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md": 128,
+    "05_CINDERELLA_PROJECT_COLLECTIVE_FORMATION_LEADERSHIP_AND_BELONGING.md": 59,
+    "06_346_PRODUCTION_INSTITUTIONS_AND_PHILOSOPHIES_OF_PRODUCTION.md": 65,
+    "07_PERFORMANCE_SONGS_AUDIENCE_SUCCESS_AND_RECOGNITION.md": 73,
+    "08_PERSONA_IMAGE_MEDIA_AND_SELF_AUTHORSHIP.md": 64,
+    "09_FAILURE_CARE_AUTONOMY_AND_DEVELOPMENTAL_RISK.md": 85,
+    "10_CINDERELLA_METAPHOR_VISUAL_ARCHITECTURE_TIME_SPACE_AND_MOTIFS.md": 85,
+    "11_JAPANESE_VOICE_PERFORMED_VOCAL_STATES_AND_RELATIONAL_REGISTER.md": 59,
+    "12_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md": 93,
+    "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md": 197,
+    "15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md": 12,
+    "CG2015_FINAL_SERIES_MUSIC_SOUND_AUDIT_E01-E26.md": 51
+  },
+  "missing_claim_refs": [],
+  "retired_or_unsupported_refs": [
+    [
+      "10_CINDERELLA_METAPHOR_VISUAL_ARCHITECTURE_TIME_SPACE_AND_MOTIFS.md",
+      "CG-CIND-0002",
+      "RETIRED"
+    ],
+    [
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "CG-CIND-0002",
+      "RETIRED"
+    ]
+  ],
+  "paragraph_duplicates_count": 0,
+  "sequence30_duplicates_count": 14,
+  "sequence30_examples": [
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "**a dream becomes livable when people and institutions build forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "dream becomes livable when people and institutions build forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "becomes livable when people and institutions build forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "livable when people and institutions build forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "when people and institutions build forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "people and institutions build forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of ownership"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "and institutions build forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of ownership over"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "institutions build forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of ownership over who"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "build forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of ownership over who she"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "forms through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of ownership over who she is"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "through which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of ownership over who she is allowed"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "which an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of ownership over who she is allowed to"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "an unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of ownership over who she is allowed to become"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+      "unfinished person can act be seen fail revise herself and continue without allowing those forms to become a final claim of ownership over who she is allowed to become **"
+    ]
+  ],
+  "terminology_hits": {
+    "Shibuya Rin order": [
+      [
+        "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md",
+        6,
+        "Shibuya Rin"
+      ],
+      [
+        "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md",
+        22,
+        "Shibuya Rin"
+      ],
+      [
+        "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md",
+        335,
+        "Shibuya Rin"
+      ],
+      [
+        "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md",
+        32,
+        "Shibuya Rin"
+      ],
+      [
+        "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md",
+        160,
+        "Shibuya Rin"
+      ],
+      [
+        "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md",
+        1303,
+        "Shibuya Rin"
+      ],
+      [
+        "12_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md",
+        152,
+        "Shibuya Rin"
+      ],
+      [
+        "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+        75,
+        "Shibuya Rin"
+      ]
+    ],
+    "Shimamura Uzuki order": [
+      [
+        "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md",
+        6,
+        "Shimamura Uzuki"
+      ],
+      [
+        "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md",
+        22,
+        "Shimamura Uzuki"
+      ],
+      [
+        "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md",
+        108,
+        "Shimamura Uzuki"
+      ],
+      [
+        "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md",
+        32,
+        "Shimamura Uzuki"
+      ],
+      [
+        "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md",
+        114,
+        "Shimamura Uzuki"
+      ],
+      [
+        "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md",
+        1291,
+        "Shimamura Uzuki"
+      ],
+      [
+        "08_PERSONA_IMAGE_MEDIA_AND_SELF_AUTHORSHIP.md",
+        65,
+        "Shimamura Uzuki"
+      ],
+      [
+        "12_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md",
+        151,
+        "Shimamura Uzuki"
+      ],
+      [
+        "CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md",
+        73,
+        "Shimamura Uzuki"
+      ]
+    ],
+    "Honda Mio order": [
+      [
+        "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md",
+        6,
+        "Honda Mio"
+      ],
+      [
+        "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md",
+        22,
+        "Honda Mio"
+      ],
+      [
+        "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md",
+        639,
+        "Honda Mio"
+      ],
+      [
+        "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md",
+        32,
+        "Honda Mio"
+      ],
+      [
+        "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md",
+        211,
+        "Honda Mio"
+      ],
+      [
+        "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md",
+        1315,
+        "Honda Mio"
+      ],
+      [
+        "12_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md",
+        153,
+        "Honda Mio"
+      ]
+    ]
+  },
+  "artifact_missing_refs": [
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CG2015_CURRENT_STATE_SPECIALIST_XX_COMPLETE.md"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CG2015_DOC14_...E##_UPDATE.md"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "DELIVERY_AUDIT.md"
+    ],
+    [
+      "00_README_AND_CORPUS_MAP.md",
+      "CORPUS_MANIFEST.md"
+    ]
+  ],
+  "status_counts": {
+    "VERIFIED_STRENGTHENED": 304,
+    "VERIFIED": 79,
+    "QUALIFIED": 24,
+    "RETIRED": 1,
+    "REVISED": 2
+  },
+  "primary_home_counts": {
+    "10_CINDERELLA_METAPHOR_VISUAL_ARCHITECTURE_TIME_SPACE_AND_MOTIFS.md": 57,
+    "02_NEW_GENERATIONS_CHARACTERS_AND_RELATIONAL_SYSTEM.md": 43,
+    "03_TAKEP_PRODUCER_DEVELOPMENTAL_AUTHORSHIP_AND_RESPONSIBILITY.md": 46,
+    "06_346_PRODUCTION_INSTITUTIONS_AND_PHILOSOPHIES_OF_PRODUCTION.md": 44,
+    "08_PERSONA_IMAGE_MEDIA_AND_SELF_AUTHORSHIP.md": 15,
+    "07_PERFORMANCE_SONGS_AUDIENCE_SUCCESS_AND_RECOGNITION.md": 54,
+    "09_FAILURE_CARE_AUTONOMY_AND_DEVELOPMENTAL_RISK.md": 8,
+    "11_JAPANESE_VOICE_PERFORMED_VOCAL_STATES_AND_RELATIONAL_REGISTER.md": 37,
+    "05_CINDERELLA_PROJECT_COLLECTIVE_FORMATION_LEADERSHIP_AND_BELONGING.md": 39,
+    "01_SERIES_ARCHITECTURE_AND_EPISODE_PROGRESSION.md": 5,
+    "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md": 50,
+    "15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md": 12
+  }
+}

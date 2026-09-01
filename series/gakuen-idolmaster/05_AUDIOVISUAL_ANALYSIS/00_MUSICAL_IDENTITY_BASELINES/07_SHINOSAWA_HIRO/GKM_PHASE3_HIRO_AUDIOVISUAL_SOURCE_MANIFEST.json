@@ -1,0 +1,845 @@
+{
+  "series": "GKM",
+  "character": "Shinosawa Hiro / 篠澤広",
+  "artifact_type": "audiovisual_source_manifest",
+  "generation": "V2",
+  "status": "canonical",
+  "last_updated": "2026-08-17",
+  "source_count": 33,
+  "dialogue_count": 11,
+  "music_count": 22,
+  "source_boundary": "33 AV objects: 11 dialogue/commu and 22 music/performance/derivative objects; みちなるひろがる song commu unavailable and nonblocking.",
+  "limitations": [
+    "Full-mix audio rather than isolated stems",
+    "Downloaded resolutions are often 720p despite uploader labels",
+    "Derivative fan montage is not primary canon evidence",
+    "No みちなるひろがる song commu in staged corpus"
+  ],
+  "sources": [
+    {
+      "drive_id": "1UELlTgEu9lKMysQKjnLbt4MEUg9XWcbi",
+      "title": "【学マス】篠澤広　親愛度１～１０話【アイドルコミュ】-(720p30).mp4",
+      "source_folder": "dialogue",
+      "source_type": "dear_compilation",
+      "analytical_role": "Dear 001–010 / STEP1",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【学マス】篠澤広　親愛度１～１０話【アイドルコミュ】-(720p30).mp4",
+      "sha256": "d0d161a97a05993a3cb85e33b6b6c0c3c9aa9dba10eb4a26bdfb12ae651d23e3",
+      "bytes": 147467932,
+      "duration_seconds": 2660.473,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "15PC5cF8TmNAP9vi2ccO6M4Zw476JYWE8",
+      "title": "【学マス】篠澤広　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+      "source_folder": "dialogue",
+      "source_type": "dear_compilation",
+      "analytical_role": "Dear 011–020 / N.I.A.",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【学マス】篠澤広　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+      "sha256": "0edca8ea666835eb621ffd0e088cf4cf2b1a0811eb0562c609ed911e98487554",
+      "bytes": 84952481,
+      "duration_seconds": 2077.954,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1EDx0YyXW11f6CNg2Too0fh-7jpaEVU9Q",
+      "title": "【学マス】篠澤広  親愛度コミュ21～27話まとめ【STEP3】-(720p60).mp4",
+      "source_folder": "dialogue",
+      "source_type": "dear_compilation",
+      "analytical_role": "Dear 021–027 / STEP3",
+      "evidence_class": "S1-AV",
+      "local_materialized": false,
+      "local_basename": null,
+      "sha256": null,
+      "bytes": null,
+      "duration_seconds": null,
+      "video": {
+        "codec": null,
+        "width": null,
+        "height": null,
+        "fps": null
+      },
+      "audio": {
+        "codec": null,
+        "sample_rate": null,
+        "channels": null
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1Toi0yHcoq0jV0GMcA4JalcrlLMbnFxQO",
+      "title": "【学マス】 篠澤広 親愛度コミュ28～37話まとめ【H.I.F編】【STEP4】-(720p60).mp4",
+      "source_folder": "dialogue",
+      "source_type": "dear_compilation",
+      "analytical_role": "Dear 028–037 / H.I.F.",
+      "evidence_class": "S1-AV",
+      "local_materialized": false,
+      "local_basename": null,
+      "sha256": null,
+      "bytes": null,
+      "duration_seconds": null,
+      "video": {
+        "codec": null,
+        "width": null,
+        "height": null,
+        "fps": null
+      },
+      "audio": {
+        "codec": null,
+        "sample_rate": null,
+        "channels": null
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "10ZYoYqUEiQu4D5CllwOkhiEg0tsV4Kn4",
+      "title": "【楽曲コミュ】光景【篠澤広】【学マス】-(720p30).mp4",
+      "source_folder": "dialogue",
+      "source_type": "song_commu",
+      "analytical_role": "光景 song communication",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【楽曲コミュ】光景【篠澤広】【学マス】-(720p30).mp4",
+      "sha256": "538e20ac3ec50b58237a6d01bd0ca06172479ce76d4e418b4c002ab4cf6bb09a",
+      "bytes": 36824684,
+      "duration_seconds": 430.753,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1SefKMkVth430vm0qAh4xzLcK_N0mbRrt",
+      "title": "【楽曲コミュ】コントラスト【篠澤広】【学マス】-(720p30).mp4",
+      "source_folder": "dialogue",
+      "source_type": "song_commu",
+      "analytical_role": "コントラスト song communication",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【楽曲コミュ】コントラスト【篠澤広】【学マス】-(720p30).mp4",
+      "sha256": "782a54da98a07d5c95d17bf0c759bff6458b39138c2909e242018713a9babb91",
+      "bytes": 47826938,
+      "duration_seconds": 498.277,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1DkdQlnwXXpyg-raVxgn3Hve7IBIhGBpS",
+      "title": "【Campus mode!!】篠澤広 楽曲コミュまとめ【学マス】-(720p30).mp4",
+      "source_folder": "dialogue",
+      "source_type": "song_commu",
+      "analytical_role": "Campus mode!! song communication",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【Campus mode!!】篠澤広 楽曲コミュまとめ【学マス】-(720p30).mp4",
+      "sha256": "421b77248be17e3bdac3c6f07fbfcadf1562b635687ae6495092906c9a99f1d6",
+      "bytes": 47160792,
+      "duration_seconds": 551.985,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1vo_bb3APWI46ouyP8gBLDT6IKYtEoKrD",
+      "title": "【サンフェーデッド】篠澤広 楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "source_folder": "dialogue",
+      "source_type": "song_commu",
+      "analytical_role": "サンフェーデッド song communication",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【サンフェーデッド】篠澤広 楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "sha256": "c7ba97d26e9b75ea5aba937067018987d9f29f9ae072e622681278d384283676",
+      "bytes": 22033827,
+      "duration_seconds": 479.19,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1bFRSUu8i-L7iU9OWTQa_9HJPEDmf08ul",
+      "title": "【ガラクタロード】篠澤広  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "source_folder": "dialogue",
+      "source_type": "song_commu",
+      "analytical_role": "ガラクタロード song communication / CIDOL 018",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【ガラクタロード】篠澤広  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "sha256": "479d2926eca4eddb1157b49091054f9229eb48a253de9cdb0ac1658f2f667370",
+      "bytes": 46726213,
+      "duration_seconds": 508.796,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60000/1001"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1F9TUHsTmutf8wzxJjCRLwiTXa1CKfEUf",
+      "title": "【楽曲コミュ】ハッピーミルフィーユ（花海佑芽ボイス実装版）【篠澤広】【学マス】-(720p30).mp4",
+      "source_folder": "dialogue",
+      "source_type": "song_commu",
+      "analytical_role": "ハッピーミルフィーユ song communication",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【楽曲コミュ】ハッピーミルフィーユ（花海佑芽ボイス実装版）【篠澤広】【学マス】-(720p30).mp4",
+      "sha256": "38d6edc157236e3eab904bad79fec85d3b1c1051e1181765d5b5c742389a4374",
+      "bytes": 50538304,
+      "duration_seconds": 423.23,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "13-Fh37KmKFvRLhWFaskIJE5royX6XZh1",
+      "title": "【楽曲コミュ】仮装狂騒曲【篠澤広】【学マス】-(720p30).mp4",
+      "source_folder": "dialogue",
+      "source_type": "song_commu",
+      "analytical_role": "仮装狂騒曲 song communication",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【楽曲コミュ】仮装狂騒曲【篠澤広】【学マス】-(720p30).mp4",
+      "sha256": "baf9cd720ad9845ff07db09f270a675f8b6031061c9484737951053f98b16745",
+      "bytes": 43619611,
+      "duration_seconds": 439.67,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1Y5zbtbMqqZw8K12HjP5Up_54Ce3jWjBk",
+      "title": "4K HDR「光景」 (篠澤広 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "光景 Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「光景」 (篠澤広 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "sha256": "346649b3c41f8cf987125c344e09d29f1818187240132acfbc5eed89d854462c",
+      "bytes": 57565410,
+      "duration_seconds": 175.264,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1BJxsuu7p4m4eUFOgXlstQI9AgWGnyWbC",
+      "title": "【アイマスMV】どんどん上手くなる光景  篠澤 広　学園アイドルマスター　学マス-(720p60).mp4",
+      "source_folder": "music",
+      "source_type": "derivative_reception",
+      "analytical_role": "Fan comparative montage: progressively improving 光景",
+      "evidence_class": "S4-DERIVATIVE",
+      "local_materialized": true,
+      "local_basename": "【アイマスMV】どんどん上手くなる光景  篠澤 広　学園アイドルマスター　学マス-(720p60).mp4",
+      "sha256": "2de772e4600435305195d845da1c63bf27dff5776f2a125d66fc048f3a830a59",
+      "bytes": 48167387,
+      "duration_seconds": 153.925,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Derivative/reception evidence; locator and hypothesis generator only."
+    },
+    {
+      "drive_id": "14mm43MjBvXxqXvEfgpxdgpzO_hYSyvLn",
+      "title": "初星学園 「光景」Official Music Video (HATSUBOSHI GAKUEN - Koukei)-(720p30).mp4",
+      "source_folder": "music",
+      "source_type": "official_mv",
+      "analytical_role": "光景 authored official MV",
+      "evidence_class": "S2-OFFICIAL-AV",
+      "local_materialized": true,
+      "local_basename": "初星学園 「光景」Official Music Video (HATSUBOSHI GAKUEN - Koukei)-(720p30).mp4",
+      "sha256": "ff7023355616a3f1f40328f8e899e6805b899919bfff67b1ead1578100ceccc6",
+      "bytes": 38569146,
+      "duration_seconds": 271.929,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1JbU-ssxlwCzUGTnq4i2JLO-fw3EaPBxR",
+      "title": "4K HDR「コントラスト」 (篠澤広 ソロ2 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "コントラスト Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「コントラスト」 (篠澤広 ソロ2 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "sha256": "ea62087e203b892295f6bb27f68426779b1d0c37ceb83c522977942e1c7bf2aa",
+      "bytes": 63692806,
+      "duration_seconds": 200.783,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "11LEGW6hntUwu7GhljqYbqWzcO2lZFwDz",
+      "title": "コントラスト-(720p25).mp4",
+      "source_folder": "music",
+      "source_type": "full_mix_presentation",
+      "analytical_role": "コントラスト full/static presentation",
+      "evidence_class": "S2-AV",
+      "local_materialized": true,
+      "local_basename": "コントラスト-(720p25).mp4",
+      "sha256": "4c1188dac2851da6d2a945ca3690fd95f1012b7cdf46d0a2c65f4084737b6d68",
+      "bytes": 8971837,
+      "duration_seconds": 217.511,
+      "video": {
+        "codec": "h264",
+        "width": 720,
+        "height": 720,
+        "fps": "25/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "11Sf_pH-3JhiLcAUT4xLkm8rbzYL84f8E",
+      "title": "4K HDR「サンフェーデッド」 (篠澤広 ソロ3 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "サンフェーデッド Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「サンフェーデッド」 (篠澤広 ソロ3 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "sha256": "be3709652b63a93a30bba202dc06296169262af269b84b77109335d65e5bd8cd",
+      "bytes": 67395136,
+      "duration_seconds": 183.275,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "14gD5uR2AdNK274Z8Juh6u5pY3pWYpMfF",
+      "title": "初星学園 「サンフェーデッド」Official Music Video (HATSUBOSHI GAKUEN - SUNFADED)-(720p24).mp4",
+      "source_folder": "music",
+      "source_type": "official_mv",
+      "analytical_role": "サンフェーデッド authored official MV",
+      "evidence_class": "S2-OFFICIAL-AV",
+      "local_materialized": true,
+      "local_basename": "初星学園 「サンフェーデッド」Official Music Video (HATSUBOSHI GAKUEN - SUNFADED)-(720p24).mp4",
+      "sha256": "1e3bffcab0e7d0131eda8875e22c5d421570050612f2606751944d6d9d1f9292",
+      "bytes": 34895654,
+      "duration_seconds": 209.305,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "24/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1NZfazcL67wDoVoFa5nuQp-y3E2-Edzmd",
+      "title": "4K HDR「Campus mode!!」(篠澤広 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "Campus mode!! Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「Campus mode!!」(篠澤広 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "sha256": "a692b45cc3ee31ff957c0199bae17c1c2f143c2271f3c1e19abf4d77a8e634ef",
+      "bytes": 63464478,
+      "duration_seconds": 160.729,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1zPxR0JyPp4JhLxWS_zfENcC9znXerQIj",
+      "title": "【学マス】篠澤広「初」 3DMV-(592p30).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "初 Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "【学マス】篠澤広「初」 3DMV-(592p30).mp4",
+      "sha256": "3ae933080d1da33631c2f491aea6969b0b2801cc48442c4023290632ae22aed0",
+      "bytes": 37265987,
+      "duration_seconds": 155.179,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 592,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1OXLlFgDZOfdom_Sywd_lF_j-dimUZeqp",
+      "title": "4K HDR「Howling over the World」 (篠澤広 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "Howling over the World Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「Howling over the World」 (篠澤広 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "sha256": "cbfae7e9f90821d0c70a16201a9ba462603548f899fa93b5ab94fb76c0e248f7",
+      "bytes": 42489463,
+      "duration_seconds": 110.225,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1tdzAna_WcWmo9RzC5lyLnliiyJaoDGpy",
+      "title": "4K HDR「がむしゃらに行こう！」 (篠澤広 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "がむしゃらに行こう！ Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「がむしゃらに行こう！」 (篠澤広 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "sha256": "42ddef86a794641182d2b3ae143b5afd2a6b68bf2f08a5f989e373c45cd70ee9",
+      "bytes": 41525073,
+      "duration_seconds": 110.457,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1P75Wv4Qu1W_R6lmZRs0fGmv4VOxoXcmG",
+      "title": "4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (篠澤広 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "ミラクルナナウ(ﾟ∀ﾟ)！ Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (篠澤広 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "sha256": "6761642adfb3ba089aa286cb147002decc2151e1b30471910afbef84946d9db6",
+      "bytes": 44918957,
+      "duration_seconds": 116.657,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1oSoTZTGZNYN4Oq3R1Lwym0cZ8jWHtvxe",
+      "title": "初星学園 「コンテンポラリのダンス」Official Music Video (HATSUBOSHI GAKUEN - contemporary dance)-(720p30).mp4",
+      "source_folder": "music",
+      "source_type": "official_mv",
+      "analytical_role": "コンテンポラリのダンス authored official MV",
+      "evidence_class": "S2-OFFICIAL-AV",
+      "local_materialized": true,
+      "local_basename": "初星学園 「コンテンポラリのダンス」Official Music Video (HATSUBOSHI GAKUEN - contemporary dance)-(720p30).mp4",
+      "sha256": "0b2e22aaf5e227019c734c2341214ec60e64c77ec24ba39cb986f5972ab2859e",
+      "bytes": 27025702,
+      "duration_seconds": 205.055,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30000/1001"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1K9In8GKh9pP041E6A0zg3hyX-lKdug7G",
+      "title": "4K HDR「ENDLESS DANCE」(篠澤広 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "ENDLESS DANCE Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「ENDLESS DANCE」(篠澤広 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "sha256": "2599c7b4d83b267a76204cd8a463f47f2ebf2bcf995d7305be7b74b311d2f855",
+      "bytes": 44652220,
+      "duration_seconds": 109.436,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1laiDZzcPX6UA-Hz9NHaoAvdc8bX2Q6nW",
+      "title": "標　倉本千奈&篠澤広(ゆめぱしー)ver-(720p30).mp4",
+      "source_folder": "music",
+      "source_type": "duet_performance",
+      "analytical_role": "標 China/Hiro duet rendering",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "標　倉本千奈&篠澤広(ゆめぱしー)ver-(720p30).mp4",
+      "sha256": "2507b558c9997147a2aee961d9c1efcd24e0f903761c3a825e42485e75469902",
+      "bytes": 28997967,
+      "duration_seconds": 228.182,
+      "video": {
+        "codec": "h264",
+        "width": 1040,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1obrkIYn5VQl-7hkwnbC0Jck6ILDQH7Tv",
+      "title": "4K HDR「ガラクタロード」(篠澤広フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p30).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "ガラクタロード Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「ガラクタロード」(篠澤広フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p30).mp4",
+      "sha256": "e86e19219cb8613f0b923b27c7ddeff7060e98e5acade63fb2abef2341c99edd",
+      "bytes": 47060211,
+      "duration_seconds": 163.863,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "19ZDDv3IlyKBryQL9U9Xi7akxuW_ZJ5zt",
+      "title": "4K HDR「みちなるひろがる」 (篠澤広・倉本千奈 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p30).mp4",
+      "source_folder": "music",
+      "source_type": "duet_3dmv",
+      "analytical_role": "みちなるひろがる Hiro/China rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「みちなるひろがる」 (篠澤広・倉本千奈 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p30).mp4",
+      "sha256": "938bfd03b2b0c613425875cc8ab6cf27ea95e776b69dc6c31e4e76da6f3ffc91",
+      "bytes": 42848893,
+      "duration_seconds": 154.506,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1S15fh_ENDBLtY8IhjdsHo1D4B8YjKp3E",
+      "title": "初星学園 「みちなるひろがる」Official Music Video (HATSUBOSHI GAKUEN - Unknown Unbound)-(720p30).mp4",
+      "source_folder": "music",
+      "source_type": "official_mv",
+      "analytical_role": "みちなるひろがる authored official MV",
+      "evidence_class": "S2-OFFICIAL-AV",
+      "local_materialized": true,
+      "local_basename": "初星学園 「みちなるひろがる」Official Music Video (HATSUBOSHI GAKUEN - Unknown Unbound)-(720p30).mp4",
+      "sha256": "d65297b2725bc3216ae071773e83b698bbabdb785a2b56b279485f1d4be291ef",
+      "bytes": 13270085,
+      "duration_seconds": 205.334,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1UaOzLCa1P0Yd0Npw86Tj65NFGubgbbhw",
+      "title": "4K HDR「ハッピーミルフィーユ」(篠澤広 バレンタインSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p30).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "ハッピーミルフィーユ Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「ハッピーミルフィーユ」(篠澤広 バレンタインSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p30).mp4",
+      "sha256": "3ea6272131f70b2382e1908b45378de821eb4ff4cf6759eae2b2c6e504534991",
+      "bytes": 26195006,
+      "duration_seconds": 101.169,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "16urNa641Iy6wsq-EWxQaqYgyFX4r1sfM",
+      "title": "4K HDR「仮装狂騒曲」(篠澤広 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p30).mp4",
+      "source_folder": "music",
+      "source_type": "3dmv",
+      "analytical_role": "仮装狂騒曲 Hiro rendered performance",
+      "evidence_class": "S1-AV",
+      "local_materialized": true,
+      "local_basename": "4K HDR「仮装狂騒曲」(篠澤広 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p30).mp4",
+      "sha256": "7122d7dd6aa4a193a7a021f05d2ac8f68efffa7f630ac129f653f95eb5830925",
+      "bytes": 25770491,
+      "duration_seconds": 105.674,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "1K1pfcfYCj7Xgs1Z5z0bbjwoo3Go7YRiq",
+      "title": "【学マス】篠澤 広 誕生日記念Single「メクルメ」- Game Sizeリリックビデオ CD予約受付中！【アイドルマスター】-(720p30).mp4",
+      "source_folder": "music",
+      "source_type": "official_lyric_video",
+      "analytical_role": "メクルメ official Game Size lyric video",
+      "evidence_class": "S2-OFFICIAL-AV",
+      "local_materialized": true,
+      "local_basename": "【学マス】篠澤 広 誕生日記念Single「メクルメ」- Game Sizeリリックビデオ CD予約受付中！【アイドルマスター】-(720p30).mp4",
+      "sha256": "75d8ede001bf0ba7fc78938a80fdede712237073eea20a6647b896cdcb5475ff",
+      "bytes": 25653028,
+      "duration_seconds": 152.137,
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": "30000/1001"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    },
+    {
+      "drive_id": "10pmdSfOxpvp5x_zUh8KwmtgzZ9ALNI5C",
+      "title": "メクルメ-(720p25).mp4",
+      "source_folder": "music",
+      "source_type": "full_mix_presentation",
+      "analytical_role": "メクルメ full/static presentation",
+      "evidence_class": "S2-AV",
+      "local_materialized": true,
+      "local_basename": "メクルメ-(720p25).mp4",
+      "sha256": "f294b9bb1c3c1ab3113d2e96c038d3e7b3e584287b4e3180a66d18d01677da32",
+      "bytes": 8185374,
+      "duration_seconds": 196.892,
+      "video": {
+        "codec": "h264",
+        "width": 720,
+        "height": 720,
+        "fps": "25/1"
+      },
+      "audio": {
+        "codec": "aac",
+        "sample_rate": "44100",
+        "channels": 2
+      },
+      "authority_note": "Direct inspected source within stated source class."
+    }
+  ]
+}

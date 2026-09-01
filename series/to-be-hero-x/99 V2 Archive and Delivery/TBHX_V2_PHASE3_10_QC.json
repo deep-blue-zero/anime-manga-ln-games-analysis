@@ -1,0 +1,50 @@
+{
+  "series": "TBHX",
+  "artifact": "10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md",
+  "phase": 3,
+  "specialist_number": 10,
+  "status": "canonical",
+  "generated_at": "2026-08-17T08:57:00-04:00",
+  "specialist": {
+    "bytes": 86399,
+    "whitespace_delimited_words": 12530,
+    "sha256": "89b4e807789f02a1b45ab38a6aae885cae8347ab39d9d19bed1b14d56ef02386",
+    "numbered_sections": 48,
+    "section_range": [
+      0,
+      47
+    ],
+    "sections_sequential": true,
+    "distinct_phase2_claim_references": 38,
+    "all_phase2_claim_references_resolve": true,
+    "missing_phase2_claim_references": [],
+    "specialist_local_claims": 16,
+    "placeholder_tokens_present": false,
+    "duplicate_normalized_prose_blocks_ge_600_chars": 0,
+    "yaml_front_matter_parses": true,
+    "utf8_read_passed": true
+  },
+  "checkpoint": {
+    "bytes": 8438,
+    "whitespace_delimited_words": 1095,
+    "sha256": "fc859d23f484e69dfb9c78b10248a6ee4e1f845e5acf3836f6bc1b88aa4c8659",
+    "yaml_front_matter_parses": true
+  },
+  "routing_surfaces": {
+    "corpus_map_yaml_parses": true,
+    "drive_index_yaml_parses": true,
+    "phase3_progress_expected": "5/11",
+    "corpus_map_contains_progress": true,
+    "drive_index_contains_specialist_10": true
+  },
+  "safety": {
+    "frozen_episode_documents_modified": false,
+    "semantic_duplicate_found_before_creation": false
+  },
+  "drive": {
+    "specialist_10_id": "1NLZRPAVz9hPC-45L-JUTZ0YId4PuYiB5",
+    "checkpoint_id": "1YMXduPbpBLr1JDf8uIAkft8_IYYkqBQZ",
+    "specialist_parent_id": "1o9eMtKQAW-ffPTdqULEtJ1qKf2Dar_wK",
+    "archive_parent_id": "1j4AW_YexKfFENAM5JZspqgAFTE-l6PMY"
+  }
+}

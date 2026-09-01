@@ -1,0 +1,16 @@
+id,source_filename,trimmed_duration_s,tempo_bpm_est,onset_peaks_per_s,rms_db_mean,rms_db_p10,rms_db_p95,rms_dynamic_range_p95_p10_db,centroid_hz_mean,bandwidth_hz_mean,rolloff85_hz_mean,flatness_mean,key_est,key_corr,second_key_est,second_key_corr
+MUS01_LUNA_OFFICIAL_2D,初星学園 「Luna say maybe」Official Music Video (HATSUBOSHI GAKUEN - Luna say maybe)-(1080p24).mp4,265.868,215.33,1.377,-43.57,-43.83,-39.53,4.3,1816.1,1514.7,3705.3,0.5911,G minor,0.705,C major,0.575
+MUS02_LUNA_3DMV,4K HDR「Luna say maybe」(歌：月村手毬)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4,165.442,215.33,1.142,-55.54,-59.12,-47.12,12.01,2068.7,1510.8,3918.2,0.6629,G major,0.876,G minor,0.676
+MUS03_IVY_FULL_SOURCE,アイヴイ-(1080p25).mp4,191.332,143.55,1.615,-44.1,-50.47,-38.7,11.77,1852.9,1561.0,3797.5,0.5985,F major,0.553,C major,0.51
+MUS04_IVY_3DMV,4K HDR「アイヴイ (IVY)」 (月村手毬 SSR solo)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4,186.108,215.33,1.241,-59.59,-86.07,-43.94,42.13,1857.6,1475.4,3633.3,0.6009,F major,0.514,A minor,0.495
+MUS05_UNHAPPY_LIGHT_OFFICIAL,初星学園 「Unhappy Light」Official Music Video (HATSUBOSHI GAKUEN - Unhappy Light)-(1080p24).mp4,251.263,215.33,1.154,-45.63,-50.37,-40.14,10.23,1550.0,1519.7,3485.8,0.4713,F major,0.733,D minor,0.726
+MUS06_ITTAI_ITSUKARA_3DMV,4K HDR「一体いつから」 (月村手毬 STEP3 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4,169.97,129.2,1.241,-53.07,-54.22,-44.98,9.23,1902.5,1547.6,3799.6,0.5983,F major,0.865,D minor,0.728
+MUS07_CAMPUS_MODE_3DMV,4K HDR「Campus mode!!」(月村手毬 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4,159.869,215.33,1.12,-53.78,-57.25,-46.1,11.16,1918.8,1485.8,3768.4,0.6235,A major,0.75,F# minor,0.633
+MUS08_GARAKUTA_ROAD_3DMV,4K HDR (月村手毬 SSR1) Aエンディング「ガラクタロード」【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4,88.491,129.2,1.277,-56.28,-59.22,-46.34,12.88,1825.8,1467.9,3641.8,0.6122,D major,0.742,A major,0.583
+MUS09_GAMUSHARA_3DMV,4K HDR「がむしゃらに行こう！」 (月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4,104.768,129.2,1.613,-54.42,-68.75,-45.66,23.09,1775.5,1497.3,3613.2,0.5744,G major,0.795,D major,0.676
+MUS10_HAJIME_3DMV,【学マス】4K 全体曲「初」ライブシーン （月村 手毬）フル映像【アイドルマスター】-(1090p30).mp4,155.388,215.33,1.506,-51.46,-55.88,-46.88,9.0,1749.2,1395.3,3470.7,0.5291,G major,0.883,D major,0.855
+MUS11_ENDLESS_DANCE_3DMV,【月村手毬】 ENDLESS DANCE 【学マス】-(1090p60).mp4,98.685,143.55,1.398,-58.64,-59.71,-53.07,6.64,2048.6,1639.8,4119.3,0.6564,A minor,0.805,F major,0.615
+MUS12_HOWLING_3DMV,4K HDR「Howling over the World」 (月村手毬 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4,111.734,129.2,1.539,-57.81,-90.98,-45.8,45.17,1995.0,1513.8,3843.5,0.6256,D minor,0.768,A minor,0.598
+MUS13_MIRACLE_NANAU_3DMV,4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4,116.889,215.33,1.446,-61.3,-120.0,-46.01,73.99,2240.1,1536.9,4113.2,0.6764,D major,0.69,G major,0.587
+MUS14_KANAETAI_FULL_SOURCE,叶えたい、ことばかり-(1080p25).mp4,246.931,143.55,1.571,-46.1,-50.82,-40.42,10.4,1932.4,1552.5,3853.8,0.5962,D minor,0.684,D major,0.507
+MUS15_REIRIS_3DMV,4K HDR「雨上がりのアイリス」 (Re;IRIS 花海咲季・藤田ことね・月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4,199.459,129.2,1.354,-54.76,-66.13,-44.68,21.45,1825.7,1525.9,3739.0,0.5615,F major,0.602,D minor,0.591

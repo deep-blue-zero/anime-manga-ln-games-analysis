@@ -1,0 +1,18 @@
+# IDOLY PRIDE V2 — Phase 1B Tier-A Main Narrative Consolidation SHA-256 Manifest
+# Created: 2026-08-15
+# Source snapshot: IP-V2-SNAPSHOT-2026-08-13-A
+#
+b849dc815c4d951e8a45b386d054eeb40d83ee9c8f2a0bc06198eb9b07c78e06  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_STELLAR_MAIN_STORY_TRANCHE_SHA256SUMS.txt
+5fb78caea30e162c353fac1700e505d82d27667624c94acf46a1e30bd4669594  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_POST_STELLAR_BASELINE.md
+38097c011ebc9b2b1d8c321ab021cbcb73f56e6c5a455db926e1742e3f822b55  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_TIER_A_MAIN_NARRATIVE_CONSOLIDATION_AUDIT.md
+f7171f9fb321c4d47e304391316a12fc11df1bbcf85b61a0f56c6c23abf6c21e  /mnt/data/IDOLY_PRIDE_V2_PHASE1B_POST_TIER_A_MAIN_NARRATIVE_BASELINE.md
+cabc84722b73856980fbfa1782913e303329b738168a38e23ae50c8916831298  /mnt/data/IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.5.md
+#
+# Integrity notes:
+# - This consolidation extends the completed Stellar integrity chain; it does not mutate any prior anime/origin/Tokyo/BIG4/Stellar freeze.
+# - The consolidation is a cross-tranche comparison of already-frozen Tier-A findings, with historical V1 admitted only as Tier-H claims for audit.
+# - Event/card/bond/message/special/telephone layers remained quarantined as evidence during the consolidation.
+# - Tier-A coverage at freeze: 63/63 game main-story bundles, 33/33 origin bundles, 12/12 anime episodes.
+# - Event priorities in ledger v1.5 remain Pass-A/provisional; the event rerank gate is open, but no event has been silently reclassified by this audit.
+# - Formal backfill remains open for big4_013_the_moonlight and stellar_011_all_my_youth.
+# - Governing lower-tier baseline: IDOLY_PRIDE_V2_PHASE1B_POST_TIER_A_MAIN_NARRATIVE_BASELINE.md.

@@ -1,0 +1,33 @@
+{
+  "file": "14_COMPARATIVE_REFERENCE_MATRICES_CONTRADICTIONS_AND_OPEN_QUESTIONS.md",
+  "bytes": 98909,
+  "lines": 765,
+  "whitespace_words": 15127,
+  "sha256": "4858da5eaddfcd4b9a2785ff6b7a435dd5f0257f45e752103a4310c1493dead3",
+  "yaml_status": "PASS",
+  "status": "canonical",
+  "scope": "V01-V14+ALTER1",
+  "locked_locator_references_distinct_range_expanded": 125,
+  "missing_locked_locators": [],
+  "t14_claim_ids_expected": 41,
+  "t14_claim_ids_present": 41,
+  "missing_t14_claim_ids": [],
+  "open_question_ids_expected": 32,
+  "open_question_ids_present": 32,
+  "missing_open_question_ids": [],
+  "named_dependencies_expected": 21,
+  "missing_named_dependencies": [],
+  "roman_sections_count": 33,
+  "roman_sections_first_last": [
+    "I",
+    "XXXIII"
+  ],
+  "roman_sequence_I_XXXIII_complete": true,
+  "duplicate_headings": [],
+  "placeholders": [],
+  "exact_duplicate_paragraphs_ge_600_chars": 0,
+  "exact_duplicate_paragraph_samples": [],
+  "exact_duplicate_50_word_sequences_count_capped_50": 0,
+  "exact_duplicate_50_word_sequence_samples": [],
+  "overall_pass": true
+}

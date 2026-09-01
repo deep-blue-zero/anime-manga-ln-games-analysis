@@ -1,0 +1,55 @@
+{
+  "series": "GKM",
+  "character": "Shinosawa Hiro / 篠澤広",
+  "character_code": "shro",
+  "source_lock": "GAKUMAS V2 Source Lock 1.0",
+  "total_objects": 207,
+  "total_messages": 5653,
+  "families": {
+    "cidol": {
+      "objects": 27,
+      "messages": 1096
+    },
+    "dear": {
+      "objects": 38,
+      "messages": 2471
+    },
+    "live": {
+      "objects": 8,
+      "messages": 11
+    },
+    "pevent": {
+      "objects": 83,
+      "messages": 1072
+    },
+    "pgrowth": {
+      "objects": 3,
+      "messages": 12
+    },
+    "pstory": {
+      "objects": 46,
+      "messages": 979
+    },
+    "startup": {
+      "objects": 2,
+      "messages": 12
+    }
+  },
+  "produce_story_breakdown": {
+    "series_001": {
+      "objects": 31,
+      "messages": 785
+    },
+    "series_002": {
+      "objects": 11,
+      "messages": 149
+    },
+    "series_003": {
+      "objects": 4,
+      "messages": 45
+    }
+  },
+  "series_3_note": "Four conditional result fragments only; not a complete additive P3 route. D-HIRO remains separate.",
+  "reasoning_route": "GPT-5.6 Sol — Extra High",
+  "av_status": "PENDING; request/crosswalk only"
+}

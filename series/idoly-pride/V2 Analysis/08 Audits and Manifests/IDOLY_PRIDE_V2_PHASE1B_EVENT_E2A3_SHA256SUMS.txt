@@ -1,0 +1,17 @@
+# IDOLY PRIDE V2 Phase 1B Event E2-A3 integrity manifest
+# Created 2026-08-16
+# Primary sources
+f65218da61046b2b6bc5bc84276d36425058f9baf412157ca6b25ac68ef9575d  event_2023_008_st-eve-2308-marathon-raid.md
+f4b9513e0271f4d1cc6ed41dfc024a4fb396b1b4eea5d6032a733963bbdf4498  event_2024_009_st-eve-2409-marathon-raid.md
+bfdfb14b44e4b25bea30f0d2c9a1e6dc72a75a206d25ca708029fb122866e71c  event_2025_006_st-eve-2507-race.md
+51af69ad2276f99031d4b302d73245112e1be916ac1537ea495ea6636091ddf5  event_2025_009_st-eve-2510-marathon-raid.md
+# Inherited authority
+5ce367672de124fb69d3eb95a08f4589b80cfc569af754b2b0e8f3e336e64524  IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E2A2_BASELINE.md
+# E2-A3 analysis artifacts
+74007fb2326fc60ace81a4aa43859343e676473641dca69530f90cb97690fd9b  IDOLY_PRIDE_V2_PHASE1B_EVENT_E2A3_PRIMARY_FINDINGS_FREEZE.md
+c0ed0bd89215d86cf06306dc892b4d57969f3f1dab87ac326717e1ba1a78e8ee  IDOLY_PRIDE_V2_PHASE1B_EVENT_E2A3_CLOSE_READ_AUDIT.md
+4829419e439e6f2bc9ca20366e56bed620b6b8bc44b1d709cbf0cf3cf836cddf  IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E2A3_BASELINE.md
+f17a3bf483e547501d38386108b4929c67775f559e5d9f98d6dc0caf72751ea5  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.15.md
+# Formal dependencies
+# event_2023_008_st-eve-2308-marathon-raid is missing adv-live-eve-2308-marathon-raid-05.
+# event_2025_009_st-eve-2510-marathon-raid is missing adv-live-eve-2510-marathon-05.

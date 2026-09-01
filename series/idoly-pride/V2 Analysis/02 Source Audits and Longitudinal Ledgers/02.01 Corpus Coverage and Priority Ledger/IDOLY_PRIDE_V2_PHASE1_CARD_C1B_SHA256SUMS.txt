@@ -1,0 +1,61 @@
+# IDOLY PRIDE V2 Phase 1 Card C1-B integrity manifest
+# Created 2026-08-16
+
+# Primary card sources
+f48438bce8762fa0dbe40c05dea5355ebca574d0df53fe98b9b13e9dc95012c3  card_ngs_007_st-card-ngs-05-fest-02.md
+6ef3200dcdeb4c7473dc7716441987ce19a95d8ca10a8aa61fda6de75a9ae458  card_ktn_007_st-card-ktn-05-fest-02.md
+27ce32b46204b8a0b8ff1f0ed73d815dc5d7d728302e69db2c7cd7642b5dbe3c  card_szk_002_st-card-szk-05-angl-00.md
+eb12ff25363bde0b9aa0eff2f707c575a78da16be92024002fc7998ce1fdf5fb  card_rui_007_st-card-rui-05-fest-04.md
+
+# Companion-message parent corpora used only after card-only prospective freeze
+9f4645cbba21d2a2d239033d264cd1a6b4ebc7a73b8386b7fb5581bdac070f58  messages_message_group_ngs.dialogue.txt
+# exact admitted M1: message-card-ngs-05-fest-02
+# exact admitted M2 support: message-card-ngs-05-idol-00
+f2796700d01607b79d532ea355153025b627155381d78ccf754df3fd39d36863  messages_message_group_ktn.dialogue.txt
+# exact admitted M1: message-card-ktn-05-fest-02
+d389c3fe4b0a84db11bbee6365477a128df0dfe37f149d1ff9cb756a434f3afb  messages_message_group_rui.dialogue.txt
+# exact admitted M1: message-card-rui-05-fest-04
+# referenced formal dependency tel-card-rui-05-fest-04 is unavailable upstream
+
+# Inherited authority / routing
+7176abdf83c53590c4e52d0e8bbc1bb7f53f389b4855e5570207f5b82d4c7e8c  IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1A_BASELINE.md
+737a22a1ef0b533ca111db2660c0345d3ea31a25fd862051a56fa9629ce66370  IDOLY_PRIDE_V2_PHASE1_LOWER_TIER_CLOSE_READ_QUEUE.md
+0afe228a5023a759042058fd7737d061c043f26d2691ebf134529f25b2bc1cb4  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.28.md
+
+# C1-B analysis artifacts
+11e767fc1c112ec3adba4f0852eab2b8281fdeb471733a3174e4ff4a184e20e2  IDOLY_PRIDE_V2_PHASE1_CARD_C1B_PRIMARY_FINDINGS_FREEZE.md
+8b46fa95d5943a396be19d0833c91f47fa1982e3ff2e8badc335f3a7e1c2119b  IDOLY_PRIDE_V2_PHASE1_CARD_C1B_CLOSE_READ_AUDIT.md
+d4c74d7c73c52c5fc49bb835b5934fa52db004eee188d004675e46b29e9382f0  IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md
+167d4f866ca5ab56b3baeb7cc33a426a46e62197844abcd8ba11ba5f36bcfaaa  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.29.md
+
+# Prospective-integrity gate
+# The C1-B primary findings freeze was created before exact C1-B companion-message content and before Tier-H/V1 historical prose was consulted.
+# A locator/status search for tel-card-rui-05-fest-04 did not recover usable telephone content and supplied no evidence used in the prospective card reading.
+
+# Nagisa/Kotono relationship safeguard
+# Current textual category includes 親友/friendship and explicit friend-vs-lover distinction.
+# Nagisa-side romantic/yuri coding is strongly strengthened by romantic analogy, marriage imagination, mutual-need language, closest-adjacency illumination, and durable attachment.
+# Paired Kotono authority establishes five-member Moon Tempest reliance and independent solo capacity, not Kotono-side romantic reciprocity.
+# Mutual romance/dating/exclusivity remain OPEN / NOT ESTABLISHED.
+
+# Shizuku authority safeguard
+# ぷにもちどろっぷ is reincorporated as creative material through drop; the deleted account itself is not restored as an identity requirement.
+# Fan/idol reciprocity does not erase professional/relational role difference.
+
+# Rui authority transition
+# Historical/current B2-A AFFECTIVE_SELF_CONSCIOUSNESS_WITHOUT_ROMANTIC_SETTLEMENT is revised for the late C1-B state to RUI_TO_MAKINO_ROMANTIC_ATTRACTION_STRONGLY_ESTABLISHED.
+# This is Rui-side attraction only. Exact confession wording, Makino reciprocity, dating, exclusivity, and relationship status remain OPEN.
+# message-card-rui-05-fest-04 strengthens retrospective romantic literacy and then routes into unavailable tel-card-rui-05-fest-04.
+# DO NOT reconstruct the unavailable call.
+
+# Tranche-level refinements
+# SELF_AUTHORSHIP_AS_REFLEXIVE_SELF_KNOWLEDGE
+# DIFFERENTIATED_RECIPROCITY
+
+# Escalation decision
+# No C2/C3 card, B4 bond, special, or unrelated message is promoted to mandatory Phase-1 close read by C1-B.
+# The Rui telephone is a routed formal dependency but does not block the Rui-side attraction claim.
+
+# Next operation
+# Phase 1 closure audit and Phase 2 readiness decision
+# If closure criteria are met: Phase 2 — Longitudinal ledgers

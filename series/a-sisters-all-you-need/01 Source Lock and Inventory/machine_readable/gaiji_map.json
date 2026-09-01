@@ -1,0 +1,2356 @@
+{
+  "series": "IMOSAE",
+  "source_set_id": "IMOSAE-JP-LN-RAW-1.0",
+  "gaiji_map_id": "IMOSAE-GAIJI-MAP-1.0",
+  "status": "canonical",
+  "generated": "2026-08-18",
+  "distinct_assets": 65,
+  "total_occurrences": 651,
+  "entries": [
+    {
+      "gaiji_id": "IMOSAE-G001",
+      "sha256": "38ce9af50e4de31e1fc0c89068422e23399afae824c8e8aa82de5c7133b6a560",
+      "occurrences": 56,
+      "volumes": [
+        1,
+        6
+      ],
+      "paths": [
+        "OEBPS/Images/embed0006.jpg",
+        "OEBPS/Images/embed0007.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4684,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧",
+        "疲れた声で土岐が⟦IMG⟧ねる。",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧ねた伊月に、春斗はスマホをいじりながら答えた。",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G001.jpg",
+      "class": "LEXICAL_GLYPH",
+      "replacement": "訊",
+      "semantic": "訊",
+      "confidence": "high",
+      "note": "Ordinary kanji gaiji; e.g. 訊ねる."
+    },
+    {
+      "gaiji_id": "IMOSAE-G002",
+      "sha256": "7518e17eb1a7dfd357dca514100e2cc57d5579e0f82c530dd62d8be943fca918",
+      "occurrences": 215,
+      "volumes": [
+        1,
+        2,
+        4,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "paths": [
+        "OEBPS/Images/embed0006.jpg",
+        "OEBPS/Images/embed0007.jpg",
+        "OEBPS/Images/embed0009.jpg",
+        "images/00007.jpeg",
+        "images/00009.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 7324,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G002.jpg",
+      "class": "STRUCTURAL_ORNAMENT",
+      "replacement": "⟦ORNAMENT:IMOUTO_SEAL⟧",
+      "semantic": "circled 妹 scene-break seal",
+      "confidence": "high",
+      "note": "Standalone centered section/scene divider; do not inject 妹 into prose."
+    },
+    {
+      "gaiji_id": "IMOSAE-G003",
+      "sha256": "8ef6dc9accafe9a4d5e3969715c1382c3f64fd1470966375bcdfcff4eaf009a0",
+      "occurrences": 1,
+      "volumes": [
+        1
+      ],
+      "paths": [
+        "OEBPS/Images/embed0010.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4596,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「⟦IMG⟧げええええええええ」"
+      ],
+      "asset_file": "IMOSAE-G003.jpg",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "お゙",
+      "semantic": "お with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G004",
+      "sha256": "62e1b9a23b2e1d7db11c00843427bc6fdeccd7fb446e1f6d755da5a2bcfe27fe",
+      "occurrences": 14,
+      "volumes": [
+        1,
+        2,
+        4,
+        11,
+        12,
+        14
+      ],
+      "paths": [
+        "OEBPS/Images/embed0013.jpg",
+        "OEBPS/Images/embed0021.jpg",
+        "OEBPS/Images/embed0036.jpg",
+        "images/00008.jpeg",
+        "images/00012.jpeg",
+        "images/00013.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji",
+        "gaiji1"
+      ],
+      "byte_size": 4756,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「⟦IMG⟧ー？」",
+        "「⟦IMG⟧？」",
+        "「⟦IMG⟧？」",
+        "「⟦IMG⟧？」",
+        "「⟦IMG⟧ー？」",
+        "「⟦IMG⟧ー？うるしぇー馬鹿！俺は追い詰められないと本気が出せにゃいんだよー！」",
+        "「⟦IMG⟧!?貴様俺の妹をおぞましいと言ったな!?竜宮城で深海魚みたいな女とお楽しみだったくせに！」",
+        "「⟦IMG⟧!?貴様俺の妹をおぞましいと言ったな!?竜宮城で深海魚みたいな女とお楽しみだったくせに！」",
+        "「⟦IMG⟧～っ、ったく……いきなり驚かすんじゃねえよ馬鹿……」",
+        "「⟦IMG⟧ー？」",
+        "「⟦IMG⟧ー……ゔー……ぁ……ぐぎぎ……！」",
+        "「⟦IMG⟧ー……ゔー……ぁ……ぐぎぎ……！」"
+      ],
+      "asset_file": "IMOSAE-G004.jpg",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "あ゙",
+      "semantic": "あ with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G005",
+      "sha256": "553f0fe232d962939fce54a6313b04c16471ef5b253ca08cfdaa65d57cb348b5",
+      "occurrences": 2,
+      "volumes": [
+        1,
+        14
+      ],
+      "paths": [
+        "OEBPS/Images/embed0018.jpg",
+        "images/00027.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji",
+        "gaiji1"
+      ],
+      "byte_size": 3684,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G005.jpg",
+      "class": "LEXICAL_GLYPH",
+      "replacement": "吐",
+      "semantic": "吐",
+      "confidence": "high",
+      "note": "Ordinary kanji gaiji."
+    },
+    {
+      "gaiji_id": "IMOSAE-G006",
+      "sha256": "d4907093889c1dc5cb49039cec7f5de2de65fc4daf0ba476de819dc99f529651",
+      "occurrences": 2,
+      "volumes": [
+        1
+      ],
+      "paths": [
+        "OEBPS/Images/embed0022.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3476,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「⟦IMG⟧ゃー？」",
+        "「可児（が⟦IMG⟧）ぜんぜぇ～！」"
+      ],
+      "asset_file": "IMOSAE-G006.jpg",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "に゙",
+      "semantic": "に with dakuten",
+      "confidence": "high",
+      "note": "Expressive/slurred nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G007",
+      "sha256": "0a60785f5a9d810a4aeebcdac9dc969286d20007b68d2b581821b9ca62b361e3",
+      "occurrences": 1,
+      "volumes": [
+        1
+      ],
+      "paths": [
+        "OEBPS/Images/embed0026.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3748,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G007.jpg",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G007⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Semantics/function clear; exact Unicode transcription would be lossy."
+    },
+    {
+      "gaiji_id": "IMOSAE-G008",
+      "sha256": "091bf1e54512f204cd42efa8501db0f8cecdc64f7ab252d75aa1eaa396aaa4dd",
+      "occurrences": 1,
+      "volumes": [
+        1
+      ],
+      "paths": [
+        "OEBPS/Images/embed0027.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 2864,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「他のクズ作家やクズ絵師どもにぜんぜぇの爪の垢飲まぜてやってくだざいよ⟦IMG⟧～！」"
+      ],
+      "asset_file": "IMOSAE-G008.jpg",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "オ゙",
+      "semantic": "オ with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced katakana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G009",
+      "sha256": "fd06b555502dfba083d37d4e85f78ece2b0a38646efc01a45032888c75bd8bf8",
+      "occurrences": 11,
+      "volumes": [
+        1,
+        2,
+        4
+      ],
+      "paths": [
+        "OEBPS/Images/embed0035.jpg",
+        "OEBPS/Images/embed0037.jpg",
+        "images/00041.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3500,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "千：はい。……⟦IMG⟧で１４です。",
+        "千：ダイス１個振ればいいんですね。⟦IMG⟧プラス５で９です。",
+        "月子：なるほど……次は私だな。男Ｂに近づいて【流し斬り】で攻撃。命中判定は⟦IMG⟧プラス８で２１だ。死ぬがいい！",
+        "月子：⟦IMG⟧プラス５の１４。やったか!?",
+        "デスマスク：天井のシミを数えている間に終わりますから。では出しますよ。ウッ！どぴゅっ！……えーと、⟦IMG⟧＋５で９ポイント回復ですね。",
+        "千：……⟦IMG⟧で８です……！これでどうにか……。",
+        "デスマスク：じゃあまず知性派の私が判定してみます。……⟦IMG⟧の１３です。",
+        "デスマスク：じゃあまず知性派の私が判定してみます。……⟦IMG⟧の１３です。",
+        "月子：ふむ……⟦IMG⟧で７。",
+        "ミヤコ：⟦IMG⟧で６。",
+        "祈るように千尋がダイスを振るも、出た目は⟦IMG⟧だった。"
+      ],
+      "asset_file": "IMOSAE-G009.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚃",
+      "semantic": "die face 4",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 4."
+    },
+    {
+      "gaiji_id": "IMOSAE-G010",
+      "sha256": "2d0e33d765d59665986b7eef9c53703b628f0a5a6e84d4cd01601967e5bb90be",
+      "occurrences": 8,
+      "volumes": [
+        1,
+        2,
+        4
+      ],
+      "paths": [
+        "OEBPS/Images/embed0036.jpg",
+        "images/00027.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3820,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "千：はい。……⟦IMG⟧で１４です。",
+        "千：はい。……⟦IMG⟧で１４です。",
+        "月子：⟦IMG⟧プラス５の１４。やったか!?",
+        "デスマスク：じゃあまず知性派の私が判定してみます。……⟦IMG⟧の１３です。",
+        "デスマスク：⟦IMG⟧で１４です。",
+        "デスマスク：今度こそ私の真のコミュ力を見せてあげましょう。……えいっ！……あ、⟦IMG⟧で１７です。",
+        "⟦IMG⟧",
+        "出た目は──⟦IMG⟧。"
+      ],
+      "asset_file": "IMOSAE-G010.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚄",
+      "semantic": "die face 5",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 5."
+    },
+    {
+      "gaiji_id": "IMOSAE-G011",
+      "sha256": "74a9d17cbefbf9602c49c4707936fd7a222814504cea063fff4143a6fca3bd55",
+      "occurrences": 2,
+      "volumes": [
+        1
+      ],
+      "paths": [
+        "OEBPS/Images/embed0038.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3156,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "月子：なるほど……次は私だな。男Ｂに近づいて【流し斬り】で攻撃。命中判定は⟦IMG⟧プラス８で２１だ。死ぬがいい！",
+        "月子：⟦IMG⟧……低いな！"
+      ],
+      "asset_file": "IMOSAE-G011.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚂",
+      "semantic": "die face 3",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 3."
+    },
+    {
+      "gaiji_id": "IMOSAE-G012",
+      "sha256": "fc558f046ae5b9b28bf347bf4dd5589ca24c1ecdbcadc8c8e5662ded156b3e2e",
+      "occurrences": 10,
+      "volumes": [
+        1,
+        2,
+        4
+      ],
+      "paths": [
+        "OEBPS/Images/embed0039.jpg",
+        "images/00028.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4160,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "月子：なるほど……次は私だな。男Ｂに近づいて【流し斬り】で攻撃。命中判定は⟦IMG⟧プラス８で２１だ。死ぬがいい！",
+        "ＧＭ：命中判定のときに⟦IMG⟧が２つ以上出るとクリティカル──決定的成功となって、相手の回避判定に関係なく絶対に命中するんだ。",
+        "デスマスク：⟦IMG⟧で１４です。",
+        "千：⟦IMG⟧で１３です。……あれ？が２つ以上出るとクリティカルでしたっけ？",
+        "千：⟦IMG⟧で１３です。……あれ？が２つ以上出るとクリティカルでしたっけ？",
+        "千：⟦IMG⟧で１３です。……あれ？が２つ以上出るとクリティカルでしたっけ？",
+        "デスマスク：今度こそ私の真のコミュ力を見せてあげましょう。……えいっ！……あ、⟦IMG⟧で１７です。",
+        "デスマスク：今度こそ私の真のコミュ力を見せてあげましょう。……えいっ！……あ、⟦IMG⟧で１７です。",
+        "出た目は⟦IMG⟧だった。",
+        "──出た目は、⟦IMG⟧だった。"
+      ],
+      "asset_file": "IMOSAE-G012.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚅",
+      "semantic": "die face 6",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 6."
+    },
+    {
+      "gaiji_id": "IMOSAE-G013",
+      "sha256": "d0a0f92be56a806e15041fcad3d258dbf63dd2e78be12ed2daacd309b1fc568b",
+      "occurrences": 5,
+      "volumes": [
+        1,
+        2,
+        4
+      ],
+      "paths": [
+        "OEBPS/Images/embed0040.jpg",
+        "OEBPS/Images/embed0041.jpg",
+        "images/00025.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 2688,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "月子：⟦IMG⟧……低いな！",
+        "千：⟦IMG⟧で１３です。……あれ？が２つ以上出るとクリティカルでしたっけ？",
+        "出たダイスの目は⟦IMG⟧で合計４。",
+        "出たダイスの目は⟦IMG⟧で合計４。",
+        "指示に従って那由多がダイスを振ると、⟦IMG⟧が出た。"
+      ],
+      "asset_file": "IMOSAE-G013.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚀",
+      "semantic": "die face 1",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 1."
+    },
+    {
+      "gaiji_id": "IMOSAE-G014",
+      "sha256": "d0cf2f44566c4439bcf321a8c3212814d9d7708d37dd586f54fbf7a5d4c50252",
+      "occurrences": 3,
+      "volumes": [
+        1
+      ],
+      "paths": [
+        "OEBPS/Images/embed0041.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 2832,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "月子：⟦IMG⟧……低いな！",
+        "千：……⟦IMG⟧で８です……！これでどうにか……。",
+        "千：……⟦IMG⟧で８です……！これでどうにか……。"
+      ],
+      "asset_file": "IMOSAE-G014.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚁",
+      "semantic": "die face 2",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 2."
+    },
+    {
+      "gaiji_id": "IMOSAE-G015",
+      "sha256": "7eb17d1e5eb0afbd11b2ea89ecad5fb058dc50480a343b3059e518b66913d7a8",
+      "occurrences": 3,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0006.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 5936,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G015.jpg",
+      "class": "COMPOSITE_TEXT_GLYPH",
+      "replacement": "（仮）",
+      "semantic": "parenthesized 仮",
+      "confidence": "high",
+      "note": "Occurs inside ruby with reading かっこかり; normalize surface to （仮） and retain ruby sidecar."
+    },
+    {
+      "gaiji_id": "IMOSAE-G016",
+      "sha256": "aceb09ccd9df4a50019c680ccdb85fc639a5e71eb294c956ec3bfbf692504fb8",
+      "occurrences": 4,
+      "volumes": [
+        2,
+        4
+      ],
+      "paths": [
+        "OEBPS/Images/embed0014.jpg",
+        "images/00031.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3184,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G016.jpg",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G016⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G017",
+      "sha256": "df94b4c61e6a9600a722d069bb0e7ce93b469e2fdc5c7b81c73bc9e664766849",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0016.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 6476,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "をそぎ落としているため動作は軽くて値段も安く、ネットやゲームでいつの間にか時間を吸われることもないので、作家やシナリオライターにも愛用者が多い。ただしテキストエディタなので、文章を⟦IMG⟧に装飾したり特殊なルビを多用するタイプの小説には若干不向きではある。"
+      ],
+      "asset_file": "IMOSAE-G017.jpg",
+      "class": "DECORATED_TEXT",
+      "replacement": "こ",
+      "semantic": "こ",
+      "confidence": "high",
+      "note": "Part of decorated sequence こんなふう; preserve decoration annotation."
+    },
+    {
+      "gaiji_id": "IMOSAE-G018",
+      "sha256": "ea468a9e279238c2876b3554644f538c7ec19b277cbef541a66e4d50b5e61b11",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0017.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 5716,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "をそぎ落としているため動作は軽くて値段も安く、ネットやゲームでいつの間にか時間を吸われることもないので、作家やシナリオライターにも愛用者が多い。ただしテキストエディタなので、文章を⟦IMG⟧に装飾したり特殊なルビを多用するタイプの小説には若干不向きではある。"
+      ],
+      "asset_file": "IMOSAE-G018.jpg",
+      "class": "DECORATED_TEXT",
+      "replacement": "ん",
+      "semantic": "ん",
+      "confidence": "high",
+      "note": "Part of decorated sequence こんなふう; preserve decoration annotation."
+    },
+    {
+      "gaiji_id": "IMOSAE-G019",
+      "sha256": "5a8b1a127cef3d450cd229eb74d71c31b81501a630a5352e1dbe22567b5efcc3",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0018.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 6468,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "をそぎ落としているため動作は軽くて値段も安く、ネットやゲームでいつの間にか時間を吸われることもないので、作家やシナリオライターにも愛用者が多い。ただしテキストエディタなので、文章を⟦IMG⟧に装飾したり特殊なルビを多用するタイプの小説には若干不向きではある。"
+      ],
+      "asset_file": "IMOSAE-G019.jpg",
+      "class": "DECORATED_TEXT",
+      "replacement": "な",
+      "semantic": "な",
+      "confidence": "high",
+      "note": "Part of decorated sequence こんなふう; preserve decoration annotation."
+    },
+    {
+      "gaiji_id": "IMOSAE-G020",
+      "sha256": "7b6a415346a797707f82bf9b8089e28f4feb9dae5d7ba0a3499b717a4c4a2665",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0019.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 6048,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "をそぎ落としているため動作は軽くて値段も安く、ネットやゲームでいつの間にか時間を吸われることもないので、作家やシナリオライターにも愛用者が多い。ただしテキストエディタなので、文章を⟦IMG⟧に装飾したり特殊なルビを多用するタイプの小説には若干不向きではある。"
+      ],
+      "asset_file": "IMOSAE-G020.jpg",
+      "class": "DECORATED_TEXT",
+      "replacement": "ふ",
+      "semantic": "ふ",
+      "confidence": "high",
+      "note": "Part of decorated sequence こんなふう; preserve decoration annotation."
+    },
+    {
+      "gaiji_id": "IMOSAE-G021",
+      "sha256": "4774aaf2015f0324a7627f9964b1832cdd2a172ad9e98d7e64cb40ee7f595dd6",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0020.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 6472,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "をそぎ落としているため動作は軽くて値段も安く、ネットやゲームでいつの間にか時間を吸われることもないので、作家やシナリオライターにも愛用者が多い。ただしテキストエディタなので、文章を⟦IMG⟧に装飾したり特殊なルビを多用するタイプの小説には若干不向きではある。"
+      ],
+      "asset_file": "IMOSAE-G021.jpg",
+      "class": "DECORATED_TEXT",
+      "replacement": "う",
+      "semantic": "う",
+      "confidence": "high",
+      "note": "Part of decorated sequence こんなふう; preserve decoration annotation."
+    },
+    {
+      "gaiji_id": "IMOSAE-G022",
+      "sha256": "ce83316f915fa230440c6cd9200ae525b500b012ae3a1a82bc6538434a57b88c",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0023.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 5884,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "レーベルの地位に比例すると言われており、那由多たちのレーベルはまさしくホテル相応の「そこそこ勢いのある中堅レーベル」だが、これが例えばライトノベル業界を代表する超一流レーベルである⟦IMG⟧ともなると、それに相応しい超一流ホテルのスイートルームが用意されるという（※編注／そんな事実はありません）。"
+      ],
+      "asset_file": "IMOSAE-G022.jpg",
+      "class": "LOGOTYPE_TEXT",
+      "replacement": "小",
+      "semantic": "小",
+      "confidence": "high",
+      "note": "Styled publisher/imprint logotype; part of 小学館ガガガ文庫."
+    },
+    {
+      "gaiji_id": "IMOSAE-G023",
+      "sha256": "f3e04555b2c1d4295b8991fc39b8538d1f27592d4227665a8c54760c74955ac2",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0024.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 6000,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "レーベルの地位に比例すると言われており、那由多たちのレーベルはまさしくホテル相応の「そこそこ勢いのある中堅レーベル」だが、これが例えばライトノベル業界を代表する超一流レーベルである⟦IMG⟧ともなると、それに相応しい超一流ホテルのスイートルームが用意されるという（※編注／そんな事実はありません）。"
+      ],
+      "asset_file": "IMOSAE-G023.jpg",
+      "class": "LOGOTYPE_TEXT",
+      "replacement": "学",
+      "semantic": "学",
+      "confidence": "high",
+      "note": "Styled publisher/imprint logotype; part of 小学館ガガガ文庫."
+    },
+    {
+      "gaiji_id": "IMOSAE-G024",
+      "sha256": "687ee3bbb4173c6fa254885ab88109603913c2d3202eac3a7c03674e24bc4e8c",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0025.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 6968,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "レーベルの地位に比例すると言われており、那由多たちのレーベルはまさしくホテル相応の「そこそこ勢いのある中堅レーベル」だが、これが例えばライトノベル業界を代表する超一流レーベルである⟦IMG⟧ともなると、それに相応しい超一流ホテルのスイートルームが用意されるという（※編注／そんな事実はありません）。"
+      ],
+      "asset_file": "IMOSAE-G024.jpg",
+      "class": "LOGOTYPE_TEXT",
+      "replacement": "館",
+      "semantic": "館",
+      "confidence": "high",
+      "note": "Styled publisher/imprint logotype; part of 小学館ガガガ文庫."
+    },
+    {
+      "gaiji_id": "IMOSAE-G025",
+      "sha256": "ef59e317ac4482491595140355eb117296a2c26e9c793c9288914edabdc93095",
+      "occurrences": 3,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0026.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 5540,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "レーベルの地位に比例すると言われており、那由多たちのレーベルはまさしくホテル相応の「そこそこ勢いのある中堅レーベル」だが、これが例えばライトノベル業界を代表する超一流レーベルである⟦IMG⟧ともなると、それに相応しい超一流ホテルのスイートルームが用意されるという（※編注／そんな事実はありません）。",
+        "レーベルの地位に比例すると言われており、那由多たちのレーベルはまさしくホテル相応の「そこそこ勢いのある中堅レーベル」だが、これが例えばライトノベル業界を代表する超一流レーベルである⟦IMG⟧ともなると、それに相応しい超一流ホテルのスイートルームが用意されるという（※編注／そんな事実はありません）。",
+        "レーベルの地位に比例すると言われており、那由多たちのレーベルはまさしくホテル相応の「そこそこ勢いのある中堅レーベル」だが、これが例えばライトノベル業界を代表する超一流レーベルである⟦IMG⟧ともなると、それに相応しい超一流ホテルのスイートルームが用意されるという（※編注／そんな事実はありません）。"
+      ],
+      "asset_file": "IMOSAE-G025.jpg",
+      "class": "LOGOTYPE_TEXT",
+      "replacement": "ガ",
+      "semantic": "ガ",
+      "confidence": "high",
+      "note": "Styled publisher/imprint logotype; part of 小学館ガガガ文庫."
+    },
+    {
+      "gaiji_id": "IMOSAE-G026",
+      "sha256": "5e446e27022b94bbaf332d86690d20e5b1e1da941aac8f63def4f93b0c525b73",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0027.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 5668,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "レーベルの地位に比例すると言われており、那由多たちのレーベルはまさしくホテル相応の「そこそこ勢いのある中堅レーベル」だが、これが例えばライトノベル業界を代表する超一流レーベルである⟦IMG⟧ともなると、それに相応しい超一流ホテルのスイートルームが用意されるという（※編注／そんな事実はありません）。"
+      ],
+      "asset_file": "IMOSAE-G026.jpg",
+      "class": "LOGOTYPE_TEXT",
+      "replacement": "ガ",
+      "semantic": "ガ",
+      "confidence": "high",
+      "note": "Styled publisher/imprint logotype; part of 小学館ガガガ文庫."
+    },
+    {
+      "gaiji_id": "IMOSAE-G027",
+      "sha256": "87674b42850b3621560173181159589db6117f4d91016c7176a4d6bca3a419b2",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0028.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 7396,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "レーベルの地位に比例すると言われており、那由多たちのレーベルはまさしくホテル相応の「そこそこ勢いのある中堅レーベル」だが、これが例えばライトノベル業界を代表する超一流レーベルである⟦IMG⟧ともなると、それに相応しい超一流ホテルのスイートルームが用意されるという（※編注／そんな事実はありません）。"
+      ],
+      "asset_file": "IMOSAE-G027.jpg",
+      "class": "LOGOTYPE_TEXT",
+      "replacement": "庫",
+      "semantic": "庫",
+      "confidence": "high",
+      "note": "Styled publisher/imprint logotype; part of 小学館ガガガ文庫."
+    },
+    {
+      "gaiji_id": "IMOSAE-G028",
+      "sha256": "baf03d43a7382728e3ff58f2896c4018b3739fb811aa6dd8f81a999f25985370",
+      "occurrences": 6,
+      "volumes": [
+        2,
+        4
+      ],
+      "paths": [
+        "OEBPS/Images/embed0038.jpg",
+        "images/00033.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3104,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "月子：ふむ……⟦IMG⟧で７。",
+        "デスマスク：⟦IMG⟧で１４です。",
+        "⟦IMG⟧",
+        "千尋がダイスを振り、出た目は⟦IMG⟧だった。",
+        "出た目は⟦IMG⟧だった。",
+        "千尋がダイスを転がす。出目は⟦IMG⟧だった。"
+      ],
+      "asset_file": "IMOSAE-G028.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚂",
+      "semantic": "die face 3",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 3."
+    },
+    {
+      "gaiji_id": "IMOSAE-G029",
+      "sha256": "1acdbef0311e10e081172b9f7526358e09042ad52a5b1fa8fbdd040bd9b5ac61",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0040.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 2888,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "ミヤコ：⟦IMG⟧で６。"
+      ],
+      "asset_file": "IMOSAE-G029.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚁",
+      "semantic": "die face 2",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 2."
+    },
+    {
+      "gaiji_id": "IMOSAE-G030",
+      "sha256": "7b759b032d8caad0341be3af4902d4a4540dbddd453898d5e547dca7ab15085c",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0047.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 2808,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G030.jpg",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G030⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G031",
+      "sha256": "0809e5d3eca725abad07385f6dae95e609aa81c9908f6e86ce43d8e5cc8de64d",
+      "occurrences": 1,
+      "volumes": [
+        2
+      ],
+      "paths": [
+        "OEBPS/Images/embed0048.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 2840,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G031.jpg",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G031⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G032",
+      "sha256": "9ac581311ca83cd41ed513b4a94e3b4644fcf422256c3b83405fb5193eb875a7",
+      "occurrences": 2,
+      "volumes": [
+        3
+      ],
+      "paths": [
+        "OEBPS/Images/s_emoji_shobon01.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 563,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "⟦IMG⟧",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G032.png",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G032⟧",
+      "semantic": "shobon-style image kaomoji",
+      "confidence": "high",
+      "note": "Filename identifies emoji/kaomoji role; exact visual retained."
+    },
+    {
+      "gaiji_id": "IMOSAE-G033",
+      "sha256": "61134452c5ea1b86d30b769ac1f67d72f31137342b3c0920830263680bf78487",
+      "occurrences": 103,
+      "volumes": [
+        3,
+        5,
+        7,
+        8
+      ],
+      "paths": [
+        "OEBPS/Images/s_imouto.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 1101,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G033.png",
+      "class": "STRUCTURAL_ORNAMENT",
+      "replacement": "⟦ORNAMENT:IMOUTO_SEAL⟧",
+      "semantic": "circled 妹 scene-break seal",
+      "confidence": "high",
+      "note": "Same semantic ornament as G002, different binary rendering."
+    },
+    {
+      "gaiji_id": "IMOSAE-G034",
+      "sha256": "879b2e78c18945ad41dfa66c359d5252734bf32e0aeec5f3f1dace3d596ff71c",
+      "occurrences": 1,
+      "volumes": [
+        4
+      ],
+      "paths": [
+        "images/00010.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3592,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「中身は私のエッチな写真の詰め合わせです。自分で撮ったのでぼやけてますが全裸の写真もあるんですよ⟦IMG⟧」"
+      ],
+      "asset_file": "IMOSAE-G034.jpeg",
+      "class": "EXPRESSIVE_MARK",
+      "replacement": "///",
+      "semantic": "blushing/embarrassment slashes",
+      "confidence": "high",
+      "note": "Inline expressive mark; literal three slash normalization is faithful enough."
+    },
+    {
+      "gaiji_id": "IMOSAE-G035",
+      "sha256": "f6bc38fa1c6ee705e5cae1b6aca6175ea01b4209bafbd8d66fd05efd0e438cda",
+      "occurrences": 2,
+      "volumes": [
+        4
+      ],
+      "paths": [
+        "images/00026.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 2892,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "出たダイスの目は⟦IMG⟧で合計４。",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G035.jpeg",
+      "class": "DIE_FACE",
+      "replacement": "⚁",
+      "semantic": "die face 2",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 2."
+    },
+    {
+      "gaiji_id": "IMOSAE-G036",
+      "sha256": "f28c1d5f512aa66d0147b37364df49f6e33f8bbba02ad9316a3340a014ae1bde",
+      "occurrences": 3,
+      "volumes": [
+        4
+      ],
+      "paths": [
+        "images/00029.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 1556,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「だ⟦IMG⟧から！プロ作家が展開予想するのは禁止だって前のセッションのときに言っただろうがッ!!」",
+        "「だ⟦IMG⟧から！プロ作家が展開予想するのは禁止だって前のセッションのときに言っただろうがッ!!」",
+        "「だ⟦IMG⟧から！プロ作家が展開予想するのは禁止だって前のセッションのときに言っただろうがッ!!」"
+      ],
+      "asset_file": "IMOSAE-G036.jpeg",
+      "class": "PROLONGATION_MARK",
+      "replacement": "―",
+      "semantic": "long dash segment",
+      "confidence": "high",
+      "note": "Used paired with G037 after successive syllables; normalized pair yields ――."
+    },
+    {
+      "gaiji_id": "IMOSAE-G037",
+      "sha256": "80198da03fe8c75c9b2a01530614d1c324caca6f62a47927d7b094600ae1de3e",
+      "occurrences": 3,
+      "volumes": [
+        4
+      ],
+      "paths": [
+        "images/00030.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 1500,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「だ⟦IMG⟧から！プロ作家が展開予想するのは禁止だって前のセッションのときに言っただろうがッ!!」",
+        "「だ⟦IMG⟧から！プロ作家が展開予想するのは禁止だって前のセッションのときに言っただろうがッ!!」",
+        "「だ⟦IMG⟧から！プロ作家が展開予想するのは禁止だって前のセッションのときに言っただろうがッ!!」"
+      ],
+      "asset_file": "IMOSAE-G037.jpeg",
+      "class": "PROLONGATION_MARK",
+      "replacement": "―",
+      "semantic": "long dash segment",
+      "confidence": "high",
+      "note": "Used paired with G036 after successive syllables; normalized pair yields ――."
+    },
+    {
+      "gaiji_id": "IMOSAE-G038",
+      "sha256": "01475e3d521185c5e3214d4b7531513f3068d013d83c2c5b62a94a4fc388de85",
+      "occurrences": 2,
+      "volumes": [
+        5
+      ],
+      "paths": [
+        "OEBPS/Images/s_00693_90d.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3922,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "〒３７●⟦IMG⟧●●●●",
+        "群馬県●●市●●町●⟦IMG⟧●●"
+      ],
+      "asset_file": "IMOSAE-G038.png",
+      "class": "PUNCTUATION",
+      "replacement": "－",
+      "semantic": "hyphen/minus separator",
+      "confidence": "high",
+      "note": "Vertical-rendered separator in postal code/address; normalize to fullwidth hyphen-minus."
+    },
+    {
+      "gaiji_id": "IMOSAE-G039",
+      "sha256": "f8a19f544f5a6afb7c894dbc0fb7fef9231a4fb7545004a3f1e58c9971e585fd",
+      "occurrences": 5,
+      "volumes": [
+        5,
+        7,
+        8
+      ],
+      "paths": [
+        "OEBPS/Images/s_daku_a_h.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4227,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "「⟦IMG⟧の小娘ェ……ッ!!」",
+        "「⟦IMG⟧ー、それなら今夜は帰ります。胃が脂で満たされて気持ち悪い……」",
+        "「ん～～～～～～～⟦IMG⟧～～～～～～～～～～!!」",
+        "「⟦IMG⟧ー？」",
+        "「⟦IMG⟧？」"
+      ],
+      "asset_file": "IMOSAE-G039.png",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "あ゙",
+      "semantic": "あ with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G040",
+      "sha256": "f70e2f6488c56b64b6b614658304423caf74f54b17ceee5bd7ecf8d118f7edfb",
+      "occurrences": 1,
+      "volumes": [
+        5
+      ],
+      "paths": [
+        "OEBPS/Images/s_daku_n_h.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4124,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "「⟦IMG⟧～……」"
+      ],
+      "asset_file": "IMOSAE-G040.png",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "ん゙",
+      "semantic": "ん with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G041",
+      "sha256": "4fc96899d37fab1c1e9ea8cef85a136be6d99389a386e0f791de460cc27a3efe",
+      "occurrences": 2,
+      "volumes": [
+        5
+      ],
+      "paths": [
+        "OEBPS/Images/s_daku_na_h.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 739,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "「⟦IMG⟧……!?」",
+        "「⟦IMG⟧……!?」"
+      ],
+      "asset_file": "IMOSAE-G041.png",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "な゙",
+      "semantic": "な with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G042",
+      "sha256": "38095a050d482bb4f9cf136a20d034456aa36962e53e6b96e5f476005a73651c",
+      "occurrences": 1,
+      "volumes": [
+        5
+      ],
+      "paths": [
+        "OEBPS/Images/s_emoji_ki02.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4078,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G042.png",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G042⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G043",
+      "sha256": "4fc2aeeefd0fd53d5bc664b708ef152f4ac47a6f1f229757f3a5d65aca1ceeb1",
+      "occurrences": 1,
+      "volumes": [
+        5
+      ],
+      "paths": [
+        "OEBPS/Images/s_emoji_ki03.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4120,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G043.png",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G043⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G044",
+      "sha256": "6e98ae914221f96a1cc88b880e192b2582f5b719d2914cd9cc693dfde3920c28",
+      "occurrences": 1,
+      "volumes": [
+        5
+      ],
+      "paths": [
+        "OEBPS/Images/s_emoji_ki04.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4029,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G044.png",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G044⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G045",
+      "sha256": "92eb552389277d6f78366d14b8428057fea46babac7144a318c0b371fe0a447a",
+      "occurrences": 15,
+      "volumes": [
+        6,
+        9
+      ],
+      "paths": [
+        "OEBPS/Images/embed0019.jpg",
+        "OEBPS/Images/embed0036.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4616,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "ミヤコ：４Ｄで⟦IMG⟧……２０です。",
+        "ミヤコ：４Ｄで⟦IMG⟧……２０です。",
+        "月子：ふむ、それならなんとか……。よっと……⟦IMG⟧で８……よし、ギリギリで成功だ！",
+        "ミヤコ：ダメージは……⟦IMG⟧＋３４の５８です。",
+        "千：僕は話術が低いので２Ｄですね……。⟦IMG⟧で８です。",
+        "千：⟦IMG⟧＋１０の２０です。",
+        "デスマスク：……⟦IMG⟧で１７です。",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ"
+      ],
+      "asset_file": "IMOSAE-G045.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚄",
+      "semantic": "die face 5",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 5."
+    },
+    {
+      "gaiji_id": "IMOSAE-G046",
+      "sha256": "fa6606d23cea07bfbca8a9b1ea04832695d384200c8b9aad122c39864b570850",
+      "occurrences": 23,
+      "volumes": [
+        6,
+        9
+      ],
+      "paths": [
+        "OEBPS/Images/embed0020.jpg",
+        "OEBPS/Images/embed0034.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 4256,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "ミヤコ：４Ｄで⟦IMG⟧……２０です。",
+        "千：僕はダイス４個だから……⟦IMG⟧の１７です。",
+        "ミヤコ：命中判定、⟦IMG⟧＋１０で１７です。",
+        "ミヤコ：ダメージは……⟦IMG⟧＋３４の５８です。",
+        "月子：話術は３Ｄだから……⟦IMG⟧で９だ。",
+        "ミヤコ：あたしも３Ｄで、⟦IMG⟧で１０。",
+        "ミヤコ：あたしも３Ｄで、⟦IMG⟧で１０。",
+        "ミヤコ：え？はい。……えっと、⟦IMG⟧です。",
+        "千：⟦IMG⟧です。",
+        "千：⟦IMG⟧＋１０の２０です。",
+        "デスマスク：……⟦IMG⟧で１７です。",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！"
+      ],
+      "asset_file": "IMOSAE-G046.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚃",
+      "semantic": "die face 4",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 4."
+    },
+    {
+      "gaiji_id": "IMOSAE-G047",
+      "sha256": "619ed0a11806a2a109b27538c33a717cae33c04075b0288b224e4557d42f3b1e",
+      "occurrences": 26,
+      "volumes": [
+        6,
+        9
+      ],
+      "paths": [
+        "OEBPS/Images/embed0021.jpg",
+        "OEBPS/Images/embed0038.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 5008,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "ミヤコ：４Ｄで⟦IMG⟧……２０です。",
+        "月子：私の知識は９だから２Ｄだぞ……２個とも⟦IMG⟧出さないと失敗じゃないか。",
+        "月子：……なにが起きるんだ？とりあえず⟦IMG⟧で１１。",
+        "千：僕はダイス４個だから……⟦IMG⟧の１７です。",
+        "千：僕はダイス４個だから……⟦IMG⟧の１７です。",
+        "ミヤコ：ダメージは……⟦IMG⟧＋３４の５８です。",
+        "ミヤコ：ダメージは……⟦IMG⟧＋３４の５８です。",
+        "ＧＭ：⟦IMG⟧が２個出てるからボーナスで２０プラスで……な、７８ダメージ。完全にオーバーキルだね……。",
+        "ミヤコ：え？はい。……えっと、⟦IMG⟧です。",
+        "ミヤコ：え？はい。……えっと、⟦IMG⟧です。",
+        "千：⟦IMG⟧です。",
+        "デスマスク：……⟦IMG⟧で１７です。"
+      ],
+      "asset_file": "IMOSAE-G047.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚅",
+      "semantic": "die face 6",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 6."
+    },
+    {
+      "gaiji_id": "IMOSAE-G048",
+      "sha256": "fc2c046a3bf89e163cf1e86e340505d1ec31e419cc64d2db11a853cebb7d18cf",
+      "occurrences": 24,
+      "volumes": [
+        6,
+        9
+      ],
+      "paths": [
+        "OEBPS/Images/embed0023.jpg",
+        "OEBPS/Images/embed0033.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3936,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "月子：ふむ、それならなんとか……。よっと……⟦IMG⟧で８……よし、ギリギリで成功だ！",
+        "月子：……なにが起きるんだ？とりあえず⟦IMG⟧で１１。",
+        "ミヤコ：⟦IMG⟧で８。",
+        "ミヤコ：⟦IMG⟧で８。",
+        "ミヤコ：命中判定、⟦IMG⟧＋１０で１７です。",
+        "ミヤコ：ダメージは……⟦IMG⟧＋３４の５８です。",
+        "月子：話術は３Ｄだから……⟦IMG⟧で９だ。",
+        "千：僕は話術が低いので２Ｄですね……。⟦IMG⟧で８です。",
+        "千：⟦IMG⟧です。",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！"
+      ],
+      "asset_file": "IMOSAE-G048.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚂",
+      "semantic": "die face 3",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 3."
+    },
+    {
+      "gaiji_id": "IMOSAE-G049",
+      "sha256": "28e90a2a9f0594c6cc53aaec3367718ffa4a0c92471f406f3e796a42f544b32e",
+      "occurrences": 16,
+      "volumes": [
+        6,
+        9
+      ],
+      "paths": [
+        "OEBPS/Images/embed0024.jpg",
+        "OEBPS/Images/embed0035.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3540,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "月子：……なにが起きるんだ？とりあえず⟦IMG⟧で１１。",
+        "ミヤコ：⟦IMG⟧で８。",
+        "月子：話術は３Ｄだから……⟦IMG⟧で９だ。",
+        "ミヤコ：あたしも３Ｄで、⟦IMG⟧で１０。",
+        "デスマスク：……⟦IMG⟧で１７です。",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！",
+        "「⟦IMG⟧で１８、回避成功！」「でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！"
+      ],
+      "asset_file": "IMOSAE-G049.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚁",
+      "semantic": "die face 2",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 2."
+    },
+    {
+      "gaiji_id": "IMOSAE-G050",
+      "sha256": "4ab38cd26aa66db42661bb4798a8494a3133d11dcc7c106df8273b4c6fdc35bf",
+      "occurrences": 8,
+      "volumes": [
+        6,
+        9
+      ],
+      "paths": [
+        "OEBPS/Images/embed0025.jpg",
+        "OEBPS/Images/embed0041.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3248,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "千：僕はダイス４個だから……⟦IMG⟧の１７です。",
+        "千：⟦IMG⟧＋１０の２０です。",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ",
+        "「で１８、回避成功！」「⟦IMG⟧でクリティカル！回避成功！」「、回避失敗、残りＨＰ４、ペニシリン投与！」「、回避成功！」「、回避成功！」「、クリティカル！」「、回避成功！」「、クリティカル！」「、回避失敗、残りＨ"
+      ],
+      "asset_file": "IMOSAE-G050.jpg",
+      "class": "DIE_FACE",
+      "replacement": "⚀",
+      "semantic": "die face 1",
+      "confidence": "high",
+      "note": "Unicode die-face replacement; numeric semantic value 1."
+    },
+    {
+      "gaiji_id": "IMOSAE-G051",
+      "sha256": "76a5cc027d1e51dbd2cfea50416d8860fa71b71ff14f46e6e31803772f00bcc1",
+      "occurrences": 1,
+      "volumes": [
+        7
+      ],
+      "paths": [
+        "OEBPS/Images/s_kaomoji_01.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 736,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G051.png",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G051⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G052",
+      "sha256": "493aaa299c10f708e45cb87734ad9e82438a7cd1fb10945e41f9068178035abe",
+      "occurrences": 1,
+      "volumes": [
+        7
+      ],
+      "paths": [
+        "OEBPS/Images/s_kaomoji_02.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 683,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G052.png",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G052⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G053",
+      "sha256": "453071d9a8e7c9540d7515060b96a65ae2c5a0edbc9b7da1bfa7230745d428b5",
+      "occurrences": 1,
+      "volumes": [
+        7
+      ],
+      "paths": [
+        "OEBPS/Images/s_kaomoji_03.png"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 679,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "P",
+      "sample_contexts": [
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G053.png",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G053⟧",
+      "semantic": "image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G054",
+      "sha256": "dfca51e24e5b13fa2f15428feca647b93290f5224ceddc90c515b6fc4aa353e6",
+      "occurrences": 6,
+      "volumes": [
+        9,
+        12,
+        14
+      ],
+      "paths": [
+        "OEBPS/Images/embed0015.jpg",
+        "images/00010.jpeg",
+        "images/00029.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji",
+        "gaiji1"
+      ],
+      "byte_size": 3156,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "というか俺に関わったおかげで妹愛に目覚めたらしくて、最近よく妹たちと一緒に風呂に入っているらしい……！うおおおなんなんだあのリアルエロゲー主人公は！ぢくじょおおおお……！うらやまじ⟦IMG⟧……！」",
+        "というか俺に関わったおかげで妹愛に目覚めたらしくて、最近よく妹たちと一緒に風呂に入っているらしい……！うおおおなんなんだあのリアルエロゲー主人公は！ぢくじょおおおお……！うらやまじ⟦IMG⟧……！」",
+        "というか俺に関わったおかげで妹愛に目覚めたらしくて、最近よく妹たちと一緒に風呂に入っているらしい……！うおおおなんなんだあのリアルエロゲー主人公は！ぢくじょおおおお……！うらやまじ⟦IMG⟧……！」",
+        "というか俺に関わったおかげで妹愛に目覚めたらしくて、最近よく妹たちと一緒に風呂に入っているらしい……！うおおおなんなんだあのリアルエロゲー主人公は！ぢくじょおおおお……！うらやまじ⟦IMG⟧……！」",
+        "「……美味い…………ゔ⟦IMG⟧……」",
+        "シリーズ、これにて本当の本当に完結です。最後まで読んでくださった皆さんの未来が、最高に幸せなものであることを心から祈っていますが、それ以上に僕自身が幸せになりたいです。げっごんじだ⟦IMG⟧!!"
+      ],
+      "asset_file": "IMOSAE-G054.jpg",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "い゙",
+      "semantic": "い with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G055",
+      "sha256": "a544cf47e668395aa828348ff20e521cc362291846f3d28f1285468b094beae2",
+      "occurrences": 1,
+      "volumes": [
+        11
+      ],
+      "paths": [
+        "OEBPS/Images/embed0014.jpg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3592,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「⟦IMG⟧？」"
+      ],
+      "asset_file": "IMOSAE-G055.jpg",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "え゙",
+      "semantic": "え with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G056",
+      "sha256": "c924a8bf2aa3ecf505b3a4d45223e29f4131c54d53889af278044e6433715cc9",
+      "occurrences": 1,
+      "volumes": [
+        12
+      ],
+      "paths": [
+        "images/00008.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji1"
+      ],
+      "byte_size": 3128,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "千尋からＬＩＮＥで『兄さんとお父さんがバカなことをして本当にごめんなさい。私からキツく言っておいたので許してください。……それから、これからも前みたいに相手してもらえると嬉しいです⟦IMG⟧』というメッセージが届いて、春斗も『ユニークなお父さんだね（笑）了解、これからもよろしく』と努めて軽く返したのだが、その後千尋から特に連絡はない。"
+      ],
+      "asset_file": "IMOSAE-G056.jpeg",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G056⟧",
+      "semantic": "smiling image kaomoji",
+      "confidence": "high",
+      "note": "Exact visual retained by asset hash; no forced transcription."
+    },
+    {
+      "gaiji_id": "IMOSAE-G057",
+      "sha256": "609fef8e15b9c35076e2daf76c6ab8fdfa5e3d1fe7102ec4144ba85e53a9db10",
+      "occurrences": 1,
+      "volumes": [
+        12
+      ],
+      "paths": [
+        "images/00009.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji1"
+      ],
+      "byte_size": 4016,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「……美味い…………ゔ⟦IMG⟧……」"
+      ],
+      "asset_file": "IMOSAE-G057.jpeg",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "ま゙",
+      "semantic": "ま with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G058",
+      "sha256": "dbc18fe40be57b650ba659b78cfee1d0f8285628dcc71327c2f4f715cc41005b",
+      "occurrences": 1,
+      "volumes": [
+        12
+      ],
+      "paths": [
+        "images/00015.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji1"
+      ],
+      "byte_size": 4280,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "「⟦IMG⟧ゃーざん好き～！大好ぎ～～～！」"
+      ],
+      "asset_file": "IMOSAE-G058.jpeg",
+      "class": "NONSTANDARD_DAKUTEN",
+      "replacement": "み゙",
+      "semantic": "み with dakuten",
+      "confidence": "high",
+      "note": "Expressive nonstandard voiced kana."
+    },
+    {
+      "gaiji_id": "IMOSAE-G059",
+      "sha256": "97f30c3ec74fe35cde5b033d1d023034e788656603d957d3581e06834ad9028a",
+      "occurrences": 1,
+      "volumes": [
+        12
+      ],
+      "paths": [
+        "images/00020.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji1"
+      ],
+      "byte_size": 4264,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "恋人の羽島伊月君と●●●（レストラン名）でクリスマスデート♥クリスマス限定ディナーめっちゃ美味しい～⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G059.jpeg",
+      "class": "KAOMOJI_EMOJI",
+      "replacement": "⟦KAOMOJI:IMOSAE-G059⟧",
+      "semantic": "image kaomoji/emoticon",
+      "confidence": "high",
+      "note": "Social-post expressive image; exact visual retained."
+    },
+    {
+      "gaiji_id": "IMOSAE-G060",
+      "sha256": "eb7ae2da222e9f8d0aa69a84e9c8a730625704f456c7ac3721d0ac9c2aae5b8f",
+      "occurrences": 5,
+      "volumes": [
+        13
+      ],
+      "paths": [
+        "images/00015.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji1"
+      ],
+      "byte_size": 3016,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "Ｌ⟦IMG⟧Ｒ",
+        "Ｌ⟦IMG⟧Ｒ",
+        "Ｌ⟦IMG⟧Ｒ",
+        "Ｌ⟦IMG⟧Ｒ",
+        "Ｌ⟦IMG⟧Ｒ"
+      ],
+      "asset_file": "IMOSAE-G060.jpeg",
+      "class": "TITLE_SYMBOL",
+      "replacement": "⟦SYMBOL:LR_BIDIRECTIONAL_ARROW⟧",
+      "semantic": "bidirectional arrow between L and R",
+      "confidence": "medium-high",
+      "note": "Inside title ruby Ｌ[image]Ｒ / エルアール. Search alias: Ｌ⇔Ｒ; preserve source token because exact horizontal glyph cannot be proved solely from rotated gaiji."
+    },
+    {
+      "gaiji_id": "IMOSAE-G061",
+      "sha256": "36195359997426c01a70e214d2638dca76101622c4d9770c48fd848e06e99b08",
+      "occurrences": 1,
+      "volumes": [
+        13
+      ],
+      "paths": [
+        "images/00019.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji1"
+      ],
+      "byte_size": 3368,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "完璧すぎる情報に春斗は感激し、アニメキャラが「神⟦IMG⟧」と崇めているスタンプを送った。"
+      ],
+      "asset_file": "IMOSAE-G061.jpeg",
+      "class": "EXPRESSIVE_MARK",
+      "replacement": "!!!",
+      "semantic": "three exclamation marks",
+      "confidence": "high",
+      "note": "Image is three exclamation marks; inline after 神."
+    },
+    {
+      "gaiji_id": "IMOSAE-G062",
+      "sha256": "324b68fffa3e3d180de44f911ec5141acfc342b1dc2abc7eb9306b57914e3495",
+      "occurrences": 12,
+      "volumes": [
+        13
+      ],
+      "paths": [
+        "images/00026.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 5644,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G062.jpeg",
+      "class": "STRUCTURAL_ORNAMENT",
+      "replacement": "⟦ORNAMENT:SKULL_CROSSBONES⟧",
+      "semantic": "skull-and-crossbones scene divider",
+      "confidence": "high",
+      "note": "Standalone centered section/scene divider; not prose."
+    },
+    {
+      "gaiji_id": "IMOSAE-G063",
+      "sha256": "48dc4dcf3bcf760342072740a94475fbe9bf3d28af6e1bef63120c7dd6d1f910",
+      "occurrences": 1,
+      "volumes": [
+        14
+      ],
+      "paths": [
+        "images/00009.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji1"
+      ],
+      "byte_size": 3040,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "Ｌ⟦IMG⟧Ｒ"
+      ],
+      "asset_file": "IMOSAE-G063.jpeg",
+      "class": "TITLE_SYMBOL",
+      "replacement": "⟦SYMBOL:LR_BIDIRECTIONAL_ARROW⟧",
+      "semantic": "bidirectional arrow between L and R",
+      "confidence": "medium-high",
+      "note": "Same title symbol semantics as G060; binary rendering differs in V14. Search alias: Ｌ⇔Ｒ."
+    },
+    {
+      "gaiji_id": "IMOSAE-G064",
+      "sha256": "5e45e8bbbaea8c21f8108ece740f63862572bbfb73c10c9e0ed51caff5d69ed4",
+      "occurrences": 1,
+      "volumes": [
+        14
+      ],
+      "paths": [
+        "images/00021.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji1"
+      ],
+      "byte_size": 5056,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧日"
+      ],
+      "asset_file": "IMOSAE-G064.jpeg",
+      "class": "LEXICAL_GLYPH",
+      "replacement": "晦",
+      "semantic": "晦",
+      "confidence": "high",
+      "note": "Inside 大[gaiji]日 with ruby みそか; normalize to 大晦日."
+    },
+    {
+      "gaiji_id": "IMOSAE-G065",
+      "sha256": "e716ce04fa87ab8c510ea75d675429b29df3c57b89530b2ba43f49e5ae2aa574",
+      "occurrences": 18,
+      "volumes": [
+        14
+      ],
+      "paths": [
+        "images/00025.jpeg"
+      ],
+      "alt": [
+        ""
+      ],
+      "classes": [
+        "gaiji"
+      ],
+      "byte_size": 3356,
+      "dimensions": [
+        128,
+        128
+      ],
+      "mode": "RGB",
+      "sample_contexts": [
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧",
+        "⟦IMG⟧"
+      ],
+      "asset_file": "IMOSAE-G065.jpeg",
+      "class": "STRUCTURAL_ORNAMENT",
+      "replacement": "⟦ORNAMENT:BLUE_BIRD⟧",
+      "semantic": "stylized bird scene divider",
+      "confidence": "high",
+      "note": "Standalone centered section/scene divider in V14 \"青い小鳥たち\" material; not prose."
+    }
+  ]
+}

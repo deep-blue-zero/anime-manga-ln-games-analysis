@@ -1,0 +1,41 @@
+{
+  "series": "GKM",
+  "character": "Kuramoto China / 倉本千奈",
+  "artifact_scope": "Phase 3 textual character core",
+  "source_lock": {
+    "name": "GAKUMAS V2 Source Lock 1.0",
+    "commit": "00d150a069a3ffa723a1ff264752ba242024caad",
+    "revision": 32,
+    "generated": "2026-08-02T22:21:04Z"
+  },
+  "total_objects": 208,
+  "total_messages": 5558,
+  "families": {
+    "pstory": {
+      "objects": 46,
+      "messages": 995,
+      "series": {
+        "001": {"objects": 31, "messages": 813},
+        "002": {"objects": 11, "messages": 149},
+        "003": {"objects": 4, "messages": 33}
+      }
+    },
+    "pevent": {"objects": 83, "messages": 1029},
+    "cidol": {"objects": 27, "messages": 1097},
+    "dear": {"objects": 38, "messages": 2398},
+    "live": {"objects": 9, "messages": 16},
+    "pgrowth": {"objects": 3, "messages": 11},
+    "startup": {"objects": 2, "messages": 12}
+  },
+  "p3_fragments": [
+    "adv_pstory_003_kcna_selection-failure-01",
+    "adv_pstory_003_kcna_selection-normal-02",
+    "adv_pstory_003_kcna_final-failure-01",
+    "adv_pstory_003_kcna_final-normal-02"
+  ],
+  "continuity_note": "The four Series-3 objects are conditional result fragments, not a complete additive P3 biography. Dear 021-037 is tracked separately as D-CHINA; Dear 036 Prima Stella victory is track-scoped.",
+  "evidence_matrix_claims": 30,
+  "audiovisual_status": "pending; request/crosswalk artifact only",
+  "external_title_verification": "Official first-party label material checked through 2026-08-15 for Wonder Scale, 日々、発見的ステップ！, 空と約束, and ゆめぱしー/みちなるひろがる public identities.",
+  "legacy_comparison": "V1 transcript used only for STRENGTHEN/REVISE/OPEN claim transition analysis."
+}

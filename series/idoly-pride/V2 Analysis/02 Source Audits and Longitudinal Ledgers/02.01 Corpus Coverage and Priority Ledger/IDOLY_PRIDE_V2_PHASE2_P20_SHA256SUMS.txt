@@ -1,0 +1,44 @@
+# IDOLY PRIDE V2 Phase 2 P2-0 integrity manifest
+# Created 2026-08-16
+# Source snapshot: IP-V2-SNAPSHOT-2026-08-13-A
+# Result: P2_0_INFRASTRUCTURE_PASS
+
+# Frozen inherited authorities
+28f7a6ee1409fc124692ea6db6030385933fbfb7125620421bee4c7db67f24ce  IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+883cbac36ab382f0aab3e2b0578b35867def62a15e05b64b466ac45fb743d6ee  IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+262b161776430f5305fb611543a85d051767b9eeb5dc2949312b44d2b8086b9e  IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+20b4548b4767bdc4053abcde419c6f0aa92b5cc94b206016a003d05ef82e7c14  IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+9e32a5f4fab791258dcf31482a5102839211d88c460b10488fca05f0bd7c93e4  IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+
+# Exact formal-source reports used for P2-0 initialization
+79872b6203a567921b8b49c97c4e375b3829f4b1fd039cd19f1bfa306452a334  telephone_transcript_coverage.tsv
+1e71eeac76f63d211a28bbba4fb851df6f26b8809db79cced1a6b5103a0bc7e8  missing_transcript_assets.tsv
+
+# P2-0 artifacts
+ea0dcb66022ee115836e2ec03ebc075415506ae428b3cd60c0c88b303b771e5b  IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+79cf19a42d4733bff1c2316988bad2b07c11d8ec620781876afb964032a16325  SOURCE_DELTA_LEDGER.md
+6e99546f3006d503af7dd17e40db0ca106f196cd5bf1f7a2646efa9eaedd2637  CHARACTER_UNIT_UPDATE_STATUS.md
+a1eef239dfd37a3a75fa6ec92576f24cbdc4eefd52984a5060bf5d6bdf059665  PENDING_REANALYSIS_QUEUE.md
+7e2ba262131eee9d0e2838226e4625a032ac8be891a88caa95a535c7e5fb2d2f  IDOLY_PRIDE_V2_FORMAL_DEPENDENCY_LEDGER.md
+2ecd083d6607989ea378916a874d58b66962efbbcd49eec8fa3fd21472997eb4  IDOLY_PRIDE_V2_PHASE2_P20_INFRASTRUCTURE_AUDIT.md
+431f7e4d428d412235fb6c5fb94f274ca4188fee9616664d1e751120d82616ae  IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+
+# Mutable current-state map — hash at P2-0 completion; later Phase-2 updates are expected.
+7c5e22a1af96489421237b09a99c87688a90a7c45c59e2dad0b6da5ac7598640  CURRENT_STATE_AND_CORPUS_MAP.md
+
+# Freshness state
+# No later source snapshot admitted.
+# SOURCE_DELTA_LEDGER delta_entries = []
+# PENDING_REANALYSIS_QUEUE pending_reanalysis = []
+# 28 character/unit freshness entries initialized; validated_through remains null for all 28.
+
+# Formal dependency state
+# Telephone refs: 256
+# PHONE-ASR-SUPPORTED source state: 211
+# PHONE-GAP: 45
+# Missing processed/formal assets: 32
+# tel-card-rui-05-fest-04 remains unavailable and blocks post-recognition outcome claims only.
+# No absent telephone/audio/formal content reconstructed.
+
+# Next operation
+# P2-A1 — IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md

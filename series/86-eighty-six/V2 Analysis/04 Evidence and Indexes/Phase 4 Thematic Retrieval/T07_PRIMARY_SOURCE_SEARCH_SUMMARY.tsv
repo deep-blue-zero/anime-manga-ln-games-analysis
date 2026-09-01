@@ -1,0 +1,17 @@
+metric	value
+raw_lexical_family_hits	3170
+unique_matching_primary_source_paragraphs	2899
+retained_context_reread_items	181
+
+family	raw_family_hit_rows
+INJURY_WOUND	549
+SCAR_APPEARANCE	395
+PAIN_SENSATION	394
+BODY_FUNCTION	378
+BODY_AS_RESOURCE	355
+FATIGUE_REST	320
+ARTIFICIAL_EMBODIMENT	301
+MEDICINE_TREATMENT	165
+MEDICAL_AGENCY	155
+CHILD_BODY	117
+TRAUMA_FLASHBACK	41

@@ -1,0 +1,248 @@
+evidence_id	source	source_locator	prior_locator_id	short_japanese_anchor	quote_state	evidence_class	families	analytic_function	note
+T12-E001	V01	memoir epigraph / p-001.xhtml ¶001	V01-L001	豚に人権を与えぬことを	EXACT_VERIFIED	NV/PT/LI	EQUALITY_RIGHTS	freedom_rights_illusion_normative_lexicon	01, 05, 12
+T12-E002	V01	Ch.2 / p-007.xhtml ¶035	V01-L006	死んだ仲間を悼む自由も	EXACT_VERIFIED	NV	FREEDOM	freedom_rights_illusion_normative_lexicon	05, 09
+T12-E003	V01	Ch.3 / p-008.xhtml ¶339	V01-L012	ヴラディレーナ・ミリーゼ	EXACT_VERIFIED	CS/LI	ADDRESS_FORMS	address_register_command_request	03, 10, 12
+T12-E004	V01	Ch.3 / p-008.xhtml ¶489	V01-L014	必ず生きて、帰らないと	EXACT_VERIFIED	CS	RETURN_KAERU	return_kaeru_homeward_recipient	02, 10, 13
+T12-E005	V01	Ch.7 / p-018.xhtml ¶343	V01-L026	生きているからどんどん変わって	EXACT_VERIFIED	NV	ALIVE_GRAMMAR	alive_grammar_and_revision	01, 02, 11
+T12-E006	V01	Ch.7 / p-018.xhtml ¶431	V01-L028	先にいきます。少佐	EXACT_VERIFIED	CS/LI	ADDRESS_FORMS	address_register_command_request	02, 10, 12, 13
+T12-E007	V02	Ch.2 / p-005.xhtml ¶231	V02-L010	ごめんな。痛かったよな	EXACT_VERIFIED	CS	PAIN_PLAIN	plain_emotional_admission_pain	02, 07, 11
+T12-E008	V02	Ch.2 / p-005.xhtml ¶241–244	V02-L011	お前にはこれから、長い時間がある	EXACT_VERIFIED	CS	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	02, 09
+T12-E009	V02	Ch.3 / p-006.xhtml ¶077–080	V02-L020	civilian activities / `もうエイティシックスなどではない	PARAPHRASE + EXACT_ANCHOR	NV	FUTURE_TIME;REVISION_MOU	temporal_grammar_mou_mada_mata_itsuka	06, 09
+T12-E010	V02	Ch.3 / p-006.xhtml ¶336–343	V02-L024	帰ろう。あたし達のいるべきところに	EXACT_VERIFIED	CS/LI	RETURN_KAERU	return_kaeru_homeward_recipient	04, 09, 12
+T12-E011	V02	Ch.3 / p-006.xhtml ¶352–358	V02-L025	ただの子供に戻って` / empty rooms	EXACT_ANCHOR	NV/SI	RETURN_MODORU	return_modoru_state_reentry_recovery	06, 09
+T12-E012	V02	Ch.4 / p-007.xhtml ¶376–387	V02-L034	名前、聞かなければよかったな` / `お人好しの死神	EXACT_ANCHOR	CS/LI	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	02, 09, 12
+T12-E013	V02	Ch.4 / p-007.xhtml ¶546–548	V02-L041	少佐は元気でやってんのかね	EXACT_VERIFIED	CS	ADDRESS_FORMS	address_register_command_request	02, 10, 12
+T12-E014	V02	Ch.5 / p-008.xhtml ¶326	V02-L045	そなたは、キリと同じじゃ	EXACT_VERIFIED	CS	ADDRESS_FORMS	address_register_command_request	02, 14
+T12-E015	V02	Interlude / p-009.xhtml ¶045–062	V02-L049	Republic military has never seen Legion; `亡霊の軍勢が、帰還する	EXACT_ANCHOR	NV/MI	MILITARY_RETURN	return_operational_kikan_seikan	05, 07, 11
+T12-E016	V02	Interlude / p-009.xhtml ¶081–089	V02-L050	鮮血の女王` calls all Processors	EXACT_ANCHOR	BA/MI	QUEEN_TITLE	lena_queen_title_role_address	03, 05, 07
+T12-E017	V03	epigraph / p-001.xhtml ¶001–002	V03-L001	それが誇りだと` / `それ以外の何も	EXACT_VERIFIED	NV/PT	PRIDE	pride_exclusivity_shika	01,09,12
+T12-E018	V03	Ch.6 / p-006.xhtml ¶046	V03-L011	帰る故郷はなく、守る家族もなく	EXACT_VERIFIED	NV	RETURN_KAERU;HOME_FURUSATO	home_furusato	04,09
+T12-E019	V03	Ch.6 / p-006.xhtml ¶054	V03-L012	戦い抜く誇りしか、おれ達にはない	EXACT_VERIFIED	NV	PRIDE;EXCLUSIVITY_SHIKA	pride_exclusivity_shika	01,09
+T12-E020	V03	Ch.6 / p-006.xhtml ¶147	V03-L016	目的もなく帰る地もなく、誇りだけに縋って	EXACT_VERIFIED	CS	RETURN_KAERU;PRIDE	return_kaeru_homeward_recipient	02,04,09
+T12-E021	V03	Ch.6 / p-006.xhtml ¶169	V03-L017	そなたに死なれたくはない	EXACT_VERIFIED	CS	ADDRESS_FORMS	address_register_command_request	02,04
+T12-E022	V03	Ch.8 / p-009.xhtml ¶089	V03-L021	必ず帰れ	EXACT_VERIFIED	CS	RETURN_KAERU	return_kaeru_homeward_recipient	04,07,09
+T12-E023	V03	Ch.8 / p-009.xhtml ¶326	V03-L022	生きて帰ってくるつもりもなかった	EXACT_VERIFIED	CS	RETURN_KAERU	return_kaeru_homeward_recipient	02,04
+T12-E024	V03	Ch.8 / p-010.xhtml ¶116	V03-L030	手に入れた“自由”` / `あまりにも大きな空虚	EXACT_VERIFIED	NV	FREEDOM	freedom_rights_illusion_normative_lexicon	02,06,09
+T12-E025	V03	Ch.8 / p-010.xhtml ¶149	V03-L033	共に行く者どもを支えとすればよい	EXACT_VERIFIED	CS	TOGETHER_TOMONI;SUPPORT	together_tomoni_elevated_shared_burden	04,09
+T12-E026	V03	Ch.9 / p-011.xhtml ¶179	V03-L034	もうこれしかないからだ	EXACT_VERIFIED	NV	EXCLUSIVITY_SHIKA;FUTURE_TIME	pride_exclusivity_shika	04,11
+T12-E027	V03	Ch.9 / p-011.xhtml ¶224	V03-L035	人格と意志` / `上位指揮官機の命令には背けない	EXACT_VERIFIED	NV/PF	COMMAND_REQUEST;PERSONHOOD_SELF	personhood_personality_self_will_lexicon	08,11,12
+T12-E028	V03	Ch.9 / later collapse	V03-L041	頼ることもできぬほど...独りにしたのは、もう昔	EXACT_VERIFIED	CS	RELY;FUTURE_TIME	support_obey_trust_rely_contrast	02,04
+T12-E029	V03	cemetery / p-014.xhtml ¶072–076	V03-L050	帰る場所も、行きたいところも。...守るものも	EXACT_VERIFIED	CS/NV	RETURN_KAERU	return_kaeru_homeward_recipient	02,09
+T12-E030	V03	cemetery / p-014.xhtml ¶089	V03-L052	また来る。...見たことのないものを伝えに	EXACT_VERIFIED	CS	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	02,09,13
+T12-E031	V03	reunion / p-015.xhtml ¶028–037	V03-L055	追いつきましたよ` / `一緒に戦います	EXACT_VERIFIED	CS	TOGETHER_ISSHO	together_issho_ordinary_shared_proximity	03,10,13
+T12-E032	V04	Ch.1 / p-005.xhtml ¶600	V04-L010	一緒に戦う──のでしょう？	EXACT_VERIFIED	CS	TOGETHER_ISSHO	together_issho_ordinary_shared_proximity	03, 10
+T12-E033	V04	Ch.2 / p-006.xhtml ¶639	V04-L015	先に進めぬ、ではない。戻れぬ、であろ。	EXACT_VERIFIED	CS/LI	RETURN_MODORU	return_modoru_state_reentry_recovery	04, 09, 12
+T12-E034	V04	Ch.2 / p-006.xhtml ¶737	V04-L017	豚の鳴き声に、レーナは耳を傾けないでしょう？	EXACT_VERIFIED	CS/LI	ADDRESS_FORMS	address_register_command_request	02, 05, 12
+T12-E035	V04	Ch.4 / p-008.xhtml ¶98	V04-L020	共和国の冷酷まで、大佐が演じる必要はありません	EXACT_VERIFIED	CS	ADDRESS_FORMS	address_register_command_request	02, 03, 10
+T12-E036	V04	mass Shepherds / p-009.xhtml ¶61	V04-L022	自己同一性	EXACT_VERIFIED	PF/NV/LI	PERSONHOOD_SELF	personhood_personality_self_will_lexicon	08, 11, 12
+T12-E037	V04	mass Shepherds / p-009.xhtml ¶67	V04-L023	人格という夾雑物	EXACT_VERIFIED	NV/LI	PERSONHOOD_SELF	personhood_personality_self_will_lexicon	08, 11, 12
+T12-E038	V04	Phönix fight / p-009.xhtml ¶469	V04-L027	帰ってきてください	EXACT_VERIFIED	CS	RETURN_KAERU;COMMAND_REQUEST	return_kaeru_homeward_recipient	03, 10
+T12-E039	V04	Phönix fight / p-009.xhtml ¶474	V04-L028	必ず、ここへ。……帰ってきてください	EXACT_VERIFIED	CS/LI	RETURN_KAERU;COMMAND_REQUEST	return_kaeru_homeward_recipient	03, 10, 12
+T12-E040	V04	Phönix / p-009.xhtml ¶566	V04-L030	人格を持たない高機動型	EXACT_VERIFIED	NV/PF/LI	PERSONHOOD_SELF	personhood_personality_self_will_lexicon	08, 11, 12
+T12-E041	V05	Ch.1 / p-004.xhtml ¶748	V05-L011	祖国を、家族を奪い去ったのは俺だ	EXACT_VERIFIED	CS	HOMELAND_SOKOKU	homeland_sokoku	04, 07
+T12-E042	V05	Ch.1 / p-004.xhtml ¶789	V05-L014	還りたいと。……ずっと泣いてる	EXACT_VERIFIED	CS/PF	RETURN_KANRU	return_metaphysical_kanru	07, 08, 11
+T12-E043	V05	Ch.2 / p-005.xhtml ¶930–931	V05-L021	檻の扉は開いた` / `何処にも行かないことだって、自由	EXACT_VERIFIED	CS/LI	FREEDOM	freedom_rights_illusion_normative_lexicon	03, 06, 09, 12
+T12-E044	V05	Ch.3 / p-006.xhtml ¶682	V05-L023	未来などない。課された役目しかない	EXACT_VERIFIED	CS/LI	EXCLUSIVITY_SHIKA;FUTURE_TIME;ROLE_DESTINY	pride_exclusivity_shika	08, 09, 11, 12
+T12-E045	V05	Ch.4 / p-007.xhtml ¶59–60	V05-L030	傍にいてくれるか` / `おいて逝かないでくれ	EXACT_VERIFIED	CS/NV/LI	COMMAND_REQUEST	address_register_command_request	04, 07, 10
+T12-E046	V05	Ch.4 / p-007.xhtml ¶186	V05-L032	いつか幸せになりたいくせに	EXACT_VERIFIED	CS/LI	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	02, 09, 10, 12
+T12-E047	V06	p-004 ¶243	V06-L008	目の前のリュドミラは、先の戦闘で死んだリュドミラと同じ疑似人格、同じ戦闘経験...	EXACT_VERIFIED	PF/NV	PERSONHOOD_SELF	personhood_personality_self_will_lexicon	Recreated Lerche raises continuity/replacement problem
+T12-E048	V06	p-004 ¶264	V06-L009	「〈シリン〉一番機〈レルヒェ〉、このとおり戻って参りました。これよりまた連合...	EXACT_VERIFIED	CS/LI	RETURN_MODORU;FUTURE_TIME	return_modoru_state_reentry_recovery	Lerche distinguishes living humans from beings made for war
+T12-E049	V06	p-004 ¶518	V06-L015	「信じたいんです。この世界にはまだ、誰もが幸せに生きられる世界に、変われる可...	EXACT_VERIFIED	CS/LI	TRUST;FUTURE_TIME	support_obey_trust_rely_contrast	Lena chooses belief in the possibility of a world where all can live happily
+T12-E050	V06	p-004 ¶724	V06-L018	レーナの歩調に合わせているから、いつもよりも少しだけ遅い。普段は足音を立てず...	EXACT_VERIFIED	BA/VI	ADDRESS_FORMS	address_register_command_request	Shin physically adjusts walking pace to Lena
+T12-E051	V06	p-004 ¶749	V06-L019	そう、傷だろう。レーナたち共和国が刻み込んだ、これ以上ないくらいに深い傷だ。...	EXACT_VERIFIED	NV/IT	ADDRESS_FORMS	address_register_command_request	Lena recognizes a wound can remain part of Shin and cannot simply be removed
+T12-E052	V06	p-005 ¶322	V06-L029	「貴女がおれに頼んだことで本当に無茶だったものなんてそうなかったろう、……リ...	EXACT_VERIFIED	LI/BA	RELY;ADDRESS_FORMS	support_obey_trust_rely_contrast	Shin resumes childhood address with Annette
+T12-E053	V06	p-006 ¶800	V06-L036	『帰ってこいと、貴女が命じたのでしょう。それなら待っていてください。帰る場所...	EXACT_VERIFIED	CS/LI	RETURN_KAERU;WAIT_LEAVE_BEHIND;COMMAND_REQUEST;ADDRESS_FORMS	return_kaeru_homeward_recipient	Shin says return requires Lena to remain as a place/person of return
+T12-E054	V06	p-006 ¶871	V06-L042	「だから、帰ってきなさい。絶対に。わたしはおいていきませんから、──あなたも...	EXACT_VERIFIED	CS/LI	RETURN_KAERU;COMMAND_REQUEST;ADDRESS_FORMS	return_kaeru_homeward_recipient	Lena makes reciprocal return command/promise
+T12-E055	V06	p-007 ¶666	V06-L047	必ず帰ると。話をしようと。傷つけたのを謝ることさえ自分はできていないのに、こ...	EXACT_VERIFIED	NV	RETURN_KAERU	return_kaeru_homeward_recipient	Survival is tied to unfinished promises, conversation and apology
+T12-E056	V06	p-007 ¶674	V06-L048	レーナが笑ってくれるような、生き方をしたい。	EXACT_VERIFIED	NV/LI	COMMAND_REQUEST;ADDRESS_FORMS	address_register_command_request	Shin wants a way of living that lets Lena smile
+T12-E057	V06	p-007 ¶675	V06-L049	叶うならば共に、笑いあって。	EXACT_VERIFIED	NV/LI	TOGETHER_TOMONI	together_tomoni_elevated_shared_burden	He adds shared laughter as desired relational life
+T12-E058	V06	p-007 ¶818	V06-L053	「だから何だ？ お前たちの矜持なんて知ったことじゃない。戦い抜くのが誇りだと...	EXACT_VERIFIED	CS/LI	PRIDE	pride_exclusivity_shika	Shin explicitly retains battlefield pride and refuses flight
+T12-E059	V06	p-007 ¶825	V06-L055	「生きてるから」	EXACT_VERIFIED	CS/LI	ALIVE_GRAMMAR	alive_grammar_and_revision	Living status grounds his refusal of the binary
+T12-E060	V06	p-007 ¶847	V06-L056	そのべたつく重い雪を踏んで、攻略部隊が帰ってくる。重装輸送車が次々と止まり、...	EXACT_VERIFIED	BA	RETURN_KAERU	return_kaeru_homeward_recipient	Return sequence re-establishes unit/home relation
+T12-E061	V06	p-009 ¶93	V06-L060	今は、同じ場所に帰ってくる。	EXACT_VERIFIED	CS/IT	RETURN_KAERU	return_kaeru_homeward_recipient	Theo/Kurena articulate current shared return place
+T12-E062	V06	p-009 ¶96	V06-L061	結んだ絆が途切れたわけでもなく、別れを迎えたわけですらないのだろうけれど、そ...	EXACT_VERIFIED	NV/IT	WISH_BOND_PRAYER	curse_wish_bond_prayer_semantic_field	Survival makes later different homes/destinations possible
+T12-E063	V06	p-009 ¶102	V06-L062	「何もないけど、でも。考えてかないといけないよね。これからどうするのか。……...	EXACT_VERIFIED	CS/LI	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	Theo says they must think about what they want to become
+T12-E064	V06	p-009 ¶139	V06-L066	「今日は、帰ります。……待っている人がいますから」	EXACT_VERIFIED	CS/LI	RETURN_KAERU;WAIT_LEAVE_BEHIND	return_kaeru_homeward_recipient	Shin returns because someone is waiting
+T12-E065	V07	Ch.2 / p-007.xhtml ¶342	V07-L010	祖国のために他人を使い潰さねば愛国心がない	EXACT_VERIFIED	CS/LI	HOMELAND_SOKOKU	homeland_sokoku	02,05,12
+T12-E066	V07	Ch.2 / p-007.xhtml ¶375	V07-L013	共和国人で、同時におれたちエイティシックスの女王	EXACT_VERIFIED	CS/LI	QUEEN_TITLE	lena_queen_title_role_address	03,10,12
+T12-E067	V07	Ch.3 / p-008.xhtml ¶100	V07-L024	わたしにはこれしかないんです	EXACT_VERIFIED	CS/LI	EXCLUSIVITY_SHIKA	pride_exclusivity_shika	03,09,12
+T12-E068	V07	Ch.4 / p-009.xhtml ¶277–281	V07-L042	レーナ` / `奇跡みたいに綺麗だよ	EXACT_VERIFIED	CS/LI	ADDRESS_FORMS	address_register_command_request	03,04,10,12
+T12-E069	V07	Ch.4 / p-009.xhtml ¶603–605	V07-L048	あなたが好きだと` / future Festival together	EXACT_VERIFIED	NV	ADDRESS_FORMS	address_register_command_request	03,10
+T12-E070	V07	Ch.4 / p-009.xhtml ¶625	V07-L050	貴女に会えて、よかったです	EXACT_VERIFIED	CS/LI	ADDRESS_FORMS	address_register_command_request	02,10,12
+T12-E071	V07	Ch.4 / p-009.xhtml ¶649	V07-L052	貴女が好きです	EXACT_VERIFIED	CS/LI	ADDRESS_FORMS	address_register_command_request	02,10,12
+T12-E072	V07	Ch.4 / p-009.xhtml ¶656	V07-L053	貴女と共に、海を見たい	EXACT_VERIFIED	CS/LI	TOGETHER_TOMONI;ADDRESS_FORMS	together_tomoni_elevated_shared_burden	02,09,10,12
+T12-E073	V07	Ch.4 / p-009.xhtml ¶659	V07-L054	傍にいたい。共に生きたい	EXACT_VERIFIED	CS/LI	TOGETHER_TOMONI	together_tomoni_elevated_shared_burden	02,10,12
+T12-E074	V07	post-afterword / p-011.xhtml ¶61–68	V07-L058	自分も好きだと` / `応じてないならまだ、恋人	EXACT_VERIFIED	NV/LI	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	03,10,12
+T12-E075	V08	Ch.2 / p-005.xhtml ¶89	V08-L017	機動打撃群は生還させる	EXACT_VERIFIED	CS/MI	MILITARY_RETURN	return_operational_kikan_seikan	06, 07
+T12-E076	V08	Ch.3 / p-006.xhtml ¶365	V08-L027	戦い抜く誇り以外に	EXACT_VERIFIED	NV/LI	PRIDE	pride_exclusivity_shika	04, 09, 12
+T12-E077	V08	Ch.3 / p-006.xhtml ¶383	V08-L028	生きてりゃいつか、同じくらいに大切なものが	EXACT_VERIFIED	CS/LI	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	04, 09, 13
+T12-E078	V08	Ch.4 / p-008.xhtml ¶95	V08-L033	誇りしかないとはもう言わない	EXACT_VERIFIED	CS/LI	PRIDE;EXCLUSIVITY_SHIKA;FUTURE_TIME;REVISION_MOU	pride_exclusivity_shika	02, 09, 12
+T12-E079	V08	Ch.4 / p-008.xhtml ¶95	V08-L034	戦場以外に居場所がないとも、もう思わない	EXACT_VERIFIED	CS/LI	FUTURE_TIME;REVISION_MOU	temporal_grammar_mou_mada_mata_itsuka	02, 09, 12
+T12-E080	V08	Ch.4 / p-008.xhtml ¶470	V08-L038	人格が、自我が幾つも	EXACT_VERIFIED	NV/PF/LI	PERSONHOOD_SELF	personhood_personality_self_will_lexicon	08, 11, 12
+T12-E081	V08	Ch.5 / p-011.xhtml ¶54	V08-L039	しっかりしろよ女王陛下ァ	EXACT_VERIFIED	CS/LI	QUEEN_TITLE	lena_queen_title_role_address	03, 04, 12
+T12-E082	V08	Ch.5 / p-011.xhtml ¶60	V08-L040	あんたが信じてやらなくてどうする	EXACT_VERIFIED	CS/LI	TRUST;ADDRESS_FORMS	support_obey_trust_rely_contrast	03, 04, 10
+T12-E083	V08	Ch.5 / p-011.xhtml ¶300	V08-L042	それほど長い間、頼りきっていた	EXACT_VERIFIED	NV/LI	RELY	support_obey_trust_rely_contrast	04, 07
+T12-E084	V08	Ch.5 / p-011.xhtml ¶317	V08-L043	必ずお前が持って帰れ	EXACT_VERIFIED	CS/LI	RETURN_KAERU	return_kaeru_homeward_recipient	08, 13
+T12-E085	V08	Ch.5 / p-011.xhtml ¶539	V08-L046	誇り以外の懊悩も感情も欲も願いも	EXACT_VERIFIED	NV/LI	PRIDE;WISH_BOND_PRAYER	pride_exclusivity_shika	01, 04, 09, 12, 13
+T12-E086	V08	Ch.5 / p-011.xhtml ¶681	V08-L050	帰らないと	EXACT_VERIFIED	CS/LI	RETURN_KAERU	return_kaeru_homeward_recipient	04, 09, 13
+T12-E087	V08	Ch.5 / p-011.xhtml ¶703	V08-L053	幸福にならねばならないという呪い	EXACT_VERIFIED	NV/LI	CURSE	curse_wish_bond_prayer_semantic_field	04, 09, 12
+T12-E088	V08	Ch.5 / p-011.xhtml ¶839	V08-L056	僕はもう、──一緒には戦えないや	EXACT_VERIFIED	CS/LI	TOGETHER_ISSHO;FUTURE_TIME	together_issho_ordinary_shared_proximity	04, 08, 09, 12
+T12-E089	V09	memoir / p-001 ¶1	V09-L001	誇り。願い。絆。祈り。あるいは──呪い。	EXACT_VERIFIED	NV/LI	PRIDE;CURSE;WISH_BOND_PRAYER	pride_exclusivity_shika	01, 09, 13
+T12-E090	V09	Ch.1 / p-004 ¶312	V09-L008	戦うしかないんだよ	EXACT_VERIFIED	CS	EXCLUSIVITY_SHIKA	pride_exclusivity_shika	04, 09
+T12-E091	V09	Ch.1 / p-004 ¶313–314	V09-L009	誇りしかない	EXACT_VERIFIED	CS/LI	PRIDE;EXCLUSIVITY_SHIKA	pride_exclusivity_shika	04, 09, 12
+T12-E092	V09	Ch.1 / p-004 ¶410–414	V09-L010	戦場の外の、未来` / `信じられない	EXACT_VERIFIED	NV/LI	TRUST;FUTURE_TIME	support_obey_trust_rely_contrast	04, 09
+T12-E093	V09	Ch.1 / p-004 ¶527–534	V09-L012	囚われるのをやめるだけ` / `願いみたいなものでしょ	EXACT_VERIFIED	CS/LI	WISH_BOND_PRAYER	curse_wish_bond_prayer_semantic_field	04, 09
+T12-E094	V09	Ch.1 / p-004 ¶553–555	V09-L014	支えてもらってたのはおれも同じだ	EXACT_VERIFIED	CS/LI	SUPPORT	support_obey_trust_rely_contrast	02, 04, 10
+T12-E095	V09	Ch.1 / p-004 ¶611	V09-L017	頼ってください` / `共に、抱えますから	EXACT_VERIFIED	CS/LI	TOGETHER_TOMONI;RELY;COMMAND_REQUEST	together_tomoni_elevated_shared_burden	03, 10, 12
+T12-E096	V09	Ch.1 / p-004 ¶617–622	V09-L019	一緒に生きたい	EXACT_VERIFIED	CS/LI	TOGETHER_ISSHO	together_issho_ordinary_shared_proximity	03, 09, 10
+T12-E097	V09	Ch.2 / p-006 ¶30–47	V09-L022	選択の自由はない	EXACT_VERIFIED	PF/MI/LI	FREEDOM	freedom_rights_illusion_normative_lexicon	06, 09, 12
+T12-E098	V09	Ch.2 / p-006 ¶506	V09-L025	私も必ず、貴方のいる場所に帰ってくるから	EXACT_VERIFIED	CS/LI	RETURN_KAERU	return_kaeru_homeward_recipient	04, 10
+T12-E099	V09	Theo/Annette / p-009 ¶54–55	V09-L035	まだ死んでないから、何かをしたい	EXACT_VERIFIED	NV/LI	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	01, 08, 09, 12
+T12-E100	V09	Ch.4 / p-010 ¶470	V09-L041	それが誇りだからであって運命だからではない	EXACT_VERIFIED	CS/LI	PRIDE;ROLE_DESTINY	pride_exclusivity_shika	03, 09
+T12-E101	V09	Ch.5 / p-011 ¶308–311	V09-L053	誇りという名の、傷という名の呪い	EXACT_VERIFIED	NV/LI	PRIDE;CURSE	pride_exclusivity_shika	01, 04, 09, 12
+T12-E102	V09	afterword / p-015 ¶21	V09-L069	四巻からのエイティシックスたちの誇りと傷の物語は本巻にて一段落	EXACT_VERIFIED	PT	PRIDE	pride_exclusivity_shika	01, 09, 17
+T12-E103	V10	Pledge / p-004 ¶298	V10-L005	おれはまだ死ねない	EXACT_VERIFIED	CS/LI	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	02, 09, 12
+T12-E104	V10	Varlet / p-012 ¶98	V10-L015	それでも、一緒に帰るか	EXACT_VERIFIED	CS/LI	RETURN_KAERU;TOGETHER_ISSHO	return_kaeru_homeward_recipient	02, 08, 10
+T12-E105	V10	Varlet appendix / p-014 ¶40–42	V10-L018	共に在ろうとしてくれていますから	EXACT_VERIFIED	CS/LI	TOGETHER_TOMONI;COMMAND_REQUEST	together_tomoni_elevated_shared_burden	08, 10, 12
+T12-E106	V10	Brand / p-016 ¶227	V10-L022	死神か、そうじゃなきゃ葬儀屋	EXACT_VERIFIED	CS/LI	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	02, 09, 13
+T12-E107	V10	Brand / p-016 ¶252	V10-L024	〈葬儀屋〉	EXACT_VERIFIED	CS/LI	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	02, 12, 13
+T12-E108	V10	Undertaker / p-020 ¶49	V10-L027	我らが死神	EXACT_VERIFIED	CS/LI	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	02, 04, 12
+T12-E109	V10	Lethe / p-027 ¶293	V10-L047	かえりたい	EXACT_VERIFIED	CS/AM	RETURN_KAERU	return_kaeru_homeward_recipient	08, 11, 12
+T12-E110	V10	Lethe / p-027 ¶328	V10-L048	もう──かえっていい	EXACT_VERIFIED	CS/LI	RETURN_KAERU;FUTURE_TIME	return_kaeru_homeward_recipient	02, 08, 12
+T12-E111	V10	Gentle World / p-033 ¶127	V10-L060	おれは死神でいなくてよかった	EXACT_VERIFIED	CS/LI	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	02, 09, 12
+T12-E112	V10	afterword / p-034 ¶10	V10-L067	首のない死神へと変貌	EXACT_VERIFIED	PT	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	01, 02, 13
+T12-E113	V11	D+3 p-014 ¶68–76	V11-L006	その罪を負えるのは、レーナではない	EXACT_VERIFIED	NV/LI	ADDRESS_FORMS	address_register_command_request	03,05,09
+T12-E114	V11	D+3 p-014 ¶158	V11-L007	人質なんか要らないから。ちゃんと帰ってくるから	EXACT_VERIFIED	CS/LI	RETURN_KAERU	return_kaeru_homeward_recipient	04,09,10
+T12-E115	V11	return p-018 ¶213	V11-L013	全然、まだ赦せないよ	EXACT_VERIFIED	CS/LI	FUTURE_TIME;FORGIVE_ALLOW	temporal_grammar_mou_mada_mata_itsuka	04,05,09
+T12-E116	V11	return p-018 ¶280	V11-L018	帰るところは、ここじゃないから	EXACT_VERIFIED	CS/LI	RETURN_KAERU	return_kaeru_homeward_recipient	04,09,10
+T12-E117	V11	return p-018 ¶501	V11-L020	必ず、帰ってきます。ここに	EXACT_VERIFIED	CS/LI	RETURN_KAERU	return_kaeru_homeward_recipient	03,09,10
+T12-E118	V11	massacre p-022 ¶425	V11-L027	許してくれとは言わない	EXACT_VERIFIED	CS/LI	COMMAND_REQUEST;FORGIVE_ALLOW	forgive_allow_orthographic_context	04,05,09
+T12-E119	V11	final evac p-026 ¶90	V11-L034	我らが連邦は、正義の国なのだから	EXACT_VERIFIED	CS/MI	JUSTICE	justice_aspiration_identity_grammar	06,07
+T12-E120	V11	final evac p-026 ¶93	V11-L035	正義の美名	EXACT_VERIFIED	CS/LI/MI	JUSTICE	justice_aspiration_identity_grammar	06,07,12
+T12-E121	V11	march p-026 ¶315–318	V11-L043	聖女マグノリアの、革命を導き率いた聖女の再来です` / `鮮血の女王	EXACT_VERIFIED	CS/LI/VI	QUEEN_TITLE	lena_queen_title_role_address	03,05,13
+T12-E122	V11	Richard p-026 ¶427–430	V11-L048	ただの子供に戻ったか	EXACT_VERIFIED	CS/LI	RETURN_MODORU	return_modoru_state_reentry_recovery	06,09
+T12-E123	V11	grief p-028 ¶5–6	V11-L055	滅びてしまった祖国のために	EXACT_VERIFIED	NV	HOMELAND_SOKOKU	homeland_sokoku	03,05,09
+T12-E124	V11	aftermath p-030 ¶65–66	V11-L057	どうなるのかな、これから。──戦争は	EXACT_VERIFIED	CS/LI	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	04,09
+T12-E125	V12	epigraph / p-001 ¶2	V12-L002	己の意思という夾雑物	EXACT_VERIFIED	CS/LI	PERSONHOOD_SELF	personhood_personality_self_will_lexicon	08, 11, 12
+T12-E126	V12	Ch.1 / p-004 ¶373	V12-L013	今なお従うことしか考えられない	EXACT_VERIFIED	NV/LI	OBEY	support_obey_trust_rely_contrast	01, 08, 09
+T12-E127	V12	Ch.1 / p-004 ¶491	V12-L016	自由報道さえしばらくは抑えてある	EXACT_VERIFIED	NV/MI	FREEDOM	freedom_rights_illusion_normative_lexicon	06, 14
+T12-E128	V12	Ch.1 / p-004 ¶624	V12-L022	姫様の導きにただ、従っていれば	EXACT_VERIFIED	NV/LI	OBEY	support_obey_trust_rely_contrast	01, 06, 09
+T12-E129	V12	Ch.2 / p-005 ¶282	V12-L023	自由も平等も、素晴らしいどころか	EXACT_VERIFIED	CS/LI	FREEDOM;EQUALITY_RIGHTS	freedom_rights_illusion_normative_lexicon	01, 06, 09
+T12-E130	V12	Ch.2 / p-005 ¶283	V12-L024	それが『自由』だと押しつけられた	EXACT_VERIFIED	CS/LI	FREEDOM	freedom_rights_illusion_normative_lexicon	06, 09, 12
+T12-E131	V12	Ch.2 / p-005 ¶284	V12-L025	読み書きなんかを『平等』に学ばされた	EXACT_VERIFIED	CS/LI	EQUALITY_RIGHTS	freedom_rights_illusion_normative_lexicon	06, 09, 12
+T12-E132	V12	Ch.2 / p-005 ¶516	V12-L029	一人きりじゃ戦えない、弱い死神だから	EXACT_VERIFIED	CS/LI	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	02, 07, 10, 12
+T12-E133	V12	Ch.3 / p-006 ¶382	V12-L041	臣民自身が望んだ自由だろうに	EXACT_VERIFIED	CS/LI	FREEDOM;DESIRE_CHOICE	freedom_rights_illusion_normative_lexicon	06, 14
+T12-E134	V12	Ch.5 / p-008 ¶131	V12-L058	正義の国は卑怯だ	EXACT_VERIFIED	CS	JUSTICE	justice_aspiration_identity_grammar	06, 14
+T12-E135	V12	Ch.5 / p-008 ¶148	V12-L060	自由や平等など、……残酷なだけだ	EXACT_VERIFIED	CS/IT	FREEDOM;EQUALITY_RIGHTS	freedom_rights_illusion_normative_lexicon	06, 14
+T12-E136	V12	Ch.5 / p-008 ¶410	V12-L066	レーナに負担をかけていなかったかなって	EXACT_VERIFIED	CS	ADDRESS_FORMS	address_register_command_request	02, 03, 10
+T12-E137	V12	Ch.5 / p-008 ¶415–417	V12-L067	従うのではなく支えてくれた	EXACT_VERIFIED	CS/LI	SUPPORT;OBEY;COMMAND_REQUEST	support_obey_trust_rely_contrast	03, 04, 10
+T12-E138	V12	Ch.5 / p-008 ¶429	V12-L069	レーナが足りない。早く会いたい。傍にいたい	EXACT_VERIFIED	CS/LI	ADDRESS_FORMS	address_register_command_request	02, 10, 12
+T12-E139	V12	Epilogue / p-009 ¶33	V12-L078	帰り道を、教えてほしいの	EXACT_VERIFIED	CS/LI	RETURN_KAERU	return_kaeru_homeward_recipient	04, 09, 13
+T12-E140	V13	V13 / p-002.xhtml para 11	V13-L003	学校には毎日、一緒に通って。帰ってきてからもまた遊んで。	EXACT_VERIFIED	BA	RETURN_KAERU;TOGETHER_ISSHO;FUTURE_TIME	return_kaeru_homeward_recipient	Retained from V13 canonical locator after contextual rereading.
+T12-E141	V13	V13 / p-003.xhtml para 483	V13-L016	何が目的でこんなものを、と問われて、プリムヴェールは唇を嚙む。聴取の対象として共和国軍の高官や研究者、政府関係者と共に護送さ...	EXACT_VERIFIED	MI	TOGETHER_TOMONI	together_tomoni_elevated_shared_burden	Retained from V13 canonical locator after contextual rereading.
+T12-E142	V13	V13 / p-003.xhtml para 497	V13-L024	同胞の顔をして傍らに送りこまれ、──そしてある時、諸共に爆死するための。	EXACT_VERIFIED	MI	TOGETHER_TOMONI	together_tomoni_elevated_shared_burden	Retained from V13 canonical locator after contextual rereading.
+T12-E143	V13	V13 / p-003.xhtml para 509	V13-L025	「本命は捕虜です。……敵国から無事、帰還した捕虜がある日突然自爆したとしたら？前線で、いえそれよりも、後方の自宅や故郷で。安...	EXACT_VERIFIED	MI	MILITARY_RETURN;HOME_FURUSATO	home_furusato	Retained from V13 canonical locator after contextual rereading.
+T12-E144	V13	V13 / p-004.xhtml para 434	V13-L035	「それがもし、呪いみたいになってたらいけないから会いたかったけど。……いまさら会っても、それはそれで呪いになりそうだから──...	EXACT_VERIFIED	CS	CURSE	curse_wish_bond_prayer_semantic_field	Retained from V13 canonical locator after contextual rereading.
+T12-E145	V13	V13 / p-005.xhtml para 427	V13-L046	それでもなお、その重い自由と平等を維持したいのなら、救済の仕組みは作るべきだった。何もできない人間が、それでも代替品の充足を...	EXACT_VERIFIED	CS	FREEDOM;EQUALITY_RIGHTS	freedom_rights_illusion_normative_lexicon	Retained from V13 canonical locator after contextual rereading.
+T12-E146	V13	V13 / p-005.xhtml para 445	V13-L047	「そして私も。ええ、人は愚か者です。私は愚か者です。賢明という名には永久に値しないのかもしれない。自由も平等も、あまりにも無...	EXACT_VERIFIED	CS	FREEDOM;EQUALITY_RIGHTS	freedom_rights_illusion_normative_lexicon	Retained from V13 canonical locator after contextual rereading.
+T12-E147	V13	V13 / p-005.xhtml para 447	V13-L048	人権だとか、自由だとか平等だとか正義だとか。そういうものは、なるほど幻想だ。実在しない。だからこそ市民それぞれが、その幻想の...	EXACT_VERIFIED	CS	FREEDOM;EQUALITY_RIGHTS;JUSTICE;ILLUSION	justice_aspiration_identity_grammar	Retained from V13 canonical locator after contextual rereading.
+T12-E148	V13	V13 / p-005.xhtml para 642	V13-L063	「言われる筋合いはないな。歯車細工、貴様にも。……俺の意思だ」	EXACT_VERIFIED	CS	PERSONHOOD_SELF	personhood_personality_self_will_lexicon	Retained from V13 canonical locator after contextual rereading.
+T12-E149	V13	V13 / p-005.xhtml para 655	V13-L065	「正義を人に──捨てさせるんだ」	EXACT_VERIFIED	CS	JUSTICE	justice_aspiration_identity_grammar	Retained from V13 canonical locator after contextual rereading.
+T12-E150	V13	V13 / p-006.xhtml para 11	V13-L068	「這ってでも行くわ。……帰るんだもの」	EXACT_VERIFIED	CS	RETURN_KAERU	return_kaeru_homeward_recipient	Retained from V13 canonical locator after contextual rereading.
+T12-E151	V13	V13 / p-006.xhtml para 208	V13-L073	家族への、同胞への、祖国への愛。それらは所詮、愛という美名で糊塗しただけの卑劣だ。大切なものとそれ以外を天秤にかけて、大切で...	EXACT_VERIFIED	CS	HOMELAND_SOKOKU	homeland_sokoku	Retained from V13 canonical locator after contextual rereading.
+T12-E152	V13	V13 / p-006.xhtml para 183	V13-L077	『君は、やさしさの側の人間だ。他人の痛みに、心を寄せて共に悲しめる人間だ。それは正しい。君のかたちこそがきっと正しい。だから...	EXACT_VERIFIED	CS	TOGETHER_TOMONI	together_tomoni_elevated_shared_burden	Retained from V13 canonical locator after contextual rereading.
+T12-E153	V13	V13 / p-007.xhtml para 26	V13-L081	──一人じゃ戦えない、弱い死神だから。	EXACT_VERIFIED	LI	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	Retained from V13 canonical locator after contextual rereading.
+T12-E154	V13	V13 / p-007.xhtml para 38	V13-L082	『今度こそ聞こえていますね、〈アンダーテイカー〉。ヴラディレーナ・ミリーゼ大佐、指揮に復帰します。──心配かけました、シン』	EXACT_VERIFIED	CS	DEATH_GOD_UNDERTAKER;ADDRESS_FORMS	shin_death_god_undertaker_role_lexicon	Retained from V13 canonical locator after contextual rereading.
+T12-E155	V13	V13 / p-007.xhtml para 62	V13-L084	戦隊長としての判断を求めたレーナの、言外の信頼を正しく彼は受け取ってくれた。	EXACT_VERIFIED	NV	TRUST;COMMAND_REQUEST;ADDRESS_FORMS	support_obey_trust_rely_contrast	Retained from V13 canonical locator after contextual rereading.
+T12-E156	V13	V13 / p-007.xhtml para 177	V13-L091	「こんな知らない場所じゃなくて、こんな何もない場所じゃなくて故郷の街に帰りたかった。もう一度おとうさんに、おかあさんに、先生...	EXACT_VERIFIED	CS	RETURN_KAERU;HOME_FURUSATO;FUTURE_TIME	home_furusato	Retained from V13 canonical locator after contextual rereading.
+T12-E157	V13	V13 / p-007.xhtml para 270	V13-L096	あなたの呪いになるね。	EXACT_VERIFIED	CS	CURSE;ADDRESS_FORMS	curse_wish_bond_prayer_semantic_field	Retained from V13 canonical locator after contextual rereading.
+T12-E158	V13	V13 / p-007.xhtml para 277	V13-L097	髪をまとめるリボンを、繊手がするりとほどいてさしだす。受け取り、少しだけ迷ったが取ったその手の甲に口づけた。君という呪いを、...	EXACT_VERIFIED	BA	CURSE	curse_wish_bond_prayer_semantic_field	Retained from V13 canonical locator after contextual rereading.
+T12-E159	V13	V13 / p-007.xhtml para 279	V13-L098	「それと、もう一つお願い。──どうかこのあとの、わたしをみないで」	EXACT_VERIFIED	CS	WISH_BOND_PRAYER;FUTURE_TIME	curse_wish_bond_prayer_semantic_field	Retained from V13 canonical locator after contextual rereading.
+T12-E160	V13	V13 / p-007.xhtml para 540	V13-L100	『えっ、あっその、……帰ったらキスしてあげますねシン！』	EXACT_VERIFIED	CS	RETURN_KAERU	return_kaeru_homeward_recipient	Retained from V13 canonical locator after contextual rereading.
+T12-E161	V13	V13 / p-007.xhtml para 587	V13-L101	「君の声が聞こえたんだ。帰ってきて、って。……願ってくれたんだろ？」	EXACT_VERIFIED	CS	RETURN_KAERU;WISH_BOND_PRAYER;COMMAND_REQUEST	return_kaeru_homeward_recipient	Retained from V13 canonical locator after contextual rereading.
+T12-E162	V13	V13 / p-007.xhtml para 589	V13-L102	「届いたよ、ちゃんと。帰らなきゃって、だから思えた。だから死なないでここまで、帰ってこられたんだ。ずるをした俺だけど、ずるを...	EXACT_VERIFIED	CS	RETURN_KAERU	return_kaeru_homeward_recipient	Retained from V13 canonical locator after contextual rereading.
+T12-E163	V13	V13 / p-007.xhtml para 601	V13-L103	正義に、使命に、誰も彼もを救おうなんて誰にとっても身の程知らずの大望にまで、殉じようとしないでくれと、願ってくれただけだった...	EXACT_VERIFIED	IT	WISH_BOND_PRAYER;JUSTICE;COMMAND_REQUEST	curse_wish_bond_prayer_semantic_field	Retained from V13 canonical locator after contextual rereading.
+T12-E164	V13	V13 / p-007.xhtml para 744	V13-L107	女性が抱いているのは、銃弾に割られた頭蓋から中身と共に生命も人格も取りこぼしてしまった、リト・オリヤの遺骸だった。	EXACT_VERIFIED	NV	TOGETHER_TOMONI;PERSONHOOD_SELF	together_tomoni_elevated_shared_burden	Retained from V13 canonical locator after contextual rereading.
+T12-E165	V13	V13 / p-007.xhtml para 853	V13-L113	言葉も、願いも、祈りも、感情も、およそ人が人に向けるものはどれもが呪いだ。進む足を縛る。先行きを捻じ曲げる。選ぶ道を誤らせ、...	EXACT_VERIFIED	NV	CURSE;WISH_BOND_PRAYER;DESIRE_CHOICE	curse_wish_bond_prayer_semantic_field	Retained from V13 canonical locator after contextual rereading.
+T12-E166	V13	V13 / p-007.xhtml para 854	V13-L114	それでもなお受けいれられた呪いを、せめて、愛と呼ぶのだろう。	EXACT_VERIFIED	NV	CURSE	curse_wish_bond_prayer_semantic_field	Retained from V13 canonical locator after contextual rereading.
+T12-E167	V13	V13 / p-007.xhtml para 885	V13-L115	「ただし──リュストカマー基地への帰還だけは、許可できません。……ミリーゼ大佐、ペンローズ少佐はとりわけ、ご存じでしょう。全...	EXACT_VERIFIED	MI	MILITARY_RETURN;ADDRESS_FORMS	return_operational_kikan_seikan	Retained from V13 canonical locator after contextual rereading.
+T12-E168	V13	V13 / p-007.xhtml para 950	V13-L119	「エイティシックスの女王たるわたしを首都に留め、彼らへの人質にする。これから必ず、憤りや恨みや叛意さえ抱くだろう彼らに、なお...	EXACT_VERIFIED	CS	FUTURE_TIME;QUEEN_TITLE	lena_queen_title_role_address	Retained from V13 canonical locator after contextual rereading.
+T12-E169	V13	V13 / p-007.xhtml para 985	V13-L124	平和の故郷に帰ることも。	EXACT_VERIFIED	NV	RETURN_KAERU;HOME_FURUSATO	home_furusato	Retained from V13 canonical locator after contextual rereading.
+T12-E170	V14	p-001 paragraph 1	V14-L001	我ら、世界に誇る正義たらん	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	JUSTICE;JUSTICE_ASPIRATIONAL	justice_aspiration_identity_grammar	Retained from V14 canonical locator after contextual rereading.
+T12-E171	V14	p-002 paragraph 9	V14-L002	戦場を逐おわれることでその混迷より距離を置き。司令部を離れることでその罪を逃れ。以もつて冷徹と正義を保てと。──軍も連邦そのものも事実上瓦が...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	JUSTICE	justice_aspiration_identity_grammar	Retained from V14 canonical locator after contextual rereading.
+T12-E172	V14	p-002 paragraph 10	V14-L003	そう、彼ら〈戦史編へん纂さん室〉が任されたのは過去の戦史ではない。未来の戦史だ。〈レギオン〉から連邦を、人類を救うこれからの作戦の計画だ。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	Retained from V14 canonical locator after contextual rereading.
+T12-E173	V14	p-004 paragraph 293	V14-L011	基本的には商店から、後日住民が戻ってきたときには払い戻せるように記録をつけて。一方で民家からの調達は可能な限り避けることとし、学校とその寮を...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_MODORU	return_modoru_state_reentry_recovery	Retained from V14 canonical locator after contextual rereading.
+T12-E174	V14	p-004 paragraph 294	V14-L012	大切なものは持って避難したにしても、帰ってきた時に自宅が荒らされていたら、きっと悲しいだろうから。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_KAERU	return_kaeru_homeward_recipient	Retained from V14 canonical locator after contextual rereading.
+T12-E175	V14	p-005 paragraph 55	V14-L023	だって僕は、戦い抜き生き抜くことを誇りとした──エイティシックスの一人なのだから。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	PRIDE	pride_exclusivity_shika	Retained from V14 canonical locator after contextual rereading.
+T12-E176	V14	p-005 paragraph 66	V14-L024	「わたしは戻れません。わたしには──今、中央にいるわたしには、こちらでやるべきことがある。だから……今はまだ、戻れません」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_MODORU;FUTURE_TIME	return_modoru_state_reentry_recovery	Retained from V14 canonical locator after contextual rereading.
+T12-E177	V14	p-005 paragraph 85	V14-L027	行かないで、と言いたかった。けれどセオは、戻るつもりだ。アネットがいまさら何か言ってもそれはきっと変わらないし、それ以上に万一にも彼の意志を...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_MODORU;PERSONHOOD_SELF	return_modoru_state_reentry_recovery	Retained from V14 canonical locator after contextual rereading.
+T12-E178	V14	p-005 paragraph 95	V14-L028	「シンとレーナとアンジュとダスティンと、ついでに王子殿下にぶつけるんだから。一緒にやるって言ったんだから。だからちゃんと待っててよ。ちゃんと...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	TOGETHER_ISSHO;WAIT_LEAVE_BEHIND;ADDRESS_FORMS	together_issho_ordinary_shared_proximity	Retained from V14 canonical locator after contextual rereading.
+T12-E179	V14	p-005 paragraph 166	V14-L035	「後方には信頼できる上官がいるし、僕の保護者だって一応まだ政府高官だ。ミエル一人くらい匿かくまえる。だから」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	TRUST;FUTURE_TIME	support_obey_trust_rely_contrast	Retained from V14 canonical locator after contextual rereading.
+T12-E180	V14	p-005 paragraph 308	V14-L044	「そうだ。だから、他の奴やつらだって変われる。戻ってこられる」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_MODORU;MORAL_RETURN	return_modoru_state_reentry_recovery	Retained from V14 canonical locator after contextual rereading.
+T12-E181	V14	p-005 paragraph 313	V14-L045	「人は愚かじゃない。ただ、いつでも賢くはいられないというだけだ。戦場に吞のまれる。恐怖に吞のまれる。吞のまれた果てに、自分でも信じられないよ...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	TRUST	support_obey_trust_rely_contrast	Retained from V14 canonical locator after contextual rereading.
+T12-E182	V14	p-005 paragraph 331	V14-L049	シンは、シンこそが、赦ゆるしてなどいない。身勝手な正義でリトを殺し、あげくその身勝手を正当化しようとエイティシックスを人類の敵へと仕立てあげ...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	JUSTICE	justice_aspiration_identity_grammar	Retained from V14 canonical locator after contextual rereading.
+T12-E183	V14	p-005 paragraph 334	V14-L050	「そのためにも、連邦は生き残らせないといけない。正義の国として。仲間殺し、子供殺しを市民の誰もが過あやまちだと指弾する国として復活させないと...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	JUSTICE	justice_aspiration_identity_grammar	Retained from V14 canonical locator after contextual rereading.
+T12-E184	V14	p-005 paragraph 353	V14-L054	許したのとも違う。傷から逃れ、憎ぞう悪おから逃れ、そうすることで共和国の呪縛をも脱して、自分の生を生きようとしている。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	FORGIVE_ALLOW	forgive_allow_orthographic_context	Retained from V14 canonical locator after contextual rereading.
+T12-E185	V14	p-005 paragraph 395	V14-L058	「移ったら、それきり戻れなくなるだろ」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_MODORU	return_modoru_state_reentry_recovery	Retained from V14 canonical locator after contextual rereading.
+T12-E186	V14	p-005 paragraph 400	V14-L060	シン自身の意志は全く無視したそうした運用も、十月攻勢からの連邦軍ならやってしまえる。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	PERSONHOOD_SELF	personhood_personality_self_will_lexicon	Retained from V14 canonical locator after contextual rereading.
+T12-E187	V14	p-005 paragraph 408	V14-L062	「なるべく今後は僕が一緒に食事とるようにするよ。それで先に、味とか教えるから」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	TOGETHER_ISSHO	together_issho_ordinary_shared_proximity	Retained from V14 canonical locator after contextual rereading.
+T12-E188	V14	p-006 paragraph 345	V14-L075	「まさか。死神殿なら、お前たちが人間だからだと、そう仰おおせてくださることでしょう」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	Retained from V14 canonical locator after contextual rereading.
+T12-E189	V14	p-006 paragraph 342	V14-L077	リトの死を、目撃してしまった彼の遺体とその時の衝撃を、ひきずり出されて凍りついてしまったのだ。〈レギンレイヴ〉と共に牽けん引いんされてリュス...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	TOGETHER_TOMONI	together_tomoni_elevated_shared_burden	Retained from V14 canonical locator after contextual rereading.
+T12-E190	V14	p-006 paragraph 397	V14-L079	そして泣いたら、立っていられなくなる。指揮官の、女王の、強い仮面が崩れてしまう。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	QUEEN_TITLE	lena_queen_title_role_address	Retained from V14 canonical locator after contextual rereading.
+T12-E191	V14	p-006 paragraph 399	V14-L080	戦場に戦お帝うが不在の今こそ──鮮血の女王じよおうが立たぬわけにはいかないのだから。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	QUEEN_TITLE	lena_queen_title_role_address	Retained from V14 canonical locator after contextual rereading.
+T12-E192	V14	p-007 paragraph 75	V14-L082	第一大隊長を、機動打撃群の死神の地位を代行する今は、全プロセッサー、全エイティシックスの事実上の頭となってしまった今は、ライデンの言葉や振舞...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	DEATH_GOD_UNDERTAKER	shin_death_god_undertaker_role_lexicon	Retained from V14 canonical locator after contextual rereading.
+T12-E193	V14	p-007 paragraph 89	V14-L085	クーデターなんて所詮、転てん嫁かでしかなかったのだ。リトを殺されて悪魔に仕立てあげられて、けれどそいつら自身には向けようもない憤ふん懣まんと...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	EXCLUSIVITY_SHIKA	pride_exclusivity_shika	Retained from V14 canonical locator after contextual rereading.
+T12-E194	V14	p-008 paragraph 11	V14-L122	目を閉じたままの無様なんて、都合の悪いものを見ない無様なんて、この苦境では許されない甘えなのだから。民主制を選び勝ち取った自分たち連邦市民に...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	DESIRE_CHOICE;FORGIVE_ALLOW	forgive_allow_orthographic_context	Retained from V14 canonical locator after contextual rereading.
+T12-E195	V14	p-008 paragraph 13	V14-L123	「我ら、世界に誇る正義たらん！ ──連邦市民の同胞たち、今日もこんばんは！」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	JUSTICE;JUSTICE_ASPIRATIONAL	justice_aspiration_identity_grammar	Retained from V14 canonical locator after contextual rereading.
+T12-E196	V14	p-008 paragraph 21	V14-L127	本来、使い捨ての無人機の部品である〈シリン〉たちは、だからこそこんな特攻に起用されれば喜んで帰ってこなくなる。〈大君主〉作戦に向けて一人の戦...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_KAERU	return_kaeru_homeward_recipient	Retained from V14 canonical locator after contextual rereading.
+T12-E197	V14	p-008 paragraph 29	V14-L129	「俺はあんたを信頼してるぜ、レーナ。だからあんたも信じてくれよ」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	TRUST;COMMAND_REQUEST;ADDRESS_FORMS	support_obey_trust_rely_contrast	Retained from V14 canonical locator after contextual rereading.
+T12-E198	V14	p-008 paragraph 147	V14-L136	「見てのとおり、〈レギオン〉には人格を有する個体がいる。皆みな、元は人間だ。体は失ったが、生前の記憶と人格はそのまま引き継いでいる。──君た...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	PERSONHOOD_SELF	personhood_personality_self_will_lexicon	Retained from V14 canonical locator after contextual rereading.
+T12-E199	V14	p-008 paragraph 224	V14-L147	「お前の掲げた世界は理想郷どころか地獄だ。一つの幸福もない。心一つも自由にならない。あるのはただ、二度と尽きない憎ぞう悪おだけで──それしか...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	FREEDOM	freedom_rights_illusion_normative_lexicon	Retained from V14 canonical locator after contextual rereading.
+T12-E200	V14	p-008 paragraph 320	V14-L156	エイティシックスたちも奮戦してはいるが、精神攪乱型ヴァネシード展開下のこの作戦では心ト的ラ外ウ傷マを持たず信頼性の高い〈シリン〉とその駆る〈...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	TRUST	support_obey_trust_rely_contrast	Retained from V14 canonical locator after contextual rereading.
+T12-E201	V14	p-008 paragraph 354	V14-L159	「〈アルメ・フュリウーズ〉、投射！ ──あとはお願い、ライデン！」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	WISH_BOND_PRAYER	curse_wish_bond_prayer_semantic_field	Retained from V14 canonical locator after contextual rereading.
+T12-E202	V14	p-008 paragraph 447	V14-L170	ええ、無事に帰るまでが作戦ですから、と、リュドミラがなんだからしからぬ言葉を澄まして吐いた。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_KAERU	return_kaeru_homeward_recipient	Retained from V14 canonical locator after contextual rereading.
+T12-E203	V14	p-008 paragraph 456	V14-L172	「これからも同じだ。おれたちは負けない。負けないのだから、お前たちのような無様に堕おちはしない。人を捨てる必要なんて──生きるのをやめる必要...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	FUTURE_TIME	temporal_grammar_mou_mada_mata_itsuka	Retained from V14 canonical locator after contextual rereading.
+T12-E204	V14	p-008 paragraph 554	V14-L180	「なんてことすんのよ……父さんはそれやって帰ってこなかったのに。あんたまで帰ってこなかったらどうしようって……！」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_KAERU;ADDRESS_FORMS	return_kaeru_homeward_recipient	Retained from V14 canonical locator after contextual rereading.
+T12-E205	V14	p-008 paragraph 568	V14-L183	今更だが聞いてみよう。この作戦から帰ったら。──泥水味の合成珈コー琲ヒーなんかよりはるかに旨うまい、スピアヘッド戦隊伝統のタンポポの根を炒い...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_KAERU	return_kaeru_homeward_recipient	Retained from V14 canonical locator after contextual rereading.
+T12-E206	V14	p-008 paragraph 622	V14-L193	『兄さんがおれを許してないから、いつまでも傷が残っているんだと思ってた。でもそうじゃなくて、兄さんはおれを憎んでなんかいなくて、おれも兄さん...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	FORGIVE_ALLOW	forgive_allow_orthographic_context	Retained from V14 canonical locator after contextual rereading.
+T12-E207	V14	p-008 paragraph 629	V14-L194	『許せていなかった。だからまだ傷のままだった。だからそれを衝つかれただけで、あんなにもたやすく堕おちてしまった。兄さんの姿で首を絞められただ...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	FUTURE_TIME;FORGIVE_ALLOW	temporal_grammar_mou_mada_mata_itsuka	Retained from V14 canonical locator after contextual rereading.
+T12-E208	V14	p-008 paragraph 643	V14-L195	「傷を抉えぐられたら、痛いのは当然です。今はどう思っていても、傷つけられたその時に痛かったことには変わりはないんです。……赦ゆるせてないから...	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	PAIN_PLAIN	plain_emotional_admission_pain	Retained from V14 canonical locator after contextual rereading.
+T12-E209	V14	p-008 paragraph 653	V14-L197	『──痛かった、』	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	PAIN_PLAIN	plain_emotional_admission_pain	Retained from V14 canonical locator after contextual rereading.
+T12-E210	V14	p-008 paragraph 656	V14-L198	『絞め殺されたのも、おれのせいだと責められたのも。兄さんに見放されたと思ったのも。痛かった。ずっと、苦しかった──……』	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	PAIN_PLAIN	plain_emotional_admission_pain	Retained from V14 canonical locator after contextual rereading.
+T12-E211	V14	p-009 paragraph 2	V14-L206	『我ら、世界に誇る正義たらん』。──つまり、連邦人の我らはすなわち正義である。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	JUSTICE;JUSTICE_ASPIRATIONAL;JUSTICE_DECLARATIVE	justice_aspiration_identity_grammar	Retained from V14 canonical locator after contextual rereading.
+T12-E212	V14	p-009 paragraph 12	V14-L208	言葉も、思索も、自由も、意志も、怠惰で惰弱なニワトリ風ふ情ぜいが、手にして良よいものではなかったのだ。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	FREEDOM;PERSONHOOD_SELF	freedom_rights_illusion_normative_lexicon	Retained from V14 canonical locator after contextual rereading.
+T12-E213	V14	p-009 paragraph 15	V14-L209	「……我らギアーデは、再び帝国に戻るべきだ」	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	RETURN_MODORU	return_modoru_state_reentry_recovery	Retained from V14 canonical locator after contextual rereading.
+T12-E214	V14	p-009 paragraph 28	V14-L214	そしてノウゼン侯家直系にして機動打撃群の戦帝、シンエイ・ノウゼンを傍かたわらに従えて。	EXACT_VERIFIED	LI/CS/NV/PF as classified in V14 deep reading	OBEY	support_obey_trust_rely_contrast	Retained from V14 canonical locator after contextual rereading.
+T12-E215	Alter.1	あとがき / OEBPS/part0063.xhtml ¶020	A1-L005	時々というかむしろしょっちゅう青春してる死神と鮮血女王	EXACT_VERIFIED	PT	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E216	Alter.1	冬の日に、隻影二つ / OEBPS/part0010.xhtml ¶028	A1-L008	帰りを待つ者などいない	EXACT_VERIFIED	NV/SI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E217	Alter.1	レーナ＋アネット / OEBPS/part0012.xhtml ¶001	A1-L015	自由な最後の一日	EXACT_VERIFIED	CS	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E218	Alter.1	クレイモア戦隊 / OEBPS/part0013.xhtml ¶019	A1-L017	誰にも頼らず戦えないような子は生き残れないわ	EXACT_VERIFIED	CS/MI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E219	Alter.1	常闇のヘブンリー・ブルー / OEBPS/part0018.xhtml ¶026	A1-L025	視覚の同調ができれば、──同じものが見られれば、よかった	EXACT_VERIFIED	CS/LI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E220	Alter.1	仔猫 / OEBPS/part0020.xhtml ¶031	A1-L030	あなたがいなくて、わたしは──とてもさびしい	EXACT_VERIFIED	CS/LI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E221	Alter.1	兄妹 / OEBPS/part0023.xhtml ¶039	A1-L033	そなたを形作るものを、いくつ捨ててもまだ、そなたであるかの	EXACT_VERIFIED	CS/LI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E222	Alter.1	兄妹 / OEBPS/part0023.xhtml ¶041	A1-L034	わらわはわらわであることを捨てとうない	EXACT_VERIFIED	CS/LI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E223	Alter.1	兄妹 / OEBPS/part0023.xhtml ¶043	A1-L035	人は人の中でしか生きられぬ	EXACT_VERIFIED	CS	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E224	Alter.1	いたずら（レーナ→シン） / OEBPS/part0030.xhtml ¶040	A1-L045	ずいぶん気ィ許してんじゃねえか	EXACT_VERIFIED	CS/SI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E225	Alter.1	盃に射す影 / OEBPS/part0034.xhtml ¶117	A1-L056	まだ覚えてる。忘れない	EXACT_VERIFIED	CS/LI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E226	Alter.1	もう少しだけ、このまま / OEBPS/part0042.xhtml ¶033	A1-L062	もう少し遠くで待ってくれていてもいいのに	EXACT_VERIFIED	NV/BA	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E227	Alter.1	コーヒーと紅茶と / OEBPS/part0045.xhtml ¶042	A1-L064	いつか、本物で。どっちが好きか聞きますね	EXACT_VERIFIED	CS/LI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E228	Alter.1	コーヒーと紅茶と / OEBPS/part0045.xhtml ¶045	A1-L065	どちらも。淹れられるようになっておきますから	EXACT_VERIFIED	CS/LI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E229	Alter.1	学習しない死神 / OEBPS/part0049.xhtml ¶007	A1-L070	おいていかないでください	EXACT_VERIFIED	LI/PT	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E230	Alter.1	君がいるから・シンの場合 / OEBPS/part0052.xhtml ¶020	A1-L074	近くにいて、その彼女はもう、突然いなくなったりしない	EXACT_VERIFIED	NV	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E231	Alter.1	君がいるから・シンの場合 / OEBPS/part0052.xhtml ¶021	A1-L075	おいていかれない	EXACT_VERIFIED	LI/NV	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E232	Alter.1	七月十二日（レーナ誕生日） / OEBPS/part0055.xhtml ¶049	A1-L082	誕生日おめでとう、レーナ	EXACT_VERIFIED	LI/BA	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E233	Alter.1	七月十二日（レーナ誕生日）・その二 / OEBPS/part0057.xhtml ¶037	A1-L087	おれが贈りたかったから、贈っただけです	EXACT_VERIFIED	CS/LI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E234	Alter.1	十月二日（アンジュ誕生日） / OEBPS/part0059.xhtml ¶032	A1-L095	帰ってくる頃には、出来上がってるから	EXACT_VERIFIED	CS/LI	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E235	Alter.1	十一月十二日（アネット誕生日） / OEBPS/part0060.xhtml ¶001	A1-L096	セオ、ごめんなさい。ちょっと助けてくれませんか	EXACT_VERIFIED	CS	ALTER1_LANGUAGE_CONTROL	voice_address_temporality_control	Alter.1 audited story-level supplemental language evidence.
+T12-E236	V01	item/xhtml/p-010.xhtml para 194	NEW_DIRECT_SOURCE_RETRIEVAL	互いに往くべき場所へ還るを、望んでいるかのように。	EXACT_VERIFIED	LI/PF/NV/CS as context requires	RETURN_KANRU;DESIRE_CHOICE	return_metaphysical_kanru	metaphysical return kanru; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E237	V01	item/xhtml/p-010.xhtml para 241	NEW_DIRECT_SOURCE_RETRIEVAL	それなら。あまねく死者が世界に、その遥か底の最奥に還るというなら。	EXACT_VERIFIED	LI/PF/NV/CS as context requires	RETURN_KANRU	return_metaphysical_kanru	metaphysical return kanru; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E238	V01	item/xhtml/p-012.xhtml para 194	NEW_DIRECT_SOURCE_RETRIEVAL	わたしも一緒に見たかった、という言葉を、レーナは辛うじて吞み込んだ。それは言ってはいけない言葉だ。レーナ自身は望めばいつでも行き来が出来る。けれどシン達は望んで戦場にいるわけではなく、また彼らを連れて帰ることも出来ない。一緒、なんてほんの一時の錯覚にすぎないのだから、そんなことは望んではいけない。	EXACT_VERIFIED	LI/PF/NV/CS as context requires	RETURN_KAERU;TOGETHER_ISSHO;DESIRE_CHOICE;FUTURE_TIME;ADDRESS_FORMS	return_kaeru_homeward_recipient	issho asymmetry control; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E239	V05	item/xhtml/p-004.xhtml para 805	NEW_DIRECT_SOURCE_RETRIEVAL	兄や、カイエや、多くのエイティシックスの戦死者たちが戦場に留まっていたのは、彼らの脳構造が中央処理系として〈レギオン〉に取り込まれたからだ。死んで還るはずが、囚われ留められてしまったがためだ。	EXACT_VERIFIED	LI/PF/NV/CS as context requires	RETURN_KANRU	return_metaphysical_kanru	metaphysical return kanru; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E240	V06	item/xhtml/p-006.xhtml para 857	NEW_DIRECT_SOURCE_RETRIEVAL	「あんたも誰だか、知らないけどさ。……もう、還るべきところに還りなよ」	EXACT_VERIFIED	LI/PF/NV/CS as context requires	RETURN_KANRU;FUTURE_TIME;ADDRESS_FORMS	return_metaphysical_kanru	metaphysical return kanru; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E241	V09	item/xhtml/p-006.xhtml para 641	NEW_DIRECT_SOURCE_RETRIEVAL	『──行ってくる』	EXACT_VERIFIED	LI/PF/NV/CS as context requires	DEPART_RETURN_SPEECH	departure_return_speech_acts	departure return speech act; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E242	V09	item/xhtml/p-006.xhtml para 643	NEW_DIRECT_SOURCE_RETRIEVAL	行ってきます、ではなく。	EXACT_VERIFIED	LI/PF/NV/CS as context requires	DEPART_RETURN_SPEECH	departure_return_speech_acts	departure return speech act; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E243	V09	item/xhtml/p-004.xhtml para 420	NEW_DIRECT_SOURCE_RETRIEVAL	「……ただいま」	EXACT_VERIFIED	LI/PF/NV/CS as context requires	DEPART_RETURN_SPEECH	departure_return_speech_acts	departure return speech act; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E244	V09	item/xhtml/p-011.xhtml para 691	NEW_DIRECT_SOURCE_RETRIEVAL	『──ああ、ただいま』	EXACT_VERIFIED	LI/PF/NV/CS as context requires	DEPART_RETURN_SPEECH	departure_return_speech_acts	departure return speech act; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E245	V14	item/xhtml/p-005.xhtml para 345	NEW_DIRECT_SOURCE_RETRIEVAL	戻ってこられる。それは、連邦も。	EXACT_VERIFIED	LI/PF/NV/CS as context requires	RETURN_MODORU;MORAL_RETURN	return_modoru_state_reentry_recovery	moral return potential narrator; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E246	V14	item/xhtml/p-009.xhtml para 6	NEW_DIRECT_SOURCE_RETRIEVAL	『我ら、世界に誇る正義たらん』。──つまり、連邦人の我らはすなわち正義である。	EXACT_VERIFIED	LI/PF/NV/CS as context requires	JUSTICE;JUSTICE_ASPIRATIONAL;JUSTICE_DECLARATIVE	justice_aspiration_identity_grammar	justice grammar direct; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.
+T12-E247	Alter.1	OEBPS/part0023.xhtml para 42	NEW_DIRECT_SOURCE_RETRIEVAL	「言葉の選び方もわらわの一部じゃ。そう易々と捨てられるものではないし、何よりわらわはわらわであることを捨てとうない」	EXACT_VERIFIED	LI/PF/NV/CS as context requires	DESIRE_CHOICE	voice_address_temporality_control	frederica register as identity; direct original-Japanese EPUB paragraph, whitespace normalized from XHTML extraction.

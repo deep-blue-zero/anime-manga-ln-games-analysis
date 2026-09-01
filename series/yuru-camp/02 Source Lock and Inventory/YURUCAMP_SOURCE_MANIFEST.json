@@ -1,0 +1,426 @@
+{
+  "series": "ゆるキャン△ / Yuru Camp△",
+  "phase": 0,
+  "audit_date": "2026-08-14",
+  "source_folder_drive_id": "1KlblbCFMPiR1WSwMLD2icnDT7Dhjzm-j",
+  "official_current_tankobon_count": 18,
+  "present_main_volumes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "missing_main_volumes": [
+    18
+  ],
+  "files": [
+    {
+      "file": "Laid-Back Camp - Rurubu Travel Guide - Season 2 [Japanese].cbz",
+      "drive_id": "1KSuz2XwVfwzdhiHDBNXDBWzqyKkNT5HB",
+      "size_bytes": 49899647,
+      "sha256": "1d4aa8ac0db46e2168cbea30680a767cb7a5b96ca0b4cad66574bf2bc68f5d44",
+      "kind": "cbz",
+      "image_count": 98,
+      "dimensions_common": [
+        {
+          "w": 1569,
+          "h": 1920,
+          "count": 98
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "supplementary_paratext",
+      "status": "LOCKED_SUPPLEMENTARY",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Rurubu Travel Guide [Japanese].cbz",
+      "drive_id": "1CTZqVFGA1mcn0CRlOhIYgyY3IugwDs_H",
+      "size_bytes": 47351794,
+      "sha256": "7bc8a8ce832dd237ef74b5fabf48d22b9e3a84f257dbd6114c672752cce947f4",
+      "kind": "cbz",
+      "image_count": 102,
+      "dimensions_common": [
+        {
+          "w": 1569,
+          "h": 1920,
+          "count": 102
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "supplementary_paratext",
+      "status": "LOCKED_SUPPLEMENTARY",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 01 [Japanese].cbz",
+      "drive_id": "1RH-UyG9AQPv_qJXAU6S7TUfO45SJD08j",
+      "size_bytes": 102400637,
+      "sha256": "decc38731d708147c1bc04916876ef0aa94e862859d5e5e43991260677efb11c",
+      "kind": "cbz",
+      "image_count": 182,
+      "dimensions_common": [
+        {
+          "w": 1125,
+          "h": 1600,
+          "count": 182
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 02 [Japanese].cbz",
+      "drive_id": "14S_RhAL3MVzfKC5E-ixS5WnGTcEgI_e4",
+      "size_bytes": 143376193,
+      "sha256": "c49747fea5326cc9e18f5b682f0989e1858a1f0efbf56817af4ccb1e505d8fe9",
+      "kind": "cbz",
+      "image_count": 182,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 182
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 03 [Japanese].cbz",
+      "drive_id": "1MjTeALcesLykNlFX4x_a_tcAwbwFIYNV",
+      "size_bytes": 126393418,
+      "sha256": "246c28ce24844cbefa37e2e3ced82494703a262f89a6e707d366c9d0026d2967",
+      "kind": "cbz",
+      "image_count": 182,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 182
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 04 [Japanese].cbz",
+      "drive_id": "12KI6uaPFmFveYK4nQcYZ4WJWyGsMIrpE",
+      "size_bytes": 125020995,
+      "sha256": "f2c1a70d276d2243828dc7b5d8401f16471a578e507f32259d9e2de0c03dca3c",
+      "kind": "cbz",
+      "image_count": 182,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 182
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 05 [Japanese].cbz",
+      "drive_id": "12SENoLFSwXVQ_bXu5kvPK7BcX5HHHUlY",
+      "size_bytes": 125628428,
+      "sha256": "b63502cfa371059182e387b0b8886866b0eac9951f08010405a1ce4432c99e59",
+      "kind": "cbz",
+      "image_count": 182,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 182
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 06 [Japanese].cbz",
+      "drive_id": "1BY-q6dl8NCKcchfcWu1hA5sLXr-24Fp5",
+      "size_bytes": 110130737,
+      "sha256": "ecbf52418229e3ea710c3fc4a12c8ea3506879414c0f77e12cc0939f345892c2",
+      "kind": "cbz",
+      "image_count": 184,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 184
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 07 [Japanese].cbz",
+      "drive_id": "1BklEAicC0YiiIHDgxU3eQVhL3RMIKnCZ",
+      "size_bytes": 115213653,
+      "sha256": "81ebb21630205536d3db86ae4f67aa739dd8835f9ead59bc182ba4b78f1ea6c6",
+      "kind": "cbz",
+      "image_count": 183,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 183
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 08 [Japanese].cbz",
+      "drive_id": "15btenYpQpad_B88EzR_Nk_zOSvsP9L4-",
+      "size_bytes": 122433473,
+      "sha256": "7be122c49a2d95ccb3255139ad8fdd1d57dd0d1e9d5caaee4991a157bcf03d38",
+      "kind": "cbz",
+      "image_count": 184,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 184
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 09 [Japanese].cbz",
+      "drive_id": "1oA_PCOi0QduPCkjy8w15KPgj1PDlimfG",
+      "size_bytes": 109192969,
+      "sha256": "e9017f5626fc64725d090f885fdd6f2cd26031b3bdccaae4b936d611c4d4fc3c",
+      "kind": "cbz",
+      "image_count": 183,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 183
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 10 [Japanese].cbz",
+      "drive_id": "1_BgrndXjlhQOHGnZtBs_XC5cYt2Ybouh",
+      "size_bytes": 105078762,
+      "sha256": "b9d2d5e2a04240808dc6dd3c4e9245b3cdbaefe3aad5172eca02d173fef95c19",
+      "kind": "cbz",
+      "image_count": 183,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 183
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 11 [Japanese].cbz",
+      "drive_id": "14lOx-vMWZhiBfTw1b01av2zDcmNj5H3s",
+      "size_bytes": 109815990,
+      "sha256": "729c013dd93006b0400618245fc0ce2c5e19c8eeaaa7b6661d5460d887912187",
+      "kind": "cbz",
+      "image_count": 182,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 182
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 12 [Japanese].cbz",
+      "drive_id": "16hiGhy-yTlWzHYI0ENGFhXOmphexmuui",
+      "size_bytes": 96680725,
+      "sha256": "e9f6c074dd6309314dfe1d315e1371983ca82bec78337017c0bf29491481cf61",
+      "kind": "cbz",
+      "image_count": 182,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 182
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 13 [Japanese].cbz",
+      "drive_id": "1nKg7jQgphHLmVA_PyIAHqYL4UKqQiuYz",
+      "size_bytes": 61742321,
+      "sha256": "0cc621edc83ccf18ec6b0efa4bfbc2754de4613e6a4c0a6b2e6a2969b6a2e941",
+      "kind": "cbz",
+      "image_count": 182,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 181
+        },
+        {
+          "w": 1351,
+          "h": 1920,
+          "count": 1
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 14 [Japanese].cbz",
+      "drive_id": "1u4mZ1SXozZfCFmMMQo3C1iYG9WtHgECJ",
+      "size_bytes": 86957644,
+      "sha256": "935b42462214b1b599e1aa77a9b239f93a30dd5ae422c8db6f88e246bb4e1ce7",
+      "kind": "cbz",
+      "image_count": 183,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 181
+        },
+        {
+          "w": 1348,
+          "h": 1920,
+          "count": 2
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 15 [Japanese].cbz",
+      "drive_id": "1KFvd5mfGEI9_MVfu-_KTwQJLZ00unJy2",
+      "size_bytes": 82185358,
+      "sha256": "ca425887506860398242d09cc9eb21ddde3dec60fa9dd4db55bdc40dee9860cd",
+      "kind": "cbz",
+      "image_count": 166,
+      "dimensions_common": [
+        {
+          "w": 1350,
+          "h": 1920,
+          "count": 165
+        },
+        {
+          "w": 1349,
+          "h": 1920,
+          "count": 1
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_CURRENT_PREFERRED",
+      "quality": "GOOD_DERIVATIVE"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 16 [Japanese].cbz",
+      "drive_id": "1U_krzsI0k5fQkE4H8mAmNPBZD1ueWNKS",
+      "size_bytes": 53707024,
+      "sha256": "3a6665014f96cc6c7245ec54989bce651fcb42659b2838e6525c9fc96bd2f584",
+      "kind": "cbz",
+      "image_count": 168,
+      "dimensions_common": [
+        {
+          "w": 1125,
+          "h": 1600,
+          "count": 168
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "LOCKED_WITH_QUALITY_FLAG",
+      "quality": "USABLE_WATERMARKED_WITH_EXTRANEOUS_INSERTS"
+    },
+    {
+      "file": "Laid-Back Camp - Vol. 17 [Japanese].epub",
+      "drive_id": "1itEg_5CH3XR138EBsbTxYeZyiUk9uOT1",
+      "size_bytes": 74183497,
+      "sha256": "922280f5c2735bc024d25861a0eaf62e1f0486ffcb47634cc39098eb2a14fb4e",
+      "kind": "epub",
+      "image_count": 167,
+      "dimensions_common": [
+        {
+          "w": 584,
+          "h": 754,
+          "count": 167
+        }
+      ],
+      "zip_crc_ok": true,
+      "image_decode_ok": true,
+      "source_role": "primary_manga",
+      "status": "PROVISIONAL_LOCK",
+      "quality": "USABLE_LOW_RES_FIXED_LAYOUT_EPUB"
+    }
+  ]
+}

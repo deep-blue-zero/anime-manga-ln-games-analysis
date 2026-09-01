@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "generated_at": "2026-08-26T19:15:00Z",
+  "unit_and_regression_tests": {
+    "tests_run": 100,
+    "tests_skipped": 10,
+    "subtests_run": 210,
+    "failures": 0,
+    "errors": 0
+  },
+  "provenance_validation": {
+    "records_checked": 237755,
+    "failures": 0,
+    "valid": true
+  },
+  "character_manifest_hash_validation": {
+    "hashes_checked": 1629,
+    "failures": 0,
+    "valid": true
+  },
+  "jp_audio_validation": {
+    "catalog_records": 6609,
+    "target_streams_technically_probed": 2259,
+    "target_probe_failures": 0,
+    "globally_unique_source_bundles": 344,
+    "source_bundle_bytes": 159277728,
+    "drive_files_metadata_checked": 344,
+    "drive_files_metadata_pending": 0,
+    "drive_metadata_failures": 0,
+    "original_hash_failures": 0,
+    "analysis_audio_binary_violations": 0,
+    "local_validation_valid": true,
+    "valid": true
+  },
+  "failures": []
+}

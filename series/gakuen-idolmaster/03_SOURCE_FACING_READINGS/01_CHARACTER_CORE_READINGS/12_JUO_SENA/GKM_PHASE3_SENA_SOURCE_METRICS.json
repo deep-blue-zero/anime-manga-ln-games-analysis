@@ -1,0 +1,170 @@
+{
+  "series": "GKM",
+  "character": "Juo Sena / 十王星南",
+  "character_code": "jsna",
+  "phase": 3,
+  "generation": "V2",
+  "status": "canonical_support",
+  "source_lock": "GAKUMAS V2 Source Lock 1.0",
+  "source_lock_commit": "00d150a069a3ffa723a1ff264752ba242024caad",
+  "source_lock_revision": 32,
+  "bundle": {
+    "file": "99_complete_character_bundle.dialogue.txt",
+    "sha256": "da3a68e2d4cd87c31f466709c895a095bd1b8cbc98721592dad22863e19e9b28",
+    "objects": 184,
+    "messages": 4515
+  },
+  "category_counts": {
+    "cidol": {
+      "objects": 21,
+      "messages": 876
+    },
+    "dear": {
+      "objects": 27,
+      "messages": 1880
+    },
+    "live": {
+      "objects": 8,
+      "messages": 16
+    },
+    "pevent": {
+      "objects": 81,
+      "messages": 1000
+    },
+    "pgrowth": {
+      "objects": 3,
+      "messages": 12
+    },
+    "pstory": {
+      "objects": 42,
+      "messages": 719
+    },
+    "startup": {
+      "objects": 2,
+      "messages": 12
+    }
+  },
+  "produce_story_series": {
+    "series_001": {
+      "objects": 31,
+      "messages": 557
+    },
+    "series_002": {
+      "objects": 11,
+      "messages": 162
+    }
+  },
+  "cidol_episode_counts": {
+    "000": {
+      "objects": 3,
+      "messages": 98
+    },
+    "002": {
+      "objects": 3,
+      "messages": 143
+    },
+    "003": {
+      "objects": 3,
+      "messages": 131
+    },
+    "006": {
+      "objects": 3,
+      "messages": 114
+    },
+    "011": {
+      "objects": 3,
+      "messages": 140
+    },
+    "015": {
+      "objects": 3,
+      "messages": 115
+    },
+    "016": {
+      "objects": 3,
+      "messages": 135
+    }
+  },
+  "branch_controls": {
+    "P1[SENA]": "Series 1 Produce Story (31 objects)",
+    "P2[SENA]": "Series 2/N.I.A. Produce Story (11 objects)",
+    "D-SENA": "Dear 001-027 summer-H.I.F. route",
+    "M-SENA": "modular pevent/CIDOL/live/growth/startup",
+    "P3-C[SENA]": "not present in Source Lock 1.0; no Series-3 Produce Story source"
+  },
+  "a1_raw_verification": {
+    "count": 8,
+    "files": [
+      {
+        "file": "dear_001.txt",
+        "sha256": "20b7363c306e0dc2d025955218f9eb7f427163ff21f2199d645fd7f6c0498877",
+        "bytes": 221648
+      },
+      {
+        "file": "dear_005.txt",
+        "sha256": "e261a83d9aa582f5a929d3dfa94678311384b24ced3fd22c11a427208fb22356",
+        "bytes": 198402
+      },
+      {
+        "file": "dear_009.txt",
+        "sha256": "8309b2fec00e2033d255ab08c6c1de459183ce2055dd435745a5d0d03b661e03",
+        "bytes": 373086
+      },
+      {
+        "file": "dear_016.txt",
+        "sha256": "427b80062942dbd3affe58431d4110b061cf4e66f1004c9f7ce29891b07356d3",
+        "bytes": 307774
+      },
+      {
+        "file": "dear_018.txt",
+        "sha256": "cc3f60c6b534d47c96fc54d2caf84f8748173f285c7b554d524aefce12f812e7",
+        "bytes": 208286
+      },
+      {
+        "file": "dear_020.txt",
+        "sha256": "c3c0c1f904f643631ab937a5b87ce509f6d1e9776b24a9e150cf58346cfa91ef",
+        "bytes": 175375
+      },
+      {
+        "file": "dear_025.txt",
+        "sha256": "6cc20502bb6fc5ba27d6dae0dd30be6dbb768018dbc042bca3245af29466db36",
+        "bytes": 458506
+      },
+      {
+        "file": "dear_027.txt",
+        "sha256": "ea15c54c50bc561d8812001aaef0f59531f6df831ee3b566514cb95d0203bbf9",
+        "bytes": 606278
+      }
+    ]
+  },
+  "high_load_textual_anchors": [
+    "dear_001 — retirement / ordinary self / first-person dream",
+    "dear_005 — perfect-image duty / avoidance of stronger idols",
+    "dear_009 — exhibition / highest-order idol image / fanhood",
+    "dear_016 — successor-to-rival revision",
+    "dear_018 — Kotone fan history / reciprocal star",
+    "dear_020 — measurable stats as only a fraction of idol power",
+    "dear_025 — Saki other-self / H.I.F reform problem",
+    "dear_027 — summer Prima Stella / institutional reform / reopened ambition"
+  ],
+  "legacy_transcript": {
+    "file": "Manga and anime discussions - Gakuen Idolmaster Deep Dive - Full Transcript.md",
+    "sha256": "7e7e3644f2d619ac07caab8d5f17a071d64497516aaa48a705aec092fc0dadb9",
+    "role": "historical hypothesis/provenance only"
+  },
+  "official_discography_metadata_checked_2026_08_16": [
+    "小さな野望",
+    "初 [十王星南 Solo ver.]",
+    "Campus mode!! [十王星南 Solo ver.]",
+    "Our Chant",
+    "Choo Choo Choo",
+    "がむしゃらに行こう！ [十王星南 Solo ver.]",
+    "Howling over the World [十王星南 Solo ver.]",
+    "ミラクルナナウ(ﾟ∀ﾟ)！ [十王星南 Solo ver.]",
+    "Star-mine / Star-mine [十王星南 Solo ver.]",
+    "赤裸々",
+    "標 [十王星南 Solo Ver.]",
+    "ENDLESS DANCE [十王星南 Solo Ver.]",
+    "ガラクタロード [十王星南 Solo Ver.]"
+  ],
+  "generated_at": "2026-08-16"
+}

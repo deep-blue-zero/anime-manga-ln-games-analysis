@@ -1,0 +1,21 @@
+# IDOLY PRIDE V2 Phase 1 Bond B2-A integrity manifest
+# Created 2026-08-16
+# Primary sources
+d42d909f29eba61cda395565b76736a9daa3caa3a935b5974bb5976b00ffffce  bond_rui_001_rui.md
+5f6e95bc6fe1bbd16b2ee845cc4e28ad8d7b2535dd9b5db275e00e5e3efa6412  bond_skr_001_skr.md
+3fbe7eac13a5f064d330542ce5813d5149900f7930157e347bb1d55b4b1d625f  bond_szk_001_szk.md
+f0505455eb41ecbfdf043053a5de16d4418296594a3f5f7663331b696b594d52  bond_mhk_001_mhk.md
+# Inherited authority / routing
+68147f51b6bad1740544c6633fc28e0acaba36d3f011fdfeaf9ede893a265631  IDOLY_PRIDE_V2_PHASE1_POST_BOND_B1A_BASELINE.md
+79285d5e1fc9b498a37b12b8aa6fbe7c1798da394da914a8aa7bfbff00f72765  IDOLY_PRIDE_V2_PHASE1_BOND_CLOSE_READ_QUEUE.md
+# B2-A analysis artifacts
+5f15ef7b8881863c587f7f00266ba6ef9d902747769e5552ff727f5bded7a59b  IDOLY_PRIDE_V2_PHASE1_BOND_B2A_PRIMARY_FINDINGS_FREEZE.md
+c81a71a159f0c82fd6d2df68825131cdc5216efb0999205d17b7d061933f6434  IDOLY_PRIDE_V2_PHASE1_BOND_B2A_CLOSE_READ_AUDIT.md
+047293ac6a7729310df4a54e7302b961b6b6066f0ef98d495cec2708dd9cf1fd  IDOLY_PRIDE_V2_PHASE1_POST_BOND_B2A_BASELINE.md
+d46911049834ae11b1bb0b761548c7e5d0ea0ee1ebbf4e9f478406117e463333  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.24.md
+# Formal dependencies
+# No B2-A bond bundle declares a missing audiovisual/formal asset.
+# Chronology dependency
+# BOND_TEMPORAL_PLACEMENT_UNFIXED remains in force unless an individual bond provides internal chronology.
+# Relationship-category dependency
+# Rui/Makino emotional salience is admitted; romantic category is not settled by B2-A.

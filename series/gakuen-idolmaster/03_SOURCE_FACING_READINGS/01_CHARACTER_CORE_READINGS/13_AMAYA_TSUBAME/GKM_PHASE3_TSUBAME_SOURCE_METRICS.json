@@ -1,0 +1,89 @@
+{
+  "series": "GKM",
+  "character": "Amaya Tsubame / 雨夜燕",
+  "character_code": "atbm",
+  "generation": "V2",
+  "phase": 3,
+  "source_lock": "GAKUMAS V2 Source Lock 1.0",
+  "unique_source_objects": 173,
+  "dialogue_messages": 4407,
+  "source_families": {
+    "cidol": {
+      "objects": 9,
+      "messages": 365
+    },
+    "dear": {
+      "objects": 28,
+      "messages": 2093
+    },
+    "live": {
+      "objects": 8,
+      "messages": 17
+    },
+    "pevent": {
+      "objects": 81,
+      "messages": 1104
+    },
+    "pgrowth": {
+      "objects": 3,
+      "messages": 12
+    },
+    "pstory": {
+      "objects": 42,
+      "messages": 804
+    },
+    "startup": {
+      "objects": 2,
+      "messages": 12
+    }
+  },
+  "produce_story_series": {
+    "series_001": 31,
+    "series_002": 11,
+    "series_003": 0
+  },
+  "continuity_tracks": [
+    "P1[TSUBAME]",
+    "P2[TSUBAME]",
+    "D-TSUBAME",
+    "M-TSUBAME"
+  ],
+  "raw_adv_spot_checks": {
+    "002": {
+      "sha256": "f4844b65e90731164e27fea22171e6bd88df7ce6e8ae873e843bd03a77bb14ac",
+      "bytes": 222461
+    },
+    "006": {
+      "sha256": "190954e209f3af575a204bbf5dbe1108c032c4636c69c7407c2bd29471c684b4",
+      "bytes": 258762
+    },
+    "010": {
+      "sha256": "728f01fe9f2a72d5d9b20e0f09611ac0d1eeb7b80e8b2b225160e916cb7c7615",
+      "bytes": 220053
+    },
+    "018": {
+      "sha256": "2a739607df30bbbb75e08c45b5ceb75c5629a1eb504268f713328a861a2ff6ef",
+      "bytes": 158055
+    },
+    "019": {
+      "sha256": "873e07b9c61dfa373c4bb14a1f31bf6bcbab66ca88f42c48cb0e25fdf5551645",
+      "bytes": 226084
+    },
+    "023": {
+      "sha256": "f4bf64f6b00d15fbd95eb1e83abc9a2ca0f41b54f5e5cf05fdbd49a94e52c90e",
+      "bytes": 448776
+    },
+    "024": {
+      "sha256": "f957253fe0bfe3901f4c8f46f614e494332922b480025ba78e024f4e964a7b83",
+      "bytes": 523402
+    },
+    "027": {
+      "sha256": "ad1b0433df1e0ca6f23ace1f72b51defe8ba48642db845fdb6b9f547f57b43b9",
+      "bytes": 344057
+    }
+  },
+  "complete_bundle_sha256": "7d4040c2948802174518adbfd71ab22a716941dfc853b09f833b0c4ed332bf03",
+  "manifest_sha256": "7a7dbb699e24d34de3db0d47f8be9782ba7ed4c3306385ed8635c614e255c09d",
+  "raw_scene_index_sha256": "441c3e2c0a92bac653756af6fed0976a8635dec504ddd0e133ea68c054990cb9",
+  "generated": "2026-08-16"
+}

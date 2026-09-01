@@ -1,0 +1,25 @@
+﻿episode,source_duration_seconds,program_start_seconds,analysis_start_seconds,raw_detected_events,accepted_events,rejected_events,low_confidence_events,pre_roll_events_removed,ocr_mean_confidence,ocr_median_confidence,ocr_minimum_confidence,semantic_anchor_count,semantic_mean_anchor_similarity,report
+1,1518.058,53.5,53.25,388,379,7,0,0,0.992799,0.998758,0.887736,99,0.802172,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep01\reconstruction_report.json
+2,1518.272,53.25,53.0,334,307,15,0,0,0.993086,0.998644,0.901621,74,0.800685,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep02\reconstruction_report.json
+3,1517.269,54.5,54.25,325,294,29,0,0,0.993971,0.998754,0.913982,63,0.809224,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep03\reconstruction_report.json
+4,1527.253,53.0,52.75,305,283,14,0,0,0.993319,0.998754,0.912836,77,0.788866,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep04\reconstruction_report.json
+5,1527.253,59.0,58.75,343,338,5,0,0,0.99249,0.998931,0.888309,78,0.793923,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep05\reconstruction_report.json
+6,1522.261,54.5,54.25,322,314,8,0,0,0.993451,0.998783,0.885379,72,0.783346,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep06\reconstruction_report.json
+7,1507.05,39.375,39.125,246,235,10,1,0,0.993644,0.998772,0.773176,73,0.792399,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep07\reconstruction_report.json
+8,1512.0,37.5,37.25,287,281,5,0,0,0.991402,0.997791,0.919695,84,0.802243,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep08\reconstruction_report.json
+9,1584.768,38.25,38.0,209,207,2,0,0,0.99287,0.998875,0.852297,52,0.816762,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep09\reconstruction_report.json
+10,1584.725,38.0,37.75,286,292,1,0,0,0.99308,0.998811,0.893225,74,0.799458,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep10\reconstruction_report.json
+11,1517.013,47.0,46.75,298,288,9,0,0,0.990139,0.99727,0.902767,85,0.799517,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep11\reconstruction_report.json
+12,1517.013,49.25,49.0,212,199,9,0,0,0.992653,0.998063,0.92554,51,0.796756,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep12\reconstruction_report.json
+13,1520.0,32.25,32.0,290,286,2,1,0,0.991001,0.998487,0.838677,87,0.810424,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep13\reconstruction_report.json
+14,1518.976,34.0,33.75,287,281,4,0,0,0.993599,0.998695,0.9321,65,0.801747,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep14\reconstruction_report.json
+15,1520.768,41.75,41.5,293,280,6,0,0,0.994076,0.998908,0.896808,63,0.781709,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep15\reconstruction_report.json
+16,1518.677,33.5,33.25,279,264,10,0,0,0.992338,0.998708,0.861922,83,0.799153,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep16\reconstruction_report.json
+17,1517.013,46.75,46.5,300,274,24,1,0,0.987556,0.998308,0.836785,58,0.827978,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep17\reconstruction_report.json
+18,1517.013,47.5,47.25,342,323,15,0,0,0.99156,0.998081,0.906329,74,0.797046,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep18\reconstruction_report.json
+19,1520.682,32.25,32.0,310,301,9,0,0,0.993487,0.998814,0.900366,82,0.789969,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep19\reconstruction_report.json
+20,1641.002,47.0,46.75,203,191,12,0,0,0.993177,0.999047,0.901062,54,0.804354,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep20\reconstruction_report.json
+21,1639.21,46.75,46.5,320,309,11,0,0,0.992312,0.998617,0.930578,61,0.813982,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep21\reconstruction_report.json
+22,1639.381,51.5,51.25,170,164,4,0,0,0.991643,0.998538,0.936399,37,0.796812,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep22\reconstruction_report.json
+23,1647.466,48.0,47.75,284,262,20,0,0,0.991391,0.998378,0.901133,48,0.794345,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep23\reconstruction_report.json
+24,1541.674,43.75,43.5,230,226,14,1,0,0.991225,0.997755,0.818342,80,0.813717,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep24\reconstruction_report.json

@@ -1,0 +1,4 @@
+correction_id	artifact	stable_id_or_location	prior_form	current_source_form	current_source_coordinate	correction_class	interpretive_effect	status
+P8-C01	12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md	military vocabulary section	兵科転換	兵科が変わる	V09 / item/xhtml/p-014.xhtml ¶033	SOURCE_FORM_BOUNDARY	No substantive interpretation change; removes analyst-compressed pseudo-lexeme from source-like formatting.	APPLIED
+P8-C02	16_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md	JP-ADDR-011	callsign → rank → シン	〈アンダーテイカー〉 → ヴラディレーナ・ミリーゼ大佐 → シン	V13-L082 / item/xhtml/p-007.xhtml ¶038	COMPACT_ANCHOR_PRESENTATION	No locator, stable ID, quote-state, or interpretation change.	APPLIED
+P8-C03	16_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md	JP-RETURN-015	帰還 denied	帰還だけは、許可できません	V13-L115 / item/xhtml/p-007.xhtml ¶885	COMPACT_ANCHOR_PRESENTATION	No locator, stable ID, quote-state, or interpretation change.	APPLIED

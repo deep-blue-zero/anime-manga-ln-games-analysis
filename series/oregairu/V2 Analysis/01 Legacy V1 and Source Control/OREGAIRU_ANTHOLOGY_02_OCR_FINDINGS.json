@@ -1,0 +1,5576 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-15T18:04:08+00:00",
+  "scope": "Complete source set. Human-reviewed pilot pages and unreviewed machine OCR are explicitly distinguished.",
+  "totals": {
+    "source_pages": 306,
+    "book_pages": 296,
+    "jacket_pages": 10,
+    "human_reviewed_text_pages": 15,
+    "unreviewed_machine_text_pages": 267,
+    "unresolved_flagged_lines": 2977,
+    "machine_readable_characters": 132874
+  },
+  "pages": [
+    {
+      "reading_order": 1,
+      "source_id": "jacket_005",
+      "book_page": null,
+      "content_type": "cover",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 2,
+      "source_id": "book_0001",
+      "book_page": 1,
+      "content_type": "visual",
+      "review_status": "automatic_visual_classification",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 3,
+      "source_id": "book_0002",
+      "book_page": 2,
+      "content_type": "visual",
+      "review_status": "automatic_visual_classification",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 4,
+      "source_id": "book_0003",
+      "book_page": 3,
+      "content_type": "visual",
+      "review_status": "automatic_visual_classification",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 5,
+      "source_id": "book_0004",
+      "book_page": 4,
+      "content_type": "visual",
+      "review_status": "automatic_visual_classification",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 6,
+      "source_id": "book_0005",
+      "book_page": 5,
+      "content_type": "visual",
+      "review_status": "automatic_visual_classification",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 7,
+      "source_id": "book_0006",
+      "book_page": 6,
+      "content_type": "visual",
+      "review_status": "automatic_visual_classification",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 8,
+      "source_id": "book_0007",
+      "book_page": 7,
+      "content_type": "visual",
+      "review_status": "automatic_visual_classification",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 9,
+      "source_id": "book_0008",
+      "book_page": 8,
+      "content_type": "visual",
+      "review_status": "automatic_visual_classification",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 10,
+      "source_id": "book_0009",
+      "book_page": 9,
+      "content_type": "visual",
+      "review_status": "automatic_visual_classification",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 11,
+      "source_id": "book_0010",
+      "book_page": 10,
+      "content_type": "mixed_layout",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 23.8374,
+      "tesseract_pass_agreement": 0.253086,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 195,
+      "final_machine_readable_characters": 91,
+      "machine_to_final_compact_similarity": 0.059072,
+      "paddle_audited_lines": 24,
+      "flagged_or_disputed_lines": 24
+    },
+    {
+      "reading_order": 12,
+      "source_id": "book_0011",
+      "book_page": 11,
+      "content_type": "mixed_layout",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 3.9076,
+      "tesseract_pass_agreement": 0.311978,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 1148,
+      "final_machine_readable_characters": 1148,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 19,
+      "flagged_or_disputed_lines": 19
+    },
+    {
+      "reading_order": 13,
+      "source_id": "book_0012",
+      "book_page": 12,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 85.1963,
+      "tesseract_pass_agreement": 0.920388,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 279,
+      "final_machine_readable_characters": 302,
+      "machine_to_final_compact_similarity": 0.821293,
+      "paddle_audited_lines": 14,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 14,
+      "source_id": "book_0013",
+      "book_page": 13,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.9105,
+      "tesseract_pass_agreement": 0.962025,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 442,
+      "final_machine_readable_characters": 442,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 15,
+      "source_id": "book_0014",
+      "book_page": 14,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.0837,
+      "tesseract_pass_agreement": 0.970387,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 463,
+      "final_machine_readable_characters": 463,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 16,
+      "source_id": "book_0015",
+      "book_page": 15,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.8538,
+      "tesseract_pass_agreement": 0.962319,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 530,
+      "final_machine_readable_characters": 530,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 17,
+      "source_id": "book_0016",
+      "book_page": 16,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.5042,
+      "tesseract_pass_agreement": 0.968789,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 423,
+      "final_machine_readable_characters": 423,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 18,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 18,
+      "source_id": "book_0017",
+      "book_page": 17,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.6738,
+      "tesseract_pass_agreement": 0.949002,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 466,
+      "final_machine_readable_characters": 466,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 19,
+      "source_id": "book_0018",
+      "book_page": 18,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.6222,
+      "tesseract_pass_agreement": 0.972549,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 397,
+      "final_machine_readable_characters": 397,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 14,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 20,
+      "source_id": "book_0019",
+      "book_page": 19,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.0983,
+      "tesseract_pass_agreement": 0.966154,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 494,
+      "final_machine_readable_characters": 494,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 21,
+      "source_id": "book_0020",
+      "book_page": 20,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.4254,
+      "tesseract_pass_agreement": 0.982824,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 539,
+      "final_machine_readable_characters": 539,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 22,
+      "source_id": "book_0021",
+      "book_page": 21,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.008,
+      "tesseract_pass_agreement": 0.971981,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 527,
+      "final_machine_readable_characters": 527,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 23,
+      "source_id": "book_0022",
+      "book_page": 22,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.3285,
+      "tesseract_pass_agreement": 0.963441,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 484,
+      "final_machine_readable_characters": 484,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 24,
+      "source_id": "book_0023",
+      "book_page": 23,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.6364,
+      "tesseract_pass_agreement": 0.964072,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 510,
+      "final_machine_readable_characters": 510,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 25,
+      "source_id": "book_0024",
+      "book_page": 24,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.3174,
+      "tesseract_pass_agreement": 0.966625,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 419,
+      "final_machine_readable_characters": 419,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 26,
+      "source_id": "book_0025",
+      "book_page": 25,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.1436,
+      "tesseract_pass_agreement": 0.953684,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 486,
+      "final_machine_readable_characters": 486,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 16
+    },
+    {
+      "reading_order": 27,
+      "source_id": "book_0026",
+      "book_page": 26,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.6112,
+      "tesseract_pass_agreement": 0.969044,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 390,
+      "final_machine_readable_characters": 390,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 28,
+      "source_id": "book_0027",
+      "book_page": 27,
+      "content_type": "illustration",
+      "review_status": "checked_visual",
+      "selected_tesseract_confidence": 32.9048,
+      "tesseract_pass_agreement": 0.241611,
+      "audit_flags": [
+        "fixed_image_page",
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 77,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 0.0,
+      "paddle_audited_lines": 12,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 29,
+      "source_id": "book_0028",
+      "book_page": 28,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.5276,
+      "tesseract_pass_agreement": 0.966135,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 526,
+      "final_machine_readable_characters": 526,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 30,
+      "source_id": "book_0029",
+      "book_page": 29,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.8063,
+      "tesseract_pass_agreement": 0.949951,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 522,
+      "final_machine_readable_characters": 522,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 31,
+      "source_id": "book_0030",
+      "book_page": 30,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.8414,
+      "tesseract_pass_agreement": 0.964523,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 476,
+      "final_machine_readable_characters": 476,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 32,
+      "source_id": "book_0031",
+      "book_page": 31,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.8265,
+      "tesseract_pass_agreement": 0.951049,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 513,
+      "final_machine_readable_characters": 513,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 33,
+      "source_id": "book_0032",
+      "book_page": 32,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.1295,
+      "tesseract_pass_agreement": 0.968026,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 471,
+      "final_machine_readable_characters": 471,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 34,
+      "source_id": "book_0033",
+      "book_page": 33,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.8044,
+      "tesseract_pass_agreement": 0.956629,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 412,
+      "final_machine_readable_characters": 412,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 35,
+      "source_id": "book_0034",
+      "book_page": 34,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.9789,
+      "tesseract_pass_agreement": 0.956906,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 480,
+      "final_machine_readable_characters": 480,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 36,
+      "source_id": "book_0035",
+      "book_page": 35,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.8877,
+      "tesseract_pass_agreement": 0.965426,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 386,
+      "final_machine_readable_characters": 386,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 37,
+      "source_id": "book_0036",
+      "book_page": 36,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.6017,
+      "tesseract_pass_agreement": 0.963415,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 442,
+      "final_machine_readable_characters": 442,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 38,
+      "source_id": "book_0037",
+      "book_page": 37,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.3724,
+      "tesseract_pass_agreement": 0.966173,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 483,
+      "final_machine_readable_characters": 483,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 39,
+      "source_id": "book_0038",
+      "book_page": 38,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 91.402,
+      "tesseract_pass_agreement": 0.984816,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 471,
+      "final_machine_readable_characters": 471,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 40,
+      "source_id": "book_0039",
+      "book_page": 39,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.2097,
+      "tesseract_pass_agreement": 0.969838,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 441,
+      "final_machine_readable_characters": 441,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 41,
+      "source_id": "book_0040",
+      "book_page": 40,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.573,
+      "tesseract_pass_agreement": 0.975746,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 558,
+      "final_machine_readable_characters": 558,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 42,
+      "source_id": "book_0041",
+      "book_page": 41,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.97,
+      "tesseract_pass_agreement": 0.974063,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 532,
+      "final_machine_readable_characters": 532,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 43,
+      "source_id": "book_0042",
+      "book_page": 42,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.8375,
+      "tesseract_pass_agreement": 0.961625,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 467,
+      "final_machine_readable_characters": 467,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 17
+    },
+    {
+      "reading_order": 44,
+      "source_id": "book_0043",
+      "book_page": 43,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.9007,
+      "tesseract_pass_agreement": 0.95078,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 432,
+      "final_machine_readable_characters": 432,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 45,
+      "source_id": "book_0044",
+      "book_page": 44,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.5546,
+      "tesseract_pass_agreement": 0.979849,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 421,
+      "final_machine_readable_characters": 421,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 46,
+      "source_id": "book_0045",
+      "book_page": 45,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.0517,
+      "tesseract_pass_agreement": 0.946912,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 473,
+      "final_machine_readable_characters": 473,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 47,
+      "source_id": "book_0046",
+      "book_page": 46,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.6983,
+      "tesseract_pass_agreement": 0.962353,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 448,
+      "final_machine_readable_characters": 448,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 48,
+      "source_id": "book_0047",
+      "book_page": 47,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.8925,
+      "tesseract_pass_agreement": 0.961364,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 453,
+      "final_machine_readable_characters": 453,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 49,
+      "source_id": "book_0048",
+      "book_page": 48,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.011,
+      "tesseract_pass_agreement": 0.975858,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 414,
+      "final_machine_readable_characters": 414,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 50,
+      "source_id": "book_0049",
+      "book_page": 49,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.7485,
+      "tesseract_pass_agreement": 0.964824,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 507,
+      "final_machine_readable_characters": 507,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 51,
+      "source_id": "book_0050",
+      "book_page": 50,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 89.5132,
+      "tesseract_pass_agreement": 0.976119,
+      "audit_flags": [
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 351,
+      "final_machine_readable_characters": 348,
+      "machine_to_final_compact_similarity": 0.972644,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 52,
+      "source_id": "book_0051",
+      "book_page": 51,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.6144,
+      "tesseract_pass_agreement": 0.954593,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 484,
+      "final_machine_readable_characters": 484,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 53,
+      "source_id": "book_0052",
+      "book_page": 52,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.2207,
+      "tesseract_pass_agreement": 0.973039,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 427,
+      "final_machine_readable_characters": 427,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 54,
+      "source_id": "book_0053",
+      "book_page": 53,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.6101,
+      "tesseract_pass_agreement": 0.954442,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 449,
+      "final_machine_readable_characters": 449,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 55,
+      "source_id": "book_0054",
+      "book_page": 54,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.4675,
+      "tesseract_pass_agreement": 0.949239,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 422,
+      "final_machine_readable_characters": 422,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 56,
+      "source_id": "book_0055",
+      "book_page": 55,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.2619,
+      "tesseract_pass_agreement": 0.966341,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 467,
+      "final_machine_readable_characters": 467,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 57,
+      "source_id": "book_0056",
+      "book_page": 56,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.3697,
+      "tesseract_pass_agreement": 0.954704,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 452,
+      "final_machine_readable_characters": 452,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 58,
+      "source_id": "book_0057",
+      "book_page": 57,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.5492,
+      "tesseract_pass_agreement": 0.953297,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 377,
+      "final_machine_readable_characters": 377,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 59,
+      "source_id": "book_0058",
+      "book_page": 58,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.794,
+      "tesseract_pass_agreement": 0.982079,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 441,
+      "final_machine_readable_characters": 441,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 60,
+      "source_id": "book_0059",
+      "book_page": 59,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.11,
+      "tesseract_pass_agreement": 0.972455,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 432,
+      "final_machine_readable_characters": 432,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 61,
+      "source_id": "book_0060",
+      "book_page": 60,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.9807,
+      "tesseract_pass_agreement": 0.962679,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 538,
+      "final_machine_readable_characters": 538,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 62,
+      "source_id": "book_0061",
+      "book_page": 61,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.002,
+      "tesseract_pass_agreement": 0.958284,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 428,
+      "final_machine_readable_characters": 428,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 63,
+      "source_id": "book_0062",
+      "book_page": 62,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.7245,
+      "tesseract_pass_agreement": 0.96368,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 440,
+      "final_machine_readable_characters": 440,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 64,
+      "source_id": "book_0063",
+      "book_page": 63,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.9113,
+      "tesseract_pass_agreement": 0.971165,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 442,
+      "final_machine_readable_characters": 442,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 65,
+      "source_id": "book_0064",
+      "book_page": 64,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 91.5193,
+      "tesseract_pass_agreement": 0.978972,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 454,
+      "final_machine_readable_characters": 454,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 66,
+      "source_id": "book_0065",
+      "book_page": 65,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.5567,
+      "tesseract_pass_agreement": 0.979742,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 557,
+      "final_machine_readable_characters": 557,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 67,
+      "source_id": "book_0066",
+      "book_page": 66,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.0567,
+      "tesseract_pass_agreement": 0.981273,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 556,
+      "final_machine_readable_characters": 556,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 68,
+      "source_id": "book_0067",
+      "book_page": 67,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.8837,
+      "tesseract_pass_agreement": 0.932755,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 224,
+      "final_machine_readable_characters": 224,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 7,
+      "flagged_or_disputed_lines": 1
+    },
+    {
+      "reading_order": 69,
+      "source_id": "book_0068",
+      "book_page": 68,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 85.521,
+      "tesseract_pass_agreement": 0.923628,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 442,
+      "final_machine_readable_characters": 437,
+      "machine_to_final_compact_similarity": 0.937799,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 70,
+      "source_id": "book_0069",
+      "book_page": 69,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.1769,
+      "tesseract_pass_agreement": 0.981443,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 500,
+      "final_machine_readable_characters": 500,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 71,
+      "source_id": "book_0070",
+      "book_page": 70,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.736,
+      "tesseract_pass_agreement": 0.965732,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 501,
+      "final_machine_readable_characters": 501,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 72,
+      "source_id": "book_0071",
+      "book_page": 71,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.2583,
+      "tesseract_pass_agreement": 0.966068,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 517,
+      "final_machine_readable_characters": 517,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 73,
+      "source_id": "book_0072",
+      "book_page": 72,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.545,
+      "tesseract_pass_agreement": 0.964079,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 447,
+      "final_machine_readable_characters": 447,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 14,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 74,
+      "source_id": "book_0073",
+      "book_page": 73,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.5631,
+      "tesseract_pass_agreement": 0.939597,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 390,
+      "final_machine_readable_characters": 390,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 13,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 75,
+      "source_id": "book_0074",
+      "book_page": 74,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.7407,
+      "tesseract_pass_agreement": 0.971963,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 504,
+      "final_machine_readable_characters": 504,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 76,
+      "source_id": "book_0075",
+      "book_page": 75,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.6497,
+      "tesseract_pass_agreement": 0.97446,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 525,
+      "final_machine_readable_characters": 525,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 77,
+      "source_id": "book_0076",
+      "book_page": 76,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.7837,
+      "tesseract_pass_agreement": 0.942331,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 432,
+      "final_machine_readable_characters": 432,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 78,
+      "source_id": "book_0077",
+      "book_page": 77,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.0574,
+      "tesseract_pass_agreement": 0.964286,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 494,
+      "final_machine_readable_characters": 494,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 79,
+      "source_id": "book_0078",
+      "book_page": 78,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.3024,
+      "tesseract_pass_agreement": 0.950543,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 437,
+      "final_machine_readable_characters": 437,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 80,
+      "source_id": "book_0079",
+      "book_page": 79,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 81.522,
+      "tesseract_pass_agreement": 0.94932,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 422,
+      "final_machine_readable_characters": 422,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 81,
+      "source_id": "book_0080",
+      "book_page": 80,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.4057,
+      "tesseract_pass_agreement": 0.972746,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 498,
+      "final_machine_readable_characters": 498,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 82,
+      "source_id": "book_0081",
+      "book_page": 81,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.8627,
+      "tesseract_pass_agreement": 0.953141,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 517,
+      "final_machine_readable_characters": 517,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 83,
+      "source_id": "book_0082",
+      "book_page": 82,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.188,
+      "tesseract_pass_agreement": 0.962113,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 461,
+      "final_machine_readable_characters": 461,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 84,
+      "source_id": "book_0083",
+      "book_page": 83,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.9118,
+      "tesseract_pass_agreement": 0.958991,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 499,
+      "final_machine_readable_characters": 499,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 85,
+      "source_id": "book_0084",
+      "book_page": 84,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 83.1609,
+      "tesseract_pass_agreement": 0.925411,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 423,
+      "final_machine_readable_characters": 423,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 86,
+      "source_id": "book_0085",
+      "book_page": 85,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.169,
+      "tesseract_pass_agreement": 0.964324,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 474,
+      "final_machine_readable_characters": 474,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 87,
+      "source_id": "book_0086",
+      "book_page": 86,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.6268,
+      "tesseract_pass_agreement": 0.979036,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 496,
+      "final_machine_readable_characters": 496,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 88,
+      "source_id": "book_0087",
+      "book_page": 87,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.3817,
+      "tesseract_pass_agreement": 0.959799,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 417,
+      "final_machine_readable_characters": 417,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 89,
+      "source_id": "book_0088",
+      "book_page": 88,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.4349,
+      "tesseract_pass_agreement": 0.954424,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 396,
+      "final_machine_readable_characters": 396,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 90,
+      "source_id": "book_0089",
+      "book_page": 89,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.8314,
+      "tesseract_pass_agreement": 0.967801,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 562,
+      "final_machine_readable_characters": 562,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 91,
+      "source_id": "book_0090",
+      "book_page": 90,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.4808,
+      "tesseract_pass_agreement": 0.980671,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 514,
+      "final_machine_readable_characters": 514,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 92,
+      "source_id": "book_0091",
+      "book_page": 91,
+      "content_type": "illustration",
+      "review_status": "checked_visual",
+      "selected_tesseract_confidence": 26.2873,
+      "tesseract_pass_agreement": 0.190751,
+      "audit_flags": [
+        "low_page_confidence",
+        "possible_running_header_in_text",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 1842,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 0.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 93,
+      "source_id": "book_0092",
+      "book_page": 92,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.4375,
+      "tesseract_pass_agreement": 0.949846,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 514,
+      "final_machine_readable_characters": 514,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 94,
+      "source_id": "book_0093",
+      "book_page": 93,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.4495,
+      "tesseract_pass_agreement": 0.955752,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 414,
+      "final_machine_readable_characters": 414,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 95,
+      "source_id": "book_0094",
+      "book_page": 94,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.1431,
+      "tesseract_pass_agreement": 0.951754,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 479,
+      "final_machine_readable_characters": 479,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 96,
+      "source_id": "book_0095",
+      "book_page": 95,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.975,
+      "tesseract_pass_agreement": 0.956522,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 457,
+      "final_machine_readable_characters": 457,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 97,
+      "source_id": "book_0096",
+      "book_page": 96,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.6026,
+      "tesseract_pass_agreement": 0.957207,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 479,
+      "final_machine_readable_characters": 479,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 18,
+      "flagged_or_disputed_lines": 17
+    },
+    {
+      "reading_order": 98,
+      "source_id": "book_0097",
+      "book_page": 97,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.77,
+      "tesseract_pass_agreement": 0.959924,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 535,
+      "final_machine_readable_characters": 535,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 99,
+      "source_id": "book_0098",
+      "book_page": 98,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.414,
+      "tesseract_pass_agreement": 0.977629,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 469,
+      "final_machine_readable_characters": 469,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 100,
+      "source_id": "book_0099",
+      "book_page": 99,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.212,
+      "tesseract_pass_agreement": 0.967033,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 517,
+      "final_machine_readable_characters": 517,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 101,
+      "source_id": "book_0100",
+      "book_page": 100,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 85.9311,
+      "tesseract_pass_agreement": 0.954348,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 487,
+      "final_machine_readable_characters": 472,
+      "machine_to_final_compact_similarity": 0.931718,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 102,
+      "source_id": "book_0101",
+      "book_page": 101,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.0295,
+      "tesseract_pass_agreement": 0.95585,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 469,
+      "final_machine_readable_characters": 469,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 16
+    },
+    {
+      "reading_order": 103,
+      "source_id": "book_0102",
+      "book_page": 102,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 83.5795,
+      "tesseract_pass_agreement": 0.930612,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 374,
+      "final_machine_readable_characters": 374,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 104,
+      "source_id": "book_0103",
+      "book_page": 103,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.5912,
+      "tesseract_pass_agreement": 0.965197,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 444,
+      "final_machine_readable_characters": 444,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 105,
+      "source_id": "book_0104",
+      "book_page": 104,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.492,
+      "tesseract_pass_agreement": 0.978723,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 517,
+      "final_machine_readable_characters": 517,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 6
+    },
+    {
+      "reading_order": 106,
+      "source_id": "book_0105",
+      "book_page": 105,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.5449,
+      "tesseract_pass_agreement": 0.966341,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 473,
+      "final_machine_readable_characters": 473,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 107,
+      "source_id": "book_0106",
+      "book_page": 106,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.3091,
+      "tesseract_pass_agreement": 0.968944,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 585,
+      "final_machine_readable_characters": 585,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 108,
+      "source_id": "book_0107",
+      "book_page": 107,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.5708,
+      "tesseract_pass_agreement": 0.968008,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 501,
+      "final_machine_readable_characters": 501,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 109,
+      "source_id": "book_0108",
+      "book_page": 108,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.1892,
+      "tesseract_pass_agreement": 0.968444,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 478,
+      "final_machine_readable_characters": 478,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 110,
+      "source_id": "book_0109",
+      "book_page": 109,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.5651,
+      "tesseract_pass_agreement": 0.970522,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 457,
+      "final_machine_readable_characters": 457,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 111,
+      "source_id": "book_0110",
+      "book_page": 110,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.3642,
+      "tesseract_pass_agreement": 0.957563,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 480,
+      "final_machine_readable_characters": 480,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 112,
+      "source_id": "book_0111",
+      "book_page": 111,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 83.5667,
+      "tesseract_pass_agreement": 0.958791,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 388,
+      "final_machine_readable_characters": 388,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 113,
+      "source_id": "book_0112",
+      "book_page": 112,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 85.0768,
+      "tesseract_pass_agreement": 0.924503,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 396,
+      "final_machine_readable_characters": 397,
+      "machine_to_final_compact_similarity": 0.918775,
+      "paddle_audited_lines": 14,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 114,
+      "source_id": "book_0113",
+      "book_page": 113,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.6426,
+      "tesseract_pass_agreement": 0.961464,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 525,
+      "final_machine_readable_characters": 525,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 115,
+      "source_id": "book_0114",
+      "book_page": 114,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 91.5425,
+      "tesseract_pass_agreement": 0.980952,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 438,
+      "final_machine_readable_characters": 438,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 116,
+      "source_id": "book_0115",
+      "book_page": 115,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.3217,
+      "tesseract_pass_agreement": 0.95037,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 483,
+      "final_machine_readable_characters": 483,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 117,
+      "source_id": "book_0116",
+      "book_page": 116,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.5805,
+      "tesseract_pass_agreement": 0.976596,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 493,
+      "final_machine_readable_characters": 493,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 118,
+      "source_id": "book_0117",
+      "book_page": 117,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.8588,
+      "tesseract_pass_agreement": 0.956056,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 478,
+      "final_machine_readable_characters": 478,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 119,
+      "source_id": "book_0118",
+      "book_page": 118,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.514,
+      "tesseract_pass_agreement": 0.959157,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 408,
+      "final_machine_readable_characters": 408,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 120,
+      "source_id": "book_0119",
+      "book_page": 119,
+      "content_type": "illustration",
+      "review_status": "checked_visual",
+      "selected_tesseract_confidence": 27.6943,
+      "tesseract_pass_agreement": 0.275,
+      "audit_flags": [
+        "fixed_image_page",
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 132,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 0.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 17
+    },
+    {
+      "reading_order": 121,
+      "source_id": "book_0120",
+      "book_page": 120,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.0848,
+      "tesseract_pass_agreement": 0.974529,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 471,
+      "final_machine_readable_characters": 471,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 122,
+      "source_id": "book_0121",
+      "book_page": 121,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.7891,
+      "tesseract_pass_agreement": 0.960078,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 523,
+      "final_machine_readable_characters": 523,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 123,
+      "source_id": "book_0122",
+      "book_page": 122,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 82.2243,
+      "tesseract_pass_agreement": 0.942446,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 438,
+      "final_machine_readable_characters": 438,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 124,
+      "source_id": "book_0123",
+      "book_page": 123,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.2734,
+      "tesseract_pass_agreement": 0.957688,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 492,
+      "final_machine_readable_characters": 492,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 125,
+      "source_id": "book_0124",
+      "book_page": 124,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 91.2846,
+      "tesseract_pass_agreement": 0.969617,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 400,
+      "final_machine_readable_characters": 400,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 6
+    },
+    {
+      "reading_order": 126,
+      "source_id": "book_0125",
+      "book_page": 125,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.9358,
+      "tesseract_pass_agreement": 0.952164,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 448,
+      "final_machine_readable_characters": 448,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 127,
+      "source_id": "book_0126",
+      "book_page": 126,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.8298,
+      "tesseract_pass_agreement": 0.980229,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 502,
+      "final_machine_readable_characters": 502,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 128,
+      "source_id": "book_0127",
+      "book_page": 127,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.6061,
+      "tesseract_pass_agreement": 0.947771,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 398,
+      "final_machine_readable_characters": 398,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 129,
+      "source_id": "book_0128",
+      "book_page": 128,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.2891,
+      "tesseract_pass_agreement": 0.949153,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 437,
+      "final_machine_readable_characters": 437,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 130,
+      "source_id": "book_0129",
+      "book_page": 129,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.6974,
+      "tesseract_pass_agreement": 0.958932,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 493,
+      "final_machine_readable_characters": 493,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 131,
+      "source_id": "book_0130",
+      "book_page": 130,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.8274,
+      "tesseract_pass_agreement": 0.967405,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 404,
+      "final_machine_readable_characters": 404,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 132,
+      "source_id": "book_0131",
+      "book_page": 131,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.0083,
+      "tesseract_pass_agreement": 0.964356,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 511,
+      "final_machine_readable_characters": 511,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 133,
+      "source_id": "book_0132",
+      "book_page": 132,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.5428,
+      "tesseract_pass_agreement": 0.966667,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 478,
+      "final_machine_readable_characters": 478,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 134,
+      "source_id": "book_0133",
+      "book_page": 133,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 82.8402,
+      "tesseract_pass_agreement": 0.94032,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 353,
+      "final_machine_readable_characters": 353,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 135,
+      "source_id": "book_0134",
+      "book_page": 134,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.5554,
+      "tesseract_pass_agreement": 0.958611,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 394,
+      "final_machine_readable_characters": 394,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 136,
+      "source_id": "book_0135",
+      "book_page": 135,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.6452,
+      "tesseract_pass_agreement": 0.967033,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 467,
+      "final_machine_readable_characters": 467,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 137,
+      "source_id": "book_0136",
+      "book_page": 136,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.4144,
+      "tesseract_pass_agreement": 0.962751,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 374,
+      "final_machine_readable_characters": 374,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 138,
+      "source_id": "book_0137",
+      "book_page": 137,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.4711,
+      "tesseract_pass_agreement": 0.959327,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 364,
+      "final_machine_readable_characters": 364,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 139,
+      "source_id": "book_0138",
+      "book_page": 138,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.602,
+      "tesseract_pass_agreement": 0.965952,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 422,
+      "final_machine_readable_characters": 422,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 140,
+      "source_id": "book_0139",
+      "book_page": 139,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.4715,
+      "tesseract_pass_agreement": 0.96208,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 475,
+      "final_machine_readable_characters": 475,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 141,
+      "source_id": "book_0140",
+      "book_page": 140,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.9644,
+      "tesseract_pass_agreement": 0.970667,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 393,
+      "final_machine_readable_characters": 393,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 6
+    },
+    {
+      "reading_order": 142,
+      "source_id": "book_0141",
+      "book_page": 141,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.3289,
+      "tesseract_pass_agreement": 0.945382,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 508,
+      "final_machine_readable_characters": 508,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 143,
+      "source_id": "book_0142",
+      "book_page": 142,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.5871,
+      "tesseract_pass_agreement": 0.963801,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 466,
+      "final_machine_readable_characters": 466,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 144,
+      "source_id": "book_0143",
+      "book_page": 143,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.6489,
+      "tesseract_pass_agreement": 0.95599,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 419,
+      "final_machine_readable_characters": 419,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 145,
+      "source_id": "book_0144",
+      "book_page": 144,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.6514,
+      "tesseract_pass_agreement": 0.964451,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 347,
+      "final_machine_readable_characters": 347,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 146,
+      "source_id": "book_0145",
+      "book_page": 145,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.1591,
+      "tesseract_pass_agreement": 0.952284,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 506,
+      "final_machine_readable_characters": 506,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 147,
+      "source_id": "book_0146",
+      "book_page": 146,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.2678,
+      "tesseract_pass_agreement": 0.978684,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 556,
+      "final_machine_readable_characters": 556,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 148,
+      "source_id": "book_0147",
+      "book_page": 147,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.2447,
+      "tesseract_pass_agreement": 0.956167,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 499,
+      "final_machine_readable_characters": 499,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 149,
+      "source_id": "book_0148",
+      "book_page": 148,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.8672,
+      "tesseract_pass_agreement": 0.965241,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 393,
+      "final_machine_readable_characters": 393,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 150,
+      "source_id": "book_0149",
+      "book_page": 149,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 83.8952,
+      "tesseract_pass_agreement": 0.940299,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 483,
+      "final_machine_readable_characters": 483,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 151,
+      "source_id": "book_0150",
+      "book_page": 150,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.423,
+      "tesseract_pass_agreement": 0.972414,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 459,
+      "final_machine_readable_characters": 459,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 5
+    },
+    {
+      "reading_order": 152,
+      "source_id": "book_0151",
+      "book_page": 151,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.935,
+      "tesseract_pass_agreement": 0.964324,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 471,
+      "final_machine_readable_characters": 471,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 153,
+      "source_id": "book_0152",
+      "book_page": 152,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.5246,
+      "tesseract_pass_agreement": 0.974026,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 487,
+      "final_machine_readable_characters": 487,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 154,
+      "source_id": "book_0153",
+      "book_page": 153,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.5389,
+      "tesseract_pass_agreement": 0.969262,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 500,
+      "final_machine_readable_characters": 500,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 155,
+      "source_id": "book_0154",
+      "book_page": 154,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.5133,
+      "tesseract_pass_agreement": 0.970944,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 437,
+      "final_machine_readable_characters": 437,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 4
+    },
+    {
+      "reading_order": 156,
+      "source_id": "book_0155",
+      "book_page": 155,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 81.9736,
+      "tesseract_pass_agreement": 0.952503,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 387,
+      "final_machine_readable_characters": 387,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 14,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 157,
+      "source_id": "book_0156",
+      "book_page": 156,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.461,
+      "tesseract_pass_agreement": 0.943038,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 489,
+      "final_machine_readable_characters": 489,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 158,
+      "source_id": "book_0157",
+      "book_page": 157,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 82.7728,
+      "tesseract_pass_agreement": 0.931937,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 193,
+      "final_machine_readable_characters": 191,
+      "machine_to_final_compact_similarity": 0.944134,
+      "paddle_audited_lines": 9,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 159,
+      "source_id": "book_0158",
+      "book_page": 158,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 86.1566,
+      "tesseract_pass_agreement": 0.959248,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 501,
+      "final_machine_readable_characters": 487,
+      "machine_to_final_compact_similarity": 0.932632,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 160,
+      "source_id": "book_0159",
+      "book_page": 159,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.7838,
+      "tesseract_pass_agreement": 0.977948,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 530,
+      "final_machine_readable_characters": 530,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 161,
+      "source_id": "book_0160",
+      "book_page": 160,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 91.4993,
+      "tesseract_pass_agreement": 0.977816,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 587,
+      "final_machine_readable_characters": 587,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 3
+    },
+    {
+      "reading_order": 162,
+      "source_id": "book_0161",
+      "book_page": 161,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.8445,
+      "tesseract_pass_agreement": 0.972056,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 508,
+      "final_machine_readable_characters": 508,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 163,
+      "source_id": "book_0162",
+      "book_page": 162,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.1443,
+      "tesseract_pass_agreement": 0.967405,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 408,
+      "final_machine_readable_characters": 408,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 164,
+      "source_id": "book_0163",
+      "book_page": 163,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.323,
+      "tesseract_pass_agreement": 0.98005,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 406,
+      "final_machine_readable_characters": 406,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 165,
+      "source_id": "book_0164",
+      "book_page": 164,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.7765,
+      "tesseract_pass_agreement": 0.964377,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 420,
+      "final_machine_readable_characters": 420,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 166,
+      "source_id": "book_0165",
+      "book_page": 165,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.6345,
+      "tesseract_pass_agreement": 0.9701,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 458,
+      "final_machine_readable_characters": 458,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 167,
+      "source_id": "book_0166",
+      "book_page": 166,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 91.4071,
+      "tesseract_pass_agreement": 0.982358,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 555,
+      "final_machine_readable_characters": 555,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 168,
+      "source_id": "book_0167",
+      "book_page": 167,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.2947,
+      "tesseract_pass_agreement": 0.958775,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 438,
+      "final_machine_readable_characters": 438,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 169,
+      "source_id": "book_0168",
+      "book_page": 168,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.8729,
+      "tesseract_pass_agreement": 0.956781,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 362,
+      "final_machine_readable_characters": 362,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 170,
+      "source_id": "book_0169",
+      "book_page": 169,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.7337,
+      "tesseract_pass_agreement": 0.958773,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 534,
+      "final_machine_readable_characters": 534,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 171,
+      "source_id": "book_0170",
+      "book_page": 170,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.496,
+      "tesseract_pass_agreement": 0.983888,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 485,
+      "final_machine_readable_characters": 485,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 172,
+      "source_id": "book_0171",
+      "book_page": 171,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.3078,
+      "tesseract_pass_agreement": 0.944862,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 414,
+      "final_machine_readable_characters": 414,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 173,
+      "source_id": "book_0172",
+      "book_page": 172,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.7752,
+      "tesseract_pass_agreement": 0.962874,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 442,
+      "final_machine_readable_characters": 442,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 174,
+      "source_id": "book_0173",
+      "book_page": 173,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.5216,
+      "tesseract_pass_agreement": 0.968685,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 491,
+      "final_machine_readable_characters": 491,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 175,
+      "source_id": "book_0174",
+      "book_page": 174,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.0036,
+      "tesseract_pass_agreement": 0.965449,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 528,
+      "final_machine_readable_characters": 528,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 176,
+      "source_id": "book_0175",
+      "book_page": 175,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 83.6984,
+      "tesseract_pass_agreement": 0.933526,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 355,
+      "final_machine_readable_characters": 355,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 177,
+      "source_id": "book_0176",
+      "book_page": 176,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.8335,
+      "tesseract_pass_agreement": 0.960981,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 459,
+      "final_machine_readable_characters": 459,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 178,
+      "source_id": "book_0177",
+      "book_page": 177,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.3068,
+      "tesseract_pass_agreement": 0.954455,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 512,
+      "final_machine_readable_characters": 512,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 179,
+      "source_id": "book_0178",
+      "book_page": 178,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.7859,
+      "tesseract_pass_agreement": 0.952381,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 527,
+      "final_machine_readable_characters": 527,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 180,
+      "source_id": "book_0179",
+      "book_page": 179,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.7112,
+      "tesseract_pass_agreement": 0.957265,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 424,
+      "final_machine_readable_characters": 424,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 181,
+      "source_id": "book_0180",
+      "book_page": 180,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.3202,
+      "tesseract_pass_agreement": 0.964753,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 514,
+      "final_machine_readable_characters": 514,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 182,
+      "source_id": "book_0181",
+      "book_page": 181,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.4228,
+      "tesseract_pass_agreement": 0.956797,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 483,
+      "final_machine_readable_characters": 483,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 183,
+      "source_id": "book_0182",
+      "book_page": 182,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 82.4038,
+      "tesseract_pass_agreement": 0.946809,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 396,
+      "final_machine_readable_characters": 396,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 184,
+      "source_id": "book_0183",
+      "book_page": 183,
+      "content_type": "illustration",
+      "review_status": "checked_visual",
+      "selected_tesseract_confidence": 20.892,
+      "tesseract_pass_agreement": 0.144756,
+      "audit_flags": [
+        "fixed_image_page",
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 352,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 0.0,
+      "paddle_audited_lines": 36,
+      "flagged_or_disputed_lines": 36
+    },
+    {
+      "reading_order": 185,
+      "source_id": "book_0184",
+      "book_page": 184,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.233,
+      "tesseract_pass_agreement": 0.977461,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 440,
+      "final_machine_readable_characters": 440,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 186,
+      "source_id": "book_0185",
+      "book_page": 185,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.1513,
+      "tesseract_pass_agreement": 0.954545,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 383,
+      "final_machine_readable_characters": 383,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 187,
+      "source_id": "book_0186",
+      "book_page": 186,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.3992,
+      "tesseract_pass_agreement": 0.974249,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 491,
+      "final_machine_readable_characters": 491,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 188,
+      "source_id": "book_0187",
+      "book_page": 187,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.4617,
+      "tesseract_pass_agreement": 0.961637,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 406,
+      "final_machine_readable_characters": 406,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 189,
+      "source_id": "book_0188",
+      "book_page": 188,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.0136,
+      "tesseract_pass_agreement": 0.969617,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 406,
+      "final_machine_readable_characters": 406,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 190,
+      "source_id": "book_0189",
+      "book_page": 189,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.2335,
+      "tesseract_pass_agreement": 0.963064,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 376,
+      "final_machine_readable_characters": 376,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 191,
+      "source_id": "book_0190",
+      "book_page": 190,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.2379,
+      "tesseract_pass_agreement": 0.950777,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 413,
+      "final_machine_readable_characters": 413,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 192,
+      "source_id": "book_0191",
+      "book_page": 191,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.3519,
+      "tesseract_pass_agreement": 0.963592,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 423,
+      "final_machine_readable_characters": 423,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 18,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 193,
+      "source_id": "book_0192",
+      "book_page": 192,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.1952,
+      "tesseract_pass_agreement": 0.980019,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 541,
+      "final_machine_readable_characters": 541,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 194,
+      "source_id": "book_0193",
+      "book_page": 193,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.1541,
+      "tesseract_pass_agreement": 0.965217,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 480,
+      "final_machine_readable_characters": 480,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 195,
+      "source_id": "book_0194",
+      "book_page": 194,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.8191,
+      "tesseract_pass_agreement": 0.97546,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 507,
+      "final_machine_readable_characters": 507,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 196,
+      "source_id": "book_0195",
+      "book_page": 195,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.6669,
+      "tesseract_pass_agreement": 0.965243,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 515,
+      "final_machine_readable_characters": 515,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 197,
+      "source_id": "book_0196",
+      "book_page": 196,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.1682,
+      "tesseract_pass_agreement": 0.965608,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 404,
+      "final_machine_readable_characters": 404,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 198,
+      "source_id": "book_0197",
+      "book_page": 197,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.6791,
+      "tesseract_pass_agreement": 0.974296,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 423,
+      "final_machine_readable_characters": 423,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 199,
+      "source_id": "book_0198",
+      "book_page": 198,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.9647,
+      "tesseract_pass_agreement": 0.958763,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 103,
+      "final_machine_readable_characters": 103,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 4,
+      "flagged_or_disputed_lines": 2
+    },
+    {
+      "reading_order": 200,
+      "source_id": "book_0199",
+      "book_page": 199,
+      "content_type": "blank",
+      "review_status": "checked_visual",
+      "selected_tesseract_confidence": 0.0,
+      "tesseract_pass_agreement": 1.0,
+      "audit_flags": [
+        "fixed_image_page",
+        "low_page_confidence"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 201,
+      "source_id": "book_0200",
+      "book_page": 200,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 84.8406,
+      "tesseract_pass_agreement": 0.934555,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "low_page_confidence",
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 406,
+      "final_machine_readable_characters": 397,
+      "machine_to_final_compact_similarity": 0.911958,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 202,
+      "source_id": "book_0201",
+      "book_page": 201,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.6973,
+      "tesseract_pass_agreement": 0.95534,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 523,
+      "final_machine_readable_characters": 523,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 203,
+      "source_id": "book_0202",
+      "book_page": 202,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.9058,
+      "tesseract_pass_agreement": 0.97913,
+      "audit_flags": [
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 586,
+      "final_machine_readable_characters": 586,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 204,
+      "source_id": "book_0203",
+      "book_page": 203,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.1336,
+      "tesseract_pass_agreement": 0.960377,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 535,
+      "final_machine_readable_characters": 535,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 7
+    },
+    {
+      "reading_order": 205,
+      "source_id": "book_0204",
+      "book_page": 204,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.0488,
+      "tesseract_pass_agreement": 0.96732,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 480,
+      "final_machine_readable_characters": 480,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 206,
+      "source_id": "book_0205",
+      "book_page": 205,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.1713,
+      "tesseract_pass_agreement": 0.959054,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 560,
+      "final_machine_readable_characters": 560,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 207,
+      "source_id": "book_0206",
+      "book_page": 206,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.4534,
+      "tesseract_pass_agreement": 0.970896,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 447,
+      "final_machine_readable_characters": 447,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 208,
+      "source_id": "book_0207",
+      "book_page": 207,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.1225,
+      "tesseract_pass_agreement": 0.963111,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 509,
+      "final_machine_readable_characters": 509,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 209,
+      "source_id": "book_0208",
+      "book_page": 208,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.8545,
+      "tesseract_pass_agreement": 0.976378,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 387,
+      "final_machine_readable_characters": 387,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 12,
+      "flagged_or_disputed_lines": 5
+    },
+    {
+      "reading_order": 210,
+      "source_id": "book_0209",
+      "book_page": 209,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.6553,
+      "tesseract_pass_agreement": 0.950213,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 364,
+      "final_machine_readable_characters": 364,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 211,
+      "source_id": "book_0210",
+      "book_page": 210,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.5556,
+      "tesseract_pass_agreement": 0.97589,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 458,
+      "final_machine_readable_characters": 458,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 212,
+      "source_id": "book_0211",
+      "book_page": 211,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.569,
+      "tesseract_pass_agreement": 0.962025,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 478,
+      "final_machine_readable_characters": 478,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 213,
+      "source_id": "book_0212",
+      "book_page": 212,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.1241,
+      "tesseract_pass_agreement": 0.973991,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 574,
+      "final_machine_readable_characters": 574,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 214,
+      "source_id": "book_0213",
+      "book_page": 213,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.4793,
+      "tesseract_pass_agreement": 0.953312,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 473,
+      "final_machine_readable_characters": 473,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 215,
+      "source_id": "book_0214",
+      "book_page": 214,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.2103,
+      "tesseract_pass_agreement": 0.961219,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 377,
+      "final_machine_readable_characters": 377,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 216,
+      "source_id": "book_0215",
+      "book_page": 215,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.7678,
+      "tesseract_pass_agreement": 0.959716,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 433,
+      "final_machine_readable_characters": 433,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 217,
+      "source_id": "book_0216",
+      "book_page": 216,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.628,
+      "tesseract_pass_agreement": 0.968661,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 543,
+      "final_machine_readable_characters": 543,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 218,
+      "source_id": "book_0217",
+      "book_page": 217,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.6664,
+      "tesseract_pass_agreement": 0.958555,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 483,
+      "final_machine_readable_characters": 483,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 219,
+      "source_id": "book_0218",
+      "book_page": 218,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.2623,
+      "tesseract_pass_agreement": 0.965197,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 450,
+      "final_machine_readable_characters": 450,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 220,
+      "source_id": "book_0219",
+      "book_page": 219,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.4676,
+      "tesseract_pass_agreement": 0.96143,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 543,
+      "final_machine_readable_characters": 543,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 221,
+      "source_id": "book_0220",
+      "book_page": 220,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.5396,
+      "tesseract_pass_agreement": 0.973931,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 496,
+      "final_machine_readable_characters": 496,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 222,
+      "source_id": "book_0221",
+      "book_page": 221,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.0112,
+      "tesseract_pass_agreement": 0.957377,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 469,
+      "final_machine_readable_characters": 469,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 223,
+      "source_id": "book_0222",
+      "book_page": 222,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.7861,
+      "tesseract_pass_agreement": 0.957547,
+      "audit_flags": [
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 439,
+      "final_machine_readable_characters": 439,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 224,
+      "source_id": "book_0223",
+      "book_page": 223,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.1057,
+      "tesseract_pass_agreement": 0.961183,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 556,
+      "final_machine_readable_characters": 556,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 225,
+      "source_id": "book_0224",
+      "book_page": 224,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.9274,
+      "tesseract_pass_agreement": 0.968581,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 478,
+      "final_machine_readable_characters": 478,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 226,
+      "source_id": "book_0225",
+      "book_page": 225,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.4536,
+      "tesseract_pass_agreement": 0.964176,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 498,
+      "final_machine_readable_characters": 498,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 227,
+      "source_id": "book_0226",
+      "book_page": 226,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.379,
+      "tesseract_pass_agreement": 0.960651,
+      "audit_flags": [
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 384,
+      "final_machine_readable_characters": 384,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 12,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 228,
+      "source_id": "book_0227",
+      "book_page": 227,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.6839,
+      "tesseract_pass_agreement": 0.957746,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 436,
+      "final_machine_readable_characters": 436,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 229,
+      "source_id": "book_0228",
+      "book_page": 228,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.2421,
+      "tesseract_pass_agreement": 0.972313,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 627,
+      "final_machine_readable_characters": 627,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 230,
+      "source_id": "book_0229",
+      "book_page": 229,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.5337,
+      "tesseract_pass_agreement": 0.964583,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 484,
+      "final_machine_readable_characters": 484,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 231,
+      "source_id": "book_0230",
+      "book_page": 230,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.8526,
+      "tesseract_pass_agreement": 0.96695,
+      "audit_flags": [
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 551,
+      "final_machine_readable_characters": 551,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 232,
+      "source_id": "book_0231",
+      "book_page": 231,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.7994,
+      "tesseract_pass_agreement": 0.951754,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 469,
+      "final_machine_readable_characters": 469,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 233,
+      "source_id": "book_0232",
+      "book_page": 232,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.4632,
+      "tesseract_pass_agreement": 0.959792,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 409,
+      "final_machine_readable_characters": 409,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 14,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 234,
+      "source_id": "book_0233",
+      "book_page": 233,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.3483,
+      "tesseract_pass_agreement": 0.950578,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 491,
+      "final_machine_readable_characters": 491,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 235,
+      "source_id": "book_0234",
+      "book_page": 234,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.2109,
+      "tesseract_pass_agreement": 0.96882,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 472,
+      "final_machine_readable_characters": 472,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 236,
+      "source_id": "book_0235",
+      "book_page": 235,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 83.5794,
+      "tesseract_pass_agreement": 0.942149,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 435,
+      "final_machine_readable_characters": 435,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 237,
+      "source_id": "book_0236",
+      "book_page": 236,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 80.3622,
+      "tesseract_pass_agreement": 0.936627,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 486,
+      "final_machine_readable_characters": 486,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 16
+    },
+    {
+      "reading_order": 238,
+      "source_id": "book_0237",
+      "book_page": 237,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.2636,
+      "tesseract_pass_agreement": 0.971888,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 503,
+      "final_machine_readable_characters": 503,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 239,
+      "source_id": "book_0238",
+      "book_page": 238,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.4,
+      "tesseract_pass_agreement": 0.954386,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 297,
+      "final_machine_readable_characters": 297,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 11,
+      "flagged_or_disputed_lines": 8
+    },
+    {
+      "reading_order": 240,
+      "source_id": "book_0239",
+      "book_page": 239,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 69.664,
+      "tesseract_pass_agreement": 0.666667,
+      "audit_flags": [
+        "low_page_confidence",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 17,
+      "final_machine_readable_characters": 40,
+      "machine_to_final_compact_similarity": 0.603774,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 241,
+      "source_id": "book_0240",
+      "book_page": 240,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 90.0315,
+      "tesseract_pass_agreement": 0.972586,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "ocr_engines_disagree"
+      ],
+      "raw_machine_characters": 434,
+      "final_machine_readable_characters": 433,
+      "machine_to_final_compact_similarity": 0.963855,
+      "paddle_audited_lines": 14,
+      "flagged_or_disputed_lines": 5
+    },
+    {
+      "reading_order": 242,
+      "source_id": "book_0241",
+      "book_page": 241,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.0494,
+      "tesseract_pass_agreement": 0.969644,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 584,
+      "final_machine_readable_characters": 584,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 243,
+      "source_id": "book_0242",
+      "book_page": 242,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.0327,
+      "tesseract_pass_agreement": 0.93904,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 412,
+      "final_machine_readable_characters": 412,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 244,
+      "source_id": "book_0243",
+      "book_page": 243,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.5838,
+      "tesseract_pass_agreement": 0.973577,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 509,
+      "final_machine_readable_characters": 509,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 245,
+      "source_id": "book_0244",
+      "book_page": 244,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.6737,
+      "tesseract_pass_agreement": 0.958929,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 586,
+      "final_machine_readable_characters": 586,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 246,
+      "source_id": "book_0245",
+      "book_page": 245,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.7341,
+      "tesseract_pass_agreement": 0.970833,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 492,
+      "final_machine_readable_characters": 492,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 247,
+      "source_id": "book_0246",
+      "book_page": 246,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.4748,
+      "tesseract_pass_agreement": 0.977297,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 483,
+      "final_machine_readable_characters": 483,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 248,
+      "source_id": "book_0247",
+      "book_page": 247,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.1863,
+      "tesseract_pass_agreement": 0.964945,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 558,
+      "final_machine_readable_characters": 558,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 249,
+      "source_id": "book_0248",
+      "book_page": 248,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.956,
+      "tesseract_pass_agreement": 0.968921,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 565,
+      "final_machine_readable_characters": 565,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 250,
+      "source_id": "book_0249",
+      "book_page": 249,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.3765,
+      "tesseract_pass_agreement": 0.96008,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 518,
+      "final_machine_readable_characters": 518,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 251,
+      "source_id": "book_0250",
+      "book_page": 250,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.2552,
+      "tesseract_pass_agreement": 0.964467,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 510,
+      "final_machine_readable_characters": 510,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 252,
+      "source_id": "book_0251",
+      "book_page": 251,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.4296,
+      "tesseract_pass_agreement": 0.965161,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 397,
+      "final_machine_readable_characters": 397,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 13,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 253,
+      "source_id": "book_0252",
+      "book_page": 252,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.5309,
+      "tesseract_pass_agreement": 0.977376,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 456,
+      "final_machine_readable_characters": 456,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 254,
+      "source_id": "book_0253",
+      "book_page": 253,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.2407,
+      "tesseract_pass_agreement": 0.973469,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 505,
+      "final_machine_readable_characters": 505,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 255,
+      "source_id": "book_0254",
+      "book_page": 254,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.883,
+      "tesseract_pass_agreement": 0.965585,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 526,
+      "final_machine_readable_characters": 526,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 256,
+      "source_id": "book_0255",
+      "book_page": 255,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.1226,
+      "tesseract_pass_agreement": 0.967352,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 429,
+      "final_machine_readable_characters": 429,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 257,
+      "source_id": "book_0256",
+      "book_page": 256,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.4581,
+      "tesseract_pass_agreement": 0.967914,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 579,
+      "final_machine_readable_characters": 579,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 258,
+      "source_id": "book_0257",
+      "book_page": 257,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.9037,
+      "tesseract_pass_agreement": 0.960073,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 568,
+      "final_machine_readable_characters": 568,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 259,
+      "source_id": "book_0258",
+      "book_page": 258,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.6329,
+      "tesseract_pass_agreement": 0.951389,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 453,
+      "final_machine_readable_characters": 453,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 260,
+      "source_id": "book_0259",
+      "book_page": 259,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.1479,
+      "tesseract_pass_agreement": 0.963918,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 604,
+      "final_machine_readable_characters": 604,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 261,
+      "source_id": "book_0260",
+      "book_page": 260,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.3305,
+      "tesseract_pass_agreement": 0.96732,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 555,
+      "final_machine_readable_characters": 555,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 262,
+      "source_id": "book_0261",
+      "book_page": 261,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.1132,
+      "tesseract_pass_agreement": 0.951417,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 508,
+      "final_machine_readable_characters": 508,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 263,
+      "source_id": "book_0262",
+      "book_page": 262,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.2933,
+      "tesseract_pass_agreement": 0.972973,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 487,
+      "final_machine_readable_characters": 487,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 264,
+      "source_id": "book_0263",
+      "book_page": 263,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.5266,
+      "tesseract_pass_agreement": 0.967354,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 595,
+      "final_machine_readable_characters": 595,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 265,
+      "source_id": "book_0264",
+      "book_page": 264,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.6197,
+      "tesseract_pass_agreement": 0.950754,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 524,
+      "final_machine_readable_characters": 524,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 266,
+      "source_id": "book_0265",
+      "book_page": 265,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.1251,
+      "tesseract_pass_agreement": 0.969641,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 556,
+      "final_machine_readable_characters": 556,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 267,
+      "source_id": "book_0266",
+      "book_page": 266,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.2471,
+      "tesseract_pass_agreement": 0.959302,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 534,
+      "final_machine_readable_characters": 534,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 268,
+      "source_id": "book_0267",
+      "book_page": 267,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.5449,
+      "tesseract_pass_agreement": 0.955056,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 544,
+      "final_machine_readable_characters": 544,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 269,
+      "source_id": "book_0268",
+      "book_page": 268,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.0533,
+      "tesseract_pass_agreement": 0.960526,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 538,
+      "final_machine_readable_characters": 538,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 12
+    },
+    {
+      "reading_order": 270,
+      "source_id": "book_0269",
+      "book_page": 269,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 82.1691,
+      "tesseract_pass_agreement": 0.952275,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 470,
+      "final_machine_readable_characters": 470,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 16
+    },
+    {
+      "reading_order": 271,
+      "source_id": "book_0270",
+      "book_page": 270,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.9593,
+      "tesseract_pass_agreement": 0.986733,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 627,
+      "final_machine_readable_characters": 627,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 9
+    },
+    {
+      "reading_order": 272,
+      "source_id": "book_0271",
+      "book_page": 271,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.9847,
+      "tesseract_pass_agreement": 0.966223,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 503,
+      "final_machine_readable_characters": 503,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 273,
+      "source_id": "book_0272",
+      "book_page": 272,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.074,
+      "tesseract_pass_agreement": 0.983635,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 603,
+      "final_machine_readable_characters": 603,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 274,
+      "source_id": "book_0273",
+      "book_page": 273,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.3695,
+      "tesseract_pass_agreement": 0.967033,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 604,
+      "final_machine_readable_characters": 604,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 275,
+      "source_id": "book_0274",
+      "book_page": 274,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.718,
+      "tesseract_pass_agreement": 0.955535,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 554,
+      "final_machine_readable_characters": 554,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 276,
+      "source_id": "book_0275",
+      "book_page": 275,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.4557,
+      "tesseract_pass_agreement": 0.959693,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 532,
+      "final_machine_readable_characters": 532,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 277,
+      "source_id": "book_0276",
+      "book_page": 276,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.285,
+      "tesseract_pass_agreement": 0.972355,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 547,
+      "final_machine_readable_characters": 547,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 278,
+      "source_id": "book_0277",
+      "book_page": 277,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.7019,
+      "tesseract_pass_agreement": 0.968076,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 591,
+      "final_machine_readable_characters": 591,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 279,
+      "source_id": "book_0278",
+      "book_page": 278,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.0473,
+      "tesseract_pass_agreement": 0.948546,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 465,
+      "final_machine_readable_characters": 465,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 280,
+      "source_id": "book_0279",
+      "book_page": 279,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.6257,
+      "tesseract_pass_agreement": 0.964286,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 540,
+      "final_machine_readable_characters": 540,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 15,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 281,
+      "source_id": "book_0280",
+      "book_page": 280,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 87.0907,
+      "tesseract_pass_agreement": 0.961759,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 545,
+      "final_machine_readable_characters": 545,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 282,
+      "source_id": "book_0281",
+      "book_page": 281,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.4056,
+      "tesseract_pass_agreement": 0.973404,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 581,
+      "final_machine_readable_characters": 581,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 283,
+      "source_id": "book_0282",
+      "book_page": 282,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.2786,
+      "tesseract_pass_agreement": 0.960847,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 498,
+      "final_machine_readable_characters": 498,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 16
+    },
+    {
+      "reading_order": 284,
+      "source_id": "book_0283",
+      "book_page": 283,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 84.9384,
+      "tesseract_pass_agreement": 0.972332,
+      "audit_flags": [
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 519,
+      "final_machine_readable_characters": 519,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 285,
+      "source_id": "book_0284",
+      "book_page": 284,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 86.9162,
+      "tesseract_pass_agreement": 0.965844,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 545,
+      "final_machine_readable_characters": 545,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 15
+    },
+    {
+      "reading_order": 286,
+      "source_id": "book_0285",
+      "book_page": 285,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.9001,
+      "tesseract_pass_agreement": 0.975221,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 584,
+      "final_machine_readable_characters": 584,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 14
+    },
+    {
+      "reading_order": 287,
+      "source_id": "book_0286",
+      "book_page": 286,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.5559,
+      "tesseract_pass_agreement": 0.957597,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 588,
+      "final_machine_readable_characters": 588,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 13
+    },
+    {
+      "reading_order": 288,
+      "source_id": "book_0287",
+      "book_page": 287,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 85.5761,
+      "tesseract_pass_agreement": 0.941849,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 540,
+      "final_machine_readable_characters": 540,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 17,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 289,
+      "source_id": "book_0288",
+      "book_page": 288,
+      "content_type": "mixed_layout",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 29.9992,
+      "tesseract_pass_agreement": 0.4637,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "low_page_confidence",
+        "ocr_engines_disagree",
+        "possible_running_header_in_text",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 269,
+      "final_machine_readable_characters": 465,
+      "machine_to_final_compact_similarity": 0.067797,
+      "paddle_audited_lines": 32,
+      "flagged_or_disputed_lines": 32
+    },
+    {
+      "reading_order": 290,
+      "source_id": "book_0289",
+      "book_page": 289,
+      "content_type": "mixed_layout",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 39.5717,
+      "tesseract_pass_agreement": 0.381295,
+      "audit_flags": [
+        "low_page_confidence",
+        "possible_running_header_in_text",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 182,
+      "final_machine_readable_characters": 236,
+      "machine_to_final_compact_similarity": 0.055249,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 291,
+      "source_id": "book_0290",
+      "book_page": 290,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.8138,
+      "tesseract_pass_agreement": 0.979548,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 480,
+      "final_machine_readable_characters": 480,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 292,
+      "source_id": "book_0291",
+      "book_page": 291,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 90.6737,
+      "tesseract_pass_agreement": 0.985728,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 538,
+      "final_machine_readable_characters": 538,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 4
+    },
+    {
+      "reading_order": 293,
+      "source_id": "book_0292",
+      "book_page": 292,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.0566,
+      "tesseract_pass_agreement": 0.969697,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 66,
+      "final_machine_readable_characters": 66,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 2,
+      "flagged_or_disputed_lines": 2
+    },
+    {
+      "reading_order": 294,
+      "source_id": "book_0293",
+      "book_page": 293,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 89.3831,
+      "tesseract_pass_agreement": 0.967146,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 495,
+      "final_machine_readable_characters": 495,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 16,
+      "flagged_or_disputed_lines": 11
+    },
+    {
+      "reading_order": 295,
+      "source_id": "book_0294",
+      "book_page": 294,
+      "content_type": "text",
+      "review_status": "unreviewed_machine_ocr",
+      "selected_tesseract_confidence": 88.9145,
+      "tesseract_pass_agreement": 0.979525,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 617,
+      "final_machine_readable_characters": 617,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 18,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 296,
+      "source_id": "book_0295",
+      "book_page": 295,
+      "content_type": "text",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 90.1058,
+      "tesseract_pass_agreement": 0.973139,
+      "audit_flags": [
+        "ocr_engines_disagree",
+        "possible_running_header_in_text"
+      ],
+      "raw_machine_characters": 666,
+      "final_machine_readable_characters": 638,
+      "machine_to_final_compact_similarity": 0.947036,
+      "paddle_audited_lines": 18,
+      "flagged_or_disputed_lines": 10
+    },
+    {
+      "reading_order": 297,
+      "source_id": "book_0296",
+      "book_page": 296,
+      "content_type": "mixed_layout",
+      "review_status": "human_reviewed_against_scan",
+      "selected_tesseract_confidence": 28.4188,
+      "tesseract_pass_agreement": 0.527778,
+      "audit_flags": [
+        "layout_requires_human_review",
+        "low_page_confidence",
+        "possible_running_header_in_text",
+        "tesseract_passes_disagree"
+      ],
+      "raw_machine_characters": 411,
+      "final_machine_readable_characters": 442,
+      "machine_to_final_compact_similarity": 0.034121,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 298,
+      "source_id": "jacket_001",
+      "book_page": null,
+      "content_type": "visual",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 299,
+      "source_id": "jacket_002",
+      "book_page": null,
+      "content_type": "visual",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 300,
+      "source_id": "jacket_003",
+      "book_page": null,
+      "content_type": "visual",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 301,
+      "source_id": "jacket_004",
+      "book_page": null,
+      "content_type": "visual",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 302,
+      "source_id": "jacket_006",
+      "book_page": null,
+      "content_type": "visual",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 303,
+      "source_id": "jacket_007",
+      "book_page": null,
+      "content_type": "visual",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 304,
+      "source_id": "jacket_008",
+      "book_page": null,
+      "content_type": "visual",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 305,
+      "source_id": "jacket_009",
+      "book_page": null,
+      "content_type": "visual",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    },
+    {
+      "reading_order": 306,
+      "source_id": "jacket_010",
+      "book_page": null,
+      "content_type": "visual",
+      "review_status": "visual_metadata_authored",
+      "selected_tesseract_confidence": null,
+      "tesseract_pass_agreement": null,
+      "audit_flags": [
+        "fixed_image_page",
+        "ocr_not_applicable"
+      ],
+      "raw_machine_characters": 0,
+      "final_machine_readable_characters": 0,
+      "machine_to_final_compact_similarity": 1.0,
+      "paddle_audited_lines": 0,
+      "flagged_or_disputed_lines": 0
+    }
+  ]
+}

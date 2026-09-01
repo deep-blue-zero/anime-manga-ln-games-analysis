@@ -1,0 +1,58 @@
+{
+  "series": "GKM",
+  "character": "Katsuragi Lilja / 葛城リーリヤ",
+  "artifact_scope": "Phase 3 textual character core",
+  "source_lock": {
+    "name": "GAKUMAS V2 Source Lock 1.0",
+    "commit": "00d150a069a3ffa723a1ff264752ba242024caad",
+    "revision": 32,
+    "generated": "2026-08-02T22:21:04Z"
+  },
+  "total_objects": 210,
+  "total_messages": 5791,
+  "families": {
+    "pstory": {
+      "objects": 46,
+      "messages": 886,
+      "series": {
+        "001": 31,
+        "002": 11,
+        "003": 4
+      }
+    },
+    "pevent": {
+      "objects": 83,
+      "messages": 1005
+    },
+    "cidol": {
+      "objects": 30,
+      "messages": 1331
+    },
+    "dear": {
+      "objects": 38,
+      "messages": 2529
+    },
+    "live": {
+      "objects": 8,
+      "messages": 15
+    },
+    "pgrowth": {
+      "objects": 3,
+      "messages": 12
+    },
+    "startup": {
+      "objects": 2,
+      "messages": 13
+    }
+  },
+  "p3_fragments": [
+    "adv_pstory_003_kllj_selection-failure-01",
+    "adv_pstory_003_kllj_selection-normal-02",
+    "adv_pstory_003_kllj_final-failure-01",
+    "adv_pstory_003_kllj_final-normal-02"
+  ],
+  "continuity_note": "The four Series-3 objects are conditional result fragments, not a complete additive P3 biography. Dear 021-037 is tracked separately as D-LILJA.",
+  "evidence_matrix_claims": 30,
+  "audiovisual_status": "pending; request/crosswalk artifact only",
+  "legacy_comparison": "V1 transcript used only for PRESERVE/STRENGTHEN/REVISE/OPEN claim transition analysis."
+}

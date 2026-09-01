@@ -1,0 +1,22 @@
+{
+  "shared_common": {
+    "sources": 53,
+    "messages": 550
+  },
+  "unit_story": {
+    "sources": 66,
+    "messages": 4525
+  },
+  "events_001_005": {
+    "sources": 27,
+    "messages": 1670
+  },
+  "promoted_exceptions": {
+    "sources": 26,
+    "messages": 70
+  },
+  "total": {
+    "sources": 172,
+    "messages": 6815
+  }
+}

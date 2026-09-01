@@ -1,0 +1,289 @@
+{
+  "series": "IMOSAE",
+  "source_set_id": "IMOSAE-JP-LN-RAW-1.0",
+  "visual_index_id": "IMOSAE-VISUAL-INDEX-1.0",
+  "generated": "2026-08-18",
+  "raster_assets": 666,
+  "non_gaiji_visual_assets": 562,
+  "gaiji_asset_files": 104,
+  "role_counts": {
+    "AFTERWORD_EXTERNAL_LINK_QR": 2,
+    "AUTHOR_AFTERWORD_ART": 14,
+    "AUTHOR_AFTERWORD_DOCUMENT": 5,
+    "COVER": 14,
+    "FRONT_CHARACTER_PROFILE": 14,
+    "FRONT_COLOR_ILLUSTRATION": 40,
+    "FRONT_SERIES_MAP": 14,
+    "FRONT_TITLE_PAGE": 14,
+    "GAIJI_INLINE_IMAGE": 104,
+    "IN_TEXT_PUBLISHING_ARTIFACT": 9,
+    "NARRATIVE_CHARACTER_PROFILE": 25,
+    "NARRATIVE_DOCUMENT": 39,
+    "NARRATIVE_FORMAL_DEVICE": 2,
+    "NARRATIVE_GAME_OR_DIAGRAM": 29,
+    "NARRATIVE_ILLUSTRATION": 139,
+    "NARRATIVE_QA_PARATEXT": 70,
+    "PROMOTIONAL_AD": 107,
+    "RETAILER_EBOOK_BONUS_COVER": 24,
+    "WORK_WITHIN_WORK_GRAPHIC": 1
+  },
+  "volumes": {
+    "V01": {
+      "assets": 51,
+      "non_gaiji": 37,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "GAIJI_INLINE_IMAGE": 14,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_DOCUMENT": 6,
+        "NARRATIVE_CHARACTER_PROFILE": 7,
+        "NARRATIVE_QA_PARATEXT": 1,
+        "NARRATIVE_GAME_OR_DIAGRAM": 5,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "COVER": 1
+      }
+    },
+    "V02": {
+      "assets": 53,
+      "non_gaiji": 30,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "GAIJI_INLINE_IMAGE": 23,
+        "NARRATIVE_CHARACTER_PROFILE": 1,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_DOCUMENT": 4,
+        "NARRATIVE_QA_PARATEXT": 1,
+        "NARRATIVE_GAME_OR_DIAGRAM": 5,
+        "AFTERWORD_EXTERNAL_LINK_QR": 1,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "COVER": 1
+      }
+    },
+    "V03": {
+      "assets": 31,
+      "non_gaiji": 29,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "COVER": 1,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_QA_PARATEXT": 10,
+        "NARRATIVE_DOCUMENT": 1,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "GAIJI_INLINE_IMAGE": 2
+      }
+    },
+    "V04": {
+      "assets": 43,
+      "non_gaiji": 31,
+      "roles": {
+        "COVER": 1,
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "NARRATIVE_DOCUMENT": 2,
+        "GAIJI_INLINE_IMAGE": 12,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_QA_PARATEXT": 4,
+        "NARRATIVE_CHARACTER_PROFILE": 1,
+        "NARRATIVE_GAME_OR_DIAGRAM": 6,
+        "AUTHOR_AFTERWORD_ART": 1
+      }
+    },
+    "V05": {
+      "assets": 38,
+      "non_gaiji": 30,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "COVER": 1,
+        "NARRATIVE_DOCUMENT": 5,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_QA_PARATEXT": 4,
+        "NARRATIVE_CHARACTER_PROFILE": 3,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "GAIJI_INLINE_IMAGE": 8
+      }
+    },
+    "V06": {
+      "assets": 44,
+      "non_gaiji": 36,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "GAIJI_INLINE_IMAGE": 8,
+        "NARRATIVE_ILLUSTRATION": 11,
+        "NARRATIVE_QA_PARATEXT": 8,
+        "NARRATIVE_GAME_OR_DIAGRAM": 5,
+        "NARRATIVE_CHARACTER_PROFILE": 1,
+        "NARRATIVE_DOCUMENT": 3,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "COVER": 1
+      }
+    },
+    "V07": {
+      "assets": 44,
+      "non_gaiji": 39,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_COLOR_ILLUSTRATION": 2,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "COVER": 1,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_DOCUMENT": 1,
+        "NARRATIVE_QA_PARATEXT": 7,
+        "NARRATIVE_CHARACTER_PROFILE": 2,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "PROMOTIONAL_AD": 5,
+        "RETAILER_EBOOK_BONUS_COVER": 7,
+        "GAIJI_INLINE_IMAGE": 5
+      }
+    },
+    "V08": {
+      "assets": 62,
+      "non_gaiji": 60,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "COVER": 1,
+        "NARRATIVE_QA_PARATEXT": 8,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_CHARACTER_PROFILE": 1,
+        "NARRATIVE_DOCUMENT": 1,
+        "AFTERWORD_EXTERNAL_LINK_QR": 1,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "PROMOTIONAL_AD": 23,
+        "RETAILER_EBOOK_BONUS_COVER": 8,
+        "GAIJI_INLINE_IMAGE": 2
+      }
+    },
+    "V09": {
+      "assets": 67,
+      "non_gaiji": 59,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "GAIJI_INLINE_IMAGE": 8,
+        "NARRATIVE_QA_PARATEXT": 9,
+        "NARRATIVE_ILLUSTRATION": 9,
+        "NARRATIVE_DOCUMENT": 3,
+        "NARRATIVE_CHARACTER_PROFILE": 2,
+        "NARRATIVE_GAME_OR_DIAGRAM": 6,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "PROMOTIONAL_AD": 13,
+        "RETAILER_EBOOK_BONUS_COVER": 9,
+        "COVER": 1
+      }
+    },
+    "V10": {
+      "assets": 40,
+      "non_gaiji": 39,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_CHARACTER_PROFILE": 1,
+        "GAIJI_INLINE_IMAGE": 1,
+        "NARRATIVE_QA_PARATEXT": 7,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "PROMOTIONAL_AD": 13,
+        "COVER": 1
+      }
+    },
+    "V11": {
+      "assets": 57,
+      "non_gaiji": 54,
+      "roles": {
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "GAIJI_INLINE_IMAGE": 3,
+        "NARRATIVE_DOCUMENT": 6,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_QA_PARATEXT": 2,
+        "NARRATIVE_GAME_OR_DIAGRAM": 2,
+        "IN_TEXT_PUBLISHING_ARTIFACT": 9,
+        "NARRATIVE_FORMAL_DEVICE": 1,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "PROMOTIONAL_AD": 16,
+        "COVER": 1
+      }
+    },
+    "V12": {
+      "assets": 46,
+      "non_gaiji": 39,
+      "roles": {
+        "COVER": 1,
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "GAIJI_INLINE_IMAGE": 7,
+        "NARRATIVE_CHARACTER_PROFILE": 4,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "NARRATIVE_QA_PARATEXT": 4,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "PROMOTIONAL_AD": 13
+      }
+    },
+    "V13": {
+      "assets": 48,
+      "non_gaiji": 44,
+      "roles": {
+        "COVER": 1,
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_COLOR_ILLUSTRATION": 2,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "NARRATIVE_ILLUSTRATION": 10,
+        "GAIJI_INLINE_IMAGE": 4,
+        "NARRATIVE_CHARACTER_PROFILE": 2,
+        "NARRATIVE_DOCUMENT": 4,
+        "NARRATIVE_QA_PARATEXT": 2,
+        "WORK_WITHIN_WORK_GRAPHIC": 1,
+        "AUTHOR_AFTERWORD_DOCUMENT": 5,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "PROMOTIONAL_AD": 13
+      }
+    },
+    "V14": {
+      "assets": 42,
+      "non_gaiji": 35,
+      "roles": {
+        "COVER": 1,
+        "FRONT_TITLE_PAGE": 1,
+        "FRONT_COLOR_ILLUSTRATION": 3,
+        "FRONT_SERIES_MAP": 1,
+        "FRONT_CHARACTER_PROFILE": 1,
+        "GAIJI_INLINE_IMAGE": 7,
+        "NARRATIVE_ILLUSTRATION": 9,
+        "NARRATIVE_QA_PARATEXT": 3,
+        "NARRATIVE_DOCUMENT": 3,
+        "NARRATIVE_FORMAL_DEVICE": 1,
+        "AUTHOR_AFTERWORD_ART": 1,
+        "PROMOTIONAL_AD": 11
+      }
+    }
+  }
+}

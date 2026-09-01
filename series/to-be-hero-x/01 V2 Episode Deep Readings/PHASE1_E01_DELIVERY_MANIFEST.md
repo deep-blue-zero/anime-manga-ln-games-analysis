@@ -1,0 +1,31 @@
+---
+title: "To Be Hero X V2 — Phase 1 Episode 01 Delivery Manifest"
+phase: 1
+episode: 1
+status: "complete"
+---
+
+# Phase 1 Episode 01 Delivery Manifest
+
+| File | Bytes | Words | SHA-256 |
+|---|---:|---:|---|
+| `BROADCAST_ORDER_AND_DIEGETIC_CHRONOLOGY_LEDGER.md` | 2663 | 389 | `659c49ed1d081ebb40df7ee47db7b1d54acfb4bdfcf2135db0b3fed5e02518a5` |
+| `CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md` | 3054 | 444 | `7172322a24d73fc0aa0d7ee5af9294d08b81199431f4f486c1f3c36a318de0ca` |
+| `CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md` | 4039 | 548 | `efb95215744bc373f3f777b807382ff508e7355e58ed4c0c87b25932a334de1e` |
+| `CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md` | 2684 | 434 | `6a88a523afa618b6f1827c984d8a5d44734d84176034b011dba169dfca384e1c` |
+| `HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md` | 2566 | 365 | `ca9132f0b074a812728c7f563d5151c595d21986dad9ac789bbac51a8ff56ffb` |
+| `INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md` | 3360 | 484 | `0353a257f75cd73355b5852970096094067509011f34988f4b2e6e9eac58f4c1` |
+| `PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md` | 3260 | 517 | `4053e8b515a3d23b6e8454792221cc3462c7991c882ac39250499d76751903df` |
+| `TBHX_V2_E01_DEEP_READING.md` | 77776 | 10669 | `4ceac0238fa009fb9b617b6a39e340917cfa61c35fdc4fa725053be6384bcfb8` |
+| `TBHX_V2_PHASE1_E01_HANDOFF.md` | 2077 | 284 | `4832bfd25c8e9a024fa929a356a6237fe00f38ebe81664bee67798522255285e` |
+| `TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md` | 4247 | 616 | `6ea43cc1919dd99ef3cedfb98b6f97ae58b7fe4b16630bf7a2f5e9b83238cd71` |
+| `V1_TO_V2_REVISION_LEDGER.md` | 23247 | 3077 | `5e19051920fd96786b9230de7d4b724740c01fbf28f3a77ecb068620fccff331` |
+| `VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md` | 3484 | 489 | `c135e19592634440ce0bd5d7b5647b4a1123bdda1f2fef74a38b4e9b20fb3d37` |
+
+**Markdown artifacts:** 12
+**Total substantive word count (whitespace-delimited):** 18316
+
+## Naming normalization
+
+- `娟姐` is standardized as **Juān jiě** throughout V2 analysis.
+- “Miss J” is retained only when explicitly identifying the English-localization alias.

@@ -1,0 +1,24 @@
+# IDOLY PRIDE V2 Phase 1 Bond B2-B integrity manifest
+# Created 2026-08-16
+# Primary sources
+2031a48d31f8b862ee4b82fb5acfb8bb35d17e07026c6c68e9b441dd2849abde  bond_hrk_001_hrk.md
+888a8666b71f45ce313c9fa418d1fe16b23865303a46c08facb9502d25d02cd9  bond_ski_001_ski.md
+5900c49cfc90ed770092e1780db25e76090269dd48ca48a37fdb8311895f20bd  bond_rei_001_rei.md
+3b7cb08b5e18c8426e2aae6d0362bf65fd47906320d7dde5613875c153b7dd98  bond_smr_001_smr.md
+5daafedbdbd83058fbdfc9ba991409d09c213513b83bd5a93a689691a87e1c0d  bond_rio_001_rio.md
+# Inherited authority / routing
+047293ac6a7729310df4a54e7302b961b6b6066f0ef98d495cec2708dd9cf1fd  IDOLY_PRIDE_V2_PHASE1_POST_BOND_B2A_BASELINE.md
+79285d5e1fc9b498a37b12b8aa6fbe7c1798da394da914a8aa7bfbff00f72765  IDOLY_PRIDE_V2_PHASE1_BOND_CLOSE_READ_QUEUE.md
+# B2-B analysis artifacts
+742df4638f28a56cb501b8a9c9dd21a28e7a069ddc0110cc649d27b7418f0961  IDOLY_PRIDE_V2_PHASE1_BOND_B2B_PRIMARY_FINDINGS_FREEZE.md
+a92b5f7f7c28af8577590d73e7248056bb92f3f8cc758c006c7367d337cb53a6  IDOLY_PRIDE_V2_PHASE1_BOND_B2B_CLOSE_READ_AUDIT.md
+e72b726e21aaf0fc65771b375c9d895eb50d7e01117fab8f260e585fcfc40291  IDOLY_PRIDE_V2_PHASE1_POST_BOND_B2B_BASELINE.md
+51edc072cbafbbe0ac4a9a70896509e906c31ced8847a5b261b6743f4a8eb6ac  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.25.md
+# Formal dependencies
+# No B2-B bond bundle declares a missing audiovisual/formal asset.
+# Chronology dependency
+# BOND_TEMPORAL_PLACEMENT_UNFIXED remains the default for undated bond material.
+# Local chronology exception: st-company-bond-rio-01-01 explicitly states LizNoirデビューの少し前.
+# Authority routing
+# Sumire's brother/piano bond is private-state support; the stronger TRINITYAiLE origin remains mature authority for the family/dream resolution.
+# Rio/Aoi founding-dyad specialness does not reduce Ai/Kokoro's equal standing in mature four-person LizNoir.

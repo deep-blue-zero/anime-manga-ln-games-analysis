@@ -1,0 +1,1154 @@
+{
+  "series": "GKM",
+  "character": "Juo Sena / 十王星南",
+  "artifact_type": "audiovisual_source_manifest",
+  "generation": "V2",
+  "status": "canonical",
+  "last_updated": "2026-08-16",
+  "source_boundary": {
+    "staged_count": 30,
+    "reused_count": 3,
+    "total_source_objects": 33,
+    "class_summary": {
+      "dear_compilation": 4,
+      "song_commu": 6,
+      "3dmv": 11,
+      "authored_mv": 6,
+      "static_or_fullmix": 5,
+      "promotional_video": 1
+    },
+    "dear_coverage": "001-027 continuous plus True End control"
+  },
+  "items": [
+    {
+      "drive_id": "1BdJs6QbvBsU1Kx4vZidSmuBfb6UF2PeD",
+      "filename": "【学マス】ネタバレ　十王星南　親愛度コミュ1話ー10話　＋　True  End コミュ-(640p30).mp4",
+      "origin": "sena_speech_folder",
+      "class": "dear_compilation",
+      "analytical_role": "Dear 1-10 plus True End alternate/chapters",
+      "availability": "materialized",
+      "size_bytes": 163397844,
+      "duration_s": 3323.472109,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 294,
+        "height": 640,
+        "fps": 30.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "256448"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "128000"
+        }
+      ],
+      "chapters": [
+        {
+          "start_s": 0.0,
+          "end_s": 345.0,
+          "title": "1話"
+        },
+        {
+          "start_s": 345.0,
+          "end_s": 608.0,
+          "title": "2話"
+        },
+        {
+          "start_s": 608.0,
+          "end_s": 957.0,
+          "title": "3話"
+        },
+        {
+          "start_s": 957.0,
+          "end_s": 1335.0,
+          "title": "4話"
+        },
+        {
+          "start_s": 1335.0,
+          "end_s": 1660.0,
+          "title": "5話"
+        },
+        {
+          "start_s": 1660.0,
+          "end_s": 1949.0,
+          "title": "6話"
+        },
+        {
+          "start_s": 1949.0,
+          "end_s": 2230.0,
+          "title": "7話"
+        },
+        {
+          "start_s": 2230.0,
+          "end_s": 2421.0,
+          "title": "8話"
+        },
+        {
+          "start_s": 2421.0,
+          "end_s": 2758.0,
+          "title": "9話"
+        },
+        {
+          "start_s": 2758.0,
+          "end_s": 3172.0,
+          "title": "10話"
+        },
+        {
+          "start_s": 3172.0,
+          "end_s": 3323.0,
+          "title": "True End コミュ"
+        }
+      ],
+      "sha256": "ba1edd426e88f5700de38d2b98e2d4da48a7e2bdf077ddc897120b9ec2b723ef",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1ur20B1-TFubAj9-eYf-6KsCiJ841vOlq",
+      "filename": "【学マス】十王星南　親愛度１～１０話【アイドルコミュ】-(720p30).mp4",
+      "origin": "sena_speech_folder",
+      "class": "dear_compilation",
+      "analytical_role": "Dear 1-10 higher-resolution visual control",
+      "availability": "materialized",
+      "size_bytes": 119225012,
+      "duration_s": 3178.463492,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": 30.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "160599"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "b30188c2e23505b1c776a7a932012a08690fb8c3f746b23f18282b07bf8b46a5",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1pgfed5PtaScFwvDKdqaL-o7xGDdmRWxL",
+      "filename": "【学マス】十王星南　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+      "origin": "sena_speech_folder",
+      "class": "dear_compilation",
+      "analytical_role": "Dear 11-20",
+      "availability": "materialized",
+      "size_bytes": 132856489,
+      "duration_s": 3167.062494,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1280,
+        "height": 720,
+        "fps": 30.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "195909"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "f060d803b1b0fb7130cfebc88f154f74523ca59739c08947a4b84f45658b402f",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1zl_-d3EmrUQzNtv5U1_le04xD6g_1UGV",
+      "filename": "【学マス】十王星南  親愛度コミュ21～27話まとめ【STEP3】-(480p30).mp4",
+      "origin": "sena_speech_folder",
+      "class": "dear_compilation",
+      "analytical_role": "Dear 21-27 STEP3/HIF",
+      "availability": "materialized",
+      "size_bytes": 259780043,
+      "duration_s": 3166.017596,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 854,
+        "height": 480,
+        "fps": 30.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "516770"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [
+        {
+          "start_s": 0.0,
+          "end_s": 381.0,
+          "title": "親愛度コミュ21話"
+        },
+        {
+          "start_s": 381.0,
+          "end_s": 796.0,
+          "title": "親愛度コミュ22話"
+        },
+        {
+          "start_s": 796.0,
+          "end_s": 1194.0,
+          "title": "親愛度コミュ23話"
+        },
+        {
+          "start_s": 1194.0,
+          "end_s": 1509.0,
+          "title": "親愛度コミュ24話"
+        },
+        {
+          "start_s": 1509.0,
+          "end_s": 1988.0,
+          "title": "親愛度コミュ25話"
+        },
+        {
+          "start_s": 1988.0,
+          "end_s": 2340.0,
+          "title": "親愛度コミュ26話"
+        },
+        {
+          "start_s": 2340.0,
+          "end_s": 2988.0,
+          "title": "親愛度コミュ27話"
+        },
+        {
+          "start_s": 2988.0,
+          "end_s": 3166.0,
+          "title": "ED"
+        }
+      ],
+      "sha256": "89c09b4bd5fa103afa421baf9af3c88ba692a0d29761abd82d2464e023206292",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1-EIz3-OpA94VQPBx-fRw0yru7tAGD7Sc",
+      "filename": "【楽曲コミュ】小さな野望【十王星南】【学マス】-(1080p30).mp4",
+      "origin": "sena_speech_folder",
+      "class": "song_commu",
+      "analytical_role": "小さな野望 song commu",
+      "availability": "materialized",
+      "size_bytes": 65952564,
+      "duration_s": 389.561179,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "1187620"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "edbec87dea9900b925551ef23b7416c32905b3dd9b8dd6bbe7247f209f5d35a2",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1yZgp5xVtJodntkhxVNVCFMWvreRuEq8x",
+      "filename": "【Our Chant】十王星南 楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "origin": "sena_speech_folder",
+      "class": "song_commu",
+      "analytical_role": "Our Chant song commu",
+      "availability": "materialized",
+      "size_bytes": 121374434,
+      "duration_s": 469.879002,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "1900943"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "128004"
+        }
+      ],
+      "chapters": [],
+      "sha256": "75710ed6d986160a8eebf8437a5396d70b465e7f58b1e91bc6f7a2c08db5f991",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1CiRZ3Et_WKa4QxPJBvHoLEncPLENoYCT",
+      "filename": "【赤裸々】十王星南  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "origin": "sena_speech_folder",
+      "class": "song_commu",
+      "analytical_role": "赤裸々 song commu",
+      "availability": "materialized",
+      "size_bytes": 102864199,
+      "duration_s": 472.851156,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "1570311"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "7097e6ab56fe2c0356abede142475e56b36b78ed8bdc3364a32bde2741872860",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1o5HL0-IHbZ751CXKxLkrkQXv3OK-JMjo",
+      "filename": "【楽曲コミュ】Campus mode!!【十王星南】【学マス】-(1080p30).mp4",
+      "origin": "sena_speech_folder",
+      "class": "song_commu",
+      "analytical_role": "Campus mode!! song commu",
+      "availability": "materialized",
+      "size_bytes": 116612982,
+      "duration_s": 617.093515,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "1354724"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "148649233d72d5759220ad422d2ff5987f47b699d5e10e6b793e35d5566f58b9",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "19a1m8fakrgsLOSwU3ld7O55LjCgZuPTm",
+      "filename": "【Star-mine】十王星南  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "origin": "sena_speech_folder",
+      "class": "song_commu",
+      "analytical_role": "Star-mine Sena-side song commu",
+      "availability": "materialized",
+      "size_bytes": 75171277,
+      "duration_s": 553.00644,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "924750"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "128006"
+        }
+      ],
+      "chapters": [],
+      "sha256": "96ae5730a95af09dfcc9f13ed72c7919400eaa3fd2fa1b54ecd5eaa470750122",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "19DO6tXiM0S97QQgVHJbfCKzIWQ5L5mKO",
+      "filename": "【ハッピーミルフィーユ】十王星南 楽曲コミュまとめ【学マス】-(1080p60).mp4",
+      "origin": "sena_speech_folder",
+      "class": "song_commu",
+      "analytical_role": "Happy Millefeuille song commu",
+      "availability": "materialized",
+      "size_bytes": 119893321,
+      "duration_s": 575.692336,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "1505176"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "128006"
+        }
+      ],
+      "chapters": [],
+      "sha256": "2e7edc087ee95cf1446312b9eadfe7e0b9c8f1ca9c62e7c3f15ba5e8efc027d9",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1I2QaRkdgDuznocjnrQNYsG6oHn7qN5kt",
+      "filename": "4K HDR「Our Chant」 (十王星南 ソロ2 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "Our Chant 3DMV",
+      "availability": "materialized",
+      "size_bytes": 117430065,
+      "duration_s": 183.530522,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "4942279"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "5be8b9117c78abb1bd296649723ab93f466e97cb5061f4d3f3bf4b90f905d17f",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1lTz5hjBQCCF43SN87KcK3pOUh5B--Dy3",
+      "filename": "4K HDR「小さな野望」 (十王星南  ソロSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1090p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "小さな野望 3DMV",
+      "availability": "materialized",
+      "size_bytes": 107936480,
+      "duration_s": 178.422132,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "vp9",
+        "width": 2560,
+        "height": 1090,
+        "fps": 60.00012615669924,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "4651458"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "3b054dc67b56906285d008c51190515e241c73ea94abbcc9b629371584078ac1",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1Hxm_7lOhCtounV-NV7aP7EH-m2thgTUK",
+      "filename": "初星学園 「小さな野望」Official Music Video (HATSUBOSHI GAKUEN - Tiny Ambition)-(1080p24).mp4",
+      "origin": "sena_music_folder",
+      "class": "authored_mv",
+      "analytical_role": "小さな野望 official authored MV",
+      "availability": "materialized",
+      "size_bytes": 72462603,
+      "duration_s": 325.427664,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "1485594"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "255999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "978695db940380b1054d1658030d1d08e39bb5c07412c16d9428d1ee9a3f7321",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1l69qRWtbE1uGi0wIILnMjjEPwmWUdVYF",
+      "filename": "Our Chant-(1080p25).mp4",
+      "origin": "sena_music_folder",
+      "class": "static_or_fullmix",
+      "analytical_role": "Our Chant full-mix/static video",
+      "availability": "materialized",
+      "size_bytes": 11096324,
+      "duration_s": 233.649002,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1080,
+        "fps": 25.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "97561"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "256000"
+        }
+      ],
+      "chapters": [],
+      "sha256": "f11c67b42198cb2b60575e51992174c4d28cf5624dffc737da0d81ff896d115c",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1aVlM7ulbSolU6yaVhFVxMyfZI-5gRtta",
+      "filename": "4K HDR「赤裸々」 (十王星南 STEP3 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "赤裸々 3DMV",
+      "availability": "materialized",
+      "size_bytes": 98398952,
+      "duration_s": 159.822948,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "4736207"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "cc46302cec3516e5fe1a9df0c7e97e5950fcf6cc1e948169709b1348c357f3f0",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1EvBCoPFs8pKNd2Xi0uz0aYoQyugAf86A",
+      "filename": "Cosmetic-(1080p25).mp4",
+      "origin": "sena_music_folder",
+      "class": "static_or_fullmix",
+      "analytical_role": "Cosmetic full audio/static source",
+      "availability": "materialized",
+      "size_bytes": 15743326,
+      "duration_s": 257.148005,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1080,
+        "fps": 25.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "195607"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "255999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "a691062c56c0c7b7011360b882ff26ceeb378713b78871bc187444a42e88655c",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1iesW-1lj1EYlugj4HCJso-IrbAicBaQI",
+      "filename": "4K HDR「Campus mode!!」(十王星南 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "Campus mode!! Sena 3DMV",
+      "availability": "materialized",
+      "size_bytes": 108796567,
+      "duration_s": 161.982404,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "5164791"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "ad5cc5d640158500481776f2641379f7897916a055c76a41084170766bcfd404",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "13hYpBoSN6b1lodP0jWfSTpQlbIIeB1eN",
+      "filename": "初星学園 「赤裸々」Official Music Video (HATSUBOSHI GAKUEN - SEKIRARA)-(1080p24).mp4",
+      "origin": "sena_music_folder",
+      "class": "authored_mv",
+      "analytical_role": "赤裸々 official authored MV",
+      "availability": "materialized",
+      "size_bytes": 54539362,
+      "duration_s": 263.105306,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 23.976023976023978,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "1343765"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "255999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "a174a3805260be198636eb325cd5bdd0ac30b4af48ef0f2f32594efb891d2b92",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1jlAL1cugqAe1YAn1Z34dp-BfnV25vDwc",
+      "filename": "初星学園 「Choo Choo Choo」Official Music Video (HATSUBOSHI GAKUEN - Choo Choo Choo)-(1080p24).mp4",
+      "origin": "sena_music_folder",
+      "class": "authored_mv",
+      "analytical_role": "Choo Choo Choo official authored MV",
+      "availability": "materialized",
+      "size_bytes": 97283742,
+      "duration_s": 191.564626,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "3743543"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "255999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "b21874e8cbeaf6adadfac3df5a3bb5907cc486820c3a01664dc1c578524712c2",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1pUnyzCfw0G904P_qt0ZjkHcce6G00bW7",
+      "filename": "4K HDR「初〈はじめ〉」(歌：十王星南)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster TRUE END MV】-(1080p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "初 Sena True End 3DMV",
+      "availability": "materialized",
+      "size_bytes": 113905807,
+      "duration_s": 167.764172,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "5234404"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "cc5ab60749a701cf790c5346cafe525aed2510355cc50185470771e98da09c62",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1Yh8hwjmNaqJxgwyT6kFD8ecxKBRuUhjc",
+      "filename": "Choo Choo Choo-(1080p25).mp4",
+      "origin": "sena_music_folder",
+      "class": "static_or_fullmix",
+      "analytical_role": "Choo Choo Choo full-mix/static source",
+      "availability": "materialized",
+      "size_bytes": 9741429,
+      "duration_s": 189.02,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1080,
+        "fps": 25.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "127911"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "256000"
+        }
+      ],
+      "chapters": [],
+      "sha256": "ce5c38bb86eda7faf0f062e9a45422b210990c06466f9e77ce5f439919581e22",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1WsCyy2y2frwG8vyhAANtEVht6sgue5aU",
+      "filename": "十王 星南 PROMOTION VIDEO『Choo Choo Choo』【アイドルマスター】-(1080p30).mp4",
+      "origin": "sena_music_folder",
+      "class": "promotional_video",
+      "analytical_role": "Choo Choo Choo promotional character video",
+      "availability": "materialized",
+      "size_bytes": 25779296,
+      "duration_s": 83.940136,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "2234149"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "600175923715a1fe199b2b49e47b86fd99cb16bc9bec569f4df556a17a709b52",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "12UZlQ_R2ia_lb9Ga7CofMJjDOWFBiRR1",
+      "filename": "初星学園 「ENDLESS DANCE」Official Music Video (HATSUBOSHI GAKUEN - ENDLESS DANCE)-(1080p24).mp4",
+      "origin": "sena_music_folder",
+      "class": "authored_mv",
+      "analytical_role": "ENDLESS DANCE official MV",
+      "availability": "materialized",
+      "size_bytes": 61455875,
+      "duration_s": 205.473379,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "2099678"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "255999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "8b920f695942607ff7bf997492a0102daf8c70d27099d4eb8d06089abf14d05b",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "181Y5mVdSS2W0C7ggfWAZlt6-LcJQYzh0",
+      "filename": "[学マス] 『初』 十王 星南ver-(1080p30).mp4",
+      "origin": "sena_music_folder",
+      "class": "static_or_fullmix",
+      "analytical_role": "初 Sena full-mix/static source",
+      "availability": "materialized",
+      "size_bytes": 7815817,
+      "duration_s": 153.925079,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1090,
+        "height": 1080,
+        "fps": 30.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "221913"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "f312ab8411b4b91a399fa3546cb52f338617124b9425921d9126a4016ce3ee1d",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1_RQEOUvzP62348SsR6Ylu-zlJnjV14MZ",
+      "filename": "4K HDR「ENDLESS DANCE」(十王星南 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "ENDLESS DANCE Sena 3DMV",
+      "availability": "materialized",
+      "size_bytes": 64108335,
+      "duration_s": 109.249887,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "4437344"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "d0122a7d4c3b777ebdd91e0e952c6631b967f3fdf7940c5c64e1143c0152cfd6",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1r7RMe42aHvsJY-R8tzA9Q8pXDEYfc6Jl",
+      "filename": "4K HDR「がむしゃらに行こう！」 (十王星南 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "がむしゃらに行こう！ Sena 3DMV",
+      "availability": "materialized",
+      "size_bytes": 70414235,
+      "duration_s": 110.503764,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "4891873"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "af8eaf9468fa333febc697781d707ece075279272eb608a08d4a5483a2c28c15",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1EhRjHCxLq2ubg8aWAqSNjCtjBnkFNuPv",
+      "filename": "4K HDR「ハッピーミルフィーユ」(十王星南 バレンタインSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "Happy Millefeuille Sena 3DMV",
+      "availability": "materialized",
+      "size_bytes": 63987177,
+      "duration_s": 101.447982,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "4813712"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "0035052d4f76b2e30133dc6c82ebf41575bbaab5f00c1d4e901648675e6bad8b",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "18gmduRoxyBQ7DyP8eF6PrDvhMA3OTw31",
+      "filename": "4K HDR「Howling over the World」 (十王星南 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "Howling over the World Sena 3DMV",
+      "availability": "materialized",
+      "size_bytes": 71781827,
+      "duration_s": 110.921723,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "4977631"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "32ea0d080e751e2cca5df1f9eeba009d16d620f84d11780608b305223926f2e7",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1nEnBlbnUXgSt727Bn4E6fCzz5rxvkT94",
+      "filename": "4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (十王星南 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "origin": "sena_music_folder",
+      "class": "3dmv",
+      "analytical_role": "Miracle Nanau Sena 3DMV",
+      "availability": "materialized",
+      "size_bytes": 63969471,
+      "duration_s": 116.099773,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "4212561"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "e74d6cd95219d061dd7ec6ffc86bf42f5857cbc9f96f0cf72fae40d6e41c1490",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1EpRC9jIL1QBhWPI0u_a-TU-EfGrxnCER",
+      "filename": "初星学園 「ハッピーミルフィーユ」Official Music Video (HATSUBOSHI GAKUEN - Happy Millefeuille)-(1080p24).mp4",
+      "origin": "sena_music_folder",
+      "class": "authored_mv",
+      "analytical_role": "Happy Millefeuille official MV",
+      "availability": "materialized",
+      "size_bytes": 92614324,
+      "duration_s": 193.933061,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "3502626"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "255999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "8a86ec93e2a33dec062a29432c2110285e8f1707867ba585b0199d7deda91412",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1UyUsSr7ZUed6Kh6oHtIsmyjo4GiWvLTo",
+      "filename": "4K HDR「Star-mine」(Begrazia SSR ユニット曲)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "origin": "reused_misuzu_canonical",
+      "class": "3dmv",
+      "analytical_role": "Star-mine Begrazia 3DMV reused",
+      "availability": "materialized",
+      "size_bytes": 134093200,
+      "duration_s": 201.433107,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "5135404"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "127999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "f1143c1aaa2ca5df6c577c1b9d27c88cc19208e0c6218441455547a8e5130430",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1emxDRAvHC46s-v0x4eYFW1pCjdDGvIM9",
+      "filename": "初星学園 「Star-mine」Official Music Video (HATSUBOSHI GAKUEN - Star-mine)-(1080p24).mp4",
+      "origin": "reused_misuzu_canonical",
+      "class": "authored_mv",
+      "analytical_role": "Star-mine official MV reused",
+      "availability": "materialized",
+      "size_bytes": 74692261,
+      "duration_s": 240.047891,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1920,
+        "height": 1080,
+        "fps": 24.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "2175933"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "255999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "d0ce84afef4bb91d1f20f15ecd02fe459f5a906cd6b64b9abda98e299f837fd6",
+      "inspection_state": "INSPECTED"
+    },
+    {
+      "drive_id": "1RKfLuzy0LHXCOwYry2Dtv9XPAnngly55",
+      "filename": "Howling over the World (花海佑芽・秦谷美鈴・十王星南 ver.)-(1080p25).mp4",
+      "origin": "reused_misuzu_canonical",
+      "class": "static_or_fullmix",
+      "analytical_role": "Howling trio full-mix comparison reused",
+      "availability": "materialized",
+      "size_bytes": 11917567,
+      "duration_s": 241.822993,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video": {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1080,
+        "fps": 25.0,
+        "pix_fmt": "yuv420p",
+        "bit_rate": "115618"
+      },
+      "audio": [
+        {
+          "codec": "aac",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bit_rate": "255999"
+        }
+      ],
+      "chapters": [],
+      "sha256": "4e527d9c1eb85480bfb36cd21998005c3da22e2805894c23ce4f5f46ec0e0efb",
+      "inspection_state": "INSPECTED"
+    }
+  ],
+  "measurement_files": [
+    "GKM_PHASE3_SENA_AV_TECHNICAL_METRICS_APPENDIX.md",
+    "GKM_SENA_AV_EVIDENCE_AND_METRICS_MATRIX.md"
+  ],
+  "notes": [
+    "Source media is excluded from the analytical release archive.",
+    "Dear 11-20 micro-boundaries are modeled and visually checked, not embedded chapter metadata.",
+    "Cosmetic has full audio/lyric presentation but no rendered choreography in the current packet.",
+    "Reused Begrazia objects retain their original Drive IDs and hashes."
+  ]
+}

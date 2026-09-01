@@ -1,0 +1,19 @@
+da24cc340e40fe562e0dfe1199f5aa76a6fbfcf3ac98acc4bdc07e945ba320a2  IDOLY_PRIDE_V2_PHASE1B_IIIX_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
+e4ee1e3601f439a2cb9aa3a1cd8870662ada079b35ab284d4d8dd39df1edd35e  IDOLY_PRIDE_V2_PHASE1B_IIIX_ORIGIN_AUDIT.md
+d8152332c6f37dd9c3f7c812862042e761155e3f84f7f3e7814e3f4f3660a993  IDOLY_PRIDE_V2_PHASE1B_IIIX_PRE_TOKYO_BASELINE.md
+eb85bed0bd1b585213611a7d6aaad4c3a75b3a0251d1fa805203b032c0752e20  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.0.md
+
+# Freeze integrity note
+# The IIIX primary findings freeze was finalized and SHA-256 locked before historical IIIX analytical prose was consulted.
+# Historical V1 Tokyo conclusions were quarantined and did not define the pre-Tokyo baseline.
+# Freeze integrity: PRISTINE.
+
+# Dependency note
+# IIIX HARD PREREQUISITE BEFORE TOKYO: SATISFIED.
+# Tokyo gate: UNLOCKED after IDOLY_PRIDE_V2_PHASE1B_IIIX_PRE_TOKYO_BASELINE.md.
+
+# Next output and recommended model
+# Next output: Phase 1B Tokyo main-story sequential audit (tokyo_001_new_wind -> tokyo_014_with_beyond_the_miracle)
+# Recommended model: GPT-5.6 Sol
+# Recommended reasoning level: Extra High
+# Reason: Tokyo is the first fully post-anime governing main-story arc and inherits cumulative unit-origin, institutional, Makino/Mana, VENUS, legacy, and IIIX dependencies. The pass must preserve block-by-block prospective state and avoid later-arc hindsight.

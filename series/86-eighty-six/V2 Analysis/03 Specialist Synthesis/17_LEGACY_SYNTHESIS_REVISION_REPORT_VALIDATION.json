@@ -1,0 +1,43 @@
+{
+  "file": "17_LEGACY_SYNTHESIS_REVISION_REPORT.md",
+  "bytes": 78466,
+  "lines": 1257,
+  "whitespace_words": 11053,
+  "sha256": "5948466c07083a122c4dd572bdc4e829163aeed5480e3f05498fe33a315352dc",
+  "yaml_status": "PASS",
+  "status": "canonical",
+  "scope": "V01-V14+ALTER1",
+  "t14_claim_ids_expected": 41,
+  "t14_claim_ids_present": 41,
+  "missing_t14_claim_ids": [],
+  "open_question_ids_expected": 32,
+  "open_question_ids_present": 32,
+  "missing_open_question_ids": [],
+  "named_dependencies_expected": 18,
+  "missing_named_dependencies": [],
+  "roman_sections_count": 38,
+  "roman_sections_first_last": [
+    "I",
+    "XXXVIII"
+  ],
+  "duplicate_headings": [],
+  "placeholders": [],
+  "prior_specialist_docs_checked": [
+    "01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md",
+    "02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md",
+    "03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md",
+    "04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md",
+    "05_SAN_MAGNOLIA_RACISM_GENOCIDE_COMPLICITY_AND_MEMORY.md",
+    "06_GIAD_AND_COMPARATIVE_INSTITUTIONS_CITIZENSHIP_FREEDOM_AND_PATERNALISM.md",
+    "07_WAR_STRATEGY_LOGISTICS_TECHNOLOGY_AND_HEROISM.md",
+    "08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md",
+    "09_CHILDHOOD_PRIDE_TRAUMA_GRIEF_RECOVERY_AND_ORDINARY_LIFE.md",
+    "10_SHIN_LENA_LOVE_DEPENDENCE_HOME_AND_THE_RIGHT_TO_RETURN.md",
+    "11_LEGION_MEMORY_IDENTITY_AND_POSTHUMAN_CONTINUITY.md",
+    "12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md",
+    "13_SYMBOLS_MOTIFS_LANDSCAPES_OBJECTS_AND_LIGHT_NOVEL_FORM.md"
+  ],
+  "exact_duplicate_paragraphs_ge_600_chars": 0,
+  "exact_duplicate_50_word_sequences": 0,
+  "overall_pass": true
+}

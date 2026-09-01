@@ -1,0 +1,69 @@
+{
+  "series": "TBHX",
+  "phase": 3,
+  "work_unit": "specialists_07_08",
+  "date": "2026-08-17",
+  "specialist_drive_ids": {
+    "07": "16AHYbGugXafi5abVAAN4jKf3tNhf8eg8",
+    "08": "1-PCA-DU56nUAceUQO__BxRTKsZNVjtOF"
+  },
+  "checkpoint_drive_id": "1gDWQrtS-dDWXMJyqO-K9_QDPuZyRK7lA",
+  "files": {
+    "07_YANG_CHENG_ESOUL_POMELO_AND_INHERITED_HEROISM.md": {
+      "bytes": 62069,
+      "words_whitespace": 9097,
+      "sha256": "7e49509a19237684d2a70674d2f4925f1d9b85fd3212f252859176d15d9d0834",
+      "yaml_ok": true,
+      "claim_keys_referenced": 24,
+      "missing_claim_keys": [],
+      "unresolved_placeholder_tokens": [],
+      "duplicate_normalized_blocks_ge_600_chars": 0
+    },
+    "08_LUCKY_CYAN_HOPE_SURVIVORHOOD_AND_PUBLIC_NEED.md": {
+      "bytes": 58785,
+      "words_whitespace": 8583,
+      "sha256": "a21b8915d69a48b57357dcad781273f5bb39bda2357a0aa79bb937dec956665b",
+      "yaml_ok": true,
+      "claim_keys_referenced": 30,
+      "missing_claim_keys": [],
+      "unresolved_placeholder_tokens": [],
+      "duplicate_normalized_blocks_ge_600_chars": 0
+    },
+    "TBHX_V2_PHASE3_07_08_YANG_CYAN_CHECKPOINT.md": {
+      "bytes": 10771,
+      "words_whitespace": 1324,
+      "sha256": "1faf697f5439746bbc3fbf0287895ed2e090372c822ca1b221d902a307708678",
+      "yaml_ok": true,
+      "claim_keys_referenced": 9,
+      "missing_claim_keys": [],
+      "unresolved_placeholder_tokens": [],
+      "duplicate_normalized_blocks_ge_600_chars": 0
+    },
+    "TBHX_CURRENT_STATE_AND_CORPUS_MAP.md": {
+      "bytes": 30685,
+      "words_whitespace": 3721,
+      "sha256": "4b3311fb57c814e856da2649825bf06e58f9976e478c3cb5c3e99846b115b4d8",
+      "yaml_ok": true,
+      "claim_keys_referenced": 4,
+      "missing_claim_keys": [],
+      "unresolved_placeholder_tokens": [],
+      "duplicate_normalized_blocks_ge_600_chars": 0
+    },
+    "MANGA_ANIME_DRIVE_INDEX.md": {
+      "bytes": 98300,
+      "words_whitespace": 11489,
+      "sha256": "53cf54151d2717a60ba564019e7c90e3ab46d074c4f5284c1fc2baad3d4cc497",
+      "yaml_ok": true,
+      "claim_keys_referenced": 5,
+      "missing_claim_keys": [],
+      "unresolved_placeholder_tokens": [],
+      "duplicate_normalized_blocks_ge_600_chars": 0
+    }
+  },
+  "frozen_episode_documents_modified": false,
+  "semantic_duplicate_found_before_creation": false,
+  "drive_readback_specialists_passed": true,
+  "phase3_progress_after_unit": "3/11",
+  "next_artifact": "09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md",
+  "next_reasoning": "Pro; one document alone"
+}

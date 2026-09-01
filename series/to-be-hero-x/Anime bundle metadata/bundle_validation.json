@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T23:48:49.364976+00:00",
+  "status": "pass",
+  "episode_count": 24,
+  "passed_episode_count": 24,
+  "total_subtitle_cues": 6578,
+  "total_screenshots": 25439,
+  "errors": [],
+  "warnings": [],
+  "episodes": [
+    {
+      "episode": 1,
+      "status": "pass",
+      "subtitle_cues": 379,
+      "screenshots": 1197,
+      "contact_sheets": 60,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 2,
+      "status": "pass",
+      "subtitle_cues": 307,
+      "screenshots": 1049,
+      "contact_sheets": 53,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 3,
+      "status": "pass",
+      "subtitle_cues": 294,
+      "screenshots": 1014,
+      "contact_sheets": 51,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 4,
+      "status": "pass",
+      "subtitle_cues": 283,
+      "screenshots": 1145,
+      "contact_sheets": 58,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 5,
+      "status": "pass",
+      "subtitle_cues": 338,
+      "screenshots": 890,
+      "contact_sheets": 45,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 6,
+      "status": "pass",
+      "subtitle_cues": 314,
+      "screenshots": 838,
+      "contact_sheets": 42,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 7,
+      "status": "pass",
+      "subtitle_cues": 235,
+      "screenshots": 1145,
+      "contact_sheets": 58,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 8,
+      "status": "pass",
+      "subtitle_cues": 281,
+      "screenshots": 909,
+      "contact_sheets": 46,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 9,
+      "status": "pass",
+      "subtitle_cues": 207,
+      "screenshots": 1014,
+      "contact_sheets": 51,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 10,
+      "status": "pass",
+      "subtitle_cues": 292,
+      "screenshots": 1036,
+      "contact_sheets": 52,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 11,
+      "status": "pass",
+      "subtitle_cues": 288,
+      "screenshots": 1063,
+      "contact_sheets": 54,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 12,
+      "status": "pass",
+      "subtitle_cues": 199,
+      "screenshots": 1358,
+      "contact_sheets": 68,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 13,
+      "status": "pass",
+      "subtitle_cues": 286,
+      "screenshots": 952,
+      "contact_sheets": 48,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 14,
+      "status": "pass",
+      "subtitle_cues": 281,
+      "screenshots": 1186,
+      "contact_sheets": 60,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 15,
+      "status": "pass",
+      "subtitle_cues": 280,
+      "screenshots": 977,
+      "contact_sheets": 49,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 16,
+      "status": "pass",
+      "subtitle_cues": 264,
+      "screenshots": 984,
+      "contact_sheets": 50,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 17,
+      "status": "pass",
+      "subtitle_cues": 274,
+      "screenshots": 958,
+      "contact_sheets": 48,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 18,
+      "status": "pass",
+      "subtitle_cues": 323,
+      "screenshots": 817,
+      "contact_sheets": 41,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 19,
+      "status": "pass",
+      "subtitle_cues": 301,
+      "screenshots": 841,
+      "contact_sheets": 43,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 20,
+      "status": "pass",
+      "subtitle_cues": 191,
+      "screenshots": 1251,
+      "contact_sheets": 63,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 21,
+      "status": "pass",
+      "subtitle_cues": 309,
+      "screenshots": 976,
+      "contact_sheets": 49,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 22,
+      "status": "pass",
+      "subtitle_cues": 164,
+      "screenshots": 1340,
+      "contact_sheets": 67,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 23,
+      "status": "pass",
+      "subtitle_cues": 262,
+      "screenshots": 1183,
+      "contact_sheets": 60,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "episode": 24,
+      "status": "pass",
+      "subtitle_cues": 226,
+      "screenshots": 1316,
+      "contact_sheets": 66,
+      "errors": [],
+      "warnings": []
+    }
+  ]
+}

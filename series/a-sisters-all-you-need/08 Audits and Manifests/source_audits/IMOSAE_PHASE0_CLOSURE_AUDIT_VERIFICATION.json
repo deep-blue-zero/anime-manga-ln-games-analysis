@@ -1,0 +1,755 @@
+{
+  "series": "IMOSAE",
+  "audit_id": "IMOSAE-PHASE0-CLOSURE-AUDIT-1.0",
+  "candidate_id": "IMOSAE-JP-LN-NORM-1.0-RC1",
+  "target_release_id": "IMOSAE-JP-LN-NORM-1.0",
+  "date": "2026-08-18",
+  "checks": {
+    "raw_source_14_files_present": {
+      "pass": true,
+      "detail": {
+        "count": 14
+      }
+    },
+    "raw_source_sizes_match_lock": {
+      "pass": true
+    },
+    "raw_source_hashes_match_lock": {
+      "pass": true
+    },
+    "raw_source_zip_crc_pass": {
+      "pass": true,
+      "detail": {
+        "bad": []
+      }
+    },
+    "spine_index_matches_raw_opf_order": {
+      "pass": true,
+      "detail": {
+        "mismatches": []
+      }
+    },
+    "spine_count_981": {
+      "pass": true,
+      "detail": {
+        "actual": 981
+      }
+    },
+    "spines_all_classified": {
+      "pass": true,
+      "detail": {
+        "unclassified_count": 0
+      }
+    },
+    "candidate_manifest_id_rc1": {
+      "pass": true,
+      "detail": {
+        "manifest_id": "IMOSAE-JP-LN-NORM-1.0-RC1"
+      }
+    },
+    "candidate_manifest_32_files": {
+      "pass": true,
+      "detail": {
+        "actual": 32
+      }
+    },
+    "candidate_files_all_present": {
+      "pass": true
+    },
+    "candidate_file_sizes_match_manifest": {
+      "pass": true
+    },
+    "candidate_file_hashes_match_manifest": {
+      "pass": true
+    },
+    "candidate_total_bytes_match_manifest": {
+      "pass": true,
+      "detail": {
+        "computed": 72498234,
+        "manifest": 72498234
+      }
+    },
+    "checksum_file_exactly_matches_manifest": {
+      "pass": true,
+      "detail": {
+        "checksum_entries": 32,
+        "manifest_entries": 32
+      }
+    },
+    "paragraph_count_34766": {
+      "pass": true,
+      "detail": {
+        "actual": 34766
+      }
+    },
+    "locators_unique_34766": {
+      "pass": true,
+      "detail": {
+        "unique": 34766,
+        "duplicates": 0
+      }
+    },
+    "surface_hashes_and_fingerprints_valid": {
+      "pass": true,
+      "detail": {
+        "mismatches": 0
+      }
+    },
+    "paragraph_source_and_spec_ids_consistent": {
+      "pass": true,
+      "detail": {
+        "mismatches": 0
+      }
+    },
+    "annotation_ranges_and_ruby_base_valid": {
+      "pass": true,
+      "detail": {
+        "invalid": 0,
+        "examples": []
+      }
+    },
+    "ruby_count_29083": {
+      "pass": true,
+      "detail": {
+        "actual": 29083
+      }
+    },
+    "gaiji_count_651": {
+      "pass": true,
+      "detail": {
+        "actual": 651
+      }
+    },
+    "format_annotation_count_15175": {
+      "pass": true,
+      "detail": {
+        "actual": 15175
+      }
+    },
+    "illustration_anchor_count_552": {
+      "pass": true,
+      "detail": {
+        "actual": 552
+      }
+    },
+    "gaiji_annotations_match_frozen_map": {
+      "pass": true,
+      "detail": {
+        "mismatches": 0,
+        "examples": []
+      }
+    },
+    "illustration_anchors_match_visual_index": {
+      "pass": true,
+      "detail": {
+        "mismatches": 0,
+        "examples": []
+      }
+    },
+    "locator_index_34766_rows": {
+      "pass": true,
+      "detail": {
+        "actual": 34766
+      }
+    },
+    "locator_index_exact_sidecar_crosswalk": {
+      "pass": true,
+      "detail": {
+        "mismatches": 0,
+        "examples": []
+      }
+    },
+    "normalized_markdown_contains_all_34766_locators_once": {
+      "pass": true,
+      "detail": {
+        "md_count": 34766,
+        "sidecar_count": 34766,
+        "missing": 0,
+        "extra": 0,
+        "duplicates": 0
+      }
+    },
+    "gaiji_map_65_distinct_assets": {
+      "pass": true,
+      "detail": {
+        "entries": 65,
+        "distinct_assets_field": 65
+      }
+    },
+    "gaiji_occurrence_register_651": {
+      "pass": true,
+      "detail": {
+        "occurrence_rows": 651,
+        "map_total": 651
+      }
+    },
+    "gaiji_occurrence_ids_unique": {
+      "pass": true
+    },
+    "gaiji_occurrence_assets_all_in_map": {
+      "pass": true
+    },
+    "visual_index_666_rows": {
+      "pass": true,
+      "detail": {
+        "actual": 666
+      }
+    },
+    "visual_index_562_non_gaiji_stable_ids": {
+      "pass": true,
+      "detail": {
+        "actual": 562
+      }
+    },
+    "existing_validation_all_flags_pass": {
+      "pass": true,
+      "detail": {
+        "all_spines_classified": true,
+        "unclassified_spines": 0,
+        "all_locators_unique": true,
+        "duplicate_locators": 0,
+        "gaiji_occurrences_expected_651": true,
+        "gaiji_annotations_mapped": true,
+        "ruby_count_expected_29083": true,
+        "no_ruby_reading_concatenation_spot_proxy": true,
+        "no_empty_surface_records": true,
+        "annotation_ranges_valid": true,
+        "sample_categories_per_volume_minimum": true
+      }
+    },
+    "roundtrip_126_samples_present": {
+      "pass": true,
+      "detail": {
+        "samples": 126,
+        "field": 126
+      }
+    },
+    "roundtrip_126_pass_0_fail": {
+      "pass": true,
+      "detail": {
+        "pass": 126,
+        "fail": 0
+      }
+    },
+    "roundtrip_all_14_volumes_have_9_required_modes": {
+      "pass": true
+    },
+    "manifest_source_set_id_correct": {
+      "pass": true
+    },
+    "manifest_normalization_spec_id_correct": {
+      "pass": true
+    },
+    "source_manifest_status_canonical": {
+      "pass": true,
+      "detail": {
+        "status": "canonical_raw_source_lock"
+      }
+    }
+  },
+  "metrics": {
+    "raw_source_total_bytes": 222679906,
+    "spine_class_counts": {
+      "TITLE_FRONTMATTER": 124,
+      "MAIN_NARRATIVE": 335,
+      "ILLUSTRATION": 305,
+      "AUTHOR_AFTERWORD": 44,
+      "OTHER_PARATEXT": 14,
+      "COLOPHON": 14,
+      "BONUS_FICTION": 10,
+      "PROMOTIONAL": 108,
+      "RETAILER_EBOOK_BONUS": 27
+    },
+    "candidate_total_bytes": 72498234,
+    "paragraphs": 34766,
+    "ruby_annotations": 29083,
+    "gaiji_annotations": 651,
+    "format_annotations": 15175,
+    "illustration_anchors": 552,
+    "sidecar_counts": {
+      "V01": 2563,
+      "V02": 2577,
+      "V03": 2311,
+      "V04": 2746,
+      "V05": 2259,
+      "V06": 2356,
+      "V07": 2754,
+      "V08": 2252,
+      "V09": 2314,
+      "V10": 2350,
+      "V11": 2327,
+      "V12": 2547,
+      "V13": 3041,
+      "V14": 2369
+    }
+  },
+  "failures": [],
+  "raw_source_verification": [
+    {
+      "volume": 1,
+      "file": "A Sister's All You Need - Volume 01 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 17543612,
+      "bytes_actual": 17543612,
+      "sha_expected": "73d79276ea950d82d3338ab93b023473676855b9cc3759b32899d88f87cdca9b",
+      "sha_actual": "73d79276ea950d82d3338ab93b023473676855b9cc3759b32899d88f87cdca9b",
+      "crc_pass": true
+    },
+    {
+      "volume": 2,
+      "file": "A Sister's All You Need - Volume 02 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 13148865,
+      "bytes_actual": 13148865,
+      "sha_expected": "5f942c7d2e1c14bbb0a55b81257e95dc776b70c28f872633084a93693a2488ff",
+      "sha_actual": "5f942c7d2e1c14bbb0a55b81257e95dc776b70c28f872633084a93693a2488ff",
+      "crc_pass": true
+    },
+    {
+      "volume": 3,
+      "file": "A Sister's All You Need - Volume 03 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 12108933,
+      "bytes_actual": 12108933,
+      "sha_expected": "edc655a6b440f7ee927cfc8ef09d72c5a8b950800dacf5d2ddff6e2e54c3b9d3",
+      "sha_actual": "edc655a6b440f7ee927cfc8ef09d72c5a8b950800dacf5d2ddff6e2e54c3b9d3",
+      "crc_pass": true
+    },
+    {
+      "volume": 4,
+      "file": "A Sister's All You Need - Volume 04 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 3829274,
+      "bytes_actual": 3829274,
+      "sha_expected": "e753b87bd220f78575e43a89a1b9646c0cf2985d740805e9fe4822d9ef52e674",
+      "sha_actual": "e753b87bd220f78575e43a89a1b9646c0cf2985d740805e9fe4822d9ef52e674",
+      "crc_pass": true
+    },
+    {
+      "volume": 5,
+      "file": "A Sister's All You Need - Volume 05 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 9055624,
+      "bytes_actual": 9055624,
+      "sha_expected": "7f46b0c0f96dfed933fa46cbd1f4bab9d80b74808bdf566f0416f7a7b1c3af53",
+      "sha_actual": "7f46b0c0f96dfed933fa46cbd1f4bab9d80b74808bdf566f0416f7a7b1c3af53",
+      "crc_pass": true
+    },
+    {
+      "volume": 6,
+      "file": "A Sister's All You Need - Volume 06 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 15384271,
+      "bytes_actual": 15384271,
+      "sha_expected": "3c7e5338586227512ed16f9f9af7d31f3076403f3962b3e4f8945909c6dc5e9a",
+      "sha_actual": "3c7e5338586227512ed16f9f9af7d31f3076403f3962b3e4f8945909c6dc5e9a",
+      "crc_pass": true
+    },
+    {
+      "volume": 7,
+      "file": "A Sister's All You Need - Volume 07 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 19282376,
+      "bytes_actual": 19282376,
+      "sha_expected": "75f8f9f8cf6ba3bb58f395506280aeb0e5c54593c4bbe9248b3ecf6e115c8566",
+      "sha_actual": "75f8f9f8cf6ba3bb58f395506280aeb0e5c54593c4bbe9248b3ecf6e115c8566",
+      "crc_pass": true
+    },
+    {
+      "volume": 8,
+      "file": "A Sister's All You Need - Volume 08 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 35450423,
+      "bytes_actual": 35450423,
+      "sha_expected": "caec6062f4a5649762edbf3f2eb2265c99a8be7e4d54f03b6c0aae1cd19569f9",
+      "sha_actual": "caec6062f4a5649762edbf3f2eb2265c99a8be7e4d54f03b6c0aae1cd19569f9",
+      "crc_pass": true
+    },
+    {
+      "volume": 9,
+      "file": "A Sister's All You Need - Volume 09 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 31412256,
+      "bytes_actual": 31412256,
+      "sha_expected": "25661b4807c64202f6febc1c69646d09900b25e3281f8928b75d2d070a378cfd",
+      "sha_actual": "25661b4807c64202f6febc1c69646d09900b25e3281f8928b75d2d070a378cfd",
+      "crc_pass": true
+    },
+    {
+      "volume": 10,
+      "file": "A Sister's All You Need - Volume 10 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 20944508,
+      "bytes_actual": 20944508,
+      "sha_expected": "69440a509c1aee946857b52994b1eab96a59bf7ecbb18a7da6bbf02253f5c06a",
+      "sha_actual": "69440a509c1aee946857b52994b1eab96a59bf7ecbb18a7da6bbf02253f5c06a",
+      "crc_pass": true
+    },
+    {
+      "volume": 11,
+      "file": "A Sister's All You Need - Volume 11 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 28415419,
+      "bytes_actual": 28415419,
+      "sha_expected": "ae1f5cba5fca191e8d27a17658e7679567bc4018cde347001c84ef5a43f5f5d7",
+      "sha_actual": "ae1f5cba5fca191e8d27a17658e7679567bc4018cde347001c84ef5a43f5f5d7",
+      "crc_pass": true
+    },
+    {
+      "volume": 12,
+      "file": "A Sister's All You Need - Volume 12 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 5327450,
+      "bytes_actual": 5327450,
+      "sha_expected": "fbf988f8620b09d476a3d993ab6f931f6dc2db6fabb1cec8afd985c98c635e7f",
+      "sha_actual": "fbf988f8620b09d476a3d993ab6f931f6dc2db6fabb1cec8afd985c98c635e7f",
+      "crc_pass": true
+    },
+    {
+      "volume": 13,
+      "file": "A Sister's All You Need - Volume 13 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 5741368,
+      "bytes_actual": 5741368,
+      "sha_expected": "70c62c02d882a8f7ada21657a03c0521ca1092bbbdc6e5e5d23e317419224737",
+      "sha_actual": "70c62c02d882a8f7ada21657a03c0521ca1092bbbdc6e5e5d23e317419224737",
+      "crc_pass": true
+    },
+    {
+      "volume": 14,
+      "file": "A Sister's All You Need - Volume 14 [Japanese].epub",
+      "exists": true,
+      "bytes_expected": 5035527,
+      "bytes_actual": 5035527,
+      "sha_expected": "86dd3d6ae2196f1255b9266003e0b6337ee5011e0d11d0a4d2afe25791d31fd5",
+      "sha_actual": "86dd3d6ae2196f1255b9266003e0b6337ee5011e0d11d0a4d2afe25791d31fd5",
+      "crc_pass": true
+    }
+  ],
+  "candidate_file_verification": [
+    {
+      "path": "normalized_reading_layer/IMOSAE_V01_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2809124,
+      "bytes_actual": 2809124,
+      "sha_expected": "bc35fb411a397bd6fcb9e42d48a319154dedbb48d714459e45c5e51c69ae3f4c",
+      "sha_actual": "bc35fb411a397bd6fcb9e42d48a319154dedbb48d714459e45c5e51c69ae3f4c"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V01_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 591493,
+      "bytes_actual": 591493,
+      "sha_expected": "0ca9147165d77f5cb62d4280b1bd44bd94309bb89a9cf19b7d6a053a91d9fef3",
+      "sha_actual": "0ca9147165d77f5cb62d4280b1bd44bd94309bb89a9cf19b7d6a053a91d9fef3"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V02_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2841428,
+      "bytes_actual": 2841428,
+      "sha_expected": "0f9fd0debbdc8e337015ecffc442e5cc2e120055ad51b628c84e82b4ce20673b",
+      "sha_actual": "0f9fd0debbdc8e337015ecffc442e5cc2e120055ad51b628c84e82b4ce20673b"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V02_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 602452,
+      "bytes_actual": 602452,
+      "sha_expected": "9892d20e45186736b2a60ed82be2ad2843b7545209f5fc9f6abc0b0ca9f35755",
+      "sha_actual": "9892d20e45186736b2a60ed82be2ad2843b7545209f5fc9f6abc0b0ca9f35755"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V03_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2430054,
+      "bytes_actual": 2430054,
+      "sha_expected": "28500dde43f0eead05248c37f27891b13f16090c691a4efa32e1b4ecbaa29cc1",
+      "sha_actual": "28500dde43f0eead05248c37f27891b13f16090c691a4efa32e1b4ecbaa29cc1"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V03_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 489876,
+      "bytes_actual": 489876,
+      "sha_expected": "ba1bab63f192afb7b9529b4488cc5da9ad29d5142a912344a6f6dfde9e278651",
+      "sha_actual": "ba1bab63f192afb7b9529b4488cc5da9ad29d5142a912344a6f6dfde9e278651"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V04_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 3246815,
+      "bytes_actual": 3246815,
+      "sha_expected": "03563f02ec6a5118117e7b8b05b5e8ac1a5b0efef1c2970db368f89c82a50c5e",
+      "sha_actual": "03563f02ec6a5118117e7b8b05b5e8ac1a5b0efef1c2970db368f89c82a50c5e"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V04_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 594729,
+      "bytes_actual": 594729,
+      "sha_expected": "b23bd1e3880038fbb9dc43672950fe2261f4cbde64abc4ea14fc34039b35afed",
+      "sha_actual": "b23bd1e3880038fbb9dc43672950fe2261f4cbde64abc4ea14fc34039b35afed"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V05_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2460941,
+      "bytes_actual": 2460941,
+      "sha_expected": "ae01655ec0231eb83980b2d0412ca901dacd9b6db2cb3bf19c59be0c77d73518",
+      "sha_actual": "ae01655ec0231eb83980b2d0412ca901dacd9b6db2cb3bf19c59be0c77d73518"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V05_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 516142,
+      "bytes_actual": 516142,
+      "sha_expected": "599bd9473ec17f63123ed3290fa0ba1abe3f7415c9c83808552c7aff18563de5",
+      "sha_actual": "599bd9473ec17f63123ed3290fa0ba1abe3f7415c9c83808552c7aff18563de5"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V06_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2536911,
+      "bytes_actual": 2536911,
+      "sha_expected": "37112fec68c6eee90a8d64c7d5aa8a4037bb767f031dba549c0ecbfba931a7b1",
+      "sha_actual": "37112fec68c6eee90a8d64c7d5aa8a4037bb767f031dba549c0ecbfba931a7b1"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V06_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 523329,
+      "bytes_actual": 523329,
+      "sha_expected": "74a12fbf7a5a5bbc68a8dcc1b782c26688f6dbb8831843d6031dba5e67ee1461",
+      "sha_actual": "74a12fbf7a5a5bbc68a8dcc1b782c26688f6dbb8831843d6031dba5e67ee1461"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V07_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2976484,
+      "bytes_actual": 2976484,
+      "sha_expected": "29bd77683adcec2fd72d65f4d3a88e270e9dab688c7ba9da7be4e16f25e99bd1",
+      "sha_actual": "29bd77683adcec2fd72d65f4d3a88e270e9dab688c7ba9da7be4e16f25e99bd1"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V07_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 612682,
+      "bytes_actual": 612682,
+      "sha_expected": "9a754d1468c98fd49d4b7926cf6f174763d9784ec2e908867ba1af0eab14a4fe",
+      "sha_actual": "9a754d1468c98fd49d4b7926cf6f174763d9784ec2e908867ba1af0eab14a4fe"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V08_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2399054,
+      "bytes_actual": 2399054,
+      "sha_expected": "6d76e14c9d63a54f66c36f5d75eeee4e58fbe008f21bdd99590a20f1535a2c41",
+      "sha_actual": "6d76e14c9d63a54f66c36f5d75eeee4e58fbe008f21bdd99590a20f1535a2c41"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V08_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 494538,
+      "bytes_actual": 494538,
+      "sha_expected": "d7ea429fa04cc6d0366f16089d80d7b4ed1d37ea03698aab3c35710809b682b6",
+      "sha_actual": "d7ea429fa04cc6d0366f16089d80d7b4ed1d37ea03698aab3c35710809b682b6"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V09_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2618597,
+      "bytes_actual": 2618597,
+      "sha_expected": "c9c535a1ea5c872f4f65bd03777b84ebb5c4abc6a2355da369986630504b36a8",
+      "sha_actual": "c9c535a1ea5c872f4f65bd03777b84ebb5c4abc6a2355da369986630504b36a8"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V09_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 567446,
+      "bytes_actual": 567446,
+      "sha_expected": "b670159249980a30b16f3f01e49f73c8b97797c43668fbffe26a8b963da545de",
+      "sha_actual": "b670159249980a30b16f3f01e49f73c8b97797c43668fbffe26a8b963da545de"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V10_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2495858,
+      "bytes_actual": 2495858,
+      "sha_expected": "7f08a153dd9717523eeeae704da5a1627fec68fc85bb17848fdfbb90a37e252e",
+      "sha_actual": "7f08a153dd9717523eeeae704da5a1627fec68fc85bb17848fdfbb90a37e252e"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V10_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 515869,
+      "bytes_actual": 515869,
+      "sha_expected": "48b1ba7b35a85df5bddc7b5fd12252af65ca599c4007150bf7627996b6bdb787",
+      "sha_actual": "48b1ba7b35a85df5bddc7b5fd12252af65ca599c4007150bf7627996b6bdb787"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V11_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2494973,
+      "bytes_actual": 2494973,
+      "sha_expected": "5f4ab5385d53d67827e2ce0ebcb780e5127ae7ef4a86582330c75e059ec19401",
+      "sha_actual": "5f4ab5385d53d67827e2ce0ebcb780e5127ae7ef4a86582330c75e059ec19401"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V11_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 504646,
+      "bytes_actual": 504646,
+      "sha_expected": "6f398760d847bb299aa58f2094dd4712d8109fcae47242ce86f0d257ee8d5f14",
+      "sha_actual": "6f398760d847bb299aa58f2094dd4712d8109fcae47242ce86f0d257ee8d5f14"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V12_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2903735,
+      "bytes_actual": 2903735,
+      "sha_expected": "7897d214e170810c219fd03c0b423e87b86cb27eb0b4cbe9c0bbcfc7f2d59177",
+      "sha_actual": "7897d214e170810c219fd03c0b423e87b86cb27eb0b4cbe9c0bbcfc7f2d59177"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V12_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 523226,
+      "bytes_actual": 523226,
+      "sha_expected": "f184a7672f8253c8186fd4c211ba240dcd341765c93d3229f7914db9f2675abc",
+      "sha_actual": "f184a7672f8253c8186fd4c211ba240dcd341765c93d3229f7914db9f2675abc"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V13_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 3528595,
+      "bytes_actual": 3528595,
+      "sha_expected": "4aa48c13708723ac26e81abebc48d0d0bde015480ae8466220c507746b4f37e0",
+      "sha_actual": "4aa48c13708723ac26e81abebc48d0d0bde015480ae8466220c507746b4f37e0"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V13_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 668182,
+      "bytes_actual": 668182,
+      "sha_expected": "9e88d11ec3fcca592c191830d9b2bb5988f0ec1e7ae842e6b1fbe603db063aec",
+      "sha_actual": "9e88d11ec3fcca592c191830d9b2bb5988f0ec1e7ae842e6b1fbe603db063aec"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V14_NORMALIZED_PARAGRAPHS.jsonl",
+      "exists": true,
+      "bytes_expected": 2739547,
+      "bytes_actual": 2739547,
+      "sha_expected": "d2317c0444d91981532ae072154bd16c07a57356a78df0f725090e666f781852",
+      "sha_actual": "d2317c0444d91981532ae072154bd16c07a57356a78df0f725090e666f781852"
+    },
+    {
+      "path": "normalized_reading_layer/IMOSAE_V14_NORMALIZED_SOURCE.md",
+      "exists": true,
+      "bytes_expected": 514217,
+      "bytes_actual": 514217,
+      "sha_expected": "2f0745997a3e5b9ad2551004a37706b10ba2560642a6ab6edebcab61eab6e9f2",
+      "sha_actual": "2f0745997a3e5b9ad2551004a37706b10ba2560642a6ab6edebcab61eab6e9f2"
+    },
+    {
+      "path": "machine_readable/spine_content_index.jsonl",
+      "exists": true,
+      "bytes_expected": 4165459,
+      "bytes_actual": 4165459,
+      "sha_expected": "a5e5d314a4dd18d068ed7eed9ab16358141e5227949df04c1a2f20fabb4dad89",
+      "sha_actual": "a5e5d314a4dd18d068ed7eed9ab16358141e5227949df04c1a2f20fabb4dad89"
+    },
+    {
+      "path": "machine_readable/locator_index.jsonl",
+      "exists": true,
+      "bytes_expected": 21877870,
+      "bytes_actual": 21877870,
+      "sha_expected": "ebf39fc0deb4d9c910fc412c7f4f3060f2b3cbd8d187293bc2155c87a6e8e61e",
+      "sha_actual": "ebf39fc0deb4d9c910fc412c7f4f3060f2b3cbd8d187293bc2155c87a6e8e61e"
+    },
+    {
+      "path": "machine_readable/normalized_layer_validation.json",
+      "exists": true,
+      "bytes_expected": 106375,
+      "bytes_actual": 106375,
+      "sha_expected": "63dba7602a5d004f08ef44915daba3aed9c3c4235e1f1107af4f9f4524397121",
+      "sha_actual": "63dba7602a5d004f08ef44915daba3aed9c3c4235e1f1107af4f9f4524397121"
+    },
+    {
+      "path": "machine_readable/normalization_roundtrip_validation.json",
+      "exists": true,
+      "bytes_expected": 147587,
+      "bytes_actual": 147587,
+      "sha_expected": "1b711a73d1d2894214fd664e195a61bc39a6f1b8f963638a3f46fd6d77264e2c",
+      "sha_actual": "1b711a73d1d2894214fd664e195a61bc39a6f1b8f963638a3f46fd6d77264e2c"
+    }
+  ],
+  "local_verification_pass": true,
+  "decision": "PROMOTE",
+  "drive_verification": {
+    "raw_source_folder_id": "14ty92DWQTVyWDPBQBxUUzOEuKIDjf8aB",
+    "normalized_folder_id": "1621QxO9x3GpR2wh7bpXtSUB9zgA4AaDX",
+    "normalized_machine_folder_id": "18yvch7xMrvPS3XobOoS7a4QIpevOEuil",
+    "audit_folder_id": "1JhVuZHPAKiLkMyaVyt2ugnJXPPEi7DVp",
+    "raw_epubs_present": 14,
+    "raw_epubs_expected": 14,
+    "normalized_markdown_present": 14,
+    "normalized_markdown_expected": 14,
+    "machine_files_present": 20,
+    "machine_files_expected": 20,
+    "candidate_payload_files_present": 32,
+    "candidate_payload_files_expected": 32,
+    "candidate_payload_size_match": true,
+    "raw_epub_size_match": true,
+    "critical_exact_byte_fetches": [
+      {
+        "file": "normalized_layer_manifest.json",
+        "drive_id": "1IYRwvKtKcHWEIK-rQN_wF73h9qyjquht",
+        "sha256": "74193178b7f0cab957a7b30fe6896a67a3f7c86545b9818d27ee2060cf1cecb8",
+        "exact_match_local_pre_promotion": true
+      },
+      {
+        "file": "normalized_layer_checksums.sha256",
+        "drive_id": "1fSag_583iI6XXlSfUIoGo4__aB1s5BEK",
+        "sha256": "08763b5845d1a5a8ddc4e42a5bcabeacd8012eba0cca71cf74b8d47389c40847",
+        "exact_match_local": true
+      },
+      {
+        "file": "IMOSAE_V01_NORMALIZED_SOURCE.md",
+        "drive_id": "1Cc4xNeviSwxq5IAmc3fh7TY8wVGjSqzR",
+        "sha256": "0ca9147165d77f5cb62d4280b1bd44bd94309bb89a9cf19b7d6a053a91d9fef3",
+        "exact_match_local": true
+      },
+      {
+        "file": "IMOSAE_V14_NORMALIZED_SOURCE.md",
+        "drive_id": "1hH4W1ev4vdpoeZo4Znus64K3TM2E4Thw",
+        "sha256": "2f0745997a3e5b9ad2551004a37706b10ba2560642a6ab6edebcab61eab6e9f2",
+        "exact_match_local": true
+      },
+      {
+        "file": "locator_index.jsonl",
+        "drive_id": "1g4K8PkGjGmeoebRElDUKgmQFy7PfLsiI",
+        "sha256": "ebf39fc0deb4d9c910fc412c7f4f3060f2b3cbd8d187293bc2155c87a6e8e61e",
+        "exact_match_local": true
+      }
+    ],
+    "verification_basis": "Drive folder listings for complete name/byte-size coverage plus exact-byte authenticated fetch/hash comparison for release manifest, checksum ledger, V01 source, V14 source, and global locator index."
+  },
+  "authority_transition": {
+    "from": "IMOSAE-JP-LN-NORM-1.0-RC1",
+    "to": "IMOSAE-JP-LN-NORM-1.0",
+    "decision": "PROMOTE_UNCHANGED_PAYLOAD",
+    "payload_files": 32,
+    "payload_bytes": 72498234,
+    "payload_mutated_during_closure_audit": false,
+    "frozen": true,
+    "future_correction_policy": "Do not mutate the frozen 1.0 payload. Corrections require a later normalized release version."
+  },
+  "release_metadata": {
+    "pre_promotion_manifest_sha256": "74193178b7f0cab957a7b30fe6896a67a3f7c86545b9818d27ee2060cf1cecb8",
+    "post_promotion_manifest_sha256": "7bd0235502322217885d650b8e7db9f8fc3c1c4469440914475cbb72a95e8227",
+    "payload_checksum_ledger_sha256": "08763b5845d1a5a8ddc4e42a5bcabeacd8012eba0cca71cf74b8d47389c40847",
+    "audit_markdown_sha256": "d85d3dde417202d8a130023c2426a546408289b622762f38ababd52ad5f95b29",
+    "pre_promotion_manifest_snapshot": "normalized_layer_manifest_RC1_pre_promotion.json"
+  }
+}

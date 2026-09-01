@@ -1,0 +1,45 @@
+{
+  "V1_TO_V2_REVISION_LEDGER.md": {
+    "bytes": 122111,
+    "words": 16788,
+    "sha256": "c72dd6eb53e56651111ac7b28a26eedcd75d2bf20c443dcc6d6afcbe7b47e599"
+  },
+  "TBHX_V2_PHASE2_V1_TO_V2_REVISION_CHECKPOINT.md": {
+    "bytes": 5725,
+    "words": 733,
+    "sha256": "eebb295c4dfeb3becae2831a1b4e76bfa6548aff7fc15e92d065a74a4bafdf29"
+  },
+  "TBHX_V2_PHASE2_CLOSURE_CHECKPOINT.md": {
+    "bytes": 13213,
+    "words": 1621,
+    "sha256": "80a637a4f553f2f8cb0f903449d2d15a7c5cda25ddf8640f3929c8e8daaaf17f"
+  },
+  "TBHX_CURRENT_STATE_AND_CORPUS_MAP.md": {
+    "bytes": 22955,
+    "words": 2810,
+    "sha256": "8c88220758070177afcc3a1b8421ee92bdc434bbe476f97c7055ce6f08c7f2ba"
+  },
+  "MANGA_ANIME_DRIVE_INDEX.md": {
+    "bytes": 88461,
+    "words": 10393,
+    "sha256": "ba8ca56b393f248b7fe46f88933983a5941ec3afb6b092dbe29a804404cc5ac6"
+  },
+  "CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md": {
+    "bytes": 144986,
+    "words": 21310,
+    "sha256": "a4d593adf2b03f2f2fc0f7a6fccee3fd5154199570ade35fac2017c9bfa85fdb"
+  },
+  "TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md": {
+    "bytes": 21047,
+    "words": 2766,
+    "sha256": "8ceafe4d8475187fb57eadac1a66f8d311e801a64c05164ee641ab645dbfdbe7"
+  },
+  "phase2_total_words": 133472,
+  "hyp_dispositions": {
+    "REVISE": 16,
+    "STRENGTHEN": 21,
+    "DOWNGRADE": 2,
+    "PRESERVE": 1
+  },
+  "v1_historical_body_sha256": "9dcac9f02b51d0d34138e5f9745f4596a8544290d44b5611bcc146a94d9d9434"
+}

@@ -1,0 +1,93 @@
+{
+  "series": "GKM",
+  "character": "Shinosawa Hiro / 篠澤広",
+  "artifact_type": "release_manifest",
+  "generation": "V2",
+  "status": "canonical",
+  "last_updated": "2026-08-17",
+  "release_name": "GAKUEN_IDOLMASTER_PHASE3_HIRO_COMPLETE_AUDIOVISUAL_BASELINE",
+  "source_manifest": "GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST.json",
+  "canonical_authority": "GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md",
+  "files": [
+    {
+      "name": "GKM_CORE_07_SHINOSAWA_HIRO_AV_REVISION_ADDENDUM.md",
+      "bytes": 4481,
+      "sha256": "f7b9810ececfa9d4c3f18854860e5a0d66b3cd540799bf22a7d25ad937c8434c",
+      "words": 554
+    },
+    {
+      "name": "GKM_HIRO_AV_EVIDENCE_AND_METRICS_MATRIX.md",
+      "bytes": 6618,
+      "sha256": "33ec30cad48d2b97a64a59650714038b749a55ec0f27b609b6e9588a4d529efe",
+      "words": 923
+    },
+    {
+      "name": "GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md",
+      "bytes": 26828,
+      "sha256": "a3184a8c72b2a70426c967a05a8592a61c732d3c5251bd9b51dfed71307cd4d1",
+      "words": 3753
+    },
+    {
+      "name": "GKM_HIRO_DIALOGUE_VOICE_ACTING_CLOSE_READING.md",
+      "bytes": 10481,
+      "sha256": "26ac4354929a25e670ba2d529bc7f4fd2b6e315bf8d6719ba2b1c19f912b39ad",
+      "words": 1478
+    },
+    {
+      "name": "GKM_HIRO_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md",
+      "bytes": 11285,
+      "sha256": "79710f9f60de8f9a4be66352ad4fddb47f1b937b041ea4b5cfe50e970b64ec30",
+      "words": 1558
+    },
+    {
+      "name": "GKM_PHASE3_HIRO_AUDIOVISUAL_ARTIFACT_CHECKSUMS.sha256",
+      "bytes": 1120,
+      "sha256": "dab585791d83f8d07148bab54549465f7ac45ce8abe01fc2733f196e5eedf96c",
+      "words": null
+    },
+    {
+      "name": "GKM_PHASE3_HIRO_AUDIOVISUAL_COMPLETION_REPORT.md",
+      "bytes": 2022,
+      "sha256": "bfc5d0d7eda82ea37ab25d173b956f6713c763b0efda8ac6a99038c1ab47028b",
+      "words": 241
+    },
+    {
+      "name": "GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST.json",
+      "bytes": 32737,
+      "sha256": "8b0707843b8d0ad8fd171a0f560d0ba006bd78ec26b89ee1a25c7f84cf92349d",
+      "words": null
+    },
+    {
+      "name": "GKM_PHASE3_HIRO_AV_DELIVERY_AUDIT.md",
+      "bytes": 2299,
+      "sha256": "956cc2292fde8ea8cb4c5b6f71530937f1d9e6ac53356449d59ead5c3dfee301",
+      "words": 290
+    },
+    {
+      "name": "GKM_PHASE3_HIRO_AV_RELEASE_MANIFEST.json",
+      "bytes": 579,
+      "sha256": "54b36d3d0dc5520be87c81a1cf3d3c85cbb12e3b35fc2389ca567e45e2dd1e00",
+      "words": null
+    },
+    {
+      "name": "GKM_PHASE3_HIRO_AV_TECHNICAL_METRICS_APPENDIX.md",
+      "bytes": 2771,
+      "sha256": "63d18fdc3987fd64715b01d41dc1c182f92e10d2ab9ea8c905eb61d1a2a4eb85",
+      "words": 369
+    }
+  ],
+  "zip": {
+    "name": "GAKUEN_IDOLMASTER_PHASE3_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.zip",
+    "bytes": 39770,
+    "sha256_sidecar": "GAKUEN_IDOLMASTER_PHASE3_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.zip.sha256",
+    "crc_test": "pass",
+    "note": "Sidecar governs final archive hash; archive contains an earlier manifest snapshot to avoid recursive self-hash."
+  },
+  "exclusions": [
+    "source videos",
+    "extracted audio",
+    "contact sheets",
+    "working scripts",
+    "temporary Drive files"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "project": "Gakuen Idolmaster V2",
+  "phase": "3 — Character-Core Readings",
+  "character": "Hanami Saki / 花海咲季",
+  "source_lock": "GAKUMAS V2 Source Lock 1.0",
+  "created": "2026-08-13",
+  "character_core": {
+    "unique_scripts": 215,
+    "message_lines": 5616,
+    "families": {
+      "pstory": {
+        "scripts": 48,
+        "messages": 864
+      },
+      "dear": {
+        "scripts": 38,
+        "messages": 2440
+      },
+      "cidol": {
+        "scripts": 33,
+        "messages": 1300
+      },
+      "pevent": {
+        "scripts": 83,
+        "messages": 974
+      },
+      "live": {
+        "scripts": 8,
+        "messages": 14
+      },
+      "pgrowth": {
+        "scripts": 3,
+        "messages": 12
+      },
+      "startup": {
+        "scripts": 2,
+        "messages": 12
+      }
+    }
+  },
+  "reused_reference_track": {
+    "track": "U1",
+    "unique_scripts": 66,
+    "message_lines": 4525
+  },
+  "analytical_scope": {
+    "unique_source_objects": 281,
+    "message_lines": 10141
+  },
+  "audiovisual_queue": {
+    "music_or_mv_objects": 11,
+    "dialogue_objects": 6,
+    "p0_items": [
+      "AV-MUS-SAKI-001",
+      "AV-MUS-SAKI-005",
+      "AV-DIA-SAKI-001"
+    ],
+    "p0_p1_item": "AV-MUS-SAKI-007"
+  },
+  "final_status": "Saki Phase-3 core pass complete; provisional pending events, support cards, comparative character passes, and audiovisual close reading"
+}

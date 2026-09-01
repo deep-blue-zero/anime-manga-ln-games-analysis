@@ -1,0 +1,56 @@
+{
+  "series": "TBHX",
+  "phase": 3,
+  "specialist_number": 13,
+  "artifact": "13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md",
+  "status": "PASS",
+  "checks": {
+    "utf8": true,
+    "yaml_front_matter": true,
+    "canonical_status": true,
+    "section_sequence": "0-49",
+    "section_count": 50,
+    "whitespace_word_count": 12188,
+    "bytes": 82675,
+    "sha256": "6374718854b451d9b4a14c32b7d1b8eb246078e5649b9fd77bcec14fb17ff2ab",
+    "referenced_p2_claim_ids": 54,
+    "missing_p2_claim_ids": [],
+    "specialist_local_claims": [
+      "SP13-01",
+      "SP13-02",
+      "SP13-03",
+      "SP13-04",
+      "SP13-05",
+      "SP13-06",
+      "SP13-07",
+      "SP13-08",
+      "SP13-09",
+      "SP13-10",
+      "SP13-11",
+      "SP13-12",
+      "SP13-13",
+      "SP13-14",
+      "SP13-15",
+      "SP13-16"
+    ],
+    "placeholder_tokens": [],
+    "exact_normalized_duplicate_blocks_600plus": [],
+    "current_state_map_phase3_progress": "8/11",
+    "global_index_version": 1.42,
+    "global_index_merge_preserved_86_cmr1": true,
+    "frozen_episode_bodies_modified": false,
+    "zip_crc_test": "PASS"
+  },
+  "protected_boundaries_verified": [
+    "Damage, not a universal pain meter",
+    "The unnamed evaluator",
+    "does not support a settled family biography",
+    "The crowd is not irrational",
+    "Commission arbitration",
+    "Protected questions"
+  ],
+  "drive": {
+    "specialist_id": "1IfP0iN7F2UtUz2wAlKXWf71WfYsmjLWJ",
+    "checkpoint_id": "1ZsaG_t7C0HPo20chNsqvDg8ppp7yDo-3"
+  }
+}

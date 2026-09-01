@@ -1,0 +1,226 @@
+evidence_id	source	source_locator	prior_locator_id	short_japanese_anchor	quote_state	evidence_class	analytic_function	note
+T10-E001	V01	memoir epigraph / p-001.xhtml ¶001	V01-L001	豚に人権を与えぬことを	EXACT_VERIFIED	NV/PT/LI	formal_status_rights_citizenship	01, 05, 12
+T10-E002	V01	Ch.1 / p-005.xhtml ¶002	V01-L002	その戦場に、死者はいない	EXACT_VERIFIED	NV	institutional_comparative_control	01, 05
+T10-E003	V01	Ch.1 / p-005.xhtml ¶083–086	V01-L003	人間ではないのだから` / `情報処理装置	EXACT_VERIFIED	PF/MI/LI	information_public_speech	05, 07, 08, 12
+T10-E004	V01	Ch.1 / p-005.xhtml ¶211	V01-L005	誤ちを黙認するのは	EXACT_VERIFIED	CS	democracy_law_accountability	03, 05
+T10-E005	V01	Ch.2 / p-007.xhtml ¶035	V01-L006	死んだ仲間を悼む自由も	EXACT_VERIFIED	NV	usable_freedom_self_government	05, 09
+T10-E006	V01	Ch.3 / p-008.xhtml ¶127	V01-L009	より数が少なくて、弱い者に冷たい	EXACT_VERIFIED	CS	social_equality_race_othering	04, 05
+T10-E007	V01	Ch.3 / p-008.xhtml ¶266	V01-L011	名前さえ、一回だって訊いたことがない	EXACT_VERIFIED	CS/LI	institutional_memory_archive	03, 04, 05, 10
+T10-E008	V01	Ch.4 / p-010.xhtml ¶272	V01-L016	死んだでしょう、共和国は九年前に	EXACT_VERIFIED	CS	institutional_comparative_control	01, 05
+T10-E009	V01	Ch.6 / p-014.xhtml ¶029	V01-L019	守らせるためではなく、死なせるために	EXACT_VERIFIED	NV/MI	expendability_exit_blocked_return	05, 07
+T10-E010	V01	Ch.6 / p-014.xhtml ¶252–260	V01-L022	constitution / majority exchange	PARAPHRASE	CS/MI	democracy_law_accountability	05, 06
+T10-E011	V02	Ch.1 / p-004.xhtml ¶056	V02-L003	共和国の化物め	EXACT_VERIFIED	CS/LI	social_equality_race_othering	06, 09, 12
+T10-E012	V02	Ch.2 / p-005.xhtml ¶371–373	V02-L014	それじゃ共和国と同じじゃないか	EXACT_VERIFIED	CS/MI	institutional_comparative_control	06, 08
+T10-E013	V02	Ch.2 / p-005.xhtml ¶385	V02-L015	今日から連邦市民	EXACT_VERIFIED	PF	formal_status_rights_citizenship	06
+T10-E014	V02	Ch.2 / p-005.xhtml ¶420–423	V02-L017	first ordinary peaceful multiethnic city	PARAPHRASE	NV/BA	social_equality_race_othering	06, 09
+T10-E015	V02	Ch.3 / p-006.xhtml ¶077–080	V02-L020	civilian activities / `もうエイティシックスなどではない	PARAPHRASE + EXACT_ANCHOR	NV	social_equality_race_othering	06, 09
+T10-E016	V02	Ch.3 / p-006.xhtml ¶352–358	V02-L025	ただの子供に戻って` / empty rooms	EXACT_ANCHOR	NV/SI	usable_freedom_self_government	06, 09
+T10-E017	V02	Ch.3 / p-006.xhtml ¶429–434	V02-L028	哀れみの檻	EXACT_VERIFIED	CS/LI	paternalism_guardianship	06, 09, 12
+T10-E018	V02	Ch.3 / p-006.xhtml ¶461	V02-L030	今更見誤るような真似をするかよ	EXACT_VERIFIED	CS	institutional_comparative_control	04, 06
+T10-E019	V02	Ch.3 / p-006.xhtml ¶497–507	V02-L031	選べる道はなるべく多い方がいい	EXACT_VERIFIED	CS	capability_scaffolding_infrastructure	06, 09
+T10-E020	V02	Ch.4 / p-007.xhtml ¶509–513	V02-L039	一方的な同情はむしろ理解の放棄	EXACT_VERIFIED	NV/LI	paternalism_guardianship	06, 12
+T10-E021	V02	Ch.5 / p-008.xhtml ¶358–366	V02-L046	警報装置` / `実験動物` / reporting channel	EXACT_ANCHOR	CS/MI	capability_scaffolding_infrastructure	06, 07, 08
+T10-E022	V02	Ch.5 / p-008.xhtml ¶394	V02-L047	本当の意味では抜け出していなかった	EXACT_VERIFIED	NV/LI	usable_freedom_self_government	02, 06, 09
+T10-E023	V03	Ch.6 / p-005.xhtml ¶078	V03-L004	大事に籠の鳥にされていたろう	EXACT_VERIFIED	NV	paternalism_guardianship	03,06,07
+T10-E024	V03	Ch.6 / p-005.xhtml ¶315	V03-L005	戦闘神経症で大勢後送	EXACT_VERIFIED	PF/MI	emergency_coercion	07,08,09
+T10-E025	V03	Ch.6 / p-006.xhtml ¶029–030	V03-L009	今は選んでこの戦場にいる` / `進む道を選べる	EXACT_VERIFIED	NV	usable_freedom_self_government	06,07,09
+T10-E026	V03	Ch.6 / p-006.xhtml ¶042	V03-L010	一番失っても惜しくない駒	EXACT_VERIFIED	NV	expendability_exit_blocked_return	06,07
+T10-E027	V03	Ch.6 / p-006.xhtml ¶079	V03-L014	区別も差別も、悪意だけじゃない	EXACT_VERIFIED	CS	social_equality_race_othering	06,05
+T10-E028	V03	Ch.6 / p-006.xhtml ¶085–092	V03-L015	そうした化物どもでさえ` / `あるべき理想	EXACT_VERIFIED	CS	social_equality_race_othering	06
+T10-E029	V03	Ch.7 / mission departure	V03-L018	戦争が終わるまで生き残ること	EXACT_VERIFIED	CS/MI	political_recoverability	06,07,09
+T10-E030	V03	Ch.8 / p-010.xhtml ¶116	V03-L030	手に入れた“自由”` / `あまりにも大きな空虚	EXACT_VERIFIED	NV	usable_freedom_self_government	02,06,09
+T10-E031	V03	Ch.9 / p-011.xhtml ¶244	V03-L036	引く覚悟はフレデリカ自身が決めるべき	EXACT_VERIFIED	NV	usable_freedom_self_government	04,07
+T10-E032	V04	memoir / p-001.xhtml ¶1	V04-L001	敵は、共和国。	EXACT_VERIFIED	PT/NV	institutional_comparative_control	01, 05, 09
+T10-E033	V04	Ch.2 / p-006.xhtml ¶75	V04-L011	兵器の一部` / `資産` / `全機	EXACT_VERIFIED	CS/LI/MI	military_political_instrumentality	05, 06, 12
+T10-E034	V04	Ch.2 / p-006.xhtml ¶108	V04-L012	聖マグノリア純血純白憂国騎士団	EXACT_VERIFIED	PF/LI	social_equality_race_othering	05, 06
+T10-E035	V04	Ch.2 / p-006.xhtml ¶737	V04-L017	豚の鳴き声に、レーナは耳を傾けないでしょう？	EXACT_VERIFIED	CS/LI	social_equality_race_othering	02, 05, 12
+T10-E036	V04	Ch.2 / p-006.xhtml ¶748	V04-L018	共和国の白ブタとは	EXACT_VERIFIED	CS/LI	institutional_comparative_control	03, 05, 12
+T10-E037	V04	Ch.4 / p-008.xhtml ¶77	V04-L019	共和国人のために、エイティシックスに犠牲を	EXACT_VERIFIED	CS/MI	expendability_exit_blocked_return	03, 05, 07
+T10-E038	V04	Ch.4 / p-008.xhtml ¶98	V04-L020	共和国の冷酷まで、大佐が演じる必要はありません	EXACT_VERIFIED	CS	institutional_comparative_control	02, 03, 10
+T10-E039	V04	Shepherd surge / p-009.xhtml ¶83	V04-L025	戦隊副長としての俺の権利と責任	EXACT_VERIFIED	CS/LI/MI	formal_status_rights_citizenship	02, 04, 07
+T10-E040	V04	ending / p-012.xhtml ¶151	V04-L035	嗜好品の同情	EXACT_VERIFIED	NV/LI	paternalism_guardianship	05, 06, 12
+T10-E041	V04	ending / p-012.xhtml ¶168	V04-L036	連邦も別段、理想郷じゃない	EXACT_VERIFIED	CS	institutional_comparative_control	02, 06
+T10-E042	V04	memoir / p-013.xhtml ¶2	V04-L044	おそらくは彼らの、最大の敵だった	EXACT_VERIFIED	PT/NV/RR	institutional_comparative_control	01, 03, 09
+T10-E043	V05	Ch.1 / p-004.xhtml ¶558	V05-L004	人造妖精〈シリン〉一番機	EXACT_VERIFIED	PF/LI	role_assignment_exit_authority	08, 11, 12
+T10-E044	V05	Ch.1 / p-004.xhtml ¶587	V05-L005	材料はあくまで志願者のみ	EXACT_VERIFIED	PF	role_assignment_exit_authority	06, 08
+T10-E045	V05	Ch.2 / p-005.xhtml ¶930–931	V05-L021	檻の扉は開いた` / `何処にも行かないことだって、自由	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	03, 06, 09, 12
+T10-E046	V05	Ch.3 / p-006.xhtml ¶682	V05-L023	未来などない。課された役目しかない	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	08, 09, 11, 12
+T10-E047	V05	Ch.3 / p-006.xhtml ¶759	V05-L028	撤退は、れっきとした戦術行動です	EXACT_VERIFIED	CS/MI/LI	expendability_exit_blocked_return	03, 07, 12
+T10-E048	V05	Ch.4 / p-007.xhtml ¶286	V05-L035	わたくしたちの存在はただ、人のために	EXACT_VERIFIED	CS	role_assignment_exit_authority	08, 11
+T10-E049	V05	Ch.4 / p-007.xhtml ¶314	V05-L036	わたくしたちにとっては、歓びなのです	EXACT_VERIFIED	CS/LI	role_assignment_exit_authority	08, 09, 11, 12
+T10-E050	V05	interlude / p-009.xhtml ¶333–336	V05-L042	英雄とはもはや、弱者の戦術だ	EXACT_VERIFIED	NV/LI/MI	military_political_instrumentality	07, 12
+T10-E051	V06	p-002 ¶25	V06-L002	《その必要があるのかしら。私たち〈レギオン〉に与えられた命令の遂行のために》	EXACT_VERIFIED	PF/NV	institutional_comparative_control	Legion remain obedient weapons executing inherited extermination command
+T10-E052	V06	p-004 ¶151	V06-L007	「……ともかく。戦闘属領兵ってのはその、人狼みたいなもんです。元々は帝国辺境...	EXACT_VERIFIED	CS/MI	hereditary_hierarchy_regression	Bernhold supplies hereditary warrior-culture comparison
+T10-E053	V06	p-004 ¶416	V06-L012	「あんたたちエイティシックスが、自分をエイティシックスだって言う時。自分たち...	EXACT_VERIFIED	CS/IT	social_equality_race_othering	Dustin rejects total freedom and warns against identity foreclosure
+T10-E054	V06	p-004 ¶518	V06-L015	「信じたいんです。この世界にはまだ、誰もが幸せに生きられる世界に、変われる可...	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	Lena chooses belief in the possibility of a world where all can live happily
+T10-E055	V06	p-004 ¶528	V06-L016	「だから……そう。見限らないんじゃない。見限りたくないんです。大攻勢の、あの...	EXACT_VERIFIED	CS/IT	usable_freedom_self_government	Lena refuses to treat cruelty as unchangeable final human truth
+T10-E056	V06	p-005 ¶148	V06-L024	〈シリン〉の元となったのは、死んだ母親の新たな体とするべく幼いヴィーカが用意...	EXACT_VERIFIED	PF/CS	role_assignment_exit_authority	Vika did not program Lerche for absolute obedience
+T10-E057	V06	p-005 ¶150	V06-L025	その〈シリン〉を戦場に送りこみ、消耗品として使い捨てるのを、彼女の主は本心で...	EXACT_VERIFIED	BA/SI	expendability_exit_blocked_return	Vika preserves answer/refusal space rather than issuing a direct command
+T10-E058	V07	Ch.1 / p-004.xhtml ¶22	V07-L002	英雄など今の世に、あるべきではない	EXACT_VERIFIED	CS/MI	military_political_instrumentality	07
+T10-E059	V07	Ch.1 / p-004.xhtml ¶23	V07-L003	代えの利く部品であることこそが、兵のあるべき姿	EXACT_VERIFIED	CS/MI	military_political_instrumentality	07
+T10-E060	V07	Ch.1 / p-006.xhtml ¶436–439	V07-L007	特別にケアが必要	EXACT_VERIFIED	MI/NV	capability_scaffolding_infrastructure	06,09
+T10-E061	V07	Ch.2 / p-007.xhtml ¶307	V07-L008	まさしく貴女が体現しているとおり	EXACT_VERIFIED	CS	institutional_comparative_control	03,05
+T10-E062	V07	Ch.2 / p-007.xhtml ¶326	V07-L009	教え子たちを、戦場になど赴かせたくない	EXACT_VERIFIED	CS	institutional_comparative_control	05
+T10-E063	V07	Ch.2 / p-007.xhtml ¶342	V07-L010	祖国のために他人を使い潰さねば愛国心がない	EXACT_VERIFIED	CS/LI	expendability_exit_blocked_return	02,05,12
+T10-E064	V07	Ch.2 / p-007.xhtml ¶363	V07-L012	おれは家畜でもなければ無人機の部品でもない	EXACT_VERIFIED	CS/LI	social_equality_race_othering	02,05,08,12
+T10-E065	V07	Ch.2 / p-007.xhtml ¶391	V07-L014	英雄であり続けなければならぬ部隊	EXACT_VERIFIED	CS/LI	military_political_instrumentality	07
+T10-E066	V07	Ch.2 / p-007.xhtml ¶414	V07-L015	そう在りたいと、思っているからな	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	06,09,12
+T10-E067	V07	Ch.2 / p-007.xhtml ¶568	V07-L017	戦死者ゼロの国防を実現できてた	EXACT_VERIFIED	CS/SI	military_political_instrumentality	05,08
+T10-E068	V07	Ch.3 / p-008.xhtml ¶433	V07-L019	戦争の道具にはしたくない	EXACT_VERIFIED	CS/LI	military_political_instrumentality	02,08,11,12
+T10-E069	V07	Ch.3 / p-008.xhtml ¶774–777	V07-L032	ギアーデ帝族による承認	EXACT_VERIFIED	PF/MI	hereditary_hierarchy_regression	06,07,11
+T10-E070	V07	Ch.4 / p-009.xhtml ¶36	V07-L034	できないよりもできた方が、楽しめるものは多い	EXACT_VERIFIED	CS/LI	institutional_comparative_control	01,09,12
+T10-E071	V07	Ch.4 / p-009.xhtml ¶291–294	V07-L043	所詮、こんなものはアリバイ作りだ	EXACT_VERIFIED	CS/MI	institutional_comparative_control	06
+T10-E072	V08	prologue / p-002.xhtml ¶58	V08-L003	子供を犠牲にするような国は	EXACT_VERIFIED	CS/MI	expendability_exit_blocked_return	06, 09
+T10-E073	V08	Ch.1 / p-004.xhtml ¶3	V08-L007	適切な訓練と教育が不可欠	EXACT_VERIFIED	NV/MI	capability_scaffolding_infrastructure	07
+T10-E074	V08	Ch.2 / p-005.xhtml ¶89	V08-L017	機動打撃群は生還させる	EXACT_VERIFIED	CS/MI	military_political_instrumentality	06, 07
+T10-E075	V08	Ch.3 / p-006.xhtml ¶298	V08-L026	最後の征海航海	EXACT_VERIFIED	CS/LI/MI	military_political_instrumentality	06, 07, 13
+T10-E076	V08	Ch.4 / p-008.xhtml ¶95	V08-L032	戦わなくてもいいんだと思う	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	02, 07, 09
+T10-E077	V08	Ch.4 / p-008.xhtml ¶230	V08-L035	エイティシックスが死ぬのは当たり前だと	EXACT_VERIFIED	NV/LI	social_equality_race_othering	02, 04, 09
+T10-E078	V08	Ch.4 / p-008.xhtml ¶233	V08-L036	誰も犠牲にならない道を	EXACT_VERIFIED	NV/LI	expendability_exit_blocked_return	02, 07, 09
+T10-E079	V08	Ch.4 / p-008.xhtml ¶234	V08-L037	八六区をもう、……自分たちは出た	EXACT_VERIFIED	NV/LI	expendability_exit_blocked_return	02, 09
+T10-E080	V09	Ch.1 / p-004 ¶21–28	V09-L002	非戦闘職に転向	EXACT_VERIFIED	PF/MI	usable_freedom_self_government	06, 08, 09
+T10-E081	V09	Ch.1 / p-004 ¶135	V09-L006	戦闘だけこなしていればいいって言うんじゃなくて	EXACT_VERIFIED	CS	military_political_instrumentality	06, 09
+T10-E082	V09	Ch.1 / p-004 ¶136	V09-L007	楽しいですね、学生というのは	EXACT_VERIFIED	CS/LI	capability_scaffolding_infrastructure	04, 09, 12
+T10-E083	V09	Ch.2 / p-006 ¶30–47	V09-L022	選択の自由はない	EXACT_VERIFIED	PF/MI/LI	usable_freedom_self_government	06, 09, 12
+T10-E084	V09	Ch.2 / p-006 ¶48	V09-L023	神戟は人ではないが、神の御使い	EXACT_VERIFIED	CS/LI/MI	hereditary_hierarchy_regression	06, 08, 12
+T10-E085	V09	Ch.4 / p-010 ¶378–394	V09-L037	ヒーロー役まで、期待されんのはまっぴらだ	EXACT_VERIFIED	CS/LI	military_political_instrumentality	04, 06, 07
+T10-E086	V09	Ch.4 / p-010 ¶407–415	V09-L038	不満はわかる` / `身を賭してやる必要はない	EXACT_VERIFIED	CS/MI	institutional_comparative_control	02, 07
+T10-E087	V09	Ch.4 / p-010 ¶446	V09-L039	戦場で生きて戦場で死ぬのが──貴方たちの唯一の、運命	EXACT_VERIFIED	CS/LI	expendability_exit_blocked_return	06, 09, 12
+T10-E088	V09	Ch.4 / p-010 ¶450–452	V09-L040	貴方たちは英雄なんかじゃない	EXACT_VERIFIED	CS/LI	military_political_instrumentality	03, 07, 09
+T10-E089	V09	Ch.4 / p-010 ¶498	V09-L044	わたくしの家族は、聖教国と軍に見捨てられた	EXACT_VERIFIED	CS/PF	hereditary_hierarchy_regression	06, 09
+T10-E090	V09	Ch.5 / p-011 ¶47–64	V09-L047	sacred soldier role + doctrine reversal	PARAPHRASE	PF/MI	role_assignment_exit_authority	06, 09
+T10-E091	V09	Ch.5 / p-011 ¶252–263	V09-L050	heroic proof as only value for mixed-blood soldiers	PARAPHRASE	NV/MI	role_assignment_exit_authority	06, 07, 09
+T10-E092	V09	Ch.5 / p-011 ¶275	V09-L051	奴隷の首輪だ	EXACT_VERIFIED	CS/LI	hereditary_hierarchy_regression	06, 09, 12
+T10-E093	V09	Ch.5 / p-011 ¶644–650	V09-L059	どうなりたいかは結局は、あの子たちにしかわかんない	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	03, 04, 06, 09
+T10-E094	V10	Pledge / p-004 ¶99	V10-L002	人間ではない操縦士への配慮がまるでない	EXACT_VERIFIED	PF/MI	institutional_comparative_control	07, 08
+T10-E095	V10	Misericorde / p-008 ¶45–51	V10-L009	軍医も野戦病院もありはしない	EXACT_VERIFIED	PF/MI	capability_scaffolding_infrastructure	05, 06, 08
+T10-E096	V10	Brand / p-016 ¶31	V10-L019	名前もコールサインも、収容番号も	EXACT_VERIFIED	CS/LI	institutional_memory_archive	02, 05, 12
+T10-E097	V10	Culpa / p-022 ¶1	V10-L032	何をされているのか` / `後世に伝えて	EXACT_VERIFIED	CS/LI	institutional_memory_archive	05, 09, 12
+T10-E098	V10	Triage / p-025 ¶11	V10-L038	死亡群《トリアージタグ・ブラック》	EXACT_VERIFIED	NV/LI/MI	institutional_comparative_control	05, 08, 12
+T10-E099	V10	Triage / p-025 ¶23	V10-L039	迫害に対し人ができる最大にして最高の抵抗	EXACT_VERIFIED	NV/IT	social_equality_race_othering	04, 09
+T10-E100	V10	Triage / p-025 ¶223	V10-L043	戦隊間の直接連絡は禁じられている	EXACT_VERIFIED	PF/MI	military_political_instrumentality	05, 07
+T10-E101	V10	Fido appendix / p-031 ¶32	V10-L056	子供たちを性悪な戦場の女神になんて	EXACT_VERIFIED	CS/LI	military_political_instrumentality	02, 09, 13
+T10-E102	V10	Gentle World / p-033 ¶127	V10-L059	傷なんて、負わなくてよかった	EXACT_VERIFIED	CS/LI	institutional_comparative_control	02, 09, 13
+T10-E103	V11	D+3 p-014 ¶68–76	V11-L006	その罪を負えるのは、レーナではない	EXACT_VERIFIED	NV/LI	moral_political_responsibility	03,05,09
+T10-E104	V11	D+3 p-014 ¶277	V11-L008	エイティシックスじゃなくてもよかったんだ	EXACT_VERIFIED	CS/LI	social_equality_race_othering	05,06,09
+T10-E105	V11	Shiden flashback p-016 ¶53	V11-L009	〈レギオン〉どもの前で内戦やってる場合でもねえ	EXACT_VERIFIED	CS/MI	emergency_coercion	04,05,07
+T10-E106	V11	return p-018 ¶279	V11-L017	私が生まれた、ただそれだけの国	EXACT_VERIFIED	CS/LI	institutional_comparative_control	04,09,13
+T10-E107	V11	massacre p-022 ¶376	V11-L026	同じことを、しないでよ	EXACT_VERIFIED	CS/LI	moral_political_responsibility	04,05,09
+T10-E108	V11	massacre p-022 ¶425	V11-L027	許してくれとは言わない	EXACT_VERIFIED	CS/LI	moral_political_responsibility	04,05,09
+T10-E109	V11	final evac p-026 ¶65–76	V11-L033	共和国市民を見捨てるべきか	EXACT_VERIFIED	NV/MI	formal_status_rights_citizenship	03,05,07
+T10-E110	V11	final evac p-026 ¶90	V11-L034	我らが連邦は、正義の国なのだから	EXACT_VERIFIED	CS/MI	justice_legitimation_standard_identity	06,07
+T10-E111	V11	final evac p-026 ¶93	V11-L035	正義の美名	EXACT_VERIFIED	CS/LI/MI	justice_legitimation_standard_identity	06,07,12
+T10-E112	V11	final evac p-026 ¶105	V11-L036	軍も軍人も、政のための道具だ	EXACT_VERIFIED	CS/LI/MI	military_political_instrumentality	06,07,12
+T10-E113	V11	final evac p-026 ¶128	V11-L040	まだ彼らが子供だというなら	EXACT_VERIFIED	CS/LI	institutional_comparative_control	06,09
+T10-E114	V11	march p-026 ¶249–268	V11-L041	小休止を取るだけの余裕は、充分にあります	EXACT_VERIFIED	CS/BA	capability_scaffolding_infrastructure	03,07
+T10-E115	V11	march p-026 ¶304–307	V11-L042	歩きなさい	EXACT_VERIFIED	CS/LI	institutional_comparative_control	03,05,12
+T10-E116	V11	march p-026 ¶315–318	V11-L043	聖女マグノリアの、革命を導き率いた聖女の再来です` / `鮮血の女王	EXACT_VERIFIED	CS/LI/VI	institutional_comparative_control	03,05,13
+T10-E117	V11	march p-026 ¶349	V11-L044	聖女マグノリアの再来だなんて持ちあげない	EXACT_VERIFIED	CS/LI	institutional_comparative_control	03,05
+T10-E118	V11	march p-026 ¶375–379	V11-L047	それを人の本性だとは、人の真実だとは思いたくなかった	EXACT_VERIFIED	NV/LI	fear_fragmentation_and_recovery	01,02,09
+T10-E119	V11	refugee p-026 ¶510–520	V11-L050	どうして戦おうとしなかったのですか	EXACT_VERIFIED	CS/LI	institutional_comparative_control	02,05,09
+T10-E120	V11	refugee p-026 ¶538–547	V11-L051	弱いから悪いんだと、弱いから死んだんだと、言いたいわけじゃ	EXACT_VERIFIED	CS/LI	institutional_comparative_control	02,09
+T10-E121	V11	refugee p-026 ¶551	V11-L052	死なねえでくれたら、その方がよかったよな	EXACT_VERIFIED	CS/LI	political_recoverability	02,04,09
+T10-E122	V11	grief p-028 ¶5–6	V11-L055	滅びてしまった祖国のために	EXACT_VERIFIED	NV	institutional_comparative_control	03,05,09
+T10-E123	V12	epigraph / p-001 ¶2	V12-L002	己の意思という夾雑物	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	08, 11, 12
+T10-E124	V12	Ch.1 / p-004 ¶345	V12-L010	共和国の、壁の中に	EXACT_VERIFIED	CS/PF	institutional_comparative_control	05, 08
+T10-E125	V12	Ch.1 / p-004 ¶372	V12-L012	今は主人の支配下にないのだと	EXACT_VERIFIED	NV/LI	paternalism_guardianship	01, 08, 09
+T10-E126	V12	Ch.1 / p-004 ¶491	V12-L016	自由報道さえしばらくは抑えてある	EXACT_VERIFIED	NV/MI	information_public_speech	06, 14
+T10-E127	V12	Ch.2 / p-005 ¶282	V12-L023	自由も平等も、素晴らしいどころか	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	01, 06, 09
+T10-E128	V12	Ch.2 / p-005 ¶283	V12-L024	それが『自由』だと押しつけられた	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	06, 09, 12
+T10-E129	V12	Ch.2 / p-005 ¶586	V12-L034	学ぶことを、考えることを	EXACT_VERIFIED	NV/SI	capability_scaffolding_infrastructure	04, 09
+T10-E130	V12	Ch.2 / p-005 ¶591	V12-L036	学ばない。考えない。決められない	EXACT_VERIFIED	CS/LI	usable_freedom_self_government	06, 09
+T10-E131	V12	Ch.3 / p-006 ¶382	V12-L041	臣民自身が望んだ自由だろうに	EXACT_VERIFIED	CS/LI	formal_status_rights_citizenship	06, 14
+T10-E132	V12	Ch.4 / p-007 ¶381	V12-L052	市民全員が己の王だ	EXACT_VERIFIED	NV/LI	formal_status_rights_citizenship	01, 06, 12
+T10-E133	V12	Ch.4 / p-007 ¶383	V12-L054	英雄など連邦軍には必要ない	EXACT_VERIFIED	NV/LI	military_political_instrumentality	06, 07
+T10-E134	V12	Ch.5 / p-008 ¶131	V12-L058	正義の国は卑怯だ	EXACT_VERIFIED	CS	justice_legitimation_standard_identity	06, 14
+T10-E135	V12	Ch.5 / p-008 ¶139	V12-L059	権利だけを投げ与えた結果がこの様だ	EXACT_VERIFIED	CS/IT	formal_status_rights_citizenship	06, 14
+T10-E136	V12	Ch.5 / p-008 ¶148	V12-L060	自由や平等など、……残酷なだけだ	EXACT_VERIFIED	CS/IT	usable_freedom_self_government	06, 14
+T10-E137	V12	Ch.5 / p-008 ¶254	V12-L061	助けられなかった奴は、お前さんの責任じゃねえ	EXACT_VERIFIED	CS	democracy_law_accountability	04, 09
+T10-E138	V12	Ch.5 / p-008 ¶548	V12-L074	共和国によるエイティシックスの子供の利用	EXACT_VERIFIED	NV/PF	social_equality_race_othering	05, 06
+T10-E139	V12	Epilogue / p-009 ¶16–20	V12-L076	報告できない` / `連邦軍を裏切ることを	EXACT_VERIFIED	NV/BA	military_political_instrumentality	04, 06, 14
+T10-E140	V13	V13 / p-003.xhtml para 53	V13-L009	陣地帯に籠もってなお、戦死者が嵩むほどの敵数の激増である。避難民からも義勇兵を募り、訓練生も予備役も投入して底の見えた連邦の...	EXACT_VERIFIED	MI	capability_scaffolding_infrastructure	Retained from V13 canonical locator after contextual rereading.
+T10-E141	V13	V13 / p-003.xhtml para 65	V13-L010	「そのセンティス・ヒストリクス線が、補強作業が完了して本陣地になったから。これ以上後退はしたくないけど、だからって後退する先...	EXACT_VERIFIED	MI	expendability_exit_blocked_return	Retained from V13 canonical locator after contextual rereading.
+T10-E142	V13	V13 / p-003.xhtml para 472	V13-L015	「一連の自爆事件の報道はご覧になっていますね。自爆犯──というには彼女たちもまた、被害者の側ではありますが、」	EXACT_VERIFIED	MI	information_public_speech	Retained from V13 canonical locator after contextual rereading.
+T10-E143	V13	V13 / p-003.xhtml para 483	V13-L016	何が目的でこんなものを、と問われて、プリムヴェールは唇を嚙む。聴取の対象として共和国軍の高官や研究者、政府関係者と共に護送さ...	EXACT_VERIFIED	MI	democracy_law_accountability	Retained from V13 canonical locator after contextual rereading.
+T10-E144	V13	V13 / p-003.xhtml para 581	V13-L030	《優先目標を設定。共和国人が多数を占める陣地。補充兵が多数を占める陣地。少数民族が多数を占める陣地。──また合わせて、後方地...	EXACT_VERIFIED	MI	social_equality_race_othering	Retained from V13 canonical locator after contextual rereading.
+T10-E145	V13	V13 / p-005.xhtml para 394	V13-L041	八六区を、エイティシックスを作り出した共和国だけが、特別におかしいわけじゃなかった。まともだと思っていた連邦でさえ、状況が変...	EXACT_VERIFIED	IT	expendability_exit_blocked_return	Retained from V13 canonical locator after contextual rereading.
+T10-E146	V13	V13 / p-005.xhtml para 397	V13-L043	首都への避難民を、前線に送って補充兵に仕立てるべきだとの議会での提案と、それに賛同する論調の社説にレーナは息を吞む。──市民...	EXACT_VERIFIED	MI	democracy_law_accountability	Retained from V13 canonical locator after contextual rereading.
+T10-E147	V13	V13 / p-005.xhtml para 427	V13-L046	それでもなお、その重い自由と平等を維持したいのなら、救済の仕組みは作るべきだった。何もできない人間が、それでも代替品の充足を...	EXACT_VERIFIED	CS	welfare_refugee_capability	Retained from V13 canonical locator after contextual rereading.
+T10-E148	V13	V13 / p-005.xhtml para 445	V13-L047	「そして私も。ええ、人は愚か者です。私は愚か者です。賢明という名には永久に値しないのかもしれない。自由も平等も、あまりにも無...	EXACT_VERIFIED	CS	usable_freedom_self_government	Retained from V13 canonical locator after contextual rereading.
+T10-E149	V13	V13 / p-005.xhtml para 447	V13-L048	人権だとか、自由だとか平等だとか正義だとか。そういうものは、なるほど幻想だ。実在しない。だからこそ市民それぞれが、その幻想の...	EXACT_VERIFIED	CS	formal_status_rights_citizenship	Retained from V13 canonical locator after contextual rereading.
+T10-E150	V13	V13 / p-005.xhtml para 481	V13-L052	行きたくない。死にたくない。嫌だ。嫌だ。嫌だ。	EXACT_VERIFIED	NV	institutional_comparative_control	Retained from V13 canonical locator after contextual rereading.
+T10-E151	V13	V13 / p-005.xhtml para 492	V13-L053	それは決して本心ではない。	EXACT_VERIFIED	NV	fear_fragmentation_and_recovery	Retained from V13 canonical locator after contextual rereading.
+T10-E152	V13	V13 / p-005.xhtml para 494	V13-L054	それを誰より自分自身が、認めないための正当化だ。	EXACT_VERIFIED	NV	fear_fragmentation_and_recovery	Retained from V13 canonical locator after contextual rereading.
+T10-E153	V13	V13 / p-005.xhtml para 500	V13-L055	同じ言葉と感情が小隊や中隊という集団の中、繰り返されて反響し、そして増幅する。俺、ではなく、俺たち、という曖昧な自称が自身と...	EXACT_VERIFIED	LI	information_public_speech	Retained from V13 canonical locator after contextual rereading.
+T10-E154	V13	V13 / p-005.xhtml para 503	V13-L056	線が引かれる。	EXACT_VERIFIED	NV	fear_fragmentation_and_recovery	Retained from V13 canonical locator after contextual rereading.
+T10-E155	V13	V13 / p-005.xhtml para 568	V13-L057	連邦軍、という名の巨大な組織、その名前であたかも全員が同胞であるかのように錯覚させていただけの、無数の属性の成員から成る集団...	EXACT_VERIFIED	NV	institutional_memory_archive	Retained from V13 canonical locator after contextual rereading.
+T10-E156	V13	V13 / p-005.xhtml para 574	V13-L058	臣民の結束を防ぐため、あえて民の間には無数の区別を残し反目を誘発し、そのばらばらの民の集団を貴族が隷属させて貴族同士は血縁と...	EXACT_VERIFIED	CS	formal_status_rights_citizenship	Retained from V13 canonical locator after contextual rereading.
+T10-E157	V13	V13 / p-005.xhtml para 575	V13-L059	その貴族という紐帯を革命により廃し、けれど市民の間の無数の亀裂は放置したまま名前だけの民主制を敷いた連邦は、そうであるのだか...	EXACT_VERIFIED	CS	democracy_law_accountability	Retained from V13 canonical locator after contextual rereading.
+T10-E158	V13	V13 / p-005.xhtml para 578	V13-L060	〈盗聴器〉という共和国の裏切りを、公表して報道させたのが決定打だった。	EXACT_VERIFIED	CS	information_public_speech	Retained from V13 canonical locator after contextual rereading.
+T10-E159	V13	V13 / p-005.xhtml para 633	V13-L062	「俺だけでも充分だろうが、卿も後退するな。この基地が簡単には見捨てられないだけの手札を、エイティシックスの手元に残してやれ」	EXACT_VERIFIED	CS	expendability_exit_blocked_return	Retained from V13 canonical locator after contextual rereading.
+T10-E160	V13	V13 / p-005.xhtml para 701	V13-L066	共和国人の避難先である属領モニトズオートは、西部戦線南部の戦闘属領ブラン・ロスとノイガルデニアに隣接する。即座に戦闘に巻きこ...	EXACT_VERIFIED	MI	welfare_refugee_capability	Retained from V13 canonical locator after contextual rereading.
+T10-E161	V13	V13 / p-005.xhtml para 720	V13-L067	連邦大統領エルンストを人質とした集団は、属領モニトズオート、および隣接する戦闘属領ノイガルデニアを領土とした新生サンマグノリ...	EXACT_VERIFIED	MI	democracy_law_accountability	Retained from V13 canonical locator after contextual rereading.
+T10-E162	V13	V13 / p-006.xhtml para 198	V13-L071	「それを君たちが言うのかい？エイティシックスを八六区に放りこんで、今も連邦の兵士たちを前線に閉じこめようとしている君たちが？...	EXACT_VERIFIED	CS	expendability_exit_blocked_return	Retained from V13 canonical locator after contextual rereading.
+T10-E163	V13	V13 / p-007.xhtml para 44	V13-L083	連邦軍が崩壊するほどの狂乱に──彼でさえもが吞まれてしまっていた。	EXACT_VERIFIED	NV	military_political_instrumentality	Retained from V13 canonical locator after contextual rereading.
+T10-E164	V13	V13 / p-007.xhtml para 76	V13-L086	おろかものはエイティシックスではない。仲間ではない。愚かで無力なあいつらなど、いない方がいっそマシだ。	EXACT_VERIFIED	BA	social_equality_race_othering	Retained from V13 canonical locator after contextual rereading.
+T10-E165	V13	V13 / p-007.xhtml para 794	V13-L108	殺したのは連邦軍人でも、連邦軍そのものがリトの死を容認したりはしなかった。	EXACT_VERIFIED	MI	military_political_instrumentality	Retained from V13 canonical locator after contextual rereading.
+T10-E166	V13	V13 / p-007.xhtml para 889	V13-L116	連邦も、連邦軍も、成員同士で恐怖しあった果てに、分裂して崩壊してしまった。	EXACT_VERIFIED	NV	military_political_instrumentality	Retained from V13 canonical locator after contextual rereading.
+T10-E167	V13	V13 / p-007.xhtml para 900	V13-L117	安易に非道に走るのは怠慢だ。貴族の、指揮官の自分たちには許されない思考停止だ。	EXACT_VERIFIED	IT	hereditary_hierarchy_regression	Retained from V13 canonical locator after contextual rereading.
+T10-E168	V13	V13 / p-007.xhtml para 974	V13-L121	「連邦本土から戦場が切り離される。西部戦線が──連邦の全戦線が、八六区になります！」	EXACT_VERIFIED	CS	expendability_exit_blocked_return	Retained from V13 canonical locator after contextual rereading.
+T10-E169	V13	V13 / p-007.xhtml para 980	V13-L122	〈ジャガーノート〉とその処理装置に、一切の後退を許さぬために要塞壁と地雷原とを敷設した、共和国の戦場と同じように。	EXACT_VERIFIED	MI	expendability_exit_blocked_return	Retained from V13 canonical locator after contextual rereading.
+T10-E170	V13	V13 / p-007.xhtml para 983	V13-L123	機動打撃群は、以降、リュストカマー戦区を死守。部隊の後退はこれを許可しない。	EXACT_VERIFIED	MI	expendability_exit_blocked_return	Retained from V13 canonical locator after contextual rereading.
+T10-E171	V13	V13 / p-007.xhtml para 987	V13-L126	征路を〈レギオン〉に、退路を人の悪意に鎖される。	EXACT_VERIFIED	NV	expendability_exit_blocked_return	Retained from V13 canonical locator after contextual rereading.
+T10-E172	V13	V13 / p-007.xhtml para 988	V13-L127	そのありかたは共和国で、八六区と呼ばれた戦場と何一つも変わらなかった。	EXACT_VERIFIED	NV	expendability_exit_blocked_return	Retained from V13 canonical locator after contextual rereading.
+T10-E173	V14	p-001 ¶1	V14-L001	我ら、世界に誇る正義たらん	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	justice_legitimation_standard_identity	Retained from V14 canonical locator after contextual rereading.
+T10-E174	V14	p-002 ¶9	V14-L002	戦場を逐おわれることでその混迷より距離を置き。司令部を離れることでその罪を逃れ。以もつて冷徹と正義を保てと。──軍も連邦そのものも事実上瓦が...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	institutional_comparative_control	Retained from V14 canonical locator after contextual rereading.
+T10-E175	V14	p-002 ¶10	V14-L003	そう、彼ら〈戦史編へん纂さん室〉が任されたのは過去の戦史ではない。未来の戦史だ。〈レギオン〉から連邦を、人類を救うこれからの作戦の計画だ。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	usable_freedom_self_government	Retained from V14 canonical locator after contextual rereading.
+T10-E176	V14	p-002 ¶25	V14-L004	「それが、敗戦と非道の責を司令官一人に負わせ、汚名と罪咎ざいきゆうから逃された我らに課される、当然の役目だ。この連邦を護まもらんと散った数多...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	moral_political_responsibility	Retained from V14 canonical locator after contextual rereading.
+T10-E177	V14	p-002 ¶29	V14-L005	「我らこそ、未いまだ彼らの献身に報いてはいない。……他家や民草をとやかく言えたものか」	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	moral_political_responsibility	Retained from V14 canonical locator after contextual rereading.
+T10-E178	V14	p-002 ¶34	V14-L006	「それに、たとえ家門を潰したところで困る我々ではないだろう。この期に及んで怯おびえ囀さえずるばかりのニワトリや遠とお吠ぼえの犬どもの中から、...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	hereditary_hierarchy_regression	Retained from V14 canonical locator after contextual rereading.
+T10-E179	V14	p-004 ¶684	V14-L019	「勉強をしましょう。こんな時だからこそ。──戦争が終わる日のために」	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	capability_scaffolding_infrastructure	Retained from V14 canonical locator after contextual rereading.
+T10-E180	V14	p-005 ¶154	V14-L033	「残念だけどね。八六区の収容所と違うのは、殺されないってことだけだよ」	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	expendability_exit_blocked_return	Retained from V14 canonical locator after contextual rereading.
+T10-E181	V14	p-005 ¶198	V14-L038	「最初の呼びかけが必ず『連邦市民の同胞諸君』なんだ」	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	formal_status_rights_citizenship	Retained from V14 canonical locator after contextual rereading.
+T10-E182	V14	p-005 ¶205	V14-L040	「軍にやめさせられちゃった報道番組の、ニュースキャスターだ。第二次大攻勢からずっと険しい声してたけど、今は多分意識して、落ち着いた声出そうと...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	information_public_speech	Retained from V14 canonical locator after contextual rereading.
+T10-E183	V14	p-005 ¶303	V14-L043	「敗まけて、追いつめられて、おかしくなるのは連邦だけじゃない。共和国だけでもない。誰も彼もがおかしくなる。おれも、エイティシックスだっておか...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	social_equality_race_othering	Retained from V14 canonical locator after contextual rereading.
+T10-E184	V14	p-005 ¶313	V14-L045	「人は愚かじゃない。ただ、いつでも賢くはいられないというだけだ。戦場に吞のまれる。恐怖に吞のまれる。吞のまれた果てに、自分でも信じられないよ...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	fear_fragmentation_and_recovery	Retained from V14 canonical locator after contextual rereading.
+T10-E185	V14	p-005 ¶315	V14-L046	「〈レギオン〉だけでも、共和国だけでもなく。──おれたちはこの戦争そのものと戦わなければいけなかった。人を追いつめて、怯おびえさせて、愚かさ...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	fear_fragmentation_and_recovery	Retained from V14 canonical locator after contextual rereading.
+T10-E186	V14	p-005 ¶323	V14-L047	「……そうだな。リトを殺した奴には報いを受けてもらう。そしてだからこそ、連邦を裏切るわけにはいかない」	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	moral_political_responsibility	Retained from V14 canonical locator after contextual rereading.
+T10-E187	V14	p-005 ¶329	V14-L048	「だからこそ、法的に裁かせる。仲間殺しの子供殺しとして、生きてる限り、連邦が在あるかぎり後ろ指を指させて記録を残させてやる。汚名を着せられた...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	democracy_law_accountability	Retained from V14 canonical locator after contextual rereading.
+T10-E188	V14	p-005 ¶331	V14-L049	シンは、シンこそが、赦ゆるしてなどいない。身勝手な正義でリトを殺し、あげくその身勝手を正当化しようとエイティシックスを人類の敵へと仕立てあげ...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	social_equality_race_othering	Retained from V14 canonical locator after contextual rereading.
+T10-E189	V14	p-005 ¶334	V14-L050	「そのためにも、連邦は生き残らせないといけない。正義の国として。仲間殺し、子供殺しを市民の誰もが過あやまちだと指弾する国として復活させないと...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	justice_legitimation_standard_identity	Retained from V14 canonical locator after contextual rereading.
+T10-E190	V14	p-005 ¶397	V14-L059	「だから言えなかった……言いたくなかった。連邦にはプロセッサーとしてのおれよりも、広域索敵の異能者としてのおれの方が有用性が高い。──後送さ...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	emergency_coercion	Retained from V14 canonical locator after contextual rereading.
+T10-E191	V14	p-005 ¶400	V14-L060	シン自身の意志は全く無視したそうした運用も、十月攻勢からの連邦軍ならやってしまえる。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	usable_freedom_self_government	Retained from V14 canonical locator after contextual rereading.
+T10-E192	V14	p-006 ¶306	V14-L073	「ここからは憶測になるが。──先の十二月攻勢での連邦全戦線の『同時』崩壊は、この精神攪乱型ヴァネシードのせいではないか？」	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	political_recoverability	Retained from V14 canonical locator after contextual rereading.
+T10-E193	V14	p-006 ¶307	V14-L074	連邦そのものを瓦が解かいさせた軍の崩壊は、ただ、連邦という国が内包していた脆ぜい弱じやく性、追いつめられた人の悪意と卑劣だけによるものではな...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	military_political_instrumentality	Retained from V14 canonical locator after contextual rereading.
+T10-E194	V14	p-007 ¶413	V14-L108	第八六機動打撃群から、連邦市民の同胞たちへ。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	formal_status_rights_citizenship	Retained from V14 canonical locator after contextual rereading.
+T10-E195	V14	p-007 ¶420	V14-L109	「『合成食糧は共和国の誇る完璧食品ですが、その他にお好みの肉や野菜、調味料があるとよりおいしく食べられます。俺のおすすめは野生化した豚の肉と...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	welfare_refugee_capability	Retained from V14 canonical locator after contextual rereading.
+T10-E196	V14	p-007 ¶567	V14-L117	古いアニメの主題歌だ。ヒーローものの。〈レギオン〉戦争が始まる前に、クレナたちが八六区に逐われるよりも前に、夢中になって見ていたアニメ。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	expendability_exit_blocked_return	Retained from V14 canonical locator after contextual rereading.
+T10-E197	V14	p-007 ¶568	V14-L118	懐なつかしいだろうと。十年も前に強制収容所に入れられたエイティシックスはこれより後の曲は知らないだろうと。わざわざ選んで流してくれたのだ。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	social_equality_race_othering	Retained from V14 canonical locator after contextual rereading.
+T10-E198	V14	p-008 ¶11	V14-L122	目を閉じたままの無様なんて、都合の悪いものを見ない無様なんて、この苦境では許されない甘えなのだから。民主制を選び勝ち取った自分たち連邦市民に...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	formal_status_rights_citizenship	Retained from V14 canonical locator after contextual rereading.
+T10-E199	V14	p-008 ¶13	V14-L123	「我ら、世界に誇る正義たらん！ ──連邦市民の同胞たち、今日もこんばんは！」	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	justice_legitimation_standard_identity	Retained from V14 canonical locator after contextual rereading.
+T10-E200	V14	p-008 ¶23	V14-L128	戦争を終わらせねばならないのだから、戦争が終わって、市民どもが反省して、そうしてリトの名誉が回復されるのをきちんと見届けねばならないのだから...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	political_recoverability	Retained from V14 canonical locator after contextual rereading.
+T10-E201	V14	p-008 ¶197	V14-L141	「共和国も、この連邦も。──エイティシックスを排斥し、受け入れなかった国だからおれたちも嬉き々きとして殺さつ戮りくするだろうとでも思っている...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	social_equality_race_othering	Retained from V14 canonical locator after contextual rereading.
+T10-E202	V14	p-008 ¶201	V14-L142	迫害者と同じ下劣には堕おちないと決めた。憎ぞう悪おで矜きよう持じを穢けがさないと決めた。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	social_equality_race_othering	Retained from V14 canonical locator after contextual rereading.
+T10-E203	V14	p-008 ¶202	V14-L143	絶望に染まらず、死に逃げず、最後まで笑って戦い抜くと決めた。そうして生き抜いたのが自分たちだ。今の、第八六機動打撃群のエイティシックスだ。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	social_equality_race_othering	Retained from V14 canonical locator after contextual rereading.
+T10-E204	V14	p-008 ¶224	V14-L147	「お前の掲げた世界は理想郷どころか地獄だ。一つの幸福もない。心一つも自由にならない。あるのはただ、二度と尽きない憎ぞう悪おだけで──それしか...	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	usable_freedom_self_government	Retained from V14 canonical locator after contextual rereading.
+T10-E205	V14	p-008 ¶582	V14-L186	魚と海え老びのシチュー。エイティシックスで、でも共和国市民だった母の得意料理。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	formal_status_rights_citizenship	Retained from V14 canonical locator after contextual rereading.
+T10-E206	V14	p-009 ¶2	V14-L206	『我ら、世界に誇る正義たらん』。──つまり、連邦人の我らはすなわち正義である。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	justice_legitimation_standard_identity	Retained from V14 canonical locator after contextual rereading.
+T10-E207	V14	p-009 ¶12	V14-L208	言葉も、思索も、自由も、意志も、怠惰で惰弱なニワトリ風ふ情ぜいが、手にして良よいものではなかったのだ。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	information_public_speech	Retained from V14 canonical locator after contextual rereading.
+T10-E208	V14	p-009 ¶15	V14-L209	「……我らギアーデは、再び帝国に戻るべきだ」	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	hereditary_hierarchy_regression	Retained from V14 canonical locator after contextual rereading.
+T10-E209	V14	p-009 ¶27	V14-L213	ギアーデ帝国最後の女帝、アウグスタ・フレデリカ・アデルアドラーを玉座に戴いただき。	EXACT_VERIFIED	PF/CS/NV/MI/LI as classified in V14 deep reading	hereditary_hierarchy_regression	Retained from V14 canonical locator after contextual rereading.
+T10-E210	Alter.1	仔猫 / OEBPS/part0020.xhtml ¶001	A1-L028	猫を飼う余裕は当然のようにある	EXACT_VERIFIED	NV/MI	institutional_comparative_control	Alter.1 audited story-level supplemental evidence.
+T10-E211	Alter.1	仔猫 / OEBPS/part0020.xhtml ¶013	A1-L029	エイティシックスが飼っていたモノなんて汚らわしい	EXACT_VERIFIED	NV/CS	social_equality_race_othering	Alter.1 audited story-level supplemental evidence.
+T10-E212	Alter.1	徒歩圏内 / OEBPS/part0025.xhtml ¶016	A1-L036	図書館でちょっと面白い記録を見つけて	EXACT_VERIFIED	CS/BA	capability_scaffolding_infrastructure	Alter.1 audited story-level supplemental evidence.
+T10-E213	Alter.1	徒歩圏内 / OEBPS/part0025.xhtml ¶049	A1-L037	バスだの電車だのの公共交通機関を使おうという発想自体がない	EXACT_VERIFIED	NV	capability_scaffolding_infrastructure	Alter.1 audited story-level supplemental evidence.
+T10-E214	Alter.1	徒歩圏内 / OEBPS/part0025.xhtml ¶053	A1-L038	歩いて三時間を徒歩圏内とか言ってしまう	EXACT_VERIFIED	NV	capability_scaffolding_infrastructure	Alter.1 audited story-level supplemental evidence.
+T10-E215	Alter.1	怪物の殻の向こう / OEBPS/part0027.xhtml ¶042	A1-L041	次こそは、お前たちの手は必要ない	EXACT_VERIFIED	CS/MI	institutional_comparative_control	Alter.1 audited story-level supplemental evidence.
+T10-E216	Alter.1	盃に射す影 / OEBPS/part0034.xhtml ¶108	A1-L053	国軍本部でプロセッサーの人事記録が見つかった	EXACT_VERIFIED	PF/MI	institutional_memory_archive	Alter.1 audited story-level supplemental evidence.
+T10-E217	Alter.1	盃に射す影 / OEBPS/part0034.xhtml ¶110	A1-L054	家族の名前とか元々住んでいた場所は、ある程度確認できてる	EXACT_VERIFIED	CS/PF	institutional_memory_archive	Alter.1 audited story-level supplemental evidence.
+T10-E218	Alter.1	盃に射す影 / OEBPS/part0034.xhtml ¶110	A1-L055	家は、今さら見ても、覚えてない知らない家だったけど	EXACT_VERIFIED	CS	institutional_comparative_control	Alter.1 audited story-level supplemental evidence.
+T10-E219	Alter.1	かつて共に極光を見た / OEBPS/part0046.xhtml ¶046	A1-L066	ヴィーカは紫瑛種で王族で、レルヒェは……彼女の娘であったレルヒェリートは翠水種で隷民だ	EXACT_VERIFIED	NV/PF	hereditary_hierarchy_regression	Alter.1 audited story-level supplemental evidence.
+T10-E220	Alter.1	ちなみにこの時のアネットとダスティン / OEBPS/part0050.xhtml ¶020	A1-L071	知覚同調の元となった異能者の一人がシンであることを、アネットは共和国にも連邦にも報告していない	EXACT_VERIFIED	NV/BA	institutional_comparative_control	Alter.1 audited story-level supplemental evidence.
+T10-E221	Alter.1	七月十二日（レーナ誕生日）・その二 / OEBPS/part0057.xhtml ¶004	A1-L086	俺が個人的に物を贈るとややこしいことになる	EXACT_VERIFIED	CS/MI	institutional_comparative_control	Alter.1 audited story-level supplemental evidence.
+T10-E222	V01	item/xhtml/p-014.xhtml ¶12	NEW_DIRECT_SOURCE_RETRIEVAL	エイティシックスは本人と家族全員の市民権の復活を見返りに、絶望的な戦場に 赴 く。	EXACT_VERIFIED	PF/NV/CS/MI	formal_status_rights_citizenship	Fresh direct Japanese-source retrieval retained because the precise institutional proposition is not fully represented by the canonical short-anchor locator.
+T10-E223	V01	item/xhtml/p-014.xhtml ¶16	NEW_DIRECT_SOURCE_RETRIEVAL	『ああ。そのまさかだ。白ブタどもは、エイティシックスに市民権をくれてやるつもりなんざ、最初っからねぇんだよ』	EXACT_VERIFIED	PF/NV/CS/MI	formal_status_rights_citizenship	Fresh direct Japanese-source retrieval retained because the precise institutional proposition is not fully represented by the canonical short-anchor locator.
+T10-E224	V01	item/xhtml/p-010.xhtml ¶295	NEW_DIRECT_SOURCE_RETRIEVAL	共和国は死んだのだ。九年前、その市民が同じ市民の 迫 害 を決めた時に、自らの手で。	EXACT_VERIFIED	PF/NV/CS/MI	democracy_law_accountability	Fresh direct Japanese-source retrieval retained because the precise institutional proposition is not fully represented by the canonical short-anchor locator.
+T10-E225	V02	item/xhtml/p-006.xhtml ¶536	NEW_DIRECT_SOURCE_RETRIEVAL	「元兵卒と元士官じゃ、 選 択 肢 の 幅 が 違 う。この戦争が終わった時に、選べる道はなるべく多い方がいい」	EXACT_VERIFIED	PF/NV/CS/MI	capability_scaffolding_infrastructure	Fresh direct Japanese-source retrieval retained because the precise institutional proposition is not fully represented by the canonical short-anchor locator.

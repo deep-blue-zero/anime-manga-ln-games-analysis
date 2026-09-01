@@ -1,0 +1,74 @@
+# IDOLY PRIDE V2 Phase 1 closure integrity manifest
+# Created 2026-08-16
+# Closure result: PASS_WITH_EXPLICIT_NONBLOCKING_ROUTED_GAPS
+# Source snapshot: IP-V2-SNAPSHOT-2026-08-13-A
+
+# Governing framework set
+262b161776430f5305fb611543a85d051767b9eeb5dc2949312b44d2b8086b9e  IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+9e32a5f4fab791258dcf31482a5102839211d88c460b10488fca05f0bd7c93e4  IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+20b4548b4767bdc4053abcde419c6f0aa92b5cc94b206016a003d05ef82e7c14  IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+28e95b6a8947eb734ac47c7ff5f80c7406192536a1dc6c1a4dbece4b63276f74  IDOLY_PRIDE_V2_ANIME_AND_CROSS_MEDIA_SEQUENCING_PROTOCOL.md
+
+# Source-lock authorities
+8afa65a3b79426599dc5d6afc4843ed3e9cefb296dbdcb1b4b04b7324dc0987e  IDOLY_PRIDE_V2_SOURCE_MANIFEST.md
+175e39858daa4db023261b3a7cd0091a44fb3d1237685e695612b34354bc6b56  IDOLY_PRIDE_V2_SOURCE_CUTOFF_AND_PROJECT_DECISIONS_v1.2.md
+120552a43e622ce56712f361f91eccf9ab5e10bde992abf3a1bd709a0ce94b7c  IDOLY_PRIDE_V2_CORPUS_INTEGRITY_AUDIT.md
+
+# Inherited pre-closure authority
+# Current immediately prior analytical checkpoint
+d4c74d7c73c52c5fc49bb835b5934fa52db004eee188d004675e46b29e9382f0  IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md
+fc91ca9dbf3709d56b9dc8f5e73bc90b79a2c1e9aadc9a1c9252c786d6ba689b  IDOLY_PRIDE_V2_PHASE1_CARD_C1B_SHA256SUMS.txt
+167d4f866ca5ab56b3baeb7cc33a426a46e62197844abcd8ba11ba5f36bcfaaa  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.29.md
+
+# Phase-1 closure artifacts
+4d420a435fc35f2bd1cb0c5b7f588b0bc75eeee59ce824df758fd443df502c07  IDOLY_PRIDE_V2_PHASE1_CLOSURE_AUDIT.md
+28f7a6ee1409fc124692ea6db6030385933fbfb7125620421bee4c7db67f24ce  IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+8f98a5326ef21a2705d99c8e1fa9145e5f4220e00fd83dfaa3754555dfb1e19f  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+883cbac36ab382f0aab3e2b0578b35867def62a15e05b64b466ac45fb743d6ee  IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+
+# Active mutable first-read entrypoint — hash is the state at Phase-1 closure.
+# This file is expected to change in place as Phase 2 advances; later changes do not invalidate the frozen closure artifacts above.
+129b2a0050b63f0fb622691f9102ba324d5593657bbb02bccad9a74c629b6821  CURRENT_STATE_AND_CORPUS_MAP.md
+
+# Phase-1 closure coverage
+# 665 / 665 game ingestion bundles catalogued/routed
+# 3,879 / 3,879 granular game source stories mapped
+# 12 / 12 anime episodes frozen prospectively
+# 63 / 63 main-story bundles complete
+# 33 / 33 unit/origin bundles complete
+# 60 / 60 event bundles explicitly semantically treated
+# 20 / 20 bond bundles / 160 stories sampled/routed
+# 17 mandatory/support B1/B2/B3 bond bundles / 136 stories / 5,392 utterances admitted
+# 3 B4 bond bundles remain indexed texture
+# 27 / 27 specials-misc bundles / 52 stories routed
+# 363 / 363 card bundles routed
+# 11 / 11 mandatory C1 cards / 33 stories / 2,802 card-story utterances admitted
+# 99 / 99 message bundles / 1,812 messages routed at story level
+
+# Ledger hygiene repair in v1.30
+# The following completed B3 rows change only from stale rerank metadata to PASS_PHASE1_BOND_B3_AUDITED_SUPPORT:
+# bond_aoi_001_aoi
+# bond_chs_001_chs
+# bond_kkr_001_kkr
+# bond_ngs_001_ngs
+# bond_suz_001_suz
+# No analytical finding or source priority changes.
+
+# Explicit nonblocking routed gaps
+# 45 telephone references lack upstream source audio.
+# 32 processed asset references are unavailable upstream, predominantly formal/live assets.
+# tel-card-rui-05-fest-04 remains unavailable; do not reconstruct the call.
+# Nagisa/Kotono reciprocal romantic intent remains OPEN / NOT ESTABLISHED.
+# B4/C2/C3/ordinary-message sources retain their selective/indexed routes unless later claim-specific retrieval escalates them.
+
+# Makino branch-canon safeguard
+# The customizable game manager is treated as continuing Makino Kouhei.
+# {user} is interface parameterization.
+# Mutually exclusive player-selected replies are Makino-compatible authored possibility space, not all simultaneous literal history.
+# Phase 2 must create IDOLY_PRIDE_V2_MAKINO_PLAYER_BRANCH_CANON_LEDGER.md.
+
+# Phase transition
+# PHASE 1: CLOSED
+# PHASE 2: READY
+# Next operation: P2-0 — ledger/freshness infrastructure
+# Then: P2-A1 — IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md

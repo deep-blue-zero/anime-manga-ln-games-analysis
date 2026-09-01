@@ -1,0 +1,14 @@
+# SOURCE_CHECKSUMS.txt
+# Frozen Japanese primary-source files used for V2. EPUB bytes are NOT redistributed in this release.
+# Volume 10 narrative boundary: OEBPS/Text/p-001.xhtml through p-023.xhtml; p-024.xhtml onward is unrelated promotional sample and excluded.
+
+07a504a927a4355c2c5ccd50118cee8bb7a8b88c680190d1ae074ac7995f9199  Volume_01_Japanese_EPUB  (回復術士のやり直し 1.epub)
+1ede56845c10d83b264dc354fa50d3799e935842e38b68e5de8791ae46d68a7b  Volume_02_Japanese_EPUB  (回復術士のやり直し 2.epub)
+0a6088b699e9dad0bfa1083b1b3da95e4d91fc42c4e1eba2187f14e6d40d36b7  Volume_03_Japanese_EPUB  (回復術士のやり直し 3.epub)
+622ee687d210048bdcee8300c0ac0eff62e4623e6816865666f03936aa8d38d1  Volume_04_Japanese_EPUB  (回復術士のやり直し 4.epub)
+6a77044c4deb9bfcb7c9b82e19c9735f26d844455cdc6d580981dc147dd463d9  Volume_05_Japanese_EPUB  (回復術士のやり直し 5.epub)
+8a02424f617efab9288b530c30b21141358de6dfafe3a8d6b3441d8f27dc8856  Volume_06_Japanese_EPUB  (回復術士のやり直し 6.epub)
+e955902938682119296a4156b58c927d3fdc49d186e8b136a3fb440995ff0bc1  Volume_07_Japanese_EPUB  (回復術士のやり直し 7.epub)
+f16e4a0192309d4762e1213d7ff8dd67171a0f5f33a42a73acdf760cb85a2c17  Volume_08_Japanese_EPUB  (回復術士のやり直し 8.epub)
+ad927e61c1de36d9c200f6b06e66500a5210ba6dc87dea0f3d31eaa212ded81c  Volume_09_Japanese_EPUB  (回復術士のやり直し 9.epub)
+dfd97c3f79c2250e07130c006bac3770297fec1f3d7d82762fd2bdf989f9fa95  Volume_10_Japanese_EPUB  (回復術士のやり直し 10.epub)

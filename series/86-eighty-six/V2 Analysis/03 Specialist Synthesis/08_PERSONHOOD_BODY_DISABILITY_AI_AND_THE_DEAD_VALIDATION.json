@@ -1,0 +1,338 @@
+{
+  "file": "08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md",
+  "bytes": 70026,
+  "whitespace_words": 9725,
+  "sha256": "6f1698c961e63aa9537939333fb0c210870a6f1efbdd645eac9d642261491147",
+  "yaml_status": "PASS",
+  "status": "canonical",
+  "scope": "V01-V14+ALTER1",
+  "locator_references_distinct_range_expanded": 85,
+  "locator_ranges_expanded": [
+    {
+      "range": "V10-L050–V10-L055",
+      "expanded": [
+        "V10-L050",
+        "V10-L051",
+        "V10-L052",
+        "V10-L053",
+        "V10-L054",
+        "V10-L055"
+      ]
+    },
+    {
+      "range": "V05-L024–V05-L027",
+      "expanded": [
+        "V05-L024",
+        "V05-L025",
+        "V05-L026",
+        "V05-L027"
+      ]
+    },
+    {
+      "range": "V06-L008–V06-L010",
+      "expanded": [
+        "V06-L008",
+        "V06-L009",
+        "V06-L010"
+      ]
+    },
+    {
+      "range": "V05-L023–V05-L026",
+      "expanded": [
+        "V05-L023",
+        "V05-L024",
+        "V05-L025",
+        "V05-L026"
+      ]
+    },
+    {
+      "range": "V05-L023–V05-L027",
+      "expanded": [
+        "V05-L023",
+        "V05-L024",
+        "V05-L025",
+        "V05-L026",
+        "V05-L027"
+      ]
+    },
+    {
+      "range": "V10-L050–V10-L055",
+      "expanded": [
+        "V10-L050",
+        "V10-L051",
+        "V10-L052",
+        "V10-L053",
+        "V10-L054",
+        "V10-L055"
+      ]
+    },
+    {
+      "range": "V14-L135–V14-L147",
+      "expanded": [
+        "V14-L135",
+        "V14-L136",
+        "V14-L137",
+        "V14-L138",
+        "V14-L139",
+        "V14-L140",
+        "V14-L141",
+        "V14-L142",
+        "V14-L143",
+        "V14-L144",
+        "V14-L145",
+        "V14-L146",
+        "V14-L147"
+      ]
+    },
+    {
+      "range": "V13-L017–V13-L023",
+      "expanded": [
+        "V13-L017",
+        "V13-L018",
+        "V13-L019",
+        "V13-L020",
+        "V13-L021",
+        "V13-L022",
+        "V13-L023"
+      ]
+    },
+    {
+      "range": "V08-L056–V08-L057",
+      "expanded": [
+        "V08-L056",
+        "V08-L057"
+      ]
+    },
+    {
+      "range": "V14-L059–V14-L060",
+      "expanded": [
+        "V14-L059",
+        "V14-L060"
+      ]
+    },
+    {
+      "range": "V04-L021–V04-L023",
+      "expanded": [
+        "V04-L021",
+        "V04-L022",
+        "V04-L023"
+      ]
+    },
+    {
+      "range": "V14-L193–V14-L195",
+      "expanded": [
+        "V14-L193",
+        "V14-L194",
+        "V14-L195"
+      ]
+    },
+    {
+      "range": "V13-L017–V13-L018",
+      "expanded": [
+        "V13-L017",
+        "V13-L018"
+      ]
+    },
+    {
+      "range": "V05-L035–V05-L036",
+      "expanded": [
+        "V05-L035",
+        "V05-L036"
+      ]
+    },
+    {
+      "range": "V05-L038–V05-L039",
+      "expanded": [
+        "V05-L038",
+        "V05-L039"
+      ]
+    },
+    {
+      "range": "V04-L021–V04-L023",
+      "expanded": [
+        "V04-L021",
+        "V04-L022",
+        "V04-L023"
+      ]
+    },
+    {
+      "range": "V14-L135–V14-L140",
+      "expanded": [
+        "V14-L135",
+        "V14-L136",
+        "V14-L137",
+        "V14-L138",
+        "V14-L139",
+        "V14-L140"
+      ]
+    },
+    {
+      "range": "V08-L056–V08-L057",
+      "expanded": [
+        "V08-L056",
+        "V08-L057"
+      ]
+    },
+    {
+      "range": "V14-L059–V14-L060",
+      "expanded": [
+        "V14-L059",
+        "V14-L060"
+      ]
+    },
+    {
+      "range": "V14-L055–V14-L060",
+      "expanded": [
+        "V14-L055",
+        "V14-L056",
+        "V14-L057",
+        "V14-L058",
+        "V14-L059",
+        "V14-L060"
+      ]
+    },
+    {
+      "range": "V05-L005–V05-L006",
+      "expanded": [
+        "V05-L005",
+        "V05-L006"
+      ]
+    },
+    {
+      "range": "V06-L008–V06-L010",
+      "expanded": [
+        "V06-L008",
+        "V06-L009",
+        "V06-L010"
+      ]
+    },
+    {
+      "range": "V05-L024–V05-L027",
+      "expanded": [
+        "V05-L024",
+        "V05-L025",
+        "V05-L026",
+        "V05-L027"
+      ]
+    },
+    {
+      "range": "V14-L160–V14-L164",
+      "expanded": [
+        "V14-L160",
+        "V14-L161",
+        "V14-L162",
+        "V14-L163",
+        "V14-L164"
+      ]
+    },
+    {
+      "range": "V10-L050–V10-L055",
+      "expanded": [
+        "V10-L050",
+        "V10-L051",
+        "V10-L052",
+        "V10-L053",
+        "V10-L054",
+        "V10-L055"
+      ]
+    }
+  ],
+  "missing_locator_ids": [],
+  "locator_validation_status": "PASS",
+  "adversarial_constraints_declared": 15,
+  "missing_adversarial_ids_from_lock": [],
+  "adversarial_ids_not_explicit_in_body": [],
+  "open_questions_declared": 10,
+  "missing_open_question_ids_from_lock": [],
+  "open_question_ids_not_explicit_in_body": [],
+  "dependency_count": 20,
+  "missing_dependencies": [],
+  "roman_top_level_headings": [
+    [
+      "I",
+      "Executive thesis"
+    ],
+    [
+      "II",
+      "Method: personhood is a matrix, not a password"
+    ],
+    [
+      "III",
+      "The human body as political territory"
+    ],
+    [
+      "IV",
+      "Scars, pain, and bodily memory"
+    ],
+    [
+      "V",
+      "Theo: disability as a test of standing"
+    ],
+    [
+      "VI",
+      "Medicine, bodily autonomy, and self-instrumentalization"
+    ],
+    [
+      "VII",
+      "Dangerous embodiment: the Fawn test"
+    ],
+    [
+      "VIII",
+      "Death, remnants, successors, and continuities"
+    ],
+    [
+      "IX",
+      "Sirins: successor subjects, not returned donors"
+    ],
+    [
+      "X",
+      "Lyudmila and the limit of class-wide inference"
+    ],
+    [
+      "XI",
+      "Fido: designed purpose, ordinary relation, and artificial particularity"
+    ],
+    [
+      "XII",
+      "The Legion spectrum: why “the dead in machines” is not one ontology"
+    ],
+    [
+      "XIII",
+      "Zelene and No Face: posthuman continuity under captured ends"
+    ],
+    [
+      "XIV",
+      "The dead: archive, copy, inheritance, and the refusal of false resurrection"
+    ],
+    [
+      "XV",
+      "Purpose capture: the mature anti-model"
+    ],
+    [
+      "XVI",
+      "Comparative property matrix at the V14 boundary"
+    ],
+    [
+      "XVII",
+      "Claims established through the V14 boundary"
+    ],
+    [
+      "XVIII",
+      "Competing readings and adversarial dispositions"
+    ],
+    [
+      "XIX",
+      "Open final-arc personhood and body questions"
+    ],
+    [
+      "XX",
+      "Final synthesis"
+    ]
+  ],
+  "roman_heading_sequence_status": "PASS",
+  "duplicate_headings": [],
+  "placeholder_hits": [],
+  "exact_duplicate_paragraphs_ge_600_chars_against_docs_01_07": [],
+  "exact_duplicate_50_word_sequences_against_docs_01_07": [],
+  "overall_status": "PASS"
+}

@@ -1,0 +1,12 @@
+THE IDOLM@STER CINDERELLA GIRLS (2015) — Episode 26 Special source lock
+
+Source: /mnt/data/ep26_screenshots.zip
+Exact size: 155,209,016 bytes
+SHA-256: 430705cf8a4ec0ddf6aba1fb11fb4f189ef2ea10021655619ef4de2affa3b564
+Internal identity: THE_IDOLM@STER_CINDERELLA_GIRLS / ep26.analysis-hardsub.mkv
+Subtitle: 585-event English soft ASS; Japanese program audio primary
+Retained non-contact frames: 865
+Contact sheets: 44/44 reviewed
+Program audio duration: approximately 1745.112 s
+ZIP CRC: clean
+Analytical status: supplementary animated epilogue / paratext, not a replacement mainline finale

@@ -1,0 +1,39 @@
+{
+  "cluster_id": "DJFW_GAKUMAS_HIRO_CLUSTER_001",
+  "cases": {
+    "0006": {
+      "pages": 10,
+      "counts": {
+        "low_signal": 4,
+        "partial_candidate": 6
+      },
+      "jchars": 131,
+      "timeouts": 0,
+      "summary": "/mnt/data/djfw_gakumas_hiro_cluster/DJFW_CASE_0006_ICHIJOU_10_MAN_YEN/reports/DJFW_CASE_0006_OCR_JPN_PSM6_QA_SUMMARY.md"
+    },
+    "0007": {
+      "pages": 52,
+      "counts": {
+        "partial_candidate": 20,
+        "low_signal": 18,
+        "usable_candidate": 14
+      },
+      "jchars": 2785,
+      "timeouts": 0,
+      "summary": "/mnt/data/djfw_gakumas_hiro_cluster/DJFW_CASE_0007_SHIRAYOI_NO_YADO/reports/DJFW_CASE_0007_OCR_JPN_PSM6_QA_SUMMARY.md"
+    },
+    "0008": {
+      "pages": 79,
+      "counts": {
+        "low_signal": 14,
+        "usable_candidate": 15,
+        "partial_candidate": 35,
+        "timeout_or_error": 15
+      },
+      "jchars": 1707,
+      "timeouts": 15,
+      "summary": "/mnt/data/djfw_gakumas_hiro_cluster/DJFW_CASE_0008_GAKUMAS_DOSUKEBE_GOUDOUSHI_4/reports/DJFW_CASE_0008_OCR_JPN_ORIG_PSM6_QA_SUMMARY.md"
+    }
+  },
+  "report": "/mnt/data/djfw_gakumas_hiro_cluster/DJFW_GAKUMAS_HIRO_CLUSTER_001_FIRST_PASS_ANALYSIS.md"
+}

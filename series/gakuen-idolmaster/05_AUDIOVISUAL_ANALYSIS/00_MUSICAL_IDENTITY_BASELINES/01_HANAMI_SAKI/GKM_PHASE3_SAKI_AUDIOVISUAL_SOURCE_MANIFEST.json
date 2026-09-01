@@ -1,0 +1,743 @@
+{
+  "project": "Gakuen Idolmaster / 学園アイドルマスター",
+  "phase": "3 — Hanami Saki complete audiovisual baseline",
+  "source_lock": "GAKUMAS V2 Source Lock 1.0 + user-supplied Saki AV registry 2026-08-14",
+  "created": "2026-08-14",
+  "media_count": 19,
+  "raw_script_count": 8,
+  "media": [
+    {
+      "canonical_name": "DIA_Fighting_My_Way_commu.mp4",
+      "source_filename": "【楽曲コミュ】Fighting My Way【花海咲季】【学マス】-(720p30).mp4",
+      "source_path": "/mnt/data/【楽曲コミュ】Fighting My Way【花海咲季】【学マス】-(720p30).mp4",
+      "size_bytes": 35896207,
+      "sha256": "677ae23d85fc6daf36d49a3e5442a9c40068a9c48404ddc9490e1964df961d0d",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "30/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "351.503673",
+          "size": "35896207",
+          "bit_rate": "816974"
+        }
+      }
+    },
+    {
+      "canonical_name": "DIA_Garakuta_Road_commu.mp4",
+      "source_filename": "【ガラクタロード】花海咲季  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "source_path": "/mnt/data/【ガラクタロード】花海咲季  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "size_bytes": 37536430,
+      "sha256": "f0f4de82fbf5ceaa0822f9323997bb691c0147a6e65be11dd9431c012118d81e",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "535.150295",
+          "size": "37536430",
+          "bit_rate": "561134"
+        }
+      }
+    },
+    {
+      "canonical_name": "DIA_STEP3_21_27.mp4",
+      "source_filename": "【学マス】花海咲季  親愛度コミュ21～27話まとめ【STEP3】-(720p60).mp4",
+      "source_path": "/mnt/data/【学マス】花海咲季  親愛度コミュ21～27話まとめ【STEP3】-(720p60).mp4",
+      "size_bytes": 249474759,
+      "sha256": "e1590e958abfa6af90374a296fb68ad48d1aee15a6999fda67f131caff676621",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          },
+          {
+            "index": 2,
+            "codec_name": "bin_data",
+            "codec_type": "data",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "2865.000000",
+          "size": "249474759",
+          "bit_rate": "696613"
+        }
+      }
+    },
+    {
+      "canonical_name": "DIA_STEP4_28_37.mp4",
+      "source_filename": "【学マス】 花海咲季 親愛度コミュ28～37話まとめ【H.I.F編】【STEP4】-(720p60).mp4",
+      "source_path": "/mnt/data/【学マス】 花海咲季 親愛度コミュ28～37話まとめ【H.I.F編】【STEP4】-(720p60).mp4",
+      "size_bytes": 297177500,
+      "sha256": "6e12e01282f25cd5d25031e2f27c08b2e45f14e320fccc9d199c021c766588d6",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "60000/1001"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "3498.875646",
+          "size": "297177500",
+          "bit_rate": "679481"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS001_Fighting_My_Way_3DMV.mp4",
+      "source_filename": "4K HDR「Fighting My Way」 (花海咲季 SSR solo)【学マス⧸学園アイドルマスタ⧸Gakuen Idolm@ster MV】-(720p60).mp4",
+      "source_path": "/mnt/data/4K HDR「Fighting My Way」 (花海咲季 SSR solo)【学マス⧸学園アイドルマスタ⧸Gakuen Idolm@ster MV】-(720p60).mp4",
+      "size_bytes": 61236347,
+      "sha256": "175b60a3ab7b4b3aaa9a8f1d3475ee2f59926444a20902f04eb600e5af03ddd8",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "149.234649",
+          "size": "61236347",
+          "bit_rate": "3282687"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS001_Fighting_My_Way_official.mp4",
+      "source_filename": "初星学園 「Fighting My Way」Official Music Video (HATSUBOSHI GAKUEN - Fighting My Way)-(1440p30).mp4",
+      "source_path": "/mnt/data/初星学園 「Fighting My Way」Official Music Video (HATSUBOSHI GAKUEN - Fighting My Way)-(1440p30).mp4",
+      "size_bytes": 156144722,
+      "sha256": "3ef51c6d6efdbf9c95bc9a188a2f7682fc269819c44f134ab6b1d77bc391db8b",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 2560,
+            "height": 1440,
+            "r_frame_rate": "30/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "200.318549",
+          "size": "156144722",
+          "bit_rate": "6235856"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS002_Boom_Boom_Pow_3DMV.mp4",
+      "source_filename": "4K HDR「Boom Boom Pow」 (歌：花海咲季)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「Boom Boom Pow」 (歌：花海咲季)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "size_bytes": 108297233,
+      "sha256": "f2808e0f6f65e9ddb9d9ecb6f04c47c8b497cf0e2b187cd55f8ac43a6085de4e",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "163.004082",
+          "size": "108297233",
+          "bit_rate": "5315068"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS002_Boom_Boom_Pow_audio_video.mp4",
+      "source_filename": "Boom Boom Pow-(1080p25).mp4",
+      "source_path": "/mnt/data/Boom Boom Pow-(1080p25).mp4",
+      "size_bytes": 6529401,
+      "sha256": "f6fc5ae2adfcf01b590b8c3a29c49a0bc7aa9a86ea1688bd9c1f52334b0a277e",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1080,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "201.327007",
+          "size": "6529401",
+          "bit_rate": "259454"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS003_EGO_official.mp4",
+      "source_filename": "初星学園 「EGO」Official Music Video (HATSUBOSHI GAKUEN -  EGO)-(1080p24).mp4",
+      "source_path": "/mnt/data/初星学園 「EGO」Official Music Video (HATSUBOSHI GAKUEN -  EGO)-(1080p24).mp4",
+      "size_bytes": 55944836,
+      "sha256": "1707b5790013919c361cc5f6ee099ebb9386a674e7f15ae1d8c2ced86813d258",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "241.882268",
+          "size": "55944836",
+          "bit_rate": "1850316"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS004_Campus_mode_3DMV.mp4",
+      "source_filename": "4K HDR「Campus mode!!」(花海咲季 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_path": "/mnt/data/4K HDR「Campus mode!!」(花海咲季 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "size_bytes": 67613890,
+      "sha256": "a458572cbb8f87e88d258123a291c9d0a1ae30151e57f638015e498a77ff3ac3",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "160.194467",
+          "size": "67613890",
+          "bit_rate": "3376590"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS005_Wildest_Flower_3DMV.mp4",
+      "source_filename": "4K「Wildest Flower」(花海咲季 STEP3 SSR ソロ)【学マス⧸学園アイドルマスタ⧸ 学園偶像大師⧸ Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_path": "/mnt/data/4K「Wildest Flower」(花海咲季 STEP3 SSR ソロ)【学マス⧸学園アイドルマスタ⧸ 学園偶像大師⧸ Gakuen idolm@ster MV】-(720p60).mp4",
+      "size_bytes": 70979119,
+      "sha256": "3c72799f811cdc600702c59215b03a0249d55ec10e549e3a48665050c148351a",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "170.573787",
+          "size": "70979119",
+          "bit_rate": "3328957"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS005_Wildest_Flower_official.mp4",
+      "source_filename": "初星学園 「Wildest Flower」Official Music Video (HATSUBOSHI GAKUEN -  Wildest Flower)-(2160p24).mp4",
+      "source_path": "/mnt/data/初星学園 「Wildest Flower」Official Music Video (HATSUBOSHI GAKUEN -  Wildest Flower)-(2160p24).mp4",
+      "size_bytes": 186301658,
+      "sha256": "5779a1a9afa917d16c0a3f3bb52a56f1c809e7478231033c82d25d86479ec6e7",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 3840,
+            "height": 2160,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "181.765805",
+          "size": "186301658",
+          "bit_rate": "8199635"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS006_Gamushara_3DMV.mp4",
+      "source_filename": "4K HDR「がむしゃらに行こう！」 (花海咲季 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_path": "/mnt/data/4K HDR「がむしゃらに行こう！」 (花海咲季 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "size_bytes": 39093079,
+      "sha256": "1899b1f964822cba49aca8d7e6c4eb837b1060be10cfb647d3b85d87109087bb",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "110.689524",
+          "size": "39093079",
+          "bit_rate": "2825422"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS006_Gamushara_audio_video.mp4",
+      "source_filename": "がむしゃらに行こう！(花海咲季 Solo Ver.)-(1080p25).mp4",
+      "source_path": "/mnt/data/がむしゃらに行こう！(花海咲季 Solo Ver.)-(1080p25).mp4",
+      "size_bytes": 9474119,
+      "sha256": "7a2cf7f4094657bf615ec6d6986ac9db036593cf9e074ec82529737a2f193766",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "25/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "220.519909",
+          "size": "9474119",
+          "bit_rate": "343701"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS007_Garakuta_Road_3DMV.mp4",
+      "source_filename": "4K HDR「ガラクタロード」(花海咲季 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「ガラクタロード」(花海咲季 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "size_bytes": 104103631,
+      "sha256": "c5ce8464708fb06916097f6ee4cca94779777cf149b98fdc03d60cdb8552b17a",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "163.561361",
+          "size": "104103631",
+          "bit_rate": "5091844"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS008_GO_MY_WAY_3DMV.mp4",
+      "source_filename": "4K HDR「GO MY WAY!! 」花海咲季【学マス⧸学園アイドルマスター⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「GO MY WAY!! 」花海咲季【学マス⧸学園アイドルマスター⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "size_bytes": 79223263,
+      "sha256": "48fadc199ef47d57e7119e9e5d48fd2c636e8f4dbeacc3ca93e2348efdd7a6a6",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "133.027120",
+          "size": "79223263",
+          "bit_rate": "4764337"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS009_Hajime_3DMV.mp4",
+      "source_filename": "【学マス】初 ⧸花海 咲季 フルMV 最高画質  学園アイドルマスター［ネタバレ注意］-(1080p56).mp4",
+      "source_path": "/mnt/data/【学マス】初 ⧸花海 咲季 フルMV 最高画質  学園アイドルマスター［ネタバレ注意］-(1080p56).mp4",
+      "size_bytes": 85739391,
+      "sha256": "f291cdde2b544e94d078dcc5a2140b9214182d806125fc6e0a337cdd87d10bae",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 2400,
+            "height": 1080,
+            "r_frame_rate": "56/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "157.779592",
+          "size": "85739391",
+          "bit_rate": "4347299"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS010_ENDLESS_DANCE_3DMV.mp4",
+      "source_filename": "4K HDR「ENDLESS DANCE」(花海咲季 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "source_path": "/mnt/data/4K HDR「ENDLESS DANCE」(花海咲季 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(720p60).mp4",
+      "size_bytes": 43602537,
+      "sha256": "a59ba73f485389979d6c05cbfb9ba0ddd3c6bfe4b94c5c9b48a96b10eac2bd59",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "109.691066",
+          "size": "43602537",
+          "bit_rate": "3180024"
+        }
+      }
+    },
+    {
+      "canonical_name": "MUS011_Ameagari_no_Iris_3DMV.mp4",
+      "source_filename": "4K HDR「雨上がりのアイリス」 (Re;IRIS 花海咲季・藤田ことね・月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「雨上がりのアイリス」 (Re;IRIS 花海咲季・藤田ことね・月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "size_bytes": 131322949,
+      "sha256": "c22fc210987561c2b0c9c069b4f81ad092f5e7c4093657fb4372aa4b44a29c1d",
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "av1",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1",
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "199.459410",
+          "size": "131322949",
+          "bit_rate": "5267154"
+        }
+      }
+    }
+  ],
+  "raw_scripts": [
+    {
+      "filename": "adv_cidol-hski-3-000_01.txt",
+      "size_bytes": 67857,
+      "sha256": "5100bba72d78ef3845749b3dc02842ee18d7cfc790cd093b1f2895fb46b1997c"
+    },
+    {
+      "filename": "adv_cidol-hski-3-000_02.txt",
+      "size_bytes": 92965,
+      "sha256": "a188bc196313bc98103248ef72e62bcce7a5989aa93507b388d48685cb474a3f"
+    },
+    {
+      "filename": "adv_cidol-hski-3-000_03.txt",
+      "size_bytes": 70808,
+      "sha256": "019799ecc74906a376446454eeb7c846bda8427a1cc5ddecf2bf0ad3198a194e"
+    },
+    {
+      "filename": "adv_cidol-hski-3-018_01.txt",
+      "size_bytes": 120078,
+      "sha256": "1c239299be0e6bfb6b254aaca8116ba293d35f56aeab75da47b074483113a8d4"
+    },
+    {
+      "filename": "adv_dear_hski_023.txt",
+      "size_bytes": 390331,
+      "sha256": "71166935b7cd91a8ee9d8e38051e2516c1160da78634e679aecf27013288fa51"
+    },
+    {
+      "filename": "adv_dear_hski_027.txt",
+      "size_bytes": 394383,
+      "sha256": "0eb6a47a70742813ec97140eb68bc70e61eddaf7f9073b56e5ee0bc716189740"
+    },
+    {
+      "filename": "adv_dear_hski_035.txt",
+      "size_bytes": 155509,
+      "sha256": "0e956f0bb77f5c71763268119e33a47997d799e6b38fc756e58690f1d7cea4a4"
+    },
+    {
+      "filename": "adv_dear_hski_036.txt",
+      "size_bytes": 1145394,
+      "sha256": "41ddf7aecf22b57285e6968896225c6eaecabbb2a1aff68e896cf960a4dc62f4"
+    }
+  ],
+  "derived_analysis_files": [
+    "music_features.json",
+    "music_features.tsv",
+    "dialogue_line_prosody.tsv",
+    "dialogue_phase_prosody.tsv",
+    "dialogue_prosody.json",
+    "adv_events.json"
+  ],
+  "redistribution_policy": "Source audio/video and frame extracts are not included in the analytical release archive.",
+  "uploaded_but_excluded_sources": [
+    {
+      "filename": "4K HDR「雨上がりのアイリス」 (Re;IRIS 花海咲季・藤田ことね・月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(2160p60).mp4",
+      "size_bytes": 140476598,
+      "sha256": "473b3a483f47135b36425cae2e1d172998a579e102076a3533c1543bd41fe5e5",
+      "reason": "ffmpeg/ffprobe reported a malformed audio sample table (\"Sample size ... is too large\"); the visually equivalent 1080p60 upload with valid audio was used as the canonical Re;IRIS source."
+    }
+  ]
+}

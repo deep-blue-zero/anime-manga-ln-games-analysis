@@ -1,0 +1,93 @@
+retrieval_id	source	source_locator	evidence_class	category	status	japanese_anchor_or_source_note	retrieval_note
+V01-L014	V01	p-008.xhtml ¶489	CS	KIN_RETURN	RETAINED	必ず生きて、帰らないと	Rei frames continued life as obligation to return to his younger brother.
+T01-V01-NR1	V01	item/xhtml/p-014.xhtml para 215	MI/LI	BLOCKED_RETREAT	NEW_RETRIEVAL	任務期間は無制限。この間、後退した場合は脱だつ走そう行こう為いとみなし、即そく時じ処しよ刑けいする。	Special Recon defines rearward movement as desertion punishable by immediate execution.
+T01-V01-NR2	V01	item/xhtml/p-014.xhtml para 363	MI/NV	BLOCKED_RETURN	NEW_RETRIEVAL	準備はこれで、全て整った。あとは踏ふみ出だせばもう後退は許されない。作戦発動と同時に彼らの軍ぐん籍せきと国軍本部の友軍機登録は抹まつ消しようされ、管制用に残されたハンドラーとの...	Once Special Recon begins, rear fire and erased friendly registration make retreat institutionally impossible.
+T01-V01-M1	V01	item/xhtml/p-007.xhtml para 53	CS/MI	EXPECTED_RETURN	NEW_RETRIEVAL	「馬ば鹿か野や郎ろう。お前らガキどもを生きて帰らせんのが整備班の仕事だ。そのために必要だってんなら機体なんざどうなろうが構やしねぇし、どんな手間だってかけてやるよ」	Maintenance personnel define their job as bringing the children back alive, an important counter-current inside the same system.
+V02-L024	V02	p-006.xhtml ¶336–343	CS/LI	BATTLEFIELD_RETURN	RETAINED	帰ろう。あたし達のいるべきところに	The Five call renewed military service a return to where they feel they belong; this is a negative control against treating all return-language as healthy.
+V02-L025	V02	p-006.xhtml ¶352–358	NV/SI	IMPOSSIBLE_RESTORATION	RETAINED	ただの子供に戻って` / empty rooms	Ernst imagines recovery as becoming ordinary children again; the text exposes the impossibility of literally returning to a childhood that was not allowed to occur.
+V02-L042	V02	p-008.xhtml ¶254–267	CS/MI	TACTICAL_SURVIVAL	RETAINED	死にたくなければついて来い	Retreat/follow-me language appears as legitimate battlefield survival judgment.
+V02-L043	V02	p-008.xhtml ¶282	NV/MI	LEARNED_NO_RETREAT	RETAINED	退却という思考はそもそもなかった	The Five lack retreat as a habitual category even after entering a military where retreat exists.
+V02-L048	V02	p-009.xhtml ¶012–018	CS	ROLE_EXIT	RETAINED	俺達の戦争は終わった` / `ようやく──退役だ	Republic soldiers elsewhere can finally describe war as over and retirement as return from military function.
+V03-L008	V03	p-005.xhtml ¶350–372	NV	ABANDONMENT	RETAINED	置いていかれてばかりだ` / `おいていかないで	Shin directly experiences his history as repeated being-left-behind.
+V03-L011	V03	p-006.xhtml ¶046	NV	NO_HOME	RETAINED	帰る故郷はなく、守る家族もなく	Absence of homeland/family becomes part of why battle remains the easiest inhabitable space.
+V03-L016	V03	p-006.xhtml ¶147	CS	PURPOSE_WITHOUT_RETURN	RETAINED	目的もなく帰る地もなく、誇りだけに縋って	Frederica names the endpoint of having pride without purpose or a place to return.
+V03-L019	V03	mission departure	CS	REPEATED_RETURN	RETAINED	この先何度でも	Return is reframed as something that can happen repeatedly rather than a one-time escape.
+V03-L021	V03	p-009.xhtml ¶089	CS	EXPECTED_RETURN	RETAINED	必ず帰れ	Giad authority imposes a new fate: come back alive.
+V03-L022	V03	p-009.xhtml ¶326	CS	SELF_SPENDING	RETAINED	生きて帰ってくるつもりもなかった	Raiden distinguishes not wanting immediate death from actually intending to return alive.
+V03-L039	V03	p-011.xhtml ¶396	NV	DEATH_WAITING	RETAINED	刺し違えて終わる時を...待ち焦がれていた	Shin retrospectively identifies waiting for mutual death with Rei as a specific historical death wish.
+V03-L040	V03	p-011.xhtml ¶400–412	NV	ABANDONMENT	RETAINED	どうして今度も、連れていってくれなかった` / `おいていかないで	The left-behind plea becomes explicit rather than inferred.
+V03-L050	V03	p-014.xhtml ¶072–076	CS/NV	NO_DESTINATION	RETAINED	帰る場所も、行きたいところも。...守るものも	Even after rescue and military success, Shin still lacks a positive return destination.
+V03-L055	V03	p-015.xhtml ¶028–037	CS	CATCH_UP	RETAINED	追いつきましたよ` / `一緒に戦います	Lena reaches Shin rather than pulling him backward; pursuit/catch-up becomes a relational path image.
+V04-L009	V04	p-005.xhtml ¶588	NV/LI	ABANDONMENT	RETAINED	おいていかないで	Lena internalizes the same left-behind language while confronting her own guilt and role armor.
+V04-L015	V04	p-006.xhtml ¶639	CS/LI	NO_RETURN_STATE	RETAINED	先に進めぬ、ではない。戻れぬ、であろ。	Frederica distinguishes inability to move forward from inability to go back; restoration of the prior self is not the cure.
+V04-L027	V04	p-009.xhtml ¶469	CS	RELATIONAL_RETURN	RETAINED	帰ってきてください	Lena asks Shin to return during the Phonix battle.
+V04-L028	V04	p-009.xhtml ¶474	CS/LI	RELATIONAL_RETURN	RETAINED	必ず、ここへ。……帰ってきてください	The return request is explicitly to this place, strengthening a person/place return address.
+V05-L028	V05	p-006.xhtml ¶759	CS/MI/LI	LEGITIMATE_RETREAT	RETAINED	撤退は、れっきとした戦術行動です	Lena explicitly states that retreat is a proper tactical action.
+V05-L030	V05	p-007.xhtml ¶59–60	CS/NV/LI	ABANDONMENT	RETAINED	傍にいてくれるか` / `おいて逝かないでくれ	Vika asks Lerche to remain rather than leave him behind, exposing abandonment inside artificial-life creation.
+V06-L016	V06	p-004 ¶528	CS/IT	REFUSE_FINALITY	RETAINED	「だから……そう。見限らないんじゃない。見限りたくないんです。大攻勢の、あの...	Lena refuses to treat human cruelty as an immutable final truth.
+V06-L023	V06	p-005 ¶47	NV	ESCAPE_FROM_DESIRE	RETAINED	逃げているなと、内心思う。	Shin recognizes his own avoidance of future-desire as a form of fleeing.
+V06-L025	V06	p-005 ¶150	BA/SI	REFUSAL_SPACE	RETAINED	その〈シリン〉を戦場に送りこみ、消耗品として使い捨てるのを、彼女の主は本心で...	Vika preserves Lerche answer/refusal space rather than issuing a command, making refusal a relational capacity.
+V06-L034	V06	p-005 ¶850	CS/MI	OPTION_NOT_TO_DEPLOY	RETAINED	「……本部で、待機しているか」	Shin offers Rito the legitimate option of remaining at headquarters.
+V06-L036	V06	p-006 ¶800	CS/LI	RETURN_ADDRESS	RETAINED	『帰ってこいと、貴女が命じたのでしょう。それなら待っていてください。帰る場所...	Shin states that a command to return requires someone to wait and somewhere to return to.
+V06-L037	V06	p-006 ¶804	CS/LI	ABANDONMENT	RETAINED	『おいていかないでください』	Shin directly asks not to be left behind.
+V06-L042	V06	p-006 ¶871	CS/LI	BILATERAL_RETURN	RETAINED	「だから、帰ってきなさい。絶対に。わたしはおいていきませんから、──あなたも...	Lena promises not to leave him and commands reciprocal return.
+V06-L047	V06	p-007 ¶666	NV	UNFINISHED_FUTURE	RETAINED	必ず帰ると。話をしようと。傷つけたのを謝ることさえ自分はできていないのに、こ...	Return is tied to unfinished apology, conversation, and promises rather than mere survival.
+V06-L053	V06	p-007 ¶818	CS/LI	REFUSE_ROLE_BINARY	RETAINED	「だから何だ？ お前たちの矜持なんて知ったことじゃない。戦い抜くのが誇りだと...	Shin refuses the binary between retaining warrior pride and choosing life with others.
+V06-L056	V06	p-007 ¶847	BA	OPERATIONAL_RETURN	RETAINED	そのべたつく重い雪を踏んで、攻略部隊が帰ってくる。重装輸送車が次々と止まり、...	The surviving force physically returns; the relational thesis is realized through logistics and rescue.
+V06-L060	V06	p-009 ¶93	CS/IT	SHARED_RETURN_PLACE	RETAINED	今は、同じ場所に帰ってくる。	The Five presently return to the same place, while the text anticipates later divergence.
+V06-L066	V06	p-009 ¶139	CS/LI	WAITING	RETAINED	「今日は、帰ります。……待っている人がいますから」	Shin leaves recovered blood family because someone elsewhere is waiting; home becomes layered rather than replacement-based.
+V07-L022	V07	p-008.xhtml ¶96	CS/LI	BOUNDARY_REFUSAL	RETAINED	すぐ線引いて後ずさりしやがって	Shiden attacks Lena habitual backward step and unnecessary boundary-drawing.
+V07-L025	V07	p-008.xhtml ¶120	CS/LI	PAST_PLUS_DECISION	RETAINED	間違いも無力も後悔も、──その先の決断も	Past error is retained together with the decisions made after it; return does not require historical purification.
+V08-L017	V08	p-005.xhtml ¶89	CS/MI	ALLIED_RETURN_DOCTRINE	RETAINED	機動打撃群は生還させる	Ishmael promises to bring the Strike Package through the operation alive.
+V08-L028	V08	p-006.xhtml ¶383	CS/LI	LOSS_AND_NEW_ANCHOR	RETAINED	生きてりゃいつか、同じくらいに大切なものが	The Fleet Countries argument states that new important attachments can arise after devastating loss.
+V08-L029	V08	p-006.xhtml ¶385	CS/LI	NEW_AIM	RETAINED	また何か、目指せばいい	After loss, one may aim at something else rather than disappear with the lost object.
+V08-L032	V08	p-008.xhtml ¶95	CS/LI	ROLE_EXIT	RETAINED	戦わなくてもいいんだと思う	Shin can now imagine not fighting without treating noncombat life as betrayal.
+V08-L034	V08	p-008.xhtml ¶95	CS/LI	NONEXCLUSIVE_PLACE	RETAINED	戦場以外に居場所がないとも、もう思わない	Shin no longer believes the battlefield is his only place.
+V08-L041	V08	p-011.xhtml ¶194	CS/LI	ABANDONMENT	RETAINED	おいていかないで	The left-behind plea recurs under combat extremity, showing persistence rather than cure.
+V08-L050	V08	p-011.xhtml ¶681	CS/LI	RETURN_IMPERATIVE	RETAINED	帰らないと	Theo reaches a direct internal imperative to return.
+V08-L051	V08	p-011.xhtml ¶682	NV/LI	MAKE_HOME	RETAINED	どこかに見つけて。作って	If no return-place exists, one can find or make one.
+V08-L054	V08	p-011.xhtml ¶802	CS/LI	ANNOUNCE_RETURN	RETAINED	心配かけた。おれは無事だ	Shin reports that he is alive and safe after returning, making return a communicative obligation.
+V09-L025	V09	p-006 ¶506	CS/LI	RECIPROCAL_RETURN	RETAINED	私も必ず、貴方のいる場所に帰ってくるから	Anju promises to return to Dustin, extending reciprocal future beyond Shin/Lena.
+V09-L037	V09	p-010 ¶378–394	CS/LI	REFUSE_HERO_ROLE	RETAINED	ヒーロー役まで、期待されんのはまっぴらだ	A soldier explicitly refuses the expectation of serving as hero-symbol beyond ordinary duty.
+V09-L057	V09	p-011 ¶533	CS/LI	REFUSE_ABANDONMENT	RETAINED	わたくしだけは、わたくしの部下たちを見捨ててはいけない	Hielna redirects identity from martyr-symbol toward refusing to abandon living subordinates.
+V10-L015	V10	p-012 ¶98	CS/LI	COMPANION_RETURN	RETAINED	それでも、一緒に帰るか	Young Shin asks Fido whether it will go home with him; relation precedes later personhood theory.
+V10-L047	V10	p-027 ¶293	CS/AM	DEAD_RETURN_DESIRE	RETAINED	かえりたい	The Lethe material gives a death-derived voice the desire to go home.
+V10-L048	V10	p-027 ¶328	CS/LI	RELEASE_FROM_ROLE	RETAINED	もう──かえっていい	The reply that one may go home now transforms inherited duty into permission to stop.
+V11-L007	V11	人質なんか要らないから。ちゃんと帰ってくるから	04,09,10	INTERNALIZED_RETURN	RETAINED	EXACT_VERIFIED	Rito says no hostage is necessary because he will return; coercive guarantee is replaced by internal commitment.
+V11-L010	V11	復讐なんて、おれは望まなかったし、選ばなかった	02,05,09	REFUSE_REVENGE	RETAINED	EXACT_VERIFIED	Shin says revenge was neither desired nor chosen.
+V11-L018	V11	帰るところは、ここじゃないから	04,09,10	HOME_DIFFERENTIATION	RETAINED	EXACT_VERIFIED	Anju distinguishes birthplace from the place she now returns to.
+V11-L019	V11	また来よう。次は、おれたちみんなで	02,09,10	VOLUNTARY_MEMORIAL_RETURN	RETAINED	EXACT_VERIFIED	Shin proposes returning to San Magnolia later with everyone, when return is no longer imposed.
+V11-L020	V11	必ず、帰ってきます。ここに	03,09,10	VOLUNTARY_MEMORIAL_RETURN	RETAINED	EXACT_VERIFIED	Lena explicitly promises to come back to the destroyed place; return becomes chosen memorial relation.
+V11-L033	V11	共和国市民を見捨てるべきか	03,05,07	ABANDONMENT_TEMPTATION	RETAINED	EXACT_VERIFIED	Commanders seriously consider abandoning civilians, preventing easy moral purity.
+V11-L053	V11	助けられなかった。本当は見捨てたくなかった	03,05,10	GRIEF_WITHOUT_OMNIPOTENCE	RETAINED	EXACT_VERIFIED	Lena can grieve people she could not save without making their abandonment solely her personal sin.
+V12-L008	V12	p-004 ¶206	PF/MI	TEMPORARY_ROLE_REMOVAL	RETAINED	一月ほどは軍務を離れて休養すべき	Medical removal from duty is treated as support for future agency rather than loss of standing.
+V12-L073	V12	p-008 ¶539	CS/LI	REFUSE_DEATH	RETAINED	わたくしは死なない。まだ死は選ばない	Zelene explicitly refuses death for now because future informational responsibility remains.
+V12-L078	V12	p-009 ¶33	CS/LI	ROUTE_HOME	RETAINED	帰り道を、教えてほしいの	The Fawns ask to be shown the way home; return becomes a politically loaded desire rather than a sentimental abstraction.
+V13-L068	V13	V13 / p-006.xhtml para 11	CS	HOMELAND_RETURN	RETAINED	「這ってでも行くわ。……帰るんだもの」	Chitri insists on returning despite bodily exhaustion.
+V13-L082	V13	V13 / p-007.xhtml para 38	CS	RETURN_TO_COMMAND	RETAINED	『今度こそ聞こえていますね、〈アンダーテイカー〉。ヴラディレーナ・ミリーゼ大佐、指揮に復帰します。──心配かけました、シン』	Lena returns to command after enforced separation, showing role return can be chosen and context-specific.
+V13-L091	V13	V13 / p-007.xhtml para 177	CS	PLURAL_RETURN_DESIRE	RETAINED	「こんな知らない場所じゃなくて、こんな何もない場所じゃなくて故郷の街に帰りたかった。もう一度おとうさんに、おかあさんに、先生...	Chitri lists family, school, friends, travel, and adulthood as contents of the home she wanted to return to.
+V13-L101	V13	V13 / p-007.xhtml para 587	CS	RETURN_WISH	RETAINED	「君の声が聞こえたんだ。帰ってきて、って。……願ってくれたんだろ？」	Dustin says he heard Anju wish him back.
+V13-L102	V13	V13 / p-007.xhtml para 589	CS	WEAKNESS_AND_RETURN	RETAINED	「届いたよ、ちゃんと。帰らなきゃって、だから思えた。だから死なないでここまで、帰ってこられたんだ。ずるをした俺だけど、ずるを...	Dustin says the wish gave him a reason to return without pretending he survived through pure strength.
+V13-L115	V13	V13 / p-007.xhtml para 885	MI	BLOCKED_PERSON_RETURN	RETAINED	「ただし──リュストカマー基地への帰還だけは、許可できません。……ミリーゼ大佐、ペンローズ少佐はとりわけ、ご存じでしょう。全...	Lena is formally prohibited from returning to Rustkammer for political/security reasons.
+V13-L122	V13	V13 / p-007.xhtml para 980	MI	SECTOR_REPRODUCTION	RETAINED	〈ジャガーノート〉とその処理装置に、一切の後退を許さぬために要塞壁と地雷原とを敷設した、共和国の戦場と同じように。	The text directly compares the no-retreat fortification to the Republic battlefield architecture.
+V13-L123	V13	V13 / p-007.xhtml para 983	MI	NO_RETREAT_ORDER	RETAINED	機動打撃群は、以降、リュストカマー戦区を死守。部隊の後退はこれを許可しない。	The Strike Package is ordered to hold and not withdraw.
+V13-L124	V13	V13 / p-007.xhtml para 985	NV	BLOCKED_HOME_RETURN	RETAINED	平和の故郷に帰ることも。	The narration explicitly names peaceful-home return as something physically denied.
+V13-L126	V13	V13 / p-007.xhtml para 987	NV	BLOCKED_RETREAT	RETAINED	征路を〈レギオン〉に、退路を人の悪意に鎖される。	Advance is chained by Legion and retreat by human malice.
+V14-L024	V14	p-005 para 66	source	DEFERRED_RETURN	RETAINED	「わたしは戻れません。わたしには──今、中央にいるわたしには、こちらでやるべきことがある。だから……今はまだ、戻れません」	Lena says she cannot return yet because responsibility currently requires remaining elsewhere.
+V14-L025	V14	p-005 para 69	source	COLLECTIVE_WAITING	RETAINED	「待ってるよ。僕もみんなも、──シンも」	Theo tells Lena that everyone, including Shin, is waiting.
+V14-L027	V14	p-005 para 85	source	NONPOSSESSIVE_CARE	RETAINED	行かないで、と言いたかった。けれどセオは、戻るつもりだ。アネットがいまさら何か言ってもそれはきっと変わらないし、それ以上に万一にも彼の意志を...	Annette wants Theo not to go but refuses to make care a veto over his will.
+V14-L028	V14	p-005 para 95	source	RETURN_REQUEST	RETAINED	「シンとレーナとアンジュとダスティンと、ついでに王子殿下にぶつけるんだから。一緒にやるって言ったんだから。だからちゃんと待っててよ。ちゃんと...	Annette converts fear into a request that Theo come back rather than a prohibition on departure.
+V14-L044	V14	p-005 para 308	source	MORAL_RETURN	RETAINED	「そうだ。だから、他の奴やつらだって変われる。戻ってこられる」	Shin explicitly says other people can change and come back.
+V14-L054	V14	p-005 para 353	source	ESCAPE_FROM_HATRED	RETAINED	許したのとも違う。傷から逃れ、憎ぞう悪おから逃れ、そうすることで共和国の呪縛をも脱して、自分の生を生きようとしている。	Release from wound/hatred is distinguished from forgiveness and tied to living one own life.
+V14-L058	V14	p-005 para 395	source	IRREVERSIBLE_TRANSFER	RETAINED	「移ったら、それきり戻れなくなるだろ」	Shin identifies a change after which return would no longer be possible, making reversibility itself part of the decision.
+V14-L127	V14	p-008 para 21	source	ANTI_RETURN_DESIGN	RETAINED	本来、使い捨ての無人機の部品である〈シリン〉たちは、だからこそこんな特攻に起用されれば喜んで帰ってこなくなる。〈大君主〉作戦に向けて一人の戦...	Sirin expendability includes willingness not to come back from a suicide mission.
+V14-L143	V14	p-008 para 202	source	REFUSE_DEATH_ESCAPE	RETAINED	絶望に染まらず、死に逃げず、最後まで笑って戦い抜くと決めた。そうして生き抜いたのが自分たちだ。今の、第八六機動打撃群のエイティシックスだ。	Current Eighty-Six pride is formulated as refusing despair and escape into death.
+V14-L170	V14	p-008 para 447	source	NORMALIZED_OPERATIONAL_RETURN	RETAINED	ええ、無事に帰るまでが作戦ですから、と、リュドミラがなんだからしからぬ言葉を澄まして吐いた。	Lyudmila now repeats the ordinary maxim that the operation lasts until everyone returns safely.
+V14-L183	V14	p-008 para 568	source	ORDINARY_FUTURE_RETURN	RETAINED	今更だが聞いてみよう。この作戦から帰ったら。──泥水味の合成珈コー琲ヒーなんかよりはるかに旨うまい、スピアヘッド戦隊伝統のタンポポの根を炒い...	Raiden imagines visiting his old Alba teacher after the operation, giving him a personal postwar/return destination.
+V14-L209	V14	p-009 para 15	source	REACTIONARY_RETURN	RETAINED	「……我らギアーデは、再び帝国に戻るべきだ」	A call to return to empire is the clearest negative control: return language can mean political regression, not recovery.
+A1-E008	A1	冬の日に、隻影二つ	NV/SI	NO_RETURN_ADDRESS	SUPPLEMENTAL_RETAINED	(supplemental story evidence; use Alter.1 story-level locator)	Early Shin believes nobody waits for his return, sharpening the before-state for later waiting language.
+A1-E027	A1	朽骨の剣尖	NV/SI	IMAGINED_CATCH_UP	SUPPLEMENTAL_RETAINED	(supplemental story evidence; use Alter.1 story-level locator)	During Special Recon, Lena already exists as an imagined future encounter even when Shin does not strongly value his own survival.
+A1-E055	A1	盃に射す影	CS	ARCHIVE_NOT_HOME	SUPPLEMENTAL_RETAINED	(supplemental story evidence; use Alter.1 story-level locator)	Recovered historical address does not automatically become an emotionally valid home.
+A1-E064	A1	コーヒーと紅茶と	CS/LI	ORDINARY_FUTURE	SUPPLEMENTAL_RETAINED	(supplemental story evidence; use Alter.1 story-level locator)	Coffee/tea becomes a tiny repeatable future promise rather than grand survival rhetoric.
+A1-E075	A1	君がいるから・シンの場合	LI/NV	ABANDONMENT_REVERSAL	SUPPLEMENTAL_RETAINED	(supplemental story evidence; use Alter.1 story-level locator)	Supplemental ordinary-life evidence reverses old abandonment vocabulary into present security.
+A1-E095	A1	十月二日（アンジュ誕生日）	CS/LI	RETURN_RITUAL	SUPPLEMENTAL_RETAINED	(supplemental story evidence; use Alter.1 story-level locator)	Anju birthday flowers become a future-return ritual rather than only a memorial object.

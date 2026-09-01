@@ -1,0 +1,1243 @@
+{
+  "project": "Gakuen Idolmaster V2",
+  "character": "Tsukimura Temari / 月村手毬",
+  "created": "2026-08-15",
+  "source_lock": "GAKUMAS V2 Source Lock 1.0 + Temari AV registry 2026-08-15",
+  "entries": [
+    {
+      "id": "MUS01_LUNA_OFFICIAL_2D",
+      "kind": "music",
+      "source_filename": "初星学園 「Luna say maybe」Official Music Video (HATSUBOSHI GAKUEN - Luna say maybe)-(1080p24).mp4",
+      "source_path": "/mnt/data/初星学園 「Luna say maybe」Official Music Video (HATSUBOSHI GAKUEN - Luna say maybe)-(1080p24).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS01_LUNA_OFFICIAL_2D.mp4",
+      "size_bytes": 59097262,
+      "sha256": "d272d35b4f77a4c88cba5e16eb07929fd72889549c27ac29da59c03058e93ef5",
+      "duration_seconds": 265.868481,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 1778240,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "初星学園 「Luna say maybe」Official Music Video (HATSUBOSHI GAKUEN - Luna say maybe)",
+        "artist": "HATSUBOSHI GAKUEN",
+        "date": "20240502",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=Sq5Dj0U06vQ",
+        "genre": "Music",
+        "description": "Luna say maybe\n------------------------------\nEN Credits.\n▶Music\nSong by Temari Tsukimura (VA. Nao Ojika)\nLyric written, Composed by Minami\nArranged by Minami, Katsuhiro Mafune\n\nElectric Guitar : Minami\nElectric Guitar : Takumi Otsuka \nBass : Nanbu Kazuma \nDrums : Takashi Kashikura \nPiano : Shunsuke Watanabe\nSynth & Programming : Katsuhiro Mafune\nStrings Arrangement : Seigen Tokuzawa\n1st Vn. Masahiko Todo\n2nd Vn. Tomomi Tokunaga\nVa.  Misato Futaki\nVc. Seigen Tokuzawa\nHorn Arrangement : Satoru Takeshima, Minami\nTrumpet : Yochi Masago\nTrumpet : Shutaro Matsui\nTrombone : Mitsuhiro Wada\nTenor Sax, Flute, Piccolo : Satoru Takeshima\nRecording Engineer : Masayuki Yoshii\nMixing Engineer : Akitomo Takakuwa\nManagement : Water Reflection\nInstrumental Technician : Nishiki Takanori\n\n▶Movie\nDirector & Character Designer & illustrator : jia\nCompositor : ikumi\nAnimator : syoiti\nPainter : Emma Aohara\nPlanner : Masaki Takahashi\nAnimation Producer : tete\n------------------------------\nJP Credits.\n▶Music\n歌：月村手毬 (CV. 小鹿なお)\n作詞作曲：美波\n編曲：美波、真船勝博\n\nElectric Guitar：美波\nElectric Guitar：大塚巧 \nBass：難部一真 \nDrums：柏倉隆史 \nPiano：渡辺シュンスケ\nSynth & Programming：真船勝博\nStrings Arrangement：徳澤青弦\n1st Vn. ：藤堂昌彦\n2nd Vn. ：徳永友美\nVa. ：二木美里\nVc, ：徳澤青弦\nHorn Arrangement：武嶋聡、美波\nTrumpet：真砂陽地\nTrumpet：松井秀太郎\nTrombone：和田充弘\nTenor Sax, Flute, Piccolo：武嶋聡\nRecording Engineer：吉井 雅之\nMixing Engineer：高桑秋朝 \nManagement：Water Reflection\nInstrumental Technician：西木 章智\n\n▶Movie\n監督・キャラクターデザイン・イラスト：萩森じあ\n撮影：イクミ\nアニメーター：庄一\n仕上げ：蒼原えま\nプランナー：髙橋政記\nアニメーションプロデューサー：tete\n\n------------------------------\nMusic Label : ASOBINOTES\nLabel & MV Producer : 子川拓哉\nLabel Director : 大石和馬\nSound Producer : 佐藤貴文\nSound Director : 大澤めい\n------------------------------\n\n「学マス」で検索！\n▶学マスアプリのDLはこちら！\nhttps://app.adjust.com/19512hnz\n\n▶「Luna say maybe」インスト音源データ公開中！ぜひご利用ください。\nhttps://gakuen-label.idolmaster-official.jp/download\n\nTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.\nⓅ2024 Bandai Namco Entertainment Inc.\n\n#月村手毬 #初星学園 #美波 #ASOBINOTES #Hatsuboshi_Gakuen #idolmaster_Gakuen",
+        "synopsis": "Luna say maybe\n------------------------------\nEN Credits.\n▶Music\nSong by Temari Tsukimura (VA. Nao Ojika)\nLyric written, Composed by Minami\nArranged by Minami, Katsuhiro Mafune\n\nElectric Guitar : Minami\nElectric Guitar : Takumi Otsuka \nBass : Nanbu Kazuma \nDrums : Takashi Kashikura \nPiano : Shunsuke Watanabe\nSynth & Programming : Katsuhiro Mafune\nStrings Arrangement : Seigen Tokuzawa\n1st Vn. Masahiko Todo\n2nd Vn. Tomomi Tokunaga\nVa.  Misato Futaki\nVc. Seigen Tokuzawa\nHorn Arrangement : Satoru Takeshima, Minami\nTrumpet : Yochi Masago\nTrumpet : Shutaro Matsui\nTrombone : Mitsuhiro Wada\nTenor Sax, Flute, Piccolo : Satoru Takeshima\nRecording Engineer : Masayuki Yoshii\nMixing Engineer : Akitomo Takakuwa\nManagement : Water Reflection\nInstrumental Technician : Nishiki Takanori\n\n▶Movie\nDirector & Character Designer & illustrator : jia\nCompositor : ikumi\nAnimator : syoiti\nPainter : Emma Aohara\nPlanner : Masaki Takahashi\nAnimation Producer : tete\n------------------------------\nJP Credits.\n▶Music\n歌：月村手毬 (CV. 小鹿なお)\n作詞作曲：美波\n編曲：美波、真船勝博\n\nElectric Guitar：美波\nElectric Guitar：大塚巧 \nBass：難部一真 \nDrums：柏倉隆史 \nPiano：渡辺シュンスケ\nSynth & Programming：真船勝博\nStrings Arrangement：徳澤青弦\n1st Vn. ：藤堂昌彦\n2nd Vn. ：徳永友美\nVa. ：二木美里\nVc, ：徳澤青弦\nHorn Arrangement：武嶋聡、美波\nTrumpet：真砂陽地\nTrumpet：松井秀太郎\nTrombone：和田充弘\nTenor Sax, Flute, Piccolo：武嶋聡\nRecording Engineer：吉井 雅之\nMixing Engineer：高桑秋朝 \nManagement：Water Reflection\nInstrumental Technician：西木 章智\n\n▶Movie\n監督・キャラクターデザイン・イラスト：萩森じあ\n撮影：イクミ\nアニメーター：庄一\n仕上げ：蒼原えま\nプランナー：髙橋政記\nアニメーションプロデューサー：tete\n\n------------------------------\nMusic Label : ASOBINOTES\nLabel & MV Producer : 子川拓哉\nLabel Director : 大石和馬\nSound Producer : 佐藤貴文\nSound Director : 大澤めい\n------------------------------\n\n「学マス」で検索！\n▶学マスアプリのDLはこちら！\nhttps://app.adjust.com/19512hnz\n\n▶「Luna say maybe」インスト音源データ公開中！ぜひご利用ください。\nhttps://gakuen-label.idolmaster-official.jp/download\n\nTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.\nⓅ2024 Bandai Namco Entertainment Inc.\n\n#月村手毬 #初星学園 #美波 #ASOBINOTES #Hatsuboshi_Gakuen #idolmaster_Gakuen"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS02_LUNA_3DMV",
+      "kind": "music",
+      "source_filename": "4K HDR「Luna say maybe」(歌：月村手毬)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「Luna say maybe」(歌：月村手毬)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS02_LUNA_3DMV.mp4",
+      "size_bytes": 94639894,
+      "sha256": "99ac4f302506334b4206b96536a980e52c34deb67f28a94e8a1e0505e8e4a4ac",
+      "duration_seconds": 165.442177,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 4576336,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "4K HDR「Luna say maybe」(歌：月村手毬)【学マス/学園アイドルマスタ/Gakumas MV】",
+        "artist": "十六夜カズヤP / 16KazuyaP",
+        "date": "20240519",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=pUXPOtcKmcQ",
+        "genre": "Gaming",
+        "description": "「Luna say maybe」 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm43807719\n歌：#月村手毬  (CV. 小鹿なお)\n作詞・作曲：美波\n編曲：美波、真船勝博\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師",
+        "synopsis": "「Luna say maybe」 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm43807719\n歌：#月村手毬  (CV. 小鹿なお)\n作詞・作曲：美波\n編曲：美波、真船勝博\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS03_IVY_FULL_SOURCE",
+      "kind": "music",
+      "source_filename": "アイヴイ-(1080p25).mp4",
+      "source_path": "/mnt/data/アイヴイ-(1080p25).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS03_IVY_FULL_SOURCE.mp4",
+      "size_bytes": 8438426,
+      "sha256": "023a620f41e97f4123412ec9397f1500281f3ffdcb9fe88f6db8a9eb63198701",
+      "duration_seconds": 194.871995,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 346419,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "アイヴイ",
+        "artist": "Hatsuboshi Gakuen, TSUMIKI, Temari Tsukimura, TSUMIKI, TSUMIKI, TSUMIKI",
+        "album": "IVY",
+        "date": "20240522",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=u-YomJhPSN4",
+        "genre": "Music",
+        "description": "Provided to YouTube by NexTone Inc.\n\nアイヴイ · Hatsuboshi Gakuen · TSUMIKI · Temari Tsukimura · TSUMIKI · TSUMIKI · TSUMIKI\n\nIVY\n\nReleased on: 2024-05-23\n\nAuto-generated by YouTube.",
+        "synopsis": "Provided to YouTube by NexTone Inc.\n\nアイヴイ · Hatsuboshi Gakuen · TSUMIKI · Temari Tsukimura · TSUMIKI · TSUMIKI · TSUMIKI\n\nIVY\n\nReleased on: 2024-05-23\n\nAuto-generated by YouTube."
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1080,
+        "height": 1080,
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "128009"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS04_IVY_3DMV",
+      "kind": "music",
+      "source_filename": "4K HDR「アイヴイ (IVY)」 (月村手毬 SSR solo)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「アイヴイ (IVY)」 (月村手毬 SSR solo)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS04_IVY_3DMV.mp4",
+      "size_bytes": 87900865,
+      "sha256": "b4d98fcf63d58cdd765bce4f7b495fe3e526d19f842201046e0447b4da068b66",
+      "duration_seconds": 186.107937,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 3778489,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "4K HDR「アイヴイ (IVY)」 (月村手毬 SSR solo)【学マス/学園アイドルマスタ/Gakumas MV】",
+        "artist": "十六夜カズヤP / 16KazuyaP",
+        "date": "20240717",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=heLDPvSfJUE",
+        "genre": "Gaming",
+        "description": "「アイヴイ」 4K #HDR 60fps\n\n作詞・作曲・編曲：ツミキ\n歌：#月村手毬  (CV. 小鹿なお)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師",
+        "synopsis": "「アイヴイ」 4K #HDR 60fps\n\n作詞・作曲・編曲：ツミキ\n歌：#月村手毬  (CV. 小鹿なお)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS05_UNHAPPY_LIGHT_OFFICIAL",
+      "kind": "music",
+      "source_filename": "初星学園 「Unhappy Light」Official Music Video (HATSUBOSHI GAKUEN - Unhappy Light)-(1080p24).mp4",
+      "source_path": "/mnt/data/初星学園 「Unhappy Light」Official Music Video (HATSUBOSHI GAKUEN - Unhappy Light)-(1080p24).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS05_UNHAPPY_LIGHT_OFFICIAL.mp4",
+      "size_bytes": 24785642,
+      "sha256": "6c1cab380052b0679e3af1c4120f58574706d6371c187fdf084bb1d182e06e6c",
+      "duration_seconds": 251.263129,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 789153,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "初星学園 「Unhappy Light」Official Music Video (HATSUBOSHI GAKUEN - Unhappy Light)",
+        "artist": "HATSUBOSHI GAKUEN",
+        "date": "20260603",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=QYgxhkq7Xos",
+        "genre": "Music",
+        "description": "[EN Credits.]\nUnhappy Light\n\n▶Music\nSong by Temari Tsukimura（VA.Nao Ojika）\nLyrics written, Composed, Arranged by Aira (Dream Monster)\n\nDrums：Junya Yamamoto\nBass：Rock Sakurai\nGuitar & All Other Instruments：Aira(Dream Monster)\n\nRecording Engineer：Yohei Horiuchi(Joint 1)\nRecording Studio：HeartBeat RECORDING STUDIO\nMixing Engineer：Yasuo Hiruma\n\n▶Movie\nDirector/Creative Produce/Storyboard：reinou\nCharacter Design/Animation Director/Key Animation：Kumaneko Yoru\n\nAnimation Assistant/BackGround(Outside)/Paint:Tsuruta\nPaint:Aoyama Wasabi,Kanda Yo\nBackGround(In-room)/Character Styling (Inner)/Color Design：Oshima Tsukumo\nCharacter Styling (Outfit)：Inui Asa\n\nComposite：Harumochi Kaname\nLogo design/Thumbnail Design：Aoyama Wasabi\nMV Producer：KEISUKE YANO\n\n[JP Credits.]\nUnhappy Light\n\n▶Music\n歌：月村手毬（CV.小鹿なお）\n作詞・作曲・編曲：Aira (Dream Monster)\n\nDrums：山本淳也\nBass：櫻井陸来\nGuitar & All Other Instruments：Aira(Dream Monster)\n\nRecording Engineer：堀内陽平(Joint 1)\nRecording Studio：HeartBeat RECORDING STUDIO\nMixing Engineer：比留間泰生\n\n▶Movie\n監督/演出/コンテ：reinou\nキャラクターデザイン/作画監督/原画：熊猫よる\n\n動画/屋外背景/仕上：つるた\n仕上：葵山わさび、神多 洋\n室内背景/室内衣装設計/色彩設計：大島つくも\n屋外衣装設計：犬井アサ\n\n撮影：春望かなめ\nロゴ/サムネイル：葵山わさび\nMV Producer：矢野圭将\n\n------------------------------\nMusic Label : ASOBINOTES\nLabel & MV Producer : 矢野圭将\nLabel Director : 尾上和駿、大石和馬\nSound Producer : 佐藤貴文\nSound Director : 大澤めい\n------------------------------\n\n「学マス」で検索！\n▶学マスアプリのDLはこちら！\nhttps://app.adjust.com/19512hnz\n\nTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.\nⓅ2026 Bandai Namco Entertainment Inc.\n\n#月村手毬 #初星学園 #Aira #ASOBINOTES #Hatsuboshi_Gakuen #idolmaster_Gakuen",
+        "synopsis": "[EN Credits.]\nUnhappy Light\n\n▶Music\nSong by Temari Tsukimura（VA.Nao Ojika）\nLyrics written, Composed, Arranged by Aira (Dream Monster)\n\nDrums：Junya Yamamoto\nBass：Rock Sakurai\nGuitar & All Other Instruments：Aira(Dream Monster)\n\nRecording Engineer：Yohei Horiuchi(Joint 1)\nRecording Studio：HeartBeat RECORDING STUDIO\nMixing Engineer：Yasuo Hiruma\n\n▶Movie\nDirector/Creative Produce/Storyboard：reinou\nCharacter Design/Animation Director/Key Animation：Kumaneko Yoru\n\nAnimation Assistant/BackGround(Outside)/Paint:Tsuruta\nPaint:Aoyama Wasabi,Kanda Yo\nBackGround(In-room)/Character Styling (Inner)/Color Design：Oshima Tsukumo\nCharacter Styling (Outfit)：Inui Asa\n\nComposite：Harumochi Kaname\nLogo design/Thumbnail Design：Aoyama Wasabi\nMV Producer：KEISUKE YANO\n\n[JP Credits.]\nUnhappy Light\n\n▶Music\n歌：月村手毬（CV.小鹿なお）\n作詞・作曲・編曲：Aira (Dream Monster)\n\nDrums：山本淳也\nBass：櫻井陸来\nGuitar & All Other Instruments：Aira(Dream Monster)\n\nRecording Engineer：堀内陽平(Joint 1)\nRecording Studio：HeartBeat RECORDING STUDIO\nMixing Engineer：比留間泰生\n\n▶Movie\n監督/演出/コンテ：reinou\nキャラクターデザイン/作画監督/原画：熊猫よる\n\n動画/屋外背景/仕上：つるた\n仕上：葵山わさび、神多 洋\n室内背景/室内衣装設計/色彩設計：大島つくも\n屋外衣装設計：犬井アサ\n\n撮影：春望かなめ\nロゴ/サムネイル：葵山わさび\nMV Producer：矢野圭将\n\n------------------------------\nMusic Label : ASOBINOTES\nLabel & MV Producer : 矢野圭将\nLabel Director : 尾上和駿、大石和馬\nSound Producer : 佐藤貴文\nSound Director : 大澤めい\n------------------------------\n\n「学マス」で検索！\n▶学マスアプリのDLはこちら！\nhttps://app.adjust.com/19512hnz\n\nTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.\nⓅ2026 Bandai Namco Entertainment Inc.\n\n#月村手毬 #初星学園 #Aira #ASOBINOTES #Hatsuboshi_Gakuen #idolmaster_Gakuen"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS06_ITTAI_ITSUKARA_3DMV",
+      "kind": "music",
+      "source_filename": "4K HDR「一体いつから」 (月村手毬 STEP3 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「一体いつから」 (月村手毬 STEP3 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS06_ITTAI_ITSUKARA_3DMV.mp4",
+      "size_bytes": 110043400,
+      "sha256": "909fcb80bf71ba792ee27819ce307394c8df49ad8bcfee842537bdde064ed341",
+      "duration_seconds": 169.970068,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 5179424,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "4K HDR「一体いつから」 (月村手毬 STEP3 ソロ SSR)【学マス/学園アイドルマスタ/Gakuen idolm@ster MV】",
+        "artist": "十六夜カズヤP / 16KazuyaP",
+        "date": "20260116",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=bpMDYKiuZMQ",
+        "genre": "Gaming",
+        "description": "「一体いつから」 (#月村手毬  STEP3 ソロ SSR) 4K HDR 60fps\nhttps://www.nicovideo.jp/watch/sm45842018\n\n作詞・作曲：大橋ちっぽけ\n編曲：岩崎隆一\n歌：月村手毬 (CV. 小鹿なお)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師",
+        "synopsis": "「一体いつから」 (#月村手毬  STEP3 ソロ SSR) 4K HDR 60fps\nhttps://www.nicovideo.jp/watch/sm45842018\n\n作詞・作曲：大橋ちっぽけ\n編曲：岩崎隆一\n歌：月村手毬 (CV. 小鹿なお)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p10le",
+        "color_space": "bt2020nc",
+        "color_transfer": "smpte2084",
+        "color_primaries": "bt2020"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS07_CAMPUS_MODE_3DMV",
+      "kind": "music",
+      "source_filename": "4K HDR「Campus mode!!」(月村手毬 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「Campus mode!!」(月村手毬 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS07_CAMPUS_MODE_3DMV.mp4",
+      "size_bytes": 115604697,
+      "sha256": "60af8060c0405f1ee3fdc1ca17fbe0923eb13be78bc084817b7f03835d58079c",
+      "duration_seconds": 159.869388,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 5784957,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "4K HDR「Campus mode!!」(月村手毬 フェスSSR)【学マス/学園アイドルマスタ/Gakuen idolm@ster MV】",
+        "artist": "十六夜カズヤP / 16KazuyaP",
+        "date": "20241228",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=lT_RqV4oUr0",
+        "genre": "Gaming",
+        "description": "「Campus mode!!」(#月村手毬 フェスSSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm44472401\n歌：月村手毬 (CV. 小鹿なお)\n作詞・作曲：田淵智也\n編曲：滝澤俊輔（TRYTONELABO）\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師",
+        "synopsis": "「Campus mode!!」(#月村手毬 フェスSSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm44472401\n歌：月村手毬 (CV. 小鹿なお)\n作詞・作曲：田淵智也\n編曲：滝澤俊輔（TRYTONELABO）\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS08_GARAKUTA_ROAD_3DMV",
+      "kind": "music",
+      "source_filename": "4K HDR (月村手毬 SSR1) Aエンディング「ガラクタロード」【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR (月村手毬 SSR1) Aエンディング「ガラクタロード」【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS08_GARAKUTA_ROAD_3DMV.mp4",
+      "size_bytes": 56654241,
+      "sha256": "5dec6aa8e95c5e71befa2be02772e818b80f56a69090fa62596e22d80cc90f05",
+      "duration_seconds": 88.491247,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 5121793,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "4K HDR (月村手毬 SSR1) Aエンディング「ガラクタロード」【学マス/学園アイドルマスタ/Gakuen idolm@ster MV】",
+        "artist": "十六夜カズヤP / 16KazuyaP",
+        "date": "20260517",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=02S1I17PZgQ",
+        "genre": "Gaming",
+        "description": "「ガラクタロード」Aエンディング (#月村手毬 SSR1) 4K HDR 60fps\nhttps://www.nicovideo.jp/watch/sm46319329\n\n作歌：月村手毬 (CV. 小鹿なお)\n作詞：Rou-hou\n作曲：佐藤貴文\n編曲：鈴木俊介、大澤めい (Bandai Namco Studios Inc.)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師",
+        "synopsis": "「ガラクタロード」Aエンディング (#月村手毬 SSR1) 4K HDR 60fps\nhttps://www.nicovideo.jp/watch/sm46319329\n\n作歌：月村手毬 (CV. 小鹿なお)\n作詞：Rou-hou\n作曲：佐藤貴文\n編曲：鈴木俊介、大澤めい (Bandai Namco Studios Inc.)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS09_GAMUSHARA_3DMV",
+      "kind": "music",
+      "source_filename": "4K HDR「がむしゃらに行こう！」 (月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「がむしゃらに行こう！」 (月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS09_GAMUSHARA_3DMV.mp4",
+      "size_bytes": 69869805,
+      "sha256": "bd5de56cbbe2f0a9b0ddeadbc2d67da72c9847f1e4c23f4b5533c142a0d02a48",
+      "duration_seconds": 113.893878,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 4907712,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "4K HDR「がむしゃらに行こう！」 (月村手毬 SSR)【学マス/学園アイドルマスタ/Gakuen idolm@ster MV】",
+        "artist": "十六夜カズヤP / 16KazuyaP",
+        "date": "20251010",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=2OMi8x9LXi0",
+        "genre": "Gaming",
+        "description": "「がむしゃらに行こう！」 (#月村手毬 SSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm45496093\n\n歌：月村手毬 (CV. 小鹿なお)\n作詞：SHOW (Digz, Inc. Group)\n作曲：SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)\n編曲：Mitsu.J (Digz, Inc. Group)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師",
+        "synopsis": "「がむしゃらに行こう！」 (#月村手毬 SSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm45496093\n\n歌：月村手毬 (CV. 小鹿なお)\n作詞：SHOW (Digz, Inc. Group)\n作曲：SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)\n編曲：Mitsu.J (Digz, Inc. Group)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p10le",
+        "color_space": "bt2020nc",
+        "color_transfer": "smpte2084",
+        "color_primaries": "bt2020"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS10_HAJIME_3DMV",
+      "kind": "music",
+      "source_filename": "【学マス】4K 全体曲「初」ライブシーン （月村 手毬）フル映像【アイドルマスター】-(1090p30).mp4",
+      "source_path": "/mnt/data/【学マス】4K 全体曲「初」ライブシーン （月村 手毬）フル映像【アイドルマスター】-(1090p30).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS10_HAJIME_3DMV.mp4",
+      "size_bytes": 95893615,
+      "sha256": "4403cc321119d8f46187c7e98268f67a0b11ca8804cebd0f252d9de40a850e9b",
+      "duration_seconds": 155.387937,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 4936991,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【学マス】4K 全体曲「初」ライブシーン （月村 手毬）フル映像【アイドルマスター】",
+        "artist": "アイドルマスターチャンネル",
+        "date": "20240428",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=HwZbq2tGguE",
+        "genre": "Gaming",
+        "description": "『アイドルマスター』シリーズ 新ブランド「学園アイドルマスター」\n全体曲「初（はじめ）」ライブシーンのフル映像（月村 手毬Ver.）を公開中！\n\n▼コンポーザー\n・作詞／作曲\n＃原口沙輔 （はらぐち さすけ）\n・編曲\n＃宮川弾 （みやかわ だん）　＃原口沙輔\n\n▼#学マス 事前登録はこちらから！▼\nhttp://app.adjust.com/1ai6ouao\n\n▼学マス関連リンク▼\n・公式サイト\nhttps://gakuen.idolmaster-official.jp/\n・公式X（旧:Twitter）\nhttps://twitter.com/gkmas_official\n\n#学園アイドルマスター ＃初星学園\n\n\n◆アイドルマスターチャンネルとは？\n「YouTubeでプロデュースがもっと楽しくなる！\nすべての「アイドルマスター」プロデューサーさんたちの集う場所。」を掲げ、\nプロデューサーさんたちのプロデュース活動を推進できるようなコンテンツをお届けしていきます！\n\n= = = = = = = = = = =\n【アイドルマスターチャンネル公式SNS】\nhttps://twitter.com/imas_ch\n【アイドルマスター公式SNS】\nhttps://twitter.com/imas_official\n【シリーズポータルサイトはこちら】\nhttps://idolmaster-official.jp/\n【アイドルマスター関連グッズ情報はこちらから！- アソビストア】\nhttps://asobistore.jp/content/title/Idolmaster/index.html?_ga=2.34588642.2100887350.1714019543-1479269034.1691397623&_gl=1*4sokx7*_ga*MTQ3OTI2OTAzNC4xNjkxMzk3NjIz*_ga_496M962MBZ*MTcxNDAzNDY0NC41NTEuMS4xNzE0MDM0NjYwLjAuMC4w\n= = = = = = = = = = =\n#アイマスch",
+        "synopsis": "『アイドルマスター』シリーズ 新ブランド「学園アイドルマスター」\n全体曲「初（はじめ）」ライブシーンのフル映像（月村 手毬Ver.）を公開中！\n\n▼コンポーザー\n・作詞／作曲\n＃原口沙輔 （はらぐち さすけ）\n・編曲\n＃宮川弾 （みやかわ だん）　＃原口沙輔\n\n▼#学マス 事前登録はこちらから！▼\nhttp://app.adjust.com/1ai6ouao\n\n▼学マス関連リンク▼\n・公式サイト\nhttps://gakuen.idolmaster-official.jp/\n・公式X（旧:Twitter）\nhttps://twitter.com/gkmas_official\n\n#学園アイドルマスター ＃初星学園\n\n\n◆アイドルマスターチャンネルとは？\n「YouTubeでプロデュースがもっと楽しくなる！\nすべての「アイドルマスター」プロデューサーさんたちの集う場所。」を掲げ、\nプロデューサーさんたちのプロデュース活動を推進できるようなコンテンツをお届けしていきます！\n\n= = = = = = = = = = =\n【アイドルマスターチャンネル公式SNS】\nhttps://twitter.com/imas_ch\n【アイドルマスター公式SNS】\nhttps://twitter.com/imas_official\n【シリーズポータルサイトはこちら】\nhttps://idolmaster-official.jp/\n【アイドルマスター関連グッズ情報はこちらから！- アソビストア】\nhttps://asobistore.jp/content/title/Idolmaster/index.html?_ga=2.34588642.2100887350.1714019543-1479269034.1691397623&_gl=1*4sokx7*_ga*MTQ3OTI2OTAzNC4xNjkxMzk3NjIz*_ga_496M962MBZ*MTcxNDAzNDY0NC41NTEuMS4xNzE0MDM0NjYwLjAuMC4w\n= = = = = = = = = = =\n#アイマスch"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 2560,
+        "height": 1090,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "128016"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS11_ENDLESS_DANCE_3DMV",
+      "kind": "music",
+      "source_filename": "【月村手毬】 ENDLESS DANCE 【学マス】-(1090p60).mp4",
+      "source_path": "/mnt/data/【月村手毬】 ENDLESS DANCE 【学マス】-(1090p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS11_ENDLESS_DANCE_3DMV.mp4",
+      "size_bytes": 94799587,
+      "sha256": "aaefe00627732a60114b529636e4b657acdcaa3551b6a32fcf8e14a6e53ed9a1",
+      "duration_seconds": 98.684807,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 7685040,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【月村手毬】 ENDLESS DANCE 【学マス】",
+        "artist": "紫苑の遊び場",
+        "date": "20260227",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=k5UdKXrg2uU",
+        "genre": "Gaming",
+        "description": "月村手毬 (CV. 小鹿 なお)「ENDLESS DANCE」\n\n作詞・作曲：首藤義勝\n編曲：藤永龍太郎(Elements Garden)\n\n#学園アイドルマスター #学マス #4K",
+        "synopsis": "月村手毬 (CV. 小鹿 なお)「ENDLESS DANCE」\n\n作詞・作曲：首藤義勝\n編曲：藤永龍太郎(Elements Garden)\n\n#学園アイドルマスター #学マス #4K"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 2560,
+        "height": 1090,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS12_HOWLING_3DMV",
+      "kind": "music",
+      "source_filename": "4K HDR「Howling over the World」 (月村手毬 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「Howling over the World」 (月村手毬 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS12_HOWLING_3DMV.mp4",
+      "size_bytes": 69424438,
+      "sha256": "ea479f26d940acef07ea4cbaf548a56116db9e8ecb6603c1cd05267647dd384d",
+      "duration_seconds": 111.734422,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 4970675,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "4K HDR「Howling over the World」 (月村手毬 ソロ SSR)【学マス/学園アイドルマスタ/Gakuen idolm@ster MV】",
+        "artist": "十六夜カズヤP / 16KazuyaP",
+        "date": "20250529",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=3jiyFJQ7y0o",
+        "genre": "Gaming",
+        "description": "「Howling over the World」 (#月村手毬   ソロ SSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm45032286\n\n作詞・作曲・編曲： 烏屋茶房\n歌：月村手毬 (CV. 小鹿なお)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 #学園偶像大師",
+        "synopsis": "「Howling over the World」 (#月村手毬   ソロ SSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm45032286\n\n作詞・作曲・編曲： 烏屋茶房\n歌：月村手毬 (CV. 小鹿なお)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 #学園偶像大師"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS13_MIRACLE_NANAU_3DMV",
+      "kind": "music",
+      "source_filename": "4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS13_MIRACLE_NANAU_3DMV.mp4",
+      "size_bytes": 63623106,
+      "sha256": "43c4fa8ddbc55c3997d579a9ab237e75834a6201365c6813122ead0ddcc66e0b",
+      "duration_seconds": 116.889252,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 4354419,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (月村手毬 SSR)【学マス/学園アイドルマスタ/Gakuen idolm@ster MV】",
+        "artist": "十六夜カズヤP / 16KazuyaP",
+        "date": "20250830",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=yD2giQxI5N0",
+        "genre": "Gaming",
+        "description": "「ミラクルナナウ(ﾟ∀ﾟ)！」 (#月村手毬  SSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm45351442\n\n作詞・作曲・編曲：YUC'e\n歌：月村手毬 (CV. 小鹿なお)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師",
+        "synopsis": "「ミラクルナナウ(ﾟ∀ﾟ)！」 (#月村手毬  SSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm45351442\n\n作詞・作曲・編曲：YUC'e\n歌：月村手毬 (CV. 小鹿なお)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS14_KANAETAI_FULL_SOURCE",
+      "kind": "music",
+      "source_filename": "叶えたい、ことばかり-(1080p25).mp4",
+      "source_path": "/mnt/data/叶えたい、ことばかり-(1080p25).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS14_KANAETAI_FULL_SOURCE.mp4",
+      "size_bytes": 14977218,
+      "sha256": "5b050579ce235891fe9b19e667d6845fadc7dd70c86dc380c1c6d139f14bc3ec",
+      "duration_seconds": 246.930998,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 485227,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "叶えたい、ことばかり",
+        "artist": "Hatsuboshi Gakuen, Toma Tanaka, Temari Tsukimura, 田中透真(Dream Monster), 田中透真(Dream Monster), 田中透真(Dream Monster)",
+        "album": "Dream of that Day",
+        "date": "20240602",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=WTrdlgJqqAw",
+        "genre": "Music",
+        "description": "Provided to YouTube by NexTone Inc.\n\n叶えたい、ことばかり · Hatsuboshi Gakuen · Toma Tanaka · Temari Tsukimura · 田中透真(Dream Monster) · 田中透真(Dream Monster) · 田中透真(Dream Monster)\n\nDream of that Day\n\nReleased on: 2024-06-03\n\nAuto-generated by YouTube.",
+        "synopsis": "Provided to YouTube by NexTone Inc.\n\n叶えたい、ことばかり · Hatsuboshi Gakuen · Toma Tanaka · Temari Tsukimura · 田中透真(Dream Monster) · 田中透真(Dream Monster) · 田中透真(Dream Monster)\n\nDream of that Day\n\nReleased on: 2024-06-03\n\nAuto-generated by YouTube."
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1080,
+        "height": 1080,
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "128007"
+      },
+      "chapters": []
+    },
+    {
+      "id": "MUS15_REIRIS_3DMV",
+      "kind": "music",
+      "source_filename": "4K HDR「雨上がりのアイリス」 (Re;IRIS 花海咲季・藤田ことね・月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "source_path": "/mnt/data/4K HDR「雨上がりのアイリス」 (Re;IRIS 花海咲季・藤田ことね・月村手毬 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/music/MUS15_REIRIS_3DMV.mp4",
+      "size_bytes": 131322949,
+      "sha256": "c22fc210987561c2b0c9c069b4f81ad092f5e7c4093657fb4372aa4b44a29c1d",
+      "duration_seconds": 199.45941,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 5267154,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "4K HDR「雨上がりのアイリス」 (Re;IRIS 花海咲季・藤田ことね・月村手毬 SSR)【学マス/学園アイドルマスタ/Gakuen idolm@ster MV】",
+        "artist": "十六夜カズヤP / 16KazuyaP",
+        "date": "20250501",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=LVyxMurwkQQ",
+        "genre": "Gaming",
+        "description": "「雨上がりのアイリス」 (Re;IRIS SSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm44934979\n\n歌：\n花海咲季 (CV. 長月あおい)・藤田ことね (CV. 飯田ヒカル)・#月村手毬  (CV. 小鹿なお)\n作詞：こだまさおり\n作曲・編曲：神前暁(MONACA)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師",
+        "synopsis": "「雨上がりのアイリス」 (Re;IRIS SSR) 4K #HDR 60fps\nhttps://www.nicovideo.jp/watch/sm44934979\n\n歌：\n花海咲季 (CV. 長月あおい)・藤田ことね (CV. 飯田ヒカル)・#月村手毬  (CV. 小鹿なお)\n作詞：こだまさおり\n作曲・編曲：神前暁(MONACA)\n\nゲーム内レコード:\nアイドルマスター #学園アイドルマスター #学マス #アイマス\nrecorded from game:\nGakuen iDOLM@STER\nhttps://gakuen.idolmaster-official.jp/\n#偶像大師 学園偶像大師"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p10le",
+        "color_space": "bt2020nc",
+        "color_transfer": "smpte2084",
+        "color_primaries": "bt2020"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA01_DEAR_001_010",
+      "kind": "commu",
+      "source_filename": "【学マス】月村手毬　親愛度１～１０話【アイドルコミュ】-(720p30).mp4",
+      "source_path": "/mnt/data/【学マス】月村手毬　親愛度１～１０話【アイドルコミュ】-(720p30).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA01_DEAR_001_010.mp4",
+      "size_bytes": 166680777,
+      "sha256": "bb9ca90ae008e665bd5543cd80849c3cdd8963a2f6216c11c9918c61951b0da0",
+      "duration_seconds": 2963.539592,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 449950,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【学マス】月村手毬　親愛度１～１０話【アイドルコミュ】",
+        "artist": "学マスコミュ保管委員会",
+        "date": "20240617",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=JkaKIO4YG6Y",
+        "genre": "Gaming",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA02_DEAR_011_020",
+      "kind": "commu",
+      "source_filename": "【学マス】月村手毬　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+      "source_path": "/mnt/data/【学マス】月村手毬　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA02_DEAR_011_020.mp4",
+      "size_bytes": 204441527,
+      "sha256": "d5fbcd475b44d3a24937adcfb95a35f13cc69884cfa4e3a20b6634a815653b0f",
+      "duration_seconds": 3538.256689,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 462242,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【学マス】月村手毬　親愛度１１～２０話【アイドルコミュ】",
+        "artist": "学マスコミュ保管委員会",
+        "date": "20241227",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=ykWmmcNIUGU",
+        "genre": "Gaming",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA03_DEAR_021_027",
+      "kind": "commu",
+      "source_filename": "【学マス】月村手毬  親愛度コミュ21～27話まとめ【STEP3】-(720p60).mp4",
+      "source_path": "/mnt/data/【学マス】月村手毬  親愛度コミュ21～27話まとめ【STEP3】-(720p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA03_DEAR_021_027.mp4",
+      "size_bytes": 200108342,
+      "sha256": "58ccd70b84305aeea95f74a313baa39d0588604eff53174ea0b08ba691415a2e",
+      "duration_seconds": 2751.425306,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 581831,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【学マス】月村手毬  親愛度コミュ21～27話まとめ【STEP3】",
+        "artist": "学Pといっしょ",
+        "date": "20260116",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=wJsIBFy8BHw",
+        "genre": "Gaming",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【動画内容】\n親愛度コミュ21話 0:00～\n親愛度コミュ22話 3:46～\n親愛度コミュ23話 8:07～\n親愛度コミュ24話 15:41～\n親愛度コミュ25話 22:25～\n親愛度コミュ26話 28:21～\n親愛度コミュ27話 36:42～\nED 42:42～\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n【動画内容】\n親愛度コミュ21話 0:00～\n親愛度コミュ22話 3:46～\n親愛度コミュ23話 8:07～\n親愛度コミュ24話 15:41～\n親愛度コミュ25話 22:25～\n親愛度コミュ26話 28:21～\n親愛度コミュ27話 36:42～\nED 42:42～\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": [
+        {
+          "id": 0,
+          "time_base": "1/1000",
+          "start": 0,
+          "start_time": "0.000000",
+          "end": 226000,
+          "end_time": "226.000000",
+          "tags": {
+            "title": "親愛度コミュ21話"
+          }
+        },
+        {
+          "id": 1,
+          "time_base": "1/1000",
+          "start": 226000,
+          "start_time": "226.000000",
+          "end": 487000,
+          "end_time": "487.000000",
+          "tags": {
+            "title": "親愛度コミュ22話"
+          }
+        },
+        {
+          "id": 2,
+          "time_base": "1/1000",
+          "start": 487000,
+          "start_time": "487.000000",
+          "end": 941000,
+          "end_time": "941.000000",
+          "tags": {
+            "title": "親愛度コミュ23話"
+          }
+        },
+        {
+          "id": 3,
+          "time_base": "1/1000",
+          "start": 941000,
+          "start_time": "941.000000",
+          "end": 1345000,
+          "end_time": "1345.000000",
+          "tags": {
+            "title": "親愛度コミュ24話"
+          }
+        },
+        {
+          "id": 4,
+          "time_base": "1/1000",
+          "start": 1345000,
+          "start_time": "1345.000000",
+          "end": 1701000,
+          "end_time": "1701.000000",
+          "tags": {
+            "title": "親愛度コミュ25話"
+          }
+        },
+        {
+          "id": 5,
+          "time_base": "1/1000",
+          "start": 1701000,
+          "start_time": "1701.000000",
+          "end": 2202000,
+          "end_time": "2202.000000",
+          "tags": {
+            "title": "親愛度コミュ26話"
+          }
+        },
+        {
+          "id": 6,
+          "time_base": "1/1000",
+          "start": 2202000,
+          "start_time": "2202.000000",
+          "end": 2562000,
+          "end_time": "2562.000000",
+          "tags": {
+            "title": "親愛度コミュ27話"
+          }
+        },
+        {
+          "id": 7,
+          "time_base": "1/1000",
+          "start": 2562000,
+          "start_time": "2562.000000",
+          "end": 2751000,
+          "end_time": "2751.000000",
+          "tags": {
+            "title": "ED"
+          }
+        }
+      ]
+    },
+    {
+      "id": "DIA04_DEAR_028_037",
+      "kind": "commu",
+      "source_filename": "【学マス】月村手毬　親愛度２８～３７話【アイドルコミュ STEP4 HIF】-(720p30).mp4",
+      "source_path": "/mnt/data/【学マス】月村手毬　親愛度２８～３７話【アイドルコミュ STEP4 HIF】-(720p30).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA04_DEAR_028_037.mp4",
+      "size_bytes": 250968014,
+      "sha256": "7b600eded882601b533c1bbcbb3ef26d7eac0d75014ad242b962271f4597e7f9",
+      "duration_seconds": 3321.846712,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 604406,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【学マス】月村手毬　親愛度２８～３７話【アイドルコミュ STEP4 HIF】",
+        "artist": "学マスコミュ保管委員会",
+        "date": "20260516",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=Hetu5-d_nb4",
+        "genre": "Gaming",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n#学園アイドルマスター #学マス",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n#学園アイドルマスター #学マス"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA05_LUNA_SONG_COMMU",
+      "kind": "commu",
+      "source_filename": "【楽曲コミュ】Luna say maybe【月村手毬】【学マス】-(720p30).mp4",
+      "source_path": "/mnt/data/【楽曲コミュ】Luna say maybe【月村手毬】【学マス】-(720p30).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA05_LUNA_SONG_COMMU.mp4",
+      "size_bytes": 49780299,
+      "sha256": "606fe3796391c2999d264ee676690df131c0efd158b9c41e82ed38a5bfa68fd3",
+      "duration_seconds": 527.952109,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 754315,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【楽曲コミュ】Luna say maybe【月村手毬】【学マス】",
+        "artist": "学マスコミュ保管委員会",
+        "date": "20240627",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=RWt-DGzOC3w",
+        "genre": "Gaming",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA06_IVY_SONG_COMMU",
+      "kind": "commu",
+      "source_filename": "【楽曲コミュ】アイヴイ【月村手毬】【学マス】-(1080p30).mp4",
+      "source_path": "/mnt/data/【楽曲コミュ】アイヴイ【月村手毬】【学マス】-(1080p30).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA06_IVY_SONG_COMMU.mp4",
+      "size_bytes": 54634448,
+      "sha256": "0e1d9527aee3abdd6dba41f021d03a6c7b6628ae67117fe89626e2fb2d2e1903",
+      "duration_seconds": 395.598367,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 1104846,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【楽曲コミュ】アイヴイ【月村手毬】【学マス】",
+        "artist": "学マスコミュ保管委員会",
+        "date": "20240627",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=WJz9JVsrbwc",
+        "genre": "Gaming",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA07_CAMPUS_SONG_COMMU",
+      "kind": "commu",
+      "source_filename": "【楽曲コミュ】Campus mode!!【月村手毬】【学マス】-(720p30).mp4",
+      "source_path": "/mnt/data/【楽曲コミュ】Campus mode!!【月村手毬】【学マス】-(720p30).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA07_CAMPUS_SONG_COMMU.mp4",
+      "size_bytes": 62029118,
+      "sha256": "fce9ee40c5639eaa3aa195ebaa7e59248cdbeac45d0d7b2de3cc15bf0aa817e7",
+      "duration_seconds": 564.941497,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 878379,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【楽曲コミュ】Campus mode!!【月村手毬】【学マス】",
+        "artist": "学マスコミュ保管委員会",
+        "date": "20241226",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=mjx3ZGlgBm4",
+        "genre": "Gaming",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス #初星フェス #キャンパスモード",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n動画内容や構成に関するアドバイス、今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス #初星フェス #キャンパスモード"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA08_REIRIS_SONG_COMMU",
+      "kind": "commu",
+      "source_filename": "【楽曲コミュ】雨上がりのアイリス【月村手毬】【学マス】-(1080p30).mp4",
+      "source_path": "/mnt/data/【楽曲コミュ】雨上がりのアイリス【月村手毬】【学マス】-(1080p30).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA08_REIRIS_SONG_COMMU.mp4",
+      "size_bytes": 83118498,
+      "sha256": "b722ebb10919310ee4a01f57a5cef12bf703a4d4a62648c5596b9ab6009d88e4",
+      "duration_seconds": 510.630023,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 1302210,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "title": "【楽曲コミュ】雨上がりのアイリス【月村手毬】【学マス】",
+        "artist": "学マスコミュ保管委員会",
+        "date": "20250501",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=I5y_QOiWwEM",
+        "genre": "Gaming",
+        "description": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス #Re;IRIS #リーリス",
+        "synopsis": "※この動画には学園アイドルマスターのネタバレが含まれます。\n\n↓再生リスト\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_exvCZ6FunP_7hUbK4Qysj\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8x8qlEhliEXkG8y3iaIOw6\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_-chcOj1fw5Wos3x7cY4PQ\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_pncUG6lNsFHWBs0I55fIh\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8epfQE9PdEsiSTUJSUl1F7\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR8d0FQJq8GY8Xy4ThdK2D8i\n\nhttps://www.youtube.com/playlist?list=PLbJbZ3rhccR_kezyuO6AIvVHz15JUNlVh\n\n\n今後出して欲しい動画等があればコメントで教えてください！\n\n#学園アイドルマスター #学マス #Re;IRIS #リーリス"
+      },
+      "video": {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "127999"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA09_GAMUSHARA_SONG_COMMU",
+      "kind": "commu",
+      "source_filename": "【がむしゃらに行こう！】月村手毬  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "source_path": "/mnt/data/【がむしゃらに行こう！】月村手毬  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA09_GAMUSHARA_SONG_COMMU.mp4",
+      "size_bytes": 37905567,
+      "sha256": "fb15873c8c0f15c45a4c57f0439f5a19dae21ba440c6df52014d5a1259a23495",
+      "duration_seconds": 508.911746,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 595868,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【がむしゃらに行こう！】月村手毬  楽曲コミュまとめ【学マス】",
+        "artist": "学Pといっしょ",
+        "date": "20251010",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=jezYTRSa8to",
+        "genre": "Gaming",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "128005"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA10_ITTAI_SONG_COMMU",
+      "kind": "commu",
+      "source_filename": "【一体いつから】月村手毬  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "source_path": "/mnt/data/【一体いつから】月村手毬  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA10_ITTAI_SONG_COMMU.mp4",
+      "size_bytes": 43447077,
+      "sha256": "0ad8dfaa58a1e4681a6391e1b71d0bc2ee044e5b909e0ea6774428f4529f1384",
+      "duration_seconds": 646.838277,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 537347,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【一体いつから】月村手毬  楽曲コミュまとめ【学マス】",
+        "artist": "学Pといっしょ",
+        "date": "20260116",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=7u07N4WUuKM",
+        "genre": "Gaming",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "128006"
+      },
+      "chapters": []
+    },
+    {
+      "id": "DIA11_GARAKUTA_SONG_COMMU",
+      "kind": "commu",
+      "source_filename": "【ガラクタロード】月村手毬  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "source_path": "/mnt/data/【ガラクタロード】月村手毬  楽曲コミュまとめ【学マス】-(720p60).mp4",
+      "canonical_path": "/mnt/data/gakumas_temari_av/sources/commu/DIA11_GARAKUTA_SONG_COMMU.mp4",
+      "size_bytes": 37463873,
+      "sha256": "df08abee1717a6796752c2359e849fbcc6fb8f39bcc5f0ccf2ede4d38209130c",
+      "duration_seconds": 521.125442,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "overall_bit_rate": 575122,
+      "format_tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomav01iso2mp41",
+        "title": "【ガラクタロード】月村手毬  楽曲コミュまとめ【学マス】",
+        "artist": "学Pといっしょ",
+        "date": "20260516",
+        "encoder": "Lavf60.16.100",
+        "comment": "https://www.youtube.com/watch?v=r1fz86423cs",
+        "genre": "Gaming",
+        "description": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬",
+        "synopsis": "【注意】この動画には「学園アイドルマスター」のネタバレを含みます。\n\n\n▼学マス 好評配信中！▼\nhttp://app.adjust.com/1ai6ouao\n\n学マス公式サイト\nhttps://gakuen.idolmaster-official.jp/\n学マス公式X(Twitter)\nhttps://x.com/gkmas_official\n\n\n#学マス\n#月村手毬"
+      },
+      "video": {
+        "codec_name": "av1",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "pix_fmt": "yuv420p",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709"
+      },
+      "audio": {
+        "codec_name": "aac",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bit_rate": "128001"
+      },
+      "chapters": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "project": "Gakuen Idolmaster V2",
+  "phase": "3 — Character-Core Readings",
+  "character": {
+    "code": "ttmr",
+    "name_en": "Tsukimura Temari",
+    "name_ja": "月村 手毬"
+  },
+  "source_lock": "GAKUMAS V2 Source Lock 1.0",
+  "character_bundle": {
+    "source_files": 207,
+    "message_lines": 5686,
+    "categories": {
+      "cidol": {
+        "files": 27,
+        "message_lines": 1137
+      },
+      "dear": {
+        "files": 38,
+        "message_lines": 2594
+      },
+      "live": {
+        "files": 8,
+        "message_lines": 12
+      },
+      "pevent": {
+        "files": 83,
+        "message_lines": 1045
+      },
+      "pgrowth": {
+        "files": 3,
+        "message_lines": 10
+      },
+      "pstory": {
+        "files": 46,
+        "message_lines": 876
+      },
+      "startup": {
+        "files": 2,
+        "message_lines": 12
+      }
+    },
+    "warnings": []
+  },
+  "parallel_reference": {
+    "track": "U1",
+    "source_files": 66,
+    "message_lines": 4525,
+    "continuity_rule": "separate personal-history track"
+  },
+  "analytical_scope": {
+    "source_objects": 273,
+    "message_lines": 10211
+  },
+  "created": "2026-08-14"
+}

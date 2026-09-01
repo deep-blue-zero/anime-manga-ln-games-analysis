@@ -1,0 +1,77 @@
+{
+  "series": "GKM",
+  "character": "Himesaki Rinami / 姫崎莉波",
+  "character_code": "hrnm",
+  "source_lock": "GAKUMAS V2 Source Lock 1.0",
+  "source_commit": "00d150a069a3ffa723a1ff264752ba242024caad",
+  "objects_total": 210,
+  "messages_total": 6057,
+  "by_family": {
+    "cidol": {
+      "objects": 30,
+      "messages": 1293
+    },
+    "dear": {
+      "objects": 38,
+      "messages": 2805
+    },
+    "live": {
+      "objects": 8,
+      "messages": 14
+    },
+    "pevent": {
+      "objects": 83,
+      "messages": 1043
+    },
+    "pgrowth": {
+      "objects": 3,
+      "messages": 12
+    },
+    "pstory": {
+      "objects": 46,
+      "messages": 877
+    },
+    "startup": {
+      "objects": 2,
+      "messages": 13
+    }
+  },
+  "pstory_by_series": {
+    "001": {
+      "objects": 31,
+      "messages": 670
+    },
+    "002": {
+      "objects": 11,
+      "messages": 167
+    },
+    "003": {
+      "objects": 4,
+      "messages": 40
+    }
+  },
+  "p3_conditional_fragments": [
+    "adv_pstory_003_hrnm_final-failure-01.txt",
+    "adv_pstory_003_hrnm_final-normal-02.txt",
+    "adv_pstory_003_hrnm_selection-failure-01.txt",
+    "adv_pstory_003_hrnm_selection-normal-02.txt"
+  ],
+  "continuity_tracks": [
+    "P1[RINAMI]",
+    "P2[RINAMI]",
+    "P3-C[RINAMI]",
+    "D-RINAMI",
+    "M-RINAMI"
+  ],
+  "claim_matrix_count": 30,
+  "a1_spot_checks": [
+    "dear_003.txt",
+    "dear_026.txt",
+    "dear_027.txt",
+    "dear_031.txt",
+    "dear_033.txt",
+    "dear_037.txt"
+  ],
+  "reasoning_route": "GPT-5.6 Sol — Extra High",
+  "av_status": "PENDING; request packet prepared"
+}

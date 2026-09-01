@@ -1,0 +1,19 @@
+# IDOLY PRIDE V2 Phase 1 Bond B1-A integrity manifest
+# Created 2026-08-16
+# Primary sources
+c250168451178b9e0bcd90918304ad2240ddcf8a7fac1f981a5642eb52087cce  bond_kan_001_kan.md
+f7a8294d5c5835adea01b1d116b333a5bf450d222aa19d59fe90194e68db06b9  bond_ktn_001_ktn.md
+6ded898d323ef0cea5053c8fcec96b3e9059ef29cdee26b4e8e8882cf8d47bc8  bond_kor_001_kor.md
+# Inherited authority / routing
+f85eee3bc549f2dbda62d67d542d92042590480c1342533bc54b7d7622429e67  IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E4_BASELINE.md
+79285d5e1fc9b498a37b12b8aa6fbe7c1798da394da914a8aa7bfbff00f72765  IDOLY_PRIDE_V2_PHASE1_BOND_CLOSE_READ_QUEUE.md
+# B1-A analysis artifacts
+fc9735890ce374e81b8526d4319bea7cb48d058c6fcf6d561a81ac3805e932d2  IDOLY_PRIDE_V2_PHASE1_BOND_B1A_PRIMARY_FINDINGS_FREEZE.md
+eadd2eed9a4e3e7484308374ec17323d73651889837e44e590e8407b31ed45a3  IDOLY_PRIDE_V2_PHASE1_BOND_B1A_CLOSE_READ_AUDIT.md
+68147f51b6bad1740544c6633fc28e0acaba36d3f011fdfeaf9ede893a265631  IDOLY_PRIDE_V2_PHASE1_POST_BOND_B1A_BASELINE.md
+6800dd78c199329f260d7ac5453730520a5391e90b96cb3925dc82e6af0e3e45  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.23.md
+# Formal dependencies
+# No B1-A bond bundle declares a missing audiovisual/formal asset.
+# Chronology dependency
+# Bond metadata does not establish reliable diegetic dates. BOND_TEMPORAL_PLACEMENT_UNFIXED applies.
+# The kana grandfather/father bond may not be placed before or after the U.S. father arc without independent chronology evidence.

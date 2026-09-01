@@ -1,0 +1,27 @@
+# IDOLY PRIDE V2 Phase 1B Event E4 integrity manifest
+# Created 2026-08-16
+# Primary sources
+ef8072405f2aa02cfc3c21a026219da2b2075fc4f86819167a823ee6977e725e  event_2022_009_st-eve-2209-contest.md
+0011591e8291dc735c4cf8263b75835d6b2acf2ab2be7f755805f941d9677aa9  event_2023_012_st-eve-2312-contest.md
+504bc736b3f3827f01bdb89c6a750220cd72b914d629dd4b40910e675e8f0be9  event_2024_002_st-eve-2402-contest.md
+1d8db5341315c03e16f2dc63307b38d93b298a948321de1be1615c795753b25a  event_2025_008_st-eve-2509-contest.md
+f22b7b6f66147d1b3e8a8a53c3873cc81847011b98c16e3ce37bf819c42273d2  event_2021_002_st-eve-2108-tour.md
+fb5754c848b93e168741908c4f04632a7c6b0faa5d3a1074078d7592f7f0b804  event_2024_001_st-eve-2401-race.md
+be470158eb1e3df9aba57dac10cdfa57df9cc38c1d60ecba7cc11c93ac519eca  event_2023_005_st-eve-2305-race.md
+30624e1f7bc14c88bd5185d93a7475de7645d405607e83b36c66b549da15bf52  event_2024_012_st-eve-2412-contest.md
+83b4d3d7ffd6cbc76500dc9728c0de238ef0600e3d63c83175e06b8272fa9a8e  event_2025_003_st-eve-2503-dice.md
+0872035201a7ba532ebc5d5ccbd7431d7b5ec4d4224827cd24db3c5dca376153  event_2025_011_st-eve-2512-dice.md
+6cec827771f25eb56eb894066453ae1f0efdda994f97f75930be335d8301ef25  event_2026_005_st-eve-2605-marathon-raid.md
+# Inherited authority
+19ca2db2983eaa2a43801b8284fb82886553d3bf80d90288d818dfaba10a324c  IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E3_BASELINE.md
+# E4 analysis artifacts
+93eb080bf57df6b5fcdb12f4709a46f91fa72cb37f6c190e5f35f2a96a7d87cc  IDOLY_PRIDE_V2_PHASE1B_EVENT_E4_PRIMARY_FINDINGS_FREEZE.md
+4b923e72a13e0bbc681f6055a1891a5eaa876849db178718f782252ff305a93c  IDOLY_PRIDE_V2_PHASE1B_EVENT_E4_CLOSE_READ_AUDIT.md
+f85eee3bc549f2dbda62d67d542d92042590480c1342533bc54b7d7622429e67  IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E4_BASELINE.md
+c01c97c87805f9723281664a360a91602bd8298a90c42aa1879b1bf090a75c82  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.21.md
+# Formal dependencies
+# event_2022_009_st-eve-2209-contest is missing adv-live-eve-2209-contest-005.
+# event_2023_012_st-eve-2312-contest is missing adv-live-eve-2312-contest-05.
+# event_2024_002_st-eve-2402-contest is missing adv-live-eve-2402-contest-05.
+# event_2025_008_st-eve-2509-contest is missing adv-live-eve-2509-contest-05.
+# event_2024_012_st-eve-2412-contest is missing adv-live-eve-2412-contest-05.

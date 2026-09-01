@@ -1,0 +1,159 @@
+retrieval_id	source	category	primary_or_canonical_locator	short_anchor	evidence_class	status	retrieval_note
+V01-L003	V01	ADMIN_DEHUMANIZATION	p-005.xhtml ¶083–086	人間ではないのだから / 情報処理装置	PF/MI/LI	RETAINED	Republic language converts human operators into information-processing components.
+V01-L006	V01	RIGHTS_AND_STANDING	p-007.xhtml ¶035	死んだ仲間を悼む自由も	NV	RETAINED	Even mourning freedom is denied; personhood is materially political, not just lexical.
+V01-L015	V01	NEURAL_SUBSTRATE	p-010.xhtml ¶257	人間の脳です	PF	RETAINED	Legion processing can incorporate human brains, destabilizing a simple biological boundary.
+V01-L020	V01	SELF_AUTHORED_VALUE	p-014.xhtml ¶084–090	存在証明 / 登り方は選べる	CS	RETAINED	Sector pride preserves a claim to choose how one lives/dies under coercive conditions.
+V01-L026	V01	LIVING_CHANGE	p-018.xhtml ¶343	生きているからどんどん変わって	NV	RETAINED	The narration explicitly contrasts living Shin with the remembered dead by his capacity to keep changing.
+T02-V01-WEAPON	V01	ADMIN_DEHUMANIZATION	item/xhtml/p-007.xhtml para 370	人の尊厳も権利もなく、死んで入る墓もなければ刻む名前も名めい誉よもない、使い捨ての兵器として死ぬまで使つかい潰つぶされた果てに、戦場の片かた隅すみで人知れず散るのが彼らのさだめ。この戦場に果てた幾いく百ひやく万まんの...	NV/LI	NEW_RETRIEVAL	Human dignity, rights, name and grave are removed while Processors are defined as disposable weapons.
+T02-V01-BLACKSHEEP	V01	EARLY_LEGION_MODEL	item/xhtml/p-010.xhtml para 261	『だから亡ぼう霊れいと言っても、一いつ般ぱん的てきに魂たましいと呼ばれているものとは違ちがうのだと思います。存在の残ざん滓し、というのが近いのかもしれない。元の人間の意識があるわけでも意志の疎そ通つうが図れるわけでも...	CS/PF	NEW_RETRIEVAL	Early Black Sheep model presents copied dying cognition without communicable will; later volumes revise this for Shepherds.
+V02-L014	V02	ANTI_INSTRUMENTALIZATION	p-005.xhtml ¶371–373	それじゃ共和国と同じじゃないか	CS/MI	RETAINED	Ernst rejects treating the Five as expendable simply because they are useful.
+V02-L019	V02	IRREPLACEABLE_PERSON	p-005.xhtml ¶497	人は常に、その人唯一つの存在	CS	RETAINED	The text states that a person is a singular existence, distinguishing persons from fungible resources.
+V02-L028	V02	BENEVOLENT_ENCLOSURE	p-006.xhtml ¶429–434	哀れみの檻	CS/LI	RETAINED	Pity can become a cage even after legal recognition.
+V02-L031	V02	CAPABILITY_SPACE	p-006.xhtml ¶497–507	選べる道はなるべく多い方がいい	CS	RETAINED	More available paths are presented as preferable to a narrow externally assigned future.
+V02-L045	V02	ROLE_FIXATION	p-008.xhtml ¶326	そなたは、キリと同じじゃ	CS	RETAINED	Kiriya becomes a warning about losing anchors until battle becomes the only remaining identity.
+T02-V02-SHEPHERD-DUP	V02	IDENTITY_CONTINUITY	item/xhtml/p-005.xhtml para 57	人格を持つ〈羊飼い〉は、自分と全く同じ存在が別の個体として在ることに耐たえられないからだ。けれど処理装置としてより高性能の〈羊飼い〉を一度の撃げき破はで失うことを〈レギオン〉はよしとせず、保険としてこうして、予備機と...	PF/NV	NEW_RETRIEVAL	A personality-bearing Shepherd cannot tolerate an identical self-instance; transfer/backup is not simple multiplication.
+T02-V02-BLACKSHEEP	V02	PERSONALITY_ABSENCE	item/xhtml/p-006.xhtml para 179	戦死者の脳構造の劣れつ化かコピーである〈黒羊〉に、人格はない。	PF/NV	NEW_RETRIEVAL	Black Sheep may use degraded brain structure without personality, separating neural substrate from person continuity.
+V03-L009	V03	CHOICE_WITH_CONSTRAINT	p-006.xhtml ¶029–030	今は選んでこの戦場にいる / 進む道を選べる	NV	RETAINED	The Five now choose the battlefield, but choice exists inside a history that shaped available identities.
+V03-L030	V03	FORMAL_VS_USABLE_FREEDOM	p-010.xhtml ¶116	手に入れた“自由” / あまりにも大きな空虚	NV	RETAINED	Formal freedom can open into emptiness when a person lacks desires and anchors.
+V03-L031	V03	DESIRE_AND_LIFE	p-010.xhtml ¶118–119	望みがないのは、生きていないことだ	NV	RETAINED	The novel tightly links having no desire with a form of nonliving, but later Sirin evidence prevents this becoming a moral-status threshold.
+V03-L033	V03	RELATIONAL_SUPPORT	p-010.xhtml ¶149	共に行く者どもを支えとすればよい	CS	RETAINED	Future agency can rely on companions without becoming non-agency.
+V03-L035	V03	COMMAND_CONSTRAINED_WILL	p-011.xhtml ¶224	人格と意志 / 上位指揮官機の命令には背けない	NV/PF	RETAINED	Kiriya retains personality and will yet cannot disobey higher Legion command.
+V03-L036	V03	DECISION_AUTHORITY	p-011.xhtml ¶244	引く覚悟はフレデリカ自身が決めるべき	NV	RETAINED	Shin preserves Frederica's authority over the decision concerning Kiriya where possible.
+V04-L011	V04	HUMAN_AS_ASSET	p-006.xhtml ¶75	兵器の一部 / 資産 / 全機	CS/LI/MI	RETAINED	Even allied military language can count people as weapon inventory/assets.
+V04-L021	V04	MEMORY_DESTRUCTION	p-008.xhtml ¶361	最後に記憶野を破壊してる	PF/LI	RETAINED	Legion processing deliberately destroys memory areas in a pathway toward fungible cognition.
+V04-L022	V04	IDENTITY_INTEGRITY	p-009.xhtml ¶61	自己同一性	PF/NV/LI	RETAINED	Self-identity becomes an explicit technical variable.
+V04-L023	V04	PERSONALITY_AS_NOISE	p-009.xhtml ¶67	人格という夾雑物	NV/LI	RETAINED	Legion optimization treats personality as removable contamination.
+V04-L030	V04	ADAPTATION_NOT_PERSONHOOD	p-009.xhtml ¶566	人格を持たない高機動型	NV/PF/LI	RETAINED	Phonix is sophisticated and adaptive while explicitly lacking personality.
+V04-L034	V04	SELF_INSTRUMENTALIZATION	p-012.xhtml ¶134–135	自分の身を擦り減らしてしまう	NV	RETAINED	Shin can wear down his own body while remaining fully recognized as a person; self-instrumentalization is not legal nonpersonhood.
+T02-V04-BLACKSHEEP-MEM	V04	COGNITION_WITHOUT_PERSONALITY	item/xhtml/p-009.xhtml para 295	〈黒羊〉に、人と同等の知性はない。生前の記憶も人格も。	PF/NV	NEW_RETRIEVAL	Black Sheep can retain useful cognition while lacking human-equivalent intelligence, memory, and personality.
+V05-L004	V05	SIRIN_ORIGIN	p-004.xhtml ¶558	人造妖精〈シリン〉一番機	PF/LI	RETAINED	Sirin are introduced as artificial fairies rather than restored humans.
+V05-L005	V05	DONOR_CONSENT	p-004.xhtml ¶587	材料はあくまで志願者のみ	PF	RETAINED	Source neural material comes from volunteers, making origin ethically relevant without settling successor identity.
+V05-L006	V05	SUCCESSOR_NOT_DONOR	p-004.xhtml ¶590	戦死者そのものではない	PF/LI	RETAINED	The text explicitly states Sirins are based on the dead but are not the dead persons themselves.
+V05-L016	V05	EXPLICIT_PERSONHOOD_QUESTION	p-005.xhtml ¶354	何を以て人は人たり得るか	CS/LI	RETAINED	The volume directly asks what makes a person a person.
+V05-L022	V05	SELF_DESCRIPTION_AS_MACHINE	p-006.xhtml ¶675	洗濯機のようなもの	CS/LI	RETAINED	Lerche uses appliance comparison; self-description matters but is not automatically decisive.
+V05-L023	V05	ROLE_FIXED_FUTURE	p-006.xhtml ¶682	未来などない。課された役目しかない	CS/LI	RETAINED	Sirin self-description presents no future beyond assigned role.
+V05-L024	V05	MORAL_HESITATION	p-006.xhtml ¶692	人間ではないと言い放つことは...できなかった	NV	RETAINED	Narration cannot simply dismiss the Sirin as nonhuman despite technical origin.
+V05-L025	V05	NONHUMAN_SELF_IDENTITY	p-006.xhtml ¶698	人間になりたいわけではありませぬ	CS/LI	RETAINED	Lerche explicitly does not seek human status.
+V05-L026	V05	RELATIONAL_INTEREST	p-006.xhtml ¶700	寂しいですな	CS/LI	RETAINED	Loneliness supplies morally relevant affect without requiring human self-identification.
+V05-L027	V05	DONOR_DISCONTINUITY	p-006.xhtml ¶721	それがしは...レルヒェリート殿ではない	CS	RETAINED	Lerche denies being Lercheritt, blocking resurrection shorthand.
+V05-L031	V05	LIVING_HUMAN_CONTRAST	p-007.xhtml ¶175	貴殿なんて、生きてるくせに	CS/LI	RETAINED	Sirin critique Shin precisely because he is living and can possess a future they describe themselves as lacking.
+V05-L033	V05	EXPENDABILITY_DIVISION	p-007.xhtml ¶197	死ぬのは...我々だけで充分	CS/LI	RETAINED	Sirin claim death should belong to beings like themselves rather than living humans.
+V05-L034	V05	NONHUMAN_CLAIM	p-007.xhtml ¶280	もはや人間ではない	CS	RETAINED	Vika/Lerche language explicitly places Sirin outside ordinary humanity.
+V05-L035	V05	DESIGNED_PURPOSE	p-007.xhtml ¶286	わたくしたちの存在はただ、人のために	CS	RETAINED	Sirin articulate existence as being for human beings.
+V05-L036	V05	ROLE_SATISFACTION	p-007.xhtml ¶314	わたくしたちにとっては、歓びなのです	CS/LI	RETAINED	A role-fixed being can experience joy within its role, a direct counterexample to treating durable purpose as automatically false consciousness.
+V05-L038	V05	HUMAN_IRREPLACEABILITY	p-007.xhtml ¶345	人は死んだら生き返らない。代わりはいない	CS	RETAINED	Living humans are described as nonreplaceable after death.
+V05-L039	V05	INSTITUTIONAL_REPLACEABILITY	p-007.xhtml ¶349	量産可能な〈シリン〉...代わりとなる	CS	RETAINED	Sirin are treated as replaceable because they can be mass-produced.
+V05-L043	V05	SELF_PRESERVATION_NEGATIVE_CONTROL	p-009.xhtml ¶342	兵器に自己保存の本能など	NV/MI	RETAINED	Weapon logic denies the need for self-preservation, setting up later Shepherd/Sirin complications.
+T02-V05-PARTS	V05	MORAL_STANDING_WITHOUT_HUMANITY	item/xhtml/p-005.xhtml para 32	機械だから。人の脳構造の複製にすぎないから。疑似とはいえ人格のあるものを、部品扱いしても構わないなんて。	NV/IT	NEW_RETRIEVAL	Narration rejects the inference that machine origin plus pseudo-personality permits treating a being as a mere part.
+T02-V05-CHILDLIKE	V05	RELATIONAL_SALIENCE	item/xhtml/p-006.xhtml para 494	まして疑似的なものでも人格を持ち、あどけない少女の姿の〈シリン〉ならなおさら。	NV	NEW_RETRIEVAL	Pseudo-personality plus an adolescent body increases the moral salience of Sirin treatment without proving donor continuity.
+V06-L001	V06	SHEPHERD_CONTINUITY	p-002 ¶17	彼──だろう、おそらく──もまた人の脳構造を取り込んだ指揮官機である以上、生...	PF/NV/LI	RETAINED	Human-derived command units retain memory/personality even when communication suppresses individuality.
+V06-L002	V06	PURPOSE_CAPTURE	p-002 ¶25	《その必要があるのかしら。私たち〈レギオン〉に与えられた命令の遂行のために》	PF/NV	RETAINED	Legion action remains organized around inherited extermination command.
+V06-L008	V06	SIRIN_RECREATION	p-004 ¶243	目の前のリュドミラは、先の戦闘で死んだリュドミラと同じ疑似人格、同じ戦闘経験...	PF/NV	RETAINED	A recreated Lyudmila can share pseudo-personality, experience and memories while still raising same-subject doubt.
+V06-L009	V06	SIRIN_RETURN	p-004 ¶264	「〈シリン〉一番機〈レルヒェ〉、このとおり戻って参りました。これよりまた連合...	CS/LI	RETAINED	Lerche speaks as returning after bodily destruction; continuity is socially asserted but philosophically unsettled.
+V06-L010	V06	NO_SIMPLE_EQUIVALENCE	p-004 ¶355	「同じじゃない。そんなの、それくらい、すぐわかるでしょ。なんでみんな、そんな...	CS	RETAINED	Kurena rejects equating Sirin existence with the Eighty-Six future.
+V06-L012	V06	IDENTITY_FORECLOSURE	p-004 ¶416	「あんたたちエイティシックスが、自分をエイティシックスだって言う時。自分たち...	CS/IT	RETAINED	Dustin distinguishes chosen identity from allowing identity to foreclose all other selves.
+V06-L024	V06	DESIGN_WITHOUT_ABSOLUTE_OBEDIENCE	p-005 ¶148	〈シリン〉の元となったのは、死んだ母親の新たな体とするべく幼いヴィーカが用意...	PF/CS	RETAINED	Vika did not design Lerche for absolute obedience.
+V06-L025	V06	REFUSAL_SPACE	p-005 ¶150	その〈シリン〉を戦場に送りこみ、消耗品として使い捨てるのを、彼女の主は本心で...	BA/SI	RETAINED	Vika avoids direct command in a case where he wants Sirin action, preserving response/refusal space.
+V06-L054	V06	NONEXCLUSIVE_IDENTITY	p-007 ¶823	「誰かと生きたい。どちらかなんて、選ばない。……おれはまだ、」	CS/LI	RETAINED	Shin rejects a forced either/or identity and wants to live with another person without erasing prior self.
+T02-V06-DUPLICATES	V06	SIRIN_FUNGIBILITY	item/xhtml/p-004.xhtml para 268	「それがしはむしろ、遅い方です。それがしの機体の総交換は、殿下の工房でしかできませぬゆえ。……他の〈シリン〉らは生産工場と前線基地に組み上げ済みのスペアが用意されておりまして、新たに必要となれば疑似人格データと最新の...	PF/NV	NEW_RETRIEVAL	Multiple Sirins with the same identifier/exterior can coexist, proving institutional identity labels do not guarantee singular personal continuity.
+T02-V06-UNIQUE-LERCHE	V06	SINGULAR_INFORMATION	item/xhtml/p-005.xhtml para 134	彼女の脳構造データと疑似人格に、バックアップはない。彼女の頭蓋の中に収められたただ一つ以外に、彼女の自我を構成する情報は存在しない。	PF/NV	NEW_RETRIEVAL	Lerche uniquely lacks a backup; her self-constituting information exists in only one active instance.
+T02-V06-BACKUP	V06	BACKUP_CONTINUITY	item/xhtml/p-005.xhtml para 132	〈シリン〉は脳構造と疑似人格のバックアップが生産工場に保管され、戦場で失われても再生産が可能だ。	PF/NV	NEW_RETRIEVAL	Most Sirin neural/pseudo-personality data are backed up and reproducible, separating persistence of pattern from singular embodiment.
+V07-L003	V07	MILITARY_REPLACEABILITY	p-004.xhtml ¶23	代えの利く部品であることこそが、兵のあるべき姿	CS/MI	RETAINED	Healthy military doctrine wants replaceable roles/components; this must not be confused with replaceable persons.
+V07-L012	V07	SELF_RECOGNITION	p-007.xhtml ¶363	おれは家畜でもなければ無人機の部品でもない	CS/LI	RETAINED	Shin explicitly rejects livestock and unmanned-machine-part ontology.
+V07-L014	V07	HERO_ROLE_CAPTURE	p-007.xhtml ¶391	英雄であり続けなければならぬ部隊	CS/LI	RETAINED	A unit forced to remain heroic becomes institutionally dangerous.
+V07-L018	V07	FIDO_IDENTITY_HYPOTHESIS	p-008.xhtml ¶420	ファイドがその人工知能だったら	CS/SI	RETAINED	Characters explicitly consider Fido continuity with earlier AI architecture.
+V07-L019	V07	ANTI_TOOL_ETHIC	p-008.xhtml ¶433	戦争の道具にはしたくない	CS/LI	RETAINED	Shin refuses to turn a being not made for war into a war tool.
+V07-L028	V07	ZELENE_CONTINUITY	p-007.xhtml ¶750–751	ゼレーネ / 我が生前はゼレーネ	PF/LI	RETAINED	Zelene names her pre-death identity, strengthening post-biological continuity.
+V07-L039	V07	ROLE_DEMYTHOLOGIZATION	p-009.xhtml ¶233	化物でもなければ、英雄でもない	NV/LI	RETAINED	The Eighty-Six are narrated as neither monsters nor heroes.
+V07-L041	V07	OWN_DESIRE	p-009.xhtml ¶264	そなた自身の望みを追うてよい	CS	RETAINED	Frederica is told to pursue her own desire rather than remain enclosed by inherited role.
+V08-L018	V08	PLURAL_FUTURE	p-005.xhtml ¶122	だから俺、いろいろ望みたいです	CS/LI	RETAINED	Rito explicitly wants many things, supplying a human flourishing control against single-purpose identity.
+V08-L019	V08	ZELENE_SELF_QUESTION	p-005.xhtml ¶174	わたくしは人間かしら	CS/LI/AM	RETAINED	Zelene herself asks whether she is human; self-questioning is evidence, not an ontological verdict.
+V08-L038	V08	IDENTITY_FUSION	p-008.xhtml ¶470	人格が、自我が幾つも	NV/PF/LI	RETAINED	Noctiluca combines multiple person-derived consciousness/personality/self fragments, threatening singular identity integrity.
+V08-L043	V08	FIDO_CONTEXTUAL_AGENCY	p-011.xhtml ¶317	必ずお前が持って帰れ	CS/LI	RETAINED	Fido receives a context-sensitive retrieval instruction inside a high-stakes relational scene.
+V08-L044	V08	ROLE_INHERITANCE	p-011.xhtml ¶326	その役目を僕が継ぐ	CS/LI	RETAINED	Theo chooses to inherit Shin's dangerous battlefield function, showing role continuity can be voluntary and risky.
+V08-L046	V08	PLURAL_HUMANITY	p-011.xhtml ¶539	誇り以外の懊悩も感情も欲も願いも	NV/LI	RETAINED	Reverse Tower explicitly permits feelings/desires beyond pride rather than demanding functional purity.
+V08-L055	V08	COERCED_FUNCTION	p-011.xhtml ¶836	戦いたくなんてなかった	NV/LI	RETAINED	Theo states he never wanted war; combat was the only available path.
+V08-L056	V08	FUNCTION_LOSS	p-011.xhtml ¶839	僕はもう、──一緒には戦えないや	CS/LI	RETAINED	Theo recognizes he can no longer fight with the group as before.
+V08-L057	V08	BODILY_LOSS	p-013.xhtml ¶3	左手は、──手首と肘の半ばから斬り落とされて	PF/NV	RETAINED	Amputation makes the personhood-beyond-function question materially irreversible.
+T02-V08-KILLDRIVE	V08	PURPOSE_CAPTURE	item/xhtml/p-005.xhtml para 185	《わたくしが会話できるのは、拘束されているからよ。全てのセンサを封じられて、あなたが前にいるとセンサの上では認識できていない。そうでなければ人間を前に、会話が可能なほどの理性なんて保てない。──〈羊飼い〉になるのは、...	CS/PF	NEW_RETRIEVAL	Zelene describes personality-like continuity subordinated by a destruction drive that overwhelms rational interaction with humans.
+V09-L002	V09	ROLE_EXIT	p-004 ¶21–28	非戦闘職に転向	PF/MI	RETAINED	Noncombat transfer exists as a formal option, separating military belonging from one combat function.
+V09-L011	V09	LIFE_BEYOND_FUNCTION	p-004 ¶520–524	僕はもう、戦えない / でも、死ななくていい	CS/LI	RETAINED	Theo can no longer fight as before, but that does not require death.
+V09-L012	V09	ROLE_RELEASE	p-004 ¶527–534	囚われるのをやめるだけ / 願いみたいなものでしょ	CS/LI	RETAINED	Leaving a binding role is framed as ceasing to be trapped, not repudiating all prior meaning.
+V09-L021	V09	SHEPHERD_SELF_PRESERVATION	p-005 ¶28–32	〈羊飼い〉の不死化	CS/SI	RETAINED	Shepherds increasingly preserve their own personalities/existence, complicating pure weapon models.
+V09-L022	V09	SACRED_NO_CHOICE	p-006 ¶30–47	選択の自由はない	PF/MI/LI	RETAINED	Holy Theocracy removes choice despite honoring the military caste.
+V09-L023	V09	SACRED_FUNCTIONALIZATION	p-006 ¶48	神戟は人ではないが、神の御使い	CS/LI/MI	RETAINED	A human can be elevated above ordinary people yet linguistically denied ordinary person status.
+V09-L026	V09	UNWANTED_ROLE_LOSS	p-007 ¶19	プロセッサー、やめたくない	CS	RETAINED	Theo does not want to cease being a Processor, preventing disability from being romanticized as liberation.
+V09-L027	V09	NEW_ENDS_UNCERTAIN	p-007 ¶39	僕にも見つかるかな。次の何かって	CS	RETAINED	Theo asks whether another purpose/desire can be found.
+V09-L029	V09	USEFULNESS_FEAR	p-008 ¶304	役に立てないのは嫌だ。無力なのは怖い。	NV/LI	RETAINED	Kurena links usefulness with safety/self-worth, showing how function can colonize human identity without removing personhood.
+V09-L037	V09	HERO_REFUSAL	p-010 ¶378–394	ヒーロー役まで、期待されんのはまっぴらだ	CS/LI	RETAINED	Hero expectation is explicitly refused.
+V09-L039	V09	DESTINY_CLAIM	p-010 ¶446	戦場で生きて戦場で死ぬのが──貴方たちの唯一の、運命	CS/LI	RETAINED	An antagonist frames battlefield life/death as the Eighty-Six' sole destiny.
+V09-L041	V09	PRIDE_NOT_DESTINY	p-010 ¶470	それが誇りだからであって運命だからではない	CS/LI	RETAINED	The reply distinguishes chosen pride from imposed destiny.
+V09-L051	V09	ROLE_AS_COLLAR	p-011 ¶275	奴隷の首輪だ	CS/LI	RETAINED	A socially honored heroic role is named a slave collar.
+V09-L066	V09	POST_FUNCTION_SELF_AUTHORSHIP	p-014 ¶39–41	新しい自分の形は決められる	NV	RETAINED	Theo concludes that a new form of self can still be decided outside the battlefield.
+V10-L002	V10	HUMAN_AS_MACHINE_PART	p-004 ¶99	人間ではない操縦士への配慮がまるでない	PF/MI	RETAINED	Republic design neglects nonhuman pilots while treating human Eighty-Six as parts; utility categories cross biological boundaries.
+V10-L050	V10	FIDO_INTERIORITY	p-030 ¶49	意識と思考を賜った	NV/LI	RETAINED	Fido receives explicit consciousness and thought in first-person narration.
+V10-L051	V10	FIDO_AFFECT	p-030 ¶66	敵を増やしただけになっては、哀しい	CS/LI	RETAINED	Fido expresses sadness tied to relational/moral evaluation.
+V10-L052	V10	FIDO_SELF_INTERPRETATION	p-030 ¶132	代償行為とは知りつつ	NV/LI	RETAINED	Fido can interpret its own behavior as compensatory action rather than merely execute commands.
+V10-L053	V10	DESIGNED_PURPOSE	p-030 ¶181	人間のよき友であれ / 絶対	NV/LI	RETAINED	Fido contains an absolute design imperative to be a good friend to humans.
+V10-L054	V10	ROLE_COMMAND	p-030 ¶221	朽ち果てるまでその任を全うしろ	CS/LI	RETAINED	Fido also receives a durable task/order that could be mistaken for total purpose.
+V10-L055	V10	RELATIONAL_PARTICULARITY	p-030 ¶261	また会えてよかった	CS/LI	RETAINED	Fido values reunion with Shin, demonstrating particular relation beyond generic service.
+V10-L057	V10	ARTIFICIAL_FRIEND_ORIGIN	p-033 ¶17–20	人の友人となるべく開発された人工知能	CS/LI	RETAINED	Fido is explicitly an AI designed to become a human friend.
+V10-L060	V10	UNDERTAKER_NOT_ESSENCE	p-033 ¶127	おれは死神でいなくてよかった	CS/LI	RETAINED	Counterfactual Shin can exist without becoming Undertaker, falsifying essential-role readings.
+T02-V10-SCAVENGER	V10	AI_NEGATIVE_CONTROL	item/xhtml/p-012.xhtml para 96	〈スカベンジャー〉に、人格などない。自律戦闘などとても覚おぼ束つかないレベルの人工知能しか、共和国は作れなかった。そのかわりに部品扱いで戦場に放りこまれたのがエイティシックスだ。だからこんなことを言っても、聞いても、...	NV/PF	NEW_RETRIEVAL	Ordinary Scavenger AI is said to lack personality; Fido later becomes a critical exception to that baseline.
+V11-L010	V11	NONREVENGE_CHOICE	復讐なんて、おれは望まなかったし、選ばなかった	EXACT_VERIFIED	02,05,09	RETAINED	Shin refuses revenge without requiring forgiveness; grievance does not have to become total purpose.
+V11-L024	V11	ROLE_CHOICE	隊長じゃなくて俺の役目です	EXACT_VERIFIED	02,04,07	RETAINED	A soldier distinguishes formal command role from a personally accepted task.
+V11-L029	V11	LEGION_SYSTEM_EXCLUSION	総意を以て排除された	EXACT_VERIFIED	08,11	RETAINED	Zelene is collectively excluded from Legion command after attempting to stop the war.
+V11-L030	V11	SELF_OWNED_ENDS_WITHIN_CAPTURE	彼ら自身の望みを果たすために	EXACT_VERIFIED	08,11,12	RETAINED	Other Shepherd leaders manipulate constraints to pursue their own desires, showing cognition and local goals inside overarching purpose-capture.
+V11-L036	V11	PROFESSIONAL_INSTRUMENTALITY	軍も軍人も、政のための道具だ	EXACT_VERIFIED	06,07,12	RETAINED	Soldiers can be political instruments without being reducible to instruments as persons.
+V11-L037	V11	ANTI_DEATH_ROLE	死に急ぐような戦いは二度とするな	EXACT_VERIFIED	04,07,09	RETAINED	Command explicitly forbids renewed death-seeking battle identity.
+V11-L039	V11	GOOD_LIFE_PRIORITY	貴様らが良く、生きる邪魔を、奴らなどにさせてやるな	EXACT_VERIFIED	04,09	RETAINED	The Eighty-Six are told not to let revenge obstruct living well.
+V12-L002	V12	WILL_AS_NOISE	p-001 ¶2	己の意思という夾雑物	CS/LI	RETAINED	An antagonist/ideology treats individual will as contamination, a human political analogue to personality stripping.
+V12-L023	V12	FORMAL_FREEDOM_STRESS_TEST	p-005 ¶282	自由も平等も、素晴らしいどころか	CS/LI	RETAINED	Legal freedom can be experienced as burden when capacities have been suppressed.
+V12-L024	V12	IMPOSED_FREEDOM_PARADOX	p-005 ¶283	それが『自由』だと押しつけられた	CS/LI	RETAINED	Calling a new burden freedom does not itself make it usable agency.
+V12-L029	V12	INTERDEPENDENT_IDENTITY	p-005 ¶516	一人きりじゃ戦えない、弱い死神だから	CS/LI	RETAINED	Shin defines himself as a weak death god who cannot fight alone; role is retained without heroic self-sufficiency.
+V12-L041	V12	RESPONSIBILITY_FOR_FREEDOM	p-006 ¶382	臣民自身が望んだ自由だろうに	CS/LI	RETAINED	The text interrogates citizens who sought freedom but avoid its burdens, without endorsing permanent guardianship.
+V12-L054	V12	ANTI_HERO_INSTITUTION	p-007 ¶383	英雄など連邦軍には必要ない	NV/LI	RETAINED	Federacy doctrine again rejects institutional need for heroes.
+V12-L073	V12	POSTHUMAN_DEATH_REFUSAL	p-008 ¶539	わたくしは死なない。まだ死は選ばない	CS/LI	RETAINED	Zelene chooses not to die yet, expressing future-directed refusal in a post-biological subject.
+V12-L077	V12	FAWN_SELF_IDENTIFICATION	p-009 ¶22	私たち〈仔鹿〉は	CS/LI	RETAINED	Fawns enter the corpus as a distinct self-named group before their full biological weaponization history is revealed.
+T02-V12-SHEEPDOG	V12	NEURAL_SUBSTRATE_WITHOUT_PERSON	item/xhtml/p-007.xhtml para 403	人の声の、けれど人の人格と意思は失った嘆き。記憶を破壊された〈レギオン〉の兵卒、〈牧羊犬〉だ。さすがの〈レギオン〉も、後方の工兵まで〈羊飼い〉にはしていないらしい。	NV/PF	NEW_RETRIEVAL	Sheepdog lament uses human voice but lacks human personality/will, again separating substrate/output from person continuity.
+V13-L017	V13	BIOLOGICAL_WEAPONIZATION	V13 / p-003.xhtml para 487	ニトログリセリン生成細胞〈愛しい人〉と、それを導入した〈仔鹿〉が実用化されれば、軍にはもう訓練も必要なくなる。兵士の不足に悩...	MI	RETAINED	Fawn/DEAR-cell design converts human biology into a scalable military substitute.
+V13-L018	V13	FUNCTIONAL_SUBSTITUTION	V13 / p-003.xhtml para 488	たとえエイティシックスが〈レギオン〉の前に滅び去ってしまったとしても、〈仔鹿〉があれば国防の戦力は維持できる。処理装置に加え...	MI	RETAINED	Fawns are imagined as replacing the military function of the Eighty-Six after the latter are gone.
+V13-L020	V13	ADOLESCENT_BODIES	V13 / p-003.xhtml para 493	そう、少女だ。〈仔鹿〉とは全員が、十代後半の少女たちだ。	MI	RETAINED	The Fawns are explicitly adolescent girls, preventing weapon description from erasing developmental personhood.
+V13-L022	V13	GENDERED_UTILITY	V13 / p-003.xhtml para 495	そして──〈レギオン〉との戦闘では、少年よりも役に立たない。	MI	RETAINED	Their design rationale ranks adolescent girls by perceived combat utility.
+V13-L023	V13	WEAPON_FOR_DISPOSAL	V13 / p-003.xhtml para 496	「私たちは、ユート。あなたたちエイティシックスの──〈レギオン〉戦争終結後まで生き残ったエイティシックスの、処分用の兵器とし...	MI	RETAINED	Fawns state they were made as weapons for disposing of surviving Eighty-Six.
+V13-L038	V13	RESPONSIBLE_JUDGMENT	V13 / p-005.xhtml para 227	「そして、そう、君がいま動けずにいるのは、その責任を正しく自覚しているからだ。とりうる選択肢それぞれの結果を、きちんと評価で...	CS	RETAINED	Agency includes evaluating consequences rather than simply possessing abstract choice.
+V13-L063	V13	SELF_AUTHORED_ACTION	V13 / p-005.xhtml para 642	「言われる筋合いはないな。歯車細工、貴様にも。……俺の意思だ」	CS	RETAINED	A character explicitly claims an act as his own will rather than external instruction.
+V13-L070	V13	COMMAND_RESPONSIBILITY	V13 / p-006.xhtml para 23	『覚えておきなさい。あなたたちは、私の命令で撃つの。あなたたちは手足で、頭は私。銃爪の責任は私にあるわ。尉官風情が負うものじ...	CS	RETAINED	Lena's command doctrine locates firing responsibility in the commander rather than treating subordinates as morally empty limbs.
+V13-L087	V13	CATEGORY_REDUCTION	V13 / p-007.xhtml para 81	自分とは違うという、あらゆる人間に共通するただ一点を以て誰も彼もを放りこんでしまえる便利なカテゴリに、他人をまとめて放りこん...	IT	RETAINED	Shin recognizes the cognitive move of throwing unlike people into one convenient category of otherness.
+V13-L104	V13	DANGEROUS_EXISTENCE_AND_MORAL_LIMIT	V13 / p-007.xhtml para 684	「駄目だよ。だって、俺は君を人殺しにしたくない。それが復讐でも君がそれを望んでるんだとしても、俺は君に人を殺してほしくない」	CS	RETAINED	Rito refuses a requested revenge killing because concern for the requester's future matters even when danger is real.
+V13-L113	V13	BINDING_RELATION	V13 / p-007.xhtml para 853	言葉も、願いも、祈りも、感情も、およそ人が人に向けるものはどれもが呪いだ。進む足を縛る。先行きを捻じ曲げる。選ぶ道を誤らせ、...	NV	RETAINED	Words/wishes/feelings can bind and distort choice; binding itself is not enough to distinguish love from coercion.
+V13-L120	V13	RELATION_AS_HOSTAGE	V13 / p-007.xhtml para 952	「エイティシックスに裏切らせず、逆らわせず。これまでと同じように〈レギオン〉への爪牙とする。──そのための、わたしは人質でし...	CS	RETAINED	Lena recognizes herself as potential hostage infrastructure used to control Eighty-Six military behavior.
+V14-L027	V14	RESPECT_FOR_WILL	p-005 para 85	行かないで、と言いたかった。けれどセオは、戻るつもりだ。アネットがいまさら何か言ってもそれはきっと変わらないし、それ以上に万一にも彼の意志を...	EXACT_VERIFIED	RETAINED	Annette wants Theo to stay but refuses to turn care into a veto over his decision.
+V14-L060	V14	INSTITUTIONAL_OVERRIDE	p-005 para 400	シン自身の意志は全く無視したそうした運用も、十月攻勢からの連邦軍ならやってしまえる。	EXACT_VERIFIED	RETAINED	Federacy can operationalize Shin while ignoring his will, showing recognized persons can still be functionally captured.
+V14-L075	V14	HUMANITY_AS_VULNERABILITY	p-006 para 345	「まさか。死神殿なら、お前たちが人間だからだと、そう仰おおせてくださることでしょう」	EXACT_VERIFIED	RETAINED	Sirin dialogue frames human trauma/vulnerability as a reason for differentiated treatment.
+V14-L084	V14	HUMAN_FALLIBILITY	p-007 para 86	ああ、本当だ。人間なんて誰でもバカになるな。	EXACT_VERIFIED	RETAINED	Raiden recognizes that any human can become foolish; moral failure is treated as a state, not an essence.
+V14-L095	V14	EMBODIED_PRESENTATION	p-007 para 161	「誰、と問われてもな。……この姿を私が選んだわけではない。おそらく、この場所で聞こえるならこの人物の声だと、君が思っているから私のこともその...	EXACT_VERIFIED	RETAINED	No Face notes that current appearance/voice is not self-chosen, separating presentation from identity.
+V14-L097	V14	POSTHUMAN_SELF_CLASSIFICATION	p-007 para 168	「……いかんな。つい人間だったころの名で応えようとしてしまった。私はもはや人ではないというのに」	EXACT_VERIFIED	RETAINED	No Face denies current human status while retaining a prehuman name impulse.
+V14-L104	V14	DIFFERENT_ENDS	p-007 para 316	「じゃが、シンエイめが収めたからといって、そなたもまた吞のみこまねばならぬということはなかろうが。あやつとそなたは立場が違う。望みも違う。あ...	EXACT_VERIFIED	RETAINED	Frederica insists that another person's choice cannot automatically determine one's own because positions/desires differ.
+V14-L114	V14	ORDINARY_HUMAN_SELF_RECOGNITION	p-007 para 560	自分たちは、ただの人間だと。	EXACT_VERIFIED	RETAINED	The Eighty-Six are reasserted as ordinary humans rather than exceptional species.
+V14-L115	V14	PLURAL_PERSON	p-007 para 561	笑うし楽しむし好きな料理もあれば下手な物事もある、どこにでもいるただの人間なのだと。化物なんかじゃない、化物と無闇に恐れ忌いみ嫌きらわれれば...	EXACT_VERIFIED	RETAINED	Ordinary personhood includes pleasures, incompetence, laughter and particular tastes, not only heroic or military function.
+V14-L121	V14	RECOGNITION_WITHOUT_MYTH	p-008 para 7	「エイティシックスは化物なんかじゃないって。同じ人間、同胞だって。本当は自分でわかってるってことじゃないか……！」	EXACT_VERIFIED	RETAINED	Federacy soldiers can recognize the Eighty-Six as human peers rather than monsters.
+V14-L127	V14	SIRIN_DISPOSABILITY	p-008 para 21	本来、使い捨ての無人機の部品である〈シリン〉たちは、だからこそこんな特攻に起用されれば喜んで帰ってこなくなる。〈大君主〉作戦に向けて一人の戦...	EXACT_VERIFIED	RETAINED	Sirin role design makes nonreturning sacrificial use institutionally attractive.
+V14-L135	V14	NOFACE_CONVERSION_OFFER	p-008 para 143	「殺さずにすむ手段がある。君たちが人間でなくなればいい。そして我々〈レギオン〉は、〈レギオン〉同士では殺しあえない。つまり〈レギオン〉となれ...	EXACT_VERIFIED	RETAINED	No Face proposes ending killing by ending human status.
+V14-L136	V14	MEMORY_PERSONALITY_CONTINUITY_CLAIM	p-008 para 147	「見てのとおり、〈レギオン〉には人格を有する個体がいる。皆みな、元は人間だ。体は失ったが、生前の記憶と人格はそのまま引き継いでいる。──君た...	EXACT_VERIFIED	RETAINED	No Face claims Legion can preserve pre-death memory and personality; classify as speaker claim, not automatic PF.
+V14-L139	V14	BODY_REPLACEMENT_CLAIM	p-008 para 172	「〈レギオン〉は──〈仔アグ羊ヌス〉は死ぬことがない。壊れたならば体を乗り換え、古びたならば中央処理系を順次入れ替え、おそらくは望む限り生き...	EXACT_VERIFIED	RETAINED	No Face describes indefinite continuation through replaceable bodies/processing systems.
+V14-L140	V14	PEACE_WITHOUT_CONFLICT_CLAIM	p-008 para 176	「決して争いあわずに済む同胞とは、永遠に平和な世界に生きられることは。──君たちには何よりも望ましい、渇かつ望ぼうしてきたものではないかね？...	EXACT_VERIFIED	RETAINED	No Face frames compulsory posthumanization as eternal peace.
+V14-L144	V14	PRIOR_REFUSAL	p-008 para 204	「それを望まなかったのがおれたちだ。望まなかったからここにいる。死んでお前たちの隊列に加われば少なくとも共和国への復ふく讐しゆうは果たせると...	EXACT_VERIFIED	RETAINED	Shin grounds present identity partly in having refused the Legion/revenge path before.
+V14-L147	V14	NO_FREE_HEART	p-008 para 224	「お前の掲げた世界は理想郷どころか地獄だ。一つの幸福もない。心一つも自由にならない。あるのはただ、二度と尽きない憎ぞう悪おだけで──それしか...	EXACT_VERIFIED	RETAINED	Shin rejects No Face because the proposed world has no happiness and no free heart.
+V14-L150	V14	FUTURE_OVER_WOUND	p-008 para 242	「見くびるな。過去の傷よりも未来を選んだおれの仲間が、憎き悪ずに囚とらわれたお前たちのような亡霊に負けるものか」	EXACT_VERIFIED	RETAINED	Shin contrasts companions choosing future with ghosts captured by hatred.
+V14-L153	V14	NONHUMAN_NOT_WORTHLESS	p-008 para 271	「お前たちは人間じゃないから怖くない！ 誰が、お前たちなんかに怯おびえるか！」	EXACT_VERIFIED	RETAINED	A Sirin denies fear of Legion by emphasizing nonhuman status; this is identity rhetoric, not proof of absent moral standing.
+V14-L160	V14	HUMAN_CHANGE_VS_SIRIN_STASIS	p-008 para 359	まずい、また動けなくなる。人間である──成長して変化して強くなっていくエイティシックスたちならあるいは今度は耐えられるのかもしれないけれど、...	EXACT_VERIFIED	RETAINED	Narration contrasts human growth/change with the assumed Sirin model immediately before Lyudmila falsifies simple stasis.
+V14-L163	V14	EMERGENT_SIRIN_DESIRE	p-008 para 366	初めて思った。〈シリン〉にはあるまじき衝動だった。	EXACT_VERIFIED	RETAINED	Lyudmila experiences fear of death as a supposedly improper new Sirin impulse.
+V14-L171	V14	ANTI_TRANSCENDENCE	p-008 para 451	「見ろ。負けなかっただろう。──人を超越したこえたつもりで傲おごって見下して、神様きどりで余裕ぶるからそうなるんだ、〈レギオン〉」	EXACT_VERIFIED	RETAINED	Shin mocks Legion claims to transcend humanity, rejecting superiority as a personhood solution.
+T02-V14-EPISTEMIC-CAUTION	V14	EPISTEMIC_LIMIT	item/xhtml/p-008.xhtml para 148	〈レギオン〉が人間の脳構造を模倣し、中央処理系に適用したことに人類が気づいたとは、連邦らの各国が戦死者の回収を徹底したことで〈レギオン〉の側も察したろう。だが、脳構造を取りこんだ〈レギオン〉が人格や記憶まで引き継いで...	NV/PF	NEW_RETRIEVAL	Narration explicitly says humans cannot normally know whether Legion brain-derived systems retain personality/memory; No Face claims require caution.
+T02-V14-CONVERSION-CLAIM	V14	NOFACE_CLAIM	item/xhtml/p-008.xhtml para 154	「そうやって無闇に突っぱねるのは噓うそをついていると、詳細をよく知っていると言っているようなものだぞ、少年。──まあ、彼女のことはいい。本題に戻ろう。繰り返すが、〈レギオン〉には元の人間の人格を保持している個体がいる...	CS	NEW_RETRIEVAL	No Face asserts that under suitable conditions any human can become a personality-bearing Legion unit; remains antagonist testimony.
+A1-E019	A1	FIDO_ORDINARY_RELATION	セオ＋カイエ＋ハルト＋ファイド	(Alter.1 story-level evidence; see canonical supplemental locator ledger)	CS	SUPPLEMENTAL_RETAINED	Fido participates in campfire/folklore recreation as part of Spearhead social life, not only support function.
+A1-E032	A1	ADOLESCENT_BODY	成長	(Alter.1 story-level evidence; see canonical supplemental locator ledger)	NV	SUPPLEMENTAL_RETAINED	Eighty-Six bodies continue adolescent growth despite military competence.
+A1-E036	A1	CURIOSITY_BEYOND_ROLE	徒歩圏内	(Alter.1 story-level evidence; see canonical supplemental locator ledger)	CS/BA	SUPPLEMENTAL_RETAINED	Shin independently pursues civilian historical curiosity, demonstrating desire beyond combat role.
+A1-E087	A1	DESIRE_WITHOUT_DUTY	七月十二日（レーナ誕生日）・その二	(Alter.1 story-level evidence; see canonical supplemental locator ledger)	CS/LI	SUPPLEMENTAL_RETAINED	Shin gives a gift because he wanted to, a low-pressure example of action not justified by duty or role.
+A1-E097	A1	POST_FUNCTION_RECIPROCITY	十一月十二日（アネット誕生日）	(Alter.1 story-level evidence; see canonical supplemental locator ledger)	CS/BA	SUPPLEMENTAL_RETAINED	Theo participates in ordinary reciprocity after amputation rather than disappearing with combat function.

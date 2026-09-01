@@ -1,0 +1,23 @@
+# IDOLY PRIDE V2 Phase 1 Bond B3 integrity manifest
+# Created 2026-08-16
+# Primary sources
+ad9b63584e8a7e9fed7a5b32bd6c59d7160e5a792bef875cd3e80a4030d5ea9d  bond_aoi_001_aoi.md
+71846099b5fc0d8c405636c3a78bc5c9e977f47de1edc13a04ad9445af9e8ef0  bond_chs_001_chs.md
+59932f0eab799c01304e0062a3e588297ee346884737a86b2b6ecbda90a7a000  bond_kkr_001_kkr.md
+b780880d162fcfe71f7dde881728d1904ff85111dd65b9f51ccb536c5d213ff6  bond_ngs_001_ngs.md
+531203c0b65a5dd2eb94a5292f105173fd4362fdb56d1bbde9a13d3b45b3d66e  bond_suz_001_suz.md
+# Inherited authority / routing
+e72b726e21aaf0fc65771b375c9d895eb50d7e01117fab8f260e585fcfc40291  IDOLY_PRIDE_V2_PHASE1_POST_BOND_B2B_BASELINE.md
+79285d5e1fc9b498a37b12b8aa6fbe7c1798da394da914a8aa7bfbff00f72765  IDOLY_PRIDE_V2_PHASE1_BOND_CLOSE_READ_QUEUE.md
+# B3 analysis artifacts
+1abdb94ff88a562dd55a3ec38431d685f675ce16928c6a40a9e69af1ffe1fb35  IDOLY_PRIDE_V2_PHASE1_BOND_B3_PRIMARY_FINDINGS_FREEZE.md
+86a9696e2cc413ba9e977f47c53bd2fd89fbea6856ee0496751ee8cc951c8bfc  IDOLY_PRIDE_V2_PHASE1_BOND_B3_CLOSE_READ_AUDIT.md
+6bc2104f13672fe1166d0578e7680992aff568901ed5d2e24ac67a4fb77d9ca6  IDOLY_PRIDE_V2_PHASE1_POST_BOND_B3_BASELINE.md
+389ac47742ca91348fc1b3e62fc8f376f2a14419fdaf5ced6c2c9865ae2586f8  IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.26.md
+# Formal dependencies
+# No B3 bond bundle declares a missing audiovisual/formal asset.
+# Relationship-category safeguard
+# bond_ngs_001_ngs materially strengthens Nagisa-side Kotono yuri/romantic coding through explicit domestic-future fantasy.
+# Kotono reciprocal romantic intent, dating status, exclusivity, and enactment remain OPEN.
+# B4 routing
+# bond_ai_001_ai, bond_mei_001_mei, and bond_yu_001_yu remain indexed TEXTURE / B4; no standalone B4 tranche is mandatory unless claim-specific retrieval promotes an exact story.

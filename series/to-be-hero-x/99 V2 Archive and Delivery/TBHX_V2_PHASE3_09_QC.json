@@ -1,0 +1,52 @@
+{
+  "series": "TBHX",
+  "artifact": "09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md",
+  "phase": 3,
+  "specialist_number": 9,
+  "status": "canonical",
+  "drive_file_id": "1jX7rSrlery6jHKAD7dgNbYW1w4SX12rn",
+  "checkpoint_drive_file_id": "1NSbo7F8Yq-8g0p4tKuRBB3U5S8b1SksH",
+  "drive_reported_bytes": 74561,
+  "checks": {
+    "yaml_front_matter": "passed",
+    "utf8": "passed",
+    "numbered_sections": "0-44 sequential",
+    "canonical_claim_ids": 45,
+    "missing_claim_ids": [],
+    "placeholder_tokens": 0,
+    "duplicate_normalized_blocks_ge_600": 0,
+    "frozen_episode_documents_modified": false,
+    "map_phase3_progress": "4/11",
+    "index_phase3_progress": "4/11",
+    "drive_size_matches_local": true,
+    "zip_crc": "passed"
+  },
+  "files": {
+    "specialist": {
+      "filename": "09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md",
+      "bytes": 74561,
+      "words": 10616,
+      "sha256": "7aff3b2fbca6389953101d4fb184540722aca8d4a24138fa36de2f59bc181a5c"
+    },
+    "checkpoint": {
+      "filename": "TBHX_V2_PHASE3_09_QUEEN_CHECKPOINT.md",
+      "bytes": 16245,
+      "words": 2240,
+      "sha256": "3952a190de83183c04d2d8f11d690fa06a397db39e4d971670401ec329d18446"
+    },
+    "corpus_map": {
+      "filename": "TBHX_CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 33543,
+      "words": 4055,
+      "sha256": "b4e0b90ef55e20f8f62dc9e3220c13b7fceef90120f57747fee07155d512a2cc"
+    },
+    "drive_index": {
+      "filename": "MANGA_ANIME_DRIVE_INDEX.md",
+      "bytes": 99777,
+      "words": 11660,
+      "sha256": "cd4d66dd954074fd1e2560770b192db3df513d20a27c51bc8413d7d65de29fb7"
+    }
+  },
+  "next_artifact": "10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md",
+  "next_reasoning": "High"
+}

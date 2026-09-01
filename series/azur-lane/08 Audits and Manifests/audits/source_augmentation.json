@@ -1,0 +1,2049 @@
+{
+  "schema_version": "source-augmentation-1.0.0",
+  "generated_at": "2026-08-23T04:36:08.642902Z",
+  "upstream_commits": {
+    "AzurLaneData": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+    "AzurLaneLuaScripts": "cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336"
+  },
+  "primary_source_drive_id": "1BoL0xYtws249v800vv3FWRpKW1jdwUDl",
+  "summaries": [
+    {
+      "key": "ATAGO_30312",
+      "name": "Atago",
+      "character_group_id": 30312,
+      "audio": {
+        "schema_version": "jp-audio-coverage-1.0.0",
+        "generated_at": "2026-08-23T04:16:20.789570Z",
+        "character_key": "ATAGO_30312",
+        "character_group_id": 30312,
+        "locale": "JP",
+        "catalog_path": "work\\azur_lane_asset_acquisition\\catalog\\jp_audio_catalog.jsonl",
+        "audio_source_root": "work\\azur_lane_asset_acquisition\\ClientAssets\\JP",
+        "primary_source_archive_root": "primary_sources\\Azur Lane",
+        "jp_client_version": "1243",
+        "total_textual_candidate_slots": 92,
+        "mapped_voiced_slots": 71,
+        "known_unvoiced_text_slots": 7,
+        "unmapped_audio_assets": 88,
+        "expected_but_missing_audio": 14,
+        "ambiguous_mappings": 0,
+        "original_assets_archived": 6,
+        "mapping_status_counts": {
+          "ASSET_PRESENT_UNMAPPED": 88,
+          "AUDIO_NOT_FOUND": 14,
+          "MAPPED": 71,
+          "TEXT_UNVOICED": 7
+        },
+        "mapping_confidence_distribution": {
+          "0.95": 71
+        },
+        "skin_coverage": {
+          "303120": 26,
+          "303121": 9,
+          "303122": 6,
+          "303123": 9,
+          "303124": 10,
+          "303128": 11
+        },
+        "context_matrix": {
+          "baseline": {
+            "text_records": 19,
+            "mapped_voice": 15,
+            "known_unvoiced": 1,
+            "unresolved": 3
+          },
+          "affinity": {
+            "text_records": 8,
+            "mapped_voice": 7,
+            "known_unvoiced": 0,
+            "unresolved": 1
+          },
+          "oath": {
+            "text_records": 1,
+            "mapped_voice": 1,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "combat": {
+            "text_records": 10,
+            "mapped_voice": 10,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "skins": {
+            "text_records": 54,
+            "mapped_voice": 38,
+            "known_unvoiced": 6,
+            "unresolved": 10
+          },
+          "event": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "dorm3d": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "island": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          }
+        },
+        "acquisition_errors": [],
+        "blocking_issues": [
+          "VOICE_MAPPING_UNRESOLVED"
+        ],
+        "JP_VOICE_PERFORMANCE_READINESS": "AUDIO_PARTIAL",
+        "readiness_is_separate_from_character_corpus_score": true,
+        "source_analysis_separation_valid": true
+      },
+      "dorm3d": {
+        "schema_version": "dorm3d-coverage-1.0.0",
+        "parser_version": "dorm3d-non-chat-1.0.0",
+        "character_key": "ATAGO_30312",
+        "character_group_id": 30312,
+        "generated_at": "2026-08-23T04:16:04.574242Z",
+        "upstream_commit": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          }
+        },
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "unresolved_story_references": [],
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Dorm3D non-chat sources were checked; no character-linked groups were found."
+      },
+      "island": {
+        "schema_version": "island-coverage-1.0.0",
+        "parser_version": "island-non-relationship-1.0.0",
+        "character_key": "ATAGO_30312",
+        "character_group_id": 30312,
+        "generated_at": "2026-08-23T04:16:04.915243Z",
+        "upstream_commits": {
+          "AzurLaneData": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+          "AzurLaneLuaScripts": "cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336"
+        },
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "JP": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "EN": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "TW": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "KR": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          }
+        },
+        "record_count": 35,
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_PRESENT",
+        "reason": "At least one regional client contains character-linked Island non-relationship evidence."
+      },
+      "analysis_corpus_updated": true
+    },
+    {
+      "key": "BALTIMORE_10316",
+      "name": "Baltimore",
+      "character_group_id": 10316,
+      "audio": {
+        "schema_version": "jp-audio-coverage-1.0.0",
+        "generated_at": "2026-08-23T04:16:29.451294Z",
+        "character_key": "BALTIMORE_10316",
+        "character_group_id": 10316,
+        "locale": "JP",
+        "catalog_path": "work\\azur_lane_asset_acquisition\\catalog\\jp_audio_catalog.jsonl",
+        "audio_source_root": "work\\azur_lane_asset_acquisition\\ClientAssets\\JP",
+        "primary_source_archive_root": "primary_sources\\Azur Lane",
+        "jp_client_version": "1243",
+        "total_textual_candidate_slots": 105,
+        "mapped_voiced_slots": 94,
+        "known_unvoiced_text_slots": 7,
+        "unmapped_audio_assets": 16,
+        "expected_but_missing_audio": 4,
+        "ambiguous_mappings": 0,
+        "original_assets_archived": 3,
+        "mapping_status_counts": {
+          "ASSET_PRESENT_UNMAPPED": 16,
+          "AUDIO_NOT_FOUND": 4,
+          "MAPPED": 94,
+          "TEXT_UNVOICED": 7
+        },
+        "mapping_confidence_distribution": {
+          "0.95": 94
+        },
+        "skin_coverage": {
+          "103160": 32,
+          "103161": 9,
+          "103162": 10,
+          "103163": 8,
+          "103164": 8,
+          "103165": 16,
+          "103168": 11
+        },
+        "context_matrix": {
+          "baseline": {
+            "text_records": 25,
+            "mapped_voice": 20,
+            "known_unvoiced": 1,
+            "unresolved": 4
+          },
+          "affinity": {
+            "text_records": 7,
+            "mapped_voice": 7,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "oath": {
+            "text_records": 1,
+            "mapped_voice": 1,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "combat": {
+            "text_records": 11,
+            "mapped_voice": 11,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "skins": {
+            "text_records": 61,
+            "mapped_voice": 55,
+            "known_unvoiced": 6,
+            "unresolved": 0
+          },
+          "event": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "dorm3d": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "island": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          }
+        },
+        "acquisition_errors": [],
+        "blocking_issues": [
+          "VOICE_MAPPING_UNRESOLVED"
+        ],
+        "JP_VOICE_PERFORMANCE_READINESS": "AUDIO_PARTIAL",
+        "readiness_is_separate_from_character_corpus_score": true,
+        "source_analysis_separation_valid": true
+      },
+      "dorm3d": {
+        "schema_version": "dorm3d-coverage-1.0.0",
+        "parser_version": "dorm3d-non-chat-1.0.0",
+        "character_key": "BALTIMORE_10316",
+        "character_group_id": 10316,
+        "generated_at": "2026-08-23T04:16:24.612565Z",
+        "upstream_commit": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          }
+        },
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "unresolved_story_references": [],
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Dorm3D non-chat sources were checked; no character-linked groups were found."
+      },
+      "island": {
+        "schema_version": "island-coverage-1.0.0",
+        "parser_version": "island-non-relationship-1.0.0",
+        "character_key": "BALTIMORE_10316",
+        "character_group_id": 10316,
+        "generated_at": "2026-08-23T04:16:24.924612Z",
+        "upstream_commits": {
+          "AzurLaneData": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+          "AzurLaneLuaScripts": "cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336"
+        },
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          }
+        },
+        "record_count": 0,
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Island non-relationship sources were checked; no linked evidence was found."
+      },
+      "analysis_corpus_updated": true
+    },
+    {
+      "key": "ENTERPRISE_10706",
+      "name": "Enterprise",
+      "character_group_id": 10706,
+      "audio": {
+        "schema_version": "jp-audio-coverage-1.0.0",
+        "generated_at": "2026-08-23T04:17:17.802171Z",
+        "character_key": "ENTERPRISE_10706",
+        "character_group_id": 10706,
+        "locale": "JP",
+        "catalog_path": "work\\azur_lane_asset_acquisition\\catalog\\jp_audio_catalog.jsonl",
+        "audio_source_root": "work\\azur_lane_asset_acquisition\\ClientAssets\\JP",
+        "primary_source_archive_root": "primary_sources\\Azur Lane",
+        "jp_client_version": "1243",
+        "total_textual_candidate_slots": 156,
+        "mapped_voiced_slots": 109,
+        "known_unvoiced_text_slots": 11,
+        "unmapped_audio_assets": 36,
+        "expected_but_missing_audio": 36,
+        "ambiguous_mappings": 0,
+        "original_assets_archived": 3,
+        "mapping_status_counts": {
+          "ASSET_PRESENT_UNMAPPED": 36,
+          "AUDIO_NOT_FOUND": 36,
+          "MAPPED": 109,
+          "TEXT_UNVOICED": 11
+        },
+        "mapping_confidence_distribution": {
+          "0.95": 109
+        },
+        "skin_coverage": {
+          "107060": 26,
+          "107061": 6,
+          "107062": 8,
+          "107063": 14,
+          "107064": 14,
+          "107065": 9,
+          "107066": 12,
+          "107067": 15,
+          "107068": 5
+        },
+        "context_matrix": {
+          "baseline": {
+            "text_records": 27,
+            "mapped_voice": 15,
+            "known_unvoiced": 1,
+            "unresolved": 11
+          },
+          "affinity": {
+            "text_records": 9,
+            "mapped_voice": 8,
+            "known_unvoiced": 0,
+            "unresolved": 1
+          },
+          "oath": {
+            "text_records": 1,
+            "mapped_voice": 1,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "combat": {
+            "text_records": 19,
+            "mapped_voice": 17,
+            "known_unvoiced": 0,
+            "unresolved": 2
+          },
+          "skins": {
+            "text_records": 100,
+            "mapped_voice": 68,
+            "known_unvoiced": 10,
+            "unresolved": 22
+          },
+          "event": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "dorm3d": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "island": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          }
+        },
+        "acquisition_errors": [],
+        "blocking_issues": [
+          "VOICE_MAPPING_UNRESOLVED"
+        ],
+        "JP_VOICE_PERFORMANCE_READINESS": "AUDIO_PARTIAL",
+        "readiness_is_separate_from_character_corpus_score": true,
+        "source_analysis_separation_valid": true
+      },
+      "dorm3d": {
+        "schema_version": "dorm3d-coverage-1.0.0",
+        "parser_version": "dorm3d-non-chat-1.0.0",
+        "character_key": "ENTERPRISE_10706",
+        "character_group_id": 10706,
+        "generated_at": "2026-08-23T04:16:52.653310Z",
+        "upstream_commit": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          }
+        },
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "unresolved_story_references": [],
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Dorm3D non-chat sources were checked; no character-linked groups were found."
+      },
+      "island": {
+        "schema_version": "island-coverage-1.0.0",
+        "parser_version": "island-non-relationship-1.0.0",
+        "character_key": "ENTERPRISE_10706",
+        "character_group_id": 10706,
+        "generated_at": "2026-08-23T04:16:53.002494Z",
+        "upstream_commits": {
+          "AzurLaneData": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+          "AzurLaneLuaScripts": "cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336"
+        },
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          }
+        },
+        "record_count": 0,
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Island non-relationship sources were checked; no linked evidence was found."
+      },
+      "analysis_corpus_updated": true
+    },
+    {
+      "key": "KIRISHIMA_30404",
+      "name": "Kirishima",
+      "character_group_id": 30404,
+      "audio": {
+        "schema_version": "jp-audio-coverage-1.0.0",
+        "generated_at": "2026-08-23T04:17:23.197024Z",
+        "character_key": "KIRISHIMA_30404",
+        "character_group_id": 30404,
+        "locale": "JP",
+        "catalog_path": "work\\azur_lane_asset_acquisition\\catalog\\jp_audio_catalog.jsonl",
+        "audio_source_root": "work\\azur_lane_asset_acquisition\\ClientAssets\\JP",
+        "primary_source_archive_root": "primary_sources\\Azur Lane",
+        "jp_client_version": "1243",
+        "total_textual_candidate_slots": 71,
+        "mapped_voiced_slots": 61,
+        "known_unvoiced_text_slots": 5,
+        "unmapped_audio_assets": 8,
+        "expected_but_missing_audio": 5,
+        "ambiguous_mappings": 0,
+        "original_assets_archived": 3,
+        "mapping_status_counts": {
+          "ASSET_PRESENT_UNMAPPED": 8,
+          "AUDIO_NOT_FOUND": 5,
+          "MAPPED": 61,
+          "TEXT_UNVOICED": 5
+        },
+        "mapping_confidence_distribution": {
+          "0.95": 61
+        },
+        "skin_coverage": {
+          "304040": 26,
+          "304041": 8,
+          "304042": 9,
+          "304043": 10,
+          "304044": 8
+        },
+        "context_matrix": {
+          "baseline": {
+            "text_records": 20,
+            "mapped_voice": 15,
+            "known_unvoiced": 1,
+            "unresolved": 4
+          },
+          "affinity": {
+            "text_records": 5,
+            "mapped_voice": 5,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "oath": {
+            "text_records": 1,
+            "mapped_voice": 1,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "combat": {
+            "text_records": 6,
+            "mapped_voice": 6,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "skins": {
+            "text_records": 39,
+            "mapped_voice": 34,
+            "known_unvoiced": 4,
+            "unresolved": 1
+          },
+          "event": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "dorm3d": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "island": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          }
+        },
+        "acquisition_errors": [],
+        "blocking_issues": [
+          "VOICE_MAPPING_UNRESOLVED"
+        ],
+        "JP_VOICE_PERFORMANCE_READINESS": "AUDIO_PARTIAL",
+        "readiness_is_separate_from_character_corpus_score": true,
+        "source_analysis_separation_valid": true
+      },
+      "dorm3d": {
+        "schema_version": "dorm3d-coverage-1.0.0",
+        "parser_version": "dorm3d-non-chat-1.0.0",
+        "character_key": "KIRISHIMA_30404",
+        "character_group_id": 30404,
+        "generated_at": "2026-08-23T04:17:20.646848Z",
+        "upstream_commit": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          }
+        },
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "unresolved_story_references": [],
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Dorm3D non-chat sources were checked; no character-linked groups were found."
+      },
+      "island": {
+        "schema_version": "island-coverage-1.0.0",
+        "parser_version": "island-non-relationship-1.0.0",
+        "character_key": "KIRISHIMA_30404",
+        "character_group_id": 30404,
+        "generated_at": "2026-08-23T04:17:20.848720Z",
+        "upstream_commits": {
+          "AzurLaneData": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+          "AzurLaneLuaScripts": "cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336"
+        },
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          }
+        },
+        "record_count": 0,
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Island non-relationship sources were checked; no linked evidence was found."
+      },
+      "analysis_corpus_updated": true
+    },
+    {
+      "key": "NAGATO_30505",
+      "name": "Nagato",
+      "character_group_id": 30505,
+      "audio": {
+        "schema_version": "jp-audio-coverage-1.0.0",
+        "generated_at": "2026-08-23T04:17:31.561104Z",
+        "character_key": "NAGATO_30505",
+        "character_group_id": 30505,
+        "locale": "JP",
+        "catalog_path": "work\\azur_lane_asset_acquisition\\catalog\\jp_audio_catalog.jsonl",
+        "audio_source_root": "work\\azur_lane_asset_acquisition\\ClientAssets\\JP",
+        "primary_source_archive_root": "primary_sources\\Azur Lane",
+        "jp_client_version": "9.3.386",
+        "total_textual_candidate_slots": 113,
+        "mapped_voiced_slots": 98,
+        "known_unvoiced_text_slots": 7,
+        "unmapped_audio_assets": 12,
+        "expected_but_missing_audio": 8,
+        "ambiguous_mappings": 0,
+        "original_assets_archived": 6,
+        "mapping_status_counts": {
+          "ASSET_PRESENT_UNMAPPED": 12,
+          "AUDIO_NOT_FOUND": 8,
+          "MAPPED": 98,
+          "TEXT_UNVOICED": 7
+        },
+        "mapping_confidence_distribution": {
+          "0.95": 98
+        },
+        "skin_coverage": {
+          "305050": 26,
+          "305051": 9,
+          "305052": 11,
+          "305053": 9,
+          "305054": 14,
+          "305055": 15,
+          "305058": 14
+        },
+        "context_matrix": {
+          "baseline": {
+            "text_records": 24,
+            "mapped_voice": 15,
+            "known_unvoiced": 1,
+            "unresolved": 8
+          },
+          "affinity": {
+            "text_records": 9,
+            "mapped_voice": 9,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "oath": {
+            "text_records": 1,
+            "mapped_voice": 1,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "combat": {
+            "text_records": 8,
+            "mapped_voice": 8,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "skins": {
+            "text_records": 71,
+            "mapped_voice": 65,
+            "known_unvoiced": 6,
+            "unresolved": 0
+          },
+          "event": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "dorm3d": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "island": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          }
+        },
+        "acquisition_errors": [],
+        "blocking_issues": [
+          "VOICE_MAPPING_UNRESOLVED"
+        ],
+        "JP_VOICE_PERFORMANCE_READINESS": "AUDIO_PARTIAL",
+        "readiness_is_separate_from_character_corpus_score": true,
+        "source_analysis_separation_valid": true
+      },
+      "dorm3d": {
+        "schema_version": "dorm3d-coverage-1.0.0",
+        "parser_version": "dorm3d-non-chat-1.0.0",
+        "character_key": "NAGATO_30505",
+        "character_group_id": 30505,
+        "generated_at": "2026-08-23T04:17:25.280523Z",
+        "upstream_commit": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          }
+        },
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "unresolved_story_references": [],
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Dorm3D non-chat sources were checked; no character-linked groups were found."
+      },
+      "island": {
+        "schema_version": "island-coverage-1.0.0",
+        "parser_version": "island-non-relationship-1.0.0",
+        "character_key": "NAGATO_30505",
+        "character_group_id": 30505,
+        "generated_at": "2026-08-23T04:17:25.653544Z",
+        "upstream_commits": {
+          "AzurLaneData": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+          "AzurLaneLuaScripts": "cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336"
+        },
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          }
+        },
+        "record_count": 0,
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Island non-relationship sources were checked; no linked evidence was found."
+      },
+      "analysis_corpus_updated": true
+    },
+    {
+      "key": "ST_LOUIS_10213",
+      "name": "St. Louis",
+      "character_group_id": 10213,
+      "audio": {
+        "schema_version": "jp-audio-coverage-1.0.0",
+        "generated_at": "2026-08-23T04:17:58.478425Z",
+        "character_key": "ST_LOUIS_10213",
+        "character_group_id": 10213,
+        "locale": "JP",
+        "catalog_path": "work\\azur_lane_asset_acquisition\\catalog\\jp_audio_catalog.jsonl",
+        "audio_source_root": "work\\azur_lane_asset_acquisition\\ClientAssets\\JP",
+        "primary_source_archive_root": "primary_sources\\Azur Lane",
+        "jp_client_version": "1243",
+        "total_textual_candidate_slots": 77,
+        "mapped_voiced_slots": 69,
+        "known_unvoiced_text_slots": 5,
+        "unmapped_audio_assets": 7,
+        "expected_but_missing_audio": 3,
+        "ambiguous_mappings": 0,
+        "original_assets_archived": 4,
+        "mapping_status_counts": {
+          "ASSET_PRESENT_UNMAPPED": 7,
+          "AUDIO_NOT_FOUND": 3,
+          "MAPPED": 69,
+          "TEXT_UNVOICED": 5
+        },
+        "mapping_confidence_distribution": {
+          "0.95": 69
+        },
+        "skin_coverage": {
+          "102130": 26,
+          "102131": 5,
+          "102132": 8,
+          "102133": 12,
+          "102134": 18
+        },
+        "context_matrix": {
+          "baseline": {
+            "text_records": 18,
+            "mapped_voice": 15,
+            "known_unvoiced": 1,
+            "unresolved": 2
+          },
+          "affinity": {
+            "text_records": 8,
+            "mapped_voice": 8,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "oath": {
+            "text_records": 1,
+            "mapped_voice": 1,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "combat": {
+            "text_records": 7,
+            "mapped_voice": 7,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "skins": {
+            "text_records": 43,
+            "mapped_voice": 38,
+            "known_unvoiced": 4,
+            "unresolved": 1
+          },
+          "event": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "dorm3d": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "island": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          }
+        },
+        "acquisition_errors": [],
+        "blocking_issues": [
+          "VOICE_MAPPING_UNRESOLVED"
+        ],
+        "JP_VOICE_PERFORMANCE_READINESS": "AUDIO_PARTIAL",
+        "readiness_is_separate_from_character_corpus_score": true,
+        "source_analysis_separation_valid": true
+      },
+      "dorm3d": {
+        "schema_version": "dorm3d-coverage-1.0.0",
+        "parser_version": "dorm3d-non-chat-1.0.0",
+        "character_key": "ST_LOUIS_10213",
+        "character_group_id": 10213,
+        "generated_at": "2026-08-23T04:17:35.926330Z",
+        "upstream_commit": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          }
+        },
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "unresolved_story_references": [],
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Dorm3D non-chat sources were checked; no character-linked groups were found."
+      },
+      "island": {
+        "schema_version": "island-coverage-1.0.0",
+        "parser_version": "island-non-relationship-1.0.0",
+        "character_key": "ST_LOUIS_10213",
+        "character_group_id": 10213,
+        "generated_at": "2026-08-23T04:17:36.215870Z",
+        "upstream_commits": {
+          "AzurLaneData": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+          "AzurLaneLuaScripts": "cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336"
+        },
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "identity_graph_nodes": 0,
+            "character_linked_scenes": 0,
+            "reason": "Supported Island non-relationship sources were checked; no linked record was found."
+          }
+        },
+        "record_count": 0,
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Island non-relationship sources were checked; no linked evidence was found."
+      },
+      "analysis_corpus_updated": true
+    },
+    {
+      "key": "TAIHOU_30707",
+      "name": "Taihou",
+      "character_group_id": 30707,
+      "audio": {
+        "schema_version": "jp-audio-coverage-1.0.0",
+        "generated_at": "2026-08-23T04:19:10.465752Z",
+        "character_key": "TAIHOU_30707",
+        "character_group_id": 30707,
+        "locale": "JP",
+        "catalog_path": "work\\azur_lane_asset_acquisition\\catalog\\jp_audio_catalog.jsonl",
+        "audio_source_root": "work\\azur_lane_asset_acquisition\\ClientAssets\\JP",
+        "primary_source_archive_root": "primary_sources\\Azur Lane",
+        "jp_client_version": "9.3.386",
+        "total_textual_candidate_slots": 217,
+        "mapped_voiced_slots": 151,
+        "known_unvoiced_text_slots": 8,
+        "unmapped_audio_assets": 241,
+        "expected_but_missing_audio": 58,
+        "ambiguous_mappings": 0,
+        "original_assets_archived": 283,
+        "mapping_status_counts": {
+          "ASSET_PRESENT_UNMAPPED": 241,
+          "AUDIO_NOT_FOUND": 58,
+          "MAPPED": 151,
+          "TEXT_UNVOICED": 8
+        },
+        "mapping_confidence_distribution": {
+          "0.95": 107,
+          "1.0": 44
+        },
+        "skin_coverage": {
+          "307070": 26,
+          "307071": 12,
+          "307072": 8,
+          "307073": 8,
+          "307074": 10,
+          "307075": 15,
+          "307076": 14,
+          "307078": 14,
+          "None": 44
+        },
+        "context_matrix": {
+          "baseline": {
+            "text_records": 17,
+            "mapped_voice": 15,
+            "known_unvoiced": 1,
+            "unresolved": 1
+          },
+          "affinity": {
+            "text_records": 9,
+            "mapped_voice": 9,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "oath": {
+            "text_records": 1,
+            "mapped_voice": 1,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "combat": {
+            "text_records": 14,
+            "mapped_voice": 14,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "skins": {
+            "text_records": 75,
+            "mapped_voice": 68,
+            "known_unvoiced": 7,
+            "unresolved": 0
+          },
+          "event": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "dorm3d": {
+            "text_records": 101,
+            "mapped_voice": 44,
+            "known_unvoiced": 0,
+            "unresolved": 57
+          },
+          "island": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          }
+        },
+        "acquisition_errors": [],
+        "blocking_issues": [
+          "VOICE_MAPPING_UNRESOLVED"
+        ],
+        "JP_VOICE_PERFORMANCE_READINESS": "AUDIO_PARTIAL",
+        "readiness_is_separate_from_character_corpus_score": true,
+        "source_analysis_separation_valid": true
+      },
+      "dorm3d": {
+        "schema_version": "dorm3d-coverage-1.0.0",
+        "parser_version": "dorm3d-non-chat-1.0.0",
+        "character_key": "TAIHOU_30707",
+        "character_group_id": 30707,
+        "generated_at": "2026-08-23T04:18:21.467454Z",
+        "upstream_commit": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 125,
+            "story_scripts_present": 121,
+            "reason": "Character-linked Dorm3D groups were parsed with full regional story context."
+          },
+          "JP": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 125,
+            "story_scripts_present": 121,
+            "reason": "Character-linked Dorm3D groups were parsed with full regional story context."
+          },
+          "EN": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 125,
+            "story_scripts_present": 121,
+            "reason": "Character-linked Dorm3D groups were parsed with full regional story context."
+          },
+          "TW": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 125,
+            "story_scripts_present": 121,
+            "reason": "Character-linked Dorm3D groups were parsed with full regional story context."
+          },
+          "KR": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 125,
+            "story_scripts_present": 121,
+            "reason": "Character-linked Dorm3D groups were parsed with full regional story context."
+          }
+        },
+        "scene_count": 625,
+        "node_count": 1545,
+        "voice_reference_count": 505,
+        "unresolved_story_references": [
+          {
+            "locale": "CN",
+            "group_record_id": 120510,
+            "story": "DormLvPerformance1201"
+          },
+          {
+            "locale": "CN",
+            "group_record_id": 120520,
+            "story": "DormLvPerformance1202"
+          },
+          {
+            "locale": "CN",
+            "group_record_id": 120530,
+            "story": "DormLvPerformance1203"
+          },
+          {
+            "locale": "CN",
+            "group_record_id": 120541,
+            "story": "DormLvPerformance1204"
+          },
+          {
+            "locale": "JP",
+            "group_record_id": 120510,
+            "story": "DormLvPerformance1201"
+          },
+          {
+            "locale": "JP",
+            "group_record_id": 120520,
+            "story": "DormLvPerformance1202"
+          },
+          {
+            "locale": "JP",
+            "group_record_id": 120530,
+            "story": "DormLvPerformance1203"
+          },
+          {
+            "locale": "JP",
+            "group_record_id": 120541,
+            "story": "DormLvPerformance1204"
+          },
+          {
+            "locale": "EN",
+            "group_record_id": 120510,
+            "story": "DormLvPerformance1201"
+          },
+          {
+            "locale": "EN",
+            "group_record_id": 120520,
+            "story": "DormLvPerformance1202"
+          },
+          {
+            "locale": "EN",
+            "group_record_id": 120530,
+            "story": "DormLvPerformance1203"
+          },
+          {
+            "locale": "EN",
+            "group_record_id": 120541,
+            "story": "DormLvPerformance1204"
+          },
+          {
+            "locale": "TW",
+            "group_record_id": 120510,
+            "story": "DormLvPerformance1201"
+          },
+          {
+            "locale": "TW",
+            "group_record_id": 120520,
+            "story": "DormLvPerformance1202"
+          },
+          {
+            "locale": "TW",
+            "group_record_id": 120530,
+            "story": "DormLvPerformance1203"
+          },
+          {
+            "locale": "TW",
+            "group_record_id": 120541,
+            "story": "DormLvPerformance1204"
+          },
+          {
+            "locale": "KR",
+            "group_record_id": 120510,
+            "story": "DormLvPerformance1201"
+          },
+          {
+            "locale": "KR",
+            "group_record_id": 120520,
+            "story": "DormLvPerformance1202"
+          },
+          {
+            "locale": "KR",
+            "group_record_id": 120530,
+            "story": "DormLvPerformance1203"
+          },
+          {
+            "locale": "KR",
+            "group_record_id": 120541,
+            "story": "DormLvPerformance1204"
+          }
+        ],
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_PRESENT",
+        "reason": "At least one regional client contains character-linked Dorm3D non-chat groups."
+      },
+      "island": {
+        "schema_version": "island-coverage-1.0.0",
+        "parser_version": "island-non-relationship-1.0.0",
+        "character_key": "TAIHOU_30707",
+        "character_group_id": 30707,
+        "generated_at": "2026-08-23T04:18:35.827823Z",
+        "upstream_commits": {
+          "AzurLaneData": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+          "AzurLaneLuaScripts": "cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336"
+        },
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 3,
+            "identity_graph_nodes": 3,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "JP": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 3,
+            "identity_graph_nodes": 3,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "EN": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 3,
+            "identity_graph_nodes": 3,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "TW": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 3,
+            "identity_graph_nodes": 3,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "KR": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 3,
+            "identity_graph_nodes": 3,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          }
+        },
+        "record_count": 15,
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_PRESENT",
+        "reason": "At least one regional client contains character-linked Island non-relationship evidence."
+      },
+      "analysis_corpus_updated": true
+    },
+    {
+      "key": "TAKAO_30311",
+      "name": "Takao",
+      "character_group_id": 30311,
+      "audio": {
+        "schema_version": "jp-audio-coverage-1.0.0",
+        "generated_at": "2026-08-23T04:19:38.389300Z",
+        "character_key": "TAKAO_30311",
+        "character_group_id": 30311,
+        "locale": "JP",
+        "catalog_path": "work\\azur_lane_asset_acquisition\\catalog\\jp_audio_catalog.jsonl",
+        "audio_source_root": "work\\azur_lane_asset_acquisition\\ClientAssets\\JP",
+        "primary_source_archive_root": "primary_sources\\Azur Lane",
+        "jp_client_version": "1243",
+        "total_textual_candidate_slots": 120,
+        "mapped_voiced_slots": 109,
+        "known_unvoiced_text_slots": 8,
+        "unmapped_audio_assets": 11,
+        "expected_but_missing_audio": 3,
+        "ambiguous_mappings": 0,
+        "original_assets_archived": 3,
+        "mapping_status_counts": {
+          "ASSET_PRESENT_UNMAPPED": 11,
+          "AUDIO_NOT_FOUND": 3,
+          "MAPPED": 109,
+          "TEXT_UNVOICED": 8
+        },
+        "mapping_confidence_distribution": {
+          "0.95": 109
+        },
+        "skin_coverage": {
+          "303110": 32,
+          "303112": 9,
+          "303113": 8,
+          "303114": 9,
+          "303115": 10,
+          "303116": 16,
+          "303117": 11,
+          "303118": 14
+        },
+        "context_matrix": {
+          "baseline": {
+            "text_records": 24,
+            "mapped_voice": 20,
+            "known_unvoiced": 1,
+            "unresolved": 3
+          },
+          "affinity": {
+            "text_records": 8,
+            "mapped_voice": 8,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "oath": {
+            "text_records": 1,
+            "mapped_voice": 1,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "combat": {
+            "text_records": 12,
+            "mapped_voice": 12,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "skins": {
+            "text_records": 75,
+            "mapped_voice": 68,
+            "known_unvoiced": 7,
+            "unresolved": 0
+          },
+          "event": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "dorm3d": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          },
+          "island": {
+            "text_records": 0,
+            "mapped_voice": 0,
+            "known_unvoiced": 0,
+            "unresolved": 0
+          }
+        },
+        "acquisition_errors": [],
+        "blocking_issues": [
+          "VOICE_MAPPING_UNRESOLVED"
+        ],
+        "JP_VOICE_PERFORMANCE_READINESS": "AUDIO_PARTIAL",
+        "readiness_is_separate_from_character_corpus_score": true,
+        "source_analysis_separation_valid": true
+      },
+      "dorm3d": {
+        "schema_version": "dorm3d-coverage-1.0.0",
+        "parser_version": "dorm3d-non-chat-1.0.0",
+        "character_key": "TAKAO_30311",
+        "character_group_id": 30311,
+        "generated_at": "2026-08-23T04:19:17.375170Z",
+        "upstream_commit": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "JP": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "EN": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "TW": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          },
+          "KR": {
+            "status": "SUPPORTED_NOT_FOUND",
+            "records": 0,
+            "reason": "Supported Dorm3D non-chat sources were checked; no character-linked group was found."
+          }
+        },
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "unresolved_story_references": [],
+        "json_lua_divergences": [],
+        "status": "SUPPORTED_NOT_FOUND",
+        "reason": "All available regional Dorm3D non-chat sources were checked; no character-linked groups were found."
+      },
+      "island": {
+        "schema_version": "island-coverage-1.0.0",
+        "parser_version": "island-non-relationship-1.0.0",
+        "character_key": "TAKAO_30311",
+        "character_group_id": 30311,
+        "generated_at": "2026-08-23T04:19:17.666158Z",
+        "upstream_commits": {
+          "AzurLaneData": "4cca5c2437007b62d30a6235fcfc0c0203231378",
+          "AzurLaneLuaScripts": "cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336"
+        },
+        "archival_strategy": "GIT_PIN_SUFFICIENT",
+        "regional_status": {
+          "CN": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "JP": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "EN": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "TW": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          },
+          "KR": {
+            "status": "SUPPORTED_PRESENT",
+            "records": 7,
+            "identity_graph_nodes": 7,
+            "character_linked_scenes": 0,
+            "reason": "Character-linked Island identity/behavior or scene records were parsed."
+          }
+        },
+        "record_count": 35,
+        "scene_count": 0,
+        "node_count": 0,
+        "voice_reference_count": 0,
+        "json_lua_divergences": [
+          {
+            "locale": "CN",
+            "table": "island_chara_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "CN",
+            "table": "island_unit_character",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "CN",
+            "table": "island_strollnpc",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "CN",
+            "table": "island_skin_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031101
+            ],
+            "lua_only_record_ids": [
+              3031101
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "CN",
+            "table": "island_skin_colordiff_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "JP",
+            "table": "island_chara_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "JP",
+            "table": "island_unit_character",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "JP",
+            "table": "island_strollnpc",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "JP",
+            "table": "island_skin_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031101
+            ],
+            "lua_only_record_ids": [
+              3031101
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "JP",
+            "table": "island_skin_colordiff_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "EN",
+            "table": "island_chara_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "EN",
+            "table": "island_unit_character",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "EN",
+            "table": "island_strollnpc",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "EN",
+            "table": "island_skin_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031101
+            ],
+            "lua_only_record_ids": [
+              3031101
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "EN",
+            "table": "island_skin_colordiff_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "TW",
+            "table": "island_chara_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "TW",
+            "table": "island_unit_character",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "TW",
+            "table": "island_strollnpc",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "TW",
+            "table": "island_skin_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031101
+            ],
+            "lua_only_record_ids": [
+              3031101
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "TW",
+            "table": "island_skin_colordiff_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "KR",
+            "table": "island_chara_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "KR",
+            "table": "island_unit_character",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031100,
+              3031101,
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "KR",
+            "table": "island_strollnpc",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              30311
+            ],
+            "lua_only_record_ids": [
+              30311
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "KR",
+            "table": "island_skin_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031101
+            ],
+            "lua_only_record_ids": [
+              3031101
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          },
+          {
+            "locale": "KR",
+            "table": "island_skin_colordiff_template",
+            "json_record_ids": [],
+            "lua_record_ids": [
+              3031102
+            ],
+            "lua_only_record_ids": [
+              3031102
+            ],
+            "json_only_record_ids": [],
+            "lua_parse_error": null
+          }
+        ],
+        "status": "SUPPORTED_PRESENT",
+        "reason": "At least one regional client contains character-linked Island non-relationship evidence."
+      },
+      "analysis_corpus_updated": true
+    }
+  ],
+  "verdict": "SOURCE_AUGMENTATION_COMPLETE_WITH_DOCUMENTED_LIMITATIONS"
+}
