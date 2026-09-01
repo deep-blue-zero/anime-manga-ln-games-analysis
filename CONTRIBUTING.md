@@ -18,3 +18,5 @@ This is a public-facing personal project maintained solely by `deep-blue-zero`. 
 An external pull request may be technically possible after publication, but it will be closed without merge. Feedback may inform later owner work; any resulting upstream change will be independently authored and committed by `deep-blue-zero`.
 
 This boundary keeps upstream authorship and authority unambiguous while leaving readers free to maintain their own forks.
+
+The CC BY-NC 4.0 content license permits covered noncommercial reuse under its terms. It does not alter this contribution boundary or grant upstream write, merge, or collaborator authority.

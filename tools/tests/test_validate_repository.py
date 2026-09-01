@@ -32,6 +32,7 @@ from validate_repository import (  # noqa: E402
     identity_revision_for_snapshot,
     read_manifest_from_snapshot,
     require_g3_selection,
+    validate_audit_workflow,
     validate_commit_identities,
     validate_current_domain,
     validate_exact_set,
@@ -43,6 +44,36 @@ from validate_repository import (  # noqa: E402
 
 
 class PhaseValidationTests(unittest.TestCase):
+    def test_approved_repository_audit_workflow_is_non_mutating(self) -> None:
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        policy = json.loads(
+            snapshot.entries[
+                "governance/repository-controls/tracked-file-policy.json"
+            ].data
+        )
+        self.assertEqual(validate_audit_workflow(snapshot, policy), [])
+
+    def test_repository_audit_workflow_rejects_mutation_capability(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        baseline = (ROOT / path).read_bytes()
+        snapshot = GitSnapshot(
+            ROOT,
+            "IN_MEMORY",
+            {
+                path: SnapshotEntry(
+                    path,
+                    "100644",
+                    baseline + b"\n# prohibited test token: git push\n",
+                )
+            },
+        )
+        policy = {"allowed_workflows": [path]}
+        failures = validate_audit_workflow(snapshot, policy)
+        self.assertIn(
+            "repository-audit workflow contains prohibited capability: git push",
+            failures,
+        )
+
     def test_historical_g3_commit_exact_set(self) -> None:
         snapshot = GitSnapshot.from_commit(ROOT, G3_BOUND_COMMIT)
         expected = read_manifest_from_snapshot(snapshot, G3_MANIFEST)
@@ -493,7 +524,7 @@ class PhaseValidationTests(unittest.TestCase):
 
             shutil.rmtree(temporary, onexc=clear_readonly)
 
-    def test_current_cli_passes_only_with_explicit_schema_deferral(self) -> None:
+    def test_current_worktree_cli_fails_closed_until_evidence_is_staged(self) -> None:
         result = subprocess.run(
             [
                 sys.executable,
@@ -502,15 +533,14 @@ class PhaseValidationTests(unittest.TestCase):
                 "current",
                 "--snapshot",
                 "worktree",
-                "--defer-schema-engine",
                 "--repo",
                 str(ROOT),
             ],
             text=True,
             capture_output=True,
         )
-        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertIn("schema engine explicitly deferred", result.stdout)
+        self.assertNotEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertIn("worktree bytes cannot establish materialization", result.stdout)
 
 
 if __name__ == "__main__":

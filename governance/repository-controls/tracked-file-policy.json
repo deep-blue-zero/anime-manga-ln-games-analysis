@@ -3,7 +3,9 @@
   "allowed_roots": [
     ".github/",
     "characters/",
+    "crosswalk/",
     "governance/",
+    "provenance/",
     "series/",
     "studies/",
     "tools/"
@@ -14,16 +16,20 @@
     "AGENTS.md",
     "CHARACTER_ANALYSIS_INDEX.md",
     "CONTRIBUTING.md",
+    "LICENSE.md",
+    "THIRD_PARTY_NOTICES.md",
     "README.md"
   ],
   "forbidden_paths": [
     ".gitmodules",
-    ".github/workflows/",
     "credentials/",
     "evidence/",
     "private-evidence/",
     "raw/",
     "quarantine/"
+  ],
+  "allowed_workflows": [
+    ".github/workflows/repository-audit.yml"
   ],
   "allowed_text_extensions": [
     ".csv",
@@ -57,6 +63,7 @@
     ".sqlite",
     ".wav",
     ".webm",
+    ".xlsx",
     ".zip"
   ],
   "review_threshold_bytes": 1048576,

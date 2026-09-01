@@ -8,4 +8,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 
 ## Reviewed entries
 
-_No reviewed entries are present in the Git candidate._
+### YonaiP (U149 Producer)
+
+- Entity ID: `the-idolmaster:yonai-p`
+- Entity aliases:
+  - 米内P (ja, ORIGINAL_SCRIPT) — Japanese nickname for the U149 anime Producer.
+  - YonaiP (ja-latn, TRANSLITERATION) — Romanized form of 米内P.
+
+#### Subject: U149 anime Producer
+
+- Analysis subject ID: `the-idolmaster:yonai-p@u149-anime`
+- Series: `the-idolmaster-cinderella-girls-u149`
+- Continuity: `the-idolmaster-cinderella-girls-u149-anime`
+- Incarnation: `u149-anime-producer`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - U149P (en, ALTERNATIVE) — Continuity-specific label for the U149 Producer.
+  - プロデューサー (ja, ALTERNATIVE, ambiguous) — In-story designation that is ambiguous outside the U149 continuity.
+  - 471P (und, ALTERNATIVE) — Numeric wordplay for Yo-na-i.
+- Analytical coverage:
+  - `u149-anime-series`: ANIME OTHER: Producer-focused analysis across the U149 television anime and OVA; the full-series synthesis covers Episodes 1-12 and the OVA.; continuity `the-idolmaster-cinderella-girls-u149-anime`
+- Reviewed current evidence:
+  - [`u149-full-series-synthesis` — U149 full-series synthesis](series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/06%20Full-Series%20Synthesis/U149_FULL_SERIES_SYNTHESIS.md)
+  - [`yonai-p-monograph` — YonaiP Producer authorship analysis](series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/04%20Character%20and%20Specialist%20Analysis/U149_YONAIP_PRODUCER_AUTHORSHIP_ANALYSIS.md)

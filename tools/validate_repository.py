@@ -61,7 +61,6 @@ CURRENT_MANIFEST = "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
 G3_BOUND_COMMIT = "e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f"
 G3_BOUND_TREE = "d0bb00fa5d7a8735892921ba3c0023b4855ac52e"
 PROTECTED_HASHES = {
-    "characters/registry.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     G3_MANIFEST: "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191",
     "governance/repository-controls/bootstrap-bindings.json": "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17",
 }
@@ -151,6 +150,7 @@ def validate_paths(snapshot: GitSnapshot, policy: Mapping[str, Any]) -> list[str
     allowed_root_files = set(policy["allowed_root_files"])
     forbidden = tuple(policy["forbidden_paths"])
     external_extensions = set(policy["default_external_extensions"])
+    allowed_workflows = set(policy.get("allowed_workflows", []))
     for path, entry in snapshot.entries.items():
         try:
             validate_repository_path(path)
@@ -176,8 +176,73 @@ def validate_paths(snapshot: GitSnapshot, policy: Mapping[str, Any]) -> list[str
             errors.append(f"forbidden path: {path}")
         if Path(path).suffix.casefold() in external_extensions:
             errors.append(f"default-external artifact tracked without exception: {path}")
+        if path.startswith(".github/workflows/") and path not in allowed_workflows:
+            errors.append(f"workflow is outside the exact allowlist: {path}")
         if entry.mode != "100644":
             errors.append(f"non-regular or executable Git mode {entry.mode!r}: {path}")
+    for path in sorted(allowed_workflows):
+        if snapshot.get(path) is None:
+            errors.append(f"allowlisted workflow is missing: {path}")
+    return errors
+
+
+def validate_audit_workflow(
+    snapshot: GitSnapshot, policy: Mapping[str, Any]
+) -> list[str]:
+    """Enforce the settled single, non-mutating repository-audit workflow."""
+
+    expected = {".github/workflows/repository-audit.yml"}
+    declared = set(policy.get("allowed_workflows", []))
+    errors: list[str] = []
+    if declared != expected:
+        errors.append(
+            "allowed_workflows must contain only .github/workflows/repository-audit.yml"
+        )
+        return errors
+    entry = snapshot.get(".github/workflows/repository-audit.yml")
+    if entry is None:
+        return ["approved repository-audit workflow is missing"]
+    try:
+        text = entry.data.decode("utf-8", "strict")
+    except UnicodeDecodeError as exc:
+        return [f"repository-audit workflow is not UTF-8: {exc}"]
+
+    required_fragments = (
+        "name: Repository audit",
+        "  push:",
+        "      - main",
+        '      - "codex/**"',
+        '    - cron: "17 6 * * 0"',
+        "  workflow_dispatch:",
+        "permissions:\n  contents: read",
+        "runs-on: ubuntu-24.04",
+        "git fetch --no-tags --depth=2",
+        "--require-hashes",
+        "tools/validate_repository.py",
+        "tools/generate_character_index.py --check",
+        "python -m unittest discover",
+        'git show --check --format= "${GITHUB_SHA}"',
+    )
+    for fragment in required_fragments:
+        if fragment not in text:
+            errors.append(f"repository-audit workflow missing required contract: {fragment}")
+
+    forbidden_fragments = (
+        "pull_request",
+        "secrets.",
+        "uses:",
+        "contents: write",
+        "permissions: write",
+        "git push",
+        "git commit",
+        "git tag",
+        "actions/upload-artifact",
+        "GITHUB_TOKEN",
+        "gh ",
+    )
+    for fragment in forbidden_fragments:
+        if fragment in text:
+            errors.append(f"repository-audit workflow contains prohibited capability: {fragment}")
     return errors
 
 
@@ -499,6 +564,7 @@ def main() -> int:
         else:
             errors.extend(validate_protected(snapshot))
             errors.extend(validate_markdown_links(snapshot))
+            errors.extend(validate_audit_workflow(snapshot, policy))
             errors.extend(validate_current_domain(root, snapshot, not args.defer_schema_engine))
             if not args.defer_schema_engine:
                 generator_snapshot = "commit" if kind == "commit" else kind

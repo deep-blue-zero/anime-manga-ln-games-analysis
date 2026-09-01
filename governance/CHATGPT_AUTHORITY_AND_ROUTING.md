@@ -15,7 +15,7 @@ If these controls disagree, access is incomplete, or the referenced commit/tag c
 
 ## Current rule: before G8
 
-The GitHub repository is public, but Google Drive remains the analytical authority. Git content is a migration candidate and must not be presented as the active master. Migration operations may read Drive but may not rewrite, reorganize, delete, or clean it without a separate authorization.
+The GitHub repository is public, but Google Drive remains the analytical authority. The U149 tranche is present as a nonauthoritative migration candidate and must not be presented as the active master before G8. Migration operations may not rewrite, reorganize, delete, or clean Drive without separate authorization.
 
 ## Future rule: after verified G8 activation
 
@@ -31,7 +31,7 @@ Do not require series-local reconstruction manifests or create empty folders for
 
 ## Change routing
 
-Only owner-authorized work may modify upstream, and `deep-blue-zero` must remain the sole upstream human author and writer. Depending on provider settings, outsiders may be able to open issues, discussions, or pull-request proposals; none may be merged, cherry-picked, or imported upstream. Bots and automations remain non-writing unless separately authorized. Independent forks are separate downstream repositories and are never alternate upstream write surfaces.
+Only owner-authorized work may modify upstream, and `deep-blue-zero` must remain the sole upstream human author and writer. Depending on provider settings, outsiders may be able to open issues, discussions, or pull-request proposals; none may be merged, cherry-picked, or imported upstream. The sole workflow is a read-only repository audit and cannot write. Independent forks are separate downstream repositories and are never alternate upstream write surfaces.
 
 Use a bounded branch or an exact normal fast-forward owner push for each coherent change after branch controls are active. Validate source identity, destination path, links, size, secrets, rights, schema, generated-output drift, staged paths, committed blobs, remote state, and a clean clone before advancing a migration high-water mark. Because the remote is public, complete publication-safety validation must pass before every push; cleanup after publication is not an acceptable control.
 

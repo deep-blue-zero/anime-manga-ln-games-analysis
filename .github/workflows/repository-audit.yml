@@ -1,0 +1,47 @@
+name: Repository audit
+
+on:
+  push:
+    branches:
+      - main
+      - "codex/**"
+  schedule:
+    - cron: "17 6 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    name: Read-only integrity and publication audit
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:
+      PIP_DISABLE_PIP_VERSION_CHECK: "1"
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - name: Check out the exact public commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          git init .
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git fetch --no-tags --depth=2 origin "${GITHUB_SHA}"
+          git checkout --detach FETCH_HEAD
+          test "$(git rev-parse HEAD)" = "${GITHUB_SHA}"
+
+      - name: Install hash-locked validation dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --disable-pip-version-check --no-deps --require-hashes -r tools/requirements-validation.txt
+
+      - name: Validate the exact commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          python tools/validate_repository.py --phase current --snapshot commit --commit "${GITHUB_SHA}" --repo .
+          python tools/generate_character_index.py --check --snapshot commit --commit "${GITHUB_SHA}" --repo .
+          python -m unittest discover -s tools/tests -p "test_*.py"
+          git show --check --format= "${GITHUB_SHA}"

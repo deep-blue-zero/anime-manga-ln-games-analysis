@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import json
 import sys
 import unittest
 from pathlib import Path
@@ -663,17 +664,23 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             self.assertEqual(authority["status"], "NOT_AUTHORIZED")
 
     def test_migration_and_withdrawal_state_is_consistent(self) -> None:
-        expected = {
+        current_expected = {
             "completed_gate": "G3",
             "current_gate": "G4_REPRESENTATIVE_PILOTS",
-            "current_subphase": "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
+            "current_subphase": "U149_INTEGRATED_TRANCHE_CANDIDATE",
             "p01_p04_local_preparation": "PRESERVED_UNCHANGED",
             "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
+            "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED",
         }
-        for document in (self.scope, self.state, self.binding):
+        for document in (self.scope, self.state):
             with self.subTest(schema=document["schema"]):
-                for key, value in expected.items():
+                for key, value in current_expected.items():
                     self.assertEqual(document["migration"][key], value)
+        self.assertEqual(
+            self.binding["migration"]["current_subphase"],
+            "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
+        )
+        self.assertNotIn("p05_v2_status", self.binding["migration"])
 
     def test_public_activation_evidence_tuple_is_exact(self) -> None:
         publication = self.binding["repository_publication_activation"]
@@ -708,18 +715,33 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         repository = self.scope["repository"]
         self.assertEqual(repository["upstream_human_writers"], ["deep-blue-zero"])
         self.assertEqual(repository["external_contributions"], "NOT_ACCEPTED")
-        self.assertEqual(repository["license_status"], "UNLICENSED_PENDING_OWNER_DECISION")
+        self.assertEqual(
+            repository["license_status"], "CC_BY_NC_4_0_ORIGINAL_CONTENT_ONLY"
+        )
+        # The G3 public-activation binding remains immutable historical evidence.
         self.assertIs(self.binding["corpus_content_included"], False)
         self.assertEqual(
             self.binding["license_status"],
             "UNLICENSED_PENDING_OWNER_DECISION",
         )
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
-        self.assertEqual(series_registry["status"], "EMPTY_NO_CORPUS")
-        self.assertEqual(series_registry["series"], [])
+        self.assertEqual(series_registry["status"], "PARTIAL_G4_MIGRATION_CANDIDATE")
+        self.assertEqual(len(series_registry["series"]), 1)
         self.assertEqual(
-            (REPOSITORY_ROOT / "characters/registry.jsonl").read_bytes(),
-            b"",
+            series_registry["series"][0]["series_id"],
+            "the-idolmaster-cinderella-girls-u149",
+        )
+        character_rows = [
+            json.loads(line)
+            for line in (REPOSITORY_ROOT / "characters/registry.jsonl")
+            .read_text(encoding="utf-8")
+            .splitlines()
+            if line
+        ]
+        self.assertEqual(len(character_rows), 1)
+        self.assertEqual(
+            character_rows[0]["analysis_subject_id"],
+            "the-idolmaster:yonai-p@u149-anime",
         )
 
     def test_historical_private_bootstrap_bindings_are_unchanged(self) -> None:

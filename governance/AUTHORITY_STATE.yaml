@@ -8,9 +8,10 @@ migration:
   framework_version: 1.4.0-owner-review-candidate
   completed_gate: G3
   current_gate: G4_REPRESENTATIVE_PILOTS
-  current_subphase: P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING
+  current_subphase: U149_INTEGRATED_TRANCHE_CANDIDATE
   p01_p04_local_preparation: PRESERVED_UNCHANGED
   p05_v1_tuple: WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED
+  p05_v2_status: U149_YONAIP_PRESENT_REVIEWED
 repository:
   provider: GitHub
   owner: deep-blue-zero
@@ -24,13 +25,15 @@ repository:
     - deep-blue-zero
   external_contributions: NOT_ACCEPTED
   independent_forks: PERMITTED
-  license_status: UNLICENSED_PENDING_OWNER_DECISION
+  license_status: CC_BY_NC_4_0_ORIGINAL_CONTENT_ONLY
 publication:
   amendment_sha256: 577f789effc292ed32ef2450815e159fbd882a19b2afa8ad19bd14c81411420c
   visibility_activation: VERIFIED_G3_PUBLICATION_ACTIVATION
   evidence_binding: governance/repository-controls/public-activation-bindings.json
   final_history_audit: VERIFIED_AT_G3_CLOSURE_REVERIFY_BEFORE_PUBLIC_PUSH
   native_main_and_activation_tag_protections: VERIFIED_AT_G3_CLOSURE_REVERIFY_BEFORE_PUBLIC_PUSH
+  audit_workflow: READ_ONLY_NONMUTATING_REPOSITORY_CONTENT_AUDIT
+  first_tranche: THE_IDOLMASTER_CINDERELLA_GIRLS_U149
 analytical_authority_activation:
   required_gate: G8
   cutover_id: null

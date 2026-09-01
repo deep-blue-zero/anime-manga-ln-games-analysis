@@ -1,5 +1,17 @@
 {
   "schema": "anime-manga-ln-games-analysis/series-registry/v1",
-  "status": "EMPTY_NO_CORPUS",
-  "series": []
+  "status": "PARTIAL_G4_MIGRATION_CANDIDATE",
+  "series": [
+    {
+      "series_id": "the-idolmaster-cinderella-girls-u149",
+      "stable_slug": "the-idolmaster-cinderella-girls-u149",
+      "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS U149",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/the-idolmaster-cinderella-girls-u149/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    }
+  ]
 }

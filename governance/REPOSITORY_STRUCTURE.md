@@ -2,6 +2,8 @@
 
 ```text
 README.md
+LICENSE.md
+THIRD_PARTY_NOTICES.md
 CHARACTER_ANALYSIS_INDEX.md
 characters/
   registry.jsonl
@@ -15,6 +17,13 @@ governance/
   repository-controls/
     public-activation-bindings.json
   schemas/
+crosswalk/
+  drive-to-git.jsonl
+  materialization-results.jsonl
+  path-plan.jsonl
+provenance/
+  drive-artifacts/
+    DRIVE_ARTIFACT_REFERENCE_INDEX.md
 series/
   registry.json
   <stable-slug>/
@@ -30,4 +39,4 @@ Stable slugs use the best-known English or official Latin-script title, lowercas
 
 The approved clarification slug is `the-idolmaster-cinderella-girls-2015-anime`.
 
-No title-specific series or study tree has been committed yet. Google Drive remains the analytical authority until separately approved and verified G8 cutover.
+The first integrated series candidate is `series/the-idolmaster-cinderella-girls-u149/`. Google Drive remains the analytical authority until separately approved and verified G8 cutover.

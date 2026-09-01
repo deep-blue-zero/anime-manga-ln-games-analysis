@@ -12,7 +12,7 @@ The repository completed its G3 public-visibility activation. The exact activati
 
 GitHub must enforce `main` protection for administrators, require linear history, and prohibit force pushes and deletion. An active ruleset must prohibit deletion and non-fast-forward updates for `refs/tags/activation/**`. Before every later public push or activation-tag operation, provider controls and access surfaces must be reread. If they are absent or cannot be verified, the state is `UNVERIFIED` and the operation stops.
 
-No non-owner collaborator or team may receive write authority. Bots and automations remain non-writing unless separately authorized. Default GitHub Actions workflow permissions remain read-only. Adding a write-capable automation requires a separately hash-bound owner amendment.
+No non-owner collaborator or team may receive write authority. The sole tracked workflow, `.github/workflows/repository-audit.yml`, uses read-only contents permission and may only report audit success or failure. It has no secret, artifact-upload, auto-fix, commit, issue, pull-request, release, tag, or push authority. Every other workflow and every write-capable automation requires a separately hash-bound owner amendment.
 
 ## Publication safety
 
@@ -30,4 +30,4 @@ A failed publication check stops the push. Content must not be published first a
 
 ## License state
 
-No content license is currently selected. Public visibility does not select one. A recorded owner licensing and third-party-notice decision is required before the first substantive analytical corpus batch is published.
+Covered original content is licensed under CC BY-NC 4.0 within the exact scope in `../../LICENSE.md`. Quoted source text, franchise assets and marks, third-party material, referenced Drive artifacts, migration evidence, and repository software/tooling are excluded. `../../THIRD_PARTY_NOTICES.md` describes the public third-party boundary. The license grants no upstream contribution, merge, or write authority.

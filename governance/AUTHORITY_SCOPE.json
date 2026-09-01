@@ -5,9 +5,10 @@
   "migration": {
     "completed_gate": "G3",
     "current_gate": "G4_REPRESENTATIVE_PILOTS",
-    "current_subphase": "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
+    "current_subphase": "U149_INTEGRATED_TRANCHE_CANDIDATE",
     "p01_p04_local_preparation": "PRESERVED_UNCHANGED",
-    "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED"
+    "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
+    "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED"
   },
   "before_verified_g8_activation": {
     "analytical_authority": "GOOGLE_DRIVE",
@@ -33,12 +34,18 @@
     ],
     "external_contributions": "NOT_ACCEPTED",
     "independent_forks": "PERMITTED",
-    "license_status": "UNLICENSED_PENDING_OWNER_DECISION"
+    "license_status": "CC_BY_NC_4_0_ORIGINAL_CONTENT_ONLY"
   },
   "repository_publication_activation": {
     "status": "VERIFIED_G3_PUBLICATION_ACTIVATION",
     "evidence_binding": "governance/repository-controls/public-activation-bindings.json",
     "provider_state_scope": "VERIFIED_AT_G3_CLOSURE_REVERIFY_BEFORE_PUBLIC_PUSH"
+  },
+  "publication_controls": {
+    "audit_workflow": "READ_ONLY_NONMUTATING_REPOSITORY_CONTENT_AUDIT",
+    "workflow_path": ".github/workflows/repository-audit.yml",
+    "first_tranche": "the-idolmaster-cinderella-girls-u149",
+    "xlsx_disposition": "REFERENCE_DRIVE_WITH_TSV_AND_STRUCTURE_MANIFEST_AS_GIT_REPRESENTATIONS"
   },
   "analytical_authority_activation": {
     "required_gate": "G8",
@@ -50,7 +57,9 @@
     "series": "series/<stable-slug>/",
     "studies": "studies/<stable-slug>/",
     "characters": "characters/",
-    "governance": "governance/"
+    "governance": "governance/",
+    "crosswalk": "crosswalk/",
+    "provenance": "provenance/"
   },
   "analytical_authority_cutover": {
     "status": "NOT_STARTED",

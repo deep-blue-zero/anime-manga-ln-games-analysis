@@ -2,7 +2,7 @@
 
 `characters/registry.jsonl` is the canonical structured source for the generated root `CHARACTER_ANALYSIS_INDEX.md`. One nonblank JSONL line is one schema-v2 **analysis subject**. The Markdown index is a deterministic discovery view and must never be edited as independent authority.
 
-The production discovery registry is currently empty. The examples below are illustrative excerpts, not corpus records. Reconstruction capability is specified separately and is deliberately not populated.
+The production discovery registry contains its first reviewed subject: YonaiP, the U149 anime Producer. The examples below remain illustrative excerpts, not additional corpus records. Reconstruction capability is specified separately and is deliberately not populated.
 
 ## What this registry answers
 
