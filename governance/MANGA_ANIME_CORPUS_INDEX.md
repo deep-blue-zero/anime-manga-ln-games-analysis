@@ -1,6 +1,6 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public; G4 closed after all five representative archetypes passed; G5 progressive bounded migration active. U149, the partial IDOLY PRIDE P02 ledger, and the partial DJFW P03 control-state slice are materialized candidates. The P04 archive control is reference-only. The repository is not yet a complete corpus.
+> Repository state: public; G4 closed after all five representative archetypes passed; G5 progressive bounded migration active. U149, the complete reviewed Maebashi Witches V1 tree, the partial IDOLY PRIDE P02 ledger, and the partial DJFW P03 control-state slice are materialized candidates. The P04 archive control is reference-only. The repository is not yet a complete corpus.
 >
 > Analytical authority: Google Drive until a separately approved and verified G8 cutover. Git content remains a nonauthoritative migration candidate.
 
@@ -11,6 +11,7 @@ This is the Git-side candidate navigation index derived from the historical Driv
 See `../series/registry.json`.
 
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/00_README_AND_CORPUS_MAP.md) — episode readings, a YonaiP character monograph, full-series synthesis, manifest, and historical conversation provenance.
+- [Maebashi Witches](../series/maebashi-witches/V1%20Analysis/00_README_AND_CORPUS_MAP.md) — reviewed V1 episode readings, character and comparative analyses, manifest, historical conversation provenance, and seven Character Index v2 discovery records.
 - [IDOLY PRIDE — source-to-bundle provenance ledger](../series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.01%20Corpus%20Coverage%20and%20Priority%20Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv) — one byte-preserved, machine-readable P02 pilot artifact. This is a partial slice, not a complete IDOLY PRIDE migration; internal relative paths do not imply that their targets are present in Git.
 
 ## Studies

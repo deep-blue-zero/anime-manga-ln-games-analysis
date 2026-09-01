@@ -5,24 +5,35 @@
   "migration": {
     "completed_gate": "G4",
     "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-    "current_subphase": "G5_ENTRY_READY",
+    "current_subphase": "G5_T01_MAEBASHI_WITCHES_V1_INTEGRATED",
     "integrated_candidates": [
       "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
       "IDOLY_PRIDE_P02_SINGLE_LEDGER",
-      "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET"
+      "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET",
+      "MAEBASHI_WITCHES_V1"
     ],
     "integrated_reference_controls": [
       "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY"
     ],
     "p01_p04_local_preparation": "P04_COMPLETE_P01_P03_MATERIALIZED_P04_REFERENCE_ONLY",
     "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
-    "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED",
+    "p05_v2_status": "U149_YONAIP_AND_MAEBASHI_SEVEN_PRESENT_REVIEWED",
     "g4_phase_closure": {
       "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
       "audit_id": "g4-representative-pilot-completion-audit-20260901T062038Z",
       "audit_sha256": "794b5071897418cad5bee3b5bb91a8b941b049d5b26dc822e73d22958022876c",
       "pilot_high_water_commit": "ec2829f3026a29a51985576017c45465cd59ba4b",
       "pilot_high_water_tree": "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
+    },
+    "g5_progress": {
+      "last_tranche": "G5_T01_MAEBASHI_WITCHES_V1",
+      "run_id": "g5-t01-maebashi-witches-v1-20260901T065630Z",
+      "source_receipt_sha256": "47ca555a313ef0464323df3d84dbb80c628dad7e879ca62553c193c3b26ada45",
+      "transformation_receipt_sha256": "8310635453d699ade2c5346ad934562af17c328dbab4537a9d486ced0f7eebf7",
+      "source_objects": 18,
+      "payload_paths": 18,
+      "tracked_paths_after": 99,
+      "status": "MATERIALIZED_VALIDATED_GIT_TRANCHE"
     }
   },
   "before_verified_g8_activation": {

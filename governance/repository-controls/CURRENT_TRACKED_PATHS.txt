@@ -35,6 +35,24 @@ governance/schemas/native-sheet-structure.schema.json
 provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md
 series/README.md
 series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv
+series/maebashi-witches/V1 Analysis/00_README_AND_CORPUS_MAP.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E01_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E02_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E03_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E04_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E05_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E06_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E07_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E08_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E09_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E10_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E11_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E12_DEEP_READING.md
+series/maebashi-witches/V1 Analysis/04 Character and Specialist Analysis/MAEBASHI_YUINA_CHARACTER_ROLE_ANALYSIS.md
+series/maebashi-witches/V1 Analysis/05 Comparative Analysis/MAEBASHI_CHOCO_KOTONE_COMPARATIVE_ANALYSIS.md
+series/maebashi-witches/V1 Analysis/05 Comparative Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md
+series/maebashi-witches/V1 Analysis/90 Conversation Archives/Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md
+series/maebashi-witches/V1 Analysis/MANIFEST.md
 series/registry.json
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/00_README_AND_CORPUS_MAP.md
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/02 Sequential Episode Readings/U149_E01_DEEP_READING.md

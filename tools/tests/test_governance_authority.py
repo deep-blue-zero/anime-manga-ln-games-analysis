@@ -667,11 +667,12 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G4",
             "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-            "current_subphase": "G5_ENTRY_READY",
+            "current_subphase": "G5_T01_MAEBASHI_WITCHES_V1_INTEGRATED",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
                 "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET",
+                "MAEBASHI_WITCHES_V1",
             ],
             "integrated_reference_controls": [
                 "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY",
@@ -680,7 +681,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "P04_COMPLETE_P01_P03_MATERIALIZED_P04_REFERENCE_ONLY"
             ),
             "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
-            "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED",
+            "p05_v2_status": "U149_YONAIP_AND_MAEBASHI_SEVEN_PRESENT_REVIEWED",
             "g4_phase_closure": {
                 "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
                 "audit_id": (
@@ -695,6 +696,16 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "pilot_high_water_tree": (
                     "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
                 ),
+            },
+            "g5_progress": {
+                "last_tranche": "G5_T01_MAEBASHI_WITCHES_V1",
+                "run_id": "g5-t01-maebashi-witches-v1-20260901T065630Z",
+                "source_receipt_sha256": "47ca555a313ef0464323df3d84dbb80c628dad7e879ca62553c193c3b26ada45",
+                "transformation_receipt_sha256": "8310635453d699ade2c5346ad934562af17c328dbab4537a9d486ced0f7eebf7",
+                "source_objects": 18,
+                "payload_paths": 18,
+                "tracked_paths_after": 99,
+                "status": "MATERIALIZED_VALIDATED_GIT_TRANCHE",
             },
         }
         for document in (self.scope, self.state):
@@ -819,7 +830,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
         self.assertEqual(series_registry["status"], "PARTIAL_G5_MIGRATION_CANDIDATE")
-        self.assertEqual(len(series_registry["series"]), 2)
+        self.assertEqual(len(series_registry["series"]), 3)
         self.assertEqual(
             series_registry["series"][0]["series_id"],
             "the-idolmaster-cinderella-girls-u149",
@@ -837,6 +848,19 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "authority_status": "NONAUTHORITATIVE_PRE_G8",
             },
         )
+        self.assertEqual(
+            series_registry["series"][2],
+            {
+                "series_id": "maebashi-witches",
+                "stable_slug": "maebashi-witches",
+                "canonical_title": "Maebashi Witches",
+                "media": ["ANIME"],
+                "repository_path": "series/maebashi-witches/",
+                "materialization_status": "PRESENT_REVIEWED",
+                "migration_scope": "G5_T01_V1_ANALYSIS",
+                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+            },
+        )
         character_rows = [
             json.loads(line)
             for line in (REPOSITORY_ROOT / "characters/registry.jsonl")
@@ -844,11 +868,80 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             .splitlines()
             if line
         ]
-        self.assertEqual(len(character_rows), 1)
+        self.assertEqual(len(character_rows), 8)
+        subject_ids = {row["analysis_subject_id"] for row in character_rows}
         self.assertEqual(
-            character_rows[0]["analysis_subject_id"],
-            "the-idolmaster:yonai-p@u149-anime",
+            subject_ids,
+            {
+                "maebashi-witches:azu@anime",
+                "maebashi-witches:choco@anime",
+                "maebashi-witches:eiko@anime",
+                "maebashi-witches:keroppe@anime",
+                "maebashi-witches:kyouka@anime",
+                "maebashi-witches:mai@anime",
+                "maebashi-witches:yuina@anime",
+                "the-idolmaster:yonai-p@u149-anime",
+            },
         )
+
+    def test_g5_t01_maebashi_tuple_is_exact(self) -> None:
+        drive_ids = {
+            "1oS3WSBuGqIBweGj78r22X5-5dFDkVwe0",
+            "1NXOWAQ85SlLj3uWF5Egw1lOyy2h-tcO-",
+            "1mC0vJjRmBV3YzIWB1UK-KcknA1MFZCsm",
+            "1jUUbLFAVHpaBHp9K8CWycG_esjtxRLJI",
+            "1urCXJbXhdmAoZYXbSgkdUhD_m7-EfRn8",
+            "1VlG5GCo3PbvK1jmZbfYQkHdVX6iCGp9t",
+            "1ztx3DvgdG30PdGnBUDBUJbqIacY7hv6F",
+            "1fNAM4WXmvEXycPZcx2o_oAFHfO6cv4bC",
+            "1xupZMWBb79nrYn89ZnkQwj-UeRTPBZWo",
+            "1fArHXGsRYsSUvuUsAvMnGFnGesctRrQB",
+            "15eEqrgPqm4bsueJLimWr38KF0FQu7WGI",
+            "1VUTIyTexR2Ch88JUYMHCnZLrlKfeeaKT",
+            "1m_xF5IUZl0KAUUTcRTGgQ6mG5FDZXB5U",
+            "1oWQn-Diriute5gEdCEo2fzh02wsk80iG",
+            "1oIIffwFA2p8Lj7aHbyIlwoX-j1YOT79f",
+            "1MTZ4e8yawR4BN_XVoc0M5BRqF58W0pHb",
+            "12XohkkbKzZ9GNALwPI2VQeI44DIzlrOc",
+            "1xk_yDNujJmVI89QHtHuJVUQ4kdmuV9kY",
+        }
+
+        def rows(relative: str) -> list[dict[str, object]]:
+            return [
+                json.loads(line)
+                for line in (REPOSITORY_ROOT / relative)
+                .read_text(encoding="utf-8")
+                .splitlines()
+                if line
+            ]
+
+        mappings = [row for row in rows("crosswalk/drive-to-git.jsonl") if row["drive_id"] in drive_ids]
+        plans = [row for row in rows("crosswalk/path-plan.jsonl") if row["drive_id"] in drive_ids]
+        results = [row for row in rows("crosswalk/materialization-results.jsonl") if row["drive_id"] in drive_ids]
+        self.assertEqual(len(mappings), 18)
+        self.assertEqual(len(plans), 18)
+        self.assertEqual(len(results), 18)
+        self.assertEqual({row["drive_id"] for row in mappings}, drive_ids)
+        self.assertTrue(all(row["series_id"] == "maebashi-witches" for row in mappings))
+        self.assertTrue(all(row["decision"] == "MIGRATE_TEXT" for row in plans))
+        self.assertTrue(all(row["run_id"] == "g5-t01-maebashi-witches-v1-20260901T065630Z" for row in results))
+        self.assertTrue(all(row["result"] == "MATERIALIZED_AND_HASH_VERIFIED" for row in results))
+        self.assertTrue(all(row["destination_path"].startswith("series/maebashi-witches/V1 Analysis/") for row in results))
+
+        transcript = next(row for row in results if row["destination_path"].endswith("Full Transcript.md"))
+        self.assertIn("HISTORICAL_LEGACY_AUTHORITY_QUARTET", transcript["transformation"])
+        self.assertFalse(transcript["body_preserved"])
+        manifest = next(row for row in results if row["destination_path"].endswith("/MANIFEST.md"))
+        self.assertEqual(manifest["destination_bytes"], 2706)
+        self.assertEqual(manifest["destination_sha256"], "94c23fbbb6e040a64f8de1bfae8831912902661cdebba79393781bdf69f36101")
+
+        character_rows = rows("characters/registry.jsonl")
+        maebashi = [row for row in character_rows if row["series_id"] == "maebashi-witches"]
+        self.assertEqual(len(maebashi), 7)
+        self.assertTrue(all(row["materialization_status"] == "PRESENT_REVIEWED" for row in maebashi))
+        self.assertTrue(all(row["curation_status"] == "INCLUDED" for row in maebashi))
+        self.assertTrue(all(row["analytical_coverage"][0]["scope_type"] == "DESCRIPTIVE" for row in maebashi))
+        self.assertFalse(any("SPEECH" in row["analytical_dimensions"] for row in maebashi))
 
     def test_p02_exact_copy_and_reference_only_rows_are_consistent(self) -> None:
         migrated_id = "1EySpUScZKZ2irfYamER1e8FCrnjniGjk"
@@ -968,7 +1061,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
         ).read_text(encoding="utf-8").splitlines()
-        self.assertEqual(len(tracked_paths), 81)
+        self.assertEqual(len(tracked_paths), 99)
         self.assertEqual(tracked_paths, sorted(tracked_paths))
         self.assertTrue(expected_destinations.issubset(set(tracked_paths)))
         self.assertFalse(
@@ -1210,7 +1303,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
         ).read_text(encoding="utf-8").splitlines()
-        self.assertEqual(len(tracked_paths), 81)
+        self.assertEqual(len(tracked_paths), 99)
         self.assertFalse(any(path.casefold().endswith(".zip") for path in tracked_paths))
         self.assertFalse(
             any(path.startswith("series/gakuen-idolmaster/") for path in tracked_paths)

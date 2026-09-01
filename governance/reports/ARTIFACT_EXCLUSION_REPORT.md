@@ -2,7 +2,7 @@
 
 ## Scope
 
-This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, and the P04 ZIP/reference boundary. It is not the final archive-wide exclusion review.
+This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, and the P04 ZIP/reference boundary, and G5-T01 Maebashi Witches V1. It is not the final archive-wide exclusion review.
 
 ## U149 tranche
 
@@ -46,6 +46,19 @@ P04 records six archive identities totaling 814,501 bytes and materializes none 
 | `1oVFv4UQJbqqhY1nCnG9wmkduSh7mgM8U` | `Gakuen Idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/05_KATSURAGI_LILJA/GAKUEN_IDOLMASTER_PHASE3_LILJA_INTEGRATED_AV_R1.zip` | 398 | `03a863418e09542118a4afed9f23d034b9f0ee6a4f83f755d79826d29c641b91` | `REFERENCE_DRIVE`; no Git destination |
 | `1u3Yc2D3rhzUrhE1XKpTBdE0jj863xD6d` | `Gakuen Idolmaster/10_RELEASE_MANIFEST_AND_ARCHIVE/GAKUEN_IDOLMASTER_PHASE3_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.zip` | 429,394 | `7656ee5e8fd5cdf4909da218f35138d8f074754b19cf04b282186656df727294` | `REFERENCE_DRIVE`; no Git destination |
 | `1xajzp2rB8zhw0wcCykogJAKGahsPJdgA` | `Gakuen Idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/05_KATSURAGI_LILJA/GAKUEN_IDOLMASTER_PHASE3_LILJA_INTEGRATED_AV_R1.zip` | 246 | `cd71a44a4d598beb7138171e6c1ae2cfa28cb3da53fc900633f6e127e8d5b221` | `REFERENCE_DRIVE`; no Git destination |
+
+## G5-T01 Maebashi Witches V1
+
+The frozen Maebashi source slice contains exactly 18 Markdown artifacts totaling 1,478,455 source bytes. All are below 1 MiB, passed targeted publication-safety review, and were deterministically transformed into 1,476,404 candidate bytes. No binary, archive, Office/PDF original, generated corpus, LFS object, or named artifact exception is present.
+
+| Class | Count | Disposition | Reason |
+|---|---:|---|---|
+| Current analytical Markdown | 16 | `MIGRATE_TEXT` | Human- and LLM-readable reviewed analysis; authority arrays normalized |
+| Historical conversation transcript | 1 | `MIGRATE_TEXT_HISTORICAL_ONLY` | Provenance retained; current-authority veto applied |
+| Manifest | 1 | `MIGRATE_TEXT` | Post-transform sibling byte/hash integrity table |
+| Binary or excluded artifact | 0 | Not applicable | None occurs in the frozen tranche |
+
+Source verification receipt SHA-256: `47ca555a313ef0464323df3d84dbb80c628dad7e879ca62553c193c3b26ada45`. Transformation receipt SHA-256: `8310635453d699ade2c5346ad934562af17c328dbab4537a9d486ced0f7eebf7`.
 
 ## Default exclusions retained
 

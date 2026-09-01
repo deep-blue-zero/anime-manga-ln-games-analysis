@@ -8,6 +8,127 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 
 ## Reviewed entries
 
+### Azu
+
+- Entity ID: `maebashi-witches:azu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Maebashi Witches anime
+
+- Analysis subject ID: `maebashi-witches:azu@anime`
+- Series: `maebashi-witches`
+- Continuity: `maebashi-witches-anime`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
+- Reviewed current evidence:
+  - [`azu-fran-comparison` — Azu × fran — IDOLY PRIDE](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+
+### Choco
+
+- Entity ID: `maebashi-witches:choco`
+- Entity aliases:
+  - _None._
+
+#### Subject: Maebashi Witches anime
+
+- Analysis subject ID: `maebashi-witches:choco@anime`
+- Series: `maebashi-witches`
+- Continuity: `maebashi-witches-anime`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
+- Reviewed current evidence:
+  - [`choco-cyan-comparison` — Choco × Lucky Cyan — To Be Hero X](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+  - [`choco-kotone-comparison` — Comparative analysis](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CHOCO_KOTONE_COMPARATIVE_ANALYSIS.md)
+
+### Eiko
+
+- Entity ID: `maebashi-witches:eiko`
+- Entity aliases:
+  - _None._
+
+#### Subject: Maebashi Witches anime
+
+- Analysis subject ID: `maebashi-witches:eiko@anime`
+- Series: `maebashi-witches`
+- Continuity: `maebashi-witches-anime`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
+- Reviewed current evidence:
+  - [`eiko-oikura-comparison` — Eiko × Oikura Sodachi — Monogatari](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+
+### Keroppe
+
+- Entity ID: `maebashi-witches:keroppe`
+- Entity aliases:
+  - _None._
+
+#### Subject: Maebashi Witches anime
+
+- Analysis subject ID: `maebashi-witches:keroppe@anime`
+- Series: `maebashi-witches`
+- Continuity: `maebashi-witches-anime`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
+- Reviewed current evidence:
+  - [`keroppe-naoki-comparison` — Keroppe × Naoki — SHINE POST](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+
+### Kyouka
+
+- Entity ID: `maebashi-witches:kyouka`
+- Entity aliases:
+  - _None._
+
+#### Subject: Maebashi Witches anime
+
+- Analysis subject ID: `maebashi-witches:kyouka@anime`
+- Series: `maebashi-witches`
+- Continuity: `maebashi-witches-anime`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
+- Reviewed current evidence:
+  - [`kyouka-queen-comparison` — Kyouka × Queen — To Be Hero X](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+
+### Mai
+
+- Entity ID: `maebashi-witches:mai`
+- Entity aliases:
+  - _None._
+
+#### Subject: Maebashi Witches anime
+
+- Analysis subject ID: `maebashi-witches:mai@anime`
+- Series: `maebashi-witches`
+- Continuity: `maebashi-witches-anime`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
+- Reviewed current evidence:
+  - [`mai-misuzu-comparison` — Mai × Misuzu Hataya — Gakuen Idolmaster](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+
 ### YonaiP (U149 Producer)
 
 - Entity ID: `the-idolmaster:yonai-p`
@@ -32,3 +153,24 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`u149-full-series-synthesis` — U149 full-series synthesis](series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/06%20Full-Series%20Synthesis/U149_FULL_SERIES_SYNTHESIS.md)
   - [`yonai-p-monograph` — YonaiP Producer authorship analysis](series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/04%20Character%20and%20Specialist%20Analysis/U149_YONAIP_PRODUCER_AUTHORSHIP_ANALYSIS.md)
+
+### Yuina
+
+- Entity ID: `maebashi-witches:yuina`
+- Entity aliases:
+  - _None._
+
+#### Subject: Maebashi Witches anime
+
+- Analysis subject ID: `maebashi-witches:yuina@anime`
+- Series: `maebashi-witches`
+- Continuity: `maebashi-witches-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
+- Reviewed current evidence:
+  - [`yuina-role-analysis` — Character-role analysis](series/maebashi-witches/V1%20Analysis/04%20Character%20and%20Specialist%20Analysis/MAEBASHI_YUINA_CHARACTER_ROLE_ANALYSIS.md)
+  - [`yuina-sakuta-comparison` — Yuina × Sakuta Azusagawa — Rascal Does Not Dream](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
