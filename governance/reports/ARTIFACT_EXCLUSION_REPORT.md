@@ -2,7 +2,7 @@
 
 ## Scope
 
-This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, and the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, and G5-T02 Mass Effect comparative media. It is not the final archive-wide exclusion review.
+This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, and G5-T03 Genshin Impact Furina V1. It is not the final archive-wide exclusion review.
 
 ## U149 tranche
 
@@ -71,6 +71,19 @@ The frozen Mass Effect group contains exactly three Markdown artifacts totaling 
 | Binary or excluded artifact | 0 | Not applicable | None occurs in the frozen tranche |
 
 Source verification receipt SHA-256: `1fbe488a500180af2577b2037af5ff9fc4cb83481357f648eb2c9f8a46c82458`. Transformation receipt SHA-256: `abfefc964172556ff038e402f4a970dca4b41241325b02bcbe1be66d215e1f02`.
+
+## G5-T03 Genshin Impact Furina V1
+
+The frozen ordinary-object group contains 40 objects totaling 533,859 source bytes: 39 Git-eligible text and integrity artifacts totaling 367,030 source bytes, plus one 166,829-byte duplicate release ZIP. The 39 text artifacts passed publication-safety review and were deterministically transformed into 366,883 Git bytes. Thirty-seven Markdown files received authority-array normalization; the Markdown manifest, SHA256SUMS, and JSON corpus manifest were regenerated from exact destination bytes.
+
+| Class | Count | Disposition | Reason |
+|---|---:|---|---|
+| Reviewed Markdown analysis/control artifacts | 37 | `MIGRATE_TEXT` | Human- and LLM-readable bounded Furina corpus; authority arrays normalized |
+| Structured integrity manifest | 1 | `MIGRATE_TEXT` | Machine-readable JSON regenerated from exact Git candidates |
+| Checksum ledger | 1 | `MIGRATE_TEXT` | Human- and machine-readable SHA-256 closure over Markdown members |
+| Duplicate release ZIP | 1 | `REFERENCE_DRIVE` | Members duplicate the standalone payload; no binary, LFS, or release-bundle exception granted |
+
+Source/revision receipt SHA-256: `707ddb6c072e718fa6e26e6db4c63ee8fb1296e5c90729c662ae46d974e28f67`. Transformation/output-anchor receipt SHA-256: `3c9eb76634cefb047cdb969576c477acba70e11d16319d3fe8b90ac2c0e6440f`. The final 39-output table has SHA-256 `0c982199ad9939da12e329ee249c13f7447d62ceec99e222d797a0621b211858`.
 
 ## Default exclusions retained
 

@@ -34,6 +34,45 @@ governance/schemas/character-reconstruction-capability.schema.json
 governance/schemas/native-sheet-structure.schema.json
 provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md
 series/README.md
+series/genshin-impact/00 Frameworks and Methods/GENSHIN_FURINA_ANALYTICAL_METHOD.md
+series/genshin-impact/00 Frameworks and Methods/GENSHIN_FURINA_SYNTHESIS_ARCHITECTURE.md
+series/genshin-impact/01 Source Lock and Inventory/GENSHIN_FURINA_CORPUS_CHRONOLOGY_CROSSWALK.md
+series/genshin-impact/01 Source Lock and Inventory/GENSHIN_FURINA_SOURCE_LOCK.md
+series/genshin-impact/02 Sequential Readings/GENSHIN_FURINA_TR01_FONTAINE_ARRIVAL_AND_PUBLIC_AUTHORITY_DEEP_READING.md
+series/genshin-impact/02 Sequential Readings/GENSHIN_FURINA_TR02_LYNEY_TRIAL_DEEP_READING.md
+series/genshin-impact/02 Sequential Readings/GENSHIN_FURINA_TR03_VACHER_NAVIA_CASE_DEEP_READING.md
+series/genshin-impact/02 Sequential Readings/GENSHIN_FURINA_TR04_PROPHECY_ARLECCHINO_PRESSURE_DEEP_READING.md
+series/genshin-impact/02 Sequential Readings/GENSHIN_FURINA_TR05_POISSON_AND_TRIAL_DEEP_READING.md
+series/genshin-impact/02 Sequential Readings/GENSHIN_FURINA_TR06_FIVE_CENTURY_INTERIOR_HISTORY_DEEP_READING.md
+series/genshin-impact/02 Sequential Readings/GENSHIN_FURINA_TR07_STORY_QUEST_RECLAMATION_DEEP_READING.md
+series/genshin-impact/02 Sequential Readings/GENSHIN_FURINA_TR08_TABLETOP_ROLEPLAY_REINTEGRATION_DEEP_READING.md
+series/genshin-impact/02 Sequential Readings/GENSHIN_FURINA_TR09_POST_ROLE_ARTISTIC_REPERTOIRE_DEEP_READING.md
+series/genshin-impact/03 Longitudinal Ledgers/GENSHIN_FURINA_AGENCY_DUTY_AND_CONSTRAINT_LEDGER.md
+series/genshin-impact/03 Longitudinal Ledgers/GENSHIN_FURINA_CHARACTER_STATE_LEDGER.md
+series/genshin-impact/03 Longitudinal Ledgers/GENSHIN_FURINA_CLAIM_REVISION_LEDGER.md
+series/genshin-impact/03 Longitudinal Ledgers/GENSHIN_FURINA_PUBLIC_PRIVATE_SELF_LEDGER.md
+series/genshin-impact/03 Longitudinal Ledgers/GENSHIN_FURINA_RELATIONSHIP_STATE_LEDGER.md
+series/genshin-impact/03 Longitudinal Ledgers/GENSHIN_FURINA_SELF_EVALUATION_AND_REGULATION_LEDGER.md
+series/genshin-impact/03 Longitudinal Ledgers/GENSHIN_FURINA_SPEECH_REGISTER_LEDGER.md
+series/genshin-impact/03 Longitudinal Ledgers/GENSHIN_FURINA_THIRD_PARTY_CHARACTERIZATION_LEDGER.md
+series/genshin-impact/03 Longitudinal Ledgers/GENSHIN_FURINA_VALUES_AND_DECISION_RULES_LEDGER.md
+series/genshin-impact/04 Specialist Synthesis/GENSHIN_FURINA_BEHAVIORAL_RECONSTRUCTION_AND_LONGITUDINAL_CHANGE_SPECIALIST_SYNTHESIS.md
+series/genshin-impact/04 Specialist Synthesis/GENSHIN_FURINA_DUTY_AGENCY_JUSTICE_AND_SECRECY_SPECIALIST_SYNTHESIS.md
+series/genshin-impact/04 Specialist Synthesis/GENSHIN_FURINA_PERFORMANCE_IDENTITY_AND_SELF_AUTHORSHIP_SPECIALIST_SYNTHESIS.md
+series/genshin-impact/04 Specialist Synthesis/GENSHIN_FURINA_PROFILE_SELF_DESCRIPTION_PASS.md
+series/genshin-impact/04 Specialist Synthesis/GENSHIN_FURINA_RELATIONAL_PSYCHOLOGY_AND_RECIPROCITY_SPECIALIST_SYNTHESIS.md
+series/genshin-impact/04 Specialist Synthesis/GENSHIN_FURINA_RELATIONSHIP_CONSOLIDATION.md
+series/genshin-impact/04 Specialist Synthesis/GENSHIN_FURINA_SPEECH_REGISTER_AND_SOCIAL_ADAPTATION_SPECIALIST_SYNTHESIS.md
+series/genshin-impact/04 Specialist Synthesis/GENSHIN_FURINA_THIRD_PARTY_EVIDENCE_PASS.md
+series/genshin-impact/05 Character Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md
+series/genshin-impact/06 Evidence and Indexes/GENSHIN_FURINA_CLAIM_EVIDENCE_MATRIX.md
+series/genshin-impact/06 Evidence and Indexes/GENSHIN_FURINA_LOCATOR_INDEX.md
+series/genshin-impact/06 Evidence and Indexes/GENSHIN_FURINA_OPEN_EVIDENCE_BOUNDARY.md
+series/genshin-impact/08 Audits and Manifests/GENSHIN_FURINA_CONTINUOUS_PASS_COMPLETION_AUDIT.md
+series/genshin-impact/08 Audits and Manifests/GENSHIN_FURINA_CORPUS_MANIFEST.json
+series/genshin-impact/08 Audits and Manifests/GENSHIN_FURINA_CORPUS_MANIFEST.md
+series/genshin-impact/08 Audits and Manifests/SHA256SUMS.txt
+series/genshin-impact/CURRENT_STATE_AND_CORPUS_MAP.md
 series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv
 series/maebashi-witches/V1 Analysis/00_README_AND_CORPUS_MAP.md
 series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E01_DEEP_READING.md

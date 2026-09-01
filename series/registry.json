@@ -48,6 +48,18 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "genshin-impact",
+      "stable_slug": "genshin-impact",
+      "canonical_title": "Genshin Impact",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "series/genshin-impact/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T03_FURINA_MONOGRAPH_V1_COMPLETE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
     }
   ]
 }

@@ -667,13 +667,14 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G4",
             "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-            "current_subphase": "G5_T02_MASS_EFFECT_INTEGRATED",
+            "current_subphase": "G5_T03_GENSHIN_IMPACT_FURINA_INTEGRATED",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
                 "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET",
                 "MAEBASHI_WITCHES_V1",
                 "MASS_EFFECT_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
+                "GENSHIN_IMPACT_FURINA_MONOGRAPH_V1",
             ],
             "integrated_reference_controls": [
                 "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY",
@@ -683,7 +684,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             ),
             "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
             "p05_v2_status": (
-                "U149_YONAIP_MAEBASHI_SEVEN_AND_MASS_EFFECT_TWO_PRESENT_REVIEWED"
+                "U149_YONAIP_MAEBASHI_SEVEN_MASS_EFFECT_TWO_AND_GENSHIN_FURINA_PRESENT_REVIEWED"
             ),
             "g4_phase_closure": {
                 "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
@@ -701,13 +702,18 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 ),
             },
             "g5_progress": {
-                "last_tranche": "G5_T02_MASS_EFFECT_COMPARATIVE_MEDIA",
-                "run_id": "g5-t02-mass-effect-20260901T074800Z",
-                "source_receipt_sha256": "1fbe488a500180af2577b2037af5ff9fc4cb83481357f648eb2c9f8a46c82458",
-                "transformation_receipt_sha256": "abfefc964172556ff038e402f4a970dca4b41241325b02bcbe1be66d215e1f02",
-                "source_objects": 3,
-                "payload_paths": 3,
-                "tracked_paths_after": 102,
+                "last_tranche": "G5_T03_GENSHIN_IMPACT_FURINA_V1",
+                "run_id": "g5-t03-genshin-impact-20260901T090435Z",
+                "source_receipt_sha256": "707ddb6c072e718fa6e26e6db4c63ee8fb1296e5c90729c662ae46d974e28f67",
+                "transformation_receipt_sha256": "3c9eb76634cefb047cdb969576c477acba70e11d16319d3fe8b90ac2c0e6440f",
+                "source_objects": 40,
+                "payload_paths": 39,
+                "tracked_paths_after": len(
+                    (
+                        REPOSITORY_ROOT
+                        / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
+                    ).read_text(encoding="utf-8").splitlines()
+                ),
                 "status": "MATERIALIZED_VALIDATED_GIT_TRANCHE",
             },
         }
@@ -833,13 +839,24 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
         self.assertEqual(series_registry["status"], "PARTIAL_G5_MIGRATION_CANDIDATE")
-        self.assertEqual(len(series_registry["series"]), 4)
+        series_ids = [row["series_id"] for row in series_registry["series"]]
+        self.assertEqual(len(series_ids), len(set(series_ids)))
+        self.assertTrue(
+            {
+                "the-idolmaster-cinderella-girls-u149",
+                "idoly-pride",
+                "maebashi-witches",
+                "mass-effect",
+                "genshin-impact",
+            }.issubset(set(series_ids))
+        )
+        series_by_id = {row["series_id"]: row for row in series_registry["series"]}
         self.assertEqual(
-            series_registry["series"][0]["series_id"],
+            series_by_id["the-idolmaster-cinderella-girls-u149"]["series_id"],
             "the-idolmaster-cinderella-girls-u149",
         )
         self.assertEqual(
-            series_registry["series"][1],
+            series_by_id["idoly-pride"],
             {
                 "series_id": "idoly-pride",
                 "stable_slug": "idoly-pride",
@@ -852,7 +869,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             },
         )
         self.assertEqual(
-            series_registry["series"][2],
+            series_by_id["maebashi-witches"],
             {
                 "series_id": "maebashi-witches",
                 "stable_slug": "maebashi-witches",
@@ -865,7 +882,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             },
         )
         self.assertEqual(
-            series_registry["series"][3],
+            series_by_id["mass-effect"],
             {
                 "series_id": "mass-effect",
                 "stable_slug": "mass-effect",
@@ -877,6 +894,19 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "authority_status": "NONAUTHORITATIVE_PRE_G8",
             },
         )
+        self.assertEqual(
+            series_by_id["genshin-impact"],
+            {
+                "series_id": "genshin-impact",
+                "stable_slug": "genshin-impact",
+                "canonical_title": "Genshin Impact",
+                "media": ["GAME"],
+                "repository_path": "series/genshin-impact/",
+                "materialization_status": "PRESENT_REVIEWED",
+                "migration_scope": "G5_T03_FURINA_MONOGRAPH_V1_COMPLETE",
+                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+            },
+        )
         character_rows = [
             json.loads(line)
             for line in (REPOSITORY_ROOT / "characters/registry.jsonl")
@@ -884,10 +914,12 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             .splitlines()
             if line
         ]
-        self.assertEqual(len(character_rows), 10)
-        subject_ids = {row["analysis_subject_id"] for row in character_rows}
         self.assertEqual(
-            subject_ids,
+            len(character_rows),
+            len({row["analysis_subject_id"] for row in character_rows}),
+        )
+        subject_ids = {row["analysis_subject_id"] for row in character_rows}
+        self.assertTrue(
             {
                 "maebashi-witches:azu@anime",
                 "maebashi-witches:choco@anime",
@@ -899,8 +931,59 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "maebashi-witches:mai@anime",
                 "maebashi-witches:yuina@anime",
                 "the-idolmaster:yonai-p@u149-anime",
-            },
+                "genshin-impact:furina@game",
+            }.issubset(subject_ids)
         )
+        furina = next(
+            row
+            for row in character_rows
+            if row["analysis_subject_id"] == "genshin-impact:furina@game"
+        )
+        self.assertEqual(furina, json.loads('{"schema_version":2,"character_entity_id":"genshin-impact:furina","analysis_subject_id":"genshin-impact:furina@game","preferred_name":"Furina","subject_label":"Genshin Impact game","series_id":"genshin-impact","franchise_id":null,"continuity_id":"genshin-impact-game","incarnation_id":null,"state_id":null,"subject_kind":"SINGLE_CONTINUITY","entity_aliases":[],"subject_aliases":[],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","ETHICS","RELATIONSHIPS","IDEOLOGY","DECISION_MAKING"],"evidence":[{"evidence_id":"furina-character-monograph","repository_path":"series/genshin-impact/05 Character Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md","label":"Furina character monograph","anchor":null,"review_state":"REVIEWED","dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","ETHICS","RELATIONSHIPS","IDEOLOGY","DECISION_MAKING"],"provenance_note":"Migrated from preserved Drive object 1bdGqSGEwzlclEe9c-2OmxMKJEh_W7S_D."}],"analytical_coverage":[{"coverage_id":"furina-v1-corpus","continuity_id":"genshin-impact-game","medium":"GAME","unit":"OTHER","scope_type":"DESCRIPTIVE","evidence_ids":["furina-character-monograph"],"scope_note":"Furina V1 synthesis centered on the Fontaine Archon Quest and Furina Story Quest within the Genshin Impact 7.0.0 Tier-A corpus; this describes the reviewed source boundary and does not claim exhaustive coverage of all events or audio performance evidence."}],"materialization_status":"PRESENT_REVIEWED","curation_status":"INCLUDED","inclusion_basis":"DEDICATED","notes":"Dedicated active-provisional Furina V1 monograph; nonauthoritative before G8."}'))
+
+        def rows(relative: str) -> list[dict[str, object]]:
+            return [
+                json.loads(line)
+                for line in (REPOSITORY_ROOT / relative)
+                .read_text(encoding="utf-8")
+                .splitlines()
+                if line
+            ]
+
+        mappings = [
+            row
+            for row in rows("crosswalk/drive-to-git.jsonl")
+            if row.get("series_id") == "genshin-impact"
+        ]
+        self.assertEqual(len(mappings), 39)
+        output_table = "".join(
+            f"{row['git_path']}\t{row['git_bytes']}\t{row['git_sha256']}\n"
+            for row in sorted(mappings, key=lambda item: item["git_path"].encode("utf-8"))
+        ).encode("utf-8")
+        self.assertEqual(
+            hashlib.sha256(output_table).hexdigest(),
+            "0c982199ad9939da12e329ee249c13f7447d62ceec99e222d797a0621b211858",
+        )
+        plans = [
+            row
+            for row in rows("crosswalk/path-plan.jsonl")
+            if row.get("destination_path", "").startswith("series/genshin-impact/")
+            or row.get("drive_id") == "1PpP4UJVp7EmFwhMO4tnOebhu0nm-Rzzh"
+        ]
+        results = [
+            row
+            for row in rows("crosswalk/materialization-results.jsonl")
+            if row.get("run_id") == "g5-t03-genshin-impact-20260901T090435Z"
+        ]
+        self.assertEqual(len(plans), 40)
+        self.assertEqual(len(results), 40)
+        reference_plan = next(row for row in plans if row["drive_id"] == "1PpP4UJVp7EmFwhMO4tnOebhu0nm-Rzzh")
+        reference_result = next(row for row in results if row["drive_id"] == "1PpP4UJVp7EmFwhMO4tnOebhu0nm-Rzzh")
+        self.assertEqual(reference_plan["decision"], "REFERENCE_DRIVE")
+        self.assertNotIn("destination_path", reference_plan)
+        self.assertEqual(reference_result["result"], "REFERENCE_VERIFIED_NOT_MATERIALIZED")
+        self.assertEqual(reference_result["source_sha256"], "ec5267566cd0cf7333d30c3aaa67f131f6c65cd9e5966f77a216c0d23d74687b")
+        self.assertNotIn("destination_path", reference_result)
 
     def test_g5_t01_maebashi_tuple_is_exact(self) -> None:
         drive_ids = {
@@ -1138,7 +1221,10 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
         ).read_text(encoding="utf-8").splitlines()
-        self.assertEqual(len(tracked_paths), 102)
+        self.assertEqual(
+            len(tracked_paths),
+            self.scope["migration"]["g5_progress"]["tracked_paths_after"],
+        )
         self.assertEqual(tracked_paths, sorted(tracked_paths))
         self.assertTrue(expected_destinations.issubset(set(tracked_paths)))
         self.assertFalse(
@@ -1380,7 +1466,10 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
         ).read_text(encoding="utf-8").splitlines()
-        self.assertEqual(len(tracked_paths), 102)
+        self.assertEqual(
+            len(tracked_paths),
+            self.scope["migration"]["g5_progress"]["tracked_paths_after"],
+        )
         self.assertFalse(any(path.casefold().endswith(".zip") for path in tracked_paths))
         self.assertFalse(
             any(path.startswith("series/gakuen-idolmaster/") for path in tracked_paths)

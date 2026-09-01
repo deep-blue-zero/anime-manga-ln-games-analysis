@@ -105,6 +105,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`eiko-oikura-comparison` — Eiko × Oikura Sodachi — Monogatari](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Furina
+
+- Entity ID: `genshin-impact:furina`
+- Entity aliases:
+  - _None._
+
+#### Subject: Genshin Impact game
+
+- Analysis subject ID: `genshin-impact:furina@game`
+- Series: `genshin-impact`
+- Continuity: `genshin-impact-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `furina-v1-corpus`: GAME OTHER: Furina V1 synthesis centered on the Fontaine Archon Quest and Furina Story Quest within the Genshin Impact 7.0.0 Tier-A corpus; this describes the reviewed source boundary and does not claim exhaustive coverage of all events or audio performance evidence.; continuity `genshin-impact-game`
+- Reviewed current evidence:
+  - [`furina-character-monograph` — Furina character monograph](series/genshin-impact/05%20Character%20Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 ### Keroppe
 
 - Entity ID: `maebashi-witches:keroppe`
