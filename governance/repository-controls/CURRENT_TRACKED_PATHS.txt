@@ -110,6 +110,26 @@ series/genshin-impact/08 Audits and Manifests/GENSHIN_FURINA_CORPUS_MANIFEST.md
 series/genshin-impact/08 Audits and Manifests/SHA256SUMS.txt
 series/genshin-impact/CURRENT_STATE_AND_CORPUS_MAP.md
 series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv
+series/legend-of-the-galactic-heroes/00 Frameworks/LOGH_Full_Series_Analytical_Method_v1.md
+series/legend-of-the-galactic-heroes/00 Frameworks/LOGH_Multi_Document_Synthesis_Architecture_v1.md
+series/legend-of-the-galactic-heroes/03 Evidence and Crosswalk/14_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+series/legend-of-the-galactic-heroes/03 Evidence and Crosswalk/15_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/01_SERIES_ARCHITECTURE_CHRONOLOGY_AND_VOLUME_PROGRESSION.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/02_REINHARD_VON_LOHENGRAMM_CHARACTER_AND_PHILOSOPHY.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/03_YANG_WENLI_CHARACTER_AND_PHILOSOPHY.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/04_RELATIONSHIPS_FAMILY_FRIENDSHIP_AND_POLITICAL_INHERITANCE.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/05_IMPERIAL_ENSEMBLE_AND_THE_LOHENGRAMM_ORDER.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/06_REPUBLICAN_ENSEMBLE_AND_THE_ISERLOHN_COMMUNITY.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/07_FEZZAN_EARTH_CULT_AND_THIRD_FORCES.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/08_REGIMES_LEGITIMACY_AND_STATECRAFT.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/09_WAR_COMMAND_LOGISTICS_GEOGRAPHY_AND_MILITARY_TECHNOLOGY.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/10_ETHICS_CIVIL_MILITARY_RELATIONS_AND_POLITICAL_VIOLENCE.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/11_HISTORIOGRAPHY_NARRATION_JAPANESE_LANGUAGE_GENRE_AND_MOTIFS.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/12_GAIDEN_PREHISTORY_PARATEXT_AND_RETROSPECTIVE_REVISION.md
+series/legend-of-the-galactic-heroes/04 Specialist Synthesis/13_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md
+series/legend-of-the-galactic-heroes/05 Final Release/00_README.md
+series/legend-of-the-galactic-heroes/05 Final Release/LOGH_Definitive_Full_Series_Synthesis_v1.zip.sha256
+series/legend-of-the-galactic-heroes/LOGH_DRIVE_MIRROR_STATUS.md
 series/maebashi-witches/V1 Analysis/00_README_AND_CORPUS_MAP.md
 series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E01_DEEP_READING.md
 series/maebashi-witches/V1 Analysis/02 Sequential Episode Readings/MAEBASHI_E02_DEEP_READING.md

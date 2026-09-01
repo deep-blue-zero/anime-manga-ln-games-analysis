@@ -96,6 +96,18 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T06_V2_ANALYTICAL_CORPUS",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "legend-of-the-galactic-heroes",
+      "stable_slug": "legend-of-the-galactic-heroes",
+      "canonical_title": "Legend of the Galactic Heroes",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/legend-of-the-galactic-heroes/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T07_LOGH_FULL_PREFIX",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
     }
   ]
 }

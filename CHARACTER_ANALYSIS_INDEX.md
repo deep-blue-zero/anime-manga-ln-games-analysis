@@ -529,6 +529,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
 
+### Reinhard von Lohengramm
+
+- Entity ID: `legend-of-the-galactic-heroes:reinhard-von-lohengramm`
+- Entity aliases:
+  - Reinhard von Müsel (en, ALTERNATIVE) — Pre-Lohengramm family name explicitly analyzed in the monograph.
+  - ラインハルト・フォン・ローエングラム (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Legend of the Galactic Heroes original novels
+
+- Analysis subject ID: `legend-of-the-galactic-heroes:reinhard-von-lohengramm@original-novels`
+- Series: `legend-of-the-galactic-heroes`
+- Continuity: `legend-of-the-galactic-heroes-original-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `complete-original-novel-corpus`: LIGHT_NOVEL VOLUME: Dedicated reviewed synthesis across the ten main novels and five gaiden volumes in the supplied Japanese corpus; this does not claim coverage of anime, manga, or other adaptation incarnations.; continuity `legend-of-the-galactic-heroes-original-novels`
+- Reviewed current evidence:
+  - [`dedicated-character-and-philosophy-monograph` — Dedicated Reinhard von Lohengramm character, philosophy, and rule monograph](series/legend-of-the-galactic-heroes/04%20Specialist%20Synthesis/02_REINHARD_VON_LOHENGRAMM_CHARACTER_AND_PHILOSOPHY.md)
+
 ### Sensei
 
 - Entity ID: `blue-archive:sensei`
@@ -615,6 +636,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`takagaki-kaede-mobile-game-monograph` — Takagaki Kaede mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`takagaki-kaede-mobile-game-monograph-audit` — Takagaki Kaede mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_MONOGRAPH_AUDIT.md)
+
+### Yang Wen-li
+
+- Entity ID: `legend-of-the-galactic-heroes:yang-wen-li`
+- Entity aliases:
+  - ヤン・ウェンリー (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Legend of the Galactic Heroes original novels
+
+- Analysis subject ID: `legend-of-the-galactic-heroes:yang-wen-li@original-novels`
+- Series: `legend-of-the-galactic-heroes`
+- Continuity: `legend-of-the-galactic-heroes-original-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `complete-original-novel-corpus`: LIGHT_NOVEL VOLUME: Dedicated reviewed synthesis across the ten main novels and five gaiden volumes in the supplied Japanese corpus; this does not claim coverage of anime, manga, or other adaptation incarnations.; continuity `legend-of-the-galactic-heroes-original-novels`
+- Reviewed current evidence:
+  - [`dedicated-character-and-philosophy-monograph` — Dedicated Yang Wen-li character, philosophy, and democratic-restraint monograph](series/legend-of-the-galactic-heroes/04%20Specialist%20Synthesis/03_YANG_WENLI_CHARACTER_AND_PHILOSOPHY.md)
 
 ### YonaiP (U149 Producer)
 

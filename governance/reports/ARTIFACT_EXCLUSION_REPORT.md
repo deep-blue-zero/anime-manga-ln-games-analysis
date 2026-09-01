@@ -2,7 +2,7 @@
 
 ## Scope
 
-This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, G5-T03 Genshin Impact Furina V1, G5-T04 Cinderella Girls mobile-game analysis, G5-T05 Blue Archive Prologue/Chapter 1 analysis, and G5-T06 Youjo Senki V2 analysis. It is not the final archive-wide exclusion review.
+This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, G5-T03 Genshin Impact Furina V1, G5-T04 Cinderella Girls mobile-game analysis, G5-T05 Blue Archive Prologue/Chapter 1 analysis, G5-T06 Youjo Senki V2 analysis, and G5-T07 Legend of the Galactic Heroes analysis. It is not the final archive-wide exclusion review.
 
 ## U149 tranche
 
@@ -160,6 +160,42 @@ Reference-only structural folders:
 | `1TomsYaw1BmQMRp-JuMils2PeHzl375uo` | `Youjo Senki/06 Character Modeling and Reconstruction/03 Relationship Registers` | `553c8cc09c491a282515fa8e430db5caa8272ce681c23e699985d028dffa6fc1` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
 | `1dPqF3RjqawccCi8LA59QVMXsp2KDvH63` | `Youjo Senki/06 Character Modeling and Reconstruction/04 QA and Simulation` | `13b0f0eff615c0875ad759c985e3ecdbf07359ef4233cf72ee22e00a03bd1fa6` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
 | `1q1xEv83Ld8KGENT_cZTN3OhAzjoFqzzs` | `Youjo Senki/V2 Analysis` | `bdba3156297b9a2761f0ab9301620a77c38098bb8af758e5e8a98ac1faaa2e18` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+
+## G5-T07 Legend of the Galactic Heroes analysis
+
+The frozen full-prefix boundary contains 33 selected objects. Twenty reviewed text artifacts totaling 1,212,175 Git bytes materialize after the exact frozen authority-quartet and relative-link transformations. Five ZIP archives, one primary-source pointer, and seven structural folders remain `REFERENCE_DRIVE`; no archive, LFS, primary-source, large-text, rights, or named artifact exception is introduced. Two dedicated current-eligible monographs create Character Index v2 records for Reinhard von Lohengramm and Yang Wen-li, scoped only to the original novels.
+
+| Class | Count | Disposition | Reason |
+|---|---:|---|---|
+| Reviewed analytical text | 20 | `MIGRATE_TEXT` | Human- and LLM-readable analysis with exact frozen output hashes |
+| ZIP archives | 5 | `REFERENCE_DRIVE` | Binary release/source bundles excluded under the standing policy |
+| Primary-source pointer | 1 | `REFERENCE_DRIVE` | Deliberately not acquired under the primary-source boundary |
+| Structural Drive folders | 7 | `REFERENCE_DRIVE` | Hierarchy/provenance metadata only |
+
+Source-selection receipt SHA-256: `52b54972987e4f5f5eaa78e8f64ccaa768d1f54b34d27f2f807500b420325a63`. Inert materialization receipt SHA-256: `d30dcb4b570458448ab3cc2912e04755564bdd3ed9efbbdc49b38771cddb4b4c`. The final 20-output table has SHA-256 `ef40a427c745624d4dd14b7a4051a3f5427807f4fe50e1cc66b00ebcfd372065`.
+
+Reference-only ordinary artifacts:
+
+| Drive ID | Source path | Bytes | SHA-256 | Reason | Disposition |
+|---|---|---:|---|---|---|
+| `1QZEzzoL0fFxZwjQKEJNlmMeiravgFeZN` | `Legend of the Galactic Heroes/01 Primary Sources/LOGH_PRIMARY_SOURCE_POINTER.md` | 702 | `1c42cd3f11b692814739466c7b79cfb34f75b4aa04794763532a5b58e7a73b72` | `PRIMARY_SOURCE_POINTER_NOT_ACQUIRED_BY_POLICY` | `REFERENCE_DRIVE` |
+| `1cU4EAu8n1VtQ-tDEG6JGGEmYXjXi_mwu` | `Legend of the Galactic Heroes/02 Source Audits/LOGH_Source_Audits_v1.zip` | 14360 | `bac304df6551907eb06b30c954d30b8946e17bd5daff665cfab8703d8c134e22` | `BINARY_ARCHIVE_REFERENCE_DRIVE` | `REFERENCE_DRIVE` |
+| `1JGXiu3Hca8mzSEXJo9QekM43gxx2eHKl` | `Legend of the Galactic Heroes/03 Evidence and Crosswalk/LOGH_Evidence_and_Crosswalk_v1.zip` | 238412 | `4c46ab4e0f60af8b8082951680c490802e4b2b62fa9dca743ce77f40b532b344` | `BINARY_ARCHIVE_REFERENCE_DRIVE` | `REFERENCE_DRIVE` |
+| `1arKCKniMDN2i5unIN4bpItlC1_gK53F5` | `Legend of the Galactic Heroes/04 Specialist Synthesis/LOGH_Specialist_Synthesis_Documents_v1_compressed.zip` | 339145 | `7dff52bf5a31af93162f516788fbaff406333d89a85bc31da21e2318a7123b74` | `BINARY_ARCHIVE_REFERENCE_DRIVE` | `REFERENCE_DRIVE` |
+| `1KUJ2mugYPBTMZQ90xw_t3WG2LDtIzmOz` | `Legend of the Galactic Heroes/05 Final Release/LOGH_Definitive_Full_Series_Synthesis_v1.zip` | 486192 | `56688a1f5f08d9afc1ad6bb982abb2f52c0a9a79406a1b4e3cfcf20878731a73` | `BINARY_ARCHIVE_REFERENCE_DRIVE` | `REFERENCE_DRIVE` |
+| `194x1iUfaA-nZzetuqLtyc8wdtnUejyK3` | `Legend of the Galactic Heroes/05 Final Release/LOGH_Final_Release_Controls_v1.zip` | 29885 | `b6f77a883a660f49e84c839112036327282171040e0a643ea1d9cb5222213c34` | `BINARY_ARCHIVE_REFERENCE_DRIVE` | `REFERENCE_DRIVE` |
+
+Reference-only structural folders:
+
+| Drive ID | Source path | Revision-record SHA-256 | Disposition |
+|---|---|---|---|
+| `1VeLiZ-ZhEIJuWuphla3ndySbYrZKaTP4` | `Legend of the Galactic Heroes` | `c7ee5aef4da6260c961c82dcc1d6652ac4a3d1c597cd728b331e457bb6bff211` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1CRxWpRwQexhj7xZHvHEc3TredmwOkUva` | `Legend of the Galactic Heroes/00 Frameworks` | `0bc4757874a188fb3e17e52742688b547b2ca3a2482b19d9822aa55f631e2821` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1NfMpMzA00jOXoaZdjdYXkIEp_0MYHF-_` | `Legend of the Galactic Heroes/01 Primary Sources` | `6755710d4a2a0026b04191d599ee7878a7fa13d9f2c9ad561ea8951ec02ccd35` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1rDCzTmvlV8kwLdSg-VUpyVw4QaCLR37V` | `Legend of the Galactic Heroes/02 Source Audits` | `5be65d037955f0ac685988c392a3951659ddb4bab8cf5e33e7f8a8817285c6cf` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `157kfSOJFoSsrKSRBNOzd-Owh0stYW-wW` | `Legend of the Galactic Heroes/03 Evidence and Crosswalk` | `a6347e40159ee46cee2bfa3acb3e1e17fc1a4a7dc31dee38a33a03670fb86714` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `1MaljNU7dotPtpKLarFt4MMQZn0252xEG` | `Legend of the Galactic Heroes/04 Specialist Synthesis` | `cc566425923d2704f98b7eaa225c7cab27e979875ecb5669f83d6f3c9eb4d012` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
+| `16tUwWtNZYAGDuEkXKo8GUYB2hrYRrS_J` | `Legend of the Galactic Heroes/05 Final Release` | `111464aaa3c36a395f936b90db458f65f26fd63be50504fe8db4db229c0d98f2` | `REFERENCE_DRIVE_STRUCTURAL_FOLDER` |
 
 ## Default exclusions retained
 

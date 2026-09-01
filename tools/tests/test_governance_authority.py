@@ -667,7 +667,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G4",
             "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-            "current_subphase": "G5_T06_YOUJO_SENKI_INTEGRATED",
+            "current_subphase": "G5_T07_LEGEND_OF_THE_GALACTIC_HEROES_INTEGRATED",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -678,6 +678,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "IDOLMASTER_CINDERELLA_GIRLS_MOBILE_GAME_CHARACTER_MONOGRAPHS_V1",
                 "BLUE_ARCHIVE_PROLOGUE_CHAPTER_1_AND_LONGITUDINAL_ANALYSIS_V1",
                 "YOUJO_SENKI_V2_ANALYTICAL_CORPUS_V1",
+                "LEGEND_OF_THE_GALACTIC_HEROES_FULL_PREFIX_V1",
             ],
             "integrated_reference_controls": [
                 "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY",
@@ -689,7 +690,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "p05_v2_status": (
                 "U149_YONAIP_MAEBASHI_SEVEN_MASS_EFFECT_TWO_GENSHIN_FURINA_"
                 "CINDERELLA_GIRLS_MOBILE_NINE_AND_BLUE_ARCHIVE_ELEVEN_"
-                "PRESENT_REVIEWED"
+                "AND_LOGH_TWO_PRESENT_REVIEWED"
             ),
             "g4_phase_closure": {
                 "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
@@ -707,12 +708,12 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 ),
             },
             "g5_progress": {
-                "last_tranche": "G5_T06_YOUJO_SENKI",
-                "run_id": "g5-t06-youjo-senki-20260901T132724Z",
-                "source_receipt_sha256": "b62ea48fd1742006a78ad6502fc2378f840375a6c9e5e8cb6bf56460b56dc762",
-                "transformation_receipt_sha256": "e47f15c4365ac397136927bbbfda9bfbf2951f142bc4877b155a68b34a7047bd",
-                "source_objects": 44,
-                "payload_paths": 16,
+                "last_tranche": "G5_T07_LEGEND_OF_THE_GALACTIC_HEROES",
+                "run_id": "g5-t07-legend-of-the-galactic-heroes-20260901T133207Z",
+                "source_receipt_sha256": "52b54972987e4f5f5eaa78e8f64ccaa768d1f54b34d27f2f807500b420325a63",
+                "transformation_receipt_sha256": "d30dcb4b570458448ab3cc2912e04755564bdd3ed9efbbdc49b38771cddb4b4c",
+                "source_objects": 33,
+                "payload_paths": 20,
                 "tracked_paths_after": len(
                     (
                         REPOSITORY_ROOT
@@ -856,6 +857,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "the-idolmaster-cinderella-girls-mobile-games",
                 "blue-archive",
                 "youjo-senki",
+                "legend-of-the-galactic-heroes",
             }.issubset(set(series_ids))
         )
         series_by_id = {row["series_id"]: row for row in series_registry["series"]}
@@ -951,6 +953,19 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "series/youjo-senki/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T06_V2_ANALYTICAL_CORPUS",
+                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+            },
+        )
+        self.assertEqual(
+            series_by_id["legend-of-the-galactic-heroes"],
+            {
+                "series_id": "legend-of-the-galactic-heroes",
+                "stable_slug": "legend-of-the-galactic-heroes",
+                "canonical_title": "Legend of the Galactic Heroes",
+                "media": ["LIGHT_NOVEL"],
+                "repository_path": "series/legend-of-the-galactic-heroes/",
+                "materialization_status": "PRESENT_REVIEWED",
+                "migration_scope": "G5_T07_LOGH_FULL_PREFIX",
                 "authority_status": "NONAUTHORITATIVE_PRE_G8",
             },
         )
@@ -1200,6 +1215,51 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ):
             self.assertFalse(any(row["drive_id"] in t06_reference_ids for row in rows(relative)))
         self.assertFalse(any(row["series_id"] == "youjo-senki" for row in character_rows))
+
+        logh_mappings = [
+            row for row in rows("crosswalk/drive-to-git.jsonl")
+            if row.get("series_id") == "legend-of-the-galactic-heroes"
+        ]
+        self.assertEqual(len(logh_mappings), 20)
+        logh_output_table = "".join(
+            f"{row['git_path']}\t{row['git_bytes']}\t{row['git_sha256']}\n"
+            for row in sorted(logh_mappings, key=lambda item: item["git_path"].encode("utf-8"))
+        ).encode("utf-8")
+        self.assertEqual(
+            hashlib.sha256(logh_output_table).hexdigest(),
+            "ef40a427c745624d4dd14b7a4051a3f5427807f4fe50e1cc66b00ebcfd372065",
+        )
+        logh_plans = [
+            row for row in rows("crosswalk/path-plan.jsonl")
+            if row.get("destination_path", "").startswith("series/legend-of-the-galactic-heroes/")
+        ]
+        logh_results = [
+            row for row in rows("crosswalk/materialization-results.jsonl")
+            if row.get("run_id") == "g5-t07-legend-of-the-galactic-heroes-20260901T133207Z"
+        ]
+        self.assertEqual(len(logh_plans), 20)
+        self.assertEqual(len(logh_results), 20)
+        self.assertTrue(all(row["decision"] == "MIGRATE_TEXT" for row in logh_plans))
+        self.assertTrue(all(row["result"] == "MATERIALIZED_AND_HASH_VERIFIED" for row in logh_results))
+        t07_reference_ids = {'157kfSOJFoSsrKSRBNOzd-Owh0stYW-wW', '16tUwWtNZYAGDuEkXKo8GUYB2hrYRrS_J', '194x1iUfaA-nZzetuqLtyc8wdtnUejyK3', '1CRxWpRwQexhj7xZHvHEc3TredmwOkUva', '1JGXiu3Hca8mzSEXJo9QekM43gxx2eHKl', '1KUJ2mugYPBTMZQ90xw_t3WG2LDtIzmOz', '1MaljNU7dotPtpKLarFt4MMQZn0252xEG', '1NfMpMzA00jOXoaZdjdYXkIEp_0MYHF-_', '1QZEzzoL0fFxZwjQKEJNlmMeiravgFeZN', '1VeLiZ-ZhEIJuWuphla3ndySbYrZKaTP4', '1arKCKniMDN2i5unIN4bpItlC1_gK53F5', '1cU4EAu8n1VtQ-tDEG6JGGEmYXjXi_mwu', '1rDCzTmvlV8kwLdSg-VUpyVw4QaCLR37V'}
+        for relative in (
+            "crosswalk/drive-to-git.jsonl",
+            "crosswalk/path-plan.jsonl",
+            "crosswalk/materialization-results.jsonl",
+        ):
+            self.assertFalse(any(row["drive_id"] in t07_reference_ids for row in rows(relative)))
+        logh_subject_ids = {
+            row["analysis_subject_id"]
+            for row in character_rows
+            if row["series_id"] == "legend-of-the-galactic-heroes"
+        }
+        self.assertEqual(
+            logh_subject_ids,
+            {
+                "legend-of-the-galactic-heroes:reinhard-von-lohengramm@original-novels",
+                "legend-of-the-galactic-heroes:yang-wen-li@original-novels",
+            },
+        )
 
     def test_g5_t01_maebashi_tuple_is_exact(self) -> None:
         drive_ids = {
