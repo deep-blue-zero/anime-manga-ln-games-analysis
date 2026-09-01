@@ -49,6 +49,42 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`choco-cyan-comparison` — Choco × Lucky Cyan — To Be Hero X](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
   - [`choco-kotone-comparison` — Comparative analysis](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CHOCO_KOTONE_COMPARATIVE_ANALYSIS.md)
 
+### Commander Shepard
+
+- Entity ID: `mass-effect:commander-shepard`
+- Entity aliases:
+  - _None._
+
+#### Subject: Paragon Shepard player archetype
+
+- Analysis subject ID: `mass-effect:commander-shepard@paragon-player-archetype`
+- Series: `mass-effect`
+- Continuity: `mass-effect-trilogy-games`
+- State: `paragon`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - Paragon Shepard (en, ALTERNATIVE) — Corpus-specific name for this player-choice archetype.
+- Analytical coverage:
+  - `mass-effect-trilogy-archetype`: GAME OTHER: Interpretive player-archetype model synthesized across the Mass Effect trilogy; this describes the corpus boundary and does not claim exhaustive mission, dialogue, or route coverage.; continuity `mass-effect-trilogy-games`
+- Reviewed current evidence:
+  - [`paragon-shepard-monograph` — Paragon Shepard character monograph](studies/comparative-media/Mass%20Effect/01%20Character%20Monographs/MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md)
+
+#### Subject: Renegade Shepard player archetype
+
+- Analysis subject ID: `mass-effect:commander-shepard@renegade-player-archetype`
+- Series: `mass-effect`
+- Continuity: `mass-effect-trilogy-games`
+- State: `renegade`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - Renegade Shepard (en, ALTERNATIVE) — Corpus-specific name for this player-choice archetype.
+- Analytical coverage:
+  - `mass-effect-trilogy-archetype`: GAME OTHER: Interpretive player-archetype model synthesized across the Mass Effect trilogy; this describes the corpus boundary and does not claim exhaustive mission, dialogue, or route coverage.; continuity `mass-effect-trilogy-games`
+- Reviewed current evidence:
+  - [`renegade-shepard-monograph` — Renegade Shepard character monograph](studies/comparative-media/Mass%20Effect/01%20Character%20Monographs/MASS_EFFECT_RENEGADE_SHEPARD_CHARACTER_MONOGRAPH.md)
+
 ### Eiko
 
 - Entity ID: `maebashi-witches:eiko`

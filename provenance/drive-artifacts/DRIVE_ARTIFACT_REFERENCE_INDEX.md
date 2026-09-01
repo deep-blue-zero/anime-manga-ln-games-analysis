@@ -121,4 +121,18 @@ The two same-logical-path Temari objects and two same-logical-path Lilja objects
 | `12XohkkbKzZ9GNALwPI2VQeI44DIzlrOc` | [Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md](../../series/maebashi-witches/V1%20Analysis/90%20Conversation%20Archives/Manga%20and%20anime%20discussions%20-%20Maebashi%20Witches%20Analysis%20-%20Full%20Transcript.md) | `46fe02552d139f15367a4146be3ec66b80ad67f84500d17ec664270374f72c0c` | `4d2fa8c38f0835377f50adf3f716e3927ffe365ea239194a34c335aafbc873da` |
 | `1xk_yDNujJmVI89QHtHuJVUQ4kdmuV9kY` | [MANIFEST.md](../../series/maebashi-witches/V1%20Analysis/MANIFEST.md) | `4f28a71fb233efb744e41feaae039bd17cf52395f049bfb1085b7f77ebc4265b` | `94c23fbbb6e040a64f8de1bfae8831912902661cdebba79393781bdf69f36101` |
 
+## G5-T02 Mass Effect comparative media
+
+- Run: `g5-t02-mass-effect-20260901T074800Z`
+- Source-verification receipt SHA-256: `1fbe488a500180af2577b2037af5ff9fc4cb83481357f648eb2c9f8a46c82458`
+- Transformation receipt SHA-256: `abfefc964172556ff038e402f4a970dca4b41241325b02bcbe1be66d215e1f02`
+- Disposition: complete compact three-Markdown comparative corpus materialized; no binary or large-object exception admitted
+- Authority: nonauthoritative Git candidate until verified G8 activation
+
+| Drive file ID | Repository artifact | Source SHA-256 | Candidate SHA-256 |
+|---|---|---|---|
+| `1Mr0PMPv2PKNQQeE3CXqOUZoM9vYESCGO` | [MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md](../../studies/comparative-media/Mass%20Effect/01%20Character%20Monographs/MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md) | `73476c3a777604ec4b0c2adac1a2d418bb4aec48a8c8d386b475226da5319d01` | `56869cbe20dc5f831fb7c1c0a27f7231984be22798363d5b983966ee2c898f56` |
+| `1djYkXGE68vHmP5oCR3LKCMoKfBT7dPUa` | [MASS_EFFECT_RENEGADE_SHEPARD_CHARACTER_MONOGRAPH.md](../../studies/comparative-media/Mass%20Effect/01%20Character%20Monographs/MASS_EFFECT_RENEGADE_SHEPARD_CHARACTER_MONOGRAPH.md) | `239f865f9ff19c26872df0c00227fc865c0b879ef0edede2d550aa39d330c1ce` | `bf2c552ad1b6599879e5e486023558c49303218e5d58597d037c0a87b85cadf9` |
+| `10hQeUNs8alrGa72ejpwI6LHGi-7ocfNb` | [CURRENT_STATE_AND_CORPUS_MAP.md](../../studies/comparative-media/Mass%20Effect/CURRENT_STATE_AND_CORPUS_MAP.md) | `7bcfe914175efe946863e107894e070f125f719832e07705b9f6953e66c258eb` | `48d0b34027ecbd8dd1c3f28f595b52adcb2382597c6768c91c5e56e89b98de51` |
+
 The machine-readable mappings are in [`crosswalk/drive-to-git.jsonl`](../../crosswalk/drive-to-git.jsonl), [`crosswalk/materialization-results.jsonl`](../../crosswalk/materialization-results.jsonl), and [`crosswalk/path-plan.jsonl`](../../crosswalk/path-plan.jsonl).

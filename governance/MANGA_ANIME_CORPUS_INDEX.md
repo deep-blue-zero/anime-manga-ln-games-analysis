@@ -1,6 +1,6 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public; G4 closed after all five representative archetypes passed; G5 progressive bounded migration active. U149, the complete reviewed Maebashi Witches V1 tree, the partial IDOLY PRIDE P02 ledger, and the partial DJFW P03 control-state slice are materialized candidates. The P04 archive control is reference-only. The repository is not yet a complete corpus.
+> Repository state: public; G4 closed after all five representative archetypes passed; G5 progressive bounded migration active. U149, the complete reviewed Maebashi Witches V1 tree, the complete compact Mass Effect comparative corpus, the partial IDOLY PRIDE P02 ledger, and the partial DJFW P03 control-state slice are materialized candidates. The P04 archive control is reference-only. The repository is not yet a complete corpus.
 >
 > Analytical authority: Google Drive until a separately approved and verified G8 cutover. Git content remains a nonauthoritative migration candidate.
 
@@ -16,6 +16,7 @@ See `../series/registry.json`.
 
 ## Studies
 
+- [Mass Effect — current state and corpus map](../studies/comparative-media/Mass%20Effect/CURRENT_STATE_AND_CORPUS_MAP.md) — complete compact comparative corpus containing reviewed Paragon and Renegade Shepard interpretive-archetype monographs and two Character Index v2 records.
 - [Doujinshi/Fanwork Comparative Taxonomy — current state and corpus map](../studies/doujinshi-fanwork-comparative-taxonomy/DJFW_CURRENT_STATE_AND_CORPUS_MAP.md) — partial P03 control-state pilot containing one corpus map and [17 TSV worksheet projections with a structure manifest](../studies/doujinshi-fanwork-comparative-taxonomy/01%20Project%20Registry%20and%20Source%20Lock/DJFW_PROJECT_CONTROL_SHEET.structure.json). The native XLSX remains `REFERENCE_DRIVE`.
 
 This is not a complete DJFW study migration. Names of absent sibling documents inside the corpus map remain unlinked source context and do not claim that those artifacts are present in Git.

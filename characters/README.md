@@ -2,7 +2,7 @@
 
 `characters/registry.jsonl` is the canonical structured source for the generated root `CHARACTER_ANALYSIS_INDEX.md`. One nonblank JSONL line is one schema-v2 **analysis subject**. The Markdown index is a deterministic discovery view and must never be edited as independent authority.
 
-The production discovery registry contains YonaiP, the U149 anime Producer, plus seven reviewed Maebashi Witches anime subjects: Azu, Choco, Eiko, Keroppe, Kyouka, Mai, and Yuina. The examples below remain illustrative excerpts, not additional corpus records. Reconstruction capability is specified separately and is deliberately not populated.
+The production discovery registry contains YonaiP, the U149 anime Producer; seven reviewed Maebashi Witches anime subjects: Azu, Choco, Eiko, Keroppe, Kyouka, Mai, and Yuina; and reviewed Paragon and Renegade Commander Shepard player-archetype subjects from the Mass Effect comparative study. Reconstruction capability is specified separately and is deliberately not populated.
 
 ## What this registry answers
 
@@ -243,23 +243,23 @@ Both rows share the same `preferred_name`, entity aliases, franchise, and namesp
 ```json
 [
   {
-    "character_entity_id": "mass-effect:shepard",
-    "analysis_subject_id": "mass-effect:shepard@paragon",
-    "continuity_id": "game",
+    "character_entity_id": "mass-effect:commander-shepard",
+    "analysis_subject_id": "mass-effect:commander-shepard@paragon-player-archetype",
+    "continuity_id": "mass-effect-trilogy-games",
     "state_id": "paragon",
     "subject_kind": "PLAYER_ARCHETYPE"
   },
   {
-    "character_entity_id": "mass-effect:shepard",
-    "analysis_subject_id": "mass-effect:shepard@renegade",
-    "continuity_id": "game",
+    "character_entity_id": "mass-effect:commander-shepard",
+    "analysis_subject_id": "mass-effect:commander-shepard@renegade-player-archetype",
+    "continuity_id": "mass-effect-trilogy-games",
     "state_id": "renegade",
     "subject_kind": "PLAYER_ARCHETYPE"
   }
 ]
 ```
 
-This is a noncanonical modeling example only; it does not add Mass Effect to the corpus.
+These identifiers now mirror the complete reviewed records in `registry.jsonl`; the records point to the Mass Effect comparative-study monographs and remain nonauthoritative before G8.
 
 ### 6. Same-series composite
 

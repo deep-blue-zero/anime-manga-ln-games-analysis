@@ -667,12 +667,13 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G4",
             "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-            "current_subphase": "G5_T01_MAEBASHI_WITCHES_V1_INTEGRATED",
+            "current_subphase": "G5_T02_MASS_EFFECT_INTEGRATED",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
                 "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET",
                 "MAEBASHI_WITCHES_V1",
+                "MASS_EFFECT_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
             ],
             "integrated_reference_controls": [
                 "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY",
@@ -681,7 +682,9 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "P04_COMPLETE_P01_P03_MATERIALIZED_P04_REFERENCE_ONLY"
             ),
             "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
-            "p05_v2_status": "U149_YONAIP_AND_MAEBASHI_SEVEN_PRESENT_REVIEWED",
+            "p05_v2_status": (
+                "U149_YONAIP_MAEBASHI_SEVEN_AND_MASS_EFFECT_TWO_PRESENT_REVIEWED"
+            ),
             "g4_phase_closure": {
                 "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
                 "audit_id": (
@@ -698,13 +701,13 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 ),
             },
             "g5_progress": {
-                "last_tranche": "G5_T01_MAEBASHI_WITCHES_V1",
-                "run_id": "g5-t01-maebashi-witches-v1-20260901T065630Z",
-                "source_receipt_sha256": "47ca555a313ef0464323df3d84dbb80c628dad7e879ca62553c193c3b26ada45",
-                "transformation_receipt_sha256": "8310635453d699ade2c5346ad934562af17c328dbab4537a9d486ced0f7eebf7",
-                "source_objects": 18,
-                "payload_paths": 18,
-                "tracked_paths_after": 99,
+                "last_tranche": "G5_T02_MASS_EFFECT_COMPARATIVE_MEDIA",
+                "run_id": "g5-t02-mass-effect-20260901T074800Z",
+                "source_receipt_sha256": "1fbe488a500180af2577b2037af5ff9fc4cb83481357f648eb2c9f8a46c82458",
+                "transformation_receipt_sha256": "abfefc964172556ff038e402f4a970dca4b41241325b02bcbe1be66d215e1f02",
+                "source_objects": 3,
+                "payload_paths": 3,
+                "tracked_paths_after": 102,
                 "status": "MATERIALIZED_VALIDATED_GIT_TRANCHE",
             },
         }
@@ -830,7 +833,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
         self.assertEqual(series_registry["status"], "PARTIAL_G5_MIGRATION_CANDIDATE")
-        self.assertEqual(len(series_registry["series"]), 3)
+        self.assertEqual(len(series_registry["series"]), 4)
         self.assertEqual(
             series_registry["series"][0]["series_id"],
             "the-idolmaster-cinderella-girls-u149",
@@ -861,6 +864,19 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "authority_status": "NONAUTHORITATIVE_PRE_G8",
             },
         )
+        self.assertEqual(
+            series_registry["series"][3],
+            {
+                "series_id": "mass-effect",
+                "stable_slug": "mass-effect",
+                "canonical_title": "Mass Effect",
+                "media": ["GAME"],
+                "repository_path": "studies/comparative-media/Mass Effect/",
+                "materialization_status": "PRESENT_REVIEWED",
+                "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
+                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+            },
+        )
         character_rows = [
             json.loads(line)
             for line in (REPOSITORY_ROOT / "characters/registry.jsonl")
@@ -868,7 +884,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             .splitlines()
             if line
         ]
-        self.assertEqual(len(character_rows), 8)
+        self.assertEqual(len(character_rows), 10)
         subject_ids = {row["analysis_subject_id"] for row in character_rows}
         self.assertEqual(
             subject_ids,
@@ -876,6 +892,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "maebashi-witches:azu@anime",
                 "maebashi-witches:choco@anime",
                 "maebashi-witches:eiko@anime",
+                "mass-effect:commander-shepard@paragon-player-archetype",
+                "mass-effect:commander-shepard@renegade-player-archetype",
                 "maebashi-witches:keroppe@anime",
                 "maebashi-witches:kyouka@anime",
                 "maebashi-witches:mai@anime",
@@ -942,6 +960,65 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertTrue(all(row["curation_status"] == "INCLUDED" for row in maebashi))
         self.assertTrue(all(row["analytical_coverage"][0]["scope_type"] == "DESCRIPTIVE" for row in maebashi))
         self.assertFalse(any("SPEECH" in row["analytical_dimensions"] for row in maebashi))
+
+    def test_g5_t02_mass_effect_tuple_is_exact(self) -> None:
+        expected = {
+            "10hQeUNs8alrGa72ejpwI6LHGi-7ocfNb": (
+                "studies/comparative-media/Mass Effect/CURRENT_STATE_AND_CORPUS_MAP.md",
+                "48d0b34027ecbd8dd1c3f28f595b52adcb2382597c6768c91c5e56e89b98de51",
+            ),
+            "1Mr0PMPv2PKNQQeE3CXqOUZoM9vYESCGO": (
+                "studies/comparative-media/Mass Effect/01 Character Monographs/MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md",
+                "56869cbe20dc5f831fb7c1c0a27f7231984be22798363d5b983966ee2c898f56",
+            ),
+            "1djYkXGE68vHmP5oCR3LKCMoKfBT7dPUa": (
+                "studies/comparative-media/Mass Effect/01 Character Monographs/MASS_EFFECT_RENEGADE_SHEPARD_CHARACTER_MONOGRAPH.md",
+                "bf2c552ad1b6599879e5e486023558c49303218e5d58597d037c0a87b85cadf9",
+            ),
+        }
+        revisions = {
+            "10hQeUNs8alrGa72ejpwI6LHGi-7ocfNb": "5",
+            "1Mr0PMPv2PKNQQeE3CXqOUZoM9vYESCGO": "7",
+            "1djYkXGE68vHmP5oCR3LKCMoKfBT7dPUa": "6",
+        }
+
+        def rows(relative: str) -> list[dict[str, object]]:
+            return [
+                json.loads(line)
+                for line in (REPOSITORY_ROOT / relative)
+                .read_text(encoding="utf-8")
+                .splitlines()
+                if line
+            ]
+
+        for drive_id, (path, expected_sha) in expected.items():
+            data = (REPOSITORY_ROOT / path).read_bytes()
+            self.assertEqual(hashlib.sha256(data).hexdigest(), expected_sha)
+            mapping = next(row for row in rows("crosswalk/drive-to-git.jsonl") if row["drive_id"] == drive_id)
+            plan = next(row for row in rows("crosswalk/path-plan.jsonl") if row["drive_id"] == drive_id)
+            result = next(row for row in rows("crosswalk/materialization-results.jsonl") if row["drive_id"] == drive_id)
+            self.assertEqual(mapping["study_id"], "comparative-media")
+            self.assertEqual(mapping["git_path"], path)
+            self.assertEqual(mapping["git_sha256"], expected_sha)
+            self.assertEqual(mapping["source_revision"], revisions[drive_id])
+            self.assertEqual(plan["study_id"], "comparative-media")
+            self.assertEqual(plan["decision"], "MIGRATE_TEXT")
+            self.assertEqual(plan["source_revision"], revisions[drive_id])
+            self.assertEqual(result["study_id"], "comparative-media")
+            self.assertEqual(result["run_id"], "g5-t02-mass-effect-20260901T074800Z")
+            self.assertEqual(result["result"], "MATERIALIZED_AND_HASH_VERIFIED")
+            self.assertEqual(result["source_revision"], revisions[drive_id])
+
+        mass_effect = [
+            row
+            for row in rows("characters/registry.jsonl")
+            if row["series_id"] == "mass-effect"
+        ]
+        self.assertEqual(len(mass_effect), 2)
+        self.assertTrue(all(row["subject_kind"] == "PLAYER_ARCHETYPE" for row in mass_effect))
+        self.assertTrue(all(row["continuity_id"] == "mass-effect-trilogy-games" for row in mass_effect))
+        self.assertTrue(all(row["materialization_status"] == "PRESENT_REVIEWED" for row in mass_effect))
+        self.assertFalse(any("SPEECH" in row["analytical_dimensions"] for row in mass_effect))
 
     def test_p02_exact_copy_and_reference_only_rows_are_consistent(self) -> None:
         migrated_id = "1EySpUScZKZ2irfYamER1e8FCrnjniGjk"
@@ -1061,7 +1138,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
         ).read_text(encoding="utf-8").splitlines()
-        self.assertEqual(len(tracked_paths), 99)
+        self.assertEqual(len(tracked_paths), 102)
         self.assertEqual(tracked_paths, sorted(tracked_paths))
         self.assertTrue(expected_destinations.issubset(set(tracked_paths)))
         self.assertFalse(
@@ -1303,7 +1380,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
         ).read_text(encoding="utf-8").splitlines()
-        self.assertEqual(len(tracked_paths), 99)
+        self.assertEqual(len(tracked_paths), 102)
         self.assertFalse(any(path.casefold().endswith(".zip") for path in tracked_paths))
         self.assertFalse(
             any(path.startswith("series/gakuen-idolmaster/") for path in tracked_paths)

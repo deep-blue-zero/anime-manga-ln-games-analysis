@@ -2,7 +2,7 @@
 
 ## Scope
 
-This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, and the P04 ZIP/reference boundary, and G5-T01 Maebashi Witches V1. It is not the final archive-wide exclusion review.
+This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, and the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, and G5-T02 Mass Effect comparative media. It is not the final archive-wide exclusion review.
 
 ## U149 tranche
 
@@ -59,6 +59,18 @@ The frozen Maebashi source slice contains exactly 18 Markdown artifacts totaling
 | Binary or excluded artifact | 0 | Not applicable | None occurs in the frozen tranche |
 
 Source verification receipt SHA-256: `47ca555a313ef0464323df3d84dbb80c628dad7e879ca62553c193c3b26ada45`. Transformation receipt SHA-256: `8310635453d699ade2c5346ad934562af17c328dbab4537a9d486ced0f7eebf7`.
+
+## G5-T02 Mass Effect comparative media
+
+The frozen Mass Effect group contains exactly three Markdown artifacts totaling 88,990 source bytes. The complete compact corpus passed publication-safety review and was deterministically transformed into 88,926 Git bytes through authority-array normalization, one repository-tree path repair, and one stale related-artifact pointer repair. No binary, archive, original Office/PDF, generated corpus, LFS object, or named artifact exception is present.
+
+| Class | Count | Disposition | Reason |
+|---|---:|---|---|
+| Canonical corpus map | 1 | `MIGRATE_TEXT` | Human- and LLM-readable control map; Git tree path repaired |
+| Canonical character monographs | 2 | `MIGRATE_TEXT` | Reviewed Paragon/Renegade analytical archetypes; current-authority arrays normalized |
+| Binary or excluded artifact | 0 | Not applicable | None occurs in the frozen tranche |
+
+Source verification receipt SHA-256: `1fbe488a500180af2577b2037af5ff9fc4cb83481357f648eb2c9f8a46c82458`. Transformation receipt SHA-256: `abfefc964172556ff038e402f4a970dca4b41241325b02bcbe1be66d215e1f02`.
 
 ## Default exclusions retained
 

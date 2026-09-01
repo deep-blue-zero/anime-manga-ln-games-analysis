@@ -36,6 +36,18 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T01_V1_ANALYSIS",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "mass-effect",
+      "stable_slug": "mass-effect",
+      "canonical_title": "Mass Effect",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "studies/comparative-media/Mass Effect/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
     }
   ]
 }
