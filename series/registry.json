@@ -60,6 +60,18 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T03_FURINA_MONOGRAPH_V1_COMPLETE",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "the-idolmaster-cinderella-girls-mobile-games",
+      "stable_slug": "the-idolmaster-cinderella-girls-mobile-games",
+      "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)",
+      "media": [
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/the-idolmaster-cinderella-girls-mobile-games/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T04_MOBILE_GAME_CHARACTER_MONOGRAPHS_AND_AUDITS",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
     }
   ]
 }

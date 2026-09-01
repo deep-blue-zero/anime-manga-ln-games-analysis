@@ -93,6 +93,29 @@ series/maebashi-witches/V1 Analysis/05 Comparative Analysis/MAEBASHI_CROSS_SERIE
 series/maebashi-witches/V1 Analysis/90 Conversation Archives/Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md
 series/maebashi-witches/V1 Analysis/MANIFEST.md
 series/registry.json
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_FUTABA_ANZU_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_HAYAMI_KANADE_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_HISAKAWA_HAYATE_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_HISAKAWA_NAGI_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_HOJO_KAREN_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_JOUGASAKI_MIKA_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_JOUGASAKI_RIKA_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_KANZAKI_RANKO_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_KOBAYAKAWA_SAE_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_NINOMIYA_ASUKA_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_NITTA_MINAMI_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_AUDIOVISUAL_ADDENDUM.md
+series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md
+series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_FUTABA_ANZU_MONOGRAPH_AUDIT.md
+series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_HAYAMI_KANADE_MONOGRAPH_AUDIT.md
+series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_HISAKAWA_NAGI_MONOGRAPH_AUDIT.md
+series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_HOJO_KAREN_MONOGRAPH_AUDIT.md
+series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_KANZAKI_RANKO_MONOGRAPH_AUDIT.md
+series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_KOBAYAKAWA_SAE_MONOGRAPH_AUDIT.md
+series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_NINOMIYA_ASUKA_MONOGRAPH_AUDIT.md
+series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_NITTA_MINAMI_MONOGRAPH_AUDIT.md
+series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_MONOGRAPH_AUDIT.md
+series/the-idolmaster-cinderella-girls-mobile-games/CURRENT_STATE_AND_CORPUS_MAP.md
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/00_README_AND_CORPUS_MAP.md
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/02 Sequential Episode Readings/U149_E01_DEEP_READING.md
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/02 Sequential Episode Readings/U149_E02_DEEP_READING.md

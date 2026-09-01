@@ -2,7 +2,7 @@
 
 `characters/registry.jsonl` is the canonical structured source for the generated root `CHARACTER_ANALYSIS_INDEX.md`. One nonblank JSONL line is one schema-v2 **analysis subject**. The Markdown index is a deterministic discovery view and must never be edited as independent authority.
 
-The production discovery registry contains YonaiP, the U149 anime Producer; seven reviewed Maebashi Witches anime subjects: Azu, Choco, Eiko, Keroppe, Kyouka, Mai, and Yuina; reviewed Paragon and Renegade Commander Shepard player-archetype subjects from the Mass Effect comparative study; and the reviewed Genshin Impact game subject Furina. Reconstruction capability is specified separately and is deliberately not populated.
+The production discovery registry contains YonaiP, the U149 anime Producer; seven reviewed Maebashi Witches anime subjects: Azu, Choco, Eiko, Keroppe, Kyouka, Mai, and Yuina; reviewed Paragon and Renegade Commander Shepard player-archetype subjects from the Mass Effect comparative study; and the reviewed Genshin Impact game subject Furina; and nine reviewed Cinderella Girls mobile-game subjects: Futaba Anzu, Hayami Kanade, Hisakawa Nagi, Hojo Karen, Kanzaki Ranko, Kobayakawa Sae, Ninomiya Asuka, Nitta Minami, and Takagaki Kaede. Reconstruction capability is specified separately and is deliberately not populated.
 
 ## What this registry answers
 

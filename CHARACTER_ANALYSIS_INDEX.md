@@ -125,6 +125,111 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`furina-character-monograph` — Furina character monograph](series/genshin-impact/05%20Character%20Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
+### Futaba Anzu
+
+- Entity ID: `the-idolmaster:futaba-anzu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Cinderella Girls mobile games
+
+- Analysis subject ID: `the-idolmaster:futaba-anzu@cinderella-girls-mobile-games`
+- Series: `the-idolmaster-cinderella-girls-mobile-games`
+- Continuity: `the-idolmaster-cinderella-girls-mobile-games`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `futaba-anzu-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, and adaptation continuities are excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
+- Reviewed current evidence:
+  - [`futaba-anzu-mobile-game-monograph` — Futaba Anzu mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_FUTABA_ANZU_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`futaba-anzu-mobile-game-monograph-audit` — Futaba Anzu mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_FUTABA_ANZU_MONOGRAPH_AUDIT.md)
+
+### Hayami Kanade
+
+- Entity ID: `the-idolmaster:hayami-kanade`
+- Entity aliases:
+  - _None._
+
+#### Subject: Cinderella Girls mobile games
+
+- Analysis subject ID: `the-idolmaster:hayami-kanade@cinderella-girls-mobile-games`
+- Series: `the-idolmaster-cinderella-girls-mobile-games`
+- Continuity: `the-idolmaster-cinderella-girls-mobile-games`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `hayami-kanade-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is not acquired, and adaptation continuities are excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
+- Reviewed current evidence:
+  - [`hayami-kanade-mobile-game-monograph` — Hayami Kanade mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_HAYAMI_KANADE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`hayami-kanade-mobile-game-monograph-audit` — Hayami Kanade mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_HAYAMI_KANADE_MONOGRAPH_AUDIT.md)
+
+### Hisakawa Nagi
+
+- Entity ID: `the-idolmaster:hisakawa-nagi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Cinderella Girls mobile games
+
+- Analysis subject ID: `the-idolmaster:hisakawa-nagi@cinderella-girls-mobile-games`
+- Series: `the-idolmaster-cinderella-girls-mobile-games`
+- Continuity: `the-idolmaster-cinderella-girls-mobile-games`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `hisakawa-nagi-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is not acquired, and adaptation continuities are excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
+- Reviewed current evidence:
+  - [`hisakawa-nagi-mobile-game-monograph` — Hisakawa Nagi mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_HISAKAWA_NAGI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`hisakawa-nagi-mobile-game-monograph-audit` — Hisakawa Nagi mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_HISAKAWA_NAGI_MONOGRAPH_AUDIT.md)
+
+### Hojo Karen
+
+- Entity ID: `the-idolmaster:hojo-karen`
+- Entity aliases:
+  - _None._
+
+#### Subject: Cinderella Girls mobile games
+
+- Analysis subject ID: `the-idolmaster:hojo-karen@cinderella-girls-mobile-games`
+- Series: `the-idolmaster-cinderella-girls-mobile-games`
+- Continuity: `the-idolmaster-cinderella-girls-mobile-games`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `hojo-karen-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and adaptation continuities are excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
+- Reviewed current evidence:
+  - [`hojo-karen-mobile-game-monograph` — Hojo Karen mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_HOJO_KAREN_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`hojo-karen-mobile-game-monograph-audit` — Hojo Karen mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_HOJO_KAREN_MONOGRAPH_AUDIT.md)
+
+### Kanzaki Ranko
+
+- Entity ID: `the-idolmaster:kanzaki-ranko`
+- Entity aliases:
+  - _None._
+
+#### Subject: Cinderella Girls mobile games
+
+- Analysis subject ID: `the-idolmaster:kanzaki-ranko@cinderella-girls-mobile-games`
+- Series: `the-idolmaster-cinderella-girls-mobile-games`
+- Continuity: `the-idolmaster-cinderella-girls-mobile-games`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kanzaki-ranko-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and adaptation continuities are excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
+- Reviewed current evidence:
+  - [`kanzaki-ranko-mobile-game-monograph` — Kanzaki Ranko mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_KANZAKI_RANKO_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`kanzaki-ranko-mobile-game-monograph-audit` — Kanzaki Ranko mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_KANZAKI_RANKO_MONOGRAPH_AUDIT.md)
+
 ### Keroppe
 
 - Entity ID: `maebashi-witches:keroppe`
@@ -144,6 +249,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
 - Reviewed current evidence:
   - [`keroppe-naoki-comparison` — Keroppe × Naoki — SHINE POST](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+
+### Kobayakawa Sae
+
+- Entity ID: `the-idolmaster:kobayakawa-sae`
+- Entity aliases:
+  - _None._
+
+#### Subject: Cinderella Girls mobile games
+
+- Analysis subject ID: `the-idolmaster:kobayakawa-sae@cinderella-girls-mobile-games`
+- Series: `the-idolmaster-cinderella-girls-mobile-games`
+- Continuity: `the-idolmaster-cinderella-girls-mobile-games`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kobayakawa-sae-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is not acquired, and adaptation continuities are excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
+- Reviewed current evidence:
+  - [`kobayakawa-sae-mobile-game-monograph` — Kobayakawa Sae mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_KOBAYAKAWA_SAE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`kobayakawa-sae-mobile-game-monograph-audit` — Kobayakawa Sae mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_KOBAYAKAWA_SAE_MONOGRAPH_AUDIT.md)
 
 ### Kyouka
 
@@ -184,6 +310,69 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `maebashi-anime-series`: ANIME EPISODE: Completed-series specialist analysis drawing on Maebashi Witches Episodes 1-12; this describes the source boundary and does not assert continuous per-episode coverage.; continuity `maebashi-witches-anime`
 - Reviewed current evidence:
   - [`mai-misuzu-comparison` — Mai × Misuzu Hataya — Gakuen Idolmaster](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+
+### Ninomiya Asuka
+
+- Entity ID: `the-idolmaster:ninomiya-asuka`
+- Entity aliases:
+  - _None._
+
+#### Subject: Cinderella Girls mobile games
+
+- Analysis subject ID: `the-idolmaster:ninomiya-asuka@cinderella-girls-mobile-games`
+- Series: `the-idolmaster-cinderella-girls-mobile-games`
+- Continuity: `the-idolmaster-cinderella-girls-mobile-games`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `IDEOLOGY`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `ninomiya-asuka-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and adaptation continuities are excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
+- Reviewed current evidence:
+  - [`ninomiya-asuka-mobile-game-monograph` — Ninomiya Asuka mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_NINOMIYA_ASUKA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`ninomiya-asuka-mobile-game-monograph-audit` — Ninomiya Asuka mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_NINOMIYA_ASUKA_MONOGRAPH_AUDIT.md)
+
+### Nitta Minami
+
+- Entity ID: `the-idolmaster:nitta-minami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Cinderella Girls mobile games
+
+- Analysis subject ID: `the-idolmaster:nitta-minami@cinderella-girls-mobile-games`
+- Series: `the-idolmaster-cinderella-girls-mobile-games`
+- Continuity: `the-idolmaster-cinderella-girls-mobile-games`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `nitta-minami-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and adaptation continuities are excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
+- Reviewed current evidence:
+  - [`nitta-minami-mobile-game-monograph` — Nitta Minami mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_NITTA_MINAMI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`nitta-minami-mobile-game-monograph-audit` — Nitta Minami mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_NITTA_MINAMI_MONOGRAPH_AUDIT.md)
+
+### Takagaki Kaede
+
+- Entity ID: `the-idolmaster:takagaki-kaede`
+- Entity aliases:
+  - _None._
+
+#### Subject: Cinderella Girls mobile games
+
+- Analysis subject ID: `the-idolmaster:takagaki-kaede@cinderella-girls-mobile-games`
+- Series: `the-idolmaster-cinderella-girls-mobile-games`
+- Continuity: `the-idolmaster-cinderella-girls-mobile-games`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `takagaki-kaede-mobile-game-corpus`: GAME OTHER: Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and the 2015 television anime is excluded.; continuity `the-idolmaster-cinderella-girls-mobile-games`
+- Reviewed current evidence:
+  - [`takagaki-kaede-mobile-game-monograph` — Takagaki Kaede mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`takagaki-kaede-mobile-game-monograph-audit` — Takagaki Kaede mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_MONOGRAPH_AUDIT.md)
 
 ### YonaiP (U149 Producer)
 

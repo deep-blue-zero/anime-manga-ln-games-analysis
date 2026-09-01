@@ -2,7 +2,7 @@
 
 ## Scope
 
-This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, and G5-T03 Genshin Impact Furina V1. It is not the final archive-wide exclusion review.
+This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, G5-T03 Genshin Impact Furina V1, and G5-T04 Cinderella Girls mobile-game analysis. It is not the final archive-wide exclusion review.
 
 ## U149 tranche
 
@@ -84,6 +84,18 @@ The frozen ordinary-object group contains 40 objects totaling 533,859 source byt
 | Duplicate release ZIP | 1 | `REFERENCE_DRIVE` | Members duplicate the standalone payload; no binary, LFS, or release-bundle exception granted |
 
 Source/revision receipt SHA-256: `707ddb6c072e718fa6e26e6db4c63ee8fb1296e5c90729c662ae46d974e28f67`. Transformation/output-anchor receipt SHA-256: `3c9eb76634cefb047cdb969576c477acba70e11d16319d3fe8b90ac2c0e6440f`. The final 39-output table has SHA-256 `0c982199ad9939da12e329ee249c13f7447d62ceec99e222d797a0621b211858`.
+
+## G5-T04 Cinderella Girls mobile-game analysis
+
+The frozen source boundary contains 26 Drive objects: 23 ordinary Markdown artifacts and three structural folders. All 23 Markdown artifacts passed the existing publication-safety boundary and materialize after the declared authority-array and twelve-line publication-format normalization, totaling 1,424,973 Git bytes. The three folders carry hierarchy/provenance only and remain destination-free `REFERENCE_DRIVE` structural records. No binary, archive, LFS, large-text, rights, or new artifact exception is introduced.
+
+| Class | Count | Disposition | Reason |
+|---|---:|---|---|
+| Reviewed Markdown monographs, audits, addendum, and corpus map | 23 | `MIGRATE_TEXT` | Human- and LLM-readable analysis; exact output hashes frozen |
+| Structural Drive folders | 3 | `REFERENCE_DRIVE` | Hierarchy/provenance metadata only; folders have no content bytes |
+| Binary or archive artifacts | 0 | Not applicable | None are in the exact T04 source boundary |
+
+Source/structural binding SHA-256: `9ab050532d8114ef4e1cbec0423f20f341b61a7ea1f7f70057f256568fff5b74`. Inert preparation receipt SHA-256: `c37d34d559e46234c0dd0353a8e75c67685903ce900543a00aa06cbaeb1ae595`. The final 23-output table has SHA-256 `0b3333c5b5ed0afe39064e8199518401c93ff3d0bb21278efddf7d0a64097923`.
 
 ## Default exclusions retained
 

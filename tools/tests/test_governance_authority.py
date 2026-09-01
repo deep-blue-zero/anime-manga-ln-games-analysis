@@ -667,7 +667,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G4",
             "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-            "current_subphase": "G5_T03_GENSHIN_IMPACT_FURINA_INTEGRATED",
+            "current_subphase": "G5_T04_CINDERELLA_GIRLS_MOBILE_GAMES_INTEGRATED",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -675,6 +675,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "MAEBASHI_WITCHES_V1",
                 "MASS_EFFECT_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
                 "GENSHIN_IMPACT_FURINA_MONOGRAPH_V1",
+                "IDOLMASTER_CINDERELLA_GIRLS_MOBILE_GAME_CHARACTER_MONOGRAPHS_V1",
             ],
             "integrated_reference_controls": [
                 "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY",
@@ -684,7 +685,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             ),
             "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
             "p05_v2_status": (
-                "U149_YONAIP_MAEBASHI_SEVEN_MASS_EFFECT_TWO_AND_GENSHIN_FURINA_PRESENT_REVIEWED"
+                "U149_YONAIP_MAEBASHI_SEVEN_MASS_EFFECT_TWO_GENSHIN_FURINA_AND_"
+                "CINDERELLA_GIRLS_MOBILE_NINE_PRESENT_REVIEWED"
             ),
             "g4_phase_closure": {
                 "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
@@ -702,12 +704,12 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 ),
             },
             "g5_progress": {
-                "last_tranche": "G5_T03_GENSHIN_IMPACT_FURINA_V1",
-                "run_id": "g5-t03-genshin-impact-20260901T090435Z",
-                "source_receipt_sha256": "707ddb6c072e718fa6e26e6db4c63ee8fb1296e5c90729c662ae46d974e28f67",
-                "transformation_receipt_sha256": "3c9eb76634cefb047cdb969576c477acba70e11d16319d3fe8b90ac2c0e6440f",
-                "source_objects": 40,
-                "payload_paths": 39,
+                "last_tranche": "G5_T04_CINDERELLA_GIRLS_MOBILE_GAMES",
+                "run_id": "g5-t04-cinderella-girls-mobile-games-20260901T105439Z",
+                "source_receipt_sha256": "9ab050532d8114ef4e1cbec0423f20f341b61a7ea1f7f70057f256568fff5b74",
+                "transformation_receipt_sha256": "c37d34d559e46234c0dd0353a8e75c67685903ce900543a00aa06cbaeb1ae595",
+                "source_objects": 26,
+                "payload_paths": 23,
                 "tracked_paths_after": len(
                     (
                         REPOSITORY_ROOT
@@ -848,6 +850,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "maebashi-witches",
                 "mass-effect",
                 "genshin-impact",
+                "the-idolmaster-cinderella-girls-mobile-games",
             }.issubset(set(series_ids))
         )
         series_by_id = {row["series_id"]: row for row in series_registry["series"]}
@@ -907,6 +910,19 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "authority_status": "NONAUTHORITATIVE_PRE_G8",
             },
         )
+        self.assertEqual(
+            series_by_id["the-idolmaster-cinderella-girls-mobile-games"],
+            {
+                "series_id": "the-idolmaster-cinderella-girls-mobile-games",
+                "stable_slug": "the-idolmaster-cinderella-girls-mobile-games",
+                "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)",
+                "media": ["MOBILE_GAME"],
+                "repository_path": "series/the-idolmaster-cinderella-girls-mobile-games/",
+                "materialization_status": "PRESENT_REVIEWED",
+                "migration_scope": "G5_T04_MOBILE_GAME_CHARACTER_MONOGRAPHS_AND_AUDITS",
+                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+            },
+        )
         character_rows = [
             json.loads(line)
             for line in (REPOSITORY_ROOT / "characters/registry.jsonl")
@@ -932,6 +948,15 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "maebashi-witches:yuina@anime",
                 "the-idolmaster:yonai-p@u149-anime",
                 "genshin-impact:furina@game",
+                "the-idolmaster:futaba-anzu@cinderella-girls-mobile-games",
+                "the-idolmaster:hayami-kanade@cinderella-girls-mobile-games",
+                "the-idolmaster:hisakawa-nagi@cinderella-girls-mobile-games",
+                "the-idolmaster:hojo-karen@cinderella-girls-mobile-games",
+                "the-idolmaster:kanzaki-ranko@cinderella-girls-mobile-games",
+                "the-idolmaster:kobayakawa-sae@cinderella-girls-mobile-games",
+                "the-idolmaster:ninomiya-asuka@cinderella-girls-mobile-games",
+                "the-idolmaster:nitta-minami@cinderella-girls-mobile-games",
+                "the-idolmaster:takagaki-kaede@cinderella-girls-mobile-games",
             }.issubset(subject_ids)
         )
         furina = next(
@@ -940,6 +965,24 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             if row["analysis_subject_id"] == "genshin-impact:furina@game"
         )
         self.assertEqual(furina, json.loads('{"schema_version":2,"character_entity_id":"genshin-impact:furina","analysis_subject_id":"genshin-impact:furina@game","preferred_name":"Furina","subject_label":"Genshin Impact game","series_id":"genshin-impact","franchise_id":null,"continuity_id":"genshin-impact-game","incarnation_id":null,"state_id":null,"subject_kind":"SINGLE_CONTINUITY","entity_aliases":[],"subject_aliases":[],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","ETHICS","RELATIONSHIPS","IDEOLOGY","DECISION_MAKING"],"evidence":[{"evidence_id":"furina-character-monograph","repository_path":"series/genshin-impact/05 Character Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md","label":"Furina character monograph","anchor":null,"review_state":"REVIEWED","dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","ETHICS","RELATIONSHIPS","IDEOLOGY","DECISION_MAKING"],"provenance_note":"Migrated from preserved Drive object 1bdGqSGEwzlclEe9c-2OmxMKJEh_W7S_D."}],"analytical_coverage":[{"coverage_id":"furina-v1-corpus","continuity_id":"genshin-impact-game","medium":"GAME","unit":"OTHER","scope_type":"DESCRIPTIVE","evidence_ids":["furina-character-monograph"],"scope_note":"Furina V1 synthesis centered on the Fontaine Archon Quest and Furina Story Quest within the Genshin Impact 7.0.0 Tier-A corpus; this describes the reviewed source boundary and does not claim exhaustive coverage of all events or audio performance evidence."}],"materialization_status":"PRESENT_REVIEWED","curation_status":"INCLUDED","inclusion_basis":"DEDICATED","notes":"Dedicated active-provisional Furina V1 monograph; nonauthoritative before G8."}'))
+
+        cinderella_rows = [
+            row
+            for row in character_rows
+            if row["series_id"] == "the-idolmaster-cinderella-girls-mobile-games"
+        ]
+        expected_cinderella_rows = [
+            json.loads('{"analysis_subject_id":"the-idolmaster:futaba-anzu@cinderella-girls-mobile-games","analytical_coverage":[{"continuity_id":"the-idolmaster-cinderella-girls-mobile-games","coverage_id":"futaba-anzu-mobile-game-corpus","evidence_ids":["futaba-anzu-mobile-game-monograph","futaba-anzu-mobile-game-monograph-audit"],"medium":"GAME","scope_note":"Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, and adaptation continuities are excluded.","scope_type":"DESCRIPTIVE","unit":"OTHER"}],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","ETHICS","RELATIONSHIPS"],"character_entity_id":"the-idolmaster:futaba-anzu","continuity_id":"the-idolmaster-cinderella-girls-mobile-games","curation_status":"INCLUDED","entity_aliases":[],"evidence":[{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","ETHICS","RELATIONSHIPS"],"evidence_id":"futaba-anzu-mobile-game-monograph","label":"Futaba Anzu mobile-game character monograph","provenance_note":"Migrated from preserved Drive object 18-s1yon5DPtKbXXHqorhmPYBec6ZTddC.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_FUTABA_ANZU_CHARACTER_MONOGRAPH.md","review_state":"REVIEWED"},{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","ETHICS","RELATIONSHIPS"],"evidence_id":"futaba-anzu-mobile-game-monograph-audit","label":"Futaba Anzu mobile-game monograph audit","provenance_note":"Migrated from preserved Drive object 1MTgGe0oCawT4o3_F0kDWjOb6O1cZr-Bj.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_FUTABA_ANZU_MONOGRAPH_AUDIT.md","review_state":"REVIEWED"}],"franchise_id":"the-idolmaster","incarnation_id":null,"inclusion_basis":"DEDICATED","materialization_status":"PRESENT_REVIEWED","notes":"Dedicated active-provisional monograph with a canonical audit; nonauthoritative before G8.","preferred_name":"Futaba Anzu","schema_version":2,"series_id":"the-idolmaster-cinderella-girls-mobile-games","state_id":null,"subject_aliases":[],"subject_kind":"SINGLE_CONTINUITY","subject_label":"Cinderella Girls mobile games"}'),
+            json.loads('{"analysis_subject_id":"the-idolmaster:hayami-kanade@cinderella-girls-mobile-games","analytical_coverage":[{"continuity_id":"the-idolmaster-cinderella-girls-mobile-games","coverage_id":"hayami-kanade-mobile-game-corpus","evidence_ids":["hayami-kanade-mobile-game-monograph","hayami-kanade-mobile-game-monograph-audit"],"medium":"GAME","scope_note":"Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is not acquired, and adaptation continuities are excluded.","scope_type":"DESCRIPTIVE","unit":"OTHER"}],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS"],"character_entity_id":"the-idolmaster:hayami-kanade","continuity_id":"the-idolmaster-cinderella-girls-mobile-games","curation_status":"INCLUDED","entity_aliases":[],"evidence":[{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS"],"evidence_id":"hayami-kanade-mobile-game-monograph","label":"Hayami Kanade mobile-game character monograph","provenance_note":"Migrated from preserved Drive object 1Y3mMCqxWg5Ns4kYVcR8IfrvaoLpwilnS.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_HAYAMI_KANADE_CHARACTER_MONOGRAPH.md","review_state":"REVIEWED"},{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS"],"evidence_id":"hayami-kanade-mobile-game-monograph-audit","label":"Hayami Kanade mobile-game monograph audit","provenance_note":"Migrated from preserved Drive object 1lOUMW_pkSgvsdRIQEWWRH1-mLXwzIhir.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_HAYAMI_KANADE_MONOGRAPH_AUDIT.md","review_state":"REVIEWED"}],"franchise_id":"the-idolmaster","incarnation_id":null,"inclusion_basis":"DEDICATED","materialization_status":"PRESENT_REVIEWED","notes":"Dedicated active-provisional monograph with a canonical audit; nonauthoritative before G8.","preferred_name":"Hayami Kanade","schema_version":2,"series_id":"the-idolmaster-cinderella-girls-mobile-games","state_id":null,"subject_aliases":[],"subject_kind":"SINGLE_CONTINUITY","subject_label":"Cinderella Girls mobile games"}'),
+            json.loads('{"analysis_subject_id":"the-idolmaster:hisakawa-nagi@cinderella-girls-mobile-games","analytical_coverage":[{"continuity_id":"the-idolmaster-cinderella-girls-mobile-games","coverage_id":"hisakawa-nagi-mobile-game-corpus","evidence_ids":["hisakawa-nagi-mobile-game-monograph","hisakawa-nagi-mobile-game-monograph-audit"],"medium":"GAME","scope_note":"Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is not acquired, and adaptation continuities are excluded.","scope_type":"DESCRIPTIVE","unit":"OTHER"}],"analytical_dimensions":["PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"character_entity_id":"the-idolmaster:hisakawa-nagi","continuity_id":"the-idolmaster-cinderella-girls-mobile-games","curation_status":"INCLUDED","entity_aliases":[],"evidence":[{"anchor":null,"dimensions":["PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"hisakawa-nagi-mobile-game-monograph","label":"Hisakawa Nagi mobile-game character monograph","provenance_note":"Migrated from preserved Drive object 12M6Vdyr0-_KLTpbwQJbIPpgWz1I8viQv.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_HISAKAWA_NAGI_CHARACTER_MONOGRAPH.md","review_state":"REVIEWED"},{"anchor":null,"dimensions":["PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"hisakawa-nagi-mobile-game-monograph-audit","label":"Hisakawa Nagi mobile-game monograph audit","provenance_note":"Migrated from preserved Drive object 1iCw-5cBB-glP9hyDVOE6OlS4Py9oUclK.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_HISAKAWA_NAGI_MONOGRAPH_AUDIT.md","review_state":"REVIEWED"}],"franchise_id":"the-idolmaster","incarnation_id":null,"inclusion_basis":"DEDICATED","materialization_status":"PRESENT_REVIEWED","notes":"Dedicated active-provisional monograph with a canonical audit; nonauthoritative before G8.","preferred_name":"Hisakawa Nagi","schema_version":2,"series_id":"the-idolmaster-cinderella-girls-mobile-games","state_id":null,"subject_aliases":[],"subject_kind":"SINGLE_CONTINUITY","subject_label":"Cinderella Girls mobile games"}'),
+            json.loads('{"analysis_subject_id":"the-idolmaster:hojo-karen@cinderella-girls-mobile-games","analytical_coverage":[{"continuity_id":"the-idolmaster-cinderella-girls-mobile-games","coverage_id":"hojo-karen-mobile-game-corpus","evidence_ids":["hojo-karen-mobile-game-monograph","hojo-karen-mobile-game-monograph-audit"],"medium":"GAME","scope_note":"Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and adaptation continuities are excluded.","scope_type":"DESCRIPTIVE","unit":"OTHER"}],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"character_entity_id":"the-idolmaster:hojo-karen","continuity_id":"the-idolmaster-cinderella-girls-mobile-games","curation_status":"INCLUDED","entity_aliases":[],"evidence":[{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"hojo-karen-mobile-game-monograph","label":"Hojo Karen mobile-game character monograph","provenance_note":"Migrated from preserved Drive object 1OTt8FEMAUy-efBDeCpTOgOm7m_NJ06bA.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_HOJO_KAREN_CHARACTER_MONOGRAPH.md","review_state":"REVIEWED"},{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"hojo-karen-mobile-game-monograph-audit","label":"Hojo Karen mobile-game monograph audit","provenance_note":"Migrated from preserved Drive object 1FnVGaeDGKkjqy3sp_NDwM3PY9VJo7HB1.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_HOJO_KAREN_MONOGRAPH_AUDIT.md","review_state":"REVIEWED"}],"franchise_id":"the-idolmaster","incarnation_id":null,"inclusion_basis":"DEDICATED","materialization_status":"PRESENT_REVIEWED","notes":"Dedicated active-provisional monograph with a canonical audit; nonauthoritative before G8.","preferred_name":"Hojo Karen","schema_version":2,"series_id":"the-idolmaster-cinderella-girls-mobile-games","state_id":null,"subject_aliases":[],"subject_kind":"SINGLE_CONTINUITY","subject_label":"Cinderella Girls mobile games"}'),
+            json.loads('{"analysis_subject_id":"the-idolmaster:kanzaki-ranko@cinderella-girls-mobile-games","analytical_coverage":[{"continuity_id":"the-idolmaster-cinderella-girls-mobile-games","coverage_id":"kanzaki-ranko-mobile-game-corpus","evidence_ids":["kanzaki-ranko-mobile-game-monograph","kanzaki-ranko-mobile-game-monograph-audit"],"medium":"GAME","scope_note":"Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and adaptation continuities are excluded.","scope_type":"DESCRIPTIVE","unit":"OTHER"}],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS"],"character_entity_id":"the-idolmaster:kanzaki-ranko","continuity_id":"the-idolmaster-cinderella-girls-mobile-games","curation_status":"INCLUDED","entity_aliases":[],"evidence":[{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS"],"evidence_id":"kanzaki-ranko-mobile-game-monograph","label":"Kanzaki Ranko mobile-game character monograph","provenance_note":"Migrated from preserved Drive object 1CFghwDnA-7gR1rNT_Fghvliu2Pvo5NOg.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_KANZAKI_RANKO_CHARACTER_MONOGRAPH.md","review_state":"REVIEWED"},{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS"],"evidence_id":"kanzaki-ranko-mobile-game-monograph-audit","label":"Kanzaki Ranko mobile-game monograph audit","provenance_note":"Migrated from preserved Drive object 1Dd-tkAaW3Ld1ac04kdNvBaRXCH-JvKPF.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_KANZAKI_RANKO_MONOGRAPH_AUDIT.md","review_state":"REVIEWED"}],"franchise_id":"the-idolmaster","incarnation_id":null,"inclusion_basis":"DEDICATED","materialization_status":"PRESENT_REVIEWED","notes":"Dedicated active-provisional monograph with a canonical audit; nonauthoritative before G8.","preferred_name":"Kanzaki Ranko","schema_version":2,"series_id":"the-idolmaster-cinderella-girls-mobile-games","state_id":null,"subject_aliases":[],"subject_kind":"SINGLE_CONTINUITY","subject_label":"Cinderella Girls mobile games"}'),
+            json.loads('{"analysis_subject_id":"the-idolmaster:kobayakawa-sae@cinderella-girls-mobile-games","analytical_coverage":[{"continuity_id":"the-idolmaster-cinderella-girls-mobile-games","coverage_id":"kobayakawa-sae-mobile-game-corpus","evidence_ids":["kobayakawa-sae-mobile-game-monograph","kobayakawa-sae-mobile-game-monograph-audit"],"medium":"GAME","scope_note":"Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is not acquired, and adaptation continuities are excluded.","scope_type":"DESCRIPTIVE","unit":"OTHER"}],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"character_entity_id":"the-idolmaster:kobayakawa-sae","continuity_id":"the-idolmaster-cinderella-girls-mobile-games","curation_status":"INCLUDED","entity_aliases":[],"evidence":[{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"kobayakawa-sae-mobile-game-monograph","label":"Kobayakawa Sae mobile-game character monograph","provenance_note":"Migrated from preserved Drive object 1UchaatRPIc9BoxbXj-hvLGZajqvQ2NaY.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_KOBAYAKAWA_SAE_CHARACTER_MONOGRAPH.md","review_state":"REVIEWED"},{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"kobayakawa-sae-mobile-game-monograph-audit","label":"Kobayakawa Sae mobile-game monograph audit","provenance_note":"Migrated from preserved Drive object 1AyXAE4uJ7QftjNAKl7RT7-jkmtpr9ng8.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_KOBAYAKAWA_SAE_MONOGRAPH_AUDIT.md","review_state":"REVIEWED"}],"franchise_id":"the-idolmaster","incarnation_id":null,"inclusion_basis":"DEDICATED","materialization_status":"PRESENT_REVIEWED","notes":"Dedicated active-provisional monograph with a canonical audit; nonauthoritative before G8.","preferred_name":"Kobayakawa Sae","schema_version":2,"series_id":"the-idolmaster-cinderella-girls-mobile-games","state_id":null,"subject_aliases":[],"subject_kind":"SINGLE_CONTINUITY","subject_label":"Cinderella Girls mobile games"}'),
+            json.loads('{"analysis_subject_id":"the-idolmaster:ninomiya-asuka@cinderella-girls-mobile-games","analytical_coverage":[{"continuity_id":"the-idolmaster-cinderella-girls-mobile-games","coverage_id":"ninomiya-asuka-mobile-game-corpus","evidence_ids":["ninomiya-asuka-mobile-game-monograph","ninomiya-asuka-mobile-game-monograph-audit"],"medium":"GAME","scope_note":"Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and adaptation continuities are excluded.","scope_type":"DESCRIPTIVE","unit":"OTHER"}],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","IDEOLOGY"],"character_entity_id":"the-idolmaster:ninomiya-asuka","continuity_id":"the-idolmaster-cinderella-girls-mobile-games","curation_status":"INCLUDED","entity_aliases":[],"evidence":[{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","IDEOLOGY"],"evidence_id":"ninomiya-asuka-mobile-game-monograph","label":"Ninomiya Asuka mobile-game character monograph","provenance_note":"Migrated from preserved Drive object 1Hg3BXJsk-e9zvar8vSOde3hgFsBwkiYX.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_NINOMIYA_ASUKA_CHARACTER_MONOGRAPH.md","review_state":"REVIEWED"},{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","IDEOLOGY"],"evidence_id":"ninomiya-asuka-mobile-game-monograph-audit","label":"Ninomiya Asuka mobile-game monograph audit","provenance_note":"Migrated from preserved Drive object 1EFxZFX9F4GVXowXEx5gug9c7FqXlEZT4.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_NINOMIYA_ASUKA_MONOGRAPH_AUDIT.md","review_state":"REVIEWED"}],"franchise_id":"the-idolmaster","incarnation_id":null,"inclusion_basis":"DEDICATED","materialization_status":"PRESENT_REVIEWED","notes":"Dedicated active-provisional monograph with a canonical audit; nonauthoritative before G8.","preferred_name":"Ninomiya Asuka","schema_version":2,"series_id":"the-idolmaster-cinderella-girls-mobile-games","state_id":null,"subject_aliases":[],"subject_kind":"SINGLE_CONTINUITY","subject_label":"Cinderella Girls mobile games"}'),
+            json.loads('{"analysis_subject_id":"the-idolmaster:nitta-minami@cinderella-girls-mobile-games","analytical_coverage":[{"continuity_id":"the-idolmaster-cinderella-girls-mobile-games","coverage_id":"nitta-minami-mobile-game-corpus","evidence_ids":["nitta-minami-mobile-game-monograph","nitta-minami-mobile-game-monograph-audit"],"medium":"GAME","scope_note":"Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and adaptation continuities are excluded.","scope_type":"DESCRIPTIVE","unit":"OTHER"}],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"character_entity_id":"the-idolmaster:nitta-minami","continuity_id":"the-idolmaster-cinderella-girls-mobile-games","curation_status":"INCLUDED","entity_aliases":[],"evidence":[{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"nitta-minami-mobile-game-monograph","label":"Nitta Minami mobile-game character monograph","provenance_note":"Migrated from preserved Drive object 16_uez2i4Qdq5GepkWF0uO24qjMlJB9V_.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_NITTA_MINAMI_CHARACTER_MONOGRAPH.md","review_state":"REVIEWED"},{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"nitta-minami-mobile-game-monograph-audit","label":"Nitta Minami mobile-game monograph audit","provenance_note":"Migrated from preserved Drive object 1Tno1Y_-ipFuokgTbHjJpc_qDvIyzA8i8.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_NITTA_MINAMI_MONOGRAPH_AUDIT.md","review_state":"REVIEWED"}],"franchise_id":"the-idolmaster","incarnation_id":null,"inclusion_basis":"DEDICATED","materialization_status":"PRESENT_REVIEWED","notes":"Dedicated active-provisional monograph with a canonical audit; nonauthoritative before G8.","preferred_name":"Nitta Minami","schema_version":2,"series_id":"the-idolmaster-cinderella-girls-mobile-games","state_id":null,"subject_aliases":[],"subject_kind":"SINGLE_CONTINUITY","subject_label":"Cinderella Girls mobile games"}'),
+            json.loads('{"analysis_subject_id":"the-idolmaster:takagaki-kaede@cinderella-girls-mobile-games","analytical_coverage":[{"continuity_id":"the-idolmaster-cinderella-girls-mobile-games","coverage_id":"takagaki-kaede-mobile-game-corpus","evidence_ids":["takagaki-kaede-mobile-game-monograph","takagaki-kaede-mobile-game-monograph-audit"],"medium":"GAME","scope_note":"Integrated Mobage and Starlight Stage character analysis; Starlight Stage text is complete against the released categorized inventory, Mobage is structurally incomplete, audio is representative only, and the 2015 television anime is excluded.","scope_type":"DESCRIPTIVE","unit":"OTHER"}],"analytical_dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"character_entity_id":"the-idolmaster:takagaki-kaede","continuity_id":"the-idolmaster-cinderella-girls-mobile-games","curation_status":"INCLUDED","entity_aliases":[],"evidence":[{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"takagaki-kaede-mobile-game-monograph","label":"Takagaki Kaede mobile-game character monograph","provenance_note":"Migrated from preserved Drive object 1hDBbqyhsVOV3l54F66RhksX4SRXlPdjH.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/04 Specialist Synthesis/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md","review_state":"REVIEWED"},{"anchor":null,"dimensions":["BEHAVIOR","PSYCHOLOGY","SPEECH","RELATIONSHIPS","DECISION_MAKING"],"evidence_id":"takagaki-kaede-mobile-game-monograph-audit","label":"Takagaki Kaede mobile-game monograph audit","provenance_note":"Migrated from preserved Drive object 1uLlBexjsm8KKfa87c4zm8dcohgRnh8XE.","repository_path":"series/the-idolmaster-cinderella-girls-mobile-games/08 Audits and Manifests/CINDERELLA_GIRLS_TAKAGAKI_KAEDE_MONOGRAPH_AUDIT.md","review_state":"REVIEWED"}],"franchise_id":"the-idolmaster","incarnation_id":null,"inclusion_basis":"DEDICATED","materialization_status":"PRESENT_REVIEWED","notes":"Dedicated active-provisional monograph with a canonical audit; nonauthoritative before G8.","preferred_name":"Takagaki Kaede","schema_version":2,"series_id":"the-idolmaster-cinderella-girls-mobile-games","state_id":null,"subject_aliases":[],"subject_kind":"SINGLE_CONTINUITY","subject_label":"Cinderella Girls mobile games"}'),
+        ]
+        self.assertEqual(cinderella_rows, expected_cinderella_rows)
 
         def rows(relative: str) -> list[dict[str, object]]:
             return [
@@ -984,6 +1027,49 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertEqual(reference_result["result"], "REFERENCE_VERIFIED_NOT_MATERIALIZED")
         self.assertEqual(reference_result["source_sha256"], "ec5267566cd0cf7333d30c3aaa67f131f6c65cd9e5966f77a216c0d23d74687b")
         self.assertNotIn("destination_path", reference_result)
+
+        cinderella_mappings = [
+            row
+            for row in rows("crosswalk/drive-to-git.jsonl")
+            if row.get("series_id") == "the-idolmaster-cinderella-girls-mobile-games"
+        ]
+        self.assertEqual(len(cinderella_mappings), 23)
+        cinderella_output_table = "".join(
+            f"{row['git_path']}\t{row['git_bytes']}\t{row['git_sha256']}\n"
+            for row in sorted(
+                cinderella_mappings,
+                key=lambda item: item["git_path"].encode("utf-8"),
+            )
+        ).encode("utf-8")
+        self.assertEqual(
+            hashlib.sha256(cinderella_output_table).hexdigest(),
+            "0b3333c5b5ed0afe39064e8199518401c93ff3d0bb21278efddf7d0a64097923",
+        )
+        cinderella_plans = [
+            row
+            for row in rows("crosswalk/path-plan.jsonl")
+            if row.get("destination_path", "").startswith("series/the-idolmaster-cinderella-girls-mobile-games/")
+        ]
+        cinderella_results = [
+            row
+            for row in rows("crosswalk/materialization-results.jsonl")
+            if row.get("run_id") == "g5-t04-cinderella-girls-mobile-games-20260901T105439Z"
+        ]
+        self.assertEqual(len(cinderella_plans), 23)
+        self.assertEqual(len(cinderella_results), 23)
+        self.assertTrue(all(row["decision"] == "MIGRATE_TEXT" for row in cinderella_plans))
+        self.assertTrue(
+            all(row["result"] == "MATERIALIZED_AND_HASH_VERIFIED" for row in cinderella_results)
+        )
+        t04_structural_folder_ids = {'16xM-jDfd-HMBhuQW43AasjAw1UyU4XZ9', '19Sp8zzbkXW7KltGW3wh2Z7WFk9Qtw0eu', '1sOScrjWBHt0kmeqY0P-pWOdgfcwBUTp4'}
+        for relative in (
+            "crosswalk/drive-to-git.jsonl",
+            "crosswalk/path-plan.jsonl",
+            "crosswalk/materialization-results.jsonl",
+        ):
+            self.assertFalse(
+                any(row["drive_id"] in t04_structural_folder_ids for row in rows(relative))
+            )
 
     def test_g5_t01_maebashi_tuple_is_exact(self) -> None:
         drive_ids = {
