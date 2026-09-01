@@ -73,4 +73,23 @@ This index records source identifiers, verified Git-candidate derivatives, and s
 | `1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg` | `18` | [17-reupload-needed.tsv](../../studies/doujinshi-fanwork-comparative-taxonomy/01%20Project%20Registry%20and%20Source%20Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/17-reupload-needed.tsv) | `5cebbd385b260e349ac54befbc22b5edc80bb8e9e96b4997eac507f123eb72af` | `8057dfe4c915d7feaf86421d1fdae969b2d6b2e8bad58dc1650988e825d69cda` |
 | `1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg` | `18` | `REFERENCE_DRIVE` — native XLSX retained outside Git | `5cebbd385b260e349ac54befbc22b5edc80bb8e9e96b4997eac507f123eb72af` | — |
 
+## P04 ZIP/reference boundary
+
+- Run: `g4-p04-zip-reference-20260901T053758Z`
+- Frozen source-slice SHA-256: `4c2130e9608ec85ea9b1ca02fe5b0ed4c37f6108979eb950c9f87e12308a6c04`
+- Validated reference-only receipt SHA-256: `a802b0765d51109b4c2fa1bc18a78d42e772589073e522f706aa49d8b9ffbce4`
+- Representation slice: `null`
+- Disposition: six archives totaling 814,501 bytes retained outside Git; zero copied or represented objects
+
+The two same-logical-path Temari objects and two same-logical-path Lilja objects remain distinct identities by Drive file ID, byte length, and SHA-256. These records do not publish archive members, make a Gakuen Idolmaster analysis tree available, or grant retrieval, extraction, or licensing authority.
+
+| Drive file ID | Source archive identity | Bytes | SHA-256 | Disposition |
+|---|---|---:|---|---|
+| `1KjeSZCwRGXuNn4Lyo1S-VmgIP3_PlDrd` | `Gakuen Idolmaster/10_RELEASE_MANIFEST_AND_ARCHIVE/GAKUEN_IDOLMASTER_PHASE3_TEMARI_CHARACTER_CORE.zip` | 122,672 | `40b355004c1b176f39779303b60dbd33415a0bb88810d3132df7e22c86376a1b` | `REFERENCE_DRIVE`; no Git destination |
+| `1_FOnm73lxvcx1QwLxS-1AA896C_2_1Ik` | `Gakuen Idolmaster/10_RELEASE_MANIFEST_AND_ARCHIVE/GAKUEN_IDOLMASTER_PHASE3_LILJA_CHARACTER_CORE.zip` | 129,983 | `8b28d8a806763472826b800c2a0e5b34f749c86154cf5a251a82036ac81dadd2` | `REFERENCE_DRIVE`; no Git destination |
+| `1j6EvtMB11kG3E1s-eoB6RcRWyhrfDZyc` | `Gakuen Idolmaster/10_RELEASE_MANIFEST_AND_ARCHIVE/GAKUEN_IDOLMASTER_PHASE3_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.zip` | 131,808 | `af05ee2c76b35e2d84344e2070fb24b84c0c26e6e44a835d6835cd94bc4206d7` | `REFERENCE_DRIVE`; no Git destination |
+| `1oVFv4UQJbqqhY1nCnG9wmkduSh7mgM8U` | `Gakuen Idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/05_KATSURAGI_LILJA/GAKUEN_IDOLMASTER_PHASE3_LILJA_INTEGRATED_AV_R1.zip` | 398 | `03a863418e09542118a4afed9f23d034b9f0ee6a4f83f755d79826d29c641b91` | `REFERENCE_DRIVE`; no Git destination |
+| `1u3Yc2D3rhzUrhE1XKpTBdE0jj863xD6d` | `Gakuen Idolmaster/10_RELEASE_MANIFEST_AND_ARCHIVE/GAKUEN_IDOLMASTER_PHASE3_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.zip` | 429,394 | `7656ee5e8fd5cdf4909da218f35138d8f074754b19cf04b282186656df727294` | `REFERENCE_DRIVE`; no Git destination |
+| `1xajzp2rB8zhw0wcCykogJAKGahsPJdgA` | `Gakuen Idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/05_KATSURAGI_LILJA/GAKUEN_IDOLMASTER_PHASE3_LILJA_INTEGRATED_AV_R1.zip` | 246 | `cd71a44a4d598beb7138171e6c1ae2cfa28cb3da53fc900633f6e127e8d5b221` | `REFERENCE_DRIVE`; no Git destination |
+
 The machine-readable mappings are in [`crosswalk/drive-to-git.jsonl`](../../crosswalk/drive-to-git.jsonl), [`crosswalk/materialization-results.jsonl`](../../crosswalk/materialization-results.jsonl), and [`crosswalk/path-plan.jsonl`](../../crosswalk/path-plan.jsonl).

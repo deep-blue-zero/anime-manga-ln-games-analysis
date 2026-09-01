@@ -667,14 +667,17 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G3",
             "current_gate": "G4_REPRESENTATIVE_PILOTS",
-            "current_subphase": "P03_NATIVE_DOCUMENT_AND_SHEET_CANDIDATE",
+            "current_subphase": "P04_ZIP_REFERENCE_CONTROL",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
                 "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET",
             ],
+            "integrated_reference_controls": [
+                "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY",
+            ],
             "p01_p04_local_preparation": (
-                "P04_PRESERVED_P01_P03_INTEGRATED"
+                "P04_COMPLETE_P01_P03_MATERIALIZED_P04_REFERENCE_ONLY"
             ),
             "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
             "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED",
@@ -979,6 +982,169 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertEqual(len(reference_plans), 1)
         self.assertEqual(reference_plans[0]["drive_id"], sheet_drive_id)
         self.assertEqual(reference_plans[0]["decision"], "REFERENCE_DRIVE")
+
+    def test_p04_zip_references_are_exact_and_destination_free(self) -> None:
+        run_id = "g4-p04-zip-reference-20260901T053758Z"
+        expected_sources = [
+            {
+                "drive_id": "1KjeSZCwRGXuNn4Lyo1S-VmgIP3_PlDrd",
+                "source_bytes": 122_672,
+                "source_path": (
+                    "Gakuen Idolmaster/10_RELEASE_MANIFEST_AND_ARCHIVE/"
+                    "GAKUEN_IDOLMASTER_PHASE3_TEMARI_CHARACTER_CORE.zip"
+                ),
+                "source_sha256": (
+                    "40b355004c1b176f39779303b60dbd33415a0bb88810d3132df7e22c86376a1b"
+                ),
+            },
+            {
+                "drive_id": "1_FOnm73lxvcx1QwLxS-1AA896C_2_1Ik",
+                "source_bytes": 129_983,
+                "source_path": (
+                    "Gakuen Idolmaster/10_RELEASE_MANIFEST_AND_ARCHIVE/"
+                    "GAKUEN_IDOLMASTER_PHASE3_LILJA_CHARACTER_CORE.zip"
+                ),
+                "source_sha256": (
+                    "8b28d8a806763472826b800c2a0e5b34f749c86154cf5a251a82036ac81dadd2"
+                ),
+            },
+            {
+                "drive_id": "1j6EvtMB11kG3E1s-eoB6RcRWyhrfDZyc",
+                "source_bytes": 131_808,
+                "source_path": (
+                    "Gakuen Idolmaster/10_RELEASE_MANIFEST_AND_ARCHIVE/"
+                    "GAKUEN_IDOLMASTER_PHASE3_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.zip"
+                ),
+                "source_sha256": (
+                    "af05ee2c76b35e2d84344e2070fb24b84c0c26e6e44a835d6835cd94bc4206d7"
+                ),
+            },
+            {
+                "drive_id": "1oVFv4UQJbqqhY1nCnG9wmkduSh7mgM8U",
+                "source_bytes": 398,
+                "source_path": (
+                    "Gakuen Idolmaster/05_AUDIOVISUAL_ANALYSIS/"
+                    "00_MUSICAL_IDENTITY_BASELINES/05_KATSURAGI_LILJA/"
+                    "GAKUEN_IDOLMASTER_PHASE3_LILJA_INTEGRATED_AV_R1.zip"
+                ),
+                "source_sha256": (
+                    "03a863418e09542118a4afed9f23d034b9f0ee6a4f83f755d79826d29c641b91"
+                ),
+            },
+            {
+                "drive_id": "1u3Yc2D3rhzUrhE1XKpTBdE0jj863xD6d",
+                "source_bytes": 429_394,
+                "source_path": (
+                    "Gakuen Idolmaster/10_RELEASE_MANIFEST_AND_ARCHIVE/"
+                    "GAKUEN_IDOLMASTER_PHASE3_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.zip"
+                ),
+                "source_sha256": (
+                    "7656ee5e8fd5cdf4909da218f35138d8f074754b19cf04b282186656df727294"
+                ),
+            },
+            {
+                "drive_id": "1xajzp2rB8zhw0wcCykogJAKGahsPJdgA",
+                "source_bytes": 246,
+                "source_path": (
+                    "Gakuen Idolmaster/05_AUDIOVISUAL_ANALYSIS/"
+                    "00_MUSICAL_IDENTITY_BASELINES/05_KATSURAGI_LILJA/"
+                    "GAKUEN_IDOLMASTER_PHASE3_LILJA_INTEGRATED_AV_R1.zip"
+                ),
+                "source_sha256": (
+                    "cd71a44a4d598beb7138171e6c1ae2cfa28cb3da53fc900633f6e127e8d5b221"
+                ),
+            },
+        ]
+        expected_ids = {item["drive_id"] for item in expected_sources}
+
+        def load_rows(relative: str) -> list[dict[str, object]]:
+            return [
+                json.loads(line)
+                for line in (REPOSITORY_ROOT / relative)
+                .read_text(encoding="utf-8")
+                .splitlines()
+                if line
+            ]
+
+        drive_rows = load_rows("crosswalk/drive-to-git.jsonl")
+        self.assertFalse(any(row["drive_id"] in expected_ids for row in drive_rows))
+
+        plans = [
+            row
+            for row in load_rows("crosswalk/path-plan.jsonl")
+            if row["drive_id"] in expected_ids
+        ]
+        expected_plans = [
+            {
+                "decision": "REFERENCE_DRIVE",
+                "drive_id": source["drive_id"],
+                "path_status": "REFERENCE_VERIFIED_NOT_MATERIALIZED",
+                "schema_version": 1,
+                "source_path": source["source_path"],
+            }
+            for source in expected_sources
+        ]
+        self.assertEqual(plans, expected_plans)
+
+        all_results = load_rows("crosswalk/materialization-results.jsonl")
+        results = [
+            row
+            for row in all_results
+            if row["drive_id"] in expected_ids
+        ]
+        expected_results = [
+            {
+                "drive_id": source["drive_id"],
+                "result": "REFERENCE_VERIFIED_NOT_MATERIALIZED",
+                "run_id": run_id,
+                "schema_version": 1,
+                "source_bytes": source["source_bytes"],
+                "source_path": source["source_path"],
+                "source_sha256": source["source_sha256"],
+                "terminal_action": "REFERENCE_DRIVE",
+                "transformation": "REFERENCE_NO_COPY",
+            }
+            for source in expected_sources
+        ]
+        self.assertEqual(results, expected_results)
+        self.assertEqual(
+            [row for row in all_results if row.get("run_id") == run_id],
+            expected_results,
+        )
+
+        prohibited = {
+            "destination_path",
+            "destination_sha256",
+            "destination_bytes",
+            "representation_id",
+            "series_id",
+            "study_id",
+        }
+        for row in [*plans, *results]:
+            self.assertFalse(prohibited & set(row))
+
+        tracked_paths = (
+            REPOSITORY_ROOT
+            / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
+        ).read_text(encoding="utf-8").splitlines()
+        self.assertEqual(len(tracked_paths), 81)
+        self.assertFalse(any(path.casefold().endswith(".zip") for path in tracked_paths))
+        self.assertFalse(
+            any(path.startswith("series/gakuen-idolmaster/") for path in tracked_paths)
+        )
+
+        provenance = (
+            REPOSITORY_ROOT
+            / "provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md"
+        ).read_text(encoding="utf-8")
+        exclusion = (
+            REPOSITORY_ROOT
+            / "governance/reports/ARTIFACT_EXCLUSION_REPORT.md"
+        ).read_text(encoding="utf-8")
+        for source in expected_sources:
+            for document in (provenance, exclusion):
+                self.assertIn(source["drive_id"], document)
+                self.assertIn(source["source_sha256"], document)
 
     def test_historical_private_bootstrap_bindings_are_unchanged(self) -> None:
         historical = {
