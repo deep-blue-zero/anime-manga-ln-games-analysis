@@ -83,6 +83,55 @@
       "external_reference_insufficient": "An external-only reference would remove the directly queryable provenance relationships needed to interpret and audit the migrated analysis."
     }
   ],
+  "named_whitespace_exceptions": [
+    {
+      "path": "series/genshin-impact/05 Character Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 106096,
+      "sha256": "0e8bc9dbaebdc985adccf3d5260fda2aef1a43f0ef1d46e38dda340ab47571a4",
+      "exception_id": "GENSHIN_FURINA_COMMONMARK_HARD_BREAKS",
+      "attribute": "whitespace=-blank-at-eol",
+      "trailing_ascii_spaces": 2,
+      "line_numbers": [
+        16,
+        17,
+        18,
+        19,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "purpose": "Preserve 35 intentional CommonMark hard breaks in the source-exact Furina monograph.",
+      "review_decision": "STANDING_AUTHORITY_G5_T03_COMMONMARK_HARD_BREAK_TUPLE"
+    }
+  ],
   "allowed_commit_identities": [
     {
       "name": "deep-blue-zero",

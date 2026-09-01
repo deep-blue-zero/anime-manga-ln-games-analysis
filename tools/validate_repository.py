@@ -83,6 +83,13 @@ SHA256_RE = re.compile(r"^[0-9a-f]{64}$")
 REPRESENTATION_ID_RE = re.compile(r"^repr-[0-9a-f]{24}$")
 POSITIVE_DECIMAL_RE = re.compile(r"^[1-9][0-9]*$")
 EXCEL_RANGE_RE = re.compile(r"^A1:([A-Z]+)([1-9][0-9]*)$")
+DJFW_TSV_WHITESPACE_ATTRIBUTE_RULE = (
+    '"studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and '
+    'Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/*.tsv" whitespace=-blank-at-eol'
+)
+WHITESPACE_ATTRIBUTE_TOKEN_RE = re.compile(
+    r"(?:^|[ \t])(?:whitespace(?:=[^ \t]+)?|-whitespace|!whitespace)(?=$|[ \t])"
+)
 
 
 def _git_paths(root: Path, *args: str) -> list[str]:
@@ -395,6 +402,174 @@ def load_named_text_exceptions(
         if not any(error.startswith(label) for error in errors):
             exceptions[path] = item
     return exceptions, errors
+
+
+def load_named_whitespace_exceptions(
+    policy: Mapping[str, Any],
+) -> tuple[dict[str, Mapping[str, Any]], list[str]]:
+    """Parse exact, byte-bound waivers for intentional Markdown hard breaks."""
+
+    raw = policy.get("named_whitespace_exceptions", [])
+    if not isinstance(raw, list):
+        return {}, ["named_whitespace_exceptions must be a list"]
+
+    required_fields = {
+        "path",
+        "bytes",
+        "sha256",
+        "exception_id",
+        "attribute",
+        "trailing_ascii_spaces",
+        "line_numbers",
+        "purpose",
+        "review_decision",
+    }
+    exceptions: dict[str, Mapping[str, Any]] = {}
+    errors: list[str] = []
+    for index, item in enumerate(raw):
+        label = f"named_whitespace_exceptions[{index}]"
+        if not isinstance(item, Mapping):
+            errors.append(f"{label} must be an object")
+            continue
+        fields = set(item)
+        if fields != required_fields:
+            errors.append(
+                f"{label} field-set mismatch; missing={sorted(required_fields - fields)}, "
+                f"extra={sorted(fields - required_fields)}"
+            )
+            continue
+
+        path = item["path"]
+        if not isinstance(path, str):
+            errors.append(f"{label}.path must be a string")
+            continue
+        try:
+            validate_repository_path(path)
+        except DomainError as exc:
+            errors.append(f"{label}.path is invalid: {exc}")
+            continue
+        if Path(path).suffix.casefold() != ".md":
+            errors.append(f"{label}.path must identify a Markdown artifact")
+        if '"' in path:
+            errors.append(f"{label}.path cannot contain a double quote")
+        if path in exceptions:
+            errors.append(f"duplicate named whitespace exception path: {path}")
+            continue
+
+        byte_length = item["bytes"]
+        if isinstance(byte_length, bool) or not isinstance(byte_length, int) or byte_length <= 0:
+            errors.append(f"{label}.bytes must be a positive integer")
+        sha256 = item["sha256"]
+        if not isinstance(sha256, str) or SHA256_RE.fullmatch(sha256) is None:
+            errors.append(f"{label}.sha256 must be exactly 64 lowercase hexadecimal characters")
+        exception_id = item["exception_id"]
+        if (
+            not isinstance(exception_id, str)
+            or re.fullmatch(r"[A-Z][A-Z0-9_]*", exception_id) is None
+        ):
+            errors.append(f"{label}.exception_id must be an uppercase ASCII identifier")
+        if item["attribute"] != "whitespace=-blank-at-eol":
+            errors.append(
+                f"{label}.attribute must equal whitespace=-blank-at-eol"
+            )
+        if item["trailing_ascii_spaces"] != 2:
+            errors.append(f"{label}.trailing_ascii_spaces must equal 2")
+        line_numbers = item["line_numbers"]
+        if (
+            not isinstance(line_numbers, list)
+            or not line_numbers
+            or any(
+                isinstance(value, bool) or not isinstance(value, int) or value <= 0
+                for value in line_numbers
+            )
+            or line_numbers != sorted(set(line_numbers))
+        ):
+            errors.append(
+                f"{label}.line_numbers must be a nonempty sorted unique list of positive integers"
+            )
+        for field in ("purpose", "review_decision"):
+            value = item[field]
+            if (
+                not isinstance(value, str)
+                or not value
+                or value != value.strip()
+                or "\n" in value
+                or "\r" in value
+            ):
+                errors.append(f"{label}.{field} must be a nonempty single-line string")
+
+        if not any(error.startswith(label) for error in errors):
+            exceptions[path] = item
+    return exceptions, errors
+
+
+def validate_named_whitespace_exceptions(
+    snapshot: GitSnapshot, policy: Mapping[str, Any]
+) -> list[str]:
+    """Bind each whitespace waiver to exact bytes, lines, and one Git attribute."""
+
+    exceptions, errors = load_named_whitespace_exceptions(policy)
+    attributes_entry = snapshot.get(".gitattributes")
+    if attributes_entry is None or attributes_entry.mode != "100644":
+        return errors + ["missing regular .gitattributes for whitespace controls"]
+    try:
+        attributes_text = attributes_entry.data.decode("utf-8", "strict")
+    except UnicodeDecodeError as exc:
+        return errors + [f".gitattributes is not UTF-8: {exc}"]
+
+    nested_attributes = sorted(
+        path
+        for path in snapshot.entries
+        if path != ".gitattributes" and PurePosixPath(path).name == ".gitattributes"
+    )
+    if nested_attributes:
+        errors.append(
+            f"nested .gitattributes files are prohibited: {nested_attributes}"
+        )
+
+    active_rules = [
+        line
+        for line in attributes_text.splitlines()
+        if line
+        and not line.lstrip().startswith("#")
+        and WHITESPACE_ATTRIBUTE_TOKEN_RE.search(line) is not None
+    ]
+    expected_rules = [DJFW_TSV_WHITESPACE_ATTRIBUTE_RULE]
+    expected_rules.extend(
+        f'"{path}" {item["attribute"]}'
+        for path, item in sorted(exceptions.items(), key=lambda pair: pair[0].encode("utf-8"))
+    )
+    if active_rules != expected_rules:
+        errors.append(
+            ".gitattributes whitespace rules must equal the exact approved TSV and "
+            "named byte-bound exception set"
+        )
+
+    for path, item in sorted(exceptions.items(), key=lambda pair: pair[0].encode("utf-8")):
+        entry = snapshot.get(path)
+        if entry is None or entry.mode != "100644":
+            errors.append(f"unused named whitespace exception: {path}")
+            continue
+        actual_hash = hashlib.sha256(entry.data).hexdigest()
+        if len(entry.data) != item["bytes"] or actual_hash != item["sha256"]:
+            errors.append(f"named whitespace exception tuple mismatch: {path}")
+
+        actual_trailing: dict[int, bytes] = {}
+        for line_number, line in enumerate(entry.data.split(b"\n"), 1):
+            match = re.search(rb"[ \t]+$", line)
+            if match is not None:
+                actual_trailing[line_number] = match.group(0)
+        expected_trailing = {
+            line_number: b" " * item["trailing_ascii_spaces"]
+            for line_number in item["line_numbers"]
+        }
+        if actual_trailing != expected_trailing:
+            errors.append(
+                f"named whitespace exception line-shape mismatch: {path}; "
+                f"expected_lines={sorted(expected_trailing)}, "
+                f"actual_lines={sorted(actual_trailing)}"
+            )
+    return errors
 
 
 def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str) -> list[str]:
@@ -1639,6 +1814,7 @@ def main() -> int:
             errors.extend(validate_protected(snapshot))
             errors.extend(validate_markdown_links(snapshot))
             errors.extend(validate_audit_workflow(snapshot, policy))
+            errors.extend(validate_named_whitespace_exceptions(snapshot, policy))
             errors.extend(validate_crosswalk_closure(snapshot))
             errors.extend(validate_native_sheets(snapshot, not args.defer_schema_engine))
             errors.extend(validate_current_domain(root, snapshot, not args.defer_schema_engine))

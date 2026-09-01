@@ -40,6 +40,7 @@ from validate_repository import (  # noqa: E402
     validate_exact_set,
     validate_markdown_links,
     validate_native_sheets,
+    validate_named_whitespace_exceptions,
     validate_protected,
     worktree_paths,
     worktree_snapshot,
@@ -153,6 +154,109 @@ class PhaseValidationTests(unittest.TestCase):
                     "external_reference_insufficient": "An external-only reference would remove the directly queryable provenance relationships needed to interpret and audit the migrated analysis.",
                 }
             ],
+        )
+
+    def test_production_furina_commonmark_exception_is_exactly_bound(self) -> None:
+        policy = json.loads(
+            (ROOT / "governance/repository-controls/tracked-file-policy.json").read_bytes()
+        )
+        expected_lines = [*range(16, 20), *range(28, 59)]
+        self.assertEqual(len(expected_lines), 35)
+        self.assertEqual(
+            policy["named_whitespace_exceptions"],
+            [
+                {
+                    "path": "series/genshin-impact/05 Character Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md",
+                    "bytes": 106096,
+                    "sha256": "0e8bc9dbaebdc985adccf3d5260fda2aef1a43f0ef1d46e38dda340ab47571a4",
+                    "exception_id": "GENSHIN_FURINA_COMMONMARK_HARD_BREAKS",
+                    "attribute": "whitespace=-blank-at-eol",
+                    "trailing_ascii_spaces": 2,
+                    "line_numbers": expected_lines,
+                    "purpose": "Preserve 35 intentional CommonMark hard breaks in the source-exact Furina monograph.",
+                    "review_decision": "STANDING_AUTHORITY_G5_T03_COMMONMARK_HARD_BREAK_TUPLE",
+                }
+            ],
+        )
+
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        self.assertEqual(validate_named_whitespace_exceptions(snapshot, policy), [])
+
+    def test_furina_commonmark_exception_rejects_byte_or_line_shape_drift(self) -> None:
+        policy = json.loads(
+            (ROOT / "governance/repository-controls/tracked-file-policy.json").read_bytes()
+        )
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        path = policy["named_whitespace_exceptions"][0]["path"]
+        original = snapshot.entries[path].data
+        mutated = original.replace(b"  \n", b" \n", 1)
+        self.assertNotEqual(mutated, original)
+        failures = validate_named_whitespace_exceptions(
+            self.replace_entry(snapshot, path, mutated), policy
+        )
+        self.assertIn(f"named whitespace exception tuple mismatch: {path}", failures)
+        self.assertTrue(
+            any(
+                failure.startswith(f"named whitespace exception line-shape mismatch: {path};")
+                for failure in failures
+            )
+        )
+
+    def test_furina_commonmark_exception_rejects_broader_attribute_rule(self) -> None:
+        policy = json.loads(
+            (ROOT / "governance/repository-controls/tracked-file-policy.json").read_bytes()
+        )
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        attributes = snapshot.entries[".gitattributes"].data
+        exact = (
+            b'"series/genshin-impact/05 Character Monographs/'
+            b'GENSHIN_FURINA_CHARACTER_MONOGRAPH.md" whitespace=-blank-at-eol'
+        )
+        self.assertIn(exact, attributes)
+        broadened = attributes.replace(
+            exact,
+            b'"series/genshin-impact/**" whitespace=-blank-at-eol',
+            1,
+        )
+        failures = validate_named_whitespace_exceptions(
+            self.replace_entry(snapshot, ".gitattributes", broadened), policy
+        )
+        self.assertIn(
+            ".gitattributes whitespace rules must equal the exact approved TSV and "
+            "named byte-bound exception set",
+            failures,
+        )
+
+        for bypass in (
+            b'\n"series/genshin-impact/**" -whitespace\n',
+            b'\n"series/genshin-impact/**" !whitespace\n',
+            b'\n"series/genshin-impact/**" whitespace\n',
+        ):
+            with self.subTest(bypass=bypass):
+                failures = validate_named_whitespace_exceptions(
+                    self.replace_entry(snapshot, ".gitattributes", attributes + bypass),
+                    policy,
+                )
+                self.assertIn(
+                    ".gitattributes whitespace rules must equal the exact approved TSV and "
+                    "named byte-bound exception set",
+                    failures,
+                )
+
+        nested_path = "series/genshin-impact/.gitattributes"
+        nested_entries = dict(snapshot.entries)
+        nested_entries[nested_path] = SnapshotEntry(
+            nested_path,
+            "100644",
+            b"** -whitespace\n",
+            tracked=True,
+        )
+        failures = validate_named_whitespace_exceptions(
+            GitSnapshot(ROOT, "IN_MEMORY_NESTED_ATTRIBUTES", nested_entries), policy
+        )
+        self.assertIn(
+            f"nested .gitattributes files are prohibited: ['{nested_path}']",
+            failures,
         )
 
     def test_p03_crosswalk_three_leg_closure_and_snapshot_hashes_pass(self) -> None:

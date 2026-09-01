@@ -16,3 +16,4 @@
 /tools/** text eol=lf
 
 "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/*.tsv" whitespace=-blank-at-eol
+"series/genshin-impact/05 Character Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md" whitespace=-blank-at-eol

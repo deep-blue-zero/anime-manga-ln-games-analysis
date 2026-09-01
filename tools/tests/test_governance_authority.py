@@ -1503,10 +1503,14 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 self.assertEqual(hashlib.sha256(data).hexdigest(), expected)
 
     def test_p03_tsv_whitespace_exception_is_exact_and_not_broadened(self) -> None:
-        exact_rule = (
+        tsv_rule = (
             '"studies/doujinshi-fanwork-comparative-taxonomy/'
             '01 Project Registry and Source Lock/'
             'DJFW_PROJECT_CONTROL_SHEET.tabs/*.tsv" whitespace=-blank-at-eol'
+        )
+        furina_rule = (
+            '"series/genshin-impact/05 Character Monographs/'
+            'GENSHIN_FURINA_CHARACTER_MONOGRAPH.md" whitespace=-blank-at-eol'
         )
         attributes = (REPOSITORY_ROOT / ".gitattributes").read_text(
             encoding="utf-8"
@@ -1516,12 +1520,22 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             for line in attributes.splitlines()
             if line and not line.lstrip().startswith("#") and "whitespace=" in line
         ]
-        self.assertEqual(active_whitespace_rules, [exact_rule])
+        self.assertEqual(active_whitespace_rules, [tsv_rule, furina_rule])
 
         controls = (
             REPOSITORY_ROOT / "governance/policies/REPOSITORY_CONTROLS.md"
         ).read_text(encoding="utf-8")
-        self.assertIn(f"`{exact_rule}`", controls)
+        self.assertIn(f"`{tsv_rule}`", controls)
+        self.assertIn(f"`{furina_rule}`", controls)
+        self.assertIn(
+            "35 intentional CommonMark hard breaks on lines 16–19 and 28–58",
+            controls,
+        )
+        self.assertIn(
+            "106,096-byte length and SHA-256 "
+            "`0e8bc9dbaebdc985adccf3d5260fda2aef1a43f0ef1d46e38dda340ab47571a4`",
+            controls,
+        )
         for preserved_control in (
             "`blank-at-eof`",
             "schema validation",
