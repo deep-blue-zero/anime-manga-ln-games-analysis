@@ -1,0 +1,971 @@
+[
+  {
+    "volume": 1,
+    "filename": "Solo Leveling v01 (2021) (Digital) (1r0n).cbz",
+    "bytes": 79679088,
+    "sha256": "c7e7470774a10a3cc21db3a00c8fe8fcc08c423dca15b05e350fc4f8d7df2ea4",
+    "zip_test_bad_member": null,
+    "archive_entries": 314,
+    "image_files": 314,
+    "logical_pages": 321,
+    "logical_min": 0,
+    "logical_max": 320,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c000 (v01) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c003 (v01) - p320 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "000",
+        "first_logical_page": 0,
+        "last_logical_page": 14,
+        "image_files": 15,
+        "first_file": "Solo Leveling - c000 (v01) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c000 (v01) - p014 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "001",
+        "first_logical_page": 15,
+        "last_logical_page": 122,
+        "image_files": 105,
+        "first_file": "Solo Leveling - c001 (v01) - p015 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c001 (v01) - p122 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "002",
+        "first_logical_page": 123,
+        "last_logical_page": 252,
+        "image_files": 128,
+        "first_file": "Solo Leveling - c002 (v01) - p123 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c002 (v01) - p252 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "003",
+        "first_logical_page": 253,
+        "last_logical_page": 320,
+        "image_files": 66,
+        "first_file": "Solo Leveling - c003 (v01) - p253 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c003 (v01) - p320 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 314
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 307
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 7
+      }
+    ]
+  },
+  {
+    "volume": 2,
+    "filename": "Solo Leveling v02 (2021) (Digital) (1r0n).cbz",
+    "bytes": 88902623,
+    "sha256": "b0bc242f37bcc130f89c57ade76b1885989fc6657e7c976e2adbeee9b6c00591",
+    "zip_test_bad_member": null,
+    "archive_entries": 295,
+    "image_files": 295,
+    "logical_pages": 305,
+    "logical_min": 0,
+    "logical_max": 304,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c003 (v02) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c005 (v02) - p304 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "003",
+        "first_logical_page": 0,
+        "last_logical_page": 62,
+        "image_files": 59,
+        "first_file": "Solo Leveling - c003 (v02) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c003 (v02) - p062 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "004",
+        "first_logical_page": 63,
+        "last_logical_page": 134,
+        "image_files": 69,
+        "first_file": "Solo Leveling - c004 (v02) - p063 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c004 (v02) - p134 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "005",
+        "first_logical_page": 135,
+        "last_logical_page": 304,
+        "image_files": 167,
+        "first_file": "Solo Leveling - c005 (v02) - p135 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c005 (v02) - p304 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 295
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 285
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 10
+      }
+    ]
+  },
+  {
+    "volume": 3,
+    "filename": "Solo Leveling v03 (2021) (Digital) (1r0n).cbz",
+    "bytes": 90497017,
+    "sha256": "98658c08b3ab266e9a6bf965aacd948863d47b59d2e8b00b8a155a733a6c323d",
+    "zip_test_bad_member": null,
+    "archive_entries": 310,
+    "image_files": 310,
+    "logical_pages": 321,
+    "logical_min": 0,
+    "logical_max": 320,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c006 (v03) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c008 (v03) - p320 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "006",
+        "first_logical_page": 0,
+        "last_logical_page": 134,
+        "image_files": 132,
+        "first_file": "Solo Leveling - c006 (v03) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c006 (v03) - p134 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "007",
+        "first_logical_page": 135,
+        "last_logical_page": 186,
+        "image_files": 51,
+        "first_file": "Solo Leveling - c007 (v03) - p135 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c007 (v03) - p186 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "008",
+        "first_logical_page": 187,
+        "last_logical_page": 320,
+        "image_files": 127,
+        "first_file": "Solo Leveling - c008 (v03) - p187 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c008 (v03) - p320 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 310
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 299
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 11
+      }
+    ]
+  },
+  {
+    "volume": 4,
+    "filename": "Solo Leveling v04 (2022) (Digital) (1r0n).cbz",
+    "bytes": 97644767,
+    "sha256": "08f89c9b910c5961c26f5ae4e442c0b8e5d031c43e2cbf828be0d4cb6c5c85a8",
+    "zip_test_bad_member": null,
+    "archive_entries": 315,
+    "image_files": 315,
+    "logical_pages": 329,
+    "logical_min": 0,
+    "logical_max": 328,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c009 (v04) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c010 (v04) - p328 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "009",
+        "first_logical_page": 0,
+        "last_logical_page": 192,
+        "image_files": 185,
+        "first_file": "Solo Leveling - c009 (v04) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c009 (v04) - p192 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "010",
+        "first_logical_page": 193,
+        "last_logical_page": 328,
+        "image_files": 130,
+        "first_file": "Solo Leveling - c010 (v04) - p193 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c010 (v04) - p328 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 315
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 301
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 14
+      }
+    ]
+  },
+  {
+    "volume": 5,
+    "filename": "Solo Leveling v05 (2022) (Digital) (1r0n).cbz",
+    "bytes": 89091023,
+    "sha256": "2a92e12951194ab9b239f608f7a43346ed4999543dbd1ce915dc6b4df2ceb217",
+    "zip_test_bad_member": null,
+    "archive_entries": 307,
+    "image_files": 307,
+    "logical_pages": 321,
+    "logical_min": 0,
+    "logical_max": 320,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c011 (v05) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c013 (v05) - p320 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "011",
+        "first_logical_page": 0,
+        "last_logical_page": 74,
+        "image_files": 72,
+        "first_file": "Solo Leveling - c011 (v05) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c011 (v05) - p074 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "012",
+        "first_logical_page": 75,
+        "last_logical_page": 228,
+        "image_files": 146,
+        "first_file": "Solo Leveling - c012 (v05) - p075 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c012 (v05) - p228 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "013",
+        "first_logical_page": 229,
+        "last_logical_page": 320,
+        "image_files": 89,
+        "first_file": "Solo Leveling - c013 (v05) - p229 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c013 (v05) - p320 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 307
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 293
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 14
+      }
+    ]
+  },
+  {
+    "volume": 6,
+    "filename": "Solo Leveling v06 (2023) (Digital) (1r0n).cbz",
+    "bytes": 84810183,
+    "sha256": "841306cf2a76da5f9ae329f048468de6381bbf625d660cf986e3eb79e3573968",
+    "zip_test_bad_member": null,
+    "archive_entries": 299,
+    "image_files": 299,
+    "logical_pages": 309,
+    "logical_min": 0,
+    "logical_max": 308,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c014 (v06) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c017 (v06) - p308 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "014",
+        "first_logical_page": 0,
+        "last_logical_page": 60,
+        "image_files": 59,
+        "first_file": "Solo Leveling - c014 (v06) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c014 (v06) - p060 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "015",
+        "first_logical_page": 61,
+        "last_logical_page": 144,
+        "image_files": 76,
+        "first_file": "Solo Leveling - c015 (v06) - p061 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c015 (v06) - p144 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "016",
+        "first_logical_page": 145,
+        "last_logical_page": 232,
+        "image_files": 88,
+        "first_file": "Solo Leveling - c016 (v06) - p145 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c016 (v06) - p232 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "017",
+        "first_logical_page": 233,
+        "last_logical_page": 308,
+        "image_files": 76,
+        "first_file": "Solo Leveling - c017 (v06) - p233 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c017 (v06) - p308 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 299
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 289
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 10
+      }
+    ]
+  },
+  {
+    "volume": 7,
+    "filename": "Solo Leveling v07 (2023) (Digital) (1r0n).cbz",
+    "bytes": 77670555,
+    "sha256": "fd1819199dcd959c58eb7c5aa0867b3385d59135590b8efdfe5e35c42dadb8f9",
+    "zip_test_bad_member": null,
+    "archive_entries": 298,
+    "image_files": 298,
+    "logical_pages": 305,
+    "logical_min": 0,
+    "logical_max": 304,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c018 (v07) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c021 (v07) - p304 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "018",
+        "first_logical_page": 0,
+        "last_logical_page": 74,
+        "image_files": 74,
+        "first_file": "Solo Leveling - c018 (v07) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c018 (v07) - p074 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "019",
+        "first_logical_page": 75,
+        "last_logical_page": 184,
+        "image_files": 106,
+        "first_file": "Solo Leveling - c019 (v07) - p075 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c019 (v07) - p184 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "020",
+        "first_logical_page": 185,
+        "last_logical_page": 248,
+        "image_files": 63,
+        "first_file": "Solo Leveling - c020 (v07) - p185 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c020 (v07) - p248 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "021",
+        "first_logical_page": 249,
+        "last_logical_page": 304,
+        "image_files": 55,
+        "first_file": "Solo Leveling - c021 (v07) - p249 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c021 (v07) - p304 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 298
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 291
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 7
+      }
+    ]
+  },
+  {
+    "volume": 8,
+    "filename": "Solo Leveling v08 (2024) (Digital) (1r0n).cbz",
+    "bytes": 76967012,
+    "sha256": "bdb40870042cdc93b2a73e2becbd80210dc1b67de60a4bbe3fbbed62c6dade3e",
+    "zip_test_bad_member": null,
+    "archive_entries": 300,
+    "image_files": 300,
+    "logical_pages": 309,
+    "logical_min": 0,
+    "logical_max": 308,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c022 (v08) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c024 (v08) - p308 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "022",
+        "first_logical_page": 0,
+        "last_logical_page": 150,
+        "image_files": 147,
+        "first_file": "Solo Leveling - c022 (v08) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c022 (v08) - p150 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "023",
+        "first_logical_page": 151,
+        "last_logical_page": 242,
+        "image_files": 88,
+        "first_file": "Solo Leveling - c023 (v08) - p151 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c023 (v08) - p242 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "024",
+        "first_logical_page": 243,
+        "last_logical_page": 308,
+        "image_files": 65,
+        "first_file": "Solo Leveling - c024 (v08) - p243 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c024 (v08) - p308 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 300
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 291
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 9
+      }
+    ]
+  },
+  {
+    "volume": 9,
+    "filename": "Solo Leveling v09 (2024) (Digital) (1r0n).cbz",
+    "bytes": 81253338,
+    "sha256": "063a6710d32d14767960c32d131e16aef1570a3792da3cc5a84cd9472b447db1",
+    "zip_test_bad_member": null,
+    "archive_entries": 304,
+    "image_files": 304,
+    "logical_pages": 313,
+    "logical_min": 0,
+    "logical_max": 312,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c025 (v09) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c027 (v09) - p312 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "025",
+        "first_logical_page": 0,
+        "last_logical_page": 138,
+        "image_files": 136,
+        "first_file": "Solo Leveling - c025 (v09) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c025 (v09) - p138 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "026",
+        "first_logical_page": 139,
+        "last_logical_page": 224,
+        "image_files": 83,
+        "first_file": "Solo Leveling - c026 (v09) - p139 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c026 (v09) - p224 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "027",
+        "first_logical_page": 225,
+        "last_logical_page": 312,
+        "image_files": 85,
+        "first_file": "Solo Leveling - c027 (v09) - p225 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c027 (v09) - p312 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 304
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 295
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 9
+      }
+    ]
+  },
+  {
+    "volume": 10,
+    "filename": "Solo Leveling v10 (2024) (Digital) (1r0n) (f).cbz",
+    "bytes": 73932784,
+    "sha256": "3a236d07a65d3cf960d0aaebd7191ae646d55cec4c973cd116b228a710d787d3",
+    "zip_test_bad_member": null,
+    "archive_entries": 292,
+    "image_files": 292,
+    "logical_pages": 305,
+    "logical_min": 0,
+    "logical_max": 304,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c028 (v10) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c030 (v10) - p304 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "028",
+        "first_logical_page": 0,
+        "last_logical_page": 98,
+        "image_files": 95,
+        "first_file": "Solo Leveling - c028 (v10) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c028 (v10) - p098 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "029",
+        "first_logical_page": 99,
+        "last_logical_page": 202,
+        "image_files": 100,
+        "first_file": "Solo Leveling - c029 (v10) - p099 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c029 (v10) - p202 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "030",
+        "first_logical_page": 203,
+        "last_logical_page": 304,
+        "image_files": 97,
+        "first_file": "Solo Leveling - c030 (v10) - p203 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c030 (v10) - p304 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 292
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 279
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 13
+      }
+    ]
+  },
+  {
+    "volume": 11,
+    "filename": "Solo Leveling v11 (2025) (Digital) (1r0n) (f).cbz",
+    "bytes": 78332114,
+    "sha256": "777cd101790f7a6a3dc069cccc756d0a910f5c6a47381d093213443edeb2bd41",
+    "zip_test_bad_member": null,
+    "archive_entries": 299,
+    "image_files": 299,
+    "logical_pages": 313,
+    "logical_min": 0,
+    "logical_max": 312,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c031 (v11) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c033 (v11) - p312 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "031",
+        "first_logical_page": 0,
+        "last_logical_page": 84,
+        "image_files": 84,
+        "first_file": "Solo Leveling - c031 (v11) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c031 (v11) - p084 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "032",
+        "first_logical_page": 85,
+        "last_logical_page": 186,
+        "image_files": 98,
+        "first_file": "Solo Leveling - c032 (v11) - p085 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c032 (v11) - p186 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "033",
+        "first_logical_page": 187,
+        "last_logical_page": 312,
+        "image_files": 117,
+        "first_file": "Solo Leveling - c033 (v11) - p187 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c033 (v11) - p312 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 299
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 285
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 14
+      }
+    ]
+  },
+  {
+    "volume": 12,
+    "filename": "Solo Leveling v12 (2025) (Digital) (1r0n).cbz",
+    "bytes": 76420851,
+    "sha256": "e8cd77ae490ac38a3ee62958dae781b4b0b4a57229cc0913d167d3e1d6fc3dea",
+    "zip_test_bad_member": null,
+    "archive_entries": 287,
+    "image_files": 287,
+    "logical_pages": 305,
+    "logical_min": 0,
+    "logical_max": 304,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c034 (v12) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c036 (v12) - p304 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "034",
+        "first_logical_page": 0,
+        "last_logical_page": 70,
+        "image_files": 67,
+        "first_file": "Solo Leveling - c034 (v12) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c034 (v12) - p070 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "035",
+        "first_logical_page": 71,
+        "last_logical_page": 222,
+        "image_files": 143,
+        "first_file": "Solo Leveling - c035 (v12) - p071 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c035 (v12) - p222 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "036",
+        "first_logical_page": 223,
+        "last_logical_page": 304,
+        "image_files": 77,
+        "first_file": "Solo Leveling - c036 (v12) - p223 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c036 (v12) - p304 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 287
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 269
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 18
+      }
+    ]
+  },
+  {
+    "volume": 13,
+    "filename": "Solo Leveling v13 (2025) (Digital) (1r0n).cbz",
+    "bytes": 74945638,
+    "sha256": "b5de45c1ea765ba8b38103eace6cbb0b6e6819bef1f26929359cdc7e98ff0962",
+    "zip_test_bad_member": null,
+    "archive_entries": 283,
+    "image_files": 283,
+    "logical_pages": 295,
+    "logical_min": 0,
+    "logical_max": 294,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c037 (v13) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c040 (v13) - p294 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "037",
+        "first_logical_page": 0,
+        "last_logical_page": 58,
+        "image_files": 58,
+        "first_file": "Solo Leveling - c037 (v13) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c037 (v13) - p058 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "038",
+        "first_logical_page": 59,
+        "last_logical_page": 158,
+        "image_files": 94,
+        "first_file": "Solo Leveling - c038 (v13) - p059 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c038 (v13) - p158 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "039",
+        "first_logical_page": 159,
+        "last_logical_page": 228,
+        "image_files": 67,
+        "first_file": "Solo Leveling - c039 (v13) - p159 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c039 (v13) - p228 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "040",
+        "first_logical_page": 229,
+        "last_logical_page": 294,
+        "image_files": 64,
+        "first_file": "Solo Leveling - c040 (v13) - p229 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c040 (v13) - p294 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 283
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 271
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 12
+      }
+    ]
+  },
+  {
+    "volume": 14,
+    "filename": "Solo Leveling v14 - Side Stories 1 (2025) (Digital) (1r0n).cbz",
+    "bytes": 93599225,
+    "sha256": "baa4d77f1558d0eae28dd3d9e1093652accb93f071e8e9a2a9d87f7109414976",
+    "zip_test_bad_member": null,
+    "archive_entries": 307,
+    "image_files": 307,
+    "logical_pages": 311,
+    "logical_min": 0,
+    "logical_max": 310,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c040#1 (v14) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c040#3 (v14) - p310 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "040#1",
+        "first_logical_page": 0,
+        "last_logical_page": 122,
+        "image_files": 120,
+        "first_file": "Solo Leveling - c040#1 (v14) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c040#1 (v14) - p122 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "040#2",
+        "first_logical_page": 123,
+        "last_logical_page": 216,
+        "image_files": 93,
+        "first_file": "Solo Leveling - c040#2 (v14) - p123 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c040#2 (v14) - p216 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "040#3",
+        "first_logical_page": 217,
+        "last_logical_page": 310,
+        "image_files": 94,
+        "first_file": "Solo Leveling - c040#3 (v14) - p217 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c040#3 (v14) - p310 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 307
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 303
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "volume": 15,
+    "filename": "Solo Leveling v15 - Side Stories 2 (2026) (Digital) (1r0n).cbz",
+    "bytes": 85998323,
+    "sha256": "86d88310f8fb28de50bf517bab05f4851bfebab524791f840dc035c77155d5c4",
+    "zip_test_bad_member": null,
+    "archive_entries": 269,
+    "image_files": 269,
+    "logical_pages": 273,
+    "logical_min": 0,
+    "logical_max": 272,
+    "missing_logical_pages": [],
+    "duplicate_logical_pages": [],
+    "unparsed_image_names": [],
+    "corrupt_images": [],
+    "first_natural_file": "Solo Leveling - c040#4 (v15) - p000 [Yen Press] [Digital] [1r0n].jpg",
+    "last_natural_file": "Solo Leveling - c040#6 (v15) - p272 [Yen Press] [Digital] [1r0n].jpg",
+    "chapters": [
+      {
+        "chapter_id": "040#4",
+        "first_logical_page": 0,
+        "last_logical_page": 60,
+        "image_files": 61,
+        "first_file": "Solo Leveling - c040#4 (v15) - p000 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c040#4 (v15) - p060 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "040#5",
+        "first_logical_page": 61,
+        "last_logical_page": 142,
+        "image_files": 81,
+        "first_file": "Solo Leveling - c040#5 (v15) - p061 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c040#5 (v15) - p142 [Yen Press] [Digital] [1r0n].jpg"
+      },
+      {
+        "chapter_id": "040#6",
+        "first_logical_page": 143,
+        "last_logical_page": 272,
+        "image_files": 127,
+        "first_file": "Solo Leveling - c040#6 (v15) - p143 [Yen Press] [Digital] [1r0n].jpg",
+        "last_file": "Solo Leveling - c040#6 (v15) - p272 [Yen Press] [Digital] [1r0n].jpg"
+      }
+    ],
+    "formats": {
+      "JPEG": 269
+    },
+    "top_dimensions": [
+      {
+        "size": [
+          900,
+          1291
+        ],
+        "count": 265
+      },
+      {
+        "size": [
+          1800,
+          1291
+        ],
+        "count": 4
+      }
+    ]
+  }
+]

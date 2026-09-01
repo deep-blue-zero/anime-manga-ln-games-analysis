@@ -1,0 +1,905 @@
+{
+  "title": "Solo Leveling — Phase 2 Correspondence Map",
+  "date": "2026-08-11",
+  "status": "principal correspondence and major adaptation-function map complete; Korean micro-locator backfill pending current-session EPUB remount",
+  "categories": {
+    "Preserved": "The source event, relationship, proposition, or causal function remains substantially intact.",
+    "Compressed": "Source material is shortened, summarized, or deprived of some interior, institutional, economic, or explanatory texture.",
+    "Omitted": "Source material with a meaningful local function is absent from the corresponding manhwa sequence.",
+    "Expanded": "The adaptation gives substantially more visual, relational, action, reaction, or temporal emphasis without changing the basic source function.",
+    "Transformed": "The source event remains recognizable but its emphasis, psychology, ethical framing, or thematic function changes materially.",
+    "Relocated": "Source material is moved to a different local position, volume, or dramatic context.",
+    "Recomposed": "Several source passages are rearranged, integrated, or cross-cut so that the resulting local sequence performs a materially different dramatic or thematic function.",
+    "Manhwa-original": "Material has no counterpart in the supplied Chugong prose corpus at the relevant level; includes the post-prose Suho continuation.",
+    "Source-uncertain": "The source relationship cannot presently be resolved beyond the stated zone without inventing precision; used especially where the raw Korean EPUB is not remounted."
+  },
+  "locator_policy": {
+    "manhwa": "Volume + continuous c-segment + logical p-page locators from Phase 1.",
+    "korean_1_3": "Use preserved headings 1–18 where they survive, plus index_split region.",
+    "korean_after_heading_18": "Use index_split region + scene anchor. Do not invent Korean print-volume/chapter boundaries.",
+    "source_uncertain": "Required whenever exact external-story micro-boundary is not supported."
+  },
+  "volumes": [
+    {
+      "vol": 1,
+      "segments": "c000–c003",
+      "pages": "story p008–p313",
+      "source": "`index_split_000.html`; surviving headings 1–7 (`프롤로그` through `페널티`) plus the onset of early System / daily-quest material associated with heading 8",
+      "confidence": "High",
+      "principal": "E-rank Jinwoo and his material/family constraints; Double Dungeon; attack and Three Rules; final test/sacrifice; hospital/System selection.",
+      "nonlocal": "No side-story pull-forward identified. No major nonlocal prose insertion is required to explain the volume.",
+      "original": "No major fully manhwa-original story movement confirmed; formal/visual expansions are adaptation-specific.",
+      "changes": [
+        {
+          "manhwa_scene": "E-rank baseline, Juhee/Song, weak-hunter social position",
+          "korean_source": "split 000; `프롤로그`, `E급 헌터`",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Plot and relationships are retained; prose-level money, privacy, embarrassment, family calculation, and dry internal voice are reduced."
+        },
+        {
+          "manhwa_scene": "Double Dungeon discovery, statues, slaughter, Three Rules",
+          "korean_source": "split 000; `이중 던전`–`세 가지 규율`",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "The causal puzzle is preserved. Manhwa expands horror through scale, gaze, body damage, and spatial iconography."
+        },
+        {
+          "manhwa_scene": "Collective decision, Song responsibility, Kim blame, Jinwoo judgment",
+          "korean_source": "split 000; late Double Dungeon / `마지막 시험`",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "The manhwa preserves the conflict but compresses the Korean narration that makes legitimacy, collective responsibility, and Jinwoo’s anger at scapegoating unusually explicit."
+        },
+        {
+          "manhwa_scene": "Jinwoo left on altar; System selection / reawakening",
+          "korean_source": "split 000; `마지막 시험` → `페널티` transition",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Core event is preserved; visual treatment heightens disposability and the shock of the interface."
+        }
+      ]
+    },
+    {
+      "vol": 2,
+      "segments": "continuation c003; c004–c005",
+      "pages": "story p007–p297",
+      "source": "late `index_split_000` through roughly `001–002`; surviving headings 8–13 (`일일 퀘스트`, `레벨 업!`, `도마뱀들`, `기브 앤 테이크`, `정리`, `거래`)",
+      "confidence": "High",
+      "principal": "Daily quest/penalty regime; instance dungeon and Kasaka; Yoo Jinho; C-rank betrayal; forced killing of hostile humans; early raid partnership/reciprocity.",
+      "nonlocal": "No side-story insertion. Psychological material in the Kasaka sequence is adaptation-added rather than relocated from a later Chugong passage.",
+      "original": "Kasaka trauma/power tableau is the major manhwa-specific contribution at this stage.",
+      "changes": [
+        {
+          "manhwa_scene": "Daily quest, penalties, stat growth, instance-dungeon learning",
+          "korean_source": "headings 8–9 and adjacent prose",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Mechanical progression survives; continuous experimentation, calculation, bodily discomfort, and mundane routine are more abbreviated."
+        },
+        {
+          "manhwa_scene": "Kasaka boss fight and Jinwoo’s interpretation of power",
+          "korean_source": "`레벨 업!` / instance-dungeon prose",
+          "categories": [
+            "Preserved",
+            "Expanded",
+            "Transformed",
+            "Manhwa-original"
+          ],
+          "notes": "The novel emphasizes preparation, stat allocation, farming, and caution vindicated. The manhwa adds/concentrates a trauma montage and a stronger wound-based proposition about force making knowledge effective."
+        },
+        {
+          "manhwa_scene": "Dongsuk party / “lizards” betrayal",
+          "korean_source": "`도마뱀들`",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Events are closely preserved; Korean ethical interiority and Jinwoo’s developing boundary against self-sacrificial kindness are thinner."
+        },
+        {
+          "manhwa_scene": "System hostile-human kill condition and retaliation",
+          "korean_source": "`기브 앤 테이크`–`정리`",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Core killing sequence and reciprocal logic remain; the novel gives more continuous thought about betrayal, responsibility, and aftermath."
+        },
+        {
+          "manhwa_scene": "Jinho alliance / deal",
+          "korean_source": "`거래` and adjacent prose",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Relationship is preserved. English “Boss” necessarily reduces some of `형님`’s older-brother/kinship trajectory."
+        }
+      ]
+    },
+    {
+      "vol": 3,
+      "segments": "c006–c008",
+      "pages": "story p008–p313",
+      "source": "roughly `index_split_002–004`; surviving headings 14–18 (`우연`, `B급 강태식`, `이상한 레이드`, `대박의 예감`, `전직 퀘스트`) plus continuation of Job Change/Igris material",
+      "confidence": "High",
+      "principal": "Kang Taeshik; Jinho raid partnership and hidden growth; Job Change Quest; Igris; class transition and first shadow army.",
+      "nonlocal": "No side-story material. The strongest additions are visual/psychological concentration rather than later-source relocation.",
+      "original": "Taeshik/abyss and Job-Quest self-confrontation imagery are the important manhwa-specific layer.",
+      "changes": [
+        {
+          "manhwa_scene": "Taeshik encounter and prisoner murders",
+          "korean_source": "`B급 강태식` and surrounding prose",
+          "categories": [
+            "Preserved",
+            "Expanded",
+            "Transformed",
+            "Manhwa-original"
+          ],
+          "notes": "The manhwa adds/intensifies “power rules,” abyss imagery, broken-inside language, and shadow prefiguration, concentrating a moral fear the novel distributes more quietly."
+        },
+        {
+          "manhwa_scene": "Strange raids / hidden growth / Jinho partnership",
+          "korean_source": "`이상한 레이드`–`대박의 예감`",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Progression is intact; economics, negotiation, and ordinary cognition are trimmed."
+        },
+        {
+          "manhwa_scene": "Job Change Quest survival and Igris duel",
+          "korean_source": "`전직 퀘스트`; split 003–004",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Action and result are source-faithful; manhwa gives Igris and the endless assault much greater visual monumentality."
+        },
+        {
+          "manhwa_scene": "Old powerless Jinwoo versus new Jinwoo psychological tableau",
+          "korean_source": "Job-Change thematic material, not a one-to-one prose passage",
+          "categories": [
+            "Transformed",
+            "Expanded",
+            "Manhwa-original"
+          ],
+          "notes": "The adaptation externalizes identity conflict through heightened visual self-confrontation rather than continuous prose thought."
+        },
+        {
+          "manhwa_scene": "Shadow class / first “Arise” and army formation",
+          "korean_source": "split 003–004",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Metaphysical function is preserved; hierarchy and sovereign iconography become much more immediate."
+        }
+      ]
+    },
+    {
+      "vol": 4,
+      "segments": "c009–c010",
+      "pages": "story p008–p320",
+      "source": "roughly `index_split_005–007`; Red Gate / ice world / Baruka / Kim Chul-Iron; transition toward Demon Castle",
+      "confidence": "High at scene-zone level",
+      "principal": "Red Gate with White Tiger trainees and Song-Yi; Baruka; Kim Chul becoming Iron; early shadow-army field use; Demon Castle beginning.",
+      "nonlocal": "No confirmed side-story pull-forward. Il-Hwan/Hwang Dongsoo material is cross-cut within this broader novel region, but current evidence does not justify calling its exact manhwa placement a material relocation.",
+      "original": "No major fully original narrative movement confirmed.",
+      "changes": [
+        {
+          "manhwa_scene": "Red Gate entrapment and divided survival groups",
+          "korean_source": "split 005–006; Red Gate sequence",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Main causal structure is preserved; some social and institutional texture around the trainees and guild response is condensed."
+        },
+        {
+          "manhwa_scene": "Baruka confrontation and Jinwoo’s altered status",
+          "korean_source": "split 006–007",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Core encounter remains; visual staging sharpens Jinwoo’s increasing otherness and predator reversal."
+        },
+        {
+          "manhwa_scene": "Kim Chul death → Iron extraction",
+          "korean_source": "split 006–007",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "The event is preserved. Manhwa foregrounds the new shadow’s personality/comic readability more quickly through image and reaction."
+        },
+        {
+          "manhwa_scene": "Demon Castle / mother-recovery objective begins",
+          "korean_source": "late split 007 / transition toward 010–011 material",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "The goal is preserved; prose gives more continuous family/economic motivation and practical planning."
+        }
+      ]
+    },
+    {
+      "vol": 5,
+      "segments": "c011–c013",
+      "pages": "story p006–p314",
+      "source": "roughly `index_split_007–010`; Hunters Guild mining/porter material, High Orc dungeon, Son Kihoon, Cha Hae-In, S-rank reevaluation/public recognition",
+      "confidence": "High at scene-zone level",
+      "principal": "Hunters Guild porter/mining; Cha senses Jinwoo; High Orc/Tusk crisis; formal reevaluation; Korea’s tenth S-rank hunter.",
+      "nonlocal": "No side-story insertion identified.",
+      "original": "No major story movement without prose counterpart confirmed.",
+      "changes": [
+        {
+          "manhwa_scene": "Hunters Guild porter/mining entry",
+          "korean_source": "split 007–009",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Plot is preserved; guild economics, procedure, labor, and Jinwoo’s mundane calculation receive less room."
+        },
+        {
+          "manhwa_scene": "Cha Hae-In’s sensory recognition of Jinwoo",
+          "korean_source": "split 007–009",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Source premise is retained; manhwa makes the recognition more immediate through visual reaction and recurring gaze."
+        },
+        {
+          "manhwa_scene": "High Orc dungeon / Son Kihoon / Tusk",
+          "korean_source": "split 008–009",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "The rescue and extraction are preserved; spectacle and Jinwoo-as-object-of-reaction are amplified."
+        },
+        {
+          "manhwa_scene": "Reevaluation and public S-rank recognition",
+          "korean_source": "split 009–010 transition",
+          "categories": [
+            "Preserved",
+            "Compressed",
+            "Expanded"
+          ],
+          "notes": "Testing procedure and institutional reasoning are compressed while public visual validation is expanded."
+        }
+      ]
+    },
+    {
+      "vol": 6,
+      "segments": "c014–c017",
+      "pages": "story p006–p302",
+      "source": "roughly `index_split_010–014`; Demon Castle/Esil/Elixir; mother; Korean–Japanese S-rank interaction; Jeju planning and opening",
+      "confidence": "High at arc level; political micro-order medium",
+      "principal": "Demon Castle conclusion; Esil; Elixir of Life and mother’s recovery; Korea–Japan S-rank encounter; Jeju alliance, sparring/politics, raid begins.",
+      "nonlocal": "The principal nonlocal issue is political information: Japanese-leadership motive is delayed or reduced relative to the Korean novel, redistributing suspense across Vols. 6–10.",
+      "original": "Esil connective/comic material is expanded; no large source-free arc is confirmed.",
+      "changes": [
+        {
+          "manhwa_scene": "Demon Castle ascent and Esil",
+          "korean_source": "split 010–011",
+          "categories": [
+            "Preserved",
+            "Expanded",
+            "Transformed"
+          ],
+          "notes": "The manhwa keeps Esil beside Jinwoo longer and gives the relationship more humor/companion texture, changing her local function from mainly negotiated guide toward temporary companion/witness."
+        },
+        {
+          "manhwa_scene": "Elixir completion and mother’s recovery",
+          "korean_source": "split 010–011",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Source payoff is retained; visual pacing emphasizes restoration as an emotional power climax."
+        },
+        {
+          "manhwa_scene": "Korean/Japanese S-rank meeting and sparring",
+          "korean_source": "split 011–014",
+          "categories": [
+            "Preserved",
+            "Recomposed"
+          ],
+          "notes": "Core encounter survives but political, competitive, and spectacle material is cross-cut and reorganized for a cleaner pre-Jeju escalation."
+        },
+        {
+          "manhwa_scene": "Matsumoto/Japanese leadership bad-faith political plan",
+          "korean_source": "split 011–014 political material",
+          "categories": [
+            "Compressed",
+            "Omitted",
+            "Relocated"
+          ],
+          "notes": "The Korean novel exposes the plan earlier and more aggressively. The manhwa delays/softens significant portions, changing what the reader knows before the raid."
+        },
+        {
+          "manhwa_scene": "Jeju operation begins",
+          "korean_source": "split 011–014",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Operational core is preserved; action spectacle receives more temporal/visual weight."
+        }
+      ]
+    },
+    {
+      "vol": 7,
+      "segments": "c018–c021",
+      "pages": "story p006–p301",
+      "source": "principally `index_split_011–014`; Jeju operation, Ant King/Beru, Min Byung-Gyu, aftermath and public emergence",
+      "confidence": "High",
+      "principal": "Jeju catastrophe/climax; Beru; Jinwoo arrives and rescues raid; Min Byung-Gyu extraction/release; aftermath and international/public recognition.",
+      "nonlocal": "Political knowledge that the novel supplies before/during the raid is redistributed, so the manhwa reader experiences more battle suspense and less prior political certainty.",
+      "original": "No major fully original plot movement confirmed; major additions are visual scale and reaction.",
+      "changes": [
+        {
+          "manhwa_scene": "Jeju raid collapse and Ant King/Beru",
+          "korean_source": "split 011–014",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Core battle is preserved; manhwa magnifies horror, scale, speed, and Beru’s mythic entrance."
+        },
+        {
+          "manhwa_scene": "Jinwoo’s arrival and reversal of the raid",
+          "korean_source": "split 012–014",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Same causal rescue; adaptation greatly expands reaction imagery and the public construction of Jinwoo as national savior."
+        },
+        {
+          "manhwa_scene": "Min Byung-Gyu shadow extraction and release",
+          "korean_source": "split 013–014",
+          "categories": [
+            "Preserved",
+            "Compressed",
+            "Omitted"
+          ],
+          "notes": "The event survives, but the novel’s crucial interior account of retained consciousness and frighteningly transformed loyalty is substantially reduced/absent, weakening immediate shadow-personhood ambiguity."
+        },
+        {
+          "manhwa_scene": "Japanese-leadership political scheme around Jeju",
+          "korean_source": "split 011–014",
+          "categories": [
+            "Compressed",
+            "Omitted",
+            "Relocated"
+          ],
+          "notes": "Political bad faith remains less front-loaded and less discursively dominant than in the novel."
+        },
+        {
+          "manhwa_scene": "Post-Jeju institutional/media aftermath",
+          "korean_source": "late 014",
+          "categories": [
+            "Preserved",
+            "Compressed",
+            "Expanded"
+          ],
+          "notes": "Institutional interpretation is compressed while crowd/media reaction and visual validation are expanded."
+        }
+      ]
+    },
+    {
+      "vol": 8,
+      "segments": "c022–c024",
+      "pages": "story p006–p302",
+      "source": "roughly `index_split_015–017`; post-Jeju, Ahjin-era material, Cha/Jinwoo, school attack, international attention, return toward Double Dungeon",
+      "confidence": "High at scene-zone level",
+      "principal": "Ahjin Guild formation; Jinho and legal shell; Cha’s attempted entry/test; school Gate and Jinah; shadow protection/infrastructure; approach to Double Dungeon return.",
+      "nonlocal": "No side-story pull-forward identified. Romance emphasis is expanded rather than imported from a later side story.",
+      "original": "No major source-free arc confirmed.",
+      "changes": [
+        {
+          "manhwa_scene": "Ahjin Guild formation and Jinho partnership",
+          "korean_source": "split 015–016",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Legal/economic and institutional mechanics are more detailed in prose; manhwa retains the autonomy function of the guild."
+        },
+        {
+          "manhwa_scene": "Cha Hae-In membership test / relationship development",
+          "korean_source": "split 015–016",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "The source encounter remains; adaptation gives Cha more structural/visual prominence and makes the relationship more legible."
+        },
+        {
+          "manhwa_scene": "School Gate / Jinah crisis",
+          "korean_source": "split 016–017",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Plot is preserved; visual action and protector iconography intensify."
+        },
+        {
+          "manhwa_scene": "Private shadow surveillance/protection network",
+          "korean_source": "split 015–017",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "The capability remains visible, while prose has more room for practical/ethical context about delegated protection."
+        },
+        {
+          "manhwa_scene": "Return toward Double Dungeon",
+          "korean_source": "late 017",
+          "categories": [
+            "Preserved"
+          ],
+          "notes": "No major functional change established at this boundary."
+        }
+      ]
+    },
+    {
+      "vol": 9,
+      "segments": "c025–c027",
+      "pages": "story p008–p307",
+      "source": "roughly `index_split_017–019`; Double Dungeon revisited; Architect/System confrontation; Black Heart; transition into Japan/Giant catastrophe",
+      "confidence": "High for major transformations",
+      "principal": "Return to Double Dungeon; Architect; System confrontation; Black Heart; deeper Shadow Monarch revelation; Japan catastrophe setup.",
+      "nonlocal": "This is the clearest main-series case of nonlocal revelation: later novel knowledge about the Architect/selection is pulled into the Double Dungeon confrontation.",
+      "original": "“I’ll devour the System” and some visual self-authorship formulation are manhwa-specific.",
+      "changes": [
+        {
+          "manhwa_scene": "Double Dungeon reprise and statue confrontation",
+          "korean_source": "split 017–018",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Source event is preserved; visual rhyme with Volume 1 turns the location into explicit before/after iconography."
+        },
+        {
+          "manhwa_scene": "Architect’s role and information about Jinwoo/Ashborn selection",
+          "korean_source": "split 017–018 plus revelations held later in novel",
+          "categories": [
+            "Relocated",
+            "Transformed",
+            "Recomposed"
+          ],
+          "notes": "The manhwa forward-loads information the novel withholds until later, integrating later revelation into the immediate confrontation and materially changing what Jinwoo/reader know here."
+        },
+        {
+          "manhwa_scene": "“I’ll devour the System” self-authorship declaration",
+          "korean_source": "manhwa formulation within Architect confrontation",
+          "categories": [
+            "Transformed",
+            "Manhwa-original"
+          ],
+          "notes": "The Korean counterpart is more tightly rooted in reciprocal retaliation; the manhwa creates a more explicit appropriation/self-authorship manifesto."
+        },
+        {
+          "manhwa_scene": "Black Heart / power transfer imagery",
+          "korean_source": "split 017–018",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Core mechanism remains, but visual overlay and monarch iconography intensify the identity transition."
+        },
+        {
+          "manhwa_scene": "Japan catastrophe / political setup",
+          "korean_source": "split 018–019 and later Japan material",
+          "categories": [
+            "Relocated",
+            "Recomposed",
+            "Compressed"
+          ],
+          "notes": "The adaptation’s earlier political omissions force the Japan disaster to carry a different mix of suspense, guilt, and Jinwoo-centered mythic framing."
+        }
+      ]
+    },
+    {
+      "vol": 10,
+      "segments": "c028–c030",
+      "pages": "story p008–p297",
+      "source": "roughly `index_split_018–025`; Japan/Giant crisis through Legia and international/National-Level Hunter material; Hwang/Jinho and Thomas setup",
+      "confidence": "High at arc level",
+      "principal": "Jinwoo versus Giants; Legia; Japan rescue; international recognition; move to U.S./National-Level Hunters; Hwang Dongsoo/Jinho tension; Thomas setup.",
+      "nonlocal": "Family-vocation material is newly integrated into the Japan decision; earlier Japanese-political information remains redistributed from Vols. 6–9.",
+      "original": "The strengthened firefighter lineage and some connective family framing are manhwa-original or source-independent additions.",
+      "changes": [
+        {
+          "manhwa_scene": "Japan Giant crisis and Jinwoo intervention",
+          "korean_source": "split 018–023",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Core rescue is retained; visual scale and Jinwoo’s public/mythic status are amplified."
+        },
+        {
+          "manhwa_scene": "Jinwoo’s decision to go to Japan",
+          "korean_source": "Japan-crisis source passages across 018–023",
+          "categories": [
+            "Transformed",
+            "Recomposed",
+            "Manhwa-original"
+          ],
+          "notes": "The manhwa builds a clearer firefighter-father/protective-vocation lineage and reorients the decision around mother/father/family inheritance; the novel stresses sovereign self-direction more strongly."
+        },
+        {
+          "manhwa_scene": "Legia interrogation and humanity test",
+          "korean_source": "split 018–023",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Central choice is preserved; prose provides more discursive interior reasoning."
+        },
+        {
+          "manhwa_scene": "Japanese-leadership political culpability and aftermath",
+          "korean_source": "split 018–023 political prose",
+          "categories": [
+            "Compressed",
+            "Omitted"
+          ],
+          "notes": "Novel gives more state/institutional reasoning and sharper culpability; manhwa foregrounds disaster/rescue."
+        },
+        {
+          "manhwa_scene": "U.S./National-Level Hunter stage; Hwang/Jinho/Thomas setup",
+          "korean_source": "split 024–025",
+          "categories": [
+            "Preserved",
+            "Compressed",
+            "Expanded"
+          ],
+          "notes": "Strategic/political explanation is compressed while elite-hunter spectacle and threat framing expand."
+        }
+      ]
+    },
+    {
+      "vol": 11,
+      "segments": "c031–c033",
+      "pages": "story p008–p306",
+      "source": "principally `index_split_024–028`; American/National-Level Hunter material, Thomas conflict, Christopher Reed, Go Gunhee, Monarch escalation",
+      "confidence": "High at arc level",
+      "principal": "Kamish/Selner; Hwang/Jinho fallout; Thomas Andre fight and Greed; Christopher Reed; Go Gunhee; Monarch threat and Seoul-stage escalation.",
+      "nonlocal": "No side-story pull-forward identified.",
+      "original": "No major source-free arc confirmed; major difference is spectacle/elegiac formal expansion.",
+      "changes": [
+        {
+          "manhwa_scene": "Kamish remains / Norma Selner / U.S. interest",
+          "korean_source": "split 024–025",
+          "categories": [
+            "Preserved",
+            "Expanded",
+            "Compressed"
+          ],
+          "notes": "Source facts survive; visual mythic reaction expands while strategic/institutional reasoning contracts."
+        },
+        {
+          "manhwa_scene": "Hwang kidnapping Jinho; Jinwoo retaliation; Thomas battle",
+          "korean_source": "split 024–025",
+          "categories": [
+            "Preserved",
+            "Expanded",
+            "Compressed"
+          ],
+          "notes": "Action and outcome are preserved; spectacle expands, while Korean ethical interiority around punitive judgment receives less room."
+        },
+        {
+          "manhwa_scene": "Hwang → Greed",
+          "korean_source": "split 024–025",
+          "categories": [
+            "Preserved",
+            "Transformed"
+          ],
+          "notes": "Same punitive incorporation, but visual humiliation/hierarchy carries more of the local meaning than prose reflection."
+        },
+        {
+          "manhwa_scene": "Christopher Reed / Monarch escalation",
+          "korean_source": "split 024–028",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Cosmic threat remains; background strategic exposition is tightened."
+        },
+        {
+          "manhwa_scene": "Go Gunhee confrontation/death",
+          "korean_source": "split 026–028",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Event preserved; rain, framing, memory, and visual elegy substantially heighten affect."
+        },
+        {
+          "manhwa_scene": "Association/international political consequences",
+          "korean_source": "split 024–028",
+          "categories": [
+            "Compressed",
+            "Omitted"
+          ],
+          "notes": "Prose has materially more institutional continuity and political reasoning."
+        }
+      ]
+    },
+    {
+      "vol": 12,
+      "segments": "c034–c036",
+      "pages": "story p006–p299",
+      "source": "roughly `index_split_026–029`; Monarch ambush/death, Ashborn revelation, Rulers/Monarchs cosmology, full inheritance, Bellion",
+      "confidence": "High",
+      "principal": "Monarch ambush and Jinwoo’s death; Ashborn history; truth of System; choice/return; full Shadow Monarch; Bellion and original army.",
+      "nonlocal": "No side-story pull-forward identified. The main adaptation strategy is compression of lore paired with expansion of image and symbolic transition.",
+      "original": "No large source-free movement confirmed.",
+      "changes": [
+        {
+          "manhwa_scene": "Frost/Beast Monarch ambush and “death of the Player”",
+          "korean_source": "split 026–028",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Core event survives; visual collapse of the Player identity is intensified."
+        },
+        {
+          "manhwa_scene": "Ashborn memory/history and cosmic war exposition",
+          "korean_source": "split 027–029",
+          "categories": [
+            "Preserved",
+            "Compressed",
+            "Expanded"
+          ],
+          "notes": "Major facts and choice structure are preserved; some expository density compresses while cosmology becomes visually monumental."
+        },
+        {
+          "manhwa_scene": "Ashborn recognizes Jinwoo and gives real choice",
+          "korean_source": "split 027–029",
+          "categories": [
+            "Preserved"
+          ],
+          "notes": "This essential autonomy reversal is retained."
+        },
+        {
+          "manhwa_scene": "Jinwoo commands himself to rise / Player-to-sovereign visual transition",
+          "korean_source": "split 028–029",
+          "categories": [
+            "Expanded",
+            "Transformed"
+          ],
+          "notes": "The source return is preserved, but the adaptation makes “Arise” a strong self-directed iconographic thesis."
+        },
+        {
+          "manhwa_scene": "Bellion / inherited Shadow Army arrival",
+          "korean_source": "split 029",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Source event survives; scale and monarchy are immediately visualized."
+        }
+      ]
+    },
+    {
+      "vol": 13,
+      "segments": "c037–c040",
+      "pages": "story p006–p288",
+      "source": "`index_split_029–030` main-story finale plus epilogue/side-story material from the remainder of split 030; exact external-story micro-boundaries require Korean remount",
+      "confidence": "High for main/side crossing; Medium for exact side-story IDs",
+      "principal": "Antares and final war; Rulers; Cup of Reincarnation; reset/dimensional war; return to ordinary world; selected post-reset/epilogue material and Cha-centered life-beyond-usefulness closure.",
+      "nonlocal": "Yes. Volume 13 crosses the formal Korean main-story boundary and pulls epilogue/side-story material into the numbered main manhwa’s final chapter.",
+      "original": "No broad post-source continuation yet; connective restructuring is substantial. Exact source status of individual Chapter 40 connective panels is partly Source-uncertain.",
+      "changes": [
+        {
+          "manhwa_scene": "Antares / Dragon King and final war",
+          "korean_source": "split 029–030 main story",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Core conflict is retained; cosmic battle scale and Jinwoo’s sovereign iconography expand."
+        },
+        {
+          "manhwa_scene": "Human strategy, contingency, Rulers’ intervention",
+          "korean_source": "split 029–030",
+          "categories": [
+            "Preserved",
+            "Compressed"
+          ],
+          "notes": "Outcome and strategy remain, but prose tactical/political explanation is tighter in the manhwa."
+        },
+        {
+          "manhwa_scene": "Cup of Reincarnation and unilateral reset decision",
+          "korean_source": "split 030 main story",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Decision survives; visual montage foregrounds erased/returned lives."
+        },
+        {
+          "manhwa_scene": "Dimensional-gap war and return to peaceful timeline",
+          "korean_source": "main ending + adjacent epilogue material",
+          "categories": [
+            "Relocated",
+            "Recomposed"
+          ],
+          "notes": "The adaptation integrates material around the reset and aftermath into Chapter 40 so that the new timeline becomes the emotional center of the ending rather than a short bridge."
+        },
+        {
+          "manhwa_scene": "Korean novel’s formal closure on Go Gunhee receiving life-restoring aid / “The heart beat”",
+          "korean_source": "formal main-story endpoint inside split 030",
+          "categories": [
+            "Omitted",
+            "Relocated",
+            "Source-uncertain"
+          ],
+          "notes": "The manhwa does not use this as Volume 13’s closing scene. Later Volume 15 Part 4 contains substantial Go/end-of-life and Elixir-related material, but without the raw Korean EPUB remount this map does not claim a one-to-one relocation of the exact final paragraph."
+        },
+        {
+          "manhwa_scene": "Existential “am I still needed?” movement answered through Cha/ordinary life",
+          "korean_source": "epilogue/side-story corpus following formal main ending",
+          "categories": [
+            "Relocated",
+            "Recomposed",
+            "Expanded"
+          ],
+          "notes": "Selected later material is pulled forward into Chapter 40, shifting closure from restored lives/Go to Jinwoo learning why he should remain when his weapon-function is finished."
+        }
+      ]
+    },
+    {
+      "vol": 14,
+      "segments": "c040#1–c040#3 / Side Stories Parts 1–3",
+      "pages": "story p006–p306",
+      "source": "external-story corpus: remainder of `index_split_030` and substantial material from `031` (Korean `외전` early/middle sequence); exact numbered-story-to-Part mapping remains Source-uncertain without raw EPUB micro-comparison",
+      "confidence": "High at corpus/scene level; Medium for exact external-story numbering",
+      "principal": "Post-reset aftermath and recognition; Woo Jinchul reconnection; Jinwoo’s hidden guardianship/police-era material; reset-world Cha relationship; shadow-memory/POV and ordinary-life vignettes.",
+      "nonlocal": "The source’s individually titled/numbered 외전 are not kept as one-to-one chapter units; multiple vignettes are braided into Parts 1–3. This is structural recomposition rather than simple serialization.",
+      "original": "No major wholly source-free movement has been confirmed for the volume; isolated connective panels may be adaptation-original but are not promoted to narrative-level “Manhwa-original” without direct Korean paragraph comparison.",
+      "changes": [
+        {
+          "manhwa_scene": "Woo Jinchul residual memory / reconnection to Jinwoo",
+          "korean_source": "early external-story corpus",
+          "categories": [
+            "Preserved",
+            "Relocated",
+            "Recomposed"
+          ],
+          "notes": "Source post-reset recognition material is retained but reorganized into the webtoon “Part” architecture."
+        },
+        {
+          "manhwa_scene": "Jinwoo’s peaceful-world hidden guardianship / police-detective punishment material",
+          "korean_source": "external-story middle material",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Core adult-Jinwoo material has a prose counterpart; manhwa expands supernatural visual punishment and police/action staging."
+        },
+        {
+          "manhwa_scene": "Cha Hae-In reset-world relationship/courtship",
+          "korean_source": "external-story corpus",
+          "categories": [
+            "Preserved",
+            "Expanded",
+            "Recomposed"
+          ],
+          "notes": "Relationship is source-grounded, but the manhwa gives it greater visual continuity and structural prominence."
+        },
+        {
+          "manhwa_scene": "Igris/shadow memory and shadow-society POV material",
+          "korean_source": "`이그리트의 기억` and other external-story material in/around split 031",
+          "categories": [
+            "Preserved",
+            "Expanded",
+            "Recomposed"
+          ],
+          "notes": "Distinct prose vignettes are integrated into the long Part structure; shadow personality and comic/social presence become more continuous."
+        },
+        {
+          "manhwa_scene": "Ordinary-life vignettes across restored people and shadows",
+          "korean_source": "`외전` corpus, exact numbers vary",
+          "categories": [
+            "Recomposed",
+            "Compressed",
+            "Expanded",
+            "Source-uncertain"
+          ],
+          "notes": "Some vignettes are shortened, others visually enlarged, and several are braided together; exact numbered side-story allocation is intentionally not guessed."
+        }
+      ]
+    },
+    {
+      "vol": 15,
+      "segments": "c040#4–c040#6 / Side Stories Parts 4–6",
+      "pages": "story p006–p267",
+      "source": "Part 4 draws on late `외전`/`후일담` material in `index_split_031–032`. **Source-adapted Chugong material reaches its terminal sequence by p060. Parts 5–6, p061–p267, continue beyond the supplied Chugong prose.**",
+      "confidence": "High for p061+ post-source boundary; Medium-high for exact late external-story IDs",
+      "principal": "Late ordinary/family closure; Go Gunhee later-life/farewell material; Jinwoo/Cha family and Suho; sealing Suho’s power/memories; shadow farewell/dream; then an extended Suho training/System/choice continuation not present in Chugong prose.",
+      "nonlocal": "Part 4 braids late external stories and postscript material. The volume then crosses the supplied prose endpoint at the Part 4/Part 5 boundary.",
+      "original": "**V15 p061–p267 (Parts 5–6) is classified Manhwa-original relative to the supplied Chugong omnibus.** This should remain a hard source-boundary rule in later synthesis.",
+      "changes": [
+        {
+          "manhwa_scene": "Late Go Gunhee / restored-life / final-farewell material",
+          "korean_source": "late external-story corpus in split 032 and/or adjacent late side-story material",
+          "categories": [
+            "Preserved",
+            "Relocated",
+            "Recomposed",
+            "Source-uncertain"
+          ],
+          "notes": "The manhwa devotes Part 4 space to Go, memory, Elixir imagery, and the right to finish an ordinary life; precise source-story number awaits raw EPUB backfill."
+        },
+        {
+          "manhwa_scene": "Jinwoo/Cha family and Suho inheritance setup",
+          "korean_source": "late `외전` / `후일담` corpus",
+          "categories": [
+            "Preserved",
+            "Expanded",
+            "Recomposed"
+          ],
+          "notes": "Source family/legacy material remains, with visual continuity emphasizing inheritance and home."
+        },
+        {
+          "manhwa_scene": "Jinwoo decides to seal Suho’s power and shadow-related memories",
+          "korean_source": "terminal Chugong prose sequence in split 032",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "Directly visible at V15 p053–p054: Jinwoo judges that unmastered inherited power would prevent a normal life and resolves to suppress it."
+        },
+        {
+          "manhwa_scene": "Shadows bid the young master farewell; dream/ordinary-life transition",
+          "korean_source": "terminal Chugong prose endpoint",
+          "categories": [
+            "Preserved",
+            "Expanded"
+          ],
+          "notes": "V15 p055–p059 visually realizes the farewell/dream endpoint described by the Korean-source audit. p060 is a blank/logo terminal page for Part 4."
+        },
+        {
+          "manhwa_scene": "Part 5 begins at p061: renewed Suho trial/System-like progression",
+          "korean_source": "no counterpart after supplied Chugong final prose endpoint",
+          "categories": [
+            "Manhwa-original"
+          ],
+          "notes": "This is the cleanest source boundary in the collected manhwa: a new Part begins immediately after the source-adapted terminal sequence."
+        },
+        {
+          "manhwa_scene": "Parts 5–6: shadow trials, combat, pedagogy of judgment/restraint/retreat, final door at p267",
+          "korean_source": "no counterpart in supplied Chugong prose",
+          "categories": [
+            "Manhwa-original",
+            "Expanded",
+            "Transformed"
+          ],
+          "notes": "The manhwa team turns the inheritance epilogue into an extended next-generation argument: capability is insufficient without judgment, including knowing when not to press forward."
+        }
+      ]
+    }
+  ]
+}

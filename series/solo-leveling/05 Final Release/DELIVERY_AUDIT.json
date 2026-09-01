@@ -1,0 +1,36 @@
+{
+  "git_materialization": {
+    "artifact_checksum_entries": 23,
+    "generated_reconstruction_models": "REFERENCE_DRIVE; not tracked in this tranche",
+    "json_files": 3,
+    "markdown_files": 19,
+    "materialized_binary_files": 0,
+    "primary_source_payload_policy": "REFERENCE_DRIVE; not redistributed",
+    "reference_folders": 9,
+    "reference_ordinary_files": 22,
+    "reference_rows": 31,
+    "sha256_text_files": 2,
+    "source_payloads_included": false,
+    "tracked_files": 24
+  },
+  "packaged_date": "2026-08-12",
+  "release": "v1",
+  "schema": "manga-anime-git-migration/solo-leveling-git-delivery-audit/v1",
+  "source_release_package": {
+    "artifact_checksum_entries": 42,
+    "artifact_checksum_entries_verified": 42,
+    "copyrighted_primary_sources_included": false,
+    "document_01_validation_json_present": false,
+    "evidence_ledger_words_13": 13499,
+    "governance_words": 11612,
+    "numbered_corpus_words_00_13": 111374,
+    "numbered_documents": 14,
+    "packaged_date": "2026-08-12",
+    "packaged_files_in_directory": 43,
+    "phase_audit_artifacts": 4,
+    "reader_facing_words_00_12": 97875,
+    "release": "v1",
+    "source_payload_policy": "Excluded: Korean novel and official manhwa source payloads are not redistributed."
+  },
+  "status": "PASS"
+}
