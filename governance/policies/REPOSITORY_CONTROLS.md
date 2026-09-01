@@ -22,7 +22,7 @@ The public, owner-maintained repository and its pre-G8 hardening candidate use t
 - clean, full, non-shallow clone verification before corpus content; and
 - historical G3 validation against commit `e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f` and tree `d0bb00fa5d7a8735892921ba3c0023b4855ac52e`, plus separate current-policy and optional manifest-bound validation for later candidates;
 - immutable preservation of `bootstrap-bindings.json` and `G3_BOOTSTRAP_TRACKED_PATHS.txt` as historical private-bootstrap evidence; and
-- current migration state of completed G3, G4 representative pilots, completed Character Index v2 hardening, and an integrated U149 first-tranche candidate.
+- current migration state of completed G4 representative pilots, active G5 progressive bounded migration, completed Character Index v2 hardening, and the still-nonauthoritative pilot candidates recorded in the authority documents. G5 does not imply full-corpus completeness.
 
 Repository creation and public visibility did not activate Git analytical authority. Google Drive remains authoritative until separately approved and verified G8 activation. Each coherent recurring tranche requires one prior, SHA-256-bound owner approval package under `RECURRING_TRANCHE_PROCESS.md`; that package may authorize transformation through ordinary non-forced push and verification without repeated intermediate approvals. Exact-path staging, committed-blob and complete-history audit, live provider and remote reread, CI, and the fail-closed authority boundary remain mandatory. Original-content licensing is CC BY-NC 4.0 under the narrow root license scope.
 

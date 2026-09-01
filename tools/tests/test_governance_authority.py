@@ -665,9 +665,9 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
     def test_migration_and_withdrawal_state_is_consistent(self) -> None:
         current_expected = {
-            "completed_gate": "G3",
-            "current_gate": "G4_REPRESENTATIVE_PILOTS",
-            "current_subphase": "P04_ZIP_REFERENCE_CONTROL",
+            "completed_gate": "G4",
+            "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
+            "current_subphase": "G5_ENTRY_READY",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -681,6 +681,21 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             ),
             "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
             "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED",
+            "g4_phase_closure": {
+                "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
+                "audit_id": (
+                    "g4-representative-pilot-completion-audit-20260901T062038Z"
+                ),
+                "audit_sha256": (
+                    "794b5071897418cad5bee3b5bb91a8b941b049d5b26dc822e73d22958022876c"
+                ),
+                "pilot_high_water_commit": (
+                    "ec2829f3026a29a51985576017c45465cd59ba4b"
+                ),
+                "pilot_high_water_tree": (
+                    "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
+                ),
+            },
         }
         for document in (self.scope, self.state):
             with self.subTest(schema=document["schema"]):
@@ -691,6 +706,74 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
         )
         self.assertNotIn("p05_v2_status", self.binding["migration"])
+
+    def test_g4_closure_and_g5_entry_are_consistent(self) -> None:
+        expected_closure = {
+            "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
+            "audit_id": (
+                "g4-representative-pilot-completion-audit-20260901T062038Z"
+            ),
+            "audit_sha256": (
+                "794b5071897418cad5bee3b5bb91a8b941b049d5b26dc822e73d22958022876c"
+            ),
+            "pilot_high_water_commit": (
+                "ec2829f3026a29a51985576017c45465cd59ba4b"
+            ),
+            "pilot_high_water_tree": (
+                "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
+            ),
+        }
+        for document in (self.scope, self.state):
+            with self.subTest(schema=document["schema"]):
+                self.assertEqual(document["authority_epoch"], 0)
+                self.assertEqual(document["migration"]["g4_phase_closure"], expected_closure)
+                self.assertEqual(document["migration"]["completed_gate"], "G4")
+                self.assertEqual(
+                    document["migration"]["current_gate"],
+                    "G5_PROGRESSIVE_BULK_MIGRATION",
+                )
+        self.assertEqual(
+            self.scope["before_verified_g8_activation"]["analytical_authority"],
+            "GOOGLE_DRIVE",
+        )
+        self.assertEqual(
+            self.state["analytical_authority_activation"]["status"],
+            "NOT_AUTHORIZED",
+        )
+        self.assertEqual(
+            self.binding["migration"]["current_subphase"],
+            "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
+        )
+
+        prose = {
+            "README.md": ("G4 is closed", "G5 progressive bounded migration is active"),
+            "governance/CHATGPT_AUTHORITY_AND_ROUTING.md": (
+                "G4 is closed",
+                "G5 progressive bounded migration is active",
+            ),
+            "governance/MANGA_ANIME_CORPUS_INDEX.md": (
+                "G4 closed",
+                "G5 progressive bounded migration active",
+            ),
+            "governance/policies/REPOSITORY_CONTROLS.md": (
+                "completed G4 representative pilots",
+                "active G5 progressive bounded migration",
+            ),
+            "series/README.md": (
+                "G4 is closed",
+                "G5 progressive bounded migration is active",
+            ),
+            "studies/README.md": (
+                "G4 is closed",
+                "G5 progressive bounded migration is active",
+            ),
+        }
+        for relative_path, expected_phrases in prose.items():
+            text = (REPOSITORY_ROOT / relative_path).read_text(encoding="utf-8")
+            for phrase in expected_phrases:
+                with self.subTest(path=relative_path, phrase=phrase):
+                    self.assertIn(phrase, text)
+            self.assertNotIn("full corpus is complete", text.casefold())
 
     def test_public_activation_evidence_tuple_is_exact(self) -> None:
         publication = self.binding["repository_publication_activation"]
@@ -735,7 +818,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "UNLICENSED_PENDING_OWNER_DECISION",
         )
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
-        self.assertEqual(series_registry["status"], "PARTIAL_G4_MIGRATION_CANDIDATE")
+        self.assertEqual(series_registry["status"], "PARTIAL_G5_MIGRATION_CANDIDATE")
         self.assertEqual(len(series_registry["series"]), 2)
         self.assertEqual(
             series_registry["series"][0]["series_id"],

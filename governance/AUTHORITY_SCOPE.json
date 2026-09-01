@@ -3,9 +3,9 @@
   "state": "PUBLIC_REPOSITORY_PRE_CUTOVER_DRIVE_AUTHORITATIVE",
   "authority_epoch": 0,
   "migration": {
-    "completed_gate": "G3",
-    "current_gate": "G4_REPRESENTATIVE_PILOTS",
-    "current_subphase": "P04_ZIP_REFERENCE_CONTROL",
+    "completed_gate": "G4",
+    "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
+    "current_subphase": "G5_ENTRY_READY",
     "integrated_candidates": [
       "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
       "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -16,7 +16,14 @@
     ],
     "p01_p04_local_preparation": "P04_COMPLETE_P01_P03_MATERIALIZED_P04_REFERENCE_ONLY",
     "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
-    "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED"
+    "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED",
+    "g4_phase_closure": {
+      "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
+      "audit_id": "g4-representative-pilot-completion-audit-20260901T062038Z",
+      "audit_sha256": "794b5071897418cad5bee3b5bb91a8b941b049d5b26dc822e73d22958022876c",
+      "pilot_high_water_commit": "ec2829f3026a29a51985576017c45465cd59ba4b",
+      "pilot_high_water_tree": "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
+    }
   },
   "before_verified_g8_activation": {
     "analytical_authority": "GOOGLE_DRIVE",

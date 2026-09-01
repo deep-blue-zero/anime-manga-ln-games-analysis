@@ -1,6 +1,6 @@
 {
   "schema": "anime-manga-ln-games-analysis/series-registry/v1",
-  "status": "PARTIAL_G4_MIGRATION_CANDIDATE",
+  "status": "PARTIAL_G5_MIGRATION_CANDIDATE",
   "series": [
     {
       "series_id": "the-idolmaster-cinderella-girls-u149",

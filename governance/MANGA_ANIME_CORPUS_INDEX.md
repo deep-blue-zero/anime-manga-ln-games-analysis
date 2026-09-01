@@ -1,6 +1,6 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public; G3 closed; G4 representative pilots in progress; U149, the partial IDOLY PRIDE P02 ledger, and the partial DJFW P03 control-state slice are materialized candidates. The P04 archive control is reference-only.
+> Repository state: public; G4 closed after all five representative archetypes passed; G5 progressive bounded migration active. U149, the partial IDOLY PRIDE P02 ledger, and the partial DJFW P03 control-state slice are materialized candidates. The P04 archive control is reference-only. The repository is not yet a complete corpus.
 >
 > Analytical authority: Google Drive until a separately approved and verified G8 cutover. Git content remains a nonauthoritative migration candidate.
 
