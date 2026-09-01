@@ -34,10 +34,12 @@ from validate_repository import (  # noqa: E402
     require_g3_selection,
     validate_audit_workflow,
     validate_commit_identities,
+    validate_crosswalk_closure,
     validate_current_domain,
     validate_bytes,
     validate_exact_set,
     validate_markdown_links,
+    validate_native_sheets,
     validate_protected,
     worktree_paths,
     worktree_snapshot,
@@ -45,6 +47,62 @@ from validate_repository import (  # noqa: E402
 
 
 class PhaseValidationTests(unittest.TestCase):
+    @staticmethod
+    def p03_snapshot() -> GitSnapshot:
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        return GitSnapshot(
+            ROOT,
+            "IN_MEMORY_P03",
+            {
+                path: SnapshotEntry(entry.path, entry.mode, entry.data, tracked=True)
+                for path, entry in snapshot.entries.items()
+            },
+        )
+
+    @staticmethod
+    def replace_entry(
+        snapshot: GitSnapshot, path: str, data: bytes | None
+    ) -> GitSnapshot:
+        entries = dict(snapshot.entries)
+        if data is None:
+            entries.pop(path, None)
+        else:
+            entries[path] = SnapshotEntry(path, "100644", data, tracked=True)
+        return GitSnapshot(ROOT, f"{snapshot.identity}_MUTATED", entries)
+
+    @staticmethod
+    def replace_jsonl_row(
+        snapshot: GitSnapshot,
+        path: str,
+        predicate,
+        mutate,
+    ) -> GitSnapshot:
+        rows = [
+            json.loads(line)
+            for line in snapshot.entries[path].data.decode("utf-8").splitlines()
+            if line
+        ]
+        replacements = 0
+        output = []
+        for row in rows:
+            if predicate(row):
+                replacement = mutate(dict(row))
+                replacements += 1
+                if replacement is not None:
+                    output.append(replacement)
+            else:
+                output.append(row)
+        if replacements != 1:
+            raise AssertionError(f"fixture predicate matched {replacements} rows")
+        data = b"".join(
+            json.dumps(row, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode(
+                "utf-8"
+            )
+            + b"\n"
+            for row in output
+        )
+        return PhaseValidationTests.replace_entry(snapshot, path, data)
+
     @staticmethod
     def named_text_policy(path: str, data: bytes, *, threshold: int = 8) -> dict:
         return {
@@ -96,6 +154,316 @@ class PhaseValidationTests(unittest.TestCase):
                 }
             ],
         )
+
+    def test_p03_crosswalk_three_leg_closure_and_snapshot_hashes_pass(self) -> None:
+        self.assertEqual(validate_crosswalk_closure(self.p03_snapshot()), [])
+
+    def test_p03_crosswalk_rejects_a_missing_plan_leg(self) -> None:
+        snapshot = self.p03_snapshot()
+        path = "crosswalk/path-plan.jsonl"
+        destination = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/"
+            "DJFW_CURRENT_STATE_AND_CORPUS_MAP.md"
+        )
+        mutated = self.replace_jsonl_row(
+            snapshot,
+            path,
+            lambda row: row.get("destination_path") == destination,
+            lambda _row: None,
+        )
+        failures = validate_crosswalk_closure(mutated)
+        self.assertTrue(
+            any("three-leg destination closure failure (path-plan)" in item for item in failures)
+        )
+
+    def test_p03_crosswalk_rejects_duplicate_representation_id(self) -> None:
+        snapshot = self.p03_snapshot()
+        path = "crosswalk/drive-to-git.jsonl"
+        destination = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/"
+            "DJFW_CURRENT_STATE_AND_CORPUS_MAP.md"
+        )
+        duplicate = "repr-dfb9d63bdc2532d40f912a34"
+
+        def change(row):
+            row["representation_id"] = duplicate
+            return row
+
+        mutated = self.replace_jsonl_row(
+            snapshot,
+            path,
+            lambda row: row.get("git_path") == destination,
+            change,
+        )
+        failures = validate_crosswalk_closure(mutated)
+        self.assertTrue(any("duplicate crosswalk representation_id" in item for item in failures))
+
+    def test_p03_crosswalk_rejects_exact_committed_hash_drift(self) -> None:
+        snapshot = self.p03_snapshot()
+        path = "crosswalk/drive-to-git.jsonl"
+        destination = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/"
+            "DJFW_CURRENT_STATE_AND_CORPUS_MAP.md"
+        )
+
+        def change(row):
+            row["git_sha256"] = "0" * 64
+            return row
+
+        mutated = self.replace_jsonl_row(
+            snapshot,
+            path,
+            lambda row: row.get("git_path") == destination,
+            change,
+        )
+        failures = validate_crosswalk_closure(mutated)
+        self.assertTrue(any("committed-byte hash drift" in item for item in failures))
+
+    def test_reference_only_crosswalk_rejects_a_destination(self) -> None:
+        snapshot = self.p03_snapshot()
+        path = "crosswalk/materialization-results.jsonl"
+
+        def change(row):
+            row["destination_path"] = "studies/forbidden.xlsx"
+            return row
+
+        mutated = self.replace_jsonl_row(
+            snapshot,
+            path,
+            lambda row: row.get("drive_id")
+            == "1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg"
+            and row.get("result") == "REFERENCE_VERIFIED_NOT_MATERIALIZED",
+            change,
+        )
+        failures = validate_crosswalk_closure(mutated)
+        self.assertTrue(
+            any("reference-only row contains destination fields" in item for item in failures)
+        )
+
+    def test_study_crosswalk_requires_source_revision_and_path_on_every_leg(self) -> None:
+        snapshot = self.p03_snapshot()
+        destination = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/"
+            "DJFW_CURRENT_STATE_AND_CORPUS_MAP.md"
+        )
+
+        def remove_revision(row):
+            row.pop("source_revision")
+            return row
+
+        missing_revision = self.replace_jsonl_row(
+            snapshot,
+            "crosswalk/path-plan.jsonl",
+            lambda row: row.get("destination_path") == destination,
+            remove_revision,
+        )
+        revision_failures = validate_crosswalk_closure(missing_revision)
+        self.assertTrue(
+            any(
+                "plan leg missing bindings" in item and "source_revision" in item
+                for item in revision_failures
+            )
+        )
+        self.assertTrue(
+            any("plan.source_revision must be a positive decimal string" in item for item in revision_failures)
+        )
+
+        def drift_path(row):
+            row["source_path"] = "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY/WRONG.md"
+            return row
+
+        path_drift = self.replace_jsonl_row(
+            snapshot,
+            "crosswalk/materialization-results.jsonl",
+            lambda row: row.get("destination_path") == destination,
+            drift_path,
+        )
+        path_failures = validate_crosswalk_closure(path_drift)
+        self.assertTrue(
+            any(
+                "source_path/source_path mismatch between mapping and result" in item
+                for item in path_failures
+            )
+        )
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_native_xlsx_reference_binds_source_revision_and_path(self) -> None:
+        snapshot = self.p03_snapshot()
+        drive_id = "1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg"
+
+        def drift_revision(row):
+            row["source_revision"] = "19"
+            return row
+
+        revision_drift = self.replace_jsonl_row(
+            snapshot,
+            "crosswalk/materialization-results.jsonl",
+            lambda row: row.get("drive_id") == drive_id
+            and row.get("result") == "REFERENCE_VERIFIED_NOT_MATERIALIZED",
+            drift_revision,
+        )
+        revision_failures = validate_native_sheets(revision_drift, True)
+        self.assertTrue(
+            any("XLSX reference result binding drift" in item for item in revision_failures)
+        )
+
+        def remove_source_path(row):
+            row.pop("source_path")
+            return row
+
+        missing_path = self.replace_jsonl_row(
+            snapshot,
+            "crosswalk/path-plan.jsonl",
+            lambda row: row.get("drive_id") == drive_id
+            and row.get("decision") == "REFERENCE_DRIVE",
+            remove_source_path,
+        )
+        path_failures = validate_native_sheets(missing_path, True)
+        self.assertTrue(
+            any("XLSX reference plan binding drift" in item for item in path_failures)
+        )
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_p03_native_sheet_schema_shape_hashes_and_crosswalk_pass(self) -> None:
+        self.assertEqual(validate_native_sheets(self.p03_snapshot(), True), [])
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_native_sheet_discovery_ignores_unrelated_structure_json(self) -> None:
+        snapshot = self.p03_snapshot()
+        unrelated_path = "studies/unrelated/UNRELATED.structure.json"
+        unrelated = self.replace_entry(
+            snapshot,
+            unrelated_path,
+            b'{"schema":"unrelated/example/v1","value":true}\n',
+        )
+        self.assertEqual(validate_native_sheets(unrelated, True), [])
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_native_sheet_discovery_rejects_schema_id_orphan_manifest(self) -> None:
+        snapshot = self.p03_snapshot()
+        manifest_path = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and "
+            "Source Lock/DJFW_PROJECT_CONTROL_SHEET.structure.json"
+        )
+        orphan_path = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and "
+            "Source Lock/ORPHAN_NATIVE_SHEET.structure.json"
+        )
+        orphan = self.replace_entry(snapshot, orphan_path, snapshot.entries[manifest_path].data)
+        failures = validate_native_sheets(orphan, True)
+        self.assertTrue(
+            any("drive-to-git closure failure" in item for item in failures)
+        )
+
+    def test_native_sheet_schema_allows_ordinals_longer_than_two_digits(self) -> None:
+        schema = json.loads(
+            (ROOT / "governance/schemas/native-sheet-structure.schema.json").read_bytes()
+        )
+        pattern = schema["$defs"]["worksheet"]["properties"][
+            "tsv_destination_path"
+        ]["pattern"]
+        self.assertIn("[0-9]{2,}-", pattern)
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_p03_native_sheet_rejects_missing_and_orphan_tabs(self) -> None:
+        snapshot = self.p03_snapshot()
+        first_tab = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and "
+            "Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/01-cases.tsv"
+        )
+        missing = self.replace_entry(snapshot, first_tab, None)
+        missing_failures = validate_native_sheets(missing, True)
+        self.assertTrue(any("native-sheet TSV is missing" in item for item in missing_failures))
+        self.assertTrue(any("sibling TSV closure failure" in item for item in missing_failures))
+
+        orphan_path = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and "
+            "Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/18-orphan.tsv"
+        )
+        orphan = self.replace_entry(snapshot, orphan_path, b"orphan\n")
+        orphan_failures = validate_native_sheets(orphan, True)
+        self.assertTrue(any("sibling TSV closure failure" in item for item in orphan_failures))
+        self.assertTrue(any("orphan native-sheet TSV paths" in item for item in orphan_failures))
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_p03_native_sheet_rejects_hash_and_rectangularity_drift(self) -> None:
+        snapshot = self.p03_snapshot()
+        first_tab = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and "
+            "Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/01-cases.tsv"
+        )
+        data = snapshot.entries[first_tab].data
+        first_lf = data.index(b"\n")
+        changed = data[:first_lf] + b"\textra" + data[first_lf:]
+        mutated = self.replace_entry(snapshot, first_tab, changed)
+        failures = validate_native_sheets(mutated, True)
+        self.assertTrue(any("TSV SHA-256 drift" in item for item in failures))
+        self.assertTrue(any("TSV rectangularity failure" in item for item in failures))
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_p03_native_sheet_rejects_an_untracked_worktree_projection(self) -> None:
+        snapshot = self.p03_snapshot()
+        first_tab = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and "
+            "Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/01-cases.tsv"
+        )
+        entries = dict(snapshot.entries)
+        entry = entries[first_tab]
+        entries[first_tab] = SnapshotEntry(
+            entry.path, entry.mode, entry.data, tracked=False
+        )
+        mutated = GitSnapshot(ROOT, "UNTRACKED_P03_PROJECTION", entries)
+        native_failures = validate_native_sheets(mutated, True)
+        crosswalk_failures = validate_crosswalk_closure(mutated)
+        self.assertTrue(
+            any("not a tracked regular non-LFS Git blob" in item for item in native_failures)
+        )
+        self.assertTrue(
+            any("not a tracked regular non-LFS blob" in item for item in crosswalk_failures)
+        )
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_p03_native_sheet_rejects_name_collision_and_range_shape_drift(self) -> None:
+        snapshot = self.p03_snapshot()
+        manifest_path = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and "
+            "Source Lock/DJFW_PROJECT_CONTROL_SHEET.structure.json"
+        )
+        manifest = json.loads(snapshot.entries[manifest_path].data)
+        manifest["worksheets"][1]["name"] = manifest["worksheets"][0]["name"].casefold()
+        manifest["worksheets"][1]["address"] = "A1:M11"
+        data = (json.dumps(manifest, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
+        mutated = self.replace_entry(snapshot, manifest_path, data)
+        failures = validate_native_sheets(mutated, True)
+        self.assertTrue(any("worksheet name collision" in item for item in failures))
+        self.assertTrue(any("declared range end/shape mismatch" in item for item in failures))
+
+    @unittest.skipUnless(importlib.util.find_spec("jsonschema"), "jsonschema is not installed")
+    def test_p03_native_sheet_rejects_path_traversal_and_tracked_xlsx(self) -> None:
+        snapshot = self.p03_snapshot()
+        manifest_path = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and "
+            "Source Lock/DJFW_PROJECT_CONTROL_SHEET.structure.json"
+        )
+        manifest = json.loads(snapshot.entries[manifest_path].data)
+        manifest["worksheets"][0]["tsv_destination_path"] = (
+            "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and "
+            "Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/../escape.tsv"
+        )
+        data = (json.dumps(manifest, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
+        traversal = self.replace_entry(snapshot, manifest_path, data)
+        traversal_failures = validate_native_sheets(traversal, True)
+        self.assertTrue(
+            any(
+                "tsv_destination_path" in item and "validator=pattern" in item
+                for item in traversal_failures
+            )
+        )
+
+        xlsx_path = "studies/doujinshi-fanwork-comparative-taxonomy/source.xlsx"
+        tracked_xlsx = self.replace_entry(snapshot, xlsx_path, b"PK\x03\x04")
+        xlsx_failures = validate_native_sheets(tracked_xlsx, True)
+        self.assertTrue(any("must remain REFERENCE_DRIVE" in item for item in xlsx_failures))
 
     def test_named_text_exception_allows_only_the_exact_large_bom_cr_tuple(self) -> None:
         path = "series/example/reviewed.csv"

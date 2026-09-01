@@ -31,6 +31,7 @@ governance/repository-controls/public-activation-bindings.json
 governance/repository-controls/tracked-file-policy.json
 governance/schemas/character-analysis-index.schema.json
 governance/schemas/character-reconstruction-capability.schema.json
+governance/schemas/native-sheet-structure.schema.json
 provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md
 series/README.md
 series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv
@@ -51,6 +52,25 @@ series/the-idolmaster-cinderella-girls-u149/V1 Analysis/06 Full-Series Synthesis
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/90 Conversation Archives/Manga and anime discussions - U149 Deep Analysis - Full Transcript.md
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/MANIFEST.md
 studies/README.md
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.structure.json
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/01-cases.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/02-sources.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/03-extractions.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/04-character-baselines.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/05-pairing-baselines.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/06-case-to-source-crosswalk.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/07-case-to-baseline-crosswalk.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/08-voice-fidelity-ledger.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/09-subjecthood-ledger.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/10-transformation-pressure-ledger.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/11-canon-relation-ledger.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/12-audience-orientation-ledger.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/13-value-assessment-ledger.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/14-collapse-risk-ledger.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/15-revision-ledger.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/16-controlled-vocabulary.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/17-reupload-needed.tsv
+studies/doujinshi-fanwork-comparative-taxonomy/DJFW_CURRENT_STATE_AND_CORPUS_MAP.md
 tools/character_index_core.py
 tools/generate_character_index.py
 tools/requirements-validation.txt

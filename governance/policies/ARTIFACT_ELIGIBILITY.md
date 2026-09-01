@@ -26,3 +26,9 @@ The following single exception is approved for the G4 P02 large-structured bound
 | `series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv` | 1,377,633 | `7dde60c452627a694307dda68abfb0d4d434ec1c2ce934bf85a0b81db483c366` | `OWNER_APPROVED_G4_P02_LARGE_STRUCTURED_BOUNDARY` | Existing UTF-8 BOM and carriage returns are accepted only while the complete tuple matches. |
 
 The ledger is retained because its source-to-bundle relationships are directly queryable analytical provenance; an external-only pointer would make the migrated analyses materially harder to interpret and audit. This is not a general CSV, Idoly Pride, BOM, CRLF, or size-threshold exception.
+
+## Native Google Sheet representation contract
+
+Native Google Sheets remain controlled Drive authoring surfaces. Under the approved X1 disposition, a reviewed revision may be represented in Git by UTF-8/LF TSV projections plus a machine-readable structure manifest after source revision, workbook structure, tab dimensions, and exact committed bytes are verified. The proprietary XLSX export remains `REFERENCE_DRIVE`; Git LFS is not used for it.
+
+The partial DJFW P03 pilot applies this contract to revision 18 of `DJFW_PROJECT_CONTROL_SHEET`: 17 TSV projections and one structure manifest are tracked. This is a structured-text representation, not a binary-artifact exception and not authority cutover. A later native-Sheet revision becomes a Git candidate only after a new verified export and ordinary Git publication lifecycle.

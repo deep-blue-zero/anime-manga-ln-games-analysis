@@ -68,6 +68,21 @@ RESERVED_ABSENT = {
     "characters/reconstruction_capabilities.jsonl",
     "characters/CHARACTER_RECONSTRUCTION_INDEX.md",
 }
+NATIVE_SHEET_SCHEMA = "governance/schemas/native-sheet-structure.schema.json"
+NATIVE_SHEET_SCHEMA_ID = "manga-anime-git-migration/native-sheet-structure/v1"
+NATIVE_SHEET_TRANSFORMATION = (
+    "GOOGLE_SHEET_VERIFIED_XLSX_TO_TSV_PACKAGE_V2_BLANK_PRESERVING"
+)
+NATIVE_SHEET_REFERENCE_TRANSFORMATION = "GOOGLE_SHEET_NATIVE_XLSX_REFERENCE_V1"
+CROSSWALK_FILES = {
+    "mapping": "crosswalk/drive-to-git.jsonl",
+    "results": "crosswalk/materialization-results.jsonl",
+    "plan": "crosswalk/path-plan.jsonl",
+}
+SHA256_RE = re.compile(r"^[0-9a-f]{64}$")
+REPRESENTATION_ID_RE = re.compile(r"^repr-[0-9a-f]{24}$")
+POSITIVE_DECIMAL_RE = re.compile(r"^[1-9][0-9]*$")
+EXCEL_RANGE_RE = re.compile(r"^A1:([A-Z]+)([1-9][0-9]*)$")
 
 
 def _git_paths(root: Path, *args: str) -> list[str]:
@@ -603,6 +618,910 @@ def _policy_from_snapshot(snapshot: GitSnapshot) -> Mapping[str, Any]:
     return value
 
 
+def _snapshot_jsonl(snapshot: GitSnapshot, path: str) -> list[dict[str, Any]]:
+    entry = snapshot.get(path)
+    if entry is None:
+        raise DomainError(f"missing crosswalk path: {path}")
+    if not entry.qualifies_as_evidence:
+        raise DomainError(
+            f"crosswalk must be a tracked regular non-LFS Git blob: {path}"
+        )
+    return [
+        record
+        for _line_number, record in decode_jsonl_with_lines(
+            entry.data, f"{snapshot.identity}:{path}"
+        )
+    ]
+
+
+def _valid_nonempty_string(value: Any) -> bool:
+    return (
+        isinstance(value, str)
+        and bool(value)
+        and value == value.strip()
+        and "\r" not in value
+        and "\n" not in value
+    )
+
+
+def _validate_crosswalk_record_basics(
+    row: Mapping[str, Any], label: str, required: set[str]
+) -> list[str]:
+    errors: list[str] = []
+    missing = required - set(row)
+    if missing:
+        errors.append(f"{label} missing required fields: {sorted(missing)}")
+    schema_version = row.get("schema_version")
+    if (
+        isinstance(schema_version, bool)
+        or not isinstance(schema_version, int)
+        or schema_version != 1
+    ):
+        errors.append(f"{label}.schema_version must equal 1")
+    for field in required - {
+        "schema_version",
+        "destination_bytes",
+        "git_bytes",
+        "source_bytes",
+    }:
+        if field in row and not _valid_nonempty_string(row[field]):
+            errors.append(f"{label}.{field} must be a nonempty single-line string")
+    return errors
+
+
+def _is_positive_integer(value: Any) -> bool:
+    return isinstance(value, int) and not isinstance(value, bool) and value > 0
+
+
+def _crosswalk_path_scope(row: Mapping[str, Any], path: str, label: str) -> list[str]:
+    errors: list[str] = []
+    scope_fields = [field for field in ("series_id", "study_id") if field in row]
+    if len(scope_fields) != 1:
+        return [f"{label} must declare exactly one of series_id or study_id"]
+    field = scope_fields[0]
+    value = row[field]
+    if not _valid_nonempty_string(value):
+        return [f"{label}.{field} must be a nonempty single-line string"]
+    expected = f"{'series' if field == 'series_id' else 'studies'}/{value}/"
+    if not path.startswith(expected):
+        errors.append(
+            f"{label} scope/path mismatch: {field}={value!r}, path={path!r}"
+        )
+    return errors
+
+
+def _compare_crosswalk_field(
+    errors: list[str],
+    destination: str,
+    left_label: str,
+    left: Mapping[str, Any],
+    left_field: str,
+    right_label: str,
+    right: Mapping[str, Any],
+    right_field: str,
+) -> None:
+    if left.get(left_field) != right.get(right_field):
+        errors.append(
+            f"crosswalk {destination} {left_field}/{right_field} mismatch between "
+            f"{left_label} and {right_label}"
+        )
+
+
+def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
+    """Validate all materialized/reference decisions from exact snapshot bytes."""
+
+    errors: list[str] = []
+    try:
+        mappings = _snapshot_jsonl(snapshot, CROSSWALK_FILES["mapping"])
+        results = _snapshot_jsonl(snapshot, CROSSWALK_FILES["results"])
+        plans = _snapshot_jsonl(snapshot, CROSSWALK_FILES["plan"])
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+
+    mapping_by_path: dict[str, Mapping[str, Any]] = {}
+    representation_paths: dict[str, str] = {}
+    for index, row in enumerate(mappings):
+        label = f"{CROSSWALK_FILES['mapping']}:{index + 1}"
+        required = {
+            "schema_version",
+            "drive_id",
+            "source_path",
+            "source_sha256",
+            "git_path",
+            "git_sha256",
+            "transformation",
+            "representation_id",
+        }
+        errors.extend(_validate_crosswalk_record_basics(row, label, required))
+        if not required.issubset(row):
+            continue
+        path = row["git_path"]
+        if not isinstance(path, str):
+            continue
+        try:
+            validate_repository_path(path)
+        except DomainError as exc:
+            errors.append(f"{label}.git_path is invalid: {exc}")
+            continue
+        if not isinstance(row["source_sha256"], str) or not SHA256_RE.fullmatch(
+            row["source_sha256"]
+        ):
+            errors.append(f"{label}.source_sha256 is not a lowercase SHA-256")
+        if not isinstance(row["git_sha256"], str) or not SHA256_RE.fullmatch(
+            row["git_sha256"]
+        ):
+            errors.append(f"{label}.git_sha256 is not a lowercase SHA-256")
+        representation_id = row["representation_id"]
+        if not isinstance(representation_id, str) or not REPRESENTATION_ID_RE.fullmatch(
+            representation_id
+        ):
+            errors.append(f"{label}.representation_id is invalid")
+            continue
+        prior_representation = representation_paths.get(representation_id)
+        if prior_representation is not None:
+            errors.append(
+                f"duplicate crosswalk representation_id {representation_id}: "
+                f"{prior_representation} / {path}"
+            )
+        else:
+            representation_paths[representation_id] = path
+        if path in mapping_by_path:
+            errors.append(f"duplicate drive-to-git destination path: {path}")
+            continue
+        mapping_by_path[path] = row
+        errors.extend(_crosswalk_path_scope(row, path, label))
+        entry = snapshot.get(path)
+        if entry is None:
+            errors.append(f"drive-to-git destination is absent from snapshot: {path}")
+        elif not entry.qualifies_as_evidence:
+            errors.append(
+                f"drive-to-git destination is not a tracked regular non-LFS blob: {path}"
+            )
+        else:
+            actual_hash = hashlib.sha256(entry.data).hexdigest()
+            if actual_hash != row["git_sha256"]:
+                errors.append(
+                    f"drive-to-git committed-byte hash drift: {path}; "
+                    f"declared={row['git_sha256']}, actual={actual_hash}"
+                )
+            if path.startswith("studies/"):
+                if row.get("git_bytes") != len(entry.data):
+                    errors.append(f"drive-to-git committed-byte length drift: {path}")
+
+    materialized_by_path: dict[str, Mapping[str, Any]] = {}
+    reference_results: dict[tuple[str, str], Mapping[str, Any]] = {}
+    for index, row in enumerate(results):
+        label = f"{CROSSWALK_FILES['results']}:{index + 1}"
+        result = row.get("result")
+        if result == "MATERIALIZED_AND_HASH_VERIFIED":
+            required = {
+                "schema_version",
+                "drive_id",
+                "source_sha256",
+                "destination_path",
+                "destination_sha256",
+                "destination_bytes",
+                "transformation",
+                "run_id",
+            }
+            errors.extend(_validate_crosswalk_record_basics(row, label, required))
+            path = row.get("destination_path")
+            if not isinstance(path, str):
+                continue
+            try:
+                validate_repository_path(path)
+            except DomainError as exc:
+                errors.append(f"{label}.destination_path is invalid: {exc}")
+                continue
+            if path in materialized_by_path:
+                errors.append(f"duplicate materialization destination path: {path}")
+            else:
+                materialized_by_path[path] = row
+            if not isinstance(row.get("source_sha256"), str) or not SHA256_RE.fullmatch(
+                row["source_sha256"]
+            ):
+                errors.append(f"{label}.source_sha256 is not a lowercase SHA-256")
+            if not isinstance(row.get("destination_sha256"), str) or not SHA256_RE.fullmatch(
+                row["destination_sha256"]
+            ):
+                errors.append(f"{label}.destination_sha256 is not a lowercase SHA-256")
+            if not _is_positive_integer(row.get("destination_bytes")):
+                errors.append(f"{label}.destination_bytes must be a positive integer")
+            if "source_bytes" in row and not _is_positive_integer(row["source_bytes"]):
+                errors.append(f"{label}.source_bytes must be a positive integer")
+            if "body_preserved" in row and not isinstance(row["body_preserved"], bool):
+                errors.append(f"{label}.body_preserved must be a boolean")
+        elif result == "REFERENCE_VERIFIED_NOT_MATERIALIZED":
+            required = {
+                "schema_version",
+                "drive_id",
+                "source_path",
+                "source_sha256",
+                "transformation",
+                "run_id",
+                "terminal_action",
+            }
+            errors.extend(_validate_crosswalk_record_basics(row, label, required))
+            key = (row.get("drive_id"), row.get("source_path"))
+            if not all(isinstance(item, str) for item in key):
+                continue
+            if key in reference_results:
+                errors.append(f"duplicate reference-only materialization result: {key}")
+            else:
+                reference_results[key] = row
+            if row.get("terminal_action") != "REFERENCE_DRIVE":
+                errors.append(f"{label}.terminal_action must equal REFERENCE_DRIVE")
+            if not isinstance(row.get("source_sha256"), str) or not SHA256_RE.fullmatch(
+                row["source_sha256"]
+            ):
+                errors.append(f"{label}.source_sha256 is not a lowercase SHA-256")
+            if not _is_positive_integer(row.get("source_bytes")):
+                errors.append(f"{label}.source_bytes must be a positive integer")
+            prohibited = {
+                "destination_path",
+                "destination_sha256",
+                "destination_bytes",
+                "representation_id",
+                "series_id",
+                "study_id",
+            }
+            present = sorted(prohibited & set(row))
+            if present:
+                errors.append(
+                    f"{label} reference-only row contains destination fields: {present}"
+                )
+        else:
+            errors.append(f"{label}.result is not a recognized terminal result")
+
+    planned_by_path: dict[str, Mapping[str, Any]] = {}
+    reference_plans: dict[tuple[str, str], Mapping[str, Any]] = {}
+    for index, row in enumerate(plans):
+        label = f"{CROSSWALK_FILES['plan']}:{index + 1}"
+        decision = row.get("decision")
+        if isinstance(decision, str) and decision.startswith("MIGRATE_"):
+            required = {
+                "schema_version",
+                "drive_id",
+                "source_path",
+                "destination_path",
+                "path_status",
+            }
+            errors.extend(_validate_crosswalk_record_basics(row, label, required))
+            path = row.get("destination_path")
+            if not isinstance(path, str):
+                continue
+            try:
+                validate_repository_path(path)
+            except DomainError as exc:
+                errors.append(f"{label}.destination_path is invalid: {exc}")
+                continue
+            if row.get("path_status") != "MATERIALIZED_PROSPECTIVE":
+                errors.append(
+                    f"{label}.path_status must equal MATERIALIZED_PROSPECTIVE"
+                )
+            if path in planned_by_path:
+                errors.append(f"duplicate path-plan destination path: {path}")
+            else:
+                planned_by_path[path] = row
+        elif decision == "REFERENCE_DRIVE":
+            required = {
+                "schema_version",
+                "drive_id",
+                "source_path",
+                "path_status",
+            }
+            errors.extend(_validate_crosswalk_record_basics(row, label, required))
+            key = (row.get("drive_id"), row.get("source_path"))
+            if not all(isinstance(item, str) for item in key):
+                continue
+            if key in reference_plans:
+                errors.append(f"duplicate reference-only path-plan row: {key}")
+            else:
+                reference_plans[key] = row
+            if row.get("path_status") != "REFERENCE_VERIFIED_NOT_MATERIALIZED":
+                errors.append(
+                    f"{label}.path_status must equal REFERENCE_VERIFIED_NOT_MATERIALIZED"
+                )
+            prohibited = {
+                "destination_path",
+                "destination_sha256",
+                "destination_bytes",
+                "representation_id",
+                "series_id",
+                "study_id",
+            }
+            present = sorted(prohibited & set(row))
+            if present:
+                errors.append(
+                    f"{label} reference-only row contains destination fields: {present}"
+                )
+        else:
+            errors.append(f"{label}.decision is not a recognized migration decision")
+
+    destination_sets = {
+        "drive-to-git": set(mapping_by_path),
+        "materialization-results": set(materialized_by_path),
+        "path-plan": set(planned_by_path),
+    }
+    authoritative_destinations = destination_sets["drive-to-git"]
+    for label, destinations in destination_sets.items():
+        if destinations != authoritative_destinations:
+            errors.append(
+                f"crosswalk three-leg destination closure failure ({label}); "
+                f"missing={sorted(authoritative_destinations - destinations)}, "
+                f"extra={sorted(destinations - authoritative_destinations)}"
+            )
+
+    for path in sorted(
+        authoritative_destinations
+        & set(materialized_by_path)
+        & set(planned_by_path),
+        key=lambda item: item.encode("utf-8"),
+    ):
+        mapping = mapping_by_path[path]
+        result = materialized_by_path[path]
+        plan = planned_by_path[path]
+        _compare_crosswalk_field(
+            errors, path, "mapping", mapping, "drive_id", "result", result, "drive_id"
+        )
+        _compare_crosswalk_field(
+            errors, path, "mapping", mapping, "drive_id", "plan", plan, "drive_id"
+        )
+        _compare_crosswalk_field(
+            errors,
+            path,
+            "mapping",
+            mapping,
+            "source_path",
+            "plan",
+            plan,
+            "source_path",
+        )
+        if "source_path" in result:
+            _compare_crosswalk_field(
+                errors,
+                path,
+                "mapping",
+                mapping,
+                "source_path",
+                "result",
+                result,
+                "source_path",
+            )
+        _compare_crosswalk_field(
+            errors,
+            path,
+            "mapping",
+            mapping,
+            "source_sha256",
+            "result",
+            result,
+            "source_sha256",
+        )
+        _compare_crosswalk_field(
+            errors,
+            path,
+            "mapping",
+            mapping,
+            "git_sha256",
+            "result",
+            result,
+            "destination_sha256",
+        )
+        _compare_crosswalk_field(
+            errors,
+            path,
+            "mapping",
+            mapping,
+            "transformation",
+            "result",
+            result,
+            "transformation",
+        )
+        entry = snapshot.get(path)
+        if entry is not None and entry.qualifies_as_evidence:
+            if result.get("destination_bytes") != len(entry.data):
+                errors.append(f"materialization destination byte-length drift: {path}")
+            if result.get("destination_sha256") != hashlib.sha256(entry.data).hexdigest():
+                errors.append(f"materialization destination SHA-256 drift: {path}")
+
+        if path.startswith("studies/"):
+            required_study_fields = {
+                "mapping": {
+                    "study_id",
+                    "representation_id",
+                    "source_path",
+                    "source_bytes",
+                    "source_revision",
+                    "source_sha256",
+                    "transformation",
+                    "git_bytes",
+                    "git_sha256",
+                },
+                "result": {
+                    "study_id",
+                    "representation_id",
+                    "source_path",
+                    "source_bytes",
+                    "source_revision",
+                    "source_sha256",
+                    "transformation",
+                    "destination_bytes",
+                    "destination_sha256",
+                },
+                "plan": {
+                    "study_id",
+                    "representation_id",
+                    "source_path",
+                    "source_bytes",
+                    "source_revision",
+                    "source_sha256",
+                    "transformation",
+                    "destination_bytes",
+                    "destination_sha256",
+                },
+            }
+            for leg_label, leg in (
+                ("mapping", mapping),
+                ("result", result),
+                ("plan", plan),
+            ):
+                missing = required_study_fields[leg_label] - set(leg)
+                if missing:
+                    errors.append(
+                        f"study crosswalk {path} {leg_label} leg missing bindings: "
+                        f"{sorted(missing)}"
+                    )
+                source_path = leg.get("source_path")
+                source_bytes = leg.get("source_bytes")
+                source_revision = leg.get("source_revision")
+                source_sha256 = leg.get("source_sha256")
+                if not _valid_nonempty_string(source_path):
+                    errors.append(
+                        f"study crosswalk {path} {leg_label}.source_path is invalid"
+                    )
+                if not _is_positive_integer(source_bytes):
+                    errors.append(
+                        f"study crosswalk {path} {leg_label}.source_bytes must be a "
+                        "positive integer"
+                    )
+                if (
+                    not isinstance(source_revision, str)
+                    or POSITIVE_DECIMAL_RE.fullmatch(source_revision) is None
+                ):
+                    errors.append(
+                        f"study crosswalk {path} {leg_label}.source_revision must be a "
+                        "positive decimal string"
+                    )
+                if (
+                    not isinstance(source_sha256, str)
+                    or SHA256_RE.fullmatch(source_sha256) is None
+                ):
+                    errors.append(
+                        f"study crosswalk {path} {leg_label}.source_sha256 is invalid"
+                    )
+            for field in (
+                "study_id",
+                "representation_id",
+                "source_path",
+                "source_bytes",
+                "source_revision",
+                "source_sha256",
+                "transformation",
+            ):
+                _compare_crosswalk_field(
+                    errors, path, "mapping", mapping, field, "result", result, field
+                )
+                _compare_crosswalk_field(
+                    errors, path, "mapping", mapping, field, "plan", plan, field
+                )
+            for leg_label, leg in (("result", result), ("plan", plan)):
+                _compare_crosswalk_field(
+                    errors,
+                    path,
+                    "mapping",
+                    mapping,
+                    "git_sha256",
+                    leg_label,
+                    leg,
+                    "destination_sha256",
+                )
+                _compare_crosswalk_field(
+                    errors,
+                    path,
+                    "mapping",
+                    mapping,
+                    "git_bytes",
+                    leg_label,
+                    leg,
+                    "destination_bytes",
+                )
+
+    if set(reference_results) != set(reference_plans):
+        errors.append(
+            "reference-only crosswalk closure failure; "
+            f"missing_results={sorted(set(reference_plans) - set(reference_results))}, "
+            f"missing_plans={sorted(set(reference_results) - set(reference_plans))}"
+        )
+    for key in set(reference_results) & set(reference_plans):
+        result = reference_results[key]
+        plan = reference_plans[key]
+        if key[0] == "1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg":
+            if result.get("transformation") != NATIVE_SHEET_REFERENCE_TRANSFORMATION:
+                errors.append(
+                    "P03 native XLSX reference result has an invalid transformation"
+                )
+            if (
+                "transformation" in plan
+                and plan["transformation"] != NATIVE_SHEET_REFERENCE_TRANSFORMATION
+            ):
+                errors.append(
+                    "P03 native XLSX reference plan has an invalid transformation"
+                )
+    return errors
+
+
+def _excel_column_number(label: str) -> int:
+    result = 0
+    for character in label:
+        result = result * 26 + (ord(character) - ord("A") + 1)
+    return result
+
+
+def _validate_native_tsv(
+    snapshot: GitSnapshot,
+    path: str,
+    expected_rows: int,
+    expected_columns: int,
+    expected_sha256: str,
+) -> list[str]:
+    errors: list[str] = []
+    entry = snapshot.get(path)
+    if entry is None:
+        return [f"native-sheet TSV is missing: {path}"]
+    if not entry.qualifies_as_evidence:
+        return [f"native-sheet TSV is not a tracked regular non-LFS Git blob: {path}"]
+    data = entry.data
+    actual_sha256 = hashlib.sha256(data).hexdigest()
+    if actual_sha256 != expected_sha256:
+        errors.append(
+            f"native-sheet TSV SHA-256 drift: {path}; "
+            f"declared={expected_sha256}, actual={actual_sha256}"
+        )
+    if data.startswith(b"\xef\xbb\xbf"):
+        errors.append(f"native-sheet TSV has a prohibited UTF-8 BOM: {path}")
+    if b"\r" in data or b"\0" in data:
+        errors.append(f"native-sheet TSV contains a prohibited control byte: {path}")
+    if not data.endswith(b"\n"):
+        errors.append(f"native-sheet TSV must end with exactly one LF-terminated row: {path}")
+    try:
+        text = data.decode("utf-8", "strict")
+    except UnicodeDecodeError as exc:
+        errors.append(f"native-sheet TSV is not strict UTF-8: {path}: {exc}")
+        return errors
+    if any(
+        (ord(character) < 32 and character not in {"\t", "\n"})
+        or 127 <= ord(character) <= 159
+        for character in text
+    ):
+        errors.append(f"native-sheet TSV contains a prohibited text control: {path}")
+    rows = text[:-1].split("\n") if text.endswith("\n") else text.split("\n")
+    if len(rows) != expected_rows:
+        errors.append(
+            f"native-sheet TSV row-count drift: {path}; "
+            f"declared={expected_rows}, actual={len(rows)}"
+        )
+    for row_number, row in enumerate(rows, 1):
+        actual_columns = len(row.split("\t"))
+        if actual_columns != expected_columns:
+            errors.append(
+                f"native-sheet TSV rectangularity failure: {path}:row={row_number}; "
+                f"declared_columns={expected_columns}, actual_columns={actual_columns}"
+            )
+    return errors
+
+
+def validate_native_sheets(snapshot: GitSnapshot, require_schema: bool) -> list[str]:
+    """Validate native-sheet manifests and projections from exact snapshot blobs."""
+
+    errors: list[str] = []
+    schema_entry = snapshot.get(NATIVE_SHEET_SCHEMA)
+    if schema_entry is None:
+        return [f"native-sheet schema is missing: {NATIVE_SHEET_SCHEMA}"]
+    if not schema_entry.qualifies_as_evidence:
+        return [f"native-sheet schema is not a tracked regular Git blob: {NATIVE_SHEET_SCHEMA}"]
+    try:
+        schema = decode_json(schema_entry.data, NATIVE_SHEET_SCHEMA)
+        if not isinstance(schema, Mapping):
+            raise DomainError("native-sheet schema must be a JSON object")
+        if require_schema:
+            validate_schema_document(schema, "native-sheet structure schema")
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+
+    try:
+        mapping_rows = _snapshot_jsonl(snapshot, CROSSWALK_FILES["mapping"])
+        result_rows = _snapshot_jsonl(snapshot, CROSSWALK_FILES["results"])
+        plan_rows = _snapshot_jsonl(snapshot, CROSSWALK_FILES["plan"])
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+
+    crosswalk_native_manifests = {
+        row.get("git_path")
+        for row in mapping_rows
+        if row.get("transformation") == NATIVE_SHEET_TRANSFORMATION
+        and isinstance(row.get("git_path"), str)
+        and row["git_path"].endswith(".structure.json")
+    }
+    schema_id_native_manifests: set[str] = set()
+    for path, entry in snapshot.entries.items():
+        if not path.endswith(".structure.json"):
+            continue
+        try:
+            candidate = decode_json(entry.data, path)
+        except (DomainError, json.JSONDecodeError, UnicodeDecodeError):
+            # Generic JSON validation reports malformed unrelated JSON. A path named
+            # by the native crosswalk remains in the candidate set and fails below.
+            continue
+        if isinstance(candidate, Mapping) and candidate.get("schema") == NATIVE_SHEET_SCHEMA_ID:
+            schema_id_native_manifests.add(path)
+    manifest_paths = sorted(
+        crosswalk_native_manifests | schema_id_native_manifests,
+        key=lambda item: item.encode("utf-8"),
+    )
+    if not manifest_paths:
+        return ["native-sheet schema is present but no structure manifest is tracked"]
+    if not require_schema:
+        return ["schema-engine deferral is prohibited for a native-sheet manifest"]
+
+    represented_tsvs: set[str] = set()
+    p03_manifest_count = 0
+    for manifest_path in manifest_paths:
+        entry = snapshot.get(manifest_path)
+        if entry is None or not entry.qualifies_as_evidence:
+            errors.append(
+                f"native-sheet manifest is not a tracked regular non-LFS Git blob: "
+                f"{manifest_path}"
+            )
+            continue
+        try:
+            manifest = decode_json(entry.data, manifest_path)
+        except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+            errors.append(str(exc))
+            continue
+        if not isinstance(manifest, Mapping):
+            errors.append(f"native-sheet manifest is not an object: {manifest_path}")
+            continue
+        diagnostics = schema_diagnostics(manifest, schema, manifest_path)
+        schema_failures = render_schema_diagnostics(diagnostics)
+        if schema_failures:
+            errors.append("\n".join(schema_failures))
+            continue
+        if manifest.get("schema") != NATIVE_SHEET_SCHEMA_ID:
+            errors.append(f"unrecognized native-sheet manifest schema: {manifest_path}")
+            continue
+        source_drive_id = manifest["source_drive_id"]
+        if source_drive_id == "1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg":
+            p03_manifest_count += 1
+            if manifest["worksheet_count"] != 17:
+                errors.append("P03 native-sheet manifest must declare exactly 17 worksheets")
+        worksheets = manifest["worksheets"]
+        if manifest["worksheet_count"] != len(worksheets):
+            errors.append(
+                f"native-sheet worksheet_count mismatch: {manifest_path}; "
+                f"declared={manifest['worksheet_count']}, actual={len(worksheets)}"
+            )
+        normalized_names: dict[str, str] = {}
+        manifest_base = manifest_path[: -len(".structure.json")]
+        tabs_prefix = f"{manifest_base}.tabs/"
+        expected_tsvs: set[str] = set()
+        for ordinal, worksheet in enumerate(worksheets):
+            label = f"{manifest_path}:worksheets[{ordinal}]"
+            if worksheet["index"] != ordinal:
+                errors.append(
+                    f"native-sheet worksheet indices are not contiguous and ordered: {label}"
+                )
+            name = worksheet["name"]
+            folded = unicodedata.normalize("NFC", name).casefold()
+            if folded in normalized_names:
+                errors.append(
+                    f"native-sheet worksheet name collision: "
+                    f"{normalized_names[folded]!r} / {name!r}"
+                )
+            else:
+                normalized_names[folded] = name
+            match = EXCEL_RANGE_RE.fullmatch(worksheet["address"])
+            if match is None:
+                errors.append(f"native-sheet declared range is invalid: {label}")
+            else:
+                address_columns = _excel_column_number(match.group(1))
+                address_rows = int(match.group(2))
+                if address_columns != worksheet["columns"] or address_rows != worksheet["rows"]:
+                    errors.append(
+                        f"native-sheet declared range end/shape mismatch: {label}"
+                    )
+            if worksheet["formula_cells"] or worksheet["tables"] != 0:
+                errors.append(f"native-sheet formulas and tables must both be zero: {label}")
+            tsv_path = worksheet["tsv_destination_path"]
+            try:
+                validate_repository_path(tsv_path)
+            except DomainError as exc:
+                errors.append(f"{label}.tsv_destination_path is invalid: {exc}")
+                continue
+            expected_prefix = f"{ordinal + 1:02d}-"
+            tsv_name = PurePosixPath(tsv_path).name
+            if not tsv_path.startswith(tabs_prefix) or not tsv_name.startswith(expected_prefix):
+                errors.append(
+                    f"native-sheet TSV escapes exact .tabs/ containment or ordinal: {tsv_path}"
+                )
+            if tsv_path in expected_tsvs:
+                errors.append(f"duplicate native-sheet TSV destination: {tsv_path}")
+            expected_tsvs.add(tsv_path)
+            represented_tsvs.add(tsv_path)
+            errors.extend(
+                _validate_native_tsv(
+                    snapshot,
+                    tsv_path,
+                    worksheet["rows"],
+                    worksheet["columns"],
+                    worksheet["tsv_sha256"],
+                )
+            )
+        sibling_tsvs = {
+            path
+            for path in snapshot.entries
+            if path.startswith(tabs_prefix) and path.endswith(".tsv")
+        }
+        if sibling_tsvs != expected_tsvs:
+            errors.append(
+                f"native-sheet sibling TSV closure failure: {manifest_path}; "
+                f"missing={sorted(expected_tsvs - sibling_tsvs)}, "
+                f"orphan={sorted(sibling_tsvs - expected_tsvs)}"
+            )
+
+    unrepresented = sorted(
+        (
+            path
+            for path in snapshot.entries
+            if ".tabs/" in path and path.endswith(".tsv") and path not in represented_tsvs
+        ),
+        key=lambda item: item.encode("utf-8"),
+    )
+    if unrepresented:
+        errors.append(f"orphan native-sheet TSV paths: {unrepresented}")
+    tracked_xlsx = sorted(
+        path
+        for path, entry in snapshot.entries.items()
+        if path.casefold().endswith(".xlsx") and entry.tracked
+    )
+    if tracked_xlsx:
+        errors.append(f"native XLSX must remain REFERENCE_DRIVE: {tracked_xlsx}")
+    if p03_manifest_count != 1:
+        errors.append(
+            f"P03 native-sheet manifest count must equal one; actual={p03_manifest_count}"
+        )
+
+    # Bind every manifest-derived Git object back to its exact three-leg records.
+    for manifest_path in manifest_paths:
+        entry = snapshot.get(manifest_path)
+        if entry is None:
+            continue
+        try:
+            manifest = decode_json(entry.data, manifest_path)
+        except (DomainError, json.JSONDecodeError, UnicodeDecodeError):
+            continue
+        if not isinstance(manifest, Mapping) or manifest.get("schema") != NATIVE_SHEET_SCHEMA_ID:
+            continue
+        expected_paths = {manifest_path} | {
+            item["tsv_destination_path"]
+            for item in manifest.get("worksheets", [])
+            if isinstance(item, Mapping) and isinstance(item.get("tsv_destination_path"), str)
+        }
+        source_drive_id = manifest.get("source_drive_id")
+        source_sha256 = manifest.get("source_sha256")
+        source_bytes = manifest.get("source_byte_length")
+        study_id = PurePosixPath(manifest_path).parts[1]
+        native_mappings = {
+            row.get("git_path"): row
+            for row in mapping_rows
+            if row.get("drive_id") == source_drive_id
+            and row.get("transformation") == NATIVE_SHEET_TRANSFORMATION
+        }
+        if set(native_mappings) != expected_paths:
+            errors.append(
+                f"native-sheet drive-to-git closure failure: {manifest_path}; "
+                f"missing={sorted(expected_paths - set(native_mappings))}, "
+                f"extra={sorted(set(native_mappings) - expected_paths)}"
+            )
+        native_source_paths = {
+            row.get("source_path")
+            for row in native_mappings.values()
+            if isinstance(row.get("source_path"), str)
+        }
+        native_source_path = (
+            next(iter(native_source_paths)) if len(native_source_paths) == 1 else None
+        )
+        if native_source_path is None:
+            errors.append(
+                f"native-sheet mappings must bind one source_path: {manifest_path}"
+            )
+        for path, row in native_mappings.items():
+            if row.get("source_sha256") != source_sha256:
+                errors.append(f"native-sheet source SHA-256 crosswalk drift: {path}")
+            if row.get("source_bytes") != source_bytes:
+                errors.append(f"native-sheet source byte-length crosswalk drift: {path}")
+            if row.get("source_revision") != manifest.get("source_drive_revision"):
+                errors.append(f"native-sheet source revision crosswalk drift: {path}")
+            if row.get("study_id") != study_id:
+                errors.append(f"native-sheet study scope crosswalk drift: {path}")
+        native_results = {
+            row.get("destination_path"): row
+            for row in result_rows
+            if row.get("drive_id") == source_drive_id
+            and row.get("result") == "MATERIALIZED_AND_HASH_VERIFIED"
+            and row.get("transformation") == NATIVE_SHEET_TRANSFORMATION
+        }
+        native_plans = {
+            row.get("destination_path"): row
+            for row in plan_rows
+            if row.get("drive_id") == source_drive_id
+            and isinstance(row.get("decision"), str)
+            and row["decision"].startswith("MIGRATE_")
+            and row.get("transformation") == NATIVE_SHEET_TRANSFORMATION
+        }
+        if set(native_results) != expected_paths:
+            errors.append(f"native-sheet materialization-result closure failure: {manifest_path}")
+        if set(native_plans) != expected_paths:
+            errors.append(f"native-sheet path-plan closure failure: {manifest_path}")
+        for leg_label, records in (("result", native_results), ("plan", native_plans)):
+            for path, row in records.items():
+                if (
+                    row.get("source_sha256") != source_sha256
+                    or row.get("source_bytes") != source_bytes
+                    or row.get("source_revision") != manifest.get("source_drive_revision")
+                    or row.get("study_id") != study_id
+                ):
+                    errors.append(
+                        f"native-sheet {leg_label} source/scope binding drift: {path}"
+                    )
+        references = [
+            row
+            for row in result_rows
+            if row.get("drive_id") == source_drive_id
+            and row.get("result") == "REFERENCE_VERIFIED_NOT_MATERIALIZED"
+        ]
+        if len(references) != 1:
+            errors.append(f"native-sheet XLSX reference result count must equal one: {manifest_path}")
+        elif (
+            references[0].get("source_sha256") != source_sha256
+            or references[0].get("source_bytes") != source_bytes
+            or references[0].get("source_revision")
+            != manifest.get("source_drive_revision")
+            or references[0].get("source_path") != native_source_path
+            or references[0].get("terminal_action") != "REFERENCE_DRIVE"
+            or references[0].get("transformation") != NATIVE_SHEET_REFERENCE_TRANSFORMATION
+        ):
+            errors.append(f"native-sheet XLSX reference result binding drift: {manifest_path}")
+        reference_plans_for_source = [
+            row
+            for row in plan_rows
+            if row.get("drive_id") == source_drive_id and row.get("decision") == "REFERENCE_DRIVE"
+        ]
+        if len(reference_plans_for_source) != 1:
+            errors.append(f"native-sheet XLSX reference plan count must equal one: {manifest_path}")
+        elif (
+            reference_plans_for_source[0].get("transformation")
+            != NATIVE_SHEET_REFERENCE_TRANSFORMATION
+            or reference_plans_for_source[0].get("source_sha256") != source_sha256
+            or reference_plans_for_source[0].get("source_bytes") != source_bytes
+            or reference_plans_for_source[0].get("source_revision")
+            != manifest.get("source_drive_revision")
+            or reference_plans_for_source[0].get("source_path") != native_source_path
+        ):
+            errors.append(f"native-sheet XLSX reference plan binding drift: {manifest_path}")
+    return errors
+
+
 def validate_current_domain(root: Path, snapshot: GitSnapshot, require_schema: bool) -> list[str]:
     errors: list[str] = []
     registry_entry = snapshot.get("characters/registry.jsonl")
@@ -720,6 +1639,8 @@ def main() -> int:
             errors.extend(validate_protected(snapshot))
             errors.extend(validate_markdown_links(snapshot))
             errors.extend(validate_audit_workflow(snapshot, policy))
+            errors.extend(validate_crosswalk_closure(snapshot))
+            errors.extend(validate_native_sheets(snapshot, not args.defer_schema_engine))
             errors.extend(validate_current_domain(root, snapshot, not args.defer_schema_engine))
             if not args.defer_schema_engine:
                 generator_snapshot = "commit" if kind == "commit" else kind

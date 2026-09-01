@@ -1,6 +1,6 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public; G3 closed; G4 representative pilots in progress; U149 and the partial IDOLY PRIDE P02 ledger are integrated candidates.
+> Repository state: public; G3 closed; G4 representative pilots in progress; U149, the partial IDOLY PRIDE P02 ledger, and the partial DJFW P03 control-state slice are integrated candidates.
 >
 > Analytical authority: Google Drive until a separately approved and verified G8 cutover. Git content remains a nonauthoritative migration candidate.
 
@@ -15,4 +15,6 @@ See `../series/registry.json`.
 
 ## Studies
 
-No comparative or non-series study is present in these tranches. The validated P03 spreadsheet representations remain outside this candidate; the XLSX is `REFERENCE_DRIVE` by policy.
+- [Doujinshi/Fanwork Comparative Taxonomy — current state and corpus map](../studies/doujinshi-fanwork-comparative-taxonomy/DJFW_CURRENT_STATE_AND_CORPUS_MAP.md) — partial P03 control-state pilot containing one corpus map and [17 TSV worksheet projections with a structure manifest](../studies/doujinshi-fanwork-comparative-taxonomy/01%20Project%20Registry%20and%20Source%20Lock/DJFW_PROJECT_CONTROL_SHEET.structure.json). The native XLSX remains `REFERENCE_DRIVE`.
+
+This is not a complete DJFW study migration. Names of absent sibling documents inside the corpus map remain unlinked source context and do not claim that those artifacts are present in Git.

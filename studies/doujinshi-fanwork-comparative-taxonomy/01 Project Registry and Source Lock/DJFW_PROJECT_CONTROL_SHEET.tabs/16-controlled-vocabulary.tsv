@@ -1,0 +1,10 @@
+vocabulary_domain	allowed_value	definition	use_notes	status	revision_notes
+baseline_state	A	Established baseline with extensive source-grounded voice, behavior, relational, and pressure-response evidence.	Use for confident fanwork comparison.	active	
+baseline_state	B	Strong but domain-limited baseline.	Use for comparison with clear caveats about extrapolation.	active	
+baseline_state	C	Partial baseline; some source-grounded traits exist but subtle fidelity claims remain provisional.	Use for taxonomic reading plus tentative fidelity analysis.	active	
+baseline_state	D	Insufficient baseline.	Analyze taxonomically but do not make strong fidelity claims.	active	
+voice_outcome	voice-preserving	New pressure is applied while deeper character grammar remains recognizable.		active	
+voice_outcome	voice-intensifying	A true baseline trait is amplified while remaining grounded.		active	
+voice_outcome	voice-flattening	One trait, meme, role, or archetype replaces the fuller character.		active	
+voice_outcome	voice-erasing	The character becomes primarily a body, role, commodity, scenario vessel, or trope function.		active	
+voice_outcome	voice-annihilating as theme	The loss of voice/subjecthood is itself the work's argument, critique, or horror.		active	

@@ -5,12 +5,13 @@
   "migration": {
     "completed_gate": "G3",
     "current_gate": "G4_REPRESENTATIVE_PILOTS",
-    "current_subphase": "P02_LARGE_STRUCTURED_BOUNDARY_CANDIDATE",
+    "current_subphase": "P03_NATIVE_DOCUMENT_AND_SHEET_CANDIDATE",
     "integrated_candidates": [
       "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
-      "IDOLY_PRIDE_P02_SINGLE_LEDGER"
+      "IDOLY_PRIDE_P02_SINGLE_LEDGER",
+      "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET"
     ],
-    "p01_p04_local_preparation": "P03_P04_PRESERVED_P01_P02_INTEGRATED",
+    "p01_p04_local_preparation": "P04_PRESERVED_P01_P03_INTEGRATED",
     "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
     "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED"
   },

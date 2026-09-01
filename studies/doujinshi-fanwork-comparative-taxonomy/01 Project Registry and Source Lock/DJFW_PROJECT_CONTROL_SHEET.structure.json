@@ -1,0 +1,206 @@
+{
+  "schema": "manga-anime-git-migration/native-sheet-structure/v1",
+  "created_utc": "2026-09-01T04:43:59Z",
+  "source_drive_id": "1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg",
+  "source_drive_revision": "18",
+  "source_byte_length": 56138,
+  "source_sha256": "5cebbd385b260e349ac54befbc22b5edc80bb8e9e96b4997eac507f123eb72af",
+  "workbook_format": "xlsx",
+  "conversion": {
+    "engine": "openpyxl",
+    "engine_version": "3.1.5",
+    "encoding": "UTF-8",
+    "line_ending": "LF",
+    "blank_cell_policy": "NONE_OR_EMPTY_STRING_TO_EMPTY_FIELD"
+  },
+  "worksheet_count": 17,
+  "worksheets": [
+    {
+      "index": 0,
+      "name": "Cases",
+      "address": "A1:R29",
+      "rows": 29,
+      "columns": 18,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/01-cases.tsv",
+      "tsv_sha256": "dd5afacf26c6ff955f36c2e4a60f0e3dbe1d2f5306e4d309c08a23882824716e"
+    },
+    {
+      "index": 1,
+      "name": "Sources",
+      "address": "A1:N11",
+      "rows": 11,
+      "columns": 14,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/02-sources.tsv",
+      "tsv_sha256": "6f48222e796ae1bd58b1a476f2e9f3bcbe3c1a206a2051c9321ae5c0f9b1cd7b"
+    },
+    {
+      "index": 2,
+      "name": "Extractions",
+      "address": "A1:N11",
+      "rows": 11,
+      "columns": 14,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/03-extractions.tsv",
+      "tsv_sha256": "1e3d527688d6dbfb87fdceb8c87992bea3fb9806d0f786ca86473ec3e1db53d5"
+    },
+    {
+      "index": 3,
+      "name": "Character Baselines",
+      "address": "A1:L1",
+      "rows": 1,
+      "columns": 12,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/04-character-baselines.tsv",
+      "tsv_sha256": "b3e37b0cdd6aa029a811dc8ecc07ed8ae0467a6a1bd5cb755516921c7989f1dc"
+    },
+    {
+      "index": 4,
+      "name": "Pairing Baselines",
+      "address": "A1:L1",
+      "rows": 1,
+      "columns": 12,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/05-pairing-baselines.tsv",
+      "tsv_sha256": "d3ae5ddaf946d0e0a7d53c666d6e4f348b982bf2b1d35137e981ac2b444e0f42"
+    },
+    {
+      "index": 5,
+      "name": "Case to Source Crosswalk",
+      "address": "A1:J11",
+      "rows": 11,
+      "columns": 10,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/06-case-to-source-crosswalk.tsv",
+      "tsv_sha256": "0ecf53a3b1d652b68a144bdaab1de98ddffc958738131b66fc9d773b9b5b1651"
+    },
+    {
+      "index": 6,
+      "name": "Case to Baseline Crosswalk",
+      "address": "A1:L17",
+      "rows": 17,
+      "columns": 12,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/07-case-to-baseline-crosswalk.tsv",
+      "tsv_sha256": "1f7676c4034f547af28003059f497e11db0ae2d1a84e595448593ed8228b91e8"
+    },
+    {
+      "index": 7,
+      "name": "Voice Fidelity Ledger",
+      "address": "A1:M13",
+      "rows": 13,
+      "columns": 13,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/08-voice-fidelity-ledger.tsv",
+      "tsv_sha256": "ac80e4f1927173420a7f455b94f7fa800f92cd042323f5e7874d8f86f1a1d7f4"
+    },
+    {
+      "index": 8,
+      "name": "Subjecthood Ledger",
+      "address": "A1:I13",
+      "rows": 13,
+      "columns": 9,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/09-subjecthood-ledger.tsv",
+      "tsv_sha256": "929113d8d310b3ed4cfd3465003147d6370878363fdcab0eb08e99a822f06325"
+    },
+    {
+      "index": 9,
+      "name": "Transformation Pressure Ledger",
+      "address": "A1:K11",
+      "rows": 11,
+      "columns": 11,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/10-transformation-pressure-ledger.tsv",
+      "tsv_sha256": "45b21a594585883b35adbcf7d560eb7a6c0a67db60c29e6c81ac98bd1411cffc"
+    },
+    {
+      "index": 10,
+      "name": "Canon Relation Ledger",
+      "address": "A1:K11",
+      "rows": 11,
+      "columns": 11,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/11-canon-relation-ledger.tsv",
+      "tsv_sha256": "9355a43131fb161cde0b9c451220b5049168eb1472e67078bee8e1357948365a"
+    },
+    {
+      "index": 11,
+      "name": "Audience Orientation Ledger",
+      "address": "A1:H11",
+      "rows": 11,
+      "columns": 8,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/12-audience-orientation-ledger.tsv",
+      "tsv_sha256": "978319fee72358d6a5ef42d8068de3374d21b768afa6ecd7f9ddc7e022e03d46"
+    },
+    {
+      "index": 12,
+      "name": "Value Assessment Ledger",
+      "address": "A1:L11",
+      "rows": 11,
+      "columns": 12,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/13-value-assessment-ledger.tsv",
+      "tsv_sha256": "a69adc5a377bd7bedd0ce3e52a71685b719f5ab128dd55088d8404d9e264c1cc"
+    },
+    {
+      "index": 13,
+      "name": "Collapse Risk Ledger",
+      "address": "A1:J3",
+      "rows": 3,
+      "columns": 10,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/14-collapse-risk-ledger.tsv",
+      "tsv_sha256": "eb52cf77f220ace045ede04a21c4af2785e1cb95f8ca3e19f5fb043134b96b74"
+    },
+    {
+      "index": 14,
+      "name": "Revision Ledger",
+      "address": "A1:J11",
+      "rows": 11,
+      "columns": 10,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/15-revision-ledger.tsv",
+      "tsv_sha256": "0fbd9788eb34078c4299180572ac98999ca3c275e1c39247bb62593b028fdab4"
+    },
+    {
+      "index": 15,
+      "name": "Controlled Vocabulary",
+      "address": "A1:F10",
+      "rows": 10,
+      "columns": 6,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/16-controlled-vocabulary.tsv",
+      "tsv_sha256": "a71c34bffc08e9f55d7b50d61fff8685223a1815ad56e42b10942511ea89d6a6"
+    },
+    {
+      "index": 16,
+      "name": "Reupload Needed",
+      "address": "A1:I1",
+      "rows": 1,
+      "columns": 9,
+      "tables": 0,
+      "formula_cells": [],
+      "tsv_destination_path": "studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/17-reupload-needed.tsv",
+      "tsv_sha256": "8057dfe4c915d7feaf86421d1fdae969b2d6b2e8bad58dc1650988e825d69cda"
+    }
+  ]
+}

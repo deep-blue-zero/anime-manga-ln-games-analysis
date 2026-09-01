@@ -667,13 +667,14 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G3",
             "current_gate": "G4_REPRESENTATIVE_PILOTS",
-            "current_subphase": "P02_LARGE_STRUCTURED_BOUNDARY_CANDIDATE",
+            "current_subphase": "P03_NATIVE_DOCUMENT_AND_SHEET_CANDIDATE",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
+                "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET",
             ],
             "p01_p04_local_preparation": (
-                "P03_P04_PRESERVED_P01_P02_INTEGRATED"
+                "P04_PRESERVED_P01_P03_INTEGRATED"
             ),
             "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
             "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED",
@@ -822,6 +823,163 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertEqual(referenced_plans[0]["decision"], "REFERENCE_DRIVE")
         self.assertNotIn("destination_path", referenced_plans[0])
 
+    def test_p03_native_doc_sheet_candidate_is_exact_and_partial(self) -> None:
+        doc_drive_id = "10hQeZP3j1AUQ00YsOmt4xYIJmUOant0NsdXXkbmfs3Y"
+        sheet_drive_id = "1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg"
+        study_id = "doujinshi-fanwork-comparative-taxonomy"
+        study_root = f"studies/{study_id}"
+        doc_path = f"{study_root}/DJFW_CURRENT_STATE_AND_CORPUS_MAP.md"
+        structure_path = (
+            f"{study_root}/01 Project Registry and Source Lock/"
+            "DJFW_PROJECT_CONTROL_SHEET.structure.json"
+        )
+        doc_sha256 = (
+            "60b55e1f9632ef2124ef5d4ca21c7ca7703d7b6163afd49b191dc4ad4d3f13a4"
+        )
+        structure_sha256 = (
+            "399fdb0178c9606d50d875ca89daf1f46d5f2277c8c111a616151a0221f44558"
+        )
+        sheet_source_sha256 = (
+            "5cebbd385b260e349ac54befbc22b5edc80bb8e9e96b4997eac507f123eb72af"
+        )
+
+        doc_bytes = (REPOSITORY_ROOT / doc_path).read_bytes()
+        self.assertEqual(len(doc_bytes), 13_398)
+        self.assertEqual(hashlib.sha256(doc_bytes).hexdigest(), doc_sha256)
+
+        structure_bytes = (REPOSITORY_ROOT / structure_path).read_bytes()
+        self.assertEqual(len(structure_bytes), 8_103)
+        self.assertEqual(
+            hashlib.sha256(structure_bytes).hexdigest(),
+            structure_sha256,
+        )
+        structure = json.loads(structure_bytes.decode("utf-8"))
+        self.assertEqual(structure["source_drive_id"], sheet_drive_id)
+        self.assertEqual(structure["source_drive_revision"], "18")
+        self.assertEqual(structure["source_byte_length"], 56_138)
+        self.assertEqual(structure["source_sha256"], sheet_source_sha256)
+        self.assertEqual(structure["worksheet_count"], 17)
+        self.assertEqual(len(structure["worksheets"]), 17)
+
+        tsv_paths: set[str] = set()
+        for expected_index, worksheet in enumerate(structure["worksheets"]):
+            with self.subTest(worksheet=worksheet["name"]):
+                self.assertEqual(worksheet["index"], expected_index)
+                tsv_path = worksheet["tsv_destination_path"]
+                tsv_paths.add(tsv_path)
+                data = (REPOSITORY_ROOT / tsv_path).read_bytes()
+                self.assertEqual(
+                    hashlib.sha256(data).hexdigest(),
+                    worksheet["tsv_sha256"],
+                )
+                self.assertNotIn(b"\r", data)
+                self.assertTrue(data.endswith(b"\n"))
+
+        expected_destinations = {doc_path, structure_path, *tsv_paths}
+        self.assertEqual(len(expected_destinations), 19)
+
+        tracked_paths = (
+            REPOSITORY_ROOT
+            / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
+        ).read_text(encoding="utf-8").splitlines()
+        self.assertEqual(len(tracked_paths), 81)
+        self.assertEqual(tracked_paths, sorted(tracked_paths))
+        self.assertTrue(expected_destinations.issubset(set(tracked_paths)))
+        self.assertFalse(
+            any(path.casefold().endswith(".xlsx") for path in tracked_paths)
+        )
+
+        def load_rows(relative: str) -> list[dict[str, object]]:
+            return [
+                json.loads(line)
+                for line in (REPOSITORY_ROOT / relative)
+                .read_text(encoding="utf-8")
+                .splitlines()
+                if line
+            ]
+
+        drive_rows = load_rows("crosswalk/drive-to-git.jsonl")
+        p03_drive_rows = [
+            row
+            for row in drive_rows
+            if row["drive_id"] in {doc_drive_id, sheet_drive_id}
+        ]
+        self.assertEqual(len(p03_drive_rows), 19)
+        self.assertEqual(
+            {row["git_path"] for row in p03_drive_rows},
+            expected_destinations,
+        )
+        self.assertEqual(
+            len({row["representation_id"] for row in p03_drive_rows}),
+            19,
+        )
+        for row in p03_drive_rows:
+            self.assertEqual(row["study_id"], study_id)
+            data = (REPOSITORY_ROOT / row["git_path"]).read_bytes()
+            self.assertEqual(len(data), row["git_bytes"])
+            self.assertEqual(hashlib.sha256(data).hexdigest(), row["git_sha256"])
+        sheet_drive_rows = [
+            row for row in p03_drive_rows if row["drive_id"] == sheet_drive_id
+        ]
+        self.assertEqual(len(sheet_drive_rows), 18)
+        self.assertTrue(
+            all(row["source_revision"] == "18" for row in sheet_drive_rows)
+        )
+        self.assertTrue(
+            all(
+                row["source_sha256"] == sheet_source_sha256
+                for row in sheet_drive_rows
+            )
+        )
+
+        result_rows = load_rows("crosswalk/materialization-results.jsonl")
+        p03_results = [
+            row
+            for row in result_rows
+            if row["drive_id"] in {doc_drive_id, sheet_drive_id}
+        ]
+        materialized_results = [
+            row for row in p03_results if "destination_path" in row
+        ]
+        reference_results = [
+            row for row in p03_results if "destination_path" not in row
+        ]
+        self.assertEqual(
+            {row["destination_path"] for row in materialized_results},
+            expected_destinations,
+        )
+        self.assertEqual(len(reference_results), 1)
+        self.assertEqual(reference_results[0]["drive_id"], sheet_drive_id)
+        self.assertEqual(
+            reference_results[0]["result"],
+            "REFERENCE_VERIFIED_NOT_MATERIALIZED",
+        )
+        self.assertEqual(
+            reference_results[0]["terminal_action"],
+            "REFERENCE_DRIVE",
+        )
+
+        plan_rows = load_rows("crosswalk/path-plan.jsonl")
+        p03_plans = [
+            row
+            for row in plan_rows
+            if row["drive_id"] in {doc_drive_id, sheet_drive_id}
+        ]
+        migrated_plans = [row for row in p03_plans if "destination_path" in row]
+        reference_plans = [
+            row for row in p03_plans if "destination_path" not in row
+        ]
+        self.assertEqual(
+            {row["destination_path"] for row in migrated_plans},
+            expected_destinations,
+        )
+        self.assertTrue(
+            all(row["decision"] == "MIGRATE_TRANSFORMED" for row in migrated_plans)
+        )
+        self.assertEqual(len(reference_plans), 1)
+        self.assertEqual(reference_plans[0]["drive_id"], sheet_drive_id)
+        self.assertEqual(reference_plans[0]["decision"], "REFERENCE_DRIVE")
+
     def test_historical_private_bootstrap_bindings_are_unchanged(self) -> None:
         historical = {
             "governance/repository-controls/bootstrap-bindings.json": (
@@ -835,6 +993,38 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             with self.subTest(path=relative):
                 data = (REPOSITORY_ROOT / relative).read_bytes()
                 self.assertEqual(hashlib.sha256(data).hexdigest(), expected)
+
+    def test_p03_tsv_whitespace_exception_is_exact_and_not_broadened(self) -> None:
+        exact_rule = (
+            '"studies/doujinshi-fanwork-comparative-taxonomy/'
+            '01 Project Registry and Source Lock/'
+            'DJFW_PROJECT_CONTROL_SHEET.tabs/*.tsv" whitespace=-blank-at-eol'
+        )
+        attributes = (REPOSITORY_ROOT / ".gitattributes").read_text(
+            encoding="utf-8"
+        )
+        active_whitespace_rules = [
+            line
+            for line in attributes.splitlines()
+            if line and not line.lstrip().startswith("#") and "whitespace=" in line
+        ]
+        self.assertEqual(active_whitespace_rules, [exact_rule])
+
+        controls = (
+            REPOSITORY_ROOT / "governance/policies/REPOSITORY_CONTROLS.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn(f"`{exact_rule}`", controls)
+        for preserved_control in (
+            "`blank-at-eof`",
+            "schema validation",
+            "exact-byte hashing",
+            "TSV rectangularity",
+            "strict UTF-8/LF validation",
+            "content-safety checks",
+            "Any broader path or whitespace waiver is prohibited.",
+        ):
+            with self.subTest(preserved_control=preserved_control):
+                self.assertIn(preserved_control, controls)
 
 
 if __name__ == "__main__":
