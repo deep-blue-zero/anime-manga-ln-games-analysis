@@ -1,6 +1,8 @@
 # Drive Artifact Reference Index
 
-This index records source identifiers and verified Git-candidate derivatives for the first U149 tranche. It contains no Drive download URL and does not make Drive an ongoing authority surface.
+This index records source identifiers, verified Git-candidate derivatives, and sanitized reference-only dispositions for integrated G4 tranches. It contains no Drive download URL or private evidence path and does not make Drive an alternate Git write surface.
+
+## U149 first tranche
 
 - Run: `g4-u149-successor-20260901T021340Z`
 - Source receipt SHA-256: `7724ae14222bedd5081d57635c252f775431cc25a57ea6d071e772e6e003e7d0`
@@ -26,4 +28,17 @@ This index records source identifiers and verified Git-candidate derivatives for
 | `1dQHy8Iv09TynBdXlSd96QRyOzIboDhtY` | [Manga and anime discussions - U149 Deep Analysis - Full Transcript.md](../../series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/90%20Conversation%20Archives/Manga%20and%20anime%20discussions%20-%20U149%20Deep%20Analysis%20-%20Full%20Transcript.md) | `e9eb270d3ae5e5040e334c36826d2fb389dbb1532d24e8fbaf9be7c40a63b70d` | `e031721164eee02569f51f3a6b595fdae2cde801b6acf97588d616ec7036f2e1` |
 | `1R6iVST01_sXBlhfMNRfMDtwRp6R3j981` | [MANIFEST.md](../../series/the-idolmaster-cinderella-girls-u149/V1%20Analysis/MANIFEST.md) | `cf6b541bcfe31c0e0f33f380ecb8f08418b2ce4d7148dc99035403abb58a9877` | `88a3ba575eb401d87283203fb80f1b0062e32cf4959014226fc59eb9a5731a04` |
 
-The machine-readable mapping is in [`crosswalk/drive-to-git.jsonl`](../../crosswalk/drive-to-git.jsonl).
+## P02 large-structured boundary
+
+- Run: `g4-p02-large-structured-boundary-20260901T035901Z`
+- Frozen source-slice SHA-256: `c3e42495cf2a80d93e29245a494ab29533fd30113ceb418ba8f2caa2920c4f19`
+- Frozen representation-slice SHA-256: `28ec52b8524a49484071cab3660b548ee2c83b24f6402079ace1a19ccebdb005`
+- Local materialization-receipt SHA-256: `3207c68b9c9b1a51c0e368d50ad8009176db1a1ce926e7b03bd1e0fb03e88de2`
+- Disposition: one IDOLY PRIDE CSV admitted through the exact named large-text exception; one generated Azur Lane JSONL retained outside Git
+
+| Drive file ID | Repository artifact or disposition | Source SHA-256 | Candidate SHA-256 |
+|---|---|---|---|
+| `1EySpUScZKZ2irfYamER1e8FCrnjniGjk` | [IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv](../../series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.01%20Corpus%20Coverage%20and%20Priority%20Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv) | `7dde60c452627a694307dda68abfb0d4d434ec1c2ce934bf85a0b81db483c366` | `7dde60c452627a694307dda68abfb0d4d434ec1c2ce934bf85a0b81db483c366` |
+| `1US_aDBA1ttPuUx-WlMfr7559PB8vq6we` | `REFERENCE_DRIVE` — generated/extracted structural-alignment corpus; no Git destination | `ce3d0b9a6df171fdb5d52e7c509d08c35f49ddbc3cbb03e27ca12a079b247a37` | — |
+
+The machine-readable mappings are in [`crosswalk/drive-to-git.jsonl`](../../crosswalk/drive-to-git.jsonl), [`crosswalk/materialization-results.jsonl`](../../crosswalk/materialization-results.jsonl), and [`crosswalk/path-plan.jsonl`](../../crosswalk/path-plan.jsonl).

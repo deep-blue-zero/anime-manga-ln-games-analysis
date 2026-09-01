@@ -8,8 +8,11 @@ migration:
   framework_version: 1.4.0-owner-review-candidate
   completed_gate: G3
   current_gate: G4_REPRESENTATIVE_PILOTS
-  current_subphase: U149_INTEGRATED_TRANCHE_CANDIDATE
-  p01_p04_local_preparation: PRESERVED_UNCHANGED
+  current_subphase: P02_LARGE_STRUCTURED_BOUNDARY_CANDIDATE
+  integrated_candidates:
+    - THE_IDOLMASTER_CINDERELLA_GIRLS_U149
+    - IDOLY_PRIDE_P02_SINGLE_LEDGER
+  p01_p04_local_preparation: P03_P04_PRESERVED_P01_P02_INTEGRATED
   p05_v1_tuple: WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED
   p05_v2_status: U149_YONAIP_PRESENT_REVIEWED
 repository:

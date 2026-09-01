@@ -48,4 +48,5 @@ jobs:
           python tools/generate_character_index.py --check --snapshot commit --commit "${GITHUB_SHA}" --repo .
           mkdir -p "${MANGA_ANIME_TEST_TMP}"
           python -m unittest discover -s tools/tests -p "test_*.py"
-          git show --check --format= "${GITHUB_SHA}"
+          git show --check --format= "${GITHUB_SHA}" -- . \
+            ':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv'

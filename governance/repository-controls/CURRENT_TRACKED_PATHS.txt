@@ -33,6 +33,7 @@ governance/schemas/character-analysis-index.schema.json
 governance/schemas/character-reconstruction-capability.schema.json
 provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md
 series/README.md
+series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv
 series/registry.json
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/00_README_AND_CORPUS_MAP.md
 series/the-idolmaster-cinderella-girls-u149/V1 Analysis/02 Sequential Episode Readings/U149_E01_DEEP_READING.md

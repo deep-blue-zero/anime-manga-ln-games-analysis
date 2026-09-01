@@ -12,6 +12,18 @@
       "repository_path": "series/the-idolmaster-cinderella-girls-u149/",
       "materialization_status": "PRESENT_REVIEWED",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "idoly-pride",
+      "stable_slug": "idoly-pride",
+      "canonical_title": "IDOLY PRIDE",
+      "media": [
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/idoly-pride/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "PARTIAL_G4_P02_SINGLE_LEDGER",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
     }
   ]
 }

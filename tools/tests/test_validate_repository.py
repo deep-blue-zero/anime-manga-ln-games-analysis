@@ -35,6 +35,7 @@ from validate_repository import (  # noqa: E402
     validate_audit_workflow,
     validate_commit_identities,
     validate_current_domain,
+    validate_bytes,
     validate_exact_set,
     validate_markdown_links,
     validate_protected,
@@ -44,6 +45,137 @@ from validate_repository import (  # noqa: E402
 
 
 class PhaseValidationTests(unittest.TestCase):
+    @staticmethod
+    def named_text_policy(path: str, data: bytes, *, threshold: int = 8) -> dict:
+        return {
+            "allowed_text_extensions": [".csv"],
+            "review_threshold_bytes": threshold,
+            "hard_exception_threshold_bytes": 4096,
+            "named_text_exceptions": [
+                {
+                    "path": path,
+                    "bytes": len(data),
+                    "sha256": hashlib.sha256(data).hexdigest(),
+                    "exception_id": "TEST_REVIEWED_CSV",
+                    "allow_utf8_bom": True,
+                    "allow_carriage_returns": True,
+                    "purpose": "Test a reviewed text tuple.",
+                    "rights_basis": "Test fixture.",
+                    "review_decision": "TEST_APPROVED",
+                    "external_reference_insufficient": "Test fixture must remain queryable.",
+                }
+            ],
+        }
+
+    @staticmethod
+    def one_entry_snapshot(path: str, data: bytes) -> GitSnapshot:
+        return GitSnapshot(
+            ROOT,
+            "IN_MEMORY",
+            {path: SnapshotEntry(path, "100644", data)},
+        )
+
+    def test_production_named_text_exception_is_exactly_bound(self) -> None:
+        policy = json.loads(
+            (ROOT / "governance/repository-controls/tracked-file-policy.json").read_bytes()
+        )
+        self.assertEqual(
+            policy["named_text_exceptions"],
+            [
+                {
+                    "path": "series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv",
+                    "bytes": 1377633,
+                    "sha256": "7dde60c452627a694307dda68abfb0d4d434ec1c2ce934bf85a0b81db483c366",
+                    "exception_id": "IDOLY_PRIDE_SOURCE_TO_BUNDLE_PROVENANCE_CSV",
+                    "allow_utf8_bom": True,
+                    "allow_carriage_returns": True,
+                    "purpose": "Preserve the human- and machine-readable source-to-bundle provenance ledger beside the analyses whose source coverage it records.",
+                    "rights_basis": "Owner-approved analytical and provenance metadata within the repository's narrow original-content license scope.",
+                    "review_decision": "OWNER_APPROVED_G4_P02_LARGE_STRUCTURED_BOUNDARY",
+                    "external_reference_insufficient": "An external-only reference would remove the directly queryable provenance relationships needed to interpret and audit the migrated analysis.",
+                }
+            ],
+        )
+
+    def test_named_text_exception_allows_only_the_exact_large_bom_cr_tuple(self) -> None:
+        path = "series/example/reviewed.csv"
+        data = b"\xef\xbb\xbfleft,right\r\n1,2\r\n"
+        policy = self.named_text_policy(path, data)
+        self.assertEqual(validate_bytes(self.one_entry_snapshot(path, data), policy, "current"), [])
+
+        changed = data[:-2] + b"3\n"
+        failures = validate_bytes(
+            self.one_entry_snapshot(path, changed), policy, "current"
+        )
+        self.assertIn(f"named text exception tuple mismatch: {path}", failures)
+        self.assertTrue(any("exceeds 1 MiB review threshold" in item for item in failures))
+        self.assertIn(f"UTF-8 BOM prohibited: {path}", failures)
+        self.assertIn(f"non-LF line ending: {path}", failures)
+
+    def test_named_text_exception_grants_no_capability_to_another_path(self) -> None:
+        reviewed_path = "series/example/reviewed.csv"
+        other_path = "series/example/other.csv"
+        data = b"\xef\xbb\xbfleft,right\r\n1,2\r\n"
+        policy = self.named_text_policy(reviewed_path, data)
+        failures = validate_bytes(
+            self.one_entry_snapshot(other_path, data), policy, "current"
+        )
+        self.assertTrue(any("exceeds 1 MiB review threshold" in item for item in failures))
+        self.assertIn(f"UTF-8 BOM prohibited: {other_path}", failures)
+        self.assertIn(f"non-LF line ending: {other_path}", failures)
+        self.assertIn(f"unused named text exception: {reviewed_path}", failures)
+
+    def test_named_text_exception_must_name_a_present_snapshot_path(self) -> None:
+        path = "series/example/reviewed.csv"
+        data = b"\xef\xbb\xbfleft,right\r\n1,2\r\n"
+        policy = self.named_text_policy(path, data)
+        snapshot = GitSnapshot(ROOT, "IN_MEMORY", {})
+        self.assertEqual(
+            validate_bytes(snapshot, policy, "current"),
+            [f"unused named text exception: {path}"],
+        )
+
+    def test_named_text_exception_does_not_waive_content_safety_or_utf8(self) -> None:
+        path = "series/example/reviewed.csv"
+        data = (
+            b"\xef\xbb\xbfhttps://" + b"drive." + b"google.com/example\r\n"
+            + b"AIza"
+            + b"A" * 31
+            + b"\x00\xff"
+        )
+        policy = self.named_text_policy(path, data)
+        failures = validate_bytes(self.one_entry_snapshot(path, data), policy, "current")
+        self.assertFalse(any("exceeds 1 MiB review threshold" in item for item in failures))
+        self.assertNotIn(f"UTF-8 BOM prohibited: {path}", failures)
+        self.assertNotIn(f"non-LF line ending: {path}", failures)
+        self.assertIn(f"possible Google API key in {path}", failures)
+        self.assertIn(f"publication hazard (Google Drive URL) in {path}", failures)
+        self.assertIn(f"NUL byte in text file: {path}", failures)
+        self.assertTrue(any(item.startswith(f"invalid UTF-8 in {path}:") for item in failures))
+
+    def test_named_text_exception_path_remains_hash_bound_below_threshold(self) -> None:
+        path = "series/example/reviewed.csv"
+        reviewed = b"\xef\xbb\xbfleft,right\r\n1,2\r\n"
+        policy = self.named_text_policy(path, reviewed)
+        failures = validate_bytes(
+            self.one_entry_snapshot(path, b"small\n"), policy, "current"
+        )
+        self.assertEqual(failures, [f"named text exception tuple mismatch: {path}"])
+
+    def test_malformed_named_text_exception_fails_closed(self) -> None:
+        path = "series/example/reviewed.csv"
+        data = b"\xef\xbb\xbfleft,right\r\n1,2\r\n"
+        policy = self.named_text_policy(path, data)
+        policy["named_text_exceptions"][0]["sha256"] = "A" * 64
+        failures = validate_bytes(self.one_entry_snapshot(path, data), policy, "current")
+        self.assertIn(
+            "named_text_exceptions[0].sha256 must be exactly 64 lowercase hexadecimal characters",
+            failures,
+        )
+        self.assertTrue(any("exceeds 1 MiB review threshold" in item for item in failures))
+        self.assertIn(f"UTF-8 BOM prohibited: {path}", failures)
+        self.assertIn(f"non-LF line ending: {path}", failures)
+
     def test_approved_repository_audit_workflow_is_non_mutating(self) -> None:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
         policy = json.loads(
@@ -96,6 +228,36 @@ class PhaseValidationTests(unittest.TestCase):
             "repository-audit workflow contains prohibited capability: --depth",
             failures,
         )
+
+    def test_repository_audit_workflow_requires_exact_whitespace_exclusion(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        baseline = (ROOT / path).read_bytes()
+        command = b'git show --check --format= "${GITHUB_SHA}" -- . \\\n'
+        exact = (
+            b"            ':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 "
+            b"Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority "
+            b"Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv'"
+        )
+        self.assertIn(command + exact, baseline)
+
+        missing = baseline.replace(command + exact, b'git show --check --format= "${GITHUB_SHA}"')
+        broad = baseline.replace(
+            exact,
+            b"            ':(top,glob,exclude)series/idoly-pride/**'",
+        )
+        policy = {"allowed_workflows": [path]}
+        expected = (
+            "repository-audit workflow whitespace check must exclude only the exact "
+            "approved IDOLY PRIDE provenance CSV"
+        )
+        for label, content in (("missing", missing), ("broader", broad)):
+            with self.subTest(label=label):
+                snapshot = GitSnapshot(
+                    ROOT,
+                    "IN_MEMORY",
+                    {path: SnapshotEntry(path, "100644", content)},
+                )
+                self.assertIn(expected, validate_audit_workflow(snapshot, policy))
 
     def test_historical_g3_commit_exact_set(self) -> None:
         snapshot = GitSnapshot.from_commit(ROOT, G3_BOUND_COMMIT)

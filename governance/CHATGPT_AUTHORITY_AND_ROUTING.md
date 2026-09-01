@@ -15,7 +15,7 @@ If these controls disagree, access is incomplete, or the referenced commit/tag c
 
 ## Current rule: before G8
 
-The GitHub repository is public, but Google Drive remains the analytical authority. The U149 tranche is present as a nonauthoritative migration candidate and must not be presented as the active master before G8. Migration operations may not rewrite, reorganize, delete, or clean Drive without separate authorization.
+The GitHub repository is public, but Google Drive remains the analytical authority. The U149 tranche and the partial IDOLY PRIDE P02 provenance ledger are present as nonauthoritative G4 migration candidates and must not be presented as active masters before G8. The IDOLY PRIDE candidate contains one source-to-bundle CSV only; relative corpus paths named inside that ledger do not establish that the referenced artifacts are present in Git. The excluded Azur Lane structural-alignment corpus is represented only by sanitized reference metadata. Migration operations may not rewrite, reorganize, delete, or clean Drive without separate authorization.
 
 ## Future rule: after verified G8 activation
 

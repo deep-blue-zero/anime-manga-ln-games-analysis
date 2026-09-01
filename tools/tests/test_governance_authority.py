@@ -667,8 +667,14 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G3",
             "current_gate": "G4_REPRESENTATIVE_PILOTS",
-            "current_subphase": "U149_INTEGRATED_TRANCHE_CANDIDATE",
-            "p01_p04_local_preparation": "PRESERVED_UNCHANGED",
+            "current_subphase": "P02_LARGE_STRUCTURED_BOUNDARY_CANDIDATE",
+            "integrated_candidates": [
+                "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
+                "IDOLY_PRIDE_P02_SINGLE_LEDGER",
+            ],
+            "p01_p04_local_preparation": (
+                "P03_P04_PRESERVED_P01_P02_INTEGRATED"
+            ),
             "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
             "p05_v2_status": "U149_YONAIP_PRESENT_REVIEWED",
         }
@@ -711,7 +717,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ).read_text(encoding="utf-8")
         self.assertNotRegex(raw, r"(?i)(?:[a-z]:\\|/home/|/users/)")
 
-    def test_owner_only_no_corpus_and_license_boundaries_remain_closed(self) -> None:
+    def test_owner_only_license_and_integrated_candidate_boundaries(self) -> None:
         repository = self.scope["repository"]
         self.assertEqual(repository["upstream_human_writers"], ["deep-blue-zero"])
         self.assertEqual(repository["external_contributions"], "NOT_ACCEPTED")
@@ -726,10 +732,23 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
         self.assertEqual(series_registry["status"], "PARTIAL_G4_MIGRATION_CANDIDATE")
-        self.assertEqual(len(series_registry["series"]), 1)
+        self.assertEqual(len(series_registry["series"]), 2)
         self.assertEqual(
             series_registry["series"][0]["series_id"],
             "the-idolmaster-cinderella-girls-u149",
+        )
+        self.assertEqual(
+            series_registry["series"][1],
+            {
+                "series_id": "idoly-pride",
+                "stable_slug": "idoly-pride",
+                "canonical_title": "IDOLY PRIDE",
+                "media": ["MOBILE_GAME"],
+                "repository_path": "series/idoly-pride/",
+                "materialization_status": "PRESENT_REVIEWED",
+                "migration_scope": "PARTIAL_G4_P02_SINGLE_LEDGER",
+                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+            },
         )
         character_rows = [
             json.loads(line)
@@ -743,6 +762,65 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             character_rows[0]["analysis_subject_id"],
             "the-idolmaster:yonai-p@u149-anime",
         )
+
+    def test_p02_exact_copy_and_reference_only_rows_are_consistent(self) -> None:
+        migrated_id = "1EySpUScZKZ2irfYamER1e8FCrnjniGjk"
+        referenced_id = "1US_aDBA1ttPuUx-WlMfr7559PB8vq6we"
+        migrated_sha256 = (
+            "7dde60c452627a694307dda68abfb0d4d434ec1c2ce934bf85a0b81db483c366"
+        )
+        referenced_sha256 = (
+            "ce3d0b9a6df171fdb5d52e7c509d08c35f49ddbc3cbb03e27ca12a079b247a37"
+        )
+        destination = (
+            "series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal "
+            "Ledgers/02.01 Corpus Coverage and Priority Ledger/"
+            "IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv"
+        )
+
+        csv_bytes = (REPOSITORY_ROOT / destination).read_bytes()
+        self.assertEqual(len(csv_bytes), 1_377_633)
+        self.assertEqual(hashlib.sha256(csv_bytes).hexdigest(), migrated_sha256)
+
+        def load_rows(relative: str) -> list[dict[str, object]]:
+            return [
+                json.loads(line)
+                for line in (REPOSITORY_ROOT / relative)
+                .read_text(encoding="utf-8")
+                .splitlines()
+                if line
+            ]
+
+        drive_rows = load_rows("crosswalk/drive-to-git.jsonl")
+        migrated_drive_rows = [row for row in drive_rows if row["drive_id"] == migrated_id]
+        self.assertEqual(len(migrated_drive_rows), 1)
+        self.assertEqual(migrated_drive_rows[0]["git_path"], destination)
+        self.assertEqual(migrated_drive_rows[0]["source_sha256"], migrated_sha256)
+        self.assertEqual(migrated_drive_rows[0]["git_sha256"], migrated_sha256)
+        self.assertFalse(any(row["drive_id"] == referenced_id for row in drive_rows))
+
+        result_rows = load_rows("crosswalk/materialization-results.jsonl")
+        migrated_results = [row for row in result_rows if row["drive_id"] == migrated_id]
+        self.assertEqual(len(migrated_results), 1)
+        self.assertEqual(migrated_results[0]["destination_path"], destination)
+        self.assertEqual(migrated_results[0]["destination_sha256"], migrated_sha256)
+        referenced_results = [row for row in result_rows if row["drive_id"] == referenced_id]
+        self.assertEqual(len(referenced_results), 1)
+        self.assertEqual(
+            referenced_results[0]["result"],
+            "REFERENCE_VERIFIED_NOT_MATERIALIZED",
+        )
+        self.assertEqual(referenced_results[0]["source_sha256"], referenced_sha256)
+        self.assertNotIn("destination_path", referenced_results[0])
+
+        plan_rows = load_rows("crosswalk/path-plan.jsonl")
+        migrated_plans = [row for row in plan_rows if row["drive_id"] == migrated_id]
+        self.assertEqual(len(migrated_plans), 1)
+        self.assertEqual(migrated_plans[0]["destination_path"], destination)
+        referenced_plans = [row for row in plan_rows if row["drive_id"] == referenced_id]
+        self.assertEqual(len(referenced_plans), 1)
+        self.assertEqual(referenced_plans[0]["decision"], "REFERENCE_DRIVE")
+        self.assertNotIn("destination_path", referenced_plans[0])
 
     def test_historical_private_bootstrap_bindings_are_unchanged(self) -> None:
         historical = {

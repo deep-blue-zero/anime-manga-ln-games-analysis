@@ -224,11 +224,40 @@ def validate_audit_workflow(
         "tools/generate_character_index.py --check",
         'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
         "python -m unittest discover",
-        'git show --check --format= "${GITHUB_SHA}"',
     )
     for fragment in required_fragments:
         if fragment not in text:
             errors.append(f"repository-audit workflow missing required contract: {fragment}")
+
+    whitespace_command = 'git show --check --format= "${GITHUB_SHA}" -- . \\'
+    whitespace_exclusion = (
+        "':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 Source Audits and "
+        "Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/"
+        "IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv'"
+    )
+    workflow_lines = text.splitlines()
+    command_lines = [
+        index
+        for index, line in enumerate(workflow_lines)
+        if line.strip().startswith("git show --check")
+    ]
+    exclusion_lines = [
+        line.strip()
+        for line in workflow_lines
+        if ":(" in line and "exclude" in line
+    ]
+    exact_whitespace_shape = bool(
+        len(command_lines) == 1
+        and workflow_lines[command_lines[0]].strip() == whitespace_command
+        and command_lines[0] + 1 < len(workflow_lines)
+        and workflow_lines[command_lines[0] + 1].strip() == whitespace_exclusion
+        and exclusion_lines == [whitespace_exclusion]
+    )
+    if not exact_whitespace_shape:
+        errors.append(
+            "repository-audit workflow whitespace check must exclude only the exact "
+            "approved IDOLY PRIDE provenance CSV"
+        )
 
     forbidden_fragments = (
         "pull_request",
@@ -253,14 +282,126 @@ def validate_audit_workflow(
     return errors
 
 
+def load_named_text_exceptions(
+    policy: Mapping[str, Any], text_extensions: set[str], threshold: int
+) -> tuple[dict[str, Mapping[str, Any]], list[str]]:
+    """Parse the exact reviewed-text tuples without granting a path-wide capability."""
+
+    raw = policy.get("named_text_exceptions", [])
+    if not isinstance(raw, list):
+        return {}, ["named_text_exceptions must be a list"]
+
+    required_fields = {
+        "path",
+        "bytes",
+        "sha256",
+        "exception_id",
+        "allow_utf8_bom",
+        "allow_carriage_returns",
+        "purpose",
+        "rights_basis",
+        "review_decision",
+        "external_reference_insufficient",
+    }
+    hard_limit = int(policy["hard_exception_threshold_bytes"])
+    exceptions: dict[str, Mapping[str, Any]] = {}
+    errors: list[str] = []
+    for index, item in enumerate(raw):
+        label = f"named_text_exceptions[{index}]"
+        if not isinstance(item, Mapping):
+            errors.append(f"{label} must be an object")
+            continue
+        fields = set(item)
+        if fields != required_fields:
+            errors.append(
+                f"{label} field-set mismatch; missing={sorted(required_fields - fields)}, "
+                f"extra={sorted(fields - required_fields)}"
+            )
+            continue
+
+        path = item["path"]
+        if not isinstance(path, str):
+            errors.append(f"{label}.path must be a string")
+            continue
+        try:
+            validate_repository_path(path)
+        except DomainError as exc:
+            errors.append(f"{label}.path is invalid: {exc}")
+            continue
+        if Path(path).suffix.casefold() not in text_extensions:
+            errors.append(f"{label}.path is not an allowed text extension: {path}")
+        if path in exceptions:
+            errors.append(f"duplicate named text exception path: {path}")
+            continue
+
+        byte_length = item["bytes"]
+        if (
+            isinstance(byte_length, bool)
+            or not isinstance(byte_length, int)
+            or byte_length <= threshold
+            or byte_length > hard_limit
+        ):
+            errors.append(
+                f"{label}.bytes must be an integer above the review threshold "
+                f"and at or below the hard exception threshold"
+            )
+        sha256 = item["sha256"]
+        if not isinstance(sha256, str) or re.fullmatch(r"[0-9a-f]{64}", sha256) is None:
+            errors.append(f"{label}.sha256 must be exactly 64 lowercase hexadecimal characters")
+        exception_id = item["exception_id"]
+        if (
+            not isinstance(exception_id, str)
+            or re.fullmatch(r"[A-Z][A-Z0-9_]*", exception_id) is None
+        ):
+            errors.append(
+                f"{label}.exception_id must be an uppercase ASCII identifier"
+            )
+        for flag in ("allow_utf8_bom", "allow_carriage_returns"):
+            if not isinstance(item[flag], bool):
+                errors.append(f"{label}.{flag} must be a boolean")
+        for field in (
+            "purpose",
+            "rights_basis",
+            "review_decision",
+            "external_reference_insufficient",
+        ):
+            value = item[field]
+            if (
+                not isinstance(value, str)
+                or not value
+                or value != value.strip()
+                or "\n" in value
+                or "\r" in value
+            ):
+                errors.append(f"{label}.{field} must be a nonempty single-line string")
+
+        # Invalid entries stay non-capable: validation reports their defects and the
+        # corresponding artifact receives the ordinary size/normalization checks.
+        if not any(error.startswith(label) for error in errors):
+            exceptions[path] = item
+    return exceptions, errors
+
+
 def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str) -> list[str]:
     errors: list[str] = []
     threshold = int(policy["review_threshold_bytes"])
     text_extensions = set(policy["allowed_text_extensions"])
+    named_exceptions, exception_errors = load_named_text_exceptions(
+        policy, text_extensions, threshold
+    )
+    errors.extend(exception_errors)
     special_text = {".gitattributes", ".gitignore", "CODEOWNERS"}
     for path, entry in snapshot.entries.items():
         data = entry.data
-        if len(data) > threshold:
+        exception = named_exceptions.get(path)
+        exception_matches = bool(
+            exception
+            and len(data) == exception["bytes"]
+            and hashlib.sha256(data).hexdigest() == exception["sha256"]
+        )
+        if exception is not None and not exception_matches:
+            errors.append(f"named text exception tuple mismatch: {path}")
+        if len(data) > threshold and not exception_matches:
             errors.append(f"{phase} file exceeds 1 MiB review threshold: {path} ({len(data)} bytes)")
         for label, pattern in SECRET_PATTERNS.items():
             if pattern.search(data):
@@ -270,9 +411,13 @@ def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str)
                 errors.append(f"publication hazard ({label}) in {path}")
         suffix = Path(path).suffix.casefold()
         if suffix in text_extensions or Path(path).name in special_text:
-            if data.startswith(b"\xef\xbb\xbf"):
+            allow_bom = bool(exception_matches and exception["allow_utf8_bom"])
+            allow_carriage_returns = bool(
+                exception_matches and exception["allow_carriage_returns"]
+            )
+            if data.startswith(b"\xef\xbb\xbf") and not allow_bom:
                 errors.append(f"UTF-8 BOM prohibited: {path}")
-            if b"\r" in data:
+            if b"\r" in data and not allow_carriage_returns:
                 errors.append(f"non-LF line ending: {path}")
             if b"\0" in data:
                 errors.append(f"NUL byte in text file: {path}")
@@ -297,6 +442,9 @@ def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str)
                     decode_json(line.encode("utf-8"), f"{path}:{line_number}")
                 except (DomainError, json.JSONDecodeError) as exc:
                     errors.append(f"invalid JSONL in {path}:{line_number}: {exc}")
+    for path in sorted(named_exceptions, key=lambda item: item.encode("utf-8")):
+        if path not in snapshot.entries:
+            errors.append(f"unused named text exception: {path}")
     return errors
 
 
