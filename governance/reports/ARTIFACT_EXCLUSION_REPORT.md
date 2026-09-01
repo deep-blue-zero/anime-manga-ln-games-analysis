@@ -2,7 +2,7 @@
 
 ## Scope
 
-This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, G5-T03 Genshin Impact Furina V1, and G5-T04 Cinderella Girls mobile-game analysis. It is not the final archive-wide exclusion review.
+This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, G5-T03 Genshin Impact Furina V1, G5-T04 Cinderella Girls mobile-game analysis, and G5-T05 Blue Archive Prologue/Chapter 1 analysis. It is not the final archive-wide exclusion review.
 
 ## U149 tranche
 
@@ -96,6 +96,20 @@ The frozen source boundary contains 26 Drive objects: 23 ordinary Markdown artif
 | Binary or archive artifacts | 0 | Not applicable | None are in the exact T04 source boundary |
 
 Source/structural binding SHA-256: `9ab050532d8114ef4e1cbec0423f20f341b61a7ea1f7f70057f256568fff5b74`. Inert preparation receipt SHA-256: `c37d34d559e46234c0dd0353a8e75c67685903ce900543a00aa06cbaeb1ae595`. The final 23-output table has SHA-256 `0b3333c5b5ed0afe39064e8199518401c93ff3d0bb21278efddf7d0a64097923`.
+
+## G5-T05 Blue Archive Prologue/Chapter 1 analysis
+
+The frozen source boundary contains 48 Drive objects: 35 Markdown artifacts, one machine-readable CSV, nine structural folders, and three empty folders. All 36 ordinary analytical artifacts passed the existing publication-safety boundary and materialize after the declared authority-array and publication-format normalizations, totaling 1,925,640 Git bytes. The nine structural folders remain destination-free `REFERENCE_DRIVE` provenance records; the three verified empty folders are `VERIFIED_EXCLUDED`. No binary, archive, LFS, large-text, rights, or named artifact exception is introduced.
+
+| Class | Count | Disposition | Reason |
+|---|---:|---|---|
+| Reviewed analytical Markdown | 35 | `MIGRATE_TEXT` | Human- and LLM-readable analysis; exact output hashes frozen |
+| Machine-readable analytical CSV | 1 | `MIGRATE_TEXT` | Structured text; CRLF normalized to LF with exact output hash frozen |
+| Structural Drive folders | 9 | `REFERENCE_DRIVE` | Hierarchy/provenance metadata only; folders have no content bytes |
+| Verified empty folders | 3 | `VERIFIED_EXCLUDED` | No artifact bytes or analytical content |
+| Binary or archive artifacts | 0 | Not applicable | None are in the exact T05 source boundary |
+
+Source-selection receipt SHA-256: `e5a5aea807cf711691e0788881aeb5b9223ec4edb92da43cb9e71cf0adefbce1`. Inert materialization receipt SHA-256: `c91539cc3065cd56575c836b638bb795e448eff65392c1689554ff359f1678c5`. The final 36-output table has SHA-256 `0452531eb1a07058ade65e7c1b252ffaaf684ffce22cb3f8aedcc6461ad631e3`.
 
 ## Default exclusions retained
 

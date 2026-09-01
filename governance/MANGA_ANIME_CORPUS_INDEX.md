@@ -1,6 +1,6 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public; G4 closed after all five representative archetypes passed; G5 progressive bounded migration active. U149, the complete reviewed Maebashi Witches V1 tree, the complete compact Mass Effect comparative corpus, the bounded reviewed Genshin Impact Furina V1 corpus, the reviewed Cinderella Girls mobile-game character-analysis tranche, the partial IDOLY PRIDE P02 ledger, and the partial DJFW P03 control-state slice are materialized candidates. The P04 archive control is reference-only. The repository is not yet a complete corpus.
+> Repository state: public; G4 closed after all five representative archetypes passed; G5 progressive bounded migration active. U149, the complete reviewed Maebashi Witches V1 tree, the complete compact Mass Effect comparative corpus, the bounded reviewed Genshin Impact Furina V1 corpus, the reviewed Cinderella Girls mobile-game character-analysis tranche, the reviewed Blue Archive Prologue/Chapter 1 analytical corpus, the partial IDOLY PRIDE P02 ledger, and the partial DJFW P03 control-state slice are materialized candidates. The P04 archive control is reference-only. The repository is not yet a complete corpus.
 >
 > Analytical authority: Google Drive until a separately approved and verified G8 cutover. Git content remains a nonauthoritative migration candidate.
 
@@ -14,6 +14,7 @@ See `../series/registry.json`.
 - [Maebashi Witches](../series/maebashi-witches/V1%20Analysis/00_README_AND_CORPUS_MAP.md) — reviewed V1 episode readings, character and comparative analyses, manifest, historical conversation provenance, and seven Character Index v2 discovery records.
 - [Genshin Impact — Furina V1 current state and corpus map](../series/genshin-impact/CURRENT_STATE_AND_CORPUS_MAP.md) — bounded reviewed Furina analytical corpus with source lock, sequential readings, synthesis, integrity manifests, and one Character Index v2 record.
 - [THE IDOLM@STER CINDERELLA GIRLS — mobile-game current state and corpus map](../series/the-idolmaster-cinderella-girls-mobile-games/CURRENT_STATE_AND_CORPUS_MAP.md) — 23 reviewed analytical artifacts covering twelve dedicated monographs, one audiovisual addendum, nine canonical audits, and nine Character Index v2 records.
+- [BLUE ARCHIVE — current state and corpus map](../series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md) — 36 reviewed analytical artifacts covering method and source controls, Prologue and Countermeasures Committee Arc Chapter 1 sequential readings, seven longitudinal ledgers, one machine-readable crosswalk, and eleven Character Index v2 records.
 - [IDOLY PRIDE — source-to-bundle provenance ledger](../series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.01%20Corpus%20Coverage%20and%20Priority%20Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv) — one byte-preserved, machine-readable P02 pilot artifact. This is a partial slice, not a complete IDOLY PRIDE migration; internal relative paths do not imply that their targets are present in Git.
 
 ## Studies

@@ -5,7 +5,7 @@
   "migration": {
     "completed_gate": "G4",
     "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-    "current_subphase": "G5_T04_CINDERELLA_GIRLS_MOBILE_GAMES_INTEGRATED",
+    "current_subphase": "G5_T05_BLUE_ARCHIVE_INTEGRATED",
     "integrated_candidates": [
       "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
       "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -13,14 +13,15 @@
       "MAEBASHI_WITCHES_V1",
       "MASS_EFFECT_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
       "GENSHIN_IMPACT_FURINA_MONOGRAPH_V1",
-      "IDOLMASTER_CINDERELLA_GIRLS_MOBILE_GAME_CHARACTER_MONOGRAPHS_V1"
+      "IDOLMASTER_CINDERELLA_GIRLS_MOBILE_GAME_CHARACTER_MONOGRAPHS_V1",
+      "BLUE_ARCHIVE_PROLOGUE_CHAPTER_1_AND_LONGITUDINAL_ANALYSIS_V1"
     ],
     "integrated_reference_controls": [
       "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY"
     ],
     "p01_p04_local_preparation": "P04_COMPLETE_P01_P03_MATERIALIZED_P04_REFERENCE_ONLY",
     "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
-    "p05_v2_status": "U149_YONAIP_MAEBASHI_SEVEN_MASS_EFFECT_TWO_GENSHIN_FURINA_AND_CINDERELLA_GIRLS_MOBILE_NINE_PRESENT_REVIEWED",
+    "p05_v2_status": "U149_YONAIP_MAEBASHI_SEVEN_MASS_EFFECT_TWO_GENSHIN_FURINA_CINDERELLA_GIRLS_MOBILE_NINE_AND_BLUE_ARCHIVE_ELEVEN_PRESENT_REVIEWED",
     "g4_phase_closure": {
       "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
       "audit_id": "g4-representative-pilot-completion-audit-20260901T062038Z",
@@ -29,13 +30,13 @@
       "pilot_high_water_tree": "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
     },
     "g5_progress": {
-      "last_tranche": "G5_T04_CINDERELLA_GIRLS_MOBILE_GAMES",
-      "run_id": "g5-t04-cinderella-girls-mobile-games-20260901T105439Z",
-      "source_receipt_sha256": "9ab050532d8114ef4e1cbec0423f20f341b61a7ea1f7f70057f256568fff5b74",
-      "transformation_receipt_sha256": "c37d34d559e46234c0dd0353a8e75c67685903ce900543a00aa06cbaeb1ae595",
-      "source_objects": 26,
-      "payload_paths": 23,
-      "tracked_paths_after": 164,
+      "last_tranche": "G5_T05_BLUE_ARCHIVE",
+      "run_id": "g5-t05-blue-archive-20260901T122749Z",
+      "source_receipt_sha256": "e5a5aea807cf711691e0788881aeb5b9223ec4edb92da43cb9e71cf0adefbce1",
+      "transformation_receipt_sha256": "c91539cc3065cd56575c836b638bb795e448eff65392c1689554ff359f1678c5",
+      "source_objects": 48,
+      "payload_paths": 36,
+      "tracked_paths_after": 200,
       "status": "MATERIALIZED_VALIDATED_GIT_TRANCHE"
     }
   },

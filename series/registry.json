@@ -72,6 +72,18 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T04_MOBILE_GAME_CHARACTER_MONOGRAPHS_AND_AUDITS",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "blue-archive",
+      "stable_slug": "blue-archive",
+      "canonical_title": "BLUE ARCHIVE",
+      "media": [
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/blue-archive/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T05_BLUE_ARCHIVE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
     }
   ]
 }

@@ -34,6 +34,42 @@ governance/schemas/character-reconstruction-capability.schema.json
 governance/schemas/native-sheet-structure.schema.json
 provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md
 series/README.md
+series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md
+series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md
+series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_LOCK_V1.md
+series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md
+series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E001_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_C001_E002_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E001_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E002_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E003_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E004_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E005_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E006_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E007_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E008_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E009_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E010_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E011_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E012_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E013_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E014_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E015_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E016_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E017_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E018_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E019_DEEP_READING.md
+series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md
+series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md
+series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md
+series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md
+series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md
+series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_RELATIONSHIP_STATE_LEDGER.md
+series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_SCHOOL_CLUB_INSTITUTION_LEDGER.md
+series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_SENSEI_ROLE_AND_ETHICS_LEDGER.md
+series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv
+series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md
 series/genshin-impact/00 Frameworks and Methods/GENSHIN_FURINA_ANALYTICAL_METHOD.md
 series/genshin-impact/00 Frameworks and Methods/GENSHIN_FURINA_SYNTHESIS_ARCHITECTURE.md
 series/genshin-impact/01 Source Lock and Inventory/GENSHIN_FURINA_CORPUS_CHRONOLOGY_CROSSWALK.md
