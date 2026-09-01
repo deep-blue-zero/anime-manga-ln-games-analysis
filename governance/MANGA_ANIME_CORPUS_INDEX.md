@@ -1,6 +1,6 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public, owner-maintained, and fully materialized for the approved G5 text boundary. The candidate contains 2,654 Drive-derived representations across 36 series roots and two study roots. Final aggregate validation and G8 analytical-authority activation are separate controls.
+> Repository state: public, owner-maintained, and fully materialized for the approved G5 text boundary. The candidate contains 2,665 Drive-derived representations across 36 series roots and two study roots. Final aggregate validation and G8 analytical-authority activation are separate controls.
 >
 > Analytical authority: Google Drive until a separately approved and verified G8 cutover. Git content remains a nonauthoritative migration candidate.
 

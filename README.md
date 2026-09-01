@@ -4,7 +4,7 @@ Owner-maintained repository for human- and LLM-readable analytical work about an
 
 ## Current state
 
-The public, owner-maintained Git candidate now contains the complete approved G5 text materialization: 2,654 Drive-derived representations across 36 series roots and two study roots, plus the governed character-discovery, provenance, and repository-control layers. Binary archives, primary-source media, generated extraction corpora, native Office/PDF originals with sufficient text derivatives, and other excluded classes remain outside Git. Their final 2,752-row disposition inventory is summarized in `governance/reports/ARTIFACT_EXCLUSION_REPORT.md`.
+The public, owner-maintained Git candidate now contains the complete approved G5 text materialization: 2,665 Drive-derived representations across 36 series roots and two study roots, plus the governed character-discovery, provenance, and repository-control layers. Binary archives, primary-source media, generated extraction corpora, native Office/PDF originals with sufficient text derivatives, and other excluded classes remain outside Git. Their final 2,752-row disposition inventory is summarized in `governance/reports/ARTIFACT_EXCLUSION_REPORT.md`.
 
 This completes corpus materialization, not analytical-authority cutover. Google Drive remains authoritative until a separately approved and verified G8 activation. The Git tree is a nonauthoritative candidate during final aggregate validation and the approved 14-day stabilization lifecycle.
 

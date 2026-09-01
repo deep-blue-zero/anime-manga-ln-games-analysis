@@ -857,16 +857,109 @@ def _is_positive_integer(value: Any) -> bool:
     return isinstance(value, int) and not isinstance(value, bool) and value > 0
 
 
+def _validate_crosswalk_source_group(
+    row: Mapping[str, Any], label: str
+) -> list[str]:
+    """Validate optional one-to-many source provenance on a representation."""
+
+    errors: list[str] = []
+    source_ids = row.get("source_drive_ids")
+    source_tuples = row.get("source_tuples")
+    if source_ids is None and source_tuples is None:
+        return errors
+    if not isinstance(source_ids, list) or not source_ids:
+        return [f"{label}.source_drive_ids must be a nonempty array"]
+    if any(not _valid_nonempty_string(item) for item in source_ids):
+        errors.append(f"{label}.source_drive_ids contains an invalid ID")
+    if len(source_ids) != len(set(source_ids)):
+        errors.append(f"{label}.source_drive_ids contains a duplicate ID")
+    if source_ids and source_ids[0] != row.get("drive_id"):
+        errors.append(f"{label}.source_drive_ids must begin with drive_id")
+    if not isinstance(source_tuples, list) or len(source_tuples) != len(source_ids):
+        errors.append(
+            f"{label}.source_tuples must align one-for-one with source_drive_ids"
+        )
+        return errors
+
+    tuple_ids: list[Any] = []
+    required = {
+        "drive_id",
+        "source_path",
+        "source_bytes",
+        "source_revision",
+        "source_sha256",
+    }
+    for index, item in enumerate(source_tuples):
+        tuple_label = f"{label}.source_tuples[{index}]"
+        if not isinstance(item, Mapping):
+            errors.append(f"{tuple_label} must be an object")
+            continue
+        missing = required - set(item)
+        if missing:
+            errors.append(f"{tuple_label} missing fields: {sorted(missing)}")
+            continue
+        tuple_ids.append(item.get("drive_id"))
+        for field in ("drive_id", "source_path"):
+            if not _valid_nonempty_string(item.get(field)):
+                errors.append(f"{tuple_label}.{field} is invalid")
+        if not _is_positive_integer(item.get("source_bytes")):
+            errors.append(f"{tuple_label}.source_bytes must be a positive integer")
+        revision = item.get("source_revision")
+        if not isinstance(revision, str) or POSITIVE_DECIMAL_RE.fullmatch(revision) is None:
+            errors.append(
+                f"{tuple_label}.source_revision must be a positive decimal string"
+            )
+        source_sha256 = item.get("source_sha256")
+        if not isinstance(source_sha256, str) or SHA256_RE.fullmatch(source_sha256) is None:
+            errors.append(f"{tuple_label}.source_sha256 is invalid")
+
+    if tuple_ids != source_ids:
+        errors.append(f"{label}.source_tuples IDs do not match source_drive_ids")
+    if source_tuples and isinstance(source_tuples[0], Mapping):
+        first = source_tuples[0]
+        for field in (
+            "drive_id",
+            "source_path",
+            "source_bytes",
+            "source_revision",
+            "source_sha256",
+        ):
+            if first.get(field) != row.get(field):
+                errors.append(
+                    f"{label}.{field} does not match the canonical source tuple"
+                )
+    if row.get("transformation") == "MERGE_IDENTICAL_BYTES_V1":
+        byte_identities = {
+            (item.get("source_bytes"), item.get("source_sha256"))
+            for item in source_tuples
+            if isinstance(item, Mapping)
+        }
+        if len(byte_identities) != 1:
+            errors.append(
+                f"{label} MERGE_IDENTICAL_BYTES_V1 sources are not byte-identical"
+            )
+    return errors
+
+
 def _crosswalk_path_scope(row: Mapping[str, Any], path: str, label: str) -> list[str]:
     errors: list[str] = []
-    scope_fields = [field for field in ("series_id", "study_id") if field in row]
+    scope_fields = [
+        field for field in ("series_id", "study_id", "governance_id") if field in row
+    ]
     if len(scope_fields) != 1:
-        return [f"{label} must declare exactly one of series_id or study_id"]
+        return [
+            f"{label} must declare exactly one of series_id, study_id, or governance_id"
+        ]
     field = scope_fields[0]
     value = row[field]
     if not _valid_nonempty_string(value):
         return [f"{label}.{field} must be a nonempty single-line string"]
-    expected = f"{'series' if field == 'series_id' else 'studies'}/{value}/"
+    if field == "governance_id":
+        if value != "repository":
+            errors.append(f"{label}.governance_id must equal 'repository'")
+        expected = "governance/"
+    else:
+        expected = f"{'series' if field == 'series_id' else 'studies'}/{value}/"
     if not path.startswith(expected):
         errors.append(
             f"{label} scope/path mismatch: {field}={value!r}, path={path!r}"
@@ -917,6 +1010,7 @@ def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
             "representation_id",
         }
         errors.extend(_validate_crosswalk_record_basics(row, label, required))
+        errors.extend(_validate_crosswalk_source_group(row, label))
         if not required.issubset(row):
             continue
         path = row["git_path"]
@@ -989,6 +1083,7 @@ def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
                 "run_id",
             }
             errors.extend(_validate_crosswalk_record_basics(row, label, required))
+            errors.extend(_validate_crosswalk_source_group(row, label))
             path = row.get("destination_path")
             if not isinstance(path, str):
                 continue
@@ -1048,6 +1143,9 @@ def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
                 "representation_id",
                 "series_id",
                 "study_id",
+                "governance_id",
+                "source_drive_ids",
+                "source_tuples",
             }
             present = sorted(prohibited & set(row))
             if present:
@@ -1071,6 +1169,7 @@ def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
                 "path_status",
             }
             errors.extend(_validate_crosswalk_record_basics(row, label, required))
+            errors.extend(_validate_crosswalk_source_group(row, label))
             path = row.get("destination_path")
             if not isinstance(path, str):
                 continue
@@ -1113,6 +1212,9 @@ def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
                 "representation_id",
                 "series_id",
                 "study_id",
+                "governance_id",
+                "source_drive_ids",
+                "source_tuples",
             }
             present = sorted(prohibited & set(row))
             if present:
@@ -1202,6 +1304,18 @@ def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
             result,
             "transformation",
         )
+        for field in (
+            "governance_id",
+            "source_drive_ids",
+            "source_tuples",
+        ):
+            if any(field in leg for leg in (mapping, result, plan)):
+                _compare_crosswalk_field(
+                    errors, path, "mapping", mapping, field, "result", result, field
+                )
+                _compare_crosswalk_field(
+                    errors, path, "mapping", mapping, field, "plan", plan, field
+                )
         entry = snapshot.get(path)
         if entry is not None and entry.qualifies_as_evidence:
             if result.get("destination_bytes") != len(entry.data):
@@ -1609,7 +1723,13 @@ def validate_native_sheets(snapshot: GitSnapshot, require_schema: bool) -> list[
             row.get("git_path"): row
             for row in mapping_rows
             if row.get("drive_id") == source_drive_id
-            and row.get("transformation") == NATIVE_SHEET_TRANSFORMATION
+            and isinstance(row.get("transformation"), str)
+            and (
+                row["transformation"] == NATIVE_SHEET_TRANSFORMATION
+                or row["transformation"].startswith(
+                    NATIVE_SHEET_TRANSFORMATION + "_AND_"
+                )
+            )
         }
         if set(native_mappings) != expected_paths:
             errors.append(
@@ -1643,7 +1763,13 @@ def validate_native_sheets(snapshot: GitSnapshot, require_schema: bool) -> list[
             for row in result_rows
             if row.get("drive_id") == source_drive_id
             and row.get("result") == "MATERIALIZED_AND_HASH_VERIFIED"
-            and row.get("transformation") == NATIVE_SHEET_TRANSFORMATION
+            and isinstance(row.get("transformation"), str)
+            and (
+                row["transformation"] == NATIVE_SHEET_TRANSFORMATION
+                or row["transformation"].startswith(
+                    NATIVE_SHEET_TRANSFORMATION + "_AND_"
+                )
+            )
         }
         native_plans = {
             row.get("destination_path"): row
@@ -1651,7 +1777,13 @@ def validate_native_sheets(snapshot: GitSnapshot, require_schema: bool) -> list[
             if row.get("drive_id") == source_drive_id
             and isinstance(row.get("decision"), str)
             and row["decision"].startswith("MIGRATE_")
-            and row.get("transformation") == NATIVE_SHEET_TRANSFORMATION
+            and isinstance(row.get("transformation"), str)
+            and (
+                row["transformation"] == NATIVE_SHEET_TRANSFORMATION
+                or row["transformation"].startswith(
+                    NATIVE_SHEET_TRANSFORMATION + "_AND_"
+                )
+            )
         }
         if set(native_results) != expected_paths:
             errors.append(f"native-sheet materialization-result closure failure: {manifest_path}")

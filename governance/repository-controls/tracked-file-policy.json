@@ -72,8 +72,8 @@
   "named_text_exceptions": [
     {
       "path": "crosswalk/drive-to-git.jsonl",
-      "bytes": 1799006,
-      "sha256": "456367cd076c16cc6200ff2d3de9c5806171269aac2dbe7796ee71a730cafc67",
+      "bytes": 1831843,
+      "sha256": "e65255d6a090286bc573652d03bc521962206e1c966e22f7fdad9b28a61e9891",
       "exception_id": "G5_FINAL_AGGREGATE_DRIVE_TO_GIT_CROSSWALK",
       "allow_utf8_bom": false,
       "allow_carriage_returns": false,
@@ -84,8 +84,8 @@
     },
     {
       "path": "crosswalk/materialization-results.jsonl",
-      "bytes": 2158090,
-      "sha256": "8e9be3824587219d0e72db5d1956a3fbde0596ae97432665ff886bade2a85e51",
+      "bytes": 2198742,
+      "sha256": "c0e6ce22c11825183a247c94419f16e9df3b9a24d34152a294afd1710dce4c48",
       "exception_id": "G5_FINAL_AGGREGATE_MATERIALIZATION_RESULTS",
       "allow_utf8_bom": false,
       "allow_carriage_returns": false,
@@ -96,8 +96,8 @@
     },
     {
       "path": "crosswalk/path-plan.jsonl",
-      "bytes": 2035959,
-      "sha256": "83e2b18be2b8109b21720a80daa9848c1deea4583ea45f3f058768a76b1920d3",
+      "bytes": 2077307,
+      "sha256": "913d3cced3fe4f34d7f9491a4c6d45c3f6913c9d8ec1e78b0e0a9b82b72d22d9",
       "exception_id": "G5_FINAL_AGGREGATE_PATH_PLAN",
       "allow_utf8_bom": false,
       "allow_carriage_returns": false,

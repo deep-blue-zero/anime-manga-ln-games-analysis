@@ -6,9 +6,9 @@ effective_authority:
   git_candidate: NONAUTHORITATIVE
 migration:
   framework_version: 1.4.0-owner-review-candidate
-  completed_gate: G4
-  current_gate: G5_PROGRESSIVE_BULK_MIGRATION
-  current_subphase: G5_FINAL_AGGREGATE_MATERIALIZED_AND_RECONCILED_PRE_G8
+  completed_gate: G5
+  current_gate: G6_FULL_CORPUS_AND_REPOSITORY_RECONCILIATION
+  current_subphase: G6_SOURCE_PROVENANCE_CLOSURE_CANDIDATE_PRE_G8
   integrated_candidates:
     - THE_IDOLMASTER_CINDERELLA_GIRLS_U149
     - IDOLY_PRIDE_P02_SINGLE_LEDGER
@@ -39,9 +39,9 @@ migration:
     exclusion_review_sha256: 8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8
     source_objects: 5402
     migrated_source_objects: 2650
-    materialized_representations: 2654
+    materialized_representations: 2665
     tracked_paths_after: 2710
-    status: MATERIALIZED_VALIDATED_GIT_CANDIDATE_PRE_G8
+    status: MATERIALIZED_VALIDATED_AND_PUBLISHED_PRE_G8
 repository:
   provider: GitHub
   owner: deep-blue-zero

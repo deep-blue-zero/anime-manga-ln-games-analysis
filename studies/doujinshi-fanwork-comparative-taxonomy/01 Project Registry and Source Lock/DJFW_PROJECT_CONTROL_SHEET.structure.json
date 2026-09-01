@@ -1,10 +1,10 @@
 {
   "schema": "manga-anime-git-migration/native-sheet-structure/v1",
-  "created_utc": "2026-09-01T04:43:59Z",
+  "created_utc": "2026-09-01T20:35:00Z",
   "source_drive_id": "1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg",
-  "source_drive_revision": "18",
-  "source_byte_length": 56138,
-  "source_sha256": "5cebbd385b260e349ac54befbc22b5edc80bb8e9e96b4997eac507f123eb72af",
+  "source_drive_revision": "31",
+  "source_byte_length": 56153,
+  "source_sha256": "45af93158093209fd43c451f800322808e5b5ef184e949af690089f65e46d57a",
   "workbook_format": "xlsx",
   "conversion": {
     "engine": "openpyxl",

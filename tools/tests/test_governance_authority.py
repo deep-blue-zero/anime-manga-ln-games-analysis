@@ -663,9 +663,9 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
     def test_migration_and_withdrawal_state_is_consistent(self) -> None:
         current_expected = {
-            "completed_gate": "G4",
-            "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-            "current_subphase": "G5_FINAL_AGGREGATE_MATERIALIZED_AND_RECONCILED_PRE_G8",
+            "completed_gate": "G5",
+            "current_gate": "G6_FULL_CORPUS_AND_REPOSITORY_RECONCILIATION",
+            "current_subphase": "G6_SOURCE_PROVENANCE_CLOSURE_CANDIDATE_PRE_G8",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -713,14 +713,14 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "exclusion_review_sha256": "8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8",
                 "source_objects": 5402,
                 "migrated_source_objects": 2650,
-                "materialized_representations": 2654,
+                "materialized_representations": 2665,
                 "tracked_paths_after": len(
                     (
                         REPOSITORY_ROOT
                         / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
                     ).read_text(encoding="utf-8").splitlines()
                 ),
-                "status": "MATERIALIZED_VALIDATED_GIT_CANDIDATE_PRE_G8",
+                "status": "MATERIALIZED_VALIDATED_AND_PUBLISHED_PRE_G8",
             },
         }
         for document in (self.scope, self.state):
@@ -733,7 +733,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         self.assertNotIn("p05_v2_status", self.binding["migration"])
 
-    def test_g4_closure_and_g5_entry_are_consistent(self) -> None:
+    def test_g4_closure_and_g6_entry_are_consistent(self) -> None:
         expected_closure = {
             "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
             "audit_id": (
@@ -753,10 +753,10 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             with self.subTest(schema=document["schema"]):
                 self.assertEqual(document["authority_epoch"], 0)
                 self.assertEqual(document["migration"]["g4_phase_closure"], expected_closure)
-                self.assertEqual(document["migration"]["completed_gate"], "G4")
+                self.assertEqual(document["migration"]["completed_gate"], "G5")
                 self.assertEqual(
                     document["migration"]["current_gate"],
-                    "G5_PROGRESSIVE_BULK_MIGRATION",
+                    "G6_FULL_CORPUS_AND_REPOSITORY_RECONCILIATION",
                 )
         self.assertEqual(
             self.scope["before_verified_g8_activation"]["analytical_authority"],
@@ -1379,6 +1379,137 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertTrue(all(row["materialization_status"] == "PRESENT_REVIEWED" for row in mass_effect))
         self.assertFalse(any("SPEECH" in row["analytical_dimensions"] for row in mass_effect))
 
+    def test_g6_source_provenance_closure_is_exact(self) -> None:
+        expected_source_ids = {
+            "11tzDCqbg6Twy6KlYyrnavpwSqkwRpnWD",
+            "15aeSFNRTkpq7NJcFelnb_4dt4Gsb-92P",
+            "1EoVFHSupUds_ziA29HAwbNJ-Ll_5k__n",
+            "1KTJoroDSVSnylV_vZJ6kjg1GbCxzewDh",
+            "1O7ATkjdEX9CWo01-Opyn3nW0v6PlWNY9",
+            "1UkyI6DpKDzOQe1FS_DfMCRw2osfS7Mwr",
+            "1WlMff5RlZFEa3VSjWW1vShAJiFX07lOa",
+            "1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC",
+            "1igz8dtdgUnnCpRYrat4Bi5tjZn8kduJw",
+            "1m6g1HyiLdVfi773EHw-q6084kDIG6eIE",
+            "1o1oJ-LM7FgIzX-x8XQB34ucKYx-TeR8-",
+            "1ujr9mZ3bVATtwSBQt0w8Qj3qm3ry3f6i",
+            "1z_zolsM8-FRoDitPh5wGXrWjsttcLh7Z",
+        }
+
+        def rows(relative: str) -> list[dict[str, object]]:
+            return [
+                json.loads(line)
+                for line in (REPOSITORY_ROOT / relative)
+                .read_text(encoding="utf-8")
+                .splitlines()
+                if line
+            ]
+
+        results = {
+            row["representation_id"]: row
+            for row in rows("crosswalk/materialization-results.jsonl")
+            if row.get("run_id") == "g6-source-provenance-closure-20260901T190000Z"
+        }
+        mappings = {
+            row["representation_id"]: row
+            for row in rows("crosswalk/drive-to-git.jsonl")
+            if row.get("representation_id") in results
+        }
+        plans = {
+            row["representation_id"]: row
+            for row in rows("crosswalk/path-plan.jsonl")
+            if row.get("representation_id") in results
+        }
+        self.assertEqual(len(mappings), 11)
+        self.assertEqual(set(mappings), set(results))
+        self.assertEqual(set(mappings), set(plans))
+        self.assertEqual(
+            {
+                drive_id
+                for row in mappings.values()
+                for drive_id in row["source_drive_ids"]
+            },
+            expected_source_ids,
+        )
+        self.assertEqual(
+            sum(row.get("governance_id") == "repository" for row in mappings.values()),
+            9,
+        )
+        self.assertEqual(
+            sum(
+                row["transformation"] == "MERGE_IDENTICAL_BYTES_V1"
+                for row in mappings.values()
+            ),
+            2,
+        )
+        for representation_id, mapping in mappings.items():
+            with self.subTest(representation_id=representation_id):
+                result = results[representation_id]
+                plan = plans[representation_id]
+                self.assertEqual(mapping["source_drive_ids"], result["source_drive_ids"])
+                self.assertEqual(mapping["source_drive_ids"], plan["source_drive_ids"])
+                self.assertEqual(mapping["source_tuples"], result["source_tuples"])
+                self.assertEqual(mapping["source_tuples"], plan["source_tuples"])
+                data = (REPOSITORY_ROOT / mapping["git_path"]).read_bytes()
+                self.assertEqual(len(data), mapping["git_bytes"])
+                self.assertEqual(hashlib.sha256(data).hexdigest(), mapping["git_sha256"])
+
+    def test_g6_all_materialized_representations_have_three_ledger_legs(self) -> None:
+        def rows(relative: str) -> list[dict[str, object]]:
+            return [
+                json.loads(line)
+                for line in (REPOSITORY_ROOT / relative)
+                .read_text(encoding="utf-8")
+                .splitlines()
+                if line
+            ]
+
+        mappings = {
+            row["representation_id"]: row
+            for row in rows("crosswalk/drive-to-git.jsonl")
+            if row.get("representation_id")
+        }
+        results = {
+            row["representation_id"]: row
+            for row in rows("crosswalk/materialization-results.jsonl")
+            if row.get("representation_id")
+        }
+        plans = {
+            row["representation_id"]: row
+            for row in rows("crosswalk/path-plan.jsonl")
+            if row.get("representation_id")
+        }
+        self.assertEqual(len(mappings), 2665)
+        self.assertEqual(set(mappings), set(results))
+        self.assertEqual(set(mappings), set(plans))
+        for representation_id, mapping in mappings.items():
+            with self.subTest(representation_id=representation_id):
+                result = results[representation_id]
+                plan = plans[representation_id]
+                self.assertEqual(mapping["git_path"], result["destination_path"])
+                self.assertEqual(mapping["git_path"], plan["destination_path"])
+                self.assertEqual(mapping["git_bytes"], result["destination_bytes"])
+                self.assertEqual(mapping["git_bytes"], plan["destination_bytes"])
+                self.assertEqual(mapping["git_sha256"], result["destination_sha256"])
+                self.assertEqual(mapping["git_sha256"], plan["destination_sha256"])
+                self.assertEqual(mapping["transformation"], result["transformation"])
+                self.assertEqual(mapping["transformation"], plan["transformation"])
+
+        reference_results = [
+            row
+            for row in rows("crosswalk/materialization-results.jsonl")
+            if not row.get("representation_id")
+        ]
+        reference_plans = [
+            row
+            for row in rows("crosswalk/path-plan.jsonl")
+            if not row.get("representation_id")
+        ]
+        self.assertEqual(len(reference_results), 9)
+        self.assertEqual(len(reference_plans), 9)
+        self.assertTrue(all("destination_path" not in row for row in reference_results))
+        self.assertTrue(all("destination_path" not in row for row in reference_plans))
+
     def test_p02_exact_copy_and_reference_only_rows_are_consistent(self) -> None:
         migrated_id = "1EySpUScZKZ2irfYamER1e8FCrnjniGjk"
         referenced_id = "1US_aDBA1ttPuUx-WlMfr7559PB8vq6we"
@@ -1452,10 +1583,13 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "4679e1ff5f14b0ffe780748c0397255ea01feaf700d48e88feaf6b4697488f65"
         )
         structure_sha256 = (
-            "399fdb0178c9606d50d875ca89daf1f46d5f2277c8c111a616151a0221f44558"
+            "c58920ffb66a752f2566db5317f25dbba60a430e0091f3206740e80494dde675"
         )
         sheet_source_sha256 = (
-            "5cebbd385b260e349ac54befbc22b5edc80bb8e9e96b4997eac507f123eb72af"
+            "45af93158093209fd43c451f800322808e5b5ef184e949af690089f65e46d57a"
+        )
+        doc_source_sha256 = (
+            "df54471c1598e3637eb75e12f13c0565d942b8294c36c107b10920ee1cb07fad"
         )
 
         doc_bytes = (REPOSITORY_ROOT / doc_path).read_bytes()
@@ -1470,8 +1604,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         structure = json.loads(structure_bytes.decode("utf-8"))
         self.assertEqual(structure["source_drive_id"], sheet_drive_id)
-        self.assertEqual(structure["source_drive_revision"], "18")
-        self.assertEqual(structure["source_byte_length"], 56_138)
+        self.assertEqual(structure["source_drive_revision"], "31")
+        self.assertEqual(structure["source_byte_length"], 56_153)
         self.assertEqual(structure["source_sha256"], sheet_source_sha256)
         self.assertEqual(structure["worksheet_count"], 17)
         self.assertEqual(len(structure["worksheets"]), 17)
@@ -1541,7 +1675,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ]
         self.assertEqual(len(sheet_drive_rows), 18)
         self.assertTrue(
-            all(row["source_revision"] == "18" for row in sheet_drive_rows)
+            all(row["source_revision"] == "31" for row in sheet_drive_rows)
         )
         self.assertTrue(
             all(
@@ -1549,6 +1683,13 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 for row in sheet_drive_rows
             )
         )
+        doc_drive_rows = [
+            row for row in p03_drive_rows if row["drive_id"] == doc_drive_id
+        ]
+        self.assertEqual(len(doc_drive_rows), 1)
+        self.assertEqual(doc_drive_rows[0]["source_revision"], "26")
+        self.assertEqual(doc_drive_rows[0]["source_bytes"], 13_427)
+        self.assertEqual(doc_drive_rows[0]["source_sha256"], doc_source_sha256)
 
         result_rows = load_rows("crosswalk/materialization-results.jsonl")
         p03_results = [

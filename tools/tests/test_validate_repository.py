@@ -317,6 +317,29 @@ class PhaseValidationTests(unittest.TestCase):
         failures = validate_crosswalk_closure(mutated)
         self.assertTrue(any("duplicate crosswalk representation_id" in item for item in failures))
 
+    def test_g6_merged_source_group_rejects_nonidentical_source_tuple(self) -> None:
+        snapshot = self.p03_snapshot()
+        path = "crosswalk/drive-to-git.jsonl"
+        destination = (
+            "series/azur-lane/03 Character Reconstruction/ST_LOUIS_10213/"
+            "ST_LOUIS_JP_ACOUSTIC_MEASUREMENT_MATRIX.csv"
+        )
+
+        def change(row):
+            row["source_tuples"][1]["source_sha256"] = "0" * 64
+            return row
+
+        mutated = self.replace_jsonl_row(
+            snapshot,
+            path,
+            lambda row: row.get("git_path") == destination,
+            change,
+        )
+        failures = validate_crosswalk_closure(mutated)
+        self.assertTrue(
+            any("MERGE_IDENTICAL_BYTES_V1 sources are not byte-identical" in item for item in failures)
+        )
+
     def test_p03_crosswalk_rejects_exact_committed_hash_drift(self) -> None:
         snapshot = self.p03_snapshot()
         path = "crosswalk/drive-to-git.jsonl"

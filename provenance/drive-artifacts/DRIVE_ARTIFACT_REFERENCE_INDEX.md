@@ -4,7 +4,7 @@ This index records source identifiers, verified Git-candidate derivatives, and s
 
 ## Final aggregate boundary
 
-The complete approved G5 text materialization contains 2,654 Git representations. The local row-level exclusion review contains 2,661 `REFERENCE_DRIVE`, 84 `OMIT_EMPTY`, and 7 `VERIFIED_EXCLUDED` records and has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8`. The three tracked crosswalk ledgers provide the public-safe source-to-Git closure; excluded payload bytes remain outside the repository.
+The complete approved G5 text materialization contains 2,665 Git representations covering 2,650 unique migrated source artifacts. The local row-level exclusion review contains 2,661 `REFERENCE_DRIVE`, 84 `OMIT_EMPTY`, and 7 `VERIFIED_EXCLUDED` records and has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8`. The three tracked crosswalk ledgers provide the public-safe source-to-Git closure; excluded payload bytes remain outside the repository.
 
 ## U149 first tranche
 
