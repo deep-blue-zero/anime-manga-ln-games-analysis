@@ -663,9 +663,11 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
     def test_migration_and_withdrawal_state_is_consistent(self) -> None:
         current_expected = {
-            "completed_gate": "G5",
-            "current_gate": "G6_FULL_CORPUS_AND_REPOSITORY_RECONCILIATION",
-            "current_subphase": "G6_SOURCE_PROVENANCE_CLOSURE_CANDIDATE_PRE_G8",
+            "completed_gate": "G6",
+            "current_gate": "G7_CUTOVER_PREPARATION",
+            "current_subphase": (
+                "G7_AWAITING_FRESH_OWNER_DRIVE_FREEZE_AND_DELTA_AUTHORIZATION"
+            ),
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -722,6 +724,27 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 ),
                 "status": "MATERIALIZED_VALIDATED_AND_PUBLISHED_PRE_G8",
             },
+            "g6_phase_closure": {
+                "status": (
+                    "PASS_FULL_CORPUS_RECONCILED_REMOTE_CI_CLONE_AND_MIRROR_VERIFIED"
+                ),
+                "closure_receipt_sha256": (
+                    "e7add3955f73305ff95ad93bd71c8f1624cc046da25ff1c984a914c5024af91f"
+                ),
+                "reconciliation_audit_sha256": (
+                    "59af523542f434a76bb72e147592f64e96595fc720f27bf9d2b00e0fe946b2e5"
+                ),
+                "validator_log_sha256": (
+                    "f4a0a146cfab3adc0773f4bba04d8e95a87b616c56d8d5ec0505c8472825a7d2"
+                ),
+                "published_commit": (
+                    "663df66eefe72acfc57d47076b836e6c7c0a5a2e"
+                ),
+                "published_tree": (
+                    "55484898d65a5a4c95a6c5d3d755b42096c21393"
+                ),
+                "ci_workflow_run_id": "33551152778",
+            },
         }
         for document in (self.scope, self.state):
             with self.subTest(schema=document["schema"]):
@@ -733,7 +756,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         self.assertNotIn("p05_v2_status", self.binding["migration"])
 
-    def test_g4_closure_and_g6_entry_are_consistent(self) -> None:
+    def test_g4_and_g6_closures_and_g7_entry_are_consistent(self) -> None:
         expected_closure = {
             "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
             "audit_id": (
@@ -753,10 +776,18 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             with self.subTest(schema=document["schema"]):
                 self.assertEqual(document["authority_epoch"], 0)
                 self.assertEqual(document["migration"]["g4_phase_closure"], expected_closure)
-                self.assertEqual(document["migration"]["completed_gate"], "G5")
+                self.assertEqual(document["migration"]["completed_gate"], "G6")
                 self.assertEqual(
                     document["migration"]["current_gate"],
-                    "G6_FULL_CORPUS_AND_REPOSITORY_RECONCILIATION",
+                    "G7_CUTOVER_PREPARATION",
+                )
+                self.assertEqual(
+                    document["migration"]["current_subphase"],
+                    "G7_AWAITING_FRESH_OWNER_DRIVE_FREEZE_AND_DELTA_AUTHORIZATION",
+                )
+                self.assertEqual(
+                    document["migration"]["g6_phase_closure"]["published_commit"],
+                    "663df66eefe72acfc57d47076b836e6c7c0a5a2e",
                 )
         self.assertEqual(
             self.scope["before_verified_g8_activation"]["analytical_authority"],
