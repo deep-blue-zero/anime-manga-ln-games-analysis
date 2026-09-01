@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: V02
 generation: V1
 status: active_provisional
-source_boundary: "Japanese main-series light novel Volume 2 main narrative; ebook bonus quarantined pending chronology adjudication"
+source_boundary: Japanese main-series light novel Volume 2 main narrative; ebook bonus quarantined pending chronology adjudication
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

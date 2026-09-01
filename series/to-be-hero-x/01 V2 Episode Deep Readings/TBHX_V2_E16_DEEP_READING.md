@@ -5,21 +5,21 @@ scope: E16
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 16 analytical bundle; S01E01-S01E16 broadcast knowledge only; explicit next-episode preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 16 analytical bundle; S01E01-S01E16 broadcast knowledge only; explicit next-episode preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 16 Deep Reading"
+title: To Be Hero X V2 — Episode 16 Deep Reading
 season: 1
 episode: 16
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e16_screenshots.zip"
-source_bundle_sha256: "1b665a43b97ebde062425c4631b06767694b00f90aee2875eb840b7ab641aa12"
+analysis_version: '2.0'
+source_bundle: BHX_s01e16_screenshots.zip
+source_bundle_sha256: 1b665a43b97ebde062425c4631b06767694b00f90aee2875eb840b7ab641aa12
 source_bundle_bytes: 257903940
 source_duration_seconds: 1518.677
-program_start_seconds: 33.500
-analysis_start_seconds: 33.250
+program_start_seconds: 33.5
+analysis_start_seconds: 33.25
 mandarin_cue_count: 264
 mandarin_ocr_mean_confidence: 0.992338
 mandarin_ocr_median_confidence: 0.998708
@@ -30,12 +30,12 @@ japanese_aligned_cue_count: 318
 contact_sheet_count: 50
 kept_screenshot_count: 984
 scene_index_count: 20
-spoiler_boundary: "S01E01-S01E16 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
-naming_authority: "TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state"
+spoiler_boundary: S01E01-S01E16 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
+naming_authority: TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state
 ---
 
 # To Be Hero X V2 — Episode 16 Deep Reading

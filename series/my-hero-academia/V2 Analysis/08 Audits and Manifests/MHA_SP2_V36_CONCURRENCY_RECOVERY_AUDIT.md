@@ -2,12 +2,12 @@
 series: MHA
 artifact_type: audit
 scope: V36
-scope_detail: "V36 closeout duplicate-write reconciliation"
+scope_detail: V36 closeout duplicate-write reconciliation
 generation: V2
 status: canonical
-source_boundary: "Japanese manga Volume 36 through frozen V36:p197; archival state only, no V37+ analytical evidence"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga Volume 36 through frozen V36:p197; archival state only, no V37+ analytical evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

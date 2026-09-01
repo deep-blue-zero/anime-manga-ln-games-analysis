@@ -7,11 +7,11 @@ generation: V1
 status: canonical
 semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "R2 clean narrative surface: 72 Baltimore direct-presence scenes / 276 Baltimore narrative dialogue records, four-part memory anchor, established character-dialogue/social evidence routed by R1; nine false actor joins excluded"
+source_boundary: 'R2 clean narrative surface: 72 Baltimore direct-presence scenes / 276 Baltimore narrative dialogue records, four-part memory anchor, established character-dialogue/social evidence routed by R1; nine false actor joins excluded'
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
-supersedes: null
-superseded_by: null
+method_version: 1.0.0
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

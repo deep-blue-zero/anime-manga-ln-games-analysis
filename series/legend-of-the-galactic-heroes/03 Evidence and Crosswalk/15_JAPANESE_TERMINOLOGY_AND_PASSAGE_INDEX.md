@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Japanese Terminology and Passage Index"
-subtitle: "Exact-language retrieval layer for names, political vocabulary, military concepts, relationship registers, narratorial formulas, and load-bearing passages"
-version: "1.0"
-date: "2026-08-11"
-source_status_label: "Completed Japanese-language reference appendix"
+title: 銀河英雄伝説 — Japanese Terminology and Passage Index
+subtitle: Exact-language retrieval layer for names, political vocabulary, military concepts, relationship registers, narratorial formulas, and load-bearing passages
+version: '1.0'
+date: '2026-08-11'
+source_status_label: Completed Japanese-language reference appendix
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G01–G05 fiction; G05 interview explicitly isolated as paratext"
+primary_sources: M01–M10; G01–G05 fiction; G05 interview explicitly isolated as paratext
 ---
 
 # 銀河英雄伝説

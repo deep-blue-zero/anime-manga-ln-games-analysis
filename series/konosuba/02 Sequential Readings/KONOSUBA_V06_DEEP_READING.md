@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: V06
 generation: V1
 status: active_provisional
-source_boundary: "Japanese main-series light novel Volume 06 main narrative, including interlude and two narrative epilogues; author afterword excluded from character-model derivation"
+source_boundary: Japanese main-series light novel Volume 06 main narrative, including interlude and two narrative epilogues; author afterword excluded from character-model derivation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

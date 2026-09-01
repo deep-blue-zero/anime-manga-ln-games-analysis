@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CUMULATIVE_THROUGH_V14
 generation: V2
 status: active_provisional
-source_boundary: "Locked Japanese prose evidence through HIBIKE-V14; V1 comparison complete through legacy unit 10; V13-V14 are V2-only source expansions"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese prose evidence through HIBIKE-V14; V1 comparison complete through legacy unit 10; V13-V14 are V2-only source expansions
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

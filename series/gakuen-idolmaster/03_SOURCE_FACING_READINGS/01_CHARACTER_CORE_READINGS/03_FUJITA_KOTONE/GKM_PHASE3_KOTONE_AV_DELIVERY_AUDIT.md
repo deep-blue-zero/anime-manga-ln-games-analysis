@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_FUJITA_KOTONE_PHASE3_AV_DELIVERY
-character: "Fujita Kotone / 藤田ことね"
+character: Fujita Kotone / 藤田ことね
 generation: V2
 status: canonical
-source_boundary: "Analytical delivery package for the completed Kotone Phase-3 audiovisual baseline; source media and extracted visual/audio payloads excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Analytical delivery package for the completed Kotone Phase-3 audiovisual baseline; source media and extracted visual/audio payloads excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 — Fujita Kotone Audiovisual Baseline Delivery Audit"
-version: "2.0"
-created: "2026-08-15"
+title: Gakuen Idolmaster V2 — Fujita Kotone Audiovisual Baseline Delivery Audit
+version: '2.0'
+created: '2026-08-15'
 result: passed
 ---
 

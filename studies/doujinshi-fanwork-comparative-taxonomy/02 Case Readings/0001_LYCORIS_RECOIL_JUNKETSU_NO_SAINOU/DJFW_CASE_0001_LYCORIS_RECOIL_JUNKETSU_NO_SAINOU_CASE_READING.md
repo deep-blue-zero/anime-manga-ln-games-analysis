@@ -2,22 +2,22 @@
 project: DJFW
 artifact_type: case_reading
 case_id: DJFW_CASE_0001
-title_original: "純潔の才能"
-title_romanized: "Junketsu no Sainou"
-title_working_english: "Gift of Purity / Junketsu no Sainou"
-franchise: "Lycoris Recoil"
-creator_or_circle: "Bad Mushrooms (Chicke III, 4why)"
+title_original: 純潔の才能
+title_romanized: Junketsu no Sainou
+title_working_english: Gift of Purity / Junketsu no Sainou
+franchise: Lycoris Recoil
+creator_or_circle: Bad Mushrooms (Chicke III, 4why)
 r18_status: r18
-pairing_or_focus: "Chisato Nishikigi / Takina Inoue"
+pairing_or_focus: Chisato Nishikigi / Takina Inoue
 generation: V1
 status: active_provisional
-source_boundary: "Uploaded CBZ; 81-page image extraction and page-order manifest complete; non-graphic first and second-pass case reading including afterward/bonus chemistry; no full OCR/transcription."
-baseline_readiness: "A-/B+"
-voice_outcome: "main dyad: voice-preserving to voice-intensifying with genre flattening pressure"
-subjecthood_outcome: "main dyad: partially subject-preserving within R18 scenario; selected gag/bonus material out-of-scope for detailed erotic analysis"
-canon_relation: "R18 intensification; affectionate parody; institutional premise literalization; canon-aware IF-adjacent branch"
-supersedes: null
-superseded_by: null
+source_boundary: Uploaded CBZ; 81-page image extraction and page-order manifest complete; non-graphic first and second-pass case reading including afterward/bonus chemistry; no full OCR/transcription.
+baseline_readiness: A-/B+
+voice_outcome: 'main dyad: voice-preserving to voice-intensifying with genre flattening pressure'
+subjecthood_outcome: 'main dyad: partially subject-preserving within R18 scenario; selected gag/bonus material out-of-scope for detailed erotic analysis'
+canon_relation: R18 intensification; affectionate parody; institutional premise literalization; canon-aware IF-adjacent branch
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

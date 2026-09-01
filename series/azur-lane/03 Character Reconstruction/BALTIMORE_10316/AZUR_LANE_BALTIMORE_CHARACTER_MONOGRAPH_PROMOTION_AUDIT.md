@@ -6,20 +6,20 @@ generation: V1
 status: canonical
 semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "Baltimore V1 integrated monograph after R5-R8 validation, canonical claim-revision ledger, and completed 100/100 JP quantitative performed-voice specialist; nine false actor joins excluded"
+source_boundary: Baltimore V1 integrated monograph after R5-R8 validation, canonical claim-revision ledger, and completed 100/100 JP quantitative performed-voice specialist; nine false actor joins excluded
 target_artifact: AZUR_LANE_BALTIMORE_CHARACTER_MONOGRAPH.md
 target_generation: V1
 claim_revision_ledger: AZUR_LANE_BALTIMORE_CLAIM_REVISION_LEDGER.md
 promotion_result: PROMOTE_TO_CANONICAL_V1
 transaction_status: complete
-promoted_at: "2026-08-24T17:05:00-04:00"
-master_index_version: "3.69"
-identity_quarantine: "9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records"
+promoted_at: '2026-08-24T17:05:00-04:00'
+master_index_version: '3.69'
+identity_quarantine: '9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records'
 performed_voice_status: quantitative_jp_performed_voice_established_ear_dependent_timbre_open
 readiness_score: 82.91
 readiness_score_status: frozen_pre_remediation
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

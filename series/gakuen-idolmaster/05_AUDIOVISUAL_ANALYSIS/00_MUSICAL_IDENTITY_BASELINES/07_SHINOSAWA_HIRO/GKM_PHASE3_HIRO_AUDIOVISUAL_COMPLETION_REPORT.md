@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: completion_report
 scope: CHARACTER_SHINOSAWA_HIRO_PHASE3_AV_COMPLETION
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "Complete audited Hiro AV release based on 33 staged objects and Source Lock 1.0 textual control"
-supersedes: null
-superseded_by: null
+source_boundary: Complete audited Hiro AV release based on 33 staged objects and Source Lock 1.0 textual control
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shinosawa Hiro Phase-3 AV Completion Report"
-parent_authority: "GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shinosawa Hiro Phase-3 AV Completion Report
+parent_authority: GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # PHASE 3 — HIRO AUDIOVISUAL COMPLETION REPORT

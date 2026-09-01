@@ -5,14 +5,14 @@ generation: V1
 semantic_authority: CN
 azurlane_data_commit: 4cca5c2437007b62d30a6235fcfc0c0203231378
 story_lua_witness_commit: d93f83db24195981c5f5ca90ac5e29ce0580b12c
-source_package_generated_at: "2026-08-23T18:55:47.426186Z"
-supersedes: null
-superseded_by: null
+source_package_generated_at: '2026-08-23T18:55:47.426186Z'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 artifact_type: claim_revision_ledger
 scope: BREMERTON_10324_V1
 status: canonical
-source_boundary: "R0-R8 textual/behavioral reconstruction plus 100/101 directly retrieved, hash-verified, quantitatively measured JP mapped WAVs; one 103245 login waveform remains outside direct acoustic measurement"
+source_boundary: R0-R8 textual/behavioral reconstruction plus 100/101 directly retrieved, hash-verified, quantitatively measured JP mapped WAVs; one 103245 login waveform remains outside direct acoustic measurement
 ---
 
 # Azur Lane — Bremerton V1 Claim Revision Ledger

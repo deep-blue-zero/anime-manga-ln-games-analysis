@@ -4,12 +4,12 @@ artifact_type: corpus_map
 scope: project_current_state
 generation: V1
 status: active_provisional
-source_boundary: "Japanese light novel Volumes 01-14 frozen as IMOSAE-JP-LN-RAW-1.0; supplemental corpus not yet acquired/audited"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novel Volumes 01-14 frozen as IMOSAE-JP-LN-RAW-1.0; supplemental corpus not yet acquired/audited
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.24"
-date: "2026-08-19"
+version: '1.24'
+date: '2026-08-19'
 ---
 
 # IMOSAE — Current State and Corpus Map

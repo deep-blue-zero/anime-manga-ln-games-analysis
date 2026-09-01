@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "character_monograph"
-scope: "Nabatame Haru"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episodes 1-12 V1 analysis"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: character_monograph
+scope: Nabatame Haru
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episodes 1-12 V1 analysis
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 32
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 # Haru deep dive: the girl who wants to become a signpost, but fears becoming the sun
@@ -23,11 +23,11 @@ The shortest version is:
 
 That makes her one of the more interesting idol-anime leads. She is not a girl who lacks talent, nor a girl who needs to discover her dream, nor a girl who begins from ordinary mediocrity and climbs through grit. She already has the dream. She already has the talent. Her problem is that her talent once harmed someone she loved, so she turned kindness into self-limitation.
 
-The broader series synthesis identifies this as one of *SHINE POST*’s central achievements: the show treats idol “truth” as something that must be given form, not merely expressed raw, and Haru’s story is the most painful version of that problem.[
+The broader series synthesis identifies this as one of *SHINE POST*’s central achievements: the show treats idol “truth” as something that must be given form, not merely expressed raw, and Haru’s story is the most painful version of that problem.
 
 SHINE POST Truthful Performance
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=beac94a3-5f7a-4892-b133-b2f64cad1104&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Haru’s surface: the pure idol believer
 
@@ -340,11 +340,11 @@ The self-restraint became the lie.
 
 # Comparison points
 
-Haru has some overlap with Kanon Shibuya from *Love Live! Superstar!!*, but the difference is revealing. Kanon’s wound is that her talent fails under judgment; she has to make singing livable again. Haru’s wound is that her talent succeeds too powerfully; she has to make brilliance survivable for others. The earlier series synthesis identifies this distinction cleanly: Kanon’s problem is failure under judgment, while Haru’s problem is talent that harms others.[
+Haru has some overlap with Kanon Shibuya from *Love Live! Superstar!!*, but the difference is revealing. Kanon’s wound is that her talent fails under judgment; she has to make singing livable again. Haru’s wound is that her talent succeeds too powerfully; she has to make brilliance survivable for others. The earlier series synthesis identifies this distinction cleanly: Kanon’s problem is failure under judgment, while Haru’s problem is talent that harms others.
 
 SHINE POST Truthful Performance
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=beac94a3-5f7a-4892-b133-b2f64cad1104&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 She also contrasts with Mana Nagase from *IDOLY PRIDE*. Mana becomes a mythic dead star whose legacy reshapes the idol world. Haru is not a myth yet; she is a living girl trying not to become an isolating sun. Hotaru, not Haru, occupies the mythic-origin position in *SHINE POST*. Haru is the one trying to inherit that light without burning the people beside her.
 

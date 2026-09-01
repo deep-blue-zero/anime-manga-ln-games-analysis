@@ -4,12 +4,16 @@ artifact_type: character_monograph
 scope: ST_LOUIS_10213
 generation: V1
 status: canonical
-source_boundary: "Pinned Azur Lane multilingual extracted character corpus; CN-origin semantic reconstruction with JP/EN/TW/KR regional witnesses; no dedicated character-memory sequence"
+source_boundary: Pinned Azur Lane multilingual extracted character corpus; CN-origin semantic reconstruction with JP/EN/TW/KR regional witnesses; no dedicated character-memory sequence
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
-source_build_id: "AZL-2026-08-22-4cca5c24-cc8e9fdf"
+method_version: 1.0.0
+source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 readiness_grade: C
 readiness_score: 57.3
 monograph_scope: constrained
@@ -23,8 +27,8 @@ jp_audio_reconciliation_audit: AZUR_LANE_ST_LOUIS_JP_AUDIO_RECONCILIATION_AUDIT.
 jp_voice_performance_profile: AZUR_LANE_ST_LOUIS_JP_VOICE_PERFORMANCE_PROFILE.md
 monograph_impact_ledger: AZUR_LANE_ST_LOUIS_MONOGRAPH_IMPACT_LEDGER.md
 archival_state: frozen_v1
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

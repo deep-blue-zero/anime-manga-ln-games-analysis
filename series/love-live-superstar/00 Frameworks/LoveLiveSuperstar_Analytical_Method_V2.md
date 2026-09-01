@@ -1,23 +1,23 @@
 ---
-title: "Love Live! Superstar!! — Analytical Method V2"
+title: Love Live! Superstar!! — Analytical Method V2
 series: LLS
 artifact_type: analytical_method
-scope: "TV S1E01-S3E12"
+scope: TV S1E01-S3E12
 generation: V2.3
-version: "2.3"
-date: "2026-08-26"
+version: '2.3'
+date: '2026-08-26'
 status: canonical
-protocol_status: "Governing sequential, audiovisual, character-modeling, and retrospective analytical protocol"
-source_boundary: "Japanese-audio television corpus; sequential semantic seal applies"
-supersedes: null
-superseded_by: null
+protocol_status: Governing sequential, audiovisual, character-modeling, and retrospective analytical protocol
+source_boundary: Japanese-audio television corpus; sequential semantic seal applies
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 primary_corpus:
-  - "Season 1 — Episodes 1–12"
-  - "Season 2 — Episodes 1–12"
-  - "Season 3 — Episodes 1–12"
-source_root: "Google Drive primary-source corpus"
-paired_with: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md"
+- Season 1 — Episodes 1–12
+- Season 2 — Episodes 1–12
+- Season 3 — Episodes 1–12
+source_root: Google Drive primary-source corpus
+paired_with: LoveLiveSuperstar_Multi_Document_Architecture_V2.md
 ---
 
 # Love Live! Superstar!! — Analytical Method V2

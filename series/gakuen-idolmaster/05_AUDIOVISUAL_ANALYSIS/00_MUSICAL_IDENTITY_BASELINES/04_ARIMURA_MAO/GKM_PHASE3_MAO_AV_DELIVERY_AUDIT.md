@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: delivery_audit
 scope: CHARACTER_ARIMURA_MAO_PHASE3_COMPLETE_AV
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "QA and archival audit for the complete 24-object Mao integrated AV release"
-supersedes: null
-superseded_by: null
+source_boundary: QA and archival audit for the complete 24-object Mao integrated AV release
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
+last_updated: '2026-08-17'
 ---
 
 # GAKUEN IDOLMASTER V2 — MAO INTEGRATED AV DELIVERY AUDIT

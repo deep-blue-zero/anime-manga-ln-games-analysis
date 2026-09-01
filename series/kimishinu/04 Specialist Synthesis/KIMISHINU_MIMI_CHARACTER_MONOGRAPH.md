@@ -4,13 +4,13 @@ artifact_type: character_monograph
 scope: MIMI
 generation: V1
 status: canonical
-source_boundary: "Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06"
+source_boundary: Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06
 integrated_boundary: V09+SIDE_STORIES
 numbered_prospective_boundary: V09
-character: "Gagari Mimi / ガガリ・ミミ"
+character: Gagari Mimi / ガガリ・ミミ
 simulation_ready: true
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -2,7 +2,7 @@
 series: KIMISHINU
 artifact_type: audit
 scope: FULL_SERIES_SYNTHESIS_VALIDATION
-source_boundary: "Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06"
+source_boundary: Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06
 integrated_boundary: V09+SIDE_STORIES
 numbered_prospective_boundary: V09
 generation: V1
@@ -11,11 +11,11 @@ validated_artifact: KIMISHINU_FULL_SERIES_SYNTHESIS.md
 validated_artifact_generation: V1
 validated_literary_body_sha256: 5e66284a3d791d7ee23ac4ac272b1193b4a4bdea1575dd0faa3fead4b9416d3b
 governing_architecture: KIMISHINU_SYNTHESIS_ARCHITECTURE.md
-governing_architecture_revision: "1.0"
+governing_architecture_revision: '1.0'
 reasoning_class: DEEP_SYNTHESIS
 outcome: PASS_WITH_NON_BLOCKING_OPEN_ITEMS
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

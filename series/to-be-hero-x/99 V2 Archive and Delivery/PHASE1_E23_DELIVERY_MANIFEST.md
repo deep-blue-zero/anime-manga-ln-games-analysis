@@ -4,10 +4,12 @@ artifact_type: manifest
 scope: E23_freeze
 generation: V2
 status: canonical
-source_boundary: "Episode 23 frozen; Episode 24 unopened"
-supersedes: "TBHX_V2_E23_WORKING_MANIFEST.md"
-superseded_by: null
+source_boundary: Episode 23 frozen; Episode 24 unopened
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
+legacy_supersession_notes:
+- 'legacy supersedes path lacks a complete authority quartet: series/to-be-hero-x/04 V2 Evidence and Revision/TBHX_V2_E23_WORKING_MANIFEST.md'
 ---
 
 # PHASE1 E23 Delivery Manifest

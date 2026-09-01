@@ -7,9 +7,9 @@ generation: V2
 phase: 2
 tranche: 03A
 status: canonical
-source_boundary: "Frozen Mandarin-primary E01–E24 corpus plus the first systematic official multilingual naming audit"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary E01–E24 corpus plus the first systematic official multilingual naming audit
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-16
 ---

@@ -4,18 +4,18 @@ artifact_type: character_monograph
 scope: HARU
 generation: V1
 status: canonical
-source_boundary: "Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06"
+source_boundary: Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06
 integrated_boundary: V09+SIDE_STORIES
 numbered_prospective_boundary: V09
-character: "Haru / ハル"
+character: Haru / ハル
 simulation_ready: true
 reasoning_class: DEEP_SYNTHESIS
-resolved_reasoning_option: "GPT-5.6 Sol Extra High"
+resolved_reasoning_option: GPT-5.6 Sol Extra High
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
-reasoning_policy_version: "1.0"
-reasoning_mapping_verified_date: "2026-08-27"
-supersedes: null
-superseded_by: null
+reasoning_policy_version: '1.0'
+reasoning_mapping_verified_date: '2026-08-27'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

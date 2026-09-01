@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: handoff
 scope: CHARACTER_HANAMI_UME_PHASE3_CORE
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0; audiovisual inspection pending"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0; audiovisual inspection pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # PHASE 3 UME CORE PASS REPORT

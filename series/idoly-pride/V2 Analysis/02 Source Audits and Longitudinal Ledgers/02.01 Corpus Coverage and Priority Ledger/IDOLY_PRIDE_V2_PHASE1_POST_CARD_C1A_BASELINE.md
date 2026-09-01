@@ -5,24 +5,26 @@ artifact_role: CHECKPOINT
 scope: POST_PHASE1_CARD_C1A
 filename: IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1A_BASELINE.md
 generation: V2
-version: "1.0"
-status: canonical
-phase: "1"
+version: '1.0'
+status: superseded
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Tier-A complete + all 60 events as previously frozen + B1-A/B2-A/B2-B/B3 bonds + C1-A cards card_kan_007, card_kan_014, card_suz_003, card_kor_005, card_hrk_009, card_mhk_011, card_mhk_006 + exact routed companion messages message-card-kan-05-fest-02, message-card-suz-05-anml-00, message-card-kor-05-fest-02, message-card-hrk-05-link-00, message-card-mhk-05-pajm-00, message-card-mhk-05-fest-02. B4 remains indexed texture; C1-B/C2/C3 cards, unrelated messages, and specials are not admitted by this checkpoint."
+source_boundary: Tier-A complete + all 60 events as previously frozen + B1-A/B2-A/B2-B/B3 bonds + C1-A cards card_kan_007, card_kan_014, card_suz_003, card_kor_005, card_hrk_009, card_mhk_011, card_mhk_006 + exact routed companion messages message-card-kan-05-fest-02, message-card-suz-05-anml-00, message-card-kor-05-fest-02, message-card-hrk-05-link-00, message-card-mhk-05-pajm-00, message-card-mhk-05-fest-02. B4 remains indexed texture; C1-B/C2/C3 cards, unrelated messages, and specials are not admitted by this checkpoint.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B3_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1_CARD_C1A_CLOSE_READ_AUDIT.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1_CARD_C1A_PRIMARY_FINDINGS_FREEZE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1_LOWER_TIER_CLOSE_READ_QUEUE.md
-supersedes: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B3_BASELINE.md
-superseded_by: null
-do_not_use_as_current_authority: false
+supersedes:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1_POST_BOND_B3_BASELINE.md
+superseded_by:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md
+do_not_use_as_current_authority: true
 integrity_status: FROZEN_POST_CARD_C1A_REFERENCE_BEFORE_C1B
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 Card Close Read — C1-B: relationship and late-state authorship"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: 'Phase 1 Card Close Read — C1-B: relationship and late-state authorship'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — POST-CARD C1-A GOVERNING BASELINE

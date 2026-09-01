@@ -4,17 +4,17 @@ artifact_type: deep_reading
 scope: V13
 generation: V1
 status: canonical
-source_boundary: "Japanese light novel Volume 13; prior authority limited to four frozen checkpoints through V12; no V14 semantic evidence"
+source_boundary: Japanese light novel Volume 13; prior authority limited to four frozen checkpoints through V12; no V14 semantic evidence
 raw_source_set: IMOSAE-JP-LN-RAW-1.0
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
 visual_index_version: IMOSAE-VISUAL-INDEX-1.0
 previous_checkpoint: IMOSAE_V10-V12_CHECKPOINT.md
 previous_reading: IMOSAE_V12_DEEP_READING.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-20"
+version: '1.0'
+date: '2026-08-20'
 ---
 
 # 妹さえいればいい。 Volume 13 Deep Reading

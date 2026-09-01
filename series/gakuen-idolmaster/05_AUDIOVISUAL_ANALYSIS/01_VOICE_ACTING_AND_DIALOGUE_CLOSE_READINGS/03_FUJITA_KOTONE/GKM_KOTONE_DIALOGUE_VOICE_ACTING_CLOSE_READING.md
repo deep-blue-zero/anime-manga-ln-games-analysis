@@ -2,17 +2,17 @@
 series: GKM
 artifact_type: dialogue_voice_close_reading
 scope: CHARACTER_FUJITA_KOTONE_PHASE3_AV
-character: "Fujita Kotone / 藤田ことね"
+character: Fujita Kotone / 藤田ことね
 generation: V2
 status: canonical
-source_boundary: "Directly inspected Dear 1–10 and 21–27 compilations, eight song commus, Source Lock 1.0 dialogue/raw controls; Dear 11–20 exact text aligned but staged render not materialized"
-supersedes: null
-superseded_by: null
+source_boundary: Directly inspected Dear 1–10 and 21–27 compilations, eight song commus, Source Lock 1.0 dialogue/raw controls; Dear 11–20 exact text aligned but staged render not materialized
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 — Fujita Kotone Dialogue and Voice-Acting Close Reading"
-version: "2.0"
-phase: "3 — Character-Core Readings / Audiovisual Baseline"
-created: "2026-08-15"
+title: Gakuen Idolmaster V2 — Fujita Kotone Dialogue and Voice-Acting Close Reading
+version: '2.0'
+phase: 3 — Character-Core Readings / Audiovisual Baseline
+created: '2026-08-15'
 ---
 
 # FUJITA KOTONE — DIALOGUE AND VOICE-ACTING CLOSE READING

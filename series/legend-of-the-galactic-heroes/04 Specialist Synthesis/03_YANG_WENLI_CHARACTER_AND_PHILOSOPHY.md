@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Yang Wen-li: Character, Philosophy, and Democratic Restraint"
-subtitle: "Historical skepticism, democratic legitimacy, ordinary life, and the ethics of restraint"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed second-tranche protagonist document"
+title: '銀河英雄伝説 — Yang Wen-li: Character, Philosophy, and Democratic Restraint'
+subtitle: Historical skepticism, democratic legitimacy, ordinary life, and the ethics of restraint
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed second-tranche protagonist document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G02; G03; G04"
+primary_sources: M01–M10; G02; G03; G04
 ---
 
 # 銀河英雄伝説

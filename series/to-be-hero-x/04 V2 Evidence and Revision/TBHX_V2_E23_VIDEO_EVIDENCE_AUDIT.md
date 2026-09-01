@@ -4,11 +4,11 @@ artifact_type: evidence_audit
 scope: E23
 generation: V2
 status: canonical
-source_boundary: "Episode 23 supplemental motion evidence; E24 excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 23 supplemental motion evidence; E24 excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 23 Video Evidence Audit"
+title: To Be Hero X V2 — Episode 23 Video Evidence Audit
 ---
 
 # To Be Hero X V2 — Episode 23 Video Evidence Audit

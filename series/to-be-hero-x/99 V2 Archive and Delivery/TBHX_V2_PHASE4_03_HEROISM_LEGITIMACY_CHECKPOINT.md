@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: specialist_completion_checkpoint
-scope: "Phase 4 Document 03 — heroism, power, legitimacy, dignity, and coercion"
+scope: Phase 4 Document 03 — heroism, power, legitimacy, dignity, and coercion
 generation: V2
 phase: 4
-specialist_number: 03
+specialist_number: 3
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical and claim authorities; canonical Phase-3 Specialists 06-16; Phase-4 Documents 01-02; targeted and episode-specific audiovisual evidence where required"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical and claim authorities; canonical Phase-3 Specialists 06-16; Phase-4 Documents 01-02; targeted and episode-specific audiovisual evidence where required
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

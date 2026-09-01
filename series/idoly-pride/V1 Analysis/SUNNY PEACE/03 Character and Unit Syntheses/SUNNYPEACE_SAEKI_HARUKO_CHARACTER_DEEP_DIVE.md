@@ -1,23 +1,25 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "character_monograph"
-scope: "SUNNY PEACE / Saeki Haruko"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed synthesis/reconstruction"
+series: IDOLY_PRIDE
+artifact_type: character_monograph
+scope: SUNNY PEACE / Saeki Haruko
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md
 source_turn: 102
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed synthesis/reconstruction'
 ---
 
-This Haruko-focused document builds from the updated SUNNY PEACE reference, especially the later Haruko material that reframes her as “delayed-blooming hearth” and “Hoshimi’s living bridge,” plus the event-analysis notes on her Okinawa rain trauma, Mana promise material, Rei/Haruko battle, and SUNNY PEACE’s fan-facing growth.[
+This Haruko-focused document builds from the updated SUNNY PEACE reference, especially the later Haruko material that reframes her as “delayed-blooming hearth” and “Hoshimi’s living bridge,” plus the event-analysis notes on her Okinawa rain trauma, Mana promise material, Rei/Haruko battle, and SUNNY PEACE’s fan-facing growth.
 
 Rewritten SUNNY PEACE Reference
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3b4b0e-d39c-83ea-a068-10f43f5e5d7f?messageId=2785aabc-643e-4159-98c6-f32452d53742&conversation_save=1)Pasted markdown
+ _(historical external conversation reference unavailable in Git)_Pasted markdown
 
 # Saeki Haruko: Character, Voice, Visual Design, and Thematic Analysis
 

@@ -4,9 +4,9 @@ artifact_type: japanese_dialogue_and_register_audit
 scope: V11
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 11 only; 216 manga images; SHA-256 d21c1530fe953a53d838fcc8fb45459479b5cc95ffd8e208d4834e56efcc5165"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 11 only; 216 manga images; SHA-256 d21c1530fe953a53d838fcc8fb45459479b5cc95ffd8e208d4834e56efcc5165
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 audit_result: PASS
 created: 2026-08-25

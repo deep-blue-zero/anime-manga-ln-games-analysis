@@ -2,12 +2,12 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_04_ARIMURA_MAO
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "Phase-3 Mao textual delivery; no AV inspected"
-supersedes: null
-superseded_by: null
+source_boundary: Phase-3 Mao textual delivery; no AV inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

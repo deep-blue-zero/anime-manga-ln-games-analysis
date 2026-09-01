@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "deep_reading"
-scope: "E02"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episode 2, Japanese subtitle/visual packet"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: deep_reading
+scope: E02
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episode 2, Japanese subtitle/visual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 4
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 Good correction. I’ll treat **日生優希 / Yuuki Hinase** as a woman going forward. That also changes the reading of Episode 1 slightly: her pressure on TiNgS is not “old male agency boss hardball,” but a more elegant, knowingly manipulative female president placing Naoki and TiNgS into a calculated crisis.

@@ -5,23 +5,23 @@ scope: E09
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 9 analytical bundle; S01E01-S01E09 broadcast knowledge only"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 9 analytical bundle; S01E01-S01E09 broadcast knowledge only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 09 Deep Reading"
+title: To Be Hero X V2 — Episode 09 Deep Reading
 season: 1
 episode: 9
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e09_screenshots.zip"
-source_bundle_sha256: "ef427acdcd6352d379de0d57483a6b077e04c8f797d203e61895543aa73a148f"
+analysis_version: '2.0'
+source_bundle: BHX_s01e09_screenshots.zip
+source_bundle_sha256: ef427acdcd6352d379de0d57483a6b077e04c8f797d203e61895543aa73a148f
 source_bundle_bytes: 297588281
 source_duration_seconds: 1584.768
-program_start_seconds: 38.250
-analysis_start_seconds: 38.000
+program_start_seconds: 38.25
+analysis_start_seconds: 38.0
 mandarin_cue_count: 207
-mandarin_ocr_mean_confidence: 0.992870
+mandarin_ocr_mean_confidence: 0.99287
 mandarin_ocr_median_confidence: 0.998875
 mandarin_ocr_min_confidence: 0.852297
 low_confidence_events: 0
@@ -29,11 +29,11 @@ japanese_paired_mandarin_cues: 190
 japanese_aligned_cue_count: 316
 contact_sheet_count: 51
 kept_screenshot_count: 1014
-spoiler_boundary: "S01E01-S01E09 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
+spoiler_boundary: S01E01-S01E09 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
 ---
 
 # To Be Hero X V2 — Episode 09 Deep Reading

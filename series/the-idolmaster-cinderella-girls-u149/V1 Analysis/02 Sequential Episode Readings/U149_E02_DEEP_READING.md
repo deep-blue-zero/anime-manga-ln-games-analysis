@@ -1,16 +1,17 @@
 ---
-series: "U149"
-artifact_type: "deep_reading"
-scope: "E02"
-generation: "V1"
-status: "canonical"
-source_boundary: "U149 anime Episode 2; Japanese audiovisual analysis bundle"
+series: U149
+artifact_type: deep_reading
+scope: E02
+generation: V1
+status: canonical
+source_boundary: U149 anime Episode 2; Japanese audiovisual analysis bundle
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - U149 Deep Analysis - Full Transcript.md"
-source_turns: [21]
-authority_note: "Preserved transcript analysis."
+source_transcript: Manga and anime discussions - U149 Deep Analysis - Full Transcript.md
+source_turns:
+- 21
+authority_note: Preserved transcript analysis.
 ---
 
 <!-- transcript_source_turn: 21 -->

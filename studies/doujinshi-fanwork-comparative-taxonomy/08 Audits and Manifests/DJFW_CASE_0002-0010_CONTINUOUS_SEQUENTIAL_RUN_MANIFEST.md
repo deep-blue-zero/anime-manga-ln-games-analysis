@@ -6,13 +6,13 @@ generation: V1
 status: canonical
 analysis_mode: continuous_sequential
 run_date: 2026-08-28
-source_boundary: "Nine user-supplied Idolmaster / Gakuen Idolmaster CBZ fanworks reviewed sequentially under the DJFW non-graphic policy. Explicit material involving school-age/minor-coded characters is not transcribed or described; Typehatena case 0010 is categorical-only."
+source_boundary: Nine user-supplied Idolmaster / Gakuen Idolmaster CBZ fanworks reviewed sequentially under the DJFW non-graphic policy. Explicit material involving school-age/minor-coded characters is not transcribed or described; Typehatena case 0010 is categorical-only.
 authorized_start: DJFW_CASE_0002
 terminal_boundary: DJFW_CASE_0010
 committed_high_water_mark: DJFW_CASE_0010
 run_state: completed
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

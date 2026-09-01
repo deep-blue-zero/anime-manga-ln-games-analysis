@@ -4,13 +4,13 @@ artifact_type: claim_revision_ledger
 scope: ST_LOUIS_10213_CLOSURE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "R5 adversarial audit; R6 relationship synthesis; R7 multilingual speech profile; reconciled 71-utterance JP performed corpus"
+source_boundary: R5 adversarial audit; R6 relationship synthesis; R7 multilingual speech profile; reconciled 71-utterance JP performed corpus
 target_artifact: AZUR_LANE_ST_LOUIS_CHARACTER_MONOGRAPH.md
 target_generation: V1
 target_status_at_review: active_provisional
 semantic_authority: CN
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

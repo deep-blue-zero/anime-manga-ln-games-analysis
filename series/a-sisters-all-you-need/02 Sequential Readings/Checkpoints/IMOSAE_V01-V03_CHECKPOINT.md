@@ -5,15 +5,15 @@ scope: V01-V03
 generation: V1
 status: canonical
 checkpoint_state: frozen
-source_boundary: "Japanese numbered light novels V01-V03; canonical normalized source IMOSAE-JP-LN-NORM-1.0; canonical visual index IMOSAE-VISUAL-INDEX-1.0; no V04-V14 semantic evidence"
-prospective_boundary: "V01, V02, and V03 only"
-claim_boundary: "IM-C001-IM-C016"
-evidence_boundary: "IM-V01-E001-E050; IM-V02-E001-E103; IM-V03-E001-E131"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese numbered light novels V01-V03; canonical normalized source IMOSAE-JP-LN-NORM-1.0; canonical visual index IMOSAE-VISUAL-INDEX-1.0; no V04-V14 semantic evidence
+prospective_boundary: V01, V02, and V03 only
+claim_boundary: IM-C001-IM-C016
+evidence_boundary: IM-V01-E001-E050; IM-V02-E001-E103; IM-V03-E001-E131
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-18"
+version: '1.0'
+date: '2026-08-18'
 ---
 
 # 『妹さえいればいい。』 V01–V03 Checkpoint

@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FURINA_MONOGRAPH_V1
 generation: V1
 status: canonical
-source_boundary: "Genshin Impact 7.0.0 Tier-A normalized corpus; Furina V1 layered source lock"
+source_boundary: Genshin Impact 7.0.0 Tier-A normalized corpus; Furina V1 layered source lock
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

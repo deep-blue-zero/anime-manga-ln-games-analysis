@@ -5,108 +5,108 @@ artifact_type: deep_reading
 scope: V31
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-26"
-source_boundary: "Japanese manga Volume 31, Chapters 123-126; spoiler boundary through Volume 31 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-26'
+source_boundary: Japanese manga Volume 31, Chapters 123-126; spoiler boundary through Volume 31 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "31"
-chapters: "123-126"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '31'
+chapters: 123-126
 chapter_titles:
-  - "第123話 島の悪魔"
-  - "第124話 氷解"
-  - "第125話 夕焼け"
-  - "第126話 矜持"
+- 第123話 島の悪魔
+- 第124話 氷解
+- 第125話 夕焼け
+- 第126話 矜持
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v31 (2020) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1GJ2X9eyENY856aq_AXI1KPKQruzCiP4g"
-source_sha256: "4cadab155eaa5dbf25b64c225c720795113ab455bbbc407273156b4af496638b"
+source_file: Attack on Titan v31 (2020) (Digital SD) (KG Manga).cbz
+source_drive_id: 1GJ2X9eyENY856aq_AXI1KPKQruzCiP4g
+source_sha256: 4cadab155eaa5dbf25b64c225c720795113ab455bbbc407273156b4af496638b
 source_size_bytes: 105187964
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 31 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 31 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_material_source: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
+prospective_material_source: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
 prospective_register_frozen_before_source_exposure: true
-previous_checkpoint: "AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md"
+previous_checkpoint: AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
 post_checkpoint_sequence_position: 4
-next_volume_boundary: "Volume 32 remains analytically locked until V31 integration is complete"
+next_volume_boundary: Volume 32 remains analytically locked until V31 integration is complete
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Jean Kirstein / ジャン・キルシュタイン"
-  - "Connie Springer / コニー・スプリンガー"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Falco Grice / ファルコ・グライス"
-  - "Annie Leonhart / アニ・レオンハート"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Hange Zoe / ハンジ・ゾエ"
-  - "Levi Ackerman / リヴァイ・アッカーマン"
-  - "Pieck Finger / ピーク・フィンガー"
-  - "Theo Magath / テオ・マガト"
-  - "Floch Forster / フロック・フォルスター"
-  - "Onyankopon / オニャンコポン"
-  - "Kaya / カヤ"
-  - "Louise / ルイーゼ"
-  - "Hitch Dreyse / ヒッチ・ドリス"
+- Eren Jaeger / エレン・イェーガー
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Armin Arlert / アルミン・アルレルト
+- Jean Kirstein / ジャン・キルシュタイン
+- Connie Springer / コニー・スプリンガー
+- Gabi Braun / ガビ・ブラウン
+- Falco Grice / ファルコ・グライス
+- Annie Leonhart / アニ・レオンハート
+- Reiner Braun / ライナー・ブラウン
+- Hange Zoe / ハンジ・ゾエ
+- Levi Ackerman / リヴァイ・アッカーマン
+- Pieck Finger / ピーク・フィンガー
+- Theo Magath / テオ・マガト
+- Floch Forster / フロック・フォルスター
+- Onyankopon / オニャンコポン
+- Kaya / カヤ
+- Louise / ルイーゼ
+- Hitch Dreyse / ヒッチ・ドリス
 major_topics:
-  - genocide and protective jurisdiction
-  - complicity without moral equivalence
-  - category thaw and person-level recognition
-  - reciprocal refusal of instrumentalization
-  - refugee hospitality and ordinary life outside the island
-  - diplomacy built through exclusion
-  - nationalism and post-coup sovereignty
-  - coalition across former enemy lines
-  - grief, family, and child sacrifice
-  - self-authored custody of relationship symbols
-  - moral injury and executive overload
-  - pride, dignity, and conduct under compromise
+- genocide and protective jurisdiction
+- complicity without moral equivalence
+- category thaw and person-level recognition
+- reciprocal refusal of instrumentalization
+- refugee hospitality and ordinary life outside the island
+- diplomacy built through exclusion
+- nationalism and post-coup sovereignty
+- coalition across former enemy lines
+- grief, family, and child sacrifice
+- self-authored custody of relationship symbols
+- moral injury and executive overload
+- pride, dignity, and conduct under compromise
 major_visual_motifs:
-  - refugee tents and shared drinking against later extermination language
-  - Eren and Mikasa isolated at the edge of the camp
-  - Wall Titans walking through civilian damage
-  - Annie emerging from dissolved crystal
-  - Gabi visually overlaid with Sasha while saving Kaya
-  - Connie's mother as an open mouth beneath Falco
-  - Armin physically substituting his body for Falco's
-  - Mikasa reclaiming the scarf
-  - Jean imagining domestic safety before choosing action
-  - Levi's bandaged body beside Hange
-  - four gunshots as an invisible coalition signal
-  - former enemies converging around a wagon and campfire route
-  - Reiner waking to a cross-faction group
+- refugee tents and shared drinking against later extermination language
+- Eren and Mikasa isolated at the edge of the camp
+- Wall Titans walking through civilian damage
+- Annie emerging from dissolved crystal
+- Gabi visually overlaid with Sasha while saving Kaya
+- Connie's mother as an open mouth beneath Falco
+- Armin physically substituting his body for Falco's
+- Mikasa reclaiming the scarf
+- Jean imagining domestic safety before choosing action
+- Levi's bandaged body beside Hange
+- four gunshots as an invisible coalition signal
+- former enemies converging around a wagon and campfire route
+- Reiner waking to a cross-faction group
 major_lexical_targets:
-  - 島の悪魔
-  - 家族
-  - 駆逐
-  - 大虐殺
-  - 氷解
-  - 矜持
-  - 世界
-  - 救う
-  - 自由
-  - 父
-  - 帰る
-  - 母ちゃん
-  - 子供
-  - 仲間
-  - 帝国
-  - 世界を救いに
+- 島の悪魔
+- 家族
+- 駆逐
+- 大虐殺
+- 氷解
+- 矜持
+- 世界
+- 救う
+- 自由
+- 父
+- 帰る
+- 母ちゃん
+- 子供
+- 仲間
+- 帝国
+- 世界を救いに
 ---
 
 # 『進撃の巨人』Volume 31 Deep Reading

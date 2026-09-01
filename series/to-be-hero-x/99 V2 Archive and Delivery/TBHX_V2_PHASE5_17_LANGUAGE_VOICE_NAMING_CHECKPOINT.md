@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: specialist_completion_checkpoint
-scope: "Phase 5 Document 17 — Mandarin dialogue, discourse voice, naming, register, and Japanese-reference audit"
+scope: Phase 5 Document 17 — Mandarin dialogue, discourse voice, naming, register, and Japanese-reference audit
 generation: V2
 phase: 5
 specialist_number: 17
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24 as represented by verified reconstructed Mandarin dialogue/visible text, aligned Japanese captions, episode deep readings, Phase-2 language and naming authorities, official multilingual naming sources, and prior source-grounded audiovisual notes; no fresh uninterrupted full-season acoustic audition is claimed"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24 as represented by verified reconstructed Mandarin dialogue/visible text, aligned Japanese captions, episode deep readings, Phase-2 language and naming authorities, official multilingual naming sources, and prior source-grounded audiovisual notes; no fresh uninterrupted full-season acoustic audition is claimed
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-18
 ---

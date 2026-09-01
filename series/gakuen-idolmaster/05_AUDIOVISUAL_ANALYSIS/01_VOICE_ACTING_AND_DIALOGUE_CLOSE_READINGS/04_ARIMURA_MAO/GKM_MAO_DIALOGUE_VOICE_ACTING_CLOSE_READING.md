@@ -2,15 +2,15 @@
 series: GKM
 artifact_type: voice_acting_close_reading
 scope: CHARACTER_ARIMURA_MAO_PHASE3_AV
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "Direct inspection of five Dear sources and eight Mao cidol communications, controlled by GAKUMAS V2 Source Lock 1.0; mixed-scene audio proxies are corroborative only"
-supersedes: null
-superseded_by: null
+source_boundary: Direct inspection of five Dear sources and eight Mao cidol communications, controlled by GAKUMAS V2 Source Lock 1.0; mixed-scene audio proxies are corroborative only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-parent_authority: "GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+parent_authority: GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # ARIMURA MAO — DIALOGUE AND VOICE-ACTING CLOSE READING

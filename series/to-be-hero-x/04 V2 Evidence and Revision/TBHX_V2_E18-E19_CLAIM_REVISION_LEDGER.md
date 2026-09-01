@@ -4,12 +4,12 @@ artifact_type: claim_revision_ledger
 scope: E18-E19
 generation: V2
 status: active_provisional
-source_boundary: "Prospective evidence through Episode 19 only; to be extended after Episode 20"
-supersedes: null
-superseded_by: null
+source_boundary: Prospective evidence through Episode 19 only; to be extended after Episode 20
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — E18 to E19 Claim Revision Ledger"
-canonical_parent: "TBHX_V2_E19_DEEP_READING.md"
+title: To Be Hero X V2 — E18 to E19 Claim Revision Ledger
+canonical_parent: TBHX_V2_E19_DEEP_READING.md
 ---
 
 # To Be Hero X V2 — E18 to E19 Claim Revision Ledger

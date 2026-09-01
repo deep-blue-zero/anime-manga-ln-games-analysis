@@ -1,13 +1,13 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: character_monograph
-scope: "MEI_SHIKI"
+scope: MEI_SHIKI
 generation: V1
 status: historical_legacy
-source_boundary: "Retrospective three-season first-pass corpus available within the transcript at the time of writing"
-supersedes: null
-superseded_by: null
+source_boundary: Retrospective three-season first-pass corpus available within the transcript at the time of writing
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 provenance_turn: 70
 extracted: 2026-08-22

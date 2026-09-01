@@ -6,9 +6,9 @@ generation: V1
 status: active_provisional
 scope_character: PRINZ_EUGEN_40303
 semantic_authority: CN
-source_boundary: "Structural R1 routing map over the pinned PRINZ_EUGEN_40303 character build; interpretive anchors remain OPEN until manifest-declared derived evidence text is directly retrievable"
-supersedes: null
-superseded_by: null
+source_boundary: Structural R1 routing map over the pinned PRINZ_EUGEN_40303 character build; interpretive anchors remain OPEN until manifest-declared derived evidence text is directly retrievable
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

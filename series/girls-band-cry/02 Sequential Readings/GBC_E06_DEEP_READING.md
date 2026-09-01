@@ -4,23 +4,25 @@ artifact_type: deep_reading
 scope: E06
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; GBC_ep06_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass"
-supersedes: "GBC_E06_DEEP_READING.md@V1 (Drive ID 1rtVppKPJepIP6rv1Jyu_NIrio-TwZ02J) as current E06 interpretive authority; V1 remains immutable historical provenance"
-superseded_by: null
+source_boundary: GBC-V2-SOURCE-LOCK-1.0; GBC_ep06_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 source_lock: GBC-V2-SOURCE-LOCK-1.0
 primary_source_drive_id: 1lHcKiPPYMUOuQcwIbB2kGp2u_qSwmzyT
 v1_historical_counterpart_drive_id: 1rtVppKPJepIP6rv1Jyu_NIrio-TwZ02J
-prior_checkpoint: "GBC_E01-E04_CHECKPOINT.md (Drive ID 16iXdNHnx32EewWXeBNgS75sAKZtw3eWe; frozen)"
-prior_canonical_episode: "GBC_E05_DEEP_READING.md (Drive ID 1zd9H8qiPVVSp9T73sFIDzQuEn9ZKJ6JN)"
+prior_checkpoint: GBC_E01-E04_CHECKPOINT.md (Drive ID 16iXdNHnx32EewWXeBNgS75sAKZtw3eWe; frozen)
+prior_canonical_episode: GBC_E05_DEEP_READING.md (Drive ID 1zd9H8qiPVVSp9T73sFIDzQuEn9ZKJ6JN)
 episode_duration_seconds: 1421.215
 evidence_modalities:
-  - japanese_ass
-  - complete_audio
-  - dense_screenshots
-  - contact_sheets
+- japanese_ass
+- complete_audio
+- dense_screenshots
+- contact_sheets
 created: 2026-08-26
 updated: 2026-08-26
+legacy_supersession_notes:
+- 'legacy supersedes: GBC_E06_DEEP_READING.md@V1 (Drive ID 1rtVppKPJepIP6rv1Jyu_NIrio-TwZ02J) as current E06 interpretive authority; V1 remains immutable historical provenance'
 ---
 
 # Girls Band Cry E06 - V2 Deep Reading

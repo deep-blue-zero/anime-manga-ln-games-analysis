@@ -2,15 +2,15 @@
 series: GKM
 artifact_type: music_mv_performance_close_reading
 scope: CHARACTER_ARIMURA_MAO_PHASE3_AV
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "Three authored official MVs, six rendered 3DMV/game-performance sources, two static full-song presentations, and eight acted song communications"
-supersedes: null
-superseded_by: null
+source_boundary: Three authored official MVs, six rendered 3DMV/game-performance sources, two static full-song presentations, and eight acted song communications
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-parent_authority: "GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+parent_authority: GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # ARIMURA MAO — MUSIC, MV, AND PERFORMANCE CLOSE READING

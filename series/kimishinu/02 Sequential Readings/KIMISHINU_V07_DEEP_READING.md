@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: V07
 generation: V1
 status: canonical
-source_boundary: "Japanese digital tankobon Volume 7; CH30-CH34 plus drawn bonus 'だいすき'; edition extra pages/colophon classified separately"
-source_sha256: "1f397f0edde60e8c48d17c3b0df89fc5fa15be367abcc226c1f0422d613e4bf8"
+source_boundary: Japanese digital tankobon Volume 7; CH30-CH34 plus drawn bonus 'だいすき'; edition extra pages/colophon classified separately
+source_sha256: 1f397f0edde60e8c48d17c3b0df89fc5fa15be367abcc226c1f0422d613e4bf8
 prospective_boundary_before: V06
 prospective_boundary_after: V07
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

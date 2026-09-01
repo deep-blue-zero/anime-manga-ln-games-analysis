@@ -1,12 +1,12 @@
 ---
 series: OPM
 artifact_type: audit
-scope: "V03 Japanese dialogue, register, address, and character-model readback"
+scope: V03 Japanese dialogue, register, address, and character-model readback
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 3; SHA-256 16a01d325ab2cbc5f69b02127c3fb4c74eb3b672f73a06edb7acb0157b08c511"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 3; SHA-256 16a01d325ab2cbc5f69b02127c3fb4c74eb3b672f73a06edb7acb0157b08c511
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

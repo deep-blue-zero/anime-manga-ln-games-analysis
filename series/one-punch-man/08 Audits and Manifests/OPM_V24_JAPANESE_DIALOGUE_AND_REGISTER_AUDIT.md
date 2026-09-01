@@ -5,13 +5,13 @@ scope: V24
 artifact_role: japanese_dialogue_and_register_audit
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 24 only; audit against frozen prospective V24 reading"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 24 only; audit against frozen prospective V24 reading
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 24 [Japanese].cbz"
-source_drive_id: "1Gz535j89UmSC-DB4cDI_1dWL82EB5mtN"
-source_sha256: "d7710ba2626ee4ff96de567b79605747d0dc214b16feb27358caf2491da6851a"
+source_file: One Punch Man - Volume 24 [Japanese].cbz
+source_drive_id: 1Gz535j89UmSC-DB4cDI_1dWL82EB5mtN
+source_sha256: d7710ba2626ee4ff96de567b79605747d0dc214b16feb27358caf2491da6851a
 source_images: 220
 created: 2026-08-27
 ---

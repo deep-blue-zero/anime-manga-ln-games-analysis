@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Regimes, Legitimacy, and Statecraft"
-subtitle: "Goldenbaum, Alliance, Fezzan, Lohengramm, El Facil, and the problem of durable political authority"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed fifth-tranche regime and statecraft document"
+title: 銀河英雄伝説 — Regimes, Legitimacy, and Statecraft
+subtitle: Goldenbaum, Alliance, Fezzan, Lohengramm, El Facil, and the problem of durable political authority
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed fifth-tranche regime and statecraft document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G02; G04; G05-DAGON; G05-INTERVIEW used only as paratext"
+primary_sources: M01–M10; G02; G04; G05-DAGON; G05-INTERVIEW used only as paratext
 ---
 
 # 銀河英雄伝説

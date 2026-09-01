@@ -5,23 +5,23 @@ artifact_role: DEEP_READING
 scope: S3E05
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S3E05 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S3E05 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 3
 episode: 5
-episode_title_japanese: "你好！上海！小籠包～！"
-episode_title_english: "Ni Hao! Shanghai! Xiaolongbao!"
-episode_title_source: "retained source frame at approximately 00:02:33 directly displays #05 / 你好！ / 上海！ / 小籠包～！; embedded English Signs events at 00:02:32.99–00:02:37.62 render Ni Hao! / Shanghai! / Xiaolongbao!; title used as identifying/formal evidence, not independent proof of interpretation"
+episode_title_japanese: 你好！上海！小籠包～！
+episode_title_english: Ni Hao! Shanghai! Xiaolongbao!
+episode_title_source: 'retained source frame at approximately 00:02:33 directly displays #05 / 你好！ / 上海！ / 小籠包～！; embedded English Signs events at 00:02:32.99–00:02:37.62 render Ni Hao! / Shanghai! / Xiaolongbao!; title used as identifying/formal evidence, not independent proof of interpretation'
 artifact_id: LLS_S3E05_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E04 as prior authority; corrected-Japanese ASS governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; graduation-future uncertainty, Keke temporal identity, family-option asymmetry, fair rivalry under scarcity, cross-group solidarity, Tomari embodied evidence-gathering, Wien huff audit, Shanghai social ecology, Mengmeng family intervention, transnational school-idol performance ecology, relationship/voice/character-model analysis"
+analysis_mode: sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E04 as prior authority; corrected-Japanese ASS governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; graduation-future uncertainty, Keke temporal identity, family-option asymmetry, fair rivalry under scarcity, cross-group solidarity, Tomari embodied evidence-gathering, Wien huff audit, Shanghai social ecology, Mengmeng family intervention, transnational school-idol performance ecology, relationship/voice/character-model analysis
 source_bundle: LLS_s03e05_screenshots.zip
 source_drive_id: 1i0_qcaSx8LHK19RMuL5-_aY5gLOe42X_
 source_sha256: e11f4e5389f90a002466808d1a06f7bff4da1e5368f1fb1f139a1c360344e39e
 source_bytes: 160766094
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S3E05 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S3E05 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON2_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
@@ -32,8 +32,8 @@ season1_frozen_checkpoint_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 season2_frozen_checkpoint: LLS_SEASON2_FROZEN_CHECKPOINT.md
 season2_frozen_checkpoint_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
 season2_checkpoint_status: frozen
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 796
 retained_frames: 736
 contact_sheets_reviewed: 42
@@ -55,16 +55,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 736 retained frames, 42 contact sheets, subtitle/index copies, visual montages, paired transcript/index products, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 736 retained frames, 42 contact sheets, subtitle/index copies, visual montages, paired transcript/index products, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S3E06_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

@@ -4,9 +4,9 @@ artifact_type: audit
 scope: V01
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 1; Drive CBZ SHA-256 be3a749342e6c617ce0b9e55ed353ca5874c70df4f0467c27daf5b5215b7b3a0"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 1; Drive CBZ SHA-256 be3a749342e6c617ce0b9e55ed353ca5874c70df4f0467c27daf5b5215b7b3a0
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

@@ -1,15 +1,16 @@
 ---
-series: "MAEBASHI"
-artifact_type: "specialist_synthesis"
-scope: "CROSS_SERIES_INTERACTIONS"
-generation: "V1"
-status: "canonical"
-source_boundary: "Completed-series comparative interaction planning"
+series: MAEBASHI
+artifact_type: specialist_synthesis
+scope: CROSS_SERIES_INTERACTIONS
+generation: V1
+status: canonical
+source_boundary: Completed-series comparative interaction planning
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md"
-source_turns: [80]
+source_transcript: Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md
+source_turns:
+- 80
 ---
 
 <!-- transcript_source_turn: 80 -->

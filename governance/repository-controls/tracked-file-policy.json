@@ -71,6 +71,42 @@
   "hard_exception_threshold_bytes": 26214400,
   "named_text_exceptions": [
     {
+      "path": "crosswalk/drive-to-git.jsonl",
+      "bytes": 1799006,
+      "sha256": "456367cd076c16cc6200ff2d3de9c5806171269aac2dbe7796ee71a730cafc67",
+      "exception_id": "G5_FINAL_AGGREGATE_DRIVE_TO_GIT_CROSSWALK",
+      "allow_utf8_bom": false,
+      "allow_carriage_returns": false,
+      "purpose": "Keep the complete machine-readable Drive-source to Git-path provenance closure beside the migrated analytical corpus.",
+      "rights_basis": "Owner-approved public-safe provenance metadata containing no source artifact bytes beyond hashes and structural identifiers.",
+      "review_decision": "OWNER_APPROVED_G5_FINAL_AGGREGATE_PROVENANCE_CLOSURE",
+      "external_reference_insufficient": "An external-only ledger would prevent readers and automated audits from verifying repository-path provenance from the public Git tree."
+    },
+    {
+      "path": "crosswalk/materialization-results.jsonl",
+      "bytes": 2158090,
+      "sha256": "8e9be3824587219d0e72db5d1956a3fbde0596ae97432665ff886bade2a85e51",
+      "exception_id": "G5_FINAL_AGGREGATE_MATERIALIZATION_RESULTS",
+      "allow_utf8_bom": false,
+      "allow_carriage_returns": false,
+      "purpose": "Keep the complete machine-readable materialization and byte-verification results beside the migrated analytical corpus.",
+      "rights_basis": "Owner-approved public-safe provenance metadata containing no source artifact bytes beyond hashes and structural identifiers.",
+      "review_decision": "OWNER_APPROVED_G5_FINAL_AGGREGATE_PROVENANCE_CLOSURE",
+      "external_reference_insufficient": "An external-only ledger would prevent independent verification of the materialized Git representations and their exact byte hashes."
+    },
+    {
+      "path": "crosswalk/path-plan.jsonl",
+      "bytes": 2035959,
+      "sha256": "83e2b18be2b8109b21720a80daa9848c1deea4583ea45f3f058768a76b1920d3",
+      "exception_id": "G5_FINAL_AGGREGATE_PATH_PLAN",
+      "allow_utf8_bom": false,
+      "allow_carriage_returns": false,
+      "purpose": "Keep the complete machine-readable final path and representation plan beside the migrated analytical corpus.",
+      "rights_basis": "Owner-approved public-safe provenance metadata containing no source artifact bytes beyond hashes and structural identifiers.",
+      "review_decision": "OWNER_APPROVED_G5_FINAL_AGGREGATE_PROVENANCE_CLOSURE",
+      "external_reference_insufficient": "An external-only plan would remove the durable audit trail connecting frozen representation decisions to the published repository topology."
+    },
+    {
       "path": "series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv",
       "bytes": 1377633,
       "sha256": "7dde60c452627a694307dda68abfb0d4d434ec1c2ce934bf85a0b81db483c366",
@@ -86,8 +122,8 @@
   "named_whitespace_exceptions": [
     {
       "path": "series/genshin-impact/05 Character Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md",
-      "bytes": 106096,
-      "sha256": "0e8bc9dbaebdc985adccf3d5260fda2aef1a43f0ef1d46e38dda340ab47571a4",
+      "bytes": 106094,
+      "sha256": "f61db7d38eb980bf6906fccee93a78200048f6bd2cf6efcfe60788520918b356",
       "exception_id": "GENSHIN_FURINA_COMMONMARK_HARD_BREAKS",
       "attribute": "whitespace=-blank-at-eol",
       "trailing_ascii_spaces": 2,

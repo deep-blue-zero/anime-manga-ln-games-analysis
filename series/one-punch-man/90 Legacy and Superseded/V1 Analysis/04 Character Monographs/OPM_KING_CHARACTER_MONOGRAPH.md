@@ -1,34 +1,35 @@
 ---
-series: "OPM"
-artifact_type: "character_monograph"
-scope: "KING"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "V1 character analysis through Volume 34: King"
-supersedes: null
-superseded_by: null
+series: OPM
+artifact_type: character_monograph
+scope: KING
+generation: V1
+status: historical_legacy
+source_boundary: 'V1 character analysis through Volume 34: King'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - One Punch Man Analysis - Full Transcript.md"
-source_turns: [48]
+source_transcript: Manga and anime discussions - One Punch Man Analysis - Full Transcript.md
+source_turns:
+- 48
 ---
 
 <!-- transcript_source_turn: 48 -->
 
 ## King character deep dive
 
-Grounded in the prior *One Punch Man* synthesis and character/satire documents, especially the readings of King as Saitama’s social inverse, reputation as battlefield force, and public image as powerful but unreliable.[
+Grounded in the prior *One Punch Man* synthesis and character/satire documents, especially the readings of King as Saitama’s social inverse, reputation as battlefield force, and public image as powerful but unreliable.
 
 Saitama Character Relationships…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bf3bc976-98a4-4a1a-aeb5-f1e10efe143c&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 One Punch Man satire
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=59faff48-56f8-4645-96f3-42425106393b&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama deep dive document
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=01aa9536-a56a-4fa5-85d8-bcf0207f787a&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # King Deep Dive: Personality, Strength, Voice, Ethics, Philosophy, and Comparative Significance
 

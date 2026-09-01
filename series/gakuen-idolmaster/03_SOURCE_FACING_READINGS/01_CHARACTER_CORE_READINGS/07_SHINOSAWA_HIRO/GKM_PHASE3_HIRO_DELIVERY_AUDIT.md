@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_SHINOSAWA_HIRO_PHASE3_CORE
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "Phase-3 Hiro delivery"
-supersedes: null
-superseded_by: null
+source_boundary: Phase-3 Hiro delivery
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # GKM PHASE 3 — HIRO DELIVERY AUDIT

@@ -2,71 +2,71 @@
 series: TBHX
 artifact_type: specialist_synthesis
 artifact_role: character_monograph
-scope: "Wang Yi / Ghostblade, Zhang Lan, Wang Nuonuo, A-Sheng, Little Johnny / Big Johnny, MG, FOMO, Yan Mo, silence, assassination, fatherhood, surveillance, trace-mediated recognition, violence, and refusal across S01E15-E20"
+scope: Wang Yi / Ghostblade, Zhang Lan, Wang Nuonuo, A-Sheng, Little Johnny / Big Johnny, MG, FOMO, Yan Mo, silence, assassination, fatherhood, surveillance, trace-mediated recognition, violence, and refusal across S01E15-E20
 generation: V2
 phase: 3
 specialist_number: 11
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; primary close reading E15-E16 with E17-E20 retrospective resolution and E19-E20 motion evidence"
-canonical_home: "03 V2 Specialist Syntheses/01 Characters and Relationships"
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; primary close reading E15-E16 with E17-E20 retrospective resolution and E19-E20 motion evidence
+canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
-  - P2-CR-CH08
-  - P2-CR-P14
-  - P2-CR-R05
-  - P2-CR-R13
-  - P2-CR-F08
+- P2-CR-CH08
+- P2-CR-P14
+- P2-CR-R05
+- P2-CR-R13
+- P2-CR-F08
 secondary_claim_keys:
-  - P2-CR-M03
-  - P2-CR-P01
-  - P2-CR-P03
-  - P2-CR-P05
-  - P2-CR-P07
-  - P2-CR-P08
-  - P2-CR-N01
-  - P2-CR-N03
-  - P2-CR-N06
-  - P2-CR-I01
-  - P2-CR-I03
-  - P2-CR-I04
-  - P2-CR-I08
-  - P2-CR-I10
-  - P2-CR-R01
-  - P2-CR-R02
-  - P2-CR-R03
-  - P2-CR-R04
-  - P2-CR-R06
-  - P2-CR-R07
-  - P2-CR-R15
-  - P2-CR-F01
-  - P2-CR-F04
-  - P2-CR-F05
-  - P2-CR-F11
-  - P2-CR-F16
+- P2-CR-M03
+- P2-CR-P01
+- P2-CR-P03
+- P2-CR-P05
+- P2-CR-P07
+- P2-CR-P08
+- P2-CR-N01
+- P2-CR-N03
+- P2-CR-N06
+- P2-CR-I01
+- P2-CR-I03
+- P2-CR-I04
+- P2-CR-I08
+- P2-CR-I10
+- P2-CR-R01
+- P2-CR-R02
+- P2-CR-R03
+- P2-CR-R04
+- P2-CR-R06
+- P2-CR-R07
+- P2-CR-R15
+- P2-CR-F01
+- P2-CR-F04
+- P2-CR-F05
+- P2-CR-F11
+- P2-CR-F16
 governing_artifacts:
-  - CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
-  - TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
-  - HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
-  - CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
-  - PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
-  - INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
-  - CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
-  - VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
-  - TBHX_NAME_LOCALIZATION_CROSSWALK.md
-  - V1_TO_V2_REVISION_LEDGER.md
+- CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
+- TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
+- HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
+- CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
+- PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
+- INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
+- CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
+- VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
+- TBHX_NAME_LOCALIZATION_CROSSWALK.md
+- V1_TO_V2_REVISION_LEDGER.md
 primary_episode_artifacts:
-  - TBHX_V2_E15_DEEP_READING.md
-  - TBHX_V2_E16_DEEP_READING.md
+- TBHX_V2_E15_DEEP_READING.md
+- TBHX_V2_E16_DEEP_READING.md
 supporting_episode_artifacts:
-  - TBHX_V2_E17_DEEP_READING.md
-  - TBHX_V2_E18_DEEP_READING.md
-  - TBHX_V2_E19_DEEP_READING.md
-  - TBHX_V2_E20_DEEP_READING.md
-  - TBHX_V2_E19_VIDEO_EVIDENCE_AUDIT.md
-  - TBHX_V2_E20_VIDEO_EVIDENCE_AUDIT.md
+- TBHX_V2_E17_DEEP_READING.md
+- TBHX_V2_E18_DEEP_READING.md
+- TBHX_V2_E19_DEEP_READING.md
+- TBHX_V2_E20_DEEP_READING.md
+- TBHX_V2_E19_VIDEO_EVIDENCE_AUDIT.md
+- TBHX_V2_E20_VIDEO_EVIDENCE_AUDIT.md
 supporting_specialists:
-  - 10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md
-supersedes: null
-superseded_by: null
+- 10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 last_updated: 2026-08-17

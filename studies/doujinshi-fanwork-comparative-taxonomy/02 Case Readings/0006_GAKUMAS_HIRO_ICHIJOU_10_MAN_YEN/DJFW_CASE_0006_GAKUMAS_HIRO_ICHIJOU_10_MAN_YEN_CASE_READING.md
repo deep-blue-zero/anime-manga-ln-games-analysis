@@ -4,9 +4,10 @@ artifact_type: case_reading
 scope: DJFW_CASE_0006
 generation: V1
 status: superseded
-source_boundary: "Uploaded Japanese CBZ; extraction complete; OCR-assisted first pass; OCR is routing evidence only."
-supersedes: null
-superseded_by: DJFW_CASE_0006_GAKUMAS_HIRO_ICHIJOU_10_MAN_YEN_CONTINUOUS_SEQUENTIAL_READING_V2.md
+source_boundary: Uploaded Japanese CBZ; extraction complete; OCR-assisted first pass; OCR is routing evidence only.
+supersedes: []
+superseded_by:
+- studies/doujinshi-fanwork-comparative-taxonomy/02 Case Readings/0006_GAKUMAS_HIRO_ICHIJOU_10_MAN_YEN/DJFW_CASE_0006_GAKUMAS_HIRO_ICHIJOU_10_MAN_YEN_CONTINUOUS_SEQUENTIAL_READING_V2.md
 do_not_use_as_current_authority: true
 ---
 

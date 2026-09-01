@@ -4,11 +4,11 @@ artifact_type: evidence_matrix
 scope: E22_visual
 generation: V2
 status: canonical
-source_boundary: "Episode 22 screenshot/contact-sheet evidence; E23 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 22 screenshot/contact-sheet evidence; E23 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 22 Visual Microsequence Ledger"
+title: To Be Hero X V2 — Episode 22 Visual Microsequence Ledger
 ---
 
 # To Be Hero X V2 — Episode 22 Visual Microsequence Ledger

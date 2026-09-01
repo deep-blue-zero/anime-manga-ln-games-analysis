@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: completion_report
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_COMPLETE_AV
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Closure report for the complete China Phase-3 integrated audiovisual baseline"
-supersedes: null
-superseded_by: null
+source_boundary: Closure report for the complete China Phase-3 integrated audiovisual baseline
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-21"
-title: "Kuramoto China Phase-3 Integrated AV Completion Report"
+last_updated: '2026-08-21'
+title: Kuramoto China Phase-3 Integrated AV Completion Report
 ---
 
 # GKM PHASE 3 — KURAMOTO CHINA AUDIOVISUAL COMPLETION REPORT

@@ -1,15 +1,15 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: full_series_synthesis
-scope: "S1-S3"
+scope: S1-S3
 generation: V1
 status: historical_legacy
-source_boundary: "All three anime seasons through graduation and future-Liella succession"
-supersedes: null
-superseded_by: null
+source_boundary: All three anime seasons through graduation and future-Liella succession
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-recovery_source: "Manual copy from original ChatGPT conversation supplied by user on 2026-08-22"
+recovery_source: Manual copy from original ChatGPT conversation supplied by user on 2026-08-22
 original_chat_response_recovered: true
 ---
 

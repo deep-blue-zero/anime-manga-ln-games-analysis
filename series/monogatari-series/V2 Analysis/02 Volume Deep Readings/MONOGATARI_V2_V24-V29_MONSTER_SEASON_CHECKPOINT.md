@@ -1,34 +1,34 @@
 ---
-series: "MONOGATARI"
-artifact_type: "checkpoint"
-scope: "V24-V29_MONSTER_SEASON"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese numbered novel corpus through V29; Monster Season V24-V29 complete; no V30 or Family Season analytical claims admitted"
-supersedes: null
-superseded_by: null
+series: MONOGATARI
+artifact_type: checkpoint
+scope: V24-V29_MONSTER_SEASON
+generation: V2
+status: canonical
+source_boundary: Japanese numbered novel corpus through V29; Monster Season V24-V29 complete; no V30 or Family Season analytical claims admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V24-V29_MONSTER_SEASON_CHECKPOINT"
-version: "1.0"
-date: "2026-08-18"
-checkpoint_type: "season_freeze"
-season: "Monster Season"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V24-V29_MONSTER_SEASON_CHECKPOINT
+version: '1.0'
+date: '2026-08-18'
+checkpoint_type: season_freeze
+season: Monster Season
 volumes:
-  - "V24"
-  - "V25"
-  - "V26"
-  - "V27"
-  - "V28"
-  - "V29"
-previous_boundary: "V23 / MONOGATARI_V2_V20-V23_OFF_SEASON_CHECKPOINT.md"
-next_artifact: "MONOGATARI_V2_V30_DEEP_READING.md"
-next_source: "V30 / Family Season source metadata only; not analyzed here"
-reasoning_recommendation_used: "GPT-5.6 Sol - Very High"
-governing_method: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-governing_architecture: "MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md"
-live_ledger_boundary: "L01-L09 current through V29 / C686"
-source_inventory_state: "v1.29"
+- V24
+- V25
+- V26
+- V27
+- V28
+- V29
+previous_boundary: V23 / MONOGATARI_V2_V20-V23_OFF_SEASON_CHECKPOINT.md
+next_artifact: MONOGATARI_V2_V30_DEEP_READING.md
+next_source: V30 / Family Season source metadata only; not analyzed here
+reasoning_recommendation_used: GPT-5.6 Sol - Very High
+governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
+governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+live_ledger_boundary: L01-L09 current through V29 / C686
+source_inventory_state: v1.29
 freeze_complete: true
 ---
 

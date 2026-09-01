@@ -1,13 +1,13 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: analytical_method
-scope: "TARGETED_AUDIO_PASS"
+scope: TARGETED_AUDIO_PASS
 generation: V1
 status: historical_legacy
-source_boundary: "Ten-episode targeted audio/Japanese-dialogue pass method and running character-profile procedure"
-supersedes: null
-superseded_by: null
+source_boundary: Ten-episode targeted audio/Japanese-dialogue pass method and running character-profile procedure
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 provenance_turn: 82
 extracted: 2026-08-22

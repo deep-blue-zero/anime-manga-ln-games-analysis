@@ -2,136 +2,136 @@
 series: TBHX
 artifact_type: specialist_synthesis
 artifact_role: character_monograph
-scope: "X, Zero, Yan Mo, the Commission, A-Hu, Smile, Queen, ordinary coworkers, Trust/Fear, godhood, public will, fate, the coin, representational/world-state sovereignty, suppressed history, anti-apotheosis, and constitutional limits across S01E11-E24"
+scope: X, Zero, Yan Mo, the Commission, A-Hu, Smile, Queen, ordinary coworkers, Trust/Fear, godhood, public will, fate, the coin, representational/world-state sovereignty, suppressed history, anti-apotheosis, and constitutional limits across S01E11-E24
 generation: V2
 phase: 3
 specialist_number: 15
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; X-specific sovereignty ledger; primary close reading E20-E24 with E24 full-motion audit, and E11-E12 for X's first institutional/Queen encounter"
-canonical_home: "03 V2 Specialist Syntheses/01 Characters and Relationships"
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; X-specific sovereignty ledger; primary close reading E20-E24 with E24 full-motion audit, and E11-E12 for X's first institutional/Queen encounter
+canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
-  - P2-CR-CH14
-  - P2-CR-CH15
-  - P2-CR-CH16
-  - P2-CR-M15
-  - P2-CR-M16
-  - P2-CR-M17
-  - P2-CR-M18
-  - P2-CR-P16
-  - P2-CR-P17
-  - P2-CR-X01
-  - P2-CR-X02
-  - P2-CR-X03
-  - P2-CR-X04
-  - P2-CR-X05
-  - P2-CR-X06
-  - P2-CR-X07
-  - P2-CR-X08
-  - P2-CR-X09
-  - P2-CR-X10
-  - P2-CR-X11
-  - P2-CR-X12
+- P2-CR-CH14
+- P2-CR-CH15
+- P2-CR-CH16
+- P2-CR-M15
+- P2-CR-M16
+- P2-CR-M17
+- P2-CR-M18
+- P2-CR-P16
+- P2-CR-P17
+- P2-CR-X01
+- P2-CR-X02
+- P2-CR-X03
+- P2-CR-X04
+- P2-CR-X05
+- P2-CR-X06
+- P2-CR-X07
+- P2-CR-X08
+- P2-CR-X09
+- P2-CR-X10
+- P2-CR-X11
+- P2-CR-X12
 secondary_claim_keys:
-  - P2-CR-C02
-  - P2-CR-C03
-  - P2-CR-C05
-  - P2-CR-C07
-  - P2-CR-C08
-  - P2-CR-C09
-  - P2-CR-C10
-  - P2-CR-C11
-  - P2-CR-M01
-  - P2-CR-M02
-  - P2-CR-M03
-  - P2-CR-M04
-  - P2-CR-M05
-  - P2-CR-M09
-  - P2-CR-M14
-  - P2-CR-P01
-  - P2-CR-P02
-  - P2-CR-P03
-  - P2-CR-P05
-  - P2-CR-P07
-  - P2-CR-P08
-  - P2-CR-N01
-  - P2-CR-N02
-  - P2-CR-N03
-  - P2-CR-N06
-  - P2-CR-N07
-  - P2-CR-N08
-  - P2-CR-N10
-  - P2-CR-N11
-  - P2-CR-N12
-  - P2-CR-I01
-  - P2-CR-I02
-  - P2-CR-I03
-  - P2-CR-I04
-  - P2-CR-I05
-  - P2-CR-I06
-  - P2-CR-I08
-  - P2-CR-I09
-  - P2-CR-I11
-  - P2-CR-I12
-  - P2-CR-I13
-  - P2-CR-I15
-  - P2-CR-R01
-  - P2-CR-R02
-  - P2-CR-R03
-  - P2-CR-R04
-  - P2-CR-R06
-  - P2-CR-R07
-  - P2-CR-R12
-  - P2-CR-R14
-  - P2-CR-R15
-  - P2-CR-F01
-  - P2-CR-F02
-  - P2-CR-F03
-  - P2-CR-F04
-  - P2-CR-F05
-  - P2-CR-F08
-  - P2-CR-F10
-  - P2-CR-F11
-  - P2-CR-F12
-  - P2-CR-F13
-  - P2-CR-F14
-  - P2-CR-F15
-  - P2-CR-F16
+- P2-CR-C02
+- P2-CR-C03
+- P2-CR-C05
+- P2-CR-C07
+- P2-CR-C08
+- P2-CR-C09
+- P2-CR-C10
+- P2-CR-C11
+- P2-CR-M01
+- P2-CR-M02
+- P2-CR-M03
+- P2-CR-M04
+- P2-CR-M05
+- P2-CR-M09
+- P2-CR-M14
+- P2-CR-P01
+- P2-CR-P02
+- P2-CR-P03
+- P2-CR-P05
+- P2-CR-P07
+- P2-CR-P08
+- P2-CR-N01
+- P2-CR-N02
+- P2-CR-N03
+- P2-CR-N06
+- P2-CR-N07
+- P2-CR-N08
+- P2-CR-N10
+- P2-CR-N11
+- P2-CR-N12
+- P2-CR-I01
+- P2-CR-I02
+- P2-CR-I03
+- P2-CR-I04
+- P2-CR-I05
+- P2-CR-I06
+- P2-CR-I08
+- P2-CR-I09
+- P2-CR-I11
+- P2-CR-I12
+- P2-CR-I13
+- P2-CR-I15
+- P2-CR-R01
+- P2-CR-R02
+- P2-CR-R03
+- P2-CR-R04
+- P2-CR-R06
+- P2-CR-R07
+- P2-CR-R12
+- P2-CR-R14
+- P2-CR-R15
+- P2-CR-F01
+- P2-CR-F02
+- P2-CR-F03
+- P2-CR-F04
+- P2-CR-F05
+- P2-CR-F08
+- P2-CR-F10
+- P2-CR-F11
+- P2-CR-F12
+- P2-CR-F13
+- P2-CR-F14
+- P2-CR-F15
+- P2-CR-F16
 governing_artifacts:
-  - CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
-  - TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
-  - BROADCAST_ORDER_AND_DIEGETIC_CHRONOLOGY_LEDGER.md
-  - HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
-  - CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
-  - PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
-  - INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
-  - CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
-  - VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
-  - TBHX_X_REPRESENTATIONAL_SOVEREIGNTY_LEDGER.md
-  - TBHX_NAME_LOCALIZATION_CROSSWALK.md
-  - V1_TO_V2_REVISION_LEDGER.md
+- CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
+- TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
+- BROADCAST_ORDER_AND_DIEGETIC_CHRONOLOGY_LEDGER.md
+- HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
+- CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
+- PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
+- INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
+- CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
+- VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
+- TBHX_X_REPRESENTATIONAL_SOVEREIGNTY_LEDGER.md
+- TBHX_NAME_LOCALIZATION_CROSSWALK.md
+- V1_TO_V2_REVISION_LEDGER.md
 primary_episode_artifacts:
-  - TBHX_V2_E11_DEEP_READING.md
-  - TBHX_V2_E12_DEEP_READING.md
-  - TBHX_V2_E20_DEEP_READING.md
-  - TBHX_V2_E21_DEEP_READING.md
-  - TBHX_V2_E22_DEEP_READING.md
-  - TBHX_V2_E23_DEEP_READING.md
-  - TBHX_V2_E24_DEEP_READING.md
+- TBHX_V2_E11_DEEP_READING.md
+- TBHX_V2_E12_DEEP_READING.md
+- TBHX_V2_E20_DEEP_READING.md
+- TBHX_V2_E21_DEEP_READING.md
+- TBHX_V2_E22_DEEP_READING.md
+- TBHX_V2_E23_DEEP_READING.md
+- TBHX_V2_E24_DEEP_READING.md
 supporting_evidence_artifacts:
-  - TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
-  - TBHX_V2_E21_RETROSPECTIVE_MOTION_AUDIT.md
-  - TBHX_V2_E22_VIDEO_EVIDENCE_AUDIT.md
-  - TBHX_V2_E23_VIDEO_EVIDENCE_AUDIT.md
-  - TBHX_V2_E24_VIDEO_EVIDENCE_AUDIT.md
-  - TBHX_V2_E24_VISUAL_MICROSEQUENCE_LEDGER.md
-  - TBHX_V2_E24_CREDITS_CODA_MOTION_AUDIT.md
+- TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
+- TBHX_V2_E21_RETROSPECTIVE_MOTION_AUDIT.md
+- TBHX_V2_E22_VIDEO_EVIDENCE_AUDIT.md
+- TBHX_V2_E23_VIDEO_EVIDENCE_AUDIT.md
+- TBHX_V2_E24_VIDEO_EVIDENCE_AUDIT.md
+- TBHX_V2_E24_VISUAL_MICROSEQUENCE_LEDGER.md
+- TBHX_V2_E24_CREDITS_CODA_MOTION_AUDIT.md
 supporting_specialists:
-  - 06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md
-  - 09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md
-  - 13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md
-  - 14_AHU_LOCAL_HEROISM_BELIEF_MYTH_AND_MISRECOGNITION.md
-supersedes: null
-superseded_by: null
+- 06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md
+- 09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md
+- 13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md
+- 14_AHU_LOCAL_HEROISM_BELIEF_MYTH_AND_MISRECOGNITION.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 last_updated: 2026-08-17

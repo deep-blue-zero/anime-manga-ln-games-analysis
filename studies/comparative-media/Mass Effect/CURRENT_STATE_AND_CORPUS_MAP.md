@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: COMPARATIVE_MEDIA_ANALYTICAL_CORPUS
 generation: V1
 status: canonical
-source_boundary: "Current Mass Effect comparative analytical materials; presently limited to stable interpretive character models of Paragon Shepard and Renegade Shepard rather than a full sequential trilogy analysis."
+source_boundary: Current Mass Effect comparative analytical materials; presently limited to stable interpretive character models of Paragon Shepard and Renegade Shepard rather than a full sequential trilogy analysis.
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

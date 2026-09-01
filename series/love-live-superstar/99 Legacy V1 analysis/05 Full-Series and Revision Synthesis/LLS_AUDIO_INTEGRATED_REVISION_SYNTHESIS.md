@@ -1,13 +1,13 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: specialist_synthesis
-scope: "FULL_SERIES_AUDIO_REFINEMENT"
+scope: FULL_SERIES_AUDIO_REFINEMENT
 generation: V1
 status: historical_legacy
-source_boundary: "Retrospective full-series synthesis after the targeted voiced-episode/Japanese-subtitle pass"
-supersedes: null
-superseded_by: null
+source_boundary: Retrospective full-series synthesis after the targeted voiced-episode/Japanese-subtitle pass
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 provenance_turn: 108
 extracted: 2026-08-22

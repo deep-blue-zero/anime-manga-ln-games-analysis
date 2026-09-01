@@ -4,10 +4,12 @@ artifact_type: deep_reading
 scope: V03
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V03 locked Japanese EPUB: 『響け！ ユーフォニアム3　北宇治高校吹奏楽部、最大の危機』"
-supersedes: "V1 analytical authority for Novel 3: SOUND! EUPHONIUM — Novel 3.md"
-superseded_by: null
+source_boundary: 'HIBIKE-V03 locked Japanese EPUB: 『響け！ ユーフォニアム3　北宇治高校吹奏楽部、最大の危機』'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
+legacy_supersession_notes:
+- 'legacy supersedes: V1 analytical authority for Novel 3: SOUND! EUPHONIUM — Novel 3.md'
 ---
 
 # Sound! Euphonium V2 — HIBIKE-V03 Deep Reading

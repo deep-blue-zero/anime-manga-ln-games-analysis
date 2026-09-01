@@ -4,11 +4,12 @@ artifact_type: handoff
 scope: PHASE1_E01-E24
 generation: V2
 status: canonical
-source_boundary: "Complete Chinese-original Season 1 audiovisual sequential pass, Episodes 1-24; E24 motion audit complete"
-supersedes: "TBHX_V2_PHASE1_E23_HANDOFF.md"
-superseded_by: null
+source_boundary: Complete Chinese-original Season 1 audiovisual sequential pass, Episodes 1-24; E24 motion audit complete
+supersedes:
+- series/to-be-hero-x/01 V2 Episode Deep Readings/TBHX_V2_PHASE1_E23_HANDOFF.md
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Phase 1 E24 Handoff"
+title: To Be Hero X V2 — Phase 1 E24 Handoff
 ---
 
 # To Be Hero X V2 — Phase 1 E24 Handoff

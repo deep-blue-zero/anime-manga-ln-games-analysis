@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: E17_checkpoint
 generation: V2
 status: canonical
-source_boundary: "E01-E17 cumulative analytical checkpoint; E18 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: E01-E17 cumulative analytical checkpoint; E18 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -2,15 +2,16 @@
 series: GKM
 artifact_type: audiovisual_baseline
 scope: CHARACTER_SHIUN_SUMIKA_PHASE3_COMPLETE_AV
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: canonical
-source_boundary: "22 logical staged AV objects, all directly inspected at the current boundary; Dear 028–037 was backfilled through an equivalent 720p30 direct-upload analysis materialization while the oversized Drive original remains provenance; interpreted against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_09_SHIUN_SUMIKA.md"
-supersedes: "GKM_SUMIKA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md"
-superseded_by: null
+source_boundary: 22 logical staged AV objects, all directly inspected at the current boundary; Dear 028–037 was backfilled through an equivalent 720p30 direct-upload analysis materialization while the oversized Drive original remains provenance; interpreted against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_09_SHIUN_SUMIKA.md
+supersedes:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/GKM_SUMIKA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shiun Sumika Complete Audiovisual Baseline"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shiun Sumika Complete Audiovisual Baseline
 ---
 
 # GKM — SHIUN SUMIKA COMPLETE AUDIOVISUAL BASELINE

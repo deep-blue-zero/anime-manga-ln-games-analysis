@@ -5,17 +5,17 @@ scope: E24
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Chinese-original audiovisual Episode 24; prospective knowledge boundary E01-E24; sponsor interstitial and post-credits merchandise promotion excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Chinese-original audiovisual Episode 24; prospective knowledge boundary E01-E24; sponsor interstitial and post-credits merchandise promotion excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 24 Deep Reading"
+title: To Be Hero X V2 — Episode 24 Deep Reading
 season: 1
 episode: 24
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e24_screenshots.zip"
-source_bundle_sha256: "99760094cb57fa36dbda2ef4e396395c75a4400d5ad4eb473870110efb1caad3"
+analysis_version: '2.0'
+source_bundle: BHX_s01e24_screenshots.zip
+source_bundle_sha256: 99760094cb57fa36dbda2ef4e396395c75a4400d5ad4eb473870110efb1caad3
 source_bundle_bytes: 414712365
 archive_member_count: 1398
 source_duration_seconds: 1541.674333
@@ -23,8 +23,8 @@ program_start_seconds: 43.75
 analysis_start_seconds: 43.5
 mandarin_cue_count_total: 226
 mandarin_cue_count_diegetic_after_sponsor_exclusion: 222
-sponsor_interstitial_cue_range_excluded: "CN 108-111"
-sponsor_interstitial_visual_range_seconds_approx: "749.120-756.880"
+sponsor_interstitial_cue_range_excluded: CN 108-111
+sponsor_interstitial_visual_range_seconds_approx: 749.120-756.880
 mandarin_ocr_mean_confidence: 0.991225
 mandarin_ocr_median_confidence: 0.997755
 mandarin_ocr_min_confidence: 0.818342
@@ -38,16 +38,16 @@ physical_contact_sheet_count: 66
 scene_segment_count: 22
 shot_change_count: 596
 shot_segment_count: 475
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present"
-credits_status: "story/form-bearing season-coda montage retained through approximately 00:24:46; merchandise promotion begins approximately 00:24:48 and is excluded"
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present
+credits_status: story/form-bearing season-coda montage retained through approximately 00:24:46; merchandise promotion begins approximately 00:24:48 and is excluded
 motion_audit_status: pending
-spoiler_boundary: "S01E01-S01E24 only; no V1 synthesis imported prospectively"
-visual_appendix: "TBHX_V2_E24_VISUAL_MICROSEQUENCE_LEDGER.md"
-claim_transition_artifact: "TBHX_V2_E18-E24_CLAIM_REVISION_LEDGER.md"
-x_specialist_ledger: "TBHX_X_REPRESENTATIONAL_SOVEREIGNTY_LEDGER.md"
+spoiler_boundary: S01E01-S01E24 only; no V1 synthesis imported prospectively
+visual_appendix: TBHX_V2_E24_VISUAL_MICROSEQUENCE_LEDGER.md
+claim_transition_artifact: TBHX_V2_E18-E24_CLAIM_REVISION_LEDGER.md
+x_specialist_ledger: TBHX_X_REPRESENTATIONAL_SOVEREIGNTY_LEDGER.md
 ---
 
 # To Be Hero X V2 — Episode 24 Deep Reading

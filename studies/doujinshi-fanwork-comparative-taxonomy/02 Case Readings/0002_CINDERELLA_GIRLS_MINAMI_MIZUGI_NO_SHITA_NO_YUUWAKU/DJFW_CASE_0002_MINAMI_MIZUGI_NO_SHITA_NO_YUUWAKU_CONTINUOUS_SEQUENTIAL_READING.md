@@ -7,11 +7,11 @@ generation: V1
 status: canonical
 analysis_mode: continuous_sequential
 run_scope: DJFW_CASE_0002-DJFW_CASE_0010
-source_boundary: "Full 71-page CBZ sequential visual review of telomereNA/Gustav, Mizugi no Shita no Yuuwaku (C96, 2019), with selective OCR limited to non-graphic afterword/colophon material. Governing character comparator is the mobile-game Nitta Minami corpus; 2015 anime continuity is excluded. Explicit material is summarized only at structural level."
+source_boundary: Full 71-page CBZ sequential visual review of telomereNA/Gustav, Mizugi no Shita no Yuuwaku (C96, 2019), with selective OCR limited to non-graphic afterword/colophon material. Governing character comparator is the mobile-game Nitta Minami corpus; 2015 anime continuity is excluded. Explicit material is summarized only at structural level.
 source_sha256: be612260063c2c5e604976e7dbef2b1447f35d9284ee89414a353b508950577d
 source_pages: 71
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

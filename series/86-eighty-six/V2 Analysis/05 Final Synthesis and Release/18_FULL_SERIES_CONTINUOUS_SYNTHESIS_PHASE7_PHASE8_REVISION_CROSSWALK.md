@@ -1,24 +1,24 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "claim_revision_ledger"
-artifact_role: "CLAIM_REVISION_LEDGER"
-scope: "DOCUMENT18_CANONICAL_PROMOTION"
-generation: "V2"
-status: "canonical"
-date: "2026-08-17"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-target_artifact: "18_FULL_SERIES_CONTINUOUS_SYNTHESIS.md"
-prior_target_sha256: "9f19fd985aaf292890adc1dffc31bf6253c970aa1dd0cb0eef8f3a379efb6704"
-canonical_target_sha256: "7fd79d5216ba11777dc0dfe3a6de3cca19680f851e321122658dc571c61c1ece"
-phase7_audit: "86_PHASE7_CONTRADICTION_AND_ADVERSARIAL_AUDIT.md"
-phase7_audit_sha256: "20e2782310151862b5303ffb01b40a2eb1a60dddef8b7604cbe1a2a1c3eb9909"
-phase8_audit: "86_PHASE8_JAPANESE_SOURCE_VERIFICATION_AUDIT.md"
-phase8_audit_sha256: "099a043ad906ad47a922593366bf8e0fed61167434665f747d600c1b4ca7f952"
-revision_state: "P7-R01_THROUGH_P7-R09_APPLIED"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: claim_revision_ledger
+artifact_role: CLAIM_REVISION_LEDGER
+scope: DOCUMENT18_CANONICAL_PROMOTION
+generation: V2
+status: canonical
+date: '2026-08-17'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+target_artifact: 18_FULL_SERIES_CONTINUOUS_SYNTHESIS.md
+prior_target_sha256: 9f19fd985aaf292890adc1dffc31bf6253c970aa1dd0cb0eef8f3a379efb6704
+canonical_target_sha256: 7fd79d5216ba11777dc0dfe3a6de3cca19680f851e321122658dc571c61c1ece
+phase7_audit: 86_PHASE7_CONTRADICTION_AND_ADVERSARIAL_AUDIT.md
+phase7_audit_sha256: 20e2782310151862b5303ffb01b40a2eb1a60dddef8b7604cbe1a2a1c3eb9909
+phase8_audit: 86_PHASE8_JAPANESE_SOURCE_VERIFICATION_AUDIT.md
+phase8_audit_sha256: 099a043ad906ad47a922593366bf8e0fed61167434665f747d600c1b4ca7f952
+revision_state: P7-R01_THROUGH_P7-R09_APPLIED
 canonical_promotion_authorized: true
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

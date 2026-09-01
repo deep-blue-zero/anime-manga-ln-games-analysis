@@ -4,22 +4,22 @@ artifact_type: checkpoint
 scope: V07-V09
 generation: V2
 status: canonical
-source_boundary: "Japanese light novels Volumes 7-9; Volume 7.5 included only under explicit publication-order and internal-chronology tags; Watari-scripted Volume 6.5 Christmas drama-CD coda admitted only at its explicit post-Volume-9 story chronology; no Volume 10+ evidence"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novels Volumes 7-9; Volume 7.5 included only under explicit publication-order and internal-chronology tags; Watari-scripted Volume 6.5 Christmas drama-CD coda admitted only at its explicit post-Volume-9 story chronology; no Volume 10+ evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-checkpoint_name: "Kyoto / Election / Christmas Crisis"
+created: '2026-08-15'
+checkpoint_name: Kyoto / Election / Christmas Crisis
 positive_evidence_window:
-  - V07
-  - V08
-  - V09
-  - V06.5_DRAMA_CD_POST_V09
+- V07
+- V08
+- V09
+- V06.5_DRAMA_CD_POST_V09
 chronology_tagged_supplement:
-  - V07.5
-  - "Volume 6.5 limited-edition Christmas drama CD / prose rewrite, story chronology explicitly post-V09"
+- V07.5
+- Volume 6.5 limited-edition Christmas drama CD / prose rewrite, story chronology explicitly post-V09
 revision_transition: STRENGTHEN
-revision_reason: "Reconciles the previously omitted Watari-scripted immediate post-Volume-9 Christmas coda; governing Checkpoint-C thesis preserved"
+revision_reason: Reconciles the previously omitted Watari-scripted immediate post-Volume-9 Christmas coda; governing Checkpoint-C thesis preserved
 incoming_checkpoint: OREGAIRU_V2_CHECKPOINT_B_CULTURAL_FESTIVAL_SELF_SACRIFICE_CONSOLIDATION.md
 next_checkpoint: OREGAIRU_V2_CHECKPOINT_D_POST_HONMONO_RESTRUCTURING.md
 ---

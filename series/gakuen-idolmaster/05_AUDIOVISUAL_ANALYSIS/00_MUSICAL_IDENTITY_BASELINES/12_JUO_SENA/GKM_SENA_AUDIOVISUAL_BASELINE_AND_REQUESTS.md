@@ -2,14 +2,15 @@
 series: GKM
 artifact_type: audiovisual_request
 scope: CHARACTER_JUO_SENA_PHASE3_AV_BASELINE
-character: "Juo Sena / 十王星南"
+character: Juo Sena / 十王星南
 generation: V2
 status: superseded
-source_boundary: "Historical acquisition/request design retained after completion of the 33-object Phase-3 Sena audiovisual baseline"
-supersedes: null
-superseded_by: "GKM_SENA_COMPLETE_AUDIOVISUAL_BASELINE.md"
+source_boundary: Historical acquisition/request design retained after completion of the 33-object Phase-3 Sena audiovisual baseline
+supersedes: []
+superseded_by:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/12_JUO_SENA/GKM_SENA_COMPLETE_AUDIOVISUAL_BASELINE.md
 do_not_use_as_current_authority: true
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # JUO SENA — AUDIOVISUAL BASELINE AND WHOLE-VIDEO REQUEST PACKET

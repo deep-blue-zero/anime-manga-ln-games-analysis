@@ -4,11 +4,11 @@ artifact_type: handoff
 scope: E22_to_E23
 generation: V2
 status: canonical
-source_boundary: "Frozen V2 through Episode 22; Episode 23 unopened"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen V2 through Episode 22; Episode 23 unopened
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Phase 1 Episode 22 Handoff"
+title: To Be Hero X V2 — Phase 1 Episode 22 Handoff
 ---
 
 # To Be Hero X V2 — Phase 1 Episode 22 Handoff

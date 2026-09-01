@@ -5,24 +5,26 @@ artifact_role: CHECKPOINT
 scope: POST_PHASE1_CARD_C1B
 filename: IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md
 generation: V2
-version: "1.0"
-status: canonical
-phase: "1"
+version: '1.0'
+status: superseded
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Tier-A complete + all 60 events as previously frozen + B1-A/B2-A/B2-B/B3 bonds + C1-A cards/messages + C1-B cards card_ngs_007, card_ktn_007, card_szk_002, card_rui_007 + exact companions message-card-ngs-05-fest-02, message-card-ngs-05-idol-00 as M2 support, message-card-ktn-05-fest-02, and message-card-rui-05-fest-04. tel-card-rui-05-fest-04 remains unavailable. B4 bonds, C2/C3 cards, unrelated messages, and specials are not newly admitted by this checkpoint."
+source_boundary: Tier-A complete + all 60 events as previously frozen + B1-A/B2-A/B2-B/B3 bonds + C1-A cards/messages + C1-B cards card_ngs_007, card_ktn_007, card_szk_002, card_rui_007 + exact companions message-card-ngs-05-fest-02, message-card-ngs-05-idol-00 as M2 support, message-card-ktn-05-fest-02, and message-card-rui-05-fest-04. tel-card-rui-05-fest-04 remains unavailable. B4 bonds, C2/C3 cards, unrelated messages, and specials are not newly admitted by this checkpoint.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1A_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1_CARD_C1B_CLOSE_READ_AUDIT.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1_CARD_C1B_PRIMARY_FINDINGS_FREEZE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1_LOWER_TIER_CLOSE_READ_QUEUE.md
-supersedes: IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1A_BASELINE.md
-superseded_by: null
-do_not_use_as_current_authority: false
+supersedes:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1A_BASELINE.md
+superseded_by:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+do_not_use_as_current_authority: true
 integrity_status: FROZEN_POST_CARD_C1B_REFERENCE_BEFORE_PHASE1_CLOSURE_AUDIT
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 closure audit and Phase 2 readiness decision"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: Phase 1 closure audit and Phase 2 readiness decision
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — POST-CARD C1-B GOVERNING BASELINE

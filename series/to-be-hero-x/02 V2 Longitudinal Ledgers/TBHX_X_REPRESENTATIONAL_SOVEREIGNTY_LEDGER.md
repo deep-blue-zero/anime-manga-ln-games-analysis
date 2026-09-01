@@ -6,11 +6,11 @@ scale: longitudinal_specialist
 responsibility: x_representational_world_state_mechanics
 status: active_provisional
 generation: V2
-source_boundary: "Chinese-original audiovisual evidence through complete Episode 24 targeted motion audit; E01-E24 sequential pass frozen"
-supersedes: null
-superseded_by: null
+source_boundary: Chinese-original audiovisual evidence through complete Episode 24 targeted motion audit; E01-E24 sequential pass frozen
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X — X Representational Sovereignty Ledger"
+title: To Be Hero X — X Representational Sovereignty Ledger
 ---
 
 # To Be Hero X — X Representational Sovereignty Ledger

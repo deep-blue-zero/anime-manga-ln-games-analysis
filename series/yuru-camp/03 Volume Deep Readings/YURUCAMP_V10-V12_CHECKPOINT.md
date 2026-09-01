@@ -4,33 +4,33 @@ artifact_type: checkpoint
 scope: V10-V12
 generation: V1
 status: canonical
-source_boundary: "Japanese manga Volumes 1-12; checkpoint adjudication centered on Volumes 10-12"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga Volumes 1-12; checkpoint adjudication centered on Volumes 10-12
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: YURUCAMP_ANALYTICAL_METHOD_V1.md
 governing_architecture: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md
 baseline_checkpoint: YURUCAMP_V07-V09_CHECKPOINT.md
 baseline_checkpoint_sha256: dc5176b062894a040708d52f6b5ad556f7eacf55d5ad708651c7e627ab9cfc84
 primary_checkpoint_inputs:
-  - file: YURUCAMP_V10_DEEP_READING.md
-    sha256: 0a5e3b47bf3e039a925f3b9aa91daf3ef533682c493d58e19f3b74432840b969
-  - file: YURUCAMP_V11_DEEP_READING.md
-    sha256: a3ae64e84dc1c6c9a3d12602b8036c87c6e63aa35897d1cb510a568b09d900f2
-  - file: YURUCAMP_V12_DEEP_READING.md
-    sha256: 15969c14ffb5a63c7d34c6c9182011b2f5948331021ba1358bd85af3c800217e
+- file: YURUCAMP_V10_DEEP_READING.md
+  sha256: 0a5e3b47bf3e039a925f3b9aa91daf3ef533682c493d58e19f3b74432840b969
+- file: YURUCAMP_V11_DEEP_READING.md
+  sha256: a3ae64e84dc1c6c9a3d12602b8036c87c6e63aa35897d1cb510a568b09d900f2
+- file: YURUCAMP_V12_DEEP_READING.md
+  sha256: 15969c14ffb5a63c7d34c6c9182011b2f5948331021ba1358bd85af3c800217e
 primary_source_fingerprints:
   V10: b9d2d5e2a04240808dc6dd3c4e9245b3cdbaefe3aad5172eca02d173fef95c19
   V11: 729c013dd93006b0400618245fc0ce2c5e19c8eeaaa7b6661d5460d887912187
   V12: e9f6c074dd6309314dfe1d315e1371983ca82bec78337017c0bf29491481cf61
-checkpoint_method: "claim -> strongest evidence -> wrong-world test -> counterevidence -> comparison -> revised confidence"
+checkpoint_method: claim -> strongest evidence -> wrong-world test -> counterevidence -> comparison -> revised confidence
 revision_vocabulary:
-  - PRESERVE
-  - STRENGTHEN
-  - REVISE
-  - DOWNGRADE
-  - REJECT
-  - OPEN
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
 ---
 
 # Yuru Camp△ Volumes 10–12 Adversarial Checkpoint

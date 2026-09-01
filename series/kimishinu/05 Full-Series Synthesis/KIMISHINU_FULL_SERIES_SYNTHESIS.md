@@ -4,18 +4,18 @@ artifact_type: full_series_synthesis
 scope: CURRENT_PUBLICATION_FULL_INTEGRATION
 generation: V1
 status: canonical
-source_boundary: "Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06"
+source_boundary: Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06
 integrated_boundary: V09+SIDE_STORIES
 numbered_prospective_boundary: V09
 governing_method: KIMISHINU_ANALYTICAL_METHOD.md
 governing_architecture: KIMISHINU_SYNTHESIS_ARCHITECTURE.md
-architecture_revision: "1.0"
+architecture_revision: '1.0'
 validation_audit: KIMISHINU_FULL_SERIES_SYNTHESIS_VALIDATION_AUDIT.md
 validation_outcome: PASS_WITH_NON_BLOCKING_OPEN_ITEMS
 release_state: CURRENT_PUBLICATION_CANONICAL_ACTIVE
 reasoning_class: DEEP_SYNTHESIS
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

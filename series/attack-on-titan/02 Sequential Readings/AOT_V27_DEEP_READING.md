@@ -5,129 +5,129 @@ artifact_type: deep_reading
 scope: V27
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-24"
-source_boundary: "Japanese manga Volume 27, Chapters 107-110; spoiler boundary through Volume 27 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-24'
+source_boundary: Japanese manga Volume 27, Chapters 107-110; spoiler boundary through Volume 27 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "27"
-chapters: "107-110"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '27'
+chapters: 107-110
 chapter_titles:
-  - "第107話 来客"
-  - "第108話 正論"
-  - "第109話 導く者"
-  - "第110話 偽り者"
+- 第107話 来客
+- 第108話 正論
+- 第109話 導く者
+- 第110話 偽り者
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v27 (2018) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1cWnqetPlgCLiDYNdYHdWqIQ1JzTguZSZ"
-source_sha256: "6c5b75efdfcad700407db31efb97d4ae48f93d024113ced8f241ee613aa760b8"
+source_file: Attack on Titan v27 (2018) (Digital SD) (KG Manga).cbz
+source_drive_id: 1cWnqetPlgCLiDYNdYHdWqIQ1JzTguZSZ
+source_sha256: 6c5b75efdfcad700407db31efb97d4ae48f93d024113ced8f241ee613aa760b8
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 27 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 27 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_material_source: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
+prospective_material_source: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
 prospective_register_frozen_before_source_exposure: true
-checkpoint_horizon: "approximately-75% provisional synthesis at V01-V27; Volume 28 analytically locked until checkpoint completion"
+checkpoint_horizon: approximately-75% provisional synthesis at V01-V27; Volume 28 analytically locked until checkpoint completion
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Historia Reiss / ヒストリア・レイス"
-  - "Hange Zoe / ハンジ・ゾエ"
-  - "Jean Kirstein / ジャン・キルシュタイン"
-  - "Connie Springer / コニー・スプリンガー"
-  - "Sasha Blouse / サシャ・ブラウス"
-  - "Levi Ackerman / リヴァイ・アッカーマン"
-  - "Zeke Jaeger / ジーク・イェーガー"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Falco Grice / ファルコ・グライス"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Yelena / イェレナ"
-  - "Onyankopon / オニャンコポン"
-  - "Nicolo / ニコロ"
-  - "Kaya / カヤ"
-  - "Floch Forster / フロック・フォルスター"
-  - "Dot Pixis / ドット・ピクシス"
-  - "Darius Zackly / ダリス・ザックレー"
-  - "Louise / ルイーゼ"
-  - "Kiyomi Azumabito / キヨミ・アズマビト"
+- Eren Jaeger / エレン・イェーガー
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Armin Arlert / アルミン・アルレルト
+- Historia Reiss / ヒストリア・レイス
+- Hange Zoe / ハンジ・ゾエ
+- Jean Kirstein / ジャン・キルシュタイン
+- Connie Springer / コニー・スプリンガー
+- Sasha Blouse / サシャ・ブラウス
+- Levi Ackerman / リヴァイ・アッカーマン
+- Zeke Jaeger / ジーク・イェーガー
+- Gabi Braun / ガビ・ブラウン
+- Falco Grice / ファルコ・グライス
+- Reiner Braun / ライナー・ブラウン
+- Yelena / イェレナ
+- Onyankopon / オニャンコポン
+- Nicolo / ニコロ
+- Kaya / カヤ
+- Floch Forster / フロック・フォルスター
+- Dot Pixis / ドット・ピクシス
+- Darius Zackly / ダリス・ザックレー
+- Louise / ルイーゼ
+- Kiyomi Azumabito / キヨミ・アズマビト
 major_relationships:
-  - "Eren / Historia"
-  - "Eren / Armin / Mikasa"
-  - "Eren / Hange / Paradis military authority"
-  - "Eren / Floch / emerging internal faction"
-  - "Mikasa / Louise"
-  - "Sasha / Kaya / Blouse family / Nicolo"
-  - "Gabi / Falco / Kaya"
-  - "Levi / Zeke"
-  - "Yelena / Eren / Floch"
-  - "Paradis military / Anti-Marleyan Volunteers"
+- Eren / Historia
+- Eren / Armin / Mikasa
+- Eren / Hange / Paradis military authority
+- Eren / Floch / emerging internal faction
+- Mikasa / Louise
+- Sasha / Kaya / Blouse family / Nicolo
+- Gabi / Falco / Kaya
+- Levi / Zeke
+- Yelena / Eren / Floch
+- Paradis military / Anti-Marleyan Volunteers
 major_topics:
-  - protection versus legitimate authority
-  - inherited-body coercion and dynastic strategy
-  - institutional trust as security dilemma
-  - friendship as evidence and as political blind spot
-  - collective guilt versus present-person responsibility
-  - posthumous behavioral inheritance
-  - identity markers and enemy categorization
-  - dialogue plus lethal contingency
-  - secrecy, factionalization, and political violence
-  - ideological guidance and self-authorship
-  - symbolic appropriation and populist legitimacy
-  - ordinary care as cross-enemy infrastructure
-  - testimony, source criticism, and interested confession
+- protection versus legitimate authority
+- inherited-body coercion and dynastic strategy
+- institutional trust as security dilemma
+- friendship as evidence and as political blind spot
+- collective guilt versus present-person responsibility
+- posthumous behavioral inheritance
+- identity markers and enemy categorization
+- dialogue plus lethal contingency
+- secrecy, factionalization, and political violence
+- ideological guidance and self-authorship
+- symbolic appropriation and populist legitimacy
+- ordinary care as cross-enemy infrastructure
+- testimony, source criticism, and interested confession
 major_visual_motifs:
-  - prison bars and railings
-  - Historia framed as dynastic body
-  - railroad labor and sunset embarrassment
-  - armband discarded and recovered
-  - table / food / farm as contact space
-  - scarf and rescue-memory flashback
-  - Annie crystal behind touch barrier
-  - Zackly chair and office explosion
-  - cheering crowd beneath shattered authority
-  - Eren crossing open ground toward followers
-  - coat as political silhouette
-  - carriage compartment and final face-to-face uncertainty
+- prison bars and railings
+- Historia framed as dynastic body
+- railroad labor and sunset embarrassment
+- armband discarded and recovered
+- table / food / farm as contact space
+- scarf and rescue-memory flashback
+- Annie crystal behind touch barrier
+- Zackly chair and office explosion
+- cheering crowd beneath shattered authority
+- Eren crossing open ground toward followers
+- coat as political silhouette
+- carriage compartment and final face-to-face uncertainty
 major_lexical_targets:
-  - 来客
-  - 正論
-  - 導く者
-  - 偽り者
-  - 王家の血
-  - 地鳴らし
-  - 家畜
-  - 大事
-  - 長生き
-  - 話し合う
-  - 信頼
-  - 善良なエルディア人
-  - 罪
-  - 心臓を捧げよ
-  - 始祖
-  - 主体的
-  - 思想
-  - ジークの居場所
+- 来客
+- 正論
+- 導く者
+- 偽り者
+- 王家の血
+- 地鳴らし
+- 家畜
+- 大事
+- 長生き
+- 話し合う
+- 信頼
+- 善良なエルディア人
+- 罪
+- 心臓を捧げよ
+- 始祖
+- 主体的
+- 思想
+- ジークの居場所
 cumulative_status:
-  - strengthened
-  - revised
-  - prospectively_tested
-  - politically_fragmented
-  - checkpoint_ready
-  - open
+- strengthened
+- revised
+- prospectively_tested
+- politically_fragmented
+- checkpoint_ready
+- open
 ---
 
 # 『進撃の巨人』Volume 27 Deep Reading

@@ -1,15 +1,15 @@
 ---
 series: CGMG
-series_title: "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)"
+series_title: THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)
 artifact_type: character_monograph
 scope: FUTABA_ANZU
 generation: V1
 status: active_provisional
-source_boundary: "Integrated Mobage + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE character packet for Futaba Anzu. Deresute text is complete against the final released categorized inventory; Mobage is structurally incomplete. The 2015 television anime is excluded from governing evidence."
+source_boundary: Integrated Mobage + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE character packet for Futaba Anzu. Deresute text is complete against the final released categorized inventory; Mobage is structurally incomplete. The 2015 television anime is excluded from governing evidence.
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_evidence_packet: "CINDERELLA_GIRLS_FUTABA_ANZU"
+primary_evidence_packet: CINDERELLA_GIRLS_FUTABA_ANZU
 source_packet_snapshot:
   candidate_source_objects: 328
   target_confirmed_source_objects: 222
@@ -19,8 +19,8 @@ source_packet_snapshot:
   mobage_text_completeness: STRUCTURALLY_INCOMPLETE
   audio_completeness: NOT_ACQUIRED
 cross_media_exclusions:
-  - "THE IDOLM@STER CINDERELLA GIRLS (2015) television anime"
-  - "U149 and other adaptation continuities except where explicitly cross-referenced in a later artifact"
+- THE IDOLM@STER CINDERELLA GIRLS (2015) television anime
+- U149 and other adaptation continuities except where explicitly cross-referenced in a later artifact
 ---
 
 # THE IDOLM@STER CINDERELLA GIRLS — Futaba Anzu Character Monograph

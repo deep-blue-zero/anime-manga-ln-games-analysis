@@ -138,23 +138,38 @@ class PhaseValidationTests(unittest.TestCase):
         policy = json.loads(
             (ROOT / "governance/repository-controls/tracked-file-policy.json").read_bytes()
         )
-        self.assertEqual(
-            policy["named_text_exceptions"],
-            [
-                {
-                    "path": "series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv",
-                    "bytes": 1377633,
-                    "sha256": "7dde60c452627a694307dda68abfb0d4d434ec1c2ce934bf85a0b81db483c366",
-                    "exception_id": "IDOLY_PRIDE_SOURCE_TO_BUNDLE_PROVENANCE_CSV",
-                    "allow_utf8_bom": True,
-                    "allow_carriage_returns": True,
-                    "purpose": "Preserve the human- and machine-readable source-to-bundle provenance ledger beside the analyses whose source coverage it records.",
-                    "rights_basis": "Owner-approved analytical and provenance metadata within the repository's narrow original-content license scope.",
-                    "review_decision": "OWNER_APPROVED_G4_P02_LARGE_STRUCTURED_BOUNDARY",
-                    "external_reference_insufficient": "An external-only reference would remove the directly queryable provenance relationships needed to interpret and audit the migrated analysis.",
-                }
-            ],
+        exceptions = policy["named_text_exceptions"]
+        by_path = {row["path"]: row for row in exceptions}
+        idoly_path = (
+            "series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal "
+            "Ledgers/02.01 Corpus Coverage and Priority Ledger/"
+            "IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv"
         )
+        crosswalk_paths = {
+            "crosswalk/drive-to-git.jsonl",
+            "crosswalk/materialization-results.jsonl",
+            "crosswalk/path-plan.jsonl",
+        }
+        self.assertEqual(set(by_path), {*crosswalk_paths, idoly_path})
+        for path, row in by_path.items():
+            with self.subTest(path=path):
+                data = (ROOT / path).read_bytes()
+                self.assertEqual(row["bytes"], len(data))
+                self.assertEqual(row["sha256"], hashlib.sha256(data).hexdigest())
+        self.assertTrue(by_path[idoly_path]["allow_utf8_bom"])
+        self.assertTrue(by_path[idoly_path]["allow_carriage_returns"])
+        self.assertEqual(
+            by_path[idoly_path]["exception_id"],
+            "IDOLY_PRIDE_SOURCE_TO_BUNDLE_PROVENANCE_CSV",
+        )
+        for path in crosswalk_paths:
+            with self.subTest(crosswalk=path):
+                self.assertFalse(by_path[path]["allow_utf8_bom"])
+                self.assertFalse(by_path[path]["allow_carriage_returns"])
+                self.assertEqual(
+                    by_path[path]["review_decision"],
+                    "OWNER_APPROVED_G5_FINAL_AGGREGATE_PROVENANCE_CLOSURE",
+                )
 
     def test_production_furina_commonmark_exception_is_exactly_bound(self) -> None:
         policy = json.loads(
@@ -167,8 +182,8 @@ class PhaseValidationTests(unittest.TestCase):
             [
                 {
                     "path": "series/genshin-impact/05 Character Monographs/GENSHIN_FURINA_CHARACTER_MONOGRAPH.md",
-                    "bytes": 106096,
-                    "sha256": "0e8bc9dbaebdc985adccf3d5260fda2aef1a43f0ef1d46e38dda340ab47571a4",
+                    "bytes": 106094,
+                    "sha256": "f61db7d38eb980bf6906fccee93a78200048f6bd2cf6efcfe60788520918b356",
                     "exception_id": "GENSHIN_FURINA_COMMONMARK_HARD_BREAKS",
                     "attribute": "whitespace=-blank-at-eol",
                     "trailing_ascii_spaces": 2,

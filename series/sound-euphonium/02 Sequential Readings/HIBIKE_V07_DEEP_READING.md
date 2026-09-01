@@ -4,9 +4,9 @@ artifact_type: deep_reading
 scope: V07
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V07 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校の吹奏楽部日誌』; narrative novellas primary, book paratext separately labeled F"
-supersedes: null
-superseded_by: null
+source_boundary: 'HIBIKE-V07 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校の吹奏楽部日誌』; narrative novellas primary, book paratext separately labeled F'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

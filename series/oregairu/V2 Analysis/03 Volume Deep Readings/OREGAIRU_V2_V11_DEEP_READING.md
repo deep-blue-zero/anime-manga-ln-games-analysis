@@ -4,17 +4,17 @@ artifact_type: deep_reading
 scope: V11
 generation: V2
 status: canonical
-source_boundary: "Japanese light novel Volume 11"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novel Volume 11
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-primary_text: "Oregairu - Volume 11 [Japanese].epub"
-fixed_page_witness: "(一般小説) やはり俺の青春ラブコメはまちがっている。第11巻.pdf"
-primary_text_sha256: "626e8b6754dc4073971f968b9704ee65234ff2b4ad6a01db24d7d0cf5bbcd733"
-fixed_page_witness_sha256: "e81e128de1c0ee3da00e3c1ff8f036db5f46eb9466471d3b6c09436a466a3d8f"
-publication_position: "after Volume 10.5; before Volume 12"
-prospective_boundary: "Volume 11 only, read from the post-Volume-10.5 state; later volumes excluded except in the explicitly retrospective section"
+created: '2026-08-15'
+primary_text: Oregairu - Volume 11 [Japanese].epub
+fixed_page_witness: (一般小説) やはり俺の青春ラブコメはまちがっている。第11巻.pdf
+primary_text_sha256: 626e8b6754dc4073971f968b9704ee65234ff2b4ad6a01db24d7d0cf5bbcd733
+fixed_page_witness_sha256: e81e128de1c0ee3da00e3c1ff8f036db5f46eb9466471d3b6c09436a466a3d8f
+publication_position: after Volume 10.5; before Volume 12
+prospective_boundary: Volume 11 only, read from the post-Volume-10.5 state; later volumes excluded except in the explicitly retrospective section
 ---
 
 # OREGAIRU V2 — Volume 11 Deep Reading

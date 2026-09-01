@@ -3,34 +3,34 @@ series: IDOLY_PRIDE
 artifact_type: branch_canon_ledger
 artifact_role: LEDGER
 scope: MAKINO_PLAYER_BRANCH_CANON
-character: "牧野航平 / Makino Kouhei"
+character: 牧野航平 / Makino Kouhei
 character_code: koh
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-A3"
+phase: '2'
+tranche: P2-A3
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Branch-canon adjudication for the Manager (player) / Makino Kouhei interface across the complete Phase-1-routed game snapshot. Fixed Makino characterization inherits P2-A2 and the Hoshimi anime-game expansion audit. Player-selectable or alternate-route material is classified only to the granularity supported by the mirrored ingest. The current bundle/JSONL projection preserves dialogue and provenance but does not preserve explicit branch_group_id/branch_option_id control-flow metadata for every selectable line; exact option IDs are therefore never invented."
+source_boundary: Branch-canon adjudication for the Manager (player) / Makino Kouhei interface across the complete Phase-1-routed game snapshot. Fixed Makino characterization inherits P2-A2 and the Hoshimi anime-game expansion audit. Player-selectable or alternate-route material is classified only to the granularity supported by the mirrored ingest. The current bundle/JSONL projection preserves dialogue and provenance but does not preserve explicit branch_group_id/branch_option_id control-flow metadata for every selectable line; exact option IDs are therefore never invented.
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 branch_semantic_status: PASS_WITH_EXPLICIT_BRANCH_LOCATOR_LIMITATION
 manager_identity: MAKINO_KOUHEI_CONTINUITY
 manager_identity_reopen_status: CLOSED_ABSENT_CONTRADICTORY_PRIMARY_EVIDENCE
 branch_locator_completeness: PARTIAL_SOURCE_PROJECTION_LIMITATION
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 inherits:
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_HOSHIMI_ANIME_GAME_EXPANSION_AUDIT.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-created: "2026-08-18"
-updated: "2026-08-18"
-next_operation: "P2-B1 — SUNNY PEACE character longitudinal ledgers; begin with IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_HOSHIMI_ANIME_GAME_EXPANSION_AUDIT.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+created: '2026-08-18'
+updated: '2026-08-18'
+next_operation: P2-B1 — SUNNY PEACE character longitudinal ledgers; begin with IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — MAKINO PLAYER-BRANCH CANON LEDGER

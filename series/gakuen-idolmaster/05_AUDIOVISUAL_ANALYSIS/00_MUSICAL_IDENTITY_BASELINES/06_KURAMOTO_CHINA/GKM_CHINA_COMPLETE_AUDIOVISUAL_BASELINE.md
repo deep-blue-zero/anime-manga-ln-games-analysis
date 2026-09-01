@@ -2,16 +2,17 @@
 series: GKM
 artifact_type: audiovisual_baseline
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_COMPLETE_AV
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 release: R1
 status: canonical
-source_boundary: "21 canonical logical AV objects / 4.989 hours / 2.231 GB decimal: complete Dear 001-037, six complete song communications, eight rendered performances, and three authored official MVs; one duplicate high-resolution Dear 021/Kanae excerpt retained as a supplemental inspection aid"
-supersedes: "GKM_CHINA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md"
-superseded_by: null
+source_boundary: '21 canonical logical AV objects / 4.989 hours / 2.231 GB decimal: complete Dear 001-037, six complete song communications, eight rendered performances, and three authored official MVs; one duplicate high-resolution Dear 021/Kanae excerpt retained as a supplemental inspection aid'
+supersedes:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/06_KURAMOTO_CHINA/GKM_CHINA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-21"
-title: "Gakuen Idolmaster V2 — Kuramoto China Complete Audiovisual Baseline"
+last_updated: '2026-08-21'
+title: Gakuen Idolmaster V2 — Kuramoto China Complete Audiovisual Baseline
 ---
 
 # GKM — KURAMOTO CHINA COMPLETE AUDIOVISUAL BASELINE

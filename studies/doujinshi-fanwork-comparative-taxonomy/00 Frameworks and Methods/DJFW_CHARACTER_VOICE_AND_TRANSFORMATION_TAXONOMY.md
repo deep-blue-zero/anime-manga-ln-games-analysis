@@ -4,8 +4,8 @@ artifact_type: character_voice_taxonomy
 scope: fanwork_transformation_analysis
 generation: V1
 status: active_provisional
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

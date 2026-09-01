@@ -5,25 +5,25 @@ artifact_role: AUDIT
 scope: PHASE1B_EVENT_E2A1
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_E2A1_CLOSE_READ_AUDIT.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Four E2-A1 event bundles, prospective primary freeze, then Tier-H historical comparison"
+source_boundary: Four E2-A1 event bundles, prospective primary freeze, then Tier-H historical comparison
 governing_baseline: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E1E_BASELINE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1B_E2_CLOSE_READ_QUEUE.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1B_EVENT_E2A1_PRIMARY_FINDINGS_FREEZE.md
-historical_comparison_basis: "Tier-H prior IDOLY PRIDE analysis prose opened only after the primary findings freeze"
+historical_comparison_basis: Tier-H prior IDOLY PRIDE analysis prose opened only after the primary findings freeze
 integrity_status: PRIMARY_FROZEN_BEFORE_HISTORICAL_COMPARISON
 findings_admitted_by_successor_baseline: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E2A1_BASELINE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-updated: "2026-08-15"
-next_operation: "Phase 1B Event Close Read — E2-A2"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-15'
+updated: '2026-08-15'
+next_operation: Phase 1B Event Close Read — E2-A2
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1B EVENT E2-A1 CLOSE-READ AUDIT

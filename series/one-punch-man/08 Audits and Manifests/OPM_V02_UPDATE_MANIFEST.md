@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: V02
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon V02; semantic source lock and Japanese dialogue/register QC complete"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon V02; semantic source lock and Japanese dialogue/register QC complete
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

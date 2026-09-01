@@ -2,16 +2,17 @@
 series: GKM
 artifact_type: audiovisual_baseline
 scope: CHARACTER_HANAMI_UME_PHASE3_COMPLETE_AV
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 release: R1
 status: canonical
-source_boundary: "21 canonical logical AV objects / 4.626 hours / 2.098 GB decimal: complete Dear 001-037, five complete song communications, seven rendered character performances, two authored official MVs, one official lyric video, and two full-song video assets; one 2160p duplicate Rolling Riceball capture retained in Drive but not counted or independently materialized"
-supersedes: "GKM_UME_AUDIOVISUAL_BASELINE_AND_REQUESTS.md"
-superseded_by: null
+source_boundary: '21 canonical logical AV objects / 4.626 hours / 2.098 GB decimal: complete Dear 001-037, five complete song communications, seven rendered character performances, two authored official MVs, one official lyric video, and two full-song video assets; one 2160p duplicate Rolling Riceball capture retained in Drive but not counted or independently materialized'
+supersedes:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/10_HANAMI_UME/GKM_UME_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-19"
-title: "Gakuen Idolmaster V2 — Hanami Ume Complete Audiovisual Baseline"
+last_updated: '2026-08-19'
+title: Gakuen Idolmaster V2 — Hanami Ume Complete Audiovisual Baseline
 ---
 
 # GKM — HANAMI UME COMPLETE AUDIOVISUAL BASELINE

@@ -4,9 +4,9 @@ artifact_type: checkpoint
 scope: V01-V03
 generation: V2
 status: canonical
-source_boundary: "Locked Japanese prose HIBIKE-V01 through HIBIKE-V03"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese prose HIBIKE-V01 through HIBIKE-V03
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

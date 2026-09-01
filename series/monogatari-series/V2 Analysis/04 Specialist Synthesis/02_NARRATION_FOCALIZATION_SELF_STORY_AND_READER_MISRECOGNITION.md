@@ -4,22 +4,22 @@ artifact_type: specialist_synthesis
 scope: NARRATION_FOCALIZATION_SELF_STORY_READER_MISRECOGNITION
 generation: V2
 status: canonical
-source_boundary: "Locked Japanese numbered corpus V01-V30 plus controlled supplementary admissions from 佰物語 (SUP-C) and 短物語 (SUP-A); 化物語 アニメコンプリートガイドブック retained only as GUIDE-001-005 dual textual witnesses"
+source_boundary: Locked Japanese numbered corpus V01-V30 plus controlled supplementary admissions from 佰物語 (SUP-C) and 短物語 (SUP-A); 化物語 アニメコンプリートガイドブック retained only as GUIDE-001-005 dual textual witnesses
 governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
 governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
 evidence_router: 21_VOLUME_AND_ARC_EVIDENCE_LEDGER.md
 primary_longitudinal_ledger: L02_NARRATOR_AND_FOCALIZATION_LEDGER.md
 supporting_ledgers:
-  - L04_CHARACTER_ROLE_AND_SELF_STORY_LEDGER.md
-  - L05_RELATIONSHIP_AND_ADDRESS_LEDGER.md
-  - L09_FIRST_PASS_V2_CLAIM_REVISION_LEDGER.md
+- L04_CHARACTER_ROLE_AND_SELF_STORY_LEDGER.md
+- L05_RELATIONSHIP_AND_ADDRESS_LEDGER.md
+- L09_FIRST_PASS_V2_CLAIM_REVISION_LEDGER.md
 chronology_authority: L01_PUBLICATION_AND_STORY_CHRONOLOGY_LEDGER.md
 chronology_boundary: C764
-phase: "Phase 3 specialist synthesis"
-target_range: "9000-13000 words"
+phase: Phase 3 specialist synthesis
+target_range: 9000-13000 words
 next_artifact: 03_ODDITIES_METAPHYSICS_RUMOR_NAMES_AND_NARRATIVE_BODIES.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

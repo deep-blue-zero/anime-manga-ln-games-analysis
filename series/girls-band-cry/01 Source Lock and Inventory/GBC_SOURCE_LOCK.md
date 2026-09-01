@@ -4,9 +4,9 @@ artifact_type: source_lock
 scope: E01-E13
 analysis_generation: V2
 status: canonical
-source_boundary: "Locked V2 base corpus: Girls Band Cry TV anime Episodes 1-13 as the thirteen validated multimodal analysis bundles in the canonical primary-source Drive folder"
-supersedes: null
-superseded_by: null
+source_boundary: 'Locked V2 base corpus: Girls Band Cry TV anime Episodes 1-13 as the thirteen validated multimodal analysis bundles in the canonical primary-source Drive folder'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 updated: 2026-08-17

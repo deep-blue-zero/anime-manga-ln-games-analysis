@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: completion_report
 scope: CHARACTER_SHIUN_SUMIKA_PHASE3_AV_COMPLETION
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: canonical
-source_boundary: "Complete current-boundary Sumika AV release based on 22 logical staged objects, all directly inspected at the current boundary; Dear 028–037 backfilled through an equivalent 720p30 direct-upload analysis materialization; Source Lock 1.0 controls exact text"
-supersedes: null
-superseded_by: null
+source_boundary: Complete current-boundary Sumika AV release based on 22 logical staged objects, all directly inspected at the current boundary; Dear 028–037 backfilled through an equivalent 720p30 direct-upload analysis materialization; Source Lock 1.0 controls exact text
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shiun Sumika Phase-3 AV Completion Report"
-parent_authority: "GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shiun Sumika Phase-3 AV Completion Report
+parent_authority: GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # PHASE 3 — SUMIKA AUDIOVISUAL COMPLETION REPORT

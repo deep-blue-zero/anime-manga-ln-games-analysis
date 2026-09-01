@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_HANAMI_UME_PHASE3_COMPLETE_AV
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Claim routing across Source Lock 1.0 and 21 directly inspected canonical AV objects"
-supersedes: null
-superseded_by: null
+source_boundary: Claim routing across Source Lock 1.0 and 21 directly inspected canonical AV objects
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-19"
-title: "Hanami Ume AV Evidence and Metrics Matrix"
+last_updated: '2026-08-19'
+title: Hanami Ume AV Evidence and Metrics Matrix
 ---
 
 # GKM — HANAMI UME AV EVIDENCE AND METRICS MATRIX

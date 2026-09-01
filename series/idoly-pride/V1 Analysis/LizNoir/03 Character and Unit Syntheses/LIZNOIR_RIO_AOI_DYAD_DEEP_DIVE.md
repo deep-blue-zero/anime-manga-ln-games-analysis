@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "relationship_synthesis"
-scope: "LizNoir / Kanzaki Rio + Igawa Aoi"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed synthesis/reconstruction"
+series: IDOLY_PRIDE
+artifact_type: relationship_synthesis
+scope: LizNoir / Kanzaki Rio + Igawa Aoi
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md
 source_turn: 46
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed synthesis/reconstruction'
 ---
 
 Source anchors used for the synthesis include LizNoir’s origin arc, Aoi’s card/message material, Rio’s card/message material, and the major LizNoir/Aoi events discussed above: origin\_liz\_001\_a\_budding\_lily origin\_liz\_002\_one\_more\_dream origin\_liz\_004\_love\_heart card\_aoi\_002\_st-card-aoi-05-bir… message\_message\_group\_aoi\_001\_m… message\_message\_group\_aoi\_001\_m… message\_message\_group\_aoi\_001\_m… IMPORTANT\_011\_\_event\_2022\_008\_s… IMPORTANT\_020\_\_event\_2024\_002\_s… IMPORTANT\_026\_\_event\_2026\_004\_s… CORE\_023\_\_event\_2024\_005\_st-eve… CORE\_024\_\_event\_2025\_010\_st-eve…

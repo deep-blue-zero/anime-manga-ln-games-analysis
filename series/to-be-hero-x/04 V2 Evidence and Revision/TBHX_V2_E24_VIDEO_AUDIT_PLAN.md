@@ -6,11 +6,12 @@ scale: episode
 responsibility: motion_dependent_claim_plan
 status: superseded
 generation: V2
-source_boundary: "Episode 24 only; sponsor interstitial and merchandise promotion excluded"
-supersedes: null
-superseded_by: "TBHX_V2_E24_VIDEO_EVIDENCE_AUDIT.md"
+source_boundary: Episode 24 only; sponsor interstitial and merchandise promotion excluded
+supersedes: []
+superseded_by:
+- series/to-be-hero-x/04 V2 Evidence and Revision/TBHX_V2_E24_VIDEO_EVIDENCE_AUDIT.md
 do_not_use_as_current_authority: true
-title: "To Be Hero X V2 — Episode 24 Motion Audit Plan"
+title: To Be Hero X V2 — Episode 24 Motion Audit Plan
 ---
 
 # To Be Hero X V2 — Episode 24 Motion Audit Plan

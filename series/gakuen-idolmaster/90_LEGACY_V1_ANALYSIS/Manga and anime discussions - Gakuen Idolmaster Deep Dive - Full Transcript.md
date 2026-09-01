@@ -10756,11 +10756,11 @@ The available material makes SyngUp! feel like a talented but unstable middle-sc
 
 **Misuzu Hataya / 秦谷美鈴** needed Temari to live, but also wanted to be the person who made Temari live. Her care was real, but it had a possessive, totalizing quality.
 
-**Rinha Kaya / 賀陽燐羽** seems to have represented the external ideal: sharper, more distant, more rival-like, and eventually connected to the wider Gokugetsu/961-side pressure structure. In the later corpus she functions as “the unresolved third point” of SyngUp!, the wounded return who makes Temari and Misuzu’s reconciliation incomplete until the triangle itself is faced.[
+**Rinha Kaya / 賀陽燐羽** seems to have represented the external ideal: sharper, more distant, more rival-like, and eventually connected to the wider Gokugetsu/961-side pressure structure. In the later corpus she functions as “the unresolved third point” of SyngUp!, the wounded return who makes Temari and Misuzu’s reconciliation incomplete until the triangle itself is faced.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 The important thing is that all three girls were serious. This was not a casual friend group that imploded through petty drama. It was a unit where each girl’s idol identity became tangled with the others’ way of seeing her.
 
@@ -10776,11 +10776,11 @@ Temari’s SyngUp! wound is not simply “my old unit broke up.” It is more in
 
 > **Temari was cared for in ways she experienced as obstruction, and then tried to prove she could become a top idol without needing that care.**
 
-Temari is one of the most contradiction-heavy characters in the series. The broader synthesis describes her as the cool blue singer whose coolness is constantly invaded by food anxiety, neediness, jealousy, and the wound of being cared for too much.[
+Temari is one of the most contradiction-heavy characters in the series. The broader synthesis describes her as the cool blue singer whose coolness is constantly invaded by food anxiety, neediness, jealousy, and the wound of being cared for too much.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)That formulation matters because Temari’s relation to SyngUp! is exactly that: she wants to be the untouchable songstress, but the old unit knows she is needy, childish, scared, and bodily vulnerable.
+ _(historical external conversation reference unavailable in Git)_That formulation matters because Temari’s relation to SyngUp! is exactly that: she wants to be the untouchable songstress, but the old unit knows she is needy, childish, scared, and bodily vulnerable.
 
 Her relationship with Misuzu exposes this most directly. In one support, Misuzu tries to define their status not as reconciliation but as **一時休戦 / temporary truce**: reconciliation means mutual forgiveness, while a truce can happen while they remain enemies. Temari immediately realizes that Misuzu is once again talking her into things, and Misuzu calls that familiar exchange nostalgic. support\_series\_3\_part\_026-050.d…
 
@@ -10820,11 +10820,11 @@ After maturation, it becomes:
 
 This is the difference between support and possession.
 
-The broader *Gakumas* synthesis makes the same point: support in the series is not automatically virtuous. Misuzu’s relationship with Temari is the cautionary model because her care is real, but before reconciliation it risks becoming too total; she wants to manage Temari’s food, body, pace, and emotional state. Mature support means adjusting to the other person, not simply imposing “I know what you need.”[
+The broader *Gakumas* synthesis makes the same point: support in the series is not automatically virtuous. Misuzu’s relationship with Temari is the cautionary model because her care is real, but before reconciliation it risks becoming too total; she wants to manage Temari’s food, body, pace, and emotional state. Mature support means adjusting to the other person, not simply imposing “I know what you need.”
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Misuzu’s question is:
 
@@ -10994,11 +10994,11 @@ That is very *Gakumas*: a private wound must be made visible, performed, and tra
 
 SyngUp! is one of the series’ best examples of why **support is not automatically good**.
 
-The full-series synthesis describes *Gakumas* as a story where private contradictions become public light through an ecosystem of producer, class, rival, fan, senior, junior, family, food, body, song, and institution.[
+The full-series synthesis describes *Gakumas* as a story where private contradictions become public light through an ecosystem of producer, class, rival, fan, senior, junior, family, food, body, song, and institution.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)SyngUp! shows what happens when that ecosystem is too narrow.
+ _(historical external conversation reference unavailable in Git)_SyngUp! shows what happens when that ecosystem is too narrow.
 
 Temari had talent and ambition.
 Misuzu had care.
@@ -11154,11 +11154,11 @@ So yes, there is a neurotic/perfectionistic component. But it is disciplined, no
 
 This is probably the most obvious “neurotic” surface trait. Temari’s relationship with food is comic, but it is not only a gag. She often tries to restrict herself because she is an idol, then collapses into appetite when permission appears. In one event, she tries to eat only salad, is tempted by the idea of a cheat day, starts eating, and then immediately asks whether there is another serving. event\_006-012.dialogue
 
-That pattern recurs through Misuzu’s food care, Kotone’s bentos, Saki’s body-management interventions, and Temari’s own anxiety around weight and self-control. The broader synthesis captures this well: Misuzu cooks partly to manage Temari’s body anxiety without making food feel punitive, and Temari’s body is one of the bodies the series treats as disciplined, feared, and monitored.[
+That pattern recurs through Misuzu’s food care, Kotone’s bentos, Saki’s body-management interventions, and Temari’s own anxiety around weight and self-control. The broader synthesis captures this well: Misuzu cooks partly to manage Temari’s body anxiety without making food feel punitive, and Temari’s body is one of the bodies the series treats as disciplined, feared, and monitored.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 So I would refine “neurotic” here into:
 
@@ -11170,11 +11170,11 @@ It is not merely “haha, singer girl likes food.” The comedy works because it
 
 This is the deepest part. Temari often behaves as if needing others humiliates her. But the source material repeatedly shows that she does need others: Misuzu, Rinha, the producer, Saki, Kotone, even softer figures like Lilja or Hiro in smaller scenes.
 
-Her relationship with Misuzu makes the contradiction especially clear. Misuzu’s care is real but before reconciliation risks becoming too total: she wants to manage Temari’s food, body, pace, and emotional state. Temari resents that care, but also relaxes into it. The full-series synthesis explicitly identifies Misuzu/Temari as the cautionary version of support: care that is real, but at risk of becoming engulfing.[
+Her relationship with Misuzu makes the contradiction especially clear. Misuzu’s care is real but before reconciliation risks becoming too total: she wants to manage Temari’s food, body, pace, and emotional state. Temari resents that care, but also relaxes into it. The full-series synthesis explicitly identifies Misuzu/Temari as the cautionary version of support: care that is real, but at risk of becoming engulfing.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 That gives us a better model than “neurotic”:
 
@@ -11236,11 +11236,11 @@ Without source material, Temari’s tendencies could look like character quirks:
 
 With SyngUp!, they become part of a coherent wound.
 
-Temari was in a unit where care, ambition, jealousy, dependency, and self-destruction became tangled. Misuzu saw Temari burning herself out and tried to contain her; Temari experienced that containment as obstruction or humiliation. Rinha’s absence/return adds the unresolved third point. The later SyngUp! material shows that Temari and Misuzu cannot simply go back; they need a new form of care that does not repeat the old dependency trap.[
+Temari was in a unit where care, ambition, jealousy, dependency, and self-destruction became tangled. Misuzu saw Temari burning herself out and tried to contain her; Temari experienced that containment as obstruction or humiliation. Rinha’s absence/return adds the unresolved third point. The later SyngUp! material shows that Temari and Misuzu cannot simply go back; they need a new form of care that does not repeat the old dependency trap.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 So the refined version is:
 
@@ -11394,11 +11394,11 @@ This is why Ume’s route question is so strong:
 
 > Can a dream born from chasing someone else become truly her own?
 
-The full-series synthesis captured this as Ume’s central question, and the Saki/Ume relationship is the reason that question matters. Ume is visible at first as Saki’s pursuer, but she must become herself.[
+The full-series synthesis captured this as Ume’s central question, and the Saki/Ume relationship is the reason that question matters. Ume is visible at first as Saki’s pursuer, but she must become herself.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 The danger is that if Ume finally beats Saki, the structure that defined her life might collapse. For a person whose emotional world has been organized around “catch Saki,” victory is not pure liberation. It is existentially dangerous.
 
@@ -11426,11 +11426,11 @@ Competition gives their love a form.
 
 This does not mean the relationship is entirely safe. Saki’s older-sister pride can become overcontrol. Ume’s admiration can become dependency. But unlike SyngUp!, their system usually permits separation: they can compete because they are not trying to become the same person. Ume wants to surpass Saki; Saki wants Ume strong enough to threaten her. That mutuality keeps rivalry from becoming pure hierarchy.
 
-The series’ broader idea is that rivalry is often the grammar of intimacy in *Gakumas*, and Saki/Ume are the clearest example: Ume chases Saki because Saki is her dream, while Saki trains Ume because Ume was already her idol.[
+The series’ broader idea is that rivalry is often the grammar of intimacy in *Gakumas*, and Saki/Ume are the clearest example: Ume chases Saki because Saki is her dream, while Saki trains Ume because Ume was already her idol.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ---
 
@@ -11440,11 +11440,11 @@ The most important refinement is that the admiration is not one-way.
 
 At the surface level, Ume worships Saki. Saki is the unbeatable older sister, the one Ume has never defeated, the one who ran ahead, cooked for her, trained with her, and gave her a living standard of excellence.
 
-But later support material reveals that Saki also sees Ume as an idol. When Ume becomes jealous of the idol who originally inspired Saki, Saki says that from the first day they met, Hanami Ume has been Saki’s number-one idol. The full-series synthesis identifies this as the emotional core of their relationship: “mutual worship disguised as competition.”[
+But later support material reveals that Saki also sees Ume as an idol. When Ume becomes jealous of the idol who originally inspired Saki, Saki says that from the first day they met, Hanami Ume has been Saki’s number-one idol. The full-series synthesis identifies this as the emotional core of their relationship: “mutual worship disguised as competition.”
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 That matters because it prevents Saki from being reduced to the dominant older sister and Ume to the dependent younger one.
 
@@ -11479,11 +11479,11 @@ Saki’s care is not airy emotional reassurance. It is:
 -   making sure the younger sister can keep moving.
 
 
-This is why food matters so much for the Hanami sisters. In *Gakumas*, food is one of the primary symbols of care, body, family, and idolhood; Saki cooks to build bodies and express sisterly love, while Ume eats as physical joy and bodily trust.[
+This is why food matters so much for the Hanami sisters. In *Gakumas*, food is one of the primary symbols of care, body, family, and idolhood; Saki cooks to build bodies and express sisterly love, while Ume eats as physical joy and bodily trust.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 The best formulation is:
 
@@ -11662,11 +11662,11 @@ Their relationship is built on a deceptively simple exchange:
 
 That is the whole pair in miniature.
 
-Sumika is the bright, social, gyaru-coded girl whose cheerfulness hides fear. Lilja is the timid, foreign, inexperienced beginner whose anxiety hides extraordinary will. The series-wide synthesis frames their central questions very cleanly: Sumika asks whether a frightened person can become strong by making a chosen fantasy true, while Lilja asks whether weak beginnerhood can become idolhood through will, effort, and shared courage.[
+Sumika is the bright, social, gyaru-coded girl whose cheerfulness hides fear. Lilja is the timid, foreign, inexperienced beginner whose anxiety hides extraordinary will. The series-wide synthesis frames their central questions very cleanly: Sumika asks whether a frightened person can become strong by making a chosen fantasy true, while Lilja asks whether weak beginnerhood can become idolhood through will, effort, and shared courage.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Together, they answer each other.
 
@@ -11709,11 +11709,11 @@ That matters for the Lilja/Sumika pair because Sumika sees the same thing before
 
 Lilja’s weakness is real. She lacks experience. She overtrains. She doubts herself. She is anxious around crowds. She is physically behind. But her weakness is never treated as disqualifying. It becomes the visible ground from which courage becomes legible.
 
-The series’ broader thesis identifies Lilja as “the timid foreign beginner,” but also says her whole life is already an act of radical courage.[
+The series’ broader thesis identifies Lilja as “the timid foreign beginner,” but also says her whole life is already an act of radical courage.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)That is the key to her.
+ _(historical external conversation reference unavailable in Git)_That is the key to her.
 
 ---
 
@@ -11723,11 +11723,11 @@ Sumika’s surface is almost the opposite of Lilja’s: bright, casual, gyaru, s
 
 But Sumika’s cheerfulness is not simply natural lightness. It is also armor.
 
-The series-wide synthesis puts it bluntly: Sumika is the cheerful gyaru, but cheerfulness is a trauma-management technology.[
+The series-wide synthesis puts it bluntly: Sumika is the cheerful gyaru, but cheerfulness is a trauma-management technology.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Her major wound is bodily and artistic. She had a serious knee injury in the past. The knee healed physically, but the injury became trauma: moving the knee, jumping, and dancing could make her freeze. She hid that from Lilja, pretended she lacked motivation, and became good at lying about why she was avoiding lessons. 99\_complete\_character\_bundle.di…
 
@@ -11818,11 +11818,11 @@ Sumika’s distortion:
 
 Neither is healthy. Both are trying to protect the other by disappearing from themselves.
 
-This is where *Gakumas*’ broader support philosophy matters. Good support is not “I know what you need”; it is learning how to adjust to the actual person in front of you. The series repeatedly argues that support is a craft and that bad support can suffocate or erase.[
+This is where *Gakumas*’ broader support philosophy matters. Good support is not “I know what you need”; it is learning how to adjust to the actual person in front of you. The series repeatedly argues that support is a craft and that bad support can suffocate or erase.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Lilja and Sumika have to learn that they cannot support each other by hiding.
 
@@ -11874,19 +11874,19 @@ Lilja’s strength is effort. Her weakness is also effort.
 
 She is the girl who refuses to stop. The producer praises her will. Sumika admires her seriousness. Fans respond to her visible striving. But because she begins from low self-confidence, her effort can easily become self-punishment.
 
-The series-wide synthesis distinguishes Lilja from Hiro well: Hiro romanticizes impossibility because unsuitability makes life interesting, while Lilja works because she lacks talent and must catch up.[
+The series-wide synthesis distinguishes Lilja from Hiro well: Hiro romanticizes impossibility because unsuitability makes life interesting, while Lilja works because she lacks talent and must catch up.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)That is why Lilja’s overwork is different from Hiro’s eccentricity. Lilja is not seeking difficulty for its own sake. She is afraid that without more effort she will not deserve the dream.
+ _(historical external conversation reference unavailable in Git)_That is why Lilja’s overwork is different from Hiro’s eccentricity. Lilja is not seeking difficulty for its own sake. She is afraid that without more effort she will not deserve the dream.
 
 This creates the biggest danger in the Lilja/Sumika pair: Lilja may try to become worthy of Sumika by destroying the parts of herself Sumika actually loves.
 
-That is why the anime/otaku material matters. Lilja’s private hobbies — *Silvesta*, magical-girl/mecha anime, games, cosplay, merch — are not throwaway comedy. They are part of the self Lilja risks sacrificing to chase idolhood. The support corpus repeatedly shows those hobbies becoming socially shareable: with Saki, Sumika, China, Rinami, Tsubame, and others. The broader synthesis rightly says Lilja’s private shame becomes a network of friendships.[
+That is why the anime/otaku material matters. Lilja’s private hobbies — *Silvesta*, magical-girl/mecha anime, games, cosplay, merch — are not throwaway comedy. They are part of the self Lilja risks sacrificing to chase idolhood. The support corpus repeatedly shows those hobbies becoming socially shareable: with Saki, Sumika, China, Rinami, Tsubame, and others. The broader synthesis rightly says Lilja’s private shame becomes a network of friendships.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Sumika’s role is especially important here. In one support, Sumika clarifies that she may dislike being forced into endurance anime viewing while sleepy, but she likes watching Lilja talk about what she loves. That is a powerful relational correction:
 
@@ -12138,11 +12138,11 @@ Ume is weak institutionally and technically, despite overwhelming physical vital
 
 Third, it converts rank into relation. Being last alone is shame. Being last together is identity. That is why Hiro’s line lands so well. “Worst Three” sounds degrading, but in her mouth it becomes almost mythic. The bottom is not a verdict; it is a starting line.
 
-That fits the series’ larger philosophy. *Gakumas* repeatedly refuses the idea that measurable ability is destiny; the full-series synthesis puts it clearly: technique, fan love, will, image, rivalry, support, body, story, and production all matter, and Sena’s ability to see potential numerically remains real but incomplete.[
+That fits the series’ larger philosophy. *Gakumas* repeatedly refuses the idea that measurable ability is destiny; the full-series synthesis puts it clearly: technique, fan love, will, image, rivalry, support, body, story, and production all matter, and Sena’s ability to see potential numerically remains real but incomplete.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 The trio is the ensemble proof of that thesis.
 
@@ -12152,11 +12152,11 @@ They are not strong by ordinary first impression. But the story asks: what if be
 
 # 2\. China Kuramoto — dependence becoming responsible warmth
 
-China’s individual question is: **Can dependence, privilege, and being loved become responsible strength?** The full-series character map frames her exactly that way.[
+China’s individual question is: **Can dependence, privilege, and being loved become responsible strength?** The full-series character map frames her exactly that way.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Within the trio, China is the one most obviously frightened by social failure. Her first anxiety is not simply “I am bad at idol work.” It is “Will I make friends? Will I be isolated because I am bad?” In the class introduction scene, she is relieved to discover others in the same situation, and Ume’s instant “let’s become friends” gives her the safety she badly needs. event\_001-005.dialogue
 
@@ -12170,11 +12170,11 @@ That is why her relationship with Hiro is especially important. Hiro does not in
 
 China’s weakness is dependence. Her gift is that she makes dependence warm instead of humiliating.
 
-As she matures, this becomes leadership. She is not simply “supported”; she learns to support, invite, host, organize, and carry rituals forward. In the broader series, Rinami passes a senpai festival-memory tradition to China, asking her to show a future kouhai a secret fireworks spot someday, which positions China not only as a recipient of care but as a future transmitter of care.[
+As she matures, this becomes leadership. She is not simply “supported”; she learns to support, invite, host, organize, and carry rituals forward. In the broader series, Rinami passes a senpai festival-memory tradition to China, asking her to show a future kouhai a secret fireworks spot someday, which positions China not only as a recipient of care but as a future transmitter of care.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Within the trio, China is the first to say:
 
@@ -12190,11 +12190,11 @@ That is not a small role. It is the emotional infrastructure.
 
 Ume looks like the least “bottom-ranked” of the three because she is explosively capable in body. She runs, jumps, eats, trains, reacts, competes, and radiates movement. But institutionally, she begins from the bottom: supplementary admission, limited idol experience, and a dream initially organized around chasing Saki rather than around idolhood for its own sake.
 
-Her individual question is: **Can a dream born from chasing someone else become truly her own?**[
+Her individual question is: **Can a dream born from chasing someone else become truly her own?**
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 In the trio, Ume’s role is ignition.
 
@@ -12204,21 +12204,21 @@ Ume turns everything into motion.
 
 When the three discover their low rank, Ume does not sink into shame. She says they will climb up together. 03\_story\_events\_001-005.dialogue When Misuzu vanishes from class, Ume immediately runs to look for her, returns because she does not know where the infirmary is, gets directions from Hiro, runs again, then later uses her absurd senses and eyesight to find Misuzu napping outside. event\_001-005.dialogue The scene is comedy, but it defines her contribution beautifully: Ume is the body of the group. If something must be done, she moves.
 
-But Ume is not only physical. Her emotional directness is also a gift. In the Hanami sisters analysis, Ume is described as direct, physical, loud, unembarrassed, and almost incapable of treating sincere affection as shameful.[
+But Ume is not only physical. Her emotional directness is also a gift. In the Hanami sisters analysis, Ume is described as direct, physical, loud, unembarrassed, and almost incapable of treating sincere affection as shameful.
 
 Hanami sisters rivalry love
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=44908fad-da5f-48ec-ad36-a28d999c82f9&conversation_save=1)That trait becomes crucial for China and Hiro because both lack ordinary ease around friendship. Ume makes affection obvious enough that neither can intellectualize it away.
+ _(historical external conversation reference unavailable in Git)_That trait becomes crucial for China and Hiro because both lack ordinary ease around friendship. Ume makes affection obvious enough that neither can intellectualize it away.
 
 She also helps China and Hiro experience the kind of everyday friendship that neither has had. The trio’s support-card material repeatedly puts them in ordinary scenes — home visits, park play, studying, food, games, trips — because Ume insists that friendship cannot only be work. In one support, she complains that even if they often work together, she wants to spend non-work time with them too; Hiro calls Ume’s love heavy, then praises it. support\_series\_3\_part\_026-050.d…
 
 That is a surprisingly important line. Ume’s “heavy” affection might be too much in another context, but here it is exactly what the trio needs. China wants friends but is inexperienced; Hiro does not know how to define friendship; Ume simply acts as if friendship is already true and drags them into living it.
 
-Ume’s social growth is also important for her own character. Her core relationship remains Saki, but the trio helps her build a world outside Saki. Prior analysis of the Hanami sisters emphasized that Hatsuboshi forces both sisters to expand: Saki gains Kotone, Temari, China, Mao, and others, while Ume gains China, Hiro, Misuzu, Sena, and student council.[
+Ume’s social growth is also important for her own character. Her core relationship remains Saki, but the trio helps her build a world outside Saki. Prior analysis of the Hanami sisters emphasized that Hatsuboshi forces both sisters to expand: Saki gains Kotone, Temari, China, Mao, and others, while Ume gains China, Hiro, Misuzu, Sena, and student council.
 
 Hanami sisters rivalry love
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=44908fad-da5f-48ec-ad36-a28d999c82f9&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 The trio is therefore part of Ume’s individuation.
 
@@ -12230,11 +12230,11 @@ She does not stop loving Saki or chasing Saki. But she becomes more than Saki’
 
 Hiro is the most unusual member of the trio because her weakness is not lack of intelligence. If anything, she is too capable in the wrong domains. She is physically fragile, unsuited to conventional idol activity, and drawn to difficulty precisely because difficulty makes life interesting.
 
-The full-series synthesis gives her individual question as: **Can unsuitability itself become the place where life becomes meaningful?**[
+The full-series synthesis gives her individual question as: **Can unsuitability itself become the place where life becomes meaningful?**
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 This is why she is so important to the trio. China and Ume both convert failure into upward motion; Hiro converts failure into fascination.
 
@@ -12282,11 +12282,11 @@ Hiro makes it meaningful.
 
 This is why they are so different from Saki / Kotone / Temari. That trio is conflict as mutual usefulness: sharp, competitive, abrasive, and full of practical correction. China / Ume / Hiro is gentler, stranger, and more foundationally vulnerable. They are not primarily sharpening each other into rivals; they are making failure livable enough that growth can begin.
 
-They are also distinct from Lilja / Sumika. Prior analysis contrasted the pairs cleanly: Lilja/Sumika is friendship as life-direction, while China/Ume/Hiro is friendship as shared failure and ordinary first experiences.[
+They are also distinct from Lilja / Sumika. Prior analysis contrasted the pairs cleanly: Lilja/Sumika is friendship as life-direction, while China/Ume/Hiro is friendship as shared failure and ordinary first experiences.
 
 Lilja and Sumika REVERSI
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=8ac44776-a555-4ebe-a837-68371e9c062e&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 That distinction is important. Lilja and Sumika reroute each other’s lives. China, Ume, and Hiro teach one another how to have a school life.
 
@@ -12360,11 +12360,11 @@ That is developmentally huge for all three:
 -   Both recognize they still need Ume’s power as an internal force of courage and motion.
 
 
-This is one of the clearest examples of the series’ broader support-card thesis: ordinary repeated interactions make a person more livable to herself.[
+This is one of the clearest examples of the series’ broader support-card thesis: ordinary repeated interactions make a person more livable to herself.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ---
 
@@ -12372,19 +12372,19 @@ Gakuen Idolmaster thematic synt…
 
 The trio is deeply tied to ordinary experiences: eating, shopping, playing, visiting houses, studying, moving, cooking, and suffering through bodily fatigue.
 
-China’s ordinary-life education is especially important. The full synthesis notes that for most people, supermarket carts, cabbage leaves, samples, takoyaki flour, and first errands are mundane; for China, they are cultural education, because privilege insulated her from ordinary practices.[
+China’s ordinary-life education is especially important. The full synthesis notes that for most people, supermarket carts, cabbage leaves, samples, takoyaki flour, and first errands are mundane; for China, they are cultural education, because privilege insulated her from ordinary practices.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Ume’s embodied normality is also strange in the opposite direction. She knows how to move, train, eat, run, and react, but her physical intensity is almost absurd to China and Hiro. When she searches for Misuzu by smell and eyesight, China genuinely wonders whether humans can do that. event\_001-005.dialogue
 
-Hiro’s body is fragile, but her mind is not. She often treats difficult experiences — muscle soreness, inconvenience, confusion, disaster — as interesting. The full-series synthesis places her among the cast’s major body-problem characters: Hiro’s body is fragile, Ume’s body is explosive physical abundance, and China’s body lacks ordinary conditioning.[
+Hiro’s body is fragile, but her mind is not. She often treats difficult experiences — muscle soreness, inconvenience, confusion, disaster — as interesting. The full-series synthesis places her among the cast’s major body-problem characters: Hiro’s body is fragile, Ume’s body is explosive physical abundance, and China’s body lacks ordinary conditioning.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 This makes their trio almost like a three-part study of embodiment:
 
@@ -12407,19 +12407,19 @@ If Hatsuboshi ranked only by entrance performance, these three would be dismissi
 
 Each girl later reveals a form of idol power that the entrance ranking cannot capture.
 
-China’s power is being loved, supported, and then learning to make that support responsible. Her route asks whether dependence and privilege can become strength rather than disqualification.[
+China’s power is being loved, supported, and then learning to make that support responsible. Her route asks whether dependence and privilege can become strength rather than disqualification.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Ume’s power is inexhaustible vitality, rival-fire, and embodied charisma. She lacks a self-authored idol identity at first, but her raw drive can ignite others.
 
-Hiro’s power is paradoxical charisma: she is unsuited, weak, and strange, yet people keep watching her. Sena’s difficulty in evaluating Hiro later becomes one of the series’ strongest statements that measurable ability does not explain all idol appeal.[
+Hiro’s power is paradoxical charisma: she is unsuited, weak, and strange, yet people keep watching her. Sena’s difficulty in evaluating Hiro later becomes one of the series’ strongest statements that measurable ability does not explain all idol appeal.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 So the trio’s rank is not wrong. They really are weak in ordinary ways.
 
@@ -12433,23 +12433,23 @@ The bottom is accurate as starting position, not as prophecy.
 
 The trio is also important because they connect to larger Hatsuboshi structures.
 
-China is drawn into student council succession and learns from Sena, Tsubame, and Rinami. Through this, her dependence becomes institutional responsibility. Rinami’s warmth and Tsubame’s severity both become models she can inherit.[
+China is drawn into student council succession and learns from Sena, Tsubame, and Rinami. Through this, her dependence becomes institutional responsibility. Rinami’s warmth and Tsubame’s severity both become models she can inherit.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
-Ume enters the student council orbit through Sena and becomes part of the school’s succession machinery, while still carrying the Hanami sister-rival fire. Her participation in Class 2 and student council helps her expand beyond Saki.[
+Ume enters the student council orbit through Sena and becomes part of the school’s succession machinery, while still carrying the Hanami sister-rival fire. Her participation in Class 2 and student council helps her expand beyond Saki.
 
 Hanami sisters rivalry love
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=44908fad-da5f-48ec-ad36-a28d999c82f9&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
-Hiro receives attention from Sena precisely because her appeal does not fit the ordinary talent model. That creates an ethical pressure: if fans are moved by her, then even her “unsuitability” cannot remain an excuse forever. The series frames popularity as a gift that becomes responsibility.[
+Hiro receives attention from Sena precisely because her appeal does not fit the ordinary talent model. That creates an ethical pressure: if fans are moved by her, then even her “unsuitability” cannot remain an excuse forever. The series frames popularity as a gift that becomes responsibility.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 The trio therefore links low-ranked beginnerhood to Hatsuboshi’s larger institutional thesis:
 
@@ -13564,11 +13564,11 @@ The depth and format are not perfectly uniform, however. **Saki currently has th
 
 These are not analytically missing, but would benefit from a Saki-style consolidated document:
 
-The full-series synthesis already integrates all thirteen into the series’ broader architecture of contradiction, support, rivalry, institutional formation, and inherited light.[
+The full-series synthesis already integrates all thirteen into the series’ broader architecture of contradiction, support, rivalry, institutional formation, and inherited light.
 
 Gakuen Idolmaster thematic synt…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=9d8a04ae-300a-45e5-b8c7-c85dfb74b9a0&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ## Characters genuinely missing individual deep dives
 
@@ -13601,11 +13601,11 @@ A Rinha analysis should examine:
 -   whether the disbandment live represents closure, return, or reauthorization.
 
 
-The SyngUp! document gives her an important role, but Temari and Misuzu remain more fully developed within it.[
+The SyngUp! document gives her an important role, but Temari and Misuzu remain more fully developed within it.
 
 SyngUp relationship analysis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a387649-0a94-832e-bd3e-da0bf98d55f0?messageId=ce64c59e-0404-4a1f-a7e8-a98fcc48874e&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 **Asari Neo / 根緒亜紗里**
 

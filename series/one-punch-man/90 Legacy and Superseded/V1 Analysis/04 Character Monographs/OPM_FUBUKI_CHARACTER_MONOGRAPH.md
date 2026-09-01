@@ -1,30 +1,31 @@
 ---
-series: "OPM"
-artifact_type: "character_monograph"
-scope: "FUBUKI"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "V1 character analysis through Volume 34: Fubuki"
-supersedes: null
-superseded_by: null
+series: OPM
+artifact_type: character_monograph
+scope: FUBUKI
+generation: V1
+status: historical_legacy
+source_boundary: 'V1 character analysis through Volume 34: Fubuki'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - One Punch Man Analysis - Full Transcript.md"
-source_turns: [50]
+source_transcript: Manga and anime discussions - One Punch Man Analysis - Full Transcript.md
+source_turns:
+- 50
 ---
 
 <!-- transcript_source_turn: 50 -->
 
 ## Fubuki character deep dive
 
-This builds from the prior *One Punch Man* synthesis, Saitama-relations document, and power-system notes through Volume 34, especially the framing of Fubuki as hierarchy transformed into relational leadership.[
+This builds from the prior *One Punch Man* synthesis, Saitama-relations document, and power-system notes through Volume 34, especially the framing of Fubuki as hierarchy transformed into relational leadership.
 
 Saitama Character Relationships…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bf3bc976-98a4-4a1a-aeb5-f1e10efe143c&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 One Punch Man synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bfacfce7-f340-4c06-86df-298103a5465f&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Fubuki Deep Dive: Personality, Strength, Voice, Ethics, Philosophy, and Comparative Significance
 

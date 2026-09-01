@@ -4,9 +4,9 @@ artifact_type: source_facing_character_core
 scope: CHARACTER_04_ARIMURA_MAO
 generation: V2
 status: active_provisional
-source_boundary: "GAKUMAS V2 Source Lock 1.0; Mao-owned textual corpus plus already-canonical shared/U1 institutional evidence; no Mao audiovisual performance analysis"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0; Mao-owned textual corpus plus already-canonical shared/U1 institutional evidence; no Mao audiovisual performance analysis
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 document_id: GKM_CORE_04_ARIMURA_MAO
 project: Gakuen Idolmaster V2 Full-Corpus Synthesis
@@ -15,7 +15,7 @@ character_code: amao
 character_name_ja: 有村麻央
 character_name_en: Arimura Mao
 source_lock: 00d150a069a3ffa723a1ff264752ba242024caad
-source_lock_generated: 2026-08-02T22:21:04Z
+source_lock_generated: 2026-08-02 22:21:04+00:00
 continuity_policy: track_scoped_non_additive
 av_status: requested_not_integrated
 ---

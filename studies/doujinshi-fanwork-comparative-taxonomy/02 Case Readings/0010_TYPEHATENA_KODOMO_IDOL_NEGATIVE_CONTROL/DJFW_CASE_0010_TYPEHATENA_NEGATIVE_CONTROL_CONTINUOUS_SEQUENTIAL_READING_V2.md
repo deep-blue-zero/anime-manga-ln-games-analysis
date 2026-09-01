@@ -7,11 +7,12 @@ generation: V2
 status: canonical
 analysis_mode: continuous_sequential
 run_scope: DJFW_CASE_0002-DJFW_CASE_0010
-source_boundary: "20-page Typehatena/2nd color CBZ reviewed only at categorical structural level because the work centers explicit child/minor-coded idol characters. No explicit OCR, transcription, translation, or scene-level sexual analysis is performed. Metadata identifies Cinderella Girls child-idol characters; a closing-page Hiro Shinosawa depiction is present but does not create a substantive Hiro narrative."
+source_boundary: 20-page Typehatena/2nd color CBZ reviewed only at categorical structural level because the work centers explicit child/minor-coded idol characters. No explicit OCR, transcription, translation, or scene-level sexual analysis is performed. Metadata identifies Cinderella Girls child-idol characters; a closing-page Hiro Shinosawa depiction is present but does not create a substantive Hiro narrative.
 source_sha256: b133824041038ca150a06e04fcf0eaeab0042de068e05ad1408e668a00438796
 source_pages: 20
-supersedes: DJFW_CASE_0010_TYPEHATENA_NEGATIVE_CONTROL_CASE_READING.md
-superseded_by: null
+supersedes:
+- studies/doujinshi-fanwork-comparative-taxonomy/02 Case Readings/0010_TYPEHATENA_KODOMO_IDOL_NEGATIVE_CONTROL/DJFW_CASE_0010_TYPEHATENA_NEGATIVE_CONTROL_CASE_READING.md
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

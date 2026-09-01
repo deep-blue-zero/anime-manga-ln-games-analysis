@@ -4,9 +4,9 @@ artifact_type: ledger
 scope: UA_STUDENTS_STAFF
 generation: V2
 status: canonical
-source_boundary: "Japanese manga V2 reread; currently through Volume 35"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga V2 reread; currently through Volume 35
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -1,34 +1,34 @@
 ---
-title: "MONOGATARI V2 V27 Deep Reading - 扇物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V27"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『扇物語』, supplied archive item 27 扇物語.epub"
-supersedes: null
-superseded_by: null
+title: MONOGATARI V2 V27 Deep Reading - 扇物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V27
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『扇物語』, supplied archive item 27 扇物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V27_DEEP_READING"
-version: "1.0"
-date: "2026-08-18"
-volume_code: "V27"
-japanese_title: "扇物語"
-archive_position: "Monster Season archive spine V27; fourth numbered Monster Season volume"
-source_file: "27 扇物語.epub"
-source_drive_id: "1xDDFDhA6qaQ8M0O0ba7j7jm1sphCsxFe"
-source_sha256: "5cf869ead6fee3886cf99621d99c46157f1fe58d542763c8755567defa81610a"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V27_DEEP_READING
+version: '1.0'
+date: '2026-08-18'
+volume_code: V27
+japanese_title: 扇物語
+archive_position: Monster Season archive spine V27; fourth numbered Monster Season volume
+source_file: 27 扇物語.epub
+source_drive_id: 1xDDFDhA6qaQ8M0O0ba7j7jm1sphCsxFe
+source_sha256: 5cf869ead6fee3886cf99621d99c46157f1fe58d542763c8755567defa81610a
 source_size_bytes: 799162
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies an October 2020 Kodansha BOX print basis; electronic colophon identifies November 1, 2020 electronic issue. OPF/calibre timestamps are file-history metadata only."
-principal_story_units: "第六話 おうぎライト; 第七話 おうぎフライト"
-narrators: "『おうぎライト』 is primarily 阿良々木暦 first-person, interrupted by recurring retrospective first-person apology monologues whose speaker is revealed in §030 to be 戦場ヶ原ひたぎ. 『おうぎフライト』 is 千石撫子 first-person throughout §§001-006."
-internal_story_range: "『おうぎライト』 occurs during Araragi's university first year in the winter/New Year period, internally years before V23. 『おうぎフライト』 contains a summer flashback to Nadeko's visits to former classmates and a present winter frame after Nadeko's New Year departure from home; its present frame follows the resolution of 『おうぎライト』 closely enough for Ougi to discuss 妖魔令 as Araragi's just-resolved case. Exact civil dates remain unsupported."
-spoiler_policy: "Publication-local V27 conclusions may use and revise V01-V26 because V27 is the current publication boundary. V28 『死物語 上』 and later material are excluded except as quarantined source hooks. No V28 event, motive, identity development, or resolution is admitted into V27 authority."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies an October 2020 Kodansha BOX print basis; electronic colophon identifies November 1, 2020 electronic issue. OPF/calibre timestamps are file-history metadata only.
+principal_story_units: 第六話 おうぎライト; 第七話 おうぎフライト
+narrators: 『おうぎライト』 is primarily 阿良々木暦 first-person, interrupted by recurring retrospective first-person apology monologues whose speaker is revealed in §030 to be 戦場ヶ原ひたぎ. 『おうぎフライト』 is 千石撫子 first-person throughout §§001-006.
+internal_story_range: 『おうぎライト』 occurs during Araragi's university first year in the winter/New Year period, internally years before V23. 『おうぎフライト』 contains a summer flashback to Nadeko's visits to former classmates and a present winter frame after Nadeko's New Year departure from home; its present frame follows the resolution of 『おうぎライト』 closely enough for Ougi to discuss 妖魔令 as Araragi's just-resolved case. Exact civil dates remain unsupported.
+spoiler_policy: Publication-local V27 conclusions may use and revise V01-V26 because V27 is the current publication boundary. V28 『死物語 上』 and later material are excluded except as quarantined source hooks. No V28 event, motive, identity development, or resolution is admitted into V27 authority.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # MONOGATARI V2 — Volume 27 Deep Reading

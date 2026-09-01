@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 / Legend of the Galactic Heroes — Multi-Document Synthesis Architecture"
-subtitle: "Document map, primary-home rules, production order, and delivery standard for the second-pass corpus"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Paired architecture for LOGH_Full_Series_Analytical_Method_v1.md"
+title: 銀河英雄伝説 / Legend of the Galactic Heroes — Multi-Document Synthesis Architecture
+subtitle: Document map, primary-home rules, production order, and delivery standard for the second-pass corpus
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Paired architecture for LOGH_Full_Series_Analytical_Method_v1.md
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_corpus: "田中芳樹『銀河英雄伝説』本伝1–10・外伝1–5"
+primary_corpus: 田中芳樹『銀河英雄伝説』本伝1–10・外伝1–5
 ---
 
 # 銀河英雄伝説 / *Legend of the Galactic Heroes*

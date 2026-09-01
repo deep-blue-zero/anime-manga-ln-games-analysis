@@ -4,9 +4,10 @@ artifact_type: case_reading
 scope: DJFW_CASE_0009
 generation: V1
 status: superseded
-source_boundary: "Uploaded Japanese multi-artist Gakuen Idolmaster anthology CBZ; 60 pages; selected-page OCR triage only; manual segment map pending."
-supersedes: null
-superseded_by: DJFW_CASE_0009_GAKUMAS_DOSUKEBE_MODE_CONTINUOUS_SEQUENTIAL_READING_V2.md
+source_boundary: Uploaded Japanese multi-artist Gakuen Idolmaster anthology CBZ; 60 pages; selected-page OCR triage only; manual segment map pending.
+supersedes: []
+superseded_by:
+- studies/doujinshi-fanwork-comparative-taxonomy/02 Case Readings/0009_GAKUMAS_DOSUKEBE_MODE/DJFW_CASE_0009_GAKUMAS_DOSUKEBE_MODE_CONTINUOUS_SEQUENTIAL_READING_V2.md
 do_not_use_as_current_authority: true
 ---
 

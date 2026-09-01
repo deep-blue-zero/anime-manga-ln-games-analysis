@@ -5,14 +5,14 @@ ledger_type: japanese_voice_style_and_terminology
 scope: V01-V13
 generation: V1
 status: active_provisional
-source_boundary: "Japanese numbered light novels read through V13"
+source_boundary: Japanese numbered light novels read through V13
 current_reading_boundary: V13
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.12"
-date: "2026-08-20"
+version: '1.12'
+date: '2026-08-20'
 ---
 
 # IMOSAE Japanese Voice, Style, and Terminology Ledger

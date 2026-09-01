@@ -1,12 +1,12 @@
 ---
 series: OPM
 artifact_type: source_audit
-scope: "Japanese tankobon V01-V34"
+scope: Japanese tankobon V01-V34
 generation: V2
 status: canonical
-source_boundary: "Current Drive tankobon corpus V01-V34; official web folder excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Current Drive tankobon corpus V01-V34; official web folder excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

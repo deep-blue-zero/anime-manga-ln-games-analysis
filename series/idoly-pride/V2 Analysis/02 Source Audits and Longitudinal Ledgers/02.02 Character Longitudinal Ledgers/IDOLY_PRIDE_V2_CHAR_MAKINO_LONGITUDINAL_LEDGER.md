@@ -3,35 +3,35 @@ series: IDOLY_PRIDE
 artifact_type: longitudinal_ledger
 artifact_role: LEDGER
 scope: CHAR_MAKINO
-character: "牧野航平 / Makino Kouhei"
+character: 牧野航平 / Makino Kouhei
 character_code: koh
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-A2"
+phase: '2'
+tranche: P2-A2
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 longitudinal reconstruction of Makino Kouhei across the complete Phase-1-routed snapshot: anime E01-E12; Hoshimi game/cross-media expansion; Mana origins; later main-story arcs; admitted events, bonds, C1 cards/messages, and indexed manager appearances through IP-V2-SNAPSHOT-2026-08-13-A. Broad coverage inherits frozen Phase-1 routing; load-bearing claims are retested against reopened fixed primary Japanese source or canonical Phase-1 source-native freezes. Player-selectable expression is not collapsed into one literal history; exhaustive branch semantics are reserved for P2-A3."
+source_boundary: 'Phase-2 longitudinal reconstruction of Makino Kouhei across the complete Phase-1-routed snapshot: anime E01-E12; Hoshimi game/cross-media expansion; Mana origins; later main-story arcs; admitted events, bonds, C1 cards/messages, and indexed manager appearances through IP-V2-SNAPSHOT-2026-08-13-A. Broad coverage inherits frozen Phase-1 routing; load-bearing claims are retested against reopened fixed primary Japanese source or canonical Phase-1 source-native freezes. Player-selectable expression is not collapsed into one literal history; exhaustive branch semantics are reserved for P2-A3.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_A2_PASS
-created: "2026-08-18"
-updated: "2026-08-18"
-next_operation: "P2-A3 — IDOLY_PRIDE_V2_MAKINO_PLAYER_BRANCH_CANON_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-18'
+updated: '2026-08-18'
+next_operation: P2-A3 — IDOLY_PRIDE_V2_MAKINO_PLAYER_BRANCH_CANON_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — MAKINO KOUHEI LONGITUDINAL LEDGER

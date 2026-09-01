@@ -582,13 +582,13 @@ The final series will ask whether he can preserve that ethical response after si
 
 ### Primary specialist routes for Part I
 
-- [Series architecture](01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
-- [Sakuta](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
-- [Mai](03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
-- [Sakuta/Mai romance](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
-- [Recognition, `空気`, and public identity](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
-- [Intervention ethics](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md)
-- [Japanese voice and key terms](15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
+- [Series architecture](../04%20Synthesis%20Documents/01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
+- [Sakuta](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
+- [Mai](../04%20Synthesis%20Documents/03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
+- [Sakuta/Mai romance](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
+- [Recognition, `空気`, and public identity](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+- Intervention ethics _(referenced artifact is not present in Git)_
+- [Japanese voice and key terms](../04%20Synthesis%20Documents/15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
 
 # Part II — What makes someone the same person?
 *Constructed selves, divided selves, exchanged bodies, and the Kaede/Hanakaede rupture*
@@ -1114,12 +1114,12 @@ That is why the series' identity arcs are not detachable heroine cases. They bui
 
 ### Primary specialist routes for Part II
 
-- [Kaede, Hanakaede, family, and self-authorship](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
-- [Memory, body, name, role, and personhood](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
-- [Title heroines and ensemble](07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
-- [Recognition and gaze](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
-- [Grief and continuing bonds](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
-- [Bonus provenance](17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
+- [Kaede, Hanakaede, family, and self-authorship](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
+- [Memory, body, name, role, and personhood](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
+- [Title heroines and ensemble](../04%20Synthesis%20Documents/07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
+- [Recognition and gaze](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+- [Grief and continuing bonds](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
+- [Bonus provenance](../04%20Synthesis%20Documents/17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
 
 # Part III — What is one life worth?
 *Shoko, fatal futures, sacrifice, and moral residue*
@@ -1639,12 +1639,12 @@ It is:
 
 ### Primary specialist routes for Part III
 
-- [Shoko, time, survival, donation, and moral residue](06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
-- [Time, dreams, possible worlds, and counterfactual causality](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
-- [Ethics, autonomy, self-sacrifice, and care](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md)
-- [Grief and continuing bonds](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
-- [Sakuta/Mai romance](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
-- [Body, memory, and personhood](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
+- [Shoko, time, survival, donation, and moral residue](../04%20Synthesis%20Documents/06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
+- [Time, dreams, possible worlds, and counterfactual causality](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
+- Ethics, autonomy, self-sacrifice, and care _(referenced artifact is not present in Git)_
+- [Grief and continuing bonds](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
+- [Sakuta/Mai romance](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
+- [Body, memory, and personhood](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
 
 # Part IV — Families and possible lives
 *Inheritance without conscription, reconciliation without restoration, and the ordinary bridge*
@@ -2065,12 +2065,12 @@ It is the durable outcome.
 
 ### Primary specialist routes for Part IV
 
-- [Kaede/Hanakaede and family](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
-- [Sakuta's development](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
-- [Sakuta/Mai romance](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
-- [Ordinary life and institutions](14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md)
-- [Bonus provenance and interpolation](17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
-- [Objects, places, and memory](16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md)
+- [Kaede/Hanakaede and family](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
+- [Sakuta's development](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
+- [Sakuta/Mai romance](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
+- [Ordinary life and institutions](../04%20Synthesis%20Documents/14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md)
+- [Bonus provenance and interpolation](../04%20Synthesis%20Documents/17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
+- [Objects, places, and memory](../04%20Synthesis%20Documents/16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md)
 
 # Part V — University and socially authored selves
 *Social permeability, helper identity, love, and opacity*
@@ -3153,12 +3153,12 @@ The question is whether it remains answerable to the particular person.
 
 ### Primary specialist routes for Part VI
 
-- [Recognition, gaze, celebrity, social media, and public identity](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
-- [Memory, body, name, role, and personhood](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
-- [Adolescence Syndrome typology](08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md)
-- [Title heroines and ensemble](07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
-- [Ethics and intervention](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md)
-- [Objects and visual paratext](16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md)
+- [Recognition, gaze, celebrity, social media, and public identity](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+- [Memory, body, name, role, and personhood](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
+- Adolescence Syndrome typology _(referenced artifact is not present in Git)_
+- [Title heroines and ensemble](../04%20Synthesis%20Documents/07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
+- Ethics and intervention _(referenced artifact is not present in Git)_
+- [Objects and visual paratext](../04%20Synthesis%20Documents/16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md)
 
 # Part VII — Which world should remain?
 *R1, counterfactual goods, observation, and the ethics of choosing reality*
@@ -5821,13 +5821,13 @@ The continuous synthesis is intentionally reader-facing. Claims should be audite
 
 | Synthesis part | Principal specialist documents | Evidence-navigation route |
 |---|---|---|
-| Part I — recognition and first rescue | [01](01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md), [02](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md), [03](03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md), [04](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md), [09](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md) | [19](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md), [20](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md), [21](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md) |
-| Part II — identity and personhood | [05](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md), [08](08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md), [10](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md), [15](15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md), [17](17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md) | Documents 19–21 + local volume artifacts |
-| Part III — Shoko, sacrifice, donation | [06](06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md), [11](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md), [12](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md), [13](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md) | Documents 19–21 + V6/V7/V14/V15 routes |
-| Part IV — family and ordinary life | [05](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md), [14](14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md), [16](16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md), [17](17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md) | Documents 20–21 + bonus evidence IDs |
-| Part V — university and ensemble | [02](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md), [07](07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md), [09](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md), [13](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md), [14](14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md) | Documents 19–21 + V10–V12 evidence IDs |
-| Part VI — Toko and public identity | [07](07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md), [08](08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md), [09](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md), [10](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md), [12](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md) | Documents 19–21 + V13/V14 evidence IDs |
-| Part VII — world selection | [08](08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md), [10](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md), [11](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md), [13](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md), [18](18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md) | Documents 19–21 + V14/V15 evidence IDs |
-| Part VIII — memory and adulthood | [02](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md), [03](03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md), [04](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md), [12](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md), [14](14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md), [15](15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md), [16](16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md) | Documents 19–21 + V15 evidence IDs |
+| Part I — recognition and first rescue | [01](../04%20Synthesis%20Documents/01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md), [02](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md), [03](../04%20Synthesis%20Documents/03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md), [04](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md), [09](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md) | [19](../04%20Synthesis%20Documents/19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md), [20](../04%20Synthesis%20Documents/20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md), [21](../04%20Synthesis%20Documents/21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md) |
+| Part II — identity and personhood | [05](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md), 08 _(referenced artifact is not present in Git)_, [10](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md), [15](../04%20Synthesis%20Documents/15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md), [17](../04%20Synthesis%20Documents/17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md) | Documents 19–21 + local volume artifacts |
+| Part III — Shoko, sacrifice, donation | [06](../04%20Synthesis%20Documents/06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md), [11](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md), [12](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md), 13 _(referenced artifact is not present in Git)_ | Documents 19–21 + V6/V7/V14/V15 routes |
+| Part IV — family and ordinary life | [05](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md), [14](../04%20Synthesis%20Documents/14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md), [16](../04%20Synthesis%20Documents/16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md), [17](../04%20Synthesis%20Documents/17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md) | Documents 20–21 + bonus evidence IDs |
+| Part V — university and ensemble | [02](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md), [07](../04%20Synthesis%20Documents/07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md), [09](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md), 13 _(referenced artifact is not present in Git)_, [14](../04%20Synthesis%20Documents/14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md) | Documents 19–21 + V10–V12 evidence IDs |
+| Part VI — Toko and public identity | [07](../04%20Synthesis%20Documents/07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md), 08 _(referenced artifact is not present in Git)_, [09](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md), [10](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md), [12](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md) | Documents 19–21 + V13/V14 evidence IDs |
+| Part VII — world selection | 08 _(referenced artifact is not present in Git)_, [10](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md), [11](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md), 13 _(referenced artifact is not present in Git)_, [18](../04%20Synthesis%20Documents/18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md) | Documents 19–21 + V14/V15 evidence IDs |
+| Part VIII — memory and adulthood | [02](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md), [03](../04%20Synthesis%20Documents/03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md), [04](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md), [12](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md), [14](../04%20Synthesis%20Documents/14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md), [15](../04%20Synthesis%20Documents/15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md), [16](../04%20Synthesis%20Documents/16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md) | Documents 19–21 + V15 evidence IDs |
 
 For literal mechanics and residual ambiguity, Document 08 and Document 18 remain controlling. For Japanese wording, Document 21 remains controlling. For the historical evolution of claims, Document 19 remains controlling. For exact local artifact and source routes, Document 20 remains controlling.

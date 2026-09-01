@@ -4,21 +4,21 @@ artifact_type: checkpoint
 scope: E05-E08
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; canonical V2 deep readings E01-E08 admitted only through frozen E01-E04 checkpoint plus canonical E05-E08 post-checkpoint deltas; no E09+ evidence admitted"
-supersedes: null
-superseded_by: null
+source_boundary: GBC-V2-SOURCE-LOCK-1.0; canonical V2 deep readings E01-E08 admitted only through frozen E01-E04 checkpoint plus canonical E05-E08 post-checkpoint deltas; no E09+ evidence admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 checkpoint_state: frozen
-checkpoint_role: "second-tranche reconciliation, CP1 held-out adjudication, E08-current model freeze, and E09-E11 prospective register"
-prior_checkpoint: "GBC_E01-E04_CHECKPOINT.md (Drive ID 16iXdNHnx32EewWXeBNgS75sAKZtw3eWe; frozen)"
+checkpoint_role: second-tranche reconciliation, CP1 held-out adjudication, E08-current model freeze, and E09-E11 prospective register
+prior_checkpoint: GBC_E01-E04_CHECKPOINT.md (Drive ID 16iXdNHnx32EewWXeBNgS75sAKZtw3eWe; frozen)
 source_documents:
-  - "GBC_E05_DEEP_READING.md (Drive ID 1zd9H8qiPVVSp9T73sFIDzQuEn9ZKJ6JN)"
-  - "GBC_E06_DEEP_READING.md (Drive ID 1w9cm6AeXjIUz3sELvxuf1jfyW893r-7s)"
-  - "GBC_E07_DEEP_READING.md (Drive ID 14fEjYKMYaNikx2R-gwc503ilYylSuSI-)"
-  - "GBC_E08_DEEP_READING.md (Drive ID 1WbtdBNMW0uxGuG_HKO80HWizGOa6IWLX)"
-held_out_cp1_event_tally: "36 CONFIRM / 10 PARTIAL / 0 CONTRADICT / 34 NON-DIAGNOSTIC"
-cp1_unique_transition_tally: "11 STRENGTHEN / 3 REVISE / 1 PRESERVE-FULFILLED / 5 OPEN / 0 DOWNGRADE / 0 REJECT"
-ledger_materialization_decision: "MATERIALIZE NOW from checkpoint-reconciled E01-E08 state; not a new evidentiary gate on E09"
+- GBC_E05_DEEP_READING.md (Drive ID 1zd9H8qiPVVSp9T73sFIDzQuEn9ZKJ6JN)
+- GBC_E06_DEEP_READING.md (Drive ID 1w9cm6AeXjIUz3sELvxuf1jfyW893r-7s)
+- GBC_E07_DEEP_READING.md (Drive ID 14fEjYKMYaNikx2R-gwc503ilYylSuSI-)
+- GBC_E08_DEEP_READING.md (Drive ID 1WbtdBNMW0uxGuG_HKO80HWizGOa6IWLX)
+held_out_cp1_event_tally: 36 CONFIRM / 10 PARTIAL / 0 CONTRADICT / 34 NON-DIAGNOSTIC
+cp1_unique_transition_tally: 11 STRENGTHEN / 3 REVISE / 1 PRESERVE-FULFILLED / 5 OPEN / 0 DOWNGRADE / 0 REJECT
+ledger_materialization_decision: MATERIALIZE NOW from checkpoint-reconciled E01-E08 state; not a new evidentiary gate on E09
 created: 2026-08-26
 updated: 2026-08-26
 next_operation: GBC_E09_DEEP_READING.md

@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "unit_synthesis"
-scope: "SUNNY PEACE"
-generation: "V1"
-status: "superseded"
-source_boundary: "Earlier chat-derived SUNNY PEACE synthesis"
-supersedes: null
-superseded_by: "SUNNYPEACE_UNIT_SYNTHESIS.md"
+series: IDOLY_PRIDE
+artifact_type: unit_synthesis
+scope: SUNNY PEACE
+generation: V1
+status: historical_legacy
+source_boundary: Earlier chat-derived SUNNY PEACE synthesis
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md
 source_turn: 78
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: SUNNYPEACE_UNIT_SYNTHESIS.md'
 ---
 
 Here is a standalone reference document consolidating the SUNNY PEACE member analyses, including personality, voice, characterization, and visual design.

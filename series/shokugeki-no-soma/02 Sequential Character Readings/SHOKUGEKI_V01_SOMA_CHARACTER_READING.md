@@ -4,10 +4,10 @@ artifact_type: soma_character_reading
 scope: V01
 generation: V1
 status: canonical
-source_boundary: "Original Japanese manga Volume 1 mainline Chapters 1-5; Kurase-san no Nikki bonus used as supplementary evidence; prototype special one-shot excluded from the canonical Soma model"
-source_file: "[附田祐斗×佐伯俊] 食戟のソーマ 第01巻.cbz"
-source_drive_id: "1cHNIYN2mtizOgooYYGFFPjgoxl_yw6QN"
-source_sha256: "eac93324ae3dc56067a33e5a8c0d18a9583c9d429a3244f9c602f50e1e280c8d"
+source_boundary: Original Japanese manga Volume 1 mainline Chapters 1-5; Kurase-san no Nikki bonus used as supplementary evidence; prototype special one-shot excluded from the canonical Soma model
+source_file: '[附田祐斗×佐伯俊] 食戟のソーマ 第01巻.cbz'
+source_drive_id: 1cHNIYN2mtizOgooYYGFFPjgoxl_yw6QN
+source_sha256: eac93324ae3dc56067a33e5a8c0d18a9583c9d429a3244f9c602f50e1e280c8d
 source_image_count: 210
 supersedes: []
 superseded_by: []

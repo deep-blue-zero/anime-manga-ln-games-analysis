@@ -5,11 +5,11 @@ ledger_type: japanese_voice_and_vocabulary
 scope: V01-V34
 status: active_provisional
 generation: V2
-version: "2.1"
-date: "2026-08-26"
-source_boundary: "Written Japanese manga voice through V34; V01-V18 selective seed plus prospective V19-V34 extraction; no anime-performance claims"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-26'
+source_boundary: Written Japanese manga voice through V34; V01-V18 selective seed plus prospective V19-V34 extraction; no anime-performance claims
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

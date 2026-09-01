@@ -2,14 +2,15 @@
 series: GKM
 artifact_type: audiovisual_source_crosswalk
 scope: CHARACTER_HIMESAKI_RINAMI_PHASE3_AV_BASELINE
-character: "Himesaki Rinami / 姫崎莉波"
+character: Himesaki Rinami / 姫崎莉波
 generation: V2
 status: superseded
-source_boundary: "Textual Phase-3 core complete under Source Lock 1.0; AV artifacts requested but not yet inspected"
-supersedes: null
-superseded_by: "GKM_RINAMI_COMPLETE_AUDIOVISUAL_BASELINE.md"
+source_boundary: Textual Phase-3 core complete under Source Lock 1.0; AV artifacts requested but not yet inspected
+supersedes: []
+superseded_by:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/08_HIMESAKI_RINAMI/GKM_RINAMI_COMPLETE_AUDIOVISUAL_BASELINE.md
 do_not_use_as_current_authority: true
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # GKM — HIMESAKI RINAMI AUDIOVISUAL BASELINE AND REQUESTS

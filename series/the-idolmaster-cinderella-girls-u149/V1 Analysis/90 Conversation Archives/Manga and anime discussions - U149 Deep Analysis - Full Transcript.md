@@ -1,10 +1,10 @@
 ---
-title: "Manga and anime discussions - U149 Deep Analysis"
-source_url: "https://chatgpt.com/g/g-p-69ab0e4e06188191bcc4c71aea012ad8-manga-and-anime-discussions/c/69bd6866-fbb8-832a-bf10-27cd4cfacd12"
-exported_at: "2026-08-22T19:28:53.599Z"
-export_mode: "Full transcript"
+title: Manga and anime discussions - U149 Deep Analysis
+source_url: https://chatgpt.com/g/g-p-69ab0e4e06188191bcc4c71aea012ad8-manga-and-anime-discussions/c/69bd6866-fbb8-832a-bf10-27cd4cfacd12
+exported_at: '2026-08-22T19:28:53.599Z'
+export_mode: Full transcript
 exported_turns: 41
-script_version: "0.1.0"
+script_version: 0.1.0
 selected_branch_only: true
 attachments_embedded: false
 full_load_attempted: true

@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: E05
 generation: V2
 status: canonical
-source_boundary: "TV Episode 05 supplies all new evidence; E01-E04 admitted only as frozen incoming V2 state; no E06+ anime or supplementary narrative evidence admitted"
+source_boundary: TV Episode 05 supplies all new evidence; E01-E04 admitted only as frozen incoming V2 state; no E06+ anime or supplementary narrative evidence admitted
 source_class: A1_ORIGINATING_AUDIOVISUAL
 incoming_checkpoint: E04_OUTBOUND_FREEZE
 prospective_truth_horizon: E05
@@ -21,8 +21,8 @@ continuous_video_escalation: VIDEO_NOT_REQUIRED
 source_native_state: fixed_before_v1_comparison
 v1_comparison_state: complete_after_source_native_freeze
 sequential_closeout: closed
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

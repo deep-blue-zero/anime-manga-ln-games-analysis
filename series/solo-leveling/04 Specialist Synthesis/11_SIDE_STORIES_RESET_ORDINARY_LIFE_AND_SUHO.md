@@ -1,22 +1,22 @@
 ---
-title: "Solo Leveling — Side Stories, Reset, Ordinary Life, and Suho"
-subtitle: "What remains after the quest ends"
-project: "Solo Leveling Definitive Novel–Manhwa Synthesis"
-document_id: "SL_SYNTH_11"
-version: "1.0"
+title: Solo Leveling — Side Stories, Reset, Ordinary Life, and Suho
+subtitle: What remains after the quest ends
+project: Solo Leveling Definitive Novel–Manhwa Synthesis
+document_id: SL_SYNTH_11
+version: '1.0'
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
-  - "Chugong's complete original Korean novel omnibus, including 외전 1–21 and 후일담 1–2"
-  - "Official English manhwa Volumes 13–15 for adaptation structure, reset-world visual form, and the manhwa-original adolescent-Suho continuation"
-governing_method: "../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md"
-paired_architecture: "../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md"
-evidence_spine: "../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-correspondence_map: "../03 Evidence and Crosswalk/Solo_Leveling_Phase_2_Correspondence_Map.md"
-spoilers: "complete series"
-source_inventory_date: "2026-08-12"
+- Chugong's complete original Korean novel omnibus, including 외전 1–21 and 후일담 1–2
+- Official English manhwa Volumes 13–15 for adaptation structure, reset-world visual form, and the manhwa-original adolescent-Suho continuation
+governing_method: ../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md
+paired_architecture: ../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md
+evidence_spine: ../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+correspondence_map: ../03 Evidence and Crosswalk/Solo_Leveling_Phase_2_Correspondence_Map.md
+spoilers: complete series
+source_inventory_date: '2026-08-12'
 ---
 
 # 11 — Side Stories, Reset, Ordinary Life, and Suho

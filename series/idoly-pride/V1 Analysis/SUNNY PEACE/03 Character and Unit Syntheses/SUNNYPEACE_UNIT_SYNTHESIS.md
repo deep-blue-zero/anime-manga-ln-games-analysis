@@ -1,16 +1,19 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "unit_synthesis"
-scope: "SUNNY PEACE / SUNNY PEACE unit"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed synthesis/reconstruction"
+series: IDOLY_PRIDE
+artifact_type: unit_synthesis
+scope: SUNNY PEACE / SUNNY PEACE unit
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md
 source_turn: 96
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed synthesis/reconstruction'
+- 'legacy supersedes: SUNNYPEACE_UNIT_SYNTHESIS_EARLY.md'
 ---
 
 I rewrote this as a new definitive SUNNY PEACE reference, integrating the earlier member/visual synthesis with the later unit-event and character-event layers. It is grounded in the prior SUNNY PEACE document, the broader IDOLY PRIDE inheritance-after-miracle thesis, the unit-origin stories, and the later core/important event materials for Sakura, Rei, Haruko, Chisa, and Shizuku. IDOLY PRIDE - Sunny Peace deep … Pasted markdown origin\_sun\_005\_sakura\_s\_memories origin\_sun\_002\_rei\_s\_memories origin\_sun\_004\_haruko\_s\_memories origin\_sun\_001\_chisa\_s\_memories origin\_sun\_003\_shizuku\_s\_memori… CORE\_014\_\_event\_2024\_003\_st-eve… CORE\_015\_\_event\_2024\_007\_st-eve… CORE\_026\_\_event\_2025\_004\_st-eve…

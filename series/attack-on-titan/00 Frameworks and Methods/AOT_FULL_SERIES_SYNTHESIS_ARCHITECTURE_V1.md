@@ -4,16 +4,16 @@ artifact_type: synthesis_architecture
 scope: V01-V34
 generation: V2
 status: canonical
-version: "1.2"
-last_amended: "2026-08-27"
+version: '1.2'
+last_amended: '2026-08-27'
 architecture_lifecycle: STABILIZED
-reasoning_class_policy: "MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md v1.0"
-reasoning_budget_policy: "Section VI stable reasoning-class registry plus current provider mapping"
-execution_scope_policy: "MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md v1.0"
-date: "2026-08-27"
-source_boundary: "Complete Japanese manga tankobon Volumes 1-34; sequential V2 deep-reading phase complete"
-supersedes: null
-superseded_by: null
+reasoning_class_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md v1.0
+reasoning_budget_policy: Section VI stable reasoning-class registry plus current provider mapping
+execution_scope_policy: MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md v1.0
+date: '2026-08-27'
+source_boundary: Complete Japanese manga tankobon Volumes 1-34; sequential V2 deep-reading phase complete
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 parent_method: AOT_ANALYTICAL_METHOD_V2.md
 project_policy: AOT_PROJECT_DECISIONS_AND_CHECKPOINT_POLICY.md

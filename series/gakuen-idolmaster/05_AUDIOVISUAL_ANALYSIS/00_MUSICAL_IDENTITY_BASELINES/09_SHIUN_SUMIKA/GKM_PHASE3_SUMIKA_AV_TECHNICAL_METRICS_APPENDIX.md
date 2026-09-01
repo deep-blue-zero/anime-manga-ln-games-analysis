@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_SHIUN_SUMIKA_AV_TECHNICAL_METRICS
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: canonical
-source_boundary: "ffprobe, SHA-256, sampled-frame, and full-mix/source-level measurements for all 22 logical AV objects; Dear 028–037 direct backfill uses an equivalent 720p30 direct-upload materialization while the oversized Drive original remains provenance"
-supersedes: null
-superseded_by: null
+source_boundary: ffprobe, SHA-256, sampled-frame, and full-mix/source-level measurements for all 22 logical AV objects; Dear 028–037 direct backfill uses an equivalent 720p30 direct-upload materialization while the oversized Drive original remains provenance
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shiun Sumika AV Technical Metrics Appendix"
-parent_authority: "GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shiun Sumika AV Technical Metrics Appendix
+parent_authority: GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # SHIUN SUMIKA — AV TECHNICAL METRICS APPENDIX

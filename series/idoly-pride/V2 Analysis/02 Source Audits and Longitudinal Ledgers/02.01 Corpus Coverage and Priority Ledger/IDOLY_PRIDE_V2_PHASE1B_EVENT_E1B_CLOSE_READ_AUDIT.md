@@ -5,22 +5,22 @@ scope: PHASE1B_EVENT_E1B
 artifact_role: AUDIT
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_E1B_CLOSE_READ_AUDIT.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "event_2023_009_st-eve-2309-backside -> event_2024_006_st-eve-2406-contest"
+source_boundary: event_2023_009_st-eve-2309-backside -> event_2024_006_st-eve-2406-contest
 inherited_authority: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E1A_BASELINE.md
 prospective_freeze: IDOLY_PRIDE_V2_PHASE1B_EVENT_E1B_PRIMARY_FINDINGS_FREEZE.md
 prospective_freeze_sha256: 6acefeed77873f0af1e97f1544edf78bf7fa4f109852b24770bf2364d8169d0e
 historical_comparison_performed_after_freeze: true
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-updated: "2026-08-15"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-15'
+updated: '2026-08-15'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1B EVENT CLOSE READ E1-B

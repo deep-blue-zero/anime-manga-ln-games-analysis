@@ -4,9 +4,9 @@ artifact_type: handoff
 scope: E16_to_E17
 generation: V2
 status: active_provisional
-source_boundary: "Canonical V2 state through S01E16; E17 staged but unopened"
-supersedes: null
-superseded_by: null
+source_boundary: Canonical V2 state through S01E16; E17 staged but unopened
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

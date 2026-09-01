@@ -2,21 +2,21 @@
 series: GKM
 artifact_type: deep_reading
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_CORE
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — China complete character bundle (208 source objects / 5,558 messages), with legacy V1 used only for claim-revision comparison; audiovisual evidence not yet inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — China complete character bundle (208 source objects / 5,558 messages), with legacy V1 used only for claim-revision comparison; audiovisual evidence not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 continuity_tracks:
-  - P1[CHINA]
-  - P2[CHINA]
-  - P3-C[CHINA]
-  - D-CHINA
-  - M-CHINA
-reasoning_route: "GPT-5.6 Sol — Extra High"
-last_updated: "2026-08-15"
+- P1[CHINA]
+- P2[CHINA]
+- P3-C[CHINA]
+- D-CHINA
+- M-CHINA
+reasoning_route: GPT-5.6 Sol — Extra High
+last_updated: '2026-08-15'
 ---
 
 # GKM CORE 06 — KURAMOTO CHINA / 倉本千奈

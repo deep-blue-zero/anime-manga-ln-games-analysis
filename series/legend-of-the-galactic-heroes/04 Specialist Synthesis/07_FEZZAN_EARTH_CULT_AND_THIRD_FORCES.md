@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Fezzan, Earth Cult, and Third Forces"
-subtitle: "Balance, commerce, sacred resentment, conspiracy, and actors who live between states"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed fourth-tranche third-forces document"
+title: 銀河英雄伝説 — Fezzan, Earth Cult, and Third Forces
+subtitle: Balance, commerce, sacred resentment, conspiracy, and actors who live between states
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed fourth-tranche third-forces document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G01; G03; G04"
+primary_sources: M01–M10; G01; G03; G04
 ---
 
 # 銀河英雄伝説

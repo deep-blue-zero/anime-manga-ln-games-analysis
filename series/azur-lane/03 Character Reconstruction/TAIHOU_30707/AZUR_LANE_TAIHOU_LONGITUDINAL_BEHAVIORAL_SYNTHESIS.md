@@ -7,18 +7,22 @@ generation: V1
 status: canonical
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 regional_witness_status: not_yet_integrated_for_semantic_revision
 performed_voice_status: open_partial_source_mapping
-source_boundary: "R0-R2 Taihou reconstruction authorities plus 116 CN character-dialogue records, 25 normalized CN social sections (24 with authored text; 1 structural Island trigger only), named relationship evidence, and 125 routed CN Dorm3D non-chat groups with unresolved exact-script references excluded from exact claims"
+source_boundary: R0-R2 Taihou reconstruction authorities plus 116 CN character-dialogue records, 25 normalized CN social sections (24 with authored text; 1 structural Island trigger only), named relationship evidence, and 125 routed CN Dorm3D non-chat groups with unresolved exact-script references excluded from exact claims
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 r0_authority: AZUR_LANE_TAIHOU_RECONSTRUCTION_READINESS_AUDIT.md
 r1_authority: AZUR_LANE_TAIHOU_RECONSTRUCTION_EVIDENCE_MAP.md
 r2_anchor: AZUR_LANE_TAIHOU_CHARACTER_MEMORY_DEEP_READING.md
 r2_full_narrative: AZUR_LANE_TAIHOU_NARRATIVE_DEEP_READING.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

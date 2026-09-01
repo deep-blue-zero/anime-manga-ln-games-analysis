@@ -5,16 +5,16 @@ analytical_role: relationship_systems_synthesis
 scope: RELATIONSHIP_SYSTEMS_II_RIVALRY_FRIENDSHIP_CLASS_AND_SUCCESSION
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5 and Phase-6 Relationship Systems I: governing character-core readings for Saki, Temari, Kotone, China, Hiro, Ume, Sena, and Tsubame; four canonical numbered-event readings; eight canonical support-card readings covering 498/498 support scripts and 9,777/9,777 support messages; cumulative relationship and institution ledgers; and already-integrated audiovisual findings. Producer relations are interpreted as route-bounded relation systems and are not concatenated into one unsupported simultaneous biography."
-source_lock: "GAKUMAS V2 Source Lock 1.0"
-source_commit: "00d150a069a3ffa723a1ff264752ba242024caad"
+source_boundary: 'GAKUMAS V2 Source Lock 1.0 through completed Phases 0-5 and Phase-6 Relationship Systems I: governing character-core readings for Saki, Temari, Kotone, China, Hiro, Ume, Sena, and Tsubame; four canonical numbered-event readings; eight canonical support-card readings covering 498/498 support scripts and 9,777/9,777 support messages; cumulative relationship and institution ledgers; and already-integrated audiovisual findings. Producer relations are interpreted as route-bounded relation systems and are not concatenated into one unsupported simultaneous biography.'
+source_lock: GAKUMAS V2 Source Lock 1.0
+source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
-governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2"
-governing_architecture: "GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4"
-governing_continuity: "GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1"
-created: "2026-08-24"
-supersedes: null
-superseded_by: null
+governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
+governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
+governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
+created: '2026-08-24'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -4,9 +4,9 @@ artifact_type: checkpoint
 scope: V08-V09
 generation: V2
 status: canonical
-source_boundary: "Locked Japanese EPUBs HIBIKE-V08 and HIBIKE-V09; second-year main movement only"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese EPUBs HIBIKE-V08 and HIBIKE-V09; second-year main movement only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

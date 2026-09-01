@@ -9,9 +9,9 @@ semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 readiness_grade: A
 readiness_score: 82.91
-source_boundary: "Pinned Baltimore character build 2.1.0; CN-origin narrative/dialogue/social evidence; JP/EN/TW/KR regional witnesses; current JP audio analysis-pack publication state"
-supersedes: null
-superseded_by: null
+source_boundary: Pinned Baltimore character build 2.1.0; CN-origin narrative/dialogue/social evidence; JP/EN/TW/KR regional witnesses; current JP audio analysis-pack publication state
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

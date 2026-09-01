@@ -1,14 +1,14 @@
 ---
 series: CGMG
-series_title: "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)"
+series_title: THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)
 artifact_type: audit
 scope: KANZAKI_RANKO_CHARACTER_MONOGRAPH_V1
 generation: V1
 status: canonical
-source_boundary: "Audit of CINDERELLA_GIRLS_KANZAKI_RANKO_CHARACTER_MONOGRAPH.md against the integrated Kanzaki Ranko Mobage + Deresute evidence packet. Deresute text is complete against the released categorized textual inventory; Mobage remains structurally incomplete; audio is representative only. Anime evidence is excluded."
+source_boundary: Audit of CINDERELLA_GIRLS_KANZAKI_RANKO_CHARACTER_MONOGRAPH.md against the integrated Kanzaki Ranko Mobage + Deresute evidence packet. Deresute text is complete against the released categorized textual inventory; Mobage remains structurally incomplete; audio is representative only. Anime evidence is excluded.
 audits:
-  - "CINDERELLA_GIRLS_KANZAKI_RANKO_CHARACTER_MONOGRAPH.md"
-source_packet: "CINDERELLA_GIRLS_KANZAKI_RANKO"
+- CINDERELLA_GIRLS_KANZAKI_RANKO_CHARACTER_MONOGRAPH.md
+source_packet: CINDERELLA_GIRLS_KANZAKI_RANKO
 source_packet_snapshot:
   candidate_source_objects: 297
   target_confirmed_source_objects: 195
@@ -19,13 +19,13 @@ source_packet_snapshot:
   mobage_text_completeness: STRUCTURALLY_INCOMPLETE
   audio_completeness: REPRESENTATIVE_ONLY
 disposition_vocabulary:
-  - PRESERVE
-  - STRENGTHEN
-  - REVISE
-  - DOWNGRADE
-  - REJECT
-  - OPEN
-overall_disposition: "PRESERVE_WITH_TARGETED_REVISIONS"
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+overall_disposition: PRESERVE_WITH_TARGETED_REVISIONS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

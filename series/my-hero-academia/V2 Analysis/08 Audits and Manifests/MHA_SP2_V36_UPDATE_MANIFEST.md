@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: V36
 generation: V2
 status: canonical
-source_boundary: "Japanese manga Volume 36 through V36:p197"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga Volume 36 through V36:p197
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

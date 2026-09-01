@@ -4,13 +4,13 @@ artifact_type: audit
 scope: E24_credits_coda
 generation: V2
 status: canonical
-source_boundary: "Episode 24 credits montage, approximately 00:23:16.131–00:24:46.481"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 24 credits montage, approximately 00:23:16.131–00:24:46.481
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 episode_body_freeze_unchanged: true
-evidence_class: "paratextual / prospective"
-title: "To Be Hero X V2 — Episode 24 Credits Coda Motion Audit"
+evidence_class: paratextual / prospective
+title: To Be Hero X V2 — Episode 24 Credits Coda Motion Audit
 ---
 
 # To Be Hero X V2 — Episode 24 Credits Coda Motion Audit

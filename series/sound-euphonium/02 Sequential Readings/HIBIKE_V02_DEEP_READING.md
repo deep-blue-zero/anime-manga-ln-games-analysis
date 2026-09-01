@@ -4,10 +4,12 @@ artifact_type: deep_reading
 scope: V02
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V02 locked Japanese EPUB: 『響け！ ユーフォニアム2　北宇治高校吹奏楽部のいちばん熱い夏』"
-supersedes: "V1 analytical authority for corresponding Volume 2: SOUND! EUPHONIUM — Novel 2.md"
-superseded_by: null
+source_boundary: 'HIBIKE-V02 locked Japanese EPUB: 『響け！ ユーフォニアム2　北宇治高校吹奏楽部のいちばん熱い夏』'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
+legacy_supersession_notes:
+- 'legacy supersedes: V1 analytical authority for corresponding Volume 2: SOUND! EUPHONIUM — Novel 2.md'
 ---
 
 # Sound! Euphonium V2 — HIBIKE-V02 Deep Reading

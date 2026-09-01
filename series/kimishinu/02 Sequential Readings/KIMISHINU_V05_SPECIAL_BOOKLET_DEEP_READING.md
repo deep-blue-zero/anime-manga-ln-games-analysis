@@ -4,13 +4,13 @@ artifact_type: deep_reading
 scope: V05_SPECIAL_BOOKLET
 generation: V1
 status: canonical
-source_boundary: "Japanese Volume 5 special-edition electronic booklet 'After the Quarrel'; supplemental narrative kept distinct from V05 mainline"
-source_sha256: "ddb07fbf19b48c3dbec3a3af1d1e050bc39288c170744e9e945b9675686b3c55"
+source_boundary: Japanese Volume 5 special-edition electronic booklet 'After the Quarrel'; supplemental narrative kept distinct from V05 mainline
+source_sha256: ddb07fbf19b48c3dbec3a3af1d1e050bc39288c170744e9e945b9675686b3c55
 evidence_class: supplemental_narrative
-chronology: "post-CH23 reconciliation; exact ordering relative to CH24 not established by internal evidence"
+chronology: post-CH23 reconciliation; exact ordering relative to CH24 not established by internal evidence
 mainline_freeze_precedes_reading: true
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

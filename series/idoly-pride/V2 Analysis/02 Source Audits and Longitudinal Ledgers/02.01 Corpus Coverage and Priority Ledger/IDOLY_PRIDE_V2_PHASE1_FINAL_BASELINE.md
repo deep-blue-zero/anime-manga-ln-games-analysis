@@ -5,26 +5,27 @@ artifact_role: CHECKPOINT
 scope: PHASE1_FINAL
 filename: IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1"
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_cutoff: "2026-08-13"
-source_boundary: "Frozen Phase-0/0.5 authority plus complete Phase-1 broad coverage and routing of 665 game bundles + 12 anime episodes, selective close reading through all Tier-A/main/origin material, all 60 event bundles, mandatory B1/B2/B3 bond tranches, all 11 C1 cards, and exact routed message companions. B4/C2/C3/ordinary messages remain deliberately indexed unless claim-specific retrieval promotes them. Known phone/formal gaps remain explicit."
+source_cutoff: '2026-08-13'
+source_boundary: Frozen Phase-0/0.5 authority plus complete Phase-1 broad coverage and routing of 665 game bundles + 12 anime episodes, selective close reading through all Tier-A/main/origin material, all 60 event bundles, mandatory B1/B2/B3 bond tranches, all 11 C1 cards, and exact routed message companions. B4/C2/C3/ordinary messages remain deliberately indexed unless claim-specific retrieval promotes them. Known phone/formal gaps remain explicit.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1_CLOSURE_AUDIT.md
 coverage_ledger: IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
 phase2_queue: IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-supersedes: IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md
-superseded_by: null
+supersedes:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md
+superseded_by: []
 do_not_use_as_current_authority: false
 closure_result: PASS_WITH_EXPLICIT_NONBLOCKING_ROUTED_GAPS
 integrity_status: FROZEN_PHASE1_FINAL_REFERENCE
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 2 — P2-0 ledger/freshness infrastructure"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: Phase 2 — P2-0 ledger/freshness infrastructure
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 FINAL GOVERNING BASELINE

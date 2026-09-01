@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V22 Deep Reading - 撫物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V22"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『撫物語』, supplied archive item 22 撫物語.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V22 Deep Reading - 撫物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V22
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『撫物語』, supplied archive item 22 撫物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V22_DEEP_READING"
-version: "1.0"
-date: "2026-08-17"
-volume_code: "V22"
-japanese_title: "撫物語"
-archive_position: "Off Season archive spine V22"
-source_file: "22 撫物語.epub"
-source_drive_id: "1vO82DF0L06HhQIbT_IKEckFjqbu3X0eV"
-source_sha256: "ce9f38bd1a099accdfd5d57409775318f368569c3ecee18f9362a9fef391bbce"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V22_DEEP_READING
+version: '1.0'
+date: '2026-08-17'
+volume_code: V22
+japanese_title: 撫物語
+archive_position: Off Season archive spine V22
+source_file: 22 撫物語.epub
+source_drive_id: 1vO82DF0L06HhQIbT_IKEckFjqbu3X0eV
+source_sha256: ce9f38bd1a099accdfd5d57409775318f368569c3ecee18f9362a9fef391bbce
 source_size_bytes: 3229093
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies a July 2016 Kodansha BOX print basis; electronic colophon identifies August 1, 2016 electronic issue. OPF/calibre timestamps are retained only as file-history metadata."
-principal_story_units: "第零話 なでこドロー"
-narrators: "千石撫子"
-internal_story_range: "Current Nadeko is fifteen, approximately ten months from middle-school graduation, after more than half a year of school absence and after the Final Season/Ougi resolution. The principal shikigami crisis unfolds within one day, followed by near-term aftermath. Exact calendar date is not stated; the source supports a spring/early-summer placement rather than an invented day."
-spoiler_policy: "Publication-local V22 conclusions may use and revise V01-V21 because V22 is the current publication boundary. V23 『結物語』 and all later Off/Monster/Family Season material are excluded except as explicitly quarantined future questions."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies a July 2016 Kodansha BOX print basis; electronic colophon identifies August 1, 2016 electronic issue. OPF/calibre timestamps are retained only as file-history metadata.
+principal_story_units: 第零話 なでこドロー
+narrators: 千石撫子
+internal_story_range: Current Nadeko is fifteen, approximately ten months from middle-school graduation, after more than half a year of school absence and after the Final Season/Ougi resolution. The principal shikigami crisis unfolds within one day, followed by near-term aftermath. Exact calendar date is not stated; the source supports a spring/early-summer placement rather than an invented day.
+spoiler_policy: Publication-local V22 conclusions may use and revise V01-V21 because V22 is the current publication boundary. V23 『結物語』 and all later Off/Monster/Family Season material are excluded except as explicitly quarantined future questions.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 — Volume 22 Deep Reading

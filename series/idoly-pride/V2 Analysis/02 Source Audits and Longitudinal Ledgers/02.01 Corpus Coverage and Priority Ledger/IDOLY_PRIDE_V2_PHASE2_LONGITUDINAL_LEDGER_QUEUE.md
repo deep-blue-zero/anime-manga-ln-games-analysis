@@ -4,22 +4,22 @@ artifact_type: phase_queue
 artifact_role: MANIFEST
 scope: PHASE2_LONGITUDINAL_LEDGERS
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
+phase: '2'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Execution queue derived from the frozen Phase-1 final baseline. It creates no new literary claims by itself and may not silently advance the source snapshot."
+source_boundary: Execution queue derived from the frozen Phase-1 final baseline. It creates no new literary claims by itself and may not silently advance the source snapshot.
 inherits: IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1_CLOSURE_AUDIT.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: FROZEN_PHASE2_ENTRY_QUEUE
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "P2-0 — ledger/freshness infrastructure"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: P2-0 — ledger/freshness infrastructure
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 2 LONGITUDINAL LEDGER QUEUE

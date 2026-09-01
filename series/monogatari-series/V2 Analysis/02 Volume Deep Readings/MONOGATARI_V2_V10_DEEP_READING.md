@@ -1,35 +1,35 @@
 ---
-title: "〈物語〉シリーズ V2 V10 Deep Reading — 花物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V10"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『花物語』, supplied archive item 10 花物語.epub"
-supersedes: null
-superseded_by: null
+title: 〈物語〉シリーズ V2 V10 Deep Reading — 花物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V10
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『花物語』, supplied archive item 10 花物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V10_DEEP_READING"
-version: "1.0"
-date: "2026-08-15"
-volume_code: "V10"
-japanese_title: "花物語"
-archive_position: "Second Season archive spine V10"
-source_file: "10 花物語.epub"
-source_drive_id: "1vhrtFS60L884RHdfogAd7XnKjOToWkjE"
-source_sha256: "beceeaa9cb23707904beebd31570d88df309473df1b79361bf8ba02bed1dac28"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V10_DEEP_READING
+version: '1.0'
+date: '2026-08-15'
+volume_code: V10
+japanese_title: 花物語
+archive_position: Second Season archive spine V10
+source_file: 10 花物語.epub
+source_drive_id: 1vhrtFS60L884RHdfogAd7XnKjOToWkjE
+source_sha256: beceeaa9cb23707904beebd31570d88df309473df1b79361bf8ba02bed1dac28
 source_size_bytes: 6638617
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text and represented March 29, 2011 print boundary; later calibre packaging means official digital-edition lineage/date is not asserted"
-principal_story_unit: "第変話 するがデビル"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text and represented March 29, 2011 print boundary; later calibre packaging means official digital-edition lineage/date is not asserted
+principal_story_unit: 第変話 するがデビル
 narrators:
-  - "神原駿河"
-internal_story_range: "April 9 and the following school week after Araragi/Hitagi/Hanekawa graduation; Kanbaru third-year spring"
-spoiler_policy: "Publication-local reading is separated from retrospective V2 interpretation; later-series knowledge is quarantined to retrospective sections."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "High"
+- 神原駿河
+internal_story_range: April 9 and the following school week after Araragi/Hitagi/Hanekawa graduation; Kanbaru third-year spring
+spoiler_policy: Publication-local reading is separated from retrospective V2 interpretation; later-series knowledge is quarantined to retrospective sections.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: High
 ---
 
 # 〈物語〉シリーズ V2 — Volume 10 Deep Reading

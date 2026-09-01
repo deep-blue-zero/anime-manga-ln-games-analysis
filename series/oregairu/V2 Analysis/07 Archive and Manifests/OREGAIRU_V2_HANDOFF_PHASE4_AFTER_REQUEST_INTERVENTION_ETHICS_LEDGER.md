@@ -4,12 +4,12 @@ artifact_type: HANDOFF
 scope: PHASE4_AFTER_REQUEST_INTERVENTION_ETHICS_LEDGER
 generation: V2
 status: canonical
-source_boundary: "Oregairu V2 project state through completion of the Request / Intervention Ethics Ledger; canonical sequential reread complete through Volume 14.5"
-supersedes: null
-superseded_by: null
+source_boundary: Oregairu V2 project state through completion of the Request / Intervention Ethics Ledger; canonical sequential reread complete through Volume 14.5
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-handoff_created: "2026-08-16"
-next_artifact: "OREGAIRU_V2_AUTHENTICITY_HONMONO_LEDGER.md"
+handoff_created: '2026-08-16'
+next_artifact: OREGAIRU_V2_AUTHENTICITY_HONMONO_LEDGER.md
 ---
 
 # OREGAIRU V2 — New-Chat Handoff

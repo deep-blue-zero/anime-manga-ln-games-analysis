@@ -5,108 +5,108 @@ artifact_type: deep_reading
 scope: V26
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-24"
-source_boundary: "Japanese manga Volume 26, Chapters 103-106; spoiler boundary through Volume 26 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-24'
+source_boundary: Japanese manga Volume 26, Chapters 103-106; spoiler boundary through Volume 26 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "26"
-chapters: "103-106"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '26'
+chapters: 103-106
 chapter_titles:
-  - "第103話 強襲"
-  - "第104話 勝者"
-  - "第105話 凶弾"
-  - "第106話 義勇兵"
+- 第103話 強襲
+- 第104話 勝者
+- 第105話 凶弾
+- 第106話 義勇兵
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v26 (2018) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1shWUeU6BO0e4e34h_tVlMbfnZ3UMU9uT"
-source_sha256: "806c955956f05e6a5e86b19e46590c8deabd1bd3461088157347d6114f52d953"
+source_file: Attack on Titan v26 (2018) (Digital SD) (KG Manga).cbz
+source_drive_id: 1shWUeU6BO0e4e34h_tVlMbfnZ3UMU9uT
+source_sha256: 806c955956f05e6a5e86b19e46590c8deabd1bd3461088157347d6114f52d953
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 26 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 26 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_material_source: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
-checkpoint_horizon: "Volume 27 / approximately-75% provisional synthesis before Volume 28"
+prospective_material_source: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+checkpoint_horizon: Volume 27 / approximately-75% provisional synthesis before Volume 28
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Jean Kirstein / ジャン・キルシュタイン"
-  - "Sasha Blouse / サシャ・ブラウス"
-  - "Connie Springer / コニー・スプリンガー"
-  - "Levi Ackerman / リヴァイ・アッカーマン"
-  - "Hange Zoe / ハンジ・ゾエ"
-  - "Zeke Jaeger / ジーク・イェーガー"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Falco Grice / ファルコ・グライス"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Pieck Finger / ピーク・フィンガー"
-  - "Porco Galliard / ポルコ・ガリアード"
-  - "Yelena / イェレナ"
-  - "Onyankopon / オニャンコポン"
-  - "Nicolo / ニコロ"
+- Eren Jaeger / エレン・イェーガー
+- Armin Arlert / アルミン・アルレルト
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Jean Kirstein / ジャン・キルシュタイン
+- Sasha Blouse / サシャ・ブラウス
+- Connie Springer / コニー・スプリンガー
+- Levi Ackerman / リヴァイ・アッカーマン
+- Hange Zoe / ハンジ・ゾエ
+- Zeke Jaeger / ジーク・イェーガー
+- Gabi Braun / ガビ・ブラウン
+- Falco Grice / ファルコ・グライス
+- Reiner Braun / ライナー・ブラウン
+- Pieck Finger / ピーク・フィンガー
+- Porco Galliard / ポルコ・ガリアード
+- Yelena / イェレナ
+- Onyankopon / オニャンコポン
+- Nicolo / ニコロ
 major_relationships:
-  - "Eren / Armin / Mikasa"
-  - "Eren / Survey Corps command"
-  - "Jean / Sasha / Connie"
-  - "Gabi / Falco"
-  - "Zeke / Paradis military"
-  - "Paradis / Anti-Marleyan Volunteers"
-  - "Nicolo / Sasha / Paradis soldiers"
+- Eren / Armin / Mikasa
+- Eren / Survey Corps command
+- Jean / Sasha / Connie
+- Gabi / Falco
+- Zeke / Paradis military
+- Paradis / Anti-Marleyan Volunteers
+- Nicolo / Sasha / Paradis soldiers
 major_topics:
-  - tactical victory versus political capture
-  - coercive initiative and command legitimacy
-  - grief as ideology-producing experience
-  - enemy knowledge through proximity
-  - technological asymmetry and modernization
-  - dialogue after mass violence
-  - complicity in killing at distance
-  - strategic dependence on untrusted allies
-  - royal blood and Founding Titan access
-  - temporal inversion and retrospective causality
-  - bereavement, blame, and responsibility
-  - survival logic becoming self-command
+- tactical victory versus political capture
+- coercive initiative and command legitimacy
+- grief as ideology-producing experience
+- enemy knowledge through proximity
+- technological asymmetry and modernization
+- dialogue after mass violence
+- complicity in killing at distance
+- strategic dependence on untrusted allies
+- royal blood and Founding Titan access
+- temporal inversion and retrospective causality
+- bereavement, blame, and responsibility
+- survival logic becoming self-command
 major_visual_motifs:
-  - Jaw Titan as weapon/tool
-  - Colossal Titan over the harbor
-  - airship extraction above burning Liberio
-  - Sasha framed by rifle line-of-fire
-  - handcuffs and captured bodies
-  - sea crossing and captured Marleyan ships
-  - shared tables and unfamiliar food
-  - Eren before the prison mirror
+- Jaw Titan as weapon/tool
+- Colossal Titan over the harbor
+- airship extraction above burning Liberio
+- Sasha framed by rifle line-of-fire
+- handcuffs and captured bodies
+- sea crossing and captured Marleyan ships
+- shared tables and unfamiliar food
+- Eren before the prison mirror
 major_lexical_targets:
-  - 勝者
-  - 凶弾
-  - 義勇兵
-  - 戦え
-  - 勝てない
-  - 海
-  - 話し合う
-  - 時間
-  - 王家の血
-  - 地鳴らし
-  - 技術
-  - 仲間
+- 勝者
+- 凶弾
+- 義勇兵
+- 戦え
+- 勝てない
+- 海
+- 話し合う
+- 時間
+- 王家の血
+- 地鳴らし
+- 技術
+- 仲間
 cumulative_status:
-  - strengthened
-  - revised
-  - prospectively_tested
-  - strategically_complicated
-  - open
+- strengthened
+- revised
+- prospectively_tested
+- strategically_complicated
+- open
 ---
 
 # 『進撃の巨人』Volume 26 Deep Reading

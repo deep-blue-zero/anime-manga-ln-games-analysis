@@ -1,130 +1,130 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "contradiction_and_adversarial_audit"
-artifact_role: "AUDIT"
-document_id: "PHASE7"
-title: "Phase 7 Contradiction and Adversarial Audit"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: contradiction_and_adversarial_audit
+artifact_role: AUDIT
+document_id: PHASE7
+title: Phase 7 Contradiction and Adversarial Audit
+scope: V01-V14+ALTER1
 phase: 7
-generation: "V2"
-method_version: "V2"
-status: "canonical"
-date: "2026-08-16"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-audit_target: "18_FULL_SERIES_CONTINUOUS_SYNTHESIS.md"
-audit_target_sha256: "9f19fd985aaf292890adc1dffc31bf6253c970aa1dd0cb0eef8f3a379efb6704"
-audit_target_status: "active_provisional"
-audit_result: "PASS_WITH_MANDATORY_REVISION"
+generation: V2
+method_version: V2
+status: canonical
+date: '2026-08-16'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+audit_target: 18_FULL_SERIES_CONTINUOUS_SYNTHESIS.md
+audit_target_sha256: 9f19fd985aaf292890adc1dffc31bf6253c970aa1dd0cb0eef8f3a379efb6704
+audit_target_status: active_provisional
+audit_result: PASS_WITH_MANDATORY_REVISION
 fatal_contradictions: 0
 mandatory_capstone_revisions: 9
 phase8_required: true
 canonical_release_blocked_until_phase8: true
-conflict_rule: "Documents 01-17 and Phase-5 locks remain controlling; this audit controls the revision requirements for provisional Document 18"
+conflict_rule: Documents 01-17 and Phase-5 locks remain controlling; this audit controls the revision requirements for provisional Document 18
 primary_dependencies:
-  - "01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md"
-  - "02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md"
-  - "03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md"
-  - "04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md"
-  - "05_SAN_MAGNOLIA_RACISM_GENOCIDE_COMPLICITY_AND_MEMORY.md"
-  - "06_GIAD_AND_COMPARATIVE_INSTITUTIONS_CITIZENSHIP_FREEDOM_AND_PATERNALISM.md"
-  - "07_WAR_STRATEGY_LOGISTICS_TECHNOLOGY_AND_HEROISM.md"
-  - "08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md"
-  - "09_CHILDHOOD_PRIDE_TRAUMA_GRIEF_RECOVERY_AND_ORDINARY_LIFE.md"
-  - "10_SHIN_LENA_LOVE_DEPENDENCE_HOME_AND_THE_RIGHT_TO_RETURN.md"
-  - "11_LEGION_MEMORY_IDENTITY_AND_POSTHUMAN_CONTINUITY.md"
-  - "12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md"
-  - "13_SYMBOLS_MOTIFS_LANDSCAPES_OBJECTS_AND_LIGHT_NOVEL_FORM.md"
-  - "14_COMPARATIVE_REFERENCE_MATRICES_CONTRADICTIONS_AND_OPEN_QUESTIONS.md"
-  - "15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-  - "16_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md"
-  - "17_LEGACY_SYNTHESIS_REVISION_REPORT.md"
-  - "18_FULL_SERIES_CONTINUOUS_SYNTHESIS.md"
-  - "86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv"
-  - "86_PHASE5_OPEN_QUESTION_LOCK.tsv"
-  - "86_PHASE5_MILITARY_LEVEL_LOCK.tsv"
-  - "86_PHASE5_MAJOR_CHARACTER_ORDINARY_CLIMACTIC_EVIDENCE_MATRIX.tsv"
-  - "86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv"
-  - "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
+- 01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md
+- 02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md
+- 03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md
+- 04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md
+- 05_SAN_MAGNOLIA_RACISM_GENOCIDE_COMPLICITY_AND_MEMORY.md
+- 06_GIAD_AND_COMPARATIVE_INSTITUTIONS_CITIZENSHIP_FREEDOM_AND_PATERNALISM.md
+- 07_WAR_STRATEGY_LOGISTICS_TECHNOLOGY_AND_HEROISM.md
+- 08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md
+- 09_CHILDHOOD_PRIDE_TRAUMA_GRIEF_RECOVERY_AND_ORDINARY_LIFE.md
+- 10_SHIN_LENA_LOVE_DEPENDENCE_HOME_AND_THE_RIGHT_TO_RETURN.md
+- 11_LEGION_MEMORY_IDENTITY_AND_POSTHUMAN_CONTINUITY.md
+- 12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md
+- 13_SYMBOLS_MOTIFS_LANDSCAPES_OBJECTS_AND_LIGHT_NOVEL_FORM.md
+- 14_COMPARATIVE_REFERENCE_MATRICES_CONTRADICTIONS_AND_OPEN_QUESTIONS.md
+- 15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+- 16_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md
+- 17_LEGACY_SYNTHESIS_REVISION_REPORT.md
+- 18_FULL_SERIES_CONTINUOUS_SYNTHESIS.md
+- 86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv
+- 86_PHASE5_OPEN_QUESTION_LOCK.tsv
+- 86_PHASE5_MILITARY_LEVEL_LOCK.tsv
+- 86_PHASE5_MAJOR_CHARACTER_ORDINARY_CLIMACTIC_EVIDENCE_MATRIX.tsv
+- 86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv
+- 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
 adversarial_constraints:
-  - "T14-C01"
-  - "T14-C02"
-  - "T14-C03"
-  - "T14-C04"
-  - "T14-C05"
-  - "T14-C06"
-  - "T14-C07"
-  - "T14-C08"
-  - "T14-C09"
-  - "T14-C10"
-  - "T14-C11"
-  - "T14-C12"
-  - "T14-C13"
-  - "T14-C14"
-  - "T14-C15"
-  - "T14-C16"
-  - "T14-C17"
-  - "T14-C18"
-  - "T14-C19"
-  - "T14-C20"
-  - "T14-C21"
-  - "T14-C22"
-  - "T14-C23"
-  - "T14-C24"
-  - "T14-C25"
-  - "T14-C26"
-  - "T14-C27"
-  - "T14-C28"
-  - "T14-C29"
-  - "T14-C30"
-  - "T14-C31"
-  - "T14-C32"
-  - "T14-C33"
-  - "T14-C34"
-  - "T14-C35"
-  - "T14-C36"
-  - "T14-C37"
-  - "T14-C38"
-  - "T14-C39"
-  - "T14-C40"
-  - "T14-C41"
+- T14-C01
+- T14-C02
+- T14-C03
+- T14-C04
+- T14-C05
+- T14-C06
+- T14-C07
+- T14-C08
+- T14-C09
+- T14-C10
+- T14-C11
+- T14-C12
+- T14-C13
+- T14-C14
+- T14-C15
+- T14-C16
+- T14-C17
+- T14-C18
+- T14-C19
+- T14-C20
+- T14-C21
+- T14-C22
+- T14-C23
+- T14-C24
+- T14-C25
+- T14-C26
+- T14-C27
+- T14-C28
+- T14-C29
+- T14-C30
+- T14-C31
+- T14-C32
+- T14-C33
+- T14-C34
+- T14-C35
+- T14-C36
+- T14-C37
+- T14-C38
+- T14-C39
+- T14-C40
+- T14-C41
 open_questions_preserved:
-  - "T14-OQ-01"
-  - "T14-OQ-02"
-  - "T14-OQ-03"
-  - "T14-OQ-04"
-  - "T14-OQ-05"
-  - "T14-OQ-06"
-  - "T14-OQ-07"
-  - "T14-OQ-08"
-  - "T14-OQ-09"
-  - "T14-OQ-10"
-  - "T14-OQ-11"
-  - "T14-OQ-12"
-  - "T14-OQ-13"
-  - "T14-OQ-14"
-  - "T14-OQ-15"
-  - "T14-OQ-16"
-  - "T14-OQ-17"
-  - "T14-OQ-18"
-  - "T14-OQ-19"
-  - "T14-OQ-20"
-  - "T14-OQ-21"
-  - "T14-OQ-22"
-  - "T14-OQ-23"
-  - "T14-OQ-24"
-  - "T14-OQ-25"
-  - "T14-OQ-26"
-  - "T14-OQ-27"
-  - "T14-OQ-28"
-  - "T14-OQ-29"
-  - "T14-OQ-30"
-  - "T14-OQ-31"
-  - "T14-OQ-32"
-supersedes: null
-superseded_by: null
+- T14-OQ-01
+- T14-OQ-02
+- T14-OQ-03
+- T14-OQ-04
+- T14-OQ-05
+- T14-OQ-06
+- T14-OQ-07
+- T14-OQ-08
+- T14-OQ-09
+- T14-OQ-10
+- T14-OQ-11
+- T14-OQ-12
+- T14-OQ-13
+- T14-OQ-14
+- T14-OQ-15
+- T14-OQ-16
+- T14-OQ-17
+- T14-OQ-18
+- T14-OQ-19
+- T14-OQ-20
+- T14-OQ-21
+- T14-OQ-22
+- T14-OQ-23
+- T14-OQ-24
+- T14-OQ-25
+- T14-OQ-26
+- T14-OQ-27
+- T14-OQ-28
+- T14-OQ-29
+- T14-OQ-30
+- T14-OQ-31
+- T14-OQ-32
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

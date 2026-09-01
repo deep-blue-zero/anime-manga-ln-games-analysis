@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: V05
 generation: V1
 status: canonical
-source_boundary: "Japanese digital tankobon Volume 5 MAINLINE; CH20-CH24; tail paratext classified separately; V05 special booklet excluded from mainline prediction audit"
-source_sha256: "f47174b93e3a0956eaa3dba265ea40d014a070ce6b4cf45111c08bfd34310c6a"
+source_boundary: Japanese digital tankobon Volume 5 MAINLINE; CH20-CH24; tail paratext classified separately; V05 special booklet excluded from mainline prediction audit
+source_sha256: f47174b93e3a0956eaa3dba265ea40d014a070ce6b4cf45111c08bfd34310c6a
 prospective_boundary_before: V04
 prospective_boundary_after: V05_MAINLINE
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

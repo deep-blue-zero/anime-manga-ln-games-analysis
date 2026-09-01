@@ -4,11 +4,11 @@ artifact_type: handoff
 scope: E07
 generation: V2
 status: canonical
-source_boundary: "S01E01-S01E07 prospective freeze"
-supersedes: null
-superseded_by: null
+source_boundary: S01E01-S01E07 prospective freeze
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Phase 1 Episode 07 Handoff"
+title: To Be Hero X V2 — Phase 1 Episode 07 Handoff
 phase: 1
 episode: 7
 next_scope: E08

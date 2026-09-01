@@ -5,23 +5,23 @@ artifact_role: DEEP_READING
 scope: S3E06
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S3E06 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S3E06 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 3
 episode: 6
-episode_title_japanese: "タカラモノ"
-episode_title_english: "Treasure"
-episode_title_source: "retained source frame at approximately 00:03:29.709 directly displays #06 / タカラモノ; embedded English title-card layer renders Treasure; title used as identifying/formal evidence and later connected to Keke's public treasure language, not as independent proof of interpretation"
+episode_title_japanese: タカラモノ
+episode_title_english: Treasure
+episode_title_source: 'retained source frame at approximately 00:03:29.709 directly displays #06 / タカラモノ; embedded English title-card layer renders Treasure; title used as identifying/formal evidence and later connected to Keke''s public treasure language, not as independent proof of interpretation'
 artifact_id: LLS_S3E06_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E05 as prior authority; corrected-Japanese SRT governing text; bounded English comparison lane for Chinese dialogue and signs; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; Keke future authorship, gratitude/debt logic, Mengmeng family-persuasion intervention, Kanon challenge and renewed Vienna plan, Sumire agency-respecting support, TomaKanoTe public rival solidarity, Chisato-led temporary eleven-person Yuigaoka performance, Wien huff audit, Tomari value-status audit, relationship/voice/institution/character-model analysis"
+analysis_mode: sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E05 as prior authority; corrected-Japanese SRT governing text; bounded English comparison lane for Chinese dialogue and signs; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; Keke future authorship, gratitude/debt logic, Mengmeng family-persuasion intervention, Kanon challenge and renewed Vienna plan, Sumire agency-respecting support, TomaKanoTe public rival solidarity, Chisato-led temporary eleven-person Yuigaoka performance, Wien huff audit, Tomari value-status audit, relationship/voice/institution/character-model analysis
 source_bundle: LLS_s03e06_screenshots.zip
 source_drive_id: 1b5e6Md-5q0zJ9Xja6_xluenldAchOiZ5
 source_sha256: c89dc2d46214f021aafb508054147a930e3017687877b6669d9dc3d14d956e30
 source_bytes: 182088745
-source_language: "Japanese audio; corrected Japanese SRT; English comparison ASS including bounded translation lane for Chinese dialogue"
-semantic_evidence_boundary: "S1E01-S3E06 only"
+source_language: Japanese audio; corrected Japanese SRT; English comparison ASS including bounded translation lane for Chinese dialogue
+semantic_evidence_boundary: S1E01-S3E06 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON2_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
@@ -32,8 +32,8 @@ season1_frozen_checkpoint_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 season2_frozen_checkpoint: LLS_SEASON2_FROZEN_CHECKPOINT.md
 season2_frozen_checkpoint_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
 season2_checkpoint_status: frozen
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 940
 retained_frames: 873
 contact_sheets_reviewed: 49
@@ -46,7 +46,7 @@ english_spoken_derivative_events: 258
 bundled_paired_english_rows: 240
 bundled_paired_english_coverage: 0.634921
 source_video_duration_seconds: 1422.098
-audio_ffprobe_duration_seconds: 1422.120
+audio_ffprobe_duration_seconds: 1422.12
 audio_sha256: 73f3e1a7169012fac8cea4a169342fc88ef91a4244ab387f8a935353508feeed
 audio_bytes: 28443233
 audio_codec: MP3
@@ -55,17 +55,17 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_packaging_warning: "Phase-0 known non-blocking warning: corrected Japanese is retained as S03E06.ja.corrected.srt; selected_subtitle correctly points to SRT, while language_tracks.japanese_corrected/comparison_pairing.primary stale-reference an .ass name. Exact Japanese wording/timing is usable; Japanese ASS style-layer claims are unavailable. Chinese dialogue is not transcribed by the governing Japanese SRT and is treated only through a clearly labeled bounded English comparison lane."
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_packaging_warning: 'Phase-0 known non-blocking warning: corrected Japanese is retained as S03E06.ja.corrected.srt; selected_subtitle correctly points to SRT, while language_tracks.japanese_corrected/comparison_pairing.primary stale-reference an .ass name. Exact Japanese wording/timing is usable; Japanese ASS style-layer claims are unavailable. Chinese dialogue is not transcribed by the governing Japanese SRT and is treated only through a clearly labeled bounded English comparison lane.'
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 873 retained frames, 49 contact sheets, subtitle/index copies, overview montages, transcript products, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 873 retained frames, 49 contact sheets, subtitle/index copies, overview montages, transcript products, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S3E07_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

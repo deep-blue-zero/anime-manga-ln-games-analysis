@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: checkpoint
 scope: CHARACTER_HATAYA_MISUZU_PHASE3_CORE
-character: "Hataya Misuzu / 秦谷美鈴"
+character: Hataya Misuzu / 秦谷美鈴
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — 197 objects / 5,018 messages; legacy used only for claim transition; AV pending"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — 197 objects / 5,018 messages; legacy used only for claim transition; AV pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # GKM PHASE 3 — HATAYA MISUZU CORE PASS REPORT

@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V20 Deep Reading - 愚物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V20"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『愚物語』, supplied archive item 20 愚物語.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V20 Deep Reading - 愚物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V20
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『愚物語』, supplied archive item 20 愚物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V20_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V20"
-japanese_title: "愚物語"
-archive_position: "Off Season archive spine V20"
-source_file: "20 愚物語.epub"
-source_drive_id: "1IiNYVFbyUwK7aTb4TnzmJxI9i-pH3I_F"
-source_sha256: "5095bceb87a6dd244695ba33aa52d27f0d6a61e2b77ad129c10c032ced47f64e"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V20_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V20
+japanese_title: 愚物語
+archive_position: Off Season archive spine V20
+source_file: 20 愚物語.epub
+source_drive_id: 1IiNYVFbyUwK7aTb4TnzmJxI9i-pH3I_F
+source_sha256: 5095bceb87a6dd244695ba33aa52d27f0d6a61e2b77ad129c10c032ced47f64e
 source_size_bytes: 1140229
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies an October 2015 Kodansha BOX print basis; electronic colophon identifies September 1, 2016 electronic issue. Later calibre/OPF wrapper metadata is retained as file history rather than substituted for those explicit notices."
-principal_story_units: "第一話 そだちフィアスコ / 第二話 するがボーンヘッド / 第三話 つきひアンドゥ; afterword retrospectively calls the collection 第零話そだちフィアスコ・第零話するがボーンヘッド・第零話つきひアンドゥ"
-narrators: "老倉育 / 神原駿河 / 斧乃木余接"
-internal_story_range: "Nonlinear post-Final-Season sampling: Oikura in November after leaving Naoetsu; Kanbaru on the first day of her final high-school summer vacation after Araragi has turned nineteen; Ononoki during the same broad post-graduation summer, nearly half a year after beginning Tsukihi surveillance in February. Exact calendar dates for the latter two stories are not supplied."
-spoiler_policy: "Publication-local V20 conclusions may use and revise V01-V19 because V20 is the current publication boundary. V21 『業物語』 and all later Off/Monster/Family Season material are excluded except as explicitly quarantined future questions. Oikura, Kanbaru, Ononoki, Tsukihi, Nadeko, Ougi, and Tooe are not retrospectively rewritten by later material."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies an October 2015 Kodansha BOX print basis; electronic colophon identifies September 1, 2016 electronic issue. Later calibre/OPF wrapper metadata is retained as file history rather than substituted for those explicit notices.
+principal_story_units: 第一話 そだちフィアスコ / 第二話 するがボーンヘッド / 第三話 つきひアンドゥ; afterword retrospectively calls the collection 第零話そだちフィアスコ・第零話するがボーンヘッド・第零話つきひアンドゥ
+narrators: 老倉育 / 神原駿河 / 斧乃木余接
+internal_story_range: 'Nonlinear post-Final-Season sampling: Oikura in November after leaving Naoetsu; Kanbaru on the first day of her final high-school summer vacation after Araragi has turned nineteen; Ononoki during the same broad post-graduation summer, nearly half a year after beginning Tsukihi surveillance in February. Exact calendar dates for the latter two stories are not supplied.'
+spoiler_policy: Publication-local V20 conclusions may use and revise V01-V19 because V20 is the current publication boundary. V21 『業物語』 and all later Off/Monster/Family Season material are excluded except as explicitly quarantined future questions. Oikura, Kanbaru, Ononoki, Tsukihi, Nadeko, Ougi, and Tooe are not retrospectively rewritten by later material.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 - Volume 20 Deep Reading

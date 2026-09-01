@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: specialist_completion_checkpoint
-scope: "Phase 4 Document 04 - agencies, Commission, rankings, media, research, and political economy"
+scope: Phase 4 Document 04 - agencies, Commission, rankings, media, research, and political economy
 generation: V2
 phase: 4
-specialist_number: 04
+specialist_number: 4
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 institutional and claim authorities; canonical Phase-3 Specialists 06-16; Phase-4 Documents 01-03; targeted and episode-specific audiovisual evidence where visibility or operational sequence matters"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 institutional and claim authorities; canonical Phase-3 Specialists 06-16; Phase-4 Documents 01-03; targeted and episode-specific audiovisual evidence where visibility or operational sequence matters
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

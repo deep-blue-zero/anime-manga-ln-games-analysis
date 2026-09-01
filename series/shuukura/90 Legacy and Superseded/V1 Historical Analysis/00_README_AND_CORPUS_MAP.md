@@ -4,9 +4,9 @@ artifact_type: corpus_map
 scope: TRANSCRIPT_SPLIT
 generation: V1
 status: historical_legacy
-source_boundary: "Full exported Shuukura analysis transcript through Turn 60"
-supersedes: null
-superseded_by: null
+source_boundary: Full exported Shuukura analysis transcript through Turn 60
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 ---
 

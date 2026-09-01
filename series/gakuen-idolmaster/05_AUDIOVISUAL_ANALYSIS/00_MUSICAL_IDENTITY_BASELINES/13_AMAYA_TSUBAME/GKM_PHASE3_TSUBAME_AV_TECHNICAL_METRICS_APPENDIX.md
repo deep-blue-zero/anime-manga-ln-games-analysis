@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_AMAYA_TSUBAME_PHASE3_AV_TECHNICAL
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Technical probe, hashes, source-envelope measurements, frame/contact-sheet inspection, and source-class audit for 14 canonical AV objects plus seven supplemental excerpts"
-supersedes: null
-superseded_by: null
+source_boundary: Technical probe, hashes, source-envelope measurements, frame/contact-sheet inspection, and source-class audit for 14 canonical AV objects plus seven supplemental excerpts
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-18"
-title: "GKM Phase 3 — Amaya Tsubame AV Technical Metrics Appendix"
+last_updated: '2026-08-18'
+title: GKM Phase 3 — Amaya Tsubame AV Technical Metrics Appendix
 ---
 
 # GKM PHASE 3 — AMAYA TSUBAME AV TECHNICAL METRICS APPENDIX

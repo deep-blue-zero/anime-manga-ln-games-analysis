@@ -1,18 +1,18 @@
 ---
-series: "MONOGATARI"
-artifact_type: "corpus_map"
-scope: "V2_THROUGH_FULL_SERIES_SYNTHESIS"
-generation: "V2"
-status: "canonical"
-source_boundary: "Locked Japanese numbered corpus V01-V30 fully audited/read; Hyakumonogatari SUP-C and Mijikanamonogatari SUP-A sources claim-admitted through C764; guidebook retained as controlled dual-witness source"
-supersedes: null
-superseded_by: null
+series: MONOGATARI
+artifact_type: corpus_map
+scope: V2_THROUGH_FULL_SERIES_SYNTHESIS
+generation: V2
+status: canonical
+source_boundary: Locked Japanese numbered corpus V01-V30 fully audited/read; Hyakumonogatari SUP-C and Mijikanamonogatari SUP-A sources claim-admitted through C764; guidebook retained as controlled dual-witness source
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.42"
-date: "2026-08-26"
-current_phase: "Phase 7 continuous full-series synthesis canonical; D22 evidence/index infrastructure authorized"
-current_deep_reading_boundary: "V30 + SUPP_HYAKUMONOGATARI + SUPP_MIJIKANAMONOGATARI"
-next_artifact: "22_ODDITY_CASE_INDEX.md"
+version: '1.42'
+date: '2026-08-26'
+current_phase: Phase 7 continuous full-series synthesis canonical; D22 evidence/index infrastructure authorized
+current_deep_reading_boundary: V30 + SUPP_HYAKUMONOGATARI + SUPP_MIJIKANAMONOGATARI
+next_artifact: 22_ODDITY_CASE_INDEX.md
 ---
 
 # 〈物語〉シリーズ V2 — Current State and Corpus Map

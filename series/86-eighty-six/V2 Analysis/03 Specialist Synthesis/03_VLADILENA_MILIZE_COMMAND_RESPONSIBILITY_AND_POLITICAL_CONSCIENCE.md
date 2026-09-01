@@ -1,29 +1,29 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "specialist_synthesis"
-document_id: "03"
-title: "Vladilena Milize: Command, Responsibility, and Political Conscience"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: specialist_synthesis
+document_id: '03'
+title: 'Vladilena Milize: Command, Responsibility, and Political Conscience'
+scope: V01-V14+ALTER1
 phase: 6
-generation: "V2"
-status: "canonical"
-date: "2026-08-16"
-source_boundary: "Original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-macro_architecture: "01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md"
-related_specialist: "02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md"
-chronological_evidence_spine: "15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-primary_longitudinal_ledgers: "L01_CHARACTER_DEVELOPMENT_LEDGER.md; L02_RELATIONSHIP_STATE_LEDGER.md; L03_INSTITUTIONS_CITIZENSHIP_AND_POLITICAL_CHANGE_LEDGER.md; L04_MILITARY_DOCTRINE_OPERATIONS_AND_IRREPLACEABILITY_LEDGER.md"
-primary_retrieval_dossiers: "T05; T08; T09; T10; T11; T12; T14"
-locator_authority: "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
-locator_correction_crosswalk: "86_PHASE5_LOCATOR_CORRECTION_LEDGER.tsv"
-counterevidence_lock: "86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv"
-open_question_lock: "86_PHASE5_OPEN_QUESTION_LOCK.tsv"
-ordinary_climactic_control: "V07-L044 ordinary social synchronization; V14-L176 maximum Para-RAID intervention"
-supersedes: null
-superseded_by: null
+generation: V2
+status: canonical
+date: '2026-08-16'
+source_boundary: Original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+macro_architecture: 01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md
+related_specialist: 02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md
+chronological_evidence_spine: 15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+primary_longitudinal_ledgers: L01_CHARACTER_DEVELOPMENT_LEDGER.md; L02_RELATIONSHIP_STATE_LEDGER.md; L03_INSTITUTIONS_CITIZENSHIP_AND_POLITICAL_CHANGE_LEDGER.md; L04_MILITARY_DOCTRINE_OPERATIONS_AND_IRREPLACEABILITY_LEDGER.md
+primary_retrieval_dossiers: T05; T08; T09; T10; T11; T12; T14
+locator_authority: 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
+locator_correction_crosswalk: 86_PHASE5_LOCATOR_CORRECTION_LEDGER.tsv
+counterevidence_lock: 86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv
+open_question_lock: 86_PHASE5_OPEN_QUESTION_LOCK.tsv
+ordinary_climactic_control: V07-L044 ordinary social synchronization; V14-L176 maximum Para-RAID intervention
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

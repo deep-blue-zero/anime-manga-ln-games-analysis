@@ -4,17 +4,17 @@ artifact_type: checkpoint
 scope: E01-E04
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; canonical V2 deep readings for E01-E04 only; no E05+ evidence admitted"
-supersedes: null
-superseded_by: null
+source_boundary: GBC-V2-SOURCE-LOCK-1.0; canonical V2 deep readings for E01-E04 only; no E05+ evidence admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 checkpoint_state: frozen
-checkpoint_role: "first-tranche prospective reconciliation and held-out model freeze"
+checkpoint_role: first-tranche prospective reconciliation and held-out model freeze
 source_documents:
-  - "GBC_E01_DEEP_READING.md (Drive ID 1qAEXObmckXNJHnX0KLl8y5AEI73fAKTJ)"
-  - "GBC_E02_DEEP_READING.md (Drive ID 1vh8z9XjGFi7KUBhTW9dU1dlxiur4ZI_7)"
-  - "GBC_E03_DEEP_READING.md (Drive ID 1vHs1gRFYO_E84MKSgATPYLa-yPyMJKKZ)"
-  - "GBC_E04_DEEP_READING.md (Drive ID 1acoeC9TdKhihEwWWVRGLBq8hNbfeDevU)"
+- GBC_E01_DEEP_READING.md (Drive ID 1qAEXObmckXNJHnX0KLl8y5AEI73fAKTJ)
+- GBC_E02_DEEP_READING.md (Drive ID 1vh8z9XjGFi7KUBhTW9dU1dlxiur4ZI_7)
+- GBC_E03_DEEP_READING.md (Drive ID 1vHs1gRFYO_E84MKSgATPYLa-yPyMJKKZ)
+- GBC_E04_DEEP_READING.md (Drive ID 1acoeC9TdKhihEwWWVRGLBq8hNbfeDevU)
 created: 2026-08-26
 updated: 2026-08-26
 next_operation: GBC_E05_DEEP_READING.md

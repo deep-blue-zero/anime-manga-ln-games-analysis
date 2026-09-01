@@ -3,12 +3,14 @@ series: TBHX
 artifact_type: claim_revision_ledger
 scope: E18-E23
 generation: V2
-status: canonical
-source_boundary: "Frozen E18-E22 states adjudicated against Episode 23; E24 preview excluded"
-supersedes: "TBHX_V2_E18-E22_CLAIM_REVISION_LEDGER.md"
-superseded_by: null
-do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — E18–E23 Claim Revision Ledger"
+status: superseded
+source_boundary: Frozen E18-E22 states adjudicated against Episode 23; E24 preview excluded
+supersedes:
+- series/to-be-hero-x/04 V2 Evidence and Revision/TBHX_V2_E18-E22_CLAIM_REVISION_LEDGER.md
+superseded_by:
+- series/to-be-hero-x/04 V2 Evidence and Revision/TBHX_V2_E18-E24_CLAIM_REVISION_LEDGER.md
+do_not_use_as_current_authority: true
+title: To Be Hero X V2 — E18–E23 Claim Revision Ledger
 ---
 
 # To Be Hero X V2 — E18–E23 Claim Revision Ledger

@@ -4,12 +4,12 @@ artifact_type: audit
 scope: ST_LOUIS_10213_CHARACTER_MONOGRAPH_PROMOTION
 generation: V1
 status: canonical
-source_boundary: "St. Louis constrained V1 closure over pinned multilingual corpus, R5-R7 specialist artifacts, and reconciled 71-utterance JP performed corpus"
+source_boundary: St. Louis constrained V1 closure over pinned multilingual corpus, R5-R7 specialist artifacts, and reconciled 71-utterance JP performed corpus
 target_artifact: AZUR_LANE_ST_LOUIS_CHARACTER_MONOGRAPH.md
 target_generation: V1
 promotion_target: canonical_constrained_v1
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -4,13 +4,13 @@ artifact_type: deep_reading
 scope: SIDE_STORIES
 generation: V1
 status: canonical
-source_boundary: "Japanese standalone side-stories collection; six stories originally distributed via Ichijin Plus May-December 2025"
-source_sha256: "ae2347cea7116917e00d9daea97b7b3809a8bdb68de91c0170bb16eec6a8330c"
+source_boundary: Japanese standalone side-stories collection; six stories originally distributed via Ichijin Plus May-December 2025
+source_sha256: ae2347cea7116917e00d9daea97b7b3809a8bdb68de91c0170bb16eec6a8330c
 evidence_class: supplemental
 prospective_boundary_before: V09
 prospective_numbered_audits_affected: false
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Reinhard von Lohengramm: Character, Philosophy, and Rule"
-subtitle: "Revolution, charisma, conquest, grief, and the problem of institutionalizing genius"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed second-tranche protagonist document"
+title: '銀河英雄伝説 — Reinhard von Lohengramm: Character, Philosophy, and Rule'
+subtitle: Revolution, charisma, conquest, grief, and the problem of institutionalizing genius
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed second-tranche protagonist document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G01; G03; G05-SILVER; G05-GOLDEN; G05-MORNING; G05-DISHONOR"
+primary_sources: M01–M10; G01; G03; G05-SILVER; G05-GOLDEN; G05-MORNING; G05-DISHONOR
 ---
 
 # 銀河英雄伝説

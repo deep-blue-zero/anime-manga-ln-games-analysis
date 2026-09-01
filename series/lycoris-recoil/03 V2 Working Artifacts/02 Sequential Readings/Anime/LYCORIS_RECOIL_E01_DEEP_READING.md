@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: E01
 generation: V2
 status: canonical
-source_boundary: "TV Episode 01 only; A1 originating audiovisual source; no later anime or supplementary narrative evidence admitted prospectively"
+source_boundary: TV Episode 01 only; A1 originating audiovisual source; no later anime or supplementary narrative evidence admitted prospectively
 source_class: A1_ORIGINATING_AUDIOVISUAL
 incoming_checkpoint: CP0_PRE_E01
 prospective_truth_horizon: E01
@@ -16,8 +16,8 @@ lossless_analysis_audio_drive_id: 1L0XlHpxFk5ayM2qMQwm1OAsRaYIBG1tA
 acoustic_performance_backfill: E01_PERFORMED_AUDIO_BACKFILL_COMPLETE
 corrected_japanese_ass_drive_id: 1713UyynSAhIv7CwGt8lX4UTgXgPzDIAj
 continuous_video_escalation: VIDEO_NOT_REQUIRED
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: V09
 generation: V1
 status: canonical
-source_boundary: "Japanese digital tankobon Volume 9; CH39-CH42; afterword/edition extras/colophon classified separately"
-source_sha256: "2ed64ead82890e4cf9cebf648d00856465abed67d86051af254d019f319dde44"
+source_boundary: Japanese digital tankobon Volume 9; CH39-CH42; afterword/edition extras/colophon classified separately
+source_sha256: 2ed64ead82890e4cf9cebf648d00856465abed67d86051af254d019f319dde44
 prospective_boundary_before: V08
 prospective_boundary_after: V09
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

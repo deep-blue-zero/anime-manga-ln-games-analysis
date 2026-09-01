@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "deep_reading"
-scope: "E10"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episode 10, Japanese subtitle/visual packet"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: deep_reading
+scope: E10
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episode 10, Japanese subtitle/visual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 20
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 I unpacked Episode 10. The archive contains **831 deduplicated episode frames**, **42 contact sheets**, **12 scene segments**, and **1,165 subtitle cues** total; once the OP/effect layers are separated out, the spoken-dialogue layer is about **349 cues**, plus the HY:RAIN insert song and ED lyrics.

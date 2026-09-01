@@ -4,10 +4,12 @@ artifact_type: analytical_method
 scope: V01-V42
 generation: V2
 status: canonical
-source_boundary: "Japanese manga tankobon Volumes 1-42"
-supersedes: MHA_SP2_ANALYTICAL_METHOD_V2.md
-superseded_by: null
+source_boundary: Japanese manga tankobon Volumes 1-42
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
+legacy_supersession_notes:
+- 'legacy supersedes: MHA_SP2_ANALYTICAL_METHOD_V2.md'
 ---
 
 # My Hero Academia — Second-Pass Deep Reading Method v2.1

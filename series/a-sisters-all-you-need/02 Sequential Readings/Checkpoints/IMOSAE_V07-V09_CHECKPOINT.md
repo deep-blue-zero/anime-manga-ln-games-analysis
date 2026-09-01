@@ -5,17 +5,17 @@ scope: V07-V09
 generation: V1
 status: canonical
 checkpoint_state: frozen
-source_boundary: "Japanese numbered light novels V07-V09, interpreted against frozen IMOSAE_V01-V03_CHECKPOINT.md and IMOSAE_V04-V06_CHECKPOINT.md; canonical normalized source IMOSAE-JP-LN-NORM-1.0; canonical visual index IMOSAE-VISUAL-INDEX-1.0; no V10-V14 semantic evidence"
-prospective_boundary: "V01-V09 only; new evidence in this checkpoint is V07-V09"
-claim_boundary: "IM-C001-IM-C036"
-evidence_boundary: "IM-V07-E001-E226; IM-V08-E001-E217; IM-V09-E001-E313"
+source_boundary: Japanese numbered light novels V07-V09, interpreted against frozen IMOSAE_V01-V03_CHECKPOINT.md and IMOSAE_V04-V06_CHECKPOINT.md; canonical normalized source IMOSAE-JP-LN-NORM-1.0; canonical visual index IMOSAE-VISUAL-INDEX-1.0; no V10-V14 semantic evidence
+prospective_boundary: V01-V09 only; new evidence in this checkpoint is V07-V09
+claim_boundary: IM-C001-IM-C036
+evidence_boundary: IM-V07-E001-E226; IM-V08-E001-E217; IM-V09-E001-E313
 previous_checkpoint: IMOSAE_V04-V06_CHECKPOINT.md
 future_semantic_evidence_used: false
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-19"
+version: '1.0'
+date: '2026-08-19'
 ---
 
 # IMOSAE V07-V09 Checkpoint

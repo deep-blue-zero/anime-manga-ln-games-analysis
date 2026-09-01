@@ -2,16 +2,18 @@
 series: GKM
 artifact_type: completion_report
 scope: CHARACTER_HIMESAKI_RINAMI_PHASE3_AV
-character: "Himesaki Rinami / 姫崎莉波"
+character: Himesaki Rinami / 姫崎莉波
 generation: V2
 release: R2
 status: canonical
-source_boundary: "27 logical AV objects / 19341.187 seconds / 3.098 GB decimal; complete Dear 001-037 at 720p or better"
-supersedes: "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1/GKM_PHASE3_RINAMI_AUDIOVISUAL_COMPLETION_REPORT.md"
-superseded_by: null
+source_boundary: 27 logical AV objects / 19341.187 seconds / 3.098 GB decimal; complete Dear 001-037 at 720p or better
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-22"
-title: "Himesaki Rinami Phase-3 Audiovisual Completion Report R2"
+last_updated: '2026-08-22'
+title: Himesaki Rinami Phase-3 Audiovisual Completion Report R2
+legacy_supersession_notes:
+- 'legacy supersedes: GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1/GKM_PHASE3_RINAMI_AUDIOVISUAL_COMPLETION_REPORT.md'
 ---
 
 # HIMESAKI RINAMI PHASE-3 AUDIOVISUAL COMPLETION REPORT R2

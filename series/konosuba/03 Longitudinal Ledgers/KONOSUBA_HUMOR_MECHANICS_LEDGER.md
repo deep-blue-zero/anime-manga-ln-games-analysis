@@ -5,7 +5,7 @@ scope: V01-V08
 ledger_role: humor_mechanics
 generation: V1
 status: active_provisional
-source_boundary: "Japanese main-series light novels through V08 main narrative"
+source_boundary: Japanese main-series light novels through V08 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

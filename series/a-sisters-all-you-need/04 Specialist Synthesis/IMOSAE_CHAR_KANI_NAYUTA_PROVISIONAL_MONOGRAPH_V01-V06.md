@@ -1,17 +1,17 @@
 ---
 series: IMOSAE
 artifact_type: character_monograph
-character: "可児那由多 / Kani Nayuta"
+character: 可児那由多 / Kani Nayuta
 scope: KANI_NAYUTA_V01-V06
 generation: V1
 status: active_provisional
-source_boundary: "Japanese light novel Volumes 01-06; IMOSAE-JP-LN-NORM-1.0; no V07-V14 semantic evidence"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novel Volumes 01-06; IMOSAE-JP-LN-NORM-1.0; no V07-V14 semantic evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 provisional_character_model: true
-primary_focus: "textual Japanese voice, speech pragmatics, beliefs, behavior, relationship-conditioned state changes"
-checkpoint_dependency: "V04-V06 sequential readings are canonical but IMOSAE_V04-V06_CHECKPOINT.md is not yet frozen; reconcile this monograph after that checkpoint and extend after later-volume reading"
+primary_focus: textual Japanese voice, speech pragmatics, beliefs, behavior, relationship-conditioned state changes
+checkpoint_dependency: V04-V06 sequential readings are canonical but IMOSAE_V04-V06_CHECKPOINT.md is not yet frozen; reconcile this monograph after that checkpoint and extend after later-volume reading
 ---
 
 # IMOSAE — Kani Nayuta Provisional Character Monograph, V01–V06

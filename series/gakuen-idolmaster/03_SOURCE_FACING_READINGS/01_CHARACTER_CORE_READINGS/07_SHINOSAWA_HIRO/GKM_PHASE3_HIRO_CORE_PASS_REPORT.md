@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: checkpoint
 scope: CHARACTER_SHINOSAWA_HIRO_PHASE3_CORE
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0; 207 Hiro-owned source objects / 5,653 messages; AV not inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0; 207 Hiro-owned source objects / 5,653 messages; AV not inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # GKM PHASE 3 — SHINOSAWA HIRO CORE PASS REPORT

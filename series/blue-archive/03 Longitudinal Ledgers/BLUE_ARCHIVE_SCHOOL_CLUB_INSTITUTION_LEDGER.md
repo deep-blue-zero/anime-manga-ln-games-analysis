@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: "MAIN_V001_C001 complete"
-source_boundary: "Sequential main-story reading through BA:main:001:001:020"
+checkpoint_boundary: MAIN_V001_C001 complete
+source_boundary: Sequential main-story reading through BA:main:001:001:020
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

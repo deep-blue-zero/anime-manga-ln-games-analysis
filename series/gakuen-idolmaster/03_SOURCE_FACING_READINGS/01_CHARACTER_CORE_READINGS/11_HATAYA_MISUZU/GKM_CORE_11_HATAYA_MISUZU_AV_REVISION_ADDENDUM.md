@@ -2,15 +2,14 @@
 series: GKM
 generation: V2
 status: canonical
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 artifact_type: claim_revision_ledger
 scope: CHARACTER_HATAYA_MISUZU_PHASE3_AV_ADDENDUM
-character: "Hataya Misuzu / 秦谷美鈴"
-source_boundary: "Revision of GKM_CORE_11_HATAYA_MISUZU.md after complete Phase-3 audiovisual inspection"
-supersedes: null
+character: Hataya Misuzu / 秦谷美鈴
+source_boundary: Revision of GKM_CORE_11_HATAYA_MISUZU.md after complete Phase-3 audiovisual inspection
 ---
 
 # GKM CORE 11 — HATAYA MISUZU AV REVISION ADDENDUM

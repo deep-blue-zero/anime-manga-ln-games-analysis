@@ -759,8 +759,8 @@ The Santa crowd proves it is also institutional and material.
 
 
 # 31. Evidence route
-- [Recognition and Observer Ledger](ledgers/AOBUTA_RECOGNITION_AND_OBSERVER_LEDGER_FINAL.md)
-- [Adolescence Syndrome Ledger](ledgers/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md)
+- Recognition and Observer Ledger _(referenced artifact is not present in Git)_
+- [Adolescence Syndrome Ledger](../03%20Longitudinal%20Analysis/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md)
 - [Claim Revision Ledger](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
 - [Volume Evidence Index](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
 - [Japanese Passage Index](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)

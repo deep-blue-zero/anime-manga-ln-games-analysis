@@ -2,21 +2,21 @@
 series: GKM
 artifact_type: deep_reading
 scope: CHARACTER_HIMESAKI_RINAMI_PHASE3_CORE
-character: "Himesaki Rinami / 姫崎莉波"
+character: Himesaki Rinami / 姫崎莉波
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Rinami complete character bundle (210 source objects / 6,057 messages), with V1 legacy analysis used only for claim-revision comparison; audiovisual evidence not yet inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Rinami complete character bundle (210 source objects / 6,057 messages), with V1 legacy analysis used only for claim-revision comparison; audiovisual evidence not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 continuity_tracks:
-  - P1[RINAMI]
-  - P2[RINAMI]
-  - P3-C[RINAMI]
-  - D-RINAMI
-  - M-RINAMI
-reasoning_route: "GPT-5.6 Sol — Extra High"
-last_updated: "2026-08-15"
+- P1[RINAMI]
+- P2[RINAMI]
+- P3-C[RINAMI]
+- D-RINAMI
+- M-RINAMI
+reasoning_route: GPT-5.6 Sol — Extra High
+last_updated: '2026-08-15'
 ---
 
 # GKM CORE 08 — HIMESAKI RINAMI / 姫崎莉波

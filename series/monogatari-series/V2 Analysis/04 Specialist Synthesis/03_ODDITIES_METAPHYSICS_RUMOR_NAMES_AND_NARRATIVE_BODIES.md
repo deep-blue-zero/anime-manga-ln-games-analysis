@@ -4,25 +4,25 @@ artifact_type: specialist_synthesis
 scope: ODDITIES_METAPHYSICS_RUMOR_NAMES_NARRATIVE_BODIES
 generation: V2
 status: canonical
-source_boundary: "Locked Japanese numbered corpus V01-V30 plus controlled supplementary admissions from 佰物語 (SUP-C) and 短物語 (SUP-A); 化物語 アニメコンプリートガイドブック retained only as GUIDE-001-005 dual textual witnesses"
+source_boundary: Locked Japanese numbered corpus V01-V30 plus controlled supplementary admissions from 佰物語 (SUP-C) and 短物語 (SUP-A); 化物語 アニメコンプリートガイドブック retained only as GUIDE-001-005 dual textual witnesses
 governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
 governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
 evidence_router: 21_VOLUME_AND_ARC_EVIDENCE_LEDGER.md
 primary_longitudinal_ledger: L03_ODDITY_CASE_RULE_AND_RESIDUE_LEDGER.md
 supporting_ledgers:
-  - L01_PUBLICATION_AND_STORY_CHRONOLOGY_LEDGER.md
-  - L02_NARRATOR_AND_FOCALIZATION_LEDGER.md
-  - L06_SPECIALIST_ETHICS_AND_KNOWLEDGE_LEDGER.md
-  - L07_BODY_APPETITE_AND_MATERIAL_RESIDUE_LEDGER.md
-  - L08_JAPANESE_NAMES_WORDPLAY_TERMS_AND_PASSAGE_INDEX.md
-  - L09_FIRST_PASS_V2_CLAIM_REVISION_LEDGER.md
+- L01_PUBLICATION_AND_STORY_CHRONOLOGY_LEDGER.md
+- L02_NARRATOR_AND_FOCALIZATION_LEDGER.md
+- L06_SPECIALIST_ETHICS_AND_KNOWLEDGE_LEDGER.md
+- L07_BODY_APPETITE_AND_MATERIAL_RESIDUE_LEDGER.md
+- L08_JAPANESE_NAMES_WORDPLAY_TERMS_AND_PASSAGE_INDEX.md
+- L09_FIRST_PASS_V2_CLAIM_REVISION_LEDGER.md
 epistemic_predecessor: 02_NARRATION_FOCALIZATION_SELF_STORY_AND_READER_MISRECOGNITION.md
 chronology_boundary: C764
-phase: "Phase 3 specialist synthesis"
-target_range: "11000-16000 words"
+phase: Phase 3 specialist synthesis
+target_range: 11000-16000 words
 next_artifact: 04_ARARAGI_KOYOMI_RESCUE_SELF_ERASURE_AND_ADULT_RESPONSIBILITY.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

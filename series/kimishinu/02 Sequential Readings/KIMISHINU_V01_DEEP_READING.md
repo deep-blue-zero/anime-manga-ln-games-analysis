@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: V01
 generation: V1
 status: canonical
-source_boundary: "Japanese digital tankobon Volume 1; MAINLINE narrative plus in-volume paratext inspection"
-source_sha256: "21b2e914341d33480ce4a6867b1a18db8cfd617b258ea13178355ac55b96df94"
+source_boundary: Japanese digital tankobon Volume 1; MAINLINE narrative plus in-volume paratext inspection
+source_sha256: 21b2e914341d33480ce4a6867b1a18db8cfd617b258ea13178355ac55b96df94
 prospective_boundary_before: PRE-V01
 prospective_boundary_after: V01
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -4,17 +4,18 @@ artifact_type: audiovisual_request_register
 scope: CHARACTER_04_ARIMURA_MAO
 generation: V2
 status: superseded
-source_boundary: "GAKUMAS V2 Source Lock 1.0 Mao textual corpus plus first-party Hatsuboshi label discography checked through 2026-08-17; acquisition register only, not integrated AV analysis"
-supersedes: null
-superseded_by: GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md
+source_boundary: GAKUMAS V2 Source Lock 1.0 Mao textual corpus plus first-party Hatsuboshi label discography checked through 2026-08-17; acquisition register only, not integrated AV analysis
+supersedes: []
+superseded_by:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md
 do_not_use_as_current_authority: true
 document_id: GKM_MAO_AUDIOVISUAL_BASELINE_AND_REQUESTS
 project: Gakuen Idolmaster V2 Full-Corpus Synthesis
-phase: "1A / 3 parallel"
+phase: 1A / 3 parallel
 character_code: amao
 av_status: integrated_complete_superseded_acquisition_provenance
-last_updated: "2026-08-17"
-revision_note: "Expanded from minimal Phase-3 request set to comprehensive Mao voice/performance baseline; all P0 dialogue/commu and performance acquisition is now staged, while P1/P2 breadth controls remain open and non-gating."
+last_updated: '2026-08-17'
+revision_note: Expanded from minimal Phase-3 request set to comprehensive Mao voice/performance baseline; all P0 dialogue/commu and performance acquisition is now staged, while P1/P2 breadth controls remain open and non-gating.
 ---
 
 > **ARCHIVAL AUTHORITY NOTICE:** Acquisition is complete. This register is retained for provenance, search terms, and future enrichment only. Do not use it as current Mao audiovisual authority. Read `GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md` first.

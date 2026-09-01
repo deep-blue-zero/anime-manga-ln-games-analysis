@@ -4,11 +4,11 @@ artifact_type: handoff
 scope: post_phase3_hiro_integrated_av
 generation: V2
 status: active_provisional
-source_boundary: "GAKUMAS V2 Source Lock 1.0 plus separately audited AV and Drive analytical corpus through 2026-08-17"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately audited AV and Drive analytical corpus through 2026-08-17
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-17"
+created: '2026-08-17'
 ---
 
 # GAKUEN IDOLMASTER V2 — HANDOFF AFTER SHINOSAWA HIRO INTEGRATED AV

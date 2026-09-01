@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "relationship_synthesis"
-scope: "LizNoir / Komiyama Ai + Akazaki Kokoro"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed synthesis/reconstruction"
+series: IDOLY_PRIDE
+artifact_type: relationship_synthesis
+scope: LizNoir / Komiyama Ai + Akazaki Kokoro
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md
 source_turn: 78
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed synthesis/reconstruction'
 ---
 
 Source base for this standalone synthesis includes the LizNoir origin/event materials, especially Ai’s “LizNoir失格” crisis, Kokoro’s bitter Valentine/guilt event, the summer, countdown, Hokkaido, Tokyo Seaside, TWINkle/kana, Stars Journey, and Sanrio/cuteness events; it also integrates the card/message/bond readings from the prior Ai and Kokoro passes. IMPORTANT\_003\_\_event\_2021\_003\_s… IMPORTANT\_008\_\_event\_2022\_002\_s… IMPORTANT\_011\_\_event\_2022\_008\_s… IMPORTANT\_016\_\_event\_2023\_001\_s… CORE\_007\_\_event\_2024\_011\_st-eve… CORE\_018\_\_event\_2025\_006\_st-eve… IMPORTANT\_027\_\_event\_2026\_005\_s…

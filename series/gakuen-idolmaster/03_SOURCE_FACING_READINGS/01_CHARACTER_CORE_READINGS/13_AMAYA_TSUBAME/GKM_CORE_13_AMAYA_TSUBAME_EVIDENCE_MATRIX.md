@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_AMAYA_TSUBAME_PHASE3_CORE
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — 173 unique Tsubame source objects / 4,407 dialogue messages; raw ADV spot-checks for Dear 002, 006, 010, 018, 019, 023, 024, 027"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — 173 unique Tsubame source objects / 4,407 dialogue messages; raw ADV spot-checks for Dear 002, 006, 010, 018, 019, 023, 024, 027
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # GKM CORE 13 — AMAYA TSUBAME EVIDENCE MATRIX

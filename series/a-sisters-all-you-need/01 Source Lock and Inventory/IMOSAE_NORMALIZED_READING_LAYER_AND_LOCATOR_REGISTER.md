@@ -4,16 +4,16 @@ artifact_type: normalized_reading_layer_register
 scope: V01-V14_main_series
 generation: V1
 status: canonical
-source_boundary: "IMOSAE-JP-LN-RAW-1.0 Japanese numbered light-novel EPUBs"
-supersedes: null
-superseded_by: null
+source_boundary: IMOSAE-JP-LN-RAW-1.0 Japanese numbered light-novel EPUBs
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.1"
-date: "2026-08-18"
-normalization_spec_id: "IMOSAE-NORM-SPEC-1.0"
-normalized_release_candidate: "IMOSAE-JP-LN-NORM-1.0-RC1"
-normalized_release: "IMOSAE-JP-LN-NORM-1.0"
-normalized_release_status: "canonical_frozen"
+version: '1.1'
+date: '2026-08-18'
+normalization_spec_id: IMOSAE-NORM-SPEC-1.0
+normalized_release_candidate: IMOSAE-JP-LN-NORM-1.0-RC1
+normalized_release: IMOSAE-JP-LN-NORM-1.0
+normalized_release_status: canonical_frozen
 ---
 
 # IMOSAE Normalized Reading Layer and Locator Register

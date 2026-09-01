@@ -5,23 +5,23 @@ artifact_role: DEEP_READING
 scope: S1E03
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S1E03 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S1E03 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 1
 episode: 3
 artifact_id: LLS_S1E03_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; local audiovisual/acoustic audit; character-model ledgers updated"
+analysis_mode: sealed sequential V2.2; local audiovisual/acoustic audit; character-model ledgers updated
 source_bundle: LLS_s01e03_screenshots.zip
 source_drive_id: 1JnR3TjTyx-fyTcip2ArVAKVgOuw85ks_
 source_sha256: f0cfbcf201be8e566676df5c99e6dc297aedec367e2676f1807f06270669b3a4
 source_bytes: 187403713
-source_language: "Japanese audio; corrected Japanese ASS; paired English comparison track"
-semantic_evidence_boundary: "S1E01-S1E03 only"
+source_language: Japanese audio; corrected Japanese ASS; paired English comparison track
+semantic_evidence_boundary: S1E01-S1E03 only
 future_semantic_evidence_used: false
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 retained_frames: 911
 contact_sheets_reviewed: 46
 japanese_ass_dialogue_events: 398
@@ -38,15 +38,15 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local waveform/acoustic measurement; no human-like direct audition"
-source_lifecycle: "Drive ZIP -> temporary local unpack -> V2.2 analysis -> Drive analytical distillation -> local source cleanup"
+auditory_perception_mode: local waveform/acoustic measurement; no human-like direct audition
+source_lifecycle: Drive ZIP -> temporary local unpack -> V2.2 analysis -> Drive analytical distillation -> local source cleanup
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
-local_cleanup_status: "completed; local ZIP/extraction/audio/frames/contact sheets/temporary acoustic derivatives removed after verified Drive readback"
-retained_local_derivatives: "none; durable analytical Markdown and exact source locators retained; source reacquired from canonical Drive ZIP when needed"
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+local_cleanup_status: completed; local ZIP/extraction/audio/frames/contact sheets/temporary acoustic derivatives removed after verified Drive readback
+retained_local_derivatives: none; durable analytical Markdown and exact source locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S1E04_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

@@ -4,11 +4,11 @@ artifact_type: specialist_synthesis
 scope: V07_AUDIO
 generation: V1
 status: historical_legacy
-source_boundary: "Volume 7 voice-drama supplement"
-supersedes: null
-superseded_by: null
+source_boundary: Volume 7 voice-drama supplement
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-provenance: "Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md"
+provenance: Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md
 ---
 
 # SHUUKURA V07 Voice-Drama Supplement Analysis

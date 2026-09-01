@@ -1,19 +1,19 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: audit
 scope: V22
 subtype: japanese_dialogue_and_register
 status: canonical
-source_boundary: "Japanese tankobon Volume 22 only; audit of frozen prospective V22 reading"
+source_boundary: Japanese tankobon Volume 22 only; audit of frozen prospective V22 reading
 generation: V2
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 22 [Japanese].cbz"
-source_drive_id: "1Ejck4iYTvScDqxHlLHWNn7y51zbb-fMx"
-source_sha256: "3b5c948e81a34f73b287c2f494407e1f1f55e64e0d8aeccabf6308e22c0eb3da"
+source_file: One Punch Man - Volume 22 [Japanese].cbz
+source_drive_id: 1Ejck4iYTvScDqxHlLHWNn7y51zbb-fMx
+source_sha256: 3b5c948e81a34f73b287c2f494407e1f1f55e64e0d8aeccabf6308e22c0eb3da
 source_images: 211
 created: 2026-08-26
 ---

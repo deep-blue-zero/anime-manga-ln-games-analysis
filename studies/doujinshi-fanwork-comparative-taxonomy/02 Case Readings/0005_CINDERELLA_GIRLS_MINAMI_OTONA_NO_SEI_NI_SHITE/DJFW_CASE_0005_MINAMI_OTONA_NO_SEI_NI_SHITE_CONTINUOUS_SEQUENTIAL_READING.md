@@ -7,11 +7,11 @@ generation: V1
 status: canonical
 analysis_mode: continuous_sequential
 run_scope: DJFW_CASE_0002-DJFW_CASE_0010
-source_boundary: "Full 42-page CBZ sequential visual review of telomereNA/Gustav, Otona no Sei ni Shite / It's all the adults' fault (C100, 2022), with selective OCR limited to non-graphic afterword/colophon material. Governing character comparator is the audited mobile-game Nitta Minami corpus; 2015 anime continuity is excluded. Explicit material is summarized only at structural level."
+source_boundary: Full 42-page CBZ sequential visual review of telomereNA/Gustav, Otona no Sei ni Shite / It's all the adults' fault (C100, 2022), with selective OCR limited to non-graphic afterword/colophon material. Governing character comparator is the audited mobile-game Nitta Minami corpus; 2015 anime continuity is excluded. Explicit material is summarized only at structural level.
 source_sha256: c089386b043a769875513e4ec158c675324f9ccb1ef0d273c573f3bc9337efb5
 source_pages: 42
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

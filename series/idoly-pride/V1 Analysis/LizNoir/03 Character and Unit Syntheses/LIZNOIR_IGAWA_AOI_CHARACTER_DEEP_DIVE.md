@@ -1,27 +1,29 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "character_monograph"
-scope: "LizNoir / Igawa Aoi"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed synthesis/reconstruction"
+series: IDOLY_PRIDE
+artifact_type: character_monograph
+scope: LizNoir / Igawa Aoi
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md
 source_turn: 50
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed synthesis/reconstruction'
 ---
 
-I’m grounding this Aoi synthesis in the LizNoir origin/Rio-Aoi dyad material, Aoi’s card/message/event layers, the 「let’s 湯けむり dancing！」 responsibility/freedom event, and the visual-design interpretation of her card art.[
+I’m grounding this Aoi synthesis in the LizNoir origin/Rio-Aoi dyad material, Aoi’s card/message/event layers, the 「let’s 湯けむり dancing！」 responsibility/freedom event, and the visual-design interpretation of her card art.
 
 Rio Aoi Relationship Analysis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3f3a21-0ee4-83ea-a94f-a2e161155107?messageId=808bc740-1b34-4ac0-814f-36444c6b7bbd&conversation_save=1)origin\_liz\_004\_love\_heart origin\_liz\_002\_one\_more\_dream CORE\_024\_\_event\_2025\_010\_st-eve… message\_message\_group\_aoi\_001\_m… card\_aoi\_009\_st-card-aoi-05-kai…[
+ _(historical external conversation reference unavailable in Git)_origin\_liz\_004\_love\_heart origin\_liz\_002\_one\_more\_dream CORE\_024\_\_event\_2025\_010\_st-eve… message\_message\_group\_aoi\_001\_m… card\_aoi\_009\_st-card-aoi-05-kai…
 
 Rio Aoi Relationship Analysis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3f3a21-0ee4-83ea-a94f-a2e161155107?messageId=808bc740-1b34-4ac0-814f-36444c6b7bbd&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Igawa Aoi: Personality, Voice, Characterization, Visual Design, and Comparative Reference
 

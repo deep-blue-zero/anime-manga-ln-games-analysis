@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: claim_revision_ledger
 scope: CHARACTER_HANAMI_UME_TEXTUAL_CORE_AV_REVISION
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 release: R1
 status: canonical
-source_boundary: "AV revision of GKM_CORE_10_HANAMI_UME.md based on the complete Phase-3 audiovisual packet"
-supersedes: null
-superseded_by: null
+source_boundary: AV revision of GKM_CORE_10_HANAMI_UME.md based on the complete Phase-3 audiovisual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-19"
-title: "GKM Core 10 — Hanami Ume AV Revision Addendum"
+last_updated: '2026-08-19'
+title: GKM Core 10 — Hanami Ume AV Revision Addendum
 ---
 
 # GKM CORE 10 — HANAMI UME AV REVISION ADDENDUM

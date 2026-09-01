@@ -1,15 +1,15 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: "Checkpoint A held-out validation through V26"
+scope: Checkpoint A held-out validation through V26
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon V01-V26; frozen Checkpoint A predictions unchanged"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon V01-V26; frozen Checkpoint A predictions unchanged
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-checkpoint_source: "OPM_V01-V06_CHECKPOINT.md / Drive ID 1N3kUv8_KksHwlMr5IeXJC8p6Nz8sTprP"
+checkpoint_source: OPM_V01-V06_CHECKPOINT.md / Drive ID 1N3kUv8_KksHwlMr5IeXJC8p6Nz8sTprP
 audited: 2026-08-28
 ---
 

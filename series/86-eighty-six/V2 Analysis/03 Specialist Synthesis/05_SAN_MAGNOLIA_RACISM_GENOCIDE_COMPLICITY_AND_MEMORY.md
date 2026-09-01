@@ -1,54 +1,54 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "specialist_synthesis"
-document_id: "05"
-title: "San Magnolia: Racism, Genocide, Complicity, and Memory"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: specialist_synthesis
+document_id: '05'
+title: 'San Magnolia: Racism, Genocide, Complicity, and Memory'
+scope: V01-V14+ALTER1
 phase: 6
-generation: "V2"
-method_version: "V2"
-status: "canonical"
-date: "2026-08-16"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-macro_orientation: "01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md"
+generation: V2
+method_version: V2
+status: canonical
+date: '2026-08-16'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+macro_orientation: 01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md
 related_specialist_documents:
-  - "03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md"
-  - "04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md"
-chronological_evidence_spine: "15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-locator_authority: "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
+- 03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md
+- 04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md
+chronological_evidence_spine: 15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+locator_authority: 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
 primary_retrieval_dossiers:
-  - "T08_REVENGE_NONFORGIVENESS_GUILT_RESPONSIBILITY_AND_REPAIR_RETRIEVAL.md"
-  - "T10_INSTITUTIONS_FREEDOM_PATERNALISM_CAPABILITY_AND_POLITICAL_REGRESSION_RETRIEVAL.md"
-  - "T11_RACE_OTHERING_DISPOSABILITY_AND_SECTOR_REPRODUCTION_RETRIEVAL.md"
-  - "T12_JAPANESE_VOICE_ADDRESS_TEMPORALITY_AND_KEY_TERMS_RETRIEVAL.md"
-  - "T14_CONTRADICTION_COUNTEREVIDENCE_AND_OPEN_QUESTION_RETRIEVAL.md"
+- T08_REVENGE_NONFORGIVENESS_GUILT_RESPONSIBILITY_AND_REPAIR_RETRIEVAL.md
+- T10_INSTITUTIONS_FREEDOM_PATERNALISM_CAPABILITY_AND_POLITICAL_REGRESSION_RETRIEVAL.md
+- T11_RACE_OTHERING_DISPOSABILITY_AND_SECTOR_REPRODUCTION_RETRIEVAL.md
+- T12_JAPANESE_VOICE_ADDRESS_TEMPORALITY_AND_KEY_TERMS_RETRIEVAL.md
+- T14_CONTRADICTION_COUNTEREVIDENCE_AND_OPEN_QUESTION_RETRIEVAL.md
 longitudinal_inputs:
-  - "L03_INSTITUTIONS_CITIZENSHIP_AND_POLITICAL_CHANGE_LEDGER.md"
-  - "L05_RACE_PERSONHOOD_AND_DEHUMANIZATION_LEDGER.md"
-  - "L07_DEATH_MEMORY_GRIEF_AND_INHERITANCE_LEDGER.md"
+- L03_INSTITUTIONS_CITIZENSHIP_AND_POLITICAL_CHANGE_LEDGER.md
+- L05_RACE_PERSONHOOD_AND_DEHUMANIZATION_LEDGER.md
+- L07_DEATH_MEMORY_GRIEF_AND_INHERITANCE_LEDGER.md
 adversarial_constraints:
-  - "T14-C22"
-  - "T14-C23"
-  - "T14-C24"
-  - "T14-C27"
-  - "T14-C28"
-  - "T14-C31"
-  - "T14-C32"
-  - "T14-C33"
-  - "T14-C35"
-  - "T14-C36"
-  - "T14-C40"
+- T14-C22
+- T14-C23
+- T14-C24
+- T14-C27
+- T14-C28
+- T14-C31
+- T14-C32
+- T14-C33
+- T14-C35
+- T14-C36
+- T14-C40
 open_questions_preserved:
-  - "T14-OQ-07"
-  - "T14-OQ-08"
-  - "T14-OQ-26"
-  - "T14-OQ-31"
-  - "T14-OQ-32"
-supersedes: null
-superseded_by: null
+- T14-OQ-07
+- T14-OQ-08
+- T14-OQ-26
+- T14-OQ-31
+- T14-OQ-32
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

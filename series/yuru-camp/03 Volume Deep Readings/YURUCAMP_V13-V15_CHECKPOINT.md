@@ -1,15 +1,15 @@
 ---
-title: "Yuru Camp△ Volumes 13–15 Adversarial Checkpoint"
-artifact_id: "YURUCAMP_V13-V15_CHECKPOINT"
+title: Yuru Camp△ Volumes 13–15 Adversarial Checkpoint
+artifact_id: YURUCAMP_V13-V15_CHECKPOINT
 series: YURUCAMP
-series_title: "Yuru Camp△ / ゆるキャン△"
+series_title: Yuru Camp△ / ゆるキャン△
 artifact_type: checkpoint
 scope: V13-V15
 generation: V1
 status: canonical
-source_boundary: "Japanese manga Volumes 1–15; checkpoint adjudication centered on Volumes 13–15"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga Volumes 1–15; checkpoint adjudication centered on Volumes 13–15
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: YURUCAMP_ANALYTICAL_METHOD_V1.md
 governing_architecture: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md
@@ -17,31 +17,31 @@ geography_amendment: YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md
 baseline_checkpoint: YURUCAMP_V10-V12_CHECKPOINT.md
 baseline_checkpoint_sha256: 23d08e05376206530ac39df4208cb3a3310a3255fb155ee012773d91bac9bd20
 primary_checkpoint_inputs:
-  - file: YURUCAMP_V13_DEEP_READING.md
-    generation: V1.2
-    sha256: b5e0be349a5599011d421c569679e6c235a1431118f98752d2b913494f4bcbd7
-  - file: YURUCAMP_V14_DEEP_READING.md
-    generation: V1
-    sha256: be5d63cec5480d87bf787a861870daaa8f01fb930235bef3b0e8d9d3e2bf8fb7
-  - file: YURUCAMP_V15_DEEP_READING.md
-    generation: V1
-    sha256: 9a28e7b8abdee7e7eca1b333252107efa89694ee90645ed99aa2c6bd85bf47d7
+- file: YURUCAMP_V13_DEEP_READING.md
+  generation: V1.2
+  sha256: b5e0be349a5599011d421c569679e6c235a1431118f98752d2b913494f4bcbd7
+- file: YURUCAMP_V14_DEEP_READING.md
+  generation: V1
+  sha256: be5d63cec5480d87bf787a861870daaa8f01fb930235bef3b0e8d9d3e2bf8fb7
+- file: YURUCAMP_V15_DEEP_READING.md
+  generation: V1
+  sha256: 9a28e7b8abdee7e7eca1b333252107efa89694ee90645ed99aa2c6bd85bf47d7
 primary_source_fingerprints:
   V13: 0cc621edc83ccf18ec6b0efa4bfbc2754de4613e6a4c0a6b2e6a2969b6a2e941
   V14: 935b42462214b1b599e1aa77a9b239f93a30dd5ae422c8db6f88e246bb4e1ce7
   V15: ca425887506860398242d09cc9eb21ddde3dec60fa9dd4db55bdc40dee9860cd
-checkpoint_method: "claim -> strongest evidence -> wrong-world test -> counterevidence -> cross-volume comparison -> revised confidence"
+checkpoint_method: claim -> strongest evidence -> wrong-world test -> counterevidence -> cross-volume comparison -> revised confidence
 revision_vocabulary:
-  - PRESERVE
-  - STRENGTHEN
-  - REVISE
-  - DOWNGRADE
-  - REJECT
-  - OPEN
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
 analysis_status: complete
 prospective_only: true
 retrospective_annotations: false
-created: "2026-08-26"
+created: '2026-08-26'
 next_sequential_artifact: YURUCAMP_V16_DEEP_READING.md
 ---
 

@@ -6,13 +6,13 @@ scope: E01-E24
 phase: 2
 generation: V2
 status: canonical
-source_boundary: "Frozen Mandarin-primary Season 1 E01-E24; all Phase-2 longitudinal ledgers stabilized; naming crosswalk first audit complete; targeted AV evidence through TBHX-AV-E11-001"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary Season 1 E01-E24; all Phase-2 longitudinal ledgers stabilized; naming crosswalk first audit complete; targeted AV evidence through TBHX-AV-E11-001
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-17
 next_phase: 3
-next_artifact: "06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md"
+next_artifact: 06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md
 ---
 
 # To Be Hero X V2 — Phase 2 Closure Checkpoint

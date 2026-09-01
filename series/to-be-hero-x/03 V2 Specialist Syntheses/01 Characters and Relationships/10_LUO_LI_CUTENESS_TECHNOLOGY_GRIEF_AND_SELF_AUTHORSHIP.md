@@ -2,76 +2,76 @@
 series: TBHX
 artifact_type: specialist_synthesis
 artifact_role: character_monograph
-scope: "Luo Li, Luo Tong, Wang Nuonuo, Queen as formative precedent, DJ Shindig, Glimmer Lab, FOMO, Original Nice, technology, appearance capture, grief, and self-authorship across S01E13-E16 and E19-E20"
+scope: Luo Li, Luo Tong, Wang Nuonuo, Queen as formative precedent, DJ Shindig, Glimmer Lab, FOMO, Original Nice, technology, appearance capture, grief, and self-authorship across S01E13-E16 and E19-E20
 generation: V2
 phase: 3
 specialist_number: 10
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; E20 full-motion audit including Luo Li/Original Nice and Luo Tong sacrifice/rage sequences"
-canonical_home: "03 V2 Specialist Syntheses/01 Characters and Relationships"
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; E20 full-motion audit including Luo Li/Original Nice and Luo Tong sacrifice/rage sequences
+canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
-  - P2-CR-CH07
-  - P2-CR-P13
-  - P2-CR-M10
-  - P2-CR-M11
-  - P2-CR-F08
+- P2-CR-CH07
+- P2-CR-P13
+- P2-CR-M10
+- P2-CR-M11
+- P2-CR-F08
 secondary_claim_keys:
-  - P2-CR-M03
-  - P2-CR-M05
-  - P2-CR-M08
-  - P2-CR-P01
-  - P2-CR-P02
-  - P2-CR-P03
-  - P2-CR-P05
-  - P2-CR-P08
-  - P2-CR-N03
-  - P2-CR-N06
-  - P2-CR-I01
-  - P2-CR-I02
-  - P2-CR-I03
-  - P2-CR-I04
-  - P2-CR-I08
-  - P2-CR-I09
-  - P2-CR-I10
-  - P2-CR-I14
-  - P2-CR-R01
-  - P2-CR-R02
-  - P2-CR-R03
-  - P2-CR-R04
-  - P2-CR-R05
-  - P2-CR-R06
-  - P2-CR-R07
-  - P2-CR-R15
-  - P2-CR-F03
-  - P2-CR-F04
-  - P2-CR-F05
-  - P2-CR-F06
-  - P2-CR-F10
-  - P2-CR-F11
-  - P2-CR-F16
+- P2-CR-M03
+- P2-CR-M05
+- P2-CR-M08
+- P2-CR-P01
+- P2-CR-P02
+- P2-CR-P03
+- P2-CR-P05
+- P2-CR-P08
+- P2-CR-N03
+- P2-CR-N06
+- P2-CR-I01
+- P2-CR-I02
+- P2-CR-I03
+- P2-CR-I04
+- P2-CR-I08
+- P2-CR-I09
+- P2-CR-I10
+- P2-CR-I14
+- P2-CR-R01
+- P2-CR-R02
+- P2-CR-R03
+- P2-CR-R04
+- P2-CR-R05
+- P2-CR-R06
+- P2-CR-R07
+- P2-CR-R15
+- P2-CR-F03
+- P2-CR-F04
+- P2-CR-F05
+- P2-CR-F06
+- P2-CR-F10
+- P2-CR-F11
+- P2-CR-F16
 governing_artifacts:
-  - CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
-  - TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
-  - HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
-  - CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
-  - PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
-  - INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
-  - CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
-  - VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
-  - TBHX_NAME_LOCALIZATION_CROSSWALK.md
-  - V1_TO_V2_REVISION_LEDGER.md
+- CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
+- TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
+- HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
+- CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
+- PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
+- INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
+- CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
+- VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
+- TBHX_NAME_LOCALIZATION_CROSSWALK.md
+- V1_TO_V2_REVISION_LEDGER.md
 primary_episode_artifacts:
-  - TBHX_V2_E13_DEEP_READING.md
-  - TBHX_V2_E14_DEEP_READING.md
-  - TBHX_V2_E15_DEEP_READING.md
-  - TBHX_V2_E16_DEEP_READING.md
-  - TBHX_V2_E19_DEEP_READING.md
-  - TBHX_V2_E20_DEEP_READING.md
-  - TBHX_V2_E20_VIDEO_EVIDENCE_AUDIT.md
+- TBHX_V2_E13_DEEP_READING.md
+- TBHX_V2_E14_DEEP_READING.md
+- TBHX_V2_E15_DEEP_READING.md
+- TBHX_V2_E16_DEEP_READING.md
+- TBHX_V2_E19_DEEP_READING.md
+- TBHX_V2_E20_DEEP_READING.md
+- TBHX_V2_E20_VIDEO_EVIDENCE_AUDIT.md
 supporting_specialists:
-  - 09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md
-supersedes: null
-superseded_by: null
+- 09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 last_updated: 2026-08-17

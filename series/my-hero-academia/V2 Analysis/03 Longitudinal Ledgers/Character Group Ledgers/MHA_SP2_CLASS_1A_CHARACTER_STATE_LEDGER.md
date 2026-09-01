@@ -4,9 +4,9 @@ artifact_type: ledger
 scope: CLASS_1A
 generation: V2
 status: canonical
-source_boundary: "Japanese manga V2 reread; currently through Volume 40"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga V2 reread; currently through Volume 40
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

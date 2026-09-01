@@ -1,13 +1,13 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: source_method_assessment
-scope: "S3E01_SCREENSHOT_BUNDLE_TEST"
+scope: S3E01_SCREENSHOT_BUNDLE_TEST
 generation: V1
 status: historical_legacy
-source_boundary: "S3E01 screenshot/subtitle/manifest/contact-sheet ZIP compared against raw-video workflow"
-supersedes: null
-superseded_by: null
+source_boundary: S3E01 screenshot/subtitle/manifest/contact-sheet ZIP compared against raw-video workflow
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 provenance_turn: 14
 extracted: 2026-08-22

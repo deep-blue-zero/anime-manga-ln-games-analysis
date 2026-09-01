@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: V03
 generation: V1
 status: active_provisional
-source_boundary: "Japanese main-series light novel Volume 03 main narrative; EPUB bonus treated separately as supplementary paratext pending chronology adjudication"
+source_boundary: Japanese main-series light novel Volume 03 main narrative; EPUB bonus treated separately as supplementary paratext pending chronology adjudication
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

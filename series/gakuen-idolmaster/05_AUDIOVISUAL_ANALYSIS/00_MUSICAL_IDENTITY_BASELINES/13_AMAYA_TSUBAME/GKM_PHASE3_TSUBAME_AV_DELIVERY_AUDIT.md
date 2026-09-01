@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_AMAYA_TSUBAME_PHASE3_AV_DELIVERY
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Artifact, manifest, package, and Drive-delivery verification"
-supersedes: null
-superseded_by: null
+source_boundary: Artifact, manifest, package, and Drive-delivery verification
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-18"
-title: "GKM Phase 3 — Amaya Tsubame AV Delivery Audit"
+last_updated: '2026-08-18'
+title: GKM Phase 3 — Amaya Tsubame AV Delivery Audit
 ---
 
 # GKM PHASE 3 — AMAYA TSUBAME AV DELIVERY AUDIT

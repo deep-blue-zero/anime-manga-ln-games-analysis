@@ -2,24 +2,24 @@
 series: GKM
 artifact_type: deep_reading
 scope: CHARACTER_JUO_SENA_PHASE3_CORE
-character: "Juo Sena / 十王星南"
+character: Juo Sena / 十王星南
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Sena complete character bundle (184 unique source objects / 4,515 dialogue messages), with eight high-load Dear scenes verified against A1 raw ADV scripts; legacy Gakumas analysis used only for claim-revision comparison; audiovisual evidence not yet inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Sena complete character bundle (184 unique source objects / 4,515 dialogue messages), with eight high-load Dear scenes verified against A1 raw ADV scripts; legacy Gakumas analysis used only for claim-revision comparison; audiovisual evidence not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 — Juo Sena Phase-3 Character Core Deep Reading"
-version: "2.0"
-phase: "3 — Character-Core Readings"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
+title: Gakuen Idolmaster V2 — Juo Sena Phase-3 Character Core Deep Reading
+version: '2.0'
+phase: 3 — Character-Core Readings
+source_lock: GAKUMAS V2 Source Lock 1.0
 continuity_tracks:
-  - P1[SENA]
-  - P2[SENA]
-  - D-SENA
-  - M-SENA
-reasoning_route: "GPT-5.6 Sol — Extra High"
-last_updated: "2026-08-16"
+- P1[SENA]
+- P2[SENA]
+- D-SENA
+- M-SENA
+reasoning_route: GPT-5.6 Sol — Extra High
+last_updated: '2026-08-16'
 ---
 
 # GKM CORE 12 — JUO SENA / 十王星南

@@ -2,17 +2,17 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_FUJITA_KOTONE_PHASE3_AV
-character: "Fujita Kotone / 藤田ことね"
+character: Fujita Kotone / 藤田ことね
 generation: V2
 status: canonical
-source_boundary: "25 directly materialized AV files, two staged remote/text-aligned files, exact Source Lock dialogue controls, and one reused Re;IRIS 3DMV"
-supersedes: null
-superseded_by: null
+source_boundary: 25 directly materialized AV files, two staged remote/text-aligned files, exact Source Lock dialogue controls, and one reused Re;IRIS 3DMV
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 — Fujita Kotone Audiovisual Evidence and Metrics Matrix"
-version: "2.0"
-phase: "3 — Character-Core Readings / Audiovisual Baseline"
-created: "2026-08-15"
+title: Gakuen Idolmaster V2 — Fujita Kotone Audiovisual Evidence and Metrics Matrix
+version: '2.0'
+phase: 3 — Character-Core Readings / Audiovisual Baseline
+created: '2026-08-15'
 ---
 
 # FUJITA KOTONE — AUDIOVISUAL EVIDENCE AND METRICS MATRIX

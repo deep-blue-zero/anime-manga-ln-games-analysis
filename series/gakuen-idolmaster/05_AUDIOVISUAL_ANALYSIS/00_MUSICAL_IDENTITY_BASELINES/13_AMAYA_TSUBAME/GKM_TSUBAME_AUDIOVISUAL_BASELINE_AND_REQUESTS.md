@@ -2,14 +2,15 @@
 series: GKM
 artifact_type: source_inventory
 scope: CHARACTER_AMAYA_TSUBAME_AUDIOVISUAL_BASELINE
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 status: superseded
-source_boundary: "Historical Phase-3 audiovisual acquisition register; source acquisition and integrated inspection are complete under GKM_TSUBAME_COMPLETE_AUDIOVISUAL_BASELINE.md"
-supersedes: null
-superseded_by: "GKM_TSUBAME_COMPLETE_AUDIOVISUAL_BASELINE.md"
+source_boundary: Historical Phase-3 audiovisual acquisition register; source acquisition and integrated inspection are complete under GKM_TSUBAME_COMPLETE_AUDIOVISUAL_BASELINE.md
+supersedes: []
+superseded_by:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/13_AMAYA_TSUBAME/GKM_TSUBAME_COMPLETE_AUDIOVISUAL_BASELINE.md
 do_not_use_as_current_authority: true
-last_updated: "2026-08-18 — superseded by complete integrated audiovisual baseline R1"
+last_updated: 2026-08-18 — superseded by complete integrated audiovisual baseline R1
 ---
 
 # GKM — AMAYA TSUBAME AUDIOVISUAL BASELINE AND REQUESTS

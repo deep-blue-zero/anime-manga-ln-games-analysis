@@ -2,13 +2,13 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: phase_closure_checkpoint
-scope: "Phase 4 — system, institution, and thematic syntheses"
+scope: Phase 4 — system, institution, and thematic syntheses
 generation: V2
 phase: 4
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; Phase-2 stabilized topical/claim authorities; canonical Phase-3 Specialists 06-16; canonical Phase-4 Documents 01-05"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; Phase-2 stabilized topical/claim authorities; canonical Phase-3 Specialists 06-16; canonical Phase-4 Documents 01-05
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: '2026-08-17'
 ---

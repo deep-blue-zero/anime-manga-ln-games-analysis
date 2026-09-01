@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_KURAMOTO_CHINA_MUSIC_MV_AND_PERFORMANCE
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Six complete song communications, eight rendered performances, and three authored official MVs from the Phase-3 China AV packet"
-supersedes: null
-superseded_by: null
+source_boundary: Six complete song communications, eight rendered performances, and three authored official MVs from the Phase-3 China AV packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-21"
-title: "Kuramoto China — Music, MV, and Performance Close Reading"
+last_updated: '2026-08-21'
+title: Kuramoto China — Music, MV, and Performance Close Reading
 ---
 
 # GKM — KURAMOTO CHINA MUSIC, MV, AND PERFORMANCE CLOSE READING

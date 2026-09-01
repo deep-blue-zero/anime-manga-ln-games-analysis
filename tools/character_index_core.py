@@ -524,7 +524,13 @@ def parse_authority_front_matter(data: bytes, path: str) -> AuthorityMetadata | 
     if not present:
         return None
     if present != AUTHORITY_KEYS:
-        raise DomainError(f"{path}: authority quartet is incomplete; present={sorted(present)}")
+        # Legacy documents frequently use a generic ``status`` field (and, in
+        # a few cases, other similarly named fields) for workflow state rather
+        # than repository authority.  A partial quartet is therefore not
+        # recognized machine-readable authority.  Failing closed here means
+        # the artifact remains legacy/non-current evidence unless and until a
+        # complete quartet is supplied; it is never promoted by inference.
+        return None
     status = loaded["status"]
     supersedes = loaded["supersedes"]
     superseded_by = loaded["superseded_by"]

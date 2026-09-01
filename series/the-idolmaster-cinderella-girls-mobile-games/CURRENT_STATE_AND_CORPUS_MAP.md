@@ -1,10 +1,10 @@
 ---
 series: CGMG
-series_title: "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)"
+series_title: THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)
 artifact_type: corpus_map
 generation: V1
 status: active_provisional
-source_boundary: "Mobage/social game + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE; 2015 television anime maintained as a separate analytical continuity/root."
+source_boundary: Mobage/social game + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE; 2015 television anime maintained as a separate analytical continuity/root.
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

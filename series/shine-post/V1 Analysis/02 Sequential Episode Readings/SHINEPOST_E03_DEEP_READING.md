@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "deep_reading"
-scope: "E03"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episode 3, Japanese subtitle/visual packet"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: deep_reading
+scope: E03
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episode 3, Japanese subtitle/visual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 6
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 I unpacked Episode 3 and worked through the subtitle/dialogue layer and contact sheets. This packet contains **818 screenshots**, **40 contact sheets**, and a subtitle file with heavy OP/ED karaoke/vector effects; after filtering those out, the useful spoken-dialogue layer is about **416 dialogue cues**. The episode title is effectively:

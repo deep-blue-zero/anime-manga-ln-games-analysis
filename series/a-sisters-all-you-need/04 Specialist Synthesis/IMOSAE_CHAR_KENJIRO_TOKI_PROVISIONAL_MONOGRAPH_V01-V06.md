@@ -1,19 +1,19 @@
 ---
 series: IMOSAE
 artifact_type: character_monograph
-character: "土岐健次郎 / Kenjiro Toki"
+character: 土岐健次郎 / Kenjiro Toki
 scope: V01-V06
 generation: V1
 status: active_provisional
-source_boundary: "Japanese light novel Volumes 01-06; IMOSAE-JP-LN-NORM-1.0; no V07-V14 semantic evidence"
-semantic_evidence_boundary: "V01-V06 only"
+source_boundary: Japanese light novel Volumes 01-06; IMOSAE-JP-LN-NORM-1.0; no V07-V14 semantic evidence
+semantic_evidence_boundary: V01-V06 only
 future_semantic_evidence_used: false
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 provisional_character_model: true
-primary_focus: "textual Japanese voice, editorial pragmatics, professional ethics, creator management, risk communication, institutional mediation, relationship-conditioned behavior"
-checkpoint_dependency: "V04-V06 sequential readings are canonical but IMOSAE_V04-V06_CHECKPOINT.md is not yet frozen; reconcile this monograph after that checkpoint and extend/revise after later-volume reading"
+primary_focus: textual Japanese voice, editorial pragmatics, professional ethics, creator management, risk communication, institutional mediation, relationship-conditioned behavior
+checkpoint_dependency: V04-V06 sequential readings are canonical but IMOSAE_V04-V06_CHECKPOINT.md is not yet frozen; reconcile this monograph after that checkpoint and extend/revise after later-volume reading
 ---
 
 # IMOSAE — Kenjiro Toki Provisional Character Monograph, V01–V06

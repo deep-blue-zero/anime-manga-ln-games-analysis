@@ -5,107 +5,107 @@ artifact_type: deep_reading
 scope: V32
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-26"
-source_boundary: "Japanese manga Volume 32, Chapters 127-130; spoiler boundary through Volume 32 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-26'
+source_boundary: Japanese manga Volume 32, Chapters 127-130; spoiler boundary through Volume 32 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "32"
-chapters: "127-130"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '32'
+chapters: 127-130
 chapter_titles:
-  - "第127話 終末の夜"
-  - "第128話 裏切り者"
-  - "第129話 懐古"
-  - "第130話 人類の夜明け"
+- 第127話 終末の夜
+- 第128話 裏切り者
+- 第129話 懐古
+- 第130話 人類の夜明け
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v32 (2020) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1sudyTG-LRIOkzeaMNe2_w9vynlfOlfR2"
-source_sha256: "9078b5e85e772994823eb3fdefd858908ae9795dd16b70e9490da2b5540e9845"
+source_file: Attack on Titan v32 (2020) (Digital SD) (KG Manga).cbz
+source_drive_id: 1sudyTG-LRIOkzeaMNe2_w9vynlfOlfR2
+source_sha256: 9078b5e85e772994823eb3fdefd858908ae9795dd16b70e9490da2b5540e9845
 source_size_bytes: 107966545
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 32 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 32 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_material_source: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
+prospective_material_source: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
 prospective_register_frozen_before_source_exposure: true
-previous_checkpoint: "AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md"
+previous_checkpoint: AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
 post_checkpoint_sequence_position: 5
-next_volume_boundary: "Volume 33 remains analytically locked until V32 integration is complete"
+next_volume_boundary: Volume 33 remains analytically locked until V32 integration is complete
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Jean Kirstein / ジャン・キルシュタイン"
-  - "Connie Springer / コニー・スプリンガー"
-  - "Annie Leonhart / アニ・レオンハート"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Falco Grice / ファルコ・グライス"
-  - "Hange Zoe / ハンジ・ゾエ"
-  - "Pieck Finger / ピーク・フィンガー"
-  - "Theo Magath / テオ・マガト"
-  - "Keith Shadis / キース・シャーディス"
-  - "Historia Reiss / ヒストリア・レイス"
-  - "Floch Forster / フロック・フォルスター"
-  - "Yelena / イェレナ"
-  - "Onyankopon / オニャンコポン"
+- Eren Jaeger / エレン・イェーガー
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Armin Arlert / アルミン・アルレルト
+- Jean Kirstein / ジャン・キルシュタイン
+- Connie Springer / コニー・スプリンガー
+- Annie Leonhart / アニ・レオンハート
+- Reiner Braun / ライナー・ブラウン
+- Gabi Braun / ガビ・ブラウン
+- Falco Grice / ファルコ・グライス
+- Hange Zoe / ハンジ・ゾエ
+- Pieck Finger / ピーク・フィンガー
+- Theo Magath / テオ・マガト
+- Keith Shadis / キース・シャーディス
+- Historia Reiss / ヒストリア・レイス
+- Floch Forster / フロック・フォルスター
+- Yelena / イェレナ
+- Onyankopon / オニャンコポン
 major_topics:
-  - betrayal and reciprocal loyalty
-  - complicity without purification
-  - dialogue before killing and the failure of dialogue
-  - anti-genocide action as local moral injury
-  - historical responsibility without inherited ethnic guilt
-  - child soldiers and retrospective adult responsibility
-  - ordinary future as anti-instrumentalization baseline
-  - particular love versus universal personhood
-  - Historia and reproductive sovereignty
-  - Mikasa attachment and Ackerman mythology
-  - Rumbling logistics and industrial military failure
-  - coalition as action before reconciliation
+- betrayal and reciprocal loyalty
+- complicity without purification
+- dialogue before killing and the failure of dialogue
+- anti-genocide action as local moral injury
+- historical responsibility without inherited ethnic guilt
+- child soldiers and retrospective adult responsibility
+- ordinary future as anti-instrumentalization baseline
+- particular love versus universal personhood
+- Historia and reproductive sovereignty
+- Mikasa attachment and Ackerman mythology
+- Rumbling logistics and industrial military failure
+- coalition as action before reconciliation
 major_visual_motifs:
-  - campfire meal as forced ethical proximity
-  - Marco's death replayed inside a shared meal
-  - Jean's imagined central-city family life
-  - former comrades pointing guns at one another over the flying boat
-  - Connie killing Samuel and Daz after shared-future memory
-  - Falco's first Jaw Titan transformation and loss of control
-  - Gabi shooting Floch during his terminal charge at the ship
-  - Magath and Shadis meeting in the ammunition room
-  - Warrior-candidate group photograph as Magath's ordinary-future counterfactual
-  - memories suspended in black around Eren's face
-  - Eren's friends eating together against his wish that they live long lives
-  - the world fleet dwarfed by the Rumbling
-  - Colossal Titans swimming beneath naval fire
-  - Eren's Founder body looming over the mainland
+- campfire meal as forced ethical proximity
+- Marco's death replayed inside a shared meal
+- Jean's imagined central-city family life
+- former comrades pointing guns at one another over the flying boat
+- Connie killing Samuel and Daz after shared-future memory
+- Falco's first Jaw Titan transformation and loss of control
+- Gabi shooting Floch during his terminal charge at the ship
+- Magath and Shadis meeting in the ammunition room
+- Warrior-candidate group photograph as Magath's ordinary-future counterfactual
+- memories suspended in black around Eren's face
+- Eren's friends eating together against his wish that they live long lives
+- the world fleet dwarfed by the Rumbling
+- Colossal Titans swimming beneath naval fire
+- Eren's Founder body looming over the mainland
 major_lexical_targets:
-  - 世界を救う
-  - 虐殺
-  - 裏切り者
-  - 仲間
-  - 話し合う
-  - 許す
-  - 正当化
-  - 責任
-  - 子供
-  - 普通に生きる
-  - 世界を滅ぼす
-  - 駆逐
-  - 生贄
-  - 胸を張って生きる
-  - 幸せに生きる
+- 世界を救う
+- 虐殺
+- 裏切り者
+- 仲間
+- 話し合う
+- 許す
+- 正当化
+- 責任
+- 子供
+- 普通に生きる
+- 世界を滅ぼす
+- 駆逐
+- 生贄
+- 胸を張って生きる
+- 幸せに生きる
 ---
 
 # 『進撃の巨人』Volume 32 Deep Reading

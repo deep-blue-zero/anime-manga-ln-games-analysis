@@ -4282,11 +4282,11 @@ After her quirk awakening, the usefulness becomes even more extreme. If she can 
 
 The heroic version of Toga’s quirk would require a very strict consent framework.
 
-She could not just take blood because she “loves” someone or wants to become them. That is exactly the wound in her character: her affection collapses boundaries, and the deep dive framed her central paradox as someone who wants love but expresses it in ways that violate the other person.[
+She could not just take blood because she “loves” someone or wants to become them. That is exactly the wound in her character: her affection collapses boundaries, and the deep dive framed her central paradox as someone who wants love but expresses it in ways that violate the other person.
 
 Toga love and normality
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a2dd41d-3f80-8331-99e2-a80d529abc4f?messageId=abb3556a-170c-4e6d-8f84-fcde28952800&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 A heroic Toga would need rules like:
 
@@ -4299,11 +4299,11 @@ A heroic Toga would need rules like:
 > psychological supervision
 > strong privacy protections
 
-In other words, the quirk is usable, but only if her society builds the structures she never received as a child. The Toga analysis already points to this missing humane answer: recognition, consent, boundaries, substitution, regulation, and nonviolent forms of intimacy.[
+In other words, the quirk is usable, but only if her society builds the structures she never received as a child. The Toga analysis already points to this missing humane answer: recognition, consent, boundaries, substitution, regulation, and nonviolent forms of intimacy.
 
 Toga love and normality
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a2dd41d-3f80-8331-99e2-a80d529abc4f?messageId=abb3556a-170c-4e6d-8f84-fcde28952800&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ## The practical problem is trust
 
@@ -4322,11 +4322,11 @@ For a heroic version of Toga to exist, she would need to separate:
 > I want to become you
 > I am allowed to take from you
 
-In canon, those are fused together. That fusion is what makes her dangerous. Her ending reverses the meaning of blood: instead of taking blood to consume or become someone, she gives blood to save Ochako, which is why her final movement reads as love shifting from consumption to sacrifice.[
+In canon, those are fused together. That fusion is what makes her dangerous. Her ending reverses the meaning of blood: instead of taking blood to consume or become someone, she gives blood to save Ochako, which is why her final movement reads as love shifting from consumption to sacrifice.
 
 Toga love and normality
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a2dd41d-3f80-8331-99e2-a80d529abc4f?messageId=abb3556a-170c-4e6d-8f84-fcde28952800&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 That implies the heroic potential was always there, but it required a form of emotional education she never got.
 
@@ -4454,11 +4454,11 @@ Ayanokōji is the perfect product/anti-product of that logic. Deku is chosen bec
 
 This is the richest political comparison.
 
-*Legend of the Galactic Heroes* is about legitimacy under institutional decay. It compares systems when they are no longer worthy of their ideals: a rotten aristocratic empire, a decaying democracy, a cynical commercial intermediary, and later Reinhard’s reforming autocracy. The analysis we built emphasized that LOGH is not “democracy good, dictatorship bad” or the reverse; it asks what happens when a decadent autocracy produces a reforming genius while democracy produces corruption, demagoguery, coups, and cowardly civilian leaders.[
+*Legend of the Galactic Heroes* is about legitimacy under institutional decay. It compares systems when they are no longer worthy of their ideals: a rotten aristocratic empire, a decaying democracy, a cynical commercial intermediary, and later Reinhard’s reforming autocracy. The analysis we built emphasized that LOGH is not “democracy good, dictatorship bad” or the reverse; it asks what happens when a decadent autocracy produces a reforming genius while democracy produces corruption, demagoguery, coups, and cowardly civilian leaders.
 
 Analysis of Legend of the Galac…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a317fdc-d548-8329-99de-6971a2c7b8d5?messageId=068e333d-aaa1-4535-971d-74736cf661f8&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Hero Society is not a full political system in the same way, but it has a similar legitimacy problem:
 
@@ -4468,19 +4468,19 @@ All Might resembles Reinhard and Yang in different ways.
 
 Like Reinhard, All Might is the extraordinary individual whose presence makes a failing order function better than it deserves. Like Yang, he is morally safer than the power structure around him because he genuinely wants ordinary people to live peacefully. But *MHA* eventually treats All Might’s singularity as a structural problem: society becomes too dependent on one body.
 
-LOGH’s core warning about Reinhard’s autocracy is that even a humane and effective system can become dangerously dependent on a genius founder. Reinhard reforms, promotes talent, governs better than the Goldenbaum aristocracy, and wins history — but his system depends on his charisma, will, health, and judgment.[
+LOGH’s core warning about Reinhard’s autocracy is that even a humane and effective system can become dangerously dependent on a genius founder. Reinhard reforms, promotes talent, governs better than the Goldenbaum aristocracy, and wins history — but his system depends on his charisma, will, health, and judgment.
 
 Analysis of Legend of the Galac…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a317fdc-d548-8329-99de-6971a2c7b8d5?messageId=068e333d-aaa1-4535-971d-74736cf661f8&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 That is very close to All Might’s problem.
 
-Yang’s philosophy gives the counterpoint. Yang’s defining principle is that being able to do something does not mean having the right to do it; his refusal to become a democratic dictator is what keeps him morally loyal to democracy even when democracy fails him.[
+Yang’s philosophy gives the counterpoint. Yang’s defining principle is that being able to do something does not mean having the right to do it; his refusal to become a democratic dictator is what keeps him morally loyal to democracy even when democracy fails him.
 
 Analysis of Legend of the Galac…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a317fdc-d548-8329-99de-6971a2c7b8d5?messageId=068e333d-aaa1-4535-971d-74736cf661f8&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 That exposes an interesting difference: *MHA* is less procedural than LOGH. Deku and All Might rarely ask, “Do I have legitimate authority to do this?” in Yang’s sense. They ask, “Can I save this person?” LOGH is about legitimacy; MHA is about rescue. That makes MHA emotionally powerful but politically softer.
 
@@ -4522,11 +4522,11 @@ It is **misrecognition**.
 
 Hero Society is bad at seeing people before they become cases, villains, symbols, rankings, or threats.
 
-Toga is the clearest example: the system has categories for “normal child,” “villain,” “victim,” and “criminal,” but not for a child whose quirk produces dangerous desire and needs ethical guidance before violence erupts. Our Toga analysis described this as one of the places where *MHA*’s framework strains: recognition is powerful, but real repair would require institutions, policies, material support, and long-term accountability.[
+Toga is the clearest example: the system has categories for “normal child,” “villain,” “victim,” and “criminal,” but not for a child whose quirk produces dangerous desire and needs ethical guidance before violence erupts. Our Toga analysis described this as one of the places where *MHA*’s framework strains: recognition is powerful, but real repair would require institutions, policies, material support, and long-term accountability.
 
 Toga love and normality
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a2dd41d-3f80-8331-99e2-a80d529abc4f?messageId=abb3556a-170c-4e6d-8f84-fcde28952800&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 The same applies to:
 
@@ -4654,11 +4654,11 @@ than as components of a larger social critique.
 
 After working through the manga and building the large synthesis, I see it more as:
 
-> A story about what happens when a society becomes extremely good at responding to crises but insufficiently good at recognizing suffering before it becomes crisis.[
+> A story about what happens when a society becomes extremely good at responding to crises but insufficiently good at recognizing suffering before it becomes crisis.
 >
 > Love live superstar thesis
 >
-> ](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3599cd-3924-8332-9633-6d4b4d87caf7?messageId=75ae842c-d44b-46e2-a1ac-d745ecdf299e&conversation_save=1)
+>  _(historical external conversation reference unavailable in Git)_
 
 That sounds subtle, but it changes everything.
 
@@ -4712,11 +4712,11 @@ I started seeing it as a hybrid institution:
 -   social sorting mechanism
 
 
-all operating simultaneously.[
+all operating simultaneously.
 
 Love live superstar thesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3599cd-3924-8332-9633-6d4b4d87caf7?messageId=75ae842c-d44b-46e2-a1ac-d745ecdf299e&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 The old "Hero Society is corrupt" discourse started looking simplistic.
 
@@ -4750,19 +4750,19 @@ The question she raises is not:
 
 It's:
 
-> What does a society do with a child whose natural impulses are frightening before anyone teaches her how to live with them?[
+> What does a society do with a child whose natural impulses are frightening before anyone teaches her how to live with them?
 >
 > Toga love and normality
 >
-> ](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a2dd41d-3f80-8331-99e2-a80d529abc4f?messageId=abb3556a-170c-4e6d-8f84-fcde28952800&conversation_save=1)
+>  _(historical external conversation reference unavailable in Git)_
 
 That is a much richer moral problem than "villain because trauma."
 
-The Ochako-Toga storyline gained enormously from having direct access to the material.[
+The Ochako-Toga storyline gained enormously from having direct access to the material.
 
 Toga love and normality
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a2dd41d-3f80-8331-99e2-a80d529abc4f?messageId=abb3556a-170c-4e6d-8f84-fcde28952800&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ---
 
@@ -4787,11 +4787,11 @@ He becomes accountable.
 
 The distinction matters.
 
-The series repeatedly refuses to make atonement equivalent to forgiveness.[
+The series repeatedly refuses to make atonement equivalent to forgiveness.
 
 Love live superstar thesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3599cd-3924-8332-9633-6d4b4d87caf7?messageId=75ae842c-d44b-46e2-a1ac-d745ecdf299e&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 That nuance is often lost in summaries.
 
@@ -4825,11 +4825,11 @@ Once you read the whole thing, the ending is much more obviously tied to:
 -   society helping its heroes instead of merely relying on them
 
 
-The suit matters because it is built collectively rather than inherited from a single mentor.[
+The suit matters because it is built collectively rather than inherited from a single mentor.
 
 Love live superstar thesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3599cd-3924-8332-9633-6d4b4d87caf7?messageId=75ae842c-d44b-46e2-a1ac-d745ecdf299e&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Whether someone likes the ending is still subjective.
 
@@ -4866,11 +4866,11 @@ to
 
 > "I understand what Horikoshi was trying to say with the story."
 
-And that's the difference between roughly **70% understanding** and **95% understanding**.[
+And that's the difference between roughly **70% understanding** and **95% understanding**.
 
 Love live superstar thesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3599cd-3924-8332-9633-6d4b4d87caf7?messageId=75ae842c-d44b-46e2-a1ac-d745ecdf299e&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ---
 
@@ -5130,11 +5130,11 @@ But after consuming the actual material, she's carrying a major thematic conflic
 -   what singing is for
 
 
-The meme version and the actual character are related but not equivalent.[
+The meme version and the actual character are related but not equivalent.
 
 Keke and Wien Contrasts
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3599cd-3924-8332-9633-6d4b4d87caf7?messageId=59471dd4-d46f-41ca-b620-6a7fd758fb22&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ---
 

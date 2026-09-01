@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "specialist_synthesis"
-scope: "Tsuki no Tempest / Tsuki no Hikari music/performance"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived analysis over uploaded IDOLY PRIDE sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated"
+series: IDOLY_PRIDE
+artifact_type: specialist_synthesis
+scope: Tsuki no Tempest / Tsuki no Hikari music/performance
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived analysis over uploaded IDOLY PRIDE sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - Tsuki no Tempest Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Tsuki no Tempest Analysis - Full Transcript(1).md
 source_turn: 92
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated'
 ---
 
 This materially sharpens Tsuki no Tempest for me. **月ノヒカリ** is not just “their cool moon song.” It is the point where their unit concept becomes fully mature: not passive moonlight, not sad moonlight, not Kotono-centered grief music, but **moonlight with force**.

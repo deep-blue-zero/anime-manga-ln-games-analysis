@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "relationship_synthesis"
-scope: "Tsuki no Tempest / Kotono Nagase + Nagisa Ibuki"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed synthesis/reconstruction"
+series: IDOLY_PRIDE
+artifact_type: relationship_synthesis
+scope: Tsuki no Tempest / Kotono Nagase + Nagisa Ibuki
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - Tsuki no Tempest Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Tsuki no Tempest Analysis - Full Transcript(1).md
 source_turn: 40
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed synthesis/reconstruction'
 ---
 
 Here’s a standalone reference document synthesizing the transcript and visual-analysis work for future comparative use.

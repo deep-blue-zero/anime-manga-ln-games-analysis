@@ -1,14 +1,14 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: corpus_map
-scope: "V2 manga analytical corpus"
+scope: V2 manga analytical corpus
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon V01-V34 contiguous plus isolated V37 present; V35-V36 absent; semantic per-volume source lock proceeds sequentially; official web folder empty"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon V01-V34 contiguous plus isolated V37 present; V35-V36 absent; semantic per-volume source lock proceeds sequentially; official web folder empty
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
 updated: 2026-08-28

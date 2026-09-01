@@ -1,12 +1,12 @@
 ---
-series: "OPM"
-artifact_type: "corpus_map"
-scope: "V1"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Recovered first-pass transcript and standalone document-block analysis through tankobon Volume 37"
-supersedes: null
-superseded_by: null
+series: OPM
+artifact_type: corpus_map
+scope: V1
+generation: V1
+status: historical_legacy
+source_boundary: Recovered first-pass transcript and standalone document-block analysis through tankobon Volume 37
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 ---
 # One Punch Man — V1 Historical Analysis Corpus Map

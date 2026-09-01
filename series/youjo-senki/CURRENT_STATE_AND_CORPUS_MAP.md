@@ -1,20 +1,20 @@
 ---
 series: YOUJO_SENKI
 artifact_type: corpus_map
-scope: "V01-V14 mature V2 synthesis + active Character Modeling and Reconstruction layer"
+scope: V01-V14 mature V2 synthesis + active Character Modeling and Reconstruction layer
 generation: V2_CMR
-version: "2.7"
+version: '2.7'
 status: active_provisional
-source_boundary: "Original Japanese light novels Volumes 01-14"
+source_boundary: Original Japanese light novels Volumes 01-14
 current_entrypoint: CURRENT_STATE_AND_CORPUS_MAP.md
-analysis_root: "17UvtZCM9QBQdFtqKjDsebZfQXsuB2idH"
-v2_analysis_root: "1q1xEv83Ld8KGENT_cZTN3OhAzjoFqzzs"
-primary_source_root: "1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g"
-cmr_root: "1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4"
+analysis_root: 17UvtZCM9QBQdFtqKjDsebZfQXsuB2idH
+v2_analysis_root: 1q1xEv83Ld8KGENT_cZTN3OhAzjoFqzzs
+primary_source_root: 1s8Ido1uUbAyR-lXstTyOVfoeHaUDop-g
+cmr_root: 1z-U_tluPeOwMuRIVzEbQOOxrI1cYlMK4
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-updated: "2026-08-23T20:45:00-04:00"
+updated: '2026-08-23T20:45:00-04:00'
 ---
 
 # YOUJO SENKI — CURRENT STATE AND CORPUS MAP

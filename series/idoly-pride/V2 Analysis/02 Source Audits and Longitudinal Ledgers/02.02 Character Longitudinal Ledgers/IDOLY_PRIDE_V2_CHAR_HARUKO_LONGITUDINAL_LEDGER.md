@@ -3,40 +3,40 @@ series: IDOLY_PRIDE
 artifact_type: longitudinal_ledger
 artifact_role: LEDGER
 scope: CHAR_HARUKO
-character: "Saeki Haruko"
+character: Saeki Haruko
 character_code: hrk
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-B1-HARUKO"
-unit: "SUNNY PEACE"
+phase: '2'
+tranche: P2-B1-HARUKO
+unit: SUNNY PEACE
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 longitudinal reconstruction of Saeki Haruko across the complete Phase-1-routed snapshot: anime E01-E12; Hoshimi game retelling/expansion; SUNNY PEACE origin; Tokyo, BIG4, and Stellar main-story arcs; admitted events and Haruko bond material; cards/messages/specials retained at their frozen Phase-1 routing status through IP-V2-SNAPSHOT-2026-08-13-A. Broad coverage inherits frozen Phase-1 routing; load-bearing claims are retested against reopened primary Japanese source or canonical source-native Phase-1 freezes. Missing formal live assets block only claim-specific audiovisual rhetoric, not textually established characterization."
+source_boundary: 'Phase-2 longitudinal reconstruction of Saeki Haruko across the complete Phase-1-routed snapshot: anime E01-E12; Hoshimi game retelling/expansion; SUNNY PEACE origin; Tokyo, BIG4, and Stellar main-story arcs; admitted events and Haruko bond material; cards/messages/specials retained at their frozen Phase-1 routing status through IP-V2-SNAPSHOT-2026-08-13-A. Broad coverage inherits frozen Phase-1 routing; load-bearing claims are retested against reopened primary Japanese source or canonical source-native Phase-1 freezes. Missing formal live assets block only claim-specific audiovisual rhetoric, not textually established characterization.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_MAKINO_PLAYER_BRANCH_CANON_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_REI_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_MAKINO_PLAYER_BRANCH_CANON_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_REI_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_B1_HARUKO_PASS
-created: "2026-08-18"
-updated: "2026-08-18"
-next_operation: "P2-B1 — IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-18'
+updated: '2026-08-18'
+next_operation: P2-B1 — IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — SAEKI HARUKO LONGITUDINAL LEDGER

@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "character_monograph"
-scope: "Tamaki Kyoka"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episodes 1-12 V1 analysis"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: character_monograph
+scope: Tamaki Kyoka
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episodes 1-12 V1 analysis
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 36
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 # Tamaki Kyoka deep dive: the girl who mistook correctness for a place to hide
@@ -29,11 +29,11 @@ Her core thesis is:
 
 > **Kyoka is a girl who wants to become special, but has spent her life translating desire into correctness because correctness feels safer than wanting.**
 
-The earlier full-series synthesis put it cleanly: Kyoka’s wound begins with diligence; she has lived by doing what parents, teachers, and adults told her was correct, but idolhood does not reward correctness by itself — idolhood demands visible desire.[
+The earlier full-series synthesis put it cleanly: Kyoka’s wound begins with diligence; she has lived by doing what parents, teachers, and adults told her was correct, but idolhood does not reward correctness by itself — idolhood demands visible desire.
 
 SHINE POST Truthful Performance
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=beac94a3-5f7a-4892-b133-b2f64cad1104&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Kyoka’s surface: the reliable one
 
@@ -123,11 +123,11 @@ To Kyoka, the failed center performance is shame. To Tokka, it is not simply fai
 
 This matters because Kyoka’s dream was never abstract fame. She wanted to become special to someone. Tokka shows that even her failed attempt reached someone.
 
-He is not a love interest, not a comic otaku gag, not just a convenient supporter. He is a witness. The series treats fans as witnesses rather than background noise, and Tokka is the purest example of that. The synthesis identifies him as the fan who remembers Kyoka’s unfinished center song and gives Kyoka back the self she abandoned.[
+He is not a love interest, not a comic otaku gag, not just a convenient supporter. He is a witness. The series treats fans as witnesses rather than background noise, and Tokka is the purest example of that. The synthesis identifies him as the fan who remembers Kyoka’s unfinished center song and gives Kyoka back the self she abandoned.
 
 SHINE POST Truthful Performance
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=beac94a3-5f7a-4892-b133-b2f64cad1104&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 That is crucial. Kyoka does not recover because Naoki flatters her. She recovers because the world contains evidence that the Kyoka who wanted to stand forward was real.
 

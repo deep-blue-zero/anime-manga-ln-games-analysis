@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: ACTIVE_PROJECT
 generation: V2
 status: canonical
-source_boundary: "Original Japanese manga V01-V36 present in canonical source root; V2 sequential reading boundary: V02 complete / V03 next"
+source_boundary: 'Original Japanese manga V01-V36 present in canonical source root; V2 sequential reading boundary: V02 complete / V03 next'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

@@ -5,33 +5,33 @@ scope: E20
 generation: V2
 status: canonical
 freeze_state: motion_audit_pending
-source_boundary: "Mandarin anime Episode 20 analytical bundle; S01E01-S01E20 broadcast knowledge; credits and post-credit scene included; sponsor interstitial and explicit E21 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 20 analytical bundle; S01E01-S01E20 broadcast knowledge; credits and post-credit scene included; sponsor interstitial and explicit E21 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 20 Deep Reading"
+title: To Be Hero X V2 — Episode 20 Deep Reading
 season: 1
 episode: 20
 phase: 1
-analysis_version: "2.0-provisional"
-source_bundle: "BHX_s01e20_screenshots.zip"
-source_bundle_sha256: "21ca6d7aee6d000bc9e195e58976e3b511738c365c871f53853d785f6c3792d6"
+analysis_version: 2.0-provisional
+source_bundle: BHX_s01e20_screenshots.zip
+source_bundle_sha256: 21ca6d7aee6d000bc9e195e58976e3b511738c365c871f53853d785f6c3792d6
 source_bundle_bytes: 271424216
 archive_member_count: 1330
 source_duration_seconds: 1641.002333
 audio_duration_seconds: 1640.085
-program_start_seconds: 47.000
-analysis_start_seconds: 46.750
+program_start_seconds: 47.0
+analysis_start_seconds: 46.75
 mandarin_cue_count_total: 191
 mandarin_cue_count_in_scope_before_exclusions: 181
 diegetic_mandarin_cue_count_after_exclusions: 177
-sponsor_interstitial_cue_range_excluded: "CN 101-104"
-sponsor_interstitial_visual_range_seconds: "635.880-643.620"
-preview_cue_range_excluded: "CN 182-191"
+sponsor_interstitial_cue_range_excluded: CN 101-104
+sponsor_interstitial_visual_range_seconds: 635.880-643.620
+preview_cue_range_excluded: CN 182-191
 preview_visual_start_seconds: 1487.458
-credits_start_seconds: 1285.250
-credits_end_seconds: 1465.870
-postcredit_range_seconds: "1465.870-1482.833"
+credits_start_seconds: 1285.25
+credits_end_seconds: 1465.87
+postcredit_range_seconds: 1465.870-1482.833
 mandarin_ocr_mean_confidence: 0.993177
 mandarin_ocr_median_confidence: 0.999047
 mandarin_ocr_min_confidence: 0.901062
@@ -45,16 +45,16 @@ kept_screenshot_count: 1251
 scene_segment_count: 24
 shot_change_count: 472
 shot_segment_count: 397
-spoiler_boundary: "S01E01-S01E20 plus previously admitted official chronology evidence; E21+ story evidence excluded"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed motion/audio audit pending for selected dense sequences"
-credits_status: "analytically in-scope story epilogue"
-visual_appendix: "TBHX_V2_E20_VISUAL_MICROSEQUENCE_LEDGER.md"
-credits_appendix: "TBHX_V2_E20_CREDITS_EPILOGUE_LEDGER.md"
-claim_transition_artifact: "TBHX_V2_E18-E20_CLAIM_REVISION_LEDGER.md"
-naming_authority: "TBHX_NAME_LOCALIZATION_CROSSWALK.md v1.1 through E19 plus E19 Nice chronology revision; E20 update pending final motion audit"
+spoiler_boundary: S01E01-S01E20 plus previously admitted official chronology evidence; E21+ story evidence excluded
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed motion/audio audit pending for selected dense sequences
+credits_status: analytically in-scope story epilogue
+visual_appendix: TBHX_V2_E20_VISUAL_MICROSEQUENCE_LEDGER.md
+credits_appendix: TBHX_V2_E20_CREDITS_EPILOGUE_LEDGER.md
+claim_transition_artifact: TBHX_V2_E18-E20_CLAIM_REVISION_LEDGER.md
+naming_authority: TBHX_NAME_LOCALIZATION_CROSSWALK.md v1.1 through E19 plus E19 Nice chronology revision; E20 update pending final motion audit
 ---
 
 # To Be Hero X V2 — Episode 20 Deep Reading

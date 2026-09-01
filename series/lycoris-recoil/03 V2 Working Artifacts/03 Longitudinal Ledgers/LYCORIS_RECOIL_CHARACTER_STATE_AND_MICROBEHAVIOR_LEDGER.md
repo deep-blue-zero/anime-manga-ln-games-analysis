@@ -1,12 +1,12 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: ledger
-scope: "V2 cumulative anime-native character state and microbehavior; later supplementary evidence added only with source-class provenance"
+scope: V2 cumulative anime-native character state and microbehavior; later supplementary evidence added only with source-class provenance
 generation: V2
 status: canonical
-source_boundary: "SHORT01; A1 anime-native evidence through TV E01-E13 + Friends Short 01 only"
-supersedes: null
-superseded_by: null
+source_boundary: SHORT01; A1 anime-native evidence through TV E01-E13 + Friends Short 01 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
 current_sequential_boundary: SHORT01

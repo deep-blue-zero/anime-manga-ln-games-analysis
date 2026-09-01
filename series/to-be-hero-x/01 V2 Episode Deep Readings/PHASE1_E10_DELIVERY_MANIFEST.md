@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: E10
 generation: V2
 status: canonical
-source_boundary: "Phase 1 checkpoint through S01E10"
-supersedes: null
-superseded_by: null
+source_boundary: Phase 1 checkpoint through S01E10
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

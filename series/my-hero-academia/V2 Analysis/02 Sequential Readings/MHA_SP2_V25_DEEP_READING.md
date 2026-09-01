@@ -6,9 +6,9 @@ scope: V25
 generation: V2
 method_generation: V2.1
 status: canonical
-source_boundary: "Japanese manga Volume 25"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga Volume 25
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -2,18 +2,18 @@
 series: GKM
 artifact_type: audiovisual_baseline
 scope: CHARACTER_FUJITA_KOTONE_PHASE3_AV
-character: "Fujita Kotone / 藤田ことね"
+character: Fujita Kotone / 藤田ことね
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 plus 26 staged Kotone AV objects and the reused Re;IRIS 3DMV; two staged files remain text/metadata-aligned because of connector transfer limits"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 plus 26 staged Kotone AV objects and the reused Re;IRIS 3DMV; two staged files remain text/metadata-aligned because of connector transfer limits
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 — Fujita Kotone Complete Audiovisual Baseline"
-version: "2.0"
-phase: "3 — Character-Core Readings / Audiovisual Baseline"
-source_lock: "00d150a069a3ffa723a1ff264752ba242024caad + Kotone AV registry 2026-08-15"
-created: "2026-08-15"
+title: Gakuen Idolmaster V2 — Fujita Kotone Complete Audiovisual Baseline
+version: '2.0'
+phase: 3 — Character-Core Readings / Audiovisual Baseline
+source_lock: 00d150a069a3ffa723a1ff264752ba242024caad + Kotone AV registry 2026-08-15
+created: '2026-08-15'
 ---
 
 # FUJITA KOTONE — COMPLETE AUDIOVISUAL BASELINE

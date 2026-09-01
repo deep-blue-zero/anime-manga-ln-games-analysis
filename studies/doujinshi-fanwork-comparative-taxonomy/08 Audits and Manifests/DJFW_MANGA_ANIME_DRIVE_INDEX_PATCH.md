@@ -5,8 +5,8 @@ scope: manga_anime_drive_index_update
 generation: V1
 status: active_provisional
 created: 2026-08-28
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

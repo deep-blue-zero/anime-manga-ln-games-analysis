@@ -1,5 +1,5 @@
 ---
-title: "Legend of the Galactic Heroes — pre-migration Drive mirror status"
+title: Legend of the Galactic Heroes — pre-migration Drive mirror status
 status: historical_legacy
 supersedes: []
 superseded_by: []

@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: V02
 generation: V2
 status: canonical
-source_boundary: "Original Japanese manga Volume 2; Chapters 6-14 primary; special recipe appendices supplementary; colophon/backmatter bibliographic"
+source_boundary: Original Japanese manga Volume 2; Chapters 6-14 primary; special recipe appendices supplementary; colophon/backmatter bibliographic
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

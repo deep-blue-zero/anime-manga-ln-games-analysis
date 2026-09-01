@@ -5,110 +5,110 @@ artifact_type: deep_reading
 scope: V22
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-24"
-source_boundary: "Japanese manga Volume 22, Chapters 87-90; spoiler boundary through Volume 22 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-24'
+source_boundary: Japanese manga Volume 22, Chapters 87-90; spoiler boundary through Volume 22 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "22"
-chapters: "87-90"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '22'
+chapters: 87-90
 chapter_titles:
-  - "第87話 境界線"
-  - "第88話 進撃の巨人"
-  - "第89話 会議"
-  - "第90話 壁の向こう側へ"
+- 第87話 境界線
+- 第88話 進撃の巨人
+- 第89話 会議
+- 第90話 壁の向こう側へ
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v22 (2017) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1os6HIjrjvrJVFIT5Vz8h4vqzuexhjj3o"
-source_sha256: "2c6f316ac64b628930d8313a0c78065fc8cc732d82e8047a08a5479538ac6488"
+source_file: Attack on Titan v22 (2017) (Digital SD) (KG Manga).cbz
+source_drive_id: 1os6HIjrjvrJVFIT5Vz8h4vqzuexhjj3o
+source_sha256: 2c6f316ac64b628930d8313a0c78065fc8cc732d82e8047a08a5479538ac6488
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 22 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 22 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_validation_register: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
-prospective_register_drive_id: "1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8"
+prospective_validation_register: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+prospective_register_drive_id: 1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8
 prospective_register_frozen_before_source_exposure: true
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Levi / リヴァイ"
-  - "Hange Zoë / ハンジ・ゾエ"
-  - "Historia Reiss / ヒストリア・レイス"
-  - "Floch Forster / フロック・フォルスター"
-  - "Ymir / ユミル"
-  - "Grisha Jaeger / グリシャ・イェーガー"
-  - "Eren Kruger / エレン・クルーガー"
-  - "Dina Fritz / ダイナ・フリッツ"
-  - "Zeke / ジーク"
+- Eren Jaeger / エレン・イェーガー
+- Armin Arlert / アルミン・アルレルト
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Levi / リヴァイ
+- Hange Zoë / ハンジ・ゾエ
+- Historia Reiss / ヒストリア・レイス
+- Floch Forster / フロック・フォルスター
+- Ymir / ユミル
+- Grisha Jaeger / グリシャ・イェーガー
+- Eren Kruger / エレン・クルーガー
+- Dina Fritz / ダイナ・フリッツ
+- Zeke / ジーク
 major_relationships:
-  - "Grisha / Zeke"
-  - "Kruger / Grisha"
-  - "Ymir / Historia"
-  - "Eren / Historia"
-  - "Eren / Armin"
-  - "Floch / Armin"
-  - "Floch / Eren"
-  - "Hange / political leadership / public"
+- Grisha / Zeke
+- Kruger / Grisha
+- Ymir / Historia
+- Eren / Historia
+- Eren / Armin
+- Floch / Armin
+- Floch / Eren
+- Hange / political leadership / public
 major_topics:
-  - moving boundaries
-  - freedom after the basement
-  - inherited memory and nonlinear causality
-  - propaganda and counter-history
-  - dehumanization and chosen cruelty
-  - political secrecy versus public truth
-  - selective secrecy and protection
-  - royal blood and Founding Titan hypothesis
-  - self-authorship and chosen debt
-  - survivor legitimacy and criticism
-  - sea as fulfilled dream and displaced prison
+- moving boundaries
+- freedom after the basement
+- inherited memory and nonlinear causality
+- propaganda and counter-history
+- dehumanization and chosen cruelty
+- political secrecy versus public truth
+- selective secrecy and protection
+- royal blood and Founding Titan hypothesis
+- self-authorship and chosen debt
+- survivor legitimacy and criticism
+- sea as fulfilled dream and displaced prison
 major_visual_motifs:
-  - Paradis wall as execution boundary
-  - bodies falling from the wall
-  - family photographs
-  - severed fingers and bodily cost
-  - horizon / sea behind Kruger and Grisha
-  - black memory-space transitions
-  - letter and hand contact
-  - council tables and newspaper distribution
-  - coronation / medal hand contact
-  - Titan execution infrastructure
-  - crawling Titan as former compatriot
-  - seashell and ocean horizon
+- Paradis wall as execution boundary
+- bodies falling from the wall
+- family photographs
+- severed fingers and bodily cost
+- horizon / sea behind Kruger and Grisha
+- black memory-space transitions
+- letter and hand contact
+- council tables and newspaper distribution
+- coronation / medal hand contact
+- Titan execution infrastructure
+- crawling Titan as former compatriot
+- seashell and ocean horizon
 major_lexical_targets:
-  - 境界線
-  - 自由
-  - 真実
-  - 道
-  - 座標
-  - 始祖の巨人
-  - 不戦の契り
-  - 進撃の巨人
-  - 愛せ
-  - 同じ歴史
-  - 同じ過ち
-  - 悪魔
-  - 私情
-  - 海
+- 境界線
+- 自由
+- 真実
+- 道
+- 座標
+- 始祖の巨人
+- 不戦の契り
+- 進撃の巨人
+- 愛せ
+- 同じ歴史
+- 同じ過ち
+- 悪魔
+- 私情
+- 海
 cumulative_status:
-  - strengthened
-  - revised
-  - prospectively_tested
-  - opened_world_model
-  - open
+- strengthened
+- revised
+- prospectively_tested
+- opened_world_model
+- open
 ---
 
 # 『進撃の巨人』Volume 22 Deep Reading

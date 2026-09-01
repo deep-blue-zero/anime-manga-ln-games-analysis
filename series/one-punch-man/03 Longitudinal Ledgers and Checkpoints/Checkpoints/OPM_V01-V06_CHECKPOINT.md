@@ -4,12 +4,12 @@ artifact_type: checkpoint
 scope: V01-V06
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon V01-V06"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon V01-V06
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-checkpoint_type: "Checkpoint A — early premise / institutional entry / Boros-era foundation"
+checkpoint_type: Checkpoint A — early premise / institutional entry / Boros-era foundation
 ---
 
 # One Punch Man — V01–V06 Checkpoint

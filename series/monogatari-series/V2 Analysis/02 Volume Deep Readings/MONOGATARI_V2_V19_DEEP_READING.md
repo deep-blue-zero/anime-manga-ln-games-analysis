@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V19 Deep Reading - 続・終物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V19"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『続・終物語』, supplied archive item 19 続 終物語.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V19 Deep Reading - 続・終物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V19
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『続・終物語』, supplied archive item 19 続 終物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V19_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V19"
-japanese_title: "続・終物語"
-archive_position: "Final Season archive spine V19"
-source_file: "19 続 終物語.epub"
-source_drive_id: "1VQmXomMPMgAiM8U3x10ufUIsnM7MwGM0"
-source_sha256: "9752a62b9509f104e172afb12a6575658f5a75113d80853fc31d42f4ea301eab"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V19_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V19
+japanese_title: 続・終物語
+archive_position: Final Season archive spine V19
+source_file: 19 続 終物語.epub
+source_drive_id: 1VQmXomMPMgAiM8U3x10ufUIsnM7MwGM0
+source_sha256: 9752a62b9509f104e172afb12a6575658f5a75113d80853fc31d42f4ea301eab
 source_size_bytes: 622729
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese transcription and represented September 17, 2014 first-print boundary; later calibre packaging and null/default OPF date are file-history metadata, not authenticated publisher electronic-edition evidence"
-principal_story_unit: "最終話 こよみリバース"
-narrator: "Primarily 阿良々木暦 after graduation; substantial embedded explanation from 斧乃木余接, 臥煙遠江, 忍野扇, and character manifestations including 八九寺真宵, 千石撫子/クチナワ, 老倉育, ブラック羽川, human-era Acerola/Shinobu, and others"
-internal_story_range: "March 16 through approximately March 18, beginning the morning after high-school graduation; includes retrospective references to prior arcs, lost/unrealized character possibilities, and post-resolution university-results transition"
-spoiler_policy: "Publication-local V19 conclusions may revise V01-V18 where V19 itself supplies evidence. V20 and later Off Season material are excluded from current-authority claims except as explicitly quarantined future test questions. Mirror/remainder manifestations are not treated as hidden authentic selves, alternate-timeline facts, or rewritten history unless V19 explicitly establishes such status."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese transcription and represented September 17, 2014 first-print boundary; later calibre packaging and null/default OPF date are file-history metadata, not authenticated publisher electronic-edition evidence
+principal_story_unit: 最終話 こよみリバース
+narrator: Primarily 阿良々木暦 after graduation; substantial embedded explanation from 斧乃木余接, 臥煙遠江, 忍野扇, and character manifestations including 八九寺真宵, 千石撫子/クチナワ, 老倉育, ブラック羽川, human-era Acerola/Shinobu, and others
+internal_story_range: March 16 through approximately March 18, beginning the morning after high-school graduation; includes retrospective references to prior arcs, lost/unrealized character possibilities, and post-resolution university-results transition
+spoiler_policy: Publication-local V19 conclusions may revise V01-V18 where V19 itself supplies evidence. V20 and later Off Season material are excluded from current-authority claims except as explicitly quarantined future test questions. Mirror/remainder manifestations are not treated as hidden authentic selves, alternate-timeline facts, or rewritten history unless V19 explicitly establishes such status.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 - Volume 19 Deep Reading

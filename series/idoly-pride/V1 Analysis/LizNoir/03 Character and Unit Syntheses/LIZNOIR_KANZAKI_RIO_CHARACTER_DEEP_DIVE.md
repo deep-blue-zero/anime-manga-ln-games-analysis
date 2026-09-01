@@ -1,27 +1,29 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "character_monograph"
-scope: "LizNoir / Kanzaki Rio"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed synthesis/reconstruction"
+series: IDOLY_PRIDE
+artifact_type: character_monograph
+scope: LizNoir / Kanzaki Rio
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md
 source_turn: 48
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed synthesis/reconstruction'
 ---
 
-Source anchors for this synthesis include the Rio/Aoi dyad document, the Rio Halloween/pride card, LizNoir group-message material, and the broader IDOLY PRIDE/LizNoir setup.[
+Source anchors for this synthesis include the Rio/Aoi dyad document, the Rio Halloween/pride card, LizNoir group-message material, and the broader IDOLY PRIDE/LizNoir setup.
 
 Rio Aoi Relationship Analysis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3f3a21-0ee4-83ea-a94f-a2e161155107?messageId=808bc740-1b34-4ac0-814f-36444c6b7bbd&conversation_save=1)card\_rio\_008\_st-card-rio-05-hal… message\_message\_group\_ladder-22…[
+ _(historical external conversation reference unavailable in Git)_card\_rio\_008\_st-card-rio-05-hal… message\_message\_group\_ladder-22…
 
 IDOLY PRIDE analysis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3af787-7330-832c-b855-146debae162f?messageId=c88ec1ac-04c0-45f8-ac7a-2f3f8378f802&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Kanzaki Rio: Personality, Voice, Characterization, Visual Design, and Comparative Reference
 

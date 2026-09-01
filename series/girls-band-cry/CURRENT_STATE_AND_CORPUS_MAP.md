@@ -4,13 +4,13 @@ artifact_type: corpus_map
 scope: project_current_state
 analysis_generation: V2
 status: canonical
-source_boundary: "Girls Band Cry TV anime E01-E13 under GBC-V2-SOURCE-LOCK-1.0; Phase 0 closed; Phase 1 active with E01-E11 canonical and three checkpoints frozen/canonical; CP3 E12-E13 prospective register frozen; E12 sequentially unlocked; seven longitudinal ledgers due for E11-current materialization"
-supersedes: null
-superseded_by: null
+source_boundary: Girls Band Cry TV anime E01-E13 under GBC-V2-SOURCE-LOCK-1.0; Phase 0 closed; Phase 1 active with E01-E11 canonical and three checkpoints frozen/canonical; CP3 E12-E13 prospective register frozen; E12 sequentially unlocked; seven longitudinal ledgers due for E11-current materialization
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 updated: 2026-08-27
-phase: "Phase 1 active - E01-E11 canonical plus checkpoints 1-3 frozen / CP3 frozen / ledger materialization next infrastructure priority / E12 unlocked"
+phase: Phase 1 active - E01-E11 canonical plus checkpoints 1-3 frozen / CP3 frozen / ledger materialization next infrastructure priority / E12 unlocked
 ---
 
 # Girls Band Cry - Current State and Corpus Map

@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "deep_reading"
-scope: "E06"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episode 6, Japanese subtitle/visual packet"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: deep_reading
+scope: E06
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episode 6, Japanese subtitle/visual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 12
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 I unpacked Episode 6. The bundle contains **837 extracted episode frames**, **42 contact sheets**, **20 scene segments**, and about **385 non-vector subtitle/dialogue cues** after removing the OP/ED visual-effect subtitle noise. The official title is:

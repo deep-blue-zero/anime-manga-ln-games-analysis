@@ -5,29 +5,29 @@ scope: E21
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 21 analytical bundle; S01E01-S01E21 broadcast knowledge; sponsor interstitial and explicit E22 preview excluded; no E22+ story evidence used"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 21 analytical bundle; S01E01-S01E21 broadcast knowledge; sponsor interstitial and explicit E22 preview excluded; no E22+ story evidence used
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 21 Deep Reading"
+title: To Be Hero X V2 — Episode 21 Deep Reading
 season: 1
 episode: 21
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e21_screenshots.zip"
-source_bundle_sha256: "80a2aa3af025ef70841fd37627adb17ebc6476f1a62b23d63d46c9b5e958a94f"
+analysis_version: '2.0'
+source_bundle: BHX_s01e21_screenshots.zip
+source_bundle_sha256: 80a2aa3af025ef70841fd37627adb17ebc6476f1a62b23d63d46c9b5e958a94f
 source_bundle_bytes: 257690475
 archive_member_count: 1041
 source_duration_seconds: 1639.210333
 audio_duration_seconds: 1638.891
-program_start_seconds: 46.750
-analysis_start_seconds: 46.500
+program_start_seconds: 46.75
+analysis_start_seconds: 46.5
 mandarin_cue_count_total: 309
 diegetic_mandarin_cue_count_after_exclusions: 291
-sponsor_interstitial_cue_range_excluded: "CN 176-179"
-sponsor_interstitial_visual_range_seconds_approx: "822.620-830.630"
-preview_cue_range_excluded: "CN 296-309"
-preview_visual_start_seconds: 1485.750
+sponsor_interstitial_cue_range_excluded: CN 176-179
+sponsor_interstitial_visual_range_seconds_approx: 822.620-830.630
+preview_cue_range_excluded: CN 296-309
+preview_visual_start_seconds: 1485.75
 story_proper_end_seconds: 1396.667
 mandarin_ocr_mean_confidence: 0.992312
 mandarin_ocr_median_confidence: 0.998617
@@ -43,15 +43,15 @@ metadata_contact_sheet_count: 48
 scene_segment_count: 18
 shot_change_count: 469
 shot_segment_count: 406
-spoiler_boundary: "S01E01-S01E21; E22+ excluded"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present"
-credits_status: "non-diegetic ending animation/credits; no new E21 story claims admitted from the credits"
-visual_appendix: "TBHX_V2_E21_VISUAL_MICROSEQUENCE_LEDGER.md"
-claim_transition_artifact: "TBHX_V2_E18-E21_CLAIM_REVISION_LEDGER.md"
-naming_authority: "TBHX_NAME_LOCALIZATION_CROSSWALK.md v1.4 through E21"
+spoiler_boundary: S01E01-S01E21; E22+ excluded
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present
+credits_status: non-diegetic ending animation/credits; no new E21 story claims admitted from the credits
+visual_appendix: TBHX_V2_E21_VISUAL_MICROSEQUENCE_LEDGER.md
+claim_transition_artifact: TBHX_V2_E18-E21_CLAIM_REVISION_LEDGER.md
+naming_authority: TBHX_NAME_LOCALIZATION_CROSSWALK.md v1.4 through E21
 ---
 
 # To Be Hero X V2 — Episode 21 Deep Reading

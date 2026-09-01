@@ -1,5 +1,5 @@
 ---
-title: "To Be Hero X V2 — Chinese Language, Voice, and Naming Ledger"
+title: To Be Hero X V2 — Chinese Language, Voice, and Naming Ledger
 series: TBHX
 artifact_type: ledger
 artifact_role: chinese_language_voice_and_naming_ledger
@@ -8,13 +8,13 @@ generation: V2
 phase: 2
 tranche: 03A
 status: canonical
-source_boundary: "Mandarin hardsub reconstruction and visible Chinese text through E24; aligned Japanese captions as secondary witness; official multilingual naming sources used only for crosswalk reconciliation"
-primary_language: "Mandarin Chinese"
-audio_status: "Complete synchronized Mandarin audio exists in the episode bundles; T03A stabilizes lexical/register evidence but does not claim a fresh full-season acoustic audition"
-crosswalk_file: "TBHX_NAME_LOCALIZATION_CROSSWALK.md"
-naming_policy_revision: "2026-08-16_phase2_t03a_first_systematic_audit"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin hardsub reconstruction and visible Chinese text through E24; aligned Japanese captions as secondary witness; official multilingual naming sources used only for crosswalk reconciliation
+primary_language: Mandarin Chinese
+audio_status: Complete synchronized Mandarin audio exists in the episode bundles; T03A stabilizes lexical/register evidence but does not claim a fresh full-season acoustic audition
+crosswalk_file: TBHX_NAME_LOCALIZATION_CROSSWALK.md
+naming_policy_revision: 2026-08-16_phase2_t03a_first_systematic_audit
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: 2026-08-16
 ---

@@ -4,9 +4,9 @@ artifact_type: corpus_map
 scope: E01-E13
 generation: V1
 status: historical_legacy
-source_boundary: "Manga and anime discussions - Girls Band Cry Analysis - Full Transcript(2).md"
-supersedes: null
-superseded_by: null
+source_boundary: Manga and anime discussions - Girls Band Cry Analysis - Full Transcript(2).md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 ---
 

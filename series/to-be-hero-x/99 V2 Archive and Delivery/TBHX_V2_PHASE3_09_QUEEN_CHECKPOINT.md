@@ -2,17 +2,17 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: phase_checkpoint
-scope: "Phase 3 Specialist 09 — Liu Yuwei / Queen"
+scope: Phase 3 Specialist 09 — Liu Yuwei / Queen
 generation: V2
 phase: 3
 specialist_number: 9
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 ledgers and 145-key claim register; E20 motion evidence; targeted AV evidence through TBHX-AV-E11-001"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 ledgers and 145-key claim register; E20 motion evidence; targeted AV evidence through TBHX-AV-E11-001
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-17
-next_artifact: "10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md"
+next_artifact: 10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md
 ---
 
 # To Be Hero X V2 — Phase 3 Specialist 09 Queen Checkpoint

@@ -4,11 +4,11 @@ artifact_type: manifest
 scope: E07
 generation: V2
 status: canonical
-source_boundary: "S01E01-S01E07"
-supersedes: null
-superseded_by: null
+source_boundary: S01E01-S01E07
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 07 Delivery Manifest"
+title: To Be Hero X V2 — Episode 07 Delivery Manifest
 phase: 1
 episode: 7
 ---

@@ -1,22 +1,22 @@
 ---
-title: "Solo Leveling — Sung Jinwoo Character Deep Dive"
-subtitle: "The weakest weapon, the sovereign, and the person who survives the quest"
-project: "Solo Leveling Definitive Novel–Manhwa Synthesis"
-document_id: "SL_SYNTH_02"
-version: "1.0"
+title: Solo Leveling — Sung Jinwoo Character Deep Dive
+subtitle: The weakest weapon, the sovereign, and the person who survives the quest
+project: Solo Leveling Definitive Novel–Manhwa Synthesis
+document_id: SL_SYNTH_02
+version: '1.0'
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
-  - "Chugong's complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2"
-  - "Official English manhwa Volumes 1–15"
-governing_method: "../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md"
-paired_architecture: "../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md"
-evidence_spine: "../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-chronological_spine: "01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md"
-spoilers: "complete series"
-source_inventory_date: "2026-08-12"
+- 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
+- Official English manhwa Volumes 1–15
+governing_method: ../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md
+paired_architecture: ../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md
+evidence_spine: ../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+chronological_spine: 01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md
+spoilers: complete series
+source_inventory_date: '2026-08-12'
 ---
 
 # 02 — Sung Jinwoo Character Deep Dive

@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: V04
 generation: V1
 status: canonical
-source_boundary: "Japanese digital tankobon Volume 4; CH15-CH19, in-volume drawn bonus ゆめ, and explicitly classified paratext"
-source_sha256: "a91fcf1c5d8e2ead200d77c9ae599318b0e4fa435e63af10fdcc50591628bca8"
+source_boundary: Japanese digital tankobon Volume 4; CH15-CH19, in-volume drawn bonus ゆめ, and explicitly classified paratext
+source_sha256: a91fcf1c5d8e2ead200d77c9ae599318b0e4fa435e63af10fdcc50591628bca8
 prospective_boundary_before: V03
 prospective_boundary_after: V04
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

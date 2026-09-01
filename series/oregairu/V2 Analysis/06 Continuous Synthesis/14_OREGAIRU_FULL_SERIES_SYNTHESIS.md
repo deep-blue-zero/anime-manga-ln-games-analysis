@@ -7,15 +7,15 @@ status: canonical
 lifecycle: active_pre_release
 phase: 8
 canonical_name: 14_OREGAIRU_FULL_SERIES_SYNTHESIS.md
-source_boundary: "Japanese-primary Oregairu mainline Volumes 1-14 plus canonical .5 volumes, the chronology-routed Watari-authored Volume-6.5 Christmas drama/prose coda, and the qualified Watari-authored anthology stories admitted by Document 12; Shin, Ketsu, adaptation-only evidence, and guest-author anthology stories do not govern mainline conclusions"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-primary Oregairu mainline Volumes 1-14 plus canonical .5 volumes, the chronology-routed Watari-authored Volume-6.5 Christmas drama/prose coda, and the qualified Watari-authored anthology stories admitted by Document 12; Shin, Ketsu, adaptation-only evidence, and guest-author anthology stories do not govern mainline conclusions
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: OREGAIRU_V2_ANALYTICAL_METHOD.md
 governing_architecture: OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
 publication_bridge: 13_EVIDENCE_LOCATOR_AND_FIRST_PASS_REVISION_LEDGER.md
 adversarial_control: OREGAIRU_V2_PHASE6_ADVERSARIAL_JAPANESE_SOURCE_AUDIT.md
-created: "2026-08-19"
+created: '2026-08-19'
 next_artifact: 00_README_AND_CORPUS_MAP.md
 ---
 

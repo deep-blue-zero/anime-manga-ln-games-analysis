@@ -3,34 +3,35 @@ series: IDOLY_PRIDE
 artifact_type: longitudinal_ledger
 artifact_role: LEDGER
 scope: CHAR_KANA
-character: "kana"
+character: kana
 character_code: kan
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-B5-KANA"
-unit: "IIIX"
+phase: '2'
+tranche: P2-B5-KANA
+unit: IIIX
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 longitudinal reconstruction of kana across the complete Phase-1-routed frozen snapshot. The character occurrence frontier contains 6,374 kana utterances across 64 unique routed bundles. Load-bearing reconstruction reopens all four IIIX origins under the corrected chronology, Tokyo/BIG4/Stellar main-story inheritance, admitted IIIX event tranches, bond_kan_001_kan, both mandatory C1-A kana cards card_kan_007_st-card-kan-05-fest-02 and card_kan_014_st-card-kan-05-snro-00, and selected message/card/event evidence for childhood family separation, grandfather exploitation, visibility as attachment search, public/private register, industry-adult literacy, selective kinship access, paternal contact without family reconstitution, U.S. father encounter, vocational meaning after failed original purpose, audience reciprocity, Kokoro conflict/care, and defensive public self-narration. Lower-tier ordinary-life texture remains available for contradiction checks and later Phase 8.5 modeling; bond temporal placement remains unfixed unless independently anchored."
+source_boundary: Phase-2 longitudinal reconstruction of kana across the complete Phase-1-routed frozen snapshot. The character occurrence frontier contains 6,374 kana utterances across 64 unique routed bundles. Load-bearing reconstruction reopens all four IIIX origins under the corrected chronology, Tokyo/BIG4/Stellar main-story inheritance, admitted IIIX event tranches, bond_kan_001_kan, both mandatory C1-A kana cards card_kan_007_st-card-kan-05-fest-02 and card_kan_014_st-card-kan-05-snro-00, and selected message/card/event evidence for childhood family separation, grandfather exploitation, visibility as attachment search, public/private register, industry-adult literacy, selective kinship access, paternal contact without family reconstitution, U.S. father encounter, vocational meaning after failed original purpose, audience reciprocity, Kokoro conflict/care, and defensive public self-narration. Lower-tier ordinary-life texture remains available for contradiction checks and later Phase
+  8.5 modeling; bond temporal placement remains unfixed unless independently anchored.
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_B5_KANA_PASS
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-C — relationship longitudinal ledgers; begin with Kotono / Nagisa per frozen queue"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-C — relationship longitudinal ledgers; begin with Kotono / Nagisa per frozen queue
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — KANA LONGITUDINAL LEDGER

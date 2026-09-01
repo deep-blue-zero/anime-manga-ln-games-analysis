@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: "Sequential main-story reading through BA:main:001:001:020"
-checkpoint_boundary: "MAIN_V001_C001 complete"
-current_sequential_boundary: "MAIN_V001_C001 complete through canonical Chapter 1 checkpoint; Chapter 2 E001 next"
+source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V001_C001 complete
+current_sequential_boundary: MAIN_V001_C001 complete through canonical Chapter 1 checkpoint; Chapter 2 E001 next
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

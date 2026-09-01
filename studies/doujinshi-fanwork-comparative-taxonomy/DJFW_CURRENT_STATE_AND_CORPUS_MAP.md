@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: ongoing_comparative_corpus
 generation: V1
 status: active_provisional
-source_boundary: "Cross-franchise doujinshi, hentai manga, all-ages fanworks, fanbooks, and related fan-created works analyzed at a high level for character voice, transformation pressure, subjecthood, canon relation, and cultural taxonomy."
+source_boundary: Cross-franchise doujinshi, hentai manga, all-ages fanworks, fanbooks, and related fan-created works analyzed at a high level for character voice, transformation pressure, subjecthood, canon relation, and cultural taxonomy.
 analysis_root_id: 1j-SJWChEvVtkU9bRqszoocYzXVZxPkjB
 source_root_id: 1sr196MHP1yqxMOHQoLZSjnLmAnGc46DL
 control_sheet_id: 1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg

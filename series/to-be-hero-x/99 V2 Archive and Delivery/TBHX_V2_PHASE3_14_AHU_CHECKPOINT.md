@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: specialist_completion_checkpoint
-scope: "Phase 3 Specialist 14 — A-Hu"
+scope: Phase 3 Specialist 14 — A-Hu
 generation: V2
 phase: 3
 specialist_number: 14
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; Specialist 14 grounded primarily in E23-E24, their visual/motion evidence, and stabilized Phase-2 authorities"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; Specialist 14 grounded primarily in E23-E24, their visual/motion evidence, and stabilized Phase-2 authorities
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

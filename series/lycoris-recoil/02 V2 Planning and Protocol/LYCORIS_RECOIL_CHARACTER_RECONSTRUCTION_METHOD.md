@@ -1,12 +1,12 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: analytical_method
-scope: "V2 character behavioral reconstruction, state modeling, validation, and simulation constraints"
+scope: V2 character behavioral reconstruction, state modeling, validation, and simulation constraints
 generation: V2
 status: canonical
-source_boundary: "Anime-native reconstruction first; later integrated reconstruction follows multi-source promotion rules"
-supersedes: null
-superseded_by: null
+source_boundary: Anime-native reconstruction first; later integrated reconstruction follows multi-source promotion rules
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 architecture: LYCORIS_RECOIL_V2_SYNTHESIS_ARCHITECTURE.md
 governing_method: LYCORIS_RECOIL_V2_ANALYTICAL_METHOD.md

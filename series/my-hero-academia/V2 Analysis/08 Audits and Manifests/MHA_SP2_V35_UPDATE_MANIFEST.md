@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: V35
 generation: V2
 status: canonical
-source_boundary: "Japanese manga Volume 35 through V35:p187"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga Volume 35 through V35:p187
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

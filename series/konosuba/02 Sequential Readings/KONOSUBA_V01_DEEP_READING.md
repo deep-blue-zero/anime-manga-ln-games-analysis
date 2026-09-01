@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: V01
 generation: V1
 status: active_provisional
-source_boundary: "Japanese main-series light novel Volume 1: この素晴らしい世界に祝福を！ あぁ、駄女神さま; main narrative only for sequential model state"
+source_boundary: 'Japanese main-series light novel Volume 1: この素晴らしい世界に祝福を！ あぁ、駄女神さま; main narrative only for sequential model state'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

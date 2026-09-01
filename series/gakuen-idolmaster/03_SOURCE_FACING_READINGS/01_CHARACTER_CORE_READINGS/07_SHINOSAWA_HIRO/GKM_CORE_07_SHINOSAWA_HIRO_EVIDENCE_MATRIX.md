@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_SHINOSAWA_HIRO_PHASE3_CORE
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0; textual evidence only; AV pending"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0; textual evidence only; AV pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # GKM CORE 07 — SHINOSAWA HIRO EVIDENCE / FALSIFICATION MATRIX

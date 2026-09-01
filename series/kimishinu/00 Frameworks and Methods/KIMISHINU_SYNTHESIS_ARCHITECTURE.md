@@ -6,18 +6,18 @@ generation: V1
 revision: 1.0
 status: canonical
 architecture_lifecycle: stabilized
-source_boundary: "Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06"
+source_boundary: Japanese manga V01-V09 + V02/V04/V07 drawn bonuses + V03 in-volume extra narrative + V05 special booklet + V08 in-volume supplemental narratives + standalone Side Stories SS01-SS06
 integrated_boundary: V09+SIDE_STORIES
 numbered_prospective_boundary: V09
 governing_method: KIMISHINU_ANALYTICAL_METHOD.md
 longitudinal_architecture: KIMISHINU_LONGITUDINAL_LEDGER_ARCHITECTURE.md
 current_entrypoint: CURRENT_STATE_AND_CORPUS_MAP.md
 higher_order_policies:
-  - MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md
-  - MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
+- MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md
+- MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 reasoning_class: DEEP_SYNTHESIS
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -7,15 +7,15 @@ generation: V1
 status: canonical
 semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "R4 active-provisional monograph challenged against the clean R2/R3 behavioral surface: 72 direct-presence Baltimore scenes / 276 clean narrative dialogue records, four-part memory anchor, character-dialogue/social/relationship evidence; nine false actor joins excluded; regional wording and JP acoustics not used to decide CN behavioral claims"
+source_boundary: 'R4 active-provisional monograph challenged against the clean R2/R3 behavioral surface: 72 direct-presence Baltimore scenes / 276 clean narrative dialogue records, four-part memory anchor, character-dialogue/social/relationship evidence; nine false actor joins excluded; regional wording and JP acoustics not used to decide CN behavioral claims'
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 target_artifact: AZUR_LANE_BALTIMORE_CHARACTER_MONOGRAPH.md
 target_status: active_provisional
-identity_quarantine: "9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records"
+identity_quarantine: '9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records'
 performed_voice_status: mapped_wavs_published_acoustic_analysis_pending
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

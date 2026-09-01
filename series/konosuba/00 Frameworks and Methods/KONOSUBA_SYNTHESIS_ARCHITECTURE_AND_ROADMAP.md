@@ -4,7 +4,7 @@ artifact_type: synthesis_architecture
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: "Japanese light novel main series V01-V17; side material reserved for post-freeze validation"
+source_boundary: Japanese light novel main series V01-V17; side material reserved for post-freeze validation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

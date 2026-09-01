@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: V01
 generation: V2
 status: canonical
-source_boundary: "Original Japanese manga Volume 1; serialized Chapters 1-5 primary; applied recipe supplementary; prototype one-shot excluded from serialized continuity; Kurase bonus supplementary"
+source_boundary: Original Japanese manga Volume 1; serialized Chapters 1-5 primary; applied recipe supplementary; prototype one-shot excluded from serialized continuity; Kurase bonus supplementary
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

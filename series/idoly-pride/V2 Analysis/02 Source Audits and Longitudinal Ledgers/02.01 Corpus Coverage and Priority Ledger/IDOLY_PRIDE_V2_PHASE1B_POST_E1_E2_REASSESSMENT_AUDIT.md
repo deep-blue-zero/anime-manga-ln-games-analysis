@@ -5,24 +5,24 @@ artifact_role: AUDIT
 scope: PHASE1B_POST_E1_E2_REASSESSMENT
 filename: IDOLY_PRIDE_V2_PHASE1B_POST_E1_E2_REASSESSMENT_AUDIT.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Frozen post-E1-E baseline; frozen original 60-event rerank; all 26 original E2 routing records; targeted raw-source rereads for materially divergent candidates. No E2 event findings admitted."
+source_boundary: Frozen post-E1-E baseline; frozen original 60-event rerank; all 26 original E2 routing records; targeted raw-source rereads for materially divergent candidates. No E2 event findings admitted.
 governing_baseline: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E1E_BASELINE.md
 prior_rerank: IDOLY_PRIDE_V2_PHASE1B_EVENT_RERANK_AUDIT.md
 event_pool_reassessed: 26
 event_findings_admitted: false
 integrity_status: POST_E1_TARGETED_REASSESSMENT_WITH_PRIOR_RERANK_EXPOSURE
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-updated: "2026-08-15"
-next_operation: "Phase 1B Event Close Read — E2-A1"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-15'
+updated: '2026-08-15'
+next_operation: Phase 1B Event Close Read — E2-A1
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 # IDOLY PRIDE V2 — PHASE 1B POST-E1 E2 REASSESSMENT / FINE-ORDER RERANK
 ## 0. Executive finding

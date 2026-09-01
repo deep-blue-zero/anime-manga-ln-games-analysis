@@ -10,9 +10,9 @@ performed_voice_status: open_partial_source_mapping
 scope_character: TAIHOU_30707
 semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "TAIHOU_30707 frozen canonical V1 textual/behavioral reconstruction plus extracted multilingual source corpus; JP performed voice remains a separate OPEN_PARTIAL_SOURCE_MAPPING track"
-supersedes: null
-superseded_by: null
+source_boundary: TAIHOU_30707 frozen canonical V1 textual/behavioral reconstruction plus extracted multilingual source corpus; JP performed voice remains a separate OPEN_PARTIAL_SOURCE_MAPPING track
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

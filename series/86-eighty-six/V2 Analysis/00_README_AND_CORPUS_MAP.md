@@ -1,18 +1,19 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "corpus_map"
-scope: "V01-V14+ALTER1"
-generation: "V2"
-release_version: "1.0"
-release_id: "86-V2-V01-V14-1.0"
-status: "canonical"
-release_state: "frozen_boundary_release"
-date: "2026-08-20"
-source_boundary: "Locked original-Japanese V01-V14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: corpus_map
+scope: V01-V14+ALTER1
+generation: V2
+release_version: '1.0'
+release_id: 86-V2-V01-V14-1.0
+status: canonical
+release_state: frozen_boundary_release
+date: '2026-08-20'
+source_boundary: Locked original-Japanese V01-V14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
 current_entrypoint: true
-supersedes: "CURRENT_STATE_AND_CORPUS_MAP.md"
-superseded_by: null
+supersedes:
+- series/86-eighty-six/V2 Analysis/CURRENT_STATE_AND_CORPUS_MAP.md
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

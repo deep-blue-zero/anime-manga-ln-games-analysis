@@ -2,14 +2,15 @@
 series: GKM
 artifact_type: audiovisual_request_register
 scope: CHARACTER_SHINOSAWA_HIRO_PHASE3_AV_BASELINE
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: superseded
-source_boundary: "Historical acquisition/request design retained after completion of the 33-object Phase-3 Hiro audiovisual baseline"
-supersedes: null
-superseded_by: "GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+source_boundary: Historical acquisition/request design retained after completion of the 33-object Phase-3 Hiro audiovisual baseline
+supersedes: []
+superseded_by:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/07_SHINOSAWA_HIRO/GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md
 do_not_use_as_current_authority: true
-last_updated: "2026-08-17"
+last_updated: '2026-08-17'
 ---
 
 # GKM — SHINOSAWA HIRO AUDIOVISUAL BASELINE AND REQUESTS

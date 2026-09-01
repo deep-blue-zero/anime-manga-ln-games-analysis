@@ -1,24 +1,24 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "specialist_synthesis"
-document_id: "01"
-title: "Series Architecture, Volume Progression, and Master Thesis"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: specialist_synthesis
+document_id: '01'
+title: Series Architecture, Volume Progression, and Master Thesis
+scope: V01-V14+ALTER1
 phase: 6
-generation: "V2"
-status: "canonical"
-date: "2026-08-15"
-source_boundary: "Original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-chronological_evidence_spine: "15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-locator_authority: "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
-locator_correction_crosswalk: "86_PHASE5_LOCATOR_CORRECTION_LEDGER.tsv"
-counterevidence_lock: "86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv"
-open_question_lock: "86_PHASE5_OPEN_QUESTION_LOCK.tsv"
-supersedes: null
-superseded_by: null
+generation: V2
+status: canonical
+date: '2026-08-15'
+source_boundary: Original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+chronological_evidence_spine: 15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+locator_authority: 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
+locator_correction_crosswalk: 86_PHASE5_LOCATOR_CORRECTION_LEDGER.tsv
+counterevidence_lock: 86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv
+open_question_lock: 86_PHASE5_OPEN_QUESTION_LOCK.tsv
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

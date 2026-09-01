@@ -2,15 +2,16 @@
 series: GKM
 artifact_type: audiovisual_baseline
 scope: CHARACTER_SHINOSAWA_HIRO_PHASE3_COMPLETE_AV
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "33 AV objects: 11 dialogue/commu sources and 22 music/performance/derivative sources, interpreted against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_07_SHINOSAWA_HIRO.md; みちなるひろがる song commu unavailable/nonblocking"
-supersedes: "GKM_HIRO_AUDIOVISUAL_BASELINE_AND_REQUESTS.md"
-superseded_by: null
+source_boundary: '33 AV objects: 11 dialogue/commu sources and 22 music/performance/derivative sources, interpreted against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_07_SHINOSAWA_HIRO.md; みちなるひろがる song commu unavailable/nonblocking'
+supersedes:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/07_SHINOSAWA_HIRO/GKM_HIRO_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shinosawa Hiro Complete Audiovisual Baseline"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shinosawa Hiro Complete Audiovisual Baseline
 ---
 
 # GKM — SHINOSAWA HIRO COMPLETE AUDIOVISUAL BASELINE

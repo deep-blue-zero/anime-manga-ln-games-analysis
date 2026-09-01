@@ -3,37 +3,37 @@ series: IDOLY_PRIDE
 artifact_type: relationship_longitudinal_ledger
 artifact_role: LEDGER
 scope: REL_KOTONO_NAGISA
-relationship: "Nagase Kotono / Ibuki Nagisa"
+relationship: Nagase Kotono / Ibuki Nagisa
 relationship_codes:
-  - ktn
-  - ngs
+- ktn
+- ngs
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-C-KOTONO-NAGISA"
+phase: '2'
+tranche: P2-C-KOTONO-NAGISA
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 relationship reconstruction of Nagase Kotono / Ibuki Nagisa across the frozen 2026-08-13 analytical snapshot. The dedicated pair index kotono_nagisa.md contains 85 pair-bearing routed bundles: 46 main-story, 20 event, 6 card, 6 specials/misc, 3 unit-origin, 3 message, and 1 bond bundle. This is a breadth/contradiction frontier, not a claim that all 85 bundles contain relationship-bearing interaction. Load-bearing reconstruction reopens the reciprocal Tsuki origin memories, Hoshimi inheritance, BIG4 departure/separation/reconstitution spine, late C1-B paired relationship cards and exact routed support, and selected bond/event material for private-register and coding checks. Source routing remains frozen at Phase-1 authority; lower-tier texture is not silently promoted."
+source_boundary: 'Phase-2 relationship reconstruction of Nagase Kotono / Ibuki Nagisa across the frozen 2026-08-13 analytical snapshot. The dedicated pair index kotono_nagisa.md contains 85 pair-bearing routed bundles: 46 main-story, 20 event, 6 card, 6 specials/misc, 3 unit-origin, 3 message, and 1 bond bundle. This is a breadth/contradiction frontier, not a claim that all 85 bundles contain relationship-bearing interaction. Load-bearing reconstruction reopens the reciprocal Tsuki origin memories, Hoshimi inheritance, BIG4 departure/separation/reconstitution spine, late C1-B paired relationship cards and exact routed support, and selected bond/event material for private-register and coding checks. Source routing remains frozen at Phase-1 authority; lower-tier texture is not silently promoted.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_KOTONO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_NAGISA_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_KOTONO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_NAGISA_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_C_KOTONO_NAGISA_PASS
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-C — IDOLY_PRIDE_V2_REL_MANA_KOTONO_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-C — IDOLY_PRIDE_V2_REL_MANA_KOTONO_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — KOTONO / NAGISA RELATIONSHIP LONGITUDINAL LEDGER

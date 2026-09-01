@@ -4,11 +4,11 @@ artifact_type: evidence_register
 scope: official_paratext_and_creator_commentary
 generation: V2
 status: canonical
-source_boundary: "Official Gakuen Idolmaster/Bandai Namco paratext, credited creator/staff commentary, and traceable external references; does not alter Source Lock 1.0"
-supersedes: null
-superseded_by: null
+source_boundary: Official Gakuen Idolmaster/Bandai Namco paratext, credited creator/staff commentary, and traceable external references; does not alter Source Lock 1.0
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # GKM OFFICIAL PARATEXT AND CREATOR COMMENTARY REGISTER

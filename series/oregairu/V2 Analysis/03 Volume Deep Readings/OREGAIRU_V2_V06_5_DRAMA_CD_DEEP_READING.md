@@ -4,13 +4,13 @@ artifact_type: deep_reading
 scope: V06.5_DRAMA_CD_POST_V09
 generation: V2
 status: canonical
-source_boundary: "Volume 6.5 limited-edition drama CD 'そのクリスマスキャンドルの灯が揺れる時……。'; Watari-authored Volume 6.5 prose rewrite as exact-text/locator crosswalk; CD packaging; '君とMerry Christmas' only as separately credited official song paratext"
-supersedes: null
-superseded_by: null
+source_boundary: Volume 6.5 limited-edition drama CD 'そのクリスマスキャンドルの灯が揺れる時……。'; Watari-authored Volume 6.5 prose rewrite as exact-text/locator crosswalk; CD packaging; '君とMerry Christmas' only as separately credited official song paratext
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-story_chronology: "immediately after Volume 9; Christmas Eve to Christmas Day; before Volume 10"
-publication_object: "commercial Volume 6.5 / Volume 9 limited-edition drama-CD package"
+created: '2026-08-15'
+story_chronology: immediately after Volume 9; Christmas Eve to Christmas Day; before Volume 10
+publication_object: commercial Volume 6.5 / Volume 9 limited-edition drama-CD package
 checkpoint_reconciliation_target: OREGAIRU_V2_CHECKPOINT_C_KYOTO_ELECTION_CHRISTMAS_CRISIS.md
 revision_transition: STRENGTHEN
 ---

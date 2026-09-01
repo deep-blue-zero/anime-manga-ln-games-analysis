@@ -1,15 +1,16 @@
 ---
-series: "U149"
-artifact_type: "deep_reading"
-scope: "OVA"
-generation: "V1"
-status: "canonical"
-source_boundary: "U149 anime OVA / 13th analyzed item"
+series: U149
+artifact_type: deep_reading
+scope: OVA
+generation: V1
+status: canonical
+source_boundary: U149 anime OVA / 13th analyzed item
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - U149 Deep Analysis - Full Transcript.md"
-source_turns: [43]
+source_transcript: Manga and anime discussions - U149 Deep Analysis - Full Transcript.md
+source_turns:
+- 43
 ---
 
 <!-- transcript_source_turn: 43 -->

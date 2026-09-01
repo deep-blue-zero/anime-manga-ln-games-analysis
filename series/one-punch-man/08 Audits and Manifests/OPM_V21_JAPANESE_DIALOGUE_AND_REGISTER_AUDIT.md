@@ -5,13 +5,13 @@ scope: V21
 subtype: japanese_dialogue_and_register
 status: canonical
 generation: V2
-source_boundary: "Japanese tankobon Volume 21 only; audit frozen before historical V1 / Checkpoint-A reopening"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 21 only; audit frozen before historical V1 / Checkpoint-A reopening
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 21 [Japanese].cbz"
-source_drive_id: "19blw9TDAgR4erg5pFvN5KJ6FlhQb_CDp"
-source_sha256: "3d7e254f0c7b170aea8a686ddd5d004da86272b264d505536be233414332b76a"
+source_file: One Punch Man - Volume 21 [Japanese].cbz
+source_drive_id: 19blw9TDAgR4erg5pFvN5KJ6FlhQb_CDp
+source_sha256: 3d7e254f0c7b170aea8a686ddd5d004da86272b264d505536be233414332b76a
 created: 2026-08-26
 ---
 

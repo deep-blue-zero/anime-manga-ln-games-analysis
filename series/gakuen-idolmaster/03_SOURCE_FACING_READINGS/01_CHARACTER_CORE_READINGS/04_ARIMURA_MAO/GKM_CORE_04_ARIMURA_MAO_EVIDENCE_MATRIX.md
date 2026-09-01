@@ -4,9 +4,9 @@ artifact_type: evidence_matrix
 scope: CHARACTER_04_ARIMURA_MAO
 generation: V2
 status: active_provisional
-source_boundary: "GAKUMAS V2 Source Lock 1.0 Mao-owned textual corpus; AV pending"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 Mao-owned textual corpus; AV pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 document_id: GKM_CORE_04_ARIMURA_MAO_EVIDENCE_MATRIX
 project: Gakuen Idolmaster V2 Full-Corpus Synthesis

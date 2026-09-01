@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "deep_reading"
-scope: "E12"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episode 12, Japanese subtitle/visual packet"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: deep_reading
+scope: E12
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episode 12, Japanese subtitle/visual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 24
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 I unpacked Episode 12. The packet contains **831 deduplicated episode frames**, **42 contact sheets**, **12 scene segments**, and roughly **300 spoken-dialogue cues** once the OP/effect layers are separated. The official title is:

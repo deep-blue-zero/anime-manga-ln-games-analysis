@@ -5,38 +5,38 @@ artifact_role: DEEP_READING
 scope: S2E05
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S2E05 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S2E05 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 2
 episode: 5
-episode_title_japanese: "マニーは天下の回りもの"
-episode_title_english: "Money Makes the World Go 'Round"
-episode_title_source: "embedded English Signs track directly renders the English title at 00:02:56.95; Japanese episode title is used as identifying metadata only and is not load-bearing semantic evidence"
+episode_title_japanese: マニーは天下の回りもの
+episode_title_english: Money Makes the World Go 'Round
+episode_title_source: embedded English Signs track directly renders the English title at 00:02:56.95; Japanese episode title is used as identifying metadata only and is not load-bearing semantic evidence
 artifact_id: LLS_S2E05_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E04 as five separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; cohort/succession, leadership, media-economy, relationship, and character-model analysis; four model ledgers updated and verified"
+analysis_mode: sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E04 as five separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; cohort/succession, leadership, media-economy, relationship, and character-model analysis; four model ledgers updated and verified
 source_bundle: LLS_s02e05_screenshots.zip
 source_drive_id: 1BFOgbOxndtDTf0Y2FLjcWO6A2lp3n60h
 source_sha256: cc9b0b87bef843ded5a7c9d9f627bc922795eece82f1e908b8a14d29128de5c5
 source_bytes: 164273296
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S2E05 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S2E05 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON1_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 prior_later_states:
-  - LLS_S2E01_DEEP_READING_V2.md
-  - LLS_S2E02_DEEP_READING_V2.md
-  - LLS_S2E03_DEEP_READING_V2.md
-  - LLS_S2E04_DEEP_READING_V2.md
+- LLS_S2E01_DEEP_READING_V2.md
+- LLS_S2E02_DEEP_READING_V2.md
+- LLS_S2E03_DEEP_READING_V2.md
+- LLS_S2E04_DEEP_READING_V2.md
 prior_later_state_drive_ids:
-  - 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
-  - 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
-  - 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
-  - 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+- 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
+- 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
+- 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
+- 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 761
 retained_frames: 704
 contact_sheets_reviewed: 39
@@ -60,16 +60,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 704 retained frames, 39 contact sheets, subtitle copies, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 704 retained frames, 39 contact sheets, subtitle copies, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S2E06_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

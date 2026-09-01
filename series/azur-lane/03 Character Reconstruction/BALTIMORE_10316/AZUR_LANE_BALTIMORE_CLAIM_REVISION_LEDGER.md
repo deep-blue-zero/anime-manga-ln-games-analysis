@@ -7,17 +7,17 @@ generation: V1
 status: canonical
 semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "R0-R8 Baltimore reconstruction plus completed canonical JP quantitative performed-voice specialist; 72 clean direct-presence narrative scenes / 276 clean narrative dialogue records; 392 clean five-locale aligned speech records; 100/100 SHA-256-verified mapped JP spoken-text WAV derivatives; nine false actor joins excluded"
+source_boundary: R0-R8 Baltimore reconstruction plus completed canonical JP quantitative performed-voice specialist; 72 clean direct-presence narrative scenes / 276 clean narrative dialogue records; 392 clean five-locale aligned speech records; 100/100 SHA-256-verified mapped JP spoken-text WAV derivatives; nine false actor joins excluded
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 target_artifact: AZUR_LANE_BALTIMORE_CHARACTER_MONOGRAPH.md
-identity_quarantine: "9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records"
+identity_quarantine: '9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records'
 performed_voice_status: quantitative_jp_performed_voice_established_ear_dependent_timbre_open
 readiness_score: 82.91
 readiness_score_status: frozen_pre_remediation
 promotion_recommendation: PROMOTE_TO_CANONICAL_V1
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

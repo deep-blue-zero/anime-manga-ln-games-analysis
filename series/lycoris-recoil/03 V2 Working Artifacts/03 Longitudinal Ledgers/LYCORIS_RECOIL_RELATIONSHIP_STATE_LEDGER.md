@@ -1,12 +1,12 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: ledger
-scope: "V2 longitudinal relationship state, permissions, conflict, repair, intimacy, and role conditioning"
+scope: V2 longitudinal relationship state, permissions, conflict, repair, intimacy, and role conditioning
 generation: V2
 status: canonical
-source_boundary: "SHORT01; A1 relationship evidence through TV E01-E13 + Friends Short 01 only"
-supersedes: null
-superseded_by: null
+source_boundary: SHORT01; A1 relationship evidence through TV E01-E13 + Friends Short 01 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
 current_sequential_boundary: SHORT01

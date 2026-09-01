@@ -4,9 +4,9 @@ artifact_type: locator_index
 scope: V07
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V07 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校の吹奏楽部日誌』"
-supersedes: null
-superseded_by: null
+source_boundary: 'HIBIKE-V07 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校の吹奏楽部日誌』'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

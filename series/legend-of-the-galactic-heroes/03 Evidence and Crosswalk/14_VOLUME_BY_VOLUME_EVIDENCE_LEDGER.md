@@ -1,9 +1,9 @@
 ---
-title: "銀河英雄伝説 — Volume-by-Volume Evidence Ledger"
-subtitle: "Japanese-primary chronological audit trail for M01–M10 and G01–G05"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed first-tranche document"
+title: 銀河英雄伝説 — Volume-by-Volume Evidence Ledger
+subtitle: Japanese-primary chronological audit trail for M01–M10 and G01–G05
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed first-tranche document
 status: canonical
 supersedes: []
 superseded_by: []

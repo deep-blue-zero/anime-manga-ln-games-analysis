@@ -1,21 +1,21 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: deep_reading
 scope: V16
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 16 only; prospective observational boundary V01-V16"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 16 only; prospective observational boundary V01-V16
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 16 [Japanese].cbz"
-source_drive_id: "1Mv1TO0onrDpN90J1LX5-AdeV9oF8_G6y"
-source_sha256: "d3f1451ea83f7d0a75f434369f6baca5f10b163b95bb6e32a64b42fe28ee876c"
+source_file: One Punch Man - Volume 16 [Japanese].cbz
+source_drive_id: 1Mv1TO0onrDpN90J1LX5-AdeV9oF8_G6y
+source_sha256: d3f1451ea83f7d0a75f434369f6baca5f10b163b95bb6e32a64b42fe28ee876c
 source_images: 218
 source_bytes: 67701474
-method: "OPM_ANALYTICAL_METHOD_V2.md"
+method: OPM_ANALYTICAL_METHOD_V2.md
 prospective_prior_boundary: V15
 created: 2026-08-26
 ---

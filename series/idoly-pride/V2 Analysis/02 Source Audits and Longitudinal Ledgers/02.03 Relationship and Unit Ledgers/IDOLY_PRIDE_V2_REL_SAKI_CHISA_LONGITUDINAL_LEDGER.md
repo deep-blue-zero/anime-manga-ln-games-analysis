@@ -3,39 +3,39 @@ series: IDOLY_PRIDE
 artifact_type: relationship_longitudinal_ledger
 artifact_role: LEDGER
 scope: REL_SAKI_CHISA
-relationship: "Shiraishi Saki / Shiraishi Chisa"
+relationship: Shiraishi Saki / Shiraishi Chisa
 relationship_codes:
-  - ski
-  - chs
+- ski
+- chs
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-C-SAKI-CHISA"
+phase: '2'
+tranche: P2-C-SAKI-CHISA
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 warrant adjudication and relationship reconstruction of Shiraishi Saki / Shiraishi Chisa across the frozen 2026-08-13 analytical snapshot. Mechanical deduplicated intersection of the frozen Saki and Chisa occurrence indexes yields 50 pair-bearing routed bundles: 30 main-story, 2 unit-origin, 5 event, 8 card, 3 message, 1 bond, and 1 specials/misc bundle. This is a breadth/contradiction frontier, not a claim that every co-bearing bundle carries relationship-state evidence. The warrant is AFFIRMATIVE. Load-bearing reconstruction reopens both sister origins, Hoshimi Dear My Sister, the admitted 2022 limited-unit event, Saki B2-B bond evidence, and later main-story continuity. Lower-tier cards/messages/specials remain at frozen routing unless promoted for a claim-specific reason. Parents are treated as causal family-system context, not as separate subjects of a new family ledger."
+source_boundary: 'Phase-2 warrant adjudication and relationship reconstruction of Shiraishi Saki / Shiraishi Chisa across the frozen 2026-08-13 analytical snapshot. Mechanical deduplicated intersection of the frozen Saki and Chisa occurrence indexes yields 50 pair-bearing routed bundles: 30 main-story, 2 unit-origin, 5 event, 8 card, 3 message, 1 bond, and 1 specials/misc bundle. This is a breadth/contradiction frontier, not a claim that every co-bearing bundle carries relationship-state evidence. The warrant is AFFIRMATIVE. Load-bearing reconstruction reopens both sister origins, Hoshimi Dear My Sister, the admitted 2022 limited-unit event, Saki B2-B bond evidence, and later main-story continuity. Lower-tier cards/messages/specials remain at frozen routing unless promoted for a claim-specific reason. Parents are treated as causal family-system context, not as separate subjects of a new family ledger.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_SAKI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_SAKI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_C_SAKI_CHISA_PASS
 warrant_status: WARRANTED
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-C — IDOLY_PRIDE_V2_REL_RIO_AOI_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-C — IDOLY_PRIDE_V2_REL_RIO_AOI_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — SAKI / CHISA RELATIONSHIP LONGITUDINAL LEDGER

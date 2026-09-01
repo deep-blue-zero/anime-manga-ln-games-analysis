@@ -4,22 +4,22 @@ artifact_type: evidence_matrix
 scope: V01-V34
 generation: V2
 status: canonical
-version: "1.0"
-date: "2026-08-27"
+version: '1.0'
+date: '2026-08-27'
 architecture_lifecycle: STABILIZED
-source_boundary: "Complete Japanese manga tankobon Volumes 1-34"
-governing_method: "AOT_ANALYTICAL_METHOD_V2.md v2.1"
-governing_architecture: "AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2"
-claim_revision_authority: "AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md v1.0"
-recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
-current_provider_mapping: "5.6 Sol High"
-reasoning_policy_source: "MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md v1.0"
-canonical_home: "06 Evidence and Indexes/AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md"
-canonical_drive_id: "1Jl1upgFOYyPPhK0eqJkJxV8kDiS48ioG"
-canonical_folder_id: "1euEZ90VtOMlPkGNvE-T9laCmgFbVG3sh"
-publication_state: "canonical Drive placement and final byte-for-byte readback verified"
-supersedes: null
-superseded_by: null
+source_boundary: Complete Japanese manga tankobon Volumes 1-34
+governing_method: AOT_ANALYTICAL_METHOD_V2.md v2.1
+governing_architecture: AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2
+claim_revision_authority: AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md v1.0
+recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
+current_provider_mapping: 5.6 Sol High
+reasoning_policy_source: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md v1.0
+canonical_home: 06 Evidence and Indexes/AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md
+canonical_drive_id: 1Jl1upgFOYyPPhK0eqJkJxV8kDiS48ioG
+canonical_folder_id: 1euEZ90VtOMlPkGNvE-T9laCmgFbVG3sh
+publication_state: canonical Drive placement and final byte-for-byte readback verified
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

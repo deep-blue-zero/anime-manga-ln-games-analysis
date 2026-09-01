@@ -1,76 +1,69 @@
 {
   "schema": "anime-manga-ln-games-analysis/series-registry/v1",
-  "status": "PARTIAL_G5_MIGRATION_CANDIDATE",
+  "status": "G5_COMPLETE_MATERIALIZATION_CANDIDATE",
   "series": [
     {
-      "series_id": "the-idolmaster-cinderella-girls-u149",
-      "stable_slug": "the-idolmaster-cinderella-girls-u149",
-      "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS U149",
+      "series_id": "86-eighty-six",
+      "stable_slug": "86-eighty-six",
+      "canonical_title": "86 - Eighty-Six",
       "media": [
+        "LIGHT_NOVEL",
         "ANIME"
       ],
-      "repository_path": "series/the-idolmaster-cinderella-girls-u149/",
+      "repository_path": "series/86-eighty-six/",
       "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     },
     {
-      "series_id": "idoly-pride",
-      "stable_slug": "idoly-pride",
-      "canonical_title": "IDOLY PRIDE",
+      "series_id": "a-sisters-all-you-need",
+      "stable_slug": "a-sisters-all-you-need",
+      "canonical_title": "A Sister's All You Need",
       "media": [
-        "MOBILE_GAME"
+        "LIGHT_NOVEL"
       ],
-      "repository_path": "series/idoly-pride/",
+      "repository_path": "series/a-sisters-all-you-need/",
       "materialization_status": "PRESENT_REVIEWED",
-      "migration_scope": "PARTIAL_G4_P02_SINGLE_LEDGER",
+      "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     },
     {
-      "series_id": "maebashi-witches",
-      "stable_slug": "maebashi-witches",
-      "canonical_title": "Maebashi Witches",
+      "series_id": "aobuta",
+      "stable_slug": "aobuta",
+      "canonical_title": "AoButa",
       "media": [
+        "LIGHT_NOVEL",
         "ANIME"
       ],
-      "repository_path": "series/maebashi-witches/",
+      "repository_path": "series/aobuta/",
       "materialization_status": "PRESENT_REVIEWED",
-      "migration_scope": "G5_T01_V1_ANALYSIS",
+      "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     },
     {
-      "series_id": "mass-effect",
-      "stable_slug": "mass-effect",
-      "canonical_title": "Mass Effect",
+      "series_id": "attack-on-titan",
+      "stable_slug": "attack-on-titan",
+      "canonical_title": "Attack on Titan",
       "media": [
-        "GAME"
+        "MANGA",
+        "ANIME"
       ],
-      "repository_path": "studies/comparative-media/Mass Effect/",
+      "repository_path": "series/attack-on-titan/",
       "materialization_status": "PRESENT_REVIEWED",
-      "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
+      "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     },
     {
-      "series_id": "genshin-impact",
-      "stable_slug": "genshin-impact",
-      "canonical_title": "Genshin Impact",
+      "series_id": "azur-lane",
+      "stable_slug": "azur-lane",
+      "canonical_title": "Azur Lane",
       "media": [
-        "GAME"
+        "MOBILE_GAME",
+        "ANIME"
       ],
-      "repository_path": "series/genshin-impact/",
+      "repository_path": "series/azur-lane/",
       "materialization_status": "PRESENT_REVIEWED",
-      "migration_scope": "G5_T03_FURINA_MONOGRAPH_V1_COMPLETE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
-    },
-    {
-      "series_id": "the-idolmaster-cinderella-girls-mobile-games",
-      "stable_slug": "the-idolmaster-cinderella-girls-mobile-games",
-      "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)",
-      "media": [
-        "MOBILE_GAME"
-      ],
-      "repository_path": "series/the-idolmaster-cinderella-girls-mobile-games/",
-      "materialization_status": "PRESENT_REVIEWED",
-      "migration_scope": "G5_T04_MOBILE_GAME_CHARACTER_MONOGRAPHS_AND_AUDITS",
+      "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     },
     {
@@ -86,15 +79,88 @@
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     },
     {
-      "series_id": "youjo-senki",
-      "stable_slug": "youjo-senki",
-      "canonical_title": "YOUJO SENKI",
+      "series_id": "gakuen-idolmaster",
+      "stable_slug": "gakuen-idolmaster",
+      "canonical_title": "Gakuen Idolmaster",
+      "media": [
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/gakuen-idolmaster/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "genshin-impact",
+      "stable_slug": "genshin-impact",
+      "canonical_title": "Genshin Impact",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "series/genshin-impact/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T03_FURINA_MONOGRAPH_V1_COMPLETE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "girls-band-cry",
+      "stable_slug": "girls-band-cry",
+      "canonical_title": "Girls Band Cry",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/girls-band-cry/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "henshin-metamorphosis",
+      "stable_slug": "henshin-metamorphosis",
+      "canonical_title": "Henshin - Metamorphosis",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/henshin-metamorphosis/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "idoly-pride",
+      "stable_slug": "idoly-pride",
+      "canonical_title": "IDOLY PRIDE",
+      "media": [
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/idoly-pride/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "PARTIAL_G4_P02_SINGLE_LEDGER",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "kimishinu",
+      "stable_slug": "kimishinu",
+      "canonical_title": "KimiShinu",
       "media": [
         "LIGHT_NOVEL"
       ],
-      "repository_path": "series/youjo-senki/",
+      "repository_path": "series/kimishinu/",
       "materialization_status": "PRESENT_REVIEWED",
-      "migration_scope": "G5_T06_V2_ANALYTICAL_CORPUS",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "konosuba",
+      "stable_slug": "konosuba",
+      "canonical_title": "KonoSuba",
+      "media": [
+        "LIGHT_NOVEL",
+        "ANIME"
+      ],
+      "repository_path": "series/konosuba/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     },
     {
@@ -107,6 +173,296 @@
       "repository_path": "series/legend-of-the-galactic-heroes/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T07_LOGH_FULL_PREFIX",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "love-live-superstar",
+      "stable_slug": "love-live-superstar",
+      "canonical_title": "Love Live! Superstar!!",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/love-live-superstar/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "lycoris-recoil",
+      "stable_slug": "lycoris-recoil",
+      "canonical_title": "Lycoris Recoil",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/lycoris-recoil/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "maebashi-witches",
+      "stable_slug": "maebashi-witches",
+      "canonical_title": "Maebashi Witches",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/maebashi-witches/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T01_V1_ANALYSIS",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "monogatari-series",
+      "stable_slug": "monogatari-series",
+      "canonical_title": "Monogatari Series",
+      "media": [
+        "LIGHT_NOVEL",
+        "ANIME"
+      ],
+      "repository_path": "series/monogatari-series/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "my-hero-academia",
+      "stable_slug": "my-hero-academia",
+      "canonical_title": "My Hero Academia",
+      "media": [
+        "MANGA",
+        "ANIME"
+      ],
+      "repository_path": "series/my-hero-academia/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "nana",
+      "stable_slug": "nana",
+      "canonical_title": "NANA",
+      "media": [
+        "MANGA",
+        "ANIME"
+      ],
+      "repository_path": "series/nana/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "one-punch-man",
+      "stable_slug": "one-punch-man",
+      "canonical_title": "One Punch Man",
+      "media": [
+        "MANGA",
+        "ANIME"
+      ],
+      "repository_path": "series/one-punch-man/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "oregairu",
+      "stable_slug": "oregairu",
+      "canonical_title": "Oregairu",
+      "media": [
+        "LIGHT_NOVEL",
+        "ANIME"
+      ],
+      "repository_path": "series/oregairu/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "oreimo",
+      "stable_slug": "oreimo",
+      "canonical_title": "Oreimo",
+      "media": [
+        "LIGHT_NOVEL",
+        "ANIME"
+      ],
+      "repository_path": "series/oreimo/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "redo-of-healer",
+      "stable_slug": "redo-of-healer",
+      "canonical_title": "Redo of Healer",
+      "media": [
+        "LIGHT_NOVEL",
+        "ANIME"
+      ],
+      "repository_path": "series/redo-of-healer/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "revue-starlight",
+      "stable_slug": "revue-starlight",
+      "canonical_title": "Revue Starlight",
+      "media": [
+        "ANIME",
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/revue-starlight/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "shine-post",
+      "stable_slug": "shine-post",
+      "canonical_title": "SHINE POST",
+      "media": [
+        "LIGHT_NOVEL",
+        "ANIME"
+      ],
+      "repository_path": "series/shine-post/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "shokugeki-no-soma",
+      "stable_slug": "shokugeki-no-soma",
+      "canonical_title": "Shokugeki no Soma",
+      "media": [
+        "MANGA",
+        "ANIME"
+      ],
+      "repository_path": "series/shokugeki-no-soma/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "shuukura",
+      "stable_slug": "shuukura",
+      "canonical_title": "Shuukura",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/shuukura/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "solo-leveling",
+      "stable_slug": "solo-leveling",
+      "canonical_title": "Solo Leveling",
+      "media": [
+        "LIGHT_NOVEL",
+        "MANGA",
+        "ANIME"
+      ],
+      "repository_path": "series/solo-leveling/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "sound-euphonium",
+      "stable_slug": "sound-euphonium",
+      "canonical_title": "Sound! Euphonium",
+      "media": [
+        "LIGHT_NOVEL",
+        "ANIME"
+      ],
+      "repository_path": "series/sound-euphonium/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "the-idolmaster-cinderella-girls-2015-anime",
+      "stable_slug": "the-idolmaster-cinderella-girls-2015-anime",
+      "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/the-idolmaster-cinderella-girls-2015-anime/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "the-idolmaster-cinderella-girls-mobile-games",
+      "stable_slug": "the-idolmaster-cinderella-girls-mobile-games",
+      "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)",
+      "media": [
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/the-idolmaster-cinderella-girls-mobile-games/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T04_MOBILE_GAME_CHARACTER_MONOGRAPHS_AND_AUDITS",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "the-idolmaster-cinderella-girls-u149",
+      "stable_slug": "the-idolmaster-cinderella-girls-u149",
+      "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS U149",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/the-idolmaster-cinderella-girls-u149/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "to-be-hero-x",
+      "stable_slug": "to-be-hero-x",
+      "canonical_title": "To Be Hero X",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/to-be-hero-x/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "youjo-senki",
+      "stable_slug": "youjo-senki",
+      "canonical_title": "YOUJO SENKI",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/youjo-senki/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T06_V2_ANALYTICAL_CORPUS",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "yuru-camp",
+      "stable_slug": "yuru-camp",
+      "canonical_title": "Yuru Camp",
+      "media": [
+        "MANGA",
+        "ANIME"
+      ],
+      "repository_path": "series/yuru-camp/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_FINAL_AGGREGATE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "mass-effect",
+      "stable_slug": "mass-effect",
+      "canonical_title": "Mass Effect",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "studies/comparative-media/Mass Effect/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     }
   ]

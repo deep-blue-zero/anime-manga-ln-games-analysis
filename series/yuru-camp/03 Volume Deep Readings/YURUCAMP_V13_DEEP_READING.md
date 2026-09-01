@@ -1,43 +1,45 @@
 ---
-title: "Yuru Camp△ Volume 13 Deep Reading"
-artifact_id: "YURUCAMP_V13_DEEP_READING"
-series: "YURUCAMP"
-series_title: "Yuru Camp△ / ゆるキャン△"
-artifact_type: "deep_reading"
-scope: "V13"
-generation: "V1.2"
-status: "canonical"
-source_boundary: "Japanese manga Volume 13"
-supersedes: "YURUCAMP_V13_DEEP_READING generation V1.1 (residual factual-consistency correction)"
-superseded_by: null
+title: Yuru Camp△ Volume 13 Deep Reading
+artifact_id: YURUCAMP_V13_DEEP_READING
+series: YURUCAMP
+series_title: Yuru Camp△ / ゆるキャン△
+artifact_type: deep_reading
+scope: V13
+generation: V1.2
+status: canonical
+source_boundary: Japanese manga Volume 13
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-document_type: "volume_deep_reading"
+document_type: volume_deep_reading
 volume: 13
-language: "Japanese"
-spoiler_boundary: "Volumes 1–13 only"
-source_file: "Laid-Back Camp - Vol. 13 [Japanese].cbz"
-source_drive_id: "1nKg7jQgphHLmVA_PyIAHqYL4UKqQiuYz"
+language: Japanese
+spoiler_boundary: Volumes 1–13 only
+source_file: Laid-Back Camp - Vol. 13 [Japanese].cbz
+source_drive_id: 1nKg7jQgphHLmVA_PyIAHqYL4UKqQiuYz
 source_size_bytes: 61742321
-source_sha256: "0cc621edc83ccf18ec6b0efa4bfbc2754de4613e6a4c0a6b2e6a2969b6a2e941"
-source_container: "CBZ"
+source_sha256: 0cc621edc83ccf18ec6b0efa4bfbc2754de4613e6a4c0a6b2e6a2969b6a2e941
+source_container: CBZ
 source_page_images: 182
-source_dimensions: "181 pages at 1350x1920; 1 page at 1351x1920"
-source_lock_status: "LOCKED_CURRENT_PREFERRED"
-source_provenance: "Japanese page-image derivative; governing textual/visual evidence, but not a publisher-native archival master"
-source_integrity: "ZIP/CBZ CRC passed; 182/182 images decoded"
-method_version: "YURUCAMP_ANALYTICAL_METHOD_V1"
-architecture_version: "YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1"
-geography_amendment: "YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md"
-governing_checkpoint: "YURUCAMP_V10-V12_CHECKPOINT.md"
-governing_checkpoint_sha256: "23d08e05376206530ac39df4208cb3a3310a3255fb155ee012773d91bac9bd20"
-prior_volume_artifact: "YURUCAMP_V12_DEEP_READING.md"
-analysis_status: "complete"
+source_dimensions: 181 pages at 1350x1920; 1 page at 1351x1920
+source_lock_status: LOCKED_CURRENT_PREFERRED
+source_provenance: Japanese page-image derivative; governing textual/visual evidence, but not a publisher-native archival master
+source_integrity: ZIP/CBZ CRC passed; 182/182 images decoded
+method_version: YURUCAMP_ANALYTICAL_METHOD_V1
+architecture_version: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1
+geography_amendment: YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md
+governing_checkpoint: YURUCAMP_V10-V12_CHECKPOINT.md
+governing_checkpoint_sha256: 23d08e05376206530ac39df4208cb3a3310a3255fb155ee012773d91bac9bd20
+prior_volume_artifact: YURUCAMP_V12_DEEP_READING.md
+analysis_status: complete
 prospective_only: true
 retrospective_annotations: false
 phase: 3
-created: "2026-08-16"
-revision_date: "2026-08-16"
-revision_note: "V1.2 corrects one residual summary bullet left inconsistent after the V1.1 Chapter-75 rider correction: the mobility-repertoire example is Inuyama Aoi, not Kagamihara Nadeshiko. No interpretive claim or spoiler boundary changes."
+created: '2026-08-16'
+revision_date: '2026-08-16'
+revision_note: 'V1.2 corrects one residual summary bullet left inconsistent after the V1.1 Chapter-75 rider correction: the mobility-repertoire example is Inuyama Aoi, not Kagamihara Nadeshiko. No interpretive claim or spoiler boundary changes.'
+legacy_supersession_notes:
+- 'legacy supersedes: YURUCAMP_V13_DEEP_READING generation V1.1 (residual factual-consistency correction)'
 ---
 
 # Yuru Camp△ Volume 13 Deep Reading

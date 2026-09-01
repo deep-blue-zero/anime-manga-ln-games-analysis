@@ -7,12 +7,12 @@ status: canonical
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 r0_authority: AZUR_LANE_TAIHOU_RECONSTRUCTION_READINESS_AUDIT.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: "TAIHOU_30707 Grade-A extracted corpus routed by analytical responsibility before R2 interpretation: dedicated memory, 28-scene CN narrative, character dialogue, social, relationships, Dorm3D, Island, regional witnesses, and partial JP audio"
+source_boundary: 'TAIHOU_30707 Grade-A extracted corpus routed by analytical responsibility before R2 interpretation: dedicated memory, 28-scene CN narrative, character dialogue, social, relationships, Dorm3D, Island, regional witnesses, and partial JP audio'
 ---
 
 # Azur Lane — Taihou Reconstruction Evidence Map

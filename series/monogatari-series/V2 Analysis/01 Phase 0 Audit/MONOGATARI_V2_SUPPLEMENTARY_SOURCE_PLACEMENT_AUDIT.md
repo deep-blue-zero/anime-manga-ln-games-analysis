@@ -4,13 +4,13 @@ artifact_type: source_audit
 scope: SUPPLEMENTARY_CORPUS_PLACEMENT
 generation: V2
 status: canonical
-source_boundary: "Three locked supplementary EPUBs only: 短物語; 佰物語オリジナルドラマCD シナリオブック; 化物語 アニメコンプリートガイドブック"
-supersedes: null
-superseded_by: null
+source_boundary: 'Three locked supplementary EPUBs only: 短物語; 佰物語オリジナルドラマCD シナリオブック; 化物語 アニメコンプリートガイドブック'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 primary_numbered_boundary: V30
 live_ledger_boundary_at_audit: C729
-purpose: "Placement, provenance, witness identity, and permitted revision scope; not claim-level supplementary deep reading"
+purpose: Placement, provenance, witness identity, and permitted revision scope; not claim-level supplementary deep reading
 ---
 
 # MONOGATARI V2 — Supplementary Source Placement Audit

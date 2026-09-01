@@ -2,14 +2,17 @@
 series: GKM
 artifact_type: audiovisual_request_register
 scope: CHARACTER_KATSURAGI_LILJA_PHASE3_BASELINE
-character: "Katsuragi Lilja / 葛城リーリヤ"
+character: Katsuragi Lilja / 葛城リーリヤ
 generation: V2
-status: superseded
-source_boundary: "Text-derived request queue only; audiovisual files not yet inspected"
-supersedes: null
-superseded_by: "GKM_LILJA_COMPLETE_AUDIOVISUAL_BASELINE.md"
+status: historical_legacy
+source_boundary: Text-derived request queue only; audiovisual files not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-last_updated: "2026-08-22 — acquisition complete; integrated AV baseline promoted"
+last_updated: 2026-08-22 — acquisition complete; integrated AV baseline promoted
+legacy_supersession_notes:
+- 'legacy superseded_by: GKM_LILJA_COMPLETE_AUDIOVISUAL_BASELINE.md'
+- legacy superseded status lacked a resolvable current repository successor
 ---
 
 # GKM — KATSURAGI LILJA AUDIOVISUAL BASELINE AND REQUESTS

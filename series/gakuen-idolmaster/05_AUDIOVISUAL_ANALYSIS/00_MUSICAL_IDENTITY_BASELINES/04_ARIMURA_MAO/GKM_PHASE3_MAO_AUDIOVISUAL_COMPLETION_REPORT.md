@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: completion_report
 scope: CHARACTER_ARIMURA_MAO_PHASE3_COMPLETE_AV
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "Completion state for the 24-object Mao integrated AV pass"
-supersedes: null
-superseded_by: null
+source_boundary: Completion state for the 24-object Mao integrated AV pass
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
+last_updated: '2026-08-17'
 ---
 
 # PHASE 3 — MAO AUDIOVISUAL COMPLETION REPORT

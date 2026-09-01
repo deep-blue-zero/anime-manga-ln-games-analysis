@@ -1,15 +1,15 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: specialist_synthesis
-scope: "YURI_RELATIONSHIP_ARCHITECTURE"
+scope: YURI_RELATIONSHIP_ARCHITECTURE
 generation: V1
 status: historical_legacy
-source_boundary: "Retrospective three-season first-pass corpus available in the original conversation"
-supersedes: null
-superseded_by: null
+source_boundary: Retrospective three-season first-pass corpus available in the original conversation
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-recovery_source: "Manual copy from original ChatGPT conversation supplied by user on 2026-08-22"
+recovery_source: Manual copy from original ChatGPT conversation supplied by user on 2026-08-22
 original_chat_response_recovered: true
 ---
 

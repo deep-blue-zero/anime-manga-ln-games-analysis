@@ -4,15 +4,16 @@ artifact_type: archival_gap_record
 scope: E13
 generation: V1
 status: historical_legacy
-source_boundary: "Verbatim extraction from Manga and anime discussions - Girls Band Cry Analysis - Full Transcript(2).md"
-supersedes: null
-superseded_by: null
+source_boundary: Verbatim extraction from Manga and anime discussions - Girls Band Cry Analysis - Full Transcript(2).md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-verbatim_source_exported_at: 2026-08-17T19:25:44.657Z
-archive_provenance: "Original assistant response text preserved verbatim; archival wrapper headings/front matter added outside the quoted response text."
+verbatim_source_exported_at: 2026-08-17 19:25:44.657000+00:00
+archive_provenance: Original assistant response text preserved verbatim; archival wrapper headings/front matter added outside the quoted response text.
 original_assistant_turn: null
 original_deep_reading_present_in_export: false
-supplemental_assistant_turns: [48]
+supplemental_assistant_turns:
+- 48
 ---
 
 > **Archival gap note:** The transcript contains the user's Episode 13 analysis request (Turn 43) but no corresponding assistant deep-dive response. The exporter is also marked `bottom_reached: false`, so this file does not claim that no such response ever existed; only that it is not present in this export. The later ED/epilogue analysis (Assistant Turn 48) is preserved verbatim below. The former synthetic Episode 13 reconstruction should not be treated as a verbatim V1 episode response.

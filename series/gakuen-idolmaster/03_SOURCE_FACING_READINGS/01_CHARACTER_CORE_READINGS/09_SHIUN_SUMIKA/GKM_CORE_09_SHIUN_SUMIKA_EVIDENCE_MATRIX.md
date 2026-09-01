@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_SHIUN_SUMIKA_PHASE3_CORE
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Sumika character-owned textual corpus; AV pending"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Sumika character-owned textual corpus; AV pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # GKM CORE 09 — SHIUN SUMIKA EVIDENCE / FALSIFICATION MATRIX

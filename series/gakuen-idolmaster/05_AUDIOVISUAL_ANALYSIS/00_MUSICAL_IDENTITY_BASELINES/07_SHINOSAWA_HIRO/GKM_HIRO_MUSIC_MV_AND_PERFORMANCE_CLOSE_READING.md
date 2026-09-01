@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_SHINOSAWA_HIRO_MUSIC_MV_PERFORMANCE
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "22 music/performance/derivative objects plus seven song commus; authored MV, 3DMV, full-mix, and derivative evidence kept distinct"
-supersedes: null
-superseded_by: null
+source_boundary: 22 music/performance/derivative objects plus seven song commus; authored MV, 3DMV, full-mix, and derivative evidence kept distinct
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shinosawa Hiro Music, MV, and Performance Close Reading"
-parent_authority: "GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shinosawa Hiro Music, MV, and Performance Close Reading
+parent_authority: GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # SHINOSAWA HIRO — MUSIC, MV, AND PERFORMANCE CLOSE READING

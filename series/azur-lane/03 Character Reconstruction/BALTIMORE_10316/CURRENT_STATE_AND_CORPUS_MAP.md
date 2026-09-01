@@ -7,9 +7,9 @@ status: canonical
 corpus_state: canonical_v1_frozen_with_open_upstream_remediation
 scope_character: BALTIMORE_10316
 semantic_authority: CN
-source_boundary: "Canonical BALTIMORE_10316 extracted corpus plus current reconstruction artifacts and JP audio analysis-pack state"
-supersedes: null
-superseded_by: null
+source_boundary: Canonical BALTIMORE_10316 extracted corpus plus current reconstruction artifacts and JP audio analysis-pack state
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

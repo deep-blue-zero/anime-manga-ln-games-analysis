@@ -3,41 +3,42 @@ series: IDOLY_PRIDE
 artifact_type: unit_longitudinal_ledger
 artifact_role: LEDGER
 scope: UNIT_TRINITYAILE
-unit: "TRINITYAiLE"
+unit: TRINITYAiLE
 member_codes:
-  - rui
-  - yu
-  - smr
+- rui
+- yu
+- smr
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-D-TRINITYAILE"
+phase: '2'
+tranche: P2-D-TRINITYAILE
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 TRINITYAiLE unit reconstruction across the frozen 2026-08-13 analytical snapshot. The union of the three canonical member occurrence indexes rui/yu/smr yields 170 deduplicated member-bearing routed bundles. Their exact all-three intersection yields 47 bundles: 7 unit-origin, 25 main-story, 10 event, 2 message, 2 specials/misc, and 1 card bundle. These are breadth/contradiction frontiers, not counts of substantive unit-state changes. Generated trinityaile.md contains 200 routing rows / 171 unique bundle IDs but is materially contaminated: 42 routed bundles contain none of Rui, Yu, or Sumire, while 41 genuine member-bearing bundles from the verified union are omitted. It is therefore quarantined as a non-authoritative convenience route. Load-bearing reconstruction inherits the source-native six-origin freeze, the three canonical P2-B4 character ledgers, the Rui/Makino P2-C relationship ledger where relevant, and directly retests later Tokyo, Stellar, event, and creative-governance material. No post-snapshot source is admitted."
+source_boundary: 'Phase-2 TRINITYAiLE unit reconstruction across the frozen 2026-08-13 analytical snapshot. The union of the three canonical member occurrence indexes rui/yu/smr yields 170 deduplicated member-bearing routed bundles. Their exact all-three intersection yields 47 bundles: 7 unit-origin, 25 main-story, 10 event, 2 message, 2 specials/misc, and 1 card bundle. These are breadth/contradiction frontiers, not counts of substantive unit-state changes. Generated trinityaile.md contains 200 routing rows / 171 unique bundle IDs but is materially contaminated: 42 routed bundles contain none of Rui, Yu, or Sumire, while 41 genuine member-bearing bundles from the verified union are omitted. It is therefore quarantined as a non-authoritative convenience route. Load-bearing reconstruction inherits the source-native six-origin freeze, the three canonical P2-B4 character ledgers, the Rui/Makino P2-C relationship ledger where relevant, and directly retests later Tokyo, Stellar, event, and creative-governance
+  material. No post-snapshot source is admitted.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE1B_TRINITYAILE_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
-  - IDOLY_PRIDE_V2_CHAR_RUI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_YU_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_SUMIRE_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_RUI_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE1B_TRINITYAILE_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
+- IDOLY_PRIDE_V2_CHAR_RUI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_YU_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_SUMIRE_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_RUI_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_D_TRINITYAILE_PASS
-created: "2026-08-25"
-updated: "2026-08-25"
-next_operation: "P2-D — IIIX unit longitudinal ledger"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-25'
+updated: '2026-08-25'
+next_operation: P2-D — IIIX unit longitudinal ledger
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — TRINITYAILE UNIT LONGITUDINAL LEDGER

@@ -5,24 +5,26 @@ artifact_role: CHECKPOINT
 scope: POST_PHASE1_BOND_B3
 filename: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B3_BASELINE.md
 generation: V2
-version: "1.0"
-status: canonical
-phase: "1"
+version: '1.0'
+status: superseded
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Tier-A complete + all 60 events as previously frozen + B1-A/B2-A/B2-B bonds + B3 support bonds bond_aoi_001_aoi, bond_chs_001_chs, bond_kkr_001_kkr, bond_ngs_001_ngs, bond_suz_001_suz; B4 remains indexed texture; specials/cards/messages not yet admitted by V2 audit."
+source_boundary: Tier-A complete + all 60 events as previously frozen + B1-A/B2-A/B2-B bonds + B3 support bonds bond_aoi_001_aoi, bond_chs_001_chs, bond_kkr_001_kkr, bond_ngs_001_ngs, bond_suz_001_suz; B4 remains indexed texture; specials/cards/messages not yet admitted by V2 audit.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B2B_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1_BOND_B3_CLOSE_READ_AUDIT.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1_BOND_B3_PRIMARY_FINDINGS_FREEZE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1_BOND_CLOSE_READ_QUEUE.md
-supersedes: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B2B_BASELINE.md
-superseded_by: null
-do_not_use_as_current_authority: false
+supersedes:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1_POST_BOND_B2B_BASELINE.md
+superseded_by:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1A_BASELINE.md
+do_not_use_as_current_authority: true
 integrity_status: FROZEN_POST_BOND_B3_REFERENCE_BEFORE_REMAINING_LOWER_TIER_SAMPLING
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 lower-tier sampling/routing beyond mandatory bonds"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: Phase 1 lower-tier sampling/routing beyond mandatory bonds
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — POST-BOND B3 GOVERNING BASELINE

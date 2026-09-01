@@ -1,20 +1,20 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: deep_reading
 scope: V09
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 9 only; prospective observational boundary V01-V09"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 9 only; prospective observational boundary V01-V09
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 09 [Japanese].cbz"
-source_drive_id: "1Q3D5bO7ntvP9Gx54L1HzZx45iDJVl97v"
-source_sha256: "e7ecec82d665f465fe6f90ba7ba946f335fbcdb9bb169b586f838f9a905cbfb4"
+source_file: One Punch Man - Volume 09 [Japanese].cbz
+source_drive_id: 1Q3D5bO7ntvP9Gx54L1HzZx45iDJVl97v
+source_sha256: e7ecec82d665f465fe6f90ba7ba946f335fbcdb9bb169b586f838f9a905cbfb4
 source_images: 216
-method: "OPM_ANALYTICAL_METHOD_V2.md"
+method: OPM_ANALYTICAL_METHOD_V2.md
 prospective_prior_boundary: V08
 created: 2026-08-24
 ---

@@ -4,11 +4,11 @@ artifact_type: audit
 scope: CHARACTER_KATSURAGI_LILJA_PHASE3_CORE
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0; audiovisual inspection pending"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0; audiovisual inspection pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # GKM PHASE 3 - KATSURAGI LILJA DELIVERY AUDIT

@@ -4,11 +4,11 @@ artifact_type: deep_reading
 scope: V06_SS
 generation: V1
 status: historical_legacy
-source_boundary: "Kakuyomu「不平と不満と白川亜美」"
-supersedes: null
-superseded_by: null
+source_boundary: Kakuyomu「不平と不満と白川亜美」
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-provenance: "Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md"
+provenance: Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md
 ---
 
 # SHUUKURA V06 SS — 「不平と不満と白川亜美」

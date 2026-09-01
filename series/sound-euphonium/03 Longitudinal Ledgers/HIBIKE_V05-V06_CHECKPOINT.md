@@ -4,9 +4,9 @@ artifact_type: checkpoint
 scope: V05-V06
 generation: V2
 status: canonical
-source_boundary: "Locked Japanese EPUBs HIBIKE-V05 and HIBIKE-V06: 『立華高校マーチングバンドへようこそ 前編／後編』"
-supersedes: null
-superseded_by: null
+source_boundary: 'Locked Japanese EPUBs HIBIKE-V05 and HIBIKE-V06: 『立華高校マーチングバンドへようこそ 前編／後編』'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

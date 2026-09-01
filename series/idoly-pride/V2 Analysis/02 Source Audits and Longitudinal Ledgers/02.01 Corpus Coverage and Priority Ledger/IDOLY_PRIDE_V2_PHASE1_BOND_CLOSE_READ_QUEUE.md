@@ -3,22 +3,22 @@ series: IDOLY_PRIDE
 generation: V2
 status: canonical
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-created: "2026-08-16"
-updated: "2026-08-16"
-supersedes: null
-superseded_by: null
+created: '2026-08-16'
+updated: '2026-08-16'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 artifact_type: close_read_queue
 artifact_role: SOURCE_INVENTORY
 scope: PHASE1_BOND_CLOSE_READ_QUEUE
 filename: IDOLY_PRIDE_V2_PHASE1_BOND_CLOSE_READ_QUEUE.md
-source_boundary: "Routing derived from all 20 raw bond bundles / 160 granular stories against the frozen post-E4 Tier-A + event model; no bond claims admitted."
+source_boundary: Routing derived from all 20 raw bond bundles / 160 granular stories against the frozen post-E4 Tier-A + event model; no bond claims admitted.
 inherits: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E4_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1_BOND_PRIORITY_AND_SAMPLING_AUDIT.md
 integrity_status: FROZEN_ROUTING_QUEUE_BEFORE_BOND_CLOSE_READS
-next_operation: "Phase 1 Bond Close Read — B1-A: Private identity, inheritance, and future vocation"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+next_operation: 'Phase 1 Bond Close Read — B1-A: Private identity, inheritance, and future vocation'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 BOND CLOSE-READ QUEUE

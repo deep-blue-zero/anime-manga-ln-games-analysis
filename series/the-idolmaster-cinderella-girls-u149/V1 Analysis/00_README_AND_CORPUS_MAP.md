@@ -1,10 +1,10 @@
 ---
-series: "U149"
-artifact_type: "corpus_map"
-scope: "V1"
-generation: "V1"
-status: "canonical"
-source_boundary: "Transcript-derived U149 anime analysis; E01-E09 + OVA standalone readings and E01-E12+OVA full-series synthesis"
+series: U149
+artifact_type: corpus_map
+scope: V1
+generation: V1
+status: canonical
+source_boundary: Transcript-derived U149 anime analysis; E01-E09 + OVA standalone readings and E01-E12+OVA full-series synthesis
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

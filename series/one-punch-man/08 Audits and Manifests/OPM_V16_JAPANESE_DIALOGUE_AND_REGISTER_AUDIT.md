@@ -4,12 +4,12 @@ artifact_type: japanese_dialogue_register_audit
 scope: V16
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 16"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 16
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_drive_id: "1Mv1TO0onrDpN90J1LX5-AdeV9oF8_G6y"
-source_sha256: "d3f1451ea83f7d0a75f434369f6baca5f10b163b95bb6e32a64b42fe28ee876c"
+source_drive_id: 1Mv1TO0onrDpN90J1LX5-AdeV9oF8_G6y
+source_sha256: d3f1451ea83f7d0a75f434369f6baca5f10b163b95bb6e32a64b42fe28ee876c
 created: 2026-08-26
 ---
 

@@ -5,24 +5,26 @@ artifact_role: CHECKPOINT
 scope: POST_PHASE1_BOND_B1A
 filename: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B1A_BASELINE.md
 generation: V2
-version: "1.0"
-status: canonical
-phase: "1"
+version: '1.0'
+status: superseded
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Tier-A complete + all 60 events routed/admitted as previously frozen + B1-A bonds bond_kan_001_kan, bond_ktn_001_ktn, and bond_kor_001_kor; no B2/B3/B4 bond claims, specials, unaudited cards, or messages admitted."
+source_boundary: Tier-A complete + all 60 events routed/admitted as previously frozen + B1-A bonds bond_kan_001_kan, bond_ktn_001_ktn, and bond_kor_001_kor; no B2/B3/B4 bond claims, specials, unaudited cards, or messages admitted.
 inherits: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E4_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1_BOND_B1A_CLOSE_READ_AUDIT.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1_BOND_B1A_PRIMARY_FINDINGS_FREEZE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1_BOND_CLOSE_READ_QUEUE.md
-supersedes: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E4_BASELINE.md
-superseded_by: null
-do_not_use_as_current_authority: false
+supersedes:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E4_BASELINE.md
+superseded_by:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1_POST_BOND_B2A_BASELINE.md
+do_not_use_as_current_authority: true
 integrity_status: FROZEN_POST_BOND_B1A_REFERENCE_BEFORE_B2A
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 Bond Close Read — B2-A: Manager, public/private, and professional self"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: 'Phase 1 Bond Close Read — B2-A: Manager, public/private, and professional self'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — POST-BOND B1-A GOVERNING BASELINE

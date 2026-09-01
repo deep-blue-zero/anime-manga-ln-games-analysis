@@ -5,15 +5,15 @@ ledger_type: open_questions
 scope: V01-V13
 generation: V1
 status: active_provisional
-source_boundary: "Japanese numbered light novels read through V13"
+source_boundary: Japanese numbered light novels read through V13
 current_reading_boundary: V13
-checkpoint_freeze: "IMOSAE_V10-V12_CHECKPOINT.md"
+checkpoint_freeze: IMOSAE_V10-V12_CHECKPOINT.md
 checkpoint_state: frozen
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.16"
-date: "2026-08-20"
+version: '1.16'
+date: '2026-08-20'
 ---
 
 # IMOSAE Open Questions Ledger

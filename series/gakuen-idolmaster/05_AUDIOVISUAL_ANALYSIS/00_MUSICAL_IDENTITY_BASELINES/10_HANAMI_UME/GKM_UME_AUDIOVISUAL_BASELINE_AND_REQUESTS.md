@@ -2,14 +2,15 @@
 series: GKM
 artifact_type: audiovisual_request_register
 scope: CHARACTER_HANAMI_UME_PHASE3_AV_BASELINE
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 status: superseded
-source_boundary: "Historical acquisition register; superseded after completion of the 21-object Phase-3 Ume integrated AV R1 packet"
-supersedes: null
-superseded_by: "GKM_UME_COMPLETE_AUDIOVISUAL_BASELINE.md"
+source_boundary: Historical acquisition register; superseded after completion of the 21-object Phase-3 Ume integrated AV R1 packet
+supersedes: []
+superseded_by:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/10_HANAMI_UME/GKM_UME_COMPLETE_AUDIOVISUAL_BASELINE.md
 do_not_use_as_current_authority: true
-last_updated: "2026-08-19"
+last_updated: '2026-08-19'
 ---
 
 # HANAMI UME — AUDIOVISUAL BASELINE AND WHOLE-VIDEO REQUEST PACKET

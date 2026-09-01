@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: V08
 generation: V1
 status: canonical
-source_boundary: "Japanese digital tankobon Volume 8; CH35-CH38 plus in-volume side story `ゆらめき` and drawn bonus `おぼえてる`; afterword/edition extras/colophon classified separately"
-source_sha256: "d919a55f384d336a0ab8aafbf71e49876a2aef9febc3dc5704ec082bd78b9154"
+source_boundary: Japanese digital tankobon Volume 8; CH35-CH38 plus in-volume side story `ゆらめき` and drawn bonus `おぼえてる`; afterword/edition extras/colophon classified separately
+source_sha256: d919a55f384d336a0ab8aafbf71e49876a2aef9febc3dc5704ec082bd78b9154
 prospective_boundary_before: V07
 prospective_boundary_after: V08
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

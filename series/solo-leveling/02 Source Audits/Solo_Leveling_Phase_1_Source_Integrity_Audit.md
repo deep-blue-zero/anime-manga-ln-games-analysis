@@ -1,9 +1,9 @@
 ---
-title: "Solo Leveling — Phase 1 Source Integrity Audit"
-date: "2026-08-11"
-project: "Solo Leveling definitive Korean novel–English manhwa synthesis"
+title: Solo Leveling — Phase 1 Source Integrity Audit
+date: '2026-08-11'
+project: Solo Leveling definitive Korean novel–English manhwa synthesis
 phase: 1
-source_status_label: "CBZ audit complete; Korean omnibus corpus-boundary audit revalidated from preserved raw-source audit; current-session EPUB remount pending"
+source_status_label: CBZ audit complete; Korean omnibus corpus-boundary audit revalidated from preserved raw-source audit; current-session EPUB remount pending
 status: canonical
 supersedes: []
 superseded_by: []

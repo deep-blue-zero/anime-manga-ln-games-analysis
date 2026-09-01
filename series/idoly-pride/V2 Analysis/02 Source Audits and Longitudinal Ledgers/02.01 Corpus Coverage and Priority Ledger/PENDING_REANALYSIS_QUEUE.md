@@ -4,17 +4,17 @@ artifact_type: pending_reanalysis_queue
 artifact_role: LEDGER
 scope: LIVE_CORPUS_PENDING_REANALYSIS
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
+phase: '2'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "P2-0 initialization against the frozen Phase-1 snapshot. No post-baseline Class-2 or Class-3 source delta is admitted at creation."
-supersedes: null
-superseded_by: null
+source_boundary: P2-0 initialization against the frozen Phase-1 snapshot. No post-baseline Class-2 or Class-3 source delta is admitted at creation.
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: INITIALIZED_EMPTY_NO_CLASS2_CLASS3_PENDING
-created: "2026-08-16"
-updated: "2026-08-16"
+created: '2026-08-16'
+updated: '2026-08-16'
 ---
 
 # IDOLY PRIDE V2 — PENDING REANALYSIS QUEUE

@@ -1,14 +1,14 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: deep_reading
 scope: V03
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 3; Drive CBZ SHA-256 16a01d325ab2cbc5f69b02127c3fb4c74eb3b672f73a06edb7acb0157b08c511"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 3; Drive CBZ SHA-256 16a01d325ab2cbc5f69b02127c3fb4c74eb3b672f73a06edb7acb0157b08c511
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-08-24

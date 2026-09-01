@@ -4,22 +4,24 @@ artifact_type: deep_reading
 scope: E05
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; GBC_ep05_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass"
-supersedes: "GBC_E05_DEEP_READING.md@V1 (Drive ID 1ZY9mIOxhGcqTu6AWZL9LRE5aziLxZ-G2) as current E05 interpretive authority; V1 remains immutable historical provenance"
-superseded_by: null
+source_boundary: GBC-V2-SOURCE-LOCK-1.0; GBC_ep05_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 source_lock: GBC-V2-SOURCE-LOCK-1.0
 primary_source_drive_id: 1sbmAhwBi9zeBjQ8cjcf8qg8ykB0ptq4L
 v1_historical_counterpart_drive_id: 1ZY9mIOxhGcqTu6AWZL9LRE5aziLxZ-G2
-prior_checkpoint: "GBC_E01-E04_CHECKPOINT.md (Drive ID 16iXdNHnx32EewWXeBNgS75sAKZtw3eWe; frozen)"
+prior_checkpoint: GBC_E01-E04_CHECKPOINT.md (Drive ID 16iXdNHnx32EewWXeBNgS75sAKZtw3eWe; frozen)
 episode_duration_seconds: 1421.13
 evidence_modalities:
-  - japanese_ass
-  - complete_audio
-  - dense_screenshots
-  - contact_sheets
+- japanese_ass
+- complete_audio
+- dense_screenshots
+- contact_sheets
 created: 2026-08-26
 updated: 2026-08-26
+legacy_supersession_notes:
+- 'legacy supersedes: GBC_E05_DEEP_READING.md@V1 (Drive ID 1ZY9mIOxhGcqTu6AWZL9LRE5aziLxZ-G2) as current E05 interpretive authority; V1 remains immutable historical provenance'
 ---
 
 # Girls Band Cry E05 - V2 Deep Reading

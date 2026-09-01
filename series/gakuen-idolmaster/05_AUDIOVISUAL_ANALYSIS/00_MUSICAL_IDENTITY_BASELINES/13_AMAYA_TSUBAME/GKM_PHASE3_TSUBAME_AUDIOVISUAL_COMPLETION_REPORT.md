@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: checkpoint
 scope: CHARACTER_AMAYA_TSUBAME_PHASE3_AV_COMPLETION
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Complete inspection of the staged Tsubame Phase-3 AV boundary"
-supersedes: null
-superseded_by: null
+source_boundary: Complete inspection of the staged Tsubame Phase-3 AV boundary
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-18"
-title: "GKM Phase 3 — Amaya Tsubame Audiovisual Completion Report"
+last_updated: '2026-08-18'
+title: GKM Phase 3 — Amaya Tsubame Audiovisual Completion Report
 ---
 
 # GKM PHASE 3 — AMAYA TSUBAME AUDIOVISUAL COMPLETION REPORT

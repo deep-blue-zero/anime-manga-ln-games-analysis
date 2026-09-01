@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_AMAYA_TSUBAME_PHASE3_CORE_PASS
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Tsubame complete character bundle"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Tsubame complete character bundle
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # GKM PHASE 3 — AMAYA TSUBAME CORE PASS REPORT

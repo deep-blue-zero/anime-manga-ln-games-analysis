@@ -4,16 +4,16 @@ artifact_type: claim_revision_ledger
 scope: TAKAO_30311_JP_VOICE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "AZUR_LANE_TAKAO_JP_VOICE_PERFORMANCE_PROFILE.md V1; 114 mapped JP performed-voice utterances under JP client AZL 9.3.386 / CV 1243"
+source_boundary: AZUR_LANE_TAKAO_JP_VOICE_PERFORMANCE_PROFILE.md V1; 114 mapped JP performed-voice utterances under JP client AZL 9.3.386 / CV 1243
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 target_artifact: AZUR_LANE_TAKAO_CHARACTER_MONOGRAPH.md
 target_generation: V1
 target_status_at_review: active_provisional
 semantic_authority: CN
 performed_locale: JP
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

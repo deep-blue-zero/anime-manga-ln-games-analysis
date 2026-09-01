@@ -8,15 +8,19 @@ generation: V1
 status: canonical
 phase: R9
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "Taihou V1 claim history from R1-R8, integrating R3 H1-H10/N1-N5, R5 adversarial adjudication, R6 relationship-state conditioning, R7 regional textual realization, and R8 constrained-simulation validation. JP performed voice remains a separate OPEN_PARTIAL_SOURCE_MAPPING track."
+source_boundary: Taihou V1 claim history from R1-R8, integrating R3 H1-H10/N1-N5, R5 adversarial adjudication, R6 relationship-state conditioning, R7 regional textual realization, and R8 constrained-simulation validation. JP performed voice remains a separate OPEN_PARTIAL_SOURCE_MAPPING track.
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
 target_artifact: AZUR_LANE_TAIHOU_CHARACTER_MONOGRAPH.md
 target_drive_id: 1gyZInAjWxJnoKqpE2jaUFKu3EvqG_-AoacwnI-qOpzk
 performed_voice_status: open_partial_source_mapping
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

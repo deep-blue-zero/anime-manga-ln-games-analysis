@@ -4,7 +4,7 @@ artifact_type: analytical_method
 scope: FULL_SERIES_V01-V36
 generation: V2
 status: canonical
-source_boundary: "Original Japanese manga tankobon V01-V36 in the canonical Shokugeki primary-source root; per-volume publication boundaries preserved"
+source_boundary: Original Japanese manga tankobon V01-V36 in the canonical Shokugeki primary-source root; per-volume publication boundaries preserved
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

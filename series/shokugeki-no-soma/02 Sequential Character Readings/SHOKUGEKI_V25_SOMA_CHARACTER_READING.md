@@ -4,10 +4,10 @@ artifact_type: soma_character_reading
 scope: V25
 generation: V1
 status: canonical
-source_boundary: "Original Japanese manga Volume 25 mainline Chapters 209-217. The two-page applied-recipe appendix for Yukihira-style scorched soba is supplementary culinary paratext. The short 'いざ連隊食戟!! ～スタート直前 十傑側 控え室の様子～' is supplementary opponent-side comedy and supplies no direct Soma speech. Promotional, next-story, colophon, and cover backmatter are bibliographic only."
-source_file: "[附田祐斗×佐伯俊] 食戟のソーマ 第25巻.cbz"
-source_drive_id: "1FaQ2nMGT5Nkaqlro2SDPaP1gXEGSEBQ0"
-source_sha256: "c94b2664d6f77dad6fc10b726165b05e8d7ebe584ac1ab6d0719bf2bc285365a"
+source_boundary: Original Japanese manga Volume 25 mainline Chapters 209-217. The two-page applied-recipe appendix for Yukihira-style scorched soba is supplementary culinary paratext. The short 'いざ連隊食戟!! ～スタート直前 十傑側 控え室の様子～' is supplementary opponent-side comedy and supplies no direct Soma speech. Promotional, next-story, colophon, and cover backmatter are bibliographic only.
+source_file: '[附田祐斗×佐伯俊] 食戟のソーマ 第25巻.cbz'
+source_drive_id: 1FaQ2nMGT5Nkaqlro2SDPaP1gXEGSEBQ0
+source_sha256: c94b2664d6f77dad6fc10b726165b05e8d7ebe584ac1ab6d0719bf2bc285365a
 source_image_count: 197
 supersedes: []
 superseded_by: []

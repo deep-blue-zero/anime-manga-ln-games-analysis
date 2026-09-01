@@ -1,16 +1,16 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "evidence_and_locator_lock_audit"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: evidence_and_locator_lock_audit
+scope: V01-V14+ALTER1
 phase: 5
-generation: "V2"
-status: "canonical"
-lock_state: "PHASE5_LOCKED_V01_V14"
-date: "2026-08-15"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-supersedes: null
-superseded_by: null
+generation: V2
+status: canonical
+lock_state: PHASE5_LOCKED_V01_V14
+date: '2026-08-15'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

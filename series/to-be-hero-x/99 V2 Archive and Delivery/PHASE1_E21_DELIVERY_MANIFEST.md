@@ -5,11 +5,11 @@ scope: E21
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Episode 21 source bundle; E22 preview excluded; no E22+ story evidence used"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 21 source bundle; E22 preview excluded; no E22+ story evidence used
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Phase 1 E21 Delivery Manifest"
+title: To Be Hero X V2 — Phase 1 E21 Delivery Manifest
 ---
 
 # To Be Hero X V2 — Phase 1 E21 Delivery Manifest

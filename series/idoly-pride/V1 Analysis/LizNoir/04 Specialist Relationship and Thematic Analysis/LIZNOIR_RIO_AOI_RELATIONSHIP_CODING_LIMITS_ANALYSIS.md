@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "specialist_synthesis"
-scope: "LizNoir / Rio/Aoi coding limits"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived analysis over uploaded IDOLY PRIDE sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated"
+series: IDOLY_PRIDE
+artifact_type: specialist_synthesis
+scope: LizNoir / Rio/Aoi coding limits
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived analysis over uploaded IDOLY PRIDE sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md
 source_turn: 26
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated'
 ---
 
 They **strengthen the yuri-coded read**, but they also **prevent it from becoming a simple “Rio/Aoi are canonically just a couple” reading**. The prior Rio material gives a more specific answer: Rio and Aoi are written as a **foundational stage-marriage / old-partner dyad**, while Rio’s manager material is written as **romantic-comedy intimacy, trust, and possible player-facing tension**. Those two modes coexist rather than cancel each other.

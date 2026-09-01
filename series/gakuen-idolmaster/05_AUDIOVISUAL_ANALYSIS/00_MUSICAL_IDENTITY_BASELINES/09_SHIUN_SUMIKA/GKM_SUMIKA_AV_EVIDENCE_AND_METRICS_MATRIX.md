@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_SHIUN_SUMIKA_AV_EVIDENCE_MATRIX
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: canonical
-source_boundary: "22-logical-source staged Sumika AV packet plus Source Lock 1.0 textual control; all 22 logical sources directly inspected at the current boundary, with Dear 028–037 backfilled through an equivalent 720p30 direct-upload materialization"
-supersedes: null
-superseded_by: null
+source_boundary: 22-logical-source staged Sumika AV packet plus Source Lock 1.0 textual control; all 22 logical sources directly inspected at the current boundary, with Dear 028–037 backfilled through an equivalent 720p30 direct-upload materialization
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shiun Sumika AV Evidence and Metrics Matrix"
-parent_authority: "GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shiun Sumika AV Evidence and Metrics Matrix
+parent_authority: GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # SHIUN SUMIKA — AV EVIDENCE AND METRICS MATRIX

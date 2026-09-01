@@ -5,99 +5,99 @@ artifact_type: deep_reading
 scope: V30
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-24"
-source_boundary: "Japanese manga Volume 30, Chapters 119-122; spoiler boundary through Volume 30 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-24'
+source_boundary: Japanese manga Volume 30, Chapters 119-122; spoiler boundary through Volume 30 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "30"
-chapters: "119-122"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '30'
+chapters: 119-122
 chapter_titles:
-  - "第119話 兄と弟"
-  - "第120話 刹那"
-  - "第121話 未来の記憶"
-  - "第122話 二千年前の君から"
+- 第119話 兄と弟
+- 第120話 刹那
+- 第121話 未来の記憶
+- 第122話 二千年前の君から
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v30 (2019) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1i-VCalknPKVQ_BbsggXwXcXGrtd7-eC-"
-source_sha256: "15e7cad2e7460f80498e8f421ad8a134665d924be13d83715025f2afdfc89fee"
+source_file: Attack on Titan v30 (2019) (Digital SD) (KG Manga).cbz
+source_drive_id: 1i-VCalknPKVQ_BbsggXwXcXGrtd7-eC-
+source_sha256: 15e7cad2e7460f80498e8f421ad8a134665d924be13d83715025f2afdfc89fee
 source_size_bytes: 91795406
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 30 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 30 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_material_source: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
+prospective_material_source: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
 prospective_register_frozen_before_source_exposure: true
-previous_checkpoint: "AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md"
+previous_checkpoint: AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
 post_checkpoint_sequence_position: 3
-next_volume_boundary: "Volume 31 remains analytically locked until V30 integration is complete"
+next_volume_boundary: Volume 31 remains analytically locked until V30 integration is complete
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Zeke Jaeger / ジーク・イェーガー"
-  - "Grisha Jaeger / グリシャ・イェーガー"
-  - "Ymir Fritz / ユミル"
-  - "King Fritz / フリッツ王"
-  - "Falco Grice / ファルコ・グライス"
-  - "Colt Grice / コルト・グライス"
-  - "Porco Galliard / ポルコ・ガリアード"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Frieda Reiss / フリーダ・レイス"
-  - "Historia Reiss / ヒストリア・レイス"
+- Eren Jaeger / エレン・イェーガー
+- Zeke Jaeger / ジーク・イェーガー
+- Grisha Jaeger / グリシャ・イェーガー
+- Ymir Fritz / ユミル
+- King Fritz / フリッツ王
+- Falco Grice / ファルコ・グライス
+- Colt Grice / コルト・グライス
+- Porco Galliard / ポルコ・ガリアード
+- Reiner Braun / ライナー・ブラウン
+- Gabi Braun / ガビ・ブラウン
+- Frieda Reiss / フリーダ・レイス
+- Historia Reiss / ヒストリア・レイス
 major_topics:
-  - causal authorship and freedom
-  - future memory and recursive influence
-  - inherited command and hereditary sovereignty
-  - personhood versus instrumentality
-  - brotherhood and recognition without de-escalation
-  - reproductive coercion and dynastic infrastructure
-  - slavery, obedience, and chosen action
-  - historical testimony versus experienced memory
-  - birthright and the right to exist
-  - intergenerational responsibility
-  - the political use of bodies
-  - the beginning of the Rumbling
+- causal authorship and freedom
+- future memory and recursive influence
+- inherited command and hereditary sovereignty
+- personhood versus instrumentality
+- brotherhood and recognition without de-escalation
+- reproductive coercion and dynastic infrastructure
+- slavery, obedience, and chosen action
+- historical testimony versus experienced memory
+- birthright and the right to exist
+- intergenerational responsibility
+- the political use of bodies
+- the beginning of the Rumbling
 major_visual_motifs:
-  - severed head crossing the final distance to a brother
-  - black-field memory panels floating inside Paths
-  - spectators entering and altering the apparent memory frame
-  - Grisha's hand, knife, and Eren's gaze
-  - father/son embrace across temporal layers
-  - pointing hands surrounding Ymir
-  - the giant tree and the coordinate tree
-  - Ymir's body as imperial infrastructure
-  - cannibalized inheritance through daughters
-  - broken chains and physical embrace
-  - walls changing from enclosure into released military bodies
+- severed head crossing the final distance to a brother
+- black-field memory panels floating inside Paths
+- spectators entering and altering the apparent memory frame
+- Grisha's hand, knife, and Eren's gaze
+- father/son embrace across temporal layers
+- pointing hands surrounding Ymir
+- the giant tree and the coordinate tree
+- Ymir's body as imperial infrastructure
+- cannibalized inheritance through daughters
+- broken chains and physical embrace
+- walls changing from enclosure into released military bodies
 major_lexical_targets:
-  - 自由
-  - 生まれる
-  - 奴隷
-  - 神
-  - 人
-  - 決める
-  - 選ぶ
-  - 従う
-  - 記憶
-  - 未来
-  - 進撃の巨人
-  - 王家の血
-  - 兄さん
-  - 弟
-  - 終わり
+- 自由
+- 生まれる
+- 奴隷
+- 神
+- 人
+- 決める
+- 選ぶ
+- 従う
+- 記憶
+- 未来
+- 進撃の巨人
+- 王家の血
+- 兄さん
+- 弟
+- 終わり
 ---
 
 # 『進撃の巨人』Volume 30 Deep Reading

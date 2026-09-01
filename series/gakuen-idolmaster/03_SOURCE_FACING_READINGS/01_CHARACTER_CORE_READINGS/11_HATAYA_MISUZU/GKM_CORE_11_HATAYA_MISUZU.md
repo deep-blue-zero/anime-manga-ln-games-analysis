@@ -2,25 +2,25 @@
 series: GKM
 artifact_type: deep_reading
 scope: CHARACTER_HATAYA_MISUZU_PHASE3_CORE
-character: "Hataya Misuzu / 秦谷美鈴"
+character: Hataya Misuzu / 秦谷美鈴
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Misuzu complete character bundle (197 unique source objects / 5,018 dialogue messages), with legacy Gakumas analysis used only for claim-revision comparison; audiovisual evidence not yet inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Misuzu complete character bundle (197 unique source objects / 5,018 dialogue messages), with legacy Gakumas analysis used only for claim-revision comparison; audiovisual evidence not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 — Hataya Misuzu Phase-3 Character Core Deep Reading"
-version: "2.0"
-phase: "3 — Character-Core Readings"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
+title: Gakuen Idolmaster V2 — Hataya Misuzu Phase-3 Character Core Deep Reading
+version: '2.0'
+phase: 3 — Character-Core Readings
+source_lock: GAKUMAS V2 Source Lock 1.0
 continuity_tracks:
-  - P1[MISUZU]
-  - P2[MISUZU]
-  - P3-C[MISUZU]
-  - D-MISUZU
-  - M-MISUZU
-reasoning_route: "GPT-5.6 Sol — Extra High"
-last_updated: "2026-08-16"
+- P1[MISUZU]
+- P2[MISUZU]
+- P3-C[MISUZU]
+- D-MISUZU
+- M-MISUZU
+reasoning_route: GPT-5.6 Sol — Extra High
+last_updated: '2026-08-16'
 ---
 
 # GKM CORE 11 — HATAYA MISUZU / 秦谷美鈴

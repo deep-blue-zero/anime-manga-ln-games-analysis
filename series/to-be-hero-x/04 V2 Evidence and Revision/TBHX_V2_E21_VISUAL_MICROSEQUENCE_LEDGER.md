@@ -5,13 +5,13 @@ scope: E21
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Episode 21 screenshot/contact-sheet/audio bundle only; sponsor interstitial and explicit E22 preview excluded; E22+ story evidence not used"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 21 screenshot/contact-sheet/audio bundle only; sponsor interstitial and explicit E22 preview excluded; E22+ story evidence not used
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 21 Visual Microsequence Ledger"
-source_bundle: "BHX_s01e21_screenshots.zip"
-source_bundle_sha256: "80a2aa3af025ef70841fd37627adb17ebc6476f1a62b23d63d46c9b5e958a94f"
+title: To Be Hero X V2 — Episode 21 Visual Microsequence Ledger
+source_bundle: BHX_s01e21_screenshots.zip
+source_bundle_sha256: 80a2aa3af025ef70841fd37627adb17ebc6476f1a62b23d63d46c9b5e958a94f
 contact_sheet_count_physical: 49
 retained_screenshot_count: 976
 shot_change_count: 469

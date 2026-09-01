@@ -2,14 +2,16 @@
 project: DJFW
 artifact_type: baseline_comparison
 case_id: DJFW_CASE_0001
-franchise: "Lycoris Recoil"
-characters: ["Chisato Nishikigi", "Takina Inoue"]
+franchise: Lycoris Recoil
+characters:
+- Chisato Nishikigi
+- Takina Inoue
 generation: V1
 status: active_provisional
-baseline_readiness: "A-/B+"
-source_boundary: "Lycoris baseline resolved through active V2 corpus map, V2 method/architecture, prior full-series voice/relationship syntheses, and second-pass bonus/afterword inspection; no full OCR/transcription."
-supersedes: null
-superseded_by: null
+baseline_readiness: A-/B+
+source_boundary: Lycoris baseline resolved through active V2 corpus map, V2 method/architecture, prior full-series voice/relationship syntheses, and second-pass bonus/afterword inspection; no full OCR/transcription.
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

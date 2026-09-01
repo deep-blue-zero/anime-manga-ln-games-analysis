@@ -4,25 +4,27 @@ artifact_type: deep_reading
 scope: E09
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; GBC_ep09_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass"
-supersedes: "GBC_E09_DEEP_READING.md@V1 (Drive ID 1_Nn7LoajpBGXCaOqw78e1w4o4FAeF_X1) as current E09 interpretive authority; V1 remains immutable historical provenance"
-superseded_by: null
+source_boundary: GBC-V2-SOURCE-LOCK-1.0; GBC_ep09_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 source_lock: GBC-V2-SOURCE-LOCK-1.0
 primary_source_drive_id: 1eHMFvCzOMsLGG6ObBB6ZKu1E8i8WnjNs
 v1_historical_counterpart_drive_id: 1_Nn7LoajpBGXCaOqw78e1w4o4FAeF_X1
-prior_checkpoint: "GBC_E05-E08_CHECKPOINT.md (Drive ID 1cfRaFb17hybpEJpH5bo4UUuEeZbdBfQU; frozen)"
-prior_canonical_episode: "GBC_E08_DEEP_READING.md (Drive ID 1WbtdBNMW0uxGuG_HKO80HWizGOa6IWLX)"
-episode_duration_seconds: 1421.170
-held_out_cp2_result: "8 CONFIRM / 1 PARTIAL / 1 CONTRADICT / 17 NON-DIAGNOSTIC"
+prior_checkpoint: GBC_E05-E08_CHECKPOINT.md (Drive ID 1cfRaFb17hybpEJpH5bo4UUuEeZbdBfQU; frozen)
+prior_canonical_episode: GBC_E08_DEEP_READING.md (Drive ID 1WbtdBNMW0uxGuG_HKO80HWizGOa6IWLX)
+episode_duration_seconds: 1421.17
+held_out_cp2_result: 8 CONFIRM / 1 PARTIAL / 1 CONTRADICT / 17 NON-DIAGNOSTIC
 evidence_modalities:
-  - japanese_ass
-  - complete_audio
-  - dense_screenshots
-  - contact_sheets
+- japanese_ass
+- complete_audio
+- dense_screenshots
+- contact_sheets
 created: 2026-08-26
 updated: 2026-08-26
 next_operation: GBC_E10_DEEP_READING.md
+legacy_supersession_notes:
+- 'legacy supersedes: GBC_E09_DEEP_READING.md@V1 (Drive ID 1_Nn7LoajpBGXCaOqw78e1w4o4FAeF_X1) as current E09 interpretive authority; V1 remains immutable historical provenance'
 ---
 
 # Girls Band Cry E09 - V2 Deep Reading

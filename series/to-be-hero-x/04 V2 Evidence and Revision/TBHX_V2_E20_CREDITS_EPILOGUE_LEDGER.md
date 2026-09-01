@@ -9,16 +9,16 @@ version: 1.0-provisional
 generation: V2
 status: canonical
 freeze_state: motion_audio_audit_pending
-source_boundary: "Episode 20 credits and post-credit scene; E21 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 20 credits and post-credit scene; E21 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 20 Credits and Epilogue Ledger"
-source_bundle: "BHX_s01e20_screenshots.zip"
-source_bundle_sha256: "21ca6d7aee6d000bc9e195e58976e3b511738c365c871f53853d785f6c3792d6"
-canonical_parent: "TBHX_V2_E20_DEEP_READING.md"
-credits_start_seconds: 1285.250
-credits_end_seconds: 1465.870
+title: To Be Hero X V2 — Episode 20 Credits and Epilogue Ledger
+source_bundle: BHX_s01e20_screenshots.zip
+source_bundle_sha256: 21ca6d7aee6d000bc9e195e58976e3b511738c365c871f53853d785f6c3792d6
+canonical_parent: TBHX_V2_E20_DEEP_READING.md
+credits_start_seconds: 1285.25
+credits_end_seconds: 1465.87
 postcredit_end_seconds: 1482.833
 ---
 

@@ -4,9 +4,9 @@ artifact_type: deep_reading
 scope: V38
 generation: V2
 status: canonical
-source_boundary: "Japanese manga Volume 38 through V38:p203"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga Volume 38 through V38:p203
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

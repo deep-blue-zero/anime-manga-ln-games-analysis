@@ -3,36 +3,36 @@ series: IDOLY_PRIDE
 artifact_type: longitudinal_ledger
 artifact_role: LEDGER
 scope: CHAR_RUI
-character: "Tendo Rui"
-character_japanese: "天動瑠依"
+character: Tendo Rui
+character_japanese: 天動瑠依
 character_code: rui
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-B4-RUI"
-unit: "TRINITYAiLE"
+phase: '2'
+tranche: P2-B4-RUI
+unit: TRINITYAiLE
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 longitudinal reconstruction of Tendo Rui across the complete Phase-1-routed snapshot: all 102 Rui-bearing bundles in the frozen occurrence frontier; all six TRINITYAiLE origin bundles; admitted Tokyo and Stellar main-story material; Phase-1 event, bond, and card close-read findings; Rui direct bond/card/message evidence where required; lower-priority cards/messages/specials retained as contradiction and continuity checks rather than exhaustively converted into lifestyle/preference prose because holistic experiential extraction is deferred to Phase 8.5. The Phase-1 formal-dependency boundary around the unresolved Rui festival-card telephone continuation remains in force."
+source_boundary: 'Phase-2 longitudinal reconstruction of Tendo Rui across the complete Phase-1-routed snapshot: all 102 Rui-bearing bundles in the frozen occurrence frontier; all six TRINITYAiLE origin bundles; admitted Tokyo and Stellar main-story material; Phase-1 event, bond, and card close-read findings; Rui direct bond/card/message evidence where required; lower-priority cards/messages/specials retained as contradiction and continuity checks rather than exhaustively converted into lifestyle/preference prose because holistic experiential extraction is deferred to Phase 8.5. The Phase-1 formal-dependency boundary around the unresolved Rui festival-card telephone continuation remains in force.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_B4_RUI_PASS
-created: "2026-08-19"
-updated: "2026-08-19"
-next_operation: "P2-B4 - IDOLY_PRIDE_V2_CHAR_YU_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-19'
+updated: '2026-08-19'
+next_operation: P2-B4 - IDOLY_PRIDE_V2_CHAR_YU_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 - TENDO RUI LONGITUDINAL LEDGER

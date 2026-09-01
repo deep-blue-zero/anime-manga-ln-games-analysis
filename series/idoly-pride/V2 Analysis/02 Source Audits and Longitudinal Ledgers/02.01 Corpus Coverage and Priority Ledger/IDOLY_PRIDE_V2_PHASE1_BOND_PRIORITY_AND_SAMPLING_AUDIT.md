@@ -3,21 +3,21 @@ series: IDOLY_PRIDE
 generation: V2
 status: canonical
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-created: "2026-08-16"
-updated: "2026-08-16"
-supersedes: null
-superseded_by: null
+created: '2026-08-16'
+updated: '2026-08-16'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 artifact_type: source_audit
 artifact_role: AUDIT
 scope: PHASE1_BOND_PRIORITY_AND_SAMPLING
 filename: IDOLY_PRIDE_V2_PHASE1_BOND_PRIORITY_AND_SAMPLING_AUDIT.md
-source_boundary: "Frozen post-E4 analytical authority + all 20 raw bond bundles / 160 granular bond stories for routing only; no bond proposition admitted into the governing analytical baseline by this audit."
+source_boundary: Frozen post-E4 analytical authority + all 20 raw bond bundles / 160 granular bond stories for routing only; no bond proposition admitted into the governing analytical baseline by this audit.
 inherits: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E4_BASELINE.md
 integrity_status: ROUTING_ONLY_RERANK_NO_BOND_CLAIMS_ADMITTED
-next_operation: "Phase 1 Bond Close Read — B1-A: Private identity, inheritance, and future vocation"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+next_operation: 'Phase 1 Bond Close Read — B1-A: Private identity, inheritance, and future vocation'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 BOND STORY PRIORITY AND SAMPLING AUDIT

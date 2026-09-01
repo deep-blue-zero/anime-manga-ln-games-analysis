@@ -5,11 +5,11 @@ scope: V01-V14.5
 generation: V2
 status: canonical
 phase: 5
-document_number: 07
+document_number: 7
 canonical_name: 07_HELPING_SELF_SACRIFICE_DEPENDENCY_AND_AUTONOMY.md
-source_boundary: "Japanese-primary mainline light-novel corpus Volumes 1-14 plus canonical .5 volumes and chronology-routed Watari-authored supplementary material already admitted by the V2 corpus map; anthology story content, Shin, Ketsu, and adaptation-only evidence are excluded from governing this synthesis unless explicitly marked as contextual"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-primary mainline light-novel corpus Volumes 1-14 plus canonical .5 volumes and chronology-routed Watari-authored supplementary material already admitted by the V2 corpus map; anthology story content, Shin, Ketsu, and adaptation-only evidence are excluded from governing this synthesis unless explicitly marked as contextual
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: OREGAIRU_V2_ANALYTICAL_METHOD.md
 governing_architecture: OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
@@ -19,17 +19,17 @@ dependency_spine: OREGAIRU_V2_DEPENDENCY_AUTONOMY_LEDGER.md
 conceptual_predecessor: 06_THE_GENUINE_AUTHENTICITY_PERFORMANCE_AND_MIXED_MOTIVES.md
 relationship_predecessor: 05_THE_SERVICE_CLUB_TRIAD_RELATIONSHIP_AND_ROMANTIC_CHOICE.md
 depends_on:
-  - 02_HIKIGAYA_HACHIMAN_NARRATION_SELF_DECEPTION_AND_GROWTH.md
-  - 03_YUKINOSHITA_YUKINO_SELFHOOD_COMPETENCE_FAMILY_AND_DESIRE.md
-  - 04_YUIGAHAMA_YUI_ATMOSPHERE_ACCOMMODATION_DESIRE_AND_LOSS.md
-  - OREGAIRU_V2_CHARACTER_STATE_LEDGER.md
-  - OREGAIRU_V2_RELATIONSHIP_STATE_LEDGER.md
-  - OREGAIRU_V2_AUTHENTICITY_HONMONO_LEDGER.md
-  - OREGAIRU_V2_SOCIAL_ROLE_PERFORMANCE_LEDGER.md
-  - OREGAIRU_V2_JAPANESE_VOICE_LEDGER.md
-  - OREGAIRU_V2_PRIMARY_SOURCE_LOCATOR_LEDGER.md
-  - OREGAIRU_V2_V1_TO_V2_REVISION_LEDGER.md
-created: "2026-08-16"
+- 02_HIKIGAYA_HACHIMAN_NARRATION_SELF_DECEPTION_AND_GROWTH.md
+- 03_YUKINOSHITA_YUKINO_SELFHOOD_COMPETENCE_FAMILY_AND_DESIRE.md
+- 04_YUIGAHAMA_YUI_ATMOSPHERE_ACCOMMODATION_DESIRE_AND_LOSS.md
+- OREGAIRU_V2_CHARACTER_STATE_LEDGER.md
+- OREGAIRU_V2_RELATIONSHIP_STATE_LEDGER.md
+- OREGAIRU_V2_AUTHENTICITY_HONMONO_LEDGER.md
+- OREGAIRU_V2_SOCIAL_ROLE_PERFORMANCE_LEDGER.md
+- OREGAIRU_V2_JAPANESE_VOICE_LEDGER.md
+- OREGAIRU_V2_PRIMARY_SOURCE_LOCATOR_LEDGER.md
+- OREGAIRU_V2_V1_TO_V2_REVISION_LEDGER.md
+created: '2026-08-16'
 next_artifact: 08_SOCIAL_SYSTEMS_REPUTATION_GROUPS_AND_SCHOOL_POLITICS.md
 ---
 

@@ -5,14 +5,14 @@ scope: E22
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Chinese-original audiovisual Episode 22; prospective knowledge boundary E01-E22; Episode 23 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Chinese-original audiovisual Episode 22; prospective knowledge boundary E01-E22; Episode 23 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 primary_language: Mandarin Chinese
 secondary_witness: Japanese aligned subtitles
 motion_audit_status: complete
-title: "To Be Hero X V2 — Episode 22 Deep Reading"
+title: To Be Hero X V2 — Episode 22 Deep Reading
 ---
 
 # To Be Hero X V2 — Episode 22 Deep Reading

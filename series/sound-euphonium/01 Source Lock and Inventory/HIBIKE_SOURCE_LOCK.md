@@ -4,9 +4,9 @@ artifact_type: source_lock
 scope: V2_PHASE1_INITIAL_LOCK
 generation: V2
 status: canonical
-source_boundary: "Immutable initial Phase-1 lock: Japanese EPUB sources HIBIKE-V01 through HIBIKE-V14 by filename and SHA-256; supplemental/adaptation evidence governed by explicit classifications below"
-supersedes: null
-superseded_by: null
+source_boundary: 'Immutable initial Phase-1 lock: Japanese EPUB sources HIBIKE-V01 through HIBIKE-V14 by filename and SHA-256; supplemental/adaptation evidence governed by explicit classifications below'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

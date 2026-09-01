@@ -5,42 +5,42 @@ artifact_role: DEEP_READING
 scope: S2E07
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S2E07 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S2E07 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 2
 episode: 7
-episode_title_japanese: "UR 葉月恋"
-episode_title_english: "UR Hazuki Ren"
-episode_title_source: "clean retained source frame at 00:03:05.960 directly displays #07 UR 葉月恋; embedded English signs provide Hazuki Ren for identifying metadata only"
+episode_title_japanese: UR 葉月恋
+episode_title_english: UR Hazuki Ren
+episode_title_source: 'clean retained source frame at 00:03:05.960 directly displays #07 UR 葉月恋; embedded English signs provide Hazuki Ren for identifying metadata only'
 artifact_id: LLS_S2E07_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E06 as seven separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; institution, role-purity, co-bearing, creative-authority, relationship, voice, and character-model analysis"
+analysis_mode: sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E06 as seven separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; institution, role-purity, co-bearing, creative-authority, relationship, voice, and character-model analysis
 source_bundle: LLS_s02e07_screenshots.zip
 source_drive_id: 1ABphhaKnd3brMlkjneM0bSWFO0hRkW1h
 source_sha256: 13ed4318d43eae64006d647b0a00343b4ba7cafc3882a02f818cae22951753ac
 source_bytes: 179694542
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S2E07 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S2E07 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON1_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 prior_later_states:
-  - LLS_S2E01_DEEP_READING_V2.md
-  - LLS_S2E02_DEEP_READING_V2.md
-  - LLS_S2E03_DEEP_READING_V2.md
-  - LLS_S2E04_DEEP_READING_V2.md
-  - LLS_S2E05_DEEP_READING_V2.md
-  - LLS_S2E06_DEEP_READING_V2.md
+- LLS_S2E01_DEEP_READING_V2.md
+- LLS_S2E02_DEEP_READING_V2.md
+- LLS_S2E03_DEEP_READING_V2.md
+- LLS_S2E04_DEEP_READING_V2.md
+- LLS_S2E05_DEEP_READING_V2.md
+- LLS_S2E06_DEEP_READING_V2.md
 prior_later_state_drive_ids:
-  - 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
-  - 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
-  - 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
-  - 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
-  - 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
-  - 13pTTG9-OoXt9mkQE0MgpOrtZrvsaA7YE
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+- 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
+- 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
+- 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
+- 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
+- 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
+- 13pTTG9-OoXt9mkQE0MgpOrtZrvsaA7YE
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 929
 retained_frames: 865
 contact_sheets_reviewed: 46
@@ -64,16 +64,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 865 retained frames, 46 contact sheets, subtitle copies, visual montages, dialogue TSV, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 865 retained frames, 46 contact sheets, subtitle copies, visual montages, dialogue TSV, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S2E08_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

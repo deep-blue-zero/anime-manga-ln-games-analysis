@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V16 Deep Reading - 終物語（上）"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V16"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『終物語（上）』, supplied archive item 16 終物語 上.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V16 Deep Reading - 終物語（上）
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V16
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『終物語（上）』, supplied archive item 16 終物語 上.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V16_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V16"
-japanese_title: "終物語（上）"
-archive_position: "Final Season archive spine V16"
-source_file: "16 終物語 上.epub"
-source_drive_id: "1_w6IFMhH9hUM4MgDL3y3WjWEbVtutT56"
-source_sha256: "784a9a3a587939d24352981d3905c130c1df123fc85437c663d9bc529219f491"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V16_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V16
+japanese_title: 終物語（上）
+archive_position: Final Season archive spine V16
+source_file: 16 終物語 上.epub
+source_drive_id: 1_w6IFMhH9hUM4MgDL3y3WjWEbVtutT56
+source_sha256: 784a9a3a587939d24352981d3905c130c1df123fc85437c663d9bc529219f491
 source_size_bytes: 845712
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese transcription and represented October 21, 2013 first-print boundary; later calibre packaging is file-history metadata, not authenticated publisher electronic-edition evidence"
-principal_story_unit: "第一話 おうぎフォーミュラ / 第二話 そだちリドル / 第三話 そだちロスト"
-narrator: "阿良々木暦, under sustained interrogative pressure from 忍野扇, with independent corrections from 羽川翼, 老倉育, Araragi's parents, and 千石撫子"
-internal_story_range: "Late October of Araragi's third high-school year, reconstructing a July 15 class meeting two years earlier, a middle-school summer five years earlier, and an earlier childhood shelter episode approximately six years earlier"
-spoiler_policy: "Publication-local V16 claims are kept separate from V17 and later revelations. Ougi's ontology, the exact supernatural mechanism of the closed classroom, the full meaning of 'casting' and 'lost child,' and the contents of Oikura's final letter remain unresolved unless V16 itself establishes them."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese transcription and represented October 21, 2013 first-print boundary; later calibre packaging is file-history metadata, not authenticated publisher electronic-edition evidence
+principal_story_unit: 第一話 おうぎフォーミュラ / 第二話 そだちリドル / 第三話 そだちロスト
+narrator: 阿良々木暦, under sustained interrogative pressure from 忍野扇, with independent corrections from 羽川翼, 老倉育, Araragi's parents, and 千石撫子
+internal_story_range: Late October of Araragi's third high-school year, reconstructing a July 15 class meeting two years earlier, a middle-school summer five years earlier, and an earlier childhood shelter episode approximately six years earlier
+spoiler_policy: Publication-local V16 claims are kept separate from V17 and later revelations. Ougi's ontology, the exact supernatural mechanism of the closed classroom, the full meaning of 'casting' and 'lost child,' and the contents of Oikura's final letter remain unresolved unless V16 itself establishes them.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 - Volume 16 Deep Reading

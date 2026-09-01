@@ -7,11 +7,11 @@ generation: V1
 status: canonical
 analysis_mode: continuous_sequential
 run_scope: DJFW_CASE_0002-DJFW_CASE_0010
-source_boundary: "Full 70-page digital CBZ sequential visual review of telomereNA/Gustav, Maid Shujuu Lovers, with selective OCR limited to non-graphic afterword/colophon material. Governing character comparator is the mobile-game Nitta Minami corpus; 2015 anime continuity is excluded. Explicit material is summarized only at structural level."
+source_boundary: Full 70-page digital CBZ sequential visual review of telomereNA/Gustav, Maid Shujuu Lovers, with selective OCR limited to non-graphic afterword/colophon material. Governing character comparator is the mobile-game Nitta Minami corpus; 2015 anime continuity is excluded. Explicit material is summarized only at structural level.
 source_sha256: f6074812e1698da47918463a18ab9db789cb18066fdc62ce9a022abb3df48041
 source_pages: 70
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

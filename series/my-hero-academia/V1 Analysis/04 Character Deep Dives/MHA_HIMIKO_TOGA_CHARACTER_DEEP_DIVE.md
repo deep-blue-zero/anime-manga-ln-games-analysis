@@ -1,16 +1,18 @@
 ---
-series: "MHA"
-artifact_type: "character_monograph"
-scope: "Himiko Toga"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Full manga V1 reading through Volume 42"
-supersedes: null
-superseded_by: "MHA V2 character synthesis if/when emitted"
+series: MHA
+artifact_type: character_monograph
+scope: Himiko Toga
+generation: V1
+status: historical_legacy
+source_boundary: Full manga V1 reading through Volume 42
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - My Hero Academia deep dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - My Hero Academia deep dive - Full Transcript(1).md
 source_turn: 46
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: MHA V2 character synthesis if/when emitted'
 ---
 
 # Himiko Toga deep dive: love, blood, monstrosity, and the failed ethics of “normal”

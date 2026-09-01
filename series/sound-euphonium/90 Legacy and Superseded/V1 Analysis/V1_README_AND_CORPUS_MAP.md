@@ -3,10 +3,10 @@ series: SOUND_EUPHONIUM
 artifact_type: corpus_map
 scope: V1_ANALYSIS
 status: historical_legacy
-source_boundary: "V1 Sound! Euphonium novel analysis corpus, Volumes 1-10 plus full-series synthesis"
-supersedes: null
-superseded_by: null
-do_not_use_as_current_authority: false
+source_boundary: V1 Sound! Euphonium novel analysis corpus, Volumes 1-10 plus full-series synthesis
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: true
 ---
 
 # Sound! Euphonium — V1 Corpus Map

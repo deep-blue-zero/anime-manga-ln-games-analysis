@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: checkpoint
 scope: CHARACTER_JUO_SENA_PHASE3_CORE
-character: "Juo Sena / 十王星南"
+character: Juo Sena / 十王星南
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — 184 objects / 4,515 messages; eight Dear scenes checked against A1 raw ADV; legacy used only for claim transition; AV pending"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — 184 objects / 4,515 messages; eight Dear scenes checked against A1 raw ADV; legacy used only for claim transition; AV pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # GKM PHASE 3 — JUO SENA CORE PASS REPORT

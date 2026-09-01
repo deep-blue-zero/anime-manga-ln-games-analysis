@@ -1,16 +1,18 @@
 ---
-series: "MAEBASHI"
-artifact_type: "deep_reading"
-scope: "E08"
-generation: "V1"
-status: "canonical"
-source_boundary: "Maebashi Witches anime Episode 8; transcript-derived Japanese audiovisual bundle analysis"
+series: MAEBASHI
+artifact_type: deep_reading
+scope: E08
+generation: V1
+status: canonical
+source_boundary: Maebashi Witches anime Episode 8; transcript-derived Japanese audiovisual bundle analysis
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md"
-source_turns: [38, 48]
-authority_note: "When a later refinement in this file conflicts with an earlier section, the later refinement governs."
+source_transcript: Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md
+source_turns:
+- 38
+- 48
+authority_note: When a later refinement in this file conflicts with an earlier section, the later refinement governs.
 ---
 
 <!-- transcript_source_turn: 38 -->

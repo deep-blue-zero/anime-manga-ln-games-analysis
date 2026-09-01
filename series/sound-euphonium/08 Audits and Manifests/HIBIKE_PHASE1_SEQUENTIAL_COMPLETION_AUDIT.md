@@ -4,9 +4,9 @@ artifact_type: audit
 scope: PHASE1_SEQUENTIAL_COMPLETION
 generation: V2
 status: canonical
-source_boundary: "Initial locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14 plus canonical Phase-1 sequential readings, locators, checkpoints, cumulative ledgers, V1 crosswalk/revision ledger, and routing surfaces as audited 2026-08-22"
-supersedes: null
-superseded_by: null
+source_boundary: Initial locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14 plus canonical Phase-1 sequential readings, locators, checkpoints, cumulative ledgers, V1 crosswalk/revision ledger, and routing surfaces as audited 2026-08-22
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 audit_result: pass_after_reconciliation
 ---

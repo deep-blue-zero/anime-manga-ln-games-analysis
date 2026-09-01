@@ -1,19 +1,19 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: audit
 scope: V15
-scope_detail: "Japanese dialogue, lexical, register, and load-bearing claim audit"
+scope_detail: Japanese dialogue, lexical, register, and load-bearing claim audit
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 15 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 15 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 15 [Japanese].cbz"
-source_drive_id: "1ZFitym3BD5EPmylCKpLvlv5ByhGayDh9"
-source_sha256: "50a299e3e95c49a948fb1f6e55b0059054dcd3354ddb376d908dca4b5e7642fd"
+source_file: One Punch Man - Volume 15 [Japanese].cbz
+source_drive_id: 1ZFitym3BD5EPmylCKpLvlv5ByhGayDh9
+source_sha256: 50a299e3e95c49a948fb1f6e55b0059054dcd3354ddb376d908dca4b5e7642fd
 source_images: 218
 source_bytes: 61910873
 created: 2026-08-25

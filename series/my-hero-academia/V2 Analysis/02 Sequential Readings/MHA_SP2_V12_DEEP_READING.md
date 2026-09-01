@@ -6,9 +6,9 @@ scope: V12
 generation: V2
 method_generation: V2.1
 status: canonical
-source_boundary: "Japanese manga tankobon Volume 12, Chapters 100-108; narrative through V12:p187"
-source_drive_id: "1snKNM9Z1lko6PDImKDYcrCMjbxavVqkD"
-source_storage_policy: "Fetched temporarily from canonical Google Drive primary-source storage; local CBZ and extracted pages are disposable working material and are not part of the canonical analytical archive."
+source_boundary: Japanese manga tankobon Volume 12, Chapters 100-108; narrative through V12:p187
+source_drive_id: 1snKNM9Z1lko6PDImKDYcrCMjbxavVqkD
+source_storage_policy: Fetched temporarily from canonical Google Drive primary-source storage; local CBZ and extracted pages are disposable working material and are not part of the canonical analytical archive.
 primary_language: ja
 source_type: manga
 source_edition: japanese_tankobon
@@ -17,8 +17,8 @@ spoiler_scope: full_series_hindsight
 prospective_reading_preserved: true
 first_pass_comparison: true
 character_modeling_update: true
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

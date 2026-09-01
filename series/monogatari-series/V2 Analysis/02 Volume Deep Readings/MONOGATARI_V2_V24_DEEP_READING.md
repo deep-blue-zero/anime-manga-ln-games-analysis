@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V24 Deep Reading - 忍物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V24"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『忍物語』, supplied archive item 24 忍物語.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V24 Deep Reading - 忍物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V24
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『忍物語』, supplied archive item 24 忍物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V24_DEEP_READING"
-version: "1.0"
-date: "2026-08-17"
-volume_code: "V24"
-japanese_title: "忍物語"
-archive_position: "Monster Season archive spine V24; opening numbered Monster Season volume"
-source_file: "24 忍物語.epub"
-source_drive_id: "1rA_87UfAGm91MAcb4MwLz2l1NllBNfBL"
-source_sha256: "b0adea00b00c67cf592263e4a7c3ba49175f0b51a9c6743c9c8fafb64690e0ac"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V24_DEEP_READING
+version: '1.0'
+date: '2026-08-17'
+volume_code: V24
+japanese_title: 忍物語
+archive_position: Monster Season archive spine V24; opening numbered Monster Season volume
+source_file: 24 忍物語.epub
+source_drive_id: 1rA_87UfAGm91MAcb4MwLz2l1NllBNfBL
+source_sha256: b0adea00b00c67cf592263e4a7c3ba49175f0b51a9c6743c9c8fafb64690e0ac
 source_size_bytes: 3052365
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies a July 2017 Kodansha BOX print basis; electronic colophon identifies August 1, 2017 electronic issue. OPF/calibre timestamps are retained only as file-history metadata."
-principal_story_units: "第一話 しのぶマスタード"
-narrators: "§001 opens in third-person close focalization on 貼交帰依; §§002-050 return to 阿良々木暦 first-person during his first year at university"
-internal_story_range: "University-first-year Araragi, only a few months after high-school graduation and before/around first-year final examinations. The active case unfolds across roughly two to three days, while Suicide-Master's arrival and first encounter with Kie occurred about one week earlier. Exact civil date is not stated and must remain open."
-spoiler_policy: "Publication-local V24 conclusions may use and revise V01-V23 because V24 is the current publication boundary. V25 『宵物語』 and all later Monster/Family Season material are excluded except as explicitly quarantined future questions. Because V23 is internally later than V24, V23 may function as publication-prior retrospective evidence only; its adult outcomes must not be projected into V24 Araragi's character knowledge."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies a July 2017 Kodansha BOX print basis; electronic colophon identifies August 1, 2017 electronic issue. OPF/calibre timestamps are retained only as file-history metadata.
+principal_story_units: 第一話 しのぶマスタード
+narrators: §001 opens in third-person close focalization on 貼交帰依; §§002-050 return to 阿良々木暦 first-person during his first year at university
+internal_story_range: University-first-year Araragi, only a few months after high-school graduation and before/around first-year final examinations. The active case unfolds across roughly two to three days, while Suicide-Master's arrival and first encounter with Kie occurred about one week earlier. Exact civil date is not stated and must remain open.
+spoiler_policy: Publication-local V24 conclusions may use and revise V01-V23 because V24 is the current publication boundary. V25 『宵物語』 and all later Monster/Family Season material are excluded except as explicitly quarantined future questions. Because V23 is internally later than V24, V23 may function as publication-prior retrospective evidence only; its adult outcomes must not be projected into V24 Araragi's character knowledge.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 — Volume 24 Deep Reading

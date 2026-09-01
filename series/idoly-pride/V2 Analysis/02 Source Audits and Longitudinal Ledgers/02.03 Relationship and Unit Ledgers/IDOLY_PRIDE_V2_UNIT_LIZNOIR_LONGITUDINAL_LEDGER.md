@@ -3,43 +3,44 @@ series: IDOLY_PRIDE
 artifact_type: unit_longitudinal_ledger
 artifact_role: LEDGER
 scope: UNIT_LIZNOIR
-unit: "LizNoir"
+unit: LizNoir
 member_codes:
-  - rio
-  - aoi
-  - ai
-  - kkr
+- rio
+- aoi
+- ai
+- kkr
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-D-LIZNOIR"
+phase: '2'
+tranche: P2-D-LIZNOIR
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 LizNoir unit reconstruction across the frozen 2026-08-13 analytical snapshot. The union of the four canonical member occurrence indexes rio/aoi/ai/kkr yields 189 deduplicated member-bearing routed bundles. Their exact all-four intersection yields 24 bundles: 5 LizNoir unit origins, 9 events, 6 main-story bundles, 2 messages, 1 card, and 1 specials/misc bundle. These are breadth/contradiction frontiers, not counts of substantive unit-state changes. The generated liznoir.md group index contains 200 routing rows / 160 unique bundle IDs and introduces no off-unit bundles, but it omits 29 member-bearing bundles from the verified union; it is therefore retained as a useful semantic convenience route rather than treated as an exhaustive unit authority boundary. Load-bearing reconstruction inherits the source-native LizNoir origin freeze v1.1, directly reopens origins 001-008, Tokyo institutional and I-UNITY material, 2022/2023/2024/2025 unit events, Stellar exact-four competition, the four canonical P2-B3 character ledgers, and the Rio/Aoi P2-C relationship ledger. No post-snapshot source is admitted."
+source_boundary: 'Phase-2 LizNoir unit reconstruction across the frozen 2026-08-13 analytical snapshot. The union of the four canonical member occurrence indexes rio/aoi/ai/kkr yields 189 deduplicated member-bearing routed bundles. Their exact all-four intersection yields 24 bundles: 5 LizNoir unit origins, 9 events, 6 main-story bundles, 2 messages, 1 card, and 1 specials/misc bundle. These are breadth/contradiction frontiers, not counts of substantive unit-state changes. The generated liznoir.md group index contains 200 routing rows / 160 unique bundle IDs and introduces no off-unit bundles, but it omits 29 member-bearing bundles from the verified union; it is therefore retained as a useful semantic convenience route rather than treated as an exhaustive unit authority boundary. Load-bearing reconstruction inherits the source-native LizNoir origin freeze v1.1, directly reopens origins 001-008, Tokyo institutional and I-UNITY material, 2022/2023/2024/2025 unit events, Stellar exact-four
+  competition, the four canonical P2-B3 character ledgers, and the Rio/Aoi P2-C relationship ledger. No post-snapshot source is admitted.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE1B_LIZNOIR_ORIGIN_PRIMARY_FINDINGS_FREEZE_v1.1.md
-  - IDOLY_PRIDE_V2_CHAR_RIO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_AOI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_AI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_KOKORO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_RIO_AOI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE1B_LIZNOIR_ORIGIN_PRIMARY_FINDINGS_FREEZE_v1.1.md
+- IDOLY_PRIDE_V2_CHAR_RIO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_AOI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_AI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_KOKORO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_RIO_AOI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_D_LIZNOIR_PASS
-created: "2026-08-25"
-updated: "2026-08-25"
-next_operation: "P2-D — TRINITYAiLE unit longitudinal ledger"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-25'
+updated: '2026-08-25'
+next_operation: P2-D — TRINITYAiLE unit longitudinal ledger
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — LIZNOIR UNIT LONGITUDINAL LEDGER

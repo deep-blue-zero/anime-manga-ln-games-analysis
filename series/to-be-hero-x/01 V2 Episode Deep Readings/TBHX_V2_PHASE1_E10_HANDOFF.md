@@ -4,9 +4,9 @@ artifact_type: handoff
 scope: E10
 generation: V2
 status: active_provisional
-source_boundary: "Phase 1 complete through S01E10"
-supersedes: null
-superseded_by: null
+source_boundary: Phase 1 complete through S01E10
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -319,7 +319,7 @@ class AuthorityFrontMatterTests(unittest.TestCase):
                             f"series/example/{status}.md",
                         )
 
-    def test_partial_authority_quartet_fails_closed(self) -> None:
+    def test_partial_authority_quartet_is_unclassified_legacy_not_current(self) -> None:
         fields = {
             "status": "status: canonical",
             "supersedes": "supersedes: []",
@@ -335,13 +335,11 @@ class AuthorityFrontMatterTests(unittest.TestCase):
             lines.extend(["---", "# Partial", ""])
             data = "\n".join(lines).encode("utf-8")
             with self.subTest(omitted=omitted):
-                with self.assertRaisesRegex(DomainError, "quartet is incomplete"):
-                    parse_authority_front_matter(data, path)
+                self.assertIsNone(parse_authority_front_matter(data, path))
                 graph = AuthorityGraph(snapshot({path: data}))
-                self.assertEqual(graph.classification(path), "INVALID")
-                self.assertTrue(
-                    any("quartet is incomplete" in error for error in graph.errors)
-                )
+                self.assertEqual(graph.errors, [])
+                self.assertEqual(graph.classification(path), "UNCLASSIFIED_LEGACY")
+                self.assertFalse(graph.current_eligible(path))
 
     def test_missing_quartet_is_unclassified_legacy_not_current(self) -> None:
         documents = {
@@ -667,7 +665,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         current_expected = {
             "completed_gate": "G4",
             "current_gate": "G5_PROGRESSIVE_BULK_MIGRATION",
-            "current_subphase": "G5_T07_LEGEND_OF_THE_GALACTIC_HEROES_INTEGRATED",
+            "current_subphase": "G5_FINAL_AGGREGATE_MATERIALIZED_AND_RECONCILED_PRE_G8",
             "integrated_candidates": [
                 "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
                 "IDOLY_PRIDE_P02_SINGLE_LEDGER",
@@ -679,6 +677,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "BLUE_ARCHIVE_PROLOGUE_CHAPTER_1_AND_LONGITUDINAL_ANALYSIS_V1",
                 "YOUJO_SENKI_V2_ANALYTICAL_CORPUS_V1",
                 "LEGEND_OF_THE_GALACTIC_HEROES_FULL_PREFIX_V1",
+                "G5_FINAL_AGGREGATE_CORPUS",
             ],
             "integrated_reference_controls": [
                 "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY",
@@ -708,19 +707,20 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 ),
             },
             "g5_progress": {
-                "last_tranche": "G5_T07_LEGEND_OF_THE_GALACTIC_HEROES",
-                "run_id": "g5-t07-legend-of-the-galactic-heroes-20260901T133207Z",
-                "source_receipt_sha256": "52b54972987e4f5f5eaa78e8f64ccaa768d1f54b34d27f2f807500b420325a63",
-                "transformation_receipt_sha256": "d30dcb4b570458448ab3cc2912e04755564bdd3ed9efbbdc49b38771cddb4b4c",
-                "source_objects": 33,
-                "payload_paths": 20,
+                "last_tranche": "G5_FINAL_AGGREGATE_CORPUS",
+                "run_id": "g5-final-aggregate-20260901T190000Z",
+                "reconciliation_receipt_sha256": "c262bf5e0569c6bea571d08dae170af4bc5bcf268a340e5911fd7bd3d9db8f6f",
+                "exclusion_review_sha256": "8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8",
+                "source_objects": 5402,
+                "migrated_source_objects": 2650,
+                "materialized_representations": 2654,
                 "tracked_paths_after": len(
                     (
                         REPOSITORY_ROOT
                         / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
                     ).read_text(encoding="utf-8").splitlines()
                 ),
-                "status": "MATERIALIZED_VALIDATED_GIT_TRANCHE",
+                "status": "MATERIALIZED_VALIDATED_GIT_CANDIDATE_PRE_G8",
             },
         }
         for document in (self.scope, self.state):
@@ -772,26 +772,26 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
 
         prose = {
-            "README.md": ("G4 is closed", "G5 progressive bounded migration is active"),
+            "README.md": ("complete approved G5 text materialization", "Google Drive remains authoritative"),
             "governance/CHATGPT_AUTHORITY_AND_ROUTING.md": (
-                "G4 is closed",
-                "G5 progressive bounded migration is active",
+                "complete approved G5 text boundary is materialized",
+                "Google Drive remains the analytical authority",
             ),
             "governance/MANGA_ANIME_CORPUS_INDEX.md": (
-                "G4 closed",
-                "G5 progressive bounded migration active",
+                "fully materialized for the approved G5 text boundary",
+                "Analytical authority: Google Drive",
             ),
             "governance/policies/REPOSITORY_CONTROLS.md": (
                 "completed G4 representative pilots",
-                "active G5 progressive bounded migration",
+                "complete G5 text-boundary materialization",
             ),
             "series/README.md": (
-                "G4 is closed",
-                "G5 progressive bounded migration is active",
+                "complete approved G5 text materialization",
+                "NONAUTHORITATIVE_PRE_G8",
             ),
             "studies/README.md": (
-                "G4 is closed",
-                "G5 progressive bounded migration is active",
+                "complete approved G5 text materialization",
+                "nonauthoritative before G8",
             ),
         }
         for relative_path, expected_phrases in prose.items():
@@ -844,7 +844,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "UNLICENSED_PENDING_OWNER_DECISION",
         )
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
-        self.assertEqual(series_registry["status"], "PARTIAL_G5_MIGRATION_CANDIDATE")
+        self.assertEqual(series_registry["status"], "G5_COMPLETE_MATERIALIZATION_CANDIDATE")
         series_ids = [row["series_id"] for row in series_registry["series"]]
         self.assertEqual(len(series_ids), len(set(series_ids)))
         self.assertTrue(
@@ -1080,7 +1080,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ).encode("utf-8")
         self.assertEqual(
             hashlib.sha256(output_table).hexdigest(),
-            "0c982199ad9939da12e329ee249c13f7447d62ceec99e222d797a0621b211858",
+            "c30f22302d6be07a69957ca8f5542330d65feff2f2d6057284557888db26445d",
         )
         plans = [
             row
@@ -1118,7 +1118,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ).encode("utf-8")
         self.assertEqual(
             hashlib.sha256(cinderella_output_table).hexdigest(),
-            "0b3333c5b5ed0afe39064e8199518401c93ff3d0bb21278efddf7d0a64097923",
+            "db50bcda798c76090fd26a535e6e268066a2ee431ecbb6d11eedc3535b014404",
         )
         cinderella_plans = [
             row
@@ -1160,7 +1160,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ).encode("utf-8")
         self.assertEqual(
             hashlib.sha256(blue_archive_output_table).hexdigest(),
-            "0452531eb1a07058ade65e7c1b252ffaaf684ffce22cb3f8aedcc6461ad631e3",
+            "87f970f29dc6db5a87793fd24cc4f2239404e4e32c73b35db8d811b6408fd38a",
         )
         blue_archive_plans = [
             row for row in rows("crosswalk/path-plan.jsonl")
@@ -1193,7 +1193,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ).encode("utf-8")
         self.assertEqual(
             hashlib.sha256(youjo_output_table).hexdigest(),
-            "fab10f114df2b2132813647122b3e7e4391cd2a914f1c10314a76621cc391fbb",
+            "e7c0639824ecff488019703993cf02029a5e34346f0b933839ef286fc3ce1db3",
         )
         youjo_plans = [
             row for row in rows("crosswalk/path-plan.jsonl")
@@ -1227,7 +1227,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ).encode("utf-8")
         self.assertEqual(
             hashlib.sha256(logh_output_table).hexdigest(),
-            "ef40a427c745624d4dd14b7a4051a3f5427807f4fe50e1cc66b00ebcfd372065",
+            "2dcc15f46892ebf4f2b8681c5b8d15af03465d46cafafaa9fe067e81d54d3069",
         )
         logh_plans = [
             row for row in rows("crosswalk/path-plan.jsonl")
@@ -1324,15 +1324,15 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         expected = {
             "10hQeUNs8alrGa72ejpwI6LHGi-7ocfNb": (
                 "studies/comparative-media/Mass Effect/CURRENT_STATE_AND_CORPUS_MAP.md",
-                "48d0b34027ecbd8dd1c3f28f595b52adcb2382597c6768c91c5e56e89b98de51",
+                "ecff3d3aa0f6164b0e689708c7664a8bcef52b324625fbfc0a4de5089e93a8a7",
             ),
             "1Mr0PMPv2PKNQQeE3CXqOUZoM9vYESCGO": (
                 "studies/comparative-media/Mass Effect/01 Character Monographs/MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md",
-                "56869cbe20dc5f831fb7c1c0a27f7231984be22798363d5b983966ee2c898f56",
+                "efe4cc45ea5f337dee517bef7eff9e3f4eb8fa807ad578da77d02ef27b78c2d7",
             ),
             "1djYkXGE68vHmP5oCR3LKCMoKfBT7dPUa": (
                 "studies/comparative-media/Mass Effect/01 Character Monographs/MASS_EFFECT_RENEGADE_SHEPARD_CHARACTER_MONOGRAPH.md",
-                "bf2c552ad1b6599879e5e486023558c49303218e5d58597d037c0a87b85cadf9",
+                "2ee902cee56b184582cb11d68ab411739380e844231cb5ab206cda198b3a5b0f",
             ),
         }
         revisions = {
@@ -1449,7 +1449,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "DJFW_PROJECT_CONTROL_SHEET.structure.json"
         )
         doc_sha256 = (
-            "60b55e1f9632ef2124ef5d4ca21c7ca7703d7b6163afd49b191dc4ad4d3f13a4"
+            "4679e1ff5f14b0ffe780748c0397255ea01feaf700d48e88feaf6b4697488f65"
         )
         structure_sha256 = (
             "399fdb0178c9606d50d875ca89daf1f46d5f2277c8c111a616151a0221f44558"
@@ -1459,7 +1459,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
 
         doc_bytes = (REPOSITORY_ROOT / doc_path).read_bytes()
-        self.assertEqual(len(doc_bytes), 13_398)
+        self.assertEqual(len(doc_bytes), 13_396)
         self.assertEqual(hashlib.sha256(doc_bytes).hexdigest(), doc_sha256)
 
         structure_bytes = (REPOSITORY_ROOT / structure_path).read_bytes()
@@ -1747,7 +1747,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             self.scope["migration"]["g5_progress"]["tracked_paths_after"],
         )
         self.assertFalse(any(path.casefold().endswith(".zip") for path in tracked_paths))
-        self.assertFalse(
+        self.assertTrue(
             any(path.startswith("series/gakuen-idolmaster/") for path in tracked_paths)
         )
 
@@ -1808,8 +1808,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             controls,
         )
         self.assertIn(
-            "106,096-byte length and SHA-256 "
-            "`0e8bc9dbaebdc985adccf3d5260fda2aef1a43f0ef1d46e38dda340ab47571a4`",
+            "106,094-byte length and SHA-256 "
+            "`f61db7d38eb980bf6906fccee93a78200048f6bd2cf6efcfe60788520918b356`",
             controls,
         )
         for preserved_control in (

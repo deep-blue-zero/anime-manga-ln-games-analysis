@@ -1,124 +1,124 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "japanese_source_verification_audit"
-artifact_role: "AUDIT"
-document_id: "PHASE8"
-title: "Phase 8 Japanese Source Verification Audit"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: japanese_source_verification_audit
+artifact_role: AUDIT
+document_id: PHASE8
+title: Phase 8 Japanese Source Verification Audit
+scope: V01-V14+ALTER1
 phase: 8
-generation: "V2"
-method_version: "V2"
-status: "canonical"
-date: "2026-08-16"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-source_inventory: "86_SOURCE_INVENTORY.md"
-locator_authority: "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
-locator_correction_authority: "86_PHASE5_LOCATOR_CORRECTION_LEDGER.tsv"
-phase5_language_lock: "86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv"
-primary_language_synthesis: "12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md"
-primary_language_index: "16_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md"
-phase7_audit: "86_PHASE7_CONTRADICTION_AND_ADVERSARIAL_AUDIT.md"
-phase7_audit_sha256: "20e2782310151862b5303ffb01b40a2eb1a60dddef8b7604cbe1a2a1c3eb9909"
-audit_target: "18_FULL_SERIES_CONTINUOUS_SYNTHESIS.md"
-audit_target_sha256: "9f19fd985aaf292890adc1dffc31bf6253c970aa1dd0cb0eef8f3a379efb6704"
-audit_target_status: "active_provisional"
-phase8_result: "PASS_WITH_CORRECTIONS_APPLIED"
-source_integrity_verdict: "15/15 exact SHA-256 match and ZIP CRC PASS"
-locator_verdict: "1045/1045 current-source routes verified"
+generation: V2
+method_version: V2
+status: canonical
+date: '2026-08-16'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+source_inventory: 86_SOURCE_INVENTORY.md
+locator_authority: 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
+locator_correction_authority: 86_PHASE5_LOCATOR_CORRECTION_LEDGER.tsv
+phase5_language_lock: 86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv
+primary_language_synthesis: 12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md
+primary_language_index: 16_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md
+phase7_audit: 86_PHASE7_CONTRADICTION_AND_ADVERSARIAL_AUDIT.md
+phase7_audit_sha256: 20e2782310151862b5303ffb01b40a2eb1a60dddef8b7604cbe1a2a1c3eb9909
+audit_target: 18_FULL_SERIES_CONTINUOUS_SYNTHESIS.md
+audit_target_sha256: 9f19fd985aaf292890adc1dffc31bf6253c970aa1dd0cb0eef8f3a379efb6704
+audit_target_status: active_provisional
+phase8_result: PASS_WITH_CORRECTIONS_APPLIED
+source_integrity_verdict: 15/15 exact SHA-256 match and ZIP CRC PASS
+locator_verdict: 1045/1045 current-source routes verified
 exact_source_verified_locator_rows: 1023
 paraphrase_coordinate_context_verified_rows: 21
 exact_coordinate_only_verified_rows: 1
-phase5_terminology_locks_verified: "28/28"
-document16_high_value_controls_verified: "55/55"
-document12_inline_japanese_spans_attested: "170/170 after one reference correction"
-document18_inline_japanese_spans_attested: "38/38"
-phase7_inline_japanese_spans_attested: "23/23"
+phase5_terminology_locks_verified: 28/28
+document16_high_value_controls_verified: 55/55
+document12_inline_japanese_spans_attested: 170/170 after one reference correction
+document18_inline_japanese_spans_attested: 38/38
+phase7_inline_japanese_spans_attested: 23/23
 document12_corrections_applied: 1
 document16_corrections_applied: 2
 load_bearing_interpretations_overturned: 0
 phase7_mandatory_revisions_confirmed: 9
 canonical_capstone_promotion_authorized: false
-next_action: "Merge P7-R01 through P7-R09 into Document 18, revalidate against this audit and the Phase-5 locks, then explicitly promote Document 18 to canonical if clean"
+next_action: Merge P7-R01 through P7-R09 into Document 18, revalidate against this audit and the Phase-5 locks, then explicitly promote Document 18 to canonical if clean
 adversarial_constraints_preserved:
-  - "T14-C01"
-  - "T14-C02"
-  - "T14-C03"
-  - "T14-C04"
-  - "T14-C05"
-  - "T14-C06"
-  - "T14-C07"
-  - "T14-C08"
-  - "T14-C09"
-  - "T14-C10"
-  - "T14-C11"
-  - "T14-C12"
-  - "T14-C13"
-  - "T14-C14"
-  - "T14-C15"
-  - "T14-C16"
-  - "T14-C17"
-  - "T14-C18"
-  - "T14-C19"
-  - "T14-C20"
-  - "T14-C21"
-  - "T14-C22"
-  - "T14-C23"
-  - "T14-C24"
-  - "T14-C25"
-  - "T14-C26"
-  - "T14-C27"
-  - "T14-C28"
-  - "T14-C29"
-  - "T14-C30"
-  - "T14-C31"
-  - "T14-C32"
-  - "T14-C33"
-  - "T14-C34"
-  - "T14-C35"
-  - "T14-C36"
-  - "T14-C37"
-  - "T14-C38"
-  - "T14-C39"
-  - "T14-C40"
-  - "T14-C41"
+- T14-C01
+- T14-C02
+- T14-C03
+- T14-C04
+- T14-C05
+- T14-C06
+- T14-C07
+- T14-C08
+- T14-C09
+- T14-C10
+- T14-C11
+- T14-C12
+- T14-C13
+- T14-C14
+- T14-C15
+- T14-C16
+- T14-C17
+- T14-C18
+- T14-C19
+- T14-C20
+- T14-C21
+- T14-C22
+- T14-C23
+- T14-C24
+- T14-C25
+- T14-C26
+- T14-C27
+- T14-C28
+- T14-C29
+- T14-C30
+- T14-C31
+- T14-C32
+- T14-C33
+- T14-C34
+- T14-C35
+- T14-C36
+- T14-C37
+- T14-C38
+- T14-C39
+- T14-C40
+- T14-C41
 open_questions_preserved:
-  - "T14-OQ-01"
-  - "T14-OQ-02"
-  - "T14-OQ-03"
-  - "T14-OQ-04"
-  - "T14-OQ-05"
-  - "T14-OQ-06"
-  - "T14-OQ-07"
-  - "T14-OQ-08"
-  - "T14-OQ-09"
-  - "T14-OQ-10"
-  - "T14-OQ-11"
-  - "T14-OQ-12"
-  - "T14-OQ-13"
-  - "T14-OQ-14"
-  - "T14-OQ-15"
-  - "T14-OQ-16"
-  - "T14-OQ-17"
-  - "T14-OQ-18"
-  - "T14-OQ-19"
-  - "T14-OQ-20"
-  - "T14-OQ-21"
-  - "T14-OQ-22"
-  - "T14-OQ-23"
-  - "T14-OQ-24"
-  - "T14-OQ-25"
-  - "T14-OQ-26"
-  - "T14-OQ-27"
-  - "T14-OQ-28"
-  - "T14-OQ-29"
-  - "T14-OQ-30"
-  - "T14-OQ-31"
-  - "T14-OQ-32"
-supersedes: null
-superseded_by: null
+- T14-OQ-01
+- T14-OQ-02
+- T14-OQ-03
+- T14-OQ-04
+- T14-OQ-05
+- T14-OQ-06
+- T14-OQ-07
+- T14-OQ-08
+- T14-OQ-09
+- T14-OQ-10
+- T14-OQ-11
+- T14-OQ-12
+- T14-OQ-13
+- T14-OQ-14
+- T14-OQ-15
+- T14-OQ-16
+- T14-OQ-17
+- T14-OQ-18
+- T14-OQ-19
+- T14-OQ-20
+- T14-OQ-21
+- T14-OQ-22
+- T14-OQ-23
+- T14-OQ-24
+- T14-OQ-25
+- T14-OQ-26
+- T14-OQ-27
+- T14-OQ-28
+- T14-OQ-29
+- T14-OQ-30
+- T14-OQ-31
+- T14-OQ-32
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

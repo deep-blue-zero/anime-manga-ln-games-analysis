@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_AMAYA_TSUBAME_MUSIC_MV_PERFORMANCE
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Complete acted song communications for 理論武装して, Campus mode!!, and クライアイ; Tsubame rendered 3DMVs for all three; authored official MV for 理論武装して; Dear performance context and textual Source Lock controls"
-supersedes: null
-superseded_by: null
+source_boundary: Complete acted song communications for 理論武装して, Campus mode!!, and クライアイ; Tsubame rendered 3DMVs for all three; authored official MV for 理論武装して; Dear performance context and textual Source Lock controls
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-18"
-title: "GKM — Amaya Tsubame Music, MV, and Performance Close Reading"
+last_updated: '2026-08-18'
+title: GKM — Amaya Tsubame Music, MV, and Performance Close Reading
 ---
 
 # GKM — AMAYA TSUBAME MUSIC, MV, AND PERFORMANCE CLOSE READING

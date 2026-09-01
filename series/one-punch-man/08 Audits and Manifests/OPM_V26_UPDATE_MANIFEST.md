@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: V26
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 26; closure propagated through canonical V2 infrastructure"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 26; closure propagated through canonical V2 infrastructure
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-28
 ---

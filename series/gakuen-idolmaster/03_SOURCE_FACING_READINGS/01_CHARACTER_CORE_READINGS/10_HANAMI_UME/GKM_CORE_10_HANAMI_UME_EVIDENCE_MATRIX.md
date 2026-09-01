@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_HANAMI_UME_PHASE3_CORE
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Ume character-owned textual corpus; AV pending"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Ume character-owned textual corpus; AV pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # GKM CORE 10 — HANAMI UME EVIDENCE / FALSIFICATION MATRIX

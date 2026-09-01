@@ -1,14 +1,14 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: analytical_method
-scope: "Manga V2; Japanese tankobon V01-current plus official uncollected web serialization"
+scope: Manga V2; Japanese tankobon V01-current plus official uncollected web serialization
 generation: V2
 status: active_provisional
-source_boundary: "Open-ended; collected manga through the latest locked Japanese tankobon, with a separately governed active-provisional current-release layer"
-supersedes: null
-superseded_by: null
+source_boundary: Open-ended; collected manga through the latest locked Japanese tankobon, with a separately governed active-provisional current-release layer
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
 last_amended: 2026-08-23

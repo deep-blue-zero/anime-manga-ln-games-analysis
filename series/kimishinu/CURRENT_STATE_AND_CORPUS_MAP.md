@@ -5,9 +5,9 @@ scope: current_project_state
 generation: V1
 architecture_revision: 1.8
 status: canonical
-source_boundary: "Japanese manga V01-V09 + V05 special booklet + Side Stories"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga V01-V09 + V05 special booklet + Side Stories
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

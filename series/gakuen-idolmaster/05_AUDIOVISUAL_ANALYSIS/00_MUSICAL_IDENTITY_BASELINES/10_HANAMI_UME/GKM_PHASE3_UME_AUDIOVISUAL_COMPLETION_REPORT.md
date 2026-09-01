@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: completion_report
 scope: CHARACTER_HANAMI_UME_PHASE3_COMPLETE_AV
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Closure report for the complete Ume Phase-3 integrated audiovisual baseline"
-supersedes: null
-superseded_by: null
+source_boundary: Closure report for the complete Ume Phase-3 integrated audiovisual baseline
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-19"
-title: "Hanami Ume Phase-3 Integrated AV Completion Report"
+last_updated: '2026-08-19'
+title: Hanami Ume Phase-3 Integrated AV Completion Report
 ---
 
 # GKM PHASE 3 — HANAMI UME AUDIOVISUAL COMPLETION REPORT

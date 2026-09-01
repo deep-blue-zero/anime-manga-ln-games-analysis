@@ -3,35 +3,35 @@ series: HIBIKE
 artifact_type: audit
 scope: KUMIKO_REINA_JAPANESE_REALIZATION_V0.3
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
 audit_targets:
-  - "04 Character Modeling/HIBIKE_KUMIKO_CHARACTER_MONOGRAPH.md"
-  - "04 Character Modeling/HIBIKE_REINA_CHARACTER_MONOGRAPH.md"
-  - "08 Audits and Manifests/HIBIKE_KUMIKO_REINA_RECIPROCAL_MODEL_AUDIT.md"
+- 04 Character Modeling/HIBIKE_KUMIKO_CHARACTER_MONOGRAPH.md
+- 04 Character Modeling/HIBIKE_REINA_CHARACTER_MONOGRAPH.md
+- 08 Audits and Manifests/HIBIKE_KUMIKO_REINA_RECIPROCAL_MODEL_AUDIT.md
 audit_target_versions:
-  kumiko: "0.3"
-  reina: "0.3"
-  reciprocal_audit: "1.0"
+  kumiko: '0.3'
+  reina: '0.3'
+  reciprocal_audit: '1.0'
 audit_target_drive_ids:
-  kumiko: "1vdlAx1D3kX3jikOYHTjiKZZKyu6_7rdj"
-  reina: "1bpJ0hmVk3y42pEYA9L8-_CL7nLT_UHg9"
-  reciprocal_audit: "1EW9BqcHp7s--FHd_wnhXReZO0JmU1Mti"
+  kumiko: 1vdlAx1D3kX3jikOYHTjiKZZKyu6_7rdj
+  reina: 1bpJ0hmVk3y42pEYA9L8-_CL7nLT_UHg9
+  reciprocal_audit: 1EW9BqcHp7s--FHd_wnhXReZO0JmU1Mti
 audit_target_sha256:
-  kumiko: "2e3bada1615c47b6bab1c19f528c861ebb0d436163e7b40811a5bc355b550cea"
-  reina: "bc0e502d16e09e0e1f7060830af5065362801d4b36cb923199c7f667ccd2ba54"
-  reciprocal_audit: "99d7ce41a0e6391e06e4dedbc03ac7620ac009510bb2e5f17f75c7943e63d6a3"
+  kumiko: 2e3bada1615c47b6bab1c19f528c861ebb0d436163e7b40811a5bc355b550cea
+  reina: bc0e502d16e09e0e1f7060830af5065362801d4b36cb923199c7f667ccd2ba54
+  reciprocal_audit: 99d7ce41a0e6391e06e4dedbc03ac7620ac009510bb2e5f17f75c7943e63d6a3
 audit_result: pass_with_internal_evaluator_limit_no_model_patch
 japanese_realization_gate: pass
 pair_authority_state: reciprocal_audited_provisional
 monograph_patch_required: false
 independent_native_speaker_validation: deferred
-source_boundary: "Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical locator indexes; V2 voice/register, relationship, behavior, character-state, institutional, and music/pedagogy ledgers; audited Kumiko/Reina v0.3 monographs; formal reciprocal audit"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical locator indexes; V2 voice/register, relationship, behavior, character-state, institutional, and music/pedagogy ledgers; audited Kumiko/Reina v0.3 monographs; formal reciprocal audit
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-22"
-updated: "2026-08-22"
+created: '2026-08-22'
+updated: '2026-08-22'
 ---
 
 # Sound! Euphonium V2 — Kumiko–Reina Japanese Realization Audit

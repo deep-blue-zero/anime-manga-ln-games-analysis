@@ -5,11 +5,11 @@ ledger_type: everyday_life_preferences_low_stakes_behavior
 scope: V01-V34
 status: active_provisional
 generation: V2
-version: "2.1"
-date: "2026-08-26"
-source_boundary: "Canonical V2 deep readings through V34; V01-V18 selective seed plus prospective V19-V34 extraction; crisis-heavy corpus with explicit coverage gaps"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-26'
+source_boundary: Canonical V2 deep readings through V34; V01-V18 selective seed plus prospective V19-V34 extraction; crisis-heavy corpus with explicit coverage gaps
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

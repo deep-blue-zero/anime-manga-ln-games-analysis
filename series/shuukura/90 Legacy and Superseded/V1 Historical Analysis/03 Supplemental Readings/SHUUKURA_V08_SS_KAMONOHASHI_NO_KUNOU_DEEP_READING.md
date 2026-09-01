@@ -4,11 +4,11 @@ artifact_type: deep_reading
 scope: V08_SS
 generation: V1
 status: historical_legacy
-source_boundary: "Kakuyomu「カモノハシの苦悩」"
-supersedes: null
-superseded_by: null
+source_boundary: Kakuyomu「カモノハシの苦悩」
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-provenance: "Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md"
+provenance: Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md
 ---
 
 # SHUUKURA V08 SS — 「カモノハシの苦悩」

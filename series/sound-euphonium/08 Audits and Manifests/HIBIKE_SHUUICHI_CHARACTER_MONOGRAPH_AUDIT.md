@@ -3,27 +3,27 @@ series: HIBIKE
 artifact_type: audit
 scope: SHUUICHI_CHARACTER_MONOGRAPH_V0.1
 generation: V2
-version: "1.1"
+version: '1.1'
 status: canonical
-audit_target: "04 Character Modeling/HIBIKE_SHUUICHI_CHARACTER_MONOGRAPH.md"
-audit_target_drive_id: "156Y_LYYTlMVz2Oo-cGDKJnVqnlDxxg_3"
-audit_target_sha256: "be72409823633ec2b233e350b5a70b79b7b742b97fdf98e0ad0518529b1f3c3e"
+audit_target: 04 Character Modeling/HIBIKE_SHUUICHI_CHARACTER_MONOGRAPH.md
+audit_target_drive_id: 156Y_LYYTlMVz2Oo-cGDKJnVqnlDxxg_3
+audit_target_sha256: be72409823633ec2b233e350b5a70b79b7b742b97fdf98e0ad0518529b1f3c3e
 audit_result: pass_with_minor_revisions_promotion_deferred
-verified_target_version: "0.2"
+verified_target_version: '0.2'
 patch_verification_result: pass
 verified_target_status: audited_provisional
 verified_target_simulation_readiness: audited_provisional_pass
-verified_target_sha256: "0126f7ca1fe186312afa02fd46e848d1ebae10994673c115168d1187fff702e3"
+verified_target_sha256: 0126f7ca1fe186312afa02fd46e848d1ebae10994673c115168d1187fff702e3
 verified_target_size_bytes: 63785
-patch_scope: "R-01 domain-bound recognized-other-owned decision calibration and R-02 visible/actionable burden versus diffuse institutional-relational labor calibration only, plus authority bookkeeping"
+patch_scope: R-01 domain-bound recognized-other-owned decision calibration and R-02 visible/actionable burden versus diffuse institutional-relational labor calibration only, plus authority bookkeeping
 required_revision_count: 2
-required_revisions: "R-01 domain-bound autonomy heuristic; R-02 visible/actionable burden versus diffuse relational-labor attention"
-source_boundary: "Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical V2 locator indexes, sequential readings, checkpoints, longitudinal ledgers, and audited-provisional Kumiko/Reina models used only for preliminary reciprocal consistency checking"
-supersedes: null
-superseded_by: null
+required_revisions: R-01 domain-bound autonomy heuristic; R-02 visible/actionable burden versus diffuse relational-labor attention
+source_boundary: Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical V2 locator indexes, sequential readings, checkpoints, longitudinal ledgers, and audited-provisional Kumiko/Reina models used only for preliminary reciprocal consistency checking
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-22"
-updated: "2026-08-23"
+created: '2026-08-22'
+updated: '2026-08-23'
 ---
 
 # Sound! Euphonium V2 — Shuuichi Character Monograph Audit

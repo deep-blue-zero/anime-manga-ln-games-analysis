@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_HATAYA_MISUZU_PHASE3_DELIVERY
-character: "Hataya Misuzu / 秦谷美鈴"
+character: Hataya Misuzu / 秦谷美鈴
 generation: V2
 status: canonical
-source_boundary: "Phase-3 textual character-core delivery audit; AV request is separate active-provisional infrastructure"
-supersedes: null
-superseded_by: null
+source_boundary: Phase-3 textual character-core delivery audit; AV request is separate active-provisional infrastructure
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # GKM PHASE 3 — MISUZU DELIVERY AUDIT

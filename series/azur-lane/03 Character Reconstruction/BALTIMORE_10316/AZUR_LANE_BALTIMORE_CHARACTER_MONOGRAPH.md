@@ -11,17 +11,17 @@ claim_revision_ledger: AZUR_LANE_BALTIMORE_CLAIM_REVISION_LEDGER.md
 promotion_audit: AZUR_LANE_BALTIMORE_CHARACTER_MONOGRAPH_PROMOTION_AUDIT.md
 semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "Pinned CN-origin Baltimore reconstruction after R2 identity quarantine: 72 clean direct-presence narrative scenes / 276 clean narrative dialogue records; complete four-part memory; 105 character-dialogue records; 9 social threads; relationship evidence; JP/EN/TW/KR regional witnesses; 100/100 mapped JP spoken utterances with published WAV derivatives; quantitative JP performed-voice profile complete with 100/100 derivative hashes verified; ear-dependent timbre interpretation open"
+source_boundary: 'Pinned CN-origin Baltimore reconstruction after R2 identity quarantine: 72 clean direct-presence narrative scenes / 276 clean narrative dialogue records; complete four-part memory; 105 character-dialogue records; 9 social threads; relationship evidence; JP/EN/TW/KR regional witnesses; 100/100 mapped JP spoken utterances with published WAV derivatives; quantitative JP performed-voice profile complete with 100/100 derivative hashes verified; ear-dependent timbre interpretation open'
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 readiness_grade: A
 readiness_score: 82.91
 readiness_score_status: frozen_pre_remediation
-identity_quarantine: "9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records"
+identity_quarantine: '9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records'
 performed_voice_status: quantitative_jp_performed_voice_established_ear_dependent_timbre_open
 full_simulator_status: textual_behavioral_relationship_multilingual_c1_c3_adversarially_validated_jp_quantitative_performed_voice_established_ear_dependent_timbre_open
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

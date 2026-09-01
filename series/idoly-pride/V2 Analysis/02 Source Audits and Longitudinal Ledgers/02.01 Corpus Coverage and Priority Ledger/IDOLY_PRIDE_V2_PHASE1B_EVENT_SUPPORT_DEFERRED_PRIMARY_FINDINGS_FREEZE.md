@@ -5,20 +5,20 @@ artifact_role: CHECKPOINT
 scope: PHASE1B_EVENT_SUPPORT_DEFERRED
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_SUPPORT_DEFERRED_PRIMARY_FINDINGS_FREEZE.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Post-E2-C1 governing baseline + four support-deferred raw event bundles only; no Tier-H historical prose consulted before this freeze"
+source_boundary: Post-E2-C1 governing baseline + four support-deferred raw event bundles only; no Tier-H historical prose consulted before this freeze
 inherits: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E2C1_BASELINE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: PROSPECTIVE_FINDINGS_FROZEN_BEFORE_HISTORICAL_COMPARISON
-created: "2026-08-16"
-updated: "2026-08-16"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — Phase 1B Event Close Read — SUPPORT-DEFERRED

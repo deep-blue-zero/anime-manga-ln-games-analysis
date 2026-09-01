@@ -9,9 +9,9 @@ semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 readiness_grade: B
 readiness_score: 76.18
-source_boundary: "Pinned Prinz Eugen character-build 2.1.0 over AzurLaneData 4cca5c2437007b62d30a6235fcfc0c0203231378 and AzurLaneLuaScripts cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336; CN-origin semantic authority with JP/EN/TW/KR regional witnesses; current Drive publication state audited separately"
-supersedes: null
-superseded_by: null
+source_boundary: Pinned Prinz Eugen character-build 2.1.0 over AzurLaneData 4cca5c2437007b62d30a6235fcfc0c0203231378 and AzurLaneLuaScripts cc8e9fdf6a1a2e5d20c9a8ff6c0369832bb33336; CN-origin semantic authority with JP/EN/TW/KR regional witnesses; current Drive publication state audited separately
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -2,16 +2,17 @@
 series: GKM
 generation: V2
 status: canonical
-supersedes: null
-superseded_by: null
+supersedes:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/12_JUO_SENA/GKM_SENA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 artifact_type: audiovisual_baseline
 scope: CHARACTER_JUO_SENA_PHASE3_COMPLETE_AV
-character: "Juo Sena / 十王星南"
-source_boundary: "30 staged Sena AV objects plus 3 reused Begrazia/comparative objects inspected against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_12_JUO_SENA.md; future physical-release solos excluded as nonblocking"
-textual_authority: "GKM_CORE_12_JUO_SENA.md"
-source_manifest: "GKM_PHASE3_SENA_AUDIOVISUAL_SOURCE_MANIFEST.json"
+character: Juo Sena / 十王星南
+source_boundary: 30 staged Sena AV objects plus 3 reused Begrazia/comparative objects inspected against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_12_JUO_SENA.md; future physical-release solos excluded as nonblocking
+textual_authority: GKM_CORE_12_JUO_SENA.md
+source_manifest: GKM_PHASE3_SENA_AUDIOVISUAL_SOURCE_MANIFEST.json
 ---
 
 # GKM — JUO SENA COMPLETE AUDIOVISUAL BASELINE

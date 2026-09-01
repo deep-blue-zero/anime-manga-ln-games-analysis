@@ -3,45 +3,45 @@ series: HIBIKE
 artifact_type: audit
 scope: SHUUICHI_JAPANESE_REALIZATION_V0.2
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
 reasoning_profile: source_constrained_internal_japanese_realization
 audit_targets:
-  - "04 Character Modeling/HIBIKE_SHUUICHI_CHARACTER_MONOGRAPH.md"
-  - "08 Audits and Manifests/HIBIKE_SHUUICHI_CHARACTER_MONOGRAPH_AUDIT.md"
-  - "08 Audits and Manifests/HIBIKE_KUMIKO_SHUUICHI_TEAM_OUMAE_RECIPROCAL_MODEL_AUDIT.md"
+- 04 Character Modeling/HIBIKE_SHUUICHI_CHARACTER_MONOGRAPH.md
+- 08 Audits and Manifests/HIBIKE_SHUUICHI_CHARACTER_MONOGRAPH_AUDIT.md
+- 08 Audits and Manifests/HIBIKE_KUMIKO_SHUUICHI_TEAM_OUMAE_RECIPROCAL_MODEL_AUDIT.md
 audit_target_versions:
-  shuuichi: "0.2"
-  shuuichi_independent_audit: "1.1"
-  reciprocal_audit: "1.0"
+  shuuichi: '0.2'
+  shuuichi_independent_audit: '1.1'
+  reciprocal_audit: '1.0'
 audit_target_drive_ids:
-  shuuichi: "156Y_LYYTlMVz2Oo-cGDKJnVqnlDxxg_3"
-  shuuichi_independent_audit: "1PGPMpHQaIErs2VlFp3t0G6P9giS28xm5"
-  reciprocal_audit: "1qDOF783LfG3wJxTUB2koAeUSZUtYe6uG"
+  shuuichi: 156Y_LYYTlMVz2Oo-cGDKJnVqnlDxxg_3
+  shuuichi_independent_audit: 1PGPMpHQaIErs2VlFp3t0G6P9giS28xm5
+  reciprocal_audit: 1qDOF783LfG3wJxTUB2koAeUSZUtYe6uG
 audit_target_sha256:
-  shuuichi: "0126f7ca1fe186312afa02fd46e848d1ebae10994673c115168d1187fff702e3"
-  shuuichi_independent_audit: "97883584180d839f380c7d24b35a4f88ac0d500c09fb2ecc0be2be49f28258f7"
-  reciprocal_audit: "f60e649ba7a47de5c4d006e0a174d239f9475eeed4de0968e38979d8d65b9288"
+  shuuichi: 0126f7ca1fe186312afa02fd46e848d1ebae10994673c115168d1187fff702e3
+  shuuichi_independent_audit: 97883584180d839f380c7d24b35a4f88ac0d500c09fb2ecc0be2be49f28258f7
+  reciprocal_audit: f60e649ba7a47de5c4d006e0a174d239f9475eeed4de0968e38979d8d65b9288
 audit_result: pass_with_internal_evaluator_limit_no_model_patch
 japanese_realization_gate: pass
 pair_authority_state: reciprocal_audited_provisional
 team_oumae_interface_state: interaction_audited_provisional
 monograph_patch_required: false
 independent_native_speaker_validation: deferred
-positive_realization_suite: "25/25 PASS"
-obvious_negative_controls: "25/25 REJECTED"
-near_miss_controls: "15/15 REJECTED"
-held_out_source_analogues: "8/8 PASS"
-raw_source_identity_recheck: "V08/V11/V12/V14 4/4 SHA-256 PASS"
-source_anchor_validation: "68 fully-qualified occurrences / 34 unique ranges / 1,370 expanded paragraph positions / 0 missing"
+positive_realization_suite: 25/25 PASS
+obvious_negative_controls: 25/25 REJECTED
+near_miss_controls: 15/15 REJECTED
+held_out_source_analogues: 8/8 PASS
+raw_source_identity_recheck: V08/V11/V12/V14 4/4 SHA-256 PASS
+source_anchor_validation: 68 fully-qualified occurrences / 34 unique ranges / 1,370 expanded paragraph positions / 0 missing
 anti_copy_max_contiguous_source_chars: 12
-source_boundary: "Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical locator indexes; Shuuichi v0.2 and its independent audit; formal Kumiko-Shuuichi / Team Oumae reciprocal audit; existing Kumiko/Reina Japanese-realization constraints used only as interface precedent; V08/V11/V12/V14 raw EPUBs rechecked for direct source identity and held-out analogue recovery"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical locator indexes; Shuuichi v0.2 and its independent audit; formal Kumiko-Shuuichi / Team Oumae reciprocal audit; existing Kumiko/Reina Japanese-realization constraints used only as interface precedent; V08/V11/V12/V14 raw EPUBs rechecked for direct source identity and held-out analogue recovery
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-canonical_home: "08 Audits and Manifests/HIBIKE_SHUUICHI_JAPANESE_REALIZATION_AUDIT.md"
-created: "2026-08-26"
-updated: "2026-08-26"
+canonical_home: 08 Audits and Manifests/HIBIKE_SHUUICHI_JAPANESE_REALIZATION_AUDIT.md
+created: '2026-08-26'
+updated: '2026-08-26'
 ---
 
 # Sound! Euphonium V2 — Shuuichi Japanese Realization Audit

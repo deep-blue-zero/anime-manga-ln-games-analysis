@@ -5,13 +5,13 @@ scope: V27
 subtype: japanese_dialogue_and_register
 status: canonical
 generation: V2
-source_boundary: "Japanese tankobon Volume 27"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 27
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 27 [Japanese].cbz"
-source_drive_id: "1L59QpvlSSPK3qHjE1oeC4aX_KKhsHDlA"
-source_sha256: "95f08e514ca6207abeeeae6386ff948f45d523011bfe6d408ed58ca015287b55"
+source_file: One Punch Man - Volume 27 [Japanese].cbz
+source_drive_id: 1L59QpvlSSPK3qHjE1oeC4aX_KKhsHDlA
+source_sha256: 95f08e514ca6207abeeeae6386ff948f45d523011bfe6d408ed58ca015287b55
 created: 2026-08-28
 ---
 

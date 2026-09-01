@@ -4,16 +4,16 @@ artifact_type: visual_microsequence_ledger
 scope: E19_latter_half
 generation: V2
 status: canonical
-source_boundary: "Episode 19 source frames only; sponsor interstitial recorded as paratext and E20 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 19 source frames only; sponsor interstitial recorded as paratext and E20 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 19 Latter-Half Visual Microsequence Ledger"
+title: To Be Hero X V2 — Episode 19 Latter-Half Visual Microsequence Ledger
 season: 1
 episode: 19
-source_bundle: "BHX_s01e19_screenshots.zip"
-source_bundle_sha256: "2a38f0db7d5d4283b4882db2adb5b34a73a24210f08be634847802676026edf1"
-canonical_parent: "TBHX_V2_E19_DEEP_READING.md"
+source_bundle: BHX_s01e19_screenshots.zip
+source_bundle_sha256: 2a38f0db7d5d4283b4882db2adb5b34a73a24210f08be634847802676026edf1
+canonical_parent: TBHX_V2_E19_DEEP_READING.md
 ---
 
 # To Be Hero X V2 — Episode 19 Latter-Half Visual Microsequence Ledger

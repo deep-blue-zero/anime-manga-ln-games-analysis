@@ -4,7 +4,7 @@ artifact_type: source_lock
 scope: FULL_MAIN_SERIES
 generation: V1
 status: canonical
-source_boundary: "Japanese main-series light novels V01-V17 complete in the current corpus; V07 acquired and audited 2026-08-27"
+source_boundary: Japanese main-series light novels V01-V17 complete in the current corpus; V07 acquired and audited 2026-08-27
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

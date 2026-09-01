@@ -1,36 +1,37 @@
 ---
-title: "MONOGATARI V2 V30 Deep Reading - 戦物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V30"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel V30 戦物語, supplied archive item 30 戦物語.epub; no later Family Season text is admitted"
-supersedes: null
-superseded_by: null
+title: MONOGATARI V2 V30 Deep Reading - 戦物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V30
+generation: V2
+status: canonical
+source_boundary: Japanese light novel V30 戦物語, supplied archive item 30 戦物語.epub; no later Family Season text is admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V30_DEEP_READING"
-version: "1.0"
-date: "2026-08-18"
-volume_code: "V30"
-japanese_title: "戦物語"
-archive_position: "Family Season archive spine V30; first numbered Family Season volume in the supplied corpus"
-publication_position: "Kodansha BOX print basis May 2023; supplied electronic edition states June 1, 2023 issue"
-source_file: "30 戦物語.epub"
-source_drive_id: "1ran3Wglhe7Hyghw2Z3E6vH-5ySbj57T6"
-source_sha256: "afc64b2f4c4aa84ac07c544c502274fcd2d8760d009c0f267ae995bfc8b9d43c"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V30_DEEP_READING
+version: '1.0'
+date: '2026-08-18'
+volume_code: V30
+japanese_title: 戦物語
+archive_position: Family Season archive spine V30; first numbered Family Season volume in the supplied corpus
+publication_position: Kodansha BOX print basis May 2023; supplied electronic edition states June 1, 2023 issue
+source_file: 30 戦物語.epub
+source_drive_id: 1ran3Wglhe7Hyghw2Z3E6vH-5ySbj57T6
+source_sha256: afc64b2f4c4aa84ac07c544c502274fcd2d8760d009c0f267ae995bfc8b9d43c
 source_size_bytes: 537553
-source_language: "ja"
-source_author: "西尾維新"
-source_status: "verified"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies a May 2023 Kodansha BOX print basis; electronic colophon identifies June 1, 2023 issue. OPF/calibre timestamps remain wrapper metadata."
-principal_story_units: "第婚話 ひたぎハネムーン"
-narrators: ["Araragi Koyomi"]
-internal_story_range: "Araragi and Hitagi age twenty-four, recently married; two-night/three-day Tochigi honeymoon during Araragi's Washington/FBI training period, followed shortly by an offstage financial-crisis/witness-protection consequence. Exact civil date remains open."
-spoiler_policy: "publication-local + labeled retrospective V2 hindsight. V30 may use V01-V29 and the frozen V24-V29 Monster Season checkpoint because they precede its publication boundary. No later Family Season text is admitted."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD 2.0"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_status: verified
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies a May 2023 Kodansha BOX print basis; electronic colophon identifies June 1, 2023 issue. OPF/calibre timestamps remain wrapper metadata.
+principal_story_units: 第婚話 ひたぎハネムーン
+narrators:
+- Araragi Koyomi
+internal_story_range: Araragi and Hitagi age twenty-four, recently married; two-night/three-day Tochigi honeymoon during Araragi's Washington/FBI training period, followed shortly by an offstage financial-crisis/witness-protection consequence. Exact civil date remains open.
+spoiler_policy: publication-local + labeled retrospective V2 hindsight. V30 may use V01-V29 and the frozen V24-V29 Monster Season checkpoint because they precede its publication boundary. No later Family Season text is admitted.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD 2.0
+reasoning_recommendation_used: Very High
 ---
 
 # MONOGATARI V2 - Volume 30 Deep Reading

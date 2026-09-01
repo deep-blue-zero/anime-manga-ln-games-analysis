@@ -5,25 +5,25 @@ artifact_role: DEEP_READING
 scope: S1E12
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S1E12 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S1E12 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 1
 episode: 12
-episode_title: "Song for All"
-episode_title_source: "season-episode identification; title not used as semantic evidence"
+episode_title: Song for All
+episode_title_source: season-episode identification; title not used as semantic evidence
 artifact_id: LLS_S1E12_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; corrected-Japanese governing text; reconstructed English comparison lane after recurring derivative-style anomaly; local audiovisual/acoustic audit; character-model ledgers and anomaly ledger updated and verified"
+analysis_mode: sealed sequential V2.2; corrected-Japanese governing text; reconstructed English comparison lane after recurring derivative-style anomaly; local audiovisual/acoustic audit; character-model ledgers and anomaly ledger updated and verified
 source_bundle: LLS_s01e12_screenshots.zip
 source_drive_id: 1Ll222TgyH2q7pzJaRpxjzeThuUfXgiZ2
 source_sha256: 8923e49be232cc6f82dfc754736cc54a8e6532a857291d11ae225576b3aa1832
 source_bytes: 182483968
-source_language: "Japanese audio; corrected Japanese ASS; full embedded English comparison ASS"
-semantic_evidence_boundary: "S1E01-S1E12 only"
+source_language: Japanese audio; corrected Japanese ASS; full embedded English comparison ASS
+semantic_evidence_boundary: S1E01-S1E12 only
 future_semantic_evidence_used: false
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 889
 retained_frames: 824
 pre_op_ed_dedup_frames: 924
@@ -34,8 +34,8 @@ japanese_spoken_dialogue_cues: 351
 japanese_dialogue_index_rows: 403
 bundled_paired_english_rows: 4
 bundled_paired_english_coverage: 0.009926
-english_spoken_derivative_status: "WARNING: recurring AV-004; Style=Default filter captures signs/non-story events rather than principal story-dialogue style"
-reconstructed_english_comparison_source: "S01E12.en.dialogue.ass Style=newDefault"
+english_spoken_derivative_status: 'WARNING: recurring AV-004; Style=Default filter captures signs/non-story events rather than principal story-dialogue style'
+reconstructed_english_comparison_source: S01E12.en.dialogue.ass Style=newDefault
 reconstructed_english_speech_events: 331
 reconstructed_timing_pairs_against_japanese_spoken_dialogue: 307
 reconstructed_spoken_pair_coverage: 0.874644
@@ -51,16 +51,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> temporary local fetch/unpack -> V2.2 analysis -> provisional Drive artifact -> ledger/anomaly updates -> verified readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> temporary local fetch/unpack -> V2.2 analysis -> provisional Drive artifact -> ledger/anomaly updates -> verified readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: LLS_PHASE0_ANOMALY_LEDGER_V1.md
-local_cleanup_status: "completed; local ZIP/extraction/audio/frames/contact sheets/reconstructed comparison helper/temporary acoustic and visual derivatives removed after verified Drive episode+ledger+anomaly readback"
-retained_local_derivatives: "none; durable analytical Markdown and exact source locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP/extraction/audio/frames/contact sheets/reconstructed comparison helper/temporary acoustic and visual derivatives removed after verified Drive episode+ledger+anomaly readback
+retained_local_derivatives: none; durable analytical Markdown and exact source locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_SEASON1_FROZEN_CHECKPOINT.md
 recommended_reasoning_for_next_artifact: High
 ---

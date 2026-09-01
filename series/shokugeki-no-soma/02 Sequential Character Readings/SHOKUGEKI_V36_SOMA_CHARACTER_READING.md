@@ -4,10 +4,10 @@ artifact_type: soma_character_reading
 scope: V36
 generation: V1
 status: canonical
-source_boundary: "Original Japanese manga Volume 36. Serialized mainline Chapters 309-315 are primary endpoint evidence. Official final-volume Le dessert 1 Present, 2 Passe, and 3 Futur are canonical post-finale evidence but are explicitly tiered below the serialized publication endpoint when reconstructing local chapter-state. Separators, author material, acknowledgments, advertisements, colophon, and covers are bibliographic/paratextual only."
-source_file: "[附田祐斗×佐伯俊] 食戟のソーマ 第36巻.cbz"
-source_drive_id: "15pTi0RXk1rmAToKOoHknYaFk3XLjnBAq"
-source_sha256: "d00b328d89f097223b53ec5738ad85076ebb12117d0404897a549d94232187cb"
+source_boundary: Original Japanese manga Volume 36. Serialized mainline Chapters 309-315 are primary endpoint evidence. Official final-volume Le dessert 1 Present, 2 Passe, and 3 Futur are canonical post-finale evidence but are explicitly tiered below the serialized publication endpoint when reconstructing local chapter-state. Separators, author material, acknowledgments, advertisements, colophon, and covers are bibliographic/paratextual only.
+source_file: '[附田祐斗×佐伯俊] 食戟のソーマ 第36巻.cbz'
+source_drive_id: 15pTi0RXk1rmAToKOoHknYaFk3XLjnBAq
+source_sha256: d00b328d89f097223b53ec5738ad85076ebb12117d0404897a549d94232187cb
 source_image_count: 259
 supersedes: []
 superseded_by: []

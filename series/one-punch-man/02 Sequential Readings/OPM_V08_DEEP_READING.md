@@ -4,13 +4,13 @@ artifact_type: deep_reading
 scope: V08
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 8; Drive CBZ SHA-256 25badfb2ec78bab674c7bb0a367d70bbebd02982d163de023415a0789ed99813"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 8; Drive CBZ SHA-256 25badfb2ec78bab674c7bb0a367d70bbebd02982d163de023415a0789ed99813
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-08-24
-checkpoint_relation: "Second held-out volume after immutable OPM_V01-V06_CHECKPOINT.md"
+checkpoint_relation: Second held-out volume after immutable OPM_V01-V06_CHECKPOINT.md
 ---
 
 # One Punch Man — V08 Deep Reading

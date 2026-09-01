@@ -1,15 +1,15 @@
 ---
-title: "Yuru Camp△ Current State and Corpus Map"
-artifact_id: "YURUCAMP_CURRENT_STATE_AND_CORPUS_MAP"
+title: Yuru Camp△ Current State and Corpus Map
+artifact_id: YURUCAMP_CURRENT_STATE_AND_CORPUS_MAP
 series: YURUCAMP
-series_title: "Yuru Camp△ / ゆるキャン△"
+series_title: Yuru Camp△ / ゆるキャン△
 artifact_type: corpus_map
-scope: "V01-V15 active sequential corpus"
+scope: V01-V15 active sequential corpus
 generation: V1
 status: canonical
-source_boundary: "Japanese manga through Volume 15"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga through Volume 15
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 analysis_state: active_provisional
 current_adversarial_checkpoint: YURUCAMP_V13-V15_CHECKPOINT.md
@@ -18,7 +18,7 @@ next_sequential_artifact: YURUCAMP_V16_DEEP_READING.md
 governing_method: YURUCAMP_ANALYTICAL_METHOD_V1.md
 governing_architecture: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md
 geography_amendment: YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md
-created: "2026-08-26"
+created: '2026-08-26'
 ---
 
 # Yuru Camp△ Current State and Corpus Map

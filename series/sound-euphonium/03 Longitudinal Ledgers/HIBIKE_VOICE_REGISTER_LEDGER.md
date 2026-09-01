@@ -4,9 +4,9 @@ artifact_type: voice_register_ledger
 scope: CUMULATIVE_THROUGH_V14
 generation: V2
 status: active_provisional
-source_boundary: "Locked Japanese prose evidence through HIBIKE-V14"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese prose evidence through HIBIKE-V14
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

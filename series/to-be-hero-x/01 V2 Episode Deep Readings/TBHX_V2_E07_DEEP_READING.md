@@ -5,17 +5,17 @@ scope: E07
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 7 analytical bundle; S01E01-S01E07 broadcast knowledge only"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 7 analytical bundle; S01E01-S01E07 broadcast knowledge only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 07 Deep Reading"
+title: To Be Hero X V2 — Episode 07 Deep Reading
 season: 1
 episode: 7
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e07_screenshots.zip"
-source_bundle_sha256: "1d8423fa060ef18cc4fc282ff130d161166d2915a32ad6c39ebadf04476cf0dc"
+analysis_version: '2.0'
+source_bundle: BHX_s01e07_screenshots.zip
+source_bundle_sha256: 1d8423fa060ef18cc4fc282ff130d161166d2915a32ad6c39ebadf04476cf0dc
 source_duration_seconds: 1507.051
 program_start_seconds: 39.375
 analysis_start_seconds: 39.125
@@ -25,11 +25,11 @@ mandarin_ocr_min_confidence: 0.773176
 low_confidence_events: 1
 contact_sheet_count: 58
 kept_screenshot_count: 1145
-spoiler_boundary: "S01E01-S01E07 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
+spoiler_boundary: S01E01-S01E07 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
 ---
 
 # To Be Hero X V2 — Episode 07 Deep Reading

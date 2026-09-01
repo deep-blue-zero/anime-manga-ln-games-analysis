@@ -9,18 +9,18 @@ tranche: 03A
 status: active_provisional
 version: 2.1
 last_updated: 2026-08-18
-source_boundary: "Episode-primary Mandarin evidence through E24; aligned Japanese captions; official English/Japanese character pages; verified official Chinese naming/promotional materials"
+source_boundary: Episode-primary Mandarin evidence through E24; aligned Japanese captions; official English/Japanese character pages; verified official Chinese naming/promotional materials
 first_systematic_audit: complete
 phase5_language_synthesis_pass: complete
-phase5_language_synthesis_artifact: "17_MANDARIN_DIALOGUE_VOICE_NAMING_REGISTER_AND_JAPANESE_REFERENCE_AUDIT.md"
-phase5_language_synthesis_drive_id: "13z_uNfrjV7GBcO6XaZ5ivn01fdjC6jA7"
+phase5_language_synthesis_artifact: 17_MANDARIN_DIALOGUE_VOICE_NAMING_REGISTER_AND_JAPANESE_REFERENCE_AUDIT.md
+phase5_language_synthesis_drive_id: 13z_uNfrjV7GBcO6XaZ5ivn01fdjC6jA7
 second_evidence_routing_audit: pending_phase_7
 archival_freeze: pending_phase_9
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-canonical_home: "04 V2 Evidence and Revision"
-prospective_rule: "Full-series equivalences may be recorded here but must not be retrojected into frozen episode-local readings before the relevant broadcast/source establishes them."
+canonical_home: 04 V2 Evidence and Revision
+prospective_rule: Full-series equivalences may be recorded here but must not be retrojected into frozen episode-local readings before the relevant broadcast/source establishes them.
 ---
 
 # TBHX Name and Localization Crosswalk

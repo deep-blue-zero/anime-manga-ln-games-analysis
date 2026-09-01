@@ -7,11 +7,12 @@ generation: V2
 status: canonical
 analysis_mode: continuous_sequential
 run_scope: DJFW_CASE_0002-DJFW_CASE_0010
-source_boundary: "Full 79-page CBZ sequential visual review of Nerimono Koujou's multi-author GakuMas Dosukebe Goudoushi - Gakuen Ikisugi Master 4. The current upload is SHA-identical to the previously registered source and does not create a new case. Hiro analysis is confined to two adjacent micro-segments; explicit material is described only structurally."
+source_boundary: Full 79-page CBZ sequential visual review of Nerimono Koujou's multi-author GakuMas Dosukebe Goudoushi - Gakuen Ikisugi Master 4. The current upload is SHA-identical to the previously registered source and does not create a new case. Hiro analysis is confined to two adjacent micro-segments; explicit material is described only structurally.
 source_sha256: ff80607eeecf58ecdd506aefe790deac62d53997c9bfc8fcd2c1f6c0e9155189
 source_pages: 79
-supersedes: DJFW_CASE_0008_GAKUMAS_GAKUEN_IKISUGI_MASTER_4_CASE_READING.md
-superseded_by: null
+supersedes:
+- studies/doujinshi-fanwork-comparative-taxonomy/02 Case Readings/0008_GAKUMAS_GAKUEN_IKISUGI_MASTER_4/DJFW_CASE_0008_GAKUMAS_GAKUEN_IKISUGI_MASTER_4_CASE_READING.md
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

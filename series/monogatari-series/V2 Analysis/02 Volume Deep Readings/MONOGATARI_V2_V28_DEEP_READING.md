@@ -1,36 +1,37 @@
 ---
-title: "MONOGATARI V2 V28 Deep Reading - 死物語 上"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V28"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『死物語 上』, supplied archive item 28 死物語 上.epub; V29 『死物語 下』 is excluded except as quarantined paratextual/source metadata"
-supersedes: null
-superseded_by: null
+title: MONOGATARI V2 V28 Deep Reading - 死物語 上
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V28
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『死物語 上』, supplied archive item 28 死物語 上.epub; V29 『死物語 下』 is excluded except as quarantined paratextual/source metadata
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V28_DEEP_READING"
-version: "1.0"
-date: "2026-08-18"
-volume_code: "V28"
-japanese_title: "死物語 上"
-archive_position: "Monster Season archive spine V28; fifth numbered Monster Season volume; upper half of 死物語"
-publication_position: "Kodansha BOX print basis August 2021; supplied electronic edition states September 1, 2021 electronic issue"
-source_file: "28 死物語 上.epub"
-source_drive_id: "1pgcLphSTITwbhfMsoyITZMHAB-vxpdKo"
-source_sha256: "75dcc89f0a13e82fbac83184addc971edd941d87a612aad28955d8672ab32469"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V28_DEEP_READING
+version: '1.0'
+date: '2026-08-18'
+volume_code: V28
+japanese_title: 死物語 上
+archive_position: Monster Season archive spine V28; fifth numbered Monster Season volume; upper half of 死物語
+publication_position: Kodansha BOX print basis August 2021; supplied electronic edition states September 1, 2021 electronic issue
+source_file: 28 死物語 上.epub
+source_drive_id: 1pgcLphSTITwbhfMsoyITZMHAB-vxpdKo
+source_sha256: 75dcc89f0a13e82fbac83184addc971edd941d87a612aad28955d8672ab32469
 source_size_bytes: 520829
-source_language: "ja"
-source_author: "西尾維新"
-source_status: "verified"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies an August 2021 Kodansha BOX print basis; electronic colophon identifies September 1, 2021 issue. OPF/calibre dates are wrapper/file-history metadata, not governing publication evidence."
-principal_story_units: "第八話 しのぶスーサイド"
-narrators: ["阿良々木暦"]
-internal_story_range: "Main case: April of Araragi's university second year, immediately after he turns twenty, during pandemic-era remote university. Epilogue: approximately two to three years later on 曲直瀬大学 graduation day. Both strata precede or approach, but do not overwrite, V23's age-twenty-three police-period authority."
-spoiler_policy: "publication-local + labeled retrospective V2 hindsight. V28 may use V01-V27 because they precede its publication boundary. V29 『死物語 下』 and later material are excluded from analytical claims."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD 2.0"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_status: verified
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies an August 2021 Kodansha BOX print basis; electronic colophon identifies September 1, 2021 issue. OPF/calibre dates are wrapper/file-history metadata, not governing publication evidence.
+principal_story_units: 第八話 しのぶスーサイド
+narrators:
+- 阿良々木暦
+internal_story_range: 'Main case: April of Araragi''s university second year, immediately after he turns twenty, during pandemic-era remote university. Epilogue: approximately two to three years later on 曲直瀬大学 graduation day. Both strata precede or approach, but do not overwrite, V23''s age-twenty-three police-period authority.'
+spoiler_policy: publication-local + labeled retrospective V2 hindsight. V28 may use V01-V27 because they precede its publication boundary. V29 『死物語 下』 and later material are excluded from analytical claims.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD 2.0
+reasoning_recommendation_used: Very High
 ---
 
 # MONOGATARI V2 — Volume 28 Deep Reading

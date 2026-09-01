@@ -4,10 +4,10 @@ artifact_type: soma_character_reading
 scope: V30
 generation: V1
 status: canonical
-source_boundary: "Original Japanese manga Volume 30 mainline Chapters 254-262. The mainline ends at CBZ image 30-186. The two-page omake 'Makuai ~Senzaemon no Kaisou~' at 30-187 to 30-188 is supplementary and supplies no direct Soma evidence. Images 30-189 onward are preview, promotional, publication, colophon, and cover backmatter. No Volume 31 or later state is imported."
-source_file: "[附田祐斗×佐伯俊] 食戟のソーマ 第30巻.cbz"
-source_drive_id: "1SkJYd3a8jj9gN9ggjPjdbKCHodaHMO2L"
-source_sha256: "a843a37e4fcf0ddf9d090cff2745b82d251084c70ebc0762576251871341fa2e"
+source_boundary: Original Japanese manga Volume 30 mainline Chapters 254-262. The mainline ends at CBZ image 30-186. The two-page omake 'Makuai ~Senzaemon no Kaisou~' at 30-187 to 30-188 is supplementary and supplies no direct Soma evidence. Images 30-189 onward are preview, promotional, publication, colophon, and cover backmatter. No Volume 31 or later state is imported.
+source_file: '[附田祐斗×佐伯俊] 食戟のソーマ 第30巻.cbz'
+source_drive_id: 1SkJYd3a8jj9gN9ggjPjdbKCHodaHMO2L
+source_sha256: a843a37e4fcf0ddf9d090cff2745b82d251084c70ebc0762576251871341fa2e
 source_image_count: 199
 supersedes: []
 superseded_by: []

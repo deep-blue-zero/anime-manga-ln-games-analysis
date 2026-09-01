@@ -4,16 +4,16 @@ artifact_type: supplementary_deep_reading
 scope: SUPP_MIJIKANAMONOGATARI
 generation: V2
 status: canonical
-source_boundary: "短物語.epub as the 39-story SUP-A compilation; 化物語 アニメコンプリートガイドブック.epub only as GUIDE-001–005 earliest-release witnesses; numbered V01-V30, frozen checkpoints, placement audit, and admitted Hyakumonogatari used only as comparison/authority surfaces"
+source_boundary: 短物語.epub as the 39-story SUP-A compilation; 化物語 アニメコンプリートガイドブック.epub only as GUIDE-001–005 earliest-release witnesses; numbered V01-V30, frozen checkpoints, placement audit, and admitted Hyakumonogatari used only as comparison/authority surfaces
 source_class: SUP-A_authored_supplementary_prose
-compilation_horizon: "paper basis September 2024; electronic issue 2024-10-01; constituent stories retain independent first-release horizons"
-internal_horizon: "39 independent story-local placements ranging from Kizumonogatari spring break through working-adult pre-V30 bridge; exact placement remains UA where the text does not support more precision"
+compilation_horizon: paper basis September 2024; electronic issue 2024-10-01; constituent stories retain independent first-release horizons
+internal_horizon: 39 independent story-local placements ranging from Kizumonogatari spring break through working-adult pre-V30 bridge; exact placement remains UA where the text does not support more precision
 primary_source_drive_id: 1jwAmH0lE59idvXCCWuzxIjCBWPLXvKfg
 primary_source_sha256: b6902c029d5743567df1987782aca0de586e5116f0731e4bc6e65e1f63b8e969
 guide_witness_drive_id: 1vYokBdaWcKmX_rSMFt3nOXc4EdPfz_ns
 guide_witness_sha256: 59e2747939e8d3d6edd292ddc38a77b47251323c03b889354c2730543e52481c
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 inherits_placement_authority: MONOGATARI_V2_SUPPLEMENTARY_SOURCE_PLACEMENT_AUDIT.md
 primary_numbered_boundary: V30

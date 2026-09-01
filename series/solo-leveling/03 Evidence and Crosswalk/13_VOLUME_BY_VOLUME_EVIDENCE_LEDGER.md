@@ -1,19 +1,19 @@
 ---
-title: "Solo Leveling — Volume-by-Volume Evidence Ledger"
-project: "Solo Leveling Definitive Novel–Manhwa Synthesis"
-document_id: "SL_SYNTH_13"
-version: "1.0"
+title: Solo Leveling — Volume-by-Volume Evidence Ledger
+project: Solo Leveling Definitive Novel–Manhwa Synthesis
+document_id: SL_SYNTH_13
+version: '1.0'
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
-  - "Chugong's complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2"
-  - "Official English manhwa Volumes 1–15"
-governing_method: "../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md"
-paired_architecture: "../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md"
-spoilers: "complete series"
-source_inventory_date: "2026-08-12"
+- 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
+- Official English manhwa Volumes 1–15
+governing_method: ../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md
+paired_architecture: ../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md
+spoilers: complete series
+source_inventory_date: '2026-08-12'
 phase: 3
 ---
 

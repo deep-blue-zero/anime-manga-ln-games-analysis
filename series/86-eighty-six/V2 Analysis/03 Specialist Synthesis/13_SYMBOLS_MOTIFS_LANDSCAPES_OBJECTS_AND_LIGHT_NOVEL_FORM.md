@@ -1,75 +1,75 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "specialist_synthesis"
-document_id: "13"
-title: "Symbols, Motifs, Landscapes, Objects, and Light-Novel Form"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: specialist_synthesis
+document_id: '13'
+title: Symbols, Motifs, Landscapes, Objects, and Light-Novel Form
+scope: V01-V14+ALTER1
 phase: 6
-generation: "V2"
-method_version: "V2"
-status: "canonical"
-date: "2026-08-16"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-macro_orientation: "01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md"
-chronological_evidence_spine: "15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-locator_authority: "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
+generation: V2
+method_version: V2
+status: canonical
+date: '2026-08-16'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+macro_orientation: 01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md
+chronological_evidence_spine: 15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+locator_authority: 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
 primary_retrieval_dossiers:
-  - "T13_MOTIFS_OBJECTS_SPACES_AND_VISUAL_PARATEXT_RETRIEVAL.md"
-  - "T14_CONTRADICTION_COUNTEREVIDENCE_AND_OPEN_QUESTION_RETRIEVAL.md"
+- T13_MOTIFS_OBJECTS_SPACES_AND_VISUAL_PARATEXT_RETRIEVAL.md
+- T14_CONTRADICTION_COUNTEREVIDENCE_AND_OPEN_QUESTION_RETRIEVAL.md
 longitudinal_inputs:
-  - "L10_MOTIF_OBJECT_AND_SYMBOL_LEDGER.md"
+- L10_MOTIF_OBJECT_AND_SYMBOL_LEDGER.md
 related_specialist_documents:
-  - "01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md"
-  - "02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md"
-  - "03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md"
-  - "04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md"
-  - "05_SAN_MAGNOLIA_RACISM_GENOCIDE_COMPLICITY_AND_MEMORY.md"
-  - "06_GIAD_AND_COMPARATIVE_INSTITUTIONS_CITIZENSHIP_FREEDOM_AND_PATERNALISM.md"
-  - "07_WAR_STRATEGY_LOGISTICS_TECHNOLOGY_AND_HEROISM.md"
-  - "08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md"
-  - "09_CHILDHOOD_PRIDE_TRAUMA_GRIEF_RECOVERY_AND_ORDINARY_LIFE.md"
-  - "10_SHIN_LENA_LOVE_DEPENDENCE_HOME_AND_THE_RIGHT_TO_RETURN.md"
-  - "11_LEGION_MEMORY_IDENTITY_AND_POSTHUMAN_CONTINUITY.md"
-  - "12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md"
+- 01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md
+- 02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md
+- 03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md
+- 04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md
+- 05_SAN_MAGNOLIA_RACISM_GENOCIDE_COMPLICITY_AND_MEMORY.md
+- 06_GIAD_AND_COMPARATIVE_INSTITUTIONS_CITIZENSHIP_FREEDOM_AND_PATERNALISM.md
+- 07_WAR_STRATEGY_LOGISTICS_TECHNOLOGY_AND_HEROISM.md
+- 08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md
+- 09_CHILDHOOD_PRIDE_TRAUMA_GRIEF_RECOVERY_AND_ORDINARY_LIFE.md
+- 10_SHIN_LENA_LOVE_DEPENDENCE_HOME_AND_THE_RIGHT_TO_RETURN.md
+- 11_LEGION_MEMORY_IDENTITY_AND_POSTHUMAN_CONTINUITY.md
+- 12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md
 evidence_layers:
-  - "persistent_physical_object"
-  - "repeated_prose_image_or_spatial_relation"
-  - "chapter_and_volume_formal_architecture"
-  - "interior_illustration"
-  - "cover_and_front_matter_paratext"
-  - "technical_map_or_machine_plate"
-  - "decorative_or_editorial_graphic"
+- persistent_physical_object
+- repeated_prose_image_or_spatial_relation
+- chapter_and_volume_formal_architecture
+- interior_illustration
+- cover_and_front_matter_paratext
+- technical_map_or_machine_plate
+- decorative_or_editorial_graphic
 adversarial_constraints:
-  - "T14-C04"
-  - "T14-C05"
-  - "T14-C18"
-  - "T14-C27"
-  - "T14-C31"
-  - "T14-C33"
-  - "T14-C34"
-  - "T14-C35"
-  - "T14-C36"
-  - "T14-C37"
-  - "T14-C40"
-  - "T14-C41"
+- T14-C04
+- T14-C05
+- T14-C18
+- T14-C27
+- T14-C31
+- T14-C33
+- T14-C34
+- T14-C35
+- T14-C36
+- T14-C37
+- T14-C40
+- T14-C41
 open_questions_preserved:
-  - "T14-OQ-04"
-  - "T14-OQ-06"
-  - "T14-OQ-07"
-  - "T14-OQ-13"
-  - "T14-OQ-17"
-  - "T14-OQ-22"
-  - "T14-OQ-26"
-  - "T14-OQ-27"
-  - "T14-OQ-29"
-  - "T14-OQ-30"
-  - "T14-OQ-31"
-  - "T14-OQ-32"
-supersedes: null
-superseded_by: null
+- T14-OQ-04
+- T14-OQ-06
+- T14-OQ-07
+- T14-OQ-13
+- T14-OQ-17
+- T14-OQ-22
+- T14-OQ-26
+- T14-OQ-27
+- T14-OQ-29
+- T14-OQ-30
+- T14-OQ-31
+- T14-OQ-32
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

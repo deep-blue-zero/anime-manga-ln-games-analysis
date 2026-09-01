@@ -6,48 +6,48 @@ scope: S2E01-S2E12
 generation: V2.2
 status: canonical
 checkpoint_status: frozen
-frozen_at: "2026-08-25"
-source_boundary: "Japanese-audio TV Season 2, S2E01-S2E12 only, interpreted against frozen Season-1 authority"
-semantic_evidence_boundary: "S1E01-S2E12 only"
+frozen_at: '2026-08-25'
+source_boundary: Japanese-audio TV Season 2, S2E01-S2E12 only, interpreted against frozen Season-1 authority
+semantic_evidence_boundary: S1E01-S2E12 only
 future_semantic_evidence_used: false
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 mutable_in_place: false
-governing_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-governing_architecture: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+governing_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+governing_architecture: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 prior_frozen_checkpoint: LLS_SEASON1_FROZEN_CHECKPOINT.md
 prior_frozen_checkpoint_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 season2_source_lock: LLS_PHASE0_S2_SOURCE_LOCK_V1.md
 season2_source_lock_drive_id: 1hrSvqDt6Vyjqn-fRhJbY9Hmj92bXpRaY
-canonical_episode_range: "LLS_S2E01_DEEP_READING_V2.md through LLS_S2E12_DEEP_READING_V2.md"
+canonical_episode_range: LLS_S2E01_DEEP_READING_V2.md through LLS_S2E12_DEEP_READING_V2.md
 canonical_episode_drive_ids:
-  - 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
-  - 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
-  - 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
-  - 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
-  - 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
-  - 13pTTG9-OoXt9mkQE0MgpOrtZrvsaA7YE
-  - 1bkynaGNKLd6AD3__pauxNfAJb7sJc44a
-  - 15MJkPYjRpv7DjQF9n05lnLqJzve3_qBh
-  - 1Kwsherb2wxPN05KwRHaw_pLixqAduJZv
-  - 18sEvbwCcJ4_l4jCx5YrvE_Pepm7PVSX6
-  - 1TxUxctKBaHPeg30jtOifj6whN8T_5VLj
-  - 1Wa8uy29jyhwPgKTSMzVeMajWTBAncYVe
+- 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
+- 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
+- 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
+- 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
+- 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
+- 13pTTG9-OoXt9mkQE0MgpOrtZrvsaA7YE
+- 1bkynaGNKLd6AD3__pauxNfAJb7sJc44a
+- 15MJkPYjRpv7DjQF9n05lnLqJzve3_qBh
+- 1Kwsherb2wxPN05KwRHaw_pLixqAduJZv
+- 18sEvbwCcJ4_l4jCx5YrvE_Pepm7PVSX6
+- 1TxUxctKBaHPeg30jtOifj6whN8T_5VLj
+- 1Wa8uy29jyhwPgKTSMzVeMajWTBAncYVe
 model_ledgers_frozen_against:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 revision_vocabulary:
-  - PRESERVE
-  - STRENGTHEN
-  - REVISE
-  - DOWNGRADE
-  - REJECT
-  - OPEN
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
 next_semantic_target: S3E01
-season3_admission_gate: "S3E01 semantic evidence may be admitted only after this checkpoint is durably written, read back, registered in the current-state map, and registered in the four cumulative ledgers."
+season3_admission_gate: S3E01 semantic evidence may be admitted only after this checkpoint is durably written, read back, registered in the current-state map, and registered in the four cumulative ledgers.
 ---
 
 # Love Live! Superstar!! — Season 2 Frozen Checkpoint

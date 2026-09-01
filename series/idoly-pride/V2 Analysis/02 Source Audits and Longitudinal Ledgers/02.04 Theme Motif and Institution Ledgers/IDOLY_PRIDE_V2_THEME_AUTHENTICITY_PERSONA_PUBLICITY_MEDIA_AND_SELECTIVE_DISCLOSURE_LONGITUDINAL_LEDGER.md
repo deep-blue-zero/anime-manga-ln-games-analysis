@@ -3,47 +3,47 @@ series: IDOLY_PRIDE
 artifact_type: theme_longitudinal_ledger
 artifact_role: LEDGER
 scope: THEME_AUTHENTICITY_PERSONA_PUBLICITY_MEDIA_AND_SELECTIVE_DISCLOSURE
-theme: "Authenticity / persona / publicity / media / selective disclosure"
+theme: Authenticity / persona / publicity / media / selective disclosure
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-E-04"
+phase: '2'
+tranche: P2-E-04
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 cross-unit thematic reconstruction of authenticity, persona, publicity, media, and selective disclosure across the frozen 2026-08-13 analytical snapshot. This ledger inherits current character, relationship, and unit ledgers plus P2-E-01/P2-E-02/P2-E-03 and routed Phase-1 close-read audits rather than indiscriminately reopening every bundle. Load-bearing propositions descend through canonical local owners to exact source-bundle/story locators. No post-snapshot source is admitted. Audience co-authorship, memorial provenance, management confidentiality, labor, identity/vocation continuity, and audiovisual/voice realization remain routed to their own canonical homes where this ledger does not own the semantic responsibility."
+source_boundary: Phase-2 cross-unit thematic reconstruction of authenticity, persona, publicity, media, and selective disclosure across the frozen 2026-08-13 analytical snapshot. This ledger inherits current character, relationship, and unit ledgers plus P2-E-01/P2-E-02/P2-E-03 and routed Phase-1 close-read audits rather than indiscriminately reopening every bundle. Load-bearing propositions descend through canonical local owners to exact source-bundle/story locators. No post-snapshot source is admitted. Audience co-authorship, memorial provenance, management confidentiality, labor, identity/vocation continuity, and audiovisual/voice realization remain routed to their own canonical homes where this ledger does not own the semantic responsibility.
 inherits:
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_THEME_ANSWERABLE_INTERDEPENDENCE_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_THEME_AUTONOMY_MANAGEMENT_INTERVENTION_AND_PROFESSIONAL_CARE_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_THEME_GRIEF_DEATH_MEMORY_INHERITANCE_AND_NON_REPLACEMENT_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_YU_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_KOKORO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_SHIZUKU_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_MIHO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_FRAN_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_IIIX_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_LIZNOIR_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_SUNNY_PEACE_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_PHASE1B_EVENT_E2A3_CLOSE_READ_AUDIT.md
-  - IDOLY_PRIDE_V2_PHASE1B_EVENT_E2B1_CLOSE_READ_AUDIT.md
-  - IDOLY_PRIDE_V2_PHASE1B_EVENT_E2C1_CLOSE_READ_AUDIT.md
-  - IDOLY_PRIDE_V2_PHASE1B_EVENT_SUPPORT_DEFERRED_CLOSE_READ_AUDIT.md
-  - IDOLY_PRIDE_V2_PHASE1B_EVENT_E3_CLOSE_READ_AUDIT.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_THEME_ANSWERABLE_INTERDEPENDENCE_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_THEME_AUTONOMY_MANAGEMENT_INTERVENTION_AND_PROFESSIONAL_CARE_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_THEME_GRIEF_DEATH_MEMORY_INHERITANCE_AND_NON_REPLACEMENT_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_YU_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_KOKORO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_SHIZUKU_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_MIHO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_FRAN_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_IIIX_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_LIZNOIR_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_SUNNY_PEACE_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_PHASE1B_EVENT_E2A3_CLOSE_READ_AUDIT.md
+- IDOLY_PRIDE_V2_PHASE1B_EVENT_E2B1_CLOSE_READ_AUDIT.md
+- IDOLY_PRIDE_V2_PHASE1B_EVENT_E2C1_CLOSE_READ_AUDIT.md
+- IDOLY_PRIDE_V2_PHASE1B_EVENT_SUPPORT_DEFERRED_CLOSE_READ_AUDIT.md
+- IDOLY_PRIDE_V2_PHASE1B_EVENT_E3_CLOSE_READ_AUDIT.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-integrity_status: "P2_E_04_AUTHENTICITY_PERSONA_PUBLICITY_MEDIA_SELECTIVE_DISCLOSURE_COMPLETE"
-created: "2026-08-26"
-updated: "2026-08-26"
-next_operation: "P2-E-05 — IDOLY_PRIDE_V2_THEME_AUDIENCE_RECIPROCITY_FANDOM_PERFORMANCE_AND_CREATIVE_GOVERNANCE_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+integrity_status: P2_E_04_AUTHENTICITY_PERSONA_PUBLICITY_MEDIA_SELECTIVE_DISCLOSURE_COMPLETE
+created: '2026-08-26'
+updated: '2026-08-26'
+next_operation: P2-E-05 — IDOLY_PRIDE_V2_THEME_AUDIENCE_RECIPROCITY_FANDOM_PERFORMANCE_AND_CREATIVE_GOVERNANCE_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — AUTHENTICITY, PERSONA, PUBLICITY, MEDIA, AND SELECTIVE DISCLOSURE LONGITUDINAL LEDGER

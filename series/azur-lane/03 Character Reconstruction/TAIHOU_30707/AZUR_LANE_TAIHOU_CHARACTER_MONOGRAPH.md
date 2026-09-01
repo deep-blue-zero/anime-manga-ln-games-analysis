@@ -16,14 +16,18 @@ promotion_audit: AZUR_LANE_TAIHOU_CHARACTER_MONOGRAPH_PROMOTION_AUDIT.md
 promotion_audit_drive_id: 1jU8gKOsOrl01lNSoDWd1-H2GVfs2scYl90THFwtdH1Y
 semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "Frozen R9 Taihou V1 textual/behavioral reconstruction over the pinned CN semantic corpus and aligned CN/JP/EN/TW/KR regional textual witnesses, integrating canonical R0-R8 specialist authorities and validated C1-C3 constrained simulation. Exhaustive JP performed-voice modeling remains a separate OPEN_PARTIAL_SOURCE_MAPPING track outside the promoted V1 scope."
+source_boundary: Frozen R9 Taihou V1 textual/behavioral reconstruction over the pinned CN semantic corpus and aligned CN/JP/EN/TW/KR regional textual witnesses, integrating canonical R0-R8 specialist authorities and validated C1-C3 constrained simulation. Exhaustive JP performed-voice modeling remains a separate OPEN_PARTIAL_SOURCE_MAPPING track outside the promoted V1 scope.
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 readiness_grade: A
 readiness_score: 86.89
 composition_warning: COMMANDER_HEAVY
 longitudinal_authority: AZUR_LANE_TAIHOU_LONGITUDINAL_BEHAVIORAL_SYNTHESIS.md
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 r5_validation: AZUR_LANE_TAIHOU_ADVERSARIAL_VALIDATION_AUDIT.md
 r5_result: TAIHOU_R5_PASS_WITH_N5_REVISED_TO_RECIPROCAL_CONSEQUENTIALITY_HARD_REFUSAL_AND_HIGH_STAKES_EDGES_OPEN
 r6_relationship_authority: AZUR_LANE_TAIHOU_RELATIONSHIP_STATE_SYNTHESIS.md
@@ -39,8 +43,8 @@ r9_promotion_audit_status: pass
 performed_voice_status: open_partial_source_mapping
 r5_validation_status: complete
 full_simulator_status: canonical_textual_behavioral_relationship_multilingual_c1_c3_adversarially_validated_jp_performed_voice_open_partial_source_mapping
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

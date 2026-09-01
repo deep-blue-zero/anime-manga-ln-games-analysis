@@ -4,12 +4,12 @@ artifact_type: checkpoint
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_CORE
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 - China complete character bundle; audiovisual evidence not yet inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 - China complete character bundle; audiovisual evidence not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-reasoning_route: "GPT-5.6 Sol - Extra High"
-last_updated: "2026-08-15"
+reasoning_route: GPT-5.6 Sol - Extra High
+last_updated: '2026-08-15'
 ---
 
 # GKM PHASE 3 - KURAMOTO CHINA CORE PASS REPORT

@@ -8,19 +8,23 @@ generation: V1
 status: canonical
 phase: R7
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "Pinned Taihou regional alignment corpus: 117 character-text records, 252 social alignment candidates, 2,172 narrative alignment candidates, manually verified relationship-state story sequences, and routed CN/JP/EN/TW/KR Dorm3D evidence. CN governs semantic characterization. JP/EN/TW/KR are independent regional textual realizations. Structural rewrites, untranslated regional payloads, and unresolved DormLvPerformance1201-1204 exact-script references are excluded from unsupported equivalence claims. JP performed voice is not modeled here."
+source_boundary: 'Pinned Taihou regional alignment corpus: 117 character-text records, 252 social alignment candidates, 2,172 narrative alignment candidates, manually verified relationship-state story sequences, and routed CN/JP/EN/TW/KR Dorm3D evidence. CN governs semantic characterization. JP/EN/TW/KR are independent regional textual realizations. Structural rewrites, untranslated regional payloads, and unresolved DormLvPerformance1201-1204 exact-script references are excluded from unsupported equivalence claims. JP performed voice is not modeled here.'
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 r6_authority: AZUR_LANE_TAIHOU_RELATIONSHIP_STATE_SYNTHESIS.md
 r5_authority: AZUR_LANE_TAIHOU_ADVERSARIAL_VALIDATION_AUDIT.md
 target_artifact: AZUR_LANE_TAIHOU_CHARACTER_MONOGRAPH.md
 target_status: active_provisional
 regional_alignment_model: regional-semantic-rules-1.0.0
 performed_voice_status: open_partial_source_mapping
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

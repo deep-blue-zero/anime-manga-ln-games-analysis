@@ -3,43 +3,44 @@ series: IDOLY_PRIDE
 artifact_type: relationship_longitudinal_ledger
 artifact_role: LEDGER
 scope: REL_IIIX_INTERNAL_TRIAD
-relationship: "miho / fran / kana — IIIX internal triad"
+relationship: miho / fran / kana — IIIX internal triad
 relationship_codes:
-  - mhk
-  - kor
-  - kan
+- mhk
+- kor
+- kan
 unit: IIIX
 generation: V2
-version: "1.1"
+version: '1.1'
 status: canonical
-phase: "2"
-tranche: "P2-C-IIIX-INTERNAL-TRIAD"
+phase: '2'
+tranche: P2-C-IIIX-INTERNAL-TRIAD
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 internal-triad relationship reconstruction for IIIX / スリクス across the frozen 2026-08-13 analytical snapshot. Exact intersection of canonical mhk, kor, and kan routed occurrence data yields 28 deduplicated triad-bearing bundles: 11 main-story, 8 event, 4 IIIX-origin, 2 specials/misc, 2 messages, and 1 card. This is a breadth/contradiction frontier rather than a claim that all 28 contain equal triadic development. Load-bearing reconstruction directly reopens all four IIIX origins, the 2024 Las Vegas event, the 2024 REALISM/new-song event, both 2025 U.S. reauthorization events, the 2026 official-channel/adversarial-authenticity event, and claim-specific Friend Glass material, while inheriting corrected Tokyo/BIG4/Stellar sequencing and the canonical miho, fran, and kana character ledgers. No post-snapshot source is admitted. This P2-C artifact owns the internal relational constitution of the triad and explicitly does not advance IIIX unit freshness; P2-D remains responsible for IIIX as a unit/institution/performance system."
+source_boundary: 'Phase-2 internal-triad relationship reconstruction for IIIX / スリクス across the frozen 2026-08-13 analytical snapshot. Exact intersection of canonical mhk, kor, and kan routed occurrence data yields 28 deduplicated triad-bearing bundles: 11 main-story, 8 event, 4 IIIX-origin, 2 specials/misc, 2 messages, and 1 card. This is a breadth/contradiction frontier rather than a claim that all 28 contain equal triadic development. Load-bearing reconstruction directly reopens all four IIIX origins, the 2024 Las Vegas event, the 2024 REALISM/new-song event, both 2025 U.S. reauthorization events, the 2026 official-channel/adversarial-authenticity event, and claim-specific Friend Glass material, while inheriting corrected Tokyo/BIG4/Stellar sequencing and the canonical miho, fran, and kana character ledgers. No post-snapshot source is admitted. This P2-C artifact owns the internal relational constitution of the triad and explicitly does not advance IIIX unit freshness; P2-D remains responsible
+  for IIIX as a unit/institution/performance system.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE1B_IIIX_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
-  - IDOLY_PRIDE_V2_CHAR_MIHO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_FRAN_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE1B_IIIX_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
+- IDOLY_PRIDE_V2_CHAR_MIHO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_FRAN_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_C_IIIX_INTERNAL_TRIAD_PASS
-created: "2026-08-24"
-updated: "2026-08-26"
-revision_note: "v1.1 corrects exact all-three breadth accounting from 27 to 28 by restoring message_message_group_ladder-22-1109_001_message_group_ladder-22-1109_part_02; semantic relationship findings are unchanged."
-next_operation: "P2-D IIIX unit ledger completed; relationship authority unchanged after breadth correction"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-26'
+revision_note: v1.1 corrects exact all-three breadth accounting from 27 to 28 by restoring message_message_group_ladder-22-1109_001_message_group_ladder-22-1109_part_02; semantic relationship findings are unchanged.
+next_operation: P2-D IIIX unit ledger completed; relationship authority unchanged after breadth correction
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — IIIX INTERNAL TRIAD RELATIONSHIP LONGITUDINAL LEDGER

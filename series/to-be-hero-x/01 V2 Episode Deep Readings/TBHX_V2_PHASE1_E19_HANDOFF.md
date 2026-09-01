@@ -4,11 +4,11 @@ artifact_type: handoff
 scope: E19_to_E20
 generation: V2
 status: canonical
-source_boundary: "E01-E19 prospective corpus; sponsor interstitial and E20 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: E01-E19 prospective corpus; sponsor interstitial and E20 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 19 to Episode 20 Handoff"
+title: To Be Hero X V2 — Episode 19 to Episode 20 Handoff
 ---
 
 # TBHX V2 — Episode 19 → Episode 20 Handoff

@@ -6,19 +6,23 @@ scope_character: BALTIMORE_10316
 generation: V1
 status: canonical
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "392 clean five-locale aligned Baltimore speech records: 105 character-text records, 11 Baltimore-authored social messages, and 276 clean narrative dialogue records across 71 dialogue-bearing story scenes; R0-R6 analytical controls applied; nine false actor joins excluded"
+source_boundary: '392 clean five-locale aligned Baltimore speech records: 105 character-text records, 11 Baltimore-authored social messages, and 276 clean narrative dialogue records across 71 dialogue-bearing story scenes; R0-R6 analytical controls applied; nine false actor joins excluded'
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 relationship_authority: AZUR_LANE_BALTIMORE_RELATIONSHIP_STATE_SYNTHESIS.md
 performed_voice_model: OPEN
-performed_voice_evidence_status: "100/100 mapped JP spoken-text utterance WAV derivatives published; acoustic timing, prosody, timbre, and delivery not analyzed in R7"
-identity_quarantine: "9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records"
+performed_voice_evidence_status: 100/100 mapped JP spoken-text utterance WAV derivatives published; acoustic timing, prosody, timbre, and delivery not analyzed in R7
+identity_quarantine: '9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records'
 readiness_score: 82.91
 readiness_score_status: frozen_pre_remediation
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -1,36 +1,37 @@
 ---
-title: "MONOGATARI V2 V29 Deep Reading - 死物語 下"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V29"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel V29 死物語 下, supplied archive item 29 死物語 下.epub; V30 is excluded except as quarantined source metadata"
-supersedes: null
-superseded_by: null
+title: MONOGATARI V2 V29 Deep Reading - 死物語 下
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V29
+generation: V2
+status: canonical
+source_boundary: Japanese light novel V29 死物語 下, supplied archive item 29 死物語 下.epub; V30 is excluded except as quarantined source metadata
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V29_DEEP_READING"
-version: "1.0"
-date: "2026-08-18"
-volume_code: "V29"
-japanese_title: "死物語 下"
-archive_position: "Monster Season archive spine V29; sixth and terminal numbered Monster Season volume"
-publication_position: "Kodansha BOX print basis August 2021; supplied electronic edition states September 1, 2021 issue"
-source_file: "29 死物語 下.epub"
-source_drive_id: "1BvT4pGalTvJfRw0cBebCsSvLweZu0fuT"
-source_sha256: "82f726c5e976b2a63b32c74200afdfedd37716f105b5f6c5788329d4cea8a0bc"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V29_DEEP_READING
+version: '1.0'
+date: '2026-08-18'
+volume_code: V29
+japanese_title: 死物語 下
+archive_position: Monster Season archive spine V29; sixth and terminal numbered Monster Season volume
+publication_position: Kodansha BOX print basis August 2021; supplied electronic edition states September 1, 2021 issue
+source_file: 29 死物語 下.epub
+source_drive_id: 1BvT4pGalTvJfRw0cBebCsSvLweZu0fuT
+source_sha256: 82f726c5e976b2a63b32c74200afdfedd37716f105b5f6c5788329d4cea8a0bc
 source_size_bytes: 515668
-source_language: "ja"
-source_author: "西尾維新"
-source_status: "verified"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies an August 2021 Kodansha BOX print basis; electronic colophon identifies September 1, 2021 issue. OPF/calibre dates remain wrapper metadata."
-principal_story_units: "最終話 なでこアラウンド"
-narrators: ["Sengoku Nadeko"]
-internal_story_range: "Main case: Nadeko age fifteen after the V27 curse-chain investigation, including roughly two weeks stranded on the remote side of Iriomote and the Uroko encounter. Epilogue: three years later, Nadeko age eighteen, preparing to move to Tokyo after a manga-prize honorable/runner-up selection."
-spoiler_policy: "publication-local + labeled retrospective V2 hindsight. V29 may use V01-V28 because they precede its publication boundary. V30 and later material are excluded from analytical claims."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD 2.0"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_status: verified
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies an August 2021 Kodansha BOX print basis; electronic colophon identifies September 1, 2021 issue. OPF/calibre dates remain wrapper metadata.
+principal_story_units: 最終話 なでこアラウンド
+narrators:
+- Sengoku Nadeko
+internal_story_range: 'Main case: Nadeko age fifteen after the V27 curse-chain investigation, including roughly two weeks stranded on the remote side of Iriomote and the Uroko encounter. Epilogue: three years later, Nadeko age eighteen, preparing to move to Tokyo after a manga-prize honorable/runner-up selection.'
+spoiler_policy: publication-local + labeled retrospective V2 hindsight. V29 may use V01-V28 because they precede its publication boundary. V30 and later material are excluded from analytical claims.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD 2.0
+reasoning_recommendation_used: Very High
 ---
 
 # MONOGATARI V2 - Volume 29 Deep Reading

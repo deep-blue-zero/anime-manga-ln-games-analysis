@@ -4,11 +4,11 @@ artifact_type: deep_reading
 scope: V07_SS
 generation: V1
 status: historical_legacy
-source_boundary: "Kakuyomu「宇都宮舞香の夏休み」前後編"
-supersedes: null
-superseded_by: null
+source_boundary: Kakuyomu「宇都宮舞香の夏休み」前後編
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-provenance: "Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md"
+provenance: Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md
 ---
 
 # SHUUKURA V07 SS — 「宇都宮舞香の夏休み」

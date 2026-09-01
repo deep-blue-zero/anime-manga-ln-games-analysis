@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "deep_reading"
-scope: "E01"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episode 1, Japanese subtitle/visual packet"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: deep_reading
+scope: E01
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episode 1, Japanese subtitle/visual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 2
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 I unpacked and examined the episode packet. It is a very usable analysis bundle: **736 deduplicated episode screenshots**, **37 contact sheets**, a **439-cue Japanese ASS subtitle file**, a **12-scene scene index**, dialogue/manifest CSV+JSON files, and extraction stats covering a ~22:51 episode. The speaker labels are mostly absent, so character attribution has to be inferred from visuals, voice/speech patterns, and staging, but the subtitle text itself is available directly, so this does not require OCR. Branch · Idoly Pride Lore deep …

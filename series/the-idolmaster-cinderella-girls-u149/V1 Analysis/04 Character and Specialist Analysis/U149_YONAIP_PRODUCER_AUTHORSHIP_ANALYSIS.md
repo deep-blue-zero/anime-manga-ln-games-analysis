@@ -1,15 +1,16 @@
 ---
-series: "U149"
-artifact_type: "character_monograph"
-scope: "YONAIP_PRODUCER"
-generation: "V1"
-status: "canonical"
-source_boundary: "Post-series analysis of U149 Producer authorship and naming"
+series: U149
+artifact_type: character_monograph
+scope: YONAIP_PRODUCER
+generation: V1
+status: canonical
+source_boundary: Post-series analysis of U149 Producer authorship and naming
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - U149 Deep Analysis - Full Transcript.md"
-source_turns: [47]
+source_transcript: Manga and anime discussions - U149 Deep Analysis - Full Transcript.md
+source_turns:
+- 47
 ---
 
 <!-- transcript_source_turn: 47 -->

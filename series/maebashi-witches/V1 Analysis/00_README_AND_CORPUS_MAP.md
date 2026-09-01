@@ -1,10 +1,10 @@
 ---
-series: "MAEBASHI"
-artifact_type: "corpus_map"
-scope: "V1"
-generation: "V1"
-status: "canonical"
-source_boundary: "Transcript-derived analysis of Maebashi Witches Episodes 1-12 plus selected completed-series specialist comparisons"
+series: MAEBASHI
+artifact_type: corpus_map
+scope: V1
+generation: V1
+status: canonical
+source_boundary: Transcript-derived analysis of Maebashi Witches Episodes 1-12 plus selected completed-series specialist comparisons
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

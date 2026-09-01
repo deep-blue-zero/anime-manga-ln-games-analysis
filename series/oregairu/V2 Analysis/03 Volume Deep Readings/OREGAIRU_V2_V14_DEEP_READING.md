@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: V14
 generation: V2
 status: canonical
-source_boundary: "Japanese light novel Volume 14 only; Volume 13 supplies the frozen incoming state. Volume 14.5, Shin, Ketsu, anthologies, anime adaptation, and later supplementary material are excluded from prospective interpretation."
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novel Volume 14 only; Volume 13 supplies the frozen incoming state. Volume 14.5, Shin, Ketsu, anthologies, anime adaptation, and later supplementary material are excluded from prospective interpretation.
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-primary_text_witness: "Oregairu - Volume 14 [Japanese].epub"
-fixed_page_witness: "(一般小説) やはり俺の青春ラブコメはまちがっている。第14巻.pdf"
+primary_text_witness: Oregairu - Volume 14 [Japanese].epub
+fixed_page_witness: (一般小説) やはり俺の青春ラブコメはまちがっている。第14巻.pdf
 method: OREGAIRU_V2_ANALYTICAL_METHOD.md
 ---
 

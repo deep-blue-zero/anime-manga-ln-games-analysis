@@ -5,20 +5,20 @@ artifact_role: AUDIT
 scope: PHASE1B_EVENT_E2A2
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_E2A2_CLOSE_READ_AUDIT.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "event_2021_003_st-eve-2109-backside -> event_2026_006_st-eve-2606-dice; four E2-A2 event bundles only"
+source_boundary: event_2021_003_st-eve-2109-backside -> event_2026_006_st-eve-2606-dice; four E2-A2 event bundles only
 inherited_authority: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E2A1_BASELINE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1B_E2_CLOSE_READ_QUEUE.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1B_EVENT_E2A2_PRIMARY_FINDINGS_FREEZE.md
 historical_comparison_after_freeze: true
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-updated: "2026-08-15"
+created: '2026-08-15'
+updated: '2026-08-15'
 ---
 
 # IDOLY PRIDE V2 — PHASE 1B EVENT E2-A2 CLOSE-READ AUDIT

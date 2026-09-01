@@ -1,15 +1,15 @@
 ---
 series: CGMG
-series_title: "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)"
+series_title: THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)
 artifact_type: character_monograph
 scope: JOUGASAKI_MIKA
 generation: V1
 status: active_provisional
-source_boundary: "Integrated Mobage + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE character packet for Jougasaki Mika. Deresute text is complete against the released categorized textual inventory; Mobage remains structurally incomplete; audio is not acquired. The 2015 television anime and other adaptation continuities are excluded from governing evidence."
+source_boundary: Integrated Mobage + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE character packet for Jougasaki Mika. Deresute text is complete against the released categorized textual inventory; Mobage remains structurally incomplete; audio is not acquired. The 2015 television anime and other adaptation continuities are excluded from governing evidence.
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_evidence_packet: "CINDERELLA_GIRLS_JOUGASAKI_MIKA"
+primary_evidence_packet: CINDERELLA_GIRLS_JOUGASAKI_MIKA
 source_packet_snapshot:
   candidate_source_objects: 355
   acquired_normalized_candidate_objects: 347
@@ -25,8 +25,8 @@ source_packet_snapshot:
   mobage_text_completeness: STRUCTURALLY_INCOMPLETE
   audio_completeness: NOT_ACQUIRED
 cross_media_exclusions:
-  - "THE IDOLM@STER CINDERELLA GIRLS (2015) television anime"
-  - "Other adaptation continuities except where explicitly cross-referenced in a later artifact"
+- THE IDOLM@STER CINDERELLA GIRLS (2015) television anime
+- Other adaptation continuities except where explicitly cross-referenced in a later artifact
 ---
 
 # THE IDOLM@STER CINDERELLA GIRLS — Jougasaki Mika Character Monograph

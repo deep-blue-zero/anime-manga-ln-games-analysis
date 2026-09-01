@@ -4,20 +4,20 @@ artifact_type: specialist_synthesis
 scope: TAKAO_30311_JP_VOICE_PERFORMANCE
 generation: V1
 status: canonical
-source_boundary: "JP client AZL 9.3.386 / CV 1243; 114 mapped Takao JP performed-voice WAV utterances; 8 confirmed unvoiced textual fields; 1 classified non-text gift/UI reaction excluded from mapped-dialogue analysis"
+source_boundary: JP client AZL 9.3.386 / CV 1243; 114 mapped Takao JP performed-voice WAV utterances; 8 confirmed unvoiced textual fields; 1 classified non-text gift/UI reaction excluded from mapped-dialogue analysis
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
-source_build_id: "AZL-2026-08-22-4cca5c24-cc8e9fdf"
+method_version: 1.0.0
+source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
 performed_locale: JP
-asset_downloader_version: "4.7.1"
-vgmstream_version: "r2083"
-audio_client_version: "AZL 9.3.386 / CV 1243"
-performed_voice_scope: "quantitative acoustic realization, timing, projection, context-conditioned state transitions"
-direct_perceptual_listening_status: "not directly auditioned in this analysis environment"
+asset_downloader_version: 4.7.1
+vgmstream_version: r2083
+audio_client_version: AZL 9.3.386 / CV 1243
+performed_voice_scope: quantitative acoustic realization, timing, projection, context-conditioned state transitions
+direct_perceptual_listening_status: not directly auditioned in this analysis environment
 ear_dependent_timbre_status: open
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

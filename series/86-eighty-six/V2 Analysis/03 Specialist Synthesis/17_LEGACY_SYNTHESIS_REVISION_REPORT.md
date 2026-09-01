@@ -1,43 +1,42 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "legacy_synthesis_revision_report"
-document_id: "17"
-title: "Legacy Synthesis Revision Report"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: legacy_synthesis_revision_report
+document_id: '17'
+title: Legacy Synthesis Revision Report
+scope: V01-V14+ALTER1
 phase: 6
-generation: "V2"
-method_version: "V2"
-status: "canonical"
-date: "2026-08-16"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-legacy_primary_record: "Deep Dive on 86 Novel - Full Transcript.md (historical conversation export; incomplete-export warning retained)"
-phase1_legacy_audit: "86_PHASE1_LEGACY_ANALYSIS_AUDIT.md"
-legacy_revision_ledger: "L11_LEGACY_V1_TO_V2_REVISION_LEDGER.md"
-phase5_claim_lock: "86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv"
-phase5_open_question_lock: "86_PHASE5_OPEN_QUESTION_LOCK.tsv"
-current_specialist_authority: "01-13"
+generation: V2
+method_version: V2
+status: canonical
+date: '2026-08-16'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+legacy_primary_record: Deep Dive on 86 Novel - Full Transcript.md (historical conversation export; incomplete-export warning retained)
+phase1_legacy_audit: 86_PHASE1_LEGACY_ANALYSIS_AUDIT.md
+legacy_revision_ledger: L11_LEGACY_V1_TO_V2_REVISION_LEDGER.md
+phase5_claim_lock: 86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv
+phase5_open_question_lock: 86_PHASE5_OPEN_QUESTION_LOCK.tsv
+current_specialist_authority: 01-13
 related_specialist_documents:
-  - "01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md"
-  - "02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md"
-  - "03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md"
-  - "04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md"
-  - "05_SAN_MAGNOLIA_RACISM_GENOCIDE_COMPLICITY_AND_MEMORY.md"
-  - "06_GIAD_AND_COMPARATIVE_INSTITUTIONS_CITIZENSHIP_FREEDOM_AND_PATERNALISM.md"
-  - "07_WAR_STRATEGY_LOGISTICS_TECHNOLOGY_AND_HEROISM.md"
-  - "08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md"
-  - "09_CHILDHOOD_PRIDE_TRAUMA_GRIEF_RECOVERY_AND_ORDINARY_LIFE.md"
-  - "10_SHIN_LENA_LOVE_DEPENDENCE_HOME_AND_THE_RIGHT_TO_RETURN.md"
-  - "11_LEGION_MEMORY_IDENTITY_AND_POSTHUMAN_CONTINUITY.md"
-  - "12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md"
-  - "13_SYMBOLS_MOTIFS_LANDSCAPES_OBJECTS_AND_LIGHT_NOVEL_FORM.md"
-
-chronological_evidence_spine: "15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-locator_authority: "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
-supersedes: null
-superseded_by: null
+- 01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md
+- 02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md
+- 03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md
+- 04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md
+- 05_SAN_MAGNOLIA_RACISM_GENOCIDE_COMPLICITY_AND_MEMORY.md
+- 06_GIAD_AND_COMPARATIVE_INSTITUTIONS_CITIZENSHIP_FREEDOM_AND_PATERNALISM.md
+- 07_WAR_STRATEGY_LOGISTICS_TECHNOLOGY_AND_HEROISM.md
+- 08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md
+- 09_CHILDHOOD_PRIDE_TRAUMA_GRIEF_RECOVERY_AND_ORDINARY_LIFE.md
+- 10_SHIN_LENA_LOVE_DEPENDENCE_HOME_AND_THE_RIGHT_TO_RETURN.md
+- 11_LEGION_MEMORY_IDENTITY_AND_POSTHUMAN_CONTINUITY.md
+- 12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md
+- 13_SYMBOLS_MOTIFS_LANDSCAPES_OBJECTS_AND_LIGHT_NOVEL_FORM.md
+chronological_evidence_spine: 15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+locator_authority: 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

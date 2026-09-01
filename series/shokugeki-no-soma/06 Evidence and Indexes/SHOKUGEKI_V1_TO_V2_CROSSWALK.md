@@ -4,7 +4,7 @@ artifact_type: crosswalk
 scope: V1_SOMA_SAMPLE_TO_V2_FULL_SERIES
 generation: V2
 status: active_provisional
-source_boundary: "Existing V1 Soma sampled analytical corpus and new V2 full-series architecture"
+source_boundary: Existing V1 Soma sampled analytical corpus and new V2 full-series architecture
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

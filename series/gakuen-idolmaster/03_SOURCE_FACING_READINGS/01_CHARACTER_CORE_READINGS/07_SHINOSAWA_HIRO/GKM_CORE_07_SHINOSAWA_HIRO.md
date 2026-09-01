@@ -2,21 +2,21 @@
 series: GKM
 artifact_type: deep_reading
 scope: CHARACTER_SHINOSAWA_HIRO_PHASE3_CORE
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Hiro complete character bundle (207 source objects / 5,653 messages), with V1 legacy analysis used only for claim-revision comparison; audiovisual evidence not yet inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Hiro complete character bundle (207 source objects / 5,653 messages), with V1 legacy analysis used only for claim-revision comparison; audiovisual evidence not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 continuity_tracks:
-  - P1[HIRO]
-  - P2[HIRO]
-  - P3-C[HIRO]
-  - D-HIRO
-  - M-HIRO
-reasoning_route: "GPT-5.6 Sol — Extra High"
-last_updated: "2026-08-15"
+- P1[HIRO]
+- P2[HIRO]
+- P3-C[HIRO]
+- D-HIRO
+- M-HIRO
+reasoning_route: GPT-5.6 Sol — Extra High
+last_updated: '2026-08-15'
 ---
 
 # GKM CORE 07 — SHINOSAWA HIRO / 篠澤広

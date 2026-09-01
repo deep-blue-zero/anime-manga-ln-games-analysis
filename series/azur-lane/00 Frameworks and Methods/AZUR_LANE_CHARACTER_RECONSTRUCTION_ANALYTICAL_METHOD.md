@@ -3,16 +3,16 @@ series: AZUR_LANE
 artifact_type: analytical_method
 scope: CHARACTER_RECONSTRUCTION
 generation: V1
-method_version: "1.0.0"
+method_version: 1.0.0
 status: canonical
-source_boundary: "Azur Lane extracted multilingual primary-source character corpus (CN originating textual authority; JP/EN/TW/KR regional witnesses)"
-supersedes: null
-superseded_by: null
+source_boundary: Azur Lane extracted multilingual primary-source character corpus (CN originating textual authority; JP/EN/TW/KR regional witnesses)
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_dependencies:
-  - CURRENT_STATE_AND_CORPUS_MAP.md
-  - AZUR_LANE_PIPELINE_METHOD.md
-  - AZUR_LANE_READINESS_SCORING_METHOD.md
+- CURRENT_STATE_AND_CORPUS_MAP.md
+- AZUR_LANE_PIPELINE_METHOD.md
+- AZUR_LANE_READINESS_SCORING_METHOD.md
 ---
 
 # Azur Lane Character Reconstruction Analytical Method

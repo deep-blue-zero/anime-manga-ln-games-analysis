@@ -4,9 +4,9 @@ artifact_type: deep_reading
 scope: V11
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V11 locked Japanese EPUB: 響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編"
-supersedes: null
-superseded_by: null
+source_boundary: 'HIBIKE-V11 locked Japanese EPUB: 響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

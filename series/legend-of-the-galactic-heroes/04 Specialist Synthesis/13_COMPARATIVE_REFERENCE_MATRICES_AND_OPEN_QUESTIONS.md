@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Comparative Reference Matrices and Open Questions"
-subtitle: "Reusable formulations for character, regime, command, ethics, relationship, and military-science-fiction comparison"
-version: "1.0"
-date: "2026-08-11"
-source_status_label: "Completed comparative reference document"
+title: 銀河英雄伝説 — Comparative Reference Matrices and Open Questions
+subtitle: Reusable formulations for character, regime, command, ethics, relationship, and military-science-fiction comparison
+version: '1.0'
+date: '2026-08-11'
+source_status_label: Completed comparative reference document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "Synthesis Documents 01–12 and evidence ledger 14; no adaptation evidence"
+primary_sources: Synthesis Documents 01–12 and evidence ledger 14; no adaptation evidence
 ---
 
 # 銀河英雄伝説

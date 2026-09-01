@@ -1,15 +1,15 @@
 ---
 series: CGMG
-series_title: "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)"
+series_title: THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)
 artifact_type: character_monograph
 scope: KOBAYAKAWA_SAE
 generation: V1
 status: active_provisional
-source_boundary: "Integrated Mobage + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE character packet for Kobayakawa Sae. Deresute text is complete against the final released categorized inventory; Mobage is structurally incomplete. Acoustic voice analysis is excluded because mapped audio has not yet been acquired. The 2015 television anime is excluded from governing evidence."
+source_boundary: Integrated Mobage + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE character packet for Kobayakawa Sae. Deresute text is complete against the final released categorized inventory; Mobage is structurally incomplete. Acoustic voice analysis is excluded because mapped audio has not yet been acquired. The 2015 television anime is excluded from governing evidence.
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_evidence_packet: "CINDERELLA_GIRLS_KOBAYAKAWA_SAE"
+primary_evidence_packet: CINDERELLA_GIRLS_KOBAYAKAWA_SAE
 source_packet_snapshot:
   candidate_source_objects: 329
   target_confirmed_source_objects: 203
@@ -20,8 +20,8 @@ source_packet_snapshot:
   mobage_text_completeness: STRUCTURALLY_INCOMPLETE
   audio_completeness: NOT_ACQUIRED
 cross_media_exclusions:
-  - "THE IDOLM@STER CINDERELLA GIRLS (2015) television anime"
-  - "other adaptation continuities except where explicitly cross-referenced in a later artifact"
+- THE IDOLM@STER CINDERELLA GIRLS (2015) television anime
+- other adaptation continuities except where explicitly cross-referenced in a later artifact
 ---
 
 # THE IDOLM@STER CINDERELLA GIRLS — Kobayakawa Sae Character Monograph

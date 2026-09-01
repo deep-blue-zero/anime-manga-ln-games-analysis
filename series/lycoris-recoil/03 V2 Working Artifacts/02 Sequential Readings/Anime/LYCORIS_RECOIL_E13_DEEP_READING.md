@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: E13
 generation: V2
 status: canonical
-source_boundary: "TV Episode 13 supplies all new evidence; E01-E12 admitted only as frozen incoming V2 state; no Friends shorts or supplementary narrative evidence admitted"
+source_boundary: TV Episode 13 supplies all new evidence; E01-E12 admitted only as frozen incoming V2 state; no Friends shorts or supplementary narrative evidence admitted
 source_class: A1_ORIGINATING_AUDIOVISUAL
 incoming_checkpoint: E12_OUTBOUND_FREEZE
 prospective_truth_horizon: E13
@@ -23,8 +23,8 @@ source_native_predictions_frozen_before_v1_comparison: true
 v1_comparison_state: complete_after_source_native_freeze
 v1_revision_records_added: 15
 sequential_closeout: closed
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

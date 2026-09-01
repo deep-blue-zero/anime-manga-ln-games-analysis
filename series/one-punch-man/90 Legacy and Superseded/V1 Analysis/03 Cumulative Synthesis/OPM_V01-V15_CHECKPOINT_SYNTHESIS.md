@@ -1,15 +1,16 @@
 ---
-series: "OPM"
-artifact_type: "checkpoint"
-scope: "V01-V15"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Cumulative V1 synthesis through Volume 15"
-supersedes: null
-superseded_by: null
+series: OPM
+artifact_type: checkpoint
+scope: V01-V15
+generation: V1
+status: historical_legacy
+source_boundary: Cumulative V1 synthesis through Volume 15
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - One Punch Man Analysis - Full Transcript.md"
-source_turns: [16]
+source_transcript: Manga and anime discussions - One Punch Man Analysis - Full Transcript.md
+source_turns:
+- 16
 ---
 
 <!-- transcript_source_turn: 16 -->

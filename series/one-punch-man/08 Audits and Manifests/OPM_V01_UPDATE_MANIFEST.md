@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: V01
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon V01"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon V01
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 closed: 2026-08-24

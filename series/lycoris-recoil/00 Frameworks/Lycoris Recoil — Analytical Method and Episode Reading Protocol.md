@@ -1,12 +1,13 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: historical_analytical_method
-scope: "Original Japanese-original audiovisual sequential method for TV E01-E13 + Friends Shorts"
+scope: Original Japanese-original audiovisual sequential method for TV E01-E13 + Friends Shorts
 generation: V1
 status: superseded
-source_boundary: "TV E01-E13 + Friends Shorts 01-06"
-supersedes: null
-superseded_by: LYCORIS_RECOIL_V2_ANALYTICAL_METHOD.md
+source_boundary: TV E01-E13 + Friends Shorts 01-06
+supersedes: []
+superseded_by:
+- series/lycoris-recoil/02 V2 Planning and Protocol/LYCORIS_RECOIL_V2_ANALYTICAL_METHOD.md
 do_not_use_as_current_authority: true
 ---
 

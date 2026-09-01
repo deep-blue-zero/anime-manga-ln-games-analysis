@@ -4,23 +4,23 @@ artifact_type: deep_reading
 scope: V02
 generation: V1
 status: canonical
-source_boundary: "Japanese light novel Volume 02"
-semantic_evidence_boundary: "V01 context + V02; no V03-V14 semantic evidence"
+source_boundary: Japanese light novel Volume 02
+semantic_evidence_boundary: V01 context + V02; no V03-V14 semantic evidence
 future_semantic_evidence_used: false
 source_set_id: IMOSAE-JP-LN-RAW-1.0
-source_filename: "A Sister's All You Need - Volume 02 [Japanese].epub"
-source_sha256: "5f942c7d2e1c14bbb0a55b81257e95dc776b70c28f872633084a93693a2488ff"
+source_filename: A Sister's All You Need - Volume 02 [Japanese].epub
+source_sha256: 5f942c7d2e1c14bbb0a55b81257e95dc776b70c28f872633084a93693a2488ff
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
-normalized_volume_sha256: "9892d20e45186736b2a60ed82be2ad2843b7545209f5fc9f6abc0b0ca9f35755"
+normalized_volume_sha256: 9892d20e45186736b2a60ed82be2ad2843b7545209f5fc9f6abc0b0ca9f35755
 visual_index_version: IMOSAE-VISUAL-INDEX-1.0
 gaiji_map_version: IMOSAE-GAIJI-MAP-1.0
 analysis_method: IMOSAE_ANALYTICAL_METHOD_V1.md
 architecture_protocol: IMOSAE_SYNTHESIS_ARCHITECTURE_V1.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-18"
+version: '1.0'
+date: '2026-08-18'
 ---
 
 # 妹さえいればいい。 Volume 02 - Deep Reading

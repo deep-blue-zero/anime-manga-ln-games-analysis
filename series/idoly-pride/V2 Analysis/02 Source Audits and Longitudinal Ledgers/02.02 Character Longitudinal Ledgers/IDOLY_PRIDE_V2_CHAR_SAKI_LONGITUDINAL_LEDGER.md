@@ -3,38 +3,38 @@ series: IDOLY_PRIDE
 artifact_type: longitudinal_ledger
 artifact_role: LEDGER
 scope: CHAR_SAKI
-character: "Shiraishi Saki"
+character: Shiraishi Saki
 character_code: ski
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-B2-SAKI"
-unit: "Tsuki no Tempest"
+phase: '2'
+tranche: P2-B2-SAKI
+unit: Tsuki no Tempest
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 longitudinal reconstruction of Shiraishi Saki across the complete Phase-1-routed snapshot: anime/Hoshimi governing story; Tsuki no Tempest and Shiraishi-family origin material; Tokyo, BIG4, and Stellar main-story arcs; admitted CORE/IMPORTANT events including E2-B2 心紡ぎ合う輝きの競演; B2-B Saki bond material; lower-priority cards/messages/specials retained at frozen routing unless used only as texture or contradiction checks. Broad coverage inherits Phase-1 routing; load-bearing claims are retested against reopened primary Japanese source where available."
+source_boundary: 'Phase-2 longitudinal reconstruction of Shiraishi Saki across the complete Phase-1-routed snapshot: anime/Hoshimi governing story; Tsuki no Tempest and Shiraishi-family origin material; Tokyo, BIG4, and Stellar main-story arcs; admitted CORE/IMPORTANT events including E2-B2 心紡ぎ合う輝きの競演; B2-B Saki bond material; lower-priority cards/messages/specials retained at frozen routing unless used only as texture or contradiction checks. Broad coverage inherits Phase-1 routing; load-bearing claims are retested against reopened primary Japanese source where available.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_KOTONO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_NAGISA_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_KOTONO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_NAGISA_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_B2_SAKI_PASS
-created: "2026-08-18"
-updated: "2026-08-18"
-next_operation: "P2-B2 - IDOLY_PRIDE_V2_CHAR_SUZU_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-18'
+updated: '2026-08-18'
+next_operation: P2-B2 - IDOLY_PRIDE_V2_CHAR_SUZU_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 - SHIRAISHI SAKI LONGITUDINAL LEDGER

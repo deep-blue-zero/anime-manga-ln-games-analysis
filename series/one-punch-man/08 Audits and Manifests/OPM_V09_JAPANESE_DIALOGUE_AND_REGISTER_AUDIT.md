@@ -4,13 +4,13 @@ artifact_type: japanese_dialogue_and_register_audit
 scope: V09
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 9 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 9 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 09 [Japanese].cbz"
-source_drive_id: "1Q3D5bO7ntvP9Gx54L1HzZx45iDJVl97v"
-source_sha256: "e7ecec82d665f465fe6f90ba7ba946f335fbcdb9bb169b586f838f9a905cbfb4"
+source_file: One Punch Man - Volume 09 [Japanese].cbz
+source_drive_id: 1Q3D5bO7ntvP9Gx54L1HzZx45iDJVl97v
+source_sha256: e7ecec82d665f465fe6f90ba7ba946f335fbcdb9bb169b586f838f9a905cbfb4
 created: 2026-08-24
 ---
 

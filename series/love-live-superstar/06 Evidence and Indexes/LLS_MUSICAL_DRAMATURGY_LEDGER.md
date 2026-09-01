@@ -2,12 +2,12 @@
 series: LLS
 artifact_type: ledger
 artifact_role: MUSICAL_DRAMATURGY_LEDGER
-scope: "S1E01-S3E08 backfill; then prospective through S3E12"
+scope: S1E01-S3E08 backfill; then prospective through S3E12
 generation: V2.3
 status: active_provisional
-source_boundary: "canonical Japanese-audio TV corpus; current sequential semantic boundary S3E08"
-supersedes: null
-superseded_by: null
+source_boundary: canonical Japanese-audio TV corpus; current sequential semantic boundary S3E08
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 mutable_in_place: true
 governing_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.3

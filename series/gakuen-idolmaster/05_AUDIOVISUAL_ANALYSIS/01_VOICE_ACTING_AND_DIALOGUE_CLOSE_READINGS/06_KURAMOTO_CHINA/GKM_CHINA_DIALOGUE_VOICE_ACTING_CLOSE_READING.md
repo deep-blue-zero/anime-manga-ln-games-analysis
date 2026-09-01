@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_KURAMOTO_CHINA_DIALOGUE_AND_VOICE_ACTING
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Complete Dear 001-037 plus six complete acted song communications and one supplemental duplicate Dear 021 excerpt; exact wording controlled by Source Lock 1.0"
-supersedes: null
-superseded_by: null
+source_boundary: Complete Dear 001-037 plus six complete acted song communications and one supplemental duplicate Dear 021 excerpt; exact wording controlled by Source Lock 1.0
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-21"
-title: "Kuramoto China — Dialogue, Register, and Voice-Acting Close Reading"
+last_updated: '2026-08-21'
+title: Kuramoto China — Dialogue, Register, and Voice-Acting Close Reading
 ---
 
 # GKM — KURAMOTO CHINA DIALOGUE, REGISTER, AND VOICE-ACTING CLOSE READING

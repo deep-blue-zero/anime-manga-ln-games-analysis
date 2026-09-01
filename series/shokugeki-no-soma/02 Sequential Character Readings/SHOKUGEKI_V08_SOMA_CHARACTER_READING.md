@@ -4,10 +4,10 @@ artifact_type: soma_character_reading
 scope: V08
 generation: V1
 status: canonical
-source_boundary: "Original Japanese manga Volume 8 mainline Chapters 58-65. The bonus '番外編 夏休みのエリナ' is excluded from direct Soma evidence because it supplies no meaningful Soma speech or behavior. The Soma-vs-Alice quarterfinal remains unresolved at the V08 publication boundary."
-source_file: "[附田祐斗×佐伯俊] 食戟のソーマ 第08巻.cbz"
-source_drive_id: "1EExKEfdoIwIOMvBdbWxqcqPYRtrNqdFX"
-source_sha256: "92e5c7c972107e2352d8fcb0bd3e9df13cda54e3dedc54d74d152ab25ea8b61e"
+source_boundary: Original Japanese manga Volume 8 mainline Chapters 58-65. The bonus '番外編 夏休みのエリナ' is excluded from direct Soma evidence because it supplies no meaningful Soma speech or behavior. The Soma-vs-Alice quarterfinal remains unresolved at the V08 publication boundary.
+source_file: '[附田祐斗×佐伯俊] 食戟のソーマ 第08巻.cbz'
+source_drive_id: 1EExKEfdoIwIOMvBdbWxqcqPYRtrNqdFX
+source_sha256: 92e5c7c972107e2352d8fcb0bd3e9df13cda54e3dedc54d74d152ab25ea8b61e
 source_image_count: 210
 supersedes: []
 superseded_by: []

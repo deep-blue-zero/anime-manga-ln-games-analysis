@@ -4,9 +4,9 @@ artifact_type: handoff
 scope: E21
 source_generation: V2
 status: canonical
-source_boundary: "Prospective knowledge through Episode 20; Episode 21 not opened"
-supersedes: null
-superseded_by: null
+source_boundary: Prospective knowledge through Episode 20; Episode 21 not opened
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -1,31 +1,34 @@
 ---
-series: "SHINEPOST"
-artifact_type: "full_series_synthesis"
-scope: "E01-E12"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episodes 1-12, Japanese audiovisual V1 analysis"
-supersedes: "Turn 26 earlier full-series synthesis"
-superseded_by: null
+series: SHINEPOST
+artifact_type: full_series_synthesis
+scope: E01-E12
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episodes 1-12, Japanese audiovisual V1 analysis
+supersedes:
+- series/shine-post/V1 Analysis/90 Legacy and Superseded/SHINEPOST_FULL_SERIES_SYNTHESIS_EARLY.md
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 48
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy supersedes: Turn 26 earlier full-series synthesis'
 ---
 
-The writeup below consolidates the current *SHINE POST* analysis corpus, especially the full-series synthesis and the Haru/Ren character deep dives, where the central reading is that the series is about “truthful performance,” not merely idol sincerity or friendship.[
+The writeup below consolidates the current *SHINE POST* analysis corpus, especially the full-series synthesis and the Haru/Ren character deep dives, where the central reading is that the series is about “truthful performance,” not merely idol sincerity or friendship.
 
 SHINE POST Truthful Performance
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=beac94a3-5f7a-4892-b133-b2f64cad1104&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Haru character deep dive
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=85b5e7e8-37bf-4434-8213-564f95b58ed2&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Kurogane Ren Character Analysis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=f6ed113c-bf28-4e99-8bb4-72050c477d56&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # SHINE POST: Authoritative Character, Theme, and Comparative Analysis Source
 

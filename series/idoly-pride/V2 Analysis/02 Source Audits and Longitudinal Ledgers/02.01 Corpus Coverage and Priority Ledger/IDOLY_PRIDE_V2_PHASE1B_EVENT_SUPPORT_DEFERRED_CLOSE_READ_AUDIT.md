@@ -5,21 +5,21 @@ artifact_role: AUDIT
 scope: PHASE1B_EVENT_SUPPORT_DEFERRED
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_SUPPORT_DEFERRED_CLOSE_READ_AUDIT.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Frozen post-E2-C1 authority + four support-deferred primary event bundles; Tier-H consulted only after prospective freeze"
+source_boundary: Frozen post-E2-C1 authority + four support-deferred primary event bundles; Tier-H consulted only after prospective freeze
 inherits: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E2C1_BASELINE.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1B_EVENT_SUPPORT_DEFERRED_PRIMARY_FINDINGS_FREEZE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: PRIMARY_FREEZE_VERIFIED_BEFORE_TIER_H_COMPARISON
-created: "2026-08-16"
-updated: "2026-08-16"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1B EVENT SUPPORT-DEFERRED CLOSE-READ AUDIT

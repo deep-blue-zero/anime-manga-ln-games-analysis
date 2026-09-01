@@ -9,17 +9,17 @@ status: canonical
 phase: R6
 semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "R0-R5 Taihou reconstruction plus the pinned CN narrative, character-dialogue, social, relationship-index, and routed Dorm3D evidence used to formalize nonchronological Commander relationship regimes and named-interlocutor modifiers; unresolved DormLvPerformance1201-1204 exact-script references excluded; JP/EN/TW/KR locale-specific speech and exhaustive JP performed voice remain downstream"
+source_boundary: R0-R5 Taihou reconstruction plus the pinned CN narrative, character-dialogue, social, relationship-index, and routed Dorm3D evidence used to formalize nonchronological Commander relationship regimes and named-interlocutor modifiers; unresolved DormLvPerformance1201-1204 exact-script references excluded; JP/EN/TW/KR locale-specific speech and exhaustive JP performed voice remain downstream
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 target_artifact: AZUR_LANE_TAIHOU_CHARACTER_MONOGRAPH.md
 target_status: active_provisional
 r5_authority: AZUR_LANE_TAIHOU_ADVERSARIAL_VALIDATION_AUDIT.md
 relationship_topology_warning: COMMANDER_HEAVY
 regional_speech_status: deferred_to_r7
 performed_voice_status: open_partial_source_mapping
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -5,22 +5,22 @@ artifact_role: DEEP_READING
 scope: PHASE1_CARD_C1B
 filename: IDOLY_PRIDE_V2_PHASE1_CARD_C1B_PRIMARY_FINDINGS_FREEZE.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1"
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Card-only prospective close read of card_ngs_007_st-card-ngs-05-fest-02, card_ktn_007_st-card-ktn-05-fest-02, card_szk_002_st-card-szk-05-angl-00, and card_rui_007_st-card-rui-05-fest-04. Frozen Post-C1-A baseline and routing queue were used as inherited authority/routing only. No C1-B companion messages, Rui phone continuation, Tier-H/V1 prose, C2/C3 cards, B4 bonds, unrelated messages, or specials were consulted before this freeze."
+source_boundary: Card-only prospective close read of card_ngs_007_st-card-ngs-05-fest-02, card_ktn_007_st-card-ktn-05-fest-02, card_szk_002_st-card-szk-05-angl-00, and card_rui_007_st-card-rui-05-fest-04. Frozen Post-C1-A baseline and routing queue were used as inherited authority/routing only. No C1-B companion messages, Rui phone continuation, Tier-H/V1 prose, C2/C3 cards, B4 bonds, unrelated messages, or specials were consulted before this freeze.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1A_BASELINE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1_LOWER_TIER_CLOSE_READ_QUEUE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: PROSPECTIVE_CARD_ONLY_FREEZE_BEFORE_MESSAGES_AND_TIER_H
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "C1-B exact companion-message refinement, then Tier-H comparison and transition audit"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: C1-B exact companion-message refinement, then Tier-H comparison and transition audit
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 CARD C1-B PRIMARY FINDINGS FREEZE

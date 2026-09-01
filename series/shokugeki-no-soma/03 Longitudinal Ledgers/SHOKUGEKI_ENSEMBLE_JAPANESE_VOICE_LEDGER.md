@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: ENSEMBLE_JAPANESE_VOICE_AND_REGISTER
 generation: V2
 status: active_provisional
-source_boundary: "V02 complete"
+source_boundary: V02 complete
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

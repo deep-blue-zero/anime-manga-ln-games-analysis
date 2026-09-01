@@ -1,13 +1,13 @@
 ---
 series: TBHX
 artifact_type: checkpoint
-scope: "Phase 3 Specialist 10 — Luo Li"
+scope: Phase 3 Specialist 10 — Luo Li
 generation: V2
 phase: 3
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; Specialist 10 grounded primarily in E13-E16 and E19-E20 plus E20 motion audit"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; Specialist 10 grounded primarily in E13-E16 and E19-E20 plus E20 motion audit
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

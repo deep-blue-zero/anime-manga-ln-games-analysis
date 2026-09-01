@@ -5,36 +5,36 @@ scope: E11
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 11 analytical bundle; S01E01-S01E11 broadcast knowledge only; explicit next-episode preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 11 analytical bundle; S01E01-S01E11 broadcast knowledge only; explicit next-episode preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 11 Deep Reading"
+title: To Be Hero X V2 — Episode 11 Deep Reading
 season: 1
 episode: 11
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e11_screenshots.zip"
-source_bundle_sha256: "e0c36f198425ca148ba36df6ef13e45f5c42d1778fea7a7799c48ce9f0e83d27"
+analysis_version: '2.0'
+source_bundle: BHX_s01e11_screenshots.zip
+source_bundle_sha256: e0c36f198425ca148ba36df6ef13e45f5c42d1778fea7a7799c48ce9f0e83d27
 source_bundle_bytes: 317613479
 source_duration_seconds: 1516.203
-program_start_seconds: 47.000
-analysis_start_seconds: 46.750
+program_start_seconds: 47.0
+analysis_start_seconds: 46.75
 mandarin_cue_count: 288
 mandarin_ocr_mean_confidence: 0.990139
-mandarin_ocr_median_confidence: 0.997270
+mandarin_ocr_median_confidence: 0.99727
 mandarin_ocr_min_confidence: 0.902767
 low_confidence_events: 0
 japanese_paired_mandarin_cues: 275
 japanese_aligned_cue_count: 319
 contact_sheet_count: 54
 kept_screenshot_count: 1063
-spoiler_boundary: "S01E01-S01E11 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
-naming_authority: "TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state"
+spoiler_boundary: S01E01-S01E11 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
+naming_authority: TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state
 ---
 
 # To Be Hero X V2 — Episode 11 Deep Reading

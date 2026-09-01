@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_SHIUN_SUMIKA_DIALOGUE_VOICE_ACTING
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: canonical
-source_boundary: "Dear 001–037 directly inspected at the current boundary plus five song commus; Dear 028–037 uses an equivalent 720p30 direct-upload analysis materialization; scene audio is mixed and not speaker-isolated"
-supersedes: null
-superseded_by: null
+source_boundary: Dear 001–037 directly inspected at the current boundary plus five song commus; Dear 028–037 uses an equivalent 720p30 direct-upload analysis materialization; scene audio is mixed and not speaker-isolated
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shiun Sumika Dialogue and Voice-Acting Close Reading"
-parent_authority: "GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shiun Sumika Dialogue and Voice-Acting Close Reading
+parent_authority: GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # SHIUN SUMIKA — DIALOGUE AND VOICE-ACTING CLOSE READING

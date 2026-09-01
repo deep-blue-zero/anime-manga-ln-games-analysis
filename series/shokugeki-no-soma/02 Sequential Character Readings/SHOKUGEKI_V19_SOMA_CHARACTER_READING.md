@@ -4,10 +4,10 @@ artifact_type: soma_character_reading
 scope: V19
 generation: V1
 status: canonical
-source_boundary: "Original Japanese manga Volume 19 mainline Chapters 155-163. Colophon, cover, and promotional backmatter are bibliographic only. The publication boundary ends during the informal Soma-versus-Tsukasa venison duel; no result or later Central/Regiment state is imported from Volume 20 or later."
-source_file: "[附田祐斗×佐伯俊] 食戟のソーマ 第19巻.cbz"
-source_drive_id: "1uMLMtjwOOKq0-MBVAomg2Us2lfVrTiMZ"
-source_sha256: "d2472261e903aa2993571cc5079562119f14d835ae2cd0d318c29b2b31a8d7e5"
+source_boundary: Original Japanese manga Volume 19 mainline Chapters 155-163. Colophon, cover, and promotional backmatter are bibliographic only. The publication boundary ends during the informal Soma-versus-Tsukasa venison duel; no result or later Central/Regiment state is imported from Volume 20 or later.
+source_file: '[附田祐斗×佐伯俊] 食戟のソーマ 第19巻.cbz'
+source_drive_id: 1uMLMtjwOOKq0-MBVAomg2Us2lfVrTiMZ
+source_sha256: d2472261e903aa2993571cc5079562119f14d835ae2cd0d318c29b2b31a8d7e5
 source_image_count: 197
 supersedes: []
 superseded_by: []

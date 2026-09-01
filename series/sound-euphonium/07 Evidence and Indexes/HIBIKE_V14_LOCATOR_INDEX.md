@@ -4,9 +4,9 @@ artifact_type: locator_index
 scope: V14
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V14 locked Japanese EPUB: 『響け！ ユーフォニアム 北宇治高校吹奏楽部のみんなの話』; publisher/author boilerplate excluded"
-supersedes: null
-superseded_by: null
+source_boundary: 'HIBIKE-V14 locked Japanese EPUB: 『響け！ ユーフォニアム 北宇治高校吹奏楽部のみんなの話』; publisher/author boilerplate excluded'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

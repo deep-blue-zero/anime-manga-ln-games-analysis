@@ -5,23 +5,23 @@ artifact_role: DEEP_READING
 scope: S2E12
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S2E12 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S2E12 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 2
 episode: 12
-episode_title_japanese: "私を叶える物語"
-episode_title_english: "A Story that Makes My Dreams Come True"
-episode_title_source: "clean retained source frame at 00:02:39.576 directly displays #12 私を叶える物語; embedded English Signs render A Story that Makes My Dreams Come True; title used as identifying/formal evidence, not as independent semantic proof"
+episode_title_japanese: 私を叶える物語
+episode_title_english: A Story that Makes My Dreams Come True
+episode_title_source: 'clean retained source frame at 00:02:39.576 directly displays #12 私を叶える物語; embedded English Signs render A Story that Makes My Dreams Come True; title used as identifying/formal evidence, not as independent semantic proof'
 artifact_id: LLS_S2E12_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E11 as twelve separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; dream-route reconsideration, autonomy/challenge ethics, Liella continuity, succession, national-final consequence, relationship, voice, and character-model analysis"
+analysis_mode: sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E11 as twelve separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; dream-route reconsideration, autonomy/challenge ethics, Liella continuity, succession, national-final consequence, relationship, voice, and character-model analysis
 source_bundle: LLS_s02e12_screenshots.zip
 source_drive_id: 12XrArAzvGszd54nCATrfi9Gu6bOw7JhX
 source_sha256: 19a40e30f02f8d4a704992f88e6c607171e533eba1b8654ae8f29c7684f09609
 source_bytes: 168924870
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S2E12 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S2E12 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON1_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
@@ -29,31 +29,31 @@ season2_frozen_checkpoint: LLS_SEASON2_FROZEN_CHECKPOINT.md
 season2_frozen_checkpoint_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
 season2_checkpoint_status: frozen
 prior_later_states:
-  - LLS_S2E01_DEEP_READING_V2.md
-  - LLS_S2E02_DEEP_READING_V2.md
-  - LLS_S2E03_DEEP_READING_V2.md
-  - LLS_S2E04_DEEP_READING_V2.md
-  - LLS_S2E05_DEEP_READING_V2.md
-  - LLS_S2E06_DEEP_READING_V2.md
-  - LLS_S2E07_DEEP_READING_V2.md
-  - LLS_S2E08_DEEP_READING_V2.md
-  - LLS_S2E09_DEEP_READING_V2.md
-  - LLS_S2E10_DEEP_READING_V2.md
-  - LLS_S2E11_DEEP_READING_V2.md
+- LLS_S2E01_DEEP_READING_V2.md
+- LLS_S2E02_DEEP_READING_V2.md
+- LLS_S2E03_DEEP_READING_V2.md
+- LLS_S2E04_DEEP_READING_V2.md
+- LLS_S2E05_DEEP_READING_V2.md
+- LLS_S2E06_DEEP_READING_V2.md
+- LLS_S2E07_DEEP_READING_V2.md
+- LLS_S2E08_DEEP_READING_V2.md
+- LLS_S2E09_DEEP_READING_V2.md
+- LLS_S2E10_DEEP_READING_V2.md
+- LLS_S2E11_DEEP_READING_V2.md
 prior_later_state_drive_ids:
-  - 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
-  - 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
-  - 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
-  - 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
-  - 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
-  - 13pTTG9-OoXt9mkQE0MgpOrtZrvsaA7YE
-  - 1bkynaGNKLd6AD3__pauxNfAJb7sJc44a
-  - 15MJkPYjRpv7DjQF9n05lnLqJzve3_qBh
-  - 1Kwsherb2wxPN05KwRHaw_pLixqAduJZv
-  - 18sEvbwCcJ4_l4jCx5YrvE_Pepm7PVSX6
-  - 1TxUxctKBaHPeg30jtOifj6whN8T_5VLj
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+- 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
+- 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
+- 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
+- 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
+- 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
+- 13pTTG9-OoXt9mkQE0MgpOrtZrvsaA7YE
+- 1bkynaGNKLd6AD3__pauxNfAJb7sJc44a
+- 15MJkPYjRpv7DjQF9n05lnLqJzve3_qBh
+- 1Kwsherb2wxPN05KwRHaw_pLixqAduJZv
+- 18sEvbwCcJ4_l4jCx5YrvE_Pepm7PVSX6
+- 1TxUxctKBaHPeg30jtOifj6whN8T_5VLj
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 803
 retained_frames: 744
 contact_sheets_reviewed: 41
@@ -68,7 +68,7 @@ english_spoken_derivative_events: 329
 bundled_paired_english_rows: 305
 bundled_paired_english_coverage: 0.740291
 source_video_duration_seconds: 1422.088
-audio_ffprobe_duration_seconds: 1422.120
+audio_ffprobe_duration_seconds: 1422.12
 audio_sha256: 4f8d4c0619719efd43eab45a8df14c5fa740e32f6ae41d07cdae7198da4151c9
 audio_bytes: 28443199
 audio_codec: MP3
@@ -77,16 +77,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion -> Season-2 frozen checkpoint"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion -> Season-2 frozen checkpoint
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 744 retained frames, 41 contact sheets, subtitle/index copies, visual montages, transcript, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 744 retained frames, 41 contact sheets, subtitle/index copies, visual montages, transcript, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S3E01_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

@@ -4,11 +4,12 @@ artifact_type: evidence_audit
 scope: E24
 generation: V2
 status: canonical
-source_boundary: "Episode 24 supplemental motion evidence only; no post-E24 source"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 24 supplemental motion evidence only; no post-E24 source
+supersedes:
+- series/to-be-hero-x/04 V2 Evidence and Revision/TBHX_V2_E24_VIDEO_AUDIT_PLAN.md
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 24 Video Evidence Audit"
+title: To Be Hero X V2 — Episode 24 Video Evidence Audit
 ---
 
 # To Be Hero X V2 — Episode 24 Video Evidence Audit

@@ -1,12 +1,12 @@
 ---
 series: OPM
 artifact_type: crosswalk
-scope: "Official web serialization and revision history"
+scope: Official web serialization and revision history
 generation: V2
 status: active_provisional
-source_boundary: "No official-web source files ingested as of 2026-08-24"
-supersedes: null
-superseded_by: null
+source_boundary: No official-web source files ingested as of 2026-08-24
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

@@ -4,14 +4,14 @@ artifact_type: supplementary_deep_reading
 scope: SUPP_HYAKUMONOGATARI
 generation: V2
 status: canonical
-source_boundary: "佰物語オリジナルドラマCD シナリオブック.epub only; numbered V01-V30 and placement audit used only as governing comparison/authority surfaces"
+source_boundary: 佰物語オリジナルドラマCD シナリオブック.epub only; numbered V01-V30 and placement audit used only as governing comparison/authority surfaces
 source_class: SUP-C_hybrid_scenario
-release_horizon: "internal first print 2009-07-29; official commercial release 2009-08-04 per governing placement audit; post-V06/pre-V07"
-internal_horizon: "non-continuous high-school topic-sketch space, strongly weighted toward late third year but containing recollection, absent-character, and meta-terminal material"
+release_horizon: internal first print 2009-07-29; official commercial release 2009-08-04 per governing placement audit; post-V06/pre-V07
+internal_horizon: non-continuous high-school topic-sketch space, strongly weighted toward late third year but containing recollection, absent-character, and meta-terminal material
 primary_source_drive_id: 1yqvK0plQHuyz-2-AjDTdnoIDiXboyTp8
 primary_source_sha256: fdc1f41f7b9b7562c4abc7871297d34cb2ceb3ba20cb881dd705e6db3cc4ac35
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 inherits_placement_authority: MONOGATARI_V2_SUPPLEMENTARY_SOURCE_PLACEMENT_AUDIT.md
 primary_numbered_boundary: V30

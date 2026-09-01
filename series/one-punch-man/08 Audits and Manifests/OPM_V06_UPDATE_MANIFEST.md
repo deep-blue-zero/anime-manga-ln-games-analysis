@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: V06
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 6; Drive CBZ SHA-256 10575e4f7c384092f79d32f559af9c08c5fe8af0bf3c232caca4ebc33826d36b"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 6; Drive CBZ SHA-256 10575e4f7c384092f79d32f559af9c08c5fe8af0bf3c232caca4ebc33826d36b
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

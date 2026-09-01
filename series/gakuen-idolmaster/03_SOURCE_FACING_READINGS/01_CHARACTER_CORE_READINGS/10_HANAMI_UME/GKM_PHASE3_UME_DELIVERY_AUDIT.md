@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_HANAMI_UME_PHASE3_DELIVERY
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 status: canonical
-source_boundary: "Phase-3 Ume textual analytical delivery; source media and raw transcript payloads excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Phase-3 Ume textual analytical delivery; source media and raw transcript payloads excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 result: passed
 ---
 

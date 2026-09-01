@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "specialist_synthesis"
-scope: "LizNoir / Rio bisexual coding"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived analysis over uploaded IDOLY PRIDE sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated"
+series: IDOLY_PRIDE
+artifact_type: specialist_synthesis
+scope: LizNoir / Rio bisexual coding
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived analysis over uploaded IDOLY PRIDE sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md
 source_turn: 28
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated'
 ---
 
 I would not call it **canon-confirmed bisexuality**, but I do think **“Rio is bi-coded” is probably the cleanest read if we take all her material together**.

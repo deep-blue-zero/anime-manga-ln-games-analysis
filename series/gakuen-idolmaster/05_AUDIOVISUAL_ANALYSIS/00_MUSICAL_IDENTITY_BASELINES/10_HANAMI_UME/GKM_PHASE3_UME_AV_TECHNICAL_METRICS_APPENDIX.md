@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: technical_appendix
 scope: CHARACTER_HANAMI_UME_PHASE3_AV_TECHNICAL
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Technical metadata and source-level audio/visual measurements for the 21-object canonical Ume AV packet"
-supersedes: null
-superseded_by: null
+source_boundary: Technical metadata and source-level audio/visual measurements for the 21-object canonical Ume AV packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-19"
-title: "Hanami Ume Phase-3 AV Technical Metrics Appendix"
+last_updated: '2026-08-19'
+title: Hanami Ume Phase-3 AV Technical Metrics Appendix
 ---
 
 # GKM PHASE 3 — HANAMI UME AV TECHNICAL METRICS APPENDIX

@@ -4,15 +4,15 @@ artifact_type: source_normalization_register
 scope: V01-V14_main_series
 generation: V1
 status: canonical
-source_boundary: "IMOSAE-JP-LN-RAW-1.0 Japanese numbered light-novel EPUBs"
-supersedes: null
-superseded_by: null
+source_boundary: IMOSAE-JP-LN-RAW-1.0 Japanese numbered light-novel EPUBs
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-18"
-gaiji_map_id: "IMOSAE-GAIJI-MAP-1.0"
-normalization_spec_id: "IMOSAE-NORM-SPEC-1.0"
-normalized_release_status: "not_yet_frozen"
+version: '1.0'
+date: '2026-08-18'
+gaiji_map_id: IMOSAE-GAIJI-MAP-1.0
+normalization_spec_id: IMOSAE-NORM-SPEC-1.0
+normalized_release_status: not_yet_frozen
 ---
 
 # IMOSAE Gaiji and Text Normalization Register

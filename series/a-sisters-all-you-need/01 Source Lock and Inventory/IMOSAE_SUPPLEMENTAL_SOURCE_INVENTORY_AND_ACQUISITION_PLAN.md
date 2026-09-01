@@ -5,12 +5,12 @@ scope: supplemental_materials
 scope_state: provisional_research_inventory_2026-08-18
 generation: V1
 status: active_provisional
-source_boundary: "Supplemental and adaptation material identified from official publisher/anime sources plus clearly labeled secondary discovery sources"
-supersedes: null
-superseded_by: null
+source_boundary: Supplemental and adaptation material identified from official publisher/anime sources plus clearly labeled secondary discovery sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-18"
+version: '1.0'
+date: '2026-08-18'
 ---
 
 # 妹さえいればいい。 / A Sister's All You Need

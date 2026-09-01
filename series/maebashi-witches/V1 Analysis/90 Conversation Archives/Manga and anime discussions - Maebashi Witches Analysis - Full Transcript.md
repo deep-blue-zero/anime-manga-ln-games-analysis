@@ -1,10 +1,10 @@
 ---
-title: "Manga and anime discussions - Maebashi Witches Analysis"
-source_url: "https://chatgpt.com/g/g-p-69ab0e4e06188191bcc4c71aea012ad8-manga-and-anime-discussions/c/6a36d5ac-4338-8328-a559-0770e8ee7b5f"
-exported_at: "2026-08-22T19:36:57.865Z"
-export_mode: "Full transcript"
+title: Manga and anime discussions - Maebashi Witches Analysis
+source_url: https://chatgpt.com/g/g-p-69ab0e4e06188191bcc4c71aea012ad8-manga-and-anime-discussions/c/6a36d5ac-4338-8328-a559-0770e8ee7b5f
+exported_at: '2026-08-22T19:36:57.865Z'
+export_mode: Full transcript
 exported_turns: 61
-script_version: "0.1.0"
+script_version: 0.1.0
 selected_branch_only: true
 attachments_embedded: false
 full_load_attempted: true

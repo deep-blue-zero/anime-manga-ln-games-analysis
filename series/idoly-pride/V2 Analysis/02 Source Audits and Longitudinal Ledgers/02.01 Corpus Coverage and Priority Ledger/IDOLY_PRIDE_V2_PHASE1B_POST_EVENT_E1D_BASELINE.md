@@ -5,23 +5,23 @@ artifact_role: CHECKPOINT
 scope: POST_PHASE1B_EVENT_E1D
 filename: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E1D_BASELINE.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Tier-A complete + E1-A + E1-B + E1-C + E1-D events only"
+source_boundary: Tier-A complete + E1-A + E1-B + E1-C + E1-D events only
 inherits: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E1C_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1B_EVENT_E1D_CLOSE_READ_AUDIT.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1B_EVENT_E1D_PRIMARY_FINDINGS_FREEZE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: FROZEN_POST_E1D_REFERENCE_BEFORE_E1E
-created: "2026-08-15"
-updated: "2026-08-15"
-next_operation: "Phase 1B Event Close Read — E1-E"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-15'
+updated: '2026-08-15'
+next_operation: Phase 1B Event Close Read — E1-E
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — POST-EVENT E1-D GOVERNING BASELINE

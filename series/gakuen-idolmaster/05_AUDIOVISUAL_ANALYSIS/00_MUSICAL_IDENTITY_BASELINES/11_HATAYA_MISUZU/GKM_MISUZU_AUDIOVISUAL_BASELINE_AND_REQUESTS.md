@@ -2,14 +2,15 @@
 series: GKM
 artifact_type: audiovisual_request_register
 scope: CHARACTER_HATAYA_MISUZU_PHASE3_AV_BASELINE
-character: "Hataya Misuzu / 秦谷美鈴"
+character: Hataya Misuzu / 秦谷美鈴
 generation: V2
 status: superseded
-source_boundary: "textual crosswalk frozen from Source Lock 1.0; direct audiovisual inspection pending; official discography metadata checked 2026-08-16"
-supersedes: null
-superseded_by: "GKM_MISUZU_COMPLETE_AUDIOVISUAL_BASELINE.md"
+source_boundary: textual crosswalk frozen from Source Lock 1.0; direct audiovisual inspection pending; official discography metadata checked 2026-08-16
+supersedes: []
+superseded_by:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/11_HATAYA_MISUZU/GKM_MISUZU_COMPLETE_AUDIOVISUAL_BASELINE.md
 do_not_use_as_current_authority: true
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 ---
 
 # HATAYA MISUZU — AUDIOVISUAL BASELINE AND WHOLE-VIDEO REQUEST PACKET

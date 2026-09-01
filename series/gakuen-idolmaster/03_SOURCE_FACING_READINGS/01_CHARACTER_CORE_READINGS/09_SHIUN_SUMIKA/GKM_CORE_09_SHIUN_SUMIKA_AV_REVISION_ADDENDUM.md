@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: claim_revision_ledger
 scope: CHARACTER_SHIUN_SUMIKA_PHASE3_AV_REVISION_ADDENDUM
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: canonical
-source_boundary: "GKM_CORE_09_SHIUN_SUMIKA.md tested against the complete 22-logical-object staged audiovisual packet, including direct Dear 028–037 late-route backfill"
-supersedes: null
-superseded_by: null
+source_boundary: GKM_CORE_09_SHIUN_SUMIKA.md tested against the complete 22-logical-object staged audiovisual packet, including direct Dear 028–037 late-route backfill
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shiun Sumika Phase-3 AV Revision Addendum"
-parent_authority: "GKM_CORE_09_SHIUN_SUMIKA.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shiun Sumika Phase-3 AV Revision Addendum
+parent_authority: GKM_CORE_09_SHIUN_SUMIKA.md
 ---
 
 # SHIUN SUMIKA — PHASE-3 AV REVISION ADDENDUM

@@ -1,13 +1,13 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: source_method_assessment
-scope: "TARGETED_AUDIO_PLAN"
+scope: TARGETED_AUDIO_PLAN
 generation: V1
 status: historical_legacy
-source_boundary: "Prioritization of high-value episodes for a targeted complete-audio and Japanese-subtitle revisit"
-supersedes: null
-superseded_by: null
+source_boundary: Prioritization of high-value episodes for a targeted complete-audio and Japanese-subtitle revisit
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 provenance_turn: 80
 extracted: 2026-08-22

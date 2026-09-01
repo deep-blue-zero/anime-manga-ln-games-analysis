@@ -4,25 +4,27 @@ artifact_type: deep_reading
 scope: E10
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; GBC_ep10_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass"
-supersedes: "GBC_E10_DEEP_READING.md@V1 (Drive ID 1L3oMNOaaCW_GA_1o5EYbfZsYnN0x5BE8) as current E10 interpretive authority; V1 remains immutable historical provenance"
-superseded_by: null
+source_boundary: GBC-V2-SOURCE-LOCK-1.0; GBC_ep10_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 source_lock: GBC-V2-SOURCE-LOCK-1.0
 primary_source_drive_id: 1Ii3dG8wKidnxFza5uXPJ03t0e-aGfzl4
 v1_historical_counterpart_drive_id: 1L3oMNOaaCW_GA_1o5EYbfZsYnN0x5BE8
-prior_checkpoint: "GBC_E05-E08_CHECKPOINT.md (Drive ID 1cfRaFb17hybpEJpH5bo4UUuEeZbdBfQU; frozen)"
-prior_canonical_episode: "GBC_E09_DEEP_READING.md (Drive ID 1k4xXxz4Y6XoyLxSW9zjQjGwg34XCETp3)"
+prior_checkpoint: GBC_E05-E08_CHECKPOINT.md (Drive ID 1cfRaFb17hybpEJpH5bo4UUuEeZbdBfQU; frozen)
+prior_canonical_episode: GBC_E09_DEEP_READING.md (Drive ID 1k4xXxz4Y6XoyLxSW9zjQjGwg34XCETp3)
 episode_duration_seconds: 1421.255
-held_out_cp2_result: "8 CONFIRM / 4 PARTIAL / 0 CONTRADICT / 15 NON-DIAGNOSTIC"
+held_out_cp2_result: 8 CONFIRM / 4 PARTIAL / 0 CONTRADICT / 15 NON-DIAGNOSTIC
 evidence_modalities:
-  - japanese_ass
-  - complete_audio
-  - dense_screenshots
-  - contact_sheets
+- japanese_ass
+- complete_audio
+- dense_screenshots
+- contact_sheets
 created: 2026-08-26
 updated: 2026-08-26
 next_operation: GBC_E11_DEEP_READING.md
+legacy_supersession_notes:
+- 'legacy supersedes: GBC_E10_DEEP_READING.md@V1 (Drive ID 1L3oMNOaaCW_GA_1o5EYbfZsYnN0x5BE8) as current E10 interpretive authority; V1 remains immutable historical provenance'
 ---
 
 # Girls Band Cry E10 - V2 Deep Reading

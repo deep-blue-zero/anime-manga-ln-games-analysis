@@ -1,15 +1,16 @@
 ---
-series: "MAEBASHI"
-artifact_type: "specialist_synthesis"
-scope: "CHOCO_VS_KOTONE"
-generation: "V1"
-status: "canonical"
-source_boundary: "Post-series Choco comparison with Gakuen Idolmaster Kotone Fujita"
+series: MAEBASHI
+artifact_type: specialist_synthesis
+scope: CHOCO_VS_KOTONE
+generation: V1
+status: canonical
+source_boundary: Post-series Choco comparison with Gakuen Idolmaster Kotone Fujita
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md"
-source_turns: [84]
+source_transcript: Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md
+source_turns:
+- 84
 ---
 
 <!-- transcript_source_turn: 84 -->

@@ -2,17 +2,17 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: phase_checkpoint
-scope: "V1 historical synthesis against V2 E01-E24"
+scope: V1 historical synthesis against V2 E01-E24
 generation: V2
 phase: 2
 work_unit: v1_to_v2_revision_stabilization
 status: canonical
-source_boundary: "Historical V1 synthesis; frozen Mandarin-primary E01-E24 corpus; stabilized Phase-2 ledgers; 145-key current claim authority; motion and targeted AV evidence through TBHX-AV-E11-001"
-supersedes: null
-superseded_by: null
+source_boundary: Historical V1 synthesis; frozen Mandarin-primary E01-E24 corpus; stabilized Phase-2 ledgers; 145-key current claim authority; motion and targeted AV evidence through TBHX-AV-E11-001
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-17
-next_artifact: "TBHX_V2_PHASE2_CLOSURE_CHECKPOINT.md"
+next_artifact: TBHX_V2_PHASE2_CLOSURE_CHECKPOINT.md
 ---
 
 # To Be Hero X V2 — Phase 2 V1→V2 Revision Checkpoint

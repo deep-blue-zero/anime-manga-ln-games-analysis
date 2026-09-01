@@ -5,29 +5,29 @@ artifact_role: AUDIT
 scope: PHASE1_COMPLETE
 filename: IDOLY_PRIDE_V2_PHASE1_CLOSURE_AUDIT.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1"
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_cutoff: "2026-08-13"
-source_boundary: "Phase-0 locked source snapshot + frozen Phase-0.5 anime endpoint + complete Phase-1 broad coverage/routing and selective close reading through IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md. This audit closes Phase 1 without promoting deliberately indexed B4/C2/C3/ordinary-message material or reconstructing unavailable formal assets."
+source_cutoff: '2026-08-13'
+source_boundary: Phase-0 locked source snapshot + frozen Phase-0.5 anime endpoint + complete Phase-1 broad coverage/routing and selective close reading through IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md. This audit closes Phase 1 without promoting deliberately indexed B4/C2/C3/ordinary-message material or reconstructing unavailable formal assets.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1B_BASELINE.md
 governing_method: IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
 governing_architecture: IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
 governing_evidence_protocol: IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
 governing_cross_media_protocol: IDOLY_PRIDE_V2_ANIME_AND_CROSS_MEDIA_SEQUENCING_PROTOCOL.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 closure_result: PASS_WITH_EXPLICIT_NONBLOCKING_ROUTED_GAPS
 phase1_closed: true
 phase2_ready: true
 integrity_status: PHASE1_CLOSED_PHASE2_READY
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 2 — Longitudinal Ledgers: P2-0 ledger/freshness infrastructure, then foundational Mana/Makino ledgers"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: 'Phase 2 — Longitudinal Ledgers: P2-0 ledger/freshness infrastructure, then foundational Mana/Makino ledgers'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 CLOSURE AUDIT

@@ -4,21 +4,23 @@ artifact_type: deep_reading
 scope: E01
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; GBC_ep01_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass"
-supersedes: "GBC_E01_DEEP_READING.md@V1 (Drive ID 1WF4-3IyKD0uRMD08Jg66ryV53k44QKKf) as current E01 interpretive authority; V1 remains immutable historical provenance"
-superseded_by: null
+source_boundary: GBC-V2-SOURCE-LOCK-1.0; GBC_ep01_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 source_lock: GBC-V2-SOURCE-LOCK-1.0
 primary_source_drive_id: 1Sugn25FdEHVOx0YJdJKQR5XCF-hJtKPB
 v1_historical_counterpart_drive_id: 1WF4-3IyKD0uRMD08Jg66ryV53k44QKKf
 episode_duration_seconds: 1421.136
 evidence_modalities:
-  - japanese_ass
-  - complete_audio
-  - dense_screenshots
-  - contact_sheets
+- japanese_ass
+- complete_audio
+- dense_screenshots
+- contact_sheets
 created: 2026-08-26
 updated: 2026-08-26
+legacy_supersession_notes:
+- 'legacy supersedes: GBC_E01_DEEP_READING.md@V1 (Drive ID 1WF4-3IyKD0uRMD08Jg66ryV53k44QKKf) as current E01 interpretive authority; V1 remains immutable historical provenance'
 ---
 
 # Girls Band Cry E01 — V2 Deep Reading

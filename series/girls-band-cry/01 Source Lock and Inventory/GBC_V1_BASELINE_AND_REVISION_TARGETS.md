@@ -4,9 +4,9 @@ artifact_type: claim_revision_baseline
 scope: E01-E13
 analysis_generation: V2
 status: canonical
-source_boundary: "Historical V1 episode archive and GIRLS BAND CRY Full Series.md, converted into hypotheses for V2 adjudication"
-supersedes: null
-superseded_by: null
+source_boundary: Historical V1 episode archive and GIRLS BAND CRY Full Series.md, converted into hypotheses for V2 adjudication
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 updated: 2026-08-17

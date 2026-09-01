@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V26 Deep Reading - 余物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V26"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『余物語』, supplied archive item 26 余物語.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V26 Deep Reading - 余物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V26
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『余物語』, supplied archive item 26 余物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V26_DEEP_READING"
-version: "1.0"
-date: "2026-08-18"
-volume_code: "V26"
-japanese_title: "余物語"
-archive_position: "Monster Season archive spine V26; third numbered Monster Season volume"
-source_file: "26 余物語.epub"
-source_drive_id: "1MP1kiJhDKwpQhvOQOZYWLVEOyAxYwis6"
-source_sha256: "17b42ab6cb1d5f5f0267f7ff6957306fd51c5620dc148278c40c68d86d0c13b6"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V26_DEEP_READING
+version: '1.0'
+date: '2026-08-18'
+volume_code: V26
+japanese_title: 余物語
+archive_position: Monster Season archive spine V26; third numbered Monster Season volume
+source_file: 26 余物語.epub
+source_drive_id: 1MP1kiJhDKwpQhvOQOZYWLVEOyAxYwis6
+source_sha256: 17b42ab6cb1d5f5f0267f7ff6957306fd51c5620dc148278c40c68d86d0c13b6
 source_size_bytes: 1276928
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies an April 2019 Kodansha BOX print basis; electronic colophon identifies April 1, 2019 electronic issue. OPF/calibre timestamps are retained only as file-history metadata."
-principal_story_units: "第四話 よつぎバディ; 第五話 よつぎシャドウ"
-narrators: "『よつぎバディ』 is 阿良々木暦 first-person throughout §§001-035. 『よつぎシャドウ』 is 千石撫子 first-person throughout §§001-008."
-internal_story_range: "『よつぎバディ』 occurs during Araragi's university first year at the beginning of summer vacation and follows the recent university-period cases of V24-V25. 『よつぎシャドウ』 follows the Nadeko-side V25 material and takes place while she remains a third-year middle-school student during summer vacation. Exact civil dates and the interval between the two story lines remain unsupported. Both internally precede V23's age-twenty-three police period by years."
-spoiler_policy: "Publication-local V26 conclusions may use and revise V01-V25 because V26 is the current publication boundary. V27 『扇物語』 and all later Monster/Family Season material are excluded except as explicitly quarantined future-source hooks. No V27 event, identity, motive, or resolution is admitted into V26 authority."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies an April 2019 Kodansha BOX print basis; electronic colophon identifies April 1, 2019 electronic issue. OPF/calibre timestamps are retained only as file-history metadata.
+principal_story_units: 第四話 よつぎバディ; 第五話 よつぎシャドウ
+narrators: 『よつぎバディ』 is 阿良々木暦 first-person throughout §§001-035. 『よつぎシャドウ』 is 千石撫子 first-person throughout §§001-008.
+internal_story_range: 『よつぎバディ』 occurs during Araragi's university first year at the beginning of summer vacation and follows the recent university-period cases of V24-V25. 『よつぎシャドウ』 follows the Nadeko-side V25 material and takes place while she remains a third-year middle-school student during summer vacation. Exact civil dates and the interval between the two story lines remain unsupported. Both internally precede V23's age-twenty-three police period by years.
+spoiler_policy: Publication-local V26 conclusions may use and revise V01-V25 because V26 is the current publication boundary. V27 『扇物語』 and all later Monster/Family Season material are excluded except as explicitly quarantined future-source hooks. No V27 event, identity, motive, or resolution is admitted into V26 authority.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 — Volume 26 Deep Reading

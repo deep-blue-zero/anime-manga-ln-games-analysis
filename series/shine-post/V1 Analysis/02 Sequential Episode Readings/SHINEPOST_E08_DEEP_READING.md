@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "deep_reading"
-scope: "E08"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episode 8, Japanese subtitle/visual packet"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: deep_reading
+scope: E08
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episode 8, Japanese subtitle/visual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 16
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 I unpacked Episode 8. The packet contains **767 deduplicated episode frames**, **39 contact sheets**, **10 scene segments**, and **367 spoken-dialogue subtitle cues** after separating out the heavy OP/ED effect layer. The episode title is:

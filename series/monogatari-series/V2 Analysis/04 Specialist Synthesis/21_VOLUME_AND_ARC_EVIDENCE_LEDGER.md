@@ -4,17 +4,17 @@ artifact_type: evidence_ledger
 scope: V01-V30_PLUS_CONTROLLED_SUPPLEMENTARY
 generation: V2
 status: canonical
-source_boundary: "Locked Japanese numbered corpus V01-V30 plus admitted SUP-C Hyakumonogatari and SUP-A Mijikanamonogatari; 化物語 アニメコンプリートガイドブック retained only as GUIDE-001–005 dual textual witnesses"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese numbered corpus V01-V30 plus admitted SUP-C Hyakumonogatari and SUP-A Mijikanamonogatari; 化物語 アニメコンプリートガイドブック retained only as GUIDE-001–005 dual textual witnesses
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
 governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-source_inventory: "SOURCE_INVENTORY.md v1.33-mijikanamonogatari-deep-reading"
-live_ledger_boundary: "L01-L09 v1.31-mijikanamonogatari / C764"
+source_inventory: SOURCE_INVENTORY.md v1.33-mijikanamonogatari-deep-reading
+live_ledger_boundary: L01-L09 v1.31-mijikanamonogatari / C764
 previous_checkpoint: MONOGATARI_V2_SUPPLEMENTARY_INTEGRATION_CHECKPOINT.md
-phase: "Phase 3 evidence and architecture stabilization"
-phase_gate_status: "satisfied by this artifact"
+phase: Phase 3 evidence and architecture stabilization
+phase_gate_status: satisfied by this artifact
 next_artifact: 01_SERIES_ARCHITECTURE_PUBLICATION_CHRONOLOGY_AND_SEASON_PROGRESSION.md
 ---
 

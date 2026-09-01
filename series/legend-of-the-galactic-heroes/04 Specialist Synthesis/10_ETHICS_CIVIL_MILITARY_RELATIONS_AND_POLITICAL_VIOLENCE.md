@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Ethics, Civil–Military Relations, and Political Violence"
-subtitle: "Obedience, atrocity, coups, assassination, surrender, and the limits of necessity"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed fifth-tranche ethical and civil–military document"
+title: 銀河英雄伝説 — Ethics, Civil–Military Relations, and Political Violence
+subtitle: Obedience, atrocity, coups, assassination, surrender, and the limits of necessity
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed fifth-tranche ethical and civil–military document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G01; G02; G04; G05-DAGON; G05-DISHONOR"
+primary_sources: M01–M10; G01; G02; G04; G05-DAGON; G05-DISHONOR
 ---
 
 # 銀河英雄伝説

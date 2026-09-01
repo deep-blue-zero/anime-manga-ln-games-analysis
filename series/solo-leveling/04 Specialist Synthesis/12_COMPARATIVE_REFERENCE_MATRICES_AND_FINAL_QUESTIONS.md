@@ -1,22 +1,22 @@
 ---
-title: "Solo Leveling — Comparative Reference Matrices and Final Questions"
-subtitle: "Portable conclusions for future analysis"
-project: "Solo Leveling Definitive Novel–Manhwa Synthesis"
-document_id: "SL_SYNTH_12"
-version: "1.0"
+title: Solo Leveling — Comparative Reference Matrices and Final Questions
+subtitle: Portable conclusions for future analysis
+project: Solo Leveling Definitive Novel–Manhwa Synthesis
+document_id: SL_SYNTH_12
+version: '1.0'
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
-  - "Chugong's complete original Korean novel omnibus, including main story, 외전 1–21, and 후일담 1–2"
-  - "Official English manhwa Volumes 1–15 for visual/adaptation evidence and manhwa-original continuation material"
-governing_method: "../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md"
-paired_architecture: "../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md"
-evidence_spine: "../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-correspondence_map: "../03 Evidence and Crosswalk/Solo_Leveling_Phase_2_Correspondence_Map.md"
-spoilers: "complete series"
-source_inventory_date: "2026-08-12"
+- Chugong's complete original Korean novel omnibus, including main story, 외전 1–21, and 후일담 1–2
+- Official English manhwa Volumes 1–15 for visual/adaptation evidence and manhwa-original continuation material
+governing_method: ../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md
+paired_architecture: ../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md
+evidence_spine: ../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+correspondence_map: ../03 Evidence and Crosswalk/Solo_Leveling_Phase_2_Correspondence_Map.md
+spoilers: complete series
+source_inventory_date: '2026-08-12'
 ---
 
 # 12 — Comparative Reference Matrices and Final Questions

@@ -4,7 +4,7 @@ artifact_type: analytical_method
 scope: PER_VOLUME
 method_version: V1
 status: canonical
-source_boundary: "Japanese main-series light novels in canonical volume order"
+source_boundary: Japanese main-series light novels in canonical volume order
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

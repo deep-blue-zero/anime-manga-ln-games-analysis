@@ -4,13 +4,13 @@ artifact_type: audit
 scope: TAKAO_30311_V1_PROMOTION
 generation: V1
 status: canonical
-source_boundary: "Takao V1 monograph plus completed source augmentation and canonical JP performed-voice specialist/impact ledger"
+source_boundary: Takao V1 monograph plus completed source augmentation and canonical JP performed-voice specialist/impact ledger
 target_artifact: AZUR_LANE_TAKAO_CHARACTER_MONOGRAPH.md
 target_generation: V1
 promotion_result: PROMOTE_TO_CANONICAL_V1
-promoted_at: "2026-08-23T14:47:00-04:00"
-supersedes: null
-superseded_by: null
+promoted_at: '2026-08-23T14:47:00-04:00'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: synthesis_architecture
-scope: "Analytical corpus architecture for Japanese-primary Blue Archive interpretation"
+scope: Analytical corpus architecture for Japanese-primary Blue Archive interpretation
 generation: V1
 status: canonical
-source_boundary: "Designed for the Blue Archive extraction corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 and its future promoted generations"
+source_boundary: Designed for the Blue Archive extraction corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 and its future promoted generations
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

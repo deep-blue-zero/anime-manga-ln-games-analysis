@@ -6,9 +6,9 @@ media: TV_anime
 language_priority: Japanese
 analysis_generation: V2
 status: canonical
-source_boundary: "Girls Band Cry TV anime Episodes 1-13, episode audiovisual bundles, official episode audio/subtitles/frames available in the primary-source corpus, and V1 analysis used only as revision-target provenance"
-supersedes: null
-superseded_by: null
+source_boundary: Girls Band Cry TV anime Episodes 1-13, episode audiovisual bundles, official episode audio/subtitles/frames available in the primary-source corpus, and V1 analysis used only as revision-target provenance
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 updated: 2026-08-17

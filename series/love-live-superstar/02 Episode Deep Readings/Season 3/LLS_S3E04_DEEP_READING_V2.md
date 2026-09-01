@@ -5,23 +5,23 @@ artifact_role: DEEP_READING
 scope: S3E04
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S3E04 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S3E04 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 3
 episode: 4
-episode_title_japanese: "No Rain, No Rainbow"
-episode_title_english: "No Rain, No Rainbow"
-episode_title_source: "retained source frames at approximately 00:02:49-00:02:51 directly display #04 and the Latin-script title No Rain / No Rainbow across carp-streamer surfaces; title used as identifying/formal evidence and later explicitly spoken/explained in-story, not as independent proof of interpretation"
+episode_title_japanese: No Rain, No Rainbow
+episode_title_english: No Rain, No Rainbow
+episode_title_source: 'retained source frames at approximately 00:02:49-00:02:51 directly display #04 and the Latin-script title No Rain / No Rainbow across carp-streamer surfaces; title used as identifying/formal evidence and later explicitly spoken/explained in-story, not as independent proof of interpretation'
 artifact_id: LLS_S3E04_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E03 as prior authority; corrected-Japanese SRT governing text; English comparison ASS lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; Onitsuka sibling history, dream-failure/money-defense causality, protective pessimism, accepted-risk aspiration, second-year succession, one-school/one-entry institutional conflict, reciprocal rivalry, conceptual decentering, Shiki center durability, Wien dream stance/huff audit, relationship, voice, institution, and character-model analysis"
+analysis_mode: sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E03 as prior authority; corrected-Japanese SRT governing text; English comparison ASS lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; Onitsuka sibling history, dream-failure/money-defense causality, protective pessimism, accepted-risk aspiration, second-year succession, one-school/one-entry institutional conflict, reciprocal rivalry, conceptual decentering, Shiki center durability, Wien dream stance/huff audit, relationship, voice, institution, and character-model analysis
 source_bundle: LLS_s03e04_screenshots.zip
 source_drive_id: 1_gBBk1RCO9efdRHqgE_El3q8hyf_W3lN
 source_sha256: 7aae6ed7c6cf3c8cb6ba096a1b21d002a3cf9ec72bb21a1bae54ba51a94808d3
 source_bytes: 153704424
-source_language: "Japanese audio; corrected Japanese SRT; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S3E04 only"
+source_language: Japanese audio; corrected Japanese SRT; English comparison ASS
+semantic_evidence_boundary: S1E01-S3E04 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON2_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
@@ -32,8 +32,8 @@ season1_frozen_checkpoint_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 season2_frozen_checkpoint: LLS_SEASON2_FROZEN_CHECKPOINT.md
 season2_frozen_checkpoint_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
 season2_checkpoint_status: frozen
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 765
 retained_frames: 707
 contact_sheets_reviewed: 40
@@ -46,7 +46,7 @@ english_spoken_derivative_events: 400
 bundled_paired_english_rows: 380
 bundled_paired_english_coverage: 0.850112
 source_video_duration_seconds: 1422.098
-audio_ffprobe_duration_seconds: 1422.120
+audio_ffprobe_duration_seconds: 1422.12
 audio_sha256: d984558cd4398df2c6b08e2aaebdc511408a0c0c37d791c6d749c706cefe4892
 audio_bytes: 28443233
 audio_codec: MP3
@@ -55,17 +55,17 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_packaging_warning: "Phase-0 known non-blocking warning: corrected Japanese is retained as S03E04.ja.corrected.srt; subtitle_info selected_subtitle correctly points to SRT, while language_tracks.japanese_corrected/comparison_pairing.primary stale-reference a nonexistent/obsolete .ass name. Exact Japanese wording/timing is usable; ASS style-layer claims are unavailable."
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_packaging_warning: 'Phase-0 known non-blocking warning: corrected Japanese is retained as S03E04.ja.corrected.srt; subtitle_info selected_subtitle correctly points to SRT, while language_tracks.japanese_corrected/comparison_pairing.primary stale-reference a nonexistent/obsolete .ass name. Exact Japanese wording/timing is usable; ASS style-layer claims are unavailable.'
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 707 retained frames, 40 contact sheets, subtitle/index copies, visual montages, paired transcript, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 707 retained frames, 40 contact sheets, subtitle/index copies, visual montages, paired transcript, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S3E05_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

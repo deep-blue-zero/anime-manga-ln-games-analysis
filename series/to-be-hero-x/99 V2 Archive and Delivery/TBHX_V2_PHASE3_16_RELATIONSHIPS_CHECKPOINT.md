@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: specialist_completion_checkpoint
-scope: "Phase 3 Specialist 16 — cross-arc relationships, alliances, mentorship, and recognition"
+scope: Phase 3 Specialist 16 — cross-arc relationships, alliances, mentorship, and recognition
 generation: V2
 phase: 3
 specialist_number: 16
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 relationship/claim authorities; canonical Specialists 06-15; targeted and episode-specific audiovisual evidence where required"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 relationship/claim authorities; canonical Specialists 06-15; targeted and episode-specific audiovisual evidence where required
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

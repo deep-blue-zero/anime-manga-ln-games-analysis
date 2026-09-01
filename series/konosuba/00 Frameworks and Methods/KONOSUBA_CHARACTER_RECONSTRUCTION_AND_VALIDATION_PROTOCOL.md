@@ -4,7 +4,7 @@ artifact_type: character_reconstruction_protocol
 scope: FULL_MAIN_SERIES
 protocol_version: V1
 status: canonical
-source_boundary: "Main-series Japanese novels as derivation corpus; selected side material reserved for post-freeze validation"
+source_boundary: Main-series Japanese novels as derivation corpus; selected side material reserved for post-freeze validation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

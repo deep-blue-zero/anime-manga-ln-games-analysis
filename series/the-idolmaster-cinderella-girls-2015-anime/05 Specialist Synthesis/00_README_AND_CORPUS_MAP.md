@@ -89,7 +89,7 @@ Its function is to show ordinary continuation after the mainline argument has al
 
 The dedicated treatment is:
 
-- [15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md](15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md)
+- [15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md](../02%20Episode%20Deep%20Readings/15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md)
 
 Its concise thesis is:
 
@@ -145,11 +145,11 @@ For performance as a dramatic event, audio, visual sequence, Japanese dialogue, 
 
 The source-lock overview is:
 
-- [CG2015_SOURCE_LOCK_AND_INVENTORY_E01-E26.md](CG2015_SOURCE_LOCK_AND_INVENTORY_E01-E26.md)
+- [CG2015_SOURCE_LOCK_AND_INVENTORY_E01-E26.md](../01%20Source%20Lock%20and%20Inventory/CG2015_SOURCE_LOCK_AND_INVENTORY_E01-E26.md)
 
 The final bounded sound audit is:
 
-- [CG2015_FINAL_SERIES_MUSIC_SOUND_AUDIT_E01-E26.md](CG2015_FINAL_SERIES_MUSIC_SOUND_AUDIT_E01-E26.md)
+- [CG2015_FINAL_SERIES_MUSIC_SOUND_AUDIT_E01-E26.md](../03%20Retrospective%20Audio%20Analysis/CG2015_FINAL_SERIES_MUSIC_SOUND_AUDIT_E01-E26.md)
 
 The source lock also records filename-collision safeguards. Several episode-bundle filenames are shared with other anime in the broader project; source identity was therefore verified from archive internals and fingerprints rather than inferred from filename alone.
 
@@ -203,7 +203,7 @@ The authentic standalone historical E13/Cour-1 checkpoint could not be recovered
 
 Its preservation record is:
 
-- [CG2015_E13_FROZEN_CHECKPOINT_PROVENANCE.md](CG2015_E13_FROZEN_CHECKPOINT_PROVENANCE.md)
+- [CG2015_E13_FROZEN_CHECKPOINT_PROVENANCE.md](../04%20Checkpoints/CG2015_E13_FROZEN_CHECKPOINT_PROVENANCE.md)
 
 The mature corpus therefore preserves the E13 prospective boundary through provenance rather than pretending to possess a recovered document it does not have.
 
@@ -241,10 +241,10 @@ These are archival gaps, not unresolved interpretive gaps.
 
 | Artifact | Responsibility |
 |---|---|
-| [CinderellaGirlsAnalyticalMethod_v2.md](CinderellaGirlsAnalyticalMethod_v2.md) | Governing Japanese-original audiovisual close-reading method, including chronological discipline, performed vocal states, sound/music analysis, and provenance rules. |
-| [CINDERELLA_GIRLS_MULTI_DOCUMENT_ANALYSIS_AND_SYNTHESIS_PROTOCOL_V1.md](CINDERELLA_GIRLS_MULTI_DOCUMENT_ANALYSIS_AND_SYNTHESIS_PROTOCOL_V1.md) | Governing multi-document architecture, ownership boundaries, phase structure, synthesis responsibilities, and release rules. |
-| [CG2015_SOURCE_LOCK_AND_INVENTORY_E01-E26.md](CG2015_SOURCE_LOCK_AND_INVENTORY_E01-E26.md) | Source identity, subtitle/audio provenance, timing corrections, collision safeguards, and copyright/storage boundary. |
-| [CG2015_FINAL_SERIES_MUSIC_SOUND_AUDIT_E01-E26.md](CG2015_FINAL_SERIES_MUSIC_SOUND_AUDIT_E01-E26.md) | Final bounded cross-series audit of music, audience sound, silence, technical sound, recurrence, and causal audiovisual claims. |
+| [CinderellaGirlsAnalyticalMethod_v2.md](../00%20Frameworks/CinderellaGirlsAnalyticalMethod_v2.md) | Governing Japanese-original audiovisual close-reading method, including chronological discipline, performed vocal states, sound/music analysis, and provenance rules. |
+| [CINDERELLA_GIRLS_MULTI_DOCUMENT_ANALYSIS_AND_SYNTHESIS_PROTOCOL_V1.md](../00%20Frameworks/CINDERELLA_GIRLS_MULTI_DOCUMENT_ANALYSIS_AND_SYNTHESIS_PROTOCOL_V1.md) | Governing multi-document architecture, ownership boundaries, phase structure, synthesis responsibilities, and release rules. |
+| [CG2015_SOURCE_LOCK_AND_INVENTORY_E01-E26.md](../01%20Source%20Lock%20and%20Inventory/CG2015_SOURCE_LOCK_AND_INVENTORY_E01-E26.md) | Source identity, subtitle/audio provenance, timing corrections, collision safeguards, and copyright/storage boundary. |
+| [CG2015_FINAL_SERIES_MUSIC_SOUND_AUDIT_E01-E26.md](../03%20Retrospective%20Audio%20Analysis/CG2015_FINAL_SERIES_MUSIC_SOUND_AUDIT_E01-E26.md) | Final bounded cross-series audit of music, audience sound, silence, technical sound, recurrence, and causal audiovisual claims. |
 
 ## Reader-facing specialist documents
 
@@ -270,14 +270,14 @@ The twelve specialist documents contain approximately **139,155 whitespace-delim
 | Logical no. | Canonical artifact / status | Responsibility |
 |---:|---|---|
 | 13 | **No standalone canonical `13_EPISODE_BY_EPISODE_EVIDENCE_LEDGER.md` currently exists.** | Its intended chronological-evidence function is represented by the sequential episode corpus, cumulative state/provenance history, final sound audit, and Document 14. Do not fabricate a replacement merely to make numbering symmetrical. |
-| 14 | [CG2015_DOC14_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER_POST_FINAL_SOUND_AUDIT.md](CG2015_DOC14_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER_POST_FINAL_SOUND_AUDIT.md) | Authoritative 410-claim provenance engine: claim text, locators, Japanese evidence, primary/secondary analytical homes, audit state, and revision history. |
-| 15 | [15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md](15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md) | Dedicated treatment of Episode 26 as bounded supplementary epilogue/paratext. |
+| 14 | [CG2015_DOC14_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER_POST_FINAL_SOUND_AUDIT.md](../06%20Evidence%20and%20Indexes/CG2015_DOC14_PRIMARY_SOURCE_LOCATOR_AND_CLAIM_REVISION_LEDGER_POST_FINAL_SOUND_AUDIT.md) | Authoritative 410-claim provenance engine: claim text, locators, Japanese evidence, primary/secondary analytical homes, audit state, and revision history. |
+| 15 | [15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md](../02%20Episode%20Deep%20Readings/15_EP26_EXTRA_EPILOGUE_AND_PARATEXT.md) | Dedicated treatment of Episode 26 as bounded supplementary epilogue/paratext. |
 
 Older `14_...` or `CG2015_DOC14_...E##_UPDATE.md` files are historical working revisions. They are not the governing claim ledger after the final sound audit.
 
 ## Continuous synthesis
 
-- [CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md](CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md) — **16,880 words**
+- [CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md](../08%20Final%20Synthesis%20and%20Release/CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md) — **16,880 words**
 
 This is the recommended reader-facing answer to:
 
@@ -784,7 +784,7 @@ These are future questions, not holes that invalidate the current synthesis.
 
 A reader approaching only one analytical document after this README should read:
 
-- [CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md](CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md)
+- [CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md](../08%20Final%20Synthesis%20and%20Release/CINDERELLA_GIRLS_FULL_SERIES_SYNTHESIS.md)
 
 Its central conclusion can be restated from the perspective of this corpus map:
 

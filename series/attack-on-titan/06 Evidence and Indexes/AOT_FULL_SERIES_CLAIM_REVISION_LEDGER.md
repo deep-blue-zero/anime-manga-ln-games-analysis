@@ -4,35 +4,35 @@ artifact_type: claim_revision_ledger
 scope: V01-V34
 generation: V2
 status: canonical
-version: "1.0"
-date: "2026-08-27"
+version: '1.0'
+date: '2026-08-27'
 architecture_lifecycle: STABILIZED
-source_boundary: "Complete Japanese manga tankobon Volumes 1-34"
-publication_state: "canonical Drive placement and initial byte-for-byte readback verified"
-canonical_home: "06 Evidence and Indexes/AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md"
-canonical_drive_id: "12-KOJovY4bk5HtviHIvXrv51IvU73-e9"
-canonical_folder_id: "1euEZ90VtOMlPkGNvE-T9laCmgFbVG3sh"
-supersedes: null
-superseded_by: null
+source_boundary: Complete Japanese manga tankobon Volumes 1-34
+publication_state: canonical Drive placement and initial byte-for-byte readback verified
+canonical_home: 06 Evidence and Indexes/AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md
+canonical_drive_id: 12-KOJovY4bk5HtviHIvXrv51IvU73-e9
+canonical_folder_id: 1euEZ90VtOMlPkGNvE-T9laCmgFbVG3sh
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-governing_method: "AOT_ANALYTICAL_METHOD_V2.md v2.1"
-governing_architecture: "AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2"
+governing_method: AOT_ANALYTICAL_METHOD_V2.md v2.1
+governing_architecture: AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2
 historical_boundaries:
-  - AOT_CHECKPOINT_50P_V01-V19_SYNTHESIS.md
-  - AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
+- AOT_CHECKPOINT_50P_V01-V19_SYNTHESIS.md
+- AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
 post_checkpoint_sources:
-  - AOT_V28_DEEP_READING.md
-  - AOT_V29_DEEP_READING.md
-  - AOT_V30_DEEP_READING.md
-  - AOT_V31_DEEP_READING.md
-  - AOT_V32_DEEP_READING.md
-  - AOT_V33_DEEP_READING.md
-  - AOT_V34_DEEP_READING.md
+- AOT_V28_DEEP_READING.md
+- AOT_V29_DEEP_READING.md
+- AOT_V30_DEEP_READING.md
+- AOT_V31_DEEP_READING.md
+- AOT_V32_DEEP_READING.md
+- AOT_V33_DEEP_READING.md
+- AOT_V34_DEEP_READING.md
 prospective_model_sources:
-  - AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
-  - AOT_CHARACTER_MODEL_PROSPECTIVE_ADJUDICATION_LEDGER.md
+- AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+- AOT_CHARACTER_MODEL_PROSPECTIVE_ADJUDICATION_LEDGER.md
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
-current_provider_mapping: "5.6 Sol Pro"
+current_provider_mapping: 5.6 Sol Pro
 next_operation: AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md
 ---
 

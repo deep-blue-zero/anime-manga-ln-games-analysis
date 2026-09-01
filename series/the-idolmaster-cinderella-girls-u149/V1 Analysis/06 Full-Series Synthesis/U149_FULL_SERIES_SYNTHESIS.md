@@ -1,15 +1,16 @@
 ---
-series: "U149"
-artifact_type: "full_series_synthesis"
-scope: "E01-E12+OVA"
-generation: "V1"
-status: "canonical"
-source_boundary: "Full-series synthesis explicitly treating Episodes 1-12 and OVA as one coherent work"
+series: U149
+artifact_type: full_series_synthesis
+scope: E01-E12+OVA
+generation: V1
+status: canonical
+source_boundary: Full-series synthesis explicitly treating Episodes 1-12 and OVA as one coherent work
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - U149 Deep Analysis - Full Transcript.md"
-source_turns: [45]
+source_transcript: Manga and anime discussions - U149 Deep Analysis - Full Transcript.md
+source_turns:
+- 45
 ---
 
 <!-- transcript_source_turn: 45 -->

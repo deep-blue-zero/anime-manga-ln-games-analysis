@@ -5,110 +5,110 @@ artifact_type: deep_reading
 scope: V34
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-26"
-source_boundary: "Japanese manga Volume 34, Chapters 135-139 including tankobon-added final epilogue through page0246; complete manga sequential boundary"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-26'
+source_boundary: Japanese manga Volume 34, Chapters 135-139 including tankobon-added final epilogue through page0246; complete manga sequential boundary
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "34"
-chapters: "135-139"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '34'
+chapters: 135-139
 chapter_titles:
-  - "第135話 天と地の戦い"
-  - "第136話 心臓を捧げよ"
-  - "第137話 巨人"
-  - "第138話 長い夢"
-  - "最終話 あの丘の木に向かって"
+- 第135話 天と地の戦い
+- 第136話 心臓を捧げよ
+- 第137話 巨人
+- 第138話 長い夢
+- 最終話 あの丘の木に向かって
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v34 (2021) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1JRpx6p9wnl2ukERiZYNHb3LMEALH75i9"
-source_sha256: "c29e86501a697f45e2d6a8a59e043f0270d3a1e4112a175aa49ba4dc90c003ab"
+source_file: Attack on Titan v34 (2021) (Digital SD) (KG Manga).cbz
+source_drive_id: 1JRpx6p9wnl2ukERiZYNHb3LMEALH75i9
+source_sha256: c29e86501a697f45e2d6a8a59e043f0270d3a1e4112a175aa49ba4dc90c003ab
 source_size_bytes: 137873220
 source_images: 252
 content_pages: 251
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "complete manga through Volume 34 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: complete manga through Volume 34 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_material_source: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
+prospective_material_source: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
 prospective_register_frozen_before_source_exposure: true
-previous_checkpoint: "AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md"
+previous_checkpoint: AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
 post_checkpoint_sequence_position: 7
 sequential_series_status: complete
-next_phase_boundary: "Full-series synthesis and character reconstruction/validation may begin only after V34 integration and administrative verification"
+next_phase_boundary: Full-series synthesis and character reconstruction/validation may begin only after V34 integration and administrative verification
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Zeke Jaeger / ジーク・イェーガー"
-  - "Levi Ackerman / リヴァイ・アッカーマン"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Annie Leonhart / アニ・レオンハート"
-  - "Jean Kirstein / ジャン・キルシュタイン"
-  - "Connie Springer / コニー・スプリンガー"
-  - "Pieck Finger / ピーク・フィンガー"
-  - "Falco Grice / ファルコ・グライス"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Historia Reiss / ヒストリア・レイス"
-  - "Ymir Fritz / 始祖ユミル"
-  - "Karina Braun / カリナ・ブラウン"
-  - "Muller / ミュラー"
+- Eren Jaeger / エレン・イェーガー
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Armin Arlert / アルミン・アルレルト
+- Zeke Jaeger / ジーク・イェーガー
+- Levi Ackerman / リヴァイ・アッカーマン
+- Reiner Braun / ライナー・ブラウン
+- Annie Leonhart / アニ・レオンハート
+- Jean Kirstein / ジャン・キルシュタイン
+- Connie Springer / コニー・スプリンガー
+- Pieck Finger / ピーク・フィンガー
+- Falco Grice / ファルコ・グライス
+- Gabi Braun / ガビ・ブラウン
+- Historia Reiss / ヒストリア・レイス
+- Ymir Fritz / 始祖ユミル
+- Karina Braun / カリナ・ブラウン
+- Muller / ミュラー
 major_topics:
-  - freedom without absolution
-  - love without obedience
-  - understanding without exoneration
-  - ordinary life against reproductive and ideological instrumentalization
-  - future knowledge and causal responsibility
-  - terminal motive as multi-causal rather than single-purpose
-  - the end of Titan power versus the persistence of political conflict
-  - narrative testimony as postwar diplomacy
-  - adult responsibility and inherited hatred
-  - grief, memory, and continuing attachment
-  - Ymir, traumatic attachment, and release through Mikasa's choice
-  - historical recurrence without deterministic repetition
+- freedom without absolution
+- love without obedience
+- understanding without exoneration
+- ordinary life against reproductive and ideological instrumentalization
+- future knowledge and causal responsibility
+- terminal motive as multi-causal rather than single-purpose
+- the end of Titan power versus the persistence of political conflict
+- narrative testimony as postwar diplomacy
+- adult responsibility and inherited hatred
+- grief, memory, and continuing attachment
+- Ymir, traumatic attachment, and release through Mikasa's choice
+- historical recurrence without deterministic repetition
 major_visual_motifs:
-  - past Titan bodies crowding the Founder as inherited history weaponized
-  - leaf and baseball as ordinary-life objects inside Paths
-  - Zeke voluntarily exposing himself to Levi
-  - Mikasa's cabin dream and scarf refusal
-  - Mikasa entering Eren's mouth and decapitating him
-  - Eren and Armin walking across changing remembered landscapes
-  - the flattened earth after the Rumbling
-  - surviving Subjects returning to human form
-  - Levi saluting the dead Survey Corps
-  - Armin standing unarmed before Muller's rifles
-  - the peace delegation approaching a militarized Paradis
-  - Mikasa beneath the hill tree
-  - the bird wrapping Mikasa's scarf
-  - the tree outliving generations, urban war, and civilization
-  - a child and dog approaching the final hollow tree
+- past Titan bodies crowding the Founder as inherited history weaponized
+- leaf and baseball as ordinary-life objects inside Paths
+- Zeke voluntarily exposing himself to Levi
+- Mikasa's cabin dream and scarf refusal
+- Mikasa entering Eren's mouth and decapitating him
+- Eren and Armin walking across changing remembered landscapes
+- the flattened earth after the Rumbling
+- surviving Subjects returning to human form
+- Levi saluting the dead Survey Corps
+- Armin standing unarmed before Muller's rifles
+- the peace delegation approaching a militarized Paradis
+- Mikasa beneath the hill tree
+- the bird wrapping Mikasa's scarf
+- the tree outliving generations, urban war, and civilization
+- a child and dog approaching the final hollow tree
 major_lexical_targets:
-  - 自由
-  - 生まれてきた
-  - 何でもない一瞬
-  - 大切
-  - 進み続けた
-  - 8割
-  - 平ら
-  - やりたかった
-  - 死にたくねぇ
-  - 忘れてくれ
-  - マフラー
-  - 愛
-  - 長い悪夢
-  - ただの人
-  - 物語
-  - 和平
+- 自由
+- 生まれてきた
+- 何でもない一瞬
+- 大切
+- 進み続けた
+- 8割
+- 平ら
+- やりたかった
+- 死にたくねぇ
+- 忘れてくれ
+- マフラー
+- 愛
+- 長い悪夢
+- ただの人
+- 物語
+- 和平
 ---
 
 # 『進撃の巨人』Volume 34 Deep Reading

@@ -1,10 +1,44 @@
 # Series analysis
 
-Each series receives one owner-reviewed stable slug under `series/<stable-slug>/`. The canonical title, aliases, original Drive identities, and migration state are recorded in `registry.json` and the external migration crosswalk.
+Each owner-reviewed series uses one stable slug under `series/<stable-slug>/`. `registry.json` is the machine-readable canonical title, media, materialization, and pre-G8 authority registry.
 
-The candidates materialized during G4 are:
+The complete approved G5 text materialization contains these series roots:
 
-- `the-idolmaster-cinderella-girls-u149/` — the first substantive tranche, including migrated Markdown, provenance, and one Character Index v2 entry; and
-- `idoly-pride/` — a partial representative-pilot slice containing one exact source-to-bundle provenance ledger. It is not a complete IDOLY PRIDE migration, and paths listed inside the CSV may refer to corpus artifacts that are not present in Git.
+- [`86-eighty-six/`](86-eighty-six/) — 86 - Eighty-Six
+- [`a-sisters-all-you-need/`](a-sisters-all-you-need/) — A Sister's All You Need
+- [`aobuta/`](aobuta/) — AoButa
+- [`attack-on-titan/`](attack-on-titan/) — Attack on Titan
+- [`azur-lane/`](azur-lane/) — Azur Lane
+- [`blue-archive/`](blue-archive/) — BLUE ARCHIVE
+- [`gakuen-idolmaster/`](gakuen-idolmaster/) — Gakuen Idolmaster
+- [`genshin-impact/`](genshin-impact/) — Genshin Impact
+- [`girls-band-cry/`](girls-band-cry/) — Girls Band Cry
+- [`henshin-metamorphosis/`](henshin-metamorphosis/) — Henshin - Metamorphosis
+- [`idoly-pride/`](idoly-pride/) — IDOLY PRIDE
+- [`kimishinu/`](kimishinu/) — KimiShinu
+- [`konosuba/`](konosuba/) — KonoSuba
+- [`legend-of-the-galactic-heroes/`](legend-of-the-galactic-heroes/) — Legend of the Galactic Heroes
+- [`love-live-superstar/`](love-live-superstar/) — Love Live! Superstar!!
+- [`lycoris-recoil/`](lycoris-recoil/) — Lycoris Recoil
+- [`maebashi-witches/`](maebashi-witches/) — Maebashi Witches
+- [`monogatari-series/`](monogatari-series/) — Monogatari Series
+- [`my-hero-academia/`](my-hero-academia/) — My Hero Academia
+- [`nana/`](nana/) — NANA
+- [`one-punch-man/`](one-punch-man/) — One Punch Man
+- [`oregairu/`](oregairu/) — Oregairu
+- [`oreimo/`](oreimo/) — Oreimo
+- [`redo-of-healer/`](redo-of-healer/) — Redo of Healer
+- [`revue-starlight/`](revue-starlight/) — Revue Starlight
+- [`shine-post/`](shine-post/) — SHINE POST
+- [`shokugeki-no-soma/`](shokugeki-no-soma/) — Shokugeki no Soma
+- [`shuukura/`](shuukura/) — Shuukura
+- [`solo-leveling/`](solo-leveling/) — Solo Leveling
+- [`sound-euphonium/`](sound-euphonium/) — Sound! Euphonium
+- [`the-idolmaster-cinderella-girls-2015-anime/`](the-idolmaster-cinderella-girls-2015-anime/) — THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)
+- [`the-idolmaster-cinderella-girls-mobile-games/`](the-idolmaster-cinderella-girls-mobile-games/) — THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)
+- [`the-idolmaster-cinderella-girls-u149/`](the-idolmaster-cinderella-girls-u149/) — THE IDOLM@STER CINDERELLA GIRLS U149
+- [`to-be-hero-x/`](to-be-hero-x/) — To Be Hero X
+- [`youjo-senki/`](youjo-senki/) — YOUJO SENKI
+- [`yuru-camp/`](yuru-camp/) — Yuru Camp
 
-G4 is closed and G5 progressive bounded migration is active. G5-T01 adds `maebashi-witches/`, containing the reviewed V1 episode readings, specialist and comparative analyses, manifest, and historical conversation provenance. All existing candidates remain nonauthoritative until G8. The IDOLY PRIDE ledger is structured provenance, not substantial character analysis, and creates no character-index record. G5-T02 also registers `mass-effect` as a logical Character Index series binding whose reviewed corpus intentionally lives under `studies/comparative-media/Mass Effect/`; this does not create a second series tree. G5-T03 adds `genshin-impact/`, containing the bounded reviewed Furina V1 analytical corpus and one Character Index v2 record. G5-T04 adds `the-idolmaster-cinderella-girls-mobile-games/`, containing 23 reviewed mobile-game monographs, audits, an audiovisual addendum, and the corpus map; nine monograph-plus-audit pairs receive Character Index v2 records. G5-T05 adds `blue-archive/`, containing 36 reviewed analytical artifacts covering the Prologue and Countermeasures Committee Arc Volume 1 Chapter 1 through E020, seven longitudinal ledgers, one machine-readable CSV, and eleven distributed-substantial Character Index v2 records. G5-T06 adds `youjo-senki/`, containing 16 reviewed V2 light-novel analytical artifacts covering Volumes 01–14; its Tanya monograph remains discoverable through the corpus map but does not create a Character Index v2 record in this tranche. G5-T07 adds `legend-of-the-galactic-heroes/`, containing 20 reviewed original-novel analytical artifacts and two dedicated Character Index v2 records; five ZIP archives and the primary-source pointer remain `REFERENCE_DRIVE`. Later G5 additions do not imply that any series is complete unless its own reviewed scope says so.
+All roots are `PRESENT_REVIEWED` migration representations, but remain `NONAUTHORITATIVE_PRE_G8`. Completeness refers to the approved Drive-to-Git migration boundary, not to every possible future analysis for a title. Excluded and reference-only source artifacts are recorded in the provenance and exclusion controls rather than copied into these trees.

@@ -5,9 +5,9 @@ scope: E01-E24
 phase: 5
 generation: V2
 status: canonical
-source_boundary: "Chinese-original audiovisual Season 1, Episodes 1–24, prospectively frozen; canonical E24 credits-coda paratext audit included"
-supersedes: null
-superseded_by: null
+source_boundary: Chinese-original audiovisual Season 1, Episodes 1–24, prospectively frozen; canonical E24 credits-coda paratext audit included
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: 2026-08-18
 ---

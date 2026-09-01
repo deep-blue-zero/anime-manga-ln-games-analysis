@@ -1,19 +1,19 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: audit
 scope: V18
 subtype: japanese_dialogue_and_register
 status: canonical
 generation: V2
-source_boundary: "Japanese tankobon Volume 18 only; prospective observational boundary V01-V18"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 18 only; prospective observational boundary V01-V18
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 18 [Japanese].cbz"
-source_drive_id: "1MDSJPKJgj5PRuh7zREs_Wm6ILZgWbMfi"
-source_sha256: "0ec1b15a00e58647c9ed0ee8751a113f09b612132020c1cf7ae9ea7b28b720ec"
+source_file: One Punch Man - Volume 18 [Japanese].cbz
+source_drive_id: 1MDSJPKJgj5PRuh7zREs_Wm6ILZgWbMfi
+source_sha256: 0ec1b15a00e58647c9ed0ee8751a113f09b612132020c1cf7ae9ea7b28b720ec
 source_images: 202
 created: 2026-08-26
 ---

@@ -1,28 +1,30 @@
 ---
-title: "To Be Hero X V2 — V1 to V2 Revision and Confidence Audit"
+title: To Be Hero X V2 — V1 to V2 Revision and Confidence Audit
 series: TBHX
 artifact_type: claim_revision_ledger
 artifact_role: v1_to_v2_revision_ledger
-scope: "V1 full-series synthesis against Mandarin-primary V2 E01-E24"
+scope: V1 full-series synthesis against Mandarin-primary V2 E01-E24
 generation: V2
 phase: 2
 status: canonical
-source_boundary: "Historical V1 synthesis `To Be Hero X Understanding.txt`; frozen Mandarin-primary E01-E24 deep readings; stabilized Phase-2 ledgers; 145-key V2 claim register; motion audits and targeted AV evidence through TBHX-AV-E11-001"
-v1_source_file: "To Be Hero X Understanding.txt"
-v1_source_sha256: "ab35123ddeab7a222d561c438441f56fa07ea845e0c91f93ca7efcf9fc8e527a"
+source_boundary: Historical V1 synthesis `To Be Hero X Understanding.txt`; frozen Mandarin-primary E01-E24 deep readings; stabilized Phase-2 ledgers; 145-key V2 claim register; motion audits and targeted AV evidence through TBHX-AV-E11-001
+v1_source_file: To Be Hero X Understanding.txt
+v1_source_sha256: ab35123ddeab7a222d561c438441f56fa07ea845e0c91f93ca7efcf9fc8e527a
 v1_source_word_count: 4750
-pre_stabilization_ledger_sha256: "96505903db20cab646efbb3fde55c97a21af68fb41e14544fa7c0fbf3a5529f3"
-historical_import_body_sha256: "9dcac9f02b51d0d34138e5f9745f4596a8544290d44b5611bcc146a94d9d9434"
+pre_stabilization_ledger_sha256: 96505903db20cab646efbb3fde55c97a21af68fb41e14544fa7c0fbf3a5529f3
+historical_import_body_sha256: 9dcac9f02b51d0d34138e5f9745f4596a8544290d44b5611bcc146a94d9d9434
 historical_import_body_preserved: true
-current_v2_claim_authority: "CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md"
-current_v2_claim_authority_sha256_at_audit: "a4d593adf2b03f2f2fc0f7a6fccee3fd5154199570ade35fac2017c9bfa85fdb"
-transition_vocabulary: "PRESERVE | STRENGTHEN | REVISE | DOWNGRADE | REJECT | OPEN"
-supersedes: "V1_TO_V2_REVISION_LEDGER.md version 2.0 active_hypothesis_bank_through_e17"
-superseded_by: null
+current_v2_claim_authority: CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
+current_v2_claim_authority_sha256_at_audit: a4d593adf2b03f2f2fc0f7a6fccee3fd5154199570ade35fac2017c9bfa85fdb
+transition_vocabulary: PRESERVE | STRENGTHEN | REVISE | DOWNGRADE | REJECT | OPEN
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-17
 phase_2_closed: true
-next_artifact: "06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md"
+next_artifact: 06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md
+legacy_supersession_notes:
+- 'legacy supersedes: V1_TO_V2_REVISION_LEDGER.md version 2.0 active_hypothesis_bank_through_e17'
 ---
 
 # To Be Hero X V2 — V1 to V2 Revision and Confidence Audit

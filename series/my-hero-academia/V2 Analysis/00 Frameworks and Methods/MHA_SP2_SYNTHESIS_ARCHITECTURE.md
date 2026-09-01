@@ -4,9 +4,9 @@ artifact_type: synthesis_architecture
 scope: FULL_SERIES_V01-V42
 generation: V2
 status: canonical
-source_boundary: "Japanese manga Volumes 1-42; V2 sequential reread in progress"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga Volumes 1-42; V2 sequential reread in progress
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -5,23 +5,23 @@ artifact_role: DEEP_READING
 scope: S3E02
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S3E02 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S3E02 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 3
 episode: 2
-episode_title_japanese: "トマカノーテ"
-episode_title_english: "TomaKanoTe"
-episode_title_source: "retained title-card frame at approximately 00:03:38 directly displays #02 with the stylized Japanese title; the English Signs layer animates the title components Toma / Kano / Te; title used as identifying/formal evidence, not as independent semantic proof"
+episode_title_japanese: トマカノーテ
+episode_title_english: TomaKanoTe
+episode_title_source: 'retained title-card frame at approximately 00:03:38 directly displays #02 with the stylized Japanese title; the English Signs layer animates the title components Toma / Kano / Te; title used as identifying/formal evidence, not as independent semantic proof'
 artifact_id: LLS_S3E02_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01 as prior authority; corrected-Japanese governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; rival-club formation, Tomari entry, utility versus non-instrumental value, Wien singing-origin and reputation-accountability, collaborative authorship, remote-live failure, performance, relationship, voice, institution, succession, and character-model analysis"
+analysis_mode: sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01 as prior authority; corrected-Japanese governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; rival-club formation, Tomari entry, utility versus non-instrumental value, Wien singing-origin and reputation-accountability, collaborative authorship, remote-live failure, performance, relationship, voice, institution, succession, and character-model analysis
 source_bundle: LLS_s03e02_screenshots.zip
 source_drive_id: 1jpSIubvAy4HzoPRdoYGw-xrOBGNcUuy6
 source_sha256: fa246b0bb28c8c7d651902ff7ac34ae35767a54707187671305af15b45cab0c6
 source_bytes: 174251003
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S3E02 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S3E02 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON2_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
@@ -32,8 +32,8 @@ season1_frozen_checkpoint_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 season2_frozen_checkpoint: LLS_SEASON2_FROZEN_CHECKPOINT.md
 season2_frozen_checkpoint_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
 season2_checkpoint_status: frozen
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 911
 retained_frames: 846
 contact_sheets_reviewed: 47
@@ -44,7 +44,7 @@ english_spoken_derivative_events: 365
 bundled_paired_english_rows: 359
 bundled_paired_english_coverage: 0.790749
 source_video_duration_seconds: 1422.098
-audio_ffprobe_duration_seconds: 1422.120
+audio_ffprobe_duration_seconds: 1422.12
 audio_sha256: 4245a4dcfeab58d48c02087c7336b2958b99d5dc84f7cad3e6cf367aa8d05eaf
 audio_bytes: 28443233
 audio_codec: MP3
@@ -53,16 +53,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 846 retained frames, 47 contact sheets, subtitle/index copies, visual montages, transcript, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 846 retained frames, 47 contact sheets, subtitle/index copies, visual montages, transcript, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S3E03_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

@@ -5,16 +5,16 @@ scope: V10-V11
 included_supplement: V10.5
 generation: V2
 status: canonical
-source_boundary: "Japanese light novels Volumes 10, 10.5, and 11; Checkpoint C / Volume 9 supplies the frozen incoming state; no Volume 12 or later evidence admitted"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novels Volumes 10, 10.5, and 11; Checkpoint C / Volume 9 supplies the frozen incoming state; no Volume 12 or later evidence admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-checkpoint_name: "Post-Honmono Restructuring"
+created: '2026-08-15'
+checkpoint_name: Post-Honmono Restructuring
 positive_evidence_window:
-  - V10
-  - V10.5
-  - V11
+- V10
+- V10.5
+- V11
 incoming_checkpoint: OREGAIRU_V2_CHECKPOINT_C_KYOTO_ELECTION_CHRISTMAS_CRISIS.md
 next_checkpoint: OREGAIRU_V2_CHECKPOINT_E_PROM_AND_FINAL_CHOICE_MOVEMENT.md
 ---

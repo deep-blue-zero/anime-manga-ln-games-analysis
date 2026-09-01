@@ -3,38 +3,38 @@ series: IDOLY_PRIDE
 artifact_type: relationship_longitudinal_ledger
 artifact_role: LEDGER
 scope: REL_RIO_AOI
-relationship: "Kanzaki Rio / Igawa Aoi"
+relationship: Kanzaki Rio / Igawa Aoi
 relationship_codes:
-  - rio
-  - aoi
+- rio
+- aoi
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-C-RIO-AOI"
+phase: '2'
+tranche: P2-C-RIO-AOI
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 relationship reconstruction of Kanzaki Rio / Igawa Aoi across the frozen 2026-08-13 analytical snapshot. Mechanical deduplicated intersection of the frozen Rio and Aoi occurrence indexes yields 50 pair-bearing routed bundles: 19 main-story, 9 unit-origin, 9 event, 8 card, 2 message, 2 bond, and 1 specials/misc bundle. This is a breadth/contradiction frontier, not a claim that every co-bearing bundle carries relationship-state evidence. Load-bearing reconstruction directly reopens LizNoir origins 001-008, the 2024 professional-adaptation event, the 2025 creative-leadership event, Rio B2-B bond material, and the C2 historical Rio/Aoi card; later main-story material and the frozen Phase-1 audits provide continuity and contradiction checks. No post-snapshot material is admitted."
+source_boundary: 'Phase-2 relationship reconstruction of Kanzaki Rio / Igawa Aoi across the frozen 2026-08-13 analytical snapshot. Mechanical deduplicated intersection of the frozen Rio and Aoi occurrence indexes yields 50 pair-bearing routed bundles: 19 main-story, 9 unit-origin, 9 event, 8 card, 2 message, 2 bond, and 1 specials/misc bundle. This is a breadth/contradiction frontier, not a claim that every co-bearing bundle carries relationship-state evidence. Load-bearing reconstruction directly reopens LizNoir origins 001-008, the 2024 professional-adaptation event, the 2025 creative-leadership event, Rio B2-B bond material, and the C2 historical Rio/Aoi card; later main-story material and the frozen Phase-1 audits provide continuity and contradiction checks. No post-snapshot material is admitted.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_RIO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_AOI_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_RIO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_AOI_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_C_RIO_AOI_PASS
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-C — IDOLY_PRIDE_V2_REL_MIHO_YO_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-C — IDOLY_PRIDE_V2_REL_MIHO_YO_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — RIO / AOI RELATIONSHIP LONGITUDINAL LEDGER

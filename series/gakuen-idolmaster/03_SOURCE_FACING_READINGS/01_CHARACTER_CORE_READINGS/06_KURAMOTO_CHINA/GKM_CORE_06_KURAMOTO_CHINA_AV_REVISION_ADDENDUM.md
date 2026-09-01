@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: claim_revision_ledger
 scope: CHARACTER_KURAMOTO_CHINA_TEXTUAL_CORE_AV_REVISION
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 release: R1
 status: canonical
-source_boundary: "AV revision of GKM_CORE_06_KURAMOTO_CHINA.md based on the complete Phase-3 audiovisual packet"
-supersedes: null
-superseded_by: null
+source_boundary: AV revision of GKM_CORE_06_KURAMOTO_CHINA.md based on the complete Phase-3 audiovisual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-21"
-title: "GKM Core 06 — Kuramoto China AV Revision Addendum"
+last_updated: '2026-08-21'
+title: GKM Core 06 — Kuramoto China AV Revision Addendum
 ---
 
 # GKM CORE 06 — KURAMOTO CHINA AV REVISION ADDENDUM

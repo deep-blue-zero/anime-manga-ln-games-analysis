@@ -1,34 +1,34 @@
 ---
-title: "〈物語〉シリーズ V2 V13 Deep Reading — 恋物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V13"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『恋物語』, supplied archive item 13 恋物語.epub"
-supersedes: null
-superseded_by: null
+title: 〈物語〉シリーズ V2 V13 Deep Reading — 恋物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V13
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『恋物語』, supplied archive item 13 恋物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V13_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V13"
-japanese_title: "恋物語"
-archive_position: "Second Season archive spine V13"
-source_file: "13 恋物語.epub"
-source_drive_id: "1iWVKP975CHrgcF6qIER3rilq9kuNGNpy"
-source_sha256: "49b1daa6b0e5a8940157ca80ae37d0437e6a43d6edea9d405898a33044f2c3ed"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V13_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V13
+japanese_title: 恋物語
+archive_position: Second Season archive spine V13
+source_file: 13 恋物語.epub
+source_drive_id: 1iWVKP975CHrgcF6qIER3rilq9kuNGNpy
+source_sha256: 49b1daa6b0e5a8940157ca80ae37d0437e6a43d6edea9d405898a33044f2c3ed
 source_size_bytes: 542377
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text and represented December 20, 2011 print boundary; later calibre packaging is treated as file-history metadata, not authenticated original electronic-edition evidence"
-principal_story_unit: "第恋話 ひたぎエンド"
-narrator: "貝木泥舟"
-internal_story_range: "January 1 through the beginning of February; main operation spans roughly one month, with final intervention and assault occurring at the February endpoint"
-spoiler_policy: "Publication-local V13 claims are separated from retrospective V2 flags. V14 and later explanations are not imported to settle Kaiki's final condition, Ougi's identity, Gaen's intentions, or Nadeko's later career."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text and represented December 20, 2011 print boundary; later calibre packaging is treated as file-history metadata, not authenticated original electronic-edition evidence
+principal_story_unit: 第恋話 ひたぎエンド
+narrator: 貝木泥舟
+internal_story_range: January 1 through the beginning of February; main operation spans roughly one month, with final intervention and assault occurring at the February endpoint
+spoiler_policy: Publication-local V13 claims are separated from retrospective V2 flags. V14 and later explanations are not imported to settle Kaiki's final condition, Ougi's identity, Gaen's intentions, or Nadeko's later career.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # 〈物語〉シリーズ V2 — Volume 13 Deep Reading

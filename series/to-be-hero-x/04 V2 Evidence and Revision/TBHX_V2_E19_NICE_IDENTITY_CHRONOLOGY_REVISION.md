@@ -4,11 +4,11 @@ artifact_type: claim_revision
 scope: E19_Nice_identity
 generation: V2
 status: canonical
-source_boundary: "E19-local evidence plus official creator/producer chronology statements; Episode 20 evidence excluded"
-supersedes: null
-superseded_by: null
+source_boundary: E19-local evidence plus official creator/producer chronology statements; Episode 20 evidence excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 19 Nice Identity Chronology Revision"
+title: To Be Hero X V2 — Episode 19 Nice Identity Chronology Revision
 ---
 
 # To Be Hero X V2 — Episode 19 Nice Identity Chronology Revision

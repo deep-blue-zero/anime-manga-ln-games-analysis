@@ -2,19 +2,19 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: phase_checkpoint
-scope: "Phase 3 specialists 07-08 — Yang Cheng/E-Soul/Pomelo + Qīng/Lucky Cyan/Luo"
+scope: Phase 3 specialists 07-08 — Yang Cheng/E-Soul/Pomelo + Qīng/Lucky Cyan/Luo
 generation: V2
 phase: 3
 specialists:
-  - 7
-  - 8
+- 7
+- 8
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 ledgers; 145-key current claim authority; targeted AV through TBHX-AV-E11-001"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 ledgers; 145-key current claim authority; targeted AV through TBHX-AV-E11-001
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-17
-next_artifact: "09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md"
+next_artifact: 09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md
 ---
 
 # To Be Hero X V2 — Phase 3 Specialists 07–08 Checkpoint

@@ -4,9 +4,9 @@ artifact_type: locator_index
 scope: V06
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V06 locked Japanese EPUB: 『響け！ ユーフォニアムシリーズ　立華高校マーチングバンドへようこそ 後編』"
-supersedes: null
-superseded_by: null
+source_boundary: 'HIBIKE-V06 locked Japanese EPUB: 『響け！ ユーフォニアムシリーズ　立華高校マーチングバンドへようこそ 後編』'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

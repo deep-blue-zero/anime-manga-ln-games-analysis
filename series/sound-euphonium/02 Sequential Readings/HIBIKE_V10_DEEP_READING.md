@@ -4,9 +4,9 @@ artifact_type: deep_reading
 scope: V10
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V10 locked Japanese EPUB: 『響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話』"
-supersedes: null
-superseded_by: null
+source_boundary: 'HIBIKE-V10 locked Japanese EPUB: 『響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話』'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

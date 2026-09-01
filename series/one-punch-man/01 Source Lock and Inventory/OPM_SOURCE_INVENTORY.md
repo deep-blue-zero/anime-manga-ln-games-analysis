@@ -1,12 +1,12 @@
 ---
 series: OPM
 artifact_type: source_inventory
-scope: "Japanese tankobon V01-V34 plus isolated V37; official web layer status"
+scope: Japanese tankobon V01-V34 plus isolated V37; official web layer status
 generation: V2
 status: canonical
-source_boundary: "Drive primary-source corpus as inspected 2026-08-24"
-supersedes: null
-superseded_by: null
+source_boundary: Drive primary-source corpus as inspected 2026-08-24
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

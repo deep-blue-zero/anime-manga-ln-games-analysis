@@ -6,11 +6,12 @@ scale: tranche
 responsibility: prospective_claim_transition
 status: canonical
 generation: V2
-source_boundary: "Frozen E18-E23 states adjudicated against complete Episode 24 frame/text and targeted motion evidence; sponsor and merchandise promotion excluded"
-supersedes: "TBHX_V2_E18-E23_CLAIM_REVISION_LEDGER.md"
-superseded_by: null
+source_boundary: Frozen E18-E23 states adjudicated against complete Episode 24 frame/text and targeted motion evidence; sponsor and merchandise promotion excluded
+supersedes:
+- series/to-be-hero-x/04 V2 Evidence and Revision/TBHX_V2_E18-E23_CLAIM_REVISION_LEDGER.md
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — E18–E24 Claim Revision Ledger"
+title: To Be Hero X V2 — E18–E24 Claim Revision Ledger
 ---
 
 # To Be Hero X V2 — E18–E24 Claim Revision Ledger

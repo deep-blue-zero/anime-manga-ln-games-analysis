@@ -4,9 +4,9 @@ artifact_type: source_inventory
 scope: FULL_SERIES
 generation: V2
 status: active_provisional
-source_boundary: "Google Drive MHA primary-source root; main Japanese tankobon sequence V01-V42 confirmed complete, supplemental boundary not yet frozen"
-supersedes: null
-superseded_by: null
+source_boundary: Google Drive MHA primary-source root; main Japanese tankobon sequence V01-V42 confirmed complete, supplemental boundary not yet frozen
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

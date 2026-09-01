@@ -5,13 +5,13 @@ scope: V26
 subtype: japanese_dialogue_and_register
 status: canonical
 generation: V2
-source_boundary: "Japanese tankobon Volume 26"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 26
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 26 [Japanese].cbz"
-source_drive_id: "1x1Yj25v4Uiq0EJGyAiwDS1a7q7Zemf6i"
-source_sha256: "34787ee2d7ef7e43a4cf57ad169161a9f377ab7b7039b6da971fd33a4dabf2da"
+source_file: One Punch Man - Volume 26 [Japanese].cbz
+source_drive_id: 1x1Yj25v4Uiq0EJGyAiwDS1a7q7Zemf6i
+source_sha256: 34787ee2d7ef7e43a4cf57ad169161a9f377ab7b7039b6da971fd33a4dabf2da
 created: 2026-08-28
 ---
 

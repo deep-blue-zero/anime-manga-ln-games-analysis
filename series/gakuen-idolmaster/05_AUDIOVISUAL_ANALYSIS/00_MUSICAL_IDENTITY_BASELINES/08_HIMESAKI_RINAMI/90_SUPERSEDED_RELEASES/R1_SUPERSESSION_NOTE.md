@@ -2,14 +2,16 @@
 series: GKM
 artifact_type: archival_lock
 scope: CHARACTER_HIMESAKI_RINAMI_PHASE3_AV_R1_SUPERSESSION
-character: "Himesaki Rinami / 姫崎莉波"
+character: Himesaki Rinami / 姫崎莉波
 generation: V2
 status: historical_legacy
-source_boundary: "R1 release superseded by R2 after high-resolution Dear 021-037 materialization"
-supersedes: null
-superseded_by: "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R2"
+source_boundary: R1 release superseded by R2 after high-resolution Dear 021-037 materialization
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-last_updated: "2026-08-22"
+last_updated: '2026-08-22'
+legacy_supersession_notes:
+- 'legacy superseded_by: GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R2'
 ---
 
 # R1 SUPERSESSION NOTE

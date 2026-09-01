@@ -4,26 +4,28 @@ artifact_type: deep_reading
 scope: E11
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; GBC_ep11_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass"
-supersedes: "GBC_E11_DEEP_READING.md@V1 (Drive ID 13KuZpQPSTVPkehECRKGhD_zTkXh18APQ) as current E11 interpretive authority; V1 remains immutable historical provenance"
-superseded_by: null
+source_boundary: GBC-V2-SOURCE-LOCK-1.0; GBC_ep11_screenshots.zip with Japanese analysis ASS, complete synchronized episode audio, dense evidence frames/contact sheets; no supplemental full-motion clip admitted in this pass
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 source_lock: GBC-V2-SOURCE-LOCK-1.0
 primary_source_drive_id: 1LB3z1AB6FHZLDN8QglD4IilUgqCNbDQp
 v1_historical_counterpart_drive_id: 13KuZpQPSTVPkehECRKGhD_zTkXh18APQ
-prior_checkpoint: "GBC_E05-E08_CHECKPOINT.md (Drive ID 1cfRaFb17hybpEJpH5bo4UUuEeZbdBfQU; frozen)"
-prior_canonical_episode: "GBC_E10_DEEP_READING.md (Drive ID 1EfFJBtRk_ngyeT42ohhmK_iNsCprK4YY)"
+prior_checkpoint: GBC_E05-E08_CHECKPOINT.md (Drive ID 1cfRaFb17hybpEJpH5bo4UUuEeZbdBfQU; frozen)
+prior_canonical_episode: GBC_E10_DEEP_READING.md (Drive ID 1EfFJBtRk_ngyeT42ohhmK_iNsCprK4YY)
 episode_duration_seconds: 1421.005
-held_out_cp2_result: "17 CONFIRM / 3 PARTIAL / 0 CONTRADICT / 7 NON-DIAGNOSTIC"
+held_out_cp2_result: 17 CONFIRM / 3 PARTIAL / 0 CONTRADICT / 7 NON-DIAGNOSTIC
 tranche_checkpoint_required_after_this_episode: true
 evidence_modalities:
-  - japanese_ass
-  - complete_audio
-  - dense_screenshots
-  - contact_sheets
+- japanese_ass
+- complete_audio
+- dense_screenshots
+- contact_sheets
 created: 2026-08-27
 updated: 2026-08-27
 next_operation: GBC_E09-E11_CHECKPOINT.md
+legacy_supersession_notes:
+- 'legacy supersedes: GBC_E11_DEEP_READING.md@V1 (Drive ID 13KuZpQPSTVPkehECRKGhD_zTkXh18APQ) as current E11 interpretive authority; V1 remains immutable historical provenance'
 ---
 
 # Girls Band Cry E11 - V2 Deep Reading

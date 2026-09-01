@@ -1,12 +1,12 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: "Visual form, motif, and redraw state through V26"
+scope: Visual form, motif, and redraw state through V26
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon V01-V26"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon V01-V26
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-08-28

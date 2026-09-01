@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: specialist_completion_checkpoint
-scope: "Phase 4 Document 05 — public narrative, branding, celebrity, myth, and collective belief"
+scope: Phase 4 Document 05 — public narrative, branding, celebrity, myth, and collective belief
 generation: V2
 phase: 4
 specialist_number: 5
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 public-narrative and claim authorities; canonical Phase-3 Specialists 06-16; Phase-4 Documents 01-04; targeted and episode-specific audiovisual evidence where circulation, visibility, or performance sequence matters"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 public-narrative and claim authorities; canonical Phase-3 Specialists 06-16; Phase-4 Documents 01-04; targeted and episode-specific audiovisual evidence where circulation, visibility, or performance sequence matters
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: '2026-08-17'
 ---

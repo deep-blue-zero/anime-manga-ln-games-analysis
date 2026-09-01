@@ -5,9 +5,9 @@ scope: institution_war_consciousness_agency
 current_boundary: V09+SIDE_STORIES
 generation: V1
 status: canonical
-source_boundary: "Japanese manga V01-V09 MAINLINE plus V02/V04 drawn bonuses, V03 in-volume extra narrative, V05 special booklet supplemental narrative, V07 drawn bonus `だいすき`, V08 in-volume supplemental narratives `ゆらめき` / `おぼえてる`, and standalone Side Stories SS01-SS06 supplemental narrative; paratext explicitly marked where used"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga V01-V09 MAINLINE plus V02/V04 drawn bonuses, V03 in-volume extra narrative, V05 special booklet supplemental narrative, V07 drawn bonus `だいすき`, V08 in-volume supplemental narratives `ゆらめき` / `おぼえてる`, and standalone Side Stories SS01-SS06 supplemental narrative; paratext explicitly marked where used
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

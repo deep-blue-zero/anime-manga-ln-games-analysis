@@ -4,9 +4,10 @@ artifact_type: handoff
 scope: E15_to_E16
 generation: V2
 status: active_provisional
-source_boundary: "Canonical V2 state through S01E15; E15 preview excluded"
-supersedes: TBHX_V2_PHASE1_E14_HANDOFF.md
-superseded_by: null
+source_boundary: Canonical V2 state through S01E15; E15 preview excluded
+supersedes:
+- series/to-be-hero-x/01 V2 Episode Deep Readings/TBHX_V2_PHASE1_E14_HANDOFF.md
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

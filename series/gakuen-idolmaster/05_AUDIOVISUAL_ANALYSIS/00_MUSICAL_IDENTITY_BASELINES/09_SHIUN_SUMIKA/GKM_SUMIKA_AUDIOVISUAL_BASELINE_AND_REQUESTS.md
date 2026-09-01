@@ -2,14 +2,15 @@
 series: GKM
 artifact_type: audiovisual_request_register
 scope: CHARACTER_SHIUN_SUMIKA_PHASE3_AV_BASELINE
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: superseded
-source_boundary: "Historical acquisition/request design retained after completion of the bounded 22-object Phase-3 Sumika audiovisual baseline"
-supersedes: null
-superseded_by: "GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md"
+source_boundary: Historical acquisition/request design retained after completion of the bounded 22-object Phase-3 Sumika audiovisual baseline
+supersedes: []
+superseded_by:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/09_SHIUN_SUMIKA/GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md
 do_not_use_as_current_authority: true
-last_updated: "2026-08-17 — acquisition reconciled; 21 sources directly inspected; Dear 028-037 direct transfer pending"
+last_updated: 2026-08-17 — acquisition reconciled; 21 sources directly inspected; Dear 028-037 direct transfer pending
 ---
 
 # SHIUN SUMIKA — AUDIOVISUAL BASELINE AND WHOLE-VIDEO REQUEST PACKET

@@ -5,7 +5,7 @@ scope: V01-V08
 ledger_role: narrator_perspective
 generation: V1
 status: active_provisional
-source_boundary: "Japanese main-series light novels through V08 main narrative; Kazuma first-person narration"
+source_boundary: Japanese main-series light novels through V08 main narrative; Kazuma first-person narration
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

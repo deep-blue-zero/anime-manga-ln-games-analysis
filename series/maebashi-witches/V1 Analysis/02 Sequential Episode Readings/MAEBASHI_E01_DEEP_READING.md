@@ -1,16 +1,17 @@
 ---
-series: "MAEBASHI"
-artifact_type: "deep_reading"
-scope: "E01"
-generation: "V1"
-status: "canonical"
-source_boundary: "Maebashi Witches anime Episode 1; transcript-derived Japanese audiovisual bundle analysis"
+series: MAEBASHI
+artifact_type: deep_reading
+scope: E01
+generation: V1
+status: canonical
+source_boundary: Maebashi Witches anime Episode 1; transcript-derived Japanese audiovisual bundle analysis
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md"
-source_turns: [4]
-authority_note: "Preserved transcript analysis."
+source_transcript: Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md
+source_turns:
+- 4
+authority_note: Preserved transcript analysis.
 ---
 
 <!-- transcript_source_turn: 4 -->

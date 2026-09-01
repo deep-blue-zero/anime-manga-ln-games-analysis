@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_HIMESAKI_RINAMI_PHASE3_CORE
-character: "Himesaki Rinami / 姫崎莉波"
+character: Himesaki Rinami / 姫崎莉波
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0; textual Phase-3 delivery"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0; textual Phase-3 delivery
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # GKM PHASE 3 — RINAMI DELIVERY AUDIT

@@ -1,20 +1,20 @@
 ---
-title: "Solo Leveling — Series Architecture and Volume Progression"
-project: "Solo Leveling Definitive Novel–Manhwa Synthesis"
-document_id: "SL_SYNTH_01"
-version: "1.0"
+title: Solo Leveling — Series Architecture and Volume Progression
+project: Solo Leveling Definitive Novel–Manhwa Synthesis
+document_id: SL_SYNTH_01
+version: '1.0'
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
-  - "Original Korean novel"
-  - "Official English manhwa Volumes 1–15"
-governing_method: "../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md"
-paired_architecture: "../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md"
-evidence_backbone: "../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-correspondence_map: "../03 Evidence and Crosswalk/Solo_Leveling_Phase_2_Correspondence_Map.md"
-spoilers: "complete series"
+- Original Korean novel
+- Official English manhwa Volumes 1–15
+governing_method: ../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md
+paired_architecture: ../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md
+evidence_backbone: ../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+correspondence_map: ../03 Evidence and Crosswalk/Solo_Leveling_Phase_2_Correspondence_Map.md
+spoilers: complete series
 ---
 
 # Solo Leveling

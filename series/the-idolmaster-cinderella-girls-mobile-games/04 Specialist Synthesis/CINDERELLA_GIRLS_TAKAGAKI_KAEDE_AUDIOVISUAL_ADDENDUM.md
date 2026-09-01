@@ -1,24 +1,24 @@
 ---
 series: CGMG
-series_title: "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)"
+series_title: THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)
 artifact_type: audiovisual_addendum
 scope: TAKAGAKI_KAEDE
 artifact_role: AUDIOVISUAL_VALIDATION_ADDENDUM
 generation: V1_AV1
 status: active_provisional
-source_boundary: "Targeted user-supplied audiovisual preservation set for Takagaki Kaede, aligned against the existing integrated Mobage + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE evidence packet. Governing textual authority remains the primary-asset/database-backed packet. The video captures add voice-performance, expression, card-art, sprite-direction, and scene-pacing evidence. The 2015 television anime remains outside the governing boundary and is not used to revise mobile-game continuity claims here."
+source_boundary: Targeted user-supplied audiovisual preservation set for Takagaki Kaede, aligned against the existing integrated Mobage + THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE evidence packet. Governing textual authority remains the primary-asset/database-backed packet. The video captures add voice-performance, expression, card-art, sprite-direction, and scene-pacing evidence. The 2015 television anime remains outside the governing boundary and is not used to revise mobile-game continuity claims here.
 supplements:
-  - "CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md"
-  - "CINDERELLA_GIRLS_TAKAGAKI_KAEDE_MONOGRAPH_AUDIT.md"
+- CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md
+- CINDERELLA_GIRLS_TAKAGAKI_KAEDE_MONOGRAPH_AUDIT.md
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_folder_drive_id: "1DXYfp-RY9pvPS4LgT1eJ1AXryrGI_r9D"
+source_folder_drive_id: 1DXYfp-RY9pvPS4LgT1eJ1AXryrGI_r9D
 source_set_files: 7
-source_set_duration: "01:38:24.47"
-source_set_character: "高垣楓 / TAKAGAKI_KAEDE"
-acoustic_scope: "targeted qualitative validation; not a corpus-wide phonetic audit"
-visual_scope: "VN sprite direction, card illustration, scene framing, expression-state selection, and cross-scene design continuity"
+source_set_duration: '01:38:24.47'
+source_set_character: 高垣楓 / TAKAGAKI_KAEDE
+acoustic_scope: targeted qualitative validation; not a corpus-wide phonetic audit
+visual_scope: VN sprite direction, card illustration, scene framing, expression-state selection, and cross-scene design continuity
 ---
 
 # THE IDOLM@STER CINDERELLA GIRLS — Takagaki Kaede Audiovisual Addendum

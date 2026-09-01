@@ -4,9 +4,9 @@ artifact_type: analytical_method
 scope: diegetic_self_audit_test_for_fanwork_character_delta_analysis
 generation: V1
 status: active_provisional
-source_boundary: "Reusable DJFW method for high-level, non-graphic self-recognition and delta analysis after a case reading. Does not authorize explicit reenactment or erotic roleplay."
-supersedes: null
-superseded_by: null
+source_boundary: Reusable DJFW method for high-level, non-graphic self-recognition and delta analysis after a case reading. Does not authorize explicit reenactment or erotic roleplay.
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

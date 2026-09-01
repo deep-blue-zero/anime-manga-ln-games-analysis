@@ -1,70 +1,70 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "specialist_synthesis"
-document_id: "12"
-title: "Japanese Voice, Narration, Terminology, and Translation-Sensitive Findings"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: specialist_synthesis
+document_id: '12'
+title: Japanese Voice, Narration, Terminology, and Translation-Sensitive Findings
+scope: V01-V14+ALTER1
 phase: 6
-generation: "V2"
-method_version: "V2"
-status: "canonical"
-date: "2026-08-16"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-macro_orientation: "01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md"
-chronological_evidence_spine: "15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-locator_authority: "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
+generation: V2
+method_version: V2
+status: canonical
+date: '2026-08-16'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+macro_orientation: 01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md
+chronological_evidence_spine: 15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+locator_authority: 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
 primary_retrieval_dossiers:
-  - "T12_JAPANESE_VOICE_ADDRESS_TEMPORALITY_AND_KEY_TERMS_RETRIEVAL.md"
-  - "T14_CONTRADICTION_COUNTEREVIDENCE_AND_OPEN_QUESTION_RETRIEVAL.md"
+- T12_JAPANESE_VOICE_ADDRESS_TEMPORALITY_AND_KEY_TERMS_RETRIEVAL.md
+- T14_CONTRADICTION_COUNTEREVIDENCE_AND_OPEN_QUESTION_RETRIEVAL.md
 longitudinal_inputs:
-  - "L09_JAPANESE_VOICE_ADDRESS_AND_TERMINOLOGY_LEDGER.md"
-phase5_language_lock: "86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv"
-phase8_source_verification: "86_PHASE8_JAPANESE_SOURCE_VERIFICATION_AUDIT.md"
-phase8_verification_status: "verified_with_reference_correction_applied"
+- L09_JAPANESE_VOICE_ADDRESS_AND_TERMINOLOGY_LEDGER.md
+phase5_language_lock: 86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv
+phase8_source_verification: 86_PHASE8_JAPANESE_SOURCE_VERIFICATION_AUDIT.md
+phase8_verification_status: verified_with_reference_correction_applied
 phase8_source_integrity_rechecked: true
 related_specialist_documents:
-  - "02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md"
-  - "03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md"
-  - "04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md"
-  - "05_SAN_MAGNOLIA_RACISM_GENOCIDE_COMPLICITY_AND_MEMORY.md"
-  - "06_GIAD_AND_COMPARATIVE_INSTITUTIONS_CITIZENSHIP_FREEDOM_AND_PATERNALISM.md"
-  - "08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md"
-  - "09_CHILDHOOD_PRIDE_TRAUMA_GRIEF_RECOVERY_AND_ORDINARY_LIFE.md"
-  - "10_SHIN_LENA_LOVE_DEPENDENCE_HOME_AND_THE_RIGHT_TO_RETURN.md"
-  - "11_LEGION_MEMORY_IDENTITY_AND_POSTHUMAN_CONTINUITY.md"
+- 02_SHINEI_NOUZEN_DEATH_MEMORY_VIOLENCE_AND_FUTURE.md
+- 03_VLADILENA_MILIZE_COMMAND_RESPONSIBILITY_AND_POLITICAL_CONSCIENCE.md
+- 04_SPEARHEAD_RELATIONSHIPS_BELONGING_AND_THE_RIGHT_TO_CHANGE.md
+- 05_SAN_MAGNOLIA_RACISM_GENOCIDE_COMPLICITY_AND_MEMORY.md
+- 06_GIAD_AND_COMPARATIVE_INSTITUTIONS_CITIZENSHIP_FREEDOM_AND_PATERNALISM.md
+- 08_PERSONHOOD_BODY_DISABILITY_AI_AND_THE_DEAD.md
+- 09_CHILDHOOD_PRIDE_TRAUMA_GRIEF_RECOVERY_AND_ORDINARY_LIFE.md
+- 10_SHIN_LENA_LOVE_DEPENDENCE_HOME_AND_THE_RIGHT_TO_RETURN.md
+- 11_LEGION_MEMORY_IDENTITY_AND_POSTHUMAN_CONTINUITY.md
 adversarial_constraints:
-  - "T14-C01"
-  - "T14-C04"
-  - "T14-C05"
-  - "T14-C07"
-  - "T14-C11"
-  - "T14-C12"
-  - "T14-C20"
-  - "T14-C22"
-  - "T14-C24"
-  - "T14-C30"
-  - "T14-C31"
-  - "T14-C32"
-  - "T14-C37"
-  - "T14-C38"
-  - "T14-C40"
-  - "T14-C41"
+- T14-C01
+- T14-C04
+- T14-C05
+- T14-C07
+- T14-C11
+- T14-C12
+- T14-C20
+- T14-C22
+- T14-C24
+- T14-C30
+- T14-C31
+- T14-C32
+- T14-C37
+- T14-C38
+- T14-C40
+- T14-C41
 open_questions_preserved:
-  - "T14-OQ-02"
-  - "T14-OQ-12"
-  - "T14-OQ-13"
-  - "T14-OQ-14"
-  - "T14-OQ-15"
-  - "T14-OQ-19"
-  - "T14-OQ-20"
-  - "T14-OQ-29"
-  - "T14-OQ-30"
-  - "T14-OQ-32"
-supersedes: null
-superseded_by: null
+- T14-OQ-02
+- T14-OQ-12
+- T14-OQ-13
+- T14-OQ-14
+- T14-OQ-15
+- T14-OQ-19
+- T14-OQ-20
+- T14-OQ-29
+- T14-OQ-30
+- T14-OQ-32
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -4,7 +4,7 @@ artifact_type: source_inventory
 scope: FULL_SERIES_V01-V36
 generation: V2
 status: active_provisional
-source_boundary: "Complete original-Japanese manga V01-V36 present; V2 sequential lock boundary V02 complete"
+source_boundary: Complete original-Japanese manga V01-V36 present; V2 sequential lock boundary V02 complete
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

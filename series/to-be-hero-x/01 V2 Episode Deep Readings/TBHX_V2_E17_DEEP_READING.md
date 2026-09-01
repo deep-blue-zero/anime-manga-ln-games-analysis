@@ -5,21 +5,21 @@ scope: E17
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 17 analytical bundle; S01E01-S01E17 broadcast knowledge only; explicit next-episode preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 17 analytical bundle; S01E01-S01E17 broadcast knowledge only; explicit next-episode preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 17 Deep Reading"
+title: To Be Hero X V2 — Episode 17 Deep Reading
 season: 1
 episode: 17
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e17_screenshots.zip"
-source_bundle_sha256: "b380b0544214fc9c88bd5f53027e8d6e431768d1d8f5a0163ff0332f9ba36f9f"
+analysis_version: '2.0'
+source_bundle: BHX_s01e17_screenshots.zip
+source_bundle_sha256: b380b0544214fc9c88bd5f53027e8d6e431768d1d8f5a0163ff0332f9ba36f9f
 source_bundle_bytes: 275623463
 source_duration_seconds: 1517.013
-program_start_seconds: 46.750
-analysis_start_seconds: 46.500
+program_start_seconds: 46.75
+analysis_start_seconds: 46.5
 mandarin_cue_count: 274
 mandarin_ocr_mean_confidence: 0.987556
 mandarin_ocr_median_confidence: 0.998308
@@ -31,12 +31,12 @@ japanese_aligned_cue_count: 289
 contact_sheet_count: 48
 kept_screenshot_count: 958
 scene_segment_count: 22
-spoiler_boundary: "S01E01-S01E17 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
-naming_authority: "TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state"
+spoiler_boundary: S01E01-S01E17 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
+naming_authority: TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state
 ---
 
 # To Be Hero X V2 — Episode 17 Deep Reading

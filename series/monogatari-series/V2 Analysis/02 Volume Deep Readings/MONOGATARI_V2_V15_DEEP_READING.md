@@ -1,34 +1,34 @@
 ---
-title: "〈物語〉シリーズ V2 V15 Deep Reading - 暦物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V15"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『暦物語』, supplied archive item 15 暦物語.epub"
-supersedes: null
-superseded_by: null
+title: 〈物語〉シリーズ V2 V15 Deep Reading - 暦物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V15
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『暦物語』, supplied archive item 15 暦物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V15_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V15"
-japanese_title: "暦物語"
-archive_position: "Final Season archive spine V15"
-source_file: "15 暦物語.epub"
-source_drive_id: "1Axy31z5Qv5r5pVE9W7bTruzDPSG5r_fE"
-source_sha256: "b2d0d50f45ffc03f069296522f092c4a5e50890645bb091104155b6bc938b09c"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V15_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V15
+japanese_title: 暦物語
+archive_position: Final Season archive spine V15
+source_file: 15 暦物語.epub
+source_drive_id: 1Axy31z5Qv5r5pVE9W7bTruzDPSG5r_fE
+source_sha256: b2d0d50f45ffc03f069296522f092c4a5e50890645bb091104155b6bc938b09c
 source_size_bytes: 976171
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese transcription and represented May 20, 2013 first-print boundary; later calibre packaging is file-history metadata, not authenticated publisher electronic-edition evidence"
-principal_story_unit: "Twelve monthly Koyomi stories from April through March"
-narrator: "Primarily Araragi Koyomi, with embedded reports and specialist explanations"
-internal_story_range: "April 11 through March 13 of Araragi's third high-school year, distributed across twelve monthly stories"
-spoiler_policy: "Each monthly story is first reconstructed at its local historical knowledge boundary. Owarimonogatari and later explanations are not imported to resolve Kagenui's removal, the unnamed arranger, Araragi's post-Kokorowatari state, Hachikuji's return, or the final location/mechanism."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese transcription and represented May 20, 2013 first-print boundary; later calibre packaging is file-history metadata, not authenticated publisher electronic-edition evidence
+principal_story_unit: Twelve monthly Koyomi stories from April through March
+narrator: Primarily Araragi Koyomi, with embedded reports and specialist explanations
+internal_story_range: April 11 through March 13 of Araragi's third high-school year, distributed across twelve monthly stories
+spoiler_policy: Each monthly story is first reconstructed at its local historical knowledge boundary. Owarimonogatari and later explanations are not imported to resolve Kagenui's removal, the unnamed arranger, Araragi's post-Kokorowatari state, Hachikuji's return, or the final location/mechanism.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # 〈物語〉シリーズ V2 - Volume 15 Deep Reading

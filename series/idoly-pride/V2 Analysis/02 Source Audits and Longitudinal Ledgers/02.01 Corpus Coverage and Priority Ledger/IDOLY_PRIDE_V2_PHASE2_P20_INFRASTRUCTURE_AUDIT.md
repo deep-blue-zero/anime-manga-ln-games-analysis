@@ -4,23 +4,23 @@ artifact_type: infrastructure_audit
 artifact_role: AUDIT
 scope: PHASE2_P2_0
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
+phase: '2'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-1 final baseline + frozen Phase-2 queue + governing framework set + exact telephone/missing-asset reports. P2-0 creates operational/freshness infrastructure only; it admits no new literary source claims."
+source_boundary: Phase-1 final baseline + frozen Phase-2 queue + governing framework set + exact telephone/missing-asset reports. P2-0 creates operational/freshness infrastructure only; it admits no new literary source claims.
 inherits: IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
 execution_queue: IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_0_INFRASTRUCTURE_PASS
 p2_0_complete: true
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "P2-A1 — IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: P2-A1 — IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 2 P2-0 LEDGER / FRESHNESS INFRASTRUCTURE AUDIT

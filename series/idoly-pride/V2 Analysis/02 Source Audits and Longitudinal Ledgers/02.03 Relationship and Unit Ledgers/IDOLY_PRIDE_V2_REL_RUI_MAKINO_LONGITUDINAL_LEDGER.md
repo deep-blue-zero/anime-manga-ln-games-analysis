@@ -3,43 +3,44 @@ series: IDOLY_PRIDE
 artifact_type: relationship_longitudinal_ledger
 artifact_role: LEDGER
 scope: REL_RUI_MAKINO
-relationship: "Tendo Rui / Makino Kouhei"
-relationship_japanese: "天動瑠依 / 牧野航平"
+relationship: Tendo Rui / Makino Kouhei
+relationship_japanese: 天動瑠依 / 牧野航平
 relationship_codes:
-  - rui
-  - koh
+- rui
+- koh
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-C-RUI-MAKINO"
+phase: '2'
+tranche: P2-C-RUI-MAKINO
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 Rui/Makino relationship reconstruction across the frozen 2026-08-13 analytical snapshot. Exact intersection of the canonical rui and koh occurrence indexes yields 68 fixed-speaker-code pair-bearing routed bundles: 33 main-story, 19 card, 11 event, 4 unit-origin, and 1 specials/misc bundle. This is a breadth/contradiction frontier, not a claim that all 68 contain substantive dyadic development. Because Manager(player) interaction is not universally indexed under koh, claim-specific manager-interface evidence extends beyond that mechanical frontier, most importantly bond_rui_001_rui and message-card-rui-05-fest-04. Load-bearing reconstruction directly reopens the 2022 date card, 2023 Valentine card, Rui bond evidence, the 2025 fest-03 card, the 2026 fest-04 card and companion message, the fixed hoshimi_005 professional-boundary scene, the Makino branch-canon ledger, and the formal-dependency ledger. tel-card-rui-05-fest-04 remains PHONE-GAP / LOAD_BEARING_FORMAL_CLAIM_BLOCKED and may not be reconstructed. No post-snapshot source is admitted."
+source_boundary: 'Phase-2 Rui/Makino relationship reconstruction across the frozen 2026-08-13 analytical snapshot. Exact intersection of the canonical rui and koh occurrence indexes yields 68 fixed-speaker-code pair-bearing routed bundles: 33 main-story, 19 card, 11 event, 4 unit-origin, and 1 specials/misc bundle. This is a breadth/contradiction frontier, not a claim that all 68 contain substantive dyadic development. Because Manager(player) interaction is not universally indexed under koh, claim-specific manager-interface evidence extends beyond that mechanical frontier, most importantly bond_rui_001_rui and message-card-rui-05-fest-04. Load-bearing reconstruction directly reopens the 2022 date card, 2023 Valentine card, Rui bond evidence, the 2025 fest-03 card, the 2026 fest-04 card and companion message, the fixed hoshimi_005 professional-boundary scene, the Makino branch-canon ledger, and the formal-dependency ledger. tel-card-rui-05-fest-04 remains PHONE-GAP / LOAD_BEARING_FORMAL_CLAIM_BLOCKED
+  and may not be reconstructed. No post-snapshot source is admitted.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE1_CARD_C1B_PRIMARY_FINDINGS_FREEZE.md
-  - IDOLY_PRIDE_V2_PHASE1_CARD_C1B_CLOSE_READ_AUDIT.md
-  - IDOLY_PRIDE_V2_CHAR_RUI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_MAKINO_PLAYER_BRANCH_CANON_LEDGER.md
-  - IDOLY_PRIDE_V2_FORMAL_DEPENDENCY_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_MANA_MAKINO_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE1_CARD_C1B_PRIMARY_FINDINGS_FREEZE.md
+- IDOLY_PRIDE_V2_PHASE1_CARD_C1B_CLOSE_READ_AUDIT.md
+- IDOLY_PRIDE_V2_CHAR_RUI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_MAKINO_PLAYER_BRANCH_CANON_LEDGER.md
+- IDOLY_PRIDE_V2_FORMAL_DEPENDENCY_LEDGER.md
+- IDOLY_PRIDE_V2_REL_MANA_MAKINO_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_C_RUI_MAKINO_PASS
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-D — SUNNY PEACE unit longitudinal ledger"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-D — SUNNY PEACE unit longitudinal ledger
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — RUI / MAKINO RELATIONSHIP LONGITUDINAL LEDGER

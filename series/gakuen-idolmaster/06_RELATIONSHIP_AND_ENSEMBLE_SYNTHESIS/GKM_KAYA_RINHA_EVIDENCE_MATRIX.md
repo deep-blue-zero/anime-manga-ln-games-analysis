@@ -5,17 +5,17 @@ analytical_role: distributed_character_claim_adjudication
 scope: KAYA_RINHA
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — corrected Kaya Rinha crosswalk of 118 deduplicated canonical source objects / 6,709 containing messages; 43 objects contain 621 logical Rinha dialogue messages after tagged-speaker parser correction; prior Phase-6 Systems I and side-character synthesis used only as claims-to-audit, not substitutes for primary evidence"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
-source_commit: "00d150a069a3ffa723a1ff264752ba242024caad"
+source_boundary: GAKUMAS V2 Source Lock 1.0 — corrected Kaya Rinha crosswalk of 118 deduplicated canonical source objects / 6,709 containing messages; 43 objects contain 621 logical Rinha dialogue messages after tagged-speaker parser correction; prior Phase-6 Systems I and side-character synthesis used only as claims-to-audit, not substitutes for primary evidence
+source_lock: GAKUMAS V2 Source Lock 1.0
+source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
-governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2"
-governing_architecture: "GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4"
-governing_continuity: "GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1"
-governing_crosswalk: "GKM_KAYA_RINHA_SOURCE_CROSSWALK.md — Drive 16LQV0l604NU3E6-c5qusD7sy66xzu99a"
-created: "2026-08-24"
-supersedes: null
-superseded_by: null
+governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
+governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
+governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
+governing_crosswalk: GKM_KAYA_RINHA_SOURCE_CROSSWALK.md — Drive 16LQV0l604NU3E6-c5qusD7sy66xzu99a
+created: '2026-08-24'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 # GKM KAYA RINHA EVIDENCE MATRIX

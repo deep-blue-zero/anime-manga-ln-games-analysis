@@ -2,14 +2,14 @@
 series: GKM
 generation: V2
 status: canonical
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 artifact_type: completion_report
 scope: CHARACTER_JUO_SENA_PHASE3_AV
-character: "Juo Sena / 十王星南"
-source_boundary: "30 staged Sena objects plus 3 reused comparative objects; Dear 001-027 complete"
+character: Juo Sena / 十王星南
+source_boundary: 30 staged Sena objects plus 3 reused comparative objects; Dear 001-027 complete
 ---
 
 # PHASE 3 — JUO SENA AUDIOVISUAL COMPLETION REPORT

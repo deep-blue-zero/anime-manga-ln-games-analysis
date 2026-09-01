@@ -4,12 +4,12 @@ artifact_type: audit
 scope: ST_LOUIS_10213_JP_AUDIO_RECONCILIATION
 generation: V1
 status: canonical
-source_boundary: "JP client AZL 9.3.386 / CV 1243; St. Louis group 10213; source bundles and extracted ship_skin_words voice records"
-source_build_id: "AZL-2026-08-22-4cca5c24-cc8e9fdf"
+source_boundary: JP client AZL 9.3.386 / CV 1243; St. Louis group 10213; source bundles and extracted ship_skin_words voice records
+source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
 performed_locale: JP
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

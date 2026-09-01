@@ -1,36 +1,36 @@
 ---
-title: "OREGAIRU V2 Volume 10 Deep Reading"
-series: "やはり俺の青春ラブコメはまちがっている。"
-series_id: "OREGAIRU"
-artifact_type: "deep_reading"
-scope: "V10"
-generation: "V2"
-volume: "10"
-phase: "Phase 2 — Sequential Canonical Reread"
-status: "canonical"
+title: OREGAIRU V2 Volume 10 Deep Reading
+series: やはり俺の青春ラブコメはまちがっている。
+series_id: OREGAIRU
+artifact_type: deep_reading
+scope: V10
+generation: V2
+volume: '10'
+phase: Phase 2 — Sequential Canonical Reread
+status: canonical
 do_not_use_as_current_authority: false
-primary_language: "ja"
-primary_text: "Oregairu - Volume 10 [Japanese].epub"
-fixed_page_witness: "(一般小説) やはり俺の青春ラブコメはまちがっている。第10巻.pdf"
-source_boundary: "Japanese light novel Volume 10"
-publication_boundary: "through Volume 10 only for prospective claims"
-retrospective_scope: "full-series hindsight permitted only in explicitly labeled retrospective sections"
-checkpoint_baseline: "OREGAIRU_V2_CHECKPOINT_C_KYOTO_ELECTION_CHRISTMAS_CRISIS.md"
-supersedes: null
-superseded_by: null
-source_epub_drive_id: "1mQn3xHxkWrpl8DC1O46xutOIy2GJW5Bq"
-source_epub_sha256: "08c8bb6de45f8e6ab5cd2382ff947726ffd6bdea91aadaaf9178140813127879"
+primary_language: ja
+primary_text: Oregairu - Volume 10 [Japanese].epub
+fixed_page_witness: (一般小説) やはり俺の青春ラブコメはまちがっている。第10巻.pdf
+source_boundary: Japanese light novel Volume 10
+publication_boundary: through Volume 10 only for prospective claims
+retrospective_scope: full-series hindsight permitted only in explicitly labeled retrospective sections
+checkpoint_baseline: OREGAIRU_V2_CHECKPOINT_C_KYOTO_ELECTION_CHRISTMAS_CRISIS.md
+supersedes: []
+superseded_by: []
+source_epub_drive_id: 1mQn3xHxkWrpl8DC1O46xutOIy2GJW5Bq
+source_epub_sha256: 08c8bb6de45f8e6ab5cd2382ff947726ffd6bdea91aadaaf9178140813127879
 source_epub_bytes: 1419329
-source_pdf_drive_id: "174BtBKPM9v2wdgVCXBQ4mCog9DjnDayg"
-source_pdf_sha256: "b4846032c97515198b2c6eaf9e1a6a91086080dd33c439a99434fe77bbc76a9d"
+source_pdf_drive_id: 174BtBKPM9v2wdgVCXBQ4mCog9DjnDayg
+source_pdf_sha256: b4846032c97515198b2c6eaf9e1a6a91086080dd33c439a99434fe77bbc76a9d
 source_pdf_bytes: 55812039
 source_pdf_pages: 344
-print_first_edition: "2014-11-23"
-epub_metadata_date: "2014-11-22"
-epub_electronic_edition: "2014-11-28"
-analytical_method: "OREGAIRU_V2_ANALYTICAL_METHOD.md"
-architecture: "OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md"
-created: "2026-08-15"
+print_first_edition: '2014-11-23'
+epub_metadata_date: '2014-11-22'
+epub_electronic_edition: '2014-11-28'
+analytical_method: OREGAIRU_V2_ANALYTICAL_METHOD.md
+architecture: OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+created: '2026-08-15'
 ---
 
 # OREGAIRU V2 — Volume 10 Deep Reading

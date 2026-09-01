@@ -3,15 +3,15 @@ series: OREGAIRU
 artifact_type: specialist_synthesis
 scope: V01-V14.5_PLUS_SUPPLEMENTARY
 canonical_scope: V01-V14.5
-supplementary_scope: "Commercial .5 volumes, chronology-routed Watari-authored drama/prose material, official novel anthologies 1-4 under story-level authority audit, and ordinary-life paratext already admitted by the V2 corpus"
+supplementary_scope: Commercial .5 volumes, chronology-routed Watari-authored drama/prose material, official novel anthologies 1-4 under story-level authority audit, and ordinary-life paratext already admitted by the V2 corpus
 generation: V2
 status: canonical
 phase: 5
 document_number: 12
 canonical_name: 12_SUPPLEMENTARY_VOLUMES_DRAMA_CDS_AND_ORDINARY_LIFE.md
-source_boundary: "Japanese-primary Oregairu mainline Volumes 1-14 plus commercial 6.5, 7.5, 10.5, 14.5; Watari-authored Volume-6.5 Christmas drama/prose coda routed to post-Volume-9 chronology; official Anthologies 1-4 audited story by story with guest-author material held below Watari-mainline authority; Anthology 02 OCR used only as a discovery layer unless checked against embedded scan pages; Ketsu, Shin, Another, adaptation-only material, and unavailable original 6.25/6.50/6.75 booklets do not govern this synthesis"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-primary Oregairu mainline Volumes 1-14 plus commercial 6.5, 7.5, 10.5, 14.5; Watari-authored Volume-6.5 Christmas drama/prose coda routed to post-Volume-9 chronology; official Anthologies 1-4 audited story by story with guest-author material held below Watari-mainline authority; Anthology 02 OCR used only as a discovery layer unless checked against embedded scan pages; Ketsu, Shin, Another, adaptation-only material, and unavailable original 6.25/6.50/6.75 booklets do not govern this synthesis
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: OREGAIRU_V2_ANALYTICAL_METHOD.md
 governing_architecture: OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
@@ -23,10 +23,10 @@ autonomy_spine: OREGAIRU_V2_DEPENDENCY_AUTONOMY_LEDGER.md
 performance_spine: OREGAIRU_V2_SOCIAL_ROLE_PERFORMANCE_LEDGER.md
 voice_spine: OREGAIRU_V2_JAPANESE_VOICE_LEDGER.md
 locator_spine: OREGAIRU_V2_PRIMARY_SOURCE_LOCATOR_LEDGER.md
-source_manifest: "Oregairu - Collection Manifest.txt"
+source_manifest: Oregairu - Collection Manifest.txt
 anthology_02_source_audit: OREGAIRU_ANTHOLOGY_02_OCR_SOURCE_ADMISSION.md
-created: "2026-08-18"
-next_phase: "Phase 6 — Adversarial Japanese-source audit"
+created: '2026-08-18'
+next_phase: Phase 6 — Adversarial Japanese-source audit
 next_architecture_defined_numbered_artifact: 13_EVIDENCE_LOCATOR_AND_FIRST_PASS_REVISION_LEDGER.md
 ---
 

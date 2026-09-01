@@ -1,13 +1,13 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: deep_reading
-scope: "S2E06_AUDIO_REVISIT"
+scope: S2E06_AUDIO_REVISIT
 generation: V1
 status: historical_legacy
-source_boundary: "Targeted complete-audio + original Japanese-subtitle analysis bundle, with frame/contact-sheet support as described in the transcript"
-supersedes: null
-superseded_by: null
+source_boundary: Targeted complete-audio + original Japanese-subtitle analysis bundle, with frame/contact-sheet support as described in the transcript
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 provenance_turn: 92
 extracted: 2026-08-22

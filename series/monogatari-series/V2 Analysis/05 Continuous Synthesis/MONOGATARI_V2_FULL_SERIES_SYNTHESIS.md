@@ -4,18 +4,18 @@ artifact_type: full_series_synthesis
 scope: V01-V30_PLUS_CONTROLLED_SUPPLEMENTARY_CORPUS
 generation: V2
 status: canonical
-source_boundary: "Locked original-Japanese numbered corpus V01-V30; 佰物語 admitted as SUP-C; 短物語 admitted as SUP-A; GUIDE-001-005 retained only as dual textual witnesses"
+source_boundary: Locked original-Japanese numbered corpus V01-V30; 佰物語 admitted as SUP-C; 短物語 admitted as SUP-A; GUIDE-001-005 retained only as dual textual witnesses
 governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
 governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-specialist_basis: "Canonical Documents 01-20"
+specialist_basis: Canonical Documents 01-20
 evidence_router: 21_VOLUME_AND_ARC_EVIDENCE_LEDGER.md
-longitudinal_boundary: "L01-L09 v1.31-mijikanamonogatari / C764"
-source_inventory: "SOURCE_INVENTORY.md v1.33-mijikanamonogatari-deep-reading"
-phase: "Phase 7 continuous full-series synthesis"
-target_range: "35000-55000 words"
+longitudinal_boundary: L01-L09 v1.31-mijikanamonogatari / C764
+source_inventory: SOURCE_INVENTORY.md v1.33-mijikanamonogatari-deep-reading
+phase: Phase 7 continuous full-series synthesis
+target_range: 35000-55000 words
 next_artifact: 22_ODDITY_CASE_INDEX.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

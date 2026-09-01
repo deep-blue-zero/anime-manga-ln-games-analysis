@@ -1,37 +1,37 @@
 ---
-title: "〈物語〉シリーズ V2 V09 Deep Reading — 傾物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V09"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『傾物語』, supplied archive item 09 傾物語.epub"
-supersedes: null
-superseded_by: null
+title: 〈物語〉シリーズ V2 V09 Deep Reading — 傾物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V09
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『傾物語』, supplied archive item 09 傾物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V09_DEEP_READING"
-version: "1.0"
-date: "2026-08-15"
-volume_code: "V09"
-japanese_title: "傾物語"
-archive_position: "Second Season archive spine V09"
-source_file: "09 傾物語.epub"
-source_drive_id: "1riIiHU8Vz3eimHZ51Lc4TIUJ00xoIcyw"
-source_sha256: "6fd3d167ce865f1ee97812246bdfa0c366a762ec9272987b927fdbb21aa7670a"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V09_DEEP_READING
+version: '1.0'
+date: '2026-08-15'
+volume_code: V09
+japanese_title: 傾物語
+archive_position: Second Season archive spine V09
+source_file: 09 傾物語.epub
+source_drive_id: 1riIiHU8Vz3eimHZ51Lc4TIUJ00xoIcyw
+source_sha256: 6fd3d167ce865f1ee97812246bdfa0c366a762ec9272987b927fdbb21aa7670a
 source_size_bytes: 8069958
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text; later calibre packaging and explicit 2011 input/proofreading markers mean official digital-edition lineage/date is not asserted"
-principal_story_unit: "第閑話 まよいキョンシー"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text; later calibre packaging and explicit 2011 input/proofreading markers mean official digital-edition lineage/date is not asserted
+principal_story_unit: 第閑話 まよいキョンシー
 narrators:
-  - "阿良々木暦"
+- 阿良々木暦
 embedded_major_voice:
-  - "忍野メメ（書簡）"
-internal_story_range: "August 20–21 main-route departure/return frame; route transfer to May 13–14 eleven years earlier; Route X apocalypse approximately two months after June 14; several Route X days through August 26"
-spoiler_policy: "Publication-local reading is separated from retrospective V2 interpretation; later-series knowledge is quarantined to retrospective sections."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+- 忍野メメ（書簡）
+internal_story_range: August 20–21 main-route departure/return frame; route transfer to May 13–14 eleven years earlier; Route X apocalypse approximately two months after June 14; several Route X days through August 26
+spoiler_policy: Publication-local reading is separated from retrospective V2 interpretation; later-series knowledge is quarantined to retrospective sections.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # 〈物語〉シリーズ V2 — Volume 09 Deep Reading

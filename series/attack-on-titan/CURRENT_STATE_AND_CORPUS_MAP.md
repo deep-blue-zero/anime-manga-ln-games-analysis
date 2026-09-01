@@ -4,65 +4,65 @@ artifact_type: corpus_map
 scope: V01-V34
 status: canonical
 generation: V2
-source_boundary: "Complete Japanese manga tankobon Volumes 1-34; sequential V2 deep-reading source boundary complete"
-supersedes: null
-superseded_by: null
+source_boundary: Complete Japanese manga tankobon Volumes 1-34; sequential V2 deep-reading source boundary complete
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-canonical_analysis_root_id: "11WUD9OBr_dvnTcA6_Wp9eQ9OicOXf3pX"
-canonical_source_root_id: "1XhoKiRplmjvKNrLxdGKupngR_ILWxIKi"
+canonical_analysis_root_id: 11WUD9OBr_dvnTcA6_Wp9eQ9OicOXf3pX
+canonical_source_root_id: 1XhoKiRplmjvKNrLxdGKupngR_ILWxIKi
 architecture_lifecycle: STABILIZED
-synthesis_architecture_version: "1.2"
-reasoning_policy: "MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md v1.0"
-claim_revision_ledger: "AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md v1.0"
-claim_revision_ledger_drive_id: "12-KOJovY4bk5HtviHIvXrv51IvU73-e9"
+synthesis_architecture_version: '1.2'
+reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md v1.0
+claim_revision_ledger: AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md v1.0
+claim_revision_ledger_drive_id: 12-KOJovY4bk5HtviHIvXrv51IvU73-e9
 claim_revision_status: canonical
-claim_revision_completed: "2026-08-27"
-evidence_matrix: "AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md v1.0"
-evidence_matrix_drive_id: "1Jl1upgFOYyPPhK0eqJkJxV8kDiS48ioG"
+claim_revision_completed: '2026-08-27'
+evidence_matrix: AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md v1.0
+evidence_matrix_drive_id: 1Jl1upgFOYyPPhK0eqJkJxV8kDiS48ioG
 evidence_matrix_status: canonical
-evidence_matrix_completed: "2026-08-27"
-primary_source_locator_index: "AOT_PRIMARY_SOURCE_LOCATOR_INDEX_V01-V34.tsv v1.0"
-primary_source_locator_index_drive_id: "1cp9iFO8Xz0yx7fSe7F89HgmB7G014vlt"
+evidence_matrix_completed: '2026-08-27'
+primary_source_locator_index: AOT_PRIMARY_SOURCE_LOCATOR_INDEX_V01-V34.tsv v1.0
+primary_source_locator_index_drive_id: 1cp9iFO8Xz0yx7fSe7F89HgmB7G014vlt
 primary_source_locator_index_status: canonical
-primary_source_locator_index_completed: "2026-08-28"
-japanese_passage_index: "AOT_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md v1.0"
-japanese_passage_index_drive_id: "1QtdYKIs0Lq6ph91GMageDGEcjSbdfG76"
+primary_source_locator_index_completed: '2026-08-28'
+japanese_passage_index: AOT_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md v1.0
+japanese_passage_index_drive_id: 1QtdYKIs0Lq6ph91GMageDGEcjSbdfG76
 japanese_passage_index_status: canonical
-japanese_passage_index_completed: "2026-08-28"
-macroarchitecture_synthesis: "AOT_01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md v1.0"
-macroarchitecture_synthesis_drive_id: "1YovUppEQyirt_T6BNKf9wNyT2KrL7Wxr"
+japanese_passage_index_completed: '2026-08-28'
+macroarchitecture_synthesis: AOT_01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md v1.0
+macroarchitecture_synthesis_drive_id: 1YovUppEQyirt_T6BNKf9wNyT2KrL7Wxr
 macroarchitecture_synthesis_status: canonical
-macroarchitecture_synthesis_completed: "2026-08-28"
-eren_specialist_synthesis: "AOT_02_EREN_JAEGER_FREEDOM_DESIRE_CAUSALITY_AND_RESPONSIBILITY.md v1.0"
-eren_specialist_synthesis_drive_id: "1KWWDym2gra-ryYdIj3Ao_8KPfSFwDTpe"
+macroarchitecture_synthesis_completed: '2026-08-28'
+eren_specialist_synthesis: AOT_02_EREN_JAEGER_FREEDOM_DESIRE_CAUSALITY_AND_RESPONSIBILITY.md v1.0
+eren_specialist_synthesis_drive_id: 1KWWDym2gra-ryYdIj3Ao_8KPfSFwDTpe
 eren_specialist_synthesis_status: canonical
-eren_specialist_synthesis_completed: "2026-08-28"
-mikasa_specialist_synthesis: "AOT_03_MIKASA_ACKERMAN_LOVE_AGENCY_HOME_AND_MEMORY.md v1.0"
-mikasa_specialist_synthesis_drive_id: "1H6AbsErNcU6f8saG9HzqwQNAJ8pHRvme"
+eren_specialist_synthesis_completed: '2026-08-28'
+mikasa_specialist_synthesis: AOT_03_MIKASA_ACKERMAN_LOVE_AGENCY_HOME_AND_MEMORY.md v1.0
+mikasa_specialist_synthesis_drive_id: 1H6AbsErNcU6f8saG9HzqwQNAJ8pHRvme
 mikasa_specialist_synthesis_status: canonical
-mikasa_specialist_synthesis_completed: "2026-08-28"
-armin_specialist_synthesis: "AOT_04_ARMIN_ARLERT_KNOWLEDGE_IMAGINATION_DIALOGUE_AND_RESPONSIBILITY.md v1.0"
-armin_specialist_synthesis_drive_id: "1i_34n7-Q5jpro5TN5lClcRGHLWTS_47X"
+mikasa_specialist_synthesis_completed: '2026-08-28'
+armin_specialist_synthesis: AOT_04_ARMIN_ARLERT_KNOWLEDGE_IMAGINATION_DIALOGUE_AND_RESPONSIBILITY.md v1.0
+armin_specialist_synthesis_drive_id: 1i_34n7-Q5jpro5TN5lClcRGHLWTS_47X
 armin_specialist_synthesis_status: canonical
-armin_specialist_synthesis_completed: "2026-08-28"
-reiner_specialist_synthesis: "AOT_05_REINER_BRAUN_ROLE_IDENTITY_GUILT_RECOGNITION_AND_SURVIVAL.md v1.0"
-reiner_specialist_synthesis_drive_id: "1ytj74Sq7L8KCuPh34HA7P15RJZZZ77SY"
+armin_specialist_synthesis_completed: '2026-08-28'
+reiner_specialist_synthesis: AOT_05_REINER_BRAUN_ROLE_IDENTITY_GUILT_RECOGNITION_AND_SURVIVAL.md v1.0
+reiner_specialist_synthesis_drive_id: 1ytj74Sq7L8KCuPh34HA7P15RJZZZ77SY
 reiner_specialist_synthesis_status: canonical
-reiner_specialist_synthesis_completed: "2026-08-28"
-zeke_specialist_synthesis: "AOT_06_ZEKE_JAEGER_FAMILY_SALVATION_ANTINATALISM_AND_INSTRUMENTAL_REASON.md v1.0"
-zeke_specialist_synthesis_drive_id: "1jNUucfK17p8xvnTqSIVYb8Q4yDf32ng4"
+reiner_specialist_synthesis_completed: '2026-08-28'
+zeke_specialist_synthesis: AOT_06_ZEKE_JAEGER_FAMILY_SALVATION_ANTINATALISM_AND_INSTRUMENTAL_REASON.md v1.0
+zeke_specialist_synthesis_drive_id: 1jNUucfK17p8xvnTqSIVYb8Q4yDf32ng4
 zeke_specialist_synthesis_status: canonical
-zeke_specialist_synthesis_completed: "2026-08-28"
-historia_ymir_specialist_synthesis: "AOT_07_HISTORIA_YMIR_IDENTITY_SOVEREIGNTY_AND_CHOSEN_OBLIGATION.md v1.0"
-historia_ymir_specialist_synthesis_drive_id: "1k0tD4udBXL5KABGELm1_cNSDhHqBZNjJ"
+zeke_specialist_synthesis_completed: '2026-08-28'
+historia_ymir_specialist_synthesis: AOT_07_HISTORIA_YMIR_IDENTITY_SOVEREIGNTY_AND_CHOSEN_OBLIGATION.md v1.0
+historia_ymir_specialist_synthesis_drive_id: 1k0tD4udBXL5KABGELm1_cNSDhHqBZNjJ
 historia_ymir_specialist_synthesis_status: canonical
-historia_ymir_specialist_synthesis_completed: "2026-08-28"
-levi_erwin_hange_specialist_synthesis: "AOT_08_LEVI_ERWIN_HANGE_COMMAND_SACRIFICE_AND_SUCCESSION.md v1.0"
-levi_erwin_hange_specialist_synthesis_drive_id: "144uFz47CMGeAre8Sfd37oZugVVy55Im5"
+historia_ymir_specialist_synthesis_completed: '2026-08-28'
+levi_erwin_hange_specialist_synthesis: AOT_08_LEVI_ERWIN_HANGE_COMMAND_SACRIFICE_AND_SUCCESSION.md v1.0
+levi_erwin_hange_specialist_synthesis_drive_id: 144uFz47CMGeAre8Sfd37oZugVVy55Im5
 levi_erwin_hange_specialist_synthesis_status: canonical
-levi_erwin_hange_specialist_synthesis_completed: "2026-08-28"
+levi_erwin_hange_specialist_synthesis_completed: '2026-08-28'
 next_operation: AOT_09_104TH_WARRIORS_AND_GENERATIONAL_ENSEMBLE_BELONGING_BETRAYAL_AND_REPAIR.md
-last_updated: "2026-08-28"
+last_updated: '2026-08-28'
 ---
 
 # Attack on Titan — Current State and Corpus Map

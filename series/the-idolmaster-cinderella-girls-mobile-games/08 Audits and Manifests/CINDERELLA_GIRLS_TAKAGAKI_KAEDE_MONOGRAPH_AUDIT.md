@@ -1,14 +1,14 @@
 ---
 series: CGMG
-series_title: "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)"
+series_title: THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)
 artifact_type: audit
 scope: TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH_V1
 generation: V1
 status: canonical
-source_boundary: "Audit of CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md against the integrated Takagaki Kaede Mobage + Deresute evidence packet. Deresute is complete against the released categorized textual inventory; Mobage remains structurally incomplete; audio acquisition is representative only. The 2015 television anime is excluded."
+source_boundary: Audit of CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md against the integrated Takagaki Kaede Mobage + Deresute evidence packet. Deresute is complete against the released categorized textual inventory; Mobage remains structurally incomplete; audio acquisition is representative only. The 2015 television anime is excluded.
 audits:
-  - "CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md"
-source_packet: "CINDERELLA_GIRLS_TAKAGAKI_KAEDE"
+- CINDERELLA_GIRLS_TAKAGAKI_KAEDE_CHARACTER_MONOGRAPH.md
+source_packet: CINDERELLA_GIRLS_TAKAGAKI_KAEDE
 source_packet_snapshot:
   candidate_source_objects: 456
   target_confirmed_source_objects: 363
@@ -19,13 +19,13 @@ source_packet_snapshot:
   mobage_text_completeness: STRUCTURALLY_INCOMPLETE
   audio_completeness: REPRESENTATIVE_ONLY
 disposition_vocabulary:
-  - PRESERVE
-  - STRENGTHEN
-  - REVISE
-  - DOWNGRADE
-  - REJECT
-  - OPEN
-overall_disposition: "PRESERVE_WITH_TARGETED_REVISIONS"
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+overall_disposition: PRESERVE_WITH_TARGETED_REVISIONS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

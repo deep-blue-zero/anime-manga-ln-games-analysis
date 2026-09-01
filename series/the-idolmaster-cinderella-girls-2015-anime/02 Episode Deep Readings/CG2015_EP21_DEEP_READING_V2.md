@@ -357,7 +357,7 @@ The Episode-21 source is locked to:
 
 The internal batch metadata identifies:
 
-`H:\Anime Media Extraction\Anime\THE_IDOLM@STER_CINDERELLA_GIRLS\...`
+`REFERENCE_DRIVE (local extraction path withheld)`
 
 No Episode-22 or later semantic material is used.
 

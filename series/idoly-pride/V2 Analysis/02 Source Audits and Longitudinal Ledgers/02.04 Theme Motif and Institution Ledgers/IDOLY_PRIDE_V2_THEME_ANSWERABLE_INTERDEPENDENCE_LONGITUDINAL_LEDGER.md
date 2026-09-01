@@ -3,39 +3,39 @@ series: IDOLY_PRIDE
 artifact_type: theme_longitudinal_ledger
 artifact_role: LEDGER
 scope: THEME_ANSWERABLE_INTERDEPENDENCE
-theme: "Answerable interdependence / reciprocal standing / constitutional authority"
+theme: Answerable interdependence / reciprocal standing / constitutional authority
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-E-01"
+phase: '2'
+tranche: P2-E-01
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 cross-unit thematic reconstruction of answerable interdependence, reciprocal standing, and constitutional authority across the frozen 2026-08-13 analytical snapshot. This ledger inherits the completed Phase-1 final baseline and completed P2-A/P2-B/P2-C/P2-D ledgers; it does not reopen every routed bundle indiscriminately. Load-bearing propositions descend through current character, relationship, and unit ledgers to exact source-bundle locators. P2-D is closed before this ledger: the optional Hoshimi Productions institutional/ensemble ledger is not created because Hoshimi-level material lacks a distinct unit-constitution responsibility not already owned by Makino, the five unit ledgers, relationship ledgers, or the P2-E institution/theme family."
+source_boundary: 'Phase-2 cross-unit thematic reconstruction of answerable interdependence, reciprocal standing, and constitutional authority across the frozen 2026-08-13 analytical snapshot. This ledger inherits the completed Phase-1 final baseline and completed P2-A/P2-B/P2-C/P2-D ledgers; it does not reopen every routed bundle indiscriminately. Load-bearing propositions descend through current character, relationship, and unit ledgers to exact source-bundle locators. P2-D is closed before this ledger: the optional Hoshimi Productions institutional/ensemble ledger is not created because Hoshimi-level material lacks a distinct unit-constitution responsibility not already owned by Makino, the five unit ledgers, relationship ledgers, or the P2-E institution/theme family.'
 inherits:
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_KOTONO_NAGISA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_RIO_AOI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_IIIX_INTERNAL_TRIAD_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_SUNNY_PEACE_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_TSUKI_NO_TEMPEST_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_LIZNOIR_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_TRINITYAILE_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_IIIX_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_KOTONO_NAGISA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_RIO_AOI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_IIIX_INTERNAL_TRIAD_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_SUNNY_PEACE_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_TSUKI_NO_TEMPEST_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_LIZNOIR_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_TRINITYAILE_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_IIIX_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-p2_d_closure_result: "CLOSED_NO_SEPARATE_HOSHIMI_P2D_LEDGER_WARRANTED"
+p2_d_closure_result: CLOSED_NO_SEPARATE_HOSHIMI_P2D_LEDGER_WARRANTED
 hoshimi_candidate_artifact: IDOLY_PRIDE_V2_INST_HOSHIMI_PRODUCTIONS_LONGITUDINAL_LEDGER.md
-hoshimi_candidate_status: "NOT_CREATED_REDUNDANT_AT_P2D_SCOPE"
-integrity_status: "P2_E_01_ANSWERABLE_INTERDEPENDENCE_COMPLETE"
-created: "2026-08-26"
-updated: "2026-08-26"
-next_operation: "P2-E-02 — IDOLY_PRIDE_V2_THEME_AUTONOMY_MANAGEMENT_INTERVENTION_AND_PROFESSIONAL_CARE_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+hoshimi_candidate_status: NOT_CREATED_REDUNDANT_AT_P2D_SCOPE
+integrity_status: P2_E_01_ANSWERABLE_INTERDEPENDENCE_COMPLETE
+created: '2026-08-26'
+updated: '2026-08-26'
+next_operation: P2-E-02 — IDOLY_PRIDE_V2_THEME_AUTONOMY_MANAGEMENT_INTERVENTION_AND_PROFESSIONAL_CARE_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — ANSWERABLE INTERDEPENDENCE LONGITUDINAL LEDGER

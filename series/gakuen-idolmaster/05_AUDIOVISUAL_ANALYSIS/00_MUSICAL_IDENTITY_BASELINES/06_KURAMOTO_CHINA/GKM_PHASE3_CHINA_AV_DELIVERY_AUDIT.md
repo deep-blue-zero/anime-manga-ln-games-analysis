@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: delivery_audit
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_AV_RELEASE_R1
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Release-integrity audit for the China integrated AV R1 package"
-supersedes: null
-superseded_by: null
+source_boundary: Release-integrity audit for the China integrated AV R1 package
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-21"
-title: "Kuramoto China Phase-3 AV Delivery Audit"
+last_updated: '2026-08-21'
+title: Kuramoto China Phase-3 AV Delivery Audit
 ---
 
 # GKM PHASE 3 — KURAMOTO CHINA AV DELIVERY AUDIT

@@ -531,11 +531,11 @@ miho’s reaction is not simple dislike. Fran’s immediate read makes that clea
 
 So no, I do not think miho is “too closed off.” She is closed off in the exact way that makes Sakura dangerous to her.
 
-The key is that Sakura is not actually naïve in the way miho initially accuses her of being. Sakura looks like a pure sun-girl, but her sunlight comes from illness, survival, Mana’s heart, bodily vulnerability, gratitude, and the fear of not fully owning her own life. The broader *IDOLY PRIDE* reading treats Sakura as someone who must transform Mana’s biological inheritance into self-authored life, not simply become Mana’s vessel.[
+The key is that Sakura is not actually naïve in the way miho initially accuses her of being. Sakura looks like a pure sun-girl, but her sunlight comes from illness, survival, Mana’s heart, bodily vulnerability, gratitude, and the fear of not fully owning her own life. The broader *IDOLY PRIDE* reading treats Sakura as someone who must transform Mana’s biological inheritance into self-authored life, not simply become Mana’s vessel.
 
 IDOLY PRIDE analysis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3af787-7330-832c-b855-146debae162f?messageId=c88ec1ac-04c0-45f8-ac7a-2f3f8378f802&conversation_save=1)That means miho’s first impression is wrong in an important way: Sakura is not a girl who sparkles with hope because she has never suffered. She sparkles because she has suffered and still chooses hope.
+ _(historical external conversation reference unavailable in Git)_That means miho’s first impression is wrong in an important way: Sakura is not a girl who sparkles with hope because she has never suffered. She sparkles because she has suffered and still chooses hope.
 
 That is exactly the kind of discovery that could destabilize miho.
 
@@ -588,11 +588,11 @@ If miho grows, Sakura becomes bearable because she is **not** Yō — because sh
 
 ## Sakura also has something miho needs
 
-Sakura’s strength is not only cheerfulness. It is her ability to turn received care into returned light. She receives life from Mana, support from Hoshimi, energy from fans, and love from family, then tries to return it as performance. The broader franchise thesis says *IDOLY PRIDE* is about turning grief, rivalry, failure, desire, trauma, debt, pride, and public memory into songs that belong to the living.[
+Sakura’s strength is not only cheerfulness. It is her ability to turn received care into returned light. She receives life from Mana, support from Hoshimi, energy from fans, and love from family, then tries to return it as performance. The broader franchise thesis says *IDOLY PRIDE* is about turning grief, rivalry, failure, desire, trauma, debt, pride, and public memory into songs that belong to the living.
 
 IDOLY PRIDE analysis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3af787-7330-832c-b855-146debae162f?messageId=c88ec1ac-04c0-45f8-ac7a-2f3f8378f802&conversation_save=1)Sakura embodies the gentlest version of that principle.
+ _(historical external conversation reference unavailable in Git)_Sakura embodies the gentlest version of that principle.
 
 miho embodies the harsher version: memory must be made durable, public, disciplined, and impossible to erase. Her wound is that Yō did not become public memory the way Mana did. Sakura’s existence intersects with that wound in two ways:
 
@@ -6363,11 +6363,11 @@ I’ll ground this in the existing SUNNY PEACE/Rei analysis material, then forma
 
 **Assistant — Turn 82**
 
-I grounded this Rei-focused document in the existing SUNNY PEACE synthesis, Rei’s unit-origin material, her bond-story bundle, and the prior event-priority notes that identify her major father-conflict and Rei/Haruko stories as important material. IDOLY PRIDE - Sunny Peace deep … origin\_sun\_002\_rei\_s\_memories bond\_rei\_001\_rei[
+I grounded this Rei-focused document in the existing SUNNY PEACE synthesis, Rei’s unit-origin material, her bond-story bundle, and the prior event-priority notes that identify her major father-conflict and Rei/Haruko stories as important material. IDOLY PRIDE - Sunny Peace deep … origin\_sun\_002\_rei\_s\_memories bond\_rei\_001\_rei
 
 Core event story priorities
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3af787-7330-832c-b855-146debae162f?messageId=85114a05-ec0c-4ea9-8417-600d5b15c4b9&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Ichinose Rei: Character, Voice, Visual Design, and Comparative Analysis Reference
 
@@ -9982,11 +9982,11 @@ I’ll rebuild Rei as a dedicated source document rather than just extracting he
 
 **Assistant — Turn 100**
 
-This Rei-focused rewrite is grounded in Rei’s unit-origin story, the later Rei-specific father-conflict event, her SUNNY PEACE authorship/choreography material, the Haruko/Rei ambition event, the underground-idol performance event, and the updated SUNNY PEACE reference where Rei is framed as “disciplined grace” whose danger is over-control. origin\_sun\_002\_rei\_s\_memories IMPORTANT\_005\_\_event\_2021\_005\_s… IMPORTANT\_010\_\_event\_2022\_006\_s… CORE\_016\_\_event\_2023\_009\_st-eve… IMPORTANT\_026\_\_event\_2026\_004\_s…[
+This Rei-focused rewrite is grounded in Rei’s unit-origin story, the later Rei-specific father-conflict event, her SUNNY PEACE authorship/choreography material, the Haruko/Rei ambition event, the underground-idol performance event, and the updated SUNNY PEACE reference where Rei is framed as “disciplined grace” whose danger is over-control. origin\_sun\_002\_rei\_s\_memories IMPORTANT\_005\_\_event\_2021\_005\_s… IMPORTANT\_010\_\_event\_2022\_006\_s… CORE\_016\_\_event\_2023\_009\_st-eve… IMPORTANT\_026\_\_event\_2026\_004\_s…
 
 Rewritten SUNNY PEACE Reference
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3b4b0e-d39c-83ea-a068-10f43f5e5d7f?messageId=2785aabc-643e-4159-98c6-f32452d53742&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Ichinose Rei: Character, Voice, Visual Design, and Thematic Analysis
 
@@ -11191,11 +11191,11 @@ I’ll build Haruko as her own full reference rather than treating her as SUNNY 
 
 **Assistant — Turn 102**
 
-This Haruko-focused document builds from the updated SUNNY PEACE reference, especially the later Haruko material that reframes her as “delayed-blooming hearth” and “Hoshimi’s living bridge,” plus the event-analysis notes on her Okinawa rain trauma, Mana promise material, Rei/Haruko battle, and SUNNY PEACE’s fan-facing growth.[
+This Haruko-focused document builds from the updated SUNNY PEACE reference, especially the later Haruko material that reframes her as “delayed-blooming hearth” and “Hoshimi’s living bridge,” plus the event-analysis notes on her Okinawa rain trauma, Mana promise material, Rei/Haruko battle, and SUNNY PEACE’s fan-facing growth.
 
 Rewritten SUNNY PEACE Reference
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3b4b0e-d39c-83ea-a068-10f43f5e5d7f?messageId=2785aabc-643e-4159-98c6-f32452d53742&conversation_save=1)Pasted markdown
+ _(historical external conversation reference unavailable in Git)_Pasted markdown
 
 # Saeki Haruko: Character, Voice, Visual Design, and Thematic Analysis
 
@@ -12432,15 +12432,15 @@ I’ll treat Chisa’s “shy girl” surface as only the entry point. The impor
 
 **Assistant — Turn 104**
 
-I’m grounding this in the updated SUNNY PEACE reference, especially the sections that define Chisa as “handmade relational courage,” plus the event-priority notes identifying her survival/sea-fear material and the Chisa/Saki sister event as core.[
+I’m grounding this in the updated SUNNY PEACE reference, especially the sections that define Chisa as “handmade relational courage,” plus the event-priority notes identifying her survival/sea-fear material and the Chisa/Saki sister event as core.
 
 Rewritten SUNNY PEACE Reference
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3b4b0e-d39c-83ea-a068-10f43f5e5d7f?messageId=2785aabc-643e-4159-98c6-f32452d53742&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Core event story priorities
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3af787-7330-832c-b855-146debae162f?messageId=85114a05-ec0c-4ea9-8417-600d5b15c4b9&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Shiraishi Chisa: Character, Voice, Visual Design, and Thematic Analysis
 
@@ -13644,11 +13644,11 @@ I’ll build Shizuku as a dedicated source document, not merely the “former id
 
 **Assistant — Turn 106**
 
-This Shizuku-focused document builds from her unit-origin story, the updated SUNNY PEACE synthesis, and the later Shizuku event layer: Mone as origin idol, old fan/ドルオタ identity, fan letters and 繋ぐ, Rui duet, Alice/theater material, fishing/camera/offshot material, and her visual identity as SUNNY PEACE’s fan-memory idol. origin\_sun\_003\_shizuku\_s\_memori…[
+This Shizuku-focused document builds from her unit-origin story, the updated SUNNY PEACE synthesis, and the later Shizuku event layer: Mone as origin idol, old fan/ドルオタ identity, fan letters and 繋ぐ, Rui duet, Alice/theater material, fishing/camera/offshot material, and her visual identity as SUNNY PEACE’s fan-memory idol. origin\_sun\_003\_shizuku\_s\_memori…
 
 Rewritten SUNNY PEACE Reference
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3b4b0e-d39c-83ea-a068-10f43f5e5d7f?messageId=2785aabc-643e-4159-98c6-f32452d53742&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Hyōdō Shizuku: Character, Voice, Visual Design, and Thematic Analysis
 

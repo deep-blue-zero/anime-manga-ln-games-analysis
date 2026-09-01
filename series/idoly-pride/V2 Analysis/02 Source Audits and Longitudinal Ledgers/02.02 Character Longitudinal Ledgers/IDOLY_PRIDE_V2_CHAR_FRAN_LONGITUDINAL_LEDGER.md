@@ -3,35 +3,36 @@ series: IDOLY_PRIDE
 artifact_type: longitudinal_ledger
 artifact_role: LEDGER
 scope: CHAR_FRAN
-character: "fran"
+character: fran
 character_code: kor
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-B5-FRAN"
-unit: "IIIX"
+phase: '2'
+tranche: P2-B5-FRAN
+unit: IIIX
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 longitudinal reconstruction of fran across the complete Phase-1-routed frozen snapshot. The character occurrence frontier contains 5,566 fran utterances across 61 unique routed bundles, all 61 mechanically confirmed present in the canonical v1.30 coverage ledger. Load-bearing close reading reopens all four IIIX origins under the corrected chronology, Tokyo/BIG4/Stellar main-story freezes, admitted IIIX event tranches, bond_kor_001_kor, the mandatory C1-A fran card, and selected exact primary bundles for childhood appearance/fashion formation, ERFOLG failure and debt, early instrumental idol work, aesthetic self-jurisdiction, post-I-UNITY second founding, active vocational optionality, U.S. dissolution/re-authorization, concurrent idol/designer work, market discipline, and curated adversarial authenticity. Cards/messages/specials remain available as contradiction and continuity checks; exhaustive ordinary-life preference extraction is deferred to Phase 8.5 unless it changes a longitudinal claim."
+source_boundary: Phase-2 longitudinal reconstruction of fran across the complete Phase-1-routed frozen snapshot. The character occurrence frontier contains 5,566 fran utterances across 61 unique routed bundles, all 61 mechanically confirmed present in the canonical v1.30 coverage ledger. Load-bearing close reading reopens all four IIIX origins under the corrected chronology, Tokyo/BIG4/Stellar main-story freezes, admitted IIIX event tranches, bond_kor_001_kor, the mandatory C1-A fran card, and selected exact primary bundles for childhood appearance/fashion formation, ERFOLG failure and debt, early instrumental idol work, aesthetic self-jurisdiction, post-I-UNITY second founding, active vocational optionality, U.S. dissolution/re-authorization, concurrent idol/designer work, market discipline, and curated adversarial authenticity. Cards/messages/specials remain available as contradiction and continuity checks; exhaustive ordinary-life preference extraction is deferred to Phase 8.5 unless
+  it changes a longitudinal claim.
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_B5_FRAN_PASS
-created: "2026-08-23"
-updated: "2026-08-23"
-next_operation: "P2-B5 - IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-23'
+updated: '2026-08-23'
+next_operation: P2-B5 - IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — FRAN LONGITUDINAL LEDGER

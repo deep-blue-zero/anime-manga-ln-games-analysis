@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "specialist_synthesis"
-scope: "LizNoir / Ai/Kokoro outside-LizNoir relationships"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived analysis over uploaded IDOLY PRIDE sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated"
+series: IDOLY_PRIDE
+artifact_type: specialist_synthesis
+scope: LizNoir / Ai/Kokoro outside-LizNoir relationships
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived analysis over uploaded IDOLY PRIDE sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md
 source_turn: 76
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated'
 ---
 
 Yes. For **Kokoro**, I would put **kana** and **Suzu** near the top, but they matter in very different ways. For **Ai**, the meaningful outside-LizNoir network is quieter and less “ship/duo” coded, but it is important for showing how Ai’s sincerity works when she is not orbiting Rio, Aoi, or Kokoro.

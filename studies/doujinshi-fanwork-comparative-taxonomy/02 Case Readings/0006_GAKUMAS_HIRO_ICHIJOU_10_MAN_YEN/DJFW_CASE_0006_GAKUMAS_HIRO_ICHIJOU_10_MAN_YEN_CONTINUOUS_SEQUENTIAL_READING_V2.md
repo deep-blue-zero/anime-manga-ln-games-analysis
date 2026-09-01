@@ -7,11 +7,12 @@ generation: V2
 status: canonical
 analysis_mode: continuous_sequential
 run_scope: DJFW_CASE_0002-DJFW_CASE_0010
-source_boundary: "Full 10-page CBZ sequential visual review of Itano Chiharu, Ichijou 10-man Yen. Governing comparator is the canonical Gakuen Idolmaster Hiro textual/AV baseline. Explicit material is summarized only at structural level; no broad OCR of explicit pages is used."
+source_boundary: Full 10-page CBZ sequential visual review of Itano Chiharu, Ichijou 10-man Yen. Governing comparator is the canonical Gakuen Idolmaster Hiro textual/AV baseline. Explicit material is summarized only at structural level; no broad OCR of explicit pages is used.
 source_sha256: a717e21c6850ede93b02655ebd44ffcc3e3d547ce0a609b2a47be2b7f56ad1f2
 source_pages: 10
-supersedes: DJFW_CASE_0006_GAKUMAS_HIRO_ICHIJOU_10_MAN_YEN_CASE_READING.md
-superseded_by: null
+supersedes:
+- studies/doujinshi-fanwork-comparative-taxonomy/02 Case Readings/0006_GAKUMAS_HIRO_ICHIJOU_10_MAN_YEN/DJFW_CASE_0006_GAKUMAS_HIRO_ICHIJOU_10_MAN_YEN_CASE_READING.md
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

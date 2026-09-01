@@ -5,23 +5,23 @@ artifact_role: DEEP_READING
 scope: S3E01
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S3E01 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S3E01 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 3
 episode: 1
-episode_title_japanese: "私の決めた道"
-episode_title_english: "My Chosen Path"
-episode_title_source: "clean retained source frame at 00:02:20.000 directly displays #01 私の決めた道; embedded English Signs render My Chosen Path; title used as identifying/formal evidence, not as independent semantic proof"
+episode_title_japanese: 私の決めた道
+episode_title_english: My Chosen Path
+episode_title_source: 'clean retained source frame at 00:02:20.000 directly displays #01 私の決めた道; embedded English Signs render My Chosen Path; title used as identifying/formal evidence, not as independent semantic proof'
 artifact_id: LLS_S3E01_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; immutable frozen Season-1 and Season-2 checkpoints as first-read prior authorities; corrected-Japanese governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; Vienna-cancellation causality, blocked-route response, Liella continuity, rival-club formation, succession, relationship, voice, performance, institution, and character-model analysis"
+analysis_mode: sealed sequential V2.2; immutable frozen Season-1 and Season-2 checkpoints as first-read prior authorities; corrected-Japanese governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; Vienna-cancellation causality, blocked-route response, Liella continuity, rival-club formation, succession, relationship, voice, performance, institution, and character-model analysis
 source_bundle: LLS_s03e01_screenshots.zip
 source_drive_id: 1Yjq6SWA0VUkLRvGwfDB2oR60HK6uajDe
 source_sha256: ba6e20dfeb26d973a4593fd46bdf1bcf2125d28afcc6c9d107de58ca61021cb3
 source_bytes: 170726573
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S3E01 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S3E01 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON2_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
@@ -30,8 +30,8 @@ season1_frozen_checkpoint_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 season2_frozen_checkpoint: LLS_SEASON2_FROZEN_CHECKPOINT.md
 season2_frozen_checkpoint_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
 season2_checkpoint_status: frozen
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 861
 retained_frames: 802
 contact_sheets_reviewed: 41
@@ -55,16 +55,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 802 retained frames, 41 contact sheets, subtitle/index copies, visual montages, transcript, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 802 retained frames, 41 contact sheets, subtitle/index copies, visual montages, transcript, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S3E02_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

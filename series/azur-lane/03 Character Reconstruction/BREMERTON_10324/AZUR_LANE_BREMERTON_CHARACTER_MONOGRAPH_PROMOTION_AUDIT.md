@@ -5,14 +5,14 @@ generation: V1
 semantic_authority: CN
 azurlane_data_commit: 4cca5c2437007b62d30a6235fcfc0c0203231378
 story_lua_witness_commit: d93f83db24195981c5f5ca90ac5e29ce0580b12c
-source_package_generated_at: "2026-08-23T18:55:47.426186Z"
-supersedes: null
-superseded_by: null
+source_package_generated_at: '2026-08-23T18:55:47.426186Z'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 artifact_type: audit
 scope: BREMERTON_10324_CHARACTER_MONOGRAPH_PROMOTION
 status: canonical
-source_boundary: "R0-R8 production run plus 2026-08-25 Bremerton JP performed-voice follow-up: 100/101 published mapped WAVs directly retrieved, hash-verified, and quantitatively audited; one 103245 login waveform remains inaccessible"
+source_boundary: 'R0-R8 production run plus 2026-08-25 Bremerton JP performed-voice follow-up: 100/101 published mapped WAVs directly retrieved, hash-verified, and quantitatively audited; one 103245 login waveform remains inaccessible'
 target_artifact: AZUR_LANE_BREMERTON_CHARACTER_MONOGRAPH.md
 target_generation: V1
 promotion_target: canonical_frozen_v1

@@ -47,15 +47,15 @@ Much of the current project is built around **ensembles and institutions**:
 -   relationships mediated by group membership, professional duty, or political structure.
 
 
-Even the most intimate existing works generally retain large social architectures. *Sound! Euphonium* places desire and intimacy inside the ensemble; *Girls Band Cry* converts interpersonal contradiction into collective music; *IDOLY PRIDE* distributes grief and inheritance through an entire professional ecosystem.[
+Even the most intimate existing works generally retain large social architectures. *Sound! Euphonium* places desire and intimacy inside the ensemble; *Girls Band Cry* converts interpersonal contradiction into collective music; *IDOLY PRIDE* distributes grief and inheritance through an entire professional ecosystem.
 
 Sound Euphonium Full Series Ana…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a67993f-6864-83ea-a19f-f988c4a61a82?messageId=e66754b0-81e4-4a0d-824a-b201ef98dd18&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Girls Band Cry synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a67cda0-0f4c-83ea-aa93-8fb8df25a43b?messageId=b7d98cd7-74c1-4b83-b9dc-76338ccdb82e&conversation_save=1)IDOLY PRIDE Analysis Setup
+ _(historical external conversation reference unavailable in Git)_IDOLY PRIDE Analysis Setup
 
 *週クラ* strips most of that away.
 
@@ -123,11 +123,11 @@ The contract gives desire an external alibi.
 
 That means the work is not merely about dominance and submission. It is about **formal structures invented by emotionally avoidant people so that intimacy can occur without being confessed**. Commands become displaced requests; obedience can become chosen closeness; rule-breaking reveals desire; money both commodifies time and marks it as uniquely reserved.
 
-This would complement *Oreimo*’s treatment of hidden selves and confession through media, and *Monogatari*’s interest in roles, verbal games, bodily boundaries, and stories people construct to survive themselves.[
+This would complement *Oreimo*’s treatment of hidden selves and confession through media, and *Monogatari*’s interest in roles, verbal games, bodily boundaries, and stories people construct to survive themselves.
 
 Oreimo Full Series Synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a68050b-b808-83ea-8f1f-064aabe99c2d?messageId=b7645efe-4e7f-47d0-abca-538f0e9a8541&conversation_save=1)Monogatari Series Analysis
+ _(historical external conversation reference unavailable in Git)_Monogatari Series Analysis
 
 It would also let us examine consent with more precision than a simple healthy/unhealthy binary. The questions would include:
 
@@ -26648,11 +26648,11 @@ This is something we could try before moving onto web novel material
 
 Yes. In fact, **I think doing the Shuukura V2 pass before touching the WN is the methodologically cleaner order**.
 
-The reason is not that the existing analysis is poor. It is already one of the stronger V1 passes we have done. It established a coherent nine-volume architecture—transaction → ritual → dependency → domesticity → individuation—and identified unusually strong longitudinal ideas around return, difference, memory, names, objects, consent, and domesticity.[
+The reason is not that the existing analysis is poor. It is already one of the stronger V1 passes we have done. It established a coherent nine-volume architecture—transaction → ritual → dependency → domesticity → individuation—and identified unusually strong longitudinal ideas around return, difference, memory, names, objects, consent, and domesticity.
 
 Shuukura
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a7418f7-7d60-83ea-a7f6-0c5ee7ffaaa4?messageId=e9b976ad-19e3-44f1-90c1-97a363e94b5a&conversation_save=1)The current source base is also unusually convenient for a reread: all nine published Japanese LNs are present, plus the four held BOOK☆WALKER stories, alternate editions, the Kakuyomu release stories, and voiced material. MANIFEST
+ _(historical external conversation reference unavailable in Git)_The current source base is also unusually convenient for a reread: all nine published Japanese LNs are present, plus the four held BOOK☆WALKER stories, alternate editions, the Kakuyomu release stories, and voiced material. MANIFEST
 
 What it lacks is mostly **V2 infrastructure and adversarial verification**, rather than interpretive intelligence.
 
@@ -26664,11 +26664,11 @@ The biggest advantage is that we have a very clean analytical boundary:
 
 That lets us freeze an authoritative interpretation of what the **commercially published novel itself** has actually established. Then, when we read the WN, we can compare it against that stable baseline instead of unconsciously allowing later WN information to rewrite what Volumes 1–9 meant at their own publication boundaries.
 
-That matters especially for *Shuukura*, because its narrative method is built around extremely small longitudinal changes. The current synthesis already recognizes that the story progresses by changing the meaning of repeated things—money, rooms, names, marks, birthdays, leaving, returning—rather than primarily through large plot events.[
+That matters especially for *Shuukura*, because its narrative method is built around extremely small longitudinal changes. The current synthesis already recognizes that the story progresses by changing the meaning of repeated things—money, rooms, names, marks, birthdays, leaving, returning—rather than primarily through large plot events.
 
 Shuukura
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a7418f7-7d60-83ea-a7f6-0c5ee7ffaaa4?messageId=e9b976ad-19e3-44f1-90c1-97a363e94b5a&conversation_save=1)A second pass with hindsight can systematically map those changes instead of discovering them retrospectively as we did during V1.
+ _(historical external conversation reference unavailable in Git)_A second pass with hindsight can systematically map those changes instead of discovering them retrospectively as we did during V1.
 
 I would therefore regard V2 as **high-value**, perhaps more valuable than immediately continuing into the WN.
 
@@ -26697,19 +26697,19 @@ Several V1 conclusions are already strong candidates for preservation:
 -   the distinction between mutual desire and adequate consent.
 
 
-The existing synthesis already reaches the particularly strong formulation that a person incapable of saying no cannot provide the meaningful yes Miyagi ultimately wants, just as someone incapable of leaving cannot reassure her through return.[
+The existing synthesis already reaches the particularly strong formulation that a person incapable of saying no cannot provide the meaningful yes Miyagi ultimately wants, just as someone incapable of leaving cannot reassure her through return.
 
 Shuukura
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a7418f7-7d60-83ea-a7f6-0c5ee7ffaaa4?messageId=e9b976ad-19e3-44f1-90c1-97a363e94b5a&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 But V2 should actively try to **break those readings**.
 
-For example, I would want to ask whether we have sometimes made Miyagi's behavior too neatly legible through abandonment anxiety; whether Sendai's Mutsuki history really supports the full “similarity prevents exclusion” model or only a weaker version; whether “Miyagi controls permission / Sendai controls momentum” remains accurate in each volume rather than merely being a good series-level slogan; and whether the consent analysis correctly distinguishes authorial critique, character awareness, genre convention, erotic framing, and our own normative judgment. The current synthesis explicitly admits that the novels' conceptual sophistication around consent sometimes exceeds the consequences imposed on boundary violations.[
+For example, I would want to ask whether we have sometimes made Miyagi's behavior too neatly legible through abandonment anxiety; whether Sendai's Mutsuki history really supports the full “similarity prevents exclusion” model or only a weaker version; whether “Miyagi controls permission / Sendai controls momentum” remains accurate in each volume rather than merely being a good series-level slogan; and whether the consent analysis correctly distinguishes authorial critique, character awareness, genre convention, erotic framing, and our own normative judgment. The current synthesis explicitly admits that the novels' conceptual sophistication around consent sometimes exceeds the consequences imposed on boundary violations.
 
 Shuukura
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a7418f7-7d60-83ea-a7f6-0c5ee7ffaaa4?messageId=e9b976ad-19e3-44f1-90c1-97a363e94b5a&conversation_save=1)That deserves a dedicated V2 evidence track rather than one synthesis section.
+ _(historical external conversation reference unavailable in Git)_That deserves a dedicated V2 evidence track rather than one synthesis section.
 
 ## The architecture I'd use
 
@@ -26818,11 +26818,11 @@ Then separately:
 
 > **What does full V1–9 hindsight make newly visible?**
 
-That would be extremely productive with *Shuukura*. Volume 9's childhood material substantially changes how we understand earlier behavior: Sendai's accommodation can now be read against childhood preference instability, while Miyagi's management of attachment becomes much more legible against her conviction that things destined to disappear might be safer never to have.[
+That would be extremely productive with *Shuukura*. Volume 9's childhood material substantially changes how we understand earlier behavior: Sendai's accommodation can now be read against childhood preference instability, while Miyagi's management of attachment becomes much more legible against her conviction that things destined to disappear might be safer never to have.
 
 Shuukura
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a7418f7-7d60-83ea-a7f6-0c5ee7ffaaa4?messageId=e9b976ad-19e3-44f1-90c1-97a363e94b5a&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 But we should not pretend those interpretations were equally available in Volume 1.
 
@@ -26859,17 +26859,17 @@ But we have mostly analyzed those when a scene made them conspicuous.
 
 V2 should track them longitudinally.
 
-For example, **Hazuki/Shiori usage alone deserves an exact locator ledger**: internal thought, private spoken use, heightened-state use, outsiders' use, possessive response to outsiders' use, ordinary versus exceptional contexts. The current synthesis already observes that given-name address can remain harder for Miyagi than extreme physical intimacy because the name creates an ordinary, socially intelligible relationship.[
+For example, **Hazuki/Shiori usage alone deserves an exact locator ledger**: internal thought, private spoken use, heightened-state use, outsiders' use, possessive response to outsiders' use, ordinary versus exceptional contexts. The current synthesis already observes that given-name address can remain harder for Miyagi than extreme physical intimacy because the name creates an ordinary, socially intelligible relationship.
 
 Shuukura
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a7418f7-7d60-83ea-a7f6-0c5ee7ffaaa4?messageId=e9b976ad-19e3-44f1-90c1-97a363e94b5a&conversation_save=1)V2 could turn that from an excellent observation into a demonstrable linguistic trajectory.
+ _(historical external conversation reference unavailable in Git)_V2 could turn that from an excellent observation into a demonstrable linguistic trajectory.
 
-Similarly, Miyagi and Sendai's different forms of unreliable narration should be tracked with actual Japanese syntax and lexical habits rather than summarized after the fact. The existing synthesis already describes Miyagi as tending toward **desire → action → denial → control theory**, while Sendai produces more coherent rationalizations that are not necessarily more truthful.[
+Similarly, Miyagi and Sendai's different forms of unreliable narration should be tracked with actual Japanese syntax and lexical habits rather than summarized after the fact. The existing synthesis already describes Miyagi as tending toward **desire → action → denial → control theory**, while Sendai produces more coherent rationalizations that are not necessarily more truthful.
 
 Shuukura
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a7418f7-7d60-83ea-a7f6-0c5ee7ffaaa4?messageId=e9b976ad-19e3-44f1-90c1-97a363e94b5a&conversation_save=1)That is fertile territory for source-language close reading.
+ _(historical external conversation reference unavailable in Git)_That is fertile territory for source-language close reading.
 
 ## The bonus stories become much more valuable in V2
 
@@ -26896,11 +26896,11 @@ That gives us a rare way of asking:
 
 > What do Miyagi and Sendai look like when we remove their internal narration?
 
-The voiced material performs almost the same experiment. The current synthesis already points out that Miyagi sounds colder and Sendai more effortlessly confident when their interior monologues disappear.[
+The voiced material performs almost the same experiment. The current synthesis already points out that Miyagi sounds colder and Sendai more effortlessly confident when their interior monologues disappear.
 
 Shuukura
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a7418f7-7d60-83ea-a7f6-0c5ee7ffaaa4?messageId=e9b976ad-19e3-44f1-90c1-97a363e94b5a&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 A dedicated **inside/outside epistemology** analysis could be one of the strongest new V2 contributions.
 

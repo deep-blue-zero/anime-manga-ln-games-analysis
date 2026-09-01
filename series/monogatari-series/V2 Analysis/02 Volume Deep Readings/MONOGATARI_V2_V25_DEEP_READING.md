@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V25 Deep Reading - 宵物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V25"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『宵物語』, supplied archive item 25 宵物語.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V25 Deep Reading - 宵物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V25
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『宵物語』, supplied archive item 25 宵物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V25_DEEP_READING"
-version: "1.0"
-date: "2026-08-18"
-volume_code: "V25"
-japanese_title: "宵物語"
-archive_position: "Monster Season archive spine V25; second numbered Monster Season volume"
-source_file: "25 宵物語.epub"
-source_drive_id: "1_ed6oJvoTlJMePJ4DPbOcayzWck1D2kl"
-source_sha256: "f43adbd555c5106f6142e35ccbbb02fddf3bceaac237cc51e3558820ce1515a8"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V25_DEEP_READING
+version: '1.0'
+date: '2026-08-18'
+volume_code: V25
+japanese_title: 宵物語
+archive_position: Monster Season archive spine V25; second numbered Monster Season volume
+source_file: 25 宵物語.epub
+source_drive_id: 1_ed6oJvoTlJMePJ4DPbOcayzWck1D2kl
+source_sha256: f43adbd555c5106f6142e35ccbbb02fddf3bceaac237cc51e3558820ce1515a8
 source_size_bytes: 684021
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies a June 2018 Kodansha BOX print basis; electronic colophon identifies July 1, 2018 electronic issue. OPF/calibre timestamps are retained only as file-history metadata."
-principal_story_units: "第二話 まよいスネイル; 第三話 まよいスネイク"
-narrators: "『まよいスネイル』 is principally 阿良々木暦 first-person, with §§030-035 yielding extended first-person testimony to 紅口孔雀 before returning to Araragi framing in §§036-037. 『まよいスネイク』 is 千石撫子 first-person through its principal action; §006 closes with a Gaen/Kagenui professional conversation embedded as a concluding scene outside Nadeko's direct knowledge."
-internal_story_range: "Monster Season university-first-year Araragi after the V24 mummy case for 『まよいスネイル』; post-V22 middle-school-third-year Nadeko for 『まよいスネイク』. Exact civil dates and the exact interval between the two stories are not stated and remain open. V23 remains internally years later."
-spoiler_policy: "Publication-local V25 conclusions may use and revise V01-V24 because V25 is the current publication boundary. V26 『余物語』 and all later Monster/Family Season material are excluded except as explicitly quarantined future-source hooks. V23 may be used only as publication-prior retrospective evidence about later outcomes; its adult facts must not be projected into V25 character knowledge."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies a June 2018 Kodansha BOX print basis; electronic colophon identifies July 1, 2018 electronic issue. OPF/calibre timestamps are retained only as file-history metadata.
+principal_story_units: 第二話 まよいスネイル; 第三話 まよいスネイク
+narrators: 『まよいスネイル』 is principally 阿良々木暦 first-person, with §§030-035 yielding extended first-person testimony to 紅口孔雀 before returning to Araragi framing in §§036-037. 『まよいスネイク』 is 千石撫子 first-person through its principal action; §006 closes with a Gaen/Kagenui professional conversation embedded as a concluding scene outside Nadeko's direct knowledge.
+internal_story_range: Monster Season university-first-year Araragi after the V24 mummy case for 『まよいスネイル』; post-V22 middle-school-third-year Nadeko for 『まよいスネイク』. Exact civil dates and the exact interval between the two stories are not stated and remain open. V23 remains internally years later.
+spoiler_policy: Publication-local V25 conclusions may use and revise V01-V24 because V25 is the current publication boundary. V26 『余物語』 and all later Monster/Family Season material are excluded except as explicitly quarantined future-source hooks. V23 may be used only as publication-prior retrospective evidence about later outcomes; its adult facts must not be projected into V25 character knowledge.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 — Volume 25 Deep Reading

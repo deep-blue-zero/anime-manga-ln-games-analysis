@@ -6,9 +6,9 @@ generation: V1
 status: active_provisional
 scope_character: PRINZ_EUGEN_40303
 semantic_authority: CN
-source_boundary: "Active Prinz Eugen reconstruction over pinned AZL-2026-08-22-4cca5c24-cc8e9fdf source build"
-supersedes: null
-superseded_by: null
+source_boundary: Active Prinz Eugen reconstruction over pinned AZL-2026-08-22-4cca5c24-cc8e9fdf source build
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

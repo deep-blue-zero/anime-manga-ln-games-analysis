@@ -133,7 +133,7 @@ But it reaches a much firmer conclusion about how people should respond under un
 For the continuous argument, read:
 
 - [Definitive Full-Series Synthesis](AOBUTA_FULL_SERIES_SYNTHESIS.md)
-- [01 — Series Architecture, Phases, and Retrospective Progression](01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
+- [01 — Series Architecture, Phases, and Retrospective Progression](../04%20Synthesis%20Documents/01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
 
 ---
 
@@ -162,8 +162,8 @@ The two analyzed bonuses are:
 
 The original Japanese EPUBs are the governing primary sources. Their filenames, SHA-256 hashes, EPUB spine counts, image counts, and integrity results are recorded in:
 
-- [`SOURCE_INVENTORY.md`](SOURCE_INVENTORY.md)
-- [`SOURCE_CHECKSUMS.sha256`](SOURCE_CHECKSUMS.sha256)
+- [`SOURCE_INVENTORY.md`](../06%20Archive/SOURCE_INVENTORY.md)
+- `SOURCE_CHECKSUMS.sha256` _(referenced artifact is not present in Git)_
 
 The source EPUBs themselves are **not redistributed** in this analytical package.
 
@@ -236,11 +236,11 @@ The corpus follows this hierarchy:
 
 The controlling protocol is preserved in:
 
-- [`reference/REFERENCE_AOBUTA_ANALYTICAL_METHOD_V2.md`](reference/REFERENCE_AOBUTA_ANALYTICAL_METHOD_V2.md)
+- `reference/REFERENCE_AOBUTA_ANALYTICAL_METHOD_V2.md` _(referenced artifact is not present in Git)_
 
 The corpus architecture is preserved in:
 
-- [`reference/REFERENCE_AOBUTA_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md`](reference/REFERENCE_AOBUTA_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md)
+- `reference/REFERENCE_AOBUTA_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md` _(referenced artifact is not present in Git)_
 
 ## 3.2 Four reading states
 
@@ -273,7 +273,7 @@ What later volumes confirm, correct, or substantially reframe.
 
 Primary homes:
 
-- [19 — Longitudinal Claim Revision and Retrospective Correction Ledger](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
+- [19 — Longitudinal Claim Revision and Retrospective Correction Ledger](../04%20Synthesis%20Documents/19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
 - the relevant specialist document;
 - the continuous synthesis.
 
@@ -342,7 +342,7 @@ The numbered novels are mostly sequential, but the bonus stories belong inside t
 
 For the full phase argument, read:
 
-- [01 — Series Architecture, Phases, and Retrospective Progression](01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
+- [01 — Series Architecture, Phases, and Retrospective Progression](../04%20Synthesis%20Documents/01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
 
 ## 5.3 Analytical reading order
 
@@ -363,7 +363,7 @@ For a strict publication-history study, use the publication table in §4 instead
 
 The bonuses receive their own specialist treatment in:
 
-- [17 — Bonus Novels: Publication Position, Story Position, and Retrospective Interpolation](17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
+- [17 — Bonus Novels: Publication Position, Story Position, and Retrospective Interpolation](../04%20Synthesis%20Documents/17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
 
 ## 6.1 *Animal Land*
 
@@ -447,9 +447,9 @@ Current controlled early-volume routes:
 
 The backfill artifacts are:
 
-- [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)
-- [`AOBUTA_V01-V07_PHASE3_TARGETED_BACKFILL.md`](AOBUTA_V01-V07_PHASE3_TARGETED_BACKFILL.md)
-- [`AOBUTA_V01-V07_PHASE4_TARGETED_BACKFILL.md`](AOBUTA_V01-V07_PHASE4_TARGETED_BACKFILL.md)
+- [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)
+- [`AOBUTA_V01-V07_PHASE3_TARGETED_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_PHASE3_TARGETED_BACKFILL.md)
+- [`AOBUTA_V01-V07_PHASE4_TARGETED_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_PHASE4_TARGETED_BACKFILL.md)
 
 Seventeen broader V1–V7 scene claims remain intentionally claim-triggered rather than fully normalized. These are mostly:
 
@@ -478,7 +478,7 @@ Together with the 120 controlled early routes, the package contains:
 
 For full routing details, read:
 
-- [20 — Volume Artifact and Evidence Index](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
+- [20 — Volume Artifact and Evidence Index](../04%20Synthesis%20Documents/20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
 
 ---
 
@@ -565,8 +565,8 @@ The stronger normative formulation is:
 
 For the full distinction, read:
 
-- [11 — Time, Dreams, Possible Worlds, Observation, and Counterfactual Causality](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
-- [`ledgers/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md`](ledgers/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md)
+- [11 — Time, Dreams, Possible Worlds, Observation, and Counterfactual Causality](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
+- [`ledgers/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md`](../03%20Longitudinal%20Analysis/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md)
 
 ---
 
@@ -662,7 +662,7 @@ The corpus does not reduce the term to a medical diagnosis or purely figurative 
 
 Translation-sensitive phrases should be routed through:
 
-- [21 — Japanese Terminology, Dialogue, and Passage Index](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
+- [21 — Japanese Terminology, Dialogue, and Passage Index](../04%20Synthesis%20Documents/21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
 
 That index contains 90 controlled entries and should be the first stop for phrases such as:
 
@@ -711,7 +711,7 @@ The audit established one primary analytical home for every major subject and fo
 
 See:
 
-- [`CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md`](CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md)
+- `CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md` _(referenced artifact is not present in Git)_
 
 ---
 
@@ -738,28 +738,28 @@ Use this when you want one book-like interpretation rather than a reference corp
 
 | # | Document | Primary responsibility | Best entry question |
 |---:|---|---|---|
-| 01 | [Series Architecture, Phases, and Retrospective Progression](01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md) | Whole-series structure and developmental phases | How does one invisible girl become a complete theory of adulthood? |
-| 02 | [Sakuta: Recognition, Intervention, Identity, and Adulthood](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md) | Sakuta psychology, intervention, observer role, teaching | How does the exceptional witness become an adult listener? |
-| 03 | [Mai: Visibility, Vocation, Personhood, and Co-Protagonist Role](03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md) | Mai independent of the romance | How does a hypervisible celebrity defend autonomous personhood? |
-| 04 | [Sakuta and Mai: Romance, Mutuality, Shared Reality, and Future](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md) | Central romance | How does rescue become reciprocal adult partnership? |
-| 05 | [Kaede, Hanakaede, Family, Memory, Identity, and Self-Authorship](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md) | Sister identity, family, autobiographical discontinuity | What makes one continuity a person when body persists but memory changes? |
-| 06 | [Shoko: Time, Survival, Sacrifice, Donation, and Moral Residue](06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md) | Shoko, future states, donors, survival ethics | What does it mean to choose life when another life appears to pay for it? |
-| 07 | [Title Heroines, Ensemble, Friendship, and Distributed Care](07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md) | Tomoe, Rio, Nodoka, Uzuki, Ikumi, Sara, Nene, Miori, and ensemble | Does the series outgrow one-heroine rescue structure? |
-| 08 | [Adolescence Syndrome: Typology, Literal Rules, and Mechanical Models](08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md) | Literal phenomenon families and model limits | What actually happens in each Syndrome case? |
-| 09 | [Recognition, Gaze, Air, Celebrity, Social Media, and Public Identity](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md) | `空気`, public gaze, fame, collective recognition | Who becomes real when everyone agrees? |
-| 10 | [Memory, Body, Name, Role, and Personhood](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md) | Identity substrates and substitution | What must remain continuous for someone to remain the same person? |
-| 11 | [Time, Dreams, Possible Worlds, Observation, and Counterfactual Causality](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md) | State topology, observation, counterfactual standing | What status should a possible life have? |
-| 12 | [Grief, Continuing Bonds, Death, Irreversibility, and Remembrance](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md) | Kaede/Toko comparative grief and memory | How can the absent remain particular without being reproduced? |
-| 13 | [Ethics, Autonomy, Privacy, Self-Sacrifice, Intervention, and Care](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md) | Normative audit of helping | When does rescue become paternalism, intrusion, or possession? |
-| 14 | [Ordinary Life, Family, School, Work, Institutions, and Adulthood](14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md) | Mundane competence and institutional care | Why is the future worth protecting mostly ordinary? |
-| 15 | [Japanese Narration, Character Voice, Humor, Titles, and Dialogue](15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md) | Japanese voice and translation-sensitive language | What disappears when the novels are reduced to plot summary? |
-| 16 | [Place, Season, Object, Motif, and Visual Paratext](16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md) | Material memory, geography, illustrations | How do places and objects carry identity across discontinuity? |
-| 17 | [Bonus Novels: Publication Position, Story Position, and Retrospective Interpolation](17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md) | Bonus provenance and limits | How can late-written canon be inserted without rewriting publication history? |
-| 18 | [Comparative Matrices, Counterreadings, and Residual Metaphysics](18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md) | Cross-case tables, adversarial readings, open mechanics | What are the strongest objections to the mature synthesis? |
+| 01 | [Series Architecture, Phases, and Retrospective Progression](../04%20Synthesis%20Documents/01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md) | Whole-series structure and developmental phases | How does one invisible girl become a complete theory of adulthood? |
+| 02 | [Sakuta: Recognition, Intervention, Identity, and Adulthood](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md) | Sakuta psychology, intervention, observer role, teaching | How does the exceptional witness become an adult listener? |
+| 03 | [Mai: Visibility, Vocation, Personhood, and Co-Protagonist Role](../04%20Synthesis%20Documents/03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md) | Mai independent of the romance | How does a hypervisible celebrity defend autonomous personhood? |
+| 04 | [Sakuta and Mai: Romance, Mutuality, Shared Reality, and Future](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md) | Central romance | How does rescue become reciprocal adult partnership? |
+| 05 | [Kaede, Hanakaede, Family, Memory, Identity, and Self-Authorship](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md) | Sister identity, family, autobiographical discontinuity | What makes one continuity a person when body persists but memory changes? |
+| 06 | [Shoko: Time, Survival, Sacrifice, Donation, and Moral Residue](../04%20Synthesis%20Documents/06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md) | Shoko, future states, donors, survival ethics | What does it mean to choose life when another life appears to pay for it? |
+| 07 | [Title Heroines, Ensemble, Friendship, and Distributed Care](../04%20Synthesis%20Documents/07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md) | Tomoe, Rio, Nodoka, Uzuki, Ikumi, Sara, Nene, Miori, and ensemble | Does the series outgrow one-heroine rescue structure? |
+| 08 | Adolescence Syndrome: Typology, Literal Rules, and Mechanical Models _(referenced artifact is not present in Git)_ | Literal phenomenon families and model limits | What actually happens in each Syndrome case? |
+| 09 | [Recognition, Gaze, Air, Celebrity, Social Media, and Public Identity](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md) | `空気`, public gaze, fame, collective recognition | Who becomes real when everyone agrees? |
+| 10 | [Memory, Body, Name, Role, and Personhood](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md) | Identity substrates and substitution | What must remain continuous for someone to remain the same person? |
+| 11 | [Time, Dreams, Possible Worlds, Observation, and Counterfactual Causality](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md) | State topology, observation, counterfactual standing | What status should a possible life have? |
+| 12 | [Grief, Continuing Bonds, Death, Irreversibility, and Remembrance](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md) | Kaede/Toko comparative grief and memory | How can the absent remain particular without being reproduced? |
+| 13 | Ethics, Autonomy, Privacy, Self-Sacrifice, Intervention, and Care _(referenced artifact is not present in Git)_ | Normative audit of helping | When does rescue become paternalism, intrusion, or possession? |
+| 14 | [Ordinary Life, Family, School, Work, Institutions, and Adulthood](../04%20Synthesis%20Documents/14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md) | Mundane competence and institutional care | Why is the future worth protecting mostly ordinary? |
+| 15 | [Japanese Narration, Character Voice, Humor, Titles, and Dialogue](../04%20Synthesis%20Documents/15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md) | Japanese voice and translation-sensitive language | What disappears when the novels are reduced to plot summary? |
+| 16 | [Place, Season, Object, Motif, and Visual Paratext](../04%20Synthesis%20Documents/16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md) | Material memory, geography, illustrations | How do places and objects carry identity across discontinuity? |
+| 17 | [Bonus Novels: Publication Position, Story Position, and Retrospective Interpolation](../04%20Synthesis%20Documents/17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md) | Bonus provenance and limits | How can late-written canon be inserted without rewriting publication history? |
+| 18 | [Comparative Matrices, Counterreadings, and Residual Metaphysics](../04%20Synthesis%20Documents/18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md) | Cross-case tables, adversarial readings, open mechanics | What are the strongest objections to the mature synthesis? |
 
 ## 12.3 Evidence-navigation Documents 19–21
 
-### [19 — Longitudinal Claim Revision and Retrospective Correction Ledger](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
+### [19 — Longitudinal Claim Revision and Retrospective Correction Ledger](../04%20Synthesis%20Documents/19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
 
 Use this when asking:
 
@@ -769,7 +769,7 @@ Use this when asking:
 
 Contains 40 controlled longitudinal claims.
 
-### [20 — Volume Artifact and Evidence Index](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
+### [20 — Volume Artifact and Evidence Index](../04%20Synthesis%20Documents/20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
 
 Use this when asking:
 
@@ -778,7 +778,7 @@ Use this when asking:
 - Is the locator native V2 or migrated/backfilled?
 - What source checksum and EPUB structure belong to the artifact?
 
-### [21 — Japanese Terminology, Dialogue, and Passage Index](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
+### [21 — Japanese Terminology, Dialogue, and Passage Index](../04%20Synthesis%20Documents/21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
 
 Use this when asking:
 
@@ -791,20 +791,20 @@ Use this when asking:
 
 | Ledger | Function |
 |---|---|
-| [Adolescence Syndrome Ledger](ledgers/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md) | Case-by-case literal manifestation, observer conditions, theories, resolutions, open mechanics |
-| [World-State and Temporal Ledger](ledgers/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md) | Distinguishes loops, futures, worlds, dreams, rewrites, and final continuity |
-| [Recognition and Observer Ledger](ledgers/AOBUTA_RECOGNITION_AND_OBSERVER_LEDGER_FINAL.md) | Tracks who sees, remembers, names, or recognizes whom |
-| [Character-State Ledger](ledgers/AOBUTA_CHARACTER_STATE_LEDGER_FINAL.md) | Longitudinal changes, discontinuities, and final states |
-| [Relationship Ledger](ledgers/AOBUTA_RELATIONSHIP_LEDGER_FINAL.md) | Recognition, dependence, reciprocity, privacy, and final relationship states |
-| [Intervention, Care, and Boundary Ledger](ledgers/AOBUTA_INTERVENTION_CARE_AND_BOUNDARY_LEDGER_FINAL.md) | Audits methods, consent, risk, privacy, and outcome |
-| [Object, Place, and Memory Ledger](ledgers/AOBUTA_OBJECT_PLACE_AND_MEMORY_LEDGER_FINAL.md) | Tracks notebooks, photos, rings, diaries, phones, songs, and recurring geography |
-| [Longitudinal Claim and Revision Ledger](ledgers/AOBUTA_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md) | Research-layer precursor to polished Document 19 |
+| [Adolescence Syndrome Ledger](../03%20Longitudinal%20Analysis/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md) | Case-by-case literal manifestation, observer conditions, theories, resolutions, open mechanics |
+| [World-State and Temporal Ledger](../03%20Longitudinal%20Analysis/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md) | Distinguishes loops, futures, worlds, dreams, rewrites, and final continuity |
+| Recognition and Observer Ledger _(referenced artifact is not present in Git)_ | Tracks who sees, remembers, names, or recognizes whom |
+| [Character-State Ledger](../03%20Longitudinal%20Analysis/AOBUTA_CHARACTER_STATE_LEDGER_FINAL.md) | Longitudinal changes, discontinuities, and final states |
+| [Relationship Ledger](../03%20Longitudinal%20Analysis/AOBUTA_RELATIONSHIP_LEDGER_FINAL.md) | Recognition, dependence, reciprocity, privacy, and final relationship states |
+| [Intervention, Care, and Boundary Ledger](../03%20Longitudinal%20Analysis/AOBUTA_INTERVENTION_CARE_AND_BOUNDARY_LEDGER_FINAL.md) | Audits methods, consent, risk, privacy, and outcome |
+| [Object, Place, and Memory Ledger](../03%20Longitudinal%20Analysis/AOBUTA_OBJECT_PLACE_AND_MEMORY_LEDGER_FINAL.md) | Tracks notebooks, photos, rings, diaries, phones, songs, and recurring geography |
+| [Longitudinal Claim and Revision Ledger](../03%20Longitudinal%20Analysis/AOBUTA_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md) | Research-layer precursor to polished Document 19 |
 
 ## 12.5 Sequential readings
 
 The immutable local readings are stored under:
 
-> [`volumes/`](volumes/)
+> `volumes/` _(referenced artifact is not present in Git)_
 
 They include:
 
@@ -825,21 +825,21 @@ Use these when you need:
 
 | File | Function |
 |---|---|
-| [`SOURCE_INVENTORY.md`](SOURCE_INVENTORY.md) | Phase-9 revalidated Japanese source identities, dimensions, and locator status |
-| [`SOURCE_CHECKSUMS.sha256`](SOURCE_CHECKSUMS.sha256) | Final external-source identity checksum set; source EPUB payloads are not redistributed |
-| [`CORPUS_MANIFEST.md`](CORPUS_MANIFEST.md) | Final immutable-release corpus manifest |
-| [`ARTIFACT_CHECKSUMS.sha256`](ARTIFACT_CHECKSUMS.sha256) | Final artifact-level checksum lock for every packaged file except the checksum file itself |
-| [`DELIVERY_AUDIT.md`](DELIVERY_AUDIT.md) | Final archival, link, duplication, encoding, source-exclusion, and package audit |
-| [`PHASE8_FINAL_JAPANESE_VERIFICATION_REPORT.md`](PHASE8_FINAL_JAPANESE_VERIFICATION_REPORT.md) | Human-readable Japanese-source verification audit |
-| [`PHASE8_CORRECTIONS_AND_NORMALIZATIONS.md`](PHASE8_CORRECTIONS_AND_NORMALIZATIONS.md) | Exact-language, locator, attribution, and normalization corrections applied before lock |
-| [`PHASE9_FINAL_ARCHIVAL_LOCK_REPORT.md`](PHASE9_FINAL_ARCHIVAL_LOCK_REPORT.md) | Final cleanup and immutable-release lock report |
-| [`support/CORPUS_INDEX.json`](support/CORPUS_INDEX.json) | Authoritative machine-readable final corpus index |
-| [`support/FINAL_LINK_AUDIT.json`](support/FINAL_LINK_AUDIT.json) | Final internal-link validation |
-| [`support/FINAL_DUPLICATION_AUDIT.json`](support/FINAL_DUPLICATION_AUDIT.json) | Final exact-prose duplication audit |
-| [`support/FINAL_UTF8_FRONTMATTER_AUDIT.json`](support/FINAL_UTF8_FRONTMATTER_AUDIT.json) | UTF-8 and Markdown front-matter validation |
-| [`support/LOCATOR_MAP.md`](support/LOCATOR_MAP.md) | Locator conventions and routes |
-| [`support/LONGITUDINAL_THREAD_REGISTRY.md`](support/LONGITUDINAL_THREAD_REGISTRY.md) | Controlled thread identifiers |
-| [`CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md`](CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md) | Primary-home and specialist-corpus duplication audit |
+| [`SOURCE_INVENTORY.md`](../06%20Archive/SOURCE_INVENTORY.md) | Phase-9 revalidated Japanese source identities, dimensions, and locator status |
+| `SOURCE_CHECKSUMS.sha256` _(referenced artifact is not present in Git)_ | Final external-source identity checksum set; source EPUB payloads are not redistributed |
+| [`CORPUS_MANIFEST.md`](../06%20Archive/CORPUS_MANIFEST.md) | Final immutable-release corpus manifest |
+| `ARTIFACT_CHECKSUMS.sha256` _(referenced artifact is not present in Git)_ | Final artifact-level checksum lock for every packaged file except the checksum file itself |
+| `DELIVERY_AUDIT.md` _(referenced artifact is not present in Git)_ | Final archival, link, duplication, encoding, source-exclusion, and package audit |
+| `PHASE8_FINAL_JAPANESE_VERIFICATION_REPORT.md` _(referenced artifact is not present in Git)_ | Human-readable Japanese-source verification audit |
+| `PHASE8_CORRECTIONS_AND_NORMALIZATIONS.md` _(referenced artifact is not present in Git)_ | Exact-language, locator, attribution, and normalization corrections applied before lock |
+| `PHASE9_FINAL_ARCHIVAL_LOCK_REPORT.md` _(referenced artifact is not present in Git)_ | Final cleanup and immutable-release lock report |
+| [`support/CORPUS_INDEX.json`](../06%20Archive/Corpus_Index.json) | Authoritative machine-readable final corpus index |
+| `support/FINAL_LINK_AUDIT.json` _(referenced artifact is not present in Git)_ | Final internal-link validation |
+| `support/FINAL_DUPLICATION_AUDIT.json` _(referenced artifact is not present in Git)_ | Final exact-prose duplication audit |
+| `support/FINAL_UTF8_FRONTMATTER_AUDIT.json` _(referenced artifact is not present in Git)_ | UTF-8 and Markdown front-matter validation |
+| `support/LOCATOR_MAP.md` _(referenced artifact is not present in Git)_ | Locator conventions and routes |
+| `support/LONGITUDINAL_THREAD_REGISTRY.md` _(referenced artifact is not present in Git)_ | Controlled thread identifiers |
+| `CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md` _(referenced artifact is not present in Git)_ | Primary-home and specialist-corpus duplication audit |
 
 ---
 
@@ -853,19 +853,19 @@ Read:
 
 Then consult Document 18 if you want the strongest counterarguments:
 
-2. [Comparative Matrices, Counterreadings, and Residual Metaphysics](18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
+2. [Comparative Matrices, Counterreadings, and Residual Metaphysics](../04%20Synthesis%20Documents/18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
 
 ## 13.2 Book-like full-corpus path
 
 1. This README.
 2. [AOBUTA_FULL_SERIES_SYNTHESIS.md](AOBUTA_FULL_SERIES_SYNTHESIS.md)
-3. [01 — Series Architecture](01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
-4. [02 — Sakuta](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
-5. [03 — Mai](03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
-6. [04 — Sakuta/Mai](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
-7. [05 — Kaede/Hanakaede](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
-8. [06 — Shoko](06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
-9. [07 — Ensemble](07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
+3. [01 — Series Architecture](../04%20Synthesis%20Documents/01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
+4. [02 — Sakuta](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
+5. [03 — Mai](../04%20Synthesis%20Documents/03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
+6. [04 — Sakuta/Mai](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
+7. [05 — Kaede/Hanakaede](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
+8. [06 — Shoko](../04%20Synthesis%20Documents/06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
+9. [07 — Ensemble](../04%20Synthesis%20Documents/07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
 10. Documents 08–18 by interest.
 11. Documents 19–21 when auditing evidence.
 
@@ -876,9 +876,9 @@ Then consult Document 18 if you want the strongest counterarguments:
    - *Animal Land*;
    - *Spring Days*;
    - V10–V15.
-2. Read [01](01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md).
+2. Read [01](../04%20Synthesis%20Documents/01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md).
 3. Read the continuous synthesis.
-4. Use [19](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md) to identify where later volumes changed earlier models.
+4. Use [19](../04%20Synthesis%20Documents/19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md) to identify where later volumes changed earlier models.
 
 This path best preserves discovery and uncertainty.
 
@@ -886,88 +886,88 @@ This path best preserves discovery and uncertainty.
 
 ### Sakuta
 
-- [02 — Sakuta](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
-- [13 — Ethics and Intervention](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md)
-- [14 — Ordinary Adulthood](14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md)
-- [15 — Japanese Voice](15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
+- [02 — Sakuta](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
+- 13 — Ethics and Intervention _(referenced artifact is not present in Git)_
+- [14 — Ordinary Adulthood](../04%20Synthesis%20Documents/14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md)
+- [15 — Japanese Voice](../04%20Synthesis%20Documents/15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
 
 ### Mai
 
-- [03 — Mai](03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
-- [04 — Sakuta/Mai](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
-- [09 — Recognition and Celebrity](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+- [03 — Mai](../04%20Synthesis%20Documents/03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
+- [04 — Sakuta/Mai](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
+- [09 — Recognition and Celebrity](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
 
 ### Kaede and Hanakaede
 
-- [05 — Kaede/Hanakaede](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
-- [10 — Personhood](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
-- [12 — Grief](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
-- [17 — Bonuses](17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
+- [05 — Kaede/Hanakaede](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
+- [10 — Personhood](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
+- [12 — Grief](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
+- [17 — Bonuses](../04%20Synthesis%20Documents/17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
 
 ### Shoko
 
-- [06 — Shoko](06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
-- [11 — Time and Possible Worlds](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
-- [13 — Ethics](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md)
+- [06 — Shoko](../04%20Synthesis%20Documents/06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
+- [11 — Time and Possible Worlds](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
+- 13 — Ethics _(referenced artifact is not present in Git)_
 
 ### Other title heroines and ensemble
 
-- [07 — Title Heroines and Ensemble](07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
+- [07 — Title Heroines and Ensemble](../04%20Synthesis%20Documents/07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
 - then the relevant local volume reading.
 
 ## 13.5 Romance path
 
-1. [04 — Sakuta and Mai](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
-2. [03 — Mai](03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
-3. [02 — Sakuta](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
-4. [13 — Ethics, Privacy, and Self-Sacrifice](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md)
-5. [15 — Dialogue and Voice](15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
+1. [04 — Sakuta and Mai](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
+2. [03 — Mai](../04%20Synthesis%20Documents/03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
+3. [02 — Sakuta](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
+4. 13 — Ethics, Privacy, and Self-Sacrifice _(referenced artifact is not present in Git)_
+5. [15 — Dialogue and Voice](../04%20Synthesis%20Documents/15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
 
 This path treats the relationship as more than rescue chemistry or endgame status.
 
 ## 13.6 Identity and personhood path
 
-1. [10 — Memory, Body, Name, Role, and Personhood](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
-2. [05 — Kaede/Hanakaede](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
-3. [08 — Syndrome Typology](08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md)
-4. [09 — Recognition and Public Identity](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
-5. [11 — Possible Worlds](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
-6. [12 — Grief and Remembrance](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
+1. [10 — Memory, Body, Name, Role, and Personhood](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
+2. [05 — Kaede/Hanakaede](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
+3. 08 — Syndrome Typology _(referenced artifact is not present in Git)_
+4. [09 — Recognition and Public Identity](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+5. [11 — Possible Worlds](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
+6. [12 — Grief and Remembrance](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
 
 ## 13.7 Phenomenon-mechanics path
 
-1. [08 — Adolescence Syndrome Typology](08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md)
-2. [11 — Time, Dreams, and Worlds](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
-3. [09 — Recognition](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
-4. [World-State Ledger](ledgers/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md)
-5. [Syndrome Ledger](ledgers/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md)
-6. [18 — Residual Metaphysics](18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
+1. 08 — Adolescence Syndrome Typology _(referenced artifact is not present in Git)_
+2. [11 — Time, Dreams, and Worlds](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
+3. [09 — Recognition](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+4. [World-State Ledger](../03%20Longitudinal%20Analysis/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md)
+5. [Syndrome Ledger](../03%20Longitudinal%20Analysis/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md)
+6. [18 — Residual Metaphysics](../04%20Synthesis%20Documents/18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
 
 This path is the best defense against forcing every case into one rule.
 
 ## 13.8 Ethics path
 
-1. [13 — Ethics, Autonomy, Privacy, Self-Sacrifice, Intervention, and Care](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md)
-2. [02 — Sakuta](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
-3. [04 — Sakuta/Mai](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
-4. [06 — Shoko](06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
-5. [12 — Grief](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
-6. [14 — Institutions and Adulthood](14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md)
-7. [Intervention Ledger](ledgers/AOBUTA_INTERVENTION_CARE_AND_BOUNDARY_LEDGER_FINAL.md)
+1. 13 — Ethics, Autonomy, Privacy, Self-Sacrifice, Intervention, and Care _(referenced artifact is not present in Git)_
+2. [02 — Sakuta](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
+3. [04 — Sakuta/Mai](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
+4. [06 — Shoko](../04%20Synthesis%20Documents/06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
+5. [12 — Grief](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
+6. [14 — Institutions and Adulthood](../04%20Synthesis%20Documents/14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md)
+7. [Intervention Ledger](../03%20Longitudinal%20Analysis/AOBUTA_INTERVENTION_CARE_AND_BOUNDARY_LEDGER_FINAL.md)
 
 ## 13.9 Language and form path
 
-1. [15 — Japanese Narration, Voice, Humor, Titles, and Dialogue](15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
-2. [16 — Place, Season, Object, Motif, and Visual Paratext](16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md)
-3. [17 — Bonus Provenance](17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
-4. [21 — Japanese Passage Index](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
+1. [15 — Japanese Narration, Voice, Humor, Titles, and Dialogue](../04%20Synthesis%20Documents/15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
+2. [16 — Place, Season, Object, Motif, and Visual Paratext](../04%20Synthesis%20Documents/16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md)
+3. [17 — Bonus Provenance](../04%20Synthesis%20Documents/17_BONUS_NOVELS_PUBLICATION_POSITION_STORY_POSITION_AND_RETROSPECTIVE_INTERPOLATION.md)
+4. [21 — Japanese Passage Index](../04%20Synthesis%20Documents/21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
 
 ## 13.10 Evidence and provenance path
 
-1. [19 — Claim Revision](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
-2. [20 — Artifact and Evidence Index](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
-3. [21 — Japanese Passage Index](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
-4. [Source Inventory](SOURCE_INVENTORY.md)
+1. [19 — Claim Revision](../04%20Synthesis%20Documents/19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
+2. [20 — Artifact and Evidence Index](../04%20Synthesis%20Documents/20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
+3. [21 — Japanese Passage Index](../04%20Synthesis%20Documents/21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
+4. [Source Inventory](../06%20Archive/SOURCE_INVENTORY.md)
 5. the relevant volume artifact;
 6. the locator ledger;
 7. the original Japanese EPUB when reintroduced for verification.
@@ -996,10 +996,10 @@ Claim:
 Route:
 
 1. [AOBUTA_FULL_SERIES_SYNTHESIS.md](AOBUTA_FULL_SERIES_SYNTHESIS.md)
-2. [02 — Sakuta](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
-3. [09 — Recognition](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
-4. [19 — claim revision entry concerning recognition without sight](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
-5. [20 — Volume 15 route](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
+2. [02 — Sakuta](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
+3. [09 — Recognition](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+4. [19 — claim revision entry concerning recognition without sight](../04%20Synthesis%20Documents/19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
+5. [20 — Volume 15 route](../04%20Synthesis%20Documents/20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
 6. `volumes/AOBUTA_V15_DEEP_READING.md`
 7. Volume-15 evidence entry anchored to:
    - `僕には見えない`
@@ -1014,12 +1014,12 @@ Claim:
 
 Route:
 
-1. [09 — Recognition](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
-2. [19 — relevant claim revision entry](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
-3. [20 — V01 entry](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
+1. [09 — Recognition](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+2. [19 — relevant claim revision entry](../04%20Synthesis%20Documents/19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
+3. [20 — V01 entry](../04%20Synthesis%20Documents/20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
 4. `volumes/AOBUTA_V01_DEEP_READING.md`
 5. V01 `BF###` route in:
-   - [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)
+   - [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)
 6. original Volume-1 Japanese EPUB anchor.
 
 ## 14.3 Retrieval by question type
@@ -1086,7 +1086,7 @@ When reading a non-primary document, expect:
 
 The final primary-home map is preserved in:
 
-- [Cross-Document Refinement and Duplication Audit](CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md)
+- Cross-Document Refinement and Duplication Audit _(referenced artifact is not present in Git)_
 
 ---
 
@@ -1171,7 +1171,7 @@ The ending's ethical function does not require the ontology to be closed.
 
 For the full adversarial and residual-metaphysics register, read:
 
-- [18 — Comparative Matrices, Counterreadings, and Residual Metaphysics](18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
+- [18 — Comparative Matrices, Counterreadings, and Residual Metaphysics](../04%20Synthesis%20Documents/18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
 
 ---
 
@@ -1234,36 +1234,36 @@ For a reader who wants the strongest single statement of the project:
 
 For a reader who wants the series' complete architecture:
 
-1. [01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md](01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
+1. [01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md](../04%20Synthesis%20Documents/01_SERIES_ARCHITECTURE_PHASES_AND_RETROSPECTIVE_PROGRESSION.md)
 
 For a reader most interested in the final philosophical claim:
 
-1. [09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
-2. [02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
+1. [09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+2. [02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
 3. Volume 15 deep reading.
 
 For a reader most interested in the hardest identity problem:
 
-1. [05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
-2. [10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
+1. [05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
+2. [10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
 
 For a reader most interested in metaphysics:
 
-1. [08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md](08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md)
-2. [11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
-3. [18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md](18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
+1. 08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md _(referenced artifact is not present in Git)_
+2. [11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
+3. [18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md](../04%20Synthesis%20Documents/18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
 
 For a reader most interested in grief:
 
-1. [12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
-2. [05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
+1. [12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
+2. [05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
 3. Volumes 14–15.
 
 For a reader most interested in source auditability:
 
-1. [19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
-2. [20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
-3. [21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
+1. [19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md](../04%20Synthesis%20Documents/19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
+2. [20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md](../04%20Synthesis%20Documents/20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
+3. [21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md](../04%20Synthesis%20Documents/21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
 
 ---
 
@@ -1331,54 +1331,54 @@ And when a person reports a reality that cannot yet be explained, begin by treat
 
 | # | Document | Use |
 |---:|---|---|
-| 19 | [`LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER`](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md) | tracks forty major claims from first formulation through later evidence, correction, counterevidence, and final status |
-| 20 | [`VOLUME_ARTIFACT_AND_EVIDENCE_INDEX`](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md) | routes a full-series claim to the correct local artifact, evidence IDs, locator status, source checksum, and retrospective-correction links |
-| 21 | [`JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX`](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md) | controls high-value Japanese phrases, speakers, locators, working translations, ambiguities, and specialist destinations |
+| 19 | [`LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER`](../04%20Synthesis%20Documents/19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md) | tracks forty major claims from first formulation through later evidence, correction, counterevidence, and final status |
+| 20 | [`VOLUME_ARTIFACT_AND_EVIDENCE_INDEX`](../04%20Synthesis%20Documents/20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md) | routes a full-series claim to the correct local artifact, evidence IDs, locator status, source checksum, and retrospective-correction links |
+| 21 | [`JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX`](../04%20Synthesis%20Documents/21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md) | controls high-value Japanese phrases, speakers, locators, working translations, ambiguities, and specialist destinations |
 
 Document 21 is a controlled high-value index, not a complete concordance of every repeated word in the novels.
 
 ## 12.2 Longitudinal ledgers
 
-### [`ledgers/AOBUTA_CHARACTER_STATE_LEDGER_FINAL.md`](ledgers/AOBUTA_CHARACTER_STATE_LEDGER_FINAL.md)
+### [`ledgers/AOBUTA_CHARACTER_STATE_LEDGER_FINAL.md`](../03%20Longitudinal%20Analysis/AOBUTA_CHARACTER_STATE_LEDGER_FINAL.md)
 
 Tracks initial state, genuine development, revelations, recognition changes, identity changes, relationship changes, and final state for the central cast.
 
-### [`ledgers/AOBUTA_RELATIONSHIP_LEDGER_FINAL.md`](ledgers/AOBUTA_RELATIONSHIP_LEDGER_FINAL.md)
+### [`ledgers/AOBUTA_RELATIONSHIP_LEDGER_FINAL.md`](../03%20Longitudinal%20Analysis/AOBUTA_RELATIONSHIP_LEDGER_FINAL.md)
 
 Tracks origin, asymmetry, privacy, refusal capacity, protection, dependency, reciprocity, ordinary continuity, crisis function, and final state for major relationships.
 
-### [`ledgers/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md`](ledgers/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md)
+### [`ledgers/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md`](../03%20Longitudinal%20Analysis/AOBUTA_ADOLESCENCE_SYNDROME_LEDGER_FINAL.md)
 
 Tracks literal manifestation, trigger/context, observer condition, memory effect, social-recognition effect, proposed mechanism, resolution, and residual ambiguity for each major case.
 
-### [`ledgers/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md`](ledgers/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md)
+### [`ledgers/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md`](../03%20Longitudinal%20Analysis/AOBUTA_WORLD_STATE_AND_TEMPORAL_LEDGER_FINAL.md)
 
 Tracks world/state definitions, entry and exit conditions, observer continuity, altered biographies, and ethical significance.
 
-### [`ledgers/AOBUTA_RECOGNITION_AND_OBSERVER_LEDGER_FINAL.md`](ledgers/AOBUTA_RECOGNITION_AND_OBSERVER_LEDGER_FINAL.md)
+### `ledgers/AOBUTA_RECOGNITION_AND_OBSERVER_LEDGER_FINAL.md` _(referenced artifact is not present in Git)_
 
 Tracks who can see, remember, recognize, name, or socially count whom across the series.
 
-### [`ledgers/AOBUTA_INTERVENTION_CARE_AND_BOUNDARY_LEDGER_FINAL.md`](ledgers/AOBUTA_INTERVENTION_CARE_AND_BOUNDARY_LEDGER_FINAL.md)
+### [`ledgers/AOBUTA_INTERVENTION_CARE_AND_BOUNDARY_LEDGER_FINAL.md`](../03%20Longitudinal%20Analysis/AOBUTA_INTERVENTION_CARE_AND_BOUNDARY_LEDGER_FINAL.md)
 
 Tracks intervention method, benefit, privacy or consent cost, helper risk, agency preserved, institutional support, and retrospective ethical status.
 
-### [`ledgers/AOBUTA_OBJECT_PLACE_AND_MEMORY_LEDGER_FINAL.md`](ledgers/AOBUTA_OBJECT_PLACE_AND_MEMORY_LEDGER_FINAL.md)
+### [`ledgers/AOBUTA_OBJECT_PLACE_AND_MEMORY_LEDGER_FINAL.md`](../03%20Longitudinal%20Analysis/AOBUTA_OBJECT_PLACE_AND_MEMORY_LEDGER_FINAL.md)
 
 Tracks notebooks, photographs, passes, rings, trophies, diaries, scars, songs, phones, and recurring locations as material memory structures.
 
-### [`ledgers/AOBUTA_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md`](ledgers/AOBUTA_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md)
+### [`ledgers/AOBUTA_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md`](../03%20Longitudinal%20Analysis/AOBUTA_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md)
 
 The detailed Phase-1 control layer behind the reader-facing Document 19.
 
 ## 12.3 Support layer
 
-- [`support/PHASE8_FINAL_VERIFICATION_SUMMARY.json`](support/PHASE8_FINAL_VERIFICATION_SUMMARY.json) — current machine-readable Phase-8 verification state.
-- [`support/CORPUS_INDEX.json`](support/CORPUS_INDEX.json) — authoritative machine-readable final corpus index.
-- [`support/LONGITUDINAL_THREAD_REGISTRY.md`](support/LONGITUDINAL_THREAD_REGISTRY.md) — stable thread IDs used across metadata.
-- [`support/LOCATOR_MAP.md`](support/LOCATOR_MAP.md) — locator conventions and navigation.
+- `support/PHASE8_FINAL_VERIFICATION_SUMMARY.json` _(referenced artifact is not present in Git)_ — current machine-readable Phase-8 verification state.
+- [`support/CORPUS_INDEX.json`](../06%20Archive/Corpus_Index.json) — authoritative machine-readable final corpus index.
+- `support/LONGITUDINAL_THREAD_REGISTRY.md` _(referenced artifact is not present in Git)_ — stable thread IDs used across metadata.
+- `support/LOCATOR_MAP.md` _(referenced artifact is not present in Git)_ — locator conventions and navigation.
 - `support/PHASE8_*.json` / `support/PHASE8_*.md` — machine-readable and human-readable Japanese-verification records.
-- [`CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md`](CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md) — prose-overlap and primary-home audit.
+- `CROSS_DOCUMENT_REFINEMENT_AND_DUPLICATION_AUDIT.md` _(referenced artifact is not present in Git)_ — prose-overlap and primary-home audit.
 
 ---
 
@@ -1388,23 +1388,23 @@ The table below gives the local thesis of each immutable sequential artifact. Th
 
 | Code | Artifact | Local governing thesis |
 |---|---|---|
-| `V01` | [`AOBUTA_V01_DEEP_READING.md`](volumes/AOBUTA_V01_DEEP_READING.md) | Attention is not recognition; the opposite of social erasure is not celebrity but being known as a subject. |
-| `V02` | [`AOBUTA_V02_DEEP_READING.md`](volumes/AOBUTA_V02_DEEP_READING.md) | A deliberately made self can be real, but self-fashioning fails when it eliminates every socially risky desire or conflict. |
-| `V03` | [`AOBUTA_V03_DEEP_READING.md`](volumes/AOBUTA_V03_DEEP_READING.md) | Integration does not require loving every part of oneself; it requires ceasing to treat an unwanted part as a stranger with no right to exist. |
-| `V04` | [`AOBUTA_V04_DEEP_READING.md`](volumes/AOBUTA_V04_DEEP_READING.md) | Selfhood under comparison requires differentiation rather than victory, and attachment can survive envy, resentment, dislike, and admiration. |
-| `V05` | [`AOBUTA_V05_DEEP_READING.md`](volumes/AOBUTA_V05_DEEP_READING.md) | Medical or mnemonic recovery can be genuine and still constitute bereavement; the oldest autobiography in a body is not the only possible real person. |
-| `V06` | [`AOBUTA_V06_DEEP_READING.md`](volumes/AOBUTA_V06_DEEP_READING.md) | Self-sacrifice is not automatically more moral because the sacrificed life is one's own; Sakuta's desire to live has standing. |
-| `V07` | [`AOBUTA_V07_DEEP_READING.md`](volumes/AOBUTA_V07_DEEP_READING.md) | Choosing survival does not make the outcome morally pure; interdependence permits life without converting love into unilateral martyrdom. |
-| `V08` | [`AOBUTA_V08_DEEP_READING.md`](volumes/AOBUTA_V08_DEEP_READING.md) | A life inherited from another person is not a debt that must be repaid by becoming them; humane inheritance enlarges freedom. |
-| `V09` | [`AOBUTA_V09_DEEP_READING.md`](volumes/AOBUTA_V09_DEEP_READING.md) | A repaired family is not the old family restored, but a new relationship built by people changed by rupture. |
-| `BONUS01` | [`AOBUTA_BONUS01_ANIMAL_LAND_DEEP_READING.md`](volumes/AOBUTA_BONUS01_ANIMAL_LAND_DEEP_READING.md) | Once Hanakaede no longer believes she must become Kaede, she becomes free to want to know Kaede; differentiation makes remembrance safer. |
-| `BONUS02` | [`AOBUTA_BONUS02_SPRING_DAYS_DEEP_READING.md`](volumes/AOBUTA_BONUS02_SPRING_DAYS_DEEP_READING.md) | Autonomy is not independence from support; recovery is increased range, self-authored limits, and the ability to turn received care outward. |
-| `V10` | [`AOBUTA_V10_DEEP_READING.md`](volumes/AOBUTA_V10_DEEP_READING.md) | Empathy is not conformity; social knowledge becomes destructive when the anonymous social average gains jurisdiction over the self. |
-| `V11` | [`AOBUTA_V11_DEEP_READING.md`](volumes/AOBUTA_V11_DEEP_READING.md) | Goodness becomes dangerous when it is the only self a person can tolerate being; care should remain an action rather than a compulsory identity. |
-| `V12` | [`AOBUTA_V12_DEEP_READING.md`](volumes/AOBUTA_V12_DEEP_READING.md) | Love and care are not proven by knowing, possessing, or being needed by another person; relationship requires opacity and refusal capacity. |
-| `V13` | [`AOBUTA_V13_DEEP_READING.md`](volumes/AOBUTA_V13_DEEP_READING.md) | A self can be socially made without being fake, but a prestige role becomes annihilating when it requires the person's biography to disappear. |
-| `V14` | [`AOBUTA_V14_DEEP_READING.md`](volumes/AOBUTA_V14_DEEP_READING.md) | A desirable possibility is not automatically the reality one has the right to keep; counterfactual goods have standing without total jurisdiction. |
-| `V15` | [`AOBUTA_V15_DEEP_READING.md`](volumes/AOBUTA_V15_DEEP_READING.md) | Growing up does not require declaring adolescent experience unreal; the phenomenon can become memory, ethical knowledge, and belief without shared perception. |
+| `V01` | [`AOBUTA_V01_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V01_DEEP_READING.md) | Attention is not recognition; the opposite of social erasure is not celebrity but being known as a subject. |
+| `V02` | [`AOBUTA_V02_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V02_DEEP_READING.md) | A deliberately made self can be real, but self-fashioning fails when it eliminates every socially risky desire or conflict. |
+| `V03` | [`AOBUTA_V03_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V03_DEEP_READING.md) | Integration does not require loving every part of oneself; it requires ceasing to treat an unwanted part as a stranger with no right to exist. |
+| `V04` | `AOBUTA_V04_DEEP_READING.md` _(referenced artifact is not present in Git)_ | Selfhood under comparison requires differentiation rather than victory, and attachment can survive envy, resentment, dislike, and admiration. |
+| `V05` | [`AOBUTA_V05_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V05_DEEP_READING.md) | Medical or mnemonic recovery can be genuine and still constitute bereavement; the oldest autobiography in a body is not the only possible real person. |
+| `V06` | [`AOBUTA_V06_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V06_DEEP_READING.md) | Self-sacrifice is not automatically more moral because the sacrificed life is one's own; Sakuta's desire to live has standing. |
+| `V07` | [`AOBUTA_V07_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V07_DEEP_READING.md) | Choosing survival does not make the outcome morally pure; interdependence permits life without converting love into unilateral martyrdom. |
+| `V08` | [`AOBUTA_V08_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V08_DEEP_READING.md) | A life inherited from another person is not a debt that must be repaid by becoming them; humane inheritance enlarges freedom. |
+| `V09` | [`AOBUTA_V09_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V09_DEEP_READING.md) | A repaired family is not the old family restored, but a new relationship built by people changed by rupture. |
+| `BONUS01` | `AOBUTA_BONUS01_ANIMAL_LAND_DEEP_READING.md` _(referenced artifact is not present in Git)_ | Once Hanakaede no longer believes she must become Kaede, she becomes free to want to know Kaede; differentiation makes remembrance safer. |
+| `BONUS02` | `AOBUTA_BONUS02_SPRING_DAYS_DEEP_READING.md` _(referenced artifact is not present in Git)_ | Autonomy is not independence from support; recovery is increased range, self-authored limits, and the ability to turn received care outward. |
+| `V10` | [`AOBUTA_V10_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V10_DEEP_READING.md) | Empathy is not conformity; social knowledge becomes destructive when the anonymous social average gains jurisdiction over the self. |
+| `V11` | [`AOBUTA_V11_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V11_DEEP_READING.md) | Goodness becomes dangerous when it is the only self a person can tolerate being; care should remain an action rather than a compulsory identity. |
+| `V12` | [`AOBUTA_V12_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V12_DEEP_READING.md) | Love and care are not proven by knowing, possessing, or being needed by another person; relationship requires opacity and refusal capacity. |
+| `V13` | [`AOBUTA_V13_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V13_DEEP_READING.md) | A self can be socially made without being fake, but a prestige role becomes annihilating when it requires the person's biography to disappear. |
+| `V14` | [`AOBUTA_V14_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V14_DEEP_READING.md) | A desirable possibility is not automatically the reality one has the right to keep; counterfactual goods have standing without total jurisdiction. |
+| `V15` | `AOBUTA_V15_DEEP_READING.md` _(referenced artifact is not present in Git)_ | Growing up does not require declaring adolescent experience unreal; the phenomenon can become memory, ethical knowledge, and belief without shared perception. |
 
 For each artifact's source filename, checksum, local threads, evidence system, key IDs, locator status, and later correction links, use Document 20.
 
@@ -1444,18 +1444,18 @@ Best for studying hindsight, late interpolation, and publication-era expectation
 
 ## 14.4 Sakuta path
 
-1. [`02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md`](02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
-2. [`13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md`](13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md)
-3. [`14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md`](14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md)
+1. [`02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md`](../04%20Synthesis%20Documents/02_SAKUTA_RECOGNITION_INTERVENTION_IDENTITY_AND_ADULTHOOD.md)
+2. `13_ETHICS_AUTONOMY_PRIVACY_SELF_SACRIFICE_INTERVENTION_AND_CARE.md` _(referenced artifact is not present in Git)_
+3. [`14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md`](../04%20Synthesis%20Documents/14_ORDINARY_LIFE_FAMILY_SCHOOL_WORK_INSTITUTIONS_AND_ADULTHOOD.md)
 4. Recognition ledger.
 5. Intervention ledger.
 6. Final synthesis Parts I, III, VII, and VIII.
 
 ## 14.5 Mai path
 
-1. [`03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md`](03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
-2. [`04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md`](04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
-3. [`09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md`](09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
+1. [`03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md`](../04%20Synthesis%20Documents/03_MAI_VISIBILITY_VOCATION_PERSONHOOD_AND_COPROTAGONIST_ROLE.md)
+2. [`04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md`](../04%20Synthesis%20Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY_SHARED_REALITY_AND_FUTURE.md)
+3. [`09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md`](../04%20Synthesis%20Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md)
 4. Volume 1, Volume 4, Volumes 6–7, Volume 9, Volumes 13–15.
 
 Best for reading Mai as co-protagonist rather than only principal love interest.
@@ -1473,9 +1473,9 @@ Best for reading Mai as co-protagonist rather than only principal love interest.
 1. Volumes 5, 8, and 9.
 2. *Animal Land*.
 3. *Spring Days*.
-4. [`05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md`](05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
-5. [`12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md`](12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
-6. [`10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md`](10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
+4. [`05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md`](../04%20Synthesis%20Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md)
+5. [`12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md`](../04%20Synthesis%20Documents/12_GRIEF_CONTINUING_BONDS_DEATH_IRREVERSIBILITY_AND_REMEMBRANCE.md)
+6. [`10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md`](../04%20Synthesis%20Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md)
 7. Object/place ledger.
 
 ## 14.8 Shoko, survival, and donation path
@@ -1483,13 +1483,13 @@ Best for reading Mai as co-protagonist rather than only principal love interest.
 1. Volumes 6–7.
 2. Volume 9 where relevant.
 3. Volumes 14–15.
-4. [`06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md`](06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
-5. [`11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md`](11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
+4. [`06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md`](../04%20Synthesis%20Documents/06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md)
+5. [`11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md`](../04%20Synthesis%20Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md)
 6. Document 12.
 
 ## 14.9 Title heroines and ensemble path
 
-1. [`07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md`](07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
+1. [`07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md`](../04%20Synthesis%20Documents/07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md)
 2. Character-state ledger.
 3. Relationship ledger.
 4. Sequential artifacts for the character of interest.
@@ -1499,7 +1499,7 @@ This path is especially useful for testing whether the series outgrows the limit
 
 ## 14.10 Adolescence Syndrome mechanics path
 
-1. [`08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md`](08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md)
+1. `08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md` _(referenced artifact is not present in Git)_
 2. Syndrome ledger.
 3. World-state ledger.
 4. Document 11.
@@ -1557,9 +1557,9 @@ This path is especially useful for testing whether the series outgrows the limit
 
 ## 14.17 Japanese language and formal path
 
-1. [`15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md`](15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
-2. [`21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md`](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
-3. [`16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md`](16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md)
+1. [`15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md`](../04%20Synthesis%20Documents/15_JAPANESE_NARRATION_CHARACTER_VOICE_HUMOR_TITLES_AND_DIALOGUE.md)
+2. [`21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md`](../04%20Synthesis%20Documents/21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)
+3. [`16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md`](../04%20Synthesis%20Documents/16_PLACE_SEASON_OBJECT_MOTIF_AND_VISUAL_PARATEXT.md)
 4. The relevant volume's illustration and locator ledgers.
 
 ## 14.18 Adversarial or skeptical path
@@ -1661,11 +1661,11 @@ should route through:
 
 ## 15.6 Checksum verification
 
-- Final source-object identity record: [`SOURCE_CHECKSUMS.sha256`](SOURCE_CHECKSUMS.sha256). Phase 9 revalidated all 17 source EPUBs against SHA-256, byte size, and ZIP/CRC integrity before packaging.
-- Final artifact lock: [`ARTIFACT_CHECKSUMS.sha256`](ARTIFACT_CHECKSUMS.sha256). It covers every file inside the immutable release directory except the checksum inventory itself.
-- Final human-readable inventory: [`CORPUS_MANIFEST.md`](CORPUS_MANIFEST.md).
-- Final machine-readable inventory: [`support/CORPUS_INDEX.json`](support/CORPUS_INDEX.json).
-- Final delivery audit: [`DELIVERY_AUDIT.md`](DELIVERY_AUDIT.md).
+- Final source-object identity record: `SOURCE_CHECKSUMS.sha256` _(referenced artifact is not present in Git)_. Phase 9 revalidated all 17 source EPUBs against SHA-256, byte size, and ZIP/CRC integrity before packaging.
+- Final artifact lock: `ARTIFACT_CHECKSUMS.sha256` _(referenced artifact is not present in Git)_. It covers every file inside the immutable release directory except the checksum inventory itself.
+- Final human-readable inventory: [`CORPUS_MANIFEST.md`](../06%20Archive/CORPUS_MANIFEST.md).
+- Final machine-readable inventory: [`support/CORPUS_INDEX.json`](../06%20Archive/Corpus_Index.json).
+- Final delivery audit: `DELIVERY_AUDIT.md` _(referenced artifact is not present in Git)_.
 - The delivery ZIP receives a separate external SHA-256 file and is not self-hashed from inside the archive.
 
 ---
@@ -1833,7 +1833,7 @@ The supplied electronic bonus dates are controlled. Exact first physical theatri
 
 The primary residual-metaphysics home is:
 
-> [`18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md`](18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
+> [`18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md`](../04%20Synthesis%20Documents/18_COMPARATIVE_MATRICES_COUNTERREADINGS_AND_RESIDUAL_METAPHYSICS.md)
 
 ---
 
@@ -1865,7 +1865,7 @@ The primary residual-metaphysics home is:
 
 ### Phase 8 — final Japanese verification — **complete**
 
-Phase 8 source-verified the high-value Japanese language layer, repaired provenance and attribution errors, and preserved the distinction between character theories and narrator-certified facts. It produced no reversal of the mature full-series thesis. See [`PHASE8_FINAL_JAPANESE_VERIFICATION_REPORT.md`](PHASE8_FINAL_JAPANESE_VERIFICATION_REPORT.md).
+Phase 8 source-verified the high-value Japanese language layer, repaired provenance and attribution errors, and preserved the distinction between character theories and narrator-certified facts. It produced no reversal of the mature full-series thesis. See `PHASE8_FINAL_JAPANESE_VERIFICATION_REPORT.md` _(referenced artifact is not present in Git)_.
 
 ### Phase 9 — final archival delivery — **complete**
 

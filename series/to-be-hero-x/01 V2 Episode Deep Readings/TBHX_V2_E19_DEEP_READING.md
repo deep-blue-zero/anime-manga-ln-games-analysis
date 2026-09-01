@@ -5,30 +5,30 @@ scope: E19
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 19 analytical bundle; S01E01-S01E19 broadcast knowledge only; sponsor interstitial and explicit E20 preview excluded from diegetic evidence"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 19 analytical bundle; S01E01-S01E19 broadcast knowledge only; sponsor interstitial and explicit E20 preview excluded from diegetic evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 19 Deep Reading"
+title: To Be Hero X V2 — Episode 19 Deep Reading
 season: 1
 episode: 19
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e19_screenshots.zip"
-source_bundle_sha256: "2a38f0db7d5d4283b4882db2adb5b34a73a24210f08be634847802676026edf1"
+analysis_version: '2.0'
+source_bundle: BHX_s01e19_screenshots.zip
+source_bundle_sha256: 2a38f0db7d5d4283b4882db2adb5b34a73a24210f08be634847802676026edf1
 source_bundle_bytes: 191862242
 archive_member_count: 900
 source_duration_seconds: 1520.682333
-program_start_seconds: 32.250
-analysis_start_seconds: 32.000
+program_start_seconds: 32.25
+analysis_start_seconds: 32.0
 mandarin_cue_count_total: 301
 mandarin_cue_count_before_preview: 289
 diegetic_mandarin_cue_count: 285
-sponsor_interstitial_cue_range_excluded: "CN 200-203"
-sponsor_interstitial_visual_range_seconds: "874.208-890.000"
-preview_cue_range_excluded: "CN 290-301"
+sponsor_interstitial_cue_range_excluded: CN 200-203
+sponsor_interstitial_visual_range_seconds: 874.208-890.000
+preview_cue_range_excluded: CN 290-301
 preview_title_card_start_seconds: 1464.667
-preview_dialogue_start_seconds: 1471.000
+preview_dialogue_start_seconds: 1471.0
 mandarin_ocr_mean_confidence: 0.993487
 mandarin_ocr_median_confidence: 0.998814
 mandarin_ocr_min_confidence: 0.900366
@@ -43,13 +43,13 @@ kept_screenshot_count: 841
 scene_segment_count: 32
 shot_change_count: 322
 shot_segment_count: 288
-spoiler_boundary: "S01E01-S01E19 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
-visual_appendix: "TBHX_V2_E19_VISUAL_MICROSEQUENCE_LEDGER.md"
-naming_authority: "TBHX_NAME_LOCALIZATION_CROSSWALK.md v1.0 through E18; E19 identity ambiguities preserved prospectively"
+spoiler_boundary: S01E01-S01E19 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
+visual_appendix: TBHX_V2_E19_VISUAL_MICROSEQUENCE_LEDGER.md
+naming_authority: TBHX_NAME_LOCALIZATION_CROSSWALK.md v1.0 through E18; E19 identity ambiguities preserved prospectively
 ---
 
 # To Be Hero X V2 — Episode 19 Deep Reading

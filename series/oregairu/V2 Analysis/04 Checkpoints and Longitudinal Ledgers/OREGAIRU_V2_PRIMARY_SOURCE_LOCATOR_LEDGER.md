@@ -6,12 +6,12 @@ generation: V2
 status: canonical
 lifecycle: phase4_frozen
 canonical_name: OREGAIRU_V2_PRIMARY_SOURCE_LOCATOR_LEDGER.md
-source_boundary: "Canonical Japanese-primary Oregairu V2 corpus through Volume 14.5, including chronology-routed Watari-authored supplementary material already admitted by the corpus map; excludes Shin, Ketsu, unaudited anthology story content, and adaptation-only evidence"
-supersedes: null
-superseded_by: null
+source_boundary: Canonical Japanese-primary Oregairu V2 corpus through Volume 14.5, including chronology-routed Watari-authored supplementary material already admitted by the corpus map; excludes Shin, Ketsu, unaudited anthology story content, and adaptation-only evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-16"
-next_artifact: "OREGAIRU_V2_V1_TO_V2_REVISION_LEDGER.md"
+created: '2026-08-16'
+next_artifact: OREGAIRU_V2_V1_TO_V2_REVISION_LEDGER.md
 ---
 
 # OREGAIRU V2 — Primary Source Locator Ledger

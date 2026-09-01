@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_HANAMI_UME_DIALOGUE_AND_VOICE_ACTING
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Complete acted Dear 001-037 plus five complete song communications; exact wording controlled by Source Lock 1.0; no isolated voice stems"
-supersedes: null
-superseded_by: null
+source_boundary: Complete acted Dear 001-037 plus five complete song communications; exact wording controlled by Source Lock 1.0; no isolated voice stems
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-19"
-title: "Hanami Ume Dialogue and Voice-Acting Close Reading"
+last_updated: '2026-08-19'
+title: Hanami Ume Dialogue and Voice-Acting Close Reading
 ---
 
 # GKM — HANAMI UME DIALOGUE AND VOICE-ACTING CLOSE READING

@@ -4,20 +4,24 @@ artifact_type: character_monograph
 scope: TAKAO_30311
 generation: V1
 status: canonical
-source_boundary: "Pinned Azur Lane multilingual extracted character corpus plus completed Dorm3D/Island source augmentation and canonical JP performed-voice acoustic specialist; semantic reconstruction governed by CN origin mode with JP/EN/TW/KR as regional witnesses"
+source_boundary: Pinned Azur Lane multilingual extracted character corpus plus completed Dorm3D/Island source augmentation and canonical JP performed-voice acoustic specialist; semantic reconstruction governed by CN origin mode with JP/EN/TW/KR as regional witnesses
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
-source_build_id: "AZL-2026-08-22-4cca5c24-cc8e9fdf"
+method_version: 1.0.0
+source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 performed_voice_status: acoustic_resolved_perceptual_timbre_open
 promotion_audit: AZUR_LANE_TAKAO_CHARACTER_MONOGRAPH_PROMOTION_AUDIT.md
 voice_specialist: AZUR_LANE_TAKAO_JP_VOICE_PERFORMANCE_PROFILE.md
 archival_state: frozen_v1
-revision_policy: "Frozen after canonical V1 promotion; later substantive corrections require V2 or an explicit superseding artifact"
-promoted_at: "2026-08-23T14:47:00-04:00"
-supersedes: null
-superseded_by: null
+revision_policy: Frozen after canonical V1 promotion; later substantive corrections require V2 or an explicit superseding artifact
+promoted_at: '2026-08-23T14:47:00-04:00'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

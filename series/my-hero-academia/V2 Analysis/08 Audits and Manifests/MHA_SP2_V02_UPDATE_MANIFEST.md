@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: V02_UPDATE
 generation: V2
 status: canonical
-source_boundary: "MHA SP2 corpus state after canonical Volume 2 deep reading"
-supersedes: null
-superseded_by: null
+source_boundary: MHA SP2 corpus state after canonical Volume 2 deep reading
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

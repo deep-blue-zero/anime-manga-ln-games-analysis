@@ -4,18 +4,18 @@ artifact_type: source_delta_ledger
 artifact_role: LEDGER
 scope: LIVE_CORPUS_SOURCE_DELTAS
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
+phase: '2'
 baseline_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
 current_admitted_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Initialized at P2-0 against the frozen Phase-1 source snapshot. No later source snapshot is admitted at creation."
-supersedes: null
-superseded_by: null
+source_boundary: Initialized at P2-0 against the frozen Phase-1 source snapshot. No later source snapshot is admitted at creation.
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: INITIALIZED_NO_POST_BASELINE_DELTA
-created: "2026-08-16"
-updated: "2026-08-16"
+created: '2026-08-16'
+updated: '2026-08-16'
 next_delta_id: IP-DELTA-YYYYMMDD-001
 ---
 

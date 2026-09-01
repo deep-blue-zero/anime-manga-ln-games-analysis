@@ -4,9 +4,9 @@ artifact_type: source_inventory
 scope: E01-E13
 analysis_generation: V2
 status: canonical
-source_boundary: "Inventory of the Girls Band Cry TV-anime analysis bundles in the canonical primary-source Drive folder, cross-checked against the extraction manifest generated 2026-07-28"
-supersedes: null
-superseded_by: null
+source_boundary: Inventory of the Girls Band Cry TV-anime analysis bundles in the canonical primary-source Drive folder, cross-checked against the extraction manifest generated 2026-07-28
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 updated: 2026-08-17

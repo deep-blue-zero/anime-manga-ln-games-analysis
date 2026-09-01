@@ -3,38 +3,38 @@ series: IDOLY_PRIDE
 artifact_type: theme_longitudinal_ledger
 artifact_role: LEDGER
 scope: THEME_AUTONOMY_MANAGEMENT_INTERVENTION_AND_PROFESSIONAL_CARE
-theme: "Autonomy / management / intervention / professional care"
+theme: Autonomy / management / intervention / professional care
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-E-02"
+phase: '2'
+tranche: P2-E-02
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 cross-unit thematic reconstruction of autonomy, management, intervention, and professional care across the frozen 2026-08-13 analytical snapshot. This ledger inherits P2-E-01 and current character, relationship, and unit ledgers. It does not reopen every routed bundle indiscriminately; load-bearing propositions descend through current ledgers to exact source-bundle/story locators. Formal medical, legal, employment-policy, or clinical claims are not inferred beyond the fictional text."
+source_boundary: Phase-2 cross-unit thematic reconstruction of autonomy, management, intervention, and professional care across the frozen 2026-08-13 analytical snapshot. This ledger inherits P2-E-01 and current character, relationship, and unit ledgers. It does not reopen every routed bundle indiscriminately; load-bearing propositions descend through current ledgers to exact source-bundle/story locators. Formal medical, legal, employment-policy, or clinical claims are not inferred beyond the fictional text.
 inherits:
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_THEME_ANSWERABLE_INTERDEPENDENCE_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_MANA_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_RUI_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_RIO_AOI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_HARUKO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_SUNNY_PEACE_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_TSUKI_NO_TEMPEST_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_LIZNOIR_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_TRINITYAILE_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_UNIT_IIIX_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_THEME_ANSWERABLE_INTERDEPENDENCE_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_MANA_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_RUI_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_RIO_AOI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_HARUKO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_SUNNY_PEACE_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_TSUKI_NO_TEMPEST_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_LIZNOIR_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_TRINITYAILE_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_UNIT_IIIX_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-integrity_status: "P2_E_02_AUTONOMY_MANAGEMENT_INTERVENTION_PROFESSIONAL_CARE_COMPLETE"
-created: "2026-08-26"
-updated: "2026-08-26"
-next_operation: "P2-E-03 — IDOLY_PRIDE_V2_THEME_GRIEF_DEATH_MEMORY_INHERITANCE_AND_NON_REPLACEMENT_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+integrity_status: P2_E_02_AUTONOMY_MANAGEMENT_INTERVENTION_PROFESSIONAL_CARE_COMPLETE
+created: '2026-08-26'
+updated: '2026-08-26'
+next_operation: P2-E-03 — IDOLY_PRIDE_V2_THEME_GRIEF_DEATH_MEMORY_INHERITANCE_AND_NON_REPLACEMENT_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — AUTONOMY, MANAGEMENT, INTERVENTION, AND PROFESSIONAL CARE LONGITUDINAL LEDGER

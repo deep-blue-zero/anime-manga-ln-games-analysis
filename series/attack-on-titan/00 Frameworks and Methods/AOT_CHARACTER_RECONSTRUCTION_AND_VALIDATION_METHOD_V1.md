@@ -4,11 +4,11 @@ artifact_type: character_reconstruction_validation_method
 scope: V01-V34_design
 status: canonical
 generation: V2
-version: "1.0"
-date: "2026-08-23"
-source_boundary: "Methodological extension; current analytical corpus V01-V18, complete manga source corpus V01-V34"
-supersedes: null
-superseded_by: null
+version: '1.0'
+date: '2026-08-23'
+source_boundary: Methodological extension; current analytical corpus V01-V18, complete manga source corpus V01-V34
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 parent_method: AOT_ANALYTICAL_METHOD_V2.md
 architecture: AOT_CHARACTER_MODELING_AND_SIMULATION_ARCHITECTURE_V1.md

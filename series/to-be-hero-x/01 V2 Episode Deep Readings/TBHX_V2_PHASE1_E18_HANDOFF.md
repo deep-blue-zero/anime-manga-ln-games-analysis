@@ -4,9 +4,9 @@ artifact_type: handoff
 scope: E18_to_E19_E20
 generation: V2
 status: canonical
-source_boundary: "E01-E18 prospective corpus; E19 and E20 excluded"
-supersedes: null
-superseded_by: null
+source_boundary: E01-E18 prospective corpus; E19 and E20 excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -4,13 +4,13 @@ artifact_type: deep_reading
 scope: V26
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 26 only for prospective pass; frozen V25 observational boundary"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 26 only for prospective pass; frozen V25 observational boundary
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 26 [Japanese].cbz"
-source_drive_id: "1x1Yj25v4Uiq0EJGyAiwDS1a7q7Zemf6i"
-source_sha256: "34787ee2d7ef7e43a4cf57ad169161a9f377ab7b7039b6da971fd33a4dabf2da"
+source_file: One Punch Man - Volume 26 [Japanese].cbz
+source_drive_id: 1x1Yj25v4Uiq0EJGyAiwDS1a7q7Zemf6i
+source_sha256: 34787ee2d7ef7e43a4cf57ad169161a9f377ab7b7039b6da971fd33a4dabf2da
 source_images: 200
 created: 2026-08-28
 ---

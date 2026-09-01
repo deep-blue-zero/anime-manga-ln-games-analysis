@@ -1,33 +1,33 @@
 ---
-series: "MONOGATARI"
-artifact_type: "checkpoint"
-scope: "V14-V19_FINAL_SEASON"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese numbered novel corpus through V19 『続・終物語』; no V20 analytical claims admitted"
-supersedes: null
-superseded_by: null
+series: MONOGATARI
+artifact_type: checkpoint
+scope: V14-V19_FINAL_SEASON
+generation: V2
+status: canonical
+source_boundary: Japanese numbered novel corpus through V19 『続・終物語』; no V20 analytical claims admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V14-V19_FINAL_SEASON_CHECKPOINT"
-version: "1.0"
-date: "2026-08-16"
-checkpoint_type: "season_freeze"
-season: "Final Season"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V14-V19_FINAL_SEASON_CHECKPOINT
+version: '1.0'
+date: '2026-08-16'
+checkpoint_type: season_freeze
+season: Final Season
 volumes:
-  - "V14 『憑物語』"
-  - "V15 『暦物語』"
-  - "V16 『終物語（上）』"
-  - "V17 『終物語（中）』"
-  - "V18 『終物語（下）』"
-  - "V19 『続・終物語』"
-previous_boundary: "V13 『恋物語』"
-next_artifact: "MONOGATARI_V2_V20_DEEP_READING.md"
-next_source: "V20 『愚物語』"
-reasoning_recommendation_used: "GPT-5.6 Sol — Very High"
-governing_method: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-governing_architecture: "MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md"
-live_ledger_boundary: "L01-L09 current through V19"
+- V14 『憑物語』
+- V15 『暦物語』
+- V16 『終物語（上）』
+- V17 『終物語（中）』
+- V18 『終物語（下）』
+- V19 『続・終物語』
+previous_boundary: V13 『恋物語』
+next_artifact: MONOGATARI_V2_V20_DEEP_READING.md
+next_source: V20 『愚物語』
+reasoning_recommendation_used: GPT-5.6 Sol — Very High
+governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
+governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+live_ledger_boundary: L01-L09 current through V19
 freeze_complete: true
 ---
 

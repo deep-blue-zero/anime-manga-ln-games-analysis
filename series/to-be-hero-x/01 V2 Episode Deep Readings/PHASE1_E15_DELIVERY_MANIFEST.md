@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: E15_checkpoint
 generation: V2
 status: canonical
-source_boundary: "V2 Phase 1 frozen through Episode 15; E15 explicit preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: V2 Phase 1 frozen through Episode 15; E15 explicit preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

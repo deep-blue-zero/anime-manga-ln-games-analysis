@@ -3,11 +3,13 @@ project: DJFW
 artifact_type: update_manifest
 scope: architecture_bootstrap
 generation: V1
-status: canonical_for_bootstrap_transaction
+status: historical_legacy
 created: 2026-08-28
-supersedes: null
-superseded_by: null
-do_not_use_as_current_authority: false
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: true
+legacy_supersession_notes:
+- 'legacy authority status: ''canonical_for_bootstrap_transaction'''
 ---
 
 # DJFW_ARCHITECTURE_BOOTSTRAP_UPDATE_MANIFEST.md

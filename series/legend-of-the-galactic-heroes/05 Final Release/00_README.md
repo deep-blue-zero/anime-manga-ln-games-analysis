@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 / Legend of the Galactic Heroes — Complete Full-Series Synthesis"
-subtitle: "Corpus guide, mature thesis, document map, source policy, and reuse instructions"
-version: "1.0"
-date: "2026-08-11"
-source_status_label: "Definitive second-pass synthesis complete"
+title: 銀河英雄伝説 / Legend of the Galactic Heroes — Complete Full-Series Synthesis
+subtitle: Corpus guide, mature thesis, document map, source policy, and reuse instructions
+version: '1.0'
+date: '2026-08-11'
+source_status_label: Definitive second-pass synthesis complete
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_corpus: "田中芳樹『銀河英雄伝説』本伝1–10・外伝1–5"
+primary_corpus: 田中芳樹『銀河英雄伝説』本伝1–10・外伝1–5
 ---
 
 # 銀河英雄伝説 / *Legend of the Galactic Heroes*

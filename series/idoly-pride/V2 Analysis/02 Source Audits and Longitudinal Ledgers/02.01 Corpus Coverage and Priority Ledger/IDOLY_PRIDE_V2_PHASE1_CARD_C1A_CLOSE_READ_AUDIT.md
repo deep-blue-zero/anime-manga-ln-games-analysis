@@ -4,23 +4,23 @@ artifact_type: close_read_audit
 artifact_role: AUDIT
 scope: PHASE1_CARD_C1A
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1"
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Frozen post-B3 authority + seven C1-A raw card bundles; card-only prospective freeze completed before companion-message review; exact companion messages reviewed only after freeze; Tier-H/V1 historical prose consulted only after the prospective freeze. No C1-B, C2, B4, unrelated message, or special claim admitted."
+source_boundary: Frozen post-B3 authority + seven C1-A raw card bundles; card-only prospective freeze completed before companion-message review; exact companion messages reviewed only after freeze; Tier-H/V1 historical prose consulted only after the prospective freeze. No C1-B, C2, B4, unrelated message, or special claim admitted.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B3_BASELINE.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1_CARD_C1A_PRIMARY_FINDINGS_FREEZE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1_LOWER_TIER_CLOSE_READ_QUEUE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: CARD_ONLY_FREEZE_VERIFIED_BEFORE_MESSAGES_AND_TIER_H_COMPARISON
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 Card Close Read — C1-B: relationship and late-state authorship"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: 'Phase 1 Card Close Read — C1-B: relationship and late-state authorship'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 CARD C1-A CLOSE-READ AUDIT

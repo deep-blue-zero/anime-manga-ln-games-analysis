@@ -4,17 +4,17 @@ artifact_type: deep_reading
 scope: V10.5
 generation: V2
 status: canonical
-source_boundary: "Japanese light novel Volume 10.5"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novel Volume 10.5
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-primary_text: "Oregairu - Volume 10.5 [Japanese].epub"
-fixed_page_witness: "(一般小説) やはり俺の青春ラブコメはまちがっている。第10.5巻.pdf"
-primary_text_sha256: "1d2a44ce3d63932d849570834b4248c5674191375af6270c1e26d18ee212e3a5"
-fixed_page_witness_sha256: "4b93d85b0cb00a86185ba00b55781722444f1dd351e766af8481cf2c764ce021"
-publication_position: "after Volume 10; before Volume 11"
-chronology_policy: "All four constituent stories form a late-January-to-February internal chain and may update the post-Volume-10 state; publication order and story-time order remain separately recorded."
+created: '2026-08-15'
+primary_text: Oregairu - Volume 10.5 [Japanese].epub
+fixed_page_witness: (一般小説) やはり俺の青春ラブコメはまちがっている。第10.5巻.pdf
+primary_text_sha256: 1d2a44ce3d63932d849570834b4248c5674191375af6270c1e26d18ee212e3a5
+fixed_page_witness_sha256: 4b93d85b0cb00a86185ba00b55781722444f1dd351e766af8481cf2c764ce021
+publication_position: after Volume 10; before Volume 11
+chronology_policy: All four constituent stories form a late-January-to-February internal chain and may update the post-Volume-10 state; publication order and story-time order remain separately recorded.
 ---
 
 # OREGAIRU V2 — Volume 10.5 Deep Reading

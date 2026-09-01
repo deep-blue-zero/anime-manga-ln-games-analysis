@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: specialist_completion_checkpoint
-scope: "Phase 3 Specialist 13 — Dragon Boy / Smile"
+scope: Phase 3 Specialist 13 — Dragon Boy / Smile
 generation: V2
 phase: 3
 specialist_number: 13
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; Specialist 13 grounded primarily in E21-E22, E21 retrospective motion evidence, E22 full-motion evidence, and E23-E24 consequence layers"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; Specialist 13 grounded primarily in E21-E22, E21 retrospective motion evidence, E22 full-motion evidence, and E23-E24 consequence layers
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

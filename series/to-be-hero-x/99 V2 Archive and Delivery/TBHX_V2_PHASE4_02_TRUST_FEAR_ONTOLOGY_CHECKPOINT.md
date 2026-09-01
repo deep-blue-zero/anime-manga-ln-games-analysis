@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: specialist_completion_checkpoint
-scope: "Phase 4 Document 02 — Trust, Fear, power, and social ontology"
+scope: Phase 4 Document 02 — Trust, Fear, power, and social ontology
 generation: V2
 phase: 4
-specialist_number: 02
+specialist_number: 2
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 mechanics and claim authorities; Phase-3 Specialists 06-16; Phase-4 Document 01; motion evidence where local mechanics depend on continuity"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 mechanics and claim authorities; Phase-3 Specialists 06-16; Phase-4 Document 01; motion evidence where local mechanics depend on continuity
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

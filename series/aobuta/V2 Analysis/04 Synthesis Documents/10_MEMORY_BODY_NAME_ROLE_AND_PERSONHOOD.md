@@ -757,10 +757,10 @@ The composite identity requires more precise attribution:
 
 
 # 30. Evidence route
-- [Character State Ledger](ledgers/AOBUTA_CHARACTER_STATE_LEDGER_FINAL.md)
-- [Relationship Ledger](ledgers/AOBUTA_RELATIONSHIP_LEDGER_FINAL.md)
-- [Recognition Ledger](ledgers/AOBUTA_RECOGNITION_AND_OBSERVER_LEDGER_FINAL.md)
-- [Object/Place/Memory Ledger](ledgers/AOBUTA_OBJECT_PLACE_AND_MEMORY_LEDGER_FINAL.md)
+- [Character State Ledger](../03%20Longitudinal%20Analysis/AOBUTA_CHARACTER_STATE_LEDGER_FINAL.md)
+- [Relationship Ledger](../03%20Longitudinal%20Analysis/AOBUTA_RELATIONSHIP_LEDGER_FINAL.md)
+- Recognition Ledger _(referenced artifact is not present in Git)_
+- [Object/Place/Memory Ledger](../03%20Longitudinal%20Analysis/AOBUTA_OBJECT_PLACE_AND_MEMORY_LEDGER_FINAL.md)
 - [Claim Revision Ledger](19_LONGITUDINAL_CLAIM_REVISION_AND_RETROSPECTIVE_CORRECTION_LEDGER.md)
 - [Volume Evidence Index](20_VOLUME_ARTIFACT_AND_EVIDENCE_INDEX.md)
 - [Japanese Passage Index](21_JAPANESE_TERMINOLOGY_DIALOGUE_AND_PASSAGE_INDEX.md)

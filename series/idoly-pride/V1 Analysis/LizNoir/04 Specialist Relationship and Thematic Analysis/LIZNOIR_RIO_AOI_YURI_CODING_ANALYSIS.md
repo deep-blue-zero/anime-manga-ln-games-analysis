@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "specialist_synthesis"
-scope: "LizNoir / Rio/Aoi yuri coding"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived analysis over uploaded IDOLY PRIDE sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated"
+series: IDOLY_PRIDE
+artifact_type: specialist_synthesis
+scope: LizNoir / Rio/Aoi yuri coding
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived analysis over uploaded IDOLY PRIDE sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - LizNoir Deep Dive - Full Transcript(1).md
 source_turn: 24
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated'
 ---
 
 Yes — from the text and visuals together, Rio/Aoi is **very strongly yuri-coded**, but its actual “flavor” is not straightforward fluffy romance. It is more like:

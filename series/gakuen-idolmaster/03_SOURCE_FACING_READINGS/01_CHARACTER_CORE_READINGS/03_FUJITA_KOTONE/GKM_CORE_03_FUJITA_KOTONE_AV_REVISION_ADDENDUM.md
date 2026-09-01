@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: claim_revision_ledger
 scope: CHARACTER_FUJITA_KOTONE_PHASE3_AV_REVISION
-character: "Fujita Kotone / 藤田ことね"
+character: Fujita Kotone / 藤田ことね
 generation: V2
 status: canonical
-source_boundary: "Revision of GKM_CORE_03_FUJITA_KOTONE.md using the completed Phase-3 Kotone audiovisual baseline"
-supersedes: null
-superseded_by: null
+source_boundary: Revision of GKM_CORE_03_FUJITA_KOTONE.md using the completed Phase-3 Kotone audiovisual baseline
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 — Fujita Kotone Phase-3 Audiovisual Revision Addendum"
-version: "2.0"
-created: "2026-08-15"
+title: Gakuen Idolmaster V2 — Fujita Kotone Phase-3 Audiovisual Revision Addendum
+version: '2.0'
+created: '2026-08-15'
 ---
 
 # GKM CORE 03 — FUJITA KOTONE AUDIOVISUAL REVISION ADDENDUM

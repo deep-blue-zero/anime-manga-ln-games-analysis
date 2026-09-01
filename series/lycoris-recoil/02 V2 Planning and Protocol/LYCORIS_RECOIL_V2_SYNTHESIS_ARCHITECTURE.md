@@ -1,24 +1,25 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: synthesis_architecture
-scope: "TV E01-E13; Friends are thieves of time Shorts 01-06; creator-proximate prose; official derivative manga and anthology sources admitted only through source audit"
+scope: TV E01-E13; Friends are thieves of time Shorts 01-06; creator-proximate prose; official derivative manga and anthology sources admitted only through source audit
 generation: V2
 status: canonical
-source_boundary: "Lycoris Recoil V2 multi-source analytical corpus; anime-native reconstruction first, supplementary prose and derivative works integrated only after explicit source classification"
-supersedes: LYCORIS_RECOIL_V2_MULTI_DOCUMENT_SYNTHESIS_EXPANSION_PROTOCOL.md
-superseded_by: null
+source_boundary: Lycoris Recoil V2 multi-source analytical corpus; anime-native reconstruction first, supplementary prose and derivative works integrated only after explicit source classification
+supersedes:
+- series/lycoris-recoil/02 V2 Planning and Protocol/LYCORIS_RECOIL_V2_MULTI_DOCUMENT_SYNTHESIS_EXPANSION_PROTOCOL.md
+superseded_by: []
 do_not_use_as_current_authority: false
 architecture_state: active_initial
-canonical_root: "Lycoris Recoil analytical root"
+canonical_root: Lycoris Recoil analytical root
 governing_method: LYCORIS_RECOIL_V2_ANALYTICAL_METHOD.md
 companion_methods:
-  - LYCORIS_RECOIL_MULTI_SOURCE_AUTHORITY_AND_INTEGRATION_METHOD.md
-  - LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_METHOD.md
+- LYCORIS_RECOIL_MULTI_SOURCE_AUTHORITY_AND_INTEGRATION_METHOD.md
+- LYCORIS_RECOIL_CHARACTER_RECONSTRUCTION_METHOD.md
 higher_order_policies:
-  - MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md
-  - MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md
-  - MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
-  - ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md
+- MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md
+- MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md
+- MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
+- ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md
 ---
 
 # Lycoris Recoil V2 Synthesis and Corpus Architecture

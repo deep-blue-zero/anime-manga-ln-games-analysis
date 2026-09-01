@@ -2,15 +2,15 @@
 series: GKM
 generation: V2
 status: canonical
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-16"
+last_updated: '2026-08-16'
 artifact_type: claim_revision_ledger
 scope: CHARACTER_JUO_SENA_PHASE3_CORE_AV_ADDENDUM
-character: "Juo Sena / 十王星南"
-source_boundary: "GKM_CORE_12_JUO_SENA.md plus GKM_SENA_COMPLETE_AUDIOVISUAL_BASELINE.md"
-parent_authority: "GKM_CORE_12_JUO_SENA.md"
+character: Juo Sena / 十王星南
+source_boundary: GKM_CORE_12_JUO_SENA.md plus GKM_SENA_COMPLETE_AUDIOVISUAL_BASELINE.md
+parent_authority: GKM_CORE_12_JUO_SENA.md
 ---
 
 # GKM CORE 12 — JUO SENA AV REVISION ADDENDUM

@@ -4,23 +4,23 @@ artifact_type: close_read_audit
 artifact_role: AUDIT
 scope: PHASE1_CARD_C1B
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1"
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Frozen Post-C1-A authority + four C1-B raw card bundles. Card-only prospective freeze completed before exact companion-message review. Only message-card-ngs-05-fest-02, message-card-ngs-05-idol-00 as M2 support, message-card-ktn-05-fest-02, and message-card-rui-05-fest-04 were reviewed after freeze. Tier-H/V1 prose was consulted only after the prospective freeze. tel-card-rui-05-fest-04 remains unavailable and was not reconstructed. No C2/C3 card, B4 bond, unrelated message, or special proposition is admitted."
+source_boundary: Frozen Post-C1-A authority + four C1-B raw card bundles. Card-only prospective freeze completed before exact companion-message review. Only message-card-ngs-05-fest-02, message-card-ngs-05-idol-00 as M2 support, message-card-ktn-05-fest-02, and message-card-rui-05-fest-04 were reviewed after freeze. Tier-H/V1 prose was consulted only after the prospective freeze. tel-card-rui-05-fest-04 remains unavailable and was not reconstructed. No C2/C3 card, B4 bond, unrelated message, or special proposition is admitted.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_CARD_C1A_BASELINE.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1_CARD_C1B_PRIMARY_FINDINGS_FREEZE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1_LOWER_TIER_CLOSE_READ_QUEUE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: CARD_ONLY_FREEZE_VERIFIED_BEFORE_MESSAGES_AND_TIER_H_COMPARISON
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 closure audit and Phase 2 readiness decision"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: Phase 1 closure audit and Phase 2 readiness decision
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 CARD C1-B CLOSE-READ AUDIT

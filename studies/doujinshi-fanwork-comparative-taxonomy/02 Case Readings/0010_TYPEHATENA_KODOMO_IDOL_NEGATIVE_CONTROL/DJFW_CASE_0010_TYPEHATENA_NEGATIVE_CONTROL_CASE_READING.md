@@ -4,9 +4,10 @@ artifact_type: case_reading
 scope: DJFW_CASE_0010
 generation: V1
 status: superseded
-source_boundary: "Uploaded Typehatena/2nd color Idolmaster fanwork; metadata plus categorical visual review only. Explicit minor-coded material is not transcribed or analyzed at scene level."
-supersedes: null
-superseded_by: DJFW_CASE_0010_TYPEHATENA_NEGATIVE_CONTROL_CONTINUOUS_SEQUENTIAL_READING_V2.md
+source_boundary: Uploaded Typehatena/2nd color Idolmaster fanwork; metadata plus categorical visual review only. Explicit minor-coded material is not transcribed or analyzed at scene level.
+supersedes: []
+superseded_by:
+- studies/doujinshi-fanwork-comparative-taxonomy/02 Case Readings/0010_TYPEHATENA_KODOMO_IDOL_NEGATIVE_CONTROL/DJFW_CASE_0010_TYPEHATENA_NEGATIVE_CONTROL_CONTINUOUS_SEQUENTIAL_READING_V2.md
 do_not_use_as_current_authority: true
 ---
 

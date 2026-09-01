@@ -2,14 +2,15 @@
 series: GKM
 artifact_type: audiovisual_request_register
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_BASELINE
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 status: superseded
-source_boundary: "Historical acquisition register; superseded after completion of the 21-object Phase-3 China integrated AV R1 packet"
-supersedes: null
-superseded_by: "GKM_CHINA_COMPLETE_AUDIOVISUAL_BASELINE.md"
+source_boundary: Historical acquisition register; superseded after completion of the 21-object Phase-3 China integrated AV R1 packet
+supersedes: []
+superseded_by:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/06_KURAMOTO_CHINA/GKM_CHINA_COMPLETE_AUDIOVISUAL_BASELINE.md
 do_not_use_as_current_authority: true
-last_updated: "2026-08-21"
+last_updated: '2026-08-21'
 ---
 
 # GKM — KURAMOTO CHINA AUDIOVISUAL BASELINE AND REQUESTS

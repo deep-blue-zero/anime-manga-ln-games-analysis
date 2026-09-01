@@ -1,42 +1,42 @@
 ---
-title: "Yuru Camp△ Volume 14 Deep Reading"
-artifact_id: "YURUCAMP_V14_DEEP_READING"
-series: "YURUCAMP"
-series_title: "Yuru Camp△ / ゆるキャン△"
-artifact_type: "deep_reading"
-scope: "V14"
-generation: "V1"
-status: "canonical"
-source_boundary: "Japanese manga Volume 14"
-supersedes: null
-superseded_by: null
+title: Yuru Camp△ Volume 14 Deep Reading
+artifact_id: YURUCAMP_V14_DEEP_READING
+series: YURUCAMP
+series_title: Yuru Camp△ / ゆるキャン△
+artifact_type: deep_reading
+scope: V14
+generation: V1
+status: canonical
+source_boundary: Japanese manga Volume 14
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-document_type: "volume_deep_reading"
+document_type: volume_deep_reading
 volume: 14
-language: "Japanese"
-spoiler_boundary: "Volumes 1–14 only"
-source_file: "Laid-Back Camp - Vol. 14 [Japanese].cbz"
-source_drive_id: "1u4mZ1SXozZfCFmMMQo3C1iYG9WtHgECJ"
+language: Japanese
+spoiler_boundary: Volumes 1–14 only
+source_file: Laid-Back Camp - Vol. 14 [Japanese].cbz
+source_drive_id: 1u4mZ1SXozZfCFmMMQo3C1iYG9WtHgECJ
 source_size_bytes: 86957644
-source_sha256: "935b42462214b1b599e1aa77a9b239f93a30dd5ae422c8db6f88e246bb4e1ce7"
-source_container: "CBZ"
+source_sha256: 935b42462214b1b599e1aa77a9b239f93a30dd5ae422c8db6f88e246bb4e1ce7
+source_container: CBZ
 source_page_images: 183
-source_dimensions: "181 pages at 1350x1920; 2 pages at 1348x1920"
-source_lock_status: "LOCKED_CURRENT_PREFERRED"
-source_provenance: "Japanese page-image derivative; governing textual/visual evidence, but not a publisher-native archival master"
-source_integrity: "ZIP/CBZ CRC passed; 183/183 JPEG images decoded; ComicInfo.xml present"
-method_version: "YURUCAMP_ANALYTICAL_METHOD_V1"
-architecture_version: "YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1"
-geography_amendment: "YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md"
-governing_checkpoint: "YURUCAMP_V10-V12_CHECKPOINT.md"
-governing_checkpoint_sha256: "23d08e05376206530ac39df4208cb3a3310a3255fb155ee012773d91bac9bd20"
-prior_volume_artifact: "YURUCAMP_V13_DEEP_READING.md"
-prior_volume_generation: "V1.1"
-analysis_status: "complete"
+source_dimensions: 181 pages at 1350x1920; 2 pages at 1348x1920
+source_lock_status: LOCKED_CURRENT_PREFERRED
+source_provenance: Japanese page-image derivative; governing textual/visual evidence, but not a publisher-native archival master
+source_integrity: ZIP/CBZ CRC passed; 183/183 JPEG images decoded; ComicInfo.xml present
+method_version: YURUCAMP_ANALYTICAL_METHOD_V1
+architecture_version: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1
+geography_amendment: YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md
+governing_checkpoint: YURUCAMP_V10-V12_CHECKPOINT.md
+governing_checkpoint_sha256: 23d08e05376206530ac39df4208cb3a3310a3255fb155ee012773d91bac9bd20
+prior_volume_artifact: YURUCAMP_V13_DEEP_READING.md
+prior_volume_generation: V1.1
+analysis_status: complete
 prospective_only: true
 retrospective_annotations: false
 phase: 3
-created: "2026-08-16"
+created: '2026-08-16'
 ---
 
 # Yuru Camp△ Volume 14 Deep Reading

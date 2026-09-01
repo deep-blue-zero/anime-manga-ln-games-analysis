@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_KATSURAGI_LILJA_PHASE3_CORE
-character: "Katsuragi Lilja / 葛城リーリヤ"
+character: Katsuragi Lilja / 葛城リーリヤ
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Lilja complete character bundle; AV not yet inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Lilja complete character bundle; AV not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # GKM CORE 05 — KATSURAGI LILJA EVIDENCE MATRIX

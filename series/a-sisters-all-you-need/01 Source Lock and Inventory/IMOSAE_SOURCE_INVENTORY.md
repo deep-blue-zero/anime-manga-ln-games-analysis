@@ -4,13 +4,13 @@ artifact_type: source_inventory
 scope: V01-V14_Japanese_numbered_light_novels
 generation: V1
 status: canonical
-source_boundary: "Japanese numbered light novel EPUBs V01-V14 staged 2026-08-18; supplemental sources excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese numbered light novel EPUBs V01-V14 staged 2026-08-18; supplemental sources excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 source_set_id: IMOSAE-JP-LN-RAW-1.0
-version: "1.0"
-date: "2026-08-18"
+version: '1.0'
+date: '2026-08-18'
 ---
 
 # IMOSAE Source Inventory

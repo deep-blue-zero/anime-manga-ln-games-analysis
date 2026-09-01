@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — War, Command, Logistics, Geography, and Military Technology"
-subtitle: "How LOGH makes military history legible in space"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed fifth-tranche military systems document"
+title: 銀河英雄伝説 — War, Command, Logistics, Geography, and Military Technology
+subtitle: How LOGH makes military history legible in space
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed fifth-tranche military systems document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G01; G02; G03; G04; G05-DAGON; G05-SILVER; G05-GOLDEN"
+primary_sources: M01–M10; G01; G02; G03; G04; G05-DAGON; G05-SILVER; G05-GOLDEN
 ---
 
 # 銀河英雄伝説

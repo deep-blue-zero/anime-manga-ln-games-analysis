@@ -5,34 +5,34 @@ artifact_role: DEEP_READING
 scope: S2E03
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S2E03 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S2E03 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 2
 episode: 3
-episode_title_japanese: "優勝候補"
-episode_title_english: "Favorites to Win"
-episode_title_source: "clean source frame at 00:34.910 plus embedded English Signs track; title used for identification, not as independent semantic evidence"
+episode_title_japanese: 優勝候補
+episode_title_english: Favorites to Win
+episode_title_source: clean source frame at 00:34.910 plus embedded English Signs track; title used for identification, not as independent semantic evidence
 artifact_id: LLS_S2E03_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01 and S2E02 as three distinct recoverable prior states; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; cohort/succession, competition, performance, and character-model analysis; four model ledgers updated and verified"
+analysis_mode: sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01 and S2E02 as three distinct recoverable prior states; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; cohort/succession, competition, performance, and character-model analysis; four model ledgers updated and verified
 source_bundle: LLS_s02e03_screenshots.zip
 source_drive_id: 1wXlyly0sWv5pixAC3cbMUTjEg0JaAac8
 source_sha256: ffaf60a6d1ec7765b5c30e8436d648ff9c78c2503e30321ce13e6c84336cc26e
 source_bytes: 170557491
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S2E03 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S2E03 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON1_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 prior_later_states:
-  - LLS_S2E01_DEEP_READING_V2.md
-  - LLS_S2E02_DEEP_READING_V2.md
+- LLS_S2E01_DEEP_READING_V2.md
+- LLS_S2E02_DEEP_READING_V2.md
 prior_later_state_drive_ids:
-  - 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
-  - 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+- 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
+- 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 875
 retained_frames: 812
 contact_sheets_reviewed: 45
@@ -54,16 +54,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP/extraction/audio/frames/contact sheets/subtitle copies and temporary audiovisual derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown/ledgers/locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP/extraction/audio/frames/contact sheets/subtitle copies and temporary audiovisual derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown/ledgers/locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S2E04_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

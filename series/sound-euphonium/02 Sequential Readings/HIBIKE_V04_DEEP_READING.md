@@ -4,10 +4,12 @@ artifact_type: deep_reading
 scope: V04
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V04 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校吹奏楽部のヒミツの話』"
-supersedes: "V1 analytical authority for legacy Novel 4: SOUND! EUPHONIUM — Novel 4.md"
-superseded_by: null
+source_boundary: 'HIBIKE-V04 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校吹奏楽部のヒミツの話』'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
+legacy_supersession_notes:
+- 'legacy supersedes: V1 analytical authority for legacy Novel 4: SOUND! EUPHONIUM — Novel 4.md'
 ---
 
 # Sound! Euphonium V2 — HIBIKE-V04 Deep Reading

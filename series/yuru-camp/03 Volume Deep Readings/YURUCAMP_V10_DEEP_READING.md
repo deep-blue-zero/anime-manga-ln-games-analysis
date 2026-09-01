@@ -4,35 +4,35 @@ artifact_type: deep_reading
 scope: V10
 generation: V1
 status: canonical
-source_boundary: "Japanese manga Volume 10"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga Volume 10
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Yuru Camp△ Volume 10 Deep Reading"
-artifact_id: "YURUCAMP_V10_DEEP_READING"
-document_type: "volume_deep_reading"
+title: Yuru Camp△ Volume 10 Deep Reading
+artifact_id: YURUCAMP_V10_DEEP_READING
+document_type: volume_deep_reading
 volume: 10
-language: "Japanese"
-spoiler_boundary: "Volumes 1–10 only"
-source_file: "Laid-Back Camp - Vol. 10 [Japanese].cbz"
-source_drive_id: "1_BgrndXjlhQOHGnZtBs_XC5cYt2Ybouh"
-source_sha256: "b9d2d5e2a04240808dc6dd3c4e9245b3cdbaefe3aad5172eca02d173fef95c19"
-source_container: "CBZ"
+language: Japanese
+spoiler_boundary: Volumes 1–10 only
+source_file: Laid-Back Camp - Vol. 10 [Japanese].cbz
+source_drive_id: 1_BgrndXjlhQOHGnZtBs_XC5cYt2Ybouh
+source_sha256: b9d2d5e2a04240808dc6dd3c4e9245b3cdbaefe3aad5172eca02d173fef95c19
+source_container: CBZ
 source_page_images: 183
-source_dimensions: "1350x1920"
-source_lock_status: "LOCKED_CURRENT_PREFERRED"
-source_provenance: "Japanese page-image derivative; governing textual/visual evidence, but not a publisher-native archival master"
-source_integrity: "ZIP/CBZ CRC passed; 183/183 images decoded"
-method_version: "YURUCAMP_ANALYTICAL_METHOD_V1"
-architecture_version: "YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1"
-geography_amendment: "YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md"
-governing_checkpoint: "YURUCAMP_V07-V09_CHECKPOINT.md"
-prior_volume_artifact: "YURUCAMP_V09_DEEP_READING.md"
-analysis_status: "complete"
+source_dimensions: 1350x1920
+source_lock_status: LOCKED_CURRENT_PREFERRED
+source_provenance: Japanese page-image derivative; governing textual/visual evidence, but not a publisher-native archival master
+source_integrity: ZIP/CBZ CRC passed; 183/183 images decoded
+method_version: YURUCAMP_ANALYTICAL_METHOD_V1
+architecture_version: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1
+geography_amendment: YURUCAMP_METHOD_AMENDMENT_001_GEOGRAPHY_EVIDENCE_LAYERS.md
+governing_checkpoint: YURUCAMP_V07-V09_CHECKPOINT.md
+prior_volume_artifact: YURUCAMP_V09_DEEP_READING.md
+analysis_status: complete
 prospective_only: true
 retrospective_annotations: false
 phase: 1
-created: "2026-08-15"
+created: '2026-08-15'
 ---
 
 # Yuru Camp△ Volume 10 Deep Reading

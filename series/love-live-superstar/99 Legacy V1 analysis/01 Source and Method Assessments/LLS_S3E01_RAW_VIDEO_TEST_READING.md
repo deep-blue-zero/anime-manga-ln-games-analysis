@@ -1,13 +1,13 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: source_method_assessment
-scope: "S3E01_RAW_VIDEO_TEST"
+scope: S3E01_RAW_VIDEO_TEST
 generation: V1
 status: historical_legacy
-source_boundary: "Raw MKV inspection with Japanese audio track and English ASS subtitles; representative extracted frames"
-supersedes: null
-superseded_by: null
+source_boundary: Raw MKV inspection with Japanese audio track and English ASS subtitles; representative extracted frames
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 provenance_turn: 12
 extracted: 2026-08-22

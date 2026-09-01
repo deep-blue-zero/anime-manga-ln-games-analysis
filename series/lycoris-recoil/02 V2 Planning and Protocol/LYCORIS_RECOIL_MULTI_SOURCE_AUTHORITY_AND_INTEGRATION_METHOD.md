@@ -1,12 +1,12 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: analytical_method
-scope: "V2 supplementary-source authority, source-local analysis, and cross-source integration"
+scope: V2 supplementary-source authority, source-local analysis, and cross-source integration
 generation: V2
 status: canonical
-source_boundary: "Applies after source admission; anime-native baseline remains separately frozen and recoverable"
-supersedes: null
-superseded_by: null
+source_boundary: Applies after source admission; anime-native baseline remains separately frozen and recoverable
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 architecture: LYCORIS_RECOIL_V2_SYNTHESIS_ARCHITECTURE.md
 governing_method: LYCORIS_RECOIL_V2_ANALYTICAL_METHOD.md

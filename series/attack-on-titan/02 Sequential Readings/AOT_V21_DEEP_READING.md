@@ -5,112 +5,112 @@ artifact_type: deep_reading
 scope: V21
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-23"
-source_boundary: "Japanese manga Volume 21, Chapters 83-86; spoiler boundary through Volume 21 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-23'
+source_boundary: Japanese manga Volume 21, Chapters 83-86; spoiler boundary through Volume 21 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "21"
-chapters: "83-86"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '21'
+chapters: 83-86
 chapter_titles:
-  - "第83話 大鉈"
-  - "第84話 白夜"
-  - "第85話 地下室"
-  - "第86話 あの日"
+- 第83話 大鉈
+- 第84話 白夜
+- 第85話 地下室
+- 第86話 あの日
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v21 (2016) (Digital SD) (KG Manga).cbz"
-source_sha256: "846f47e401f91dce3b5ee1525d1f043f96b29e0e8aa22e5eb2082de25daf6cb8"
+source_file: Attack on Titan v21 (2016) (Digital SD) (KG Manga).cbz
+source_sha256: 846f47e401f91dce3b5ee1525d1f043f96b29e0e8aa22e5eb2082de25daf6cb8
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 21 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 21 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_validation_register: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
-prospective_register_drive_id: "1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8"
+prospective_validation_register: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+prospective_register_drive_id: 1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8
 prospective_register_frozen_before_source_exposure: true
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Levi / リヴァイ"
-  - "Hange Zoë / ハンジ・ゾエ"
-  - "Erwin Smith / エルヴィン・スミス"
-  - "Floch Forster / フロック・フォルスター"
-  - "Bertolt Hoover / ベルトルト・フーバー"
-  - "Zeke / ジーク"
-  - "Grisha Jaeger / グリシャ・イェーガー"
-  - "Dina Fritz / ダイナ・フリッツ"
-  - "Faye Jaeger / フェイ・イェーガー"
+- Eren Jaeger / エレン・イェーガー
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Armin Arlert / アルミン・アルレルト
+- Levi / リヴァイ
+- Hange Zoë / ハンジ・ゾエ
+- Erwin Smith / エルヴィン・スミス
+- Floch Forster / フロック・フォルスター
+- Bertolt Hoover / ベルトルト・フーバー
+- Zeke / ジーク
+- Grisha Jaeger / グリシャ・イェーガー
+- Dina Fritz / ダイナ・フリッツ
+- Faye Jaeger / フェイ・イェーガー
 major_relationships:
-  - "Eren / Armin"
-  - "Mikasa / Armin"
-  - "Levi / Erwin"
-  - "Hange / Mikasa"
-  - "Floch / Erwin"
-  - "Zeke / Eren"
-  - "Grisha / Zeke"
-  - "Grisha / father"
-  - "Grisha / Faye"
-  - "Grisha / Dina"
+- Eren / Armin
+- Mikasa / Armin
+- Levi / Erwin
+- Hange / Mikasa
+- Floch / Erwin
+- Zeke / Eren
+- Grisha / Zeke
+- Grisha / father
+- Grisha / Faye
+- Grisha / Dina
 major_topics:
-  - scarce life-saving resources
-  - private attachment and public utility rhetoric
-  - mercy and command authority
-  - dream as horizon versus dream as bondage
-  - inherited mission and parental projection
-  - archive, photography, and material proof
-  - propaganda and counter-propaganda
-  - source criticism and belief-first interpretation
-  - outside-world modernity
-  - historical memory and institutional narrative
-  - devil labeling and political instrumentality
-  - survivor meaning and replacement anxiety
+- scarce life-saving resources
+- private attachment and public utility rhetoric
+- mercy and command authority
+- dream as horizon versus dream as bondage
+- inherited mission and parental projection
+- archive, photography, and material proof
+- propaganda and counter-propaganda
+- source criticism and belief-first interpretation
+- outside-world modernity
+- historical memory and institutional narrative
+- devil labeling and political instrumentality
+- survivor meaning and replacement anxiety
 major_visual_motifs:
-  - serum vial and two dying bodies
-  - hands restraining and releasing
-  - Erwin's childhood raised hand
-  - Armin's sea horizon
-  - return through ruined Shiganshina
-  - basement key, drawer, and books
-  - photograph as impossible object
-  - armband and internment gate
-  - airship above the wall-like boundary
-  - illustrated histories and unreadable script
-  - child Zeke as inherited political project
+- serum vial and two dying bodies
+- hands restraining and releasing
+- Erwin's childhood raised hand
+- Armin's sea horizon
+- return through ruined Shiganshina
+- basement key, drawer, and books
+- photograph as impossible object
+- armband and internment gate
+- airship above the wall-like boundary
+- illustrated histories and unreadable script
+- child Zeke as inherited political project
 major_lexical_targets:
-  - 私情
-  - 人類を救う
-  - 悪魔
-  - 意味
-  - 海
-  - 夢
-  - 奴隷
-  - 地下室
-  - 写真
-  - 人類は滅んでなどいない
-  - 歴史
-  - 真実
-  - 信じる
-  - 始祖の巨人
-  - 戦士
+- 私情
+- 人類を救う
+- 悪魔
+- 意味
+- 海
+- 夢
+- 奴隷
+- 地下室
+- 写真
+- 人類は滅んでなどいない
+- 歴史
+- 真実
+- 信じる
+- 始祖の巨人
+- 戦士
 cumulative_status:
-  - strengthened
-  - revised
-  - opened_world_model
-  - prospectively_tested
-  - open
+- strengthened
+- revised
+- opened_world_model
+- prospectively_tested
+- open
 ---
 
 # 『進撃の巨人』Volume 21 Deep Reading

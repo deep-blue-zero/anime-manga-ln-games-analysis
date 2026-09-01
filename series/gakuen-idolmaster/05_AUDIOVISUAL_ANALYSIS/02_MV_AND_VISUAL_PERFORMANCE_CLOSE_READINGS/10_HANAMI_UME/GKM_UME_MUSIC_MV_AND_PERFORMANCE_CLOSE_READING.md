@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_HANAMI_UME_MUSIC_MV_AND_PERFORMANCE
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Five complete song communications, seven rendered character performances, two authored official MVs, one official lyric video, and two full-song video assets; no isolated vocal stems"
-supersedes: null
-superseded_by: null
+source_boundary: Five complete song communications, seven rendered character performances, two authored official MVs, one official lyric video, and two full-song video assets; no isolated vocal stems
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-19"
-title: "Hanami Ume Music, MV, and Performance Close Reading"
+last_updated: '2026-08-19'
+title: Hanami Ume Music, MV, and Performance Close Reading
 ---
 
 # GKM — HANAMI UME MUSIC, MV, AND PERFORMANCE CLOSE READING

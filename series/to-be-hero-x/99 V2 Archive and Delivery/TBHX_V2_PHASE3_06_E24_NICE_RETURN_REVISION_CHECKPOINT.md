@@ -2,20 +2,22 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: revision_checkpoint
-scope: "Phase 3 specialist 06 — E24 Lin Ling/Nice dual-entry correction"
+scope: Phase 3 specialist 06 — E24 Lin Ling/Nice dual-entry correction
 generation: V2
 phase: 3
-specialist_number: 06
+specialist_number: 6
 status: canonical
-source_boundary: "Frozen Mandarin-primary Season 1 E01-E24; TBHX_V2_E24_VISUAL_MICROSEQUENCE_LEDGER.md; supplemental direct-view observation of cracked Nice entrant"
-supersedes: "TBHX_V2_PHASE3_06_LIN_NICE_MOON_CHECKPOINT.md as current Specialist-06 checkpoint state"
-superseded_by: null
+source_boundary: Frozen Mandarin-primary Season 1 E01-E24; TBHX_V2_E24_VISUAL_MICROSEQUENCE_LEDGER.md; supplemental direct-view observation of cracked Nice entrant
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-17
-specialist_revision: "1.1"
-specialist_drive_id: "1KQVaxq9vsJIVdhXy_ImfCFUIB63L8_nG"
-revision_1_0_sha256: "1e9fe87829c5880c1e3c73d034e5d0b7a5ff8295cede91ebb149803436ef4cc3"
-revision_1_1_sha256: "bf92fa3b737c93f86b8bc09e858302906d9001e58d566f0be54921e1133e46a8"
+specialist_revision: '1.1'
+specialist_drive_id: 1KQVaxq9vsJIVdhXy_ImfCFUIB63L8_nG
+revision_1_0_sha256: 1e9fe87829c5880c1e3c73d034e5d0b7a5ff8295cede91ebb149803436ef4cc3
+revision_1_1_sha256: bf92fa3b737c93f86b8bc09e858302906d9001e58d566f0be54921e1133e46a8
+legacy_supersession_notes:
+- 'legacy supersedes: TBHX_V2_PHASE3_06_LIN_NICE_MOON_CHECKPOINT.md as current Specialist-06 checkpoint state'
 ---
 
 # To Be Hero X V2 — Specialist 06 E24 Nice-Return Revision Checkpoint

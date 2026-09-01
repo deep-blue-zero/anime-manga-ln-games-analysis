@@ -4,12 +4,12 @@ artifact_type: checkpoint
 scope: E01-E24
 generation: V2
 status: canonical
-source_boundary: "Frozen Chinese-original audiovisual sequential pass E01–E24 plus canonical post-freeze E24 credits-coda paratext audit"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Chinese-original audiovisual sequential pass E01–E24 plus canonical post-freeze E24 credits-coda paratext audit
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 phase: 2
-tranche: 01
+tranche: 1
 ---
 
 # To Be Hero X V2 — Phase 2 Tranche 01 Checkpoint

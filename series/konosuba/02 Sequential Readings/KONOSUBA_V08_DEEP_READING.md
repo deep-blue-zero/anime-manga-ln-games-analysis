@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: V08
 generation: V1
 status: active_provisional
-source_boundary: "Japanese main-series light novel Volume 08 main narrative: prologue, Chapters 1-5, Epilogue 1 and Epilogue 2; author afterword excluded from character-model derivation; ebook bonus treated as supplementary paratext"
+source_boundary: 'Japanese main-series light novel Volume 08 main narrative: prologue, Chapters 1-5, Epilogue 1 and Epilogue 2; author afterword excluded from character-model derivation; ebook bonus treated as supplementary paratext'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

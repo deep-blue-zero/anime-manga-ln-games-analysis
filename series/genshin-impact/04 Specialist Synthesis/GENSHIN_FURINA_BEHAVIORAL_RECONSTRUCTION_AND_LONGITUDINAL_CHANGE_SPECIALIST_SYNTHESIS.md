@@ -4,7 +4,7 @@ artifact_type: specialist_synthesis
 scope: FURINA_BEHAVIORAL_RECONSTRUCTION
 generation: V1
 status: active_provisional
-source_boundary: "Genshin Impact 7.0.0 Tier-A normalized corpus; Furina V1 layered source lock"
+source_boundary: Genshin Impact 7.0.0 Tier-A normalized corpus; Furina V1 layered source lock
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

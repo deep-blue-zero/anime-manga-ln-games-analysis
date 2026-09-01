@@ -4,16 +4,20 @@ artifact_type: audit
 scope: ST_LOUIS_10213_RECONSTRUCTION_READINESS
 generation: V1
 status: canonical
-source_boundary: "Pinned Azur Lane multilingual extracted character corpus, current source-status augmentation, and JP audio mapping state"
+source_boundary: Pinned Azur Lane multilingual extracted character corpus, current source-status augmentation, and JP audio mapping state
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
-source_build_id: "AZL-2026-08-22-4cca5c24-cc8e9fdf"
+method_version: 1.0.0
+source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 readiness_grade: C
 readiness_score: 57.3
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

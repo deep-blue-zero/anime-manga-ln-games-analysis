@@ -1,14 +1,14 @@
 ---
 series: CGMG
-series_title: "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)"
+series_title: THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)
 artifact_type: audit
 scope: FUTABA_ANZU_CHARACTER_MONOGRAPH_V1
 generation: V1
 status: canonical
-source_boundary: "Audit of CINDERELLA_GIRLS_FUTABA_ANZU_CHARACTER_MONOGRAPH.md against the integrated Futaba Anzu Mobage + Deresute evidence packet. Deresute is complete against the released categorized textual inventory; Mobage remains structurally incomplete. Anime evidence is excluded."
+source_boundary: Audit of CINDERELLA_GIRLS_FUTABA_ANZU_CHARACTER_MONOGRAPH.md against the integrated Futaba Anzu Mobage + Deresute evidence packet. Deresute is complete against the released categorized textual inventory; Mobage remains structurally incomplete. Anime evidence is excluded.
 audits:
-  - "CINDERELLA_GIRLS_FUTABA_ANZU_CHARACTER_MONOGRAPH.md"
-source_packet: "CINDERELLA_GIRLS_FUTABA_ANZU"
+- CINDERELLA_GIRLS_FUTABA_ANZU_CHARACTER_MONOGRAPH.md
+source_packet: CINDERELLA_GIRLS_FUTABA_ANZU
 source_packet_snapshot:
   candidate_source_objects: 328
   target_confirmed_source_objects: 222
@@ -17,13 +17,13 @@ source_packet_snapshot:
   deresute_text_completeness: COMPLETE_AGAINST_INVENTORY
   mobage_text_completeness: STRUCTURALLY_INCOMPLETE
 disposition_vocabulary:
-  - PRESERVE
-  - STRENGTHEN
-  - REVISE
-  - DOWNGRADE
-  - REJECT
-  - OPEN
-overall_disposition: "PRESERVE_WITH_TARGETED_REVISIONS"
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+overall_disposition: PRESERVE_WITH_TARGETED_REVISIONS
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

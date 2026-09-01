@@ -6,9 +6,9 @@ scope: V36
 generation: V2
 method_generation: V2.1
 status: canonical
-source_boundary: "Japanese manga tankobon Volume 36; Chapters No.351-362; narrative through V36:p197"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga tankobon Volume 36; Chapters No.351-362; narrative through V36:p197
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

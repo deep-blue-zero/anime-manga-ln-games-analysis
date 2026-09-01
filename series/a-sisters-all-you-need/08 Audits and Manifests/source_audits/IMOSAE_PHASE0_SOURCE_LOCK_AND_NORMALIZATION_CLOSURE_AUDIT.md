@@ -4,15 +4,15 @@ artifact_type: source_audit
 scope: V01-V14_phase0_source_lock_and_normalization_closure
 generation: V1
 status: canonical
-source_boundary: "IMOSAE-JP-LN-RAW-1.0 + IMOSAE-JP-LN-NORM-1.0-RC1 + mirrored Google Drive release candidate"
-supersedes: null
-superseded_by: null
+source_boundary: IMOSAE-JP-LN-RAW-1.0 + IMOSAE-JP-LN-NORM-1.0-RC1 + mirrored Google Drive release candidate
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-18"
-audit_id: "IMOSAE-PHASE0-CLOSURE-AUDIT-1.0"
-candidate_id: "IMOSAE-JP-LN-NORM-1.0-RC1"
-promoted_release_id: "IMOSAE-JP-LN-NORM-1.0"
+version: '1.0'
+date: '2026-08-18'
+audit_id: IMOSAE-PHASE0-CLOSURE-AUDIT-1.0
+candidate_id: IMOSAE-JP-LN-NORM-1.0-RC1
+promoted_release_id: IMOSAE-JP-LN-NORM-1.0
 result: PASS
 ---
 

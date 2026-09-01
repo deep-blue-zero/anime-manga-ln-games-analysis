@@ -2,16 +2,17 @@
 series: GKM
 artifact_type: audiovisual_baseline
 scope: CHARACTER_AMAYA_TSUBAME_PHASE3_COMPLETE_AV
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 release: R1
 status: canonical
-source_boundary: "14 canonical logical AV objects / 4.157 hours / 1.348 GB: complete Dear 000-027, one 20-scene Produce Event outing compilation, three complete song communications, three rendered character performances, one authored official MV, one Sena/Tsubame event, and one support-card communication; seven duplicate high-load Dear excerpts retained as supplemental inspection aids"
-supersedes: "GKM_TSUBAME_AUDIOVISUAL_BASELINE_AND_REQUESTS.md"
-superseded_by: null
+source_boundary: '14 canonical logical AV objects / 4.157 hours / 1.348 GB: complete Dear 000-027, one 20-scene Produce Event outing compilation, three complete song communications, three rendered character performances, one authored official MV, one Sena/Tsubame event, and one support-card communication; seven duplicate high-load Dear excerpts retained as supplemental inspection aids'
+supersedes:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/13_AMAYA_TSUBAME/GKM_TSUBAME_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-18"
-title: "Gakuen Idolmaster V2 — Amaya Tsubame Complete Audiovisual Baseline"
+last_updated: '2026-08-18'
+title: Gakuen Idolmaster V2 — Amaya Tsubame Complete Audiovisual Baseline
 ---
 
 # GKM — AMAYA TSUBAME COMPLETE AUDIOVISUAL BASELINE

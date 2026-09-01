@@ -4,22 +4,22 @@ artifact_type: close_read_audit
 artifact_role: AUDIT
 scope: PHASE1_BOND_B2A
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Frozen post-B1-A analytical authority + bond_rui_001_rui + bond_skr_001_skr + bond_szk_001_szk + bond_mhk_001_mhk; Tier-H consulted only after prospective B2-A freeze."
+source_boundary: Frozen post-B1-A analytical authority + bond_rui_001_rui + bond_skr_001_skr + bond_szk_001_szk + bond_mhk_001_mhk; Tier-H consulted only after prospective B2-A freeze.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B1A_BASELINE.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1_BOND_B2A_PRIMARY_FINDINGS_FREEZE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1_BOND_CLOSE_READ_QUEUE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: PRIMARY_FREEZE_VERIFIED_BEFORE_TIER_H_COMPARISON
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 Bond Close Read — B2-B: Family, role, and developmental continuity"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: 'Phase 1 Bond Close Read — B2-B: Family, role, and developmental continuity'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 BOND B2-A CLOSE-READ AUDIT

@@ -4,9 +4,9 @@ artifact_type: locator_index
 scope: V09
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V09 locked Japanese EPUB; SHA-256 3a5249c76be8618cf386fab5a9b3ab307ab424be09d7517665c77305fdbd1fb2"
-supersedes: null
-superseded_by: null
+source_boundary: HIBIKE-V09 locked Japanese EPUB; SHA-256 3a5249c76be8618cf386fab5a9b3ab307ab424be09d7517665c77305fdbd1fb2
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

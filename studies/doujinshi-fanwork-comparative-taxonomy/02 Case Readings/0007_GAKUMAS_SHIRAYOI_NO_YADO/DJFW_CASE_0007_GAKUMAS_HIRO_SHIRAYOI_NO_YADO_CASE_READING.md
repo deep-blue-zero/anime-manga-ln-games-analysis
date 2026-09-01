@@ -4,9 +4,10 @@ artifact_type: case_reading
 scope: DJFW_CASE_0007
 generation: V1
 status: superseded
-source_boundary: "Uploaded Japanese CBZ; 52 pages; OCR-assisted first pass with manual visual verification; line-level OCR remains provisional."
-supersedes: null
-superseded_by: DJFW_CASE_0007_GAKUMAS_SHIRAYOI_NO_YADO_CONTINUOUS_SEQUENTIAL_READING_V2.md
+source_boundary: Uploaded Japanese CBZ; 52 pages; OCR-assisted first pass with manual visual verification; line-level OCR remains provisional.
+supersedes: []
+superseded_by:
+- studies/doujinshi-fanwork-comparative-taxonomy/02 Case Readings/0007_GAKUMAS_SHIRAYOI_NO_YADO/DJFW_CASE_0007_GAKUMAS_SHIRAYOI_NO_YADO_CONTINUOUS_SEQUENTIAL_READING_V2.md
 do_not_use_as_current_authority: true
 ---
 

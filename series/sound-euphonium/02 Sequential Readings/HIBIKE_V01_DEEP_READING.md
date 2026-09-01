@@ -4,10 +4,12 @@ artifact_type: deep_reading
 scope: V01
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V01 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校吹奏楽部へようこそ』"
-supersedes: "V1 analytical authority for Volume 1: SOUND! EUPHONIUM.md"
-superseded_by: null
+source_boundary: 'HIBIKE-V01 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校吹奏楽部へようこそ』'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
+legacy_supersession_notes:
+- 'legacy supersedes: V1 analytical authority for Volume 1: SOUND! EUPHONIUM.md'
 ---
 
 # Sound! Euphonium V2 — HIBIKE-V01 Deep Reading

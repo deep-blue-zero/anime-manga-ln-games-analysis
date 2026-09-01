@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Republican Ensemble and the Iserlohn Community"
-subtitle: "Citizenship, professional honor, irregular resistance, and democratic life after state failure"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed fourth-tranche republican ensemble document"
+title: 銀河英雄伝説 — Republican Ensemble and the Iserlohn Community
+subtitle: Citizenship, professional honor, irregular resistance, and democratic life after state failure
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed fourth-tranche republican ensemble document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G02; G03; G04"
+primary_sources: M01–M10; G02; G03; G04
 ---
 
 # 銀河英雄伝説

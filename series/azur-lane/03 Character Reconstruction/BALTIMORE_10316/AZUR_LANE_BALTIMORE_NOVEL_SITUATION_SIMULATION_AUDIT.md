@@ -6,21 +6,25 @@ scope_character: BALTIMORE_10316
 generation: V1
 status: canonical
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "R4 active-provisional monograph after R5 adversarial correction, R6 canonical relationship-state synthesis, and R7 canonical multilingual textual speech reconstruction; 72 clean direct-presence Baltimore narrative scenes / 276 clean narrative dialogue records; 392 clean five-locale aligned speech records; nine false actor joins excluded; JP performed-voice interpretation excluded"
+source_boundary: R4 active-provisional monograph after R5 adversarial correction, R6 canonical relationship-state synthesis, and R7 canonical multilingual textual speech reconstruction; 72 clean direct-presence Baltimore narrative scenes / 276 clean narrative dialogue records; 392 clean five-locale aligned speech records; nine false actor joins excluded; JP performed-voice interpretation excluded
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 target_artifact: AZUR_LANE_BALTIMORE_CHARACTER_MONOGRAPH.md
 relationship_authority: AZUR_LANE_BALTIMORE_RELATIONSHIP_STATE_SYNTHESIS.md
 speech_authority: AZUR_LANE_BALTIMORE_MULTILINGUAL_SPEECH_PROFILE.md
-identity_quarantine: "9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records"
+identity_quarantine: '9 false direct-presence joins excluded: 7 Musashi / 73 dialogue records; 2 Honoka / 6 dialogue records'
 performed_voice_model: OPEN
-performed_voice_evidence_status: "100/100 mapped JP spoken-text utterance WAV derivatives published; no R8 acoustic interpretation"
+performed_voice_evidence_status: 100/100 mapped JP spoken-text utterance WAV derivatives published; no R8 acoustic interpretation
 readiness_score: 82.91
 readiness_score_status: frozen_pre_remediation
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

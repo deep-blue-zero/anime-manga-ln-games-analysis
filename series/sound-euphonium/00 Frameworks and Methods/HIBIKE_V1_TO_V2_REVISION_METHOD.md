@@ -5,9 +5,9 @@ scope: V1_TO_V2
 media: Japanese light novels
 generation: V2
 status: active_provisional
-source_boundary: "V1 analytical corpus compared against V2 locked Japanese primary text"
-supersedes: null
-superseded_by: null
+source_boundary: V1 analytical corpus compared against V2 locked Japanese primary text
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -72,23 +72,23 @@ The original 47 broader migrated scene-level claims have been reduced to **17 st
 
 | Source | Phase | Canonical artifact | Local thesis | Major threads | Evidence status | Key IDs | Locator status | Later RC links |
 |---|---|---|---|---|---|---|---|---|
-| `V01` | I | [`AOBUTA_V01_DEEP_READING.md`](volumes/AOBUTA_V01_DEEP_READING.md) | Attention is not the same as recognition; the opposite of social erasure is not celebrity but being known as a subject. | recognition, visibility, social atmosphere, celebrity, memory | migrated first-pass artifact + 10 controlled synthesis backfills | `AOBUTA_V01_BF001–BF010` | selective exact-anchor backfill: 10 controlled entries; 3 broader claims remain `pending_targeted_backfill` | `CLM-001`, `CLM-002`, `CLM-003`, `CLM-029`, `CLM-036` |
-| `V02` | I | [`AOBUTA_V02_DEEP_READING.md`](volumes/AOBUTA_V02_DEEP_READING.md) | A deliberately made self can be real, but self-authorship fails when self-fashioning becomes the elimination of every socially risky desire or conflict. | 空気, social conformity, self-fashioning, possible futures, counterfactual intimacy | migrated first-pass artifact + 14 controlled synthesis backfills | `AOBUTA_V02_BF001–BF014` | selective exact-anchor backfill: 14 controlled entries; 1 broader claim remains `pending_targeted_backfill` | `CLM-003`, `CLM-004` |
-| `V03` | I | [`AOBUTA_V03_DEEP_READING.md`](volumes/AOBUTA_V03_DEEP_READING.md) | Integration does not require loving every part of oneself; it requires ceasing to treat an unwanted part of the self as a stranger with no right to exist. | self-division, body shame, sexualized attention, friendship, need | migrated first-pass artifact + 15 controlled synthesis backfills | `AOBUTA_V03_BF001–BF015` | selective exact-anchor backfill: 15 controlled entries; 3 broader claims remain `pending_targeted_backfill` | `CLM-003`, `CLM-005` |
-| `V04` | I | [`AOBUTA_V04_DEEP_READING.md`](volumes/AOBUTA_V04_DEEP_READING.md) | Selfhood under comparison requires differentiation rather than victory, and attachment can survive envy, resentment, dislike, and admiration without pretending those feelings disappear. | embodiment, comparison, sisterhood, public image, consent | migrated first-pass artifact + 17 controlled synthesis backfills | `AOBUTA_V04_BF001–BF017` | selective exact-anchor backfill: 17 controlled entries; 3 broader claims remain `pending_targeted_backfill` | `CLM-006`, `CLM-036` |
-| `V05` | I | [`AOBUTA_V05_DEEP_READING.md`](volumes/AOBUTA_V05_DEEP_READING.md) | Medical or mnemonic recovery can be genuine and still constitute bereavement; a person need not possess the oldest autobiographical continuity in a body to have been real. | dissociation, memory, personal continuity, recovery and bereavement, school refusal | migrated first-pass artifact + 18 controlled synthesis backfills | `AOBUTA_V05_BF001–BF018` | selective exact-anchor backfill: 18 controlled entries; 2 broader claims remain `pending_targeted_backfill` | `CLM-006`, `CLM-007` |
-| `V06` | II | [`AOBUTA_V06_DEEP_READING.md`](volumes/AOBUTA_V06_DEEP_READING.md) | Self-sacrifice is not automatically more moral because the sacrificed life is one's own; Sakuta must learn that his desire to live has standing. | future, death, organ donation, sacrifice, moral debt | migrated first-pass artifact + 17 controlled synthesis backfills | `AOBUTA_V06_BF001–BF017` | selective exact-anchor backfill: 17 controlled entries; 4 broader claims remain `pending_targeted_backfill` | `CLM-003`, `CLM-009`, `CLM-010`, `CLM-011`, `CLM-036` |
-| `V07` | II | [`AOBUTA_V07_DEEP_READING.md`](volumes/AOBUTA_V07_DEEP_READING.md) | Choosing survival does not make the outcome morally pure; interdependence allows Sakuta, Mai, and Shoko to choose life while retaining moral residue rather than converting love into unilateral martyrdom. | survival, moral residue, possible futures, dreams, recognition | migrated first-pass artifact + 29 controlled synthesis backfills | `AOBUTA_V07_BF001–BF029` | selective exact-anchor backfill: 29 controlled entries; 1 broader claim remains `pending_targeted_backfill` | `CLM-009`, `CLM-010`, `CLM-011`, `CLM-012` |
-| `V08` | II | [`AOBUTA_V08_DEEP_READING.md`](volumes/AOBUTA_V08_DEEP_READING.md) | A life inherited from another person is not a debt that must be repaid by becoming them; inheritance is humane when it enlarges the successor's freedom. | inheritance, self-authorship, autobiographical continuity, normality, social atmosphere | 43 native evidence entries | `AOBUTA_V08_E016–E032, E038` | complete native-v2 locator ledger | `CLM-007`, `CLM-008`, `CLM-027`, `CLM-035` |
-| `V09` | II | [`AOBUTA_V09_DEEP_READING.md`](volumes/AOBUTA_V09_DEEP_READING.md) | A repaired family is not the old family recovered but a new relationship built by people changed by rupture: recognition without regression, reconciliation without restoration. | family, home, adulthood, parenthood, recognition | 78 native evidence entries | `AOBUTA_V09_E018, E028, E034–E036, E051–E067` | complete native-v2 locator ledger | `CLM-013`, `CLM-014`, `CLM-027`, `CLM-036`, `CLM-040` |
-| `BONUS01` | BONUS_BRIDGE | [`AOBUTA_BONUS01_ANIMAL_LAND_DEEP_READING.md`](volumes/AOBUTA_BONUS01_ANIMAL_LAND_DEEP_READING.md) | Once Hanakaede no longer believes she must become Kaede, she becomes free to want to know Kaede; differentiation makes remembrance safer. | grief, continuing bonds, memory, self-authorship, inheritance after differentiation | 39 native evidence entries | `AOBUTA_BONUS01_E015, E020, E028–E032` | complete native-v2 locator ledger | `CLM-007`, `CLM-008`, `CLM-015` |
-| `BONUS02` | BONUS_BRIDGE | [`AOBUTA_BONUS02_SPRING_DAYS_DEEP_READING.md`](volumes/AOBUTA_BONUS02_SPRING_DAYS_DEEP_READING.md) | Autonomy is not independence from support; recovery is increased range, supported participation, self-authored limits, and the capacity to turn received care outward. | supported autonomy, reciprocity without debt, work and wages, reasonable accommodation, bounded courage | 62 native evidence entries | `AOBUTA_BONUS02_E019, E028–E037, E044–E059` | complete native-v2 locator ledger | `CLM-008`, `CLM-014`, `CLM-015` |
-| `V10` | III | [`AOBUTA_V10_DEEP_READING.md`](volumes/AOBUTA_V10_DEEP_READING.md) | Empathy is not conformity; social knowledge becomes destructive when the anonymous social average gains jurisdiction over the self. | social conformity, empathy, selfhood, collective norms, idol labor | 88 native evidence entries | `AOBUTA_V10_E018–E037, E063–E073, E086` | complete native-v2 locator ledger | `CLM-016`, `CLM-019`, `CLM-030` |
-| `V11` | III | [`AOBUTA_V11_DEEP_READING.md`](volumes/AOBUTA_V11_DEEP_READING.md) | Goodness becomes dangerous when it is the only self a person can tolerate being; care is most humane when it remains an action one may choose rather than an identity one must continually prove. | care and helper identity, moral perfectionism, guilt, forgiveness, historical injury | 145 native evidence entries | `AOBUTA_V11_E054–E075, E089–E104, E124–E130` | complete native-v2 locator ledger | `CLM-006`, `CLM-017`, `CLM-027`, `CLM-029` |
-| `V12` | III | [`AOBUTA_V12_DEEP_READING.md`](volumes/AOBUTA_V12_DEEP_READING.md) | Love and care are not proven by knowing, possessing, or being needed by another person; ethical relationship requires enough opacity for the other person to choose, surprise, refuse, and stop needing you. | love versus being wanted, need and attachment, opacity and privacy, mind-reading and consent, teacher/student boundaries | 122 native evidence entries | `AOBUTA_V12_E039–E062, E070–E102, E103–E112` | complete native-v2 locator ledger | `CLM-018`, `CLM-022` |
-| `V13` | IV | [`AOBUTA_V13_DEEP_READING.md`](volumes/AOBUTA_V13_DEEP_READING.md) | A self can be socially made without being fake, but recognition becomes destructive when a prestige role requires the previous person's biography to disappear. | recognition and misrecognition, social construction of identity, becoming "someone", celebrity and public ownership, rumor and collective epistemology | 165 native evidence entries | `AOBUTA_V13_E076–E118, E119–E152` | complete native-v2 locator ledger | `CLM-002`, `CLM-004`, `CLM-009`, `CLM-010`, `CLM-019`, `CLM-020`, `CLM-022`, `CLM-031`, … |
-| `V14` | IV | [`AOBUTA_V14_DEEP_READING.md`](volumes/AOBUTA_V14_DEEP_READING.md) | A desirable possibility is not automatically the reality one has the right to keep; grief and counterfactual goods force the series to confront irreversibility and the moral standing of current lives. | grief and irreversibility, possible worlds, reality versus preferred possibilities, counterfactual guilt, moral luck | 214 native evidence entries | `AOBUTA_V14_E031–E038, E039–E059, E128–E130, E163–E194, E203–E206` | complete native-v2 locator ledger | `CLM-006`, `CLM-011`, `CLM-012`, `CLM-013`, `CLM-020`, `CLM-021`, `CLM-022`, `CLM-023`, … |
-| `V15` | IV | [`AOBUTA_V15_DEEP_READING.md`](volumes/AOBUTA_V15_DEEP_READING.md) | Growing up does not require declaring adolescent experience unreal; it changes its mode from immediate phenomenon into memory, ethical knowledge, and belief in another person without requiring shared perception. | adulthood without repudiating adolescence, memory and retrospective reclassification, grief and continuing bonds, friendship, recognition and epistemic trust | 317 native evidence entries | `AOBUTA_V15_E099–E121, E131–E147, E188–E234, E267, E284–E305` | complete native-v2 locator ledger | `CLM-001`, `CLM-002`, `CLM-003`, `CLM-004`, `CLM-007`, `CLM-010`, `CLM-011`, `CLM-012`, … |
+| `V01` | I | [`AOBUTA_V01_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V01_DEEP_READING.md) | Attention is not the same as recognition; the opposite of social erasure is not celebrity but being known as a subject. | recognition, visibility, social atmosphere, celebrity, memory | migrated first-pass artifact + 10 controlled synthesis backfills | `AOBUTA_V01_BF001–BF010` | selective exact-anchor backfill: 10 controlled entries; 3 broader claims remain `pending_targeted_backfill` | `CLM-001`, `CLM-002`, `CLM-003`, `CLM-029`, `CLM-036` |
+| `V02` | I | [`AOBUTA_V02_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V02_DEEP_READING.md) | A deliberately made self can be real, but self-authorship fails when self-fashioning becomes the elimination of every socially risky desire or conflict. | 空気, social conformity, self-fashioning, possible futures, counterfactual intimacy | migrated first-pass artifact + 14 controlled synthesis backfills | `AOBUTA_V02_BF001–BF014` | selective exact-anchor backfill: 14 controlled entries; 1 broader claim remains `pending_targeted_backfill` | `CLM-003`, `CLM-004` |
+| `V03` | I | [`AOBUTA_V03_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V03_DEEP_READING.md) | Integration does not require loving every part of oneself; it requires ceasing to treat an unwanted part of the self as a stranger with no right to exist. | self-division, body shame, sexualized attention, friendship, need | migrated first-pass artifact + 15 controlled synthesis backfills | `AOBUTA_V03_BF001–BF015` | selective exact-anchor backfill: 15 controlled entries; 3 broader claims remain `pending_targeted_backfill` | `CLM-003`, `CLM-005` |
+| `V04` | I | `AOBUTA_V04_DEEP_READING.md` _(referenced artifact is not present in Git)_ | Selfhood under comparison requires differentiation rather than victory, and attachment can survive envy, resentment, dislike, and admiration without pretending those feelings disappear. | embodiment, comparison, sisterhood, public image, consent | migrated first-pass artifact + 17 controlled synthesis backfills | `AOBUTA_V04_BF001–BF017` | selective exact-anchor backfill: 17 controlled entries; 3 broader claims remain `pending_targeted_backfill` | `CLM-006`, `CLM-036` |
+| `V05` | I | [`AOBUTA_V05_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V05_DEEP_READING.md) | Medical or mnemonic recovery can be genuine and still constitute bereavement; a person need not possess the oldest autobiographical continuity in a body to have been real. | dissociation, memory, personal continuity, recovery and bereavement, school refusal | migrated first-pass artifact + 18 controlled synthesis backfills | `AOBUTA_V05_BF001–BF018` | selective exact-anchor backfill: 18 controlled entries; 2 broader claims remain `pending_targeted_backfill` | `CLM-006`, `CLM-007` |
+| `V06` | II | [`AOBUTA_V06_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V06_DEEP_READING.md) | Self-sacrifice is not automatically more moral because the sacrificed life is one's own; Sakuta must learn that his desire to live has standing. | future, death, organ donation, sacrifice, moral debt | migrated first-pass artifact + 17 controlled synthesis backfills | `AOBUTA_V06_BF001–BF017` | selective exact-anchor backfill: 17 controlled entries; 4 broader claims remain `pending_targeted_backfill` | `CLM-003`, `CLM-009`, `CLM-010`, `CLM-011`, `CLM-036` |
+| `V07` | II | [`AOBUTA_V07_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V07_DEEP_READING.md) | Choosing survival does not make the outcome morally pure; interdependence allows Sakuta, Mai, and Shoko to choose life while retaining moral residue rather than converting love into unilateral martyrdom. | survival, moral residue, possible futures, dreams, recognition | migrated first-pass artifact + 29 controlled synthesis backfills | `AOBUTA_V07_BF001–BF029` | selective exact-anchor backfill: 29 controlled entries; 1 broader claim remains `pending_targeted_backfill` | `CLM-009`, `CLM-010`, `CLM-011`, `CLM-012` |
+| `V08` | II | [`AOBUTA_V08_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V08_DEEP_READING.md) | A life inherited from another person is not a debt that must be repaid by becoming them; inheritance is humane when it enlarges the successor's freedom. | inheritance, self-authorship, autobiographical continuity, normality, social atmosphere | 43 native evidence entries | `AOBUTA_V08_E016–E032, E038` | complete native-v2 locator ledger | `CLM-007`, `CLM-008`, `CLM-027`, `CLM-035` |
+| `V09` | II | [`AOBUTA_V09_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V09_DEEP_READING.md) | A repaired family is not the old family recovered but a new relationship built by people changed by rupture: recognition without regression, reconciliation without restoration. | family, home, adulthood, parenthood, recognition | 78 native evidence entries | `AOBUTA_V09_E018, E028, E034–E036, E051–E067` | complete native-v2 locator ledger | `CLM-013`, `CLM-014`, `CLM-027`, `CLM-036`, `CLM-040` |
+| `BONUS01` | BONUS_BRIDGE | `AOBUTA_BONUS01_ANIMAL_LAND_DEEP_READING.md` _(referenced artifact is not present in Git)_ | Once Hanakaede no longer believes she must become Kaede, she becomes free to want to know Kaede; differentiation makes remembrance safer. | grief, continuing bonds, memory, self-authorship, inheritance after differentiation | 39 native evidence entries | `AOBUTA_BONUS01_E015, E020, E028–E032` | complete native-v2 locator ledger | `CLM-007`, `CLM-008`, `CLM-015` |
+| `BONUS02` | BONUS_BRIDGE | `AOBUTA_BONUS02_SPRING_DAYS_DEEP_READING.md` _(referenced artifact is not present in Git)_ | Autonomy is not independence from support; recovery is increased range, supported participation, self-authored limits, and the capacity to turn received care outward. | supported autonomy, reciprocity without debt, work and wages, reasonable accommodation, bounded courage | 62 native evidence entries | `AOBUTA_BONUS02_E019, E028–E037, E044–E059` | complete native-v2 locator ledger | `CLM-008`, `CLM-014`, `CLM-015` |
+| `V10` | III | [`AOBUTA_V10_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V10_DEEP_READING.md) | Empathy is not conformity; social knowledge becomes destructive when the anonymous social average gains jurisdiction over the self. | social conformity, empathy, selfhood, collective norms, idol labor | 88 native evidence entries | `AOBUTA_V10_E018–E037, E063–E073, E086` | complete native-v2 locator ledger | `CLM-016`, `CLM-019`, `CLM-030` |
+| `V11` | III | [`AOBUTA_V11_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V11_DEEP_READING.md) | Goodness becomes dangerous when it is the only self a person can tolerate being; care is most humane when it remains an action one may choose rather than an identity one must continually prove. | care and helper identity, moral perfectionism, guilt, forgiveness, historical injury | 145 native evidence entries | `AOBUTA_V11_E054–E075, E089–E104, E124–E130` | complete native-v2 locator ledger | `CLM-006`, `CLM-017`, `CLM-027`, `CLM-029` |
+| `V12` | III | [`AOBUTA_V12_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V12_DEEP_READING.md) | Love and care are not proven by knowing, possessing, or being needed by another person; ethical relationship requires enough opacity for the other person to choose, surprise, refuse, and stop needing you. | love versus being wanted, need and attachment, opacity and privacy, mind-reading and consent, teacher/student boundaries | 122 native evidence entries | `AOBUTA_V12_E039–E062, E070–E102, E103–E112` | complete native-v2 locator ledger | `CLM-018`, `CLM-022` |
+| `V13` | IV | [`AOBUTA_V13_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V13_DEEP_READING.md) | A self can be socially made without being fake, but recognition becomes destructive when a prestige role requires the previous person's biography to disappear. | recognition and misrecognition, social construction of identity, becoming "someone", celebrity and public ownership, rumor and collective epistemology | 165 native evidence entries | `AOBUTA_V13_E076–E118, E119–E152` | complete native-v2 locator ledger | `CLM-002`, `CLM-004`, `CLM-009`, `CLM-010`, `CLM-019`, `CLM-020`, `CLM-022`, `CLM-031`, … |
+| `V14` | IV | [`AOBUTA_V14_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V14_DEEP_READING.md) | A desirable possibility is not automatically the reality one has the right to keep; grief and counterfactual goods force the series to confront irreversibility and the moral standing of current lives. | grief and irreversibility, possible worlds, reality versus preferred possibilities, counterfactual guilt, moral luck | 214 native evidence entries | `AOBUTA_V14_E031–E038, E039–E059, E128–E130, E163–E194, E203–E206` | complete native-v2 locator ledger | `CLM-006`, `CLM-011`, `CLM-012`, `CLM-013`, `CLM-020`, `CLM-021`, `CLM-022`, `CLM-023`, … |
+| `V15` | IV | `AOBUTA_V15_DEEP_READING.md` _(referenced artifact is not present in Git)_ | Growing up does not require declaring adolescent experience unreal; it changes its mode from immediate phenomenon into memory, ethical knowledge, and belief in another person without requiring shared perception. | adulthood without repudiating adolescence, memory and retrospective reclassification, grief and continuing bonds, friendship, recognition and epistemic trust | 317 native evidence entries | `AOBUTA_V15_E099–E121, E131–E147, E188–E234, E267, E284–E305` | complete native-v2 locator ledger | `CLM-001`, `CLM-002`, `CLM-003`, `CLM-004`, `CLM-007`, `CLM-010`, `CLM-011`, `CLM-012`, … |
 
 ## 4. Artifact-by-artifact records
 
@@ -96,7 +96,7 @@ The records below preserve source-object provenance separately from retrospectiv
 
 ### V01 — 『青春ブタ野郎はバニーガール先輩の夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V01_DEEP_READING.md`](volumes/AOBUTA_V01_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V01_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V01_DEEP_READING.md)<br>
 **Developmental phase:** `I`  
 **Artifact SHA-256:** `c2b69ef75abca82e186b90defd764744cd251d8dd4bbcd673f9b7e13e3653f11`  
 **Artifact size:** approximately 4,223 whitespace-delimited words  
@@ -107,7 +107,7 @@ The records below preserve source-object provenance separately from retrospectiv
 **Locator status:** selective exact-anchor backfill: 10 controlled entries; 3 broader claims remain `pending_targeted_backfill`  
 **Key controlled IDs:** `AOBUTA_V01_BF001, BF004–BF007`  
 **Retrospective claim links:** `CLM-001`, `CLM-002`, `CLM-003`, `CLM-029`, `CLM-036`  
-**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)  
+**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)<br>
 
 **Local first-pass thesis**
 
@@ -130,7 +130,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 
 ### V02 — 『青春ブタ野郎はプチデビル後輩の夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V02_DEEP_READING.md`](volumes/AOBUTA_V02_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V02_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V02_DEEP_READING.md)<br>
 **Developmental phase:** `I`  
 **Artifact SHA-256:** `6e272fba47a8cebb23e71e2c4c430a9089e62c1ae12ec774b6004406540a0597`  
 **Artifact size:** approximately 3,847 whitespace-delimited words  
@@ -141,7 +141,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 **Locator status:** selective exact-anchor backfill: 14 controlled entries; 1 broader claim remains `pending_targeted_backfill`  
 **Key controlled IDs:** `AOBUTA_V02_BF001–BF005, BF009–BF010`  
 **Retrospective claim links:** `CLM-003`, `CLM-004`  
-**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)  
+**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)<br>
 
 **Local first-pass thesis**
 
@@ -164,7 +164,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 
 ### V03 — 『青春ブタ野郎はロジカルウィッチの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V03_DEEP_READING.md`](volumes/AOBUTA_V03_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V03_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V03_DEEP_READING.md)<br>
 **Developmental phase:** `I`  
 **Artifact SHA-256:** `e8d6d36368b4bb4f35dbbb1fd2eefe47a870efbe6c7fa81bfdf99fa5396f009b`  
 **Artifact size:** approximately 3,622 whitespace-delimited words  
@@ -175,7 +175,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 **Locator status:** selective exact-anchor backfill: 15 controlled entries; 3 broader claims remain `pending_targeted_backfill`  
 **Key controlled IDs:** `AOBUTA_V03_BF001–BF009`  
 **Retrospective claim links:** `CLM-003`, `CLM-005`  
-**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)  
+**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)<br>
 
 **Local first-pass thesis**
 
@@ -199,7 +199,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 
 ### V04 — 『青春ブタ野郎はシスコンアイドルの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V04_DEEP_READING.md`](volumes/AOBUTA_V04_DEEP_READING.md)  
+**Canonical artifact:** `AOBUTA_V04_DEEP_READING.md` _(referenced artifact is not present in Git)_<br>
 **Developmental phase:** `I`  
 **Artifact SHA-256:** `75a6d132141d34fd3a733d46ea28b03d15a4d8565749791e1688d52bc7ad3f0c`  
 **Artifact size:** approximately 4,036 whitespace-delimited words  
@@ -210,7 +210,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 **Locator status:** selective exact-anchor backfill: 17 controlled entries; 3 broader claims remain `pending_targeted_backfill`  
 **Key controlled IDs:** `AOBUTA_V04_BF001–BF012`  
 **Retrospective claim links:** `CLM-006`, `CLM-036`  
-**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)  
+**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)<br>
 
 **Local first-pass thesis**
 
@@ -234,7 +234,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 
 ### V05 — 『青春ブタ野郎はおるすばん妹の夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V05_DEEP_READING.md`](volumes/AOBUTA_V05_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V05_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V05_DEEP_READING.md)<br>
 **Developmental phase:** `I`  
 **Artifact SHA-256:** `6ac56867650aed0666e3481f79ef2dda9c26224701a695c07eb9afc3c81d4808`  
 **Artifact size:** approximately 3,842 whitespace-delimited words  
@@ -245,7 +245,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 **Locator status:** selective exact-anchor backfill: 18 controlled entries; 2 broader claims remain `pending_targeted_backfill`  
 **Key controlled IDs:** `AOBUTA_V05_BF003–BF012`  
 **Retrospective claim links:** `CLM-006`, `CLM-007`  
-**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)  
+**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)<br>
 
 **Local first-pass thesis**
 
@@ -270,7 +270,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 
 ### V06 — 『青春ブタ野郎はゆめみる少女の夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V06_DEEP_READING.md`](volumes/AOBUTA_V06_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V06_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V06_DEEP_READING.md)<br>
 **Developmental phase:** `II`  
 **Artifact SHA-256:** `58946e781f40065d8a46d740634dd16bddcc9f047553ba0043a7e21f3bc85cfe`  
 **Artifact size:** approximately 4,885 whitespace-delimited words  
@@ -281,7 +281,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 **Locator status:** selective exact-anchor backfill: 17 controlled entries; 4 broader claims remain `pending_targeted_backfill`  
 **Key controlled IDs:** `AOBUTA_V06_BF003–BF010`  
 **Retrospective claim links:** `CLM-003`, `CLM-009`, `CLM-010`, `CLM-011`, `CLM-036`  
-**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)  
+**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)<br>
 
 **Local first-pass thesis**
 
@@ -306,7 +306,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 
 ### V07 — 『青春ブタ野郎はハツコイ少女の夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V07_DEEP_READING.md`](volumes/AOBUTA_V07_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V07_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V07_DEEP_READING.md)<br>
 **Developmental phase:** `II`  
 **Artifact SHA-256:** `9e7ed81c78a623b993a2d87d1c68a7f6e1468033a26c7e67b15f3f2bfadb63e5`  
 **Artifact size:** approximately 6,339 whitespace-delimited words  
@@ -317,7 +317,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 **Locator status:** selective exact-anchor backfill: 29 controlled entries; 1 broader claim remains `pending_targeted_backfill`  
 **Key controlled IDs:** `AOBUTA_V07_BF001–BF019`  
 **Retrospective claim links:** `CLM-009`, `CLM-010`, `CLM-011`, `CLM-012`  
-**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)  
+**Backfill route:** [`AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md`](../01%20Phase%200%20Audit/AOBUTA_V01-V07_SYNTHESIS_LOCATOR_BACKFILL.md)<br>
 
 **Local first-pass thesis**
 
@@ -342,7 +342,7 @@ This is an immutable migrated first-pass artifact. Phases 0, 3, and 4 verified t
 
 ### V08 — 『青春ブタ野郎はおでかけシスターの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V08_DEEP_READING.md`](volumes/AOBUTA_V08_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V08_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V08_DEEP_READING.md)<br>
 **Developmental phase:** `II`  
 **Artifact SHA-256:** `cb9fa4cab312c12a60ec6fcad3dbef619920cd7d91ca5e7cffe7ff4dc2b4697a`  
 **Artifact size:** approximately 14,621 whitespace-delimited words  
@@ -376,7 +376,7 @@ This artifact contains its own stable evidence-classification and primary-source
 
 ### V09 — 『青春ブタ野郎はランドセルガールの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V09_DEEP_READING.md`](volumes/AOBUTA_V09_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V09_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V09_DEEP_READING.md)<br>
 **Developmental phase:** `II`  
 **Artifact SHA-256:** `4372d59dcccb3f71175f172803e2a6afc2109a9229916cd7d4fe1833d8013a61`  
 **Artifact size:** approximately 16,242 whitespace-delimited words  
@@ -411,7 +411,7 @@ This artifact contains its own stable evidence-classification and primary-source
 
 ### BONUS01 — 『【劇場特典】青春ブタ野郎はアニマルランドの夢を見る』
 
-**Canonical artifact:** [`AOBUTA_BONUS01_ANIMAL_LAND_DEEP_READING.md`](volumes/AOBUTA_BONUS01_ANIMAL_LAND_DEEP_READING.md)  
+**Canonical artifact:** `AOBUTA_BONUS01_ANIMAL_LAND_DEEP_READING.md` _(referenced artifact is not present in Git)_<br>
 **Developmental phase:** `BONUS_BRIDGE`  
 **Artifact SHA-256:** `2d00ece7e82b2e4801150dbbda981b8e1dd2cbb63dbd32341363fcbeeb276c4a`  
 **Artifact size:** approximately 10,419 whitespace-delimited words  
@@ -449,7 +449,7 @@ This artifact contains its own stable evidence-classification and primary-source
 
 ### BONUS02 — 『青春ブタ野郎はスプリングデイズの夢を見る』
 
-**Canonical artifact:** [`AOBUTA_BONUS02_SPRING_DAYS_DEEP_READING.md`](volumes/AOBUTA_BONUS02_SPRING_DAYS_DEEP_READING.md)  
+**Canonical artifact:** `AOBUTA_BONUS02_SPRING_DAYS_DEEP_READING.md` _(referenced artifact is not present in Git)_<br>
 **Developmental phase:** `BONUS_BRIDGE`  
 **Artifact SHA-256:** `5b5a51a171c68aa93edb04e854917d304c2d3103656f840717e61c8df8b9f3f3`  
 **Artifact size:** approximately 12,435 whitespace-delimited words  
@@ -487,7 +487,7 @@ This artifact contains its own stable evidence-classification and primary-source
 
 ### V10 — 『青春ブタ野郎は迷えるシンガーの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V10_DEEP_READING.md`](volumes/AOBUTA_V10_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V10_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V10_DEEP_READING.md)<br>
 **Developmental phase:** `III`  
 **Artifact SHA-256:** `a15e7c0ec5a636915bae7bed758c50424cb9aab72357f772a6684a68f6a1c31e`  
 **Artifact size:** approximately 13,866 whitespace-delimited words  
@@ -522,7 +522,7 @@ This artifact contains its own stable evidence-classification and primary-source
 
 ### V11 — 『青春ブタ野郎はナイチンゲールの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V11_DEEP_READING.md`](volumes/AOBUTA_V11_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V11_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V11_DEEP_READING.md)<br>
 **Developmental phase:** `III`  
 **Artifact SHA-256:** `57edcf3ca9ed50d70ba9f149327cfd9880aa6f860eae039c6edab23bc6689f6a`  
 **Artifact size:** approximately 17,892 whitespace-delimited words  
@@ -557,7 +557,7 @@ This artifact contains its own stable evidence-classification and primary-source
 
 ### V12 — 『青春ブタ野郎はマイスチューデントの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V12_DEEP_READING.md`](volumes/AOBUTA_V12_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V12_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V12_DEEP_READING.md)<br>
 **Developmental phase:** `III`  
 **Artifact SHA-256:** `a06cdb623bc8961467eeca776677ce33cc89d30d1919cce99f221dc1dc30f9a7`  
 **Artifact size:** approximately 16,874 whitespace-delimited words  
@@ -592,7 +592,7 @@ This artifact contains its own stable evidence-classification and primary-source
 
 ### V13 — 『青春ブタ野郎はサンタクロースの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V13_DEEP_READING.md`](volumes/AOBUTA_V13_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V13_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V13_DEEP_READING.md)<br>
 **Developmental phase:** `IV`  
 **Artifact SHA-256:** `c40a95bb68f4da82872171e437d93784b6ebd5fcbc68d7fca0617aaf9f57694b`  
 **Artifact size:** approximately 19,458 whitespace-delimited words  
@@ -627,7 +627,7 @@ This artifact contains its own stable evidence-classification and primary-source
 
 ### V14 — 『青春ブタ野郎はガールフレンドの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V14_DEEP_READING.md`](volumes/AOBUTA_V14_DEEP_READING.md)  
+**Canonical artifact:** [`AOBUTA_V14_DEEP_READING.md`](../02%20Volume%20Deep%20Readings/AOBUTA_V14_DEEP_READING.md)<br>
 **Developmental phase:** `IV`  
 **Artifact SHA-256:** `9081d808c719a44b705ef0add96c4e4e67ed0d9e976fa07c6d9a0fc75f2a4278`  
 **Artifact size:** approximately 25,461 whitespace-delimited words  
@@ -662,7 +662,7 @@ This artifact contains its own stable evidence-classification and primary-source
 
 ### V15 — 『青春ブタ野郎はディアフレンドの夢を見ない』
 
-**Canonical artifact:** [`AOBUTA_V15_DEEP_READING.md`](volumes/AOBUTA_V15_DEEP_READING.md)  
+**Canonical artifact:** `AOBUTA_V15_DEEP_READING.md` _(referenced artifact is not present in Git)_<br>
 **Developmental phase:** `IV`  
 **Artifact SHA-256:** `a1252d09ed005cffdc8a81a895ee5362528b1f697ad7fafd4977a7916e198a24`  
 **Artifact size:** approximately 31,236 whitespace-delimited words  

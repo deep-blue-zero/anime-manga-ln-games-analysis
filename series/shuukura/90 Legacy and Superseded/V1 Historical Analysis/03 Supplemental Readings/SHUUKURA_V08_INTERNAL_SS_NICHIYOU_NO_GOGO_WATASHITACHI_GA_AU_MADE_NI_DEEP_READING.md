@@ -4,11 +4,11 @@ artifact_type: deep_reading
 scope: V08_INTERNAL_SS
 generation: V1
 status: historical_legacy
-source_boundary: "「日曜の午後、私たちが会うまでに」"
-supersedes: null
-superseded_by: null
+source_boundary: 「日曜の午後、私たちが会うまでに」
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-provenance: "Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md"
+provenance: Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md
 ---
 
 # SHUUKURA V08 Internal SS — 「日曜の午後、私たちが会うまでに」

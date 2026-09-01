@@ -4,13 +4,13 @@ artifact_type: source_lock
 scope: V01-V14_Japanese_numbered_light_novels_raw
 generation: V1
 status: canonical
-source_boundary: "Raw Japanese numbered light-novel EPUBs V01-V14 only"
-supersedes: null
-superseded_by: null
+source_boundary: Raw Japanese numbered light-novel EPUBs V01-V14 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 source_set_id: IMOSAE-JP-LN-RAW-1.0
-version: "1.0"
-date: "2026-08-18"
+version: '1.0'
+date: '2026-08-18'
 paired_inventory: IMOSAE_SOURCE_INVENTORY.md
 ---
 

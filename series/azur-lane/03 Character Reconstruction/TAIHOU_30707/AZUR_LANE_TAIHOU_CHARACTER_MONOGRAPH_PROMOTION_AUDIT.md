@@ -8,9 +8,13 @@ generation: V1
 status: canonical
 phase: R9
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "R9 promotion audit over the in-place Taihou character monograph after integration of canonical R5 adversarial validation, R6 relationship-state synthesis, R7 five-locale textual speech reconstruction, R8 constrained novel-situation simulation validation, and the R9 claim-revision ledger. JP performed voice is assessed only as a separate scope boundary and remains OPEN_PARTIAL_SOURCE_MAPPING."
+source_boundary: R9 promotion audit over the in-place Taihou character monograph after integration of canonical R5 adversarial validation, R6 relationship-state synthesis, R7 five-locale textual speech reconstruction, R8 constrained novel-situation simulation validation, and the R9 claim-revision ledger. JP performed voice is assessed only as a separate scope boundary and remains OPEN_PARTIAL_SOURCE_MAPPING.
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
 target_artifact: AZUR_LANE_TAIHOU_CHARACTER_MONOGRAPH.md
 target_drive_id: 1gyZInAjWxJnoKqpE2jaUFKu3EvqG_-AoacwnI-qOpzk
@@ -19,8 +23,8 @@ claim_revision_ledger_drive_id: 1XyX7tHOg7nnvfmCVPDPW6YitA6RIGAeqOtRCcIhuRvA
 target_status_before_promotion: active_provisional
 performed_voice_status: open_partial_source_mapping
 promotion_disposition: PROMOTE_TO_CANONICAL_V1
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -4,25 +4,25 @@ artifact_type: analytical_method
 artifact_role: ANALYTICAL_METHOD
 scope: PHASE2_LONGITUDINAL_LEDGER_SCHEMA
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
+phase: '2'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Operational Phase-2 ledger schema derived from the governing V2 method, synthesis architecture, source/evidence protocol, and frozen Phase-2 execution queue. It creates no literary findings."
+source_boundary: Operational Phase-2 ledger schema derived from the governing V2 method, synthesis architecture, source/evidence protocol, and frozen Phase-2 execution queue. It creates no literary findings.
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: PHASE2_OPERATIONAL_SCHEMA
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Apply to P2-A1 Mana longitudinal ledger after P2-0 infrastructure freeze"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: Apply to P2-A1 Mana longitudinal ledger after P2-0 infrastructure freeze
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 2 LONGITUDINAL LEDGER SCHEMA

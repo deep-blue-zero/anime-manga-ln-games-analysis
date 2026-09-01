@@ -1,12 +1,12 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: locator_index
-scope: "V2 primary-source and analytical-derivative retrieval routes"
+scope: V2 primary-source and analytical-derivative retrieval routes
 generation: V2
 status: canonical
-source_boundary: "TV E01-E13; Friends Shorts 01-06; admitted Japanese EPUB supplements"
-supersedes: null
-superseded_by: null
+source_boundary: TV E01-E13; Friends Shorts 01-06; admitted Japanese EPUB supplements
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
 current_sequential_boundary: SHORT01

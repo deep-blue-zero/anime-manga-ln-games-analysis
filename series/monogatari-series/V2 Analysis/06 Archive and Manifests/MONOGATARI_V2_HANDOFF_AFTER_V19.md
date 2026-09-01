@@ -1,17 +1,17 @@
 ---
-series: "MONOGATARI"
-artifact_type: "handoff"
-scope: "AFTER_V19_BEFORE_FINAL_SEASON_CHECKPOINT"
-generation: "V2"
-status: "canonical"
-source_boundary: "V2 analytical corpus through V19 『続・終物語』; no V20 analytical claims admitted"
-supersedes: null
-superseded_by: null
+series: MONOGATARI
+artifact_type: handoff
+scope: AFTER_V19_BEFORE_FINAL_SEASON_CHECKPOINT
+generation: V2
+status: canonical
+source_boundary: V2 analytical corpus through V19 『続・終物語』; no V20 analytical claims admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-16"
-next_artifact: "MONOGATARI_V2_V14-V19_FINAL_SEASON_CHECKPOINT.md"
-reasoning_recommendation: "GPT-5.6 Sol — Very High"
+version: '1.0'
+date: '2026-08-16'
+next_artifact: MONOGATARI_V2_V14-V19_FINAL_SEASON_CHECKPOINT.md
+reasoning_recommendation: GPT-5.6 Sol — Very High
 ---
 
 # Monogatari V2 — New-Chat Handoff After V19

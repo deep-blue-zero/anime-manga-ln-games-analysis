@@ -6,12 +6,12 @@ generation: V1
 status: canonical
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
-source_boundary: "All 28 CN-linked Taihou narrative scenes in TAIHOU_CN_NARRATIVE_SCENE_CORPUS.md, including the seven-part dedicated memory and 21 additional event/ensemble/crossover scenes; Dorm3D, character-text, social, and regional evidence not yet integrated except for routing"
+source_boundary: All 28 CN-linked Taihou narrative scenes in TAIHOU_CN_NARRATIVE_SCENE_CORPUS.md, including the seven-part dedicated memory and 21 additional event/ensemble/crossover scenes; Dorm3D, character-text, social, and regional evidence not yet integrated except for routing
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 anchor_reading: AZUR_LANE_TAIHOU_CHARACTER_MEMORY_DEEP_READING.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

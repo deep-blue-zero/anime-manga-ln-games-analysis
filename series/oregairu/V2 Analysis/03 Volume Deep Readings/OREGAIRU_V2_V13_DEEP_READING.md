@@ -4,17 +4,17 @@ artifact_type: deep_reading
 scope: V13
 generation: V2
 status: canonical
-source_boundary: "Japanese light novel Volume 13; publisher-derived EPUB as linguistic authority; fixed-page Japanese scan as layout/illustration witness; no Volume 14 evidence"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novel Volume 13; publisher-derived EPUB as linguistic authority; fixed-page Japanese scan as layout/illustration witness; no Volume 14 evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-primary_text: "Oregairu - Volume 13 [Japanese].epub"
-fixed_page_witness: "(一般小説) やはり俺の青春ラブコメはまちがっている。第13巻.pdf"
-primary_text_sha256: "b482462a2c4a9aee947d42dba0a6d4cfd8e89d748944da5a309538be8e7272d4"
-fixed_page_witness_sha256: "f30cfee5097ad5bff1d42e50e2848d7744a58c3a88f4b4575c79e0f65870418a"
-publication_position: "after Volume 12; before Volume 14"
-prospective_boundary: "Volume 13 only, read from the frozen Volume-12 endpoint; Volume 14 and later material excluded except in the explicitly retrospective section"
+created: '2026-08-15'
+primary_text: Oregairu - Volume 13 [Japanese].epub
+fixed_page_witness: (一般小説) やはり俺の青春ラブコメはまちがっている。第13巻.pdf
+primary_text_sha256: b482462a2c4a9aee947d42dba0a6d4cfd8e89d748944da5a309538be8e7272d4
+fixed_page_witness_sha256: f30cfee5097ad5bff1d42e50e2848d7744a58c3a88f4b4575c79e0f65870418a
+publication_position: after Volume 12; before Volume 14
+prospective_boundary: Volume 13 only, read from the frozen Volume-12 endpoint; Volume 14 and later material excluded except in the explicitly retrospective section
 ---
 
 # OREGAIRU V2 - Volume 13 Deep Reading

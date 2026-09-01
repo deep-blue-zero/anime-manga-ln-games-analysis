@@ -1,5 +1,5 @@
 ---
-title: "To Be Hero X V2 — Claim Revision and Confidence Ledger"
+title: To Be Hero X V2 — Claim Revision and Confidence Ledger
 series: TBHX
 artifact_type: ledger
 artifact_role: claim_revision_and_confidence_ledger
@@ -7,12 +7,12 @@ scope: E01-E24
 generation: V2
 phase: 2
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 longitudinal ledgers; episode-specific motion audits; E24 credits-coda audit; post-freeze targeted AV evidence through TBHX-AV-E11-001"
-transition_vocabulary: "PRESERVE | STRENGTHEN | REVISE | DOWNGRADE | REJECT | OPEN"
-legacy_transition_crosswalk: "PRESERVE=CONFIRMED; STRENGTHEN=STRENGTHENED; REVISE=NARROWED/CORRECTED; DOWNGRADE=confidence reduction; REJECT=OVERTURNED; OPEN=UNRESOLVED"
-targeted_av_authority: "TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; stabilized Phase-2 longitudinal ledgers; episode-specific motion audits; E24 credits-coda audit; post-freeze targeted AV evidence through TBHX-AV-E11-001
+transition_vocabulary: PRESERVE | STRENGTHEN | REVISE | DOWNGRADE | REJECT | OPEN
+legacy_transition_crosswalk: PRESERVE=CONFIRMED; STRENGTHEN=STRENGTHENED; REVISE=NARROWED/CORRECTED; DOWNGRADE=confidence reduction; REJECT=OVERTURNED; OPEN=UNRESOLVED
+targeted_av_authority: TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: 2026-08-16
 ---

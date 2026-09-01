@@ -5,23 +5,23 @@ artifact_role: DEEP_READING
 scope: S3E03
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S3E03 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S3E03 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 3
 episode: 3
-episode_title_japanese: "白色のセンター"
-episode_title_english: "White-Colored Center"
-episode_title_source: "retained source frame at approximately 00:03:25.205 directly displays #03 白色のセンター on the hanging lamp; embedded English Signs events beginning 00:03:25.18 spell White-Colored Center; title used as identifying/formal evidence, not independent proof of interpretation"
+episode_title_japanese: 白色のセンター
+episode_title_english: White-Colored Center
+episode_title_source: 'retained source frame at approximately 00:03:25.205 directly displays #03 白色のセンター on the hanging lamp; embedded English Signs events beginning 00:03:25.18 spell White-Colored Center; title used as identifying/formal evidence, not independent proof of interpretation'
 artifact_id: LLS_S3E03_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E02 as prior authority; corrected-Japanese governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; post-championship motivation, center succession, Shiki visibility and burden logic, Mei/Shiki relational scaffolding, second-year creative authorship, Kanon-to-Chisato conceptual transmission, rival-group reciprocity, Tomari participation boundary, Wien voice/huff audit, performance dramaturgy, institution, relationship, and character-model analysis"
+analysis_mode: sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E02 as prior authority; corrected-Japanese governing text; English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; post-championship motivation, center succession, Shiki visibility and burden logic, Mei/Shiki relational scaffolding, second-year creative authorship, Kanon-to-Chisato conceptual transmission, rival-group reciprocity, Tomari participation boundary, Wien voice/huff audit, performance dramaturgy, institution, relationship, and character-model analysis
 source_bundle: LLS_s03e03_screenshots.zip
 source_drive_id: 1t7_69CNzVgDaLxX-upF8c8j3Z76I7xUu
 source_sha256: d764af25f9ce46c5ea9b7a05d027851e51089b2172ac9705ea9a3ad707ca985b
 source_bytes: 172735080
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S3E03 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S3E03 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON2_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
@@ -32,8 +32,8 @@ season1_frozen_checkpoint_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 season2_frozen_checkpoint: LLS_SEASON2_FROZEN_CHECKPOINT.md
 season2_frozen_checkpoint_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
 season2_checkpoint_status: frozen
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 962
 retained_frames: 894
 contact_sheets_reviewed: 50
@@ -53,16 +53,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 894 retained frames, 50 contact sheets, subtitle/index copies, contact-sheet montages, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 894 retained frames, 50 contact sheets, subtitle/index copies, contact-sheet montages, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S3E04_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

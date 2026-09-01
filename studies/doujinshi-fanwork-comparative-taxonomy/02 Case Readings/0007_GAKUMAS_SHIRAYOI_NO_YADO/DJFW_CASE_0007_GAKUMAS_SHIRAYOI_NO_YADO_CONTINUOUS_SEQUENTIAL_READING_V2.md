@@ -7,11 +7,12 @@ generation: V2
 status: canonical
 analysis_mode: continuous_sequential
 run_scope: DJFW_CASE_0002-DJFW_CASE_0010
-source_boundary: "Full 52-page CBZ sequential visual review of Shioyamachicurry/Shioya Coluli, Shirayoi no Yado, including selective OCR of safe warning/setup/afterword pages. Governing comparator is the canonical Gakuen Idolmaster Hiro textual/AV baseline. R18 pages are analyzed only for structural placement and not described graphically."
+source_boundary: Full 52-page CBZ sequential visual review of Shioyamachicurry/Shioya Coluli, Shirayoi no Yado, including selective OCR of safe warning/setup/afterword pages. Governing comparator is the canonical Gakuen Idolmaster Hiro textual/AV baseline. R18 pages are analyzed only for structural placement and not described graphically.
 source_sha256: 1e3977e2c6389da1d2040d719f1051f99db581660376c2fb4bf73c9da0ac8914
 source_pages: 52
-supersedes: DJFW_CASE_0007_GAKUMAS_HIRO_SHIRAYOI_NO_YADO_CASE_READING.md
-superseded_by: null
+supersedes:
+- studies/doujinshi-fanwork-comparative-taxonomy/02 Case Readings/0007_GAKUMAS_SHIRAYOI_NO_YADO/DJFW_CASE_0007_GAKUMAS_HIRO_SHIRAYOI_NO_YADO_CASE_READING.md
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

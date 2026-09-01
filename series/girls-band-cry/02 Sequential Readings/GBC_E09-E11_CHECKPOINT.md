@@ -4,28 +4,28 @@ artifact_type: checkpoint
 scope: E09-E11
 analysis_generation: V2
 status: canonical
-source_boundary: "GBC-V2-SOURCE-LOCK-1.0; frozen GBC_E05-E08_CHECKPOINT.md plus canonical V2 E09-E11 held-out readings; no E12-E13 evidence admitted"
-supersedes: null
-superseded_by: null
+source_boundary: GBC-V2-SOURCE-LOCK-1.0; frozen GBC_E05-E08_CHECKPOINT.md plus canonical V2 E09-E11 held-out readings; no E12-E13 evidence admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 checkpoint_state: frozen
-checkpoint_role: "third-tranche reconciliation, CP2 unique-prediction adjudication, E11-current model freeze, final E12-E13 prospective register, and ledger-materialization reset"
-prior_checkpoint: "GBC_E05-E08_CHECKPOINT.md (Drive ID 1cfRaFb17hybpEJpH5bo4UUuEeZbdBfQU; frozen)"
+checkpoint_role: third-tranche reconciliation, CP2 unique-prediction adjudication, E11-current model freeze, final E12-E13 prospective register, and ledger-materialization reset
+prior_checkpoint: GBC_E05-E08_CHECKPOINT.md (Drive ID 1cfRaFb17hybpEJpH5bo4UUuEeZbdBfQU; frozen)
 source_documents:
-  - "GBC_E09_DEEP_READING.md (Drive ID 1k4xXxz4Y6XoyLxSW9zjQjGwg34XCETp3)"
-  - "GBC_E10_DEEP_READING.md (Drive ID 1EfFJBtRk_ngyeT42ohhmK_iNsCprK4YY)"
-  - "GBC_E11_DEEP_READING.md (Drive ID 1BLc143MLyqKNumyUTvLi8XIjc4_yW9pr)"
-held_out_cp2_event_tally: "33 CONFIRM / 8 PARTIAL / 1 CONTRADICT / 39 NON-DIAGNOSTIC"
-cp2_unique_transition_tally: "16 STRENGTHEN / 2 REVISE / 2 PRESERVE-FULFILLED / 7 OPEN / 0 DOWNGRADE / 0 REJECT"
-ledger_materialization_decision: "MATERIALIZE NOW from checkpoint-reconciled E01-E11 state; active mutable infrastructure; operational priority before E12, but not a new evidentiary gate"
+- GBC_E09_DEEP_READING.md (Drive ID 1k4xXxz4Y6XoyLxSW9zjQjGwg34XCETp3)
+- GBC_E10_DEEP_READING.md (Drive ID 1EfFJBtRk_ngyeT42ohhmK_iNsCprK4YY)
+- GBC_E11_DEEP_READING.md (Drive ID 1BLc143MLyqKNumyUTvLi8XIjc4_yW9pr)
+held_out_cp2_event_tally: 33 CONFIRM / 8 PARTIAL / 1 CONTRADICT / 39 NON-DIAGNOSTIC
+cp2_unique_transition_tally: 16 STRENGTHEN / 2 REVISE / 2 PRESERVE-FULFILLED / 7 OPEN / 0 DOWNGRADE / 0 REJECT
+ledger_materialization_decision: MATERIALIZE NOW from checkpoint-reconciled E01-E11 state; active mutable infrastructure; operational priority before E12, but not a new evidentiary gate
 recommended_reasoning_class: DEEP_SYNTHESIS
-resolved_reasoning_option: "5.6 Sol Extra High"
+resolved_reasoning_option: 5.6 Sol Extra High
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
-reasoning_policy_version: "1.0"
-model_guidance_verified_date: "2026-08-27"
+reasoning_policy_version: '1.0'
+model_guidance_verified_date: '2026-08-27'
 created: 2026-08-27
 updated: 2026-08-27
-next_infrastructure_operation: "Materialize seven authorized standalone longitudinal ledgers from the E11-reconciled state"
+next_infrastructure_operation: Materialize seven authorized standalone longitudinal ledgers from the E11-reconciled state
 next_sequential_operation: GBC_E12_DEEP_READING.md
 ---
 

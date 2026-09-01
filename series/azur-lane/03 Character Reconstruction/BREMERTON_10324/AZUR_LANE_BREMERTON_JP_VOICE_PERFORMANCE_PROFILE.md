@@ -7,13 +7,14 @@ performed_locale: JP
 artifact_type: specialist_synthesis
 scope: BREMERTON_10324_JP_VOICE_PERFORMANCE
 status: active_provisional
-source_boundary: "101 mapped JP spoken utterances in the canonical WAV manifest/index; 100 published Drive PCM WAV derivatives directly retrieved, SHA-256 verified, and acoustically measured; BREMERTON_103245_LOGIN_LOGIN_S042_cc507128.wav remains listed in the canonical manifest/index but is not retrievable from the current Drive publication surface; ear-dependent timbre remains OPEN"
-supersedes: null
-superseded_by: null
+source_boundary: 101 mapped JP spoken utterances in the canonical WAV manifest/index; 100 published Drive PCM WAV derivatives directly retrieved, SHA-256 verified, and acoustically measured; BREMERTON_103245_LOGIN_LOGIN_S042_cc507128.wav remains listed in the canonical manifest/index but is not retrievable from the current Drive publication surface; ear-dependent timbre remains OPEN
+supersedes:
+- series/azur-lane/03 Character Reconstruction/BREMERTON_10324/AZUR_LANE_BREMERTON_JP_AUDIO_PUBLICATION_GAP_AUDIT.md
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-measurement_method_family: "Takao/Baltimore frozen JP performed-acoustic method"
-measurement_completion: "100/101"
+measurement_method_family: Takao/Baltimore frozen JP performed-acoustic method
+measurement_completion: 100/101
 ear_dependent_timbre_status: OPEN
 ---
 

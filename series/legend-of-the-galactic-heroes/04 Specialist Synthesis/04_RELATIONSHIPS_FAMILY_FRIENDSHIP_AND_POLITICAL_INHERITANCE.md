@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Relationships, Family, Friendship, and Political Inheritance"
-subtitle: "How private bonds become public history"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed third-tranche relationship and inheritance document"
+title: 銀河英雄伝説 — Relationships, Family, Friendship, and Political Inheritance
+subtitle: How private bonds become public history
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed third-tranche relationship and inheritance document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G01–G04; G05-SILVER; G05-GOLDEN; G05-MORNING; G05-DISHONOR"
+primary_sources: M01–M10; G01–G04; G05-SILVER; G05-GOLDEN; G05-MORNING; G05-DISHONOR
 ---
 
 # 銀河英雄伝説

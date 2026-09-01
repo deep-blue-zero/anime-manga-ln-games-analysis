@@ -1,24 +1,24 @@
 ---
-title: "Solo Leveling — Institutions, Guilds, Statecraft, and Geopolitics"
-subtitle: "Hunter society, public authority, private force, and the constitutional problem of exceptional power"
-project: "Solo Leveling Definitive Novel–Manhwa Synthesis"
-document_id: "SL_SYNTH_07"
-version: "1.0"
+title: Solo Leveling — Institutions, Guilds, Statecraft, and Geopolitics
+subtitle: Hunter society, public authority, private force, and the constitutional problem of exceptional power
+project: Solo Leveling Definitive Novel–Manhwa Synthesis
+document_id: SL_SYNTH_07
+version: '1.0'
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
-  - "Chugong's complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2"
-  - "Official English manhwa Volumes 1–15"
-governing_method: "../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md"
-paired_architecture: "../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md"
-evidence_spine: "../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-character_spine: "02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md"
-relationship_pair: "05_HUMAN_RELATIONSHIPS_FAMILY_AND_COUNTER_GAZES.md"
-metaphysical_pair: "08_SYSTEM_MONARCHS_METAPHYSICS_INHERITANCE_AND_RESET.md"
-spoilers: "complete series"
-source_inventory_date: "2026-08-12"
+- 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
+- Official English manhwa Volumes 1–15
+governing_method: ../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md
+paired_architecture: ../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md
+evidence_spine: ../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+character_spine: 02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md
+relationship_pair: 05_HUMAN_RELATIONSHIPS_FAMILY_AND_COUNTER_GAZES.md
+metaphysical_pair: 08_SYSTEM_MONARCHS_METAPHYSICS_INHERITANCE_AND_RESET.md
+spoilers: complete series
+source_inventory_date: '2026-08-12'
 ---
 
 # 07 — Institutions, Guilds, Statecraft, and Geopolitics

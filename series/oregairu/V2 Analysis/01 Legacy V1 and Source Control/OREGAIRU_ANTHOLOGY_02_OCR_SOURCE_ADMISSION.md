@@ -4,9 +4,9 @@ artifact_type: SOURCE_AUDIT
 scope: ANTHOLOGY_02_ON_PARADE
 generation: V2
 status: canonical
-source_boundary: "Official Japanese Anthology 02: On Parade; scan-backed OCR-derived EPUB and supplied provenance/validation sidecars"
-supersedes: null
-superseded_by: null
+source_boundary: 'Official Japanese Anthology 02: On Parade; scan-backed OCR-derived EPUB and supplied provenance/validation sidecars'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -5,22 +5,22 @@ artifact_role: CHECKPOINT
 scope: PHASE1B_EVENT_E1C
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_E1C_PRIMARY_FINDINGS_FREEZE.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Frozen post-E1-B baseline plus event_2024_008, event_2024_010, event_2024_011 only"
+source_boundary: Frozen post-E1-B baseline plus event_2024_008, event_2024_010, event_2024_011 only
 inherits: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E1B_BASELINE.md
 historical_analysis_consulted_before_freeze: false
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: FROZEN_PRIMARY_FINDINGS_PRE_HISTORICAL_COMPARISON
-created: "2026-08-15"
-updated: "2026-08-15"
-next_operation: "Historical V1 comparison and E1-C final close-read audit"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-15'
+updated: '2026-08-15'
+next_operation: Historical V1 comparison and E1-C final close-read audit
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1B EVENT CLOSE READ E1-C

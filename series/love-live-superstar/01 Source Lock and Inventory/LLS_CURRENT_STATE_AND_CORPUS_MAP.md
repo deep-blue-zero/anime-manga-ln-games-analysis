@@ -4,9 +4,9 @@ artifact_type: corpus_map
 artifact_role: CURRENT_STATE_AND_CORPUS_MAP
 generation: V2.3
 status: active_provisional
-source_boundary: "technical source lock S1E01-S3E12; semantic analysis through S3E08"
-supersedes: null
-superseded_by: null
+source_boundary: technical source lock S1E01-S3E12; semantic analysis through S3E08
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 mutable_in_place: true
 ---

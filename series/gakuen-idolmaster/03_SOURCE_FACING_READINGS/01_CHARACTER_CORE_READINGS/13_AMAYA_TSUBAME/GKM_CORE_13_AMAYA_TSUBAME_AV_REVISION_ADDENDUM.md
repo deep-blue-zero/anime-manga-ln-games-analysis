@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: claim_revision_ledger
 scope: CHARACTER_AMAYA_TSUBAME_TEXTUAL_CORE_AV_REVISION
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 release: R1
 status: canonical
-source_boundary: "AV revision of GKM_CORE_13_AMAYA_TSUBAME.md based on the complete Phase-3 audiovisual packet"
-supersedes: null
-superseded_by: null
+source_boundary: AV revision of GKM_CORE_13_AMAYA_TSUBAME.md based on the complete Phase-3 audiovisual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-18"
-title: "GKM Core 13 — Amaya Tsubame AV Revision Addendum"
+last_updated: '2026-08-18'
+title: GKM Core 13 — Amaya Tsubame AV Revision Addendum
 ---
 
 # GKM CORE 13 — AMAYA TSUBAME AV REVISION ADDENDUM

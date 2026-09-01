@@ -5,9 +5,9 @@ scope: V04
 generation: V2
 method_generation: V2.1
 status: canonical
-source_boundary: "Japanese manga tankobon Volume 4; integration through V04"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga tankobon Volume 4; integration through V04
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

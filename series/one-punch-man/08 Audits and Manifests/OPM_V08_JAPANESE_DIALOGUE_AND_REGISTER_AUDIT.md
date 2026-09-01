@@ -4,9 +4,9 @@ artifact_type: audit
 scope: V08
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 8; dialogue/register audit against 200-image source lock"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 8; dialogue/register audit against 200-image source lock
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-08-24

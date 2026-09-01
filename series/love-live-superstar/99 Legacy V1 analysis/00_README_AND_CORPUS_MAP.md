@@ -1,16 +1,18 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: corpus_map
-scope: "V1_LEGACY_TRANSCRIPT_EXTRACTION"
+scope: V1_LEGACY_TRANSCRIPT_EXTRACTION
 generation: V1
 status: historical_legacy
-source_boundary: "Selected-branch full-transcript export plus manually recovered original response bodies supplied by the user; exporter did not confirm first message or bottom completion"
-supersedes: null
-superseded_by: "LLS V2 active analytical corpus"
+source_boundary: Selected-branch full-transcript export plus manually recovered original response bodies supplied by the user; exporter did not confirm first message or bottom completion
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 extracted: 2026-08-22
 last_recovery_update: 2026-08-22
+legacy_supersession_notes:
+- 'legacy superseded_by: LLS V2 active analytical corpus'
 ---
 
 # Love Live! Superstar!! — V1 Legacy Transcript Extraction

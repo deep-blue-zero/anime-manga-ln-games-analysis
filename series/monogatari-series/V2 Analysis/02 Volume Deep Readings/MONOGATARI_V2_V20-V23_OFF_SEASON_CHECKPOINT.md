@@ -1,31 +1,31 @@
 ---
-series: "MONOGATARI"
-artifact_type: "checkpoint"
-scope: "V20-V23_OFF_SEASON"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese numbered novel corpus through V23 『結物語』; no V24 or Monster Season analytical claims admitted"
-supersedes: null
-superseded_by: null
+series: MONOGATARI
+artifact_type: checkpoint
+scope: V20-V23_OFF_SEASON
+generation: V2
+status: canonical
+source_boundary: Japanese numbered novel corpus through V23 『結物語』; no V24 or Monster Season analytical claims admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V20-V23_OFF_SEASON_CHECKPOINT"
-version: "1.0"
-date: "2026-08-17"
-checkpoint_type: "season_freeze"
-season: "Off Season"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V20-V23_OFF_SEASON_CHECKPOINT
+version: '1.0'
+date: '2026-08-17'
+checkpoint_type: season_freeze
+season: Off Season
 volumes:
-  - "V20 『愚物語』"
-  - "V21 『業物語』"
-  - "V22 『撫物語』"
-  - "V23 『結物語』"
-previous_boundary: "V19 『続・終物語』 / MONOGATARI_V2_V14-V19_FINAL_SEASON_CHECKPOINT.md"
-next_artifact: "MONOGATARI_V2_V24_DEEP_READING.md"
-next_source: "V24 『忍物語』 (source-inventory fact only; not analyzed here)"
-reasoning_recommendation_used: "GPT-5.6 Sol — Very High"
-governing_method: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-governing_architecture: "MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md"
-live_ledger_boundary: "L01-L09 current through V23 / C444"
+- V20 『愚物語』
+- V21 『業物語』
+- V22 『撫物語』
+- V23 『結物語』
+previous_boundary: V19 『続・終物語』 / MONOGATARI_V2_V14-V19_FINAL_SEASON_CHECKPOINT.md
+next_artifact: MONOGATARI_V2_V24_DEEP_READING.md
+next_source: V24 『忍物語』 (source-inventory fact only; not analyzed here)
+reasoning_recommendation_used: GPT-5.6 Sol — Very High
+governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
+governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+live_ledger_boundary: L01-L09 current through V23 / C444
 freeze_complete: true
 ---
 

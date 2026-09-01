@@ -1,16 +1,18 @@
 ---
-series: "MHA"
-artifact_type: "deep_reading"
-scope: "V38-V39"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "My Hero Academia manga Volumes 38-39"
-supersedes: null
-superseded_by: "MHA V2 second-pass reread where re-adjudicated"
+series: MHA
+artifact_type: deep_reading
+scope: V38-V39
+generation: V1
+status: historical_legacy
+source_boundary: My Hero Academia manga Volumes 38-39
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - My Hero Academia deep dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - My Hero Academia deep dive - Full Transcript(1).md
 source_turn: 38
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: MHA V2 second-pass reread where re-adjudicated'
 ---
 
 Done — I’ll treat **My Hero Academia Vols. 38–39** as incorporated into the working corpus.

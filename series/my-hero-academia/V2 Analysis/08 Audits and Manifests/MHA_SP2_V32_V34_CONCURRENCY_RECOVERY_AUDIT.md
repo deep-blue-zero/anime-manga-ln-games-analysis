@@ -6,9 +6,9 @@ scope: V32-V34_CONCURRENCY_RECOVERY
 generation: V2
 method_generation: V2.1
 status: canonical
-source_boundary: "Administrative/concurrency recovery after overlapping V32 and V32-V34 Drive transactions on 2026-08-27"
-supersedes: null
-superseded_by: null
+source_boundary: Administrative/concurrency recovery after overlapping V32 and V32-V34 Drive transactions on 2026-08-27
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

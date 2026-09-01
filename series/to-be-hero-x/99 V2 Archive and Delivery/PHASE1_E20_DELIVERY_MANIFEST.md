@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: E20
 generation: V2
 status: canonical
-source_boundary: "Episode 20 frozen after frame and supplemental motion audit"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 20 frozen after frame and supplemental motion audit
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

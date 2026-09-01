@@ -3,11 +3,12 @@ series: TBHX
 artifact_type: handoff
 scope: E11
 generation: V2
-status: canonical
-source_boundary: "Prospective Phase 1 state through S01E11"
-supersedes: null
-superseded_by: null
-do_not_use_as_current_authority: false
+status: superseded
+source_boundary: Prospective Phase 1 state through S01E11
+supersedes: []
+superseded_by:
+- series/to-be-hero-x/01 V2 Episode Deep Readings/TBHX_V2_PHASE1_E12_HANDOFF.md
+do_not_use_as_current_authority: true
 ---
 
 # To Be Hero X V2 — Phase 1 E11 Handoff

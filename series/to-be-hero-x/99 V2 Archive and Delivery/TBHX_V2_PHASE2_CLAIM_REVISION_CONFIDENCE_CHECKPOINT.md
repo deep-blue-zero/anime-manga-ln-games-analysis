@@ -7,9 +7,9 @@ generation: V2
 phase: 2
 work_unit: claim_revision_and_confidence_stabilization
 status: canonical
-source_boundary: "Frozen Mandarin-primary E01-E24 corpus; all stabilized Phase-2 topical ledgers through T03B; episode motion audits; targeted AV evidence through TBHX-AV-E11-001"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary E01-E24 corpus; all stabilized Phase-2 topical ledgers through T03B; episode motion audits; targeted AV evidence through TBHX-AV-E11-001
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-16
 ---

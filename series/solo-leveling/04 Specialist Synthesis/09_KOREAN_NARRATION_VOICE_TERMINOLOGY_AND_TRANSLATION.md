@@ -1,22 +1,22 @@
 ---
-title: "Solo Leveling — Korean Narration, Voice, Terminology, and Translation"
-subtitle: "The Sung Jinwoo who exists most clearly in prose"
-project: "Solo Leveling Definitive Novel–Manhwa Synthesis"
-document_id: "SL_SYNTH_09"
-version: "1.0"
+title: Solo Leveling — Korean Narration, Voice, Terminology, and Translation
+subtitle: The Sung Jinwoo who exists most clearly in prose
+project: Solo Leveling Definitive Novel–Manhwa Synthesis
+document_id: SL_SYNTH_09
+version: '1.0'
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
-  - "Chugong's complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2"
-  - "Official English manhwa Volumes 1–15 for adaptation/translation comparison where appropriate"
-governing_method: "../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md"
-paired_architecture: "../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md"
-evidence_spine: "../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-adaptation_pair: "10_MANHWA_ADAPTATION_VISUAL_GRAMMAR_AND_RECOMPOSITION.md"
-spoilers: "complete series"
-source_inventory_date: "2026-08-12"
+- 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
+- Official English manhwa Volumes 1–15 for adaptation/translation comparison where appropriate
+governing_method: ../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md
+paired_architecture: ../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md
+evidence_spine: ../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+adaptation_pair: 10_MANHWA_ADAPTATION_VISUAL_GRAMMAR_AND_RECOMPOSITION.md
+spoilers: complete series
+source_inventory_date: '2026-08-12'
 ---
 
 # 09 — Korean Narration, Voice, Terminology, and Translation

@@ -4,7 +4,7 @@ artifact_type: analytical_method
 scope: JAPANESE_LANGUAGE_HUMOR_VOICE
 method_version: V1
 status: canonical
-source_boundary: "Japanese main-series light novels; translation comparison optional and secondary"
+source_boundary: Japanese main-series light novels; translation comparison optional and secondary
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

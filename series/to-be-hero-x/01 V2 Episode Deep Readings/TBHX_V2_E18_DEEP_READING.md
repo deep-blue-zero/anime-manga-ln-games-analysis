@@ -5,27 +5,27 @@ scope: E18
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 18 analytical bundle; S01E01-S01E18 broadcast knowledge only; explicit E19 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 18 analytical bundle; S01E01-S01E18 broadcast knowledge only; explicit E19 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 18 Deep Reading"
+title: To Be Hero X V2 — Episode 18 Deep Reading
 season: 1
 episode: 18
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e18_screenshots.zip"
-source_bundle_sha256: "a1e49e3b6610f37a668220a5b15a64fd6d221e3785f675071096a095452c40f6"
+analysis_version: '2.0'
+source_bundle: BHX_s01e18_screenshots.zip
+source_bundle_sha256: a1e49e3b6610f37a668220a5b15a64fd6d221e3785f675071096a095452c40f6
 source_bundle_bytes: 207126251
 archive_member_count: 874
 source_duration_seconds: 1517.013
-program_start_seconds: 47.500
-analysis_start_seconds: 47.250
+program_start_seconds: 47.5
+analysis_start_seconds: 47.25
 mandarin_cue_count_total: 323
 mandarin_cue_count_episode_proper: 310
-preview_cue_range_excluded: "CN 311-323"
-preview_start_seconds: 1467.120
-mandarin_ocr_mean_confidence: 0.991560
+preview_cue_range_excluded: CN 311-323
+preview_start_seconds: 1467.12
+mandarin_ocr_mean_confidence: 0.99156
 mandarin_ocr_median_confidence: 0.998081
 mandarin_ocr_min_confidence: 0.906329
 retained_low_confidence_events: 0
@@ -36,12 +36,12 @@ mandarin_cues_with_japanese_pairing: 298
 contact_sheet_count: 41
 kept_screenshot_count: 817
 scene_segment_count: 16
-spoiler_boundary: "S01E01-S01E18 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
-naming_authority: "TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional through E17; E18 additions recorded prospectively below"
+spoiler_boundary: S01E01-S01E18 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
+naming_authority: TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional through E17; E18 additions recorded prospectively below
 ---
 
 # To Be Hero X V2 — Episode 18 Deep Reading

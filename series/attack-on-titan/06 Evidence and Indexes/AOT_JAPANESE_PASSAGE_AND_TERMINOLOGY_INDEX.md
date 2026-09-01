@@ -4,17 +4,17 @@ artifact_type: japanese_passage_and_terminology_index
 artifact_role: JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX
 scope: V01-V34
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-date: "2026-08-28"
-source_boundary: "Japanese manga V01-V34; seeded from canonical deep readings, AOT_JAPANESE_VOICE_AND_VOCABULARY_LEDGER.md v2.1, AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md v1.0, and AOT_PRIMARY_SOURCE_LOCATOR_INDEX_V01-V34.tsv v1.0; no English comparison corpus"
-governing_architecture: "AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2"
-governing_method: "AOT_ANALYTICAL_METHOD_V2.md v2.1"
-canonical_home: "06 Evidence and Indexes/AOT_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md"
-canonical_drive_id: "1QtdYKIs0Lq6ph91GMageDGEcjSbdfG76"
-supersedes: null
-superseded_by: null
-publication_state: "canonical Drive placement and initial byte-for-byte readback verified"
+date: '2026-08-28'
+source_boundary: Japanese manga V01-V34; seeded from canonical deep readings, AOT_JAPANESE_VOICE_AND_VOCABULARY_LEDGER.md v2.1, AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md v1.0, and AOT_PRIMARY_SOURCE_LOCATOR_INDEX_V01-V34.tsv v1.0; no English comparison corpus
+governing_architecture: AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2
+governing_method: AOT_ANALYTICAL_METHOD_V2.md v2.1
+canonical_home: 06 Evidence and Indexes/AOT_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md
+canonical_drive_id: 1QtdYKIs0Lq6ph91GMageDGEcjSbdfG76
+supersedes: []
+superseded_by: []
+publication_state: canonical Drive placement and initial byte-for-byte readback verified
 do_not_use_as_current_authority: false
 ---
 

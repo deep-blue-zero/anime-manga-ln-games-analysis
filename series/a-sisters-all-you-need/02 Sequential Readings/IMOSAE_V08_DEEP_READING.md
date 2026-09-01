@@ -4,17 +4,17 @@ artifact_type: deep_reading
 scope: V08
 generation: V1
 status: canonical
-source_boundary: "Japanese light novel Volume 08; prior context limited to frozen V01-V03 and V04-V06 checkpoints plus canonical V07; no V09-V14 semantic evidence"
+source_boundary: Japanese light novel Volume 08; prior context limited to frozen V01-V03 and V04-V06 checkpoints plus canonical V07; no V09-V14 semantic evidence
 raw_source_set: IMOSAE-JP-LN-RAW-1.0
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
 visual_index_version: IMOSAE-VISUAL-INDEX-1.0
 previous_checkpoint: IMOSAE_V04-V06_CHECKPOINT.md
 prior_sequential_reading: IMOSAE_V07_DEEP_READING.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-19"
+version: '1.0'
+date: '2026-08-19'
 ---
 
 # 『妹さえいればいい。』 Volume 08 Deep Reading

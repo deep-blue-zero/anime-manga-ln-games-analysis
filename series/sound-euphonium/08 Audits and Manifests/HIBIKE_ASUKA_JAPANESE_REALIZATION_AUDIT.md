@@ -3,44 +3,44 @@ series: HIBIKE
 artifact_type: audit
 scope: ASUKA_JAPANESE_REALIZATION_V0.2
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
 reasoning_profile: extra_high_source_constrained_japanese_realization_audit
 audit_targets:
-  - "04 Character Modeling/HIBIKE_ASUKA_CHARACTER_MONOGRAPH.md"
-  - "08 Audits and Manifests/HIBIKE_ASUKA_CHARACTER_MONOGRAPH_AUDIT.md"
-  - "08 Audits and Manifests/HIBIKE_KUMIKO_ASUKA_RECIPROCAL_MODEL_AUDIT.md"
+- 04 Character Modeling/HIBIKE_ASUKA_CHARACTER_MONOGRAPH.md
+- 08 Audits and Manifests/HIBIKE_ASUKA_CHARACTER_MONOGRAPH_AUDIT.md
+- 08 Audits and Manifests/HIBIKE_KUMIKO_ASUKA_RECIPROCAL_MODEL_AUDIT.md
 audit_target_versions:
-  asuka: "0.2"
-  asuka_monograph_audit: "1.1"
-  kumiko_asuka_reciprocal_audit: "1.0"
+  asuka: '0.2'
+  asuka_monograph_audit: '1.1'
+  kumiko_asuka_reciprocal_audit: '1.0'
 audit_target_drive_ids:
-  asuka: "146tjbGt20wdQPa-p9XikNr_WClObPM2a"
-  asuka_monograph_audit: "1kENTHep7_LhO_sqfZrHwRfP13B5Q2iYz"
-  kumiko_asuka_reciprocal_audit: "1XrrGT3opl-z1f9T-T6xz8Eg8SPW4OMcC"
+  asuka: 146tjbGt20wdQPa-p9XikNr_WClObPM2a
+  asuka_monograph_audit: 1kENTHep7_LhO_sqfZrHwRfP13B5Q2iYz
+  kumiko_asuka_reciprocal_audit: 1XrrGT3opl-z1f9T-T6xz8Eg8SPW4OMcC
 audit_target_sha256:
-  asuka: "094e230fba86e3f4e0b199cb86ae8c46add253f30ba5df9eef82a797c9cf98f5"
-  asuka_monograph_audit: "96940bde2080625818b9e93949725e11740c3af002cecbe69709418080907b76"
-  kumiko_asuka_reciprocal_audit: "de2d58e5f0d31f72765da4ab8447da6df094d674c694f2b64015c494d4637338"
+  asuka: 094e230fba86e3f4e0b199cb86ae8c46add253f30ba5df9eef82a797c9cf98f5
+  asuka_monograph_audit: 96940bde2080625818b9e93949725e11740c3af002cecbe69709418080907b76
+  kumiko_asuka_reciprocal_audit: de2d58e5f0d31f72765da4ab8447da6df094d674c694f2b64015c494d4637338
 audit_result: pass_with_internal_evaluator_limit_no_model_patch
 japanese_realization_gate: pass
 monograph_patch_required: false
-positive_realization_suite: "30/30 PASS"
-obvious_negative_controls: "30/30 REJECTED"
-fluent_near_miss_controls: "18/18 REJECTED"
-held_out_source_analogues: "8/8 PASS"
-kumiko_asuka_bridge_realization: "16/16 PASS"
-raw_source_identity_recheck: "V12 1/1 SHA-256 PASS; remaining anchors resolved through canonical locator indexes bound to Phase-1 source lock"
-source_anchor_validation: "50 fully-qualified occurrences / 38 unique ranges / 1,400 expanded paragraph positions / 0 missing / 0 reversed"
+positive_realization_suite: 30/30 PASS
+obvious_negative_controls: 30/30 REJECTED
+fluent_near_miss_controls: 18/18 REJECTED
+held_out_source_analogues: 8/8 PASS
+kumiko_asuka_bridge_realization: 16/16 PASS
+raw_source_identity_recheck: V12 1/1 SHA-256 PASS; remaining anchors resolved through canonical locator indexes bound to Phase-1 source lock
+source_anchor_validation: 50 fully-qualified occurrences / 38 unique ranges / 1,400 expanded paragraph positions / 0 missing / 0 reversed
 anti_copy_max_contiguous_source_chars: 10
 independent_native_speaker_validation: deferred
-source_boundary: "Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical V2 locator indexes; V2 voice/register and relationship ledgers; Asuka v0.2; Asuka independent audit v1.1; Kumiko-Asuka reciprocal audit v1.0; prior Kumiko-Reina and Shuuichi Japanese-realization audits used as methodological precedent only; raw V12 Japanese EPUB re-hashed for direct adult-state source identity"
-canonical_home: "08 Audits and Manifests/HIBIKE_ASUKA_JAPANESE_REALIZATION_AUDIT.md"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical V2 locator indexes; V2 voice/register and relationship ledgers; Asuka v0.2; Asuka independent audit v1.1; Kumiko-Asuka reciprocal audit v1.0; prior Kumiko-Reina and Shuuichi Japanese-realization audits used as methodological precedent only; raw V12 Japanese EPUB re-hashed for direct adult-state source identity
+canonical_home: 08 Audits and Manifests/HIBIKE_ASUKA_JAPANESE_REALIZATION_AUDIT.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-26"
-updated: "2026-08-26"
+created: '2026-08-26'
+updated: '2026-08-26'
 ---
 
 # Sound! Euphonium V2 — Asuka Japanese Realization Audit

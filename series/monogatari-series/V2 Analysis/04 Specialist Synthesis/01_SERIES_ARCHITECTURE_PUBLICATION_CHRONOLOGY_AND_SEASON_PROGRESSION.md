@@ -4,9 +4,9 @@ artifact_type: specialist_synthesis
 scope: SERIES_ARCHITECTURE_PUBLICATION_CHRONOLOGY_AND_SEASON_PROGRESSION
 generation: V2
 status: canonical
-source_boundary: "Locked Japanese numbered corpus V01-V30 plus admitted Hyakumonogatari SUP-C and Mijikanamonogatari SUP-A evidence through C764; GUIDE-001-005 retained as dual textual witnesses"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese numbered corpus V01-V30 plus admitted Hyakumonogatari SUP-C and Mijikanamonogatari SUP-A evidence through C764; GUIDE-001-005 retained as dual textual witnesses
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
 governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
@@ -15,14 +15,14 @@ chronology_authority: L01_PUBLICATION_AND_STORY_CHRONOLOGY_LEDGER.md
 narrator_authority: L02_NARRATOR_AND_FOCALIZATION_LEDGER.md
 claim_revision_authority: L09_FIRST_PASS_V2_CLAIM_REVISION_LEDGER.md
 season_freezes:
-  - MONOGATARI_V2_V14-V19_FINAL_SEASON_CHECKPOINT.md
-  - MONOGATARI_V2_V20-V23_OFF_SEASON_CHECKPOINT.md
-  - MONOGATARI_V2_V24-V29_MONSTER_SEASON_CHECKPOINT.md
-  - MONOGATARI_V2_V30_FAMILY_SEASON_SOURCE_BOUNDARY_CHECKPOINT.md
+- MONOGATARI_V2_V14-V19_FINAL_SEASON_CHECKPOINT.md
+- MONOGATARI_V2_V20-V23_OFF_SEASON_CHECKPOINT.md
+- MONOGATARI_V2_V24-V29_MONSTER_SEASON_CHECKPOINT.md
+- MONOGATARI_V2_V30_FAMILY_SEASON_SOURCE_BOUNDARY_CHECKPOINT.md
 supplementary_freeze: MONOGATARI_V2_SUPPLEMENTARY_INTEGRATION_CHECKPOINT.md
 numbered_boundary: V30
 chronology_boundary: C764
-phase: "Phase 3 macro-architecture synthesis"
+phase: Phase 3 macro-architecture synthesis
 next_artifact: 02_NARRATION_FOCALIZATION_SELF_STORY_AND_READER_MISRECOGNITION.md
 ---
 

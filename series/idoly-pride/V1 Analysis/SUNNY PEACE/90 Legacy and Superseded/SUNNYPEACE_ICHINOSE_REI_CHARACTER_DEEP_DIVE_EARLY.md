@@ -1,23 +1,25 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "character_monograph"
-scope: "SUNNY PEACE / Ichinose Rei"
-generation: "V1"
-status: "superseded"
-source_boundary: "Earlier chat-derived Rei synthesis"
-supersedes: null
-superseded_by: "SUNNYPEACE_ICHINOSE_REI_CHARACTER_DEEP_DIVE.md"
+series: IDOLY_PRIDE
+artifact_type: character_monograph
+scope: SUNNY PEACE / Ichinose Rei
+generation: V1
+status: historical_legacy
+source_boundary: Earlier chat-derived Rei synthesis
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md
 source_turn: 82
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: SUNNYPEACE_ICHINOSE_REI_CHARACTER_DEEP_DIVE.md'
 ---
 
-I grounded this Rei-focused document in the existing SUNNY PEACE synthesis, Rei’s unit-origin material, her bond-story bundle, and the prior event-priority notes that identify her major father-conflict and Rei/Haruko stories as important material. IDOLY PRIDE - Sunny Peace deep … origin\_sun\_002\_rei\_s\_memories bond\_rei\_001\_rei[
+I grounded this Rei-focused document in the existing SUNNY PEACE synthesis, Rei’s unit-origin material, her bond-story bundle, and the prior event-priority notes that identify her major father-conflict and Rei/Haruko stories as important material. IDOLY PRIDE - Sunny Peace deep … origin\_sun\_002\_rei\_s\_memories bond\_rei\_001\_rei
 
 Core event story priorities
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3af787-7330-832c-b855-146debae162f?messageId=85114a05-ec0c-4ea9-8417-600d5b15c4b9&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Ichinose Rei: Character, Voice, Visual Design, and Comparative Analysis Reference
 

@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: specialist_completion_checkpoint
-scope: "Phase 4 Document 01 - narrative architecture, chronology, perspective, and recontextualization"
+scope: Phase 4 Document 01 - narrative architecture, chronology, perspective, and recontextualization
 generation: V2
 phase: 4
-specialist_number: 01
+specialist_number: 1
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; Phase-2 chronology/public-narrative/form/claim authorities; Phase-3 Specialists 06-16; motion and targeted audiovisual evidence where sequence matters"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; Phase-2 chronology/public-narrative/form/claim authorities; Phase-3 Specialists 06-16; motion and targeted audiovisual evidence where sequence matters
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

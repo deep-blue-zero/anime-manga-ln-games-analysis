@@ -5,23 +5,23 @@ artifact_role: DEEP_READING
 scope: S3E07
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S3E07 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S3E07 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 3
 episode: 7
-episode_title_japanese: "Liella!に勝つため"
-episode_title_english: "To Defeat Liella!"
-episode_title_source: "retained source frame at approximately 00:02:59.971 directly displays #07 / Liella!に勝つため; embedded English Signs events render To Defeat Liella!; title used as identifying/formal evidence, not independent proof"
+episode_title_japanese: Liella!に勝つため
+episode_title_english: To Defeat Liella!
+episode_title_source: 'retained source frame at approximately 00:02:59.971 directly displays #07 / Liella!に勝つため; embedded English Signs events render To Defeat Liella!; title used as identifying/formal evidence, not independent proof'
 artifact_id: LLS_S3E07_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E06 as prior authority; corrected-Japanese SRT governing text; bounded English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; two-group representative procedure, eleven-person desire versus timing, TomaKanoTe team formation, Kanon communication-before-convergence leadership, Tomari protective evidentiary rivalry, Wien recognition/rival-boundary model, private-preference voice expansion, huff audit, future-route negative evidence, relationship/behavior/institution analysis"
+analysis_mode: sealed sequential V2.2; frozen Season-1 and Season-2 checkpoints plus canonical S3E01-S3E06 as prior authority; corrected-Japanese SRT governing text; bounded English comparison lane; full retained-frame/contact-sheet visual audit; complete-audio/acoustic audit; two-group representative procedure, eleven-person desire versus timing, TomaKanoTe team formation, Kanon communication-before-convergence leadership, Tomari protective evidentiary rivalry, Wien recognition/rival-boundary model, private-preference voice expansion, huff audit, future-route negative evidence, relationship/behavior/institution analysis
 source_bundle: LLS_s03e07_screenshots.zip
 source_drive_id: 17HPds2eSYtvLfui3omwcZjy0NHTp56H5
 source_sha256: bd3843f006ee6de382ce0e32008710c79f83ad5391dfd4c3c28c761a7473af6b
 source_bytes: 157838248
-source_language: "Japanese audio; corrected Japanese SRT; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S3E07 only"
+source_language: Japanese audio; corrected Japanese SRT; English comparison ASS
+semantic_evidence_boundary: S1E01-S3E07 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON2_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
@@ -32,8 +32,8 @@ season1_frozen_checkpoint_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 season2_frozen_checkpoint: LLS_SEASON2_FROZEN_CHECKPOINT.md
 season2_frozen_checkpoint_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
 season2_checkpoint_status: frozen
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 778
 retained_frames: 719
 contact_sheets_reviewed: 41
@@ -55,17 +55,17 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_packaging_warning: "Phase-0 known non-blocking warning: corrected Japanese is retained as S03E07.ja.corrected.srt; selected_subtitle correctly points to SRT while language_tracks.japanese_corrected/comparison_pairing.primary stale-reference an .ass filename. Exact Japanese wording/timing is usable; Japanese ASS style-layer claims are unavailable."
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_packaging_warning: 'Phase-0 known non-blocking warning: corrected Japanese is retained as S03E07.ja.corrected.srt; selected_subtitle correctly points to SRT while language_tracks.japanese_corrected/comparison_pairing.primary stale-reference an .ass filename. Exact Japanese wording/timing is usable; Japanese ASS style-layer claims are unavailable.'
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 719 retained frames, 41 contact sheets, subtitle/index copies, contact-sheet overview montages, title crop, transcript/index products, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 719 retained frames, 41 contact sheets, subtitle/index copies, contact-sheet overview montages, title crop, transcript/index products, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S3E08_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

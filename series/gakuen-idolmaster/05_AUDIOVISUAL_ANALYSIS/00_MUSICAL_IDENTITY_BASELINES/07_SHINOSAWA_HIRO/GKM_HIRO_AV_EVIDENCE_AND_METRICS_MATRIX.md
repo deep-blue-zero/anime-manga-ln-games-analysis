@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_SHINOSAWA_HIRO_AV_EVIDENCE_MATRIX
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "33-source Hiro AV packet plus Source Lock 1.0 textual control"
-supersedes: null
-superseded_by: null
+source_boundary: 33-source Hiro AV packet plus Source Lock 1.0 textual control
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shinosawa Hiro AV Evidence and Metrics Matrix"
-parent_authority: "GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shinosawa Hiro AV Evidence and Metrics Matrix
+parent_authority: GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # SHINOSAWA HIRO — AV EVIDENCE AND METRICS MATRIX

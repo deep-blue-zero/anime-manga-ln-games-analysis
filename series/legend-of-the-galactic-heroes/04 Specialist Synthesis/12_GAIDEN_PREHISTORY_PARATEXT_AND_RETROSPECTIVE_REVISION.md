@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Gaiden, Prehistory, Paratext, and Retrospective Revision"
-subtitle: "Before legend, between volumes, and behind the historical record"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed first-tranche document"
+title: 銀河英雄伝説 — Gaiden, Prehistory, Paratext, and Retrospective Revision
+subtitle: Before legend, between volumes, and behind the historical record
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed first-tranche document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "G01–G05, with M01–M10 as the governing narrative context"
+primary_sources: G01–G05, with M01–M10 as the governing narrative context
 ---
 
 # 銀河英雄伝説

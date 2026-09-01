@@ -8287,23 +8287,23 @@ I’ll frame Garou as more than “hero hunter”: a wounded moral theorist whos
 
 **Assistant — Turn 44**
 
-This Garou document builds from the prior *One Punch Man* synthesis, Saitama deep dive, Saitama-relations overview, and satire reference through Volume 34.[
+This Garou document builds from the prior *One Punch Man* synthesis, Saitama deep dive, Saitama-relations overview, and satire reference through Volume 34.
 
 One Punch Man synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bfacfce7-f340-4c06-86df-298103a5465f&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama deep dive document
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=01aa9536-a56a-4fa5-85d8-bcf0207f787a&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama Character Relationships…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bf3bc976-98a4-4a1a-aeb5-f1e10efe143c&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 One Punch Man satire
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=59faff48-56f8-4645-96f3-42425106393b&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Garou Deep Dive: Personality, Strength, Voice, Ethics, Philosophy, and Comparative Significance
 
@@ -9131,23 +9131,23 @@ The final formulation is:
 
 **Assistant — Turn 46**
 
-Grounded in the prior *One Punch Man* synthesis, Saitama deep dive, Saitama-relations overview, and satire reference through Volume 34.[
+Grounded in the prior *One Punch Man* synthesis, Saitama deep dive, Saitama-relations overview, and satire reference through Volume 34.
 
 One Punch Man synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bfacfce7-f340-4c06-86df-298103a5465f&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama deep dive document
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=01aa9536-a56a-4fa5-85d8-bcf0207f787a&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama Character Relationships…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bf3bc976-98a4-4a1a-aeb5-f1e10efe143c&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 One Punch Man satire
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=59faff48-56f8-4645-96f3-42425106393b&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Genos Deep Dive: Personality, Strength, Voice, Ethics, Philosophy, and Comparative Significance
 
@@ -9981,19 +9981,19 @@ I’ll make King the center of a full conceptual profile rather than treating hi
 
 **Assistant — Turn 48**
 
-Grounded in the prior *One Punch Man* synthesis and character/satire documents, especially the readings of King as Saitama’s social inverse, reputation as battlefield force, and public image as powerful but unreliable.[
+Grounded in the prior *One Punch Man* synthesis and character/satire documents, especially the readings of King as Saitama’s social inverse, reputation as battlefield force, and public image as powerful but unreliable.
 
 Saitama Character Relationships…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bf3bc976-98a4-4a1a-aeb5-f1e10efe143c&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 One Punch Man satire
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=59faff48-56f8-4645-96f3-42425106393b&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama deep dive document
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=01aa9536-a56a-4fa5-85d8-bcf0207f787a&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # King Deep Dive: Personality, Strength, Voice, Ethics, Philosophy, and Comparative Significance
 
@@ -10973,15 +10973,15 @@ I’m going to treat Fubuki as more than “Tatsumaki’s weaker sister” or �
 
 **Assistant — Turn 50**
 
-This builds from the prior *One Punch Man* synthesis, Saitama-relations document, and power-system notes through Volume 34, especially the framing of Fubuki as hierarchy transformed into relational leadership.[
+This builds from the prior *One Punch Man* synthesis, Saitama-relations document, and power-system notes through Volume 34, especially the framing of Fubuki as hierarchy transformed into relational leadership.
 
 Saitama Character Relationships…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bf3bc976-98a4-4a1a-aeb5-f1e10efe143c&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 One Punch Man synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bfacfce7-f340-4c06-86df-298103a5465f&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Fubuki Deep Dive: Personality, Strength, Voice, Ethics, Philosophy, and Comparative Significance
 
@@ -11972,19 +11972,19 @@ Using the prior uploaded material and responses. generate an in depth writeup th
 
 **Assistant — Turn 52**
 
-Grounded in the prior *One Punch Man* synthesis, Saitama-relations reference, and power-system/satire documents through Volume 34, especially the repeated framing of Tatsumaki as overwhelming protective power shaped by trauma, isolation, and defensive self-reliance.[
+Grounded in the prior *One Punch Man* synthesis, Saitama-relations reference, and power-system/satire documents through Volume 34, especially the repeated framing of Tatsumaki as overwhelming protective power shaped by trauma, isolation, and defensive self-reliance.
 
 One Punch Man synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bfacfce7-f340-4c06-86df-298103a5465f&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama Character Relationships…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bf3bc976-98a4-4a1a-aeb5-f1e10efe143c&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama deep dive document
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=01aa9536-a56a-4fa5-85d8-bcf0207f787a&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Tatsumaki Deep Dive: Personality, Strength, Voice, Ethics, Philosophy, and Comparative Significance
 
@@ -13018,11 +13018,11 @@ Here are volumes 35-37 to be staged for future analysis.
 
 And yes: at this point, I think using the **English chapters for the uncollected continuation would entail surprisingly little loss for most of the analysis we care about**.
 
-After 37 Japanese volumes, we already have a very strong baseline for how *One Punch Man* writes its established cast. For characters such as Saitama, Genos, King, Fubuki, Tatsumaki, Bang, Garou, Amai Mask, Flash, Sonic, etc., we already know the broad Japanese voice architecture: relative formality, bluntness, theatricality, roughness, pronoun/address choices, hierarchy markers, characteristic speech rhythms, and so forth. The Volume 1–34 synthesis already treats characterization at that level, and Volumes 35–37 will extend that Japanese-language baseline further.[
+After 37 Japanese volumes, we already have a very strong baseline for how *One Punch Man* writes its established cast. For characters such as Saitama, Genos, King, Fubuki, Tatsumaki, Bang, Garou, Amai Mask, Flash, Sonic, etc., we already know the broad Japanese voice architecture: relative formality, bluntness, theatricality, roughness, pronoun/address choices, hierarchy markers, characteristic speech rhythms, and so forth. The Volume 1–34 synthesis already treats characterization at that level, and Volumes 35–37 will extend that Japanese-language baseline further.
 
 One Punch Man synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bfacfce7-f340-4c06-86df-298103a5465f&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 So I would separate the analytical losses into two categories.
 

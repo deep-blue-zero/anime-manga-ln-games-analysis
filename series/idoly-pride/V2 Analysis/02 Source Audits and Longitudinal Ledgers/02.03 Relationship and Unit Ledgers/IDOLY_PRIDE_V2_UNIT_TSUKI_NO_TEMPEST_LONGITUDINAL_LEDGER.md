@@ -3,48 +3,49 @@ series: IDOLY_PRIDE
 artifact_type: unit_longitudinal_ledger
 artifact_role: LEDGER
 scope: UNIT_TSUKI_NO_TEMPEST
-unit: "Tsuki no Tempest"
-unit_japanese: "月のテンペスト"
+unit: Tsuki no Tempest
+unit_japanese: 月のテンペスト
 member_codes:
-  - ktn
-  - ngs
-  - ski
-  - suz
-  - mei
+- ktn
+- ngs
+- ski
+- suz
+- mei
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-D-TSUKI-NO-TEMPEST"
+phase: '2'
+tranche: P2-D-TSUKI-NO-TEMPEST
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 Tsuki no Tempest unit reconstruction across the frozen 2026-08-13 analytical snapshot. The union of the five canonical member occurrence indexes ktn/ngs/ski/suz/mei yields 273 deduplicated member-bearing routed bundles. Their exact all-five intersection yields 56 bundles: 42 main-story, 8 event, 3 specials/misc, and 3 message bundles. These are breadth/contradiction frontiers, not counts of substantive unit-state changes. The generated tsuki_no_tempest.md group index is structurally corrupted as a unit-membership authority: it contains 200 routing rows / 168 unique bundle IDs, uses smr in 73 rows, uses mei in 0 rows, and smr is the canonical Sumire code associated with TRINITYAiLE rather than Hayasaka Mei. Therefore this ledger quarantines tsuki_no_tempest.md as a non-authoritative convenience route and reconstructs the P2-D frontier from the five verified member indexes, source-native Tsuki origins, completed P2-B/P2-C ledgers, and directly reopened Hoshimi/Tokyo/BIG4/late-event primary bundles. No post-snapshot source is admitted."
+source_boundary: 'Phase-2 Tsuki no Tempest unit reconstruction across the frozen 2026-08-13 analytical snapshot. The union of the five canonical member occurrence indexes ktn/ngs/ski/suz/mei yields 273 deduplicated member-bearing routed bundles. Their exact all-five intersection yields 56 bundles: 42 main-story, 8 event, 3 specials/misc, and 3 message bundles. These are breadth/contradiction frontiers, not counts of substantive unit-state changes. The generated tsuki_no_tempest.md group index is structurally corrupted as a unit-membership authority: it contains 200 routing rows / 168 unique bundle IDs, uses smr in 73 rows, uses mei in 0 rows, and smr is the canonical Sumire code associated with TRINITYAiLE rather than Hayasaka Mei. Therefore this ledger quarantines tsuki_no_tempest.md as a non-authoritative convenience route and reconstructs the P2-D frontier from the five verified member indexes, source-native Tsuki origins, completed P2-B/P2-C ledgers, and directly reopened Hoshimi/Tokyo/BIG4/late-event
+  primary bundles. No post-snapshot source is admitted.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE1B_TSUKI_NO_TEMPEST_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
-  - IDOLY_PRIDE_V2_PHASE1B_BIG4_MAIN_STORY_PRIMARY_FINDINGS_FREEZE.md
-  - IDOLY_PRIDE_V2_CHAR_KOTONO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_NAGISA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_SAKI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_SUZU_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_MEI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_KOTONO_NAGISA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_MANA_KOTONO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_SAKI_CHISA_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE1B_TSUKI_NO_TEMPEST_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
+- IDOLY_PRIDE_V2_PHASE1B_BIG4_MAIN_STORY_PRIMARY_FINDINGS_FREEZE.md
+- IDOLY_PRIDE_V2_CHAR_KOTONO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_NAGISA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_SAKI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_SUZU_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_MEI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_KOTONO_NAGISA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_MANA_KOTONO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_SAKI_CHISA_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_D_TSUKI_NO_TEMPEST_PASS
-created: "2026-08-25"
-updated: "2026-08-25"
-next_operation: "P2-D — LizNoir unit longitudinal ledger"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-25'
+updated: '2026-08-25'
+next_operation: P2-D — LizNoir unit longitudinal ledger
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — TSUKI NO TEMPEST UNIT LONGITUDINAL LEDGER

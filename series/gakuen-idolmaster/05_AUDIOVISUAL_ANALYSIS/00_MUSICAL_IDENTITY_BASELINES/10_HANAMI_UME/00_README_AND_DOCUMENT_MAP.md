@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: corpus_map
 scope: CHARACTER_HANAMI_UME_PHASE3_AV_RELEASE_R1
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Complete Phase-3 Ume AV release"
-supersedes: null
-superseded_by: null
+source_boundary: Complete Phase-3 Ume AV release
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-19"
-title: "Hanami Ume Phase-3 Integrated AV — README and Document Map"
+last_updated: '2026-08-19'
+title: Hanami Ume Phase-3 Integrated AV — README and Document Map
 ---
 
 # HANAMI UME PHASE-3 INTEGRATED AV — README AND DOCUMENT MAP

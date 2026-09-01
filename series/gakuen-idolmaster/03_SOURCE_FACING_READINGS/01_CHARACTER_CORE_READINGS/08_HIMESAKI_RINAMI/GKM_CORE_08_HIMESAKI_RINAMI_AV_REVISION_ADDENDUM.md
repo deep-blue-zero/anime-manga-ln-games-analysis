@@ -2,17 +2,19 @@
 series: GKM
 artifact_type: claim_revision_ledger
 scope: CHARACTER_HIMESAKI_RINAMI_PHASE3_AV_REVISION
-character: "Himesaki Rinami / 姫崎莉波"
+character: Himesaki Rinami / 姫崎莉波
 generation: V2
 release: R2
 status: canonical
-source_boundary: "Routes GKM_CORE_08_HIMESAKI_RINAMI.md through the complete Phase-3 audiovisual packet with Dear 001-020 at 1080p30, Dear 021-027 at 720p60, and Dear 028-037 at 720p30"
-supersedes: "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1/GKM_CORE_08_HIMESAKI_RINAMI_AV_REVISION_ADDENDUM.md"
-superseded_by: null
+source_boundary: Routes GKM_CORE_08_HIMESAKI_RINAMI.md through the complete Phase-3 audiovisual packet with Dear 001-020 at 1080p30, Dear 021-027 at 720p60, and Dear 028-037 at 720p30
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-22"
-parent_authority: "GKM_CORE_08_HIMESAKI_RINAMI.md"
-title: "Himesaki Rinami Character-Core AV Revision Addendum"
+last_updated: '2026-08-22'
+parent_authority: GKM_CORE_08_HIMESAKI_RINAMI.md
+title: Himesaki Rinami Character-Core AV Revision Addendum
+legacy_supersession_notes:
+- 'legacy supersedes: GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1/GKM_CORE_08_HIMESAKI_RINAMI_AV_REVISION_ADDENDUM.md'
 ---
 
 # GKM CORE 08 — HIMESAKI RINAMI AV REVISION ADDENDUM

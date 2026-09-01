@@ -4,16 +4,16 @@ artifact_type: deep_reading
 scope: SUPPORT_SERIES_03_PART_026_050
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — analysis bundle support_series_3_part_026-050.dialogue.txt; 75 unique support-card scripts / 1,489 messages, covering story_0026 through story_0050 inclusive (25 three-part support stories)"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
-source_commit: "00d150a069a3ffa723a1ff264752ba242024caad"
+source_boundary: GAKUMAS V2 Source Lock 1.0 — analysis bundle support_series_3_part_026-050.dialogue.txt; 75 unique support-card scripts / 1,489 messages, covering story_0026 through story_0050 inclusive (25 three-part support stories)
+source_lock: GAKUMAS V2 Source Lock 1.0
+source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
-governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2"
-governing_architecture: "GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4"
-governing_continuity: "GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1"
-created: "2026-08-24"
-supersedes: null
-superseded_by: null
+governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
+governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
+governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
+created: '2026-08-24'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -4,7 +4,7 @@ artifact_type: source_inventory
 scope: CURRENT_INGESTED_CORPUS
 generation: V1
 status: canonical
-source_boundary: "21 retained Japanese EPUB primary books; main-series V01-V17 complete after V07 acquisition and audit on 2026-08-27"
+source_boundary: 21 retained Japanese EPUB primary books; main-series V01-V17 complete after V07 acquisition and audit on 2026-08-27
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

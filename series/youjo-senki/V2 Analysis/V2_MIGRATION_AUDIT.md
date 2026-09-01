@@ -1,14 +1,14 @@
 ---
 series: YOUJO_SENKI
 artifact_type: audit
-scope: "V2 analytical corpus migration into canonical Google Drive root"
+scope: V2 analytical corpus migration into canonical Google Drive root
 generation: V2
 status: canonical
-source_boundary: "Japanese light novels Volumes 01-14; migration provenance from 2026-08-11 generated/File Library artifacts"
+source_boundary: Japanese light novels Volumes 01-14; migration provenance from 2026-08-11 generated/File Library artifacts
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-migration_date: "2026-08-22"
+migration_date: '2026-08-22'
 ---
 
 # YOUJO SENKI V2 — DRIVE MIGRATION AUDIT

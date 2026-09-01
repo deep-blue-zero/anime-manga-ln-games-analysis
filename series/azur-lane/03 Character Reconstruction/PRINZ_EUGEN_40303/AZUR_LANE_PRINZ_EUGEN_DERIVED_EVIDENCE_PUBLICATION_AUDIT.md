@@ -6,9 +6,9 @@ generation: V1
 status: canonical
 scope_character: PRINZ_EUGEN_40303
 semantic_authority: CN
-source_boundary: "Comparison of canonical CHARACTER_MANIFEST.json declarations/hashes against the currently retrievable Google Drive Analysis and Primary Sources publication surfaces"
-supersedes: null
-superseded_by: null
+source_boundary: Comparison of canonical CHARACTER_MANIFEST.json declarations/hashes against the currently retrievable Google Drive Analysis and Primary Sources publication surfaces
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

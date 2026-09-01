@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "deep_reading"
-scope: "E07"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episode 7, Japanese subtitle/visual packet"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: deep_reading
+scope: E07
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episode 7, Japanese subtitle/visual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 14
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 I unpacked Episode 7. The archive contains **788 episode frames**, **39 contact sheets**, and **433 Japanese subtitle cues**, including OP/ED material; the main spoken-dialogue layer is about **418 cues**. The official episode title is:

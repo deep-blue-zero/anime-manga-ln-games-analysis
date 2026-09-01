@@ -1,23 +1,23 @@
 ---
-title: "Solo Leveling — Manhwa Adaptation, Visual Grammar, and Recomposition"
-subtitle: "Mythologizing Jinwoo through image, pacing, reaction, and structural change"
-project: "Solo Leveling Definitive Novel–Manhwa Synthesis"
-document_id: "SL_SYNTH_10"
-version: "1.0"
+title: Solo Leveling — Manhwa Adaptation, Visual Grammar, and Recomposition
+subtitle: Mythologizing Jinwoo through image, pacing, reaction, and structural change
+project: Solo Leveling Definitive Novel–Manhwa Synthesis
+document_id: SL_SYNTH_10
+version: '1.0'
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
-  - "Official English manhwa Volumes 1–15 as the controlling visual/adaptation source"
-  - "Chugong's complete original Korean novel omnibus for prose correspondence and adaptation comparison"
-governing_method: "../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md"
-paired_architecture: "../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md"
-evidence_spine: "../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-correspondence_map: "../03 Evidence and Crosswalk/Solo_Leveling_Phase_2_Correspondence_Map.md"
-language_pair: "09_KOREAN_NARRATION_VOICE_TERMINOLOGY_AND_TRANSLATION.md"
-spoilers: "complete series"
-source_inventory_date: "2026-08-12"
+- Official English manhwa Volumes 1–15 as the controlling visual/adaptation source
+- Chugong's complete original Korean novel omnibus for prose correspondence and adaptation comparison
+governing_method: ../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md
+paired_architecture: ../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md
+evidence_spine: ../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+correspondence_map: ../03 Evidence and Crosswalk/Solo_Leveling_Phase_2_Correspondence_Map.md
+language_pair: 09_KOREAN_NARRATION_VOICE_TERMINOLOGY_AND_TRANSLATION.md
+spoilers: complete series
+source_inventory_date: '2026-08-12'
 ---
 
 # 10 — Manhwa Adaptation, Visual Grammar, and Recomposition

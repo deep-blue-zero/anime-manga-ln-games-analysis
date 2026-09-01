@@ -5,113 +5,113 @@ artifact_type: deep_reading
 scope: V23
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-24"
-source_boundary: "Japanese manga Volume 23, Chapters 91-94; spoiler boundary through Volume 23 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-24'
+source_boundary: Japanese manga Volume 23, Chapters 91-94; spoiler boundary through Volume 23 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "23"
-chapters: "91-94"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '23'
+chapters: 91-94
 chapter_titles:
-  - "第91話 海の向こう側"
-  - "第92話 マーレの戦士"
-  - "第93話 闇夜の列車"
-  - "第94話 壁の中の少年"
+- 第91話 海の向こう側
+- 第92話 マーレの戦士
+- 第93話 闇夜の列車
+- 第94話 壁の中の少年
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v23 (2017) (Digital SD) (KG Manga).cbz"
-source_drive_id: "18zzs8YclL-WrPrz7P6la_nj6-s_BRZe6"
-source_sha256: "6e5b5e4e56357ac03c587252b345a93bbe8b8114973a46e460205e1864cca481"
+source_file: Attack on Titan v23 (2017) (Digital SD) (KG Manga).cbz
+source_drive_id: 18zzs8YclL-WrPrz7P6la_nj6-s_BRZe6
+source_sha256: 6e5b5e4e56357ac03c587252b345a93bbe8b8114973a46e460205e1864cca481
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 23 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 23 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_validation_register: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
-prospective_register_drive_id: "1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8"
+prospective_validation_register: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+prospective_register_drive_id: 1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8
 prospective_register_frozen_before_source_exposure: true
 major_characters:
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Falco Grice / ファルコ・グライス"
-  - "Zeke / ジーク"
-  - "Colt Grice / コルト・グライス"
-  - "Pieck / ピーク"
-  - "Porco Galliard / ポルコ・ガリアード"
-  - "Theo Magath / テオ・マガト"
-  - "Udo / ウド"
-  - "Zofia / ゾフィア"
-  - "Karina Braun / カリナ・ブラウン"
+- Reiner Braun / ライナー・ブラウン
+- Gabi Braun / ガビ・ブラウン
+- Falco Grice / ファルコ・グライス
+- Zeke / ジーク
+- Colt Grice / コルト・グライス
+- Pieck / ピーク
+- Porco Galliard / ポルコ・ガリアード
+- Theo Magath / テオ・マガト
+- Udo / ウド
+- Zofia / ゾフィア
+- Karina Braun / カリナ・ブラウン
 major_relationships:
-  - "Reiner / Falco"
-  - "Reiner / Gabi"
-  - "Reiner / 104th memories"
-  - "Reiner / Porco"
-  - "Reiner / Karina"
-  - "Falco / Gabi"
-  - "Falco / Colt"
-  - "Zeke / Colt"
-  - "Marley / Eldian Warriors"
-  - "Warrior candidates / families"
+- Reiner / Falco
+- Reiner / Gabi
+- Reiner / 104th memories
+- Reiner / Porco
+- Reiner / Karina
+- Falco / Gabi
+- Falco / Colt
+- Zeke / Colt
+- Marley / Eldian Warriors
+- Warrior candidates / families
 major_topics:
-  - enemy-side interiority without moral flattening
-  - Warrior child socialization
-  - good-Eldian assimilation bargain
-  - inherited militarization
-  - imperial dependence on a subordinated population
-  - anti-Titan technological change
-  - state obsolescence and military adaptation
-  - international law and tactical deception
-  - humanitarian restraint under enemy categories
-  - living bodies as military materiel
-  - Reiner trauma and role continuity
-  - family ideology and domestic reproduction
-  - memory inheritance and sibling rivalry
-  - walls outside Paradis
+- enemy-side interiority without moral flattening
+- Warrior child socialization
+- good-Eldian assimilation bargain
+- inherited militarization
+- imperial dependence on a subordinated population
+- anti-Titan technological change
+- state obsolescence and military adaptation
+- international law and tactical deception
+- humanitarian restraint under enemy categories
+- living bodies as military materiel
+- Reiner trauma and role continuity
+- family ideology and domestic reproduction
+- memory inheritance and sibling rivalry
+- walls outside Paradis
 major_visual_motifs:
-  - Falco reaching toward a bird
-  - armored train and trench system
-  - child body against industrial warfare
-  - parachuted Eldians transformed into Titans
-  - Reiner seeing another wall
-  - Beast Titan throwing naval shells
-  - Armored Titan shielding Zeke
-  - train home through cheering Eldian troops
-  - Liberio gate and internment walls
-  - family dinner intercut with the 104th
-  - Warrior candidate training yard
-  - children inheriting uniforms, armbands, and shortened futures
+- Falco reaching toward a bird
+- armored train and trench system
+- child body against industrial warfare
+- parachuted Eldians transformed into Titans
+- Reiner seeing another wall
+- Beast Titan throwing naval shells
+- Armored Titan shielding Zeke
+- train home through cheering Eldian troops
+- Liberio gate and internment walls
+- family dinner intercut with the 104th
+- Warrior candidate training yard
+- children inheriting uniforms, armbands, and shortened futures
 major_lexical_targets:
-  - 戦士候補生
-  - 鎧
-  - 名誉マーレ人
-  - 善良なエルディア人
-  - 悪魔
-  - 国際法
-  - 始祖奪還
-  - 任期
-  - 忠誠
-  - 巨人兵器
-  - 九つの巨人
-  - 壁
-  - 未来
+- 戦士候補生
+- 鎧
+- 名誉マーレ人
+- 善良なエルディア人
+- 悪魔
+- 国際法
+- 始祖奪還
+- 任期
+- 忠誠
+- 巨人兵器
+- 九つの巨人
+- 壁
+- 未来
 cumulative_status:
-  - strengthened
-  - revised
-  - prospectively_tested
-  - ordinary_domain_expanded
-  - open
+- strengthened
+- revised
+- prospectively_tested
+- ordinary_domain_expanded
+- open
 ---
 
 # 『進撃の巨人』Volume 23 Deep Reading

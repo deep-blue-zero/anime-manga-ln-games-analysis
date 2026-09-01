@@ -5,111 +5,111 @@ artifact_type: deep_reading
 scope: V24
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-24"
-source_boundary: "Japanese manga Volume 24, Chapters 95-98; spoiler boundary through Volume 24 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-24'
+source_boundary: Japanese manga Volume 24, Chapters 95-98; spoiler boundary through Volume 24 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "24"
-chapters: "95-98"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '24'
+chapters: 95-98
 chapter_titles:
-  - "第95話 嘘つき"
-  - "第96話 希望の扉"
-  - "第97話 手から手へ"
-  - "第98話 よかったな"
+- 第95話 嘘つき
+- 第96話 希望の扉
+- 第97話 手から手へ
+- 第98話 よかったな
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v24 (2017) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1FJS4QTX4vpvwUTutlZQslZwN73ZqRK2H"
-source_sha256: "378cc7896dccd23c90a03c473d8a7a50493437a50b2f9b9facbd1bde525ef346"
+source_file: Attack on Titan v24 (2017) (Digital SD) (KG Manga).cbz
+source_drive_id: 1FJS4QTX4vpvwUTutlZQslZwN73ZqRK2H
+source_sha256: 378cc7896dccd23c90a03c473d8a7a50493437a50b2f9b9facbd1bde525ef346
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 24 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 24 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_validation_register: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
-prospective_register_drive_id: "1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8"
+prospective_validation_register: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+prospective_register_drive_id: 1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8
 prospective_register_frozen_before_source_exposure: true
 major_characters:
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Annie Leonhart / アニ・レオンハート"
-  - "Bertolt Hoover / ベルトルト・フーバー"
-  - "Marcel Galliard / マルセル・ガリアード"
-  - "Falco Grice / ファルコ・グライス"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Willy Tybur / ヴィリー・タイバー"
-  - "Theo Magath / テオ・マガト"
-  - "Karina Braun / カリナ・ブラウン"
-  - "Mr. Jaeger / イェーガー医師"
+- Reiner Braun / ライナー・ブラウン
+- Eren Jaeger / エレン・イェーガー
+- Annie Leonhart / アニ・レオンハート
+- Bertolt Hoover / ベルトルト・フーバー
+- Marcel Galliard / マルセル・ガリアード
+- Falco Grice / ファルコ・グライス
+- Gabi Braun / ガビ・ブラウン
+- Willy Tybur / ヴィリー・タイバー
+- Theo Magath / テオ・マガト
+- Karina Braun / カリナ・ブラウン
+- Mr. Jaeger / イェーガー医師
 major_relationships:
-  - "Reiner / Eren"
-  - "Reiner / Annie / Bertolt"
-  - "Reiner / Marcel"
-  - "Reiner / Karina / Marleyan father"
-  - "Reiner / Falco"
-  - "Falco / Gabi"
-  - "Eren / Falco"
-  - "Eren / Jaeger grandfather"
-  - "Willy Tybur / Theo Magath"
-  - "Udo / Kiyomi Azumabito"
+- Reiner / Eren
+- Reiner / Annie / Bertolt
+- Reiner / Marcel
+- Reiner / Karina / Marleyan father
+- Reiner / Falco
+- Falco / Gabi
+- Eren / Falco
+- Eren / Jaeger grandfather
+- Willy Tybur / Theo Magath
+- Udo / Kiyomi Azumabito
 major_topics:
-  - inherited scripts and self-authorship
-  - lying, stories, theater, and political narration
-  - Warrior selection and family aspiration
-  - role substitution and identity fracture
-  - survival, guilt, and mission continuation
-  - self-authored versus imposed hell
-  - letters, handoffs, and transmission
-  - ethnic respectability and Titan obsolescence
-  - political responsibility and the burden of steering
-  - parental guilt across generations
-  - clandestine trust and instrumental deception
-  - ordinary festival life under looming political theater
+- inherited scripts and self-authorship
+- lying, stories, theater, and political narration
+- Warrior selection and family aspiration
+- role substitution and identity fracture
+- survival, guilt, and mission continuation
+- self-authored versus imposed hell
+- letters, handoffs, and transmission
+- ethnic respectability and Titan obsolescence
+- political responsibility and the burden of steering
+- parental guilt across generations
+- clandestine trust and instrumental deception
+- ordinary festival life under looming political theater
 major_visual_motifs:
-  - closed door and family separation
-  - hands, handshakes, letters, and passed objects
-  - children inheriting uniforms and Titans
-  - campfire / mission council
-  - rifle in Reiner's mouth
-  - hospital bench and baseball glove
-  - hollow Helos statue
-  - theater stage and audience
-  - festival food and fleeting ordinary life
-  - stairway descending to basement
-  - Eren and Reiner face-to-face after four years
+- closed door and family separation
+- hands, handshakes, letters, and passed objects
+- children inheriting uniforms and Titans
+- campfire / mission council
+- rifle in Reiner's mouth
+- hospital bench and baseball glove
+- hollow Helos statue
+- theater stage and audience
+- festival food and fleeting ordinary life
+- stairway descending to basement
+- Eren and Reiner face-to-face after four years
 major_lexical_targets:
-  - 嘘
-  - 物語
-  - 語り手
-  - 演出家
-  - 舞台
-  - 戦士
-  - 世界の英雄
-  - 故郷
-  - 進み続ける
-  - 地獄
-  - 希望
-  - 自分の意志
-  - 背中を押す
-  - よかったな
+- 嘘
+- 物語
+- 語り手
+- 演出家
+- 舞台
+- 戦士
+- 世界の英雄
+- 故郷
+- 進み続ける
+- 地獄
+- 希望
+- 自分の意志
+- 背中を押す
+- よかったな
 cumulative_status:
-  - strengthened
-  - revised
-  - prospectively_tested
-  - ordinary_domain_expanded
-  - open
+- strengthened
+- revised
+- prospectively_tested
+- ordinary_domain_expanded
+- open
 ---
 
 # 『進撃の巨人』Volume 24 Deep Reading

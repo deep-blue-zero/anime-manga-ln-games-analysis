@@ -2,12 +2,12 @@
 series: GKM
 artifact_type: audiovisual_request_plan
 scope: CHARACTER_FUJITA_KOTONE_PHASE3_AV
-character: "Fujita Kotone / 藤田ことね"
+character: Fujita Kotone / 藤田ことね
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 plus completed Kotone Phase-3 audiovisual acquisition and inspection registry"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 plus completed Kotone Phase-3 audiovisual acquisition and inspection registry
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 document_id: GKM_KOTONE_AUDIOVISUAL_BASELINE_AND_REQUESTS
 project: Gakuen Idolmaster V2 Full-Corpus Synthesis
@@ -15,7 +15,7 @@ phase: 3
 character_code: fktn
 acquisition_status: closed_completed_phase3_av_baseline
 acquisition_policy: whole_commus_and_whole_videos_preferred
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # Fujita Kotone — Audiovisual Baseline and Whole-Video Request Plan

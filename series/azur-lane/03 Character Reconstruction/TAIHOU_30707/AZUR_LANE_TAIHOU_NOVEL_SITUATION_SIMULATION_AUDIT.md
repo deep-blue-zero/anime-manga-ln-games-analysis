@@ -8,19 +8,23 @@ generation: V1
 status: canonical
 phase: R8
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "R5 validated semantic/behavioral model + R6 relationship-state authority + R7 five-locale textual-realization model, tested through novel but source-constrained scenario families. OPEN/C4/C5 domains remain abstentions. JP performed voice is excluded."
+source_boundary: R5 validated semantic/behavioral model + R6 relationship-state authority + R7 five-locale textual-realization model, tested through novel but source-constrained scenario families. OPEN/C4/C5 domains remain abstentions. JP performed voice is excluded.
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 r5_authority: AZUR_LANE_TAIHOU_ADVERSARIAL_VALIDATION_AUDIT.md
 r6_authority: AZUR_LANE_TAIHOU_RELATIONSHIP_STATE_SYNTHESIS.md
 r7_authority: AZUR_LANE_TAIHOU_MULTILINGUAL_SPEECH_PROFILE.md
 target_artifact: AZUR_LANE_TAIHOU_CHARACTER_MONOGRAPH.md
 target_status_before_r8: active_provisional
 performed_voice_status: open_partial_source_mapping
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

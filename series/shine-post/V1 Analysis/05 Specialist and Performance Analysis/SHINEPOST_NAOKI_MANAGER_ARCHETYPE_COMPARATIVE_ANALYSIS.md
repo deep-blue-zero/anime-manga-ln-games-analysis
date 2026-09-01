@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "specialist_synthesis"
-scope: "Naoki Hinase manager-character authorship/comparison"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episodes 1-12 plus comparative manager framing"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: specialist_synthesis
+scope: Naoki Hinase manager-character authorship/comparison
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episodes 1-12 plus comparative manager framing
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 28
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 Yes — there is enough material to write a serious Naoki deep dive, with one caveat: **there is enough for a strong anime-contained character analysis, but not enough for a fully biographical reconstruction**. The anime gives us his psychology, philosophy, wound, method, and role in the story. It does not give us a complete account of his prior career, the exact collapse that drove him away from idol management, or the full scope of his creative work with top idols.

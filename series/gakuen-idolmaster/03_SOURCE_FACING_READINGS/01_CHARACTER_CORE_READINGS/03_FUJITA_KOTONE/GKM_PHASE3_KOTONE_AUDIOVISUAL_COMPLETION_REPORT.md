@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_FUJITA_KOTONE_PHASE3_AV
-character: "Fujita Kotone / 藤田ことね"
+character: Fujita Kotone / 藤田ことね
 generation: V2
 status: canonical
-source_boundary: "Completed Phase-3 Kotone AV tranche; Source Lock 1.0 plus 26 staged Kotone objects and one reused Re;IRIS 3DMV"
-supersedes: null
-superseded_by: null
+source_boundary: Completed Phase-3 Kotone AV tranche; Source Lock 1.0 plus 26 staged Kotone objects and one reused Re;IRIS 3DMV
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 Phase 3 — Fujita Kotone Audiovisual Baseline Completion Report"
-version: "2.0"
-created: "2026-08-15"
+title: Gakuen Idolmaster V2 Phase 3 — Fujita Kotone Audiovisual Baseline Completion Report
+version: '2.0'
+created: '2026-08-15'
 ---
 
 # PHASE 3 — KOTONE AUDIOVISUAL BASELINE COMPLETION REPORT

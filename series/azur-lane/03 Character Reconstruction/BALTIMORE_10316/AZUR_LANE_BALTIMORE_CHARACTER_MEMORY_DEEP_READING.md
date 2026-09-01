@@ -6,9 +6,9 @@ generation: V1
 status: canonical
 scope_character: BALTIMORE_10316
 semantic_authority: CN
-source_boundary: "CN complete four-part Baltimore character-memory sequence miwuzhixia1–miwuzhixia4 at pinned Azur Lane story witness"
-supersedes: null
-superseded_by: null
+source_boundary: CN complete four-part Baltimore character-memory sequence miwuzhixia1–miwuzhixia4 at pinned Azur Lane story witness
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

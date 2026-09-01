@@ -1,105 +1,105 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "comparative_reference_matrices"
-document_id: "14"
-title: "Comparative Reference Matrices, Contradictions, and Open Questions"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: comparative_reference_matrices
+document_id: '14'
+title: Comparative Reference Matrices, Contradictions, and Open Questions
+scope: V01-V14+ALTER1
 phase: 6
-generation: "V2"
-method_version: "V2"
-status: "canonical"
-date: "2026-08-16"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-macro_orientation: "01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md"
-current_specialist_authority: "Documents 01-13 plus 17"
-chronological_evidence_spine: "15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-locator_authority: "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
-phase5_claim_lock: "86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv"
-phase5_open_question_lock: "86_PHASE5_OPEN_QUESTION_LOCK.tsv"
-phase5_military_level_lock: "86_PHASE5_MILITARY_LEVEL_LOCK.tsv"
-phase5_character_control: "86_PHASE5_MAJOR_CHARACTER_ORDINARY_CLIMACTIC_EVIDENCE_MATRIX.tsv"
-phase5_japanese_lock: "86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv"
-legacy_revision_authority: "17_LEGACY_SYNTHESIS_REVISION_REPORT.md"
+generation: V2
+method_version: V2
+status: canonical
+date: '2026-08-16'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+macro_orientation: 01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md
+current_specialist_authority: Documents 01-13 plus 17
+chronological_evidence_spine: 15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+locator_authority: 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
+phase5_claim_lock: 86_PHASE5_CLAIM_COUNTEREVIDENCE_LOCK.tsv
+phase5_open_question_lock: 86_PHASE5_OPEN_QUESTION_LOCK.tsv
+phase5_military_level_lock: 86_PHASE5_MILITARY_LEVEL_LOCK.tsv
+phase5_character_control: 86_PHASE5_MAJOR_CHARACTER_ORDINARY_CLIMACTIC_EVIDENCE_MATRIX.tsv
+phase5_japanese_lock: 86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv
+legacy_revision_authority: 17_LEGACY_SYNTHESIS_REVISION_REPORT.md
 adversarial_constraints:
-  - "T14-C01"
-  - "T14-C02"
-  - "T14-C03"
-  - "T14-C04"
-  - "T14-C05"
-  - "T14-C06"
-  - "T14-C07"
-  - "T14-C08"
-  - "T14-C09"
-  - "T14-C10"
-  - "T14-C11"
-  - "T14-C12"
-  - "T14-C13"
-  - "T14-C14"
-  - "T14-C15"
-  - "T14-C16"
-  - "T14-C17"
-  - "T14-C18"
-  - "T14-C19"
-  - "T14-C20"
-  - "T14-C21"
-  - "T14-C22"
-  - "T14-C23"
-  - "T14-C24"
-  - "T14-C25"
-  - "T14-C26"
-  - "T14-C27"
-  - "T14-C28"
-  - "T14-C29"
-  - "T14-C30"
-  - "T14-C31"
-  - "T14-C32"
-  - "T14-C33"
-  - "T14-C34"
-  - "T14-C35"
-  - "T14-C36"
-  - "T14-C37"
-  - "T14-C38"
-  - "T14-C39"
-  - "T14-C40"
-  - "T14-C41"
+- T14-C01
+- T14-C02
+- T14-C03
+- T14-C04
+- T14-C05
+- T14-C06
+- T14-C07
+- T14-C08
+- T14-C09
+- T14-C10
+- T14-C11
+- T14-C12
+- T14-C13
+- T14-C14
+- T14-C15
+- T14-C16
+- T14-C17
+- T14-C18
+- T14-C19
+- T14-C20
+- T14-C21
+- T14-C22
+- T14-C23
+- T14-C24
+- T14-C25
+- T14-C26
+- T14-C27
+- T14-C28
+- T14-C29
+- T14-C30
+- T14-C31
+- T14-C32
+- T14-C33
+- T14-C34
+- T14-C35
+- T14-C36
+- T14-C37
+- T14-C38
+- T14-C39
+- T14-C40
+- T14-C41
 open_questions_preserved:
-  - "T14-OQ-01"
-  - "T14-OQ-02"
-  - "T14-OQ-03"
-  - "T14-OQ-04"
-  - "T14-OQ-05"
-  - "T14-OQ-06"
-  - "T14-OQ-07"
-  - "T14-OQ-08"
-  - "T14-OQ-09"
-  - "T14-OQ-10"
-  - "T14-OQ-11"
-  - "T14-OQ-12"
-  - "T14-OQ-13"
-  - "T14-OQ-14"
-  - "T14-OQ-15"
-  - "T14-OQ-16"
-  - "T14-OQ-17"
-  - "T14-OQ-18"
-  - "T14-OQ-19"
-  - "T14-OQ-20"
-  - "T14-OQ-21"
-  - "T14-OQ-22"
-  - "T14-OQ-23"
-  - "T14-OQ-24"
-  - "T14-OQ-25"
-  - "T14-OQ-26"
-  - "T14-OQ-27"
-  - "T14-OQ-28"
-  - "T14-OQ-29"
-  - "T14-OQ-30"
-  - "T14-OQ-31"
-  - "T14-OQ-32"
-supersedes: null
-superseded_by: null
+- T14-OQ-01
+- T14-OQ-02
+- T14-OQ-03
+- T14-OQ-04
+- T14-OQ-05
+- T14-OQ-06
+- T14-OQ-07
+- T14-OQ-08
+- T14-OQ-09
+- T14-OQ-10
+- T14-OQ-11
+- T14-OQ-12
+- T14-OQ-13
+- T14-OQ-14
+- T14-OQ-15
+- T14-OQ-16
+- T14-OQ-17
+- T14-OQ-18
+- T14-OQ-19
+- T14-OQ-20
+- T14-OQ-21
+- T14-OQ-22
+- T14-OQ-23
+- T14-OQ-24
+- T14-OQ-25
+- T14-OQ-26
+- T14-OQ-27
+- T14-OQ-28
+- T14-OQ-29
+- T14-OQ-30
+- T14-OQ-31
+- T14-OQ-32
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

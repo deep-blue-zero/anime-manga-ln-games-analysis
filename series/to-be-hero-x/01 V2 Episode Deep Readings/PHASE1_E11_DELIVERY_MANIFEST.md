@@ -3,11 +3,12 @@ series: TBHX
 artifact_type: manifest
 scope: E11
 generation: V2
-status: canonical
-source_boundary: "Phase 1 checkpoint through S01E11"
-supersedes: null
-superseded_by: null
-do_not_use_as_current_authority: false
+status: superseded
+source_boundary: Phase 1 checkpoint through S01E11
+supersedes: []
+superseded_by:
+- series/to-be-hero-x/01 V2 Episode Deep Readings/PHASE1_E12_DELIVERY_MANIFEST.md
+do_not_use_as_current_authority: true
 ---
 
 # To Be Hero X V2 — Phase 1 E11 Delivery Manifest

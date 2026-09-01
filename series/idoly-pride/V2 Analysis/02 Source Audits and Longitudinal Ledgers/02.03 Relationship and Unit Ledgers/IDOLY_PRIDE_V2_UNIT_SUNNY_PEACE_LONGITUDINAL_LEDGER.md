@@ -3,46 +3,46 @@ series: IDOLY_PRIDE
 artifact_type: unit_longitudinal_ledger
 artifact_role: LEDGER
 scope: UNIT_SUNNY_PEACE
-unit: "SUNNY PEACE"
-unit_japanese: "サニーピース"
+unit: SUNNY PEACE
+unit_japanese: サニーピース
 member_codes:
-  - skr
-  - rei
-  - hrk
-  - chs
-  - szk
+- skr
+- rei
+- hrk
+- chs
+- szk
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-D-SUNNY-PEACE"
+phase: '2'
+tranche: P2-D-SUNNY-PEACE
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 SUNNY PEACE unit reconstruction across the frozen 2026-08-13 analytical snapshot. The union of the five canonical member occurrence indexes yields 272 deduplicated member-bearing routed bundles. Their exact all-five intersection yields 52 bundles: 32 main-story, 13 event, 4 specials/misc, and 3 message bundles. These are breadth/contradiction frontiers rather than counts of substantive unit-state changes. The generated sunny_peace.md group index contains 154 unique routed bundles across 200 rows but is not exhaustive for unit history; it omits origin_sun_004_haruko_s_memories, so this ledger treats it as a convenience route rather than an authority boundary. The five SUNNY PEACE origins are admitted through their frozen source-native Phase-1B findings and exact origin bundle IDs; later unit reconstruction directly reopens load-bearing Hoshimi, Tokyo, event, and Stellar primary bundles. No post-snapshot source is admitted."
+source_boundary: 'Phase-2 SUNNY PEACE unit reconstruction across the frozen 2026-08-13 analytical snapshot. The union of the five canonical member occurrence indexes yields 272 deduplicated member-bearing routed bundles. Their exact all-five intersection yields 52 bundles: 32 main-story, 13 event, 4 specials/misc, and 3 message bundles. These are breadth/contradiction frontiers rather than counts of substantive unit-state changes. The generated sunny_peace.md group index contains 154 unique routed bundles across 200 rows but is not exhaustive for unit history; it omits origin_sun_004_haruko_s_memories, so this ledger treats it as a convenience route rather than an authority boundary. The five SUNNY PEACE origins are admitted through their frozen source-native Phase-1B findings and exact origin bundle IDs; later unit reconstruction directly reopens load-bearing Hoshimi, Tokyo, event, and Stellar primary bundles. No post-snapshot source is admitted.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_PHASE1B_SUNNY_PEACE_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
-  - IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_REI_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_HARUKO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_SHIZUKU_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_SAKURA_KOTONO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_SAKI_CHISA_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_PHASE1B_SUNNY_PEACE_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
+- IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_REI_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_HARUKO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_CHISA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_SHIZUKU_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_SAKURA_KOTONO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_SAKI_CHISA_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_D_SUNNY_PEACE_PASS
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-D — Tsuki no Tempest unit longitudinal ledger"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-D — Tsuki no Tempest unit longitudinal ledger
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — SUNNY PEACE UNIT LONGITUDINAL LEDGER

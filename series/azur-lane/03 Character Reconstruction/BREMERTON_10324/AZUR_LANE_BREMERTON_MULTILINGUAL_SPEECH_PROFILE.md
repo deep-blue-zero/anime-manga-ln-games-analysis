@@ -5,14 +5,14 @@ generation: V1
 semantic_authority: CN
 azurlane_data_commit: 4cca5c2437007b62d30a6235fcfc0c0203231378
 story_lua_witness_commit: d93f83db24195981c5f5ca90ac5e29ce0580b12c
-source_package_generated_at: "2026-08-23T18:55:47.426186Z"
-supersedes: null
-superseded_by: null
+source_package_generated_at: '2026-08-23T18:55:47.426186Z'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 artifact_type: specialist_synthesis
 scope: BREMERTON_10324_R7_MULTILINGUAL_SPEECH_REGISTER
 status: canonical
-source_boundary: "Five-locale aligned character package; direct re-audit of 108 JP character-dialogue records; CN semantic authority from pinned originating scripts; EN/TW/KR treated as regional witnesses with unresolved phrase-level candidates retained"
+source_boundary: Five-locale aligned character package; direct re-audit of 108 JP character-dialogue records; CN semantic authority from pinned originating scripts; EN/TW/KR treated as regional witnesses with unresolved phrase-level candidates retained
 ---
 
 # Azur Lane — Bremerton R7 Multilingual Speech and Register Profile

@@ -4,9 +4,9 @@ artifact_type: source_audit
 scope: V37
 generation: V2
 status: canonical
-source_boundary: "Isolated Japanese tankobon V37 holding; V35-V36 absent; outside V01-V34 build manifest"
-supersedes: null
-superseded_by: null
+source_boundary: Isolated Japanese tankobon V37 holding; V35-V36 absent; outside V01-V34 build manifest
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

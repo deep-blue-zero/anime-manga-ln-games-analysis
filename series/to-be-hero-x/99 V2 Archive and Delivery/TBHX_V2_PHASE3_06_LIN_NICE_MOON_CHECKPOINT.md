@@ -2,14 +2,14 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: phase_checkpoint
-scope: "Phase 3 specialist 06 — Lin Ling / Original Nice / Xiao Yueqing (Moon)"
+scope: Phase 3 specialist 06 — Lin Ling / Original Nice / Xiao Yueqing (Moon)
 generation: V2
 phase: 3
-specialist_number: 06
+specialist_number: 6
 status: canonical
-source_boundary: "Mandarin-primary audiovisual E01-E24; frozen episode readings; stabilized Phase-2 ledgers; motion audits; 145-key claim register; V1-to-V2 audit; targeted AV through TBHX-AV-E11-001"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin-primary audiovisual E01-E24; frozen episode readings; stabilized Phase-2 ledgers; motion audits; 145-key claim register; V1-to-V2 audit; targeted AV through TBHX-AV-E11-001
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-17
 ---

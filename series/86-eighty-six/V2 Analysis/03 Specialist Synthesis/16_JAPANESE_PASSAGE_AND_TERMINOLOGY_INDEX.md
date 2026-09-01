@@ -1,32 +1,32 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "japanese_passage_and_terminology_index"
-document_id: "16"
-title: "Japanese Passage and Terminology Index"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: japanese_passage_and_terminology_index
+document_id: '16'
+title: Japanese Passage and Terminology Index
+scope: V01-V14+ALTER1
 phase: 6
-generation: "V2"
-method_version: "V2"
-status: "canonical"
-date: "2026-08-16"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-primary_language_synthesis: "12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md"
-primary_retrieval_dossier: "T12_JAPANESE_VOICE_ADDRESS_TEMPORALITY_AND_KEY_TERMS_RETRIEVAL.md"
-longitudinal_language_ledger: "L09_JAPANESE_VOICE_ADDRESS_AND_TERMINOLOGY_LEDGER.md"
-phase5_language_lock: "86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv"
-locator_authority: "86_PHASE5_LOCKED_LOCATOR_INDEX.tsv"
-phase8_source_verification: "86_PHASE8_JAPANESE_SOURCE_VERIFICATION_AUDIT.md"
-phase8_verification_status: "source_reverified"
+generation: V2
+method_version: V2
+status: canonical
+date: '2026-08-16'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+primary_language_synthesis: 12_JAPANESE_VOICE_NARRATION_TERMINOLOGY_AND_TRANSLATION_SENSITIVE_FINDINGS.md
+primary_retrieval_dossier: T12_JAPANESE_VOICE_ADDRESS_TEMPORALITY_AND_KEY_TERMS_RETRIEVAL.md
+longitudinal_language_ledger: L09_JAPANESE_VOICE_ADDRESS_AND_TERMINOLOGY_LEDGER.md
+phase5_language_lock: 86_PHASE5_JAPANESE_CLAIM_AND_TERMINOLOGY_LOCK.tsv
+locator_authority: 86_PHASE5_LOCKED_LOCATOR_INDEX.tsv
+phase8_source_verification: 86_PHASE8_JAPANESE_SOURCE_VERIFICATION_AUDIT.md
+phase8_verification_status: source_reverified
 phase8_source_integrity_rechecked: true
-comparison_router: "14_COMPARATIVE_REFERENCE_MATRICES_CONTRADICTIONS_AND_OPEN_QUESTIONS.md"
-legacy_revision_router: "17_LEGACY_SYNTHESIS_REVISION_REPORT.md"
-chronological_evidence_spine: "15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-status_note: "Compact source-language retrieval layer; table-heavy and quotation-light; not a substitute for Document 12 or primary-source rereading"
-supersedes: null
-superseded_by: null
+comparison_router: 14_COMPARATIVE_REFERENCE_MATRICES_CONTRADICTIONS_AND_OPEN_QUESTIONS.md
+legacy_revision_router: 17_LEGACY_SYNTHESIS_REVISION_REPORT.md
+chronological_evidence_spine: 15_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+status_note: Compact source-language retrieval layer; table-heavy and quotation-light; not a substitute for Document 12 or primary-source rereading
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 # 16 — Japanese Passage and Terminology Index

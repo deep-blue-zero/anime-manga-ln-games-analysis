@@ -5,27 +5,27 @@ artifact_role: DEEP_READING
 scope: S2E01
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S2E01 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S2E01 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 2
 episode: 1
-episode_title: "Welcome to Liella!"
-episode_title_source: "episode title card / identification; title not used as independent semantic evidence"
+episode_title: Welcome to Liella!
+episode_title_source: episode title card / identification; title not used as independent semantic evidence
 artifact_id: LLS_S2E01_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; frozen Season-1 checkpoint delta protocol; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; cohort/succession and character-model analysis; four model ledgers updated and verified"
+analysis_mode: sealed sequential V2.2; frozen Season-1 checkpoint delta protocol; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; cohort/succession and character-model analysis; four model ledgers updated and verified
 source_bundle: LLS_s02e01_screenshots.zip
 source_drive_id: 1goKzmEq7jX9qm-5Fg_yH-6clbwmZQKQE
 source_sha256: fb01f64b67234a59d860e32bbda2101ef717f6aa8b9dce744e44dbb690ec4199
 source_bytes: 183443913
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S2E01 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S2E01 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON1_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 884
 retained_frames: 824
 contact_sheets_reviewed: 42
@@ -46,16 +46,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP/extraction/audio/frames/contact sheets and temporary audiovisual derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown/ledgers/locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP/extraction/audio/frames/contact sheets and temporary audiovisual derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown/ledgers/locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S2E02_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

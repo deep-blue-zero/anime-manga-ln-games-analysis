@@ -5,21 +5,21 @@ scope: E08
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 8 analytical bundle; S01E01-S01E08 broadcast knowledge only"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 8 analytical bundle; S01E01-S01E08 broadcast knowledge only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 08 Deep Reading"
+title: To Be Hero X V2 — Episode 08 Deep Reading
 season: 1
 episode: 8
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e08_screenshots.zip"
-source_bundle_sha256: "f89259cb6444599cf286ae8ae0190985cb251446ea13e0044aaacef8742ffe24"
+analysis_version: '2.0'
+source_bundle: BHX_s01e08_screenshots.zip
+source_bundle_sha256: f89259cb6444599cf286ae8ae0190985cb251446ea13e0044aaacef8742ffe24
 source_bundle_bytes: 302020977
 source_duration_seconds: 1511.999667
-program_start_seconds: 37.500
-analysis_start_seconds: 37.250
+program_start_seconds: 37.5
+analysis_start_seconds: 37.25
 mandarin_cue_count: 281
 mandarin_ocr_mean_confidence: 0.991402
 mandarin_ocr_median_confidence: 0.997791
@@ -29,11 +29,11 @@ japanese_paired_mandarin_cues: 269
 japanese_aligned_cue_count: 323
 contact_sheet_count: 46
 kept_screenshot_count: 909
-spoiler_boundary: "S01E01-S01E08 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
+spoiler_boundary: S01E01-S01E08 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
 ---
 
 # To Be Hero X V2 — Episode 08 Deep Reading

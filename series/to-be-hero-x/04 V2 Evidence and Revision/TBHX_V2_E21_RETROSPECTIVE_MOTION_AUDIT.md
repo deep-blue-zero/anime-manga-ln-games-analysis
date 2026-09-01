@@ -4,11 +4,11 @@ artifact_type: evidence_audit
 scope: E21_retrospective_motion
 generation: V2
 status: canonical
-source_boundary: "Frozen E21 prospective reading plus supplemental E21 motion clip reviewed after E22; E21 frozen body remains immutable"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen E21 prospective reading plus supplemental E21 motion clip reviewed after E22; E21 frozen body remains immutable
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 21 Retrospective Motion Audit"
+title: To Be Hero X V2 — Episode 21 Retrospective Motion Audit
 ---
 
 # To Be Hero X V2 — Episode 21 Retrospective Motion Audit

@@ -4,17 +4,17 @@ artifact_type: checkpoint_synthesis
 scope: V01-V27
 generation: V2
 status: active_provisional
-source_boundary: "Japanese manga tankobon Volumes 1-27; no Volume 28+ analytical exposure"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga tankobon Volumes 1-27; no Volume 28+ analytical exposure
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-date: "2026-08-24"
-method: "AOT_ANALYTICAL_METHOD_V2.md v2.1"
-previous_checkpoint: "AOT_CHECKPOINT_50P_V01-V19_SYNTHESIS.md"
-previous_checkpoint_status: "immutable historical authority for the V01-V19 boundary"
-prospective_construction_set: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
-prospective_holdout: "Volumes 20-27"
-next_volume_gate: "V28 remains locked until this checkpoint and its corpus administration are verified"
+date: '2026-08-24'
+method: AOT_ANALYTICAL_METHOD_V2.md v2.1
+previous_checkpoint: AOT_CHECKPOINT_50P_V01-V19_SYNTHESIS.md
+previous_checkpoint_status: immutable historical authority for the V01-V19 boundary
+prospective_construction_set: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+prospective_holdout: Volumes 20-27
+next_volume_gate: V28 remains locked until this checkpoint and its corpus administration are verified
 ---
 
 # 『進撃の巨人』V01–V27 Approximately-75% Checkpoint Synthesis

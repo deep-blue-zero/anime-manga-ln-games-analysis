@@ -5,11 +5,11 @@ scope: current_project_state
 generation: V2
 architecture_revision: 1.0
 status: canonical
-source_boundary: "TV E01-E13 + Friends Shorts 01-06; three Asaura novels; Recollect V01-V02; seven official anthology volumes; main Bizen adaptation not currently admitted"
-supersedes: null
-superseded_by: null
+source_boundary: TV E01-E13 + Friends Shorts 01-06; three Asaura novels; Recollect V01-V02; seven official anthology volumes; main Bizen adaptation not currently admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-28"
+last_updated: '2026-08-28'
 ---
 
 

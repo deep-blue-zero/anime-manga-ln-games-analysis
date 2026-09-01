@@ -26100,11 +26100,11 @@ The full-series synthesis frames the novels’ central principle well:
 
 > **A person cannot be loved honestly if the relationship requires dividing her into an acceptable self and a disposable self.**
 
-The danger is that accepting every part of someone can mutate into granting every demand or allowing one relationship to consume all others. Kyousuke and Kirino achieve holistic recognition without fully mastering that danger.[
+The danger is that accepting every part of someone can mutate into granting every demand or allowing one relationship to consume all others. Kyousuke and Kirino achieve holistic recognition without fully mastering that danger.
 
 Oreimo Full Series Synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a68050b-b808-83ea-8f1f-064aabe99c2d?messageId=b7645efe-4e7f-47d0-abca-538f0e9a8541&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ---
 
@@ -26116,11 +26116,11 @@ Oreimo Full Series Synthesis
 
 > **Kyousuke is a failed adolescent hero who turns ordinariness into emotional shelter, then uses helping others as his safest route back into meaningful human connection. His growth lies not in becoming less caring, but in learning that care does not grant ownership, that his own future matters, and that desire must eventually be chosen rather than disguised as duty.**
 
-Kyousuke is the novels’ greatest advantage over the anime because his narration turns a commercial romantic-comedy premise into a study of self-deception. He is not a blank audience surrogate. He has a recognizable linguistic rhythm, psychological history, moral style, and set of blind spots. His narration’s rough contractions, mock heroics, reader-address, manga metaphors, and immediate qualifications make him sound like a boy continually preventing himself from becoming emotionally legible.[
+Kyousuke is the novels’ greatest advantage over the anime because his narration turns a commercial romantic-comedy premise into a study of self-deception. He is not a blank audience surrogate. He has a recognizable linguistic rhythm, psychological history, moral style, and set of blind spots. His narration’s rough contractions, mock heroics, reader-address, manga metaphors, and immediate qualifications make him sound like a boy continually preventing himself from becoming emotionally legible.
 
 Oreimo Full Series Synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a68050b-b808-83ea-8f1f-064aabe99c2d?messageId=b7645efe-4e7f-47d0-abca-538f0e9a8541&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ---
 
@@ -26360,11 +26360,11 @@ Kyousuke’s development is real because he learns to tolerate being unnecessary
 
 It is:
 
-> **Kyousuke seeks meaningful connection and often uses usefulness as its safest available form.**[
+> **Kyousuke seeks meaningful connection and often uses usefulness as its safest available form.**
 >
 > Oreimo Full Series Synthesis
 >
-> ](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a68050b-b808-83ea-8f1f-064aabe99c2d?messageId=b7645efe-4e7f-47d0-abca-538f0e9a8541&conversation_save=1)
+>  _(historical external conversation reference unavailable in Git)_
 
 ---
 
@@ -26432,11 +26432,11 @@ Through her, he becomes:
 -   and capable of making a choice.
 
 
-He eventually needs Kirino’s world as much as she once needed him to enter it.[
+He eventually needs Kirino’s world as much as she once needed him to enter it.
 
 Oreimo Full Series Synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a68050b-b808-83ea-8f1f-064aabe99c2d?messageId=b7645efe-4e7f-47d0-abca-538f0e9a8541&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 But the relationship also aggravates his worst tendencies.
 
@@ -26567,11 +26567,11 @@ The full synthesis aptly describes her as **divided, integrated, and emotionally
 -   and lover.
 
 
-Her problem is that she increasingly wants one relationship—Kyousuke—to guarantee the continued coherence of all the others.[
+Her problem is that she increasingly wants one relationship—Kyousuke—to guarantee the continued coherence of all the others.
 
 Oreimo Full Series Synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a68050b-b808-83ea-8f1f-064aabe99c2d?messageId=b7645efe-4e7f-47d0-abca-538f0e9a8541&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ---
 
@@ -26984,11 +26984,11 @@ tracks relational development.
 
 **兄貴** is rough but unmistakably familial.
 **京介** identifies the individual man beyond the role.
-Using both at the wedding expresses the relationship’s unresolved duality.[
+Using both at the wedding expresses the relationship’s unresolved duality.
 
 Core event story priorities
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3af787-7330-832c-b855-146debae162f?messageId=85114a05-ec0c-4ea9-8417-600d5b15c4b9&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 ---
 
@@ -27109,11 +27109,11 @@ A translation that simply makes her sound pompous loses the difference between:
 
 -   concealment;
 
--   and authorship.[
+-   and authorship.
 
     Oreimo Full Series Synthesis
 
-    ](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a68050b-b808-83ea-8f1f-064aabe99c2d?messageId=b7645efe-4e7f-47d0-abca-538f0e9a8541&conversation_save=1)
+     _(historical external conversation reference unavailable in Git)_
 
 
 ---

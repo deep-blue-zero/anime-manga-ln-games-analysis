@@ -1,16 +1,17 @@
 ---
-series: "SHINEPOST"
-artifact_type: "audiovisual_analysis"
-scope: "Seibu Rio / Yellow Rose performance"
-generation: "V1"
-status: "superseded"
-source_boundary: "Yellow Rose audiovisual performance clip"
-supersedes: null
-superseded_by: "SHINEPOST_RIO_YELLOW_ROSE_AUDIOVISUAL_ANALYSIS.md"
+series: SHINEPOST
+artifact_type: audiovisual_analysis
+scope: Seibu Rio / Yellow Rose performance
+generation: V1
+status: superseded
+source_boundary: Yellow Rose audiovisual performance clip
+supersedes: []
+superseded_by:
+- series/shine-post/V1 Analysis/05 Specialist and Performance Analysis/SHINEPOST_RIO_YELLOW_ROSE_AUDIOVISUAL_ANALYSIS.md
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 44
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 Yes — this materially helps. The screenshots and dialogue already made **“Yellow Rose”** legible as Rio’s thematic breakthrough, but the audio/video clarifies *how* the breakthrough is performed: it is not merely “Rio sings a vulnerable song.” It is **Rio being placed inside a stage form where her vulnerability can become dignified instead of humiliating.**

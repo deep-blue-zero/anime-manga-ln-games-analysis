@@ -6,9 +6,9 @@ media: TV_anime
 language_priority: Japanese
 analysis_generation: V2
 status: canonical
-source_boundary: "Girls Band Cry TV anime Episodes 1-13 and the locked primary audiovisual materials defined by GBC_SOURCE_LOCK.md; V1 material is revision-target provenance only"
-supersedes: null
-superseded_by: null
+source_boundary: Girls Band Cry TV anime Episodes 1-13 and the locked primary audiovisual materials defined by GBC_SOURCE_LOCK.md; V1 material is revision-target provenance only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 updated: 2026-08-17

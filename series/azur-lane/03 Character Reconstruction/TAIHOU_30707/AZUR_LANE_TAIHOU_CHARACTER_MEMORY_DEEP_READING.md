@@ -6,13 +6,13 @@ generation: V1
 status: canonical
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
-source_boundary: "Complete CN character-memory sequence dafeng1–dafeng7 from TAIHOU_CN_NARRATIVE_SCENE_CORPUS.md; later Taihou evidence intentionally excluded from hypothesis adjudication except for source-routing context"
+source_boundary: Complete CN character-memory sequence dafeng1–dafeng7 from TAIHOU_CN_NARRATIVE_SCENE_CORPUS.md; later Taihou evidence intentionally excluded from hypothesis adjudication except for source-routing context
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 r0_authority: AZUR_LANE_TAIHOU_RECONSTRUCTION_READINESS_AUDIT.md
 r1_authority: AZUR_LANE_TAIHOU_RECONSTRUCTION_EVIDENCE_MAP.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

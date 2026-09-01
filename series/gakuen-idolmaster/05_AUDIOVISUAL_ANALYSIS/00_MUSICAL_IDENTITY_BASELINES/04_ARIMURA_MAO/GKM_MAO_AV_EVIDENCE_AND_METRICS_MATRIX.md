@@ -2,15 +2,15 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_ARIMURA_MAO_PHASE3_COMPLETE_AV
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "24-object Mao AV packet plus GAKUMAS V2 Source Lock 1.0 textual control"
-supersedes: null
-superseded_by: null
+source_boundary: 24-object Mao AV packet plus GAKUMAS V2 Source Lock 1.0 textual control
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-parent_authority: "GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+parent_authority: GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # ARIMURA MAO — AV EVIDENCE AND METRICS MATRIX

@@ -3,39 +3,40 @@ series: IDOLY_PRIDE
 artifact_type: relationship_longitudinal_ledger
 artifact_role: LEDGER
 scope: REL_KANA_KOKORO
-relationship: "kana / Akazaki Kokoro"
-relationship_japanese: "kana / 赤崎こころ"
+relationship: kana / Akazaki Kokoro
+relationship_japanese: kana / 赤崎こころ
 relationship_codes:
-  - kan
-  - kkr
+- kan
+- kkr
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-C-KANA-KOKORO"
+phase: '2'
+tranche: P2-C-KANA-KOKORO
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 relationship reconstruction of kana and Akazaki Kokoro across the frozen 2026-08-13 analytical snapshot. Mechanical intersection of the canonical kan and kkr occurrence indexes yields 11 unique pair-bearing routed bundles: 2 events, 3 messages, 2 cards, 2 main-story bundles, 1 bond bundle, and 1 specials/misc bundle. Pair-bearing is a contradiction/breadth frontier, not a claim that all 11 contain substantive dyadic development. Seven sources are promoted as the load-bearing or claim-specific spine: event_2024_011_st-eve-2411-race, message_message_group_ladder-24-1108_001_message_group_ladder-24-1108, card_kan_010_st-card-kan-05-link-00, event_2026_005_st-eve-2605-marathon-raid, message_message_group_ladder-26-0515_001_message_group_ladder-26-0515, bond_kan_001_kan, and card_kkr_003_st-card-kkr-05-birt-02. The remaining four pair-bearing bundles are retained as breadth/contradiction checks. Canonical P2-B3 Kokoro and P2-B5 kana ledgers govern inherited character state. No post-snapshot material is admitted."
+source_boundary: 'Phase-2 relationship reconstruction of kana and Akazaki Kokoro across the frozen 2026-08-13 analytical snapshot. Mechanical intersection of the canonical kan and kkr occurrence indexes yields 11 unique pair-bearing routed bundles: 2 events, 3 messages, 2 cards, 2 main-story bundles, 1 bond bundle, and 1 specials/misc bundle. Pair-bearing is a contradiction/breadth frontier, not a claim that all 11 contain substantive dyadic development. Seven sources are promoted as the load-bearing or claim-specific spine: event_2024_011_st-eve-2411-race, message_message_group_ladder-24-1108_001_message_group_ladder-24-1108, card_kan_010_st-card-kan-05-link-00, event_2026_005_st-eve-2605-marathon-raid, message_message_group_ladder-26-0515_001_message_group_ladder-26-0515, bond_kan_001_kan, and card_kkr_003_st-card-kkr-05-birt-02. The remaining four pair-bearing bundles are retained as breadth/contradiction checks. Canonical P2-B3 Kokoro and P2-B5 kana ledgers govern inherited character
+  state. No post-snapshot material is admitted.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_KOKORO_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_KOKORO_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_C_KANA_KOKORO_PASS
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-C — IIIX internal triad relationship longitudinal ledger"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-C — IIIX internal triad relationship longitudinal ledger
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — KANA / KOKORO RELATIONSHIP LONGITUDINAL LEDGER

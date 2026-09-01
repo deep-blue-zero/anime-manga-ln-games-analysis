@@ -7,11 +7,11 @@ generation: V1
 status: canonical
 semantic_authority: CN
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
-source_boundary: "CN-origin Baltimore narrative scene corpus after story-level identity quarantine; JP/EN/TW/KR reserved as regional witnesses"
+source_boundary: CN-origin Baltimore narrative scene corpus after story-level identity quarantine; JP/EN/TW/KR reserved as regional witnesses
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
-supersedes: null
-superseded_by: null
+method_version: 1.0.0
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

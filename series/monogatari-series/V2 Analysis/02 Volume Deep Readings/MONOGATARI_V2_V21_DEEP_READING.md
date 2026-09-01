@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V21 Deep Reading - 業物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V21"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『業物語』, supplied archive item 21 業物語.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V21 Deep Reading - 業物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V21
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『業物語』, supplied archive item 21 業物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V21_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V21"
-japanese_title: "業物語"
-archive_position: "Off Season archive spine V21"
-source_file: "21 業物語.epub"
-source_drive_id: "150LfiRxBMrAGHguqqfq085qdEgl7U3jz"
-source_sha256: "f9dfcf86e4bb9dad13d3b35b97541c5901b0dcca3868e5443cfbfece20c7c52b"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V21_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V21
+japanese_title: 業物語
+archive_position: Off Season archive spine V21
+source_file: 21 業物語.epub
+source_drive_id: 150LfiRxBMrAGHguqqfq085qdEgl7U3jz
+source_sha256: f9dfcf86e4bb9dad13d3b35b97541c5901b0dcca3868e5443cfbfece20c7c52b
 source_size_bytes: 8346873
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies a January 2016 Kodansha BOX print basis; electronic colophon identifies September 1, 2016 electronic issue. OPF/calibre timestamps are retained only as file-history metadata."
-principal_story_units: "残酷童話『うつくし姫』 / 第零話 あせろらボナペティ / 第零話 かれんオウガ / 第零話 つばさスリーピング"
-narrators: "anonymous fairy-tale voice / デストピア・ヴィルトゥオーゾ・スーサイドマスター / 阿良々木火憐 / 羽川翼 in a retrospective dialogue-frame with 忍野メメ"
-internal_story_range: "Deliberately non-linear: a fairy-tale/ancient-history layer approximately six centuries before the contemporary narrative; Suicide-Master retrospectively recounting Acerola's vampirization from a near-contemporary point; Karen during the first day and following days of her first high-school summer vacation; Hanekawa recounting an early Germany episode from her world journey after the Oikura incident and during the Nadeko/Ougi crisis, in a frame after she has located Meme but before his V18 return. Exact absolute dates are not supplied for all units."
-spoiler_policy: "Publication-local V21 conclusions may use and revise V01-V20 because V21 is the current publication boundary. V22 『撫物語』 and all later Off/Monster/Family Season material are excluded except as explicitly quarantined future questions. Ancient-history and retrospective narration are not back-projected as knowledge earlier narrators possessed before V21."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies a January 2016 Kodansha BOX print basis; electronic colophon identifies September 1, 2016 electronic issue. OPF/calibre timestamps are retained only as file-history metadata.
+principal_story_units: 残酷童話『うつくし姫』 / 第零話 あせろらボナペティ / 第零話 かれんオウガ / 第零話 つばさスリーピング
+narrators: anonymous fairy-tale voice / デストピア・ヴィルトゥオーゾ・スーサイドマスター / 阿良々木火憐 / 羽川翼 in a retrospective dialogue-frame with 忍野メメ
+internal_story_range: 'Deliberately non-linear: a fairy-tale/ancient-history layer approximately six centuries before the contemporary narrative; Suicide-Master retrospectively recounting Acerola''s vampirization from a near-contemporary point; Karen during the first day and following days of her first high-school summer vacation; Hanekawa recounting an early Germany episode from her world journey after the Oikura incident and during the Nadeko/Ougi crisis, in a frame after she has located Meme but before his V18 return. Exact absolute dates are not supplied for all units.'
+spoiler_policy: Publication-local V21 conclusions may use and revise V01-V20 because V21 is the current publication boundary. V22 『撫物語』 and all later Off/Monster/Family Season material are excluded except as explicitly quarantined future questions. Ancient-history and retrospective narration are not back-projected as knowledge earlier narrators possessed before V21.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 - Volume 21 Deep Reading

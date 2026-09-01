@@ -5,21 +5,21 @@ scope: PHASE1B_EVENT_E1A
 artifact_role: CHECKPOINT
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_E1A_PRIMARY_FINDINGS_FREEZE.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "event_2021_004_st-eve-2110-marathon -> event_2023_006_st-eve-2306-contest; four E1-A event bundles only"
+source_boundary: event_2021_004_st-eve-2110-marathon -> event_2023_006_st-eve-2306-contest; four E1-A event bundles only
 inherited_authority: IDOLY_PRIDE_V2_PHASE1B_POST_TIER_A_MAIN_NARRATIVE_BASELINE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1B_EVENT_RERANK_AUDIT.md
 historical_analysis_consulted_before_freeze: false
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-updated: "2026-08-15"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-15'
+updated: '2026-08-15'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1B EVENT CLOSE READ E1-A

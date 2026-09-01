@@ -1,30 +1,30 @@
 ---
-series: "MONOGATARI"
-artifact_type: "checkpoint"
-scope: "V30_FAMILY_SEASON_SUPPLIED_NUMBERED_BOUNDARY"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese numbered novel corpus through V30; V30 is the only supplied Family Season numbered source; supplementary EPUBs and any later Family Season numbered novels excluded from analytical authority here"
-supersedes: null
-superseded_by: null
+series: MONOGATARI
+artifact_type: checkpoint
+scope: V30_FAMILY_SEASON_SUPPLIED_NUMBERED_BOUNDARY
+generation: V2
+status: canonical
+source_boundary: Japanese numbered novel corpus through V30; V30 is the only supplied Family Season numbered source; supplementary EPUBs and any later Family Season numbered novels excluded from analytical authority here
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V30_FAMILY_SEASON_SOURCE_BOUNDARY_CHECKPOINT"
-version: "1.0"
-date: "2026-08-18"
-checkpoint_type: "qualified_source_boundary_freeze"
-season: "Family Season"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V30_FAMILY_SEASON_SOURCE_BOUNDARY_CHECKPOINT
+version: '1.0'
+date: '2026-08-18'
+checkpoint_type: qualified_source_boundary_freeze
+season: Family Season
 volumes:
-  - "V30"
-previous_boundary: "V29 / MONOGATARI_V2_V24-V29_MONSTER_SEASON_CHECKPOINT.md"
-previous_season_freeze: "MONOGATARI_V2_V24-V29_MONSTER_SEASON_CHECKPOINT.md"
-current_numbered_boundary: "V30 / 戦物語"
-next_artifact: "MONOGATARI_V2_SUPPLEMENTARY_SOURCE_PLACEMENT_AUDIT.md"
-reasoning_recommendation_used: "GPT-5.6 Sol - Very High"
-governing_method: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-governing_architecture: "MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md"
-live_ledger_boundary: "L01-L09 current through V30 / C729"
-source_inventory_state: "v1.30"
+- V30
+previous_boundary: V29 / MONOGATARI_V2_V24-V29_MONSTER_SEASON_CHECKPOINT.md
+previous_season_freeze: MONOGATARI_V2_V24-V29_MONSTER_SEASON_CHECKPOINT.md
+current_numbered_boundary: V30 / 戦物語
+next_artifact: MONOGATARI_V2_SUPPLEMENTARY_SOURCE_PLACEMENT_AUDIT.md
+reasoning_recommendation_used: GPT-5.6 Sol - Very High
+governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
+governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+live_ledger_boundary: L01-L09 current through V30 / C729
+source_inventory_state: v1.30
 external_family_season_complete: false
 supplied_numbered_family_boundary_complete: true
 supplementary_sources_integrated: false

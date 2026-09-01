@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: audit
 scope: CHARACTER_SHINOSAWA_HIRO_AV_TECHNICAL_METRICS
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "Source-level ffprobe, sampled-frame, full-mix audio, and within-packet song-form measurements for the staged Hiro AV packet"
-supersedes: null
-superseded_by: null
+source_boundary: Source-level ffprobe, sampled-frame, full-mix audio, and within-packet song-form measurements for the staged Hiro AV packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shinosawa Hiro AV Technical Metrics Appendix"
-parent_authority: "GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shinosawa Hiro AV Technical Metrics Appendix
+parent_authority: GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # SHINOSAWA HIRO — AV TECHNICAL METRICS APPENDIX

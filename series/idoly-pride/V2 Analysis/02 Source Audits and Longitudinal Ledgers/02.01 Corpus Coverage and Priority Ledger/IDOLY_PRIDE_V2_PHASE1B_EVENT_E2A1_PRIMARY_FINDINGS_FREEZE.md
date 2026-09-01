@@ -5,20 +5,20 @@ artifact_role: DEEP_READING
 scope: PHASE1B_EVENT_E2A1
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_E2A1_PRIMARY_FINDINGS_FREEZE.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Four E2-A1 event bundles only, read prospectively under the frozen post-E1-E governing baseline. No Tier-H historical comparison consulted before this freeze."
+source_boundary: Four E2-A1 event bundles only, read prospectively under the frozen post-E1-E governing baseline. No Tier-H historical comparison consulted before this freeze.
 governing_baseline: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E1E_BASELINE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1B_E2_CLOSE_READ_QUEUE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 findings_admitted_to_governing_baseline: false
 integrity_status: FROZEN_PRIMARY_BEFORE_HISTORICAL_COMPARISON
-created: "2026-08-15"
-updated: "2026-08-15"
+created: '2026-08-15'
+updated: '2026-08-15'
 ---
 # IDOLY PRIDE V2 — PHASE 1B EVENT E2-A1 PRIMARY FINDINGS FREEZE
 

@@ -4,23 +4,23 @@ artifact_type: deep_reading
 scope: V03
 generation: V1
 status: canonical
-source_boundary: "Japanese light novel Volume 03"
-semantic_evidence_boundary: "V01-V03 only"
+source_boundary: Japanese light novel Volume 03
+semantic_evidence_boundary: V01-V03 only
 future_semantic_evidence_used: false
 source_set_id: IMOSAE-JP-LN-RAW-1.0
-source_filename: "A Sister's All You Need - Volume 03 [Japanese].epub"
-source_sha256: "edc655a6b440f7ee927cfc8ef09d72c5a8b950800dacf5d2ddff6e2e54c3b9d3"
+source_filename: A Sister's All You Need - Volume 03 [Japanese].epub
+source_sha256: edc655a6b440f7ee927cfc8ef09d72c5a8b950800dacf5d2ddff6e2e54c3b9d3
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
-normalized_volume_sha256: "ba1bab63f192afb7b9529b4488cc5da9ad29d5142a912344a6f6dfde9e278651"
+normalized_volume_sha256: ba1bab63f192afb7b9529b4488cc5da9ad29d5142a912344a6f6dfde9e278651
 visual_index_version: IMOSAE-VISUAL-INDEX-1.0
 gaiji_map_version: IMOSAE-GAIJI-MAP-1.0
 analysis_method: IMOSAE_ANALYTICAL_METHOD_V1.md
 architecture_protocol: IMOSAE_SYNTHESIS_ARCHITECTURE_V1.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-18"
+version: '1.0'
+date: '2026-08-18'
 ---
 
 # 妹さえいればいい。 Volume 03 — Deep Reading

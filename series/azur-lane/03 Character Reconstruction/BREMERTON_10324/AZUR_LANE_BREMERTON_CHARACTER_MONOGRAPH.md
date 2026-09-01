@@ -5,16 +5,16 @@ generation: V1
 semantic_authority: CN
 azurlane_data_commit: 4cca5c2437007b62d30a6235fcfc0c0203231378
 story_lua_witness_commit: d93f83db24195981c5f5ca90ac5e29ce0580b12c
-source_package_generated_at: "2026-08-23T18:55:47.426186Z"
-supersedes: null
-superseded_by: null
+source_package_generated_at: '2026-08-23T18:55:47.426186Z'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 artifact_type: character_monograph
 scope: BREMERTON_10324
 status: active_provisional
-source_boundary: "Pinned CN-origin full Bremerton corpus with JP/EN/TW/KR regional witnesses; complete seven-part memory; all 41 linked story records; 108 character-dialogue records; social evidence; 101 mapped JP spoken utterances with 100/101 published WAVs directly measured and verified; one 103245 login waveform still not directly retrievable"
+source_boundary: Pinned CN-origin full Bremerton corpus with JP/EN/TW/KR regional witnesses; complete seven-part memory; all 41 linked story records; 108 character-dialogue records; social evidence; 101 mapped JP spoken utterances with 100/101 published WAVs directly measured and verified; one 103245 login waveform still not directly retrievable
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 readiness_grade: A
 readiness_score: 87.75
 performed_voice_status: acoustic_model_100_of_101_one_waveform_open

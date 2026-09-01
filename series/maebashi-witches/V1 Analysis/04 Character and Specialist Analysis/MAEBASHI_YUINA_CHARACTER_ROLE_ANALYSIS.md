@@ -1,15 +1,16 @@
 ---
-series: "MAEBASHI"
-artifact_type: "character_monograph"
-scope: "YUINA"
-generation: "V1"
-status: "canonical"
-source_boundary: "Completed-series Yuina role analysis after Episode 12"
+series: MAEBASHI
+artifact_type: character_monograph
+scope: YUINA
+generation: V1
+status: canonical
+source_boundary: Completed-series Yuina role analysis after Episode 12
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md"
-source_turns: [82]
+source_transcript: Manga and anime discussions - Maebashi Witches Analysis - Full Transcript.md
+source_turns:
+- 82
 ---
 
 <!-- transcript_source_turn: 82 -->

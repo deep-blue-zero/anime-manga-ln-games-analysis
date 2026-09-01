@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: V02
 generation: V1
 status: canonical
-source_boundary: "Japanese digital tankobon Volume 2; five mainline chapters plus in-volume drawn bonus narrative and paratext inspection"
-source_sha256: "b56d4f28564c789ff0ca78047982b9c6068f04be458c2a712ffff094a738e11c"
+source_boundary: Japanese digital tankobon Volume 2; five mainline chapters plus in-volume drawn bonus narrative and paratext inspection
+source_sha256: b56d4f28564c789ff0ca78047982b9c6068f04be458c2a712ffff094a738e11c
 prospective_boundary_before: V01
 prospective_boundary_after: V02
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

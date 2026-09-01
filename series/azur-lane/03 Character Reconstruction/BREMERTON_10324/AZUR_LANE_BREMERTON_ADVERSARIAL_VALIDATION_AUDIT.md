@@ -5,14 +5,14 @@ generation: V1
 semantic_authority: CN
 azurlane_data_commit: 4cca5c2437007b62d30a6235fcfc0c0203231378
 story_lua_witness_commit: d93f83db24195981c5f5ca90ac5e29ce0580b12c
-source_package_generated_at: "2026-08-23T18:55:47.426186Z"
-supersedes: null
-superseded_by: null
+source_package_generated_at: '2026-08-23T18:55:47.426186Z'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 artifact_type: audit
 scope: BREMERTON_10324_R5_ADVERSARIAL_VALIDATION
 status: canonical
-source_boundary: "R1-R4 claim set challenged against complete narrative, dialogue-state, privacy, relationship, social, and combat evidence"
+source_boundary: R1-R4 claim set challenged against complete narrative, dialogue-state, privacy, relationship, social, and combat evidence
 ---
 
 # Azur Lane — Bremerton R5 Adversarial Validation Audit

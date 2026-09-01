@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: V03
 generation: V1
 status: canonical
-source_boundary: "Japanese digital tankobon Volume 3; CH11-CH14, in-volume extra story ひだまり, and relevant in-world paratext inspection"
-source_sha256: "5c499a13849ccad1e29bc21d31ca08434df93288c90fef8a9b49ef36f5e6870a"
+source_boundary: Japanese digital tankobon Volume 3; CH11-CH14, in-volume extra story ひだまり, and relevant in-world paratext inspection
+source_sha256: 5c499a13849ccad1e29bc21d31ca08434df93288c90fef8a9b49ef36f5e6870a
 prospective_boundary_before: V02
 prospective_boundary_after: V03
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

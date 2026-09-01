@@ -5,108 +5,108 @@ artifact_type: deep_reading
 scope: V28
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-24"
-source_boundary: "Japanese manga Volume 28, Chapters 111-114; spoiler boundary through Volume 28 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-24'
+source_boundary: Japanese manga Volume 28, Chapters 111-114; spoiler boundary through Volume 28 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "28"
-chapters: "111-114"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '28'
+chapters: 111-114
 chapter_titles:
-  - "第111話 森の子ら"
-  - "第112話 無知"
-  - "第113話 暴悪"
-  - "第114話 唯一の救い"
+- 第111話 森の子ら
+- 第112話 無知
+- 第113話 暴悪
+- 第114話 唯一の救い
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v28 (2019) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1PV-5eOLQeT__eMG6b4LBC6Q4gEsZHONm"
-source_sha256: "7a79d8e38834975271c553e564dd6e95440de54b244cf27e4e4fc7c65fbd6644"
+source_file: Attack on Titan v28 (2019) (Digital SD) (KG Manga).cbz
+source_drive_id: 1PV-5eOLQeT__eMG6b4LBC6Q4gEsZHONm
+source_sha256: 7a79d8e38834975271c553e564dd6e95440de54b244cf27e4e4fc7c65fbd6644
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 28 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 28 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_material_source: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
+prospective_material_source: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
 prospective_register_frozen_before_source_exposure: true
-previous_checkpoint: "AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md"
-checkpoint_state: "complete and gate-cleared before V28 source exposure"
-next_volume_boundary: "Volume 29 remains analytically locked until V28 integration is complete"
+previous_checkpoint: AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
+checkpoint_state: complete and gate-cleared before V28 source exposure
+next_volume_boundary: Volume 29 remains analytically locked until V28 integration is complete
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Levi Ackerman / リヴァイ・アッカーマン"
-  - "Zeke Jaeger / ジーク・イェーガー"
-  - "Hange Zoe / ハンジ・ゾエ"
-  - "Floch Forster / フロック・フォルスター"
-  - "Dot Pixis / ドット・ピクシス"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Falco Grice / ファルコ・グライス"
-  - "Nicolo / ニコロ"
-  - "Kaya / カヤ"
-  - "Artur Blouse / アルトゥル・ブラウス"
-  - "Keith Shadis / キース・シャーディス"
-  - "Grisha Jaeger / グリシャ・イェーガー"
-  - "Dina Fritz / ダイナ・フリッツ"
-  - "Tom Ksaver / トム・クサヴァー"
+- Eren Jaeger / エレン・イェーガー
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Armin Arlert / アルミン・アルレルト
+- Levi Ackerman / リヴァイ・アッカーマン
+- Zeke Jaeger / ジーク・イェーガー
+- Hange Zoe / ハンジ・ゾエ
+- Floch Forster / フロック・フォルスター
+- Dot Pixis / ドット・ピクシス
+- Gabi Braun / ガビ・ブラウン
+- Falco Grice / ファルコ・グライス
+- Nicolo / ニコロ
+- Kaya / カヤ
+- Artur Blouse / アルトゥル・ブラウス
+- Keith Shadis / キース・シャーディス
+- Grisha Jaeger / グリシャ・イェーガー
+- Dina Fritz / ダイナ・フリッツ
+- Tom Ksaver / トム・クサヴァー
 major_relationships:
-  - "Gabi / Nicolo / Blouse family / Kaya"
-  - "Gabi / Falco"
-  - "Eren / Mikasa / Armin"
-  - "Levi / Zeke"
-  - "Floch / Shadis / new recruits"
-  - "Zeke / Grisha / Dina"
-  - "Zeke / Ksaver"
-  - "Zeke / Eren"
+- Gabi / Nicolo / Blouse family / Kaya
+- Gabi / Falco
+- Eren / Mikasa / Armin
+- Levi / Zeke
+- Floch / Shadis / new recruits
+- Zeke / Grisha / Dina
+- Zeke / Ksaver
+- Zeke / Eren
 major_topics:
-  - children and inherited violence
-  - salvation as competing political technology
-  - freedom versus reciprocal agency
-  - engineered ignorance and interested testimony
-  - spinal-fluid wine as embodied biopolitical control
-  - ordinary food as personhood and as weapon infrastructure
-  - revenge, forgiveness, and intergenerational responsibility
-  - biological determinism and relationship interpretation
-  - authoritarian insurgency and generational political violence
-  - surrogate parenthood and ideological succession
-  - euthanasia, antinatalism, and the abolition of future inheritors
-  - coercion hidden inside claims of liberation
+- children and inherited violence
+- salvation as competing political technology
+- freedom versus reciprocal agency
+- engineered ignorance and interested testimony
+- spinal-fluid wine as embodied biopolitical control
+- ordinary food as personhood and as weapon infrastructure
+- revenge, forgiveness, and intergenerational responsibility
+- biological determinism and relationship interpretation
+- authoritarian insurgency and generational political violence
+- surrogate parenthood and ideological succession
+- euthanasia, antinatalism, and the abolition of future inheritors
+- coercion hidden inside claims of liberation
 major_visual_motifs:
-  - forest as literal terrain and inherited social structure
-  - round table converted from hospitality into coercive tribunal
-  - wine bottle, mouth, scream, and body as command chain
-  - Eren's cut hand displayed on the table
-  - Mikasa's restraining hand and Kaya's knife
-  - ODM movement through transformed comrades in the forest
-  - recruits lined in formation before Shadis
-  - baseball and catch as surrogate-parent relation
-  - walls, cages, and internment-zone sightlines in Zeke's childhood
-  - rain over Levi/Zeke and the final detonation
+- forest as literal terrain and inherited social structure
+- round table converted from hospitality into coercive tribunal
+- wine bottle, mouth, scream, and body as command chain
+- Eren's cut hand displayed on the table
+- Mikasa's restraining hand and Kaya's knife
+- ODM movement through transformed comrades in the forest
+- recruits lined in formation before Shadis
+- baseball and catch as surrogate-parent relation
+- walls, cages, and internment-zone sightlines in Zeke's childhood
+- rain over Levi/Zeke and the final detonation
 major_lexical_targets:
-  - 森
-  - 無知
-  - 自由
-  - 自由意志
-  - 奴隷
-  - 家畜
-  - 救う
-  - 救い
-  - 子供
-  - 世界
-  - 選択肢
-  - 決別
+- 森
+- 無知
+- 自由
+- 自由意志
+- 奴隷
+- 家畜
+- 救う
+- 救い
+- 子供
+- 世界
+- 選択肢
+- 決別
 ---
 
 # 『進撃の巨人』Volume 28 Deep Reading

@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_SHIUN_SUMIKA_MUSIC_MV_PERFORMANCE
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: canonical
-source_boundary: "Thirteen music/performance objects plus five song commus; authored MV, 3DMV, and static full-mix evidence kept distinct; カクシタワタシ has no authored official MV in the inspected packet"
-supersedes: null
-superseded_by: null
+source_boundary: Thirteen music/performance objects plus five song commus; authored MV, 3DMV, and static full-mix evidence kept distinct; カクシタワタシ has no authored official MV in the inspected packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shiun Sumika Music, MV, and Performance Close Reading"
-parent_authority: "GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shiun Sumika Music, MV, and Performance Close Reading
+parent_authority: GKM_SUMIKA_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # SHIUN SUMIKA — MUSIC, MV, AND PERFORMANCE CLOSE READING

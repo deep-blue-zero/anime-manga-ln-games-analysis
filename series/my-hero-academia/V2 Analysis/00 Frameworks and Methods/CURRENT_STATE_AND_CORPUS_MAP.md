@@ -4,9 +4,9 @@ artifact_type: corpus_map
 scope: FULL_SERIES_V2
 generation: V2
 status: canonical
-source_boundary: "V2 Japanese manga reread in progress; main tankobon sequence V01-V42 confirmed accessible in canonical Drive source root"
-supersedes: null
-superseded_by: null
+source_boundary: V2 Japanese manga reread in progress; main tankobon sequence V01-V42 confirmed accessible in canonical Drive source root
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_SHINOSAWA_HIRO_DIALOGUE_VOICE_ACTING
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "Dear 001–037 plus seven song-communication compilations; exact semantics controlled by Source Lock 1.0; scene audio is not speaker-isolated"
-supersedes: null
-superseded_by: null
+source_boundary: Dear 001–037 plus seven song-communication compilations; exact semantics controlled by Source Lock 1.0; scene audio is not speaker-isolated
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shinosawa Hiro Dialogue and Voice-Acting Close Reading"
-parent_authority: "GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shinosawa Hiro Dialogue and Voice-Acting Close Reading
+parent_authority: GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # SHINOSAWA HIRO — DIALOGUE AND VOICE-ACTING CLOSE READING

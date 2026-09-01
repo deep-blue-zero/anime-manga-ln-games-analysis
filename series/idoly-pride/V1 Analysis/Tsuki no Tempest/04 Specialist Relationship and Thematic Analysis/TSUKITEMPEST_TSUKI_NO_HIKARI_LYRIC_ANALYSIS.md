@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "specialist_synthesis"
-scope: "Tsuki no Tempest / Tsuki no Hikari lyrics/thematic philosophy"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived analysis over uploaded IDOLY PRIDE sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated"
+series: IDOLY_PRIDE
+artifact_type: specialist_synthesis
+scope: Tsuki no Tempest / Tsuki no Hikari lyrics/thematic philosophy
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived analysis over uploaded IDOLY PRIDE sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - Tsuki no Tempest Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Tsuki no Tempest Analysis - Full Transcript(1).md
 source_turn: 94
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 specialist/character reconstruction where re-adjudicated'
 ---
 
 Yes — the lyrics make **月ノヒカリ** much more explicit than the audio/3DMV alone. They confirm that the song is not simply “moonlight aesthetic,” but **Tsuki no Tempest’s mature philosophy in lyric form**.

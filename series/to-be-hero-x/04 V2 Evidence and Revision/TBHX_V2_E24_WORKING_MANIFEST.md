@@ -4,12 +4,14 @@ artifact_type: manifest
 scope: E24_working
 scale: episode
 responsibility: provisional_delivery_state
-status: superseded
+status: historical_legacy
 generation: V2
-source_boundary: "Episode 24 frame/text pass complete; motion audit pending"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 24 frame/text pass complete; motion audit pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
+legacy_supersession_notes:
+- legacy superseded status lacked a resolvable current repository successor
 ---
 
 # TBHX V2 — Episode 24 Working Manifest

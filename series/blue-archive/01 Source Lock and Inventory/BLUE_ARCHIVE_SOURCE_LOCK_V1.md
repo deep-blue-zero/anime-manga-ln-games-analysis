@@ -1,10 +1,10 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: source_lock
-scope: "Promoted Japanese V1 canonical and derived source corpus"
+scope: Promoted Japanese V1 canonical and derived source corpus
 generation: V1
 status: canonical
-source_boundary: "electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 / game-data v1.71.447596-r94_y2ha6vgythtil9ja597o; independent reference HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e"
+source_boundary: electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 / game-data v1.71.447596-r94_y2ha6vgythtil9ja597o; independent reference HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

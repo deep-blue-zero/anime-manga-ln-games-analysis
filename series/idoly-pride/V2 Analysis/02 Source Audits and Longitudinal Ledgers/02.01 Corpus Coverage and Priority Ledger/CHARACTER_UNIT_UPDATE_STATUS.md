@@ -4,18 +4,18 @@ artifact_type: freshness_registry
 artifact_role: LEDGER
 scope: CHARACTER_AND_UNIT_FRESHNESS
 generation: V2
-version: "1.31"
+version: '1.31'
 status: canonical
-phase: "2"
+phase: '2'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 freshness registry for IP-V2-SNAPSHOT-2026-08-13-A. P2-A/P2-B individual character validation, the frozen-minimum P2-C relationship set, and all five named P2-D unit validations remain complete. The optional Hoshimi Productions standalone P2-D ledger remains not warranted. P2-E-01 answerable interdependence, P2-E-02 autonomy/management/intervention/professional care, P2-E-03 grief/death/memory/inheritance/non-replacement, and P2-E-04 authenticity/persona/publicity/media/selective disclosure are complete/current as thematic ledgers. Theme-level completion does not advance any character, unit, or standalone institution freshness frontier; Hoshimi therefore remains validated_through null / provisional as a standalone entity while institution-level recurring mechanisms route through P2-E. P2-E-05 audience reciprocity/fandom/performance/creative governance is next."
-supersedes: null
-superseded_by: null
+source_boundary: Phase-2 freshness registry for IP-V2-SNAPSHOT-2026-08-13-A. P2-A/P2-B individual character validation, the frozen-minimum P2-C relationship set, and all five named P2-D unit validations remain complete. The optional Hoshimi Productions standalone P2-D ledger remains not warranted. P2-E-01 answerable interdependence, P2-E-02 autonomy/management/intervention/professional care, P2-E-03 grief/death/memory/inheritance/non-replacement, and P2-E-04 authenticity/persona/publicity/media/selective disclosure are complete/current as thematic ledgers. Theme-level completion does not advance any character, unit, or standalone institution freshness frontier; Hoshimi therefore remains validated_through null / provisional as a standalone entity while institution-level recurring mechanisms route through P2-E. P2-E-05 audience reciprocity/fandom/performance/creative governance is next.
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_D_CLOSED_P2_E_04_COMPLETE
-created: "2026-08-16"
-updated: "2026-08-26"
-next_operation: "P2-E-05 — IDOLY_PRIDE_V2_THEME_AUDIENCE_RECIPROCITY_FANDOM_PERFORMANCE_AND_CREATIVE_GOVERNANCE_LONGITUDINAL_LEDGER.md"
+created: '2026-08-16'
+updated: '2026-08-26'
+next_operation: P2-E-05 — IDOLY_PRIDE_V2_THEME_AUDIENCE_RECIPROCITY_FANDOM_PERFORMANCE_AND_CREATIVE_GOVERNANCE_LONGITUDINAL_LEDGER.md
 ---
 
 # IDOLY PRIDE V2 — CHARACTER / UNIT UPDATE STATUS

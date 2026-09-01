@@ -4,7 +4,7 @@ artifact_type: deep_reading
 scope: MAIN_V001_C001_E002
 generation: V1
 status: active_provisional
-source_boundary: "Canonical Japanese main-story unit BA:main:001:001:002, 対策委員会編 第2話『アビドスでの初日』, electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86"
+source_boundary: Canonical Japanese main-story unit BA:main:001:001:002, 対策委員会編 第2話『アビドスでの初日』, electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

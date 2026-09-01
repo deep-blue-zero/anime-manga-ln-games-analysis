@@ -5,23 +5,23 @@ scope: E10
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 10 analytical bundle; S01E01-S01E10 broadcast knowledge only"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 10 analytical bundle; S01E01-S01E10 broadcast knowledge only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 10 Deep Reading"
+title: To Be Hero X V2 — Episode 10 Deep Reading
 season: 1
 episode: 10
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e10_screenshots.zip"
-source_bundle_sha256: "7811c263ab69766a835e4b3ae6259a8b1f5027ccfa57f7b89543a2b02189145f"
+analysis_version: '2.0'
+source_bundle: BHX_s01e10_screenshots.zip
+source_bundle_sha256: 7811c263ab69766a835e4b3ae6259a8b1f5027ccfa57f7b89543a2b02189145f
 source_bundle_bytes: 287200661
 source_duration_seconds: 1584.725
-program_start_seconds: 38.000
-analysis_start_seconds: 37.750
+program_start_seconds: 38.0
+analysis_start_seconds: 37.75
 mandarin_cue_count: 292
-mandarin_ocr_mean_confidence: 0.993080
+mandarin_ocr_mean_confidence: 0.99308
 mandarin_ocr_median_confidence: 0.998811
 mandarin_ocr_min_confidence: 0.893225
 low_confidence_events: 0
@@ -29,12 +29,12 @@ japanese_paired_mandarin_cues: 277
 japanese_aligned_cue_count: 346
 contact_sheet_count: 52
 kept_screenshot_count: 1036
-spoiler_boundary: "S01E01-S01E10 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
-naming_authority: "TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state"
+spoiler_boundary: S01E01-S01E10 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
+naming_authority: TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state
 ---
 
 # To Be Hero X V2 — Episode 10 Deep Reading

@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: technical_appendix
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_AV_TECHNICAL
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Technical metadata and source-level audio/visual measurements for the 21-object canonical China AV packet plus one duplicate supplemental excerpt"
-supersedes: null
-superseded_by: null
+source_boundary: Technical metadata and source-level audio/visual measurements for the 21-object canonical China AV packet plus one duplicate supplemental excerpt
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-21"
-title: "Kuramoto China Phase-3 AV Technical Metrics Appendix"
+last_updated: '2026-08-21'
+title: Kuramoto China Phase-3 AV Technical Metrics Appendix
 ---
 
 # GKM PHASE 3 — KURAMOTO CHINA AV TECHNICAL METRICS APPENDIX

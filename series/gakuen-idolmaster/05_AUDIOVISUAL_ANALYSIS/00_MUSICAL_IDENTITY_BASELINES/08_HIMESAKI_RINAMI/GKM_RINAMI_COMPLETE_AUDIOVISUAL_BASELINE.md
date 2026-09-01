@@ -2,16 +2,19 @@
 series: GKM
 artifact_type: audiovisual_baseline
 scope: CHARACTER_HIMESAKI_RINAMI_PHASE3_COMPLETE_AV
-character: "Himesaki Rinami / 姫崎莉波"
+character: Himesaki Rinami / 姫崎莉波
 generation: V2
 release: R2
 status: canonical
-source_boundary: "Complete Phase-3 integrated AV packet: 27 logical objects / 27 physical files / 19341.187 seconds / 3.098 GB decimal; Dear 001-020 at 1080p30, Dear 021-027 at 720p60, Dear 028-037 at 720p30; seven song communications, ten rendered 3DMVs, four authored official MVs, one static full-song presentation, and one supplemental song video; exact wording controlled by GAKUMAS V2 Source Lock 1.0"
-supersedes: "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1"
-superseded_by: null
+source_boundary: 'Complete Phase-3 integrated AV packet: 27 logical objects / 27 physical files / 19341.187 seconds / 3.098 GB decimal; Dear 001-020 at 1080p30, Dear 021-027 at 720p60, Dear 028-037 at 720p30; seven song communications, ten rendered 3DMVs, four authored official MVs, one static full-song presentation, and one supplemental song video; exact wording controlled by GAKUMAS V2 Source Lock 1.0'
+supersedes:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/08_HIMESAKI_RINAMI/GKM_RINAMI_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-22"
-title: "Gakuen Idolmaster V2 — Himesaki Rinami Complete Audiovisual Baseline"
+last_updated: '2026-08-22'
+title: Gakuen Idolmaster V2 — Himesaki Rinami Complete Audiovisual Baseline
+legacy_supersession_notes:
+- 'legacy supersedes: GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1'
 ---
 
 # GKM — HIMESAKI RINAMI COMPLETE AUDIOVISUAL BASELINE

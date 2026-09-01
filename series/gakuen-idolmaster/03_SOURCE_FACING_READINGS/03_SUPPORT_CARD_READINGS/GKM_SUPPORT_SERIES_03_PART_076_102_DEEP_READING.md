@@ -4,16 +4,16 @@ artifact_type: deep_reading
 scope: SUPPORT_SERIES_03_PART_076_102
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — analysis bundle support_series_3_part_076-102.dialogue.txt; 90 unique support-card scripts / 1,797 messages, comprising 30 three-part support stories with actual story IDs story_0076 through story_0098, story_0100 through story_0105, and story_0108; story_0099, story_0106, and story_0107 are absent from the bundle despite the architecture routing label"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
-source_commit: "00d150a069a3ffa723a1ff264752ba242024caad"
+source_boundary: GAKUMAS V2 Source Lock 1.0 — analysis bundle support_series_3_part_076-102.dialogue.txt; 90 unique support-card scripts / 1,797 messages, comprising 30 three-part support stories with actual story IDs story_0076 through story_0098, story_0100 through story_0105, and story_0108; story_0099, story_0106, and story_0107 are absent from the bundle despite the architecture routing label
+source_lock: GAKUMAS V2 Source Lock 1.0
+source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
-governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2"
-governing_architecture: "GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4"
-governing_continuity: "GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1"
-created: "2026-08-24"
-supersedes: null
-superseded_by: null
+governing_method: GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md v2.2
+governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md v2.4
+governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
+created: '2026-08-24'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

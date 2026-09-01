@@ -1,35 +1,35 @@
 ---
-title: "〈物語〉シリーズ V2 V11 Deep Reading — 囮物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V11"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『囮物語』, supplied archive item 11 囮物語.epub"
-supersedes: null
-superseded_by: null
+title: 〈物語〉シリーズ V2 V11 Deep Reading — 囮物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V11
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『囮物語』, supplied archive item 11 囮物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V11_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V11"
-japanese_title: "囮物語"
-archive_position: "Second Season archive spine V11"
-source_file: "11 囮物語.epub"
-source_drive_id: "1SmtuGccSuMCY_3ooATEC2UriDtZPNG--"
-source_sha256: "eff05d540763e66b7726f6e512282f48499cfd242f86ed1637767e576b100c07"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V11_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V11
+japanese_title: 囮物語
+archive_position: Second Season archive spine V11
+source_file: 11 囮物語.epub
+source_drive_id: 1SmtuGccSuMCY_3ooATEC2UriDtZPNG--
+source_sha256: eff05d540763e66b7726f6e512282f48499cfd242f86ed1637767e576b100c07
 source_size_bytes: 7776592
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text and represented June 28, 2011 print boundary; later calibre packaging means official digital-edition lineage/date is not asserted"
-principal_story_unit: "第乱話 なでこメドゥーサ"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text and represented June 28, 2011 print boundary; later calibre packaging means official digital-edition lineage/date is not asserted
+principal_story_unit: 第乱話 なでこメドゥーサ
 narrators:
-  - "千石撫子"
-internal_story_range: "October 31 into early November, with a narrated six-month-forward confrontation preview"
-spoiler_policy: "Publication-local reading is separated from retrospective V2 interpretation; later-series knowledge is quarantined to retrospective sections. V13 and later Nadeko developments are not used to solve V11's open state."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+- 千石撫子
+internal_story_range: October 31 into early November, with a narrated six-month-forward confrontation preview
+spoiler_policy: Publication-local reading is separated from retrospective V2 interpretation; later-series knowledge is quarantined to retrospective sections. V13 and later Nadeko developments are not used to solve V11's open state.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # 〈物語〉シリーズ V2 — Volume 11 Deep Reading

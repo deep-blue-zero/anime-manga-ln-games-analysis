@@ -4,9 +4,9 @@ artifact_type: japanese_dialogue_register_audit
 scope: V10
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 10; Drive CBZ SHA-256 cae2eb9695232d31f1464062039cb6d8dbb9594067914ac9756ee3063523a347"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 10; Drive CBZ SHA-256 cae2eb9695232d31f1464062039cb6d8dbb9594067914ac9756ee3063523a347
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

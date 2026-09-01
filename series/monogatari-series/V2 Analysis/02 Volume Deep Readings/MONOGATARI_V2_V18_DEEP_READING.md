@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V18 Deep Reading - 終物語（下）"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V18"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『終物語（下）』, supplied archive item 18 終物語 下.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V18 Deep Reading - 終物語（下）
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V18
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『終物語（下）』, supplied archive item 18 終物語 下.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V18_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V18"
-japanese_title: "終物語（下）"
-archive_position: "Final Season archive spine V18"
-source_file: "18 終物語 下.epub"
-source_drive_id: "17rJGOujZJtuzqBj7AFsGorKmfhUEhvW7"
-source_sha256: "57cc8950bdd3be84d041a1d1424c52be0715193b922843c07b860557baa25343"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V18_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V18
+japanese_title: 終物語（下）
+archive_position: Final Season archive spine V18
+source_file: 18 終物語 下.epub
+source_drive_id: 17rJGOujZJtuzqBj7AFsGorKmfhUEhvW7
+source_sha256: 57cc8950bdd3be84d041a1d1424c52be0715193b922843c07b860557baa25343
 source_size_bytes: 1385838
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese transcription and represented April 1, 2014 first-print boundary; later calibre packaging is file-history metadata, not authenticated publisher electronic-edition evidence"
-principal_story_units: "第五話 まよいヘル / 第六話 ひたぎランデブー / 第七話 おうぎダーク"
-narrator: "Primarily 阿良々木暦; embedded explanatory speech from 八九寺真宵, 手折正弦, 臥煙伊豆湖, 忍野扇, 忍野メメ, and others; brief 月火-centered focalization inside おうぎダーク"
-internal_story_range: "March 13 early morning through March 15 graduation morning, with embedded four-century local shrine history and retrospective causal explanations"
-spoiler_policy: "Publication-local V18 conclusions may resolve V12-V17 open questions where V18 itself supplies evidence. V19 and later material are excluded from current-authority claims except as explicitly quarantined future test questions."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese transcription and represented April 1, 2014 first-print boundary; later calibre packaging is file-history metadata, not authenticated publisher electronic-edition evidence
+principal_story_units: 第五話 まよいヘル / 第六話 ひたぎランデブー / 第七話 おうぎダーク
+narrator: Primarily 阿良々木暦; embedded explanatory speech from 八九寺真宵, 手折正弦, 臥煙伊豆湖, 忍野扇, 忍野メメ, and others; brief 月火-centered focalization inside おうぎダーク
+internal_story_range: March 13 early morning through March 15 graduation morning, with embedded four-century local shrine history and retrospective causal explanations
+spoiler_policy: Publication-local V18 conclusions may resolve V12-V17 open questions where V18 itself supplies evidence. V19 and later material are excluded from current-authority claims except as explicitly quarantined future test questions.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 - Volume 18 Deep Reading

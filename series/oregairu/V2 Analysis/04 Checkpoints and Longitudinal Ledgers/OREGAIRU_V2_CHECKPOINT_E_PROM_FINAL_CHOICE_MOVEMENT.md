@@ -4,21 +4,21 @@ artifact_type: checkpoint
 scope: V12-V14
 generation: V2
 status: canonical
-source_boundary: "Japanese light novels Volumes 12, 13, and 14; Checkpoint D supplies the frozen incoming state; Volume 14.5 and all later/post-ending material explicitly excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novels Volumes 12, 13, and 14; Checkpoint D supplies the frozen incoming state; Volume 14.5 and all later/post-ending material explicitly excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-checkpoint_name: "Prom / Final-Choice Movement"
+created: '2026-08-15'
+checkpoint_name: Prom / Final-Choice Movement
 positive_evidence_window:
-  - V12
-  - V13
-  - V14
+- V12
+- V13
+- V14
 incoming_checkpoint: OREGAIRU_V2_CHECKPOINT_D_POST_HONMONO_RESTRUCTURING.md
 excluded_from_freeze:
-  - V14.5
-  - Shin
-  - Ketsu
+- V14.5
+- Shin
+- Ketsu
 ---
 
 # Oregairu V2 - Checkpoint E: Prom / Final-Choice Movement

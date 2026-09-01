@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Historiography, Narration, Japanese Language, Genre, and Motifs"
-subtitle: "How private lives become public legend, and how the novels resist their own heroic simplifications"
-version: "1.0"
-date: "2026-08-11"
-source_status_label: "Completed formal-language synthesis document"
+title: 銀河英雄伝説 — Historiography, Narration, Japanese Language, Genre, and Motifs
+subtitle: How private lives become public legend, and how the novels resist their own heroic simplifications
+version: '1.0'
+date: '2026-08-11'
+source_status_label: Completed formal-language synthesis document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; G01–G05 fiction; G05 interview used only as paratext"
+primary_sources: M01–M10; G01–G05 fiction; G05 interview used only as paratext
 ---
 
 # 銀河英雄伝説

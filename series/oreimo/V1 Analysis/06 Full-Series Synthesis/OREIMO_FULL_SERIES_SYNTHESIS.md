@@ -1,16 +1,16 @@
 ---
-series: "OREIMO"
-artifact_type: "full_series_synthesis"
-scope: "V01-V12"
-generation: "V1"
-status: "canonical"
-source_boundary: "Oreimo Japanese light novels Volumes 1-12"
-supersedes: null
-superseded_by: null
+series: OREIMO
+artifact_type: full_series_synthesis
+scope: V01-V12
+generation: V1
+status: canonical
+source_boundary: Oreimo Japanese light novels Volumes 1-12
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Oreimo Deep Dive - Full Transcript.md"
+source_transcript: Manga and anime discussions - Oreimo Deep Dive - Full Transcript.md
 source_turn: 34
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 # *Oreimo*: Full-Series Literary Synthesis and Analysis

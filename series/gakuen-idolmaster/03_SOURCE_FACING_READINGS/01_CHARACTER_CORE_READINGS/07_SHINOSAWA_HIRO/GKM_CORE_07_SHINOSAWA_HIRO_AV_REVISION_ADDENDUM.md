@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: claim_revision_ledger
 scope: CHARACTER_SHINOSAWA_HIRO_PHASE3_AV_REVISION_ADDENDUM
-character: "Shinosawa Hiro / 篠澤広"
+character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: "GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md and its 33-source AV boundary, routed back to GKM_CORE_07_SHINOSAWA_HIRO.md"
-supersedes: null
-superseded_by: null
+source_boundary: GKM_HIRO_COMPLETE_AUDIOVISUAL_BASELINE.md and its 33-source AV boundary, routed back to GKM_CORE_07_SHINOSAWA_HIRO.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Shinosawa Hiro Phase-3 AV Revision Addendum"
-parent_authority: "GKM_CORE_07_SHINOSAWA_HIRO.md"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Shinosawa Hiro Phase-3 AV Revision Addendum
+parent_authority: GKM_CORE_07_SHINOSAWA_HIRO.md
 ---
 
 # GKM CORE 07 — SHINOSAWA HIRO AV REVISION ADDENDUM

@@ -4,21 +4,21 @@ artifact_type: specialist_synthesis
 scope: BALTIMORE_10316_JP_VOICE_PERFORMANCE
 generation: V1
 status: canonical
-source_boundary: "JP client AZL 9.3.386 / CV 1243; 100/100 mapped Baltimore JP spoken-text WAV utterances; one separately classified non-text review WAV excluded from mapped-dialogue analysis; 100/100 fetched derivative SHA-256 values verified against canonical WAV manifest"
+source_boundary: JP client AZL 9.3.386 / CV 1243; 100/100 mapped Baltimore JP spoken-text WAV utterances; one separately classified non-text review WAV excluded from mapped-dialogue analysis; 100/100 fetched derivative SHA-256 values verified against canonical WAV manifest
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
-source_build_id: "AZL-2026-08-22-4cca5c24-cc8e9fdf"
+method_version: 1.0.0
+source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
 performed_locale: JP
-asset_downloader_version: "4.7.1"
-vgmstream_version: "r2083"
-audio_client_version: "AZL 9.3.386 / CV 1243"
-performed_voice_scope: "quantitative acoustic realization, timing, projection, context-conditioned state transitions, and simulation constraints"
-direct_perceptual_listening_status: "not directly auditioned in this analysis environment; waveform-derived quantitative analysis complete"
+asset_downloader_version: 4.7.1
+vgmstream_version: r2083
+audio_client_version: AZL 9.3.386 / CV 1243
+performed_voice_scope: quantitative acoustic realization, timing, projection, context-conditioned state transitions, and simulation constraints
+direct_perceptual_listening_status: not directly auditioned in this analysis environment; waveform-derived quantitative analysis complete
 ear_dependent_timbre_status: open
 identity_quarantine: retained
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

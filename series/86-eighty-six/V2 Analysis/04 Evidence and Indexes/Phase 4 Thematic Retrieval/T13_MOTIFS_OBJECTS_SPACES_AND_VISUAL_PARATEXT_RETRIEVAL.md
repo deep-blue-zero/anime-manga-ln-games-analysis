@@ -1,33 +1,33 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "phase4_thematic_retrieval_dossier"
-retrieval_id: "T13"
-title: "Motifs, Objects, Spaces, and Visual Paratext"
-scope: "V01-V14+ALTER1"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: phase4_thematic_retrieval_dossier
+retrieval_id: T13
+title: Motifs, Objects, Spaces, and Visual Paratext
+scope: V01-V14+ALTER1
 phase: 4
-generation: "V2"
-method_version: "V2"
-status: "canonical"
-retrieval_status: "CANONICAL_RETRIEVAL_DOSSIER"
-date: "2026-08-15"
-source_boundary: "Locked original-Japanese Volumes 1-14; Alter.1 only through audited story-level chronology; Alter.2 excluded from mainline evidence"
-supersedes: null
-superseded_by: null
+generation: V2
+method_version: V2
+status: canonical
+retrieval_status: CANONICAL_RETRIEVAL_DOSSIER
+date: '2026-08-15'
+source_boundary: Locked original-Japanese Volumes 1-14; Alter.1 only through audited story-level chronology; Alter.2 excluded from mainline evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-mainline_boundary: "Volumes 1-14"
-supplemental_boundary: "Alter.1 included only through audited story-level chronology"
-excluded_from_mainline_evidence: "Alter.2 counterfactual/AU corpus"
+mainline_boundary: Volumes 1-14
+supplemental_boundary: Alter.1 included only through audited story-level chronology
+excluded_from_mainline_evidence: Alter.2 counterfactual/AU corpus
 primary_source_paragraphs_scanned: 48723
 raw_lexical_family_hits: 7391
 unique_matching_primary_source_paragraphs: 6053
 referenced_visual_assets_inventoried: 227
 retained_context_reread_items: 300
-governing_method: "86_FULL_SERIES_ANALYTICAL_METHOD_V2.md"
-governing_architecture: "86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md"
-checkpoint_input: "86_V01_V14_CUMULATIVE_CHECKPOINT_SYNTHESIS.md"
-primary_longitudinal_ledger: "L10_MOTIF_OBJECT_AND_SYMBOL_LEDGER.md"
-authority_note: "motif/object/space/visual retrieval substrate for Phase 5/6; not yet a specialist synthesis"
+governing_method: 86_FULL_SERIES_ANALYTICAL_METHOD_V2.md
+governing_architecture: 86_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
+checkpoint_input: 86_V01_V14_CUMULATIVE_CHECKPOINT_SYNTHESIS.md
+primary_longitudinal_ledger: L10_MOTIF_OBJECT_AND_SYMBOL_LEDGER.md
+authority_note: motif/object/space/visual retrieval substrate for Phase 5/6; not yet a specialist synthesis
 ---
 
 # T13 - Motifs, Objects, Spaces, and Visual Paratext Retrieval

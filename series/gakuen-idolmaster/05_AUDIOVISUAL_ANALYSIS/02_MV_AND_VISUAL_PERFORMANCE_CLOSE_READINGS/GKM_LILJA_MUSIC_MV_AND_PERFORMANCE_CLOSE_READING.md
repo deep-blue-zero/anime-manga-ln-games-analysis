@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_KATSURAGI_LILJA_MUSIC_MV_AND_VISUAL_PERFORMANCE
-character: "Katsuragi Lilja / 葛城リーリヤ"
+character: Katsuragi Lilja / 葛城リーリヤ
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Seven complete song communications, eight rendered performances, three authored official MVs, and one alternate duplicate REVERSI capture retained as provenance"
-supersedes: null
-superseded_by: null
+source_boundary: Seven complete song communications, eight rendered performances, three authored official MVs, and one alternate duplicate REVERSI capture retained as provenance
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-22"
-title: "Katsuragi Lilja — Music, MV, and Visual-Performance Close Reading"
+last_updated: '2026-08-22'
+title: Katsuragi Lilja — Music, MV, and Visual-Performance Close Reading
 ---
 
 # GKM — KATSURAGI LILJA MUSIC, MV, AND VISUAL-PERFORMANCE CLOSE READING

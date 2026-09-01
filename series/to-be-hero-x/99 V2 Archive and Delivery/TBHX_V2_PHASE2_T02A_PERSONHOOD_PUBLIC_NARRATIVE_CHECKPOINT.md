@@ -4,9 +4,9 @@ artifact_type: checkpoint
 scope: E01-E24
 generation: V2
 status: canonical
-source_boundary: "Frozen Chinese-original audiovisual E01–E24 plus canonical E24 credits-coda paratext audit"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Chinese-original audiovisual E01–E24 plus canonical E24 credits-coda paratext audit
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 phase: 2
 tranche: 02A

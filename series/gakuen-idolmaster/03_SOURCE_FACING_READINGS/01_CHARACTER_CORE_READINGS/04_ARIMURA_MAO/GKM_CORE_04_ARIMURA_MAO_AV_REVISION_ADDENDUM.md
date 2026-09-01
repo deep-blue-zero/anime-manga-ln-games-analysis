@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: claim_revision_ledger
 scope: CHARACTER_04_ARIMURA_MAO_PHASE3_AV_ADDENDUM
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "Claim-transition bridge from GKM_CORE_04_ARIMURA_MAO.md to the complete 24-object Mao audiovisual baseline"
-supersedes: null
-superseded_by: null
+source_boundary: Claim-transition bridge from GKM_CORE_04_ARIMURA_MAO.md to the complete 24-object Mao audiovisual baseline
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-parent_textual_authority: "GKM_CORE_04_ARIMURA_MAO.md"
-parent_av_authority: "GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md"
+last_updated: '2026-08-17'
+parent_textual_authority: GKM_CORE_04_ARIMURA_MAO.md
+parent_av_authority: GKM_MAO_COMPLETE_AUDIOVISUAL_BASELINE.md
 ---
 
 # ARIMURA MAO — PHASE-3 AV REVISION ADDENDUM

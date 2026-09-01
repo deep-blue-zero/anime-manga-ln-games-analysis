@@ -4,7 +4,7 @@ artifact_type: synthesis_architecture
 scope: SOMA_CHARACTER_MODEL_SAMPLE
 generation: V1
 status: canonical
-source_boundary: "Japanese manga sample: V01, V03, V08, V13, V19, V25, V30, V36"
+source_boundary: 'Japanese manga sample: V01, V03, V08, V13, V19, V25, V30, V36'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

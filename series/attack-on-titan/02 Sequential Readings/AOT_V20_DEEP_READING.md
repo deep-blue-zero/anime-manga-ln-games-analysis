@@ -5,100 +5,100 @@ artifact_type: deep_reading
 scope: V20
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-23"
-source_boundary: "Japanese manga Volume 20, Chapters 79-82; spoiler boundary through Volume 20 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-23'
+source_boundary: Japanese manga Volume 20, Chapters 79-82; spoiler boundary through Volume 20 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "20"
-chapters: "79-82"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '20'
+chapters: 79-82
 chapter_titles:
-  - "第79話 完全試合"
-  - "第80話 名も無き兵士"
-  - "第81話 約束"
-  - "第82話 勇者"
+- 第79話 完全試合
+- 第80話 名も無き兵士
+- 第81話 約束
+- 第82話 勇者
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v20 (2016) (Digital SD) (KG Manga).cbz"
-source_sha256: "3d2c6b78d9a0da707385a0c05c052e433b36122bcbef13216a0cd6665239536b"
+source_file: Attack on Titan v20 (2016) (Digital SD) (KG Manga).cbz
+source_sha256: 3d2c6b78d9a0da707385a0c05c052e433b36122bcbef13216a0cd6665239536b
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 20 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 20 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_validation_register: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
-prospective_register_drive_id: "1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8"
+prospective_validation_register: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+prospective_register_drive_id: 1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8
 prospective_register_frozen_before_source_exposure: true
 major_characters:
-  - "Erwin Smith / エルヴィン・スミス"
-  - "Levi / リヴァイ"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Jean Kirstein / ジャン・キルシュタイン"
-  - "Hange Zoë / ハンジ・ゾエ"
-  - "Bertolt Hoover / ベルトルト・フーバー"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Zeke / ジーク"
+- Erwin Smith / エルヴィン・スミス
+- Levi / リヴァイ
+- Armin Arlert / アルミン・アルレルト
+- Eren Jaeger / エレン・イェーガー
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Jean Kirstein / ジャン・キルシュタイン
+- Hange Zoë / ハンジ・ゾエ
+- Bertolt Hoover / ベルトルト・フーバー
+- Reiner Braun / ライナー・ブラウン
+- Zeke / ジーク
 major_relationships:
-  - "Erwin / Levi"
-  - "Erwin / recruits / dead Survey Corps"
-  - "Armin / Eren"
-  - "Armin / Bertolt"
-  - "Mikasa / Reiner"
-  - "Jean / Armin"
-  - "Levi / Zeke"
-  - "Bertolt / 104th"
+- Erwin / Levi
+- Erwin / recruits / dead Survey Corps
+- Armin / Eren
+- Armin / Bertolt
+- Mikasa / Reiner
+- Jean / Armin
+- Levi / Zeke
+- Bertolt / 104th
 major_topics:
-  - meaning after death
-  - authored sacrifice
-  - command and consent
-  - promise and relational inheritance
-  - courage and deception
-  - finite bodies and logistical war
-  - model revision
-  - recognition without restraint
-  - technical adaptation
-  - dreams and entrusted futures
+- meaning after death
+- authored sacrifice
+- command and consent
+- promise and relational inheritance
+- courage and deception
+- finite bodies and logistical war
+- model revision
+- recognition without restraint
+- technical adaptation
+- dreams and entrusted futures
 major_visual_motifs:
-  - baseball pitching / perfect game
-  - rock shrapnel
-  - nameless cavalry charge
-  - corpse field
-  - Levi traversing Titans
-  - burned Armin
-  - hardened Titan decoy
-  - open Armored Titan mouth
-  - captured shifters
+- baseball pitching / perfect game
+- rock shrapnel
+- nameless cavalry charge
+- corpse field
+- Levi traversing Titans
+- burned Armin
+- hardened Titan decoy
+- open Armored Titan mouth
+- captured shifters
 major_lexical_targets:
-  - 完全試合
-  - 無意味
-  - 意味を与える
-  - 託す
-  - 夢
-  - 約束
-  - 誓った
-  - 勇気
-  - 海
-  - 作戦
-  - 楽にしてやる
-  - 殺った
+- 完全試合
+- 無意味
+- 意味を与える
+- 託す
+- 夢
+- 約束
+- 誓った
+- 勇気
+- 海
+- 作戦
+- 楽にしてやる
+- 殺った
 cumulative_status:
-  - strengthened
-  - revised
-  - prospectively_tested
-  - open
+- strengthened
+- revised
+- prospectively_tested
+- open
 ---
 
 # 『進撃の巨人』Volume 20 Deep Reading

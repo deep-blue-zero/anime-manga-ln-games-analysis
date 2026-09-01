@@ -1,23 +1,26 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "character_monograph"
-scope: "SUNNY PEACE / Ichinose Rei"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed synthesis/reconstruction"
+series: IDOLY_PRIDE
+artifact_type: character_monograph
+scope: SUNNY PEACE / Ichinose Rei
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md
 source_turn: 100
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed synthesis/reconstruction'
+- 'legacy supersedes: SUNNYPEACE_ICHINOSE_REI_CHARACTER_DEEP_DIVE_EARLY.md'
 ---
 
-This Rei-focused rewrite is grounded in Rei’s unit-origin story, the later Rei-specific father-conflict event, her SUNNY PEACE authorship/choreography material, the Haruko/Rei ambition event, the underground-idol performance event, and the updated SUNNY PEACE reference where Rei is framed as “disciplined grace” whose danger is over-control. origin\_sun\_002\_rei\_s\_memories IMPORTANT\_005\_\_event\_2021\_005\_s… IMPORTANT\_010\_\_event\_2022\_006\_s… CORE\_016\_\_event\_2023\_009\_st-eve… IMPORTANT\_026\_\_event\_2026\_004\_s…[
+This Rei-focused rewrite is grounded in Rei’s unit-origin story, the later Rei-specific father-conflict event, her SUNNY PEACE authorship/choreography material, the Haruko/Rei ambition event, the underground-idol performance event, and the updated SUNNY PEACE reference where Rei is framed as “disciplined grace” whose danger is over-control. origin\_sun\_002\_rei\_s\_memories IMPORTANT\_005\_\_event\_2021\_005\_s… IMPORTANT\_010\_\_event\_2022\_006\_s… CORE\_016\_\_event\_2023\_009\_st-eve… IMPORTANT\_026\_\_event\_2026\_004\_s…
 
 Rewritten SUNNY PEACE Reference
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3b4b0e-d39c-83ea-a068-10f43f5e5d7f?messageId=2785aabc-643e-4159-98c6-f32452d53742&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Ichinose Rei: Character, Voice, Visual Design, and Thematic Analysis
 

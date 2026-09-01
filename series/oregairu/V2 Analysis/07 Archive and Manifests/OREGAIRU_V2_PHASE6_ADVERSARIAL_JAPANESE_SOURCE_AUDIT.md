@@ -6,15 +6,21 @@ generation: V2
 status: canonical
 phase: 6
 canonical_name: OREGAIRU_V2_PHASE6_ADVERSARIAL_JAPANESE_SOURCE_AUDIT.md
-source_boundary: "Japanese-primary mainline Volumes 1-14 plus canonical .5 volumes and qualified Watari-authored supplementary evidence admitted by the V2 corpus map through Phase 5; Shin, Ketsu, adaptation-only evidence, and guest-author anthology fiction excluded from governing mainline claims except where explicitly classified"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-primary mainline Volumes 1-14 plus canonical .5 volumes and qualified Watari-authored supplementary evidence admitted by the V2 corpus map through Phase 5; Shin, Ketsu, adaptation-only evidence, and guest-author anthology fiction excluded from governing mainline claims except where explicitly classified
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: OREGAIRU_V2_ANALYTICAL_METHOD.md
 governing_architecture: OREGAIRU_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-input_specialists: "01-12"
-revision_states: [PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, OPEN]
-created: "2026-08-18"
+input_specialists: 01-12
+revision_states:
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+created: '2026-08-18'
 next_artifact: 13_EVIDENCE_LOCATOR_AND_FIRST_PASS_REVISION_LEDGER.md
 ---
 

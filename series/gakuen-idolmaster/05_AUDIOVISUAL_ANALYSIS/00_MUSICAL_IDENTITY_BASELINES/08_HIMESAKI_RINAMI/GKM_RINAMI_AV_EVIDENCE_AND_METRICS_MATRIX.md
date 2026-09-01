@@ -2,17 +2,19 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_HIMESAKI_RINAMI_PHASE3_AV
-character: "Himesaki Rinami / 姫崎莉波"
+character: Himesaki Rinami / 姫崎莉波
 generation: V2
 release: R2
 status: canonical
-source_boundary: "27 logical audiovisual objects plus Source Lock 1.0 textual control"
-supersedes: "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1/GKM_RINAMI_AV_EVIDENCE_AND_METRICS_MATRIX.md"
-superseded_by: null
+source_boundary: 27 logical audiovisual objects plus Source Lock 1.0 textual control
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-22"
-parent_authority: "GKM_RINAMI_COMPLETE_AUDIOVISUAL_BASELINE.md"
-title: "Himesaki Rinami AV Evidence and Metrics Matrix"
+last_updated: '2026-08-22'
+parent_authority: GKM_RINAMI_COMPLETE_AUDIOVISUAL_BASELINE.md
+title: Himesaki Rinami AV Evidence and Metrics Matrix
+legacy_supersession_notes:
+- 'legacy supersedes: GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1/GKM_RINAMI_AV_EVIDENCE_AND_METRICS_MATRIX.md'
 ---
 
 # HIMESAKI RINAMI — AV EVIDENCE AND METRICS MATRIX

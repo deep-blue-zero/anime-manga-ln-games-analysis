@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: checkpoint
 scope: CHARACTER_04_ARIMURA_MAO
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0; Mao-owned textual sources plus bounded U1 cross-track evidence; no Mao AV inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0; Mao-owned textual sources plus bounded U1 cross-track evidence; no Mao AV inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Gakuen Idolmaster / 学園アイドルマスター"
-phase: "3 — Character-Core Readings"
-created: "2026-08-15"
+project: Gakuen Idolmaster / 学園アイドルマスター
+phase: 3 — Character-Core Readings
+created: '2026-08-15'
 ---
 
 # PHASE 3 — ARIMURA MAO CORE-PASS REPORT

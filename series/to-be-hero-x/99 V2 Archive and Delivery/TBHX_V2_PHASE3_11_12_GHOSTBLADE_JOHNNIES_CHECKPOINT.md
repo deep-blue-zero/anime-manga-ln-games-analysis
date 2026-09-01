@@ -1,13 +1,13 @@
 ---
 series: TBHX
 artifact_type: checkpoint
-scope: "Phase 3 Specialists 11-12 — Ghostblade and the Johnnies"
+scope: Phase 3 Specialists 11-12 — Ghostblade and the Johnnies
 generation: V2
 phase: 3
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; Specialists 11-12 grounded primarily in E15-E20 plus E19-E20 motion evidence and stabilized Phase-2 authorities"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; Specialists 11-12 grounded primarily in E15-E20 plus E19-E20 motion evidence and stabilized Phase-2 authorities
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

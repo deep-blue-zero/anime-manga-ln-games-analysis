@@ -2,17 +2,17 @@
 series: GKM
 artifact_type: music_mv_performance_close_reading
 scope: CHARACTER_FUJITA_KOTONE_PHASE3_AV
-character: "Fujita Kotone / 藤田ことね"
+character: Fujita Kotone / 藤田ことね
 generation: V2
 status: canonical
-source_boundary: "Directly inspected Kotone official MVs, 3DMVs, full-mix sources, song commus, and reused Re;IRIS 3DMV; GO MY WAY 3DMV metadata/commu only; no Kotone Garakuta Road rendered source"
-supersedes: null
-superseded_by: null
+source_boundary: Directly inspected Kotone official MVs, 3DMVs, full-mix sources, song commus, and reused Re;IRIS 3DMV; GO MY WAY 3DMV metadata/commu only; no Kotone Garakuta Road rendered source
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 — Fujita Kotone Music, MV, and Performance Close Reading"
-version: "2.0"
-phase: "3 — Character-Core Readings / Audiovisual Baseline"
-created: "2026-08-15"
+title: Gakuen Idolmaster V2 — Fujita Kotone Music, MV, and Performance Close Reading
+version: '2.0'
+phase: 3 — Character-Core Readings / Audiovisual Baseline
+created: '2026-08-15'
 ---
 
 # FUJITA KOTONE — MUSIC, MV, AND PERFORMANCE CLOSE READING

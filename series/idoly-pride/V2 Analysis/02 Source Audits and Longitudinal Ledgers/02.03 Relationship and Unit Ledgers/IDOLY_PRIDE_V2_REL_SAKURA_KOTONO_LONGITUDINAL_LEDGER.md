@@ -3,39 +3,39 @@ series: IDOLY_PRIDE
 artifact_type: relationship_longitudinal_ledger
 artifact_role: LEDGER
 scope: REL_SAKURA_KOTONO
-relationship: "Kawasaki Sakura / Nagase Kotono"
+relationship: Kawasaki Sakura / Nagase Kotono
 relationship_codes:
-  - skr
-  - ktn
+- skr
+- ktn
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-C-SAKURA-KOTONO"
+phase: '2'
+tranche: P2-C-SAKURA-KOTONO
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 relationship reconstruction of Kawasaki Sakura / Nagase Kotono across the frozen 2026-08-13 analytical snapshot. Mechanical deduplicated intersection of the frozen Sakura and Kotono occurrence indexes yields 68 pair-bearing routed bundles: 47 main-story, 4 unit-origin, 7 event, 3 card, 2 message, and 5 specials/misc bundles. This is a breadth/contradiction frontier, not a claim that all co-bearing bundles contain load-bearing relationship-state evidence. Governing reconstruction reopens the prospective anime successor-pressure state; Hoshimi successor/proxy and anti-replacement sequence; Kotono retrospective origin; the 2023 comparative-distance/repair event; the 2024 trust, support, sun/moon differentiation event; and the 2026 plural Mana-testimony event. Lower-tier cards/messages/specials remain at frozen routing unless promoted for a claim-specific reason."
+source_boundary: 'Phase-2 relationship reconstruction of Kawasaki Sakura / Nagase Kotono across the frozen 2026-08-13 analytical snapshot. Mechanical deduplicated intersection of the frozen Sakura and Kotono occurrence indexes yields 68 pair-bearing routed bundles: 47 main-story, 4 unit-origin, 7 event, 3 card, 2 message, and 5 specials/misc bundles. This is a breadth/contradiction frontier, not a claim that all co-bearing bundles contain load-bearing relationship-state evidence. Governing reconstruction reopens the prospective anime successor-pressure state; Hoshimi successor/proxy and anti-replacement sequence; Kotono retrospective origin; the 2023 comparative-distance/repair event; the 2024 trust, support, sun/moon differentiation event; and the 2026 plural Mana-testimony event. Lower-tier cards/messages/specials remain at frozen routing unless promoted for a claim-specific reason.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_KOTONO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_REL_MANA_KOTONO_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_KOTONO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_REL_MANA_KOTONO_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_C_SAKURA_KOTONO_PASS
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-C — Shiraishi-family / sibling relation warrant adjudication (Saki / Chisa)"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-C — Shiraishi-family / sibling relation warrant adjudication (Saki / Chisa)
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — SAKURA / KOTONO RELATIONSHIP LONGITUDINAL LEDGER

@@ -4,7 +4,7 @@ artifact_type: checkpoint
 scope: MAIN_V000_C001
 generation: V1
 status: canonical
-source_boundary: "Canonical Japanese main-story units BA:main:000:001:001-002 (プロローグ), electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86"
+source_boundary: Canonical Japanese main-story units BA:main:000:001:001-002 (プロローグ), electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

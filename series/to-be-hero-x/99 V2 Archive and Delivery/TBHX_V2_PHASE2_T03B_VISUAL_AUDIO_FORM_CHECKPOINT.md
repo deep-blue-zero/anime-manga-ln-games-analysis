@@ -7,9 +7,9 @@ generation: V2
 phase: 2
 tranche: 03B
 status: canonical
-source_boundary: "Frozen Mandarin-primary E01-E24 audiovisual corpus; episode frame/contact-sheet evidence; completed motion/video audits; E24 future-facing credits-coda paratext"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary E01-E24 audiovisual corpus; episode frame/contact-sheet evidence; completed motion/video audits; E24 future-facing credits-coda paratext
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 completed: 2026-08-16
 ---

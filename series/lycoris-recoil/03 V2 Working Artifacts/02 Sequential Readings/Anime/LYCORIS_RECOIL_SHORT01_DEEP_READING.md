@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: SHORT01
 generation: V2
 status: canonical
-source_boundary: "TV E01-E13 admitted only as frozen CP4_POST_E13 baseline; Friends Short 01 supplies all new evidence; no Short 02-06 or supplementary narrative evidence admitted"
+source_boundary: TV E01-E13 admitted only as frozen CP4_POST_E13 baseline; Friends Short 01 supplies all new evidence; no Short 02-06 or supplementary narrative evidence admitted
 source_class: A1_ORIGINATING_AUDIOVISUAL
 incoming_checkpoint: CP4_POST_E13
 prospective_truth_horizon: SHORT01
 outgoing_boundary: SHORT01_OUTBOUND_FREEZE
-short_title: "Take it easy"
+short_title: Take it easy
 bundle_name: LR_s00e01_screenshots.zip
 bundle_drive_id: 14IJCh1X_CNu14g2UsiOwRKFclUadU5uq
 lossless_analysis_audio_name: s00e01.complete-audio.flac
@@ -24,8 +24,8 @@ source_native_predictions_frozen_before_v1_comparison: true
 v1_comparison_state: complete_after_source_native_freeze
 v1_revision_records_added: 6
 sequential_closeout: closed
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

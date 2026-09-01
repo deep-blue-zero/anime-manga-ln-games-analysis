@@ -2,54 +2,54 @@
 series: AOT
 artifact_type: specialist_synthesis
 artifact_role: LEVI_ERWIN_HANGE_COMMAND_SACRIFICE_AND_SUCCESSION
-specialist_id: "08"
+specialist_id: 08
 scope: V01-V34
 generation: V2
 status: canonical
-version: "1.0"
-publication_state: "canonical; Drive-published and final byte-for-byte verified"
-date: "2026-08-28"
-source_boundary: "Complete Japanese manga tankobon Volumes 1-34; canonical V2 sequential readings complete; load-bearing V20-V21 Erwin/Levi, V28 Levi, and V33-V34 Hange/Levi command evidence re-inspected against original Japanese tankobon pages before publication"
-governing_method: "AOT_ANALYTICAL_METHOD_V2.md v2.1"
-governing_architecture: "AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2"
-claim_authority: "AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md v1.0"
-evidence_matrix: "AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md v1.0"
-locator_index: "AOT_PRIMARY_SOURCE_LOCATOR_INDEX_V01-V34.tsv"
-japanese_index: "AOT_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md v1.0"
-parent_synthesis: "AOT_01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md v1.0"
+version: '1.0'
+publication_state: canonical; Drive-published and final byte-for-byte verified
+date: '2026-08-28'
+source_boundary: Complete Japanese manga tankobon Volumes 1-34; canonical V2 sequential readings complete; load-bearing V20-V21 Erwin/Levi, V28 Levi, and V33-V34 Hange/Levi command evidence re-inspected against original Japanese tankobon pages before publication
+governing_method: AOT_ANALYTICAL_METHOD_V2.md v2.1
+governing_architecture: AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2
+claim_authority: AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md v1.0
+evidence_matrix: AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md v1.0
+locator_index: AOT_PRIMARY_SOURCE_LOCATOR_INDEX_V01-V34.tsv
+japanese_index: AOT_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md v1.0
+parent_synthesis: AOT_01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md v1.0
 previous_specialists:
-  - "AOT_02_EREN_JAEGER_FREEDOM_DESIRE_CAUSALITY_AND_RESPONSIBILITY.md v1.0"
-  - "AOT_03_MIKASA_ACKERMAN_LOVE_AGENCY_HOME_AND_MEMORY.md v1.0"
-  - "AOT_04_ARMIN_ARLERT_KNOWLEDGE_IMAGINATION_DIALOGUE_AND_RESPONSIBILITY.md v1.0"
-  - "AOT_05_REINER_BRAUN_ROLE_IDENTITY_GUILT_RECOGNITION_AND_SURVIVAL.md v1.0"
-  - "AOT_06_ZEKE_JAEGER_FAMILY_SALVATION_ANTINATALISM_AND_INSTRUMENTAL_REASON.md v1.0"
-  - "AOT_07_HISTORIA_YMIR_IDENTITY_SOVEREIGNTY_AND_CHOSEN_OBLIGATION.md v1.0"
+- AOT_02_EREN_JAEGER_FREEDOM_DESIRE_CAUSALITY_AND_RESPONSIBILITY.md v1.0
+- AOT_03_MIKASA_ACKERMAN_LOVE_AGENCY_HOME_AND_MEMORY.md v1.0
+- AOT_04_ARMIN_ARLERT_KNOWLEDGE_IMAGINATION_DIALOGUE_AND_RESPONSIBILITY.md v1.0
+- AOT_05_REINER_BRAUN_ROLE_IDENTITY_GUILT_RECOGNITION_AND_SURVIVAL.md v1.0
+- AOT_06_ZEKE_JAEGER_FAMILY_SALVATION_ANTINATALISM_AND_INSTRUMENTAL_REASON.md v1.0
+- AOT_07_HISTORIA_YMIR_IDENTITY_SOVEREIGNTY_AND_CHOSEN_OBLIGATION.md v1.0
 historical_boundaries:
-  - "AOT_CHECKPOINT_50P_V01-V19_SYNTHESIS.md"
-  - "AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md"
+- AOT_CHECKPOINT_50P_V01-V19_SYNTHESIS.md
+- AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
 architecture_lifecycle: STABILIZED
 reasoning_class: DEEP_SYNTHESIS
-current_provider_mapping: "5.6 Sol Extra High"
-canonical_home: "04 Specialist Synthesis/AOT_08_LEVI_ERWIN_HANGE_COMMAND_SACRIFICE_AND_SUCCESSION.md"
-canonical_drive_id: "144uFz47CMGeAre8Sfd37oZugVVy55Im5"
-primary_specialist_code: "08 CMD"
+current_provider_mapping: 5.6 Sol Extra High
+canonical_home: 04 Specialist Synthesis/AOT_08_LEVI_ERWIN_HANGE_COMMAND_SACRIFICE_AND_SUCCESSION.md
+canonical_drive_id: 144uFz47CMGeAre8Sfd37oZugVVy55Im5
+primary_specialist_code: 08 CMD
 associated_fs_claims:
-  - AOT-FSCR-C010
-  - AOT-FSCR-C021
-  - AOT-FSCR-M005
-  - AOT-FSCR-M006
+- AOT-FSCR-C010
+- AOT-FSCR-C021
+- AOT-FSCR-M005
+- AOT-FSCR-M006
 related_claim_routes:
-  - AOT-FSCR-C011
-  - AOT-FSCR-C012
-  - AOT-FSCR-H010
+- AOT-FSCR-C011
+- AOT-FSCR-C012
+- AOT-FSCR-H010
 related_open_question_routes:
-  - O19-16
-  - O19-17
-  - O27-29
-supersedes: null
-superseded_by: null
+- O19-16
+- O19-17
+- O27-29
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-next_operation: "AOT_09_104TH_WARRIORS_AND_GENERATIONAL_ENSEMBLE_BELONGING_BETRAYAL_AND_REPAIR.md"
+next_operation: AOT_09_104TH_WARRIORS_AND_GENERATIONAL_ENSEMBLE_BELONGING_BETRAYAL_AND_REPAIR.md
 ---
 
 # 『進撃の巨人』 / *Attack on Titan*

@@ -3,42 +3,42 @@ series: IDOLY_PRIDE
 artifact_type: relationship_longitudinal_ledger
 artifact_role: LEDGER
 scope: REL_MIHO_YO
-relationship: "miho / Fujishiro Yō (藤代葉)"
+relationship: miho / Fujishiro Yō (藤代葉)
 relationship_codes:
-  - mhk
+- mhk
 counterparty_ingestion_code: null
 do_not_use_ingestion_code_yo: true
-ingestion_code_collision_note: "The frozen `yo` occurrence index resolves to Watanabe Yō / 渡辺曜 from the Love Live! Sunshine!! crossover, not Fujishiro Yō / 藤代葉. The generated `miho_yo.md` relationship index is therefore a false-negative routing artifact and is not used as a pair-bearing authority."
+ingestion_code_collision_note: The frozen `yo` occurrence index resolves to Watanabe Yō / 渡辺曜 from the Love Live! Sunshine!! crossover, not Fujishiro Yō / 藤代葉. The generated `miho_yo.md` relationship index is therefore a false-negative routing artifact and is not used as a pair-bearing authority.
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-C-MIHO-YO"
+phase: '2'
+tranche: P2-C-MIHO-YO
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 relationship reconstruction of miho / Takeda Miho and Fujishiro Yō (藤代葉) across the frozen 2026-08-13 analytical snapshot. Because Yō has no reliable dedicated ingestion speaker code and `yo` belongs to the unrelated crossover character Watanabe Yō, no mechanical two-code pair intersection is asserted. The contradiction frontier is miho's complete 64-bundle routed occurrence set, while the relationship is validated by claim-locator reconstruction. Nine primary bundles are directly reopened as the load-bearing spine: all four IIIX origins; 2025 U.S. events `event_2025_005_st-eve-2507-free` and `event_2025_007_st-eve-2508-free`; C1-A `Friend Glass` and hair/self-valuing cards; and B2-B `bond_mhk_001_mhk`. Frozen Phase-1 IIIX/event/card findings and the canonical miho character ledger are inherited for contradiction and chronology control. No post-snapshot material is admitted."
+source_boundary: 'Phase-2 relationship reconstruction of miho / Takeda Miho and Fujishiro Yō (藤代葉) across the frozen 2026-08-13 analytical snapshot. Because Yō has no reliable dedicated ingestion speaker code and `yo` belongs to the unrelated crossover character Watanabe Yō, no mechanical two-code pair intersection is asserted. The contradiction frontier is miho''s complete 64-bundle routed occurrence set, while the relationship is validated by claim-locator reconstruction. Nine primary bundles are directly reopened as the load-bearing spine: all four IIIX origins; 2025 U.S. events `event_2025_005_st-eve-2507-free` and `event_2025_007_st-eve-2508-free`; C1-A `Friend Glass` and hair/self-valuing cards; and B2-B `bond_mhk_001_mhk`. Frozen Phase-1 IIIX/event/card findings and the canonical miho character ledger are inherited for contradiction and chronology control. No post-snapshot material is admitted.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_MIHO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_PHASE1B_IIIX_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
-  - IDOLY_PRIDE_V2_PHASE1B_EVENT_E1D_PRIMARY_FINDINGS_FREEZE.md
-  - IDOLY_PRIDE_V2_PHASE1_CARD_C1A_PRIMARY_FINDINGS_FREEZE.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_MIHO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_PHASE1B_IIIX_ORIGIN_PRIMARY_FINDINGS_FREEZE.md
+- IDOLY_PRIDE_V2_PHASE1B_EVENT_E1D_PRIMARY_FINDINGS_FREEZE.md
+- IDOLY_PRIDE_V2_PHASE1_CARD_C1A_PRIMARY_FINDINGS_FREEZE.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_C_MIHO_YO_PASS
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-C — IDOLY_PRIDE_V2_REL_KANA_KOKORO_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-C — IDOLY_PRIDE_V2_REL_KANA_KOKORO_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — MIHO / YŌ RELATIONSHIP LONGITUDINAL LEDGER

@@ -5,16 +5,16 @@ scope: V04-V06
 generation: V1
 status: canonical
 checkpoint_state: frozen
-source_boundary: "Japanese numbered light novels V04-V06, interpreted against frozen IMOSAE_V01-V03_CHECKPOINT.md; canonical normalized source IMOSAE-JP-LN-NORM-1.0; canonical visual index IMOSAE-VISUAL-INDEX-1.0; no V07-V14 semantic evidence"
-prospective_boundary: "V01-V06 only; new evidence in this checkpoint is V04-V06"
-claim_boundary: "IM-C001-IM-C028"
-evidence_boundary: "IM-V04-E001-E187; IM-V05-E001-E214; IM-V06-E001-E125"
+source_boundary: Japanese numbered light novels V04-V06, interpreted against frozen IMOSAE_V01-V03_CHECKPOINT.md; canonical normalized source IMOSAE-JP-LN-NORM-1.0; canonical visual index IMOSAE-VISUAL-INDEX-1.0; no V07-V14 semantic evidence
+prospective_boundary: V01-V06 only; new evidence in this checkpoint is V04-V06
+claim_boundary: IM-C001-IM-C028
+evidence_boundary: IM-V04-E001-E187; IM-V05-E001-E214; IM-V06-E001-E125
 previous_checkpoint: IMOSAE_V01-V03_CHECKPOINT.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-19"
+version: '1.0'
+date: '2026-08-19'
 ---
 
 # 『妹さえいればいい。』 V04–V06 Checkpoint

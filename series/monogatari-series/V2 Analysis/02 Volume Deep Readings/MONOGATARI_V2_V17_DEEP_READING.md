@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V17 Deep Reading - 終物語（中）"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V17"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『終物語（中）』, supplied archive item 17 終物語 中.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V17 Deep Reading - 終物語（中）
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V17
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『終物語（中）』, supplied archive item 17 終物語 中.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V17_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V17"
-japanese_title: "終物語（中）"
-archive_position: "Final Season archive spine V17"
-source_file: "17 終物語 中.epub"
-source_drive_id: "1Jt0TmCLDbMR1d3-kh6hGQ9UwdxheC790"
-source_sha256: "e093e954210483df99946ed4a000ecc2a6094a365926a3c2968108c1edd291e2"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V17_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V17
+japanese_title: 終物語（中）
+archive_position: Final Season archive spine V17
+source_file: 17 終物語 中.epub
+source_drive_id: 1Jt0TmCLDbMR1d3-kh6hGQ9UwdxheC790
+source_sha256: e093e954210483df99946ed4a000ecc2a6094a365926a3c2968108c1edd291e2
 source_size_bytes: 672795
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese transcription and represented January 29, 2014 first-print boundary; later calibre packaging and null/default OPF date are file-history metadata, not authenticated publisher electronic-edition evidence"
-principal_story_unit: "第四話 しのぶメイル"
-narrator: "阿良々木暦, retrospectively recounting August 23-24 under March 13 interrogative pressure from 忍野扇; major embedded explanations from 臥煙伊豆湖, 忍野忍, 初代怪異殺し/死屍累生死郎, エピソード, 神原駿河, 戦場ヶ原ひたぎ, and 斧乃木余接"
-internal_story_range: "Main event cluster August 23 night-August 24 night, with a four-hundred-year first-thrall history, an approximately fifteen-year local shrine history, Route X counterfactual cross-reference, and a March 13 narrator frame immediately before Araragi's entrance examination"
-spoiler_policy: "Publication-local V17 claims are kept separate from V18 and later resolutions. Ougi's ontology, the exact status of Gaen's long-range planning, the fate/use of the discarded armor, the full significance of 夢渡, and the consequences of Ougi's '計画違い' remark remain unresolved unless V17 itself establishes them."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese transcription and represented January 29, 2014 first-print boundary; later calibre packaging and null/default OPF date are file-history metadata, not authenticated publisher electronic-edition evidence
+principal_story_unit: 第四話 しのぶメイル
+narrator: 阿良々木暦, retrospectively recounting August 23-24 under March 13 interrogative pressure from 忍野扇; major embedded explanations from 臥煙伊豆湖, 忍野忍, 初代怪異殺し/死屍累生死郎, エピソード, 神原駿河, 戦場ヶ原ひたぎ, and 斧乃木余接
+internal_story_range: Main event cluster August 23 night-August 24 night, with a four-hundred-year first-thrall history, an approximately fifteen-year local shrine history, Route X counterfactual cross-reference, and a March 13 narrator frame immediately before Araragi's entrance examination
+spoiler_policy: Publication-local V17 claims are kept separate from V18 and later resolutions. Ougi's ontology, the exact status of Gaen's long-range planning, the fate/use of the discarded armor, the full significance of 夢渡, and the consequences of Ougi's '計画違い' remark remain unresolved unless V17 itself establishes them.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 - Volume 17 Deep Reading

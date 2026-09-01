@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 — Series Architecture, Chronology, and Volume Progression"
-subtitle: "From dual-state war to post-heroic succession"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Completed first-tranche document"
+title: 銀河英雄伝説 — Series Architecture, Chronology, and Volume Progression
+subtitle: From dual-state war to post-heroic succession
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Completed first-tranche document
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_sources: "M01–M10; gaiden chronology summarized from G01–G05"
+primary_sources: M01–M10; gaiden chronology summarized from G01–G05
 ---
 
 # 銀河英雄伝説

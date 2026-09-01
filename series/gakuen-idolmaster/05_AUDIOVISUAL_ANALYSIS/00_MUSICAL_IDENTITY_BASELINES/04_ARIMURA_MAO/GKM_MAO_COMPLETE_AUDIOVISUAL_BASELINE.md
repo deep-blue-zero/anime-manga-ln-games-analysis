@@ -2,15 +2,16 @@
 series: GKM
 artifact_type: audiovisual_baseline
 scope: CHARACTER_ARIMURA_MAO_PHASE3_COMPLETE_AV
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "24 directly materialized and inspected AV objects: Dear 001-037 plus 010-01 bridge, eight complete Mao cidol communications, three authored official MVs, six rendered 3DMV/game-performance sources, and two static full-song presentations; interpreted against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_04_ARIMURA_MAO.md"
-supersedes: "GKM_MAO_AUDIOVISUAL_BASELINE_AND_REQUESTS.md"
-superseded_by: null
+source_boundary: '24 directly materialized and inspected AV objects: Dear 001-037 plus 010-01 bridge, eight complete Mao cidol communications, three authored official MVs, six rendered 3DMV/game-performance sources, and two static full-song presentations; interpreted against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_04_ARIMURA_MAO.md'
+supersedes:
+- series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/04_ARIMURA_MAO/GKM_MAO_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-title: "Gakuen Idolmaster V2 — Arimura Mao Complete Audiovisual Baseline"
+last_updated: '2026-08-17'
+title: Gakuen Idolmaster V2 — Arimura Mao Complete Audiovisual Baseline
 ---
 
 # GKM — ARIMURA MAO COMPLETE AUDIOVISUAL BASELINE

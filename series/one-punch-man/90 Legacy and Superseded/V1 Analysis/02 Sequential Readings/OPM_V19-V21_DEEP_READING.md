@@ -1,15 +1,16 @@
 ---
-series: "OPM"
-artifact_type: "deep_reading"
-scope: "V19-V21"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "One Punch Man Japanese manga V19-V21; transcript-derived V1 reading"
-supersedes: null
-superseded_by: null
+series: OPM
+artifact_type: deep_reading
+scope: V19-V21
+generation: V1
+status: historical_legacy
+source_boundary: One Punch Man Japanese manga V19-V21; transcript-derived V1 reading
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - One Punch Man Analysis - Full Transcript.md"
-source_turns: [20]
+source_transcript: Manga and anime discussions - One Punch Man Analysis - Full Transcript.md
+source_turns:
+- 20
 ---
 
 <!-- transcript_source_turn: 20 -->

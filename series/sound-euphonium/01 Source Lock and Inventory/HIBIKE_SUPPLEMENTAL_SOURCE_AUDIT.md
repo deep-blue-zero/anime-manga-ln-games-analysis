@@ -4,9 +4,9 @@ artifact_type: source_audit
 scope: SUPPLEMENTAL_PROSE_AND_PARATEXT
 generation: V2
 status: canonical
-source_boundary: "Official supplemental prose, bonus fiction, future prose, and adaptation paratext identified through 2026-08-19"
-supersedes: null
-superseded_by: null
+source_boundary: Official supplemental prose, bonus fiction, future prose, and adaptation paratext identified through 2026-08-19
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

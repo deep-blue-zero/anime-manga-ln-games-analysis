@@ -4,10 +4,10 @@ artifact_type: soma_character_reading
 scope: V13
 generation: V1
 status: canonical
-source_boundary: "Original Japanese manga Volume 13 mainline Chapters 102-109. 仲間りょう版『食戟のソーマ』 is excluded from the canonical Soma model as an alternate-author magazine-project version. 『食戟のソーマ 別腹!』 #1-#2 are supplementary low-weight comedy material only and do not establish or revise major Soma claims. Volume boundary ends with Soma arriving at SHINO'S TOKYO before the second stagiaire placement begins."
-source_file: "[附田祐斗×佐伯俊] 食戟のソーマ 第13巻.cbz"
-source_drive_id: "1-ySMkCEdGngggMxBNC09anNFBfr3bB9L"
-source_sha256: "2777489fe5c11ae6422f1db1232b97478b72b65cd0fb653bf6b43ded04cebb00"
+source_boundary: 'Original Japanese manga Volume 13 mainline Chapters 102-109. 仲間りょう版『食戟のソーマ』 is excluded from the canonical Soma model as an alternate-author magazine-project version. 『食戟のソーマ 別腹!』 #1-#2 are supplementary low-weight comedy material only and do not establish or revise major Soma claims. Volume boundary ends with Soma arriving at SHINO''S TOKYO before the second stagiaire placement begins.'
+source_file: '[附田祐斗×佐伯俊] 食戟のソーマ 第13巻.cbz'
+source_drive_id: 1-ySMkCEdGngggMxBNC09anNFBfr3bB9L
+source_sha256: 2777489fe5c11ae6422f1db1232b97478b72b65cd0fb653bf6b43ded04cebb00
 source_image_count: 197
 supersedes: []
 superseded_by: []

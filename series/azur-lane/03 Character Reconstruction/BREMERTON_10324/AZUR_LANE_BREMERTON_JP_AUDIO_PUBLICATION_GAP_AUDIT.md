@@ -5,14 +5,15 @@ generation: V1
 semantic_authority: CN
 azurlane_data_commit: 4cca5c2437007b62d30a6235fcfc0c0203231378
 story_lua_witness_commit: d93f83db24195981c5f5ca90ac5e29ce0580b12c
-source_package_generated_at: "2026-08-23T18:55:47.426186Z"
-supersedes: null
-superseded_by: AZUR_LANE_BREMERTON_JP_VOICE_PERFORMANCE_PROFILE.md
+source_package_generated_at: '2026-08-23T18:55:47.426186Z'
+supersedes: []
+superseded_by:
+- series/azur-lane/03 Character Reconstruction/BREMERTON_10324/AZUR_LANE_BREMERTON_JP_VOICE_PERFORMANCE_PROFILE.md
 do_not_use_as_current_authority: true
 artifact_type: audit
 scope: BREMERTON_10324_JP_AUDIO_PUBLICATION_GATE
 status: historical_legacy
-source_boundary: "Bremerton JP audio manifests/alignment, Primary Sources publication manifest, acquisition lock, and Drive source-bundle readback on 2026-08-23"
+source_boundary: Bremerton JP audio manifests/alignment, Primary Sources publication manifest, acquisition lock, and Drive source-bundle readback on 2026-08-23
 ---
 
 # Azur Lane — Bremerton JP Audio Publication Gap Audit

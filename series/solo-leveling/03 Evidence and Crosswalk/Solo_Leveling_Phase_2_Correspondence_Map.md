@@ -1,9 +1,9 @@
 ---
-title: "Solo Leveling — Phase 2 Correspondence Map"
-date: "2026-08-11"
-project: "Solo Leveling definitive Korean novel–English manhwa synthesis"
+title: Solo Leveling — Phase 2 Correspondence Map
+date: '2026-08-11'
+project: Solo Leveling definitive Korean novel–English manhwa synthesis
 phase: 2
-source_status_label: "principal correspondence and major adaptation-function map complete; Korean micro-locator backfill pending current-session EPUB remount"
+source_status_label: principal correspondence and major adaptation-function map complete; Korean micro-locator backfill pending current-session EPUB remount
 status: canonical
 supersedes: []
 superseded_by: []

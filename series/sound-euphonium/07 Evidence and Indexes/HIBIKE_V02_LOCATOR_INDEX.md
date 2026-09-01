@@ -4,9 +4,9 @@ artifact_type: locator_index
 scope: V02
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V02 locked Japanese EPUB"
-supersedes: null
-superseded_by: null
+source_boundary: HIBIKE-V02 locked Japanese EPUB
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

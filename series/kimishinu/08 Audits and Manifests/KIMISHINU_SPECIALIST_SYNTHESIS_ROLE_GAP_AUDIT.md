@@ -2,13 +2,13 @@
 series: KIMISHINU
 artifact_type: audit
 scope: specialist_synthesis_role_gap
-source_boundary: "Japanese manga V01-V09 + V05 special booklet + Side Stories SS01-SS06"
+source_boundary: Japanese manga V01-V09 + V05 special booklet + Side Stories SS01-SS06
 integrated_boundary: V09+SIDE_STORIES
 numbered_prospective_boundary: V09
 generation: V1
 status: canonical
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

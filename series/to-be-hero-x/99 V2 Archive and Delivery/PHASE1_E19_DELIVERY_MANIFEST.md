@@ -4,11 +4,11 @@ artifact_type: manifest
 scope: E19_checkpoint
 generation: V2
 status: canonical
-source_boundary: "E01-E19 cumulative analytical checkpoint; sponsor interstitial and E20 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: E01-E19 cumulative analytical checkpoint; sponsor interstitial and E20 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "TBHX V2 Phase 1 — E19 Delivery Manifest"
+title: TBHX V2 Phase 1 — E19 Delivery Manifest
 ---
 
 # TBHX V2 Phase 1 — E19 Delivery Manifest

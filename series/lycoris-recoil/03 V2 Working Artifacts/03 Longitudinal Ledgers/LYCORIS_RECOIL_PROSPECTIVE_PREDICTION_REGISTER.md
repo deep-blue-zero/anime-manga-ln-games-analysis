@@ -1,12 +1,12 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: ledger
-scope: "V2 prospective predictions, checkpoint freezes, and later adjudication"
+scope: V2 prospective predictions, checkpoint freezes, and later adjudication
 generation: V2
 status: canonical
-source_boundary: "TV E01-E13 + Short 01; CP4_POST_E13 adjudicated through Short 01; SHORT01_OUTBOUND_FREEZE frozen before Short 02"
-supersedes: null
-superseded_by: null
+source_boundary: TV E01-E13 + Short 01; CP4_POST_E13 adjudicated through Short 01; SHORT01_OUTBOUND_FREEZE frozen before Short 02
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
 current_checkpoint: SHORT01_OUTBOUND_FREEZE

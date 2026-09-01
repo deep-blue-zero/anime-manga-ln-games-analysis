@@ -1,12 +1,12 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: source_inventory
-scope: "V2 primary-source and analytical-derivative corpus audit"
+scope: V2 primary-source and analytical-derivative corpus audit
 generation: V2
 status: canonical
-source_boundary: "TV E01-E13; Friends Shorts 01-06; three Asaura novels; Recollect V01-V02; seven official anthology volumes; main Bizen adaptation not currently admitted"
-supersedes: null
-superseded_by: null
+source_boundary: TV E01-E13; Friends Shorts 01-06; three Asaura novels; Recollect V01-V02; seven official anthology volumes; main Bizen adaptation not currently admitted
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 audit_date: 2026-08-27
 source_root_id: 17Lq1kooYOsD2kaXSu1v9_byFjyjgDxAZ

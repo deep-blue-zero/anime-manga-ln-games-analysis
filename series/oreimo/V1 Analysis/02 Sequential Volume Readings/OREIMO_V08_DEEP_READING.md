@@ -1,16 +1,16 @@
 ---
-series: "OREIMO"
-artifact_type: "deep_reading"
-scope: "V08"
-generation: "V1"
-status: "canonical"
-source_boundary: "Oreimo Japanese light novel Volume 8"
-supersedes: null
-superseded_by: null
+series: OREIMO
+artifact_type: deep_reading
+scope: V08
+generation: V1
+status: canonical
+source_boundary: Oreimo Japanese light novel Volume 8
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Oreimo Deep Dive - Full Transcript.md"
+source_transcript: Manga and anime discussions - Oreimo Deep Dive - Full Transcript.md
 source_turn: 24
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 Volume 8 proves that the Kuroneko relationship is neither a disposable detour nor a simple sacrifice for Kirino. It is a real romance whose collapse exposes the unresolved hierarchy underneath every route.

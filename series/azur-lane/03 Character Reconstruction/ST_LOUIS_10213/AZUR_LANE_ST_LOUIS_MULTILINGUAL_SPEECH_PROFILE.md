@@ -4,12 +4,11 @@ artifact_type: specialist_synthesis
 scope: ST_LOUIS_10213_MULTILINGUAL_SPEECH
 generation: V1
 status: canonical
-series: AZUR_LANE
-source_build_id: "AZL-2026-08-22-4cca5c24-cc8e9fdf"
+source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
-source_boundary: "Pinned AzurLaneData/AzurLaneLuaScripts derived St. Louis corpus, CN narrative/dialogue/social evidence, five-locale regional witnesses, and current JP audio mapping evidence"
-supersedes: null
-superseded_by: null
+source_boundary: Pinned AzurLaneData/AzurLaneLuaScripts derived St. Louis corpus, CN narrative/dialogue/social evidence, five-locale regional witnesses, and current JP audio mapping evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -5,40 +5,40 @@ artifact_role: DEEP_READING
 scope: S2E06
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S2E06 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S2E06 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 2
 episode: 6
-episode_title_japanese: "DEKKAIDOW!"
-episode_title_english: "DEKKAIDOW!"
-episode_title_source: "ABEMA episode listing cross-check for identifying metadata only; title is not used as semantic evidence"
+episode_title_japanese: DEKKAIDOW!
+episode_title_english: DEKKAIDOW!
+episode_title_source: ABEMA episode listing cross-check for identifying metadata only; title is not used as semantic evidence
 artifact_id: LLS_S2E06_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E05 as six separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; succession, presidency, media-economy, dream/failure, relationship, voice, and character-model analysis; four model ledgers updated and verified"
+analysis_mode: sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E05 as six separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; succession, presidency, media-economy, dream/failure, relationship, voice, and character-model analysis; four model ledgers updated and verified
 source_bundle: LLS_s02e06_screenshots.zip
 source_drive_id: 1TxyQ66qYATyq16yzvbC82nPkj8W70ew5
 source_sha256: b89352612260c337375d4169f853e882de18d720795f1005e4146b690fe9d20d
 source_bytes: 207418802
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S2E06 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S2E06 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON1_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 prior_later_states:
-  - LLS_S2E01_DEEP_READING_V2.md
-  - LLS_S2E02_DEEP_READING_V2.md
-  - LLS_S2E03_DEEP_READING_V2.md
-  - LLS_S2E04_DEEP_READING_V2.md
-  - LLS_S2E05_DEEP_READING_V2.md
+- LLS_S2E01_DEEP_READING_V2.md
+- LLS_S2E02_DEEP_READING_V2.md
+- LLS_S2E03_DEEP_READING_V2.md
+- LLS_S2E04_DEEP_READING_V2.md
+- LLS_S2E05_DEEP_READING_V2.md
 prior_later_state_drive_ids:
-  - 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
-  - 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
-  - 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
-  - 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
-  - 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+- 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
+- 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
+- 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
+- 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
+- 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 1079
 retained_frames: 1007
 contact_sheets_reviewed: 54
@@ -53,7 +53,7 @@ english_spoken_derivative_events: 352
 bundled_paired_english_rows: 335
 bundled_paired_english_coverage: 0.751121
 source_video_duration_seconds: 1422.088
-audio_ffprobe_duration_seconds: 1422.120
+audio_ffprobe_duration_seconds: 1422.12
 audio_sha256: af3512c7395816cb8a3e6eef6f4489f0dde184cb683ef8c62af6ccd4020ac763
 audio_bytes: 28443233
 audio_codec: MP3
@@ -62,16 +62,16 @@ audio_channels: 2
 audio_bitrate_bps: 160004
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 1007 retained frames, 54 contact sheets, subtitle copies, visual montages, and temporary acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 1007 retained frames, 54 contact sheets, subtitle copies, visual montages, and temporary acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S2E07_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

@@ -3,30 +3,30 @@ series: HIBIKE
 artifact_type: audit
 scope: ASUKA_CHARACTER_MONOGRAPH_V0.1
 generation: V2
-version: "1.1"
+version: '1.1'
 status: canonical
 reasoning_profile: pro_adversarial_semantic_audit
-audit_target: "04 Character Modeling/HIBIKE_ASUKA_CHARACTER_MONOGRAPH.md"
-audit_target_version: "0.1"
+audit_target: 04 Character Modeling/HIBIKE_ASUKA_CHARACTER_MONOGRAPH.md
+audit_target_version: '0.1'
 audit_target_status: active_provisional
-audit_target_drive_id: "146tjbGt20wdQPa-p9XikNr_WClObPM2a"
-audit_target_sha256: "015c6aae81508d761ae9191c0fe8435b25e7459e9d689a87e8d677013c695584"
+audit_target_drive_id: 146tjbGt20wdQPa-p9XikNr_WClObPM2a
+audit_target_sha256: 015c6aae81508d761ae9191c0fe8435b25e7459e9d689a87e8d677013c695584
 audit_result: pass_with_targeted_revisions_patch_verified
 required_revision_count: 4
 patch_verification_result: pass
-patch_verified_target_version: "0.2"
+patch_verified_target_version: '0.2'
 patch_verified_target_status: audited_provisional
 patch_verified_target_simulation_readiness: audited_provisional_pass
-patch_verified_target_sha256: "094e230fba86e3f4e0b199cb86ae8c46add253f30ba5df9eef82a797c9cf98f5"
+patch_verified_target_sha256: 094e230fba86e3f4e0b199cb86ae8c46add253f30ba5df9eef82a797c9cf98f5
 patch_verified_target_size_bytes: 115719
-required_revisions: "A-01 temporal state split and V13 evidence rerouting; A-02 threat-response sequencing and reduced-defensive-load correction; A-03 family-conditioned 私 voice variant; A-04 relational-response mismatch versus perceptual-failure distinction"
-source_boundary: "Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical V2 locator indexes, sequential readings, checkpoints, longitudinal ledgers, and audited-provisional Kumiko/Reina/Shuuichi models used only for preliminary reciprocal consistency checking"
-canonical_home: "08 Audits and Manifests/HIBIKE_ASUKA_CHARACTER_MONOGRAPH_AUDIT.md"
-supersedes: null
-superseded_by: null
+required_revisions: A-01 temporal state split and V13 evidence rerouting; A-02 threat-response sequencing and reduced-defensive-load correction; A-03 family-conditioned 私 voice variant; A-04 relational-response mismatch versus perceptual-failure distinction
+source_boundary: Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical V2 locator indexes, sequential readings, checkpoints, longitudinal ledgers, and audited-provisional Kumiko/Reina/Shuuichi models used only for preliminary reciprocal consistency checking
+canonical_home: 08 Audits and Manifests/HIBIKE_ASUKA_CHARACTER_MONOGRAPH_AUDIT.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-23"
-updated: "2026-08-26"
+created: '2026-08-23'
+updated: '2026-08-26'
 ---
 
 # Sound! Euphonium V2 — Asuka Character Monograph Audit

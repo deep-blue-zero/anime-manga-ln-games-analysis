@@ -1,12 +1,12 @@
 ---
 series: OPM
 artifact_type: crosswalk
-scope: "Tankobon chapter and extra crosswalk through V26"
+scope: Tankobon chapter and extra crosswalk through V26
 generation: V2
 status: active_provisional
-source_boundary: "Japanese tankobon V01-V26 semantically locked; V27+ pending"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon V01-V26 semantically locked; V27+ pending
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-08-28

@@ -4,13 +4,13 @@ artifact_type: synthesis_architecture
 scope: V01-V14_main_series_plus_labeled_supplements
 generation: V1
 status: canonical
-source_boundary: "Complete numbered Japanese light-novel main series; supplements separately tiered"
-supersedes: null
-superseded_by: null
+source_boundary: Complete numbered Japanese light-novel main series; supplements separately tiered
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-18"
-paired_with: "IMOSAE_ANALYTICAL_METHOD_V1.md"
+version: '1.0'
+date: '2026-08-18'
+paired_with: IMOSAE_ANALYTICAL_METHOD_V1.md
 ---
 
 # 妹さえいればいい。 / A Sister's All You Need

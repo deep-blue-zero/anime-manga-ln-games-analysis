@@ -4,12 +4,12 @@ artifact_type: audit
 scope: V02
 analysis_dimension: japanese_dialogue_register
 source_language: ja
-source_scope: "Japanese tankobon Volume 2"
+source_scope: Japanese tankobon Volume 2
 generation: V2
 status: canonical
-source_boundary: "V02 only; 206-image locked CBZ"
-supersedes: null
-superseded_by: null
+source_boundary: V02 only; 206-image locked CBZ
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 ---

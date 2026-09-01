@@ -2,13 +2,13 @@
 series: TBHX
 artifact_type: checkpoint
 artifact_role: phase_closure_checkpoint
-scope: "Phase 3 — character and relationship specialist syntheses"
+scope: Phase 3 — character and relationship specialist syntheses
 generation: V2
 phase: 3
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; Phase-2 stabilized topical/claim authorities; canonical Phase-3 Specialists 06-16"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; Phase-2 stabilized topical/claim authorities; canonical Phase-3 Specialists 06-16
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 ---

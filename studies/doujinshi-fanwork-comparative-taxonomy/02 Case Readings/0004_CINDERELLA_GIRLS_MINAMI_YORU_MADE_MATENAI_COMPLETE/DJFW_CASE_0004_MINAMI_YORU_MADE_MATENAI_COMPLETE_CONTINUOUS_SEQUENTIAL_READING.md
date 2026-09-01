@@ -7,11 +7,11 @@ generation: V1
 status: canonical
 analysis_mode: continuous_sequential
 run_scope: DJFW_CASE_0002-DJFW_CASE_0010
-source_boundary: "Full 108-page CBZ sequential visual review of telomereNA/Gustav, Yoru made Matenai complete (C104 compilation, 2024), with selective OCR limited to non-graphic afterword/colophon material. Governing character comparator is the mobile-game Nitta Minami corpus; 2015 anime continuity is excluded. Explicit material is summarized only at structural level."
+source_boundary: Full 108-page CBZ sequential visual review of telomereNA/Gustav, Yoru made Matenai complete (C104 compilation, 2024), with selective OCR limited to non-graphic afterword/colophon material. Governing character comparator is the mobile-game Nitta Minami corpus; 2015 anime continuity is excluded. Explicit material is summarized only at structural level.
 source_sha256: d121340e1cae5b9eb0f02533c2e1df7b5604a1b461216b47f5da7dd9eb919ffb
 source_pages: 108
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -1,48 +1,51 @@
 ---
-title: "Yuru Camp△ Volumes 07–09 Adversarial Checkpoint"
-artifact_id: "YURUCAMP_V07-V09_CHECKPOINT"
-series: "YURUCAMP"
-series_title: "Yuru Camp△ / ゆるキャン△"
-artifact_type: "checkpoint"
-scope: "V07-V09"
-generation: "V1"
-status: "active_provisional"
-source_boundary: "Original Japanese tankōbon Volumes 7–9"
-supersedes: null
-superseded_by: null
+title: Yuru Camp△ Volumes 07–09 Adversarial Checkpoint
+artifact_id: YURUCAMP_V07-V09_CHECKPOINT
+series: YURUCAMP
+series_title: Yuru Camp△ / ゆるキャン△
+artifact_type: checkpoint
+scope: V07-V09
+generation: V1
+status: active_provisional
+source_boundary: Original Japanese tankōbon Volumes 7–9
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-analysis_type: "three-volume adversarial checkpoint"
+analysis_type: three-volume adversarial checkpoint
 phase: 2
-volumes: [7, 8, 9]
-spoiler_boundary: "End of Japanese tankōbon Volume 9 only"
+volumes:
+- 7
+- 8
+- 9
+spoiler_boundary: End of Japanese tankōbon Volume 9 only
 prospective_only: true
-analysis_status: "complete"
-governing_method: "YURUCAMP_ANALYTICAL_METHOD_V1.md"
-governing_architecture: "YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md"
-prior_checkpoint: "YURUCAMP_V04-V06_CHECKPOINT.md"
+analysis_status: complete
+governing_method: YURUCAMP_ANALYTICAL_METHOD_V1.md
+governing_architecture: YURUCAMP_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md
+prior_checkpoint: YURUCAMP_V04-V06_CHECKPOINT.md
 input_artifacts:
-  - file: "YURUCAMP_V07_DEEP_READING.md"
-    sha256: "44c3d0c83276dc98d3acd9d853fa420452692b17650caf92dfd9109f1dc5cb0c"
-  - file: "YURUCAMP_V08_DEEP_READING.md"
-    sha256: "e72a7077ef7b7d7fe19fad0b5685a78caa981871cba7a15df10b9444eabc9943"
-  - file: "YURUCAMP_V09_DEEP_READING.md"
-    sha256: "e71875746ba31872a9aaca1ed960dd83980da6d2d617e7b87be850d444d45070"
-  - file: "YURUCAMP_V04-V06_CHECKPOINT.md"
-    sha256: "6914948de292105c891971282b4c1696d8228da2be03a99d354098e361684f57"
+- file: YURUCAMP_V07_DEEP_READING.md
+  sha256: 44c3d0c83276dc98d3acd9d853fa420452692b17650caf92dfd9109f1dc5cb0c
+- file: YURUCAMP_V08_DEEP_READING.md
+  sha256: e72a7077ef7b7d7fe19fad0b5685a78caa981871cba7a15df10b9444eabc9943
+- file: YURUCAMP_V09_DEEP_READING.md
+  sha256: e71875746ba31872a9aaca1ed960dd83980da6d2d617e7b87be850d444d45070
+- file: YURUCAMP_V04-V06_CHECKPOINT.md
+  sha256: 6914948de292105c891971282b4c1696d8228da2be03a99d354098e361684f57
 evidence_categories:
-  DE: "direct evidence"
-  RP: "recurrent pattern"
-  IN: "interpretive inference"
-  TH: "thematic hypothesis"
-  CA: "counterevidence or ambiguity"
+  DE: direct evidence
+  RP: recurrent pattern
+  IN: interpretive inference
+  TH: thematic hypothesis
+  CA: counterevidence or ambiguity
 claim_transition_vocabulary:
-  - PRESERVE
-  - STRENGTHEN
-  - REVISE
-  - DOWNGRADE
-  - REJECT
-  - OPEN
-created: "2026-08-15"
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
+created: '2026-08-15'
 ---
 
 # Yuru Camp△ Volumes 07–09 Adversarial Checkpoint

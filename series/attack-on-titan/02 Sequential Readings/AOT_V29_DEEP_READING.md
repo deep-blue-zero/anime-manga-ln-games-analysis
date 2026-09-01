@@ -5,113 +5,113 @@ artifact_type: deep_reading
 scope: V29
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-24"
-source_boundary: "Japanese manga Volume 29, Chapters 115-118; spoiler boundary through Volume 29 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-24'
+source_boundary: Japanese manga Volume 29, Chapters 115-118; spoiler boundary through Volume 29 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "29"
-chapters: "115-118"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '29'
+chapters: 115-118
 chapter_titles:
-  - "第115話 支え"
-  - "第116話 天地"
-  - "第117話 断罪"
-  - "第118話 騙し討ち"
+- 第115話 支え
+- 第116話 天地
+- 第117話 断罪
+- 第118話 騙し討ち
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v29 (2019) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1U6TfVV2JsGP92J_6SyBopCIe8ksHfS5h"
-source_sha256: "3adecd1b7fee5c942437468a06ef55b984e3a64d24be7b132546df18d3f33a13"
+source_file: Attack on Titan v29 (2019) (Digital SD) (KG Manga).cbz
+source_drive_id: 1U6TfVV2JsGP92J_6SyBopCIe8ksHfS5h
+source_sha256: 3adecd1b7fee5c942437468a06ef55b984e3a64d24be7b132546df18d3f33a13
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 29 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 29 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_material_source: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
+prospective_material_source: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
 prospective_register_frozen_before_source_exposure: true
-previous_checkpoint: "AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md"
-previous_sequential_authority: "AOT_V28_DEEP_READING.md"
-next_volume_boundary: "Volume 30 remains analytically locked until V29 integration is complete"
+previous_checkpoint: AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
+previous_sequential_authority: AOT_V28_DEEP_READING.md
+next_volume_boundary: Volume 30 remains analytically locked until V29 integration is complete
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Zeke Jaeger / ジーク・イェーガー"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Jean Kirstein / ジャン・キルシュタイン"
-  - "Connie Springer / コニー・スプリンガー"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Pieck Finger / ピーク・フィンガー"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Falco Grice / ファルコ・グライス"
-  - "Yelena / イェレナ"
-  - "Onyankopon / オニャンコポン"
-  - "Dot Pixis / ドット・ピクシス"
-  - "Nile Dok / ナイル・ドーク"
-  - "Hange Zoe / ハンジ・ゾエ"
-  - "Levi Ackerman / リヴァイ・アッカーマン"
-  - "Theo Magath / テオ・マガト"
-  - "Porco Galliard / ポルコ・ガリアード"
-  - "Tom Ksaver / トム・クサヴァー"
+- Eren Jaeger / エレン・イェーガー
+- Zeke Jaeger / ジーク・イェーガー
+- Armin Arlert / アルミン・アルレルト
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Jean Kirstein / ジャン・キルシュタイン
+- Connie Springer / コニー・スプリンガー
+- Reiner Braun / ライナー・ブラウン
+- Pieck Finger / ピーク・フィンガー
+- Gabi Braun / ガビ・ブラウン
+- Falco Grice / ファルコ・グライス
+- Yelena / イェレナ
+- Onyankopon / オニャンコポン
+- Dot Pixis / ドット・ピクシス
+- Nile Dok / ナイル・ドーク
+- Hange Zoe / ハンジ・ゾエ
+- Levi Ackerman / リヴァイ・アッカーマン
+- Theo Magath / テオ・マガト
+- Porco Galliard / ポルコ・ガリアード
+- Tom Ksaver / トム・クサヴァー
 major_relationships:
-  - "Zeke / Ksaver"
-  - "Zeke / Eren"
-  - "Eren / Armin / Mikasa"
-  - "Pieck / Gabi / Marley comrades"
-  - "Reiner / Eren"
-  - "Armin / Yelena"
-  - "Armin / Onyankopon"
-  - "Gabi / Falco"
-  - "Gabi / Kaya / Blouse family"
-  - "Nile / Falco"
+- Zeke / Ksaver
+- Zeke / Eren
+- Eren / Armin / Mikasa
+- Pieck / Gabi / Marley comrades
+- Reiner / Eren
+- Armin / Yelena
+- Armin / Onyankopon
+- Gabi / Falco
+- Gabi / Kaya / Blouse family
+- Nile / Falco
 major_topics:
-  - trust as operational infrastructure
-  - strategic deception and interested testimony
-  - salvation narratives and savior manufacture
-  - future generations and reproductive sovereignty
-  - recognition as epistemic correction
-  - relationship-conditioned belief revision
-  - partial Rumbling deterrence
-  - Founder decision authority and royal-blood access
-  - Paths-like reconstruction and temporal uncertainty
-  - military invasion and institutional collapse
-  - child protection versus inherited war
-  - complicity, apology, and non-reciprocal forgiveness
+- trust as operational infrastructure
+- strategic deception and interested testimony
+- salvation narratives and savior manufacture
+- future generations and reproductive sovereignty
+- recognition as epistemic correction
+- relationship-conditioned belief revision
+- partial Rumbling deterrence
+- Founder decision authority and royal-blood access
+- Paths-like reconstruction and temporal uncertainty
+- military invasion and institutional collapse
+- child protection versus inherited war
+- complicity, apology, and non-reciprocal forgiveness
 major_visual_motifs:
-  - baseball passed without physical contact
-  - body reconstructed inside a Titan and in a path-like desert
-  - armbands and segregated military bodies
-  - roofs, airships, earth, and vertical battle geometry
-  - rifles and cannon sights as staged trust/deception devices
-  - open palm / pointing finger / hidden Jaw Titan
-  - Mikasa's removed scarf
-  - prison bars opening into battle participation
-  - child bodies moving through adult war infrastructure
-  - Cart Titan apparent defeat followed by preserved cannon
+- baseball passed without physical contact
+- body reconstructed inside a Titan and in a path-like desert
+- armbands and segregated military bodies
+- roofs, airships, earth, and vertical battle geometry
+- rifles and cannon sights as staged trust/deception devices
+- open palm / pointing finger / hidden Jaw Titan
+- Mikasa's removed scarf
+- prison bars opening into battle participation
+- child bodies moving through adult war infrastructure
+- Cart Titan apparent defeat followed by preserved cannon
 major_lexical_targets:
-  - 信頼
-  - 救う
-  - 救済
-  - 世界
-  - 進む
-  - 自由
-  - 子供
-  - 未来
-  - 信じる
-  - 悪魔
-  - 人
-  - 嘘
-  - 騙し討ち
+- 信頼
+- 救う
+- 救済
+- 世界
+- 進む
+- 自由
+- 子供
+- 未来
+- 信じる
+- 悪魔
+- 人
+- 嘘
+- 騙し討ち
 ---
 
 # 『進撃の巨人』Volume 29 Deep Reading

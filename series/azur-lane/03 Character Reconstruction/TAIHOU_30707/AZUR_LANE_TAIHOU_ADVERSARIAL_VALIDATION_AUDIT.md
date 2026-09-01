@@ -14,17 +14,17 @@ validation_target_status_before_r5: active_provisional
 monograph_status_after_r5: active_provisional
 r3_authority: AZUR_LANE_TAIHOU_LONGITUDINAL_BEHAVIORAL_SYNTHESIS.md
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 readiness_grade: A
 readiness_score: 86.89
 composition_warning: COMMANDER_HEAVY
-source_boundary: "Pinned Taihou V1 CN semantic reconstruction through R4, adversarially re-screened against the 28-scene CN narrative corpus, 116-record CN character-dialogue ledger, 25-section CN social reconstruction, named relationship evidence, and the routed 125-group CN Dorm3D established-intimacy stratum; unresolved DormLvPerformance1201-1204 exact-script references excluded; JP/EN/TW/KR locale-specific speech and exhaustive JP performed voice remain downstream"
+source_boundary: Pinned Taihou V1 CN semantic reconstruction through R4, adversarially re-screened against the 28-scene CN narrative corpus, 116-record CN character-dialogue ledger, 25-section CN social reconstruction, named relationship evidence, and the routed 125-group CN Dorm3D established-intimacy stratum; unresolved DormLvPerformance1201-1204 exact-script references excluded; JP/EN/TW/KR locale-specific speech and exhaustive JP performed voice remain downstream
 regional_speech_status: deferred_to_r7
 performed_voice_status: open_partial_source_mapping
 r5_result: TAIHOU_R5_PASS_WITH_N5_REVISED_TO_RECIPROCAL_CONSEQUENTIALITY_HARD_REFUSAL_AND_HIGH_STAKES_EDGES_OPEN
 next_phase: R6_relationship_state_synthesis
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

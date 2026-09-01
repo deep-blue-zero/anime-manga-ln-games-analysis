@@ -1,36 +1,36 @@
 ---
-title: "〈物語〉シリーズ V2 V12 Deep Reading — 鬼物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V12"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『鬼物語』, supplied archive item 12 鬼物語.epub"
-supersedes: null
-superseded_by: null
+title: 〈物語〉シリーズ V2 V12 Deep Reading — 鬼物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V12
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『鬼物語』, supplied archive item 12 鬼物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V12_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V12"
-japanese_title: "鬼物語"
-archive_position: "Second Season archive spine V12"
-source_file: "12 鬼物語.epub"
-source_drive_id: "1Ey2-VY4y_agDg4qH-7l6Wf2hkkaPXNhd"
-source_sha256: "0b71c1dbf2414f7bba7f36511435b1f6f1c44fe00635abb57dcdf9e7c6cdd418"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V12_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V12
+japanese_title: 鬼物語
+archive_position: Second Season archive spine V12
+source_file: 12 鬼物語.epub
+source_drive_id: 1Ey2-VY4y_agDg4qH-7l6Wf2hkkaPXNhd
+source_sha256: 0b71c1dbf2414f7bba7f36511435b1f6f1c44fe00635abb57dcdf9e7c6cdd418
 source_size_bytes: 2000524
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text and represented September 28, 2011 print boundary; later calibre packaging is treated as file-history metadata, not original publication evidence"
-principal_story_unit: "第忍話 しのぶタイム"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text and represented September 28, 2011 print boundary; later calibre packaging is treated as file-history metadata, not original publication evidence
+principal_story_unit: 第忍話 しのぶタイム
 narrators:
-  - "阿良々木暦"
-  - "忍野忍（阿良々木の現在語りに埋め込まれた約四百年前の長い一人語り）"
-internal_story_range: "Main present: August 21–23, beginning Monday shortly after 1 PM; embedded history: roughly four centuries earlier; final narration frame: approximately four months after the August events"
-spoiler_policy: "Publication-local V12 claims are separated from retrospective V2 flags. V13 and later resolutions are not imported to close V12 ambiguities; later known role changes are treated only as future audit obligations."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+- 阿良々木暦
+- 忍野忍（阿良々木の現在語りに埋め込まれた約四百年前の長い一人語り）
+internal_story_range: 'Main present: August 21–23, beginning Monday shortly after 1 PM; embedded history: roughly four centuries earlier; final narration frame: approximately four months after the August events'
+spoiler_policy: Publication-local V12 claims are separated from retrospective V2 flags. V13 and later resolutions are not imported to close V12 ambiguities; later known role changes are treated only as future audit obligations.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # 〈物語〉シリーズ V2 — Volume 12 Deep Reading

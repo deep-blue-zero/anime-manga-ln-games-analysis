@@ -7,8 +7,8 @@ status: active_provisional
 analysis_root_id: 1j-SJWChEvVtkU9bRqszoocYzXVZxPkjB
 source_root_id: 1sr196MHP1yqxMOHQoLZSjnLmAnGc46DL
 control_sheet_id: 1fDfRSY9oHovjAcO-YPItDfZlirPjlc3yL8IZQZMRRXg
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

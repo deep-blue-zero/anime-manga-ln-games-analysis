@@ -2,94 +2,94 @@
 series: TBHX
 artifact_type: specialist_synthesis
 artifact_role: character_monograph
-scope: "Liang Long / Dragon Boy, Smile, Original Nice as relational hinge, Yan Mo, Shang De, X, public spectators, Commission arbitration, pain, damage-return, Fear corruption, punitive heroism, affective labor, and memorial provenance across S01E20-E24"
+scope: Liang Long / Dragon Boy, Smile, Original Nice as relational hinge, Yan Mo, Shang De, X, public spectators, Commission arbitration, pain, damage-return, Fear corruption, punitive heroism, affective labor, and memorial provenance across S01E20-E24
 generation: V2
 phase: 3
 specialist_number: 13
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; primary close reading E21-E22 with E21 retrospective and E22 full-motion evidence; E20 prehistory and E23-E24 consequence layers"
-canonical_home: "03 V2 Specialist Syntheses/01 Characters and Relationships"
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; primary close reading E21-E22 with E21 retrospective and E22 full-motion evidence; E20 prehistory and E23-E24 consequence layers
+canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
-  - P2-CR-CH10
-  - P2-CR-CH11
-  - P2-CR-CH12
-  - P2-CR-M12
-  - P2-CR-M13
-  - P2-CR-R07
-  - P2-CR-R08
-  - P2-CR-N09
+- P2-CR-CH10
+- P2-CR-CH11
+- P2-CR-CH12
+- P2-CR-M12
+- P2-CR-M13
+- P2-CR-R07
+- P2-CR-R08
+- P2-CR-N09
 secondary_claim_keys:
-  - P2-CR-C05
-  - P2-CR-C06
-  - P2-CR-C07
-  - P2-CR-C11
-  - P2-CR-M01
-  - P2-CR-M03
-  - P2-CR-M04
-  - P2-CR-M05
-  - P2-CR-M08
-  - P2-CR-M09
-  - P2-CR-M18
-  - P2-CR-P01
-  - P2-CR-P03
-  - P2-CR-P05
-  - P2-CR-P08
-  - P2-CR-P15
-  - P2-CR-N01
-  - P2-CR-N03
-  - P2-CR-N06
-  - P2-CR-I01
-  - P2-CR-I02
-  - P2-CR-I03
-  - P2-CR-I04
-  - P2-CR-I08
-  - P2-CR-I09
-  - P2-CR-I13
-  - P2-CR-I14
-  - P2-CR-I15
-  - P2-CR-R01
-  - P2-CR-R02
-  - P2-CR-R03
-  - P2-CR-R04
-  - P2-CR-R06
-  - P2-CR-R15
-  - P2-CR-F01
-  - P2-CR-F03
-  - P2-CR-F04
-  - P2-CR-F05
-  - P2-CR-F06
-  - P2-CR-F09
-  - P2-CR-F10
-  - P2-CR-F11
-  - P2-CR-F15
-  - P2-CR-F16
+- P2-CR-C05
+- P2-CR-C06
+- P2-CR-C07
+- P2-CR-C11
+- P2-CR-M01
+- P2-CR-M03
+- P2-CR-M04
+- P2-CR-M05
+- P2-CR-M08
+- P2-CR-M09
+- P2-CR-M18
+- P2-CR-P01
+- P2-CR-P03
+- P2-CR-P05
+- P2-CR-P08
+- P2-CR-P15
+- P2-CR-N01
+- P2-CR-N03
+- P2-CR-N06
+- P2-CR-I01
+- P2-CR-I02
+- P2-CR-I03
+- P2-CR-I04
+- P2-CR-I08
+- P2-CR-I09
+- P2-CR-I13
+- P2-CR-I14
+- P2-CR-I15
+- P2-CR-R01
+- P2-CR-R02
+- P2-CR-R03
+- P2-CR-R04
+- P2-CR-R06
+- P2-CR-R15
+- P2-CR-F01
+- P2-CR-F03
+- P2-CR-F04
+- P2-CR-F05
+- P2-CR-F06
+- P2-CR-F09
+- P2-CR-F10
+- P2-CR-F11
+- P2-CR-F15
+- P2-CR-F16
 governing_artifacts:
-  - CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
-  - TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
-  - HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
-  - CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
-  - PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
-  - INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
-  - CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
-  - VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
-  - TBHX_NAME_LOCALIZATION_CROSSWALK.md
-  - V1_TO_V2_REVISION_LEDGER.md
+- CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
+- TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
+- HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
+- CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
+- PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
+- INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
+- CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
+- VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
+- TBHX_NAME_LOCALIZATION_CROSSWALK.md
+- V1_TO_V2_REVISION_LEDGER.md
 primary_episode_artifacts:
-  - TBHX_V2_E21_DEEP_READING.md
-  - TBHX_V2_E22_DEEP_READING.md
+- TBHX_V2_E21_DEEP_READING.md
+- TBHX_V2_E22_DEEP_READING.md
 supporting_episode_artifacts:
-  - TBHX_V2_E20_DEEP_READING.md
-  - TBHX_V2_E23_DEEP_READING.md
-  - TBHX_V2_E24_DEEP_READING.md
+- TBHX_V2_E20_DEEP_READING.md
+- TBHX_V2_E23_DEEP_READING.md
+- TBHX_V2_E24_DEEP_READING.md
 supporting_evidence_artifacts:
-  - TBHX_V2_E21_VISUAL_MICROSEQUENCE_LEDGER.md
-  - TBHX_V2_E21_RETROSPECTIVE_MOTION_AUDIT.md
-  - TBHX_V2_E22_VISUAL_MICROSEQUENCE_LEDGER.md
-  - TBHX_V2_E22_VIDEO_EVIDENCE_AUDIT.md
+- TBHX_V2_E21_VISUAL_MICROSEQUENCE_LEDGER.md
+- TBHX_V2_E21_RETROSPECTIVE_MOTION_AUDIT.md
+- TBHX_V2_E22_VISUAL_MICROSEQUENCE_LEDGER.md
+- TBHX_V2_E22_VIDEO_EVIDENCE_AUDIT.md
 supporting_specialists:
-  - 06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md
-supersedes: null
-superseded_by: null
+- 06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 last_updated: 2026-08-17

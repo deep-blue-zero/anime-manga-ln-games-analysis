@@ -2,12 +2,12 @@
 series: LLS
 artifact_type: ledger
 artifact_role: CHARACTER_STATE_LEDGER
-scope: "through S3E08"
+scope: through S3E08
 generation: V2.2
 status: active_provisional
-source_boundary: "S1E01-S3E08 only"
-supersedes: null
-superseded_by: null
+source_boundary: S1E01-S3E08 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 mutable_in_place: true
 next_update: S3E09
@@ -19,7 +19,7 @@ season2_frozen_checkpoint: LLS_SEASON2_FROZEN_CHECKPOINT.md
 season2_frozen_checkpoint_drive_id: 1a5gTLsDUVMSGCSo8Je_2kVR8admZwvZn
 season2_checkpoint_status: frozen
 season2_frozen_checkpoint_required_before_next_update: false
-next_update_semantic_boundary: "S1E01-S3E09 only"
+next_update_semantic_boundary: S1E01-S3E09 only
 ---
 
 # Love Live! Superstar!! — Character State Ledger

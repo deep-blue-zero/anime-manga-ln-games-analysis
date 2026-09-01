@@ -5,21 +5,21 @@ artifact_role: AUDIT
 scope: PHASE1B_EVENT_E2B2
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_E2B2_CLOSE_READ_AUDIT.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Frozen E2-B2 prospective findings compared against Tier-H historical IDOLY PRIDE analysis only after the primary freeze"
+source_boundary: Frozen E2-B2 prospective findings compared against Tier-H historical IDOLY PRIDE analysis only after the primary freeze
 inherits: IDOLY_PRIDE_V2_PHASE1B_EVENT_E2B2_PRIMARY_FINDINGS_FREEZE.md
 governing_prior_baseline: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E2B1_BASELINE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: HISTORICAL_COMPARISON_COMPLETED_AFTER_PROSPECTIVE_FREEZE
-created: "2026-08-16"
-updated: "2026-08-16"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1B EVENT E2-B2 CLOSE-READ AUDIT

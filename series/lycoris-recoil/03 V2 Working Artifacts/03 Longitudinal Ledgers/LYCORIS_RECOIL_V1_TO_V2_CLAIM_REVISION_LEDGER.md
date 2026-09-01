@@ -1,12 +1,12 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: claim_revision_ledger
-scope: "V1 claims routed to current V2 formulations and evidence"
+scope: V1 claims routed to current V2 formulations and evidence
 generation: V2
 status: canonical
-source_boundary: "SHORT01 V2; V1 claims adjudicated only after each source-native source-unit reading and prospective freeze are frozen"
-supersedes: null
-superseded_by: null
+source_boundary: SHORT01 V2; V1 claims adjudicated only after each source-native source-unit reading and prospective freeze are frozen
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 mutable: true
 current_sequential_boundary: SHORT01

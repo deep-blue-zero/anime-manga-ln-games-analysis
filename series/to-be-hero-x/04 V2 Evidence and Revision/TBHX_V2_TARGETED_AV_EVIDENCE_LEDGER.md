@@ -6,14 +6,14 @@ scope: S01E01-S01E24_post_freeze_targeted_reinspection
 generation: V2
 status: active_provisional
 phase: 2
-canonical_home: "04 V2 Evidence and Revision"
-media_home: "04 V2 Evidence and Revision/Targeted AV Evidence"
-source_boundary: "Targeted audiovisual clips, stills, and derived navigation surfaces supplied or generated after prospective episode freeze; source episodes remain E01-E24 Mandarin-primary audiovisual Season 1"
-prospective_freeze_rule: "Never rewrite frozen episode bodies. New audiovisual evidence routes through this ledger, mutable topical ledgers, claim-revision infrastructure, and later specialist/full-series synthesis."
-transition_vocabulary: "PRESERVE | STRENGTHEN | REVISE | DOWNGRADE | REJECT | OPEN"
-legacy_tbhx_transition_crosswalk: "PRESERVE=CONFIRMED; STRENGTHEN=STRENGTHENED; REVISE=NARROWED/CORRECTED as appropriate; DOWNGRADE=weakened confidence; REJECT=OVERTURNED; OPEN=UNRESOLVED"
-supersedes: null
-superseded_by: null
+canonical_home: 04 V2 Evidence and Revision
+media_home: 04 V2 Evidence and Revision/Targeted AV Evidence
+source_boundary: Targeted audiovisual clips, stills, and derived navigation surfaces supplied or generated after prospective episode freeze; source episodes remain E01-E24 Mandarin-primary audiovisual Season 1
+prospective_freeze_rule: Never rewrite frozen episode bodies. New audiovisual evidence routes through this ledger, mutable topical ledgers, claim-revision infrastructure, and later specialist/full-series synthesis.
+transition_vocabulary: PRESERVE | STRENGTHEN | REVISE | DOWNGRADE | REJECT | OPEN
+legacy_tbhx_transition_crosswalk: PRESERVE=CONFIRMED; STRENGTHEN=STRENGTHENED; REVISE=NARROWED/CORRECTED as appropriate; DOWNGRADE=weakened confidence; REJECT=OVERTURNED; OPEN=UNRESOLVED
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-16
 last_updated: 2026-08-16

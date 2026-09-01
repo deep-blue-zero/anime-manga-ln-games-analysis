@@ -1,34 +1,34 @@
 ---
-title: "〈物語〉シリーズ V2 V14 Deep Reading — 憑物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V14"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『憑物語』, supplied archive item 14 憑物語.epub"
-supersedes: null
-superseded_by: null
+title: 〈物語〉シリーズ V2 V14 Deep Reading — 憑物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V14
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『憑物語』, supplied archive item 14 憑物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V14_DEEP_READING"
-version: "1.0"
-date: "2026-08-16"
-volume_code: "V14"
-japanese_title: "憑物語"
-archive_position: "Final Season archive spine V14"
-source_file: "14 憑物語.epub"
-source_drive_id: "1dene05YlEPFAJMetOjpeDsLrYxzGO7TA"
-source_sha256: "733d5b50a1e5a4ea6820ab6bcd23257d85ad71c4b63cce6ecbd9822c5c17dfcb"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V14_DEEP_READING
+version: '1.0'
+date: '2026-08-16'
+volume_code: V14
+japanese_title: 憑物語
+archive_position: Final Season archive spine V14
+source_file: 14 憑物語.epub
+source_drive_id: 1dene05YlEPFAJMetOjpeDsLrYxzGO7TA
+source_sha256: 733d5b50a1e5a4ea6820ab6bcd23257d85ad71c4b63cce6ecbd9822c5c17dfcb
 source_size_bytes: 648821
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text and represented September 26, 2012 first-print boundary; later calibre packaging is file-history metadata, not authenticated original electronic-edition evidence"
-principal_story_unit: "第体話 よつぎドール"
-narrator: "阿良々木暦"
-internal_story_range: "February 13–14, one month before the March 13 university entrance examination; with retrospective reference to prior oddity incidents and Final Season forward pressure"
-spoiler_policy: "Publication-local V14 claims are separated from retrospective V2 flags. V15 and later material are not imported to settle Oshino Ougi's identity, Teori Tadatsuru's implied casting agent, Gaen Izuko's total plan, or the final mechanism of Araragi's vampirization."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text and represented September 26, 2012 first-print boundary; later calibre packaging is file-history metadata, not authenticated original electronic-edition evidence
+principal_story_unit: 第体話 よつぎドール
+narrator: 阿良々木暦
+internal_story_range: February 13–14, one month before the March 13 university entrance examination; with retrospective reference to prior oddity incidents and Final Season forward pressure
+spoiler_policy: Publication-local V14 claims are separated from retrospective V2 flags. V15 and later material are not imported to settle Oshino Ougi's identity, Teori Tadatsuru's implied casting agent, Gaen Izuko's total plan, or the final mechanism of Araragi's vampirization.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # 〈物語〉シリーズ V2 — Volume 14 Deep Reading

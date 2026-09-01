@@ -5,13 +5,13 @@ scope: V20
 subtype: japanese_dialogue_and_register
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 20 only; audit against frozen prospective V20 reading"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 20 only; audit against frozen prospective V20 reading
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 20 [Japanese].cbz"
-source_drive_id: "140G77MSFm_AjHTMdxg5g9Q0XQuk65TCO"
-source_sha256: "c88b407502d446be3c6b20225a619904fa5a7546f0d4e8e83d53691424368d47"
+source_file: One Punch Man - Volume 20 [Japanese].cbz
+source_drive_id: 140G77MSFm_AjHTMdxg5g9Q0XQuk65TCO
+source_sha256: c88b407502d446be3c6b20225a619904fa5a7546f0d4e8e83d53691424368d47
 created: 2026-08-26
 ---
 

@@ -6,33 +6,33 @@ checkpoint_type: approximately_50_percent_synthesis
 scope: V01-V19
 generation: V2
 status: canonical
-version: "1.0"
-date: "2026-08-23"
-source_boundary: "Japanese manga tankobon Volumes 1-19, Chapters 1-78; no Volume 20 or later analytical knowledge imported"
-supersedes: null
-superseded_by: null
+version: '1.0'
+date: '2026-08-23'
+source_boundary: Japanese manga tankobon Volumes 1-19, Chapters 1-78; no Volume 20 or later analytical knowledge imported
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 source_authority:
-  - AOT_V01_DEEP_READING.md
-  - AOT_V02_DEEP_READING.md
-  - AOT_V03_DEEP_READING.md
-  - AOT_V04_DEEP_READING.md
-  - AOT_V05_DEEP_READING.md
-  - AOT_V06_DEEP_READING.md
-  - AOT_V07_DEEP_READING.md
-  - AOT_V08_DEEP_READING.md
-  - AOT_V09_DEEP_READING.md
-  - AOT_V10_DEEP_READING.md
-  - AOT_V11_DEEP_READING.md
-  - AOT_V12_DEEP_READING.md
-  - AOT_V13_DEEP_READING.md
-  - AOT_V14_DEEP_READING.md
-  - AOT_V15_DEEP_READING.md
-  - AOT_V16_DEEP_READING.md
-  - AOT_V17_DEEP_READING.md
-  - AOT_V18_DEEP_READING.md
-  - AOT_V19_DEEP_READING.md
+- AOT_V01_DEEP_READING.md
+- AOT_V02_DEEP_READING.md
+- AOT_V03_DEEP_READING.md
+- AOT_V04_DEEP_READING.md
+- AOT_V05_DEEP_READING.md
+- AOT_V06_DEEP_READING.md
+- AOT_V07_DEEP_READING.md
+- AOT_V08_DEEP_READING.md
+- AOT_V09_DEEP_READING.md
+- AOT_V10_DEEP_READING.md
+- AOT_V11_DEEP_READING.md
+- AOT_V12_DEEP_READING.md
+- AOT_V13_DEEP_READING.md
+- AOT_V14_DEEP_READING.md
+- AOT_V15_DEEP_READING.md
+- AOT_V16_DEEP_READING.md
+- AOT_V17_DEEP_READING.md
+- AOT_V18_DEEP_READING.md
+- AOT_V19_DEEP_READING.md
 prospective_boundary_locked: true
 next_required_artifact: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
 ---

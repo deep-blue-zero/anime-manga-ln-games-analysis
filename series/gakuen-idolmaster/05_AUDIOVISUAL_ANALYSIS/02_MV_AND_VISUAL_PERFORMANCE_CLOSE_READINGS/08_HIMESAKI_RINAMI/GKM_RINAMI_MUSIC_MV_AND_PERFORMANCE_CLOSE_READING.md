@@ -2,17 +2,19 @@
 series: GKM
 artifact_type: specialist_synthesis
 scope: CHARACTER_HIMESAKI_RINAMI_PHASE3_MUSIC_MV_PERFORMANCE
-character: "Himesaki Rinami / 姫崎莉波"
+character: Himesaki Rinami / 姫崎莉波
 generation: V2
 release: R2
 status: canonical
-source_boundary: "Seven complete song communications, ten 3DMVs, four authored official MVs, one static full-song presentation, and one supplemental song video; interpreted against Source Lock 1.0 and the Rinami textual core"
-supersedes: "GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1/GKM_RINAMI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md"
-superseded_by: null
+source_boundary: Seven complete song communications, ten 3DMVs, four authored official MVs, one static full-song presentation, and one supplemental song video; interpreted against Source Lock 1.0 and the Rinami textual core
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-22"
-parent_authority: "GKM_RINAMI_COMPLETE_AUDIOVISUAL_BASELINE.md"
-title: "Himesaki Rinami — Music, MV, and Performance Close Reading"
+last_updated: '2026-08-22'
+parent_authority: GKM_RINAMI_COMPLETE_AUDIOVISUAL_BASELINE.md
+title: Himesaki Rinami — Music, MV, and Performance Close Reading
+legacy_supersession_notes:
+- 'legacy supersedes: GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R1/GKM_RINAMI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md'
 ---
 
 # HIMESAKI RINAMI — MUSIC, MV, AND PERFORMANCE CLOSE READING

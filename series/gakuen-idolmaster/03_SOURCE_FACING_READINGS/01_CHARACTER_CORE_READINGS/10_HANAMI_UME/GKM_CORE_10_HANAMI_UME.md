@@ -2,25 +2,25 @@
 series: GKM
 artifact_type: deep_reading
 scope: CHARACTER_HANAMI_UME_PHASE3_CORE
-character: "Hanami Ume / 花海佑芽"
+character: Hanami Ume / 花海佑芽
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Ume complete character bundle (204 unique source objects / 5,841 dialogue messages), with legacy Gakumas analysis used only for claim-revision comparison; audiovisual evidence not yet inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Ume complete character bundle (204 unique source objects / 5,841 dialogue messages), with legacy Gakumas analysis used only for claim-revision comparison; audiovisual evidence not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "Gakuen Idolmaster V2 — Hanami Ume Phase-3 Character Core Deep Reading"
-version: "2.0"
-phase: "3 — Character-Core Readings"
-source_lock: "GAKUMAS V2 Source Lock 1.0"
+title: Gakuen Idolmaster V2 — Hanami Ume Phase-3 Character Core Deep Reading
+version: '2.0'
+phase: 3 — Character-Core Readings
+source_lock: GAKUMAS V2 Source Lock 1.0
 continuity_tracks:
-  - P1[UME]
-  - P2[UME]
-  - P3-C[UME]
-  - D-UME
-  - M-UME
-reasoning_route: "GPT-5.6 Sol — Extra High"
-last_updated: "2026-08-16"
+- P1[UME]
+- P2[UME]
+- P3-C[UME]
+- D-UME
+- M-UME
+reasoning_route: GPT-5.6 Sol — Extra High
+last_updated: '2026-08-16'
 ---
 
 # GKM CORE 10 — HANAMI UME / 花海佑芽

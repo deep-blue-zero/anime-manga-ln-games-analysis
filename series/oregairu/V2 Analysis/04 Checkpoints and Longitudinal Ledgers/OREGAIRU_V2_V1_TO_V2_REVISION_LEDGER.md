@@ -6,13 +6,13 @@ generation: V2
 status: canonical
 lifecycle: phase4_closure
 canonical_name: OREGAIRU_V2_V1_TO_V2_REVISION_LEDGER.md
-source_boundary: "Historical V1 Oregairu synthesis/claim audit reconciled against the canonical Japanese-primary V2 reread through Volume 14.5, ten Phase-4 ledgers, checkpoints, and locator infrastructure; Shin, Ketsu, and unaudited anthology story content do not govern mainline revisions"
-supersedes: null
-superseded_by: null
+source_boundary: Historical V1 Oregairu synthesis/claim audit reconciled against the canonical Japanese-primary V2 reread through Volume 14.5, ten Phase-4 ledgers, checkpoints, and locator infrastructure; Shin, Ketsu, and unaudited anthology story content do not govern mainline revisions
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-16"
+created: '2026-08-16'
 phase4_exit: true
-next_artifact: "01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md"
+next_artifact: 01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md
 ---
 
 # OREGAIRU V2 — V1 → V2 Revision Ledger

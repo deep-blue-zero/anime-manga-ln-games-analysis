@@ -1,16 +1,19 @@
 ---
-series: "SHINEPOST"
-artifact_type: "audiovisual_analysis"
-scope: "Seibu Rio / Yellow Rose performance"
-generation: "V1"
-status: "canonical"
-source_boundary: "Yellow Rose audiovisual performance clip plus prior E05-E06 analysis"
-supersedes: "Turn 44 preliminary Yellow Rose audiovisual reading"
-superseded_by: null
+series: SHINEPOST
+artifact_type: audiovisual_analysis
+scope: Seibu Rio / Yellow Rose performance
+generation: V1
+status: canonical
+source_boundary: Yellow Rose audiovisual performance clip plus prior E05-E06 analysis
+supersedes:
+- series/shine-post/V1 Analysis/90 Legacy and Superseded/SHINEPOST_RIO_YELLOW_ROSE_AUDIOVISUAL_ANALYSIS_PRELIMINARY.md
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 46
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy supersedes: Turn 44 preliminary Yellow Rose audiovisual reading'
 ---
 
 # Updated Rio thesis after hearing/seeing “Yellow Rose”
@@ -21,11 +24,11 @@ The video/audio changes Rio from a “vulnerability arc” into something more p
 
 That is the key revision.
 
-Before analyzing the performance itself, Rio could be summarized as the girl who wants praise because praise proves she has reached someone. That is still true. Her childhood desire is not “I want attention” in the shallow sense, but **私も誰かの力になりたい** — “I want to become someone’s strength too.” As the earlier synthesis put it, Rio’s apparent vanity hides the desire to help, while **Yellow Rose** lets her sing as someone small and weak who will no longer run away.[
+Before analyzing the performance itself, Rio could be summarized as the girl who wants praise because praise proves she has reached someone. That is still true. Her childhood desire is not “I want attention” in the shallow sense, but **私も誰かの力になりたい** — “I want to become someone’s strength too.” As the earlier synthesis put it, Rio’s apparent vanity hides the desire to help, while **Yellow Rose** lets her sing as someone small and weak who will no longer run away.
 
 SHINE POST Truthful Performance
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=beac94a3-5f7a-4892-b133-b2f64cad1104&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 But the clip makes the emotional mechanism clearer. **Yellow Rose** is not merely “Rio admits weakness.” It is:
 

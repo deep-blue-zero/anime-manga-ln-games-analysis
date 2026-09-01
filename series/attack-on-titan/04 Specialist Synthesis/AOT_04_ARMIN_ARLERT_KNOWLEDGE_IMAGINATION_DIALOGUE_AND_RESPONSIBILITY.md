@@ -2,41 +2,41 @@
 series: AOT
 artifact_type: specialist_synthesis
 artifact_role: ARMIN_ARLERT_KNOWLEDGE_IMAGINATION_DIALOGUE_AND_RESPONSIBILITY
-specialist_id: "04"
+specialist_id: '04'
 scope: V01-V34
 generation: V2
 status: canonical
-version: "1.0"
-publication_state: "canonical Drive placement and final byte-for-byte readback verified"
-date: "2026-08-28"
-source_boundary: "Complete Japanese manga tankobon Volumes 1-34; canonical V2 sequential readings complete; load-bearing V20 and V31-V34 Armin pages reinspected against primary Japanese CBZ"
-governing_method: "AOT_ANALYTICAL_METHOD_V2.md v2.1"
-governing_architecture: "AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2"
-claim_authority: "AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md v1.0"
-evidence_matrix: "AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md v1.0"
-locator_index: "AOT_PRIMARY_SOURCE_LOCATOR_INDEX_V01-V34.tsv"
-japanese_index: "AOT_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md v1.0"
-parent_synthesis: "AOT_01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md v1.0"
+version: '1.0'
+publication_state: canonical Drive placement and final byte-for-byte readback verified
+date: '2026-08-28'
+source_boundary: Complete Japanese manga tankobon Volumes 1-34; canonical V2 sequential readings complete; load-bearing V20 and V31-V34 Armin pages reinspected against primary Japanese CBZ
+governing_method: AOT_ANALYTICAL_METHOD_V2.md v2.1
+governing_architecture: AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md v1.2
+claim_authority: AOT_FULL_SERIES_CLAIM_REVISION_LEDGER.md v1.0
+evidence_matrix: AOT_V01-V34_SYNTHESIS_EVIDENCE_MATRIX.md v1.0
+locator_index: AOT_PRIMARY_SOURCE_LOCATOR_INDEX_V01-V34.tsv
+japanese_index: AOT_JAPANESE_PASSAGE_AND_TERMINOLOGY_INDEX.md v1.0
+parent_synthesis: AOT_01_SERIES_ARCHITECTURE_VOLUME_PROGRESSION_AND_MASTER_THESIS.md v1.0
 previous_specialists:
-  - "AOT_02_EREN_JAEGER_FREEDOM_DESIRE_CAUSALITY_AND_RESPONSIBILITY.md v1.0"
-  - "AOT_03_MIKASA_ACKERMAN_LOVE_AGENCY_HOME_AND_MEMORY.md v1.0"
+- AOT_02_EREN_JAEGER_FREEDOM_DESIRE_CAUSALITY_AND_RESPONSIBILITY.md v1.0
+- AOT_03_MIKASA_ACKERMAN_LOVE_AGENCY_HOME_AND_MEMORY.md v1.0
 historical_boundaries:
-  - "AOT_CHECKPOINT_50P_V01-V19_SYNTHESIS.md"
-  - "AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md"
+- AOT_CHECKPOINT_50P_V01-V19_SYNTHESIS.md
+- AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
 architecture_lifecycle: STABILIZED
 reasoning_class: DEEP_SYNTHESIS
-current_provider_mapping: "5.6 Sol Extra High"
-canonical_home: "04 Specialist Synthesis/AOT_04_ARMIN_ARLERT_KNOWLEDGE_IMAGINATION_DIALOGUE_AND_RESPONSIBILITY.md"
-canonical_drive_id: "1i_34n7-Q5jpro5TN5lClcRGHLWTS_47X"
-primary_specialist_code: "04 ARMIN"
+current_provider_mapping: 5.6 Sol Extra High
+canonical_home: 04 Specialist Synthesis/AOT_04_ARMIN_ARLERT_KNOWLEDGE_IMAGINATION_DIALOGUE_AND_RESPONSIBILITY.md
+canonical_drive_id: 1i_34n7-Q5jpro5TN5lClcRGHLWTS_47X
+primary_specialist_code: 04 ARMIN
 associated_fs_claims:
-  - AOT-FSCR-C020
-  - AOT-FSCR-H009
-  - AOT-FSCR-M003
-supersedes: null
-superseded_by: null
+- AOT-FSCR-C020
+- AOT-FSCR-H009
+- AOT-FSCR-M003
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-next_operation: "AOT_05_REINER_BRAUN_ROLE_IDENTITY_GUILT_RECOGNITION_AND_SURVIVAL.md"
+next_operation: AOT_05_REINER_BRAUN_ROLE_IDENTITY_GUILT_RECOGNITION_AND_SURVIVAL.md
 ---
 
 # 『進撃の巨人』 / *Attack on Titan*

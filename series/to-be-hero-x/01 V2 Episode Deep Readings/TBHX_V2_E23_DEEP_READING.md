@@ -5,15 +5,15 @@ scope: E23
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Chinese-original audiovisual Episode 23; prospective knowledge boundary E01-E23; Episode 24 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Chinese-original audiovisual Episode 23; prospective knowledge boundary E01-E23; Episode 24 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 primary_language: Mandarin Chinese
 secondary_witness: Japanese aligned subtitles
 motion_audit_status: complete
-title: "To Be Hero X V2 — Episode 23 Deep Reading"
-episode_title: "LIE / 撒谎"
+title: To Be Hero X V2 — Episode 23 Deep Reading
+episode_title: LIE / 撒谎
 ---
 
 # To Be Hero X V2 — Episode 23 Deep Reading

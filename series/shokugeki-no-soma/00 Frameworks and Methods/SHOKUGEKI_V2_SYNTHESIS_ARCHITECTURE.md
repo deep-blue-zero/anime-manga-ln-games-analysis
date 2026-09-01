@@ -4,7 +4,7 @@ artifact_type: synthesis_architecture
 scope: FULL_SERIES_V01-V36
 generation: V2
 status: canonical
-source_boundary: "Original Japanese manga V01-V36; V2 sequential deep reading not yet begun at architecture activation"
+source_boundary: Original Japanese manga V01-V36; V2 sequential deep reading not yet begun at architecture activation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

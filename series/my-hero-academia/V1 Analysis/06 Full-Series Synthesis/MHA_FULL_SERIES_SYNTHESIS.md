@@ -1,16 +1,18 @@
 ---
-series: "MHA"
-artifact_type: "full_series_synthesis"
-scope: "V01-V42"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "My Hero Academia manga Volumes 1-42"
-supersedes: null
-superseded_by: "MHA V2 second-pass synthesis when complete"
+series: MHA
+artifact_type: full_series_synthesis
+scope: V01-V42
+generation: V1
+status: historical_legacy
+source_boundary: My Hero Academia manga Volumes 1-42
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - My Hero Academia deep dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - My Hero Academia deep dive - Full Transcript(1).md
 source_turn: 44
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: MHA V2 second-pass synthesis when complete'
 ---
 
 # Draft synthesis: *My Hero Academia* — power, heroism, inheritance, and the social duty to reach out

@@ -5,46 +5,46 @@ artifact_role: DEEP_READING
 scope: S2E09
 generation: V2.2
 status: canonical
-source_boundary: "Japanese-audio TV S1E01-S2E09 only"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese-audio TV S1E01-S2E09 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 season: 2
 episode: 9
-episode_title_japanese: "勝利のために"
-episode_title_english: "In Order to Win"
-episode_title_source: "clean retained source frame at 00:03:59.281 directly displays #09 勝利のために; embedded English Signs render In Order to Win; title used as identifying/formal evidence, not as independent semantic proof"
+episode_title_japanese: 勝利のために
+episode_title_english: In Order to Win
+episode_title_source: 'clean retained source frame at 00:03:59.281 directly displays #09 勝利のために; embedded English Signs render In Order to Win; title used as identifying/formal evidence, not as independent semantic proof'
 artifact_id: LLS_S2E09_DEEP_READING_V2
-analysis_mode: "sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E08 as nine separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; competitive consequence, protective nondisclosure, cohort self-removal, membership, relationship, voice, and character-model analysis"
+analysis_mode: sealed sequential V2.2; immutable frozen Season-1 checkpoint plus canonical S2E01-S2E08 as nine separately recoverable prior authorities; corrected-Japanese governing text; English comparison lane; local audiovisual/acoustic audit; competitive consequence, protective nondisclosure, cohort self-removal, membership, relationship, voice, and character-model analysis
 source_bundle: LLS_s02e09_screenshots.zip
 source_drive_id: 1YkrW-B2n7dMPgoY7jCzKPNEUXyCCeZW4
 source_sha256: b873d0924a0eba40c594974eb79c94d94c8daac54c71c63fbc0c0387f39b468c
 source_bytes: 174358412
-source_language: "Japanese audio; corrected Japanese ASS; English comparison ASS"
-semantic_evidence_boundary: "S1E01-S2E09 only"
+source_language: Japanese audio; corrected Japanese ASS; English comparison ASS
+semantic_evidence_boundary: S1E01-S2E09 only
 future_semantic_evidence_used: false
 frozen_prior_authority: LLS_SEASON1_FROZEN_CHECKPOINT.md
 frozen_prior_drive_id: 1EYyIn802sbQftv7Xcs-_Xmq_RNearAq5
 prior_later_states:
-  - LLS_S2E01_DEEP_READING_V2.md
-  - LLS_S2E02_DEEP_READING_V2.md
-  - LLS_S2E03_DEEP_READING_V2.md
-  - LLS_S2E04_DEEP_READING_V2.md
-  - LLS_S2E05_DEEP_READING_V2.md
-  - LLS_S2E06_DEEP_READING_V2.md
-  - LLS_S2E07_DEEP_READING_V2.md
-  - LLS_S2E08_DEEP_READING_V2.md
+- LLS_S2E01_DEEP_READING_V2.md
+- LLS_S2E02_DEEP_READING_V2.md
+- LLS_S2E03_DEEP_READING_V2.md
+- LLS_S2E04_DEEP_READING_V2.md
+- LLS_S2E05_DEEP_READING_V2.md
+- LLS_S2E06_DEEP_READING_V2.md
+- LLS_S2E07_DEEP_READING_V2.md
+- LLS_S2E08_DEEP_READING_V2.md
 prior_later_state_drive_ids:
-  - 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
-  - 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
-  - 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
-  - 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
-  - 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
-  - 13pTTG9-OoXt9mkQE0MgpOrtZrvsaA7YE
-  - 1bkynaGNKLd6AD3__pauxNfAJb7sJc44a
-  - 15MJkPYjRpv7DjQF9n05lnLqJzve3_qBh
-analysis_method: "LoveLiveSuperstar_Analytical_Method_V2.md v2.2"
-architecture_protocol: "LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2"
+- 1FXB0Wl1SWHILuLpFX-Mo2sY3JIH9f7-c
+- 1t7Y1N8LOaV0pbWN-pbeODFsL0sAALAZu
+- 13H6TV_HrT3nsSeYBr8Fckr6lCMk4cLtL
+- 1FJAW9l5EFo_gdHoNM-sTNZE6ap4sw1ap
+- 1D9N1_yozKFQMiBr1RT1UF4ACWvK5gqJw
+- 13pTTG9-OoXt9mkQE0MgpOrtZrvsaA7YE
+- 1bkynaGNKLd6AD3__pauxNfAJb7sJc44a
+- 15MJkPYjRpv7DjQF9n05lnLqJzve3_qBh
+analysis_method: LoveLiveSuperstar_Analytical_Method_V2.md v2.2
+architecture_protocol: LoveLiveSuperstar_Multi_Document_Architecture_V2.md v2.2
 zip_files: 876
 retained_frames: 815
 contact_sheets_reviewed: 43
@@ -68,16 +68,16 @@ audio_channels: 2
 audio_bitrate_bps: 160005
 audio_preflight_status: passed
 acoustic_audit_status: completed
-auditory_perception_mode: "local mixed-track waveform/acoustic measurement; no unrestricted human-like audition"
-source_lifecycle: "Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion"
+auditory_perception_mode: local mixed-track waveform/acoustic measurement; no unrestricted human-like audition
+source_lifecycle: Drive ZIP -> exact Phase-0 verification -> temporary local unpack -> V2.2 sealed analysis -> provisional Drive artifact -> four ledger updates/readback -> local cleanup -> same-file canonical promotion
 model_ledgers_updated:
-  - LLS_CHARACTER_STATE_LEDGER.md
-  - LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
-  - LLS_CHARACTER_VOICE_MODEL_LEDGER.md
-  - LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
+- LLS_CHARACTER_STATE_LEDGER.md
+- LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+- LLS_CHARACTER_VOICE_MODEL_LEDGER.md
+- LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 source_anomaly_ledger_update: null
-local_cleanup_status: "completed; local ZIP, extraction tree, complete audio, 815 retained frames, 43 contact sheets, subtitle/index copies, visual montages, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback"
-retained_local_derivatives: "none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed"
+local_cleanup_status: completed; local ZIP, extraction tree, complete audio, 815 retained frames, 43 contact sheets, subtitle/index copies, visual montages, and temporary audiovisual/acoustic derivatives removed after verified Drive episode+ledger readback
+retained_local_derivatives: none; durable analytical Markdown, ledgers, and locators retained; source reacquired from canonical Drive ZIP when needed
 next_artifact: LLS_S2E10_DEEP_READING_V2.md
 recommended_reasoning_for_next_artifact: High
 ---

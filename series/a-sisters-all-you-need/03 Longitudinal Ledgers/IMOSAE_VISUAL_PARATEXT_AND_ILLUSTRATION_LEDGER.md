@@ -5,14 +5,14 @@ ledger_type: visual_paratext_and_illustration
 scope: V01-V13
 generation: V1
 status: active_provisional
-source_boundary: "Japanese numbered light novels read through V13"
+source_boundary: Japanese numbered light novels read through V13
 current_reading_boundary: V13
 visual_index_version: IMOSAE-VISUAL-INDEX-1.0
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.12"
-date: "2026-08-20"
+version: '1.12'
+date: '2026-08-20'
 ---
 
 # IMOSAE Visual Paratext and Illustration Ledger

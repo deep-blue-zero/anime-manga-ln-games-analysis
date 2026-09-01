@@ -1,14 +1,14 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: synthesis_architecture
-scope: "Manga V2; open-ended architecture beginning with Japanese tankobon V01 and extending through the latest reconciled collected boundary plus continuing serialization"
+scope: Manga V2; open-ended architecture beginning with Japanese tankobon V01 and extending through the latest reconciled collected boundary plus continuing serialization
 generation: V2
 status: active_provisional
-source_boundary: "Architecture is designed to extend beyond the current collected boundary without creating a parallel project"
-supersedes: null
-superseded_by: null
+source_boundary: Architecture is designed to extend beyond the current collected boundary without creating a parallel project
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
 last_amended: 2026-08-24

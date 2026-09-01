@@ -1,13 +1,15 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "corpus_map"
-scope: "V1_CHAT_DERIVED_MIGRATION"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived SUNNY PEACE, Tsuki no Tempest, and LizNoir analytical transcripts"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed corpus"
+series: IDOLY_PRIDE
+artifact_type: corpus_map
+scope: V1_CHAT_DERIVED_MIGRATION
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived SUNNY PEACE, Tsuki no Tempest, and LizNoir analytical transcripts
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed corpus'
 ---
 
 # IDOLY PRIDE — V1 Historical Chat-Derived Analysis Map

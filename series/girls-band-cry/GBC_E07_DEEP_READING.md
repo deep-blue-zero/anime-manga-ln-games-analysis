@@ -4,12 +4,12 @@ artifact_type: deep_reading
 scope: E07
 generation: V1
 status: historical_legacy
-source_boundary: "Verbatim extraction from Manga and anime discussions - Girls Band Cry Analysis - Full Transcript(2).md"
-supersedes: null
-superseded_by: null
+source_boundary: Verbatim extraction from Manga and anime discussions - Girls Band Cry Analysis - Full Transcript(2).md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-verbatim_source_exported_at: 2026-08-17T19:25:44.657Z
-archive_provenance: "Original assistant response text preserved verbatim; archival wrapper headings/front matter added outside the quoted response text."
+verbatim_source_exported_at: 2026-08-17 19:25:44.657000+00:00
+archive_provenance: Original assistant response text preserved verbatim; archival wrapper headings/front matter added outside the quoted response text.
 original_assistant_turn: 24
 supplemental_assistant_turns: []
 ---

@@ -1,10 +1,10 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: analytical_method
-scope: "Japanese Blue Archive game narrative corpus: main, group, event, bond, mini, MomoTalk, character/profile/contextual dialogue"
+scope: 'Japanese Blue Archive game narrative corpus: main, group, event, bond, mini, MomoTalk, character/profile/contextual dialogue'
 generation: V1
 status: canonical
-source_boundary: "Promoted Blue Archive V1 Japanese canonical corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86, with HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e as independent reference; canonical and derived builds passed blocking audits"
+source_boundary: Promoted Blue Archive V1 Japanese canonical corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86, with HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e as independent reference; canonical and derived builds passed blocking audits
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

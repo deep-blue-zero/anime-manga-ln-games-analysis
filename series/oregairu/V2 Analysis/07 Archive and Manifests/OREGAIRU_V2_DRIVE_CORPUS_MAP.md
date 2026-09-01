@@ -5,14 +5,14 @@ scope: V2
 generation: V2
 status: canonical
 lifecycle: active_mutable
-title: "Oregairu V2 — Google Drive Corpus Map"
-project: "Oregairu V2"
-source_boundary: "Canonical Oregairu V2 analytical corpus through Phase 8 full-series synthesis and active Phase 8.5 character reconstruction; sequential reread complete through Volume 14.5, Phases 4-8 closed, all 8/8 architecture-defined reconstruction models and all eight primary-source-first everyday-life/preferences slices complete, Phase-8.5 cross-model consistency audit pending, and archival freeze deferred until Phase 8.5 closes"
-supersedes: null
-superseded_by: null
+title: Oregairu V2 — Google Drive Corpus Map
+project: Oregairu V2
+source_boundary: Canonical Oregairu V2 analytical corpus through Phase 8 full-series synthesis and active Phase 8.5 character reconstruction; sequential reread complete through Volume 14.5, Phases 4-8 closed, all 8/8 architecture-defined reconstruction models and all eight primary-source-first everyday-life/preferences slices complete, Phase-8.5 cross-model consistency audit pending, and archival freeze deferred until Phase 8.5 closes
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-updated: "2026-08-21T00:59:00-04:00"
-next_artifact: "OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md"
+updated: '2026-08-21T00:59:00-04:00'
+next_artifact: OREGAIRU_V2_PHASE8_5_RECONSTRUCTION_SUITE_AUDIT.md
 ---
 
 # Oregairu V2 — Google Drive Corpus Map

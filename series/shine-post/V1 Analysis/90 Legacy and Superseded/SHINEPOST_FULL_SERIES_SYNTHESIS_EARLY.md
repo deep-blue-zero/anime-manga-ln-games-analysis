@@ -1,16 +1,17 @@
 ---
-series: "SHINEPOST"
-artifact_type: "full_series_synthesis"
-scope: "E01-E12"
-generation: "V1"
-status: "superseded"
-source_boundary: "SHINE POST TV Episodes 1-12"
-supersedes: null
-superseded_by: "SHINEPOST_FULL_SERIES_SYNTHESIS.md"
+series: SHINEPOST
+artifact_type: full_series_synthesis
+scope: E01-E12
+generation: V1
+status: superseded
+source_boundary: SHINE POST TV Episodes 1-12
+supersedes: []
+superseded_by:
+- series/shine-post/V1 Analysis/06 Full-Series Synthesis/SHINEPOST_FULL_SERIES_SYNTHESIS.md
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 26
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 # Full-series thesis

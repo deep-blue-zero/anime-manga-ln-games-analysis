@@ -2,140 +2,140 @@
 series: TBHX
 artifact_type: specialist_synthesis
 artifact_role: cross_arc_relationship_synthesis
-scope: "Cross-arc relationships, alliances, mentorship, testimony, care, rivalry, grief, chosen kinship, institutional capture, public singularization, and answerable interdependence across S01E01-E24"
+scope: Cross-arc relationships, alliances, mentorship, testimony, care, rivalry, grief, chosen kinship, institutional capture, public singularization, and answerable interdependence across S01E01-E24
 generation: V2
 phase: 3
 specialist_number: 16
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; canonical Specialists 06-15; targeted audiovisual and episode-specific motion evidence where those layers revise relationship interpretation"
-canonical_home: "03 V2 Specialist Syntheses/01 Characters and Relationships"
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; canonical Specialists 06-15; targeted audiovisual and episode-specific motion evidence where those layers revise relationship interpretation
+canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
-  - P2-CR-R01
-  - P2-CR-R02
-  - P2-CR-R03
-  - P2-CR-R04
-  - P2-CR-R05
-  - P2-CR-R06
-  - P2-CR-R07
-  - P2-CR-R08
-  - P2-CR-R09
-  - P2-CR-R10
-  - P2-CR-R11
-  - P2-CR-R12
-  - P2-CR-R13
-  - P2-CR-R14
-  - P2-CR-R15
-  - P2-CR-R16
+- P2-CR-R01
+- P2-CR-R02
+- P2-CR-R03
+- P2-CR-R04
+- P2-CR-R05
+- P2-CR-R06
+- P2-CR-R07
+- P2-CR-R08
+- P2-CR-R09
+- P2-CR-R10
+- P2-CR-R11
+- P2-CR-R12
+- P2-CR-R13
+- P2-CR-R14
+- P2-CR-R15
+- P2-CR-R16
 secondary_claim_keys:
-  - P2-CR-CH01
-  - P2-CR-CH02
-  - P2-CR-CH03
-  - P2-CR-CH04
-  - P2-CR-CH05
-  - P2-CR-CH06
-  - P2-CR-CH07
-  - P2-CR-CH08
-  - P2-CR-CH09
-  - P2-CR-CH10
-  - P2-CR-CH11
-  - P2-CR-CH12
-  - P2-CR-CH13
-  - P2-CR-CH14
-  - P2-CR-CH15
-  - P2-CR-CH16
-  - P2-CR-P01
-  - P2-CR-P02
-  - P2-CR-P03
-  - P2-CR-P04
-  - P2-CR-P05
-  - P2-CR-P06
-  - P2-CR-P07
-  - P2-CR-P08
-  - P2-CR-P09
-  - P2-CR-P10
-  - P2-CR-P11
-  - P2-CR-P12
-  - P2-CR-P13
-  - P2-CR-P14
-  - P2-CR-P15
-  - P2-CR-P16
-  - P2-CR-P17
-  - P2-CR-N01
-  - P2-CR-N02
-  - P2-CR-N03
-  - P2-CR-N04
-  - P2-CR-N05
-  - P2-CR-N06
-  - P2-CR-N07
-  - P2-CR-N08
-  - P2-CR-N09
-  - P2-CR-N10
-  - P2-CR-N11
-  - P2-CR-N12
-  - P2-CR-I01
-  - P2-CR-I02
-  - P2-CR-I03
-  - P2-CR-I04
-  - P2-CR-I05
-  - P2-CR-I06
-  - P2-CR-I07
-  - P2-CR-I08
-  - P2-CR-I09
-  - P2-CR-I10
-  - P2-CR-I11
-  - P2-CR-I12
-  - P2-CR-I13
-  - P2-CR-I14
-  - P2-CR-I15
-  - P2-CR-F01
-  - P2-CR-F02
-  - P2-CR-F03
-  - P2-CR-F04
-  - P2-CR-F05
-  - P2-CR-F06
-  - P2-CR-F07
-  - P2-CR-F08
-  - P2-CR-F09
-  - P2-CR-F10
-  - P2-CR-F11
-  - P2-CR-F12
-  - P2-CR-F13
-  - P2-CR-F14
-  - P2-CR-F15
-  - P2-CR-F16
-  - P2-CR-M03
-  - P2-CR-M05
-  - P2-CR-M08
-  - P2-CR-M14
-  - P2-CR-M15
-  - P2-CR-M18
-  - P2-CR-C11
+- P2-CR-CH01
+- P2-CR-CH02
+- P2-CR-CH03
+- P2-CR-CH04
+- P2-CR-CH05
+- P2-CR-CH06
+- P2-CR-CH07
+- P2-CR-CH08
+- P2-CR-CH09
+- P2-CR-CH10
+- P2-CR-CH11
+- P2-CR-CH12
+- P2-CR-CH13
+- P2-CR-CH14
+- P2-CR-CH15
+- P2-CR-CH16
+- P2-CR-P01
+- P2-CR-P02
+- P2-CR-P03
+- P2-CR-P04
+- P2-CR-P05
+- P2-CR-P06
+- P2-CR-P07
+- P2-CR-P08
+- P2-CR-P09
+- P2-CR-P10
+- P2-CR-P11
+- P2-CR-P12
+- P2-CR-P13
+- P2-CR-P14
+- P2-CR-P15
+- P2-CR-P16
+- P2-CR-P17
+- P2-CR-N01
+- P2-CR-N02
+- P2-CR-N03
+- P2-CR-N04
+- P2-CR-N05
+- P2-CR-N06
+- P2-CR-N07
+- P2-CR-N08
+- P2-CR-N09
+- P2-CR-N10
+- P2-CR-N11
+- P2-CR-N12
+- P2-CR-I01
+- P2-CR-I02
+- P2-CR-I03
+- P2-CR-I04
+- P2-CR-I05
+- P2-CR-I06
+- P2-CR-I07
+- P2-CR-I08
+- P2-CR-I09
+- P2-CR-I10
+- P2-CR-I11
+- P2-CR-I12
+- P2-CR-I13
+- P2-CR-I14
+- P2-CR-I15
+- P2-CR-F01
+- P2-CR-F02
+- P2-CR-F03
+- P2-CR-F04
+- P2-CR-F05
+- P2-CR-F06
+- P2-CR-F07
+- P2-CR-F08
+- P2-CR-F09
+- P2-CR-F10
+- P2-CR-F11
+- P2-CR-F12
+- P2-CR-F13
+- P2-CR-F14
+- P2-CR-F15
+- P2-CR-F16
+- P2-CR-M03
+- P2-CR-M05
+- P2-CR-M08
+- P2-CR-M14
+- P2-CR-M15
+- P2-CR-M18
+- P2-CR-C11
 governing_artifacts:
-  - CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
-  - CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
-  - HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
-  - PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
-  - INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
-  - TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
-  - BROADCAST_ORDER_AND_DIEGETIC_CHRONOLOGY_LEDGER.md
-  - CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
-  - VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
-  - TBHX_NAME_LOCALIZATION_CROSSWALK.md
-  - V1_TO_V2_REVISION_LEDGER.md
-  - TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
+- CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
+- CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
+- HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
+- PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
+- INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
+- TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
+- BROADCAST_ORDER_AND_DIEGETIC_CHRONOLOGY_LEDGER.md
+- CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
+- VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
+- TBHX_NAME_LOCALIZATION_CROSSWALK.md
+- V1_TO_V2_REVISION_LEDGER.md
+- TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
 supporting_specialists:
-  - 06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md
-  - 07_YANG_CHENG_ESOUL_POMELO_AND_INHERITED_HEROISM.md
-  - 08_LUCKY_CYAN_HOPE_SURVIVORHOOD_AND_PUBLIC_NEED.md
-  - 09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md
-  - 10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md
-  - 11_GHOSTBLADE_SILENCE_VIOLENCE_FATHERHOOD_AND_REFUSAL.md
-  - 12_LITTLE_JOHNNY_BIG_JOHNNY_FAMILY_MONSTERHOOD_AND_RECOGNITION.md
-  - 13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md
-  - 14_AHU_LOCAL_HEROISM_BELIEF_MYTH_AND_MISRECOGNITION.md
-  - 15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md
-supersedes: null
-superseded_by: null
+- 06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md
+- 07_YANG_CHENG_ESOUL_POMELO_AND_INHERITED_HEROISM.md
+- 08_LUCKY_CYAN_HOPE_SURVIVORHOOD_AND_PUBLIC_NEED.md
+- 09_QUEEN_ORDER_GOVERNANCE_SOLITUDE_AND_REFORM.md
+- 10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md
+- 11_GHOSTBLADE_SILENCE_VIOLENCE_FATHERHOOD_AND_REFUSAL.md
+- 12_LITTLE_JOHNNY_BIG_JOHNNY_FAMILY_MONSTERHOOD_AND_RECOGNITION.md
+- 13_DRAGON_BOY_SMILE_PAIN_FEAR_AND_PUNITIVE_HEROISM.md
+- 14_AHU_LOCAL_HEROISM_BELIEF_MYTH_AND_MISRECOGNITION.md
+- 15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 last_updated: 2026-08-17

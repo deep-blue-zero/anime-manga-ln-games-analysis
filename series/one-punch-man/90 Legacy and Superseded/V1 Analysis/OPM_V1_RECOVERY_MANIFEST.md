@@ -4,9 +4,9 @@ artifact_type: manifest
 scope: V1_RECOVERED_DOCUMENT_BLOCKS
 generation: V1
 status: historical_legacy
-source_boundary: "Recovered standalone Markdown/document-block artifacts supplied 2026-08-22"
-supersedes: null
-superseded_by: null
+source_boundary: Recovered standalone Markdown/document-block artifacts supplied 2026-08-22
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 ---
 # One Punch Man V1 — Recovered Document-Block Manifest

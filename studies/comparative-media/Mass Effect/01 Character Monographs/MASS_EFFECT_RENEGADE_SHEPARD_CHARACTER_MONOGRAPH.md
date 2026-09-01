@@ -4,17 +4,17 @@ artifact_type: character_monograph
 scope: RENEGADE_SHEPARD_TRILOGY_INTERPRETIVE_ARCHETYPE
 generation: V1
 status: canonical
-source_boundary: "Mass Effect trilogy characterization as synthesized through the established Paragon/Renegade comparative framework; this is a corpus-governing interpretive model, not an exhaustive transcript audit or a claim that every Renegade-tagged game choice belongs to one personality."
+source_boundary: Mass Effect trilogy characterization as synthesized through the established Paragon/Renegade comparative framework; this is a corpus-governing interpretive model, not an exhaustive transcript audit or a claim that every Renegade-tagged game choice belongs to one personality.
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 related_artifacts:
-  - "MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md"
+- MASS_EFFECT_PARAGON_SHEPARD_CHARACTER_MONOGRAPH.md
 comparative_frameworks:
-  - PACTRIH
-  - comparative military ethics
-  - emergency sovereignty
-  - dirty-hands ethics
+- PACTRIH
+- comparative military ethics
+- emergency sovereignty
+- dirty-hands ethics
 ---
 
 # Renegade Shepard: Survival, Necessity, and Command Under Existential Pressure

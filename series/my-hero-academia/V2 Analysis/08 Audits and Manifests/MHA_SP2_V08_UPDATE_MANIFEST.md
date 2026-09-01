@@ -5,10 +5,10 @@ scope: V08
 generation: V2
 method_generation: V2.1
 status: canonical
-source_boundary: "Japanese manga tankobon Volume 8; integration through V08"
+source_boundary: Japanese manga tankobon Volume 8; integration through V08
 reconstruction_mode: persisted_state_recovery
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

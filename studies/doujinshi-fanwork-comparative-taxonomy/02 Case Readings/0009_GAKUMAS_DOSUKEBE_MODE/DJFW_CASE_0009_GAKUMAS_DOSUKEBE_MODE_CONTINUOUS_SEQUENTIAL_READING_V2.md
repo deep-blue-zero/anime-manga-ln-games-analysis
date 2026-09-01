@@ -7,11 +7,12 @@ generation: V2
 status: canonical
 analysis_mode: continuous_sequential
 run_scope: DJFW_CASE_0002-DJFW_CASE_0010
-source_boundary: "Full 60-page CBZ sequential review of Kakuzatou's multi-author GakuMas Icha Love Ero Goudou - Dosukebe mode!!, with manual segment mapping from the table of contents and contributor afterwords. Hiro analysis centers on the mameojitan segment printed p19-p26 / archive p21-p28. Explicit content is not described; non-explicit setup/aftermath dialogue is used for voice/relationship analysis."
+source_boundary: Full 60-page CBZ sequential review of Kakuzatou's multi-author GakuMas Icha Love Ero Goudou - Dosukebe mode!!, with manual segment mapping from the table of contents and contributor afterwords. Hiro analysis centers on the mameojitan segment printed p19-p26 / archive p21-p28. Explicit content is not described; non-explicit setup/aftermath dialogue is used for voice/relationship analysis.
 source_sha256: c8496d1930d28318748a858b052d4355ca27ce75301aef3cd0d6228c6fca93ad
 source_pages: 60
-supersedes: DJFW_CASE_0009_GAKUMAS_DOSUKEBE_MODE_CASE_READING.md
-superseded_by: null
+supersedes:
+- studies/doujinshi-fanwork-comparative-taxonomy/02 Case Readings/0009_GAKUMAS_DOSUKEBE_MODE/DJFW_CASE_0009_GAKUMAS_DOSUKEBE_MODE_CASE_READING.md
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_COMPLETE_AV
-character: "Kuramoto China / 倉本千奈"
+character: Kuramoto China / 倉本千奈
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Claim routing across the 21-object canonical China AV packet, controlled against GKM_CORE_06_KURAMOTO_CHINA.md and Source Lock 1.0"
-supersedes: null
-superseded_by: null
+source_boundary: Claim routing across the 21-object canonical China AV packet, controlled against GKM_CORE_06_KURAMOTO_CHINA.md and Source Lock 1.0
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-21"
-title: "Kuramoto China — AV Evidence and Metrics Matrix"
+last_updated: '2026-08-21'
+title: Kuramoto China — AV Evidence and Metrics Matrix
 ---
 
 # GKM — KURAMOTO CHINA AV EVIDENCE AND METRICS MATRIX

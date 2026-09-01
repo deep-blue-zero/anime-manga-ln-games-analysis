@@ -3,21 +3,21 @@ series: HIBIKE
 artifact_type: audit
 scope: KUMIKO_CHARACTER_MONOGRAPH_V0.2
 generation: V2
-version: "1.1"
+version: '1.1'
 status: canonical
-audit_target: "04 Character Modeling/HIBIKE_KUMIKO_CHARACTER_MONOGRAPH.md"
-audit_target_drive_id: "1vdlAx1D3kX3jikOYHTjiKZZKyu6_7rdj"
+audit_target: 04 Character Modeling/HIBIKE_KUMIKO_CHARACTER_MONOGRAPH.md
+audit_target_drive_id: 1vdlAx1D3kX3jikOYHTjiKZZKyu6_7rdj
 audit_result: pass_with_minor_revisions_promotion_deferred
-verified_target_version: "0.3"
+verified_target_version: '0.3'
 patch_verification_result: pass
 verified_target_status: audited_provisional
-verified_target_sha256: "2e3bada1615c47b6bab1c19f528c861ebb0d436163e7b40811a5bc355b550cea"
-source_boundary: "Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical V2 locator indexes, sequential readings, checkpoints, and longitudinal ledgers"
-supersedes: null
-superseded_by: null
+verified_target_sha256: 2e3bada1615c47b6bab1c19f528c861ebb0d436163e7b40811a5bc355b550cea
+source_boundary: Locked Japanese EPUB core HIBIKE-V01 through HIBIKE-V14; canonical V2 locator indexes, sequential readings, checkpoints, and longitudinal ledgers
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-22"
-updated: "2026-08-22"
+created: '2026-08-22'
+updated: '2026-08-22'
 ---
 
 # Sound! Euphonium V2 — Kumiko Character Monograph Audit

@@ -4,9 +4,9 @@ artifact_type: evidence_audit
 scope: E22
 generation: V2
 status: canonical
-source_boundary: "Episode 22 supplemental motion evidence; Clip 01 covers X intervention and Liang defeat; Episode 23 excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 22 supplemental motion evidence; Clip 01 covers X intervention and Liang defeat; Episode 23 excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 audit_clip_count: 1
 ---

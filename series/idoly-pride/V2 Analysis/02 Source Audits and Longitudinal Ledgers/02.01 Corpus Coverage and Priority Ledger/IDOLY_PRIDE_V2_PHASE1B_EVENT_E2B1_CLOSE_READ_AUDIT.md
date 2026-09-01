@@ -5,22 +5,22 @@ artifact_role: AUDIT
 scope: PHASE1B_EVENT_E2B1
 filename: IDOLY_PRIDE_V2_PHASE1B_EVENT_E2B1_CLOSE_READ_AUDIT.md
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1B"
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Frozen post-E2-A3 baseline + four E2-B1 primary event bundles; historical Tier-H consulted only after prospective freeze"
+source_boundary: Frozen post-E2-A3 baseline + four E2-B1 primary event bundles; historical Tier-H consulted only after prospective freeze
 inherits: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E2A3_BASELINE.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1B_EVENT_E2B1_PRIMARY_FINDINGS_FREEZE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: FINAL_E2B1_CLOSE_READ_AUDIT_AFTER_TIER_H_STRESS_TEST
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1B Event Close Read — E2-B2"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: Phase 1B Event Close Read — E2-B2
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1B EVENT E2-B1 CLOSE-READ AUDIT

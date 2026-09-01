@@ -1,12 +1,13 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: analytical_method
-scope: "V2 sequential and supplementary-source deep reading: TV E01-E13; Friends Shorts 01-06; admitted prose, Recollect, and official anthology sources"
+scope: 'V2 sequential and supplementary-source deep reading: TV E01-E13; Friends Shorts 01-06; admitted prose, Recollect, and official anthology sources'
 generation: V2
 status: canonical
-source_boundary: "Anime-native prospective reread first; supplementary sources remain quarantined from integrated character-model revision until the anime-native baseline is frozen"
-supersedes: "Lycoris Recoil — Analytical Method and Episode Reading Protocol.md"
-superseded_by: null
+source_boundary: Anime-native prospective reread first; supplementary sources remain quarantined from integrated character-model revision until the anime-native baseline is frozen
+supersedes:
+- series/lycoris-recoil/00 Frameworks/Lycoris Recoil — Analytical Method and Episode Reading Protocol.md
+superseded_by: []
 do_not_use_as_current_authority: false
 architecture: LYCORIS_RECOIL_V2_SYNTHESIS_ARCHITECTURE.md
 source_inventory: LYCORIS_RECOIL_V2_SOURCE_INVENTORY.md

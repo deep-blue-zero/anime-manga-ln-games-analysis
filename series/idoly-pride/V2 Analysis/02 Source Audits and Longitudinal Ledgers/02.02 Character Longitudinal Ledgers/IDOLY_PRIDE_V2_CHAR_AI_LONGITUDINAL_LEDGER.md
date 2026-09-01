@@ -3,37 +3,37 @@ series: IDOLY_PRIDE
 artifact_type: longitudinal_ledger
 artifact_role: LEDGER
 scope: CHAR_AI
-character: "Komiyama Ai"
+character: Komiyama Ai
 character_code: ai
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-B3-AI"
-unit: "LizNoir"
+phase: '2'
+tranche: P2-B3-AI
+unit: LizNoir
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 longitudinal reconstruction of Komiyama Ai across the complete Phase-1-routed snapshot: all 66 Ai-bearing bundles in the frozen occurrence frontier; LizNoir origins owning her trainee history, quartet entry, America reconstruction, BIG4 co-ownership, and Ai/Kokoro history; admitted CORE/IMPORTANT events covering expressive performance, successor authorship, reciprocal burden, fair competition, professional initiative, cross-unit creative leadership, and mature four-person LizNoir; Tokyo/Stellar main-story appearances; one C2 Ai card for family-motive continuity; lower-priority cards/messages/bonds/specials retained at frozen routing for contradiction and continuity but not exhaustively converted into preference/lifestyle prose because holistic experiential extraction is deferred to Phase 8.5. Rio and Aoi P2 ledgers are paired-boundary constraints only, not substitutes for Ai's source-native reconstruction."
+source_boundary: 'Phase-2 longitudinal reconstruction of Komiyama Ai across the complete Phase-1-routed snapshot: all 66 Ai-bearing bundles in the frozen occurrence frontier; LizNoir origins owning her trainee history, quartet entry, America reconstruction, BIG4 co-ownership, and Ai/Kokoro history; admitted CORE/IMPORTANT events covering expressive performance, successor authorship, reciprocal burden, fair competition, professional initiative, cross-unit creative leadership, and mature four-person LizNoir; Tokyo/Stellar main-story appearances; one C2 Ai card for family-motive continuity; lower-priority cards/messages/bonds/specials retained at frozen routing for contradiction and continuity but not exhaustively converted into preference/lifestyle prose because holistic experiential extraction is deferred to Phase 8.5. Rio and Aoi P2 ledgers are paired-boundary constraints only, not substitutes for Ai''s source-native reconstruction.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_RIO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_AOI_LONGITUDINAL_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_RIO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_AOI_LONGITUDINAL_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_B3_AI_PASS
-created: "2026-08-19"
-updated: "2026-08-19"
-next_operation: "P2-B3 - IDOLY_PRIDE_V2_CHAR_KOKORO_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-19'
+updated: '2026-08-19'
+next_operation: P2-B3 - IDOLY_PRIDE_V2_CHAR_KOKORO_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 - KOMIYAMA AI LONGITUDINAL LEDGER

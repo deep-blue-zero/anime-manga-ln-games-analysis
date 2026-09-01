@@ -2,73 +2,73 @@
 series: TBHX
 artifact_type: specialist_synthesis
 artifact_role: character_monograph
-scope: "Lin Ling, Original Nice, Nice as role/brand/office, and Xiao Yueqing/Moon across S01E01-E04 and the E20-E24 prehistory/convergence"
+scope: Lin Ling, Original Nice, Nice as role/brand/office, and Xiao Yueqing/Moon across S01E01-E04 and the E20-E24 prehistory/convergence
 generation: V2
 phase: 3
 status: canonical
-revision: "1.1"
-revision_reason: "E24 tournament entrant correction: Lin Ling and Nice are separately foregrounded; the Nice entrant is treated as an apparent cracked Original-Nice return while the return mechanism and continuity of personhood remain open."
-revision_supersedes_sha256: "1e9fe87829c5880c1e3c73d034e5d0b7a5ff8295cede91ebb149803436ef4cc3"
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; completed E20 and E22-E24 audiovisual/motion audits; E24 visual microsequence ledger; supplemental direct-view observation of the cracked Nice entrant"
-canonical_home: "03 V2 Specialist Syntheses/01 Characters and Relationships"
+revision: '1.1'
+revision_reason: 'E24 tournament entrant correction: Lin Ling and Nice are separately foregrounded; the Nice entrant is treated as an apparent cracked Original-Nice return while the return mechanism and continuity of personhood remain open.'
+revision_supersedes_sha256: 1e9fe87829c5880c1e3c73d034e5d0b7a5ff8295cede91ebb149803436ef4cc3
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; completed E20 and E22-E24 audiovisual/motion audits; E24 visual microsequence ledger; supplemental direct-view observation of the cracked Nice entrant
+canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
-  - P2-CR-CH01
-  - P2-CR-CH02
-  - P2-CR-CH10
-  - P2-CR-P09
-  - P2-CR-R09
-  - P2-CR-C05
-  - P2-CR-C06
+- P2-CR-CH01
+- P2-CR-CH02
+- P2-CR-CH10
+- P2-CR-P09
+- P2-CR-R09
+- P2-CR-C05
+- P2-CR-C06
 secondary_claim_keys:
-  - P2-CR-P03
-  - P2-CR-P04
-  - P2-CR-P05
-  - P2-CR-N01
-  - P2-CR-N02
-  - P2-CR-N03
-  - P2-CR-N04
-  - P2-CR-N05
-  - P2-CR-N06
-  - P2-CR-I02
-  - P2-CR-I03
-  - P2-CR-I04
-  - P2-CR-I05
-  - P2-CR-I06
-  - P2-CR-I07
-  - P2-CR-I08
-  - P2-CR-I09
-  - P2-CR-F01
-  - P2-CR-F02
-  - P2-CR-F03
-  - P2-CR-F04
-  - P2-CR-F05
-  - P2-CR-F06
-  - P2-CR-F07
+- P2-CR-P03
+- P2-CR-P04
+- P2-CR-P05
+- P2-CR-N01
+- P2-CR-N02
+- P2-CR-N03
+- P2-CR-N04
+- P2-CR-N05
+- P2-CR-N06
+- P2-CR-I02
+- P2-CR-I03
+- P2-CR-I04
+- P2-CR-I05
+- P2-CR-I06
+- P2-CR-I07
+- P2-CR-I08
+- P2-CR-I09
+- P2-CR-F01
+- P2-CR-F02
+- P2-CR-F03
+- P2-CR-F04
+- P2-CR-F05
+- P2-CR-F06
+- P2-CR-F07
 governing_artifacts:
-  - CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
-  - HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
-  - CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
-  - PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
-  - INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
-  - CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
-  - VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
-  - V1_TO_V2_REVISION_LEDGER.md
+- CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
+- HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
+- CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
+- PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
+- INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
+- CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
+- VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
+- V1_TO_V2_REVISION_LEDGER.md
 primary_episode_artifacts:
-  - TBHX_V2_E01_DEEP_READING.md
-  - TBHX_V2_E02_DEEP_READING.md
-  - TBHX_V2_E03_DEEP_READING.md
-  - TBHX_V2_E04_DEEP_READING.md
-  - TBHX_V2_E20_DEEP_READING.md
-  - TBHX_V2_E21_DEEP_READING.md
-  - TBHX_V2_E22_DEEP_READING.md
-  - TBHX_V2_E23_DEEP_READING.md
-  - TBHX_V2_E24_DEEP_READING.md
+- TBHX_V2_E01_DEEP_READING.md
+- TBHX_V2_E02_DEEP_READING.md
+- TBHX_V2_E03_DEEP_READING.md
+- TBHX_V2_E04_DEEP_READING.md
+- TBHX_V2_E20_DEEP_READING.md
+- TBHX_V2_E21_DEEP_READING.md
+- TBHX_V2_E22_DEEP_READING.md
+- TBHX_V2_E23_DEEP_READING.md
+- TBHX_V2_E24_DEEP_READING.md
 supporting_evidence_artifacts:
-  - TBHX_V2_E24_VISUAL_MICROSEQUENCE_LEDGER.md
-  - TBHX_V2_E24_VIDEO_EVIDENCE_AUDIT.md
-e24_return_evidence_status: "Separate Lin Ling/Nice entrant presence is frame-secure; cracked Original-Nice-like morphology is supplemental direct-view evidence pending a targeted AV packet; resurrection/reincarnation mechanism and personal continuity are unresolved."
-supersedes: null
-superseded_by: null
+- TBHX_V2_E24_VISUAL_MICROSEQUENCE_LEDGER.md
+- TBHX_V2_E24_VIDEO_EVIDENCE_AUDIT.md
+e24_return_evidence_status: Separate Lin Ling/Nice entrant presence is frame-secure; cracked Original-Nice-like morphology is supplemental direct-view evidence pending a targeted AV packet; resurrection/reincarnation mechanism and personal continuity are unresolved.
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 last_updated: 2026-08-17

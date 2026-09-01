@@ -9,15 +9,15 @@ version: 1.0-provisional
 generation: V2
 status: canonical
 freeze_state: motion_audit_pending
-source_boundary: "Episode 20 frames, Mandarin dialogue, Japanese witness, credits, and post-credit scene; sponsor interstitial and E21 preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 20 frames, Mandarin dialogue, Japanese witness, credits, and post-credit scene; sponsor interstitial and E21 preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 20 Visual Microsequence Ledger"
-source_bundle: "BHX_s01e20_screenshots.zip"
-source_bundle_sha256: "21ca6d7aee6d000bc9e195e58976e3b511738c365c871f53853d785f6c3792d6"
-canonical_parent: "TBHX_V2_E20_DEEP_READING.md"
-credits_appendix: "TBHX_V2_E20_CREDITS_EPILOGUE_LEDGER.md"
+title: To Be Hero X V2 — Episode 20 Visual Microsequence Ledger
+source_bundle: BHX_s01e20_screenshots.zip
+source_bundle_sha256: 21ca6d7aee6d000bc9e195e58976e3b511738c365c871f53853d785f6c3792d6
+canonical_parent: TBHX_V2_E20_DEEP_READING.md
+credits_appendix: TBHX_V2_E20_CREDITS_EPILOGUE_LEDGER.md
 ---
 
 # To Be Hero X V2 — Episode 20 Visual Microsequence Ledger

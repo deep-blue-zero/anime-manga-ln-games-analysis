@@ -3,13 +3,15 @@ series: TBHX
 artifact_type: claim_revision_ledger
 scope: E18-E21
 generation: V2
-status: canonical
-source_boundary: "Prospective evidence through Episode 21; E21 sponsor interstitial and E22 preview excluded"
-supersedes: "TBHX_V2_E18-E20_CLAIM_REVISION_LEDGER.md"
-superseded_by: null
-do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — E18 to E21 Claim Revision Ledger"
-canonical_parent: "TBHX_V2_E21_DEEP_READING.md"
+status: superseded
+source_boundary: Prospective evidence through Episode 21; E21 sponsor interstitial and E22 preview excluded
+supersedes:
+- series/to-be-hero-x/04 V2 Evidence and Revision/TBHX_V2_E18-E20_CLAIM_REVISION_LEDGER.md
+superseded_by:
+- series/to-be-hero-x/04 V2 Evidence and Revision/TBHX_V2_E18-E22_CLAIM_REVISION_LEDGER.md
+do_not_use_as_current_authority: true
+title: To Be Hero X V2 — E18 to E21 Claim Revision Ledger
+canonical_parent: TBHX_V2_E21_DEEP_READING.md
 ---
 
 # To Be Hero X V2 — E18 to E21 Claim Revision Ledger

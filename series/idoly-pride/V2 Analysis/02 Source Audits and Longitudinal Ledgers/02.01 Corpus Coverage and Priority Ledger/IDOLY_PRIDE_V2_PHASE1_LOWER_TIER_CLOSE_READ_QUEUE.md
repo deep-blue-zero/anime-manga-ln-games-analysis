@@ -4,22 +4,22 @@ artifact_type: close_read_queue
 artifact_role: SOURCE_INVENTORY
 scope: PHASE1_LOWER_TIER_CLOSE_READ_QUEUE
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1"
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Routing derived from Post-B3 authority plus Phase-1 sampling of 27 specials/misc bundles, 363 ledger-enumerated card bundles through all 20 playable-character card corpora, and 99 message bundles through all playable-character message corpora plus representative group chats. No new lower-tier claims admitted."
+source_boundary: Routing derived from Post-B3 authority plus Phase-1 sampling of 27 specials/misc bundles, 363 ledger-enumerated card bundles through all 20 playable-character card corpora, and 99 message bundles through all playable-character message corpora plus representative group chats. No new lower-tier claims admitted.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B3_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1_LOWER_TIER_SAMPLING_AND_ROUTING_AUDIT.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: FROZEN_ROUTING_QUEUE_BEFORE_C1_CARD_CLOSE_READS
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 Card Close Read — C1-A: family, memory, vocation, and legacy"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: 'Phase 1 Card Close Read — C1-A: family, memory, vocation, and legacy'
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 LOWER-TIER CLOSE-READ QUEUE

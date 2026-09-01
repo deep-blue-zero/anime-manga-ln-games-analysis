@@ -1,16 +1,16 @@
 ---
-series: "OREIMO"
-artifact_type: "deep_reading"
-scope: "V01"
-generation: "V1"
-status: "canonical"
-source_boundary: "Oreimo Japanese light novel Volume 1"
-supersedes: null
-superseded_by: null
+series: OREIMO
+artifact_type: deep_reading
+scope: V01
+generation: V1
+status: canonical
+source_boundary: Oreimo Japanese light novel Volume 1
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Oreimo Deep Dive - Full Transcript.md"
+source_transcript: Manga and anime discussions - Oreimo Deep Dive - Full Transcript.md
 source_turn: 10
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 I’ve completed the first full literary pass through Volume 1, using the Japanese narration as the primary evidence and treating later developments only as questions—not answers imposed retroactively.

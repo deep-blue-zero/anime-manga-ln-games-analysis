@@ -4,9 +4,9 @@ artifact_type: crosswalk
 scope: GLOBAL_PLUS_V01-V14_RECONCILED
 generation: V2
 status: active_provisional
-source_boundary: "Locked Japanese EPUB corpus HIBIKE-V01 through HIBIKE-V14; detailed V1 wording-sensitive reconciliation complete through legacy unit 10 / HIBIKE-V12; HIBIKE-V13 and HIBIKE-V14 recorded as V2-only source expansions"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese EPUB corpus HIBIKE-V01 through HIBIKE-V14; detailed V1 wording-sensitive reconciliation complete through legacy unit 10 / HIBIKE-V12; HIBIKE-V13 and HIBIKE-V14 recorded as V2-only source expansions
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

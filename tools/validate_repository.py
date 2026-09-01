@@ -642,6 +642,13 @@ def validate_markdown_links(snapshot: GitSnapshot) -> list[str]:
     errors: list[str] = []
     paths = set(snapshot.entries)
     folded = {path.casefold(): path for path in paths}
+    directories = {
+        parent.as_posix()
+        for path in paths
+        for parent in PurePosixPath(path).parents
+        if parent.as_posix() != "."
+    }
+    folded_directories = {path.casefold(): path for path in directories}
     for path, entry in snapshot.entries.items():
         if not path.endswith(".md") or entry.mode != "100644":
             continue
@@ -689,8 +696,10 @@ def validate_markdown_links(snapshot: GitSnapshot) -> list[str]:
                 elif part not in {"", "."}:
                     parts.append(part)
             resolved = "/".join(parts)
-            if unsafe or resolved not in paths:
-                case_match = folded.get(resolved.casefold())
+            if unsafe or (resolved not in paths and resolved not in directories):
+                case_match = folded.get(resolved.casefold()) or folded_directories.get(
+                    resolved.casefold()
+                )
                 if case_match:
                     errors.append(f"case-mismatched Markdown link in {path}: {target} -> {case_match}")
                 else:

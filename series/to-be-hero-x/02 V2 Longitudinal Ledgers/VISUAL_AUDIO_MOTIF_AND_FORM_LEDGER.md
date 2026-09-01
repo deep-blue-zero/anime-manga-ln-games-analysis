@@ -1,5 +1,5 @@
 ---
-title: "To Be Hero X V2 — Visual, Audio, Motif, and Form Ledger"
+title: To Be Hero X V2 — Visual, Audio, Motif, and Form Ledger
 series: TBHX
 artifact_type: ledger
 artifact_role: visual_audio_motif_and_form_ledger
@@ -8,14 +8,14 @@ generation: V2
 phase: 2
 tranche: 03B
 status: canonical
-source_boundary: "Mandarin-primary audiovisual Season 1 E01-E24; frozen episode readings, frame/contact-sheet evidence, motion/video audits, credits/epilogue audits, and the E24 future-facing credits-coda audit"
-visual_status: "Full-series formal stabilization complete"
-audio_status: "Complete synchronized Mandarin audio exists in the episode bundles; T03B preserves verified local audio/performance evidence but does not claim a fresh full-season acoustic audition"
-legacy_id_policy: "Phase-1 VF identifiers are episode-local and may repeat; current full-series findings use unique P2-VF identifiers"
-targeted_av_evidence_ledger: "TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md"
+source_boundary: Mandarin-primary audiovisual Season 1 E01-E24; frozen episode readings, frame/contact-sheet evidence, motion/video audits, credits/epilogue audits, and the E24 future-facing credits-coda audit
+visual_status: Full-series formal stabilization complete
+audio_status: Complete synchronized Mandarin audio exists in the episode bundles; T03B preserves verified local audio/performance evidence but does not claim a fresh full-season acoustic audition
+legacy_id_policy: Phase-1 VF identifiers are episode-local and may repeat; current full-series findings use unique P2-VF identifiers
+targeted_av_evidence_ledger: TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
 post_t03b_addenda: 1
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: 2026-08-16
 ---

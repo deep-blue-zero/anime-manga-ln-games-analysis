@@ -4,9 +4,9 @@ artifact_type: locator_index
 scope: V13
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V13 locked Japanese EPUB: 『飛び立つ君の背を見上げる』文庫版, including 『記憶のイルミネーション』; Yoshida Reiko commentary separately indexed as F-class paratext"
-supersedes: null
-superseded_by: null
+source_boundary: 'HIBIKE-V13 locked Japanese EPUB: 『飛び立つ君の背を見上げる』文庫版, including 『記憶のイルミネーション』; Yoshida Reiko commentary separately indexed as F-class paratext'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

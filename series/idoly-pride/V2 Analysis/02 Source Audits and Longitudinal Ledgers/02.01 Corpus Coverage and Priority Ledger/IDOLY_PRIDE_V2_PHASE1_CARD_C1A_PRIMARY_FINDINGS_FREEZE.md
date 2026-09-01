@@ -4,22 +4,22 @@ artifact_type: primary_findings_freeze
 artifact_role: DEEP_READING
 scope: PHASE1_CARD_C1A
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "1"
+phase: '1'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Frozen post-B3 analytical authority + C1-A raw card bundles card_kan_007_st-card-kan-05-fest-02, card_kan_014_st-card-kan-05-snro-00, card_suz_003_st-card-suz-05-anml-00, card_kor_005_st-card-kor-05-fest-02, card_hrk_009_st-card-hrk-05-link-00, card_mhk_011_st-card-mhk-05-pajm-00, card_mhk_006_st-card-mhk-05-fest-02. No companion messages and no Tier-H/V1 analytical prose consulted before this freeze."
+source_boundary: Frozen post-B3 analytical authority + C1-A raw card bundles card_kan_007_st-card-kan-05-fest-02, card_kan_014_st-card-kan-05-snro-00, card_suz_003_st-card-suz-05-anml-00, card_kor_005_st-card-kor-05-fest-02, card_hrk_009_st-card-hrk-05-link-00, card_mhk_011_st-card-mhk-05-pajm-00, card_mhk_006_st-card-mhk-05-fest-02. No companion messages and no Tier-H/V1 analytical prose consulted before this freeze.
 inherits: IDOLY_PRIDE_V2_PHASE1_POST_BOND_B3_BASELINE.md
 routing_authority: IDOLY_PRIDE_V2_PHASE1_LOWER_TIER_CLOSE_READ_QUEUE.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: PROSPECTIVE_CARD_ONLY_FREEZE_BEFORE_MESSAGES_AND_TIER_H
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 Card C1-A companion-message refinement"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: Phase 1 Card C1-A companion-message refinement
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — PHASE 1 CARD C1-A PRIMARY FINDINGS FREEZE

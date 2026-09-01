@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: corpus_map
 scope: CHARACTER_ARIMURA_MAO_PHASE3_INTEGRATED_AV_RELEASE
-character: "Arimura Mao / 有村麻央"
+character: Arimura Mao / 有村麻央
 generation: V2
 status: canonical
-source_boundary: "Reader entrypoint for Mao's complete Phase-3 integrated AV release"
-supersedes: null
-superseded_by: null
+source_boundary: Reader entrypoint for Mao's complete Phase-3 integrated AV release
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
+last_updated: '2026-08-17'
 ---
 
 # GAKUEN IDOLMASTER V2 — ARIMURA MAO PHASE-3 INTEGRATED AV RELEASE

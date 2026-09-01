@@ -4,17 +4,17 @@ artifact_type: deep_reading
 scope: V12
 generation: V2
 status: canonical
-source_boundary: "Japanese light novel Volume 12"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novel Volume 12
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
-primary_text: "Oregairu - Volume 12 [Japanese].epub"
-fixed_page_witness: "(一般小説) やはり俺の青春ラブコメはまちがっている。第12巻.pdf"
-primary_text_sha256: "57fe65e7f4f1f3f9c3ec402ab20b9d52bf5c5b0a6a54f8fc7ad9b6f5058e6"
-fixed_page_witness_sha256: "3b98692440495ee0e80b1ac3669edaa091c2d7d0367f486f76e4254285f94ced"
-publication_position: "after Volume 11 / Checkpoint D; before Volume 13"
-prospective_boundary: "Volume 12 only, read from the frozen post-Volume-11 Checkpoint-D state; Volumes 13-14.5 excluded except in the explicitly retrospective section"
+created: '2026-08-15'
+primary_text: Oregairu - Volume 12 [Japanese].epub
+fixed_page_witness: (一般小説) やはり俺の青春ラブコメはまちがっている。第12巻.pdf
+primary_text_sha256: 57fe65e7f4f1f3f9c3ec402ab20b9d52bf5c5b0a6a54f8fc7ad9b6f5058e6
+fixed_page_witness_sha256: 3b98692440495ee0e80b1ac3669edaa091c2d7d0367f486f76e4254285f94ced
+publication_position: after Volume 11 / Checkpoint D; before Volume 13
+prospective_boundary: Volume 12 only, read from the frozen post-Volume-11 Checkpoint-D state; Volumes 13-14.5 excluded except in the explicitly retrospective section
 ---
 
 # OREGAIRU V2 — Volume 12 Deep Reading

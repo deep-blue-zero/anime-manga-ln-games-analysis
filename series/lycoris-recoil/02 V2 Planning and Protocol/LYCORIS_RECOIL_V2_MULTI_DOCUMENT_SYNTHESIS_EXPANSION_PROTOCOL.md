@@ -1,12 +1,13 @@
 ---
 series: LYCORIS_RECOIL
 artifact_type: historical_planning_protocol
-scope: "TV E01-E13 + Friends are thieves of time Shorts 01-06"
+scope: TV E01-E13 + Friends are thieves of time Shorts 01-06
 generation: V2
 status: superseded
-source_boundary: "Historical V2 synthesis-expansion planning protocol"
-supersedes: null
-superseded_by: LYCORIS_RECOIL_V2_SYNTHESIS_ARCHITECTURE.md
+source_boundary: Historical V2 synthesis-expansion planning protocol
+supersedes: []
+superseded_by:
+- series/lycoris-recoil/02 V2 Planning and Protocol/LYCORIS_RECOIL_V2_SYNTHESIS_ARCHITECTURE.md
 do_not_use_as_current_authority: true
 ---
 

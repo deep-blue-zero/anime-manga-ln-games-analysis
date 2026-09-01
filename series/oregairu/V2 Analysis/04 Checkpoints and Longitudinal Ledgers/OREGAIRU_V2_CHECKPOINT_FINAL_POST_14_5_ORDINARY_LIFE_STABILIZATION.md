@@ -2,26 +2,26 @@
 series: OREGAIRU
 artifact_type: checkpoint
 scope: POST_V14_5
-checkpoint_name: "Final Post-14.5 Ordinary-Life Stabilization"
+checkpoint_name: Final Post-14.5 Ordinary-Life Stabilization
 generation: V2
 status: canonical
-source_boundary: "Checkpoint E is the immutable mainline incoming state. Positive post-ending evidence is limited to Volume 14.5 Stories 4-5; Story 3 is late-Volume-14 corroboration only; Stories 1-2 route to post-Volume-9/pre-Volume-10 and cannot revise the mainline ending. Shin, Ketsu, anthologies, and later continuity material excluded."
+source_boundary: Checkpoint E is the immutable mainline incoming state. Positive post-ending evidence is limited to Volume 14.5 Stories 4-5; Story 3 is late-Volume-14 corroboration only; Stories 1-2 route to post-Volume-9/pre-Volume-10 and cannot revise the mainline ending. Shin, Ketsu, anthologies, and later continuity material excluded.
 incoming_checkpoint: OREGAIRU_V2_CHECKPOINT_E_PROM_FINAL_CHOICE_MOVEMENT.md
 positive_evidence_window:
-  - "V14.5 Story 4"
-  - "V14.5 Story 5"
+- V14.5 Story 4
+- V14.5 Story 5
 contextual_only:
-  - "V14.5 Story 3 — late-Volume-14 interstitial"
-  - "V14.5 Stories 1-2 — post-Volume-9/pre-Volume-10"
+- V14.5 Story 3 — late-Volume-14 interstitial
+- V14.5 Stories 1-2 — post-Volume-9/pre-Volume-10
 excluded_from_freeze:
-  - Shin
-  - Ketsu
-  - Anthology post-ending material
-  - later adaptations and derivative continuities
-supersedes: null
-superseded_by: null
+- Shin
+- Ketsu
+- Anthology post-ending material
+- later adaptations and derivative continuities
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-created: "2026-08-15"
+created: '2026-08-15'
 ---
 
 # Oregairu V2 — Final Checkpoint: Post-14.5 Ordinary-Life Stabilization

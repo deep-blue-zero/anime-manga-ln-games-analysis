@@ -5,111 +5,111 @@ artifact_type: deep_reading
 scope: V25
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-24"
-source_boundary: "Japanese manga Volume 25, Chapters 99-102; spoiler boundary through Volume 25 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-24'
+source_boundary: Japanese manga Volume 25, Chapters 99-102; spoiler boundary through Volume 25 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "25"
-chapters: "99-102"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '25'
+chapters: 99-102
 chapter_titles:
-  - "第99話 疾しき影"
-  - "第100話 宣戦布告"
-  - "第101話 戦鎚の巨人"
-  - "第102話 後の祭り"
+- 第99話 疾しき影
+- 第100話 宣戦布告
+- 第101話 戦鎚の巨人
+- 第102話 後の祭り
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v25 (2018) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1mjk1HDP36NI5tCJOKmga8_UauwG4robV"
-source_sha256: "585b0a832357bbbb00cdddc162107cd27703a8e1666a70fc8e3035356aa69854"
+source_file: Attack on Titan v25 (2018) (Digital SD) (KG Manga).cbz
+source_drive_id: 1mjk1HDP36NI5tCJOKmga8_UauwG4robV
+source_sha256: 585b0a832357bbbb00cdddc162107cd27703a8e1666a70fc8e3035356aa69854
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 25 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 25 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_validation_register: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
-prospective_register_drive_id: "1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8"
+prospective_validation_register: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+prospective_register_drive_id: 1mitpIqQSR3RqzBiAqEeZxPrT-jPlODo8
 prospective_register_frozen_before_source_exposure: true
-checkpoint_horizon: "Volume 27 / approximately-75% provisional synthesis before Volume 28"
+checkpoint_horizon: Volume 27 / approximately-75% provisional synthesis before Volume 28
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Jean Kirstein / ジャン・キルシュタイン"
-  - "Floch Forster / フロック・フォルスター"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Falco Grice / ファルコ・グライス"
-  - "Willy Tybur / ヴィリー・タイバー"
-  - "Theo Magath / テオ・マガト"
-  - "Pieck Finger / ピーク・フィンガー"
-  - "Porco Galliard / ポルコ・ガリアード"
-  - "Zeke Jaeger / ジーク・イェーガー"
-  - "Sasha Blouse / サシャ・ブラウス"
+- Eren Jaeger / エレン・イェーガー
+- Reiner Braun / ライナー・ブラウン
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Jean Kirstein / ジャン・キルシュタイン
+- Floch Forster / フロック・フォルスター
+- Gabi Braun / ガビ・ブラウン
+- Falco Grice / ファルコ・グライス
+- Willy Tybur / ヴィリー・タイバー
+- Theo Magath / テオ・マガト
+- Pieck Finger / ピーク・フィンガー
+- Porco Galliard / ポルコ・ガリアード
+- Zeke Jaeger / ジーク・イェーガー
+- Sasha Blouse / サシャ・ブラウス
 major_relationships:
-  - "Eren / Reiner"
-  - "Eren / Mikasa"
-  - "Eren / Paradis expeditionary force"
-  - "Willy Tybur / Theo Magath"
-  - "Gabi / Falco / Warrior-candidate cohort"
-  - "Pieck / Panzer unit"
-  - "Porco / Paradis Scouts"
-  - "Jean / Floch"
+- Eren / Reiner
+- Eren / Mikasa
+- Eren / Paradis expeditionary force
+- Willy Tybur / Theo Magath
+- Gabi / Falco / Warrior-candidate cohort
+- Pieck / Panzer unit
+- Porco / Paradis Scouts
+- Jean / Floch
 major_topics:
-  - recognition without reconciliation
-  - responsibility inside coercive structures
-  - public narrative and private confession
-  - political theater and enemy construction
-  - declaration as speech act and physical act
-  - civilian harm and irreversible moral cost
-  - self-authorship without innocence
-  - strategic sacrifice and political legitimation
-  - retaliation and proportionality
-  - human/Titan terror reversal
-  - model revision under combat uncertainty
-  - survival versus extermination imperatives
+- recognition without reconciliation
+- responsibility inside coercive structures
+- public narrative and private confession
+- political theater and enemy construction
+- declaration as speech act and physical act
+- civilian harm and irreversible moral cost
+- self-authorship without innocence
+- strategic sacrifice and political legitimation
+- retaliation and proportionality
+- human/Titan terror reversal
+- model revision under combat uncertainty
+- survival versus extermination imperatives
 major_visual_motifs:
-  - stage above / basement below
-  - hand offered to Reiner
-  - declaration synchronized with transformation
-  - crowd compressed into blast geometry
-  - War Hammer weapons and cable
-  - Scout silhouettes against Titan bodies
-  - Gabi and Sasha line-of-sight
-  - Eren and War Hammer crystal
-  - Porco surrounded by humans
-  - opposed command faces at volume end
+- stage above / basement below
+- hand offered to Reiner
+- declaration synchronized with transformation
+- crowd compressed into blast geometry
+- War Hammer weapons and cable
+- Scout silhouettes against Titan bodies
+- Gabi and Sasha line-of-sight
+- Eren and War Hammer crystal
+- Porco surrounded by humans
+- opposed command faces at volume end
 major_lexical_targets:
-  - 同じ
-  - 生まれた時から
-  - 進み続ける
-  - 駆逐
-  - 宣戦布告
-  - 悪魔
-  - 世界
-  - 未来
-  - 民間人
-  - 取り返しがつかない
-  - 逃がすな
-  - 殲滅しろ
-  - 死ぬな
-  - 生き延びろ
+- 同じ
+- 生まれた時から
+- 進み続ける
+- 駆逐
+- 宣戦布告
+- 悪魔
+- 世界
+- 未来
+- 民間人
+- 取り返しがつかない
+- 逃がすな
+- 殲滅しろ
+- 死ぬな
+- 生き延びろ
 cumulative_status:
-  - strengthened
-  - revised
-  - prospectively_tested
-  - morally_complicated
-  - open
+- strengthened
+- revised
+- prospectively_tested
+- morally_complicated
+- open
 ---
 
 # 『進撃の巨人』Volume 25 Deep Reading

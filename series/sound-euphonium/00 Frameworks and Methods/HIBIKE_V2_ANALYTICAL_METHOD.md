@@ -5,9 +5,9 @@ scope: FULL_V2
 media: Japanese light novels
 generation: V2
 status: active_provisional
-source_boundary: "Locked core Japanese prose corpus HIBIKE-V01 through HIBIKE-V14; supplements governed by HIBIKE_SOURCE_LOCK.md"
-supersedes: null
-superseded_by: null
+source_boundary: Locked core Japanese prose corpus HIBIKE-V01 through HIBIKE-V14; supplements governed by HIBIKE_SOURCE_LOCK.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -1,34 +1,34 @@
 ---
-title: "<MONOGATARI> V2 V23 Deep Reading - 結物語"
-series: "MONOGATARI"
-artifact_type: "deep_reading"
-scope: "V23"
-generation: "V2"
-status: "canonical"
-source_boundary: "Japanese light novel 『結物語』, supplied archive item 23 結物語.epub"
-supersedes: null
-superseded_by: null
+title: <MONOGATARI> V2 V23 Deep Reading - 結物語
+series: MONOGATARI
+artifact_type: deep_reading
+scope: V23
+generation: V2
+status: canonical
+source_boundary: Japanese light novel 『結物語』, supplied archive item 23 結物語.epub
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-project: "Monogatari V2 second-pass deep reading"
-artifact_id: "MONOGATARI_V2_V23_DEEP_READING"
-version: "1.0"
-date: "2026-08-17"
-volume_code: "V23"
-japanese_title: "結物語"
-archive_position: "Off Season archive spine V23; final numbered Off Season volume"
-source_file: "23 結物語.epub"
-source_drive_id: "1wZkhsPR8z6AQKEGMxymxO--vhmpwlUHr"
-source_sha256: "d2507b8a319cf05e114141ebb947efd848024eee5224e84ec92fc20672795e7e"
+project: Monogatari V2 second-pass deep reading
+artifact_id: MONOGATARI_V2_V23_DEEP_READING
+version: '1.0'
+date: '2026-08-17'
+volume_code: V23
+japanese_title: 結物語
+archive_position: Off Season archive spine V23; final numbered Off Season volume
+source_file: 23 結物語.epub
+source_drive_id: 1wZkhsPR8z6AQKEGMxymxO--vhmpwlUHr
+source_sha256: d2507b8a319cf05e114141ebb947efd848024eee5224e84ec92fc20672795e7e
 source_size_bytes: 2493042
-source_language: "ja"
-source_author: "西尾維新"
-source_provenance_status: "High analytical confidence in supplied Japanese text. Internal notice identifies a January 2017 Kodansha BOX print basis; electronic colophon identifies January 1, 2017 electronic issue. OPF/calibre timestamps are retained only as file-history metadata."
-principal_story_units: "第一話 ぜんかマーメイド / 第二話 のぞみゴーレム / 第三話 みとめウルフ / 第四話 つづらヒューマン"
-narrators: "阿良々木暦, age twenty-three, first-person throughout"
-internal_story_range: "Approximately four years after Araragi left Naoetsu for university. He returns for a four-month police training placement at the experimental 直江津署風説課. The stories span that placement into its final days and a projected coming spring. Exact civil dates are not supplied consistently enough to justify invented day-level chronology."
-spoiler_policy: "Publication-local V23 conclusions may use and revise V01-V22 because V23 is the current publication boundary and closes Off Season. V24 and all Monster/Family Season material are excluded except as explicitly quarantined future questions."
-method_version: "MONOGATARI_V2_ANALYTICAL_METHOD.md"
-reasoning_recommendation_used: "Very High"
+source_language: ja
+source_author: 西尾維新
+source_provenance_status: High analytical confidence in supplied Japanese text. Internal notice identifies a January 2017 Kodansha BOX print basis; electronic colophon identifies January 1, 2017 electronic issue. OPF/calibre timestamps are retained only as file-history metadata.
+principal_story_units: 第一話 ぜんかマーメイド / 第二話 のぞみゴーレム / 第三話 みとめウルフ / 第四話 つづらヒューマン
+narrators: 阿良々木暦, age twenty-three, first-person throughout
+internal_story_range: Approximately four years after Araragi left Naoetsu for university. He returns for a four-month police training placement at the experimental 直江津署風説課. The stories span that placement into its final days and a projected coming spring. Exact civil dates are not supplied consistently enough to justify invented day-level chronology.
+spoiler_policy: Publication-local V23 conclusions may use and revise V01-V22 because V23 is the current publication boundary and closes Off Season. V24 and all Monster/Family Season material are excluded except as explicitly quarantined future questions.
+method_version: MONOGATARI_V2_ANALYTICAL_METHOD.md
+reasoning_recommendation_used: Very High
 ---
 
 # <MONOGATARI> V2 — Volume 23 Deep Reading

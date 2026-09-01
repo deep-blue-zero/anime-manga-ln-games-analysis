@@ -1,13 +1,13 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: deep_reading
-scope: "S3E03-E04"
+scope: S3E03-E04
 generation: V1
 status: historical_legacy
-source_boundary: "First-pass screenshot/subtitle episode bundle(s) supplied in the transcript; visual + subtitle-led reading with speaker attribution inferred where necessary"
-supersedes: null
-superseded_by: null
+source_boundary: First-pass screenshot/subtitle episode bundle(s) supplied in the transcript; visual + subtitle-led reading with speaker attribution inferred where necessary
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 provenance_turn: 50
 extracted: 2026-08-22

@@ -5,103 +5,103 @@ artifact_type: deep_reading
 scope: V33
 generation: V2
 status: canonical
-version: "2.1"
-date: "2026-08-26"
-source_boundary: "Japanese manga Volume 33, Chapters 131-134; spoiler boundary through Volume 33 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+date: '2026-08-26'
+source_boundary: Japanese manga Volume 33, Chapters 131-134; spoiler boundary through Volume 33 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "33"
-chapters: "131-134"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '33'
+chapters: 131-134
 chapter_titles:
-  - "第131話 地鳴らし"
-  - "第132話 自由の翼"
-  - "第133話 罪人達"
-  - "第134話 絶望の淵にて"
+- 第131話 地鳴らし
+- 第132話 自由の翼
+- 第133話 罪人達
+- 第134話 絶望の淵にて
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v33 (2021) (Digital SD) (KG Manga).cbz"
-source_drive_id: "1ZgkfRLbHE4a9b6RJpUEEkTDrgnPi1BPq"
-source_sha256: "075804910c9b434ae8338bc7c45cbcd92713bf4b64c440ae30c9af2adf082916"
+source_file: Attack on Titan v33 (2021) (Digital SD) (KG Manga).cbz
+source_drive_id: 1ZgkfRLbHE4a9b6RJpUEEkTDrgnPi1BPq
+source_sha256: 075804910c9b434ae8338bc7c45cbcd92713bf4b64c440ae30c9af2adf082916
 source_size_bytes: 106184704
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 33 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 33 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
-prospective_material_source: "AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md"
+prospective_material_source: AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
 prospective_register_frozen_before_source_exposure: true
-previous_checkpoint: "AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md"
+previous_checkpoint: AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
 post_checkpoint_sequence_position: 6
-next_volume_boundary: "Volume 34 remains analytically locked until V33 integration is complete"
+next_volume_boundary: Volume 34 remains analytically locked until V33 integration is complete
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Annie Leonhart / アニ・レオンハート"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Jean Kirstein / ジャン・キルシュタイン"
-  - "Connie Springer / コニー・スプリンガー"
-  - "Levi Ackerman / リヴァイ・アッカーマン"
-  - "Hange Zoe / ハンジ・ゾエ"
-  - "Falco Grice / ファルコ・グライス"
-  - "Gabi Braun / ガビ・ブラウン"
-  - "Kiyomi Azumabito / キヨミ・アズマビト"
-  - "Karina Braun / カリナ・ブラウン"
-  - "Mr. Leonhart / レオンハート父"
-  - "Muller / ミュラー"
+- Eren Jaeger / エレン・イェーガー
+- Armin Arlert / アルミン・アルレルト
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Annie Leonhart / アニ・レオンハート
+- Reiner Braun / ライナー・ブラウン
+- Jean Kirstein / ジャン・キルシュタイン
+- Connie Springer / コニー・スプリンガー
+- Levi Ackerman / リヴァイ・アッカーマン
+- Hange Zoe / ハンジ・ゾエ
+- Falco Grice / ファルコ・グライス
+- Gabi Braun / ガビ・ブラウン
+- Kiyomi Azumabito / キヨミ・アズマビト
+- Karina Braun / カリナ・ブラウン
+- Mr. Leonhart / レオンハート父
+- Muller / ミュラー
 major_topics:
-  - freedom as adversarial permission rather than reciprocal jurisdiction
-  - desire beyond defensive necessity
-  - guilt without paralysis
-  - responsibility for inherited hatred
-  - dialogue and the explicit foreclosure of dialogue
-  - adult responsibility for children
-  - command succession and the Survey Corps ethic of understanding
-  - romantic attachment under catastrophe
-  - mourning, curiosity, and identity persistence
-  - inherited Titan traits and embodied uncertainty
-  - global civilian personhood under the Rumbling
-  - the baby as anti-instrumental future image
-  - mutual hatred and retrospective institutional confession
+- freedom as adversarial permission rather than reciprocal jurisdiction
+- desire beyond defensive necessity
+- guilt without paralysis
+- responsibility for inherited hatred
+- dialogue and the explicit foreclosure of dialogue
+- adult responsibility for children
+- command succession and the Survey Corps ethic of understanding
+- romantic attachment under catastrophe
+- mourning, curiosity, and identity persistence
+- inherited Titan traits and embodied uncertainty
+- global civilian personhood under the Rumbling
+- the baby as anti-instrumental future image
+- mutual hatred and retrospective institutional confession
 major_visual_motifs:
-  - child Eren above the clouds against adult Eren's mass killing
-  - Ramzi beneath the Rumbling after Eren's apology
-  - Armin and Annie isolated in shipboard quiet
-  - Hange facing the Wall Titans alone
-  - Levi's fist-to-heart farewell to Hange
-  - fallen Survey Corps gathered in Hange's liminal closing image
-  - child Eren and Ymir facing the coalition in Paths
-  - a train carrying Marleyan and Eldian families together toward Fort Salta
-  - a baby passed hand-to-hand above a crowd falling from a cliff
-  - airships bombing the Founder and being destroyed
-  - the coalition leaping from the flying boat onto Eren's Founder body
-  - the final challenge asking where Eren's freedom actually is
+- child Eren above the clouds against adult Eren's mass killing
+- Ramzi beneath the Rumbling after Eren's apology
+- Armin and Annie isolated in shipboard quiet
+- Hange facing the Wall Titans alone
+- Levi's fist-to-heart farewell to Hange
+- fallen Survey Corps gathered in Hange's liminal closing image
+- child Eren and Ymir facing the coalition in Paths
+- a train carrying Marleyan and Eldian families together toward Fort Salta
+- a baby passed hand-to-hand above a crowd falling from a cliff
+- airships bombing the Founder and being destroyed
+- the coalition leaping from the flying boat onto Eren's Founder body
+- the final challenge asking where Eren's freedom actually is
 major_lexical_targets:
-  - 自由
-  - 地鳴らし
-  - ガッカリした
-  - 会いたかった
-  - バケモノ
-  - 理解することをあきらめない
-  - 心臓を捧げよ
-  - 話し合い
-  - 罪
-  - 戦え
-  - 憎しみ
-  - 責任
-  - 未来
-  - 生き残る
+- 自由
+- 地鳴らし
+- ガッカリした
+- 会いたかった
+- バケモノ
+- 理解することをあきらめない
+- 心臓を捧げよ
+- 話し合い
+- 罪
+- 戦え
+- 憎しみ
+- 責任
+- 未来
+- 生き残る
 ---
 
 # 『進撃の巨人』Volume 33 Deep Reading

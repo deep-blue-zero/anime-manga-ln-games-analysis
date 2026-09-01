@@ -1,16 +1,16 @@
 ---
-title: "〈物語〉シリーズ V1 Provenance Manifest"
-series: "MONOGATARI"
-artifact_type: "manifest"
-scope: "V1_LEGACY"
-generation: "V2"
-status: "canonical"
-source_boundary: "Legacy V1 analytical provenance used to seed V2 claim revision"
-supersedes: null
-superseded_by: null
+title: 〈物語〉シリーズ V1 Provenance Manifest
+series: MONOGATARI
+artifact_type: manifest
+scope: V1_LEGACY
+generation: V2
+status: canonical
+source_boundary: Legacy V1 analytical provenance used to seed V2 claim revision
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.1"
-date: "2026-08-16"
+version: '1.1'
+date: '2026-08-16'
 ---
 
 # V1 Provenance Manifest

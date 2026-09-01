@@ -4,13 +4,13 @@ artifact_type: evidence_audit
 scope: E19
 generation: V2
 status: active_provisional
-source_boundary: "Episode 19 supplemental video evidence only; Clip 01 covers the E-Soul vs. Ghostblade pod-chamber fight; E20 excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 19 supplemental video evidence only; Clip 01 covers the E-Soul vs. Ghostblade pod-chamber fight; E20 excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 19 Motion-Dependent Video Evidence Audit"
-canonical_parent: "TBHX_V2_E19_DEEP_READING.md"
-related_visual_artifact: "TBHX_V2_E19_VISUAL_MICROSEQUENCE_LEDGER.md"
+title: To Be Hero X V2 — Episode 19 Motion-Dependent Video Evidence Audit
+canonical_parent: TBHX_V2_E19_DEEP_READING.md
+related_visual_artifact: TBHX_V2_E19_VISUAL_MICROSEQUENCE_LEDGER.md
 audit_clip_count: 4
 ---
 

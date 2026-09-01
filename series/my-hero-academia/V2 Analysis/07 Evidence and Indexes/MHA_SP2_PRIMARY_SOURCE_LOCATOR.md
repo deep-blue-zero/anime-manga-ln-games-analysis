@@ -4,9 +4,9 @@ artifact_type: locator_index
 scope: V01-V35
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 1 through Volume 40"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 1 through Volume 40
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

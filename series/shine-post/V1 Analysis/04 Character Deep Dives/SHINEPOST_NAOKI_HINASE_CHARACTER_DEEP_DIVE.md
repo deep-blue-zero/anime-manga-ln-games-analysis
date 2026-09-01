@@ -1,23 +1,23 @@
 ---
-series: "SHINEPOST"
-artifact_type: "character_monograph"
-scope: "Naoki Hinase"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episodes 1-12 V1 analysis"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: character_monograph
+scope: Naoki Hinase
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episodes 1-12 V1 analysis
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 30
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
-Yes. Naoki has enough material for a real deep dive, though with one important limitation: *SHINE POST* gives us his **dramatic function and moral psychology** much more clearly than his full biography. We know the shape of his wound, his past connection to top idols, his guilt, his methods, and his restored purpose; we do **not** get a fully dramatized account of the earlier collapse that made him quit. That gap matters, but it does not make him thin. If anything, he is one of the more authored idol-manager protagonists because the story gives him a specific ethical problem rather than letting him function as a neutral audience surrogate. The broader series synthesis already identified him as “a wounded adult whose own arc mirrors Haru’s,” and as someone whose lie-vision makes him a reader of the gap between surface and truth.[
+Yes. Naoki has enough material for a real deep dive, though with one important limitation: *SHINE POST* gives us his **dramatic function and moral psychology** much more clearly than his full biography. We know the shape of his wound, his past connection to top idols, his guilt, his methods, and his restored purpose; we do **not** get a fully dramatized account of the earlier collapse that made him quit. That gap matters, but it does not make him thin. If anything, he is one of the more authored idol-manager protagonists because the story gives him a specific ethical problem rather than letting him function as a neutral audience surrogate. The broader series synthesis already identified him as “a wounded adult whose own arc mirrors Haru’s,” and as someone whose lie-vision makes him a reader of the gap between surface and truth.
 
 SHINE POST Truthful Performance
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=beac94a3-5f7a-4892-b133-b2f64cad1104&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Naoki Hinase: the wounded reader of lies
 
@@ -55,11 +55,11 @@ So Naoki is not merely “good at reading people.” He is built to read the cen
 > Performance can also hide truth.
 > The difference matters.
 
-This is why he initially resists management. If you can see lies, idol work becomes morally dangerous. Idols are performers. They must construct images. They must present emotion in form. They must stand before fans as something larger than ordinary private selfhood. A naive person might say, “Just be honest.” Naoki knows that is not enough. Raw honesty can be useless, destructive, or illegible. The series’ own structure emphasizes that idol truth “has to be given form,” and performance becomes powerful when private contradiction becomes receivable by others.[
+This is why he initially resists management. If you can see lies, idol work becomes morally dangerous. Idols are performers. They must construct images. They must present emotion in form. They must stand before fans as something larger than ordinary private selfhood. A naive person might say, “Just be honest.” Naoki knows that is not enough. Raw honesty can be useless, destructive, or illegible. The series’ own structure emphasizes that idol truth “has to be given form,” and performance becomes powerful when private contradiction becomes receivable by others.
 
 SHINE POST Truthful Performance
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=beac94a3-5f7a-4892-b133-b2f64cad1104&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 Naoki’s gift therefore makes him both suited and unsuited to idol management. He can perceive the lie. But if he mishandles the lie, he can hurt the person using it to survive.
 
@@ -93,11 +93,11 @@ He does not say to TiNgS, “Believe in yourselves and work hard.” In fact, th
 
 > Effort must be placed where effort can matter.
 
-The earlier synthesis names this as one of his central principles: effort must be staged, directed, placed before the right audience, and given the right form, or sincere labor disappears.[
+The earlier synthesis names this as one of his central principles: effort must be staged, directed, placed before the right audience, and given the right form, or sincere labor disappears.
 
 SHINE POST Truthful Performance
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a39d3b0-7764-8329-8bb0-74cce962879d?messageId=beac94a3-5f7a-4892-b133-b2f64cad1104&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 That is visible in almost every major intervention.
 

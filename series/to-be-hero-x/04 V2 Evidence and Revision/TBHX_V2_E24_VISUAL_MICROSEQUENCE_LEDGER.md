@@ -7,11 +7,11 @@ responsibility: visual_microsequence_evidence
 status: canonical
 freeze_state: frozen
 generation: V2
-source_boundary: "Episode 24 screenshots/contact sheets; sponsor interstitial and merchandise promotion excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Episode 24 screenshots/contact sheets; sponsor interstitial and merchandise promotion excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 24 Visual Microsequence Ledger"
+title: To Be Hero X V2 — Episode 24 Visual Microsequence Ledger
 ---
 
 # To Be Hero X V2 — Episode 24 Visual Microsequence Ledger

@@ -4,19 +4,19 @@ artifact_type: checkpoint
 scope: SUPPLEMENTARY_INTEGRATION
 generation: V2
 status: canonical
-source_boundary: "Locked Japanese numbered corpus V01-V30 plus controlled supplementary admissions from 佰物語 (SUP-C) and 短物語 (SUP-A), with 化物語 アニメコンプリートガイドブック retained only as GUIDE-001–005 dual textual witnesses"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese numbered corpus V01-V30 plus controlled supplementary admissions from 佰物語 (SUP-C) and 短物語 (SUP-A), with 化物語 アニメコンプリートガイドブック retained only as GUIDE-001–005 dual textual witnesses
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 governing_method: MONOGATARI_V2_ANALYTICAL_METHOD.md
 governing_architecture: MONOGATARI_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
 placement_authority: MONOGATARI_V2_SUPPLEMENTARY_SOURCE_PLACEMENT_AUDIT.md
 numbered_boundary: V30
-supplementary_boundary: "SUPP_HYAKUMONOGATARI + SUPP_MIJIKANAMONOGATARI"
-live_ledger_boundary: "L01-L09 v1.31-mijikanamonogatari / C764"
-phase_completed: "Phase 2 supplementary controlled reading and integration"
-next_phase: "Phase 3 evidence and architecture stabilization"
-next_artifact: "21_VOLUME_AND_ARC_EVIDENCE_LEDGER.md"
+supplementary_boundary: SUPP_HYAKUMONOGATARI + SUPP_MIJIKANAMONOGATARI
+live_ledger_boundary: L01-L09 v1.31-mijikanamonogatari / C764
+phase_completed: Phase 2 supplementary controlled reading and integration
+next_phase: Phase 3 evidence and architecture stabilization
+next_artifact: 21_VOLUME_AND_ARC_EVIDENCE_LEDGER.md
 ---
 
 # MONOGATARI V2 — Supplementary Integration Checkpoint

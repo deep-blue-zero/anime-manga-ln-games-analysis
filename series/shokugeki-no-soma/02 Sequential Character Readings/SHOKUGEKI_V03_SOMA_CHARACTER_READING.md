@@ -4,10 +4,10 @@ artifact_type: soma_character_reading
 scope: V03
 generation: V1
 status: canonical
-source_boundary: "Original Japanese manga Volume 3 mainline Chapters 15-21. The unrelated Saeki Shun debut one-shot 'キミと私の恋愛相談' is excluded. '番外編 CUOCO IN ITALIA' is Takumi-focused supplementary material and is not used as direct Soma evidence."
-source_file: "[附田祐斗×佐伯俊] 食戟のソーマ 第03巻.cbz"
-source_drive_id: "1YPXp7kBXvwLgrGAIdQHgemGLq0bAH303"
-source_sha256: "16fceceb8c958a4b5c7b575573d7f3852e05e55811f9ed26120c72fdea7c6fed"
+source_boundary: Original Japanese manga Volume 3 mainline Chapters 15-21. The unrelated Saeki Shun debut one-shot 'キミと私の恋愛相談' is excluded. '番外編 CUOCO IN ITALIA' is Takumi-focused supplementary material and is not used as direct Soma evidence.
+source_file: '[附田祐斗×佐伯俊] 食戟のソーマ 第03巻.cbz'
+source_drive_id: 1YPXp7kBXvwLgrGAIdQHgemGLq0bAH303
+source_sha256: 16fceceb8c958a4b5c7b575573d7f3852e05e55811f9ed26120c72fdea7c6fed
 source_image_count: 204
 supersedes: []
 superseded_by: []

@@ -1,10 +1,10 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: corpus_map
-scope: "Current analytical project state"
+scope: Current analytical project state
 generation: V1
 status: canonical
-source_boundary: "Promoted Blue Archive V1 Japanese canonical corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; canonical and derived builds passed blocking audits"
+source_boundary: Promoted Blue Archive V1 Japanese canonical corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; canonical and derived builds passed blocking audits
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

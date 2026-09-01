@@ -5,21 +5,21 @@ scope: E15
 generation: V2
 status: canonical
 freeze_state: prospective_frozen
-source_boundary: "Mandarin anime Episode 15 analytical bundle; S01E01-S01E15 broadcast knowledge only; explicit next-episode preview excluded"
-supersedes: null
-superseded_by: null
+source_boundary: Mandarin anime Episode 15 analytical bundle; S01E01-S01E15 broadcast knowledge only; explicit next-episode preview excluded
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Episode 15 Deep Reading"
+title: To Be Hero X V2 — Episode 15 Deep Reading
 season: 1
 episode: 15
 phase: 1
-analysis_version: "2.0"
-source_bundle: "BHX_s01e15_screenshots.zip"
-source_bundle_sha256: "9a6b88a7a42e4205092210d98dedb705035282ea5d1f299ba20387a33460e705"
+analysis_version: '2.0'
+source_bundle: BHX_s01e15_screenshots.zip
+source_bundle_sha256: 9a6b88a7a42e4205092210d98dedb705035282ea5d1f299ba20387a33460e705
 source_bundle_bytes: 241061929
 source_duration_seconds: 1520.768
-program_start_seconds: 41.750
-analysis_start_seconds: 41.500
+program_start_seconds: 41.75
+analysis_start_seconds: 41.5
 mandarin_cue_count: 280
 mandarin_ocr_mean_confidence: 0.994076
 mandarin_ocr_median_confidence: 0.998908
@@ -29,12 +29,12 @@ japanese_paired_mandarin_cues: 263
 japanese_aligned_cue_count: 273
 contact_sheet_count: 49
 kept_screenshot_count: 977
-spoiler_boundary: "S01E01-S01E15 only"
-primary_spoken_language: "Mandarin Chinese"
-primary_text_access_layer: "reconstructed Simplified Chinese hardsub ASS"
-secondary_language_witness: "semantically aligned Japanese reference ASS"
-audio_status: "complete synchronized Mandarin MP3 present; detailed subjective audition deferred"
-naming_authority: "TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state"
+spoiler_boundary: S01E01-S01E15 only
+primary_spoken_language: Mandarin Chinese
+primary_text_access_layer: reconstructed Simplified Chinese hardsub ASS
+secondary_language_witness: semantically aligned Japanese reference ASS
+audio_status: complete synchronized Mandarin MP3 present; detailed subjective audition deferred
+naming_authority: TBHX_NAME_LOCALIZATION_CROSSWALK.md live active_provisional state
 ---
 
 # To Be Hero X V2 — Episode 15 Deep Reading

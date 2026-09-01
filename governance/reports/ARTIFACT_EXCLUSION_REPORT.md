@@ -2,7 +2,17 @@
 
 ## Scope
 
-This report covers the integrated U149 first tranche, the P02 large-structured-text boundary tranche, the partial P03 native-document/native-sheet tranche, the P04 ZIP/reference boundary, G5-T01 Maebashi Witches V1, G5-T02 Mass Effect comparative media, G5-T03 Genshin Impact Furina V1, G5-T04 Cinderella Girls mobile-game analysis, G5-T05 Blue Archive Prologue/Chapter 1 analysis, G5-T06 Youjo Senki V2 analysis, and G5-T07 Legend of the Galactic Heroes analysis. It is not the final archive-wide exclusion review.
+This report summarizes the complete approved G5 migration boundary. The authoritative row-level review remains local migration evidence because it contains source-environment paths and identifiers that are not required as public repository content.
+
+## Final aggregate disposition
+
+| Terminal action | Records | Git treatment |
+|---|---:|---|
+| `REFERENCE_DRIVE` | 2,661 | No payload committed; public-safe provenance and hashes only where needed |
+| `OMIT_EMPTY` | 84 | Empty structural source omitted |
+| `VERIFIED_EXCLUDED` | 7 | No payload committed after review |
+
+The complete 2,752-row TSV has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8`. The aggregate reconciliation receipt has SHA-256 `c262bf5e0569c6bea571d08dae170af4bc5bcf268a340e5911fd7bd3d9db8f6f`. Binary archives, source media, scans, large generated corpora, redundant release bundles, and native Office/PDF originals with sufficient text derivatives remain outside Git unless explicitly named by a future exception.
 
 ## U149 tranche
 
@@ -36,7 +46,7 @@ The tracked derivatives contain one Markdown corpus map, 17 UTF-8/LF TSV workshe
 
 ## P04 ZIP/reference boundary
 
-P04 records six archive identities totaling 814,501 bytes and materializes none of them. The frozen source slice has SHA-256 `4c2130e9608ec85ea9b1ca02fe5b0ed4c37f6108979eb950c9f87e12308a6c04`; the validated reference-only receipt has SHA-256 `a802b0765d51109b4c2fa1bc18a78d42e772589073e522f706aa49d8b9ffbce4`; and the representation slice is `null`. The two same-logical-path Temari objects and two same-logical-path Lilja objects remain distinct by Drive file ID, byte length, and SHA-256. No archive bytes, extracted members, LFS objects, or Gakuen Idolmaster analysis tree are tracked.
+P04 records six archive identities totaling 814,501 bytes and materializes none of them. The frozen source slice has SHA-256 `4c2130e9608ec85ea9b1ca02fe5b0ed4c37f6108979eb950c9f87e12308a6c04`; the validated reference-only receipt has SHA-256 `a802b0765d51109b4c2fa1bc18a78d42e772589073e522f706aa49d8b9ffbce4`; and the representation slice is `null`. The two same-logical-path Temari objects and two same-logical-path Lilja objects remain distinct by Drive file ID, byte length, and SHA-256. At the P04 pilot checkpoint, no archive bytes, extracted members, LFS objects, or Gakuen Idolmaster analysis tree were tracked. The later aggregate migration adds eligible Gakuen Idolmaster text while the six named archives remain destination-free references.
 
 | Drive file ID | Source archive identity | Bytes | SHA-256 | Disposition |
 |---|---|---:|---|---|

@@ -5,9 +5,9 @@ scope: V2_PHASE0
 media: Japanese prose and official paratext
 generation: V2
 status: canonical
-source_boundary: "Verified Japanese EPUB core HIBIKE-V01 through HIBIKE-V14, V1 OCR provenance, acquired Kyoto Animation illustration paratext, and identified supplemental-source candidates as of 2026-08-19"
-supersedes: null
-superseded_by: null
+source_boundary: Verified Japanese EPUB core HIBIKE-V01 through HIBIKE-V14, V1 OCR provenance, acquired Kyoto Animation illustration paratext, and identified supplemental-source candidates as of 2026-08-19
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

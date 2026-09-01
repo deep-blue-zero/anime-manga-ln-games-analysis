@@ -1,34 +1,35 @@
 ---
-series: "OPM"
-artifact_type: "character_monograph"
-scope: "TATSUMAKI"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "V1 character analysis through Volume 34: Tatsumaki"
-supersedes: null
-superseded_by: null
+series: OPM
+artifact_type: character_monograph
+scope: TATSUMAKI
+generation: V1
+status: historical_legacy
+source_boundary: 'V1 character analysis through Volume 34: Tatsumaki'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - One Punch Man Analysis - Full Transcript.md"
-source_turns: [52]
+source_transcript: Manga and anime discussions - One Punch Man Analysis - Full Transcript.md
+source_turns:
+- 52
 ---
 
 <!-- transcript_source_turn: 52 -->
 
 ## Tatsumaki character deep dive
 
-Grounded in the prior *One Punch Man* synthesis, Saitama-relations reference, and power-system/satire documents through Volume 34, especially the repeated framing of Tatsumaki as overwhelming protective power shaped by trauma, isolation, and defensive self-reliance.[
+Grounded in the prior *One Punch Man* synthesis, Saitama-relations reference, and power-system/satire documents through Volume 34, especially the repeated framing of Tatsumaki as overwhelming protective power shaped by trauma, isolation, and defensive self-reliance.
 
 One Punch Man synthesis
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bfacfce7-f340-4c06-86df-298103a5465f&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama Character Relationships…
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=bf3bc976-98a4-4a1a-aeb5-f1e10efe143c&conversation_save=1)[
+ _(historical external conversation reference unavailable in Git)_
 
 Saitama deep dive document
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3da84f-96bc-83ea-a7f8-5bfd62b7ad19?messageId=01aa9536-a56a-4fa5-85d8-bcf0207f787a&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 # Tatsumaki Deep Dive: Personality, Strength, Voice, Ethics, Philosophy, and Comparative Significance
 

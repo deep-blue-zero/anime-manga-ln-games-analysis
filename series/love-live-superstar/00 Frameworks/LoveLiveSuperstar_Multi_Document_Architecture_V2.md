@@ -1,16 +1,16 @@
 ---
-title: "Love Live! Superstar!! — Multi-Document Analysis and Synthesis Architecture V2"
+title: Love Live! Superstar!! — Multi-Document Analysis and Synthesis Architecture V2
 series: LLS
 artifact_type: synthesis_architecture
-scope: "TV S1E01-S3E12"
+scope: TV S1E01-S3E12
 generation: V2.3
-version: "2.3"
-date: "2026-08-26"
+version: '2.3'
+date: '2026-08-26'
 status: canonical
-architecture_status: "Paired architecture for LoveLiveSuperstar_Analytical_Method_V2.md"
-source_boundary: "Japanese-audio television corpus; sequential semantic seal applies"
-supersedes: null
-superseded_by: null
+architecture_status: Paired architecture for LoveLiveSuperstar_Analytical_Method_V2.md
+source_boundary: Japanese-audio television corpus; sequential semantic seal applies
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

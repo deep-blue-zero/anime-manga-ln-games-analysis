@@ -1,15 +1,16 @@
 ---
-series: "86-Eighty-Six"
-series_id: "86"
-artifact_type: "historical_current_state_transition"
-scope: "V2_ANALYSIS_CURRENT_STATE"
-generation: "V2"
-status: "historical_legacy"
-source_boundary: "Original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence"
-release_id: "86-V2-V01-V14-1.0"
-archived_on: "2026-08-20"
-supersedes: null
-superseded_by: "00_README_AND_CORPUS_MAP.md"
+series: 86-Eighty-Six
+series_id: '86'
+artifact_type: historical_current_state_transition
+scope: V2_ANALYSIS_CURRENT_STATE
+generation: V2
+status: historical_legacy
+source_boundary: Original-Japanese Volumes 1-14; Alter.1 audited supplemental; Alter.2 excluded from mainline evidence
+release_id: 86-V2-V01-V14-1.0
+archived_on: '2026-08-20'
+supersedes: []
+superseded_by:
+- series/86-eighty-six/V2 Analysis/00_README_AND_CORPUS_MAP.md
 do_not_use_as_current_authority: true
 ---
 

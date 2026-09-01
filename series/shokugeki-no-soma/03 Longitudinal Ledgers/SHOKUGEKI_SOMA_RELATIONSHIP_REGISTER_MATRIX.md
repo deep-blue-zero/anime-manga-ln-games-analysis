@@ -4,7 +4,7 @@ artifact_type: relationship_register_matrix
 scope: SOMA_RELATIONSHIPS_V01_V03_V08_V13_V19_V25_V30_V36
 generation: V1
 status: active_provisional
-source_boundary: "Original Japanese manga sampled volumes; populated through final V36 endpoint holdout"
+source_boundary: Original Japanese manga sampled volumes; populated through final V36 endpoint holdout
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

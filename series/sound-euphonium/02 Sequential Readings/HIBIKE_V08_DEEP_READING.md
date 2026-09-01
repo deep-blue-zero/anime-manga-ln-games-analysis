@@ -4,9 +4,9 @@ artifact_type: deep_reading
 scope: V08
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V08 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校吹奏楽部、波乱の第二楽章 前編』"
-supersedes: null
-superseded_by: null
+source_boundary: 'HIBIKE-V08 locked Japanese EPUB: 『響け！ ユーフォニアム　北宇治高校吹奏楽部、波乱の第二楽章 前編』'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

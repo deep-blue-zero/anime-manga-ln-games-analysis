@@ -1,22 +1,22 @@
 ---
 series: OPM
-series_title: "One Punch Man"
-series_title_jp: "ワンパンマン"
+series_title: One Punch Man
+series_title_jp: ワンパンマン
 artifact_type: deep_reading
 scope: V14
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 14 only; prospective observational boundary V01-V14"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 14 only; prospective observational boundary V01-V14
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_file: "One Punch Man - Volume 14 [Japanese].cbz"
-source_drive_id: "10UK-15mNcUZveaNvoDEAu53wFK4Q9p9g"
-source_sha256: "da4d20f12be4785db5eae6ca138d83fc43535d82ecd7e427b57c29c7f37a6518"
+source_file: One Punch Man - Volume 14 [Japanese].cbz
+source_drive_id: 10UK-15mNcUZveaNvoDEAu53wFK4Q9p9g
+source_sha256: da4d20f12be4785db5eae6ca138d83fc43535d82ecd7e427b57c29c7f37a6518
 source_images: 216
 source_bytes: 64937162
-method: "OPM_ANALYTICAL_METHOD_V2.md"
-character_modeling_schema: "OPM_CHARACTER_MODELING_SCHEMA.md"
+method: OPM_ANALYTICAL_METHOD_V2.md
+character_modeling_schema: OPM_CHARACTER_MODELING_SCHEMA.md
 prospective_prior_boundary: V13
 created: 2026-08-25
 ---

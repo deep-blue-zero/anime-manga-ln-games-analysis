@@ -4,9 +4,9 @@ artifact_type: ledger
 scope: FAMILY_CIVILIANS_SOCIAL_ACTORS
 generation: V2
 status: canonical
-source_boundary: "Japanese manga V2 reread; currently through Volume 39"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese manga V2 reread; currently through Volume 39
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

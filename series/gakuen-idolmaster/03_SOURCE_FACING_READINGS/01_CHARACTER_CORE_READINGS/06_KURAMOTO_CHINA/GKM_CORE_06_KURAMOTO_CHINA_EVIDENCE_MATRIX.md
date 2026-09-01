@@ -4,11 +4,11 @@ artifact_type: evidence_matrix
 scope: CHARACTER_KURAMOTO_CHINA_PHASE3_CORE
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — China complete character bundle; AV uninspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — China complete character bundle; AV uninspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-15"
+last_updated: '2026-08-15'
 ---
 
 # GKM CORE 06 — KURAMOTO CHINA EVIDENCE / FALSIFICATION MATRIX

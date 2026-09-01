@@ -22455,11 +22455,11 @@ Most first-pass/second-pass projects could simply absorb corrections silently.
 
 I would not do that here.
 
-We've already learned from the selected voiced episodes that access to complete Japanese audio can change the **mechanism** of interpretation without necessarily overturning its conclusion.[
+We've already learned from the selected voiced episodes that access to complete Japanese audio can change the **mechanism** of interpretation without necessarily overturning its conclusion.
 
 Voice as Dramatic Mechanism
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3599cd-3924-8332-9633-6d4b4d87caf7?messageId=4caa867c-db0d-47ea-8886-6881347d9748&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 So I would produce a dedicated revision document.
 
@@ -22676,11 +22676,11 @@ The clean hierarchy I would use is:
 
 That third layer is more valuable than it might initially sound.
 
-Our earlier voiced-episode work already showed why. The strongest refinement from adding audio was not simply hearing emotional tone; it was recovering material that ordinary dialogue text underdescribes—huffs, hesitations, breath, crying, shifts in tempo, and other nonlexical behavior.[
+Our earlier voiced-episode work already showed why. The strongest refinement from adding audio was not simply hearing emotional tone; it was recovering material that ordinary dialogue text underdescribes—huffs, hesitations, breath, crying, shifts in tempo, and other nonlexical behavior.
 
 Voice as Dramatic Mechanism
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3599cd-3924-8332-9633-6d4b4d87caf7?messageId=4caa867c-db0d-47ea-8886-6881347d9748&conversation_save=1)Margarete is the obvious example: a 「ふん」 can function differently depending on whether it follows contempt, reluctant agreement, praise, embarrassment, or tear-denial. If the English track explicitly captions **“Hmph”** while the Japanese track omits the sound entirely, that gives us a useful **search index into the audio**.
+ _(historical external conversation reference unavailable in Git)_Margarete is the obvious example: a 「ふん」 can function differently depending on whether it follows contempt, reluctant agreement, praise, embarrassment, or tear-denial. If the English track explicitly captions **“Hmph”** while the Japanese track omits the sound entirely, that gives us a useful **search index into the audio**.
 
 It should not become evidence that the Japanese word was literally 「ふん」 without listening, but it tells us:
 
@@ -23029,11 +23029,11 @@ The English subtitles therefore shouldn't influence our interpretation of **what
 
 But they can strongly improve our ability to determine **what happened acoustically**.
 
-Given how productive a few tiny Margarete 「ふん」 sounds already proved in the sampled analysis, I think the extra subtitle track has a very favorable cost-to-value ratio. It is tiny in storage terms and potentially gives us hundreds of otherwise easy-to-miss vocal annotations across the full 36-episode corpus.[
+Given how productive a few tiny Margarete 「ふん」 sounds already proved in the sampled analysis, I think the extra subtitle track has a very favorable cost-to-value ratio. It is tiny in storage terms and potentially gives us hundreds of otherwise easy-to-miss vocal annotations across the full 36-episode corpus.
 
 Voice as Dramatic Mechanism
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3599cd-3924-8332-9633-6d4b4d87caf7?messageId=4caa867c-db0d-47ea-8886-6881347d9748&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 So if Codex has the English tracks available alongside the Japanese ones, **I would definitely include them in every second-pass episode bundle**.
 

@@ -4,10 +4,12 @@ artifact_type: deep_reading
 scope: V12
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V12 locked Japanese EPUB: Decisive Final Movement Part 2"
-supersedes: "V1 analytical authority SOUND! EUPHONIUM - Novel 10.md"
-superseded_by: null
+source_boundary: 'HIBIKE-V12 locked Japanese EPUB: Decisive Final Movement Part 2'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
+legacy_supersession_notes:
+- 'legacy supersedes: V1 analytical authority SOUND! EUPHONIUM - Novel 10.md'
 ---
 
 # Sound! Euphonium V2 - HIBIKE-V12 Deep Reading

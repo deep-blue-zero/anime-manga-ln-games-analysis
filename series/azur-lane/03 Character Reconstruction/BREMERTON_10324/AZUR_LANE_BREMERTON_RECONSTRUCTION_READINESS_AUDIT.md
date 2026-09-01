@@ -5,14 +5,14 @@ generation: V1
 semantic_authority: CN
 azurlane_data_commit: 4cca5c2437007b62d30a6235fcfc0c0203231378
 story_lua_witness_commit: d93f83db24195981c5f5ca90ac5e29ce0580b12c
-source_package_generated_at: "2026-08-23T18:55:47.426186Z"
-supersedes: null
-superseded_by: null
+source_package_generated_at: '2026-08-23T18:55:47.426186Z'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 artifact_type: audit
 scope: BREMERTON_10324_R0_SOURCE_READINESS
 status: canonical
-source_boundary: "Pinned Bremerton character build 2.1.0, CN-origin story/dialogue/social evidence, JP/EN/TW/KR regional witnesses, and JP audio mapping metadata"
+source_boundary: Pinned Bremerton character build 2.1.0, CN-origin story/dialogue/social evidence, JP/EN/TW/KR regional witnesses, and JP audio mapping metadata
 readiness_grade: A
 readiness_score: 87.75
 ---

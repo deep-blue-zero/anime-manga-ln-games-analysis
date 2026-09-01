@@ -169,8 +169,8 @@ supporting_evidence_artifacts:
 - TBHX_V2_E23_VIDEO_EVIDENCE_AUDIT.md
 - TBHX_V2_E24_VIDEO_EVIDENCE_AUDIT.md
 - TBHX_V2_E24_VISUAL_MICROSEQUENCE_LEDGER.md
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: '2026-08-17'
 last_updated: '2026-08-17'

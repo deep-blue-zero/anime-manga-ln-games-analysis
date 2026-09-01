@@ -4,9 +4,9 @@ artifact_type: deep_reading
 scope: V02
 generation: V2
 status: canonical
-source_boundary: "Japanese tankobon Volume 2; Drive CBZ SHA-256 3cf6518c91256be7e33a5c36635e593fb1905d899bd1480d088cdd767a289b88"
-supersedes: null
-superseded_by: null
+source_boundary: Japanese tankobon Volume 2; Drive CBZ SHA-256 3cf6518c91256be7e33a5c36635e593fb1905d899bd1480d088cdd767a289b88
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-08-24

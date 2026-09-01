@@ -3,11 +3,13 @@ series: TBHX
 artifact_type: handoff
 scope: E13_to_E14
 generation: V2
-status: active_provisional
-source_boundary: "Canonical V2 state through S01E13; E13 preview excluded"
-supersedes: TBHX_V2_PHASE1_E12_HANDOFF.md
-superseded_by: null
-do_not_use_as_current_authority: false
+status: superseded
+source_boundary: Canonical V2 state through S01E13; E13 preview excluded
+supersedes:
+- series/to-be-hero-x/01 V2 Episode Deep Readings/TBHX_V2_PHASE1_E12_HANDOFF.md
+superseded_by:
+- series/to-be-hero-x/01 V2 Episode Deep Readings/TBHX_V2_PHASE1_E14_HANDOFF.md
+do_not_use_as_current_authority: true
 ---
 
 # To Be Hero X V2 — Phase 1 E13 Handoff

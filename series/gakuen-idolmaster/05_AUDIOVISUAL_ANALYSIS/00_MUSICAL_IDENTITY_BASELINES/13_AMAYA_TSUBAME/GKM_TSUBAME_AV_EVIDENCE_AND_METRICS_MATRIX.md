@@ -2,16 +2,16 @@
 series: GKM
 artifact_type: evidence_matrix
 scope: CHARACTER_AMAYA_TSUBAME_PHASE3_AV
-character: "Amaya Tsubame / 雨夜燕"
+character: Amaya Tsubame / 雨夜燕
 generation: V2
 release: R1
 status: canonical
-source_boundary: "14 canonical inspected AV objects plus seven duplicate high-load Dear excerpts, controlled against GKM_CORE_13_AMAYA_TSUBAME.md and Source Lock 1.0"
-supersedes: null
-superseded_by: null
+source_boundary: 14 canonical inspected AV objects plus seven duplicate high-load Dear excerpts, controlled against GKM_CORE_13_AMAYA_TSUBAME.md and Source Lock 1.0
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-18"
-title: "GKM — Amaya Tsubame AV Evidence and Metrics Matrix"
+last_updated: '2026-08-18'
+title: GKM — Amaya Tsubame AV Evidence and Metrics Matrix
 ---
 
 # GKM — AMAYA TSUBAME AV EVIDENCE AND METRICS MATRIX

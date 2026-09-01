@@ -1,14 +1,14 @@
 ---
-title: "銀河英雄伝説 / Legend of the Galactic Heroes — Full-Series Analytical Method"
-subtitle: "Original-Japanese second-pass method for the ten main novels and five gaiden volumes"
-version: "1.0"
-date: "2026-08-10"
-source_status_label: "Governing framework for the next multi-document synthesis pass"
+title: 銀河英雄伝説 / Legend of the Galactic Heroes — Full-Series Analytical Method
+subtitle: Original-Japanese second-pass method for the ten main novels and five gaiden volumes
+version: '1.0'
+date: '2026-08-10'
+source_status_label: Governing framework for the next multi-document synthesis pass
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-primary_corpus: "田中芳樹『銀河英雄伝説』本伝1–10・外伝1–5"
+primary_corpus: 田中芳樹『銀河英雄伝説』本伝1–10・外伝1–5
 ---
 
 # 銀河英雄伝説 / *Legend of the Galactic Heroes*

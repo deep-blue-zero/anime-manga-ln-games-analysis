@@ -4,18 +4,18 @@ artifact_type: formal_dependency_ledger
 artifact_role: LEDGER
 scope: PHONE_AUDIO_AND_MISSING_FORMAL_ASSETS
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
+phase: '2'
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Initialized from analysis_bundles/reports/telephone_transcript_coverage.tsv and missing_transcript_assets.tsv, plus the frozen Phase-1 formal/open-state routing. No missing content is reconstructed."
-supersedes: null
-superseded_by: null
+source_boundary: Initialized from analysis_bundles/reports/telephone_transcript_coverage.tsv and missing_transcript_assets.tsv, plus the frozen Phase-1 formal/open-state routing. No missing content is reconstructed.
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: INITIALIZED_EXACT_GAP_LOCATORS_CAPTURED
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Promote claim-bearing formal dependencies during Phase-2 ledgers; full retrospective formal audit remains Phase 5"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: Promote claim-bearing formal dependencies during Phase-2 ledgers; full retrospective formal audit remains Phase 5
 ---
 
 # IDOLY PRIDE V2 — FORMAL DEPENDENCY LEDGER

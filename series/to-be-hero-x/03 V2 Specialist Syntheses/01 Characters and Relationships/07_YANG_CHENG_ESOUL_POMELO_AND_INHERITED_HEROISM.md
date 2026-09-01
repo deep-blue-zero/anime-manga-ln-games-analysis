@@ -2,61 +2,61 @@
 series: TBHX
 artifact_type: specialist_synthesis
 artifact_role: character_monograph
-scope: "Yang Cheng, E-Soul as inherited hero identity, Xia Qing, Shang Chao, Yòuzi/Pomelo, and the later ethical capture of the contemporary E-Soul across S01E05-E07 and E19-E24"
+scope: Yang Cheng, E-Soul as inherited hero identity, Xia Qing, Shang Chao, Yòuzi/Pomelo, and the later ethical capture of the contemporary E-Soul across S01E05-E07 and E19-E24
 generation: V2
 phase: 3
 specialist_number: 7
 status: canonical
-source_boundary: "Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; E19 motion/video evidence and E20-E24 convergence evidence where relevant"
-canonical_home: "03 V2 Specialist Syntheses/01 Characters and Relationships"
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; E19 motion/video evidence and E20-E24 convergence evidence where relevant
+canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
-  - P2-CR-CH03
-  - P2-CR-P10
-  - P2-CR-R10
-  - P2-CR-I07
+- P2-CR-CH03
+- P2-CR-P10
+- P2-CR-R10
+- P2-CR-I07
 secondary_claim_keys:
-  - P2-CR-M02
-  - P2-CR-M04
-  - P2-CR-M05
-  - P2-CR-M09
-  - P2-CR-M10
-  - P2-CR-P03
-  - P2-CR-P04
-  - P2-CR-P07
-  - P2-CR-R04
-  - P2-CR-R06
-  - P2-CR-R07
-  - P2-CR-R15
-  - P2-CR-I05
-  - P2-CR-I06
-  - P2-CR-I08
-  - P2-CR-I09
-  - P2-CR-N03
-  - P2-CR-N08
-  - P2-CR-F03
-  - P2-CR-F09
+- P2-CR-M02
+- P2-CR-M04
+- P2-CR-M05
+- P2-CR-M09
+- P2-CR-M10
+- P2-CR-P03
+- P2-CR-P04
+- P2-CR-P07
+- P2-CR-R04
+- P2-CR-R06
+- P2-CR-R07
+- P2-CR-R15
+- P2-CR-I05
+- P2-CR-I06
+- P2-CR-I08
+- P2-CR-I09
+- P2-CR-N03
+- P2-CR-N08
+- P2-CR-F03
+- P2-CR-F09
 governing_artifacts:
-  - CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
-  - TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
-  - HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
-  - CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
-  - PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
-  - INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
-  - CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
-  - VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
-  - TBHX_NAME_LOCALIZATION_CROSSWALK.md
-  - V1_TO_V2_REVISION_LEDGER.md
+- CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md
+- TRUST_FEAR_AND_POWER_MECHANICS_LEDGER.md
+- HERO_IMAGE_PERSONHOOD_AND_IDENTITY_LEDGER.md
+- CHARACTER_RELATIONSHIP_AND_RECOGNITION_LEDGER.md
+- PUBLIC_NARRATIVE_PRIVATE_EVENT_LEDGER.md
+- INSTITUTIONS_MEDIA_RANKINGS_AND_POLITICAL_ECONOMY_LEDGER.md
+- CHINESE_LANGUAGE_VOICE_AND_NAMING_LEDGER.md
+- VISUAL_AUDIO_MOTIF_AND_FORM_LEDGER.md
+- TBHX_NAME_LOCALIZATION_CROSSWALK.md
+- V1_TO_V2_REVISION_LEDGER.md
 primary_episode_artifacts:
-  - TBHX_V2_E05_DEEP_READING.md
-  - TBHX_V2_E06_DEEP_READING.md
-  - TBHX_V2_E07_DEEP_READING.md
-  - TBHX_V2_E19_DEEP_READING.md
-  - TBHX_V2_E20_DEEP_READING.md
+- TBHX_V2_E05_DEEP_READING.md
+- TBHX_V2_E06_DEEP_READING.md
+- TBHX_V2_E07_DEEP_READING.md
+- TBHX_V2_E19_DEEP_READING.md
+- TBHX_V2_E20_DEEP_READING.md
 supporting_episode_artifacts:
-  - TBHX_V2_E21_DEEP_READING.md
-  - TBHX_V2_E24_DEEP_READING.md
-supersedes: null
-superseded_by: null
+- TBHX_V2_E21_DEEP_READING.md
+- TBHX_V2_E24_DEEP_READING.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
 last_updated: 2026-08-17

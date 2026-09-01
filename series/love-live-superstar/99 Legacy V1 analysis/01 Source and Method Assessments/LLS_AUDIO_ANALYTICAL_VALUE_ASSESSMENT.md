@@ -1,13 +1,13 @@
 ---
 series: LLS
-series_title: "Love Live! Superstar!!"
+series_title: Love Live! Superstar!!
 artifact_type: source_method_assessment
-scope: "AUDIO_VALUE"
+scope: AUDIO_VALUE
 generation: V1
 status: historical_legacy
-source_boundary: "Retrospective assessment of how complete episode audio could refine the established first-pass character and thematic models"
-supersedes: null
-superseded_by: null
+source_boundary: Retrospective assessment of how complete episode audio could refine the established first-pass character and thematic models
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
 provenance_turn: 78
 extracted: 2026-08-22

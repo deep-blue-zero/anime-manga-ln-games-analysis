@@ -4,12 +4,12 @@ artifact_type: corpus_map
 scope: CHARACTER_SHIUN_SUMIKA_PHASE3_AV_RELEASE
 generation: V2
 status: canonical
-source_boundary: "Phase-3 Sumika integrated audiovisual release R2: 22 logical staged sources, all directly inspected at the current boundary; Dear 028–037 backfilled through an equivalent 720p30 direct-upload materialization while the oversized Drive original remains provenance."
-supersedes: null
-superseded_by: null
+source_boundary: 'Phase-3 Sumika integrated audiovisual release R2: 22 logical staged sources, all directly inspected at the current boundary; Dear 028–037 backfilled through an equivalent 720p30 direct-upload materialization while the oversized Drive original remains provenance.'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
-parent_authority: "CURRENT_STATE_AND_CORPUS_MAP.md"
+last_updated: '2026-08-17'
+parent_authority: CURRENT_STATE_AND_CORPUS_MAP.md
 ---
 
 # GAKUEN IDOLMASTER V2 — SHIUN SUMIKA PHASE-3 INTEGRATED AV RELEASE

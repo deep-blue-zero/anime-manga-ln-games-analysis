@@ -6,16 +6,20 @@ generation: V1
 status: canonical
 source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
-regional_witnesses: [JP, EN, TW, KR]
+regional_witnesses:
+- JP
+- EN
+- TW
+- KR
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
+method_version: 1.0.0
 readiness_grade: A
 readiness_score: 86.89
 performed_voice_status: audio_partial_mapping_incomplete
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: "TAIHOU_30707 extracted multilingual corpus generated 2026-08-22/23: 28 CN-linked narrative scenes, complete 7-chapter character memory, 116 character-dialogue records, 25 social threads, relationship evidence, five-locale regional crosswalk, Dorm3D non-chat augmentation, Island non-relationship augmentation, and partial JP performed-voice acquisition/alignment"
+source_boundary: 'TAIHOU_30707 extracted multilingual corpus generated 2026-08-22/23: 28 CN-linked narrative scenes, complete 7-chapter character memory, 116 character-dialogue records, 25 social threads, relationship evidence, five-locale regional crosswalk, Dorm3D non-chat augmentation, Island non-relationship augmentation, and partial JP performed-voice acquisition/alignment'
 ---
 
 # Azur Lane — Taihou Reconstruction Readiness Audit

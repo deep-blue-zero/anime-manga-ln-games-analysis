@@ -4,16 +4,16 @@ artifact_type: specialist_synthesis
 scope: ST_LOUIS_10213_JP_VOICE_PERFORMANCE
 generation: V1
 status: canonical
-source_boundary: "71/71 mapped spoken JP utterances after St. Louis audio reconciliation; JP client AZL 9.3.386 / CV 1243"
+source_boundary: 71/71 mapped spoken JP utterances after St. Louis audio reconciliation; JP client AZL 9.3.386 / CV 1243
 governing_method: AZUR_LANE_CHARACTER_RECONSTRUCTION_ANALYTICAL_METHOD.md
-method_version: "1.0.0"
-source_build_id: "AZL-2026-08-22-4cca5c24-cc8e9fdf"
+method_version: 1.0.0
+source_build_id: AZL-2026-08-22-4cca5c24-cc8e9fdf
 semantic_authority: CN
 performed_locale: JP
-direct_perceptual_listening_status: "not directly auditioned in this analysis environment"
+direct_perceptual_listening_status: not directly auditioned in this analysis environment
 ear_dependent_timbre_status: open
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

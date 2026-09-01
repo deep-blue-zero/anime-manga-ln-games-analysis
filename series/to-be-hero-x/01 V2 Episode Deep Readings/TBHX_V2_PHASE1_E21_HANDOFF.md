@@ -4,11 +4,11 @@ artifact_type: handoff
 scope: E21_to_E22
 generation: V2
 status: canonical
-source_boundary: "Frozen prospective state through Episode 21; explicit E22 preview excluded; E22+ story evidence not opened"
-supersedes: null
-superseded_by: null
+source_boundary: Frozen prospective state through Episode 21; explicit E22 preview excluded; E22+ story evidence not opened
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Phase 1 E21 Handoff to E22"
+title: To Be Hero X V2 — Phase 1 E21 Handoff to E22
 ---
 
 # To Be Hero X V2 — Phase 1 E21 Handoff to E22

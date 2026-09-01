@@ -1,27 +1,27 @@
 ---
-title: "Solo Leveling — Power, Autonomy, Sovereignty, and Self-Authorship"
-subtitle: "What power changes, what it cannot solve, and who gets to decide what power is for"
-project: "Solo Leveling Definitive Novel–Manhwa Synthesis"
-document_id: "SL_SYNTH_03"
-version: "1.0"
+title: Solo Leveling — Power, Autonomy, Sovereignty, and Self-Authorship
+subtitle: What power changes, what it cannot solve, and who gets to decide what power is for
+project: Solo Leveling Definitive Novel–Manhwa Synthesis
+document_id: SL_SYNTH_03
+version: '1.0'
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 source_scope:
-  - "Chugong's complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2"
-  - "Official English manhwa Volumes 1–15"
-governing_method: "../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md"
-paired_architecture: "../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md"
-evidence_spine: "../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
-chronological_spine: "01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md"
-character_spine: "02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md"
-relationship_spine: "05_HUMAN_RELATIONSHIPS_FAMILY_AND_COUNTER_GAZES.md"
-shadow_spine: "06_SHADOW_ARMY_PERSONHOOD_MONARCHY_AND_DEPENDENT_SOCIETY.md"
-institutional_spine: "07_INSTITUTIONS_GUILDS_STATECRAFT_AND_GEOPOLITICS.md"
-metaphysical_spine: "08_SYSTEM_MONARCHS_METAPHYSICS_INHERITANCE_AND_RESET.md"
-spoilers: "complete series"
-source_inventory_date: "2026-08-12"
+- 'Chugong''s complete original Korean novel omnibus: main story, 외전 1–21, 후일담 1–2'
+- Official English manhwa Volumes 1–15
+governing_method: ../00 Frameworks/Solo_Leveling_Full_Series_Analytical_Method_v1.md
+paired_architecture: ../00 Frameworks/Solo_Leveling_Multi_Document_Synthesis_Architecture_v1.md
+evidence_spine: ../03 Evidence and Crosswalk/13_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+chronological_spine: 01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md
+character_spine: 02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md
+relationship_spine: 05_HUMAN_RELATIONSHIPS_FAMILY_AND_COUNTER_GAZES.md
+shadow_spine: 06_SHADOW_ARMY_PERSONHOOD_MONARCHY_AND_DEPENDENT_SOCIETY.md
+institutional_spine: 07_INSTITUTIONS_GUILDS_STATECRAFT_AND_GEOPOLITICS.md
+metaphysical_spine: 08_SYSTEM_MONARCHS_METAPHYSICS_INHERITANCE_AND_RESET.md
+spoilers: complete series
+source_inventory_date: '2026-08-12'
 ---
 
 # 03 — Power, Autonomy, Sovereignty, and Self-Authorship

@@ -5,96 +5,96 @@ artifact_type: deep_reading
 scope: V19
 generation: V2
 status: canonical
-version: "2.1"
-source_boundary: "Japanese manga Volume 19, Chapters 75-78; spoiler boundary through Volume 19 only"
-supersedes: null
-superseded_by: null
+version: '2.1'
+source_boundary: Japanese manga Volume 19, Chapters 75-78; spoiler boundary through Volume 19 only
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-work: "進撃の巨人"
-work_en: "Attack on Titan"
-author: "諫山創"
-volume: "19"
-chapters: "75-78"
+work: 進撃の巨人
+work_en: Attack on Titan
+author: 諫山創
+volume: '19'
+chapters: 75-78
 chapter_titles:
-  - "第75話 二つの戦局"
-  - "第76話 雷槍"
-  - "第77話 彼らが見た世界"
-  - "第78話 光臨"
+- 第75話 二つの戦局
+- 第76話 雷槍
+- 第77話 彼らが見た世界
+- 第78話 光臨
 analysis_pass: 1
 primary_language: ja
 source_type: manga
 source_format: cbz_image_archive
 source_edition: japanese_tankobon_digital_sd
-source_file: "Attack on Titan v19 (2016) (Digital SD) (KG Manga).cbz"
-source_sha256: "f16624eb965e8d6de8be8b886cd26a925d0d122f09009dc4c4ce0286655f6867"
+source_file: Attack on Titan v19 (2016) (Digital SD) (KG Manga).cbz
+source_sha256: f16624eb965e8d6de8be8b886cd26a925d0d122f09009dc4c4ce0286655f6867
 source_images: 195
 content_pages: 194
 source_integrity: verified
 primary_source_verified: true
-spoiler_scope: "through Volume 19 only"
-method: "AOT_ANALYTICAL_METHOD_V2 v2.1"
+spoiler_scope: through Volume 19 only
+method: AOT_ANALYTICAL_METHOD_V2 v2.1
 provenance_status: native_v2_1_source_review
 locator_status: chapter_complete_image_selective
 retrospective_material_imported: false
 major_characters:
-  - "Eren Jaeger / エレン・イェーガー"
-  - "Armin Arlert / アルミン・アルレルト"
-  - "Mikasa Ackerman / ミカサ・アッカーマン"
-  - "Erwin Smith / エルヴィン・スミス"
-  - "Levi / リヴァイ"
-  - "Hange Zoë / ハンジ・ゾエ"
-  - "Reiner Braun / ライナー・ブラウン"
-  - "Bertolt Hoover / ベルトルト・フーバー"
-  - "Annie Leonhart / アニ・レオンハート"
-  - "Marco Bott / マルコ・ボット"
-  - "Zeke / ジーク"
+- Eren Jaeger / エレン・イェーガー
+- Armin Arlert / アルミン・アルレルト
+- Mikasa Ackerman / ミカサ・アッカーマン
+- Erwin Smith / エルヴィン・スミス
+- Levi / リヴァイ
+- Hange Zoë / ハンジ・ゾエ
+- Reiner Braun / ライナー・ブラウン
+- Bertolt Hoover / ベルトルト・フーバー
+- Annie Leonhart / アニ・レオンハート
+- Marco Bott / マルコ・ボット
+- Zeke / ジーク
 major_relationships:
-  - "Eren / Reiner"
-  - "Armin / Bertolt"
-  - "Reiner / Bertolt"
-  - "Reiner / Annie"
-  - "Erwin / Levi"
-  - "Hange / Survey Corps"
-  - "104th / former comrades"
+- Eren / Reiner
+- Armin / Bertolt
+- Reiner / Bertolt
+- Reiner / Annie
+- Erwin / Levi
+- Hange / Survey Corps
+- 104th / former comrades
 major_topics:
-  - agency under constraint
-  - recognition without reconciliation
-  - mission and private desire
-  - logistics and mobility
-  - technological adaptation
-  - conversation and coercion
-  - role fracture
-  - fatalism and responsibility
-  - home and reclamation
-  - command and distributed expertise
+- agency under constraint
+- recognition without reconciliation
+- mission and private desire
+- logistics and mobility
+- technological adaptation
+- conversation and coercion
+- role fracture
+- fatalism and responsibility
+- home and reclamation
+- command and distributed expertise
 major_visual_motifs:
-  - two battlefronts
-  - corpse mountain
-  - Thunder Spear trajectories
-  - roofs and vertical movement
-  - Marco at the edge of the roof
-  - Bertolt descending from the sky
-  - transformation blast
-  - Colossal Titan above burning Shiganshina
+- two battlefronts
+- corpse mountain
+- Thunder Spear trajectories
+- roofs and vertical movement
+- Marco at the edge of the roof
+- Bertolt descending from the sky
+- transformation blast
+- Colossal Titan above burning Shiganshina
 major_lexical_targets:
-  - 戦局
-  - 心臓を捧げよ
-  - 自分の夢
-  - 故郷
-  - 取り返す
-  - 戦士
-  - 証明
-  - 話し合う
-  - 仲間
-  - 僕が決めた
-  - 誰も悪くない
-  - 仕方なかった
-  - 残酷
+- 戦局
+- 心臓を捧げよ
+- 自分の夢
+- 故郷
+- 取り返す
+- 戦士
+- 証明
+- 話し合う
+- 仲間
+- 僕が決めた
+- 誰も悪くない
+- 仕方なかった
+- 残酷
 cumulative_status:
-  - established
-  - strengthened
-  - revised
-  - open
+- established
+- strengthened
+- revised
+- open
 ---
 
 # 『進撃の巨人』Volume 19 Deep Reading

@@ -2,21 +2,21 @@
 series: GKM
 artifact_type: deep_reading
 scope: CHARACTER_KATSURAGI_LILJA_PHASE3_CORE
-character: "Katsuragi Lilja / 葛城リーリヤ"
+character: Katsuragi Lilja / 葛城リーリヤ
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 — Lilja complete character bundle (210 source objects / 5,791 messages), with legacy V1 used only for claim-revision comparison; audiovisual evidence not yet inspected"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 — Lilja complete character bundle (210 source objects / 5,791 messages), with legacy V1 used only for claim-revision comparison; audiovisual evidence not yet inspected
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 continuity_tracks:
-  - P1[LILJA]
-  - P2[LILJA]
-  - P3-C[LILJA]
-  - D-LILJA
-  - M-LILJA
-reasoning_route: "GPT-5.6 Sol — Extra High"
-last_updated: "2026-08-15"
+- P1[LILJA]
+- P2[LILJA]
+- P3-C[LILJA]
+- D-LILJA
+- M-LILJA
+reasoning_route: GPT-5.6 Sol — Extra High
+last_updated: '2026-08-15'
 ---
 
 # GKM CORE 05 — KATSURAGI LILJA / 葛城リーリヤ

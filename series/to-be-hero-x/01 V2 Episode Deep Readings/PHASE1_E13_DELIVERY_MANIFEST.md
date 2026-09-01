@@ -4,9 +4,10 @@ artifact_type: manifest
 scope: E13
 generation: V2
 status: canonical
-source_boundary: "S01E01-S01E13 cumulative checkpoint; E13 explicit preview excluded"
-supersedes: PHASE1_E12_DELIVERY_MANIFEST.md
-superseded_by: null
+source_boundary: S01E01-S01E13 cumulative checkpoint; E13 explicit preview excluded
+supersedes:
+- series/to-be-hero-x/01 V2 Episode Deep Readings/PHASE1_E12_DELIVERY_MANIFEST.md
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

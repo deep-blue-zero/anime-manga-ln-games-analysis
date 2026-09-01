@@ -1,16 +1,16 @@
 ---
-series: "OREIMO"
-artifact_type: "deep_reading"
-scope: "V06"
-generation: "V1"
-status: "canonical"
-source_boundary: "Oreimo Japanese light novel Volume 6"
-supersedes: null
-superseded_by: null
+series: OREIMO
+artifact_type: deep_reading
+scope: V06
+generation: V1
+status: canonical
+source_boundary: Oreimo Japanese light novel Volume 6
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Oreimo Deep Dive - Full Transcript.md"
+source_transcript: Manga and anime discussions - Oreimo Deep Dive - Full Transcript.md
 source_turn: 20
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 Volume 6 functions less as a simple “Kirino returns” story than as a redefinition of nearly every relationship she left behind.

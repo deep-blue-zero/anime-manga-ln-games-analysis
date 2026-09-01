@@ -6,9 +6,9 @@ generation: V1
 status: canonical
 scope_character: BALTIMORE_10316
 semantic_authority: CN
-source_boundary: "Routing and priority map over the canonical BALTIMORE_10316 extracted corpus plus current JP audio analysis pack"
-supersedes: null
-superseded_by: null
+source_boundary: Routing and priority map over the canonical BALTIMORE_10316 extracted corpus plus current JP audio analysis pack
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

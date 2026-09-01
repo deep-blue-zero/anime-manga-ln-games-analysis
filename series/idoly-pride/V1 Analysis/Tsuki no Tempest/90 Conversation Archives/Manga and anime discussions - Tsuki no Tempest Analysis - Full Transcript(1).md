@@ -9679,11 +9679,11 @@ So I would rank it like this:
 **Storybook/princess/theater heroine self-image:** very high.
 **Idol-fan archive obsession:** very high, but centered on Mana rather than manga.
 
-That means “shoujo-manga-pilled Suzu” is a valid shorthand if we mean **she thinks in shoujo-romance scene grammar**: proposal misunderstandings, forbidden love, bridal imagery, dokidoki escalation, heroine panic, romantic overreading. The analysis file’s formulation still holds: Suzu “knows the theatrical symbols of romance before she understands her own feelings,” so she does not simply ask “what do I feel?”; she asks “what kind of scene is this?”[
+That means “shoujo-manga-pilled Suzu” is a valid shorthand if we mean **she thinks in shoujo-romance scene grammar**: proposal misunderstandings, forbidden love, bridal imagery, dokidoki escalation, heroine panic, romantic overreading. The analysis file’s formulation still holds: Suzu “knows the theatrical symbols of romance before she understands her own feelings,” so she does not simply ask “what do I feel?”; she asks “what kind of scene is this?”
 
 Comparative analysis document
 
-](/g/g-p-69ab0e4e06188191bcc4c71aea012ad8/c/6a3cb639-d11c-83ea-95eb-1c0bfae949b9?messageId=ce41cae8-20f4-403d-8f25-be3d90599d1f&conversation_save=1)
+ _(historical external conversation reference unavailable in Git)_
 
 But I would not make “Suzu loves manga” a major factual pillar unless more transcripts surface. The safer thesis is:
 

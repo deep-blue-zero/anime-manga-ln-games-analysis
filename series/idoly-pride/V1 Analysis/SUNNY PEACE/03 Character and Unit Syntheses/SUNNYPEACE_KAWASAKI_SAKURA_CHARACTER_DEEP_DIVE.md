@@ -1,16 +1,18 @@
 ---
-series: "IDOLY_PRIDE"
-artifact_type: "character_monograph"
-scope: "SUNNY PEACE / Kawasaki Sakura"
-generation: "V1"
-status: "historical_legacy"
-source_boundary: "Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources"
-supersedes: null
-superseded_by: "IDOLY PRIDE V2 ingest-backed synthesis/reconstruction"
+series: IDOLY_PRIDE
+artifact_type: character_monograph
+scope: SUNNY PEACE / Kawasaki Sakura
+generation: V1
+status: historical_legacy
+source_boundary: Chat-derived synthesis over uploaded IDOLY PRIDE story/card/message/visual sources
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-source_transcript: "Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - IDOLY PRIDE - Sunny Peace deep dive - Full Transcript(1).md
 source_turn: 98
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
+legacy_supersession_notes:
+- 'legacy superseded_by: IDOLY PRIDE V2 ingest-backed synthesis/reconstruction'
 ---
 
 This version focuses solely on Sakura and synthesizes her SUNNY PEACE role, Sakura’s Memories origin material, and the main-story “Idoly Pride” inheritance material: Sakura as survivor-sun, Mana-heart inheritor, ordinary-life enjoyer, and the character whose central task is to become Kawasaki Sakura rather than Mana’s vessel. IDOLY PRIDE - Sunny Peace deep … origin\_sun\_005\_sakura\_s\_memories hoshimi\_018\_idoly\_pride

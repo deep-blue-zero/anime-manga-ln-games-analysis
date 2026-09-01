@@ -6,26 +6,26 @@ ledger_domain: relationship state
 canonical_name: OREGAIRU_V2_RELATIONSHIP_STATE_LEDGER.md
 generation: V2
 status: canonical
-source_boundary: "Japanese light-novel mainline and chronology-routed supplements through Volume 14.5, mediated by canonical V2 deep readings, checkpoint freezes, and consolidated Hachiman/character ledgers"
+source_boundary: Japanese light-novel mainline and chronology-routed supplements through Volume 14.5, mediated by canonical V2 deep readings, checkpoint freezes, and consolidated Hachiman/character ledgers
 incoming_authority:
-  - OREGAIRU_V2_HACHIMAN_EPISTEMIC_NARRATORIAL_LEDGER.md
-  - OREGAIRU_V2_CHARACTER_STATE_LEDGER.md
-  - OREGAIRU_V2_CHECKPOINT_A_EARLY_SERVICE_CLUB_FORMATION.md
-  - OREGAIRU_V2_CHECKPOINT_B_CULTURAL_FESTIVAL_SELF_SACRIFICE_CONSOLIDATION.md
-  - OREGAIRU_V2_CHECKPOINT_C_KYOTO_ELECTION_CHRISTMAS_CRISIS.md
-  - OREGAIRU_V2_CHECKPOINT_D_POST_HONMONO_RESTRUCTURING.md
-  - OREGAIRU_V2_CHECKPOINT_E_PROM_FINAL_CHOICE_MOVEMENT.md
-  - OREGAIRU_V2_CHECKPOINT_FINAL_POST_14_5_ORDINARY_LIFE_STABILIZATION.md
-supersedes: null
-superseded_by: null
+- OREGAIRU_V2_HACHIMAN_EPISTEMIC_NARRATORIAL_LEDGER.md
+- OREGAIRU_V2_CHARACTER_STATE_LEDGER.md
+- OREGAIRU_V2_CHECKPOINT_A_EARLY_SERVICE_CLUB_FORMATION.md
+- OREGAIRU_V2_CHECKPOINT_B_CULTURAL_FESTIVAL_SELF_SACRIFICE_CONSOLIDATION.md
+- OREGAIRU_V2_CHECKPOINT_C_KYOTO_ELECTION_CHRISTMAS_CRISIS.md
+- OREGAIRU_V2_CHECKPOINT_D_POST_HONMONO_RESTRUCTURING.md
+- OREGAIRU_V2_CHECKPOINT_E_PROM_FINAL_CHOICE_MOVEMENT.md
+- OREGAIRU_V2_CHECKPOINT_FINAL_POST_14_5_ORDINARY_LIFE_STABILIZATION.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 revision_vocabulary:
-  - PRESERVE
-  - STRENGTHEN
-  - REVISE
-  - DOWNGRADE
-  - REJECT
-  - OPEN
+- PRESERVE
+- STRENGTHEN
+- REVISE
+- DOWNGRADE
+- REJECT
+- OPEN
 ---
 
 # OREGAIRU V2 — Relationship State Ledger

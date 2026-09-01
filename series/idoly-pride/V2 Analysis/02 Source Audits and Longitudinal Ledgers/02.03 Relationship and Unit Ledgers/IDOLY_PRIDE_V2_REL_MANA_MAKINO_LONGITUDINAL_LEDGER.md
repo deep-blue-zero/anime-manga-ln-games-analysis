@@ -3,39 +3,39 @@ series: IDOLY_PRIDE
 artifact_type: relationship_longitudinal_ledger
 artifact_role: LEDGER
 scope: REL_MANA_MAKINO
-relationship: "Nagase Mana / Makino Kouhei"
+relationship: Nagase Mana / Makino Kouhei
 relationship_codes:
-  - mna
-  - koh
+- mna
+- koh
 generation: V2
-version: "1.0"
+version: '1.0'
 status: canonical
-phase: "2"
-tranche: "P2-C-MANA-MAKINO"
+phase: '2'
+tranche: P2-C-MANA-MAKINO
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Phase-2 relationship reconstruction of Nagase Mana / Makino Kouhei across the frozen 2026-08-13 analytical snapshot. The dedicated pair index mana_kouhei.md contains 46 pair-bearing routed bundles: 27 main-story, 7 unit-origin, 11 card, and 1 event bundle. This is a breadth/contradiction frontier, not a claim that all co-bearing bundles carry relationship-state evidence. Load-bearing reconstruction reopens Mana's three origin bundles, the Hoshimi ghost/legacy/farewell spine, the admitted 2024 Hoshimi homecoming event, and the fixed Makino branch-canon rules. Mana cards remain Phase-1 C3 indexed texture unless promoted for a claim-specific reason. Player-selected Makino expressions are not unioned into a synthetic biography."
+source_boundary: 'Phase-2 relationship reconstruction of Nagase Mana / Makino Kouhei across the frozen 2026-08-13 analytical snapshot. The dedicated pair index mana_kouhei.md contains 46 pair-bearing routed bundles: 27 main-story, 7 unit-origin, 11 card, and 1 event bundle. This is a breadth/contradiction frontier, not a claim that all co-bearing bundles carry relationship-state evidence. Load-bearing reconstruction reopens Mana''s three origin bundles, the Hoshimi ghost/legacy/farewell spine, the admitted 2024 Hoshimi homecoming event, and the fixed Makino branch-canon rules. Mana cards remain Phase-1 C3 indexed texture unless promoted for a claim-specific reason. Player-selected Makino expressions are not unioned into a synthetic biography.'
 validated_through: IP-V2-SNAPSHOT-2026-08-13-A
 inherits:
-  - IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
-  - IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
-  - IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
-  - IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
-  - IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
-  - IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
-  - IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
-  - IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
-  - IDOLY_PRIDE_V2_MAKINO_PLAYER_BRANCH_CANON_LEDGER.md
-supersedes: null
-superseded_by: null
+- IDOLY_PRIDE_V2_ANALYTICAL_METHOD.md
+- IDOLY_PRIDE_V2_SOURCE_EVIDENCE_AND_LEDGER_PROTOCOL.md
+- IDOLY_PRIDE_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_SCHEMA.md
+- IDOLY_PRIDE_V2_PHASE2_LONGITUDINAL_LEDGER_QUEUE.md
+- IDOLY_PRIDE_V2_PHASE1_FINAL_BASELINE.md
+- IDOLY_PRIDE_V2_CORPUS_COVERAGE_AND_PRIORITY_LEDGER_v1.30.md
+- IDOLY_PRIDE_V2_PHASE2_POST_P20_BASELINE.md
+- IDOLY_PRIDE_V2_CHAR_MANA_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_CHAR_MAKINO_LONGITUDINAL_LEDGER.md
+- IDOLY_PRIDE_V2_MAKINO_PLAYER_BRANCH_CANON_LEDGER.md
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 integrity_status: P2_C_MANA_MAKINO_PASS
-created: "2026-08-24"
-updated: "2026-08-24"
-next_operation: "P2-C — IDOLY_PRIDE_V2_REL_SAKURA_KOTONO_LONGITUDINAL_LEDGER.md"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-24'
+updated: '2026-08-24'
+next_operation: P2-C — IDOLY_PRIDE_V2_REL_SAKURA_KOTONO_LONGITUDINAL_LEDGER.md
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — MANA / MAKINO RELATIONSHIP LONGITUDINAL LEDGER

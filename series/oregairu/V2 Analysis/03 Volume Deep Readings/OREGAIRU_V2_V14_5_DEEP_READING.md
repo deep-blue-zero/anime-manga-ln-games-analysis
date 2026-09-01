@@ -4,13 +4,13 @@ artifact_type: deep_reading
 scope: V14.5
 generation: V2
 status: canonical
-source_boundary: "Japanese light novel Volume 14.5 only, with Checkpoint E preserved as the frozen mainline endpoint. Because Volume 14.5 is chronology-scattered, Stories 1-2 are routed to the post-Volume-9/pre-Volume-10 state, Story 3 to the late-Volume-14 post-joint-prom interstitial state, and only Stories 4-5 may update the post-mainline ordinary-life state. Shin, Ketsu, anthologies, anime adaptation, and later material are excluded."
-supersedes: null
-superseded_by: null
+source_boundary: Japanese light novel Volume 14.5 only, with Checkpoint E preserved as the frozen mainline endpoint. Because Volume 14.5 is chronology-scattered, Stories 1-2 are routed to the post-Volume-9/pre-Volume-10 state, Story 3 to the late-Volume-14 post-joint-prom interstitial state, and only Stories 4-5 may update the post-mainline ordinary-life state. Shin, Ketsu, anthologies, anime adaptation, and later material are excluded.
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-primary_text_witness: "Oregairu - Volume 14.5 [Japanese].epub"
+primary_text_witness: Oregairu - Volume 14.5 [Japanese].epub
 fixed_page_witness: null
-illustration_witness: "Embedded EPUB images"
+illustration_witness: Embedded EPUB images
 method: OREGAIRU_V2_ANALYTICAL_METHOD.md
 ---
 

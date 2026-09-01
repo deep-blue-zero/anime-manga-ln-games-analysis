@@ -4,9 +4,9 @@ artifact_type: checkpoint
 scope: V11-V12
 generation: V2
 status: canonical
-source_boundary: "Locked Japanese HIBIKE-V11 and HIBIKE-V12 EPUBs"
-supersedes: null
-superseded_by: null
+source_boundary: Locked Japanese HIBIKE-V11 and HIBIKE-V12 EPUBs
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -4,7 +4,7 @@ artifact_type: checkpoint
 scope: MAIN_V001_C001
 generation: V1
 status: canonical
-source_boundary: "Canonical Japanese main-story sequence BA:main:001:001:001 through BA:main:001:001:020, read after the canonical Prologue checkpoint and without Chapter 2 hindsight"
+source_boundary: Canonical Japanese main-story sequence BA:main:001:001:001 through BA:main:001:001:020, read after the canonical Prologue checkpoint and without Chapter 2 hindsight
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

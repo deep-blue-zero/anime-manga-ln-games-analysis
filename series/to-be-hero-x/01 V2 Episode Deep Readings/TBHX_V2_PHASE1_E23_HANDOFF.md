@@ -3,12 +3,13 @@ series: TBHX
 artifact_type: handoff
 scope: E23_to_E24
 generation: V2
-status: canonical
-source_boundary: "Frozen V2 through Episode 23; Episode 24 unopened"
-supersedes: null
-superseded_by: null
-do_not_use_as_current_authority: false
-title: "To Be Hero X V2 — Phase 1 Episode 23 Handoff"
+status: superseded
+source_boundary: Frozen V2 through Episode 23; Episode 24 unopened
+supersedes: []
+superseded_by:
+- series/to-be-hero-x/01 V2 Episode Deep Readings/TBHX_V2_PHASE1_E24_HANDOFF.md
+do_not_use_as_current_authority: true
+title: To Be Hero X V2 — Phase 1 Episode 23 Handoff
 ---
 
 # To Be Hero X V2 — Phase 1 Episode 23 Handoff

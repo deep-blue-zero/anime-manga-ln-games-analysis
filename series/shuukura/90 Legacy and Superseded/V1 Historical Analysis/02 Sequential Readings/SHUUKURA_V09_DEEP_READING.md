@@ -4,11 +4,11 @@ artifact_type: deep_reading
 scope: V09
 generation: V1
 status: historical_legacy
-source_boundary: "Volume 9 analysis as originally produced in transcript"
-supersedes: null
-superseded_by: null
+source_boundary: Volume 9 analysis as originally produced in transcript
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: true
-provenance: "Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md"
+provenance: Extracted from Manga and anime discussions - Shuukura Analysis - Full Transcript(1).md
 ---
 
 # SHUUKURA V09 Deep Reading — Transcript Extraction

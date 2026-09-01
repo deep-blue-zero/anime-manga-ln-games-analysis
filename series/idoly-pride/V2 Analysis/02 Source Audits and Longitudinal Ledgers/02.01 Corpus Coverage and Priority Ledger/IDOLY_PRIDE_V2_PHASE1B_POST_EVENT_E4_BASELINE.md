@@ -5,23 +5,24 @@ artifact_role: CHECKPOINT
 scope: POST_PHASE1B_EVENT_E4
 filename: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E4_BASELINE.md
 generation: V2
-version: "1.0"
-status: canonical
-phase: "1B"
+version: '1.0'
+status: superseded
+phase: 1B
 source_snapshot_id: IP-V2-SNAPSHOT-2026-08-13-A
-source_boundary: "Tier-A complete + all 60 event bundles semantically audited/routed through E4; nine E4 crossover sources remain canon-caveated rather than ordinary continuity authority."
+source_boundary: Tier-A complete + all 60 event bundles semantically audited/routed through E4; nine E4 crossover sources remain canon-caveated rather than ordinary continuity authority.
 inherits: IDOLY_PRIDE_V2_PHASE1B_POST_EVENT_E3_BASELINE.md
 parent_audit: IDOLY_PRIDE_V2_PHASE1B_EVENT_E4_CLOSE_READ_AUDIT.md
 primary_freeze: IDOLY_PRIDE_V2_PHASE1B_EVENT_E4_PRIMARY_FINDINGS_FREEZE.md
-supersedes: null
-superseded_by: null
-do_not_use_as_current_authority: false
+supersedes: []
+superseded_by:
+- series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_PHASE1_POST_BOND_B1A_BASELINE.md
+do_not_use_as_current_authority: true
 integrity_status: FROZEN_POST_E4_EVENT_LAYER_COMPLETE_REFERENCE
-created: "2026-08-16"
-updated: "2026-08-16"
-next_operation: "Phase 1 — Bond Story Priority and Sampling Audit (20 bond bundles)"
-recommended_model: "GPT-5.6 Sol"
-recommended_reasoning: "Extra High"
+created: '2026-08-16'
+updated: '2026-08-16'
+next_operation: Phase 1 — Bond Story Priority and Sampling Audit (20 bond bundles)
+recommended_model: GPT-5.6 Sol
+recommended_reasoning: Extra High
 ---
 
 # IDOLY PRIDE V2 — POST-EVENT E4 GOVERNING BASELINE

@@ -4,11 +4,11 @@ artifact_type: corpus_map
 scope: full_active_v2_project
 generation: V2
 status: canonical
-source_boundary: "GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisual and external-paratext evidence"
-supersedes: null
-superseded_by: null
+source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisual and external-paratext evidence
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-24 - Phase 6 IN PROGRESS; Systems I + II + side-character synthesis + corrected Kaya Rinha crosswalk + evidence matrix COMPLETE; targeted Rinha AV baseline next; dossier remains required"
+last_updated: 2026-08-24 - Phase 6 IN PROGRESS; Systems I + II + side-character synthesis + corrected Kaya Rinha crosswalk + evidence matrix COMPLETE; targeted Rinha AV baseline next; dossier remains required
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP

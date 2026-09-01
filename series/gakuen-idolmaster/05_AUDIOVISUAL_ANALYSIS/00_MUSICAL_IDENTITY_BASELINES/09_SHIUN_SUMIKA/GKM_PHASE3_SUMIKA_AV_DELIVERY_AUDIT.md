@@ -2,14 +2,14 @@
 series: GKM
 artifact_type: delivery_audit
 scope: CHARACTER_SHIUN_SUMIKA_PHASE3_COMPLETE_AV
-character: "Shiun Sumika / 紫雲清夏"
+character: Shiun Sumika / 紫雲清夏
 generation: V2
 status: canonical
-source_boundary: "QA and archival audit for the bounded 22-object Sumika integrated AV release"
-supersedes: null
-superseded_by: null
+source_boundary: QA and archival audit for the bounded 22-object Sumika integrated AV release
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-17"
+last_updated: '2026-08-17'
 ---
 
 # GAKUEN IDOLMASTER V2 — SUMIKA INTEGRATED AV DELIVERY AUDIT

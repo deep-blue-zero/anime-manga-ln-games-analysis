@@ -2,17 +2,17 @@
 series: GKM
 artifact_type: claim_revision_ledger
 scope: CHARACTER_KATSURAGI_LILJA_PHASE3_CORE_AV_REVISION
-character: "Katsuragi Lilja / 葛城リーリヤ"
+character: Katsuragi Lilja / 葛城リーリヤ
 generation: V2
 release: R1
 status: canonical
-source_boundary: "Revision routing from GKM_CORE_05_KATSURAGI_LILJA.md through the complete Phase-3 audiovisual packet"
-supersedes: null
-superseded_by: null
+source_boundary: Revision routing from GKM_CORE_05_KATSURAGI_LILJA.md through the complete Phase-3 audiovisual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-08-22"
-title: "Katsuragi Lilja Phase-3 Character-Core AV Revision Addendum"
-parent_authority: "GKM_CORE_05_KATSURAGI_LILJA.md"
+last_updated: '2026-08-22'
+title: Katsuragi Lilja Phase-3 Character-Core AV Revision Addendum
+parent_authority: GKM_CORE_05_KATSURAGI_LILJA.md
 ---
 
 # GKM CORE 05 — KATSURAGI LILJA AV REVISION ADDENDUM

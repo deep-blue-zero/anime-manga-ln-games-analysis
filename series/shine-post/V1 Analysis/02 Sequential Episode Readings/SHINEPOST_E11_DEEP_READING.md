@@ -1,16 +1,16 @@
 ---
-series: "SHINEPOST"
-artifact_type: "deep_reading"
-scope: "E11"
-generation: "V1"
-status: "canonical"
-source_boundary: "SHINE POST TV Episode 11, Japanese subtitle/visual packet"
-supersedes: null
-superseded_by: null
+series: SHINEPOST
+artifact_type: deep_reading
+scope: E11
+generation: V1
+status: canonical
+source_boundary: SHINE POST TV Episode 11, Japanese subtitle/visual packet
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-source_transcript: "Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md"
+source_transcript: Manga and anime discussions - Shine Post Analysis - Full Transcript(1).md
 source_turn: 22
-extraction_mode: "verbatim_substantive_assistant_response"
+extraction_mode: verbatim_substantive_assistant_response
 ---
 
 I unpacked Episode 11. The archive contains **807 episode frames**, **40 contact sheets**, and **335 spoken-dialogue cues**, plus the HY:RAIN insert-song fragments and ED lyrics. The official title is:

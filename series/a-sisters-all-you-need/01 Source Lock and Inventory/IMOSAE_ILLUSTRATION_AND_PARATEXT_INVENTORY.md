@@ -4,14 +4,14 @@ artifact_type: illustration_paratext_inventory
 scope: V01-V14_main_series
 generation: V1
 status: canonical
-source_boundary: "IMOSAE-JP-LN-RAW-1.0 Japanese numbered light-novel EPUBs"
-supersedes: null
-superseded_by: null
+source_boundary: IMOSAE-JP-LN-RAW-1.0 Japanese numbered light-novel EPUBs
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
-version: "1.0"
-date: "2026-08-18"
-visual_index_id: "IMOSAE-VISUAL-INDEX-1.0"
-normalized_release_status: "not_yet_frozen"
+version: '1.0'
+date: '2026-08-18'
+visual_index_id: IMOSAE-VISUAL-INDEX-1.0
+normalized_release_status: not_yet_frozen
 ---
 
 # IMOSAE Illustration and Paratext Inventory

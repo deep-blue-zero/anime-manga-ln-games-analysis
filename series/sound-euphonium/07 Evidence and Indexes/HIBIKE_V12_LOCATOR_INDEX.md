@@ -4,9 +4,9 @@ artifact_type: locator_index
 scope: V12
 generation: V2
 status: canonical
-source_boundary: "HIBIKE-V12 locked Japanese EPUB: Decisive Final Movement Part 2"
-supersedes: null
-superseded_by: null
+source_boundary: 'HIBIKE-V12 locked Japanese EPUB: Decisive Final Movement Part 2'
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
