@@ -1,7 +1,14 @@
 {
   "schema": "manga-anime-git-migration/authority-scope/v1",
-  "state": "G3_BOOTSTRAP_NONAUTHORITATIVE",
+  "state": "PUBLIC_REPOSITORY_PRE_CUTOVER_DRIVE_AUTHORITATIVE",
   "authority_epoch": 0,
+  "migration": {
+    "completed_gate": "G3",
+    "current_gate": "G4_REPRESENTATIVE_PILOTS",
+    "current_subphase": "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
+    "p01_p04_local_preparation": "PRESERVED_UNCHANGED",
+    "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED"
+  },
   "before_verified_g8_activation": {
     "analytical_authority": "GOOGLE_DRIVE",
     "drive_writes_by_migration": "PROHIBITED",
@@ -19,8 +26,8 @@
     "name": "anime-manga-ln-games-analysis",
     "remote": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis.git",
     "repository_id": "1352620662",
-    "current_visibility": "PRIVATE_PENDING_SEPARATE_PUBLIC_ACTIVATION",
-    "approved_target_visibility": "PUBLIC_OWNER_MAINTAINED",
+    "current_visibility": "PUBLIC",
+    "visibility_model": "PUBLIC_OWNER_MAINTAINED",
     "upstream_human_writers": [
       "deep-blue-zero"
     ],
@@ -28,13 +35,24 @@
     "independent_forks": "PERMITTED",
     "license_status": "UNLICENSED_PENDING_OWNER_DECISION"
   },
+  "repository_publication_activation": {
+    "status": "VERIFIED_G3_PUBLICATION_ACTIVATION",
+    "evidence_binding": "governance/repository-controls/public-activation-bindings.json",
+    "provider_state_scope": "VERIFIED_AT_G3_CLOSURE_REVERIFY_BEFORE_PUBLIC_PUSH"
+  },
+  "analytical_authority_activation": {
+    "required_gate": "G8",
+    "status": "NOT_AUTHORIZED",
+    "current_analytical_authority": "GOOGLE_DRIVE",
+    "git_candidate": "NONAUTHORITATIVE"
+  },
   "repository_roots": {
     "series": "series/<stable-slug>/",
     "studies": "studies/<stable-slug>/",
     "characters": "characters/",
     "governance": "governance/"
   },
-  "cutover": {
+  "analytical_authority_cutover": {
     "status": "NOT_STARTED",
     "stabilization_days": 14,
     "audit_cadence": [

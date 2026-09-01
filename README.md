@@ -4,19 +4,20 @@ Owner-maintained repository for human- and LLM-readable analytical work about an
 
 ## Current state
 
-This is the G3 repository bootstrap. It contains governance, schemas, validation tooling, and repository controls only. No analytical corpus has been migrated yet.
+The repository is public and the G3 public bootstrap is closed. Work is in the G4 representative-pilot phase; P05 remains blocked pending completion and approval of the Character Index v2 schema hardening. The prior unapproved P05/YonaiP v1 tuple is withdrawn as schema-obsoleted and was not imported. This repository still contains governance, schemas, validation tooling, and repository controls only. No substantive analytical corpus has been committed.
 
-Google Drive remains authoritative until a separately approved G8 activation changes the authority state. The Git tree is currently a nonauthoritative candidate representation.
+Google Drive remains authoritative until a separately approved and verified G8 analytical-authority activation changes the authority state. Public visibility did not activate Git as the analytical master: the Git tree remains a nonauthoritative candidate representation.
 
-The GitHub repository is still private while the publication candidate is audited. Its approved target is public visibility after a separately hash-approved activation. Public readers may make independent forks, but the upstream repository is a personal project: `deep-blue-zero` is its sole writer and contributor, and external pull requests or patches are not accepted. See `CONTRIBUTING.md` and `governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md`.
+The verified G3 public-visibility evidence is bound in `governance/repository-controls/public-activation-bindings.json`. Public readers may make independent forks, but the upstream repository is a personal project: `deep-blue-zero` is its sole human writer and contributor, and external pull requests, commits, or patches are not accepted upstream. See `CONTRIBUTING.md` and `governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md`.
 
 ## First read
 
 1. `governance/AUTHORITY_STATE.yaml`
 2. `governance/AUTHORITY_SCOPE.json`
-3. `governance/MANGA_ANIME_CORPUS_INDEX.md`
-4. `governance/CHATGPT_AUTHORITY_AND_ROUTING.md`
-5. `CHARACTER_ANALYSIS_INDEX.md`
+3. `governance/repository-controls/public-activation-bindings.json`
+4. `governance/MANGA_ANIME_CORPUS_INDEX.md`
+5. `governance/CHATGPT_AUTHORITY_AND_ROUTING.md`
+6. `CHARACTER_ANALYSIS_INDEX.md`
 
 ## Intended topology
 

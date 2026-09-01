@@ -1,13 +1,15 @@
 # Manga and Anime Corpus Index
 
-> Migration state: G3 bootstrap. No analytical corpus is present yet.
+> Repository state: public; G3 closed; G4 representative pilots in progress; P05 blocked pending Character Index v2 hardening.
+>
+> Analytical authority: Google Drive until a separately approved and verified G8 cutover. No substantive analytical corpus is committed here.
 
-This will become the Git-side authority and navigation index derived from the historical Drive index. Its later materialization must preserve the Drive source identity and pre-image in private evidence, document every path rewrite, and replace Drive links with verified repository-relative targets when an equivalent Git object exists.
+This is the Git-side candidate navigation index derived from the historical Drive index. It does not become the analytical authority merely because the repository is public. Later materialization must preserve the Drive source identity and pre-image in private evidence, document every path rewrite, and replace Drive links with verified repository-relative targets only when an equivalent Git object exists.
 
 ## Series
 
-See `../series/registry.json`. The registry is empty during G3.
+See `../series/registry.json`. The registry remains empty because no series corpus has been committed.
 
 ## Studies
 
-No comparative or non-series study has been migrated during G3.
+No comparative or non-series study has been committed. Validated G4 local pilot outputs remain outside this repository candidate until separately authorized.

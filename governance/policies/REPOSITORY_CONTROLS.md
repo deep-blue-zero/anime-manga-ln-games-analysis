@@ -1,21 +1,25 @@
 # Repository controls
 
-The G3 bootstrap and publication candidate use these controls:
+The public, owner-maintained repository and its pre-G8 hardening candidate use these controls:
 
-- GitHub repository owned by `deep-blue-zero`, still private until a separately hash-approved public activation;
-- approved target state of public visibility with `deep-blue-zero` as the sole upstream human writer and contributor;
-- no external pull-request merge, patch import, cherry-pick, collaborator, or pending invitation;
+- GitHub repository ID `1352620662`, owned by `deep-blue-zero`, with verified G3 public-visibility activation evidence recorded in `../repository-controls/public-activation-bindings.json`;
+- current visibility state of public, with `deep-blue-zero` as the sole upstream human writer and contributor;
+- policy prohibits external pull-request merge, patch import, cherry-pick, non-owner collaborator, or pending invitation; G3 closure found none, and current provider state requires reread before any later public push;
+- provider interfaces may permit issues, discussions, or pull-request proposals, but none confer upstream authority;
+- bots and automations remain non-writing unless separately authorized;
 - default branch `main`;
-- after publication, administrator-enforced `main` protection with linear history and force-push and branch deletion disabled;
-- after publication, an active `refs/tags/activation/**` ruleset blocking deletion and non-fast-forward updates;
+- administrator-enforced `main` protection with linear history and force-push and branch deletion disabled, verified at G3 closure and requiring provider reread before every later public push;
+- an active `refs/tags/activation/**` ruleset blocking deletion and non-fast-forward updates, verified at G3 closure and requiring provider reread before use;
 - repository-local `core.longpaths=true`, `core.autocrlf=false`, and `core.safecrlf=true`;
 - imported bytes are `-text` by default; generated controls are explicitly `text eol=lf`;
 - exact-path staging from an approved manifest; wildcard staging and `git add .` are prohibited;
 - tracked-path, Unicode/case collision, size, binary, secret, symlink, submodule, JSON, JSONL, and generated-index checks;
-- no workflow or hook is tracked in G3; later automation requires separate review, immutable dependency pinning, and read-only default workflow permissions;
+- no workflow or hook is tracked in this bootstrap-hardening candidate; later automation requires separate review, immutable dependency pinning, and read-only default workflow permissions;
 - GitHub bootstrap initializers remain disabled; the reviewed repository artifacts are the sole first-commit source;
 - complete-history publication checks for credentials, personal email, local absolute paths, Drive URLs, excluded content, and non-owner commit identities;
 - clean, full, non-shallow clone verification before corpus content; and
-- independent G3 audit before G4.
+- historical G3 validation against commit `e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f` and tree `d0bb00fa5d7a8735892921ba3c0023b4855ac52e`, plus separate current-policy and optional manifest-bound validation for later candidates;
+- immutable preservation of `bootstrap-bindings.json` and `G3_BOOTSTRAP_TRACKED_PATHS.txt` as historical private-bootstrap evidence; and
+- current migration state of completed G3, G4 representative pilots, and P05 blocked pending Character Index v2 hardening.
 
-Repository creation and publication do not activate Git authority. Google Drive remains authoritative until verified G8 activation. Public visibility requires its own exact activation approval after the final governance commit and complete-history audit are bound.
+Repository creation and public-visibility activation did not activate Git analytical authority. Google Drive remains authoritative until separately approved and verified G8 activation. Every later push to the already public repository requires its own exact authorization after validation, committed-blob/history audit, and provider reread. This hardening does not publish corpus content or select a license.

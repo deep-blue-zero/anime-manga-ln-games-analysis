@@ -1,0 +1,461 @@
+{
+  "$id": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/main/governance/schemas/character-reconstruction-capability.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Character Reconstruction Capability Assessment v1",
+  "description": "A future, separately reviewed assessment of what one discovery analysis subject's exact evidence boundary can responsibly support. This schema does not create or populate a production registry.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "assessment_id",
+    "character_entity_id",
+    "analysis_subject_id",
+    "assessment_status",
+    "assessment_scope",
+    "overall_tier",
+    "dimensions",
+    "scenario_readiness",
+    "known_limits",
+    "evidence_refs",
+    "stale_reason",
+    "supersedes_assessment_id",
+    "superseded_by_assessment_id"
+  ],
+  "properties": {
+    "schema_version": {"const": 1},
+    "assessment_id": {"$ref": "#/$defs/localId"},
+    "character_entity_id": {"$ref": "#/$defs/characterEntityId"},
+    "analysis_subject_id": {"$ref": "#/$defs/analysisSubjectId"},
+    "assessment_status": {
+      "enum": ["UNASSESSED", "CANDIDATE", "REVIEWED", "STALE", "SUPERSEDED"]
+    },
+    "assessment_scope": {"$ref": "#/$defs/assessmentScope"},
+    "overall_tier": {
+      "enum": ["A", "B", "C", "D", "E", "NOT_ASSESSED"]
+    },
+    "dimensions": {
+      "type": "array",
+      "minItems": 12,
+      "maxItems": 12,
+      "uniqueItems": true,
+      "items": {"$ref": "#/$defs/dimensionClaim"},
+      "x-application-constraint": "Exactly one claim for every reconstructionDimension enum member."
+    },
+    "scenario_readiness": {
+      "type": "array",
+      "minItems": 6,
+      "maxItems": 6,
+      "uniqueItems": true,
+      "items": {"$ref": "#/$defs/scenarioClaim"},
+      "x-application-constraint": "Exactly one claim for every scenarioCategory enum member."
+    },
+    "known_limits": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/knownLimit"}
+    },
+    "evidence_refs": {"$ref": "#/$defs/evidenceReferenceArray"},
+    "stale_reason": {"$ref": "#/$defs/nullableNfcText"},
+    "supersedes_assessment_id": {
+      "anyOf": [
+        {"$ref": "#/$defs/localId"},
+        {"type": "null"}
+      ]
+    },
+    "superseded_by_assessment_id": {
+      "anyOf": [
+        {"$ref": "#/$defs/localId"},
+        {"type": "null"}
+      ]
+    }
+  },
+  "$defs": {
+    "localId": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$(?![\\s\\S])"
+    },
+    "characterEntityId": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*:[a-z0-9][a-z0-9-]*$(?![\\s\\S])"
+    },
+    "analysisSubjectId": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*:[a-z0-9][a-z0-9-]*@[a-z0-9][a-z0-9-]*$(?![\\s\\S])"
+    },
+    "nfcText": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[^\\u0000-\\u001F\\u007F-\\u009F]+$(?![\\s\\S])",
+      "x-application-constraint": "Strict UTF-8 and Unicode 15.0.0 NFC; no silent normalization or trimming."
+    },
+    "nullableNfcText": {
+      "anyOf": [
+        {"$ref": "#/$defs/nfcText"},
+        {"type": "null"}
+      ]
+    },
+    "evidenceReference": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*:[a-z0-9][a-z0-9-]*@[a-z0-9][a-z0-9-]*#[a-z0-9][a-z0-9-]*$(?![\\s\\S])"
+    },
+    "evidenceReferenceArray": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {"$ref": "#/$defs/evidenceReference"}
+    },
+    "assessmentScope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "continuity_id",
+        "incarnation_id",
+        "state_id",
+        "source_boundary",
+        "temporal_boundary",
+        "basis_commit",
+        "evidence_set_algorithm",
+        "evidence_set_sha256",
+        "assessment_method",
+        "assessment_method_version"
+      ],
+      "properties": {
+        "continuity_id": {
+          "anyOf": [
+            {"$ref": "#/$defs/localId"},
+            {"type": "null"}
+          ]
+        },
+        "incarnation_id": {
+          "anyOf": [
+            {"$ref": "#/$defs/localId"},
+            {"type": "null"}
+          ]
+        },
+        "state_id": {
+          "anyOf": [
+            {"$ref": "#/$defs/localId"},
+            {"type": "null"}
+          ]
+        },
+        "component_subject_ids": {
+          "type": "array",
+          "minItems": 2,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/analysisSubjectId"}
+        },
+        "source_boundary": {
+          "allOf": [
+            {"$ref": "#/$defs/nfcText"},
+            {"maxLength": 4000}
+          ]
+        },
+        "temporal_boundary": {"$ref": "#/$defs/nullableNfcText"},
+        "basis_commit": {
+          "type": "string",
+          "pattern": "^(?:[0-9a-f]{40}|[0-9a-f]{64})$(?![\\s\\S])"
+        },
+        "evidence_set_algorithm": {
+          "const": "CHARACTER_EVIDENCE_SET_V1"
+        },
+        "evidence_set_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$(?![\\s\\S])"
+        },
+        "assessment_method": {"$ref": "#/$defs/nfcText"},
+        "assessment_method_version": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._+-]*$(?![\\s\\S])"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {"continuity_id": {"const": null}},
+            "required": ["continuity_id"]
+          },
+          "then": {
+            "required": ["component_subject_ids"],
+            "properties": {
+              "incarnation_id": {"const": null},
+              "state_id": {"const": null}
+            }
+          },
+          "else": {
+            "properties": {"component_subject_ids": false}
+          }
+        }
+      ]
+    },
+    "grade": {
+      "enum": ["A", "B", "C", "D", "E", "NOT_ASSESSED"]
+    },
+    "reconstructionDimension": {
+      "enum": [
+        "PSYCHOLOGICAL_MODEL",
+        "LONGITUDINAL_STATE",
+        "VOICE_REGISTER",
+        "MUNDANE_BEHAVIOR",
+        "RELATIONSHIP_CONDITIONING",
+        "INTERIORITY",
+        "CONFLICT_BEHAVIOR",
+        "ETHICAL_DELIBERATION",
+        "HUMOR_PLAY",
+        "SOURCE_COMPLETENESS",
+        "NEGATIVE_EVIDENCE",
+        "TEMPORAL_SPECIFICITY"
+      ]
+    },
+    "dimensionClaim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["dimension", "grade", "evidence_refs", "note"],
+      "properties": {
+        "dimension": {"$ref": "#/$defs/reconstructionDimension"},
+        "grade": {"$ref": "#/$defs/grade"},
+        "evidence_refs": {"$ref": "#/$defs/evidenceReferenceArray"},
+        "note": {"$ref": "#/$defs/nullableNfcText"}
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {"grade": {"const": "NOT_ASSESSED"}},
+            "required": ["grade"]
+          },
+          "then": {
+            "properties": {"evidence_refs": {"maxItems": 0}}
+          },
+          "else": {
+            "properties": {"evidence_refs": {"minItems": 1}}
+          }
+        }
+      ]
+    },
+    "scenarioCategory": {
+      "enum": [
+        "DIALOGUE",
+        "CROSS_SCENARIO",
+        "MUNDANE_SOCIAL",
+        "ETHICAL_DELIBERATION",
+        "ROMANCE_RELATIONSHIP",
+        "PROFESSIONAL_CONTEXT"
+      ]
+    },
+    "crossScenarioScope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "assumed_chronology",
+        "interlocutor_relationship",
+        "setting_constraints"
+      ],
+      "properties": {
+        "assumed_chronology": {"$ref": "#/$defs/nfcText"},
+        "interlocutor_relationship": {"$ref": "#/$defs/nfcText"},
+        "setting_constraints": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/nfcText"}
+        }
+      }
+    },
+    "scenarioClaim": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["scenario", "state", "evidence_refs", "note"],
+      "properties": {
+        "scenario": {"$ref": "#/$defs/scenarioCategory"},
+        "state": {"enum": ["READY", "CONDITIONAL", "NOT_READY", "NOT_ASSESSED"]},
+        "evidence_refs": {"$ref": "#/$defs/evidenceReferenceArray"},
+        "conditions": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/nfcText"}
+        },
+        "cross_scenario_scope": {"$ref": "#/$defs/crossScenarioScope"},
+        "note": {"$ref": "#/$defs/nullableNfcText"}
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {"state": {"const": "NOT_ASSESSED"}},
+            "required": ["state"]
+          },
+          "then": {
+            "properties": {
+              "evidence_refs": {"maxItems": 0},
+              "conditions": false,
+              "cross_scenario_scope": false
+            }
+          },
+          "else": {
+            "properties": {"evidence_refs": {"minItems": 1}}
+          }
+        },
+        {
+          "if": {
+            "properties": {"state": {"const": "CONDITIONAL"}},
+            "required": ["state"]
+          },
+          "then": {
+            "required": ["conditions"]
+          },
+          "else": {
+            "properties": {"conditions": false}
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "scenario": {"const": "CROSS_SCENARIO"},
+              "state": {"not": {"const": "NOT_ASSESSED"}}
+            },
+            "required": ["scenario", "state"]
+          },
+          "then": {
+            "required": ["cross_scenario_scope"]
+          },
+          "else": {
+            "properties": {"cross_scenario_scope": false}
+          }
+        }
+      ]
+    },
+    "knownLimit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["limit_id", "statement", "support_kind", "evidence_refs"],
+      "properties": {
+        "limit_id": {"$ref": "#/$defs/localId"},
+        "statement": {"$ref": "#/$defs/nfcText"},
+        "support_kind": {"enum": ["EVIDENCE_BACKED", "EVIDENCE_GAP"]},
+        "evidence_refs": {"$ref": "#/$defs/evidenceReferenceArray"}
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {"support_kind": {"const": "EVIDENCE_BACKED"}},
+            "required": ["support_kind"]
+          },
+          "then": {
+            "properties": {"evidence_refs": {"minItems": 1}}
+          },
+          "else": {
+            "properties": {"evidence_refs": {"maxItems": 0}}
+          }
+        }
+      ]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {"assessment_status": {"const": "UNASSESSED"}},
+        "required": ["assessment_status"]
+      },
+      "then": {
+        "properties": {
+          "overall_tier": {"const": "NOT_ASSESSED"},
+          "evidence_refs": {"maxItems": 0},
+          "known_limits": {"maxItems": 0},
+          "stale_reason": {"const": null},
+          "supersedes_assessment_id": {"const": null},
+          "superseded_by_assessment_id": {"const": null},
+          "assessment_scope": {
+            "properties": {
+              "evidence_set_sha256": {
+                "const": "50dc6ac299e4602ee01b3b702a11e64c69cf52fe50182911eca4a377468b30d2"
+              }
+            }
+          },
+          "dimensions": {
+            "items": {
+              "properties": {
+                "grade": {"const": "NOT_ASSESSED"},
+                "evidence_refs": {"maxItems": 0}
+              }
+            }
+          },
+          "scenario_readiness": {
+            "items": {
+              "properties": {
+                "state": {"const": "NOT_ASSESSED"},
+                "evidence_refs": {"maxItems": 0},
+                "conditions": false,
+                "cross_scenario_scope": false
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"assessment_status": {"const": "CANDIDATE"}},
+        "required": ["assessment_status"]
+      },
+      "then": {
+        "properties": {
+          "evidence_refs": {"minItems": 1},
+          "stale_reason": {"const": null},
+          "superseded_by_assessment_id": {"const": null}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"assessment_status": {"const": "REVIEWED"}},
+        "required": ["assessment_status"]
+      },
+      "then": {
+        "properties": {
+          "overall_tier": {"enum": ["A", "B", "C", "D", "E"]},
+          "evidence_refs": {"minItems": 1},
+          "stale_reason": {"const": null},
+          "superseded_by_assessment_id": {"const": null}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"assessment_status": {"const": "STALE"}},
+        "required": ["assessment_status"]
+      },
+      "then": {
+        "properties": {
+          "evidence_refs": {"minItems": 1},
+          "stale_reason": {"$ref": "#/$defs/nfcText"},
+          "superseded_by_assessment_id": {"const": null}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"assessment_status": {"const": "SUPERSEDED"}},
+        "required": ["assessment_status"]
+      },
+      "then": {
+        "properties": {
+          "evidence_refs": {"minItems": 1},
+          "superseded_by_assessment_id": {"$ref": "#/$defs/localId"}
+        }
+      }
+    }
+  ],
+  "x-canonicalization-profile": "CHARACTER_INDEX_V2_C14N_1",
+  "x-evidence-set-algorithm": "CHARACTER_EVIDENCE_SET_V1",
+  "x-application-validation": [
+    "Reject duplicate JSON keys before schema validation and perform no remote schema retrieval.",
+    "Resolve character_entity_id and analysis_subject_id to exactly one discovery record and require entity identity and assessment scope to match it.",
+    "For a composite discovery subject, require the scope component_subject_ids to equal its canonical component set; never store effective continuity and never inherit leaf evidence.",
+    "Require exactly one dimension and scenario claim for every controlled enum value and unique limit_id values.",
+    "Require top-level evidence_refs to be sorted and to equal exactly the canonical set union of all assessed dimension, scenario, and EVIDENCE_BACKED known-limit references.",
+    "Resolve every evidence reference to reviewed evidence on the same analysis subject; leaf, unrelated-subject, and cross-series references fail even for composites.",
+    "Validate the full basis_commit against the repository object format and require it to resolve directly to a commit object with available history.",
+    "At basis_commit, require regular exact-case non-LFS blobs, current-evidence qualification for REVIEWED, exact raw-blob SHA-256, and the CHARACTER_EVIDENCE_SET_V1 RFC 8785 digest.",
+    "Reevaluate artifact authority and the bounded supersession graph at the comparison commit; changed bytes, evidence membership, scope, or currentness make a reviewed assessment stale.",
+    "Require assessment supersession links to resolve reciprocally within compatible entity/subject scope and remain acyclic.",
+    "Overall tiers are human judgments and must never be mechanically derived from dimension grades."
+  ],
+  "x-production-state": "SCHEMA_AND_SPECIFICATION_ONLY; characters/reconstruction_capabilities.jsonl and characters/CHARACTER_RECONSTRUCTION_INDEX.md are deliberately absent until separately authorized."
+}

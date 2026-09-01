@@ -1,0 +1,48 @@
+{
+  "schema": "manga-anime-git-migration/public-activation-bindings/v1",
+  "hash_algorithm": "SHA-256",
+  "repository": {
+    "provider": "GitHub",
+    "owner": "deep-blue-zero",
+    "name": "anime-manga-ln-games-analysis",
+    "repository_id": "1352620662",
+    "visibility": "PUBLIC",
+    "visibility_model": "PUBLIC_OWNER_MAINTAINED",
+    "default_branch": "main",
+    "validated_commit": "e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f",
+    "validated_tree": "d0bb00fa5d7a8735892921ba3c0023b4855ac52e"
+  },
+  "repository_publication_activation": {
+    "status": "VERIFIED_G3_PUBLICATION_ACTIVATION",
+    "verification_scope": "VERIFIED_AT_G3_CLOSURE_REVERIFY_BEFORE_PUBLIC_PUSH",
+    "evidence": [
+      {
+        "kind": "PUBLIC_ACTIVATION_RECEIPT",
+        "sha256": "83420b23a5243c8a53ea04d934c2362125f72bd64ae13041253ec1ddf2b80e2e"
+      },
+      {
+        "kind": "POST_ACTIVATION_PROVIDER_STATE",
+        "sha256": "1f56ba8415f9b54e8aa63b41070230779de369dac964c67252606407f1b43b2f"
+      },
+      {
+        "kind": "INDEPENDENT_PUBLIC_AUDIT",
+        "sha256": "ab5f23601f284bb60f9a0f4c7fec607130f6e99d19536f06557a4700f9d06c1e"
+      }
+    ]
+  },
+  "migration": {
+    "completed_gate": "G3",
+    "current_gate": "G4_REPRESENTATIVE_PILOTS",
+    "current_subphase": "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
+    "p01_p04_local_preparation": "PRESERVED_UNCHANGED",
+    "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED"
+  },
+  "analytical_authority_activation": {
+    "required_gate": "G8",
+    "status": "NOT_AUTHORIZED",
+    "current_analytical_authority": "GOOGLE_DRIVE",
+    "git_candidate": "NONAUTHORITATIVE"
+  },
+  "corpus_content_included": false,
+  "license_status": "UNLICENSED_PENDING_OWNER_DECISION"
+}

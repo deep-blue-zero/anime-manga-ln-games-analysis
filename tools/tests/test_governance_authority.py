@@ -1,0 +1,741 @@
+from __future__ import annotations
+
+import hashlib
+import sys
+import unittest
+from pathlib import Path
+
+
+REPOSITORY_ROOT = Path(__file__).resolve().parents[2]
+if str(REPOSITORY_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPOSITORY_ROOT))
+
+from tools.character_index_core import (  # noqa: E402
+    AuthorityGraph,
+    AuthorityMetadata,
+    DomainError,
+    GitSnapshot,
+    SnapshotEntry,
+    _restricted_yaml_load,
+    load_json,
+    parse_authority_front_matter,
+)
+
+
+ACTIVATION_EVIDENCE = [
+    (
+        "PUBLIC_ACTIVATION_RECEIPT",
+        "83420b23a5243c8a53ea04d934c2362125f72bd64ae13041253ec1ddf2b80e2e",
+    ),
+    (
+        "POST_ACTIVATION_PROVIDER_STATE",
+        "1f56ba8415f9b54e8aa63b41070230779de369dac964c67252606407f1b43b2f",
+    ),
+    (
+        "INDEPENDENT_PUBLIC_AUDIT",
+        "ab5f23601f284bb60f9a0f4c7fec607130f6e99d19536f06557a4700f9d06c1e",
+    ),
+]
+
+
+def authority_document(
+    status: str,
+    *,
+    supersedes: tuple[str, ...] = (),
+    superseded_by: tuple[str, ...] = (),
+    do_not_use: bool = False,
+    boolean_spelling: str | None = None,
+) -> bytes:
+    lines = ["---", f"status: {status}"]
+    if supersedes:
+        lines.append("supersedes:")
+        lines.extend(f"  - {path}" for path in supersedes)
+    else:
+        lines.append("supersedes: []")
+    if superseded_by:
+        lines.append("superseded_by:")
+        lines.extend(f"  - {path}" for path in superseded_by)
+    else:
+        lines.append("superseded_by: []")
+    spelling = boolean_spelling
+    if spelling is None:
+        spelling = "true" if do_not_use else "false"
+    lines.extend(
+        [
+            f"do_not_use_as_current_authority: {spelling}",
+            "---",
+            "# In-memory authority fixture",
+            "",
+        ]
+    )
+    return "\n".join(lines).encode("utf-8")
+
+
+def snapshot(documents: dict[str, bytes]) -> GitSnapshot:
+    entries = {
+        path: SnapshotEntry(path=path, mode="100644", data=data)
+        for path, data in documents.items()
+    }
+    return GitSnapshot(REPOSITORY_ROOT, "IN_MEMORY_TEST", entries)
+
+
+class AuthorityFrontMatterTests(unittest.TestCase):
+    def test_restricted_yaml_rejects_nonstring_complex_mapping_keys(self) -> None:
+        for text in ("? [a]\n: b\n", "1: value\n"):
+            with self.subTest(text=text):
+                with self.assertRaisesRegex(DomainError, "mapping keys must be strings"):
+                    _restricted_yaml_load(text, "complex-key fixture")
+
+    def test_supersession_paths_reject_raw_dot_fragment_and_c1_forms(self) -> None:
+        for target in (
+            "series/./x.md",
+            "series//x.md",
+            "series/x.md/",
+            "series/x#fragment.md",
+            "series/x\u0085y.md",
+        ):
+            with self.subTest(target=repr(target)):
+                with self.assertRaises(DomainError):
+                    parse_authority_front_matter(
+                        authority_document("canonical", supersedes=(target,)),
+                        "series/example/current.md",
+                    )
+
+    def test_valid_status_metadata_and_exact_boolean_spellings(self) -> None:
+        successor = "series/example/current.md"
+        cases = [
+            (
+                "canonical",
+                authority_document("canonical"),
+                AuthorityMetadata("canonical", (), (), False),
+            ),
+            (
+                "active_provisional",
+                authority_document("active_provisional"),
+                AuthorityMetadata("active_provisional", (), (), False),
+            ),
+            (
+                "superseded",
+                authority_document(
+                    "superseded",
+                    superseded_by=(successor,),
+                    do_not_use=True,
+                ),
+                AuthorityMetadata("superseded", (), (successor,), True),
+            ),
+            (
+                "historical_legacy",
+                authority_document("historical_legacy", do_not_use=True),
+                AuthorityMetadata("historical_legacy", (), (), True),
+            ),
+        ]
+        for name, data, expected in cases:
+            with self.subTest(name=name):
+                self.assertEqual(
+                    parse_authority_front_matter(data, f"series/example/{name}.md"),
+                    expected,
+                )
+
+    def test_non_exact_opener_is_unclassified_legacy(self) -> None:
+        valid = authority_document("canonical")
+        cases = {
+            "bom_prefix": b"\xef\xbb\xbf" + valid,
+            "crlf_opener": b"---\r\n" + valid[len(b"---\n") :],
+            "leading_blank": b"\n" + valid,
+            "leading_text": b"historical preface\n" + valid,
+            "invalid_byte_before_opener": b"\xff" + valid,
+            "crlf_opener_with_invalid_body": (
+                b"---\r\n" + valid[len(b"---\n") :] + b"\xff"
+            ),
+        }
+        for name, data in cases.items():
+            path = f"series/example/nonexact-{name}.md"
+            with self.subTest(name=name):
+                self.assertIsNone(parse_authority_front_matter(data, path))
+                graph = AuthorityGraph(snapshot({path: data}))
+                self.assertEqual(graph.errors, [])
+                self.assertEqual(graph.classification(path), "UNCLASSIFIED_LEGACY")
+                self.assertFalse(graph.current_eligible(path))
+
+    def test_exact_opener_invalid_surfaces_fail_closed(self) -> None:
+        valid = authority_document("canonical")
+        complete_front = (
+            b"---\nstatus: canonical\nsupersedes: []\nsuperseded_by: []\n"
+            b"do_not_use_as_current_authority: false\n"
+        )
+        cases = {
+            "cr_in_front_matter": valid.replace(
+                b"status: canonical\n", b"status: canonical\r\n", 1
+            ),
+            "crlf_closing_fence": valid.replace(
+                b"do_not_use_as_current_authority: false\n---\n",
+                b"do_not_use_as_current_authority: false\n---\r\n",
+                1,
+            ),
+            "cr_in_body": valid.replace(
+                b"# In-memory authority fixture\n",
+                b"# In-memory authority fixture\r\n",
+                1,
+            ),
+            "invalid_utf8_front": b"---\nstatus: \xff\n---\n",
+            "invalid_utf8_body": valid + b"\xff",
+            "malformed_yaml": b"---\nstatus: [\n---\n",
+            "missing_closing_fence": complete_front,
+            "malformed_closing_fence": complete_front + b"--\n",
+            "unterminated_closing_line": complete_front + b"---",
+        }
+        for name, data in cases.items():
+            path = f"series/example/invalid-{name}.md"
+            with self.subTest(name=name):
+                with self.assertRaises(DomainError):
+                    parse_authority_front_matter(data, path)
+                graph = AuthorityGraph(snapshot({path: data}))
+                self.assertTrue(graph.errors)
+                self.assertEqual(graph.classification(path), "INVALID")
+                self.assertFalse(graph.current_eligible(path))
+
+    def test_restricted_yaml_constructs_fail_closed(self) -> None:
+        fronts = {
+            "duplicate_key": "title: one\ntitle: two\n",
+            "anchor": "title: &title value\n",
+            "alias": "title: &title value\ncopy: *title\n",
+            "merge": "defaults: &defaults\n  title: value\n<<: *defaults\n",
+            "explicit_tag": "title: !!str value\n",
+            "custom_tag": "title: !custom value\n",
+        }
+        for name, front in fronts.items():
+            path = f"series/example/restricted-{name}.md"
+            data = f"---\n{front}---\n# Body\n".encode("utf-8")
+            with self.subTest(name=name):
+                with self.assertRaises(DomainError):
+                    parse_authority_front_matter(data, path)
+                graph = AuthorityGraph(snapshot({path: data}))
+                self.assertTrue(graph.errors)
+                self.assertEqual(graph.classification(path), "INVALID")
+                self.assertFalse(graph.current_eligible(path))
+
+    def test_wrong_type_status_fails_closed_without_value_echo(self) -> None:
+        for name, literal in {
+            "array": "[]",
+            "mapping": "{}",
+            "boolean": "true",
+            "integer": "1",
+            "null": "null",
+            "unknown_string": "sensitive-status-marker",
+        }.items():
+            path = f"series/example/wrong-status-{name}.md"
+            data = (
+                "---\n"
+                f"status: {literal}\n"
+                "supersedes: []\n"
+                "superseded_by: []\n"
+                "do_not_use_as_current_authority: false\n"
+                "---\n# Body\n"
+            ).encode("utf-8")
+            with self.subTest(name=name):
+                with self.assertRaises(DomainError) as caught:
+                    parse_authority_front_matter(data, path)
+                if name == "unknown_string":
+                    self.assertNotIn(literal, str(caught.exception))
+                graph = AuthorityGraph(snapshot({path: data}))
+                self.assertTrue(graph.errors)
+                self.assertEqual(graph.classification(path), "INVALID")
+                self.assertFalse(graph.current_eligible(path))
+
+    def test_supersession_arrays_reject_wrong_types_members_and_duplicates(self) -> None:
+        invalid_values = {
+            "scalar": "series/example/old.md",
+            "mapping": "{}",
+            "null": "null",
+            "integer_member": "[1]",
+            "nested_member": "[[]]",
+            "duplicate": (
+                "[series/example/old.md, series/example/old.md]"
+            ),
+        }
+        for field in ("supersedes", "superseded_by"):
+            for name, value in invalid_values.items():
+                path = f"series/example/invalid-{field}-{name}.md"
+                values = {
+                    "supersedes": "[]",
+                    "superseded_by": "[]",
+                }
+                values[field] = value
+                data = (
+                    "---\n"
+                    "status: canonical\n"
+                    f"supersedes: {values['supersedes']}\n"
+                    f"superseded_by: {values['superseded_by']}\n"
+                    "do_not_use_as_current_authority: false\n"
+                    "---\n# Body\n"
+                ).encode("utf-8")
+                with self.subTest(field=field, name=name):
+                    with self.assertRaises(DomainError):
+                        parse_authority_front_matter(data, path)
+                    graph = AuthorityGraph(snapshot({path: data}))
+                    self.assertTrue(graph.errors)
+                    self.assertEqual(graph.classification(path), "INVALID")
+                    self.assertFalse(graph.current_eligible(path))
+
+    def test_boolean_spelling_is_exact_and_not_merely_yaml_truthy(self) -> None:
+        invalid_spellings = (
+            "True",
+            "FALSE",
+            "yes",
+            "no",
+            "on",
+            "off",
+            "1",
+            "0",
+            '"true"',
+            '"false"',
+            "false # comment",
+            "false ",
+        )
+        for spelling in invalid_spellings:
+            with self.subTest(spelling=spelling):
+                with self.assertRaises(DomainError):
+                    parse_authority_front_matter(
+                        authority_document(
+                            "canonical",
+                            boolean_spelling=spelling,
+                        ),
+                        "series/example/invalid-boolean.md",
+                    )
+
+    def test_current_status_with_veto_or_successor_is_contradictory(self) -> None:
+        successor = "series/example/successor.md"
+        for status in ("canonical", "active_provisional"):
+            cases = (
+                authority_document(status, do_not_use=True),
+                authority_document(status, superseded_by=(successor,)),
+            )
+            for data in cases:
+                with self.subTest(status=status, data=data):
+                    with self.assertRaisesRegex(DomainError, "current status contradicts"):
+                        parse_authority_front_matter(
+                            data,
+                            f"series/example/{status}.md",
+                        )
+
+    def test_partial_authority_quartet_fails_closed(self) -> None:
+        fields = {
+            "status": "status: canonical",
+            "supersedes": "supersedes: []",
+            "superseded_by": "superseded_by: []",
+            "do_not_use_as_current_authority": (
+                "do_not_use_as_current_authority: false"
+            ),
+        }
+        path = "series/example/partial.md"
+        for omitted in fields:
+            lines = ["---"]
+            lines.extend(value for key, value in fields.items() if key != omitted)
+            lines.extend(["---", "# Partial", ""])
+            data = "\n".join(lines).encode("utf-8")
+            with self.subTest(omitted=omitted):
+                with self.assertRaisesRegex(DomainError, "quartet is incomplete"):
+                    parse_authority_front_matter(data, path)
+                graph = AuthorityGraph(snapshot({path: data}))
+                self.assertEqual(graph.classification(path), "INVALID")
+                self.assertTrue(
+                    any("quartet is incomplete" in error for error in graph.errors)
+                )
+
+    def test_missing_quartet_is_unclassified_legacy_not_current(self) -> None:
+        documents = {
+            "series/example/plain.md": b"# No front matter\n",
+            "studies/example/other-front-matter.md": (
+                b"---\ntitle: Historical note\n---\n# Body\n"
+            ),
+        }
+        graph = AuthorityGraph(snapshot(documents))
+        self.assertEqual(graph.errors, [])
+        for path in documents:
+            with self.subTest(path=path):
+                self.assertEqual(graph.classification(path), "UNCLASSIFIED_LEGACY")
+                self.assertFalse(graph.current_eligible(path))
+
+
+class AuthorityGraphTests(unittest.TestCase):
+    def test_canonical_provisional_historical_and_missing_classifications(self) -> None:
+        documents = {
+            "series/example/canonical.md": authority_document("canonical"),
+            "series/example/provisional.md": authority_document(
+                "active_provisional"
+            ),
+            "studies/example/historical.md": authority_document(
+                "historical_legacy", do_not_use=True
+            ),
+        }
+        graph = AuthorityGraph(snapshot(documents))
+        self.assertEqual(graph.errors, [])
+        self.assertEqual(
+            graph.classification("series/example/canonical.md"),
+            "CANONICAL_CURRENT",
+        )
+        self.assertEqual(
+            graph.classification("series/example/provisional.md"),
+            "ACTIVE_PROVISIONAL_CURRENT",
+        )
+        self.assertEqual(
+            graph.classification("studies/example/historical.md"),
+            "HISTORICAL_LEGACY",
+        )
+        self.assertEqual(graph.classification("series/example/missing.md"), "MISSING")
+        self.assertTrue(graph.current_eligible("series/example/canonical.md"))
+        self.assertTrue(graph.current_eligible("series/example/provisional.md"))
+        self.assertFalse(graph.current_eligible("studies/example/historical.md"))
+        self.assertFalse(graph.current_eligible("series/example/missing.md"))
+
+    def test_reciprocal_supersession_has_one_current_sink(self) -> None:
+        old = "series/example/old.md"
+        current = "series/example/current.md"
+        graph = AuthorityGraph(
+            snapshot(
+                {
+                    old: authority_document(
+                        "superseded",
+                        superseded_by=(current,),
+                        do_not_use=True,
+                    ),
+                    current: authority_document("canonical", supersedes=(old,)),
+                }
+            )
+        )
+        self.assertEqual(graph.errors, [])
+        self.assertEqual(graph.edges, {(old, current)})
+        self.assertEqual(graph.classification(old), "SUPERSEDED")
+        self.assertEqual(graph.classification(current), "CANONICAL_CURRENT")
+        self.assertFalse(graph.current_eligible(old))
+        self.assertTrue(graph.current_eligible(current))
+
+    def test_three_node_chain_and_independent_components_are_valid(self) -> None:
+        old = "series/example/old.md"
+        middle = "series/example/middle.md"
+        current = "series/example/current.md"
+        other_old = "studies/example/old.md"
+        other_current = "studies/example/current.md"
+        graph = AuthorityGraph(
+            snapshot(
+                {
+                    old: authority_document(
+                        "superseded",
+                        superseded_by=(middle,),
+                        do_not_use=True,
+                    ),
+                    middle: authority_document(
+                        "superseded",
+                        supersedes=(old,),
+                        superseded_by=(current,),
+                        do_not_use=True,
+                    ),
+                    current: authority_document("canonical", supersedes=(middle,)),
+                    other_old: authority_document(
+                        "superseded",
+                        superseded_by=(other_current,),
+                        do_not_use=True,
+                    ),
+                    other_current: authority_document(
+                        "active_provisional",
+                        supersedes=(other_old,),
+                    ),
+                }
+            )
+        )
+        self.assertEqual(graph.errors, [])
+        self.assertEqual(graph.classification(old), "SUPERSEDED")
+        self.assertEqual(graph.classification(middle), "SUPERSEDED")
+        self.assertEqual(graph.classification(current), "CANONICAL_CURRENT")
+        self.assertEqual(
+            graph.classification(other_current),
+            "ACTIVE_PROVISIONAL_CURRENT",
+        )
+        self.assertTrue(graph.current_eligible(current))
+        self.assertTrue(graph.current_eligible(other_current))
+
+    def test_each_one_sided_supersession_orientation_is_invalid(self) -> None:
+        old = "series/example/old.md"
+        current = "series/example/current.md"
+        cases = {
+            "predecessor_only": {
+                old: authority_document(
+                    "superseded",
+                    superseded_by=(current,),
+                    do_not_use=True,
+                ),
+                current: authority_document("canonical"),
+            },
+            "successor_only": {
+                old: authority_document("historical_legacy", do_not_use=True),
+                current: authority_document("canonical", supersedes=(old,)),
+            },
+        }
+        for name, documents in cases.items():
+            with self.subTest(name=name):
+                graph = AuthorityGraph(snapshot(documents))
+                self.assertTrue(
+                    any("nonreciprocal supersession edge" in error for error in graph.errors)
+                )
+                self.assertEqual(graph.classification(old), "INVALID")
+                self.assertEqual(graph.classification(current), "INVALID")
+
+    def test_cyclic_reciprocal_graph_is_invalid(self) -> None:
+        first = "series/example/first.md"
+        second = "series/example/second.md"
+        graph = AuthorityGraph(
+            snapshot(
+                {
+                    first: authority_document(
+                        "superseded",
+                        supersedes=(second,),
+                        superseded_by=(second,),
+                        do_not_use=True,
+                    ),
+                    second: authority_document(
+                        "superseded",
+                        supersedes=(first,),
+                        superseded_by=(first,),
+                        do_not_use=True,
+                    ),
+                }
+            )
+        )
+        self.assertTrue(any("supersession cycle" in error for error in graph.errors))
+        self.assertTrue(
+            any("exactly one current sink" in error for error in graph.errors)
+        )
+        self.assertEqual(graph.classification(first), "INVALID")
+        self.assertEqual(graph.classification(second), "INVALID")
+
+    def test_self_edge_and_multiple_current_sinks_are_invalid(self) -> None:
+        self_path = "series/example/self.md"
+        self_graph = AuthorityGraph(
+            snapshot(
+                {
+                    self_path: authority_document(
+                        "superseded",
+                        supersedes=(self_path,),
+                        superseded_by=(self_path,),
+                        do_not_use=True,
+                    )
+                }
+            )
+        )
+        self.assertTrue(any("self supersession edge" in error for error in self_graph.errors))
+        self.assertEqual(self_graph.classification(self_path), "INVALID")
+
+        old = "series/example/old.md"
+        first_head = "series/example/first-head.md"
+        second_head = "series/example/second-head.md"
+        sink_graph = AuthorityGraph(
+            snapshot(
+                {
+                    old: authority_document(
+                        "superseded",
+                        superseded_by=(first_head, second_head),
+                        do_not_use=True,
+                    ),
+                    first_head: authority_document("canonical", supersedes=(old,)),
+                    second_head: authority_document("canonical", supersedes=(old,)),
+                }
+            )
+        )
+        self.assertTrue(
+            any("exactly one current sink" in error for error in sink_graph.errors)
+        )
+        for path in (old, first_head, second_head):
+            self.assertEqual(sink_graph.classification(path), "INVALID")
+
+    def test_exact_case_mismatch_is_dangling_and_noncurrent(self) -> None:
+        old = "series/example/old.md"
+        declared = "series/example/current.md"
+        actual = "series/example/Current.md"
+        graph = AuthorityGraph(
+            snapshot(
+                {
+                    old: authority_document(
+                        "superseded",
+                        superseded_by=(declared,),
+                        do_not_use=True,
+                    ),
+                    actual: authority_document("canonical", supersedes=(old,)),
+                }
+            )
+        )
+        self.assertTrue(any("dangling successor path" in error for error in graph.errors))
+        self.assertFalse(graph.current_eligible(old))
+        self.assertFalse(graph.current_eligible(actual))
+        self.assertEqual(graph.classification(declared), "MISSING")
+
+    def test_dangling_predecessor_and_successor_are_invalid(self) -> None:
+        existing = "series/example/existing.md"
+        missing = "series/example/missing.md"
+        cases = {
+            "dangling_successor": {
+                existing: authority_document(
+                    "superseded",
+                    superseded_by=(missing,),
+                    do_not_use=True,
+                )
+            },
+            "dangling_predecessor": {
+                existing: authority_document("canonical", supersedes=(missing,))
+            },
+        }
+        for name, documents in cases.items():
+            with self.subTest(name=name):
+                graph = AuthorityGraph(snapshot(documents))
+                self.assertTrue(any("dangling" in error for error in graph.errors))
+                self.assertEqual(graph.classification(existing), "INVALID")
+                self.assertEqual(graph.classification(missing), "MISSING")
+
+
+class PublicGovernanceInvariantTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.scope = load_json(REPOSITORY_ROOT / "governance/AUTHORITY_SCOPE.json")
+        cls.binding = load_json(
+            REPOSITORY_ROOT
+            / "governance/repository-controls/public-activation-bindings.json"
+        )
+        state_path = REPOSITORY_ROOT / "governance/AUTHORITY_STATE.yaml"
+        cls.state = _restricted_yaml_load(
+            state_path.read_text(encoding="utf-8"),
+            str(state_path),
+        )
+
+    def test_public_visibility_is_separate_from_analytical_authority(self) -> None:
+        self.assertEqual(
+            self.scope["state"],
+            "PUBLIC_REPOSITORY_PRE_CUTOVER_DRIVE_AUTHORITATIVE",
+        )
+        self.assertEqual(self.scope["repository"]["current_visibility"], "PUBLIC")
+        self.assertEqual(
+            self.scope["repository"]["visibility_model"],
+            "PUBLIC_OWNER_MAINTAINED",
+        )
+        self.assertEqual(self.state["repository"]["visibility"], "PUBLIC")
+        self.assertEqual(self.binding["repository"]["visibility"], "PUBLIC")
+
+        self.assertEqual(
+            self.scope["before_verified_g8_activation"]["analytical_authority"],
+            "GOOGLE_DRIVE",
+        )
+        self.assertEqual(
+            self.state["effective_authority"]["analytical_corpus"],
+            "GOOGLE_DRIVE",
+        )
+        self.assertEqual(
+            self.binding["analytical_authority_activation"]
+            ["current_analytical_authority"],
+            "GOOGLE_DRIVE",
+        )
+        self.assertEqual(self.state["effective_authority"]["git_candidate"], "NONAUTHORITATIVE")
+        self.assertEqual(
+            self.scope["analytical_authority_cutover"]["status"],
+            "NOT_STARTED",
+        )
+
+    def test_publication_and_g8_activation_fields_are_distinct(self) -> None:
+        self.assertNotIn("activation", self.scope)
+        self.assertNotIn("activation", self.state)
+        self.assertNotIn("activation", self.binding)
+        self.assertEqual(
+            self.scope["repository_publication_activation"]["status"],
+            "VERIFIED_G3_PUBLICATION_ACTIVATION",
+        )
+        self.assertEqual(
+            self.state["publication"]["visibility_activation"],
+            "VERIFIED_G3_PUBLICATION_ACTIVATION",
+        )
+        self.assertEqual(
+            self.scope["repository_publication_activation"]["evidence_binding"],
+            "governance/repository-controls/public-activation-bindings.json",
+        )
+        self.assertEqual(
+            self.state["publication"]["evidence_binding"],
+            "governance/repository-controls/public-activation-bindings.json",
+        )
+        for document in (self.scope, self.state, self.binding):
+            authority = document["analytical_authority_activation"]
+            self.assertEqual(authority["required_gate"], "G8")
+            self.assertEqual(authority["status"], "NOT_AUTHORIZED")
+
+    def test_migration_and_withdrawal_state_is_consistent(self) -> None:
+        expected = {
+            "completed_gate": "G3",
+            "current_gate": "G4_REPRESENTATIVE_PILOTS",
+            "current_subphase": "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
+            "p01_p04_local_preparation": "PRESERVED_UNCHANGED",
+            "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
+        }
+        for document in (self.scope, self.state, self.binding):
+            with self.subTest(schema=document["schema"]):
+                for key, value in expected.items():
+                    self.assertEqual(document["migration"][key], value)
+
+    def test_public_activation_evidence_tuple_is_exact(self) -> None:
+        publication = self.binding["repository_publication_activation"]
+        self.assertEqual(
+            publication["status"],
+            "VERIFIED_G3_PUBLICATION_ACTIVATION",
+        )
+        self.assertEqual(
+            publication["verification_scope"],
+            "VERIFIED_AT_G3_CLOSURE_REVERIFY_BEFORE_PUBLIC_PUSH",
+        )
+        actual = [
+            (entry["kind"], entry["sha256"])
+            for entry in publication["evidence"]
+        ]
+        self.assertEqual(actual, ACTIVATION_EVIDENCE)
+        self.assertEqual(
+            self.binding["repository"]["validated_commit"],
+            "e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f",
+        )
+        self.assertEqual(
+            self.binding["repository"]["validated_tree"],
+            "d0bb00fa5d7a8735892921ba3c0023b4855ac52e",
+        )
+        raw = (
+            REPOSITORY_ROOT
+            / "governance/repository-controls/public-activation-bindings.json"
+        ).read_text(encoding="utf-8")
+        self.assertNotRegex(raw, r"(?i)(?:[a-z]:\\|/home/|/users/)")
+
+    def test_owner_only_no_corpus_and_license_boundaries_remain_closed(self) -> None:
+        repository = self.scope["repository"]
+        self.assertEqual(repository["upstream_human_writers"], ["deep-blue-zero"])
+        self.assertEqual(repository["external_contributions"], "NOT_ACCEPTED")
+        self.assertEqual(repository["license_status"], "UNLICENSED_PENDING_OWNER_DECISION")
+        self.assertIs(self.binding["corpus_content_included"], False)
+        self.assertEqual(
+            self.binding["license_status"],
+            "UNLICENSED_PENDING_OWNER_DECISION",
+        )
+        series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
+        self.assertEqual(series_registry["status"], "EMPTY_NO_CORPUS")
+        self.assertEqual(series_registry["series"], [])
+        self.assertEqual(
+            (REPOSITORY_ROOT / "characters/registry.jsonl").read_bytes(),
+            b"",
+        )
+
+    def test_historical_private_bootstrap_bindings_are_unchanged(self) -> None:
+        historical = {
+            "governance/repository-controls/bootstrap-bindings.json": (
+                "7ebb26e4cff22acbabe72905847f6efbbb6885c4a6be0b9e5297db22d654ae17"
+            ),
+            "governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt": (
+                "75c6fe48adc719090828a2da02f3dc69e2334b8b20ee5f1c89e0f4c33ee6d191"
+            ),
+        }
+        for relative, expected in historical.items():
+            with self.subTest(path=relative):
+                data = (REPOSITORY_ROOT / relative).read_bytes()
+                self.assertEqual(hashlib.sha256(data).hexdigest(), expected)
+
+
+if __name__ == "__main__":
+    unittest.main()

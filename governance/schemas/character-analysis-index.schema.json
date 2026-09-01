@@ -1,113 +1,366 @@
 {
   "$id": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/main/governance/schemas/character-analysis-index.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Character Analysis Registry Record",
+  "title": "Character Analysis Discovery Registry Record v2",
+  "description": "One closed registry record represents one analysis subject grouped under a stable character entity.",
   "type": "object",
   "additionalProperties": false,
   "required": [
-    "character_id",
+    "schema_version",
+    "character_entity_id",
+    "analysis_subject_id",
     "preferred_name",
+    "subject_label",
     "series_id",
     "franchise_id",
     "continuity_id",
-    "incarnation",
-    "aliases",
+    "incarnation_id",
+    "state_id",
+    "subject_kind",
+    "entity_aliases",
+    "subject_aliases",
     "analytical_dimensions",
     "evidence",
-    "narrative_coverage",
-    "migration_status",
+    "analytical_coverage",
+    "materialization_status",
     "curation_status",
-    "inclusion_basis"
+    "inclusion_basis",
+    "notes"
   ],
   "properties": {
-    "character_id": {
-      "type": "string",
-      "pattern": "^[a-z0-9][a-z0-9-]*:[a-z0-9][a-z0-9-]*$"
-    },
-    "preferred_name": {
-      "type": "string",
-      "minLength": 1
-    },
-    "series_id": {
-      "type": "string",
-      "minLength": 1
-    },
+    "schema_version": {"const": 2},
+    "character_entity_id": {"$ref": "#/$defs/characterEntityId"},
+    "analysis_subject_id": {"$ref": "#/$defs/analysisSubjectId"},
+    "preferred_name": {"$ref": "#/$defs/nfcText"},
+    "subject_label": {"$ref": "#/$defs/nfcText"},
+    "series_id": {"$ref": "#/$defs/localId"},
     "franchise_id": {
-      "type": ["string", "null"]
+      "anyOf": [
+        {"$ref": "#/$defs/localId"},
+        {"type": "null"}
+      ]
     },
     "continuity_id": {
-      "type": "string",
-      "minLength": 1
+      "anyOf": [
+        {"$ref": "#/$defs/localId"},
+        {"type": "null"}
+      ]
     },
-    "incarnation": {
-      "type": "string",
-      "minLength": 1
+    "incarnation_id": {
+      "anyOf": [
+        {"$ref": "#/$defs/localId"},
+        {"type": "null"}
+      ]
     },
-    "aliases": {
+    "state_id": {
+      "anyOf": [
+        {"$ref": "#/$defs/localId"},
+        {"type": "null"}
+      ]
+    },
+    "subject_kind": {
+      "enum": [
+        "SINGLE_CONTINUITY",
+        "ADAPTATION_INCARNATION",
+        "ALTERNATE_CONTINUITY",
+        "ROUTE_VARIANT",
+        "TEMPORAL_STATE",
+        "PLAYER_ARCHETYPE",
+        "COMPOSITE_MODEL"
+      ]
+    },
+    "component_subject_ids": {
       "type": "array",
-      "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": ["value", "language", "kind", "ambiguous"],
-        "properties": {
-          "value": {"type": "string", "minLength": 1},
-          "language": {"type": "string", "minLength": 2},
-          "kind": {
-            "enum": ["ORIGINAL_SCRIPT", "TRANSLITERATION", "TRANSLATION", "SPELLING", "ALTERNATIVE"]
-          },
-          "ambiguous": {"type": "boolean"},
-          "note": {"type": ["string", "null"]}
-        }
-      }
+      "minItems": 2,
+      "uniqueItems": true,
+      "items": {"$ref": "#/$defs/analysisSubjectId"}
     },
+    "entity_aliases": {"$ref": "#/$defs/aliasArray"},
+    "subject_aliases": {"$ref": "#/$defs/aliasArray"},
     "analytical_dimensions": {
       "type": "array",
       "minItems": 1,
       "uniqueItems": true,
-      "items": {
-        "enum": ["BEHAVIOR", "PSYCHOLOGY", "SPEECH", "ETHICS", "RELATIONSHIPS", "IDEOLOGY", "DECISION_MAKING"]
-      }
+      "items": {"$ref": "#/$defs/analyticalDimension"}
     },
     "evidence": {
       "type": "array",
-      "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": ["repository_path", "semantic_locator", "reviewed"],
-        "properties": {
-          "repository_path": {"type": "string", "pattern": "^(series|studies)/"},
-          "semantic_locator": {"type": "string", "minLength": 1},
-          "reviewed": {"const": true},
-          "dimensions": {"type": "array", "uniqueItems": true, "items": {"type": "string"}}
-        }
-      }
+      "items": {"$ref": "#/$defs/evidence"}
     },
-    "narrative_coverage": {
+    "analytical_coverage": {
       "type": "array",
-      "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": ["type", "locator"],
-        "properties": {
-          "type": {"enum": ["EPISODE", "CHAPTER", "VOLUME", "ARC", "ROUTE", "QUEST"]},
-          "locator": {"type": "string", "minLength": 1}
-        }
-      }
+      "items": {"$ref": "#/$defs/analyticalCoverage"}
     },
-    "migration_status": {
-      "enum": ["NOT_YET_MIGRATED", "MIGRATED_UNREVIEWED", "MIGRATED_REVIEWED"]
+    "materialization_status": {
+      "enum": ["NOT_PRESENT", "PRESENT_UNREVIEWED", "PRESENT_REVIEWED"]
     },
     "curation_status": {
-      "enum": ["UNREVIEWED", "CANDIDATE", "INCLUDED", "EXCLUDED_REVIEWED"]
+      "enum": ["CANDIDATE", "INCLUDED", "EXCLUDED_REVIEWED"]
     },
     "inclusion_basis": {
       "enum": [null, "DEDICATED", "DISTRIBUTED_SUBSTANTIAL"]
     },
-    "notes": {
-      "type": ["string", "null"]
+    "notes": {"$ref": "#/$defs/nullableNfcText"}
+  },
+  "$defs": {
+    "localId": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$(?![\\s\\S])"
+    },
+    "characterEntityId": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*:[a-z0-9][a-z0-9-]*$(?![\\s\\S])"
+    },
+    "analysisSubjectId": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*:[a-z0-9][a-z0-9-]*@[a-z0-9][a-z0-9-]*$(?![\\s\\S])"
+    },
+    "nfcText": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[^\\u0000-\\u001F\\u007F-\\u009F]+$(?![\\s\\S])",
+      "x-application-constraint": "Strict UTF-8; Unicode 15.0.0 NFC; no leading or trailing Unicode White_Space where the field grammar forbids it."
+    },
+    "nullableNfcText": {
+      "anyOf": [
+        {"$ref": "#/$defs/nfcText"},
+        {"type": "null"}
+      ]
+    },
+    "languageTag": {
+      "type": "string",
+      "pattern": "^[a-z]{2,8}(?:-[a-z0-9]{1,8})*$(?![\\s\\S])"
+    },
+    "alias": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "language", "kind", "ambiguous"],
+      "properties": {
+        "value": {"$ref": "#/$defs/nfcText"},
+        "language": {"$ref": "#/$defs/languageTag"},
+        "kind": {
+          "enum": [
+            "ORIGINAL_SCRIPT",
+            "TRANSLITERATION",
+            "TRANSLATION",
+            "SPELLING",
+            "ALTERNATIVE"
+          ]
+        },
+        "ambiguous": {"type": "boolean"},
+        "note": {"$ref": "#/$defs/nullableNfcText"}
+      }
+    },
+    "aliasArray": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {"$ref": "#/$defs/alias"},
+      "x-application-constraint": "Uniqueness is the Unicode-15.0.0 normalized tuple (value, lower-case language, kind), and aliases may not overlap the sibling scope."
+    },
+    "analyticalDimension": {
+      "enum": [
+        "BEHAVIOR",
+        "PSYCHOLOGY",
+        "SPEECH",
+        "ETHICS",
+        "RELATIONSHIPS",
+        "IDEOLOGY",
+        "DECISION_MAKING"
+      ]
+    },
+    "repositoryPath": {
+      "type": "string",
+      "pattern": "^(?:series|studies)/[^/\\\\\\u0000-\\u001F\\u007F-\\u009F#?]+(?:/[^/\\\\\\u0000-\\u001F\\u007F-\\u009F#?]+)*$(?![\\s\\S])",
+      "not": {"pattern": "(?:^|/)\\.{1,2}(?:/|$)"},
+      "x-application-constraint": "Exact-case NFC POSIX path; no URL, absolute path, dot segment, collision, symlink, submodule, or Git LFS pointer."
+    },
+    "anchor": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[^#\\s\\u0000-\\u001F\\u007F-\\u009F]+$(?![\\s\\S])"
+        },
+        {"type": "null"}
+      ]
+    },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "evidence_id",
+        "repository_path",
+        "label",
+        "review_state",
+        "dimensions",
+        "provenance_note"
+      ],
+      "properties": {
+        "evidence_id": {"$ref": "#/$defs/localId"},
+        "repository_path": {"$ref": "#/$defs/repositoryPath"},
+        "label": {"$ref": "#/$defs/nfcText"},
+        "anchor": {"$ref": "#/$defs/anchor"},
+        "review_state": {"enum": ["UNREVIEWED", "REVIEWED"]},
+        "dimensions": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/analyticalDimension"}
+        },
+        "provenance_note": {"$ref": "#/$defs/nullableNfcText"}
+      }
+    },
+    "locator": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._:-]*$(?![\\s\\S])"
+    },
+    "analyticalCoverage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "coverage_id",
+        "continuity_id",
+        "medium",
+        "unit",
+        "scope_type",
+        "evidence_ids"
+      ],
+      "properties": {
+        "coverage_id": {"$ref": "#/$defs/localId"},
+        "continuity_id": {"$ref": "#/$defs/localId"},
+        "component_subject_id": {"$ref": "#/$defs/analysisSubjectId"},
+        "medium": {
+          "enum": ["ANIME", "LIGHT_NOVEL", "MANGA", "GAME", "VISUAL_NOVEL", "OTHER"]
+        },
+        "unit": {
+          "enum": [
+            "EPISODE",
+            "CHAPTER",
+            "VOLUME",
+            "ARC",
+            "ROUTE",
+            "QUEST",
+            "STORY_CHAPTER",
+            "OTHER"
+          ]
+        },
+        "scope_type": {"enum": ["RANGE", "DISCRETE", "DESCRIPTIVE"]},
+        "evidence_ids": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/localId"}
+        },
+        "start": {"$ref": "#/$defs/locator"},
+        "through": {"$ref": "#/$defs/locator"},
+        "locators": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/locator"}
+        },
+        "scope_note": {
+          "allOf": [
+            {"$ref": "#/$defs/nfcText"},
+            {"maxLength": 2000}
+          ]
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {"scope_type": {"const": "RANGE"}},
+            "required": ["scope_type"]
+          },
+          "then": {
+            "required": ["start", "through"],
+            "properties": {"locators": false, "scope_note": false}
+          }
+        },
+        {
+          "if": {
+            "properties": {"scope_type": {"const": "DISCRETE"}},
+            "required": ["scope_type"]
+          },
+          "then": {
+            "required": ["locators"],
+            "properties": {"start": false, "through": false, "scope_note": false}
+          }
+        },
+        {
+          "if": {
+            "properties": {"scope_type": {"const": "DESCRIPTIVE"}},
+            "required": ["scope_type"]
+          },
+          "then": {
+            "required": ["scope_note"],
+            "properties": {"start": false, "through": false, "locators": false}
+          }
+        }
+      ]
     }
   },
   "allOf": [
+    {
+      "if": {
+        "properties": {"subject_kind": {"const": "COMPOSITE_MODEL"}},
+        "required": ["subject_kind"]
+      },
+      "then": {
+        "required": ["component_subject_ids"],
+        "properties": {
+          "continuity_id": {"const": null},
+          "incarnation_id": {"const": null},
+          "state_id": {"const": null},
+          "analytical_coverage": {
+            "items": {"required": ["component_subject_id"]}
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "continuity_id": {"$ref": "#/$defs/localId"},
+          "component_subject_ids": false,
+          "analytical_coverage": {
+            "items": {"not": {"required": ["component_subject_id"]}}
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"materialization_status": {"const": "PRESENT_UNREVIEWED"}},
+        "required": ["materialization_status"]
+      },
+      "then": {
+        "properties": {
+          "evidence": {
+            "minItems": 1,
+            "contains": {
+              "properties": {"review_state": {"const": "UNREVIEWED"}},
+              "required": ["review_state"]
+            },
+            "minContains": 1
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"materialization_status": {"const": "PRESENT_REVIEWED"}},
+        "required": ["materialization_status"]
+      },
+      "then": {
+        "properties": {
+          "evidence": {
+            "minItems": 1,
+            "items": {
+              "properties": {"review_state": {"const": "REVIEWED"}},
+              "required": ["review_state"]
+            }
+          }
+        }
+      }
+    },
     {
       "if": {
         "properties": {"curation_status": {"const": "INCLUDED"}},
@@ -115,18 +368,52 @@
       },
       "then": {
         "properties": {
-          "evidence": {"minItems": 1},
-          "inclusion_basis": {"enum": ["DEDICATED", "DISTRIBUTED_SUBSTANTIAL"]},
-          "migration_status": {"const": "MIGRATED_REVIEWED"}
+          "materialization_status": {"const": "PRESENT_REVIEWED"},
+          "evidence": {
+            "minItems": 1,
+            "items": {
+              "properties": {"review_state": {"const": "REVIEWED"}},
+              "required": ["review_state"]
+            }
+          },
+          "inclusion_basis": {"enum": ["DEDICATED", "DISTRIBUTED_SUBSTANTIAL"]}
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {"curation_status": {"const": "EXCLUDED_REVIEWED"}},
+        "required": ["curation_status"]
+      },
+      "then": {
+        "properties": {
+          "evidence": {
+            "items": {
+              "properties": {"review_state": {"const": "REVIEWED"}},
+              "required": ["review_state"]
+            }
+          }
         }
       }
     }
   ],
-  "x-curation-rule": "Mention counts do not establish substantial analysis; inclusion is curated.",
-  "x-index-role": "Generated discovery surface; not the migration ledger or authority registry.",
+  "x-canonicalization-profile": "CHARACTER_INDEX_V2_C14N_1",
+  "x-application-validation": [
+    "Reject duplicate JSON keys before schema validation.",
+    "Enforce Unicode 15.0.0 NFC, full default non-Turkic case folding, control/whitespace rules, and normalized alias uniqueness/overlap.",
+    "Require unique analysis_subject_id values, unique evidence_id and coverage_id values within each record, exact namespace ownership, and repeated-entity agreement on preferred_name, entity_aliases, franchise_id, and namespace.",
+    "Resolve series_id in series/registry.json.",
+    "Resolve composite components recursively; require one entity, at least two distinct non-composite leaves, no self-reference, cycles, redundancy, duplicate reachability, or cross-series leaf set; derive but never store effective_continuity_ids.",
+    "For non-composites require coverage continuity to equal the record continuity. For composites require component-bound coverage to resolve to a transitive leaf and equal that leaf continuity.",
+    "Require evidence dimensions to be a subset of record dimensions and coverage evidence_ids to resolve within the same record.",
+    "Recompute materialization_status from the selected prospective Git index, tree, or commit; reject mixed target presence and any mismatch with the declared state.",
+    "For INCLUDED, require every evidence target to be exact-case, tracked, regular, non-LFS, reviewed, current-evidence eligible, and sufficient to support every record dimension and coverage claim.",
+    "Generate public discovery output only from INCLUDED records and preserve active_provisional labeling."
+  ],
+  "x-index-role": "Canonical structured discovery source for the generated character-analysis index; not a reconstruction score or migration ledger.",
   "x-phase-2-extension": {
     "name": "Cross-Series Character Reconstruction Capability Registry",
-    "relationship": "LAYERED_OVER_SECTION_15_NOT_A_REPLACEMENT",
-    "status": "PLANNED_NOT_POPULATED_AT_MIGRATION"
+    "relationship": "SEPARATE_LAYER_OVER_DISCOVERY_NOT_A_REPLACEMENT",
+    "status": "SCHEMA_AND_SPECIFICATION_ONLY_NOT_POPULATED"
   }
 }

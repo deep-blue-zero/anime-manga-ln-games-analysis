@@ -4,13 +4,15 @@
 
 `deep-blue-zero` is the sole upstream human writer and contributor. No other collaborator, invitation, team, external pull-request merge, imported patch, or cherry-picked external commit is permitted. Unexpected upstream write authority or a non-owner commit is a severity-1 stop condition.
 
-The public may read, link to, and independently fork the repository. An independent fork has no authority over upstream. Feedback can inform later owner work, but any upstream result must be independently authored and committed by `deep-blue-zero`.
+The public may read, link to, and independently fork the repository. Platform visibility and forking capability do not grant a content license. An independent fork has no authority over upstream. Depending on GitHub settings, outsiders may be able to open issues, discussions, or pull-request proposals; none are accepted for merge, cherry-pick, or patch import. Feedback can inform later owner work, but any upstream result must be independently authored and committed by `deep-blue-zero` without copying an external patch.
 
 ## Provider controls
 
-Once the repository becomes public, GitHub must enforce `main` protection for administrators, require linear history, and prohibit force pushes and deletion. An active ruleset must prohibit deletion and non-fast-forward updates for `refs/tags/activation/**`. No activation tag or corpus publication is allowed while either control is absent or unverifiable.
+The repository completed its G3 public-visibility activation. The exact activation, post-activation provider-state, and independent-audit evidence hashes are recorded in `../repository-controls/public-activation-bindings.json`; that historical verification must not be represented as a live provider reread.
 
-Default GitHub Actions workflow permissions remain read-only. Adding a write-capable automation requires a separately hash-bound owner amendment.
+GitHub must enforce `main` protection for administrators, require linear history, and prohibit force pushes and deletion. An active ruleset must prohibit deletion and non-fast-forward updates for `refs/tags/activation/**`. Before every later public push or activation-tag operation, provider controls and access surfaces must be reread. If they are absent or cannot be verified, the state is `UNVERIFIED` and the operation stops.
+
+No non-owner collaborator or team may receive write authority. Bots and automations remain non-writing unless separately authorized. Default GitHub Actions workflow permissions remain read-only. Adding a write-capable automation requires a separately hash-bound owner amendment.
 
 ## Publication safety
 
