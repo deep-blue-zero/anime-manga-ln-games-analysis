@@ -1,4 +1,4 @@
-﻿episode,source_duration_seconds,program_start_seconds,analysis_start_seconds,raw_detected_events,accepted_events,rejected_events,low_confidence_events,pre_roll_events_removed,ocr_mean_confidence,ocr_median_confidence,ocr_minimum_confidence,semantic_anchor_count,semantic_mean_anchor_similarity,report
+episode,source_duration_seconds,program_start_seconds,analysis_start_seconds,raw_detected_events,accepted_events,rejected_events,low_confidence_events,pre_roll_events_removed,ocr_mean_confidence,ocr_median_confidence,ocr_minimum_confidence,semantic_anchor_count,semantic_mean_anchor_similarity,report
 1,1518.058,53.5,53.25,388,379,7,0,0,0.992799,0.998758,0.887736,99,0.802172,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep01\reconstruction_report.json
 2,1518.272,53.25,53.0,334,307,15,0,0,0.993086,0.998644,0.901621,74,0.800685,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep02\reconstruction_report.json
 3,1517.269,54.5,54.25,325,294,29,0,0,0.993971,0.998754,0.913982,63,0.809224,H:\Anime Media Extraction\Anime and donghua\To Be Hero X\_pipeline\reconstruction\ep03\reconstruction_report.json

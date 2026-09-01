@@ -1,4 +1,4 @@
-﻿---
+---
 series: MHA
 artifact_type: manifest
 scope: V08

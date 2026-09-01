@@ -1,4 +1,4 @@
-﻿---
+---
 title: "IDOLY PRIDE V2 Analytical Method"
 project: "IDOLY PRIDE"
 document_id: "IDOLY_PRIDE_V2_ANALYTICAL_METHOD"

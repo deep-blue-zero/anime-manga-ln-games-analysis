@@ -1,4 +1,4 @@
-﻿---
+---
 series: OPM
 artifact_type: manifest
 scope: V03

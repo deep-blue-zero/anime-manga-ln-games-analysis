@@ -1,4 +1,4 @@
-﻿---
+---
 series: OPM
 artifact_type: audit
 scope: "V03 Japanese dialogue, register, address, and character-model readback"

@@ -367,7 +367,9 @@ The table below is exhaustive at the bundle/episode level. `H` shows the histori
 | `card_chs_006_st-card-chs-05-chsk-00` | 最高の 衣装デザイン | `TEXTURE` | `PROVISIONAL_PASS_A` | — |  | 3 |
 | `card_chs_007_st-card-chs-05-fest-00` | 凄い衣装が 出来ちゃう かも | `TEXTURE` | `PROVISIONAL_PASS_A` | — |  | 3 |
 | `card_chs_008_st-card-chs-05-fest-03` | 逆襲の ドッキリ企画 | `TEXTURE` | `PROVISIONAL_PASS_A` | — |  | 3 |
-| `card_chs_009_st-card-chs-05-flow-00` | ここが噂の スタジオ ですね！ | `TEXTURE` | `PROVISIONAL_PASS_A` | — |  | 3 |
+| `card_chs_009_st-card-chs-05-flow-00` | ここが噂の
+ スタジオ
+ ですね！ | `TEXTURE` | `PROVISIONAL_PASS_A` | — |  | 3 |
 | `card_chs_010_st-card-chs-05-hruh-00` | 宇宙人は 本当にいます | `TEXTURE` | `PROVISIONAL_PASS_A` | — |  | 3 |
 | `card_chs_011_st-card-chs-05-idol-00` | オススメの 映画 | `TEXTURE` | `PROVISIONAL_PASS_A` | — |  | 3 |
 | `card_chs_012_st-card-chs-05-maid-00` | すみれちゃん が出演した 作品 | `TEXTURE` | `PROVISIONAL_PASS_A` | — |  | 3 |

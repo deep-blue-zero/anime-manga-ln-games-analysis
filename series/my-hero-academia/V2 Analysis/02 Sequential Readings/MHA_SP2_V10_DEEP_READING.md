@@ -1,4 +1,4 @@
-﻿---
+---
 series: MHA
 corpus: MHA_SP2
 artifact_type: deep_reading

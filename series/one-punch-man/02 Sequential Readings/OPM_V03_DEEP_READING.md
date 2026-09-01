@@ -1,4 +1,4 @@
-﻿---
+---
 series: OPM
 series_title: "One Punch Man"
 series_title_jp: "ワンパンマン"
