@@ -44,6 +44,7 @@ from validate_repository import (  # noqa: E402
     validate_native_sheets,
     validate_named_whitespace_exceptions,
     validate_protected,
+    validate_series_registry,
     worktree_paths,
     worktree_snapshot,
 )
@@ -115,6 +116,72 @@ class PhaseValidationTests(unittest.TestCase):
             for row in output
         )
         return PhaseValidationTests.replace_entry(snapshot, path, data)
+
+    @staticmethod
+    def replace_series_registry(snapshot: GitSnapshot, mutate) -> GitSnapshot:
+        path = "series/registry.json"
+        registry = json.loads(snapshot.entries[path].data.decode("utf-8"))
+        mutate(registry)
+        data = (
+            json.dumps(registry, ensure_ascii=False, indent=2).encode("utf-8") + b"\n"
+        )
+        return PhaseValidationTests.replace_entry(snapshot, path, data)
+
+    def test_series_registry_entrypoint_routes_are_valid(self) -> None:
+        snapshot = self.p03_snapshot()
+        self.assertEqual(validate_series_registry(snapshot), [])
+        registry = json.loads(
+            snapshot.entries["series/registry.json"].data.decode("utf-8")
+        )
+        shuukura = next(
+            row for row in registry["series"] if row["series_id"] == "shuukura"
+        )
+        self.assertEqual(shuukura["canonical_entrypoint_status"], "MISSING")
+        self.assertIsNone(shuukura["canonical_entrypoint"])
+
+    def test_series_registry_rejects_an_untracked_verified_entrypoint(self) -> None:
+        snapshot = self.replace_series_registry(
+            self.p03_snapshot(),
+            lambda registry: registry["series"][0].update(
+                {
+                    "canonical_entrypoint": (
+                        "series/86-eighty-six/DOES_NOT_EXIST.md"
+                    )
+                }
+            ),
+        )
+        failures = validate_series_registry(snapshot)
+        self.assertTrue(
+            any("is not a tracked regular Git blob" in failure for failure in failures),
+            failures,
+        )
+
+    def test_series_registry_requires_the_entrypoint_status_field(self) -> None:
+        def remove_status(registry: dict) -> None:
+            registry["series"][0].pop("canonical_entrypoint_status")
+
+        snapshot = self.replace_series_registry(self.p03_snapshot(), remove_status)
+        failures = validate_series_registry(snapshot)
+        self.assertTrue(
+            any("missing required fields" in failure for failure in failures), failures
+        )
+
+    def test_series_registry_rejects_a_path_for_missing_status(self) -> None:
+        def add_path(registry: dict) -> None:
+            shuukura = next(
+                row for row in registry["series"] if row["series_id"] == "shuukura"
+            )
+            shuukura["canonical_entrypoint"] = (
+                "series/shuukura/90 Legacy and Superseded/V1 Historical Analysis/"
+                "00_README_AND_CORPUS_MAP.md"
+            )
+
+        snapshot = self.replace_series_registry(self.p03_snapshot(), add_path)
+        failures = validate_series_registry(snapshot)
+        self.assertTrue(
+            any("must be null when status is MISSING" in failure for failure in failures),
+            failures,
+        )
 
     @staticmethod
     def named_text_policy(path: str, data: bytes, *, threshold: int = 8) -> dict:
