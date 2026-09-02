@@ -166,6 +166,47 @@ class PhaseValidationTests(unittest.TestCase):
             any("missing required fields" in failure for failure in failures), failures
         )
 
+    def test_series_registry_rejects_a_non_string_entrypoint_status(self) -> None:
+        snapshot = self.replace_series_registry(
+            self.p03_snapshot(),
+            lambda registry: registry["series"][0].update(
+                {"canonical_entrypoint_status": ["PRESENT_VERIFIED"]}
+            ),
+        )
+        failures = validate_series_registry(snapshot)
+        self.assertTrue(
+            any("canonical_entrypoint_status must be one of" in failure for failure in failures),
+            failures,
+        )
+
+    def test_series_registry_rejects_a_historical_verified_entrypoint(self) -> None:
+        def promote_historical_path(registry: dict) -> None:
+            shuukura = next(
+                row for row in registry["series"] if row["series_id"] == "shuukura"
+            )
+            shuukura.update(
+                {
+                    "canonical_entrypoint": (
+                        "series/shuukura/90 Legacy and Superseded/"
+                        "V1 Historical Analysis/00_README_AND_CORPUS_MAP.md"
+                    ),
+                    "canonical_entrypoint_status": "PRESENT_VERIFIED",
+                }
+            )
+
+        snapshot = self.replace_series_registry(
+            self.p03_snapshot(), promote_historical_path
+        )
+        failures = validate_series_registry(snapshot)
+        self.assertTrue(
+            any(
+                "is not current-eligible" in failure
+                and "classification=HISTORICAL_LEGACY" in failure
+                for failure in failures
+            ),
+            failures,
+        )
+
     def test_series_registry_rejects_a_path_for_missing_status(self) -> None:
         def add_path(registry: dict) -> None:
             shuukura = next(

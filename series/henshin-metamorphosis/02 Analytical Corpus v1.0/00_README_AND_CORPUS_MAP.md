@@ -1,6 +1,10 @@
 ---
 title: "変身 / Henshin — Definitive Second-Pass Synthesis: README and Corpus Map"
 artifact_type: "reader_orientation_and_corpus_map"
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 version: "1.0"
 release_status: "immutable archival release"
 release_date: "2026-08-12"

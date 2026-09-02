@@ -1,3 +1,10 @@
+---
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
 # THE IDOLM@STER CINDERELLA GIRLS (2015) — Drive Corpus Map
 
 Current analytical state: Phase 3 sequential analysis complete through Episode 15; Episode 16 is the next sealed sequential target. The v2 retrospective music/sound audit is complete through Episode 10.

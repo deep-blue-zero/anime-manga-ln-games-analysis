@@ -6,6 +6,10 @@ series: 青春ブタ野郎シリーズ / Rascal Does Not Dream
 author: 鴨志田一
 illustrator: 溝口ケージ
 artifact_type: reader_orientation_and_corpus_map
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 date: '2026-08-12'
 source_boundary: Volumes 1-15 + canonical bonus novels Animal Land and Spring Days
 spoiler_level: complete main-series and bonus-novel spoilers
@@ -44,7 +48,7 @@ related_documents:
 - reference/REFERENCE_AOBUTA_ANALYTICAL_METHOD_V2.md
 - reference/REFERENCE_AOBUTA_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md
 version: 1.2-final-release
-status: final_immutable_release
+release_status: final_immutable_release
 phase8_japanese_verification: complete
 phase8_verification_date: '2026-08-12'
 phase9_complete: true

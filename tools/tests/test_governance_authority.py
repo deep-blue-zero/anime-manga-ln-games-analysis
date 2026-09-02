@@ -598,6 +598,10 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/public-activation-bindings.json"
         )
+        cls.tracked_file_policy = load_json(
+            REPOSITORY_ROOT
+            / "governance/repository-controls/tracked-file-policy.json"
+        )
         state_path = REPOSITORY_ROOT / "governance/AUTHORITY_STATE.yaml"
         cls.state = _restricted_yaml_load(
             state_path.read_text(encoding="utf-8"),
@@ -744,6 +748,23 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             self.binding["license_status"],
             "UNLICENSED_PENDING_OWNER_DECISION",
         )
+
+    def test_local_and_github_connector_owner_identities_are_exact(self) -> None:
+        self.assertEqual(
+            self.tracked_file_policy["allowed_commit_identities"],
+            [
+                {
+                    "name": "deep-blue-zero",
+                    "email": "50891441+peipw@users.noreply.github.com",
+                },
+                {
+                    "name": "deep-blue-zero",
+                    "email": "50891441+deep-blue-zero@users.noreply.github.com",
+                },
+            ],
+        )
+
+    def test_series_registry_is_unique_and_routes_fail_closed(self) -> None:
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
         self.assertEqual(
             series_registry["schema"],

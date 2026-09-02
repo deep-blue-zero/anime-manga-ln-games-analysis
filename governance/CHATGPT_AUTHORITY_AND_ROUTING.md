@@ -215,12 +215,13 @@ Before either execution profile:
 
 1. fetch the exact target-branch head and confirm it is the validated base commit;
 2. fetch the current blob SHA for every existing path to be changed;
-3. create an approved feature branch from that exact base commit;
-4. write only the authorized paths, using current blob SHAs for replacement safety and an atomic multi-file tree/commit when the connector supports it;
-5. fetch the resulting commit and compare the feature branch against the validated base;
-6. validate formatting, links, structured data, and authority records; inspect the exact changed-file set and diff, and correct only on the feature branch;
-7. open a pull request, verify configured checks against the PR head, and confirm the compared diff is unchanged;
-8. merge only when the current request authorizes it and all verification passes.
+3. confirm that the provider will record an exact owner author/committer tuple from `governance/repository-controls/tracked-file-policy.json`; never approve a wildcard identity pattern;
+4. create an approved feature branch from that exact base commit;
+5. write only the authorized paths, using current blob SHAs for replacement safety and an atomic multi-file tree/commit when the connector supports it;
+6. fetch the resulting commit and compare the feature branch against the validated base;
+7. validate formatting, links, structured data, authority records, and commit identity; inspect the exact changed-file set and diff, and correct only on the feature branch;
+8. open a pull request, verify configured checks against the PR head, and confirm the compared diff is unchanged;
+9. merge only when the current request authorizes it and all verification passes.
 
 This profile has no working tree or staging area. Exact base refs, blob identities, authorized path lists, commit comparisons, and PR diffs provide the equivalent safety controls.
 

@@ -857,6 +857,7 @@ def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
     if not isinstance(rows, list):
         errors.append(f"{SERIES_REGISTRY_PATH}.series must be an array")
         return errors
+    authority = AuthorityGraph(snapshot)
 
     required = {
         "series_id",
@@ -914,7 +915,7 @@ def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
 
         status = row.get("canonical_entrypoint_status")
         canonical_entrypoint = row.get("canonical_entrypoint")
-        if status not in SERIES_ENTRYPOINT_STATUSES:
+        if not isinstance(status, str) or status not in SERIES_ENTRYPOINT_STATUSES:
             errors.append(
                 f"{label}.canonical_entrypoint_status must be one of "
                 f"{sorted(SERIES_ENTRYPOINT_STATUSES)}"
@@ -959,6 +960,12 @@ def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
             errors.append(
                 f"{label}.canonical_entrypoint is not a tracked regular Git blob: "
                 f"{canonical_entrypoint}"
+            )
+        elif not authority.current_eligible(canonical_entrypoint):
+            errors.append(
+                f"{label}.canonical_entrypoint is not current-eligible: "
+                f"{canonical_entrypoint} "
+                f"(classification={authority.classification(canonical_entrypoint)})"
             )
     return errors
 

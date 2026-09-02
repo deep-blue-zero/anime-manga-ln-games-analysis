@@ -1,3 +1,10 @@
+---
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
 # 『回復術士のやり直し』 V2 Full-Series Analytical Corpus
 ## Japanese light novels, Volumes 1–10
 
