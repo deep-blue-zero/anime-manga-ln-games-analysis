@@ -1,0 +1,25 @@
+{
+  "schema": "anime-manga-ln-games-analysis/study-registry/v1",
+  "status": "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING",
+  "studies": [
+    {
+      "study_id": "comparative-media",
+      "stable_slug": "comparative-media",
+      "canonical_title": "Comparative Media",
+      "repository_path": "studies/comparative-media/",
+      "canonical_entrypoint": "studies/comparative-media/Mass Effect/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "materialization_status": "PRESENT_REVIEWED",
+      "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "study_id": "doujinshi-fanwork-comparative-taxonomy",
+      "stable_slug": "doujinshi-fanwork-comparative-taxonomy",
+      "canonical_title": "Doujinshi/Fanwork Comparative Taxonomy",
+      "repository_path": "studies/doujinshi-fanwork-comparative-taxonomy/",
+      "canonical_entrypoint": "studies/doujinshi-fanwork-comparative-taxonomy/DJFW_CURRENT_STATE_AND_CORPUS_MAP.md",
+      "materialization_status": "PRESENT_REVIEWED",
+      "authority_status": "GIT_PRIMARY",
+      "native_google_sheet_policy": "DRIVE_NATIVE_CONTROLLED_THEN_VERIFIED_GIT_MERGE"
+    }
+  ]
+}

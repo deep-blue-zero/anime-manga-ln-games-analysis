@@ -4,9 +4,9 @@ Owner-maintained repository for human- and LLM-readable analytical work about an
 
 ## Current state
 
-The public, owner-maintained Git candidate now contains the complete approved G5 text materialization: 2,665 Drive-derived representations across 36 series roots and two study roots, plus the governed character-discovery, provenance, and repository-control layers. Binary archives, primary-source media, generated extraction corpora, native Office/PDF originals with sufficient text derivatives, and other excluded classes remain outside Git. Their final 2,752-row disposition inventory is summarized in `governance/reports/ARTIFACT_EXCLUSION_REPORT.md`.
+The public, owner-maintained repository is the epoch-1 primary analytical authority for 2,939 Drive-derived representations covering 2,924 unique source artifacts across 37 series roots and two study roots, plus the governed character-discovery, provenance, and repository-control layers. Binary archives, primary-source media, generated extraction corpora, native Office/PDF originals with sufficient text derivatives, and other excluded classes remain outside Git. Their dispositions are summarized in `governance/reports/ARTIFACT_EXCLUSION_REPORT.md` and the exact crosswalk ledgers.
 
-This completes corpus materialization, not analytical-authority cutover. Google Drive remains authoritative until a separately approved and verified G8 activation. The Git tree is a nonauthoritative candidate during final aggregate validation and the approved 14-day stabilization lifecycle.
+G8 activated Git authority at `2026-09-02T14:20:11Z`, bound to protected tag `activation/authority-epoch-1` and the exact scope in `governance/AUTHORITY_SCOPE.json`. The approved 14-day stabilization lifecycle is active; new Git-primary analysis is allowed while daily, Day-7, and Day-14 checks monitor the boundary. Drive remains authoritative only for declared native authoring surfaces and `REFERENCE_DRIVE` artifacts.
 
 ## First read
 

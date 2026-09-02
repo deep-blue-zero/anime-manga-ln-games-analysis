@@ -259,7 +259,7 @@ Both rows share the same `preferred_name`, entity aliases, franchise, and namesp
 ]
 ```
 
-These identifiers now mirror the complete reviewed records in `registry.jsonl`; the records point to the Mass Effect comparative-study monographs and remain nonauthoritative before G8.
+These identifiers mirror the complete reviewed records in `registry.jsonl`; the records point to the Mass Effect comparative-study monographs and are Git-primary within authority epoch 1.
 
 ### 6. Same-series composite
 

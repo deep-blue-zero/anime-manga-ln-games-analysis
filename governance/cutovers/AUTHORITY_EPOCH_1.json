@@ -1,0 +1,35 @@
+{
+  "schema": "manga-anime-git-migration/cutover-record/v1",
+  "authority_epoch": 1,
+  "state": "GIT_ACTIVE_STABILIZING",
+  "cutover_id": "g8-authority-epoch-1-20260902T134713Z",
+  "effective_at": "2026-09-02T14:20:11Z",
+  "repository": "deep-blue-zero/anime-manga-ln-games-analysis",
+  "activation_commit": "01561d0c9398917c1329501b798733041ab17e98",
+  "activation_tag": "activation/authority-epoch-1",
+  "activation_tag_object": "2f308df72aad018f45fae0e45ea9e7214afa3955",
+  "authority_scope_path": "governance/AUTHORITY_SCOPE.json",
+  "authority_scope_sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
+  "drive_pointer": {
+    "file_id": "1o1oJ-LM7FgIzX-x8XQB34ucKYx-TeR8-",
+    "revision": "0B24avie5yJngdEVST2haQ2dtc1V2ZldSTWJZUEFNekdVcVR3PQ",
+    "sha256": "dbe4d3088442a37a6ee9aed7697dc4c4b576784df2b338bc1223b24f5d1ba5d6"
+  },
+  "drive_checksum_sidecar": {
+    "file_id": "15aeSFNRTkpq7NJcFelnb_4dt4Gsb-92P",
+    "revision": "0B24avie5yJngbWNNb3o1QkxJODNPSXlscXRodzJScGt3VEFnPQ",
+    "sha256": "b46ab4ee99e9b5eb529168995b2530bccd30f529bc61f7e83cdd03599a77d2ea"
+  },
+  "g7_closure": {
+    "published_commit": "01561d0c9398917c1329501b798733041ab17e98",
+    "final_publication_receipt_sha256": "59123bbe5d3bcb56913015e132cda76010fec623cbbd26cb7d08d59c721be877",
+    "literal_fresh_clone_and_mirror_receipt_sha256": "f0c486687e35f4da789af3552d08d3768873a33470e90671c44bd518fcc361ac"
+  },
+  "stabilization": {
+    "start_utc": "2026-09-02T14:20:11Z",
+    "planned_day_7_date": "2026-09-09",
+    "planned_day_14_date": "2026-09-16",
+    "new_git_primary_analysis_allowed": true,
+    "owner_acceptance_required": true
+  }
+}

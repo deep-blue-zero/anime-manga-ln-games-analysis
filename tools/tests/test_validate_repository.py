@@ -29,9 +29,11 @@ from validate_repository import (  # noqa: E402
     G3_BOUND_TREE,
     G3_MANIFEST,
     PROTECTED_HASHES,
+    active_migration_baseline_commit,
     identity_revision_for_snapshot,
     read_manifest_from_snapshot,
     require_g3_selection,
+    validate_active_authority_scope,
     validate_audit_workflow,
     validate_commit_identities,
     validate_crosswalk_closure,
@@ -58,6 +60,16 @@ class PhaseValidationTests(unittest.TestCase):
                 path: SnapshotEntry(entry.path, entry.mode, entry.data, tracked=True)
                 for path, entry in snapshot.entries.items()
             },
+        )
+
+    def test_active_authority_uses_frozen_migration_provenance_baseline(self) -> None:
+        snapshot = self.p03_snapshot()
+        baseline = active_migration_baseline_commit(snapshot)
+        self.assertEqual(baseline, "01561d0c9398917c1329501b798733041ab17e98")
+        self.assertEqual(validate_active_authority_scope(snapshot, baseline), [])
+        self.assertEqual(
+            validate_crosswalk_closure(snapshot, baseline_commit=baseline),
+            [],
         )
 
     @staticmethod

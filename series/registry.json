@@ -1,6 +1,6 @@
 {
   "schema": "anime-manga-ln-games-analysis/series-registry/v1",
-  "status": "G7_DELTA_REPAIR_CANDIDATE",
+  "status": "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING",
   "series": [
     {
       "series_id": "86-eighty-six",
@@ -13,7 +13,7 @@
       "repository_path": "series/86-eighty-six/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "a-sisters-all-you-need",
@@ -25,7 +25,7 @@
       "repository_path": "series/a-sisters-all-you-need/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "aobuta",
@@ -38,7 +38,7 @@
       "repository_path": "series/aobuta/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "attack-on-titan",
@@ -51,7 +51,7 @@
       "repository_path": "series/attack-on-titan/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "azur-lane",
@@ -64,7 +64,7 @@
       "repository_path": "series/azur-lane/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "blue-archive",
@@ -76,7 +76,7 @@
       "repository_path": "series/blue-archive/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T05_BLUE_ARCHIVE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "classroom-of-the-elite",
@@ -88,7 +88,7 @@
       "repository_path": "series/classroom-of-the-elite/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G7_DELTA_REPAIR",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "gakuen-idolmaster",
@@ -100,7 +100,7 @@
       "repository_path": "series/gakuen-idolmaster/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "genshin-impact",
@@ -112,7 +112,7 @@
       "repository_path": "series/genshin-impact/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T03_FURINA_MONOGRAPH_V1_COMPLETE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "girls-band-cry",
@@ -124,7 +124,7 @@
       "repository_path": "series/girls-band-cry/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "henshin-metamorphosis",
@@ -136,7 +136,7 @@
       "repository_path": "series/henshin-metamorphosis/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "idoly-pride",
@@ -148,7 +148,7 @@
       "repository_path": "series/idoly-pride/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "PARTIAL_G4_P02_SINGLE_LEDGER",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "kimishinu",
@@ -160,7 +160,7 @@
       "repository_path": "series/kimishinu/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "konosuba",
@@ -173,7 +173,7 @@
       "repository_path": "series/konosuba/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "legend-of-the-galactic-heroes",
@@ -185,7 +185,7 @@
       "repository_path": "series/legend-of-the-galactic-heroes/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T07_LOGH_FULL_PREFIX",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "love-live-superstar",
@@ -197,7 +197,7 @@
       "repository_path": "series/love-live-superstar/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "lycoris-recoil",
@@ -209,7 +209,7 @@
       "repository_path": "series/lycoris-recoil/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "maebashi-witches",
@@ -221,7 +221,7 @@
       "repository_path": "series/maebashi-witches/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T01_V1_ANALYSIS",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "monogatari-series",
@@ -234,7 +234,7 @@
       "repository_path": "series/monogatari-series/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "my-hero-academia",
@@ -247,7 +247,7 @@
       "repository_path": "series/my-hero-academia/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "nana",
@@ -260,7 +260,7 @@
       "repository_path": "series/nana/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "one-punch-man",
@@ -273,7 +273,7 @@
       "repository_path": "series/one-punch-man/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "oregairu",
@@ -286,7 +286,7 @@
       "repository_path": "series/oregairu/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "oreimo",
@@ -299,7 +299,7 @@
       "repository_path": "series/oreimo/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "redo-of-healer",
@@ -312,7 +312,7 @@
       "repository_path": "series/redo-of-healer/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "revue-starlight",
@@ -325,7 +325,7 @@
       "repository_path": "series/revue-starlight/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "shine-post",
@@ -338,7 +338,7 @@
       "repository_path": "series/shine-post/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "shokugeki-no-soma",
@@ -351,7 +351,7 @@
       "repository_path": "series/shokugeki-no-soma/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G7_SHOKUGEKI_CLASSIFICATION_REPAIR",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "shuukura",
@@ -363,7 +363,7 @@
       "repository_path": "series/shuukura/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "solo-leveling",
@@ -377,7 +377,7 @@
       "repository_path": "series/solo-leveling/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "sound-euphonium",
@@ -390,7 +390,7 @@
       "repository_path": "series/sound-euphonium/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "the-idolmaster-cinderella-girls-2015-anime",
@@ -402,7 +402,7 @@
       "repository_path": "series/the-idolmaster-cinderella-girls-2015-anime/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "the-idolmaster-cinderella-girls-mobile-games",
@@ -414,7 +414,7 @@
       "repository_path": "series/the-idolmaster-cinderella-girls-mobile-games/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T04_MOBILE_GAME_CHARACTER_MONOGRAPHS_AND_AUDITS",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "the-idolmaster-cinderella-girls-u149",
@@ -426,7 +426,7 @@
       "repository_path": "series/the-idolmaster-cinderella-girls-u149/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "to-be-hero-x",
@@ -438,7 +438,7 @@
       "repository_path": "series/to-be-hero-x/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "youjo-senki",
@@ -450,7 +450,7 @@
       "repository_path": "series/youjo-senki/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T06_V2_ANALYTICAL_CORPUS",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "yuru-camp",
@@ -463,7 +463,7 @@
       "repository_path": "series/yuru-camp/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     },
     {
       "series_id": "mass-effect",
@@ -475,7 +475,7 @@
       "repository_path": "studies/comparative-media/Mass Effect/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
-      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+      "authority_status": "GIT_PRIMARY"
     }
   ]
 }

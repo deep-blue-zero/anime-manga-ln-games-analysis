@@ -1,77 +1,17 @@
 {
   "schema": "manga-anime-git-migration/authority-scope/v1",
-  "state": "PUBLIC_REPOSITORY_PRE_CUTOVER_DRIVE_AUTHORITATIVE",
-  "authority_epoch": 0,
-  "migration": {
-    "completed_gate": "G6",
-    "current_gate": "G7_CUTOVER_PREPARATION",
-    "current_subphase": "G7_AWAITING_FRESH_OWNER_DRIVE_FREEZE_AND_DELTA_AUTHORIZATION",
-    "integrated_candidates": [
-      "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
-      "IDOLY_PRIDE_P02_SINGLE_LEDGER",
-      "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET",
-      "MAEBASHI_WITCHES_V1",
-      "MASS_EFFECT_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
-      "GENSHIN_IMPACT_FURINA_MONOGRAPH_V1",
-      "IDOLMASTER_CINDERELLA_GIRLS_MOBILE_GAME_CHARACTER_MONOGRAPHS_V1",
-      "BLUE_ARCHIVE_PROLOGUE_CHAPTER_1_AND_LONGITUDINAL_ANALYSIS_V1",
-      "YOUJO_SENKI_V2_ANALYTICAL_CORPUS_V1",
-      "LEGEND_OF_THE_GALACTIC_HEROES_FULL_PREFIX_V1",
-      "G5_FINAL_AGGREGATE_CORPUS"
-    ],
-    "integrated_reference_controls": [
-      "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY"
-    ],
-    "p01_p04_local_preparation": "P04_COMPLETE_P01_P03_MATERIALIZED_P04_REFERENCE_ONLY",
-    "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
-    "p05_v2_status": "U149_YONAIP_MAEBASHI_SEVEN_MASS_EFFECT_TWO_GENSHIN_FURINA_CINDERELLA_GIRLS_MOBILE_NINE_AND_BLUE_ARCHIVE_ELEVEN_AND_LOGH_TWO_PRESENT_REVIEWED",
-    "g4_phase_closure": {
-      "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
-      "audit_id": "g4-representative-pilot-completion-audit-20260901T062038Z",
-      "audit_sha256": "794b5071897418cad5bee3b5bb91a8b941b049d5b26dc822e73d22958022876c",
-      "pilot_high_water_commit": "ec2829f3026a29a51985576017c45465cd59ba4b",
-      "pilot_high_water_tree": "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
-    },
-    "g5_progress": {
-      "last_tranche": "G5_FINAL_AGGREGATE_CORPUS",
-      "run_id": "g5-final-aggregate-20260901T190000Z",
-      "reconciliation_receipt_sha256": "c262bf5e0569c6bea571d08dae170af4bc5bcf268a340e5911fd7bd3d9db8f6f",
-      "exclusion_review_sha256": "8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8",
-      "source_objects": 5402,
-      "migrated_source_objects": 2650,
-      "materialized_representations": 2665,
-      "tracked_paths_after": 2710,
-      "status": "MATERIALIZED_VALIDATED_AND_PUBLISHED_PRE_G8"
-    },
-    "g6_phase_closure": {
-      "status": "PASS_FULL_CORPUS_RECONCILED_REMOTE_CI_CLONE_AND_MIRROR_VERIFIED",
-      "closure_receipt_sha256": "e7add3955f73305ff95ad93bd71c8f1624cc046da25ff1c984a914c5024af91f",
-      "reconciliation_audit_sha256": "59af523542f434a76bb72e147592f64e96595fc720f27bf9d2b00e0fe946b2e5",
-      "validator_log_sha256": "f4a0a146cfab3adc0773f4bba04d8e95a87b616c56d8d5ec0505c8472825a7d2",
-      "published_commit": "663df66eefe72acfc57d47076b836e6c7c0a5a2e",
-      "published_tree": "55484898d65a5a4c95a6c5d3d755b42096c21393",
-      "ci_workflow_run_id": "33551152778"
-    }
-  },
-  "before_verified_g8_activation": {
-    "analytical_authority": "GOOGLE_DRIVE",
-    "drive_writes_by_migration": "PROHIBITED",
-    "git_candidate": "NONAUTHORITATIVE_PROPOSED_REPRESENTATION"
-  },
-  "after_verified_g8_activation": {
-    "migrated_analysis": "GIT",
-    "native_google_sheets": "CONTROLLED_DRIVE_AUTHORING_SURFACE_EFFECTIVE_ONLY_AFTER_VERIFIED_EXPORT_AND_GIT_MERGE",
-    "reference_drive_artifacts": "DRIVE_OR_PRIVATE_EVIDENCE_BY_MANIFEST",
-    "local_extraction_workspace": "NONAUTHORITATIVE_TOOLING_AND_SOURCE_ARTIFACT_WORKSPACE"
-  },
+  "state": "PUBLIC_REPOSITORY_GIT_PRIMARY_STABILIZING",
+  "authority_epoch": 1,
+  "cutover_id": "g8-authority-epoch-1-20260902T134713Z",
   "repository": {
     "provider": "GitHub",
     "owner": "deep-blue-zero",
     "name": "anime-manga-ln-games-analysis",
     "remote": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis.git",
     "repository_id": "1352620662",
-    "current_visibility": "PUBLIC",
+    "visibility": "PUBLIC",
     "visibility_model": "PUBLIC_OWNER_MAINTAINED",
+    "default_branch": "main",
     "upstream_human_writers": [
       "deep-blue-zero"
     ],
@@ -79,22 +19,58 @@
     "independent_forks": "PERMITTED",
     "license_status": "CC_BY_NC_4_0_ORIGINAL_CONTENT_ONLY"
   },
-  "repository_publication_activation": {
-    "status": "VERIFIED_G3_PUBLICATION_ACTIVATION",
-    "evidence_binding": "governance/repository-controls/public-activation-bindings.json",
-    "provider_state_scope": "VERIFIED_AT_G3_CLOSURE_REVERIFY_BEFORE_PUBLIC_PUSH"
+  "activation": {
+    "state": "GIT_ACTIVE_STABILIZING",
+    "candidate_commit": "01561d0c9398917c1329501b798733041ab17e98",
+    "activation_tag": "activation/authority-epoch-1",
+    "drive_root_id": "18sF-o3T_7SUsaVb3zXwvjkYX9gtGXsf7",
+    "drive_master_index_id": "1o1oJ-LM7FgIzX-x8XQB34ucKYx-TeR8-",
+    "drive_checksum_sidecar_id": "15aeSFNRTkpq7NJcFelnb_4dt4Gsb-92P",
+    "stabilization_days": 14,
+    "acceptance_required": true
   },
-  "publication_controls": {
-    "audit_workflow": "READ_ONLY_NONMUTATING_REPOSITORY_CONTENT_AUDIT",
-    "workflow_path": ".github/workflows/repository-audit.yml",
-    "first_tranche": "the-idolmaster-cinderella-girls-u149",
-    "xlsx_disposition": "REFERENCE_DRIVE_WITH_TSV_AND_STRUCTURE_MANIFEST_AS_GIT_REPRESENTATIONS"
+  "scope_manifest": {
+    "binding_model": "EXACT_HASHED_ENUMERATION_LEDGERS",
+    "materialized_representations": 2939,
+    "unique_materialized_source_artifacts": 2924,
+    "series_roots": 37,
+    "study_roots": 2,
+    "components": [
+      {
+        "path": "crosswalk/drive-to-git.jsonl",
+        "rows": 2939,
+        "sha256": "e6fffafaf1e5e50f3cc584c3dadc3b09e13b830ab427b2a5904eba1d7ec6dc6d",
+        "role": "GIT_PRIMARY_REPRESENTATION_ENUMERATION"
+      },
+      {
+        "path": "crosswalk/path-plan.jsonl",
+        "rows": 2953,
+        "sha256": "1d6a9ca43070a3f6cd7c5562e69f4172173c951a8cd18f541248dd9c440c722b",
+        "role": "SOURCE_DISPOSITION_AND_DESTINATION_PLAN"
+      },
+      {
+        "path": "crosswalk/materialization-results.jsonl",
+        "rows": 2953,
+        "sha256": "75625a9fb288644c5546cbbc0100bb5f4a24a04e292f9a045824fdf8947d8dc0",
+        "role": "OBSERVED_MATERIALIZATION_AND_REFERENCE_RESULTS"
+      }
+    ],
+    "terminal_live_drive_file_partition": {
+      "git_materialized": 2924,
+      "reference_drive": 249,
+      "reference_external": 5,
+      "verified_excluded": 7,
+      "total": 3185,
+      "unresolved": 0
+    }
   },
-  "analytical_authority_activation": {
-    "required_gate": "G8",
-    "status": "NOT_AUTHORIZED",
-    "current_analytical_authority": "GOOGLE_DRIVE",
-    "git_candidate": "NONAUTHORITATIVE"
+  "effective_authority": {
+    "migrated_analysis": "GIT_PRIMARY",
+    "native_google_sheets": "DRIVE_NATIVE_PRIMARY_EFFECTIVE_ONLY_AFTER_VERIFIED_EXPORT_AND_GIT_MERGE",
+    "reference_drive_artifacts": "DRIVE_ONLY_BY_SANITIZED_MANIFEST",
+    "reference_external_artifacts": "EXTERNAL_REFERENCE_BY_SANITIZED_MANIFEST",
+    "verified_excluded_artifacts": "NONE_FROZEN",
+    "primary_source_and_extraction_workspace": "OUT_OF_SCOPE_NONAUTHORITATIVE"
   },
   "repository_roots": {
     "series": "series/<stable-slug>/",
@@ -104,13 +80,20 @@
     "crosswalk": "crosswalk/",
     "provenance": "provenance/"
   },
-  "analytical_authority_cutover": {
-    "status": "NOT_STARTED",
-    "stabilization_days": 14,
-    "audit_cadence": [
-      "DAILY_DELTA_CHECK",
-      "DAY_7_FULL_AUDIT",
-      "DAY_14_FULL_AUDIT_AND_OWNER_ACCEPTANCE"
-    ]
+  "change_routing": {
+    "series_analysis": "series/<stable-slug>/",
+    "non_series_analysis": "studies/<stable-slug>/",
+    "character_discovery_source": "characters/registry.jsonl",
+    "character_discovery_generated_index": "CHARACTER_ANALYSIS_INDEX.md",
+    "recurring_tranche_policy": "governance/policies/RECURRING_TRANCHE_PROCESS.md"
+  },
+  "stabilization": {
+    "state": "ACTIVE_DAY_0",
+    "day_0_audit_required": true,
+    "daily_delta_checks": true,
+    "day_7_full_audit": true,
+    "day_14_full_audit_and_owner_acceptance": true,
+    "new_git_primary_analysis_allowed": true,
+    "drive_cleanup_authorized": false
   }
 }

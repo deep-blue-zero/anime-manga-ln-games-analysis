@@ -19,6 +19,7 @@ governance/AUTHORITY_STATE.yaml
 governance/CHATGPT_AUTHORITY_AND_ROUTING.md
 governance/MANGA_ANIME_CORPUS_INDEX.md
 governance/REPOSITORY_STRUCTURE.md
+governance/cutovers/AUTHORITY_EPOCH_1.json
 governance/policies/ARTIFACT_ELIGIBILITY.md
 governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md
 governance/policies/RECURRING_TRANCHE_PROCESS.md
@@ -2977,6 +2978,7 @@ studies/doujinshi-fanwork-comparative-taxonomy/08 Audits and Manifests/DJFW_GAKU
 studies/doujinshi-fanwork-comparative-taxonomy/08 Audits and Manifests/DJFW_MANGA_ANIME_DRIVE_INDEX_PATCH.md
 studies/doujinshi-fanwork-comparative-taxonomy/DJFW_CURRENT_STATE_AND_CORPUS_MAP.md
 studies/doujinshi-fanwork-comparative-taxonomy/DJFW_PROJECT_ARCHITECTURE.md
+studies/registry.json
 tools/character_index_core.py
 tools/generate_character_index.py
 tools/requirements-validation.txt

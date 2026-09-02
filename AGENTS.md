@@ -2,7 +2,7 @@
 
 Read `governance/AUTHORITY_STATE.yaml` and `governance/AUTHORITY_SCOPE.json` before proposing or applying changes.
 
-Until an owner-approved G8 activation record changes the authority epoch, Google Drive remains authoritative and this repository is a nonauthoritative migration candidate. Do not represent repository content as active authority before that transition.
+Authority epoch 1 is active and stabilizing. This repository is the primary analytical authority only for the exact hashed scope in `governance/AUTHORITY_SCOPE.json`. Native Google Sheets remain controlled Drive authoring surfaces whose revisions become effective only after verified export and Git merge; reference-only artifacts and the primary-source/extraction workspace remain outside Git authority.
 
 Never add raw acquisition evidence, source media, private migration evidence, credentials, unreviewed binaries, symlinks, submodules, or hooks. The sole approved workflow is `.github/workflows/repository-audit.yml` under its read-only, non-mutating contract; every other workflow remains prohibited without a separately reviewed owner amendment. Recurring tranches follow `governance/policies/RECURRING_TRANCHE_PROCESS.md`: one owner-approved package may cover the bounded transformation-to-non-forced-push lifecycle, while its exact path manifest remains the staging allowlist. Do not use `git add .` or wildcard staging. A correction stays inside that approval only when it is expressly allowed, mechanical, non-semantic, confined to named paths, and followed by complete revalidation.
 

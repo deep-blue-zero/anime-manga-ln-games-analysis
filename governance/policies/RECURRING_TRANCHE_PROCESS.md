@@ -13,7 +13,7 @@ The package must freeze:
 - the complete source-to-destination crosswalk, declared transformations, exact writable and staged path allowlist, and any permitted mechanical corrective envelope;
 - the base commit, expected `origin/main` object ID, target ref, sole-owner commit identity, commit message, and exact normal non-forced push refspec;
 - the worktree, index, candidate-tree, commit, complete reachable-history, clean-clone, and CI validation contract; and
-- the pre-G8 Drive-authority boundary and all separately governed operations that remain prohibited.
+- the epoch-1 authority boundary, stabilization controls, and all separately governed operations that remain prohibited.
 
 Final blob, tree, commit, remote, workflow-run, and receipt hashes are recorded after execution because they do not yet exist when the package is approved. Recording them does not create a new approval gate.
 
@@ -45,6 +45,6 @@ Stop without committing or pushing, or stop closure if publication already occur
 - a staged path outside the allowlist or any validation, test, generated-output, identity, or history failure that cannot be corrected within the frozen envelope;
 - validator weakening, workflow expansion, or provider-control change not expressly named in the package;
 - unexpected upstream writer, collaborator, invitation, App, deploy key, Actions permission, branch/ruleset state, remote-head drift, or non-fast-forward condition;
-- any need for force, history rewrite, provider-setting mutation, Drive mutation, G8 authority cutover, cleanup, or deletion.
+- any need for force, history rewrite, provider-setting mutation, Drive mutation outside a declared native-authoring workflow, authority-epoch change, cleanup, or deletion.
 
-These stops require an owner-reviewed corrected or replacement package. The single-package process never expands Drive or Git authority and never treats public visibility as G8 cutover.
+These stops require an owner-reviewed corrected or replacement package. The single-package process never expands the active authority scope or creates a new authority epoch.

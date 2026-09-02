@@ -28,6 +28,7 @@ series/
   registry.json
   <stable-slug>/
 studies/
+  registry.json
   <stable-slug>/
 tools/
   tests/
@@ -39,4 +40,4 @@ Stable slugs use the best-known English or official Latin-script title, lowercas
 
 The approved clarification slug is `the-idolmaster-cinderella-girls-2015-anime`.
 
-The first integrated series candidate is `series/the-idolmaster-cinderella-girls-u149/`. Google Drive remains the analytical authority until separately approved and verified G8 cutover.
+The first integrated series candidate was `series/the-idolmaster-cinderella-girls-u149/`. Git is the epoch-1 analytical authority for the exact scope declared in `AUTHORITY_SCOPE.json`; Drive retains only its declared native-authoring and reference roles.

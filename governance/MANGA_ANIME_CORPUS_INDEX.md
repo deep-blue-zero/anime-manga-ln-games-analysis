@@ -1,8 +1,8 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public, owner-maintained, and materialized through the final G7 reconciliation and stale-disposition repair boundary. The candidate contains 2,939 Drive-derived representations covering 2,924 unique source artifacts across 37 series roots and two study roots. Final aggregate validation and G8 analytical-authority activation are separate controls.
+> Repository state: public, owner-maintained, and active as the epoch-1 primary analytical authority. It contains 2,939 Drive-derived representations covering 2,924 unique source artifacts across 37 series roots and two study roots.
 >
-> Analytical authority: Google Drive until a separately approved and verified G8 cutover. Git content remains a nonauthoritative migration candidate.
+> Analytical authority: Git for the exact hashed scope in `AUTHORITY_SCOPE.json`, effective `2026-09-02T14:20:11Z`. The repository is in its approved 14-day stabilization period. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
 
 This is the Git-side navigation index derived from the historical Drive hierarchy. Every migrated representation is bound to its source identity, revision, byte hash, transformation, and final repository path in `../crosswalk/`.
 

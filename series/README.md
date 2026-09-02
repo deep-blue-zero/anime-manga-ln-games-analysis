@@ -1,8 +1,8 @@
 # Series analysis
 
-Each owner-reviewed series uses one stable slug under `series/<stable-slug>/`. `registry.json` is the machine-readable canonical title, media, materialization, and pre-G8 authority registry.
+Each owner-reviewed series uses one stable slug under `series/<stable-slug>/`. `registry.json` is the machine-readable canonical title, media, materialization, and authority registry.
 
-The complete approved G5 text materialization contains these series roots:
+The final G7 materialization and epoch-1 authority scope contain these series roots:
 
 - [`86-eighty-six/`](86-eighty-six/) — 86 - Eighty-Six
 - [`a-sisters-all-you-need/`](a-sisters-all-you-need/) — A Sister's All You Need
@@ -10,6 +10,7 @@ The complete approved G5 text materialization contains these series roots:
 - [`attack-on-titan/`](attack-on-titan/) — Attack on Titan
 - [`azur-lane/`](azur-lane/) — Azur Lane
 - [`blue-archive/`](blue-archive/) — BLUE ARCHIVE
+- [`classroom-of-the-elite/`](classroom-of-the-elite/) — Classroom of the Elite
 - [`gakuen-idolmaster/`](gakuen-idolmaster/) — Gakuen Idolmaster
 - [`genshin-impact/`](genshin-impact/) — Genshin Impact
 - [`girls-band-cry/`](girls-band-cry/) — Girls Band Cry
@@ -41,4 +42,4 @@ The complete approved G5 text materialization contains these series roots:
 - [`youjo-senki/`](youjo-senki/) — YOUJO SENKI
 - [`yuru-camp/`](yuru-camp/) — Yuru Camp
 
-All roots are `PRESENT_REVIEWED` migration representations, but remain `NONAUTHORITATIVE_PRE_G8`. Completeness refers to the approved Drive-to-Git migration boundary, not to every possible future analysis for a title. Excluded and reference-only source artifacts are recorded in the provenance and exclusion controls rather than copied into these trees.
+All roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. Completeness refers to the approved Drive-to-Git migration boundary, not to every possible future analysis for a title. Excluded and reference-only source artifacts are recorded in the provenance and exclusion controls rather than copied into these trees.

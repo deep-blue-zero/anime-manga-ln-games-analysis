@@ -988,8 +988,85 @@ def _compare_crosswalk_field(
         )
 
 
-def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
-    """Validate all materialized/reference decisions from exact snapshot bytes."""
+def active_migration_baseline_commit(snapshot: GitSnapshot) -> str | None:
+    """Return the immutable migration baseline once Git authority is active."""
+
+    entry = snapshot.get("governance/AUTHORITY_SCOPE.json")
+    if entry is None:
+        return None
+    scope = decode_json(entry.data, "governance/AUTHORITY_SCOPE.json")
+    if not isinstance(scope, Mapping):
+        raise DomainError("authority scope must be an object")
+    activation = scope.get("activation")
+    if not isinstance(activation, Mapping):
+        return None
+    if activation.get("state") not in {"GIT_ACTIVE_STABILIZING", "GIT_ACTIVE_ACCEPTED"}:
+        return None
+    commit = activation.get("candidate_commit")
+    if not isinstance(commit, str) or not re.fullmatch(r"[0-9a-f]{40}|[0-9a-f]{64}", commit):
+        raise DomainError("active authority scope has an invalid candidate_commit")
+    return commit
+
+
+def validate_active_authority_scope(snapshot: GitSnapshot, baseline_commit: str | None) -> list[str]:
+    """Bind the live authority scope to its cutover record and frozen ledgers."""
+
+    if baseline_commit is None:
+        return []
+    errors: list[str] = []
+    scope_entry = snapshot.get("governance/AUTHORITY_SCOPE.json")
+    cutover_entry = snapshot.get("governance/cutovers/AUTHORITY_EPOCH_1.json")
+    if scope_entry is None or cutover_entry is None:
+        return ["active authority scope or epoch-1 cutover record is absent"]
+    try:
+        scope = decode_json(scope_entry.data, "governance/AUTHORITY_SCOPE.json")
+        cutover = decode_json(cutover_entry.data, "governance/cutovers/AUTHORITY_EPOCH_1.json")
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+    if not isinstance(scope, Mapping) or not isinstance(cutover, Mapping):
+        return ["active authority scope and cutover record must be objects"]
+    scope_hash = hashlib.sha256(scope_entry.data).hexdigest()
+    if cutover.get("authority_scope_sha256") != scope_hash:
+        errors.append("cutover authority-scope SHA-256 does not match committed bytes")
+    if cutover.get("activation_commit") != baseline_commit:
+        errors.append("cutover activation commit does not match authority scope")
+    manifest = scope.get("scope_manifest")
+    components = manifest.get("components") if isinstance(manifest, Mapping) else None
+    if not isinstance(components, list):
+        errors.append("active authority scope has no component list")
+        return errors
+    for component in components:
+        if not isinstance(component, Mapping):
+            errors.append("active authority component must be an object")
+            continue
+        path = component.get("path")
+        expected_hash = component.get("sha256")
+        expected_rows = component.get("rows")
+        if not isinstance(path, str) or not isinstance(expected_hash, str):
+            errors.append("active authority component path/hash is invalid")
+            continue
+        entry = snapshot.get(path)
+        if entry is None or not entry.qualifies_as_evidence:
+            errors.append(f"active authority component is absent or unsafe: {path}")
+            continue
+        if hashlib.sha256(entry.data).hexdigest() != expected_hash:
+            errors.append(f"active authority component SHA-256 drift: {path}")
+        rows = len([line for line in entry.data.split(b"\n") if line])
+        if rows != expected_rows:
+            errors.append(f"active authority component row-count drift: {path}")
+    return errors
+
+
+def validate_crosswalk_closure(
+    snapshot: GitSnapshot, *, baseline_commit: str | None = None
+) -> list[str]:
+    """Validate migration provenance and current closure.
+
+    Before cutover, declared destination bytes must match the selected snapshot. After
+    cutover, those declarations remain immutable migration provenance bound to the
+    activation commit; later authorized Git-primary edits are validated as current
+    repository content without rewriting the historical crosswalk.
+    """
 
     errors: list[str] = []
     try:
@@ -998,6 +1075,18 @@ def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
         plans = _snapshot_jsonl(snapshot, CROSSWALK_FILES["plan"])
     except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
         return [str(exc)]
+
+    baseline_cache: dict[str, bytes | None] = {}
+
+    def baseline_bytes(path: str) -> bytes | None:
+        if baseline_commit is None:
+            return None
+        if path not in baseline_cache:
+            try:
+                baseline_cache[path] = run_git(snapshot.root, "show", f"{baseline_commit}:{path}")
+            except DomainError:
+                baseline_cache[path] = None
+        return baseline_cache[path]
 
     mapping_by_path: dict[str, Mapping[str, Any]] = {}
     representation_paths: dict[str, str] = {}
@@ -1053,21 +1142,27 @@ def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
         mapping_by_path[path] = row
         errors.extend(_crosswalk_path_scope(row, path, label))
         entry = snapshot.get(path)
-        if entry is None:
+        if entry is None and baseline_commit is None:
             errors.append(f"drive-to-git destination is absent from snapshot: {path}")
-        elif not entry.qualifies_as_evidence:
+        elif entry is not None and not entry.qualifies_as_evidence:
             errors.append(
                 f"drive-to-git destination is not a tracked regular non-LFS blob: {path}"
             )
         else:
-            actual_hash = hashlib.sha256(entry.data).hexdigest()
+            provenance_data = entry.data if entry is not None else b""
+            actual_hash = hashlib.sha256(provenance_data).hexdigest()
+            if actual_hash != row["git_sha256"] and baseline_commit is not None:
+                frozen = baseline_bytes(path)
+                if frozen is not None:
+                    provenance_data = frozen
+                    actual_hash = hashlib.sha256(frozen).hexdigest()
             if actual_hash != row["git_sha256"]:
                 errors.append(
                     f"drive-to-git committed-byte hash drift: {path}; "
                     f"declared={row['git_sha256']}, actual={actual_hash}"
                 )
             if path.startswith("studies/"):
-                if row.get("git_bytes") != len(entry.data):
+                if row.get("git_bytes") != len(provenance_data):
                     errors.append(f"drive-to-git committed-byte length drift: {path}")
 
     materialized_by_path: dict[str, Mapping[str, Any]] = {}
@@ -1321,10 +1416,18 @@ def validate_crosswalk_closure(snapshot: GitSnapshot) -> list[str]:
                     errors, path, "mapping", mapping, field, "plan", plan, field
                 )
         entry = snapshot.get(path)
-        if entry is not None and entry.qualifies_as_evidence:
-            if result.get("destination_bytes") != len(entry.data):
+        if (entry is not None and entry.qualifies_as_evidence) or baseline_commit is not None:
+            provenance_data = entry.data if entry is not None else b""
+            if (
+                result.get("destination_sha256") != hashlib.sha256(provenance_data).hexdigest()
+                and baseline_commit is not None
+            ):
+                frozen = baseline_bytes(path)
+                if frozen is not None:
+                    provenance_data = frozen
+            if result.get("destination_bytes") != len(provenance_data):
                 errors.append(f"materialization destination byte-length drift: {path}")
-            if result.get("destination_sha256") != hashlib.sha256(entry.data).hexdigest():
+            if result.get("destination_sha256") != hashlib.sha256(provenance_data).hexdigest():
                 errors.append(f"materialization destination SHA-256 drift: {path}")
 
         if path.startswith("studies/"):
@@ -1960,7 +2063,11 @@ def main() -> int:
             errors.extend(validate_markdown_links(snapshot))
             errors.extend(validate_audit_workflow(snapshot, policy))
             errors.extend(validate_named_whitespace_exceptions(snapshot, policy))
-            errors.extend(validate_crosswalk_closure(snapshot))
+            baseline_commit = active_migration_baseline_commit(snapshot)
+            errors.extend(validate_active_authority_scope(snapshot, baseline_commit))
+            errors.extend(
+                validate_crosswalk_closure(snapshot, baseline_commit=baseline_commit)
+            )
             errors.extend(validate_native_sheets(snapshot, not args.defer_schema_engine))
             errors.extend(validate_current_domain(root, snapshot, not args.defer_schema_engine))
             if not args.defer_schema_engine:

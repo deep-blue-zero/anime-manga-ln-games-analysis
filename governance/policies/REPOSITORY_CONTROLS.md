@@ -1,6 +1,6 @@
 # Repository controls
 
-The public, owner-maintained repository and its pre-G8 hardening candidate use these controls:
+The public, owner-maintained, epoch-1 Git-primary repository uses these controls:
 
 - GitHub repository ID `1352620662`, owned by `deep-blue-zero`, with verified G3 public-visibility activation evidence recorded in `../repository-controls/public-activation-bindings.json`;
 - current visibility state of public, with `deep-blue-zero` as the sole upstream human writer and contributor;
@@ -22,9 +22,9 @@ The public, owner-maintained repository and its pre-G8 hardening candidate use t
 - clean, full, non-shallow clone verification before corpus content; and
 - historical G3 validation against commit `e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f` and tree `d0bb00fa5d7a8735892921ba3c0023b4855ac52e`, plus separate current-policy and optional manifest-bound validation for later candidates;
 - immutable preservation of `bootstrap-bindings.json` and `G3_BOOTSTRAP_TRACKED_PATHS.txt` as historical private-bootstrap evidence; and
-- current migration state of completed G4 representative pilots, complete G5 text-boundary materialization, completed Character Index v2 hardening, and the still-nonauthoritative aggregate candidate recorded in the authority documents. Materialization completeness does not activate G8 authority.
+- completed G4 representative pilots, G5 aggregate materialization, Character Index v2 hardening, G7 final reconciliation, literal fresh-clone/mirror closure, and the verified G8 authority activation recorded in the live authority documents.
 
-Repository creation and public visibility did not activate Git analytical authority. Google Drive remains authoritative until separately approved and verified G8 activation. Each coherent recurring tranche requires one prior, SHA-256-bound owner approval package under `RECURRING_TRANCHE_PROCESS.md`; that package may authorize transformation through ordinary non-forced push and verification without repeated intermediate approvals. Exact-path staging, committed-blob and complete-history audit, live provider and remote reread, CI, and the fail-closed authority boundary remain mandatory. Original-content licensing is CC BY-NC 4.0 under the narrow root license scope.
+Repository creation and public visibility alone did not activate analytical authority; the matching protected activation tag, Git authority records, and Drive pointer/checksum tuple did. Each coherent recurring tranche requires one prior, SHA-256-bound owner approval package under `RECURRING_TRANCHE_PROCESS.md`; that package may authorize transformation through ordinary non-forced push and verification without repeated intermediate approvals. Exact-path staging, committed-blob and complete-history audit, live provider and remote reread, CI, and the fail-closed epoch-1 authority boundary remain mandatory. Original-content licensing is CC BY-NC 4.0 under the narrow root license scope.
 
 The named large-text exceptions are the three complete aggregate provenance crosswalks and the IDOLY PRIDE source-to-bundle provenance CSV recorded in `tracked-file-policy.json`. The crosswalk exceptions require UTF-8/LF and exact path/length/SHA-256 tuples. The IDOLY PRIDE exception Its existing UTF-8 BOM and carriage returns are tolerated only when the path, 1,377,633-byte length, and SHA-256 `7dde60c452627a694307dda68abfb0d4d434ec1c2ce934bf85a0b81db483c366` all match. Any drift revokes every part of that exception; secret, publication-hazard, NUL, and strict UTF-8 validation always remain active.
 

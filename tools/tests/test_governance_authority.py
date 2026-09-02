@@ -604,221 +604,78 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             str(state_path),
         )
 
-    def test_public_visibility_is_separate_from_analytical_authority(self) -> None:
-        self.assertEqual(
-            self.scope["state"],
-            "PUBLIC_REPOSITORY_PRE_CUTOVER_DRIVE_AUTHORITATIVE",
-        )
-        self.assertEqual(self.scope["repository"]["current_visibility"], "PUBLIC")
-        self.assertEqual(
-            self.scope["repository"]["visibility_model"],
-            "PUBLIC_OWNER_MAINTAINED",
-        )
+    def test_epoch_one_git_authority_is_explicit_and_visibility_is_separate(self) -> None:
+        self.assertEqual(self.scope["state"], "PUBLIC_REPOSITORY_GIT_PRIMARY_STABILIZING")
+        self.assertEqual(self.scope["repository"]["visibility"], "PUBLIC")
+        self.assertEqual(self.scope["repository"]["visibility_model"], "PUBLIC_OWNER_MAINTAINED")
         self.assertEqual(self.state["repository"]["visibility"], "PUBLIC")
         self.assertEqual(self.binding["repository"]["visibility"], "PUBLIC")
-
+        self.assertEqual(self.scope["authority_epoch"], 1)
+        self.assertEqual(self.state["authority_epoch"], 1)
+        self.assertEqual(self.scope["effective_authority"]["migrated_analysis"], "GIT_PRIMARY")
+        self.assertEqual(self.state["effective_authority"]["analytical_corpus"], "GIT")
+        # The G3 public-activation binding remains immutable historical evidence.
         self.assertEqual(
-            self.scope["before_verified_g8_activation"]["analytical_authority"],
+            self.binding["analytical_authority_activation"]["current_analytical_authority"],
             "GOOGLE_DRIVE",
         )
-        self.assertEqual(
-            self.state["effective_authority"]["analytical_corpus"],
-            "GOOGLE_DRIVE",
-        )
-        self.assertEqual(
-            self.binding["analytical_authority_activation"]
-            ["current_analytical_authority"],
-            "GOOGLE_DRIVE",
-        )
-        self.assertEqual(self.state["effective_authority"]["git_candidate"], "NONAUTHORITATIVE")
-        self.assertEqual(
-            self.scope["analytical_authority_cutover"]["status"],
-            "NOT_STARTED",
-        )
 
-    def test_publication_and_g8_activation_fields_are_distinct(self) -> None:
-        self.assertNotIn("activation", self.scope)
-        self.assertNotIn("activation", self.state)
-        self.assertNotIn("activation", self.binding)
-        self.assertEqual(
-            self.scope["repository_publication_activation"]["status"],
-            "VERIFIED_G3_PUBLICATION_ACTIVATION",
-        )
-        self.assertEqual(
-            self.state["publication"]["visibility_activation"],
-            "VERIFIED_G3_PUBLICATION_ACTIVATION",
-        )
-        self.assertEqual(
-            self.scope["repository_publication_activation"]["evidence_binding"],
-            "governance/repository-controls/public-activation-bindings.json",
-        )
-        self.assertEqual(
-            self.state["publication"]["evidence_binding"],
-            "governance/repository-controls/public-activation-bindings.json",
-        )
-        for document in (self.scope, self.state, self.binding):
-            authority = document["analytical_authority_activation"]
-            self.assertEqual(authority["required_gate"], "G8")
-            self.assertEqual(authority["status"], "NOT_AUTHORIZED")
-
-    def test_migration_and_withdrawal_state_is_consistent(self) -> None:
-        current_expected = {
-            "completed_gate": "G6",
-            "current_gate": "G7_CUTOVER_PREPARATION",
-            "current_subphase": (
-                "G7_AWAITING_FRESH_OWNER_DRIVE_FREEZE_AND_DELTA_AUTHORIZATION"
-            ),
-            "integrated_candidates": [
-                "THE_IDOLMASTER_CINDERELLA_GIRLS_U149",
-                "IDOLY_PRIDE_P02_SINGLE_LEDGER",
-                "DOUJINSHI_FANWORK_COMPARATIVE_TAXONOMY_P03_NATIVE_DOC_SHEET",
-                "MAEBASHI_WITCHES_V1",
-                "MASS_EFFECT_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
-                "GENSHIN_IMPACT_FURINA_MONOGRAPH_V1",
-                "IDOLMASTER_CINDERELLA_GIRLS_MOBILE_GAME_CHARACTER_MONOGRAPHS_V1",
-                "BLUE_ARCHIVE_PROLOGUE_CHAPTER_1_AND_LONGITUDINAL_ANALYSIS_V1",
-                "YOUJO_SENKI_V2_ANALYTICAL_CORPUS_V1",
-                "LEGEND_OF_THE_GALACTIC_HEROES_FULL_PREFIX_V1",
-                "G5_FINAL_AGGREGATE_CORPUS",
-            ],
-            "integrated_reference_controls": [
-                "GAKUEN_IDOLMASTER_P04_ZIP_REFERENCE_ONLY",
-            ],
-            "p01_p04_local_preparation": (
-                "P04_COMPLETE_P01_P03_MATERIALIZED_P04_REFERENCE_ONLY"
-            ),
-            "p05_v1_tuple": "WITHDRAWN_UNAPPROVED_SCHEMA_OBSOLETED",
-            "p05_v2_status": (
-                "U149_YONAIP_MAEBASHI_SEVEN_MASS_EFFECT_TWO_GENSHIN_FURINA_"
-                "CINDERELLA_GIRLS_MOBILE_NINE_AND_BLUE_ARCHIVE_ELEVEN_"
-                "AND_LOGH_TWO_PRESENT_REVIEWED"
-            ),
-            "g4_phase_closure": {
-                "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
-                "audit_id": (
-                    "g4-representative-pilot-completion-audit-20260901T062038Z"
-                ),
-                "audit_sha256": (
-                    "794b5071897418cad5bee3b5bb91a8b941b049d5b26dc822e73d22958022876c"
-                ),
-                "pilot_high_water_commit": (
-                    "ec2829f3026a29a51985576017c45465cd59ba4b"
-                ),
-                "pilot_high_water_tree": (
-                    "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
-                ),
-            },
-            "g5_progress": {
-                "last_tranche": "G5_FINAL_AGGREGATE_CORPUS",
-                "run_id": "g5-final-aggregate-20260901T190000Z",
-                "reconciliation_receipt_sha256": "c262bf5e0569c6bea571d08dae170af4bc5bcf268a340e5911fd7bd3d9db8f6f",
-                "exclusion_review_sha256": "8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8",
-                "source_objects": 5402,
-                "migrated_source_objects": 2650,
-                "materialized_representations": 2665,
-                "tracked_paths_after": 2710,
-                "status": "MATERIALIZED_VALIDATED_AND_PUBLISHED_PRE_G8",
-            },
-            "g6_phase_closure": {
-                "status": (
-                    "PASS_FULL_CORPUS_RECONCILED_REMOTE_CI_CLONE_AND_MIRROR_VERIFIED"
-                ),
-                "closure_receipt_sha256": (
-                    "e7add3955f73305ff95ad93bd71c8f1624cc046da25ff1c984a914c5024af91f"
-                ),
-                "reconciliation_audit_sha256": (
-                    "59af523542f434a76bb72e147592f64e96595fc720f27bf9d2b00e0fe946b2e5"
-                ),
-                "validator_log_sha256": (
-                    "f4a0a146cfab3adc0773f4bba04d8e95a87b616c56d8d5ec0505c8472825a7d2"
-                ),
-                "published_commit": (
-                    "663df66eefe72acfc57d47076b836e6c7c0a5a2e"
-                ),
-                "published_tree": (
-                    "55484898d65a5a4c95a6c5d3d755b42096c21393"
-                ),
-                "ci_workflow_run_id": "33551152778",
-            },
+    def test_g8_activation_tuple_is_exact(self) -> None:
+        expected = {
+            "cutover_id": "g8-authority-epoch-1-20260902T134713Z",
+            "activation_commit": "01561d0c9398917c1329501b798733041ab17e98",
+            "activation_tag": "activation/authority-epoch-1",
+            "authority_scope_sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
         }
-        for document in (self.scope, self.state):
-            with self.subTest(schema=document["schema"]):
-                for key, value in current_expected.items():
-                    self.assertEqual(document["migration"][key], value)
-        self.assertEqual(
-            self.binding["migration"]["current_subphase"],
-            "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
-        )
-        self.assertNotIn("p05_v2_status", self.binding["migration"])
+        self.assertEqual(self.scope["activation"]["state"], "GIT_ACTIVE_STABILIZING")
+        self.assertEqual(self.scope["activation"]["candidate_commit"], expected["activation_commit"])
+        self.assertEqual(self.scope["activation"]["activation_tag"], expected["activation_tag"])
+        activation = self.state["analytical_authority_activation"]
+        self.assertEqual(activation["status"], "GIT_ACTIVE_STABILIZING")
+        for key, value in expected.items():
+            self.assertEqual(activation[key], value)
+        self.assertEqual(self.state["migration"]["completed_gate"], "G8")
+        self.assertEqual(self.state["migration"]["current_gate"], "G9_STABILIZATION")
+        self.assertEqual(self.state["stabilization"]["state"], "ACTIVE_DAY_0")
 
-    def test_g4_and_g6_closures_and_g7_entry_are_consistent(self) -> None:
-        expected_closure = {
-            "status": "PASS_ALL_FIVE_ARCHETYPES_REMOTE_AND_CI_VERIFIED",
-            "audit_id": (
-                "g4-representative-pilot-completion-audit-20260901T062038Z"
-            ),
-            "audit_sha256": (
-                "794b5071897418cad5bee3b5bb91a8b941b049d5b26dc822e73d22958022876c"
-            ),
-            "pilot_high_water_commit": (
-                "ec2829f3026a29a51985576017c45465cd59ba4b"
-            ),
-            "pilot_high_water_tree": (
-                "3a9107fa78e445d7e6b6f682405d019831d1e5dd"
-            ),
-        }
-        for document in (self.scope, self.state):
-            with self.subTest(schema=document["schema"]):
-                self.assertEqual(document["authority_epoch"], 0)
-                self.assertEqual(document["migration"]["g4_phase_closure"], expected_closure)
-                self.assertEqual(document["migration"]["completed_gate"], "G6")
-                self.assertEqual(
-                    document["migration"]["current_gate"],
-                    "G7_CUTOVER_PREPARATION",
-                )
-                self.assertEqual(
-                    document["migration"]["current_subphase"],
-                    "G7_AWAITING_FRESH_OWNER_DRIVE_FREEZE_AND_DELTA_AUTHORIZATION",
-                )
-                self.assertEqual(
-                    document["migration"]["g6_phase_closure"]["published_commit"],
-                    "663df66eefe72acfc57d47076b836e6c7c0a5a2e",
-                )
+        cutover = load_json(REPOSITORY_ROOT / "governance/cutovers/AUTHORITY_EPOCH_1.json")
+        self.assertEqual(cutover["authority_epoch"], 1)
+        self.assertEqual(cutover["state"], "GIT_ACTIVE_STABILIZING")
+        self.assertEqual(cutover["cutover_id"], expected["cutover_id"])
+        self.assertEqual(cutover["activation_commit"], expected["activation_commit"])
+        self.assertEqual(cutover["activation_tag"], expected["activation_tag"])
+        self.assertEqual(cutover["authority_scope_sha256"], expected["authority_scope_sha256"])
+
+    def test_g7_closure_and_active_prose_are_consistent(self) -> None:
+        closure = self.state["migration"]["g7_phase_closure"]
         self.assertEqual(
-            self.scope["before_verified_g8_activation"]["analytical_authority"],
-            "GOOGLE_DRIVE",
+            closure["status"],
+            "PASS_FULL_RECONCILIATION_REMOTE_CI_FRESH_CLONE_AND_MIRROR_VERIFIED",
         )
+        self.assertEqual(closure["materialized_representations"], 2939)
+        self.assertEqual(closure["unique_materialized_source_artifacts"], 2924)
+        self.assertEqual(closure["unresolved"], 0)
         self.assertEqual(
-            self.state["analytical_authority_activation"]["status"],
-            "NOT_AUTHORIZED",
-        )
-        self.assertEqual(
-            self.binding["migration"]["current_subphase"],
-            "P05_BLOCKED_PENDING_CHARACTER_SCHEMA_HARDENING",
+            closure["literal_step5_closure_receipt_sha256"],
+            "f0c486687e35f4da789af3552d08d3768873a33470e90671c44bd518fcc361ac",
         )
 
         prose = {
-            "README.md": ("complete approved G5 text materialization", "Google Drive remains authoritative"),
+            "README.md": ("epoch-1 primary analytical authority", "14-day stabilization"),
             "governance/CHATGPT_AUTHORITY_AND_ROUTING.md": (
-                "complete approved G5 text boundary is materialized",
-                "Google Drive remains the analytical authority",
+                "Git authority is active and stabilizing",
+                "g8-authority-epoch-1-20260902T134713Z",
             ),
             "governance/MANGA_ANIME_CORPUS_INDEX.md": (
-                "materialized through the final G7 reconciliation and stale-disposition repair boundary",
-                "Analytical authority: Google Drive",
+                "epoch-1 primary analytical authority",
+                "Analytical authority: Git",
             ),
             "governance/policies/REPOSITORY_CONTROLS.md": (
-                "completed G4 representative pilots",
-                "complete G5 text-boundary materialization",
+                "G7 final reconciliation",
+                "verified G8 authority activation",
             ),
-            "series/README.md": (
-                "complete approved G5 text materialization",
-                "NONAUTHORITATIVE_PRE_G8",
-            ),
-            "studies/README.md": (
-                "complete approved G5 text materialization",
-                "nonauthoritative before G8",
-            ),
+            "series/README.md": ("final G7 materialization", "GIT_PRIMARY"),
+            "studies/README.md": ("GIT_PRIMARY", "authority epoch 1"),
         }
         for relative_path, expected_phrases in prose.items():
             text = (REPOSITORY_ROOT / relative_path).read_text(encoding="utf-8")
@@ -870,7 +727,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "UNLICENSED_PENDING_OWNER_DECISION",
         )
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
-        self.assertEqual(series_registry["status"], "G7_DELTA_REPAIR_CANDIDATE")
+        self.assertEqual(series_registry["status"], "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING")
         series_ids = [row["series_id"] for row in series_registry["series"]]
         self.assertEqual(len(series_ids), len(set(series_ids)))
         self.assertTrue(
@@ -901,7 +758,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "series/idoly-pride/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "PARTIAL_G4_P02_SINGLE_LEDGER",
-                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+                "authority_status": "GIT_PRIMARY",
             },
         )
         self.assertEqual(
@@ -914,7 +771,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "series/maebashi-witches/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T01_V1_ANALYSIS",
-                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+                "authority_status": "GIT_PRIMARY",
             },
         )
         self.assertEqual(
@@ -927,7 +784,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "studies/comparative-media/Mass Effect/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
-                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+                "authority_status": "GIT_PRIMARY",
             },
         )
         self.assertEqual(
@@ -940,7 +797,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "series/genshin-impact/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T03_FURINA_MONOGRAPH_V1_COMPLETE",
-                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+                "authority_status": "GIT_PRIMARY",
             },
         )
         self.assertEqual(
@@ -953,7 +810,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "series/the-idolmaster-cinderella-girls-mobile-games/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T04_MOBILE_GAME_CHARACTER_MONOGRAPHS_AND_AUDITS",
-                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+                "authority_status": "GIT_PRIMARY",
             },
         )
         self.assertEqual(
@@ -966,7 +823,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "series/blue-archive/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T05_BLUE_ARCHIVE",
-                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+                "authority_status": "GIT_PRIMARY",
             },
         )
         self.assertEqual(
@@ -979,7 +836,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "series/youjo-senki/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T06_V2_ANALYTICAL_CORPUS",
-                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+                "authority_status": "GIT_PRIMARY",
             },
         )
         self.assertEqual(
@@ -992,7 +849,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "repository_path": "series/legend-of-the-galactic-heroes/",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T07_LOGH_FULL_PREFIX",
-                "authority_status": "NONAUTHORITATIVE_PRE_G8",
+                "authority_status": "GIT_PRIMARY",
             },
         )
         character_rows = [
@@ -1658,7 +1515,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ).read_text(encoding="utf-8").splitlines()
         self.assertGreaterEqual(
             len(tracked_paths),
-            self.scope["migration"]["g5_progress"]["tracked_paths_after"],
+            self.state["migration"]["g7_phase_closure"]["tracked_paths"],
         )
         self.assertEqual(tracked_paths, sorted(tracked_paths))
         self.assertTrue(expected_destinations.issubset(set(tracked_paths)))
@@ -1910,7 +1767,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ).read_text(encoding="utf-8").splitlines()
         self.assertGreaterEqual(
             len(tracked_paths),
-            self.scope["migration"]["g5_progress"]["tracked_paths_after"],
+            self.state["migration"]["g7_phase_closure"]["tracked_paths"],
         )
         self.assertFalse(any(path.casefold().endswith(".zip") for path in tracked_paths))
         self.assertTrue(
