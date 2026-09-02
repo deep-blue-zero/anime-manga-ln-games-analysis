@@ -1,0 +1,192 @@
+{
+  "series": "86-Eighty-Six",
+  "phase": "CMR-9",
+  "date": "2026-08-19",
+  "verdict": "CMR9_PASS_CANONICAL_PROMOTION",
+  "profile_count": 16,
+  "profile_gate_rows": 16,
+  "profile_gate_passes": 16,
+  "diagnostic_rows": 2372,
+  "diagnostic_unique_ids": 2372,
+  "diagnostic_columns": 21,
+  "source_routes_verified": 2372,
+  "japanese_anchors_verified": 2372,
+  "phase5_route_failures": 0,
+  "synthetic_evidence_rows": 0,
+  "matrix_rows": 318,
+  "matrix_unique_ids": 318,
+  "matrix_sha256": "d41de73d47ae56b2f891df14ccd6957ebda9eb5bb17cbff7deb314fd5a42f7bd",
+  "crosswalk_profile_sections": 341,
+  "crosswalk_matrix_rows": 318,
+  "crosswalk_roster_directions": 240,
+  "crosswalk_sha256": "747cff682d9c8f52858276db450b73a6c0b8527a4523c207ea8127c685a9322b",
+  "diagnostic_index_sha256": "fe6d10e423572515f10e077bf89b3cafb08cba1122eb378729b74d4b684f3607",
+  "open_undertermined_directions": [
+    "Raiden Shuga → Anju Emma"
+  ],
+  "quote_review": {
+    "metalinguistic_form_inventories_reviewed": 17,
+    "source_normalizations_applied": 4,
+    "unsupported_japanese_quotations_remaining": 0
+  },
+  "thematic_distinctiveness": {
+    "max_pairwise_similarity": 0.5325331312134289,
+    "top_pairs": [
+      [
+        0.5325331312134289,
+        "Viktor Idinarohk / Vika",
+        "Lerche"
+      ],
+      [
+        0.3821792100442548,
+        "Rito Oriya",
+        "Erwin Marcel / Marcel"
+      ],
+      [
+        0.34066028015940597,
+        "Shinei Nouzen",
+        "Raiden Shuga"
+      ],
+      [
+        0.2945809845036088,
+        "Vladilena Milizé",
+        "Shiden Iida"
+      ],
+      [
+        0.276253219750168,
+        "Theoto Rikka",
+        "Kurena Kukumila"
+      ],
+      [
+        0.27589233897243975,
+        "Shinei Nouzen",
+        "Theoto Rikka"
+      ],
+      [
+        0.2604021744149116,
+        "Kurena Kukumila",
+        "Rito Oriya"
+      ],
+      [
+        0.2602677273250232,
+        "Shinei Nouzen",
+        "Kurena Kukumila"
+      ],
+      [
+        0.2567692431769086,
+        "Shinei Nouzen",
+        "Vladilena Milizé"
+      ],
+      [
+        0.25621703032807475,
+        "Kurena Kukumila",
+        "Anju Emma"
+      ],
+      [
+        0.25581602315776003,
+        "Vladilena Milizé",
+        "Kurena Kukumila"
+      ],
+      [
+        0.2501596139046508,
+        "Raiden Shuga",
+        "Theoto Rikka"
+      ]
+    ],
+    "mean_similarity": 0.14361231111423664
+  },
+  "profiles": {
+    "86_FREDERICA_ROSENFORT_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Frederica Rosenfort",
+      "sha256": "353399db927f5a48765ad4de0711b385fe03e400d431971363ef59acb9808614",
+      "status": "canonical"
+    },
+    "86_SHINEI_NOUZEN_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Shinei Nouzen",
+      "sha256": "43dee958065554e9beda4bd337ad906227e33399efddbf846dab37892c6bcdeb",
+      "status": "canonical"
+    },
+    "86_VLADILENA_MILIZE_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Vladilena Milizé",
+      "sha256": "fa59bc7d68c3f4dd99ea85011cb07dee3866b375b7244e1c5bdb1c06b316088f",
+      "status": "canonical"
+    },
+    "86_RAIDEN_SHUGA_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Raiden Shuga",
+      "sha256": "fceaa6fbd3a582bd5c54047412e15a0b56bcdb94c0020101c2784d96d19c50aa",
+      "status": "canonical"
+    },
+    "86_THEOTO_RIKKA_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Theoto Rikka",
+      "sha256": "11ff8c3f882387b1aeaa4c5930b70e702da613fd1bb3e66049d732585bbd88e8",
+      "status": "canonical"
+    },
+    "86_KURENA_KUKUMILA_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Kurena Kukumila",
+      "sha256": "f45f2ec52261e4d590fce06a5630272f1f3e2c490a377527a68970d8ba4f98f2",
+      "status": "canonical"
+    },
+    "86_ANJU_EMMA_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Anju Emma",
+      "sha256": "8d129f14e13dd8168370dbe6222e55b5a7029f35b0df9c1b4a076babcea2f80f",
+      "status": "canonical"
+    },
+    "86_SHIDEN_IIDA_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Shiden Iida",
+      "sha256": "8bbb7264299992a1f3772134cd4d361a0b3279116cc15ba774841747334775c6",
+      "status": "canonical"
+    },
+    "86_ERNST_ZIMMERMANN_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Ernst Zimmerman",
+      "sha256": "e30446b352f57ab6ef7ed83944fd75a6dfb2a3423c96a992d900faf57a62eb28",
+      "status": "canonical"
+    },
+    "86_GRETHE_WENZEL_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Grethe Wenzel",
+      "sha256": "9f86d566d72dd0279885e9745efa13539edfb8dbdfcefd1739bfca5ea734f20c",
+      "status": "canonical"
+    },
+    "86_ANNETTE_PENROSE_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Annette Penrose",
+      "sha256": "c1f53bfb5d070e9178738a2fb00ab835a929ae633e450ac16bb3520a2c3c07b8",
+      "status": "canonical"
+    },
+    "86_VIKA_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Viktor Idinarohk / Vika",
+      "sha256": "ccc096f8f4978c338b3889ea4097c440d1d602630665057dd3e036779c1f2272",
+      "status": "canonical"
+    },
+    "86_LERCHE_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Lerche",
+      "sha256": "c0156629e75925e14ee21a91d82fac5f3cf1266d395f244c4caa56f3f4550e16",
+      "status": "canonical"
+    },
+    "86_RITO_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Rito Oriya",
+      "sha256": "a76caae50ff0a21227733778bcac0d85846026f973b2ca8e12532584200d9d98",
+      "status": "canonical"
+    },
+    "86_MARCEL_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Erwin Marcel / Marcel",
+      "sha256": "801ba55cd14b581bd31c99b993d56366e53e4e995163e2123f3815f09063b671",
+      "status": "canonical"
+    },
+    "86_FIDO_CHARACTER_REFERENCE_PROFILE.md": {
+      "character": "Fido",
+      "sha256": "8d4efdf2654bfe55a440372035ef57aa7c5d6ec97368908577a146d556296550",
+      "status": "canonical"
+    }
+  },
+  "promoted_artifacts": 19,
+  "authority_order_preserved": true,
+  "v15_plus_assumptions_admitted": false,
+  "alter2_mainline_admitted": false,
+  "synthetic_reconstruction_admitted_as_evidence": false,
+  "cmr10_next": true,
+  "lifecycle_consistency": {
+    "canonical_frontmatter_profiles": 16,
+    "stale_profile_active_provisional_markers": 0,
+    "stale_matrix_or_crosswalk_handoff_markers": 0,
+    "current_next_phase": "CMR-10"
+  }
+}

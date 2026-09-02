@@ -1,0 +1,29 @@
+{
+  "artifact": "86_CHARACTER_MODELING_REFERENCE_METHOD.md",
+  "sha256": "ce4014ec9f6af9536251c44c4ff688df007ed30e49b0f3e75247f306bfa5ca81",
+  "bytes": 54046,
+  "lines": 1614,
+  "whitespace_words": 7354,
+  "yaml_front_matter": "PASS",
+  "required_sections": {
+    "expected": 15,
+    "present": 15,
+    "missing": []
+  },
+  "required_profile_responsibilities": {
+    "expected": 18,
+    "present": 18,
+    "missing": []
+  },
+  "key_method_controls": {
+    "expected": 20,
+    "present": 20,
+    "missing": []
+  },
+  "template_placeholders": {
+    "<CHARACTER>": "ALLOWED_IN_PROFILE_TEMPLATE"
+  },
+  "duplicate_exact_headings": [],
+  "unfinished_placeholder_markers": [],
+  "overall": "PASS"
+}

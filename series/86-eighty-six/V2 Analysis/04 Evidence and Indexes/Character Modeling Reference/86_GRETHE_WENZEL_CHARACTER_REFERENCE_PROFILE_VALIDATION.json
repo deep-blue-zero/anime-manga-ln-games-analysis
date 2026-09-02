@@ -1,0 +1,30 @@
+{
+  "artifact": "86_GRETHE_WENZEL_CHARACTER_REFERENCE_PROFILE.md",
+  "status": "PROFILE_PASS_ACTIVE_PROVISIONAL",
+  "profile_word_count": 6217,
+  "diagnostic_rows": 165,
+  "diagnostic_unique_ids": 165,
+  "source_route_anchor_verified": 165,
+  "source_route_anchor_total": 165,
+  "phase5_locked_rows": 4,
+  "locator_gap_rows": 161,
+  "alter1_rows": 8,
+  "mainline_rows": 157,
+  "matrix_total_rows": 184,
+  "grethe_matrix_rows": 15,
+  "synthetic_evidence_rows": 0,
+  "duplicate_grethe_ids": 0,
+  "errors": [],
+  "checks": {
+    "authority_frontmatter": true,
+    "scope_boundary_present": true,
+    "state_trait_separation": true,
+    "voice_section": true,
+    "relationship_section": true,
+    "counterexample_audit": true,
+    "negative_constraints": true,
+    "diagnostic_bank": true,
+    "next_step_annette": true,
+    "no_synthetic_evidence": true
+  }
+}

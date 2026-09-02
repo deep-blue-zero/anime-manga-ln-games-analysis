@@ -8,11 +8,11 @@ This report summarizes the complete approved G5 migration boundary. The authorit
 
 | Terminal action | Records | Git treatment |
 |---|---:|---|
-| `REFERENCE_DRIVE` | 2,658 effective | No payload committed; public-safe provenance and hashes only where needed |
+| `REFERENCE_DRIVE` | 2,536 effective in the frozen review; 249 files in the final live snapshot | No payload committed; public-safe provenance and hashes only where needed |
 | `OMIT_EMPTY` | 84 | Empty structural source omitted |
 | `VERIFIED_EXCLUDED` | 7 | No payload committed after review |
 
-The complete sealed 2,752-row TSV has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8` and records 2,661 original `REFERENCE_DRIVE` dispositions. The G7 Shokugeki classification-repair overlay promotes three human-authored analytical Markdown false positives to `MIGRATE_TEXT`, yielding the 2,658 effective count above without mutating the sealed base review. The aggregate reconciliation receipt has SHA-256 `c262bf5e0569c6bea571d08dae170af4bc5bcf268a340e5911fd7bd3d9db8f6f`. Binary archives, source media, scans, large generated corpora, redundant release bundles, and native Office/PDF originals with sufficient text derivatives remain outside Git unless explicitly named by a future exception.
+The complete sealed 2,752-row TSV has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8` and records 2,661 original `REFERENCE_DRIVE` dispositions. G7 correction overlays promote three Shokugeki artifacts and 122 additional human-readable analytical or small structured-support artifacts to Git materialization, yielding the 2,536 effective frozen-review count above without mutating the sealed base review. The final live snapshot has only 249 current `REFERENCE_DRIVE` files because the separately retained Azur Lane generated corpus was moved outside the analytical root. Binary archives, source media, scans, large generated corpora, redundant release bundles, and native Office/PDF originals with sufficient text derivatives remain outside Git unless explicitly named by a future exception.
 
 ## G7 Shokugeki analytical-classification repair
 
@@ -23,6 +23,28 @@ The complete sealed 2,752-row TSV has SHA-256 `8462bce2293aa06ee2ed92678272fff80
 | `SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md` | `1My5KOqCG2_4lWkZZOPAxVP_YiwCyQkfu` | 57,410 | `6cb2d830c6352259727231c0c65779bea6a5cba79a87eadb0e19b262f5cadf50` | `MIGRATE_TEXT` |
 
 This repair introduces no binary, LFS, large-text, or rights exception. The false positive arose from filename tokens (`MODEL`, `AUDIT`), not from the files' content class.
+
+## G7 final stale-disposition repair
+
+The repository-wide recheck promoted 122 additional false-positive exclusions: human-readable analytical Markdown and, for the 86 - Eighty-Six character-reference package, the small machine-readable integrity and verification companions needed to make the profiles independently checkable. Source identity, revision, size, and acquisition SHA-256 were verified before materialization. No internal Drive link required rewriting, and no binary, archive, LFS, over-1-MiB generated-table, primary-source, rights, or large-text exception was introduced.
+
+| Repository scope | Artifacts promoted |
+|---|---:|
+| 86 - Eighty-Six | 84 |
+| AoButa | 1 |
+| Attack on Titan | 5 |
+| Gakuen Idolmaster | 1 |
+| KonoSuba | 3 |
+| Love Live! Superstar!! | 1 |
+| My Hero Academia | 2 |
+| One Punch Man | 2 |
+| Oregairu | 8 |
+| Repository governance | 1 |
+| Solo Leveling | 5 |
+| Sound! Euphonium | 9 |
+| **Total** | **122** |
+
+The local materialization receipt has SHA-256 `a96308c35a9075f54ff546926740f893b9921bcb857efe0284eeaab979f3109b`. The final convergent reconciliation summary has SHA-256 `9dc77d7f19301b0ee34ba50165964bfe8358c6988b446ad6413b3ba87ad3f5fa`; it closes all 3,185 current Drive files with no ambiguous disposition or Git hash failure.
 
 ## U149 tranche
 

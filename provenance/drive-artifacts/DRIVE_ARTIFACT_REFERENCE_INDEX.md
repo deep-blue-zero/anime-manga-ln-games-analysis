@@ -4,7 +4,17 @@ This index records source identifiers, verified Git-candidate derivatives, and s
 
 ## Final aggregate boundary
 
-The approved materialization through the G7 COTE and Shokugeki classification repairs contains 2,817 Git representations covering 2,802 unique migrated source artifacts. The sealed local row-level exclusion review contains 2,661 `REFERENCE_DRIVE`, 84 `OMIT_EMPTY`, and 7 `VERIFIED_EXCLUDED` records and has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8`. The G7 Shokugeki overlay reclassifies three human-authored analytical Markdown false positives to `MIGRATE_TEXT`, yielding an effective `REFERENCE_DRIVE` count of 2,658. The three tracked crosswalk ledgers provide the public-safe source-to-Git closure; excluded payload bytes remain outside the repository.
+The approved materialization through the final G7 reconciliation contains 2,939 Git representations covering 2,924 unique migrated source artifacts. The sealed local row-level exclusion review contains 2,661 `REFERENCE_DRIVE`, 84 `OMIT_EMPTY`, and 7 `VERIFIED_EXCLUDED` records and has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8`. G7 overlays reclassify three Shokugeki artifacts and 122 additional human-readable analytical or small structured-support artifacts, yielding an effective frozen-review `REFERENCE_DRIVE` count of 2,536. The final live snapshot closes all 3,185 current files as 2,924 Git-materialized sources, 249 `REFERENCE_DRIVE`, five `REFERENCE_EXTERNAL`, and seven `VERIFIED_EXCLUDED`. The three tracked crosswalk ledgers provide the public-safe source-to-Git closure; excluded payload bytes remain outside the repository.
+
+## G7 final reconciliation and stale-disposition repair
+
+- Convergent inventory projection SHA-256: `b12ff670cb4ecc603f6d44f27b0be5a5552690db484ba2f90953b5e61dcce49d`
+- Final reconciliation summary SHA-256: `9dc77d7f19301b0ee34ba50165964bfe8358c6988b446ad6413b3ba87ad3f5fa`
+- Stale-disposition repair receipt SHA-256: `a96308c35a9075f54ff546926740f893b9921bcb857efe0284eeaab979f3109b`
+- Added to Git: 122 representations spanning 12 repository scopes
+- Remaining current external boundary: 249 `REFERENCE_DRIVE`, five `REFERENCE_EXTERNAL`, and seven `VERIFIED_EXCLUDED` files
+- Baseline delta: 149 newly eligible Classroom of the Elite files materialized; five COTE ZIPs retained external; 1,646 Azur Lane generated-corpus files retained externally after their containing tree moved outside the analytical root
+- Integrity result: no changed intersecting objects, unmapped current source, stale mapped source ID, ambiguous terminal disposition, or Git hash failure
 
 ## G7 Shokugeki analytical-classification repair
 

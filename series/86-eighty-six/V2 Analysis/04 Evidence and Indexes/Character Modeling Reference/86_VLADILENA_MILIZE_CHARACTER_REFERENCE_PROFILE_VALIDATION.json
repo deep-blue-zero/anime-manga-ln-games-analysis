@@ -1,0 +1,47 @@
+{
+  "artifact": "86_VLADILENA_MILIZE_CHARACTER_REFERENCE_PROFILE.md",
+  "sha256": "5b7c0dbb8d5b9108a227a9a33a821ebcb652c9f09f72320a3a4b9a24ed889e93",
+  "bytes": 67866,
+  "lines": 801,
+  "whitespace_words": 9865,
+  "status": "active_provisional",
+  "profile_verdict": "PROFILE_PASS_ACTIVE_PROVISIONAL",
+  "required_profile_responsibilities": {
+    "expected": 18,
+    "present": 18,
+    "missing": []
+  },
+  "diagnostic_scene_bank": {
+    "rows": 76,
+    "source_routes_verified": 76,
+    "source_routes_total": 76,
+    "unique_cmr_ids": 76,
+    "phase5_locked_rows": 50,
+    "locator_gap_rows": 26,
+    "phase5_locator_ids_referenced": 51,
+    "all_phase5_locator_ids_exist": true,
+    "alter1_supplemental_rows": 18
+  },
+  "negative_constraints": {
+    "mischaracterization_traps": 26,
+    "would_sound_wrong_constraints": 36
+  },
+  "voice_controls": {
+    "proposition_rich_not_uniform_eloquence": true,
+    "politeness_not_weakness_or_distance": true,
+    "self_correction_preserved": true,
+    "public_private_repertoire_not_mask_binary": true,
+    "possessive_crisis_rhetoric_not_sanitized": true,
+    "moral_correctness_not_interpretive_omniscience": true,
+    "ordinary_pre_service_controls_present": true
+  },
+  "shared_infrastructure": {
+    "diagnostic_index_rows_total": 179,
+    "diagnostic_index_lena_rows": 76,
+    "matrix_rows_total": 61,
+    "matrix_lena_new_rows": 16
+  },
+  "placeholders": [],
+  "duplicate_substantive_paragraphs_600plus": 0,
+  "overall": "PASS"
+}

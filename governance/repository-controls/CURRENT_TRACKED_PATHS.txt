@@ -24,6 +24,8 @@ governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md
 governance/policies/RECURRING_TRANCHE_PROCESS.md
 governance/policies/REPOSITORY_CONTROLS.md
 governance/reports/ARTIFACT_EXCLUSION_REPORT.md
+governance/reports/CHARACTER_INDEX_V2_BACKFILL_AUDIT.md
+governance/reports/CHARACTER_INDEX_V2_BACKFILL_CANDIDATES.jsonl
 governance/repository-controls/CURRENT_TRACKED_PATHS.txt
 governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt
 governance/repository-controls/bootstrap-bindings.json
@@ -38,6 +40,7 @@ governance/source-policies/MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md
 governance/source-policies/MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md_SHA256.txt
 governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md
 governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md_SHA256.txt
+governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md
 governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md_SHA256.txt
 provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md
@@ -147,6 +150,90 @@ series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/86_PHASE8_SOURCE_INTEGR
 series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/86_PHASE8_TERMINOLOGY_VERIFICATION_LEDGER.tsv
 series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/86_SOURCE_INVENTORY.md
 series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/86_SOURCE_LOCK_MANIFEST.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ANJU_EMMA_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ANJU_EMMA_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ANJU_EMMA_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ANNETTE_PENROSE_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ANNETTE_PENROSE_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ANNETTE_PENROSE_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ANNETTE_SOURCE_REVERIFY.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_DIALOGUE_AND_BEHAVIOR_LOCATOR_INDEX_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_MODELING_ATTACHED_SOURCE_VERIFICATION.tsv
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_MODELING_ATTACHED_SOURCE_VERIFICATION.tsv_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_MODELING_CROSSWALK.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_MODELING_CROSSWALK.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_MODELING_CROSSWALK_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_MODELING_CROSSWALK_VALIDATION.json_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_MODELING_REFERENCE_METHOD.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_MODELING_REFERENCE_METHOD.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_MODELING_REFERENCE_METHOD_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_RELATIONSHIP_REGISTER_MATRIX.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_RELATIONSHIP_REGISTER_MATRIX.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CHARACTER_RELATIONSHIP_REGISTER_MATRIX_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR7_DIRECTED_RELATIONSHIP_COVERAGE_AUDIT.tsv
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR7_DIRECTED_RELATIONSHIP_COVERAGE_AUDIT.tsv_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR7_RELATIONSHIP_REGISTER_MATRIX_AUDIT.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR7_RELATIONSHIP_REGISTER_MATRIX_AUDIT.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR7_RELATIONSHIP_REGISTER_MATRIX_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR7_RELATIONSHIP_REGISTER_MATRIX_VALIDATION.json_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR9_CANONICAL_PROMOTION_LEDGER.tsv
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR9_CANONICAL_PROMOTION_LEDGER.tsv_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR9_CHARACTER_MODELING_QA_AND_PROMOTION_AUDIT.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR9_CHARACTER_MODELING_QA_AND_PROMOTION_AUDIT.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR9_PROFILE_GATE_AUDIT.tsv
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR9_PROFILE_GATE_AUDIT.tsv_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR9_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_CMR9_VALIDATION.json_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ERNST_SOURCE_REVERIFY.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ERNST_ZIMMERMANN_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ERNST_ZIMMERMANN_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_ERNST_ZIMMERMANN_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_FIDO_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_FIDO_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_FIDO_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_FIDO_SOURCE_REVERIFY.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_FREDERICA_ROSENFORT_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_FREDERICA_ROSENFORT_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_FREDERICA_ROSENFORT_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_GRETHE_SOURCE_REVERIFY.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_GRETHE_WENZEL_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_GRETHE_WENZEL_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_GRETHE_WENZEL_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_KURENA_KUKUMILA_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_KURENA_KUKUMILA_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_KURENA_KUKUMILA_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_LERCHE_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_LERCHE_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_LERCHE_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_LERCHE_SOURCE_REVERIFY.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_MARCEL_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_MARCEL_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_MARCEL_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_MARCEL_SOURCE_REVERIFY.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_RAIDEN_SHUGA_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_RAIDEN_SHUGA_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_RAIDEN_SHUGA_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_RITO_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_RITO_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_RITO_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_RITO_SOURCE_REVERIFY.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_SHIDEN_IIDA_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_SHIDEN_IIDA_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_SHIDEN_IIDA_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_SHINEI_NOUZEN_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_SHINEI_NOUZEN_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_SHINEI_NOUZEN_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_THEOTO_RIKKA_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_THEOTO_RIKKA_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_THEOTO_RIKKA_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_VIKA_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_VIKA_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_VIKA_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_VIKA_SOURCE_REVERIFY.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_VLADILENA_MILIZE_CHARACTER_REFERENCE_PROFILE.md
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_VLADILENA_MILIZE_CHARACTER_REFERENCE_PROFILE.md_SHA256.txt
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/86_VLADILENA_MILIZE_CHARACTER_REFERENCE_PROFILE_VALIDATION.json
+series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Character Modeling Reference/90 Legacy and Superseded/86_ERNST_ZIMMERMANN_CHARACTER_REFERENCE_PROFILE_VALIDATION__drive_1e-ghLev6ozB.json
 series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Phase 4 Thematic Retrieval/86_V2_PHASE4_T01_RETRIEVAL_PACKAGE_SHA256.txt
 series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Phase 4 Thematic Retrieval/86_V2_PHASE4_T02_RETRIEVAL_PACKAGE_SHA256.txt
 series/86-eighty-six/V2 Analysis/04 Evidence and Indexes/Phase 4 Thematic Retrieval/86_V2_PHASE4_T03_RETRIEVAL_PACKAGE_SHA256.txt
@@ -338,6 +425,7 @@ series/aobuta/V2 Analysis/04 Synthesis Documents/04_SAKUTA_MAI_ROMANCE_MUTUALITY
 series/aobuta/V2 Analysis/04 Synthesis Documents/05_KAEDE_HANAKAEDE_FAMILY_MEMORY_IDENTITY_AND_SELF_AUTHORSHIP.md
 series/aobuta/V2 Analysis/04 Synthesis Documents/06_SHOKO_TIME_SURVIVAL_SACRIFICE_DONATION_AND_MORAL_RESIDUE.md
 series/aobuta/V2 Analysis/04 Synthesis Documents/07_TITLE_HEROINES_ENSEMBLE_FRIENDSHIP_AND_DISTRIBUTED_CARE.md
+series/aobuta/V2 Analysis/04 Synthesis Documents/08_ADOLESCENCE_SYNDROME_TYPOLOGY_LITERAL_RULES_AND_MECHANICAL_MODELS.md
 series/aobuta/V2 Analysis/04 Synthesis Documents/09_RECOGNITION_GAZE_AIR_CELEBRITY_SOCIAL_MEDIA_AND_PUBLIC_IDENTITY.md
 series/aobuta/V2 Analysis/04 Synthesis Documents/10_MEMORY_BODY_NAME_ROLE_AND_PERSONHOOD.md
 series/aobuta/V2 Analysis/04 Synthesis Documents/11_TIME_DREAMS_POSSIBLE_WORLDS_OBSERVATION_AND_COUNTERFACTUAL_CAUSALITY.md
@@ -362,6 +450,8 @@ series/aobuta/V2 Analysis/06 Archive/Phase8_Japanese_Verification_Report.md
 series/aobuta/V2 Analysis/06 Archive/Phase9_Archival_Lock_Report.md
 series/aobuta/V2 Analysis/06 Archive/SOURCE_INVENTORY.md
 series/attack-on-titan/00 Frameworks and Methods/AOT_ANALYTICAL_METHOD_V2.md
+series/attack-on-titan/00 Frameworks and Methods/AOT_CHARACTER_MODELING_AND_SIMULATION_ARCHITECTURE_V1.md
+series/attack-on-titan/00 Frameworks and Methods/AOT_CHARACTER_MODEL_SCHEMA_V1.md
 series/attack-on-titan/00 Frameworks and Methods/AOT_CHARACTER_RECONSTRUCTION_AND_VALIDATION_METHOD_V1.md
 series/attack-on-titan/00 Frameworks and Methods/AOT_FULL_SERIES_SYNTHESIS_ARCHITECTURE_V1.md
 series/attack-on-titan/00 Frameworks and Methods/AOT_PROJECT_DECISIONS_AND_CHECKPOINT_POLICY.md
@@ -401,6 +491,9 @@ series/attack-on-titan/02 Sequential Readings/AOT_V32_DEEP_READING.md
 series/attack-on-titan/02 Sequential Readings/AOT_V33_DEEP_READING.md
 series/attack-on-titan/02 Sequential Readings/AOT_V34_DEEP_READING.md
 series/attack-on-titan/03 Checkpoints and Longitudinal Ledgers/AOT_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
+series/attack-on-titan/03 Checkpoints and Longitudinal Ledgers/AOT_CHARACTER_MODEL_PROSPECTIVE_ADJUDICATION_LEDGER.md
+series/attack-on-titan/03 Checkpoints and Longitudinal Ledgers/AOT_CHARACTER_MODEL_PROSPECTIVE_PREDICTION_REGISTER_V01-V19.md
+series/attack-on-titan/03 Checkpoints and Longitudinal Ledgers/AOT_CHARACTER_MODEL_READINESS_AND_COVERAGE_LEDGER.md
 series/attack-on-titan/03 Checkpoints and Longitudinal Ledgers/AOT_CHECKPOINT_50P_V01-V19_SYNTHESIS.md
 series/attack-on-titan/03 Checkpoints and Longitudinal Ledgers/AOT_CHECKPOINT_75P_V01-V27_SYNTHESIS.md
 series/attack-on-titan/03 Checkpoints and Longitudinal Ledgers/AOT_EVERYDAY_LIFE_PREFERENCES_AND_LOW_STAKES_BEHAVIOR_LEDGER.md
@@ -705,6 +798,7 @@ series/gakuen-idolmaster/01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_PHASE0_ARTIFACT_CHE
 series/gakuen-idolmaster/01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_PHASE0_COMPLETION_REPORT.md
 series/gakuen-idolmaster/01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_INVENTORY.md
 series/gakuen-idolmaster/01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_LOCK.md
+series/gakuen-idolmaster/02_CONTINUITY_AND_STORY_STATE/GKM_BRANCH_TOPOLOGY_AND_RESULT_STATE_MODEL.md
 series/gakuen-idolmaster/02_CONTINUITY_AND_STORY_STATE/GKM_CONTINUITY_AND_STORY_STATE_MAP.md
 series/gakuen-idolmaster/02_CONTINUITY_AND_STORY_STATE/GKM_MODULAR_SOURCE_CONTINUITY_RULES.md
 series/gakuen-idolmaster/02_CONTINUITY_AND_STORY_STATE/GKM_PHASE1_ARTIFACT_CHECKSUMS.sha256
@@ -1490,9 +1584,12 @@ series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md
 series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md
 series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md
 series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md
+series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md
 series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md
 series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md
 series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md
+series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V01-V03_CHECKPOINT.md
+series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V04-V06_CHECKPOINT.md
 series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md
 series/legend-of-the-galactic-heroes/00 Frameworks/LOGH_Full_Series_Analytical_Method_v1.md
 series/legend-of-the-galactic-heroes/00 Frameworks/LOGH_Multi_Document_Synthesis_Architecture_v1.md
@@ -1567,6 +1664,7 @@ series/love-live-superstar/03 Season Checkpoints/LLS_SEASON1_FROZEN_CHECKPOINT.m
 series/love-live-superstar/03 Season Checkpoints/LLS_SEASON2_FROZEN_CHECKPOINT.md
 series/love-live-superstar/06 Evidence and Indexes/LLS_CHARACTER_BEHAVIOR_AND_DECISION_LEDGER.md
 series/love-live-superstar/06 Evidence and Indexes/LLS_CHARACTER_STATE_LEDGER.md
+series/love-live-superstar/06 Evidence and Indexes/LLS_CHARACTER_VOICE_MODEL_LEDGER.md
 series/love-live-superstar/06 Evidence and Indexes/LLS_MUSICAL_DRAMATURGY_LEDGER.md
 series/love-live-superstar/06 Evidence and Indexes/LLS_RELATIONSHIP_CONDITIONING_MATRIX.md
 series/love-live-superstar/99 Legacy V1 analysis/00_README_AND_CORPUS_MAP.md
@@ -1775,6 +1873,7 @@ series/my-hero-academia/V1 Analysis/90 Conversation Archives/Manga and anime dis
 series/my-hero-academia/V1 Analysis/MANIFEST.md
 series/my-hero-academia/V2 Analysis/00 Frameworks and Methods/CURRENT_STATE_AND_CORPUS_MAP.md
 series/my-hero-academia/V2 Analysis/00 Frameworks and Methods/MHA_SP2_ANALYTICAL_METHOD_V2_1.md
+series/my-hero-academia/V2 Analysis/00 Frameworks and Methods/MHA_SP2_CHARACTER_MODELING_SCHEMA.md
 series/my-hero-academia/V2 Analysis/00 Frameworks and Methods/MHA_SP2_SYNTHESIS_ARCHITECTURE.md
 series/my-hero-academia/V2 Analysis/01 Source Lock and Inventory/MHA_SP2_SOURCE_INVENTORY.md
 series/my-hero-academia/V2 Analysis/02 Sequential Readings/MHA_SP2_V01_DEEP_READING.md
@@ -1831,6 +1930,7 @@ series/my-hero-academia/V2 Analysis/03 Longitudinal Ledgers/MHA_SP2_RECOGNITION_
 series/my-hero-academia/V2 Analysis/03 Longitudinal Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md
 series/my-hero-academia/V2 Analysis/03 Longitudinal Ledgers/MHA_SP2_VILLAIN_FORMATION_LEDGER.md
 series/my-hero-academia/V2 Analysis/03 Longitudinal Ledgers/MHA_SP2_VISUAL_MOTIF_LEDGER.md
+series/my-hero-academia/V2 Analysis/04 Character Modeling and Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md
 series/my-hero-academia/V2 Analysis/07 Evidence and Indexes/MHA_SP2_PRIMARY_SOURCE_LOCATOR.md
 series/my-hero-academia/V2 Analysis/08 Audits and Manifests/MHA_SP2_V02_UPDATE_MANIFEST.md
 series/my-hero-academia/V2 Analysis/08 Audits and Manifests/MHA_SP2_V03_UPDATE_MANIFEST.md
@@ -1922,6 +2022,7 @@ series/nana/V2 Analysis/10 Phase 8 Final Orientation and Release/Final Release v
 series/nana/V2 Analysis/10 Phase 8 Final Orientation and Release/Final Release v1.0/PHASE8_FINAL_ARCHIVAL_AUDIT.md
 series/nana/V2 Analysis/10 Phase 8 Final Orientation and Release/Final Release v1.0/SOURCE_INVENTORY.md
 series/one-punch-man/00 Frameworks and Methods/OPM_ANALYTICAL_METHOD_V2.md
+series/one-punch-man/00 Frameworks and Methods/OPM_CHARACTER_MODELING_SCHEMA.md
 series/one-punch-man/00 Frameworks and Methods/OPM_SYNTHESIS_ARCHITECTURE_V2.md
 series/one-punch-man/01 Source Lock and Inventory/OPM_SOURCE_INVENTORY.md
 series/one-punch-man/01 Source Lock and Inventory/OPM_TANKOBON_CHAPTER_AND_EXTRA_CROSSWALK.md
@@ -1961,6 +2062,7 @@ series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/Character State/OPM
 series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/Character State/OPM_SAITAMA_CHARACTER_STATE_LEDGER.md
 series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/Checkpoints/OPM_CHECKPOINT_A_VALIDATION_LEDGER.md
 series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/Checkpoints/OPM_V01-V06_CHECKPOINT.md
+series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md
 series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_HEROISM_RECOGNITION_RANK_AND_INSTITUTION_LEDGER.md
 series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_MONSTERHOOD_PERSONHOOD_BODY_AND_TRANSFORMATION_LEDGER.md
 series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_OPEN_QUESTIONS_AND_MYSTERY_LEDGER.md
@@ -2108,6 +2210,14 @@ series/oregairu/V2 Analysis/05 Specialist Synthesis/11_JAPANESE_VOICE_NARRATIVE_
 series/oregairu/V2 Analysis/05 Specialist Synthesis/12_SUPPLEMENTARY_VOLUMES_DRAMA_CDS_AND_ORDINARY_LIFE.md
 series/oregairu/V2 Analysis/06 Continuous Synthesis/13_EVIDENCE_LOCATOR_AND_FIRST_PASS_REVISION_LEDGER.md
 series/oregairu/V2 Analysis/06 Continuous Synthesis/14_OREGAIRU_FULL_SERIES_SYNTHESIS.md
+series/oregairu/V2 Analysis/06 Continuous Synthesis/Character Reconstruction Models/OREGAIRU_V2_CHAR_HACHIMAN_RECONSTRUCTION_MODEL.md
+series/oregairu/V2 Analysis/06 Continuous Synthesis/Character Reconstruction Models/OREGAIRU_V2_CHAR_HARUNO_RECONSTRUCTION_MODEL.md
+series/oregairu/V2 Analysis/06 Continuous Synthesis/Character Reconstruction Models/OREGAIRU_V2_CHAR_HAYAMA_RECONSTRUCTION_MODEL.md
+series/oregairu/V2 Analysis/06 Continuous Synthesis/Character Reconstruction Models/OREGAIRU_V2_CHAR_HIRATSUKA_RECONSTRUCTION_MODEL.md
+series/oregairu/V2 Analysis/06 Continuous Synthesis/Character Reconstruction Models/OREGAIRU_V2_CHAR_IROHA_RECONSTRUCTION_MODEL.md
+series/oregairu/V2 Analysis/06 Continuous Synthesis/Character Reconstruction Models/OREGAIRU_V2_CHAR_KOMACHI_RECONSTRUCTION_MODEL.md
+series/oregairu/V2 Analysis/06 Continuous Synthesis/Character Reconstruction Models/OREGAIRU_V2_CHAR_YUI_RECONSTRUCTION_MODEL.md
+series/oregairu/V2 Analysis/06 Continuous Synthesis/Character Reconstruction Models/OREGAIRU_V2_CHAR_YUKINO_RECONSTRUCTION_MODEL.md
 series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_DRIVE_CORPUS_MAP.md
 series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_HANDOFF_PHASE4_AFTER_REQUEST_INTERVENTION_ETHICS_LEDGER.md
 series/oregairu/V2 Analysis/07 Archive and Manifests/OREGAIRU_V2_PHASE6_ADVERSARIAL_JAPANESE_SOURCE_AUDIT.md
@@ -2285,10 +2395,16 @@ series/solo-leveling/04 Specialist Synthesis/09_KOREAN_NARRATION_VOICE_TERMINOLO
 series/solo-leveling/04 Specialist Synthesis/10_MANHWA_ADAPTATION_VISUAL_GRAMMAR_AND_RECOMPOSITION.md
 series/solo-leveling/04 Specialist Synthesis/11_SIDE_STORIES_RESET_ORDINARY_LIFE_AND_SUHO.md
 series/solo-leveling/04 Specialist Synthesis/12_COMPARATIVE_REFERENCE_MATRICES_AND_FINAL_QUESTIONS.md
+series/solo-leveling/04 Specialist Synthesis/CHA_HAE_IN_CHARACTER_RECONSTRUCTION_MODEL.md
+series/solo-leveling/04 Specialist Synthesis/GO_GUNHEE_CHARACTER_RECONSTRUCTION_MODEL.md
+series/solo-leveling/04 Specialist Synthesis/SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL.md
+series/solo-leveling/04 Specialist Synthesis/WOO_JINCHUL_CHARACTER_RECONSTRUCTION_MODEL.md
+series/solo-leveling/04 Specialist Synthesis/YOO_JINHO_CHARACTER_RECONSTRUCTION_MODEL.md
 series/solo-leveling/05 Final Release/ARTIFACT_CHECKSUMS.sha256
 series/solo-leveling/05 Final Release/CORPUS_MANIFEST.md
 series/solo-leveling/05 Final Release/DELIVERY_AUDIT.json
 series/solo-leveling/05 Final Release/Solo_Leveling_Definitive_Novel_Manhwa_Synthesis_v1.zip.sha256
+series/sound-euphonium/00 Frameworks and Methods/HIBIKE_CHARACTER_MODELING_METHOD.md
 series/sound-euphonium/00 Frameworks and Methods/HIBIKE_V1_TO_V2_REVISION_METHOD.md
 series/sound-euphonium/00 Frameworks and Methods/HIBIKE_V2_ANALYTICAL_METHOD.md
 series/sound-euphonium/01 Source Lock and Inventory/HIBIKE_SOURCE_INVENTORY.md
@@ -2320,6 +2436,11 @@ series/sound-euphonium/03 Longitudinal Ledgers/HIBIKE_V08-V09_CHECKPOINT.md
 series/sound-euphonium/03 Longitudinal Ledgers/HIBIKE_V11-V12_CHECKPOINT.md
 series/sound-euphonium/03 Longitudinal Ledgers/HIBIKE_V1_CLAIM_REVISION_LEDGER.md
 series/sound-euphonium/03 Longitudinal Ledgers/HIBIKE_VOICE_REGISTER_LEDGER.md
+series/sound-euphonium/04 Character Modeling/HIBIKE_ASUKA_CHARACTER_MONOGRAPH.md
+series/sound-euphonium/04 Character Modeling/HIBIKE_KAORI_CHARACTER_MONOGRAPH.md
+series/sound-euphonium/04 Character Modeling/HIBIKE_KUMIKO_CHARACTER_MONOGRAPH.md
+series/sound-euphonium/04 Character Modeling/HIBIKE_REINA_CHARACTER_MONOGRAPH.md
+series/sound-euphonium/04 Character Modeling/HIBIKE_SHUUICHI_CHARACTER_MONOGRAPH.md
 series/sound-euphonium/07 Evidence and Indexes/HIBIKE_V01_LOCATOR_INDEX.md
 series/sound-euphonium/07 Evidence and Indexes/HIBIKE_V02_LOCATOR_INDEX.md
 series/sound-euphonium/07 Evidence and Indexes/HIBIKE_V03_LOCATOR_INDEX.md
@@ -2336,10 +2457,13 @@ series/sound-euphonium/07 Evidence and Indexes/HIBIKE_V13_LOCATOR_INDEX.md
 series/sound-euphonium/07 Evidence and Indexes/HIBIKE_V14_LOCATOR_INDEX.md
 series/sound-euphonium/08 Audits and Manifests/HIBIKE_ASUKA_CHARACTER_MONOGRAPH_AUDIT.md
 series/sound-euphonium/08 Audits and Manifests/HIBIKE_ASUKA_JAPANESE_REALIZATION_AUDIT.md
+series/sound-euphonium/08 Audits and Manifests/HIBIKE_KUMIKO_ASUKA_RECIPROCAL_MODEL_AUDIT.md
 series/sound-euphonium/08 Audits and Manifests/HIBIKE_KUMIKO_CHARACTER_MONOGRAPH_AUDIT.md
 series/sound-euphonium/08 Audits and Manifests/HIBIKE_KUMIKO_REINA_BLIND_ANIME_DIVERGENCE_EVALUATION_01.md
 series/sound-euphonium/08 Audits and Manifests/HIBIKE_KUMIKO_REINA_BLIND_ANIME_DIVERGENCE_PREDICTION_01.md
 series/sound-euphonium/08 Audits and Manifests/HIBIKE_KUMIKO_REINA_JAPANESE_REALIZATION_AUDIT.md
+series/sound-euphonium/08 Audits and Manifests/HIBIKE_KUMIKO_REINA_RECIPROCAL_MODEL_AUDIT.md
+series/sound-euphonium/08 Audits and Manifests/HIBIKE_KUMIKO_SHUUICHI_TEAM_OUMAE_RECIPROCAL_MODEL_AUDIT.md
 series/sound-euphonium/08 Audits and Manifests/HIBIKE_PHASE1_SEQUENTIAL_COMPLETION_AUDIT.md
 series/sound-euphonium/08 Audits and Manifests/HIBIKE_REINA_CHARACTER_MONOGRAPH_AUDIT.md
 series/sound-euphonium/08 Audits and Manifests/HIBIKE_SHUUICHI_CHARACTER_MONOGRAPH_AUDIT.md

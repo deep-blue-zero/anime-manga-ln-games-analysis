@@ -804,7 +804,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "Google Drive remains the analytical authority",
             ),
             "governance/MANGA_ANIME_CORPUS_INDEX.md": (
-                "materialized through the G7 COTE and Shokugeki classification-repair boundary",
+                "materialized through the final G7 reconciliation and stale-disposition repair boundary",
                 "Analytical authority: Google Drive",
             ),
             "governance/policies/REPOSITORY_CONTROLS.md": (
@@ -1504,7 +1504,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             for row in rows("crosswalk/path-plan.jsonl")
             if row.get("representation_id")
         }
-        self.assertEqual(len(mappings), 2817)
+        self.assertEqual(len(mappings), 2939)
         self.assertEqual(set(mappings), set(results))
         self.assertEqual(set(mappings), set(plans))
         for representation_id, mapping in mappings.items():

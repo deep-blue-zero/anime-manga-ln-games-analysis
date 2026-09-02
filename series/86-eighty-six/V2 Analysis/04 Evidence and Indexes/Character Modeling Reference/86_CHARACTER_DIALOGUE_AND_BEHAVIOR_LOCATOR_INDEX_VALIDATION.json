@@ -1,0 +1,8 @@
+{
+  "artifact": "86_CHARACTER_DIALOGUE_AND_BEHAVIOR_LOCATOR_INDEX.tsv",
+  "sha256": "cb4a3c56b1e6fcdc5b97b8462c4700c6e432f18e7c73de851a0a719caffb627e",
+  "rows_total": 999,
+  "ernst_rows": 232,
+  "unique_entry_ids": 999,
+  "overall": "PASS"
+}

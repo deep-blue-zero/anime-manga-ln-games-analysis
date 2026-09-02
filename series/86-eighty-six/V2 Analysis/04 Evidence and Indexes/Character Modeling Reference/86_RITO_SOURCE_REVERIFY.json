@@ -1,0 +1,11 @@
+{
+  "artifact": "86_RITO_SOURCE_REVERIFY.json",
+  "status": "PASS",
+  "character": "Rito Oriya",
+  "diagnostic_rows": 162,
+  "source_route_anchor_verified": 162,
+  "source_route_anchor_total": 162,
+  "errors": [],
+  "verification_note": "Each diagnostic route was reopened from the locked Japanese EPUB working copies using non-empty <p> numbering; exact selected paragraph text equals the stored Japanese anchor.",
+  "excluded_supplemental_control": "Alter.1 part0062 perfume-battle material excluded as chronology-breaking/non-diegetic for CMR characterization."
+}

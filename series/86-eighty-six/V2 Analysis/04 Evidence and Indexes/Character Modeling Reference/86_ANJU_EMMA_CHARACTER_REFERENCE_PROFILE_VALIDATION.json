@@ -1,0 +1,47 @@
+{
+  "artifact": "86_ANJU_EMMA_CHARACTER_REFERENCE_PROFILE.md",
+  "sha256": "03e61c4f0f8b895053127e9b0dbe7b083a9f393737c0b2eeb34a164600149134",
+  "bytes": 69675,
+  "lines": 717,
+  "whitespace_words": 10254,
+  "status": "active_provisional",
+  "profile_verdict": "PROFILE_PASS_ACTIVE_PROVISIONAL",
+  "required_profile_responsibilities": {
+    "expected": 18,
+    "present": 18,
+    "missing": []
+  },
+  "diagnostic_scene_bank": {
+    "rows": 139,
+    "source_routes_verified": 139,
+    "source_routes_total": 139,
+    "unique_cmr_ids": 139,
+    "phase5_locked_rows": 8,
+    "locator_gap_rows": 131,
+    "phase5_locator_ids_referenced": 8,
+    "all_phase5_locator_ids_exist": true,
+    "alter1_supplemental_rows": 12
+  },
+  "negative_constraints": {
+    "mischaracterization_traps": 28,
+    "would_sound_wrong_constraints": 38
+  },
+  "voice_controls": {
+    "composure_not_low_affect": true,
+    "smile_not_affect_meter": true,
+    "daiya_memory_not_erased": true,
+    "dustin_not_replacement": true,
+    "kindness_not_incapacity_for_violence": true,
+    "fear_not_incompetence": true,
+    "oq24_preserved_open": true
+  },
+  "shared_infrastructure": {
+    "diagnostic_index_rows_total": 594,
+    "diagnostic_index_anju_rows": 139,
+    "matrix_rows_total": 131,
+    "matrix_anju_new_rows": 17
+  },
+  "placeholders": [],
+  "duplicate_substantive_paragraphs_600plus": 0,
+  "overall": "PASS"
+}

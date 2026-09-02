@@ -1,0 +1,47 @@
+{
+  "artifact": "86_RAIDEN_SHUGA_CHARACTER_REFERENCE_PROFILE.md",
+  "sha256": "b73e68ccac2826248feb1443f987cafc0aa2dec8e2e3856ec27f00f3655fa59e",
+  "bytes": 59281,
+  "lines": 858,
+  "whitespace_words": 8419,
+  "status": "active_provisional",
+  "profile_verdict": "PROFILE_PASS_ACTIVE_PROVISIONAL",
+  "required_profile_responsibilities": {
+    "expected": 18,
+    "present": 18,
+    "missing": []
+  },
+  "diagnostic_scene_bank": {
+    "rows": 70,
+    "source_routes_verified": 70,
+    "source_routes_total": 70,
+    "unique_cmr_ids": 70,
+    "phase5_locked_rows": 20,
+    "locator_gap_rows": 50,
+    "phase5_locator_ids_referenced": 33,
+    "all_phase5_locator_ids_exist": true,
+    "alter1_supplemental_rows": 5
+  },
+  "negative_constraints": {
+    "mischaracterization_traps": 28,
+    "would_sound_wrong_constraints": 36
+  },
+  "voice_controls": {
+    "roughness_not_distance": true,
+    "care_not_softness": true,
+    "practicality_not_shallow_interiority": true,
+    "anger_state_not_settled_politics": true,
+    "stabilizer_not_total_identity": true,
+    "civilian_capacity_not_settled_vocation": true,
+    "oq21_preserved_open": true
+  },
+  "shared_infrastructure": {
+    "diagnostic_index_rows_total": 249,
+    "diagnostic_index_raiden_rows": 70,
+    "matrix_rows_total": 79,
+    "matrix_raiden_new_rows": 18
+  },
+  "placeholders": [],
+  "duplicate_substantive_paragraphs_600plus": 0,
+  "overall": "PASS"
+}

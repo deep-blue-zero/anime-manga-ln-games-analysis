@@ -1,0 +1,1611 @@
+{
+  "artifact": "86_MARCEL_SOURCE_REVERIFY.json",
+  "profile": "86_MARCEL_CHARACTER_REFERENCE_PROFILE.md",
+  "status": "PASS",
+  "diagnostic_rows": 198,
+  "verified_routes_and_anchors": 198,
+  "errors": [],
+  "source_files": {
+    "V01": "86 - Volume 01.epub",
+    "V02": "86 - Volume 02.epub",
+    "V03": "86 - Volume 03.epub",
+    "V04": "86 - Volume 04.epub",
+    "V05": "86 - Volume 05.epub",
+    "V06": "86 - Volume 06.epub",
+    "V07": "86 - Volume 07.epub",
+    "V08": "86 - Volume 08.epub",
+    "V09": "86 - Volume 09.epub",
+    "V10": "86 - Volume 10.epub",
+    "V11": "86 - Volume 11.epub",
+    "V12": "86 - Volume 12.epub",
+    "V13": "86 - Volume 13.epub",
+    "V14": "86 - Volume 14 [Japanese].epub",
+    "Alter.1": "86 - Alter 01 [Japanese].epub"
+  },
+  "checks": [
+    {
+      "entry_id": "86-CMR-MAR-001",
+      "source": "V02",
+      "route": "V02 p-004.xhtml ¶373",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 373,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-002",
+      "source": "V02",
+      "route": "V02 p-004.xhtml ¶379",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 379,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-003",
+      "source": "V02",
+      "route": "V02 p-004.xhtml ¶380",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 380,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-004",
+      "source": "V02",
+      "route": "V02 p-004.xhtml ¶383",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 383,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-005",
+      "source": "V02",
+      "route": "V02 p-004.xhtml ¶384",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 384,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-006",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶192",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 192,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-007",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶202",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 202,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-008",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶207",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 207,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-009",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶212",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 212,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-010",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶216",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 216,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-011",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶218",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 218,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-012",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶226",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 226,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-013",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶232",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 232,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-014",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶258",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 258,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-015",
+      "source": "V03",
+      "route": "V03 p-005.xhtml ¶263",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 263,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-016",
+      "source": "V04",
+      "route": "V04 p-007.xhtml ¶100",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 100,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-017",
+      "source": "V04",
+      "route": "V04 p-007.xhtml ¶176",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 176,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-018",
+      "source": "V04",
+      "route": "V04 p-008.xhtml ¶206",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 206,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-019",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶306",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 306,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-020",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶307",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 307,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-021",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶309",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 309,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-022",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶310",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 310,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-023",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶312",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 312,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-024",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶313",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 313,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-025",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶318",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 318,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-026",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶323",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 323,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-027",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶326",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 326,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-028",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶327",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 327,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-029",
+      "source": "V05",
+      "route": "V05 p-004.xhtml ¶328",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 328,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-030",
+      "source": "V05",
+      "route": "V05 p-005.xhtml ¶403",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 403,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-031",
+      "source": "V05",
+      "route": "V05 p-005.xhtml ¶404",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 404,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-032",
+      "source": "V05",
+      "route": "V05 p-005.xhtml ¶408",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 408,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-033",
+      "source": "V05",
+      "route": "V05 p-006.xhtml ¶239",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 239,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-034",
+      "source": "V05",
+      "route": "V05 p-006.xhtml ¶240",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 240,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-035",
+      "source": "V05",
+      "route": "V05 p-006.xhtml ¶241",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 241,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-036",
+      "source": "V05",
+      "route": "V05 p-006.xhtml ¶257",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 257,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-037",
+      "source": "V05",
+      "route": "V05 p-006.xhtml ¶474",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 474,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-038",
+      "source": "V05",
+      "route": "V05 p-006.xhtml ¶476",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 476,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-039",
+      "source": "V05",
+      "route": "V05 p-006.xhtml ¶480",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 480,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-040",
+      "source": "V05",
+      "route": "V05 p-006.xhtml ¶481",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 481,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-041",
+      "source": "V05",
+      "route": "V05 p-006.xhtml ¶482",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 482,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-042",
+      "source": "V05",
+      "route": "V05 p-009.xhtml ¶229",
+      "member": "item/xhtml/p-009.xhtml",
+      "paragraph": 229,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-043",
+      "source": "V06",
+      "route": "V06 p-005.xhtml ¶191",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 191,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-044",
+      "source": "V06",
+      "route": "V06 p-005.xhtml ¶552",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 552,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-045",
+      "source": "V06",
+      "route": "V06 p-005.xhtml ¶832",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 832,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-046",
+      "source": "V06",
+      "route": "V06 p-007.xhtml ¶80",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 80,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-047",
+      "source": "V07",
+      "route": "V07 p-006.xhtml ¶86",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 86,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-048",
+      "source": "V07",
+      "route": "V07 p-006.xhtml ¶186",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 186,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-049",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶72",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 72,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-050",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶73",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 73,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-051",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶448",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 448,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-052",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶449",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 449,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-053",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶451",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 451,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-054",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶453",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 453,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-055",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶454",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 454,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-056",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶458",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 458,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-057",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶459",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 459,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-058",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶461",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 461,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-059",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶464",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 464,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-060",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶465",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 465,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-061",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶472",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 472,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-062",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶477",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 477,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-063",
+      "source": "V07",
+      "route": "V07 p-007.xhtml ¶601",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 601,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-064",
+      "source": "V07",
+      "route": "V07 p-008.xhtml ¶250",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 250,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-065",
+      "source": "V07",
+      "route": "V07 p-008.xhtml ¶336",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 336,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-066",
+      "source": "V07",
+      "route": "V07 p-008.xhtml ¶550",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 550,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-067",
+      "source": "V07",
+      "route": "V07 p-008.xhtml ¶560",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 560,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-068",
+      "source": "V07",
+      "route": "V07 p-008.xhtml ¶629",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 629,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-069",
+      "source": "V07",
+      "route": "V07 p-009.xhtml ¶327",
+      "member": "item/xhtml/p-009.xhtml",
+      "paragraph": 327,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-070",
+      "source": "V08",
+      "route": "V08 p-004.xhtml ¶88",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 88,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-071",
+      "source": "V08",
+      "route": "V08 p-005.xhtml ¶243",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 243,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-072",
+      "source": "V08",
+      "route": "V08 p-006.xhtml ¶130",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 130,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-073",
+      "source": "V08",
+      "route": "V08 p-006.xhtml ¶131",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 131,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-074",
+      "source": "V08",
+      "route": "V08 p-006.xhtml ¶132",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 132,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-075",
+      "source": "V08",
+      "route": "V08 p-006.xhtml ¶166",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 166,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-076",
+      "source": "V08",
+      "route": "V08 p-006.xhtml ¶168",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 168,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-077",
+      "source": "V08",
+      "route": "V08 p-006.xhtml ¶171",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 171,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-078",
+      "source": "V08",
+      "route": "V08 p-011.xhtml ¶52",
+      "member": "item/xhtml/p-011.xhtml",
+      "paragraph": 52,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-079",
+      "source": "V08",
+      "route": "V08 p-011.xhtml ¶68",
+      "member": "item/xhtml/p-011.xhtml",
+      "paragraph": 68,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-080",
+      "source": "V08",
+      "route": "V08 p-011.xhtml ¶678",
+      "member": "item/xhtml/p-011.xhtml",
+      "paragraph": 678,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-081",
+      "source": "V08",
+      "route": "V08 p-011.xhtml ¶798",
+      "member": "item/xhtml/p-011.xhtml",
+      "paragraph": 798,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-082",
+      "source": "V08",
+      "route": "V08 p-011.xhtml ¶800",
+      "member": "item/xhtml/p-011.xhtml",
+      "paragraph": 800,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-083",
+      "source": "V09",
+      "route": "V09 p-004.xhtml ¶23",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 23,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-084",
+      "source": "V09",
+      "route": "V09 p-004.xhtml ¶27",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 27,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-085",
+      "source": "V09",
+      "route": "V09 p-004.xhtml ¶44",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 44,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-086",
+      "source": "V09",
+      "route": "V09 p-006.xhtml ¶189",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 189,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-087",
+      "source": "V09",
+      "route": "V09 p-006.xhtml ¶190",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 190,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-088",
+      "source": "V09",
+      "route": "V09 p-006.xhtml ¶191",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 191,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-089",
+      "source": "V09",
+      "route": "V09 p-006.xhtml ¶192",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 192,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-090",
+      "source": "V09",
+      "route": "V09 p-006.xhtml ¶194",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 194,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-091",
+      "source": "V09",
+      "route": "V09 p-006.xhtml ¶197",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 197,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-092",
+      "source": "V09",
+      "route": "V09 p-010.xhtml ¶56",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 56,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-093",
+      "source": "V09",
+      "route": "V09 p-010.xhtml ¶210",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 210,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-094",
+      "source": "V09",
+      "route": "V09 p-010.xhtml ¶211",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 211,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-095",
+      "source": "V09",
+      "route": "V09 p-010.xhtml ¶213",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 213,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-096",
+      "source": "V09",
+      "route": "V09 p-010.xhtml ¶220",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 220,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-097",
+      "source": "V09",
+      "route": "V09 p-010.xhtml ¶225",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 225,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-098",
+      "source": "V09",
+      "route": "V09 p-011.xhtml ¶668",
+      "member": "item/xhtml/p-011.xhtml",
+      "paragraph": 668,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-099",
+      "source": "V11",
+      "route": "V11 p-010.xhtml ¶272",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 272,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-100",
+      "source": "V11",
+      "route": "V11 p-010.xhtml ¶274",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 274,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-101",
+      "source": "V11",
+      "route": "V11 p-010.xhtml ¶276",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 276,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-102",
+      "source": "V11",
+      "route": "V11 p-010.xhtml ¶281",
+      "member": "item/xhtml/p-010.xhtml",
+      "paragraph": 281,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-103",
+      "source": "V11",
+      "route": "V11 p-018.xhtml ¶38",
+      "member": "item/xhtml/p-018.xhtml",
+      "paragraph": 38,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-104",
+      "source": "V11",
+      "route": "V11 p-018.xhtml ¶359",
+      "member": "item/xhtml/p-018.xhtml",
+      "paragraph": 359,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-105",
+      "source": "V11",
+      "route": "V11 p-018.xhtml ¶361",
+      "member": "item/xhtml/p-018.xhtml",
+      "paragraph": 361,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-106",
+      "source": "V11",
+      "route": "V11 p-018.xhtml ¶366",
+      "member": "item/xhtml/p-018.xhtml",
+      "paragraph": 366,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-107",
+      "source": "V11",
+      "route": "V11 p-018.xhtml ¶369",
+      "member": "item/xhtml/p-018.xhtml",
+      "paragraph": 369,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-108",
+      "source": "V11",
+      "route": "V11 p-018.xhtml ¶370",
+      "member": "item/xhtml/p-018.xhtml",
+      "paragraph": 370,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-109",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶538",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 538,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-110",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶540",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 540,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-111",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶542",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 542,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-112",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶543",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 543,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-113",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶544",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 544,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-114",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶549",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 549,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-115",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶550",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 550,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-116",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶553",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 553,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-117",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶555",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 555,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-118",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶556",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 556,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-119",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶557",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 557,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-120",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶618",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 618,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-121",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶619",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 619,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-122",
+      "source": "V11",
+      "route": "V11 p-026.xhtml ¶623",
+      "member": "item/xhtml/p-026.xhtml",
+      "paragraph": 623,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-123",
+      "source": "V12",
+      "route": "V12 p-004.xhtml ¶298",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 298,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-124",
+      "source": "V12",
+      "route": "V12 p-004.xhtml ¶310",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 310,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-125",
+      "source": "V12",
+      "route": "V12 p-004.xhtml ¶311",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 311,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-126",
+      "source": "V12",
+      "route": "V12 p-004.xhtml ¶320",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 320,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-127",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶352",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 352,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-128",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶353",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 353,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-129",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶354",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 354,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-130",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶390",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 390,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-131",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶391",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 391,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-132",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶393",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 393,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-133",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶395",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 395,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-134",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶399",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 399,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-135",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶400",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 400,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-136",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶401",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 401,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-137",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶402",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 402,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-138",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶408",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 408,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-139",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶723",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 723,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-140",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶725",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 725,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-141",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶730",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 730,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-142",
+      "source": "V12",
+      "route": "V12 p-006.xhtml ¶731",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 731,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-143",
+      "source": "V12",
+      "route": "V12 p-007.xhtml ¶283",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 283,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-144",
+      "source": "V12",
+      "route": "V12 p-007.xhtml ¶292",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 292,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-145",
+      "source": "V12",
+      "route": "V12 p-007.xhtml ¶353",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 353,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-146",
+      "source": "V12",
+      "route": "V12 p-007.xhtml ¶518",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 518,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-147",
+      "source": "V12",
+      "route": "V12 p-007.xhtml ¶521",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 521,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-148",
+      "source": "V12",
+      "route": "V12 p-008.xhtml ¶655",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 655,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-149",
+      "source": "V13",
+      "route": "V13 p-004.xhtml ¶6",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 6,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-150",
+      "source": "V13",
+      "route": "V13 p-004.xhtml ¶10",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 10,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-151",
+      "source": "V13",
+      "route": "V13 p-004.xhtml ¶14",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 14,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-152",
+      "source": "V13",
+      "route": "V13 p-004.xhtml ¶77",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 77,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-153",
+      "source": "V13",
+      "route": "V13 p-004.xhtml ¶78",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 78,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-154",
+      "source": "V13",
+      "route": "V13 p-004.xhtml ¶399",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 399,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-155",
+      "source": "V13",
+      "route": "V13 p-005.xhtml ¶258",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 258,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-156",
+      "source": "V13",
+      "route": "V13 p-005.xhtml ¶259",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 259,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-157",
+      "source": "V13",
+      "route": "V13 p-005.xhtml ¶260",
+      "member": "item/xhtml/p-005.xhtml",
+      "paragraph": 260,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-158",
+      "source": "V13",
+      "route": "V13 p-006.xhtml ¶483",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 483,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-159",
+      "source": "V13",
+      "route": "V13 p-006.xhtml ¶618",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 618,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-160",
+      "source": "V14",
+      "route": "V14 p-004.xhtml ¶182",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 182,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-161",
+      "source": "V14",
+      "route": "V14 p-004.xhtml ¶183",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 183,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-162",
+      "source": "V14",
+      "route": "V14 p-004.xhtml ¶190",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 190,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-163",
+      "source": "V14",
+      "route": "V14 p-004.xhtml ¶309",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 309,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-164",
+      "source": "V14",
+      "route": "V14 p-004.xhtml ¶328",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 328,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-165",
+      "source": "V14",
+      "route": "V14 p-004.xhtml ¶329",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 329,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-166",
+      "source": "V14",
+      "route": "V14 p-004.xhtml ¶367",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 367,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-167",
+      "source": "V14",
+      "route": "V14 p-004.xhtml ¶374",
+      "member": "item/xhtml/p-004.xhtml",
+      "paragraph": 374,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-168",
+      "source": "V14",
+      "route": "V14 p-006.xhtml ¶154",
+      "member": "item/xhtml/p-006.xhtml",
+      "paragraph": 154,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-169",
+      "source": "V14",
+      "route": "V14 p-007.xhtml ¶472",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 472,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-170",
+      "source": "V14",
+      "route": "V14 p-007.xhtml ¶473",
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph": 473,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-171",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶58",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 58,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-172",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶59",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 59,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-173",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶62",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 62,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-174",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶63",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 63,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-175",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶67",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 67,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-176",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶69",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 69,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-177",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶70",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 70,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-178",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶73",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 73,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-179",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶76",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 76,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-180",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶77",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 77,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-181",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶79",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 79,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-182",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶103",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 103,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-183",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶110",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 110,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-184",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶273",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 273,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-185",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶280",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 280,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-186",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶281",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 281,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-187",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶282",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 282,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-188",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶283",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 283,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-189",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶286",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 286,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-190",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶287",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 287,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-191",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶289",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 289,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-192",
+      "source": "V14",
+      "route": "V14 p-008.xhtml ¶391",
+      "member": "item/xhtml/p-008.xhtml",
+      "paragraph": 391,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-193",
+      "source": "Alter.1",
+      "route": "Alter.1 OEBPS/part0041.xhtml ¶5",
+      "member": "OEBPS/part0041.xhtml",
+      "paragraph": 5,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-194",
+      "source": "Alter.1",
+      "route": "Alter.1 OEBPS/part0044.xhtml ¶3",
+      "member": "OEBPS/part0044.xhtml",
+      "paragraph": 3,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-195",
+      "source": "Alter.1",
+      "route": "Alter.1 OEBPS/part0044.xhtml ¶19",
+      "member": "OEBPS/part0044.xhtml",
+      "paragraph": 19,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-196",
+      "source": "Alter.1",
+      "route": "Alter.1 OEBPS/part0044.xhtml ¶33",
+      "member": "OEBPS/part0044.xhtml",
+      "paragraph": 33,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-197",
+      "source": "Alter.1",
+      "route": "Alter.1 OEBPS/part0044.xhtml ¶34",
+      "member": "OEBPS/part0044.xhtml",
+      "paragraph": 34,
+      "anchor_verified": true
+    },
+    {
+      "entry_id": "86-CMR-MAR-198",
+      "source": "Alter.1",
+      "route": "Alter.1 OEBPS/part0053.xhtml ¶3",
+      "member": "OEBPS/part0053.xhtml",
+      "paragraph": 3,
+      "anchor_verified": true
+    }
+  ]
+}

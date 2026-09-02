@@ -1,0 +1,12 @@
+{
+  "ernst_rows": 232,
+  "route_files_verified": 232,
+  "anchors_verified": 232,
+  "phase5_locked_rows": 23,
+  "distinct_phase5_ids": 23,
+  "missing_phase5_ids": [],
+  "locator_gap_rows": 209,
+  "alter1_rows": 26,
+  "errors": [],
+  "overall": "PASS"
+}

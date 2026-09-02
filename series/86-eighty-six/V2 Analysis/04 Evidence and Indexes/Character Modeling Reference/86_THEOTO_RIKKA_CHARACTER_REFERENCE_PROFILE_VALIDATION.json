@@ -1,0 +1,48 @@
+{
+  "artifact": "86_THEOTO_RIKKA_CHARACTER_REFERENCE_PROFILE.md",
+  "sha256": "12eba24e1fd309e752a76652a6519a45b4e679fa70f0e751a568eaa2711e6653",
+  "bytes": 63313,
+  "lines": 852,
+  "whitespace_words": 8901,
+  "status": "active_provisional",
+  "profile_verdict": "PROFILE_PASS_ACTIVE_PROVISIONAL",
+  "required_profile_responsibilities": {
+    "expected": 18,
+    "present": 18,
+    "missing": []
+  },
+  "diagnostic_scene_bank": {
+    "rows": 85,
+    "source_routes_verified": 85,
+    "source_routes_total": 85,
+    "unique_cmr_ids": 85,
+    "phase5_locked_rows": 33,
+    "locator_gap_rows": 49,
+    "phase5_locator_ids_referenced": 44,
+    "all_phase5_locator_ids_exist": true,
+    "alter1_supplemental_rows": 3
+  },
+  "negative_constraints": {
+    "mischaracterization_traps": 32,
+    "would_sound_wrong_constraints": 38
+  },
+  "voice_controls": {
+    "art_predates_disability": true,
+    "cutting_intelligence_not_erased": true,
+    "disability_not_liberation": true,
+    "combat_incapacity_not_global_incapacity": true,
+    "accommodation_not_surveillance": true,
+    "adapted_service_not_settled_vocation": true,
+    "oq22_preserved_open": true,
+    "boku_soft_surface_sharp_content_preserved": true
+  },
+  "shared_infrastructure": {
+    "diagnostic_index_rows_total": 334,
+    "diagnostic_index_theo_rows": 85,
+    "matrix_rows_total": 96,
+    "matrix_theo_new_rows": 17
+  },
+  "placeholders": [],
+  "duplicate_substantive_paragraphs_600plus": 0,
+  "overall": "PASS"
+}

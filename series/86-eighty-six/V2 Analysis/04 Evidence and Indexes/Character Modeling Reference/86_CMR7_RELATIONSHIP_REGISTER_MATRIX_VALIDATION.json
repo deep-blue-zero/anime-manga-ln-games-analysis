@@ -1,0 +1,184 @@
+{
+  "artifact": "86_CHARACTER_RELATIONSHIP_REGISTER_MATRIX.md",
+  "phase": "CMR-7",
+  "status": "CMR7_PASS_MATRIX_REMAINS_ACTIVE_PROVISIONAL",
+  "source_boundary": "Japanese V01-V14 + audited Alter.1; Alter.2 excluded",
+  "starting_matrix_sha256": "d83402dc2e8a184c2d4e9513f93648e40fc0aa6506306f1a0ccd2eb0a516a0af",
+  "final_matrix_sha256": "9d5e0937048268f3c0c040a4b5fa1faa929ca7c9fc1638dc06e41138886f69b9",
+  "starting_matrix_rows": 298,
+  "final_matrix_rows": 318,
+  "net_row_change": 20,
+  "completion_rows_added": 19,
+  "composite_split_rows_added": 2,
+  "rows_removed": [
+    "86-CMR-RM-FID-RIM-01"
+  ],
+  "rows_split_from_composite": [
+    "86-CMR-RM-FID-RIT-01",
+    "86-CMR-RM-FID-MAR-01"
+  ],
+  "required_columns": 12,
+  "unique_row_ids": 318,
+  "duplicate_row_ids": [],
+  "malformed_rows_after_repair": [],
+  "malformed_rows_repaired": [
+    "86-CMR-RM-LEN-POL-01",
+    "86-CMR-RM-LEN-VAC-01",
+    "86-CMR-RM-MAR-NIN-01",
+    "86-CMR-RM-FID-FRE-01",
+    "86-CMR-RM-FID-LEN-01",
+    "86-CMR-RM-FID-BASE-01",
+    "86-CMR-RM-FID-DEAD-01",
+    "86-CMR-RM-FID-SELF-01",
+    "86-CMR-RM-FID-SELF-02",
+    "86-CMR-RM-FID-ORD-01"
+  ],
+  "confidence_normalizations": {
+    "HIGH for familial/affectionate relation; LOW/OPEN for romance -> HIGH": 1,
+    "HIGH for historical address/behavior; MODERATE for broader unrecovered prewar idiolect -> HIGH": 1,
+    "HIGH at collective-function level -> HIGH": 1,
+    "MODERATE-HIGH; interpretation boundary explicit -> MODERATE": 1,
+    "MODERATE-HIGH; romance OPEN/LOW -> MODERATE": 1,
+    "MODERATE-HIGH -> MODERATE": 15,
+    "HIGH for intimacy/attraction coding; OPEN for relationship status -> HIGH": 1,
+    "HIGH; romance not established -> HIGH": 2,
+    "HIGH for friendship; OPEN for romance -> HIGH": 1,
+    "HIGH for care/autonomy; OPEN for romance -> HIGH": 1
+  },
+  "pair_alias_normalizations": {
+    "Vika -> Viktor Idinarohk / Vika": 2,
+    "Rito Oriya memory -> Rito Oriya": 1,
+    "Marcel -> Erwin Marcel / Marcel": 1,
+    "younger Eighty-Six / Rito -> Rito Oriya": 1,
+    "Viktor Idinarohk -> Viktor Idinarohk / Vika": 21,
+    "Erwin Marcel -> Erwin Marcel / Marcel": 18,
+    "Vladilena Milize -> Vladilena Milizé": 2,
+    "child Shinei Nouzen -> Shinei Nouzen": 1,
+    "adolescent/current Shinei Nouzen -> Shinei Nouzen": 1
+  },
+  "diagnostic_prefix_normalizations": {
+    "RIT": 25,
+    "MAR": 78
+  },
+  "diagnostic_index_rows": 2372,
+  "diagnostic_references_in_matrix": 843,
+  "missing_diagnostic_references": [],
+  "bad_confidence_values": {},
+  "empty_evidence_routes": [],
+  "stale_aliases": {},
+  "bare_rito_or_marcel_refs": [],
+  "new_row_ids_missing": [],
+  "exact_duplicate_content_groups": [],
+  "new_unindexed_source_anchor_checks": [
+    {
+      "row_id": "86-CMR-RM-SHI-SHD-01",
+      "epub": "86 - Volume 09.epub",
+      "internal_path": "item/xhtml/p-006.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    },
+    {
+      "row_id": "86-CMR-RM-SHI-VIK-01",
+      "epub": "86 - Volume 12.epub",
+      "internal_path": "item/xhtml/p-005.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    },
+    {
+      "row_id": "86-CMR-RM-SHI-LER-01",
+      "epub": "86 - Volume 06.epub",
+      "internal_path": "item/xhtml/p-007.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    },
+    {
+      "row_id": "86-CMR-RM-SHI-MAR-01",
+      "epub": "86 - Volume 11.epub",
+      "internal_path": "item/xhtml/p-026.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    },
+    {
+      "row_id": "86-CMR-RM-LEN-VIK-01",
+      "epub": "86 - Volume 05.epub",
+      "internal_path": "item/xhtml/p-007.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    },
+    {
+      "row_id": "86-CMR-RM-LEN-RIT-01",
+      "epub": "86 - Volume 08.epub",
+      "internal_path": "item/xhtml/p-005.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    },
+    {
+      "row_id": "86-CMR-RM-RAI-VIK-01",
+      "epub": "86 - Volume 12.epub",
+      "internal_path": "item/xhtml/p-008.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    },
+    {
+      "row_id": "86-CMR-RM-VIK-RAI-01",
+      "epub": "86 - Volume 12.epub",
+      "internal_path": "item/xhtml/p-008.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    },
+    {
+      "row_id": "86-CMR-RM-VIK-THE-01",
+      "epub": "86 - Volume 07.epub",
+      "internal_path": "item/xhtml/p-009.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    },
+    {
+      "row_id": "86-CMR-RM-THE-VIK-01",
+      "epub": "86 - Volume 08.epub",
+      "internal_path": "item/xhtml/p-011.xhtml",
+      "anchor_verified": true,
+      "error": ""
+    }
+  ],
+  "coverage_stats": {
+    "roster_characters": 16,
+    "possible_directed_roster_pairs": 240,
+    "present_directed_roster_pairs": 119,
+    "absent_directed_roster_pairs": 121,
+    "unordered_roster_pairs": 120,
+    "bidirectional_unordered_pairs": 46,
+    "one_direction_unordered_pairs": 27,
+    "no_direction_unordered_pairs": 47,
+    "open_underdetermined_directions": 1,
+    "collective_or_incidental_directions": 81,
+    "no_warrant_directions": 39,
+    "new_directions_added_cmr7": 21,
+    "profile_heading_pairs": 93
+  },
+  "synthetic_evidence_rows": 0,
+  "open_underdetermined": [
+    "Raiden Shuga → Anju Emma"
+  ],
+  "legitimate_state_splits_retained": [
+    "Theoto Rikka → Anju Emma: V01 correction versus V14 ordinary return",
+    "Viktor Idinarohk / Vika → Lerche: privacy/refusal versus particularity/finality"
+  ],
+  "checks": {
+    "all_rows_have_12_fields": true,
+    "row_ids_unique": true,
+    "all_21_cmr7_added_rows_present": true,
+    "deprecated_composite_removed": true,
+    "controlled_confidence_vocabulary_only": true,
+    "all_referenced_diagnostic_ids_exist": true,
+    "no_bare_rito_or_marcel_ids": true,
+    "canonical_roster_spelling_normalized": true,
+    "no_empty_evidence_routes": true,
+    "no_exact_semantic_duplicates": true,
+    "exact_source_anchors_for_new_unindexed_rows_verified": true,
+    "no_synthetic_evidence": true,
+    "no_symmetry_inference": true,
+    "raiden_to_anju_preserved_open": true
+  },
+  "errors": []
+}

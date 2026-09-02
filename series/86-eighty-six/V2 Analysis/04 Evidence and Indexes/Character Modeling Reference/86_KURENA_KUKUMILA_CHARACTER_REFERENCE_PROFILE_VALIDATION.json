@@ -1,0 +1,46 @@
+{
+  "artifact": "86_KURENA_KUKUMILA_CHARACTER_REFERENCE_PROFILE.md",
+  "sha256": "87a879cbfba7bc95e74e35fec4ac59b627e9dcb3a493c24265fdc57150e5221e",
+  "bytes": 64032,
+  "lines": 920,
+  "whitespace_words": 9251,
+  "status": "active_provisional",
+  "profile_verdict": "PROFILE_PASS_ACTIVE_PROVISIONAL",
+  "required_profile_responsibilities": {
+    "expected": 18,
+    "present": 18,
+    "missing": []
+  },
+  "diagnostic_scene_bank": {
+    "rows": 121,
+    "source_routes_verified": 121,
+    "source_routes_total": 121,
+    "unique_cmr_ids": 121,
+    "phase5_locked_rows": 33,
+    "locator_gap_rows": 86,
+    "phase5_locator_ids_referenced": 34,
+    "all_phase5_locator_ids_exist": true,
+    "alter1_supplemental_rows": 8
+  },
+  "negative_constraints": {
+    "mischaracterization_traps": 28,
+    "would_sound_wrong_constraints": 38
+  },
+  "voice_controls": {
+    "youthful_あたし_persists": true,
+    "emotional_transparency_not_simplicity": true,
+    "skill_not_reduced_to_usefulness": true,
+    "love_not_entitlement": true,
+    "nonrevenge_not_forgiveness": true,
+    "oq23_preserved_open": true
+  },
+  "shared_infrastructure": {
+    "diagnostic_index_rows_total": 455,
+    "diagnostic_index_kurena_rows": 121,
+    "matrix_rows_total": 114,
+    "matrix_kurena_new_rows": 18
+  },
+  "placeholders": [],
+  "duplicate_substantive_paragraphs_600plus": 0,
+  "overall": "PASS"
+}

@@ -1,0 +1,52 @@
+{
+  "artifact": "86_ERNST_ZIMMERMANN_CHARACTER_REFERENCE_PROFILE.md",
+  "sha256": "828ee2e90a73f08b52634cd78e99dbf4311f5ad1b04bdae5653f675f3ef49647",
+  "bytes": 99396,
+  "lines": 916,
+  "whitespace_words": 14018,
+  "status": "active_provisional",
+  "profile_verdict": "PROFILE_PASS_ACTIVE_PROVISIONAL",
+  "required_profile_responsibilities": {
+    "expected": 18,
+    "present": 18,
+    "missing": []
+  },
+  "diagnostic_scene_bank": {
+    "rows": 232,
+    "source_routes_verified": 232,
+    "source_routes_total": 232,
+    "unique_cmr_ids": 232,
+    "phase5_locked_rows": 23,
+    "locator_gap_rows": 209,
+    "phase5_locator_ids_referenced": 23,
+    "all_phase5_locator_ids_exist": true,
+    "alter1_supplemental_rows": 26
+  },
+  "negative_constraints": {
+    "mischaracterization_traps": 32,
+    "would_sound_wrong_constraints": 40
+  },
+  "voice_controls": {
+    "casual_boku_persists": true,
+    "public_private_state_switch": true,
+    "paternalism_not_fake_care": true,
+    "extinction_rhetoric_not_harmless_hyperbole": true,
+    "fatherhood_not_complete_cure": true,
+    "self_erasure_not_courage": true,
+    "institutional_constraints_required": true
+  },
+  "shared_infrastructure": {
+    "diagnostic_index_rows_total": 999,
+    "diagnostic_index_ernst_rows": 232,
+    "matrix_rows_total": 169,
+    "matrix_ernst_new_rows": 18
+  },
+  "matrix_semantic_evidence_route_audit": {
+    "rows_checked": 18,
+    "passed": 18,
+    "status": "PASS"
+  },
+  "placeholders": [],
+  "duplicate_substantive_paragraphs_600plus": 0,
+  "overall": "PASS"
+}

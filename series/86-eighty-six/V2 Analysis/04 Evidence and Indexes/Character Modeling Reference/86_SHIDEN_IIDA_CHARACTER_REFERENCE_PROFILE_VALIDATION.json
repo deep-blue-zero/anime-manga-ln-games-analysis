@@ -1,0 +1,49 @@
+{
+  "artifact": "86_SHIDEN_IIDA_CHARACTER_REFERENCE_PROFILE.md",
+  "sha256": "647cef10022a04dd2a97dc87565ffe7201ffcb27124944e7fcfbc6f165d1355f",
+  "bytes": 65374,
+  "lines": 841,
+  "whitespace_words": 9428,
+  "status": "active_provisional",
+  "profile_verdict": "PROFILE_PASS_ACTIVE_PROVISIONAL",
+  "required_profile_responsibilities": {
+    "expected": 18,
+    "present": 18,
+    "missing": []
+  },
+  "diagnostic_scene_bank": {
+    "rows": 173,
+    "source_routes_verified": 173,
+    "source_routes_total": 173,
+    "unique_cmr_ids": 173,
+    "phase5_locked_rows": 13,
+    "locator_gap_rows": 160,
+    "phase5_locator_ids_referenced": 9,
+    "all_phase5_locator_ids_exist": true,
+    "alter1_supplemental_rows": 9
+  },
+  "voice_controls": {
+    "roughness_not_hostility": true,
+    "loyalty_not_idolatry": true,
+    "lena_romance_implication_not_confession": true,
+    "shana_grief_not_romance_proof": true,
+    "combat_joy_not_permanent_war_desire": true,
+    "formal_register_available": true,
+    "curiosity_not_vocation": true,
+    "support_routing_limit_preserved": true
+  },
+  "shared_infrastructure": {
+    "diagnostic_index_rows_total": 767,
+    "diagnostic_index_shiden_rows": 173,
+    "matrix_rows_total": 151,
+    "matrix_shiden_new_rows": 20
+  },
+  "placeholders": [],
+  "duplicate_substantive_paragraphs_600plus": 0,
+  "overall": "PASS",
+  "matrix_semantic_evidence_route_audit": {
+    "rows_checked": 20,
+    "passed": 20,
+    "status": "PASS"
+  }
+}

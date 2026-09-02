@@ -1,0 +1,13 @@
+{
+  "artifact": "86_CHARACTER_RELATIONSHIP_REGISTER_MATRIX.md",
+  "sha256": "0417742b8e725ffbeb4abb481590e2d7aaf6010825c178f1038454b4525cbe93",
+  "rows_total": 169,
+  "ernst_new_rows": 18,
+  "unique_row_ids": 169,
+  "semantic_evidence_route_audit": {
+    "rows_checked": 18,
+    "passed": 18,
+    "status": "PASS"
+  },
+  "overall": "PASS"
+}

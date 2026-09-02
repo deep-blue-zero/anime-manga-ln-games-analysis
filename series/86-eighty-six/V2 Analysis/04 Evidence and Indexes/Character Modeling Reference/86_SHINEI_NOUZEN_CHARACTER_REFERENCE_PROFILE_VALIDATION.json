@@ -1,0 +1,45 @@
+{
+  "artifact": "86_SHINEI_NOUZEN_CHARACTER_REFERENCE_PROFILE.md",
+  "sha256": "dc05921737ee5ff5159845c9c28456d0b61c647ba75acc32f3113203910fd353",
+  "bytes": 65811,
+  "lines": 936,
+  "whitespace_words": 9681,
+  "status": "active_provisional",
+  "profile_verdict": "PROFILE_PASS_ACTIVE_PROVISIONAL",
+  "required_profile_responsibilities": {
+    "expected": 18,
+    "present": 18,
+    "missing": []
+  },
+  "diagnostic_scene_bank": {
+    "rows": 55,
+    "source_routes_verified": 55,
+    "source_routes_total": 55,
+    "unique_cmr_ids": 55,
+    "phase5_locked_rows": 32,
+    "locator_gap_rows": 23,
+    "phase5_locator_ids_referenced": 36,
+    "all_phase5_locator_ids_exist": true,
+    "alter1_supplemental_rows": 12
+  },
+  "negative_constraints": {
+    "mischaracterization_traps": 24,
+    "would_sound_wrong_constraints": 30
+  },
+  "voice_controls": {
+    "semantic_admission_not_style_replacement": true,
+    "politeness_not_distance": true,
+    "plain_peer_speech_not_lesser_intimacy": true,
+    "self_expendability_not_simple_death_wish": true,
+    "ordinary_pre_lena_controls_present": true
+  },
+  "shared_infrastructure": {
+    "diagnostic_index_rows_total": 103,
+    "diagnostic_index_shin_rows": 55,
+    "matrix_rows_total": 45,
+    "matrix_shin_new_rows": 14
+  },
+  "placeholders": [],
+  "duplicate_substantive_paragraphs_600plus": 0,
+  "overall": "PASS"
+}

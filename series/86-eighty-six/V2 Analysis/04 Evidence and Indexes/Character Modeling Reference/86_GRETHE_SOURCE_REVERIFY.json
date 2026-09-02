@@ -1,0 +1,9 @@
+{
+  "artifact": "86_GRETHE_SOURCE_REVERIFY.json",
+  "character": "Grethe Wenzel",
+  "status": "PASS",
+  "source_boundary": "Japanese V02-V14 + Alter.1",
+  "diagnostic_rows_checked": 165,
+  "exact_route_anchor_matches": 165,
+  "errors": []
+}
