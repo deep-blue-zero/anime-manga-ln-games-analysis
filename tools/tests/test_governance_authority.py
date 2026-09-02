@@ -749,19 +749,36 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "UNLICENSED_PENDING_OWNER_DECISION",
         )
 
-    def test_local_and_github_connector_owner_identities_are_exact(self) -> None:
+    def test_local_and_github_connector_author_and_committer_identities_are_exact(self) -> None:
+        owner_identities = [
+            {
+                "name": "deep-blue-zero",
+                "email": "50891441+peipw@users.noreply.github.com",
+            },
+            {
+                "name": "deep-blue-zero",
+                "email": "50891441+deep-blue-zero@users.noreply.github.com",
+            },
+        ]
+        github_server_committer = {
+            "name": "GitHub",
+            "email": "noreply@github.com",
+        }
+        self.assertEqual(
+            self.tracked_file_policy["allowed_author_identities"],
+            owner_identities,
+        )
+        self.assertEqual(
+            self.tracked_file_policy["allowed_committer_identities"],
+            [*owner_identities, github_server_committer],
+        )
         self.assertEqual(
             self.tracked_file_policy["allowed_commit_identities"],
-            [
-                {
-                    "name": "deep-blue-zero",
-                    "email": "50891441+peipw@users.noreply.github.com",
-                },
-                {
-                    "name": "deep-blue-zero",
-                    "email": "50891441+deep-blue-zero@users.noreply.github.com",
-                },
-            ],
+            [*owner_identities, github_server_committer],
+        )
+        self.assertNotIn(
+            github_server_committer,
+            self.tracked_file_policy["allowed_author_identities"],
         )
 
     def test_series_registry_is_unique_and_routes_fail_closed(self) -> None:
