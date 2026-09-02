@@ -1,7 +1,7 @@
 ---
 document_role: chatgpt_authority_bootstrap
 document_status: ACTIVE_STABILIZING
-document_revision: 2.1-authority-epoch-1
+document_revision: 2.2-authority-epoch-1
 schema_version: 1
 repository_provider: GitHub
 provider_confirmed: true
@@ -175,6 +175,8 @@ For any analytical task after activation:
 6. read only the analysis, evidence, or Drive-native references needed for the task;
 7. consult `crosswalk/drive-to-git.jsonl` when source identity or historical provenance matters.
 
+A `MISSING` series route is legitimate only when its `series_id` appears in the reviewed `allowed_missing_canonical_entrypoints` set in `governance/repository-controls/tracked-file-policy.json`. Any other `MISSING` route, or any stale allowlist entry with no corresponding missing route, is a repository-validation failure. The current epoch-1 reviewed exception is `shuukura` only.
+
 Conversation memory, search-result ranking, file recency, and filename similarity do not outrank the live authority records.
 
 ## 7. Change-routing matrix
@@ -215,31 +217,43 @@ Before either execution profile:
 
 1. fetch the exact target-branch head and confirm it is the validated base commit;
 2. fetch the current blob SHA for every existing path to be changed;
-3. confirm that the provider will record an exact owner author/committer tuple from `governance/repository-controls/tracked-file-policy.json`; never approve a wildcard identity pattern;
-4. create an approved feature branch from that exact base commit;
+3. confirm that the provider will record an author from `allowed_author_identities` and a committer from `allowed_committer_identities` in `governance/repository-controls/tracked-file-policy.json`; the GitHub server identity may be an allowed committer but is never an allowed author, and wildcard identity patterns are prohibited;
+4. create an approved `chatgpt/**` feature branch from that exact base commit;
 5. write only the authorized paths, using current blob SHAs for replacement safety and an atomic multi-file tree/commit when the connector supports it;
 6. fetch the resulting commit and compare the feature branch against the validated base;
-7. validate formatting, links, structured data, authority records, and commit identity; inspect the exact changed-file set and diff, and correct only on the feature branch;
+7. validate formatting, links, structured data, authority records, commit identity, and the exact changed-file set; inspect the complete diff and correct only on the feature branch;
 8. open a pull request, verify configured checks against the PR head, and confirm the compared diff is unchanged;
-9. merge only when the current request authorizes it and all verification passes.
+9. merge only when the current request authorizes it and all pre-merge verification passes;
+10. after merge, fetch the resulting `main` head, verify that the merged tree/diff corresponds to the reviewed pull request, and require the `main` repository audit to complete successfully before declaring the Git transaction closed.
 
-This profile has no working tree or staging area. Exact base refs, blob identities, authorized path lists, commit comparisons, and PR diffs provide the equivalent safety controls.
+This profile has no working tree or staging area. Exact base refs, blob identities, authorized path lists, commit comparisons, PR diffs, and post-merge `main` verification provide the equivalent safety controls.
 
 ### 8.2 Local clone mode (Codex)
 
 1. fetch the target branch and inspect `git status`, the current branch, upstream tracking, and the exact base commit; stop on unrelated or ambiguous worktree changes;
-2. create or use an approved feature branch from the validated base commit;
+2. create or use an approved `codex/**` feature branch from the validated base commit;
 3. edit only the authorized paths;
 4. run the applicable repository validation and tests;
 5. stage explicit paths with `git add -- <path>...`; never use `git add .`, a directory-wide add, or wildcard staging;
 6. inspect `git diff --cached --check`, the staged changed-file list, and the complete staged diff;
 7. commit and push only the reviewed feature branch;
 8. open a pull request, verify configured checks against the PR head, and confirm the remote PR diff matches the reviewed staged change;
-9. merge only when the current request authorizes it and all verification passes.
+9. merge only when the current request authorizes it and all pre-merge verification passes;
+10. after merge, fetch the resulting `main` head, verify that the merged tree/diff corresponds to the reviewed pull request, and require the `main` repository audit to complete successfully before declaring the Git transaction closed.
+
+A merge that materializes successfully but fails the post-merge `main` audit is not a completed transaction. Preserve the merged content, classify the repository state as stabilization remediation for that change, and repair forward through a new reviewed feature branch; do not rewrite published history merely to erase the failed integration commit.
 
 Do not write directly to `main`, force-push, rewrite history, delete protected branches/tags, or broaden repository access without separate authorization.
 
 If authenticated GitHub access is unavailable, request connection/authorization or return a proposed patch. Do not silently write the analytical change to Drive.
+
+### 8.3 Frozen-release administrative maintenance
+
+A project or release described as `immutable`, `frozen`, `final`, or `archival` is analytically immutable by default, not necessarily byte-immutable. A reviewed governance change may maintain narrowly administrative metadata needed to keep the repository routable and auditable, including authority state, supersession fields, current-authority flags, registry pointers, or equivalent corpus-routing metadata, provided that the change does not alter analytical prose, claims, evidence interpretation, source boundary, or substantive release content.
+
+When such administrative maintenance changes bytes inside a frozen analytical artifact, preserve the release's original analytical meaning and record the administrative nature of the change in Git history. If an artifact or release is explicitly declared byte-immutable, hash-locked, or archival-locked, do not edit it even for metadata maintenance; create or update a separate current routing wrapper, manifest, registry record, or successor artifact instead.
+
+`NONE_FROZEN` remains a hard no-edit authority role unless a separately authorized successor is created.
 
 ## 9. Native Google Docs and Sheets
 
@@ -367,7 +381,7 @@ Cadence:
 - Days 1–14: daily lightweight, read-only Drive/Git delta checks;
 - Day 7: full ID-level reconciliation and repository integrity audit;
 - Day 14: final full reconciliation and acceptance-readiness audit;
-- after every Git merge: committed-blob, index, manifest, and CI verification;
+- after every Git merge: committed-blob, index, manifest, and CI verification; the originating transaction remains open until the resulting `main` audit passes;
 - after every Drive-native change: unchanged-revision export-and-merge verification;
 - on any anomaly: immediate triggered full audit.
 
