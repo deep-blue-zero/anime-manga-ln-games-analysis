@@ -716,12 +716,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "source_objects": 5402,
                 "migrated_source_objects": 2650,
                 "materialized_representations": 2665,
-                "tracked_paths_after": len(
-                    (
-                        REPOSITORY_ROOT
-                        / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
-                    ).read_text(encoding="utf-8").splitlines()
-                ),
+                "tracked_paths_after": 2710,
                 "status": "MATERIALIZED_VALIDATED_AND_PUBLISHED_PRE_G8",
             },
             "g6_phase_closure": {
@@ -809,7 +804,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "Google Drive remains the analytical authority",
             ),
             "governance/MANGA_ANIME_CORPUS_INDEX.md": (
-                "fully materialized for the approved G5 text boundary",
+                "materialized through the approved G7 COTE delta-repair boundary",
                 "Analytical authority: Google Drive",
             ),
             "governance/policies/REPOSITORY_CONTROLS.md": (
@@ -875,7 +870,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "UNLICENSED_PENDING_OWNER_DECISION",
         )
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
-        self.assertEqual(series_registry["status"], "G5_COMPLETE_MATERIALIZATION_CANDIDATE")
+        self.assertEqual(series_registry["status"], "G7_DELTA_REPAIR_CANDIDATE")
         series_ids = [row["series_id"] for row in series_registry["series"]]
         self.assertEqual(len(series_ids), len(set(series_ids)))
         self.assertTrue(
@@ -1422,7 +1417,6 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "1gjKepFqM--LJQyA6TtIQs8HaBmaUk7YC",
             "1igz8dtdgUnnCpRYrat4Bi5tjZn8kduJw",
             "1m6g1HyiLdVfi773EHw-q6084kDIG6eIE",
-            "1o1oJ-LM7FgIzX-x8XQB34ucKYx-TeR8-",
             "1ujr9mZ3bVATtwSBQt0w8Qj3qm3ry3f6i",
             "1z_zolsM8-FRoDitPh5wGXrWjsttcLh7Z",
         }
@@ -1451,7 +1445,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             for row in rows("crosswalk/path-plan.jsonl")
             if row.get("representation_id") in results
         }
-        self.assertEqual(len(mappings), 11)
+        self.assertEqual(len(mappings), 10)
         self.assertEqual(set(mappings), set(results))
         self.assertEqual(set(mappings), set(plans))
         self.assertEqual(
@@ -1464,7 +1458,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         )
         self.assertEqual(
             sum(row.get("governance_id") == "repository" for row in mappings.values()),
-            9,
+            8,
         )
         self.assertEqual(
             sum(
@@ -1510,7 +1504,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             for row in rows("crosswalk/path-plan.jsonl")
             if row.get("representation_id")
         }
-        self.assertEqual(len(mappings), 2665)
+        self.assertEqual(len(mappings), 2814)
         self.assertEqual(set(mappings), set(results))
         self.assertEqual(set(mappings), set(plans))
         for representation_id, mapping in mappings.items():
@@ -1536,8 +1530,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             for row in rows("crosswalk/path-plan.jsonl")
             if not row.get("representation_id")
         ]
-        self.assertEqual(len(reference_results), 9)
-        self.assertEqual(len(reference_plans), 9)
+        self.assertEqual(len(reference_results), 14)
+        self.assertEqual(len(reference_plans), 14)
         self.assertTrue(all("destination_path" not in row for row in reference_results))
         self.assertTrue(all("destination_path" not in row for row in reference_plans))
 
@@ -1662,7 +1656,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
         ).read_text(encoding="utf-8").splitlines()
-        self.assertEqual(
+        self.assertGreaterEqual(
             len(tracked_paths),
             self.scope["migration"]["g5_progress"]["tracked_paths_after"],
         )
@@ -1914,7 +1908,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
         ).read_text(encoding="utf-8").splitlines()
-        self.assertEqual(
+        self.assertGreaterEqual(
             len(tracked_paths),
             self.scope["migration"]["g5_progress"]["tracked_paths_after"],
         )

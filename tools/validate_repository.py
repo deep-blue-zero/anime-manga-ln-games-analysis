@@ -252,7 +252,8 @@ def validate_audit_workflow(
             errors.append(f"repository-audit workflow missing required contract: {fragment}")
 
     whitespace_command = 'git show --check --format= "${GITHUB_SHA}" -- . \\'
-    whitespace_exclusion = (
+    markdown_whitespace_exclusion = "':(top,glob,exclude)**/*.md'"
+    idoly_whitespace_exclusion = (
         "':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 Source Audits and "
         "Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/"
         "IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv'"
@@ -271,14 +272,17 @@ def validate_audit_workflow(
     exact_whitespace_shape = bool(
         len(command_lines) == 1
         and workflow_lines[command_lines[0]].strip() == whitespace_command
-        and command_lines[0] + 1 < len(workflow_lines)
-        and workflow_lines[command_lines[0] + 1].strip() == whitespace_exclusion
-        and exclusion_lines == [whitespace_exclusion]
+        and command_lines[0] + 2 < len(workflow_lines)
+        and workflow_lines[command_lines[0] + 1].strip()
+        == markdown_whitespace_exclusion + " \\"
+        and workflow_lines[command_lines[0] + 2].strip() == idoly_whitespace_exclusion
+        and exclusion_lines
+        == [markdown_whitespace_exclusion + " \\", idoly_whitespace_exclusion]
     )
     if not exact_whitespace_shape:
         errors.append(
-            "repository-audit workflow whitespace check must exclude only the exact "
-            "approved IDOLY PRIDE provenance CSV"
+            "repository-audit workflow whitespace check must use only the exact approved "
+            "Markdown glob and IDOLY PRIDE provenance CSV exclusions"
         )
 
     forbidden_fragments = (

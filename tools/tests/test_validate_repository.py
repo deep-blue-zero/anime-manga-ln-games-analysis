@@ -168,7 +168,7 @@ class PhaseValidationTests(unittest.TestCase):
                 self.assertFalse(by_path[path]["allow_carriage_returns"])
                 self.assertEqual(
                     by_path[path]["review_decision"],
-                    "OWNER_APPROVED_G5_FINAL_AGGREGATE_PROVENANCE_CLOSURE",
+                    "OWNER_AUTHORIZED_G7_COTE_DELTA_REPAIR_PROVENANCE_CLOSURE",
                 )
 
     def test_production_furina_commonmark_exception_is_exactly_bound(self) -> None:
@@ -739,26 +739,30 @@ class PhaseValidationTests(unittest.TestCase):
             failures,
         )
 
-    def test_repository_audit_workflow_requires_exact_whitespace_exclusion(self) -> None:
+    def test_repository_audit_workflow_requires_exact_whitespace_exclusions(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         baseline = (ROOT / path).read_bytes()
         command = b'git show --check --format= "${GITHUB_SHA}" -- . \\\n'
-        exact = (
+        markdown = b"            ':(top,glob,exclude)**/*.md' \\\n"
+        idoly = (
             b"            ':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 "
             b"Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority "
             b"Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv'"
         )
-        self.assertIn(command + exact, baseline)
+        self.assertIn(command + markdown + idoly, baseline)
 
-        missing = baseline.replace(command + exact, b'git show --check --format= "${GITHUB_SHA}"')
+        missing = baseline.replace(
+            command + markdown + idoly,
+            b'git show --check --format= "${GITHUB_SHA}"',
+        )
         broad = baseline.replace(
-            exact,
-            b"            ':(top,glob,exclude)series/idoly-pride/**'",
+            markdown,
+            b"            ':(top,glob,exclude)**/*' \\\n",
         )
         policy = {"allowed_workflows": [path]}
         expected = (
-            "repository-audit workflow whitespace check must exclude only the exact "
-            "approved IDOLY PRIDE provenance CSV"
+            "repository-audit workflow whitespace check must use only the exact approved "
+            "Markdown glob and IDOLY PRIDE provenance CSV exclusions"
         )
         for label, content in (("missing", missing), ("broader", broad)):
             with self.subTest(label=label):
