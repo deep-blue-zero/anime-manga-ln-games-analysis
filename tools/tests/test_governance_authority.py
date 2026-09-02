@@ -636,7 +636,16 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             self.assertEqual(activation[key], value)
         self.assertEqual(self.state["migration"]["completed_gate"], "G8")
         self.assertEqual(self.state["migration"]["current_gate"], "G9_STABILIZATION")
-        self.assertEqual(self.state["stabilization"]["state"], "ACTIVE_DAY_0")
+        self.assertEqual(
+            self.state["migration"]["current_subphase"],
+            "DAILY_STABILIZATION_MONITORING",
+        )
+        self.assertEqual(self.state["stabilization"]["state"], "ACTIVE_DAILY")
+        self.assertEqual(self.state["stabilization"]["day_0_audit"], "PASS")
+        self.assertEqual(
+            self.state["stabilization"]["day_0_audit_commit"],
+            "f704fc18ab7d38aef0b7addb21af675d5a898827",
+        )
 
         cutover = load_json(REPOSITORY_ROOT / "governance/cutovers/AUTHORITY_EPOCH_1.json")
         self.assertEqual(cutover["authority_epoch"], 1)

@@ -12,7 +12,7 @@ migration:
   framework_version: 1.4.0-owner-approved
   completed_gate: G8
   current_gate: G9_STABILIZATION
-  current_subphase: DAY_0_AUDIT_AND_ROUTING_ACTIVATION
+  current_subphase: DAILY_STABILIZATION_MONITORING
   g7_phase_closure:
     status: PASS_FULL_RECONCILIATION_REMOTE_CI_FRESH_CLONE_AND_MIRROR_VERIFIED
     published_commit: 01561d0c9398917c1329501b798733041ab17e98
@@ -67,8 +67,12 @@ analytical_authority_activation:
   drive_sidecar_sha256: b46ab4ee99e9b5eb529168995b2530bccd30f529bc61f7e83cdd03599a77d2ea
   effective_at: 2026-09-02T14:20:11Z
 stabilization:
-  state: ACTIVE_DAY_0
+  state: ACTIVE_DAILY
   start_utc: 2026-09-02T14:20:11Z
+  day_0_audit: PASS
+  day_0_audit_commit: f704fc18ab7d38aef0b7addb21af675d5a898827
+  day_0_workflow_run_id: "33646314251"
+  day_0_workflow_conclusion: success
   planned_day_7_date: 2026-09-09
   planned_day_14_date: 2026-09-16
   daily_delta_checks: REQUIRED
