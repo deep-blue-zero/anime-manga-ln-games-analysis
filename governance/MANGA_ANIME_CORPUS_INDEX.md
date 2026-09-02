@@ -1,10 +1,10 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public, owner-maintained, and active as the epoch-1 primary analytical authority. It contains 2,939 Drive-derived representations covering 2,924 unique source artifacts across 37 series roots and two study roots.
+> Repository state: public, owner-maintained, and active as the epoch-1 primary analytical authority. The sealed cutover scope contains 2,939 Drive-derived representations covering 2,924 unique source artifacts across 37 migrated series roots and two study roots. Post-cutover Git-native analytical roots are listed separately and do not alter those historical migration counts.
 >
-> Analytical authority: Git for the exact hashed scope in `AUTHORITY_SCOPE.json`, effective `2026-09-02T14:20:11Z`. The repository is in its approved 14-day stabilization period. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
+> Analytical authority: Git for the exact hashed migration scope in `AUTHORITY_SCOPE.json` and for owner-approved post-cutover Git-native analysis routed through the live registry, effective under authority epoch 1. The repository is in its approved 14-day stabilization period. Declared Drive-native authoring surfaces and reference-only artifacts retain their narrower roles.
 
-This is the Git-side navigation index derived from the historical Drive hierarchy. Every migrated representation is bound to its source identity, revision, byte hash, transformation, and final repository path in `../crosswalk/`.
+This is the Git-side navigation index derived from the historical Drive hierarchy and extended by governed post-cutover analytical roots. Every migrated representation is bound to its source identity, revision, byte hash, transformation, and final repository path in `../crosswalk/`. Post-cutover roots must identify their own source/evidence authority and provenance in their canonical entrypoint.
 
 ## Series
 
@@ -43,10 +43,11 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)](../series/the-idolmaster-cinderella-girls-mobile-games/) — `series/the-idolmaster-cinderella-girls-mobile-games/`
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/) — `series/the-idolmaster-cinderella-girls-u149/`
 - [To Be Hero X](../series/to-be-hero-x/) — `series/to-be-hero-x/`
+- [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remains in its governed Drive evidence plane.
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`
 
-See the machine-readable [`series/registry.json`](../series/registry.json) for canonical identifiers and materialization state.
+See the machine-readable [`series/registry.json`](../series/registry.json) for canonical identifiers, entrypoints, and materialization state.
 
 ## Studies
 
@@ -55,7 +56,7 @@ See the machine-readable [`series/registry.json`](../series/registry.json) for c
 
 ## Character discovery
 
-Use [`CHARACTER_ANALYSIS_INDEX.md`](../CHARACTER_ANALYSIS_INDEX.md) for reviewed Character Index v2 records. The discovery registry is curated and does not infer a record merely from a character name appearing in migrated prose.
+Use [`CHARACTER_ANALYSIS_INDEX.md`](../CHARACTER_ANALYSIS_INDEX.md) for reviewed Character Index v2 records. The discovery registry is curated and does not infer a record merely from a character name appearing in migrated prose. Series-local character indexes may route evidence-ready or provisional subjects before global enrollment.
 
 ## Reference-only and excluded artifacts
 

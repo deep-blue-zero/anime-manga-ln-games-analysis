@@ -1,0 +1,159 @@
+{
+  "schema_version": "wuwa.cartethyia-claim-ledger.v0.1",
+  "series": "WUWA",
+  "artifact_type": "character_claim_counterevidence_ledger",
+  "scope": "CARTETHYIA_SOURCE_3_6_0",
+  "generation": "V0.2",
+  "status": "active_provisional",
+  "release_state": "mutable_active",
+  "source_boundary": "Pinned Wuthering Waves 3.6.0 / Arikatsu resource 3.6.6 four-language semantic view at commit 353f2eaed119bc9f680eab92807d20ac75a79b40 with installed-client V0.5.1 voice evidence",
+  "supersedes": null,
+  "superseded_by": null,
+  "do_not_use_as_current_authority": false,
+  "source_lock": "353f2eaed119bc9f680eab92807d20ac75a79b40",
+  "claims": [
+    {
+      "claim_id": "CART-CLAIM-001",
+      "claim": "Cartethyia's central value is self-authored moral continuity: she would rather learn that her past self was culpable than preserve an innocent identity through ignorance.",
+      "epistemic_status": "repeated_pattern",
+      "state_scope": ["S2", "S3", "S5"],
+      "situation_scope": "identity uncertainty and morally dangerous truth",
+      "supporting_evidence": [
+        {"text_key": "Main_Linaxita_2_4_31_5", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/5712/Actions!/1/Params/TalkItems/4"},
+        {"text_key": "Main_Linaxita_2_4_1003_1", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/7280/Actions!/1/Params/TalkItems/0"},
+        {"text_key": "Main_Linaxita_2_4_140_5", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/7649/Actions!/4/Params/TalkItems/4"}
+      ],
+      "counterevidence": [
+        "She sometimes withholds destabilizing truth from others, especially Phoebe, and participates in the concealed Galbrena plan.",
+        "Her truth ethic is strongest for responsibility about herself; it is not a blanket commitment to immediate disclosure."
+      ],
+      "alternative_reading": "The behavior may be driven as much by fear of nonexistence/amnesia as by an abstract truth principle.",
+      "extrapolation_limit": "Do not predict blunt disclosure when another person's safety or faith is at stake."
+    },
+    {
+      "claim_id": "CART-CLAIM-002",
+      "claim": "Her protective ethic is particularist and anti-futility: saving the identifiable person immediately before her can make an action morally meaningful even when it cannot solve the whole crisis.",
+      "epistemic_status": "repeated_pattern",
+      "state_scope": ["S0", "S1", "S3", "S4", "S5"],
+      "situation_scope": "rescue, duty, and apparent futility",
+      "supporting_evidence": [
+        {"text_key": "Main_Linaxita_2_4_134_3", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/6829/Actions!/5/Params/TalkItems/2"},
+        {"text_key": "Main_Linaxita_2_4_134_4", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/6829/Actions!/5/Params/TalkItems/3"},
+        {"text_key": "FavorStory_140901_Content", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorstory.json#/155"}
+      ],
+      "counterevidence": [
+        "She also makes civilization-scale plans and can instrumentalize herself for collective survival.",
+        "Particular rescue does not prevent strategic thinking; it explains the moral test she applies to strategy."
+      ],
+      "alternative_reading": "The formulation may partly be a rebuttal to Fleurdelys/Leviathan within a unique climax rather than a universal rule.",
+      "extrapolation_limit": "Strongest when an identifiable person is endangered; do not infer identical choices in abstract resource-allocation dilemmas."
+    },
+    {
+      "claim_id": "CART-CLAIM-003",
+      "claim": "Cartethyia's freedom means chosen obligation, not absence of obligation.",
+      "epistemic_status": "repeated_pattern",
+      "state_scope": ["S3", "S4", "S5"],
+      "situation_scope": "post-divinity identity and public responsibility",
+      "supporting_evidence": [
+        {"text_key": "FavorRoleInfo_1409_Info", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/zh-Hans/multi_text/MultiText.json#/284335"},
+        {"text_key": "Main_Rinascita_2_12_7401_5", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/10451/Actions!/7/Params/TalkItems/3"},
+        {"text_key": "Main_Rinascita_2_12_743_17", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/11779/Actions!/2/Params/TalkItems/16"}
+      ],
+      "counterevidence": [
+        "She declines the Primus role and explicitly dislikes civic duties.",
+        "Her archive profile calls her free and unfettered."
+      ],
+      "alternative_reading": "Freedom may be primarily mobility and identity choice, while responsibility remains an unavoidable bond to Rinascita.",
+      "extrapolation_limit": "Do not portray her as seeking office, bureaucracy, or authority for its own sake."
+    },
+    {
+      "claim_id": "CART-CLAIM-004",
+      "claim": "Self-sacrifice is both a virtue and a recurrent failure mode: she protects others by making herself an instrument and needs trusted people willing to refuse her requested annihilation.",
+      "epistemic_status": "strong_inference",
+      "state_scope": ["S1", "S3", "S5"],
+      "situation_scope": "existential threats and perceived personal dangerousness",
+      "supporting_evidence": [
+        {"text_key": "Main_Linaxita_2_4_126_4", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/6810/Actions!/3/Params/TalkItems/3"},
+        {"text_key": "Main_Linaxita_2_4_126_8", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/6810/Actions!/3/Params/TalkItems/5"},
+        {"text_key": "Main_Rinascita_2_12_37_33", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/9485/Actions!/2/Params/TalkItems/27"}
+      ],
+      "counterevidence": [
+        "The later Leviathan plan is strategic and reversible rather than a simple wish to die.",
+        "She openly wants ordinary life, companionship, performance, and a future after integration."
+      ],
+      "alternative_reading": "Later self-endangerment may demonstrate mature agency rather than repetition of the earlier annihilation wish.",
+      "extrapolation_limit": "Distinguish despair-driven self-erasure from calculated risk with a recovery path."
+    },
+    {
+      "claim_id": "CART-CLAIM-005",
+      "claim": "Her public solemnity is a role-conditioned register; private Cartethyia is warmer, more playful, more embarrassed, and more challenge-responsive.",
+      "epistemic_status": "source_explicit",
+      "state_scope": ["S3", "S4", "S5"],
+      "situation_scope": "public versus trusted/private interaction",
+      "supporting_evidence": [
+        {"text_key": "FavorWord_140907_Content", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorword.json#/2242"},
+        {"text_key": "FavorWord_140901_Content", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorword.json#/2236"},
+        {"text_key": "Main_Linaxita_2_4_141_28", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/7358/Actions!/5/Params/TalkItems/18"}
+      ],
+      "counterevidence": [
+        "Solemnity is not wholly fake; grief, faith, and danger genuinely call it forth.",
+        "Private speech can become highly formal when she turns a decision into a vow."
+      ],
+      "alternative_reading": "The contrast is situational register-shifting rather than a true-mask/false-mask binary.",
+      "extrapolation_limit": "Do not write her as uniformly bubbly or treat every formal line as inauthentic."
+    },
+    {
+      "claim_id": "CART-CLAIM-006",
+      "claim": "Rover changes her model of care and attachment from obedience to reciprocal defiance: a trusted companion may need to oppose a person's stated self-destructive wish when it arises from despair.",
+      "epistemic_status": "directly_observed",
+      "state_scope": ["S3", "S5"],
+      "relationship_scope": "Rover",
+      "supporting_evidence": [
+        {"text_key": "Main_Linaxita_2_4_127_5", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/5771/Actions!/1/Params/TalkItems/4"},
+        {"text_key": "Main_Linaxita_2_4_141_20", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/7358/Actions!/5/Params/TalkItems/14"},
+        {"text_key": "FavorWord_140903_Content", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorword.json#/2238"}
+      ],
+      "counterevidence": [
+        "She later withholds the Galbrena plan from Rover, limiting reciprocal transparency.",
+        "Some archive intimacy is affinity-gated and should not be universalized into mandatory romance."
+      ],
+      "alternative_reading": "The bond can be read as knight/Swordbearer companionship without requiring a romantic interpretation.",
+      "extrapolation_limit": "Predictions should preserve state and affinity scope and abstain on canonical relationship labels."
+    },
+    {
+      "claim_id": "CART-CLAIM-007",
+      "claim": "Her post-Leviathan religious position is humanistic reinterpretation rather than cynical rejection of faith.",
+      "epistemic_status": "directly_observed",
+      "state_scope": ["S5"],
+      "situation_scope": "faith, institution, and civilization after Divinity",
+      "supporting_evidence": [
+        {"text_key": "Main_Rinascita_2_12_7401_5", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/10451/Actions!/7/Params/TalkItems/3"},
+        {"text_key": "Main_Rinascita_2_12_7401_9", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/10451/Actions!/7/Params/TalkItems/7"}
+      ],
+      "counterevidence": [
+        "She intends to strike down harsh Order decrees and rejects the title chosen by Divinity.",
+        "Her personal relationship to ritual practice after the institutional reform remains under-shown."
+      ],
+      "alternative_reading": "Her language may be pastoral reassurance tailored to Phoebe as much as settled theology.",
+      "extrapolation_limit": "Do not infer either atheism or uncritical institutional loyalty."
+    },
+    {
+      "claim_id": "CART-CLAIM-008",
+      "claim": "Theatricality is ambivalent: public drama once overwrote her history, but she reclaims performance as play, memory, and authorship.",
+      "epistemic_status": "strong_inference",
+      "state_scope": ["S0", "S1", "S3", "S5"],
+      "situation_scope": "Carnevale, public myth, and self-narration",
+      "supporting_evidence": [
+        {"text_key": "InfoDisplay_311000011_Text", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/zh-Hans/multi_text/MultiText.json#/89638"},
+        {"text_key": "Main_Linaxita_2_4_126_17", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/6810/Actions!/3/Params/TalkItems/14"},
+        {"text_key": "Main_Rinascita_2_12_75_14", "locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/10453/Actions!/6/Params/TalkItems/12"}
+      ],
+      "counterevidence": [
+        "Not every theatrical line is emancipatory; the self-annihilation request uses stage language at a moment of despair.",
+        "The public play remains an incomplete and partly false historical account."
+      ],
+      "alternative_reading": "The motif can be read as genre stylization rather than conscious reclamation in every occurrence.",
+      "extrapolation_limit": "Use performance metaphors sparingly and tie them to explicit context."
+    }
+  ]
+}

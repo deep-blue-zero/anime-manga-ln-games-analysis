@@ -511,6 +511,20 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "wuthering-waves",
+      "stable_slug": "wuthering-waves",
+      "canonical_title": "Wuthering Waves",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "series/wuthering-waves/",
+      "canonical_entrypoint": "series/wuthering-waves/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_WUWA_BOOTSTRAP_V0_1",
+      "authority_status": "GIT_PRIMARY"
+    },
+    {
       "series_id": "youjo-senki",
       "stable_slug": "youjo-senki",
       "canonical_title": "YOUJO SENKI",

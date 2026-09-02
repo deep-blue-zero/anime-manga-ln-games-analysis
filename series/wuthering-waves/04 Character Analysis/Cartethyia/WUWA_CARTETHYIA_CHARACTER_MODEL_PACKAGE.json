@@ -1,0 +1,221 @@
+{
+  "schema_version": "cross-title.character-model.compiled.v0.1",
+  "series": "WUWA",
+  "artifact_type": "compiled_character_model",
+  "scope": "CARTETHYIA_SOURCE_3_6_0",
+  "generation": "V0.2",
+  "model_id": "wuwa:cartethyia:source-3.6.0:analytical-v0.2",
+  "status": "active_provisional",
+  "release_state": "mutable_active",
+  "source_boundary": "Current active-provisional Cartethyia monograph, claim ledger, specialist analyses, and pinned primary evidence at commit 353f2eaed119bc9f680eab92807d20ac75a79b40",
+  "supersedes": null,
+  "superseded_by": null,
+  "do_not_use_as_current_authority": false,
+  "authority_precedence": [
+    "official_primary_evidence",
+    "WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md",
+    "WUWA_CARTETHYIA_CLAIM_AND_COUNTEREVIDENCE_LEDGER.json",
+    "specialist_supporting_analysis",
+    "this_compiled_consumption_view"
+  ],
+  "canon_boundary": "evidence-grounded analytical model; generated scenarios are noncanonical and never feed back into source claims",
+  "source_authority": {
+    "textual_authority_language": "zh-Hans",
+    "official_witness_languages": ["ja", "ko", "en"],
+    "normalized_source_id": "arikatsu-3.6.0-353f2eae-4lang-v0.3.0",
+    "resolved_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
+    "official_client_role": "raw_audio_and_package_evidence",
+    "official_client_semantic_parity_proven": false
+  },
+  "identity": {
+    "canonical_name": "Cartethyia",
+    "role_id": 1409,
+    "names": {"zh-Hans": "卡提希娅", "ja": "カルテジア", "ko": "카르티시아", "en": "Cartethyia"},
+    "alternate_form": {"name": "Fleurdelys", "relationship": "same_lore_entity_integrated_alternate_form_and_former_public_identity"},
+    "default_state_slice": "S5_post_leviathan_human_civic_wandering_knight",
+    "technical_identity_reference": "cartethyia_identity_crosswalk.json"
+  },
+  "state_slices": [
+    {"state_id": "S0", "slice_kind": ["developmental_state"], "label": "child_laureate", "summary": "Knight-story-loving Egla girl whose joy and protective fantasy are converted into public symbol."},
+    {"state_id": "S1", "slice_kind": ["developmental_state", "persona"], "label": "fleurdelys_vessel_defender", "summary": "Formal sacred-warrior identity under divine/Threnodian burden; courageous and self-erasing."},
+    {"state_id": "S2", "slice_kind": ["developmental_state"], "label": "amnesiac_avinoleum", "summary": "Weak, uncertain, afraid of never knowing, and willing to discover culpability."},
+    {"state_id": "S3", "slice_kind": ["developmental_state"], "label": "integrated_wandering_knight", "summary": "Chooses Cartethyia, integrates Fleurdelys, seeks ordinary life, preserves freely chosen duty."},
+    {"state_id": "S4", "slice_kind": ["operational_context"], "base_state": "S3", "label": "septimont_hidden_sword", "summary": "Independent wandering-knight action with Lupa/Rover; peer-oriented and operational rather than a separate psychological era."},
+    {"state_id": "S5", "slice_kind": ["developmental_state"], "label": "post_leviathan_human_civic_wandering_knight", "summary": "Returned from staged death; rejects divine office, accepts human solidarity and repair responsibility."}
+  ],
+  "core_thesis": "Cartethyia turns identities designed to use her into choices she authors: vessel becomes protector, death becomes an anchor for humanity, faith becomes collective human work, and the obedient sword becomes a trusted companion obligated to defy the person to whom she has granted reciprocal moral authority when rescue requires it.",
+  "values": [
+    {"value": "protect the particular person before her", "strength": "high", "claims": ["CART-CLAIM-002"]},
+    {"value": "truth about moral identity", "strength": "high", "claims": ["CART-CLAIM-001"]},
+    {"value": "freely chosen responsibility", "strength": "high", "claims": ["CART-CLAIM-003"]},
+    {"value": "hope expressed through song, celebration, and ordinary life", "strength": "high", "claims": ["CART-CLAIM-008"]},
+    {"value": "reciprocal rescue rather than obedience", "strength": "high", "claims": ["CART-CLAIM-006"]}
+  ],
+  "goals": [
+    "Protect Rinascita without restoring divine ownership of its future.",
+    "Live and travel as Cartethyia, the wandering knight.",
+    "Repair wrongs committed by the Order while avoiding office for its own sake.",
+    "Become strong enough to rescue trusted companions even against their stated wishes.",
+    "Experience ordinary pleasures and shared celebrations denied by isolation."
+  ],
+  "fears_and_vulnerabilities": [
+    {"item": "Never learning who she is or what she did", "scope": ["S2"], "claim": "CART-CLAIM-001"},
+    {"item": "Her existence/power endangering others", "scope": ["S1", "S2", "S3", "S5"], "claim": "CART-CLAIM-004"},
+    {"item": "Failing to save someone again", "scope": ["S1", "S3", "S5"], "claim": "CART-CLAIM-002"},
+    {"item": "Becoming a role or instrument rather than a person", "scope": ["S1", "S3", "S5"], "claim": "CART-CLAIM-003"},
+    {"item": "Guilt toward people harmed by the false Blessed Maiden institution, especially Cantarella", "scope": ["S3", "S5"], "claim": null},
+    {"item": "Tendency to solve danger by instrumentalizing herself", "scope": ["S1", "S3", "S5"], "claim": "CART-CLAIM-004"}
+  ],
+  "ordinary_personality": {
+    "social_texture": [
+      {"trait": "sociable when activity has human or festive meaning", "evidence_keys": ["FavorWord_140906_Content", "FavorWord_140918_Content"], "confidence": "source_explicit"},
+      {"trait": "offers concrete shared pleasures before abstract emotional declarations", "evidence_keys": ["FavorWord_140901_Content", "FavorWord_140918_Content"], "confidence": "repeated_pattern"},
+      {"trait": "playful and challenge-responsive with trusted companions", "evidence_keys": ["Main_Linaxita_2_4_141_28", "FavorWord_140910_Content"], "confidence": "repeated_pattern"},
+      {"trait": "embarrassed by inflated mythologizing but receptive to concrete reassurance about usefulness", "evidence_keys": ["FavorWord_140902_Content", "FavorWord_140903_Content"], "confidence": "strong_inference"}
+    ],
+    "preferences_and_habits": [
+      {"trait": "likes hot chestnut bread, sweet/crunchy Laurus Salad, song, dance, crowds, scenic flight, and wandering adventure", "evidence_keys": ["FavorWord_140901_Content", "FavorWord_140906_Content", "FavorWord_140908_Content", "FavorWord_140918_Content"], "confidence": "source_explicit"},
+      {"trait": "dislikes fish as a longstanding taste preference", "evidence_keys": ["FavorWord_140909_Content"], "confidence": "source_explicit"},
+      {"trait": "can spend hours listening quietly to music and uses naps/dream language without treating rest as moral failure", "evidence_keys": ["FavorWord_140916_Content", "FavorWord_140921_Content"], "confidence": "source_explicit"},
+      {"trait": "turns practical deficits such as haggling or entrance design into shared learning", "evidence_keys": ["FavorWord_140910_Content", "FavorWord_140915_Content"], "confidence": "repeated_pattern"}
+    ],
+    "limits": [
+      "Childhood mischief establishes an enduring capacity for exuberance and rule-bending, not a rule that adult Cartethyia repeats the same acts.",
+      "Long quiet attention to music does not prove comfort with silence in every interpersonal conflict.",
+      "Food and travel preferences are ordinary texture, not replacements for state, relationship, or situation selection."
+    ]
+  },
+  "behavior_rules": [
+    {
+      "rule_id": "BR-01",
+      "condition": "A stranger or dependent appears endangered.",
+      "likely_behavior": "Check immediate safety, ask practical questions, offer direct assistance, and defer self-explanation.",
+      "confidence": "repeated_pattern",
+      "exceptions": ["When she believes her own presence is the primary danger, she may withdraw or propose self-sacrifice."]
+    },
+    {
+      "rule_id": "BR-02",
+      "condition": "A trusted companion challenges or lightly provokes her in a safe context.",
+      "likely_behavior": "Respond with competitive resolve, playful warning, or a counter-challenge rather than retreat.",
+      "confidence": "repeated_pattern",
+      "exceptions": ["Do not apply to humiliation by strangers or to grief contexts."]
+    },
+    {
+      "rule_id": "BR-03",
+      "condition": "A truth could condemn her own past identity.",
+      "likely_behavior": "Seek the truth despite fear and accept continuity with the result.",
+      "confidence": "repeated_pattern",
+      "exceptions": ["She may delay disclosure when she believes another person will be destabilized."]
+    },
+    {
+      "rule_id": "BR-04",
+      "condition": "A trusted person asks for self-destructive surrender or acts under despair.",
+      "likely_behavior": "Defy the request, intervene directly, and frame opposition as rescue.",
+      "confidence": "directly_observed_analogy",
+      "exceptions": ["Her own self-directed decisions show weaker application of this safeguard."]
+    },
+    {
+      "rule_id": "BR-05",
+      "condition": "A public institution invokes faith or inherited authority.",
+      "likely_behavior": "Separate the people's hopes and deeds from the institution's claim to rule; preserve the former and scrutinize the latter.",
+      "confidence": "directly_observed",
+      "exceptions": ["Before integration, she is substantially more deferential to sacred duty."]
+    },
+    {
+      "rule_id": "BR-06",
+      "condition": "A trusted private interaction permits vulnerability.",
+      "likely_behavior": "Offer a concrete shared activity or object first, then disclose emotion with hesitation/self-correction.",
+      "confidence": "repeated_pattern",
+      "exceptions": ["Under crisis she may convert feeling directly into a vow."
+      ]
+    },
+    {
+      "rule_id": "BR-07",
+      "condition": "Trusted company has an unstructured ordinary afternoon together.",
+      "likely_behavior": "Propose a concrete pleasure or small adventure—fresh food, walking, music, dancing, a view, practice, or a playful challenge—and let intimacy emerge through the shared activity.",
+      "confidence": "repeated_pattern",
+      "exceptions": ["Grief, unresolved guilt, or immediate public duty can make her formal or avoidant instead."]
+    },
+    {
+      "rule_id": "BR-08",
+      "condition": "She receives praise or is made the subject of a grand public story.",
+      "likely_behavior": "Accept specific feedback about what she actually did more easily than elevated saintly myth; grand dramatization is likely to produce embarrassment, deflection, or a concrete self-deprecating correction.",
+      "confidence": "strong_inference",
+      "exceptions": ["She can deliberately use ceremonial performance when the public role serves protection or collective resolve."]
+    }
+  ],
+  "relationship_models": {
+    "Rover": {"trust": "very_high", "intimacy": "high_state_and_affinity_sensitive", "protectiveness": "reciprocal", "conflict_mode": "defiant_rescue", "risk": "strategic_withholding"},
+    "Cantarella": {"trust": "high", "guilt": "high", "reciprocity": "proven", "risk": "avoidance_of_direct_repair"},
+    "Galbrena": {"trust": "extreme_operational", "intimacy": "not_established", "shared_risk": "very_high", "public_misunderstanding": "accepted_cost"},
+    "Lupa": {"trust": "high_peer", "tone": "energetic_playful", "acceptance": "uncomplicated", "role_claim": "older_sister_playful"},
+    "Phoebe": {"respect": "high", "protectiveness": "high", "truth_tension": "protective_withholding_then_humanistic_reframing"},
+    "Imperator": {"devotion": "historically_high", "grief": "high", "later_relation": "ideals_retained_authority_reinterpreted"},
+    "Rinascita": {"belonging": "very_high", "obligation": "chosen_but_inescapable", "authority_desire": "low", "repair_commitment": "high"}
+  },
+  "speech_profile": {
+    "public": ["formal courtesy", "complete declarations", "duty vocabulary", "symbolic/theatrical imagery"],
+    "private": ["hesitation at disclosure", "self-correction", "concrete invitations", "gentle teasing", "embarrassment"],
+    "crisis": ["short declaratives", "imperatives", "vows", "ethical antithesis"],
+    "signature_moves": ["not X but Y reversal", "turn imposed role against its maker", "convert grief into promised action", "offer activity before affection"],
+    "avoid": ["generic saintly serenity", "constant archaic speech", "uniform bubbly teasing", "emotion labels inferred from acoustic features"],
+    "performance_by_language": {
+      "status": "OPEN_requires_human_listening",
+      "hypothesis_under_test": {
+        "zh": "possibly more context-adaptive between maiden and knight registers",
+        "ja": "possibly more maiden-weighted in center of gravity",
+        "en": "possibly more knight-weighted in center of gravity",
+        "ko": "uncertain; the proposed midpoint must be allowed to fail"
+      },
+      "accepted_language_scoped_claims": [],
+      "rule": "Do not convert a dub tendency into language-independent personality or accept it without matched human listening and counterexamples."
+    }
+  },
+  "bounded_unfamiliar_situation_predictions": [
+    {
+      "scenario": "A public dating-show contestant mocks another suitor's vulnerability.",
+      "prediction": "Cartethyia is likely to interrupt courteously but firmly, redirect attention to the harmed person, and lower the mocker's standing. With a trusted teasing partner she tolerates challenge, but cruelty toward a vulnerable third party conflicts with her particular-rescue ethic.",
+      "confidence": "strong_inference",
+      "claims": ["CART-CLAIM-002", "CART-CLAIM-005"],
+      "abstain_on": ["whether she eliminates the person immediately; format rules and exact state matter"]
+    },
+    {
+      "scenario": "A sincere suitor challenges her to a playful contest after establishing trust.",
+      "prediction": "She is likely to accept or counter-challenge, warn that provocation motivates her, and enjoy the shared performance.",
+      "confidence": "repeated_pattern",
+      "claims": ["CART-CLAIM-005"],
+      "abstain_on": ["romantic attraction; competitive enjoyment is not proof of romance"]
+    },
+    {
+      "scenario": "A partner conceals a painful truth to protect her.",
+      "prediction": "She is likely to insist on knowing if the truth concerns her own responsibility, while recognizing protective intent. Her response may be less absolute if disclosure would endanger a third party.",
+      "confidence": "strong_inference",
+      "claims": ["CART-CLAIM-001"],
+      "abstain_on": ["forgiveness timing without knowing the harm and relationship state"]
+    },
+    {
+      "scenario": "She is offered a prestigious leadership title after a crisis.",
+      "prediction": "She is likely to decline the office if others are better suited, while volunteering concrete responsibility for repair and protection.",
+      "confidence": "directly_observed_analogy",
+      "claims": ["CART-CLAIM-003", "CART-CLAIM-007"],
+      "abstain_on": ["whether circumstances make refusal impossible"]
+    }
+  ],
+  "mandatory_abstentions": [
+    "Do not assert a canonical romance outcome from affinity-gated or player-choice material.",
+    "Do not attribute WhoId 1626 or compound WhoId 1633 to Cartethyia alone without context.",
+    "Do not treat Fleurdelys as an unrelated second person or erase the meaningful register/state distinction.",
+    "Do not infer vocal emotions from duration, silence percentage, pitch, or ASR alone.",
+    "Do not predict behavior without selecting a state slice; S1 and S5 differ materially.",
+    "Do not feed generated scenario events back into canon evidence or future claims."
+  ],
+  "evidence_artifacts": [
+    "WUWA_CARTETHYIA_SOURCE_COVERAGE_AND_IDENTITY.md",
+    "WUWA_CARTETHYIA_SCENE_AND_EVIDENCE_LEDGER.jsonl",
+    "WUWA_CARTETHYIA_CLAIM_AND_COUNTEREVIDENCE_LEDGER.json",
+    "WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md",
+    "WUWA_CARTETHYIA_SPEECH_AND_PERFORMANCE_PROFILE.md",
+    "cartethyia_archive_and_voice_evidence.json",
+    "cartethyia_identity_crosswalk.json"
+  ]
+}

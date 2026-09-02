@@ -1,0 +1,336 @@
+{
+  "schema": "wuwa.git-bootstrap-path-manifest/v1",
+  "series": "WUWA",
+  "stable_slug": "wuthering-waves",
+  "tranche_id": "WUWA_GIT_BOOTSTRAP_V0_1_20260902",
+  "status": "candidate_direct_main",
+  "canonical_entrypoint": "CURRENT_STATE_AND_CORPUS_MAP.md",
+  "source_boundary": {
+    "game_version": "3.6.0",
+    "normalized_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
+    "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
+    "drive_evidence_root_id": "19ZmRcjKQR3g0lhU1A3sXujsyihhdKs-2",
+    "drive_base_release": "wuwa-drive-evidence-v0.1"
+  },
+  "manifest_self_reference": "This manifest intentionally excludes its own bytes and hash.",
+  "payload_file_count_excluding_manifest": 36,
+  "payload_bytes_excluding_manifest": 206821,
+  "files": [
+    {
+      "path": "00 Frameworks and Methods/WUWA_ANALYTICAL_METHOD.md",
+      "bytes": 7151,
+      "sha256": "57f6de5bbbe53012dafae44fa671b2fa6b72b4acc6e641b22b32249e8dc912e0",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "00 Frameworks and Methods/WUWA_CHARACTER_FOLDER_CONTRACT.md",
+      "bytes": 5918,
+      "sha256": "1b47cb95d1c8a90fc2b2a841cabe85b8fb142954bc1b3e57ddb91ba6e7b3cd46",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "00 Frameworks and Methods/WUWA_CHARACTER_RECONSTRUCTION_PROTOCOL.md",
+      "bytes": 5669,
+      "sha256": "1628bb27faae8903e04498384e0f1c47ff3f86f17073745e07e26f9f7c100230",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "00 Frameworks and Methods/WUWA_EVIDENCE_ROUTING_AND_AUTHORITY.md",
+      "bytes": 3618,
+      "sha256": "2daf042dda2610a6c58a4151a0cf4422cec76129fd7378a75a27eb104004189e",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "00 Frameworks and Methods/WUWA_LONGITUDINAL_STORY_ANALYSIS_ARCHITECTURE.md",
+      "bytes": 2948,
+      "sha256": "625b35138ab4b91a964e46a934d0031994c915d744cf5f373e2e86ef2c8319ef",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "00 Frameworks and Methods/WUWA_MACHINE_VOICE_ANALYSIS_PROTOCOL.md",
+      "bytes": 6017,
+      "sha256": "0559db231bb957620b90f1966fdff6a661aa39ea1e12e7093e0f015d59ec6929",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "00 Frameworks and Methods/WUWA_NARRATIVE_DEEP_READING_PROTOCOL.md",
+      "bytes": 2816,
+      "sha256": "000f5d8ae4607bfe1321128a91d79d95cd880ac211a7566b4b30c62c2dd313e7",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "01 Source Lock and Inventory/WUWA_DRIVE_EVIDENCE_RELEASE_POINTER.md",
+      "bytes": 2267,
+      "sha256": "50ffbd86c93e0601a416f9eeab372068ae030f399ba0f0931e8ea014a17d7a79",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "01 Source Lock and Inventory/WUWA_SOURCE_BOUNDARY.md",
+      "bytes": 2179,
+      "sha256": "688c1fac41fca74e6cc773632bff5bf4dac3451f7cd3ccbe9bb0af2fe2b809e9",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "01 Source Lock and Inventory/WUWA_SOURCE_COVERAGE_AUDIT.md",
+      "bytes": 3215,
+      "sha256": "bf858119c9ae14a2ab71abd95303612b653c8683d03dad8c2d7c6d4347d930cf",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "02 Sequential Readings/README.md",
+      "bytes": 1363,
+      "sha256": "1b66ffa1d72252564d9a1575f89e1648b3c855a3e413463ae404f8f2433030ff",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "03 Longitudinal Ledgers/WUWA_CHARACTER_STATE_CROSSWALK.md",
+      "bytes": 1918,
+      "sha256": "3b88ae3f24504b03f37d6d56771ec4f9891cef603db80925b74a3366968a57fc",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "03 Longitudinal Ledgers/WUWA_CHRONOLOGY_LEDGER.md",
+      "bytes": 1870,
+      "sha256": "8c544df4e814839f109a340cbb3f4c055b4be46ab75b6479247885a85240aea0",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "03 Longitudinal Ledgers/WUWA_OPEN_QUESTIONS_LEDGER.md",
+      "bytes": 3178,
+      "sha256": "155677bc7411a4aff00a85a0c21748331a2bcf6839154e2a20be701f5332a55e",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "03 Longitudinal Ledgers/WUWA_RELATIONSHIP_NETWORK_LEDGER.md",
+      "bytes": 2686,
+      "sha256": "9c3b51be71ea2e7fbe70bfb4d7f2c0df4c6d93e26ca2cc2a1167a1f1f9ca27eb",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "03 Longitudinal Ledgers/WUWA_WORLD_AND_FACTION_LEDGER.md",
+      "bytes": 1863,
+      "sha256": "6248ed141a695578ee6f167cf387ce3aa1e40b2ef78349ab7eda3ae3f27ccee2",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_MODEL_PACKAGE.json",
+      "bytes": 16072,
+      "sha256": "bbc0a7a7db883c90badd586252d9081293954c4403d61797b76105c2b0b7cd4d",
+      "media_type": "application/json"
+    },
+    {
+      "path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md",
+      "bytes": 36474,
+      "sha256": "87dfe728bcf7d15348f90064a7d40ea8c69d6081ecfb484f42229e278bebc7d2",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CLAIM_AND_COUNTEREVIDENCE_LEDGER.json",
+      "bytes": 11896,
+      "sha256": "148b94fec2f0688e22e282a1723b6e090f3607596c1bfc5d5a43d1e8ff5e58ba",
+      "media_type": "application/json"
+    },
+    {
+      "path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CLAIM_REVISION_LEDGER.md",
+      "bytes": 4708,
+      "sha256": "0d1373e15fea7a351a7b4605798f89f17e08028c8799e91173129d0bfbfb1e49",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CURRENT_STATE.md",
+      "bytes": 2994,
+      "sha256": "9ff0e174d1a7753de261ec6ee07d47e577250149b31b24954bce9903dc870fa6",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_MODEL_FIDELITY_CHECK.md",
+      "bytes": 8835,
+      "sha256": "95cf22e4775eb5afca5a5237b88daf1b0ba492ebc388467037b1135e65280a19",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "bytes": 9311,
+      "sha256": "cb82f1d85a7680c23c0210509a1ba41fcd8a5428dd31e88d97f6d43d498d13bf",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md",
+      "bytes": 13186,
+      "sha256": "188dcab7f326353eb1acdb730ac0d6c8c8ffca9202973d12c7b0be867f5bc75e",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md",
+      "bytes": 11854,
+      "sha256": "ed132726ae52d36b9d2304668e867be7c8fe93bc0bd72aa34c76bb0c2962ddc5",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/Chisa/WUWA_CHISA_CURRENT_STATE.md",
+      "bytes": 1655,
+      "sha256": "bfb61c6a36dc710bd557c601d464c1d00f659055a9ca64c4d1c9a64fb6e489e6",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/Lynae/WUWA_LYNAE_CURRENT_STATE.md",
+      "bytes": 2588,
+      "sha256": "54f03375f700cdf958e740a722921ff8fda1bae16efa2e45588f3bb4acc159ab",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/README.md",
+      "bytes": 849,
+      "sha256": "af13428c805b85f4a70a3bee35e70148a1b603d703c315d3b0e14db2fde44b58",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "07 Evidence and Indexes/WUWA_CHARACTER_INDEX.md",
+      "bytes": 1871,
+      "sha256": "c423bbd48f905d9e596704a37e95f91c0c56293775078dcabdb24194a6220357",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "07 Evidence and Indexes/WUWA_CLAIM_EVIDENCE_INDEX.md",
+      "bytes": 2957,
+      "sha256": "bc3a9b4e0100b21c16eaf94b9c696735237da16142b61cd9599bcd62778d18e1",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "07 Evidence and Indexes/WUWA_DRIVE_GIT_CROSSWALK.md",
+      "bytes": 2321,
+      "sha256": "9dfa53f085262cdecdcf86051b5032de149cf78869ce75713fcb36f7772ab137",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "08 Audits and Manifests/WUWA_ANALYTICAL_CORPUS_AUDIT.md",
+      "bytes": 3117,
+      "sha256": "6b3f93db9667b34f34bb6b629825f7aa2bd2377db1a3b4a4eb52464ed36583d8",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "08 Audits and Manifests/WUWA_AUTHORITY_AUDIT.md",
+      "bytes": 1742,
+      "sha256": "65ef1f38ae4f170e1a15c5aae59fa2ca6eff819378b6a77fd941186d1e821cac",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "08 Audits and Manifests/WUWA_CARTETHYIA_V0_2_HARDENING_COMPLETION_REPORT.md",
+      "bytes": 11109,
+      "sha256": "14895e49b0283c84d955ad6be8123ad3408b7f03e19b7dc85da5282ee8d4b969",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "08 Audits and Manifests/WUWA_MANIFEST.md",
+      "bytes": 1485,
+      "sha256": "88d1a74b36690c85a0fc5e7bab820aaea04eeab112fbd8a5907026b7c335d55b",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 7121,
+      "sha256": "4e0b3775b0745213ba92eb3e847ec239a2ed58b289f549da36ea0da21df9aa8b",
+      "media_type": "text/markdown"
+    }
+  ],
+  "imported_analytical_sources": [
+    {
+      "source_filename": "WUWA_CARTETHYIA_CHARACTER_MONOGRAPH(2).md",
+      "destination_path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md",
+      "source_sha256": "87dfe728bcf7d15348f90064a7d40ea8c69d6081ecfb484f42229e278bebc7d2",
+      "destination_sha256": "87dfe728bcf7d15348f90064a7d40ea8c69d6081ecfb484f42229e278bebc7d2",
+      "byte_preserved": true,
+      "transformation": "repository placement and filename normalization only"
+    },
+    {
+      "source_filename": "WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER(3).md",
+      "destination_path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md",
+      "source_sha256": "188dcab7f326353eb1acdb730ac0d6c8c8ffca9202973d12c7b0be867f5bc75e",
+      "destination_sha256": "188dcab7f326353eb1acdb730ac0d6c8c8ffca9202973d12c7b0be867f5bc75e",
+      "byte_preserved": true,
+      "transformation": "repository placement and filename normalization only"
+    },
+    {
+      "source_filename": "WUWA_CARTETHYIA_SPEECH_AND_PERFORMANCE_PROFILE(2).md",
+      "destination_path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md",
+      "source_sha256": "ed132726ae52d36b9d2304668e867be7c8fe93bc0bd72aa34c76bb0c2962ddc5",
+      "destination_sha256": "ed132726ae52d36b9d2304668e867be7c8fe93bc0bd72aa34c76bb0c2962ddc5",
+      "byte_preserved": true,
+      "transformation": "repository placement and filename normalization only"
+    },
+    {
+      "source_filename": "WUWA_CARTETHYIA_CLAIM_AND_COUNTEREVIDENCE_LEDGER(1).json",
+      "destination_path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CLAIM_AND_COUNTEREVIDENCE_LEDGER.json",
+      "source_sha256": "148b94fec2f0688e22e282a1723b6e090f3607596c1bfc5d5a43d1e8ff5e58ba",
+      "destination_sha256": "148b94fec2f0688e22e282a1723b6e090f3607596c1bfc5d5a43d1e8ff5e58ba",
+      "byte_preserved": true,
+      "transformation": "repository placement and filename normalization only"
+    },
+    {
+      "source_filename": "WUWA_CARTETHYIA_CLAIM_REVISION_LEDGER.md",
+      "destination_path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CLAIM_REVISION_LEDGER.md",
+      "source_sha256": "0d1373e15fea7a351a7b4605798f89f17e08028c8799e91173129d0bfbfb1e49",
+      "destination_sha256": "0d1373e15fea7a351a7b4605798f89f17e08028c8799e91173129d0bfbfb1e49",
+      "byte_preserved": true,
+      "transformation": "repository placement and filename normalization only"
+    },
+    {
+      "source_filename": "WUWA_CARTETHYIA_CHARACTER_MODEL_PACKAGE(1).json",
+      "destination_path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_MODEL_PACKAGE.json",
+      "source_sha256": "bbc0a7a7db883c90badd586252d9081293954c4403d61797b76105c2b0b7cd4d",
+      "destination_sha256": "bbc0a7a7db883c90badd586252d9081293954c4403d61797b76105c2b0b7cd4d",
+      "byte_preserved": true,
+      "transformation": "repository placement and filename normalization only"
+    },
+    {
+      "source_filename": "WUWA_CARTETHYIA_MODEL_FIDELITY_CHECK(1).md",
+      "destination_path": "04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_MODEL_FIDELITY_CHECK.md",
+      "source_sha256": "95cf22e4775eb5afca5a5237b88daf1b0ba492ebc388467037b1135e65280a19",
+      "destination_sha256": "95cf22e4775eb5afca5a5237b88daf1b0ba492ebc388467037b1135e65280a19",
+      "byte_preserved": true,
+      "transformation": "repository placement and filename normalization only"
+    },
+    {
+      "source_filename": "WUWA_CARTETHYIA_V0_2_HARDENING_COMPLETION_REPORT.md",
+      "destination_path": "08 Audits and Manifests/WUWA_CARTETHYIA_V0_2_HARDENING_COMPLETION_REPORT.md",
+      "source_sha256": "14895e49b0283c84d955ad6be8123ad3408b7f03e19b7dc85da5282ee8d4b969",
+      "destination_sha256": "14895e49b0283c84d955ad6be8123ad3408b7f03e19b7dc85da5282ee8d4b969",
+      "byte_preserved": true,
+      "transformation": "repository placement and filename normalization only"
+    }
+  ],
+  "deliberate_exclusions": [
+    "raw and normalized dialogue corpora",
+    "large scene/evidence ledgers",
+    "FLAC/WEM/WAV audio and audiovisual media",
+    "client packages and extraction/decryption tooling",
+    "unsupported Chisa or Lynae interpretive artifacts",
+    "empty specialist, full-series synthesis, and legacy directories"
+  ],
+  "git_transaction": {
+    "base_commit": "501279737d5f584d1efc57c39a89b52847279223",
+    "candidate_branch": null,
+    "commit_mode": "direct main fast-forward by explicit owner instruction; atomic Git tree/commit through GitHub connector",
+    "same_change_global_files": [
+      {
+        "path": "series/registry.json",
+        "bytes": 21262,
+        "sha256": "da3e9deca63b39ac6d02e8c318cc669de6a03f64c6bb2111a712e69d14662d7a",
+        "purpose": "register stable slug and canonical entrypoint"
+      },
+      {
+        "path": "series/README.md",
+        "bytes": 3653,
+        "sha256": "76e0d346eb9a8c1675e01d4aba627e2019ec3892a309487846be6a7637c8bbe2",
+        "purpose": "expose post-cutover Git-native series root"
+      },
+      {
+        "path": "governance/MANGA_ANIME_CORPUS_INDEX.md",
+        "bytes": 6188,
+        "sha256": "37bbaef990ef7a25ce77b323280127b848b35d5c34bb8d6b89f343fc7d57d2c0",
+        "purpose": "add global navigation route without rewriting sealed migration counts"
+      }
+    ],
+    "authorization": "user explicitly requested direct push to main on 2026-09-02"
+  }
+}
