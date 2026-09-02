@@ -1,0 +1,60 @@
+{
+  "schema": "cote-y1-final-evidence-lock-v1.0",
+  "checkpoint_id": "Y1-FINAL-LOCK",
+  "sequence_alias": "Y1-CP04",
+  "status": "canonical_checkpoint_passed",
+  "created_at": "2026-08-14",
+  "source_boundary": "Y1V01-Y1V11.5 + Y1FF",
+  "spoiler_boundary": "through First File only",
+  "result": "PASS",
+  "evidence": {
+    "cumulative_through_y1v10": 1037,
+    "y1v11": 149,
+    "y1v11_5": 151,
+    "y1ff": 82,
+    "final_total": 1419,
+    "final_unique": 1419,
+    "y1v11_validated_text_locators": 140,
+    "y1v11_validated_visual_locators": 9,
+    "y1v11_locator_errors": [],
+    "y1v11_5_validated_text_locators": 141,
+    "y1v11_5_validated_visual_locators": 10,
+    "y1v11_5_locator_errors": [],
+    "y1ff_validation_mode": "inherited_locked_source_audit",
+    "y1ff_documentary_image_primary": 58,
+    "y1ff_bonus_fiction_xhtml": 24
+  },
+  "terminology": {
+    "through_y1v11": 253,
+    "y1v11_5_added": 12,
+    "y1ff_added": 18,
+    "final_total": 283
+  },
+  "source_fingerprints": {
+    "Y1V11": {
+      "source_sha256": "a067284074b9209c4712b41d05ce01da17c971bc6d7993afb07cd548524a0a9f",
+      "normalized_text_sha256": "bccbf87237aae9e75882de75209c4251ee971888a4e44f578993bf3f26326c4d"
+    },
+    "Y1V11.5": {
+      "source_sha256": "c5078e3770b0a74b161070920d65a91c681d8d54905477d15434bb05f5848fde",
+      "normalized_text_sha256": "03aa6792ac46c1d512bedc4a57f039a4028cb8cd1b11ea4a2e03c17a8dbf9cbc"
+    },
+    "Y1FF": {
+      "source_sha256": "b0b95aea1a832f6492c6e6b40faf19a277a3c4435fef3fe0859947e6fe8a45b1",
+      "validation_mode": "inherited_source_audited_mixed_layout"
+    }
+  },
+  "claim_locks": [
+    "ordinary life is genuine self-chosen Ayanokoji purpose",
+    "self-authorship is distinct from reciprocal authorship",
+    "Horikita endpoint is integrated self-authorship, not purification from influence",
+    "Kei romance is reciprocal but hidden curriculum/dependency history and irreplaceability remain unresolved",
+    "Ichinose solidarity is real capacity; adversarial security/result conversion are separate problems",
+    "jitsuryoku distinguishes possession/development/expression/legibility/coordination/recording",
+    "measurement can be accurate about a bounded object without totaling the person",
+    "OAA is retrospective/counterfactual at Y1FF only",
+    "unverified Tsukishiro White Room details remain testimony-tier"
+  ],
+  "later_source_answers_imported": false,
+  "next_phase": "revise_and_freeze_COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md"
+}

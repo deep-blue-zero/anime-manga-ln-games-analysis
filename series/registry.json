@@ -1,6 +1,6 @@
 {
   "schema": "anime-manga-ln-games-analysis/series-registry/v1",
-  "status": "G5_COMPLETE_MATERIALIZATION_CANDIDATE",
+  "status": "G7_DELTA_REPAIR_CANDIDATE",
   "series": [
     {
       "series_id": "86-eighty-six",
@@ -76,6 +76,18 @@
       "repository_path": "series/blue-archive/",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T05_BLUE_ARCHIVE",
+      "authority_status": "NONAUTHORITATIVE_PRE_G8"
+    },
+    {
+      "series_id": "classroom-of-the-elite",
+      "stable_slug": "classroom-of-the-elite",
+      "canonical_title": "Classroom of the Elite",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/classroom-of-the-elite/",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G7_DELTA_REPAIR",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     },
     {

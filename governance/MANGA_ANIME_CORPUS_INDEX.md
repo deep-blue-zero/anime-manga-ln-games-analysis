@@ -1,6 +1,6 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public, owner-maintained, and fully materialized for the approved G5 text boundary. The candidate contains 2,665 Drive-derived representations across 36 series roots and two study roots. Final aggregate validation and G8 analytical-authority activation are separate controls.
+> Repository state: public, owner-maintained, and materialized through the approved G7 COTE delta-repair boundary. The candidate contains 2,814 Drive-derived representations across 37 series roots and two study roots. Final aggregate validation and G8 analytical-authority activation are separate controls.
 >
 > Analytical authority: Google Drive until a separately approved and verified G8 cutover. Git content remains a nonauthoritative migration candidate.
 
@@ -14,6 +14,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Attack on Titan](../series/attack-on-titan/) — `series/attack-on-titan/`
 - [Azur Lane](../series/azur-lane/) — `series/azur-lane/`
 - [BLUE ARCHIVE](../series/blue-archive/) — `series/blue-archive/`
+- [Classroom of the Elite](../series/classroom-of-the-elite/) — `series/classroom-of-the-elite/`
 - [Gakuen Idolmaster](../series/gakuen-idolmaster/) — `series/gakuen-idolmaster/`
 - [Genshin Impact](../series/genshin-impact/) — `series/genshin-impact/`
 - [Girls Band Cry](../series/girls-band-cry/) — `series/girls-band-cry/`

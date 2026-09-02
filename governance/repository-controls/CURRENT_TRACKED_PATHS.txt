@@ -547,6 +547,156 @@ series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_SCHOOL_CLUB_INSTITUTION
 series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_SENSEI_ROLE_AND_ETHICS_LEDGER.md
 series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv
 series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md
+series/classroom-of-the-elite/00 Frameworks and Methods/COTE_BEHAVIORAL_RECONSTRUCTION_PROTOCOL_THROUGH_Y2.md
+series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Multi_Document_Synthesis_Architecture_v1.md
+series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Y1_ANALYTICAL_METHOD_V2.md
+series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Y1_TO_Y2_NEW_CHAT_HANDOFF_PROMPT.md
+series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Y1_TO_Y2_NEW_CHAT_HANDOFF_PROMPT.md.sha256
+series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Y2_ANALYTICAL_METHOD_V2.md
+series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Y3_ANALYTICAL_METHOD_V2.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_ARTIFACT_CHECKSUMS.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_CORPUS_INDEX.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_CORPUS_MANIFEST.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_DELIVERY_AUDIT.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_SOURCE_CHECKSUMS.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_SOURCE_INVENTORY.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_V2_ANALYTICAL_RELEASE_2026-08-15.zip.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_V2_ARCHIVAL_LOCK.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V01_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V02_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V03_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V04_5_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V04_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V05_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V06_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V07_5_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V07_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V08_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V09_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V10_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V11_5_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V11_DEEP_READING.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01A Guidebook Paratext Audits/COTE_Y1_FIRST_FILE_PARATEXT_AUDIT.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_EVIDENCE_RECONCILIATION_AUDIT_THROUGH_Y1V04_5.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V05_TO_Y1V07_5.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V08_TO_Y1V10.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V11_TO_Y1FF.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_01_PACKAGE_MANIFEST.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_01_RECONCILIATION.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_01_RECONCILIATION_Y1V01_TO_Y1V04_5.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_01_V01_TO_V04_5_RECONCILED.zip.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_02_PACKAGE_MANIFEST.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_02_RECONCILIATION.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_02_RECONCILIATION_Y1V05_TO_Y1V07_5.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_02_V05_TO_V07_5_RECONCILED.zip.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_03_PACKAGE_MANIFEST.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_03_RECONCILIATION.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_03_RECONCILIATION_Y1V08_TO_Y1V10.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_03_V08_TO_V10_RECONCILED.zip.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_EVIDENCE_LOCK.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_EVIDENCE_LOCK_PACKAGE.zip.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_LOCK_ARTIFACT_CHECKSUMS.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_LOCK_PACKAGE_MANIFEST.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_RECONCILIATION_AND_EVIDENCE_LOCK.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_SOURCE_MAP_RECONCILED_THROUGH_Y1V10.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1V11.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V11.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1V11.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V11.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_LONGITUDINAL_CLAIM_LEDGER_THROUGH_Y1.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_LONGITUDINAL_CLAIM_LEDGER_THROUGH_Y1V11.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y1.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V11.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_00_README_AND_CORPUS_MAP_QA_REPORT.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_12_FINALIZATION_QA_REPORT.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_12_SPECIALIST_CORPUS_AUDIT.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_13_FINALIZATION_QA_REPORT.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_13_SPECIALIST_ROUTING_AUDIT.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_FULL_SYNTHESIS_QA_REPORT.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_LONGITUDINAL_THREAD_REGISTRY.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_PROJECT_STATUS.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_SOURCE_MAP.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_V04_5_RECOVERY_NOTE.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_V2_FINAL_DELIVERY_AUDIT.json
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_00_README_AND_CORPUS_MAP.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_00_README_AND_CORPUS_MAP.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md.sha256
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_FULL_SYNTHESIS.md
+series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_FULL_SYNTHESIS.md.sha256
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_PROJECT_STATUS.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_V00_RETROSPECTIVE_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V01_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V02_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V03_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V04_5_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V04_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V05_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V06_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V07_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V08_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V09_5_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V09_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V10_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V11_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V12_5_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V12_DEEP_READING.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01A Guidebook Paratext Audits/COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ABILITY_MEASUREMENT_LEDGER_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_CLASS_RELATIONAL_CORE_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CLASS_POLITY_LEDGER_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ETHICS_LEDGER_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_EXAM_LEDGER_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_INSTITUTIONAL_RULES_LEDGER_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_JAPANESE_VOICE_LEDGER_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ORDINARY_LIFE_COUNTERCURRICULUM_LEDGER_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y2.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_RETROSPECTIVE_REVELATION_LEDGER_VOLUME0.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/COTE_Y2_SOURCE_INVENTORY_AND_LOCK.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md
+series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md
+series/classroom-of-the-elite/08 Audits and Manifests/COTE_EXTERNAL_ARTIFACT_REFERENCES.md
+series/classroom-of-the-elite/90 Legacy and Superseded/COTE_Y1_CORPUS_INDEX__drive_1MQeVxJpWz0o.json
 series/gakuen-idolmaster/00_ANALYSIS_FRAMEWORKS/GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md
 series/gakuen-idolmaster/00_ANALYSIS_FRAMEWORKS/GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md
 series/gakuen-idolmaster/01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_DEDUP_AND_EXCEPTION_AUDIT.md

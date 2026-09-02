@@ -1,0 +1,89 @@
+{
+  "schema": "cote-y1-checkpoint-reconciliation-v1.0",
+  "checkpoint_id": "Y1-CP03",
+  "status": "canonical_checkpoint_passed",
+  "source_boundary": "Y1V08–Y1V10",
+  "cumulative_boundary": "Y1V01–Y1V10",
+  "spoiler_boundary": "through Y1V10 only",
+  "next_source_at_checkpoint": "Y1V11",
+  "result": "PASS_AFTER_ADMINISTRATIVE_INDEX_SOURCE_MAP_AND_CLASS_POLITY_REPAIRS",
+  "volume_artifacts": {
+    "Y1V08": {
+      "artifact": "volumes/COTE_Y1_V08_DEEP_READING.md",
+      "words": 17801,
+      "bytes": 135527,
+      "evidence": 152,
+      "sha256": "d67fbdbffa165fe17d1bfdff3fd2d1cd65b31e13f21d58937063e2b49f6d9ba3",
+      "source_filename": "Classroom of the Elite - Year 1 - Volume 08 [Japanese].epub",
+      "source_sha256": "70fe11cf8145e97fcf17ea817f326d43ac0fe213b6ffeec7ee532acbd83ebb8e",
+      "normalized_text_sha256": "a67725eb41238b1878ef4a2795fd91fc93fa2367d9374bae3af9bccc5f98df8a",
+      "normalized_paragraphs": 3683,
+      "normalized_characters": 145448,
+      "spine_items": 24,
+      "raster_resource_count": 23
+    },
+    "Y1V09": {
+      "artifact": "volumes/COTE_Y1_V09_DEEP_READING.md",
+      "words": 14361,
+      "bytes": 103977,
+      "evidence": 110,
+      "sha256": "4679597e4830718dfe39cc7cec059fe977ff567085ee37b4eaaad80d7703ef8a",
+      "source_filename": "Classroom of the Elite - Year 1 - Volume 09 [Japanese].epub",
+      "source_sha256": "0f615a16f03db32930f0a24ba41778fff30d5b1d8a4d21df625757fae576eaca",
+      "normalized_text_sha256": "1fe037048c9cf5869dd7c387fe81ef7ba0f26dedb4b5579dd6e38bd22317b42c",
+      "normalized_paragraphs": 3554,
+      "normalized_characters": 111176,
+      "spine_items": 24,
+      "raster_resource_count": 24
+    },
+    "Y1V10": {
+      "artifact": "volumes/COTE_Y1_V10_DEEP_READING.md",
+      "words": 17134,
+      "bytes": 125862,
+      "evidence": 123,
+      "sha256": "b31c55f57159482db824b15aea1a493cd7de4527f3e98d742f9dfbe99172c090",
+      "source_filename": "Classroom of the Elite - Year 1 - Volume 10 [Japanese].epub",
+      "source_sha256": "2b3b83b5281ef7bdeb320bb9d0c24f58b67be044fda02724c3683b32fdc4d1e5",
+      "normalized_text_sha256": "8c1d43dde96ffa772361b7d9c399ddda9321ff2019c8a379caa4ceed8c751d8c",
+      "normalized_paragraphs": 4606,
+      "normalized_characters": 140731,
+      "spine_items": 23,
+      "raster_resource_count": 23
+    }
+  },
+  "evidence": {
+    "tranche_expected": 385,
+    "tranche_verified": 385,
+    "tranche_unique": 385,
+    "cumulative_through_boundary": 1037,
+    "validated_text_locators": 356,
+    "validated_visual_locators": 29,
+    "locator_errors": [],
+    "snapshot_ledger": "checkpoints/snapshots_cp03/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER_THROUGH_Y1V10.md"
+  },
+  "terminology_entries": 225,
+  "terminology_tranche_counts": {
+    "Y1V08": 30,
+    "Y1V09": 24,
+    "Y1V10": 25
+  },
+  "normalized_paragraphs": 11843,
+  "normalized_japanese_characters": 397355,
+  "checkpoint_report": "checkpoints/COTE_Y1_CHECKPOINT_03_RECONCILIATION_Y1V08_TO_Y1V10.md",
+  "evidence_audit": "checkpoints/COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V08_TO_Y1V10.md",
+  "package_manifest": "packages/COTE_Y1_CHECKPOINT_03_PACKAGE_MANIFEST.md",
+  "package_filename": "COTE_Y1_CHECKPOINT_03_V08_TO_V10_RECONCILED.zip",
+  "later_volume_answers_imported": false,
+  "package_file_count": 28,
+  "zip_integrity": "PASS",
+  "package_sha256_sidecar": "COTE_Y1_CHECKPOINT_03_V08_TO_V10_RECONCILED.zip.sha256",
+  "administrative_repairs": [
+    "active source map advanced from pending V08–V10 to deterministic complete maps",
+    "source inventory advanced from V09/planned V10 to reconciled V10",
+    "project status advanced from V09 to reconciled V10",
+    "corpus index rebuilt from stale V01 boundary",
+    "class polity ledger advanced from V09 to V10",
+    "artifact checksum registry rebuilt from stale subset"
+  ],
+  "package_sha256": "5cfb9fda6996a0f1ecff50c30cd45263e6837774ca944d6af9863aec58232879"
+}

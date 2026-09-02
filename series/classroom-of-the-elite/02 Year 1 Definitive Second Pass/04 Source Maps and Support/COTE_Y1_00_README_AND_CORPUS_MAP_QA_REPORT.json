@@ -1,0 +1,18 @@
+{
+  "artifact": "COTE_Y1_00_README_AND_CORPUS_MAP.md",
+  "status": "PASS",
+  "word_count": 5174,
+  "byte_count": 41126,
+  "sha256": "89e1d4b7ab281aa00fd85403e2e86a4aff7e99bb7beef31404fca1e964f3e54b",
+  "expected_canonical_documents_present": 14,
+  "missing_canonical_documents": [],
+  "canonical_volume_rows": 14,
+  "required_sections_missing": [],
+  "duplicate_substantive_paragraphs": 0,
+  "unicode_replacement_chars": 0,
+  "frozen_evidence_count_mentioned": true,
+  "frozen_japanese_anchor_count_mentioned": true,
+  "handoff_count_mentioned": true,
+  "stable_polity_ids_present": true,
+  "readme_role": "first-read orientation and corpus routing; not a substitute for specialist argument"
+}

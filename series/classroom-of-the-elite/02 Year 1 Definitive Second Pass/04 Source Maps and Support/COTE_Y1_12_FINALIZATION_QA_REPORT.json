@@ -1,0 +1,23 @@
+{
+  "artifact": "COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+  "status": "PASS",
+  "pre_finalization_sha256": "f34a489e1cfe7c77d9d4ccd7729ea873be017a09d72268eda08a92f2c6937e4a",
+  "final_sha256": "794821b668185307791e1db6ebdad1b88c8bec974ff6ca7aa1df3eced322576f",
+  "evidence_row_digest_sha256": "8d56d1f91860b9f21a64350d4d7c1188204ac9d0fb665150d169a0bb5150b952",
+  "evidence_rows_unchanged": true,
+  "canonical_evidence_rows": 1419,
+  "unique_evidence_ids": 1419,
+  "duplicate_ids": 0,
+  "source_numbering_gaps": 0,
+  "novel_records": 1337,
+  "first_file_records": 82,
+  "specialist_artifacts_audited": 11,
+  "specialist_expanded_references": 8106,
+  "specialist_unique_evidence_ids_referenced": 1380,
+  "unresolved_specialist_references": 0,
+  "source_local_only_records": 39,
+  "source_local_only_records_routed": 39,
+  "malformed_ranges": 0,
+  "canonical_specialist_hashes_verified": 11,
+  "later_year_evidence_admitted": false
+}

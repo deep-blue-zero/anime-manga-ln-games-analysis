@@ -1,0 +1,743 @@
+{
+  "schema": "cote-y1-v2-final-delivery-audit-v1",
+  "release_date": "2026-08-15",
+  "result": "PASS",
+  "fatal_findings": [],
+  "core_artifact_count": 43,
+  "package_file_count_before_checksum": 46,
+  "known_frozen_hash_validation": [
+    {
+      "file": "COTE_Y1_00_README_AND_CORPUS_MAP.md",
+      "expected": "d35d3b35851754715e8600c9b08398f025f0f213c394e9b69a175183dd43dce6",
+      "actual": "d35d3b35851754715e8600c9b08398f025f0f213c394e9b69a175183dd43dce6",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md",
+      "expected": "e0e35d9fe35e8467c16a572452735f35cdbea7cb5427f263f99df8f328d2de4b",
+      "actual": "e0e35d9fe35e8467c16a572452735f35cdbea7cb5427f263f99df8f328d2de4b",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md",
+      "expected": "7d2e8dda7d536362e4a12de3511dbd1909dc42192a73b46583cc48d0787b1a95",
+      "actual": "7d2e8dda7d536362e4a12de3511dbd1909dc42192a73b46583cc48d0787b1a95",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md",
+      "expected": "36f689a2d59d82710393307e6de39229e94d7e79ad1d240d7b4390d82be03713",
+      "actual": "36f689a2d59d82710393307e6de39229e94d7e79ad1d240d7b4390d82be03713",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md",
+      "expected": "3f0525148f40468ad387a32cd9679575d7b742a122dd636a8a71450b0a1a73d6",
+      "actual": "3f0525148f40468ad387a32cd9679575d7b742a122dd636a8a71450b0a1a73d6",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md",
+      "expected": "5c49036564ae745157616e8537ab7610d1825c41b5bda4b714ae9d2a6678afff",
+      "actual": "5c49036564ae745157616e8537ab7610d1825c41b5bda4b714ae9d2a6678afff",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md",
+      "expected": "05334e41fa2af8929026ce76bd34f2f608bca9b8a21f669d8734f325459543b7",
+      "actual": "05334e41fa2af8929026ce76bd34f2f608bca9b8a21f669d8734f325459543b7",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md",
+      "expected": "1d6e10f2847cb23a40d41fe887f52ffe75658902e57bcf01cdd2858283a6c478",
+      "actual": "1d6e10f2847cb23a40d41fe887f52ffe75658902e57bcf01cdd2858283a6c478",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md",
+      "expected": "21a2b4b96edce16bbb7afc6320387aa48a7443dc1745b248bb6c3d135618ff4b",
+      "actual": "21a2b4b96edce16bbb7afc6320387aa48a7443dc1745b248bb6c3d135618ff4b",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md",
+      "expected": "5d80e7c06a632df9037408603aa6d3c9da91c7dc4c37c137950cd9674e2feb01",
+      "actual": "5d80e7c06a632df9037408603aa6d3c9da91c7dc4c37c137950cd9674e2feb01",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md",
+      "expected": "7541433f5baaa03265105447b3b0ee14180cd0a32ee9c03af469d5cde57e09b1",
+      "actual": "7541433f5baaa03265105447b3b0ee14180cd0a32ee9c03af469d5cde57e09b1",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md",
+      "expected": "4d3fb0f07f67f940a9f72ec2226ac913109c3c76405bc363911c3ae49bb89103",
+      "actual": "4d3fb0f07f67f940a9f72ec2226ac913109c3c76405bc363911c3ae49bb89103",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+      "expected": "794821b668185307791e1db6ebdad1b88c8bec974ff6ca7aa1df3eced322576f",
+      "actual": "794821b668185307791e1db6ebdad1b88c8bec974ff6ca7aa1df3eced322576f",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+      "expected": "a6aa53f21a40e51dc5c135055d6da173c194de774a741f685402ee60db62bec7",
+      "actual": "a6aa53f21a40e51dc5c135055d6da173c194de774a741f685402ee60db62bec7",
+      "match": true
+    },
+    {
+      "file": "COTE_Y1_FULL_SYNTHESIS.md",
+      "expected": "86a5be7d161d044afc5dee5b00c26fb50a17e549ab92733722d7f9c29d575ddc",
+      "actual": "86a5be7d161d044afc5dee5b00c26fb50a17e549ab92733722d7f9c29d575ddc",
+      "match": true
+    }
+  ],
+  "utf8": {
+    "checked": 46,
+    "failures": []
+  },
+  "json": {
+    "checked": 2,
+    "failures": []
+  },
+  "front_matter": {
+    "checked": 44,
+    "failures": [],
+    "authority_field_warnings": []
+  },
+  "markdown_links": {
+    "checked": 93,
+    "resolved": [
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V01_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V01_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V01_DEEP_READING.md",
+        "target": "../COTE_Y1_SOURCE_INVENTORY.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V01_DEEP_READING.md",
+        "target": "../references/COTE_Y1_ANALYTICAL_METHOD_V2.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V01_DEEP_READING.md",
+        "target": "../references/COTE_Multi_Document_Synthesis_Architecture_v1.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V02_DEEP_READING.md",
+        "target": "COTE_Y1_V01_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V02_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V02_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V03_DEEP_READING.md",
+        "target": "COTE_Y1_V02_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V03_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V03_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V03_DEEP_READING.md",
+        "target": "../COTE_Y1_SOURCE_INVENTORY.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V03_DEEP_READING.md",
+        "target": "../references/COTE_Y1_ANALYTICAL_METHOD_V2.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V03_DEEP_READING.md",
+        "target": "../references/COTE_Multi_Document_Synthesis_Architecture_v1.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_5_DEEP_READING.md",
+        "target": "COTE_Y1_V04_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_5_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_5_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_5_DEEP_READING.md",
+        "target": "../COTE_Y1_SOURCE_INVENTORY.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_5_DEEP_READING.md",
+        "target": "../references/COTE_Y1_ANALYTICAL_METHOD_V2.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_5_DEEP_READING.md",
+        "target": "../references/COTE_Multi_Document_Synthesis_Architecture_v1.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_DEEP_READING.md",
+        "target": "COTE_Y1_V03_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_DEEP_READING.md",
+        "target": "../COTE_Y1_SOURCE_INVENTORY.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_DEEP_READING.md",
+        "target": "../references/COTE_Y1_ANALYTICAL_METHOD_V2.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V04_DEEP_READING.md",
+        "target": "../references/COTE_Multi_Document_Synthesis_Architecture_v1.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V05_DEEP_READING.md",
+        "target": "COTE_Y1_V04_5_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V05_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V05_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V06_DEEP_READING.md",
+        "target": "COTE_Y1_V05_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V06_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V06_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V07_5_DEEP_READING.md",
+        "target": "COTE_Y1_V07_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V07_5_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V07_5_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V07_DEEP_READING.md",
+        "target": "COTE_Y1_V06_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V07_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V07_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V08_DEEP_READING.md",
+        "target": "COTE_Y1_V07_5_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V08_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V08_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V09_DEEP_READING.md",
+        "target": "COTE_Y1_V08_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V09_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V09_DEEP_READING.md",
+        "target": "../ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+        "target": "../volumes/COTE_Y1_V05_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+        "target": "../volumes/COTE_Y1_V10_DEEP_READING.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_Y1_LONGITUDINAL_THREAD_REGISTRY.md",
+        "target": "../references/COTE_Multi_Document_Synthesis_Architecture_v1.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "COTE_Y1_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "../03%20Rolling%20Ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "05_YEAR_LEVEL_SYNTHESIS/COTE_Y1_FULL_SYNTHESIS.md",
+        "target": "../03%20Rolling%20Ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      },
+      {
+        "source": "06_EVIDENCE_AND_INDEXES/COTE_Y1_SOURCE_INVENTORY.md",
+        "target": "support/COTE_Y1_SOURCE_MAP.json",
+        "resolved": true,
+        "declared_external_historical_or_source_dependency": false
+      }
+    ],
+    "declared_external_historical_or_source_dependency": [
+      {
+        "source": "01_FRAMEWORKS_AND_METHODS/COTE_Multi_Document_Synthesis_Architecture_v1.md",
+        "target": "12_ETHICS_AUTONOMY_CONSENT_PROTECTION_CONTROL_AND_VIOLENCE.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V05_DEEP_READING.md",
+        "target": "../checkpoints/COTE_Y1_CHECKPOINT_01_RECONCILIATION_Y1V01_TO_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V05_DEEP_READING.md",
+        "target": "../ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V05_DEEP_READING.md",
+        "target": "../ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V05_DEEP_READING.md",
+        "target": "../ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V05_DEEP_READING.md",
+        "target": "../ledgers/COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V06_DEEP_READING.md",
+        "target": "../checkpoints/COTE_Y1_CHECKPOINT_01_RECONCILIATION_Y1V01_TO_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V06_DEEP_READING.md",
+        "target": "../ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1V06.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V06_DEEP_READING.md",
+        "target": "../ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V06.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V06_DEEP_READING.md",
+        "target": "../ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V06.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V06_DEEP_READING.md",
+        "target": "../ledgers/COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V06.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V08_DEEP_READING.md",
+        "target": "../ledgers/COTE_CLASS_POLITY_LEDGER.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V08_DEEP_READING.md",
+        "target": "../ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1V08.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V08_DEEP_READING.md",
+        "target": "../ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V08.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V08_DEEP_READING.md",
+        "target": "../ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V08.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V08_DEEP_READING.md",
+        "target": "../ledgers/COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V08.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V09_DEEP_READING.md",
+        "target": "../ledgers/COTE_CLASS_POLITY_LEDGER.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V09_DEEP_READING.md",
+        "target": "../ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1V09.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V09_DEEP_READING.md",
+        "target": "../ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V09.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V09_DEEP_READING.md",
+        "target": "../ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V09.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "02_SEQUENTIAL_READINGS/COTE_Y1_V09_DEEP_READING.md",
+        "target": "../ledgers/COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V09.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+        "target": "../checkpoints/COTE_Y1_CHECKPOINT_01_RECONCILIATION_Y1V01_TO_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+        "target": "COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+        "target": "COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+        "target": "COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+        "target": "COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V10.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+        "target": "COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V10.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+        "target": "COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y1V10.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_Y1_LONGITUDINAL_THREAD_REGISTRY.md",
+        "target": "../checkpoints/COTE_Y1_CHECKPOINT_01_RECONCILIATION_Y1V01_TO_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_Y1_LONGITUDINAL_THREAD_REGISTRY.md",
+        "target": "../ledgers/COTE_LONGITUDINAL_CLAIM_LEDGER_THROUGH_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "04_LONGITUDINAL_LEDGERS/COTE_Y1_LONGITUDINAL_THREAD_REGISTRY.md",
+        "target": "../ledgers/COTE_THEME_TERMINOLOGY_LEDGER_THROUGH_Y1V04_5.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      },
+      {
+        "source": "06_EVIDENCE_AND_INDEXES/COTE_Y1_SOURCE_INVENTORY.md",
+        "target": "support/COTE_Y1_V04_5_RECOVERY_NOTE.md",
+        "resolved": false,
+        "declared_external_historical_or_source_dependency": true
+      }
+    ],
+    "broken_current": []
+  },
+  "duplicate_text": {
+    "byte_identical_core_groups": [],
+    "exact_long_paragraph_groups": [
+      {
+        "text_prefix": "| Evidence ID | Locator | Layer | Type | Claim / event | Confidence | Used in | |---|---|---|---|---|---|---| | `Y1V03-E001` | `Y1V03|spine:10|xhtml:text/part0009.html|p:0002-0021`",
+        "locations": [
+          "02_SEQUENTIAL_READINGS/COTE_Y1_V03_DEEP_READING.md",
+          "06_EVIDENCE_AND_INDEXES/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
+        ]
+      },
+      {
+        "text_prefix": "| Evidence ID | Locator | Layer | Type | Claim / event | Confidence | Used in | |---|---|---|---|---|---|---| | `Y1V04.5-E001` | `Y1V04.5|spine:11|xhtml:text/part0009.html|p:0002-0",
+        "locations": [
+          "02_SEQUENTIAL_READINGS/COTE_Y1_V04_5_DEEP_READING.md",
+          "06_EVIDENCE_AND_INDEXES/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
+        ]
+      },
+      {
+        "text_prefix": "| Evidence ID | Locator | Layer | Type | Claim / event | Confidence | Used in | |---|---|---|---|---|---|---| | `Y1V04-E001` | `Y1V04|spine:10|xhtml:text/part0009.html|p:0002-0011`",
+        "locations": [
+          "02_SEQUENTIAL_READINGS/COTE_Y1_V04_DEEP_READING.md",
+          "06_EVIDENCE_AND_INDEXES/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
+        ]
+      },
+      {
+        "text_prefix": "| Evidence ID | Locator | Layer | Type | Claim / event | Confidence | Used in | |---|---|---|---|---|---|---| | `Y1V05-E001` | `Y1V05|spine:11|xhtml:text/part0009.html|p:0002-0017`",
+        "locations": [
+          "02_SEQUENTIAL_READINGS/COTE_Y1_V05_DEEP_READING.md",
+          "06_EVIDENCE_AND_INDEXES/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
+        ]
+      },
+      {
+        "text_prefix": "| Evidence ID | Locator | Layer | Type | Claim / event | Confidence | Used in | |---|---|---|---|---|---|---| | `Y1V06-E001` | `Y1V06|spine:10|xhtml:text/part0009.html|p:0002-0018`",
+        "locations": [
+          "02_SEQUENTIAL_READINGS/COTE_Y1_V06_DEEP_READING.md",
+          "06_EVIDENCE_AND_INDEXES/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
+        ]
+      },
+      {
+        "text_prefix": "| Evidence ID | Locator | Layer | Type | Claim / event | Confidence | Used in | |---|---|---|---|---|---|---| | `Y1V10-E001` | `Y1V10|spine:11|xhtml:text/part0009.html|p:0002-0010`",
+        "locations": [
+          "02_SEQUENTIAL_READINGS/COTE_Y1_V10_DEEP_READING.md",
+          "06_EVIDENCE_AND_INDEXES/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
+        ]
+      },
+      {
+        "text_prefix": "| Evidence ID | Locator | Layer | Type | Claim / event | Confidence | Used in | |---|---|---|---|---|---|---| | `Y1V11-E001` | `Y1V11|spine:11|xhtml:text/part0009.html|p:0002-0008`",
+        "locations": [
+          "02_SEQUENTIAL_READINGS/COTE_Y1_V11_DEEP_READING.md",
+          "06_EVIDENCE_AND_INDEXES/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md"
+        ]
+      }
+    ],
+    "paragraph_threshold_normalized_chars": 800
+  },
+  "delivery_boundary": {
+    "disallowed_extensions": [],
+    "copyrighted_primary_source_binaries_included": false,
+    "required_missing": []
+  },
+  "notes": [
+    "Exact long-paragraph duplication is reported for review but is not a fatal condition unless it indicates a byte-identical artifact duplicate.",
+    "Historical/superseded snapshots and working files are intentionally excluded from the clean package; they remain provenance outside this release."
+  ]
+}

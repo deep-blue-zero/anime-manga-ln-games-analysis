@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "file": "COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+  "version": "3.1-y1-language-router-finalized",
+  "authority_status": "canonical_year1_language_router_frozen",
+  "entry_count": 283,
+  "jy1_reference_count": 283,
+  "jy1_reference_contiguous": true,
+  "anchor_row_digest_sha256": "ac9caba6c8cc12ab23970189ba7a5bd1b0980f3a11d15b3d9e3354e5480800e7",
+  "anchor_rows_preserved_byte_for_byte": true,
+  "ledger_overlap_entry_count": 279,
+  "source_local_lexical_only_entry_count": 4,
+  "unique_evidence_ids_routed": 295,
+  "entries_with_literal_lexical_reuse": 125,
+  "entries_with_evidence_route_reused_by_specialists": 278,
+  "later_year_source_tokens_detected": [],
+  "placeholder_tokens_detected": [],
+  "bytes": 167118,
+  "words_wc": 18819,
+  "sha256": "a6aa53f21a40e51dc5c135055d6da173c194de774a741f685402ee60db62bec7"
+}

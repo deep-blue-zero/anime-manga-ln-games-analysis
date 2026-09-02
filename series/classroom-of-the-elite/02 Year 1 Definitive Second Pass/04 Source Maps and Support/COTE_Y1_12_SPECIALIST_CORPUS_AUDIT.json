@@ -1,0 +1,3753 @@
+{
+  "ledger": {
+    "row_count": 1419,
+    "unique_count": 1419,
+    "duplicates": [],
+    "source_counts": {
+      "Y1FF": 82,
+      "Y1V01": 35,
+      "Y1V02": 48,
+      "Y1V03": 56,
+      "Y1V04": 68,
+      "Y1V04.5": 68,
+      "Y1V05": 77,
+      "Y1V06": 73,
+      "Y1V07": 116,
+      "Y1V07.5": 111,
+      "Y1V08": 152,
+      "Y1V09": 110,
+      "Y1V10": 123,
+      "Y1V11": 149,
+      "Y1V11.5": 151
+    },
+    "source_contiguity": {
+      "Y1V01": {
+        "count": 35,
+        "max": 35,
+        "gaps": []
+      },
+      "Y1V02": {
+        "count": 48,
+        "max": 48,
+        "gaps": []
+      },
+      "Y1V03": {
+        "count": 56,
+        "max": 56,
+        "gaps": []
+      },
+      "Y1V04": {
+        "count": 68,
+        "max": 68,
+        "gaps": []
+      },
+      "Y1V04.5": {
+        "count": 68,
+        "max": 68,
+        "gaps": []
+      },
+      "Y1V05": {
+        "count": 77,
+        "max": 77,
+        "gaps": []
+      },
+      "Y1V06": {
+        "count": 73,
+        "max": 73,
+        "gaps": []
+      },
+      "Y1V07": {
+        "count": 116,
+        "max": 116,
+        "gaps": []
+      },
+      "Y1V07.5": {
+        "count": 111,
+        "max": 111,
+        "gaps": []
+      },
+      "Y1V08": {
+        "count": 152,
+        "max": 152,
+        "gaps": []
+      },
+      "Y1V09": {
+        "count": 110,
+        "max": 110,
+        "gaps": []
+      },
+      "Y1V10": {
+        "count": 123,
+        "max": 123,
+        "gaps": []
+      },
+      "Y1V11": {
+        "count": 149,
+        "max": 149,
+        "gaps": []
+      },
+      "Y1V11.5": {
+        "count": 151,
+        "max": 151,
+        "gaps": []
+      },
+      "Y1FF": {
+        "count": 82,
+        "max": 82,
+        "gaps": []
+      }
+    }
+  },
+  "specialists": {
+    "COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md": {
+      "sha256": "e0e35d9fe35e8467c16a572452735f35cdbea7cb5427f263f99df8f328d2de4b",
+      "bytes": 98258,
+      "expression_count": 0,
+      "expanded_reference_count": 0,
+      "unique_evidence_ids": 0,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {}
+    },
+    "COTE_Y1_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md": {
+      "sha256": "7d2e8dda7d536362e4a12de3511dbd1909dc42192a73b46583cc48d0787b1a95",
+      "bytes": 115293,
+      "expression_count": 48,
+      "expanded_reference_count": 152,
+      "unique_evidence_ids": 83,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 71,
+        "Y1V01": 11,
+        "Y1V02": 6,
+        "Y1V03": 2,
+        "Y1V05": 3,
+        "Y1V08": 2,
+        "Y1V09": 2,
+        "Y1V10": 3,
+        "Y1V11": 4,
+        "Y1V11.5": 48
+      }
+    },
+    "COTE_Y1_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md": {
+      "sha256": "36f689a2d59d82710393307e6de39229e94d7e79ad1d240d7b4390d82be03713",
+      "bytes": 107686,
+      "expression_count": 81,
+      "expanded_reference_count": 183,
+      "unique_evidence_ids": 136,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 9,
+        "Y1V01": 7,
+        "Y1V02": 5,
+        "Y1V03": 19,
+        "Y1V04": 2,
+        "Y1V04.5": 5,
+        "Y1V05": 14,
+        "Y1V06": 10,
+        "Y1V08": 9,
+        "Y1V09": 8,
+        "Y1V10": 18,
+        "Y1V11": 22,
+        "Y1V11.5": 55
+      }
+    },
+    "COTE_Y1_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md": {
+      "sha256": "3f0525148f40468ad387a32cd9679575d7b742a122dd636a8a71450b0a1a73d6",
+      "bytes": 107929,
+      "expression_count": 90,
+      "expanded_reference_count": 510,
+      "unique_evidence_ids": 356,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 48,
+        "Y1V01": 4,
+        "Y1V02": 4,
+        "Y1V03": 7,
+        "Y1V04": 42,
+        "Y1V04.5": 3,
+        "Y1V05": 11,
+        "Y1V06": 23,
+        "Y1V07": 39,
+        "Y1V07.5": 62,
+        "Y1V08": 52,
+        "Y1V09": 50,
+        "Y1V10": 24,
+        "Y1V11": 60,
+        "Y1V11.5": 81
+      }
+    },
+    "COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md": {
+      "sha256": "5c49036564ae745157616e8537ab7610d1825c41b5bda4b714ae9d2a6678afff",
+      "bytes": 120367,
+      "expression_count": 145,
+      "expanded_reference_count": 654,
+      "unique_evidence_ids": 263,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 46,
+        "Y1V04": 28,
+        "Y1V06": 2,
+        "Y1V07": 23,
+        "Y1V07.5": 7,
+        "Y1V08": 73,
+        "Y1V09": 55,
+        "Y1V10": 159,
+        "Y1V11": 211,
+        "Y1V11.5": 50
+      }
+    },
+    "COTE_Y1_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md": {
+      "sha256": "05334e41fa2af8929026ce76bd34f2f608bca9b8a21f669d8734f325459543b7",
+      "bytes": 142495,
+      "expression_count": 237,
+      "expanded_reference_count": 587,
+      "unique_evidence_ids": 318,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 67,
+        "Y1V01": 40,
+        "Y1V02": 14,
+        "Y1V03": 39,
+        "Y1V04": 21,
+        "Y1V04.5": 12,
+        "Y1V05": 46,
+        "Y1V06": 37,
+        "Y1V07": 5,
+        "Y1V07.5": 5,
+        "Y1V08": 82,
+        "Y1V09": 38,
+        "Y1V10": 62,
+        "Y1V11": 99,
+        "Y1V11.5": 20
+      }
+    },
+    "COTE_Y1_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md": {
+      "sha256": "1d6e10f2847cb23a40d41fe887f52ffe75658902e57bcf01cdd2858283a6c478",
+      "bytes": 117238,
+      "expression_count": 210,
+      "expanded_reference_count": 773,
+      "unique_evidence_ids": 382,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 90,
+        "Y1V01": 24,
+        "Y1V02": 23,
+        "Y1V03": 21,
+        "Y1V04": 17,
+        "Y1V04.5": 33,
+        "Y1V05": 8,
+        "Y1V06": 28,
+        "Y1V07": 43,
+        "Y1V07.5": 19,
+        "Y1V08": 138,
+        "Y1V09": 55,
+        "Y1V10": 64,
+        "Y1V11": 110,
+        "Y1V11.5": 100
+      }
+    },
+    "COTE_Y1_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md": {
+      "sha256": "21a2b4b96edce16bbb7afc6320387aa48a7443dc1745b248bb6c3d135618ff4b",
+      "bytes": 105345,
+      "expression_count": 95,
+      "expanded_reference_count": 910,
+      "unique_evidence_ids": 332,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 1,
+        "Y1V01": 32,
+        "Y1V02": 49,
+        "Y1V03": 9,
+        "Y1V04": 159,
+        "Y1V04.5": 46,
+        "Y1V05": 52,
+        "Y1V06": 3,
+        "Y1V07": 252,
+        "Y1V07.5": 32,
+        "Y1V08": 84,
+        "Y1V10": 45,
+        "Y1V11": 89,
+        "Y1V11.5": 57
+      }
+    },
+    "COTE_Y1_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md": {
+      "sha256": "5d80e7c06a632df9037408603aa6d3c9da91c7dc4c37c137950cd9674e2feb01",
+      "bytes": 98938,
+      "expression_count": 247,
+      "expanded_reference_count": 3441,
+      "unique_evidence_ids": 1316,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 242,
+        "Y1V01": 77,
+        "Y1V02": 87,
+        "Y1V03": 59,
+        "Y1V04": 207,
+        "Y1V04.5": 236,
+        "Y1V05": 47,
+        "Y1V06": 119,
+        "Y1V07": 267,
+        "Y1V07.5": 353,
+        "Y1V08": 282,
+        "Y1V09": 348,
+        "Y1V10": 279,
+        "Y1V11": 422,
+        "Y1V11.5": 416
+      }
+    },
+    "COTE_Y1_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md": {
+      "sha256": "7541433f5baaa03265105447b3b0ee14180cd0a32ee9c03af469d5cde57e09b1",
+      "bytes": 96742,
+      "expression_count": 98,
+      "expanded_reference_count": 760,
+      "unique_evidence_ids": 328,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 242,
+        "Y1V01": 42,
+        "Y1V04.5": 17,
+        "Y1V05": 21,
+        "Y1V07": 64,
+        "Y1V07.5": 38,
+        "Y1V08": 30,
+        "Y1V09": 16,
+        "Y1V10": 24,
+        "Y1V11": 106,
+        "Y1V11.5": 160
+      }
+    },
+    "COTE_Y1_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md": {
+      "sha256": "4d3fb0f07f67f940a9f72ec2226ac913109c3c76405bc363911c3ae49bb89103",
+      "bytes": 95466,
+      "expression_count": 16,
+      "expanded_reference_count": 136,
+      "unique_evidence_ids": 77,
+      "missing_ids": [],
+      "malformed_ranges": [],
+      "source_counts": {
+        "Y1FF": 25,
+        "Y1V11": 26,
+        "Y1V11.5": 85
+      }
+    }
+  },
+  "specialist_total": {
+    "expanded_reference_count": 8106,
+    "unique_evidence_ids": 1380,
+    "missing_ids": [],
+    "unreferenced_ledger_ids_count": 39
+  },
+  "high_reuse_evidence": [
+    {
+      "evidence_id": "Y1V11-E138",
+      "specialist_count": 9,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E139",
+      "specialist_count": 9,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E137",
+      "specialist_count": 8,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E140",
+      "specialist_count": 8,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E141",
+      "specialist_count": 8,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E142",
+      "specialist_count": 8,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E143",
+      "specialist_count": 8,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E144",
+      "specialist_count": 8,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E145",
+      "specialist_count": 8,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E006",
+      "specialist_count": 7,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E007",
+      "specialist_count": 7,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E087",
+      "specialist_count": 7,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E090",
+      "specialist_count": 7,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "05",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E091",
+      "specialist_count": 7,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "05",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E092",
+      "specialist_count": 7,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "05",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E093",
+      "specialist_count": 7,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "05",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E043",
+      "specialist_count": 6,
+      "specialists": [
+        "03",
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E058",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E059",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E060",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E061",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E066",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E067",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E068",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E069",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E070",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E071",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E072",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E073",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V06-E039",
+      "specialist_count": 6,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V06-E040",
+      "specialist_count": 6,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E031",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E032",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E130",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E131",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E132",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E133",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E134",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E135",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E136",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E137",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E013",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E014",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E015",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E016",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E017",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E018",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E019",
+      "specialist_count": 6,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E085",
+      "specialist_count": 6,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E086",
+      "specialist_count": 6,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E133",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "06",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E134",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "06",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E135",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "06",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E136",
+      "specialist_count": 6,
+      "specialists": [
+        "04",
+        "06",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E011",
+      "specialist_count": 6,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "06",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E087",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E088",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E089",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E094",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E095",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E104",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E139",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E140",
+      "specialist_count": 6,
+      "specialists": [
+        "02",
+        "04",
+        "08",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E004",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E005",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E012",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E041",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E042",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E044",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E045",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E046",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E047",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E048",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E052",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E062",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E063",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E064",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E065",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E005",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E008",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E011",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E013",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E014",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "06",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E019",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "06",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E020",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "06",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E026",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V05-E048",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "04",
+        "06",
+        "08",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V06-E056",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "04",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E030",
+      "specialist_count": 5,
+      "specialists": [
+        "04",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E058",
+      "specialist_count": 5,
+      "specialists": [
+        "04",
+        "05",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E128",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E138",
+      "specialist_count": 5,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E139",
+      "specialist_count": 5,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E140",
+      "specialist_count": 5,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E141",
+      "specialist_count": 5,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E142",
+      "specialist_count": 5,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E102",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E103",
+      "specialist_count": 5,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E104",
+      "specialist_count": 5,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E053",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "05",
+        "06",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E078",
+      "specialist_count": 5,
+      "specialists": [
+        "03",
+        "06",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E080",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E081",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E083",
+      "specialist_count": 5,
+      "specialists": [
+        "04",
+        "05",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E017",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E018",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E019",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E021",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E022",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E023",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E024",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E084",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E085",
+      "specialist_count": 5,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E100",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E101",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E102",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E103",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E131",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E135",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E136",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E138",
+      "specialist_count": 5,
+      "specialists": [
+        "02",
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E008",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E013",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "06",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E014",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "06",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E025",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E033",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E037",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E039",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E040",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E051",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E053",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E054",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E055",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E074",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E075",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E076",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E077",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E078",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E079",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1FF-E080",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E003",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "04",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E004",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "04",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E006",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E007",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E009",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E010",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "04",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E012",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E018",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E022",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E023",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E024",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E025",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E027",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E028",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V01-E029",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V02-E021",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V02-E025",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "06",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V02-E027",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V02-E030",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V02-E038",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "06",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V03-E011",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V04-E027",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V04-E028",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V04-E034",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V04.5-E051",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V04.5-E058",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V05-E017",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "06",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V05-E018",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "06",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V05-E044",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    {
+      "evidence_id": "Y1V05-E047",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V05-E052",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V05-E053",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V05-E054",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V05-E055",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "06",
+        "08",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V06-E059",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E023",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E024",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E025",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E027",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E028",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E029",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E033",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E040",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E051",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E055",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E056",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E057",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E061",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E062",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E063",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E064",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07-E102",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E042",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E043",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E074",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E075",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E076",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E077",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E078",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E083",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "06",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E099",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V07.5-E100",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E006",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E007",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E008",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E009",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E010",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E011",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E012",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E013",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E015",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E016",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E017",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E018",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E020",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E021",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E023",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E024",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E025",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E096",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E097",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E098",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E099",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E100",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E101",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E102",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E103",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E104",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E107",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E108",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E114",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E115",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E116",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E117",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E121",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E122",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E123",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E124",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E125",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E126",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E127",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V08-E129",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V09-E005",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V09-E006",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V09-E007",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V09-E078",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V09-E079",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "06",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V09-E087",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "04",
+        "05",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V09-E090",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E045",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E047",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E048",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E050",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E051",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E052",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E094",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E095",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E096",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E097",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E098",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E099",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E100",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E101",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "07",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E105",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E109",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E110",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V10-E111",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E034",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E035",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E036",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E037",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E038",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E039",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E040",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E041",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E042",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E043",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E050",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E051",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E052",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E062",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E063",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E064",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E065",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E066",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E071",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E072",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E073",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E077",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E079",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E082",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E084",
+      "specialist_count": 4,
+      "specialists": [
+        "04",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11-E088",
+      "specialist_count": 4,
+      "specialists": [
+        "05",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E012",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E020",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E035",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E036",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E059",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E060",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E061",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E062",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E063",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "04",
+        "05",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E068",
+      "specialist_count": 4,
+      "specialists": [
+        "03",
+        "05",
+        "06",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E086",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E097",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E099",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E105",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "03",
+        "04",
+        "09"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E111",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E112",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E113",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E114",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E115",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E116",
+      "specialist_count": 4,
+      "specialists": [
+        "07",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E120",
+      "specialist_count": 4,
+      "specialists": [
+        "06",
+        "09",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E132",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E133",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E134",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E137",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "08",
+        "09",
+        "10"
+      ]
+    },
+    {
+      "evidence_id": "Y1V11.5-E141",
+      "specialist_count": 4,
+      "specialists": [
+        "02",
+        "04",
+        "09",
+        "10"
+      ]
+    }
+  ]
+}
