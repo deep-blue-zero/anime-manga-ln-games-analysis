@@ -1,6 +1,6 @@
 # Series analysis
 
-Each owner-reviewed series uses one stable slug under `series/<stable-slug>/`. `registry.json` is the machine-readable canonical title, media, materialization, and authority registry.
+Each owner-reviewed series uses one stable slug under `series/<stable-slug>/`. `registry.json` is the machine-readable canonical title, media, materialization, authority, and first-read routing registry. Every record declares either a verified `canonical_entrypoint` or an explicit `canonical_entrypoint_status: MISSING`; missing entrypoints are stop conditions and must never be guessed.
 
 The final G7 materialization and epoch-1 authority scope contain these series roots:
 

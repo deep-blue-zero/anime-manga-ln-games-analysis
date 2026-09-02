@@ -83,6 +83,9 @@ SHA256_RE = re.compile(r"^[0-9a-f]{64}$")
 REPRESENTATION_ID_RE = re.compile(r"^repr-[0-9a-f]{24}$")
 POSITIVE_DECIMAL_RE = re.compile(r"^[1-9][0-9]*$")
 EXCEL_RANGE_RE = re.compile(r"^A1:([A-Z]+)([1-9][0-9]*)$")
+SERIES_REGISTRY_PATH = "series/registry.json"
+SERIES_REGISTRY_SCHEMA = "anime-manga-ln-games-analysis/series-registry/v2"
+SERIES_ENTRYPOINT_STATUSES = {"PRESENT_VERIFIED", "MISSING"}
 DJFW_TSV_WHITESPACE_ATTRIBUTE_RULE = (
     '"studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and '
     'Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/*.tsv" whitespace=-blank-at-eol'
@@ -830,6 +833,141 @@ def _valid_nonempty_string(value: Any) -> bool:
         and "\r" not in value
         and "\n" not in value
     )
+
+
+def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
+    """Validate deterministic first-read routing for every registered series."""
+
+    entry = snapshot.get(SERIES_REGISTRY_PATH)
+    if entry is None or not entry.qualifies_as_evidence:
+        return [f"missing tracked regular series registry: {SERIES_REGISTRY_PATH}"]
+    try:
+        registry = decode_json(entry.data, SERIES_REGISTRY_PATH)
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+    if not isinstance(registry, Mapping):
+        return [f"{SERIES_REGISTRY_PATH} must be a JSON object"]
+
+    errors: list[str] = []
+    if registry.get("schema") != SERIES_REGISTRY_SCHEMA:
+        errors.append(
+            f"{SERIES_REGISTRY_PATH}.schema must equal {SERIES_REGISTRY_SCHEMA!r}"
+        )
+    rows = registry.get("series")
+    if not isinstance(rows, list):
+        errors.append(f"{SERIES_REGISTRY_PATH}.series must be an array")
+        return errors
+    authority = AuthorityGraph(snapshot)
+
+    required = {
+        "series_id",
+        "stable_slug",
+        "repository_path",
+        "canonical_entrypoint",
+        "canonical_entrypoint_status",
+    }
+    seen_ids: dict[str, str] = {}
+    seen_slugs: dict[str, str] = {}
+    seen_entrypoints: dict[str, str] = {}
+    for index, row in enumerate(rows):
+        label = f"{SERIES_REGISTRY_PATH}:series[{index}]"
+        if not isinstance(row, Mapping):
+            errors.append(f"{label} must be an object")
+            continue
+        missing = required - set(row)
+        if missing:
+            errors.append(f"{label} missing required fields: {sorted(missing)}")
+
+        series_id = row.get("series_id")
+        stable_slug = row.get("stable_slug")
+        repository_path = row.get("repository_path")
+        for field, value in (
+            ("series_id", series_id),
+            ("stable_slug", stable_slug),
+            ("repository_path", repository_path),
+        ):
+            if not _valid_nonempty_string(value):
+                errors.append(f"{label}.{field} must be a nonempty single-line string")
+
+        if _valid_nonempty_string(series_id):
+            prior = seen_ids.get(series_id)
+            if prior is not None:
+                errors.append(f"duplicate series_id {series_id!r}: {prior} / {label}")
+            else:
+                seen_ids[series_id] = label
+        if _valid_nonempty_string(stable_slug):
+            prior = seen_slugs.get(stable_slug)
+            if prior is not None:
+                errors.append(f"duplicate stable_slug {stable_slug!r}: {prior} / {label}")
+            else:
+                seen_slugs[stable_slug] = label
+
+        repository_prefix: str | None = None
+        if _valid_nonempty_string(repository_path):
+            if not repository_path.endswith("/"):
+                errors.append(f"{label}.repository_path must end with '/'")
+            else:
+                repository_prefix = repository_path
+                try:
+                    validate_repository_path(repository_path[:-1])
+                except DomainError as exc:
+                    errors.append(f"{label}.repository_path is invalid: {exc}")
+
+        status = row.get("canonical_entrypoint_status")
+        canonical_entrypoint = row.get("canonical_entrypoint")
+        if not isinstance(status, str) or status not in SERIES_ENTRYPOINT_STATUSES:
+            errors.append(
+                f"{label}.canonical_entrypoint_status must be one of "
+                f"{sorted(SERIES_ENTRYPOINT_STATUSES)}"
+            )
+            continue
+        if status == "MISSING":
+            if canonical_entrypoint is not None:
+                errors.append(
+                    f"{label}.canonical_entrypoint must be null when status is MISSING"
+                )
+            continue
+
+        if not _valid_nonempty_string(canonical_entrypoint):
+            errors.append(
+                f"{label}.canonical_entrypoint must be a nonempty single-line string "
+                "when status is PRESENT_VERIFIED"
+            )
+            continue
+        try:
+            validate_repository_path(canonical_entrypoint)
+        except DomainError as exc:
+            errors.append(f"{label}.canonical_entrypoint is invalid: {exc}")
+            continue
+        if PurePosixPath(canonical_entrypoint).suffix.casefold() != ".md":
+            errors.append(f"{label}.canonical_entrypoint must identify a Markdown file")
+        if repository_prefix is not None and not canonical_entrypoint.startswith(
+            repository_prefix
+        ):
+            errors.append(
+                f"{label}.canonical_entrypoint must remain under repository_path"
+            )
+        prior = seen_entrypoints.get(canonical_entrypoint)
+        if prior is not None:
+            errors.append(
+                f"duplicate canonical_entrypoint {canonical_entrypoint!r}: "
+                f"{prior} / {label}"
+            )
+        else:
+            seen_entrypoints[canonical_entrypoint] = label
+        target = snapshot.get(canonical_entrypoint)
+        if target is None or not target.qualifies_as_evidence:
+            errors.append(
+                f"{label}.canonical_entrypoint is not a tracked regular Git blob: "
+                f"{canonical_entrypoint}"
+            )
+        elif not authority.current_eligible(canonical_entrypoint):
+            errors.append(
+                f"{label}.canonical_entrypoint is not current-eligible: "
+                f"{canonical_entrypoint} "
+                f"(classification={authority.classification(canonical_entrypoint)})"
+            )
+    return errors
 
 
 def _validate_crosswalk_record_basics(
@@ -2069,6 +2207,7 @@ def main() -> int:
                 validate_crosswalk_closure(snapshot, baseline_commit=baseline_commit)
             )
             errors.extend(validate_native_sheets(snapshot, not args.defer_schema_engine))
+            errors.extend(validate_series_registry(snapshot))
             errors.extend(validate_current_domain(root, snapshot, not args.defer_schema_engine))
             if not args.defer_schema_engine:
                 generator_snapshot = "commit" if kind == "commit" else kind

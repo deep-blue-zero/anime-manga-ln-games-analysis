@@ -4,7 +4,11 @@ work: NANA
 author: "矢沢あい / Ai Yazawa"
 artifact: 00_README_AND_CORPUS_MAP
 phase: 8
-status: immutable_v1_0_reader_orientation
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+release_status: immutable_v1_0_reader_orientation
 scope: "Japanese tankobon Volumes 1-21 + continuation Chapters 81-84 + NANA 7.8 official paratext"
 primary_language: ja
 primary_fiction_source: "original Japanese manga through Volume 21"

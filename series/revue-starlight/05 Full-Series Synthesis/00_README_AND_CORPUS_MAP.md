@@ -3,7 +3,11 @@ title: "少女☆歌劇 レヴュースタァライト — Definitive Animated-C
 subtitle: "Corpus guide, executive orientation, source policy, and document map"
 version: "1.0"
 date: "2026-08-10"
-status: "Final reader-facing corpus guide"
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+release_status: "Final reader-facing corpus guide"
 primary_corpus:
   - "TV anime Episodes 1–12"
   - "OVA Episodes 1–3"
@@ -602,4 +606,3 @@ The deepest final proposition is not that the stage never ends.
 It is:
 
 > **the performer can survive the curtain.**
-

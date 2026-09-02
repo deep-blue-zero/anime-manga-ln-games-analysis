@@ -1,7 +1,7 @@
 ---
 document_role: chatgpt_authority_bootstrap
 document_status: ACTIVE_STABILIZING
-document_revision: 2.0-authority-epoch-1
+document_revision: 2.1-authority-epoch-1
 schema_version: 1
 repository_provider: GitHub
 provider_confirmed: true
@@ -171,7 +171,7 @@ For any analytical task after activation:
 2. fetch and validate live `governance/AUTHORITY_SCOPE.json`;
 3. read `governance/MANGA_ANIME_CORPUS_INDEX.md`;
 4. resolve the project through `series/registry.json` or the approved non-series registry;
-5. read the exact project-local canonical entrypoint named by the registry;
+5. require `canonical_entrypoint_status: PRESENT_VERIFIED`, then read the exact project-local `canonical_entrypoint` named by the registry; an explicit `MISSING` status is a stop condition, not permission to infer a substitute;
 6. read only the analysis, evidence, or Drive-native references needed for the task;
 7. consult `crosswalk/drive-to-git.jsonl` when source identity or historical provenance matters.
 
@@ -195,20 +195,47 @@ Conversation memory, search-result ranking, file recency, and filename similarit
 
 ## 8. Git write protocol
 
-When a current user request authorizes a Git-primary change:
+When a current user request authorizes a Git-primary analytical change, the common workflow is:
 
-1. verify live authority and repository access;
-2. read the corpus index, registry, and project entrypoint;
-3. inspect working-tree and branch state;
-4. create or use an approved feature branch;
-5. edit only the exact authorized paths;
-6. preserve existing project architecture and provenance;
-7. update affected project indexes, registry, crosswalk, or manifests in the same change when required;
-8. validate formatting, links, structured data, and authority records;
-9. stage explicit paths only;
-10. review the exact diff;
-11. open a pull request and require configured checks;
-12. merge only after verification.
+1. choose the approved source object available on the execution platform: primary/source-domain material in Drive, or approved primary-source material on local disk;
+2. record the source boundary and provenance needed by the existing project architecture;
+3. produce or update the analytical document in its canonical Git project path;
+4. publish the analytical change through one of the two execution profiles below.
+
+Drive and local disk are alternative source/evidence surfaces. Selecting either one does not make it the analytical write authority, and raw primary sources or extraction outputs must not be added to Git unless a separate authority record and user instruction expressly permit it.
+
+Before either execution profile:
+
+1. verify the complete live authority predicate and authenticated repository access;
+2. read the corpus index, registry, and exact verified project entrypoint;
+3. identify the exact authorized paths and every required same-change index, registry, crosswalk, or manifest update;
+4. preserve the established project architecture, source boundary, authority metadata, and provenance.
+
+### 8.1 GitHub API or connector mode (ChatGPT)
+
+1. fetch the exact target-branch head and confirm it is the validated base commit;
+2. fetch the current blob SHA for every existing path to be changed;
+3. confirm that the provider will record an exact owner author/committer tuple from `governance/repository-controls/tracked-file-policy.json`; never approve a wildcard identity pattern;
+4. create an approved feature branch from that exact base commit;
+5. write only the authorized paths, using current blob SHAs for replacement safety and an atomic multi-file tree/commit when the connector supports it;
+6. fetch the resulting commit and compare the feature branch against the validated base;
+7. validate formatting, links, structured data, authority records, and commit identity; inspect the exact changed-file set and diff, and correct only on the feature branch;
+8. open a pull request, verify configured checks against the PR head, and confirm the compared diff is unchanged;
+9. merge only when the current request authorizes it and all verification passes.
+
+This profile has no working tree or staging area. Exact base refs, blob identities, authorized path lists, commit comparisons, and PR diffs provide the equivalent safety controls.
+
+### 8.2 Local clone mode (Codex)
+
+1. fetch the target branch and inspect `git status`, the current branch, upstream tracking, and the exact base commit; stop on unrelated or ambiguous worktree changes;
+2. create or use an approved feature branch from the validated base commit;
+3. edit only the authorized paths;
+4. run the applicable repository validation and tests;
+5. stage explicit paths with `git add -- <path>...`; never use `git add .`, a directory-wide add, or wildcard staging;
+6. inspect `git diff --cached --check`, the staged changed-file list, and the complete staged diff;
+7. commit and push only the reviewed feature branch;
+8. open a pull request, verify configured checks against the PR head, and confirm the remote PR diff matches the reviewed staged change;
+9. merge only when the current request authorizes it and all verification passes.
 
 Do not write directly to `main`, force-push, rewrite history, delete protected branches/tags, or broaden repository access without separate authorization.
 

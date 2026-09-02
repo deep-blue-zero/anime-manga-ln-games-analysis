@@ -598,6 +598,10 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             REPOSITORY_ROOT
             / "governance/repository-controls/public-activation-bindings.json"
         )
+        cls.tracked_file_policy = load_json(
+            REPOSITORY_ROOT
+            / "governance/repository-controls/tracked-file-policy.json"
+        )
         state_path = REPOSITORY_ROOT / "governance/AUTHORITY_STATE.yaml"
         cls.state = _restricted_yaml_load(
             state_path.read_text(encoding="utf-8"),
@@ -693,6 +697,15 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                     self.assertIn(phrase, text)
             self.assertNotIn("full corpus is complete", text.casefold())
 
+        routing = (
+            REPOSITORY_ROOT / "governance/CHATGPT_AUTHORITY_AND_ROUTING.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("GitHub API or connector mode (ChatGPT)", routing)
+        self.assertIn("Local clone mode (Codex)", routing)
+        self.assertIn("primary/source-domain material in Drive", routing)
+        self.assertIn("approved primary-source material on local disk", routing)
+        self.assertIn("git add -- <path>...", routing)
+
     def test_public_activation_evidence_tuple_is_exact(self) -> None:
         publication = self.binding["repository_publication_activation"]
         self.assertEqual(
@@ -735,7 +748,28 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             self.binding["license_status"],
             "UNLICENSED_PENDING_OWNER_DECISION",
         )
+
+    def test_local_and_github_connector_owner_identities_are_exact(self) -> None:
+        self.assertEqual(
+            self.tracked_file_policy["allowed_commit_identities"],
+            [
+                {
+                    "name": "deep-blue-zero",
+                    "email": "50891441+peipw@users.noreply.github.com",
+                },
+                {
+                    "name": "deep-blue-zero",
+                    "email": "50891441+deep-blue-zero@users.noreply.github.com",
+                },
+            ],
+        )
+
+    def test_series_registry_is_unique_and_routes_fail_closed(self) -> None:
         series_registry = load_json(REPOSITORY_ROOT / "series/registry.json")
+        self.assertEqual(
+            series_registry["schema"],
+            "anime-manga-ln-games-analysis/series-registry/v2",
+        )
         self.assertEqual(series_registry["status"], "GIT_PRIMARY_AUTHORITY_EPOCH_1_STABILIZING")
         series_ids = [row["series_id"] for row in series_registry["series"]]
         self.assertEqual(len(series_ids), len(set(series_ids)))
@@ -765,6 +799,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "canonical_title": "IDOLY PRIDE",
                 "media": ["MOBILE_GAME"],
                 "repository_path": "series/idoly-pride/",
+                "canonical_entrypoint": "series/idoly-pride/V2 Analysis/CURRENT_STATE_AND_CORPUS_MAP.md",
+                "canonical_entrypoint_status": "PRESENT_VERIFIED",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "PARTIAL_G4_P02_SINGLE_LEDGER",
                 "authority_status": "GIT_PRIMARY",
@@ -778,6 +814,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "canonical_title": "Maebashi Witches",
                 "media": ["ANIME"],
                 "repository_path": "series/maebashi-witches/",
+                "canonical_entrypoint": "series/maebashi-witches/V1 Analysis/00_README_AND_CORPUS_MAP.md",
+                "canonical_entrypoint_status": "PRESENT_VERIFIED",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T01_V1_ANALYSIS",
                 "authority_status": "GIT_PRIMARY",
@@ -791,6 +829,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "canonical_title": "Mass Effect",
                 "media": ["GAME"],
                 "repository_path": "studies/comparative-media/Mass Effect/",
+                "canonical_entrypoint": "studies/comparative-media/Mass Effect/CURRENT_STATE_AND_CORPUS_MAP.md",
+                "canonical_entrypoint_status": "PRESENT_VERIFIED",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
                 "authority_status": "GIT_PRIMARY",
@@ -804,6 +844,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "canonical_title": "Genshin Impact",
                 "media": ["GAME"],
                 "repository_path": "series/genshin-impact/",
+                "canonical_entrypoint": "series/genshin-impact/CURRENT_STATE_AND_CORPUS_MAP.md",
+                "canonical_entrypoint_status": "PRESENT_VERIFIED",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T03_FURINA_MONOGRAPH_V1_COMPLETE",
                 "authority_status": "GIT_PRIMARY",
@@ -817,6 +859,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)",
                 "media": ["MOBILE_GAME"],
                 "repository_path": "series/the-idolmaster-cinderella-girls-mobile-games/",
+                "canonical_entrypoint": "series/the-idolmaster-cinderella-girls-mobile-games/CURRENT_STATE_AND_CORPUS_MAP.md",
+                "canonical_entrypoint_status": "PRESENT_VERIFIED",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T04_MOBILE_GAME_CHARACTER_MONOGRAPHS_AND_AUDITS",
                 "authority_status": "GIT_PRIMARY",
@@ -830,6 +874,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "canonical_title": "BLUE ARCHIVE",
                 "media": ["MOBILE_GAME"],
                 "repository_path": "series/blue-archive/",
+                "canonical_entrypoint": "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md",
+                "canonical_entrypoint_status": "PRESENT_VERIFIED",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T05_BLUE_ARCHIVE",
                 "authority_status": "GIT_PRIMARY",
@@ -843,6 +889,8 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "canonical_title": "YOUJO SENKI",
                 "media": ["LIGHT_NOVEL"],
                 "repository_path": "series/youjo-senki/",
+                "canonical_entrypoint": "series/youjo-senki/CURRENT_STATE_AND_CORPUS_MAP.md",
+                "canonical_entrypoint_status": "PRESENT_VERIFIED",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T06_V2_ANALYTICAL_CORPUS",
                 "authority_status": "GIT_PRIMARY",
@@ -856,11 +904,26 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                 "canonical_title": "Legend of the Galactic Heroes",
                 "media": ["LIGHT_NOVEL"],
                 "repository_path": "series/legend-of-the-galactic-heroes/",
+                "canonical_entrypoint": "series/legend-of-the-galactic-heroes/05 Final Release/00_README.md",
+                "canonical_entrypoint_status": "PRESENT_VERIFIED",
                 "materialization_status": "PRESENT_REVIEWED",
                 "migration_scope": "G5_T07_LOGH_FULL_PREFIX",
                 "authority_status": "GIT_PRIMARY",
             },
         )
+        for row in series_registry["series"]:
+            with self.subTest(series_id=row["series_id"]):
+                self.assertIn(
+                    row["canonical_entrypoint_status"],
+                    {"PRESENT_VERIFIED", "MISSING"},
+                )
+                if row["canonical_entrypoint_status"] == "PRESENT_VERIFIED":
+                    self.assertIsInstance(row["canonical_entrypoint"], str)
+                    self.assertTrue(
+                        (REPOSITORY_ROOT / row["canonical_entrypoint"]).is_file()
+                    )
+                else:
+                    self.assertIsNone(row["canonical_entrypoint"])
         character_rows = [
             json.loads(line)
             for line in (REPOSITORY_ROOT / "characters/registry.jsonl")

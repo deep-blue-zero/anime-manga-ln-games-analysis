@@ -2,6 +2,8 @@
 artifact_type: "corpus_map"
 generation: "V1"
 status: "canonical"
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
