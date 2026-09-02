@@ -287,7 +287,12 @@ class PhaseValidationTests(unittest.TestCase):
         )
 
     def test_p03_crosswalk_three_leg_closure_and_snapshot_hashes_pass(self) -> None:
-        self.assertEqual(validate_crosswalk_closure(self.p03_snapshot()), [])
+        snapshot = self.p03_snapshot()
+        baseline = active_migration_baseline_commit(snapshot)
+        self.assertEqual(
+            validate_crosswalk_closure(snapshot, baseline_commit=baseline),
+            [],
+        )
 
     def test_p03_crosswalk_rejects_a_missing_plan_leg(self) -> None:
         snapshot = self.p03_snapshot()
