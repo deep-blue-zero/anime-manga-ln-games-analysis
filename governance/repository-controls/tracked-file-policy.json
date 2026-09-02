@@ -176,6 +176,37 @@
     {
       "name": "deep-blue-zero",
       "email": "50891441+deep-blue-zero@users.noreply.github.com"
+    },
+    {
+      "name": "GitHub",
+      "email": "noreply@github.com"
     }
+  ],
+  "allowed_author_identities": [
+    {
+      "name": "deep-blue-zero",
+      "email": "50891441+peipw@users.noreply.github.com"
+    },
+    {
+      "name": "deep-blue-zero",
+      "email": "50891441+deep-blue-zero@users.noreply.github.com"
+    }
+  ],
+  "allowed_committer_identities": [
+    {
+      "name": "deep-blue-zero",
+      "email": "50891441+peipw@users.noreply.github.com"
+    },
+    {
+      "name": "deep-blue-zero",
+      "email": "50891441+deep-blue-zero@users.noreply.github.com"
+    },
+    {
+      "name": "GitHub",
+      "email": "noreply@github.com"
+    }
+  ],
+  "allowed_missing_canonical_entrypoints": [
+    "shuukura"
   ]
 }

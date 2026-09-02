@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - "codex/**"
+      - "chatgpt/**"
   schedule:
     - cron: "17 6 * * 0"
   workflow_dispatch:
@@ -46,6 +47,94 @@ jobs:
           set -euo pipefail
           python tools/validate_repository.py --phase current --snapshot commit --commit "${GITHUB_SHA}" --repo .
           python tools/generate_character_index.py --check --snapshot commit --commit "${GITHUB_SHA}" --repo .
+          python - <<'PY'
+          import json
+          import subprocess
+          from pathlib import Path
+
+          policy_path = Path("governance/repository-controls/tracked-file-policy.json")
+          registry_path = Path("series/registry.json")
+          policy = json.loads(policy_path.read_text(encoding="utf-8"))
+          registry = json.loads(registry_path.read_text(encoding="utf-8"))
+
+          def identities(field):
+              rows = policy.get(field)
+              if not isinstance(rows, list) or not rows:
+                  raise SystemExit(f"FAIL: {field} must be a nonempty list")
+              parsed = set()
+              for row in rows:
+                  if not isinstance(row, dict) or set(row) != {"name", "email"}:
+                      raise SystemExit(f"FAIL: malformed {field} entry: {row!r}")
+                  name = row["name"]
+                  email = row["email"]
+                  if not isinstance(name, str) or not isinstance(email, str) or not name or not email:
+                      raise SystemExit(f"FAIL: malformed {field} identity: {row!r}")
+                  parsed.add((name, email))
+              if len(parsed) != len(rows):
+                  raise SystemExit(f"FAIL: duplicate identity in {field}")
+              return parsed
+
+          allowed_authors = identities("allowed_author_identities")
+          allowed_committers = identities("allowed_committer_identities")
+          compatibility = identities("allowed_commit_identities")
+          github_server = ("GitHub", "noreply@github.com")
+
+          if github_server in allowed_authors:
+              raise SystemExit("FAIL: GitHub server identity must never be an allowed author")
+          if github_server not in allowed_committers:
+              raise SystemExit("FAIL: GitHub server identity must be an allowed committer")
+          if compatibility != allowed_authors | allowed_committers:
+              raise SystemExit(
+                  "FAIL: allowed_commit_identities must equal the compatibility union of "
+                  "allowed_author_identities and allowed_committer_identities"
+              )
+
+          raw = subprocess.check_output(
+              ["git", "log", "HEAD", "--format=%an%x1f%ae%x1f%cn%x1f%ce%x1e"],
+              text=True,
+          )
+          for record in raw.split("\x1e"):
+              record = record.strip("\r\n")
+              if not record:
+                  continue
+              fields = record.split("\x1f")
+              if len(fields) != 4:
+                  raise SystemExit("FAIL: unable to parse a Git author/committer identity")
+              author = (fields[0], fields[1])
+              committer = (fields[2], fields[3])
+              if author not in allowed_authors:
+                  raise SystemExit(
+                      f"FAIL: disallowed Git author identity: {author[0]} <{author[1]}>"
+                  )
+              if committer not in allowed_committers:
+                  raise SystemExit(
+                      f"FAIL: disallowed Git committer identity: {committer[0]} <{committer[1]}>"
+                  )
+
+          allowed_missing = policy.get("allowed_missing_canonical_entrypoints")
+          if (
+              not isinstance(allowed_missing, list)
+              or any(not isinstance(value, str) or not value for value in allowed_missing)
+              or len(allowed_missing) != len(set(allowed_missing))
+          ):
+              raise SystemExit(
+                  "FAIL: allowed_missing_canonical_entrypoints must be a unique string list"
+              )
+          allowed_missing_set = set(allowed_missing)
+          actual_missing = {
+              row.get("series_id")
+              for row in registry.get("series", [])
+              if isinstance(row, dict)
+              and row.get("canonical_entrypoint_status") == "MISSING"
+          }
+          if None in actual_missing:
+              raise SystemExit("FAIL: MISSING series route without series_id")
+          if actual_missing != allowed_missing_set:
+              raise SystemExit(
+                  "FAIL: canonical-entrypoint MISSING set differs from reviewed allowlist; "
+                  f"allowed={sorted(allowed_missing_set)}, actual={sorted(actual_missing)}"
+              )
+          PY
           mkdir -p "${MANGA_ANIME_TEST_TMP}"
           python -m unittest discover -s tools/tests -p "test_*.py"
           # Markdown uses two trailing spaces as an intentional hard line break.
