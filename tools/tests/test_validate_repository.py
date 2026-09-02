@@ -168,7 +168,7 @@ class PhaseValidationTests(unittest.TestCase):
                 self.assertFalse(by_path[path]["allow_carriage_returns"])
                 self.assertEqual(
                     by_path[path]["review_decision"],
-                    "OWNER_AUTHORIZED_G7_COTE_DELTA_REPAIR_PROVENANCE_CLOSURE",
+                    "OWNER_AUTHORIZED_G7_AGGREGATE_PROVENANCE_CLOSURE",
                 )
 
     def test_production_furina_commonmark_exception_is_exactly_bound(self) -> None:

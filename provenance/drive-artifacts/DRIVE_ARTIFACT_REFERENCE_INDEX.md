@@ -4,7 +4,17 @@ This index records source identifiers, verified Git-candidate derivatives, and s
 
 ## Final aggregate boundary
 
-The approved materialization through the G7 COTE delta contains 2,814 Git representations covering 2,799 unique migrated source artifacts. The local row-level exclusion review contains 2,661 `REFERENCE_DRIVE`, 84 `OMIT_EMPTY`, and 7 `VERIFIED_EXCLUDED` records and has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8`. The three tracked crosswalk ledgers provide the public-safe source-to-Git closure; excluded payload bytes remain outside the repository.
+The approved materialization through the G7 COTE and Shokugeki classification repairs contains 2,817 Git representations covering 2,802 unique migrated source artifacts. The sealed local row-level exclusion review contains 2,661 `REFERENCE_DRIVE`, 84 `OMIT_EMPTY`, and 7 `VERIFIED_EXCLUDED` records and has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8`. The G7 Shokugeki overlay reclassifies three human-authored analytical Markdown false positives to `MIGRATE_TEXT`, yielding an effective `REFERENCE_DRIVE` count of 2,658. The three tracked crosswalk ledgers provide the public-safe source-to-Git closure; excluded payload bytes remain outside the repository.
+
+## G7 Shokugeki analytical-classification repair
+
+These three files were incorrectly classified as generated output because their names contained `MODEL` or `AUDIT`. Each is human-authored, reviewable analytical Markdown below 1 MiB. The immutable acquisition tuple and two convergent inventory passes agree on identity, revision, size, and source hash; the repository derivative applies only the established authority-front-matter and CommonMark hard-break normalization.
+
+| Drive file ID | Repository artifact | Source SHA-256 | Candidate SHA-256 |
+|---|---|---|---|
+| `1SydrqDMZFoXyU0p6QAI_JqLcflAOjSoL` | [SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md](../../series/shokugeki-no-soma/03%20Longitudinal%20Ledgers/SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md) | `31bbd94ab47497c2e9d7d7aba7334311cbf549bc55ad5e6598c05edbfd784730` | `c3f5a6bb85aabaa750a645c11690dbf8b92d09260131fdd9dd8fc6897a8afc14` |
+| `1fy19pvClZ6-HKlpxF4-ozgGBH8fo0JCT` | [SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md](../../series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md) | `26a018568317b4c2ad5b25430310a7a463e43248f78b084612cdb47f4f7acf23` | `2701eb69efe2558ce01c01c30f38441cfd87a155c72781a2420f3e824e023c42` |
+| `1My5KOqCG2_4lWkZZOPAxVP_YiwCyQkfu` | [SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md](../../series/shokugeki-no-soma/05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md) | `6cb2d830c6352259727231c0c65779bea6a5cba79a87eadb0e19b262f5cadf50` | `2ddd9f00268401baadf5ffc95b0b45967fb26caf47d71ee22f216bd49bec9612` |
 
 ## U149 first tranche
 

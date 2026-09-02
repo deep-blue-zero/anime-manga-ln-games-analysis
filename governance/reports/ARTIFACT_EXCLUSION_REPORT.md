@@ -8,11 +8,21 @@ This report summarizes the complete approved G5 migration boundary. The authorit
 
 | Terminal action | Records | Git treatment |
 |---|---:|---|
-| `REFERENCE_DRIVE` | 2,661 | No payload committed; public-safe provenance and hashes only where needed |
+| `REFERENCE_DRIVE` | 2,658 effective | No payload committed; public-safe provenance and hashes only where needed |
 | `OMIT_EMPTY` | 84 | Empty structural source omitted |
 | `VERIFIED_EXCLUDED` | 7 | No payload committed after review |
 
-The complete 2,752-row TSV has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8`. The aggregate reconciliation receipt has SHA-256 `c262bf5e0569c6bea571d08dae170af4bc5bcf268a340e5911fd7bd3d9db8f6f`. Binary archives, source media, scans, large generated corpora, redundant release bundles, and native Office/PDF originals with sufficient text derivatives remain outside Git unless explicitly named by a future exception.
+The complete sealed 2,752-row TSV has SHA-256 `8462bce2293aa06ee2ed92678272fff802c3e40fb1870d18a71691bcaac03ab8` and records 2,661 original `REFERENCE_DRIVE` dispositions. The G7 Shokugeki classification-repair overlay promotes three human-authored analytical Markdown false positives to `MIGRATE_TEXT`, yielding the 2,658 effective count above without mutating the sealed base review. The aggregate reconciliation receipt has SHA-256 `c262bf5e0569c6bea571d08dae170af4bc5bcf268a340e5911fd7bd3d9db8f6f`. Binary archives, source media, scans, large generated corpora, redundant release bundles, and native Office/PDF originals with sufficient text derivatives remain outside Git unless explicitly named by a future exception.
+
+## G7 Shokugeki analytical-classification repair
+
+| Artifact | Drive file ID | Bytes | Source SHA-256 | Corrected disposition |
+|---|---|---:|---|---|
+| `SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md` | `1SydrqDMZFoXyU0p6QAI_JqLcflAOjSoL` | 65,510 | `31bbd94ab47497c2e9d7d7aba7334311cbf549bc55ad5e6598c05edbfd784730` | `MIGRATE_TEXT` |
+| `SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md` | `1fy19pvClZ6-HKlpxF4-ozgGBH8fo0JCT` | 73,516 | `26a018568317b4c2ad5b25430310a7a463e43248f78b084612cdb47f4f7acf23` | `MIGRATE_TEXT` |
+| `SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md` | `1My5KOqCG2_4lWkZZOPAxVP_YiwCyQkfu` | 57,410 | `6cb2d830c6352259727231c0c65779bea6a5cba79a87eadb0e19b262f5cadf50` | `MIGRATE_TEXT` |
+
+This repair introduces no binary, LFS, large-text, or rights exception. The false positive arose from filename tokens (`MODEL`, `AUDIT`), not from the files' content class.
 
 ## U149 tranche
 

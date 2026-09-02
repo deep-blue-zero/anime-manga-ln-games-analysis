@@ -521,7 +521,7 @@ The sequential sampling phase is complete.
 
 Next create:
 
-1. [`04 Final Character Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)
-2. [`05 Validation and Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)
+1. [`04 Final Character Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md)
+2. [`05 Validation and Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md)
 
 The final model should synthesize rather than simply concatenate the eight readings. The validation audit should preserve the two holdout scorecards, document coverage gaps, distinguish construction-derived claims from holdout-derived refinements, and identify any claims that remain OPEN despite zero broad holdout misses.

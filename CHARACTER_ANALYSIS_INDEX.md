@@ -702,3 +702,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`yuina-role-analysis` — Character-role analysis](series/maebashi-witches/V1%20Analysis/04%20Character%20and%20Specialist%20Analysis/MAEBASHI_YUINA_CHARACTER_ROLE_ANALYSIS.md)
   - [`yuina-sakuta-comparison` — Yuina × Sakuta Azusagawa — Rascal Does Not Dream](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
+
+### Yukihira Soma
+
+- Entity ID: `shokugeki-no-soma:yukihira-soma`
+- Entity aliases:
+  - Soma Yukihira (en, ALTERNATIVE)
+  - 幸平創真 (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Shokugeki no Soma manga
+
+- Analysis subject ID: `shokugeki-no-soma:yukihira-soma@manga`
+- Series: `shokugeki-no-soma`
+- Continuity: `shokugeki-no-soma-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `soma-sampled-manga-corpus`: MANGA VOLUME V01, V03, V08, V13, V19, V25, V30, V36; continuity `shokugeki-no-soma-manga`
+- Reviewed current evidence:
+  - [`soma-behavioral-model-ledger` — Yukihira Soma behavioral-model ledger](series/shokugeki-no-soma/03%20Longitudinal%20Ledgers/SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md) — **active provisional authority**
+  - [`soma-final-character-model` — Yukihira Soma final character model](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md)
+  - [`soma-japanese-voice-ledger` — Yukihira Soma Japanese voice ledger](series/shokugeki-no-soma/03%20Longitudinal%20Ledgers/SHOKUGEKI_SOMA_JAPANESE_VOICE_LEDGER.md) — **active provisional authority**
+  - [`soma-model-validation-audit` — Yukihira Soma character-model validation audit](series/shokugeki-no-soma/05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md)

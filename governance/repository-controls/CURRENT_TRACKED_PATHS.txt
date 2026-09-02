@@ -2225,9 +2225,12 @@ series/shokugeki-no-soma/03 Longitudinal Ledgers/SHOKUGEKI_CULINARY_IDEOLOGY_CRA
 series/shokugeki-no-soma/03 Longitudinal Ledgers/SHOKUGEKI_ENSEMBLE_JAPANESE_VOICE_LEDGER.md
 series/shokugeki-no-soma/03 Longitudinal Ledgers/SHOKUGEKI_INSTITUTION_POWER_AND_LEGITIMACY_LEDGER.md
 series/shokugeki-no-soma/03 Longitudinal Ledgers/SHOKUGEKI_RELATIONSHIP_DYNAMICS_LEDGER.md
+series/shokugeki-no-soma/03 Longitudinal Ledgers/SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md
 series/shokugeki-no-soma/03 Longitudinal Ledgers/SHOKUGEKI_SOMA_JAPANESE_VOICE_LEDGER.md
 series/shokugeki-no-soma/03 Longitudinal Ledgers/SHOKUGEKI_SOMA_RELATIONSHIP_REGISTER_MATRIX.md
 series/shokugeki-no-soma/03 Longitudinal Ledgers/SHOKUGEKI_VISUAL_FOOD_DRAMATURGY_AND_BODY_COMEDY_LEDGER.md
+series/shokugeki-no-soma/04 Final Character Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md
+series/shokugeki-no-soma/05 Validation and Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md
 series/shokugeki-no-soma/06 Evidence and Indexes/SHOKUGEKI_V1_TO_V2_CROSSWALK.md
 series/shokugeki-no-soma/CURRENT_STATE_AND_CORPUS_MAP.md
 series/shuukura/90 Legacy and Superseded/V1 Historical Analysis/00_README_AND_CORPUS_MAP.md

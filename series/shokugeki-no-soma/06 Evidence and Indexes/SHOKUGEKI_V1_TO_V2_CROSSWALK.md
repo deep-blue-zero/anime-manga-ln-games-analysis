@@ -32,8 +32,8 @@ It routes each V1 artifact to its continuing responsibility and records later `P
 | V1 Soma Japanese voice ledger | cumulative sampled voice model | frozen V1 evidence/provenance; V2 uses ensemble voice ledger | PRESERVE / FREEZE |
 | V1 Soma behavioral model ledger | cumulative sampled conditional model and prediction freezes | frozen V1 evidence/provenance; V2 uses ensemble character-state ledger | PRESERVE / FREEZE |
 | V1 Soma relationship/register matrix | sampled interlocutor-specific Soma model | frozen V1 evidence/provenance; V2 uses relationship ledger | PRESERVE / FREEZE |
-| [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md) | mature sampled Soma reconstruction | preferred completed Soma model until audited V2 full-series Soma model exists | PRESERVE / BOUNDED CURRENT AUTHORITY |
-| [`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md) | holdout scorecard and methodological audit | immutable authority for V1 predictive warrant and limitations | PRESERVE / IMMUTABLE |
+| [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md) | mature sampled Soma reconstruction | preferred completed Soma model until audited V2 full-series Soma model exists | PRESERVE / BOUNDED CURRENT AUTHORITY |
+| [`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md) | holdout scorecard and methodological audit | immutable authority for V1 predictive warrant and limitations | PRESERVE / IMMUTABLE |
 
 ## Overlap-volume rule
 

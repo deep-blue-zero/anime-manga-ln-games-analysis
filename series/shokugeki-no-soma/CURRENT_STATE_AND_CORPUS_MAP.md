@@ -71,10 +71,10 @@ The completed V1 pass remains intact and frozen.
 - `00 Frameworks and Methods/SHOKUGEKI_SOMA_SYNTHESIS_ARCHITECTURE.md` — canonical for the V1 sampled experiment only
 - eight `SHOKUGEKI_VXX_SOMA_CHARACTER_READING.md` artifacts — frozen sampled publication-boundary evidence
 - `03 Longitudinal Ledgers/SHOKUGEKI_SOMA_JAPANESE_VOICE_LEDGER.md` — frozen V1 cumulative sampled evidence
-- [`SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md`](../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md) — frozen V1 cumulative model/prediction provenance
+- [`SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md`](03%20Longitudinal%20Ledgers/SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md) — frozen V1 cumulative model/prediction provenance
 - `03 Longitudinal Ledgers/SHOKUGEKI_SOMA_RELATIONSHIP_REGISTER_MATRIX.md` — frozen V1 relationship/register evidence
-- [`04 Final Character Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md) — **current best completed Soma reconstruction**, bounded to the eight sampled volumes
-- [`05 Validation and Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md) — **immutable authority for V1 holdout performance, predictive warrant, and limitations**
+- [`04 Final Character Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md) — **current best completed Soma reconstruction**, bounded to the eight sampled volumes
+- [`05 Validation and Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md) — **immutable authority for V1 holdout performance, predictive warrant, and limitations**
 
 The V1 audit records V30 at 9 CONFIRM / 1 PARTIAL / 0 MISS / 0 UNTESTED and V36 at 9 CONFIRM / 0 PARTIAL / 0 MISS / 1 UNTESTED. V2 may revise the current generalization of Soma after reading all 36 volumes, but it must not retroactively alter those old scorecards.
 
@@ -177,14 +177,14 @@ Use the latest relevant `SHOKUGEKI_VXX_DEEP_READING.md` artifact for local volum
 
 Until a V2 full-series Soma model is explicitly promoted:
 
-1. [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)
+1. [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md)
 2. relevant frozen V1 ledger
 3. relevant sampled V1 character reading
 4. Japanese CBZ
 
 ### V1 predictive-warrant question
 
-Use [`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md) first.
+Use [`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md) first.
 
 ### Exact wording/visual evidence
 

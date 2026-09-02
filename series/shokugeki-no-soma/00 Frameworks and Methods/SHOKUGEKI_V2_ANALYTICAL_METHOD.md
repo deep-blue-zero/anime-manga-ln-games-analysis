@@ -417,7 +417,7 @@ The completed V1 project is a methodological asset and a contamination risk if u
 Rules:
 
 1. Do not edit the V1 sequential readings, final model, validation audit, or three V1 ledgers for V2 findings.
-2. [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md) remains the best completed Soma reconstruction until a full-series V2 Soma model is ready.
+2. [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md) remains the best completed Soma reconstruction until a full-series V2 Soma model is ready.
 3. At V01, V03, V08, V13, V19, V25, V30, and V36, perform the V2 deep reading first. Only afterward compare the corresponding V1 character reading.
 4. Route differences through `../06 Evidence and Indexes/SHOKUGEKI_V1_TO_V2_CROSSWALK.md` and later claim-revision infrastructure.
 5. Preserve the V25/V30/V36 prediction freezes and validation audit exactly; V2 cannot retroactively improve the old experiment.

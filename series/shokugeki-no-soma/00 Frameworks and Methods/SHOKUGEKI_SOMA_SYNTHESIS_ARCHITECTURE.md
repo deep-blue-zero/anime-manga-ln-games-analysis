@@ -256,8 +256,8 @@ Test endpoint stability and identify genuine late-series development.
 
 Complete:
 
-- [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)
-- [`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)
+- [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md)
+- [`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md)
 
 Update corpus map to mark the sampled character-model pass complete.
 
@@ -362,7 +362,7 @@ Examples:
 
 - `../02 Sequential Character Readings/SHOKUGEKI_V08_SOMA_CHARACTER_READING.md`
 - `../03 Longitudinal Ledgers/SHOKUGEKI_SOMA_JAPANESE_VOICE_LEDGER.md`
-- [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)
+- [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md)
 
 Every new Markdown analytical artifact should normally include YAML fields for:
 

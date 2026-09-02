@@ -54,8 +54,8 @@ The following remain canonical **within the scope of the completed V1 Soma sampl
 - `SHOKUGEKI_SOMA_SYNTHESIS_ARCHITECTURE.md`;
 - eight `SHOKUGEKI_VXX_SOMA_CHARACTER_READING.md` artifacts;
 - three V1 Soma longitudinal ledgers;
-- [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md);
-- [`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md).
+- [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md);
+- [`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md).
 
 They do not govern how new V2 volumes are read.
 

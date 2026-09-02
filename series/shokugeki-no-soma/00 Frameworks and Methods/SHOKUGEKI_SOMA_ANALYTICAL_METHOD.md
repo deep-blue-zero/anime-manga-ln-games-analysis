@@ -638,7 +638,7 @@ Track:
 
 Canonical future filename:
 
-[`SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)
+[`SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md`](../03%20Longitudinal%20Ledgers/SHOKUGEKI_SOMA_BEHAVIORAL_MODEL_LEDGER.md)
 
 Preferred claim schema:
 
@@ -657,7 +657,7 @@ This matrix records how Soma changes by interlocutor without assuming that every
 
 Canonical future filename:
 
-[`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)
+[`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md)
 
 The final model should be organized for reconstruction use.
 
@@ -692,7 +692,7 @@ Good reconstruction depends as much on ruling out implausible behavior as on pro
 
 Canonical future filename:
 
-[`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md)
+[`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](../05%20Validation%20and%20Audit/SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md)
 
 The audit should report:
 

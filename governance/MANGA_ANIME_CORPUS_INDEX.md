@@ -1,6 +1,6 @@
 # Manga and Anime Corpus Index
 
-> Repository state: public, owner-maintained, and materialized through the approved G7 COTE delta-repair boundary. The candidate contains 2,814 Drive-derived representations across 37 series roots and two study roots. Final aggregate validation and G8 analytical-authority activation are separate controls.
+> Repository state: public, owner-maintained, and materialized through the G7 COTE and Shokugeki classification-repair boundary. The candidate contains 2,817 Drive-derived representations across 37 series roots and two study roots. Final aggregate validation and G8 analytical-authority activation are separate controls.
 >
 > Analytical authority: Google Drive until a separately approved and verified G8 cutover. Git content remains a nonauthoritative migration candidate.
 
@@ -59,4 +59,4 @@ Use [`CHARACTER_ANALYSIS_INDEX.md`](../CHARACTER_ANALYSIS_INDEX.md) for reviewed
 
 ## Reference-only and excluded artifacts
 
-The complete local review contains 2,661 `REFERENCE_DRIVE`, 84 `OMIT_EMPTY`, and 7 `VERIFIED_EXCLUDED` records. Git retains only public-safe hashes, provenance, and policy summaries. See the [Artifact Exclusion Report](reports/ARTIFACT_EXCLUSION_REPORT.md) and [Drive Artifact Reference Index](../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md).
+The frozen local review contains 2,661 `REFERENCE_DRIVE`, 84 `OMIT_EMPTY`, and 7 `VERIFIED_EXCLUDED` records. A G7 classification-repair overlay reclassifies three human-authored Shokugeki analytical Markdown artifacts from `REFERENCE_DRIVE` to `MIGRATE_TEXT`, making the effective `REFERENCE_DRIVE` count 2,658 without altering the sealed base review. Git retains only public-safe hashes, provenance, and policy summaries. See the [Artifact Exclusion Report](reports/ARTIFACT_EXCLUSION_REPORT.md) and [Drive Artifact Reference Index](../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md).

@@ -628,4 +628,4 @@ This preserves the V01 link between comic failed food and serious experimental i
 
 # Next update
 
-Sequential voice sampling is complete. Use this ledger as the cumulative linguistic basis for [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../../../provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md), with exact quotations rechecked against the relevant CBZ locator when needed.
+Sequential voice sampling is complete. Use this ledger as the cumulative linguistic basis for [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](../04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md), with exact quotations rechecked against the relevant CBZ locator when needed.

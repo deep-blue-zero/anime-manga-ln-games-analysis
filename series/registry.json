@@ -350,7 +350,7 @@
       ],
       "repository_path": "series/shokugeki-no-soma/",
       "materialization_status": "PRESENT_REVIEWED",
-      "migration_scope": "G5_FINAL_AGGREGATE",
+      "migration_scope": "G7_SHOKUGEKI_CLASSIFICATION_REPAIR",
       "authority_status": "NONAUTHORITATIVE_PRE_G8"
     },
     {
