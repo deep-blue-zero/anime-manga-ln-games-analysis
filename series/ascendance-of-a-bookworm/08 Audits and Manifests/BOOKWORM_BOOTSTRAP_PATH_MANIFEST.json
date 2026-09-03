@@ -1,0 +1,76 @@
+{
+  "schema": "ascendance-of-a-bookworm.git-bootstrap-path-manifest/v1",
+  "series": "ASCENDANCE_OF_A_BOOKWORM",
+  "stable_slug": "ascendance-of-a-bookworm",
+  "tranche_id": "BOOKWORM_GIT_BOOTSTRAP_V0_1_20260903",
+  "status": "candidate_feature_branch_review",
+  "canonical_entrypoint": "CURRENT_STATE_AND_CORPUS_MAP.md",
+  "source_boundary": {
+    "language": "ja",
+    "primary_source_drive_root_id": "1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy",
+    "drive_series_folder_id": "1jijErFCqkxFfP1C8s5SJkaphiImF_vvJ",
+    "audit_manifest_id": "1EWZLfUcopzCJT3iCZmCElOnq0jFUWgL0",
+    "audit_manifest_sha256": "034f01acae4e14f58ad8f9ea925ef00813603c74b590f08c8ba4e628db147d82",
+    "audit_date": "2026-08-30",
+    "main_numbered_volumes": "01-33",
+    "part_boundaries": [
+      "Part 1: V01-V03",
+      "Part 2: V04-V07",
+      "Part 3: V08-V12",
+      "Part 4: V13-V21",
+      "Part 5: V22-V33"
+    ],
+    "supplemental_boundary": [
+      "Royal Academy Stories: First Year"
+    ]
+  },
+  "manifest_self_reference": "This manifest intentionally excludes its own bytes and hash.",
+  "payload_file_count_excluding_manifest": 6,
+  "payload_bytes_excluding_manifest": 39118,
+  "files": [
+    {
+      "path": "CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 10324,
+      "sha256": "c5e5e0bbed574007a58d0f90725194c1d5978503da2b0c93d452ac93f76542dc",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "00 Frameworks and Methods/BOOKWORM_ANALYTICAL_METHOD.md",
+      "bytes": 14726,
+      "sha256": "3dd447c76f31f6615a9f844669ef1f38b2bba0958b7103851954266507d7762e",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "01 Source Lock and Inventory/BOOKWORM_SOURCE_LOCK_AND_INVENTORY.md",
+      "bytes": 6539,
+      "sha256": "0752f0689d663f81274372feb7618b6a4f51f483b3b7216f279fb0b8733181ff",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "02 Sequential Readings/README.md",
+      "bytes": 3065,
+      "sha256": "a676f9274da6eb59638ba8fa298a6c732a716fd0b370ab7e075d349ff9402e48",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "03 Longitudinal Ledgers/README.md",
+      "bytes": 2091,
+      "sha256": "9af988252fabebaa1184925c6f8f52256c8b49a535128c5990ce795388f10cd4",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/README.md",
+      "bytes": 2373,
+      "sha256": "9ddee4c9941db6dd93df705612ed27aa15ff9500b3d1c8657331245f27c9bc64",
+      "media_type": "text/markdown"
+    }
+  ],
+  "bootstrap_assertions": [
+    "No primary-source EPUB bytes are tracked in Git.",
+    "No character monograph or substantive analytical conclusion is created by bootstrap alone.",
+    "No empty synthesis or evidence-index directory is retained merely for symmetry.",
+    "The registry canonical entrypoint is present in this same bootstrap tranche.",
+    "The numbered prospective chain is V01-V33; Royal Academy Stories: First Year remains supplemental until its placement is source-verified.",
+    "The sealed G7 migration counts are not modified by this post-cutover Git-native series root."
+  ]
+}

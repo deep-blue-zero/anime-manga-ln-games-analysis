@@ -47,6 +47,20 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "ascendance-of-a-bookworm",
+      "stable_slug": "ascendance-of-a-bookworm",
+      "canonical_title": "Ascendance of a Bookworm",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/ascendance-of-a-bookworm/",
+      "canonical_entrypoint": "series/ascendance-of-a-bookworm/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_ASCENDANCE_OF_A_BOOKWORM_BOOTSTRAP_V0_1",
+      "authority_status": "GIT_PRIMARY"
+    },
+    {
       "series_id": "attack-on-titan",
       "stable_slug": "attack-on-titan",
       "canonical_title": "Attack on Titan",

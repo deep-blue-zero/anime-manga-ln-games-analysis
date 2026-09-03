@@ -11,6 +11,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [86 - Eighty-Six](../series/86-eighty-six/) — `series/86-eighty-six/`
 - [A Sister's All You Need](../series/a-sisters-all-you-need/) — `series/a-sisters-all-you-need/`
 - [AoButa](../series/aobuta/) — `series/aobuta/`
+- [Ascendance of a Bookworm](../series/ascendance-of-a-bookworm/) — `series/ascendance-of-a-bookworm/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [Attack on Titan](../series/attack-on-titan/) — `series/attack-on-titan/`
 - [Azur Lane](../series/azur-lane/) — `series/azur-lane/`
 - [BLUE ARCHIVE](../series/blue-archive/) — `series/blue-archive/`
