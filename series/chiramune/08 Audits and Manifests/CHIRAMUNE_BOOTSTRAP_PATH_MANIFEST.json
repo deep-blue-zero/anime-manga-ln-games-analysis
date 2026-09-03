@@ -24,7 +24,7 @@
   },
   "manifest_self_reference": "This manifest intentionally excludes its own bytes and hash.",
   "payload_file_count_excluding_manifest": 6,
-  "payload_bytes_excluding_manifest": 27360,
+  "payload_bytes_excluding_manifest": 27352,
   "files": [
     {
       "path": "CURRENT_STATE_AND_CORPUS_MAP.md",
@@ -34,14 +34,14 @@
     },
     {
       "path": "00 Frameworks and Methods/CHIRAMUNE_ANALYTICAL_METHOD.md",
-      "bytes": 7972,
-      "sha256": "e52729f1690a051434060720968eb2401fff407fe27bf732ccdbac79ad0f2ae2",
+      "bytes": 7968,
+      "sha256": "8e5a4ec7748e4e328f58f0d9ace8e1a05456a8db09b5aee6e9159d93ece25432",
       "media_type": "text/markdown"
     },
     {
       "path": "01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md",
-      "bytes": 5989,
-      "sha256": "f912f0c459f9bc69eea6efeb610ce9eb1d748f6b6aa842aba2a67b9ba52847c4",
+      "bytes": 5985,
+      "sha256": "cfa4a8e0c328ad4582fe592b20ff4f58e9a037758a4a626dda0e75d51279c27a",
       "media_type": "text/markdown"
     },
     {
