@@ -450,6 +450,13 @@ series/aobuta/V2 Analysis/06 Archive/GOOGLE_DRIVE_MIRROR_MAP.md
 series/aobuta/V2 Analysis/06 Archive/Phase8_Japanese_Verification_Report.md
 series/aobuta/V2 Analysis/06 Archive/Phase9_Archival_Lock_Report.md
 series/aobuta/V2 Analysis/06 Archive/SOURCE_INVENTORY.md
+series/ascendance-of-a-bookworm/00 Frameworks and Methods/BOOKWORM_ANALYTICAL_METHOD.md
+series/ascendance-of-a-bookworm/01 Source Lock and Inventory/BOOKWORM_SOURCE_LOCK_AND_INVENTORY.md
+series/ascendance-of-a-bookworm/02 Sequential Readings/README.md
+series/ascendance-of-a-bookworm/03 Longitudinal Ledgers/README.md
+series/ascendance-of-a-bookworm/04 Character Analysis/README.md
+series/ascendance-of-a-bookworm/08 Audits and Manifests/BOOKWORM_BOOTSTRAP_PATH_MANIFEST.json
+series/ascendance-of-a-bookworm/CURRENT_STATE_AND_CORPUS_MAP.md
 series/attack-on-titan/00 Frameworks and Methods/AOT_ANALYTICAL_METHOD_V2.md
 series/attack-on-titan/00 Frameworks and Methods/AOT_CHARACTER_MODELING_AND_SIMULATION_ARCHITECTURE_V1.md
 series/attack-on-titan/00 Frameworks and Methods/AOT_CHARACTER_MODEL_SCHEMA_V1.md
