@@ -6,8 +6,7 @@ source_boundary: "Versioned semantic, textual, voice, message, and audiovisual e
 generation: V0.2
 status: canonical
 release_state: mutable_active
-supersedes:
-  - V0.1
+supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---

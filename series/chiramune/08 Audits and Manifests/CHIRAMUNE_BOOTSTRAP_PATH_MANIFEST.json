@@ -3,7 +3,13 @@
   "series": "CHIRAMUNE",
   "stable_slug": "chiramune",
   "tranche_id": "CHIRAMUNE_GIT_BOOTSTRAP_V0_1_20260903",
-  "status": "candidate_feature_branch_review",
+  "status": "historical_bootstrap_snapshot_merged",
+  "integrity_responsibility": "Immutable hash record of the reviewed bootstrap payload; it does not track later current-tree revisions.",
+  "snapshot_commit": "a9b985bf186fd206a15acc571e69f12c08cb8a25",
+  "published_via": {
+    "pull_request": 7,
+    "main_commit": "6a53fe057c747842b751bc307a8b2f11470f5ed5"
+  },
   "canonical_entrypoint": "CURRENT_STATE_AND_CORPUS_MAP.md",
   "source_boundary": {
     "language": "ja",

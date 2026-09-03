@@ -3,7 +3,8 @@
   "series": "WUWA",
   "stable_slug": "wuthering-waves",
   "tranche_id": "WUWA_GIT_BOOTSTRAP_V0_1_20260902",
-  "status": "candidate_feature_branch_local_review",
+  "status": "canonical_current_tree",
+  "integrity_responsibility": "Mutable current-tree hash companion to WUWA_MANIFEST.md; refresh affected entries when governed WUWA files change.",
   "canonical_entrypoint": "CURRENT_STATE_AND_CORPUS_MAP.md",
   "source_boundary": {
     "game_version": "3.6.0",
@@ -14,7 +15,7 @@
   },
   "manifest_self_reference": "This manifest intentionally excludes its own bytes and hash.",
   "payload_file_count_excluding_manifest": 36,
-  "payload_bytes_excluding_manifest": 206652,
+  "payload_bytes_excluding_manifest": 216003,
   "files": [
     {
       "path": "00 Frameworks and Methods/WUWA_ANALYTICAL_METHOD.md",
@@ -30,8 +31,8 @@
     },
     {
       "path": "00 Frameworks and Methods/WUWA_CHARACTER_RECONSTRUCTION_PROTOCOL.md",
-      "bytes": 5665,
-      "sha256": "d969e7488456c80e64cf3aecf11183a7d33e35e2833e6f5bd1749d6e036c2440",
+      "bytes": 15013,
+      "sha256": "0bdd56f2c32d9290906aff47a7c0d405e9b1ac5d390e2d4bf64d0e4d3730811d",
       "media_type": "text/markdown"
     },
     {
@@ -228,8 +229,8 @@
     },
     {
       "path": "CURRENT_STATE_AND_CORPUS_MAP.md",
-      "bytes": 7117,
-      "sha256": "033f907bf84c404743f0014862df894ab023ebb0d54d1904219e6a5a87b598ae",
+      "bytes": 7120,
+      "sha256": "78c10a0f70ae853908e0902386b2a75a19b170bb3dd37ba58e8748bf1ea472f7",
       "media_type": "text/markdown"
     }
   ],
@@ -315,8 +316,11 @@
   ],
   "git_transaction": {
     "base_commit": "501279737d5f584d1efc57c39a89b52847279223",
-    "candidate_branch": "chatgpt/wuwa-audit-remediation",
-    "commit_mode": "contained local correction and exact-path staging on the existing feature branch; commit, push, and PR merge remain pending",
+    "feature_branch": "chatgpt/wuwa-audit-remediation",
+    "publication_state": "merged_and_verified",
+    "pull_request": 4,
+    "published_main_commit": "29cdcfa2282c36f90ccfc05516b6df544d5f0e35",
+    "commit_mode": "reviewed feature-branch pull request merged to main",
     "same_change_global_files": [
       {
         "path": "series/registry.json",
