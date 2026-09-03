@@ -6,8 +6,8 @@ source_boundary: "Official installed-client voice evidence routed through canoni
 generation: V0.1
 status: canonical
 release_state: mutable_active
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

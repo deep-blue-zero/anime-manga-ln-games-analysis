@@ -6,8 +6,8 @@ source_boundary: "Versioned Wuthering Waves game evidence; current bootstrap anc
 generation: V0.1
 status: canonical
 release_state: mutable_active
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

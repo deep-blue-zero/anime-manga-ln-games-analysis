@@ -6,8 +6,8 @@ generation: V0.2
 status: active_provisional
 release_state: mutable_active
 source_boundary: "Pinned Wuthering Waves 3.6.0 / Arikatsu resource 3.6.6 four-language text at commit 353f2eaed119bc9f680eab92807d20ac75a79b40 and installed-client V0.5.1 performance media; human-listening conclusions are limited to explicitly reviewed cohorts"
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

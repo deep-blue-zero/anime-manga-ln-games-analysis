@@ -6,8 +6,8 @@ source_boundary: "Derived analytical organization of evidence already cited in t
 generation: V0.1
 status: active_provisional
 release_state: mutable_active
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

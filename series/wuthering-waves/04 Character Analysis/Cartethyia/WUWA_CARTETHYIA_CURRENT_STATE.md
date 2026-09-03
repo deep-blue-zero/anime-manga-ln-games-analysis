@@ -6,8 +6,8 @@ source_boundary: "Imported V0.2 analysis over pinned source commit 353f2eaed119b
 generation: V0.1_GIT_IMPORT_OF_ANALYTICAL_V0.2
 status: canonical
 release_state: mutable_active
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
