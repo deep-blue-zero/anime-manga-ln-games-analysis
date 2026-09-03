@@ -1,0 +1,73 @@
+{
+  "schema": "chiramune.git-bootstrap-path-manifest/v1",
+  "series": "CHIRAMUNE",
+  "stable_slug": "chiramune",
+  "tranche_id": "CHIRAMUNE_GIT_BOOTSTRAP_V0_1_20260903",
+  "status": "candidate_feature_branch_review",
+  "canonical_entrypoint": "CURRENT_STATE_AND_CORPUS_MAP.md",
+  "source_boundary": {
+    "language": "ja",
+    "primary_source_drive_root_id": "1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy",
+    "drive_series_folder_id": "1bI8p0tRpD7_u6Xi3vubqydl-jR7gJFxx",
+    "audit_manifest_id": "1Oq8MhiuNApwg-qv9PxEfJG9YTzLuZy52",
+    "audit_manifest_sha256": "e4d302d662997ae67be9368d45dd2dc7fefd5918f5c8540cbe82a897c00a8231",
+    "audit_date": "2026-08-29",
+    "main_numbered_volumes": "01-09",
+    "supplemental_boundary": [
+      "Volume 03 illustration and SS booklet",
+      "Volume 05 special edition",
+      "Volume 06.5",
+      "Days of Endless Summer",
+      "Volume 08 rough-illustration special edition",
+      "Volume 09.5"
+    ]
+  },
+  "manifest_self_reference": "This manifest intentionally excludes its own bytes and hash.",
+  "payload_file_count_excluding_manifest": 6,
+  "payload_bytes_excluding_manifest": 27352,
+  "files": [
+    {
+      "path": "CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 7624,
+      "sha256": "937c94ecd08a81f3e831a041a850d2878ec6c9509b04fb587b3c82b0bc2f395a",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "00 Frameworks and Methods/CHIRAMUNE_ANALYTICAL_METHOD.md",
+      "bytes": 7968,
+      "sha256": "8e5a4ec7748e4e328f58f0d9ace8e1a05456a8db09b5aee6e9159d93ece25432",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md",
+      "bytes": 5985,
+      "sha256": "cfa4a8e0c328ad4582fe592b20ff4f58e9a037758a4a626dda0e75d51279c27a",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "02 Sequential Readings/README.md",
+      "bytes": 2598,
+      "sha256": "862576bbc02449e539a84fd5257b769b2156819d177c04d6b0363bd16ef2a27b",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "03 Longitudinal Ledgers/README.md",
+      "bytes": 1414,
+      "sha256": "90234bae866a56b9d15e3fc01bca1c6f051ad499c894ce070289d4b7d83657b3",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "04 Character Analysis/README.md",
+      "bytes": 1763,
+      "sha256": "5866dfe45346fb7896a1708dc3c0c1a8ab74f7e87b4a6ac6763761bb243c91d7",
+      "media_type": "text/markdown"
+    }
+  ],
+  "bootstrap_assertions": [
+    "No primary-source EPUB bytes are tracked in Git.",
+    "No character monograph or substantive analytical conclusion is created by bootstrap alone.",
+    "No empty synthesis or evidence-index directory is retained merely for symmetry.",
+    "The registry canonical entrypoint is present in this same bootstrap tranche.",
+    "The sealed G7 migration counts are not modified by this post-cutover Git-native series root."
+  ]
+}
