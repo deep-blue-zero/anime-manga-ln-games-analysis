@@ -1,0 +1,91 @@
+name: One-shot WUWA audit repair
+
+on:
+  push:
+    branches:
+      - "chatgpt/wuwa-audit-remediation"
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: chatgpt/wuwa-audit-remediation
+          fetch-depth: 0
+
+      - name: Normalize WUWA metadata and routing
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+
+          root = Path("series/wuthering-waves")
+          changed = []
+          for path in sorted(root.rglob("*.md")):
+              data = path.read_text(encoding="utf-8")
+              new = data.replace("supersedes: null\n", "supersedes: []\n")
+              new = new.replace("superseded_by: null\n", "superseded_by: []\n")
+              if new != data:
+                  path.write_text(new, encoding="utf-8", newline="\n")
+                  changed.append(str(path))
+
+          routing = root / "00 Frameworks and Methods" / "WUWA_EVIDENCE_ROUTING_AND_AUTHORITY.md"
+          data = routing.read_text(encoding="utf-8")
+          data = data.replace(
+              "https://drive.google.com/drive/u/0/folders/19ZmRcjKQR3g0lhU1A3sXujsyihhdKs-2",
+              "owner-authenticated Drive folder ID `19ZmRcjKQR3g0lhU1A3sXujsyihhdKs-2`",
+          )
+          routing.write_text(data, encoding="utf-8", newline="\n")
+
+          pointer = root / "01 Source Lock and Inventory" / "WUWA_DRIVE_EVIDENCE_RELEASE_POINTER.md"
+          data = pointer.read_text(encoding="utf-8")
+          data = data.replace(
+              "https://drive.google.com/drive/u/0/folders/19ZmRcjKQR3g0lhU1A3sXujsyihhdKs-2",
+              "owner-authenticated Drive folder ID `19ZmRcjKQR3g0lhU1A3sXujsyihhdKs-2`",
+          )
+          pointer.write_text(data, encoding="utf-8", newline="\n")
+
+          state = root / "CURRENT_STATE_AND_CORPUS_MAP.md"
+          data = state.read_text(encoding="utf-8")
+          data = data.replace(
+              "**GitHub `main` is the analytical authority** after this bootstrap change merges.",
+              "**GitHub `main` is the analytical authority.**",
+          )
+          state.write_text(data, encoding="utf-8", newline="\n")
+          PY
+
+      - name: Remove one-shot workflow and regenerate exact path manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          git rm -- .github/workflows/wuwa-one-shot-repair.yml
+          git ls-files | LC_ALL=C sort > governance/repository-controls/CURRENT_TRACKED_PATHS.txt
+
+      - name: Validate repaired worktree
+        shell: bash
+        env:
+          MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"
+        run: |
+          set -euo pipefail
+          python -m pip install --disable-pip-version-check --no-deps --require-hashes -r tools/requirements-validation.txt
+          mkdir -p "${MANGA_ANIME_TEST_TMP}"
+          python tools/validate_repository.py --phase current --snapshot worktree --repo .
+          python tools/generate_character_index.py --check --snapshot worktree --repo .
+          python -m unittest discover -s tools/tests -p "test_*.py"
+
+      - name: Commit repaired corpus to feature branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "deep-blue-zero"
+          git config user.email "50891441+deep-blue-zero@users.noreply.github.com"
+          git add -- series/wuthering-waves governance/repository-controls/CURRENT_TRACKED_PATHS.txt
+          git diff --cached --check -- . ':(top,glob,exclude)**/*.md'
+          git status --short
+          git commit -m "Repair Wuthering Waves audit integration"
+          git push origin HEAD:chatgpt/wuwa-audit-remediation
