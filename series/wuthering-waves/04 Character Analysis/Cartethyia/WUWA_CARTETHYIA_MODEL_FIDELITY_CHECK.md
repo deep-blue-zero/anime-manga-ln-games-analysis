@@ -6,8 +6,8 @@ generation: V0.2
 status: active_provisional
 release_state: mutable_active
 source_boundary: "Current active-provisional Cartethyia monograph, claim ledger, specialist analysis, and compiled model over pinned source commit 353f2eaed119bc9f680eab92807d20ac75a79b40"
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

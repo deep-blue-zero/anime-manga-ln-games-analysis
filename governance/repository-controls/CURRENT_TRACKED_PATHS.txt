@@ -2876,6 +2876,43 @@ series/to-be-hero-x/Anime bundle metadata/bundle_validation.json
 series/to-be-hero-x/Anime bundle metadata/manifest.csv
 series/to-be-hero-x/Anime bundle metadata/subtitle_reconstruction_report.csv
 series/to-be-hero-x/Anime bundle metadata/visual_preroll_detection.json
+series/wuthering-waves/00 Frameworks and Methods/WUWA_ANALYTICAL_METHOD.md
+series/wuthering-waves/00 Frameworks and Methods/WUWA_CHARACTER_FOLDER_CONTRACT.md
+series/wuthering-waves/00 Frameworks and Methods/WUWA_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+series/wuthering-waves/00 Frameworks and Methods/WUWA_EVIDENCE_ROUTING_AND_AUTHORITY.md
+series/wuthering-waves/00 Frameworks and Methods/WUWA_LONGITUDINAL_STORY_ANALYSIS_ARCHITECTURE.md
+series/wuthering-waves/00 Frameworks and Methods/WUWA_MACHINE_VOICE_ANALYSIS_PROTOCOL.md
+series/wuthering-waves/00 Frameworks and Methods/WUWA_NARRATIVE_DEEP_READING_PROTOCOL.md
+series/wuthering-waves/01 Source Lock and Inventory/WUWA_DRIVE_EVIDENCE_RELEASE_POINTER.md
+series/wuthering-waves/01 Source Lock and Inventory/WUWA_SOURCE_BOUNDARY.md
+series/wuthering-waves/01 Source Lock and Inventory/WUWA_SOURCE_COVERAGE_AUDIT.md
+series/wuthering-waves/02 Sequential Readings/README.md
+series/wuthering-waves/03 Longitudinal Ledgers/WUWA_CHARACTER_STATE_CROSSWALK.md
+series/wuthering-waves/03 Longitudinal Ledgers/WUWA_CHRONOLOGY_LEDGER.md
+series/wuthering-waves/03 Longitudinal Ledgers/WUWA_OPEN_QUESTIONS_LEDGER.md
+series/wuthering-waves/03 Longitudinal Ledgers/WUWA_RELATIONSHIP_NETWORK_LEDGER.md
+series/wuthering-waves/03 Longitudinal Ledgers/WUWA_WORLD_AND_FACTION_LEDGER.md
+series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_MODEL_PACKAGE.json
+series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md
+series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CLAIM_AND_COUNTEREVIDENCE_LEDGER.json
+series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CLAIM_REVISION_LEDGER.md
+series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CURRENT_STATE.md
+series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_MODEL_FIDELITY_CHECK.md
+series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md
+series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md
+series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md
+series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_CURRENT_STATE.md
+series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_CURRENT_STATE.md
+series/wuthering-waves/04 Character Analysis/README.md
+series/wuthering-waves/07 Evidence and Indexes/WUWA_CHARACTER_INDEX.md
+series/wuthering-waves/07 Evidence and Indexes/WUWA_CLAIM_EVIDENCE_INDEX.md
+series/wuthering-waves/07 Evidence and Indexes/WUWA_DRIVE_GIT_CROSSWALK.md
+series/wuthering-waves/08 Audits and Manifests/WUWA_ANALYTICAL_CORPUS_AUDIT.md
+series/wuthering-waves/08 Audits and Manifests/WUWA_AUTHORITY_AUDIT.md
+series/wuthering-waves/08 Audits and Manifests/WUWA_BOOTSTRAP_PATH_MANIFEST.json
+series/wuthering-waves/08 Audits and Manifests/WUWA_CARTETHYIA_V0_2_HARDENING_COMPLETION_REPORT.md
+series/wuthering-waves/08 Audits and Manifests/WUWA_MANIFEST.md
+series/wuthering-waves/CURRENT_STATE_AND_CORPUS_MAP.md
 series/youjo-senki/CURRENT_STATE_AND_CORPUS_MAP.md
 series/youjo-senki/V2 Analysis/00_README_AND_CORPUS_MAP.md
 series/youjo-senki/V2 Analysis/01_SERIES_ARCHITECTURE_AND_VOLUME_PROGRESSION.md

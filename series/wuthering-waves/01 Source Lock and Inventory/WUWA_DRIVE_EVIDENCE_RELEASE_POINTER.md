@@ -6,8 +6,8 @@ source_boundary: "Owner-authenticated WUWA Google Drive evidence root; base rele
 generation: V0.1
 status: canonical
 release_state: mutable_pointer
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
@@ -16,7 +16,7 @@ do_not_use_as_current_authority: false
 ## Canonical location
 
 - Root ID: `19ZmRcjKQR3g0lhU1A3sXujsyihhdKs-2`
-- Root URL: `https://drive.google.com/drive/folders/19ZmRcjKQR3g0lhU1A3sXujsyihhdKs-2`
+- Access: owner-authenticated Drive lookup by root ID.
 - First-read README ID: `1vZRelxjX95N-8O7byuYmQBc8uELyb0ht`
 - Base release: `wuwa-drive-evidence-v0.1`
 - Base source generation: `arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko`

@@ -6,8 +6,8 @@ source_boundary: "Wuthering Waves 3.6.0 / Arikatsu resource 3.6.6 semantic view 
 generation: V0.1
 status: canonical
 release_state: frozen_source_boundary
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 

@@ -6,8 +6,8 @@ source_boundary: "Git analytical authority paired with owner-authenticated Googl
 generation: V0.1
 status: canonical
 release_state: mutable_active
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
@@ -25,7 +25,7 @@ do_not_use_as_current_authority: false
 
 ## Canonical Drive route
 
-Evidence root: `https://drive.google.com/drive/folders/19ZmRcjKQR3g0lhU1A3sXujsyihhdKs-2`
+Evidence root (owner-authenticated Drive folder ID): `19ZmRcjKQR3g0lhU1A3sXujsyihhdKs-2`
 
 Preferred evidence route:
 
