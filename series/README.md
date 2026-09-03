@@ -46,6 +46,7 @@ All G7 roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. 
 
 ## Post-cutover Git-native series roots
 
+- [`chiramune/`](chiramune/) — Chitose Is in the Ramune Bottle. Bootstrap generation V0.1 establishes the canonical analytical root and routes the Japanese light-novel source corpus to the separately governed Google Drive primary-source plane.
 - [`wuthering-waves/`](wuthering-waves/) — Wuthering Waves. Bootstrap generation V0.1 establishes the canonical analytical root and routes primary/deterministic derived evidence to the separately governed Google Drive evidence plane.
 
 Post-cutover roots are governed by their registry entry and canonical project entrypoint. They do not retroactively change the sealed G7 migration counts or hashed source-materialization scope.
