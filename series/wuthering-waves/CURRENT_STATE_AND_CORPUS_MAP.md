@@ -17,7 +17,7 @@ This is the canonical first read for the Git-side Wuthering Waves analytical cor
 
 ## Authority split
 
-- **GitHub `main` is the analytical authority** after this bootstrap change merges. Interpretive claims, methods, readings, ledgers, monographs, model packages, and analytical audits belong here.
+- **GitHub `main` is the analytical authority.** Interpretive claims, methods, readings, ledgers, monographs, model packages, and analytical audits belong here.
 - **Google Drive is the primary and deterministic derived-evidence authority.** Raw semantic material, normalized corpora, large scene ledgers, text/voice mappings, FLAC objects, selected audiovisual witnesses, and evidence-release manifests remain in Drive.
 - **Local/Codex workspaces are build environments.** They are not authority unless an artifact is promoted through the governed Drive-evidence or Git-analysis route.
 
@@ -107,7 +107,7 @@ The absence of an empty directory is intentional. Git does not need symmetry-onl
 
 ## Current analytical priorities
 
-1. Complete repository bootstrap review and merge.
+1. Maintain the merged bootstrap's routing and integrity metadata as the corpus evolves.
 2. Run the Lynae inaugural character reconstruction from the canonical Drive package.
 3. Generate comprehensive machine voice analysis across all usable Lynae audio before selecting a bounded human-review cohort.
 4. Produce only those character sub-artifacts Lynae's evidence actually warrants.

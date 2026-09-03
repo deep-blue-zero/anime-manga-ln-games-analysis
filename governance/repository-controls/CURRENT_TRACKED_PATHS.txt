@@ -641,6 +641,13 @@ series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_SCHOOL_CLUB_INSTITUTION
 series/blue-archive/03 Longitudinal Ledgers/BLUE_ARCHIVE_SENSEI_ROLE_AND_ETHICS_LEDGER.md
 series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv
 series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md
+series/chiramune/00 Frameworks and Methods/CHIRAMUNE_ANALYTICAL_METHOD.md
+series/chiramune/01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md
+series/chiramune/02 Sequential Readings/README.md
+series/chiramune/03 Longitudinal Ledgers/README.md
+series/chiramune/04 Character Analysis/README.md
+series/chiramune/08 Audits and Manifests/CHIRAMUNE_BOOTSTRAP_PATH_MANIFEST.json
+series/chiramune/CURRENT_STATE_AND_CORPUS_MAP.md
 series/classroom-of-the-elite/00 Frameworks and Methods/COTE_BEHAVIORAL_RECONSTRUCTION_PROTOCOL_THROUGH_Y2.md
 series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Multi_Document_Synthesis_Architecture_v1.md
 series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Y1_ANALYTICAL_METHOD_V2.md
@@ -3015,6 +3022,13 @@ studies/doujinshi-fanwork-comparative-taxonomy/08 Audits and Manifests/DJFW_GAKU
 studies/doujinshi-fanwork-comparative-taxonomy/08 Audits and Manifests/DJFW_MANGA_ANIME_DRIVE_INDEX_PATCH.md
 studies/doujinshi-fanwork-comparative-taxonomy/DJFW_CURRENT_STATE_AND_CORPUS_MAP.md
 studies/doujinshi-fanwork-comparative-taxonomy/DJFW_PROJECT_ARCHITECTURE.md
+studies/pactrih-ethical-topology/CHANGELOG.md
+studies/pactrih-ethical-topology/README.md
+studies/pactrih-ethical-topology/audits/README.md
+studies/pactrih-ethical-topology/data/README.md
+studies/pactrih-ethical-topology/interactive/README.md
+studies/pactrih-ethical-topology/methodology/README.md
+studies/pactrih-ethical-topology/scripts/README.md
 studies/registry.json
 tools/character_index_core.py
 tools/generate_character_index.py
