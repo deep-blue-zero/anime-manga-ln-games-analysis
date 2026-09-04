@@ -105,6 +105,11 @@ def main() -> int:
     operation = parser.add_mutually_exclusive_group(required=True)
     operation.add_argument("--write-generated", action="store_true")
     operation.add_argument("--check", action="store_true")
+    parser.add_argument(
+        "--full",
+        action="store_true",
+        help="also run the full repository validator and complete unit-test suite",
+    )
     parser.add_argument("--base", default="origin/main")
     parser.add_argument("--repo", type=Path)
     args = parser.parse_args()
@@ -125,6 +130,8 @@ def main() -> int:
         print(f"- {rule['id']}: {rule['description']}")
 
     if args.write_generated:
+        if args.full:
+            raise RuntimeError("--full is valid only with --check")
         run_python(root, "tools/update_repository_indexes.py", "--snapshot", "index", "--write")
         if any(rule.get("id") == "character-discovery" for rule in rules):
             run_python(root, "tools/generate_character_index.py", "--snapshot", "index")
@@ -151,18 +158,42 @@ def main() -> int:
             f"staged change omits required synchronized outputs: {missing_outputs}"
         )
 
-    run_python(
-        root,
-        "tools/validate_repository.py",
-        "--phase",
-        "current",
-        "--snapshot",
-        "index",
-        "--repo",
-        str(root),
-    )
-    run_python(root, "-m", "unittest", "discover", "-s", "tools/tests", "-p", "test_*.py")
-    print(f"PASS: staged pre-commit gate against {base}")
+    subprocess.run(["git", "-C", str(root), "diff", "--cached", "--check"], check=True)
+    run_python(root, "tools/update_repository_indexes.py", "--snapshot", "index", "--check")
+    if any(rule.get("id") == "character-discovery" for rule in rules):
+        run_python(
+            root,
+            "tools/generate_character_index.py",
+            "--snapshot",
+            "index",
+            "--check",
+        )
+    run_python(root, "-m", "unittest", "tools.tests.test_repository_indexes")
+    if args.full:
+        run_python(
+            root,
+            "tools/validate_repository.py",
+            "--phase",
+            "current",
+            "--snapshot",
+            "index",
+            "--repo",
+            str(root),
+        )
+        run_python(
+            root,
+            "-m",
+            "unittest",
+            "discover",
+            "-s",
+            "tools/tests",
+            "-p",
+            "test_*.py",
+        )
+        level = "full"
+    else:
+        level = "targeted"
+    print(f"PASS: {level} staged pre-commit gate against {base}")
     return 0
 
 

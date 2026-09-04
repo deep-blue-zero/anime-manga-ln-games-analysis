@@ -1,4 +1,4 @@
-# Change integration checklist
+# Repository Pre-Commit Guidance
 
 This is the mandatory pre-commit contract for human, Codex, and ChatGPT changes to this repository. It complements `AGENTS.md` and the authority records; it does not expand repository, Drive, publication, or contributor authority.
 
@@ -8,6 +8,19 @@ This is the mandatory pre-commit contract for human, Codex, and ChatGPT changes 
 2. Begin from an up-to-date branch based on `origin/main`. Follow `BRANCH_LIFECYCLE.md` for the branch name and eventual pruning.
 3. Preserve the owner-only authorship policy, the Git/Drive authority boundary, artifact exclusions, and frozen migration records.
 4. Declare the intended paths. Never use `git add .`, wildcard staging, force-push, or history rewriting.
+
+## Branch routing and cleanup
+
+- Continuing series analysis is written to `series/<stable-slug>` and periodically integrated into `main`.
+- Continuing cross-series or non-series study work is written to `studies/<stable-slug>` and periodically integrated into `main`.
+- Different series or study branches may advance concurrently. Work on the same analytical root must be serialized or explicitly reconciled before integration.
+- Cross-cutting governance or tooling work uses a narrowly named temporary branch such as `codex/<purpose>` or `chatgpt/<purpose>`.
+- Bootstrap, migration, repair, audit-remediation, experiment, and one-shot automation branches are temporary.
+- A temporary branch must be pruned after its intended content is verified on `origin/main`, the exact integration is recoverable, the `main` repository audit is green, and no intended artifact remains unique to the branch.
+- Use ancestry to verify merges and fast-forwards. For an approved squash or rebase, compare the complete tree or reviewed patch before deletion. Never bulk-delete branches merely because they are old or their pull requests are closed.
+- Stable series and study branches may remain while actively used. Apply the same verified pruning rule when one is retired.
+
+The full branch contract is `governance/policies/BRANCH_LIFECYCLE.md`.
 
 ## Change obligations
 
@@ -20,7 +33,7 @@ The machine-readable form of this table is `governance/repository-controls/chang
 | Add, remove, or reroute a study root | Update `studies/registry.json`; regenerate `studies/README.md` and the studies catalog in `governance/MANGA_ANIME_CORPUS_INDEX.md`. |
 | Add or change character discovery or qualifying evidence | Update `characters/registry.jsonl`, verify exact-byte evidence hashes and authority eligibility, and regenerate `CHARACTER_ANALYSIS_INDEX.md`. |
 | Add or change a Drive-only reference | Update the Drive artifact reference index and verify every referenced anchor. Do not rewrite frozen migration crosswalks. |
-| Change policy, schema, validation, workflow, or authority controls | Run the complete test suite and review the governance effect. Authority-scope changes require separate owner authorization. |
+| Change policy, schema, validation, workflow, or authority controls | Run the affected focused tests and review the governance effect. Use the explicit full gate for executable validation, workflow, schema, publication-safety, or authority changes. Authority-scope changes require separate owner authorization. |
 
 Ordinary edits to an existing analytical file do not require unrelated registry churn. A newly added analysis file does change the tracked path set and therefore requires regeneration of `CURRENT_TRACKED_PATHS.txt`.
 
@@ -36,13 +49,15 @@ Ordinary edits to an existing analytical file do not require unrelated registry 
 
    `python tools/prepare_commit.py --base origin/main --check`
 
-The check evaluates the obligation map, exact tracked-path closure, registry-to-directory topology, generated catalogs, character discovery output, publication constraints, authority invariants, and the complete unit-test suite. Do not commit or push on failure.
+The default check is diff-aware. It evaluates the obligation map, exact path-set closure, generated catalogs, staged whitespace, focused integration tests, and character output when affected. It does not reread every unchanged corpus blob or run the complete unit suite.
+
+Use `python tools/prepare_commit.py --base origin/main --check --full` when explicitly requested or when changing executable validation, workflow, schema, publication-safety, or authority controls. Routine analysis and documentation commits use the default targeted gate. Do not commit or push on any applicable failure.
 
 ## Before and after publication
 
 1. Inspect the exact staged path list, diff, generated changes, and file sizes.
 2. Confirm the commit uses an approved owner author identity and an approved committer identity.
-3. Push normally without force. Confirm the exact remote commit and read-only repository audit pass before treating the change as complete.
+3. Push normally without force. The read-only GitHub workflow is the single full post-publication repository audit; confirm that the exact remote commit passes it before treating the change as complete.
 4. After integration, apply the verified branch-retention or pruning rule in `BRANCH_LIFECYCLE.md`.
 
 Do not routinely modify `governance/AUTHORITY_SCOPE.json`, authority-epoch records, bootstrap bindings, public-activation bindings, or the frozen Drive-to-Git migration crosswalks.
