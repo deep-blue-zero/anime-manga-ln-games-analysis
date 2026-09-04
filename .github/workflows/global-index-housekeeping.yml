@@ -72,6 +72,7 @@ jobs:
           allowed_prefix = f"{namespace}/{slug}/"
           changed = subprocess.check_output(
               ["git", "diff", "--name-only", "-z", "origin/main...HEAD", "--"]
+          )
           bad = sorted(
               path
               for raw in changed.split(b"\0")
