@@ -1991,6 +1991,23 @@ series/my-hero-academia/V2 Analysis/08 Audits and Manifests/MHA_SP2_V37_UPDATE_M
 series/my-hero-academia/V2 Analysis/08 Audits and Manifests/MHA_SP2_V38_UPDATE_MANIFEST.md
 series/my-hero-academia/V2 Analysis/08 Audits and Manifests/MHA_SP2_V39_UPDATE_MANIFEST.md
 series/my-hero-academia/V2 Analysis/08 Audits and Manifests/MHA_SP2_V40_UPDATE_MANIFEST.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/MHA_SP2_V41_DEEP_READING_INDEX.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/MHA_SP2_V41_DEEP_READING_PART_01.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/MHA_SP2_V41_DEEP_READING_PART_02.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/MHA_SP2_V41_DEEP_READING_PART_03.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/MHA_SP2_V41_DEEP_READING_PART_04.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/MHA_SP2_V41_DEEP_READING_PART_05.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/MHA_SP2_V41_UPDATE_MANIFEST.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/README.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/diffs/V41_DIFFS_01_02.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/diffs/V41_DIFFS_03_04.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/diffs/V41_DIFFS_05_06.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/diffs/V41_DIFFS_07_08.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/diffs/V41_DIFFS_09_10.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/diffs/V41_DIFFS_11_12.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/diffs/V41_DIFFS_13_14.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/diffs/V41_DIFFS_15_16.md
+series/my-hero-academia/V2 Analysis/09 Working Branches/V41/diffs/V41_DIFFS_17.md
 series/nana/V2 Analysis/00 Frameworks/NANA_ANALYTICAL_METHOD_V2.md
 series/nana/V2 Analysis/00 Frameworks/NANA_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V1.md
 series/nana/V2 Analysis/02 Volume Deep Readings/NANA_V01_DEEP_READING.md
