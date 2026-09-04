@@ -24,7 +24,6 @@ from character_index_core import (  # noqa: E402
     atomic_write_text,
 )
 from validate_repository import (  # noqa: E402
-    CURRENT_MANIFEST,
     G3_BOUND_COMMIT,
     G3_BOUND_TREE,
     G3_MANIFEST,
@@ -903,12 +902,18 @@ class PhaseValidationTests(unittest.TestCase):
         expected = read_manifest_from_snapshot(snapshot, G3_MANIFEST)
         self.assertEqual(validate_exact_set(sorted(snapshot.entries), expected, "g3"), [])
 
-    def test_current_manifest_is_sorted_unique_and_complete(self) -> None:
-        paths = worktree_paths(ROOT)
-        snapshot = worktree_snapshot(ROOT, paths)
-        expected = read_manifest_from_snapshot(snapshot, CURRENT_MANIFEST)
-        self.assertEqual(
-            validate_exact_set(sorted(snapshot.entries), expected, "current"), []
+    def test_current_git_index_is_the_live_path_authority(self) -> None:
+        snapshot = GitSnapshot.from_index(ROOT)
+        raw = subprocess.check_output(
+            ["git", "-C", str(ROOT), "ls-files", "--cached", "-z"]
+        )
+        expected = sorted(
+            item.decode("utf-8", "strict") for item in raw.split(b"\0") if item
+        )
+        self.assertEqual(sorted(snapshot.entries), expected)
+        self.assertNotIn(
+            "governance/repository-controls/CURRENT_TRACKED_PATHS.txt",
+            snapshot.entries,
         )
 
     def test_protected_bootstrap_hashes_are_unchanged(self) -> None:

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import sys
 import unittest
 from pathlib import Path
@@ -29,7 +30,16 @@ class RepositoryIndexTests(unittest.TestCase):
 
     def test_generated_repository_indexes_match_index(self) -> None:
         snapshot = self.snapshot()
-        for path, expected in expected_outputs(snapshot).items():
+        outputs = expected_outputs(snapshot)
+        self.assertEqual(
+            set(outputs),
+            {
+                "series/README.md",
+                "studies/README.md",
+                "governance/MANGA_ANIME_CORPUS_INDEX.md",
+            },
+        )
+        for path, expected in outputs.items():
             self.assertEqual(snapshot.entries[path].data, expected, path)
 
     def test_registered_root_topology_is_bidirectional(self) -> None:
@@ -50,32 +60,23 @@ class RepositoryIndexTests(unittest.TestCase):
         self.assertEqual(validate_change_obligations(snapshot), [])
 
     def test_obligation_rules_detect_topology_and_registry_changes(self) -> None:
-        obligations = {
-            "rules": [
-                {
-                    "id": "paths",
-                    "trigger": {"kind": "tracked_path_set_changed"},
-                },
-                {
-                    "id": "series",
-                    "trigger": {
-                        "kind": "top_level_roots_changed",
-                        "root": "series/",
-                    },
-                },
-                {
-                    "id": "registry",
-                    "trigger": {
-                        "kind": "path_changed",
-                        "path": "series/registry.json",
-                    },
-                },
-            ]
-        }
+        snapshot = self.snapshot()
+        obligations = json.loads(
+            snapshot.entries[
+                "governance/repository-controls/change-obligations.json"
+            ].data
+        )
         base = {"series/existing/README.md", "series/registry.json"}
+        ordinary = base | {"series/existing/V42/new-analysis.md"}
+        active = active_rules(obligations, {"series/existing/V42/new-analysis.md"}, base, ordinary)
+        self.assertEqual(active, [])
+
         index = base | {"series/new-series/README.md"}
         active = active_rules(obligations, {"series/registry.json"}, base, index)
-        self.assertEqual([rule["id"] for rule in active], ["paths", "series", "registry"])
+        self.assertEqual(
+            [rule["id"] for rule in active],
+            ["series-root-topology", "series-registry-routing"],
+        )
 
 
 if __name__ == "__main__":

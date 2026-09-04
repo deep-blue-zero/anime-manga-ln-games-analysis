@@ -1,7 +1,7 @@
 ---
 document_role: chatgpt_authority_bootstrap
 document_status: ACTIVE_STABILIZING
-document_revision: 2.3-authority-epoch-1
+document_revision: 2.4-authority-epoch-1
 schema_version: 1
 repository_provider: GitHub
 provider_confirmed: true
@@ -227,7 +227,7 @@ Before either execution profile:
 3. confirm that the provider will record an author from `allowed_author_identities` and a committer from `allowed_committer_identities` in `governance/repository-controls/tracked-file-policy.json`; the GitHub server identity may be an allowed committer but is never an allowed author, and wildcard identity patterns are prohibited;
 4. create or reuse `series/<stable-slug>` for continuing series work, `studies/<stable-slug>` for continuing study work, or a narrow temporary `chatgpt/<purpose>` branch for cross-cutting or one-shot work;
 5. write only the authorized paths, using current blob SHAs for replacement safety and an atomic multi-file tree/commit when the connector supports it;
-6. update every output required by the obligation map, including `governance/repository-controls/CURRENT_TRACKED_PATHS.txt` for any add, delete, or rename;
+6. treat the exact candidate Git tree as the live path inventory and update only the semantic outputs required by the obligation map; an ordinary path change inside an existing registered root does not require a global path-list projection;
 7. fetch the resulting commit and compare the complete branch delta against the validated base; validate formatting, links, structured data, authority records, commit identity, generated outputs, and the exact changed-file set;
 8. use the owner-controlled integration route authorized for the change: a pull request when required, or an explicitly authorized ordinary non-forced integration into `main`; never infer merge authority from this handoff or a branch name;
 9. immediately before integration, recheck remote-head drift and confirm the reviewed branch delta is unchanged;
@@ -302,13 +302,13 @@ Do not independently edit projection components or treat an unmerged Drive revis
 
 | Change | Required synchronized surface |
 |---|---|
-| Any tracked add, delete, or rename | Regenerate `governance/repository-controls/CURRENT_TRACKED_PATHS.txt`. |
+| Any tracked add, delete, or rename | Use the exact candidate Git tree as the canonical live path inventory; no global path-list projection is required. |
 | Add, remove, or reroute a series root | Update `series/registry.json`; regenerate `series/README.md` and the series catalog in `governance/MANGA_ANIME_CORPUS_INDEX.md`. |
 | Add, remove, or reroute a study root | Update `studies/registry.json`; regenerate `studies/README.md` and the studies catalog in `governance/MANGA_ANIME_CORPUS_INDEX.md`. |
 | Add or change character discovery or qualifying evidence | Update `characters/registry.jsonl`, verify exact-byte evidence hashes and authority eligibility, and regenerate `CHARACTER_ANALYSIS_INDEX.md`. |
 | Add or change a Drive-only reference | Update `provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md` and verify its anchors. |
 
-Project-local entrypoints, indexes, and manifests must be updated when their own architecture requires them. Frozen migration crosswalks and activation bindings are not routine generated outputs and must not be rewritten merely to reflect later Git-native work.
+Project-local entrypoints, indexes, and manifests must be updated when their own architecture requires them. Frozen migration crosswalks, activation bindings, and `G3_BOOTSTRAP_TRACKED_PATHS.txt` are not routine generated outputs and must not be rewritten merely to reflect later Git-native work. Historical transaction records may retain references to a live path manifest that existed at the recorded commit; those references are provenance, not a current dependency.
 
 For local changes, use `tools/prepare_commit.py` to calculate obligations and render deterministic outputs from the exact staged index. Connector-based changes must provide the equivalent exact-tree calculation and verification. Do not leave routing updates for a later best-effort pass.
 

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import subprocess
 import sys
 import unittest
 from pathlib import Path
@@ -78,6 +79,15 @@ def snapshot(documents: dict[str, bytes]) -> GitSnapshot:
         for path, data in documents.items()
     }
     return GitSnapshot(REPOSITORY_ROOT, "IN_MEMORY_TEST", entries)
+
+
+def tracked_git_paths() -> list[str]:
+    raw = subprocess.check_output(
+        ["git", "-C", str(REPOSITORY_ROOT), "ls-files", "--cached", "-z"]
+    )
+    return sorted(
+        item.decode("utf-8", "strict") for item in raw.split(b"\0") if item
+    )
 
 
 class AuthorityFrontMatterTests(unittest.TestCase):
@@ -1619,10 +1629,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         expected_destinations = {doc_path, structure_path, *tsv_paths}
         self.assertEqual(len(expected_destinations), 19)
 
-        tracked_paths = (
-            REPOSITORY_ROOT
-            / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
-        ).read_text(encoding="utf-8").splitlines()
+        tracked_paths = tracked_git_paths()
         self.assertGreaterEqual(
             len(tracked_paths),
             self.state["migration"]["g7_phase_closure"]["tracked_paths"],
@@ -1871,10 +1878,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         for row in [*plans, *results]:
             self.assertFalse(prohibited & set(row))
 
-        tracked_paths = (
-            REPOSITORY_ROOT
-            / "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
-        ).read_text(encoding="utf-8").splitlines()
+        tracked_paths = tracked_git_paths()
         self.assertGreaterEqual(
             len(tracked_paths),
             self.state["migration"]["g7_phase_closure"]["tracked_paths"],

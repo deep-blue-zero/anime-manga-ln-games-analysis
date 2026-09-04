@@ -28,14 +28,14 @@ The machine-readable form of this table is `governance/repository-controls/chang
 
 | Change | Required synchronization |
 | --- | --- |
-| Any tracked add, delete, or rename | Regenerate `governance/repository-controls/CURRENT_TRACKED_PATHS.txt` from the final staged index. |
+| Any tracked add, delete, or rename | No global path-list projection. The final Git index/tree is the canonical live path inventory; evaluate the semantic obligations below. |
 | Add, remove, or reroute a series root | Update `series/registry.json`; regenerate `series/README.md` and the series catalog in `governance/MANGA_ANIME_CORPUS_INDEX.md`. |
 | Add, remove, or reroute a study root | Update `studies/registry.json`; regenerate `studies/README.md` and the studies catalog in `governance/MANGA_ANIME_CORPUS_INDEX.md`. |
 | Add or change character discovery or qualifying evidence | Update `characters/registry.jsonl`, verify exact-byte evidence hashes and authority eligibility, and regenerate `CHARACTER_ANALYSIS_INDEX.md`. |
 | Add or change a Drive-only reference | Update the Drive artifact reference index and verify every referenced anchor. Do not rewrite frozen migration crosswalks. |
 | Change policy, schema, validation, workflow, or authority controls | Run the affected focused tests and review the governance effect. Use the explicit full gate for executable validation, workflow, schema, publication-safety, or authority changes. Authority-scope changes require separate owner authorization. |
 
-Ordinary edits to an existing analytical file do not require unrelated registry churn. A newly added analysis file does change the tracked path set and therefore requires regeneration of `CURRENT_TRACKED_PATHS.txt`.
+Ordinary edits, additions, and deletions inside an existing registered analytical root do not require unrelated global registry or catalog churn solely because the path set changed. New or removed series/study roots and other semantic changes still activate the specific obligations above. `G3_BOOTSTRAP_TRACKED_PATHS.txt` remains immutable historical evidence; it is not the live inventory.
 
 ## Prepare the exact staged snapshot
 
@@ -49,7 +49,7 @@ Ordinary edits to an existing analytical file do not require unrelated registry 
 
    `python tools/prepare_commit.py --base origin/main --check`
 
-The default check is diff-aware. It evaluates the obligation map, exact path-set closure, generated catalogs, staged whitespace, focused integration tests, and character output when affected. It does not reread every unchanged corpus blob or run the complete unit suite.
+The default check is diff-aware. It evaluates the obligation map against the exact base and staged Git path sets, registered-root topology, generated catalogs, staged whitespace, focused integration tests, and character output when affected. It does not reread every unchanged corpus blob or run the complete unit suite.
 
 Use `python tools/prepare_commit.py --base origin/main --check --full` when explicitly requested or when changing executable validation, workflow, schema, publication-safety, or authority controls. Routine analysis and documentation commits use the default targeted gate. Do not commit or push on any applicable failure.
 

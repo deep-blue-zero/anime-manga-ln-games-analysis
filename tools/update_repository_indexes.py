@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Deterministically render global repository catalogs and the tracked-path manifest."""
+"""Deterministically render the repository's human-facing global catalogs."""
 
 from __future__ import annotations
 
@@ -18,7 +18,6 @@ from character_index_core import (
 )
 
 
-CURRENT_MANIFEST = "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
 SERIES_REGISTRY = "series/registry.json"
 STUDY_REGISTRY = "studies/registry.json"
 CHANGE_OBLIGATIONS = "governance/repository-controls/change-obligations.json"
@@ -45,7 +44,6 @@ CORPUS_STUDY_MARKERS = (
     "<!-- END GENERATED CORPUS STUDY CATALOG -->",
 )
 CONTENT_PATHS = {
-    CURRENT_MANIFEST,
     SERIES_REGISTRY,
     STUDY_REGISTRY,
     SERIES_README,
@@ -122,6 +120,34 @@ def _entries_from_commit(root: Path, commit: str) -> dict[str, SnapshotEntry]:
     return entries
 
 
+def _entries_from_worktree(root: Path) -> dict[str, SnapshotEntry]:
+    """Use the Git index as the path set and current worktree bytes as content."""
+
+    entries: dict[str, SnapshotEntry] = {}
+    raw = run_git(root, "ls-files", "--stage", "-z")
+    for item in raw.split(b"\0"):
+        if not item:
+            continue
+        metadata, raw_path = item.split(b"\t", 1)
+        mode, _oid, stage = metadata.decode("ascii").split(" ")
+        path = raw_path.decode("utf-8", "strict")
+        if stage != "0":
+            raise DomainError(f"unmerged index entry: {path}")
+        full = root.joinpath(*path.split("/"))
+        data = full.read_bytes() if path in CONTENT_PATHS and full.is_file() else b""
+        entries[path] = SnapshotEntry(path, mode, data)
+    for path in _registry_entrypoints(entries):
+        if path in entries:
+            entry = entries[path]
+            full = root.joinpath(*path.split("/"))
+            entries[path] = SnapshotEntry(
+                path,
+                entry.mode,
+                full.read_bytes() if full.is_file() else b"",
+            )
+    return entries
+
+
 def _snapshot(root: Path, mode: str, commit: str | None) -> GitSnapshot:
     if mode == "commit":
         if commit is None:
@@ -131,33 +157,7 @@ def _snapshot(root: Path, mode: str, commit: str | None) -> GitSnapshot:
         raise DomainError("--commit is valid only with --snapshot commit")
     if mode == "index":
         return GitSnapshot(root, "INDEX", _entries_from_index(root))
-    manifest = root / CURRENT_MANIFEST
-    paths = [line for line in manifest.read_text(encoding="utf-8").splitlines() if line]
-    modes: dict[str, str] = {}
-    raw = run_git(root, "ls-files", "--stage", "-z")
-    for item in raw.split(b"\0"):
-        if not item:
-            continue
-        metadata, raw_path = item.split(b"\t", 1)
-        git_mode, _oid, stage = metadata.decode("ascii").split(" ")
-        if stage == "0":
-            modes[raw_path.decode("utf-8", "strict")] = git_mode
-    entries = {}
-    for path in paths:
-        full = root.joinpath(*path.split("/"))
-        data = full.read_bytes() if path in CONTENT_PATHS and full.is_file() else b""
-        entries[path] = SnapshotEntry(path, modes.get(path, "100644"), data, path in modes)
-    for path in _registry_entrypoints(entries):
-        if path in entries:
-            entry = entries[path]
-            full = root.joinpath(*path.split("/"))
-            entries[path] = SnapshotEntry(
-                path,
-                entry.mode,
-                full.read_bytes() if full.is_file() else b"",
-                tracked=entry.tracked,
-            )
-    return GitSnapshot(root, "WORKTREE", entries)
+    return GitSnapshot(root, "WORKTREE", _entries_from_worktree(root))
 
 
 def _registry_rows(
@@ -339,13 +339,10 @@ def expected_outputs(snapshot: GitSnapshot) -> dict[str, bytes]:
         CORPUS_STUDY_MARKERS,
         render_corpus_studies(study_rows),
     )
-    tracked_paths = sorted(snapshot.entries, key=lambda path: path.encode("utf-8"))
-    manifest = ("\n".join(tracked_paths) + "\n").encode("utf-8")
     return {
         SERIES_README: series_readme,
         STUDIES_README: studies_readme,
         CORPUS_INDEX: corpus_index,
-        CURRENT_MANIFEST: manifest,
     }
 
 

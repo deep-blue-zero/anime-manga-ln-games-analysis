@@ -58,7 +58,6 @@ PUBLICATION_PATTERNS = {
 }
 MARKDOWN_LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 G3_MANIFEST = "governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt"
-CURRENT_MANIFEST = "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
 G3_BOUND_COMMIT = "e934c0a6f92ad16ba3305bd99f938aa6b3d97a1f"
 G3_BOUND_TREE = "d0bb00fa5d7a8735892921ba3c0023b4855ac52e"
 PROTECTED_HASHES = {
@@ -242,6 +241,9 @@ def validate_audit_workflow(
         "  push:",
         "      - main",
         '      - "codex/**"',
+        '      - "chatgpt/**"',
+        '      - "series/**"',
+        '      - "studies/**"',
         '    - cron: "17 6 * * 0"',
         "  workflow_dispatch:",
         "permissions:\n  contents: read",
@@ -1162,7 +1164,6 @@ def validate_change_obligations(snapshot: GitSnapshot) -> list[str]:
         return errors
     seen_ids: set[str] = set()
     allowed_kinds = {
-        "tracked_path_set_changed",
         "path_changed",
         "top_level_roots_changed",
     }
@@ -2423,13 +2424,13 @@ def main() -> int:
             commit = run_git(root, "rev-parse", "HEAD").decode("ascii").strip()
         snapshot, paths = choose_snapshot(root, kind, commit)
         policy = _policy_from_snapshot(snapshot)
+        errors: list[str] = []
         if args.manifest:
             expected = read_external_manifest(args.manifest.resolve())
-        else:
-            manifest_name = G3_MANIFEST if args.phase == "g3" else CURRENT_MANIFEST
-            expected = read_manifest_from_snapshot(snapshot, manifest_name)
-        errors: list[str] = []
-        errors.extend(validate_exact_set(paths, expected, args.phase))
+            errors.extend(validate_exact_set(paths, expected, args.phase))
+        elif args.phase == "g3":
+            expected = read_manifest_from_snapshot(snapshot, G3_MANIFEST)
+            errors.extend(validate_exact_set(paths, expected, args.phase))
         errors.extend(validate_paths(snapshot, policy))
         errors.extend(validate_bytes(snapshot, policy, args.phase))
         revision = identity_revision_for_snapshot(kind, commit)

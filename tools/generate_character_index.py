@@ -239,8 +239,7 @@ def _snapshot(root: Path, mode: str, commit: str | None) -> GitSnapshot:
         raise DomainError("--commit is valid only with --snapshot commit")
     if mode == "index":
         return GitSnapshot.from_index(root)
-    manifest = root / "governance" / "repository-controls" / "CURRENT_TRACKED_PATHS.txt"
-    return GitSnapshot.from_worktree_manifest(root, manifest)
+    return GitSnapshot.from_worktree(root)
 
 
 def main() -> int:
