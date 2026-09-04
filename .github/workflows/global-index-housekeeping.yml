@@ -145,6 +145,8 @@ jobs:
           test -z "$(git status --porcelain)"
           remote_sha="$(git ls-remote --heads origin "refs/heads/${BRANCH_NAME}" | cut -f1)"
           test "${remote_sha}" = "${SOURCE_SHA}"
+          auth_header="$(printf 'x-access-token:%s' "${GH_TOKEN}" | base64 -w0)"
+          git config --local http.https://github.com/.extraheader "AUTHORIZATION: basic ${auth_header}"
           git push origin "HEAD:refs/heads/${BRANCH_NAME}"
           python - "${generated_sha}" "${BRANCH_NAME}" > dispatch.json <<'PY'
           import json
