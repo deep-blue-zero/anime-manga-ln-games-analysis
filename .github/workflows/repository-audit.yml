@@ -46,7 +46,6 @@ jobs:
         run: |
           set -euo pipefail
           python tools/validate_repository.py --phase current --snapshot commit --commit "${GITHUB_SHA}" --repo .
-          python tools/generate_character_index.py --check --snapshot commit --commit "${GITHUB_SHA}" --repo .
           python - <<'PY'
           import json
           import subprocess

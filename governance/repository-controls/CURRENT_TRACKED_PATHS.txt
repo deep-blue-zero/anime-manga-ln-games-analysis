@@ -21,6 +21,8 @@ governance/MANGA_ANIME_CORPUS_INDEX.md
 governance/REPOSITORY_STRUCTURE.md
 governance/cutovers/AUTHORITY_EPOCH_1.json
 governance/policies/ARTIFACT_ELIGIBILITY.md
+governance/policies/BRANCH_LIFECYCLE.md
+governance/policies/CHANGE_INTEGRATION_CHECKLIST.md
 governance/policies/PUBLICATION_AND_CONTRIBUTION_POLICY.md
 governance/policies/RECURRING_TRANCHE_PROCESS.md
 governance/policies/REPOSITORY_CONTROLS.md
@@ -30,6 +32,7 @@ governance/reports/CHARACTER_INDEX_V2_BACKFILL_CANDIDATES.jsonl
 governance/repository-controls/CURRENT_TRACKED_PATHS.txt
 governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt
 governance/repository-controls/bootstrap-bindings.json
+governance/repository-controls/change-obligations.json
 governance/repository-controls/public-activation-bindings.json
 governance/repository-controls/tracked-file-policy.json
 governance/schemas/character-analysis-index.schema.json
@@ -3039,9 +3042,12 @@ studies/pactrih-ethical-topology/scripts/README.md
 studies/registry.json
 tools/character_index_core.py
 tools/generate_character_index.py
+tools/prepare_commit.py
 tools/requirements-validation.txt
 tools/tests/test_character_index_v2.py
 tools/tests/test_governance_authority.py
 tools/tests/test_reconstruction_capability.py
+tools/tests/test_repository_indexes.py
 tools/tests/test_validate_repository.py
+tools/update_repository_indexes.py
 tools/validate_repository.py

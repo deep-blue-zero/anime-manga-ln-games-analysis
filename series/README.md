@@ -2,7 +2,9 @@
 
 Each owner-reviewed series uses one stable slug under `series/<stable-slug>/`. `registry.json` is the machine-readable canonical title, media, materialization, authority, and first-read routing registry. Every record declares either a verified `canonical_entrypoint` or an explicit `canonical_entrypoint_status: MISSING`; missing entrypoints are stop conditions and must never be guessed.
 
-The final G7 materialization and epoch-1 authority scope contain these series roots:
+<!-- BEGIN GENERATED SERIES CATALOG -->
+
+The final G7 materialization and sealed epoch-1 migration scope contain these series roots:
 
 - [`86-eighty-six/`](86-eighty-six/) — 86 - Eighty-Six
 - [`a-sisters-all-you-need/`](a-sisters-all-you-need/) — A Sister's All You Need
@@ -46,8 +48,10 @@ All G7 roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. 
 
 ## Post-cutover Git-native series roots
 
-- [`ascendance-of-a-bookworm/`](ascendance-of-a-bookworm/) — Ascendance of a Bookworm. Bootstrap generation V0.1 establishes the canonical analytical root and routes the Japanese light-novel source corpus to the separately governed Google Drive primary-source plane.
-- [`chiramune/`](chiramune/) — Chitose Is in the Ramune Bottle. Bootstrap generation V0.1 establishes the canonical analytical root and routes the Japanese light-novel source corpus to the separately governed Google Drive primary-source plane.
-- [`wuthering-waves/`](wuthering-waves/) — Wuthering Waves. Bootstrap generation V0.1 establishes the canonical analytical root and routes primary/deterministic derived evidence to the separately governed Google Drive evidence plane.
+- [`ascendance-of-a-bookworm/`](ascendance-of-a-bookworm/) — Ascendance of a Bookworm — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
+- [`chiramune/`](chiramune/) — Chitose Is in the Ramune Bottle — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
+- [`wuthering-waves/`](wuthering-waves/) — Wuthering Waves — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
+
+<!-- END GENERATED SERIES CATALOG -->
 
 Post-cutover roots are governed by their registry entry and canonical project entrypoint. They do not retroactively change the sealed G7 migration counts or hashed source-materialization scope.

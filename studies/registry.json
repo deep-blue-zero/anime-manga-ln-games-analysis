@@ -9,7 +9,8 @@
       "repository_path": "studies/comparative-media/",
       "canonical_entrypoint": "studies/comparative-media/Mass Effect/CURRENT_STATE_AND_CORPUS_MAP.md",
       "materialization_status": "PRESENT_REVIEWED",
-      "authority_status": "GIT_PRIMARY"
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "cross-title and cross-medium analysis, including the Mass Effect character-monograph study."
     },
     {
       "study_id": "doujinshi-fanwork-comparative-taxonomy",
@@ -19,7 +20,18 @@
       "canonical_entrypoint": "studies/doujinshi-fanwork-comparative-taxonomy/DJFW_CURRENT_STATE_AND_CORPUS_MAP.md",
       "materialization_status": "PRESENT_REVIEWED",
       "authority_status": "GIT_PRIMARY",
-      "native_google_sheet_policy": "DRIVE_NATIVE_CONTROLLED_THEN_VERIFIED_GIT_MERGE"
+      "native_google_sheet_policy": "DRIVE_NATIVE_CONTROLLED_THEN_VERIFIED_GIT_MERGE",
+      "catalog_note": "approved text and machine-readable projections for the comparative taxonomy project; the native XLSX remains REFERENCE_DRIVE."
+    },
+    {
+      "study_id": "pactrih-ethical-topology",
+      "stable_slug": "pactrih-ethical-topology",
+      "canonical_title": "PACTRIH Ethical Topology",
+      "repository_path": "studies/pactrih-ethical-topology/",
+      "canonical_entrypoint": "studies/pactrih-ethical-topology/README.md",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "methodology scaffold and routing for future canonical data, interactive artifacts, validation tooling, and audits."
     }
   ]
 }

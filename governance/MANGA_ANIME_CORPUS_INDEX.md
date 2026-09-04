@@ -8,6 +8,8 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 
 ## Series
 
+<!-- BEGIN GENERATED CORPUS SERIES CATALOG -->
+
 - [86 - Eighty-Six](../series/86-eighty-six/) — `series/86-eighty-six/`
 - [A Sister's All You Need](../series/a-sisters-all-you-need/) — `series/a-sisters-all-you-need/`
 - [AoButa](../series/aobuta/) — `series/aobuta/`
@@ -45,16 +47,23 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)](../series/the-idolmaster-cinderella-girls-mobile-games/) — `series/the-idolmaster-cinderella-girls-mobile-games/`
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/) — `series/the-idolmaster-cinderella-girls-u149/`
 - [To Be Hero X](../series/to-be-hero-x/) — `series/to-be-hero-x/`
-- [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remains in its governed Drive evidence plane.
+- [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`
+
+<!-- END GENERATED CORPUS SERIES CATALOG -->
 
 See the machine-readable [`series/registry.json`](../series/registry.json) for canonical identifiers, entrypoints, and materialization state.
 
 ## Studies
 
-- [Comparative Media](../studies/comparative-media/) — comparative and cross-medium analysis, including the Mass Effect monograph study.
-- [Doujinshi/Fanwork Comparative Taxonomy](../studies/doujinshi-fanwork-comparative-taxonomy/) — migrated text plus TSV/structure projections; the native XLSX remains `REFERENCE_DRIVE`.
+<!-- BEGIN GENERATED CORPUS STUDY CATALOG -->
+
+- [Comparative Media](../studies/comparative-media/) — `studies/comparative-media/` — cross-title and cross-medium analysis, including the Mass Effect character-monograph study.
+- [Doujinshi/Fanwork Comparative Taxonomy](../studies/doujinshi-fanwork-comparative-taxonomy/) — `studies/doujinshi-fanwork-comparative-taxonomy/` — approved text and machine-readable projections for the comparative taxonomy project; the native XLSX remains REFERENCE_DRIVE.
+- [PACTRIH Ethical Topology](../studies/pactrih-ethical-topology/) — `studies/pactrih-ethical-topology/` — methodology scaffold and routing for future canonical data, interactive artifacts, validation tooling, and audits.
+
+<!-- END GENERATED CORPUS STUDY CATALOG -->
 
 ## Character discovery
 

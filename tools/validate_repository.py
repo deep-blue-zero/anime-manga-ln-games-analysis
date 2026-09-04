@@ -29,6 +29,7 @@ from character_index_core import (
     validate_repository_path,
     validate_schema_document,
 )
+from generate_character_index import render as render_character_index
 
 
 WINDOWS_RESERVED = {
@@ -86,6 +87,10 @@ EXCEL_RANGE_RE = re.compile(r"^A1:([A-Z]+)([1-9][0-9]*)$")
 SERIES_REGISTRY_PATH = "series/registry.json"
 SERIES_REGISTRY_SCHEMA = "anime-manga-ln-games-analysis/series-registry/v2"
 SERIES_ENTRYPOINT_STATUSES = {"PRESENT_VERIFIED", "MISSING"}
+STUDY_REGISTRY_PATH = "studies/registry.json"
+STUDY_REGISTRY_SCHEMA = "anime-manga-ln-games-analysis/study-registry/v1"
+CHANGE_OBLIGATIONS_PATH = "governance/repository-controls/change-obligations.json"
+CHANGE_OBLIGATIONS_SCHEMA = "anime-manga-ln-games-analysis/change-obligations/v1"
 DJFW_TSV_WHITESPACE_ATTRIBUTE_RULE = (
     '"studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and '
     'Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/*.tsv" whitespace=-blank-at-eol'
@@ -246,7 +251,6 @@ def validate_audit_workflow(
         'test "$(git rev-parse --is-shallow-repository)" = "false"',
         "--require-hashes",
         "tools/validate_repository.py",
-        "tools/generate_character_index.py --check",
         'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
         "python -m unittest discover",
     )
@@ -780,10 +784,36 @@ def validate_protected(snapshot: GitSnapshot) -> list[str]:
     return errors
 
 
-def validate_generated_index(root: Path, snapshot_kind: str, commit: str | None) -> list[str]:
+def validate_generated_index(snapshot: GitSnapshot, snapshot_kind: str) -> list[str]:
+    registry = snapshot.get("characters/registry.jsonl")
+    output = snapshot.get("CHARACTER_ANALYSIS_INDEX.md")
+    if registry is None or output is None:
+        return ["character registry or generated index is missing"]
+    try:
+        records = [
+            record
+            for _line_number, record in decode_jsonl_with_lines(
+                registry.data, f"{snapshot.identity}:characters/registry.jsonl"
+            )
+        ]
+        if snapshot_kind == "worktree" and records:
+            return [
+                "worktree bytes cannot establish materialization; use an exact Git index or commit snapshot"
+            ]
+        rendered = render_character_index(records, AuthorityGraph(snapshot)).encode("utf-8")
+    except (DomainError, UnicodeDecodeError, ValueError) as exc:
+        return [f"unable to render character index: {exc}"]
+    if output.data != rendered:
+        return ["CHARACTER_ANALYSIS_INDEX.md is out of date"]
+    return []
+
+
+def validate_generated_repository_indexes(
+    root: Path, snapshot_kind: str, commit: str | None
+) -> list[str]:
     command = [
         sys.executable,
-        str(root / "tools" / "generate_character_index.py"),
+        str(root / "tools" / "update_repository_indexes.py"),
         "--check",
         "--repo",
         str(root),
@@ -794,7 +824,7 @@ def validate_generated_index(root: Path, snapshot_kind: str, commit: str | None)
         command.extend(["--commit", commit])
     result = subprocess.run(command, cwd=root, capture_output=True, text=True)
     if result.returncode:
-        return [result.stderr.strip() or result.stdout.strip() or "character index drift"]
+        return [result.stderr.strip() or result.stdout.strip() or "repository index drift"]
     return []
 
 
@@ -862,6 +892,7 @@ def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
     required = {
         "series_id",
         "stable_slug",
+        "canonical_title",
         "repository_path",
         "canonical_entrypoint",
         "canonical_entrypoint_status",
@@ -884,6 +915,7 @@ def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
         for field, value in (
             ("series_id", series_id),
             ("stable_slug", stable_slug),
+            ("canonical_title", row.get("canonical_title")),
             ("repository_path", repository_path),
         ):
             if not _valid_nonempty_string(value):
@@ -901,6 +933,10 @@ def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
                 errors.append(f"duplicate stable_slug {stable_slug!r}: {prior} / {label}")
             else:
                 seen_slugs[stable_slug] = label
+
+        catalog_note = row.get("catalog_note")
+        if catalog_note is not None and not _valid_nonempty_string(catalog_note):
+            errors.append(f"{label}.catalog_note must be a nonempty single-line string")
 
         repository_prefix: str | None = None
         if _valid_nonempty_string(repository_path):
@@ -967,6 +1003,210 @@ def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
                 f"{canonical_entrypoint} "
                 f"(classification={authority.classification(canonical_entrypoint)})"
             )
+    return errors
+
+
+def _top_level_roots(snapshot: GitSnapshot, root: str) -> set[str]:
+    roots = set()
+    for path in snapshot.entries:
+        parts = PurePosixPath(path).parts
+        if len(parts) >= 3 and parts[0] == root:
+            roots.add(parts[1])
+    return roots
+
+
+def _registry_root_slugs(
+    snapshot: GitSnapshot, path: str, key: str, root: str
+) -> tuple[set[str], list[str]]:
+    entry = snapshot.get(path)
+    if entry is None:
+        return set(), [f"missing registry for {root} topology: {path}"]
+    try:
+        document = decode_json(entry.data, path)
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return set(), [str(exc)]
+    if not isinstance(document, Mapping) or not isinstance(document.get(key), list):
+        return set(), [f"{path}.{key} must be an array"]
+    slugs = set()
+    for row in document[key]:
+        if not isinstance(row, Mapping):
+            continue
+        slug = row.get("stable_slug")
+        repository_path = row.get("repository_path")
+        if isinstance(slug, str) and repository_path == f"{root}/{slug}/":
+            slugs.add(slug)
+    return slugs, []
+
+
+def validate_registered_root_topology(snapshot: GitSnapshot) -> list[str]:
+    """Require a one-to-one registry mapping for top-level series and study roots."""
+
+    errors: list[str] = []
+    for root, path, key in (
+        ("series", SERIES_REGISTRY_PATH, "series"),
+        ("studies", STUDY_REGISTRY_PATH, "studies"),
+    ):
+        registered, registry_errors = _registry_root_slugs(snapshot, path, key, root)
+        errors.extend(registry_errors)
+        actual = _top_level_roots(snapshot, root)
+        for slug in sorted(actual - registered, key=lambda value: value.encode("utf-8")):
+            errors.append(f"unregistered {root} root: {root}/{slug}/")
+        for slug in sorted(registered - actual, key=lambda value: value.encode("utf-8")):
+            errors.append(f"registered {root} root has no tracked content: {root}/{slug}/")
+    return errors
+
+
+def validate_study_registry(snapshot: GitSnapshot) -> list[str]:
+    entry = snapshot.get(STUDY_REGISTRY_PATH)
+    if entry is None or not entry.qualifies_as_evidence:
+        return [f"missing tracked regular study registry: {STUDY_REGISTRY_PATH}"]
+    try:
+        registry = decode_json(entry.data, STUDY_REGISTRY_PATH)
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+    if not isinstance(registry, Mapping):
+        return [f"{STUDY_REGISTRY_PATH} must be a JSON object"]
+    errors: list[str] = []
+    if registry.get("schema") != STUDY_REGISTRY_SCHEMA:
+        errors.append(
+            f"{STUDY_REGISTRY_PATH}.schema must equal {STUDY_REGISTRY_SCHEMA!r}"
+        )
+    rows = registry.get("studies")
+    if not isinstance(rows, list):
+        errors.append(f"{STUDY_REGISTRY_PATH}.studies must be an array")
+        return errors
+    authority = AuthorityGraph(snapshot)
+    required = {
+        "study_id",
+        "stable_slug",
+        "canonical_title",
+        "repository_path",
+        "canonical_entrypoint",
+        "materialization_status",
+        "authority_status",
+    }
+    seen_ids: set[str] = set()
+    seen_slugs: set[str] = set()
+    seen_entrypoints: set[str] = set()
+    for index, row in enumerate(rows):
+        label = f"{STUDY_REGISTRY_PATH}:studies[{index}]"
+        if not isinstance(row, Mapping):
+            errors.append(f"{label} must be an object")
+            continue
+        missing = required - set(row)
+        if missing:
+            errors.append(f"{label} missing required fields: {sorted(missing)}")
+        for field in required:
+            if not _valid_nonempty_string(row.get(field)):
+                errors.append(f"{label}.{field} must be a nonempty single-line string")
+        study_id = row.get("study_id")
+        slug = row.get("stable_slug")
+        entrypoint = row.get("canonical_entrypoint")
+        if isinstance(study_id, str):
+            if study_id in seen_ids:
+                errors.append(f"duplicate study_id {study_id!r}")
+            seen_ids.add(study_id)
+        if isinstance(slug, str):
+            if slug in seen_slugs:
+                errors.append(f"duplicate study stable_slug {slug!r}")
+            seen_slugs.add(slug)
+            if row.get("repository_path") != f"studies/{slug}/":
+                errors.append(f"{label}.repository_path must equal studies/{slug}/")
+        if isinstance(entrypoint, str):
+            if entrypoint in seen_entrypoints:
+                errors.append(f"duplicate study canonical_entrypoint {entrypoint!r}")
+            seen_entrypoints.add(entrypoint)
+            try:
+                validate_repository_path(entrypoint)
+            except DomainError as exc:
+                errors.append(f"{label}.canonical_entrypoint is invalid: {exc}")
+            target = snapshot.get(entrypoint)
+            if target is None or not target.qualifies_as_evidence:
+                errors.append(
+                    f"{label}.canonical_entrypoint is not a tracked regular Git blob: {entrypoint}"
+                )
+            elif not authority.current_eligible(entrypoint):
+                errors.append(
+                    f"{label}.canonical_entrypoint is not current-eligible: {entrypoint}"
+                )
+        if row.get("materialization_status") not in {
+            "NOT_PRESENT",
+            "PRESENT_UNREVIEWED",
+            "PRESENT_REVIEWED",
+        }:
+            errors.append(f"{label}.materialization_status is not recognized")
+        catalog_note = row.get("catalog_note")
+        if catalog_note is not None and not _valid_nonempty_string(catalog_note):
+            errors.append(f"{label}.catalog_note must be a nonempty single-line string")
+    return errors
+
+
+def validate_change_obligations(snapshot: GitSnapshot) -> list[str]:
+    entry = snapshot.get(CHANGE_OBLIGATIONS_PATH)
+    if entry is None or not entry.qualifies_as_evidence:
+        return [f"missing tracked regular obligation map: {CHANGE_OBLIGATIONS_PATH}"]
+    try:
+        document = decode_json(entry.data, CHANGE_OBLIGATIONS_PATH)
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+    if not isinstance(document, Mapping):
+        return [f"{CHANGE_OBLIGATIONS_PATH} must be a JSON object"]
+    errors: list[str] = []
+    if document.get("schema") != CHANGE_OBLIGATIONS_SCHEMA:
+        errors.append(
+            f"{CHANGE_OBLIGATIONS_PATH}.schema must equal {CHANGE_OBLIGATIONS_SCHEMA!r}"
+        )
+    rules = document.get("rules")
+    if not isinstance(rules, list) or not rules:
+        errors.append(f"{CHANGE_OBLIGATIONS_PATH}.rules must be a nonempty array")
+        return errors
+    seen_ids: set[str] = set()
+    allowed_kinds = {
+        "tracked_path_set_changed",
+        "path_changed",
+        "top_level_roots_changed",
+    }
+    for index, rule in enumerate(rules):
+        label = f"{CHANGE_OBLIGATIONS_PATH}:rules[{index}]"
+        if not isinstance(rule, Mapping):
+            errors.append(f"{label} must be an object")
+            continue
+        rule_id = rule.get("id")
+        if not _valid_nonempty_string(rule_id):
+            errors.append(f"{label}.id must be a nonempty single-line string")
+        elif rule_id in seen_ids:
+            errors.append(f"duplicate obligation rule id: {rule_id!r}")
+        else:
+            seen_ids.add(rule_id)
+        trigger = rule.get("trigger")
+        kind = trigger.get("kind") if isinstance(trigger, Mapping) else None
+        if kind not in allowed_kinds:
+            errors.append(f"{label}.trigger.kind is not recognized: {kind!r}")
+        if kind == "path_changed" and not _valid_nonempty_string(trigger.get("path")):
+            errors.append(f"{label}.trigger.path must be a nonempty string")
+        if kind == "top_level_roots_changed" and trigger.get("root") not in {
+            "series/",
+            "studies/",
+        }:
+            errors.append(f"{label}.trigger.root must be series/ or studies/")
+        outputs = rule.get("required_outputs")
+        if not isinstance(outputs, list) or not outputs:
+            errors.append(f"{label}.required_outputs must be a nonempty array")
+            continue
+        if len(outputs) != len(set(outputs)):
+            errors.append(f"{label}.required_outputs contains duplicates")
+        for path in outputs:
+            if not _valid_nonempty_string(path):
+                errors.append(f"{label}.required_outputs contains an invalid path")
+                continue
+            try:
+                validate_repository_path(path)
+            except DomainError as exc:
+                errors.append(f"{label}.required_outputs path is invalid: {exc}")
+                continue
+            target = snapshot.get(path)
+            if target is None or not target.qualifies_as_evidence:
+                errors.append(f"{label}.required output is not tracked regular: {path}")
     return errors
 
 
@@ -2208,11 +2448,15 @@ def main() -> int:
             )
             errors.extend(validate_native_sheets(snapshot, not args.defer_schema_engine))
             errors.extend(validate_series_registry(snapshot))
+            errors.extend(validate_study_registry(snapshot))
+            errors.extend(validate_registered_root_topology(snapshot))
+            errors.extend(validate_change_obligations(snapshot))
             errors.extend(validate_current_domain(root, snapshot, not args.defer_schema_engine))
             if not args.defer_schema_engine:
                 generator_snapshot = "commit" if kind == "commit" else kind
+                errors.extend(validate_generated_index(snapshot, generator_snapshot))
                 errors.extend(
-                    validate_generated_index(
+                    validate_generated_repository_indexes(
                         root,
                         generator_snapshot,
                         commit if kind == "commit" else None,

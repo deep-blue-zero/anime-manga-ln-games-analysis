@@ -1,0 +1,87 @@
+{
+  "schema": "anime-manga-ln-games-analysis/change-obligations/v1",
+  "rules": [
+    {
+      "id": "tracked-topology",
+      "description": "Every tracked add, delete, or rename changes the exact current path set.",
+      "trigger": {
+        "kind": "tracked_path_set_changed"
+      },
+      "required_outputs": [
+        "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
+      ]
+    },
+    {
+      "id": "series-root-topology",
+      "description": "The series registry and both human-facing catalogs must cover every series root.",
+      "trigger": {
+        "kind": "top_level_roots_changed",
+        "root": "series/"
+      },
+      "required_outputs": [
+        "governance/MANGA_ANIME_CORPUS_INDEX.md",
+        "series/README.md",
+        "series/registry.json"
+      ]
+    },
+    {
+      "id": "series-registry-routing",
+      "description": "Catalogs are deterministic projections of the series registry.",
+      "trigger": {
+        "kind": "path_changed",
+        "path": "series/registry.json"
+      },
+      "required_outputs": [
+        "governance/MANGA_ANIME_CORPUS_INDEX.md",
+        "series/README.md"
+      ]
+    },
+    {
+      "id": "study-root-topology",
+      "description": "The study registry and both human-facing catalogs must cover every study root.",
+      "trigger": {
+        "kind": "top_level_roots_changed",
+        "root": "studies/"
+      },
+      "required_outputs": [
+        "governance/MANGA_ANIME_CORPUS_INDEX.md",
+        "studies/README.md",
+        "studies/registry.json"
+      ]
+    },
+    {
+      "id": "study-registry-routing",
+      "description": "Catalogs are deterministic projections of the study registry.",
+      "trigger": {
+        "kind": "path_changed",
+        "path": "studies/registry.json"
+      },
+      "required_outputs": [
+        "governance/MANGA_ANIME_CORPUS_INDEX.md",
+        "studies/README.md"
+      ]
+    },
+    {
+      "id": "character-discovery",
+      "description": "The global character index is a deterministic projection of the character registry and qualifying evidence.",
+      "trigger": {
+        "kind": "path_changed",
+        "path": "characters/registry.jsonl"
+      },
+      "required_outputs": [
+        "CHARACTER_ANALYSIS_INDEX.md"
+      ]
+    },
+    {
+      "id": "drive-reference-routing",
+      "description": "Drive-only reference metadata must remain internally resolvable without changing frozen migration crosswalks.",
+      "trigger": {
+        "kind": "path_changed",
+        "path": "provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md"
+      },
+      "required_outputs": [
+        "provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md"
+      ]
+    }
+  ]
+}

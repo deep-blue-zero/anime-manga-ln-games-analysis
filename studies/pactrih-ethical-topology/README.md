@@ -1,3 +1,14 @@
+---
+study: PACTRIH_ETHICAL_TOPOLOGY
+artifact_type: study_entrypoint
+scope: METHODOLOGY_SCAFFOLD
+generation: V0.1
+status: active_provisional
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
 # PACTRIH Ethical Topology
 
 This study root is reserved for the PACTRIH ethical-topology framework, its methodology, canonical machine-readable data, generated interactive artifacts, build/validation tooling, and audit material.

@@ -58,7 +58,8 @@
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_ASCENDANCE_OF_A_BOOKWORM_BOOTSTRAP_V0_1",
-      "authority_status": "GIT_PRIMARY"
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
     },
     {
       "series_id": "attack-on-titan",
@@ -116,7 +117,8 @@
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_CHIRAMUNE_BOOTSTRAP_V0_1",
-      "authority_status": "GIT_PRIMARY"
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane."
     },
     {
       "series_id": "classroom-of-the-elite",
@@ -550,7 +552,8 @@
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_WUWA_BOOTSTRAP_V0_1",
-      "authority_status": "GIT_PRIMARY"
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane."
     },
     {
       "series_id": "youjo-senki",
