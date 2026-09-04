@@ -29,6 +29,7 @@ governance/policies/REPOSITORY_CONTROLS.md
 governance/reports/ARTIFACT_EXCLUSION_REPORT.md
 governance/reports/CHARACTER_INDEX_V2_BACKFILL_AUDIT.md
 governance/reports/CHARACTER_INDEX_V2_BACKFILL_CANDIDATES.jsonl
+governance/reports/CHARACTER_REGISTRY_COMPREHENSIVE_AUDIT_2026-09-04.md
 governance/repository-controls/CURRENT_TRACKED_PATHS.txt
 governance/repository-controls/G3_BOOTSTRAP_TRACKED_PATHS.txt
 governance/repository-controls/bootstrap-bindings.json
