@@ -6,9 +6,9 @@ This repository uses named integration branches to isolate concurrent analytical
 
 - Continuing series work uses `series/<stable-slug>`.
 - Continuing cross-series or non-series study work uses `studies/<stable-slug>`.
-- Each branch carries work only for its named analytical root plus the global registries, generated indexes, manifests, and governance surfaces that the change-integration contract requires.
+- Each branch carries owner/agent-authored work only for its named analytical root and optional `.repository/` declarative inputs. The bounded housekeeping workflow may append a child commit containing only its seven exact global registry/catalog outputs.
 - Different series or study branches may advance concurrently. Changes to the same analytical root must be serialized or explicitly reconciled before integration.
-- Before each integration cycle, incorporate the current `origin/main`, run the complete staged-snapshot gate, and merge through the repository's owner-controlled process. Periodic integration is preferred over an indefinitely divergent branch.
+- Before each integration cycle, incorporate the current `origin/main`. Require the stable-branch audit and, when generated surfaces changed, the housekeeping child commit plus its dispatched exact-commit audit. Merge through the repository's owner-controlled process. Periodic integration is preferred over an indefinitely divergent branch.
 
 These branches may remain while their named corpus is actively receiving work. If a series or study branch is retired, apply the same verification and pruning procedure used for temporary branches.
 

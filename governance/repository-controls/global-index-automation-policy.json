@@ -1,0 +1,44 @@
+{
+  "schema": "anime-manga-ln-games-analysis/global-index-automation-policy/v1",
+  "workflow": ".github/workflows/global-index-housekeeping.yml",
+  "trigger_workflow": "Repository audit",
+  "owner_actor": "deep-blue-zero",
+  "branch_prefixes": [
+    "series/",
+    "studies/"
+  ],
+  "source_contracts": {
+    "series_registry": "series/<stable-slug>/.repository/series-registry.json",
+    "study_registry": "studies/<stable-slug>/.repository/study-registry.json",
+    "character_upserts": "series/<stable-slug>/.repository/character-registry-upserts.jsonl"
+  },
+  "allowed_write_paths": [
+    "CHARACTER_ANALYSIS_INDEX.md",
+    "characters/registry.jsonl",
+    "governance/MANGA_ANIME_CORPUS_INDEX.md",
+    "series/README.md",
+    "series/registry.json",
+    "studies/README.md",
+    "studies/registry.json"
+  ],
+  "prohibited_automatic_operations": [
+    "analysis_content_write",
+    "registry_delete",
+    "force_push",
+    "main_push",
+    "branch_create",
+    "branch_delete",
+    "tag_write",
+    "pull_request_write",
+    "release_write"
+  ],
+  "commit_author": {
+    "name": "deep-blue-zero",
+    "email": "50891441+peipw@users.noreply.github.com"
+  },
+  "commit_committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com"
+  },
+  "post_write_audit_dispatch": "audit-generated-commit"
+}

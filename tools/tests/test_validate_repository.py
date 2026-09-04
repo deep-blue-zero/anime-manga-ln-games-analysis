@@ -37,6 +37,7 @@ from validate_repository import (  # noqa: E402
     validate_commit_identities,
     validate_crosswalk_closure,
     validate_current_domain,
+    validate_global_index_automation,
     validate_bytes,
     validate_exact_set,
     validate_markdown_links,
@@ -819,6 +820,15 @@ class PhaseValidationTests(unittest.TestCase):
         )
         self.assertEqual(validate_audit_workflow(snapshot, policy), [])
 
+    def test_global_index_housekeeping_matches_bounded_write_contract(self) -> None:
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        policy = json.loads(
+            snapshot.entries[
+                "governance/repository-controls/tracked-file-policy.json"
+            ].data
+        )
+        self.assertEqual(validate_global_index_automation(snapshot, policy), [])
+
     def test_repository_audit_workflow_rejects_mutation_capability(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         baseline = (ROOT / path).read_bytes()
@@ -843,8 +853,8 @@ class PhaseValidationTests(unittest.TestCase):
     def test_repository_audit_workflow_rejects_shallow_history(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         baseline = (ROOT / path).read_bytes()
-        complete_fetch = b'git fetch --no-tags origin "${GITHUB_SHA}"'
-        shallow_fetch = b'git fetch --no-tags --depth=2 origin "${GITHUB_SHA}"'
+        complete_fetch = b'git fetch --no-tags origin "${AUDIT_COMMIT}"'
+        shallow_fetch = b'git fetch --no-tags --depth=2 origin "${AUDIT_COMMIT}"'
         self.assertIn(complete_fetch, baseline)
         snapshot = GitSnapshot(
             ROOT,
@@ -866,7 +876,7 @@ class PhaseValidationTests(unittest.TestCase):
     def test_repository_audit_workflow_requires_exact_whitespace_exclusions(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         baseline = (ROOT / path).read_bytes()
-        command = b'git show --check --format= "${GITHUB_SHA}" -- . \\\n'
+        command = b'git show --check --format= "${AUDIT_COMMIT}" -- . \\\n'
         markdown = b"            ':(top,glob,exclude)**/*.md' \\\n"
         idoly = (
             b"            ':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 "

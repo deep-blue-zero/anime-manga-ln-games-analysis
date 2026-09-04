@@ -29,6 +29,7 @@
     "quarantine/"
   ],
   "allowed_workflows": [
+    ".github/workflows/global-index-housekeeping.yml",
     ".github/workflows/repository-audit.yml"
   ],
   "allowed_text_extensions": [

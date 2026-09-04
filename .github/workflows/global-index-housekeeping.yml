@@ -1,0 +1,164 @@
+name: Global index housekeeping
+
+on:
+  workflow_run:
+    workflows:
+      - Repository audit
+    types:
+      - completed
+
+permissions:
+  contents: write
+
+concurrency:
+  group: global-index-housekeeping-${{ github.event.workflow_run.head_branch }}
+  cancel-in-progress: false
+
+jobs:
+  synchronize:
+    name: Synchronize allowlisted global surfaces
+    if: >-
+      github.event.workflow_run.event == 'push' &&
+      github.event.workflow_run.actor.login == github.repository_owner &&
+      (startsWith(github.event.workflow_run.head_branch, 'series/') ||
+      startsWith(github.event.workflow_run.head_branch, 'studies/'))
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    env:
+      BRANCH_NAME: ${{ github.event.workflow_run.head_branch }}
+      SOURCE_SHA: ${{ github.event.workflow_run.head_sha }}
+      SOURCE_AUDIT_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+      GH_TOKEN: ${{ github.token }}
+      PIP_DISABLE_PIP_VERSION_CHECK: "1"
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - name: Acquire and constrain the exact analytical branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ "${BRANCH_NAME}" =~ ^series/([a-z0-9][a-z0-9-]*)$ ]]; then
+            namespace="series"
+            slug="${BASH_REMATCH[1]}"
+          elif [[ "${BRANCH_NAME}" =~ ^studies/([a-z0-9][a-z0-9-]*)$ ]]; then
+            namespace="studies"
+            slug="${BASH_REMATCH[1]}"
+          else
+            echo "FAIL: branch is outside the stable analytical branch contract" >&2
+            exit 1
+          fi
+          git init .
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git fetch --no-tags origin \
+            "+refs/heads/main:refs/remotes/origin/main" \
+            "+refs/heads/${BRANCH_NAME}:refs/remotes/origin/${BRANCH_NAME}"
+          test "$(git rev-parse "origin/${BRANCH_NAME}")" = "${SOURCE_SHA}"
+          test "$(git rev-parse --is-shallow-repository)" = "false"
+          git checkout --detach "${SOURCE_SHA}"
+          git merge-base --is-ancestor origin/main HEAD
+          python - "${namespace}" "${slug}" <<'PY'
+          import subprocess
+          import sys
+
+          namespace, slug = sys.argv[1:]
+          allowed_outputs = {
+              "CHARACTER_ANALYSIS_INDEX.md",
+              "characters/registry.jsonl",
+              "governance/MANGA_ANIME_CORPUS_INDEX.md",
+              "series/README.md",
+              "series/registry.json",
+              "studies/README.md",
+              "studies/registry.json",
+          }
+          allowed_prefix = f"{namespace}/{slug}/"
+          changed = subprocess.check_output(
+              ["git", "diff", "--name-only", "-z", "origin/main...HEAD", "--"]
+          bad = sorted(
+              path
+              for raw in changed.split(b"\0")
+              if raw
+              for path in [raw.decode("utf-8", "strict")]
+              if path not in allowed_outputs and not path.startswith(allowed_prefix)
+          )
+          if bad:
+              raise SystemExit(f"FAIL: analytical branch contains out-of-scope paths: {bad}")
+          PY
+
+      - name: Install hash-locked validation dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --disable-pip-version-check --no-deps --require-hashes -r tools/requirements-validation.txt
+
+      - name: Generate, validate, and publish allowlisted outputs
+        shell: bash
+        run: |
+          set -euo pipefail
+          readonly generated_paths=(
+            "CHARACTER_ANALYSIS_INDEX.md"
+            "characters/registry.jsonl"
+            "governance/MANGA_ANIME_CORPUS_INDEX.md"
+            "series/README.md"
+            "series/registry.json"
+            "studies/README.md"
+            "studies/registry.json"
+          )
+          python tools/synchronize_global_registries.py --branch "${BRANCH_NAME}" --write
+          git add -- "series/registry.json" "studies/registry.json" "characters/registry.jsonl"
+          python tools/update_repository_indexes.py --snapshot index --write
+          git add -- "series/README.md" "studies/README.md" "governance/MANGA_ANIME_CORPUS_INDEX.md"
+          python tools/generate_character_index.py --snapshot index
+          git add -- "CHARACTER_ANALYSIS_INDEX.md"
+          python - "${generated_paths[@]}" <<'PY'
+          import subprocess
+          import sys
+
+          allowed = set(sys.argv[1:])
+          changed = {
+              raw.decode("utf-8", "strict")
+              for raw in subprocess.check_output(
+                  ["git", "diff", "--cached", "--name-only", "-z", "HEAD", "--"]
+              ).split(b"\0")
+              if raw
+          }
+          unexpected = sorted(changed - allowed)
+          if unexpected:
+              raise SystemExit(f"FAIL: automation staged a prohibited path: {unexpected}")
+          PY
+          if git diff --cached --quiet HEAD --; then
+            if [[ "${SOURCE_AUDIT_CONCLUSION}" != "success" ]]; then
+              echo "FAIL: source audit failed and no allowlisted generated repair exists" >&2
+              exit 1
+            fi
+            echo "PASS: global registries and indexes already match the analytical branch"
+            exit 0
+          fi
+          python tools/prepare_commit.py --base origin/main --check --full
+          export GIT_AUTHOR_NAME="deep-blue-zero"
+          export GIT_AUTHOR_EMAIL="50891441+peipw@users.noreply.github.com"
+          export GIT_COMMITTER_NAME="GitHub"
+          export GIT_COMMITTER_EMAIL="noreply@github.com"
+          git commit -m "chore: synchronize global repository indexes" \
+            -m "Generated-From: ${SOURCE_SHA}"
+          generated_sha="$(git rev-parse HEAD)"
+          test "$(git rev-parse HEAD^)" = "${SOURCE_SHA}"
+          test -z "$(git status --porcelain)"
+          remote_sha="$(git ls-remote --heads origin "refs/heads/${BRANCH_NAME}" | cut -f1)"
+          test "${remote_sha}" = "${SOURCE_SHA}"
+          git push origin "HEAD:refs/heads/${BRANCH_NAME}"
+          python - "${generated_sha}" "${BRANCH_NAME}" > dispatch.json <<'PY'
+          import json
+          import sys
+
+          print(json.dumps({
+              "event_type": "audit-generated-commit",
+              "client_payload": {"commit_sha": sys.argv[1], "branch": sys.argv[2]},
+          }))
+          PY
+          curl --fail-with-body --silent --show-error \
+            --request POST \
+            --header "Accept: application/vnd.github+json" \
+            --header "Authorization: Bearer ${GH_TOKEN}" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            --data-binary @dispatch.json \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/dispatches"
+          echo "PASS: published ${generated_sha} and dispatched its read-only audit"

@@ -8,6 +8,9 @@ on:
       - "chatgpt/**"
       - "series/**"
       - "studies/**"
+  repository_dispatch:
+    types:
+      - audit-generated-commit
   schedule:
     - cron: "17 6 * * 0"
   workflow_dispatch:
@@ -21,6 +24,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 20
     env:
+      AUDIT_COMMIT: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}
       PIP_DISABLE_PIP_VERSION_CHECK: "1"
       PYTHONDONTWRITEBYTECODE: "1"
     steps:
@@ -28,11 +32,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          [[ "${AUDIT_COMMIT}" =~ ^[0-9a-f]{40}$ ]]
           git init .
           git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
-          git fetch --no-tags origin "${GITHUB_SHA}"
+          git fetch --no-tags origin "${AUDIT_COMMIT}"
           git checkout --detach FETCH_HEAD
-          test "$(git rev-parse HEAD)" = "${GITHUB_SHA}"
+          test "$(git rev-parse HEAD)" = "${AUDIT_COMMIT}"
           test "$(git rev-parse --is-shallow-repository)" = "false"
 
       - name: Install hash-locked validation dependencies
@@ -47,7 +52,7 @@ jobs:
           MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"
         run: |
           set -euo pipefail
-          python tools/validate_repository.py --phase current --snapshot commit --commit "${GITHUB_SHA}" --repo .
+          python tools/validate_repository.py --phase current --snapshot commit --commit "${AUDIT_COMMIT}" --repo .
           python - <<'PY'
           import json
           import subprocess
@@ -139,6 +144,6 @@ jobs:
           mkdir -p "${MANGA_ANIME_TEST_TMP}"
           python -m unittest discover -s tools/tests -p "test_*.py"
           # Markdown uses two trailing spaces as an intentional hard line break.
-          git show --check --format= "${GITHUB_SHA}" -- . \
+          git show --check --format= "${AUDIT_COMMIT}" -- . \
             ':(top,glob,exclude)**/*.md' \
             ':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv'

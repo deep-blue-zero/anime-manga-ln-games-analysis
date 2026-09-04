@@ -1,7 +1,7 @@
 ---
 document_role: chatgpt_authority_bootstrap
 document_status: ACTIVE_STABILIZING
-document_revision: 2.4-authority-epoch-1
+document_revision: 2.5-authority-epoch-1
 schema_version: 1
 repository_provider: GitHub
 provider_confirmed: true
@@ -220,6 +220,8 @@ Before either execution profile:
 4. identify the exact authorized paths and evaluate `governance/repository-controls/change-obligations.json` for every required same-change index, registry, crosswalk, or manifest update;
 5. preserve the established project architecture, source boundary, authority metadata, and provenance.
 
+On stable `series/<stable-slug>` and `studies/<stable-slug>` branches, follow `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Write the named analytical root and any required `.repository/` declarative input only. Do not manually write the seven automation-owned global registry/catalog outputs; the trusted default-branch workflow synchronizes and audits them.
+
 ### 8.1 GitHub API or connector mode (ChatGPT)
 
 1. fetch `main` and the exact target-branch head; confirm the selected branch is based on or explicitly reconciled with current `main`;
@@ -303,9 +305,9 @@ Do not independently edit projection components or treat an unmerged Drive revis
 | Change | Required synchronized surface |
 |---|---|
 | Any tracked add, delete, or rename | Use the exact candidate Git tree as the canonical live path inventory; no global path-list projection is required. |
-| Add, remove, or reroute a series root | Update `series/registry.json`; regenerate `series/README.md` and the series catalog in `governance/MANGA_ANIME_CORPUS_INDEX.md`. |
-| Add, remove, or reroute a study root | Update `studies/registry.json`; regenerate `studies/README.md` and the studies catalog in `governance/MANGA_ANIME_CORPUS_INDEX.md`. |
-| Add or change character discovery or qualifying evidence | Update `characters/registry.jsonl`, verify exact-byte evidence hashes and authority eligibility, and regenerate `CHARACTER_ANALYSIS_INDEX.md`. |
+| Add or reroute a series root on its stable branch | Add or update `.repository/series-registry.json`; automation updates `series/registry.json`, `series/README.md`, and the corpus index. Deletion remains manual and separately reviewed. |
+| Add or reroute a study root on its stable branch | Add or update `.repository/study-registry.json`; automation updates `studies/registry.json`, `studies/README.md`, and the corpus index. Deletion remains manual and separately reviewed. |
+| Add or change character discovery or qualifying evidence on a stable series branch | Add or update `.repository/character-registry-upserts.jsonl`; automation updates `characters/registry.jsonl`, verifies the record against exact evidence bytes and authority metadata, and regenerates `CHARACTER_ANALYSIS_INDEX.md`. |
 | Add or change a Drive-only reference | Update `provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md` and verify its anchors. |
 
 Project-local entrypoints, indexes, and manifests must be updated when their own architecture requires them. Frozen migration crosswalks, activation bindings, and `G3_BOOTSTRAP_TRACKED_PATHS.txt` are not routine generated outputs and must not be rewritten merely to reflect later Git-native work. Historical transaction records may retain references to a live path manifest that existed at the recorded commit; those references are provenance, not a current dependency.

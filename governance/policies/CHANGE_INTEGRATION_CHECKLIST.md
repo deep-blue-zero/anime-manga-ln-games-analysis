@@ -9,6 +9,8 @@ This is the mandatory pre-commit contract for human, Codex, and ChatGPT changes 
 3. Preserve the owner-only authorship policy, the Git/Drive authority boundary, artifact exclusions, and frozen migration records.
 4. Declare the intended paths. Never use `git add .`, wildcard staging, force-push, or history rewriting.
 
+For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Author only the named analytical root and any required `.repository/` declarative inputs; the housekeeping workflow owns global registry and catalog writes.
+
 ## Branch routing and cleanup
 
 - Continuing series analysis is written to `series/<stable-slug>` and periodically integrated into `main`.
@@ -29,15 +31,19 @@ The machine-readable form of this table is `governance/repository-controls/chang
 | Change | Required synchronization |
 | --- | --- |
 | Any tracked add, delete, or rename | No global path-list projection. The final Git index/tree is the canonical live path inventory; evaluate the semantic obligations below. |
-| Add, remove, or reroute a series root | Update `series/registry.json`; regenerate `series/README.md` and the series catalog in `governance/MANGA_ANIME_CORPUS_INDEX.md`. |
-| Add, remove, or reroute a study root | Update `studies/registry.json`; regenerate `studies/README.md` and the studies catalog in `governance/MANGA_ANIME_CORPUS_INDEX.md`. |
-| Add or change character discovery or qualifying evidence | Update `characters/registry.jsonl`, verify exact-byte evidence hashes and authority eligibility, and regenerate `CHARACTER_ANALYSIS_INDEX.md`. |
+| Add, remove, or reroute a series root | On a stable series branch, provide `.repository/series-registry.json`; automation updates `series/registry.json`, `series/README.md`, and the corpus index. Elsewhere, update those outputs in the same reviewed change. Automatic removal is prohibited. |
+| Add, remove, or reroute a study root | On a stable study branch, provide `.repository/study-registry.json`; automation updates `studies/registry.json`, `studies/README.md`, and the corpus index. Elsewhere, update those outputs in the same reviewed change. Automatic removal is prohibited. |
+| Add or change character discovery or qualifying evidence | On a stable series branch, provide `.repository/character-registry-upserts.jsonl`; automation updates `characters/registry.jsonl`, verifies exact-byte evidence hashes and authority eligibility, and regenerates `CHARACTER_ANALYSIS_INDEX.md`. |
 | Add or change a Drive-only reference | Update the Drive artifact reference index and verify every referenced anchor. Do not rewrite frozen migration crosswalks. |
 | Change policy, schema, validation, workflow, or authority controls | Run the affected focused tests and review the governance effect. Use the explicit full gate for executable validation, workflow, schema, publication-safety, or authority changes. Authority-scope changes require separate owner authorization. |
 
 Ordinary edits, additions, and deletions inside an existing registered analytical root do not require unrelated global registry or catalog churn solely because the path set changed. New or removed series/study roots and other semantic changes still activate the specific obligations above. `G3_BOOTSTRAP_TRACKED_PATHS.txt` remains immutable historical evidence; it is not the live inventory.
 
-## Prepare the exact staged snapshot
+## Stable analytical branch profile
+
+Push the owner-authored analysis and optional declarative inputs to the matching stable branch. Do not include manual changes to the seven automation-owned global outputs. The read-only audit and default-branch housekeeping workflow perform synchronization, validation, the bounded child commit when needed, and the exact generated-commit audit. Integrate only the final green branch head.
+
+## Local or cross-cutting profile
 
 1. Stage only the declared content, registry, policy, and tool paths by exact pathname.
 2. Generate deterministic outputs from that index:
@@ -57,7 +63,7 @@ Use `python tools/prepare_commit.py --base origin/main --check --full` when expl
 
 1. Inspect the exact staged path list, diff, generated changes, and file sizes.
 2. Confirm the commit uses an approved owner author identity and an approved committer identity.
-3. Push normally without force. The read-only GitHub workflow is the single full post-publication repository audit; confirm that the exact remote commit passes it before treating the change as complete.
+3. Push normally without force. For a stable analytical branch, require the final housekeeping result and its generated-commit audit when an automated child commit was produced. For other branches and `main`, require the read-only repository audit for the exact remote commit.
 4. After integration, apply the verified branch-retention or pruning rule in `BRANCH_LIFECYCLE.md`.
 
 Do not routinely modify `governance/AUTHORITY_SCOPE.json`, authority-epoch records, bootstrap bindings, public-activation bindings, or the frozen Drive-to-Git migration crosswalks.

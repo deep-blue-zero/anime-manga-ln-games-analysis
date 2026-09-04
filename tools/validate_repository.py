@@ -90,6 +90,23 @@ STUDY_REGISTRY_PATH = "studies/registry.json"
 STUDY_REGISTRY_SCHEMA = "anime-manga-ln-games-analysis/study-registry/v1"
 CHANGE_OBLIGATIONS_PATH = "governance/repository-controls/change-obligations.json"
 CHANGE_OBLIGATIONS_SCHEMA = "anime-manga-ln-games-analysis/change-obligations/v1"
+GLOBAL_AUTOMATION_POLICY_PATH = (
+    "governance/repository-controls/global-index-automation-policy.json"
+)
+GLOBAL_AUTOMATION_POLICY_SCHEMA = (
+    "anime-manga-ln-games-analysis/global-index-automation-policy/v1"
+)
+AUDIT_WORKFLOW_PATH = ".github/workflows/repository-audit.yml"
+HOUSEKEEPING_WORKFLOW_PATH = ".github/workflows/global-index-housekeeping.yml"
+GLOBAL_AUTOMATION_WRITE_PATHS = {
+    "CHARACTER_ANALYSIS_INDEX.md",
+    "characters/registry.jsonl",
+    "governance/MANGA_ANIME_CORPUS_INDEX.md",
+    "series/README.md",
+    "series/registry.json",
+    "studies/README.md",
+    "studies/registry.json",
+}
 DJFW_TSV_WHITESPACE_ATTRIBUTE_RULE = (
     '"studies/doujinshi-fanwork-comparative-taxonomy/01 Project Registry and '
     'Source Lock/DJFW_PROJECT_CONTROL_SHEET.tabs/*.tsv" whitespace=-blank-at-eol'
@@ -218,17 +235,16 @@ def validate_paths(snapshot: GitSnapshot, policy: Mapping[str, Any]) -> list[str
 def validate_audit_workflow(
     snapshot: GitSnapshot, policy: Mapping[str, Any]
 ) -> list[str]:
-    """Enforce the settled single, non-mutating repository-audit workflow."""
+    """Enforce the non-mutating repository-audit workflow."""
 
-    expected = {".github/workflows/repository-audit.yml"}
+    expected = {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH}
     declared = set(policy.get("allowed_workflows", []))
     errors: list[str] = []
     if declared != expected:
         errors.append(
-            "allowed_workflows must contain only .github/workflows/repository-audit.yml"
+            "allowed_workflows must contain only the repository audit and global index housekeeper"
         )
-        return errors
-    entry = snapshot.get(".github/workflows/repository-audit.yml")
+    entry = snapshot.get(AUDIT_WORKFLOW_PATH)
     if entry is None:
         return ["approved repository-audit workflow is missing"]
     try:
@@ -244,12 +260,15 @@ def validate_audit_workflow(
         '      - "chatgpt/**"',
         '      - "series/**"',
         '      - "studies/**"',
+        "  repository_dispatch:",
+        "      - audit-generated-commit",
         '    - cron: "17 6 * * 0"',
         "  workflow_dispatch:",
         "permissions:\n  contents: read",
         "runs-on: ubuntu-24.04",
         'MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"',
-        'git fetch --no-tags origin "${GITHUB_SHA}"',
+        'AUDIT_COMMIT: ${{ github.event_name == \'repository_dispatch\' && github.event.client_payload.commit_sha || github.sha }}',
+        'git fetch --no-tags origin "${AUDIT_COMMIT}"',
         'test "$(git rev-parse --is-shallow-repository)" = "false"',
         "--require-hashes",
         "tools/validate_repository.py",
@@ -260,7 +279,7 @@ def validate_audit_workflow(
         if fragment not in text:
             errors.append(f"repository-audit workflow missing required contract: {fragment}")
 
-    whitespace_command = 'git show --check --format= "${GITHUB_SHA}" -- . \\'
+    whitespace_command = 'git show --check --format= "${AUDIT_COMMIT}" -- . \\'
     markdown_whitespace_exclusion = "':(top,glob,exclude)**/*.md'"
     idoly_whitespace_exclusion = (
         "':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 Source Audits and "
@@ -314,6 +333,129 @@ def validate_audit_workflow(
     for fragment in forbidden_fragments:
         if fragment in text:
             errors.append(f"repository-audit workflow contains prohibited capability: {fragment}")
+    return errors
+
+
+def validate_global_index_automation(
+    snapshot: GitSnapshot, policy: Mapping[str, Any]
+) -> list[str]:
+    """Bind the one write-capable workflow to its exact input and output contract."""
+
+    errors: list[str] = []
+    policy_entry = snapshot.get(GLOBAL_AUTOMATION_POLICY_PATH)
+    if policy_entry is None or not policy_entry.qualifies_as_evidence:
+        return [f"missing tracked regular automation policy: {GLOBAL_AUTOMATION_POLICY_PATH}"]
+    try:
+        document = decode_json(policy_entry.data, GLOBAL_AUTOMATION_POLICY_PATH)
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return [str(exc)]
+    if not isinstance(document, Mapping):
+        return [f"{GLOBAL_AUTOMATION_POLICY_PATH} must be a JSON object"]
+    if document.get("schema") != GLOBAL_AUTOMATION_POLICY_SCHEMA:
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.schema is not recognized")
+    if document.get("workflow") != HOUSEKEEPING_WORKFLOW_PATH:
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.workflow is not exact")
+    if document.get("trigger_workflow") != "Repository audit":
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.trigger_workflow is not exact")
+    if document.get("owner_actor") != "deep-blue-zero":
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.owner_actor is not exact")
+    if document.get("branch_prefixes") != ["series/", "studies/"]:
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.branch_prefixes are not exact")
+    expected_sources = {
+        "series_registry": "series/<stable-slug>/.repository/series-registry.json",
+        "study_registry": "studies/<stable-slug>/.repository/study-registry.json",
+        "character_upserts": (
+            "series/<stable-slug>/.repository/character-registry-upserts.jsonl"
+        ),
+    }
+    if document.get("source_contracts") != expected_sources:
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.source_contracts are not exact")
+    if set(document.get("allowed_write_paths", [])) != GLOBAL_AUTOMATION_WRITE_PATHS:
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.allowed_write_paths are not exact")
+    expected_prohibitions = {
+        "analysis_content_write",
+        "registry_delete",
+        "force_push",
+        "main_push",
+        "branch_create",
+        "branch_delete",
+        "tag_write",
+        "pull_request_write",
+        "release_write",
+    }
+    if set(document.get("prohibited_automatic_operations", [])) != expected_prohibitions:
+        errors.append(
+            f"{GLOBAL_AUTOMATION_POLICY_PATH}.prohibited_automatic_operations are not exact"
+        )
+    expected_author = {
+        "name": "deep-blue-zero",
+        "email": "50891441+peipw@users.noreply.github.com",
+    }
+    expected_committer = {"name": "GitHub", "email": "noreply@github.com"}
+    if document.get("commit_author") != expected_author:
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.commit_author is not exact")
+    if document.get("commit_committer") != expected_committer:
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.commit_committer is not exact")
+    if document.get("post_write_audit_dispatch") != "audit-generated-commit":
+        errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.post_write_audit_dispatch is not exact")
+
+    workflow_entry = snapshot.get(HOUSEKEEPING_WORKFLOW_PATH)
+    if workflow_entry is None or workflow_entry.mode != "100644":
+        return errors + ["approved global index housekeeping workflow is missing"]
+    try:
+        text = workflow_entry.data.decode("utf-8", "strict")
+    except UnicodeDecodeError as exc:
+        return errors + [f"global index housekeeping workflow is not UTF-8: {exc}"]
+    for required_path in (
+        "tools/synchronize_global_registries.py",
+        "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
+    ):
+        required_entry = snapshot.get(required_path)
+        if required_entry is None or not required_entry.qualifies_as_evidence:
+            errors.append(f"global index automation dependency is missing: {required_path}")
+    required_fragments = (
+        "name: Global index housekeeping",
+        "  workflow_run:",
+        "      - Repository audit",
+        "  contents: write",
+        "github.event.workflow_run.actor.login == github.repository_owner",
+        "git merge-base --is-ancestor origin/main HEAD",
+        "tools/synchronize_global_registries.py",
+        "tools/update_repository_indexes.py",
+        "tools/generate_character_index.py",
+        "tools/prepare_commit.py --base origin/main --check --full",
+        'export GIT_AUTHOR_NAME="deep-blue-zero"',
+        'export GIT_COMMITTER_NAME="GitHub"',
+        'git push origin "HEAD:refs/heads/${BRANCH_NAME}"',
+        '"event_type": "audit-generated-commit"',
+    )
+    for path in sorted(GLOBAL_AUTOMATION_WRITE_PATHS):
+        required_fragments += (f'"{path}"',)
+    for fragment in required_fragments:
+        if fragment not in text:
+            errors.append(f"global index housekeeping workflow missing contract: {fragment}")
+    forbidden_fragments = (
+        "uses:",
+        "secrets.",
+        "pull_request",
+        "issues: write",
+        "pull-requests: write",
+        "actions: write",
+        "git push --force",
+        "--force-with-lease",
+        "git reset",
+        "git clean",
+        "git tag",
+        "git branch -D",
+        "refs/heads/main\"",
+        "actions/upload-artifact",
+    )
+    for fragment in forbidden_fragments:
+        if fragment in text:
+            errors.append(f"global index housekeeping workflow contains prohibited capability: {fragment}")
+    declared = set(policy.get("allowed_workflows", []))
+    if declared != {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH}:
+        errors.append("global index automation workflow inventory is not exact")
     return errors
 
 
@@ -2441,6 +2583,7 @@ def main() -> int:
             errors.extend(validate_protected(snapshot))
             errors.extend(validate_markdown_links(snapshot))
             errors.extend(validate_audit_workflow(snapshot, policy))
+            errors.extend(validate_global_index_automation(snapshot, policy))
             errors.extend(validate_named_whitespace_exceptions(snapshot, policy))
             baseline_commit = active_migration_baseline_commit(snapshot)
             errors.extend(validate_active_authority_scope(snapshot, baseline_commit))
