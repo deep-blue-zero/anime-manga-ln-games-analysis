@@ -5,22 +5,23 @@ artifact_type: update_manifest
 scope: V41
 generation: V2
 method_generation: V2.1
-authority_state: branch_working_draft_not_main
+status: PROVISIONAL
 proposed_status_if_promoted: canonical
 source_boundary: Japanese manga Volume 41, narrative V41:p005-p195
-remote_mutation_authorized: true
-branch: chatgpt/my-hero-academia-analysis
+do_not_use_as_current_authority: true
 supersedes: []
 superseded_by: []
 ---
 
-# MHA SP2 — Volume 41 Update Manifest (Local Draft)
+# MHA SP2 — Volume 41 Update Manifest (Provisional Working Draft)
 
 ## Tranche state
 
-**FEATURE BRANCH / NOT MERGED TO `main`.**
+**PROVISIONAL WORKING PACKET / NOT CANONICAL MHA AUTHORITY.**
 
-This manifest records the proposed canonical consequences of the V41 second-pass reading. The analysis and pre-promotion semantic diffs are committed on `chatgpt/my-hero-academia-analysis`; the existing canonical cumulative ledgers, series current-state surface, and project-global state have not yet been mutated. The evidence Drive remains unchanged.
+This manifest records the proposed canonical consequences of the V41 second-pass reading. The analysis and pre-promotion semantic diffs are tracked in the V41 working packet, but the existing canonical cumulative ledgers and series current-state surface have not yet been mutated by this tranche. Presence of the packet in Git history or on `main` does not itself promote those proposed changes. The evidence Drive remains unchanged.
+
+The packet was originally staged on the now-retired temporary branch `chatgpt/my-hero-academia-analysis`. Continuing MHA work is now routed through `series/my-hero-academia` under the repository's branch lifecycle policy.
 
 ## Source closure
 
@@ -142,16 +143,16 @@ Supporting rules:
 
 ## Publication/promotion gates
 
-A future authorized promotion session must:
+A future authorized promotion transaction must:
 
 1. re-fetch every existing target and verify current blob SHA;
 2. reconcile any moved base rather than applying stale fragments;
-3. create the V41 deep reading and manifest on a feature branch under then-current governance;
+3. materialize the canonical V41 deep reading and manifest through the continuing `series/my-hero-academia` branch under then-current governance;
 4. apply cumulative ledgers/index updates atomically with the V41 reading;
 5. ensure all frontmatter source boundaries and top-level current-state snapshots agree;
-6. run repository audit/CI;
-7. treat any post-push failure as a closure blocker until repaired;
-8. merge/push only within the user's explicit authorization scope at that time.
+6. run the applicable pre-publication checks or connector-mode equivalent safety controls;
+7. use only an owner-authorized ordinary integration route into `main`, with remote-head drift rechecked immediately before integration;
+8. require the exact resulting `main` commit to pass the repository audit before treating promotion as closed.
 
 ## Next sequential operation
 

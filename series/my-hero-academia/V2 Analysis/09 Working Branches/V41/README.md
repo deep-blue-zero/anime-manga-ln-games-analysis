@@ -3,14 +3,16 @@ series: MHA
 corpus: MHA_SP2
 artifact_type: branch_tranche_entrypoint
 scope: V41
-authority_state: branch_working_draft_not_main
-branch: chatgpt/my-hero-academia-analysis
+status: PROVISIONAL
 source_boundary: Japanese manga Volume 41, narrative V41:p005-p195
+do_not_use_as_current_authority: true
 ---
 
-# My Hero Academia SP2 Volume 41 — Branch Tranche Entrypoint
+# My Hero Academia SP2 Volume 41 — Provisional Working Tranche Entrypoint
 
-This directory is the single current entrypoint for the Volume 41 working tranche on `chatgpt/my-hero-academia-analysis`. It is review/staging authority on this feature branch only and does not supersede canonical `main` artifacts.
+This directory is the single current entrypoint for the Volume 41 provisional working tranche. It is tracked for review and promotion preparation, but it does not supersede the canonical MHA current-state surface or advance the canonical sequential high-water mark beyond Volume 40.
+
+The packet was originally staged on the now-retired temporary branch `chatgpt/my-hero-academia-analysis`. Historical branch-provenance fields preserved inside the byte-locked deep-reading chunks describe that original staging event; they do **not** define current repository routing or authority. Continuing MHA work is routed by repository policy through `series/my-hero-academia`.
 
 ## Analytical artifacts
 
@@ -31,8 +33,8 @@ The following files preserve all 17 proposed cumulative-ledger/index/state updat
 - `diffs/V41_DIFFS_15_16.md` — primary-source locator; source inventory
 - `diffs/V41_DIFFS_17.md` — series current-state/corpus map
 
-All 17 recorded base blob SHAs were re-verified against the current `main` tree before this tranche was committed; no MHA target had drifted.
+All 17 recorded base blob SHAs were re-verified against the then-current `main` tree before the original tranche was committed; no MHA target had drifted at that staging boundary.
 
 ## Authority boundary
 
-This branch commit does **not** merge to `main`, rewrite canonical cumulative ledgers, advance canonical series state, mutate project-global routing/index state, or write to the evidence Drive. Those remain separate promotion operations requiring explicit authorization.
+Tracking this packet in the repository does **not** by itself rewrite canonical cumulative ledgers, advance canonical series state, mutate project-global routing/index state, or write to the evidence Drive. Those remain separate promotion operations requiring explicit owner authorization and the then-current integration controls.
