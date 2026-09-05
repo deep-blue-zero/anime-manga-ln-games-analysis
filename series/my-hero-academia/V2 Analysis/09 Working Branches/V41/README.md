@@ -3,7 +3,9 @@ series: MHA
 corpus: MHA_SP2
 artifact_type: branch_tranche_entrypoint
 scope: V41
-status: PROVISIONAL
+status: draft_noncurrent
+supersedes: []
+superseded_by: []
 source_boundary: Japanese manga Volume 41, narrative V41:p005-p195
 do_not_use_as_current_authority: true
 ---

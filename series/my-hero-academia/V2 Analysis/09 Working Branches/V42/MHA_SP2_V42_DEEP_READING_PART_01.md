@@ -5,7 +5,7 @@ artifact_type: deep_reading
 scope: V42
 generation: V2
 method_generation: V2.1
-status: PROVISIONAL
+status: draft_noncurrent
 proposed_status_if_promoted: canonical
 source_boundary: Japanese manga Volume 42, narrative V42:p005-p183; V42:p145 authorial paratext; V42:p184+ non-narrative publication/end matter
 supersedes: []

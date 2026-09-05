@@ -329,6 +329,23 @@ class AuthorityFrontMatterTests(unittest.TestCase):
                             f"series/example/{status}.md",
                         )
 
+    def test_draft_noncurrent_preserves_veto_and_cannot_claim_supersession(self) -> None:
+        path = "series/example/draft.md"
+        graph = AuthorityGraph(snapshot({
+            path: authority_document("draft_noncurrent", do_not_use=True),
+        }))
+        self.assertEqual(graph.errors, [])
+        self.assertEqual(graph.classification(path), "DRAFT_NONCURRENT")
+        self.assertFalse(graph.current_eligible(path))
+        for data in (
+            authority_document("draft_noncurrent"),
+            authority_document("draft_noncurrent", do_not_use=True, supersedes=("series/example/old.md",)),
+            authority_document("draft_noncurrent", do_not_use=True, superseded_by=("series/example/new.md",)),
+        ):
+            with self.subTest(data=data):
+                with self.assertRaisesRegex(DomainError, "draft_noncurrent requires"):
+                    parse_authority_front_matter(data, path)
+
     def test_partial_authority_quartet_is_unclassified_legacy_not_current(self) -> None:
         fields = {
             "status": "status: canonical",

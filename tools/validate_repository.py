@@ -19,6 +19,7 @@ from urllib.parse import unquote_to_bytes
 from character_index_core import (
     AuthorityGraph,
     DomainError,
+    _restricted_yaml_load,
     GitSnapshot,
     decode_json,
     decode_jsonl_with_lines,
@@ -234,7 +235,7 @@ def validate_paths(snapshot: GitSnapshot, policy: Mapping[str, Any]) -> list[str
 def validate_audit_workflow(
     snapshot: GitSnapshot, policy: Mapping[str, Any]
 ) -> list[str]:
-    """Enforce the non-mutating repository-audit workflow."""
+    """Enforce content-read-only validation and an isolated exact-status reporter."""
 
     expected = {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH}
     declared = set(policy.get("allowed_workflows", []))
@@ -272,12 +273,45 @@ def validate_audit_workflow(
         'test "$(git rev-parse --is-shallow-repository)" = "false"',
         "--require-hashes",
         "tools/validate_repository.py",
+        'audit_args+=(--routing-preflight "${AUDIT_BRANCH}")',
+        'steps.validate.outputs.integration_state',
         'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
         "python -m unittest discover",
     )
     for fragment in required_fragments:
         if fragment not in text:
             errors.append(f"repository-audit workflow missing required contract: {fragment}")
+
+
+    # Only the isolated reporter receives write permission. It has no checkout
+    # or candidate-code execution and publishes one exact audit-status context.
+    try:
+        workflow = _restricted_yaml_load(
+            re.sub(r"(?m)^on:", '"on":', text), AUDIT_WORKFLOW_PATH
+        )
+        if not isinstance(workflow, Mapping) or workflow.get("permissions") != {"contents": "read"}:
+            errors.append("audit validation must retain read-only contents permission")
+        jobs = workflow.get("jobs", {}) if isinstance(workflow, Mapping) else {}
+        if not isinstance(jobs, Mapping) or set(jobs) != {"audit", "report"}:
+            errors.append("audit jobs must be exactly validation and isolated status reporting")
+            jobs = {}
+        audit_job = jobs.get("audit", {})
+        if not isinstance(audit_job, Mapping) or audit_job.get(
+            "permissions", {"contents": "read"}
+        ) != {"contents": "read"}:
+            errors.append("audit validation job must not receive write permissions")
+        if isinstance(audit_job, Mapping) and (
+            "uses" in audit_job or any(
+                isinstance(step, Mapping) and "uses" in step
+                for step in audit_job.get("steps", [])
+            )
+        ):
+            errors.append("repository-audit workflow contains prohibited capability: uses:")
+        expected_report = {"name":"Report the result on the audited commit","needs":"audit","if":"${{ always() }}","runs-on":"ubuntu-24.04","timeout-minutes":5,"permissions":{"statuses":"write"},"steps":[{"name":"Publish only the exact audit status","shell":"bash","env":{"GH_TOKEN":"${{ github.token }}","AUDIT_COMMIT":"${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}","AUDIT_RESULT":"${{ needs.audit.result }}","INTEGRATION_STATE":"${{ needs.audit.outputs.integration_state }}"},"run":"set -euo pipefail\npython - <<'PY'\nimport json\nimport os\nimport re\nimport urllib.request\n\nsha = os.environ[\"AUDIT_COMMIT\"]\nrepository = os.environ[\"GITHUB_REPOSITORY\"]\nif not re.fullmatch(r\"[0-9a-f]{40}\", sha):\n    raise SystemExit(\"FAIL: invalid audited commit\")\nif repository != \"deep-blue-zero/anime-manga-ln-games-analysis\":\n    raise SystemExit(\"FAIL: unexpected repository\")\nresult = os.environ[\"AUDIT_RESULT\"]\nintegration = os.environ[\"INTEGRATION_STATE\"]\nif result == \"success\" and integration in {\"success\", \"pending\"}:\n    state = integration\n    description = (\n        \"Exact commit passed the repository audit\"\n        if state == \"success\"\n        else \"Authored content passed; awaiting routing synchronization\"\n    )\nelse:\n    state = \"error\" if result in {\"cancelled\", \"skipped\"} else \"failure\"\n    description = \"Audit did not complete successfully; this commit is not integration-ready\"\npayload = json.dumps({\n    \"state\": state,\n    \"context\": \"Repository integration audit\",\n    \"description\": description,\n    \"target_url\": f\"https://github.com/{repository}/actions/runs/{os.environ['GITHUB_RUN_ID']}\",\n}).encode(\"utf-8\")\nrequest = urllib.request.Request(\n    f\"https://api.github.com/repos/{repository}/statuses/{sha}\",\n    data=payload,\n    headers={\n        \"Accept\": \"application/vnd.github+json\",\n        \"Authorization\": \"Bearer \" + os.environ[\"GH_TOKEN\"],\n        \"X-GitHub-Api-Version\": \"2022-11-28\",\n    },\n    method=\"POST\",\n)\nwith urllib.request.urlopen(request, timeout=30) as response:\n    if response.status != 201:\n        raise SystemExit(\"FAIL: GitHub did not confirm the commit status\")\nprint(f\"Reported {state} for exact audited commit {sha}\")\nPY\n"}]}
+        if jobs.get("report") != expected_report:
+            errors.append("audit status reporter differs from the exact reviewed reporting contract")
+    except (DomainError, AttributeError, TypeError, ValueError) as exc:
+        errors.append(f"invalid audit permission/reporting contract: {exc}")
 
     whitespace_command = 'git show --check --format= "${AUDIT_COMMIT}" -- . \\'
     markdown_whitespace_exclusion = "':(top,glob,exclude)**/*.md'"
@@ -316,7 +350,6 @@ def validate_audit_workflow(
     forbidden_fragments = (
         "pull_request",
         "secrets.",
-        "uses:",
         "contents: write",
         "permissions: write",
         "git push",
@@ -417,6 +450,11 @@ def validate_global_index_automation(
         "      - Repository audit",
         "  contents: write",
         "github.event.workflow_run.actor.login == github.repository_owner",
+        "github.event.workflow_run.conclusion == 'success'",
+        "steps.acquire.outputs.ready == 'true'",
+        "Superseded housekeeping run",
+        "Superseded before publication",
+        "Main advanced during housekeeping",
         "git merge-base --is-ancestor origin/main HEAD",
         "tools/synchronize_global_registries.py",
         "tools/update_repository_indexes.py",
@@ -2570,6 +2608,8 @@ def main() -> int:
     parser.add_argument("--snapshot", choices=["worktree", "index", "commit"])
     parser.add_argument("--commit")
     parser.add_argument("--manifest", type=Path)
+    parser.add_argument("--routing-preflight", metavar="ANALYTICAL_BRANCH")
+    parser.add_argument("--result-json", type=Path)
     parser.add_argument(
         "--defer-schema-engine",
         action="store_true",
@@ -2585,7 +2625,12 @@ def main() -> int:
             commit = require_g3_selection(root, kind, commit, args.manifest is not None)
         elif kind == "commit" and commit is None:
             commit = run_git(root, "rev-parse", "HEAD").decode("ascii").strip()
+        if args.routing_preflight and (
+            args.phase != "current" or kind not in {"index", "commit"} or args.defer_schema_engine
+        ):
+            raise DomainError("routing preflight requires a current Git index or exact commit with full schema validation")
         snapshot, paths = choose_snapshot(root, kind, commit)
+        deferred_routing: list[str] = []
         policy = _policy_from_snapshot(snapshot)
         errors: list[str] = []
         if args.manifest:
@@ -2598,6 +2643,10 @@ def main() -> int:
         errors.extend(validate_bytes(snapshot, policy, args.phase))
         revision = identity_revision_for_snapshot(kind, commit)
         errors.extend(validate_commit_identities(root, policy, revision))
+        if args.routing_preflight:
+            from analytical_preflight import routing_preflight
+
+            snapshot, deferred_routing = routing_preflight(snapshot, args.routing_preflight)
         if args.phase == "g3":
             errors.extend(validate_protected(snapshot))
         else:
@@ -2620,17 +2669,33 @@ def main() -> int:
             if not args.defer_schema_engine:
                 generator_snapshot = "commit" if kind == "commit" else kind
                 errors.extend(validate_generated_index(snapshot, generator_snapshot))
-                errors.extend(
-                    validate_generated_repository_indexes(
-                        root,
-                        generator_snapshot,
-                        commit if kind == "commit" else None,
+                if not deferred_routing:
+                    errors.extend(
+                        validate_generated_repository_indexes(
+                            root,
+                            generator_snapshot,
+                            commit if kind == "commit" else None,
+                        )
                     )
-                )
         if errors:
             for error in sorted(set(errors), key=lambda item: item.encode("utf-8")):
                 print(f"FAIL: {error}")
             return 1
+        if args.result_json:
+            args.result_json.write_text(
+                json.dumps({
+                    "audited_commit": commit,
+                    "integration_state": "pending" if deferred_routing else "success",
+                    "deferred_routing_paths": deferred_routing,
+                }) + "\n",
+                encoding="utf-8",
+            )
+        if deferred_routing:
+            print(
+                f"AWAITING_SYNCHRONIZATION: source={snapshot.identity} paths={deferred_routing}; "
+                "authored content passed; the projected routing bytes are not committed"
+            )
+            return 0
         suffix = (
             " (schema engine explicitly deferred; generated-index CLI not independently invoked)"
             if args.defer_schema_engine

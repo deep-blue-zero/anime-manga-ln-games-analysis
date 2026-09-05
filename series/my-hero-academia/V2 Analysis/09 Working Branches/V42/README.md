@@ -5,7 +5,9 @@ artifact_type: working_tranche_entrypoint
 scope: V42
 generation: V2
 method_generation: V2.1
-status: PROVISIONAL
+status: draft_noncurrent
+supersedes: []
+superseded_by: []
 source_boundary: Japanese manga Volume 42, narrative V42:p005-p183; V42:p145 is authorial paratext; V42:p184+ is non-narrative publication/end matter
 do_not_use_as_current_authority: true
 intended_repository_branch: series/my-hero-academia

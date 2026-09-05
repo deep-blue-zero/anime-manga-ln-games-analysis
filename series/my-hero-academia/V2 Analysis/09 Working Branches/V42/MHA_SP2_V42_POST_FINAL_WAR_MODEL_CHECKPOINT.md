@@ -5,7 +5,9 @@ artifact_type: character_model_checkpoint
 scope: POST_FINAL_WAR_V42
 generation: V2
 method_generation: V2.1
-status: PROVISIONAL
+status: draft_noncurrent
+supersedes: []
+superseded_by: []
 source_boundary: Japanese manga evidence through Volume 42, with V41 and V42 late-volume analyses still provisional
 do_not_use_as_current_authority: true
 intended_canonical_home: series/my-hero-academia/V2 Analysis/04 Character Modeling and Reconstruction/MHA_SP2_V42_POST_FINAL_WAR_MODEL_CHECKPOINT.md

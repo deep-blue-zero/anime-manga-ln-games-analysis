@@ -155,13 +155,25 @@ The exact status vocabulary is:
 ```text
 canonical
 active_provisional
+draft_noncurrent
 superseded
 historical_legacy
 ```
 
-`canonical` and `active_provisional` are current-eligible only with a false veto flag, no successor, and a valid bounded supersession component. Provisional evidence remains visibly marked provisional. `superseded` and `historical_legacy` never qualify current evidence and require the veto flag to be true. Supersession pointers are reciprocal exact-case POSIX paths and form an acyclic predecessor-to-successor graph with exactly one current sink for a referenced superseded lineage.
+`canonical` and `active_provisional` are current-eligible only with a false veto flag, no successor, and a valid bounded supersession component. Provisional current evidence remains visibly marked provisional. `superseded` and `historical_legacy` never qualify current evidence and require the veto flag to be true. Supersession pointers are reciprocal exact-case POSIX paths and form an acyclic predecessor-to-successor graph with exactly one current sink for a referenced superseded lineage.
 
-If none of the four fields exists, the present target is `UNCLASSIFIED_LEGACY`: useful as provenance but ineligible for `INCLUDED` or reviewed reconstruction. A partial, malformed, contradictory, dangling, or cyclic authority surface is invalid, not legacy. A missing target is `MISSING`, not unclassified. Free text, filenames, timestamps, and recency cannot override these outcomes, and a validator never silently substitutes a successor for the named evidence path.
+A working draft that must not act as current authority uses the complete quartet:
+
+```yaml
+status: draft_noncurrent
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: true
+```
+
+`draft_noncurrent` is valid but never current-eligible for character evidence, reconstruction, or a canonical registry entrypoint. Both supersession arrays must remain empty: a draft cannot supersede current work. Promote it only through an evidence-supported authority decision. Uppercase `PROVISIONAL` is not a recognized machine status; `active_provisional` means current-eligible provisional authority and must not be substituted for a noncurrent draft simply to pass validation.
+
+For compatibility with imported legacy metadata, an incomplete or absent quartet is classified as `UNCLASSIFIED_LEGACY`: useful as provenance but ineligible for `INCLUDED` or reviewed reconstruction. Newly authored or deliberately revised authority metadata must supply all four fields. A complete but malformed, contradictory, dangling, or cyclic authority surface is invalid, not legacy. A missing target is `MISSING`, not unclassified. Free text, filenames, timestamps, and recency cannot override these outcomes, and a validator never silently substitutes a successor for the named evidence path.
 
 ## Deterministic generation
 

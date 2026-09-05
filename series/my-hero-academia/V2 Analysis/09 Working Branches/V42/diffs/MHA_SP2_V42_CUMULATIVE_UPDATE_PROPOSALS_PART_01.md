@@ -5,7 +5,9 @@ artifact_type: cumulative_update_proposals
 scope: V42
 generation: V2
 method_generation: V2.1
-status: PROVISIONAL
+status: draft_noncurrent
+supersedes: []
+superseded_by: []
 source_boundary: Japanese manga Volume 42, narrative V42:p005-p183
 do_not_use_as_current_authority: true
 apply_ready: false

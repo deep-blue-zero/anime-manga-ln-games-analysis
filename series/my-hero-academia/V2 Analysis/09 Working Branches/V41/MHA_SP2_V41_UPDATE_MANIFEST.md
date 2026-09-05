@@ -5,7 +5,7 @@ artifact_type: update_manifest
 scope: V41
 generation: V2
 method_generation: V2.1
-status: PROVISIONAL
+status: draft_noncurrent
 proposed_status_if_promoted: canonical
 source_boundary: Japanese manga Volume 41, narrative V41:p005-p195
 do_not_use_as_current_authority: true
