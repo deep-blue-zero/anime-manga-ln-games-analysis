@@ -9,7 +9,7 @@ This is the mandatory pre-commit contract for human, Codex, and ChatGPT changes 
 3. Preserve the owner-only authorship policy, the Git/Drive authority boundary, artifact exclusions, and frozen migration records.
 4. Declare the intended paths. Never use `git add .`, wildcard staging, force-push, or history rewriting.
 
-For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Author only the named analytical root and any required `.repository/` declarative inputs; the housekeeping workflow owns global registry and catalog writes.
+For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Author the named analytical root and required series/study routing descriptors; housekeeping owns five routing outputs. Character discovery belongs solely to the curation agent under `CHARACTER_DISCOVERY_MAINTENANCE.md`. It may supply a coordinated pre-merge repair on a source branch, but housekeeping may not write either character output.
 
 ## Branch routing and cleanup
 
@@ -20,6 +20,7 @@ For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. 
 - Bootstrap, migration, repair, audit-remediation, experiment, and one-shot automation branches are temporary.
 - A temporary branch must be pruned after its intended content is verified on `origin/main`, the exact integration is recoverable, the `main` repository audit is green, and no intended artifact remains unique to the branch.
 - Use ancestry to verify merges and fast-forwards. For an approved squash or rebase, compare the complete tree or reviewed patch before deletion. Never bulk-delete branches merely because they are old or their pull requests are closed.
+- The reusable `character-registry` branch may remain while the recurring curation task is active; follow `CHARACTER_DISCOVERY_MAINTENANCE.md` for its two-file boundary and exact-head integration checks.
 - Stable series and study branches may remain while actively used. Apply the same verified pruning rule when one is retired.
 
 The full branch contract is `governance/policies/BRANCH_LIFECYCLE.md`.
@@ -33,7 +34,8 @@ The machine-readable form of this table is `governance/repository-controls/chang
 | Any tracked add, delete, or rename | No global path-list projection. The final Git index/tree is the canonical live path inventory; evaluate the semantic obligations below. |
 | Add, remove, or reroute a series root | On a stable series branch, provide `.repository/series-registry.json`; automation updates `series/registry.json`, `series/README.md`, and the corpus index. Elsewhere, update those outputs in the same reviewed change. Automatic removal is prohibited. |
 | Add, remove, or reroute a study root | On a stable study branch, provide `.repository/study-registry.json`; automation updates `studies/registry.json`, `studies/README.md`, and the corpus index. Elsewhere, update those outputs in the same reviewed change. Automatic removal is prohibited. |
-| Add or change character discovery or qualifying evidence | On a stable series branch, provide `.repository/character-registry-upserts.jsonl`; automation updates `characters/registry.jsonl`, verifies exact-byte evidence hashes and authority eligibility, and regenerates `CHARACTER_ANALYSIS_INDEX.md`. |
+| Add new eligible character analysis | Daily curation may enroll it after merge if existing character references and generated output remain valid. Character-upsert inputs are no longer required or applied. |
+| Change the character registry or already referenced evidence | The curation agent reviews affected records and regenerates `CHARACTER_ANALYSIS_INDEX.md`; evidence changes that invalidate existing discovery require its coordinated repair before source integration. |
 | Add or change a Drive-only reference | Update the Drive artifact reference index and verify every referenced anchor. Do not rewrite frozen migration crosswalks. |
 | Change policy, schema, validation, workflow, or authority controls | Run the affected focused tests and review the governance effect. Use the explicit full gate for executable validation, workflow, schema, publication-safety, or authority changes. Authority-scope changes require separate owner authorization. |
 
@@ -41,7 +43,7 @@ Ordinary edits, additions, and deletions inside an existing registered analytica
 
 ## Stable analytical branch profile
 
-Push the owner-authored analysis and optional declarative inputs to the matching stable branch. Do not include manual changes to the seven automation-owned global outputs. The read-only audit and default-branch housekeeping workflow perform synchronization, validation, the bounded child commit when needed, and the exact generated-commit audit. Integrate only the final green branch head.
+Push the owner-authored analysis and routing descriptors to the matching stable branch. Housekeeping synchronizes only its five routing outputs. Only the character curation agent may supply the two character files as a coordinated pre-merge repair; it must review against the exact proposed evidence tree. The read-only audit continues validating all character invariants and the generated index. Require any housekeeping child commit and its exact-commit audit, and integrate only the final green branch head.
 
 ## Local or cross-cutting profile
 

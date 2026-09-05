@@ -193,7 +193,8 @@ Conversation memory, search-result ranking, file recency, and filename similarit
 | Existing or new `GIT_PRIMARY` analysis for a registered title | `series/<stable-slug>/` content on the continuing `series/<stable-slug>` branch |
 | New title | Create registry/corpus-index change and reviewed stable slug before content |
 | Comparative, taxonomy, or cross-series study | `studies/<stable-slug>/` content on the continuing `studies/<stable-slug>` branch; never force into a series |
-| Governance, authority maps, crosswalks, Git indexes, or repository tooling | Narrow temporary `chatgpt/<purpose>` or `codex/<purpose>` branch with heightened review and verified post-integration pruning |
+| Character discovery registry and generated index | Sole curation agent on reusable `character-registry`; coordinated pre-merge evidence repair follows `CHARACTER_DISCOVERY_MAINTENANCE.md` |
+| Other governance, authority maps, crosswalks, Git indexes, or repository tooling | Narrow temporary `chatgpt/<purpose>` or `codex/<purpose>` branch with heightened review and verified post-integration pruning |
 | Primary sources, media, or extraction outputs | Source/ingestion domain; never analytical Git |
 | Existing `DRIVE_NATIVE_PRIMARY` Doc/Sheet | Controlled Drive-native workflow, then verified Git projection refresh |
 | Convenience ZIP or frozen release binary | Drive only; update Git manifest if needed |
@@ -220,7 +221,7 @@ Before either execution profile:
 4. identify the exact authorized paths and evaluate `governance/repository-controls/change-obligations.json` for every required same-change index, registry, crosswalk, or manifest update;
 5. preserve the established project architecture, source boundary, authority metadata, and provenance.
 
-On stable `series/<stable-slug>` and `studies/<stable-slug>` branches, follow `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Write the named analytical root and any required `.repository/` declarative input only. Do not manually write the seven automation-owned global registry/catalog outputs; the trusted default-branch workflow synchronizes and audits them.
+On stable `series/<stable-slug>` and `studies/<stable-slug>` branches, follow `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Write the named analytical root and required routing descriptors. Housekeeping synchronizes only five series/study routing outputs. Character discovery is exclusively maintained by the owner-authorized cloud curation agent under `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`; only that agent may provide a coordinated character repair on the source branch before integration.
 
 ### 8.1 GitHub API or connector mode (ChatGPT)
 
@@ -260,7 +261,7 @@ If authenticated GitHub access is unavailable, request connection/authorization 
 
 Temporary bootstrap, migration, repair, audit-remediation, experiment, and one-shot branches must be deleted after their intended content is verified on `origin/main`, their integration is recoverable by ancestry or exact tree/patch comparison, the `main` audit is green, and no intended artifact remains unique to the branch. Delete the remote temporary branch and then any local counterpart.
 
-Continuing `series/<stable-slug>` and `studies/<stable-slug>` branches may remain while their named analytical roots are active. Different series or study branches may advance concurrently. Periodically reconcile them with `main`; work on the same analytical root must not proceed concurrently without explicit reconciliation. Apply the verified pruning rule when a continuing branch is retired.
+The curation agent's exact `character-registry` branch may remain while its recurring task is active; follow `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`. Continuing `series/<stable-slug>` and `studies/<stable-slug>` branches may remain while their named analytical roots are active. Different series or study branches may advance concurrently. Periodically reconcile them with `main`; work on the same analytical root must not proceed concurrently without explicit reconciliation. Apply the verified pruning rule when a continuing branch is retired.
 
 ### 8.4 Frozen-release administrative maintenance
 
@@ -307,7 +308,8 @@ Do not independently edit projection components or treat an unmerged Drive revis
 | Any tracked add, delete, or rename | Use the exact candidate Git tree as the canonical live path inventory; no global path-list projection is required. |
 | Add or reroute a series root on its stable branch | Add or update `.repository/series-registry.json`; automation updates `series/registry.json`, `series/README.md`, and the corpus index. Deletion remains manual and separately reviewed. |
 | Add or reroute a study root on its stable branch | Add or update `.repository/study-registry.json`; automation updates `studies/registry.json`, `studies/README.md`, and the corpus index. Deletion remains manual and separately reviewed. |
-| Add or change character discovery or qualifying evidence on a stable series branch | Add or update `.repository/character-registry-upserts.jsonl`; automation updates `characters/registry.jsonl`, verifies the record against exact evidence bytes and authority metadata, and regenerates `CHARACTER_ANALYSIS_INDEX.md`. |
+| New eligible character analysis | The curation agent reviews it after merge; discovery may lag while existing character invariants remain valid. Retired character-upsert files are optional historical leads, never replacement inputs. |
+| Change character metadata or already referenced evidence | Only the curation agent updates `characters/registry.jsonl` and generates `CHARACTER_ANALYSIS_INDEX.md`. Broken references or a stale index require a coordinated repair before the source change integrates. |
 | Add or change a Drive-only reference | Update `provenance/drive-artifacts/DRIVE_ARTIFACT_REFERENCE_INDEX.md` and verify its anchors. |
 
 Project-local entrypoints, indexes, and manifests must be updated when their own architecture requires them. Frozen migration crosswalks, activation bindings, and `G3_BOOTSTRAP_TRACKED_PATHS.txt` are not routine generated outputs and must not be rewritten merely to reflect later Git-native work. Historical transaction records may retain references to a live path manifest that existed at the recorded commit; those references are provenance, not a current dependency.
