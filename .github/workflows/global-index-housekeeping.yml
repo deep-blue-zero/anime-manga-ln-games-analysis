@@ -60,7 +60,9 @@ jobs:
           import sys
 
           namespace, slug = sys.argv[1:]
-          allowed_outputs = {
+          # Branches may carry agent-authored character repairs for coordinated integration.
+          # These two files are read-only to housekeeping; only five outputs may be written.
+          allowed_branch_globals = {
               "CHARACTER_ANALYSIS_INDEX.md",
               "characters/registry.jsonl",
               "governance/MANGA_ANIME_CORPUS_INDEX.md",
@@ -78,7 +80,7 @@ jobs:
               for raw in changed.split(b"\0")
               if raw
               for path in [raw.decode("utf-8", "strict")]
-              if path not in allowed_outputs and not path.startswith(allowed_prefix)
+              if path not in allowed_branch_globals and not path.startswith(allowed_prefix)
           )
           if bad:
               raise SystemExit(f"FAIL: analytical branch contains out-of-scope paths: {bad}")
@@ -95,8 +97,6 @@ jobs:
         run: |
           set -euo pipefail
           readonly generated_paths=(
-            "CHARACTER_ANALYSIS_INDEX.md"
-            "characters/registry.jsonl"
             "governance/MANGA_ANIME_CORPUS_INDEX.md"
             "series/README.md"
             "series/registry.json"
@@ -104,11 +104,9 @@ jobs:
             "studies/registry.json"
           )
           python tools/synchronize_global_registries.py --branch "${BRANCH_NAME}" --write
-          git add -- "series/registry.json" "studies/registry.json" "characters/registry.jsonl"
+          git add -- "series/registry.json" "studies/registry.json"
           python tools/update_repository_indexes.py --snapshot index --write
           git add -- "series/README.md" "studies/README.md" "governance/MANGA_ANIME_CORPUS_INDEX.md"
-          python tools/generate_character_index.py --snapshot index
-          git add -- "CHARACTER_ANALYSIS_INDEX.md"
           python - "${generated_paths[@]}" <<'PY'
           import subprocess
           import sys

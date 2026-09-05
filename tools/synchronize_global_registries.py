@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Apply series-local declarative inputs to global machine registries.
+"""Apply series/study routing inputs to their global machine registries.
 
-The tool never writes analytical content. It supports additive or replacement
-upserts only; automated registry deletion is deliberately outside its contract.
+Character discovery belongs exclusively to the curation agent. This tool does
+not read character proposals or read, normalize, or write character outputs.
+It never writes analytical content or deletes registry records.
 """
 
 from __future__ import annotations
@@ -17,14 +18,12 @@ from character_index_core import (
     DomainError,
     atomic_write_text,
     decode_json,
-    decode_jsonl_with_lines,
 )
 
 
 BRANCH_RE = re.compile(r"^(series|studies)/([a-z0-9][a-z0-9-]*)$")
 SERIES_REGISTRY = "series/registry.json"
 STUDY_REGISTRY = "studies/registry.json"
-CHARACTER_REGISTRY = "characters/registry.jsonl"
 
 
 def parse_branch(branch: str) -> tuple[str, str]:
@@ -43,13 +42,6 @@ def _read_object(path: Path, label: str) -> dict[str, Any]:
 
 def _render_json(value: Mapping[str, Any]) -> str:
     return json.dumps(value, ensure_ascii=False, indent=2) + "\n"
-
-
-def _render_jsonl(rows: list[Mapping[str, Any]]) -> str:
-    return "".join(
-        json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n"
-        for row in rows
-    )
 
 
 def _upsert_root_row(
@@ -86,46 +78,6 @@ def _upsert_root_row(
     rows.sort(key=lambda row: str(row.get("stable_slug", "")).encode("utf-8"))
 
 
-def _upsert_characters(
-    current: list[dict[str, Any]], source: list[dict[str, Any]], slug: str
-) -> None:
-    positions: dict[str, int] = {}
-    for index, row in enumerate(current):
-        subject_id = row.get("analysis_subject_id")
-        if not isinstance(subject_id, str) or subject_id in positions:
-            raise DomainError("global character registry has a missing or duplicate analysis_subject_id")
-        positions[subject_id] = index
-
-    source_ids: set[str] = set()
-    expected_prefix = f"series/{slug}/"
-    for row in source:
-        subject_id = row.get("analysis_subject_id")
-        if not isinstance(subject_id, str) or not subject_id:
-            raise DomainError("character upsert lacks analysis_subject_id")
-        if subject_id in source_ids:
-            raise DomainError(f"duplicate character upsert: {subject_id}")
-        source_ids.add(subject_id)
-        if row.get("series_id") != slug:
-            raise DomainError(f"{subject_id}: series_id must equal branch slug {slug!r}")
-        evidence = row.get("evidence")
-        if not isinstance(evidence, list):
-            raise DomainError(f"{subject_id}: evidence must be an array")
-        for evidence_row in evidence:
-            path = evidence_row.get("repository_path") if isinstance(evidence_row, Mapping) else None
-            if not isinstance(path, str) or not path.startswith(expected_prefix):
-                raise DomainError(
-                    f"{subject_id}: automated evidence must remain under {expected_prefix}"
-                )
-        if subject_id in positions:
-            existing = current[positions[subject_id]]
-            if existing.get("series_id") != slug:
-                raise DomainError(f"{subject_id}: upsert would cross a series ownership boundary")
-            current[positions[subject_id]] = dict(row)
-        else:
-            positions[subject_id] = len(current)
-            current.append(dict(row))
-
-
 def synchronize(root: Path, branch: str) -> dict[str, str]:
     namespace, slug = parse_branch(branch)
     root_registry_path = root / (SERIES_REGISTRY if namespace == "series" else STUDY_REGISTRY)
@@ -159,26 +111,7 @@ def synchronize(root: Path, branch: str) -> dict[str, str]:
             f"new {namespace} root requires declarative input {input_path.relative_to(root).as_posix()}"
         )
 
-    outputs = {root_registry_path.relative_to(root).as_posix(): _render_json(root_document)}
-    if namespace == "series":
-        character_path = root / CHARACTER_REGISTRY
-        current = [
-            row
-            for _line, row in decode_jsonl_with_lines(
-                character_path.read_bytes(), CHARACTER_REGISTRY
-            )
-        ]
-        character_input = root / "series" / slug / ".repository" / "character-registry-upserts.jsonl"
-        if character_input.is_file():
-            source = [
-                row
-                for _line, row in decode_jsonl_with_lines(
-                    character_input.read_bytes(), character_input.as_posix()
-                )
-            ]
-            _upsert_characters(current, source, slug)
-        outputs[CHARACTER_REGISTRY] = _render_jsonl(current)
-    return outputs
+    return {root_registry_path.relative_to(root).as_posix(): _render_json(root_document)}
 
 
 def main() -> int:

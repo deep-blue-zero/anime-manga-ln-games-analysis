@@ -1,5 +1,5 @@
 {
-  "schema": "anime-manga-ln-games-analysis/global-index-automation-policy/v1",
+  "schema": "anime-manga-ln-games-analysis/global-index-automation-policy/v2",
   "workflow": ".github/workflows/global-index-housekeeping.yml",
   "trigger_workflow": "Repository audit",
   "owner_actor": "deep-blue-zero",
@@ -9,12 +9,9 @@
   ],
   "source_contracts": {
     "series_registry": "series/<stable-slug>/.repository/series-registry.json",
-    "study_registry": "studies/<stable-slug>/.repository/study-registry.json",
-    "character_upserts": "series/<stable-slug>/.repository/character-registry-upserts.jsonl"
+    "study_registry": "studies/<stable-slug>/.repository/study-registry.json"
   },
   "allowed_write_paths": [
-    "CHARACTER_ANALYSIS_INDEX.md",
-    "characters/registry.jsonl",
     "governance/MANGA_ANIME_CORPUS_INDEX.md",
     "series/README.md",
     "series/registry.json",

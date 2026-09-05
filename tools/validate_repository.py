@@ -8,6 +8,7 @@ import hashlib
 import json
 import os
 import re
+import shlex
 import subprocess
 import sys
 import unicodedata
@@ -94,13 +95,11 @@ GLOBAL_AUTOMATION_POLICY_PATH = (
     "governance/repository-controls/global-index-automation-policy.json"
 )
 GLOBAL_AUTOMATION_POLICY_SCHEMA = (
-    "anime-manga-ln-games-analysis/global-index-automation-policy/v1"
+    "anime-manga-ln-games-analysis/global-index-automation-policy/v2"
 )
 AUDIT_WORKFLOW_PATH = ".github/workflows/repository-audit.yml"
 HOUSEKEEPING_WORKFLOW_PATH = ".github/workflows/global-index-housekeeping.yml"
 GLOBAL_AUTOMATION_WRITE_PATHS = {
-    "CHARACTER_ANALYSIS_INDEX.md",
-    "characters/registry.jsonl",
     "governance/MANGA_ANIME_CORPUS_INDEX.md",
     "series/README.md",
     "series/registry.json",
@@ -256,6 +255,7 @@ def validate_audit_workflow(
         "name: Repository audit",
         "  push:",
         "      - main",
+        "      - character-registry",
         '      - "codex/**"',
         '      - "chatgpt/**"',
         '      - "series/**"',
@@ -364,9 +364,6 @@ def validate_global_index_automation(
     expected_sources = {
         "series_registry": "series/<stable-slug>/.repository/series-registry.json",
         "study_registry": "studies/<stable-slug>/.repository/study-registry.json",
-        "character_upserts": (
-            "series/<stable-slug>/.repository/character-registry-upserts.jsonl"
-        ),
     }
     if document.get("source_contracts") != expected_sources:
         errors.append(f"{GLOBAL_AUTOMATION_POLICY_PATH}.source_contracts are not exact")
@@ -409,6 +406,7 @@ def validate_global_index_automation(
     for required_path in (
         "tools/synchronize_global_registries.py",
         "governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md",
+        "governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md",
     ):
         required_entry = snapshot.get(required_path)
         if required_entry is None or not required_entry.qualifies_as_evidence:
@@ -422,7 +420,6 @@ def validate_global_index_automation(
         "git merge-base --is-ancestor origin/main HEAD",
         "tools/synchronize_global_registries.py",
         "tools/update_repository_indexes.py",
-        "tools/generate_character_index.py",
         "tools/prepare_commit.py --base origin/main --check --full",
         'export GIT_AUTHOR_NAME="deep-blue-zero"',
         'export GIT_COMMITTER_NAME="GitHub"',
@@ -434,7 +431,31 @@ def validate_global_index_automation(
     for fragment in required_fragments:
         if fragment not in text:
             errors.append(f"global index housekeeping workflow missing contract: {fragment}")
+    # Branch confinement may admit coordinated agent-authored character repairs,
+    # but the actual generated/staged output set must remain the five routing paths.
+    output_blocks = re.findall(
+        r"readonly generated_paths=\((.*?)\)", text, flags=re.DOTALL
+    )
+    try:
+        generated_paths = shlex.split(output_blocks[0]) if len(output_blocks) == 1 else []
+        staged_paths: list[str] = []
+        for line in text.splitlines():
+            if line.strip().startswith("git add"):
+                command = shlex.split(line.strip())
+                if command[:3] != ["git", "add", "--"]:
+                    raise ValueError("staging must use exact paths after git add --")
+                staged_paths.extend(command[3:])
+        if (
+            len(generated_paths) != len(GLOBAL_AUTOMATION_WRITE_PATHS)
+            or set(generated_paths) != GLOBAL_AUTOMATION_WRITE_PATHS
+        ):
+            errors.append("housekeeping generated paths must be exactly the five routing outputs")
+        if set(staged_paths) != GLOBAL_AUTOMATION_WRITE_PATHS:
+            errors.append("housekeeping staging must contain only the five routing outputs")
+    except ValueError as exc:
+        errors.append(f"invalid housekeeping output/staging contract: {exc}")
     forbidden_fragments = (
+        "tools/generate_character_index.py",
         "uses:",
         "secrets.",
         "pull_request",

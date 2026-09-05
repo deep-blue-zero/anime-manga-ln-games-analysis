@@ -6,11 +6,17 @@ This repository uses named integration branches to isolate concurrent analytical
 
 - Continuing series work uses `series/<stable-slug>`.
 - Continuing cross-series or non-series study work uses `studies/<stable-slug>`.
-- Each branch carries owner/agent-authored work only for its named analytical root and optional `.repository/` declarative inputs. The bounded housekeeping workflow may append a child commit containing only its seven exact global registry/catalog outputs.
+- Each branch carries owner/agent-authored work only for its named analytical root and optional `.repository/` declarative inputs. The bounded housekeeping workflow may append a child commit containing only its five exact series/study routing outputs. A coordinated pre-merge repair may include a separately identifiable character-agent commit over the two character outputs; housekeeping treats those files as read-only.
 - Different series or study branches may advance concurrently. Changes to the same analytical root must be serialized or explicitly reconciled before integration.
 - Before each integration cycle, incorporate the current `origin/main`. Require the stable-branch audit and, when generated surfaces changed, the housekeeping child commit plus its dispatched exact-commit audit. Merge through the repository's owner-controlled process. Periodic integration is preferred over an indefinitely divergent branch.
 
 These branches may remain while their named corpus is actively receiving work. If a series or study branch is retired, apply the same verification and pruning procedure used for temporary branches.
+
+## Continuing character curation
+
+The sole character curation agent uses the exact reusable `character-registry` branch for recurring two-file discovery updates and at most one open PR to `main`. This is an explicit continuing-branch exception to the temporary cross-cutting convention. Retain it while active; recreate it from current `main` after any verified automatic deletion. Reconcile without force-pushing or rewriting history.
+
+Follow `CHARACTER_DISCOVERY_MAINTENANCE.md` for semantic review, exact-head audits, protected automatic integration, and cloud checkpoints. Ordinary curation PRs contain only `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md`. Pre-merge evidence repairs are agent-authored on the exact source branch and integrated by the owner/source task as a combined validated change; this does not grant the daily agent authority to merge analysis.
 
 ## Temporary branches
 
@@ -27,4 +33,4 @@ After those checks, delete the remote temporary branch and then its local counte
 
 ## Cross-cutting work
 
-Repository-wide governance, tooling, or index changes use a narrowly named temporary branch such as `codex/<purpose>` or `chatgpt/<purpose>`. It must be pruned after verified integration. Do not route unrelated analytical content through a cross-cutting branch merely to avoid its series or study integration branch.
+Except for the continuing character curation branch above, repository-wide governance, tooling, or index changes use a narrowly named temporary branch such as `codex/<purpose>` or `chatgpt/<purpose>`. It must be pruned after verified integration. Do not route unrelated analytical content through a cross-cutting branch merely to avoid its series or study integration branch.

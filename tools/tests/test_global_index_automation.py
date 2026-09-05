@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -32,69 +33,94 @@ class GlobalIndexAutomationTests(unittest.TestCase):
 
     def root(self, temporary: str) -> Path:
         root = Path(temporary)
-        write_json(
-            root / "series/registry.json",
-            {
-                "schema": "anime-manga-ln-games-analysis/series-registry/v2",
-                "status": "TEST",
-                "series": [],
-            },
-        )
-        write_json(
-            root / "studies/registry.json",
-            {
-                "schema": "anime-manga-ln-games-analysis/study-registry/v1",
-                "status": "TEST",
-                "studies": [],
-            },
-        )
-        (root / "characters").mkdir(parents=True)
-        (root / "characters/registry.jsonl").write_text("", encoding="utf-8")
+        for namespace in ("series", "studies"):
+            write_json(root / namespace / "registry.json", {namespace: []})
         return root
 
-    def test_series_inputs_upsert_only_global_registry_outputs(self) -> None:
+    def descriptor(self, root: Path, namespace: str = "series") -> dict[str, str]:
+        singular = "series" if namespace == "series" else "study"
+        value = {
+            f"{singular}_id": "example",
+            "stable_slug": "example",
+            "repository_path": f"{namespace}/example/",
+        }
+        write_json(
+            root / namespace / "example/.repository" / f"{singular}-registry.json",
+            value,
+        )
+        return value
+
+    def test_series_routing_does_not_depend_on_character_files(self) -> None:
         with self.temporary() as temporary:
             root = self.root(temporary)
-            descriptor = {
-                "series_id": "example-series",
-                "stable_slug": "example-series",
-                "canonical_title": "Example Series",
-                "media": ["ANIME"],
-                "repository_path": "series/example-series/",
-                "canonical_entrypoint": "series/example-series/CURRENT_STATE_AND_CORPUS_MAP.md",
-                "canonical_entrypoint_status": "PRESENT_VERIFIED",
-                "materialization_status": "PRESENT_REVIEWED",
-                "migration_scope": "GIT_NATIVE_POST_CUTOVER_TEST",
-                "authority_status": "GIT_PRIMARY",
-            }
-            write_json(
-                root / "series/example-series/.repository/series-registry.json",
-                descriptor,
-            )
-            character = {
-                "analysis_subject_id": "example-series:alice@anime",
-                "series_id": "example-series",
-                "evidence": [
-                    {
-                        "repository_path": "series/example-series/Characters/ALICE.md"
-                    }
-                ],
-            }
-            source = root / "series/example-series/.repository/character-registry-upserts.jsonl"
-            source.write_bytes(
-                (json.dumps(character, separators=(",", ":")) + "\n").encode("utf-8")
-            )
+            descriptor = self.descriptor(root)
+            self.assertFalse((root / "characters").exists())
+            outputs = synchronize(root, "series/example")
+            self.assertEqual(set(outputs), {"series/registry.json"})
+            self.assertEqual(json.loads(outputs["series/registry.json"])["series"], [descriptor])
+            self.assertFalse((root / "characters").exists())
 
-            outputs = synchronize(root, "series/example-series")
-            self.assertEqual(set(outputs), {"series/registry.json", "characters/registry.jsonl"})
-            rendered_series = json.loads(outputs["series/registry.json"])
-            self.assertEqual(rendered_series["series"], [descriptor])
-            rendered_characters = [
-                json.loads(line)
-                for line in outputs["characters/registry.jsonl"].splitlines()
-                if line
-            ]
-            self.assertEqual(rendered_characters, [character])
+    def test_legacy_character_proposals_are_never_replacement_inputs(self) -> None:
+        with self.temporary() as temporary:
+            root = self.root(temporary)
+            self.descriptor(root)
+            source = root / "series/example/.repository/character-registry-upserts.jsonl"
+            proposals = (
+                json.dumps({
+                    "analysis_subject_id": "example:alice@anime",
+                    "series_id": "example",
+                    "evidence": [{"repository_path": "series/other/ALICE.md"}],
+                }) + "\n",
+                "malformed historical proposal\n",
+            )
+            for proposal in proposals:
+                with self.subTest(proposal=proposal):
+                    source.write_text(proposal, encoding="utf-8")
+                    outputs = synchronize(root, "series/example")
+                    self.assertEqual(set(outputs), {"series/registry.json"})
+                    self.assertEqual(source.read_text(encoding="utf-8"), proposal)
+
+    def test_write_and_check_preserve_character_bytes_and_proposals(self) -> None:
+        with self.temporary() as temporary:
+            root = self.root(temporary)
+            self.descriptor(root)
+            preserved = {
+                "characters/registry.jsonl": b'{"unparsed": "agent-owned"}\r\n',
+                "CHARACTER_ANALYSIS_INDEX.md": b"# Agent-owned index\n",
+                "series/example/.repository/character-registry-upserts.jsonl":
+                    b"malformed legacy proposal\n",
+            }
+            for name, data in preserved.items():
+                path = root / name
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_bytes(data)
+            for operation in ("--write", "--check"):
+                result = subprocess.run(
+                    [
+                        sys.executable, str(TOOLS / "synchronize_global_registries.py"),
+                        "--repo", str(root), "--branch", "series/example", operation,
+                    ],
+                    capture_output=True, text=True, check=False,
+                )
+                self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+                for name, data in preserved.items():
+                    self.assertEqual((root / name).read_bytes(), data, name)
+
+    def test_study_routing_remains_independent(self) -> None:
+        with self.temporary() as temporary:
+            root = self.root(temporary)
+            descriptor = self.descriptor(root, "studies")
+            outputs = synchronize(root, "studies/example")
+            self.assertEqual(set(outputs), {"studies/registry.json"})
+            self.assertEqual(json.loads(outputs["studies/registry.json"])["studies"], [descriptor])
+
+    def test_existing_root_without_descriptor_preserves_registered_row(self) -> None:
+        with self.temporary() as temporary:
+            root = self.root(temporary)
+            row = {"series_id": "example", "stable_slug": "example"}
+            write_json(root / "series/registry.json", {"series": [row]})
+            outputs = synchronize(root, "series/example")
+            self.assertEqual(json.loads(outputs["series/registry.json"])["series"], [row])
 
     def test_new_root_without_descriptor_fails_closed(self) -> None:
         with self.temporary() as temporary:
@@ -102,41 +128,19 @@ class GlobalIndexAutomationTests(unittest.TestCase):
             with self.assertRaisesRegex(DomainError, "requires declarative input"):
                 synchronize(root, "series/unregistered")
 
-    def test_character_upsert_cannot_cross_series_boundary(self) -> None:
+    def test_routing_descriptor_cannot_cross_branch_boundary(self) -> None:
         with self.temporary() as temporary:
             root = self.root(temporary)
-            descriptor = {
-                "series_id": "example-series",
-                "stable_slug": "example-series",
-                "repository_path": "series/example-series/",
-            }
-            write_json(
-                root / "series/example-series/.repository/series-registry.json",
-                descriptor,
-            )
-            source = root / "series/example-series/.repository/character-registry-upserts.jsonl"
-            source.write_bytes(
-                (
-                    json.dumps(
-                    {
-                        "analysis_subject_id": "example-series:alice@anime",
-                        "series_id": "example-series",
-                        "evidence": [
-                            {"repository_path": "series/another-series/ALICE.md"}
-                        ],
-                    },
-                        separators=(",", ":"),
-                    )
-                    + "\n"
-                ).encode("utf-8")
-            )
-            with self.assertRaisesRegex(DomainError, "automated evidence must remain"):
-                synchronize(root, "series/example-series")
+            descriptor = self.descriptor(root)
+            descriptor["repository_path"] = "series/other/"
+            write_json(root / "series/example/.repository/series-registry.json", descriptor)
+            with self.assertRaisesRegex(DomainError, "repository_path must equal"):
+                synchronize(root, "series/example")
 
     def test_branch_parser_rejects_cross_cutting_and_nested_names(self) -> None:
         with self.temporary() as temporary:
             root = self.root(temporary)
-            for branch in ("main", "codex/test", "series/foo/extra", "series/Foo"):
+            for branch in ("main", "character-registry", "codex/test", "series/foo/extra", "series/Foo"):
                 with self.subTest(branch=branch):
                     with self.assertRaisesRegex(DomainError, "branch must be exactly"):
                         synchronize(root, branch)
