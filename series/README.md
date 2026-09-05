@@ -30,6 +30,7 @@ The final G7 materialization and sealed epoch-1 migration scope contain these se
 - [`one-punch-man/`](one-punch-man/) — One Punch Man
 - [`oregairu/`](oregairu/) — Oregairu
 - [`oreimo/`](oreimo/) — Oreimo
+- [`project-sekai/`](project-sekai/) — Project SEKAI — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
 - [`redo-of-healer/`](redo-of-healer/) — Redo of Healer
 - [`revue-starlight/`](revue-starlight/) — Revue Starlight
 - [`shine-post/`](shine-post/) — SHINE POST
