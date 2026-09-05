@@ -17,17 +17,18 @@ Volumes 06.5 and 08.5 should receive their own explicitly routed supplemental re
 | Unit | State | Artifact |
 |---|---|---|
 | V01 | **READ / ANALYZED / FROZEN** | `TOMOZAKI_V01_DEEP_READING.md` |
-| V02 | **NEXT / UNREAD** | not yet created |
-| V03-V11 | **UNREAD** | not yet created |
+| V02 | **READ / ANALYZED / FROZEN** | `TOMOZAKI_V02_DEEP_READING.md` |
+| V03 | **NEXT / UNREAD** | not yet created |
+| V04-V11 | **UNREAD** | not yet created |
 | V06.5 / V08.5 | available supplemental witnesses; placement not yet integrated | not yet created |
 
-The V01 document contains the untouched pre-V01 prospective freeze, source-grounded V01 analysis, a post-V01 claim state, explicit abstentions, and the frozen V02 questions/predictions.
+The V01 document contains the untouched pre-V01 prospective freeze and the controlling pre-V02 state. The V02 document evaluates that frozen state, records the V02 claim revisions, promotes the first longitudinal effort/competition responsibility, and freezes the V03 questions/predictions.
 
 ## Prospective-freeze rule
 
 Each numbered main volume begins from the frozen state after the previous numbered volume. Before reading the next volume, record important open questions and predictions. Later evidence may revise the current model but must not silently rewrite the earlier freeze.
 
-For V02 specifically, `TOMOZAKI_V01_DEEP_READING.md` is the controlling prior-state freeze. Do not open V02 and then retrofit V01 predictions.
+For V03 specifically, `TOMOZAKI_V02_DEEP_READING.md` is the controlling prior-state freeze. Preserve both earlier volume documents as historical analytical states; do not open V03 and then retrofit V02 predictions.
 
 ## Minimum responsibilities
 

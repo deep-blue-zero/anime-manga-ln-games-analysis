@@ -4,7 +4,7 @@ artifact_type: current_state_and_corpus_map
 scope: GIT_NATIVE_ANALYTICAL_ROOT
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
 source_audit_date: 2026-08-29
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -55,22 +55,25 @@ This source inventory is **verified**. It does not establish availability or aut
 
 ## 4. Current analytical state
 
-**Volume 01 has been read, analyzed, and prospectively frozen. Volume 02 remains unread.**
+**Volumes 01 and 02 have been read, analyzed, and prospectively frozen. Volume 03 remains unread.**
 
 Current completed responsibilities:
 
 - analytical methodology: established;
 - source inventory and source lock: established;
 - V01 sequential deep reading: completed and frozen;
-- longitudinal-ledger home: established, with no ledger yet instantiated;
+- V02 sequential deep reading: completed and frozen;
+- first longitudinal ledger: instantiated for effort, competition, goal ownership, stopping conditions, and comparative self-worth;
 - character-analysis home: established, with no character monograph yet instantiated;
 - audit/manifest home: established.
 
 V01 was read from audited witness `Bottom-Tier Character Tomozaki - Volume 01.epub`, Drive file ID `1B7r3rf0bIZ1gnFg88NTeDa5K6C4LVlF0`, SHA-256 `49d1577da47a22e0838b8430a52bfe24639effcfb519786149cba7ed1d0bc0c4`.
 
-The bounded V01 state establishes, at high confidence, that Tomozaki begins with a pre-existing effort ethic and disciplined learning capacity; that his social fatalism is a domain-specific exemption rather than generalized passivity; that multiple social subskills improve through practice without proving Hinami's universal `神ゲー` claim; that competence improves faster than global confidence or self-concept; that learned technique begins to become owned competence; and that agency increases through unassigned, value-driven actions. The exact claim states, counterevidence, abstentions, and V02 predictions are frozen in `02 Sequential Readings/TOMOZAKI_V01_DEEP_READING.md`.
+V02 was read from audited witness `Bottom-Tier Character Tomozaki - Volume 02.epub`, Drive file ID `1kCgzfriuHOjBmDOqsgR0MpLEz3aTqI25`, SHA-256 `9eac14b30b4192e41c901e8194e7ab99e306ef8b6226cf8fa18ee71b75a57c5c`.
 
-No character is globally enrolled by this V01 analysis. Character discovery is maintained independently by the designated curation agent through the canonical `characters/registry.jsonl` and generated `CHARACTER_ANALYSIS_INDEX.md`. This analytical branch does not create character upsert inputs or independently edit either character output. Future eligible Tomozaki character analysis may merge first and be discovered by the curation agent afterward, provided no existing character reference is invalidated.
+The bounded V02 state strengthens the V01 finding that Tomozaki's `良ゲー` revision is resilient to failure: Mimimi's 456–131 election defeat produces causal analysis rather than renewed fatalism. V02 also differentiates Tomozaki's mastery-centered effort ethic from Hinami's stronger first-place orientation; activates the risk that Tomozaki can overapply respect for effort when he ignores goal ownership, moving comparison targets, health, and relational costs; reconstructs Mimimi's crisis around comparative self-worth rather than simple jealousy; and establishes Tama's relationship-specific valuation as the decisive non-comparative identity anchor in that crisis. Tomozaki's agency also becomes more bounded: he increasingly recognizes when the correct action is to create conditions for another person's relationship-specific intervention rather than personally control the outcome. The exact claim revisions, counterevidence, abstentions, and V03 predictions are frozen in `02 Sequential Readings/TOMOZAKI_V02_DEEP_READING.md`.
+
+No Tomozaki character is currently enrolled in the canonical character registry. Character discovery is maintained independently by the designated curation agent through `characters/registry.jsonl` and generated `CHARACTER_ANALYSIS_INDEX.md`. This analytical branch does not create character upsert inputs or independently edit either character output. Eligible V01/V02 distributed character analysis may be discovered after merge by the curation agent, provided no existing character reference is invalidated.
 
 ## 5. Architecture
 
@@ -95,19 +98,21 @@ Current artifacts:
 
 - `README.md`
 - `TOMOZAKI_V01_DEEP_READING.md` — V01 closed/frozen
+- `TOMOZAKI_V02_DEEP_READING.md` — V02 closed/frozen
 
 Next expected artifact:
 
-- `TOMOZAKI_V02_DEEP_READING.md`
+- `TOMOZAKI_V03_DEEP_READING.md`
 
 ### `03 Longitudinal Ledgers/`
 Canonical home for recurring cross-volume questions once repetition creates a real retrieval/revision need.
 
-Current artifact:
+Current artifacts:
 
 - `README.md`
+- `TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md` — current through V02
 
-No substantive ledger exists yet.
+The first ledger is deliberately narrow: it tracks effort regimes, competition, goal origin/ownership, comparison targets, stopping conditions, self-worth coupling, collateral costs, and revision state. It is not a general character ledger.
 
 ### `04 Character Analysis/`
 Canonical home for source-grounded character modeling after sufficient longitudinal evidence accumulates.
@@ -134,22 +139,22 @@ Current artifact:
 
 Directories `05`, `06`, `07`, and `90` are intentionally absent. They should be created only when an actual analytical responsibility requires them.
 
-## 6. Current analytical questions after V01
+## 6. Current analytical questions after V02
 
-The following questions are frozen for testing against V02 rather than treated as conclusions:
+The following questions are frozen for testing against V03 rather than treated as conclusions:
 
-- Does Tomozaki's `良ゲー` revision survive meaningful negative evidence, or does confidence collapse faster than competence?
-- Will the main disagreement with Hinami increasingly concern **ends and values** rather than whether her techniques work?
-- Can Tomozaki integrate learned technique with his direct considered-expression style without one erasing the other?
-- How broadly does `空気` generalize across different groups, and who can resist or rewrite it at what cost?
-- What mixture of gamer respect, mentorship, project investment, friendship, control, and possible affection explains Hinami's investment in Tomozaki?
-- Does Nakamura's newly demonstrated effort produce a more reciprocal rivalry?
-- Does Yuzu's costly resistance to group pressure recur outside the exact V01 confrontation?
-- Can the Kikuchi relationship develop on an honest basis after the false shared-interest reset?
-- Does Tomozaki eventually overgeneralize the opposite lesson and begin treating structural constraints or other people's agency as controllable through sufficient correct effort?
-- Which dimensions move next: competence, confidence, status, self-concept, agency, or values?
+- Does Tomozaki retain the V02 correction that serious effort is not self-validating when the goal, comparison structure, or collateral costs are misaligned?
+- Does the main Tomozaki/Hinami disagreement move further from technique toward ends, people as ends rather than pieces, and acceptable optimization?
+- What source-grounded motive, stopping condition, or self-worth structure explains Hinami's uncompromising perfectionism?
+- Does Mimimi remain ambitious without returning to first-place-dependent identity collapse?
+- Can Tomozaki act as strategist without overclaiming control over other people's goals and agency?
+- Does Tomozaki's self-concept continue catching up with his improved competence and ordinary social belonging?
+- Does the Kikuchi relationship remain genuinely owned rather than primarily serving a Hinami-defined girlfriend objective?
+- Does Hinami increasingly treat Tomozaki as a source of surprise and reciprocal competition outside explicitly staged contests?
+- How modifiable is `空気` when there is no campaign-style preparation or obvious reframing device?
+- Does Tomozaki's new bounded-agency model generalize: recognizing when the right move is to involve another person rather than personally solve the event?
 
-The V01 deep reading contains the controlling confidence bounds, falsifiers, and explicit predictions. These questions may be falsified, revised, or abandoned by later evidence.
+The V02 deep reading contains the controlling confidence bounds, falsifiers, and explicit predictions. The effort/competition/goal-ownership ledger retains the cross-volume state for that promoted responsibility.
 
 ## 7. Main reading order and side-story control
 
@@ -157,7 +162,7 @@ The default prospective main chain is:
 
 `V01 → V02 → V03 → V04 → V05 → V06 → V07 → V08 → V09 → V10 → V11`
 
-Current position: **V01 complete; V02 unread.** Preserve the V01 freeze before opening V02.
+Current position: **V01-V02 complete; V03 unread.** Preserve both frozen volume states before opening V03.
 
 Volumes V06.5 and V08.5 are inside the source lock but outside that simple integer-numbered chain. Before either is consulted, establish and record its publication/diegetic placement and the main-volume frozen state it is allowed to inform.
 
@@ -165,25 +170,30 @@ Do not use side-story evidence retroactively to rewrite earlier predictions.
 
 ## 8. Work order
 
-1. Preserve `TOMOZAKI_V01_DEEP_READING.md` as the bounded V01 historical analytical state.
-2. Admit the exact audited V02 witness from the source lock.
-3. Before opening V02, record any genuinely new pre-read prediction only if it arises independently of V02 evidence.
-4. Read V02 as a new evidence increment and classify important V01 claims as PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, or OPEN.
-5. Promote recurring questions into longitudinal ledgers only when repeated cross-volume evidence makes retrieval difficult inside sequential readings.
-6. Create character monographs only after enough longitudinal evidence exists to support stable/state/recipient distinctions and meaningful abstentions.
-7. Create specialist or whole-series synthesis only after its source coverage and analytical responsibility are explicit.
+1. Preserve `TOMOZAKI_V01_DEEP_READING.md` and `TOMOZAKI_V02_DEEP_READING.md` as bounded historical analytical states.
+2. Carry the V02 post-state and frozen V03 questions forward without consulting later volumes.
+3. Admit the exact audited V03 witness from the source lock.
+4. Read V03 as a new evidence increment and classify important V02 claims as PRESERVE, STRENGTHEN, REVISE, DOWNGRADE, REJECT, or OPEN.
+5. Update `TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md` only where V03 materially changes its maintained longitudinal state.
+6. Promote other recurring questions into ledgers only when multiple frozen source states make retrieval/revision cumbersome.
+7. Create character monographs only after enough longitudinal evidence exists to support stable/state/recipient distinctions and meaningful abstentions.
+8. Create specialist or whole-series synthesis only after its source coverage and analytical responsibility are explicit.
 
 ## 9. Current abstentions
 
-At the V01 boundary this project deliberately does **not** claim:
+At the V02 boundary this project deliberately does **not** claim:
 
-- a definitive whole-series interpretation of Tomozaki, Hinami, or any other character;
+- a definitive whole-series interpretation of Tomozaki, Hinami, Mimimi, Tama, Kikuchi, or any other character;
+- the full motive, history, or psychological structure behind Hinami's perfectionism;
 - that Hinami's public persona is fake or her private presentation is the singular true self;
-- that Hinami is benevolent, manipulative, romantic, or emotionally detached in any final sense;
-- a romance outcome or ranking;
+- that extreme effort, first-place orientation, self-improvement, or competition is inherently healthy or unhealthy;
+- that Mimimi has permanently resolved comparative self-worth or envy;
+- that Tomozaki's effort ethic is now fully corrected;
+- that Tomozaki and Hinami, Tomozaki and Kikuchi, or any other pair has a settled romantic trajectory;
 - that Tomozaki has become broadly confident or high-status;
 - that learned social behavior is inherently authentic or inherently fake;
 - that `空気` explains all group behavior;
+- that Tama's relationship-specific valuation will remain sufficient under every future stressor;
 - that life is objectively fair or a `神ゲー`;
 - a PACTRIH score or comparative-ethics placement;
 - an adaptation comparison;
@@ -194,4 +204,4 @@ Those claims require later source-grounded work.
 
 ## 10. Current next action
 
-**Begin the prospective Volume 02 deep reading from the frozen V01 state, using the exact audited Japanese V02 witness and without consulting later volumes first.**
+**Begin the prospective Volume 03 deep reading from the frozen V02 state, using the exact audited Japanese V03 witness and without consulting later volumes first.**
