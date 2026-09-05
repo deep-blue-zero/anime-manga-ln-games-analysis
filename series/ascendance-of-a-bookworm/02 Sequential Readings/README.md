@@ -2,7 +2,7 @@
 series: ASCENDANCE_OF_A_BOOKWORM
 artifact_type: sequential_reading_contract
 scope: VOLUME_BY_VOLUME_ANALYSIS
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: INITIAL
@@ -37,7 +37,7 @@ Do not restart filenames at each part. Do not create placeholder files for unrea
 
 ## Prospective rule
 
-Each numbered main volume is read from the frozen analytical state produced by the prior numbered volume. Before opening a new volume for analysis, recover material expectations/open questions from `../03 Longitudinal Ledgers/README.md` and the prior frozen reading. After reading, classify meaningful outcomes as confirmation, extension, complication, revision, falsification, or still open, then freeze the new state before advancing.
+Each numbered main volume is read from the frozen analytical state produced by the prior numbered volume. Before opening a new volume for analysis, recover material expectations/open questions from `../03 Longitudinal Ledgers/BOOKWORM_MASTER_LONGITUDINAL_LEDGER.md` and the prior frozen reading. After reading, classify meaningful outcomes as confirmation, extension, complication, revision, falsification, or still open, then freeze the new state before advancing.
 
 Later volumes can revise the current model. They cannot rewrite the historical record of what the earlier source boundary supported.
 
@@ -50,7 +50,7 @@ For VNN, complete the following before VNN+1 is opened:
 1. resolve the exact Japanese source witness and part identity;
 2. recover the entering prospective boundary;
 3. write the VNN deep reading;
-4. propagate material cumulative observations into `../03 Longitudinal Ledgers/README.md`;
+4. propagate material cumulative observations into `../03 Longitudinal Ledgers/BOOKWORM_MASTER_LONGITUDINAL_LEDGER.md`;
 5. adjudicate any earlier material claim or prediction that VNN tests;
 6. preserve new major open claims and bounded next-volume expectations;
 7. retain evidence locators in the deep reading or promote them to the evidence/index layer if cross-volume retrieval has become necessary;

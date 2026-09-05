@@ -2,7 +2,7 @@
 series: ASCENDANCE_OF_A_BOOKWORM
 artifact_type: synthesis_architecture
 scope: JP_LIGHT_NOVEL_SEQUENTIAL_TO_FULL_SERIES_ANALYSIS
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: INITIAL
@@ -116,7 +116,7 @@ This single-file initialization is intentional. A dimension receives a dedicated
 | Major claims and revisions | yes for material claims | master longitudinal ledger | specialist + full-series synthesis | initialized |
 | Prospective predictions/open questions | every volume boundary | master longitudinal ledger | checkpoint adjudication + historical freeze | initialized |
 | Exact source locators/terminology | deep-reading-local initially | deep reading + source lock; promote to `07 Evidence and Indexes` when needed | evidence/index layer | deferred until retrieval pressure exists |
-| Character global discovery | not automatic | local character layer first | `characters/registry.jsonl` only after qualifying reviewed analysis exists | deferred |
+| Character global discovery | not automatic | local character layer first | designated curation agent reviews qualifying merged evidence for `characters/registry.jsonl` enrollment | deferred |
 
 ## 7. Character and relationship synthesis
 
@@ -133,7 +133,7 @@ A character earns an independent canonical home when several of the following ar
 
 Relationship work may remain inside character monographs or the master ledger until a dyad/network has independent analytical responsibility. A separate relationship synthesis should not be created merely because a relationship is important to the plot.
 
-Global enrollment in `characters/registry.jsonl` remains a separate discovery decision requiring qualifying current evidence.
+Global enrollment in `characters/registry.jsonl` is a separate discovery decision owned by the designated character curation agent under `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`. Analytical authoring sessions may create qualifying local character analysis but do not independently curate the global registry or generated character index and do not maintain series-local upsert files to drive enrollment.
 
 ## 8. Part-boundary checkpoints
 
@@ -349,7 +349,7 @@ The project distinguishes:
 
 ## 19. Current initialization decision
 
-At architecture generation V0.1:
+At architecture generation V0.2:
 
 - source reconnaissance: complete for the audited Japanese EPUB boundary;
 - governing analytical method: present;

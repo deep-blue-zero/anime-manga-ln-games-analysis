@@ -2,7 +2,7 @@
 series: ASCENDANCE_OF_A_BOOKWORM
 artifact_type: character_analysis_router
 scope: CHARACTER_ANALYSIS
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: INITIAL
@@ -38,7 +38,7 @@ sufficient multi-state / multi-context evidence?
 reviewed substantial current analysis
         |
         v
-separate global discovery review for characters/registry.jsonl
+separate global discovery review by the designated curation agent
 ```
 
 Local character analysis and global character discovery are distinct decisions.
@@ -97,7 +97,9 @@ A relationship does not automatically need its own file because it is important.
 
 ## Global character discovery boundary
 
-Enrollment in `characters/registry.jsonl` is controlled by the repository-wide character discovery contract. A Bookworm subject should not be added merely because:
+Enrollment in `characters/registry.jsonl` and maintenance of the generated `CHARACTER_ANALYSIS_INDEX.md` belong solely to the repository's designated character curation agent under `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`. Analytical authoring sessions do not independently curate either global character output and do not create or maintain series-local character-upsert files to drive enrollment.
+
+A Bookworm subject should not be enrolled merely because:
 
 - the character appears frequently;
 - a local folder exists;
@@ -105,7 +107,11 @@ Enrollment in `characters/registry.jsonl` is controlled by the repository-wide c
 - a future monograph is planned;
 - the character is prominent in adaptations or fandom.
 
-Global discovery requires qualifying current reviewed analytical evidence, exact-byte evidence eligibility, and regeneration of `CHARACTER_ANALYSIS_INDEX.md` in the same reviewed change. Until such evidence exists, the correct global state is no enrollment.
+Qualifying new Bookworm analysis may merge before global enrollment when existing character references and the generated index remain valid. The curation agent may then discover eligible additions from `main` and independently verify identity, dimensions, anchors, and coverage against the merged evidence.
+
+If a future Bookworm edit changes evidence already referenced by an existing curated character record and invalidates a path, anchor, authority relationship, coverage claim, or generated output, integration must wait for a coordinated curation-agent repair against the exact proposed source branch and commit. Do not weaken validation or assume a later routine curation run will repair an invalid merge.
+
+At the current pre-V01 boundary, there is no Bookworm character evidence in the global registry that this architecture tranche modifies or invalidates.
 
 ## PACTRIH and comparative modeling
 

@@ -12,7 +12,7 @@ The repository completed its G3 public-visibility activation. The exact activati
 
 GitHub must enforce `main` protection for administrators, require linear history, and prohibit force pushes and deletion. An active ruleset must prohibit deletion and non-fast-forward updates for `refs/tags/activation/**`. Before every later public push or activation-tag operation, provider controls and access surfaces must be reread. If they are absent or cannot be verified, the state is `UNVERIFIED` and the operation stops.
 
-No non-owner collaborator or team may receive write authority. The sole tracked workflow, `.github/workflows/repository-audit.yml`, uses read-only contents permission and may only report audit success or failure. It has no secret, artifact-upload, auto-fix, commit, issue, pull-request, release, tag, or push authority. Every other workflow and every write-capable automation requires a separately hash-bound owner amendment.
+No non-owner collaborator or team may receive write authority. `.github/workflows/repository-audit.yml` uses read-only contents permission and may only report audit success or failure. `.github/workflows/global-index-housekeeping.yml` is the sole write-capable exception: it runs from the trusted default-branch definition after an owner push audit, has `contents: write` only, and may append one ordinary non-forced commit to the same stable series/study branch containing only the seven paths in `global-index-automation-policy.json`. It cannot write analytical content, delete registry entries, push `main`, manage branches/tags, or write issues, pull requests, releases, or artifacts. Every other workflow or automation capability requires a separately reviewed owner amendment.
 
 ## Publication safety
 

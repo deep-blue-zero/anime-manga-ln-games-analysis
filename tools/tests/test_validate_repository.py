@@ -37,6 +37,7 @@ from validate_repository import (  # noqa: E402
     validate_commit_identities,
     validate_crosswalk_closure,
     validate_current_domain,
+    validate_global_index_automation,
     validate_bytes,
     validate_exact_set,
     validate_markdown_links,
@@ -819,6 +820,74 @@ class PhaseValidationTests(unittest.TestCase):
         )
         self.assertEqual(validate_audit_workflow(snapshot, policy), [])
 
+    def test_global_index_housekeeping_matches_bounded_write_contract(self) -> None:
+        snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        policy = json.loads(
+            snapshot.entries[
+                "governance/repository-controls/tracked-file-policy.json"
+            ].data
+        )
+        self.assertEqual(validate_global_index_automation(snapshot, policy), [])
+
+    def test_housekeeping_rejects_restored_character_write_policy(self) -> None:
+        baseline = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        tracked = json.loads(baseline.entries["governance/repository-controls/tracked-file-policy.json"].data)
+        path = "governance/repository-controls/global-index-automation-policy.json"
+        for output in ("characters/registry.jsonl", "CHARACTER_ANALYSIS_INDEX.md"):
+            with self.subTest(output=output):
+                document = json.loads(baseline.entries[path].data)
+                document["allowed_write_paths"].append(output)
+                entries = dict(baseline.entries)
+                entries[path] = SnapshotEntry(path, "100644", json.dumps(document).encode("utf-8"))
+                failures = validate_global_index_automation(GitSnapshot(ROOT, "IN_MEMORY", entries), tracked)
+                self.assertIn(f"{path}.allowed_write_paths are not exact", failures)
+
+    def test_housekeeping_rejects_reactivated_character_input(self) -> None:
+        baseline = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        tracked = json.loads(baseline.entries["governance/repository-controls/tracked-file-policy.json"].data)
+        path = "governance/repository-controls/global-index-automation-policy.json"
+        document = json.loads(baseline.entries[path].data)
+        document["source_contracts"]["character_upserts"] = "series/<stable-slug>/.repository/character-registry-upserts.jsonl"
+        entries = dict(baseline.entries)
+        entries[path] = SnapshotEntry(path, "100644", json.dumps(document).encode("utf-8"))
+        failures = validate_global_index_automation(GitSnapshot(ROOT, "IN_MEMORY", entries), tracked)
+        self.assertIn(f"{path}.source_contracts are not exact", failures)
+
+    def test_housekeeping_rejects_character_generation_staging_and_write_allowance(self) -> None:
+        baseline = worktree_snapshot(ROOT, worktree_paths(ROOT))
+        tracked = json.loads(baseline.entries["governance/repository-controls/tracked-file-policy.json"].data)
+        path = ".github/workflows/global-index-housekeeping.yml"
+        source = baseline.entries[path].data.decode("utf-8")
+        variants = [
+            (
+                source + "\n          python tools/generate_character_index.py --snapshot index\n",
+                "global index housekeeping workflow contains prohibited capability: tools/generate_character_index.py",
+            ),
+            (
+                source + '\n          git add -- "characters/registry.jsonl"\n',
+                "housekeeping staging must contain only the five routing outputs",
+            ),
+            (
+                source.replace("readonly generated_paths=(", 'readonly generated_paths=(\n            "CHARACTER_ANALYSIS_INDEX.md"', 1),
+                "housekeeping generated paths must be exactly the five routing outputs",
+            ),
+        ]
+        for changed, expected in variants:
+            with self.subTest(expected=expected):
+                entries = dict(baseline.entries)
+                entries[path] = SnapshotEntry(path, "100644", changed.encode("utf-8"))
+                failures = validate_global_index_automation(GitSnapshot(ROOT, "IN_MEMORY", entries), tracked)
+                self.assertIn(expected, failures)
+
+    def test_repository_audit_requires_character_branch_trigger(self) -> None:
+        path = ".github/workflows/repository-audit.yml"
+        source = (ROOT / path).read_bytes()
+        self.assertIn(b"      - character-registry\n", source)
+        changed = source.replace(b"      - character-registry\n", b"", 1)
+        snapshot = GitSnapshot(ROOT, "IN_MEMORY", {path: SnapshotEntry(path, "100644", changed)})
+        failures = validate_audit_workflow(snapshot, {"allowed_workflows": [path, ".github/workflows/global-index-housekeeping.yml"]})
+        self.assertIn("repository-audit workflow missing required contract:       - character-registry", failures)
+
     def test_repository_audit_workflow_rejects_mutation_capability(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         baseline = (ROOT / path).read_bytes()
@@ -843,8 +912,8 @@ class PhaseValidationTests(unittest.TestCase):
     def test_repository_audit_workflow_rejects_shallow_history(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         baseline = (ROOT / path).read_bytes()
-        complete_fetch = b'git fetch --no-tags origin "${GITHUB_SHA}"'
-        shallow_fetch = b'git fetch --no-tags --depth=2 origin "${GITHUB_SHA}"'
+        complete_fetch = b'git fetch --no-tags origin "${AUDIT_COMMIT}"'
+        shallow_fetch = b'git fetch --no-tags --depth=2 origin "${AUDIT_COMMIT}"'
         self.assertIn(complete_fetch, baseline)
         snapshot = GitSnapshot(
             ROOT,
@@ -866,7 +935,7 @@ class PhaseValidationTests(unittest.TestCase):
     def test_repository_audit_workflow_requires_exact_whitespace_exclusions(self) -> None:
         path = ".github/workflows/repository-audit.yml"
         baseline = (ROOT / path).read_bytes()
-        command = b'git show --check --format= "${GITHUB_SHA}" -- . \\\n'
+        command = b'git show --check --format= "${AUDIT_COMMIT}" -- . \\\n'
         markdown = b"            ':(top,glob,exclude)**/*.md' \\\n"
         idoly = (
             b"            ':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 "
