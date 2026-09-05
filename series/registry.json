@@ -394,6 +394,21 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "project-sekai",
+      "stable_slug": "project-sekai",
+      "canonical_title": "Project SEKAI",
+      "media": [
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/project-sekai/",
+      "canonical_entrypoint": "series/project-sekai/README.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "POST_CUTOVER_DRIVE_ANALYTICAL_CORPUS_IMPORT_20260905",
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git."
+    },
+    {
       "series_id": "re-zero",
       "stable_slug": "re-zero",
       "canonical_title": "Re:ZERO -Starting Life in Another World-",
@@ -569,6 +584,21 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "tomozaki",
+      "stable_slug": "tomozaki",
+      "canonical_title": "Bottom-Tier Character Tomozaki",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/tomozaki/",
+      "canonical_entrypoint": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_TOMOZAKI_BOOTSTRAP_V0_1",
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
     },
     {
       "series_id": "wuthering-waves",
