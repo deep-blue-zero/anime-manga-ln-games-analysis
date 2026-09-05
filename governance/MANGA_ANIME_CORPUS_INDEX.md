@@ -38,6 +38,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`
 - [Project SEKAI](../series/project-sekai/) — `series/project-sekai/` — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
+- [Re:ZERO -Starting Life in Another World-](../series/re-zero/) — `series/re-zero/` — post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary.
 - [Redo of Healer](../series/redo-of-healer/) — `series/redo-of-healer/`
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
