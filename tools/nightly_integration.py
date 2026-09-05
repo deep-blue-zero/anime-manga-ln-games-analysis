@@ -82,7 +82,7 @@ class GitHub:
     def request(self, method: str, path: str, payload: dict | None = None):
         if self.preview and method != "GET":
             raise Halt("Preview prohibits every remote mutation")
-        endpoint = "/user" if path == "/user" else f"/repos/{REPOSITORY}/{path}"
+        endpoint = "/user" if path == "/user" else f"/repos/{REPOSITORY}" + ("/" + path if path else "")
         headers = {"Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
         if self.token:
             headers["Authorization"] = "Bearer " + self.token
