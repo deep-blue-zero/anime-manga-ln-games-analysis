@@ -11,6 +11,28 @@ This is the mandatory pre-commit contract for human, Codex, and ChatGPT changes 
 
 For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Author the named analytical root and required series/study routing descriptors; housekeeping owns five routing outputs. Character discovery belongs solely to the curation agent under `CHARACTER_DISCOVERY_MAINTENANCE.md`. It may supply a coordinated pre-merge repair on a source branch, but housekeeping may not write either character output.
 
+## Maintained documents: targeted edits
+
+This rule applies to maintained analytical prose, rolling ledgers, readiness tables, project-local indexes, and other authored documents in both clone and GitHub connector workflows. Update the verified current document through targeted patches by default. Whole-document rewriting follows only the regeneration exceptions below. A filename containing "index" or "ledger" does not make the file a generated artifact.
+
+1. **Establish the exact source.** Verify the intended repository, target branch, path, full base commit, and current blob identity. Obtain the complete current file through a verified read before submitting a full-file replacement. Search excerpts, previews, truncated responses, and selected line ranges are not a complete source. Preserve a trustworthy before-image in the authorized execution environment for comparison.
+2. **Define the intended changes.** Identify the affected sections, rows, fields, headings, and cross-references. Apply explicit patches or bounded replacements with verified old text and expected match counts. If the target text is missing or ambiguous, re-read and resolve the discrepancy; do not silently broaden the replacement.
+3. **Preserve unaffected content.** Keep unaffected prose, front matter, stable row/record IDs, table columns, ordering, headings, anchors, links, historical entries, encoding, and line endings byte-for-byte. Do not reflow paragraphs, normalize whitespace/Unicode, reorder tables, remove apparently redundant history, or rewrite unrelated sections as incidental cleanup. Apply any expressly required format migration as a separately identified transformation.
+4. **Respect ledger semantics.** Append new events or observations where the ledger's history model requires it. Update existing current-state rows when evidence changes their meaning, preserving required historical records and explaining material corrections. Follow stricter append-only or frozen-artifact rules. Targeted editing must still update every affected claim and reference; it is not permission to omit necessary synchronization.
+5. **Use the documented regeneration exceptions.** Explicitly generated artifacts must use their designated generator. A document-wide revision is permitted when the owner expressly requests it or an applicable reviewed transformation defines it; review its full scope and preserve required provenance. Neither file size nor a connector failure authorizes reconstruction from memory, summaries, or excerpts.
+6. **Review the complete candidate diff.** Confirm every addition and deletion is intended, with no missing sections, rows, citations, authority fields, or history. Inspect unexpected size or line-count changes and formatting churn. Counts alone do not establish preservation, and an abbreviated provider diff is not sufficient if it omits changes. Require the applicable schema, link, evidence, and repository checks.
+7. **Handle concurrency and verify publication.** Recheck the target head and blob before writing. If the source changed, retrieve the new version, reconcile and reapply the intended edits, and repeat affected review. After a write, retrieve the exact resulting commit's file and compare it with the reviewed candidate; verify the resulting changed-file set. A success message alone does not establish a correct edit.
+
+### GitHub connector limits and failed writes
+
+A GitHub contents or tree API may require the full updated file as its payload. That transport is allowed, but construct the payload from complete verified source contents plus targeted edits, not by generating an approximate replacement. Use current blob SHAs for contents updates and exact base/parent commits with non-forced ref updates for Git-data operations. A blob SHA alone does not prove that the branch has not advanced.
+
+If a read is truncated or a payload cannot be handled reliably, obtain a verified complete read or move the edit to an approved Git-capable environment within the user's access constraints. Do not switch to the owner's local drive when the task is cloud-only. If no available route can preserve the file, report the exact blocker and proposed patch without replacing the document. Continue independent authorized work where possible.
+
+After a timeout, ambiguous response, or failed multi-file operation, inspect the remote branch, commit, and affected blobs before retrying. Determine whether no write, the complete intended write, or a partial/divergent result occurred. Retry only the missing operation against the verified current state; do not replay stale full-file contents or duplicate appended entries. Preserve concurrent work and repair through ordinary commits. When multiple files must remain consistent, prefer an atomic tree/commit and validate the entire resulting change.
+
+These are authoring and verification requirements. Existing syntax and repository checks cannot by themselves prove that a regenerated document retained its analytical meaning.
+
 ## Branch routing and cleanup
 
 - Continuing series analysis is written to `series/<stable-slug>` and periodically integrated into `main`.
