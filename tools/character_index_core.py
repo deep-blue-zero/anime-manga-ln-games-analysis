@@ -566,7 +566,7 @@ def parse_authority_front_matter(data: bytes, path: str) -> AuthorityMetadata | 
         raise DomainError(f"{path}: authority status must be a string")
     if status not in AUTHORITY_STATUSES:
         raise DomainError(
-            f"{path}: invalid authority status {status!r}; "
+            f"{path}: invalid authority status; "
             f"expected one of {sorted(AUTHORITY_STATUSES)}"
         )
     if type(veto) is not bool:
