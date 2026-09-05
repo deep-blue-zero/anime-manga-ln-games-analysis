@@ -16,6 +16,7 @@ from typing import Any, Mapping
 
 from character_index_core import (
     DomainError,
+    GitSnapshot,
     atomic_write_text,
     decode_json,
 )
@@ -78,40 +79,79 @@ def _upsert_root_row(
     rows.sort(key=lambda row: str(row.get("stable_slug", "")).encode("utf-8"))
 
 
-def synchronize(root: Path, branch: str) -> dict[str, str]:
+def _synchronize_document(
+    root_document: dict[str, Any],
+    branch: str,
+    source: Mapping[str, Any] | None,
+    *,
+    root_present: bool,
+) -> dict[str, str]:
     namespace, slug = parse_branch(branch)
-    root_registry_path = root / (SERIES_REGISTRY if namespace == "series" else STUDY_REGISTRY)
-    root_document = _read_object(root_registry_path, root_registry_path.as_posix())
+    registry_path = SERIES_REGISTRY if namespace == "series" else STUDY_REGISTRY
     collection = "series" if namespace == "series" else "studies"
     id_key = "series_id" if namespace == "series" else "study_id"
     rows = root_document.get(collection)
     if not isinstance(rows, list):
-        raise DomainError(f"{root_registry_path.as_posix()}: missing {collection} array")
-
-    input_name = "series-registry.json" if namespace == "series" else "study-registry.json"
-    input_path = root / namespace / slug / ".repository" / input_name
+        raise DomainError(f"{registry_path}: missing {collection} array")
     registered = any(
         isinstance(row, Mapping)
         and row.get("stable_slug") == slug
         and row.get(id_key) == slug
         for row in rows
     )
-    if input_path.is_file():
-        source = _read_object(input_path, input_path.as_posix())
+    if source is not None:
         _upsert_root_row(
-            root_document,
-            collection=collection,
-            id_key=id_key,
-            slug=slug,
-            namespace=namespace,
-            source=source,
+            root_document, collection=collection, id_key=id_key,
+            slug=slug, namespace=namespace, source=source,
         )
     elif not registered:
+        if not root_present:
+            # A branch name alone does not create an analytical root.
+            return {}
+        input_name = "series-registry.json" if namespace == "series" else "study-registry.json"
         raise DomainError(
-            f"new {namespace} root requires declarative input {input_path.relative_to(root).as_posix()}"
+            f"new {namespace} root requires declarative input "
+            f"{namespace}/{slug}/.repository/{input_name}"
         )
+    return {registry_path: _render_json(root_document)}
 
-    return {root_registry_path.relative_to(root).as_posix(): _render_json(root_document)}
+
+def synchronize(root: Path, branch: str) -> dict[str, str]:
+    namespace, slug = parse_branch(branch)
+    registry_path = SERIES_REGISTRY if namespace == "series" else STUDY_REGISTRY
+    document = _read_object(root / registry_path, registry_path)
+    input_name = "series-registry.json" if namespace == "series" else "study-registry.json"
+    input_path = root / namespace / slug / ".repository" / input_name
+    source = _read_object(input_path, input_path.as_posix()) if input_path.is_file() else None
+    return _synchronize_document(
+        document, branch, source, root_present=(root / namespace / slug).exists(),
+    )
+
+
+def synchronize_snapshot(snapshot: GitSnapshot, branch: str) -> dict[str, str]:
+    """Calculate the same routing update from complete tracked bytes, without writes."""
+    namespace, slug = parse_branch(branch)
+    registry_path = SERIES_REGISTRY if namespace == "series" else STUDY_REGISTRY
+    input_name = "series-registry.json" if namespace == "series" else "study-registry.json"
+    input_path = f"{namespace}/{slug}/.repository/{input_name}"
+
+    def read_object(path: str, *, optional: bool = False) -> dict[str, Any] | None:
+        entry = snapshot.get(path)
+        if entry is None and optional:
+            return None
+        if entry is None or not entry.qualifies_as_evidence:
+            raise DomainError(f"{path}: expected a tracked regular Git blob")
+        value = decode_json(entry.data, path)
+        if not isinstance(value, dict):
+            raise DomainError(f"{path}: expected one JSON object")
+        return value
+
+    document = read_object(registry_path)
+    assert document is not None
+    return _synchronize_document(
+        document, branch, read_object(input_path, optional=True),
+        root_present=any(path.startswith(f"{namespace}/{slug}/") for path in snapshot.entries),
+    )
 
 
 def main() -> int:
@@ -134,7 +174,7 @@ def main() -> int:
     if args.write:
         for path, rendered in outputs.items():
             atomic_write_text(root / path, rendered)
-        print("UPDATED: " + ", ".join(outputs))
+        print("UPDATED: " + ", ".join(outputs) if outputs else "NOOP: branch has no analytical root")
     else:
         print(f"PASS: global registries match declarative inputs for {args.branch}")
     return 0

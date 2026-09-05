@@ -19,6 +19,7 @@ jobs:
     name: Synchronize allowlisted global surfaces
     if: >-
       github.event.workflow_run.event == 'push' &&
+      github.event.workflow_run.conclusion == 'success' &&
       github.event.workflow_run.actor.login == github.repository_owner &&
       (startsWith(github.event.workflow_run.head_branch, 'series/') ||
       startsWith(github.event.workflow_run.head_branch, 'studies/'))
@@ -33,9 +34,11 @@ jobs:
       PYTHONDONTWRITEBYTECODE: "1"
     steps:
       - name: Acquire and constrain the exact analytical branch
+        id: acquire
         shell: bash
         run: |
           set -euo pipefail
+          echo "ready=false" >> "${GITHUB_OUTPUT}"
           if [[ "${BRANCH_NAME}" =~ ^series/([a-z0-9][a-z0-9-]*)$ ]]; then
             namespace="series"
             slug="${BASH_REMATCH[1]}"
@@ -51,10 +54,16 @@ jobs:
           git fetch --no-tags origin \
             "+refs/heads/main:refs/remotes/origin/main" \
             "+refs/heads/${BRANCH_NAME}:refs/remotes/origin/${BRANCH_NAME}"
-          test "$(git rev-parse "origin/${BRANCH_NAME}")" = "${SOURCE_SHA}"
+          if [[ "$(git rev-parse "origin/${BRANCH_NAME}")" != "${SOURCE_SHA}" ]]; then
+            echo "::notice::Superseded housekeeping run; the newer branch head needs its own audit."
+            exit 0
+          fi
           test "$(git rev-parse --is-shallow-repository)" = "false"
           git checkout --detach "${SOURCE_SHA}"
-          git merge-base --is-ancestor origin/main HEAD
+          if ! git merge-base --is-ancestor origin/main HEAD; then
+            echo "FAIL: incorporate current main before housekeeping can finalize this branch" >&2
+            exit 1
+          fi
           python - "${namespace}" "${slug}" <<'PY'
           import subprocess
           import sys
@@ -85,14 +94,17 @@ jobs:
           if bad:
               raise SystemExit(f"FAIL: analytical branch contains out-of-scope paths: {bad}")
           PY
+          echo "ready=true" >> "${GITHUB_OUTPUT}"
 
       - name: Install hash-locked validation dependencies
+        if: steps.acquire.outputs.ready == 'true'
         shell: bash
         run: |
           set -euo pipefail
           python -m pip install --disable-pip-version-check --no-deps --require-hashes -r tools/requirements-validation.txt
 
       - name: Generate, validate, and publish allowlisted outputs
+        if: steps.acquire.outputs.ready == 'true'
         shell: bash
         run: |
           set -euo pipefail
@@ -142,10 +154,29 @@ jobs:
           test "$(git rev-parse HEAD^)" = "${SOURCE_SHA}"
           test -z "$(git status --porcelain)"
           remote_sha="$(git ls-remote --heads origin "refs/heads/${BRANCH_NAME}" | cut -f1)"
-          test "${remote_sha}" = "${SOURCE_SHA}"
+          if [[ "${remote_sha}" != "${SOURCE_SHA}" ]]; then
+            echo "::notice::Superseded before publication; no generated changes were pushed."
+            exit 0
+          fi
+          remote_main="$(git ls-remote --heads origin refs/heads/main | cut -f1)"
+          if [[ "${remote_main}" != "$(git rev-parse origin/main)" ]]; then
+            echo "::notice::Main advanced during housekeeping; reconcile and audit the branch again."
+            exit 0
+          fi
           auth_header="$(printf 'x-access-token:%s' "${GH_TOKEN}" | base64 -w0)"
           git config --local http.https://github.com/.extraheader "AUTHORIZATION: basic ${auth_header}"
-          git push origin "HEAD:refs/heads/${BRANCH_NAME}"
+          if ! git push origin "HEAD:refs/heads/${BRANCH_NAME}"; then
+            observed="$(git ls-remote --heads origin "refs/heads/${BRANCH_NAME}" | cut -f1)"
+            if [[ "${observed}" = "${generated_sha}" ]]; then
+              echo "::notice::The push response was ambiguous; the exact generated commit is present."
+            elif [[ -n "${observed}" && "${observed}" != "${SOURCE_SHA}" ]]; then
+              echo "::notice::Superseded during publication; preserve the newer branch head."
+              exit 0
+            else
+              echo "FAIL: generated commit was not published" >&2
+              exit 1
+            fi
+          fi
           python - "${generated_sha}" "${BRANCH_NAME}" > dispatch.json <<'PY'
           import json
           import sys
