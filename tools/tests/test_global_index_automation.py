@@ -125,8 +125,17 @@ class GlobalIndexAutomationTests(unittest.TestCase):
     def test_new_root_without_descriptor_fails_closed(self) -> None:
         with self.temporary() as temporary:
             root = self.root(temporary)
+            (root / "series/unregistered").mkdir(parents=True)
+            (root / "series/unregistered/README.md").write_text("# New root\n")
             with self.assertRaisesRegex(DomainError, "requires declarative input"):
                 synchronize(root, "series/unregistered")
+
+    def test_branch_creation_without_a_root_is_a_noop(self) -> None:
+        with self.temporary() as temporary:
+            root = self.root(temporary)
+            for branch in ("series/unregistered", "studies/unregistered"):
+                with self.subTest(branch=branch):
+                    self.assertEqual(synchronize(root, branch), {})
 
     def test_routing_descriptor_cannot_cross_branch_boundary(self) -> None:
         with self.temporary() as temporary:

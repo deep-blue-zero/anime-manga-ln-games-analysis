@@ -241,6 +241,17 @@ class DiscoveryContractTests(unittest.TestCase):
                     failures,
                 )
 
+    def test_unpromoted_draft_cannot_be_included_character_evidence(self) -> None:
+        path = "series/example/DRAFT.md"
+        snap = snapshot((path, authority_bytes("draft_noncurrent")))
+        item = record("example:alice@anime", evidence_path=path, included=True)
+        failures = validate_discovery_records(
+            [item], {"series": [{"series_id": "example"}]}, snapshot=snap,
+            authority=AuthorityGraph(snap),
+        )
+        self.assertTrue(failures)
+        self.assertFalse(AuthorityGraph(snap).current_eligible(path))
+
     def test_present_reviewed_and_current_included_record_passes(self) -> None:
         path = "series/example/ALICE.md"
         snap = snapshot((path, authority_bytes()))
