@@ -97,7 +97,7 @@ class AuditReportingTests(unittest.TestCase):
     def test_all_workflow_shell_steps_parse(self) -> None:
         if not shutil.which("bash"):
             self.skipTest("bash is unavailable")
-        for path in (AUDIT, HOUSEKEEPING):
+        for path in (AUDIT, HOUSEKEEPING, ".github/workflows/nightly-integration.yml"):
             for job in workflow(path)["jobs"].values():
                 for step in job.get("steps", []):
                     if step.get("shell") == "bash":

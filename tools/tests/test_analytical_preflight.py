@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import subprocess
 import tempfile
 import sys
@@ -68,6 +69,24 @@ def fixture(*, new_root: bool = True) -> GitSnapshot:
     return GitSnapshot(TOOLS.parent, SOURCE_SHA, entries)
 
 
+def fixture_baseline(source: GitSnapshot) -> tuple[GitSnapshot, list[str]]:
+    """Normalize inherited routing only in the disposable CLI test fixture.
+
+    A source checkout can legitimately await its own housekeeping. Materialize
+    its descriptors before adding the separate synthetic series/example root.
+    This does not depend on AUDIT_BRANCH, which the nested test deliberately changes.
+    """
+    projected = source
+    for path in sorted(source.entries):
+        match = re.fullmatch(
+            r"((series|studies)/[a-z0-9][a-z0-9-]*)/\.repository/(series|study)-registry\.json", path,
+        )
+        if match and match[3] == ("series" if match[2] == "series" else "study"):
+            projected, _ = routing_preflight(projected, match[1])
+    changed = sorted(path for path in ROUTING_OUTPUTS if projected.entries[path] != source.entries[path])
+    return projected, changed
+
+
 class AnalyticalPreflightTests(unittest.TestCase):
     def test_new_root_defers_only_routing_and_preserves_all_authored_bytes(self) -> None:
         source = fixture()
@@ -124,6 +143,20 @@ class AnalyticalPreflightTests(unittest.TestCase):
             with self.assertRaisesRegex(DomainError, "prohibited output"):
                 routing_preflight(fixture(), "series/example")
 
+    def test_fixture_baseline_handles_inherited_pending_root_without_changing_content(self) -> None:
+        source = fixture()
+        before = dict(source.entries)
+        self.assertIn("unregistered series root: series/example/", validate_registered_root_topology(source))
+        projected, changed = fixture_baseline(source)
+        self.assertTrue(changed)
+        self.assertLessEqual(set(changed), ROUTING_OUTPUTS)
+        self.assertEqual(validate_registered_root_topology(projected), [])
+        self.assertEqual(validate_series_registry(projected), [])
+        self.assertEqual(source.entries, before)
+        for path in before.keys() - ROUTING_OUTPUTS:
+            self.assertEqual(projected.entries[path], before[path], path)
+        self.assertEqual(fixture_baseline(projected)[1], [])
+
     def test_cli_pending_then_materialized_integration(self) -> None:
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
         if not base_value or not Path(base_value).is_dir():
@@ -136,6 +169,14 @@ class AnalyticalPreflightTests(unittest.TestCase):
                 env=environment, capture_output=True, text=True, check=False,
             )
             self.assertEqual(clone.returncode, 0, clone.stderr)
+            baseline, changed = fixture_baseline(GitSnapshot.from_index(root))
+            for path in changed:
+                (root / path).write_bytes(baseline.entries[path].data)
+            if changed:
+                subprocess.run(
+                    ["git", "-C", str(root), "add", "--", *changed],
+                    env=environment, capture_output=True, check=True,
+                )
             source = fixture()
             for path in (ENTRYPOINT, DESCRIPTOR):
                 target = root / path
