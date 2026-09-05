@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -23,13 +23,13 @@ This is the canonical first read for the Git-side Re:Zero analytical corpus.
 
 ## Current analytical state
 
-**Source-lock phase complete for the acquired Japanese main-LN range V01-V43; interpretive reading has not yet begun. No volume deep reading, character monograph, route claim, world-model claim, relationship synthesis, PACTRIH placement, adaptation judgment, or full-series synthesis is canonical here yet.**
+**The acquired Japanese main-LN range V01-V43 is source-locked, and the prospective Japanese-primary Volume 01 deep reading is now frozen and canonical at `02 Sequential Readings/REZERO_LN_V01_DEEP_READING.md`. Volume 02 has not been opened analytically. No character monograph, standalone specialist synthesis, PACTRIH placement, adaptation judgment, or full-series synthesis is canonical here yet.**
 
 The governed Drive audit admits one continuous Japanese main-volume sequence V01-V43. A 2026-09-04 official-publication freshness check establishes V44 and V45 as published but absent from that audited acquisition. This does not block prospective work at the beginning of the series; it means the repository must not describe the source corpus as complete-to-date, and V44-V45 must be acquired and audited before the sequential reading reaches them.
 
 The architecture remains intentionally conservative because Re:Zero has multiple source families that can contaminate one another if treated as a single undifferentiated canon pool. Main light novels, mainline supplemental stories, alternate-route/IF material, web-novel material, and anime adaptation evidence must remain separately labeled witnesses until a specific analytical operation compares them. The current audited source folder admits no supplemental, IF/alternate-route, web-novel, or audiovisual witness.
 
-The first interpretive operation is now permitted: a prospective Japanese-primary reading of locked main-light-novel Volume 01 from exact witness `RZ-MAIN-LN-JA-V01`.
+The first interpretive operation is complete. `REZERO_LN_V01_DEEP_READING.md` freezes four local event-states (`V01-E1` through `V01-E4`), 24 stable claim IDs (`RZ-V01-C001` through `RZ-V01-C024`), and the bounded question set that governs the next prospective step. The next permitted numbered operation is to record the V02 pre-reading horizon from that freeze and then open only admitted Japanese witness `RZ-MAIN-LN-JA-V02`.
 
 ## Governing method
 
@@ -63,8 +63,8 @@ A discarded or superseded event-state can remain highly probative character evid
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
 | `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, focalization, Japanese-language, safe-horizon, and revision rules | populated; analytical method V0.1; witness protocol V0.2 |
-| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, and source-family classification | V01-V43 Japanese `MAIN_LN` admitted; V44-V45 known acquisition gaps; V01 ready |
-| `02 Sequential Readings` | Main-light-novel volume-by-volume prospective deep readings and source-verified arc checkpoints | contract populated; no readings yet |
+| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, and source-family classification | V01-V43 Japanese `MAIN_LN` admitted; V44-V45 known acquisition gaps; V01 consumed into frozen prospective analysis |
+| `02 Sequential Readings` | Main-light-novel volume-by-volume prospective deep readings and source-verified arc checkpoints | V01 deep reading frozen/canonical; V02 is next and remains unopened |
 | `03 Supplemental and Alternate Witnesses` | Mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract populated; no witness admitted yet |
 | `04 Longitudinal Ledgers` | Recurring route/event-state, knowledge, relationship, character-state, institution, mechanics, and ordinary-life tracking once promotion thresholds are met | schema contract populated; no ledgers promoted yet |
 | `05 Character Analysis` | Character reconstruction only after sufficient longitudinal evidence exists | routing contract populated; no monographs yet |
@@ -122,14 +122,15 @@ The sequential pass should test rather than assume questions including:
 
 ## Initial work order
 
-1. Produce `02 Sequential Readings/REZERO_LN_V01_DEEP_READING.md` from exact admitted Japanese witness `RZ-MAIN-LN-JA-V01`.
-2. Freeze the Volume 01 reading and its bounded next-volume horizon before consulting Volume 02 analytically.
-3. Continue prospectively through the admitted main-LN spine; create arc checkpoints only after source evidence establishes the boundary and the final contributing volume is frozen.
-4. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
-5. Do not open supplemental or alternate-route material merely to construct a bibliography. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
-6. Promote longitudinal ledgers only when recurring responsibilities become costly or unreliable to reconstruct from frozen volume files.
-7. Create character monographs only after enough cross-state and longitudinal evidence exists to distinguish stable tendency, local state, recipient effect, role effect, and genuine revision.
-8. Treat anime and other adaptations as distinct witnesses whose performance, direction, framing, omission, compression, and reordering can be analyzed without replacing the light-novel model.
+1. Treat `02 Sequential Readings/REZERO_LN_V01_DEEP_READING.md` as the immutable prospective prior state for the next numbered reading; do not retroactively repair its claims with later evidence.
+2. Before opening Volume 02 analytically, instantiate its pre-reading horizon from V01 Sections 19 and 22: preserve the 24 V01 claim IDs, record the carried open questions/expectations, and identify which propositions V02 can actually test.
+3. Read only admitted Japanese witness `RZ-MAIN-LN-JA-V02`, produce `02 Sequential Readings/REZERO_LN_V02_DEEP_READING.md`, and freeze its explicit `PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN` operations against V01.
+4. Continue prospectively through the admitted main-LN spine; create arc checkpoints only after source evidence establishes the boundary and the final contributing volume is frozen.
+5. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
+6. Do not open supplemental or alternate-route material merely to construct a bibliography. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
+7. Promote longitudinal ledgers only when recurring responsibilities become costly or unreliable to reconstruct from frozen volume files; the V01 state alone does not yet require a separate canonical ledger.
+8. Create character monographs only after enough cross-state and longitudinal evidence exists to distinguish stable tendency, local state, recipient effect, role effect, and genuine revision.
+9. Treat anime and other adaptations as distinct witnesses whose performance, direction, framing, omission, compression, and reordering can be analyzed without replacing the light-novel model.
 
 ## Bootstrap abstentions
 
