@@ -17,6 +17,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Attack on Titan](../series/attack-on-titan/) — `series/attack-on-titan/`
 - [Azur Lane](../series/azur-lane/) — `series/azur-lane/`
 - [BLUE ARCHIVE](../series/blue-archive/) — `series/blue-archive/`
+- [Bottom-Tier Character Tomozaki](../series/tomozaki/) — `series/tomozaki/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [Classroom of the Elite](../series/classroom-of-the-elite/) — `series/classroom-of-the-elite/`
 - [Gakuen Idolmaster](../series/gakuen-idolmaster/) — `series/gakuen-idolmaster/`
@@ -36,6 +37,8 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`
+- [Project SEKAI](../series/project-sekai/) — `series/project-sekai/` — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
+- [Re:ZERO -Starting Life in Another World-](../series/re-zero/) — `series/re-zero/` — post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary.
 - [Redo of Healer](../series/redo-of-healer/) — `series/redo-of-healer/`
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
