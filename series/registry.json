@@ -409,6 +409,22 @@
       "catalog_note": "Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git."
     },
     {
+      "series_id": "re-zero",
+      "stable_slug": "re-zero",
+      "canonical_title": "Re:ZERO -Starting Life in Another World-",
+      "media": [
+        "LIGHT_NOVEL",
+        "ANIME"
+      ],
+      "repository_path": "series/re-zero/",
+      "canonical_entrypoint": "series/re-zero/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_RE_ZERO_BOOTSTRAP_V0_1",
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary."
+    },
+    {
       "series_id": "redo-of-healer",
       "stable_slug": "redo-of-healer",
       "canonical_title": "Redo of Healer",

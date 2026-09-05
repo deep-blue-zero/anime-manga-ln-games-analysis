@@ -52,6 +52,7 @@ All G7 roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. 
 - [`ascendance-of-a-bookworm/`](ascendance-of-a-bookworm/) — Ascendance of a Bookworm — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [`tomozaki/`](tomozaki/) — Bottom-Tier Character Tomozaki — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [`chiramune/`](chiramune/) — Chitose Is in the Ramune Bottle — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
+- [`re-zero/`](re-zero/) — Re:ZERO -Starting Life in Another World- — post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary.
 - [`wuthering-waves/`](wuthering-waves/) — Wuthering Waves — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
 
 <!-- END GENERATED SERIES CATALOG -->
