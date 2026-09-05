@@ -30,7 +30,8 @@
   ],
   "allowed_workflows": [
     ".github/workflows/global-index-housekeeping.yml",
-    ".github/workflows/repository-audit.yml"
+    ".github/workflows/repository-audit.yml",
+    ".github/workflows/nightly-integration.yml"
   ],
   "allowed_text_extensions": [
     ".csv",
