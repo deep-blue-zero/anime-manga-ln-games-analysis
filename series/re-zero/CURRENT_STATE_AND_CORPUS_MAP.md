@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -18,16 +18,18 @@ This is the canonical first read for the Git-side Re:Zero analytical corpus.
 
 - **GitHub is the analytical authority** for methods, source-routing decisions, sequential readings, longitudinal ledgers, character analysis, adaptation analysis, specialist synthesis, and analytical audits promoted under `series/re-zero/`.
 - **Primary-source media do not belong in this Git root.** Japanese light-novel files, audiovisual media, scans, extracted text, and other source-bearing objects remain in the governed evidence plane unless a policy explicitly admits a reference representation.
-- **No Re:Zero source lock is claimed by this bootstrap.** Exact acquired witnesses, editions, hashes, Drive anchors, publication identities, and completeness must be verified in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md` before source-facing analysis begins.
+- **The current source lock admits the acquired Japanese main-light-novel spine V01-V43.** Exact file identity, integrity, Drive provenance, alternate-edition handling, and known current acquisition gaps are recorded in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`. The lock does not claim complete-to-date possession: published Japanese V44 and V45 are not present in the audited Drive manifest.
 - Local workspaces are working environments, not authority, until an artifact is promoted through the governed Git route.
 
 ## Current analytical state
 
-**Bootstrap only. No volume deep reading, character monograph, route claim, world-model claim, relationship synthesis, PACTRIH placement, adaptation judgment, or full-series synthesis is canonical here yet.**
+**Source-lock phase complete for the acquired Japanese main-LN range V01-V43; interpretive reading has not yet begun. No volume deep reading, character monograph, route claim, world-model claim, relationship synthesis, PACTRIH placement, adaptation judgment, or full-series synthesis is canonical here yet.**
 
-The architecture is intentionally conservative because Re:Zero has multiple source families that can contaminate one another if treated as a single undifferentiated canon pool. Main light novels, mainline supplemental stories, alternate-route/IF material, web-novel material, and anime adaptation evidence must remain separately labeled witnesses until a specific analytical operation compares them.
+The governed Drive audit admits one continuous Japanese main-volume sequence V01-V43. A 2026-09-04 official-publication freshness check establishes V44 and V45 as published but absent from that audited acquisition. This does not block prospective work at the beginning of the series; it means the repository must not describe the source corpus as complete-to-date, and V44-V45 must be acquired and audited before the sequential reading reaches them.
 
-The first source-facing operation should be an exact source inventory and lock. The first interpretive operation should then be a prospective Japanese-primary reading of the earliest locked main light-novel volume.
+The architecture remains intentionally conservative because Re:Zero has multiple source families that can contaminate one another if treated as a single undifferentiated canon pool. Main light novels, mainline supplemental stories, alternate-route/IF material, web-novel material, and anime adaptation evidence must remain separately labeled witnesses until a specific analytical operation compares them. The current audited source folder admits no supplemental, IF/alternate-route, web-novel, or audiovisual witness.
+
+The first interpretive operation is now permitted: a prospective Japanese-primary reading of locked main-light-novel Volume 01 from exact witness `RZ-MAIN-LN-JA-V01`.
 
 ## Governing method
 
@@ -40,7 +42,7 @@ Read in this order for new Re:Zero analytical work:
 5. the relevant frozen sequential reading(s), once they exist;
 6. only the longitudinal, character, supplemental, adaptation, or specialist artifact needed for the task.
 
-The intended primary semantic anchor is the **Japanese light novel**, once an exact source lock establishes what is actually available. Translations may be convenience witnesses; wording-sensitive claims return to Japanese. Anime, web-novel material, IF/alternate routes, side stories, bonus stories, game material, guidebooks, interviews, and other supplements do not silently overwrite main-light-novel findings.
+The intended primary semantic anchor is the **Japanese light novel**, within the exact admitted source range. Translations may be convenience witnesses; wording-sensitive claims return to Japanese. Anime, web-novel material, IF/alternate routes, side stories, bonus stories, game material, guidebooks, interviews, and other supplements do not silently overwrite main-light-novel findings.
 
 ## Why Re:Zero needs a route-aware method
 
@@ -58,17 +60,17 @@ A discarded or superseded event-state can remain highly probative character evid
 
 ## Corpus architecture
 
-| Layer | Analytical responsibility | Bootstrap state |
+| Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, focalization, Japanese-language, and revision rules | populated; canonical V0.1 |
-| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, and source-family classification | contract populated; no source lock yet |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, focalization, Japanese-language, safe-horizon, and revision rules | populated; analytical method V0.1; witness protocol V0.2 |
+| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, and source-family classification | V01-V43 Japanese `MAIN_LN` admitted; V44-V45 known acquisition gaps; V01 ready |
 | `02 Sequential Readings` | Main-light-novel volume-by-volume prospective deep readings and source-verified arc checkpoints | contract populated; no readings yet |
-| `03 Supplemental and Alternate Witnesses` | Mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract populated; no readings yet |
+| `03 Supplemental and Alternate Witnesses` | Mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract populated; no witness admitted yet |
 | `04 Longitudinal Ledgers` | Recurring route/event-state, knowledge, relationship, character-state, institution, mechanics, and ordinary-life tracking once promotion thresholds are met | schema contract populated; no ledgers promoted yet |
 | `05 Character Analysis` | Character reconstruction only after sufficient longitudinal evidence exists | routing contract populated; no monographs yet |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap manifest populated |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap manifest populated; detailed source audit remains Drive-authoritative |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
 
 The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
@@ -98,6 +100,8 @@ Before reading a supplement analytically, establish:
 - the earliest safe analytical insertion point relative to the prospective main-volume horizon;
 - whether the item is mainline supplemental evidence, alternate-route/counterfactual evidence, a developmental web-novel witness, an adaptation witness, or something else.
 
+The witness protocol now separates publication horizon (`H_pub`), diegetic dependency (`H_diegetic`), and route/divergence dependency (`H_route`). The safe opening point `H_final` is the latest established dependency. If a material dependency is unresolved, `H_final` remains `OPEN` and the witness stays unread.
+
 Alternate-route material may illuminate constraints, latent tendencies, or counterfactual possibilities, but it does not prove that the same choice would occur in the main route under materially different knowledge, relationships, or conditions.
 
 ## Initial analytical questions — not findings
@@ -118,15 +122,14 @@ The sequential pass should test rather than assume questions including:
 
 ## Initial work order
 
-1. Audit and lock the available Japanese main-light-novel witnesses before claiming numbered coverage.
-2. Classify any already-acquired supplemental, alternate-route, web-novel, translation, and anime materials without reading them across the prospective spoiler horizon.
-3. Produce `02 Sequential Readings/REZERO_LN_V01_DEEP_READING.md` only after Volume 01 is source-locked.
-4. Freeze the Volume 01 reading and its next-volume horizon before consulting the next numbered main volume.
-5. Continue prospectively; create arc checkpoints only after source evidence establishes the boundary and the final contributing volume is frozen.
-6. Admit supplemental material only through the placement rules in the witness protocol.
-7. Promote longitudinal ledgers only when recurring responsibilities become costly or unreliable to reconstruct from frozen volume files.
-8. Create character monographs only after enough cross-state and longitudinal evidence exists to distinguish stable tendency, local state, recipient effect, role effect, and genuine revision.
-9. Treat anime and other adaptations as distinct witnesses whose performance, direction, framing, omission, compression, and reordering can be analyzed without replacing the light-novel model.
+1. Produce `02 Sequential Readings/REZERO_LN_V01_DEEP_READING.md` from exact admitted Japanese witness `RZ-MAIN-LN-JA-V01`.
+2. Freeze the Volume 01 reading and its bounded next-volume horizon before consulting Volume 02 analytically.
+3. Continue prospectively through the admitted main-LN spine; create arc checkpoints only after source evidence establishes the boundary and the final contributing volume is frozen.
+4. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
+5. Do not open supplemental or alternate-route material merely to construct a bibliography. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
+6. Promote longitudinal ledgers only when recurring responsibilities become costly or unreliable to reconstruct from frozen volume files.
+7. Create character monographs only after enough cross-state and longitudinal evidence exists to distinguish stable tendency, local state, recipient effect, role effect, and genuine revision.
+8. Treat anime and other adaptations as distinct witnesses whose performance, direction, framing, omission, compression, and reordering can be analyzed without replacing the light-novel model.
 
 ## Bootstrap abstentions
 

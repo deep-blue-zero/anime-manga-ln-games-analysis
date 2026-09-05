@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: witness_protocol
 scope: ROUTE_EVENT_STATE_AND_CROSS_VERSION_EVIDENCE_CONTROL
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -35,9 +35,43 @@ Do not assign a witness class from filename intuition alone. Source identity and
 
 A witness may be acquired without being analytically opened.
 
-For prospective reading, record an **earliest safe insertion horizon** for supplemental material. The insertion decision should consider publication order, explicit source metadata, diegetic placement, route relation, and spoiler risk.
+Every non-spine witness receives a horizon tuple before prospective reading:
 
-If placement is uncertain, leave the witness unread and `OPEN` rather than guessing.
+- **`H_pub` — publication-safe horizon.** The greatest numbered main-LN volume whose official publication date is on or before the witness's first publication date. This prevents a prequel or side story published late in the franchise from leaking later-established information into an earlier prospective freeze merely because its events occur earlier.
+- **`H_diegetic` — diegetic dependency horizon.** The latest main-volume state whose characters, relationships, institutions, terminology, world knowledge, or events the witness demonstrably presupposes. Determine this from source/publisher metadata or a controlled placement audit; do not read through an unopened witness just to force a placement.
+- **`H_route` — route/divergence horizon.** For `ALTERNATE_ROUTE`, the latest main-volume state needed to establish the divergence premise or route conditions without importing later main-route knowledge.
+- **`H_final` — earliest safe opening point.** The latest established dependency among `H_pub`, `H_diegetic`, and `H_route`.
+
+If a potentially material dependency is unknown, `H_final` is `OPEN`, even when `H_pub` is known.
+
+A safe horizon controls **when the witness may be opened**, not what it is allowed to prove. Witness-class transfer rules still apply after opening.
+
+### 3.1 Conservative rules
+
+- A story set chronologically in the past is not therefore safe to read early. Publication horizon still constrains it.
+- A compilation inherits the publication horizon of the compilation unless each component's earlier publication identity and exact textual continuity are separately verified.
+- A revised/reprinted story inherits the later witness's horizon unless exact equivalence to an earlier admitted text is established.
+- A same-day supplement/main-volume release may use that main volume in `H_pub`; prospective practice still reads/freezes the numbered main volume first.
+- A publisher blurb may establish bibliographic or broad placement metadata, but its narrative claims are not source findings about the primary text.
+- If placement requires spoilers to resolve, defer the witness instead of sacrificing the prospective freeze.
+
+### 3.2 Alternate-route / IF horizon
+
+For an IF or other explicit counterfactual witness:
+
+`H_final = max(H_pub, H_route, H_diegetic)` when all relevant components are known.
+
+The divergence point can be much earlier than publication. The later publication horizon still dominates if the IF was written after later main volumes.
+
+Opening an IF after `H_final` authorizes only route-bounded counterfactual analysis. It does not merge its events into main-route continuity.
+
+### 3.3 Current worked bibliographic check
+
+The 2026-09-04 source audit found no supplemental witness in the acquired Re:Zero Drive manifest. Official bibliographic metadata does, however, establish `Ｒｅ：ゼロから始める異世界生活　短編集１４` as a 2026-07-24 publication, after main LN V45 on 2026-06-25.
+
+If that exact collection is later acquired, its initial `H_pub` is therefore `AFTER_V45_FREEZE`. `H_diegetic` remains unassigned until a controlled placement audit, so its current `H_final` is `OPEN`.
+
+This is a test of the rule, not an exhaustive supplemental bibliography.
 
 ## 4. Event-state identity
 
