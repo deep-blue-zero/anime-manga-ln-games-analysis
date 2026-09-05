@@ -570,6 +570,21 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "tomozaki",
+      "stable_slug": "tomozaki",
+      "canonical_title": "Bottom-Tier Character Tomozaki",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/tomozaki/",
+      "canonical_entrypoint": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_TOMOZAKI_BOOTSTRAP_V0_1",
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
+    },
+    {
       "series_id": "wuthering-waves",
       "stable_slug": "wuthering-waves",
       "canonical_title": "Wuthering Waves",
