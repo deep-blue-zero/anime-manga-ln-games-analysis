@@ -33,7 +33,7 @@ See:
 
 ## Current analytical generation
 
-The Git WUWA root is at **bootstrap generation V0.1**.
+The Git WUWA root retains **bootstrap generation V0.1**, supplemented on `series/wuthering-waves` by the supplied Aemeath, Denia, and Lynae **pre-AV V0.1** character packets. All three are `active_provisional`; audiovisual analysis remains pending.
 
 ### Cartethyia
 
@@ -60,11 +60,17 @@ Chisa has a mature Drive evidence bridge but no Git-side character monograph in 
 
 ### Lynae
 
-Lynae is the planned inaugural end-to-end production character test. Her additive Drive package reports 1,128 accepted solo occurrences, 251 scene contexts, 21 WavesLine records, five favor stories, 64 favor words, and 888 semantic voice lines. Of those lines, 885 have complete four-language media mappings. Collection integrity passed; formal voice completeness remains false because three PhoneMessage lines have unresolved runtime dispatch. Human performance annotations and dedicated audiovisual exports are not yet present.
+Lynae has an imported nine-document pre-AV V0.1 reconstruction baseline; the inaugural end-to-end test remains incomplete pending audiovisual analysis and remaining voice review. Her additive Drive package reports 1,128 accepted solo occurrences, 251 scene contexts, 21 WavesLine records, five favor stories, 64 favor words, and 888 semantic voice lines. Of those lines, 885 have complete four-language media mappings. Collection integrity passed; formal voice completeness remains false because three PhoneMessage lines have unresolved runtime dispatch. Human performance annotations and dedicated audiovisual exports are not yet present.
 
 `04 Character Analysis/Lynae/WUWA_LYNAE_CURRENT_STATE.md`
 
-No Lynae monograph, claim ledger, ordinary-life profile, speech/voice profile, or model package is created by this bootstrap. Those are outputs of the inaugural analysis, not scaffolding to be prefilled.
+The original bootstrap created only the Lynae router. The later supplied packet now adds a deep dive, reconstructive profile, evidence/falsification matrix, relationship/state profile, ordinary-life profile, speech/machine-voice profile, AV nomination plan, fidelity/stress test, and packet entrypoint. No completed integrated AV monograph or compiled JSON model is claimed.
+
+### Aemeath and Denia
+
+Each character now has an 11-document pre-AV V0.1 packet, imported byte-for-byte with `active_provisional` status. Start at `04 Character Analysis/Aemeath/WUWA_AEMEATH_CURRENT_STATE.md` or `04 Character Analysis/Denia/WUWA_DENIA_CURRENT_STATE.md`. The packets include deep dives, reconstruction and specialist profiles, evidence/falsification matrices, AV nomination plans, human-retrieval crosswalks, and fidelity/stress tests.
+
+These are analytical imports, not a new evidence acquisition or AV review. The [import record](08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) explains preserved local-draft metadata and provides source hashes.
 
 ## Governing method
 
@@ -96,7 +102,7 @@ Sequential story analysis is governed by:
 | `01 Source Lock and Inventory` | Git-side source boundary and Drive pointers | populated, canonical V0.1 |
 | `02 Sequential Readings` | Quest/arc/event deep readings | contract present; no readings yet |
 | `03 Longitudinal Ledgers` | Cross-reading state, relationship, chronology, world, and uncertainty infrastructure | initialized, active provisional |
-| `04 Character Analysis` | Character syntheses, reconstruction profiles, models, and audits | Cartethyia populated; Chisa/Lynae routed |
+| `04 Character Analysis` | Character syntheses, reconstruction profiles, models, and audits | Cartethyia populated; Aemeath/Denia/Lynae pre-AV packets active_provisional; Chisa routed |
 | `05 Specialist Synthesis` | Recurring thematic/institutional/media questions | not instantiated until justified |
 | `06 Full-Series Synthesis` | Release-bounded title-level synthesis | not instantiated; live-service title incomplete |
 | `07 Evidence and Indexes` | Character discovery, claim routing, Drive/Git crosswalk | populated, canonical/active |
@@ -108,9 +114,9 @@ The absence of an empty directory is intentional. Git does not need symmetry-onl
 ## Current analytical priorities
 
 1. Maintain the merged bootstrap's routing and integrity metadata as the corpus evolves.
-2. Run the Lynae inaugural character reconstruction from the canonical Drive package.
+2. Continue the Lynae inaugural reconstruction from its imported pre-AV baseline and canonical Drive package; complete the pending AV evidence pass for all three imported packets.
 3. Generate comprehensive machine voice analysis across all usable Lynae audio before selecting a bounded human-review cohort.
-4. Produce only those character sub-artifacts Lynae's evidence actually warrants.
+4. Harden the supplied character artifacts only as their evidence warrants, preserving active_provisional status while audiovisual analysis is pending.
 5. Update the character index, claim index, longitudinal ledgers, and current-state map in the same change.
 6. Use the result to revise—not merely affirm—the WUWA character-folder and reconstruction contracts.
 

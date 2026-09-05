@@ -100,6 +100,7 @@ GLOBAL_AUTOMATION_POLICY_SCHEMA = (
 )
 AUDIT_WORKFLOW_PATH = ".github/workflows/repository-audit.yml"
 HOUSEKEEPING_WORKFLOW_PATH = ".github/workflows/global-index-housekeeping.yml"
+NIGHTLY_WORKFLOW_PATH = ".github/workflows/nightly-integration.yml"
 GLOBAL_AUTOMATION_WRITE_PATHS = {
     "governance/MANGA_ANIME_CORPUS_INDEX.md",
     "series/README.md",
@@ -237,12 +238,12 @@ def validate_audit_workflow(
 ) -> list[str]:
     """Enforce content-read-only validation and an isolated exact-status reporter."""
 
-    expected = {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH}
+    expected = {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH, NIGHTLY_WORKFLOW_PATH}
     declared = set(policy.get("allowed_workflows", []))
     errors: list[str] = []
     if declared != expected:
         errors.append(
-            "allowed_workflows must contain only the repository audit and global index housekeeper"
+            "allowed_workflows must contain only the repository audit, global index housekeeper, and nightly integrator"
         )
     entry = snapshot.get(AUDIT_WORKFLOW_PATH)
     if entry is None:
@@ -307,7 +308,7 @@ def validate_audit_workflow(
             )
         ):
             errors.append("repository-audit workflow contains prohibited capability: uses:")
-        expected_report = {"name":"Report the result on the audited commit","needs":"audit","if":"${{ always() }}","runs-on":"ubuntu-24.04","timeout-minutes":5,"permissions":{"statuses":"write"},"steps":[{"name":"Publish only the exact audit status","shell":"bash","env":{"GH_TOKEN":"${{ github.token }}","AUDIT_COMMIT":"${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}","AUDIT_RESULT":"${{ needs.audit.result }}","INTEGRATION_STATE":"${{ needs.audit.outputs.integration_state }}"},"run":"set -euo pipefail\npython - <<'PY'\nimport json\nimport os\nimport re\nimport urllib.request\n\nsha = os.environ[\"AUDIT_COMMIT\"]\nrepository = os.environ[\"GITHUB_REPOSITORY\"]\nif not re.fullmatch(r\"[0-9a-f]{40}\", sha):\n    raise SystemExit(\"FAIL: invalid audited commit\")\nif repository != \"deep-blue-zero/anime-manga-ln-games-analysis\":\n    raise SystemExit(\"FAIL: unexpected repository\")\nresult = os.environ[\"AUDIT_RESULT\"]\nintegration = os.environ[\"INTEGRATION_STATE\"]\nif result == \"success\" and integration in {\"success\", \"pending\"}:\n    state = integration\n    description = (\n        \"Exact commit passed the repository audit\"\n        if state == \"success\"\n        else \"Authored content passed; awaiting routing synchronization\"\n    )\nelse:\n    state = \"error\" if result in {\"cancelled\", \"skipped\"} else \"failure\"\n    description = \"Audit did not complete successfully; this commit is not integration-ready\"\npayload = json.dumps({\n    \"state\": state,\n    \"context\": \"Repository integration audit\",\n    \"description\": description,\n    \"target_url\": f\"https://github.com/{repository}/actions/runs/{os.environ['GITHUB_RUN_ID']}\",\n}).encode(\"utf-8\")\nrequest = urllib.request.Request(\n    f\"https://api.github.com/repos/{repository}/statuses/{sha}\",\n    data=payload,\n    headers={\n        \"Accept\": \"application/vnd.github+json\",\n        \"Authorization\": \"Bearer \" + os.environ[\"GH_TOKEN\"],\n        \"X-GitHub-Api-Version\": \"2022-11-28\",\n    },\n    method=\"POST\",\n)\nwith urllib.request.urlopen(request, timeout=30) as response:\n    if response.status != 201:\n        raise SystemExit(\"FAIL: GitHub did not confirm the commit status\")\nprint(f\"Reported {state} for exact audited commit {sha}\")\nPY\n"}]}
+        expected_report = {"name":"Report the result on the audited commit","needs":"audit","if":"${{ always() }}","runs-on":"ubuntu-24.04","timeout-minutes":5,"permissions":{"statuses":"write"},"steps":[{"name":"Publish only the exact audit status","shell":"bash","env":{"GH_TOKEN":"${{ github.token }}","AUDIT_COMMIT":"${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}","AUDIT_RESULT":"${{ needs.audit.result }}","INTEGRATION_STATE":"${{ needs.audit.outputs.integration_state }}","ANALYTICAL_SOURCE":"${{ github.event_name == 'push' && (startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')) }}"},"run":"set -euo pipefail\npython - <<'PY'\nimport json\nimport os\nimport re\nimport urllib.request\n\nsha = os.environ[\"AUDIT_COMMIT\"]\nrepository = os.environ[\"GITHUB_REPOSITORY\"]\nif not re.fullmatch(r\"[0-9a-f]{40}\", sha):\n    raise SystemExit(\"FAIL: invalid audited commit\")\nif repository != \"deep-blue-zero/anime-manga-ln-games-analysis\":\n    raise SystemExit(\"FAIL: unexpected repository\")\nresult = os.environ[\"AUDIT_RESULT\"]\nintegration = os.environ[\"INTEGRATION_STATE\"]\nif result == \"success\" and integration in {\"success\", \"pending\"}:\n    state = \"pending\" if os.environ[\"ANALYTICAL_SOURCE\"] == \"true\" else integration\n    description = (\n        \"Exact commit passed the repository audit\"\n        if state == \"success\"\n        else \"Authored content passed; awaiting housekeeping and final audit\"\n    )\nelse:\n    state = \"error\" if result in {\"cancelled\", \"skipped\"} else \"failure\"\n    description = \"Audit did not complete successfully; this commit is not integration-ready\"\npayload = json.dumps({\n    \"state\": state,\n    \"context\": \"Repository integration audit\",\n    \"description\": description,\n    \"target_url\": f\"https://github.com/{repository}/actions/runs/{os.environ['GITHUB_RUN_ID']}\",\n}).encode(\"utf-8\")\nrequest = urllib.request.Request(\n    f\"https://api.github.com/repos/{repository}/statuses/{sha}\",\n    data=payload,\n    headers={\n        \"Accept\": \"application/vnd.github+json\",\n        \"Authorization\": \"Bearer \" + os.environ[\"GH_TOKEN\"],\n        \"X-GitHub-Api-Version\": \"2022-11-28\",\n    },\n    method=\"POST\",\n)\nwith urllib.request.urlopen(request, timeout=30) as response:\n    if response.status != 201:\n        raise SystemExit(\"FAIL: GitHub did not confirm the commit status\")\nprint(f\"Reported {state} for exact audited commit {sha}\")\nPY\n"}]}
         if jobs.get("report") != expected_report:
             errors.append("audit status reporter differs from the exact reviewed reporting contract")
     except (DomainError, AttributeError, TypeError, ValueError) as exc:
@@ -372,7 +373,7 @@ def validate_audit_workflow(
 def validate_global_index_automation(
     snapshot: GitSnapshot, policy: Mapping[str, Any]
 ) -> list[str]:
-    """Bind the one write-capable workflow to its exact input and output contract."""
+    """Bind housekeeping to its exact input and output contract."""
 
     errors: list[str] = []
     policy_entry = snapshot.get(GLOBAL_AUTOMATION_POLICY_PATH)
@@ -455,6 +456,8 @@ def validate_global_index_automation(
         "Superseded housekeeping run",
         "Superseded before publication",
         "Main advanced during housekeeping",
+        'dispatch_exact_audit "${SOURCE_SHA}"',
+        "Superseded before no-op certification",
         "git merge-base --is-ancestor origin/main HEAD",
         "tools/synchronize_global_registries.py",
         "tools/update_repository_indexes.py",
@@ -513,8 +516,60 @@ def validate_global_index_automation(
         if fragment in text:
             errors.append(f"global index housekeeping workflow contains prohibited capability: {fragment}")
     declared = set(policy.get("allowed_workflows", []))
-    if declared != {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH}:
+    if declared != {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH, NIGHTLY_WORKFLOW_PATH}:
         errors.append("global index automation workflow inventory is not exact")
+    return errors
+
+
+def validate_nightly_integration(snapshot: GitSnapshot) -> list[str]:
+    """Keep the third approved workflow bound to the reviewed controller and envelope."""
+    policy_path = "governance/repository-controls/nightly-integration-policy.json"
+    controller_path = "tools/nightly_integration.py"
+    errors: list[str] = []
+    entry = snapshot.get(policy_path)
+    if entry is None:
+        return ["nightly integration policy is missing"]
+    try:
+        document = json.loads(entry.data)
+        if set(document) != {"schema", "workflow", "controller", "workflow_sha256", "controller_sha256"}:
+            errors.append("nightly integration policy fields are not exact")
+        if document.get("schema") != "anime-manga-ln-games-analysis/nightly-integration/v1":
+            errors.append("nightly integration policy schema is not exact")
+        for role, path in (("workflow", NIGHTLY_WORKFLOW_PATH), ("controller", controller_path)):
+            candidate = snapshot.get(path)
+            if document.get(role) != path or candidate is None or candidate.mode != "100644":
+                errors.append(f"nightly integration {role} path or file mode is not exact")
+            elif hashlib.sha256(candidate.data).hexdigest() != document.get(role + "_sha256"):
+                errors.append(f"nightly integration {role} differs from its reviewed SHA-256 binding")
+        candidate = snapshot.get(NIGHTLY_WORKFLOW_PATH)
+        if candidate is None:
+            return errors
+        text = candidate.data.decode("utf-8", "strict")
+        workflow = _restricted_yaml_load(text.replace("\non:", '\n"on":'), NIGHTLY_WORKFLOW_PATH)
+        if set(workflow) != {"name", "on", "permissions", "concurrency", "jobs"}:
+            errors.append("nightly integration workflow envelope is not exact")
+        if set(workflow.get("on", {})) != {"schedule", "workflow_dispatch"}:
+            errors.append("nightly integration triggers must be schedule and manual only")
+        if workflow.get("on", {}).get("schedule") != [{"cron": "0 7 * * *", "timezone": "America/New_York"}]:
+            errors.append("nightly integration must run at 07:00 America/New_York")
+        if workflow.get("permissions") != {"contents": "read", "actions": "read", "statuses": "read", "pull-requests": "read"}:
+            errors.append("nightly integration repository token must remain read-only")
+        if workflow.get("concurrency") != {"group": "nightly-analytical-integration", "cancel-in-progress": False}:
+            errors.append("nightly integration must be serialized without cancellation")
+        jobs = workflow.get("jobs", {})
+        if set(jobs) != {"integrate"}:
+            errors.append("nightly integration may contain only its trusted controller job")
+        job = jobs.get("integrate", {})
+        expected_if = "github.repository == 'deep-blue-zero/anime-manga-ln-games-analysis' && github.ref == 'refs/heads/main'"
+        if job.get("if") != expected_if or job.get("runs-on") != "ubuntu-24.04" or job.get("timeout-minutes") != 180:
+            errors.append("nightly integration repository, branch, runner, or timeout guard differs")
+        if "permissions" in job or "uses" in job or "environment" in job:
+            errors.append("nightly integration job may not widen its execution envelope")
+        steps = job.get("steps", [])
+        if len(steps) != 2 or any("uses" in step or step.get("shell") != "bash" for step in steps):
+            errors.append("nightly integration may only acquire and run the bound controller")
+    except (ValueError, TypeError, AttributeError, UnicodeError, DomainError) as exc:
+        errors.append(f"invalid nightly integration contract: {exc}")
     return errors
 
 
@@ -2654,6 +2709,7 @@ def main() -> int:
             errors.extend(validate_markdown_links(snapshot))
             errors.extend(validate_audit_workflow(snapshot, policy))
             errors.extend(validate_global_index_automation(snapshot, policy))
+            errors.extend(validate_nightly_integration(snapshot))
             errors.extend(validate_named_whitespace_exceptions(snapshot, policy))
             baseline_commit = active_migration_baseline_commit(snapshot)
             errors.extend(validate_active_authority_scope(snapshot, baseline_commit))

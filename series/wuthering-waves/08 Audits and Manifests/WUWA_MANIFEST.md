@@ -23,9 +23,9 @@ do_not_use_as_current_authority: false
 - Source control: source boundary, Drive release pointer, source-coverage audit.
 - Sequential layer: naming/closeout contract; no completed readings.
 - Longitudinal layer: character state, relationship network, world/faction, chronology, open questions.
-- Character layer: complete imported Cartethyia package; status routers for Chisa and Lynae.
+- Character layer: complete imported Cartethyia package; Chisa status router; Aemeath (11), Denia (11), and Lynae (9) supplied pre-AV V0.1 documents with current-state routers. All three new packets remain `active_provisional`, pending audiovisual analysis.
 - Evidence/index layer: character index, claim index, Drive/Git crosswalk.
-- Audit layer: analytical corpus audit, authority audit, bootstrap path/hash manifest, imported Cartethyia hardening report.
+- Audit layer: analytical corpus audit, authority audit, bootstrap path/hash manifest, imported Cartethyia hardening report; `WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md` and `WUWA_PRE_AV_CHARACTER_PACKET_IMPORT_MANIFEST.json` record the later three-packet import. Frozen bootstrap records remain historical.
 
 ## Authority order
 

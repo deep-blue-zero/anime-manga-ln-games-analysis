@@ -108,6 +108,26 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          dispatch_exact_audit() {
+            local generated_sha="$1"
+          python - "${generated_sha}" "${BRANCH_NAME}" > dispatch.json <<'PY'
+          import json
+          import sys
+
+          print(json.dumps({
+              "event_type": "audit-generated-commit",
+              "client_payload": {"commit_sha": sys.argv[1], "branch": sys.argv[2]},
+          }))
+          PY
+          curl --fail-with-body --silent --show-error \
+            --request POST \
+            --header "Accept: application/vnd.github+json" \
+            --header "Authorization: Bearer ${GH_TOKEN}" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            --data-binary @dispatch.json \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/dispatches"
+          echo "PASS: dispatched the full audit for ${generated_sha}"
+          }
           readonly generated_paths=(
             "governance/MANGA_ANIME_CORPUS_INDEX.md"
             "series/README.md"
@@ -140,7 +160,18 @@ jobs:
               echo "FAIL: source audit failed and no allowlisted generated repair exists" >&2
               exit 1
             fi
-            echo "PASS: global registries and indexes already match the analytical branch"
+            remote_sha="$(git ls-remote --heads origin "refs/heads/${BRANCH_NAME}" | cut -f1)"
+            if [[ "${remote_sha}" != "${SOURCE_SHA}" ]]; then
+              echo "::notice::Superseded before no-op certification; no final audit was dispatched."
+              exit 0
+            fi
+            remote_main="$(git ls-remote --heads origin refs/heads/main | cut -f1)"
+            if [[ "${remote_main}" != "$(git rev-parse origin/main)" ]]; then
+              echo "::notice::Main advanced before no-op certification; reconcile and audit again."
+              exit 0
+            fi
+            dispatch_exact_audit "${SOURCE_SHA}"
+            echo "PASS: unchanged routing and branch boundaries verified; final audit dispatched"
             exit 0
           fi
           python tools/prepare_commit.py --base origin/main --check --full
@@ -177,20 +208,4 @@ jobs:
               exit 1
             fi
           fi
-          python - "${generated_sha}" "${BRANCH_NAME}" > dispatch.json <<'PY'
-          import json
-          import sys
-
-          print(json.dumps({
-              "event_type": "audit-generated-commit",
-              "client_payload": {"commit_sha": sys.argv[1], "branch": sys.argv[2]},
-          }))
-          PY
-          curl --fail-with-body --silent --show-error \
-            --request POST \
-            --header "Accept: application/vnd.github+json" \
-            --header "Authorization: Bearer ${GH_TOKEN}" \
-            --header "X-GitHub-Api-Version: 2022-11-28" \
-            --data-binary @dispatch.json \
-            "https://api.github.com/repos/${GITHUB_REPOSITORY}/dispatches"
-          echo "PASS: published ${generated_sha} and dispatched its read-only audit"
+          dispatch_exact_audit "${generated_sha}"
