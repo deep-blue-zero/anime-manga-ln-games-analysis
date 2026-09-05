@@ -1,0 +1,272 @@
+{
+  "schema": "wuwa-pre-av-character-packet-import/v1",
+  "branch": "series/wuthering-waves",
+  "base_commit": "a7aaf8b0f0f452fdfb1e96c997dff8816630596a",
+  "status": "active_provisional",
+  "audiovisual_analysis": "pending",
+  "transformation": "None; all 31 Markdown members copied byte-for-byte under character folders.",
+  "archives": [
+    {
+      "name": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "sha256": "7948e3472b7414cee9c83df8b5f9e395df72eeb957baa3d8abd2f146f5fabe83"
+    },
+    {
+      "name": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "sha256": "2d08ed233d057f3117f7a36268744cc870417a33e42029407ce8541f7adf931c"
+    },
+    {
+      "name": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "sha256": "2b3468151c6820ddf44a9ed26c9b861ae20e832887920a412825071fc640ad7d"
+    }
+  ],
+  "files": [
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_ANALYSIS_PACKET_README.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_ANALYSIS_PACKET_README.md",
+      "bytes": 15564,
+      "sha256": "0fff8e5288868c8c3287cddfa5539b7c3727daf3fb6d56989a483d35045af9a3"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "bytes": 15676,
+      "sha256": "5ba7daa27f4016086a85a97feb8241c15cea1097ee6429fcaed7be8f97d0248d"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "bytes": 18960,
+      "sha256": "cdea89389d77cbe8736c3ab748923dbd7be922f36caf929c4d625b1fa0215a1e"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "bytes": 62139,
+      "sha256": "664a9fd550f1227eaf363623a26762fb9285940c13b7e506ba40749c7dd10d70"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "bytes": 22057,
+      "sha256": "ff312850d0abf6df62ca57d319fc370e6bd95e938198bf2dba9c00daa42aafce"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_IDENTITY_EMBODIMENT_AND_SHELL_PROFILE.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_IDENTITY_EMBODIMENT_AND_SHELL_PROFILE.md",
+      "bytes": 16675,
+      "sha256": "808f6ce023c8e2b91ffb0ccaf8ffb3fde0809d86e357265c7cd8d09e9a704673"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "bytes": 14366,
+      "sha256": "e54d88470a2ff00f5a5d13cf72137457bcccc8b6766d58d71f4407af0becbada"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "bytes": 23820,
+      "sha256": "d19ab0e85ab235fad91836c508baf99c1a2984b3f97acbe54ddd9f321e00560a"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "bytes": 21141,
+      "sha256": "06a295c242b38f6e298ba83bf27fb7381670544e6c9ce3b1da0a4b6a74b57888"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "bytes": 24809,
+      "sha256": "aae7b148235174df5967018dfcc1c8870c4a93ca44b2780ea0ecaf6daef54114"
+    },
+    {
+      "character": "Aemeath",
+      "archive": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_AEMEATH_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_AEMEATH_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "bytes": 18664,
+      "sha256": "6e80b5fd88e30dfaf075eaf167d4fa8e9d23c757056e08e7533ce4970ce7bd02"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_ANALYSIS_PACKET_README.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_ANALYSIS_PACKET_README.md",
+      "bytes": 17168,
+      "sha256": "a46ae2093fdd564945fcc24e8ac701d4ff6b7d2dec21a34059fbba1e85f9e3d6"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "bytes": 22481,
+      "sha256": "07aca003c67cbb7e3d7993bd6c5bf415feb04a8a6da79a9ae50243d18944462d"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "bytes": 16447,
+      "sha256": "77fb95137faf34459a74ebfc3a936228d6cd31c77dd96ceb594ba75ee236801c"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "bytes": 60421,
+      "sha256": "c0d515e2b83e3501567fd396ba1780786340c2b51e24bd6dd5c9155805925519"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "bytes": 20373,
+      "sha256": "d779bd7a675dc20b50224fdbed6ef30ba4683a8b445aa1915c65fdfa032dd4bf"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_IDENTITY_DECEPTION_AND_PERSONHOOD_PROFILE.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_IDENTITY_DECEPTION_AND_PERSONHOOD_PROFILE.md",
+      "bytes": 19900,
+      "sha256": "6ea4b1187ae7387f7afa7524c9b4041e816e064c36d12f27da257453aa793275"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "bytes": 17066,
+      "sha256": "fecfc1558f5b0c05008f4f3ef7b07e2d227482802c6cacfb1ffc5891e0795483"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "bytes": 18991,
+      "sha256": "a8e7da487539cdf79dbc7e4b5ac118692b04ea7641e64c7a96b652b8e4f068f2"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "bytes": 20763,
+      "sha256": "33891dafff4d85df43fd1889817cf5cd740593b1fd6739fb89119a9767ca094c"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "bytes": 22117,
+      "sha256": "dbb6f6bd98af540dd0e9c4e799e6582579e779e9c2f32be9ef08e5fcba49e800"
+    },
+    {
+      "character": "Denia",
+      "archive": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_DENIA_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_DENIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "bytes": 17952,
+      "sha256": "df4b51f470697eec25529e0a7e043ca9af5b9337f199da43ed0e264a7837f726"
+    },
+    {
+      "character": "Lynae",
+      "archive": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_LYNAE_ANALYSIS_PACKET_README.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_ANALYSIS_PACKET_README.md",
+      "bytes": 11495,
+      "sha256": "e3949cf44253ec6ae74f7ac37c595195e8f9fc85e7a3342eaee0a3d1cda35b4d"
+    },
+    {
+      "character": "Lynae",
+      "archive": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_LYNAE_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "bytes": 20250,
+      "sha256": "23574a7203da1dc35968e37bddd031487d0b0f81fc170e0bcacc53bc67c6c1ac"
+    },
+    {
+      "character": "Lynae",
+      "archive": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "bytes": 65061,
+      "sha256": "e8a9e521c15db8174d258b875abeba150192ced8fc6b461dc9c56677caf4b21c"
+    },
+    {
+      "character": "Lynae",
+      "archive": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "bytes": 19476,
+      "sha256": "fe8fd29cc94d135b77c4aa7766455ce3b84c37c5aa80171619e80e664917d260"
+    },
+    {
+      "character": "Lynae",
+      "archive": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_LYNAE_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "bytes": 16935,
+      "sha256": "d15ac6a9a6ab44328cbc8ec56e52733744f9ea932fb4937994c40fafc92f4d9d"
+    },
+    {
+      "character": "Lynae",
+      "archive": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_LYNAE_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "bytes": 20635,
+      "sha256": "de3270fb80ad2773a3bceec6ef27a9bf17a69c7f5af4b018ce9b2b32874490bc"
+    },
+    {
+      "character": "Lynae",
+      "archive": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_LYNAE_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "bytes": 21007,
+      "sha256": "c328e8ec1d5184b1a38e71be3f86e8464312e5521e4ce5882f6e13f1e1fda3a6"
+    },
+    {
+      "character": "Lynae",
+      "archive": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "bytes": 21625,
+      "sha256": "6f0cd2f927ff50ec69f987c685a1ec46960fea40db88aebedc45819438d55d86"
+    },
+    {
+      "character": "Lynae",
+      "archive": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1.zip",
+      "member": "WUWA_LYNAE_RECONSTRUCTION_PACKET_PRE_AV_V0_1/WUWA_LYNAE_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "bytes": 16938,
+      "sha256": "9acde45cd970624cca1e950ad86b1001b4a33c1a0b3f6267e9eba444e8d34480"
+    }
+  ]
+}

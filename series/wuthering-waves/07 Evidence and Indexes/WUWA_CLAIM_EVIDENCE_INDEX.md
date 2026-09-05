@@ -30,6 +30,14 @@ This index routes major accepted or contested claims to their canonical analytic
 | Voice-performance centers | language-scoped hypotheses only | OPEN | speech/voice/performance profile | Drive full machine tables and future human cohort |
 | Direct staging claims | prepared but unreviewed in imported baseline | OPEN | open-questions ledger / future AV synthesis | Drive selected AV witnesses |
 
-## Chisa and Lynae
+## Chisa
 
-No literary/character claims are accepted in Git by the bootstrap. Their source and machine-evidence packages may support future analysis, but evidence availability is not itself an interpretation.
+No literary/character claims were accepted for Chisa by the bootstrap; her evidence package remains a route for future analysis.
+
+## Aemeath, Denia, and Lynae — pre-AV imports
+
+The imported claims remain `active_provisional` and pending audiovisual analysis. Their original claim IDs, counterevidence, and uncertainty belong to the supplied matrices; this import adds routing without independently re-adjudicating those claims.
+
+- Aemeath: `04 Character Analysis/Aemeath/WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
+- Denia: `04 Character Analysis/Denia/WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
+- Lynae: `04 Character Analysis/Lynae/WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
