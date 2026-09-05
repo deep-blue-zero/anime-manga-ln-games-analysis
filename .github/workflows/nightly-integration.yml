@@ -1,0 +1,64 @@
+name: Nightly analytical integration
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+      timezone: America/New_York
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Preview candidates or integrate eligible branches
+        type: choice
+        options:
+          - preview
+          - apply
+        default: preview
+      branch:
+        description: Optional exact series/study branch; empty selects all
+        type: string
+        default: ""
+
+permissions:
+  contents: read
+  actions: read
+  statuses: read
+  pull-requests: read
+
+concurrency:
+  group: nightly-analytical-integration
+  cancel-in-progress: false
+
+jobs:
+  integrate:
+    if: github.repository == 'deep-blue-zero/anime-manga-ln-games-analysis' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 180
+    steps:
+      - name: Acquire the trusted controller
+        shell: bash
+        env:
+          CONTROLLER_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          [[ "${CONTROLLER_SHA}" =~ ^[0-9a-f]{40}$ ]]
+          git init .
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          git fetch --no-tags origin "${CONTROLLER_SHA}"
+          git checkout --detach FETCH_HEAD
+          test "$(git rev-parse HEAD)" = "${CONTROLLER_SHA}"
+      - name: Integrate audited analytical branches
+        shell: bash
+        env:
+          INTEGRATION_ENABLED: ${{ vars.NIGHTLY_INTEGRATION_ENABLED }}
+          REQUESTED_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'apply' }}
+          SELECTED_BRANCH: ${{ inputs.branch }}
+          READ_TOKEN: ${{ github.token }}
+          OWNER_TOKEN: ${{ secrets.NIGHTLY_INTEGRATION_TOKEN }}
+          PYTHONDONTWRITEBYTECODE: "1"
+        run: |
+          set -euo pipefail
+          mode="${REQUESTED_MODE}"
+          if [[ "${INTEGRATION_ENABLED}" != "true" ]]; then
+            mode="preview"
+          fi
+          python tools/nightly_integration.py --mode "${mode}" --branch "${SELECTED_BRANCH}"
