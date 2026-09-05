@@ -219,30 +219,33 @@ Before either execution profile:
 2. read the corpus index, registry, and exact verified project entrypoint;
 3. select the branch required by `governance/policies/BRANCH_LIFECYCLE.md`;
 4. identify the exact authorized paths and evaluate `governance/repository-controls/change-obligations.json` for every required same-change index, registry, crosswalk, or manifest update;
-5. preserve the established project architecture, source boundary, authority metadata, and provenance.
+5. preserve the established project architecture, source boundary, authority metadata, and provenance;
+6. follow the maintained-document rules in `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md`: patch verified current contents, preserve unaffected bytes and history, and review the complete candidate diff. Authored ledgers and readiness indexes must not be regenerated merely because a connector has difficulty writing them.
 
 On stable `series/<stable-slug>` and `studies/<stable-slug>` branches, follow `governance/policies/AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Write the named analytical root and required routing descriptors. Housekeeping synchronizes only five series/study routing outputs. Character discovery is exclusively maintained by the owner-authorized cloud curation agent under `governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md`; only that agent may provide a coordinated character repair on the source branch before integration.
 
 ### 8.1 GitHub API or connector mode (ChatGPT)
 
 1. fetch `main` and the exact target-branch head; confirm the selected branch is based on or explicitly reconciled with current `main`;
-2. fetch the current blob SHA for every existing path to be changed;
+2. fetch the complete current contents and blob SHA for every existing path to be changed at the captured commit; verify completeness before constructing any full-file replacement;
 3. confirm that the provider will record an author from `allowed_author_identities` and a committer from `allowed_committer_identities` in `governance/repository-controls/tracked-file-policy.json`; the GitHub server identity may be an allowed committer but is never an allowed author, and wildcard identity patterns are prohibited;
 4. create or reuse `series/<stable-slug>` for continuing series work, `studies/<stable-slug>` for continuing study work, or a narrow temporary `chatgpt/<purpose>` branch for cross-cutting or one-shot work;
-5. write only the authorized paths, using current blob SHAs for replacement safety and an atomic multi-file tree/commit when the connector supports it;
+5. construct each candidate from the verified original plus targeted edits, review its complete diff, and write only the authorized paths using current blob SHAs for replacement safety and an atomic multi-file tree/commit when the connector supports it;
 6. treat the exact candidate Git tree as the live path inventory and update only the semantic outputs required by the obligation map; an ordinary path change inside an existing registered root does not require a global path-list projection;
-7. fetch the resulting commit and compare the complete branch delta against the validated base; validate formatting, links, structured data, authority records, commit identity, generated outputs, and the exact changed-file set;
+7. fetch the resulting commit and each changed file, compare remote contents with the reviewed candidates and the complete branch delta against the validated base; validate formatting, links, structured data, authority records, commit identity, generated outputs, and the exact changed-file set;
 8. use the owner-controlled integration route authorized for the change: a pull request when required, or an explicitly authorized ordinary non-forced integration into `main`; never infer merge authority from this handoff or a branch name;
 9. immediately before integration, recheck remote-head drift and confirm the reviewed branch delta is unchanged;
 10. after integration, fetch the resulting `main` head, verify that its tree or reviewed patch corresponds to the approved change, and require the `main` repository audit to complete successfully before declaring the Git transaction closed.
 
-This profile has no working tree or staging area. Exact base refs, blob identities, authorized path lists, commit and branch comparisons, any applicable PR diff, and post-integration `main` verification provide the equivalent safety controls.
+This profile has no working tree or staging area. Complete verified source contents, exact base refs, blob identities, authorized path lists, commit and branch comparisons, any applicable PR diff, and post-integration `main` verification provide the equivalent safety controls.
+
+Follow the checklist's connector-failure procedure after truncated reads, payload failures, timeouts, or ambiguous writes: inspect remote state before retrying, preserve already applied and concurrent changes, and use an approved Git-capable environment or report a precise blocker when a complete safe replacement is unavailable. Never substitute a summary, omit untouched sections, or repeatedly overwrite from a stale before-image.
 
 ### 8.2 Local clone mode (Codex)
 
 1. fetch the target branch and inspect `git status`, the current branch, upstream tracking, and the exact base commit; stop on unrelated or ambiguous worktree changes;
 2. create or reuse `series/<stable-slug>` for continuing series work, `studies/<stable-slug>` for continuing study work, or a narrow temporary `codex/<purpose>` branch for cross-cutting or one-shot work;
-3. edit only the authorized paths;
+3. edit only the authorized paths through targeted patches against the current files, preserving unaffected bytes and document history under the maintained-document rules;
 4. stage explicit paths with `git add -- <path>...`; never use `git add .`, a directory-wide add, or wildcard staging;
 5. run `python tools/prepare_commit.py --base origin/main --write-generated`, review its outputs, and stage each required generated path explicitly;
 6. run `python tools/prepare_commit.py --base origin/main --check`; add `--full` only when explicitly required or when changing executable validation, workflow, schema, publication-safety, or authority controls;
