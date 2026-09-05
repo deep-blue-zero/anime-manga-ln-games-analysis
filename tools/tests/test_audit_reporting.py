@@ -28,7 +28,7 @@ def workflow(path: str) -> dict:
 
 
 class AuditReportingTests(unittest.TestCase):
-    def report(self, result: str, state: str, *, sha: str = "a" * 40) -> tuple[object, dict]:
+    def report(self, result: str, state: str, *, sha: str = "a" * 40, source: bool = False) -> tuple[object, dict]:
         script = workflow(AUDIT)["jobs"]["report"]["steps"][0]["run"]
         program = script.split("python - <<'PY'\n", 1)[1].rsplit("\nPY", 1)[0]
         environment = {
@@ -36,6 +36,7 @@ class AuditReportingTests(unittest.TestCase):
             "GITHUB_REPOSITORY": "deep-blue-zero/anime-manga-ln-games-analysis",
             "GITHUB_RUN_ID": "123", "AUDIT_RESULT": result,
             "INTEGRATION_STATE": state, "GH_TOKEN": "test-token",
+            "ANALYTICAL_SOURCE": "true" if source else "false",
         }
         with mock.patch.dict(os.environ, environment, clear=True):
             with mock.patch("urllib.request.urlopen") as urlopen:
@@ -64,6 +65,14 @@ class AuditReportingTests(unittest.TestCase):
             with self.subTest(result=result, state=state):
                 _, payload = self.report(result, state)
                 self.assertEqual(payload["state"], expected)
+
+    def test_stable_source_is_pending_even_when_routing_is_current(self) -> None:
+        for state in ("success", "pending"):
+            _, payload = self.report("success", state, source=True)
+            self.assertEqual(payload["state"], "pending")
+            self.assertIn("housekeeping", payload["description"])
+        _, failed = self.report("failure", "success", source=True)
+        self.assertEqual(failed["state"], "failure")
 
     def test_invalid_target_is_rejected_before_a_status_write(self) -> None:
         with self.assertRaisesRegex(SystemExit, "invalid audited commit"):
@@ -98,6 +107,77 @@ class AuditReportingTests(unittest.TestCase):
                                 text=True, capture_output=True, check=False,
                             )
                             self.assertEqual(result.returncode, 0, result.stderr)
+
+    def test_unchanged_housekeeping_dispatches_only_after_current_head_checks(self) -> None:
+        if not shutil.which("bash"):
+            self.skipTest("bash is unavailable")
+        base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
+        if not base_value or not Path(base_value).is_dir():
+            self.skipTest("MANGA_ANIME_TEST_TMP is not available")
+        step = workflow(HOUSEKEEPING)["jobs"]["synchronize"]["steps"][-1]
+        for branch_sha, main_sha, dispatched in (
+            ("a" * 40, "b" * 40, True),
+            ("c" * 40, "b" * 40, False),
+            ("a" * 40, "c" * 40, False),
+        ):
+            with self.subTest(branch=branch_sha, main=main_sha):
+                with tempfile.TemporaryDirectory(dir=base_value) as directory:
+                    root = Path(directory)
+                    binaries = root / "bin"
+                    binaries.mkdir()
+                    programs = {
+                        "git": (
+                            "import json, os, sys\n"
+                            "from pathlib import Path\n"
+                            "args = sys.argv[1:]\n"
+                            "with open(os.environ['TEST_GIT_CALLS'], 'a') as output:\n"
+                            "    output.write(json.dumps(args) + '\\n')\n"
+                            "if args[0] == 'ls-remote':\n"
+                            "    key = 'TEST_MAIN_SHA' if args[-1] == 'refs/heads/main' else 'TEST_BRANCH_SHA'\n"
+                            "    print(os.environ[key] + '\\t' + args[-1])\n"
+                            "elif args[0] == 'rev-parse':\n"
+                            "    print('b' * 40)\n"
+                        ),
+                        "python": (
+                            "import os, sys\n"
+                            "if not sys.argv[1].startswith('tools/'):\n"
+                            "    os.execv(sys.executable, [sys.executable, *sys.argv[1:]])\n"
+                        ),
+                        "curl": (
+                            "import os\n"
+                            "from pathlib import Path\n"
+                            "Path(os.environ['TEST_DISPATCHED']).write_text('called')\n"
+                        ),
+                    }
+                    for name, program in programs.items():
+                        target = binaries / name
+                        target.write_text("#!" + sys.executable + "\n" + program)
+                        target.chmod(0o700)
+                    calls = root / "git-calls"
+                    marker = root / "dispatched"
+                    environment = dict(
+                        os.environ, PATH=str(binaries) + os.pathsep + os.environ["PATH"],
+                        SOURCE_SHA="a" * 40, BRANCH_NAME="series/example",
+                        SOURCE_AUDIT_CONCLUSION="success", GH_TOKEN="test-token",
+                        GITHUB_REPOSITORY="deep-blue-zero/anime-manga-ln-games-analysis",
+                        TEST_BRANCH_SHA=branch_sha, TEST_MAIN_SHA=main_sha,
+                        TEST_GIT_CALLS=str(calls), TEST_DISPATCHED=str(marker),
+                    )
+                    result = subprocess.run(
+                        ["bash", "-e", "-o", "pipefail"], input=step["run"], cwd=root,
+                        env=environment, text=True, capture_output=True, check=False,
+                    )
+                    self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+                    self.assertEqual(marker.exists(), dispatched)
+                    commands = [json.loads(line) for line in calls.read_text().splitlines()]
+                    self.assertFalse(any(args[0] in {"commit", "push"} for args in commands))
+                    if dispatched:
+                        payload = json.loads((root / "dispatch.json").read_text())
+                        self.assertEqual(payload["client_payload"], {
+                            "commit_sha": "a" * 40, "branch": "series/example",
+                        })
+                    else:
+                        self.assertFalse((root / "dispatch.json").exists())
 
     def test_superseded_housekeeping_exits_before_generation(self) -> None:
         if not shutil.which("bash"):

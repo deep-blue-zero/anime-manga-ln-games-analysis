@@ -188,6 +188,7 @@ jobs:
           AUDIT_COMMIT: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}
           AUDIT_RESULT: ${{ needs.audit.result }}
           INTEGRATION_STATE: ${{ needs.audit.outputs.integration_state }}
+          ANALYTICAL_SOURCE: ${{ github.event_name == 'push' && (startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')) }}
         run: |
           set -euo pipefail
           python - <<'PY'
@@ -205,11 +206,11 @@ jobs:
           result = os.environ["AUDIT_RESULT"]
           integration = os.environ["INTEGRATION_STATE"]
           if result == "success" and integration in {"success", "pending"}:
-              state = integration
+              state = "pending" if os.environ["ANALYTICAL_SOURCE"] == "true" else integration
               description = (
                   "Exact commit passed the repository audit"
                   if state == "success"
-                  else "Authored content passed; awaiting routing synchronization"
+                  else "Authored content passed; awaiting housekeeping and final audit"
               )
           else:
               state = "error" if result in {"cancelled", "skipped"} else "failure"
