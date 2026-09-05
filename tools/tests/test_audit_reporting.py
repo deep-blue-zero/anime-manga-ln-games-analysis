@@ -76,6 +76,8 @@ class AuditReportingTests(unittest.TestCase):
             original.replace("      statuses: write", "      statuses: write\n      contents: write", 1),
             original.replace("/statuses/{sha}", "/statuses/{os.environ['GITHUB_SHA']}", 1),
             original.replace("    needs: audit", "    needs: unrelated", 1),
+            original.replace("    runs-on: ubuntu-24.04", "    uses: owner/repo/workflow@ref", 1),
+            original.replace("        shell: bash", "        uses: owner/action@ref\n        shell: bash", 1),
         )
         for changed in variants:
             with self.subTest(changed=changed[-100:]):

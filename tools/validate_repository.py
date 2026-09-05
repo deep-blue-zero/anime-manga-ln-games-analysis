@@ -300,6 +300,13 @@ def validate_audit_workflow(
             "permissions", {"contents": "read"}
         ) != {"contents": "read"}:
             errors.append("audit validation job must not receive write permissions")
+        if isinstance(audit_job, Mapping) and (
+            "uses" in audit_job or any(
+                isinstance(step, Mapping) and "uses" in step
+                for step in audit_job.get("steps", [])
+            )
+        ):
+            errors.append("repository-audit workflow contains prohibited capability: uses:")
         expected_report = {"name":"Report the result on the audited commit","needs":"audit","if":"${{ always() }}","runs-on":"ubuntu-24.04","timeout-minutes":5,"permissions":{"statuses":"write"},"steps":[{"name":"Publish only the exact audit status","shell":"bash","env":{"GH_TOKEN":"${{ github.token }}","AUDIT_COMMIT":"${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}","AUDIT_RESULT":"${{ needs.audit.result }}","INTEGRATION_STATE":"${{ needs.audit.outputs.integration_state }}"},"run":"set -euo pipefail\npython - <<'PY'\nimport json\nimport os\nimport re\nimport urllib.request\n\nsha = os.environ[\"AUDIT_COMMIT\"]\nrepository = os.environ[\"GITHUB_REPOSITORY\"]\nif not re.fullmatch(r\"[0-9a-f]{40}\", sha):\n    raise SystemExit(\"FAIL: invalid audited commit\")\nif repository != \"deep-blue-zero/anime-manga-ln-games-analysis\":\n    raise SystemExit(\"FAIL: unexpected repository\")\nresult = os.environ[\"AUDIT_RESULT\"]\nintegration = os.environ[\"INTEGRATION_STATE\"]\nif result == \"success\" and integration in {\"success\", \"pending\"}:\n    state = integration\n    description = (\n        \"Exact commit passed the repository audit\"\n        if state == \"success\"\n        else \"Authored content passed; awaiting routing synchronization\"\n    )\nelse:\n    state = \"error\" if result in {\"cancelled\", \"skipped\"} else \"failure\"\n    description = \"Audit did not complete successfully; this commit is not integration-ready\"\npayload = json.dumps({\n    \"state\": state,\n    \"context\": \"Repository integration audit\",\n    \"description\": description,\n    \"target_url\": f\"https://github.com/{repository}/actions/runs/{os.environ['GITHUB_RUN_ID']}\",\n}).encode(\"utf-8\")\nrequest = urllib.request.Request(\n    f\"https://api.github.com/repos/{repository}/statuses/{sha}\",\n    data=payload,\n    headers={\n        \"Accept\": \"application/vnd.github+json\",\n        \"Authorization\": \"Bearer \" + os.environ[\"GH_TOKEN\"],\n        \"X-GitHub-Api-Version\": \"2022-11-28\",\n    },\n    method=\"POST\",\n)\nwith urllib.request.urlopen(request, timeout=30) as response:\n    if response.status != 201:\n        raise SystemExit(\"FAIL: GitHub did not confirm the commit status\")\nprint(f\"Reported {state} for exact audited commit {sha}\")\nPY\n"}]}
         if jobs.get("report") != expected_report:
             errors.append("audit status reporter differs from the exact reviewed reporting contract")
@@ -343,7 +350,6 @@ def validate_audit_workflow(
     forbidden_fragments = (
         "pull_request",
         "secrets.",
-        "uses:",
         "contents: write",
         "permissions: write",
         "git push",
