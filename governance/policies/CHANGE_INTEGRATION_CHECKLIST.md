@@ -95,7 +95,7 @@ Use `python tools/prepare_commit.py --base origin/main --check --full` when expl
 
 1. Inspect the exact staged path list, diff, generated changes, and file sizes.
 2. Confirm the commit uses an approved owner author identity and an approved committer identity.
-3. Push normally without force. For a stable analytical branch, require the final housekeeping result and its generated-commit audit when an automated child commit was produced. For other branches and `main`, require the full repository audit and successful `Repository integration audit` status for the exact remote commit. A passing author preflight with pending routing is not a passing integration gate.
+3. Push normally without force. The owner-authorized nightly controller follows `NIGHTLY_ANALYTICAL_INTEGRATION.md` for clean reconciliation, protected PR integration, and explicit post-merge validation. For a stable analytical branch, require the final housekeeping result and its generated-commit audit when an automated child commit was produced. For other branches and `main`, require the full repository audit and successful `Repository integration audit` status for the exact remote commit. A passing author preflight with pending routing is not a passing integration gate.
 4. After integration, apply the verified branch-retention or pruning rule in `BRANCH_LIFECYCLE.md`.
 
 Do not routinely modify `governance/AUTHORITY_SCOPE.json`, authority-epoch records, bootstrap bindings, public-activation bindings, or the frozen Drive-to-Git migration crosswalks.

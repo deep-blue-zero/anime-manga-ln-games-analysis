@@ -100,6 +100,7 @@ GLOBAL_AUTOMATION_POLICY_SCHEMA = (
 )
 AUDIT_WORKFLOW_PATH = ".github/workflows/repository-audit.yml"
 HOUSEKEEPING_WORKFLOW_PATH = ".github/workflows/global-index-housekeeping.yml"
+NIGHTLY_WORKFLOW_PATH = ".github/workflows/nightly-integration.yml"
 GLOBAL_AUTOMATION_WRITE_PATHS = {
     "governance/MANGA_ANIME_CORPUS_INDEX.md",
     "series/README.md",
@@ -237,12 +238,12 @@ def validate_audit_workflow(
 ) -> list[str]:
     """Enforce content-read-only validation and an isolated exact-status reporter."""
 
-    expected = {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH}
+    expected = {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH, NIGHTLY_WORKFLOW_PATH}
     declared = set(policy.get("allowed_workflows", []))
     errors: list[str] = []
     if declared != expected:
         errors.append(
-            "allowed_workflows must contain only the repository audit and global index housekeeper"
+            "allowed_workflows must contain only the repository audit, global index housekeeper, and nightly integrator"
         )
     entry = snapshot.get(AUDIT_WORKFLOW_PATH)
     if entry is None:
@@ -372,7 +373,7 @@ def validate_audit_workflow(
 def validate_global_index_automation(
     snapshot: GitSnapshot, policy: Mapping[str, Any]
 ) -> list[str]:
-    """Bind the one write-capable workflow to its exact input and output contract."""
+    """Bind housekeeping to its exact input and output contract."""
 
     errors: list[str] = []
     policy_entry = snapshot.get(GLOBAL_AUTOMATION_POLICY_PATH)
@@ -515,8 +516,60 @@ def validate_global_index_automation(
         if fragment in text:
             errors.append(f"global index housekeeping workflow contains prohibited capability: {fragment}")
     declared = set(policy.get("allowed_workflows", []))
-    if declared != {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH}:
+    if declared != {AUDIT_WORKFLOW_PATH, HOUSEKEEPING_WORKFLOW_PATH, NIGHTLY_WORKFLOW_PATH}:
         errors.append("global index automation workflow inventory is not exact")
+    return errors
+
+
+def validate_nightly_integration(snapshot: GitSnapshot) -> list[str]:
+    """Keep the third approved workflow bound to the reviewed controller and envelope."""
+    policy_path = "governance/repository-controls/nightly-integration-policy.json"
+    controller_path = "tools/nightly_integration.py"
+    errors: list[str] = []
+    entry = snapshot.get(policy_path)
+    if entry is None:
+        return ["nightly integration policy is missing"]
+    try:
+        document = json.loads(entry.data)
+        if set(document) != {"schema", "workflow", "controller", "workflow_sha256", "controller_sha256"}:
+            errors.append("nightly integration policy fields are not exact")
+        if document.get("schema") != "anime-manga-ln-games-analysis/nightly-integration/v1":
+            errors.append("nightly integration policy schema is not exact")
+        for role, path in (("workflow", NIGHTLY_WORKFLOW_PATH), ("controller", controller_path)):
+            candidate = snapshot.get(path)
+            if document.get(role) != path or candidate is None or candidate.mode != "100644":
+                errors.append(f"nightly integration {role} path or file mode is not exact")
+            elif hashlib.sha256(candidate.data).hexdigest() != document.get(role + "_sha256"):
+                errors.append(f"nightly integration {role} differs from its reviewed SHA-256 binding")
+        candidate = snapshot.get(NIGHTLY_WORKFLOW_PATH)
+        if candidate is None:
+            return errors
+        text = candidate.data.decode("utf-8", "strict")
+        workflow = _restricted_yaml_load(text.replace("\non:", '\n"on":'), NIGHTLY_WORKFLOW_PATH)
+        if set(workflow) != {"name", "on", "permissions", "concurrency", "jobs"}:
+            errors.append("nightly integration workflow envelope is not exact")
+        if set(workflow.get("on", {})) != {"schedule", "workflow_dispatch"}:
+            errors.append("nightly integration triggers must be schedule and manual only")
+        if workflow.get("on", {}).get("schedule") != [{"cron": "0 7 * * *", "timezone": "America/New_York"}]:
+            errors.append("nightly integration must run at 07:00 America/New_York")
+        if workflow.get("permissions") != {"contents": "read", "actions": "read", "statuses": "read", "pull-requests": "read"}:
+            errors.append("nightly integration repository token must remain read-only")
+        if workflow.get("concurrency") != {"group": "nightly-analytical-integration", "cancel-in-progress": False}:
+            errors.append("nightly integration must be serialized without cancellation")
+        jobs = workflow.get("jobs", {})
+        if set(jobs) != {"integrate"}:
+            errors.append("nightly integration may contain only its trusted controller job")
+        job = jobs.get("integrate", {})
+        expected_if = "github.repository == 'deep-blue-zero/anime-manga-ln-games-analysis' && github.ref == 'refs/heads/main'"
+        if job.get("if") != expected_if or job.get("runs-on") != "ubuntu-24.04" or job.get("timeout-minutes") != 180:
+            errors.append("nightly integration repository, branch, runner, or timeout guard differs")
+        if "permissions" in job or "uses" in job or "environment" in job:
+            errors.append("nightly integration job may not widen its execution envelope")
+        steps = job.get("steps", [])
+        if len(steps) != 2 or any("uses" in step or step.get("shell") != "bash" for step in steps):
+            errors.append("nightly integration may only acquire and run the bound controller")
+    except (ValueError, TypeError, AttributeError, UnicodeError, DomainError) as exc:
+        errors.append(f"invalid nightly integration contract: {exc}")
     return errors
 
 
@@ -2656,6 +2709,7 @@ def main() -> int:
             errors.extend(validate_markdown_links(snapshot))
             errors.extend(validate_audit_workflow(snapshot, policy))
             errors.extend(validate_global_index_automation(snapshot, policy))
+            errors.extend(validate_nightly_integration(snapshot))
             errors.extend(validate_named_whitespace_exceptions(snapshot, policy))
             baseline_commit = active_migration_baseline_commit(snapshot)
             errors.extend(validate_active_authority_scope(snapshot, baseline_commit))
