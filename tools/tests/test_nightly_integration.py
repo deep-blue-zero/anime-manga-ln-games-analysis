@@ -115,6 +115,20 @@ class ControllerTests(unittest.TestCase):
         self.assertEqual(worker.api.writes, [])
         worker.graph.push.assert_not_called()
 
+    def test_transport_uses_canonical_repository_metadata_url(self):
+        # GitHub returns 404 for the repository root URL with a trailing slash.
+        cases = {
+            '': f'https://api.github.com/repos/{REPOSITORY}',
+            '/user': 'https://api.github.com/user',
+            'branches/main/protection': f'https://api.github.com/repos/{REPOSITORY}/branches/main/protection',
+        }
+        for path, expected in cases.items():
+            with self.subTest(path=path), mock.patch('nightly_integration.urllib.request.urlopen') as transport:
+                transport.return_value.__enter__.return_value.read.return_value = b'{}'
+                self.assertEqual(GitHub('test', preview=True).request('GET', path), {})
+                request = transport.call_args.args[0]
+                self.assertEqual(request.full_url, expected)
+
     def test_preview_transport_rejects_every_mutation(self):
         for method in ('POST', 'PUT', 'PATCH', 'DELETE'):
             with self.assertRaises(Halt):
