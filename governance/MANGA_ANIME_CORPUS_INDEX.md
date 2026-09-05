@@ -36,6 +36,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`
+- [Re:ZERO -Starting Life in Another World-](../series/re-zero/) — `series/re-zero/` — post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary.
 - [Redo of Healer](../series/redo-of-healer/) — `series/redo-of-healer/`
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`

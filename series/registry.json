@@ -290,6 +290,20 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "mass-effect",
+      "stable_slug": "mass-effect",
+      "canonical_title": "Mass Effect",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "studies/comparative-media/Mass Effect/",
+      "canonical_entrypoint": "studies/comparative-media/Mass Effect/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
+      "authority_status": "GIT_PRIMARY"
+    },
+    {
       "series_id": "monogatari-series",
       "stable_slug": "monogatari-series",
       "canonical_title": "Monogatari Series",
@@ -378,6 +392,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "re-zero",
+      "stable_slug": "re-zero",
+      "canonical_title": "Re:ZERO -Starting Life in Another World-",
+      "media": [
+        "LIGHT_NOVEL",
+        "ANIME"
+      ],
+      "repository_path": "series/re-zero/",
+      "canonical_entrypoint": "series/re-zero/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_RE_ZERO_BOOTSTRAP_V0_1",
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary."
     },
     {
       "series_id": "redo-of-healer",
@@ -582,20 +612,6 @@
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "GIT_PRIMARY"
-    },
-    {
-      "series_id": "mass-effect",
-      "stable_slug": "mass-effect",
-      "canonical_title": "Mass Effect",
-      "media": [
-        "GAME"
-      ],
-      "repository_path": "studies/comparative-media/Mass Effect/",
-      "canonical_entrypoint": "studies/comparative-media/Mass Effect/CURRENT_STATE_AND_CORPUS_MAP.md",
-      "canonical_entrypoint_status": "PRESENT_VERIFIED",
-      "materialization_status": "PRESENT_REVIEWED",
-      "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
       "authority_status": "GIT_PRIMARY"
     }
   ]
