@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import json
+import os
+import re
 import sys
 import unittest
 from pathlib import Path
@@ -24,6 +26,15 @@ class RepositoryIndexTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         cls.base_snapshot = _snapshot(ROOT, "index", None)
+        branch = os.environ.get("AUDIT_BRANCH", "")
+        if os.environ.get("AUDIT_EVENT") == "push" and re.fullmatch(
+            r"(series|studies)/[a-z0-9][a-z0-9-]*", branch
+        ):
+            # Author preflight validates projected routing without writing it.
+            # Housekeeping, dispatch, main, and ordinary local tests stay strict.
+            from analytical_preflight import routing_preflight
+
+            cls.base_snapshot, _ = routing_preflight(cls.base_snapshot, branch)
 
     def snapshot(self) -> GitSnapshot:
         return self.base_snapshot

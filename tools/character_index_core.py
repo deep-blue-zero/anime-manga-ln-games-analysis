@@ -36,6 +36,7 @@ HEX64_RE = re.compile(r"^[0-9a-f]{64}$")
 AUTHORITY_STATUSES = {
     "canonical",
     "active_provisional",
+    "draft_noncurrent",
     "superseded",
     "historical_legacy",
 }
@@ -564,7 +565,10 @@ def parse_authority_front_matter(data: bytes, path: str) -> AuthorityMetadata | 
     if not isinstance(status, str):
         raise DomainError(f"{path}: authority status must be a string")
     if status not in AUTHORITY_STATUSES:
-        raise DomainError(f"{path}: invalid authority status")
+        raise DomainError(
+            f"{path}: invalid authority status {status!r}; "
+            f"expected one of {sorted(AUTHORITY_STATUSES)}"
+        )
     if type(veto) is not bool:
         raise DomainError(f"{path}: authority veto must be a real boolean")
     bool_lines = [line for line in front_lines if line.startswith("do_not_use_as_current_authority:")]
@@ -587,6 +591,11 @@ def parse_authority_front_matter(data: bytes, path: str) -> AuthorityMetadata | 
             raise DomainError(f"{path}: superseded requires veto=true and nonempty superseded_by")
     elif status == "historical_legacy" and not veto:
         raise DomainError(f"{path}: historical_legacy requires veto=true")
+    elif status == "draft_noncurrent":
+        if not veto or supersedes or superseded_by:
+            raise DomainError(
+                f"{path}: draft_noncurrent requires veto=true and empty supersession arrays"
+            )
     return AuthorityMetadata(status, tuple(supersedes), tuple(superseded_by), veto)
 
 
@@ -730,6 +739,8 @@ class AuthorityGraph:
             return "SUPERSEDED"
         if meta.status == "historical_legacy":
             return "HISTORICAL_LEGACY"
+        if meta.status == "draft_noncurrent":
+            return "DRAFT_NONCURRENT"
         return "INVALID"
 
     def current_eligible(self, path: str) -> bool:
