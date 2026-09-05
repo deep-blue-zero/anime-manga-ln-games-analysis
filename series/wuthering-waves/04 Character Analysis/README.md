@@ -19,6 +19,10 @@ Current directories:
 
 - `Cartethyia/` — imported V0.2 active-provisional analytical baseline.
 - `Chisa/` — status/router only; no Git monograph yet.
-- `Lynae/` — status/router and inaugural-test plan only; no Git monograph yet.
+- `Lynae/` — nine-document pre-AV V0.1 reconstruction packet; `active_provisional`, audiovisual analysis pending.
+- `Aemeath/` — 11-document pre-AV V0.1 reconstruction packet; `active_provisional`, audiovisual analysis pending.
+- `Denia/` — 11-document pre-AV V0.1 reconstruction packet; `active_provisional`, audiovisual analysis pending.
+
+Start with each character's `CURRENT_STATE` router and `ANALYSIS_PACKET_README`. The [import record](../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) records byte preservation and the pending AV boundary.
 
 A folder is not evidence that every contract artifact exists. Missing artifacts are created only by a substantive analysis that warrants them.
