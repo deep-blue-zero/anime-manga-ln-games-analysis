@@ -34,7 +34,7 @@ class RepositoryIndexTests(unittest.TestCase):
             # Housekeeping, dispatch, main, and ordinary local tests stay strict.
             from analytical_preflight import routing_preflight
 
-            cls.base_snapshot, _ = routing_preflight(cls.base_snapshot, branch)
+            cls.base_snapshot, _ = routing_preflight(GitSnapshot.from_index(ROOT), branch)
 
     def snapshot(self) -> GitSnapshot:
         return self.base_snapshot

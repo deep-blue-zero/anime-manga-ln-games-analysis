@@ -155,6 +155,13 @@ class AnalyticalPreflightTests(unittest.TestCase):
             )
             self.assertEqual(pending.returncode, 0, pending.stdout + pending.stderr)
             self.assertIn("AWAITING_SYNCHRONIZATION", pending.stdout)
+            projected_tests = subprocess.run(
+                [sys.executable, "-m", "unittest", "discover", "-s", "tools/tests",
+                 "-p", "test_repository_indexes.py"],
+                cwd=root, env=dict(environment, AUDIT_EVENT="push", AUDIT_BRANCH="series/example"),
+                capture_output=True, text=True, check=False,
+            )
+            self.assertEqual(projected_tests.returncode, 0, projected_tests.stdout + projected_tests.stderr)
             strict = subprocess.run(
                 command, cwd=root, env=environment, capture_output=True, text=True, check=False,
             )
