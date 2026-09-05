@@ -19,7 +19,11 @@ This is an aggregate routing ledger. It does not replace character-specific stat
 |---|---|---|---|---|
 | Cartethyia | V0.2 active-provisional Git baseline | S0 child/Laureate; S1 Fleurdelys vessel/defender; S2 amnesiac; S3 integrated wandering knight; S4 Septimont operational context over S3; S5 post-Leviathan human/civic wandering knight | pinned 3.6.0 text; earlier bounded voice/AV analysis | reconcile against Drive V0.3.1 evidence and full machine voice census |
 | Chisa | no Git monograph; Drive bridge V0.1 | not adjudicated in Git | pinned 3.6.0 semantic and installed-client voice evidence | reconstruction required before state labels are accepted |
-| Lynae | inaugural-test candidate; no Git monograph | not adjudicated in Git | pinned 3.6.0 semantic evidence plus additive voice package | two occurrence identities unresolved; do not pre-impose state ontology |
+| Lynae | V0.1 pre-AV packet; active_provisional | supplied relationship/state profile; AV validation pending | pinned 3.6.0 semantic evidence plus additive voice package | two occurrence identities remain unresolved |
+| Aemeath | V0.1 pre-AV packet; active_provisional | supplied relationship/state and identity/embodiment/shell profiles; AV validation pending | pinned 3.6.0 evidence | retain the packet's direct-character versus associated-shell boundary |
+| Denia | V0.1 pre-AV packet; active_provisional | supplied relationship/state and identity/deception/personhood profiles; AV validation pending | pinned 3.6.0 evidence | retain the packet's identity and personhood uncertainties |
+
+Each new state route is `04 Character Analysis/<Character>/WUWA_<CHARACTER>_RELATIONSHIP_AND_STATE_PROFILE.md`. These rows locate the supplied analysis without inventing new state labels.
 
 ## Entry contract
 

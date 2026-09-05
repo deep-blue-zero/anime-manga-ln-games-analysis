@@ -22,10 +22,14 @@ permissions:
 jobs:
   audit:
     name: Read-only integrity and publication audit
+    outputs:
+      integration_state: ${{ steps.validate.outputs.integration_state }}
     runs-on: ubuntu-24.04
     timeout-minutes: 20
     env:
       AUDIT_COMMIT: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}
+      AUDIT_EVENT: ${{ github.event_name }}
+      AUDIT_BRANCH: ${{ github.ref_name }}
       PIP_DISABLE_PIP_VERSION_CHECK: "1"
       PYTHONDONTWRITEBYTECODE: "1"
     steps:
@@ -47,13 +51,18 @@ jobs:
           set -euo pipefail
           python -m pip install --disable-pip-version-check --no-deps --require-hashes -r tools/requirements-validation.txt
 
-      - name: Validate the exact commit
+      - name: Validate authored content or the exact integration commit
+        id: validate
         shell: bash
         env:
           MANGA_ANIME_TEST_TMP: "${{ runner.temp }}/manga-anime-tests"
         run: |
           set -euo pipefail
-          python tools/validate_repository.py --phase current --snapshot commit --commit "${AUDIT_COMMIT}" --repo .
+          audit_args=(--phase current --snapshot commit --commit "${AUDIT_COMMIT}" --repo . --result-json "${RUNNER_TEMP}/audit-result.json")
+          if [[ "${AUDIT_EVENT}" = "push" && "${AUDIT_BRANCH}" =~ ^(series|studies)/[a-z0-9][a-z0-9-]*$ ]]; then
+            audit_args+=(--routing-preflight "${AUDIT_BRANCH}")
+          fi
+          python tools/validate_repository.py "${audit_args[@]}"
           python - <<'PY'
           import json
           import subprocess
@@ -148,3 +157,82 @@ jobs:
           git show --check --format= "${AUDIT_COMMIT}" -- . \
             ':(top,glob,exclude)**/*.md' \
             ':(top,literal,exclude)series/idoly-pride/V2 Analysis/02 Source Audits and Longitudinal Ledgers/02.01 Corpus Coverage and Priority Ledger/IDOLY_PRIDE_V2_SOURCE_TO_BUNDLE_PROVENANCE.csv'
+
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          result = json.loads((Path(os.environ["RUNNER_TEMP"]) / "audit-result.json").read_text())
+          if result["audited_commit"] != os.environ["AUDIT_COMMIT"]:
+              raise SystemExit("FAIL: audit result does not match the selected commit")
+          state = result["integration_state"]
+          if state not in {"pending", "success"}:
+              raise SystemExit("FAIL: invalid audit result state")
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"integration_state={state}\n")
+          PY
+
+  report:
+    name: Report the result on the audited commit
+    needs: audit
+    if: ${{ always() }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      statuses: write
+    steps:
+      - name: Publish only the exact audit status
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AUDIT_COMMIT: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}
+          AUDIT_RESULT: ${{ needs.audit.result }}
+          INTEGRATION_STATE: ${{ needs.audit.outputs.integration_state }}
+          ANALYTICAL_SOURCE: ${{ github.event_name == 'push' && (startsWith(github.ref_name, 'series/') || startsWith(github.ref_name, 'studies/')) }}
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          import os
+          import re
+          import urllib.request
+
+          sha = os.environ["AUDIT_COMMIT"]
+          repository = os.environ["GITHUB_REPOSITORY"]
+          if not re.fullmatch(r"[0-9a-f]{40}", sha):
+              raise SystemExit("FAIL: invalid audited commit")
+          if repository != "deep-blue-zero/anime-manga-ln-games-analysis":
+              raise SystemExit("FAIL: unexpected repository")
+          result = os.environ["AUDIT_RESULT"]
+          integration = os.environ["INTEGRATION_STATE"]
+          if result == "success" and integration in {"success", "pending"}:
+              state = "pending" if os.environ["ANALYTICAL_SOURCE"] == "true" else integration
+              description = (
+                  "Exact commit passed the repository audit"
+                  if state == "success"
+                  else "Authored content passed; awaiting housekeeping and final audit"
+              )
+          else:
+              state = "error" if result in {"cancelled", "skipped"} else "failure"
+              description = "Audit did not complete successfully; this commit is not integration-ready"
+          payload = json.dumps({
+              "state": state,
+              "context": "Repository integration audit",
+              "description": description,
+              "target_url": f"https://github.com/{repository}/actions/runs/{os.environ['GITHUB_RUN_ID']}",
+          }).encode("utf-8")
+          request = urllib.request.Request(
+              f"https://api.github.com/repos/{repository}/statuses/{sha}",
+              data=payload,
+              headers={
+                  "Accept": "application/vnd.github+json",
+                  "Authorization": "Bearer " + os.environ["GH_TOKEN"],
+                  "X-GitHub-Api-Version": "2022-11-28",
+              },
+              method="POST",
+          )
+          with urllib.request.urlopen(request, timeout=30) as response:
+              if response.status != 201:
+                  raise SystemExit("FAIL: GitHub did not confirm the commit status")
+          print(f"Reported {state} for exact audited commit {sha}")
+          PY

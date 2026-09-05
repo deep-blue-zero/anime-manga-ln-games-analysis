@@ -65,7 +65,15 @@ Ordinary edits, additions, and deletions inside an existing registered analytica
 
 ## Stable analytical branch profile
 
-Push the owner-authored analysis and routing descriptors to the matching stable branch. Housekeeping synchronizes only its five routing outputs. Only the character curation agent may supply the two character files as a coordinated pre-merge repair; it must review against the exact proposed evidence tree. The read-only audit continues validating all character invariants and the generated index. Require any housekeeping child commit and its exact-commit audit, and integrate only the final green branch head.
+Stage only the declared analytical files and any required named routing descriptor. In an authorized Git execution environment, run author preflight against the staged index:
+
+`python tools/validate_repository.py --phase current --snapshot index --routing-preflight series/<stable-slug> --repo .`
+
+Use the matching `studies/<stable-slug>` argument for a study. This command validates a read-only projection of the five routing outputs; it does not stage or write them. Review the exact staged diff, approved identities, and applicable whitespace checks before publishing normally. A GitHub connector task follows the complete-read, atomic-commit, non-forced update, and remote-readback rules above and requires the exact published commit's CI preflight.
+
+`AWAITING_SYNCHRONIZATION` permits publishing authored content to the stable branch while routing remains pending. It does not permit integration. A real new root requires its routing descriptor and a current-eligible entrypoint with complete authority metadata. Branch creation without a named root requires neither. For a noncurrent working draft, use the `draft_noncurrent` template in `../../characters/README.md`; do not promote it to current authority merely to pass a check.
+
+Housekeeping synchronizes only its five routing outputs. Only the character curation agent may supply the two character files as a coordinated pre-merge repair; it must review against the exact proposed evidence tree. Character invariants and the generated index remain strict even during author preflight. Reconcile current `main`, require completed housekeeping and any generated child commit's full audit, and integrate only the exact final head with a successful `Repository integration audit` status. Full integration, `main`, character curation, and cross-cutting audits never defer routing.
 
 ## Local or cross-cutting profile
 
@@ -87,7 +95,7 @@ Use `python tools/prepare_commit.py --base origin/main --check --full` when expl
 
 1. Inspect the exact staged path list, diff, generated changes, and file sizes.
 2. Confirm the commit uses an approved owner author identity and an approved committer identity.
-3. Push normally without force. For a stable analytical branch, require the final housekeeping result and its generated-commit audit when an automated child commit was produced. For other branches and `main`, require the read-only repository audit for the exact remote commit.
+3. Push normally without force. The owner-authorized nightly controller follows `NIGHTLY_ANALYTICAL_INTEGRATION.md` for clean reconciliation, protected PR integration, and explicit post-merge validation. For a stable analytical branch, require the final housekeeping result and its generated-commit audit when an automated child commit was produced. For other branches and `main`, require the full repository audit and successful `Repository integration audit` status for the exact remote commit. A passing author preflight with pending routing is not a passing integration gate.
 4. After integration, apply the verified branch-retention or pruning rule in `BRANCH_LIFECYCLE.md`.
 
 Do not routinely modify `governance/AUTHORITY_SCOPE.json`, authority-epoch records, bootstrap bindings, public-activation bindings, or the frozen Drive-to-Git migration crosswalks.

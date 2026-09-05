@@ -17,7 +17,9 @@ do_not_use_as_current_authority: false
 |---|---:|---|---|---|---|---|
 | Cartethyia / 卡提希娅 / カルテジア / 카르티시아 | 1409 | V0.2 active-provisional analytical baseline imported | `04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CURRENT_STATE.md` | V0.3.1 bridge materialized | broad retained voice evidence; human listening and direct AV review open | 3.6.0 / `353f2eae...` |
 | Chisa / 千咲 / 치사 | 1508 | evidence-ready; no Git monograph | `04 Character Analysis/Chisa/WUWA_CHISA_CURRENT_STATE.md` | V0.1 bridge materialized | 607 semantic lines / 2,429 render associations; zero human annotations | 3.6.0 / `353f2eae...` |
-| Lynae / 琳奈 / リンネー / 린네 | 1509 | inaugural-test candidate; no Git monograph | `04 Character Analysis/Lynae/WUWA_LYNAE_CURRENT_STATE.md` | additive bridge materialized | 888 semantic lines; 885 complete four-language mappings; no AV package; zero human annotations | 3.6.0 / `353f2eae...` |
+| Lynae / 琳奈 / リンネー / 린네 | 1509 | V0.1 pre-AV packet imported; active_provisional | `04 Character Analysis/Lynae/WUWA_LYNAE_CURRENT_STATE.md` | additive bridge materialized | 888 semantic lines; 885 complete four-language mappings; no AV package; zero human annotations | 3.6.0 / `353f2eae...` |
+| Aemeath / 爱弥斯 / エイメス / 에이메스 | 1210 | V0.1 pre-AV packet imported; active_provisional | `04 Character Analysis/Aemeath/WUWA_AEMEATH_CURRENT_STATE.md` | supplied packet cites frozen 3.6.0 bridge | AV analysis pending; no completed human-performance review claimed | 3.6.0 / `353f2eae...` |
+| Denia / 达妮娅 / ダーニャ / 데니아 | — | V0.1 pre-AV packet imported; active_provisional | `04 Character Analysis/Denia/WUWA_DENIA_CURRENT_STATE.md` | supplied packet cites frozen 3.6.0 bridge | AV analysis pending; no completed human-performance review claimed | 3.6.0 / `353f2eae...` |
 
 ## Discovery rules
 

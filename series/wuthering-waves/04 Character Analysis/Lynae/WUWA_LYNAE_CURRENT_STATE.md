@@ -15,9 +15,11 @@ do_not_use_as_current_authority: false
 
 ## Status
 
-Evidence-ready inaugural production test; Git character reconstruction not yet performed.
+The nine-document pre-audiovisual V0.1 reconstruction packet is now imported on `series/wuthering-waves` with **active_provisional** status. Audiovisual analysis and human voice-performance review remain pending.
 
-This file deliberately does not pre-create or pre-answer the Lynae monograph, state architecture, ordinary-life profile, speech/voice profile, claim ledger, or compiled model.
+Read [the packet entrypoint](WUWA_LYNAE_ANALYSIS_PACKET_README.md), [the character deep dive](WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md), and the evidence/falsification matrix before the specialist profiles. The packet supplies reconstruction, relationship/state, ordinary-life, speech/machine-voice, AV nomination, and fidelity/stress-test documents; it does not establish a completed integrated AV monograph or compiled JSON model.
+
+The [import record](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) explains retained draft metadata and records hashes. The supplied documents are byte-preserved. Publication on this branch does not itself establish merged-main authority.
 
 ## Evidence route
 
@@ -41,7 +43,7 @@ Current package reports:
 
 ## Inaugural-test rules
 
-The Lynae run should:
+These original test criteria remain as the completion checklist. The pre-AV import supplies the textual reconstruction baseline; it does not certify every criterion as complete. The remaining work should:
 
 1. use the WUWA Git methods and Drive evidence without relying on an old local analysis tree;
 2. adjudicate her own state/persona and relationship architecture;
