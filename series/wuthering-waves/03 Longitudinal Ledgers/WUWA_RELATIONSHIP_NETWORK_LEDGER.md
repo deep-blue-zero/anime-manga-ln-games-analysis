@@ -29,6 +29,14 @@ The bootstrap contains one mature relationship package: Cartethyia V0.2. Its det
 | Cartethyia ↔ Phoebe | respect, protective withholding, humanistic reframing of faith | thin but thematically material | broad everyday intimacy not established |
 | Cartethyia ↔ Rinascita/Order | belonging and repair without entitlement to rule | dense civic/institutional relation | chosen duty may still reinscribe self-instrumentalization |
 
+## Provisional packet routes
+
+Aemeath, Denia, and Lynae now have supplied pre-AV relationship/state analyses with `active_provisional` status. Their detailed edges and qualifications remain in the character-local profiles; no additional edge adjudication or audiovisual review was performed during import.
+
+- `Aemeath`: `04 Character Analysis/Aemeath/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md`.
+- `Denia`: `04 Character Analysis/Denia/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`.
+- `Lynae`: `04 Character Analysis/Lynae/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`.
+
 ## Edge contract
 
 Every future entry should identify:
