@@ -36,6 +36,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`
+- [Project SEKAI](../series/project-sekai/) — `series/project-sekai/` — Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git.
 - [Redo of Healer](../series/redo-of-healer/) — `series/redo-of-healer/`
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`

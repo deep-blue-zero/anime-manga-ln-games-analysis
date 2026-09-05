@@ -290,6 +290,20 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "mass-effect",
+      "stable_slug": "mass-effect",
+      "canonical_title": "Mass Effect",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "studies/comparative-media/Mass Effect/",
+      "canonical_entrypoint": "studies/comparative-media/Mass Effect/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
+      "authority_status": "GIT_PRIMARY"
+    },
+    {
       "series_id": "monogatari-series",
       "stable_slug": "monogatari-series",
       "canonical_title": "Monogatari Series",
@@ -378,6 +392,21 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "project-sekai",
+      "stable_slug": "project-sekai",
+      "canonical_title": "Project SEKAI",
+      "media": [
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/project-sekai/",
+      "canonical_entrypoint": "series/project-sekai/README.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "POST_CUTOVER_DRIVE_ANALYTICAL_CORPUS_IMPORT_20260905",
+      "authority_status": "GIT_PRIMARY",
+      "catalog_note": "Previously omitted Drive analytical corpus; 58 documents and original folder hierarchy imported. External source and media evidence remain outside Git."
     },
     {
       "series_id": "redo-of-healer",
@@ -582,20 +611,6 @@
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
-      "authority_status": "GIT_PRIMARY"
-    },
-    {
-      "series_id": "mass-effect",
-      "stable_slug": "mass-effect",
-      "canonical_title": "Mass Effect",
-      "media": [
-        "GAME"
-      ],
-      "repository_path": "studies/comparative-media/Mass Effect/",
-      "canonical_entrypoint": "studies/comparative-media/Mass Effect/CURRENT_STATE_AND_CORPUS_MAP.md",
-      "canonical_entrypoint_status": "PRESENT_VERIFIED",
-      "materialization_status": "PRESENT_REVIEWED",
-      "migration_scope": "G5_T02_COMPARATIVE_MEDIA_CHARACTER_MONOGRAPHS",
       "authority_status": "GIT_PRIMARY"
     }
   ]
