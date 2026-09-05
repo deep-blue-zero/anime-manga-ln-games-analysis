@@ -2,7 +2,13 @@
 
 `characters/registry.jsonl` is the canonical structured source for the generated root `CHARACTER_ANALYSIS_INDEX.md`. One nonblank JSONL line is one schema-v2 **analysis subject**. The Markdown index is a deterministic discovery view and must never be edited as independent authority.
 
-The production discovery registry contains YonaiP, the U149 anime Producer; seven reviewed Maebashi Witches anime subjects: Azu, Choco, Eiko, Keroppe, Kyouka, Mai, and Yuina; reviewed Paragon and Renegade Commander Shepard player-archetype subjects from the Mass Effect comparative study; the reviewed Genshin Impact game subject Furina; nine reviewed Cinderella Girls mobile-game subjects: Futaba Anzu, Hayami Kanade, Hisakawa Nagi, Hojo Karen, Kanzaki Ranko, Kobayakawa Sae, Ninomiya Asuka, Nitta Minami, and Takagaki Kaede; and eleven reviewed Blue Archive game subjects: Aru, Ayane, Haruka, Hifumi, Hoshino, Kayoko, Mutsuki, Nonomi, player-variable Sensei, Serika, and Shiroko. Reconstruction capability is specified separately and is deliberately not populated.
+The production discovery registry contains 162 reviewed subjects across 25 analytical series/study scopes. Of these, 120 have dedicated evidence and 42 qualify through distributed substantial analysis. The 2026-09-04 comprehensive audit added 128 subjects after reviewing all 40 registered series roots, including previously undiscoverable character-profile, character-core, monograph, longitudinal-ledger, shared-monograph, and explicitly high-readiness distributed work. The complete per-series disposition and the deliberately excluded or blocked scopes are recorded in `governance/reports/CHARACTER_REGISTRY_COMPREHENSIVE_AUDIT_2026-09-04.md`. Reconstruction capability is specified separately and remains deliberately unpopulated.
+
+## Maintenance ownership
+
+The owner-authorized cloud curation agent exclusively curates this registry and invokes the deterministic generator for the root index. The daily main-only review, reusable `character-registry` branch, checked automatic integration, and coordinated pre-merge repairs are governed by [Character discovery maintenance](../governance/policies/CHARACTER_DISCOVERY_MAINTENANCE.md).
+
+GitHub Actions independently validates both files. Global index housekeeping cannot write them or replay series-local character upserts. New discovery may lag until the next agent run; existing references and the generated index must remain valid at integration. The owner configures the scheduled task separately.
 
 ## What this registry answers
 

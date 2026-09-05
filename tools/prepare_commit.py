@@ -77,9 +77,7 @@ def active_rules(
         trigger = rule.get("trigger", {})
         kind = trigger.get("kind")
         matched = False
-        if kind == "tracked_path_set_changed":
-            matched = base_paths != index_paths
-        elif kind == "path_changed":
+        if kind == "path_changed":
             matched = trigger.get("path") in changed
         elif kind == "top_level_roots_changed":
             root = trigger.get("root")
@@ -119,6 +117,8 @@ def main() -> int:
     if not changed:
         raise RuntimeError("the Git index contains no change relative to the selected base")
 
+    # Git owns the complete live path inventory. These sets detect semantic
+    # root-topology changes; no checked-in path-list projection is maintained.
     base_paths = nul_paths(git(root, "ls-tree", "-r", "--name-only", "-z", base))
     index_paths = nul_paths(git(root, "ls-files", "--cached", "-z"))
     obligations = load_obligations_from_index(root)

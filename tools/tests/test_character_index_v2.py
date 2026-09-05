@@ -389,6 +389,21 @@ class DiscoveryContractTests(unittest.TestCase):
         failures = validate_discovery_records([leaf_a, leaf_b, composite], self.series)
         self.assertTrue(any("INCLUDED requires evidence" in item for item in failures), failures)
 
+    def test_render_declares_scoped_post_cutover_git_authority(self) -> None:
+        path = "series/example/A.md"
+        authority = AuthorityGraph(snapshot((path, authority_bytes())))
+        included = record("example:alice@anime", evidence_path=path, included=True)
+        for records in ([], [included]):
+            with self.subTest(included=bool(records)):
+                output = render(records, authority)
+                self.assertIn("Git repository is the primary analytical authority", output)
+                self.assertIn("governance/AUTHORITY_SCOPE.json", output)
+                self.assertIn("governance/AUTHORITY_STATE.yaml", output)
+                self.assertIn("remain outside Git authority", output)
+                self.assertNotIn("nonauthoritative migration candidate", output)
+                self.assertNotIn("Google Drive remains the analytical authority", output)
+                self.assertNotIn("Git candidate", output)
+
     def test_input_reordering_does_not_change_rendered_bytes(self) -> None:
         path_a = "series/example/A.md"
         path_b = "series/example/B.md"
@@ -420,6 +435,8 @@ class DiscoveryContractTests(unittest.TestCase):
         linked = snapshot(
             (path_a, authority_bytes()),
             (path_b, authority_bytes()),
+            ("governance/AUTHORITY_SCOPE.json", b"{}\n"),
+            ("governance/AUTHORITY_STATE.yaml", b"{}\n"),
             ("CHARACTER_ANALYSIS_INDEX.md", output.encode("utf-8")),
         )
         self.assertEqual(validate_markdown_links(linked), [])

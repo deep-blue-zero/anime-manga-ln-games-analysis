@@ -2,16 +2,6 @@
   "schema": "anime-manga-ln-games-analysis/change-obligations/v1",
   "rules": [
     {
-      "id": "tracked-topology",
-      "description": "Every tracked add, delete, or rename changes the exact current path set.",
-      "trigger": {
-        "kind": "tracked_path_set_changed"
-      },
-      "required_outputs": [
-        "governance/repository-controls/CURRENT_TRACKED_PATHS.txt"
-      ]
-    },
-    {
       "id": "series-root-topology",
       "description": "The series registry and both human-facing catalogs must cover every series root.",
       "trigger": {

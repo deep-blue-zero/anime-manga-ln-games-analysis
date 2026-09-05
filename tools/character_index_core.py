@@ -365,7 +365,7 @@ class SnapshotEntry:
 
 
 class GitSnapshot:
-    """Exact entries from a commit/index, or a manifest-bounded worktree view."""
+    """Exact entries from a commit/index, or a directly enumerated worktree view."""
 
     def __init__(self, root: Path, identity: str, entries: Mapping[str, SnapshotEntry]):
         self.root = root
@@ -414,28 +414,54 @@ class GitSnapshot:
         return cls(root, "INDEX", entries)
 
     @classmethod
-    def from_worktree_manifest(cls, root: Path, manifest: Path) -> "GitSnapshot":
-        paths = [line for line in manifest.read_text(encoding="utf-8").splitlines() if line]
-        tracked = {
+    def from_worktree(cls, root: Path) -> "GitSnapshot":
+        """Read the prospective Git worktree without a redundant path manifest."""
+
+        paths = {
             item.decode("utf-8", "strict")
-            for item in run_git(root, "ls-files", "--cached", "-z").split(b"\0")
+            for item in run_git(
+                root,
+                "ls-files",
+                "--cached",
+                "--others",
+                "--exclude-standard",
+                "-z",
+            ).split(b"\0")
             if item
         }
+        index_modes: dict[str, str] = {}
+        for item in run_git(root, "ls-files", "--stage", "-z").split(b"\0"):
+            if not item:
+                continue
+            metadata, raw_path = item.split(b"\t", 1)
+            mode, _oid, stage = metadata.decode("ascii").split(" ")
+            path = raw_path.decode("utf-8", "strict")
+            if stage != "0":
+                raise DomainError(f"unmerged index entry: {path}")
+            index_modes[path] = mode
         entries: dict[str, SnapshotEntry] = {}
-        for path in paths:
+        for path in sorted(paths):
             validate_repository_path(path)
             full = root.joinpath(*PurePosixPath(path).parts)
             if not full.exists() and not full.is_symlink():
                 continue
             if full.is_symlink():
                 entries[path] = SnapshotEntry(
-                    path, "120000", os.readlink(full).encode("utf-8"), path in tracked
+                    path,
+                    "120000",
+                    os.readlink(full).encode("utf-8"),
+                    path in index_modes,
                 )
             elif full.is_file():
-                entries[path] = SnapshotEntry(path, "100644", full.read_bytes(), path in tracked)
+                entries[path] = SnapshotEntry(
+                    path,
+                    index_modes.get(path, "100644"),
+                    full.read_bytes(),
+                    path in index_modes,
+                )
             else:
-                entries[path] = SnapshotEntry(path, "040000", b"", path in tracked)
-        return cls(root, "WORKTREE_MANIFEST", entries)
+                entries[path] = SnapshotEntry(path, "040000", b"", path in index_modes)
+        return cls(root, "PROSPECTIVE_WORKTREE", entries)
 
     def get(self, path: str) -> SnapshotEntry | None:
         return self.entries.get(path)
