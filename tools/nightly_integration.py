@@ -43,6 +43,15 @@ class Halt(RuntimeError):
     """Stop the run: main or shared controls require attention."""
 
 
+class GitError(Halt):
+    """A Git execution failure, distinct from a merge conflict."""
+
+    def __init__(self, operation: str, returncode: int, output: bytes = b""):
+        super().__init__(f"Git {operation} failed (exit {returncode})")
+        self.returncode = returncode
+        self.output = output
+
+
 class ApiError(RuntimeError):
     def __init__(self, method: str, path: str, status: int):
         super().__init__(f"GitHub {method} {path}: HTTP {status}")
@@ -144,7 +153,7 @@ class Graph:
                                 input=None if input_text is None else input_text.encode("utf-8"),
                                 capture_output=True, check=False)
         if result.returncode:
-            raise Blocked(f"Git {args[0]} failed (exit {result.returncode}); no conflict resolution is authorized")
+            raise GitError(args[0], result.returncode, result.stdout)
         return result.stdout.decode("utf-8", "strict").strip("\r\n")
 
     def fetch(self, sha: str) -> None:
@@ -161,7 +170,16 @@ class Graph:
         return self.git("rev-parse", exact_sha(sha) + "^{tree}")
 
     def merge_tree(self, source: str, base: str) -> str:
-        return exact_sha(self.git("merge-tree", "--write-tree", exact_sha(source), exact_sha(base)).splitlines()[0])
+        try:
+            output = self.git("merge-tree", "--write-tree", exact_sha(source), exact_sha(base))
+        except GitError as exc:
+            # Some Git versions also return 1 for invalid objects; a completed
+            # conflicted merge must emit its resulting tree as the first line.
+            first = exc.output.splitlines()[0] if exc.output else b""
+            if exc.returncode == 1 and re.fullmatch(rb"[0-9a-f]{40}", first):
+                raise Blocked("Git merge-tree found conflicts; no conflict resolution is authorized") from exc
+            raise
+        return exact_sha(output.splitlines()[0])
 
     def reconcile_commit(self, source: str, base: str, tree: str) -> str:
         identities = {"GIT_AUTHOR_NAME": AUTHOR["name"], "GIT_AUTHOR_EMAIL": AUTHOR["email"],
@@ -311,7 +329,7 @@ class Integrator:
             self.same_heads(branch, source, base)
             try:
                 self.graph.push(branch, reconciled, self.api.token)
-            except Blocked:
+            except GitError:
                 observed = self.api.head(branch)
                 if observed != reconciled and not self.generated_child(reconciled, observed):
                     raise
@@ -400,6 +418,9 @@ class Integrator:
                     row["detail"] = str(exc)
                     raise Halt("Already integrated, but verification failed; further merges stopped") from exc
                 row.update(outcome="blocked", detail=str(exc))
+                if self.preview:
+                    message = f"{branch}: {exc}".replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+                    print("::warning::" + message, flush=True)
             except Exception as exc:
                 row["detail"] = str(exc)
                 raise
@@ -426,7 +447,7 @@ def main() -> int:
         worker = Integrator(GitHub(token, preview=preview), Graph(Path(temporary)), preview=preview, controller_sha=controller_sha)
         try:
             worker.run(args.branch)
-            if any(row["outcome"] == "blocked" for row in worker.rows):
+            if not preview and any(row["outcome"] == "blocked" for row in worker.rows):
                 result = 1
         except (Halt, Blocked, ApiError, OSError, ValueError, KeyError) as exc:
             worker.rows.append({"branch": "run", "outcome": "halted", "detail": str(exc)})
