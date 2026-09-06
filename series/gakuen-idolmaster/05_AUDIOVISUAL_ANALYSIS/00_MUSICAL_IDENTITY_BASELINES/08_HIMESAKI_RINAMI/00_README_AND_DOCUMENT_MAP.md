@@ -34,7 +34,7 @@ Start with `GKM_RINAMI_COMPLETE_AUDIOVISUAL_BASELINE.md`.
 8. `GKM_PHASE3_RINAMI_AUDIOVISUAL_SOURCE_MANIFEST.json` — Drive IDs, hashes, technical metadata, alternate-materialization provenance, and source status.
 9. `GKM_PHASE3_RINAMI_AUDIOVISUAL_COMPLETION_REPORT.md` — compact closure and project-state report.
 10. `GKM_PHASE3_RINAMI_AV_DELIVERY_AUDIT.md` and checksum files — release-integrity authority.
-11. `90_SUPERSEDED_ACQUISITION/GKM_RINAMI_AUDIOVISUAL_BASELINE_AND_REQUESTS.md` — superseded acquisition provenance; do not use as current analytical authority.
+11. `GKM_RINAMI_AUDIOVISUAL_BASELINE_AND_REQUESTS.md` — superseded acquisition provenance; do not use as current analytical authority.
 
 ## Governing thesis
 
