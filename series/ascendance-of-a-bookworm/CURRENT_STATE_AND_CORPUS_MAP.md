@@ -3,7 +3,7 @@ series: ASCENDANCE_OF_A_BOOKWORM
 artifact_type: corpus_map
 scope: JP_LIGHT_NOVEL_SEQUENTIAL_ANALYSIS
 source_boundary: "Japanese-language light-novel EPUB corpus: numbered main Volumes 01-33 plus acquired Royal Academy Stories: First Year side-story volume; source audit dated 2026-08-30"
-generation: V0.4
+generation: V0.5
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: INITIAL
@@ -11,12 +11,14 @@ analytical_phase: SEQUENTIAL_IN_PROGRESS
 governing_method: "00 Frameworks and Methods/BOOKWORM_ANALYTICAL_METHOD.md"
 synthesis_architecture: "00 Frameworks and Methods/BOOKWORM_SYNTHESIS_ARCHITECTURE.md"
 master_longitudinal_state: "03 Longitudinal Ledgers/BOOKWORM_MASTER_LONGITUDINAL_LEDGER.md"
+latest_part_boundary_synthesis: "05 Specialist Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md"
 sequential_analysis_lock: OPEN
-committed_high_water_mark: V02
-latest_frozen_reading: "02 Sequential Readings/BOOKWORM_V02_DEEP_READING.md"
-next_sequential_operation: BOOKWORM_V03_DEEP_READING
+committed_high_water_mark: V03
+latest_frozen_reading: "02 Sequential Readings/BOOKWORM_V03_DEEP_READING.md"
+next_sequential_operation: BOOKWORM_V04_DEEP_READING
 next_sequential_operation_authorization: separate
-next_part_boundary_review: V03_POST_FREEZE
+part_1_boundary_review: COMPLETE
+next_part_boundary_review: V07_POST_FREEZE
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -56,23 +58,97 @@ project_initialization:
   master_longitudinal_state: 03 Longitudinal Ledgers/BOOKWORM_MASTER_LONGITUDINAL_LEDGER.md
   required_day_one_infrastructure_initialized: true
   sequential_analysis_lock: OPEN
-  committed_high_water_mark: V02
+  committed_high_water_mark: V03
   numbered_volumes_completed:
     - V01
     - V02
-  latest_frozen_reading: 02 Sequential Readings/BOOKWORM_V02_DEEP_READING.md
-  next_sequential_operation: BOOKWORM_V03_DEEP_READING
+    - V03
+  completed_parts:
+    - PART_1
+  latest_frozen_reading: 02 Sequential Readings/BOOKWORM_V03_DEEP_READING.md
+  latest_part_boundary_synthesis: 05 Specialist Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md
+  part_1_boundary_review: COMPLETE
+  next_sequential_operation: BOOKWORM_V04_DEEP_READING
   next_sequential_operation_authorization: separate
-  next_part_boundary_review: V03_POST_FREEZE
+  next_part_boundary_review: V07_POST_FREEZE
 ```
 
 The paired-foundation gate remains satisfied for the locked Japanese-light-novel boundary: the project has both a governing method and a governing synthesis/corpus architecture, plus the justified cumulative state layer.
 
-**V01 and V02 are complete and prospectively frozen.** V03 is the next architectural source unit and the final volume of Part 1, but it requires a separate user instruction. After V03 freezes, the first mandatory part-boundary architecture/promotion review must run before the project simply advances onward.
+**V01-V03 are complete and prospectively frozen, and Part 1 is closed.** The mandatory first architecture/promotion review has also completed. V04 is the next source unit and begins Part 2, but it requires a separate user instruction.
 
-## Current V02 freeze
+## Current V03 / Part 1 freeze
 
-The second source-unit transaction is closed at global **V02**, Japanese identity **第一部「兵士の娘」II**.
+The third source-unit transaction is closed at global **V03**, Japanese identity **第一部「兵士の娘」III**.
+
+Canonical source-facing artifact:
+
+`02 Sequential Readings/BOOKWORM_V03_DEEP_READING.md`
+
+Primary witness:
+
+- normalized filename: `Ascendance of a Bookworm - Volume 03.epub`;
+- Japanese source identity: `第一部「兵士の娘」III`;
+- SHA-256: `3943f3dbbb3798f60b6d5ef835d50880544ba441d588daefd9a0c7aa68209f58`;
+- entering state: `V02`;
+- exiting state: `V03`;
+- prospective state: `FROZEN`;
+- part boundary: `PART_1_COMPLETE`;
+- later numbered-volume knowledge used: `false`.
+
+Integrated Part 1 checkpoint:
+
+`05 Specialist Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md`
+
+The V03 transaction adjudicates all twelve V02-facing predictions, propagates material state into the master ledger, closes the first mandatory architecture review, and freezes V04-facing predictions before V04 is opened.
+
+The most important boundary conditions are:
+
+- Frieda's remaining magical-tool capacity gives Myne temporary relief; the intervention is not a cure;
+- `身食い` is materially explained as uncontrolled mana, while Myne's general frailty remains partly distinct;
+- commoner mana is biologically possible, resolving the V02 noble-only contradiction into a model of noble-dominated tools, training, and institutional access;
+- Myne explicitly wants to live, but family belonging and self-authored life constrain which survival arrangements she accepts;
+- family has become co-central with books in an actual value conflict;
+- Lutz's merchant route is now demonstrably self-authored, supported by savings, training, formal apprenticeship, and emerging maternal alliance;
+- Myne/Lutz has become a relationship with independent longitudinal responsibility across identity, care, production, rights, and future-separation risk;
+- plant paper has moved from child prototype to adult workshop/association production;
+- contract magic has demonstrated jurisdictional and uninformed-nonsigner consequences, making readable records and procedure protective infrastructure;
+- temple mana scarcity, caused in part by noble political disruption, gives Myne bargaining leverage and reveals mana as public/institutional resource;
+- Myne enters the temple under an exceptional blue-robed, commuting, health-accommodated arrangement won through reciprocal dependence rather than class equality;
+- no master-ledger split or evidence-index promotion is yet necessary.
+
+## Part 1 promotion state
+
+The V03 checkpoint identifies evidence-earned responsibilities without instantiating shallow placeholder artifacts.
+
+### Character analysis
+
+- **Myne character monograph — `WARRANTED_NOT_INSTANTIATED`**
+- **Lutz character monograph — `WARRANTED_NOT_INSTANTIATED`**
+- Benno character monograph — `MONITOR`
+- Frieda character monograph — `MONITOR`
+
+### Relationship analysis
+
+- **Myne ↔ Lutz relationship synthesis — `WARRANTED_NOT_INSTANTIATED`**
+
+### Specialist synthesis
+
+- `BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md` — **instantiated and canonical for the V01-V03 checkpoint**
+- **mana / `身食い` / class access / temple-noble infrastructure — `WARRANTED_NOT_INSTANTIATED`**
+- **knowledge transfer / production / commerce / institutional diffusion — `WARRANTED_NOT_INSTANTIATED`**
+
+### Infrastructure
+
+- master-ledger split — `DEFER`
+- evidence/terminology index promotion — `DEFER`
+- next mandatory architecture review — `V07_POST_FREEZE`
+
+Global character enrollment is a separate responsibility of the designated curation agent. This analytical transaction does not write `characters/registry.jsonl` or `CHARACTER_ANALYSIS_INDEX.md`.
+
+## Historical V02 freeze
+
+V02 remains a frozen historical source boundary and is not superseded by V03.
 
 Canonical source-facing artifact:
 
@@ -84,25 +160,13 @@ Primary witness:
 - SHA-256: `d075f1856cd233729c4873b576464a87597d7240977ca1e4b4d7e77500a2eeca`;
 - entering state: `V01`;
 - exiting state: `V02`;
-- prospective state: `FROZEN`;
-- later numbered-volume knowledge used: `false`.
+- prospective state: `FROZEN`.
 
-The V02 transaction adjudicates all ten V01-facing predictions and propagates material cumulative state into `03 Longitudinal Ledgers/BOOKWORM_MASTER_LONGITUDINAL_LEDGER.md`.
-
-The most important boundary conditions are:
-
-- plant-fiber paper is now a demonstrated product, but scaling remains incomplete;
-- Myne/Lutz complementarity now includes explicit identity disclosure/recognition and survival care;
-- Myne's positive attachment to current life is materially stronger;
-- `身食い` is strongly corroborated as the local diagnosis matching Myne's escalating internal-heat crisis;
-- the exact metaphysical mechanism and the outcome of the emergency intervention remain open because V02 ends before treatment is shown;
-- magical contracts, guild authorization/finance, and noble-linked survival access establish that magic is institutional infrastructure as well as a supernatural phenomenon;
-- ordinary noble-only magic doctrine remains in tension with commoner `身食い` evidence;
-- no dedicated character monograph, relationship synthesis, specialist synthesis, or split ledger is yet required before the V03 Part 1 checkpoint.
+V03 revises the V02 model in several important ways while preserving what V02 reasonably knew. Most notably, V02 was correct to leave the noble-only mana contradiction open because the institutional-access explanation does not become available until V03.
 
 ## Historical V01 freeze
 
-V01 remains a frozen historical source boundary and is not superseded by V02.
+V01 remains a frozen historical source boundary and is not superseded by V02 or V03.
 
 Canonical source-facing artifact:
 
@@ -116,7 +180,7 @@ Primary witness:
 - exiting state: `V01`;
 - prospective state: `FROZEN`.
 
-V02 may revise the current model while leaving the V01 historical formulation intact. In particular, Benno's V01 `身食い` hypothesis was correctly frozen as unconfirmed at V01 even though V02 later provides much stronger corroboration.
+Later clarification of `身食い`, identity, institutions, and relationships does not erase V01's historical uncertainty.
 
 ## Locked source boundary
 
@@ -149,10 +213,11 @@ For new Bookworm analytical work, read in this order:
 3. `00 Frameworks and Methods/BOOKWORM_SYNTHESIS_ARCHITECTURE.md`
 4. `01 Source Lock and Inventory/BOOKWORM_SOURCE_LOCK_AND_INVENTORY.md`
 5. `03 Longitudinal Ledgers/BOOKWORM_MASTER_LONGITUDINAL_LEDGER.md`
-6. the relevant frozen sequential readings, currently V01 and V02
-7. only the character, specialist, or evidence artifact needed for the operation
+6. `05 Specialist Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md` when the Part 1 integrated model or promotion decisions matter
+7. the relevant frozen sequential readings, currently V01-V03
+8. only the character, specialist, or evidence artifact needed for the operation
 
-Before opening V03, recover the V02-frozen prospective state from the master ledger and `BOOKWORM_V02_DEEP_READING.md`. Do not use later-volume memory to adjust those predictions after the fact.
+Before opening V04, recover the V03-frozen prospective state from the master ledger and `BOOKWORM_V03_DEEP_READING.md`. Do not use later-volume memory to adjust those predictions after the fact.
 
 ## Materialized analytical architecture
 
@@ -160,18 +225,18 @@ Before opening V03, recover the V02-frozen prospective state from the master led
 |---|---|---|
 | `00 Frameworks and Methods` | How evidence is read and where accumulated knowledge must converge | method + synthesis architecture present |
 | `01 Source Lock and Inventory` | Exact source boundary, integrity, part routing, Drive provenance | present |
-| `02 Sequential Readings` | Prospective V01-V33 atomic volume readings | V01 and V02 present/frozen; V03 next but separately authorized |
-| `03 Longitudinal Ledgers` | Cumulative cross-volume state | master pre-split ledger current through V02; no split yet warranted |
-| `04 Character Analysis` | Evidence-earned character-specific analysis | router present; no monographs yet; promotion review due after V03 |
-| `05 Specialist Synthesis` | Cross-volume domains with independent synthesis responsibility | router present; no specialist syntheses yet; promotion review due after V03 |
+| `02 Sequential Readings` | Prospective V01-V33 atomic volume readings | V01-V03 present/frozen; Part 1 complete; V04 next but separately authorized |
+| `03 Longitudinal Ledgers` | Cumulative cross-volume state | master pre-split ledger current through V03; no split yet required |
+| `04 Character Analysis` | Evidence-earned character-specific analysis | router current through Part 1; Myne/Lutz monographs warranted but not instantiated; Benno/Frieda monitored |
+| `05 Specialist Synthesis` | Cross-volume domains with independent synthesis responsibility | Part 1 boundary synthesis present; two domain syntheses warranted but deferred until needed |
 | `06 Full-Series Synthesis` | Final integrated synthesis after completion gates | router present; gate closed |
 | `07 Evidence and Indexes` | Cross-volume locator/terminology/coverage/revision structures when needed | router present; no promoted index yet |
 | `08 Audits and Manifests` | Historical bootstrap and later audit/manifests as warranted | bootstrap manifest present |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no superseded Bookworm analysis exists |
 
-Git does not track empty directories. Future artifact homes are materialized by their routing files only when the routing responsibility is useful; `90 Legacy and Superseded` remains absent until an actual supersession creates a reason for it.
+Git does not track empty directories. Future artifact homes are materialized only when their routing responsibility is useful.
 
-## Proposed mature activation tree
+## Current activation tree
 
 ```text
 series/ascendance-of-a-bookworm/
@@ -185,17 +250,19 @@ series/ascendance-of-a-bookworm/
 │   ├── README.md
 │   ├── BOOKWORM_V01_DEEP_READING.md  [present; frozen]
 │   ├── BOOKWORM_V02_DEEP_READING.md  [present; frozen]
-│   └── BOOKWORM_V03_DEEP_READING.md ... BOOKWORM_V33_DEEP_READING.md  [created only as completed]
+│   ├── BOOKWORM_V03_DEEP_READING.md  [present; frozen; Part 1 close]
+│   └── BOOKWORM_V04_DEEP_READING.md ... BOOKWORM_V33_DEEP_READING.md  [created only as completed]
 ├── 03 Longitudinal Ledgers/
 │   ├── README.md
-│   ├── BOOKWORM_MASTER_LONGITUDINAL_LEDGER.md  [current through V02]
+│   ├── BOOKWORM_MASTER_LONGITUDINAL_LEDGER.md  [current through V03]
 │   └── <split ledgers only when retrieval pressure warrants>
 ├── 04 Character Analysis/
-│   ├── README.md
-│   └── <Character>/...  [evidence-triggered]
+│   ├── README.md  [Part 1 promotion state recorded]
+│   └── <substantive character artifacts only when instantiated>
 ├── 05 Specialist Synthesis/
 │   ├── README.md
-│   └── <part-boundary/domain syntheses when earned>
+│   ├── BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md
+│   └── <domain syntheses when a warranted responsibility is instantiated>
 ├── 06 Full-Series Synthesis/
 │   ├── README.md
 │   └── BOOKWORM_FULL_SERIES_SYNTHESIS.md  [completion-gated]
@@ -211,43 +278,49 @@ This tree shares the archive's common analytical language without forcing Bookwo
 
 ## Atomic sequential work order
 
-1. Treat V01 and V02 as frozen historical boundaries and recover V02's prospective claims from `BOOKWORM_V02_DEEP_READING.md` plus the master ledger.
-2. Open V03 only on separate authorization and read it as the new source increment without importing still-later knowledge.
+1. Treat V01-V03 and `BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md` as the frozen/historical Part 1 basis.
+2. Open V04 only on separate authorization and read it as the first Part 2 source increment without importing still-later knowledge.
 3. Update `03 Longitudinal Ledgers/BOOKWORM_MASTER_LONGITUDINAL_LEDGER.md` with only material cumulative changes.
-4. Adjudicate V02 claims and V03-facing predictions that V03 actually tests.
-5. Advance this file's committed high-water mark only after the full V03 atomic transaction closes.
-6. Freeze V03.
-7. **Immediately after V03 freeze, perform the mandatory Part 1 architecture/promotion review** before opening V04. Reconsider character, relationship, specialist, evidence-index, and ledger-split responsibilities against the completed Part 1 evidence.
-8. Continue later mandatory architecture reviews at V07, V12, V21, and V33, or earlier if a material recurring dimension lacks a proper home.
+4. Adjudicate V03 claims and V04-facing predictions that V04 actually tests.
+5. Advance this file's committed high-water mark only after the full V04 atomic transaction closes.
+6. Freeze V04 before opening V05.
+7. Instantiate a warranted Myne/Lutz/domain artifact only when the operation actually benefits from independent retrieval; do not create cosmetic placeholders.
+8. Perform the next mandatory architecture review at V07 after Part 2, or earlier if a material recurring responsibility outgrows its current home.
 9. Keep *Royal Academy Stories: First Year* outside the numbered prospective chain until its publication/diegetic placement and legitimate retrospective scope are verified.
 
-## V03-facing prospective priorities
+## V04-facing prospective priorities
 
-The master ledger holds the exact frozen predictions. High-priority questions entering V03 include:
+The master ledger holds the exact frozen prediction wording. High-priority questions entering V04 include:
 
-- whether the Guild Master/Frieda household can provide emergency magical-tool intervention and what the actual result is;
-- whether any intervention is merely temporary;
-- whether earnings/product knowledge increasingly become survival capital;
-- how Frieda functions as a `身食い`/wealth/noble-access comparison;
-- whether Lutz's merchant route can resolve conflict with family expectations;
-- whether Lutz remains the only local peer with explicit Urano identity knowledge;
-- how paper scaling and hair-ornament diffusion change labor, market, and competitive structure;
-- how the apparent noble-only magic doctrine can coexist with commoner `身食い`;
-- whether stronger attachment to current life changes Myne's response to worsening bodily risk.
+- whether negotiated blue-robed/commuting terms actually protect Myne from ordinary temple class hierarchy;
+- how the Priest Chief functions as regulator, teacher, and gatekeeper;
+- whether Temple Head hostility remains operationally dangerous;
+- how attendants, gray clergy, and orphanage structures alter Myne's labor/ethical/institutional model;
+- how mana contribution connects survival access to temple and agriculture-linked obligations;
+- how Myne Workshop and Lutz/Benno relationships persist around temple schedules and jurisdiction;
+- whether strong/increasing mana remains dangerous independently of ordinary physical frailty;
+- how temple/noble investigation of Myne's origin, products, wealth, and network develops;
+- how Lutz's independent merchant acculturation proceeds after formal apprenticeship begins.
 
-These are hypotheses and retrieval priorities, not facts about unread V03.
+These are hypotheses and retrieval priorities, not facts about unread V04.
 
 ## Current abstentions
 
-- V01-V02 do not settle the metaphysical relationship between Urano Motosu and the prior Myne. Lutz's deliberate acceptance settles a relationship question, not the ontology.
-- `身食い` is strongly corroborated by V02 as the local diagnosis matching Myne's syndrome, but V02 does not supply a complete magic-system explanation or show the outcome of the emergency intervention at its ending.
-- Do not project any later treatment result backward into V02.
-- The statement that magic belongs to nobles remains in unresolved tension with commoner `身食い` evidence; do not harmonize it from unread later lore.
-- Myne's Japanese/Earth analogies are evidence of her interpretive process and must not be promoted automatically to objective setting facts.
+- V01-V03 do not settle the metaphysical relationship between Urano Motosu and the prior Myne. Part 1 strengthens social continuity but not metaphysical proof.
+- Myne's chronic physical frailty is not reducible to `身食い`; Frieda provides direct counterevidence to that simplification.
+- `身食い` is materially explained as uncontrolled mana through V03, but Part 1 does not supply a complete biological theory or long-run treatment model.
+- Commoners can possess mana; the Part 1 evidence supports a noble monopoly over ordinary management infrastructure, not biological noble exclusivity.
+- Myne's blue-robed temple terms are an exceptional negotiated settlement produced by mana scarcity and leverage; they do not establish ordinary commoner-noble equality.
+- Temple doctrine is direct evidence of institutional belief and ritual, not automatically objective cosmological history.
+- The Priest Chief has demonstrated opportunism, adaptive negotiation, and useful knowledge; Part 1 alone does not justify projecting a later mature relationship backward.
+- The Temple Head remains a source-grounded hostile/coercive actor at the V03 boundary; later outcomes are unread.
+- Myne/Lutz has earned independent relationship analysis, but Part 1 does not require a romantic interpretation.
+- Benno and Gustav each combine self-interest with broader protective/governance rationales; neither should be flattened into a timeless benevolent/predatory category.
+- Myne's Japanese/Earth analogies remain evidence of her interpretive process and must not be promoted automatically to objective setting facts.
 - No personality, relationship, political, ethical, religious, metaphysical, or thematic claim is canonical merely because it appears in a synopsis, adaptation, wiki, fandom discussion, prior conversation, model memory, or unread later volume.
 - A focalizer's belief is evidence of that focalizer's model, not automatically an objective setting fact.
-- Later titles, roles, identities, and institutional knowledge must not be projected backward as though V01-V02 already established them.
+- Later titles, roles, identities, and institutional knowledge must not be projected backward into Part 1.
 - No supplemental story is silently inserted into the numbered prospective chain.
 - No translation replaces Japanese as the semantic anchor for wording-sensitive questions when Japanese is available.
-- No PACTRIH score or other comparative ethical placement is assigned before source-grounded character evidence is sufficient.
+- PACTRIH and other comparative ethical frameworks remain downstream of substantive character reconstruction; no score is assigned by this sequential closeout.
 - Later evidence may revise the current model but may not erase what an earlier prospective freeze reasonably supported.
