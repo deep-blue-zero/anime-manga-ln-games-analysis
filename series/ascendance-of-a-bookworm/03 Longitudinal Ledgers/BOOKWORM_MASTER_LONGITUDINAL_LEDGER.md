@@ -2,11 +2,11 @@
 series: ASCENDANCE_OF_A_BOOKWORM
 artifact_type: master_longitudinal_ledger
 scope: PRE_SPLIT_CROSS_VOLUME_STATE
-generation: V0.4
+generation: V0.5
 status: canonical
 release_state: mutable_active
-source_boundary: "Japanese-language light-novel corpus through V02; V01-V02 frozen from Ascendance of a Bookworm - Volumes 01-02.epub"
-committed_high_water_mark: V02
+source_boundary: "Japanese-language light-novel corpus through V03; V01-V03 frozen from Ascendance of a Bookworm - Volumes 01-03.epub"
+committed_high_water_mark: V03
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -23,18 +23,21 @@ It is deliberately one ledger rather than a collection of empty specialist ledge
 ```yaml
 longitudinal_state:
   architecture_lifecycle: INITIAL
-  committed_high_water_mark: V02
+  committed_high_water_mark: V03
   numbered_volumes_completed:
     - V01
     - V02
+    - V03
   source_derived_claims_present: true
   dedicated_ledgers_split_from_master: []
-  next_source_unit: V03
+  part_1_boundary_review: COMPLETE
+  part_1_boundary_synthesis: ../05 Specialist Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md
+  next_source_unit: V04
   next_source_unit_authorization: separate
-  next_part_boundary_review: V03
+  next_part_boundary_review: V07
 ```
 
-V01 and V02 are frozen. The entries below preserve the cumulative state promoted from `../02 Sequential Readings/BOOKWORM_V01_DEEP_READING.md` and `../02 Sequential Readings/BOOKWORM_V02_DEEP_READING.md`; they do not import V03 or later knowledge.
+V01-V03 are frozen. The entries below preserve cumulative state promoted from the three numbered deep readings through `../02 Sequential Readings/BOOKWORM_V03_DEEP_READING.md`; they do not import V04 or later knowledge.
 
 ## Update contract
 
@@ -66,6 +69,11 @@ Do not duplicate scene summaries merely because they exist. Promote an observati
 | V02 / `第一部「兵士の娘」II` | Urano / Myne | Identity discontinuity becomes explicit to Lutz; current Myne discloses the prior-life identity and is deliberately accepted by him | DIRECT + OPEN | Social recognition of current Myne is now much clearer than metaphysical continuity; simple instantaneous replacement is weakened but not excluded | Lutz's choice is relational, not metaphysical proof; Effa's earlier fever-dream evidence complicates the transition model | V02 §§4.3, 4.6, 5 |
 | V02 | Myne | Investment in continued life becomes explicitly positive | DIRECT + CORROBORATED INFERENCE | Myne now says she does not want to die and values paper progress, family, usefulness, relationships, and enjoyment of current life | She can still conceptualize surrender to the heat; physical crisis can overwhelm agency | V02 §6, C02 |
 | V02 | Myne | `身食い` crisis accelerates beyond ordinary fatigue-related fever | DIRECT + CORROBORATED INFERENCE | Myne can distinguish the moving heat from ordinary fever; triggers become easier and suppression more costly; final collapse overwhelms control | Complete mechanism and V02 emergency-treatment outcome remain OPEN | V02 §12 |
+| V03 / `第一部「兵士の娘」III` | Myne | Survival preference becomes explicitly bounded by family belonging and self-authored life | DIRECT + CORROBORATED INFERENCE | Myne wants to live, but refuses the ordinary noble-contract route when survival would require surrendering family and practical autonomy; she seeks alternatives rather than choosing death as an end | Prior death reduces fear; exact future option set remains open | V03 §§6-7, 27 |
+| V03 | Myne | Family becomes capable of constraining the book drive in direct conflict | DIRECT | Myne recognizes the current family as as important as books after confronting the temple-library choice | The book drive remains extremely strong and suppressing it destabilizes mana | V03 §7 |
+| V03 | Myne | `身食い` becomes materially explained as uncontrolled mana; `威圧` demonstrates unusually strong/increasing mana | DIRECT + CORROBORATED INFERENCE | Mana amount and emotional control are independent practical risks; magic tools buy time by absorbing mana | Myne's general frailty is not fully explained by `身食い`; long-run management remains open | V03 §§5, 22-25 |
+| V03 | Myne | Enters negotiated blue-robed temple service while retaining home residence and workshop ties | DIRECT | Institutional position is an exception won through mana scarcity, commercial resources, family resistance, and negotiation rather than ordinary class equality | Temple hierarchy and Temple Head hostility remain active constraints | V03 §§24-27 |
+| V03 | Lutz | Merchant aspiration becomes demonstrably self-authored and proceeds into formal apprenticeship | DIRECT + CORROBORATED INFERENCE | Lutz would pursue the route even without Myne; savings, training, maternal support, and explicit acculturation expand his practical options | Father remains resistant; inherited merchant cultural capital is still missing | V03 §§8-9 |
 
 A later state must not overwrite an earlier one merely because the mature series provides a more convenient final label.
 
@@ -84,6 +92,12 @@ A later state must not overwrite an earlier one merely because the mature series
 | V02 | Myne ↔ Benno | Gatekeeper relationship expands into investor/mentor/protector/extractor role | Benno possesses market, contract, guild, and `身食い` knowledge that the children lack; he also wants Myne's product knowledge | He finances tools, binds terms, controls disclosure, teaches pricing, and negotiates emergency magical access | DIRECT + CORROBORATED INFERENCE | V02 §§7, 9-12, 15 |
 | V02 | Myne ↔ Frieda / Guild Master | Shared-condition comparison and commercial capture relationship begins | Frieda/Guild Master know `身食い`, magic-tool access, and elite commercial networks; Myne has valuable product knowledge and little institutional leverage | Frieda recognizes the condition; the Guild Master seeks commercial advantage while also becoming the emergency route to a magic tool | DIRECT + CORROBORATED INFERENCE | V02 §§10, 12 |
 | V02 | Lutz ↔ family | Occupational disagreement becomes explicit | Parents possess household authority and craft-route expectations; Lutz possesses a strong merchant aspiration but lacks formal merchant upbringing | Father favors craft; mother fears merchant uncertainty/education gap; Myne refuses to decide Lutz's vocation for him | DIRECT | V02 §16 |
+| V03 | Myne ↔ Lutz | Dyad becomes independently retrieval-worthy across identity, care, creation, rights, and future separation | Lutz retains privileged Urano knowledge; both now know the other has deliberately chosen continued joint creation | Magical sales rights and explicit mutual commitments preserve linkage even as temple service may separate daily work | DIRECT + CORROBORATED INFERENCE | V03 §§8-10 |
+| V03 | Lutz ↔ family | Conflict shifts from undifferentiated opposition toward partial family alliance | Parents still hold household authority; Lutz now articulates independent motive and material plan | Carla becomes explicit ally and begins protecting his household interests; father opposition remains | DIRECT | V03 §8 |
+| V03 | Myne ↔ family | Family becomes an explicit life-defining commitment and active protection network | Family lacks Urano disclosure but knows `身食い`/mana danger; parents possess little formal power against temple nobles | Parents risk severe punishment rather than surrender Myne; negotiated temple terms preserve co-residence | DIRECT + CORROBORATED INFERENCE | V03 §§6-7, 24-27 |
+| V03 | Myne ↔ Frieda | Friendship/competition becomes a parallel survival comparison | Frieda has direct experience of noble-contract survival and greater wealth; Myne has different values and refuses equivalent dependency | Frieda spends scarce tool capacity on Myne while also pursuing debt/commercial leverage | DIRECT + CORROBORATED INFERENCE | V03 §§4-6, 12 |
+| V03 | Myne ↔ Benno | Protection/extraction/education role becomes infrastructural | Benno controls local commercial procedure and sees risks Myne misses; Myne supplies knowledge and growth potential | Benno funds contracts, hides identities, builds workshop routes, protects against Guild Master capture, and retains commercial interest | DIRECT + CORROBORATED INFERENCE | V03 §§11, 14-18, 31 |
+| V03 | Myne ↔ temple officials | New dependent/negotiated institutional relationship begins | Temple possesses legal/status power and mana infrastructure; Myne possesses scarce mana, money, family solidarity, and dangerous uncontrolled pressure | Temple Head attempts coercive seizure; Priest Chief brokers a leverage-based exception | DIRECT + CORROBORATED INFERENCE | V03 §§20-27 |
 
 Do not infer one timeless relationship from later closeness, hostility, status, or knowledge.
 
@@ -102,6 +116,12 @@ Do not infer one timeless relationship from later closeness, hostility, status, 
 | V02 | Commercial Guild | Trade requires registration/authorization; pre-baptism temporary registration is normally tied to merchant families | Blood-linked guild cards, access control, deposit/transfer functions, and discretionary admission are observed | Myne/Lutz are an unusual non-kin exception won through negotiation/leverage | Technical/product capability cannot become legal commerce without institutional permission | V02 §10 |
 | V02 | Noble-linked magic access | `身食い` survival can require scarce magic tools obtained through noble connections | Frieda is alive because Guild Master wealth/connections acquired tools; Benno negotiates emergency access for Myne | Access is temporary, costly, and scarce rather than universal | Survival probability is class- and patronage-sensitive | V02 §12 |
 | V02 | Occupational/marriage network | Work, inheritance, citizenship, marriage, and guild power are tightly coupled | Gilberta female-line inheritance, Corinna heirship, Otto citizenship purchase, craftmaster/customer requirements | Guild Master market power can affect marriage options and business risk | Formal and informal status shape intimate and occupational choices together | V02 §19 |
+| V03 | Contract-magic jurisdiction | Magical rights can affect nonsigners within a bounded jurisdiction | City wall functions as magic boundary; some contracts affecting outsiders require lord reporting; ordinary duplicate records are retained | Uninformed third parties may still be punished; access to contract tools is merchant-restricted | Enforcement can exceed consent/knowledge; procedural and documentary safeguards become critical | V03 §18 |
+| V03 | Guild/association registration | New trade structures require institutional registration and negotiated incumbent scope | Plant Paper Association delayed by Guild Master discretion; parchment conflict mediated through product segmentation | Administrative timing can be used as leverage without changing formal rule text | Innovation requires governance strategy as well as production competence | V03 §§17-18 |
+| V03 | Merchant apprenticeship | Merchant cultural capital is normally transmitted through family and firm networks | Lutz must explicitly learn presentation, schedule, etiquette, documents, customer behavior, and tools | Earnings/sponsorship can partly substitute for inherited capital | Cross-class occupational mobility is possible but costly and acculturative | V03 §§8-9, 19 |
+| V03 | Temple status hierarchy | Blue clergy are noble-linked; gray clergy/orphanage workers occupy subordinate positions | Wealthy-appearing Myne receives deference; poor parents trigger abrupt class contempt and attempted seizure | Mana shortage lets family negotiate an exceptional blue-robed commuting arrangement | Nominal status is leverage-sensitive and does not imply generalized equality | V03 §§20-27 |
+| V03 | Temple mana infrastructure | Blue clergy supply mana to sacred tools used in public/religious functions including spring agriculture-linked ritual | Political purge/recalled noble children reduce blue clergy and available mana | Scarcity increases value of Myne's mana and willingness to grant exceptions | Bodily mana becomes public/institutional resource and bargaining asset | V03 §§22-27 |
+| V03 | Noble/commoner `身食い` access | Commoner mana is biologically possible, but safe management is noble-controlled | Frieda survives through purchased/noble-linked tools; Myne gains temple alternative because institution needs mana | Wealth improves contract terms; institutional scarcity opens exceptional route | Survival and practical freedom depend on access to tools, patronage, and leverage | V03 §§5-6, 22-27 |
 
 Political or ethical judgment should follow reconstruction of the actual choice set rather than substitute for it.
 
@@ -121,6 +141,11 @@ Political or ethical judgment should follow reconstruction of the actual choice 
 | V02 | Hair-cleaning mixture replication | Household process already works | Professional refinement filters out small plant solids and initially worsens function | Failure reveals unrecognized abrasive/scrubbing contribution | Demonstrates tacit/hidden process variables and risk of optimizing the wrong feature | V02 §8 |
 | V02 | Hair ornaments | Myne supplies design/technique and product concept | Frieda commission, Benno pricing, Effa/Tuuli production skill, Lutz-family paid labor, household coordination | Luxury commission succeeds; wider demand and rush orders emerge | Household craft becomes networked micro-enterprise and exposes imitation/control pressure | V02 §17 |
 | V02 | Merchant education | Myne/Lutz possess uneven partial skills | Benno/Marc/Otto plus deliberate winter study supply etiquette, local numeracy tools, money, product knowledge, literacy, and memory discipline | Both expand practical merchant competence | Human capital becomes an explicit prerequisite for occupational mobility | V02 §§16, 18 |
+| V03 | Pound cake / ratio abstraction | Myne remembers a recipe family based on equal-weight proportions | Ratio avoids incompatible unit translation; Ilse supplies professional mixing, oven, heat, and testing expertise | Successful product and later recipe-right sale | Abstract relations can improve knowledge portability, but expert local execution remains necessary | V03 §§13, 30 |
+| V03 | Plant-paper scaling | Children possess a working prototype process | Adult bodies, larger/redesigned tools, river/water, storage, drying, Mark/artisans, Lutz as process carrier, Benno as capital/market coordinator | Adult workshop successfully produces plant paper | Prototype becomes organization capable of reproducing output without Myne's direct labor | V03 §§15-16 |
+| V03 | Product diffusion policy | Myne wants useful knowledge/products to spread | Rights, exclusivity periods, collaborator profit, poor-user price effects, secrecy, and self-protection shape release decisions | Mixed policy rather than indiscriminate diffusion | Innovation governance includes distributional and security consequences | V03 §§12, 14 |
+| V03 | Hair ornaments | Winter demand becomes organized production | Multiple households produce for pay; rights can be sold/licensed | 186 winter units and formal rights transaction | Household craft has become repeatable distributed enterprise | V03 §§14, 29 |
+| V03 | Culinary/marketing capability | Myne introduces recipes and tasting concepts | Ilse reconstructs professionally; Benno/Mark identify missing chef/supply/marketing capacity | New products and controlled tasting event succeed | Imported ideas induce adjacent organizational capability-building | V03 §§30-31 |
 
 Credit causal contribution rather than protagonist-centered narrative salience.
 
@@ -140,6 +165,12 @@ Credit causal contribution rather than protagonist-centered narrative salience.
 | V02 | `魔力` social doctrine | Marc presents magic as a noble power, while informed actors describe commoner `身食い` as excess magic | Marc versus Benno/Frieda/Guild Master | OPEN / UNRESOLVED | Evidence is internally tensioned rather than one-sided | Noble-only doctrine cannot yet be treated as objective universal fact | V02 §13 |
 | V02 | Contract/authorization magic | Magic is used in contracts and blood-linked guild registration/finance | Benno + directly observed institutional practice | DIRECT + CORROBORATED INFERENCE | Multiple independent commercial uses | Magic is embedded in ordinary institutional power, not only creatures/illness | V02 §§9-10 |
 | V02 | Weekly social time | Seven named days structure routine and `土の日` is observed as rest day | Local practice / Myne learning | DIRECT as observed convention | Myne learns terminology relatively late | Calendar knowledge is role-distributed and socially operational | V02 §20 |
+| V03 | `身食い` / mana | Internal `身食い` heat is mana running wild; magical tools absorb/transfer it temporarily | Frieda, Priest Chief, direct observed tool/`威圧` behavior | CORROBORATED INFERENCE / operationally strong | Multiple informed sources and observed effects align | Mechanism substantially clarified; full biology and long-run prognosis remain open | V03 §§5, 22-25 |
+| V03 | Noble/commoner mana | Commoners can possess mana; nobles monopolize ordinary safe management through tools/training/status | Frieda/temple explanations + Myne case | CORROBORATED INFERENCE | Resolves V02 testimony tension without requiring biological exclusivity | Noble-only magic is best modeled as social/institutional monopoly, not universal biological fact | V03 §§5, 22-23 |
+| V03 | Temple mana economy | Blue clergy fill magical sacred tools; mana shortage follows political noble depletion/reassignment; spring ritual is tied to agriculture | Priest Chief/temple practice | DIRECT as explanation/practice; metaphysical crop mechanism not fully independently measured | Institutional behavior and resource scarcity corroborate practical importance | Mana is public/religious infrastructure as well as bodily capacity | V03 §22 |
+| V03 | Religious doctrine | Darkness/Light deities and seasonal divine family structure baptism and public prayer | Temple ritual/doctrine | DIRECT for doctrine/practice | No independent metaphysical adjudication | Treat as socially/institutionally real doctrine, not proven cosmological history | V03 §21 |
+| V03 | `威圧` | Emotionally overflowing mana can be directed as incapacitating pressure; strength tracks mana quantity | Priest Chief + observed confrontation | DIRECT + CORROBORATED INFERENCE | Myne nearly incapacitates/kills Temple Head; control stops through consequence reframing | Dangerous operational mana effect established | V03 §25 |
+| V03 | Elite magical communication | White magic bird carries urgent noble correspondence | Gustav viewpoint | DIRECT as observed practice | Fits wider institutional use of magic | Magic supports elite administrative communication | V03 §33 |
 
 A doctrine can be socially real while its metaphysical proposition remains unproven.
 
@@ -158,6 +189,12 @@ A doctrine can be socially real while its metaphysical proposition remains unpro
 | V02 | Effa | Remembers prior Myne's fever-dream reports and interprets current drive through family resemblance | Retrospective maternal viewpoint; ordinary explanatory frame | Supplies reader evidence not available to Lutz/Myne in their confrontation | Weakens overly clean replacement narratives while showing family normalization | V02 §§4.6, 5 |
 | V02 | Benno / Guild Master / Frieda | Possess much more `身食い`, guild, pricing, and noble-access knowledge than Myne | Commercial interests and family interests shape presentation | Myne gains partial diagnosis/access knowledge; emergency planning still contains private negotiations | Survival and market agency depend on navigating asymmetric expert information | V02 §§10-12 |
 | V02 | Myne | Possesses broad conceptual knowledge but repeatedly lacks local tacit variables and institutional assumptions | Strong experiment design; incomplete local process/mechanism knowledge | Paper and shampoo failures expose hidden variables | Epistemic humility/iteration becomes more important than raw recall | V02 §§7-8 |
+| V03 | Lutz | Retains privileged Urano identity knowledge while family receives only `身食い`/mana explanation | Strong relational knowledge; no metaphysical proof | No equivalent family identity disclosure occurs | Myne/Lutz remains epistemically unique | V03 §§6, 8-10 |
+| V03 | Tuuli | Sees merchant-facing Myne's bargaining competence for the first time | Sister/household baseline is strong but commercial exposure limited | Household model expands without Urano disclosure | Confirms recipient/context gap between home and merchant behavior | V03 §29 |
+| V03 | Myne | Gains deeper mana, temple, contract-jurisdiction, and class information while still missing many local risk assumptions | Rapid learner; prior-world analogies remain incomplete | Knowledge shifts from private concepts toward institutional procedure | Better reasoning increases leverage but does not remove child/status vulnerability | V03 §§18, 20-27 |
+| V03 | Priest Chief | Understands temple mana scarcity, hierarchy, and `威圧`; initially misreads commoner parental attachment | Institutionally positioned but shaped by temple experience | Updates after family resistance and mana crisis | Becomes adaptive negotiator rather than omniscient authority | V03 §§22, 25-27 |
+| V03 | Gustav | Frames guild intervention as system maintenance and receives temple investigation request | Powerful commercial official with self-interested civic model | Reader gains rationale unavailable to Benno | Rival governance models become legible without resolving normative dispute | V03 §32 |
+| V03 | Ilse | Recognizes Myne's knowledge anomaly from a professional domain | Skilled culinary focalizer but lacks prior-life information | Myne uses “dream” as protective explanation | Strategic disclosure must not be mistaken for metaphysical evidence | V03 §30 |
 
 Do not flatten multiple viewpoints into an omniscient composite narrator.
 
@@ -175,6 +212,11 @@ Do not flatten multiple viewpoints into an omniscient composite narrator.
 | V02 | Myne/Lutz households | Paid winter work changes willingness to supply labor and turns kin craft into accounted production | Cash and explicit accounting alter household incentives and reveal hidden economic contribution | Emerging enterprise state, not yet mature firm structure | V02 §§16-17 |
 | V02 | Myne | Everyday enjoyment, usefulness, study, production, and family contribution become explicit reasons to remain alive | Ordinary life is now evidence of identity investment rather than mere background | Stronger than V01 but remains vulnerable to physical crisis | V02 §6 |
 | V02 | Myne/Lutz | Different memory strategies reflect information abundance versus scarcity | Myne expects future lookup; Lutz must retain scarce instruction | Environmental information access shapes cognitive strategy and merchant competence | V02 §18 |
+| V03 | Myne/Frieda | Frieda is physically robust when mana is controlled, while Myne remains chronically frail | Prevents reducing Myne's entire bodily condition to `身食い` | Important differential through V03 | V03 §§5, 34 |
+| V03 | Lutz | Lockable storage, food competition, clothing, hygiene, and merchant tools are material to occupational independence | Household/resource details explain why paid work and merchant entry matter personally | Developmental state as he enters apprenticeship | V03 §§8-9, 34 |
+| V03 | Myne household | Baptism clothing is made through collaborative reuse and craft rather than wealth | Appearance changes institutional class inference despite low household resources | Scene-specific but analytically important | V03 §§20, 34 |
+| V03 | Paper workshop | Water, drying, storage, weather, adult body size, and equipment scale govern production viability | Material conditions determine whether prototype can become organization | Structural production condition | V03 §§15-16, 34 |
+| V03 | Tuuli | Hygiene/presentation improves customer-facing opportunity and she begins deliberate visual/trend observation | Ordinary grooming and observation become craft/occupational capital | Emerging apprentice-development state | V03 §29 |
 
 Possible evidence includes food, clothing, comfort, hobbies, work rhythm, study, gifts, shopping, etiquette, humor, rest, annoyance, avoidance, sensory preference, domestic routine, and treatment of low-status or low-stakes interactions.
 
@@ -186,20 +228,26 @@ This section is not a trivia inventory.
 
 | Claim ID | First source boundary | Earlier formulation | Revision state | Current formulation | Supporting evidence | Counterevidence / rival reading | Current authority |
 |---|---|---|---|---|---|---|---|
-| V01-C01 | V01 | Modern knowledge is conditional agency: value depends on local translation through material, embodied, labor, institutional, and relational prerequisites | STRENGTHEN | Imported information enters as a hypothesis whose practical value depends on local translation; tacit/hidden variables can defeat superficially improved replication | Completed paper only through distributed production system; shampoo filtering failure; localization of sheet size | Some low-dependency techniques still transfer rapidly | V02 current state; V01 historical formulation preserved |
-| V01-C02 | V01 | Books remain Myne's stable core desire, but relational obligation has begun to supply an independent reason to preserve life | REVISE / STRENGTHEN | Books remain central, while relationships, usefulness, work, family belonging, and enjoyment now provide explicit positive reasons to live | Myne states she does not want to die and likes current life; identity/Lutz/family developments | Heat crisis can still overwhelm agency; disappearance remains conceptually available in identity confrontation | V02 current state |
-| V01-C03 | V01 | Myne's self-assessment systematically undervalues nonphysical competence | STRENGTHEN | Commercial and institutional actors increasingly price Myne's literacy, planning, product knowledge, and negotiation as scarce capital | Benno/Guild Master/Frieda interest; contracts; commissions; paper | Physical dependence remains real and economically consequential | V02 current state |
-| V01-C04 | V01 | Myne/Lutz reciprocity has become a durable complementary partnership substrate | STRENGTHEN | Partnership now spans production, education, identity recognition, privileged disclosure, care, and survival motivation | Paper production; identity confrontation; final crisis; winter education | No independent relationship synthesis yet; family conflict remains unresolved | V02 current state |
-| V01-C05 | V01 | Myne's abnormal heat is distinct from ordinary deconditioning/illness; `身食い` is plausible but unconfirmed | STRENGTHEN | `身食い` is now the strongly corroborated local diagnosis matching Myne's moving heat and accelerating crisis; exact mechanism and V02 intervention outcome remain OPEN | Frieda/Guild Master independent recognition; external heat/vapor; Benno emergency plan | No on-page V02 treatment outcome; magic system incomplete | V02 current state |
-| V01-C06 | V01 | Literacy and writing materials function as stratified institutional/class resources | STRENGTHEN | Literacy, contract comprehension, record reconstruction, and institutional procedure remain power even when magic itself enforces agreements and registration | Contract-magic memory test; guild procedures; merchant education | No systematic citywide literacy rate | V02 current state |
-| V01-C07 | V01 | Myne is increasingly socially legible as anomalous outside her family | STRENGTHEN | Anomalous knowledge/products create increasing scrutiny, capture attempts, and strategic concealment by competing commercial actors | Lutz confrontation; Guild Master/Frieda; Benno controls disclosure; product novelty | Family continues to normalize behavior through recovery/kin resemblance | V02 current state |
-| V01-C08 | V01 | Original-Myne/Urano ontology is unresolved | REVISE / OPEN | Ontology remains unresolved; simple instantaneous replacement is weakened by family memory of prior fever dreams and by the relationally explicit transition recognized by Lutz | Urano continuity, Myne memories, Lutz confrontation, Effa fever-dream report | No independent metaphysical mechanism; social acceptance is not proof | V02 current state |
-| V02-C09 | V02 | — | OPEN | Magic is demonstrably embedded in contracts, guild identity/authorization/finance, and survival infrastructure | Contract magic, blood-linked guild cards, magic tools | Exact institutional ownership and mechanics remain partial | V02 current state |
-| V02-C10 | V02 | — | OPEN | `身食い` survival is class-mediated by money and noble-linked access to scarce magical tools | Frieda/Guild Master history; Benno survival-capital framing | V02 does not show Myne's intervention outcome or universal rule | V02 current state |
-| V02-C11 | V02 | — | OPEN | Product diffusion creates exposure, bargaining, imitation, and institutional-control pressure alongside opportunity | Hair-ornament demand; Guild Master capture attempt; Benno secrecy | Full competitive market not yet observed | V02 current state |
-| V02-C12 | V02 | — | OPEN | Scalable production increasingly depends on household/craft networks rather than Myne's personal labor | Effa/Tuuli/Lutz-family production; Marc/artisans; tool financing | Scale remains limited and seasonal | V02 current state |
-| V02-C13 | V02 | — | OPEN | Lutz's occupational agency is constrained by kin expectations and educational capital while paid coordination/training expand his option set | Family dispute; winter education; wage-accounted work | No family resolution yet | V02 current state |
-| V02-C14 | V02 | — | OPEN | Ordinary noble-only `魔力` doctrine conflicts with evidence of commoner `身食い`; a more precise model is required | Marc versus Benno/Frieda/Guild Master | Terminology/social-doctrine explanation not yet available | V02 current state |
+| V01-C01 | V01 | Imported information enters as a hypothesis whose practical value depends on local translation; tacit/hidden variables can defeat superficially improved replication | STRENGTHEN | Imported knowledge remains conditional agency; portable abstraction can reduce one translation problem, but tacit expertise, bodily execution, local tools, organization, and institutions remain decisive through scale-up | Ratio-based cake + Ilse; adult paper workshop redesign; association conflict; capability-building | Some low-dependency techniques still transfer rapidly | V03 current state; earlier formulations preserved in V01/V02 freezes |
+| V01-C02 | V01 | Books remain central, while relationships, usefulness, work, family belonging, and enjoyment provide explicit positive reasons to live | REVISE / STRENGTHEN | Myne positively wants to live, but survival is bounded by family belonging and self-authorship; family has become co-central enough to constrain the book drive in direct conflict | Noble-contract refusal; family disclosure; library conflict; negotiated temple entry | Book desire remains extremely powerful; prior death reduces fear | V03 current state |
+| V01-C03 | V01 | Commercial and institutional actors increasingly price Myne's literacy, planning, product knowledge, and negotiation as scarce capital | STRENGTHEN / REFINE | Myne's cognitive/commercial competence creates real leverage, while local institutional risk blindness and bodily limits remain material | Workshop, contracts, product rights, temple negotiation, Benno corrections | She repeatedly misses class signals, contract consequences, and noble/temple danger | V03 current state |
+| V01-C04 | V01 | Partnership spans production, education, identity recognition, privileged disclosure, care, and survival motivation | STRENGTHEN | Myne/Lutz is an independently retrieval-worthy chosen dyad spanning identity, care, creation, career, magical sales rights, and mutual future commitments | V03 self-authored career + contract + creation promise | Romance remains unproven; daily institutional paths begin diverging | V03 current state |
+| V01-C05 | V01 | `身食い` is the strongly corroborated local diagnosis matching Myne's moving heat and accelerating crisis; exact mechanism remains incomplete | REVISE / STRENGTHEN | `身食い` is uncontrolled mana; magical tools temporarily absorb it; Myne has unusually strong/increasing mana and can manifest `威圧`; chronic frailty remains partly separate | Frieda tool use/comparison; Priest Chief explanation; confrontation | Long-run prognosis/management and full bodily etiology remain OPEN | V03 current state |
+| V01-C06 | V01 | Literacy, contract comprehension, record reconstruction, and institutional procedure remain power even when magic enforces agreements | STRENGTHEN | Literacy, human-readable records, jurisdiction knowledge, and procedure are protective infrastructure because magical enforcement can exceed signer knowledge and has bounded reach | Nonsigner contract risk; city boundary; ordinary duplicate parchment; guild reporting | Exact full legal code remains unread | V03 current state |
+| V01-C07 | V01 | Anomalous knowledge/products create increasing scrutiny, capture attempts, and strategic concealment | STRENGTHEN | Myne is now actively concealed, investigated, bargained over, and institutionally targeted because of both knowledge and mana | Benno secrecy; Guild Master/Othmar; temple financial investigation; attempted seizure | Family still lacks the full prior-life model | V03 current state |
+| V01-C08 | V01 | Ontology remains unresolved; simple instantaneous replacement is weakened by family memory and Lutz's recognition | PRESERVE / OPEN | Urano/Myne metaphysical mechanism remains unresolved; Part 1 strengthens social continuity without independent metaphysical adjudication | Lutz acceptance; family attachment; continued Myne memory access | No source mechanism resolving replacement/merger/continuity | V03 current state |
+| V02-C09 | V02 | Magic is embedded in contracts, guild identity/authorization/finance, and survival infrastructure | STRENGTHEN | Magic also supports temple/civic tools, agriculture-linked ritual, elite communication, and class administration | Sacred tools, `威圧`, white magic bird, temple mana economy | Exact system mechanics remain partial | V03 current state |
+| V02-C10 | V02 | `身食い` survival is class-mediated by money and noble-linked access to scarce magical tools | STRENGTHEN | Wealth can improve dependent-contract terms but does not erase noble infrastructure monopoly; temple mana scarcity creates an exceptional alternative route for Myne | Frieda arrangement; temple negotiation | Generalizability beyond observed cases remains limited | V03 current state |
+| V02-C11 | V02 | Product diffusion creates exposure, bargaining, imitation, and institutional-control pressure | STRENGTHEN | Innovation now triggers association/incumbent conflict, market segmentation, rights sales, controlled marketing, capture attempts, and adjacent capability-building | Plant Paper Association; parchment settlement; tasting event; Benno expansion | Long-run welfare/distribution effects remain OPEN | V03 current state |
+| V02-C12 | V02 | Scalable production increasingly depends on household/craft networks rather than Myne's personal labor | STRENGTHEN | Sustainable production now spans households, professional artisans, adult workshop labor, process carriers, merchant capital, and institutional permission | 186 ornaments; adult paper workshop; Mark/artisans; Ilse | Scale beyond city remains prospective | V03 current state |
+| V02-C13 | V02 | Lutz's occupational agency is constrained by kin expectations and educational capital while paid coordination/training expand options | STRENGTHEN | Lutz's merchant path is demonstrably self-authored; maternal alliance, savings, sponsorship, and explicit cross-class acculturation provide runway | Family resolution; formal apprenticeship; first-day viewpoint | Father opposition and cultural-capital deficits remain | V03 current state |
+| V02-C14 | V02 | Ordinary noble-only `魔力` doctrine conflicts with commoner `身食い`; precise model required | REVISE / RESOLVE | Commoners can possess mana; nobles monopolize most ordinary tools, training, and institutional pathways that make mana survivable and useful | Frieda + Priest Chief + Myne mana evidence | Later sources may refine biological/institutional distribution | V03 current state |
+| V03-C15 | V03 | — | OPEN | Practical autonomy is leverage- and jurisdiction-sensitive: nominal status or permission alone does not establish freedom | Temple negotiation; contract jurisdiction; Guild Master discretion | Future institutional contexts may vary | V03 current state |
+| V03-C16 | V03 | — | OPEN | Myne has undergone genuine value development: family belonging is no longer instrumental to book-seeking and can constrain it in direct conflict | Library decision; noble-contract refusal; family negotiation | Books remain co-central rather than displaced | V03 current state |
+| V03-C17 | V03 | — | OPEN | Privacy, concealment, readable records, contract design, and jurisdiction knowledge now function as deliberate protective infrastructure around valuable people and knowledge | Benno concealment; ordinary contract copy; magic sales-right contract; temple investigation | Protection remains incomplete against higher-status actors | V03 current state |
+| V03-C18 | V03 | — | OPEN | Households, guilds, associations, lordly authority, firms, and temple structures form layered institutions whose conflicts often emerge through incentives and discretion rather than simple rule violation | Parchment conflict; Gustav/Benno models; temple hierarchy | Full territorial legal architecture remains incomplete | V03 current state |
+| V03-C19 | V03 | — | OPEN | Mana is simultaneously embodied risk and scarce public/institutional resource, tying Myne's health to temple and agriculture-linked infrastructure | `身食い`, sacred tools, mana shortage, negotiated service | Exact agricultural mechanism remains doctrine/practice rather than fully measured causal proof | V03 current state |
+| V03-C20 | V03 | — | OPEN | Lutz's cross-class development requires active acculturation and material runway; “following Myne” is no longer an adequate occupational explanation | Self-authorship, savings, maternal support, apprenticeship viewpoint | Myne relationship remains a major enabling factor | V03 current state |
 
 A claim's historical formulation remains discoverable even after the current model changes.
 
@@ -207,39 +255,43 @@ A claim's historical formulation remains discoverable even after the current mod
 
 ### V01 → V02 adjudication
 
-The following predictions were frozen before V02 was opened. Their historical wording is preserved; outcomes are now recorded from V02.
+The V01 predictions were frozen before V02 and remain preserved in `BOOKWORM_V01_DEEP_READING.md` and the V02 ledger generation. V02 confirmed or strengthened most of that model; no historical wording is rewritten here.
+
+### V02 → V03 adjudication
 
 | Entering boundary | Question / prediction | Confidence | Basis at entering boundary | Tested by | Outcome | Historical note |
 |---|---|---:|---|---|---|---|
-| V01 | V01-P01 — Myne and Lutz will make a serious paper prototype attempt because both employment opportunity and Myne's book goal now depend on it | high | Benno's explicit conditional gate; Lutz's commitment | V02 | CONFIRMED / STRENGTHENED | Functional paper completed and accepted |
-| V01 | V01-P02 — Practical process/material translation will be a larger paper bottleneck than merely remembering that plant-fiber paper exists | high | V01 production-failure pattern; bodily limits | V02 | CONFIRMED / STRENGTHENED | Multiple material/process variables and collaborators determine outcome |
-| V01 | V01-P03 — Benno will become more involved if the prototype is viable, with commercially protective/controlling interests rather than pure charity | high | Private epilogue intent | V02 | CONFIRMED / STRENGTHENED | Financing, contracts, secrecy, instruction, emergency planning |
-| V01 | V01-P04 — Lutz's family opposition or occupational expectations will materially affect his merchant route | medium-high | Kin-sponsored apprenticeship structure; Lutz secrecy | V02 | CONFIRMED / STRENGTHENED | Father favors craft; mother fears merchant uncertainty/education gap |
-| V01 | V01-P05 — Myne's abnormal heat will recur and require a better explanation; `身食い` remains the leading reader-side hypothesis | high recurrence; medium diagnosis | First-person episodes + Benno hypothesis | V02 | STRONGLY CONFIRMED; mechanism partly OPEN | Frieda/Guild Master independently recognize condition; crisis accelerates |
-| V01 | V01-P06 — Myne's unusual literacy/products/behavior will attract increasing scrutiny outside the family | medium-high | Otto, Benno, Fey, neighborhood product interest | V02 | CONFIRMED / STRENGTHENED | Lutz identity confrontation and commercial capture pressure |
-| V01 | V01-P07 — Gate clerical work will remain a credible fallback or competing labor path | medium | Otto's training and valuation | V02 | PRESERVE / DOWNWEIGHT | Otto still requests calculation help; merchant/paper route dominates |
-| V01 | V01-P08 — Family attachment will deepen while book/resource/risk conflicts continue | medium | clay-story acceptance, survival obligation, repeated household friction | V02 | CONFIRMED / STRENGTHENED | Myne explicitly values current life and household contribution |
-| V01 | V01-P09 — Temple/noble/magic institutions will become more relevant if the heat problem is real, but exact timing/access remains unknown | medium | Benno testimony + baptism/citizenship link | V02 | CONFIRMED / STRENGTHENED | Contract magic, guild magic, noble-linked survival tools |
-| V01 | V01-P10 — Myne/Lutz division of labor will become more explicit, with concepts/planning paired to Lutz's physical/local execution | high | merchant-meeting commitment | V02 | CONFIRMED / EXPANDED | Production, education, identity, care, emergency action |
+| V02 | V02-P01 — Guild Master/Frieda household will attempt to use remaining magical-tool capacity on Myne's present crisis | high | Benno emergency plan and prior negotiation | V03 | CONFIRMED / STRENGTHENED | Frieda spends her own dwindling reserve use |
+| V02 | V02-P02 — Available intervention will be temporary rather than a definitive cure | high | Frieda history; depleted tool; reported limited extension | V03 | CONFIRMED / STRENGTHENED | Tool absorbs mana and buys time; no cure |
+| V02 | V02-P03 — Earnings/product knowledge will increasingly function as survival capital, not only book-production capital | high | Benno survival-capital framing | V03 | CONFIRMED / STRENGTHENED | Money, rights, products, workshop income and contracts shape options |
+| V02 | V02-P04 — Frieda will become a significant `身食い`/wealth/noble-access comparison and information node | medium-high | shared condition and Guild Master resources | V03 | CONFIRMED / STRENGTHENED | Frieda's own negotiated noble future supplies comparison |
+| V02 | V02-P05 — Lutz's merchant route will require concrete family resolution before ordinary apprenticeship/baptism progression | high | unresolved parental opposition | V03 | CONFIRMED / STRENGTHENED | Carla recognizes self-authored goal and becomes ally; apprenticeship begins |
+| V02 | V02-P06 — Lutz will retain privileged knowledge of Urano identity; equivalent immediate family disclosure is not expected | medium-high | V02 confrontation and family normalization | V03 | CONFIRMED / PRESERVE | Family learns `身食い`, not Urano |
+| V02 | V02-P07 — Spring paper scaling will require more formal labor/tooling/market organization and strategic disclosure control | high | winter limits, financing, guild rivalry | V03 | CONFIRMED / STRENGTHENED | Adult workshop, redesigned tools, association negotiation, concealment |
+| V02 | V02-P08 — Hair ornaments will move toward a broader market with imitation/competition pressure | high | pre-launch demand and rush production | V03 | CONFIRMED / STRENGTHENED | 186 winter pieces; rights/diffusion formalized |
+| V02 | V02-P09 — Noble-only magic doctrine versus commoner `身食い` will require a more precise model | medium | V02 contradictory testimony | V03 | REVISE / RESOLVE | Mana possession not noble-exclusive; management infrastructure is noble-dominated |
+| V02 | V02-P10 — Merchant survival will depend increasingly on contract, etiquette, legal, and institutional literacy rather than invention alone | high | contract magic and guild registration | V03 | CONFIRMED / STRENGTHENED | Jurisdiction, associations, records, etiquette, apprenticeship culture |
+| V02 | V02-P11 — Stronger desire to live will reduce voluntary surrender risk, but worsening symptoms can still overwhelm agency | medium-high | explicit attachment plus final collapse | V03 | CONFIRMED / REVISED | Myne seeks life but under autonomy/family constraints; emotional conflict itself destabilizes mana |
+| V02 | V02-P12 — V03 closes Part 1 and requires the first mandatory architecture/promotion review after its freeze | certain process state | governing architecture | V03 | CONFIRMED | Review completed; Part 1 synthesis instantiated |
 
-### V02 → V03 frozen prospective state
+### V03 → V04 frozen prospective state
 
-These entries are frozen **before V03 is opened**.
+These entries are frozen **before V04 is opened**.
 
 | Entering boundary | Question / prediction | Confidence | Basis at entering boundary | Tested by | Outcome | Historical note |
 |---|---|---:|---|---|---|---|
-| V02 | V02-P01 — Guild Master/Frieda household will attempt to use remaining magical-tool capacity on Myne's present crisis | high | Benno emergency plan and prior negotiation | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P02 — Available intervention will be temporary rather than a definitive cure | high | Frieda history; depleted tool; reported limited extension | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P03 — Earnings/product knowledge will increasingly function as survival capital, not only book-production capital | high | Benno survival-capital framing | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P04 — Frieda will become a significant `身食い`/wealth/noble-access comparison and information node | medium-high | shared condition and Guild Master resources | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P05 — Lutz's merchant route will require concrete family resolution before ordinary apprenticeship/baptism progression | high | unresolved parental opposition | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P06 — Lutz will retain privileged knowledge of Urano identity; equivalent immediate family disclosure is not expected | medium-high | V02 confrontation and family normalization | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P07 — Spring paper scaling will require more formal labor/tooling/market organization and strategic disclosure control | high | winter limits, financing, guild rivalry | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P08 — Hair ornaments will move toward a broader market with imitation/competition pressure | high | pre-launch demand and rush production | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P09 — Noble-only magic doctrine versus commoner `身食い` will require a more precise model | medium | V02 contradictory testimony | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P10 — Merchant survival will depend increasingly on contract, etiquette, legal, and institutional literacy rather than invention alone | high | contract magic and guild registration | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P11 — Stronger desire to live will reduce voluntary surrender risk, but worsening symptoms can still overwhelm agency | medium-high | explicit attachment plus final collapse | V03 or later | OPEN | Frozen at V02 |
-| V02 | V02-P12 — V03 closes Part 1 and requires the first mandatory architecture/promotion review after its freeze | certain process state | governing architecture | V03 | OPEN | Process obligation frozen at V02 |
+| V03 | V03-P01 — Myne will begin temple service under negotiated blue-robed/commuting conditions, but actual treatment will not equal ordinary noble equality | high | leverage-based exception and class hostility | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P02 — Priest Chief will become a major regulator/teacher/gatekeeper | high | operational authority, mana knowledge, successful restraint/negotiation | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P03 — Temple Head hostility will remain a concrete danger despite settlement | high | attempted seizure and near-lethal confrontation | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P04 — Attendants/gray clergy/orphanage structures will force Myne to confront temple hierarchy and labor relations | high | blue-robed attendant expectation + gray/orphan structure | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P05 — Myne's mana contribution will link survival access to temple/public agricultural obligations | high | mana shortage, sacred tools, spring ritual | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P06 — Workshop/business continuity will require active coordination around temple schedules and institutional boundaries | high | negotiated workshop exception + new role | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P07 — Myne/Lutz continuity will persist through workshop/contract linkage even if ordinary daily work diverges | medium-high | magical sales-right contract + mutual creation commitment | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P08 — Temple literacy/library access will expose new doctrine/institutional knowledge requiring continued belief-vs-world separation | high | library motive + baptism/temple doctrine | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P09 — Strong/increasing mana and imperfect emotional control will remain a risk while ordinary frailty remains analytically separate | high | Frieda comparison + `威圧` | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P10 — Temple/noble investigation of Myne's origin, wealth, products, and network will increase | high | Gustav receives temple financial/workshop inquiry | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P11 — Paper/ornament/food innovations will continue diffusing through institutions without requiring Myne's direct manual production | medium-high | adult workshop, rights sales, professional reconstruction | V04 or later | OPEN | Frozen at V03 |
+| V03 | V03-P12 — Lutz merchant acculturation will continue independently, with etiquette/document/customer gaps narrowing through practice | high | first apprentice day and explicit training structure | V04 or later | OPEN | Frozen at V03 |
 
 ## 10. Dedicated-ledger split rule
 
@@ -255,7 +307,7 @@ Likely—but not guaranteed—future splits include character/state, relationshi
 
 Do not split for cosmetic symmetry or because another series uses that ledger.
 
-At the V02 boundary, **no split is yet warranted**. Candidate promotions—Myne, Lutz, Myne/Lutz, `身食い`/magic-class access, and knowledge/production—must be reconsidered at the mandatory V03 Part 1 boundary review.
+At the V03 Part 1 boundary, **no master-ledger split is yet required**. The checkpoint instead records evidence-earned future responsibilities for Myne, Lutz, Myne/Lutz, mana/`身食い`/class access, and knowledge/production/commerce. Reassess ledger density at V07 or earlier if Part 2 creates independent revision cadence or material retrieval loss.
 
 ## 11. Part-boundary reconciliation
 
@@ -269,7 +321,22 @@ At V03, V07, V12, V21, and V33:
 6. identify specialist responsibilities that have become warranted;
 7. record any required architecture amendment in `../CURRENT_STATE_AND_CORPUS_MAP.md`.
 
-The first mandatory review occurs **after V03**. V02 has not exposed a material representation gap requiring an early split.
+### V03 / Part 1 review — COMPLETE
+
+Results:
+
+- `../05 Specialist Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md` instantiated as the integrated V01-V03 checkpoint;
+- Myne character monograph — **WARRANTED_NOT_INSTANTIATED**;
+- Lutz character monograph — **WARRANTED_NOT_INSTANTIATED**;
+- Myne/Lutz relationship synthesis — **WARRANTED_NOT_INSTANTIATED**;
+- mana / `身食い` / class access / temple-noble infrastructure specialist — **WARRANTED_NOT_INSTANTIATED**;
+- knowledge transfer / production / commerce / institutional diffusion specialist — **WARRANTED_NOT_INSTANTIATED**;
+- Benno and Frieda character monographs — **MONITOR**;
+- master-ledger split — **DEFER**;
+- evidence/index promotion — **DEFER**;
+- next mandatory review — **V07 after Part 2**.
+
+No global character registry enrollment is performed by this analytical authoring session.
 
 ## 12. Freeze and mutability behavior
 
