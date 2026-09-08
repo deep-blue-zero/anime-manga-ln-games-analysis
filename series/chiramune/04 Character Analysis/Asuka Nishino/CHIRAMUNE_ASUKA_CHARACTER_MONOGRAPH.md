@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
-generation: V0.6
+scope: ASUKA_NISHINO_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -366,4 +366,39 @@ Asuka's father supplies clumsy handmade food, shares his own dreams, arranges th
 - whether Tokyo preparation produces concrete housing, transport, work, or communication choices;
 - whether family support remains practical without becoming destination control;
 - whether local and metropolitan editorial practices receive continuing, nonbinary comparison;
+- direct reciprocal evidence only before any selection or couple claim.
+
+# V07 longitudinal revision
+
+## The riverbank reveals reliance beneath her non-possessive ideal
+
+Saku knows the Asuwa riverbank carries a special two-person history but brings Momiji there for dance practice. Momiji asks to share the place; Asuka panics, shouts at both, and flees while recognizing the jealousy as disproportionate `[V07:part0020#p0162-p0418]`.
+
+The response does not grant ownership over public space or Saku. It does reveal that Asuka's finite-time intimacy depends on a repeated place more strongly than her self-image as freely departing moon had admitted.
+
+## Apology restores work without proving complete repair
+
+Asuka approaches Saku and Momiji the next day, and all three apologize before resuming cheer work `[V07:part0022#p0096-p0124]`. She accepts responsibility rather than moralizing the outburst as proof of love. The source does not show a fuller direct conversation about boundaries or Momiji's concealed purpose.
+
+## Friendship with Yua converts parallel care into direct relation
+
+Asuka and Yua recognize that each was beside Saku during a different crisis. They exchange gratitude, admit envy of the other's place, shift to closer address, and explicitly choose friendship `[V07:part0019#p0075-p0157]`.
+
+This is a significant enacted extension of Asuka's V06.5 listening ethic. She does not interpret Yua from above; both supply their own histories and requests.
+
+## Tokyo direction persists without practical execution
+
+Asuka enters cheer practice, learns alongside Saku and Haru, and becomes more embedded in the group's ordinary second term. Her chosen Tokyo horizon remains emotionally causal, but V07 supplies no housing, transport, editorial-placement, or communication plan.
+
+## Post-V07 current model
+
+> **V07 brings Asuka's finite-time ideal into conflict with an unacknowledged reliance on exclusive-feeling place. Her riverbank outburst is harmful and does not create ownership; her voluntary apology and new friendship with Yua show a capacity to re-enter relation without claiming moral superiority. She practices reciprocal listening more successfully with Yua than in the panic scene. Saku now includes Asuka among five equal romantic pains, but Tokyo remains a direction without logistics and no couple or selection forms.**
+
+## V08 watchlist
+
+- whether Asuka and Momiji discuss the riverbank conflict directly after Momiji's purpose is known;
+- whether Asuka can request finite company without relying on a place to guarantee uniqueness;
+- whether listening remains reciprocal under romantic rather than vocational pressure;
+- whether Tokyo gains concrete housing, transport, study, work, or communication planning;
+- whether Yua friendship becomes repeated practice independent of Saku;
 - direct reciprocal evidence only before any selection or couple claim.

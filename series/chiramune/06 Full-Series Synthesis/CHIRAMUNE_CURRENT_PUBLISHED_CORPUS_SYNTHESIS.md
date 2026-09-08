@@ -1,14 +1,14 @@
 ---
 series: CHIRAMUNE
 artifact_type: current_published_corpus_synthesis
-scope: ANALYZED_JAPANESE_LIGHT_NOVEL_CORPUS_THROUGH_VOLUME_06_5
-source_boundary: "Japanese main Volumes 01-06 prospectively frozen; V03 in-EPUB birthday bonus integrated as BONUS_FICTION; separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
+scope: ANALYZED_JAPANESE_LIGHT_NOVEL_CORPUS_THROUGH_VOLUME_07
+source_boundary: "Japanese main Volumes 01-07 prospectively frozen; V03 in-EPUB birthday bonus integrated as BONUS_FICTION; separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
 latest_publication_horizon: V09.5
 latest_acquired_main: V09
 latest_acquired_supplemental: V09.5
-latest_analyzed_main: V06
+latest_analyzed_main: V07
 latest_analyzed_supplemental: V06_5_FOUR_STORY_VOLUME
-generation: V0.5
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -16,15 +16,15 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Chiramune current published-corpus synthesis — through V06.5
+# Chiramune current published-corpus synthesis — through V07
 
 ## Purpose, authority, and limit
 
-This is the analyzed-to-date integrator for the Japanese *Chitose Is in the Ramune Bottle* light-novel corpus. It routes a multi-document portfolio: V01–V06 main readings and freezes, separate V03/V05/V06.5 supplemental checkpoints, five longitudinal ledgers, six warranted character monographs, the Fukui/locality specialist synthesis, and safely integrated bonus material.
+This is the analyzed-to-date integrator for the Japanese *Chitose Is in the Ramune Bottle* light-novel corpus. It routes a multi-document portfolio: V01–V07 main readings and freezes, separate V03/V05/V06.5 supplemental checkpoints, five longitudinal ledgers, seven warranted character monographs, the Fukui/locality specialist synthesis, and safely integrated bonus material.
 
 It does not replace those documents' evidence or their source-bound historical states. The exact route begins at `../CURRENT_STATE_AND_CORPUS_MAP.md`; source identity lives in `../01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md`; claim transitions live in `../03 Longitudinal Ledgers/CHIRAMUNE_REVISION_LEDGER.md`.
 
-This synthesis is not terminal. V07–V09, V06.5, *Days of Endless Summer*, the V08 rough-illustration supplement, and V09.5 remain unanalyzed. Chiramune remains an open publication corpus at the current audit horizon.
+This synthesis is not terminal. V08–V09, *Days of Endless Summer*, the V08 rough-illustration supplement, and V09.5 remain unanalyzed. Chiramune remains an open publication corpus at the current audit horizon.
 
 ## Current central synthesis
 
@@ -43,6 +43,12 @@ V06 then revises the V05 aftermath model:
 > **Responsibility does not include authority to decide which uncertainty, jealousy, refusal, or continued relation another person may bear. Repair begins when mixed motives become shareable, each participant recovers jurisdiction over their own desire, and continued connection becomes a renewed choice rather than an unchanged default.**
 
 Saku discloses plural attachment rather than one identified beloved. Yuko and Yua reject self-erasure without denying friendship. The group reconnects, but explicit changes in distance and knowledge prevent a reset reading.
+
+V07 then reveals that the repaired continuity is both genuine care and a coordinated moratorium:
+
+> **Repeated places and practices can carry real emotional reliance without creating ownership over a person or authority to exclude a new claimant. Legitimate pursuit likewise does not erase responsibility for purpose disclosure, foreseeable harm, and repair.**
+
+Momiji enters through the safe social category of junior, obtains permission to bounded acts, and deliberately leaves her romantic and destabilizing purpose undisclosed. Asuka, Haru, and Yua react when riverbank, catch, and kitchen/chair practices are threatened; each remains responsible for harm even though the reliance is real. Saku directly names equal romantic pain toward Yuko, Yua, Yuzuki, Haru, and Asuka, strengthening the romantic category without selecting one. Yuzuki converts Momiji's challenge into a peak athletic release and a private resolve to seek real relation. No couple forms.
 
 ## I. Developmental sequence
 
@@ -90,13 +96,25 @@ Yuko's public confession is re-read as mixed: intended to release others from he
 
 Kaito directly confesses and accepts Yuko's refusal, replacing delegated sacrifice with answerable desire. The full group resumes festival practice through apology and renewed contact, while altered gaze, spacing, and voice mark a new topology rather than restored innocence. See the [V06 deep reading](../02%20Sequential%20Readings/CHIRAMUNE_V06_DEEP_READING.md) and [V06 freeze](../02%20Sequential%20Readings/CHIRAMUNE_V06_PROSPECTIVE_FREEZE.md).
 
+### V06.5 — differentiated futures and material reciprocity
+
+Four late-August components separately develop Yuzuki, Yuko, Asuka, Yua, and Haru after the V06 festival without asserting an exact cross-story order. Yua's direct date and dedicated chair create the strongest material reciprocity; Asuka's editorial failure corrects fluency into listening; Haru integrates romance into a wider athletic route; Yuzuki requests a new shared practice; and female friendship gains explicit future horizons. No act creates selection or a couple. See the [V06.5 supplemental checkpoint](../02%20Sequential%20Readings/CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md).
+
+### V07 — informal boundaries, accountable entry, and released capacity
+
+The school festival turns second-term institutions into a field of roles, labor, and access. Momiji uses sincere but strategically selected juniorhood to enter the dance, riverbank, catch, and kitchen practices that the older women had informally differentiated. Her standing to pursue Saku is real; so are the information asymmetry and accepted harm in her method.
+
+Asuka, Haru, and Yua each panic when a repeated practice no longer guarantees uniqueness. Their histories explain but do not excuse harm. Haru performs the clearest enacted repair by apologizing and playing catch with Momiji; Asuka joins mutual apology; Yua supplies messages and lunches without a complete direct repair conversation.
+
+Yua and Yuzuki transmit domestic memory through recipe-sharing, while Yua and Asuka establish explicit friendship through gratitude and envy. Yuzuki rejects unused athletic reserve, wins one authorized peak-state 30-point practice contest against Mai, and privately resolves to replace indefinite fake relation with a real bid. Saku recognizes five equal romantic pains but neither chooses nor originates help seeking. See the [V07 deep reading](../02%20Sequential%20Readings/CHIRAMUNE_V07_DEEP_READING.md) and [V07 entering freeze](../02%20Sequential%20Readings/CHIRAMUNE_V07_PROSPECTIVE_FREEZE.md).
+
 ## II. Current thematic architecture
 
 ### Self-authorship is retained revision capacity under consequence
 
 No major self is origin-pure. Saku's hero form responds to praise and entitlement. Yuzuki's interface responds to visibility. Asuka turns imitation into practice. Haru makes heat into an ethic. Yuko turns correction into a romantic origin. Yua builds care through repeated domestic obligation.
 
-V05 shows that a form may be sincere and still need to end. V06 shows that a truthful account need not contain one purified motive. Yuko's confession, Yua's mediation, and Saku's refusal each combine care, self-interest, fear, and responsibility. Authenticity lies in making those combinations answerable. See the [self-authorship ledger](../03%20Longitudinal%20Ledgers/CHIRAMUNE_SELF_AUTHORSHIP_PERFORMANCE_AND_AUTHENTICITY_LEDGER.md).
+V05 shows that a form may be sincere and still need to end. V06 shows that a truthful account need not contain one purified motive. V07 shows that sincerity does not exhaust the ethics of a role: Momiji's juniorhood is both genuine relation and an instrument for access, while the older women's protected practices are authentic but brittle when asked to guarantee uniqueness. Authenticity lies in keeping chosen forms revisable and answerable for what they conceal or demand. See the [self-authorship ledger](../03%20Longitudinal%20Ledgers/CHIRAMUNE_SELF_AUTHORSHIP_PERFORMANCE_AND_AUTHENTICITY_LEDGER.md).
 
 ### Care requires standing, method, consequence, and aftermath
 
@@ -107,13 +125,13 @@ The four-part intervention test remains:
 3. authority over method and information;
 4. ownership of ordinary consequences.
 
-V05 adds aftermath. V06 adds burden jurisdiction: a legitimate refusal can cause pain without romantic debt, and the refuser cannot decide that another person is forbidden to wait, remain, or carry uncertainty. Yua supplies both non-extractive presence and a direct demand that Saku share what he withholds. See the [agency ledger](../03%20Longitudinal%20Ledgers/CHIRAMUNE_AGENCY_INTERVENTION_AND_RESPONSIBILITY_LEDGER.md).
+V05 adds aftermath. V06 adds burden jurisdiction: a legitimate refusal can cause pain without romantic debt, and the refuser cannot decide that another person is forbidden to wait, remain, or carry uncertainty. V07 adds purpose transparency and reliance limits. Permission to a concrete act does not automatically authorize a concealed larger project; long history explains threatened reactions without creating ownership or excusing harm. See the [agency ledger](../03%20Longitudinal%20Ledgers/CHIRAMUNE_AGENCY_INTERVENTION_AND_RESPONSIBILITY_LEDGER.md).
 
 ### Status is a network of permissions and distances
 
 Beauty, popularity, competence, captaincy, and intimacy affect who may propose, refuse, intrude, or be believed. Yuko's first-year nomination shows that high status can coerce without intention. Her own experience shows that the same status can deprive its holder of ordinary opposition.
 
-The group has independent ties, but Saku remains a romantic scarcity center. V05 creates a split; V06 first distributes survival across dyads and then reconnects the network. Yua, Kenta, Yuzuki, Haru, Asuka, and Kazuki carry distinct repair functions, reducing Saku's organizing monopoly. See the [social-status and group ledger](../03%20Longitudinal%20Ledgers/CHIRAMUNE_SOCIAL_STATUS_INCLUSION_AND_GROUP_DYNAMICS_LEDGER.md).
+The group has independent ties, but Saku remains a romantic scarcity center. V05 creates a split; V06 first distributes survival across dyads and then reconnects the network. V07 shows that year rank and perceived junior innocence allocate access before desire is publicly named. The group's courtesy is both mutual care and an informal moratorium, while Yua/Yuzuki knowledge transfer and Yua/Asuka friendship continue expanding the network beyond Saku's organizing authority. See the [social-status and group ledger](../03%20Longitudinal%20Ledgers/CHIRAMUNE_SOCIAL_STATUS_INCLUSION_AND_GROUP_DYNAMICS_LEDGER.md).
 
 ### Recognition must coexist with refusal
 
@@ -129,11 +147,11 @@ Yuko, Yuzuki, and Haru demonstrate three different direct forms:
 - a finite present request with explicit bodily and relational limits;
 - a future challenge protocol that owns unfinished work and refuses to demand waiting.
 
-Directness is ethically valuable when it makes scope and answerability legible. It is not automatically private, low-pressure, or successful.
+Directness is ethically valuable when it makes scope and answerability legible. It is not automatically private, low-pressure, or successful. Momiji sharpens the negative case: repeated concrete requests can be literally direct while the patterned purpose remains strategically undisclosed.
 
 ### Self-punishment is not accountability, and withholding is not always protection
 
-Saku's V04 injury logic becomes explicit moral punishment in V05. V06 rejects it directly and uses symmetry to show why it fails: he wants Yuko supported after refusal, so he cannot coherently condemn himself for receiving support. He also learns that deciding which burdens others may carry can convert protection into control.
+Saku's V04 injury logic becomes explicit moral punishment in V05. V06 rejects it directly and uses symmetry to show why it fails: he wants Yuko supported after refusal, so he cannot coherently condemn himself for receiving support. He also learns that deciding which burdens others may carry can convert protection into control. V07 improves candor only after others detect strain; self-originated support seeking remains absent.
 
 ### Finite form preserves relation without stopping change
 
@@ -143,52 +161,60 @@ The developing material grammar includes Ramune, photographs, food, clothing, ke
 
 ### Saku Chitose
 
-Saku is a genuinely capable, caring self-author whose defensive perfection protects against entitlement. V06.5 moves relational participation into ordinary material practice: he gives Asuka disclosure space, tells Yua's father he wants to face her honestly through possible hurt, and creates a dedicated kitchen chair after independently noticing Yua's labor. He can describe his emptiness when asked but still does not originate support or name one romantic choice. See the [Saku monograph](../04%20Character%20Analysis/Saku%20Chitose/CHIRAMUNE_SAKU_CHARACTER_MONOGRAPH.md).
+Saku is a genuinely capable, caring self-author whose defensive perfection protects against entitlement. V07 gives him direct recognition that imagined futures for Yuko, Yua, Yuzuki, Haru, and Asuka each cause equal romantic pain. He also recognizes his safe-senior smile as postponement and behaviorally preserves Yua's chair. These gains neither select one beloved nor make him originate support seeking. See the [Saku monograph](../04%20Character%20Analysis/Saku%20Chitose/CHIRAMUNE_SAKU_CHARACTER_MONOGRAPH.md).
 
 ### Yuzuki Nanase
 
-Yuzuki is an authored social optimizer whose performance carries rather than negates vulnerability. V06.5 expands her selectable range through visible femininity, a real question about basketball as lifelong vocation, and a direct request that Saku cook something new. Her ten-year Kanazawa promise with Yuko and Nazuna gives female friendship an independent future; neither appearance nor the shared-practice bid is a romantic answer. See the [Yuzuki monograph](../04%20Character%20Analysis/Yuzuki%20Nanase/CHIRAMUNE_YUZUKI_CHARACTER_MONOGRAPH.md).
+Yuzuki is an authored social optimizer whose performance carries rather than negates vulnerability. In V07 her new-meal request is fulfilled, she transmits a valued recipe to Yua, and her ethically interested confrontation with Momiji exposes the refuge of unused capacity. One authorized peak-state win over Mai and a private resolve to seek real rather than fake relation materially advance her without proving stable rank, vocation, confession, or couple. See the [Yuzuki monograph](../04%20Character%20Analysis/Yuzuki%20Nanase/CHIRAMUNE_YUZUKI_CHARACTER_MONOGRAPH.md).
 
 ### Asuka Nishino
 
-Asuka is a relational self-author who turns learned freedom into practice and chooses an editorial future through inquiry. V06.5 gives her first vocation-specific failure: fluent preparation overwrites an interviewee, and local editors teach her to pair conviction with silence and dissatisfaction. She accepts correction while retaining Tokyo, receives practical support from her father, and shares future-facing intimacy with Saku without selection. See the [Asuka monograph](../04%20Character%20Analysis/Asuka%20Nishino/CHIRAMUNE_ASUKA_CHARACTER_MONOGRAPH.md).
+Asuka is a relational self-author who turns learned freedom into practice and chooses an editorial future through inquiry. V07 exposes threatened reliance beneath her non-possessive ideal when Momiji enters the riverbank; Asuka owns the outburst and returns through apology. Her explicit friendship with Yua better enacts reciprocal listening. Tokyo remains chosen but not operationally planned, and Saku's five-person romantic recognition does not select her. See the [Asuka monograph](../04%20Character%20Analysis/Asuka%20Nishino/CHIRAMUNE_ASUKA_CHARACTER_MONOGRAPH.md).
 
 ### Haru Aomi
 
-Haru is a high-temperature self-author whose directness can return or overrun jurisdiction. V06.5 makes elite basketball's costs concrete, then rejects the demand that romance be purified away. A Mai-initiated call from Saku catalyzes rather than authors her recovery; Haru expands her game through prior practice, adaptation, and an intergenerational women's athletic network. Her promised challenge and life-course choice remain open. See the [Haru monograph](../04%20Character%20Analysis/Haru%20Aomi/CHIRAMUNE_HARU_CHARACTER_MONOGRAPH.md).
+Haru is a high-temperature self-author whose directness can return or overrun jurisdiction. V07 reveals that partner language had become an assumed guarantee: she hurts Momiji when comparable baseball access threatens it, then performs the volume's clearest enacted repair through apology and inclusive catch. Yuzuki's athletic release creates a second primacy shock. Haru's promised challenge, partnership renegotiation, and elite future remain open. See the [Haru monograph](../04%20Character%20Analysis/Haru%20Aomi/CHIRAMUNE_HARU_CHARACTER_MONOGRAPH.md).
 
 ### Yuko Hiiragi
 
-Yuko's social radiance both empowers and encloses. V06.5 lets an actual refusal end one attempt without ending love or ordinary relation. She owns the fear that another girl might receive a different answer, then originates low-pressure reconnection with both Saku and Kaito. Her Kanazawa bond with Yuzuki and Nazuna gains a future horizon independent of romantic outcome. See the [Yuko monograph](../04%20Character%20Analysis/Yuko%20Hiiragi/CHIRAMUNE_YUKO_CHARACTER_MONOGRAPH.md).
+Yuko's social radiance both empowers and encloses. V07 lets her change appearance without making it a plea for deservingness, praise Momiji's dance while naming her own desire, and ask Saku for more time. Saku privately shares that wish and includes her among five romantic pains. His second refusal still governs, so recognition neither restores suspended promise nor creates a couple. See the [Yuko monograph](../04%20Character%20Analysis/Yuko%20Hiiragi/CHIRAMUNE_YUKO_CHARACTER_MONOGRAPH.md).
 
 ### Yua Uchida
 
-Yua's gentleness is a method for preserving face and agency, while social modeling, food, shopping, music, and improvisation show exact ordinary expertise. In V06.5, requested selfishness becomes a direct date; she exposes domestic contingency and rejects making family damage into Saku's duty. Saku's differentiated acceptance, honest-relation commitment, and `優空用` chair are the corpus's strongest new material reciprocity, but he does not romantically select her. See the [Yua monograph](../04%20Character%20Analysis/Yua%20Uchida/CHIRAMUNE_YUA_CHARACTER_MONOGRAPH.md).
+Yua's gentleness is a method for preserving face and agency, while social modeling, food, shopping, music, and improvisation show exact ordinary expertise. V07 confirms the `優空用` chair as behaviorally reserved, then shows the risk of making it guarantee her whole romantic identity. Comparable domestic competence triggers harm and partial repair. Recipe transfer with Yuzuki and explicit friendship with Asuka expand her beyond domestic maintainer; Saku still does not select her. See the [Yua monograph](../04%20Character%20Analysis/Yua%20Uchida/CHIRAMUNE_YUA_CHARACTER_MONOGRAPH.md).
 
-Kenta, Kazuki, Kaito, Nazuna, Atomu, Yusuke, the coaches, and family members remain recoverable through readings and ledgers until independent responsibility is earned.
+### Nozomi Momiji
+
+Momiji is a high-agency first-year sprinter whose sincere admiration, chosen junior relation, and romantic competition coexist. She asks permission for each local act while strategically preserving the innocent-junior category that keeps her larger purpose undisclosed. Her critique of the group's stasis is incisive and interested; her willingness to accept hatred does not legitimate avoidable harm. The postposed prologue makes becoming her own hero a self-authorship claim, not proof of ethical correctness or Saku's reciprocity. See the [Momiji monograph](../04%20Character%20Analysis/Momiji%20Nozomi/CHIRAMUNE_MOMIJI_CHARACTER_MONOGRAPH.md).
+
+Kenta, Kazuki, Kaito, Nazuna, Atomu, Yusuke, Mai, the coaches, and family members remain recoverable through readings and ledgers until independent responsibility is earned.
 
 ## IV. Relationship state
 
 The current model is directional and explicitly non-symmetrical:
 
-- **Saku ↔ Yuko:** mutual gendered importance, Yuko's retained love, Saku's second refusal still governing, renewed ordinary contact, no promise or couple;
-- **Saku ↔ Yua:** familylike domestic history, explicit date framing, commitment to honest continued relation through possible hurt, a recipient-specific kitchen chair anticipating repeated presence, no Saku romantic selection;
-- **Saku ↔ Haru:** reciprocal athletic partnership, direct Haru love, Mai-initiated support call, an intentionally ambiguous verbal stumble, agreed future challenge still open;
-- **Saku ↔ Yuzuki:** named Yuzuki love, sauce-katsudon care, Saku attraction/jealousy, and a new shared-cooking request, no couple;
-- **Saku ↔ Asuka:** named Asuka love, heart-level confrontation, vocation-day space and disclosure, future-facing story language, no exclusivity;
+- **Saku ↔ Yuko:** retained Yuko love, renewed gendered attention, mutual desire for more time, Saku-side romantic-pain recognition, second refusal still governing, no promise or couple;
+- **Saku ↔ Yua:** familylike domestic history, direct date, behaviorally reserved chair/place, threatened-specialness crisis and partial repair, Saku-side romantic-pain recognition, no exclusive person or couple;
+- **Saku ↔ Haru:** reciprocal athletic partnership, direct Haru love, contingent-uniqueness crisis, repaired inclusion of Momiji, Saku-side romantic-pain recognition, agreed future challenge still open;
+- **Saku ↔ Yuzuki:** fulfilled new-dish request, intimate dance, vice-captain partnership, Yuzuki's private resolve for real relation, Saku-side romantic-pain recognition, no heard confession or couple;
+- **Saku ↔ Asuka:** finite-time intimacy, riverbank conflict and apology, new group/friendship participation, Saku-side romantic-pain recognition, no departure logistics or couple;
+- **Saku ↔ Momiji:** junior trust and familiarity from Saku, admiration and strategic romantic pursuit from Momiji, incomplete purpose disclosure, no Saku romantic reciprocity or couple;
 - **Yuko ↔ Yua:** independently primary friendship, first direct fight, admitted non-primacy, enacted repair;
-- **Yuko ↔ Yuzuki/Haru/Nazuna:** independent friendship and care under explicit romantic difference; Yuko/Yuzuki/Nazuna now hold a ten-year Kanazawa horizon;
-- **Yuzuki ↔ Haru:** independently primary first-year partnership, reciprocal formation, fair-contest norm, later romantic rivalry continuous with friendship;
+- **Yuko ↔ Yuzuki/Haru/Nazuna:** independent friendship and care under explicit romantic difference; Yuko/Yuzuki/Nazuna hold a ten-year Kanazawa horizon;
+- **Yua ↔ Yuzuki:** attributed domestic memory transmitted through recipe-sharing without surrender or rank;
+- **Yua ↔ Asuka:** reciprocal historical gratitude, admitted envy, closer address, and explicit new friendship;
+- **Yuzuki ↔ Haru:** independently primary partnership, reciprocal formation, romantic rivalry, and a newly destabilized assumption of Haru's athletic primacy;
+- **Momiji ↔ five heroines:** genuine admiration, refused circle membership, romantic competition, inflicted and received hurt, no rightful exclusion, and incomplete integration;
 - **Yuko ↔ Kaito:** Kaito's confession, explicit Yuko refusal, and Yuko-originated intention to renew deep friendship without substitution;
 - **Saku ↔ Kaito:** assault remains wrong; apology and contact are renewed in changed form;
 - **Saku ↔ Kazuki/Kenta:** rival shame becomes discussable; Kenta's returned lesson catalyzes Saku's action;
-- **friend group:** enacted repair and resumed practice inside a changed topology.
+- **friend group:** routine second-term continuity whose courtesy is both care and a romantic moratorium exposed by contested access.
 
-No exclusive couple is established. V06.5 differentiates trajectories and gives Yua the strongest new material reciprocity, but it neither identifies one singular beloved nor changes unresolved romantic naming into selection. See the [relationship ledger](../03%20Longitudinal%20Ledgers/CHIRAMUNE_RELATIONSHIP_RECOGNITION_AND_INTIMACY_LEDGER.md).
+No exclusive couple is established. V07 gives direct Saku-side romantic classification to five women without rank or selection; Momiji is a sixth claimant from her perspective but remains outside that enumeration. Object/place reservation and repeated practices are not person-level exclusivity. See the [relationship ledger](../03%20Longitudinal%20Ledgers/CHIRAMUNE_RELATIONSHIP_RECOGNITION_AND_INTIMACY_LEDGER.md).
 
 ## V. Locality, departure, and ordinary youth
 
-V05 crosses the specialist threshold for Fukui locality. Through V06.5, landscapes, trains, stores, food, household economy, publishing and athletic institutions, family routes, festivals, speech, and seasonal memory shape what characters can do and imagine. Kanazawa supplies near-away experimentation; `URALA` and `HOSHIDO` make local editorial practice substantial enough to sharpen Asuka's Tokyo choice; markets expose domestic labor; and Fujishi's gym carries a women's athletic lineage. Tokyo and Fukui remain rival bundles of goods and costs, not freedom and repression symbols.
+V05 crosses the specialist threshold for Fukui locality. Through V07, landscapes, trains, stores, food, household economy, publishing and athletic institutions, family routes, festivals, speech, and seasonal memory shape what characters can do and imagine. V07 adds school-festival schedules, vertical teams, familiar retail/food routes, and contested reliance on riverbank, park, home, kitchen, and chair. Repeated access makes places meaningful without creating ownership. Tokyo and Fukui remain rival bundles of goods and costs, not freedom and repression symbols.
 
 The mature responsibility now lives in the [Fukui locality specialist synthesis](../05%20Specialist%20Synthesis/CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md). The key current result is that place becomes enabling when its practices remain usable without pre-authoring the whole future; memory permits return without exact restoration.
 
@@ -208,7 +234,7 @@ The title complex now includes:
 - held and layered hands, handshake, seasonal fire, and sparklers as revisable connection;
 - souvenirs, an unsent letter, a dedicated chair, learned passes, and expanded shooting range as future relation without guaranteed outcome.
 
-No one function supersedes the others. V06 moves the bottle from group count to circulation through dyadic, triadic, and collective festival contact; V06.5 extends the finite-object grammar into future-facing practices without supplying terminal meaning.
+No one function supersedes the others. V06 moves the bottle from group count to circulation through dyadic, triadic, and collective festival contact; V06.5 extends the finite-object grammar into future-facing practices without supplying terminal meaning. V07's chair, glove, food, costume, and rain make ordinary objects and weather contested carriers of reliance, while the Ramune-holding cover positions Momiji at the threshold without supplying reciprocity.
 
 ## VII. Counterevidence and unresolved tensions
 
@@ -222,7 +248,15 @@ Yua's maintenance is powerful precisely because it is repeatable and non-spectac
 
 ### Direct bids remain below reciprocal commitment
 
-Haru and Yuzuki make better-bounded claims; Asuka demands emotional access; Yua names priority and specialness; Yuko retains love. Saku values several girls as girls but has not supplied reciprocal romantic naming to any one of them.
+Haru and Yuzuki make better-bounded claims; Asuka demands emotional access; Yua names priority and specialness; Yuko retains love. V07 lets Saku call five possible losses love, but equal romantic pain still does not supply positive selection or reciprocal commitment.
+
+### Permission can coexist with purpose asymmetry
+
+Momiji requests and receives each concrete act, so she is not simply a coercive intruder. She also relies on a junior interpretation that conceals the romantic and destabilizing pattern. The five older women have no ownership right that defeats her pursuit; she has no exemption from transparency and harm responsibility.
+
+### Reliance is real below ownership
+
+Asuka's riverbank, Haru's catch, and Yua's kitchen/chair are repeated practices that carry identity and expectation. Their distress is not fictional merely because they lack romantic title. Their outbursts still remain accountable, and none may convert reliance into jurisdiction over Saku or shared practices.
 
 ### Friendship between rivals is real and burdened
 
@@ -234,11 +268,11 @@ Reported wins do not establish that Haru's team has repaired hidden governance, 
 
 ## VIII. Multi-document portfolio state
 
-At the V06.5 checkpoint the portfolio contains:
+At the V07 checkpoint the portfolio contains:
 
-- source-bound main reading/freeze artifacts through V06 plus separate V03, V05, and V06.5 supplemental checkpoints;
+- source-bound main reading/freeze artifacts through V07 plus separate V03, V05, and V06.5 supplemental checkpoints;
 - five maintained longitudinal ledgers;
-- six active-provisional character monographs;
+- seven active-provisional character monographs, including Momiji's newly promoted independent model;
 - one promoted specialist synthesis for locality/departure/ordinary youth;
 - this mutable analyzed-to-date integrator.
 
@@ -246,7 +280,7 @@ The portfolio remains intentionally distributed. Character, specialist, ledger, 
 
 ## IX. Current hard nonclaims
 
-- V06 does not convert V05's singular wording into one identified beloved; V06.5 differentiates the plural field without selecting within it.
+- V07 directly classifies five imagined losses as romantic pain; it does not identify one beloved, rank the five, include Momiji in Saku's enumeration, or establish a couple.
 - No Saku relationship is an established, conditional, or promised couple.
 - Saku's contingent statement about someday confessing to Yuko is not a promise to choose her.
 - Yua's repair work and desire for specialness do not establish Saku's selection.
@@ -255,6 +289,13 @@ The portfolio remains intentionally distributed. Character, specialist, ledger, 
 - Haru's future protocol and Yuzuki's bounded requests do not manufacture reciprocity.
 - Saku's ambiguous verbal stumble on Haru's call is not a romantic declaration, and Mai—not Haru—initiates that support contact.
 - Yuzuki's request for a new dish is a differentiated shared-practice bid, not a present dating request.
+- Fulfillment of Yuzuki's new-dish request and their private dance do not establish a date or couple.
+- Yuzuki's private decision to pursue real rather than fake relation is not a heard confession or Saku's answer.
+- One authorized 30-point practice win over Mai does not establish permanent regional rank, team superiority, or repeatable peak form.
+- Momiji's legitimate standing to pursue Saku does not make her strategically incomplete purpose disclosure ethically complete.
+- Momiji is a sixth claimant from her perspective, not a sixth equally recognized Saku-side love at the V07 boundary.
+- Asuka's riverbank, Haru's catch, and Yua's chair carry real reliance but no ownership over Saku, public space, sport, or domestic competence.
+- Haru's direct repair does not erase the glove injury; Asuka's apology and Yua's behavioral care do not prove every boundary conflict fully repaired.
 - Saku's honest refusal does not erase his responsibility for cultivated ambiguity.
 - Yuko's pain does not prove personal insufficiency or romantic obligation.
 - Kaito's love does not justify assault or delegate Yuko's happiness.
@@ -274,13 +315,14 @@ The portfolio remains intentionally distributed. Character, specialist, ledger, 
 
 ## X. Next integration tests
 
-The next safe source is the exact locked Volume 07 main EPUB. Preserve the V06 main freeze and the separately frozen V06.5 checkpoint. The live tests are:
+The next safe source is the exact locked Volume 08 special-edition object. Preserve the V07 main freeze and every earlier checkpoint. The live tests are:
 
-1. verify the exact V07 witness before reading and maintain a prospective V07 freeze;
-2. require direct reciprocal evidence before identifying a couple or singular beloved;
-3. test whether Saku originates a support request rather than only answering an opening;
-4. track Haru's promised challenge and Yuzuki's shared-practice bid without importing outcome from prominence;
-5. test whether Yuko's renewed ordinary contact and Yua's directness become durable, non-moratorium practices;
-6. preserve female friendships, editorial institutions, family relations, and athletic lineages as independent responsibilities;
-7. follow baseball, study, editorial work, and elite basketball only through continuing decisions rather than isolated images;
-8. leave all V06/V06.5 frozen epistemic records untouched while updating only cumulative documents.
+1. verify the exact V08 witness and classify its complete main novel separately from the rough-illustration supplement before using either;
+2. freeze the V08 main narrative before admitting supplement-only evidence;
+3. require direct reciprocal evidence before identifying a couple or singular beloved;
+4. test whether Saku's five-person romantic recognition produces timely choice, request, or accountable changed conduct;
+5. test whether Momiji discloses purpose to Saku, changes method, and participates in repair without surrendering autonomous pursuit;
+6. track Yuzuki's private resolve, Haru's challenge, and their athletic partnership without treating peak practice as stable rank;
+7. test whether Yua/Asuka friendship, Yua/Yuzuki recipe transfer, and the three Momiji repair routes become durable practices;
+8. follow baseball, basketball, editing, departure, school labor, and locality only through continuing institutional evidence;
+9. leave all V01–V07 freezes and V03/V05/V06.5 supplemental checkpoints untouched while updating only cumulative documents.

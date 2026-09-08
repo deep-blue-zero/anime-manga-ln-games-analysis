@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
-generation: V0.8
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -391,3 +391,49 @@ The repaired collective now sits inside a larger ecology:
 - whether Yuko/Yuzuki/Nazuna and Haru/Mai relations persist beyond one outing;
 - how school-year, club, family, and future-planning institutions redistribute access and labor;
 - whether Saku can participate without returning to sole organizer or universal interpreter status.
+
+# V07 update — vertical entry exposes an informal boundary system
+
+## V07 entries
+
+| ID | Group event | Source fact | Structural reading | Locator |
+|---|---|---|---|---|
+| SG-074 | school-festival role allocation | class vote assigns Yuko Snow White, Yuzuki queen/witch, Saku prince; Yuzuki becomes blue-team vice-captain and Yuko declines overload | public performance roles and leadership are institutional allocations, not private relationship evidence; visible labor is redistributed by capacity | `[V07:part0008#p0392-p0603]`, `[V07:part0008#p1381-p1519]` |
+| SG-075 | first-year demand for blue-team places | Momiji joins as representative after first-years respond to the conspicuous second-years' participation | the central group's status changes access and competition even without an explicit exclusion rule | `[V07:part0009#p0073-p0093]`, `[V07:part0009#p0841-p0904]` |
+| SG-076 | Momiji's junior category | Saku treats a first-year partner as safe because she appears outside the romantic contest | year rank becomes an informal permission technology; junior innocence grants proximity that an announced sixth claimant would likely lose | `[V07:part0011#p0022-p0039]`, `[V07:part0026#p0286-p0316]` |
+| SG-077 | four heroine pause accounts | Haru, Yua, Asuka, and Yuzuki each know what delay protects in her own relation | the repaired group's courtesy is mutual care and a collective moratorium, not ignorance of romantic scarcity | `[V07:part0008#p0675-p1073]` |
+| SG-078 | three threatened-role crises | Asuka, Haru, and Yua react when Momiji enters riverbank, catch, and kitchen/chair practices | informal boundaries are behaviorally real yet lack a legitimate exclusion office; panic reveals reliance while producing accountable harm | `[V07:part0020#p0162-p0418]`, `[V07:part0022#p0225-p0467]`, `[V07:part0024#p0494-p0590]` |
+| SG-079 | Yua/Yuzuki recipe transfer | Yua asks to preserve rather than overwrite Yuzuki's katsudon memory, and Yuzuki teaches her | care knowledge can circulate between rivals while provenance and differentiated history remain recognized | `[V07:part0015#p0501-p0539]`, `[V07:part0017#p0001-p0025]` |
+| SG-080 | Yua/Asuka friendship | they exchange gratitude and envy across distinct periods beside Saku, move to given-name address, and explicitly choose friendship | the women's network adds a new independently meaningful dyad under rather than after romantic conflict | `[V07:part0019#p0075-p0157]` |
+| SG-081 | Yuzuki/Momiji confrontation | Momiji refuses circle membership because being their junior preserves her chosen relation and joining the circle would reproduce pause | inclusion is not automatically the ethical endpoint; refusal may preserve agency, but it also keeps strategic asymmetry and anticipated harm active | `[V07:part0019#p0573-p0604]`, `[V07:part0026#p0521-p0589]` |
+| SG-082 | Yuzuki/Mai one-on-one and Haru's reaction | an authorized practice contest releases Yuzuki's capacity while destabilizing Haru's assumed athletic primacy | institutional access can reorder informal status without dissolving the underlying Yuzuki/Haru partnership | `[V07:part0028#p0092-p0461]`, `[V07:part0028#p0557-p0657]` |
+
+## Group rule after V07
+
+V07 turns the repaired network into an explicit **informal boundary system**:
+
+1. ordinary continuity can be real care while also coordinating non-decision;
+2. year rank, performance assignment, and perceived innocence allocate access before romance is openly named;
+3. no member owns Saku or a shared practice, but repeated histories create reliance that responsible entry should not pretend is absent;
+4. inclusion is not compulsory when a person authors a different relation to the group;
+5. female friendship can expand through acknowledged envy, memory transfer, and reciprocal gratitude rather than denial of rivalry;
+6. school and team institutions can redistribute visibility and rank without settling private relationships.
+
+## V07 revision state
+
+- full-group ordinary continuity → **RESOLVE as routine / REVISE as moratorium**; second term is warm and functional until contested access exposes the pause.
+- junior status as neutral hierarchy → **REVISE**; it is a high-access category that Momiji deliberately uses.
+- female relational network → **STRENGTHEN / EXPAND** through Yua/Yuzuki knowledge transfer and Yua/Asuka friendship.
+- informal role ownership → **REJECT as authority / PRESERVE as reliance**.
+- Saku as sole organizer → **KEEP DOWNGRADED**; Nazuna, Yuzuki, coaches, and the women organize decisive work and change.
+- group inclusion as cure → **REJECT as universal**; Momiji's refusal is authored even though her method remains accountable.
+- romantic difference as automatic expulsion → **PRESERVE REJECTION**; a sixth claimant enters the field, but stable accommodation is unresolved.
+
+## V08 group watchlist
+
+- whether Momiji's openly known romantic position changes junior access, trust, or inclusion;
+- whether Asuka, Haru, and Yua complete direct repair with Momiji beyond resumed activity;
+- whether Yuzuki's released ambition alters her partnership with Haru and her school leadership;
+- whether Yua/Asuka friendship and recipe-sharing produce durable independent practice;
+- how the festival redistributes public performance, credit, and labor after the camp;
+- whether the group can replace courtesy-as-moratorium with transparent disagreement and answerable bids.

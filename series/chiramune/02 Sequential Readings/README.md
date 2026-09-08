@@ -2,7 +2,7 @@
 series: CHIRAMUNE
 artifact_type: sequential_reading_contract
 scope: VOLUME_BY_VOLUME_ANALYSIS
-generation: V0.9
+generation: V1.0
 status: canonical
 release_state: mutable_active
 ---
@@ -33,13 +33,14 @@ Each numbered main volume is read from the frozen analytical state produced by t
 
 Later volumes can revise the current model. They cannot rewrite the historical record of what the earlier source boundary supported.
 
-The current frozen main-volume high-water mark is **Volume 06**. The V03 EPUB's pre-main bonus is integrated under `BONUS_FICTION`. The separate V03 illustration/short-story booklet is independently integrated under `SUPPLEMENTAL_MAINLINE` in `CHIRAMUNE_V03_SUPPLEMENTAL_BOOKLET_READING.md`, whose checkpoint preserves the main V03 freeze. Regular V05 is independently frozen in `CHIRAMUNE_V05_DEEP_READING.md` and `CHIRAMUNE_V05_PROSPECTIVE_FREEZE.md`. The V05 Special Edition's duplicate main has been excluded from double-counting and its 18-story booklet is component-routed in `CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`. Volume 06 is independently frozen in `CHIRAMUNE_V06_DEEP_READING.md` and `CHIRAMUNE_V06_PROSPECTIVE_FREEZE.md`. The four late-August stories in Volume 06.5 are separately focalized and integrated in `CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md` without rewriting the V06 freeze. Volume 07 main is the next safe source.
+The current frozen main-volume high-water mark is **Volume 07**. The V03 EPUB's pre-main bonus is integrated under `BONUS_FICTION`. The separate V03 illustration/short-story booklet is independently integrated under `SUPPLEMENTAL_MAINLINE` in `CHIRAMUNE_V03_SUPPLEMENTAL_BOOKLET_READING.md`, whose checkpoint preserves the main V03 freeze. Regular V05 is independently frozen in `CHIRAMUNE_V05_DEEP_READING.md` and `CHIRAMUNE_V05_PROSPECTIVE_FREEZE.md`. The V05 Special Edition's duplicate main has been excluded from double-counting and its 18-story booklet is component-routed in `CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`. Volume 06 is independently frozen in `CHIRAMUNE_V06_DEEP_READING.md` and `CHIRAMUNE_V06_PROSPECTIVE_FREEZE.md`. The four late-August stories in Volume 06.5 are separately focalized and integrated in `CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md` without rewriting the V06 freeze. Volume 07 is independently frozen in `CHIRAMUNE_V07_DEEP_READING.md` and `CHIRAMUNE_V07_PROSPECTIVE_FREEZE.md`. The Volume 08 special-edition object is the next safe source and requires main/supplement component classification before reading.
 
 ## Supplemental sequencing
 
 - **Volume 03 illustration/SS booklet:** main Volume 03 froze first; the separate booklet is now classified `SUPPLEMENTAL_MAINLINE`, placed late in V03, and preserved in its own frozen reading/checkpoint.
 - **Volume 05 special edition:** regular Volume 05 froze first. The separate object is now disposed through a component-level checkpoint: identical main text counted once; 18 stories placed individually; the revised V03 cap story modeled as two witnesses to one event; paratext kept bounded.
 - **Volume 06.5:** integrated as four `SUPPLEMENTAL_MAINLINE` components after the V06 freeze. All follow the V06 festival and precede second term; no exact total cross-story order is asserted.
+- **Volume 07:** frozen as a numbered `MAIN_LN` witness after the separate V06.5 checkpoint. Its final narrative component retains the source's literal post-Chapter-4 title `プロローグ　ヒーロー見参`; afterword and backmatter remain bounded.
 - **Volume 08 special edition:** it is the current complete V08 narrative witness. Analyze the main novel portion and freeze V08 before using the rough-illustration supplement as supplemental evidence when technically distinguishable.
 - **Days of Endless Summer:** treat as a later side-story collection whose individual stories require provenance/placement before integration.
 - **Volume 09.5:** treat as supplemental/current-publication material rather than silently redefining the numbered V09 prospective boundary.

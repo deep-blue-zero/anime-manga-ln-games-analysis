@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUA_UCHIDA_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
-generation: V0.4
+scope: YUA_UCHIDA_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -293,4 +293,43 @@ Saku explains his `大好き` as Yua's cooking together with shopping and table 
 - whether Saku tells his family about her and, if so, how the contact is framed;
 - whether Yuko friendship sustains ordinary disagreement outside crisis;
 - whether anticipated future presence remains selectable rather than treated as domestic entitlement;
+- direct reciprocal evidence only before any selection or couple claim.
+
+# V07 longitudinal revision
+
+## The dedicated chair becomes a real reservation and a brittle identity support
+
+Saku involuntarily stops Yuzuki from using the `優空用` stool, and Yuzuki understands without protest. When Momiji reaches for it, Saku begins the same intervention before Yua shouts `[V07:part0009#p0331-p0356]`, `[V07:part0024#p0494-p0547]`.
+
+The chair is therefore not only Yua's fantasy; it is behaviorally reserved by Saku. Its reassurance also becomes dangerous when the place is asked to guarantee Yua's entire specialness. Object-level exclusivity remains real while person and relationship exclusivity remain absent.
+
+## Comparable domestic competence exposes the contingency she already knew
+
+Yua invites Momiji home and permits her to cook. Momiji's lifelong competence, Saku's immediate praise, and their smooth coordination make visible the possibility that another person could perform what Yua had treated as her `special ordinary` `[V07:part0024#p0095-p0448]`.
+
+Yua's panic is not proof that her care was replaceable or merely instrumental. It shows that competence cannot by itself secure a unique relationship category.
+
+## She harms, then repairs behavior without completing the conversation
+
+Yua shouts when Momiji reaches for the chair and flees after an apology she knows lands as a barb. She later sends long messages and prepares lunches for Saku, Yuzuki, and Momiji `[V07:part0024#p0494-p0590]`, `[V07:part0026#p0010-p0029]`.
+
+The practical response is meaningful and consistent with her care grammar. The source does not show a complete direct conversation with Momiji, so accountability should not be inflated into full repair.
+
+## She preserves another woman's memory and builds a new friendship
+
+Yua asks Yuzuki for the katsudon recipe because she wants to preserve rather than overwrite the memory Saku praised. Yuzuki shares it `[V07:part0015#p0501-p0539]`, `[V07:part0017#p0001-p0025]`.
+
+Yua also exchanges gratitude and envy with Asuka for their distinct places beside Saku, adopts closer address, and directly proposes friendship `[V07:part0019#p0075-p0157]`. These relations expand Yua beyond mediator and domestic maintainer.
+
+## Post-V07 current model
+
+> **Yua receives the strongest confirmation that her dedicated kitchen place is mutually recognized, but V07 also tests the danger of making that place carry an unanswered romantic category. Comparable competence destabilizes her, she causes harm in panic, and she begins repair through messages and meals without receiving a complete direct resolution. Her more durable advance lies in female relation: she preserves Yuzuki's memory rather than competing to erase it and explicitly forms a friendship with Asuka through gratitude and admitted envy. Saku includes Yua among five romantic pains, but she is not selected and no couple forms.**
+
+## V08 watchlist
+
+- whether Yua and Momiji complete direct repair and renegotiate kitchen/chair boundaries;
+- whether domestic reciprocity expands into shared labor instead of relying on Yua's continued service;
+- whether Yua's music, rest, family, and support needs become direct requests;
+- whether Yua/Yuzuki recipe exchange and Yua/Asuka friendship become repeated independent practices;
+- whether the chair remains a reserved object without becoming presumed ownership over Saku;
 - direct reciprocal evidence only before any selection or couple claim.

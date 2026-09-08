@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
-generation: V0.8
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -440,3 +440,46 @@ Their origin state is `ESTABLISHED_OR_REVISED_AT_V06_5_SUPPLEMENT`. Exact locato
 | V07-Q06 | Does baseball become a continuing chosen path? | `OPEN` | repeated action with educational, institutional, or vocational stakes |
 | V07-Q07 | Does the repaired group develop ordinary continuity under explicit scarcity? | `OPEN` | routine interaction, conflict, inclusion, and distributed repair labor |
 | V07-Q08 | How does the second term reorganize locality, school structure, and future planning? | `OPEN` | enacted schedules, institutions, movement, and choices |
+
+## V07 prospective-question dispositions
+
+| Test ID | Disposition | Evidence-controlled result |
+|---|---|---|
+| `V07-Q01` | `CLARIFY / KEEP OPEN` | Saku directly identifies equal romantic pain at imagined futures for Yuko, Yua, Yuzuki, Haru, and Asuka; he does not rank or select one, include Momiji, or establish a couple. |
+| `V07-Q02` | `OBJECT-LEVEL STRENGTHEN / RELATION OPEN` | Saku behaviorally reserves the `優空用` chair against both Yuzuki and Momiji; object/place exclusivity does not establish Yua as an exclusive person or partner. |
+| `V07-Q03` | `IMPROVE CANDOR / PRESERVE OPEN` | Saku tells Yuzuki about Asuka only after she detects distress and tells Momiji about stagnation only after she asks; no clear self-originated support request appears. |
+| `V07-Q04` | `YUZUKI MAJOR STRENGTHEN / HARU REVISE` | Yuzuki privately rejects indefinite fake relation and resolves to seek the real; Haru learns passive partner access is contingent. Neither makes a heard present request to Saku in this source. |
+| `V07-Q05` | `RELATIONAL STRENGTHEN / LOGISTICS OPEN` | Asuka enters shared festival work and forms an explicit friendship with Yua; Tokyo remains within the finite horizon without enacted housing, transport, work, or communication logistics. |
+| `V07-Q06` | `PRESERVE OPEN` | Saku repeatedly enjoys swings and catch without an educational, institutional, or vocational baseball commitment. |
+| `V07-Q07` | `MAJOR REVISION` | The repaired group sustains September routine, but its courtesy also coordinates stasis. Momiji's entry exposes informal boundaries; three harms receive differentiated apology and repair. |
+| `V07-Q08` | `STRENGTHEN` | Class vote, vertical cheer teams, differentiated labor, scheduled no-club days, team-authorized practice, home/river/park/retail routes, and September weather materially organize action. |
+
+## Claims established or revised at the V07 main freeze
+
+| ID | Prior state | Transition | Current formulation | Evidence route |
+|---|---|---|---|---|
+| F112 | V06/V06.5 established plural importance without singular romantic naming | `STRENGTHEN ROMANTIC CATEGORY / PRESERVE NONSELECTION` | Saku directly calls the equal pain of Yuko's, Yua's, Yuzuki's, Haru's, and Asuka's possible futures love; the enumeration is five-person, unranked, and creates no couple. | `CHIRAMUNE_V07_DEEP_READING.md` §§VII–VIII |
+| F113 | Yua's dedicated chair anticipated repeated future presence without exclusivity | `STRENGTHEN OBJECT-LEVEL / PRESERVE RELATION LIMIT` | Saku stops Yuzuki and begins to stop Momiji from using the chair; it is behaviorally reserved while Yua remains neither exclusive partner nor selected beloved. | §§V, X |
+| F114 | the V06 repaired group had changed continuity whose ordinary durability was untested | `RESOLVE ROUTINE / REVISE AS MORATORIUM` | September continuity is real and valued, while mutual courtesy also delays bids and holds the romantic field in stasis. | §§II, XII |
+| F115 | later participants could pursue Saku without title-based exclusion, but entry method was untested | `PROMOTE PURPOSE-TRANSPARENCY LIMIT` | Momiji has standing to pursue and obtains permission to bounded acts; deliberate use of nonthreatening juniorhood conceals material purpose and remains ethically accountable. | §§IV, XI–XII |
+| F116 | repeated practices marked differentiated care without legal or romantic title | `STRENGTHEN RELIANCE / REJECT OWNERSHIP` | Asuka's riverbank, Haru's catch, and Yua's kitchen/chair support real threatened reliance but no authority to exclude another suitor or excuse harm. | §X |
+| F117 | female relationships independently carried repair and future | `STRENGTHEN / EXPAND` | Yua preserves Yuzuki's domestic memory through recipe transfer, Yua and Asuka establish explicit friendship, and Yuzuki/Haru's athletic relation acquires a new primacy conflict. | §§VI, IX, XIII |
+| F118 | Yuzuki's directness had advanced to a novel shared-practice request | `MAJOR STRENGTHEN` | She converts protected athletic capacity into an authorized peak performance and privately rejects indefinite fake relation in favor of pursuing a real one; no heard confession or couple follows. | §§XIII–XIV |
+| F119 | Momiji entered as a high-access junior with unknown durable responsibility | `PROMOTE CHARACTER RESPONSIBILITY` | Genuine group admiration, authored juniorhood, strategic romantic entry, accepted harm, sprint vocation, and self-hero framing support an independent provisional character model. | §§IV, XI–XII, XV |
+| F120 | Saku accepted support but did not originate requests | `PRESERVE GAP / STRENGTHEN CANDOR` | He answers Yuzuki and Momiji more openly after they notice or ask, yet does not initiate a support request or ask Momiji to break stasis. | §XVI |
+| F121 | baseball remained selectable ordinary practice | `STRENGTHEN REPETITION / PRESERVE FUTURE OPEN` | swings and catch recur as pleasurable relational practice without durable education, institution, or vocation. | §XVI |
+
+Their origin state is `ESTABLISHED_OR_REVISED_AT_V07_MAIN`. Exact locators, visual evidence, rival readings, and hard limits remain in `CHIRAMUNE_V07_DEEP_READING.md` and `CHIRAMUNE_V07_PROSPECTIVE_FREEZE.md`. The latter preserves only the state entering V07; neither it nor earlier freezes is rewritten.
+
+## Open V08 special-edition test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| V08-Q01 | What components are present in the special-edition object? | `OPEN` | exact witness verification, spine/component inventory, and separation of complete main novel from rough-illustration supplement before content use |
+| V08-Q02 | Does Saku's five-person romantic recognition produce a choice, direct request, or changed conduct? | `OPEN` | reciprocal direct wording and enacted relationship state; preserve Momiji as outside the V07 enumeration unless later named |
+| V08-Q03 | Does Momiji disclose her romantic purpose to Saku and become accountable to those she destabilized? | `OPEN` | direct knowledge, response authority, apology/repair, and changed method |
+| V08-Q04 | Does Yuzuki turn private resolve into an answerable bid, and how does Haru respond to lost athletic primacy? | `OPEN` | heard request, direct answer, independent partnership conduct, and sustained athletic evidence |
+| V08-Q05 | Do Asuka, Haru, and Yua complete repair with Momiji? | `OPEN` | direct interaction and changed practice beyond apology, messages, or resumed group work |
+| V08-Q06 | Do baseball, basketball, editing, or departure gain durable institutional stakes? | `OPEN` | repeated education, scheduling, logistics, or vocation decisions rather than symbolic recurrence |
+| V08-Q07 | How does the school festival distribute performance, authorship, status, and romantic interpretation? | `OPEN` | distinguish assigned roles and public optics from private relationship state |
+| V08-Q08 | What evidence belongs to the rough-illustration supplement rather than the main V08 freeze? | `OPEN` | technical component boundary, source role, and post-main supplemental checkpoint if warranted |

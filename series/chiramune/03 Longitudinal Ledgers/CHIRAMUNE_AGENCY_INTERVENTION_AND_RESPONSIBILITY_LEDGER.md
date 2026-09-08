@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
-generation: V0.8
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -399,3 +399,39 @@ V06.5 adds **silence and guarantee control**:
 - impossible protection promises → **REJECT**; accountable relation replaces guarantees of no injury.
 - self-originated Saku help requests → **KEEP OPEN**; disclosure and response improve without initiation.
 - outcome as method vindication → **REJECT again** through Mai's call and the alumni intervention.
+
+# V07 update — local permission, concealed purpose, and accountable destabilization
+
+## V07 entries
+
+| ID | Intervention | Agency / authority question | V07 assessment | Locator |
+|---|---|---|---|---|
+| AI-099 | Kazuki recruits Kenta through pride and anime performance | does later willing effort erase an initially bypassed refusal? | no; Kenta eventually owns and teaches the work, but Kazuki first maneuvers him through a status challenge instead of obtaining a direct yes | `[V07:part0008#p0500-p0587]`, `[V07:part0011#p0214-p0280]` |
+| AI-100 | Momiji requests dance, riverbank practice, catch, and cooking | does permission to each concrete act also authorize an undisclosed romantic and destabilizing project? | no; each local permission is real, but she deliberately relies on the innocent-junior category that changes how Saku and the older girls assess access | `[V07:part0011#p0022-p0039]`, `[V07:part0026#p0238-p0343]` |
+| AI-101 | Asuka shouts at Saku and Momiji on the riverbank | does emotional reliance create authority to exclude others from a public place? | no; the special history explains her panic but supplies neither ownership nor exemption from responsibility; mutual apology resumes work without showing a full repair conversation | `[V07:part0020#p0162-p0418]`, `[V07:part0022#p0096-p0124]` |
+| AI-102 | Haru pulls the glove back hard enough to hurt Momiji | can a threatened partner role justify physical gatekeeping? | no; Haru owns the harm, apologizes, and then plays catch with Momiji through lunch, making this the volume's clearest enacted repair | `[V07:part0022#p0225-p0467]`, `[V07:part0024#p0038-p0052]` |
+| AI-103 | Yua shouts when Momiji reaches for the dedicated chair | may object-level reservation become person-level exclusion authority? | no; the chair is genuinely reserved by repeated conduct, but it grants no ownership over Saku or all kitchen practice; Yua's messages and lunches repair behaviorally without completing direct repair | `[V07:part0024#p0494-p0590]`, `[V07:part0026#p0010-p0029]` |
+| AI-104 | Yuzuki tests Momiji with a false café meeting | may strategic deception be used to expose another person's strategic concealment? | the test produces accurate disclosure but carries its own method cost; Yuzuki is a rival with standing to ask, not neutral investigative authority | `[V07:part0026#p0033-p0130]` |
+| AI-105 | Momiji accepts hatred and possible hurt to break stasis | does willingness to bear blame legitimate avoidable harm? | no; autonomous pursuit and self-authorship remain real, while `傷つける覚悟` records harm tolerance rather than consent from the affected people | `[V07:part0026#p0470-p0535]` |
+| AI-106 | Coach Misaki authorizes Yuzuki's 30-point one-on-one with Mai | can a destabilizing challenge remain institutionally bounded and participant-authored? | yes in this practice context: the coach frames it as instruction, both players participate, and the result grants no permanent rank or authority beyond the event | `[V07:part0028#p0092-p0434]`, `[V07:part0028#p0557-p0657]` |
+| AI-107 | Saku discloses conflict only after Yuzuki and Momiji ask | has improved candor become self-originated support seeking? | not yet; he answers more honestly, but others still identify the problem or offer intervention before he requests help | `[V07:part0022#p0016-p0056]`, `[V07:part0019#p0630-p0653]` |
+
+## Agency rule after V07
+
+V07 adds **purpose transparency and reliance limits**:
+
+1. permission to a bounded act does not automatically authorize a materially concealed project;
+2. long use, emotional reliance, and shared history merit recognition but do not create ownership over a person, public place, sport, or competence;
+3. the person who gatekeeps in panic remains responsible for verbal or physical harm even when the threat is intelligible;
+4. apology gains force when paired with enacted changed conduct, but resumed work alone does not prove complete repair;
+5. an outsider may expose a stagnant norm without gaining immunity for avoidable injury;
+6. candid answers after inquiry are developmental evidence but remain distinct from originating a request for support.
+
+## V07 revision state
+
+- consent to act versus consent to project → **PROMOTE**; Momiji's local permissions do not make her undisclosed strategy fully transparent.
+- relational reliance versus ownership → **PROMOTE**; Asuka's riverbank, Haru's catch, and Yua's chair carry real histories without exclusion jurisdiction.
+- outcome as method vindication → **REJECT again** through Kazuki's successful recruitment and Yuzuki's accurate deceptive test.
+- repair accountability → **DIFFERENTIATE**; Haru supplies enacted direct repair, while Asuka and Yua show more partial routes.
+- autonomous romantic pursuit → **PRESERVE / QUALIFY**; Momiji may pursue Saku and remains answerable for process and foreseeable harm.
+- self-originated Saku help requests → **KEEP OPEN**; disclosure improves only after another person notices or asks.

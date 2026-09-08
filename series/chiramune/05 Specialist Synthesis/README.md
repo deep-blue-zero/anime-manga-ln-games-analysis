@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: specialist_synthesis_router
 scope: PROMOTED_CROSS_VOLUME_SPECIALIST_RESPONSIBILITIES
-source_boundary: "Japanese main analysis through Volume 06; V03 in-EPUB bonus, separate V03 booklet, V05 special-edition booklet, and V06.5 supplemental volume integrated; V07+ unopened"
-generation: V0.4
+source_boundary: "Japanese main analysis through Volume 07; V03 in-EPUB bonus, separate V03 booklet, V05 special-edition booklet, and V06.5 supplemental volume integrated; V08+ unopened"
+generation: V0.5
 status: canonical
 release_state: mutable_active
 ---
@@ -14,7 +14,7 @@ This directory contains independently warranted domain syntheses in the Chiramun
 
 ## Active specialist responsibilities
 
-- `CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md` — promoted at the regular V05 boundary after locality, domestic practice, memory, aspiration, and departure accumulate independently across V01–V05; revised through the V05 booklet, V06's ritual/repair routes, and V06.5's Kanazawa travel, plural local publishing ecology, market/domestic infrastructure, and intergenerational women's basketball route.
+- `CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md` — promoted at the regular V05 boundary after locality, domestic practice, memory, aspiration, and departure accumulate independently across V01–V05; revised through the V05 booklet, V06's ritual/repair routes, V06.5's Kanazawa travel and institutional ecology, and V07's school-festival scheduling, contested home/park/river access, transmitted food memory, and September temporal pressure.
 
 ## Deferred candidates
 

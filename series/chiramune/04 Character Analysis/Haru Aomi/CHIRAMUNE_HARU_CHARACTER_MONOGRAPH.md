@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: HARU_AOMI_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
-generation: V0.5
+scope: HARU_AOMI_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -367,4 +367,35 @@ Misaki refuses the forced choice: Haru should carry romance, friendship, success
 - whether the elite path is investigated through sustainable workload, education, and consent;
 - whether expanded passing and shooting persist beyond one intervention game;
 - whether Yuzuki partnership and the wider women's basketball network retain independent priority;
+- direct reciprocal evidence only before any romantic-selection claim.
+
+# V07 longitudinal revision
+
+## Partner status becomes visibly contingent
+
+Haru invites Momiji into catch, then discovers that the junior's baseball experience can match Saku's tempo. She yanks the glove back hard enough to hurt Momiji, lashes out, and flees `[V07:part0022#p0147-p0467]`.
+
+The crisis exposes a protected assumption beneath Haru's generous team ethic: July presence and `相棒` language had come to feel like a durable reservation. Athletic partnership remains real, but it cannot guarantee unique access.
+
+## She performs the clearest direct repair in the volume
+
+Haru apologizes to Saku and Momiji, brings Momiji outside, and plays catch with her through lunch `[V07:part0024#p0038-p0052]`. The repair neither denies jealousy nor excludes the person who triggered it. Changed shared practice is stronger evidence than simple resumption.
+
+## Yuzuki's athletic release creates a second primacy shock
+
+Watching Yuzuki's one-on-one with Mai, Haru recognizes that she had treated basketball as her own special field even from her closest partner. Yuzuki's extraordinary peak is indebted partly to Haru's full-effort ethic, yet Haru experiences it as another threatened domain `[V07:part0028#p0436-p0461]`, `[V07:part0028#p0487-p0555]`.
+
+This does not cancel the Yuzuki/Haru relationship. It gives that partnership a new unresolved task: how to preserve reciprocal formation when neither athlete can be kept in a fixed comparative role.
+
+## Post-V07 current model
+
+> **Haru's V07 crisis is the collapse of guaranteed partner uniqueness. She causes physical harm when Momiji demonstrates comparable baseball access, then authors the volume's clearest repair by apologizing and deliberately including her in sustained catch. Yuzuki's released basketball capacity produces a parallel shock to Haru's assumed athletic primacy. Haru remains a serious athlete and Saku includes her among five romantic pains, but her promised romantic challenge, elite future, and partnership renegotiation are all open.**
+
+## V08 watchlist
+
+- whether Haru makes the promised direct romantic challenge without converting it into a score;
+- whether repair with Momiji persists after the junior's romantic strategy becomes known;
+- whether she can ask for ordinary support rather than defend uniqueness through role or intensity;
+- whether Yuzuki/Haru explicitly renegotiate athletic comparison and mutual priority;
+- whether elite basketball gains sustainable education, schedule, and career form;
 - direct reciprocal evidence only before any romantic-selection claim.

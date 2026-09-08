@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
-generation: V0.9
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -356,3 +356,35 @@ Each focalizer chooses a next form that remains partly unsettled: Yuzuki exposes
 - romantic distraction as athletic impurity → **REJECT**; Haru integrates plural life into expanding skill.
 - Saku's coherent heroic future → **OPEN**; he can name a blank without yet asking for help or choosing its content.
 - couple/selection state → **KEEP OPEN**; differentiated authored bids do not supply reciprocal romantic naming.
+
+# V07 update — authored juniorhood, threatened roles, and released capacity
+
+## V07 governing revision
+
+V07 shows that a social role may be simultaneously sincere and strategic. Momiji genuinely admires the older group and genuinely wants to remain its junior; she also chooses juniorhood because it gives a sixth romantic claimant access that openly declared competition would not receive. The older girls' cherished roles are equally real and authored, yet become constraining when each treats one repeated practice as the proof of unique standing.
+
+## V07 entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-092 | Yuko / short hair and continued love | she cuts the hair linked to her prior self, asks Saku to keep watching, and later states desire without attacking Momiji | self-revision can retain love while changing its public form after refusal | Saku's renewed attention and desire for more time do not reverse his answer | `[V07:part0008#p0297-p0388]`, `[V07:part0011#p0401-p0425]` |
+| SA-093 | Momiji / innocent junior | she sincerely admires the group yet deliberately occupies nonthreatening juniorhood so Saku will admit her | an authentic relation and a strategic performance can be the same practice; sincerity does not cancel informational asymmetry | she obtains concrete permission and is not simply fabricating consent | `[V07:part0019#p0573-p0604]`, `[V07:part0026#p0286-p0343]` |
+| SA-094 | Asuka, Haru, and Yua / protected places | each panics when Momiji enters a repeated practice central to her identity beside Saku | roles become defensive when continuity is treated as a guarantee of unique personhood | their histories and reliance remain real; responsibility for outburst does not make the roles false | `[V07:part0020#p0162-p0418]`, `[V07:part0022#p0225-p0467]`, `[V07:part0024#p0494-p0590]` |
+| SA-095 | Yuzuki / unused reserve | she recognizes that holding back protects the fantasy that full effort would have won, then requests a 30-point game and uses her whole athletic repertoire | authenticity can require risking the result that a protective reserve was designed to postpone | one peak practice win does not prove stable rank, and Haru experiences the release as a boundary shock | `[V07:part0028#p0003-p0088]`, `[V07:part0028#p0473-p0657]` |
+| SA-096 | Yuzuki / real rather than fake relation | she repudiates indefinite `いつか` and resolves to name the relation herself if Saku will not | romantic self-authorship advances from bounded ordinary bids to an internally owned intention for real relation | Saku does not hear or answer; this is not a confession or couple | `[V07:part0028#p0631-p0663]` |
+| SA-097 | Momiji / becoming her own hero | the postposed prologue converts waiting for rescue into sprinting as her own hero | self-authorship is enacted as forward motion rather than dependence on a heroic other | the hero allusion does not supply a full rescue chronology, and agency does not purify her willingness to hurt | `[V07:part0030#p0001-p0033]` |
+| SA-098 | Saku / senior smile and five pains | he recognizes that his safe senior performance postpones the problem and can name equal pain at five women's possible futures | self-knowledge now reaches plural romantic consequence rather than vague importance | he still neither chooses nor originates support seeking | `[V07:part0011#p0341-p0370]`, `[V07:part0019#p0268-p0300]` |
+
+## Authenticity rule after V07
+
+> **Sincerity does not exhaust the ethics of a role. A chosen form remains answerable for what it conceals, what access it obtains, and whose choices it changes; a cherished form remains revisable when it turns repeated reliance into a guarantee of uniqueness. Self-authorship requires risking outcomes, not treating harm tolerance or private resolve as automatic justification.**
+
+## V07 revision state
+
+- strategic performance versus authentic relation → **REVISE**; Momiji's juniorhood is both genuine and instrumentally selected.
+- protected role as proof of unique identity → **REJECT**; dance, riverbank, catch, kitchen, and chair are meaningful without fixing personhood or rank.
+- Yuzuki's polished reserve → **MAJOR REVISE** through full-effort basketball and refusal of indefinite fake relation.
+- Yuko's post-refusal self → **STRENGTHEN** through appearance change, direct retained love, and non-attacking rivalry.
+- Momiji's hero identity → **ESTABLISH WITH ETHICAL LIMIT**; autonomous movement coexists with concealed purpose and accepted harm.
+- Saku's heroic containment → **STRENGTHEN SELF-RECOGNITION / KEEP ACTION OPEN**; he names five pains but still defers choice and request.
+- couple/selection state → **KEEP OPEN**; private resolve and plural pain do not create reciprocal commitment.

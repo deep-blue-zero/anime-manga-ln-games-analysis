@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
-generation: V0.8
+scope: YUZUKI_NANASE_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -527,4 +527,49 @@ After learning that Yuko also knows Saku's miso soup, Yuzuki directly asks Saku 
 - whether basketball remains chosen, changes form, or yields to a separately investigated vocation;
 - whether visible femininity stays selectable rather than becoming a requirement for competition;
 - whether Kanazawa friendship survives direct romantic disagreement;
+- direct reciprocal evidence only before any selection claim.
+
+# V07 longitudinal revision
+
+## The novel meal request is fulfilled without resolving the relation
+
+Saku prepares taco rice and labor-intensive edamame cold soup chosen around Yuzuki's tastes. Their private improvised dance is coordinated and physically intimate, but Saku evades her mirrored question instead of naming the relation `[V07:part0009#p0360-p0435]`, `[V07:part0009#p0520-p0579]`.
+
+The V06.5 bid therefore becomes enacted reciprocity rather than an empty future token. It still does not create a date, confession, or couple.
+
+## She preserves Yua's place without surrendering her own memory
+
+Yuzuki immediately recognizes the `優空用` chair and moves away. Later she teaches Yua the katsudon recipe because Yua asks to preserve rather than overwrite its history `[V07:part0009#p0331-p0356]`, `[V07:part0015#p0501-p0539]`, `[V07:part0017#p0001-p0025]`.
+
+This is not passive withdrawal. Yuzuki can acknowledge another woman's differentiated place while making shared practical knowledge carry her own recognized memory forward.
+
+## Her test of Momiji is accurate and ethically interested
+
+Yuzuki fabricates a café meeting to provoke Momiji, then confronts her. She correctly exposes the junior's romantic strategy and receives a powerful critique of the older women's hand-holding stasis `[V07:part0026#p0033-p0130]`, `[V07:part0026#p0349-p0458]`.
+
+The discovery does not make Yuzuki a neutral investigator. Her lie has a method cost, and Momiji's claim that rescue is their only bond repeats Yuzuki's insecurity rather than proving objective emptiness.
+
+## Full athletic effort destroys the refuge of unused capacity
+
+Yuzuki recognizes that holding back preserves the fantasy that full effort would have succeeded. With Coach Misaki's authorization she requests a 30-point one-on-one against Mai, displays an exceptional peak repertoire, and wins the practice contest by an implied 30–24 `[V07:part0028#p0003-p0088]`, `[V07:part0028#p0092-p0434]`, `[V07:part0028#p0557-p0657]`.
+
+The result is major capability evidence, not permanent regional rank or team superiority. Haru's shock also shows that Yuzuki's liberation changes an independently primary relationship.
+
+## She rejects indefinite fake relation in favor of authored risk
+
+Yuzuki repudiates her earlier `いつか` and wish that the fake arrangement continue. She resolves that if Saku cannot name the relation, she will write a name into it and show Haru, Mai, Momiji, and Saku the woman called Nanase Yuzuki `[V07:part0028#p0631-p0663]`.
+
+This is a decisive internal transition. Saku does not hear or answer it, so it is not yet a present confession or relationship state.
+
+## Post-V07 current model
+
+> **Yuzuki converts protected possibility into enacted capacity. Her new-meal request is fulfilled, she preserves Yua's differentiated place while transmitting her own domestic memory, and Momiji's critique pushes her to risk an actual athletic result and a future real relationship. Her strategic intelligence remains ethically fallible: the false café test is interested, and her reading of stasis is not omniscience. One peak practice win does not settle basketball rank or vocation; private romantic resolve does not create a couple. Her partnership with Haru now faces a genuine athletic-primacy revision.**
+
+## V08 watchlist
+
+- whether Yuzuki turns private resolve into a heard, answerable romantic request;
+- whether she can confront Momiji without repeating deceptive method;
+- whether the peak one-on-one form persists in team practice and informs a sustainable vocation;
+- whether Yuzuki/Haru renegotiate athletic comparison without losing independent partnership;
+- whether shared care with Yua and friendship with Yuko/Nazuna survive direct bids;
 - direct reciprocal evidence only before any selection claim.

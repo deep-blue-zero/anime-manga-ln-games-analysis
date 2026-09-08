@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V0.7
+generation: V0.8
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -104,7 +104,19 @@ The whole-object extraction produced 5,342 non-empty text/image locator rows and
 
 The afterword identifies real `URALA` and `HOSHIDO` interviews as production inputs while stating that most story material was fictionally reconstructed. It also describes local collaboration as locally initiated rather than quid-pro-quo placement. These statements are retained as production context only and do not override diegetic evidence.
 
-The complete disposition and frozen supplemental checkpoint are in `../02 Sequential Readings/CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md`. The next safe source is the exact locked Volume 07 main witness.
+The complete disposition and frozen supplemental checkpoint are in `../02 Sequential Readings/CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md`. At that checkpoint, the next safe source was the exact locked Volume 07 main witness.
+
+### Volume 07 analysis disposition
+
+The locked Volume 07 witness was independently reverified at SHA-256 `6c6018e65f021ecea9c9cafd464fa5b42e887e6317931162efedc01ac020edd1` before prospective reading. OPF metadata identifies `千歳くんはラムネ瓶のなか　７`, 裕夢, 株式会社小学館, Japanese, electronic publication date 2022-08-18, ASIN `B0B8CHWGTT`, and print-base ISBN 978-4-09-453085-8.
+
+The narrative contains four numbered chapters followed by a short component literally titled `プロローグ　ヒーロー見参`. Its post-Chapter-4 title and placement are preserved rather than normalized into an epilogue. The afterword, author profile, colophon, and advertising images remain bounded non-narrative evidence. No embedded bonus fiction was found.
+
+The extraction produced 7,047 non-empty text/image locator rows and 7,133 reading lines. The locator TSV SHA-256 is `32ac689226ca5d46fdcd2e58f26d0cf27c72db1f0332720a1a420a5d61fc560e`; the reading projection SHA-256 is `d50cdfdc32a75c40c35cba05392b077805e4cb59c85f467ed0425814ea29f233`. Cover, color frontmatter, ten interior narrative images, and backmatter images were inspected and routed by role.
+
+The afterword calls V06.5 `実質的な本編` and names multiple V06.5 elements as V07 dependencies. This supports the existing separate-but-linked supplemental architecture as bounded production testimony; it does not overwrite fictional evidence or make V06.5 a numbered-main freeze.
+
+The complete main reading and its entering-state freeze are in `../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md` and `../02 Sequential Readings/CHIRAMUNE_V07_PROSPECTIVE_FREEZE.md`. The next safe source is the exact locked Volume 08 special-edition object. Its complete main novel and rough-illustration supplement must be technically distinguished and routed separately before either is analyzed.
 
 ### Volume 04 analysis disposition
 
@@ -118,7 +130,7 @@ Its colophon dates publication to 2020-04-17 and identifies 裕夢 as author, ra
 
 ### Half-volumes and side stories
 
-Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. *Days of Endless Summer* and Volume 09.5 still require publication/diegetic classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
+Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volume 07 is now independently frozen after that checkpoint. *Days of Endless Summer* and Volume 09.5 still require publication/diegetic classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
 
 ## Completeness claim and limit
 

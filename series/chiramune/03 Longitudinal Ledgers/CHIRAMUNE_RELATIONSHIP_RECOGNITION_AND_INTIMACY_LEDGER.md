@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
-generation: V0.8
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -601,3 +601,83 @@ Haru and Mai deliberately practice across school rivalry, learn through former F
 - whether Asuka turns indirect invitation into an answerable request before departure;
 - whether Saku originates support-seeking rather than only receiving or answering it;
 - whether second-term group continuity preserves differentiated dyads without restoring the old equilibrium.
+
+# V07 relationship update — five named pains and a sixth claimant
+
+## Saku ↔ Yuko — refusal governs continued mutual desire for time
+
+Yuko changes her appearance, asks Saku to keep watching, openly says she wants to dance with him, and asks to remain beside him longer. Saku internally wants the extra time and later classifies the pain of her imagined future with another man as love `[V07:part0008#p0297-p0388]`, `[V07:part0011#p0401-p0425]`, `[V07:part0011#p0882-p0916]`, `[V07:part0019#p0268-p0300]`.
+
+**Current state:** retained Yuko love + renewed gendered attention + mutual desire for more time + Saku's direct romantic-pain recognition + second refusal still governing + no couple or promise.
+
+## Saku ↔ Yua — a reserved place enters conflict without becoming selection
+
+Saku stops Yuzuki from using the `優空用` stool and begins to stop Momiji before Yua shouts. The chair is therefore reserved in conduct as well as private interpretation. Yua's destabilization shows how much identity she has invested in the domestic ordinary, and her subsequent messages and lunches provide behavioral repair `[V07:part0009#p0331-p0356]`, `[V07:part0024#p0494-p0590]`, `[V07:part0026#p0010-p0029]`.
+
+**Current state:** reciprocal domestic ordinary + behaviorally reserved chair/place + Yua's threatened-specialness crisis and partial repair + Saku's inclusion of Yua among five romantic pains + no exclusive person, girlfriend status, or couple.
+
+## Saku ↔ Yuzuki — completed reciprocity and a private decision for real relation
+
+Saku fulfills the new-dish request with food chosen for Yuzuki and shares a coordinated private dance. He evades her mirrored relational question. After confronting Momiji, Yuzuki privately rejects indefinite fake relation and resolves to seek a real one `[V07:part0009#p0360-p0435]`, `[V07:part0009#p0520-p0579]`, `[V07:part0028#p0631-p0663]`.
+
+**Current state:** completed differentiated cooking + intimate aesthetic coordination + vice-captain partnership + Yuzuki's internally authored decision to pursue real relation + Saku's inclusion of her among five romantic pains + no heard confession, reciprocal answer, or couple.
+
+## Saku ↔ Haru — partner reliance loses its guarantee
+
+Haru's inclusion of Momiji in catch exposes that July access and `相棒` language do not permanently reserve athletic intimacy. Her harmful withdrawal is followed by apology and a full lunch of catch with Momiji. Saku continues to share baseball pleasure and includes Haru among the five painful imagined futures `[V07:part0022#p0147-p0467]`, `[V07:part0024#p0038-p0052]`, `[V07:part0019#p0268-p0300]`.
+
+**Current state:** athletic/baseball partnership + Haru's contingent-uniqueness crisis + enacted inclusion repair + Saku-side romantic-pain recognition + promised present challenge still unmade + no couple.
+
+## Saku ↔ Asuka — a bounded place proves reliance, not ownership
+
+Saku knows the riverbank is special but rationalizes practice there with Momiji. Asuka panics, shouts, and later joins mutual apology. She also enters group and athletic work and forms a direct friendship with Yua, while her Tokyo direction receives no new logistics `[V07:part0020#p0162-p0418]`, `[V07:part0022#p0096-p0124]`, `[V07:part0019#p0075-p0157]`.
+
+**Current state:** finite-time intimacy + riverbank reliance exposed through conflict + renewed group participation + Saku's inclusion of Asuka among five romantic pains + no departure logistics, exclusive place authority, or couple.
+
+## Saku ↔ Momiji — junior trust and romantic purpose remain asymmetric
+
+Momiji asks for concrete access and Saku treats her as a safely non-romantic junior. She later confirms love at first sight and deliberate use of juniorhood because he would not accept a sixth declared claimant. Saku does not include her in his five-person romantic enumeration `[V07:part0011#p0022-p0039]`, `[V07:part0026#p0238-p0343]`, `[V07:part0019#p0268-p0300]`.
+
+**Current state:** Saku-side junior familiarity and trust + Momiji-side admiration and direct romantic pursuit + strategically incomplete purpose disclosure + no Saku romantic reciprocity or couple.
+
+## Yua ↔ Yuzuki — memory can be transmitted without being overwritten
+
+Yua asks Yuzuki for the katsudon recipe because she wants to preserve rather than replace a valued Saku/Yuzuki memory. Yuzuki teaches her and recognizes that Saku's praise already made the original practice meaningful `[V07:part0015#p0501-p0539]`, `[V07:part0017#p0001-p0025]`.
+
+**Current state:** rivalry + attributed memory + shared domestic knowledge + female-to-female care without surrender or rank.
+
+## Yua ↔ Asuka — gratitude and envy become explicit friendship
+
+They recognize that each occupied an important place during a different Saku crisis, admit envy, adopt closer given-name address, and ask to become friends `[V07:part0019#p0075-p0157]`.
+
+**Current state:** reciprocal historical recognition + named envy + explicit new friendship + independently meaningful future potential.
+
+## Yuzuki ↔ Haru — partnership persists through a new primacy shock
+
+Yuzuki's authorized one-on-one with Mai displays an athletic reserve Haru did not expect. Haru recognizes that she had treated basketball as her own protected domain even from Yuzuki. The shock complicates rather than cancels their partnership `[V07:part0028#p0092-p0461]`, `[V07:part0028#p0473-p0657]`.
+
+**Current state:** independently primary partnership + reciprocal formative influence + romantic rivalry + destabilized assumption of Haru's athletic primacy + repair and future contest open.
+
+## Momiji ↔ the five older heroines — admiration refuses containment
+
+Momiji genuinely admires the women but refuses circle membership because she wants the distinct junior relation and intends to pursue an outcome that may hurt them. Yuko responds with openly stated desire and care; Asuka, Haru, and Yua each react through threatened-role crises; Yuzuki confronts her and redirects the challenge into self-change `[V07:part0011#p0401-p0425]`, `[V07:part0026#p0349-p0589]`.
+
+**Current state:** genuine admiration + romantic competition + refused circle membership + asymmetric information and inflicted/received hurt + no rightful exclusion and no completed integration.
+
+## Relationship hypotheses after V07
+
+1. **Five romantic pains are not one selected love.** Saku's direct enumeration strengthens the romantic field while expressly preserving equality and non-choice.
+2. **Object and practice reservation can be real below romantic title.** The chair, riverbank, and catch carry conduct and reliance without owning the people involved.
+3. **Permission does not erase informational asymmetry.** Momiji's concrete requests are accepted under a junior interpretation she deliberately preserves.
+4. **Female relations transmit memory and correction.** Recipe-sharing, friendship, confrontation, and athletic challenge carry development independently of Saku's adjudication.
+5. **Courtesy can maintain both care and stasis.** The old equilibrium protects valuable relations by deferring the answers that could alter them.
+
+# V08 relationship watchlist
+
+- direct reciprocal evidence only for any selected beloved or couple;
+- whether Saku's five-person romantic-pain recognition changes conduct, timing, or answer responsibility;
+- whether Momiji discloses purpose to Saku and how knowledge changes his consent to proximity;
+- whether Asuka, Haru, and Yua complete repair with Momiji beyond resumed practice;
+- whether Yuzuki turns private resolve into an answerable present request;
+- whether Yuzuki/Haru and Yua/Asuka relations survive changed athletic and romantic status;
+- whether the reserved chair remains object-level, becomes shared, or is wrongly treated as person-level exclusivity.

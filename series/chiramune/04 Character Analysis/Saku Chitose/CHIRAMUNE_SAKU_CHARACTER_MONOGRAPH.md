@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
-generation: V0.9
+scope: SAKU_CHITOSE_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -895,4 +895,49 @@ His near-verbal stumble about liking Haru when she enjoys basketball remains int
 - whether differentiated ordinary bids produce romantic naming or remain plural relation;
 - whether ordinary contact with Yuko develops without restoring the suspended-confession moratorium;
 - whether baseball, study, or another practice becomes a chosen durable path;
+- direct reciprocal evidence only before any couple or singular-beloved claim.
+
+# V07 longitudinal revision
+
+## He names five romantic pains without selecting among them
+
+Saku imagines another man entering Yuko's room and receiving her whole private self, then tests the same future with Yua, Yuzuki, Haru, and Asuka. He says each produces equal pain and can finally call the category love `[V07:part0019#p0268-p0300]`.
+
+This is stronger than V06's plural importance: it is direct Saku-side romantic recognition. It is also explicitly nonselective. Momiji is not in the enumeration, no rank appears, and no reciprocal couple state follows.
+
+## His safe-senior category reproduces the postponement he can now see
+
+Saku accepts Momiji as a dance partner because junior innocence appears to keep the festival outside the older romantic field. During the dance he realizes that his smiling senior performance prevents him from seeing Momiji fully and defers the decision represented by the five watching women `[V07:part0011#p0022-p0039]`, `[V07:part0011#p0341-p0370]`.
+
+His error is not simple predation or bad faith. It is a familiar defensive classification: preserve a harmless role so he need not answer the relation that may actually be developing.
+
+## He recognizes Yua's place behaviorally but cannot control its meaning
+
+Saku stops Yuzuki from sitting on the `優空用` chair and begins to stop Momiji. The reaction shows durable recipient-specific loyalty rather than a one-time gift `[V07:part0009#p0331-p0356]`, `[V07:part0024#p0494-p0547]`.
+
+It also helps expose the cost of leaving relational categories undefined. A chair may be reserved; Saku cannot turn that practice into a complete answer about Yua, nor can he treat the older women's reliance as ownership that bars another claimant.
+
+## Candor improves after detection, not through self-originated asking
+
+Yuzuki hears distress during a work call and elicits the Asuka conflict. Momiji separately asks why he seems troubled and receives his account of the group's stagnation `[V07:part0022#p0016-p0056]`, `[V07:part0019#p0630-p0653]`.
+
+Saku answers more candidly than his earlier heroic enclosure allowed. He still does not initiate the support request, and Momiji volunteers to break stasis rather than receiving that commission from him.
+
+## Baseball remains pleasurable relation rather than chosen future
+
+He practices swings without self-punishment and catches with Haru and Momiji. Repetition strengthens baseball as ordinary pleasure and a medium of recognition `[V07:part0011#p0977-p1055]`, `[V07:part0022#p0147-p0386]`.
+
+No educational, institutional, or vocational decision follows. The activity remains available without becoming destiny.
+
+## Post-V07 current model
+
+> **Saku can now identify five relationships as sources of equal romantic pain, making his plural attachment more explicit while leaving selection wholly unresolved. He increasingly participates through differentiated food, dance, sport, attention, and behavioral recognition of Yua's chair, but undefined categories distribute uncertainty to others and make informal boundaries brittle. He recognizes his safe-senior smile as another deferral and discloses distress when asked; he still does not originate support seeking or choose a durable romantic or vocational path. No singular beloved or couple exists.**
+
+## V08 watchlist
+
+- whether Saku tells Momiji he now understands her romantic purpose and renegotiates access with full information;
+- whether five-person romantic recognition produces a timely bid, choice, or accountable explanation;
+- whether he originates support seeking rather than relying on others to detect strain;
+- whether the `優空用` chair remains bounded object-level recognition rather than a proxy answer about Yua;
+- whether baseball gains durable educational, institutional, or vocational stakes;
 - direct reciprocal evidence only before any couple or singular-beloved claim.

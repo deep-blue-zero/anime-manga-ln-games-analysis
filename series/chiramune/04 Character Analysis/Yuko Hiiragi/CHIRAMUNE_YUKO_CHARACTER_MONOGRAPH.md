@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUKO_HIIRAGI_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
-generation: V0.4
+scope: YUKO_HIIRAGI_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -317,4 +317,37 @@ Yuzuki's refusal-symmetry reasoning helps Yuko approach Kaito, but Yuko owns the
 - whether Yuko can seek private support before a public or crisis climax;
 - whether the ten-year female friendship horizon survives divergent partners and destinations;
 - whether continued love remains self-authored without becoming proof of insufficiency;
+- direct reciprocal evidence only before any couple claim.
+
+# V07 longitudinal revision
+
+## Appearance change is self-revision, not romantic proof
+
+Yuko cuts the long hair she had valued and frames it as becoming a new self. Saku responds with strong bodily and emotional attention, tells her the present look suits her, and receives her request that he keep watching `[V07:part0008#p0297-p0388]`.
+
+The scene advances mutual recognition after refusal. It does not reverse the refusal or make change a condition of deserving love.
+
+## She states rivalry without attacking the newcomer
+
+After Momiji's dance, Yuko says it was beautiful, admits she also wants to dance with Saku, and asks Momiji to watch him when he overextends `[V07:part0011#p0401-p0425]`. She neither conceals desire nor treats a rival's success as contamination.
+
+This is a significant refinement of her public directness: the statement is accountable, bounded, and compatible with care for both people.
+
+## Continued love gains Saku-side romantic recognition without selection
+
+Yuko asks to remain beside Saku longer; he privately wants the same. He later identifies the pain of imagining another man in her future as love and places it equally beside four other women `[V07:part0011#p0882-p0916]`, `[V07:part0019#p0268-p0300]`.
+
+The result is not another suspended promise. Saku's second refusal remains governing, and equal romantic pain is not an answer to Yuko's request for singular status.
+
+## Post-V07 current model
+
+> **Yuko's V07 strength is continued desire without either self-erasure or rival attack. She changes her appearance as an authored new phase, asks Saku to keep watching, praises Momiji's dance while naming her own wish, and asks for more ordinary time. Saku now directly includes Yuko in a five-person field of romantic pain and privately shares the wish for longer presence. That recognition deepens their relation but does not reverse his refusal, promise selection, or create a couple.**
+
+## V08 watchlist
+
+- whether Yuko's direct non-attacking rivalry persists when Momiji's full purpose becomes known;
+- whether ordinary Saku contact remains compatible with the completed refusal rather than creating another veto;
+- whether Kaito friendship is enacted after Yuko's V06.5 intention;
+- whether appearance change remains self-authored rather than treated as romantic causation;
+- whether Yuko seeks private support before a public or crisis climax;
 - direct reciprocal evidence only before any couple claim.

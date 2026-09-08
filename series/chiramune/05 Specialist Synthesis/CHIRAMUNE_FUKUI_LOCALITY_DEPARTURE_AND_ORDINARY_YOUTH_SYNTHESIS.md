@@ -1,11 +1,11 @@
 ---
 series: CHIRAMUNE
 artifact_type: specialist_synthesis
-scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V06_5
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
-latest_analyzed_main: V06
+scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V07
+source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
+latest_analyzed_main: V07
 latest_analyzed_supplemental: V06_5_FOUR_STORY_VOLUME
-generation: V0.4
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -321,3 +321,50 @@ This supports a bounded production history only. The in-story organizations and 
 - whether Haru's local athletic lineage becomes a sustainable education or career route;
 - whether Saku selects any durable practice from baseball, study, local relation, or a new field;
 - whether return remains a chosen reconstruction rather than a narrative reset.
+
+## XXIII. V07 update — school time and local routes become contested access
+
+### Festival institutions organize rather than decorate relation
+
+The school festival produces class votes, assigned performance roles, a vertical blue-team organization, differentiated work, overnight cheer camp, full-school no-club days, and a coach-authorized basketball contest. These structures determine who can teach, partner, travel, rehearse, and be publicly seen `[V07:part0008#p0392-p0603]`, `[V07:part0008#p1077-p1378]`, `[V07:part0028#p0092-p0434]`.
+
+Snow White roles do not establish private romance, and the pirate cheer narrative does not simply mirror the group. The institution supplies a temporary public grammar through which existing status and new access become actionable.
+
+### Food and retail remain social infrastructure
+
+Elpa, Sakura Chaya, Hachiban Ramen, Texas Hands, and Mister Donut organize provisioning, family hospitality, unauthorized snacks, private exits, and late-night decompression. Shared pickup economics and local food memory determine who moves together and who can create a pause `[V07:part0009#p0796-p0833]`, `[V07:part0009#p0968-p1053]`, `[V07:part0011#p0470-p0516]`, `[V07:part0015#p0204-p0344]`.
+
+The result continues the specialist rule: named venues matter as usable systems, not as tourism inventory.
+
+### Home, park, and river become claims whose authority is limited
+
+Yuko's house and nearby park make camp and athletic practice possible. The Asuwa riverbank carries Asuka/Saku history; public catch carries Haru/Saku partnership; Saku's kitchen and the `優空用` chair carry Yua's domestic ordinary. Momiji's requests expose how repeated local use produces emotional reliance `[V07:part0020#p0162-p0418]`, `[V07:part0022#p0147-p0467]`, `[V07:part0024#p0095-p0590]`.
+
+Reliance does not become property. Public space, sport, cooking, and a shared home cannot authorize exclusion of another suitor, while responsible entry still must recognize the histories it destabilizes.
+
+### Recipe transmission preserves local memory without fixing ownership
+
+Yua asks Yuzuki for the katsudon recipe because she wants to preserve rather than overwrite the memory Saku praised. Yuzuki teaches her `[V07:part0015#p0501-p0539]`, `[V07:part0017#p0001-p0025]`.
+
+Regional food memory becomes transmissible practice. Provenance remains attributed even as knowledge circulates; continuity does not require one exclusive maintainer.
+
+### September weather presses against the group's pause
+
+Dawn frames Momiji's entry through speed, a season-changing shower frames her confrontation with Yuzuki, and the final court clears from rain toward blue. Weather is temporal pressure: the pleasant repaired interval is real, but summer cannot be indefinitely preserved.
+
+### Departure and vocation remain unevenly operational
+
+Asuka joins second-term group work and forms an explicit friendship with Yua. Her Tokyo direction continues to organize finite time, but V07 adds no housing, transport, editorial-placement, or communication logistics. Haru and Yuzuki receive high-level athletic evidence, while Saku's baseball remains recurrent ordinary pleasure without a durable institutional decision.
+
+## XXIV. Current specialist model after V07
+
+> **Through V07, Fukui is both enabling route network and field of contested reliance. School schedules, festival labor, parks, riverbanks, homes, shops, and food make repeated access materially possible; that repetition can become emotionally special without creating ownership over a person or practice. Memory becomes healthiest when transmissible and attributed, as in Yuzuki's recipe passing to Yua. September's changing weather prevents repaired summer continuity from becoming timeless. Asuka's departure, Haru and Yuzuki's athletic futures, and Saku's baseball remain selectable directions rather than operational decisions.**
+
+## XXV. V08 research questions
+
+- whether festival performance produces new public interpretations that alter private access;
+- whether Asuka's Tokyo direction gains concrete housing, transport, study, work, or communication form;
+- whether Haru's and Yuzuki's athletic futures become sustainable institutional paths rather than peak events;
+- whether the kitchen, riverbank, and catch can remain shareable without erasing differentiated history;
+- whether local food knowledge and care labor continue to circulate rather than attach to one gendered maintainer;
+- whether Saku selects a durable practice from baseball, study, local relation, or a new field.
