@@ -15,6 +15,12 @@ mutable: true
 
 # Project SEKAI Epistemic State Ledger
 
+## Current authority and historical-state resolution
+
+The latest integrated epistemic boundary is **EVENT_0072**. Later event entries extend rather than erase the main-story and earlier-event knowledge states. Earlier overview/pending statements referring to EVENT_0053 are historical handoffs. In particular, EVENT_0061 establishes bounded N25 knowledge of Mafuyu's family/music restrictions; EVENT_0072 establishes witnessed action-specific wanting while leaving vocation and broad emotion naming unresolved. Neither entry grants participants the audience's full private history.
+
+Mizuki's guarded content remains undisclosed within this analytical boundary. Cross-unit familiarity and Virtual Singer observation confer only the knowledge explicitly recorded below. EVENT_0073 is the next forward transaction; 21 older universal-screen gaps and the other four unit foundations remain separate coverage obligations in the canonical routing/current-state infrastructure.
+
 ## 1. Purpose
 
 This is the canonical mutable ledger for **who knows what, when, from which source, with what confidence, and whether the knowledge is direct, inferred, mistaken, or audience-only**.

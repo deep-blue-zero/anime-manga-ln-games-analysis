@@ -15,6 +15,23 @@ mutable: true
 
 # Project SEKAI Theme and Motif Ledger
 
+## Current authority and reference disambiguation
+
+N25 thematic authority reaches **EVENT_0072**, including `TH-N25-032` and `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and the 21 older incomplete universal screens remain pending in the routing/current-state infrastructure.
+
+The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
+
+| Imported ID | Distinct historical meanings and required qualifier |
+|---|---|
+| `TH-N25-005` | §8 hope/search exhaustion; §12.6 warmth as low-intensity efficacy, EVENT_0026 |
+| `TH-N25-009` | §12 negative affect as self-evidence and its later explicit extensions; §12.4 curse/obligation/chosen continuation, EVENT_0014; §12.6 persistence as virtue and pathology, EVENT_0026 |
+| `TH-N25-015` | §12.3 seasonal ritual and its later explicit extensions; §12.7 ordinary companionship across multiple spaces, EVENT_0029 |
+| `TH-N25-024` | §12.5 ordinary activity as mutual revelation and its later explicit extensions; §12.7 future attachment without falsifying happiness, EVENT_0029; EVENT_0068 causal backfill of that attachment/happiness meaning |
+| `MO-N25-013` | §12.6 carnation field/perspective-scaled memory, EVENT_0026; §12.20 blank canvas/repeated self-assignment, EVENT_0053 |
+| `MO-N25-014` | §12.7 souvenir/commemorative object, EVENT_0029; §12.21 sakura/shared experience, EVENT_0054 |
+
+New references must resolve the intended meaning from the local formulation and evidence, never infer it from the repeated ID alone. This is a citation-integrity clarification, not a new thematic finding or a rewrite of the historical source boundaries.
+
 ## 1. Purpose and caution
 
 This is the canonical mutable ledger for recurring themes, conceptual structures, motifs, and symbolic/creative patterns that are useful **across multiple readings**.

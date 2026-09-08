@@ -15,6 +15,21 @@ mutable: true
 
 # Project SEKAI Claim Revision Ledger
 
+## Current authority and reference disambiguation
+
+N25 claim authority reaches **EVENT_0072**, including `CR-N25-MF-088/089/090`. Earlier summaries and pending-domain statements are historical handoffs. A claim's formulation must be read at the requested event boundary, with subsequent transitions applied only when that boundary includes them. EVENT_0073 remains unprocessed; the source cutoff does not advance claim authority.
+
+The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
+
+| Imported ID | Earlier home | Other distinct home |
+|---|---|---|
+| `CR-N25-MF-006` | §2, main-story disappearance sincerity | §7.2, EVENT_0004 positive affect before appraisal |
+| `CR-N25-MF-007` | §2, main-story wish-to-live overread | §7.2, EVENT_0004 public-mask opacity |
+| `CR-N25-MF-008` | §2, main-story global-passivity rejection | §7.2, EVENT_0004 salience before meaning |
+| `CR-N25-ENA-037` | §7.6, EVENT_0019 support under unexplained concern | §7.20, EVENT_0053 technical deficit versus artistic legitimacy |
+
+The EVENT_0070 heading `CR-N25-E-057 / talent-continuation architecture` is a dangling imported reference, not an additional established claim. Its stated EVENT_0053 continuation premise resolves to **`CR-N25-ENA-021`**, including the §7.20 strengthening. Use that responsible claim plus the EVENT_0070 extension when citing the passage. These reference repairs introduce no new source findings and confer no franchise-wide claim authority before the other unit foundations are completed.
+
 ## 1. Purpose
 
 This is the canonical routing ledger for substantive analytical claim transitions. It prevents early or superseded interpretations from remaining in circulation without an authority state.

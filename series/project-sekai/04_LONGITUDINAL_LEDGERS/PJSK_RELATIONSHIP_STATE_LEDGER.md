@@ -15,6 +15,12 @@ mutable: true
 
 # Project SEKAI Relationship State Ledger
 
+## Current authority and historical-state resolution
+
+Relationship evidence is integrated through **EVENT_0072**. Current N25 defaults include `REL-N25-KM-7`, `REL-N25-EM-4`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with their later event-specific extensions below. N25 Miku's human-group relationship is `REL-N25-GM-E0054`; N25 Len's newcomer relationship is `REL-N25-VS-LEN-GROUP-E0061`. These manifestations remain distinct. Bounded cross-unit entries do not establish complete other-unit relationship systems.
+
+Earlier overview and pending-domain statements are historical handoffs, superseded as current scope by the later named entries and front matter. Earlier states remain valid at their own temporal boundaries. The next forward event is EVENT_0073. The separate routing ledger retains 21 earlier incomplete universal screens; neither that backlog nor unfounded units are represented as completed by this relationship frontier.
+
 ## 1. Purpose
 
 This is the canonical mutable ledger for **relationship state and relationship transitions**. It exists because character behavior is conditioned not only by individual psychology but by what one participant expects, knows, trusts, fears, resents, admires, or permits with another.

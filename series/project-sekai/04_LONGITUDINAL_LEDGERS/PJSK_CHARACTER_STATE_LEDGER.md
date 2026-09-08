@@ -15,6 +15,12 @@ mutable: true
 
 # Project SEKAI Character State Ledger
 
+## Current authority and historical-state resolution
+
+The verified forward analytical frontier is **EVENT_0072**. Current defaults are **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. The event entries below preserve the causes and limits of each transition. A historical entry's `current within cutoff` label refers to its own recorded cutoff; it does not override a later successor. In particular, `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` are historical-to-current chains, not simultaneous defaults.
+
+The earlier summaries and pending-queue statements below are retained as historical handoffs. They do not cap this ledger at EVENT_0053 or EVENT_0058. Other human-unit foundations remain pending. The franchise routing ledger separately records 21 earlier incomplete universal screens; a latest forward event is not a claim of gap-free franchise coverage. The source inventory is frozen through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; later source availability confers no analytical authority.
+
 ## 1. Purpose and authority
 
 This is the canonical mutable ledger for **longitudinal character state** in the Project SEKAI analytical layer. It stores state transitions that later event, card, area, self, special, and My SEKAI analysis can extend without overwriting historically valid earlier states.

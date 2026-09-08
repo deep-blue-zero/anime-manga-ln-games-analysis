@@ -13,6 +13,12 @@ analysis_cutoff: "N25 positive integration and documentary screening through EVE
 
 # Project SEKAI Release Impact Ledger
 
+## Current execution handoff
+
+The last completed forward event transaction is **EVENT_0072**; the next is **EVENT_0073**. Positive N25 integration reaches EVENT_0072, with current human tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier `Pending release queue` and `Next pending release` passages are historical handoffs at their surrounding event boundaries; they are not competing current instructions.
+
+The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Its final coverage also requires the 21 older incomplete universal screens and interpretation of material deferred routes after the remaining foundations. Existing N25 I0–I3 scores are scoped to the founded N25 baseline. An event-level reconstruction-yield label does not certify a character package as reconstruction-ready.
+
 ## 1. Purpose
 
 Mutable ledger recording the analytical effect of releases after source ingestion. Source-current does not equal analysis-current. A release enters this ledger when triaged or integrated.
