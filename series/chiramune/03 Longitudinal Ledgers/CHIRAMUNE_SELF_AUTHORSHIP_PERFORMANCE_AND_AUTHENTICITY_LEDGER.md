@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V03_AND_BOOKLET
-source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04+ unopened"
-generation: V0.4
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V04
+source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -186,3 +186,40 @@ The booklet adds one compact but diagnostic Yuzuki case after the main V03 freez
 | SA-045 | Yuzuki / post-Tokyo “overwrite” | she stages mock-criminal directions, claims a coincidental meeting, uses sexual humor, places her scent-bearing cap on Saku, and names the act only elliptically in a weakened voice | authored performance can be the form of sincere vulnerability rather than a screen that must be removed before intimacy | indirection protects her agency and face but also lets Saku receive the gesture without understanding or answering it | `[V03B:p-001#p0015-p0027]`, `[V03B:p-001#p0041-p0056]` |
 
 This preserves the V02–V03 authenticity rule while adding a relational cost. Yuzuki remains most recognizably herself when theatrical fluency and exposed feeling coexist. The same fluency that lets her risk a bid also keeps its demand deniable; later evidence must test whether she can make a direct request when ambiguity no longer serves her.
+
+# V04 update — authored endings, shared heat, and compulsory extremity
+
+## V04 governing revision
+
+Volume 04 distinguishes a chosen difficult form from one made compulsory for oneself or others. Saku's one-game baseball return is authentic because he selects its purpose, equipment, conditions, and endpoint after receiving another person's challenge. Haru's athletic heat is likewise real, but becomes constraining when she cannot permit rest, uncertainty, or methods unlike her own.
+
+## V04 entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-046 | Haru / red flame | she fears becoming someone whose passion has gone out and uses relentless practice to remain worthy of her sun-linked name | athletic intensity is a chosen identity and moral-aesthetic commitment, not a bid for rank alone | the identity makes rest and admitted limitation feel like self-betrayal | `[p-0010#p0004-p0031]` |
+| SA-047 | Saku / wood-bat routine | he continued daily swings and chose wood after quitting organized baseball | embodied practice can preserve a self across institutional refusal | he cannot initially narrate the grief even to Asuka | `[p-0015#p0079-p0017#p0008]` |
+| SA-048 | Saku / complete disclosure | he gives Haru the full reason he quit and accepts crying, touch, and rebuke | the defensive hero form becomes permeable beyond the singular Asuka scene | disclosure requires repeated pressure and a wager; ordinary requesting remains unproven | `[p-0020#p0503-p0022#p0049]` |
+| SA-049 | Saku / retirement game | he defines one game as the ending he wants, sets external-helper conditions, keeps the wood bat, and refuses continuation | authenticity can include re-entering an old form to author its ending rather than restore its institution | future noninstitutional baseball remains open | `[p-0025#p0228-p0329]`, `[p-0030#p0748-p0032#p0027]` |
+| SA-050 | Haru / demon captain | she performs visible extremity and accepts sole blame while Yuzuki privately manages complaints | a self-authored role becomes coercive when it hides collaboration and conscripts others into its terms | the team did choose Haru and the championship goal; leadership concern was not fabricated | `[p-0023#p0237-p0025#p0063]` |
+| SA-051 | Haru / dependence | she admits she is incomplete, asks teammates to supply what she lacks, and later wants to run beside rather than rescue Saku | dependence can be named without surrendering competitive identity | direct reckoning over prior harm remains limited | `[p-0025#p0123-p0135]`, `[p-0032#p0284-p0354]`, `[p-0035]` |
+| SA-052 | Yuzuki / public co-leader | she moves from hidden complaint manager to direct inquiry, voluntary coordination, and visible partnership | revision of a role can preserve loyalty while reclaiming corrective authority | she still delays disclosure and romantic self-advocacy | `[p-0023#p0131-p0166]`, `[p-0032#p0030-p0280]` |
+| SA-053 | Haru / direct love | she names love privately and publicly, imagines ordinary dating, and leaves the next move to Saku | directness is authored vulnerability rather than absence of competitive selfhood | Saku does not reciprocally name the relation | `[p-0027#p0027-p0074]`, `[p-0030#p0001-p0019]`, `[p-0034#p0001-p0025]` |
+| SA-054 | Saku / Asuka category | he says he likes and is drawn to Asuka but cannot tell whether “romantic love” is the right name | a prior sincere utterance need not stabilize a permanent internal category | categorical uncertainty can also preserve optionality; motive remains open | `[p-0015#p0130-p0166]` |
+| SA-055 | sport / injury proof | Haru collapses; Saku and Atomu continue through damage; Saku conceals a severe wrist injury | chosen extremity repeatedly becomes proof that passion is real | medical and teammate dissent show that authored risk is not consequence-free or ethically self-contained | `[p-0023#p0004-p0127]`, `[p-0027#p0078-p0117]`, `[p-0030#p0023-p0323]` |
+| SA-056 | Ramune / reversible light | Saku and Haru jointly open the bottle; the marble is removed; each can occupy sun or moon position | relation can open an enclosure without dissolving distinct roles, and received influence can become separately authored action | no terminal symbolic meaning or romantic resolution follows | `[p-0032#p0574-p0035#p0032]` |
+
+## Authenticity rule after V04
+
+The current rule is:
+
+> **An authentic form may be inherited, performed, revised, and relationally enabled. Its strongest test is not purity of origin or extremity of sacrifice, but whether the person and affected others retain the ability to understand, refuse, renegotiate, and redirect what the form demands.**
+
+## V04 revision state
+
+- Saku's jurisdictional isolation → **REVISE / WEAKEN** through complete disclosure and receipt of Haru's unscripted response; self-requested dependence remains open.
+- authored identity versus institutional role → **STRENGTHEN** through the bounded retirement game.
+- Haru's directness as uncomplicated corrective → **REVISE**; it can return choice to Saku or become coercive team governance.
+- Yuzuki's performance as chosen interface → **STRENGTHEN** through visible co-leadership; romantic deniability remains.
+- named love as stable category → **REVISE**; the speech act remains real while Saku's later self-classification reopens.
+- difficult effort as proof of authenticity → **REJECT in strong form** because injury and unsustainable practice constrain future authorship.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_V01_V03_BASELINE
-source_boundary: "Japanese Volumes 01-03; V03 interpreted prospectively from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
-generation: V0.1
+scope: ASUKA_NISHINO_V01_V04_BASELINE
+source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated after the main freeze but does not materially revise Asuka; V04 read prospectively from that checkpoint; V05+ unopened"
+generation: V0.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,13 +11,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Asuka Nishino — V01–V03 character monograph
+# Asuka Nishino — V01–V04 character monograph
 
 ## Scope and promotion basis
 
 Volume 03 crosses the independent-model threshold for Asuka Nishino (西野明日風): sustained ordinary interaction, direct childhood and present focalization, a three-summer formation history, family conflict, vocational inquiry, romantic disclosure, behavior under grief, external witness, and significant counterevidence. V01–V02 establish how Saku and Yuzuki perceived her; V03 is the first boundary at which those perceptions can be tested against Asuka's own account.
 
-This is a V03-bounded current model, not a final series interpretation. The separately packaged V03 illustration/short-story booklet remains unopened and cannot support any claim here.
+This is a V04-bounded current model, not a final series interpretation. Sections 1–16 preserve the V03 promotion model; the later bounded revision records that the separately packaged booklet does not materially change Asuka and that V04 reopens only the Saku-side relationship category.
 
 ## 1. Compressed model
 
@@ -205,3 +205,23 @@ Unsupported. Love is named, but exclusivity, future proximity, and long-term for
 - how she responds when Saku's choices do not align with her hopes;
 - whether her father's revised permission becomes trust in practice;
 - whether the separate V03 booklet, once safely opened, materially revises or merely supplements this model.
+
+# V04 bounded revision
+
+## Evidence limit
+
+Volume 04 does not give Asuka focalization, a departure-process update, or a material test of her vow against dependence. The separate V03 booklet also supplies no Asuka-side evidence beyond making her recent Tokyo significance the likely object of Yuzuki's competitive “overwrite.” The V03 character model therefore remains substantially intact.
+
+## Saku's category is reopened
+
+Saku says he likes and is drawn to Asuka but remains unsure whether to call the feeling romantic love `[p-0015#p0130-p0166]`. This is evidence about Saku's current classification, not a retraction by Asuka. Her V03 love naming and their reciprocal speech event remain historical facts. The current relationship description must nevertheless be narrowed from settled mutual romantic love to **Asuka's named love plus Saku's attraction, significance, prior love language, and reopened categorical uncertainty**.
+
+## Recognition remains real but incomplete
+
+Asuka learns baseball language, notices the hidden labor of Saku's continued swings, and accurately challenges his claim to have shown her his uncool parts. He admits that even the Tokyo disclosure was substantially organized for her and that he could not yet tell her why he quit `[p-0015#p0186-p0017#p0008]`.
+
+This preserves her recognitional strength while limiting any claim that their recovered childhood history granted complete access. She later joins the current group's baseball support without displacing Haru or converting the scene into romantic ranking.
+
+## V04 current limit
+
+No V04 evidence establishes whether Asuka can rely on others in Tokyo, whether her editorial plan advances, or how she responds to Saku's directed Haru gesture and public declaration. Those questions remain open rather than receiving inferred answers from absence.

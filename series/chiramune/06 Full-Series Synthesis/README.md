@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: series_synthesis_router
 scope: ROLLING_AND_TERMINAL_SERIES_SYNTHESIS
-source_boundary: "Architecture route only; Japanese main analysis frozen through Volume 03; bundled V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE; no synthesis artifact promoted yet"
-generation: V0.2
+source_boundary: "Japanese main analysis frozen through Volume 04; bundled V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE; current published-corpus synthesis promoted at the V04 convergence boundary"
+generation: V0.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -44,6 +44,8 @@ A rolling synthesis may be created when the analyzed corpus reaches a meaningful
 Preferred name:
 
 `CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md`
+
+That artifact is now promoted at V04. The two parallel sports plots, five ledgers, and four character monographs create independent cross-document retrieval value. It remains explicitly analyzed-to-date and mutable; it does not imply publication closure or terminal-series eligibility.
 
 It must state at least:
 

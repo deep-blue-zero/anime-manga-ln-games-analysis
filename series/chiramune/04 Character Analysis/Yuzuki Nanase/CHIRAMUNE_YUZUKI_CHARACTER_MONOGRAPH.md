@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V03_AND_BOOKLET_BASELINE
-source_boundary: "Japanese Volumes 01-03; V03 interpreted prospectively from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04+ unopened"
-generation: V0.3
+scope: YUZUKI_NANASE_V01_V04_BASELINE
+source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,11 +11,11 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — V01–V03 character monograph
+# Yuzuki Nanase — V01–V04 character monograph
 
 ## Scope
 
-Volume 02 supplies enough direct Yuzuki focalization, ordinary-life evidence, retrospective self-account, relationship contrast, crisis behavior, and counterevidence to justify a dedicated monograph. Volume 03 adds a bounded behavioral test of named love. This remains a V03-bounded model, not a final series interpretation.
+Volume 02 supplies enough direct Yuzuki focalization, ordinary-life evidence, retrospective self-account, relationship contrast, crisis behavior, and counterevidence to justify a dedicated monograph. Volume 03 adds a bounded behavioral test of named love; its separate booklet adds a later-V03 competitive bid; Volume 04 tests her team leadership and rivalry. This remains a V04-bounded model, not a final series interpretation.
 
 # 1. Compressed model
 
@@ -332,3 +332,43 @@ The dedicated illustration fixes the boyish cap/hoodie/shorts presentation, phon
 ## Post-booklet current model
 
 > **Yuzuki can help Saku toward Asuka and still want to restore her own trace afterward. Her V03 generosity is therefore not surrender: it is a non-sabotaging choice made by someone who remains jealous, hopeful, playful, and willing to ask for a small share of ordinary intimacy. Performance is the vehicle of that vulnerable claim, but its deniability postpones the direct answer she may eventually need.**
+
+# V04 longitudinal revision
+
+## 1. Hidden care becomes a failed leadership structure
+
+Yuzuki's optimization and Haru's directness are not merely personality contrasts. They form a concealed “demon Umi / Buddha Nana” compact: Haru performs extremity and takes blame, while Yuzuki handles permissions and privately absorbs complaints `[p-0023#p0237-p0025#p0063]`.
+
+The arrangement demonstrates Yuzuki's loyalty and administrative competence. It also traps her inside maintenance of a method she doubts, denies teammates the information needed to evaluate leadership, and lets her care delay public correction.
+
+## 2. She gives the team an independent voice
+
+After Haru collapses, Yuzuki asks teammates directly whether they want the Inter-High and how they understand adequate training. Their answers preserve the goal while rejecting Haru's expanded hours and uniform correction `[p-0023#p0131-p0166]`.
+
+During the official break she organizes voluntary practices. In the match she makes missing support legible through play, then joins Haru openly and takes difficult shots `[p-0032#p0030-p0280]`. This is not Saku acting through her. Yuzuki becomes a consequential agenda-setter and corrective co-leader in her own right.
+
+## 3. Loyalty can include public disagreement
+
+The V02 anti-coercion core now receives a team-domain test. Yuzuki does not abandon Haru, expose her private pain against her wishes, or treat loyalty as silent compliance. She delays disclosure, which remains ethically contestable, but ultimately changes the structure from invisible soothing to visible partnership.
+
+Haru's recognition of Yuzuki as both athletic and romantic rival gives disagreement a durable relational form. Yuzuki need not become Haru's opposite or subordinate to remain close.
+
+## 4. Romantic self-advocacy remains indirect
+
+Yuzuki reacts to Saku's intense faith in Haru with restrained language and a brief shift to his given name `[p-0025#p0337-p0380]`. She does not sabotage Haru and does not deny competition. Yet she still makes no direct request of Saku and receives no answer to her named love.
+
+V04 thus separates two developmental tracks. Yuzuki can reclaim public jurisdiction in the team while leaving romantic jurisdiction protected by indirection. Competence in one domain should not be misread as automatic resolution in the other.
+
+## 5. V04 current model
+
+> **Yuzuki's V04 development is movement from invisible relational management toward public corrective authority. She remains loyal to Haru by questioning the method, eliciting teammates' voices, and becoming a visible co-leader rather than a private complaint sink. Her generosity and rivalry remain compatible, but direct romantic self-advocacy toward Saku is still postponed behind understatement and deniable register.**
+
+## 6. V05 watchlist
+
+- whether team leadership remains open and negotiable after crisis;
+- whether she and Haru can disagree before a concealed plan collapses;
+- whether voluntary coordination becomes sustainable routine;
+- whether Yuzuki makes a non-deniable romantic request or boundary;
+- whether Saku recognizes her hurt without needing theatrical translation;
+- whether public authority reduces or reproduces her habit of absorbing others' expectations;
+- whether competition remains non-sabotaging if Saku makes an excluding choice.

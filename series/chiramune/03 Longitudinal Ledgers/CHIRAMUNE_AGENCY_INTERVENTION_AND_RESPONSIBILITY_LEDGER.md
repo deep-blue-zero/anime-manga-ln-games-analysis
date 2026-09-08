@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V03
-source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
-generation: V0.3
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V04
+source_boundary: "Japanese Volumes 01-04; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated after the main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -207,3 +207,45 @@ Saku improves most at stages 2 and 4. He accepts Tokyo as Asuka's choice and her
 - Saku can receive another person's method → **STRENGTHEN but scope-limit** to Asuka's consensual editing/witness.
 - successful intervention as ethical vindication → **REJECT in strong form**.
 - New live question: can Saku make procedural consent ordinary rather than exceptional when urgency, romance, or accurate prediction tempts control?
+
+# V04 update — pressure, self-authored uptake, and collective method
+
+## V04 governing revision
+
+Volume 04 supplies the strongest positive test yet of intervention that materially changes another person without taking over the answer. Haru uses relational standing, confrontation, and rebuke to make Saku face baseball grief, then explicitly refuses to decide for him. The basketball plot supplies the inverse: a collectively chosen goal does not authorize leaders to hide governance, define teammates' interior seriousness, or impose one proof of commitment.
+
+## V04 entries
+
+| ID | Intervention | Agency / authority question | V04 assessment | Locator |
+|---|---|---|---|---|
+| AI-047 | Haru stops Saku punching concrete | immediate bodily intervention prevents foreseeable self-harm and preserves his dominant hand | proportionate crisis restraint grounded in current-partner standing; it does not pretend to solve the cause | `[p-0017#p0164-p0188]` |
+| AI-048 | Haru invokes the tied wager and demands disclosure | prior reciprocity and repeated refusal create standing, but not unlimited ownership of private history | forceful and not fully invitation-based; Saku consciously decides he can entrust the account to her | `[p-0020#p0503-p0555]` |
+| AI-049 | Haru listens, rebukes, then returns the decision | can a helper interpret conduct without selecting the outcome? | strongest positive intervention in the series so far: material pressure plus explicit restoration of final choice | `[p-0020#p0559-p0022#p0049]` |
+| AI-050 | Saku chooses one retirement game | former teammates, coach, and Haru all have interests in the result | self-authored bounded uptake; he distinguishes acting “thanks to” Haru from acting “for” her | `[p-0025#p0228-p0329]` |
+| AI-051 | Wataya accepts external-helper conditions | remorse must become changed authority behavior | meaningful behavioral repair: he bows, accepts separate training and one-game scope, and later recognizes Saku's style; forgiveness is not demanded | `[p-0025#p0228-p0303]`, `[p-0028#p0096-p0143]` |
+| AI-052 | Haru/Yuzuki demon–Buddha compact | does election and a shared championship goal authorize concealed role division and expanded sacrifice? | no; the compact withholds material context and substitutes leaders' judgment for teammate consent | `[p-0023#p0237-p0025#p0063]` |
+| AI-053 | Coach Misaki refuses imposed villainy | who owns the team's method and recognition of limits? | explicit restoration of player jurisdiction; accurate goals do not make coercive methods legitimate | `[p-0025#p0088-p0100]` |
+| AI-054 | Saku assigns Yuzuki team jurisdiction | can he help Haru without controlling both crisis fronts? | strong distributed-authority act; Yuzuki, not Saku, leads the team inquiry and later repair | `[p-0023#p0048-p0166]` |
+| AI-055 | Saku conceals severe wrist injury and refuses substitution | self-authorship versus relational and medical standing over bodily risk | self-authored but ethically deficient risk model; his choice externalizes fear, labor, and possible aftermath to others | `[p-0030#p0023-p0323]` |
+| AI-056 | Hirano stops Saku's unsafe run and completes the play | may a teammate limit immediate action while assuming the remaining task? | proportionate reciprocal intervention that converts solitary heroism into shared responsibility | `[p-0030#p0600-p0737]` |
+| AI-057 | Haru asks teammates for help “if and when” they can give it | does repair restore voluntary participation? | consent-sensitive wording and real dependence, but direct accountability for the hidden compact remains incomplete | `[p-0032#p0069-p0123]` |
+
+## Collective-process rule after V04
+
+The V03 four-part intervention test now applies to groups:
+
+1. agreement on a goal does not imply agreement on method;
+2. positional authority does not confer authority over another person's inner effort;
+3. withheld governance information can make apparently voluntary participation less informed;
+4. repair requires more than a successful outcome—it must reopen voice, role differentiation, and refusal.
+
+Haru's intervention with Saku works because her pressure terminates in his deliberation. Her initial basketball leadership fails because the pressure is designed to terminate in compliance.
+
+## V04 revision state
+
+- Saku can receive another person's method → **STRENGTHEN** through Haru's sustained, non-Asuka-specific accompaniment.
+- consent to help versus consent to method → **STRENGTHEN / BROADEN** from dyadic rescue to team governance.
+- Saku's respect for procedural jurisdiction → **REVISE / OPEN**; he accepts distributed authority and a helper-led disclosure but still conceals injury.
+- relational standing over self-risk → **STRENGTHEN**; teammates, Haru, coach, and Yusuke all bear consequences of his concealment.
+- successful outcome as ethical vindication → **REJECT again**; both sports victories/near-victories leave method harms intact.
+- New live question: can consent, safety, and disagreement become ordinary practice rather than corrections applied only after collapse?

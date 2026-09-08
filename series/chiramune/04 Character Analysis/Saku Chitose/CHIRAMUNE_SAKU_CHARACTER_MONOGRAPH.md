@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V03_AND_BOOKLET_BASELINE
-source_boundary: "Japanese Volumes 01-03; V03 interpreted prospectively from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04+ unopened"
-generation: V0.4
+scope: SAKU_CHITOSE_V01_V04_BASELINE
+source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,11 +11,11 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Saku Chitose — V01–V03 character monograph
+# Saku Chitose — V01–V04 character monograph
 
 ## Scope and authority
 
-This is a cumulative, source-bounded **Volumes 01–03 model**, not a definitive series model. Sections 1–17 preserve the complete V01 baseline because V01 provides unusually dense Saku evidence across several weeks, multiple social contexts, independent peer observations, internal narration, athletic behavior, conflict, ordinary life, and one temporary focalization outside Saku that shows how he appears from below. The `V02 longitudinal revision` and `V03 longitudinal revision` sections update that baseline without rewriting it.
+This is a cumulative, source-bounded **Volumes 01–04 model**, not a definitive series model. Sections 1–17 preserve the complete V01 baseline because V01 provides unusually dense Saku evidence across several weeks, multiple social contexts, independent peer observations, internal narration, athletic behavior, conflict, ordinary life, and one temporary focalization outside Saku that shows how he appears from below. The boundary-labeled V02, V03-main, V03-booklet, and V04 revision sections update that baseline without rewriting it.
 
 Later volumes are expected to change the current model. They must do so through explicit revision rather than retroactively treating later knowledge as though V01 or V02 already contained it.
 
@@ -656,3 +656,64 @@ The booklet therefore strengthens the distinction between Saku's ability to rece
 - whether “home” becomes a shareable dependency he can request, not merely a welcome sensation other people create for him.
 
 The wider V03 stable model remains unchanged: this brief supplement adds ordinary relational texture but does not alter the formation, intervention, Asuka, family, baseball, or mutual-love findings frozen from the main volume.
+
+# V04 longitudinal revision
+
+## 1. Baseball grief becomes fully speakable
+
+Saku's daily swings and self-selected wood bat establish that quitting the institution never erased embodied baseball `[p-0015#p0079-p0118]`. At Asuwayama he gives Haru the complete account: Wataya's abusive control, punishment for defending Yusuke, exclusion from ball work, and the teammates' final gifted/ungifted betrayal `[p-0020#p0559-p0723]`.
+
+He accepts Haru's anger rather than using humor or superior framing to control the emotional result. Crying while she holds him broadens V03's Asuka-specific permeability into a second, differently constituted relationship `[p-0020#p0727-p0022#p0020]`.
+
+## 2. He authors an ending rather than restoring the old role
+
+Saku chooses one game as a retirement game, defines external-helper conditions, keeps Yusuke as captain, uses the wood bat that belongs to his post-quitting year, and refuses continuation after the win `[p-0025#p0228-p0329]`, `[p-0028#p0061-p0189]`, `[p-0030#p0748-p0032#p0027]`.
+
+This is neither a triumphant return nor avoidance. He re-enters the scene long enough to choose what it will mean and then closes Fujishi membership. Future recreational or differently organized play remains open.
+
+## 3. Receiving help improves from interpretation to sustained accompaniment
+
+Haru's response is not a gentler version of Saku's preferred method. She listens, holds, becomes angry at him, and then refuses to decide. Saku explicitly recognizes that he may entrust the burden to her and asks for time to choose `[p-0020#p0531-p0022#p0049]`.
+
+V04 therefore weakens the claim that Saku can only receive co-authorship from the singular person who shares his childhood origin. It does not show that he can routinely ask for help without being pressed, challenged, or bound by a wager.
+
+## 4. Distributed authority grows; bodily self-disposability persists
+
+Saku assigns Yuzuki authority over the basketball team while he tends to Haru, accepts Coach Misaki's criticism of imposed method, lets Haru's answer remain hers, and eventually accepts teammates completing the baseball outcome. He no longer needs to coordinate every consequential action.
+
+His body remains an exception in his own ethics. He conceals a severe wrist injury, refuses Wataya's medically prudent substitution, and treats present agonistic action as more important than shared fear and future cost `[p-0030#p0023-p0323]`. Hirano's order to stop the unsafe run is a necessary relational correction. Saku's self-authorship still undercounts other people's standing over consequences he calls his own.
+
+## 5. Romance becomes more directional and less categorically stable
+
+Haru's love is direct, repeated, and public. Saku directs his wristband signal to her, calls an imagined ordinary relationship attractive, receives her kiss, and promises to support her. He does not reciprocally name love, and she leaves the next move to him `[p-0027#p0027-p0074]`, `[p-0030#p0001-p0019]`, `[p-0034#p0001-p0025]`.
+
+V04 also revises the V03 Saku/Asuka interpretation. Saku says internally that he likes and is drawn to Asuka but does not know whether “romantic love” is the right name `[p-0015#p0130-p0166]`. The V03 mutual wording remains a factual speech event; it no longer supports a timeless claim that his internal category is settled.
+
+Yua's future-performance promise, Yuko's specialness claim and answer moratorium, and Yuzuki's continuing indirect bid all remain unclassified from Saku's side. His problem is not absence of reciprocal conduct. It is persistent reluctance or inability to convert conduct into answerable categories.
+
+## 6. Exceptional action becomes a contribution rather than the whole result
+
+Saku's current group creates the practice conditions through differentiated labor. The old team completes the baseball win after his injured hit. In the parallel basketball match, his example is translated into Haru's movement rather than copied as command `[p-0027#p0119-p0196]`, `[p-0030#p0600-p0737]`, `[p-0032#p0408-p0510]`.
+
+The hero persona becomes less isolating when exceptional capacity changes others' option sets and lets them act. It remains dangerous when Saku believes the contribution must be purchased with damage only he is entitled to authorize.
+
+## 7. Ramune and reversible light
+
+Unable to open the bottle alone because of injury, Saku steadies it while Haru pushes the marble. He later removes the marble and raises it to the sky `[p-0032#p0574-p0034#p0042]`. The self-model of beautiful enclosure now includes collaborative opening and retrievability.
+
+Saku can also become a sun in Haru's focalization while receiving her sunlight in his own. The full-moon perfection rule is thereby weakened symbolically: light can be borrowed, redirected, partial, and role-reversible. Whether this changes daily self-demand remains open.
+
+## 8. V04 stable model
+
+> **Saku remains a genuinely capable self-author whose defensive perfection protects real care against entitlement. V04 makes him substantially more permeable: he gives complete disclosure, accepts an unscripted emotional response, sets a bounded ending, and lets groups complete what he begins. His unresolved asymmetry now appears most sharply in body and romance. He treats injury as his private cost despite relational consequences, and he can answer affection through acts while keeping its category and commitment unsettled.**
+
+## 9. V05 watchlist
+
+- whether baseball remains available as chosen play after institutional closure;
+- whether he can request support before pressure, wager, or crisis extracts it;
+- whether legitimate safety dissent changes his self-disposability model;
+- whether he makes Haru's transferred next move or keeps her athletic goal as deferral;
+- whether he clarifies the V03/V04 Asuka love-category tension;
+- whether he directly answers Yuzuki, Yua, or Yuko rather than receiving their bids below naming;
+- whether distributed completion becomes ordinary rather than climax-specific;
+- whether collaborative opening produces any practical revision of the perfection rule.

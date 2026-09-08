@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V03_AND_BOOKLET
-source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04+ unopened"
-generation: V0.3
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V04
+source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -228,3 +228,77 @@ Saku reciprocates the ordinary encounter—play, invitation, pursuit, and sensor
 - whether Saku can disclose dependence without waiting for another person to extract it;
 - whether mutually named Saku/Asuka love develops into commitment, distance, or another form;
 - whether Kenta sustains reciprocal roles beyond Saku-centered outings.
+
+# V04 state changes
+
+## Saku ↔ Haru
+
+The catch partnership becomes a route into Saku's most defended history. Haru stops immediate self-harm, rejects former teammates' instrumental return request, shares her own place of defeat, and uses the tied wager to demand the full baseball account `[p-0017#p0063-p0199]`, `[p-0020#p0455-p0555]`. Saku decides he can entrust the burden to her and accepts listening, tears, anger, rebuke, and sustained touch `[p-0020#p0559-p0022#p0020]`.
+
+Haru's decisive ethical act is not the rebuke alone. After changing the terms in which Saku understands quitting, she refuses to tell him what to do. His one-game return is “thanks to” her but not “for” her `[p-0022#p0024-p0049]`, `[p-0025#p0307-p0329]`. Their relation is mutually formative without becoming a savior hierarchy.
+
+Romantically, Haru is unambiguous. She repeatedly says she loves him, imagines ordinary dating, receives a home-run signal through her wristband, and declares love publicly `[p-0027#p0027-p0074]`, `[p-0030#p0001-p0019]`. At the Ramune scene she kisses his throat and leaves the remaining distance to his future action `[p-0034#p0001-p0025]`. Saku receives the bids, calls the imagined life attractive, directs an important gesture to her, and promises support. He does not reciprocally name love or establish exclusivity.
+
+**V04 state:** reciprocal sports formation + complete disclosure + direct Haru love + real Saku recognition/support + transferred but unanswered next move + no couple status.
+
+## Saku ↔ Asuka
+
+Saku's V04 interiority revises the current classification without deleting V03. He says he likes and is drawn to Asuka but does not know whether “romantic love” is the right name `[p-0015#p0130-p0166]`. The earlier reciprocal wording remains a historical speech event, and Asuka's long-named love remains intact. The current model must therefore distinguish mutual love language from Saku's unsettled category.
+
+Asuka recognizes the labor hidden inside his continued swings and challenges the claim that his high-school vulnerability has been fully open to her. Saku admits he could not show even her the uncool reason he quit `[p-0015#p0186-p0017#p0008]`. She later joins the current group's baseball support. No exclusive agreement or test of her V03 anti-dependence vow appears.
+
+**V04 state:** Asuka's named love + Saku's attraction and importance + historically mutual love wording + reopened Saku romantic category + continuing nonexclusivity.
+
+## Saku ↔ Yuzuki
+
+Their curry conversation preserves easy domestic difference and trust, but the major V04 movement belongs to Yuzuki's relation with Haru and the team. She reacts to Saku's faith in Haru with understated competitive pressure and briefly uses his given name before their familiar register returns `[p-0025#p0337-p0380]`.
+
+She neither sabotages Haru nor suppresses competition. Her independent leadership makes her more than a generous romantic helper, but she still does not ask Saku directly for recognition or clarity.
+
+**V04 state:** home-like ordinary trust + named Yuzuki love + independent action under rivalry + continuing asymmetry and indirect self-advocacy.
+
+## Haru ↔ Yuzuki
+
+The relationship now carries independent analytical weight. Their hidden “demon Umi / Buddha Nana” compact begins as loyal co-authorship but denies the team transparency and traps Yuzuki in private complaint management `[p-0023#p0237-p0025#p0063]`. After collapse, Yuzuki gives teammates a direct voice, sustains voluntary practice, and publicly joins Haru rather than remaining an invisible buffer `[p-0023#p0131-p0166]`, `[p-0032#p0030-p0280]`.
+
+Haru then names Yuzuki as a rival both athletically and romantically. Rivalry does not cancel co-leadership, and care no longer requires hidden role asymmetry. Their repair remains incomplete because neither directly accounts for the secrecy and burden of the original scheme.
+
+**V04 state:** failed concealed co-leadership + independent Yuzuki correction + renewed public partnership + explicit dual-domain rivalry.
+
+## Saku ↔ Yua
+
+Saku notices Yua's ordinary need and buys the scarce bread before she asks. She explicitly values being noticed `[p-0011#p0405-p0013#p0008]`. Her choice of alto saxophone is a pleasurable self-authored difference from earlier instruments; Saku asks to hear her play, and she promises to be beside him then `[p-0013#p0042-p0101]`.
+
+**V04 state:** ordinary noticing + requested future performance + directional proximity promise; no romantic naming from Saku.
+
+## Saku ↔ Yuko
+
+Saku voluntarily tells Yuko about the baseball invitation after recalling their agreement to speak honestly, a limited but meaningful procedural improvement `[p-0018#p0101-p0164]`. Yuko calls him her special person. Nazuna then exposes the cost of Yuko's requested answer moratorium: postponement does not stop Saku or others from changing before she chooses to confess `[p-0018#p0184-p0267]`.
+
+**V04 state:** direct Yuko specialness + limited voluntary Saku disclosure + answer intentionally deferred under a procedurally asymmetric arrangement.
+
+## Saku ↔ old team and Wataya
+
+The old team becomes capable of receiving Saku's effort rather than only consuming it. Hirano limits Saku's unsafe run and assumes the remaining task; Yusuke completes the game. Wataya accepts conditions, apologizes without demanding forgiveness, and recognizes Saku's style. Saku thanks them and refuses restored membership `[p-0025#p0228-p0303]`, `[p-0030#p0215-p0032#p0027]`.
+
+**V04 state:** acknowledged harm + behaviorally meaningful repair + one-game cooperation + institutional closure without erased attachment.
+
+## Cross-volume relationship hypotheses after V04
+
+1. **Recognition is strongest when it returns jurisdiction.** Haru's anger matters because she ultimately leaves Saku the answer.
+2. **Mutual formation does not require rescue hierarchy.** Saku and Haru each reactivate the other's heat while preserving separate fields and choices.
+3. **Directness creates an answerable claim, not automatic reciprocity.** Haru's declarations and kiss make Saku's future move explicit without making it complete.
+4. **A sincere love utterance need not settle a durable category.** V03's Saku/Asuka wording remains fact while V04 reopens Saku's interpretation of it.
+5. **Rivalry and co-leadership can coexist.** Haru/Yuzuki become more reciprocal when correction becomes public rather than hidden.
+6. **Teams can receive an individual's passion without becoming interchangeable.** Current friends, former teammates, and basketball teammates contribute through different histories and roles.
+
+# V05 watchlist
+
+- whether Haru requests the next move and whether Saku answers directly;
+- whether Saku's support of Haru becomes ordinary reciprocity rather than perpetual athletic deferral;
+- whether Yuzuki turns independent leadership into direct romantic self-advocacy;
+- whether Saku's V04 uncertainty about Asuka's romantic category persists or resolves;
+- whether Yua's requested future performance and nearness receive follow-through;
+- whether Yuko's answer moratorium survives outside correction;
+- whether the group remains cooperative when a choice produces actual exclusion;
+- whether the old team's repaired contact continues without reopening institutional membership.

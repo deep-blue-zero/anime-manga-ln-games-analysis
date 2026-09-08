@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V03
-source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
-generation: V0.3
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V04
+source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated after the main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -204,3 +204,34 @@ V03 therefore **strengthens** distributed corrective authority. It does not prov
 - romance as inevitable zero-sum status conflict → **DOWNGRADE within V03**; cooperative rivalry is materially evidenced.
 - status as interpretive permission → **PRESERVE**; Saku's competence and intimacy continue to license intrusions that should remain contested.
 - New question: can distributed care survive when Saku's eventual commitments impose real exclusion rather than playful competition?
+
+# V04 update — hidden leadership, team voice, and distributed completion
+
+## V04 governing revision
+
+Volume 04 shifts group analysis from informal popularity toward the internal legitimacy of teams. A unanimous captain and goal do not make every later demand legitimate. Trust depends on how authority is exercised, what information is shared, and whether members can contribute different intensities without having their inner commitment defined for them.
+
+## V04 entries
+
+| ID | Scene | Status / group mechanism | Finding | Counterpoint | Locator |
+|---|---|---|---|---|---|
+| SG-037 | ordinary school/lunch scenes | normalized membership | Kenta is teased, eats, and contributes without deferential or client framing | Saku remains the common connector | `[p-0013#p0237-p0280]`, `[p-0020#p0187-p0276]` |
+| SG-038 | current-group baseball practice | differentiated support | food, water, pitching, fielding, ball return, humor, and witness circulate without one role becoming the only valuable one | the gathering still centers Saku's crisis | `[p-0027#p0119-p0196]` |
+| SG-039 | old baseball team | legitimacy after betrayal | former teammates ask independently and later complete the game, but Saku preserves Yusuke's captaincy and refuses restored membership | winning and remorse do not erase the year's exclusion | `[p-0020#p0360-p0483]`, `[p-0028#p0061-p0189]`, `[p-0030#p0600-p0032#p0027]` |
+| SG-040 | demon–Buddha compact | hidden governance | Haru and Yuzuki monopolize the interpretation of effort and conceal their coordinated roles from the team | their fear that teammates had set premature limits receives later partial support | `[p-0023#p0237-p0025#p0117]` |
+| SG-041 | Yuzuki's team inquiry | voice and corrective authority | teammates preserve the championship goal while contesting hours and treatment; Yuzuki becomes an agenda-setter independent of Saku | she had helped sustain the prior compact | `[p-0023#p0131-p0166]` |
+| SG-042 | basketball repair | functional interdependence | Yuzuki makes absence visible; Sen, Yo, Haru, and others then choose distinct roles that change the collective option set | repair does not fully address the secret plan or sustainable workload | `[p-0032#p0069-p0510]` |
+| SG-043 | public Haru declaration | romantic visibility inside group | Haru makes a directed claim before multiple rivals without the group collapsing into an immediate ranking | Saku does not answer; real exclusion remains deferred | `[p-0030#p0001-p0019]` |
+
+## Team legitimacy after V04
+
+V04 adds a distinction between **goal legitimacy** and **method legitimacy**. The basketball team can genuinely want the same destination while disagreeing about hours, risk, rhetoric, and who may define another member's effort. Conversely, different groups can legitimately contribute to one outcome without becoming one undifferentiated family: Saku's current friends prepare him, the old team completes the game, and he keeps their histories and memberships distinct.
+
+## V04 revision state
+
+- Kenta's ordinary membership → **PRESERVE / STRENGTHEN**.
+- distributed corrective authority → **STRENGTHEN decisively** through Yuzuki and both sports teams.
+- cooperative romantic rivalry → **PRESERVE** under Haru's public declaration; exclusion remains untested.
+- group goal as evidence of unified commitment → **REVISE**; shared aspiration contains legitimate method disagreement.
+- status as permission → **BROADEN** to team roles: captaincy can license demands socially without making them procedurally sound.
+- New question: can team and friend-group interdependence survive routine disagreement without requiring collapse or spectacle to make every voice legible?

@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -69,6 +69,10 @@ A separate regular Volume 08 EPUB is not held. The acquired special edition cont
 ### Volume 05
 
 Both the regular Volume 05 witness and a special-edition object are present. Use the regular witness for the clean mainline prospective reading unless a later source audit identifies a reason not to. Treat distinct special-edition SS/supplemental material separately after the Volume 05 mainline reading has frozen.
+
+### Volume 04 analysis disposition
+
+The locked Volume 04 witness was reverified at SHA-256 `96113f9d92616084144ea06172ad5ea1dee54e1f5b53ed872a717d4e5bac4470` before prospective reading. Its complete narrative, ten interior narrative illustrations, frontmatter, afterword, author profile, colophon, and advertising backmatter were classified. No embedded bonus fiction was found. The narrative and V04 freeze are complete; the known `mimetype` ZIP-order warning remains a packaging-only defect.
 
 ### Volume 03 booklet
 
