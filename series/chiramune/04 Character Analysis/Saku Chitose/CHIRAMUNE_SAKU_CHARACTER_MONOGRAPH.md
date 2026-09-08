@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
-generation: V1.0
+scope: SAKU_CHITOSE_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V1.1
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Saku Chitose — V01–V06.5 character monograph
+# Saku Chitose — cumulative character monograph through V08 main
 
 ## Scope and authority
 
@@ -865,6 +865,46 @@ The scene strengthens voluntary baseball without selecting it as a future or res
 - whether he can make a bounded request of Asuka under departure;
 - whether baseball develops into sustained safe practice or remains episodic relief;
 - direct reciprocal evidence only before any couple or singular-beloved claim.
+
+# V08 main longitudinal revision
+
+## He accepts a deadline without pretending to know the answer
+
+Kura-sensei frames romantic selection as choosing a way of life: Saku must ask beside whom and as what self he wants to remain. Saku says that once he names love he will never overwrite it, asks for time, and promises to decide by the next cherry blossoms `[V08:p-0022#p0134-p0321]`, `[V08:p-0030#p0474-p0543]`.
+
+This is a major shift from indefinite plural recognition to time-bounded answer responsibility. It is not the answer, a ranking, or a promise to one recipient.
+
+## He gives Yuzuki direct romantic recognition below singularity
+
+Saku tells Yuzuki she is in his heart and that he fell for the Nanase Yuzuki who keeps trying to be herself `[V08:p-0030#p0380-p0494]`.
+
+The wording is direct, not merely inferred from jealousy or practical care. It strengthens one relation without stating that Yuzuki is the only person in his heart, retracting the five-person V07 field, or creating a couple.
+
+## His refusal preserves consent despite desire
+
+During Yuzuki's `Nana` escalation, Saku verbally limits contact and then refuses. He later admits arousal, physical desire, and near-loss of restraint, but keeps the governing distinction: wanting her does not make the ignored boundary consensual `[V08:p-0028#p0175-p0270]`, `[V08:p-0030#p0380-p0543]`.
+
+He rejects Yuzuki's total self-contamination, prevents flight, and repairs with the whole person. That care does not erase the violation or retroactively authorize it. His refusal is both bodily jurisdiction and an attempt to keep unnamed sex from wearing relation away.
+
+## Reflection becomes more deliberate while support seeking remains incomplete
+
+Saku opens the rooftop because he needs time to face his own heart. Kura-sensei initiates the decisive interpersonal counsel. Saku therefore authors reflective space but still does not clearly originate a request for another person's help `[V08:p-0022#p0134-p0321]`.
+
+Baseball remains exercise, pleasure, and embodied memory without education, institution, or vocation. The school festival creates a public choice exercise whose rule is expressly acting-only; Saku cannot outsource his private answer to its outcome `[V08:p-0011#p0241-p0487]`.
+
+## Post-V08-main current model
+
+> **Saku advances from naming five equal romantic pains to accepting an explicit answer deadline and directly naming romantic feeling for Yuzuki. He also demonstrates that bodily desire does not cancel verbal refusal, preserving both consent and the possibility of relation through non-erasing repair. His central unresolved task is now temporally bounded: determine beside whom and as what self he will live, without converting the festival, another person's performance, or indefinite waiting into the answer. He still has not originated a clear support request, chosen baseball as a future, selected a singular beloved, or formed a couple.**
+
+## V08 supplement and V09 watchlist
+
+- whether the rough-illustration supplement adds only production/design evidence rather than relationship facts;
+- whether the next-spring answer horizon changes conduct before the deadline;
+- whether direct romantic recognition of Yuzuki becomes singular and mutually enacted;
+- whether Saku maintains the consent distinction without recasting refusal as heroic ownership of Yuzuki's true self;
+- whether he tells Momiji what he understands and renegotiates junior access with full information;
+- whether he originates a request for support;
+- whether baseball, study, work, or another field becomes a durable chosen practice.
 
 # V06.5 supplemental longitudinal revision
 

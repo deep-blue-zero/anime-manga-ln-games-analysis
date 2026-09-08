@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
-generation: V0.9
+scope: YUZUKI_NANASE_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — V01–V06.5 character monograph
+# Yuzuki Nanase — cumulative character monograph through V08 main
 
 ## Scope
 
@@ -493,6 +493,54 @@ Yuzuki remains one of several girls Saku describes through a distinct important 
 - whether the Haru partnership explicitly negotiates simultaneous bids or answers;
 - whether she can support Yuko while expressing competing desire directly;
 - direct reciprocal evidence only before any selection claim.
+
+# V08 main longitudinal revision
+
+## Momiji becomes an intimate rival rather than a simple antagonist
+
+Yuzuki gives Momiji a private canelé memory, calls her a girlfriend for the day, and recognizes the junior and challenger as coexisting authentic selves. Momiji's account of maximal romantic aggression presses Yuzuki to test what her restraint protects `[V08:p-0013#p0269-p0391]`.
+
+Their later bridge conversation explicitly begins rivalry while preserving recognition. Yuzuki no longer uses a false café test, but her admiration of Momiji's method remains interested and ethically risky `[V08:p-0020#p0181-p0480]`.
+
+## `Nana` converts reserve into domination and relational injury
+
+Yuzuki resolves to discard sympathy and even her own name if necessary. Given game control, she produces a 65–51 win through scoring, manipulation of attention, and use of teammates as pieces `[V08:p-0013#p0497-p0794]`.
+
+The performance confirms that V07's peak was not an isolated technical accident. It also shows why released ability is not self-justifying. Haru and the team cannot inhabit Yuzuki's pace, and Yuzuki later calls the successful method aesthetically and relationally wrong `[V08:p-0015#p0191-p0266]`.
+
+## Haru remains ace and becomes a moving-partner problem
+
+Coach Misaki keeps Haru as Fujishi's ace while identifying Yuzuki's prior self-limitation and new beauty. Yuzuki is not waiting in place; Haru must catch up while both advance `[V08:p-0013#p0927-p1105]`, `[V08:p-0015#p0002-p0187]`.
+
+This neither restores Haru's guaranteed primacy nor crowns Yuzuki. Their independently primary partnership now requires coordination that can hold two changing athletes.
+
+## Her embodied bid crosses a consent boundary
+
+At Saku's apartment, Yuzuki uses `Nana` to escalate sexual contact after verbal limits and deliberately interprets his bodily response as consent `[V08:p-0028#p0175-p0270]`.
+
+Saku refuses. Yuzuki recognizes the conduct as one-sided and nonconsensual, compares herself to her prior aggressor, and takes responsibility. Her remorse is immediate but becomes total self-condemnation.
+
+Saku's reassurance, desire, and embrace preserve her personhood and permit negotiated repair; they do not erase the violation or retroactively grant permission. This ethical failure must remain part of her model rather than be purified by romantic reciprocity.
+
+## Direct romantic recognition addresses the whole trying self
+
+Saku says Yuzuki is in his heart and that he fell for the Nanase Yuzuki who keeps trying to be herself `[V08:p-0030#p0380-p0494]`.
+
+This answers V07's unheard resolve with genuine reciprocal romantic language. He also asks for time until next spring, so it does not establish singularity, final selection, or a couple. Yuzuki accepts the horizon and asks to share the festival before naming.
+
+## Post-V08-main current model
+
+> **Yuzuki's V08 experiment proves both the force and insufficiency of released capacity. `Nana` can dominate a game and force a romantic encounter, but turns teammates into pieces and ignores a verbal sexual boundary. Nanase Yuzuki returns through self-recognition, responsibility, and negotiated repair, not because victory or desire makes the persona innocent. Saku directly reciprocates romantic feeling for the whole self who keeps trying to become herself; the relation is materially stronger but remains one unselected strand inside an unresolved field. Her central task is to integrate capacity, desire, consent, and partnership without retreating into reserve or using performance as an alibi.**
+
+## V08 supplement and V09 watchlist
+
+- whether rough annotations add bounded design/process evidence about `Nana` and the play;
+- whether Yuzuki maintains accountability for the consent violation beyond immediate remorse;
+- whether direct Saku reciprocity becomes singular and enacted or remains differentiated nonselection;
+- whether `Nana` can be integrated into Nanase Yuzuki without dominating collaborators or suspending consent;
+- whether Haru/Yuzuki rebuild team coordination and preserve mutual priority;
+- whether intimacy and rivalry with Momiji survive the festival;
+- whether basketball acquires a sustainable education or vocational path.
 
 # V06.5 supplemental longitudinal revision
 

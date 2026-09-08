@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
-generation: V0.9
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -437,3 +437,47 @@ V07 turns the repaired network into an explicit **informal boundary system**:
 - whether Yua/Asuka friendship and recipe-sharing produce durable independent practice;
 - how the festival redistributes public performance, credit, and labor after the camp;
 - whether the group can replace courtesy-as-moratorium with transparent disagreement and answerable bids.
+
+# V08 main update — institutional staging and women's lateral accountability
+
+## V08 main entries
+
+| ID | Group event | Source fact | Structural reading | Locator |
+|---|---|---|---|---|
+| SG-083 | class play ending | Saku must choose the best actress by acting alone; the ending is unwritten and the festival has not begun | the group builds an institutional rehearsal for unresolved choice while explicitly preventing stage rank from deciding romance | `[V08:p-0011#p0241-p0487]` |
+| SG-084 | Yuzuki-controlled practice game | Yuzuki produces a decisive win while teammates cannot follow and Haru feels used | formal coach authority can release suppressed capacity while informal team legitimacy deteriorates; winning does not settle internal status | `[V08:p-0013#p0640-p0794]` |
+| SG-085 | Misaki preserves Haru as ace | the coach keeps Haru's office and asks her to catch a moving Yuzuki | institutional title remains provisional and developmental rather than proprietary rank | `[V08:p-0013#p0927-p1105]`, `[V08:p-0015#p0002-p0187]` |
+| SG-086 | Yua/Asuka reciprocal correction | both women confess fault and reject the other's ownership-like interpretation | the female network develops lateral accountability without requiring Saku or Momiji to adjudicate it | `[V08:p-0016#p0434-p0495]`, `[V08:p-0018#p0007-p0221]` |
+| SG-087 | Yuko entrusts Momiji with the summer history | a senior rival shares confession, refusal, and restart rather than hoarding privileged knowledge | group memory can circulate without compulsory assimilation, romantic surrender, or transfer of answer authority | `[V08:p-0018#p0509-p0606]` |
+| SG-088 | Yuzuki/Momiji declared rivalry | they preserve a private bond while identifying outsider status as competitive advantage | inclusion and opposition are not binary; a person can remain related to the network without accepting its old moratorium | `[V08:p-0013#p0269-p0391]`, `[V08:p-0020#p0181-p0480]` |
+| SG-089 | Yua authorizes Yuzuki's domestic substitution | care and recipe knowledge circulate while Yua's distinct history remains recognized | resilient group intimacy can share competence rather than defend every practice as a fixed status office | `[V08:p-0024#p0115-p0156]`, `[V08:p-0026#p0062-p0142]` |
+| SG-090 | likely last unchanged festival | Yuko and Saku independently recognize that the current arrangement cannot remain indefinite | the group names its own temporal limit before a public climax; future reconfiguration is expected but not yet specified | `[V08:p-0018#p0225-p0396]` |
+
+## Group rule after V08 main
+
+V08 turns informal-boundary crisis into **lateral correction under a public deadline**:
+
+1. public rank and stage assignment can organize conflict without deciding private relation;
+2. winning can weaken group legitimacy when coordination and personhood are subordinated to one actor's proof;
+3. formal roles such as ace remain revisable developmental offices, not ownership guarantees;
+4. women can exchange memory, correction, consent, and rivalry without waiting for Saku's decision;
+5. inclusion need not eliminate outsider identity, and rivalry need not erase genuine intimacy;
+6. the group's unchanged form is now explicitly finite, while its successor form remains unknown.
+
+## V08 main revision state
+
+- festival as romance proxy → **REJECT**; acting assessment is expressly non-romantic.
+- Yuzuki athletic status → **STRENGTHEN CAPACITY / QUALIFY LEGITIMACY**; decisive result exposes team cost.
+- Haru's ace status → **PRESERVE AS CURRENT OFFICE / REJECT AS GUARANTEED PRIMACY**.
+- female relational network → **MAJOR STRENGTHEN** through correction, disclosure, consent, and rivalry.
+- Momiji inclusion → **REVISE BEYOND EXCLUSION/ASSIMILATION**; she gains lateral ties while preserving outsider advantage.
+- courtesy-as-moratorium → **TIME-BOUND**; the group recognizes the festival as likely last unchanged configuration.
+
+## V08 supplement and V09 group watchlist
+
+- keep rough-image status and emphasis separate from diegetic group facts;
+- test how the actual festival distributes credit, audience judgment, and aftermath;
+- test whether Yuzuki's team legitimacy can be rebuilt without re-suppressing capacity;
+- test whether Haru's ace role becomes sustainable practice rather than reassurance;
+- test whether Momiji's outsider relation survives direct disclosure;
+- test what institutional or relational structure succeeds the acknowledged moratorium.

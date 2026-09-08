@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUKO_HIIRAGI_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
-generation: V0.5
+scope: YUKO_HIIRAGI_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuko Hiiragi — V01–V06.5 character monograph
+# Yuko Hiiragi — cumulative character monograph through V08 main
 
 ## Scope and promotion basis
 
@@ -317,6 +317,39 @@ Yuzuki's refusal-symmetry reasoning helps Yuko approach Kaito, but Yuko owns the
 - whether Yuko can seek private support before a public or crisis climax;
 - whether the ten-year female friendship horizon survives divergent partners and destinations;
 - whether continued love remains self-authored without becoming proof of insufficiency;
+- direct reciprocal evidence only before any couple claim.
+
+# V08 main longitudinal revision
+
+## She authors a new love without denying the refused one
+
+With Saku's consent, Yuko tells Momiji about the summer confession, refusal, and return. She says that love ended and a new love began `[V08:p-0018#p0509-p0606]`.
+
+This resolves a persistent ambiguity. Yuko neither treats Saku's no as temporary invalidity nor claims her feeling vanished. She accepts the completed form of one attempt and deliberately begins another under changed knowledge.
+
+## Entrusting failed love is her alternative to ownership
+
+Yuko explains holding hands not as refusal to release but as entrusting the entirety of failed love to whoever eventually becomes happy `[V08:p-0020#p0002-p0035]`.
+
+The metaphor preserves loss and rivalry without granting the women authority over one another's answer. Telling Momiji the history enacts that principle: Yuko shares privileged pain with a new claimant rather than using it as exclusionary rank.
+
+## Quiet mutual understanding does not restore a promise
+
+Yuko and Saku each recognize that the coming festival may be the last in the group's unchanged form. Their reduced need for explanatory speech demonstrates mature familiarity after rupture `[V08:p-0018#p0225-p0396]`.
+
+The trust neither reverses refusal nor makes Yuko the play's romantic winner. Nazuna expressly separates acting evaluation from love `[V08:p-0011#p0241-p0487]`.
+
+## Post-V08-main current model
+
+> **Yuko now gives the clearest account of love after refusal: an ended attempt can remain whole, be entrusted rather than erased, and be followed by a deliberately new love. She shares the summer history with Momiji, treating a rival as a recipient of truth rather than an intruder to be excluded. Her quiet understanding with Saku deepens and both accept that unchanged group time is finite. None of this reverses the governing refusal, promises selection, or creates a couple.**
+
+## V08 supplement and V09 watchlist
+
+- whether Yuko's restarted love produces a new bounded bid rather than a veto on Saku's deadline;
+- whether compassionate rivalry with Momiji survives the festival outcome;
+- whether stage prominence remains separate from private selection;
+- whether Kaito friendship and Yuko's support-seeking gain enacted ordinary form;
+- whether entrusting failed love remains compatible with anger, grief, and self-protection;
 - direct reciprocal evidence only before any couple claim.
 
 # V07 longitudinal revision

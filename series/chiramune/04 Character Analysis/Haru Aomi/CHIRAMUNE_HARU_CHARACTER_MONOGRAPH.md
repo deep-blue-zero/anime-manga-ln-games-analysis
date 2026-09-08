@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: HARU_AOMI_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
-generation: V0.6
+scope: HARU_AOMI_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Haru Aomi — V01–V06.5 character monograph
+# Haru Aomi — cumulative character monograph through V08 main
 
 ## Scope and promotion basis
 
@@ -367,6 +367,39 @@ Misaki refuses the forced choice: Haru should carry romance, friendship, success
 - whether the elite path is investigated through sustainable workload, education, and consent;
 - whether expanded passing and shooting persist beyond one intervention game;
 - whether Yuzuki partnership and the wider women's basketball network retain independent priority;
+- direct reciprocal evidence only before any romantic-selection claim.
+
+# V08 main longitudinal revision
+
+## Yuzuki's team control makes the primacy shock concrete
+
+Against Kanazawa Oboro, Yuzuki controls scoring and attention so thoroughly that Haru experiences herself and teammates as pieces in another player's proof. The team wins 65–51, but Haru cannot treat the result as collective flourishing `[V08:p-0013#p0640-p0794]`.
+
+This is not mere jealousy or evidence that Haru is weak. It identifies a real coordination failure and reveals how much her athletic self still depends on comparative location beside Yuzuki.
+
+## Ace status is retained as task rather than guarantee
+
+Coach Misaki explicitly keeps Haru as Fujishi's ace. The reassurance carries a demand: Yuzuki will keep moving, and waiting means Haru must find her own weapon and catch up `[V08:p-0013#p0927-p1105]`, `[V08:p-0015#p0002-p0187]`.
+
+Haru renews her refusal to become a waiting woman. Her identity shifts from protected priority toward active pursuit of a partner who cannot be fixed in place.
+
+## Romantic and vocational action remain open
+
+Haru makes no present direct request to Saku. Her V07 romantic standing remains, but V08's enacted task is athletic and female-relational. No school, recruitment, or career logistics settle her elite route.
+
+Misaki's past with Tominaga shows a senior women's version of the same left-behind problem. It offers historical analogy, not a guaranteed repetition or a basis for identifying Misaki's unnamed male helper.
+
+## Post-V08-main current model
+
+> **Haru's protected partner role is revised into the work of pursuing a moving equal. Yuzuki's dominating win hurts because it converts Haru and the team into instruments, yet Coach Misaki preserves Haru's ace role as a developmental responsibility rather than permanent primacy. Haru's renewed challenge is therefore neither simple defeat nor reassurance: she must author a weapon, rebuild coordination, and let Yuzuki advance without surrendering her own claim to excellence. A direct romantic challenge and sustainable vocational route remain open.**
+
+## V08 supplement and V09 watchlist
+
+- whether Haru and Yuzuki directly repair the teammates-as-pieces game;
+- whether ace status becomes sustainable leadership rather than comparative reassurance;
+- whether Haru develops the promised weapon through repeated practice;
+- whether her direct romantic challenge is made without turning relation into score;
+- whether elite basketball gains educational, scheduling, or career form;
 - direct reciprocal evidence only before any romantic-selection claim.
 
 # V07 longitudinal revision

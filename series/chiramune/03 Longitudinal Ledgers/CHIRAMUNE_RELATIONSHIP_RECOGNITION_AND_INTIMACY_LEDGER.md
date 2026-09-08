@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
-generation: V0.9
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -681,3 +681,87 @@ Momiji genuinely admires the women but refuses circle membership because she wan
 - whether Yuzuki turns private resolve into an answerable present request;
 - whether Yuzuki/Haru and Yua/Asuka relations survive changed athletic and romantic status;
 - whether the reserved chair remains object-level, becomes shared, or is wrongly treated as person-level exclusivity.
+
+# V08 main relationship update — direct reciprocity below selection
+
+## Saku ↔ Yuzuki — romantic naming survives a violated boundary only through refusal and repair
+
+Yuzuki turns her V07 private resolve into embodied action, but `Nana` repeatedly escalates after Saku's verbal limits and treats his arousal as consent. Saku refuses, Yuzuki recognizes the violation, and they negotiate repair without erasing it `[V08:p-0028#p0175-p0270]`, `[V08:p-0030#p0380-p0543]`.
+
+Saku directly says Yuzuki is in his heart and that he fell for the Nanase Yuzuki who keeps trying to be herself. He also asks for time until next spring and supplies no singular selection.
+
+**Current state:** direct reciprocal romantic language + acknowledged physical desire + hard refusal and preserved consent boundary + remorse/repair + shared festival request + next-spring answer horizon + no exclusivity or couple.
+
+## Saku ↔ Yuko — an ended attempt becomes a deliberately restarted love
+
+With Saku's consent, Yuko gives Momiji the summer confession/refusal history. She says that love ended and another began, distinguishing acceptance of an answer from extinction of desire `[V08:p-0018#p0509-p0606]`, `[V08:p-0020#p0002-p0035]`.
+
+Yuko and Saku both recognize the festival as probably the last in the group's unchanged form. Their ability to understand without exhaustive explanation shows mature familiarity, not a restored promise.
+
+**Current state:** governing refusal + Yuko's explicitly restarted love + mutual quiet trust + shared recognition of finite unchanged time + no new promise or couple.
+
+## Saku ↔ Yua — coordinated care demonstrates resilience below exclusivity
+
+Yua knowingly permits Yuzuki to substitute in Saku's weekend care, and prior recipe transfer remains attributed. The V07 chair reservation is not revoked, but neither does it govern every kitchen action `[V08:p-0024#p0115-p0156]`, `[V08:p-0026#p0062-p0142]`.
+
+**Current state:** differentiated domestic ordinary + behaviorally reserved chair + consent to circulating care + no exclusive person, girlfriend status, or couple.
+
+## Saku ↔ Haru — romantic standing persists while athletic comparison changes elsewhere
+
+Haru's V07 place in Saku's romantic field is not withdrawn. Her V08 crisis and renewed challenge are directed through Yuzuki and Coach Misaki; she makes no present answerable romantic request to Saku.
+
+**Current state:** athletic/baseball partnership + Saku-side romantic-pain recognition + renewed non-waiting resolve + no present bid, selected status, or couple.
+
+## Saku ↔ Asuka — finite intimacy remains emotionally active without practical departure form
+
+Asuka corrects her riverbank claim with Yua and becomes more accountable to the other women's tears. No direct new Saku/Asuka bid or Tokyo logistics appear `[V08:p-0016#p0434-p0495]`, `[V08:p-0018#p0007-p0221]`.
+
+**Current state:** finite-time intimacy + Saku-side romantic-pain recognition + stronger self-accountability mediated through Yua + no departure plan, selection, or couple.
+
+## Saku ↔ Momiji — promised festival access remains junior-coded
+
+Momiji obtains Saku's promise to attend her class activity, but loses the private costume-measuring opportunity because Yua already supplied measurements. Yuko's disclosure changes Momiji's knowledge; Saku still receives no full romantic-purpose disclosure and gives no romantic reciprocity.
+
+**Current state:** junior trust + group invitation/festival promise + Momiji's conflicted private romantic knowledge + no direct Saku knowledge, reciprocity, or couple.
+
+## Yuzuki ↔ Momiji — recognition becomes rivalry without cancelling intimacy
+
+Yuzuki gives Momiji a private canelé memory and recognizes both of her authentic modes. Momiji offers an ethically aggressive model of serious pursuit; later both women explicitly accept rivalry while preserving their own bridge `[V08:p-0013#p0269-p0391]`, `[V08:p-0020#p0181-p0480]`.
+
+**Current state:** independent intimate memory + mutual authenticity recognition + declared rivalry + incompatible methods + neither friendship nor competition erased.
+
+## Yua ↔ Asuka — friendship becomes a site of reciprocal correction
+
+Each woman tells her own V07 conflict story, says she was at fault, and rejects the other's ownership-like claim. They plan a market outing together `[V08:p-0016#p0434-p0495]`, `[V08:p-0018#p0007-p0221]`.
+
+**Current state:** explicit friendship + mutual accountability + reciprocal correction under romantic pressure + ordinary future plan independent of Saku.
+
+## Yuko ↔ Momiji — a rival is entrusted with the refused-love history
+
+Yuko tells Momiji the summer account and offers a non-proprietary theory of beginning again. Momiji's tears include her own conflict rather than pure sympathy `[V08:p-0018#p0509-p0606]`, `[V08:p-0020#p0002-p0035]`.
+
+**Current state:** direct historical disclosure + compassionate rivalry + Momiji's unresolved loss + no transfer of answer authority.
+
+## Yuzuki ↔ Haru — expanded capacity requires team reconstruction
+
+Yuzuki's 65–51 control exposes Haru's comparative insecurity and the team's inability to follow. Misaki preserves Haru's ace role while requiring pursuit of a moving Yuzuki `[V08:p-0013#p0640-p0794]`, `[V08:p-0015#p0002-p0187]`.
+
+**Current state:** independently primary partnership + real capacity asymmetry in one game + Haru retained as ace + mutual advancement requirement + coordination/repair open.
+
+## Relationship hypotheses after V08 main
+
+1. **Direct romantic reciprocity is not singular selection.** Saku's Yuzuki language is real and major; the next-spring delay and absence of exclusivity keep couple state open.
+2. **Arousal is not consent.** Desire can coexist with refusal, and later repair cannot authorize earlier ignored boundaries.
+3. **Refusal can govern a restarted love.** Yuko's new attempt does not deny the completed old one.
+4. **Female relations carry correction, history, and rivalry independently.** Yua/Asuka, Yuko/Momiji, Yuzuki/Momiji, and Yua/Yuzuki now do work no central pairing contains.
+5. **A deadline changes uncertainty without resolving it.** Saku's time request is more accountable while every other participant retains her own temporal agency.
+
+# V08 supplement and V09 relationship watchlist
+
+- keep rough-illustration evidence paratextual/visual and separate from main relationship facts;
+- require direct singular wording and enacted mutual status before any couple claim;
+- test whether Saku's deadline changes conduct before next spring;
+- test whether Yuzuki's repair remains accountable and whether `Nana` is integrated rather than reused as an alibi;
+- test whether Momiji discloses purpose to Saku and whether knowledge changes junior access;
+- test whether Yua/Asuka, Yuko/Momiji, Yuzuki/Momiji, and Yuzuki/Haru relations persist through the festival;
+- keep stage acting evaluation distinct from romantic selection absent independent evidence.

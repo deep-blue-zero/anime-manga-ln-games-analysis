@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUA_UCHIDA_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
-generation: V0.5
+scope: YUA_UCHIDA_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yua Uchida — V01–V06.5 character monograph
+# Yua Uchida — cumulative character monograph through V08 main
 
 ## Scope and promotion basis
 
@@ -256,6 +256,37 @@ The special epilogue completes the directional clarification: Yua wants to face 
 - whether Saku reciprocates maintenance without romantic presumption;
 - whether Yuko friendship sustains conflict outside crisis;
 - whether mediator labor becomes distributed rather than permanently assigned to her;
+- direct reciprocal evidence only before any selection or couple claim.
+
+# V08 main longitudinal revision
+
+## She accepts correction in the grammar of friendship
+
+Yua tells Asuka about the kitchen conflict and concludes that she herself was at fault. Asuka rejects the implicit wife role: Yua invited Momiji, does not own Saku's kitchen, and cannot require permission for another woman to use it `[V08:p-0016#p0434-p0495]`, `[V08:p-0018#p0007-p0069]`.
+
+Yua receives the correction rather than converting her care history into jurisdiction. In return, she corrects Asuka's riverbank claim. Their planned market outing makes friendship an ordinary future practice rather than a single crisis compact `[V08:p-0018#p0104-p0221]`.
+
+## Domestic continuity proves shareable without becoming meaningless
+
+Yua knowingly permits Yuzuki to handle Saku's weekend cooking, and the transferred katsudon recipe remains part of their shared care infrastructure `[V08:p-0024#p0115-p0156]`, `[V08:p-0026#p0062-p0142]`.
+
+The sequence does not revoke Yua's dedicated chair or history. It shows that their value survives another woman's competent access. Shareability is evidence of resilience, not proof that Yua was interchangeable.
+
+## Momiji repair remains incomplete
+
+Yua can now name her error and reject wife-like authority, a stronger accountability state than V07's messages and lunches. She says this to Asuka, not Momiji. Direct apology, boundary discussion, and Momiji's response remain unshown.
+
+## Post-V08-main current model
+
+> **Yua's strongest V08 development is the conversion of threatened domestic status into reciprocal female accountability. She accepts Asuka's correction that care and invitation do not make her Saku's wife or kitchen gatekeeper, corrects Asuka in turn, and plans ordinary friendship beyond the crisis. She also consents to Yuzuki's domestic substitution, showing that a reserved chair and differentiated history can coexist with circulating competence. Direct Momiji repair, independent support requests, selection, and couple status remain open.**
+
+## V08 supplement and V09 watchlist
+
+- whether Yua speaks directly with Momiji and receives her answer;
+- whether friendship with Asuka becomes repeated ordinary practice;
+- whether care labor is shared without reducing Yua's valued history to a replaceable function;
+- whether music, family, rest, and support needs receive independent attention;
+- whether the chair remains object-level recognition under actual romantic choice;
 - direct reciprocal evidence only before any selection or couple claim.
 
 # V06.5 supplemental longitudinal revision

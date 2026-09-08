@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
-generation: V0.7
+scope: ASUKA_NISHINO_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Asuka Nishino — V01–V06.5 character monograph
+# Asuka Nishino — cumulative character monograph through V08 main
 
 ## Scope and promotion basis
 
@@ -331,6 +331,37 @@ This repeats the same withholding problem she identifies in Saku. Her recognitio
 - whether anticipated departure becomes practical change in access, housing, or communication;
 - whether she can receive ordinary care without failed-independence shame;
 - whether grandmother/family relations continue as an independent support system;
+- direct reciprocal evidence only before any selection or couple claim.
+
+# V08 main longitudinal revision
+
+## She accepts that joining the group creates lateral responsibility
+
+Asuka hears Yua's account of the kitchen conflict and tells her directly that she is not Saku's wife and cannot govern another woman's access. Yua returns the correction: the riverbank belongs to no one, and Saku's practice with Momiji did not erase Asuka `[V08:p-0016#p0434-p0495]`, `[V08:p-0018#p0007-p0069]`.
+
+Asuka concludes that entering the group means learning to imagine the other women's tears. Her former outsider position had made selective intimacy feel consequence-free; group membership makes reciprocity unavoidable `[V08:p-0018#p0104-p0221]`.
+
+## Listening becomes reciprocal correction rather than cultivated insight
+
+The Yua conversation is stronger evidence of Asuka's revised listening ethic than her V07 apology. Both women disclose their own failure, reject flattering interpretations for the other, and accept correction. Neither speaks as a detached expert.
+
+Their planned market outing gives the friendship an ordinary next act independent of Saku. It still does not supply direct Asuka/Momiji repair.
+
+## Departure remains chosen but non-operational
+
+Asuka's Tokyo horizon remains part of the group's finite time and Saku's future choice. V08 adds no housing, transport, study, employment, editorial placement, or communication plan.
+
+## Post-V08-main current model
+
+> **Asuka moves from apologizing for a territorial outburst to understanding why group membership creates duties toward women she might otherwise treat as outside a private dyad. Her reciprocal correction with Yua practices listening without expert distance and turns friendship into ordinary planned time. She relinquishes the riverbank as property without denying its history. Direct repair with Momiji and concrete Tokyo logistics remain absent, and Saku's romantic recognition still produces no selection or couple.**
+
+## V08 supplement and V09 watchlist
+
+- whether Asuka speaks directly with Momiji about the riverbank and receives her account;
+- whether the planned Yua outing and reciprocal listening persist;
+- whether she can request finite company without relying on place as guarantee;
+- whether Tokyo gains concrete housing, transport, study, work, or communication form;
+- whether the likely end of the unchanged group sharpens or revises departure;
 - direct reciprocal evidence only before any selection or couple claim.
 
 # V06.5 supplemental longitudinal revision

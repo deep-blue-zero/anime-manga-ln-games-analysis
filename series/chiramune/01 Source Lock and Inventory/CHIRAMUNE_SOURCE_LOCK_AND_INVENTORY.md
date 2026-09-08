@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V0.8
+generation: V0.9
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -116,7 +116,17 @@ The extraction produced 7,047 non-empty text/image locator rows and 7,133 readin
 
 The afterword calls V06.5 `実質的な本編` and names multiple V06.5 elements as V07 dependencies. This supports the existing separate-but-linked supplemental architecture as bounded production testimony; it does not overwrite fictional evidence or make V06.5 a numbered-main freeze.
 
-The complete main reading and its entering-state freeze are in `../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md` and `../02 Sequential Readings/CHIRAMUNE_V07_PROSPECTIVE_FREEZE.md`. The next safe source is the exact locked Volume 08 special-edition object. Its complete main novel and rough-illustration supplement must be technically distinguished and routed separately before either is analyzed.
+The complete main reading and its entering-state freeze are in `../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md` and `../02 Sequential Readings/CHIRAMUNE_V07_PROSPECTIVE_FREEZE.md`. The exact locked Volume 08 special-edition object was subsequently component-classified, and its complete main novel was frozen before the rough-illustration supplement was opened.
+
+### Volume 08 special-edition main analysis disposition
+
+The locked witness was independently reverified at 18,750,992 bytes and SHA-256 `124d66e237efd52873dca5bbff1141a56dcad30821365da69553b54e2955dc03`. OPF metadata identifies `千歳くんはラムネ瓶のなか　８　ラフイラスト集付き特装版`, 裕夢, 株式会社小学館, Japanese, and modification timestamp `2023-06-12T00:00:00Z`.
+
+The exact spine was classified before interpretation. `p-0001`–`p-0009` contain cover/title/frontmatter/contents; the complete main novel runs from prologue `p-0010` through two chapters `p-0011`–`p-0032`; the main afterword is `p-0033`. The separately titled `『千歳くんはラムネ瓶の中８』 ラフイラスト集` occupies `p-0034`–`p-0083` and remained unopened throughout the main transaction. Author profile, colophon, and advertising follow.
+
+The main-only extraction produced 4,977 non-empty locator rows and 5,047 reading lines. The locator TSV SHA-256 is `4ec83a133c29de2c772ac38af5a3d1b27a0640fc8a1412c990e759297c4a7e04`; the reading projection SHA-256 is `8aeabf3e37a4e65e9c091064c969908a179832c28ee03bddc440ee2a9109526a`. Cover, principal frontmatter, two color spreads, and ten narrative illustrations were inspected; supplement pages were excluded.
+
+The afterword states that V08 and V09 were conceived as one story and that V08 intentionally ends after two chapters before the festival. This is bounded production testimony, not a license to predict V09. The complete main reading and entering-state freeze are `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md` and `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md`. The next safe source is the separately bounded rough-illustration supplement inside this same witness.
 
 ### Volume 04 analysis disposition
 
@@ -130,7 +140,7 @@ Its colophon dates publication to 2020-04-17 and identifies 裕夢 as author, ra
 
 ### Half-volumes and side stories
 
-Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volume 07 is now independently frozen after that checkpoint. *Days of Endless Summer* and Volume 09.5 still require publication/diegetic classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
+Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volume 07 and the V08 main novel are independently frozen after that checkpoint. The V08 rough-illustration supplement, *Days of Endless Summer*, and Volume 09.5 still require separate classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
 
 ## Completeness claim and limit
 

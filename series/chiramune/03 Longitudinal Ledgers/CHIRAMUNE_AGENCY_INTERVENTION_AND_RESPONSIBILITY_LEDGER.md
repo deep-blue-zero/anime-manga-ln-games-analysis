@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
-generation: V0.9
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -435,3 +435,40 @@ V07 adds **purpose transparency and reliance limits**:
 - repair accountability → **DIFFERENTIATE**; Haru supplies enacted direct repair, while Asuka and Yua show more partial routes.
 - autonomous romantic pursuit → **PRESERVE / QUALIFY**; Momiji may pursue Saku and remains answerable for process and foreseeable harm.
 - self-originated Saku help requests → **KEEP OPEN**; disclosure improves only after another person notices or asks.
+
+# V08 main update — desire does not substitute for consent
+
+## V08 main entries
+
+| ID | Intervention | Agency / authority question | V08-main assessment | Locator |
+|---|---|---|---|---|
+| AI-108 | Nazuna assigns Saku the play's final actress choice | may an institution turn a public performance selection into private romantic evidence? | no; she expressly restricts the choice to acting and excludes love, friendship, and sympathy, preserving separate jurisdictions | `[V08:p-0011#p0241-p0487]` |
+| AI-109 | Coach Misaki gives Yuzuki game control | does authorized control legitimate using teammates as pieces? | it authorizes tactical experimentation, not exemption from relational responsibility; the win is real while Yuzuki and Haru both register its team cost | `[V08:p-0013#p0640-p0794]`, `[V08:p-0015#p0191-p0266]` |
+| AI-110 | Misaki retains Haru as ace and orders pursuit of a moving Yuzuki | may mentorship protect one athlete by fixing another below her? | no; she preserves Haru's current role while requiring authored development rather than guaranteed comparative status | `[V08:p-0013#p0927-p1105]`, `[V08:p-0015#p0002-p0187]` |
+| AI-111 | Yua and Asuka correct one another's V07 claims | who has authority over riverbank and kitchen access? | neither woman owns the public place, domestic competence, or Saku; reciprocal correction creates accountability without speaking for Momiji | `[V08:p-0016#p0434-p0495]`, `[V08:p-0018#p0007-p0069]` |
+| AI-112 | Yuko tells Momiji the summer history with Saku's consent | can intimate history be entrusted to a rival without surrendering agency? | yes; Saku authorizes disclosure, Yuko chooses framing, and Momiji receives rather than appropriates the account | `[V08:p-0018#p0509-p0606]` |
+| AI-113 | Yuzuki substitutes for Yua's weekend cooking | does domestic access require one woman's exclusion? | no; Yua knowingly authorizes the care, and transmitted recipe knowledge preserves provenance without person-level ownership | `[V08:p-0024#p0115-p0156]`, `[V08:p-0026#p0062-p0142]` |
+| AI-114 | Yuzuki escalates the `Nana` encounter after verbal limits | can bodily arousal or performed romantic intensity substitute for consent? | no; Saku's words limit and refuse the contact, and Yuzuki deliberately misreads his body. Later desire, remorse, and repair do not retroactively authorize it | `[V08:p-0028#p0175-p0270]`, `[V08:p-0030#p0380-p0543]` |
+| AI-115 | Saku refuses, prevents flight, and negotiates repair | can care after a violation preserve personhood without erasing responsibility? | yes, if refusal remains intact: he rejects both the conduct and Yuzuki's total self-contamination claim, while their later embrace does not rewrite prior nonconsent | `[V08:p-0030#p0380-p0543]` |
+| AI-116 | Saku sets a next-spring decision horizon | may uncertainty continue without becoming indefinite control over others' time? | provisionally improved: he asks for time and supplies an explicit limit; each other person retains authority to wait, leave, or make her own bid | `[V08:p-0030#p0474-p0543]` |
+| AI-117 | Saku seeks rooftop solitude and receives Kura-sensei's counsel | does self-directed reflection equal originating a support request? | no; he authors the setting and need for reflection, but Kura-sensei initiates the consequential interpersonal guidance | `[V08:p-0022#p0134-p0321]` |
+
+## Agency rule after V08 main
+
+V08 adds **temporal and embodied answerability**:
+
+1. institutional permission in one domain cannot decide a separate private domain;
+2. authorized leadership remains accountable for treating collaborators as persons rather than pieces;
+3. bodily response, attraction, role-play, and later desire do not override verbal refusal;
+4. remorse and repair can preserve relation without erasing the violation that made repair necessary;
+5. asking for time becomes more accountable when bounded, but a deadline does not pre-author recipients' decisions while waiting;
+6. self-directed reflection remains different from asking another person for help.
+
+## V08 main revision state
+
+- consent as continuing jurisdiction → **MAJOR PROMOTE**; explicit verbal limits govern over inferred arousal or performed desire.
+- repair after violation → **ESTABLISH WITH NON-ERASURE**; personhood, remorse, and continued relation coexist with preserved responsibility.
+- outcome as method vindication → **REJECT again** through Yuzuki's winning but relationally injurious game.
+- bounded uncertainty → **STRENGTHEN** through Saku's next-spring deadline; selection remains open.
+- ownership-like boundary claims → **REJECT / REPAIR** through Yua and Asuka's reciprocal correction.
+- self-originated Saku help requests → **KEEP OPEN**; he seeks reflection but does not initiate the decisive interpersonal request.

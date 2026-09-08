@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: synthesis_architecture
 scope: OPEN_ENDED_JAPANESE_LIGHT_NOVEL_FULL_SERIES
-source_boundary: "Locked Japanese light-novel corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; regular main analysis frozen through Volume 07; V03 bundled bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 volume integrated"
-generation: V1.0
+source_boundary: "Locked Japanese light-novel corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; regular main analysis frozen through Volume 08 main; V03 bundled bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 volume integrated; V08 rough supplement unopened"
+generation: V1.1
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
@@ -46,13 +46,13 @@ This architecture is subordinate to the live repository authority records, integ
 
 Do not collapse "available" or "complete" into one number. Maintain this five-part state in the current corpus map:
 
-| Horizon | Meaning | Current post-V07 checkpoint |
+| Horizon | Meaning | Current post-V08-main checkpoint |
 |---|---|---|
 | `H_pub` | latest publication established by the current bibliographic/source audit | Volume 09.5; official Shogakukan series catalog rechecked 2026-09-07 |
 | `H_acq` | latest acquired main and supplemental witnesses | main V09; supplemental V09.5; 14 locked EPUB objects total |
-| `H_main` | latest numbered main volume prospectively frozen | V07 main |
+| `H_main` | latest numbered main volume prospectively frozen | V08 main |
 | `H_supp` | supplemental witnesses analytically integrated after a safe boundary | V03 in-EPUB pre-main birthday bonus, separate V03 illustration/SS booklet, V05 Special Edition component-routed 18-story booklet, and V06.5 component-routed four-story volume |
-| `H_next` | next source safe to open without contaminating a prior freeze | Volume 08 special-edition object; classify complete main novel and rough-illustration supplement before content use |
+| `H_next` | next source safe to open without contaminating a prior freeze | separately titled V08 rough-illustration supplement, after V08 main publication and exact validation |
 
 The live source inventory has no missing numbered main volume through V09. Known limits remain: retailer-exclusive bonuses are not claimed exhaustive; regular-edition V08 is not separately held, while the special edition contains the complete V08 narrative; supplemental placement must be resolved before analytical use.
 
@@ -108,6 +108,8 @@ V06.5 is the next application: its four stories are all present-state `SUPPLEMEN
 
 V07 then demonstrates the main-volume route after a supplement: the separately integrated V06.5 checkpoint becomes declared entering evidence, while the V06 numbered freeze remains unchanged. The V07 main witness receives its own entering-state freeze and deep reading; creator testimony that V06.5 is `実質的な本編` validates linkage but does not collapse the two source roles. The canonical records are `../02 Sequential Readings/CHIRAMUNE_V07_PROSPECTIVE_FREEZE.md` and `../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md`.
 
+V08 demonstrates the main-within-special-edition route. The exact spine is classified before interpretation; the complete main novel through `p-0033` receives `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md` and `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md`, while the separately titled rough collection at `p-0034`–`p-0083` remains unopened. The main transaction must pass publication and exact validation before the supplement becomes admissible. Production-stage roughs and final illustrations are related witnesses to image making, not automatically separate diegetic events.
+
 ## 5. Atomic main-volume transaction
 
 One numbered main novel is the default atomic sequential unit. A VNN transaction is complete only when every applicable responsibility closes:
@@ -145,7 +147,7 @@ Deep readings and prospective freezes are source-bound historical records. They 
 
 ## 7. Longitudinal infrastructure
 
-The V01–V07-main corpus plus safely integrated supplements through V06.5 maintains four independent thematic/relationship ledgers plus the revision ledger:
+The V01–V08-main corpus plus safely integrated supplements through V06.5 maintains four independent thematic/relationship ledgers plus the revision ledger:
 
 - self-authorship / performance / authenticity;
 - agency / intervention / responsibility;
@@ -169,7 +171,7 @@ Create or update a monograph only after sufficient multi-scene evidence supports
 - contradiction, counterevidence, and abstention boundary;
 - ordinary-life behavior, not crisis scenes alone.
 
-V01–V07-main and the safely integrated supplements through V06.5 justify active-provisional monographs for Saku Chitose, Yuzuki Nanase, Asuka Nishino, Haru Aomi, Yuko Hiiragi, Yua Uchida, and Nozomi Momiji. Asuka crosses the threshold at V03 through direct focalization, formation history, ordinary-life evidence, family conflict, vocation, relationship evidence, and counterevidence. Haru crosses it at V04 through focalization, athletic formation, captaincy failure and revision, ordinary-life evidence, two independently important relationships, embodied risk, and counterevidence. Yuko and Yua cross it at V05 through sustained focalization, independent relations, direct choice, and distinct status/domestic histories. The V05 booklet, V06, and V06.5 materially revise those six models. V07 updates all six and promotes Momiji because sustained school, sport, romantic, group-entry, conflict, self-account, and postposed-prologue evidence supports an independent reconstruction with substantial counterevidence. Promotion does not imply Saku reciprocity, ethical approval, or couple state. The corpus does not justify symmetrical monographs for every named character. Global character discovery remains the separate curation agent's responsibility.
+V01–V08-main and the safely integrated supplements through V06.5 justify active-provisional monographs for Saku Chitose, Yuzuki Nanase, Asuka Nishino, Haru Aomi, Yuko Hiiragi, Yua Uchida, and Nozomi Momiji. Asuka crosses the threshold at V03 through direct focalization, formation history, ordinary-life evidence, family conflict, vocation, relationship evidence, and counterevidence. Haru crosses it at V04 through focalization, athletic formation, captaincy failure and revision, ordinary-life evidence, two independently important relationships, embodied risk, and counterevidence. Yuko and Yua cross it at V05 through sustained focalization, independent relations, direct choice, and distinct status/domestic histories. V07 updates all six and promotes Momiji because sustained school, sport, romantic, group-entry, conflict, self-account, and postposed-prologue evidence supports an independent reconstruction with substantial counterevidence. V08 main revises all seven through direct romantic wording below singularity, consent violation and non-erasing repair, restarted love, women's lateral accountability, and athletic coordination costs. Promotion does not imply Saku reciprocity, ethical approval, or couple state. The corpus does not justify symmetrical monographs for every named character. Global character discovery remains the separate curation agent's responsibility.
 
 ## 9. Synthesis layers
 
@@ -186,13 +188,13 @@ Current-source completion is an operational checkpoint, not terminal synthesis r
 
 Full-series integration is explicitly a **multi-document architecture**, not a mandate to accumulate every conclusion in one monolith. The portfolio has separate retrieval and authority roles:
 
-| Document class | Canonical location | Responsibility | Promotion state at V07 |
+| Document class | Canonical location | Responsibility | Promotion state at V08 main |
 |---|---|---|---|
-| Prospective volume readings and freezes | `../02 Sequential Readings/` | Preserve source-bound findings and the epistemic state at each boundary | active through V07 main; V03, V05, and V06.5 supplemental checkpoints separate |
-| Rolling revision and thematic ledgers | `../03 Longitudinal Ledgers/` | Maintain current cross-volume claims, transitions, and recurring dimensions | active through V07 main plus integrated supplements through V06.5 |
+| Prospective volume readings and freezes | `../02 Sequential Readings/` | Preserve source-bound findings and the epistemic state at each boundary | active through V08 main; V03, V05, and V06.5 supplemental checkpoints separate; V08 rough supplement deferred |
+| Rolling revision and thematic ledgers | `../03 Longitudinal Ledgers/` | Maintain current cross-volume claims, transitions, and recurring dimensions | active through V08 main plus integrated supplements through V06.5 |
 | Character monographs | `../04 Character Analysis/` | Reconstruct independently warranted characters without flattening witness or state distinctions | Saku, Yuzuki, Asuka, Haru, Yuko, Yua, and Momiji active-provisional |
 | Specialist syntheses | `../05 Specialist Synthesis/` documents | Integrate one mature domain whose evidence and dependencies warrant independent retrieval | Fukui locality/departure/ordinary youth promoted at V05 main; other candidates deferred |
-| Current published-corpus synthesis | `CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md` under `../06 Full-Series Synthesis/` | Converge the analyzed-to-date portfolio while routing detail back to the specialist and cumulative homes | promoted at V04; updated through V07 |
+| Current published-corpus synthesis | `CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md` under `../06 Full-Series Synthesis/` | Converge the analyzed-to-date portfolio while routing detail back to the specialist and cumulative homes | promoted at V04; updated through V08 main |
 | Terminal full-series synthesis | future separately named terminal artifact under `../06 Full-Series Synthesis/` | Integrate stabilized specialist outputs after publication closure and the terminal gates | ineligible |
 
 The current published-corpus synthesis and eventual terminal synthesis are integrators and claim routers. They must cite or link to the relevant specialist, character, ledger, and prospective documents rather than absorb those documents' complete evidentiary burden. A specialist document remains separately authoritative for its bounded domain; a later integrator may reconcile domains but must record any material revision through the revision ledger.
@@ -201,7 +203,7 @@ The portfolio may expand or contract at architecture-review checkpoints. Promoti
 
 ## 10. Specialist and adaptation responsibilities
 
-Create specialist work only when a question has independent retrieval responsibility. At V05 main, `../05 Specialist Synthesis/CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md` became the first promoted specialist: landscape, transit, retail, food, domestic labor, seasonal ritual, memory, and departure formed a distinct cross-volume evidence path with independent retrieval value. Its maintained evidence boundary now extends through V07, including Kanazawa travel, local publishing, market/domestic infrastructure, women's athletic lineage, festival scheduling, contested local access, and transmitted food memory.
+Create specialist work only when a question has independent retrieval responsibility. At V05 main, `../05 Specialist Synthesis/CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md` became the first promoted specialist: landscape, transit, retail, food, domestic labor, seasonal ritual, memory, and departure formed a distinct cross-volume evidence path with independent retrieval value. Its maintained evidence boundary now extends through V08 main, including Kanazawa travel, local publishing, market/domestic infrastructure, women's athletic lineage, Phoenix Plaza festival topology, contested/shared local access, and unresolved departure/vocation logistics.
 
 Remaining candidate Chiramune-specific domains include:
 
@@ -241,13 +243,13 @@ Classify apparent contradiction before harmonizing it. Possible causes include f
 
 | Dimension | Sequential capture | Current cumulative home | Mature destination | Baseline state |
 |---|---|---|---|---|
-| Major claims and predictions | every material boundary | revision ledger + prospective freezes | specialist and rolling synthesis | initialized through V07 |
-| Self-authorship/performance | when material | self-authorship ledger | character/specialist/rolling synthesis | initialized through V07 |
-| Agency/intervention | when material | agency ledger | character/specialist/rolling synthesis | initialized through V07 |
-| Status/group topology | when material | social-status ledger | ensemble/specialist/rolling synthesis | initialized through V07 |
-| Relationships/intimacy | directional changes | relationship ledger | character/relationship/rolling synthesis | initialized through V07 |
-| Character state | when evidence threshold is met | Saku, Yuzuki, Asuka, Haru, Yuko, Yua, and Momiji monographs plus relevant ledgers | mature character synthesis | active-provisional through V07 |
-| Ordinary life/locality/departure | when diagnostic | deep readings and locality specialist | locality specialist/rolling synthesis | specialist updated through V07 |
+| Major claims and predictions | every material boundary | revision ledger + prospective freezes | specialist and rolling synthesis | initialized through V08 main |
+| Self-authorship/performance | when material | self-authorship ledger | character/specialist/rolling synthesis | initialized through V08 main |
+| Agency/intervention | when material | agency ledger | character/specialist/rolling synthesis | initialized through V08 main |
+| Status/group topology | when material | social-status ledger | ensemble/specialist/rolling synthesis | initialized through V08 main |
+| Relationships/intimacy | directional changes | relationship ledger | character/relationship/rolling synthesis | initialized through V08 main |
+| Character state | when evidence threshold is met | Saku, Yuzuki, Asuka, Haru, Yuko, Yua, and Momiji monographs plus relevant ledgers | mature character synthesis | active-provisional through V08 main |
+| Ordinary life/locality/departure | when diagnostic | deep readings and locality specialist | locality specialist/rolling synthesis | specialist updated through V08 main |
 | Humor/prose/register | when diagnostic | deep reading and affected current ledger | specialist only if earned | local capture required |
 | Exact locators/wording | for material claims | deep reading; source lock for identity | evidence index if promoted | local routing sufficient |
 | Adaptation/performance | only after separate admission | future adaptation-specific route | comparative specialist synthesis | deferred |
@@ -311,4 +313,4 @@ Completion states are:
 6. `TERMINAL_SYNTHESIS_READY` — only after publication closure and role-gap/convergence gates;
 7. `VALIDATED_RELEASE` — the eligible synthesis and exact repository state pass required audits.
 
-At the post-V07 checkpoint the architecture is `EVOLVING`, the numbered-main high-water mark is V07, and the V03 in-EPUB bonus, separate V03 booklet, component-routed V05 booklet, and component-routed V06.5 volume remain integrated under distinct roles. V07 demonstrates the portfolio's main-after-supplement discipline: its entering freeze cites but does not collapse V06.5; five ledgers carry cumulative transitions; seven monographs preserve character-specific asymmetry; the Fukui specialist retains institutional and route evidence; and the rolling synthesis integrates without absorbing those responsibilities. Direct five-person romantic-pain recognition creates neither a singular beloved nor a couple. The next safe source is the Volume 08 special-edition object, whose main novel and rough-illustration supplement require component classification before opening. The continuous run remains open through the live admitted inventory.
+At the post-V08-main checkpoint the architecture is `EVOLVING`, the numbered-main high-water mark is V08 main, and the V03 in-EPUB bonus, separate V03 booklet, component-routed V05 booklet, and component-routed V06.5 volume remain integrated under distinct roles. V08 demonstrates main-within-special-edition discipline: its exact component graph separates the complete novel from the still-unopened rough collection; five ledgers carry cumulative transitions; seven monographs preserve character-specific asymmetry; the Fukui specialist retains institutional and route evidence; and the rolling synthesis integrates without absorbing those responsibilities. Direct Saku/Yuzuki romantic wording, consent violation and repair, and a next-spring answer horizon create neither a singular beloved nor a couple. The next safe source is the V08 rough-illustration supplement. The continuous run remains open through the live admitted inventory.

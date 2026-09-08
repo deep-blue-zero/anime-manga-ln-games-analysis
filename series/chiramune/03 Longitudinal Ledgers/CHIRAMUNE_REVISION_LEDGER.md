@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
-generation: V0.9
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -483,3 +483,55 @@ Their origin state is `ESTABLISHED_OR_REVISED_AT_V07_MAIN`. Exact locators, visu
 | V08-Q06 | Do baseball, basketball, editing, or departure gain durable institutional stakes? | `OPEN` | repeated education, scheduling, logistics, or vocation decisions rather than symbolic recurrence |
 | V08-Q07 | How does the school festival distribute performance, authorship, status, and romantic interpretation? | `OPEN` | distinguish assigned roles and public optics from private relationship state |
 | V08-Q08 | What evidence belongs to the rough-illustration supplement rather than the main V08 freeze? | `OPEN` | technical component boundary, source role, and post-main supplemental checkpoint if warranted |
+
+## V08 main prospective-question dispositions
+
+| Test ID | Disposition | Evidence-controlled result |
+|---|---|---|
+| `V08-Q01` | `RESOLVE MAIN / DEFER SUPPLEMENT` | The main novel runs through `p-0033`; the separately titled rough collection at `p-0034`–`p-0083` remains unopened for a later transaction. |
+| `V08-Q02` | `STRENGTHEN RECIPROCITY AND DEADLINE / KEEP SELECTION OPEN` | Saku directly names romantic feeling for Yuzuki and promises an answer by next spring, but gives no singular selection or couple. |
+| `V08-Q03` | `STRENGTHEN FEMALE KNOWLEDGE / KEEP SAKU DISCLOSURE AND DIRECT REPAIR OPEN` | Momiji and Yuzuki declare rivalry; Yuko entrusts the summer history; Momiji still does not fully disclose purpose to Saku or complete direct repair. |
+| `V08-Q04` | `MAJOR STRENGTHEN / ETHICALLY QUALIFY` | Yuzuki enacts a heard bid and receives direct romantic recognition, but crosses a consent boundary; her team-dominant game also injures relational coordination. Haru remains ace and must catch up. |
+| `V08-Q05` | `PRESERVE OPEN` | Yua and Asuka directly correct each other's V07 ownership claims; this is not direct completed repair with Momiji. |
+| `V08-Q06` | `BASKETBALL TEAM TEST STRENGTHEN / OTHER PATHS OPEN` | The Kanazawa game and coaching create sustained team-development evidence; no settled basketball vocation, baseball future, editing path, or Tokyo logistics follows. |
+| `V08-Q07` | `CLARIFY / INCOMPLETE` | The play's actress choice is explicitly non-romantic by rule, and the festival has not begun. |
+| `V08-Q08` | `RESOLVE TECHNICAL BOUNDARY / DEFER ANALYSIS` | Main and rough-supplement resources are technically separable; no rough-supplement image informed the V08 main freeze. |
+
+## Claims established or revised at the V08 main freeze
+
+| ID | Prior state | Transition | Current formulation | Evidence route |
+|---|---|---|---|---|
+| F122 | V08 special edition was known to contain main and rough-supplement components | `RESOLVE MAIN TOPOLOGY / BOUND PARATEXT` | V08 is the intentional first published half of a V08–V09 story; its two-chapter main ends before the festival, while afterword testimony supplies no V09 outcome. | `CHIRAMUNE_V08_MAIN_DEEP_READING.md` §§II, XV |
+| F123 | festival roles were institutional assignments rather than romance facts | `PROMOTE EXPRESS NON-ROMANTIC RULE` | Nazuna restricts the best-actress decision to acting and excludes love/friendship/sympathy; no result occurs in V08. | §§II, XV |
+| F124 | Yuzuki had one authorized peak practice win | `STRENGTHEN SUSTAINED CAPACITY / REVISE TEAM EFFECT` | She controls a 65–51 game, but Haru and Yuzuki both register teammates-as-pieces costs; no permanent rank or sustainable form follows. | §V |
+| F125 | Haru's assumed primacy was destabilized | `PRESERVE ACE OFFICE / REJECT GUARANTEE` | Misaki retains Haru as Fujishi's ace while requiring pursuit of a moving Yuzuki; no present romantic request or settled vocation follows. | §VI |
+| F126 | Asuka and Yua had partial V07 repair routes | `STRENGTHEN DIRECT MUTUAL ACCOUNTABILITY / PRESERVE MOMIJI GAP` | They each own fault and correct riverbank/kitchen ownership claims, strengthening friendship without directly completing repair with Momiji. | §VII |
+| F127 | Yuko's refused summer attempt ended while feeling continued | `CLARIFY RESTART` | Yuko explicitly distinguishes the ended love attempt from a new love begun under changed knowledge; refusal remains governing. | §VIII |
+| F128 | Yuzuki privately intended real relation | `ENACT BID / ESTABLISH VIOLATION AND REPAIR` | Her `Nana` escalation ignores verbal limits; Saku refuses; remorse and negotiated repair follow without retroactive consent or ethical erasure. | §XI |
+| F129 | Saku included Yuzuki among five equal romantic pains | `STRENGTHEN DIRECT RECIPROCITY / PRESERVE NONSELECTION` | He says Yuzuki is in his heart and that he fell for the Yuzuki who keeps becoming herself; no singularity or couple follows. | §§IX–XI |
+| F130 | Saku recognized deferral but had no answer horizon | `ESTABLISH BOUNDED ANSWER COMMITMENT` | He promises to decide by the next cherry blossoms and asks for time; the deadline is not a present selection. | §IX |
+| F131 | Momiji had genuine admiration and strategic outsider pursuit | `STRENGTHEN LATERAL RELATION / PRESERVE SAKU GAP` | Yuzuki and Yuko entrust her with intimacy and rivalry; no full purpose disclosure to Saku, rescue chronology, or Saku reciprocity appears. | §§IV, VIII, XII–XIII |
+| F132 | Saku's support request and life-course paths remained open | `PRESERVE` | He seeks reflective space but Kura-sensei initiates counsel; baseball and Tokyo remain without durable commitment/logistics. | §§IX, XIV |
+
+Their origin state is `ESTABLISHED_OR_REVISED_AT_V08_MAIN`. Exact locators, visual evidence, rival readings, and hard limits remain in `CHIRAMUNE_V08_MAIN_DEEP_READING.md` and `CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md`. Earlier freezes remain unchanged.
+
+## Open V08 rough-supplement test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| V08S-Q01 | What functions do the separately titled rough illustrations document? | `OPEN` | inspect every supplement page after the main checkpoint; classify design process, variants, notes, and duplicated final art |
+| V08S-Q02 | Do roughs add production evidence without adding diegetic events? | `OPEN` | separate creator/process evidence from narrative facts and from visual emphasis |
+| V08S-Q03 | Do notes materially revise image interpretation or character design history? | `OPEN` | require legible direct annotation; preserve uncertainty and avoid inferred intent |
+| V08S-Q04 | Which main images recur, and what witness relation do rough/final pairs have? | `OPEN` | route as stages of one illustration where applicable; do not double-count events |
+
+## Open V09 main test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| V09-Q01 | Does Saku make or revise the promised answer before next spring? | `OPEN` | direct wording, recipient, timing, and enacted relation |
+| V09-Q02 | Does direct Yuzuki reciprocity become singular? | `OPEN` | explicit exclusivity and mutual relationship state; prominence remains insufficient |
+| V09-Q03 | What does the actual festival decide publicly and privately? | `OPEN` | keep acting evaluation separate unless independent romantic evidence joins it |
+| V09-Q04 | Does Yuzuki integrate `Nana` with consent and team responsibility? | `OPEN` | changed conduct, repair, and sustainable coordination rather than remorse alone |
+| V09-Q05 | Does Momiji disclose purpose to Saku and complete direct repair? | `OPEN` | direct knowledge, answer authority, and changed relational practice |
+| V09-Q06 | Do female ties survive selection pressure? | `OPEN` | repeated Yua/Asuka, Yuko/Momiji, Yuzuki/Momiji, and Yuzuki/Haru practice |
+| V09-Q07 | Do baseball, basketball, editing, school, or departure become durable paths? | `OPEN` | concrete institutional, educational, vocational, and logistical commitments |

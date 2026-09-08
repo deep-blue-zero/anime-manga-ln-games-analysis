@@ -1,11 +1,11 @@
 ---
 series: CHIRAMUNE
 artifact_type: specialist_synthesis
-scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08+ unopened"
-latest_analyzed_main: V07
+scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
+latest_analyzed_main: V08_MAIN
 latest_analyzed_supplemental: V06_5_FOUR_STORY_VOLUME
-generation: V0.5
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -13,7 +13,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Fukui locality, departure, and ordinary youth — synthesis through V06.5
+# Fukui locality, departure, and ordinary youth — synthesis through V08 main
 
 ## Responsibility and promotion decision
 
@@ -367,4 +367,51 @@ Asuka joins second-term group work and forms an explicit friendship with Yua. He
 - whether Haru's and Yuzuki's athletic futures become sustainable institutional paths rather than peak events;
 - whether the kitchen, riverbank, and catch can remain shareable without erasing differentiated history;
 - whether local food knowledge and care labor continue to circulate rather than attach to one gendered maintainer;
+- whether Saku selects a durable practice from baseball, study, local relation, or a new field.
+
+## XXVI. V08 main update — public routes and private rooms carry answer pressure
+
+### The festival becomes a three-day civic and school topology
+
+The festival is divided into an off-campus event at Phoenix Plaza, a sports festival, and a culture festival. The class play's rehearsals and the blue team's work connect school rooms, public performance space, schedules, and transit rather than creating one symbolic stage. V08 ends before the events, so preparation is causal evidence and outcome remains open.
+
+Nazuna's acting-only rule prevents the public performance from silently deciding private romance `[V08:p-0011#p0241-p0487]`. Local institutions can expose a decision problem without possessing authority to answer it.
+
+### Kanazawa remains a comparative athletic field rather than abstract away
+
+The Kanazawa Oboro game gives Yuzuki a strong opposing school and permits Coach Misaki to test full control. The 65–51 result matters because team pace, role, and coordination become observable across an intercity athletic relation `[V08:p-0013#p0640-p0794]`.
+
+The scene strengthens regional basketball infrastructure but does not settle education, recruitment, or vocation. Haru remains Fujishi's ace while both athletes' futures stay open.
+
+### Named ordinary routes distribute confidential speech
+
+Ikahisa Park, the Fukui Prefectural History Museum, Kurandēru, Taharamachi Station and footbridge, Phoenix-dori and the tram, Akiyoshi, the central market/Elpa, the Asuwa riverbank, and the school rooftop repeatedly carry transitions between public labor and private disclosure.
+
+Yuzuki/Momiji intimacy and rivalry, Yua/Asuka correction, and Saku/Kura-sensei reflection occur because the city offers traversable intervals rather than one sealed home place. The route network supports lateral relationships as much as central romance.
+
+### Domestic sharing tests whether place can survive nonownership
+
+Yua knowingly permits Yuzuki to handle Saku's weekend cooking, and Yuzuki uses a care repertoire already transmitted between women `[V08:p-0024#p0115-p0156]`, `[V08:p-0026#p0062-p0142]`.
+
+The apartment becomes a difficult double test. Shared domestic competence demonstrates resilience below exclusivity; the same private room permits Yuzuki's later boundary violation. Home is neither automatically safe nor inherently possessive. It distributes opportunity and requires explicit consent.
+
+### Departure and vocation remain non-operational
+
+Asuka's Tokyo direction continues to make the group's remaining local time finite, but V08 provides no housing, transport, study, employment, editorial placement, or communication logistics. Haru and Yuzuki gain stronger team-development evidence without a settled path. Saku's baseball remains exercise and memory without institutional commitment.
+
+### Production structure preserves an unfinished local sequence
+
+The afterword states that V08 and V09 were conceived as one story split for length and readability; V08 intentionally ends before the festival `[V08:p-0033#p0011-p0027]`. This explains publication structure, not what the coming event or any local route will decide.
+
+## XXVII. Current specialist model after V08 main
+
+> **Through V08 main, Fukui's locality is an answer-producing infrastructure without answer authority. School and Phoenix Plaza schedules make unresolved choice public; Kanazawa opposition makes athletic coordination measurable; parks, museums, stations, streets, restaurants, markets, rooftops, riverbank, and apartment create intervals for lateral correction and risky intimacy. Shared local practice can retain history without becoming property, while private place still requires explicit consent. Asuka's Tokyo departure, Haru and Yuzuki's basketball futures, and Saku's baseball remain materially imaginable but operationally unresolved.**
+
+## XXVIII. V08 supplement and V09 research questions
+
+- whether rough annotations document specific local design research or only illustration process;
+- how the actual Phoenix Plaza, sports-festival, and culture-festival sequence distributes public labor and aftermath;
+- whether Kanazawa basketball evidence becomes a sustainable education or career route;
+- whether markets, kitchens, and apartments continue to share care without converting access into entitlement;
+- whether Asuka's Tokyo direction gains concrete housing, transport, study, work, or communication form;
 - whether Saku selects a durable practice from baseball, study, local relation, or a new field.

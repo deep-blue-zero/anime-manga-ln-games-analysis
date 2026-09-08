@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: MOMIJI_NOZOMI_THROUGH_VOLUME_07
-source_boundary: "Japanese main Volumes 01-07 frozen; Momiji receives sufficient independent evidence in V07; all V08+ evidence remains unopened"
-generation: V0.1
+scope: MOMIJI_NOZOMI_THROUGH_VOLUME_08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; Momiji's V07 promotion revised through V08 main; V08 rough-illustration supplement and V09+ remain unopened"
+generation: V0.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,13 +11,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Nozomi Momiji — active-provisional character monograph through Volume 07
+# Nozomi Momiji — active-provisional character monograph through Volume 08 main
 
 ## Responsibility and promotion threshold
 
-This monograph reconstructs Nozomi Momiji only from safely admitted Japanese light-novel evidence through Volume 07. V07 supplies sustained action across school, sport, romantic pursuit, group entry, conflict, direct self-account, and the postposed prologue; it also supplies substantial counterevidence about disclosure and harm. That combination crosses the independent-model threshold. Promotion is not a claim that prominence makes her central forever or that later sources cannot substantially revise this first model.
+This monograph reconstructs Nozomi Momiji only from safely admitted Japanese light-novel evidence through Volume 08 main. V07 supplies sustained action across school, sport, romantic pursuit, group entry, conflict, direct self-account, and the postposed prologue; V08 main adds lateral intimacy, declared rivalry, self-described method, and substantial continuing counterevidence about disclosure and harm. V07 crosses the independent-model threshold; V08 revises that promoted model. Promotion is not a claim that prominence makes her central forever or that later sources cannot substantially revise it.
 
-The governing V07 reading is `../../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md`. V08 and all later sources remain outside this boundary.
+The governing readings are `../../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md` and `../../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md`. The V08 rough-illustration supplement and all later sources remain outside this boundary.
 
 ## 1. Entry begins with genuine group admiration
 
@@ -108,4 +108,50 @@ Athletic identity is therefore not decorative comparison with Haru. Sprint form 
 - whether the group offers a relation other than exclusion or assimilation into stasis;
 - whether sprinting acquires continuing educational, institutional, or vocational stakes;
 - whether the fragmented hero encounter gains direct chronology without retrospective invention;
+- direct reciprocal evidence only before any Saku/Momiji romance or couple claim.
+
+# V08 main longitudinal revision
+
+## Her two authentic selves become direct testimony
+
+On a café outing with Yuzuki, Momiji says that the sweet junior and the aggressive challenger are both authentic. Yuzuki gives her a canelé memory that does not pass through Saku and temporarily calls her a girlfriend `[V08:p-0013#p0269-p0391]`.
+
+This strengthens the V07 model of sincere strategy. Momiji does not unveil a true hostile self behind a false affectionate one; she must answer for how two genuine commitments conflict in practice.
+
+## Her romantic doctrine is maximally agentic and ethically hazardous
+
+Momiji says that in Yuzuki's place she would cry directly to Saku, state the undistorted truth, use sympathy, create opportunity, push him down, offer all her femininity, and refuse aid to rivals. She treats withholding those tactics as insufficient seriousness.
+
+The speech is valuable evidence of her chosen method, not objective proof that manipulation is necessary for real love. Her later wish that Yuzuki hate her already shows that she anticipates the cost of using a woman she admires as a rival instrument.
+
+## Outsider advantage survives lateral intimacy
+
+At night Momiji identifies being alone and outside the circle as her competitive advantage. Yuzuki recognizes her standing to challenge inherited meeting order, and both women declare rivalry `[V08:p-0020#p0181-p0480]`.
+
+This is a more complex group relation than refusal of inclusion. Momiji can receive memory, recognition, and history from older women without joining their moratorium or ceasing to oppose them.
+
+## Yuko entrusts her with the refused-love history
+
+Yuko tells Momiji about her summer confession, refusal, and new beginning. Momiji cries and insists the tears are not clean sympathy; she says she too let summer pass `[V08:p-0018#p0509-p0606]`, `[V08:p-0020#p0002-p0035]`.
+
+The scene gives Momiji direct knowledge and conflicted sorrow. It still does not narrate the earlier hero encounter fully or establish Saku's romantic reciprocity.
+
+## She remains late to Saku's private field
+
+Momiji secures Saku's promise to attend her class event, but Saku gives her measurements already taken by Yua rather than permitting private measurement. Her statement that she is late again registers the practical consequence of meeting-order history.
+
+No direct conversation tells Saku that her love preceded cheer squad or renegotiates his junior interpretation. No new direct repair with Asuka, Haru, or Yua appears.
+
+## Post-V08-main current model
+
+> **Momiji's V08 development confirms that affectionate juniorhood and aggressive rivalry are co-authentic rather than mask and essence. She gains real lateral intimacy from Yuzuki and Yuko while preserving outsider status as competitive advantage. Her doctrine of serious love values direct action but also openly courts manipulation and foreseeable relational harm; wanting to be hated records conflict, not absolution. She knows more of the women's histories and is more recognized by them, yet still withholds full romantic purpose from Saku, lacks completed direct repair with those destabilized, and receives no Saku-side romantic recognition.**
+
+## V08 supplement and V09 watchlist
+
+- whether rough annotations add bounded character-design evidence without supplying missing chronology;
+- whether Momiji tells Saku directly when her pursuit began and accepts his informed response;
+- whether outsider advantage evolves into transparent method rather than permanent asymmetry;
+- whether she repairs directly with Asuka, Haru, and Yua;
+- whether rivalry with Yuzuki and entrusted history from Yuko survive the festival;
+- whether sprinting gains durable institutional or vocational stakes;
 - direct reciprocal evidence only before any Saku/Momiji romance or couple claim.

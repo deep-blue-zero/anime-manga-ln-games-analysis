@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V07
-source_boundary: "Japanese main Volumes 01-07 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08+ unopened"
-generation: V1.0
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V08_MAIN
+source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08 rough-illustration supplement and V09+ unopened"
+generation: V1.1
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -388,3 +388,37 @@ V07 shows that a social role may be simultaneously sincere and strategic. Momiji
 - Momiji's hero identity → **ESTABLISH WITH ETHICAL LIMIT**; autonomous movement coexists with concealed purpose and accepted harm.
 - Saku's heroic containment → **STRENGTHEN SELF-RECOGNITION / KEEP ACTION OPEN**; he names five pains but still defers choice and request.
 - couple/selection state → **KEEP OPEN**; private resolve and plural pain do not create reciprocal commitment.
+
+# V08 main update — the self after the curtain remains responsible
+
+## V08 main governing revision
+
+V08 distinguishes performance that creates a bounded trial from performance used as an alibi. The class play marks acting evaluation as non-romantic and leaves its ending open. `Nana` releases Yuzuki's protected capacity but cannot make teammates into pieces, transform arousal into consent, or guarantee that the actor escapes consequence when night ends.
+
+## V08 main entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-099 | Yuzuki / mirror prologue | she wants to become suitable beside Saku and imagines giving him her moon if love cannot stay beautiful | self-authorship begins from recognizing how heroic and feminine ideals script what each person thinks can be asked | devotion does not grant authority over Saku's body or answer | `[V08:p-0010#p0003-p0032]` |
+| SA-100 | class play / best actress | Saku's ad-lib choice is restricted to acting rather than love | a performed decision can rehearse judgment while preserving the boundary between role and private relation | no stage result occurs in V08, and later prominence cannot alone settle romance | `[V08:p-0011#p0241-p0487]` |
+| SA-101 | Momiji / divided authenticity | she says the sweet junior and aggressive challenger are both herself | authenticity can contain incompatible relational modes rather than reduce to one hidden essence | sincerity does not remove strategic or harm responsibility | `[V08:p-0013#p0269-p0391]` |
+| SA-102 | Yuzuki / `Nana` athlete | she discards restraint, wins decisively, and later condemns treating teammates as pieces | released ability is real, but a capacity becomes livable only when integrated with relationships and answerability | one win gives no stable rank; guilt alone is not repair | `[V08:p-0013#p0497-p0794]`, `[V08:p-0015#p0191-p0266]` |
+| SA-103 | Haru / ace pursuing a moving partner | she is retained as ace and learns that waiting means advancing rather than fixing Yuzuki in place | an identity office can remain meaningful while comparative guarantees are surrendered | no final athletic path or romantic request follows | `[V08:p-0015#p0002-p0187]` |
+| SA-104 | Yuko / ended and restarted love | she accepts the failed attempt as whole and says a new love has begun | revision need not deny either the prior self or the answer that ended its project | renewed desire does not reverse refusal | `[V08:p-0018#p0509-p0606]`, `[V08:p-0020#p0002-p0035]` |
+| SA-105 | Asuka and Yua / correcting ownership roles | each identifies her own fault and refuses the other's wife/place logic | authenticity under pressure requires surrendering a flattering self-description and accepting reciprocal correction | self-understanding does not itself complete repair with Momiji | `[V08:p-0016#p0434-p0495]`, `[V08:p-0018#p0007-p0221]` |
+| SA-106 | Yuzuki / `Nana` sexual performance | she treats night as a stage, ignores verbal limits, then recognizes one-sided nonconsent | a role cannot suspend the actor's responsibility or let a later curtain erase conduct | Saku's desire and repair preserve neither prior permission nor ethical innocence | `[V08:p-0028#p0175-p0270]`, `[V08:p-0030#p0380-p0543]` |
+| SA-107 | Saku / romantic naming and deadline | he names love for the Yuzuki who keeps becoming herself and commits to decide by next spring | self-authorship advances from diagnosing plural pain to accepting a temporal obligation to answer | no singular choice, couple, or self-originated help request follows | `[V08:p-0030#p0380-p0543]` |
+
+## Authenticity rule after V08 main
+
+> **A performed self is authentic neither because it is effective nor because desire feels sincere. It remains accountable across the boundary between stage and life: to collaborators it uses, words it hears, harms it causes, and the person who must continue afterward. Mature revision can keep capacity and desire while refusing the fantasy that a role, result, or curtain erases responsibility.**
+
+## V08 main revision state
+
+- stage/performance as safe indirect truth → **DIFFERENTIATE**; bounded rehearsal is possible, but performance cannot decide romance or suspend ethics.
+- Yuzuki's released capacity → **STRENGTHEN / REQUIRE INTEGRATION**; athletic and erotic power produce real effects and real costs.
+- `Nana` as authentic side → **PRESERVE SINCERITY / REJECT ALIBI**.
+- Yuko's post-refusal identity → **MAJOR STRENGTHEN** through explicit ended-attempt/new-love distinction.
+- Yua/Asuka self-account → **STRENGTHEN** through reciprocal correction under romantic pressure.
+- Saku's authored answer → **STRENGTHEN TEMPORAL COMMITMENT / KEEP CONTENT OPEN**.
+- couple/selection state → **KEEP OPEN**; direct Yuzuki romantic wording is not singularity.
