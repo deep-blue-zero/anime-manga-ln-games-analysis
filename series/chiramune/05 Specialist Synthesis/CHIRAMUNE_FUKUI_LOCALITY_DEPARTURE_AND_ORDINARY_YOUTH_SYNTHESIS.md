@@ -1,11 +1,11 @@
 ---
 series: CHIRAMUNE
 artifact_type: specialist_synthesis
-scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_THROUGH_DAYS_OF_ENDLESS_SUMMER
-source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT with no independent locality transition; Volume 09.5 unopened"
+scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_THROUGH_VOLUME_09_5
+source_boundary: "Japanese main Volumes 01-09 frozen; all admitted narrative supplements integrated through Volume 09.5; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT with no independent locality transition"
 latest_analyzed_main: V09_MAIN
-latest_analyzed_supplemental: DAYS_OF_ENDLESS_SUMMER
-generation: V0.9
+latest_analyzed_supplemental: VOLUME_09_5
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -13,7 +13,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Fukui locality, departure, and ordinary youth — synthesis through *Days of Endless Summer*
+# Fukui locality, departure, and ordinary youth — synthesis through Volume 09.5
 
 ## Responsibility and promotion decision
 
@@ -501,3 +501,51 @@ The afterword's collection and anime-production testimony remains paratext. It e
 - whether Tokyo, editing, basketball, baseball, or another life path gains operational logistics;
 - whether domestic knowledge continues to circulate with consent, reciprocity, and bounded ownership;
 - whether production paratext remains separate from fictional geography and current regional fact.
+
+## XXXIV. Volume 09.5 update — chosen ordinary adulthood maintains the youth world
+
+### Akiyoshi makes local continuity an authored good
+
+Teenage Nishino-sensei describes family, teaching, familiar routes, and repeated Fukui life as a happiness he deliberately selected. Its outward shape resembles Kuranosuke's default construction-work/family scenario; the difference is choice, not urban glamour or occupational prestige `[V095:p-0012#p0184-p0246]`, `[V095:p-0020#p0123-p0155]`.
+
+Akiyoshi later receives adult Kuranosuke, Nishino, and Misaki after the school festival `[V095:p-0034#p0030-p0094]`. The restaurant is therefore not only a teenage disclosure site. It carries a teacher/student relation into adult friendship and lets earlier guidance return as ordinary companionship.
+
+### The roof's local value depends on maintenance
+
+Nishino-sensei assigns teenage Kuranosuke to clean a roof. Adult Kuranosuke begins a present Fujishi line with Nishino's daughter Asuka; access then passes through Saku to Momiji `[V095:p-0032#p0066-p0085]`, `[DES:p-0078#p0191-p0204]`.
+
+The roof is not valuable because it stays unchanged. It survives through keys, permission, cleaning, professional discretion, and retransmission. Place becomes an institution when someone accepts its upkeep.
+
+### Cars make locality a practiced infrastructure
+
+Volume 09.5 gives unusual material depth to Fukui's car society. Colleagues routinely offer rides; distance is perceived through vehicle access; parking, taxi/driver services, repair networks, and emergency cables shape ordinary decisions `[V095:p-0032#p0180-p0217]`.
+
+Iwanami's old Rasheen and Misaki's older Land Cruiser are not interchangeable nostalgia props. His vehicle fails after delayed battery maintenance; hers carries cables and extensive self-performed customization `[V095:p-0032#p0150-p0179]`, `[V095:p-0032#p0224-p0308]`. Loving an older local form is sustainable only through skill and labor.
+
+### Adult teachers are the aftercare network's maintainers
+
+Misaki and Iwanami now occupy the school whose students continue to use familiar shops, food, festivals, music, and rooftop intervals. They recognize Nishino's account of repeated local life more fully because they help reproduce the conditions in which another generation can choose `[V095:p-0032#p0087-p0148]`.
+
+This is neither a command that young people remain nor evidence that Tokyo is false. The adults' local lives are positive choices; Asuka's still-unexecuted departure remains her different possible authorship.
+
+### Life-course state splits by generation
+
+Misaki's teaching/coaching and Iwanami's teaching are enacted adult paths whose adolescent origins are now explicit `[V095:p-0018#p0083-p0107]`, `[V095:p-0024#p0043-p0067]`. That is a real revision to the prior globally open vocation formulation.
+
+Among current students, Atomu's equipment, repetition, and new pitch strengthen baseball practice, but no team, education, health, or career logistics follow `[V095:p-0028#p0015-p0049]`. Saku's baseball, Haru/Yuzuki basketball, and Asuka's Tokyo/editing remain open.
+
+### Production paratext remains bounded
+
+The afterword explains why intended men's-side stories were not included and discusses anime-script reinterpretation `[V095:p-0036#p0004-p0019]`. Unwritten plans create no missing diegetic events, and adaptation testimony does not alter the novel's Fukui or character evidence.
+
+## XXXV. Current specialist model after Volume 09.5
+
+> **Fukui is now legible as a maintained intergenerational commons. Restaurants, school, roof, streets, parking, cars, repair networks, music, teachers, and old students carry ordinary life because people keep choosing and servicing them. Nishino, Iwanami, and Misaki prove that staying local can be authored rather than default, while their students retain the right to leave or choose differently. The live youth futures remain materially open: Atomu practices, Haru and Yuzuki compete, Saku remembers baseball, and Asuka prepares imaginatively for Tokyo without operational closure. Place supports decision; it does not make it.**
+
+## XXXVI. Future research questions
+
+- whether Asuka's Tokyo/editing direction receives housing, study, work, transport, or communication logistics;
+- whether Saku, Atomu, Haru, or Yuzuki select an institutional life-course path;
+- whether the roof succession and local aftercare network survive graduation;
+- whether chosen local adulthood remains viable under later work, family, and publication pressures;
+- whether future adaptation witnesses require a separate place/fidelity comparison while remaining outside novel authority.

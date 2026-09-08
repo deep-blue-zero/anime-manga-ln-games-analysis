@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_THROUGH_DAYS_OF_ENDLESS_SUMMER
-source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Volume 09.5 unopened"
-generation: V1.1
+scope: ASUKA_NISHINO_THROUGH_VOLUME_09_5
+source_boundary: "Japanese main Volumes 01-09 frozen; all admitted narrative supplements integrated through Volume 09.5; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference"
+generation: V1.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Asuka Nishino — cumulative character monograph through *Days of Endless Summer*
+# Asuka Nishino — cumulative character monograph through Volume 09.5
 
 ## Scope and promotion basis
 
@@ -493,3 +493,32 @@ Asuka enters cheer practice, learns alongside Saku and Haru, and becomes more em
 - whether Tokyo gains concrete housing, transport, study, work, or communication planning;
 - whether Yua friendship becomes repeated practice independent of Saku;
 - direct reciprocal evidence only before any selection or couple claim.
+
+# Volume 09.5 bounded contextual revision
+
+## Her father's ordinary-life model predates their conflict
+
+Asuka does not focalize Volume 09.5, so this source cannot add a new Asuka decision. It does reveal that her father once described teaching, family, familiar places, and repeated Fukui life as an intentionally selected happiness while guiding Kuranosuke `[V095:p-0020#p0123-p0155]`.
+
+This context complicates but does not excuse his later overreach into Asuka's Tokyo decision. His local preference was not mere fear or empty conservatism; it was a lived good he had authored. He still lacked authority to make that good her required future.
+
+## Asuka's roof role belongs to an intergenerational return
+
+Iwanami identifies Asuka as the first roof cleaner in the present Fujishi succession and says the choice was a small return to her father. Saku then inherits access and appoints Momiji as third generation `[V095:p-0032#p0066-p0085]`, `[DES:p-0078#p0191-p0204]`.
+
+The finding strengthens Asuka's place in an adult/student network without making the roof her property. Her finite cross-grade intimacy with Saku occurred inside infrastructure transmitted through other relations.
+
+Nishino-sensei also remembers Saku from childhood and anticipates discussing Asuka's festival guitar with Iwanami `[V095:p-0034#p0011-p0018]`. This is father-side pride and adult friendship evidence, not Asuka's direct reconciliation or a new Tokyo plan.
+
+## Post-Volume 09.5 current model
+
+> **Volume 09.5 adds family and institutional context rather than a new Asuka state. Her father's preference for local ordinary life was sincerely authored even when his later attempt to govern her destination was illegitimate. Her rooftop access belongs to a reciprocal mentorship chain, not private ownership. Asuka's own Tokyo/editorial direction, cross-grade relations, and romantic status remain as established through *Days*: meaningful, self-authored, and operationally unresolved.**
+
+## Future watchlist
+
+- concrete Tokyo education, housing, work, transport, or communication planning;
+- whether father/daughter support remains practical without destination control;
+- whether the roof succession continues after her graduation;
+- continued Yua and Momiji relations independent of Saku;
+- sustained editorial listening practice;
+- direct reciprocal evidence only before selection or couple status.

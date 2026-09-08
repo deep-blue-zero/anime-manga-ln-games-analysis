@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: series_synthesis_router
 scope: ROLLING_AND_TERMINAL_SERIES_SYNTHESIS
-source_boundary: "Japanese main analysis frozen through Volume 09; bundled V03 bonus labeled BONUS_FICTION; separate V03 booklet, V05 special-edition booklet, component-routed V06.5 volume, and component-routed Days of Endless Summer integrated as SUPPLEMENTAL_MAINLINE; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; Volume 09.5 unopened; current published-corpus synthesis updated through the same boundary"
-generation: V1.2
+source_boundary: "Japanese main analysis frozen through Volume 09; every admitted narrative supplement through Volume 09.5 integrated through source-bound checkpoints; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; current published-corpus synthesis reconciled through the same boundary"
+generation: V1.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -45,7 +45,7 @@ Preferred name:
 
 `CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md`
 
-That artifact was promoted at V04 and is now updated through *Days of Endless Summer*, alongside the separately classified V08 rough-illustration collection. Five ledgers, seven character monographs, the promoted Fukui locality/departure specialist synthesis, the prospective and narrative-supplement readings, the *Days* component graph, and the V08 production-paratext checkpoint create independent cross-document retrieval value. The post-*Days* architecture review keeps performance in the self-authorship ledger and source-bound readings because that route remains sufficient; a separate specialist is not promoted merely for symmetry. The integrator remains explicitly analyzed-to-date and mutable; it does not imply publication closure or terminal-series eligibility.
+That artifact was promoted at V04 and is now reconciled through Volume 09.5, alongside the separately classified V08 rough-illustration collection. Five ledgers, ten character monographs, the Fukui locality/departure specialist, the newly promoted sport/effort/mentorship specialist, the prospective and narrative-supplement readings, component graphs, and the production-paratext checkpoint create independent cross-document retrieval value. The Volume 09.5 role-gap review keeps performance in the self-authorship ledger and source-bound readings because that route remains sufficient. The integrator remains explicitly analyzed-to-date and mutable; it does not imply publication closure or terminal-series eligibility.
 
 It must state at least:
 

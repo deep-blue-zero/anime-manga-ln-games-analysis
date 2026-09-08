@@ -2,14 +2,14 @@
 series: CHIRAMUNE
 artifact_type: character_analysis_router
 scope: CHARACTER_ANALYSIS
-generation: V1.4
+generation: V1.5
 status: canonical
 release_state: mutable_active
 ---
 
 # Chiramune character-analysis router
 
-V01–V09 main, the integrated V03 booklet, the integrated V05 special-edition booklet, the integrated V06.5 supplemental volume, and the component-routed *Days of Endless Summer* collection currently justify seven active-provisional cumulative monographs:
+V01–V09 main and every currently admitted narrative supplement through Volume 09.5 justify ten active-provisional cumulative monographs:
 
 - `Saku Chitose/CHIRAMUNE_SAKU_CHARACTER_MONOGRAPH.md`;
 - `Yuzuki Nanase/CHIRAMUNE_YUZUKI_CHARACTER_MONOGRAPH.md`;
@@ -18,8 +18,17 @@ V01–V09 main, the integrated V03 booklet, the integrated V05 special-edition b
 - `Yuko Hiiragi/CHIRAMUNE_YUKO_CHARACTER_MONOGRAPH.md`.
 - `Yua Uchida/CHIRAMUNE_YUA_CHARACTER_MONOGRAPH.md`.
 - `Momiji Nozomi/CHIRAMUNE_MOMIJI_CHARACTER_MONOGRAPH.md`.
+- `Misaki Nagisa/CHIRAMUNE_MISAKI_CHARACTER_MONOGRAPH.md`.
+- `Kuranosuke Iwanami/CHIRAMUNE_KURANOSUKE_CHARACTER_MONOGRAPH.md`.
+- `Nazuna Ayase/CHIRAMUNE_NAZUNA_CHARACTER_MONOGRAPH.md`.
 
-Saku's cumulative monograph preserves the complete V01 baseline and appends explicit V02, V03-main, V03-booklet, V04, V05-main, V05-special, V06, V06.5, V07, V08-main, V09-main, and *Days of Endless Summer* revisions. Yuzuki's monograph is promoted at V02 because direct focalization, retrospective self-account, ordinary-life evidence, relationship contrast, crisis behavior, and counterevidence together cross the independent-model threshold; later boundaries add explicit revisions. Asuka's monograph is promoted at V03 through focalization, childhood formation, ordinary-life demystification, family conflict, researched vocation, directional love, and significant ethical counterevidence. Haru's monograph is promoted at V04 through focalization, athletic formation, leadership failure and revision, ordinary life, direct love, two independently important relationships, embodied risk, and counterevidence. Yuko and Yua cross the threshold at V05 through sustained focalization, independent relations, direct choices, counterevidence, and distinct status/domestic histories. V07 promotes Momiji from sustained school, sport, romantic, group, conflict, self-account, and postposed-prologue evidence. V08 main revises all seven through bounded-answer responsibility, consent and repair, restarted love, lateral female correction, athletic coordination, and outsider intimacy. V09 revises all seven through public self-authorship, corrective support, group-level repair, distributed performance, Momiji's full disclosure and split answer, and the end of the unchanged group form. *Days of Endless Summer* adds individually placed retrospective testimony to all seven and a current bridge that enacts Momiji's social admission, differentiated repair, cross-grade alliance, fair rivalry, and ordinary group continuation without creating a couple. The V08 rough-illustration collection documents visual production alternatives but supplies no diegetic character-state transition; no monograph gains a substantive section from it. Promotion and update do not imply singular Saku reciprocity or couple status.
+Saku's cumulative monograph preserves the complete V01 baseline and appends explicit bounded revisions through *Days of Endless Summer*. Yuzuki is promoted at V02, Asuka at V03, Haru at V04, Yuko and Yua at V05, and Momiji at V07 when each crosses the independent-model threshold. V08–V09 and *Days* revise those seven without producing a singular Saku selection or couple.
+
+Volume 09.5 adds no direct current state for Saku, Haru, Yuko, Yua, or Momiji. It adds external middle-school athletic testimony to Yuzuki and bounded father/roof-lineage context to Asuka. Those two monographs receive explicit updates; the other five remain accurately current through their latest material boundary.
+
+The same source promotes three recurring supporting characters. Misaki now has sustained coaching history plus direct adolescent/adult focalization, athletic crisis, enacted vocation, ordinary life, independent relations, and counterevidence. Kuranosuke now has recurring teacher/roof responsibility plus direct focalization, rescue method, self-dismissed career history, chosen vocation, adult life, and relational limits. Nazuna now has recurring friendship/organizer/corrective work plus direct athletic history, ordinary life, independent Atomu relation, regret, and counterevidence. Their character responsibilities remain distinct from the new sport/effort/mentorship specialist.
+
+The V08 rough-illustration collection documents visual production alternatives but supplies no diegetic character-state transition; no monograph derives story-state evidence from it. Promotion and update do not imply singular Saku reciprocity or couple status.
 
 Do not create another monograph or character subdirectory merely because a cast member appears in the source.
 

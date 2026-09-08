@@ -1,14 +1,14 @@
 ---
 series: CHIRAMUNE
 artifact_type: current_published_corpus_synthesis
-scope: ANALYZED_JAPANESE_LIGHT_NOVEL_CORPUS_THROUGH_DAYS_OF_ENDLESS_SUMMER
-source_boundary: "Japanese main Volumes 01-09 prospectively frozen; V03 in-EPUB birthday bonus integrated as BONUS_FICTION; separate V03 booklet, component-routed V05 special-edition booklet, component-routed V06.5 supplemental volume, and component-routed Days of Endless Summer integrated; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; Volume 09.5 unopened"
+scope: ANALYZED_JAPANESE_LIGHT_NOVEL_CORPUS_THROUGH_VOLUME_09_5
+source_boundary: "Japanese main Volumes 01-09 prospectively frozen; every admitted narrative supplement through Volume 09.5 integrated through source-bound checkpoints; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT"
 latest_publication_horizon: V09.5
 latest_acquired_main: V09
 latest_acquired_supplemental: V09.5
 latest_analyzed_main: V09_MAIN
-latest_analyzed_supplemental: DAYS_OF_ENDLESS_SUMMER
-generation: V1.0
+latest_analyzed_supplemental: VOLUME_09_5
+generation: V1.1
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -16,19 +16,19 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Chiramune current published-corpus synthesis — through *Days of Endless Summer*
+# Chiramune current published-corpus synthesis — through Volume 09.5
 
 ## Purpose, authority, and limit
 
-This is the analyzed-to-date integrator for the Japanese *Chitose Is in the Ramune Bottle* light-novel corpus. It routes a multi-document portfolio: V01–V09 main readings and freezes, separate V03/V05/V06.5/*Days of Endless Summer* narrative-supplement checkpoints, the V08 production-paratext checkpoint, five longitudinal ledgers, seven warranted character monographs, the Fukui/locality specialist synthesis, and safely integrated bonus material.
+This is the analyzed-to-date integrator for the Japanese *Chitose Is in the Ramune Bottle* light-novel corpus. It routes a multi-document portfolio: V01–V09 main readings and freezes, separate V03/V05/V06.5/*Days of Endless Summer*/V09.5 narrative-supplement checkpoints, the V08 production-paratext checkpoint, five longitudinal ledgers, ten warranted character monographs, two promoted specialist syntheses, and safely integrated bonus material.
 
 It does not replace those documents' evidence or their source-bound historical states. The exact route begins at `../CURRENT_STATE_AND_CORPUS_MAP.md`; source identity lives in `../01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md`; claim transitions live in `../03 Longitudinal Ledgers/CHIRAMUNE_REVISION_LEDGER.md`.
 
-This synthesis is not terminal. Volume 09.5 remains unanalyzed, and Chiramune remains an open publication corpus at the current audit horizon.
+This synthesis is not terminal. Every source in the live 14-object lock is analyzed or explicitly bounded, but Chiramune remains an open publication corpus at the current audit horizon.
 
 ## Current central synthesis
 
-Across nine main volumes and the admitted supplemental corpus through *Days of Endless Summer*, Chiramune treats youth as the problem of authoring lives from already social forms: talent, beauty, rank, friendship, family, sport, place, performance, memory, and other people's desire. Authenticity is neither an untouched interior nor the abandonment of style. It is retained capacity to recognize, revise, and answer for what a chosen form demands.
+Across nine main volumes and the admitted supplemental corpus through Volume 09.5, Chiramune treats youth as the problem of authoring lives from already social forms: talent, beauty, rank, friendship, family, sport, place, performance, memory, and other people's desire. Authenticity is neither an untouched interior nor the abandonment of style. It is retained capacity to recognize, revise, and answer for what a chosen form demands.
 
 V05 adds a decisive limit to the V01–V04 ethic of recognition and distributed action:
 
@@ -61,6 +61,12 @@ V09 turns that bounded delay into active answerability:
 > **A person may refuse an immediate romantic request while still owing the claimant a hearing inside an accepted decision process. Public performance can carry authored truth, repair, and recognition without deciding exclusive private status. One shared group form may end while its relationships survive as transparent plurality.**
 
 Yua authors a public musical address; Haru's paired race alternates who adapts; the pirate performance distributes creative authorship; and Yuzuki turns mirrorhood into correction rather than flattering reflection. Saku chooses Yuzuki for `today, this stage only` under the acting-only rule. Momiji fully discloses love, receives an immediate dating refusal, then gains admitted claimant standing after Saku rescinds social exclusion. The unchanged blue group closes, but its friendships and rivalries continue. No singular beloved or couple is established.
+
+Volume 09.5 then turns youth mentorship into an explicit adult genealogy:
+
+> **Guidance can materially change a life without owning its capacity or answer. An ordinary vocation becomes authored when a person investigates, chooses, practices, and later maintains for others the institutions that once made choice possible.**
+
+Teenage Misaki reauthors a height-bound basketball identity through her own varied repertoire after Kuranosuke makes Tominaga's trust legible. Her declared teaching/coaching future becomes adult fact. Her recovery, in turn, gives self-dismissed Kuranosuke a reason to ask how to become a teacher after Nishino has modeled intentionally chosen Fukui life. Nazuna's middle-school loss supplies the stopping athlete's account; Atomu's current pitching supplies serious practice without institutional closure. Adult mutual love and continuing intimacy enter the corpus through Misaki/Kuranosuke, while the Saku-centered romantic field remains unchanged.
 
 ## I. Developmental sequence
 
@@ -331,19 +337,41 @@ Meals, recipes, local shops, restaurants, the roof, Leisure Land, and Hachiban c
 
 Asuka's editorial method, Haru and Yuzuki's athletic capacities, and Saku's available baseball practice deepen without operational decisions. Saku authors a social-access request for Momiji but still does not initiate a vulnerable request for help with his own distress.
 
-## IX. Multi-document portfolio state
+## IX. Volume 09.5 convergence
 
-At the post-*Days of Endless Summer* checkpoint the portfolio contains:
+### Adult vocation is resolved without resolving youth futures
 
-- source-bound main reading/freeze artifacts through V09 main, separate V03, V05, V06.5, and *Days of Endless Summer* narrative-supplement checkpoints, and a separate V08 production-paratext checkpoint;
+Misaki and Kuranosuke now have enacted teaching paths whose adolescent origins are directly shown. This splits the prior global vocation question by generation. Atomu's equipment, volume, and new pitch strengthen baseball practice, but Saku, Atomu, Haru, Yuzuki, and Asuka still lack the institutional, educational, health, housing, transport, or employment commitments required for settled life-course claims.
+
+### Bodily limits require repertoire revision, not denial
+
+Misaki's 170-centimeter ceiling is structurally real and interpretively overextended. Her recovery does not prove height irrelevant; it proves that one advantage need not exhaust a practiced self. Nazuna supplies the counter-case: a person may stop after recognizing an escalating field, and even a self-authored cessation can retain regret.
+
+### Mentorship is circular and materially maintained
+
+Nishino guides Kuranosuke; Kuranosuke helps Misaki; Misaki's recovery redirects Kuranosuke; all three later sustain students and school. Roof access passes from Nishino's assignment of Kuranosuke into a Fujishi line of Asuka, Saku, and Momiji. Keys carry work rather than ownership.
+
+### Adult romantic mutuality does not create an unshown status
+
+The narration explicitly frames teenage Misaki and Kuranosuke as mutually in love before recognition. Adult teasing, shared music, a lengthened ride, and continued causal knowledge strengthen reciprocity. The source does not name them as dating, engaged, married, or cohabiting. This new adult dyad does not answer Saku's promised romantic decision.
+
+### The architecture expands where evidence requires it
+
+Sport, effort, mentorship, and institutional authority now receive a promoted specialist because their cross-volume evidence and contradictions require a distinct retrieval path. Misaki, Kuranosuke, and Nazuna receive character monographs after sustained prior appearance plus direct V09.5 focalization. Performance remains in the self-authorship ledger and source-bound readings; no new ledger or separate performance specialist is required.
+
+## X. Multi-document portfolio state
+
+At the Volume 09.5 current-source checkpoint the portfolio contains:
+
+- source-bound main reading/freeze artifacts through V09 main, separate V03, V05, V06.5, *Days of Endless Summer*, and V09.5 narrative-supplement checkpoints, and a separate V08 production-paratext checkpoint;
 - five maintained longitudinal ledgers;
-- seven active-provisional character monographs revised through *Days of Endless Summer*;
-- one promoted specialist synthesis for locality/departure/ordinary youth;
+- ten active-provisional character monographs, including newly promoted Misaki, Kuranosuke, and Nazuna responsibilities;
+- two promoted specialist syntheses for locality/departure/ordinary youth and for sport/effort/mentorship/institutional authority;
 - this mutable analyzed-to-date integrator.
 
-The portfolio remains intentionally distributed. Character, specialist, ledger, component-map, and prospective responsibilities are not absorbed into this file. The post-*Days* architecture review keeps performance in the self-authorship ledger plus source-bound readings because a separate specialist would currently duplicate responsibility. Reconsider after V09.5 and current-source reconciliation.
+The portfolio remains intentionally distributed. Character, specialist, ledger, component-map, and prospective responsibilities are not absorbed into this file. The current-source architecture review keeps performance in the self-authorship ledger plus source-bound readings because a separate specialist still duplicates responsibility. No sixth ledger or evidence-index directory is required.
 
-## X. Current hard nonclaims
+## XI. Current hard nonclaims
 
 - V07 directly classifies five imagined losses as romantic pain; it does not identify one beloved, rank the five, include Momiji in Saku's enumeration, or establish a couple.
 - V08's direct Saku/Yuzuki romantic language does not establish that Yuzuki is singular, selected, or Saku's girlfriend.
@@ -401,18 +429,27 @@ The portfolio remains intentionally distributed. Character, specialist, ledger, 
 - Yua's restored routine does not erase V08's consent violation, and repair with Momiji does not require surrender of every differentiated domestic boundary.
 - Momiji's third-key responsibility, Takoku participation, and new dyads enact social admission without reversing Saku's dating refusal.
 - The *Days* afterword's anime-production testimony does not admit anime into the Japanese-light-novel evidence plane.
-- Current-source completion and terminal-series synthesis remain outside this boundary.
+- Volume 09.5 does not rewrite the V08 abstention about Misaki's unnamed male helper; later identification of Kuranosuke preserves the correctness of the earlier boundary.
+- Kuranosuke's interpretation helps Misaki but does not create her athletic repertoire or own her recovery.
+- Misaki's revised game does not make height advantage unreal or prove a complete later playing-career outcome.
+- Nazuna's regret does not prove she would have reached Yuzuki, Aomi, Todo, or a professional path if she had continued.
+- Nazuna's catch with Atomu is not a competitive return, and Atomu's serious private practice is not an institutional or vocational return.
+- Misaki/Kuranosuke mutual historical love and adult intimacy do not establish a named couple, engagement, marriage, or cohabitation.
+- The roof genealogy establishes entrusted maintenance, not property, romance, or formal rank.
+- Nishino's chosen ordinary Fukui life is one valid path, not an instruction that Asuka or other students remain local.
+- Planned but unwritten men's-side stories described in the V09.5 afterword are not character evidence.
+- The V09.5 afterword's anime-reinterpretation account does not alter Japanese-novel continuity.
+- The live admitted inventory is analyzed to date; current-source completion does not establish publication closure or terminal-series synthesis eligibility.
 
-## XI. Next integration tests
+## XII. Future admission and integration tests
 
-The next safe source is the exact locked Volume 09.5 EPUB. Preserve the V09 and *Days of Endless Summer* checkpoints and every earlier freeze. The live tests are:
+No further source is admitted in the live lock. `H_next` is `NONE__AWAIT_NEW_ADMISSION`. When a new official source is acquired, preserve every existing freeze and checkpoint, then:
 
-1. verify the exact object against the source lock before content use;
-2. inventory every fiction, image, divider, and paratext component and assign a primary source role;
-3. establish each component's relation to V09 and *Days* rather than assume one blanket chronology;
-4. distinguish retrospective testimony, parallel witness, and current transition;
-5. require direct singular wording and mutually enacted status before identifying a couple or singular beloved;
-6. preserve V08 consent history, Momiji's split refusal/admission, and the post-*Days* network without back-projection;
-7. test whether baseball, basketball, Tokyo, editing, or another life path gains operational commitments;
-8. test whether Saku originates a vulnerable support request;
-9. run the current-source reconciliation and architecture role-gap audit only after the complete V09.5 checkpoint is frozen.
+1. verify identity, provenance, integrity, source role, and earliest safe insertion boundary before content use;
+2. distinguish mainline transition, retrospective testimony, parallel witness, production paratext, and adaptation evidence;
+3. require direct singular wording and mutually enacted status before identifying a couple or singular beloved;
+4. preserve V08 consent history, Momiji's split refusal/admission, adult status limits, and every earlier prospective state;
+5. test whether baseball, basketball, Tokyo, editing, adult romance, or another life path gains operational commitments;
+6. test whether Saku originates a vulnerable support request;
+7. revise the promoted specialists only where their distinct responsibilities change;
+8. repeat the architecture role-gap audit at the next meaningful publication or current-source closure.

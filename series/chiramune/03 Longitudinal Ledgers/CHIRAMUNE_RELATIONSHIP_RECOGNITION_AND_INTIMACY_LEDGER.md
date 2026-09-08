@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: ledger
 scope: RELATIONSHIP_RECOGNITION_INTIMACY_THROUGH_DAYS_OF_ENDLESS_SUMMER
-source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT; Volume 09.5 unopened"
-generation: V1.3
+source_boundary: "Japanese main Volumes 01-09 frozen; all admitted narrative supplements integrated through Volume 09.5; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT"
+generation: V1.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -901,3 +901,52 @@ Yuzuki/Haru partner loyalty, Yuko/Kotone refusal talk, Yuzuki/Nazuna capacity ch
 4. **Social admission is now enacted.** Momiji's key responsibility and new dyads realize V09 access without reversing the dating refusal.
 5. **Lateral relations are analytically primary.** The women's network creates its own norms of care, contest, disclosure, and future continuity.
 6. **No couple exists at this boundary.** Direct reciprocal exclusive wording and mutually enacted status remain absent.
+
+# Volume 09.5 relationship update — mutual adult history without main-field selection
+
+## Misaki ↔ Kuranosuke — reciprocal first love and unnamed adult continuity
+
+Kuranosuke rescues without claiming debt; Misaki chooses return, wound care, and continued roof contact. He later helps her retrieve her basketball repertoire, while her recovery and earlier teacher joke make his own vocation imaginable `[V095:p-0016#p0001-p0122]`, `[V095:p-0022#p0001-p0131]`, `[V095:p-0024#p0043-p0067]`.
+
+The match close explicitly frames both teenagers as in love before conscious recognition `[V095:p-0024#p0001-p0018]`. As adult colleagues they manage professional distance, recover old address privately, share music, prolong a drive, and choose an evening with Nishino `[V095:p-0032#p0021-p0065]`, `[V095:p-0034#p0001-p0057]`.
+
+**Current state:** explicit mutually framed historical love + reciprocal vocational causality + continuing adult attraction/intimacy + no named dating, engagement, marriage, or cohabitation status.
+
+## Misaki ↔ Tominaga — rank change inside preserved partner trust
+
+Misaki withdraws after Tominaga's growth changes team rank. Tominaga keeps competing directly and structures the practice game as if Misaki can return as a hidden weapon `[V095:p-0012#p0271-p0411]`, `[V095:p-0022#p0094-p0125]`.
+
+**Current state:** historical rival-partner trust and restored coordination; later athletic result and adult relationship remain unknown.
+
+## Kuranosuke ↔ Nishino-sensei — guidance becomes reciprocal adulthood
+
+Nishino challenges Kuranosuke's self-dismissal, models a chosen ordinary life, and later remembers Misaki as the person who changed his student `[V095:p-0012#p0184-p0246]`, `[V095:p-0020#p0123-p0155]`, `[V095:p-0034#p0058-p0079]`.
+
+**Current state:** formative teacher/student relation continued as adult friendship and periodic Akiyoshi contact; Nishino influences but does not solely author Kuranosuke's vocation.
+
+## Nazuna ↔ Yuzuki — former defeat becomes exacting friendship
+
+Nazuna's middle-school hostility changes into recognition of Yuzuki's extraordinary repertoire and labor. The defeat and later result chain help Nazuna stop; present friendship makes her demand that Yuzuki show the continuation she abandoned `[V095:p-0026#p0058-p0206]`, `[V095:p-0026#p0208-p0224]`, `[V095:p-0030#p0054-p0066]`.
+
+**Current state:** former opponents + admiration and envy + future-bearing friendship + interested athletic/romantic challenge; no current rank conclusion.
+
+## Nazuna ↔ Atomu — embodied curiosity and peer instruction
+
+Nazuna recognizes Atomu's serious private pitching, receives basic instruction, and experiences his restrained ball materially. Their teasing permits attention and competence to circulate outside the central romantic field `[V095:p-0028#p0015-p0049]`, `[V095:p-0030#p0017-p0053]`.
+
+**Current state:** independent peer familiarity + teaching/learning + mutual legibility; no direct romantic naming or couple evidence.
+
+## Roof lineage — relation as transmissible access
+
+Nishino-sensei's assignment of teenage Kuranosuke becomes a later Fujishi succession through Asuka, Saku, and Momiji `[V095:p-0032#p0066-p0085]`, `[DES:p-0078#p0191-p0204]`.
+
+**Current state:** an intergenerational relation carried by permission and maintenance; key possession is not ownership, romance, or formal office.
+
+## Relationship hypotheses after Volume 09.5
+
+1. **Mutual romantic feeling and couple status are separable.** Misaki/Kuranosuke cross the former threshold, not the latter.
+2. **Help can become reciprocal formation.** Kuranosuke helps Misaki retrieve sport; Misaki helps him imagine teaching; neither owes the other a relationship title.
+3. **Former defeat can sustain friendship without becoming harmless.** Nazuna supports Yuzuki while keeping envy, regret, and demanding expectation visible.
+4. **Mentorship may travel through objects and places.** drinks, balls, cars, keys, roofs, and Akiyoshi carry relations only because people keep choosing their use.
+5. **The main romantic field is unchanged.** No Saku-side singular beloved, reciprocal exclusive status, or couple appears.
+6. **Current-source closure is not relational closure.** adult status, youth vocation, and Saku's promised answer remain open to later publication.

@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V1.2
+generation: V1.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -148,7 +148,7 @@ The extraction produced 5,571 non-empty locator rows and 5,641 reading lines. Th
 
 The afterword announces a 2025 television anime, explains the more-than-one-year delay in relation to that announcement, and describes a 2024 Fukui collaboration. These are source-era production statements, not current-status verification or diegetic evidence. The complete reading and freeze are `../02 Sequential Readings/CHIRAMUNE_V09_DEEP_READING.md` and `../02 Sequential Readings/CHIRAMUNE_V09_PROSPECTIVE_FREEZE.md`.
 
-The next safe source is the exact locked *Days of Endless Summer* EPUB. It must be classified component by component before fiction enters the longitudinal corpus.
+The next safe source was the exact locked *Days of Endless Summer* EPUB, which then required component-by-component classification before fiction entered the longitudinal corpus.
 
 ### *Days of Endless Summer* analysis disposition
 
@@ -158,7 +158,19 @@ The exact package contains 152 extracted files, 93 linear XHTML spine entries, a
 
 The 36 republished stories retain individual earlier diegetic placements and enter as later-admitted testimony rather than rewriting their main-volume freezes. `長く短い祭りのあと` is the only newly written current bridge: it occurs the day after the culture festival and before the Okinawa class trip. The afterword supplies bounded production history, including the author's anime-script participation; it does not admit the anime into the novel evidence plane. The complete component graph and checkpoint are `../02 Sequential Readings/CHIRAMUNE_DAYS_OF_ENDLESS_SUMMER_SUPPLEMENTAL_READING.md`.
 
-The next safe source is the exact locked Volume 09.5 witness.
+The next safe source was the exact locked Volume 09.5 witness.
+
+### Volume 09.5 analysis disposition
+
+The locked Volume 09.5 witness was independently reverified at 11,508,075 bytes and SHA-256 `0f2ca4c31b19356f153a04b9c026ddba43f57a11c439b78d63f6cd44b9dbddb2` before opening. OPF metadata identifies `千歳くんはラムネ瓶のなか ９．５`, 裕夢, 株式会社小学館, and Japanese, with modification timestamp `2025-12-09T10:21:15Z`. The colophon records electronic publication on 2025-10-20, a 2025-10-25 print base, and ISBN 978-4-09-453266-1.
+
+The exact package contains 90 extracted files, 51 linear XHTML spine entries, and 33 JPEG assets. Its fiction topology consists of three titled chapters: pre-series Misaki/Kuranosuke history; Nazuna's current pre-Okinawa frame enclosing a middle-school basketball memory; and a late-October adult coda explicitly after the *Days* Takoku gathering. All 33 images were inspected and bounded by role.
+
+Extraction produced 2,515 non-empty locator rows and 2,617 reading lines. The locator TSV SHA-256 is `a33bfef8abbe8438743decc0160869ed19d969d340ae926e2b49dfe5bc6643e9`, the reading projection SHA-256 is `8b580f29796085f538efbef5d4bd91aed44695ad98b6c46100511f44dc380aa8`, and the image-inventory SHA-256 is `d73a6138d66f53d2734979c687477d4a11f130d314c3d216e884a82f3b9b1aea`.
+
+All three fiction chapters are `SUPPLEMENTAL_MAINLINE`, with nested chronology preserved rather than collapsed into one event stream. The afterword's planned but unwritten men's-side stories are production history, not absent diegetic evidence; its anime-reinterpretation discussion does not admit the adaptation into the novel plane. The complete checkpoint is `../02 Sequential Readings/CHIRAMUNE_V09_5_SUPPLEMENTAL_READING.md`.
+
+Every source in the live 14-object lock is now analyzed or explicitly bounded. No next source is admitted; `H_next` is `NONE__AWAIT_NEW_ADMISSION`.
 
 ### Volume 04 analysis disposition
 
@@ -172,7 +184,7 @@ Its colophon dates publication to 2020-04-17 and identifies 裕夢 as author, ra
 
 ### Half-volumes and side stories
 
-Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volumes 07, V08 main, and V09 main are independently frozen after that checkpoint. The V08 rough-illustration collection is separately integrated as `PRODUCTION_PARATEXT`. *Days of Endless Summer* is integrated through a 37-component graph that preserves original provenance, individual placement, and duplicate-event controls. Volume 09.5 still requires publication/diegetic classification before longitudinal integration. Its existence does not authorize retroactive leakage into earlier prospective reading states.
+Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volumes 07, V08 main, and V09 main are independently frozen after that checkpoint. The V08 rough-illustration collection is separately integrated as `PRODUCTION_PARATEXT`. *Days of Endless Summer* is integrated through a 37-component graph that preserves original provenance, individual placement, and duplicate-event controls. Volume 09.5 is integrated through a three-chapter component map with historical, nested-memory, and current placement kept distinct. None authorizes retroactive leakage into earlier prospective reading states.
 
 ## Completeness claim and limit
 

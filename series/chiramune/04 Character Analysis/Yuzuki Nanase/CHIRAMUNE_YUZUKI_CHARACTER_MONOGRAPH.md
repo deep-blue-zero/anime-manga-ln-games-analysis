@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_THROUGH_DAYS_OF_ENDLESS_SUMMER
-source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Volume 09.5 unopened"
-generation: V1.3
+scope: YUZUKI_NANASE_THROUGH_VOLUME_09_5
+source_boundary: "Japanese main Volumes 01-09 frozen; all admitted narrative supplements integrated through Volume 09.5; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference"
+generation: V1.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — cumulative character monograph through *Days of Endless Summer*
+# Yuzuki Nanase — cumulative character monograph through Volume 09.5
 
 ## Scope
 
@@ -688,3 +688,32 @@ This is a decisive internal transition. Saku does not hear or answer it, so it i
 - whether Yuzuki/Haru renegotiate athletic comparison without losing independent partnership;
 - whether shared care with Yua and friendship with Yuko/Nazuna survive direct bids;
 - direct reciprocal evidence only before any selection claim.
+
+# Volume 09.5 longitudinal revision
+
+## Nazuna supplies external middle-school testimony
+
+Nazuna enters the prefectural quarterfinal prepared to reduce Yuzuki to beauty and reputation. Instead she witnesses an opening steal, difficult transition three, disguised pass, mirrored counter, ankle break, and calm use of a deeply practiced repertoire `[V095:p-0026#p0058-p0145]`, `[V095:p-0026#p0152-p0206]`.
+
+This is valuable because it predates the main narrative and comes from a hostile competitor rather than Yuzuki's self-account. It strengthens the proposition that Yuzuki's apparent ease rests on repetition, situational reading, and unusual technical range.
+
+It does not establish permanent rank. Yuzuki next loses to Aomi, who later loses to Todo; Nazuna's result chain is one observer's formative interpretation, not a stable hierarchy `[V095:p-0026#p0208-p0224]`, `[V095:p-0028#p0001-p0007]`.
+
+## Her present capacity remains answerable to relation
+
+Nazuna's current demand that Yuzuki show the continuation of the road she abandoned strengthens the history of their later friendship and V06.5/*Days* challenge. The expectation is interested: Nazuna asks Yuzuki to live evidence for a counterfactual Nazuna did not pursue `[V095:p-0030#p0054-p0066]`.
+
+The source adds no current Yuzuki focalization, sustainable team practice, education decision, or vocational logistics. It therefore strengthens the historical capacity model without resolving the V08 team-governance problem or the future of basketball.
+
+## Post-Volume 09.5 current model
+
+> **Yuzuki's extraordinary social and athletic composure is now independently visible in middle school: a skeptical opponent recognizes the repetition, repertoire, and real comparative force beneath apparent ease. The testimony explains why Nazuna later becomes both friend and provocateur. It does not turn one tournament chain into permanent rank, repair the present team, settle vocation, or alter the post-*Days* romantic field. Yuzuki remains exceptionally differentiated without singular selection or couple status.**
+
+## Future watchlist
+
+- whether released capacity becomes sustainable team coordination rather than individual control;
+- whether basketball receives educational, institutional, health, or vocational logistics;
+- whether Yuzuki and Haru can hold moving rank inside their primary partnership;
+- whether Nazuna's interested witness role helps or burdens Yuzuki;
+- whether Saku's next-spring answer becomes direct, singular, and mutually enacted;
+- preservation of V08 consent history under any later intimacy.

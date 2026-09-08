@@ -2,7 +2,7 @@
 series: CHIRAMUNE
 artifact_type: sequential_reading_contract
 scope: VOLUME_BY_VOLUME_ANALYSIS
-generation: V1.4
+generation: V1.5
 status: canonical
 release_state: mutable_active
 ---
@@ -33,7 +33,7 @@ Each numbered main volume is read from the frozen analytical state produced by t
 
 Later volumes can revise the current model. They cannot rewrite the historical record of what the earlier source boundary supported.
 
-The current frozen main-volume high-water mark is **Volume 09 main**. The V03 EPUB's pre-main bonus is integrated under `BONUS_FICTION`. The separate V03 illustration/short-story booklet is independently integrated under `SUPPLEMENTAL_MAINLINE` in `CHIRAMUNE_V03_SUPPLEMENTAL_BOOKLET_READING.md`, whose checkpoint preserves the main V03 freeze. Regular V05 is independently frozen in `CHIRAMUNE_V05_DEEP_READING.md` and `CHIRAMUNE_V05_PROSPECTIVE_FREEZE.md`. The V05 Special Edition's duplicate main has been excluded from double-counting and its 18-story booklet is component-routed in `CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`. Volume 06 is independently frozen in `CHIRAMUNE_V06_DEEP_READING.md` and `CHIRAMUNE_V06_PROSPECTIVE_FREEZE.md`. The four late-August stories in Volume 06.5 are separately focalized and integrated in `CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md` without rewriting the V06 freeze. Volume 07 is independently frozen in its paired reading/freeze. The complete V08 main novel inside the special-edition object is independently frozen in `CHIRAMUNE_V08_MAIN_DEEP_READING.md` and `CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md`; its separately titled rough-illustration collection is integrated as `PRODUCTION_PARATEXT` in `CHIRAMUNE_V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_READING.md` without revising main-story facts. Volume 09 completes the V08 festival story through its own regular `MAIN_LN` witness and is frozen in `CHIRAMUNE_V09_DEEP_READING.md` and `CHIRAMUNE_V09_PROSPECTIVE_FREEZE.md`. *Days of Endless Summer* is component-routed in `CHIRAMUNE_DAYS_OF_ENDLESS_SUMMER_SUPPLEMENTAL_READING.md`; Volume 09.5 is next.
+The current frozen main-volume high-water mark is **Volume 09 main**. The V03 EPUB's pre-main bonus is integrated under `BONUS_FICTION`. The separate V03 illustration/short-story booklet is independently integrated under `SUPPLEMENTAL_MAINLINE` in `CHIRAMUNE_V03_SUPPLEMENTAL_BOOKLET_READING.md`, whose checkpoint preserves the main V03 freeze. Regular V05 is independently frozen in `CHIRAMUNE_V05_DEEP_READING.md` and `CHIRAMUNE_V05_PROSPECTIVE_FREEZE.md`. The V05 Special Edition's duplicate main has been excluded from double-counting and its 18-story booklet is component-routed in `CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`. Volume 06 is independently frozen in `CHIRAMUNE_V06_DEEP_READING.md` and `CHIRAMUNE_V06_PROSPECTIVE_FREEZE.md`. The four late-August stories in Volume 06.5 are separately focalized and integrated in `CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md` without rewriting the V06 freeze. Volume 07 is independently frozen in its paired reading/freeze. The complete V08 main novel inside the special-edition object is independently frozen in `CHIRAMUNE_V08_MAIN_DEEP_READING.md` and `CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md`; its separately titled rough-illustration collection is integrated as `PRODUCTION_PARATEXT` in `CHIRAMUNE_V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_READING.md` without revising main-story facts. Volume 09 completes the V08 festival story through its own regular `MAIN_LN` witness and is frozen in `CHIRAMUNE_V09_DEEP_READING.md` and `CHIRAMUNE_V09_PROSPECTIVE_FREEZE.md`. *Days of Endless Summer* is component-routed in `CHIRAMUNE_DAYS_OF_ENDLESS_SUMMER_SUPPLEMENTAL_READING.md`. Volume 09.5 is integrated through `CHIRAMUNE_V09_5_SUPPLEMENTAL_READING.md`; no later source is currently admitted.
 
 ## Supplemental sequencing
 
@@ -44,7 +44,7 @@ The current frozen main-volume high-water mark is **Volume 09 main**. The V03 EP
 - **Volume 08 special edition:** its complete main novel was read and frozen after technical separation. The 50-page separately titled rough-illustration collection was then inspected page by page and frozen as `PRODUCTION_PARATEXT`; its proposals, roughs, selections, and guest works create no new diegetic events or relationship state.
 - **Volume 09:** independently frozen as a regular `MAIN_LN`. Its Chapters 3–4 complete the V08 festival story without collapsing the two publication boundaries; no embedded supplement was found.
 - **Days of Endless Summer:** integrated as a later collection with 36 republished stories individually placed across earlier boundaries and one new post-festival, pre-Okinawa long story. Its publication date does not turn republished fiction into post-V09 events.
-- **Volume 09.5:** treat as supplemental/current-publication material rather than silently redefining the numbered V09 prospective boundary.
+- **Volume 09.5:** integrated as three separately placed `SUPPLEMENTAL_MAINLINE` chapters: pre-series Misaki/Kuranosuke history, Nazuna's current frame around a middle-school memory, and an adult coda securely after the *Days* Takoku gathering. The V09 numbered freeze remains intact. `H_next` is `NONE__AWAIT_NEW_ADMISSION`.
 
 ## Minimum deep-reading responsibilities
 

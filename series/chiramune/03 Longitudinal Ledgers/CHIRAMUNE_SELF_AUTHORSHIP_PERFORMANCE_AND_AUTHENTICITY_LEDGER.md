@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: ledger
 scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_THROUGH_DAYS_OF_ENDLESS_SUMMER
-source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT; Volume 09.5 unopened"
-generation: V1.4
+source_boundary: "Japanese main Volumes 01-09 frozen; all admitted narrative supplements integrated through Volume 09.5; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT"
+generation: V1.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -485,3 +485,31 @@ V09 completes the distinction opened in V08. Performance is neither a false shel
 - Haru's integrated sport/romance grammar → **STRENGTHEN / KEEP OUTCOMES OPEN**.
 - Momiji's transparent pursuit → **ENACT AS ORDINARY RESPONSIBILITY**, not couple status.
 - performance-specialist promotion → **DEFER**; retrieval remains reliable through this ledger, source readings, and monographs.
+
+# Volume 09.5 update — repertoire, vocation, and the authored ordinary
+
+## Entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-124 | Misaki / transparent height ceiling | she treats stalled growth and Tominaga's ascent as a total limit after one physical advantage has come to define her game | an authored identity can become an enclosure when one successful repertoire is mistaken for the whole self | height remains a real structural advantage; revision does not abolish it | `[V095:p-0012#p0271-p0349]` |
+| SA-125 | Misaki / restored multicolored game | she recombines handling, passing, shooting, speed, footwork, and defense, then understands her body as suited to that repertoire | authenticity is revisable capacity, not fidelity to the one form that first won recognition | Kuranosuke catalyzes interpretation, but does not create skill | `[V095:p-0022#p0172-p0419]` |
+| SA-126 | Misaki / `fighting woman` | she integrates athletic aggression, femininity, and attraction rather than preserve a sexless warrior ideal | gendered and romantic self-presentation can become part of owned performance without displacing technical authorship | display does not make structural risk or male recognition the measure of value | `[V095:p-0022#p0401-p0425]`, `[V095:p-0024#p0001-p0018]` |
+| SA-127 | Kuranosuke / career form | his imagined employment/family future is initially built from `どうせ`; Nishino models a similar ordinary life as chosen happiness | authenticity depends less on glamorous content than on investigated, sustained selection | teaching is not inherently more authentic than skilled trade | `[V095:p-0012#p0184-p0246]`, `[V095:p-0020#p0123-p0155]` |
+| SA-128 | Misaki and Kuranosuke / reciprocal vocation | she names teaching/coaching before entering it; her recovery makes him imagine teaching; both later enact those paths | self-authorship is relationally formed without becoming derivative when each person owns the next practice | the full training/certification routes are absent | `[V095:p-0018#p0083-p0107]`, `[V095:p-0024#p0043-p0067]` |
+| SA-129 | Nazuna / cessation and witness role | she stops after an elite loss chain, retains regret, briefly enters Atomu's practice, and chooses to push others from below | a person can author a support role from unresolved loss rather than counterfeit a comeback | the role may displace onto others the continuation she will not attempt | `[V095:p-0026#p0208-p0224]`, `[V095:p-0030#p0017-p0066]` |
+| SA-130 | Atomu / new pitch | he repeats high-volume private practice and adds a sweeper so he can remain near enough to challenge Saku | identity after institutional exit can persist as disciplined, selectable repertoire | no team, educational plan, health structure, or vocation is established | `[V095:p-0028#p0015-p0049]`, `[V095:p-0030#p0001-p0016]` |
+| SA-131 | adult Misaki/Iwanami / old forms under maintenance | they use old music, vehicles, speech, and places while continuing school work and practical care | nostalgia becomes authentic when it is maintained and revised rather than used to freeze time | Iwanami's failed battery shows chosen imperfection can become neglect | `[V095:p-0032#p0087-p0148]`, `[V095:p-0032#p0150-p0308]` |
+
+## Authenticity rule after Volume 09.5
+
+> **A practiced self remains authentic by retaining access to revision. Bodies, styles, vocations, local routines, and inherited roles may all be received from relation; authorship lies in selecting, maintaining, recombining, and answering for them. Failure occurs when one repertoire, prediction, or nostalgic form is mistaken for the only possible self.**
+
+## Current revision state
+
+- bodily identity → **REVISE FROM FIXED ADVANTAGE TO SELECTABLE REPERTOIRE**.
+- relational influence → **STRENGTHEN AS MUTUAL FORMATION WITHOUT DERIVATIVENESS**.
+- adult vocation → **ESTABLISH AS ENACTED ADOLESCENT AUTHORSHIP** for Misaki and Kuranosuke.
+- Nazuna cessation → **PRESERVE AS CHOICE / REOPEN AS UNFINISHED REGRET**.
+- Atomu baseball → **STRENGTHEN AS DISCIPLINED PRACTICE / KEEP FUTURE OPEN**.
+- performance-specialist promotion → **DEFER AFTER CURRENT-SOURCE REVIEW**; the new specialist responsibility is sport/effort/mentorship, while performance remains reliably routed here.

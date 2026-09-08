@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: synthesis_architecture
 scope: OPEN_ENDED_JAPANESE_LIGHT_NOVEL_FULL_SERIES
-source_boundary: "Locked Japanese light-novel corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; regular main analysis frozen through Volume 09; narrative supplements integrated through Days of Endless Summer; V08 rough collection integrated as PRODUCTION_PARATEXT"
-generation: V1.4
+source_boundary: "Locked Japanese light-novel corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; regular main analysis frozen through Volume 09; all admitted narrative supplements integrated through Volume 09.5; V08 rough collection integrated as PRODUCTION_PARATEXT"
+generation: V1.5
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
@@ -46,13 +46,13 @@ This architecture is subordinate to the live repository authority records, integ
 
 Do not collapse "available" or "complete" into one number. Maintain this five-part state in the current corpus map:
 
-| Horizon | Meaning | Current post-*Days of Endless Summer* checkpoint |
+| Horizon | Meaning | Current Volume 09.5 reconciled checkpoint |
 |---|---|---|
 | `H_pub` | latest publication established by the current bibliographic/source audit | Volume 09.5; official Shogakukan series catalog rechecked 2026-09-07 |
 | `H_acq` | latest acquired main and supplemental witnesses | main V09; supplemental V09.5; 14 locked EPUB objects total |
 | `H_main` | latest numbered main volume prospectively frozen | V09 main |
-| `H_supp` | supplemental witnesses analytically integrated after a safe boundary | V03 in-EPUB pre-main birthday bonus, separate V03 illustration/SS booklet, V05 Special Edition component-routed 18-story booklet, V06.5 component-routed four-story volume, V08 50-page rough collection as `PRODUCTION_PARATEXT`, and *Days of Endless Summer* as 37 component-routed fiction witnesses |
-| `H_next` | next source safe to open without contaminating a prior freeze | exact locked Volume 09.5 witness after the *Days of Endless Summer* transaction passes publication and exact-SHA validation |
+| `H_supp` | supplemental witnesses analytically integrated after a safe boundary | V03 in-EPUB pre-main birthday bonus, separate V03 illustration/SS booklet, V05 Special Edition component-routed 18-story booklet, V06.5 component-routed four-story volume, V08 50-page rough collection as `PRODUCTION_PARATEXT`, *Days of Endless Summer* as 37 component-routed fiction witnesses, and Volume 09.5 as three separately placed chapters |
+| `H_next` | next source safe to open without contaminating a prior freeze | `NONE__AWAIT_NEW_ADMISSION`; all 14 locked objects are analyzed or explicitly bounded |
 
 The live source inventory has no missing numbered main volume through V09. Known limits remain: retailer-exclusive bonuses are not claimed exhaustive; regular-edition V08 is not separately held, while the special edition contains the complete V08 narrative; supplemental placement must be resolved before analytical use.
 
@@ -108,6 +108,8 @@ V06.5 is the next application: its four stories are all present-state `SUPPLEMEN
 
 *Days of Endless Summer* is the widest application: 36 republished stories retain seven provenance-group and individual diegetic placements, while one newly written long story supplies the only post-V09 current transition. The collection's 2025 publication date does not relocate earlier fiction, and repeated testimony cannot be counted as 36 new current events. The canonical component graph and checkpoint are `../02 Sequential Readings/CHIRAMUNE_DAYS_OF_ENDLESS_SUMMER_SUPPLEMENTAL_READING.md`.
 
+Volume 09.5 applies the same rule to nested chronology rather than republication. Chapter 1 is pre-series Misaki/Kuranosuke history; Chapter 2 encloses a middle-school basketball memory in a current pre-Okinawa frame; Chapter 3 is a late-October adult coda explicitly after the *Days* Takoku gathering. The exact order of the two current frames remains open. Its afterword and advertisements do not become fiction evidence. The canonical checkpoint is `../02 Sequential Readings/CHIRAMUNE_V09_5_SUPPLEMENTAL_READING.md`.
+
 V07 then demonstrates the main-volume route after a supplement: the separately integrated V06.5 checkpoint becomes declared entering evidence, while the V06 numbered freeze remains unchanged. The V07 main witness receives its own entering-state freeze and deep reading; creator testimony that V06.5 is `実質的な本編` validates linkage but does not collapse the two source roles. The canonical records are `../02 Sequential Readings/CHIRAMUNE_V07_PROSPECTIVE_FREEZE.md` and `../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md`.
 
 V08 demonstrates the main-within-special-edition route. The exact spine is classified before interpretation; the complete main novel through `p-0033` receives `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md` and `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md`. Only after that transaction passes publication and exact validation does the separately titled rough collection at `p-0034`–`p-0083` enter through `../02 Sequential Readings/CHIRAMUNE_V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_READING.md`.
@@ -151,7 +153,7 @@ Deep readings and prospective freezes are source-bound historical records. They 
 
 ## 7. Longitudinal infrastructure
 
-The V01–V09-main corpus plus safely integrated supplements through V06.5 maintains four independent thematic/relationship ledgers plus the revision ledger:
+The V01–V09-main corpus plus every admitted supplement through Volume 09.5 maintains four independent thematic/relationship ledgers plus the revision ledger:
 
 - self-authorship / performance / authenticity;
 - agency / intervention / responsibility;
@@ -175,7 +177,9 @@ Create or update a monograph only after sufficient multi-scene evidence supports
 - contradiction, counterevidence, and abstention boundary;
 - ordinary-life behavior, not crisis scenes alone.
 
-V01–V09-main and the safely integrated supplements through V06.5 justify active-provisional monographs for Saku Chitose, Yuzuki Nanase, Asuka Nishino, Haru Aomi, Yuko Hiiragi, Yua Uchida, and Nozomi Momiji. Asuka crosses the threshold at V03 through direct focalization, formation history, ordinary-life evidence, family conflict, vocation, relationship evidence, and counterevidence. Haru crosses it at V04 through focalization, athletic formation, captaincy failure and revision, ordinary-life evidence, two independently important relationships, embodied risk, and counterevidence. Yuko and Yua cross it at V05 through sustained focalization, independent relations, direct choice, and distinct status/domestic histories. V07 updates all six and promotes Momiji because sustained school, sport, romantic, group-entry, conflict, self-account, and postposed-prologue evidence supports an independent reconstruction with substantial counterevidence. V08 main revises all seven through direct romantic wording below singularity, consent violation and non-erasing repair, restarted love, women's lateral accountability, and athletic coordination costs. V09 revises them again through public self-authorship, reciprocal correction, group-level repair, distributed performance, a split Momiji refusal/admission, and the end of the unchanged group form. Promotion does not imply Saku reciprocity, ethical approval, or couple state. The corpus does not justify symmetrical monographs for every named character. Global character discovery remains the separate curation agent's responsibility.
+V01–V09-main and the safely integrated supplements justify active-provisional monographs for Saku Chitose, Yuzuki Nanase, Asuka Nishino, Haru Aomi, Yuko Hiiragi, Yua Uchida, and Nozomi Momiji. Asuka crosses the threshold at V03, Haru at V04, Yuko and Yua at V05, and Momiji at V07 through sustained focalization, independent relations, ordinary practice, direct choice, and counterevidence. V08–V09 and *Days* revise them without producing singular Saku selection.
+
+Volume 09.5 promotes Misaki Nagisa, Kuranosuke Iwanami, and Nazuna Ayase. Each combines recurring prior-volume responsibility with sustained direct focalization, independent relations, ordinary-life evidence, developmental history, and meaningful limits. Yuzuki receives external historical athletic testimony and Asuka receives bounded father/roof-lineage context; the other five existing monographs receive no artificial update where no direct state changes. Promotion does not imply Saku reciprocity, ethical approval, or couple state. The corpus does not justify symmetrical monographs for every named character. Global character discovery remains the separate curation agent's responsibility.
 
 ## 9. Synthesis layers
 
@@ -192,13 +196,13 @@ Current-source completion is an operational checkpoint, not terminal synthesis r
 
 Full-series integration is explicitly a **multi-document architecture**, not a mandate to accumulate every conclusion in one monolith. The portfolio has separate retrieval and authority roles:
 
-| Document class | Canonical location | Responsibility | Promotion state after *Days of Endless Summer* |
+| Document class | Canonical location | Responsibility | Promotion state at Volume 09.5 reconciliation |
 |---|---|---|---|
-| Prospective volume readings and freezes | `../02 Sequential Readings/` | Preserve source-bound findings and the epistemic state at each boundary | active through V09 main; V03, V05, V06.5, V08-rough, and *Days* supplemental checkpoints separate |
-| Rolling revision and thematic ledgers | `../03 Longitudinal Ledgers/` | Maintain current cross-volume claims, transitions, and recurring dimensions | all five active through *Days*; component provenance separates retrospective testimony from current transition |
-| Character monographs | `../04 Character Analysis/` | Reconstruct independently warranted characters without flattening witness or state distinctions | Saku, Yuzuki, Asuka, Haru, Yuko, Yua, and Momiji active-provisional |
-| Specialist syntheses | `../05 Specialist Synthesis/` documents | Integrate one mature domain whose evidence and dependencies warrant independent retrieval | Fukui locality/departure/ordinary youth promoted at V05 main and current through *Days*; post-*Days* review still defers a separate performance specialist |
-| Current published-corpus synthesis | `CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md` under `../06 Full-Series Synthesis/` | Converge the analyzed-to-date portfolio while routing detail back to the specialist and cumulative homes | promoted at V04; updated through *Days of Endless Summer* |
+| Prospective volume readings and freezes | `../02 Sequential Readings/` | Preserve source-bound findings and the epistemic state at each boundary | active through V09 main; V03, V05, V06.5, V08-rough, *Days*, and V09.5 supplemental checkpoints separate |
+| Rolling revision and thematic ledgers | `../03 Longitudinal Ledgers/` | Maintain current cross-volume claims, transitions, and recurring dimensions | all five active through V09.5; component chronology separates retrospective testimony from current transition |
+| Character monographs | `../04 Character Analysis/` | Reconstruct independently warranted characters without flattening witness or state distinctions | ten active-provisional: seven principal characters plus Misaki, Kuranosuke, and Nazuna |
+| Specialist syntheses | `../05 Specialist Synthesis/` documents | Integrate one mature domain whose evidence and dependencies warrant independent retrieval | Fukui/locality and sport/effort/mentorship promoted; performance remains in its ledger/readings after explicit review |
+| Current published-corpus synthesis | `CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md` under `../06 Full-Series Synthesis/` | Converge the analyzed-to-date portfolio while routing detail back to the specialist and cumulative homes | promoted at V04; reconciled through Volume 09.5 |
 | Terminal full-series synthesis | future separately named terminal artifact under `../06 Full-Series Synthesis/` | Integrate stabilized specialist outputs after publication closure and the terminal gates | ineligible |
 
 The current published-corpus synthesis and eventual terminal synthesis are integrators and claim routers. They must cite or link to the relevant specialist, character, ledger, and prospective documents rather than absorb those documents' complete evidentiary burden. A specialist document remains separately authoritative for its bounded domain; a later integrator may reconcile domains but must record any material revision through the revision ledger.
@@ -207,9 +211,11 @@ The portfolio may expand or contract at architecture-review checkpoints. Promoti
 
 ## 10. Specialist and adaptation responsibilities
 
-Create specialist work only when a question has independent retrieval responsibility. At V05 main, `../05 Specialist Synthesis/CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md` became the first promoted specialist: landscape, transit, retail, food, domestic labor, seasonal ritual, memory, and departure formed a distinct cross-volume evidence path with independent retrieval value. Its maintained evidence boundary now extends through *Days of Endless Summer*, including Kanazawa travel, local publishing, market/domestic infrastructure, women's athletic lineage, Phoenix Plaza performance, civic/school festival topology, AKUSHU/Takoku/Leisure Land/Hachiban aftercare routes, teenage place-making, and unresolved departure/vocation logistics.
+Create specialist work only when a question has independent retrieval responsibility. At V05 main, `../05 Specialist Synthesis/CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md` became the first promoted specialist: landscape, transit, retail, food, domestic labor, seasonal ritual, memory, and departure formed a distinct cross-volume evidence path with independent retrieval value. Its maintained evidence boundary now extends through Volume 09.5, including Kanazawa, local publishing, market/domestic infrastructure, Phoenix Plaza, school/civic topology, aftercare routes, cars/repair, roof succession, chosen local adulthood, and unresolved youth departures.
 
-The post-*Days of Endless Summer* architecture review does not promote a separate performance specialist. Performance is central across V08–V09 and receives additional retrospective band, acting, sport, and witness testimony in *Days*, but its evidence remains deterministically retrievable through the self-authorship/performance ledger plus the source-bound readings. A new file would currently duplicate rather than establish a distinct dependency path. Reconsider after V09.5 and current-source reconciliation or if later performance/adaptation witnesses create independent comparative responsibility.
+At Volume 09.5, `../05 Specialist Synthesis/CHIRAMUNE_SPORT_EFFORT_MENTORSHIP_AND_INSTITUTIONAL_AUTHORITY_SYNTHESIS.md` becomes the second promoted specialist. Baseball and basketball now form an independent route through bodily difference, repeated technique, injury, team governance, coaches, rivals, schools, peer support, stopping, adult vocation, and intergenerational maintenance. This destination prevents the agency and self-authorship ledgers from absorbing the full domain synthesis.
+
+The current-source architecture review does not promote a separate performance specialist. Performance remains deterministically retrievable through the self-authorship/performance ledger, source-bound V08–V09/*Days* readings, and current synthesis. A new file would duplicate rather than establish a distinct dependency path. Reconsider only if later publication or adaptation witnesses create independent comparative responsibility.
 
 Remaining candidate Chiramune-specific domains include:
 
@@ -249,13 +255,14 @@ Classify apparent contradiction before harmonizing it. Possible causes include f
 
 | Dimension | Sequential capture | Current cumulative home | Mature destination | Baseline state |
 |---|---|---|---|---|
-| Major claims and predictions | every material boundary | revision ledger + prospective freezes | specialist and rolling synthesis | initialized through *Days of Endless Summer* |
-| Self-authorship/performance | when material | self-authorship ledger | character/specialist/rolling synthesis | initialized through *Days*; separate performance specialist deferred after review |
-| Agency/intervention | when material | agency ledger | character/specialist/rolling synthesis | initialized through *Days* |
-| Status/group topology | when material | social-status ledger | ensemble/specialist/rolling synthesis | initialized through *Days* |
-| Relationships/intimacy | directional changes | relationship ledger | character/relationship/rolling synthesis | initialized through *Days* |
-| Character state | when evidence threshold is met | Saku, Yuzuki, Asuka, Haru, Yuko, Yua, and Momiji monographs plus relevant ledgers | mature character synthesis | active-provisional through *Days* |
-| Ordinary life/locality/departure | when diagnostic | deep readings and locality specialist | locality specialist/rolling synthesis | specialist updated through *Days* |
+| Major claims and predictions | every material boundary | revision ledger + prospective freezes | specialist and rolling synthesis | reconciled through Volume 09.5 |
+| Self-authorship/performance | when material | self-authorship ledger | character/specialist/rolling synthesis | current through V09.5; separate performance specialist deferred after review |
+| Agency/intervention | when material | agency ledger | character/specialist/rolling synthesis | current through V09.5 |
+| Status/group topology | when material | social-status ledger | ensemble/specialist/rolling synthesis | current through V09.5 |
+| Relationships/intimacy | directional changes | relationship ledger | character/relationship/rolling synthesis | current through V09.5 |
+| Character state | when evidence threshold is met | ten active monographs plus relevant ledgers | mature character synthesis | active-provisional through V09.5 |
+| Ordinary life/locality/departure | when diagnostic | deep readings and locality specialist | locality specialist/rolling synthesis | specialist updated through V09.5 |
+| Sport/effort/mentorship/institutional authority | when diagnostic | deep readings, ledgers, and sport specialist | sport specialist/rolling synthesis | promoted and backfilled at V09.5 |
 | Humor/prose/register | when diagnostic | deep reading and affected current ledger | specialist only if earned | local capture required |
 | Exact locators/wording | for material claims | deep reading; source lock for identity | evidence index if promoted | local routing sufficient |
 | Adaptation/performance | only after separate admission | future adaptation-specific route | comparative specialist synthesis | deferred |
@@ -319,4 +326,4 @@ Completion states are:
 6. `TERMINAL_SYNTHESIS_READY` — only after publication closure and role-gap/convergence gates;
 7. `VALIDATED_RELEASE` — the eligible synthesis and exact repository state pass required audits.
 
-At the post-*Days of Endless Summer* checkpoint the architecture is `EVOLVING` and `CURRENT_SOURCE_MAINLINE_COMPLETE`: the numbered-main high-water mark equals the acquired main horizon at V09, and one admitted supplemental source remains. The V03 in-EPUB bonus, separate V03 booklet, component-routed V05 booklet, component-routed V06.5 volume, V08 rough collection, and *Days* collection remain integrated under distinct roles. Thirty-six republished *Days* stories are later-admitted retrospective testimony across earlier boundaries; the one new long story supplies a post-festival, pre-Okinawa bridge. Five ledgers, seven monographs, the Fukui specialist, the component map, and the rolling synthesis retain separate responsibilities. Yuzuki's historical fake-to-real love, Yua's repaired ordinary routine, Haru's internally imagined family future, Asuka's recognized interpretive position, and Momiji's enacted group admission create neither a singular beloved nor a couple. The explicit role-gap review still defers a separate performance specialist because the current ledger-plus-reading route remains sufficient. The next safe source is Volume 09.5, subject to exact verification and component-level classification. The continuous run remains open through the live admitted inventory.
+At the Volume 09.5 checkpoint the architecture is `EVOLVING` and `ANALYZED_TO_DATE_RECONCILED`: the numbered-main high-water mark equals the acquired main horizon at V09, and every source in the live 14-object lock is analyzed or explicitly bounded. Volume 09.5 adds three separately placed chapters, adult vocation and mentorship genealogy, Nazuna's stopping-athlete account, Atomu's serious private practice, and mutually framed Misaki/Kuranosuke love without formal couple status. Five ledgers, ten monographs, two promoted specialists, source/component maps, and the rolling synthesis retain separate responsibilities. The role-gap review promotes sport/effort/mentorship, defers performance, and finds no need for a sixth ledger or evidence-index directory. The Saku-centered field still contains no singular beloved or couple. `H_next` is `NONE__AWAIT_NEW_ADMISSION`; terminal synthesis remains ineligible because publication closure is not established.

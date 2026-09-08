@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: ledger
 scope: AGENCY_INTERVENTION_RESPONSIBILITY_THROUGH_DAYS_OF_ENDLESS_SUMMER
-source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT; Volume 09.5 unopened"
-generation: V1.3
+source_boundary: "Japanese main Volumes 01-09 frozen; all admitted narrative supplements integrated through Volume 09.5; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT"
+generation: V1.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -534,3 +534,28 @@ Repair may restore routine, share technique, and create entrusted responsibility
 - Momiji roof access → **ENACT AS RESPONSIBILITY**, not romantic permission.
 - Saku self-originated vulnerable support request → **KEEP OPEN**; his key request is social coordination, not a request for help with his own distress.
 - couple/selection authority → **KEEP OPEN**.
+
+# Volume 09.5 update — guidance matters when uptake remains owned
+
+| ID | Event / relation | Agency question | Current judgment | Locator |
+|---|---|---|---|---|
+| AI-135 | Kuranosuke interrupts the game-center threat | can rescue protect without converting vulnerability into debt? | substantially yes here: he creates an exit, maintains distance, sends Misaki away, and makes no claim on her later contact; the absence of shown formal reporting remains a safety limit | `[V095:p-0014#p0088-p0120]`, `[V095:p-0016#p0001-p0112]` |
+| AI-136 | Nishino challenges Kuranosuke's career form | may an adult reject a student's choice without substituting another occupation? | he rejects `employment` as self-dismissal while respecting skilled trades and requiring Kuranosuke to investigate a path he can own | `[V095:p-0012#p0184-p0246]` |
+| AI-137 | Kuranosuke waits for Misaki at the shrine | when does anticipatory care remain recipient-authored? | he times presence and offers an analogy, but Misaki chooses disclosure, uptake, return to Tominaga, and the technical form of recovery | `[V095:p-0020#p0160-p0235]`, `[V095:p-0022#p0001-p0125]` |
+| AI-138 | Misaki's performance changes Kuranosuke | may a beneficiary become an unwitting mentor without acquiring responsibility for the other's life? | yes; her recovery makes teaching imaginable, while Kuranosuke owns the vocational inquiry and never burdens her with the causal debt | `[V095:p-0024#p0043-p0067]`, `[V095:p-0034#p0019-p0029]` |
+| AI-139 | Nazuna asks Atomu to teach catch | can a critic enter another's practice without claiming its future? | yes in bounded form; she tests embodied difficulty and chooses witness/support, while neither party assigns the other an athletic outcome | `[V095:p-0030#p0017-p0066]` |
+| AI-140 | Atomu trains to remain near Saku | does unrequested availability equal captured responsibility? | no; his intention creates a peer route, but Saku has not asked for support and Atomu does not decide Saku's baseball future | `[V095:p-0028#p0015-p0049]`, `[V095:p-0030#p0001-p0016]` |
+| AI-141 | roof access crosses generations | what makes an informal privilege legitimate? | permission is joined to maintenance and can be retransmitted: Nishino assigns Kuranosuke; the present Fujishi line moves through Asuka, Saku, and Momiji | `[V095:p-0032#p0066-p0085]`, `[DES:p-0078#p0191-p0204]` |
+
+## Agency rule after Volume 09.5
+
+> **Guidance may alter a life without owning it. Legitimate intervention can create an exit, offer a frame, disclose consequences, or make a repertoire visible; the recipient must still choose disclosure, uptake, practice, and future. Mentorship becomes durable when responsibility can circulate rather than remain captured by the original helper.**
+
+## Current revision state
+
+- bounded intervention → **STRENGTHEN THROUGH RECIPROCAL EFFECT**, with formal-safety gaps preserved.
+- adult guidance → **DISTINGUISH FRAME FROM OUTCOME**; Nishino and Kuranosuke influence choices without dictating them.
+- Misaki's recovery → **PRESERVE AS SELF-AUTHORED UPTAKE**, not male-created capacity.
+- peer support availability → **STRENGTHEN** through Atomu while keeping Saku's self-originated request test open.
+- roof access → **ESTABLISH AS INTERGENERATIONAL RESPONSIBILITY**, not private ownership.
+- couple/selection authority → **KEEP OPEN FOR THE MAIN FIELD**; adult mutual feeling does not create formal status.

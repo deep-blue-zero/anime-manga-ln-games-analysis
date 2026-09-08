@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: ledger
 scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_THROUGH_DAYS_OF_ENDLESS_SUMMER
-source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT; Volume 09.5 unopened"
-generation: V1.3
+source_boundary: "Japanese main Volumes 01-09 frozen; all admitted narrative supplements integrated through Volume 09.5; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT"
+generation: V1.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -544,3 +544,26 @@ The successor to the unchanged blue form is not a new fixed roster or harmony cl
 - female lateral relations → **MAJOR STRENGTHEN AS NORM-MAKING NETWORK**.
 - identical-access model of inclusion → **REJECT**; differentiated boundaries can be legitimate.
 - full-group future topology → **KEEP OPEN** through graduation and V09.5.
+
+# Volume 09.5 update — informal institutions acquire a genealogy
+
+| ID | Social node / event | Source fact | Current implication | Locator |
+|---|---|---|---|---|
+| SG-109 | Ashiba Misaki/Tominaga partnership | height changes their visible rank, but Tominaga continues to treat Misaki as a trusted weapon rather than a subordinate project | status difference can alter role without cancelling peer trust; the lower-ranked person may fail to perceive support that remains behaviorally present | `[V095:p-0012#p0271-p0411]`, `[V095:p-0022#p0094-p0125]` |
+| SG-110 | middle-school elite chain | Nazuna loses to Yuzuki, then watches Yuzuki lose to Aomi and Aomi to Todo | competitive fields create real comparative ladders, but a short result chain cannot establish permanent worth or universal life-course rank | `[V095:p-0026#p0208-p0224]`, `[V095:p-0028#p0001-p0007]` |
+| SG-111 | adult school colleagues | Misaki and Iwanami preserve professional address publicly while using a historical register in private | institutional role can coexist with prior intimacy when participants actively manage context rather than deny either relation | `[V095:p-0032#p0021-p0065]` |
+| SG-112 | roof-cleaner genealogy | Nishino-sensei assigns Kuranosuke; the present Fujishi succession begins with Asuka and passes through Saku to Momiji | an informal high-access place becomes legitimate through transmissible maintenance rather than permanent ownership by its highest-status user | `[V095:p-0032#p0066-p0085]`, `[DES:p-0078#p0191-p0204]` |
+| SG-113 | Nishino/Kuranosuke/Misaki adult encounter | a former teacher recognizes the woman who changed his student, and the three continue into an ordinary Akiyoshi meeting | intergenerational recognition can return upward; students become colleagues and causal peers without erasing earlier roles | `[V095:p-0034#p0058-p0094]` |
+| SG-114 | Atomu/Nazuna practice relation | Atomu supplies instruction and Nazuna briefly enters the material skill she has been evaluating | competence can circulate outside formal teams and create an independent peer relation below romance or institutional membership | `[V095:p-0030#p0017-p0053]` |
+
+## Group rule after Volume 09.5
+
+The current group is embedded in older and broader institutions. Coaches, former teachers, alumni, rivals, parents, workplaces, and informal custodians make youth relation possible without fixing its outcome. Access becomes durable when it carries work; rank remains revisable when trust and skill can move; adult authority becomes reciprocal when former students later maintain the world that formed them.
+
+## Current revision state
+
+- current group as self-created unit → **DOWNGRADE**; it depends on intergenerational school, sport, family, and place infrastructure.
+- roof access → **STRENGTHEN AS GENEALOGICAL RESPONSIBILITY**, not private prestige.
+- athletic rank → **PRESERVE AS REAL / REJECT AS PERMANENT WORTH**.
+- adult/student hierarchy → **REVISE TOWARD LATER RECIPROCITY** without erasing professional roles.
+- post-*Days* central-group topology → **PRESERVE**; V09.5 changes the infrastructure model, not the six-claimant romantic state.

@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
 scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_DAYS_OF_ENDLESS_SUMMER
-source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; Volume 09.5 unopened"
-generation: V1.3
+source_boundary: "Japanese main Volumes 01-09 frozen; all admitted narrative supplements integrated through Volume 09.5; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT"
+generation: V1.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -640,3 +640,38 @@ Their origin state is `ESTABLISHED_OR_REVISED_AT_DAYS_OF_ENDLESS_SUMMER`. The so
 | V095-Q05 | Do baseball, basketball, Tokyo, editing, or other life paths gain durable logistics? | `OPEN` | chosen schedules, institutions, resources, or commitments rather than mood or possibility |
 | V095-Q06 | Does Saku originate a vulnerable support request? | `OPEN` | self-initiated asking rather than disclosure elicited by another person |
 | V095-Q07 | Does current-source reconciliation require another specialist or ledger? | `OPEN` | independent evidence base, distinct dependency path, and material retrieval value |
+
+## Volume 09.5 test dispositions
+
+| Test ID | Transition | Current formulation | Evidence route |
+|---|---|---|---|
+| V095-Q01 | `RESOLVE THREE-COMPONENT SUPPLEMENT` | The exact witness contains three titled fiction chapters with nested historical/current structure, bounded paratext, and advertising. | `CHIRAMUNE_V09_5_SUPPLEMENTAL_READING.md` §§1–2 |
+| V095-Q02 | `RESOLVE SPLIT PLACEMENT / KEEP ONE ORDER OPEN` | Chapter 1 is pre-series; Chapter 2 combines a middle-school memory with a current pre-Okinawa frame; Chapter 3 follows the *Days* Takoku gathering. The two current frames are not totally ordered. | §§2, 4–5 |
+| V095-Q03 | `ADULT MUTUAL FEELING / PRESERVE MAIN NONSELECTION` | Misaki/Kuranosuke gain explicit mutually framed historical love and continuing intimacy without named couple status. No Saku-side selection or couple appears. | §§3, 5 |
+| V095-Q04 | `SUPPORTING-LINEAGE REVISION / MAIN FIELD PRESERVED` | Misaki, Kuranosuke, Nazuna, Nishino-sensei, and Atomu gain major history or practice; Yuzuki/Haru gain bounded athletic testimony; post-*Days* claimant status remains unchanged. | §§3–5, 8 |
+| V095-Q05 | `SPLIT BY GENERATION` | Adult teaching/coaching vocations are resolved historically; Atomu's serious private practice strengthens; current Saku, Haru, Yuzuki, Asuka, and other youth paths remain open. | §§3–5, 8 |
+| V095-Q06 | `PRESERVE OPEN` | Saku does not focalize the volume and initiates no vulnerable request. Atomu's support intention does not substitute for Saku asking. | §§4, 8 |
+| V095-Q07 | `PROMOTE DISTINCT SPECIALIST AND MONOGRAPHS` | Sport/effort/mentorship/institutional authority now has an independent dependency path. Misaki, Kuranosuke, and Nazuna cross character thresholds; performance remains sufficiently routed without another specialist. | §§10–12 |
+
+## Claims established or revised at the Volume 09.5 boundary
+
+| ID | Prior state | Transition | Current formulation | Evidence route |
+|---|---|---|---|---|
+| V095-F01 | Volume 09.5 was locked but unopened | `RESOLVE SOURCE ROLE AND TOPOLOGY` | It is a three-chapter supplemental volume whose historical, nested-memory, and current components require separate placement. | supplemental reading §§1–2 |
+| V095-F02 | Misaki's former partner and unidentified male helper were partial V08 testimony | `RESOLVE IDENTITIES AT LATER BOUNDARY` | Tominaga Rei is the partner and Kuranosuke the senior whose bounded intervention helps Misaki retrieve her game. V08's earlier identity abstention remains historically correct. | §3 |
+| V095-F03 | Misaki was a strict coach with a hinted left-behind history | `MAJOR STRENGTHEN` | Her coaching ethic grows from bodily/repertoire crisis, restored teammate trust, and a stated adolescent teacher/coach vocation. | §3 |
+| V095-F04 | Kuranosuke was a perceptive teacher and rooftop custodian | `ESTABLISH VOCATIONAL GENEALOGY` | Nishino challenges self-dismissal; Misaki's recovery demonstrates bounded efficacy; Kuranosuke chooses teaching and later transmits accountable roof access. | §§3, 5 |
+| V095-F05 | Nishino-sensei was Asuka's protective, sometimes overreaching father | `ADD PRIOR MENTOR MODEL` | He models intentionally chosen ordinary Fukui life and guides Kuranosuke without dictating occupation. | §§3, 5 |
+| V095-F06 | Nazuna was a blunt friend, organizer, and athletic critic | `ESTABLISH ATHLETIC HISTORY AND WITNESS ROLE` | Defeat by Yuzuki and the Yuzuki/Aomi/Todo chain shape her withdrawal; regret becomes embodied inquiry and demanding support rather than competitive return. | §4 |
+| V095-F07 | Atomu had reopened ordinary baseball with Saku | `STRENGTHEN INDEPENDENT PRACTICE / KEEP PATH OPEN` | He trains seriously and adds a pitch to remain near enough to challenge Saku; no institutional or vocational return appears. | §4 |
+| V095-F08 | Yuzuki's capacity was known mainly from her own team and later rivals | `ADD EXTERNAL HISTORICAL TESTIMONY` | Nazuna witnesses middle-school calm, work, repertoire, and competitive effect; current rank, team repair, and vocation remain open. | §4 |
+| V095-F09 | the roof had become shared post-festival responsibility | `ESTABLISH INTERGENERATIONAL GENEALOGY` | Nishino assigns teenage Kuranosuke; adult Kuranosuke begins a present line with Asuka, followed by Saku and Momiji. Access carries work, not romantic title. | §5 |
+| V095-F10 | no adult romantic dyad had independent current significance | `ESTABLISH MUTUAL LOVE / WITHHOLD STATUS` | Misaki/Kuranosuke are framed as mutually in love before recognition and retain adult reciprocity; dating, engagement, marriage, and cohabitation remain unestablished. | §§3, 5 |
+| V095-F11 | youth vocation tests were globally open | `SPLIT BY GENERATION` | adult teaching/coaching paths are enacted; Atomu's practice strengthens; youth life-course decisions remain open. | §§3–5 |
+| V095-F12 | one specialist and seven monographs covered the corpus | `EXPAND DISTINCT RESPONSIBILITIES` | the sport/effort/mentorship specialist and three supporting-character monographs are promoted; no new ledger or performance specialist is required. | §§10–12 |
+
+Their origin state is `ESTABLISHED_OR_REVISED_AT_VOLUME_09_5`. Exact source identity, component chronology, locators, visual evidence, paratext bounds, rival readings, and hard nonclaims remain in `CHIRAMUNE_V09_5_SUPPLEMENTAL_READING.md`. Earlier freezes and supplemental checkpoints remain unchanged.
+
+## Current-source reconciliation result
+
+Every admitted source in the live 14-object lock is now analyzed or explicitly bounded. The rolling ledgers, warranted monographs, promoted specialists, architecture, current map, and current published-corpus synthesis converge at Volume 09.5. `H_next` is `NONE__AWAIT_NEW_ADMISSION`; publication closure is not established, so terminal synthesis remains ineligible.
