@@ -333,6 +333,45 @@ class ProjectInitiationGateTests(unittest.TestCase):
         )
         self.assertEqual(self.failures(snapshot, {self.prefix + "BASELINE.md"}), [])
 
+    def test_baseline_readings_do_not_retroactively_require_initialization(self) -> None:
+        for scope in ('G5_FINAL_AGGREGATE', 'GIT_NATIVE_POST_CUTOVER_EXAMPLE'):
+            with self.subTest(scope=scope):
+                snapshot = self.snapshot(
+                    marker=False, migration_scope=scope, state='',
+                    include_method=False, include_architecture=False,
+                    include_infrastructure=False,
+                )
+                self.assertEqual(self.failures(snapshot, set(snapshot.entries)), [])
+
+    def test_pre_enforcement_branch_reading_uses_baseline_paths_not_authored_date(self) -> None:
+        snapshot = self.snapshot(
+            marker=False, migration_scope='GIT_NATIVE_POST_CUTOVER_EXAMPLE', state='',
+        )
+        original = snapshot.entries[self.sequential]
+        snapshot.entries[self.sequential] = SnapshotEntry(
+            original.path, original.mode,
+            original.data.replace(b'---\n', b'---\nauthored_at: "2020-01-01"\n', 1),
+        )
+        baseline = set(snapshot.entries) - {self.sequential}
+        self.assert_failure_contains(self.failures(snapshot, baseline), 'requires sequential_analysis_lock OPEN')
+        self.assertEqual(self.failures(snapshot, set(snapshot.entries)), [])
+
+    def test_legacy_branch_reading_requires_routes_but_not_a_new_initialization_block(self) -> None:
+        snapshot = self.snapshot(
+            marker=False, migration_scope='G5_FINAL_AGGREGATE', state='',
+        )
+        baseline = set(snapshot.entries) - {self.sequential}
+        self.assert_failure_contains(self.failures(snapshot, baseline), 'legacy continuation does not identify')
+        snapshot.entries[self.entrypoint] = SnapshotEntry(
+            self.entrypoint, '100644',
+            authority_markdown('corpus_map', 'Read `METHOD.md` and `ARCHITECTURE.md`.'),
+        )
+        self.assertEqual(self.failures(snapshot, baseline), [])
+
+    def test_material_restart_requires_contract_even_when_all_paths_are_in_baseline(self) -> None:
+        snapshot = self.snapshot(marker=True, state='')
+        self.assert_failure_contains(self.failures(snapshot, set(snapshot.entries)), 'must be explicitly OPEN or CLOSED')
+
     def test_structured_role_not_filename_drives_detection(self) -> None:
         failures = self.failures(
             self.snapshot(
