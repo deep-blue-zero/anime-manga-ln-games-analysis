@@ -2,14 +2,14 @@
 series: CHIRAMUNE
 artifact_type: longitudinal_ledger_router
 scope: CROSS_VOLUME_ANALYSIS
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 ---
 
 # Chiramune longitudinal-ledger router
 
-V01–V02 establish five current rolling responsibilities:
+V01–V03 maintain five current rolling responsibilities:
 
 - `CHIRAMUNE_REVISION_LEDGER.md` — explicit prospective claim and prediction transitions;
 - `CHIRAMUNE_SELF_AUTHORSHIP_PERFORMANCE_AND_AUTHENTICITY_LEDGER.md` — authored identity, performance, concealment, constraint, and authenticity;
@@ -17,7 +17,7 @@ V01–V02 establish five current rolling responsibilities:
 - `CHIRAMUNE_SOCIAL_STATUS_INCLUSION_AND_GROUP_DYNAMICS_LEDGER.md` — hierarchy, status resilience, inclusion, legitimacy, visibility, and group correction;
 - `CHIRAMUNE_RELATIONSHIP_RECOGNITION_AND_INTIMACY_LEDGER.md` — directional knowledge, bids, reciprocity, specialness, jealousy, disclosure, and named/unnamed feeling.
 
-These are maintained cumulative documents through the current analyzed boundary. The V02 versions of the first three thematic ledgers fully subsumed their V01 working copies; duplicate V01 bodies were not published. The prospective deep readings and freezes retain the immutable V01 epistemic state.
+These are maintained cumulative documents through the current analyzed boundary. V03 appends explicit boundary-labeled updates without rewriting the V01 or V02 epistemic states preserved by their prospective readings and freezes.
 
 Every entry must preserve the volume boundary that established it. Later recontextualization may revise the current interpretation through `PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN` without erasing the earlier formulation.
 

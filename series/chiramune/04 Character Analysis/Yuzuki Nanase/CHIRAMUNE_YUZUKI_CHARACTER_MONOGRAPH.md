@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V02_BASELINE
-source_boundary: "Japanese Volumes 01-02; V02 interpreted prospectively from frozen V01 state"
-generation: V0.1
+scope: YUZUKI_NANASE_V01_V03_BASELINE
+source_boundary: "Japanese Volumes 01-03; V03 interpreted prospectively from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
+generation: V0.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,11 +11,11 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — V01–V02 character monograph
+# Yuzuki Nanase — V01–V03 character monograph
 
 ## Scope
 
-Volume 02 supplies enough direct Yuzuki focalization, ordinary-life evidence, retrospective self-account, relationship contrast, crisis behavior, and counterevidence to justify a dedicated monograph. This remains a V02-bounded model, not a final series interpretation.
+Volume 02 supplies enough direct Yuzuki focalization, ordinary-life evidence, retrospective self-account, relationship contrast, crisis behavior, and counterevidence to justify a dedicated monograph. Volume 03 adds a bounded behavioral test of named love. This remains a V03-bounded model, not a final series interpretation.
 
 # 1. Compressed model
 
@@ -241,3 +241,46 @@ Unsupported. V02 gives a successful state transition, not longitudinal proof of 
 ## V02 freeze model
 
 > **Yuzuki Nanase is not a false girl learning to become real. She is an authored girl learning that adaptation alone is not enough: a self also needs claims it will not surrender simply because adaptation would be easier. Volume 02 gives her that beginning of a core, and romantic love becomes one of the names through which she chooses movement rather than possession.**
+
+# V03 longitudinal revision
+
+## Evidence limit
+
+Volume 03 is Asuka-centered and does not supply new Yuzuki focalization or a sustained retest of trauma response. It should not be used to declare permanent recovery, a complete romantic philosophy, or a settled Haru/Yuzuki dialectic. Its material contribution is narrower and important: named love is tested against another person's competing importance.
+
+## 1. Named love becomes costly action
+
+Yuzuki recognizes Saku's distress and tells him to face the important feeling before it is lost. After learning the Asuka conflict, she identifies the direct method available to him and knowingly helps him move toward a romantic rival `[p-0022#p0260-p0297]`, `[p-0024#p0144-p0166]`.
+
+This strengthens the V02 model of love as self-authorizing movement rather than possession. Yuzuki does not stop desiring Saku or become emotionally neutral. She acts from a value that can survive loss of competitive advantage.
+
+## 2. The crescent lamp makes recognition ordinary
+
+In the labeled pre-V03 `BONUS_FICTION`, Yuzuki gives Saku a crescent-moon desk lamp after the V02 events. The gift asks to remain within his bedside memory without claiming that only a full or exclusive light has value. It translates the crisis-born declaration of love into an object that can inhabit ordinary routine.
+
+The evidence is official but class-bounded. It supplements relationship expression and material continuity; it does not become unmarked numbered-main chronology.
+
+## 3. Rivalry and generosity coexist
+
+Yuzuki's help should not be romanticized as pure self-erasure. She preserves desire, teasing, and her own claim while refusing to sabotage Asuka. This is healthier than possession, but it creates a new risk: nonpossessive generosity could itself become a role that prevents Yuzuki from expressing hurt or asking Saku for clarity.
+
+## 4. V03 revision state
+
+- named love as chosen movement → **STRENGTHEN**;
+- love as possession → **REJECT as the best current account**;
+- stability of the V02 anti-coercion core → **OPEN**, not substantially retested;
+- Haru/Yuzuki optimization dialectic → **OPEN**, insufficient new dyadic evidence;
+- idealization of Saku's interventionism → **OPEN**; V03 does not give Yuzuki a direct ethical audit of his methods toward Asuka.
+
+## 5. V04 watchlist
+
+- whether Yuzuki can remain generous without making self-suppression virtuous;
+- whether she directly asks Saku for recognition or clarity;
+- whether ordinary disappointment tests the V02 jurisdictional core;
+- whether she contests Saku's invasive methods when she is not their recipient;
+- whether Haru again functions as developmental rival/corrective;
+- whether the crescent model—valuable without fullness—appears in her behavior outside the bonus.
+
+## V03 current model
+
+> **Yuzuki's V03 contribution is small in page share but large in diagnostic value: she can act from love in a way that protects Saku's authorship even when doing so helps another woman. The act strengthens nonpossession, but later volumes must test whether generosity remains chosen rather than becoming a new polished obligation.**

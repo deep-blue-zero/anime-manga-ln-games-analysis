@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V02
-source_boundary: "Japanese Volumes 01-02; V02 interpreted from frozen V01 state"
-generation: V0.2
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V03
+source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -164,3 +164,43 @@ Yuzuki's experience shows that admiration and hostility are convertible. Her ear
 - Group as Saku's followers → **DOWNGRADE; distributed correction is too strong for that model**.
 - Kenta's incorporation → **STRENGTHEN**.
 - New question: how does romantic competition alter internal group trust once feelings become explicit?
+
+# V03 update — ordinary membership and cooperative rivalry
+
+## V03 governing revision
+
+Volume 03 does not stage a collapse of the group under romantic competition. It instead shows differentiated care: Yuzuki supports Saku toward Asuka, Yuko expands Haru's presentation, Yua and Yuko build domestic continuity, Haru reopens baseball through shared practice, and Kenta leads an ordinary leisure outing. Saku remains a topology center, but value and initiative circulate through other members.
+
+## V03 entries
+
+| ID | Scene | Status / group mechanism | Finding | Counterpoint | Locator |
+|---|---|---|---|---|---|
+| SG-029 | career discussion | future dispersion | locality and post-school plans make group proximity contingent rather than a permanent entitlement | most plans remain provisional | `[p-0011-p0013]` |
+| SG-030 | Yuko/Yua cooking | distributed domestic competence | care enters Saku's home through repeated objects, food, and anticipation rather than heroic crisis | conventional “wife” comedy can gender the labor | `[p-0015#p0017-p0103]` |
+| SG-031 | Haru's styled outing | peer mediation | Yuko uses beauty/status skill to widen Haru's self-presentation without ranking her athletic self as deficient | Kaito's joke briefly reactivates Haru's self-dismissal | `[p-0018#p0011-p0101]` |
+| SG-032 | baseball teaching | expertise circulation | Saku's formerly private competence becomes a shared resource for Haru and Yuko | he still avoids batting and retains grief | `[p-0018#p0106-p0159]` |
+| SG-033 | Yuzuki's counsel | cooperative romantic rivalry | named love does not require territorial obstruction; she helps Saku reach a rival | future durability under direct competition remains open | `[p-0022#p0260-p0297]`, `[p-0024#p0144-p0166]` |
+| SG-034 | release-day outing | ordinary Kenta membership | Kenta leads through specialist knowledge, socializes with Saku/Kazuki, and receives frank current recognition | Kazuki's former contempt and comic outsider coding are not erased | `[p-0022#p0379-p0465]` |
+| SG-035 | Asuka enters the group | private exceptional bond becomes public | the group absorbs her through teasing, rivalry, debt, and recognition rather than expulsion | Saku remains the organizing romantic center | `[p-0031#p0512-p0566]` |
+| SG-036 | birthday bonus | ritualized gift competition | each member converts rivalry into a distinct form of care; Kenta participates as judge/member | game structure still makes girls' meanings compete around Saku | `[p-0037]` `BONUS_FICTION` |
+
+## Group topology after V03
+
+The group is neither egalitarian nor merely Saku's court. Saku remains the principal connector and romantic scarcity object, but other members mediate identity and action independently:
+
+- Yuzuki can privilege Saku's important bond over her competitive advantage;
+- Yuko can use femininity as a shared option rather than a hierarchy;
+- Haru can give baseball knowledge a noninstitutional social home;
+- Yua can name and materially answer ordinary loneliness;
+- Kenta can contribute interpretive insight and lead through expertise;
+- Kazuki can articulate a risk ethic the narrative treats as coherent rather than cowardly.
+
+V03 therefore **strengthens** distributed corrective authority. It does not prove that rivalry will remain cooperative once choices become mutually exclusive.
+
+## V03 revision state
+
+- Kenta's normalized membership → **STRENGTHEN decisively**.
+- group as Saku's followers → **DOWNGRADE further**, while preserving his centrality.
+- romance as inevitable zero-sum status conflict → **DOWNGRADE within V03**; cooperative rivalry is materially evidenced.
+- status as interpretive permission → **PRESERVE**; Saku's competence and intimacy continue to license intrusions that should remain contested.
+- New question: can distributed care survive when Saku's eventual commitments impose real exclusion rather than playful competition?

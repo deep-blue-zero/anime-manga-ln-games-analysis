@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V02
-source_boundary: "Japanese Volumes 01-02; V02 interpreted from frozen V01 state"
-generation: V0.1
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V03
+source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
+generation: V0.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -136,3 +136,83 @@ Saku later chooses Kazuki as evidence recorder specifically because he trusts Ka
 - Does Haru's rivalry become romantic, philosophical, or both?
 - Does Asuka's departure question force Saku to choose?
 - Can Kenta form relationships independent of Saku's mediation?
+
+# V03 state changes
+
+## Saku ↔ Asuka
+
+### Recognition and recovered history
+
+Asuka is the childhood girl whose warm left hand frames the volume. Young Saku expanded her available world; high-school Asuka recognized him, modeled “Asuka-nee” partly on his earlier freedom, and tried to return that gift. Saku's present admiration is therefore entangled with an older reciprocal formation neither initially understood in full `[p-0032]`.
+
+### Ordinary intimacy
+
+A conventional date, mistakes, food, shopping, riverside play, travel incompetence, danger, and exhausted lodging disconfirm Asuka as untouchable ideal. Saku's affection survives the disconfirmation. Their intimacy becomes more credible because ordinary personhood does not dissolve recognition.
+
+### Named feeling and status
+
+They repeat mutual love language after distinguishing present Asuka from both childhood imitation and Saku's projection `[p-0032#p0348-p0412]`. This is **mutually named love**, not an established exclusive couple. Asuka chooses Tokyo; Saku helps construct a departure he does not want. Their bond becomes reciprocal orientation rather than preserved proximity.
+
+### Jurisdiction limit
+
+Saku supports her outcome choice but invades procedure through disclosure, physical shocks, secrecy, and surveillance. Asuka's refusal of his lifelong responsibility pledge is a direct assertion that love does not transfer guardianship.
+
+**V03 state:** mutually acknowledged love + recovered childhood first-love + chosen separation + no exclusivity + material consent-to-method conflict.
+
+## Yuzuki → Saku
+
+Yuzuki's V02 naming becomes action. She recognizes that Saku may lose something irreplaceable and urges him toward Asuka, despite the cost to her own romantic position. This is not emotional absence or surrender; it is evidence that her love can prioritize the other's authored movement.
+
+The `BONUS_FICTION` crescent lamp adds ordinary materiality: she wants to remain near his daily memory without demanding that he name matching love.
+
+**V03 state:** named love, costly nonpossessive support, continuing asymmetry; no reciprocal naming from Saku.
+
+## Saku ↔ Haru
+
+Haru gives Saku a catch partnership and returns baseball knowledge to ordinary play. She says she likes the invested teacher/player version of him and places the ball against his heart; he redirects into practice rather than answering. Her self-bought glove in the bonus confirms that the gift is shared activity, not an object he can passively consume.
+
+**V03 state:** embodied ease + direct affection + baseball reopening; Saku's romantic response remains unnamed.
+
+## Saku ↔ Yua
+
+Yua's domestic competence and precise phone-accessory gift make care practical and continuous. She distinguishes being “precious” at a distance from becoming ordinary and always near. Her insight into his solitary household gives her recognition that is less theatrical than the other girls' claims.
+
+**V03 state:** ordinary domestic/practical intimacy + wish for nonexceptional proximity; reciprocity remains unlabeled.
+
+## Saku ↔ Yuko
+
+Yuko openly learns domestic skills so dependence cannot constrain future choice. She helps Haru access another mode of presentation despite romantic competition. In the bonus, the yukata and fireworks promise convert jealousy into a pledge to bring her own best self.
+
+**V03 state:** overt affection + generous mediation + self-authored competition; no exclusivity.
+
+## Saku ↔ Kenta
+
+The release-day trip confirms a relationship that can exist around Kenta's own interest. Kenta leads, jokes, eats, and articulates the volume's strongest process insight. Saku no longer supplies the sole interpretive or social direction.
+
+**V03 state:** ordinary reciprocal friendship; mentor residue no longer governs visible interaction.
+
+## Asuka ↔ family
+
+Her father's risk knowledge and care are real. So are his unilateral control, physical punishment, estrangement threat, and projection. Asuka's researched case and demonstrated persistence produce permission and partial mutual recognition. Reconciliation does not erase the method.
+
+**V03 state:** continuing family attachment + recognized daughter agency + unresolved coercive-history cost.
+
+## Cross-volume relationship hypotheses after V03
+
+1. **Recognition survives demystification when it tracks practice rather than essence.** Saku's love for Asuka survives ordinary evidence and the origin of her role.
+2. **Love can be nonpossessive without being noncompetitive.** Yuzuki's support and Yuko's mediation preserve desire while refusing sabotage.
+3. **Different gifts encode different proximity claims.** Memory, practical nearness, promised ritual, shared activity, and old recognition cannot be collapsed into one romance scale.
+4. **Mutual naming does not equal exclusive commitment.** Saku and Asuka name love while accepting separation and leaving relationship category open.
+5. **The right to know does not imply the right to monitor.** Intimacy expands disclosure but does not legitimate Saku's hidden phone or interpretive override.
+6. **Separation can be an act of attachment.** Saku's ethically strongest movement is helping Asuka leave while making local life something she may return to.
+
+# V04 watchlist
+
+- whether Asuka's new public significance destabilizes cooperative rivalry;
+- whether Yuzuki continues helping without converting self-denial into her own compulsory role;
+- whether Haru's direct affection and catch partnership receive an answer;
+- whether Yua's request for ordinary nearness changes Saku's behavior;
+- whether Yuko's self-authored competition remains generous under exclusion;
+- whether Saku can disclose dependence without waiting for another person to extract it;
+- whether mutually named Saku/Asuka love develops into commitment, distance, or another form;
+- whether Kenta sustains reciprocal roles beyond Saku-centered outings.

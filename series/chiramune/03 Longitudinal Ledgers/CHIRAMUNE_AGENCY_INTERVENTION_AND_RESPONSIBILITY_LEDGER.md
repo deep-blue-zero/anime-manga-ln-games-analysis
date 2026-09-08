@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V02
-source_boundary: "Japanese Volumes 01-02; V02 interpreted from frozen V01 state"
-generation: V0.2
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V03
+source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -163,3 +163,47 @@ Future readings should test whether he learns this distinction or whether succes
 - V01 claim "Saku accepts retaliation personally" → **REVISE:** he increasingly recognizes friends' standing in his risk decisions.
 - V01 claim "beautiful outcome can tempt paternalism" → **STRENGTHEN**.
 - New live question: can Saku let another person choose not merely the goal, but the method by which he helps?
+
+# V03 update — authorship of process versus ownership of outcome
+
+## V03 governing revision
+
+Volume 03 gives a stronger account of why process matters: a forecast can be correct while its imposition deprives the chooser of the deliberation through which a future becomes theirs. Saku increasingly protects Asuka's right to choose the outcome, but repeatedly reserves invasive procedural tools to himself. The volume therefore strengthens rather than closes the V02 consent-to-method problem.
+
+## V03 entries
+
+| ID | Intervention | Agency / authority question | V03 assessment | Locator |
+|---|---|---|---|---|
+| AI-033 | Saku does not demand Asuka's initial Tokyo/Fukui answer | he knows his influence could distort her choice | strong restraint at the outcome-selection stage | `[p-0011-p0013]` |
+| AI-034 | Yuko styles Haru | Haru is offered an additional presentation rather than told her athletic self is deficient | agency-expanding mediation; Haru chooses to buy the outfit | `[p-0018#p0011-p0101]` |
+| AI-035 | Saku reveals Asuka's editor dream to Kuranosuke | tacit adult invitation is treated as permission to disclose her private information | productive but unauthorized boundary crossing | `[p-0020#p0018-p0047]` |
+| AI-036 | river kick and play | Saku uses physical shock to disrupt Asuka's resignation and defend his evidence-based recognition | coercive method paired with a valid anti-projection argument | `[p-0020#p0092-p0155]` |
+| AI-037 | Kuranosuke's adult counsel | he preserves Asuka's current first choice and distinguishes experience from infallibility | high-quality support that informs without deciding | `[p-0022#p0197-p0250]` |
+| AI-038 | Yuzuki directs Saku toward Asuka | she offers relevant feeling without taking over his decision | costly, nonpossessive relational aid | `[p-0022#p0260-p0297]`, `[p-0024#p0144-p0166]` |
+| AI-039 | Tokyo journey | Asuka explicitly asks to go; Saku offers experience rather than a guaranteed solution | high consent to goal, but secrecy, minor status, and poor lodging safety make procedure ethically mixed | `[p-0026-p0031]` |
+| AI-040 | hotel sexual feint | Saku claims restraint while staging physical control and an interpretation of Asuka's “real” will | protective intent does not make the method consensual; Asuka directly contests his sequence | `[p-0031#p0081-p0158]` |
+| AI-041 | Asuka edits Saku's account | she asks for disclosure and touch; he accepts a reconstruction he did not script | evidence that Saku can receive another person's chosen helping method | `[p-0031#p0171-p0419]` |
+| AI-042 | hidden open-call phone | Saku monitors a private family conference without prior permission | clear privacy violation that preserves rescue access by overriding procedural jurisdiction | `[p-0032#p0428-p0437]`, `[p-0032#p0581-p0584]` |
+| AI-043 | father's opposition and ultimatum | realistic expertise becomes unilateral decision and an undisclosed resilience test | care and knowledge do not grant authority to manufacture distress; later admission does not erase harm | `[p-0032#p0504-p0724]` |
+| AI-044 | Saku enters and begs | he concedes lack of standing and abandons superior-argument performance | vulnerable advocacy rather than claimed jurisdiction; still enabled by secret monitoring | `[p-0032#p0581-p0638]` |
+| AI-045 | Asuka interrupts Saku's support pledge | she refuses responsibility transfer and claims vocation, failure risk, and aftermath | clearest assertion of recipient authorship in the series through V03 | `[p-0032#p0643-p0676]` |
+| AI-046 | father's final permission | he recognizes persistence and gives Asuka freedom | positive authority revision after harmful method; not retroactive validation | `[p-0032#p0727-p0763]` |
+
+## Process authorship rule
+
+V03 supports a four-part intervention test:
+
+1. **standing** — why may the helper enter?
+2. **goal jurisdiction** — who selects the desired outcome?
+3. **method jurisdiction** — who knows, authorizes, and may refuse the procedure?
+4. **consequence ownership** — who bears ordinary failure, debt, and aftermath?
+
+Saku improves most at stages 2 and 4. He accepts Tokyo as Asuka's choice and her refusal of his lifelong guarantee. His failures cluster at stage 3: disclosure, surveillance, physical shocks, and unsafe secrecy. V03 therefore rejects any claim that respecting the final answer is enough.
+
+## V03 revision state
+
+- permission to help versus permission to choose method → **STRENGTHEN** with multiple new counterexamples.
+- relational standing over Saku's self-risk → **PRESERVE**; the Tokyo journey again distributes consequences beyond him.
+- Saku can receive another person's method → **STRENGTHEN but scope-limit** to Asuka's consensual editing/witness.
+- successful intervention as ethical vindication → **REJECT in strong form**.
+- New live question: can Saku make procedural consent ordinary rather than exceptional when urgency, romance, or accurate prediction tempts control?

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_02
-source_boundary: "Japanese Volumes 01-02; V02 interpreted from the frozen V01 state; no V03+ evidence"
-generation: V0.1
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_03
+source_boundary: "Japanese Volumes 01-03; V03 interpreted from the frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet and V04+ unopened"
+generation: V0.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -96,3 +96,72 @@ These are the entering claims for V03. Their origin state is `ESTABLISHED_AT_V02
 ## Maintenance rule
 
 For each later main volume, append or update only the claims materially tested by that source. Preserve the previous formulation and transition history; do not replace an earlier boundary's language with a retrospective summary. When a claim accumulates several transitions, add one row per tested boundary rather than compressing the chain into a timeless verdict.
+
+## V02 frozen-claim audit at the V03 boundary
+
+The V02 formulations remain intact in `../02 Sequential Readings/CHIRAMUNE_V02_PROSPECTIVE_FREEZE.md`. The transition rows below route to the V03 reading and freeze rather than retrospectively editing that checkpoint.
+
+| Claim ID | V02 claim | V03 transition | Current formulation at V03 | Primary route |
+|---|---|---|---|---|
+| F16 | Yuzuki consciously names romantic love. | `STRENGTHEN` | Her love becomes costly, nonpossessive action when she directs Saku toward Asuka; the bonus adds ordinary remembrance through the crescent lamp. | V03 deep reading §§X, XIV; V03 freeze F36 |
+| F17 | Saku does not reciprocally name love toward Yuzuki. | `PRESERVE` | V03 supplies no reciprocal naming toward Yuzuki. His mutual love language with Asuka must not be transferred to another direction. | V03 relationship ledger |
+| F18 | Saku improves the authorization threshold for entering another's problem. | `STRENGTHEN / QUALIFY` | He supports Asuka's outcome choice and accepts her consequence ownership, while continuing to select methods unilaterally. | V03 deep reading §VII; agency ledger AI-033–AI-046 |
+| F19 | Consent to help does not establish consent to method. | `STRENGTHEN` | Unauthorized disclosure, river kick, unsafe secrecy, sexualized physical feint, and hidden-call monitoring supply new procedural counterevidence. | V03 freeze F34; agency ledger |
+| F20 | Relationships create legitimate claims against Saku's self-disposability. | `STRENGTHEN` | He admits household loneliness, receives ordinary care, and accepts Asuka's witness rather than treating himself as the only valid interpreter. | V03 deep reading §§V, XII, XIV |
+| F21 | Haru is a structural corrective to optimization. | `PRESERVE / OPEN` | Her direct catch partnership reopens baseball, but the specific Haru/Yuzuki dialectic is not materially retested. | V03 deep reading §§X–XI |
+| F22 | Tomoya is Kenta's negative parallel; low status is not causal. | `PRESERVE` | Nothing in V03 overturns the contrast; Kenta's ordinary integration grows stronger. | V03 freeze F37 |
+| F23 | Asuka's concrete future destabilizes Saku's idealization. | `STRENGTHEN / RESOLVE AT V03` | Ordinary exposure, Tokyo investigation, mutual history, and accepted departure replace distant projection with a person whose choice Saku helps enact. | V03 deep reading §§II–IV, IX |
+| F24 | Saku is relationally embedded but jurisdictionally isolated. | `STRENGTHEN / REVISE` | Formation evidence explains the isolation; he accepts co-authored interpretation but still guards procedural control. | V03 freeze F28–F34 |
+| F25 | Status amplifies exposure as well as protection. | `PRESERVE` | V03 does not centrally retest school-wide punishment; intimacy/status still grants Saku excessive interpretive permission. | social-status ledger V03 update |
+| F26 | Ramune cannot be frozen as enclosure alone. | `REVISE / BROADEN` | Childhood co-authorship, opposed readings of one marble, and the plural many-moons ending join enclosure, lens, inversion, and impermanence. | V03 deep reading §VI; V03 freeze F39 |
+
+## V03 prospective-question dispositions
+
+| Test ID | Entering question | V03 transition | Result |
+|---|---|---|---|
+| V03-Q01 | Does Yuzuki act from named love in ordinary life? | `STRENGTHEN` | She aids Saku toward Asuka; the labeled bonus supplies an ordinary material expression. |
+| V03-Q02 | Why does Saku refuse to name attachment? | `REVISE / OPEN` | He can name love when projection and present person are distinguished, but exclusive commitment and wider withholding remain unresolved. |
+| V03-Q03 | Can Saku accept another person's helping method? | `STRENGTHEN / OPEN` | He accepts Asuka's consensual editing and refusal of guardianship; this has not generalized to his own interventions. |
+| V03-Q04 | How does changed Saku/Yuzuki distance affect group topology? | `PRESERVE / STRENGTHEN` | Cooperative, differentiated care persists without presumed romantic symmetry. |
+| V03-Q05 | Does Haru/Yuzuki directness-versus-optimization persist? | `OPEN` | Haru's directness remains visible, but the dyad receives insufficient new testing. |
+| V03-Q06 | Does Asuka's departure force Saku to choose? | `STRENGTHEN / RESOLVE AT V03` | He chooses to help her encounter and pursue Tokyo rather than preserve proximity. |
+| V03-Q07 | Does Kenta remain independently integrated? | `STRENGTHEN` | He leads ordinary leisure through his own expertise and contributes interpretation. |
+| V03-Q08 | Does intervention receive procedural/ethical counterpressure? | `STRENGTHEN / OPEN` | Asuka contests interpretive override and responsibility transfer, but invasive methods often retain narrative efficacy. |
+| V03-Q09 | Does love respect an autonomous other? | `STRENGTHEN` | Asuka claims her risk, Yuzuki helps a rival, and Saku supports departure; surveillance and coercion remain contrary evidence. |
+| V03-Q10 | What further work does Ramune perform? | `REVISE / BROADEN` | Its meaning becomes relationally co-authored and joined to plural moonlight. |
+
+## Claims established at the V03 freeze
+
+Exact wording, class, confidence, counterevidence, and locators remain in `../02 Sequential Readings/CHIRAMUNE_V03_PROSPECTIVE_FREEZE.md`:
+
+- `F27` — Asuka's “Asuka-nee” identity is learned, chosen, and authentic;
+- `F28` — Saku's hero persona defends an earlier prosocial impulse against entitlement;
+- `F29` — origin explanation does not settle present ethical legitimacy;
+- `F30` — Asuka chooses Tokyo as one genuine good over another;
+- `F31` — authorship of process matters more than possession of the correct forecast;
+- `F32` — Asuka rejects transfer from paternal to romantic guardianship;
+- `F33` — Saku can receive another person's reconstruction of him;
+- `F34` — he respects final jurisdiction more reliably than procedural jurisdiction;
+- `F35` — Saku and Asuka mutually name love without establishing exclusivity;
+- `F36` — Yuzuki's love becomes costly, nonpossessive action;
+- `F37` — Kenta's group membership is durably ordinary;
+- `F38` — baseball is reopened but institutional return remains unresolved;
+- `F39` — the Ramune metaphor is co-authored and plural;
+- `F40` — independence may become another compulsory performance.
+
+Their origin state is `ESTABLISHED_AT_V03`. Assign a later transition only when the V03 booklet, V04, or another safely admitted source materially tests one.
+
+## Open V04 test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| V04-Q01 | Can the group absorb Asuka's significance without romantic ranking? | `OPEN` | ordinary group behavior after public recognition of the bond |
+| V04-Q02 | What becomes of Saku's reopened baseball attachment? | `OPEN` | sustained play, organized return, or chosen retreat |
+| V04-Q03 | Can Saku surrender procedural as well as outcome control? | `OPEN` | a material help episode with informed method consent or accepted refusal |
+| V04-Q04 | Can Saku disclose need before crisis? | `OPEN` | voluntary disclosure or request concerning family, home, grief, or dependence |
+| V04-Q05 | Does Yuzuki's nonpossessive support persist? | `OPEN` | costly ordinary action under intensified romantic competition |
+| V04-Q06 | What responsibility does Haru's catch-partner role acquire? | `OPEN` | repeated baseball-related interaction or explicit renegotiation |
+| V04-Q07 | Can Asuka receive support without making dependence failure? | `OPEN` | post-choice behavior or explicit revision of the invulnerability vow |
+| V04-Q08 | Does the group retain distributed corrective authority? | `OPEN` | consequential action led or corrected by someone other than Saku |
+| V04-Q09 | Has locality/departure earned specialist promotion? | `OPEN` | independent recurrence with distinct retrieval pressure beyond V03 |
+| V04-Q10 | How does the title motif develop after many-moons pluralization? | `OPEN` | new wording, image, scene structure, or contested interpretation |

@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: synthesis_architecture
 scope: OPEN_ENDED_JAPANESE_LIGHT_NOVEL_FULL_SERIES
-source_boundary: "Locked Japanese light-novel corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; analysis currently frozen through main Volume 02"
-generation: V0.2
+source_boundary: "Locked Japanese light-novel corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; analysis currently frozen through main Volume 03 with its bundled bonus classified separately"
+generation: V0.3
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
@@ -46,13 +46,13 @@ This architecture is subordinate to the live repository authority records, integ
 
 Do not collapse "available" or "complete" into one number. Maintain this five-part state in the current corpus map:
 
-| Horizon | Meaning | V01–V02 baseline |
+| Horizon | Meaning | Current V03 checkpoint |
 |---|---|---|
 | `H_pub` | latest publication established by the current bibliographic/source audit | Volume 09.5; official Shogakukan series catalog rechecked 2026-09-07 |
 | `H_acq` | latest acquired main and supplemental witnesses | main V09; supplemental V09.5; 14 locked EPUB objects total |
-| `H_main` | latest numbered main volume prospectively frozen | V02 |
-| `H_supp` | supplemental witnesses analytically integrated after a safe boundary | none |
-| `H_next` | next source safe to open without contaminating a prior freeze | main V03 |
+| `H_main` | latest numbered main volume prospectively frozen | V03 |
+| `H_supp` | supplemental witnesses analytically integrated after a safe boundary | V03 in-EPUB pre-main bonus (`BONUS_FICTION`); no separate supplement yet |
+| `H_next` | next source safe to open without contaminating a prior freeze | separate V03 illustration/SS booklet |
 
 The live source inventory has no missing numbered main volume through V09. Known limits remain: retailer-exclusive bonuses are not claimed exhaustive; regular-edition V08 is not separately held, while the special edition contains the complete V08 narrative; supplemental placement must be resolved before analytical use.
 
@@ -63,6 +63,7 @@ Any later publication or acquisition changes `H_pub` or `H_acq` only after ident
 Assign every admitted object one primary analytical role:
 
 - `MAIN_LN` — numbered Japanese novel in the prospective spine;
+- `BONUS_FICTION` — official fiction bundled inside a main-volume object but analytically separated from its numbered narrative and placed only with explicit publication/diegetic provenance;
 - `SAME_EDITION_SUPPLEMENT` — additional material packaged with a main-volume witness but analytically separable from the narrative;
 - `SUPPLEMENTAL_MAINLINE` — official half-volume, booklet, special-edition story, or comparable main-continuity witness;
 - `SIDE_STORY_COLLECTION` — a later compilation whose component provenance and placement may differ;
@@ -128,7 +129,7 @@ Deep readings and prospective freezes are source-bound historical records. They 
 
 ## 7. Longitudinal infrastructure
 
-The V01–V02 evidence earns four independent rolling ledgers:
+The V01–V03 evidence maintains four independent thematic/relationship ledgers plus the revision ledger:
 
 - self-authorship / performance / authenticity;
 - agency / intervention / responsibility;
@@ -152,7 +153,7 @@ Create or update a monograph only after sufficient multi-scene evidence supports
 - contradiction, counterevidence, and abstention boundary;
 - ordinary-life behavior, not crisis scenes alone.
 
-V01–V02 justify active-provisional monographs for Saku Chitose and Yuzuki Nanase. They do not justify symmetrical monographs for every named character. Global character discovery remains the separate curation agent's responsibility.
+V01–V03 justify active-provisional monographs for Saku Chitose, Yuzuki Nanase, and Asuka Nishino. Asuka crosses the threshold at V03 through direct focalization, formation history, ordinary-life evidence, family conflict, vocation, relationship evidence, and counterevidence. The corpus does not justify symmetrical monographs for every named character. Global character discovery remains the separate curation agent's responsibility.
 
 ## 9. Synthesis layers
 
@@ -169,13 +170,13 @@ Current-source completion is an operational checkpoint, not terminal synthesis r
 
 Full-series integration is explicitly a **multi-document architecture**, not a mandate to accumulate every conclusion in one monolith. The portfolio has separate retrieval and authority roles:
 
-| Document class | Canonical location | Responsibility | Promotion state at V02 |
+| Document class | Canonical location | Responsibility | Promotion state at V03 |
 |---|---|---|---|
-| Prospective volume readings and freezes | `../02 Sequential Readings/` | Preserve source-bound findings and the epistemic state at each boundary | active through V02 |
-| Rolling revision and thematic ledgers | `../03 Longitudinal Ledgers/` | Maintain current cross-volume claims, transitions, and recurring dimensions | active through V02 |
-| Character monographs | `../04 Character Analysis/` | Reconstruct independently warranted characters without flattening witness or state distinctions | Saku and Yuzuki active-provisional |
+| Prospective volume readings and freezes | `../02 Sequential Readings/` | Preserve source-bound findings and the epistemic state at each boundary | active through V03 |
+| Rolling revision and thematic ledgers | `../03 Longitudinal Ledgers/` | Maintain current cross-volume claims, transitions, and recurring dimensions | active through V03 |
+| Character monographs | `../04 Character Analysis/` | Reconstruct independently warranted characters without flattening witness or state distinctions | Saku, Yuzuki, and Asuka active-provisional |
 | Specialist syntheses | future `../05 Specialist Synthesis/` documents | Integrate one mature domain whose evidence and dependencies warrant independent retrieval | anticipated; none yet promoted |
-| Current published-corpus synthesis | future `CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md` under `../06 Full-Series Synthesis/` | Converge the analyzed-to-date portfolio while routing detail back to the specialist and cumulative homes | deferred until an independently useful convergence boundary |
+| Current published-corpus synthesis | future `CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md` under `../06 Full-Series Synthesis/` | Converge the analyzed-to-date portfolio while routing detail back to the specialist and cumulative homes | deferred at V03 until an independently useful convergence boundary |
 | Terminal full-series synthesis | future separately named terminal artifact under `../06 Full-Series Synthesis/` | Integrate stabilized specialist outputs after publication closure and the terminal gates | ineligible |
 
 The current published-corpus synthesis and eventual terminal synthesis are integrators and claim routers. They must cite or link to the relevant specialist, character, ledger, and prospective documents rather than absorb those documents' complete evidentiary burden. A specialist document remains separately authoritative for its bounded domain; a later integrator may reconcile domains but must record any material revision through the revision ledger.
@@ -223,12 +224,12 @@ Classify apparent contradiction before harmonizing it. Possible causes include f
 
 | Dimension | Sequential capture | Current cumulative home | Mature destination | Baseline state |
 |---|---|---|---|---|
-| Major claims and predictions | every material boundary | revision ledger + prospective freezes | specialist and rolling synthesis | initialized through V02 |
-| Self-authorship/performance | when material | self-authorship ledger | character/specialist/rolling synthesis | initialized through V02 |
-| Agency/intervention | when material | agency ledger | character/specialist/rolling synthesis | initialized through V02 |
-| Status/group topology | when material | social-status ledger | ensemble/specialist/rolling synthesis | initialized through V02 |
-| Relationships/intimacy | directional changes | relationship ledger | character/relationship/rolling synthesis | initialized through V02 |
-| Character state | when evidence threshold is met | Saku and Yuzuki monographs plus relevant ledgers | mature character synthesis | active-provisional through V02 |
+| Major claims and predictions | every material boundary | revision ledger + prospective freezes | specialist and rolling synthesis | initialized through V03 |
+| Self-authorship/performance | when material | self-authorship ledger | character/specialist/rolling synthesis | initialized through V03 |
+| Agency/intervention | when material | agency ledger | character/specialist/rolling synthesis | initialized through V03 |
+| Status/group topology | when material | social-status ledger | ensemble/specialist/rolling synthesis | initialized through V03 |
+| Relationships/intimacy | directional changes | relationship ledger | character/relationship/rolling synthesis | initialized through V03 |
+| Character state | when evidence threshold is met | Saku, Yuzuki, and Asuka monographs plus relevant ledgers | mature character synthesis | active-provisional through V03 |
 | Ordinary life/locality/humor | when diagnostic | deep reading and affected current ledger | specialist only if earned | local capture required |
 | Exact locators/wording | for material claims | deep reading; source lock for identity | evidence index if promoted | local routing sufficient |
 | Adaptation/performance | only after separate admission | future adaptation-specific route | comparative specialist synthesis | deferred |
@@ -292,4 +293,4 @@ Completion states are:
 6. `TERMINAL_SYNTHESIS_READY` — only after publication closure and role-gap/convergence gates;
 7. `VALIDATED_RELEASE` — the eligible synthesis and exact repository state pass required audits.
 
-At the V01–V02 baseline the architecture is `EVOLVING`, the main high-water mark is V02, no supplement has been analytically opened, the next safe source is main V03, and the continuous run remains open through the live admitted inventory.
+At the V03 checkpoint the architecture is `EVOLVING`, the main high-water mark is V03, the in-EPUB pre-main bonus is integrated under an explicit `BONUS_FICTION` class, no separate supplement has yet been opened, the next safe source is the V03 booklet, and the continuous run remains open through the live admitted inventory.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V02_BASELINE
-source_boundary: "Japanese Volumes 01-02; V02 interpreted prospectively from frozen V01 state"
-generation: V0.2
+scope: SAKU_CHITOSE_V01_V03_BASELINE
+source_boundary: "Japanese Volumes 01-03; V03 interpreted prospectively from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,11 +11,11 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Saku Chitose — V01–V02 character monograph
+# Saku Chitose — V01–V03 character monograph
 
 ## Scope and authority
 
-This is a cumulative, source-bounded **Volumes 01–02 model**, not a definitive series model. Sections 1–17 preserve the complete V01 baseline because V01 provides unusually dense Saku evidence across several weeks, multiple social contexts, independent peer observations, internal narration, athletic behavior, conflict, ordinary life, and one temporary focalization outside Saku that shows how he appears from below. The `V02 longitudinal revision` section then updates that baseline without rewriting it.
+This is a cumulative, source-bounded **Volumes 01–03 model**, not a definitive series model. Sections 1–17 preserve the complete V01 baseline because V01 provides unusually dense Saku evidence across several weeks, multiple social contexts, independent peer observations, internal narration, athletic behavior, conflict, ordinary life, and one temporary focalization outside Saku that shows how he appears from below. The `V02 longitudinal revision` and `V03 longitudinal revision` sections update that baseline without rewriting it.
 
 Later volumes are expected to change the current model. They must do so through explicit revision rather than retroactively treating later knowledge as though V01 or V02 already contained it.
 
@@ -558,3 +558,79 @@ The V01 paradox survives and becomes sharper:
 - How does he react if Asuka actually chooses Tokyo?
 - Does his threat-based rule literacy receive meaningful counterevidence?
 - Can he remain "Chitose Saku" while choosing one relationship at the cost of another possibility?
+
+# V03 longitudinal revision
+
+## 1. Formation history grounds the role without debunking it
+
+Volume 03 supplies Saku's first direct account of the childhood sequence behind his present form. He began as a capable, prosocial child who repeatedly helped because he could. Peers converted repetition into entitlement: ordinary limits became betrayal, sabotage became a way to “balance” the gifted child, and hidden labor disappeared under claims of natural talent `[p-0031#p0203-p0270]`.
+
+A teacher's praise of him as a hero was benevolent in context. Saku transformed it into a mandate to become so perfect that no one could approach closely enough to impose or weaponize expectation. The current persona is therefore a defensive architecture around real competence and care, not a false opposite self.
+
+The parts now fit:
+
+- arrogance preempts accusations of false modesty;
+- advertised romantic unreliability limits entitlement to him;
+- humor vents pressure and keeps claims deniable;
+- concealed weakness prevents weaponization;
+- disclaimed altruism resists unlimited care debt;
+- self-sacrificial rescue preserves the childhood impulse while treating only himself as expendable.
+
+This history **explains** the form. It does not legitimate every act performed through it.
+
+## 2. The marble is a self-model inherited through relationship
+
+Saku says he aimed for the moon but became the Ramune marble: visible and beautiful, yet enclosed and looking outward `[p-0031#p0307-p0322]`. Asuka's childhood focalization reveals that this meaning was relational from the start. He called the marble lonely; she called it floating, loved, and moonlike—like him `[p-0032#p0270-p0287]`.
+
+Saku's most private metaphor is therefore not purely self-generated. Another person's recognition entered his later self-narration. This strengthens the model of relational embeddedness: even the language through which he imagines isolation bears another person's contribution.
+
+## 3. He can receive an interpretation he did not author
+
+After narrating his history, Saku lets Asuka “edit” it. She does not deny the facts; she rejects his habit of minimizing their narrative value, sees the continuing child hero inside imperfect present rescues, and gives crescent/moon/marble forms value before perfection `[p-0031#p0323-p0398]`.
+
+He accepts this reconstruction and her consensually guided physical witness. This is the strongest evidence through V03 that another person can help Saku by a method he did not design. The scope remains narrow: the exchange occurs with an exceptional intimate who shares origin history, and he does not generalize the lesson to his own intervention procedures.
+
+## 4. Outcome jurisdiction improves; method jurisdiction does not
+
+Saku's ethically strongest action is helping Asuka leave. He does not promise Tokyo will solve her conflict and ultimately refuses to make Fukui intimacy a reason she must stay. When he begins to promise lifelong responsibility for failure, Asuka interrupts and claims both vocation and consequence; he accepts the correction `[p-0032#p0643-p0676]`.
+
+At the same time, V03 accumulates serious procedural counterevidence. He reveals her private dream, kicks her into a river, organizes an unsafe secret trip, stages a physical/sexual feint while claiming to read her will, and plants an open-call phone to monitor her family conference. Accurate prediction and positive outcome repeatedly tempt him to treat method as expert discretion.
+
+The current ethical model is:
+
+> **Saku increasingly knows that another person owns the answer and its consequences. He has not reliably learned that they also own the right to know, authorize, or refuse the route.**
+
+## 5. Love can now be named, but not cleanly categorized
+
+Saku's V02 refusal to name feeling cannot be generalized into incapacity. After learning Asuka's childhood identity and separating imitation from present practice, he repeats her love language `[p-0032#p0348-p0412]`. Affection survives demystification and ordinary exposure.
+
+This is mutually named love, not an exclusive dating commitment. His wider pattern of keeping several directional affections uncategorized remains. The V02 rival explanations—epistemic restraint and optionality-preserving evasion—are therefore revised but not resolved.
+
+## 6. Family autonomy is emotionally incomplete
+
+Saku's parents are divorcing. Their family ethic lets him decide where and how to live, then asks him to bear the consequences. He initially experienced living alone as freedom, but the apartment's silence and repeated visits from friends reveal loneliness. Three place settings, curry, borrowed routines, and gifted objects materialize a household he cannot create through self-sufficiency alone `[p-0015#p0017-p0103]`.
+
+He can accept care as food, objects, play, and company. He remains less able to request it directly. The key distinction is no longer ability to live alone; it is whether competence can include chosen dependence before crisis.
+
+## 7. Baseball becomes present tense again
+
+Haru gives Saku a catch partner rather than prescribing institutional return. Throwing and teaching glove care release pleasure and grief. Yusuke's invitation, Saku's anger at former betrayal, and Atomu's challenge show that the old field is still relationally active `[p-0015#p0123-p0225]`, `[p-0017#p0002-p0031]`.
+
+The formation question is resolved: baseball belongs to the expectation/sabotage history that helped produce Saku's defensive form. The future question remains open. Recreational play is not proof that he wants competitive return.
+
+## 8. V03 stable model
+
+The V01–V02 paradox survives with a causal history and one new possibility:
+
+> **Saku is a genuinely capable and caring self-author who built perfection as protection against entitlement. He can now receive another person's account of his value and support a loved person's departure, but his respect for others remains asymmetrical: final choices increasingly belong to them, while invasive methods still feel available to him when he predicts the outcome correctly.**
+
+## 9. V04 watchlist
+
+- whether consensual co-authorship becomes ordinary rather than Asuka-specific;
+- whether he can ask for household/family support before loneliness becomes crisis;
+- whether he returns to organized baseball, keeps recreational play, or withdraws;
+- whether mutual love with Asuka becomes commitment, distance, or another form;
+- whether Yuzuki's costly support changes his treatment of her named love;
+- whether he can distinguish urgent care from unilateral procedural authority;
+- whether the many-moons model lowers the full-moon perfection demand in daily behavior;
+- whether choosing among relationships remains indefinitely avoidable.
