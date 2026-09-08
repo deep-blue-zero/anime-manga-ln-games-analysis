@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
-generation: V1.0
+scope: ASUKA_NISHINO_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Volume 09.5 unopened"
+generation: V1.1
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Asuka Nishino — cumulative character monograph through V09 main
+# Asuka Nishino — cumulative character monograph through *Days of Endless Summer*
 
 ## Scope and promotion basis
 
@@ -362,6 +362,36 @@ The ending of the unchanged group sharpens the finitude that has organized Asuka
 - test whether listening and direct finite requests persist outside crisis;
 - preserve Yua collaboration and Momiji group repair without invented dyadic symmetry;
 - direct reciprocal evidence only before any selection or couple claim.
+
+# *Days of Endless Summer* longitudinal revision
+
+## Her romantic direction becomes explicit without becoming reciprocal fact
+
+At the V05 closing ceremony Asuka refuses Okuno because she already loves Saku and bounds their friendship through graduation `[DES:p-0022#p0027-p0058]`. This is direct Asuka-side evidence and a clean exercise of refusal authority. It does not establish an equivalent answer from Saku.
+
+## Editorial aspiration grows through correction and local mediation
+
+Asuka studies the interview she failed, accepts her father's critique, and later helps a child at AKUSHU engage a difficult literary alternative rather than supplying a comforting answer `[DES:p-0044#p0002-p0058]`, `[DES:p-0050#p0044-p0079]`. Her vocational practice is increasingly concrete in method—listening, comparison, mediation—even though Tokyo housing, study, work, and placement remain unbuilt.
+
+## Exceptional understanding is relationally recognized but not ranked as victory
+
+Yuzuki tells Asuka that she may be the person Saku uniquely wants to understand, while Asuka credits Yuzuki with uniquely understanding him `[DES:p-0057#p0089-p0104]`. The asymmetry gives Asuka a distinct relation without making interpretation possession or romantic selection.
+
+## Cross-grade loss becomes a lateral alliance
+
+In the new story Asuka and Momiji acknowledge the ache of being outside Saku's class while also recognizing that senior/junior difference made their particular relations possible. Asuka invites Momiji to continue the conversation on the roof `[DES:p-0078#p0241-p0288]`. This expands finite-time awareness into a peer resource rather than an exclusive claim on Saku.
+
+## Post-*Days of Endless Summer* current model
+
+> **Asuka now has explicit historical love, recognized interpretive specialness, a more concrete editorial method, and a new cross-grade alliance with Momiji. Her one-time band remains an independent formative relation, and domestic skill learned from Yua remains borrowed-but-authored care. These strands make her less dependent on the departing-moon persona, but no reciprocal exclusive answer, couple, or operational Tokyo plan exists.**
+
+## Volume 09.5 watchlist
+
+- concrete Tokyo education, housing, work, transport, or communication planning;
+- direct present requests that do not rely on finite place or interpretive privilege;
+- continued Yua and Momiji relations independent of Saku;
+- whether editorial method becomes sustained institutional practice;
+- direct reciprocal evidence only before selection or couple status.
 
 # V08 main longitudinal revision
 

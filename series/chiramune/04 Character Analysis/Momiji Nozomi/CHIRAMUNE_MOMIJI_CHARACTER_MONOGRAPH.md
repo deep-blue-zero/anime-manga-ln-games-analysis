@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: MOMIJI_NOZOMI_THROUGH_VOLUME_09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; Momiji's V07 promotion revised through V09 main; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
-generation: V0.4
+scope: MOMIJI_NOZOMI_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; Momiji's V07 promotion revised through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Volume 09.5 unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,13 +11,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Nozomi Momiji — active-provisional character monograph through Volume 09 main
+# Nozomi Momiji — active-provisional character monograph through *Days of Endless Summer*
 
 ## Responsibility and promotion threshold
 
 This monograph reconstructs Nozomi Momiji only from safely admitted Japanese light-novel evidence through Volume 08 main. V07 supplies sustained action across school, sport, romantic pursuit, group entry, conflict, direct self-account, and the postposed prologue; V08 main adds lateral intimacy, declared rivalry, self-described method, and substantial continuing counterevidence about disclosure and harm. V07 crosses the independent-model threshold; V08 revises that promoted model. Promotion is not a claim that prominence makes her central forever or that later sources cannot substantially revise it.
 
-The governing readings are `../../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md` and `../../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md`. The V08 rough-illustration collection is separately classified production paratext and supplies no character-state evidence; V09 and later sources remain outside this boundary.
+The governing source-bound routes are `../../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md`, `../../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md`, `../../02 Sequential Readings/CHIRAMUNE_V09_DEEP_READING.md`, and `../../02 Sequential Readings/CHIRAMUNE_DAYS_OF_ENDLESS_SUMMER_SUPPLEMENTAL_READING.md`. The V08 rough-illustration collection is separately classified production paratext and supplies no character-state evidence; Volume 09.5 and later sources remain outside this boundary.
 
 ## 1. Entry begins with genuine group admiration
 
@@ -148,6 +148,36 @@ She is neither assimilated into noncompetitive harmony nor expelled for differen
 - test whether transparent rivalry becomes repeatable ordinary practice;
 - require institutional scheduling, coaching, or education before a sprint-vocation claim;
 - direct present Saku wording and mutually enacted status only before romance reciprocity or couple claims.
+
+# *Days of Endless Summer* longitudinal revision
+
+## Admission becomes ordinary entrusted work
+
+At Takoku Momiji says she is happy to have entered the group while refusing to treat entry as the end of her pursuit `[DES:p-0078#p0092-p0104]`. Saku then obtains a new rooftop key and names her third-generation roof cleaner; she accepts `[DES:p-0078#p0191-p0204]`. The V09 symbol becomes repeated-access responsibility, the clearest current evidence of social admission. It remains below dating consent.
+
+## Cross-grade difference becomes a relationship she can author
+
+Momiji tells Asuka that junior status is not only exclusion but a source of approaches unavailable to classmates. Asuka recognizes the same double structure in seniorhood and invites future rooftop conversation `[DES:p-0078#p0241-p0288]`. Momiji no longer needs outsider status to mean isolation; difference can generate a lateral alliance.
+
+## Repair with Yua permits a real limit
+
+Momiji's meal is accepted, the women exchange recipes, and future food practice opens. Yua still refuses Momiji use of Saku's dedicated stool `[DES:p-0078#p0364-p0410]`. Momiji accepts relation without requiring identical access, which is stronger evidence of transparent method than winning a symbolic contest would be.
+
+## Fair rivalry preserves others' agency
+
+Haru grants Momiji a catalytic role in Yuzuki's development but refuses to credit her with unlocking Yuzuki entirely. Momiji and Haru then reaffirm direct competition `[DES:p-0078#p0564-p0624]`. The exchange makes Momiji answerable as one influence among self-moving people rather than the author of rivals' transformations.
+
+## Post-*Days of Endless Summer* current model
+
+> **Momiji's answerable standing is now lived as group participation, entrusted maintenance, and new relations with Asuka, Yua, and Haru. Her most important advance is not romantic rank but the ability to remain competitive inside differentiated belonging: she can accept limits, share practice, and let other people retain authorship. Saku's immediate dating refusal remains intact, he still does not name reciprocal love, and sprint vocation remains institutionally open.**
+
+## Volume 09.5 watchlist
+
+- whether entrusted group responsibility persists beyond symbolic access;
+- direct present Saku-side romantic wording before any reciprocity claim;
+- whether competitive method continues to respect limits and others' authorship;
+- sustained Asuka, Yua, Haru, Yuzuki, and Yuko dyads independent of Saku;
+- institutional scheduling, coaching, education, or competition before a sprint-vocation claim.
 
 # V08 main longitudinal revision
 

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no relationship transition; Days of Endless Summer and V09.5 unopened"
-generation: V1.2
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT; Volume 09.5 unopened"
+generation: V1.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -848,3 +848,56 @@ Yua teaches Asuka to make omurice rather than defend domestic practice as exclus
 - preserve Momiji's split refusal/admission and Yuzuki's exceptional but nonexclusive position;
 - require direct singular wording and mutually enacted status before any couple claim;
 - keep group-level repair, continuing lateral ties, and the end of the unchanged blue form simultaneously visible.
+
+# *Days of Endless Summer* relationship update — historical depth without endpoint inflation
+
+## Saku ↔ Yuzuki — explicit historical desire and domestic possibility below selection
+
+Yuzuki's V02/V03-adjacent testimony names a wish for the false relation to become real and later calls Saku the man she fell for `[DES:p-0018#p0022-p0048]`, `[DES:p-0019#p0031-p0076]`. A V08 meal closes with her request to make breakfast next time, which Saku does not reject `[DES:p-0070#p0025-p0058]`.
+
+**Current state:** exceptionally differentiated mirror/history + explicit Yuzuki-side love + enacted and proposed domestic practice + V08 consent history + no singular Saku selection, mutual title, or couple.
+
+## Saku ↔ Asuka — recognized interpretive asymmetry and explicit directional love
+
+Asuka historically refuses Okuno because she loves Saku `[DES:p-0022#p0027-p0058]`. Yuzuki and Asuka later distinguish two forms of special access: Yuzuki may understand Saku uniquely, while Asuka may be the person he uniquely wants to understand `[DES:p-0057#p0089-p0104]`.
+
+**Current state:** explicit Asuka-side love + exceptional interpretive position + finite cross-grade intimacy + no direct Saku-side exclusive answer or operational Tokyo future.
+
+## Saku ↔ Yua — restored ordinary routine with bounded differentiation
+
+After Yua's V08 apology, Saku deliberately restores their routine and objects to Momiji repeating the intimate measurement `[DES:p-0062#p0004-p0058]`. Yua later repairs with Momiji through food while retaining the stool boundary `[DES:p-0078#p0364-p0410]`.
+
+**Current state:** chosen ordinary continuity + recipient-specific boundary + public and domestic self-authorship + remembered V08 violation + no ownership, selection, or couple.
+
+## Saku ↔ Haru — future fantasy remains directional, not mutual status
+
+Haru imagines marriage, children, basketball, and shared labor while learning from Yua, then later names Saku the sportsman she respects most while reaffirming fair contest `[DES:p-0058#p0027-p0058]`, `[DES:p-0078#p0609-p0624]`.
+
+**Current state:** direct Haru desire + athletic respect and practical reciprocity + internal future fantasy + no mutual plan, selection, or couple.
+
+## Saku ↔ Yuko — renewed love remains compatible with friendship and refusal history
+
+Yuko uses her refusal of Kaito to reinterpret the possible incompleteness of Saku's answer and resolves that her love is not mere first sight `[DES:p-0036#p0041-p0061]`. She values women she loves even when they love the same person `[DES:p-0040#p0048-p0063]`.
+
+**Current state:** persistent self-authored love + understood refusal + non-attacking rivalry and lateral friendship + no reversed answer or couple.
+
+## Saku ↔ Momiji — admitted claimant becomes entrusted group participant
+
+The new story enacts the V09 third-key promise: Saku requests the key, gives Momiji roof-cleaning responsibility, and she accepts `[DES:p-0078#p0191-p0204]`. Her group entry produces Asuka, Yua, and Haru dyads without ending competitive intent.
+
+**Current state:** immediate dating refusal preserved + answerable claim + material social access and entrusted maintenance + no direct reciprocal romantic naming or couple.
+
+## Women's lateral relationships — a primary norm-making network
+
+Yuzuki/Haru partner loyalty, Yuko/Kotone refusal talk, Yuzuki/Nazuna capacity challenge, Yua/Asuka skill transfer, Asuka/Momiji cross-grade alliance, Yua/Momiji differentiated repair, and Haru/Momiji fair contest establish relations with stakes independent of Saku's answer `[DES:p-0017#p0042-p0054]`, `[DES:p-0042#p0031-p0061]`, `[DES:p-0074#p0037-p0056]`, `[DES:p-0078#p0241-p0288]`, `[DES:p-0078#p0364-p0410]`, `[DES:p-0078#p0564-p0624]`.
+
+**Current state:** independently primary friendships, partnerships, mentorships, rivalries, and repair routes; no central romantic outcome may flatten them into one competitive ranking.
+
+## Relationship hypotheses after *Days of Endless Summer*
+
+1. **Retrospective depth is not a present endpoint.** Later publication supplies strong interior testimony but does not relocate old events or rewrite prospective freezes.
+2. **Yuzuki remains most differentiated without reaching singularity.** Her explicit historical love and domestic bid strengthen the relation; V09's acting-only rule and absence of mutual status still govern.
+3. **Repair permits differentiated limits.** Yua/Momiji relation advances without erasing V08 or requiring surrender of the dedicated stool.
+4. **Social admission is now enacted.** Momiji's key responsibility and new dyads realize V09 access without reversing the dating refusal.
+5. **Lateral relations are analytically primary.** The women's network creates its own norms of care, contest, disclosure, and future continuity.
+6. **No couple exists at this boundary.** Direct reciprocal exclusive wording and mutually enacted status remain absent.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: HARU_AOMI_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
-generation: V0.9
+scope: HARU_AOMI_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Volume 09.5 unopened"
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Haru Aomi — cumulative character monograph through V09 main
+# Haru Aomi — cumulative character monograph through *Days of Endless Summer*
 
 ## Scope and promotion basis
 
@@ -401,6 +401,32 @@ This strongly preserves the independent Haru/Yuzuki relation under romantic scar
 - require institutional evidence before athletic rank or vocation claims;
 - preserve Yuzuki as an independently primary relation rather than treating Saku as sole cause;
 - direct reciprocal evidence only before any romantic-selection claim.
+
+# *Days of Endless Summer* longitudinal revision
+
+## Athletic learning and romantic aspiration share a method without becoming one prize
+
+Haru converts Mai's technical instruction into a compact three-point form and treats excellent rivals as reasons to improve `[DES:p-0048#p0055-p0083]`. In the current bridge she applies the same fair-contest grammar to Momiji while calling Saku the sportsman she respects most `[DES:p-0078#p0609-p0624]`. Competition organizes both domains, but a basketball result cannot decide romance and a romantic answer cannot settle athletic vocation.
+
+## Future-family imagery is desire, not mutual planning
+
+While learning food practice from Yua, Haru imagines marriage, children, basketball, and shared domestic labor with Saku `[DES:p-0058#p0027-p0058]`. The fantasy matters as Haru-side integration of athlete and possible adult life. Saku neither hears nor adopts it, so no family plan, cohabitation, or couple follows.
+
+## Her Yuzuki partnership protects both relation and agency
+
+Haru rejects Momiji's claim to have unlocked Yuzuki by herself. She grants Momiji catalytic importance while trusting that Yuzuki would have opened the lock and restating her own task as running beside a self-moving partner `[DES:p-0078#p0564-p0608]`. This is a mature correction to fixed partner primacy: loyalty does not require denying another person's influence or claiming authorship over Yuzuki.
+
+## Post-*Days of Endless Summer* current model
+
+> **Haru's retrospective and current testimony integrates technical learning, direct rivalry, love, and future imagination into one self-authored practice of pursuing worthy movement. Her strongest present advance is relational: she protects Yuzuki's agency while accepting Momiji as a fair rival. The marriage-and-children future remains internal, basketball lacks durable institutional logistics, and Saku supplies no singular reciprocal answer.**
+
+## Volume 09.5 watchlist
+
+- sustainable training, education, team, and career evidence;
+- direct romantic action that remains distinct from a score or race;
+- self-originated emotional support requests outside athletic framing;
+- continued Yuzuki partnership without fixed primacy or agency capture;
+- mutually enacted status only before any couple claim.
 
 # V08 main longitudinal revision
 

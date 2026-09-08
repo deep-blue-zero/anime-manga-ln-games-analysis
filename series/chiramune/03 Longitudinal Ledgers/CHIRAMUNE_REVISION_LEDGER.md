@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 narrative supplements integrated; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; Days of Endless Summer and V09.5 unopened"
-generation: V1.2
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; Volume 09.5 unopened"
+generation: V1.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -598,3 +598,45 @@ Their origin state is `ESTABLISHED_OR_REVISED_AT_V09_MAIN`. Exact locators, visu
 | DES-Q05 | Which ordinary-life, locality, relationship, or character responsibilities change? | `OPEN` | route each material finding only to the warranted cumulative homes |
 | DES-Q06 | Does compilation or republication create duplicate-event risk? | `OPEN` | compare known witnesses and count one event once while preserving edition variants |
 | DES-Q07 | What paratext supports production history without becoming fiction evidence? | `OPEN` | bounded afterword, contents, colophon, and source-role use |
+
+## *Days of Endless Summer* test dispositions
+
+| Test ID | Transition | Current formulation | Evidence route |
+|---|---|---|---|
+| DES-Q01 | `RESOLVE COMPONENT GRAPH` | The object contains bounded paratext, 36 republished stories in seven provenance groups, and one newly written long story; fiction is routed component by component. | `CHIRAMUNE_DAYS_OF_ENDLESS_SUMMER_SUPPLEMENTAL_READING.md` §§1–3 |
+| DES-Q02 | `RESOLVE INDIVIDUALLY` | Each fiction component retains original provenance, internal placement, and earliest safe insertion boundary; editorial order is not one chronology. | §§2–4 |
+| DES-Q03 | `ONE CURRENT TRANSITION / OTHERWISE RETROSPECTIVE` | Thirty-six components add later-admitted testimony across earlier intervals; only `長く短い祭りのあと` advances the post-festival present. | §§4–5 |
+| DES-Q04 | `PRESERVE NONSELECTION` | Directional love, domestic bids, future fantasies, and the enacted Momiji admission strengthen differentiated relations without reciprocal exclusive status. | §§7–9 |
+| DES-Q05 | `ROUTE TO EXISTING PORTFOLIO` | All five ledgers, all seven monographs, the Fukui specialist, and rolling synthesis receive bounded updates; the component graph retains detailed provenance. | §§7–10 |
+| DES-Q06 | `CONTROL PARALLEL WITNESS` | Republished and parallel witnesses preserve their edition testimony but do not become duplicate current events or second redemptive outcomes. | §§2–4, 9 |
+| DES-Q07 | `BOUND PRODUCTION TESTIMONY` | The afterword explains the collection's growth and anime-script participation without turning anime or advertising into novel-continuity evidence. | §6 |
+
+## Claims established or revised at the *Days of Endless Summer* boundary
+
+| ID | Prior state | Transition | Current formulation | Evidence route |
+|---|---|---|---|---|
+| DES-F01 | one later collection had not been classified | `RESOLVE SOURCE ROLE AND COMPONENT CHRONOLOGY` | Thirty-six republished stories retain individual earlier placements; one new story advances the present; paratext remains bounded. | supplemental reading §§1–3 |
+| DES-F02 | earlier prospective freezes were complete without these stories | `PRESERVE FREEZES / ADD RETROSPECTIVE TESTIMONY` | Later-admitted evidence may revise the current model but cannot rewrite what an earlier source boundary supported. | §§3–4 |
+| DES-F03 | six principal claimants had differentiated but unresolved trajectories | `STRENGTHEN ALL / SELECT NONE` | Yuzuki, Asuka, Yua, Haru, Yuko, and Momiji each gain self-authored direction; no reciprocal exclusive status or couple appears. | §§4–5, 7–9 |
+| DES-F04 | female rivalry was already becoming lateral relation | `MAJOR STRENGTHEN` | friendship, mentorship, rivalry, recipe transfer, sport, and repair among women produce norms independent of Saku's final answer. | §§4–5, 7 |
+| DES-F05 | domestic practice carried intimacy without guaranteed entitlement | `STRENGTHEN / DIFFERENTIATE` | meals, recipes, gifts, and shared routines build recipient-specific relations but do not confer ownership or romantic title. | §§4–5, 7–9 |
+| DES-F06 | V08 harm remained present through V09 accountability | `PRESERVE NON-ERASING REPAIR` | Yua and Momiji establish meal/recipe relation while Yua keeps a bounded stool refusal; repair does not require surrender of all differentiation. | §5 |
+| DES-F07 | V09's Yuzuki outcome was acting-only | `PRESERVE BOUNDED OUTCOME` | bonus perspectives and Tomoya's parallel witness do not convert the stage result into private selection or a second redemption event. | §§4, 7–9 |
+| DES-F08 | Momiji had answerable standing and a third-key promise | `ENACT SOCIAL ADMISSION` | the new story gives her key responsibility, group participation, new dyads, and fair contest while preserving the dating refusal. | §5 |
+| DES-F09 | cross-grade difference primarily marked exclusion and departure | `REVISE TO LOSS PLUS RESOURCE` | Asuka and Momiji identify senior/junior difference as both finite loss and a source of their particular relational forms. | §5 |
+| DES-F10 | performance could remain meaningful after a bounded event | `STRENGTHEN DURABLE RELATION` | the one-time band persists as formative relation without needing repetition; existing retrieval architecture remains sufficient. | §§4, 7, 10 |
+| DES-F11 | Fukui sites enabled civic authorship | `STRENGTHEN AS AFTERCARE NETWORK` | Takoku, AKUSHU, the roof, riverbank, Leisure Land, Hachiban, families, teachers, and local adults route memory, repair, mentorship, and ordinary continuation. | §§4–5, 7 |
+
+Their origin state is `ESTABLISHED_OR_REVISED_AT_DAYS_OF_ENDLESS_SUMMER`. The source-bound component map, exact locators, visual audit, rival readings, and hard limits remain in `CHIRAMUNE_DAYS_OF_ENDLESS_SUMMER_SUPPLEMENTAL_READING.md`. Earlier freezes remain unchanged.
+
+## Open Volume 09.5 test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| V095-Q01 | What source role and component graph does Volume 09.5 require? | `OPEN` | exact witness verification, spine/contents inventory, and component-level role assignment |
+| V095-Q02 | Where does each fiction component belong relative to V09 and *Days*? | `OPEN` | explicit publication and diegetic dependencies; no blanket placement |
+| V095-Q03 | Does the source name a singular beloved or mutually enact couple status? | `OPEN` | direct reciprocal wording and enacted status; prominence, fantasy, and domesticity remain insufficient |
+| V095-Q04 | Which claimant, group, and lateral-relation states materially change? | `OPEN` | distinguish current transition, retrospective testimony, and repeated evidence |
+| V095-Q05 | Do baseball, basketball, Tokyo, editing, or other life paths gain durable logistics? | `OPEN` | chosen schedules, institutions, resources, or commitments rather than mood or possibility |
+| V095-Q06 | Does Saku originate a vulnerable support request? | `OPEN` | self-initiated asking rather than disclosure elicited by another person |
+| V095-Q07 | Does current-source reconciliation require another specialist or ledger? | `OPEN` | independent evidence base, distinct dependency path, and material retrieval value |

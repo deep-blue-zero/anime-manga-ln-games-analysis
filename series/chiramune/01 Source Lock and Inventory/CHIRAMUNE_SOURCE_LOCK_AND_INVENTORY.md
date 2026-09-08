@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V1.1
+generation: V1.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -150,6 +150,16 @@ The afterword announces a 2025 television anime, explains the more-than-one-year
 
 The next safe source is the exact locked *Days of Endless Summer* EPUB. It must be classified component by component before fiction enters the longitudinal corpus.
 
+### *Days of Endless Summer* analysis disposition
+
+The locked collection witness was independently reverified at 11,663,969 bytes and SHA-256 `24a92c80666b95658a2c2e6ab03434996233cb9357cea9981da3fc6566455c39` before opening. OPF metadata identifies `千歳くんはラムネ瓶のなか Days of Endless Summer`, 裕夢, 株式会社小学館, and Japanese; the colophon records electronic publication on 2025-08-20, a 2025-08-25 print base, and ISBN 978-4-09-453257-9.
+
+The exact package contains 152 extracted files, 93 linear XHTML spine entries, and 50 JPEG assets. Its fiction graph contains 36 republished stories in seven provenance groups plus one newly written long story. All 50 images were inspected and bounded by role. Extraction produced 3,094 non-empty locator rows and 3,280 reading lines; the locator TSV SHA-256 is `574272d8ac39d4d978f27e7129651c8de1f2c0bdc1358ce59be9d950ca2de6ac`, the reading projection SHA-256 is `dba2217ee070e0b0e09198ade530df6cab6618a84776f9e2aee9e0495ca07eed`, and the image-inventory SHA-256 is `ade9401ea9dd69465e9e51cf7bf118116e4c3cf8679991276e24cf6877327d13`.
+
+The 36 republished stories retain individual earlier diegetic placements and enter as later-admitted testimony rather than rewriting their main-volume freezes. `長く短い祭りのあと` is the only newly written current bridge: it occurs the day after the culture festival and before the Okinawa class trip. The afterword supplies bounded production history, including the author's anime-script participation; it does not admit the anime into the novel evidence plane. The complete component graph and checkpoint are `../02 Sequential Readings/CHIRAMUNE_DAYS_OF_ENDLESS_SUMMER_SUPPLEMENTAL_READING.md`.
+
+The next safe source is the exact locked Volume 09.5 witness.
+
 ### Volume 04 analysis disposition
 
 The locked Volume 04 witness was reverified at SHA-256 `96113f9d92616084144ea06172ad5ea1dee54e1f5b53ed872a717d4e5bac4470` before prospective reading. Its complete narrative, ten interior narrative illustrations, frontmatter, afterword, author profile, colophon, and advertising backmatter were classified. No embedded bonus fiction was found. The narrative and V04 freeze are complete; the known `mimetype` ZIP-order warning remains a packaging-only defect.
@@ -162,7 +172,7 @@ Its colophon dates publication to 2020-04-17 and identifies 裕夢 as author, ra
 
 ### Half-volumes and side stories
 
-Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volumes 07, V08 main, and V09 main are independently frozen after that checkpoint. The V08 rough-illustration collection is separately integrated as `PRODUCTION_PARATEXT`. *Days of Endless Summer* and Volume 09.5 still require publication/diegetic classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
+Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volumes 07, V08 main, and V09 main are independently frozen after that checkpoint. The V08 rough-illustration collection is separately integrated as `PRODUCTION_PARATEXT`. *Days of Endless Summer* is integrated through a 37-component graph that preserves original provenance, individual placement, and duplicate-event controls. Volume 09.5 still requires publication/diegetic classification before longitudinal integration. Its existence does not authorize retroactive leakage into earlier prospective reading states.
 
 ## Completeness claim and limit
 

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
-generation: V1.2
+scope: YUZUKI_NANASE_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Volume 09.5 unopened"
+generation: V1.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — cumulative character monograph through V09 main
+# Yuzuki Nanase — cumulative character monograph through *Days of Endless Summer*
 
 ## Scope
 
@@ -532,6 +532,34 @@ The evidence is major. Its theatrical restriction and prospective grammar still 
 - preserve the acting-only choice and prospective epilogue below exclusive status;
 - require sustained institutional evidence before any basketball-vocation claim;
 - direct singular wording and mutually enacted status only before any couple claim.
+
+# *Days of Endless Summer* longitudinal revision
+
+## Her fake-to-real transition gains explicit historical self-testimony
+
+The V02/V03-adjacent stories preserve change across distinct moments. Before the fake request Yuzuki prepares to act on her own terms; after the stalking crisis she wants the false relation to become real but refuses to cross the bedroom boundary without naming the heart Saku protected; after his birthday she internally calls him the man she fell for while receiving a moon-marked gift `[DES:p-0016#p0027-p0048]`, `[DES:p-0018#p0022-p0048]`, `[DES:p-0019#p0031-p0076]`.
+
+This is unusually direct evidence of Yuzuki-side romantic authorship. Because the testimony is later admitted and unilateral, it strengthens the history behind V09 without converting the acting-only result into a mutual exclusive status.
+
+## Domestic practice becomes an offered future, not a proxy title
+
+In a V08-set story Yuzuki shares a meal with Saku, enters a routine he recognizes as resembling Yua's, and asks to make breakfast next time; Saku does not refuse the invitation `[DES:p-0070#p0025-p0058]`. The scene establishes practical desire and possible repetition while preserving differentiated histories. It is neither cohabitation nor girlfriend status.
+
+## Her independently primary relations remain generative
+
+Haru's early promise to contest beside her, Nazuna's pressure to release restrained capacity, Yuko's shared future, and Momiji's current competition all make Yuzuki answerable to women whose stakes exceed Saku's choice `[DES:p-0017#p0042-p0054]`, `[DES:p-0042#p0031-p0061]`, `[DES:p-0078#p0564-p0608]`. Haru explicitly refuses Momiji's claim to have authored Yuzuki's unlocking, preserving Yuzuki's eventual agency.
+
+## Post-*Days of Endless Summer* current model
+
+> **Yuzuki gains the collection's strongest retrospective romantic clarification: she chose the fake relation in hope, wanted it to become real, and called Saku the man she fell for. Her domestic breakfast bid and durable female relations further strengthen an already exceptional position. None supplies direct current Saku singularity or mutually enacted couple status, and none erases V08's consent violation. Basketball vocation and sustained team reconstruction remain open.**
+
+## Volume 09.5 watchlist
+
+- whether explicit Yuzuki-side love receives direct current reciprocal singular wording;
+- whether breakfast or another ordinary bid becomes repeated shared practice without entitlement;
+- whether consent/accountability remains visible during renewed intimacy;
+- whether basketball gains durable institutional and vocational form;
+- whether Haru, Yuko, Yua, and Momiji relations continue as primary obligations rather than romantic scenery.
 
 # V08 main longitudinal revision
 

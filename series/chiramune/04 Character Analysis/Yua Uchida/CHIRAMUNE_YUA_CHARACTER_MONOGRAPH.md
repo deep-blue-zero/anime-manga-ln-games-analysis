@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUA_UCHIDA_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
-generation: V0.8
+scope: YUA_UCHIDA_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Volume 09.5 unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yua Uchida — cumulative character monograph through V09 main
+# Yua Uchida — cumulative character monograph through *Days of Endless Summer*
 
 ## Scope and promotion basis
 
@@ -285,6 +285,32 @@ Yua therefore no longer has to defend the kitchen as proof that she exists. Her 
 - test whether rest, support needs, and ambition gain direct ordinary requests;
 - preserve shared kitchen knowledge below ownership;
 - direct Saku-side singular wording and mutual status only before any selection or couple claim.
+
+# *Days of Endless Summer* longitudinal revision
+
+## Her earliest care contract values presence over solution
+
+On the V01 rooftop Yua understands that she may not be able to solve Saku's problem, stays anyway, and promises to correct him if he loses his own direction `[DES:p-0014#p0034-p0063]`. This retrospective witness clarifies that her ordinary care was relational before it became a contested domestic office.
+
+## Routine restoration confirms reciprocity without erasing the V08 violation
+
+After her apology Saku deliberately restores their familiar practice and says he is uncomfortable with Momiji repeating the same intimate measurement `[DES:p-0062#p0004-p0058]`. This is strong recipient-specific reception. It does not authorize the earlier act, assign Yua ownership, or settle romantic rank.
+
+## Repair with Momiji becomes differentiated practice
+
+In the new story Yua apologizes for being unable to eat Momiji's pasta, accepts her meal, and begins a relationship of recipes and future experiments. When Momiji asks for the dedicated stool, Yua refuses `[DES:p-0078#p0364-p0410]`. The combination matters: accountability can open a dyad without requiring identical access to every symbol of another relationship.
+
+## Post-*Days of Endless Summer* current model
+
+> **Yua's ordinary relation gains both deep history and a current repair form. Saku actively restores their routine, while Yua learns to share food practice with Momiji and retain a clear object-level boundary. This is a stronger model of authored care than either self-erasing service or possessive domestic entitlement. The V08 consent violation remains part of the relation, and no exclusive selection or couple exists.**
+
+## Volume 09.5 watchlist
+
+- direct requests for rest, support, family relation, and ambition beyond care work;
+- whether restored routine becomes shared labor rather than renewed dependence on her service;
+- continued Momiji, Asuka, Yuko, and Yuzuki relations with differentiated boundaries;
+- whether the dedicated stool remains object-level recognition rather than person-level ownership;
+- direct Saku-side singular wording and mutual status only before selection or couple claims.
 
 # V08 main longitudinal revision
 

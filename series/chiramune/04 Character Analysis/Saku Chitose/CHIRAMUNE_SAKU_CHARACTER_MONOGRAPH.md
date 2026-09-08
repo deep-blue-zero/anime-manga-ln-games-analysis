@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
-generation: V1.3
+scope: SAKU_CHITOSE_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Volume 09.5 unopened"
+generation: V1.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Saku Chitose — cumulative character monograph through V09 main
+# Saku Chitose — cumulative character monograph through *Days of Endless Summer*
 
 ## Scope and authority
 
@@ -902,6 +902,32 @@ The epilogue remains conditional about the day he names the heart she saved `[V0
 - whether baseball, study, work, or another path acquires durable stakes;
 - preserve Momiji's immediate refusal and admitted claimant status as distinct;
 - direct singular wording and mutually enacted status only before any couple claim.
+
+# *Days of Endless Summer* longitudinal revision
+
+## Retrospective scenes clarify a long history of receiving corrective presence
+
+The V01 rooftop lunch shows Yua offering presence without a rescue promise and committing to correct Saku if he loses his way `[DES:p-0014#p0034-p0063]`. Haru's early reading of Yuzuki similarly anticipates that Yuzuki may be needed when Saku can no longer sustain the hero form `[DES:p-0012#p0023-p0054]`. These later-admitted witnesses deepen the history behind V09's correction; they do not make Saku originate help seeking.
+
+## He restores Yua's ordinary relation without treating repair as erasure
+
+After Yua's V08 apology, Saku deliberately resumes their familiar routine and says that Momiji repeating the intimate body measurement would make him uncomfortable `[DES:p-0062#p0004-p0058]`. The response is recipient-specific and continuous with the dedicated stool. It neither cancels the violation nor assigns Yua ownership of his kitchen or person.
+
+## His new key request converts admission into mundane responsibility
+
+The newly written story has Saku ask Kura-sensei for another rooftop key and appoint Momiji the third-generation cleaner `[DES:p-0078#p0191-p0204]`. This is a self-originated act of social coordination: he makes V09's answerable standing durable through access and work. It is not a vulnerable request for help with his own distress and does not reverse his refusal to date her.
+
+## Post-*Days of Endless Summer* current model
+
+> **The collection historicizes Saku as a person repeatedly sustained by others' corrective presence and shows one important current advance: he turns Momiji's procedural admission into ordinary entrusted membership. He also restores Yua's routine while retaining a differentiated boundary. These are meaningful acts of relation management, but the core unresolved responsibilities remain: Saku still does not originate a vulnerable support request, name one singular beloved, enact couple status, or choose an operational baseball, study, work, or departure path.**
+
+## Volume 09.5 watchlist
+
+- self-originated vulnerable support seeking rather than social coordination;
+- direct singular wording and mutually enacted status before any couple claim;
+- whether the spring deadline gains an answer, revision, or accountable new boundary;
+- whether baseball, study, work, or another life path gains durable logistics;
+- whether differentiated ordinary care remains compatible with remembered consent and nonownership.
 
 # V08 main longitudinal revision
 

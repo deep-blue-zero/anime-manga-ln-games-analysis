@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no agency transition; Days of Endless Summer and V09.5 unopened"
-generation: V1.2
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT; Volume 09.5 unopened"
+generation: V1.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -510,3 +510,27 @@ V09 adds **hearing jurisdiction and procedural correction**:
 - support as affirmation → **REVISE** through Yuzuki's corrective mirror function.
 - self-originated Saku help requests → **KEEP OPEN**; others initiate the decisive challenge.
 - decision interval → **STRENGTHEN AS ACTIVE OBLIGATION**; deadline and answer content remain open.
+
+# *Days of Endless Summer* update — care circulates without answer capture
+
+| ID | Event / relation | Agency question | Current judgment | Locator |
+|---|---|---|---|---|
+| AI-128 | Yua's V01 rooftop promise | may care be meaningful without solving or owning the recipient? | yes; chosen presence and willingness to correct Saku establish an early non-rescue care contract without romantic authority | `[DES:p-0014#p0034-p0063]` |
+| AI-129 | Asuka refuses Okuno | may preserving friendship qualify a direct refusal? | yes when the refusal is explicit and the finite friendship boundary is stated; her love for Saku does not obligate Okuno or decide Saku | `[DES:p-0022#p0027-p0058]` |
+| AI-130 | networked response after Yuko's refusal | who may intervene in Saku's withdrawal? | Haru recruits Atomu through a practice Saku values, while Kazuki rejects Kaito's blame; distributed care and peer correction do not make Saku passive property | `[DES:p-0033#p0037-p0069]`, `[DES:p-0035#p0050-p0075]` |
+| AI-131 | Saku restores Yua's routine | does repair require removing every differentiated boundary? | no; he resumes ordinary relation while remaining uncomfortable with Momiji repeating an intimate measurement, and the prior violation remains remembered | `[DES:p-0062#p0004-p0058]` |
+| AI-132 | Yua and Momiji reconcile through food | must the harmed relation surrender a recipient-specific object to prove repair? | no; Yua accepts Momiji's meal and future recipe exchange while declining use of Saku's dedicated stool | `[DES:p-0078#p0364-p0410]` |
+| AI-133 | Haru rejects Momiji's full-credit claim | may an intervention claim authorship over another person's unlocked capacity? | no; Momiji helped create conditions, but Haru preserves Yuzuki's capacity and eventual agency as her own | `[DES:p-0078#p0564-p0608]` |
+| AI-134 | Saku requests and Momiji accepts a new roof key | what converts symbolic admission into accountable practice? | an explicit request, entrusted maintenance, and accepted responsibility enact access below romantic consent | `[DES:p-0078#p0191-p0204]` |
+
+## Agency rule after *Days of Endless Summer*
+
+Repair may restore routine, share technique, and create entrusted responsibility while retaining memory and differentiated limits. Helpful intervention can create conditions for another person's action but may not claim authorship of that person's capacity or answer. Social admission authorizes participation, not dating, ownership, or compulsory reciprocity.
+
+## Current revision state
+
+- non-erasing repair → **STRENGTHEN THROUGH DIFFERENTIATED LIMITS**.
+- distributed intervention → **STRENGTHEN / DENY AUTHORSHIP CAPTURE**.
+- Momiji roof access → **ENACT AS RESPONSIBILITY**, not romantic permission.
+- Saku self-originated vulnerable support request → **KEEP OPEN**; his key request is social coordination, not a request for help with his own distress.
+- couple/selection authority → **KEEP OPEN**.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no diegetic self-authorship transition; Days of Endless Summer and V09.5 unopened"
-generation: V1.3
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT; Volume 09.5 unopened"
+generation: V1.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -458,3 +458,30 @@ V09 completes the distinction opened in V08. Performance is neither a false shel
 - Saku's answer authorship → **STRENGTHEN PROCEDURE / KEEP CONTENT OPEN**.
 - group identity → **END UNCHANGED FORM / PRESERVE RELATIONS**.
 - couple/selection state → **KEEP OPEN**; exceptional Yuzuki differentiation and Momiji admission do not create singularity.
+
+# *Days of Endless Summer* update — retrospective voices and a lived successor form
+
+## Entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-118 | Yuzuki / fake-to-real retrospective | before and after the V02 crisis she chooses risk, wants the false relation to become real, and later names Saku internally as the man she fell for | authored romantic continuity precedes V09's mirror language and strengthens its history | later-admitted Yuzuki-side testimony is not current reciprocal selection | `[DES:p-0016#p0027-p0048]`, `[DES:p-0018#p0022-p0048]`, `[DES:p-0019#p0031-p0076]` |
+| SA-119 | Asuka / refusal and vocational listening | she refuses Okuno because she loves Saku, studies a failed interview, accepts correction, and helps a child through literature at AKUSHU | exclusive directional love coexists with an authored vocational/local practice not reducible to Saku | historical Asuka-side exclusivity is not Saku-side selection; career logistics remain open | `[DES:p-0022#p0027-p0058]`, `[DES:p-0044#p0002-p0058]`, `[DES:p-0050#p0044-p0079]` |
+| SA-120 | Yua / chosen care and public-self continuity | she invites Asuka into repair, maintains meal practice, receives restored routine, and chooses a differentiated boundary with Momiji | ordinary care becomes authored when she may share technique, request relation, and retain limits | competence, routine, and a dedicated object do not confer ownership or erase V08 | `[DES:p-0038#p0049-p0069]`, `[DES:p-0046#p0002-p0053]`, `[DES:p-0062#p0004-p0058]`, `[DES:p-0078#p0364-p0410]` |
+| SA-121 | Haru / technique and fair contest | she adopts Mai's shooting advice, learns food from Yua, trusts Yuzuki's self-unlocking, and frames sport and romance as contests she must run herself | athletic, domestic, relational, and romantic selves become selectable practices rather than fixed offices | family fantasy and competitive language settle neither vocation nor romance | `[DES:p-0048#p0055-p0083]`, `[DES:p-0058#p0027-p0058]`, `[DES:p-0078#p0564-p0624]` |
+| SA-122 | women's band / finite performance | the band remains a relation independent of Saku, and its members refuse a replacement for Asuka after the one-time event | authored performance can form durable relation precisely through a bounded occurrence | durability does not require a repeat performance or a new specialist file | `[DES:p-0064#p0030-p0050]`, `[DES:p-0078#p0128-p0163]` |
+| SA-123 | Momiji / third-key responsibility | she accepts roof-cleaner responsibility, names happiness at group entry without treating it as a stopping point, and authors new cross-grade and food relations | V09's heard-claimant status becomes ordinary entrusted participation rather than a frozen confession scene | social admission and continued pursuit do not establish dating or reciprocal love | `[DES:p-0078#p0092-p0104]`, `[DES:p-0078#p0191-p0204]`, `[DES:p-0078#p0241-p0288]` |
+
+## Authenticity rule after *Days of Endless Summer*
+
+> **A later collection can make earlier self-authorship more legible without moving it into the present. Across the current bridge, authentic continuity is enacted through repeatable responsibility, transmissible skill, chosen limits, fair contest, and relations that survive a one-time performance. Directional love and future fantasy remain authored truths about their speakers, not authority over another person's answer.**
+
+## Current revision state
+
+- earlier directional testimony → **ADMIT RETROSPECTIVELY / DO NOT REWRITE FREEZES**.
+- Yuzuki's fake-to-real trajectory → **STRENGTHEN HISTORICALLY / PRESERVE NONSELECTION**.
+- Asuka's romantic direction and vocational practice → **STRENGTHEN AS COEXISTING AUTHORSHIPS**.
+- Yua's ordinary identity → **STRENGTHEN THROUGH SHARING AND BOUNDARY**, with V08 accountability preserved.
+- Haru's integrated sport/romance grammar → **STRENGTHEN / KEEP OUTCOMES OPEN**.
+- Momiji's transparent pursuit → **ENACT AS ORDINARY RESPONSIBILITY**, not couple status.
+- performance-specialist promotion → **DEFER**; retrieval remains reliable through this ledger, source readings, and monographs.

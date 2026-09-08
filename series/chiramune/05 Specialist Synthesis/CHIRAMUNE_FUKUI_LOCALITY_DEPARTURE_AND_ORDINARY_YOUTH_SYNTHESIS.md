@@ -1,11 +1,11 @@
 ---
 series: CHIRAMUNE
 artifact_type: specialist_synthesis
-scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements through V06.5 integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT with no independent locality transition; Days of Endless Summer and V09.5 unopened"
+scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT with no independent locality transition; Volume 09.5 unopened"
 latest_analyzed_main: V09_MAIN
-latest_analyzed_supplemental: V06_5_FOUR_STORY_VOLUME
-generation: V0.8
+latest_analyzed_supplemental: DAYS_OF_ENDLESS_SUMMER
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -13,7 +13,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Fukui locality, departure, and ordinary youth — synthesis through V09 main
+# Fukui locality, departure, and ordinary youth — synthesis through *Days of Endless Summer*
 
 ## Responsibility and promotion decision
 
@@ -464,11 +464,40 @@ The afterword's 2024 Fukui collaboration and anime announcement are production-e
 
 > **Through V09, Fukui becomes civic authorship infrastructure whose value lies in usable limits. Phoenix Plaza, school, parks, rooftops, vendors, food practices, families, teachers, and the bonfire let young people inherit resources, distribute labor, disclose desire, repair harm, and release an unchanged group form. `Shoot the blue moon` joins the series' finite-object grammar: rarity asks what can be carried forward, not what must be frozen. Local routes survive changed relationships, while Tokyo, basketball, baseball, editing, and other life courses remain serious but non-operational choices.**
 
-## XXXI. *Days of Endless Summer* research questions
+## XXXI. *Days of Endless Summer* update — local places become aftercare routes
 
-- classify every component's publication and diegetic placement before building a blanket summer chronology;
-- test whether named places add independent use, history, or institutional function rather than scenic repetition;
-- distinguish retrospective ordinary texture from a current post-V09 transition;
-- track whether food, domestic labor, and local knowledge remain transmissible without fixed gendered ownership;
-- preserve Tokyo, basketball, baseball, and editing as open unless a story supplies durable logistics;
-- bound compilation paratext and any regional-collaboration testimony to production history.
+### Retrospective components reveal a distributed support ecology
+
+AKUSHU is not only a shop backdrop: Asuka uses its books and adult employment network to help a child encounter a difficult alternative, while preserving the child's authority to interpret `[DES:p-0050#p0044-p0079]`. Editorial interviews, family advice, school practice, kitchens, riverbank meetings, and Kanazawa travel likewise distribute guidance across adults, peers, institutions, and places rather than returning every intervention to Saku.
+
+### Food knowledge circulates without fixed ownership
+
+Yua invites Asuka to the repair festival, teaches her omurice, and maintains chosen meal practice; Yuzuki offers future breakfast; Haru learns from Yua; Momiji later opens a recipe relation with Yua `[DES:p-0038#p0049-p0069]`, `[DES:p-0046#p0002-p0053]`, `[DES:p-0058#p0027-p0058]`, `[DES:p-0070#p0025-p0058]`, `[DES:p-0078#p0364-p0410]`.
+
+Transmission neither erases provenance nor grants romantic title. The dedicated stool can remain a bounded object while recipes and meals move through the network.
+
+### Takoku and the school roof turn festival repair into ordinary continuation
+
+The new story begins at Takoku with a ten-person celebration and an independently remembered women's band relation `[DES:p-0078#p0092-p0163]`. Saku then obtains another roof key and entrusts Momiji with third-generation cleaning work `[DES:p-0078#p0191-p0204]`. Restaurant and roof convert V09's spectacular outcome into food, conversation, maintenance, and repeatable access.
+
+### Cross-grade and recreational routes hold finite time without denying it
+
+Asuka and Momiji use the roof to reinterpret senior/junior difference as both exclusion and relational resource `[DES:p-0078#p0241-p0288]`. Leisure Land lets the group move through ordinary play and differentiated conversations, and the closing walk to Hachiban keeps graduation and changing color visible rather than restoring the old blue stasis `[DES:p-0078#p0626-p0650]`.
+
+### Life-course choices remain serious but non-operational
+
+Asuka's improved editorial method, Haru and Yuzuki's athletic capacity, and Saku's continuing baseball availability all gain texture. None receives the education, schedule, housing, transport, employment, team-governance, or resource commitments needed to close Tokyo, editing, basketball, or baseball futures.
+
+The afterword's collection and anime-production testimony remains paratext. It explains publication form and author participation but does not establish fictional motive or current regional conditions `[DES:p-0079#p0002-p0010]`.
+
+## XXXII. Current specialist model after *Days of Endless Summer*
+
+> **Fukui now reads not only as civic authorship infrastructure but as an intergenerational aftercare network. Takoku, AKUSHU, the riverbank, school roof, Phoenix Plaza memory, Leisure Land, Hachiban, kitchens, teachers, parents, and local adults let singular events acquire ordinary aftermath through meals, mentorship, recreation, maintenance, and return. Place does not freeze relation: it carries differentiated access while graduation, Tokyo, sport, work, and other departures remain real. Food knowledge circulates without fixed gendered ownership, and no local route by itself decides romance or vocation.**
+
+## XXXIII. Volume 09.5 research questions
+
+- whether any local site gains a new institutional use rather than scenic repetition;
+- whether aftercare routes remain available across class-trip or graduation pressure;
+- whether Tokyo, editing, basketball, baseball, or another life path gains operational logistics;
+- whether domestic knowledge continues to circulate with consent, reciprocity, and bounded ownership;
+- whether production paratext remains separate from fictional geography and current regional fact.

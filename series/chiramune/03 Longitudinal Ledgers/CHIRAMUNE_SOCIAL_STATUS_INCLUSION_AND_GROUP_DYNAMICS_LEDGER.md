@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no group-state transition; Days of Endless Summer and V09.5 unopened"
-generation: V1.2
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT; Volume 09.5 unopened"
+generation: V1.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -519,3 +519,28 @@ V09 turns the finite moratorium into **transparent plurality after formal closur
 - full-group relation → **PRESERVE IN RECONFIGURED FORM**; not unchanged harmony and not total dissolution.
 - distributed leadership → **STRENGTHEN** through performance labor and group correction of Saku.
 - Yuzuki/Haru team reconstruction → **PARTIAL**; race adaptation and partnership strengthen, sustained basketball coordination remains open.
+
+# *Days of Endless Summer* update — transparent plurality becomes ordinary practice
+
+| ID | Social node / event | Source fact | Current implication | Locator |
+|---|---|---|---|---|
+| SG-101 | retrospective women's network | Yuko, Yuzuki, Yua, Haru, Asuka, Kotone, Nazuna, Mai, and Momiji exchange refusal knowledge, training, recipes, rivalry, and future promises | the social field has long produced its own norms and resources rather than existing only as claimants around Saku | `[DES:p-0036#p0041-p0061]`, `[DES:p-0040#p0048-p0063]`, `[DES:p-0042#p0031-p0061]`, `[DES:p-0055#p0040-p0055]` |
+| SG-102 | finite band relation | Asuka's bandmates reject a substitute and later name the performance as an independent women's relation | a bounded public collaboration can remain socially durable without institutional permanence or a male organizer | `[DES:p-0064#p0030-p0050]`, `[DES:p-0078#p0128-p0163]` |
+| SG-103 | ten-person Takoku celebration | Momiji joins the celebration, calls herself happy to enter the group, and refuses to make entry an endpoint | transparent plurality becomes ordinary gathering rather than a one-scene procedural exception | `[DES:p-0078#p0092-p0104]` |
+| SG-104 | third-generation roof cleaner | Saku obtains a new key and Momiji accepts maintenance responsibility | material access becomes accountable membership below romantic rank | `[DES:p-0078#p0191-p0204]` |
+| SG-105 | Asuka/Momiji cross-grade alliance | both name exclusion from same-grade events while recognizing senior/junior difference as the condition of their distinctive ties | structural difference can create both loss and relational resource without being romantic hierarchy | `[DES:p-0078#p0241-p0288]` |
+| SG-106 | Yua/Momiji food relation | apology, accepted meal, recipes, and future experiments coexist with a firm stool boundary | inclusion need not mean identical access; repair can create a differentiated dyad | `[DES:p-0078#p0364-p0410]` |
+| SG-107 | Haru/Momiji fair contest | they reaffirm direct athletic and romantic competition while preserving Haru's independent Yuzuki partnership | rivalry can stabilize as explicit practice without expulsion, sameness, or settled rank | `[DES:p-0078#p0564-p0624]` |
+| SG-108 | walk to Hachiban | the group continues after the festival toward an ordinary local meal while graduation and changing colors remain visible | the old unchanged form has an afterlife of maintained routes, not restoration of the prior moratorium | `[DES:p-0078#p0626-p0650]` |
+
+## Group rule after *Days of Endless Summer*
+
+The successor to the unchanged blue form is not a new fixed roster or harmony claim. It is a network of differentiated, accountable access: keys carry work, recipes can circulate without erasing ownership, rivals can name competition, and cross-grade difference can form new alliances. Inclusion is repeatable ordinary practice while romantic answers and future group topology remain open.
+
+## Current revision state
+
+- Momiji's V09 procedural admission → **ENACT AS ORDINARY GROUP RESPONSIBILITY**.
+- unchanged-blue closure → **PRESERVE / SHOW NETWORKED AFTERLIFE**.
+- female lateral relations → **MAJOR STRENGTHEN AS NORM-MAKING NETWORK**.
+- identical-access model of inclusion → **REJECT**; differentiated boundaries can be legitimate.
+- full-group future topology → **KEEP OPEN** through graduation and V09.5.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUKO_HIIRAGI_V01_V09_MAIN
-source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
-generation: V0.8
+scope: YUKO_HIIRAGI_THROUGH_DAYS_OF_ENDLESS_SUMMER
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated through Days of Endless Summer; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Volume 09.5 unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuko Hiiragi — cumulative character monograph through V09 main
+# Yuko Hiiragi — cumulative character monograph through *Days of Endless Summer*
 
 ## Scope and promotion basis
 
@@ -347,6 +347,30 @@ It is a bounded stage handoff, not romantic surrender, self-removal, or proof th
 - test whether ordinary contact and support seeking gain new current practice;
 - preserve entrusted symbols below romantic surrender or rank;
 - distinguish historical hero recognition from later person-level observation;
+- direct reciprocal evidence only before any couple claim.
+
+# *Days of Endless Summer* longitudinal revision
+
+## Refusing Kaito helps her understand rather than overturn Saku's refusal
+
+After refusing Kaito, Yuko recognizes the pain and possible incompleteness of giving an answer, then resolves that her own love for Saku is not reducible to first sight `[DES:p-0036#p0041-p0061]`. The parallel creates ethical imagination, not proof that Saku's refusal was false or temporary.
+
+## Jealousy becomes compatible with valuing the women she loves
+
+Yuko admits jealousy while also valuing that beloved friends love the same person `[DES:p-0040#p0048-p0063]`. At camp she and Yua hope their friendship survives any answer, and she tells Asuka that shared love can create friendship rather than outsider status `[DES:p-0053#p0056-p0062]`, `[DES:p-0055#p0040-p0055]`.
+
+These later-admitted scenes give the mature form of her non-attacking rivalry a deeper history. They also establish lateral continuity as something Yuko wants in its own right.
+
+## Post-*Days of Endless Summer* current model
+
+> **Yuko's directional love remains active after a refusal she understands more fully from both sides. Her distinguishing strength is not passive acceptance: she preserves desire while building friendships that can survive divergent answers and refusing to treat another woman's love as contamination. The collection supplies no new Saku bid, reciprocal exclusive wording, reversal of refusal, or couple status.**
+
+## Volume 09.5 watchlist
+
+- ordinary direct contact with Saku that respects the completed refusal;
+- self-originated private support seeking rather than public composure alone;
+- enacted continuity with Yua, Yuzuki, Asuka, and Momiji independent of romantic outcome;
+- whether Kaito friendship develops as chosen practice;
 - direct reciprocal evidence only before any couple claim.
 
 # V08 main longitudinal revision
