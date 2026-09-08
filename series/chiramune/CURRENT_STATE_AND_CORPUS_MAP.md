@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: corpus_map
-scope: JP_LIGHT_NOVEL_BOOTSTRAP
-source_boundary: "Japanese-language light-novel EPUB corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; source audit dated 2026-08-29"
-generation: V0.1
+scope: JP_LIGHT_NOVEL_OPEN_ENDED_ANALYSIS
+source_boundary: "Japanese-language light-novel EPUB corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; source audit dated 2026-08-29 and official publisher catalog rechecked 2026-09-07; main analysis frozen through Volume 02"
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -30,9 +30,35 @@ See `01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md` before
 
 ## Current analytical state
 
-**Bootstrap only. No volume deep reading, longitudinal ledger, character monograph, relationship synthesis, or full-series synthesis is yet canonical in this root.**
+**The full-series architecture and reconciled V01–V02 analytical baseline are established on the continuing Chiramune branch. The latest numbered prospective freeze is V02; main V03 is the next safe source.**
 
-The source corpus is available and integrity-audited, but source possession is not analysis. This bootstrap deliberately does not import assumptions about Saku Chitose, the friend group, popularity, authenticity, romance, or social competence as findings. Those are questions to test against the Japanese text.
+The baseline contains distinct V01 and V02 deep readings and freezes, five rolling longitudinal responsibilities, and active-provisional Saku Chitose and Yuzuki Nanase monographs. No supplemental witness or V03+ narrative has been opened for analytical integration at this boundary. The repository artifacts preserve V01 and V02 as separate epistemic states rather than treating V02 as permission to rewrite V01.
+
+`00 Frameworks and Methods/CHIRAMUNE_FULL_SERIES_ARCHITECTURE.md` governs the open-ended corpus, atomic closeout, horizon tracking, revision route, synthesis layers, and adaptation boundary.
+
+## Horizon vector
+
+| Horizon | Current state | Evidence / limit |
+|---|---|---|
+| latest known publication (`H_pub`) | Volume 09.5 | official Shogakukan series catalog rechecked 2026-09-07: 14 listed releases, ending with Volume 09.5; retailer-exclusive completeness is not claimed |
+| latest source acquired (`H_acq`) | main V09; supplemental V09.5 | 14 locked EPUB objects; all live local hashes reverified against the source lock before the V01–V02 baseline |
+| latest main volume analyzed (`H_main`) | V02 | V01 and V02 deep readings and prospective freezes present |
+| supplemental analysis (`H_supp`) | none | acquired supplements remain unopened for analysis until their safe boundaries |
+| next safe reading (`H_next`) | main V03 | freeze V03 before opening the V03 illustration/SS booklet |
+
+Unresolved acquisition scope is limited to unclaimed retailer-exclusive or ephemeral bonuses and future publications. There is no missing numbered main volume through V09 in the locked inventory. Regular-edition V08 is not separately held, but its complete narrative is present in the special-edition witness.
+
+```yaml
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume_then_safe_supplement
+  authorized_start: V03
+  terminal_boundary: ALL_ADMITTED_SOURCES_IN_LIVE_INVENTORY_AT_RUN_START
+  committed_high_water_mark: V02
+  next_candidate_operation: V03
+  confirmation_between_units: false
+  run_state: active
+```
 
 ## Source boundary
 
@@ -54,56 +80,62 @@ Read in this order for new Chiramune analytical work:
 
 1. `CURRENT_STATE_AND_CORPUS_MAP.md`
 2. `00 Frameworks and Methods/CHIRAMUNE_ANALYTICAL_METHOD.md`
-3. `01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md`
-4. the relevant frozen sequential reading(s), once they exist;
-5. only the longitudinal, character, or specialist artifact needed for the task.
+3. `00 Frameworks and Methods/CHIRAMUNE_FULL_SERIES_ARCHITECTURE.md`
+4. `01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md`
+5. the latest prospective freeze and `03 Longitudinal Ledgers/CHIRAMUNE_REVISION_LEDGER.md`;
+6. only the rolling ledger, character model, or earlier source-bound reading needed for the task.
 
 The Japanese prose is the current semantic anchor. Later anime material, official interviews, reception research, translations, or other adaptations may become separate witnesses, but they do not silently alter this source boundary.
 
 ## Corpus architecture
 
-| Layer | Analytical responsibility | Bootstrap state |
+| Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing source-reading, inference, prospective-freeze, and comparison rules | populated; canonical V0.1 |
+| `00 Frameworks and Methods` | Governing source-reading, inference, prospective-freeze, multi-document full-series accumulation, comparison, and synthesis rules | populated; analytical method V0.2 and full-series architecture V0.2 |
 | `01 Source Lock and Inventory` | Exact acquired-source boundary, integrity state, and Drive routing | populated; canonical V0.1 |
-| `02 Sequential Readings` | Volume-by-volume prospective deep readings | contract present; no readings yet |
-| `03 Longitudinal Ledgers` | Recurring cross-volume state/relationship/theme tracking | routing contract present; no ledgers yet |
-| `04 Character Analysis` | Character syntheses created only after evidence warrants them | routing contract present; no monographs yet |
-| `05 Specialist Synthesis` | Dense recurring thematic/relationship/form questions | not instantiated |
-| `06 Full-Series Synthesis` | Source-bound integrated synthesis | not instantiated |
-| `07 Evidence and Indexes` | Git-side claim/evidence routing if later needed | not instantiated; source lock is sufficient at bootstrap |
-| `08 Audits and Manifests` | Bootstrap inventory and path-integrity records | populated |
+| `02 Sequential Readings` | Volume-by-volume prospective deep readings and immutable freezes | V01 and V02 frozen; V03 next |
+| `03 Longitudinal Ledgers` | Claim revision plus recurring cross-volume state/relationship/theme tracking | revision, self-authorship, agency, social-status, and relationship ledgers active through V02 |
+| `04 Character Analysis` | Character syntheses created only after evidence warrants them | Saku and Yuzuki active-provisional monographs through V02 |
+| `05 Specialist Synthesis` | Dense recurring thematic/relationship/form and future adaptation/performance questions | not instantiated; responsibilities defined by architecture |
+| `06 Full-Series Synthesis` | Router for the multi-document portfolio and rolling analyzed-to-date integration, conceptually separate from terminal full-series synthesis | router present; no synthesis promoted at V02 |
+| `07 Evidence and Indexes` | Git-side cross-volume claim/evidence routing if later needed | not instantiated; source lock plus reading-local locators are sufficient through V02 |
+| `08 Audits and Manifests` | Bootstrap inventory, package reconciliation, and later analytical/source-integrity records | bootstrap manifest plus V01–V02 reconciliation audit |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
 
 The absence of a directory is intentional. Do not create empty categories merely to make Chiramune resemble another project.
 
-## Initial analytical questions — not findings
+## V02 entering state for V03
 
-The first sequential pass should test, rather than assume, questions including:
+The exact V02 claim boundary and V03 questions live in:
 
-- when social fluency is practiced competence, self-presentation, role performance, deception, or care;
-- how self-fashioning relates to authenticity and self-authorship;
-- how informal status and leadership redistribute agency within a peer group;
-- how inclusion, exclusion, popularity, desirability, and stigma are narrated from inside the social center rather than only from its margins;
-- how friendship, romance, gendered expectation, and adolescent desirability interact with individual choice;
-- how aspiration, future adulthood, and the ideal of a bright youth are affirmed, complicated, or resisted;
-- where first-person focalization or self-description diverges from what other characters and events establish.
+- `02 Sequential Readings/CHIRAMUNE_V02_PROSPECTIVE_FREEZE.md`;
+- `03 Longitudinal Ledgers/CHIRAMUNE_REVISION_LEDGER.md`;
+- the four thematic/relationship ledgers;
+- the Saku and Yuzuki monographs.
 
-Comparisons to *Oregairu*, *AoButa*, *Classroom of the Elite*, or other corpus titles are downstream comparative operations. They must not become templates imposed on the Chiramune text before its own evidence is read.
+The required high-level guardrails are:
 
-## Initial work order
+- do not encode Saku and Yuzuki as mutually acknowledged lovers at V02;
+- preserve Yuzuki's named love and Saku's attraction/attachment without symmetric labeling;
+- preserve both the successful outcome and nonconsensual method of Saku's V02 intervention;
+- test rather than assume the durability of Kenta's integration, Yuzuki's new jurisdictional core, Haru's corrective role, Asuka's departure pressure, and the broadened Ramune motif;
+- continue distinguishing real competence from self-narration and social performance from falseness.
 
-1. Produce `CHIRAMUNE_V01_DEEP_READING.md` from the Japanese Volume 01 source.
-2. Freeze the Volume 01 reading and its bounded expectations before opening Volume 02 for analysis.
-3. Continue main numbered volumes prospectively, preserving what each stage knew before later-volume evidence.
-4. Integrate supplemental material only after its publication/diegetic relationship to the mainline boundary is classified; do not retroactively contaminate earlier prospective audits.
-5. Instantiate longitudinal ledgers only after a responsibility recurs enough to benefit from a canonical cross-volume home.
-6. Create character monographs only after sufficient longitudinal evidence exists; do not pre-create character folders from cast lists.
-7. Treat a later anime pass as a distinct adaptation/performance witness unless a future source-lock revision explicitly expands the governing boundary.
+Comparisons to *Oregairu*, *AoButa*, *Classroom of the Elite*, PACTRIH, or other corpus frameworks remain downstream operations. Reconstruct Chiramune on its own evidence first.
 
-## Bootstrap abstentions
+## Continuous work order from V03
 
-- No character personality claim is canonical merely because it appeared in a synopsis, marketing copy, fandom discussion, or an earlier ChatGPT conversation.
+1. Begin main V03 from the frozen V02 state and no later evidence.
+2. Complete the V03 deep reading, claim-revision and affected-ledger updates, earned character updates, prospective freeze, and corpus-map advance as one atomic transaction.
+3. Publish and verify that checkpoint before opening the V03 booklet.
+4. Classify and integrate the V03 illustration/SS booklet only after the V03 main freeze, using a separate supplemental checkpoint when warranted.
+5. Continue main numbered volumes in order, following the V05, V06.5, V08, *Days of Endless Summer*, and V09.5 handling rules in the architecture and source lock.
+6. Keep committing and pushing coherent validated checkpoints to `series/chiramune` until every currently admitted source reaches its safe chronological boundary.
+7. Do not merge to `main`; integration remains owner-controlled and separately governed.
+
+## Standing abstentions
+
+- No character personality claim is current merely because it appeared in a synopsis, marketing copy, fandom discussion, or an earlier ChatGPT conversation.
 - No kanji name reading is inferred by generic CJK transliteration when an official/furigana reading is available or required.
 - No retailer-exclusive SS is treated as present unless it is actually acquired and audited.
 - No PACTRIH score or other comparative ethical placement is assigned before source-grounded character evidence is sufficient.

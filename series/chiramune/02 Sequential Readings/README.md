@@ -2,7 +2,7 @@
 series: CHIRAMUNE
 artifact_type: sequential_reading_contract
 scope: VOLUME_BY_VOLUME_ANALYSIS
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 ---
@@ -19,6 +19,12 @@ Use:
 - `CHIRAMUNE_V02_DEEP_READING.md`
 - continuing by numbered main volume.
 
+Pair every numbered reading with:
+
+- `CHIRAMUNE_V01_PROSPECTIVE_FREEZE.md`
+- `CHIRAMUNE_V02_PROSPECTIVE_FREEZE.md`
+- continuing by numbered main volume.
+
 Create a supplemental reading only when an acquired supplement has actually been read and has enough analytical responsibility to warrant its own artifact. Do not create placeholder files for unread volumes.
 
 ## Prospective rule
@@ -26,6 +32,8 @@ Create a supplemental reading only when an acquired supplement has actually been
 Each numbered main volume is read from the frozen analytical state produced by the prior numbered volume. Record expectations/open questions before opening the new volume for analysis, audit them afterward, then freeze the new reading before advancing.
 
 Later volumes can revise the current model. They cannot rewrite the historical record of what the earlier source boundary supported.
+
+The current frozen main-volume high-water mark is **V02**. Main V03 is next and remains unopened for analysis at this boundary.
 
 ## Supplemental sequencing
 
@@ -52,3 +60,14 @@ A numbered deep reading should cover, as evidence warrants:
 - prospective expectations for the next unread numbered volume.
 
 The deep reading is an analytical artifact, not a chapter-by-chapter plot transcript.
+
+## Transactional closeout
+
+Before opening the next numbered volume or a supplement whose safe horizon follows the current volume, also update:
+
+- `../03 Longitudinal Ledgers/CHIRAMUNE_REVISION_LEDGER.md`;
+- only the rolling ledgers materially affected;
+- earned character models;
+- `../CURRENT_STATE_AND_CORPUS_MAP.md`.
+
+Freeze and publish the complete transaction under the current repository governance before advancing. See `../00 Frameworks and Methods/CHIRAMUNE_FULL_SERIES_ARCHITECTURE.md` for the full atomic contract.
