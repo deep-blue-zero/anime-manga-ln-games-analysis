@@ -56,7 +56,7 @@ The source root contains a contiguous Japanese CBZ spine **V01-V36**.
 
 **Latest validation artifact:** `05 Validation and Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md` — terminal reconstruction self-audit; the original full-series validation audit remains separate.
 
-**Current character first read:** [sixteen-model router](04%20Final%20Character%20Model/README.md) — six expanded validated models and ten bounded substantial models, with no new readiness promotion.
+**Current character first read:** [character-model router](04%20Final%20Character%20Model/README.md) — seventeen artifacts: six expanded validated models and eleven bounded substantial models, including Ikumi Mito, with no new readiness promotion.
 
 **Current master synthesis:** `04 Full-Series and Specialist Syntheses/SHOKUGEKI_FULL_SERIES_SYNTHESIS.md`
 
@@ -1189,7 +1189,7 @@ The V35 prospective audit resolves at `7 CONFIRM / 1 PARTIAL / 0 MISS / 0 UNTEST
 - `04 Final Character Model/SHOKUGEKI_AZAMI_CHARACTER_MONOGRAPH.md`
 - `04 Final Character Model/SHOKUGEKI_ASAHI_CHARACTER_MONOGRAPH.md`
 
-The [character router](04%20Final%20Character%20Model/README.md) now also links ten bounded reconstruction models: Mana, Senzaemon, Hisako, Takumi, Hayama, Alice, Ryō, Shinomiya, Tsukasa, and Rindō. They retain `substantial` or `substantial, provisional` readiness. The six validated models above are expanded in place, and the evidence matrix reflects their already-completed validation promotion. Specialist and ensemble authority remains separate.
+The [character router](04%20Final%20Character%20Model/README.md) now also links eleven bounded reconstruction models: Mana, Senzaemon, Hisako, Takumi, Hayama, Alice, Ryō, Shinomiya, Tsukasa, Rindō, and Ikumi Mito. They retain `substantial` or `substantial, provisional` readiness. The six validated models above are expanded in place, and the evidence matrix reflects their already-completed validation promotion. Specialist and ensemble authority remains separate.
 
 ## Current specialist and evidence authority
 
@@ -1202,4 +1202,6 @@ The canonical evidence layer contains:
 - `06 Evidence and Indexes/SHOKUGEKI_CHARACTER_EVIDENCE_MATRIX.md`;
 - `06 Evidence and Indexes/SHOKUGEKI_V1_TO_V2_CROSSWALK.md`.
 
-The original terminal content audit remains preserved with its open claims. The separate [reconstruction-fidelity audit](05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) evaluates all sixteen expanded/bounded artifacts and records the Megumi attribution corrections, state and recipient tests, and required abstentions. This terminal expansion does not revise the thirty-six sequential readings, six frozen checkpoints, or V1 scorecards. Stable-branch publication does not constitute or authorize main-branch integration.
+The original terminal content audit remains preserved with its open claims. The separate [reconstruction-fidelity audit](05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) covers all seventeen expanded/bounded artifacts: the original sixteen-model review and a subsequent Ikumi addendum, preserving the Megumi attribution corrections, state and recipient tests, and required abstentions. This terminal expansion does not revise the thirty-six sequential readings, six frozen checkpoints, or V1 scorecards. Stable-branch publication does not constitute or authorize main-branch integration.
+
+Ikumi's addition carries the explicit V20/V21 `substantial, provisional` state and uses the latest detailed school-era default; her adult endpoint remains unestablished by the present analytical coverage. Twenty-two original V02/V06 images were re-inspected for exact register, post-loss behavior, and supplementary ordinary refusal/acceptance. The state, voice, and relationship ledgers append those observations, and the fidelity audit records hash-matched source provenance. No whole-volume or full-series reread occurred, and the original sixteen models are unchanged by this addition.

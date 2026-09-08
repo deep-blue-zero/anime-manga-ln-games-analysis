@@ -4,12 +4,12 @@ artifact_type: character_evidence_matrix
 scope: FULL_SERIES_V01-V36
 generation: V2
 status: canonical
-source_boundary: Complete original-Japanese sequential V2 reread and terminal readiness adjudication
+source_boundary: Complete original-Japanese V2 corpus; terminal adjudication and subsequent Ikumi targeted verification
 created: 2026-09-08
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated_scope: V36_TERMINAL
+last_updated_scope: V36_TERMINAL_WITH_MITO_RECONSTRUCTION_RECONCILIATION
 ---
 
 # SHOKUGEKI_CHARACTER_EVIDENCE_MATRIX
@@ -21,7 +21,7 @@ last_updated_scope: V36_TERMINAL
 - `BOUNDED`: useful but role-, arc-, or montage-concentrated.
 - `ABSENT`: not enough direct evidence for responsible reconstruction.
 
-Readiness follows the canonical ledger. The six V36 pre-audit `monograph_ready` states were already promoted to `validated_model` by the original terminal audit; the current cells below now reflect that completed transition. This matrix update creates no promotion. For artifact availability and first reads use the [sixteen-model router](../04%20Final%20Character%20Model/README.md).
+Readiness follows the canonical ledger. The six V36 pre-audit `monograph_ready` states were already promoted to `validated_model` by the original terminal audit; the current cells below now reflect that completed transition. This matrix update creates no promotion. For artifact availability and first reads use the [character-model router](../04%20Final%20Character%20Model/README.md).
 
 | Character | Formation / ordinary range | Craft or evaluative practice | Adverse evidence / correction | Relationship range | Authority / institution | Endpoint | Terminal readiness |
 |---|---|---|---|---|---|---|---|
@@ -41,9 +41,12 @@ Readiness follows the canonical ledger. The six V36 pre-audit `monograph_ready` 
 | Tsukasa Eishi | STRONG — childhood difference and First Seat | DENSE — ingredient service, exact dishes, kitchen authority | DENSE — rebel course loss, Asahi loss, recognition surfaces | STRONG — Rindō, Soma, Isshiki, Central | DENSE — First Seat and Central leadership | BOUNDED — adult chef trajectory | `substantial` |
 | Kobayashi Rindō | STRONG — field appetite, travel, rare ingredients | DENSE — alligator, pirarucu, ants/mushroom course | STRONG — exertion and final course loss; fear cause unresolved | STRONG — Tsukasa, peers/opponents | STRONG — Central alignment with heterogeneous conduct | BOUNDED — adult trajectory | `substantial` |
 | Arato Hisako | STRONG — service role, work placement, ordinary loyalty | STRONG — medicinal cuisine and administrative competence | STRONG — Election loss, forced dismissal, individuation | DENSE — Erina, Soma, peers | STRONG — aide and institutional operator | STRONG — adult support to Erina | `substantial, provisional` |
+| Ikumi Mito | STRONG — successor pressure, club and community work; supplementary ordinary detail | STRONG — meat craft, functional selection, authored curry, shared service | STRONG — fair donburi loss and technical revision; later adverse response limited | STRONG — Soma, Erina, Konishi/club, community collaborators | BOUNDED — early enforcer and later 3–0 society defender; sustained accountability unshown | ABSENT — insufficient detailed adult Ikumi coverage in the present analytical record | `substantial, provisional` |
 
 ## Promotion rationale
 
 The six characters promoted from `monograph_ready` to `validated_model` in the original terminal audit each have enough contrary evidence to prevent a celebratory summary from becoming a model. Soma loses repeatedly; Erina regresses; Megumi overreaches and loses; Jōichirō collapses; Azami's motive does not legitimate his system; Asahi's craft does not legitimate possession and his rehabilitation lacks a full process. Those adverse surfaces are prerequisites for responsible reconstruction, not obstacles to it.
 
-The substantial group remains essential to full-series interpretation. Ten bounded reconstruction models now expose their supported behavior and their missing ordinary, interior, or endpoint conditions. Specialist syntheses and the ensemble ecology retain their own authority. All ten readiness states remain unchanged; creation of a bounded artifact does not complete a missing evidence surface.
+The substantial group remains essential to full-series interpretation. Eleven bounded reconstruction models now expose their supported behavior and their missing ordinary, interior, or endpoint conditions. Specialist syntheses and the ensemble ecology retain their own authority. All eleven readiness states remain unchanged; creation of a bounded artifact does not complete a missing evidence surface.
+
+Ikumi's row reconciles the earlier matrix omission with explicit V20/V21 `substantial, provisional (stronger)` entries in the readiness ledger. It carries that state without promotion. The bounded model uses her latest detailed school state; the `ABSENT` endpoint cell describes insufficient present analytical coverage, not a claim that the source manga contains no adult appearance. Targeted V02/V06 page checks refine voice and ordinary behavior without filling the endpoint gap.

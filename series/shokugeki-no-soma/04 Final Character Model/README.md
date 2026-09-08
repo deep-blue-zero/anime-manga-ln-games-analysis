@@ -1,7 +1,7 @@
 ---
 series: SHOKUGEKI
 artifact_type: character_model_router
-scope: SIX_VALIDATED_AND_TEN_BOUNDED_V2_CHARACTER_MODELS
+scope: SIX_VALIDATED_AND_ELEVEN_BOUNDED_V2_CHARACTER_MODELS
 generation: V2
 status: canonical
 source_boundary: Complete original-Japanese V01-V36 V2 corpus; terminal reconstruction expansion
@@ -13,16 +13,16 @@ created: 2026-09-08
 
 # Character reconstruction router
 
-Use this router for the sixteen current V2 character reconstructions. Six existing validated artifacts have been expanded in place; ten bounded artifacts now make substantial evidence directly usable. Artifact availability and readiness are separate. No character is promoted by this expansion.
+Use this router for the seventeen current V2 character reconstructions. Six existing validated artifacts have been expanded in place; eleven bounded artifacts make substantial evidence directly usable, including the subsequent Ikumi Mito addition. Artifact availability and readiness are separate. No character is promoted by artifact creation.
 
 ## First read
 
-1. Select the character below and read its **Reconstruction entry and authority**, developmental states, and terminal rule. If no period is given, use the explicit default with its adult-montage limits; do not silently backdate endpoint knowledge.
+1. Select the character below and read its **Reconstruction entry and authority**, developmental states, and terminal rule. If no period is given, use the explicit default and its endpoint limits. Ikumi defaults to her latest detailed school state; adult-montage defaults retain their own limits. Do not silently backdate endpoint knowledge.
 2. For behavior, read the conditional rules, ordinary baseline, help model, recipient modifiers, Japanese register, failures, and negative controls together. An unfamiliar probe is noncanonical and can end in abstention.
 3. Follow its `Dnn` links to canonical deep readings when a rule needs scene context. Follow the ledger routes for recurrence or contradictory conditions. Exact wording and visual details require the located original Japanese page when the analytical record cannot settle the claim.
 4. Consult the reconstruction-fidelity audit for the claim bounds and the original full-series audit for the earlier validation decision. Neither is a blind external benchmark of this expansion.
 
-## Six validated and ten bounded models
+## Six validated and eleven bounded models
 
 | Character / first-read artifact | Unchanged readiness | Primary retrieval use | Binding gap |
 |---|---|---|---|
@@ -42,8 +42,9 @@ Use this router for the sixteen current V2 character reconstructions. Six existi
 | [Shinomiya](SHOKUGEKI_SHINOMIYA_CHARACTER_MODEL.md) | `substantial` | Exact professional standards and conditional transfer | Later failure and ordinary accountability for severity |
 | [Tsukasa](SHOKUGEKI_TSUKASA_CHARACTER_MODEL.md) | `substantial` | Ingredient authorship, recognition, controlled collaboration | Post-Asahi response, Central accountability, ordinary care |
 | [Rindō](SHOKUGEKI_RINDO_CHARACTER_MODEL.md) | `substantial` | Sociable field expertise with consequential alignment | Fear cause, political motive, ordinary repair |
+| [Ikumi Mito](SHOKUGEKI_MITO_CHARACTER_MODEL.md) | `substantial, provisional` | Autonomous meat craft, correction, club defense, and recipient-specific pride/care | Adult endpoint, later adverse response, sustained leadership and Erina repair |
 
-The new bounded artifacts are deliberately uneven in depth. Mana and Senzaemon have pivotal but role-concentrated evidence; Hisako has broader work and ordinary relationship evidence while retaining provisional independence gaps. The other seven have recurring craft, relation, and adverse evidence with incomplete ordinary or endpoint coverage. They are not thin monographs promoted by filename, appearance count, or narrative importance.
+The new bounded artifacts are deliberately uneven in depth. Mana and Senzaemon have pivotal but role-concentrated evidence; Hisako has broader work and ordinary relationship evidence while retaining provisional independence gaps. The other seven from the original expansion have recurring craft, relation, and adverse evidence with incomplete ordinary or endpoint coverage. They are not thin monographs promoted by filename, appearance count, or narrative importance. Ikumi adds broad school-era craft and practical relations, with limited supplementary ordinary detail; her carried V20/V21 readiness was not erased by omission from the earlier terminal matrix. Her adult endpoint remains unestablished by the present analytical coverage.
 
 ## Shared evidence and validation dependencies
 

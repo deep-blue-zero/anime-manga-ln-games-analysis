@@ -142,7 +142,7 @@ Politically defeated, causally explained, biologically linked to Asahi, and reta
 
 A genuinely powerful cook defeated 0-3 by Soma, prompted to seek his own taste, revealed as Azami's son, included as Nakiri family, and later a teacher. Rehabilitation is visible; absolution is not.
 
-For character reconstruction, use the [sixteen-model router](../04%20Final%20Character%20Model/README.md): six expanded validated models and ten bounded substantial models. Readiness remains unchanged, and the evidence matrix in `06 Evidence and Indexes` governs coverage alongside the readiness ledger.
+For character reconstruction, use the [character-model router](../04%20Final%20Character%20Model/README.md): seventeen artifacts, comprising six expanded validated models and eleven bounded substantial models. Ikumi Mito defaults to her latest detailed school state. Readiness remains unchanged, and the evidence matrix in `06 Evidence and Indexes` governs coverage alongside the readiness ledger.
 
 ## 12. The ending's exact claims
 

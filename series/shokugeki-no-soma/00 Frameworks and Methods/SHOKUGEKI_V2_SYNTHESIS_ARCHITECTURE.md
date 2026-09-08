@@ -359,8 +359,14 @@ Every artifact must have one clear identity, scope, authority state, and canonic
 
 V1 is preserved because it answers a narrower experimental question well. V2 is added because the user now wants a larger question answered. The architecture should allow both to remain intelligible without forcing the old corpus to masquerade as work it was never designed to be.
 
-## 16. Terminal reconstruction expansion
+## 16. Original terminal reconstruction expansion
 
 Six existing validated models are expanded in place and ten bounded models are available through [the character router](../04%20Final%20Character%20Model/README.md). The sixteen readiness states are unchanged. This refinement changes artifact availability and reconstructive depth, not the frozen sequential method, past promotion decisions, or the separate responsibilities of the seven specialist syntheses.
 
 The repository schema search found no governing cross-title character-package schema. The reconstruction-capability specification concerns discovery governance and remains specification-only; it is not adopted as a Shokugeki JSON package. Markdown models remain the canonical deliverables.
+
+## 17. Ikumi Mito reconstruction addition
+
+The subsequent owner-requested [Ikumi Mito model](../04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) brings the current router to seventeen artifacts: six validated and eleven bounded. The original sixteen-model expansion above remains its own historical decision. Ikumi carries her explicit V20/V21 `substantial, provisional` readiness; omission from the earlier terminal selector did not demote her.
+
+The existing Markdown model contract accommodates a default drawn from the latest evidenced school state when the analytical record cannot responsibly supply an adult endpoint. Targeted V02/V06 primary observations are appended to mutable ledgers and recorded in the fidelity audit. No sequential restart, whole-volume reread, duplicate character package, manual global discovery update, or change to specialist authority follows from this addition.

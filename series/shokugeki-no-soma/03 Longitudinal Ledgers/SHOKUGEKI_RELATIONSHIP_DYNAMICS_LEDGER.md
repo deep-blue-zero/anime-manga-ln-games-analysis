@@ -20,7 +20,7 @@ Track longitudinal dyadic and group relationship states without collapsing rival
 
 ## Current boundary
 
-Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [sixteen-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
+Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [character-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
 
 `V01-V36 COMPLETE; TERMINAL V2`.
 
@@ -906,3 +906,14 @@ New longitudinal relationship claim `SH-REL-170` TERMINAL / HIGH: family inclusi
 New longitudinal relationship claim `SH-REL-171` TERMINAL / HIGH: ordinary shared work and permission to fail can function as rescue without creating a singular savior or medical cure claim.
 
 New longitudinal relationship claim `SH-REL-172` TERMINAL / HIGH: an ensemble remains a causal social ecology when adult trajectories differentiate and later reunion preserves the right to criticize one another honestly.
+
+## Terminal reconstruction addition — Ikumi Mito recipient and ordinary evidence
+
+Targeted original-page verification follows the completed ledger; it does not rewrite earlier local readings or frozen predictions. The [fidelity audit](../05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) records the exact inspected ranges and hash-matched archives.
+
+| Claim ID | Relationship / observation | Interpretation and reconstruction bound | Locator(s) |
+|---|---|---|---|
+| SH-REL-173 | Mito → Soma / Erina / Konishi immediately around the first duel | Soma-directed blush, anger, and hoped-for contact differ from Erina-directed patron concern and Konishi-directed nickname conflict. Wager membership is real, but next-day disappointment when Soma is not a member prevents an instant harmonious-club reading. Direct local pattern H; no reciprocal romance, fully repaired Erina relation, or fixed hostility across later states | 02-166–02-175 |
+| SH-REL-174 | Mito ↔ Soma in the supplementary summer clubroom | She offers her already-authored donburi, receives a heat-based refusal, rejects his alternative, then explicitly accepts shaved ice on her flavor condition while retaining a work-pride complaint. H for the depicted sequence / M for unfamiliar transfer. Interest is asymmetrically coded; receiving pleasure does not create romantic agreement, erase hurt, or turn every refusal into hidden consent | 06-186–06-189 |
+
+The [Ikumi model](../04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) retains the stronger mainline transition from voluntary communal collaboration to independent society defense and V21 recognition of Erina's nonidentical successor burden. A later apology, recurring ordinary conflict policy, and adult private relation remain unestablished by the current analytical coverage.

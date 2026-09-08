@@ -22,7 +22,7 @@ The frozen V1 Soma behavioral ledger remains bounded provenance and is not merge
 
 ## Current boundary
 
-Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [sixteen-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
+Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [character-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
 
 `V01-V36 COMPLETE; TERMINAL V2` - current cumulative evidence covers the completed series; historical rows retain their own scope.
 
@@ -1390,3 +1390,14 @@ Tally: `7 CONFIRM / 1 PARTIAL / 0 MISS / 0 UNTESTED`.
 ### Terminal character-state rule
 
 No V37 prospective claims are created. The completed ledger preserves end-state asymmetry: exact culinary results coexist with incomplete institutional and relational closure; family inclusion does not erase harm; romantic implication does not become confession; and adult prestige does not end failure. All terminal generalizations now require lateral exception testing across V01-V36 before promotion into a monograph or validated model.
+
+## Terminal reconstruction addition — Ikumi Mito targeted verification
+
+These observations were added after the completed V36 ledger and initial sixteen-model expansion. They are retrospective retrieval refinements, not new V37 predictions or amendments to frozen V02/V06 readings. Original images inspected: `02-104`–`02-111`, `02-166`–`02-175`, and supplementary `06-186`–`06-189`; archive hashes and limits are recorded in the [fidelity audit](../05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md).
+
+| Claim ID | State / finding | Conditional reconstruction consequence | Bound / confidence | Locator(s) |
+|---|---|---|---|---|
+| SH-CHAR-MITO-003 | Early superiority accompanies pre-result demolition planning; family-strength memory accompanies tasting exposure; defeat is followed by patron withdrawal, nickname anger, and wager membership | Preserve the separate stakes of craft, status, personal vulnerability, and affiliation; a fair loss can change practice without immediately erasing forcefulness | Direct local evidence H; no diagnosis, automatic trauma reenactment, universally gracious defeat, or habitual literal violence from comic threat | 02-104–02-111; 02-166–02-175 |
+| SH-CHAR-MITO-004 | In the summer bonus, Mito is already developing a donburi when Soma visits; his heat-based refusal hurts, her initial shaved-ice refusal gives way to explicit strawberry-milk-conditioned acceptance, and enjoyment leaves a complaint about her serious work intact | In a familiar low-stakes setting, task pride, interest, hurt, curiosity, and a revisable answer can coexist; autonomous work precedes the recipient's arrival | H local observation / M broader transfer; supplementary lower weight. One flavor choice is not a general favorite, a changed answer does not invalidate refusals, and the scene does not establish reciprocity or adult routine | 06-186–06-189 |
+
+The [Ikumi model](../04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) combines these additions with V05/V07 authored correction, V15/V16 collaborative labor, and V20/V21 society defense and successor-pressure recognition. Readiness remains `substantial, provisional`; the latest detailed school state is explicit and adult behavior remains bounded.

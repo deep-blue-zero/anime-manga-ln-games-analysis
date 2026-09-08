@@ -20,7 +20,7 @@ Track competitive structures as psychological, pedagogical, relational, and inst
 
 ## Current boundary
 
-Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [sixteen-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
+Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [character-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
 
 `V01-V36 COMPLETE; TERMINAL V2`.
 

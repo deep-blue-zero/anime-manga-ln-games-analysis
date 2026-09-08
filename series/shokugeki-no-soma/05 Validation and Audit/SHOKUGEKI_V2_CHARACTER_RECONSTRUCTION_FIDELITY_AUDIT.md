@@ -1,10 +1,10 @@
 ---
 series: SHOKUGEKI
 artifact_type: character_reconstruction_fidelity_audit
-scope: SIXTEEN_TERMINAL_V2_CHARACTER_ARTIFACTS
+scope: SEVENTEEN_V2_CHARACTER_ARTIFACTS_WITH_SEPARATE_MITO_ADDENDUM
 generation: V2
 status: canonical
-source_boundary: Completed original-Japanese V01-V36 analytical corpus; targeted analytical retrieval; no new primary reread
+source_boundary: Completed original-Japanese V01-V36 analytical corpus; original sixteen-model analytical review plus subsequent Ikumi V02/V06 primary checks
 validation_design: nonblind_author_self_audit_of_bounded_reconstruction
 supersedes: []
 superseded_by: []
@@ -14,13 +14,17 @@ created: 2026-09-08
 
 # V2 character reconstruction fidelity audit
 
-## Question, result, and authority
+## Current coverage and review boundaries
+
+This audit now covers seventeen artifacts: the original sixteen-model review preserved below, followed by a separate Ikumi Mito addendum. All seventeen receive `PASS_WITH_BOUND` within their declared scopes; six retained `validated_model` states and eleven substantial/provisional states remain unchanged. The original review's statements that no CBZ was downloaded or primary page newly inspected apply only to that first sixteen-model execution. The later Ikumi addition fetched and hash-verified V02/V06 and inspected 22 specific images, as recorded in its addendum. It did not rerun or alter the first sixteen models' findings.
+
+## Original sixteen-model review — question, result, and authority
 
 **Can each artifact support an unfamiliar situation without flattening the character into an archetype, a thesis, a single relationship, or invented interiority?** All sixteen artifacts receive **PASS_WITH_BOUND** at the level of their declared reconstruction scope. Several individual dimensions receive **INSUFFICIENT_EVIDENCE**, especially ordinary minor failure, post-ending help refusal, and routine correction for role-concentrated characters. Correct abstention is a successful model behavior; it does not make the character or the artifact a failure.
 
 The six existing `validated_model` classifications are retained from the [original full-series validation audit](SHOKUGEKI_V2_FULL_SERIES_VALIDATION_AUDIT.md). The other ten remain `substantial` or `substantial, provisional`. This audit creates no readiness promotion. It is a new reconstruction audit, not a replacement of the original literary/support audit, the frozen checkpoints, or the V1 prospective experiment.
 
-The current artifacts and their defaults are linked through the [sixteen-model router](../04%20Final%20Character%20Model/README.md). Readiness authority remains the [readiness ledger](../03%20Longitudinal%20Ledgers/SHOKUGEKI_CHARACTER_RECONSTRUCTION_READINESS_LEDGER.md) and [evidence matrix](../06%20Evidence%20and%20Indexes/SHOKUGEKI_CHARACTER_EVIDENCE_MATRIX.md).
+The current artifacts and their defaults are linked through the [character-model router](../04%20Final%20Character%20Model/README.md). Readiness authority remains the [readiness ledger](../03%20Longitudinal%20Ledgers/SHOKUGEKI_CHARACTER_RECONSTRUCTION_READINESS_LEDGER.md) and [evidence matrix](../06%20Evidence%20and%20Indexes/SHOKUGEKI_CHARACTER_EVIDENCE_MATRIX.md).
 
 ## Design and limits of the test
 
@@ -203,6 +207,64 @@ Each model now has an identity and source/readiness entry, default/state gates, 
 
 No governing cross-title machine-facing character-package schema was found. The repository capability specification governs discovery and is not an active package schema. No Shokugeki-only JSON schema, duplicate machine package, unpopulated capability rating, or manual character-registry update is introduced.
 
-## Terminal audit rule
+## Original sixteen-model terminal audit rule
 
 Use the sixteen artifacts as bounded decision models whose source constraints remain active. A helpful reconstruction may be terse, abrasive, hesitant, intrusive, coercive, warm, wrong, or silent according to character, state, and recipient. The audit succeeds when those differences remain attributable and when an unavailable ordinary response, private motive, medical outcome, romantic agreement, or accountability process is left unavailable.
+
+## Ikumi Mito addendum — subsequent bounded-model review
+
+**Artifact:** [SHOKUGEKI_MITO_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md). **Overall:** `PASS_WITH_BOUND`. **Readiness:** `substantial, provisional`, carried from explicit V20/V21 `substantial, provisional (stronger)` entries, without promotion. This is an incremental nonblind author self-audit using the definitions above. It is not a new audit of the prior sixteen models, a held-out test, an external evaluation, or a statistical dialogue benchmark.
+
+### Retrieval, source escalation, and preservation
+
+A private gap table preceded primary retrieval. Level A reused the completed V2 corpus and reviewed Ikumi's readiness, state, relationship, voice, craft, competition, institution, and visual evidence. Level B retrieved relevant sections of V02, V05–V08, V15–V16, V20–V21 and checked existing terminal coverage. The important unresolved claims were exact address/register, ordinary offering/refusal behavior, and the weight of the V06 summer comic. Level C was therefore narrowly used as follows.
+
+| Volume / source | Acquisition and SHA-256 | Original images actually inspected | What the inspection supports |
+|---|---|---|---|
+| V02; Drive file `1xlpavLDL_PbXFhIQCAIoRPMRSgeuWVQl` | 133,761,002 bytes; 204 images; `440f3a717550edb0960cbd2dc067da0d304eef5614102a792513b804b3c08e71`, matching the canonical source lock | `02-104`–`02-111` and `02-166`–`02-175` — 18 images | Early status/club overreach and exact address; family-strength memory within the tasting sequence; fair result, patron withdrawal, persistent anger, and wager membership |
+| V06; Drive file `1DBPj_jrcb-wHX8l2xMiyBo6eRbYj7lZo` | 94,921,850 bytes; 192 images; `74169d94d2722c09192b6031ec7eb9ee7ed1aafceb9b800fb675fdbda24335cf`, matching the canonical source lock | Supplementary `06-186`–`06-189` — four images | Independent club cooking before Soma arrives; a declined offering, initial refusal of shaved ice, explicit flavor-conditioned acceptance, and continuing pride in her work; attested colloquial forms |
+
+Both files came from the authorized primary-source folder `1Cdo5Uhq936_I1Hw3nB1S5bgSJ-rBAAlO`. Acquisition of a whole archive is not a claim of reading its whole contents. Exactly 22 images were inspected; adjacent images extracted for possible context but not opened are excluded from that count. No whole-volume, bounded character-arc, or full-series primary reread was performed. V06's comic remains lower-weight supplementary evidence. The manga's visual tasting spectacle establishes no literal sexual desire, consent, or reciprocal romance.
+
+New observations are appended as `SH-CHAR-MITO-003`–`004`, `SJV2-MITO-004`–`005`, and `SH-REL-173`–`174` in their respective mutable ledgers. Existing claims and IDs remain intact. These are additions and precisions, not reversals of an earlier character claim; no new claim-revision entry is needed. The evidence matrix and readiness addendum reconcile Ikumi's omission without rewriting the V20/V21 state. No sequential reading, frozen checkpoint, V1 record, original terminal audit, or prior character model is changed.
+
+### Fifteen-dimension review
+
+The review checked the model's explicit rules and the noncanonical probes below. A pass verifies a represented distinction, not guaranteed downstream compliance.
+
+| Dimension | Result | Warrant, countercheck, and retained bound |
+|---|---|---|
+| 1. State selection / default | PASS | Early enforcer, defeated new member, autonomous developing cook, and V20/V21 defender/peer-recognition states are gated. Default is the latest detailed school state, not an invented adult endpoint |
+| 2. Ordinary low-stakes behavior | PASS_WITH_BOUND | Mainline club/community work plus the supplementary heat/offering/shaved-ice sequence; one flavor choice does not become a fixed personality catalogue |
+| 3. Minor failure | INSUFFICIENT_EVIDENCE | The declined offering and ingredient correction are distinguished from a routine nonculinary error; an exact general response to the latter remains U |
+| 4. Criticism and correction | PASS_WITH_BOUND | V02 loss and V05/V07 criterion revision support practical response to evidence; a new criticism scene is M, not automatic compliance or rage |
+| 5. Giving help | PASS | Meat selection, supervision, advice, grilling, and society defense remain independently attributable; volunteering is distinguished from wager membership |
+| 6. Receiving/refusing help | PASS_WITH_BOUND | Technical correction and explicitly qualified acceptance of an alternative are represented. A changed answer in one bonus scene never licenses ignoring another refusal |
+| 7. Recipient conditioning | PASS_WITH_BOUND | Soma, Erina, Konishi/club, community colleagues, and unfamiliar peers have different warrants; the matched test withholds unsupported intimacy and hierarchy resolution |
+| 8. Authority and status | PASS_WITH_BOUND | Early demolition planning and expulsion stakes remain overreach; later 3–0 club defense is autonomous but does not establish comprehensive leadership/accountability |
+| 9. Japanese register | PASS_WITH_BOUND | Original-page attestation adds `あたし`, contextual second-person forms, `えりな様`, mocking `主将さん`, `幸平`, and offering/refusal contrasts; no complete dialect or acoustic profile |
+| 10. Contradictions retained | PASS | Real expertise/initial narrowness, assertiveness/correctability, embarrassment/autonomy, and obligated membership/later defense coexist by state |
+| 11. Negative controls | PASS | Blocks meat-only rage, instant universal softening, fake expertise, automatic literal violence, fixed prestige absolutism, and invented adult career |
+| 12. Abstention | PASS | Later adverse response, adult endpoint, routine nonculinary failure, full V20 plate/opponent chain, and sustained leadership or Erina repair remain unavailable |
+| 13. Romance leakage | PASS | Asymmetric Soma-directed interest remains an interpretation of bounded evidence; no reciprocation, couple, or consent is inferred from blushing, service, or spectacle |
+| 14. Universal competence | PASS | Meat craft and specific integrated dishes do not establish mastery of all domains, managerial infallibility, or universal victory; 86 is separated from V08's qualifying cutoff |
+| 15. Protagonist / ensemble flattening | PASS | Ikumi owns her V07 curry and V20 3–0; Sumire and festival collaborators retain their distinct work; Erina relation is not reduced to Soma's growth |
+
+### SH-RF-017 — noncanonical probe findings
+
+| Probe | Model-derived response assessed | Rejected output / unresolved detail | Result |
+|---|---|---|---|
+| A collaborator says a premium cut dries out in a portable lunch | After V05, ask about the actual outcome and try a contextual cut/preparation change, potentially with forceful disagreement | Early prestige absolutism carried into every later task, or compliance without judgment; exact new speech remains M | PASS_WITH_BOUND |
+| Soma declines a snack because he is full, then offers another activity | Hurt or irritation is plausible; accepting, refusing, or setting terms remains her decision | Treating a first refusal as consent; importing a fixed choice from the heat/shaved-ice comic into a different activity | PASS_WITH_BOUND |
+| A junior says her directions discouraged questions | Recognize the risk from bluntness and earlier overreach, while retaining evidence of later collaboration | A fully specified apology/teaching routine or guaranteed cruelty; exact repair is U | INSUFFICIENT_EVIDENCE |
+| Adult Ikumi must choose the family business or another vocation | Identify successor pressure as relevant and stop before selecting an unestablished adult role or priority | Invented career, inherited office, romantic settlement, or automatic replay of the school state | INSUFFICIENT_EVIDENCE |
+
+### MR-08 — matched recipients
+
+Hold the request constant: “Please help adjust this dish.” Hold Ikumi in her post-V20/V21 school state. With **Soma**, technical challenge and familiar sensitivity to how he receives her work may coexist; embarrassment is optional. With **Erina**, respect and recognition of nonidentical successor pressure matter, but neither full equality nor unqualified patron obedience is supplied. With an **unfamiliar peer**, keep the response task-specific unless further relationship context exists. These are M-level predictions derived from V05, V21, and the lower-weight V06 bonus, not canonical dialogue. **PASS_WITH_BOUND**: culinary competence stays constant while recipient differences remain evidence-based and modest.
+
+### Disposition and terminal rule
+
+No asserted Ikumi claim remains in `NEEDS_TARGETED_SOURCE_ESCALATION`. The unresolved adult and ordinary-conflict surfaces are enforced abstentions, not claims that the manga categorically contains no further Ikumi appearances. The model's useful scope joins independent craft, correction, practical cooperation, differentiated relationships, and local authority reversal. Its provisional readiness remains appropriate because later loss, sustained leadership, and adult everyday behavior are still insufficiently specified.
+
+Use the current seventeen-model router with the separate source histories above. Preserve Ikumi's latest detailed school default and carry her substantial evidence without promoting it merely because a model is now available.

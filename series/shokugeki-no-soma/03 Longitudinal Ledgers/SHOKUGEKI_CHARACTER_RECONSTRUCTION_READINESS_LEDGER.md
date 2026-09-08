@@ -26,7 +26,7 @@ Qualitative coverage uses `none / sparse / moderate / strong`.
 
 ## Current boundary
 
-Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [sixteen-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
+Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [character-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
 
 `V01-V36 COMPLETE; TERMINAL V2`. Promotions below use V2 evidence only. The frozen V1 Soma model remains separately available and does not auto-promote Soma inside V2.
 
@@ -716,3 +716,13 @@ The original six `validated_model` states remain unchanged. The terminal archite
 | Rindō | `substantial` | [SHOKUGEKI_RINDO_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_RINDO_CHARACTER_MODEL.md) | Bounded model created; no promotion |
 
 See the [reconstruction-fidelity audit](../05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) for ordinary-life, recipient, register, and abstention bounds. No frozen checkpoint or prospective score is revised by this availability record.
+
+## Ikumi Mito reconstruction addition — carried readiness
+
+This terminal retrieval-layer addition carries the explicit V20 and V21 state `substantial, provisional (stronger)` as `substantial, provisional`; the parenthetical qualifier is not a new readiness tier. Omission from the grouped terminal selection and the earlier evidence matrix did not record a demotion. The first sixteen model decisions and all per-volume readiness entries remain unchanged.
+
+| Character | Prior explicit readiness | Current artifact | Readiness after addition | Remaining gate |
+|---|---|---|---|---|
+| Ikumi Mito | V20/V21 `substantial, provisional (stronger)` | [SHOKUGEKI_MITO_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) | `substantial, provisional`; no promotion | Later adverse-result response, full V20 dish/opponent chain, broader ordinary conflict and leadership accountability, adult endpoint and Erina repair |
+
+Targeted analytical retrieval uses V02, V05–V08, V15–V16, V20–V21 and the existing terminal coverage. Primary checks of `02-104`–`02-111`, `02-166`–`02-175`, and supplementary `06-186`–`06-189` add exact address/register and a bounded ordinary refusal/acceptance sequence. These 22 images strengthen retrieval precision without supplying a whole adult or ordinary-life personality. No whole-volume or full-series reread occurred. The model defaults explicitly to the latest detailed school state. See the Ikumi addendum in the [fidelity audit](../05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md).
