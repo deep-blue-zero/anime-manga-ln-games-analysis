@@ -1,0 +1,80 @@
+{
+  "schema": "tomozaki.git-bootstrap-path-manifest/v1",
+  "tranche_id": "TOMOZAKI_GIT_BOOTSTRAP_V0_1_20260904",
+  "authority_state": "GIT_ACTIVE_STABILIZING",
+  "reviewed_governance_commit": "baf22f996a1b98f422c7b8a8678394709788c4f3",
+  "base_commit": "baf22f996a1b98f422c7b8a8678394709788c4f3",
+  "series_root": "series/tomozaki/",
+  "branch": "series/tomozaki",
+  "source_boundary": {
+    "drive_evidence_root_id": "1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy",
+    "series_folder_id": "1YldXgz3sglS1CLD_CvUieUM_GOr-VElg",
+    "audit_manifest_file_id": "1W9CwbimSf5y1g59MMod1z5nybFyVXXtc",
+    "audit_manifest_sha256": "64e5e9e722a24f578abc20b3de1b61269c1212e224b60786e7eab28d35b66257",
+    "audit_date": "2026-08-29",
+    "main_volumes": "V01-V11",
+    "side_story_volumes": [
+      "V06.5",
+      "V08.5"
+    ],
+    "inventory_status": "VERIFIED",
+    "epub_objects": 13
+  },
+  "series_local_paths": [
+    {
+      "path": "series/tomozaki/.repository/series-registry.json",
+      "responsibility": "declarative series routing input for bounded housekeeping"
+    },
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+      "responsibility": "source-facing analytical method"
+    },
+    {
+      "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+      "responsibility": "audited primary-source boundary"
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/README.md",
+      "responsibility": "sequential-reading routing contract"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/README.md",
+      "responsibility": "longitudinal-ledger routing contract"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/README.md",
+      "responsibility": "character-analysis routing contract"
+    },
+    {
+      "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "responsibility": "canonical current entrypoint"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_BOOTSTRAP_PATH_MANIFEST.json",
+      "responsibility": "bootstrap provenance and intended-path record"
+    }
+  ],
+  "routing_contract": {
+    "input": "series/tomozaki/.repository/series-registry.json",
+    "housekeeping_owned_outputs": [
+      "series/registry.json",
+      "studies/registry.json",
+      "series/README.md",
+      "studies/README.md",
+      "governance/MANGA_ANIME_CORPUS_INDEX.md"
+    ],
+    "character_outputs_read_only_to_this_branch": [
+      "characters/registry.jsonl",
+      "CHARACTER_ANALYSIS_INDEX.md"
+    ],
+    "character_upsert_input": "RETIRED_NOT_CREATED"
+  },
+  "bootstrap_abstentions": [
+    "No substantive volume analysis is created.",
+    "No character output is edited or independently curated.",
+    "No character-registry upsert proposal is created.",
+    "No character monograph or longitudinal ledger is pre-created.",
+    "No adaptation or translation witness is admitted to the source lock.",
+    "No frozen migration crosswalk or authority-scope record is modified."
+  ]
+}
