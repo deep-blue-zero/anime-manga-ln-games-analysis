@@ -1,14 +1,14 @@
 ---
 series: CHIRAMUNE
 artifact_type: current_published_corpus_synthesis
-scope: ANALYZED_JAPANESE_LIGHT_NOVEL_CORPUS_THROUGH_VOLUME_08_MAIN
-source_boundary: "Japanese main Volumes 01-08 prospectively frozen; V03 in-EPUB birthday bonus integrated as BONUS_FICTION; separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
+scope: ANALYZED_JAPANESE_LIGHT_NOVEL_CORPUS_THROUGH_VOLUME_08_MAIN_AND_ROUGH_SUPPLEMENT
+source_boundary: "Japanese main Volumes 01-08 prospectively frozen; V03 in-EPUB birthday bonus integrated as BONUS_FICTION; separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; V09+ unopened"
 latest_publication_horizon: V09.5
 latest_acquired_main: V09
 latest_acquired_supplemental: V09.5
 latest_analyzed_main: V08_MAIN
-latest_analyzed_supplemental: V06_5_FOUR_STORY_VOLUME
-generation: V0.7
+latest_analyzed_supplemental: V08_ROUGH_ILLUSTRATION_COLLECTION
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -16,15 +16,15 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Chiramune current published-corpus synthesis — through V08 main
+# Chiramune current published-corpus synthesis — through V08 main and rough supplement
 
 ## Purpose, authority, and limit
 
-This is the analyzed-to-date integrator for the Japanese *Chitose Is in the Ramune Bottle* light-novel corpus. It routes a multi-document portfolio: V01–V08 main readings and freezes, separate V03/V05/V06.5 supplemental checkpoints, five longitudinal ledgers, seven warranted character monographs, the Fukui/locality specialist synthesis, and safely integrated bonus material.
+This is the analyzed-to-date integrator for the Japanese *Chitose Is in the Ramune Bottle* light-novel corpus. It routes a multi-document portfolio: V01–V08 main readings and freezes, separate V03/V05/V06.5 narrative-supplement checkpoints, the V08 production-paratext checkpoint, five longitudinal ledgers, seven warranted character monographs, the Fukui/locality specialist synthesis, and safely integrated bonus material.
 
 It does not replace those documents' evidence or their source-bound historical states. The exact route begins at `../CURRENT_STATE_AND_CORPUS_MAP.md`; source identity lives in `../01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md`; claim transitions live in `../03 Longitudinal Ledgers/CHIRAMUNE_REVISION_LEDGER.md`.
 
-This synthesis is not terminal. The V08 rough-illustration supplement, V09, *Days of Endless Summer*, and V09.5 remain unanalyzed. Chiramune remains an open publication corpus at the current audit horizon.
+This synthesis is not terminal. V09, *Days of Endless Summer*, and V09.5 remain unanalyzed. Chiramune remains an open publication corpus at the current audit horizon.
 
 ## Current central synthesis
 
@@ -121,6 +121,12 @@ The class play explicitly separates acting rank from romantic judgment and remai
 Saku refuses. Yuzuki recognizes nonconsent, and their repair preserves both her personhood and the fact of violation. Saku directly says Yuzuki is in his heart and that he fell for the Yuzuki who keeps trying to be herself, then commits to decide by the next cherry blossoms. This strengthens reciprocity and answer responsibility without creating singularity or a couple.
 
 Yuko entrusts Momiji with the summer confession/refusal history and distinguishes an ended attempt from a newly begun love. Yua and Asuka each own fault and correct the other's place/kitchen claim. Yuzuki and Momiji preserve intimacy while declaring rivalry. The women now carry correction, memory, consent, and competition laterally rather than waiting for Saku's adjudication. See the [V08 main deep reading](../02%20Sequential%20Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md) and [V08 main freeze](../02%20Sequential%20Readings/CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md).
+
+### V08 rough-illustration collection — production history without story-state revision
+
+The 50-page art-book component is independently bounded by its own cover, contents, four chapters, colophon, and back cover. Character-design alternatives, captioned V01–V03 cover roughs, selected work stages, and three artist-signed guest contributions make it `PRODUCTION_PARATEXT`, not fiction.
+
+Its contribution is methodological and bibliographic: proposals document visual iteration rather than hidden canon; rough and final-like stages remain witnesses to one design process rather than separate events; retrospective art cannot reopen early prospective freezes; guest emphasis has distinct authorship and no diegetic authority. No plot, relationship, consent, character-state, sport, vocation, locality, or chronology transition follows from the art. See the [V08 rough-illustration supplemental checkpoint](../02%20Sequential%20Readings/CHIRAMUNE_V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_READING.md).
 
 ## II. Current thematic architecture
 
@@ -288,9 +294,9 @@ Reported wins do not establish that Haru's team has repaired hidden governance, 
 
 ## VIII. Multi-document portfolio state
 
-At the V08-main checkpoint the portfolio contains:
+At the post-V08-rough-supplement checkpoint the portfolio contains:
 
-- source-bound main reading/freeze artifacts through V08 main plus separate V03, V05, and V06.5 supplemental checkpoints;
+- source-bound main reading/freeze artifacts through V08 main, separate V03, V05, and V06.5 narrative-supplement checkpoints, and a separate V08 production-paratext checkpoint;
 - five maintained longitudinal ledgers;
 - seven active-provisional character monographs revised through V08 main;
 - one promoted specialist synthesis for locality/departure/ordinary youth;
@@ -339,20 +345,20 @@ The portfolio remains intentionally distributed. Character, specialist, ledger, 
 - Park baseball reopens practice; it does not settle Saku's future.
 - V06.5's four stories share a late-August interval but do not establish an exact total cross-story order.
 - The V08 afterword's V08–V09 single-story framing does not authorize prediction of the festival or V09 outcome.
-- The V08 rough-illustration supplement remains unopened and supplies no main-freeze evidence.
+- The V08 rough-illustration collection supplies production/design evidence only; it does not create story facts, character state, chronology, relationship rank, romantic selection, or a second event from rough/final stages.
+- Retrospective V01–V03 cover roughs cannot rewrite their prospective freezes, and guest art cannot establish the main illustrator's intent or diegetic authority.
 - Current-source completion and terminal-series synthesis remain outside this boundary.
 
 ## X. Next integration tests
 
-The next safe source is the separately titled V08 rough-illustration supplement inside the exact locked special-edition object. Preserve the V08 main freeze and every earlier checkpoint. The live tests are:
+The next safe source is the exact locked Volume 09 main EPUB. Preserve the V08 main freeze, the independently classified rough-supplement checkpoint, and every earlier checkpoint. The live tests are:
 
-1. inspect every rough-supplement page and classify annotations, design variants, repeated final images, and process evidence without manufacturing diegetic events;
-2. keep rough/final stages of one illustration from being double-counted as separate events;
-3. close the supplement through its own reading/checkpoint and exact validation gates before opening V09;
-4. require direct singular wording and enacted mutual status before identifying a couple or singular beloved;
-5. test whether Saku's next-spring deadline produces timely choice, changed conduct, or accountable renegotiation;
-6. test whether Yuzuki integrates `Nana` with consent and team responsibility rather than treating remorse as complete repair;
-7. test whether Momiji discloses purpose to Saku and completes direct repair without surrendering autonomous pursuit;
-8. track women's lateral ties and Yuzuki/Haru team reconstruction through the actual festival;
-9. follow baseball, basketball, editing, departure, school labor, and locality only through continuing institutional evidence;
-10. leave all V01–V08 main freezes and earlier supplemental checkpoints untouched while updating only cumulative documents.
+1. verify the exact V09 object against the source lock and capture the post-V08 entering state before reading narrative content;
+2. require direct singular wording and enacted mutual status before identifying a couple or singular beloved;
+3. test whether Saku's next-spring deadline produces timely choice, changed conduct, or accountable renegotiation;
+4. test whether Yuzuki integrates `Nana` with consent and team responsibility rather than treating remorse as complete repair;
+5. test whether Momiji discloses purpose to Saku and completes direct repair without surrendering autonomous pursuit;
+6. track women's lateral ties and Yuzuki/Haru team reconstruction through the actual festival;
+7. follow baseball, basketball, editing, departure, school labor, and locality only through continuing institutional evidence;
+8. keep production-art alternatives from manufacturing events, ranks, or retcons;
+9. leave all V01–V08 main freezes and earlier supplemental checkpoints untouched while updating only cumulative documents.

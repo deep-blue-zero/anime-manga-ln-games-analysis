@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V0.9
+generation: V1.0
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -126,7 +126,17 @@ The exact spine was classified before interpretation. `p-0001`–`p-0009` contai
 
 The main-only extraction produced 4,977 non-empty locator rows and 5,047 reading lines. The locator TSV SHA-256 is `4ec83a133c29de2c772ac38af5a3d1b27a0640fc8a1412c990e759297c4a7e04`; the reading projection SHA-256 is `8aeabf3e37a4e65e9c091064c969908a179832c28ee03bddc440ee2a9109526a`. Cover, principal frontmatter, two color spreads, and ten narrative illustrations were inspected; supplement pages were excluded.
 
-The afterword states that V08 and V09 were conceived as one story and that V08 intentionally ends after two chapters before the festival. This is bounded production testimony, not a license to predict V09. The complete main reading and entering-state freeze are `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md` and `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md`. The next safe source is the separately bounded rough-illustration supplement inside this same witness.
+The afterword states that V08 and V09 were conceived as one story and that V08 intentionally ends after two chapters before the festival. This is bounded production testimony, not a license to predict V09. The complete main reading and entering-state freeze are `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md` and `../02 Sequential Readings/CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md`.
+
+### Volume 08 rough-illustration supplement disposition
+
+After the V08 main checkpoint passed local, GitHub, and exact fresh-clone validation at commit `8aaa45acb17d40dc81e03fefb29a464b7cc83134`, the separately titled `『千歳くんはラムネ瓶の中８』 ラフイラスト集` at `p-0034`–`p-0083` was inspected page by page.
+
+The component contains 50 XHTML pages routing 50 JPEG resources totaling 10,577,106 bytes. The SHA-256 of the UTF-8 page/file/dimension/size/file-hash manifest is `c028da414ed88216103db58666125aaf070d686259cdf00243bb7042d8dbe791`.
+
+Its own contents declare four chapters: character-design proposals, V01–V03 cover rough proposals, a selected rough gallery, and guest illustrations. Its colophon and back cover close a separate art-book topology. The component is classified `PRODUCTION_PARATEXT`, not narrative supplement. Alternative designs, rough/final stages, and artist-signed guest works create no new diegetic events, chronology, character state, or relationship fact. See `../02 Sequential Readings/CHIRAMUNE_V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_READING.md`.
+
+The next safe source is the exact locked Volume 09 main EPUB.
 
 ### Volume 04 analysis disposition
 
@@ -140,7 +150,7 @@ Its colophon dates publication to 2020-04-17 and identifies 裕夢 as author, ra
 
 ### Half-volumes and side stories
 
-Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volume 07 and the V08 main novel are independently frozen after that checkpoint. The V08 rough-illustration supplement, *Days of Endless Summer*, and Volume 09.5 still require separate classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
+Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volume 07 and the V08 main novel are independently frozen after that checkpoint. The V08 rough-illustration collection is separately integrated as `PRODUCTION_PARATEXT`. *Days of Endless Summer* and Volume 09.5 still require publication/diegetic classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
 
 ## Completeness claim and limit
 

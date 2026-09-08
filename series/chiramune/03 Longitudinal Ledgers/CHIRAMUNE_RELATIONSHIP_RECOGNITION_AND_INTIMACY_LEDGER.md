@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: ledger
 scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08 rough-illustration supplement and V09+ unopened"
-generation: V1.0
+source_boundary: "Japanese main Volumes 01-08 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no relationship transition; V09+ unopened"
+generation: V1.1
 status: active_provisional
 release_state: mutable_active
 supersedes: []

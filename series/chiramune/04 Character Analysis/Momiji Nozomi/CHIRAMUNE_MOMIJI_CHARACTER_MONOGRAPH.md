@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: character_monograph
 scope: MOMIJI_NOZOMI_THROUGH_VOLUME_08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; Momiji's V07 promotion revised through V08 main; V08 rough-illustration supplement and V09+ remain unopened"
-generation: V0.2
+source_boundary: "Japanese main Volumes 01-08 frozen; Momiji's V07 promotion revised through V08 main; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; V09+ unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -17,7 +17,7 @@ do_not_use_as_current_authority: false
 
 This monograph reconstructs Nozomi Momiji only from safely admitted Japanese light-novel evidence through Volume 08 main. V07 supplies sustained action across school, sport, romantic pursuit, group entry, conflict, direct self-account, and the postposed prologue; V08 main adds lateral intimacy, declared rivalry, self-described method, and substantial continuing counterevidence about disclosure and harm. V07 crosses the independent-model threshold; V08 revises that promoted model. Promotion is not a claim that prominence makes her central forever or that later sources cannot substantially revise it.
 
-The governing readings are `../../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md` and `../../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md`. The V08 rough-illustration supplement and all later sources remain outside this boundary.
+The governing readings are `../../02 Sequential Readings/CHIRAMUNE_V07_DEEP_READING.md` and `../../02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md`. The V08 rough-illustration collection is separately classified production paratext and supplies no character-state evidence; V09 and later sources remain outside this boundary.
 
 ## 1. Entry begins with genuine group admiration
 

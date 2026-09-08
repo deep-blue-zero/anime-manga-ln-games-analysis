@@ -2,10 +2,10 @@
 series: CHIRAMUNE
 artifact_type: specialist_synthesis
 scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
+source_boundary: "Japanese main Volumes 01-08 frozen; narrative supplements through V06.5 integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT with no independent locality transition; V09+ unopened"
 latest_analyzed_main: V08_MAIN
 latest_analyzed_supplemental: V06_5_FOUR_STORY_VOLUME
-generation: V0.6
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []

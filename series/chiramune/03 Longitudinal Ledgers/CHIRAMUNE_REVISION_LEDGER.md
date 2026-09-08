@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
 scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V08 rough-illustration supplement and V09+ unopened"
-generation: V1.0
+source_boundary: "Japanese main Volumes 01-08 frozen; V03/V05/V06.5 narrative supplements integrated; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; V09+ unopened"
+generation: V1.1
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -523,6 +523,26 @@ Their origin state is `ESTABLISHED_OR_REVISED_AT_V08_MAIN`. Exact locators, visu
 | V08S-Q02 | Do roughs add production evidence without adding diegetic events? | `OPEN` | separate creator/process evidence from narrative facts and from visual emphasis |
 | V08S-Q03 | Do notes materially revise image interpretation or character design history? | `OPEN` | require legible direct annotation; preserve uncertainty and avoid inferred intent |
 | V08S-Q04 | Which main images recur, and what witness relation do rough/final pairs have? | `OPEN` | route as stages of one illustration where applicable; do not double-count events |
+
+## V08 rough-supplement dispositions
+
+| Test ID | Disposition | Evidence-controlled result |
+|---|---|---|
+| `V08S-Q01` | `RESOLVE AS PRODUCTION PARATEXT` | The 50-page titled component contains character-design proposals, V01–V03 cover roughs, a selected rough gallery, three guest contributions, and its own colophon/back cover. |
+| `V08S-Q02` | `RESOLVE NO DIEGETIC TRANSITION` | The collection documents visual production and curation; it contains no new scene, dialogue, chronology, relationship state, or character conduct. |
+| `V08S-Q03` | `STRENGTHEN DESIGN HISTORY / PRESERVE INTENT LIMIT` | Visible alternatives establish iterative work on palette, silhouette, accessories, and hair, including Yuko's V07 haircut; discarded proposals do not establish canon or unspoken intent. |
+| `V08S-Q04` | `RESOLVE RELATED-WITNESS RULE` | Captioned rough/final or multi-stage images are production witnesses to one design process, not separate events; uncaptioned resemblance does not prove an exact workflow route. |
+
+## Claims established at the V08 rough-supplement checkpoint
+
+| ID | Prior state | Transition | Current formulation | Evidence route |
+|---|---|---|---|---|
+| F133 | the rough collection was technically separated but unopened | `RESOLVE SOURCE ROLE` | Its title, contents, four art-book chapters, colophon, and back cover establish a distinct 50-page `PRODUCTION_PARATEXT` component. | `CHIRAMUNE_V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_READING.md` §§I, IX |
+| F134 | character imagery was known only from published main illustrations | `STRENGTHEN PRODUCTION HISTORY / PRESERVE DIEGETIC LIMIT` | Design sheets document alternatives in palette, silhouette, accessories, hair, and pose; proposals are not hidden character canon or retcons. | §§II–III |
+| F135 | edition-witness double-counting controls existed for prose | `EXTEND TO VISUAL PRODUCTION WITNESSES` | Retrospective V01–V03 roughs enter at the post-V08-main boundary, cannot rewrite early freezes, and rough/final stages are not separate events. | §§IV–V |
+| F136 | guest art was unclassified within the special edition | `ESTABLISH DISTINCT AUTHORSHIP LIMIT` | Three artist-signed guest contributions are commissioned paratext, not raemz process stages or sources of canonical event, motive, or relation. | §VII |
+
+Their origin state is `ESTABLISHED_AT_V08_ROUGH_SUPPLEMENT`. The exact component graph, page/image locators, integrity digest, and hard nonclaims live in `CHIRAMUNE_V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_READING.md`. No diegetic ledger or character-model transition follows.
 
 ## Open V09 main test register
 

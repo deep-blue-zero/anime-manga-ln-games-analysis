@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: character_monograph
 scope: ASUKA_NISHINO_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V08 rough-illustration supplement and V09+ unopened"
-generation: V0.8
+source_boundary: "Japanese main Volumes 01-08 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; V09+ unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
