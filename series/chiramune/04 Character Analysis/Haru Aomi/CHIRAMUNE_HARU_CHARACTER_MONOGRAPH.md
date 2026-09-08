@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: HARU_AOMI_V01_V04_BASELINE
-source_boundary: "Japanese Volumes 01-04; V04 interpreted prospectively from the frozen V03-main and V03-booklet checkpoint; V05+ unopened"
-generation: V0.1
+scope: HARU_AOMI_V01_V05_MAIN
+source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+generation: V0.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Haru Aomi — V01–V04 character monograph
+# Haru Aomi — V01–V05-main character monograph
 
 ## Scope and promotion basis
 
@@ -211,3 +211,43 @@ Unsupported. He answers through support and a directed gesture, not reciprocal l
 - whether Haru can identify conduct without claiming exhaustive access to another person's seriousness;
 - whether reversible sun/moon language remains relational rather than becoming a fixed hierarchy;
 - whether future loss preserves the distinction between full effort and guaranteed victory.
+
+# V05 regular-main longitudinal revision
+
+## The transferred next move becomes a protocol
+
+Haru begins V05 aware that her confession and kiss made feeling visible without establishing a request or answer. Her awkwardness with Saku shows that emotional directness can still leave procedural ambiguity `[part0010#p0012-p0030]`.
+
+She first asks to visit his home, accepting Yuzuki's help at the level she chooses. During the later night run she names the problem directly. Haru refuses to withdraw her love, asks Saku to see her as a girl and romantic possibility, and says she must complete her own `kejime` before making the genuine challenge `[part0018#p0998-part0020#p0008]`.
+
+She does not ask Saku to wait. Her bounded request is that he not flee when the later challenge comes, and he agrees `[part0020#p0010-p0026]`. This is substantial procedural growth: a dramatic declaration is translated into a future act with timing, responsibility, and non-entitlement.
+
+## Running partnership is reciprocal without becoming a romantic answer
+
+Saku explains that the V04 game closed Fujishi membership but left chosen baseball possible. Haru accepts the boundary and promises to watch without directing his next form. Each privately fears the other may become unreachable and uses the same running-partner language `[part0010#p0276-p0323]`.
+
+The relation therefore gains explicit reciprocity around action and future aspiration. That does not automatically convert it into reciprocal romantic love. Haru herself preserves the distinction by reserving a genuine later request.
+
+## Female friendship is part of her agency
+
+Yuzuki first offers Haru private access, then helps only when Haru asks. Yuko and Yuzuki help her choose a swimsuit that presents the athletic body she actually has rather than treating it as a failed feminine form `[part0010#p0069-p0117]`, `[part0013#p0703-part0015#p0019]`.
+
+Haru's romantic development is therefore not a solo conversion from tomboy to girl. It is supported through rival friendship while leaving sport identity intact. The V05 supplement's announced first-year Yuzuki/Haru story may later historicize this relationship, but it supplies no current evidence until opened and placed.
+
+## Team-governance limits remain open
+
+V05 mentions team success and Mai-related invitations but provides no sustained scene of training negotiation, workload accountability, injury protocol, or repair of the hidden compact. Outcome cannot stand in for method evidence. The central V04 leadership contradiction remains open rather than silently resolved.
+
+## V05-main current model
+
+> **Haru at V05 main retains her high-temperature directness while becoming more procedurally exact. She converts an unanswered confession into a future challenge that owns her unfinished work, preserves Saku's freedom not to wait, and asks only that he meet the eventual bid. Her equal running-partner relation with Saku is real but not a romantic answer. The largest unresolved gap remains collective: V05 shows no evidence that her improved dyadic consent practice has generalized to transparent, safe team leadership.**
+
+## Post-main watchlist
+
+- how the V05 special-edition first-year story changes the history of Haru/Yuzuki, if safely placeable;
+- what `kejime` Haru believes she must complete;
+- whether the genuine challenge and Saku's answer occur;
+- whether she accepts a no without translating it into failed intensity;
+- whether team governance becomes transparent before another collapse;
+- whether rival friendship survives the post-Yuko fracture;
+- whether running-partner reciprocity extends into ordinary, nonathletic dependence.

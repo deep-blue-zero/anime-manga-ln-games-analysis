@@ -2,7 +2,7 @@
 series: CHIRAMUNE
 artifact_type: sequential_reading_contract
 scope: VOLUME_BY_VOLUME_ANALYSIS
-generation: V0.5
+generation: V0.6
 status: canonical
 release_state: mutable_active
 ---
@@ -33,12 +33,12 @@ Each numbered main volume is read from the frozen analytical state produced by t
 
 Later volumes can revise the current model. They cannot rewrite the historical record of what the earlier source boundary supported.
 
-The current frozen main-volume high-water mark is **V04**. The V03 EPUB's pre-main bonus is integrated under `BONUS_FICTION`. The separate V03 illustration/short-story booklet is independently integrated under `SUPPLEMENTAL_MAINLINE` in `CHIRAMUNE_V03_SUPPLEMENTAL_BOOKLET_READING.md`, whose checkpoint preserves the main V03 freeze. Main V04 is now independently frozen in `CHIRAMUNE_V04_DEEP_READING.md` and `CHIRAMUNE_V04_PROSPECTIVE_FREEZE.md`. Regular-edition main V05 is the next safe source; its special-edition material remains unopened until the main V05 freeze.
+The current frozen main-volume high-water mark is **regular main V05**. The V03 EPUB's pre-main bonus is integrated under `BONUS_FICTION`. The separate V03 illustration/short-story booklet is independently integrated under `SUPPLEMENTAL_MAINLINE` in `CHIRAMUNE_V03_SUPPLEMENTAL_BOOKLET_READING.md`, whose checkpoint preserves the main V03 freeze. Regular V05 is now independently frozen in `CHIRAMUNE_V05_DEEP_READING.md` and `CHIRAMUNE_V05_PROSPECTIVE_FREEZE.md`. The separate V05 special-edition object is the next safe source and must receive a component-level inventory, provenance/placement audit, reading, and supplemental checkpoint before Volume 06.
 
 ## Supplemental sequencing
 
 - **Volume 03 illustration/SS booklet:** main Volume 03 froze first; the separate booklet is now classified `SUPPLEMENTAL_MAINLINE`, placed late in V03, and preserved in its own frozen reading/checkpoint.
-- **Volume 05 special edition:** use regular Volume 05 for mainline prospective reading; integrate distinct SS/supplemental material only after V05 freezes.
+- **Volume 05 special edition:** regular Volume 05 is now frozen. Open the separate object only after that checkpoint is committed, pushed, audited, and independently validated; inventory and place each component rather than assigning one blanket chronology.
 - **Volume 06.5:** classify publication and diegetic placement before integration; preserve the main numbered prospective chain.
 - **Volume 08 special edition:** it is the current complete V08 narrative witness. Analyze the main novel portion and freeze V08 before using the rough-illustration supplement as supplemental evidence when technically distinguishable.
 - **Days of Endless Summer:** treat as a later side-story collection whose individual stories require provenance/placement before integration.

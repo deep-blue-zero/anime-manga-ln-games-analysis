@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V0.3
+generation: V0.4
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -69,6 +69,12 @@ A separate regular Volume 08 EPUB is not held. The acquired special edition cont
 ### Volume 05
 
 Both the regular Volume 05 witness and a special-edition object are present. Use the regular witness for the clean mainline prospective reading unless a later source audit identifies a reason not to. Treat distinct special-edition SS/supplemental material separately after the Volume 05 mainline reading has frozen.
+
+### Volume 05 regular-main analysis disposition
+
+The regular Volume 05 witness was reverified at SHA-256 `6266d27492bcc2a966ca3aa7fca98a47e9bd830a0e71cfeb62df4aeedf3efc7e` before prospective reading. Its complete narrative, cover, five frontmatter images, ten narrative illustrations, afterword, author profile, colophon, and eleven advertising/editorial backmatter images were classified. No embedded bonus fiction was found.
+
+The afterword confirms that the separate special edition contains an approximately 130-page short-story booklet combining retailer bonus stories and a newly written first-year Yuzuki/Haru story. That paratext establishes narrative material exists but does not admit any event from the separate object into the regular-main freeze. The regular V05 main reading and prospective freeze are complete. The separate special-edition object remains analytically unopened and is the next safe source.
 
 ### Volume 04 analysis disposition
 

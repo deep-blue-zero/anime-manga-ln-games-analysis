@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_04
-source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
-generation: V0.4
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_05_MAIN
+source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -250,3 +250,71 @@ Their origin state is `ESTABLISHED_AT_V04`. Assign a later transition only when 
 | V05-Q08 | How does Saku classify Asuka after V04's uncertainty? | `OPEN` | later speech, interiority, or action that tests the category |
 | V05-Q09 | Do Yua's and Yuko's pending claims receive answers? | `OPEN` | follow-through on performance/nearness or revision of the moratorium |
 | V05-Q10 | Do co-opening, retrievability, and reversible light persist? | `OPEN` | V05 motif, language, image, or scene structure |
+
+## V04 frozen-claim audit at the V05-main boundary
+
+The V04 freeze remains intact in `../02 Sequential Readings/CHIRAMUNE_V04_PROSPECTIVE_FREEZE.md`. Regular V05 transitions route to `../02 Sequential Readings/CHIRAMUNE_V05_DEEP_READING.md` and its prospective freeze. The separate V05 special-edition object remained unopened throughout this audit.
+
+| Claim ID | Frozen V04 formulation | V05-main transition | Current formulation at V05 main | Primary route |
+|---|---|---|---|---|
+| F41 | Haru's passion forms a reciprocal circuit rather than a one-way rescue. | `STRENGTHEN / BROADEN` | Haru and Saku explicitly call one another running partners around separately authored ambitions; romantic reciprocity remains unestablished. | V05 deep reading §§V–VI |
+| F42 | Saku gives complete baseball disclosure and accepts accompaniment. | `PRESERVE / LIMIT` | He can receive long-running Yua care but still does not initiate a support request; after refusal he actively denies himself comfort. | V05 deep reading §§VIII, XII |
+| F43 | Haru pressures recognition but leaves the baseball decision to Saku. | `STRENGTHEN` | She accepts post-Fujishi self-direction and designs a future romantic challenge that does not ask him to wait. | V05 deep reading §§V–VI |
+| F44 | Fujishi institutional baseball closes without renouncing every future form of play. | `STRENGTHEN / PARTIAL RESOLUTION` | Saku explicitly names the prior game his Fujishi retirement, will keep swinging, and may restart from pleasure rather than restoration. | V05 deep reading §V |
+| F45 | Shared goal does not establish consent to a leader's method or interior judgment. | `PRESERVE / OPEN` | No V05 scene materially retests ordinary team method, safety, or accountability. Reported performance is not procedure evidence. | V05 deep reading §VI |
+| F46 | Yuzuki has independent corrective and team-leading authority. | `PRESERVE / BROADEN` | Team leadership is not retested, but she uses independent relational judgment to assist Haru and state a bounded fireworks request. | V05 deep reading §§VI–VII |
+| F47 | Sports outcomes are produced by differentiated interdependence. | `PRESERVE / BROADEN` | Domestic care, lost-child cooperation, rotating beach groups, and aftermath care extend differentiated contribution beyond sport. | V05 deep reading §§VIII–IX, XIII |
+| F48 | Haru names love and transfers the next move without reciprocal naming. | `STRENGTHEN / PARTIAL RESOLUTION` | She clarifies how the future move will work and Saku promises not to flee; the actual relationship request and answer remain pending. | V05 deep reading §VI |
+| F49 | V03 Saku/Asuka love language remains fact while V04 reopens Saku's category. | `STRENGTHEN / OPEN` | Saku's threatened-loss desire and unspoken plea intensify the bond without supplying a stable category or identifying the later unnamed girl. | V05 deep reading §IV |
+| F50 | The Ramune bottle is co-opened and the marble retrievable. | `PRESERVE / BROADEN` | Eight bottles distribute the title object collectively; photographs and keepsakes qualify retrieval as later reconstruction rather than exact return. | V05 deep reading §§III, XV |
+| F51 | Sun and moon are relational positions, not fixed essences. | `PRESERVE / BROADEN` | Yuzuki's lunar-princess play continues, while shared-burden and finite-form images carry more of V05's work. | relationship ledger V05 update |
+| F52 | Effort ethic remains compromised by injury romanticization. | `STRENGTHEN / BROADEN` | Saku turns responsibility for romantic harm into acceptance of assault, self-inflicted injury, and a ban on seeking comfort. | V05 deep reading §XII |
+
+## V05 prospective-question dispositions
+
+| Test ID | Entering question | V05-main transition | Result |
+|---|---|---|---|
+| V05-Q01 | What follows Saku's bounded Fujishi closure? | `STRENGTHEN / PARTIAL RESOLUTION` | Fujishi retirement remains closed; Saku will keep swinging and may restart serious play from pleasure. |
+| V05-Q02 | Can Haru's team negotiate method and safety openly? | `OPEN` | V05 supplies no adequate ordinary governance or safety negotiation scene. |
+| V05-Q03 | Will Haru request and Saku make the transferred next move? | `STRENGTHEN / PARTIAL RESOLUTION` | Haru defines a future challenge and Saku promises not to flee; the actual request and answer remain open. |
+| V05-Q04 | Can Yuzuki make a direct romantic request or boundary? | `STRENGTHEN` | The dating line is rehearsal; the ten-fireworks/sleeve-only request directly states present desire and boundary. |
+| V05-Q05 | Does Saku revise self-injury as proof of commitment? | `REJECT IMPROVEMENT / STRENGTHEN FAILURE` | Self-harm becomes moral punishment and support refusal. |
+| V05-Q06 | Can Saku request support around family/home/dependence? | `STRENGTHEN RECEPTION / OPEN INITIATION` | He knowingly accepts Yua's long care and longs for family scenes, but does not ask. |
+| V05-Q07 | Can cooperative group rivalry survive real exclusion? | `RESOLVE FRACTURE / OPEN SURVIVAL` | Yuko's refusal produces an enacted split; repair is unobserved. |
+| V05-Q08 | How does Saku classify Asuka after V04 uncertainty? | `STRENGTHEN DESIRE / OPEN CATEGORY` | He wants to stop or delay her departure but says he lacks standing; no stable label follows. |
+| V05-Q09 | Do Yua's and Yuko's pending claims receive answers? | `RESOLVE / REVISE` | Yuko is explicitly refused; Yua chooses Saku without requiring status or naming. |
+| V05-Q10 | Do co-opening, retrievability, and reversible light persist? | `REVISE / BROADEN` | Eight bottles add collective scale; finite objects retrieve transformed memory, not an unchanged past. |
+
+## Claims established at the V05 regular-main freeze
+
+Exact wording, class, confidence, limits, and locators remain in `../02 Sequential Readings/CHIRAMUNE_V05_PROSPECTIVE_FREEZE.md`:
+
+- `F53` — truthful romantic choice makes structural exclusion visible;
+- `F54` — Saku refuses Yuko and names one other, unidentified girl;
+- `F55` — Yuko's desired singularity originates in exceptional distance;
+- `F56` — the group undergoes an actual but not proven terminal fracture;
+- `F57` — Saku's self-disposability broadens into moralized self-punishment;
+- `F58` — Yua chooses Saku without requiring reciprocal romantic priority;
+- `F59` — sustained domestic support can be received without being requested;
+- `F60` — Haru converts overflow into a bounded future consent protocol;
+- `F61` — Yuzuki can state desire and bodily limits together;
+- `F62` — Saku's plural attraction includes acknowledged jealousy but remains deferred;
+- `F63` — Fujishi closure is preserved while chosen baseball remains open;
+- `F64` — Kaito's love and trust do not authorize assault or romantic delegation;
+- `F65` — cross-girl care remains real while exclusion raises its cost;
+- `F66` — finite forms retrieve transformed memory, not the unchanged past;
+- `F67` — locality has become independent developmental infrastructure;
+- `F68` — Ramune gains collective scale without terminal meaning.
+
+Their origin state is `ESTABLISHED_AT_V05_MAIN`. Assign later transitions only when the separately controlled V05 supplement or another safely admitted source materially tests one.
+
+## Open V05 special-edition test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| V05S-Q01 | What exact stories, images, prior bonuses, and new writing are present? | `OPEN` | component-level inventory and locators |
+| V05S-Q02 | What are the original-publication and diegetic placements of each component? | `OPEN` | provenance per story; no blanket chronology |
+| V05S-Q03 | Does the newly written first-year Yuzuki/Haru story depend on V05-main knowledge? | `OPEN` | paratext, content, and spoiler-dependency audit |
+| V05S-Q04 | Which V05 claims are revised rather than merely textured? | `OPEN` | explicit claim-by-claim transition |
+| V05S-Q05 | Does any component directly identify Saku's unnamed girl? | `OPEN` | direct wording only; prominence is insufficient |
+| V05S-Q06 | Are retailer-origin stories' first-distribution details recoverable? | `OPEN` | source-level evidence or preserved uncertainty |

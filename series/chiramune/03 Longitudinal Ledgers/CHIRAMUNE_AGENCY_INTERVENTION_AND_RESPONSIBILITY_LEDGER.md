@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V04
-source_boundary: "Japanese Volumes 01-04; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated after the main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
-generation: V0.4
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V05_MAIN
+source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -249,3 +249,45 @@ Haru's intervention with Saku works because her pressure terminates in his delib
 - relational standing over self-risk → **STRENGTHEN**; teammates, Haru, coach, and Yusuke all bear consequences of his concealment.
 - successful outcome as ethical vindication → **REJECT again**; both sports victories/near-victories leave method harms intact.
 - New live question: can consent, safety, and disagreement become ordinary practice rather than corrections applied only after collapse?
+
+# V05 regular-main update — bounded bids, legitimate refusal, and non-extractive care
+
+## V05 governing revision
+
+Volume 05 distinguishes the right to make another person answer from authority over the answer. Yuko may end the moratorium and ask for singular status; Saku may refuse; neither right makes the resulting harm unreal. The ending contrasts Kaito's violent enforcement, Saku's self-punishment, and Yua's presence that neither extracts disclosure nor demands romantic repayment.
+
+## V05 entries
+
+| ID | Intervention | Agency / authority question | V05-main assessment | Locator |
+|---|---|---|---|---|
+| AI-058 | Yuzuki helps Haru prepare a home visit | does rivalry permit practical support without directing the bid? | strong recipient-led assistance: Yuzuki offers privacy, then participates only when Haru asks | `[part0010#p0031-p0117]` |
+| AI-059 | Yua's long domestic maintenance | can sustained care be freely offered and consciously received? | real support with Saku's informed acceptance; it does not prove he can initiate a request | `[part0010#p0177-p0212]` |
+| AI-060 | Saku promises serious consideration of a genuine Yuzuki request | what is owed before the request actually exists? | proportionate procedural commitment without manufacturing an answer or pretending the hypothetical is a present proposal | `[part0010#p0473-p0511]` |
+| AI-061 | Yuzuki asks for ten fireworks and sleeve-only contact | can a present bid include explicit bodily and relational limits? | strong bounded self-advocacy; Saku complies with the requested scope | `[part0016#p0242-p0326]` |
+| AI-062 | Saku challenges first-year nomination pressure | may he intervene when Yuko's popularity makes Yua's refusal illegible? | outcome is agency-expanding and he accepts Yua's rebuke, though the abrasive method remains self-authorized | `[part0013#p0131-p0343]` |
+| AI-063 | Nazuna counsels Yuko | does support normalize feeling without selecting action? | she validates ordinary love and jealousy, preserves confidentiality, and clarifies both confession and delay risks | `[part0013#p0385-p0587]` |
+| AI-064 | Haru defines the future challenge | may she preserve love while declining to demand waiting? | consent-sensitive: she names how she wants to be seen, owns unfinished work, and asks only for non-evasion when the real request arrives | `[part0018#p0998-part0020#p0026]` |
+| AI-065 | Yuko assembles the group and confesses | may she make a private romantic ambiguity publicly answerable? | legitimate self-advocacy with foreseeable collective cost; witness prevents comic escape but also removes privacy | `[part0027#p0032-p0284]` |
+| AI-066 | Saku refuses Yuko | does responsibility for ambiguity create an obligation to reciprocate? | no; honest refusal preserves romantic jurisdiction while making his causal responsibility and the resulting harm visible | `[part0027#p0292-p0377]` |
+| AI-067 | Kaito assaults Saku | can love, delegated trust, or observed harm authorize force? | no; the attack overrides Yuko, Saku, and the distinction between kindness and romantic consent | `[part0029#p0002-p0031]` |
+| AI-068 | Yuko stops Kaito | who may intervene in violence ostensibly committed for her? | immediate legitimate restraint and a correct defense of nonromantic care; her self-insufficiency explanation remains harmful counterevidence | `[part0029#p0034-p0047]` |
+| AI-069 | Kazuki prevents a second punch | can one stop violence without absolving prior conduct? | proportionate physical intervention paired with continued moral criticism of Saku | `[part0029#p0031-p0057]` |
+| AI-070 | Yua follows, faces away, and plays saxophone | can care accompany grief without demanding access? | strongest non-extractive support model so far: chosen presence plus privacy, no explanation or reciprocal status required | `[part0029#p0104-part0031#p0012]` |
+
+## Refusal and aftermath rule after V05 main
+
+The four-part intervention test now includes an explicit romantic application:
+
+1. a person may make their own desire answerable;
+2. the recipient retains jurisdiction to accept or refuse;
+3. prior ambiguity can create causal responsibility without creating romantic debt;
+4. aftermath care must not convert grief into violence, coerced absolution, self-punishment, or entitlement to disclosure.
+
+## V05-main revision state
+
+- direct romantic self-advocacy → **STRENGTHEN** through bounded Yuzuki and Haru protocols and Yuko's completed request.
+- legitimate refusal versus responsibility → **SEPARATE**; Saku may refuse and still answer for how ambiguity affected the group.
+- relational standing over self-harm → **STRENGTHEN**, while Saku's compliance worsens.
+- accompaniment without control → **STRENGTHEN decisively** through Yua's final action.
+- outcome as method vindication → **REJECT again**; no later kindness validates Kaito's assault or Saku's self-punishment.
+- team safety/accountability → **OPEN**; V05 main supplies results, not a procedural retest.

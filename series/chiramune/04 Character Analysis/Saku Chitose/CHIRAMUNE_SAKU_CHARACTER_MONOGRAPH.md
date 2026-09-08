@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V04_BASELINE
-source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
-generation: V0.5
+scope: SAKU_CHITOSE_V01_V05_MAIN
+source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Saku Chitose — V01–V04 character monograph
+# Saku Chitose — V01–V05-main character monograph
 
 ## Scope and authority
 
@@ -717,3 +717,62 @@ Saku can also become a sun in Haru's focalization while receiving her sunlight i
 - whether he directly answers Yuzuki, Yua, or Yuko rather than receiving their bids below naming;
 - whether distributed completion becomes ordinary rather than climax-specific;
 - whether collaborative opening produces any practical revision of the perfection rule.
+
+# V05 regular-main longitudinal revision
+
+## 1. The promise to face feeling produces an answer, not comprehensive openness
+
+At summer's beginning Saku resolves to stop evading other people's feelings and his own `[part0008#p0112-p0124]`. The result is mixed. He gives Yuko an explicit refusal when she makes ambiguity impossible, but earlier defers reflection on jealousy toward Yuzuki and never voices the plea he wants to make to Asuka.
+
+V05 therefore separates categorical honesty under direct demand from self-initiated relational disclosure. Saku can refuse a false answer; he still relies on timing, standing arguments, jokes, and future scheduling to avoid making his own positive desires answerable.
+
+## 2. Baseball becomes a selectable practice after institutional closure
+
+Saku explicitly calls the V04 game his Fujishi retirement game. He can imagine serious baseball again only from the elementary pleasure of throwing and hitting, and commits to keeping up his swings `[part0010#p0276-p0310]`.
+
+The V04 ending is confirmed rather than reversed. What becomes possible is neither institutional restoration nor total renunciation, but re-entry into a practice whose purpose he may select.
+
+## 3. He can receive maintenance while remaining unable to ask
+
+Yua's almost year-long shopping and cooking support began when baseball grief disrupted Saku's ability to feed himself. He recognizes both the protective framing and his own dependence, feels gratitude and shame, and consciously accepts the care as something she chooses `[part0010#p0177-p0212]`.
+
+This is a material correction to any claim that he refuses all dependence. The narrower difficulty survives: he does not initiate the arrangement through a request, and even his desire to remain inside Yuko and Kotone's family scene stays internal `[part0012#p0139-p0152]`.
+
+## 4. Attraction becomes plural and explicitly jealous
+
+Saku's desire toward Asuka appears as a threatened-loss response. He wants to say “do not go” or “wait,” but treats himself as unauthorized to ask `[part0022#p0206-part0024#p0018]`. This strengthens attachment without resolving the V03/V04 category conflict.
+
+With Yuzuki, jealousy becomes explicit. He resents Kazuki's access to an unperformed boyish smile and recognizes the possessive belief that such access should belong to him `[part0026#p0271-p0304]`. He then postpones reflection and uses shared comic cover to restore ease. V05 therefore establishes plural directional attraction and scarcity awareness while preserving uncertainty about final choice.
+
+## 5. Yuko's request forces legitimate refusal and causal accountability apart
+
+Yuko's public confession makes Saku's normal comic deflection unavailable. He recognizes their accumulated intimacy, his dependence on her presence, the harm either answer will cause, and his own role in creating the crisis. He still refuses because another girl is in his heart `[part0027#p0131-p0377]`.
+
+The refusal is ethically legitimate. Responsibility for cultivated ambiguity does not create romantic debt. Yet legitimate jurisdiction over the answer does not remove causal responsibility for years of receptive, hero-coded intimacy below explicit category. The unnamed girl must remain unnamed in this model; neither Asuka, Yuzuki, Haru, nor Yua may be substituted without direct evidence.
+
+## 6. Accountability becomes self-punishment
+
+After Kaito's assault, Saku accepts the blows as deserved and then strikes his already injured face for thinking of Asuka as support. He reasons that the person who caused pain has no right to look hurt or seek comfort `[part0029#p0094-p0102]`.
+
+This is the strongest negative revision to the V04 model. His self-disposability is not merely an athlete's present-versus-future calculus. It is a moral identity in which acknowledging his own pain appears to steal attention from the harmed person. The belief blocks relational accountability because punishment replaces communication and repair.
+
+## 7. Yua interrupts isolation without seizing interpretation
+
+Yua follows after choosing her own first priority. She does not ask to be identified as the girl in his heart, does not demand explanation, and does not absolve him. By facing away and playing saxophone, she creates acoustic cover for grief `[part0029#p0104-part0031#p0012]`.
+
+Saku accepts the space and cries. This is a limited but significant receptive act: he can be protected without performing explanation. It does not yet show that he can ask for such care or believe he deserves it.
+
+## 8. V05-main stable model
+
+> **Saku at the V05-main boundary is capable of honest refusal and increasingly explicit self-recognition, but not yet of timely positive choice. He preserves others' romantic jurisdiction more reliably than he shares his own desire, and he converts causal guilt into bodily punishment rather than relational repair. Baseball and domestic dependence show that old forms can become selectable practices; Yua's final presence shows that vulnerability can be sheltered without being owned. The central unresolved question is whether he can treat himself as a participant in aftermath—answerable, supportable, and capable of repair—rather than as either hero or culprit who must carry everything alone.**
+
+## 9. Post-main watchlist
+
+- whether the V05 supplement supplies only earlier texture or materially revises this model;
+- whether any direct source identifies the unnamed girl;
+- whether Saku can distinguish honest refusal from self-sentencing;
+- whether he asks for care before another person acts unbidden;
+- whether jealousy becomes disclosure, commitment, or renewed delay;
+- whether chosen baseball develops beyond private swings;
+- whether the fractured group can be approached without demanding exact restoration;
+- whether he can apologize and repair without accepting violence or erasing his own pain.

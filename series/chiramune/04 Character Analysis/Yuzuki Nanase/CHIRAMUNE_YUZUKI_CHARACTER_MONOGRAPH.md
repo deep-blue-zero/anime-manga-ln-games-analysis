@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V04_BASELINE
-source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
-generation: V0.4
+scope: YUZUKI_NANASE_V01_V05_MAIN
+source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — V01–V04 character monograph
+# Yuzuki Nanase — V01–V05-main character monograph
 
 ## Scope
 
@@ -372,3 +372,48 @@ V04 thus separates two developmental tracks. Yuzuki can reclaim public jurisdict
 - whether Saku recognizes her hurt without needing theatrical translation;
 - whether public authority reduces or reproduces her habit of absorbing others' expectations;
 - whether competition remains non-sabotaging if Saku makes an excluding choice.
+
+# V05 regular-main longitudinal revision
+
+## 1. Domestic comparison becomes knowledge rather than devaluation
+
+At Saku's apartment Yuzuki sees Yua's accumulated cooking and household competence operating through season, price, reuse, taste, and cleanup. She recognizes that Yua and Saku possess an ordinary history in the space that predates and exceeds her own memories there `[part0010#p0327-p0399]`.
+
+Jealousy does not produce a status attack. Yuzuki cannot make her own position unique by dismissing Yua, Yuko, or Asuka. She instead names her desired contribution as understanding Saku deeply. That claim remains partly competitive and may still overestimate interpretive access, but it is formed in the presence of disconfirming evidence rather than by erasing it.
+
+## 2. The hypothetical request is a rehearsal with a real procedural gain
+
+Yuzuki asks whether she may say “please go out with me.” Saku promises that a genuine request will receive genuinely serious consideration. She stops there and calls that knowledge enough for the day `[part0010#p0473-p0511]`.
+
+The exchange does not constitute a present dating proposal. It does reduce uncertainty about procedure: Saku will not dismiss, joke away, or pre-refuse a completed request. Yuzuki retains deniability while securing a rule for future directness.
+
+## 3. Ten fireworks cross into bounded present self-advocacy
+
+At the festival, Yuzuki directly asks for ten fireworks alone with Saku. She says they cannot hold hands because they are no longer lovers and limits contact to his sleeve `[part0016#p0242-p0326]`.
+
+This is smaller than a relationship demand but more direct than the V03 `overwrite`. Desire, duration, current status, and bodily limit are all explicit. Yuzuki demonstrates that self-advocacy need not be total confession or coercive escalation; it can claim a finite experience and preserve both people's jurisdiction.
+
+## 4. Her unperformed smile becomes an object of Saku's jealousy
+
+When Yuzuki describes Kazuki's unexpectedly boyish soccer enthusiasm, Saku becomes jealous because Kazuki elicited a similarly unguarded expression from her. This is Saku-side evidence, not proof that Yuzuki intended a bid toward Kazuki. It nonetheless revises the relational model: Saku experiences her selective access as scarce and personally claimed `[part0026#p0271-p0304]`.
+
+Yuzuki notices his withdrawal and asks whether she did something wrong. She accepts his sexual joke as mutually legible cover. Their mask literacy restores ease but lets the actual jealousy remain undisclosed `[part0026#p0308-p0339]`.
+
+## 5. Friendship with rivals becomes independently real and costly
+
+Yuzuki assists Haru's home visit at Haru's requested level, coordinates presentation with Yuko, participates in the girls' independent pleasure, and protects Yuko during the love discussion. These are not merely strategic moves around Saku. They are friendships whose value makes exclusion harder.
+
+Her non-sabotaging competition therefore survives V05 main before the refusal, but the volume ends before her post-fracture response is known. It would be premature to claim that the same balance survives aftermath.
+
+## 6. V05-main current model
+
+> **Yuzuki at V05 main remains an authored social optimizer, but she has developed a usable ladder from deniable bid to bounded direct request. She can acknowledge rivals' irreducible histories, support their agency, and still claim finite intimacy for herself. Saku's jealousy confirms that he experiences her unperformed presence as scarce, but neither that jealousy nor his promise of serious consideration is a relationship answer. The next test is whether Yuzuki can use this growing directness after exclusion changes the group, without returning to invisible management or converting friendship into self-erasure.**
+
+## 7. Post-main watchlist
+
+- whether the V05 special-edition stories change or only historicize her relation with Haru;
+- whether she makes the future dating request in present tense;
+- whether she can respond to Saku's refusal of Yuko without becoming a private complaint manager;
+- whether she asks Saku about his jealousy or lets their shared cover remain closed;
+- whether finite, bounded self-advocacy generalizes beyond festival ritual;
+- whether friendship with Yuko survives without pretending the excluding event did not occur.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V04
-source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
-generation: V0.4
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V05_MAIN
+source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -302,3 +302,86 @@ The old team becomes capable of receiving Saku's effort rather than only consumi
 - whether Yuko's answer moratorium survives outside correction;
 - whether the group remains cooperative when a choice produces actual exclusion;
 - whether the old team's repaired contact continues without reopening institutional membership.
+
+# V05 regular-main state changes
+
+## Saku ↔ Yuko
+
+Yuko's prologue and first-year account distinguish two forms of specialness. Admiring exception deprived her of ordinary correction; Saku's challenge made equality possible and became the origin of her love. She then seeks a mutually chosen singular position from him `[part0007#p0004-p0032]`, `[part0013#p0131-p0381]`.
+
+Their V05 ordinary intimacy is substantial: calls, the summer-camp invitation, shared ritual, family access, matching-yukata history, interlocking keychains, photographs, and mutual dependence on daily presence. Saku recognizes that Yuko repeatedly opens unknown landscapes for him and that her greeting and attention stabilize his life `[part0012#p0181-p0241]`, `[part0026#p0493-p0584]`.
+
+Yuko publicly asks to become Saku's special person. He refuses and says another girl is in his heart `[part0027#p0251-p0377]`. The girl is singular and unidentified. Yuko's tearful insistence that only Saku will do preserves desire after the answer but does not establish a renewed moratorium or future obligation.
+
+**V05-main state:** deep mutual ordinary importance + Yuko's completed public request + explicit Saku refusal + singular unidentified other in Saku's heart + no couple + post-refusal relationship form open.
+
+## Saku ↔ Yua
+
+V05 reveals almost a year of shared household purchasing and food care beginning when Saku's baseball withdrawal impaired daily self-maintenance. He receives the care knowingly and experiences their shopping as a form of family life missing from childhood `[part0010#p0177-p0212]`.
+
+The lost-child scene produces a brief cooperative family tableau and paired shells. At the ending Yua explicitly chooses Saku when care must be distributed, while refusing to make support conditional on being his unnamed girl. Her saxophone covers his sobbing rather than soliciting disclosure `[part0024#p0022-p0155]`, `[part0029#p0104-part0031#p0012]`.
+
+**V05-main state:** sustained domestic maintenance + family-coded cooperation + Yua's chosen priority + non-extractive crisis presence + no reciprocal romantic naming and no identification as Saku's other girl.
+
+## Saku ↔ Haru
+
+Haru's home visit shows desire and fear coexisting with ordinary athletic ease. Saku's post-Fujishi decision and Haru's promise to watch without directing it produce explicit mutual running-partner language `[part0010#p0276-p0323]`.
+
+Haru later names the ambiguity left by her confession and kiss. She asks to be treated as a girl and romantic possibility, says she must complete her own settlement, declines to ask Saku to wait, and asks him not to flee when she makes the genuine challenge. He agrees `[part0018#p0998-part0020#p0026]`.
+
+**V05-main state:** reciprocal running partnership + direct Haru romantic category + agreed future answer protocol + no present dating request, Saku love naming, or couple.
+
+## Saku ↔ Yuzuki
+
+Yuzuki recognizes that Yua and the other girls hold histories she cannot invalidate. Her distinctive claim remains mutual interpretation. She tests a hypothetical dating request and receives Saku's promise of serious consideration, then limits that experiment to “for today” `[part0010#p0374-p0411]`, `[part0010#p0473-p0511]`.
+
+At fireworks she directly asks for ten fireworks and sleeve-only contact, explicitly refusing hand-holding because they are no longer lovers. Saku later becomes jealous that Kazuki saw an unperformed Yuzuki smile. He recognizes possessiveness, postpones examination, and uses mutually understood cover rather than disclosure `[part0016#p0242-p0326]`, `[part0026#p0271-p0339]`.
+
+**V05-main state:** named Yuzuki love + hypothetical dating rehearsal + promise of serious consideration + direct bounded present intimacy + explicit Saku jealousy + continued non-couple status and deferred answer.
+
+## Saku ↔ Asuka
+
+Asuka's last summer before departure becomes a sequence of deliberate time: local adventure, near-kiss, shared food, school-like study, Tokyo clothing, and a beach encounter staged so Saku will see her swimsuit first. Saku internally wants to stop or delay her departure but believes he lacks standing to ask `[part0008#p0371-part0010#p0008]`, `[part0022#p0206-part0024#p0018]`.
+
+**V05-main state:** Asuka's named love + Saku's attraction, threatened-loss desire, and unspoken request + approaching departure + no stable current Saku label, exclusivity, or evidence identifying her as the unnamed girl.
+
+## Yuko ↔ Yua / Yuzuki / Haru / Nazuna
+
+Yuko's friendships gain independent depth through shopping, clothes, food, water play, private disclosure, and future planning. Nazuna becomes the first new two-person girl friendship outside Yua and gives Yuko ordinary, unsentimental counsel. The girls' love conversation also makes reciprocal protection costly: Yuko speaks, while the others strategically conceal incompatible claims.
+
+**V05-main state:** genuine independent friendship + romantic mutual knowledge + protective evasion + refusal-aftermath disposition unresolved.
+
+## Saku ↔ Kaito and Kazuki
+
+Kaito's love for Yuko and belief that Saku should make her happiest become explicit through assault. Saku's friendship and prior promise to face Yuko do not create romantic obligation or authorize violence. Kazuki stops the second punch while maintaining that Saku helped create the predictable collision `[part0029#p0002-p0057]`.
+
+Kazuki's earlier account of giving up after seeing a girl love someone else strongly implies Yuko when joined to Saku's recognition, but remains inferential rather than directly named.
+
+**V05-main state:** Kaito trust/love disclosure + violent rupture; Kazuki protective intervention + moral criticism + strongly implied but unnamed renounced love.
+
+## Friend group
+
+The group builds a densely shared summer through photographs, food, fireworks, travel, sport, and rotating dyads. Yuko's public request and Saku's refusal then redistribute presence: Saku leaves, Yua follows, and the others remain with Yuko.
+
+**V05-main state:** independent bonds remain real + actual fracture established + unchanged restoration impossible + survival and repair open.
+
+## Cross-volume relationship hypotheses after V05 main
+
+1. **Romantic jurisdiction includes the right to request and the right to refuse; neither eliminates responsibility for foreseeable relational aftermath.**
+2. **Ordinary maintenance can carry deeper intimacy than spectacular rescue.** Yua's food and Yuko's invitations reveal forms of home Saku receives but rarely requests.
+3. **A direct bid can be bounded without being weak.** Haru's protocol and Yuzuki's fireworks request define scope, timing, and non-entitlement.
+4. **Jealousy supplies directional evidence but not commitment.** Saku's Yuzuki jealousy and Asuka loss-response clarify attachment while leaving category and choice open.
+5. **Friendship between rivals is not invalidated by concealment or exclusion cost.** It becomes ethically harder once truth changes the group.
+6. **Presence may be more respectful than interpretation.** Yua creates privacy rather than claiming knowledge of the unnamed girl or demanding Saku's explanation.
+
+# Post-V05-main watchlist
+
+- whether the separate V05 stories materially revise these states or only add earlier texture;
+- whether any direct source identifies Saku's unnamed girl;
+- whether Yuko can retain ordinary personhood after refusal without making herself deficient;
+- whether Kaito accounts for violence and relinquishes delegated authority over Yuko;
+- whether Yua's priority can coexist with restored group friendship and self-directed desire;
+- whether Haru completes her settlement and makes the promised challenge;
+- whether Yuzuki turns serious-consideration procedure into a present request;
+- whether Asuka and Saku permit a request without converting departure into control;
+- whether the group forms a new configuration rather than attempting exact restoration.

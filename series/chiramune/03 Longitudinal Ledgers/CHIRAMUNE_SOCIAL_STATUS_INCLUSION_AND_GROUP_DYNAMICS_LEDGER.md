@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V04
-source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated after the main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
-generation: V0.4
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V05_MAIN
+source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -235,3 +235,44 @@ V04 adds a distinction between **goal legitimacy** and **method legitimacy**. Th
 - group goal as evidence of unified commitment → **REVISE**; shared aspiration contains legitimate method disagreement.
 - status as permission → **BROADEN** to team roles: captaincy can license demands socially without making them procedurally sound.
 - New question: can team and friend-group interdependence survive routine disagreement without requiring collapse or spectacle to make every voice legible?
+
+# V05 regular-main update — exceptional distance and the first enacted split
+
+## V05 governing revision
+
+Volume 05 makes `special` the hinge between status injury and romantic scarcity. Exceptional treatment can exclude a popular person from ordinary equality, while a requested singular bond necessarily excludes competing claims. The friend group is not exposed as fake; its independent ties remain real. It is exposed as a configuration that cannot preserve every member's desired future unchanged.
+
+## V05 entries
+
+| ID | Scene | Status / group mechanism | Finding | Counterpoint | Locator |
+|---|---|---|---|---|---|
+| SG-044 | Tako-kyu toast and summer planning | normalized inclusion | Kenta can be emotional, interrupted, teased, and folded back into rhythm without rehabilitation framing | the social event still begins around Saku's invitation network | `[part0008#p0200-p0279]` |
+| SG-045 | restaurant photograph | preservation and inclusive framing | the group composes a present in which an old fan and camera include everyone | the image cannot preserve the later relationship form unchanged | `[part0008#p0292-p0312]` |
+| SG-046 | Yua nomination origin | popularity as coercive force | Yuko's innocent proposal makes refusal costly because class approval follows her status | she recognizes the harm and apologizes immediately | `[part0013#p0131-p0258]` |
+| SG-047 | swimsuit shopping and beach play | independent girl network | the four girls exchange skill, confidence, humor, care, and future plans beyond direct competition for Saku | presentation still partly anticipates his gaze | `[part0013#p0591-part0015#p0024]` |
+| SG-048 | girls' love discussion | protective concealment | Yuko names love while Yuzuki, Haru, and Yua evade; friendship preserves the evening but distributes unspoken cost | no denial can eliminate the mutually known conflict | `[part0016#p0373-p0456]` |
+| SG-049 | fireworks distribution | bounded subgroups inside whole-group ritual | ten-firework intervals create temporary dyadic space without dissolving the collective outing | access remains organized around Saku | `[part0016#p0242-p0326]` |
+| SG-050 | beach day | rotating topology | swimming, conversation, play, child care, photographs, and bonfire labor redistribute the group across many relations | romantic scarcity remains centered on Saku | `[part0024#p0159-part0026#p0459]` |
+| SG-051 | public classroom confession | group as witness institution | silence holds Yuko and Saku inside a consequential exchange rather than restoring comic routine | public form raises privacy and collective-stakes concerns | `[part0027#p0032-p0129]` |
+| SG-052 | explicit refusal | singular choice and status loss | Yuko's desired special position is denied; the group's suspended incompatibility becomes explicit | refusal does not diminish her general worth or erase prior belonging | `[part0027#p0251-p0398]` |
+| SG-053 | Kaito's assault | gendered enforcement and delegated happiness | Kaito attempts to enforce a romantic outcome through force and presumed male trust | Yuko and Kazuki interrupt; no collective legitimacy supports him | `[part0029#p0002-p0057]` |
+| SG-054 | opposing exits and Yua's pursuit | enacted topology change | Saku separates, Yua chooses him, and the remaining members stay with Yuko: care is materially redistributed after exclusion | future group survival is not yet observed | `[part0029#p0058-p0154]` |
+
+## Group topology after V05 main
+
+The group now has three simultaneous truths:
+
+- independent dyads and girl friendships are demonstrably real;
+- Saku remains the romantic scarcity center and a major connector;
+- a singular answer can redistribute presence even when no one intends general expulsion.
+
+The V03–V04 cooperative-rivalry claim therefore survives only in revised form. Cooperation can persist before and during explicit bids, but it does not prevent an answer from changing who can occupy the same room and how care is allocated afterward.
+
+## V05-main revision state
+
+- Kenta's ordinary membership → **PRESERVE / STRENGTHEN**.
+- Yuko's popularity as uncomplicated privilege → **REVISE**; it grants leverage while producing exceptional distance.
+- cooperative romantic rivalry → **REVISE** under actual refusal; friendship is real, unchanged topology is not.
+- distributed corrective authority → **PRESERVE** through Yuko, Kazuki, Nazuna, and Yua rather than Saku alone.
+- group fracture → **ESTABLISH**, with terminal destruction explicitly `OPEN`.
+- team-method accountability → **OPEN**; the basketball team receives no sufficient governance scene.

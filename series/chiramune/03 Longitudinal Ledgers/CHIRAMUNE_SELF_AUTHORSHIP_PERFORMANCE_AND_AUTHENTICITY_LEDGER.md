@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V04
-source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04 read prospectively from that checkpoint; V05+ unopened"
-generation: V0.5
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V05_MAIN
+source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -223,3 +223,39 @@ The current rule is:
 - Yuzuki's performance as chosen interface → **STRENGTHEN** through visible co-leadership; romantic deniability remains.
 - named love as stable category → **REVISE**; the speech act remains real while Saku's later self-classification reopens.
 - difficult effort as proof of authenticity → **REJECT in strong form** because injury and unsustainable practice constrain future authorship.
+
+# V05 regular-main update — finite forms, direct claims, and identity after refusal
+
+## V05 governing revision
+
+Volume 05 asks whether an authored social form may demand its own preservation. Yuko, Yuzuki, and Haru each move from protected or performed desire toward a differently bounded claim. Saku finally gives a categorical refusal, but then uses the moral identity of the person who caused pain to prohibit his own vulnerability. The problem is no longer whether performance can be sincere. It is whether a sincere role remains revisable when truth changes the people and group that sustained it.
+
+## V05 entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-057 | Yuko / imposed specialness | constant praise and deference leave her visible but outside ordinary correction | a privileged public identity can be experienced as enclosure rather than freedom | her popularity still gives real agenda-setting power | `[part0007#p0004-p0032]`, `[part0013#p0004-p0074]` |
+| SA-058 | Yuko / Saku origin | Saku contests her nomination pressure and absorbs the class role and blame | being treated as correctable gives Yuko ordinary personhood; Saku's hero form becomes her romantic origin | her love is thereby attached to his self-burdening performance | `[part0013#p0131-p0381]` |
+| SA-059 | Asuka / bounded same-age summer | she deliberately creates ordinary school-like time, first viewings, and last-summer experiences before departure | a long-practiced senior role can be relaxed without exposing it as false | the looming separation shapes the temporary equality | `[part0008#p0553-p0747]`, `[part0022#p0206-part0024#p0018]` |
+| SA-060 | Yua / domestic expertise | food care integrates season, economy, taste, reuse, and cleanup accumulated through ordinary labor | competence is a practiced daily identity rather than a sentimental feminine essence | Saku's need and romantic comparison can obscure her independent work | `[part0010#p0177-p0212]`, `[part0010#p0327-p0373]` |
+| SA-061 | Yuzuki / bounded requests | she rehearses a dating request, then directly asks for ten fireworks and sleeve-only contact | a polished performer can state desire, duration, and bodily boundary without relinquishing style | the larger romantic question still remains hypothetical or unanswered | `[part0010#p0473-p0511]`, `[part0016#p0242-p0326]` |
+| SA-062 | Haru / accountable future bid | she refuses to retract love, names the category in which she wants to be seen, and sets a future challenge after her own settlement | directness becomes an authored protocol rather than uncontrolled overflow | the settlement object and final request remain future matters | `[part0018#p0998-part0020#p0026]` |
+| SA-063 | Saku / jealous self-recognition | he recognizes possessiveness about Yuzuki's unperformed smile, then stores the feeling for later | self-knowledge can occur without immediate self-revision; scheduled reflection preserves optionality | he restores ease through cover rather than sharing the actual state | `[part0026#p0271-p0339]` |
+| SA-064 | Yuko / public confession | she rejects passive inevitability and chooses a witnessed request for singular status | self-authorship includes accepting that truth may change a valued social form | public witness increases the cost for every affected person | `[part0026#p0586-part0027#p0284]` |
+| SA-065 | Yuko / failed cheerful recovery | after refusal she first performs composure, then allows grief to become visible | a protective social form may be genuine care and still need to fail for the person's truth to remain legible | visible pain does not impose reciprocity | `[part0027#p0380-p0398]` |
+| SA-066 | Saku / honest refusal | he lists Yuko's value, recognizes his causal role, and refuses because another girl is in his heart | the hero identity can require a costly answer rather than preservation through a kind lie | the unnamed girl and Saku's broader romantic category remain unresolved | `[part0027#p0292-p0377]` |
+| SA-067 | Saku / moralized punishment | he treats Kaito's blows and his own injured face as deserved, then denies himself comfort | responsibility becomes a compulsory identity in which being accountable forbids being vulnerable | Yua's presence interrupts isolation but does not revise the belief | `[part0029#p0094-p0102]` |
+| SA-068 | Yua / chosen priority | she states her own first priority, follows Saku, and makes privacy without demanding reciprocal status | care can be self-authored and partial without claiming ownership of the recipient's interior | the scene does not name her feeling or identify Saku's other girl | `[part0029#p0104-part0031#p0012]` |
+
+## Authenticity rule after V05 main
+
+> **A self-authored form remains authentic only while it can be revised when truth changes the relationships that sustained it. Performance may carry sincere care, but neither a beloved role nor a beautiful group configuration may require another person to lie, accept love, remain invulnerable, or preserve yesterday's shape.**
+
+## V05-main revision state
+
+- Saku's willingness to face feeling → **STRENGTHEN in answer / REMAIN OPEN in self-disclosure**.
+- Saku's self-disposability → **STRENGTHEN as failure**, now explicitly moralized beyond sport.
+- Yuko as uncomplicated exuberance → **REVISE** through power awareness, ordinary longing, jealousy, deliberation, and failed recovery.
+- directness versus performance → **REJECT as a binary** through Yuko, Yuzuki, and Haru's differently structured bids.
+- authored group identity → **REVISE**; the shared form is real but cannot remain ethically authoritative once singular claims require answers.
+- locality as background → **REJECT**; local practice and departure now co-author character identity strongly enough for specialist promotion.

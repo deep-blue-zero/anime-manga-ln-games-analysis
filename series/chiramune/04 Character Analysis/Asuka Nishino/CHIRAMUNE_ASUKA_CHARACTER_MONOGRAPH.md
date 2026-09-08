@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_V01_V04_BASELINE
-source_boundary: "Japanese Volumes 01-04; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated after the main freeze but does not materially revise Asuka; V04 read prospectively from that checkpoint; V05+ unopened"
-generation: V0.2
+scope: ASUKA_NISHINO_V01_V05_MAIN
+source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Asuka Nishino — V01–V04 character monograph
+# Asuka Nishino — V01–V05-main character monograph
 
 ## Scope and promotion basis
 
@@ -225,3 +225,38 @@ This preserves her recognitional strength while limiting any claim that their re
 ## V04 current limit
 
 No V04 evidence establishes whether Asuka can rely on others in Tokyo, whether her editorial plan advances, or how she responds to Saku's directed Haru gesture and public declaration. Those questions remain open rather than receiving inferred answers from absence.
+
+# V05 regular-main longitudinal revision
+
+## A finite summer becomes deliberate practice
+
+Asuka does not passively wait for departure. She creates bounded experiences: a local adventure through Ichijodani and Ichiho Falls, ordinary school-like study, a near-kiss turned into play, food linked to their childhood meeting, and a beach encounter she deliberately arranges after seeing Saku with the others `[part0008#p0371-part0010#p0008]`, `[part0022#p0206-p0247]`.
+
+These actions preserve her V03 authorship. She can value a final shared summer without revoking Tokyo or asking Saku to decide her future. Her temporary use of same-age names and ordinary awkwardness further integrates `Asuka-nee` with the girl who wants firsts, memories, and bodily recognition.
+
+## Local food and travel make relational formation material
+
+The triangular `omusubi`, foil wrapping, simmered takuan, rural train, river, ruins, falls, and school-trip memory connect Asuka's care to family and regional practice `[part0008#p0438-p0544]`, `[part0008#p0786-part0010#p0008]`. Her future departure is meaningful because her local life is densely inhabited, not because Fukui is a generic place to escape.
+
+This strengthens the character model's locality responsibility while routing the mature cross-character question to the promoted locality specialist synthesis.
+
+## Saku's unspoken plea is evidence of desire, not a settled category
+
+At the beach Asuka removes her rash guard so Saku will be the first to see her. Saku imagines another person's future touch and internally wants to say “do not go” or “wait,” but believes he lacks the right `[part0022#p0248-part0024#p0018]`.
+
+The scene strengthens threatened-loss desire and the asymmetry between respecting departure and making a request. It does not identify Asuka as the singular unnamed girl in Saku's later refusal, establish exclusivity, or resolve his V04 uncertainty about the label `romantic love`.
+
+## V05-main current limit
+
+V05 gives Asuka purposeful action but no post-departure focalization, practical Tokyo update, family-trust retest, or evidence that she can ask for help without reading it as failed independence. Her romantic agency is clearer; the durable form of the relationship remains open.
+
+> **At V05 main, Asuka remains a relational self-author who treats finite time as a reason to choose experience rather than possess the future. She deliberately gives and requests memories while keeping departure intact. The strongest new tension lies on Saku's side: his wish to stop her is real, but self-disqualified and uncategorized. Neither desire nor prominence licenses identification of the unnamed girl.**
+
+## Post-main watchlist
+
+- whether the V05 supplement supplies any placed Asuka evidence;
+- whether departure changes from anticipated form into practical separation;
+- whether Saku ever makes a request that respects rather than owns her choice;
+- whether Asuka can receive ordinary help in Tokyo;
+- whether the temporary same-age relation becomes a durable revision of `Asuka-nee`;
+- whether later direct evidence identifies or excludes her as Saku's unnamed girl.
