@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no group-state transition; V09+ unopened"
-generation: V1.1
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no group-state transition; Days of Endless Summer and V09.5 unopened"
+generation: V1.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -481,3 +481,41 @@ V08 turns informal-boundary crisis into **lateral correction under a public dead
 - test whether Haru's ace role becomes sustainable practice rather than reassurance;
 - test whether Momiji's outsider relation survives direct disclosure;
 - test what institutional or relational structure succeeds the acknowledged moratorium.
+
+# V09 update — the unchanged group ends into transparent plurality
+
+## V09 entries
+
+| ID | Group event | Source fact | Structural reading | Locator |
+|---|---|---|---|---|
+| SG-091 | Phoenix Plaza and school-festival sequence | teachers, families, vendors, classes, teams, and students organize a three-day civic/school event | public authorship depends on cross-generational institutions and distributed labor rather than the central friends alone | `[V09:p-0010#p0046-p0062]`, `[V09:p-0010#p0450-p0472]` |
+| SG-092 | Yua's public solo | peers and juniors recognize Yua as performer while Saku, Yuko, and Yuzuki hear her direct address | public identity can widen beyond a private caretaker office without cancelling the intimate recipient | `[V09:p-0012#p0628-p0829]`, `[V09:p-0014#p0001-p0098]` |
+| SG-093 | Ikku Park reconciliation | Momiji names harm before Yuko, Yua, Haru, and Asuka; the group ends further apology and makes future plans | inclusion follows accountable memory rather than assimilation or indefinite penance | `[V09:p-0014#p0130-p0195]` |
+| SG-094 | Haru/Saku paired race | each partner adjusts to the other, and Yuzuki adapts the same technique | public competition rewards revisable coordination rather than fixed leadership or permanent rank | `[V09:p-0016#p0117-p0166]`, `[V09:p-0016#p0266-p0421]` |
+| SG-095 | distributed pirate performance | singing, instruments, combat, acting, technical work, and adult support retain distinct contributors | group achievement integrates differentiated offices without making one performer the sole author or private winner | `[V09:p-0020#p0081-p0357]` |
+| SG-096 | Saku's inclusive leadership | Yuko observes that he notices people at the edge and creates a place for them | high status can redistribute visibility rather than merely centralize attention; the capacity remains fallible in Momiji's later exclusion | `[V09:p-0022#p0672-p0695]` |
+| SG-097 | public Momiji confession and group intervention | Saku refuses and tries to restore distance; the group tells him to hear her | membership becomes a source of procedural correction rather than courtesy that protects stasis | `[V09:p-0022#p1271-p1592]` |
+| SG-098 | third rooftop key | Saku gives Momiji material access after full disclosure without granting girlfriend status | an informal boundary can be opened transparently without converting inclusion into romantic selection | `[V09:p-0024#p0012-p0075]` |
+| SG-099 | acting-only choice of Yuzuki | Yuzuki receives the bounded stage selection and shared apple while private answer remains open | public centrality and aesthetic culmination remain separate from exclusive relationship rank | `[V09:p-0025#p0120-p0147]`, `[V09:p-0027#p0031-p0045]` |
+| SG-100 | festival close and bonfire dance | the first/last festival ends the unchanged blue form; openly rival participants continue dancing together | the moratorium's container ends, but lateral relations survive as transparent plurality whose successor form is still unsettled | `[V09:p-0029#p0048-p0090]` |
+
+## Group rule after V09
+
+V09 turns the finite moratorium into **transparent plurality after formal closure**:
+
+1. public institutions distribute authorship without deciding private rank;
+2. inclusion can require truthful purpose, remembered harm, and an end to compulsory penance;
+3. a group may correct the procedure of its central member without taking over his answer;
+4. material access such as a key can establish standing below romantic title;
+5. the end of an unchanged group form need not destroy its dyads, rivalries, or ordinary routes;
+6. successor relations become more explicit while remaining unsettled.
+
+## V09 revision state
+
+- festival as romance proxy → **REJECT AGAIN**; Yuzuki's public choice is acting-only.
+- group-level Momiji repair → **RESOLVE** with prior harm preserved.
+- Momiji outsider access → **REVISE TO TRANSPARENT ADMISSION**; she retains rivalry and receives a key without couple status.
+- courtesy-as-moratorium → **END** at the unchanged-form level.
+- full-group relation → **PRESERVE IN RECONFIGURED FORM**; not unchanged harmony and not total dissolution.
+- distributed leadership → **STRENGTHEN** through performance labor and group correction of Saku.
+- Yuzuki/Haru team reconstruction → **PARTIAL**; race adaptation and partnership strengthen, sustained basketball coordination remains open.

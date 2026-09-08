@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUA_UCHIDA_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; V09+ unopened"
-generation: V0.7
+scope: YUA_UCHIDA_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yua Uchida — cumulative character monograph through V08 main
+# Yua Uchida — cumulative character monograph through V09 main
 
 ## Scope and promotion basis
 
@@ -257,6 +257,34 @@ The special epilogue completes the directional clarification: Yua wants to face 
 - whether Yuko friendship sustains conflict outside crisis;
 - whether mediator labor becomes distributed rather than permanently assigned to her;
 - direct reciprocal evidence only before any selection or couple claim.
+
+# V09 longitudinal revision
+
+## Music becomes a public self-authored address
+
+Yua directly tells Saku to listen because the performance is for him. She chooses wacci's `大丈夫`, proposes the final piece, and appears as a recognized soloist before peers and juniors `[V09:p-0012#p0417-p0447]`, `[V09:p-0012#p0628-p0669]`.
+
+Her focalization names a sound distinct from her mother and preserves ordinary days even if she is not chosen. She still wants the closest place and makes Saku the first person she wants to tell `[V09:p-0012#p0690-p0829]`.
+
+Saku cries; Yua asks whether it reached him; he promises to hear her again `[V09:p-0014#p0001-p0098]`. This is major reception evidence, not romantic selection.
+
+## Shared domestic knowledge strengthens rather than diminishes authorship
+
+Yua teaches Asuka to make her first omurice for Saku `[V09:p-0022#p0782-p0934]`. The transfer extends the earlier katsudon and shared-care pattern: expertise retains provenance while another woman chooses a new expression.
+
+Yua therefore no longer has to defend the kitchen as proof that she exists. Her place remains differentiated below ownership.
+
+## Post-V09 current model
+
+> **Yua's V09 achievement is to make private musical formation publicly and romantically legible without being exhausted by its recipient. She asks Saku to hear her, names her own sound, receives peer recognition, and preserves both ordinary days and desire for closest place. Her willingness to teach Asuka domestic practice shows that competence can circulate without erasing her history. Saku's tears and future-listening promise strengthen reception while stopping below selection, exclusivity, or a couple.**
+
+## *Days of Endless Summer* watchlist
+
+- place musical, family, and domestic scenes before treating them as current development;
+- distinguish historical caretaker formation from post-V09 public authorship;
+- test whether rest, support needs, and ambition gain direct ordinary requests;
+- preserve shared kitchen knowledge below ownership;
+- direct Saku-side singular wording and mutual status only before any selection or couple claim.
 
 # V08 main longitudinal revision
 

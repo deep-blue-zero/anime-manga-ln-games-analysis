@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; V03/V05/V06.5 narrative supplements integrated; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; V09+ unopened"
-generation: V1.1
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 narrative supplements integrated; V08 rough-illustration collection integrated as PRODUCTION_PARATEXT; Days of Endless Summer and V09.5 unopened"
+generation: V1.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -555,3 +555,46 @@ Their origin state is `ESTABLISHED_AT_V08_ROUGH_SUPPLEMENT`. The exact component
 | V09-Q05 | Does Momiji disclose purpose to Saku and complete direct repair? | `OPEN` | direct knowledge, answer authority, and changed relational practice |
 | V09-Q06 | Do female ties survive selection pressure? | `OPEN` | repeated Yua/Asuka, Yuko/Momiji, Yuzuki/Momiji, and Yuzuki/Haru practice |
 | V09-Q07 | Do baseball, basketball, editing, school, or departure become durable paths? | `OPEN` | concrete institutional, educational, vocational, and logistical commitments |
+
+## V09 main prospective-question dispositions
+
+| Test ID | Disposition | Evidence-controlled result |
+|---|---|---|
+| `V09-Q01` | `PRESERVE DEADLINE / REVISE DELAY AS ACTIVE` | No final answer occurs. Saku now recognizes the interval as a duty to face claimants and movable feeling rather than a shelter for premature exclusion. |
+| `V09-Q02` | `MAJOR DIFFERENTIATION / KEEP NONSELECTION` | Yuzuki receives the acting-only choice, mirror/moon recognition, and conditional epilogue prominence; no explicit exclusivity or enacted couple follows. |
+| `V09-Q03` | `RESOLVE PERFORMANCE / SEPARATE ROMANCE` | The festival publicly selects Yuzuki for `today, this stage only`; the unchanged blue form ends while lateral ties continue. |
+| `V09-Q04` | `STRENGTHEN ACCOUNTABILITY / PARTIAL` | Saku and Yuzuki preserve memory of V08, she makes an exact apology, and their mirror relation supports correction; sustained basketball-team reconstruction remains open. |
+| `V09-Q05` | `RESOLVE DISCLOSURE AND GROUP REPAIR / SPLIT ANSWER` | Momiji fully discloses and group-level repair closes. Saku refuses immediate dating, rescinds social expulsion, and admits her to the pending answer field. |
+| `V09-Q06` | `MAJOR STRENGTHEN` | Yuzuki/Momiji repair, Yua/Asuka knowledge-sharing, Yuko/Yuzuki future friendship, and Haru/Yuzuki priority remain independently causal under open rivalry. |
+| `V09-Q07` | `SCHOOL/PERFORMANCE STRENGTHEN / LIFE COURSES OPEN` | Civic and school institutions organize public authorship, but baseball, basketball, editing, Tokyo, and other durable paths remain unsettled. |
+
+## Claims established or revised at the V09 main freeze
+
+| ID | Prior state | Transition | Current formulation | Evidence route |
+|---|---|---|---|---|
+| F137 | V09 was the next locked numbered source | `RESOLVE SOURCE ROLE AND TOPOLOGY` | The regular main-only witness continues V08 through Chapters 3–4 and an epilogue while retaining an independent publication/freeze boundary; no embedded supplement exists. | `CHIRAMUNE_V09_DEEP_READING.md` §Source identity |
+| F138 | V08 established consent violation, refusal, remorse, and negotiated repair | `PRESERVE / EXTEND ACCOUNTABLE CONTINUITY` | V09 keeps the event in continuous memory and adds precise apology and corrective relation; intimacy does not retroactively authorize the violation. | §§II, XIII–XIV |
+| F139 | Yua had domestic reciprocity, explicit desire, and independent musical formation | `MAJOR STRENGTHEN PUBLIC SELF-AUTHORSHIP` | She directs a chosen public musical address to Saku, names her own sound, receives peer recognition, and asks whether it reached him; Saku does not select her. | §IV |
+| F140 | Haru remained ace while pursuing a moving Yuzuki | `STRENGTHEN RECIPROCAL TECHNIQUE / PRESERVE OUTCOMES` | The paired race alternates who adjusts, and Haru reaffirms Yuzuki as her first loved partner; basketball repair, rank, vocation, and direct romantic bid remain open. | §VII |
+| F141 | Momiji had lateral standing but incomplete disclosure and no Saku reciprocity | `RESOLVE DISCLOSURE / SPLIT ANSWER` | Her immediate dating request is refused; attempted expulsion is rescinded after full disclosure; rooftop access and answerable-claimant standing do not create reciprocal love or a couple. | §XV |
+| F142 | Yuzuki/Momiji held intimate rivalry with unresolved preventive hatred | `RESOLVE DIRECT REPAIR / STRENGTHEN DURABILITY` | Yuzuki refuses to hate Momiji, both preserve care across either outcome, and their private exchange becomes a fellow-fighter relation on stage. | §VI |
+| F143 | direct Momiji repair with Asuka/Yua remained open | `RESOLVE AT GROUP LEVEL / PRESERVE DYADIC LIMIT` | Momiji names harm before all affected women, the group ends penance, and future plans continue; no identical long dyadic adjudications are invented. | §V |
+| F144 | the unchanged group was finite and its successor unknown | `END FORM / PRESERVE RELATIONS` | Distributed festival authorship closes the unchanged blue arrangement while transparent rivalry, friendship, art, sport, and ordinary contact continue. | §§VIII, X |
+| F145 | V08 made the actress result expressly non-romantic and unperformed | `RESOLVE BOUNDED STAGE CHOICE / DIFFERENTIATE YUZUKI` | Saku chooses Yuzuki for today's stage; mirror/moon recognition and the conditional epilogue are major evidence, but no singular romantic answer or couple follows. | §§XIII, XVI |
+| F146 | Saku's next-spring deadline bounded uncertainty | `STRENGTHEN AS ACTIVE ENGAGEMENT / KEEP CONTENT OPEN` | He recognizes decision time as an obligation to face claims rather than exclude them, but does not originate the support correction or name a final beloved. | §§XIV–XV |
+| F147 | Tomoya had apologized without a longitudinal changed-practice route | `STRENGTHEN ACCOUNTABILITY / PRESERVE HARM` | In contact Yuzuki accepts, he composes and takes up music; she forgives without forgetting and writes lyrics. Art does not erase stalking or restore intimacy by right. | §IX |
+| F148 | Fukui and school structures organized finite preparation | `STRENGTHEN CIVIC/INTERGENERATIONAL INFRASTRUCTURE` | Phoenix Plaza, school festivals, vendors, family memory, adult support, and teenage place-making enable public authorship without selecting a durable life-course. | §III |
+
+Their origin state is `ESTABLISHED_OR_REVISED_AT_V09_MAIN`. Exact locators, visual evidence, rival readings, and hard limits remain in `CHIRAMUNE_V09_DEEP_READING.md` and `CHIRAMUNE_V09_PROSPECTIVE_FREEZE.md`. Earlier freezes remain unchanged.
+
+## Open *Days of Endless Summer* test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| DES-Q01 | What source role and component graph does the object require? | `OPEN` | exact witness verification, contents/spine inventory, and component-level role assignment |
+| DES-Q02 | Where does each story belong in publication and diegetic time? | `OPEN` | provenance and internal placement per component; no blanket chronology |
+| DES-Q03 | Does any story change current post-V09 state? | `OPEN` | distinguish retrospective texture, first occurrence, and actual current transition |
+| DES-Q04 | Does any component revise singular-love or couple state? | `OPEN` | direct reciprocal wording and enacted mutual status; prominence is insufficient |
+| DES-Q05 | Which ordinary-life, locality, relationship, or character responsibilities change? | `OPEN` | route each material finding only to the warranted cumulative homes |
+| DES-Q06 | Does compilation or republication create duplicate-event risk? | `OPEN` | compare known witnesses and count one event once while preserving edition variants |
+| DES-Q07 | What paratext supports production history without becoming fiction evidence? | `OPEN` | bounded afterword, contents, colophon, and source-role use |

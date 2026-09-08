@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: MOMIJI_NOZOMI_THROUGH_VOLUME_08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; Momiji's V07 promotion revised through V08 main; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; V09+ unopened"
-generation: V0.3
+scope: MOMIJI_NOZOMI_THROUGH_VOLUME_09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; Momiji's V07 promotion revised through V09 main; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Nozomi Momiji — active-provisional character monograph through Volume 08 main
+# Nozomi Momiji — active-provisional character monograph through Volume 09 main
 
 ## Responsibility and promotion threshold
 
@@ -109,6 +109,45 @@ Athletic identity is therefore not decorative comparison with Haru. Sprint form 
 - whether sprinting acquires continuing educational, institutional, or vocational stakes;
 - whether the fragmented hero encounter gains direct chronology without retrospective invention;
 - direct reciprocal evidence only before any Saku/Momiji romance or couple claim.
+
+# V09 longitudinal revision
+
+## Group-level repair ends penance without erasing harm
+
+Before Yuko, Yua, Haru, and Asuka, Momiji names the harm she caused and says she will remember it. Haru ends the period of further apology, and the group makes future plans `[V09:p-0014#p0130-p0195]`.
+
+The scene completes direct repair at group level. It does not manufacture three identical private adjudications or make the V07 injuries unreal.
+
+## She relinquishes preventive hatred
+
+Momiji's wish that Yuzuki hate her is a strategy for controlling future rejection. Yuzuki sees and refuses it, while still accepting competition and future care. Momiji apologizes for the shame she caused, then meets Yuzuki as a fellow fighter `[V09:p-0014#p0255-p0396]`, `[V09:p-0020#p0190-p0357]`.
+
+Her outsider relation survives disclosure, but no longer depends on the fiction that serious pursuit requires isolation.
+
+## Full disclosure replaces protected junior asymmetry
+
+Momiji publicly confesses and receives a direct refusal to date. After Saku's attempted expulsion and the group's intervention, she explains how love at first sight became love for a known person and asks only for the right to stand at the start line until his final answer `[V09:p-0022#p1271-p1592]`, `[V09:p-0022#p1770-p1792]`.
+
+Saku gives her a third rooftop key and admits the claim to the answer process `[V09:p-0024#p0001-p0075]`. The key is material standing, not acceptance of the dating request or reciprocal romantic naming.
+
+## Public rivalry becomes compatible with continued belonging
+
+At the afterparty Momiji gives each older woman an explicit declaration of competition. The group answers in differentiated ways and continues dancing `[V09:p-0029#p0048-p0076]`.
+
+She is neither assimilated into noncompetitive harmony nor expelled for difference. Transparent rivalry becomes a durable social form.
+
+## Post-V09 current model
+
+> **Momiji's V09 development converts strategically protected juniorhood into fully disclosed, answerable pursuit. She accepts group-level repair, relinquishes the attempt to guarantee safety through being hated, tells Saku how attraction became relation-specific love, and asks for standing rather than compulsory acceptance. Saku refuses immediate dating but rescinds expulsion and gives her rooftop access. She is now an openly known claimant with durable rival-friend ties, not a girlfriend or a directly reciprocated sixth love. Her sprint future remains institutionally open.**
+
+## *Days of Endless Summer* watchlist
+
+- do not back-project any retrospective appearance into V07 entry conditions;
+- distinguish pre-entry texture from current post-V09 change;
+- preserve the split immediate refusal and procedural admission;
+- test whether transparent rivalry becomes repeatable ordinary practice;
+- require institutional scheduling, coaching, or education before a sprint-vocation claim;
+- direct present Saku wording and mutually enacted status only before romance reciprocity or couple claims.
 
 # V08 main longitudinal revision
 

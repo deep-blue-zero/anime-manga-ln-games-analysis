@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: corpus_map
 scope: JP_LIGHT_NOVEL_OPEN_ENDED_ANALYSIS
-source_boundary: "Japanese-language light-novel EPUB corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; source audit dated 2026-08-29 and official publisher catalog rechecked 2026-09-07; main analysis frozen through Volume 08 main; V03/V05/V06.5 narrative supplements integrated; V08 rough collection integrated as PRODUCTION_PARATEXT"
-generation: V1.3
+source_boundary: "Japanese-language light-novel EPUB corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; source audit dated 2026-08-29 and official publisher catalog rechecked 2026-09-07; main analysis frozen through Volume 09; V03/V05/V06.5 narrative supplements integrated; V08 rough collection integrated as PRODUCTION_PARATEXT"
+generation: V1.4
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -34,7 +34,7 @@ See `01 Source Lock and Inventory/CHIRAMUNE_SOURCE_LOCK_AND_INVENTORY.md` before
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
-  analytical_phase: SEQUENTIAL_IN_PROGRESS
+  analytical_phase: CURRENT_SOURCE_MAINLINE_COMPLETE
   source_reconnaissance_complete: true
   governing_method: 00 Frameworks and Methods/CHIRAMUNE_ANALYTICAL_METHOD.md
   method_status: canonical
@@ -48,17 +48,17 @@ project_initialization:
     - 03 Longitudinal Ledgers/CHIRAMUNE_SOCIAL_STATUS_INCLUSION_AND_GROUP_DYNAMICS_LEDGER.md
     - 03 Longitudinal Ledgers/CHIRAMUNE_RELATIONSHIP_RECOGNITION_AND_INTIMACY_LEDGER.md
   sequential_analysis_lock: OPEN
-  committed_high_water_mark: V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_CHECKPOINT
-  next_sequential_operation: V09_MAIN_VERIFICATION_AND_PROSPECTIVE_READING
+  committed_high_water_mark: V09_MAIN_PROSPECTIVE_CHECKPOINT
+  next_sequential_operation: DAYS_OF_ENDLESS_SUMMER_VERIFICATION_AND_COMPONENT_CLASSIFICATION
 ```
 
-The paired-foundation gate is open: the canonical analytical method governs what to notice and how to judge it; the canonical full-series architecture governs the multi-document accumulation and convergence route; and all five required cumulative ledgers are initialized and current through V08 main.
+The paired-foundation gate is open: the canonical analytical method governs what to notice and how to judge it; the canonical full-series architecture governs the multi-document accumulation and convergence route; and all five required cumulative ledgers are initialized and current through V09 main.
 
 ## Current analytical state
 
-**The full-series architecture and prospective V01–V08 main analytical corpus are established on the continuing Chiramune branch. The latest numbered prospective freeze is Volume 08 main; the V03 illustration/short-story booklet, V05 Special Edition 18-story booklet, V06.5 four-story volume, and V08 rough-illustration collection are integrated through separate frozen supplemental checkpoints. The V08 art collection is `PRODUCTION_PARATEXT` and creates no new story state. Volume 09 main is the next safe source.**
+**The full-series architecture and prospective V01–V09 main analytical corpus are established on the continuing Chiramune branch. Volume 09 is the latest numbered prospective freeze; the V03 illustration/short-story booklet, V05 Special Edition 18-story booklet, V06.5 four-story volume, and V08 rough-illustration collection are integrated through separate frozen supplemental checkpoints. The V08 art collection is `PRODUCTION_PARATEXT` and creates no story state. *Days of Endless Summer* is the next safe source and requires component-level classification before use.**
 
-The corpus contains distinct V01–V08 main deep readings and freezes, separate V03, V05, V06.5, and V08-rough supplemental readings/checkpoints, five rolling longitudinal responsibilities, seven active-provisional character monographs, the promoted Fukui locality/departure/ordinary-youth specialist synthesis, and a mutable current published-corpus synthesis. The Volume 03 EPUB's own pre-main birthday story is `BONUS_FICTION`; the separate V03 booklet, individually routed V05 booklet stories, and four late-August V06.5 components are `SUPPLEMENTAL_MAINLINE`. The V05 Special Edition's regular-main duplicate is verified but not double-counted. Its revised V03 cap story is two edition witnesses to one event, with variants preserved. The V08 special-edition main froze first; its 50-page art collection then entered as `PRODUCTION_PARATEXT`, with design alternatives and rough/final stages barred from becoming extra events. V09 and later admitted sources remain unopened. Earlier prospective artifacts remain separate epistemic states rather than being rewritten with later knowledge.
+The corpus contains distinct V01–V09 main deep readings and freezes, separate V03, V05, V06.5, and V08-rough supplemental readings/checkpoints, five rolling longitudinal responsibilities, seven active-provisional character monographs, the promoted Fukui locality/departure/ordinary-youth specialist synthesis, and a mutable current published-corpus synthesis. The Volume 03 EPUB's own pre-main birthday story is `BONUS_FICTION`; the separate V03 booklet, individually routed V05 booklet stories, and four late-August V06.5 components are `SUPPLEMENTAL_MAINLINE`. The V05 Special Edition's regular-main duplicate is verified but not double-counted. Its revised V03 cap story is two edition witnesses to one event, with variants preserved. The V08 special-edition main froze first; its 50-page art collection then entered as `PRODUCTION_PARATEXT`, with design alternatives and rough/final stages barred from becoming extra events. V09 completes the V08 festival story through its own regular `MAIN_LN` boundary and contains no embedded supplement. *Days of Endless Summer* and V09.5 remain unopened. Earlier prospective artifacts remain separate epistemic states rather than being rewritten with later knowledge.
 
 `00 Frameworks and Methods/CHIRAMUNE_FULL_SERIES_ARCHITECTURE.md` governs the open-ended corpus, atomic closeout, horizon tracking, revision route, synthesis layers, and adaptation boundary.
 
@@ -68,9 +68,9 @@ The corpus contains distinct V01–V08 main deep readings and freezes, separate 
 |---|---|---|
 | latest known publication (`H_pub`) | Volume 09.5 | official Shogakukan series catalog rechecked 2026-09-07: 14 listed releases, ending with Volume 09.5; retailer-exclusive completeness is not claimed |
 | latest source acquired (`H_acq`) | main V09; supplemental V09.5 | 14 locked EPUB objects; all live local hashes reverified against the source lock before the V01–V02 baseline |
-| latest main volume analyzed (`H_main`) | V08 main | V01–V08 main deep readings and prospective freezes present; V08 main is separated from its rough supplement |
+| latest main volume analyzed (`H_main`) | V09 main | V01–V09 main deep readings and prospective freezes present; V09 is a regular main-only witness |
 | supplemental analysis (`H_supp`) | V03 in-EPUB birthday bonus, separate V03 illustration/SS booklet, V05 Special Edition 18-story booklet, V06.5 four-story volume, and V08 rough collection | separate checkpoints preserve narrative placement and classify the V08 art book as production paratext |
-| next safe reading (`H_next`) | Volume 09 main | V08 main and rough supplement are independently frozen; verify the exact locked V09 object and capture entering state before narrative use |
+| next safe reading (`H_next`) | *Days of Endless Summer* | V09 main is independently frozen; verify the exact locked collection, classify every component, and place each story before narrative integration |
 
 Unresolved acquisition scope is limited to unclaimed retailer-exclusive or ephemeral bonuses and future publications. There is no missing numbered main volume through V09 in the locked inventory. Regular-edition V08 is not separately held, but its complete narrative is present in the special-edition witness.
 
@@ -80,8 +80,8 @@ sequential_execution:
   unit_type: volume_then_safe_supplement
   authorized_start: V03
   terminal_boundary: ALL_ADMITTED_SOURCES_IN_LIVE_INVENTORY_AT_RUN_START
-  committed_high_water_mark: V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_CHECKPOINT
-  next_candidate_operation: V09_MAIN_VERIFICATION_AND_PROSPECTIVE_READING_AFTER_V08_SUPPLEMENT_PUBLICATION
+  committed_high_water_mark: V09_MAIN_PROSPECTIVE_CHECKPOINT
+  next_candidate_operation: DAYS_OF_ENDLESS_SUMMER_VERIFICATION_AND_COMPONENT_CLASSIFICATION_AFTER_V09_PUBLICATION
   confirmation_between_units: false
   run_state: active
 ```
@@ -117,20 +117,20 @@ The Japanese prose is the current semantic anchor. Later anime material, officia
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing source-reading, inference, prospective-freeze, multi-document full-series accumulation, comparison, and synthesis rules | populated; analytical method V0.2 and full-series architecture V1.0, including compilation/edition-witness routing |
-| `01 Source Lock and Inventory` | Exact acquired-source boundary, integrity state, and Drive routing | populated; canonical V0.8 |
-| `02 Sequential Readings` | Volume-by-volume prospective deep readings, immutable freezes, and warranted supplemental checkpoints | V01–V08 main frozen; V03, V05, V06.5, and V08-rough supplemental checkpoints integrated; V09 main next |
-| `03 Longitudinal Ledgers` | Claim revision plus recurring cross-volume state/relationship/theme tracking | diegetic ledgers active through V08 main; revision ledger includes V08 production-paratext disposition |
-| `04 Character Analysis` | Character syntheses created only after evidence warrants them | seven active-provisional monographs updated through V08 main; Momiji promoted at V07 |
-| `05 Specialist Synthesis` | Dense recurring thematic/relationship/form and future adaptation/performance questions | Fukui locality/departure/ordinary youth promoted at V05 and updated through V08 main; other domains deferred |
-| `06 Full-Series Synthesis` | Router for the multi-document portfolio and rolling analyzed-to-date integration, conceptually separate from terminal full-series synthesis | router plus mutable current published-corpus synthesis through V08 main and art supplement; terminal synthesis ineligible |
-| `07 Evidence and Indexes` | Git-side cross-volume claim/evidence routing if later needed | not instantiated; source lock plus reading-local locators are sufficient through V08 main |
+| `00 Frameworks and Methods` | Governing source-reading, inference, prospective-freeze, multi-document full-series accumulation, comparison, and synthesis rules | populated; analytical method V0.2 and full-series architecture V1.3, including compilation/edition-witness routing and the V09 role-gap review |
+| `01 Source Lock and Inventory` | Exact acquired-source boundary, integrity state, and Drive routing | populated; canonical V1.1 |
+| `02 Sequential Readings` | Volume-by-volume prospective deep readings, immutable freezes, and warranted supplemental checkpoints | V01–V09 main frozen; V03, V05, V06.5, and V08-rough supplemental checkpoints integrated; *Days of Endless Summer* next |
+| `03 Longitudinal Ledgers` | Claim revision plus recurring cross-volume state/relationship/theme tracking | all five ledgers active through V09 main; revision ledger retains V08 production-paratext disposition |
+| `04 Character Analysis` | Character syntheses created only after evidence warrants them | seven active-provisional monographs updated through V09 main; Momiji promoted at V07 |
+| `05 Specialist Synthesis` | Dense recurring thematic/relationship/form and future adaptation/performance questions | Fukui locality/departure/ordinary youth promoted at V05 and updated through V09 main; V09 architecture review defers a separate performance specialist |
+| `06 Full-Series Synthesis` | Router for the multi-document portfolio and rolling analyzed-to-date integration, conceptually separate from terminal full-series synthesis | router plus mutable current published-corpus synthesis through V09 main and V08 art supplement; terminal synthesis ineligible |
+| `07 Evidence and Indexes` | Git-side cross-volume claim/evidence routing if later needed | not instantiated; source lock plus reading-local locators are sufficient through V09 main |
 | `08 Audits and Manifests` | Bootstrap inventory, package reconciliation, and later analytical/source-integrity records | bootstrap manifest plus V01–V02 reconciliation audit |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
 
 The absence of a directory is intentional. Do not create empty categories merely to make Chiramune resemble another project.
 
-## Post-V08-rough-supplement integrated state for Volume 09
+## Post-V09 integrated state for *Days of Endless Summer*
 
 The exact V08 main and supplemental boundaries and current rolling revisions live in:
 
@@ -139,35 +139,39 @@ The exact V08 main and supplemental boundaries and current rolling revisions liv
 - `02 Sequential Readings/CHIRAMUNE_V08_MAIN_PROSPECTIVE_FREEZE.md`;
 - `02 Sequential Readings/CHIRAMUNE_V08_MAIN_DEEP_READING.md`;
 - `02 Sequential Readings/CHIRAMUNE_V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_READING.md`;
+- `02 Sequential Readings/CHIRAMUNE_V09_PROSPECTIVE_FREEZE.md`;
+- `02 Sequential Readings/CHIRAMUNE_V09_DEEP_READING.md`;
 - `03 Longitudinal Ledgers/CHIRAMUNE_REVISION_LEDGER.md`;
 - the four thematic/relationship ledgers;
 - the Saku, Yuzuki, Asuka, Haru, Yuko, Yua, and Momiji monographs;
 - `05 Specialist Synthesis/CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md`;
 - `06 Full-Series Synthesis/CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md`.
 
-The required post-main guardrails are:
+The required post-V09 guardrails are:
 
-- Saku directly names equal romantic pain at the possible futures of Yuko, Yua, Yuzuki, Haru, and Asuka; this five-person enumeration establishes neither rank nor selection and does not include Momiji;
-- Saku directly names romantic feeling for Yuzuki and promises an answer by next spring; neither fact identifies her as singular, creates a couple, or resolves the five-person field;
-- Yuzuki crosses a sexual consent boundary; Saku's desire, her remorse, and their negotiated repair do not retroactively authorize or erase it;
-- the play's best-actress choice is expressly restricted to acting and cannot by itself establish romantic selection; V08 ends before the festival;
-- Yuko explicitly starts a new love while Saku's prior refusal remains governing;
-- Yua and Asuka directly correct each other's riverbank/kitchen ownership claims, but direct repair with Momiji remains open;
-- Yuzuki's 65–51 control strengthens capacity evidence while exposing team injury; Haru remains ace without guaranteed primacy;
-- Momiji gains lateral intimacy and rival recognition from Yuzuki and Yuko without full purpose disclosure to Saku or Saku-side romantic reciprocity;
-- the self-originated support-request, baseball, Tokyo, and durable basketball-vocation tests remain open;
+- Saku's V07 five-person romantic enumeration remains unranked; V09 admits Momiji to the answerable field without directly naming current Saku-side romantic love for her;
+- Saku's direct V08 romantic wording for Yuzuki, V09 mirror/moon recognition, acting-only stage choice, and conditional epilogue materially differentiate her without establishing singular selection or a couple;
+- Yuzuki's V08 consent violation remains part of the continuing relation; V09 accountability and repair do not retroactively authorize or erase it;
+- the play's best-actress result is Yuzuki for `today, this stage only` under the expressly non-romantic rule; the shared apple is not a lip kiss;
+- Yua's public musical address is direct Yua-side romantic/self-authoring evidence and Saku's listening response is not selection;
+- group-level direct repair with Momiji is complete, while prior harm and the absence of identical long dyadic adjudications remain preserved;
+- Momiji's immediate dating request is refused; her attempted social expulsion is rescinded and she receives rooftop access plus answerable-claimant standing, not couple status;
+- the unchanged blue group form ends, while lateral friendship, rivalry, sport, art, and ordinary relations continue;
+- Haru's paired race strengthens reciprocal coordination and her primary Yuzuki partnership without settling basketball rank, team repair, romantic challenge, or vocation;
+- Tomoya's apology and creative reintegration strengthen accountability without erasing stalking harm or entitling restored intimacy;
+- the self-originated support-request, baseball, Tokyo, editing, and durable basketball-vocation tests remain open;
 - preserve all earlier freezes and supplemental component graphs without back-projecting V08;
 - the rough-illustration collection is `PRODUCTION_PARATEXT`: proposals are not hidden canon, rough/final stages are not separate events, retrospective early-volume art cannot rewrite freezes, and guest art has no diegetic authority;
-- preserve F122–F136 and capture the V09 entering state before opening its narrative.
+- preserve F122–F148 and capture a component-level entering state before opening *Days of Endless Summer* fiction.
 
 Comparisons to *Oregairu*, *AoButa*, *Classroom of the Elite*, PACTRIH, or other corpus frameworks remain downstream operations. Reconstruct Chiramune on its own evidence first.
 
-## Continuous work order after the V08 rough-supplement checkpoint
+## Continuous work order after the V09 checkpoint
 
-1. Preserve the published V01–V08 main freezes and independently classified V03/V05/V06.5/V08-rough supplemental checkpoints as distinct source-boundary records.
-2. Open Volume 09 main only after the V08 rough-supplement transaction is committed, pushed, audited, and independently validated.
-3. Verify the exact locked V09 witness, classify its complete spine, and capture the F122–F136 entering state before narrative reading.
-4. Freeze V09 main before opening *Days of Endless Summer* or V09.5; do not rewrite V08 or any earlier historical record.
+1. Preserve the published V01–V09 main freezes and independently classified V03/V05/V06.5/V08-rough supplemental checkpoints as distinct source-boundary records.
+2. Open *Days of Endless Summer* only after the V09 transaction is committed, pushed, audited, and independently validated.
+3. Verify the exact locked collection, inventory every component, and establish publication/diegetic placement before interpretive integration.
+4. Freeze the collection through a warranted component-aware checkpoint before opening V09.5; do not rewrite V09 or any earlier historical record.
 5. Keep committing and pushing coherent validated checkpoints to `series/chiramune` until every currently admitted source reaches its safe chronological boundary.
 6. Do not merge to `main`; integration remains owner-controlled and separately governed.
 

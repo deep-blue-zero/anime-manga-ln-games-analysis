@@ -1,11 +1,11 @@
 ---
 series: CHIRAMUNE
 artifact_type: specialist_synthesis
-scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; narrative supplements through V06.5 integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT with no independent locality transition; V09+ unopened"
-latest_analyzed_main: V08_MAIN
+scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; narrative supplements through V06.5 integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT with no independent locality transition; Days of Endless Summer and V09.5 unopened"
+latest_analyzed_main: V09_MAIN
 latest_analyzed_supplemental: V06_5_FOUR_STORY_VOLUME
-generation: V0.7
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -13,7 +13,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Fukui locality, departure, and ordinary youth — synthesis through V08 main
+# Fukui locality, departure, and ordinary youth — synthesis through V09 main
 
 ## Responsibility and promotion decision
 
@@ -415,3 +415,60 @@ The afterword states that V08 and V09 were conceived as one story split for leng
 - whether markets, kitchens, and apartments continue to share care without converting access into entitlement;
 - whether Asuka's Tokyo direction gains concrete housing, transport, study, work, or communication form;
 - whether Saku selects a durable practice from baseball, study, local relation, or a new field.
+
+## XXIX. V09 update — civic performance ends one local form and preserves routes
+
+### Phoenix Plaza converts family memory into public youth authorship
+
+The arts-festival day uses Phoenix Plaza as an actual civic performance venue tied to childhood and family memory `[V09:p-0010#p0046-p0062]`. Teachers open the event; families watch; adults provide instruments, technical contacts, and logistical support; students make the performance their own.
+
+The site therefore mediates generations rather than merely enlarging the stage. Public youth authorship depends on inherited infrastructure without being dictated by it.
+
+### `Shoot the blue moon` makes rarity a local temporal ethic
+
+Misaki's slogan frames the three-day festival as a rare shot rather than a reproducible commodity `[V09:p-0010#p0450-p0472]`. The closing bonfire and announcement make this literally the group's first and last school festival in its unchanged form `[V09:p-0029#p0074-p0090]`.
+
+Finitude does not make the event terminal. It requires participants to choose which relationships and practices can continue after one shared container closes.
+
+### Teenagers make places usable under finite urban choice
+
+The narrative explicitly observes that Fukui teenagers have a limited stock of cafés and therefore learn to find places suited to a moment `[V09:p-0012#p0138-p0148]`. su_mu, Akiyoshi, Coppe-tei, Orebo, school stalls, parks, streets, and the rooftop are not interchangeable brand markers. Each supports a particular mix of provisioning, disclosure, performance, waiting, or repair.
+
+This strengthens the specialist model of locality as **use** rather than symbolic essence. Constraint can generate situated competence without making scarcity inherently virtuous.
+
+### School distributes creative labor across offices and generations
+
+The pirate performance combines vocals, guitar, bass, drums, keyboard, saxophone, sword work, acting, costuming, teaching, and backstage labor. Asuka's father supplies a guitar and studio contact; parents and teachers attend. The result is produced by institutional and family routes, not only by the central friend group.
+
+The same school infrastructure lets Yua become a recognized soloist and permits Saku's inclusive leadership to make room for people at the margins `[V09:p-0012#p0628-p0829]`, `[V09:p-0022#p0672-p0695]`.
+
+### Food knowledge continues to circulate without a fixed maintainer
+
+Yua teaches Asuka to make omurice for Saku `[V09:p-0022#p0782-p0934]`. The handoff continues the katsudon and weekend-care sequence: local domestic knowledge can carry differentiated memory while another person authors a new use.
+
+Asuka's imagined Tokyo domesticity remains internal possibility. V09 gives no housing, transport, study, work, editorial placement, or communication plan.
+
+### Festival closure changes group topology, not the availability of place
+
+Ikku Park supports group-level repair with Momiji; the rooftop becomes a transparently shared boundary when Saku gives her a third key; the bonfire gathers explicit rivals after the unchanged blue form ends `[V09:p-0014#p0130-p0195]`, `[V09:p-0024#p0012-p0075]`, `[V09:p-0029#p0048-p0090]`.
+
+Place does not preserve the old relation automatically. It remains an infrastructure through which a changed relation can be practiced.
+
+### Life-course futures remain selectable, not operational
+
+Haru's race strengthens reciprocal technique; Yuzuki's band/stage role strengthens performance; Asuka's class care strengthens a possible ordinary future. None supplies sustainable basketball education, settled vocation, baseball commitment, Tokyo logistics, or editorial placement.
+
+The afterword's 2024 Fukui collaboration and anime announcement are production-era testimony only. They do not establish current city conditions or fictional motive `[V09:p-0031#p0004-p0014]`.
+
+## XXX. Current specialist model after V09 main
+
+> **Through V09, Fukui becomes civic authorship infrastructure whose value lies in usable limits. Phoenix Plaza, school, parks, rooftops, vendors, food practices, families, teachers, and the bonfire let young people inherit resources, distribute labor, disclose desire, repair harm, and release an unchanged group form. `Shoot the blue moon` joins the series' finite-object grammar: rarity asks what can be carried forward, not what must be frozen. Local routes survive changed relationships, while Tokyo, basketball, baseball, editing, and other life courses remain serious but non-operational choices.**
+
+## XXXI. *Days of Endless Summer* research questions
+
+- classify every component's publication and diegetic placement before building a blanket summer chronology;
+- test whether named places add independent use, history, or institutional function rather than scenic repetition;
+- distinguish retrospective ordinary texture from a current post-V09 transition;
+- track whether food, domestic labor, and local knowledge remain transmissible without fixed gendered ownership;
+- preserve Tokyo, basketball, baseball, and editing as open unless a story supplies durable logistics;
+- bound compilation paratext and any regional-collaboration testimony to production history.

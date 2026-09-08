@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no agency transition; V09+ unopened"
-generation: V1.1
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no agency transition; Days of Endless Summer and V09.5 unopened"
+generation: V1.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -472,3 +472,41 @@ V08 adds **temporal and embodied answerability**:
 - bounded uncertainty → **STRENGTHEN** through Saku's next-spring deadline; selection remains open.
 - ownership-like boundary claims → **REJECT / REPAIR** through Yua and Asuka's reciprocal correction.
 - self-originated Saku help requests → **KEEP OPEN**; he seeks reflection but does not initiate the decisive interpersonal request.
+
+# V09 update — hearing a claim is not accepting it
+
+## V09 entries
+
+| ID | Intervention | Agency / authority question | V09 assessment | Locator |
+|---|---|---|---|---|
+| AI-118 | Saku and Yuzuki preserve the morning after V08 | can continuing relation erase or reclassify an earlier violation? | no; both keep the night continuous with the present, while a small daylight touch and later apology create accountable continuity rather than retroactive consent | `[V09:p-0010#p0163-p0218]`, `[V09:p-0025#p0053-p0084]` |
+| AI-119 | Yua asks Saku to hear her public solo | can an intimate address remain agent-authored when publicly performed? | yes; she names audience and purpose directly, chooses the musical form, and asks whether it reached him without requiring selection | `[V09:p-0012#p0417-p0447]`, `[V09:p-0014#p0001-p0098]` |
+| AI-120 | the older girls end Momiji's expiation period | who may declare repair sufficient after group harm? | the affected group does so in Momiji's presence after she names what she will remember; closure ends compulsory apology without erasing the conduct | `[V09:p-0014#p0130-p0195]` |
+| AI-121 | Yuzuki refuses Momiji's request to be hated | may a person pre-author another's future rejection as self-protection? | no; Yuzuki retains authority over her own love, rivalry, anger, and future care rather than accept Momiji's protective script | `[V09:p-0014#p0255-p0396]` |
+| AI-122 | Haru requests race practice and later discloses | does a self-originated activity request establish self-originated emotional support seeking? | not by itself; Haru authors the race request, but Saku prompts the consequential disclosure. The distinction preserves real progress without overclaiming | `[V09:p-0014#p0433-p0535]` |
+| AI-123 | Saku publicly refuses and tries to exclude Momiji | does authority to refuse dating include authority to prevent a claimant from being heard during an agreed decision interval? | no; the dating refusal is valid, while premature social expulsion contradicts the answer process Saku accepted | `[V09:p-0022#p1271-p1384]` |
+| AI-124 | Yuzuki and the group confront Saku | may supporters pressure a decision-maker without choosing the answer for him? | yes here in bounded form: they reject exclusion and require hearing, while explicitly leaving acceptance, refusal, and final selection to Saku | `[V09:p-0022#p1386-p1592]` |
+| AI-125 | Saku hears Momiji and gives the third rooftop key | does procedural admission equal romantic acceptance? | no; he rescinds expulsion and grants answerable standing after full disclosure while preserving the immediate refusal and final deadline | `[V09:p-0022#p1770-p1792]`, `[V09:p-0024#p0001-p0075]` |
+| AI-126 | Yuzuki forgives Tomoya after apology and changed practice | may repair entitle the aggressor to renewed access? | no; contact is accepted on Yuzuki's terms, memory remains, and creative contribution supplies practice evidence without restoring prior intimacy by right | `[V09:p-0022#p1624-p1743]` |
+| AI-127 | Yuzuki corrects Saku as mirror | does reciprocal love require protecting the beloved's self-image? | no; she supports him by exposing a contradiction and returning answer authority after he has heard Momiji, not by supplying the romantic answer | `[V09:p-0029#p0025-p0047]` |
+
+## Agency rule after V09
+
+V09 adds **hearing jurisdiction and procedural correction**:
+
+1. a valid refusal to an immediate request need not authorize broader social expulsion;
+2. hearing a materially disclosed claim is not accepting it, but refusing to hear can corrupt an otherwise legitimate answer process;
+3. supporters may defend procedure without choosing the substance of another person's answer;
+4. repair can end compulsory penance while preserving memory and changed practice;
+5. continued relation after a violation cannot retroactively create consent;
+6. corrective support may oppose the recipient's self-protective decision rather than simply affirm it.
+
+## V09 revision state
+
+- V08 consent violation → **PRESERVE / EXTEND ACCOUNTABLE CONTINUITY**; neither morning-after relation nor stage intimacy erases it.
+- Momiji purpose transparency → **RESOLVE** through full disclosure to Saku.
+- Momiji immediate dating answer → **REFUSE**; social exclusion → **RESCIND**; final romantic answer → **OPEN**.
+- group-level Momiji repair → **RESOLVE WITH NON-ERASURE**.
+- support as affirmation → **REVISE** through Yuzuki's corrective mirror function.
+- self-originated Saku help requests → **KEEP OPEN**; others initiate the decisive challenge.
+- decision interval → **STRENGTHEN AS ACTIVE OBLIGATION**; deadline and answer content remain open.

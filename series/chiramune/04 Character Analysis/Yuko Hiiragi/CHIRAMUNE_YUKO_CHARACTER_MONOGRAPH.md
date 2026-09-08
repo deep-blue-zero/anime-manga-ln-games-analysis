@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUKO_HIIRAGI_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; V09+ unopened"
-generation: V0.7
+scope: YUKO_HIIRAGI_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuko Hiiragi — cumulative character monograph through V08 main
+# Yuko Hiiragi — cumulative character monograph through V09 main
 
 ## Scope and promotion basis
 
@@ -317,6 +317,36 @@ Yuzuki's refusal-symmetry reasoning helps Yuko approach Kaito, but Yuko owns the
 - whether Yuko can seek private support before a public or crisis climax;
 - whether the ten-year female friendship horizon survives divergent partners and destinations;
 - whether continued love remains self-authored without becoming proof of insufficiency;
+- direct reciprocal evidence only before any couple claim.
+
+# V09 longitudinal revision
+
+## She hears Yua without making another woman's address a threat
+
+Saku tells Yuko about Yua's earlier riverbank saxophone. Yuko interprets the performance as Yua crying in Saku's place and later recognizes the same message in the public solo `[V09:p-0012#p0475-p0514]`, `[V09:p-0014#p0001-p0098]`.
+
+Yuko's restarted love remains active, but privileged history no longer has to be hoarded as a defense against other women's expression.
+
+## Her leadership reading includes the margins
+
+Yuko identifies Saku's ability to notice people at the edge and create a place for them `[V09:p-0022#p0672-p0695]`. The observation is not idealization without counterevidence; his later Momiji exclusion shows the very capacity failing under answer pressure.
+
+## She entrusts the stage heart without withdrawing
+
+Yuko returns during the play and asks Yuzuki to carry the apple/heart their roles share `[V09:p-0027#p0031-p0045]`. The gesture enacts her V08 theory that an ended love can be entrusted rather than erased.
+
+It is a bounded stage handoff, not romantic surrender, self-removal, or proof that Saku selected Yuzuki. Yuko's ten-year Kanazawa promise with Yuzuki also remains independent of the eventual answer `[V09:p-0022#p0710-p0717]`.
+
+## Post-V09 current model
+
+> **Yuko's restarted love becomes compatible with hearing another woman's address, diagnosing Saku without idealizing him, and entrusting a stage symbol without treating herself as defeated or erased. She remains a perceptive participant whose independent future with Yuzuki survives the romantic field. Saku's prior refusal still governs; no new bid, promise, or couple forms.**
+
+## *Days of Endless Summer* watchlist
+
+- place early-set Yuko material before treating it as a post-refusal transition;
+- test whether ordinary contact and support seeking gain new current practice;
+- preserve entrusted symbols below romantic surrender or rank;
+- distinguish historical hero recognition from later person-level observation;
 - direct reciprocal evidence only before any couple claim.
 
 # V08 main longitudinal revision

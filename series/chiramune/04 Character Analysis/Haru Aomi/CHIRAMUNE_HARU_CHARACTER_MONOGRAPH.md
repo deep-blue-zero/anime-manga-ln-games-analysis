@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: HARU_AOMI_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; V09+ unopened"
-generation: V0.8
+scope: HARU_AOMI_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Haru Aomi — cumulative character monograph through V08 main
+# Haru Aomi — cumulative character monograph through V09 main
 
 ## Scope and promotion basis
 
@@ -367,6 +367,39 @@ Misaki refuses the forced choice: Haru should carry romance, friendship, success
 - whether the elite path is investigated through sustainable workload, education, and consent;
 - whether expanded passing and shooting persist beyond one intervention game;
 - whether Yuzuki partnership and the wider women's basketball network retain independent priority;
+- direct reciprocal evidence only before any romantic-selection claim.
+
+# V09 longitudinal revision
+
+## She originates practice while disclosure remains prompted
+
+Haru asks Saku to practice the paired race. When anxiety about Yuzuki emerges, Saku prompts her to let it out `[V09:p-0014#p0433-p0535]`.
+
+This distinguishes two genuine states: Haru can request a bounded shared task, but has not yet converted emotional need into an unprompted support request.
+
+## Partnership becomes reciprocal adjustment
+
+In the race, Saku initially matches Haru's rhythm. After they stumble, Haru changes and matches his pitch. Their narrow win is produced by alternating adaptation, and Yuzuki learns from the same method `[V09:p-0016#p0117-p0166]`, `[V09:p-0016#p0266-p0421]`.
+
+The result does not settle athletic rank. It gives Haru a procedural model for partnership that does not require one permanently superior or accommodating person.
+
+## Yuzuki remains the first loved partner
+
+Haru privately says she loved Yuzuki before Saku and can change for the woman she loves; she refuses to leave Yuzuki alone `[V09:p-0016#p0404-p0417]`.
+
+This strongly preserves the independent Haru/Yuzuki relation under romantic scarcity. It is not a settled basketball future or an enacted romantic challenge to Saku.
+
+## Post-V09 current model
+
+> **Haru translates the demand to pursue a moving partner into reciprocal technique. She authors the race practice, accepts first being matched and then becoming the adjusting person, and names her prior love for Yuzuki as a reason to change rather than defend fixed primacy. The sequence strengthens independent partnership and bounded requesting, while emotional disclosure remains prompted and sustained basketball-team repair remains unproven. Her direct Saku challenge, educational route, and vocation remain open.**
+
+## *Days of Endless Summer* watchlist
+
+- place every athletic or romantic story before revising the current model;
+- distinguish historical partnership texture from present coordination change;
+- test unprompted support requests and sustainable training practice;
+- require institutional evidence before athletic rank or vocation claims;
+- preserve Yuzuki as an independently primary relation rather than treating Saku as sole cause;
 - direct reciprocal evidence only before any romantic-selection claim.
 
 # V08 main longitudinal revision

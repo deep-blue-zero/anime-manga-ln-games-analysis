@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V1.0
+generation: V1.1
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -136,7 +136,19 @@ The component contains 50 XHTML pages routing 50 JPEG resources totaling 10,577,
 
 Its own contents declare four chapters: character-design proposals, V01–V03 cover rough proposals, a selected rough gallery, and guest illustrations. Its colophon and back cover close a separate art-book topology. The component is classified `PRODUCTION_PARATEXT`, not narrative supplement. Alternative designs, rough/final stages, and artist-signed guest works create no new diegetic events, chronology, character state, or relationship fact. See `../02 Sequential Readings/CHIRAMUNE_V08_ROUGH_ILLUSTRATION_SUPPLEMENTAL_READING.md`.
 
-The next safe source is the exact locked Volume 09 main EPUB.
+The next safe source was the exact locked Volume 09 main EPUB.
+
+### Volume 09 analysis disposition
+
+The locked Volume 09 witness was independently reverified at 5,549,138 bytes and SHA-256 `3e2de8091542d4658884dd069ede4d64b9587248dbd1e3c30905684b435335eb` before prospective reading. OPF metadata identifies `千歳くんはラムネ瓶のなか　９`, 裕夢, 株式会社小学館, Japanese, and modification timestamp `2024-08-09T00:00:00Z`. The colophon records electronic publication on 2024-08-20, print-base publication on 2024-08-25, and ISBN 978-4-09-453203-6.
+
+The exact spine contains frontmatter `p-0001`–`p-0009`, Chapter 3 `結んで、解いて` at `p-0010`–`p-0024`, Chapter 4 `悠な月` at `p-0025`–`p-0029`, epilogue `七瀬悠月` at `p-0030`, afterword at `p-0031`, and bounded backmatter at `p-0032`–`p-0035`. Continued chapter numbering completes the V08 festival story while preserving V09 as a distinct `MAIN_LN` source and freeze. No embedded bonus fiction or separately titled supplement was found.
+
+The extraction produced 5,571 non-empty locator rows and 5,641 reading lines. The locator TSV SHA-256 is `9bc0adec392041db4ad6efa7b47553ca5b1fa2b733079f3b6e0a66e30ab1ec3e`; the reading projection SHA-256 is `3ce61e6a34a4620191c7feed6af138408c32087610ebef47abebdb95e7f95eb9`. Cover, five frontmatter images, nine narrative illustrations, and two backmatter images were inspected and bounded by role.
+
+The afterword announces a 2025 television anime, explains the more-than-one-year delay in relation to that announcement, and describes a 2024 Fukui collaboration. These are source-era production statements, not current-status verification or diegetic evidence. The complete reading and freeze are `../02 Sequential Readings/CHIRAMUNE_V09_DEEP_READING.md` and `../02 Sequential Readings/CHIRAMUNE_V09_PROSPECTIVE_FREEZE.md`.
+
+The next safe source is the exact locked *Days of Endless Summer* EPUB. It must be classified component by component before fiction enters the longitudinal corpus.
 
 ### Volume 04 analysis disposition
 
@@ -150,7 +162,7 @@ Its colophon dates publication to 2020-04-17 and identifies 裕夢 as author, ra
 
 ### Half-volumes and side stories
 
-Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volume 07 and the V08 main novel are independently frozen after that checkpoint. The V08 rough-illustration collection is separately integrated as `PRODUCTION_PARATEXT`. *Days of Endless Summer* and Volume 09.5 still require publication/diegetic classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
+Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. Volumes 07, V08 main, and V09 main are independently frozen after that checkpoint. The V08 rough-illustration collection is separately integrated as `PRODUCTION_PARATEXT`. *Days of Endless Summer* and Volume 09.5 still require publication/diegetic classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
 
 ## Completeness claim and limit
 

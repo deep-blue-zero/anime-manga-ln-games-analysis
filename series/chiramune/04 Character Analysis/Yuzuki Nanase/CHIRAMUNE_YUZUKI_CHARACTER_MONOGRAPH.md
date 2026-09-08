@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; V09+ unopened"
-generation: V1.1
+scope: YUZUKI_NANASE_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
+generation: V1.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — cumulative character monograph through V08 main
+# Yuzuki Nanase — cumulative character monograph through V09 main
 
 ## Scope
 
@@ -493,6 +493,45 @@ Yuzuki remains one of several girls Saku describes through a distinct important 
 - whether the Haru partnership explicitly negotiates simultaneous bids or answers;
 - whether she can support Yuko while expressing competing desire directly;
 - direct reciprocal evidence only before any selection claim.
+
+# V09 longitudinal revision
+
+## She preserves accountability after the curtain
+
+Yuzuki and Saku refuse to erase the V08 night as a disposable mistake. Their small daylight contact makes relation continuous while memory of the violated boundary remains `[V09:p-0010#p0163-p0218]`.
+
+She later apologizes not only for an act but for degrading the self Saku protected. This is more exact accountability than immediate contamination language because it neither denies responsibility nor reduces her whole person to the violation `[V09:p-0025#p0053-p0084]`.
+
+## Refusing to hate Momiji becomes ethical rivalry
+
+Yuzuki recognizes that Momiji wants hatred now as protection against later vulnerability. She refuses the assigned role, says she likes Momiji, and preserves future care in either outcome. Momiji apologizes, and the private repair becomes a fellow-fighter relation in performance `[V09:p-0014#p0255-p0396]`, `[V09:p-0020#p0190-p0357]`.
+
+This revises Yuzuki's V07 deceptive test into direct, answerable confrontation. Competition remains real without requiring dehumanization.
+
+## Mirrorhood means correcting Saku, not flattering him
+
+Yuzuki promises to reflect Saku accurately and then enacts the claim by confronting his attempted expulsion of Momiji. She does not tell him to accept Momiji; she requires him to hear before deciding `[V09:p-0022#p1386-p1592]`, `[V09:p-0029#p0025-p0047]`.
+
+Her support is therefore independently authored judgment. It helps Saku return to the person he wants to be rather than protecting the image he prefers.
+
+## Stage choice and epilogue strongly differentiate without selecting
+
+Saku chooses Yuzuki for `today, this stage only`, calls her moon and mirror, and shares an apple-mediated gesture `[V09:p-0025#p0120-p0147]`, `[V09:p-0027#p0001-p0045]`. The epilogue imagines a future in which naming the heart she saved would orient Saku toward remaining himself `[V09:p-0030#p0001-p0018]`.
+
+The evidence is major. Its theatrical restriction and prospective grammar still do not enact exclusivity, a lip kiss, or a couple.
+
+## Post-V09 current model
+
+> **Yuzuki's defining V09 advance is integration through accountability and correction. She keeps the V08 violation in continuous memory, replaces self-contamination with an exact apology, refuses to make Momiji's requested hatred a condition of rivalry, and proves mirrorhood by challenging Saku when he betrays his own answer process. Saku's acting-only choice, moon/mirror language, and conditional epilogue make her the most strongly differentiated current relation without crossing the evidentiary threshold for singular selection. Her basketball vocation and sustained team reconstruction remain open.**
+
+## *Days of Endless Summer* watchlist
+
+- place each Yuzuki story before using it to revise the current post-V09 model;
+- distinguish historical roots of performance from later consent/accountability evidence;
+- test whether independent Haru, Yuko, Yua, and Momiji relations persist outside crisis;
+- preserve the acting-only choice and prospective epilogue below exclusive status;
+- require sustained institutional evidence before any basketball-vocation claim;
+- direct singular wording and mutually enacted status only before any couple claim.
 
 # V08 main longitudinal revision
 

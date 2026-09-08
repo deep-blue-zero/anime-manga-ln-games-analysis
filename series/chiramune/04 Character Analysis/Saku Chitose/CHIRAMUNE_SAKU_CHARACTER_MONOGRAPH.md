@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; V09+ unopened"
-generation: V1.2
+scope: SAKU_CHITOSE_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
+generation: V1.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Saku Chitose — cumulative character monograph through V08 main
+# Saku Chitose — cumulative character monograph through V09 main
 
 ## Scope and authority
 
@@ -865,6 +865,43 @@ The scene strengthens voluntary baseball without selecting it as a future or res
 - whether he can make a bounded request of Asuka under departure;
 - whether baseball develops into sustained safe practice or remains episodic relief;
 - direct reciprocal evidence only before any couple or singular-beloved claim.
+
+# V09 longitudinal revision
+
+## He receives public feeling without converting reception into selection
+
+Yua directly tells Saku that her performance is for him. He listens, cries openly, and promises to hear her again `[V09:p-0012#p0417-p0447]`, `[V09:p-0014#p0001-p0098]`.
+
+The response is unusually unguarded evidence that he can receive rather than manage another person's expression. It validates neither exclusivity nor a romantic answer.
+
+## Inclusive leadership remains real and fallible
+
+Yuko observes that Saku's strongest public leadership notices people at the edge and creates usable places for them `[V09:p-0022#p0672-p0695]`. His later attempt to exclude Momiji demonstrates the counterevidence: he can reproduce the boundary he usually opens when romantic answer pressure threatens his self-concept.
+
+## A valid refusal becomes an invalid attempt at premature closure
+
+Saku refuses Momiji's immediate dating request and initially tries to reduce their future relation to greetings. The refusal is his to make. The attempted expulsion goes further: it prevents a fully disclosed claim from entering the decision interval he has already accepted `[V09:p-0022#p1271-p1384]`.
+
+Yuzuki and the group force a procedural correction without choosing his final answer. After hearing Momiji, Saku rescinds exclusion, gives her a third rooftop key, and admits her to the answerable field `[V09:p-0022#p1386-p1592]`, `[V09:p-0024#p0012-p0075]`.
+
+## Yuzuki becomes the strongest corrective support relation without singular selection
+
+Saku recognizes Yuzuki as the mirror who has repeatedly enabled and corrected his choices. He chooses her for `today, this stage only` under the acting-only rule and imagines wanting to remain a person she can reflect truthfully `[V09:p-0025#p0086-p0147]`, `[V09:p-0027#p0001-p0024]`.
+
+The epilogue remains conditional about the day he names the heart she saved `[V09:p-0030#p0001-p0018]`. Yuzuki is exceptionally differentiated, but no exclusive relationship, final answer, or couple follows.
+
+## Post-V09 current model
+
+> **Saku advances from bounding uncertainty to accepting it as active relational labor. He can receive Yua's public address without hiding his tears, coordinate reciprocally with Haru, and recognize Yuzuki as a corrective mirror rather than merely an admirer of his heroism. His failure with Momiji is procedural: a legitimate immediate refusal expands into exclusion until the people he loves require him to hear her full claim. He revises the method, admits her to the answerable field, and preserves the deadline without naming its outcome. His inclusive leadership is real and fallible; self-originated support seeking, singular romantic choice, and durable life-course direction remain open.**
+
+## *Days of Endless Summer* watchlist
+
+- component placement before treating any retrospective Saku scene as a current transition;
+- whether ordinary evidence clarifies how his inclusive leadership developed or where it fails;
+- whether any self-originated support request appears rather than prompted disclosure or received correction;
+- whether baseball, study, work, or another path acquires durable stakes;
+- preserve Momiji's immediate refusal and admitted claimant status as distinct;
+- direct singular wording and mutually enacted status only before any couple claim.
 
 # V08 main longitudinal revision
 

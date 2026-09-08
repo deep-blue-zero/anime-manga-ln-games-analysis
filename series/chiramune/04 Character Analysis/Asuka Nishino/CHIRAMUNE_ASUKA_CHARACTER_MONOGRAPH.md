@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; V09+ unopened"
-generation: V0.9
+scope: ASUKA_NISHINO_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; admitted narrative supplements integrated; V08 rough-illustration collection reviewed as PRODUCTION_PARATEXT and excluded from character-state inference; Days of Endless Summer and V09.5 unopened"
+generation: V1.0
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Asuka Nishino — cumulative character monograph through V08 main
+# Asuka Nishino — cumulative character monograph through V09 main
 
 ## Scope and promotion basis
 
@@ -331,6 +331,36 @@ This repeats the same withholding problem she identifies in Saku. Her recognitio
 - whether anticipated departure becomes practical change in access, housing, or communication;
 - whether she can receive ordinary care without failed-independence shame;
 - whether grandmother/family relations continue as an independent support system;
+- direct reciprocal evidence only before any selection or couple claim.
+
+# V09 longitudinal revision
+
+## Group repair replaces suspended guilt with future practice
+
+Asuka is present when Momiji names the harm she caused, Haru ends further expiation, and the women make future plans `[V09:p-0014#p0130-p0195]`.
+
+This completes direct repair at group level. The source does not show a long separate Asuka/Momiji adjudication, so it supports neither missing repair nor an invented symmetrical dyadic process.
+
+## She learns a domestic form rather than claiming an office
+
+Asuka asks Yua to teach her and makes her first omurice for Saku, choosing the festival role because she wants to share one exceptional class event with him `[V09:p-0022#p0782-p0934]`.
+
+The practice is self-authored and collaborative. It does not turn her into a domestic caretaker by essence or displace Yua's history. Her imagined Tokyo life with Saku remains a possible scene rather than an enacted plan.
+
+## Departure remains emotionally specific and operationally open
+
+The ending of the unchanged group sharpens the finitude that has organized Asuka's relation, but V09 supplies no housing, transport, study, work, editorial placement, or communication logistics.
+
+## Post-V09 current model
+
+> **Asuka's V09 movement is from accountable group membership into borrowed-but-authored ordinary competence. Group-level repair with Momiji ends suspended penance; Yua's instruction lets Asuka create a new form of care without claiming kitchen ownership or erasing another woman's history. Her imagined Tokyo domestic future makes desire legible while remaining non-operational. The unchanged group ends, but Asuka's editorial destination and Saku relationship remain open rather than converted into either abandonment or couple status.**
+
+## *Days of Endless Summer* watchlist
+
+- place retrospective childhood, riverbank, or vocational scenes before revising current state;
+- distinguish ordinary texture from enacted Tokyo planning;
+- test whether listening and direct finite requests persist outside crisis;
+- preserve Yua collaboration and Momiji group repair without invented dyadic symmetry;
 - direct reciprocal evidence only before any selection or couple claim.
 
 # V08 main longitudinal revision

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no diegetic self-authorship transition; V09+ unopened"
-generation: V1.2
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no diegetic self-authorship transition; Days of Endless Summer and V09.5 unopened"
+generation: V1.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -422,3 +422,39 @@ V08 distinguishes performance that creates a bounded trial from performance used
 - Yua/Asuka self-account → **STRENGTHEN** through reciprocal correction under romantic pressure.
 - Saku's authored answer → **STRENGTHEN TEMPORAL COMMITMENT / KEEP CONTENT OPEN**.
 - couple/selection state → **KEEP OPEN**; direct Yuzuki romantic wording is not singularity.
+
+# V09 update — performance becomes answerable public authorship
+
+## V09 governing revision
+
+V09 completes the distinction opened in V08. Performance is neither a false shell nor a machine for revealing private rank. It becomes authentic when the performer owns audience, collaborators, inherited material, and consequences beyond the stage. Yua's song, Haru's race, the pirate band, Yuzuki's acting, and Momiji's confession each expose a different boundary between authored expression and the answer another person retains.
+
+## V09 entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-108 | Yuzuki / remembered morning | she refuses to erase the V08 night as a disposable mistake and later apologizes for degrading the self Saku protected | authored continuity includes responsibility for a failed performance rather than preserving identity through a clean reset | continued intimacy does not create retroactive consent | `[V09:p-0010#p0163-p0218]`, `[V09:p-0025#p0053-p0084]` |
+| SA-109 | Yua / public musical address | she tells Saku the performance is for him, chooses her own sound, and receives recognition from peers and juniors | a private romantic direction can become public self-authorship without reducing the performer to the recipient | Saku's tears and listening promise are not selection | `[V09:p-0012#p0417-p0447]`, `[V09:p-0012#p0628-p0829]`, `[V09:p-0014#p0001-p0098]` |
+| SA-110 | Haru / paired race | she first receives Saku's adjustment, then changes her own rhythm and names Yuzuki as the woman she loved first | identity as partner becomes an active capacity to alternate who adapts rather than a fixed guarantee of primacy | no basketball rank, vocation, or romantic answer follows | `[V09:p-0016#p0117-p0166]`, `[V09:p-0016#p0266-p0421]` |
+| SA-111 | ensemble / pirate performance | distinct singers, players, actors, and organizers retain recognizable parts inside one result | collective authenticity is distributed composition, not sameness or ownership by the most visible performer | stage competence does not decide private romance | `[V09:p-0020#p0081-p0357]` |
+| SA-112 | Tomoya and Yuzuki / original song | he apologizes and composes; she forgives without forgetting and writes lyrics | changed authorship can become evidence of accountable reintegration when the harmed person retains the terms | art does not redeem stalking or compel restored intimacy | `[V09:p-0022#p1624-p1743]` |
+| SA-113 | Asuka / first omurice | she learns from Yua and adapts a new domestic practice for Saku | self-authorship can borrow technique while preserving provenance and choosing a distinct expression | imagined Tokyo domesticity is not a plan or couple | `[V09:p-0022#p0782-p0934]` |
+| SA-114 | Momiji / public and rooftop confessions | she sheds the protective wish to be hated, distinguishes love at first sight from accumulated love, and asks for start-line standing | full purpose disclosure revises strategic juniorhood into answerable claimant identity | Saku refuses immediate dating and does not name reciprocal love | `[V09:p-0022#p1271-p1384]`, `[V09:p-0022#p1770-p1792]`, `[V09:p-0024#p0001-p0075]` |
+| SA-115 | Yuzuki / mirror and stage | she offers correction rather than flattering reflection; Saku chooses her for the bounded performance and names her as his moon/mirror | an authentic relation can help each person recover a chosen self through criticism as well as admiration | acting choice and prospective epilogue do not establish exclusive romance | `[V09:p-0025#p0053-p0147]`, `[V09:p-0027#p0001-p0045]`, `[V09:p-0030#p0001-p0018]` |
+| SA-116 | Saku / active decision interval | he abandons the performance of decisive exclusion, hears Momiji, and treats remaining time as a duty to face movable feeling | self-authorship includes revising one's procedure before the final answer, not protecting consistency at another's expense | deadline, content, and self-originated support request remain open | `[V09:p-0022#p1386-p1592]`, `[V09:p-0024#p0012-p0075]` |
+| SA-117 | group / end of blue | participants openly declare rivalry and continue dancing as the unchanged arrangement closes | a collective may relinquish one beautiful form without declaring its relations false | successor topology remains unsettled | `[V09:p-0029#p0048-p0090]` |
+
+## Authenticity rule after V09
+
+> **Performance becomes authored truth when its maker remains accountable to audience, collaborators, inherited histories, consent, and aftermath. A bounded stage can reveal a desired way of being without deciding a whole relationship; a public confession can earn the right to be heard without compelling acceptance. Mature self-authorship may preserve feeling, revise method, and release a shared form rather than make one spectacular act carry every answer.**
+
+## V09 revision state
+
+- performance as romantic verdict → **REJECT AGAIN**; acting result and private status remain separate.
+- Yua as domestic caretaker identity → **MAJOR REVISE / BROADEN** through public musical authorship.
+- Haru as fixed partner/ace → **REVISE TO RECIPROCAL ADAPTATION**; vocation remains open.
+- Momiji's junior performance → **REVISE THROUGH FULL DISCLOSURE**; strategic history remains part of accountability.
+- Yuzuki's mirror identity → **STRENGTHEN AS CORRECTIVE RELATION**, not passive similarity or ethical alibi.
+- Saku's answer authorship → **STRENGTHEN PROCEDURE / KEEP CONTENT OPEN**.
+- group identity → **END UNCHANGED FORM / PRESERVE RELATIONS**.
+- couple/selection state → **KEEP OPEN**; exceptional Yuzuki differentiation and Momiji admission do not create singularity.

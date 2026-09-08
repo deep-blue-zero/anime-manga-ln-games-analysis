@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V08_MAIN
-source_boundary: "Japanese main Volumes 01-08 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no relationship transition; V09+ unopened"
-generation: V1.1
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V09_MAIN
+source_boundary: "Japanese main Volumes 01-09 frozen; V03/V05/V06.5 supplements integrated; V08 rough-illustration collection reviewed separately as PRODUCTION_PARATEXT with no relationship transition; Days of Endless Summer and V09.5 unopened"
+generation: V1.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -765,3 +765,86 @@ Yuzuki's 65–51 control exposes Haru's comparative insecurity and the team's in
 - test whether Momiji discloses purpose to Saku and whether knowledge changes junior access;
 - test whether Yua/Asuka, Yuko/Momiji, Yuzuki/Momiji, and Yuzuki/Haru relations persist through the festival;
 - keep stage acting evaluation distinct from romantic selection absent independent evidence.
+
+# V09 relationship update — admitted claims below final selection
+
+## Saku ↔ Yuzuki — corrective mirrorhood differentiates without selecting
+
+They preserve the V08 night as part of a continuing relation while keeping the violation visible. Yuzuki apologizes more exactly and offers to reflect Saku truthfully rather than protect an idealized hero. Saku recognizes how she has enabled and corrected his choices `[V09:p-0010#p0163-p0218]`, `[V09:p-0025#p0053-p0115]`.
+
+Saku chooses the Dark Cloud Princess for `today, this stage only`, names Yuzuki as moon and mirror, and joins an apple-mediated gesture. The epilogue imagines what he would desire if he later names the heart she saved `[V09:p-0025#p0120-p0147]`, `[V09:p-0027#p0001-p0045]`, `[V09:p-0030#p0001-p0018]`.
+
+**Current state:** direct reciprocal romantic language + remembered violation and continuing accountability + corrective mirror/moon relation + acting-only stage choice + prospective selfhood evidence + no singular selection, lip kiss, or couple.
+
+## Saku ↔ Yua — a public address receives tears and a future hearing
+
+Yua directly tells Saku the performance is for him, authors her own sound, and asks whether it reached him. Saku cries and promises to hear her again `[V09:p-0012#p0417-p0447]`, `[V09:p-0012#p0690-p0829]`, `[V09:p-0014#p0001-p0098]`.
+
+**Current state:** reciprocal domestic ordinary + Yua-side direct romantic/public musical address + Saku emotional reception and listening promise + no exclusive person, selection, or couple.
+
+## Saku ↔ Haru — reciprocal race technique below a present romantic bid
+
+Haru asks for paired-race practice. Saku first matches her rhythm; after they stumble, she matches his. Her consequential disclosure still follows his prompt `[V09:p-0014#p0433-p0535]`, `[V09:p-0016#p0117-p0166]`, `[V09:p-0016#p0266-p0421]`.
+
+**Current state:** athletic/baseball partnership + adaptive two-way coordination + existing Saku-side romantic-pain recognition + no present Haru romantic challenge, selection, or couple.
+
+## Saku ↔ Asuka — collaborative domestic novelty remains imagined future
+
+With Yua's help, Asuka makes her first omurice around Saku's preferences and privately imagines a possible Tokyo domestic future `[V09:p-0022#p0782-p0934]`.
+
+**Current state:** finite-time intimacy + new Asuka-authored care learned through Yua + prospective imagined domesticity + no Tokyo logistics, reciprocal selection, cohabitation, or couple.
+
+## Saku ↔ Yuko — governing refusal coexists with entrusted heart and perceptive support
+
+Yuko recognizes Saku's inclusive public leadership and later gives Yuzuki permission to carry the apple/heart their play had shared `[V09:p-0022#p0672-p0695]`, `[V09:p-0027#p0031-p0045]`.
+
+**Current state:** governing refusal + Yuko's restarted love + quiet recognition of Saku's strengths and faults + entrusted stage symbol + no new promise or couple.
+
+## Saku ↔ Momiji — immediate refusal and procedural admission coexist
+
+Momiji publicly confesses. Saku refuses dating and initially tries to reduce the relation to greetings. After Yuzuki and the group insist that he hear rather than choose her, Momiji fully discloses her accumulated love and asks for start-line standing until the final answer `[V09:p-0022#p1271-p1592]`, `[V09:p-0022#p1770-p1792]`.
+
+Saku preserves the immediate refusal, rescinds expulsion, and gives her the third rooftop key `[V09:p-0024#p0001-p0075]`.
+
+**Current state:** direct Momiji love + refused immediate dating request + Saku knowledge of full purpose + social expulsion rescinded + answerable claimant/rooftop access + counterfactual potential acknowledged + no direct present Saku romantic naming or couple.
+
+## Yuzuki ↔ Momiji — rivalry becomes durable care without compulsory friendship language
+
+Yuzuki refuses Momiji's request to be hated, names willingness to care in victory or loss, and receives her apology. Their private repair precedes a public fellow-fighter handshake `[V09:p-0014#p0255-p0396]`, `[V09:p-0020#p0190-p0357]`.
+
+**Current state:** direct repair + refusal of preventive hatred + reciprocal rival recognition + future care across either outcome + durable relation not reducible to stage fiction.
+
+## Momiji ↔ older heroines — expiation ends and transparent contest begins
+
+Momiji directly acknowledges harm with Yuko, Yua, Haru, and Asuka present; the group ends further apology and makes future plans. At the afterparty, she declares individual competition and receives differentiated acceptance `[V09:p-0014#p0130-p0195]`, `[V09:p-0029#p0048-p0076]`.
+
+**Current state:** group-level repair complete + prior harm remembered + five explicit rival relations + continued ordinary belonging + no compelled assimilation or entitlement to Saku.
+
+## Yuzuki ↔ Haru — first love becomes a commitment not to abandon
+
+Haru names Yuzuki as the woman she loved before Saku and resolves to change rather than leave her alone. The paired-race method supplies adaptive relation evidence, but not direct sustained basketball reconstruction `[V09:p-0016#p0266-p0421]`.
+
+**Current state:** independently primary partnership + explicit priority history + commitment to continue beside a moving Yuzuki + partial coordination evidence + basketball hierarchy and team repair open.
+
+## Yua ↔ Asuka and Yuko ↔ Yuzuki — independent futures continue
+
+Yua teaches Asuka to make omurice rather than defend domestic practice as exclusive. Yuko and Yuzuki preserve their ten-year Kanazawa promise regardless of Saku's answer `[V09:p-0022#p0782-p0934]`, `[V09:p-0022#p0710-p0717]`.
+
+**Current state:** circulating care knowledge + continued Yua/Asuka friendship + durable Yuko/Yuzuki future horizon independent of central romantic outcome.
+
+## Relationship hypotheses after V09
+
+1. **Differentiation remains below singularity.** Yuzuki now has exceptional mirror, stage, and epilogue evidence, but the stage rule and prospective grammar preserve nonselection.
+2. **Refusal and relation admission can coexist.** Momiji does not become Saku's girlfriend; she becomes a heard claimant whose final answer remains pending.
+3. **Repair changes future practice without rewriting harm.** This governs V08 consent, the V07 Momiji conflicts, and Tomoya's renewed creative contribution.
+4. **The end of a group form is not the end of its relations.** Rival, friendly, artistic, and ordinary routes continue after the unchanged blue arrangement closes.
+5. **Corrective support is relational intimacy.** Yuzuki strengthens her bond with Saku by opposing his premature exclusion, not by protecting his image or choosing for him.
+
+# Days of Endless Summer relationship watchlist
+
+- classify every story's publication and diegetic horizon before changing current relationship state;
+- preserve retrospective early-set evidence as later-admitted testimony rather than an earlier freeze rewrite;
+- distinguish texture, first occurrence, and current transition;
+- preserve Momiji's split refusal/admission and Yuzuki's exceptional but nonexclusive position;
+- require direct singular wording and mutually enacted status before any couple claim;
+- keep group-level repair, continuing lateral ties, and the end of the unchanged blue form simultaneously visible.
