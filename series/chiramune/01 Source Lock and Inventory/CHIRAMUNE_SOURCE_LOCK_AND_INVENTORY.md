@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -72,7 +72,9 @@ Both the regular Volume 05 witness and a special-edition object are present. Use
 
 ### Volume 03 booklet
 
-The illustration/SS booklet is a separate acquired object. It should not be opened for analytical integration until the Volume 03 mainline reading has frozen and the booklet's story placement is classified.
+The illustration/SS booklet is a separate acquired purchase-bonus object. The Volume 03 mainline reading froze before the booklet was opened. The exact booklet hash was then independently reproduced and the object was classified `SUPPLEMENTAL_MAINLINE`.
+
+Its colophon dates publication to 2020-04-17 and identifies 裕夢 as author, raemz as illustrator, BOOK☆WALKER as producer, and Shogakukan's Gagaga Bunko editorial department as cooperating publisher. Its untitled story is a late-V03 interstitial set after Saku and Asuka return from Tokyo and separate at Fukui Station, but before the following Monday sequence. Because the object explicitly warns of major V03 spoilers, its safe prospective insertion boundary remains after the complete V03 main freeze. See `../02 Sequential Readings/CHIRAMUNE_V03_SUPPLEMENTAL_BOOKLET_READING.md`.
 
 ### Half-volumes and side stories
 

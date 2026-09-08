@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: synthesis_architecture
 scope: OPEN_ENDED_JAPANESE_LIGHT_NOVEL_FULL_SERIES
-source_boundary: "Locked Japanese light-novel corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; analysis currently frozen through main Volume 03 with its bundled bonus classified separately"
-generation: V0.3
+source_boundary: "Locked Japanese light-novel corpus through main Volume 09 plus acquired V03/V05/V08 supplements, Volume 06.5, Days of Endless Summer, and Volume 09.5; analysis frozen through main Volume 03 with its bundled bonus and separate booklet classified and integrated"
+generation: V0.4
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
@@ -46,13 +46,13 @@ This architecture is subordinate to the live repository authority records, integ
 
 Do not collapse "available" or "complete" into one number. Maintain this five-part state in the current corpus map:
 
-| Horizon | Meaning | Current V03 checkpoint |
+| Horizon | Meaning | Current post-V03-booklet checkpoint |
 |---|---|---|
 | `H_pub` | latest publication established by the current bibliographic/source audit | Volume 09.5; official Shogakukan series catalog rechecked 2026-09-07 |
 | `H_acq` | latest acquired main and supplemental witnesses | main V09; supplemental V09.5; 14 locked EPUB objects total |
 | `H_main` | latest numbered main volume prospectively frozen | V03 |
-| `H_supp` | supplemental witnesses analytically integrated after a safe boundary | V03 in-EPUB pre-main bonus (`BONUS_FICTION`); no separate supplement yet |
-| `H_next` | next source safe to open without contaminating a prior freeze | separate V03 illustration/SS booklet |
+| `H_supp` | supplemental witnesses analytically integrated after a safe boundary | V03 in-EPUB pre-main birthday bonus (`BONUS_FICTION`) plus separate V03 illustration/SS booklet (`SUPPLEMENTAL_MAINLINE`) |
+| `H_next` | next source safe to open without contaminating a prior freeze | main Volume 04 |
 
 The live source inventory has no missing numbered main volume through V09. Known limits remain: retailer-exclusive bonuses are not claimed exhaustive; regular-edition V08 is not separately held, while the special edition contains the complete V08 narrative; supplemental placement must be resolved before analytical use.
 
@@ -293,4 +293,4 @@ Completion states are:
 6. `TERMINAL_SYNTHESIS_READY` — only after publication closure and role-gap/convergence gates;
 7. `VALIDATED_RELEASE` — the eligible synthesis and exact repository state pass required audits.
 
-At the V03 checkpoint the architecture is `EVOLVING`, the main high-water mark is V03, the in-EPUB pre-main bonus is integrated under an explicit `BONUS_FICTION` class, no separate supplement has yet been opened, the next safe source is the V03 booklet, and the continuous run remains open through the live admitted inventory.
+At the post-V03-booklet checkpoint the architecture is `EVOLVING`, the main high-water mark is V03, the in-EPUB pre-main bonus is integrated under `BONUS_FICTION`, the separate V03 booklet is frozen under `SUPPLEMENTAL_MAINLINE`, the next safe source is main V04, and the continuous run remains open through the live admitted inventory.

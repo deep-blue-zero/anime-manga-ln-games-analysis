@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_03
-source_boundary: "Japanese Volumes 01-03; V03 interpreted from the frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet and V04+ unopened"
-generation: V0.2
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_03_AND_BOOKLET
+source_boundary: "Japanese Volumes 01-03; V03 interpreted from the frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04+ unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -151,6 +151,25 @@ Exact wording, class, confidence, counterevidence, and locators remain in `../02
 
 Their origin state is `ESTABLISHED_AT_V03`. Assign a later transition only when the V03 booklet, V04, or another safely admitted source materially tests one.
 
+## V03 supplemental-booklet checkpoint
+
+The separate purchase-bonus booklet was opened only after the V03 main transaction froze at commit `3f35cef3908d22d45fcffa99a271f44c8bd97dfe`. Its untitled story is classified `SUPPLEMENTAL_MAINLINE` and placed late in V03 between main `[p-0031#p0508]` and `[p-0031#p0512]`. The frozen main reading and freeze remain unchanged; the rows below record only claims the later supplemental witness materially tests.
+
+| Claim ID | Frozen V03 formulation | Booklet transition | Current formulation after booklet | Primary route |
+|---|---|---|---|---|
+| F17 | Saku does not reciprocally name love toward Yuzuki. | `PRESERVE` | He welcomes her familiar play, offers coffee, and remains conscious of her scent, but neither understands her “overwrite” nor names love or commitment. | V03 supplemental booklet reading S03-B02–B04 |
+| F36 | Yuzuki's love becomes costly, nonpossessive action. | `STRENGTHEN / REVISE` | Her support remains non-sabotaging, but it is not neutral or self-erasing: she tests the Asuka outcome and makes an indirect competitive bid to “overwrite” a recent trace with her own. | V03 supplemental booklet reading S03-B01, B03, B05 |
+
+No transition is assigned to `F35`. The joke about what may have happened in Tokyo presupposes the trip but does not change the main freeze's classification of Saku/Asuka mutual love without exclusivity.
+
+### Pre-V04 test revision
+
+The booklet partially answers the original wording of `V04-Q05` before V04 begins. Nonpossessive support persists, while competitive reclamation becomes explicit enough to require a better test.
+
+| Test ID | Earlier wording | Supplemental transition | Revised entering question for V04 |
+|---|---|---|---|
+| V04-Q05 | Does Yuzuki's nonpossessive support persist? | `REVISE BEFORE V04` | Can Yuzuki balance generosity, competition, hurt, and direct self-advocacy without converting any one mode into a compulsory role? |
+
 ## Open V04 test register
 
 | Test ID | Entering question | Current state | Required evidence |
@@ -159,7 +178,7 @@ Their origin state is `ESTABLISHED_AT_V03`. Assign a later transition only when 
 | V04-Q02 | What becomes of Saku's reopened baseball attachment? | `OPEN` | sustained play, organized return, or chosen retreat |
 | V04-Q03 | Can Saku surrender procedural as well as outcome control? | `OPEN` | a material help episode with informed method consent or accepted refusal |
 | V04-Q04 | Can Saku disclose need before crisis? | `OPEN` | voluntary disclosure or request concerning family, home, grief, or dependence |
-| V04-Q05 | Does Yuzuki's nonpossessive support persist? | `OPEN` | costly ordinary action under intensified romantic competition |
+| V04-Q05 | Can Yuzuki balance generosity, competition, hurt, and direct self-advocacy without converting any one mode into a compulsory role? | `OPEN` | ordinary behavior under intensified romantic competition, especially a direct request, boundary, or acknowledged disappointment |
 | V04-Q06 | What responsibility does Haru's catch-partner role acquire? | `OPEN` | repeated baseball-related interaction or explicit renegotiation |
 | V04-Q07 | Can Asuka receive support without making dependence failure? | `OPEN` | post-choice behavior or explicit revision of the invulnerability vow |
 | V04-Q08 | Does the group retain distributed corrective authority? | `OPEN` | consequential action led or corrected by someone other than Saku |

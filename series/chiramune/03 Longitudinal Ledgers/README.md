@@ -2,7 +2,7 @@
 series: CHIRAMUNE
 artifact_type: longitudinal_ledger_router
 scope: CROSS_VOLUME_ANALYSIS
-generation: V0.3
+generation: V0.4
 status: canonical
 release_state: mutable_active
 ---
@@ -17,7 +17,7 @@ V01–V03 maintain five current rolling responsibilities:
 - `CHIRAMUNE_SOCIAL_STATUS_INCLUSION_AND_GROUP_DYNAMICS_LEDGER.md` — hierarchy, status resilience, inclusion, legitimacy, visibility, and group correction;
 - `CHIRAMUNE_RELATIONSHIP_RECOGNITION_AND_INTIMACY_LEDGER.md` — directional knowledge, bids, reciprocity, specialness, jealousy, disclosure, and named/unnamed feeling.
 
-These are maintained cumulative documents through the current analyzed boundary. V03 appends explicit boundary-labeled updates without rewriting the V01 or V02 epistemic states preserved by their prospective readings and freezes.
+These are maintained cumulative documents through the current analyzed boundary. V03 appends explicit boundary-labeled updates without rewriting the V01 or V02 epistemic states preserved by their prospective readings and freezes. The separate V03 booklet materially updates only the revision, relationship, and self-authorship ledgers; agency and social-status remain at their main-V03 findings because the supplement supplies no independent transition for those responsibilities.
 
 Every entry must preserve the volume boundary that established it. Later recontextualization may revise the current interpretation through `PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN` without erasing the earlier formulation.
 

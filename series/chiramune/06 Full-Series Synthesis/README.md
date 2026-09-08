@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: series_synthesis_router
 scope: ROLLING_AND_TERMINAL_SERIES_SYNTHESIS
-source_boundary: "Architecture route only; Japanese main analysis currently frozen through Volume 03; bundled V03 bonus labeled BONUS_FICTION; no synthesis artifact promoted yet"
-generation: V0.1
+source_boundary: "Architecture route only; Japanese main analysis frozen through Volume 03; bundled V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE; no synthesis artifact promoted yet"
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []

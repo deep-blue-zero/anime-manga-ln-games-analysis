@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V03
-source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
-generation: V0.2
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V03_AND_BOOKLET
+source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04+ unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -197,10 +197,22 @@ Her father's risk knowledge and care are real. So are his unilateral control, ph
 
 **V03 state:** continuing family attachment + recognized daughter agency + unresolved coercive-history cost.
 
-## Cross-volume relationship hypotheses after V03
+# V03 supplemental-booklet update
+
+## Saku ↔ Yuzuki — generosity plus competitive reclamation
+
+The separate purchase-bonus booklet adds a late-V03 scene immediately after the Tokyo return and before the following Monday. Saku contacts Yuzuki because she pushed him toward Asuka, then experiences their familiar comic rhythm as part of being home `[V03B:p-001#p0008-p0019]`.
+
+Yuzuki checks whether he was rejected, places her cap on his head, surrounds him with her shampoo scent, and calls the act an “overwrite” in a slightly weakened voice `[V03B:p-001#p0041-p0056]`. The omitted object remains inferential, but Asuka's recent romantic/sensory presence is the strongest contextual referent. This is not sabotage: Yuzuki leaves the Tokyo outcome intact and accepts a coffee invitation. It is a bounded attempt to restore her own presence after helping a rival.
+
+Saku reciprocates the ordinary encounter—play, invitation, pursuit, and sensory attention—but he forgot her souvenir, does not understand the overwrite, and supplies no love or commitment language `[V03B:p-001#p0037-p0040]`, `[V03B:p-001#p0052-p0061]`.
+
+**Post-booklet state:** Yuzuki → Saku remains named love combining generosity, jealousy, competitive self-assertion, and indirect vulnerability. Saku → Yuzuki gains evidence of home-like ease and receptive ordinary intimacy but remains unnamed. No couple is established.
+
+## Cross-volume relationship hypotheses after V03 main and booklet
 
 1. **Recognition survives demystification when it tracks practice rather than essence.** Saku's love for Asuka survives ordinary evidence and the origin of her role.
-2. **Love can be nonpossessive without being noncompetitive.** Yuzuki's support and Yuko's mediation preserve desire while refusing sabotage.
+2. **Love can be nonpossessive without being noncompetitive.** Yuzuki's support and Yuko's mediation preserve desire while refusing sabotage; the booklet's “overwrite” makes Yuzuki's competitive reclamation explicit without reversing her aid to Asuka.
 3. **Different gifts encode different proximity claims.** Memory, practical nearness, promised ritual, shared activity, and old recognition cannot be collapsed into one romance scale.
 4. **Mutual naming does not equal exclusive commitment.** Saku and Asuka name love while accepting separation and leaving relationship category open.
 5. **The right to know does not imply the right to monitor.** Intimacy expands disclosure but does not legitimate Saku's hidden phone or interpretive override.
@@ -209,7 +221,7 @@ Her father's risk knowledge and care are real. So are his unilateral control, ph
 # V04 watchlist
 
 - whether Asuka's new public significance destabilizes cooperative rivalry;
-- whether Yuzuki continues helping without converting self-denial into her own compulsory role;
+- whether Yuzuki can balance generosity, competition, hurt, and direct self-advocacy without converting any one mode into a compulsory role;
 - whether Haru's direct affection and catch partnership receive an answer;
 - whether Yua's request for ordinary nearness changes Saku's behavior;
 - whether Yuko's self-authored competition remains generous under exclusion;

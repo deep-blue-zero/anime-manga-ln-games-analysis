@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V03_BASELINE
-source_boundary: "Japanese Volumes 01-03; V03 interpreted prospectively from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
-generation: V0.2
+scope: YUZUKI_NANASE_V01_V03_AND_BOOKLET_BASELINE
+source_boundary: "Japanese Volumes 01-03; V03 interpreted prospectively from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04+ unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -281,6 +281,54 @@ Yuzuki's help should not be romanticized as pure self-erasure. She preserves des
 - whether Haru again functions as developmental rival/corrective;
 - whether the crescent model—valuable without fullness—appears in her behavior outside the bonus.
 
-## V03 current model
+## V03-main model before the booklet
 
 > **Yuzuki's V03 contribution is small in page share but large in diagnostic value: she can act from love in a way that protects Saku's authorship even when doing so helps another woman. The act strengthens nonpossession, but later volumes must test whether generosity remains chosen rather than becoming a new polished obligation.**
+
+# V03 supplemental-booklet revision
+
+## 1. Evidence limit and placement
+
+The separate purchase-bonus booklet supplies one untitled Saku/Yuzuki scene and one matching Yuzuki illustration. It is placed late in V03 after the Tokyo return and before the following Monday, but was read only after the main V03 freeze. It adds no Yuzuki focalization, trauma retest, or direct account of her motives. The revision must therefore remain behavioral and relational.
+
+## 2. Nonpossession is not emotional neutrality
+
+Yuzuki's main-volume action helped Saku move toward Asuka. The booklet shows what that choice cost without undoing it. She appears on his route home, checks whether he was rejected, and uses her cap and shampoo scent for an act she calls an “overwrite” `[V03B:p-001#p0026-p0027]`, `[V03B:p-001#p0041-p0056]`.
+
+The strongest contextual inference is that she is trying to replace or cover Asuka's recent romantic/sensory trace with her own. Because she leaves the object unstated, the exact target remains open. What no longer remains plausible is an account in which generosity erased competition or hurt.
+
+## 3. Performance and vulnerability remain one system
+
+The meeting is built from Yuzuki's familiar materials: mock-criminal directions, claimed coincidence, sexual humor, controlled physical contact, and deniable wording. Sincerity does not arrive when those forms disappear. It appears inside them through her weakened voice and the disproportionate intimacy of the scent-bearing cap `[V03B:p-001#p0015-p0027]`, `[V03B:p-001#p0048-p0056]`.
+
+This is consistent with her established authored-interface model. She can make a real bid while retaining face and exit. The limitation is equally important: indirection lets Saku miss the bid's meaning and answer only at the level of coffee and play.
+
+## 4. Care and self-interest coexist without invalidating either
+
+Yuzuki says she would have comforted Saku if Asuka rejected him, then reacts to his relieved appearance `[V03B:p-001#p0041-p0047]`. Her response can contain care for Saku, hope for herself, disappointment, jealousy, and comic self-protection at the same time. None of those motives requires sabotage.
+
+Her request that he buy coffee in place of the forgotten souvenir is a small act of self-advocacy. It does not yet amount to asking him for romantic clarity, but it prevents the scene from becoming pure self-denial.
+
+## 5. Visual state
+
+The dedicated illustration fixes the boyish cap/hoodie/shorts presentation, phone, and bubble gum described in the prose `[V03B:p-002#img01]`. The casual outfit expands rather than negates her style management: she can choose a less formal register while still becoming visually conspicuous. The phone and waiting pose reinforce that the supposedly accidental meeting is actively arranged.
+
+## 6. Post-booklet revision state
+
+- named love as chosen, non-sabotaging movement → **STRENGTHEN**;
+- nonpossessive love as absence of competition → **REJECT**;
+- vulnerability requires removal of performance → **REJECT**;
+- direct romantic self-advocacy → **OPEN**; the coffee claim is bounded and the overwrite remains deniable;
+- Saku's reciprocal naming → **PRESERVE ABSENT**.
+
+## 7. Revised V04 watchlist
+
+- whether Yuzuki can name disappointment or desire without preserving total deniability;
+- whether competitive reclamation remains bounded and non-sabotaging as pressure increases;
+- whether generosity, rivalry, and self-advocacy remain chosen modes rather than a new polished obligation;
+- whether Saku recognizes and responds to her indirect bids rather than merely enjoying them;
+- whether ordinary frustration tests the anti-coercion core that V03 did not retest.
+
+## Post-booklet current model
+
+> **Yuzuki can help Saku toward Asuka and still want to restore her own trace afterward. Her V03 generosity is therefore not surrender: it is a non-sabotaging choice made by someone who remains jealous, hopeful, playful, and willing to ask for a small share of ordinary intimacy. Performance is the vehicle of that vulnerable claim, but its deniability postpones the direct answer she may eventually need.**

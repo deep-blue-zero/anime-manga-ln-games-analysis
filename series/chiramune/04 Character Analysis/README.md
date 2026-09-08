@@ -2,7 +2,7 @@
 series: CHIRAMUNE
 artifact_type: character_analysis_router
 scope: CHARACTER_ANALYSIS
-generation: V0.3
+generation: V0.4
 status: canonical
 release_state: mutable_active
 ---
@@ -15,7 +15,7 @@ V01–V03 currently justify three active-provisional cumulative monographs:
 - `Yuzuki Nanase/CHIRAMUNE_YUZUKI_CHARACTER_MONOGRAPH.md`;
 - `Asuka Nishino/CHIRAMUNE_ASUKA_CHARACTER_MONOGRAPH.md`.
 
-Saku's cumulative monograph preserves the complete V01 baseline and appends explicit V02 and V03 revisions. Yuzuki's monograph is promoted at V02 because direct focalization, retrospective self-account, ordinary-life evidence, relationship contrast, crisis behavior, and counterevidence together cross the independent-model threshold. Asuka's monograph is promoted at V03 because direct focalization, childhood formation, ordinary-life demystification, family conflict, researched vocation, directional love, and significant ethical counterevidence together create an independently useful model.
+Saku's cumulative monograph preserves the complete V01 baseline and appends explicit V02, V03-main, and V03-booklet revisions. Yuzuki's monograph is promoted at V02 because direct focalization, retrospective self-account, ordinary-life evidence, relationship contrast, crisis behavior, and counterevidence together cross the independent-model threshold; the separate V03 booklet adds a bounded post-main revision. Asuka's monograph is promoted at V03 because direct focalization, childhood formation, ordinary-life demystification, family conflict, researched vocation, directional love, and significant ethical counterevidence together create an independently useful model. The booklet does not materially revise Asuka's monograph.
 
 Do not create another monograph or character subdirectory merely because a cast member appears in the source.
 

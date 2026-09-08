@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V03_BASELINE
-source_boundary: "Japanese Volumes 01-03; V03 interpreted prospectively from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
-generation: V0.3
+scope: SAKU_CHITOSE_V01_V03_AND_BOOKLET_BASELINE
+source_boundary: "Japanese Volumes 01-03; V03 interpreted prospectively from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -634,3 +634,25 @@ The V01–V02 paradox survives with a causal history and one new possibility:
 - whether he can distinguish urgent care from unilateral procedural authority;
 - whether the many-moons model lowers the full-moon perfection demand in daily behavior;
 - whether choosing among relationships remains indefinitely avoidable.
+
+# V03 supplemental-booklet revision
+
+## 1. Home is partly an interaction
+
+On returning from the tense Tokyo trip, Saku experiences Yuzuki's familiar mock-criminal banter as a release of bodily tension and as confirmation that he is home `[V03B:p-001#p0015-p0019]`. This expands the V03 household finding. Belonging is not limited to the apartment, family structure, or Fukui landscape; it also exists in repeatable dyadic rhythms that let him participate without organizing a rescue.
+
+The scene does not establish Yuzuki as his sole or primary home. It does show that she already occupies ordinary, embodied territory in his model of return.
+
+## 2. Receptive intimacy remains below explicit recognition
+
+Saku joins the play, notices Yuzuki's welcome, offers coffee, follows her, and ends conscious of her shampoo scent `[V03B:p-001#p0018-p0023]`, `[V03B:p-001#p0057-p0061]`. These are real reciprocal acts. They remain limited: he forgot her souvenir, does not understand the “overwrite,” and gives no love or commitment language `[V03B:p-001#p0037-p0040]`, `[V03B:p-001#p0052-p0056]`.
+
+The booklet therefore strengthens the distinction between Saku's ability to receive ordinary intimacy and his willingness or ability to classify its relational claim. He can answer the surface bid warmly while leaving its deeper demand unrecognized.
+
+## 3. Post-booklet V04 watchlist refinement
+
+- whether Saku recognizes indirect bids from Yuzuki rather than treating their deniability as absence of demand;
+- whether ordinary reciprocity develops into a direct response to her named love;
+- whether “home” becomes a shareable dependency he can request, not merely a welcome sensation other people create for him.
+
+The wider V03 stable model remains unchanged: this brief supplement adds ordinary relational texture but does not alter the formation, intervention, Asuka, family, baseball, or mutual-love findings frozen from the main volume.

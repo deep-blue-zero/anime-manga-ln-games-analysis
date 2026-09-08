@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V03
-source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet unopened"
-generation: V0.3
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V03_AND_BOOKLET
+source_boundary: "Japanese Volumes 01-03; V03 interpreted from frozen V02 state; bundled pre-V03 bonus labeled BONUS_FICTION; separate V03 booklet integrated as SUPPLEMENTAL_MAINLINE after the V03 main freeze; V04+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -176,3 +176,13 @@ Saku and Asuka are reciprocal cases. She borrowed his childhood freedom and made
 - Saku's refusal to name feeling → **REVISE / OPEN**: he can name love toward Asuka after projection is disentangled, but exclusive commitment and his wider withholding remain unresolved.
 - Asuka as distant authentic ideal → **REJECT in strong form**; preserve her real competence while replacing imagined effortless freedom with learned, constrained, revisable practice.
 - New question: can either Saku or Asuka receive ordinary dependency without converting it into identity failure?
+
+# V03 supplemental-booklet update — performed indirection as vulnerable bid
+
+The booklet adds one compact but diagnostic Yuzuki case after the main V03 freeze.
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-045 | Yuzuki / post-Tokyo “overwrite” | she stages mock-criminal directions, claims a coincidental meeting, uses sexual humor, places her scent-bearing cap on Saku, and names the act only elliptically in a weakened voice | authored performance can be the form of sincere vulnerability rather than a screen that must be removed before intimacy | indirection protects her agency and face but also lets Saku receive the gesture without understanding or answering it | `[V03B:p-001#p0015-p0027]`, `[V03B:p-001#p0041-p0056]` |
+
+This preserves the V02–V03 authenticity rule while adding a relational cost. Yuzuki remains most recognizably herself when theatrical fluency and exposed feeling coexist. The same fluency that lets her risk a bid also keeps its demand deniable; later evidence must test whether she can make a direct request when ambiguity no longer serves her.
