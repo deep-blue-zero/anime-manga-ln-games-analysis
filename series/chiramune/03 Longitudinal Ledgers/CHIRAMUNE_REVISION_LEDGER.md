@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.7
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -399,3 +399,44 @@ Their origin state is `ESTABLISHED_OR_REVISED_AT_V06_MAIN`. Exact locators, coun
 | V065-Q06 | Does baseball become a durable chosen path? | `OPEN` | continuing stakes and practice rather than isolated play |
 | V065-Q07 | Which non-Saku relations carry independent narrative responsibility? | `OPEN` | component-level girl–girl, family, male-friendship, locality, and ordinary-life routing |
 | V065-Q08 | What supplemental checkpoint form does the object require? | `OPEN` | preserve V06 main freeze; route components by role and chronology |
+
+## V06.5 supplemental-question dispositions
+
+| Test ID | Disposition | Evidence-controlled result |
+|---|---|---|
+| `V065-Q01` | `CLASSIFIED` | Four present-state late-August stories have separate focalizers and internal chronology; no exact total cross-story order is asserted. |
+| `V065-Q02` | `RESOLVED WITH BOUNDED ORDER` | Every story follows the V06 festival and precedes second term; editorial order alone does not establish a precise calendar. |
+| `V065-Q03` | `PRESERVE / DIFFERENTIATE` | Yua gains the strongest new material reciprocity, while every romantic trajectory remains active; no singular beloved or couple appears. |
+| `V065-Q04` | `PARTIAL / OPEN` | Yuzuki makes a direct novel-experience request and Haru integrates love with sport; Haru's promised final challenge is not enacted. |
+| `V065-Q05` | `PRESERVE OPEN` | Saku discloses emptiness after Asuka asks and responds after Mai calls; his chair is self-originated care, not a request for support. |
+| `V065-Q06` | `PRESERVE OPEN` | Baseball is one possible content for Saku's post-V06 blank and an image in Haru's learning; no durable path is chosen. |
+| `V065-Q07` | `STRONGLY STRENGTHEN` | Female friendship, editorial mentorship, family memory, and athletic lineage independently carry development in all four stories. |
+| `V065-Q08` | `CONFIRM` | V06.5 is integrated through a separate component-aware supplemental checkpoint; the V06 numbered freeze is unchanged. |
+
+## Claims established or revised at the V06.5 supplemental checkpoint
+
+| ID | Prior state | Transition | Current formulation | Evidence route |
+|---|---|---|---|---|
+| F86 | V06 established plural attachment and no couple | `PRESERVE / DIFFERENTIATE` | Each heroine gains a distinct late-August future-oriented action; Yua's reciprocity is strongest materially, but no one is selected and no couple forms. | `CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md`, `S065-F01-F02` |
+| F87 | Yua rejected caretaker-only self-erasure | `STRENGTHEN / MATERIALIZE` | She directly names a date and first-place ambition; Saku independently creates a durable kitchen place and commits to honest relation through possible hurt without romantic promise. | `S065-F02`, `V065-03` |
+| F88 | Saku's disclosure improved while help-request initiation remained open | `PRESERVE GAP / STRENGTHEN RECIPROCITY` | He answers Asuka about his post-V06 blank, accepts Haru contact initiated by Mai, and originates care for Yua; no clear self-originated support request appears. | `S065-F05` |
+| F89 | female dyads were independently primary under romantic scarcity | `STRENGTHEN / BROADEN INSTITUTIONALLY` | Ten-year friendship, editorial mentors, maternal memory, and women's athletic lineage make non-Saku relations developmental institutions, not side scenery. | `S065-F03` |
+| F90 | Asuka chose Tokyo while retaining Fukui and Saku | `STRENGTHEN / ETHICIZE` | Her first vocational failure teaches that conviction must not overwrite another's words; she honors local editing yet rejects using it as a proximity compromise. | `V065-02` |
+| F91 | Haru's future and romantic challenge remained open | `STRENGTHEN METHOD / PRESERVE OUTCOMES` | She rejects the false choice between sport and love, expands her play, and gains an elite route; university, career, and Saku's answer remain undecided. | `V065-04` |
+| F92 | Yuzuki and Yuko retained active but distinct post-refusal trajectories | `STRENGTHEN / SPECIFY` | Yuko restarts ordinary contact after accepting refusal; Yuzuki asks for a new shared experience and retains rivalry; neither act changes relationship state. | `V065-01` |
+| F93 | finite objects retrieved changed relation | `STRENGTHEN / FUTURE-ORIENT` | Souvenirs, a ten-year trip, unsent letters, a closing bookshop, a dedicated chair, and new sport skills create repeatable forward routes without guarantees. | `S065-F06-F07` |
+
+Their origin state is `ESTABLISHED_OR_REVISED_AT_V06_5_SUPPLEMENT`. Exact locators, rival readings, and hard limits remain in `CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md`. No numbered prospective freeze is rewritten.
+
+## Open V07 main test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| V07-Q01 | Does Saku directly name romantic love, select one girl, or establish a couple? | `OPEN` | reciprocal direct wording and enacted relationship state; prominence remains insufficient |
+| V07-Q02 | Does Yua's date/chair reciprocity become exclusive, ordinary, or contested? | `OPEN` | subsequent use, direct naming, boundaries, and other characters' access |
+| V07-Q03 | Does Saku originate a request for emotional or practical support? | `OPEN` | unprompted asking rather than prompted disclosure or accepting care |
+| V07-Q04 | Do Haru or Yuzuki enact a present romantic challenge? | `OPEN` | agent-authored request, scope, response, and effect on their partnership |
+| V07-Q05 | Does Asuka's editorial ethic alter how she listens, asks, or prepares to leave? | `OPEN` | changed conduct rather than aspiration language alone |
+| V07-Q06 | Does baseball become a continuing chosen path? | `OPEN` | repeated action with educational, institutional, or vocational stakes |
+| V07-Q07 | Does the repaired group develop ordinary continuity under explicit scarcity? | `OPEN` | routine interaction, conflict, inclusion, and distributed repair labor |
+| V07-Q08 | How does the second term reorganize locality, school structure, and future planning? | `OPEN` | enacted schedules, institutions, movement, and choices |

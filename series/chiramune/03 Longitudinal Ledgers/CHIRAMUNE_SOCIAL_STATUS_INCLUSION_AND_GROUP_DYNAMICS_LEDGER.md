@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.7
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -349,3 +349,45 @@ V06 replaces the binary of intact group versus destroyed group with a network mo
 - whether Yuko/Yua and Yuzuki/Haru dyads can disagree without group-wide crisis;
 - whether Kaito's, Kazuki's, and Kenta's corrective roles persist;
 - whether school, club, family, and class structures create new inclusion pressures.
+
+# V06.5 supplemental update — developmental institutions outside the full group
+
+## V06.5 entries
+
+| ID | Group event | Source fact | Structural reading | Locator |
+|---|---|---|---|---|
+| SG-068 | Yuko/Yuzuki/Nazuna Kanazawa trip | the three repair prior friction, exchange style and interpretation, and make a ten-year return pledge independent of future partners | a new female triad gains ordinary and future-bearing structure without Saku's presence or adjudication | `[V065:p-0011#p0085-p0143]`, `[V065:p-0017#p0110-p0201]` |
+| SG-069 | Yuko plans contact with Kaito | she decides on a distinct gift and conversation because she wants friendship after refusing him | male–female friendship can be actively rebuilt without romantic substitution or requiring the rejected man to make every next move | `[V065:p-0013#p0807-p0927]` |
+| SG-070 | Asuka enters Fukui's editorial ecology | father, `URALA`, Hirayama, and Suzuki each offer different support, correction, and models of work | vocational formation is distributed across family and professional institutions rather than supplied by Saku alone | `[V065:p-0021#p0039-p0141]`, `[V065:p-0023#p0090-p0154]`, `[V065:p-0023#p0231-p0359]` |
+| SG-071 | Yua's father meets Saku | the father recognizes Saku's influence, Yua rejects transferring family harm, and Saku refuses a false guarantee | family inclusion becomes possible through honest boundary-setting rather than paternal assignment of protective ownership | `[V065:p-0027#p0593-p0766]` |
+| SG-072 | Haru/Mai/alumni/Misaki practice | rivalry crosses schools and generations; former players transmit skill, team lineage, and a post-high-school horizon | women's basketball becomes an independent status and mentorship system whose authority exceeds romantic ranking | `[V065:p-0030#p0317-p0420]`, `[V065:p-0034#p0053-p0167]` |
+| SG-073 | Saku's chapter-specific position | he is absent from the girls' trip, voluntarily secondary during Asuka's vocational day, domestically reciprocal with Yua, and remotely catalytic for Haru | central romantic importance no longer implies organizational centrality; each network assigns him a different bounded role | `[V065:p-0011#p0032-p0071]`, `[V065:p-0023#p0443-p0498]`, `[V065:p-0027#p0950-p1033]`, `[V065:p-0032#p0025-p0052]` |
+
+## Group rule after V06.5
+
+The repaired collective now sits inside a larger ecology:
+
+1. independently primary female relations can add members and long futures of their own;
+2. family, workplace, shop, school, and club transmit correction that friendship alone cannot supply;
+3. romantic centrality does not grant Saku uniform status or authority across every setting;
+4. post-refusal friendship may be rebuilt by the refusing person without implying changed romantic answer;
+5. inclusion is strongest where boundaries and roles can be named rather than covered by politeness.
+
+## V06.5 revision state
+
+- component placement relative to repair → **RESOLVE**; all four stories follow the V06 festival.
+- full-group ordinary continuity → **KEEP OPEN**; the supplement emphasizes smaller networks rather than another full gathering.
+- female friendship and mentorship → **STRENGTHEN / BROADEN** through a new triad and professional/athletic lineages.
+- Yua as permanent mediator → **REJECT at this boundary**; she acts primarily as an interested participant in her own family and romance.
+- Kaito friendship repair → **STRENGTHEN as Yuko intention / KEEP enactment open**.
+- Saku as sole organizer → **DOWNGRADE further**; he is absent, secondary, reciprocal, or remotely catalytic depending on component.
+- school/club/family structures → **PROMOTE** as independent developmental authorities entering the next term.
+
+## V07 group watchlist
+
+- whether the full repaired group develops routine second-term continuity;
+- whether Yuko's intended Kaito contact is enacted and how both set boundaries;
+- whether Yua's new material place becomes exclusive, shared, or contested;
+- whether Yuko/Yuzuki/Nazuna and Haru/Mai relations persist beyond one outing;
+- how school-year, club, family, and future-planning institutions redistribute access and labor;
+- whether Saku can participate without returning to sole organizer or universal interpreter status.

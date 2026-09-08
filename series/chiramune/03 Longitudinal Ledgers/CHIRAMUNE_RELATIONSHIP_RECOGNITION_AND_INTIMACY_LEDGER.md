@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.7
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -527,3 +527,77 @@ The group moves from V05's enacted split to V06's enacted repair. Yua convenes t
 - whether Yuzuki makes a present bid and how the Haru partnership contains it;
 - whether Asuka and Saku can make mutually answerable requests under departure;
 - whether Kaito, Kazuki, Kenta, and other non-romantic ties sustain the repaired group.
+
+# V06.5 supplemental relationship update — differentiated futures without selection
+
+## Saku ↔ Yuko — ordinary contact restarts after an accepted refusal
+
+Yuko calls the summer romantic attempt complete because Saku actually refused her, not because her feeling disappeared. She chooses a humorous souvenir as a low-pressure route back, then deliberately replaces `bye-bye` with `see you in second term` during their sparse video conversation `[V065:p-0013#p0191-p0308]`, `[V065:p-0013#p0627-p0685]`, `[V065:p-0015#p0115-p0175]`.
+
+**Current state:** mutual gendered importance + Yuko's continuing love + accepted second refusal + ordinary contact restarting + no promise, couple, or exclusive claim.
+
+## Saku ↔ Yua — direct date, accountable continuity, and a dedicated chair
+
+Yua turns Saku's ordinary shopping invitation into an explicit date. He accepts the label, differentiates the market outing as something possible with her, and chooses her cooking while allowing her preferred menu `[V065:p-0025#p0090-p0179]`, `[V065:p-0027#p0022-p0136]`, `[V065:p-0027#p0140-p0167]`, `[V065:p-0027#p0323-p0335]`.
+
+Before her father, Saku refuses to promise never to hurt Yua and instead says he wants to keep facing her through the possibility of mutual injury. He later clarifies that his `大好き` refers to her food plus their shopping/table life; her answer intentionally carries the romantic sense his does not directly name `[V065:p-0027#p0700-p0766]`, `[V065:p-0027#p0802-p0836]`.
+
+The independently purchased `優空用` kitchen chair makes repeated future presence materially expected. Yua's uncertainty remains, and neither person names exclusivity, cohabitation, or romantic partnership `[V065:p-0027#p0950-p1033]`.
+
+**Current state:** chosen familylike intimacy + direct Yua date/first-place pursuit + Saku's recipient-specific material reciprocity and commitment to honest continued relation + no Saku romantic selection or couple.
+
+## Saku ↔ Yuzuki — a new-experience request inside active rivalry
+
+Yuzuki exposes a more visibly feminine register partly for Saku, then learns that Yuko shares a domestic memory she thought differentiated her. Rather than suppress the injury, she asks Saku to cook something he has never made `[V065:p-0011#p0397-p0427]`, `[V065:p-0013#p0787-p0805]`, `[V065:p-0015#p0078-p0113]`.
+
+**Current state:** reciprocal social recognition + explicit Yuzuki love + a direct, bounded novel-experience request + retained wish to become most fitting + no answer establishing couple or selection.
+
+## Saku ↔ Haru — returned words restore play without completing the challenge
+
+Mai initiates a call Haru does not request. Saku returns Haru's own demand that he smile, calls her his partner, and nearly says he likes/prefers her enjoying basketball. Haru treats the stumble as ambiguous, not confession, and converts the support into expanded play `[V065:p-0030#p0700-p0733]`, `[V065:p-0032#p0001-p0068]`, `[V065:p-0032#p0070-p0128]`.
+
+**Current state:** equal athletic-partner recognition + Haru's named love + reciprocal motivational language + integration of romance and sport + promised final romantic challenge still unmade and no couple.
+
+## Saku ↔ Asuka — vocation can temporarily displace romance while intimacy deepens
+
+Saku joins Asuka's editorial visit after she indirectly conveys the opportunity. He recognizes that her vocation absorbs her attention so completely that he nearly disappears from it, calls that focus beautiful, and gives her private space to disclose failure `[V065:p-0021#p0145-p0190]`, `[V065:p-0023#p0287-p0311]`, `[V065:p-0023#p0443-p0467]`.
+
+When Asuka asks why he came, Saku names his post-V06 emptiness and possible future contents. She tunes to the signal and offers `a new story`; their future-letter image preserves shared duration without a promise to stay or choose `[V065:p-0023#p0468-p0517]`.
+
+**Current state:** named Asuka love + high interpretive and vocational recognition + Saku's prompted self-disclosure + imagined future remembrance + no exclusive category or couple.
+
+## Yuko ↔ Yuzuki ↔ Nazuna — a friendship future outside romantic adjudication
+
+The three repair prior friction through apology, name exchange, clothing, food, humor, and disclosure. Yuko and Yuzuki retain explicit rivalry while all three promise to return to Kanazawa in ten years regardless of future partners `[V065:p-0011#p0085-p0143]`, `[V065:p-0017#p0110-p0201]`.
+
+**Current state:** independently primary female triad + mutual recognition and ordinary travel + explicit romantic difference + ten-year friendship horizon.
+
+## Yua ↔ family — protection becomes boundary-respecting recognition
+
+Yua's father publicly recognizes her change and tries to protect her through a guarantee from Saku. Yua stops him from transferring family harm, while the father accepts correction. Yua later reads his shaking hands as evidence of long-contained care rather than indifference `[V065:p-0027#p0661-p0746]`, `[V065:p-0027#p0802-p0827]`.
+
+**Current state:** repaired practical family life + paternal concern made visible + Yua authority over her own relationship + no outsourced protector role.
+
+## Haru ↔ Mai and Fujishi lineage — rivalry becomes a future-bearing athletic relation
+
+Haru and Mai deliberately practice across school rivalry, learn through former Fujishi players, and receive a possible shared university/elite path. Mai's curiosity about romance initially asks whether it could make her stronger; teasing Saku interest is not yet a stable bid `[V065:p-0030#p0154-p0208]`, `[V065:p-0034#p0111-p0167]`, `[V065:p-0036#p0007-p0037]`.
+
+**Current state:** active cross-school rival partnership + intergenerational women's athletic lineage + possible shared post-high-school field + no established Mai/Saku romance.
+
+## Relationship hypotheses after V06.5
+
+1. **Material reciprocity can outrun romantic naming.** Yua's chair and accountable-continuity language are major gains without couple state.
+2. **Accepted refusal can support new ordinary relation.** Yuko neither denies the no nor erases her love.
+3. **Differentiation is not selection.** New food, market domesticity, editorial recognition, and athletic-return language show distinct access without ranking one relation as final.
+4. **Female relations carry independent futures and institutions.** Travel, mentorship, family memory, and athletic lineage are not support scenery for Saku.
+5. **Future form remains provisional.** Ten-year promises, letters, chairs, and elite paths provide continuity media rather than guaranteed outcomes.
+
+# V07 relationship watchlist
+
+- direct reciprocal evidence only for any selected beloved or couple;
+- whether the Yua chair becomes ordinary, exclusive, shared, or contested in use;
+- whether Yuko/Saku and Yuko/Kaito contact are enacted after their separate refusals;
+- whether Haru makes the promised final challenge and whether Yuzuki answers through their partnership norms;
+- whether Asuka turns indirect invitation into an answerable request before departure;
+- whether Saku originates support-seeking rather than only receiving or answering it;
+- whether second-term group continuity preserves differentiated dyads without restoring the old equilibrium.

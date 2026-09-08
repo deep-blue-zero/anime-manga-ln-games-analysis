@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUKO_HIIRAGI_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.3
+scope: YUKO_HIIRAGI_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuko Hiiragi — V01–V06 character monograph
+# Yuko Hiiragi — V01–V06.5 character monograph
 
 ## Scope and promotion basis
 
@@ -285,3 +285,36 @@ The ordinary epilogue reframes her desired specialness as ordinary naming, walki
 - whether Yua, Yuzuki, and Haru friendship carries direct disagreement safely;
 - whether Kaito friendship remains viable after mutual refusal knowledge;
 - whether her wish to become Saku's ordinary is enacted without self-abandonment.
+
+# V06.5 supplemental longitudinal revision
+
+## Refusal ends one attempt without falsifying continued love
+
+Yuko voluntarily tells Yuzuki and Nazuna what happened. She owns the public confession, rejects regret, and distinguishes outcome from feeling: that summer's romantic attempt ended because Saku actually refused it, but she continues to think of him `[V065:p-0013#p0142-p0231]`.
+
+She also names the unresolved injury that only she has been refused and another girl's request might receive a different answer `[V065:p-0013#p0247-p0308]`. Acceptance is therefore not painless closure or proof that she has moved on.
+
+## She originates two low-pressure reconnections
+
+Yuko chooses one souvenir as a joking route back into ordinary conversation with Saku and a distinct parallel gift as a reason to contact Kaito because she wants their friendship `[V065:p-0013#p0627-p0685]`, `[V065:p-0013#p0807-p0927]`.
+
+The group video call does not reverse Saku's refusal. Sparse conversation becomes Yuko's renewed decision to love, and she replaces the prior `bye-bye` with `see you in second term` `[V065:p-0015#p0115-p0175]`, `[V065:p-0017#p0001-p0033]`. This is changed continuity, not restored moratorium.
+
+## Travel friendship acquires a nonromantic future horizon
+
+Yuko, Yuzuki, and Nazuna promise a return to Kanazawa in ten years regardless of future partners `[V065:p-0017#p0110-p0201]`. Their shared clothing, food, apology, humor, and name exchange make the trip an independently primary female relation rather than recovery organized only around Saku.
+
+Yuzuki's refusal-symmetry reasoning helps Yuko approach Kaito, but Yuko owns the choice. Continuing friendship does not revoke either Kaito's confession or her refusal.
+
+## Post-V06.5 current model
+
+> **Yuko's V06.5 achievement is to let an actual refusal end one romantic attempt without treating it as the end of love, ordinary contact, or friendship. She owns the pain and fear that another girl might receive a different answer, then originates low-pressure reconnection with both Saku and Kaito. Her Kanazawa bond with Yuzuki and Nazuna gains an explicit future independent of romantic outcomes. Nothing reverses Saku's refusal or establishes a couple.**
+
+## V07 watchlist
+
+- whether ordinary contact with Saku stays compatible with the completed refusal rather than recreating a veto;
+- whether Kaito friendship continues without either person treating care as romantic debt;
+- whether Yuko can seek private support before a public or crisis climax;
+- whether the ten-year female friendship horizon survives divergent partners and destinations;
+- whether continued love remains self-authored without becoming proof of insufficiency;
+- direct reciprocal evidence only before any couple claim.

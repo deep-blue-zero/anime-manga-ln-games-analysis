@@ -2,14 +2,14 @@
 series: CHIRAMUNE
 artifact_type: character_analysis_router
 scope: CHARACTER_ANALYSIS
-generation: V0.8
+generation: V0.9
 status: canonical
 release_state: mutable_active
 ---
 
 # Chiramune character-analysis router
 
-V01–V06 main, the integrated V03 booklet, and the integrated V05 special-edition booklet currently justify six active-provisional cumulative monographs:
+V01–V06 main, the integrated V03 booklet, the integrated V05 special-edition booklet, and the integrated V06.5 supplemental volume currently justify six active-provisional cumulative monographs:
 
 - `Saku Chitose/CHIRAMUNE_SAKU_CHARACTER_MONOGRAPH.md`;
 - `Yuzuki Nanase/CHIRAMUNE_YUZUKI_CHARACTER_MONOGRAPH.md`;
@@ -18,7 +18,7 @@ V01–V06 main, the integrated V03 booklet, and the integrated V05 special-editi
 - `Yuko Hiiragi/CHIRAMUNE_YUKO_CHARACTER_MONOGRAPH.md`.
 - `Yua Uchida/CHIRAMUNE_YUA_CHARACTER_MONOGRAPH.md`.
 
-Saku's cumulative monograph preserves the complete V01 baseline and appends explicit V02, V03-main, V03-booklet, V04, V05-main, V05-special, and V06 revisions. Yuzuki's monograph is promoted at V02 because direct focalization, retrospective self-account, ordinary-life evidence, relationship contrast, crisis behavior, and counterevidence together cross the independent-model threshold; later boundaries add explicit revisions. Asuka's monograph is promoted at V03 through focalization, childhood formation, ordinary-life demystification, family conflict, researched vocation, directional love, and significant ethical counterevidence. Haru's monograph is promoted at V04 through focalization, athletic formation, leadership failure and revision, ordinary life, direct love, two independently important relationships, embodied risk, and counterevidence. Yuko crosses the threshold at V05 through direct focalization, origin history, status-power analysis, independent friendship and family evidence, direct choice, refusal response, and rival readings. Yua crosses it at V05 through long-duration domestic history, direct refusal, independent expertise, music, friendship, explicit priority, non-extractive care, and careful abstention about romantic interiority. The V05 special-edition booklet revises all six models through bounded earlier-insertion evidence. V06 advances all six without adding a seventh monograph: Saku discloses plural attachment, Yua and Yuko gain extended focalized histories and repair, and Yuzuki, Haru, and Asuka retain distinct unresolved trajectories.
+Saku's cumulative monograph preserves the complete V01 baseline and appends explicit V02, V03-main, V03-booklet, V04, V05-main, V05-special, V06, and V06.5 revisions. Yuzuki's monograph is promoted at V02 because direct focalization, retrospective self-account, ordinary-life evidence, relationship contrast, crisis behavior, and counterevidence together cross the independent-model threshold; later boundaries add explicit revisions. Asuka's monograph is promoted at V03 through focalization, childhood formation, ordinary-life demystification, family conflict, researched vocation, directional love, and significant ethical counterevidence. Haru's monograph is promoted at V04 through focalization, athletic formation, leadership failure and revision, ordinary life, direct love, two independently important relationships, embodied risk, and counterevidence. Yuko crosses the threshold at V05 through direct focalization, origin history, status-power analysis, independent friendship and family evidence, direct choice, refusal response, and rival readings. Yua crosses it at V05 through long-duration domestic history, direct refusal, independent expertise, music, friendship, explicit priority, non-extractive care, and careful abstention about romantic interiority. The V05 special-edition booklet revises all six models through bounded earlier-insertion evidence. V06 advances all six without adding a seventh monograph. V06.5 then gives each one separately focalized or directly witnessed development—vocational correction, female friendship futures, integrated athletic practice, renewed ordinary contact, and differentiated material reciprocity—without earning a seventh monograph or a couple claim.
 
 Do not create another monograph or character subdirectory merely because a cast member appears in the source.
 

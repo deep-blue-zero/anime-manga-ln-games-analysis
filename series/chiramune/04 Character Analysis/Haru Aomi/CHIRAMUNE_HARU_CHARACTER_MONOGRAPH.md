@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: HARU_AOMI_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.4
+scope: HARU_AOMI_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Haru Aomi — V01–V06 character monograph
+# Haru Aomi — V01–V06.5 character monograph
 
 ## Scope and promotion basis
 
@@ -329,3 +329,42 @@ Her private aside—this is the only way she can be beside him—shows the cost.
 - whether teammate care becomes ordinary reciprocal dependence rather than crisis intervention;
 - whether safety, workload, and dissent become transparent team practices;
 - whether baseball with Saku remains chosen pleasure rather than proof.
+
+# V06.5 supplemental longitudinal revision
+
+## Elite practice makes the feared tradeoff concrete
+
+Former Fujishi players and Ashiba ace Mai Todo show Haru an athletic path whose hours, fundamentals, and life-course demands exceed her current frame. Haru can now name the fear: basketball may take her away from Saku, while attraction has already taken attention once reserved for basketball `[V065:p-0030#p0091-p0127]`, `[V065:p-0030#p0211-p0313]`.
+
+This does not prove romance caused her poor first half or that elite sport requires emotional purity. It makes two valued futures simultaneously costly.
+
+## The call is useful support but not Haru-originated dependence
+
+Mai uses Haru's phone to call Saku. Haru explicitly fears dependence and does not initiate the request. Saku returns her V06 injunction to smile, calls her his partner, and nearly says he likes or prefers her enjoying basketball; Haru preserves the verbal ambiguity rather than convert it into a confession `[V065:p-0030#p0700-p0733]`, `[V065:p-0032#p0001-p0068]`.
+
+The contact matters, but it neither completes Haru's promised challenge nor establishes Saku's romantic reciprocity.
+
+## She converts relational heat into expanded basketball rather than divided effort
+
+Haru rejects the alumni's insult to the summer she and Saku created, then uses prior practice and live observation to widen her game through passing, off-hand technique, reading, and a secretly trained three-point shot `[V065:p-0032#p0070-p0128]`, `[V065:p-0032#p0181-p0436]`, `[V065:p-0034#p0001-p0049]`.
+
+The final shot addresses basketball and `ダーリン` as two current one-sided loves. Divided attachment does not require half-hearted practice; neither does intensity make Saku her partner in romance.
+
+## Women's athletic lineage opens a future without selecting it
+
+The hostile surface of the alumni game is revealed as a Coach Misaki-arranged intervention. Aki, Kei, the alumni, Mai, and Misaki transmit correction and invite Haru to imagine university, corporate-league, or even Olympic continuation `[V065:p-0034#p0053-p0167]`.
+
+Misaki refuses the forced choice: Haru should carry romance, friendship, success, failure, conflict, and regret into the shot `[V065:p-0034#p0180-p0260]`. This is a serious option and an intergenerational institution, not a decided career.
+
+## Post-V06.5 current model
+
+> **Haru's V06.5 advance is integration rather than romantic or athletic resolution. Faced with elite demands and a poor performance, she rejects the claim that first love must be purified away for basketball. Saku's encouragement is an effective, Mai-initiated catalyst; Haru's recovery depends on her own preparation, adaptation, and a women's athletic lineage. She broadens both her game and possible future, but the promised romantic challenge, Saku's answer, and her life-course choice all remain open.**
+
+## V07 watchlist
+
+- whether Haru enacts the promised challenge without turning relation into a score;
+- whether she can originate an ordinary support request without treating dependence as failure;
+- whether the elite path is investigated through sustainable workload, education, and consent;
+- whether expanded passing and shooting persist beyond one intervention game;
+- whether Yuzuki partnership and the wider women's basketball network retain independent priority;
+- direct reciprocal evidence only before any romantic-selection claim.

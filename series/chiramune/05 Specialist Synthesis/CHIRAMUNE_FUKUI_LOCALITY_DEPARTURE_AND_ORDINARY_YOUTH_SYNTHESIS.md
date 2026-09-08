@@ -1,10 +1,11 @@
 ---
 series: CHIRAMUNE
 artifact_type: specialist_synthesis
-scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
 latest_analyzed_main: V06
-generation: V0.3
+latest_analyzed_supplemental: V06_5_FOUR_STORY_VOLUME
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -12,7 +13,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Fukui locality, departure, and ordinary youth — synthesis through V06
+# Fukui locality, departure, and ordinary youth — synthesis through V06.5
 
 ## Responsibility and promotion decision
 
@@ -167,7 +168,7 @@ Fields, roads, mountains, courts, and running routes store bodily knowledge. Loc
 - Asuka's researched departure does not guarantee occupational success or permanent independence.
 - Saku's love of local life does not authorize him to ask Asuka to stay, but respect for her choice does not prove he lacks standing to make any request.
 - Photographs and keepsakes preserve evidence of a prior day; they do not preserve the social configuration itself.
-- Advertising and creator commentary do not establish diegetic locality, and every V06+ source remains outside this specialist boundary.
+- Advertising and creator commentary do not establish diegetic locality; V06.5 afterword evidence is bounded to production context, and every V07+ source remains outside this specialist boundary.
 
 ## XII. Current specialist model
 
@@ -275,3 +276,48 @@ V06 does not yet provide a practical Tokyo transition, so housing, transport, an
 - whether Saku's park baseball becomes durable local practice;
 - whether homes become sites of reciprocal request rather than gendered silent maintenance;
 - whether new places supply independent developmental infrastructure sufficient for a second specialist route.
+
+## XX. V06.5 update — regional institutions, near-away travel, and selectable futures
+
+### Kanazawa makes distance comparative rather than binary
+
+Yuko, Yuzuki, and Nazuna travel to Kanazawa after the V06 festival. The trip is far enough to permit clothing experimentation, disclosure, gifts, and a future return promise, yet close enough to remain connected to Fukui's late-summer ordinary life `[V065:p-0011#p0085-p0143]`, `[V065:p-0017#p0110-p0201]`.
+
+Kanazawa therefore functions as a nearby urban difference rather than a Tokyo/Fukui moral opposite. Their ten-year promise also gives regional movement an independent female-friendship horizon regardless of future partners.
+
+### A plural local publishing ecology strengthens rather than defeats departure
+
+`URALA` and `HOSHIDO` present two materially different Fukui editorial practices. The magazine office teaches that fluent preparation may overwrite an interviewee and that silence is part of listening; the bookshop/publisher frames editing as care for another person's expression and preservation of a life trace `[V065:p-0021#p0720-p0831]`, `[V065:p-0023#p0231-p0359]`.
+
+These are credible local vocations, not decorative approximations. Their authenticity makes Asuka's decision sharper: choosing one principally to remain near Saku would be her compromise, so she retains Tokyo while taking the local correction with her `[V065:p-0023#p0413-p0440]`. Fukui can also remain a non-catastrophic place of return without becoming an order to stay.
+
+### Wholesale food infrastructure materializes domestic romance and labor
+
+Yua and Saku's date passes through Fukui's fresh-food market, household budgeting, bulk ingredients, kitchen work, and a warehouse confectionery. Local economic infrastructure makes their intimacy practical: shared money decisions, preference knowledge, preparation, and cleanup rather than scenery alone `[V065:p-0027#p0022-p0186]`, `[V065:p-0027#p0323-p0335]`, `[V065:p-0027#p0909-p0936]`.
+
+The `優空用` stool answers a bodily cost inside that practice by anticipating repeated use `[V065:p-0027#p0950-p1033]`. It is material reciprocity, not proof that domestic labor belongs to Yua or that the home has become an exclusive romantic territory.
+
+### Fujishi's gym contains an intergenerational women's athletic route
+
+Haru's alumni game turns the school gym into a lineage: Aki, Kei, other former players, Mai, Coach Misaki, and Haru transmit standards, correction, and possible futures. University, corporate-league, and Olympic continuation become imaginable through women who have already carried different parts of the route `[V065:p-0034#p0053-p0167]`.
+
+The institution is neither destiny nor a simple trap. Ashiba's disciplined alternative has costs; the Fujishi network opens options without deciding Haru's life. Local athletic inheritance can enable departure into a wider circuit while remaining a place of return and correction.
+
+### Production paratext confirms research contact but not diegetic fact
+
+The afterword identifies real `URALA` and `HOSHIDO` interviews as inputs while stating that most story material was fictionally reconstructed. It also frames Fukui collaborations as locally initiated rather than quid-pro-quo location insertion `[V065:p-0037#p0011-p0029]`.
+
+This supports a bounded production history only. The in-story organizations and speeches remain fiction evidence; the afterword cannot establish character motive, exact institutional procedure, or regional essence.
+
+## XXI. Current specialist model after V06.5
+
+> **Through V06.5, locality is a plural field of practices and routes rather than a single home/away axis. Kanazawa offers near-away experimentation and a female future horizon; Fukui publishing institutions correct Asuka while making her Tokyo departure more deliberately chosen; markets and kitchens expose the labor inside Yua's desired ordinary future; and the Fujishi gym carries a women's athletic lineage that can lead beyond Fukui. Place matters by making choices, skills, returns, and departures materially possible. It neither guarantees belonging nor preselects a life.**
+
+## XXII. V07 research questions
+
+- whether Asuka's departure acquires concrete housing, transport, editorial, and communication consequences;
+- whether Kanazawa or other cities receive continuing independent social and economic specificity;
+- whether domestic reciprocity redistributes labor instead of merely thanking its maintainer;
+- whether Haru's local athletic lineage becomes a sustainable education or career route;
+- whether Saku selects any durable practice from baseball, study, local relation, or a new field;
+- whether return remains a chosen reconstruction rather than a narrative reset.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.8
+scope: SAKU_CHITOSE_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Saku Chitose — V01–V06 character monograph
+# Saku Chitose — V01–V06.5 character monograph
 
 ## Scope and authority
 
@@ -864,4 +864,35 @@ The scene strengthens voluntary baseball without selecting it as a future or res
 - whether he responds to Haru's promised challenge and Yuzuki's bids without delay-as-default;
 - whether he can make a bounded request of Asuka under departure;
 - whether baseball develops into sustained safe practice or remains episodic relief;
+- direct reciprocal evidence only before any couple or singular-beloved claim.
+
+# V06.5 supplemental longitudinal revision
+
+## He can name uncertainty when another person opens the space
+
+Asked why he joined Asuka's editorial visits, Saku describes a post-festival blank: baseball, study, love and friendship, or a new story might fill it, but he does not yet know which `[V065:p-0023#p0468-p0498]`. This is unusually direct disclosure of disorientation. It remains elicited by Asuka rather than a self-originated request for help.
+
+## His strongest new reciprocity is practical and recipient-specific
+
+Saku accepts Yua's explicit date framing, says their market-and-cooking outing is possible only with her, and chooses her cooking over a popular restaurant `[V065:p-0027#p0022-p0186]`. When her father asks him not to hurt her, Saku refuses an impossible guarantee and instead says he wants to keep facing Yua honestly through possible mutual hurt `[V065:p-0027#p0721-p0746]`.
+
+He has also independently noticed that Yua stands through long food preparation, purchased an antique kitchen stool, names it `優空用`, and asks her to use it ordinarily `[V065:p-0027#p0950-p1033]`. This is a substantial gain in anticipatory care and repeated-presence recognition. It is not romantic selection, cohabitation, permanence, or exclusive domestic ownership.
+
+## He preserves other relations without answering them romantically
+
+Saku receives Yuko's renewed ordinary call without reversing his refusal; agrees to Yuzuki's request for a dish he has never made; leaves the room so Asuka can disclose vocational failure on her own terms; and returns Haru's V06 encouragement after Mai—not Haru—initiates the call `[V065:p-0015#p0078-p0175]`, `[V065:p-0023#p0287-p0311]`, `[V065:p-0030#p0700-p0733]`.
+
+His near-verbal stumble about liking Haru when she enjoys basketball remains intentionally ambiguous, and baseball appears only as one possible future among several. No scene names a singular beloved or establishes a couple.
+
+## Post-V06.5 current model
+
+> **Saku's V06.5 development lies in concrete relational participation: he accepts differentiated bids, gives Asuka space rather than interpretation, tells Yua's father that honest continued relation includes possible hurt, and creates a durable kitchen place in response to Yua's repeated labor. He can now describe his own emptiness when asked, but still does not originate a support request or make a romantic selection. Yua receives the strongest new material reciprocity; that asymmetry is consequential without becoming exclusivity, a promise, or couple status.**
+
+## V07 watchlist
+
+- whether Saku originates a support request rather than answering another person's opening;
+- whether the dedicated chair becomes sustained reciprocal maintenance rather than a single symbolic gift;
+- whether differentiated ordinary bids produce romantic naming or remain plural relation;
+- whether ordinary contact with Yuko develops without restoring the suspended-confession moratorium;
+- whether baseball, study, or another practice becomes a chosen durable path;
 - direct reciprocal evidence only before any couple or singular-beloved claim.

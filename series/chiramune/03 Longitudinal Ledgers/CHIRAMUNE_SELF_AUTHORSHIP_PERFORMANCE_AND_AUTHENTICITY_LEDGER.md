@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.8
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
+generation: V0.9
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -323,3 +323,36 @@ V06 rejects the demand that an authentic account present one clean motive. Yuko'
 - Haru's teammate identity → **PRESERVE + EXPOSE LIMIT**; it enables real care while constraining romantic speech.
 - directness as purity → **REJECT again**; direct confession may carry mixed motive, and indirect care may remain fully chosen.
 - couple/selection state → **KEEP OPEN**; plural importance and future process do not identify one beloved.
+
+# V06.5 supplemental update — authored next forms without purified identity
+
+## V06.5 governing revision
+
+Each focalizer chooses a next form that remains partly unsettled: Yuzuki exposes a protected feminine register without abandoning athletic selfhood; Yuko accepts refusal without erasing love; Asuka accepts correction without surrendering Tokyo; Yua names desire without disowning domestic care; Haru expands sport by carrying romance into it. Authenticity is neither fixed essence nor freedom from relational influence. It is revision that retains answerability and choice.
+
+## V06.5 entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-084 | Yuzuki / visible femininity | she identifies boyish clothing as defense and chooses a more feminine presentation with Yuko's help because she wants Saku to see it | a protected register can become voluntarily available without being the hidden `real` self | the choice is recipient-conditioned and carries a conquest frame; it is not uncomplicated liberation | `[V065:p-0011#p0397-p0427]`, `[V065:p-0013#p0001-p0012]` |
+| SA-085 | Yuko / post-refusal love | she calls the summer attempt complete because Saku refused, rejects regret, and chooses continued feeling plus renewed contact | honoring another's no does not require rewriting one's own love as false | she still fears being uniquely rejected and receives no romantic promise | `[V065:p-0013#p0191-p0308]`, `[V065:p-0015#p0115-p0175]` |
+| SA-086 | Asuka / first vocational failure | she recognizes that fluent preparation overwrote an interview subject, accepts the ethics of silence, and retains her editor ambition | authored conviction becomes more ethical by learning to wait for another person's words | later practice has not yet tested the revision | `[V065:p-0021#p0720-p0831]`, `[V065:p-0023#p0090-p0116]` |
+| SA-087 | Asuka / Tokyo and local editing | she honors Fukui editors yet rejects choosing their path merely to remain near Saku | the same option can be authentic for one person and self-abandoning compromise for another; motive and ownership matter | Tokyo remains aspiration rather than achieved vocation | `[V065:p-0023#p0413-p0440]` |
+| SA-088 | Saku / post-V06 blank | he says he does not know whether baseball, study, love/friendship, or a new story should fill the cleared space | honest uncertainty replaces the need to narrate an already coherent next identity | Asuka asks the question; this is not unprompted help-seeking or a decision | `[V065:p-0023#p0468-p0498]` |
+| SA-089 | Yua / date and first place | she refuses to let shopping remain automatically ordinary, directly requests a date, and resolves to seek special/first place | domestic competence and romantic desire can coexist once usefulness stops exhausting her permitted role | her fantasies and internal `ただいま` remain one-sided; no couple forms | `[V065:p-0025#p0135-p0179]`, `[V065:p-0027#p0997-p1047]` |
+| SA-090 | Saku / Yua's chair | he independently translates gratitude and observation into a kitchen object meant for Yua's repeated ordinary use | recipient-specific practical care can revise the heroic preference for spectacular intervention | durable place is not exclusive ownership, cohabitation, or romantic naming | `[V065:p-0027#p0950-p1033]` |
+| SA-091 | Haru / two beloveds | she stops treating romance as contamination, incorporates new basketball skills, and addresses both basketball and Saku in one shot | plurality can intensify a practice when feeling is converted into learning rather than purified away | Saku remains a strong catalyst; career and romantic outcomes stay open | `[V065:p-0032#p0070-p0128]`, `[V065:p-0034#p0001-p0049]` |
+
+## Authenticity rule after V06.5
+
+> **A next self can be relationally inspired without being externally authored. The controlling questions are whether the person retains choice, accepts correction, names cost, and converts attachment into revisable practice rather than treating presentation, usefulness, purity, or proximity as destiny.**
+
+## V06.5 revision state
+
+- visible femininity as hidden essence → **REJECT**; Yuzuki adds a chosen register under real social and romantic pressure.
+- refusal as required emotional erasure → **REJECT**; Yuko honors the answer while retaining authored feeling.
+- vocational conviction as certainty → **REVISE**; Asuka's ambition becomes answerable to another person's words.
+- useful domestic role as Yua's sufficient identity → **REJECT more strongly** through direct date and first-place claims.
+- romantic distraction as athletic impurity → **REJECT**; Haru integrates plural life into expanding skill.
+- Saku's coherent heroic future → **OPEN**; he can name a blank without yet asking for help or choosing its content.
+- couple/selection state → **KEEP OPEN**; differentiated authored bids do not supply reciprocal romantic naming.

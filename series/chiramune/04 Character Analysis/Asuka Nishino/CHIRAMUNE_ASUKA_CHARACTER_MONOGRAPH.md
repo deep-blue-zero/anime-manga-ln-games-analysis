@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.5
+scope: ASUKA_NISHINO_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Asuka Nishino — V01–V06 character monograph
+# Asuka Nishino — V01–V06.5 character monograph
 
 ## Scope and promotion basis
 
@@ -331,4 +331,39 @@ This repeats the same withholding problem she identifies in Saku. Her recognitio
 - whether anticipated departure becomes practical change in access, housing, or communication;
 - whether she can receive ordinary care without failed-independence shame;
 - whether grandmother/family relations continue as an independent support system;
+- direct reciprocal evidence only before any selection or couple claim.
+
+# V06.5 supplemental longitudinal revision
+
+## Her first vocational failure corrects fluency into listening
+
+In a practice interview at `URALA`, Asuka's preparation and verbal confidence overwrite the interviewee: she fills silence with proposed answers until the other person can only assent. The editor identifies the ethical error—Asuka has made another person speak Asuka's words—and teaches that silence is time in which the speaker searches the self `[V065:p-0021#p0720-p0831]`.
+
+This is the first failure inside the vocation on which Asuka has staked her authored future. It does not disprove aptitude. It exposes a transferable danger already present in her relational role: accurate-seeming interpretation can seize another person's expression.
+
+## Local editorial authority revises method without choosing her destination
+
+Hirayama admits that nostalgia once caused her to overwrite a changed bakery and treats continuing dissatisfaction as editorial fuel `[V065:p-0023#p0090-p0154]`. At `HOSHIDO`, Suzuki frames editing as care for another person's expression and preservation of a lived trace `[V065:p-0023#p0231-p0285]`.
+
+These local practices are credible alternatives, not provincial foils. Asuka nevertheless retains Tokyo because choosing a nearby approximation principally to remain near Saku would be her compromise `[V065:p-0023#p0413-p0440]`. Correction changes how she will pursue the choice, not who owns it.
+
+## She discloses failure in space Saku deliberately leaves
+
+When Asuka wants to confess the `URALA` mistake to Suzuki, Saku notices and exits rather than interpret or rescue. The resulting disclosure is Asuka-originated `[V065:p-0023#p0287-p0311]`. Later she asks why Saku came, and his answer about post-V06 emptiness creates reciprocal access; his disclosure is still prompted rather than a self-originated request `[V065:p-0023#p0468-p0517]`.
+
+## Family repair and future relation remain non-possessive
+
+Asuka's father supplies clumsy handmade food, shares his own dreams, arranges the visit, and explicitly supports her Tokyo plan `[V065:p-0021#p0039-p0141]`. Their repair becomes practical support without transfer of decision authority. Asuka and Saku's half-step of nearness and wish that their story continue sustain intimacy while preserving departure and non-selection.
+
+## Post-V06.5 current model
+
+> **Asuka's V06.5 development is vocationally corrective. Her first editorial failure reveals that interpretive fluency can overwrite the person it means to understand; local women editors teach her to pair conviction with silence, patience, and dissatisfaction. She accepts correction without surrendering Tokyo and receives practical support from her father without giving him decision authority. Saku makes room for her disclosure and answers her question about his emptiness, but neither the shared editorial day nor future-facing story language establishes a couple or romantic selection.**
+
+## V07 watchlist
+
+- whether listening changes Asuka's conduct with Saku as well as her editorial practice;
+- whether she can ask Saku directly for finite company rather than rely on volunteered inference;
+- whether Tokyo preparation produces concrete housing, transport, work, or communication choices;
+- whether family support remains practical without becoming destination control;
+- whether local and metropolitan editorial practices receive continuing, nonbinary comparison;
 - direct reciprocal evidence only before any selection or couple claim.

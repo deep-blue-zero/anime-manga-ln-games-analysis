@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V0.6
+generation: V0.7
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -92,7 +92,19 @@ The locked Volume 06 witness was independently reverified at SHA-256 `f9bfe6dfd7
 
 Its complete narrative—prologue, Chapters 5–8, and two epilogues—was extracted and read. The continuation of chapter numbering makes it narratively coupled to V05 while preserving a distinct source and freeze boundary. Ten interior narrative illustrations, frontmatter, afterword, author profile, colophon, and advertising backmatter were classified; no embedded bonus fiction was found.
 
-The extraction produced 7,616 locator rows and 7,716 reading lines. The locator TSV SHA-256 is `d1fa9c512de0fe4b25d1efe71e66a85453df6f1537ab084102d4a8cd4b57de63`. The V06 main reading and prospective freeze are complete. The next safe source is the separately locked Volume 06.5 object, which requires component and diegetic-placement classification before integration.
+The extraction produced 7,616 locator rows and 7,716 reading lines. The locator TSV SHA-256 is `d1fa9c512de0fe4b25d1efe71e66a85453df6f1537ab084102d4a8cd4b57de63`. The V06 main reading and prospective freeze are complete. Volume 06.5 was subsequently integrated through its own supplemental checkpoint without rewriting this main boundary.
+
+### Volume 06.5 analysis disposition
+
+The locked Volume 06.5 witness was independently reverified at SHA-256 `ab19b4561ad8486b95ba0bfdb489c2003736bcb8c3bcdade36bb9d1a3718b921`. OPF metadata identifies `千歳くんはラムネ瓶のなか　6.5`, 裕夢, 株式会社小学館, Japanese, publication date 2022-03-23, and modification timestamp `2022-08-19T08:39:55Z`.
+
+The volume contains four separately focalized stories, all securely placed after the V06 festival and before second term. They are integrated as `SUPPLEMENTAL_MAINLINE` components. Editorial contents order is preserved, but no exact total cross-story calendar is asserted because the stories do not supply sufficient mutual reference.
+
+The whole-object extraction produced 5,342 non-empty text/image locator rows and 5,440 reading lines. The locator TSV SHA-256 is `0f016c2f6bea54e497327622d4ed0c0e590ab535349ef88377d4d0dc24918986`; the reading projection SHA-256 is `a41cdc60e93413b7629eafdd4258f55db19b6dcdd093156403e759a5cc4de623`. Six frontmatter images, four story-title images, eleven unique narrative scene illustrations, the afterword, author profile, colophon, and ten advertising images were inspected and bounded by role. The repeating `叶` ornament is not counted as three narrative scenes.
+
+The afterword identifies real `URALA` and `HOSHIDO` interviews as production inputs while stating that most story material was fictionally reconstructed. It also describes local collaboration as locally initiated rather than quid-pro-quo placement. These statements are retained as production context only and do not override diegetic evidence.
+
+The complete disposition and frozen supplemental checkpoint are in `../02 Sequential Readings/CHIRAMUNE_V06_5_SUPPLEMENTAL_READING.md`. The next safe source is the exact locked Volume 07 main witness.
 
 ### Volume 04 analysis disposition
 
@@ -106,7 +118,7 @@ Its colophon dates publication to 2020-04-17 and identifies 裕夢 as author, ra
 
 ### Half-volumes and side stories
 
-Volume 06.5, *Days of Endless Summer*, and Volume 09.5 require publication/diegetic classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
+Volume 06.5 is integrated through its four-component late-August checkpoint while preserving the V06 main freeze. *Days of Endless Summer* and Volume 09.5 still require publication/diegetic classification before longitudinal integration. Their existence does not authorize retroactive leakage into earlier prospective reading states.
 
 ## Completeness claim and limit
 

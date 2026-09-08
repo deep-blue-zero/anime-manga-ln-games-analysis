@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.7
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 integrated; V07+ unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -362,3 +362,40 @@ V06 adds **burden jurisdiction** to the ledger:
 - Yua intervention authority → **STRENGTHEN / QUALIFY**; she architects repair while openly implicated in the romantic field.
 - Kaito delegated sacrifice → **REVISE METHOD / PRESERVE WRONG** through direct confession and accepted refusal.
 - group repair → **ESTABLISH as enacted** without treating positive outcome as blanket validation of every confrontational tactic.
+
+# V06.5 supplemental update — requests, silence, and impossible guarantees
+
+## V06.5 entries
+
+| ID | Intervention | Agency / authority question | V06.5 assessment | Locator |
+|---|---|---|---|---|
+| AI-089 | Yuzuki asks for an unprecedented meal | can a romantic participant request differentiated future time without demanding status? | yes; the concrete cooking request is answerable and bounded, while its acceptance would not itself create a couple | `[V065:p-0015#p0078-p0113]` |
+| AI-090 | Yuko plans separate souvenirs for Saku and Kaito | can post-refusal relation restart from the rejected person's own initiative? | yes; she chooses low-pressure contact with Saku and decides to approach Kaito because she values friendship, not because either man earns romantic return | `[V065:p-0013#p0627-p0685]`, `[V065:p-0013#p0807-p0927]` |
+| AI-091 | Asuka indirectly invites Saku | does conveying an opening while waiting for him to volunteer preserve enough answer authority? | it preserves his choice but unnecessarily hides hers; Asuka herself recognizes that a direct invitation would have been legitimate | `[V065:p-0021#p0145-p0190]` |
+| AI-092 | `URALA` corrects Asuka's interview | may preparation fill another person's silence with a plausible answer? | no; silence belongs to the interviewee's search, and expertise becomes coercive when it supplies the words the other can only affirm | `[V065:p-0021#p0720-p0831]` |
+| AI-093 | Saku leaves Asuka alone with Suzuki | can support consist of relinquishing access? | strong targeted space-giving: he recognizes her wish to disclose and removes his audience without demanding content | `[V065:p-0023#p0287-p0311]` |
+| AI-094 | Yua directly asks for a date | can ordinary domestic practice be renegotiated without cancelling it? | yes; she names the desired frame, Saku accepts it, and both retain ordinary choices inside the outing | `[V065:p-0025#p0090-p0179]`, `[V065:p-0027#p0022-p0136]` |
+| AI-095 | Yua's father asks Saku not to hurt her | can a family transfer past harm into a future guarantee from a partner? | no; Yua rejects the transfer and Saku truthfully refuses an impossible promise while offering accountable continued relation | `[V065:p-0027#p0700-p0746]` |
+| AI-096 | Saku buys Yua a kitchen chair | can unrequested care reciprocate recurring labor without appropriating it? | yes in this scene: he observes bodily cost, chooses a practical object, and asks ordinary use; the act grants place but not ownership over Yua or her future | `[V065:p-0027#p0950-p1033]` |
+| AI-097 | Mai calls Saku from Haru's phone | does an effective intervention gain authority from its outcome? | no; Haru did not request the call and explicitly feared dependence. The support helps, but the method remains a consent cost | `[V065:p-0030#p0700-p0733]`, `[V065:p-0032#p0001-p0068]` |
+| AI-098 | Misaki and alumni stage antagonism | may a mentor provoke a student for motivational effect? | bounded by expertise, later disclosure, real technical instruction, and Haru's retained response authority; success does not generalize permission for deception or humiliation | `[V065:p-0034#p0053-p0135]` |
+
+## Agency rule after V06.5
+
+V06.5 adds **silence and guarantee control**:
+
+1. a recipient owns not only an answer but the silence needed to find it;
+2. indirect invitations can preserve refusal while still concealing the initiator's desire;
+3. intimacy may justify giving privacy rather than claiming disclosure access;
+4. family pain cannot be converted into another person's promise never to cause hurt;
+5. material care is strongest when it answers observed cost and anticipates free ordinary use;
+6. helpful outcomes do not erase consent costs in surprise contact or staged provocation.
+
+## V06.5 revision state
+
+- direct bounded romantic requests → **STRENGTHEN** through Yuzuki and Yua.
+- post-refusal relation initiation → **STRENGTHEN** through Yuko's separate gift decisions.
+- silence as recipient jurisdiction → **PROMOTE** through Asuka's interview failure and Saku's targeted withdrawal.
+- impossible protection promises → **REJECT**; accountable relation replaces guarantees of no injury.
+- self-originated Saku help requests → **KEEP OPEN**; disclosure and response improve without initiation.
+- outcome as method vindication → **REJECT again** through Mai's call and the alumni intervention.

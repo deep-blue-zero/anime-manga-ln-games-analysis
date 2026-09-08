@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.7
+scope: YUZUKI_NANASE_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — V01–V06 character monograph
+# Yuzuki Nanase — V01–V06.5 character monograph
 
 ## Scope
 
@@ -492,4 +492,39 @@ Yuzuki remains one of several girls Saku describes through a distinct important 
 - whether ordinary practical care generalizes beyond crisis;
 - whether the Haru partnership explicitly negotiates simultaneous bids or answers;
 - whether she can support Yuko while expressing competing desire directly;
+- direct reciprocal evidence only before any selection claim.
+
+# V06.5 supplemental longitudinal revision
+
+## Chosen femininity remains authored and strategically burdened
+
+Yuzuki identifies her predominantly boyish wardrobe as protection against the social cost of visible femininity. With Yuko's help she chooses a more exposed register because she wants Saku to see it `[V065:p-0011#p0397-p0427]`, `[V065:p-0013#p0001-p0012]`.
+
+The choice expands her available self-presentation rather than revealing one hidden true self. Because she also frames it as a romantic conquest, the act retains recipient pressure and cannot be treated as uncomplicated emancipation.
+
+## Basketball becomes a vocational question without becoming disposable
+
+Yuzuki wonders whether the first field in which she found excellence should determine her whole life, especially if the same drive could produce achievement elsewhere `[V065:p-0011#p0213-p0248]`. This is not abandonment of basketball. It is the first explicit separation of present commitment, general ambition, and lifelong vocation.
+
+## Female friendship supplies repair and a future of its own
+
+Yuzuki helps Yuko interpret refusal symmetry with Kaito, participates in the call that restarts ordinary Saku/Yuko contact, and promises with Yuko and Nazuna to return to Kanazawa in ten years regardless of future partners `[V065:p-0013#p0807-p0927]`, `[V065:p-0017#p0110-p0201]`.
+
+She can preserve that independent horizon while privately retaining romantic rivalry. Her concluding resolve to become the most fitting woman is directional desire, not evidence of Saku's preference.
+
+## A novel shared-practice request advances directness without becoming confession
+
+After learning that Yuko also knows Saku's miso soup, Yuzuki directly asks Saku to cook something he has never made `[V065:p-0013#p0787-p0805]`, `[V065:p-0015#p0078-p0113]`. The request differentiates a future experience rather than merely overwriting an old memory. It remains below a dating request and receives no romantic answer.
+
+## Post-V06.5 current model
+
+> **Yuzuki expands her authored range through visible femininity, vocational uncertainty, female travel friendship, and a direct request for a novel shared practice. She does not discover one authentic essence beneath performance; she chooses which registers and futures to risk while accepting correction. Her Kanazawa bond with Yuko and Nazuna has an explicit ten-year horizon independent of Saku. Romantic rivalry remains active, but neither appearance, cooking request, nor resolve establishes reciprocity or selection.**
+
+## V07 watchlist
+
+- whether the novel cooking request is enacted and how each party interprets it;
+- whether she makes a present romantic request rather than a differentiated ordinary bid;
+- whether basketball remains chosen, changes form, or yields to a separately investigated vocation;
+- whether visible femininity stays selectable rather than becoming a requirement for competition;
+- whether Kanazawa friendship survives direct romantic disagreement;
 - direct reciprocal evidence only before any selection claim.

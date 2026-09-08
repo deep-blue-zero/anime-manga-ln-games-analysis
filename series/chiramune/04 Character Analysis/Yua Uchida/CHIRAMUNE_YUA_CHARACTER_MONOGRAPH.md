@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUA_UCHIDA_V01_V06
-source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
-generation: V0.3
+scope: YUA_UCHIDA_V01_V06_5
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, component-routed V05 special-edition booklet, and component-routed V06.5 supplemental volume integrated; V07+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yua Uchida — V01–V06 character monograph
+# Yua Uchida — V01–V06.5 character monograph
 
 ## Scope and promotion basis
 
@@ -256,4 +256,41 @@ The special epilogue completes the directional clarification: Yua wants to face 
 - whether Saku reciprocates maintenance without romantic presumption;
 - whether Yuko friendship sustains conflict outside crisis;
 - whether mediator labor becomes distributed rather than permanently assigned to her;
+- direct reciprocal evidence only before any selection or couple claim.
+
+# V06.5 supplemental longitudinal revision
+
+## Requested selfishness becomes a direct date
+
+Yua recognizes that the safe shopping-and-cooking routine can hide her inside familylike usefulness. She refuses the default frame of Saku's ordinary invitation and asks directly, `朔くん、私とデートしよ？` `[V065:p-0025#p0047-p0179]`.
+
+Saku accepts the label, says this kind of date is possible only with her, compliments her clothes, and chooses her cooking over a popular restaurant `[V065:p-0027#p0022-p0186]`. The bid and differentiated acceptance are real. They do not by themselves create girlfriend status or romantic selection.
+
+## Domestic continuity becomes desired, contingent, and partly reciprocal
+
+Yua admits that if Saku chooses another partner, another person may sustain his daily life. Her private marriage-and-child images expose desire but are interrupted or withheld rather than presented as mutual plans `[V065:p-0027#p0247-p0326]`, `[V065:p-0027#p0498-p0502]`.
+
+Saku later reveals an independently purchased antique stool. He has noticed her standing through long preparation, names it `優空用`, and asks her to use it ordinarily `[V065:p-0027#p0950-p1033]`. The chair is the strongest material reciprocity the relation has yet received: recipient-specific gratitude and anticipated repeated presence, without exclusive ownership, cohabitation, or permanence.
+
+## Her father's boundary yields honest relational commitment, not a guarantee
+
+Saku refuses to flee Yua's returning father and originates a formal greeting. When her father asks him not to hurt her, Yua rejects making family damage into Saku's assigned duty. Saku refuses the impossible promise and instead says he wants to keep facing Yua honestly through possible mutual hurt `[V065:p-0027#p0593-p0746]`.
+
+This is explicit reciprocal commitment to relation. The courtship-coded farewell and Yua's hoped-for future introduction remain bounded by her recognition that no promise exists and the opportunity may never come `[V065:p-0027#p0748-p0766]`.
+
+## `大好き` remains deliberately asymmetrical
+
+Saku explains his `大好き` as Yua's cooking together with shopping and table time. Yua answers with a deliberately double-addressed `私も大好き` `[V065:p-0027#p0802-p0836]`. His wording names the shared ordinary complex; hers carries the fuller feeling the focalization has established. The exchange is intimate without becoming reciprocal romantic declaration.
+
+## Post-V06.5 current model
+
+> **Yua's requested selfishness now becomes action: she directly names a date, exposes the contingency of domestic proximity, protects Saku from inherited family duty, and receives a durable place created in response to her labor. Saku's differentiated date acceptance, honest-relation commitment, and `優空用` chair constitute the strongest new material reciprocity in V06.5. The source simultaneously withholds promise, exclusivity, romantic declaration, and couple status; Yua therefore resolves to pursue first place rather than claiming it.**
+
+## V07 watchlist
+
+- whether the dedicated chair develops into shared reciprocal maintenance rather than fixed gendered labor;
+- whether Yua's directness expands beyond romance into music, family, rest, and support requests;
+- whether Saku tells his family about her and, if so, how the contact is framed;
+- whether Yuko friendship sustains ordinary disagreement outside crisis;
+- whether anticipated future presence remains selectable rather than treated as domestic entitlement;
 - direct reciprocal evidence only before any selection or couple claim.
