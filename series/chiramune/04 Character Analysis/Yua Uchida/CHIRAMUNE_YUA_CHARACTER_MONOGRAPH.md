@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUA_UCHIDA_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.1
+scope: YUA_UCHIDA_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yua Uchida — V01–V05-main character monograph
+# Yua Uchida — V01–V05 Special Edition character monograph
 
 ## Scope and promotion basis
 
@@ -173,3 +173,42 @@ Too strong at this boundary. She makes a forced distribution choice after others
 - whether Yua can request care rather than remain its provider;
 - whether music remains an independent aspiration rather than only a support device;
 - whether later direct evidence identifies or excludes her as Saku's unnamed girl.
+
+# V05 special-edition longitudinal revision
+
+## Social interpretation is an independent competence
+
+Saku selects Yua for the first Kenta visit because she can model how hostile recipients see both the intervention and Saku's social position `[V05S:p-0040#p0014-p0039]`. Yua explicitly says that their help is presently an annoyance to Kenta even if its meaning may later change `[V05S:p-0040#p0040-p0047]`.
+
+This is not generic empathy. It is precise separation of current recipient experience, later possible reinterpretation, and intervener intention. Her softness often communicates that analysis in a receivable form.
+
+## She makes early bounded bids
+
+Yua chooses immediate shared-umbrella time with Saku over buying a saxophone reed and says so directly `[V05S:p-0044#p0039-p0055]`. The name-address sequence also records a progression from formal distance to chosen first-name intimacy `[V05S:p-0040#p0052-p0055]`.
+
+These scenes reject the idea that Yua's V05 priority appears suddenly or that non-pressure means absence of desire. They still do not name the desire romantic or identify her as Saku's unnamed girl.
+
+## Saku sometimes initiates ordinary recognition
+
+After the Kenta confrontation, Saku returns to the Starbucks where Yua sits alone and brings or exchanges for her preferred hojicha tea latte `[V05S:p-0051#p0032-p0056]`. He interprets possible loneliness but does not force her to confirm it.
+
+The relation is therefore not one-way maintenance. Saku remembers preference, returns, and chooses company. The asymmetry remains that Yua's long labor is broader and her own requests comparatively sparse.
+
+## Yuko friendship has its own protected future
+
+Yua and Yuko are explicitly described as unique best friends or sisters. When Yuko approaches Yua's love interest, Yua postpones the answer because Saku is listening and reserves it for their own later conversation `[V05S:p-0058#p0029-p0052]`.
+
+This is a boundary around female friendship, not merely romantic concealment. The booklet predates the V05 refusal and therefore cannot prove the dyad's aftermath.
+
+## Post-special current model
+
+> **Yua combines soft presentation with unusually exact social modeling, sustainable maintenance, music, and selective directness. Her early bids and Saku's initiated ordinary return give the relationship more reciprocity than a caretaker model permits, while her protected Yuko friendship limits any Saku-centered reading. She can choose priority without demanding status, but the content of her desire and her ability to request care remain open. No source identifies her as Saku's unnamed girl.**
+
+## V06 watchlist
+
+- whether Yua names a desire or relation rather than only a priority or method;
+- whether Saku reciprocates maintenance through sustained action;
+- whether Yua/Yuko friendship survives honest romantic difference after refusal;
+- whether she asks for support in music, ordinary life, or grief;
+- whether her social precision is heard before conflict rather than after it;
+- direct evidence only regarding the unnamed girl.

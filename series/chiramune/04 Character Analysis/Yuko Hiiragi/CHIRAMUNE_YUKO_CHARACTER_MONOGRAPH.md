@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUKO_HIIRAGI_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.1
+scope: YUKO_HIIRAGI_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,13 +11,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuko Hiiragi — V01–V05-main character monograph
+# Yuko Hiiragi — V01–V05 Special Edition character monograph
 
 ## Scope and promotion basis
 
 Volume 05 crosses the independent-model threshold for Yuko Hiiragi (柊夕湖). V01–V04 establish public exuberance, direct affection, social centrality, intervention participation, domestic self-development, and the answer moratorium. V05 adds prologue and sustained first-person focalization, the first-year origin of love, ordinary female friendship, maternal witness, explicit reflection on privilege and jealousy, regional/domestic practice, a completed public request, and behavior under refusal.
 
-This is a V05-regular-main model. The separate V05 special-edition object remains unopened and may later add placed earlier evidence without rewriting the main freeze.
+This is a cumulative model through the V05 special-edition booklet. Its placed earlier evidence revises the current account below without rewriting the regular-V05 main freeze or changing that volume's refusal outcome.
 
 ## 1. Compressed model
 
@@ -195,3 +195,42 @@ Rejected. She has standing to stop violence done in her name; she has no obligat
 - whether she can love Saku's care while permitting him to change the hero role;
 - whether Kaito's violence changes her trust in him or in the wider group;
 - whether public initiative remains a strength without becoming the only way she can make need legible.
+
+# V05 special-edition longitudinal revision
+
+## The hero/person asymmetry begins near the relationship's origin
+
+In a Volume 01 interstitial, Yuko recognizes that Saku's vague old “biography” concerns his own past. He refuses to tell her because he expects she would romanticize the pain, absolve him, and preserve a heroic story `[V05S:p-0042#p0040-p0068]`.
+
+This does not retroactively invalidate her love. It shows that Saku's Volume 05 concern has a long relational basis and that Yuko's early affirmation could make his vulnerable ordinary self harder to expose. Her wish for future mutual complaint, argument, and disclosure is contemporaneous counterevidence `[V05S:p-0042#p0074-p0084]`.
+
+## She can recognize ordinary strain without claiming its explanation
+
+After Yuzuki's crisis, Yuko uses an arcade trip and plush-toy play to ask after Saku. He realizes that “compensation” was a pretext for easing the tension she had observed `[V05S:p-0060#p0047-p0065]`. She does not demand the hidden cause or convert care into debt.
+
+Yuko therefore does not see only a hero. She sees some ordinary symptoms accurately, even while the deeper role still structures what Saku believes he may reveal.
+
+## Desire is active before confession
+
+Yuko directly investigates Saku's color and underwear preferences during the Volume 2 decoy operation `[V05S:p-0054#p0027-p0048]`. Before the Volume 4 pool cleaning she offers to replace Haru, openly combining practical help with her wish to be alone with Saku `[V05S:p-0067#p0012-p0019]`.
+
+These scenes historicize her confession as the endpoint of long active preference-gathering, competition, and bounded bids rather than a sudden eruption from passive devotion.
+
+## Yua friendship is independently primary
+
+The sleepover conversation identifies Yuko and Yua as unique best friends or sisters, with shared ordinary interests and protected future disclosure `[V05S:p-0058#p0029-p0052]`. Yuko's rivalry with Yua therefore threatens something she values independently of Saku. It also supplies a relationship through which ordinary correction and care can continue after romantic disappointment—if both girls choose it.
+
+The booklet contains no post-refusal scene, so survival cannot be assumed.
+
+## Post-special current model
+
+> **Yuko's love grows from being treated as an ordinary, correctable person, yet it also attaches to a heroic Saku form he has long feared she would preserve. That asymmetry is real but partial: Yuko can see strain, offer non-extractive ordinary care, cultivate primary friendship, and act deliberately on desire. Her Volume 05 refusal remains valid and painful without proving her love false or herself insufficient. The next test is whether she can sustain ordinary personhood and chosen friendships after refusal while permitting Saku's hero role to change.**
+
+## V06 watchlist
+
+- direct Yuko focalization or action after refusal;
+- whether she rejects personal-insufficiency explanations;
+- whether friendship with Yua, Yuzuki, Haru, and Nazuna can hold honest difference;
+- whether Saku/Yuko acquires a form other than restored moratorium or total severance;
+- whether Yuko can ask about Saku's ordinary self without pre-answering it through admiration;
+- whether public initiative remains selectable rather than compulsory.

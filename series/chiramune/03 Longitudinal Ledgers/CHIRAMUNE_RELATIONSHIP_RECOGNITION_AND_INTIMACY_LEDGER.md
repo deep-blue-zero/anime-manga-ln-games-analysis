@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.5
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -385,3 +385,70 @@ The group builds a densely shared summer through photographs, food, fireworks, t
 - whether Yuzuki turns serious-consideration procedure into a present request;
 - whether Asuka and Saku permit a request without converting departure into control;
 - whether the group forms a new configuration rather than attempting exact restoration.
+
+# V05 special-edition supplemental update
+
+The booklet supplies earlier relationship history from a later publication/acquisition boundary. It revises the current model without altering the V01–V05 prospective records.
+
+## Saku ↔ Yuko — hero/person asymmetry with ordinary counterevidence
+
+In a V01 interstitial, Saku refuses to disclose his own past because he expects Yuko would convert pain into a flattering hero narrative and absolve him `[V05S:p-0042#p0040-p0068]`. His Volume 05 refusal concern therefore has long precedent. Yet Yuko later notices his post-crisis strain, arranges an arcade outing, and offers relief without demanding explanation `[V05S:p-0060#p0054-p0065]`.
+
+**Current state:** V05-main refusal and no-couple state preserved + hero/person asymmetry historicized + Yuko's capacity for ordinary recognition strengthened + future post-refusal form open.
+
+## Saku ↔ Yua — early chosen bids and initiated ordinary reciprocity
+
+Yua's name-address progression records earned closeness `[V05S:p-0040#p0052-p0055]`. She explicitly chooses shared-umbrella time `[V05S:p-0044#p0039-p0055]`; Saku later returns to Yua at Starbucks and remembers her preferred tea latte without forcing disclosure `[V05S:p-0051#p0032-p0056]`.
+
+**Current state:** V05 domestic maintenance and chosen priority preserved + long bid/response history strengthened + no reciprocal romantic naming and no identification as Saku's unnamed girl.
+
+## Saku ↔ Haru — challenge as a durable relational idiom
+
+Haru asked Saku in a V02-associated story to accept if she ever challenged him, and he agreed `[V05S:p-0053#p0053-p0059]`. Her attraction is already present immediately before the V04 pool-cleaning scene `[V05S:p-0067#p0028-p0039]`. Their peerlike ease also coexists with mutually acknowledged gendered attraction `[V05S:p-0059#p0014-p0041]`.
+
+**Current state:** V05 future protocol is strengthened as a matured repeated form + attraction historicized + no present couple or reciprocal Saku love naming.
+
+## Saku ↔ Yuzuki — self-theory fails while performed bids accumulate
+
+Before naming love, Yuzuki repeatedly predicts that similarity makes romance with Saku impossible `[V05S:p-0052#p0023-p0030]`, `[V05S:p-0074#p0122-p0125]`. Later evidence disproves her forecast, not the observed similarity. The Special Edition's revised cap story adds close sensory checking and explicitly calls her overwrite an overwrite of memory `[V05S:p-0061#p0039-p0060]`.
+
+**Current state:** V05 bounded requests and Saku jealousy preserved + Yuzuki's long indirect-bid repertoire strengthened + her self-interpretation treated as revisable + no couple.
+
+## Saku ↔ Asuka — known finite time produces chosen entry
+
+The V02-associated earbud scene already imagines ten-year separation while Saku wishes the present could continue `[V05S:p-0049#p0014-p0035]`. On the V03 escape morning, Asuka receives their childhood signal but chooses the present adventure rather than merely restoring childhood `[V05S:p-0063#p0003-p0052]`. Later she enters Saku's baseball practice despite senior/classmate distance and the pain of not being the person who relit him `[V05S:p-0069#p0017-p0034]`.
+
+**Current state:** named Asuka love and Saku's threatened-loss desire preserved + finite-time awareness and Asuka's repeated agency strengthened + no exclusivity or identification as the unnamed girl.
+
+## Yuko ↔ Yua — best friendship is not a byproduct of Saku
+
+The domestic sleepover conversation explicitly frames Yuko and Yua as unique best friends or sisters, with mutual consideration and trust `[V05S:p-0058#p0029-p0043]`. Yua protects a future love conversation from Saku's presence rather than letting the shared romantic object absorb the dyad `[V05S:p-0058#p0044-p0052]`.
+
+**Current state:** independently primary best friendship + withheld but mutually legible romantic claims + post-refusal repair still unobserved.
+
+## Yuzuki ↔ Haru — partnership is the grammar of rivalry
+
+First-year autumn shows their partnership before either names romantic love. They know one another's strategic and vulnerable modes, convert embarrassment into requested assistance, and use direct one-on-one contest as a repair language `[V05S:p-0074#p0079-p0150]`. Each imagines a future partner with the other's qualities `[V05S:p-0074#p0174-p0176]`, `[V05S:p-0074#p0311-p0317]`. Captain Kei predicts a future contest over something neither can yield while insisting the partnership's existing norms can contain it `[V05S:p-0074#p0189-p0200]`.
+
+The V04-associated story then makes the romantic contest explicit: Haru and Yuzuki name the start of their own match, and Yuzuki discloses that she has already kissed Saku `[V05S:p-0070#p0036-p0063]`.
+
+**Current state:** independently primary partnership + reciprocal formation + fair-contest norm + romantic rivalry continuous with friendship rather than its cancellation.
+
+## Relationship hypotheses after V05 main and Special Edition
+
+1. **Finite ordinary forms can be both intrinsically valuable and transition-avoiding.** Saku's wish to preserve ambiguity recurs across multiple dyads before the V05 crisis.
+2. **Recognition is partial in both directions.** Saku correctly identifies Yuko's hero-facing tendency but undercounts her ordinary perception; Yuzuki reads others sharply but misforecasts herself.
+3. **A future protocol gains force from repetition, not urgency.** Haru's V05 request matures a challenge idiom already accepted by Saku.
+4. **Female friendships are primary relationship systems.** Romantic rivalry creates real cost but does not supply their only meaning.
+5. **Jealousy, attraction, sensory memory, and finite-time desire remain directional evidence below commitment.** The booklet establishes no couple and does not identify Saku's unnamed girl.
+
+# V06 relationship watchlist
+
+- direct identification, if any, of Saku's unnamed girl; prominence remains insufficient;
+- new group topology after Yuko's refusal rather than presumed restoration;
+- whether Saku/Yuko recognition becomes less hero-centered without making Yuko deficient;
+- whether Yua can state self-directed desire while preserving Yuko friendship;
+- whether Haru invokes the agreed challenge protocol and how Saku answers;
+- whether Yuzuki converts performed bids into a current request without losing boundary control;
+- whether Asuka and Saku can make a request under departure without converting love into control;
+- whether Yuzuki/Haru partnership norms survive explicit romantic scarcity.

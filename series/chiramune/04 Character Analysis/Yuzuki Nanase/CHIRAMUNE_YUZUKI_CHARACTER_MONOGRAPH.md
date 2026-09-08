@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.5
+scope: YUZUKI_NANASE_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — V01–V05-main character monograph
+# Yuzuki Nanase — V01–V05 Special Edition character monograph
 
 ## Scope
 
@@ -417,3 +417,42 @@ Her non-sabotaging competition therefore survives V05 main before the refusal, b
 - whether she asks Saku about his jealousy or lets their shared cover remain closed;
 - whether finite, bounded self-advocacy generalizes beyond festival ritual;
 - whether friendship with Yuko survives without pretending the excluding event did not occur.
+
+# V05 special-edition longitudinal revision
+
+## 1. The partner relation with Haru precedes romantic self-knowledge
+
+First-year autumn shows Yuzuki naming Haru as the partner she is genuinely captivated by while both girls explicitly claim not to know love `[V05S:p-0074#p0003-p0041]`, `[V05S:p-0074#p0309-p0317]`. They read one another, compete, teach, supply social exits, and convert embarrassment into requested help. Each imagines a future partner with the other's defining qualities `[V05S:p-0074#p0133-p0200]`, `[V05S:p-0074#p0291-p0317]`.
+
+Haru is therefore not merely the first person who teaches Yuzuki warmth or a rival introduced through Saku. Their relationship is already a primary developmental system with its own pleasure, norms, and future.
+
+## 2. Strategic modes are all Yuzuki, but none is exhaustive
+
+Yuzuki distinguishes her class, public, and teammates' modes as real presentations with varying degrees of calculation `[V05S:p-0074#p0079-p0088]`. This strengthens the selective-interface model. “Authentic Yuzuki” is not one unguarded residue underneath performance; it includes her conscious choice of how much wit, toughness, beauty, and vulnerability a context can hold.
+
+The cost remains unequal access. People may sincerely know one Yuzuki without knowing the full option set she manages.
+
+## 3. Her romantic theories are precise and wrong
+
+Before naming love, Yuzuki repeatedly reasons that similarity with Saku guarantees a calm, nonromantic relation and that people choose what they lack `[V05S:p-0052#p0023-p0030]`, `[V05S:p-0074#p0122-p0125]`. Later named love falsifies her prediction.
+
+This is important counterevidence to treating her introspection as privileged fact. She correctly observes similarity and Haru's different access, but cannot forecast which relation will change her. Revision capacity, not initial certainty, remains her stronger form of self-authorship.
+
+## 4. Bids accumulate from deniability toward fair warning
+
+The revised cap story adds close sensory inspection and explicitly calls her act an overwrite of memory `[V05S:p-0061#p0039-p0060]`. In the V04-associated game story she rejects spectatorship, names her contest with Haru, and discloses the prior kiss as fair-warning information `[V05S:p-0070#p0003-p0063]`.
+
+These scenes historicize the V05 ladder of hypothetical dating request and bounded fireworks. Yuzuki does not simply move from fake to honest. She expands the range of claims her performance can carry.
+
+## 5. Post-special current model
+
+> **Yuzuki is a strategically fluent, genuinely plural self whose insight is strongest about social structure and less reliable as a prediction of her own development. Her first-year partnership with Haru is independently primary and supplies the correction, aspiration, and fair-contest grammar later used in romantic rivalry. Her bids toward Saku accumulate from sensory deniability to explicit bounded requests, but no supplement creates reciprocity or couple status. The live test is whether she can preserve both authored directness and primary female friendship after the V05 fracture.**
+
+## 6. V06 watchlist
+
+- whether Yuzuki makes a present request rather than securing only future procedure;
+- whether she revises her own theory when Saku or Haru contradicts it;
+- whether partnership with Haru remains corrective under explicit romantic scarcity;
+- whether she supports Yuko without returning to invisible complaint management;
+- whether Saku's jealousy becomes shared knowledge rather than mutually legible cover;
+- whether edition-specific cap wording gains any later direct referent without overclaiming `記憶`.

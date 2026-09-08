@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.6
+scope: SAKU_CHITOSE_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Saku Chitose — V01–V05-main character monograph
+# Saku Chitose — V01–V05 Special Edition character monograph
 
 ## Scope and authority
 
@@ -776,3 +776,40 @@ Saku accepts the space and cries. This is a limited but significant receptive ac
 - whether chosen baseball develops beyond private swings;
 - whether the fractured group can be approached without demanding exact restoration;
 - whether he can apologize and repair without accepting violence or erasing his own pain.
+
+# V05 special-edition longitudinal revision
+
+## 1. Stasis is a long strategy, not only a crisis reaction
+
+Saku wishes the ambiguous Haru rhythm, the Yuko/Yua domestic configuration, and the Yuko arcade relation could remain unchanged `[V05S:p-0053#p0064-p0083]`, `[V05S:p-0058#p0053-p0060]`, `[V05S:p-0060#p0076-p0080]`. These scenes historicize the Volume 05 problem. He does not merely fail to choose under sudden pressure; he repeatedly recognizes the beauty of a present form and stores the transition it requires for later.
+
+The practice is not reducible to cowardice. The ordinary configurations are genuinely valuable and cannot be recovered unchanged after an answer. Its cost is that another person must often initiate the change.
+
+## 2. The Yuko hero/person concern is real but incomplete
+
+Already in Volume 01, Saku withholds his past because he expects Yuko would turn pain into a hero story and absolve him `[V05S:p-0042#p0040-p0068]`. His Volume 05 refusal diagnosis therefore has evidence independent of the confession scene. However, Yuko later sees his lingering strain and constructs relief without demanding disclosure `[V05S:p-0060#p0054-p0065]`. Saku's model catches one asymmetry while undercounting another capacity.
+
+## 3. Ordinary reciprocity is more distributed than his crisis model suggests
+
+Saku studies Kenta's preferred novels before acting, chooses Yua for interpretive competence, returns to Yua at Starbucks, remembers her drink, and offers an umbrella in a way that preserves a stranger's face `[V05S:p-0040#p0014-p0047]`, `[V05S:p-0041#p0003-p0051]`, `[V05S:p-0044#p0024-p0055]`, `[V05S:p-0051#p0032-p0056]`.
+
+These are genuine low-pressure capabilities. They do not erase coercive methods, but they show he already possesses alternatives to heroic extraction and can initiate ordinary care.
+
+## 4. Attraction and postponement coexist across relationships
+
+Saku acknowledges Haru's attractiveness while valuing their peerlike style `[V05S:p-0059#p0014-p0041]`; wants Asuka's finite river moment to continue `[V05S:p-0049#p0025-p0035]`; receives Yuzuki's sensory cap bid without naming its larger claim `[V05S:p-0061#p0039-p0066]`; and preserves Yua's chosen nearness without classifying it.
+
+The booklet strengthens plural directional attachment but supplies no direct evidence that identifies the girl named in Saku's Volume 05 refusal.
+
+## 5. Post-special stable model
+
+> **Saku's hero form contains real observation, preparation, low-pressure care, and the capacity for honest refusal. Its central danger is temporal and jurisdictional: he repeatedly converts valuable present ambiguity into a reason to delay his own positive choice, then treats the eventual harm as proof he must punish himself. Earlier scenes justify parts of his readings of others but also show how partial they are. The unnamed girl remains unidentified, no couple exists, and the next developmental test is whether he can enter aftermath through request, repair, and timely self-disclosure rather than stasis or self-sentencing.**
+
+## 6. V06 watchlist
+
+- direct evidence, if any, identifying the unnamed girl; no inference from booklet prominence;
+- whether Saku initiates support or repair rather than waiting to be found;
+- whether his low-pressure care methods scale to high-stakes conflict;
+- whether he can revise a valued group form without attempting exact restoration;
+- whether attraction becomes a timely positive choice rather than another stored category;
+- whether chosen baseball remains ordinary practice rather than renewed injury proof.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: HARU_AOMI_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.2
+scope: HARU_AOMI_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Haru Aomi — V01–V05-main character monograph
+# Haru Aomi — V01–V05 Special Edition character monograph
 
 ## Scope and promotion basis
 
@@ -251,3 +251,42 @@ V05 mentions team success and Mai-related invitations but provides no sustained 
 - whether team governance becomes transparent before another collapse;
 - whether rival friendship survives the post-Yuko fracture;
 - whether running-partner reciprocity extends into ordinary, nonathletic dependence.
+
+# V05 special-edition longitudinal revision
+
+## The challenge protocol has an earlier form
+
+After Saku helps Yuzuki in a V02-associated story, Haru asks him to accept if she ever challenges him, and he agrees `[V05S:p-0053#p0053-p0059]`. The V05 future request is therefore not created from nothing by her V04 confession. It is a matured repetition of their shared competitive grammar, now made explicitly romantic and consent-sensitive.
+
+This history strengthens rather than completes the protocol. Its content and Saku's eventual answer remain future matters.
+
+## Attraction precedes the pool scene
+
+Immediately after the pool-cleaning assignment, Yuko offers to take Haru's place. Haru refuses with a reason she knows is false, compares Yuko's conventional femininity with herself, and admits she was already anticipating time alone with Saku `[V05S:p-0067#p0012-p0039]`.
+
+The pool encounter clarifies and intensifies attraction; it does not manufacture it. Haru's slow recognition is therefore genuine development rather than retroactive invention.
+
+## The necktie is authentic without being exhaustive
+
+Haru directly asks why Saku prefers her in a necktie. Their “male-friend” convention gives way to mutual acknowledgment that he sees her as attractive and as a girl `[V05S:p-0059#p0014-p0041]`. Her wish to remove the tie sometimes and experiment with a ribbon-coded gaze does not expose the tie as false `[V05S:p-0059#p0042-p0059]`.
+
+Her gendered self-presentation is better modeled as selectable range: athletic peer style remains genuinely hers, while desire opens other forms she may try without treating her existing body or identity as deficient.
+
+## Yuzuki is a primary partner, not merely rival or helper
+
+First-year autumn shows Haru and Yuzuki already using one-on-one contest, teasing, teaching, and situational cover as a reciprocal system `[V05S:p-0074#p0113-p0200]`. Haru's imagined future partner resembles Yuzuki's cool, observant, self-containing care `[V05S:p-0074#p0260-p0317]`. Later, Haru and Yuzuki explicitly name their romantic contest while preserving the same fair-fight idiom `[V05S:p-0070#p0036-p0063]`.
+
+Haru's relation with Saku develops partly through this partnership but is not reducible to Yuzuki's mediation. Likewise, Yuzuki/Haru is not reducible to competition over him.
+
+## Post-special current model
+
+> **Haru's directness is a learned range rather than an unchanging essence. Her future romantic protocol with Saku matures a long challenge idiom; her attraction predates the scene that makes it legible; and her athletic, peerlike presentation remains authentic while admitting gendered curiosity and desire. Yuzuki is an independently primary partner whose correction, teaching, and fair-contest norms help make Haru's later agency possible. No supplement turns running partnership or attraction into reciprocal romantic commitment.**
+
+## V06 watchlist
+
+- the object of Haru's unfinished `kejime` and whether she authors its completion;
+- whether the challenge protocol becomes a present request and receives a direct answer;
+- whether she can receive refusal without treating it as failed intensity;
+- whether Yuzuki partnership survives explicit scarcity and post-Yuko group change;
+- whether expanded gendered presentation remains chosen rather than compulsory;
+- whether improved dyadic consent generalizes to transparent team governance.

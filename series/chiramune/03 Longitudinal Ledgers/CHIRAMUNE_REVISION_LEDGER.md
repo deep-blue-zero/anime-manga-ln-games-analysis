@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.5
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -318,3 +318,41 @@ Their origin state is `ESTABLISHED_AT_V05_MAIN`. Assign later transitions only w
 | V05S-Q04 | Which V05 claims are revised rather than merely textured? | `OPEN` | explicit claim-by-claim transition |
 | V05S-Q05 | Does any component directly identify Saku's unnamed girl? | `OPEN` | direct wording only; prominence is insufficient |
 | V05S-Q06 | Are retailer-origin stories' first-distribution details recoverable? | `OPEN` | source-level evidence or preserved uncertainty |
+
+## V05 special-edition question dispositions
+
+| Test ID | Disposition | Evidence-controlled result |
+|---|---|---|
+| V05S-Q01 | `RESOLVED` | Complete regular-main duplicate plus 17 republished bonuses, one newly written story, bounded creator/profile/colophon paratext, recap dividers, and advertising were inventoried. |
+| V05S-Q02 | `RESOLVED WITH BOUNDED PLACEMENT` | Each story retains a V01–V04 or first-year placement; several exact scene slots remain intentionally bounded rather than invented. |
+| V05S-Q03 | `RESOLVED` | The new first-year story is diegetically early but first published inside the V05 Special Edition and safely enters only after the V05-main freeze. |
+| V05S-Q04 | `RESOLVED` | Main claims remain; Saku's stasis, the Yuko hero/person issue, Haru's protocol, Yuzuki's self-theory, and female-friendship topology are materially historicized or revised. |
+| V05S-Q05 | `PRESERVE NONCLAIM` | No component identifies Saku's unnamed girl or establishes a couple. |
+| V05S-Q06 | `RESOLVED FOR THIS OBJECT` | The booklet contents explicitly names the retailer/campaign and focal character(s) for all 17 republished stories; exact initial sale dates are not asserted where the object does not supply them. |
+
+## Claims established or revised at the V05 special-edition checkpoint
+
+| ID | Prior state | Transition | Current formulation | Evidence route |
+|---|---|---|---|---|
+| F69 | V05 showed Saku preferring finite present form and delaying adjudication | `STRENGTHEN / HISTORICIZE` | His wish for relational stasis recurs in V02/V03-associated Haru, Yuko, and Yua scenes; it preserves valuable ordinary life while shifting the cost of transition to others. | `CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`, `S05S-F01` |
+| F70 | V05 refusal raised Saku's fear that Yuko loves the hero more than the person | `STRENGTHEN / QUALIFY` | The fear has direct V01 precedent, but Yuko's later ordinary perception and non-demanding care show that Saku's model also undercounts her. | `S05S-F02` |
+| F71 | Haru's V05 future bid created a consent protocol | `STRENGTHEN / HISTORICIZE` | The protocol matures an earlier agreement that Saku accept a future challenge; Haru's attraction also precedes the V04 pool encounter. | `S05S-F03` |
+| F72 | Yuzuki's interpretive precision was balanced by known revision capacity | `STRENGTHEN COUNTEREVIDENCE` | She repeatedly and confidently predicts that similarity prevents her loving Saku; later named love falsifies her self-theory. | `S05S-F04` |
+| F73 | Yuzuki/Haru friendship and rivalry were independent of Saku | `STRENGTHEN / PROMOTE` | Their first-year partnership supplies mutual recognition, practical care, aspiration, contest norms, and the relational grammar later used for romantic rivalry. | `S05S-F05` |
+| F74 | Cross-girl friendship remained real but burdened by incompatible claims | `STRENGTHEN / DIFFERENTIATE` | Yuko/Yua friendship and Yuzuki/Haru partnership are primary dyads; friendship does not merely survive rivalry but provides the norms by which rivalry is conducted. | `S05S-F06` |
+| F75 | The V03 booklet left the cap-story overwrite object unstated | `REVISE BY EDITION` | The earlier witness remains elliptical; the V05 Special Edition explicitly names `記憶`. Both are witnesses to one event, and shared evidence is not double-counted. | `V05S-13` |
+
+Their origin state is `ESTABLISHED_OR_REVISED_AT_V05_SPECIAL_EDITION`. Exact locators and rival readings remain in the supplemental checkpoint. No earlier prospective freeze is rewritten.
+
+## Open V06 main test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| V06-Q01 | Does the narrative directly identify Saku's unnamed girl or change any relationship into mutual commitment? | `OPEN` | direct wording and reciprocal state; prominence or reader inference is insufficient |
+| V06-Q02 | What survives or changes after the V05 group fracture? | `OPEN` | enacted interaction, exclusion, repair, avoidance, and independent dyadic evidence |
+| V06-Q03 | Does Saku distinguish accountability from self-punishment and begin asking for help? | `OPEN` | changed practice, not remorse language alone |
+| V06-Q04 | How do Haru's future protocol and Yuzuki's bounded requests develop without compulsory immediacy? | `OPEN` | agent-authored bids, limits, and responses |
+| V06-Q05 | Does Yuko revise hero/person recognition without translating refusal into personal insufficiency? | `OPEN` | Yuko focalization or reliable enacted evidence |
+| V06-Q06 | How do Yua's chosen priority and independent friendship coexist after the fracture? | `OPEN` | Yua-authored action and relationship evidence; do not infer from care alone |
+| V06-Q07 | Does Saku's renewed baseball remain selectable ordinary practice? | `OPEN` | voluntary participation, changed stakes, and safety/accountability |
+| V06-Q08 | Do Yuzuki/Haru partnership norms remain intact when romantic stakes become explicit? | `OPEN` | direct dyadic conduct and conflict repair |

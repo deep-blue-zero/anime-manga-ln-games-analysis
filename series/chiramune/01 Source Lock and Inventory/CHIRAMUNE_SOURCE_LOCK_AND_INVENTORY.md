@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V0.4
+generation: V0.5
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -74,7 +74,17 @@ Both the regular Volume 05 witness and a special-edition object are present. Use
 
 The regular Volume 05 witness was reverified at SHA-256 `6266d27492bcc2a966ca3aa7fca98a47e9bd830a0e71cfeb62df4aeedf3efc7e` before prospective reading. Its complete narrative, cover, five frontmatter images, ten narrative illustrations, afterword, author profile, colophon, and eleven advertising/editorial backmatter images were classified. No embedded bonus fiction was found.
 
-The afterword confirms that the separate special edition contains an approximately 130-page short-story booklet combining retailer bonus stories and a newly written first-year Yuzuki/Haru story. That paratext establishes narrative material exists but does not admit any event from the separate object into the regular-main freeze. The regular V05 main reading and prospective freeze are complete. The separate special-edition object remains analytically unopened and is the next safe source.
+The afterword confirms that the separate special edition contains an approximately 130-page short-story booklet combining retailer bonus stories and a newly written first-year Yuzuki/Haru story. That paratext establishes narrative material exists but does not admit any event from the separate object into the regular-main freeze. The regular V05 main reading and prospective freeze are complete and remain the historical main boundary.
+
+### Volume 05 Special Edition analysis disposition
+
+The locked Special Edition was independently reverified at SHA-256 `4cd54018dc4f9bde7fc34ee9efff01b5c22cfce2fedda5db579ac7c04aef767e`. OPF metadata identifies `千歳くんはラムネ瓶のなか　５　ＳＳ冊子付き電子特装版`, 裕夢, 小学館, Japanese, publication date 2021-04-25, and ASIN `B091T3MBHQ`.
+
+Its complete regular-main text was compared with the admitted regular Volume 05 witness: both ordered normalized streams contain 5,479 text rows and no difference. The duplicate main text is therefore verified but not counted as a second narrative event stream.
+
+The appended booklet contains 17 republished bonus stories originally associated with Volumes 01–04 and one newly written first-year Yuzuki/Haru story. Each component was separately inventoried and placed. `シャンプーにキャップ` is a revised witness of the same late-V03 event found in the separate V03 booklet: shared evidence is counted once, while material edition additions remain addressable. Contents/dividers, creator commentary, profiles, colophon, and advertising were audited under bounded paratext roles.
+
+The complete disposition and frozen supplemental checkpoint are in `../02 Sequential Readings/CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`. The next safe source is Volume 06 main.
 
 ### Volume 04 analysis disposition
 

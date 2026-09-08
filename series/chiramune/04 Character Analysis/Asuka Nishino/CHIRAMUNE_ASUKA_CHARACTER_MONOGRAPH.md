@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.3
+scope: ASUKA_NISHINO_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Asuka Nishino — V01–V05-main character monograph
+# Asuka Nishino — V01–V05 Special Edition character monograph
 
 ## Scope and promotion basis
 
@@ -260,3 +260,36 @@ V05 gives Asuka purposeful action but no post-departure focalization, practical 
 - whether Asuka can receive ordinary help in Tokyo;
 - whether the temporary same-age relation becomes a durable revision of `Asuka-nee`;
 - whether later direct evidence identifies or excludes her as Saku's unnamed girl.
+
+# V05 special-edition longitudinal revision
+
+## Finite-time awareness precedes explicit departure
+
+In a V02-associated riverside scene, Asuka asks where she and Saku might be ten years ahead while they share one earbud and a farewell/reunion song `[V05S:p-0049#p0014-p0024]`. Her teasing possible marriage and Saku's wish that the present continue keep the exchange playful while making long separation imaginable `[V05S:p-0049#p0025-p0035]`.
+
+V03 does not suddenly introduce finitude. It gives public and practical form to an already contemplated open future.
+
+## The escape is a present choice built from childhood material
+
+Asuka's own focalization on the escape morning shows Saku's left-ear signal activating their childhood promise and her intense relief that he remembered `[V05S:p-0063#p0003-p0014]`. Her two unused blue underwear sets connect ink, blue moon, ordinary happy days, and deliberate preparation `[V05S:p-0063#p0030-p0042]`.
+
+She leaves her parents a note and approaches the sleeping Saku with both `朔兄` memory and present affection `[V05S:p-0063#p0043-p0052]`. The act is neither pure regression nor unilateral rescue. Childhood supplies a language she actively reuses for a current adventure.
+
+## Senior distance hurts without determining action
+
+Asuka accidentally sees Saku playing baseball and feels grief that she was not the person who relit him and almost missed the classmates' ordinary role `[V05S:p-0069#p0017-p0030]`. She enters anyway because she has chosen to use the remaining nine months `[V05S:p-0069#p0032-p0034]`.
+
+When Haru later reports finding her answer, Asuka recognizes the younger girl's direct heat, briefly resents the sun/moon fit, and reasserts her wish to write her own last page `[V05S:p-0069#p0038-p0057]`. Jealousy becomes evidence of stakes but not a reason to abandon self-authorship or sabotage Haru.
+
+## Post-special current model
+
+> **Asuka has long imagined separation, yet repeatedly treats finite time as a reason for present action: shared music, an escape, entry into Saku's baseball field, and a deliberately ordinary last summer. Childhood signals and the `Asuka-nee` role remain usable materials rather than prisons she must either obey or discard. Senior distance and rivalry cause real grief, but she enters anyway and preserves others' agency. No supplemental prominence identifies her as Saku's unnamed girl or settles exclusivity.**
+
+## V06 watchlist
+
+- whether anticipated departure becomes practical separation and changed access;
+- whether Asuka asks for or receives ordinary help without reading it as failed independence;
+- whether Saku makes a request that respects rather than owns her future;
+- whether the same-age relation survives outside bounded summer play;
+- how rivalry with Haru and friendship with the wider group change after Yuko's refusal;
+- direct evidence only regarding the unnamed girl.

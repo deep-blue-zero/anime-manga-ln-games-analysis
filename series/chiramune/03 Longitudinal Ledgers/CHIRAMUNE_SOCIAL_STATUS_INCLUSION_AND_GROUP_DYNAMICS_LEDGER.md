@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.5
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -276,3 +276,35 @@ The V03–V04 cooperative-rivalry claim therefore survives only in revised form.
 - distributed corrective authority → **PRESERVE** through Yuko, Kazuki, Nazuna, and Yua rather than Saku alone.
 - group fracture → **ESTABLISH**, with terminal destruction explicitly `OPEN`.
 - team-method accountability → **OPEN**; the basketball team receives no sufficient governance scene.
+
+# V05 special-edition update — primary dyads inside the group
+
+## V05-special entries
+
+| ID | Scene | Status / group mechanism | Finding | Counterpoint | Locator |
+|---|---|---|---|---|---|
+| SG-055 | Saku selects Yua for the first Kenta visit | social interpretation as competence | Yua is chosen because she can model negative audience response and Saku's perceived position; her softness is not lack of status literacy | Saku still controls team composition and method | `[V05S:p-0040#p0014-p0039]` |
+| SG-056 | Yuko/Yua sleepover discussion | independent best-friend dyad | their sisterlike trust, shared routines, and protected future conversation have value outside direct service to Saku | the unspoken love topic shows romantic scarcity already taxing openness | `[V05S:p-0058#p0029-p0052]` |
+| SG-057 | Yuzuki/Haru first-year partnership | partner status and reciprocal correction | their one-on-one contests, practical teaching, and mutual readability establish a primary relation before named romantic rivalry | the later shared object of desire can still impose incompatible claims | `[V05S:p-0074#p0113-p0200]` |
+| SG-058 | Yuzuki/Haru V04 game aftermath | rivalry governed through friendship | they publicly name their own match, and Yuzuki discloses her prior kiss as fair-warning information | “fair” does not ensure equal timing, knowledge, or outcome | `[V05S:p-0070#p0036-p0063]` |
+| SG-059 | Asuka watches and enters baseball practice | year-rank distance | senior status excludes her from the classmates' ordinary route to Saku, but she chooses to enter rather than treat structural distance as destiny | she cannot erase the remaining nine-month horizon or become a classmate | `[V05S:p-0069#p0017-p0034]` |
+| SG-060 | Haru and Yuko before pool cleaning | direct comparison without sabotage | Yuko offers practical substitution while admitting desire; Haru declines, privately recognizing her own desire rather than treating Yuko's femininity as disqualifying authority | Haru's comparison still briefly translates difference into deficiency | `[V05S:p-0067#p0012-p0039]` |
+| SG-061 | Saku's recurring preservation wishes | centrality and topology preservation | Saku values the group's and dyads' existing ordinary form enough to wish it unchanged before V05 | preserving his preferred configuration would defer other members' claims and development | `[V05S:p-0053#p0064-p0083]`, `[V05S:p-0058#p0053-p0060]` |
+
+## Group topology after V05 main and Special Edition
+
+The booklet strengthens the group's non-harem topology without denying romantic centrality:
+
+- Saku remains a connector and the principal romantic scarcity object;
+- Yuko/Yua and Yuzuki/Haru are primary dyads with independent histories and norms;
+- women exchange expertise, interpretation, care, and challenge rather than merely wait for Saku's allocation;
+- romantic rivalry is conducted through those prior relations, which both constrain harm and make exclusion more costly;
+- class year, team membership, and everyday access create real distances that beauty or mutual feeling do not automatically erase.
+
+## V05-special revision state
+
+- female friendship as independent group structure → **STRENGTHEN / PROMOTE**.
+- cooperative rivalry → **REVISE more precisely**: friendship supplies contest norms but cannot prevent singular answers from changing access and presence.
+- Saku as sole interpreter/organizer → **DOWNGRADE further** through Yua's social modeling and Yuzuki/Haru reciprocal reading.
+- Saku's desire to preserve group form → **STRENGTHEN / HISTORICIZE** before the enacted V05 split.
+- post-refusal group survival → **OPEN**; all booklet events precede the refusal and cannot supply aftermath evidence.

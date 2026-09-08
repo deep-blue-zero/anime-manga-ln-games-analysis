@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.6
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -259,3 +259,34 @@ Volume 05 asks whether an authored social form may demand its own preservation. 
 - directness versus performance → **REJECT as a binary** through Yuko, Yuzuki, and Haru's differently structured bids.
 - authored group identity → **REVISE**; the shared form is real but cannot remain ethically authoritative once singular claims require answers.
 - locality as background → **REJECT**; local practice and departure now co-author character identity strongly enough for specialist promotion.
+
+# V05 special-edition update — historical selves, revisable theories, and primary partnerships
+
+## V05-special governing revision
+
+The booklet strengthens the distinction between a practiced form and a fixed essence. Yuzuki's different social modes are all hers even when strategically selected; Haru's necktie style is authentic without exhausting her gendered desire; Yuko's cheerful exceptional role can coexist with ordinary perceptiveness; and Saku's preference for preserving beautiful ambiguity is itself a recurring authored practice that can become constraining.
+
+## V05-special entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-069 | Yua / social interpretation and names | Saku selects Yua to model hostile perception; the story closes through progressively intimate forms of address | her soft manner contains practiced analytical precision, and naming records relationally earned self-presentation | neither competence nor name intimacy identifies romance | `[V05S:p-0040#p0014-p0055]` |
+| SA-070 | Saku / repeated stasis wish | he wants Haru ambiguity, the Yuko/Yua domestic configuration, and Yuko's arcade rhythm to continue | postponement is a durable self-authored strategy that protects real ordinary goods while avoiding transition | the wish is not equivalent to deception and does not erase his later honest refusal | `[V05S:p-0053#p0064-p0083]`, `[V05S:p-0058#p0053-p0060]`, `[V05S:p-0060#p0076-p0080]` |
+| SA-071 | Haru / necktie and ribbon | her peerlike tie style is genuine, yet she asks about ribbon-coded femininity and admits mutual attraction | an authentic presentation need not exclude curiosity about another form or desire to be seen differently | Saku returns the tie; the story does not require a permanent makeover | `[V05S:p-0059#p0014-p0059]` |
+| SA-072 | Yuzuki / pre-love theory | she repeatedly concludes that similarity with Saku makes love impossible | self-analysis is an authored map subject to later falsification; confidence is not omniscience | her observations of similarity and Haru's distinct access remain valid evidence | `[V05S:p-0052#p0023-p0030]`, `[V05S:p-0074#p0122-p0125]` |
+| SA-073 | Yuzuki / multiple modes | she identifies her class, public, and teammate presentations as real but partly strategic | authenticity lies in retained selection and revision among modes, not discovery of one hidden unperformed self | strategy can still create distance and unequal knowledge | `[V05S:p-0074#p0079-p0088]` |
+| SA-074 | Yuzuki and Haru / partnership | they read, challenge, teach, and imagine future partners through each other's qualities before either names romantic love | a primary nonromantic relation can be a developmental model for later desire without becoming merely a romance instrument | formative symmetry does not prove mutual romance between them | `[V05S:p-0074#p0133-p0200]`, `[V05S:p-0074#p0291-p0317]` |
+| SA-075 | Yuko / hero and ordinary observer | Saku expects her to mythologize his pain, yet she later reads his strain and offers undemanding relief | a recipient can participate in another's heroic enclosure without being incapable of ordinary recognition | the two tendencies remain in tension; neither cancels the other | `[V05S:p-0042#p0040-p0068]`, `[V05S:p-0060#p0054-p0065]` |
+
+## Authenticity rule after the V05 Special Edition
+
+> **A practiced identity is authentic when its user can select, revise, and answer for it across contexts. Self-theories, relational roles, and beautiful forms remain provisional maps: their sincerity does not make them exhaustive, and later development may falsify their predictions without revealing the earlier self as fake.**
+
+## V05-special revision state
+
+- Saku's stasis impulse → **STRENGTHEN / HISTORICIZE** as a repeated form whose value and cost coexist.
+- Yuzuki's performance as chosen interface → **STRENGTHEN**, with several real strategic modes and direct evidence that her self-theories can fail.
+- Haru's tomboy presentation → **REVISE against exhaustiveness**; it is authentic and compatible with gendered curiosity and desire.
+- Yuko's hero-facing recognition → **STRENGTHEN / QUALIFY** through ordinary counterevidence.
+- primary female relationships as developmental structure → **STRENGTHEN decisively** through Yuko/Yua friendship and Yuzuki/Haru partnership.
+- V05 current romantic state → **PRESERVE**; no supplement identifies Saku's unnamed girl or establishes a couple.

@@ -1,10 +1,10 @@
 ---
 series: CHIRAMUNE
 artifact_type: specialist_synthesis
-scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
+scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
 latest_analyzed_main: V05_REGULAR_MAIN
-generation: V0.1
+generation: V0.2
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -12,7 +12,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Fukui locality, departure, and ordinary youth — synthesis through V05 main
+# Fukui locality, departure, and ordinary youth — synthesis through V05 Special Edition
 
 ## Responsibility and promotion decision
 
@@ -167,7 +167,7 @@ Fields, roads, mountains, courts, and running routes store bodily knowledge. Loc
 - Asuka's researched departure does not guarantee occupational success or permanent independence.
 - Saku's love of local life does not authorize him to ask Asuka to stay, but respect for her choice does not prove he lacks standing to make any request.
 - Photographs and keepsakes preserve evidence of a prior day; they do not preserve the social configuration itself.
-- The V05 special edition and every V06+ source remain outside this specialist boundary.
+- Advertising and creator commentary do not establish diegetic locality, and every V06+ source remains outside this specialist boundary.
 
 ## XII. Current specialist model
 
@@ -182,3 +182,44 @@ Fields, roads, mountains, courts, and running routes store bodily knowledge. Loc
 - Do new cities or regions receive the same material treatment as Fukui and Tokyo?
 - Does group repair create new shared routes instead of trying to resume the old ones?
 - When current-source analysis advances, is a separate adulthood/aspiration specialist needed, or does it remain responsibly housed here?
+
+## XIV. V05 Special Edition update — local scarcity, repeated routes, and historical depth
+
+The component-routed booklet adds earlier scenes from a later source boundary. It does not merely repeat names already present in the main volumes; it shows how local infrastructure shapes minor decisions before those sites acquire major dramatic weight.
+
+### Rivers and retail distribute ordinary intimacy
+
+After the failed Kenta visit, Saku and Yua take convenience-store drinks to the river because cafes are not ubiquitous in Fukui `[V05S:p-0041#p0033-p0036]`. In another rain scene, a local music-shop errand and a shared umbrella convert North-Hokuriku weather into a small choice between future equipment and present company `[V05S:p-0044#p0024-p0055]`.
+
+These are not claims that scarcity is inherently intimate. Limited retail density changes where adolescents can pause, what they carry, and how a route becomes shared.
+
+### Local places are practical systems before they become symbols
+
+The stories use Elpa and JINS for Kenta's planned glasses, Route 8 and a park for private conversation, Happiring as the recognizable station-side meeting surface, Starbucks as a comparatively marked cafe, the batting center as emotional release, and European-ken beside a practice ground as the site of Asuka's accidental discovery `[V05S:p-0042#p0003-p0040]`, `[V05S:p-0061#p0003-p0038]`, `[V05S:p-0059#p0042-p0059]`, `[V05S:p-0069#p0003-p0034]`.
+
+The accumulated effect is a route network. Locality matters because competence, chance encounters, and disclosure depend on where people can actually go.
+
+### Hachiban functions as routine, obligation, and social alternative
+
+The revised cap story sends Saku from the Tokyo train into Fukui air, Kuranosuke's Hachiban demand, Happiring, and coffee with Yuzuki `[V05S:p-0061#p0003-p0066]`. In first-year autumn, Yuzuki uses Hachiban as a plausible shared plan and Haru calls it a Fukui-resident soul standard while rejecting karaoke with Saku `[V05S:p-0074#p0252-p0278]`.
+
+The chain makes a regional food venue neither quaint backdrop nor static identity token. It is a routine obligation, joke, exit route, and ordinary dyadic alternative.
+
+### Departure awareness begins before formal plans
+
+Asuka's V02-associated earbud scene imagines where both will be ten years later while Saku wishes the river moment could continue `[V05S:p-0049#p0014-p0035]`. The V03 escape story shows childhood signals and blue-moon memory reused for a present departure from home `[V05S:p-0063#p0003-p0052]`. A V04-associated story then turns class-year distance into spatial access: Asuka nearly remains outside the baseball ground, enters, and measures the remaining nine months `[V05S:p-0069#p0017-p0034]`.
+
+V05's deliberate last summer is therefore a mature phase of a longer practice: imagined distance, chosen temporary departure, entry despite structural distance, then bounded local memory-making.
+
+## XV. Current specialist model after the V05 Special Edition
+
+> **Through V05 main and its safely integrated booklet, Fukui operates as a repeated route network whose specific weather, retail density, transit, food, sport sites, and river spaces distribute ordinary intimacy and constraint. The supplement adds historical depth: small choices about drinks, reeds, glasses, ramen, practice fields, and meeting places already train the characters in how to stay, leave, wait, and enter. Departure is meaningful because those routines are materially dense; locality remains neither destiny nor moral essence.**
+
+## XVI. V06 research questions
+
+- how the V05 fracture changes access to shared local routes;
+- whether Saku's baseball becomes a sustainable local practice outside Fujishi membership;
+- whether anticipated departure produces practical transport, housing, or communication consequences;
+- whether Yua's music and domestic competence gain destinations not organized around Saku;
+- whether new settings receive comparable material specificity;
+- whether home becomes requestable and revisable rather than silently maintained.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V05_MAIN
-source_boundary: "Japanese main Volumes 01-05; V03 in-EPUB bonus and separate booklet already integrated; regular V05 read prospectively from frozen V04; V05 special edition and V06+ unopened"
-generation: V0.5
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V05_SPECIAL_EDITION
+source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
+generation: V0.6
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -291,3 +291,37 @@ The four-part intervention test now includes an explicit romantic application:
 - accompaniment without control → **STRENGTHEN decisively** through Yua's final action.
 - outcome as method vindication → **REJECT again**; no later kindness validates Kaito's assault or Saku's self-punishment.
 - team safety/accountability → **OPEN**; V05 main supplies results, not a procedural retest.
+
+# V05 special-edition update — early method history and requested assistance
+
+## V05-special entries
+
+| ID | Intervention | Agency / authority question | Supplemental assessment | Locator |
+|---|---|---|---|---|
+| AI-071 | Saku studies Kenta's cited light novels | can an intervener reduce projection before acting? | meaningful perspective-taking and recognition of intrusive standing; Saku still authors the operation and outcome theory | `[V05S:p-0041#p0003-p0051]` |
+| AI-072 | Yua evaluates Kenta's present hostility | may later benefit erase present annoyance? | no; she explicitly holds both states and treats rough treatment as a hypothesis grounded in her experience, not proof of Kenta's consent | `[V05S:p-0040#p0040-p0047]` |
+| AI-073 | Saku gives an umbrella through a self-interested frame | can care preserve the recipient's ability to accept without debt? | strong low-stakes face-preserving method: the recipient gains shelter without being forced into gratitude or disclosure | `[V05S:p-0044#p0024-p0037]` |
+| AI-074 | Saku/Yuko enlist Kenta in the decoy purchase | does agreement to do “anything” authorize a specific embarrassing method? | no; the comedy supplies additional early evidence that generalized consent is not informed consent to method | `[V05S:p-0054#p0003-p0048]` |
+| AI-075 | Yuko creates an arcade outing for strained Saku | can care answer visible distress without extracting its cause? | strong non-extractive ordinary support: she notices, offers relief, and accepts banter instead of demanding a confession | `[V05S:p-0060#p0054-p0065]` |
+| AI-076 | Haru requests a future accepted challenge | can a person reserve a later bid without demanding a current answer? | early consent-sensitive protocol; Saku agrees to receive the future challenge while its content remains Haru's to author | `[V05S:p-0053#p0053-p0059]` |
+| AI-077 | Yuzuki supports Haru's exit from Saku | may one partner interpret and act without claiming the other's interior? | proportionate situational reading: Yuzuki supplies a socially graceful exit, then discusses Haru's feeling afterward without forcing a present confession | `[V05S:p-0074#p0252-p0308]` |
+| AI-078 | Yuzuki/Haru convert underwear embarrassment into a one-on-one wager | can help remain recipient-authored inside teasing competition? | yes: Haru revises the imposed condition into an explicit request that Yuzuki teach her if Haru wins | `[V05S:p-0074#p0142-p0150]` |
+
+## Agency rule after the V05 Special Edition
+
+The V05-main refusal/aftermath rule remains controlling. The booklet adds historical granularity:
+
+1. perspective-taking improves an intervention but does not itself confer authority;
+2. present annoyance remains morally relevant even if later reinterpretation is possible;
+3. generalized willingness never substitutes for method-specific consent;
+4. low-pressure care can preserve face, privacy, and the recipient's right not to explain;
+5. future relational bids may be responsibly prepared through an agreement to listen rather than a demand to answer now;
+6. teasing, competition, and interpretation become agency-expanding when the affected person can revise the terms and request the help.
+
+## V05-special revision state
+
+- consent to goal versus consent to method → **STRENGTHEN historically** through the Kenta purchase and Yua's explicit present-annoyance assessment.
+- non-extractive care → **STRENGTHEN / BROADEN** from Yua's V05 crisis presence to Saku's umbrella framing and Yuko's ordinary relief.
+- Haru's future protocol → **STRENGTHEN / HISTORICIZE** as a repeated agreement.
+- Yuzuki/Haru partnership authority → **STRENGTHEN** through requested assistance and proportionate situational cover.
+- current V05 romantic jurisdiction → **PRESERVE**; older bids do not create present consent, reciprocity, or couple status.
