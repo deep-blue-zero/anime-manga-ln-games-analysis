@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.6
+scope: AGENCY_INTERVENTION_RESPONSIBILITY_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -325,3 +325,40 @@ The V05-main refusal/aftermath rule remains controlling. The booklet adds histor
 - Haru's future protocol → **STRENGTHEN / HISTORICIZE** as a repeated agreement.
 - Yuzuki/Haru partnership authority → **STRENGTHEN** through requested assistance and proportionate situational cover.
 - current V05 romantic jurisdiction → **PRESERVE**; older bids do not create present consent, reciprocity, or couple status.
+
+# V06 update — autonomous burden, mixed motive, and repair jurisdiction
+
+## V06 entries
+
+| ID | Intervention | Agency / authority question | V06 assessment | Locator |
+|---|---|---|---|---|
+| AI-079 | Yua rejects Saku's self-punishment | may accountability require the person who caused pain to harm or neglect himself? | no; she distinguishes responsibility from self-forgiveness-through-pain, and Saku accepts a basic-care limit | `[V06:p-0010#p0124-p0168]` |
+| AI-080 | first-year Saku breaks Yua's glasses and redirects her life | does accurate recognition authorize coercive method? | no; he sees a real trapped self and helps enable later disclosure, but recognition and beneficial outcome do not erase invasive, risky action | `[V06:p-0015#p0131-p0239]`, `[V06:p-0017#p1491-p1662]` |
+| AI-081 | Asuka demands heart-level disclosure | may a supporter ask for more than event facts? | proportionate inside an intimate relationship, but her unspoken romantic stake limits any claim of neutrality | `[V06:p-0020#p0263-p0428]` |
+| AI-082 | Haru recruits Atomu for full-strength baseball | can a friend author a care method around recipient-specific competence? | yes, with bounded risk and a voluntary activity Saku recognizes as effective; Atomu retains his own reason and future boundary | `[V06:p-0022#p0391-p0539]` |
+| AI-083 | Kenta rejects Saku/Kazuki paralysis | may a junior return an intervener's own method against him? | yes; he grounds the challenge in enacted growth and asks for action rather than dictating a romantic outcome | `[V06:p-0024#p0582-p0679]` |
+| AI-084 | Yua visits Yuko on three consecutive days | may repair include pressure and an ultimatum? | bounded but mixed: she accepts initial refusal and preserves exit, then makes continued withdrawal carry the consequence of her own romantic action | `[V06:p-0025#p0203-p0458]`, `[V06:p-0027#p0001-p0038]` |
+| AI-085 | Yua convenes Saku/Yuko disclosure | who may decide whether waiting and jealousy are tolerable? | each romantic subject; Saku may disclose uncertainty but cannot pre-emptively define another's chosen pursuit as dishonest | `[V06:p-0029#p0300-p0381]` |
+| AI-086 | Yua asks Saku to let others carry his burden | does protection permit withholding from people who request shared risk? | no; mutual importance supports a request for disclosure and shared burden, while Saku still retains authority over eventual romantic choice | `[V06:p-0029#p0441-p0515]` |
+| AI-087 | Kaito directly confesses to Yuko | can direct asking repair previously delegated desire? | it restores Yuko's authority to answer and Kaito accepts refusal; it does not retrospectively legitimate assault | `[V06:p-0024#p0230-p0448]` |
+| AI-088 | Yuko provokes Yua's full disclosure | may intentionally sharp conflict expand agency? | high-risk but mutually corrective here: Yuko names what Yua suppresses, then stops and repairs when collapse begins; outcome does not create a general license for provocation | `[V06:p-0031#p0002-p0303]` |
+
+## Agency rule after V06
+
+V06 adds **burden jurisdiction** to the ledger:
+
+1. causing pain does not authorize or require self-harm;
+2. accurate recognition does not confer unlimited authority over method;
+3. care may ask for disclosure without dictating its content or romantic result;
+4. a person may offer uncertainty and request time, but the recipient decides whether waiting is acceptable;
+5. self-sacrifice becomes controlling when it pre-decides another person's tolerable burden or desired future;
+6. repair can include pressure, anger, and consequence only with preserved exit, answer authority, and subsequent accountability.
+
+## V06 revision state
+
+- accountability versus self-punishment → **REVISE / IMPROVE**; Saku accepts the distinction and stops treating bodily harm as repayment.
+- consent to emotional burden → **PROMOTE**; each person owns the decision to wait, remain, leave, or receive uncertainty.
+- Saku help-request capacity → **STRENGTHEN RECEPTION / KEEP INITIATION OPEN**.
+- Yua intervention authority → **STRENGTHEN / QUALIFY**; she architects repair while openly implicated in the romantic field.
+- Kaito delegated sacrifice → **REVISE METHOD / PRESERVE WRONG** through direct confession and accepted refusal.
+- group repair → **ESTABLISH as enacted** without treating positive outcome as blanket validation of every confrontational tactic.

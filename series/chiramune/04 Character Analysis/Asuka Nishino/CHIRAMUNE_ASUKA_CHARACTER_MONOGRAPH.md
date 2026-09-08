@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: ASUKA_NISHINO_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.4
+scope: ASUKA_NISHINO_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.5
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Asuka Nishino — V01–V05 Special Edition character monograph
+# Asuka Nishino — V01–V06 character monograph
 
 ## Scope and promotion basis
 
@@ -293,3 +293,42 @@ When Haru later reports finding her answer, Asuka recognizes the younger girl's 
 - whether the same-age relation survives outside bounded summer play;
 - how rivalry with Haru and friendship with the wider group change after Yuko's refusal;
 - direct evidence only regarding the unnamed girl.
+
+# V06 longitudinal revision
+
+## She asks not to be excluded from Saku's pain
+
+Asuka detects Saku's mask from his failed moon response and says unknown wounds may be deeper than known ones. She explicitly asks not to be shut out; Saku tells her the event and finally says that it hurts `[V06:p-0014#p0120-p0208]`.
+
+This is accepted invited help, not Saku-originated request. It nevertheless gives Asuka access to an unperformed statement of need.
+
+## Departure distance is relational before it is geographic
+
+Asuka fears that a single romantic failure could end their bond because she lacks classmates' repeated ordinary access. She prepared for leaving Fukui but not for losing the relation before departure `[V06:p-0014#p0212-p0301]`.
+
+The fear sharpens her finite-time model: distance is produced by calendars, class year, and who can return tomorrow, not only kilometers.
+
+## Her grandmother supplies a bond model Asuka then tests
+
+At her grandmother's house, Obon practice yields the lesson that separation becomes final only when people intentionally cut connection; a held end preserves a route. The local family visit gives Saku the metaphor he later applies to Yuko and Kaito `[V06:p-0020#p0072-p0259]`.
+
+Asuka then demands heart-level rather than factual disclosure. She argues that Saku is too accustomed to being loved and therefore does not know how to love `[V06:p-0020#p0263-p0417]`.
+
+## The moon role remains chosen and constraining
+
+After the confrontation, Asuka privately says a crooked heart cannot become his moon. The advice is therefore not neutral: she suppresses her own romantic interest to preserve the moral cleanliness of the interpretive role `[V06:p-0020#p0419-p0428]`.
+
+This repeats the same withholding problem she identifies in Saku. Her recognition is real; the `Asuka-nee`/moon position still limits mutual disclosure.
+
+## Post-V06 current model
+
+> **Asuka remains Saku's aspirational interpreter and a self-author under finite time, but V06 exposes the cost of keeping that role morally clean. She asks for access to his pain, receives a direct statement that he hurts, and gives him a bond model rooted in local family ritual. Yet she withholds her own romantic stake so she can remain his moon. Saku includes an admired ideal among his plural important girls, but V06 does not identify Asuka as one singular beloved, establish reciprocity, or solve departure.**
+
+## V06.5 watchlist
+
+- whether she shares the romantic stake hidden inside her counsel;
+- whether Saku makes a bounded request that respects her future;
+- whether anticipated departure becomes practical change in access, housing, or communication;
+- whether she can receive ordinary care without failed-independence shame;
+- whether grandmother/family relations continue as an independent support system;
+- direct reciprocal evidence only before any selection or couple claim.

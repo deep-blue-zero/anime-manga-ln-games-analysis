@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.7
+scope: SELF_AUTHORSHIP_PERFORMANCE_AUTHENTICITY_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -290,3 +290,36 @@ The booklet strengthens the distinction between a practiced form and a fixed ess
 - Yuko's hero-facing recognition → **STRENGTHEN / QUALIFY** through ordinary counterevidence.
 - primary female relationships as developmental structure → **STRENGTHEN decisively** through Yuko/Yua friendship and Yuzuki/Haru partnership.
 - V05 current romantic state → **PRESERVE**; no supplement identifies Saku's unnamed girl or establishes a couple.
+
+# V06 update — authored mixed motive and the end of purified roles
+
+## V06 governing revision
+
+V06 rejects the demand that an authentic account present one clean motive. Yuko's confession can seek others' freedom and protect her own position; Yua's repair can serve her best friend and her romantic priority; Saku's honest refusal can coexist with avoidance and enjoyment of being loved. Authenticity becomes the capacity to name and answer for mixed motives without turning them into a license for harm.
+
+## V06 entries
+
+| ID | Subject / scene | Source fact | Analytical implication | Limit / counterevidence | Locator |
+|---|---|---|---|---|---|
+| SA-076 | Yua / `ordinary` performance | after her mother's departure she uses study, housework, low social visibility, and non-disclosure to prove family stability | ordinary is an authored survival form, not a natural essence; its success repeats the exclusion that hurt her | the family also contains real love and happy memory; performance is not simple falsity | `[V06:p-0015#p0003-p0128]`, `[V06:p-0017#p0843-p0988]` |
+| SA-077 | Saku / humiliating self-account | he names resentment, stasis, enjoyment of affection, plural importance, and fear of romantic naming | he steps outside the heroic role by disclosing what cannot be made beautiful | Yua and Kenta elicit the move; spontaneous help-seeking remains open | `[V06:p-0029#p0129-p0257]` |
+| SA-078 | Yuko / confession motive | she wanted public closure for others and also defended her territory, feared loss, and would have accepted reciprocation | authenticity is accountable multiplicity rather than retrospective purification | mixed motive does not erase the tactical harm of public pressure | `[V06:p-0027#p0230-p0449]`, `[V06:p-0027#p0542-p0686]` |
+| SA-079 | Yuko / observed love | she distinguishes initial attraction from accumulated knowledge of Saku's virtues, faults, gestures, and lonely habits | her romantic identity is maintained through repeated attention, not only a heroic founding story | detailed recognition still does not require Saku to reciprocate | `[V06:p-0033#p0103-p0217]` |
+| SA-080 | Yua / facilitator role | she creates repair while admitting she chose Saku, enjoyed exclusivity, and resented rival access | care is authentic but not exhaustive of her desire; she refuses to disappear inside the useful-girl role | repair success does not prove every provocation was necessary | `[V06:p-0031#p0002-p0303]`, `[V06:p-0033#p0220-p0255]` |
+| SA-081 | Yuzuki / elegance and katsudon | she abandons the meal expected of polished Yuzuki and chooses the local food most likely to nourish Saku | an authored aesthetic can revise itself toward its recipient without becoming less Yuzuki | the private aside shows that practical success does not eliminate romantic inhibition | `[V06:p-0022#p0001-p0342]` |
+| SA-082 | Haru / team language | she uses sport and team burden-sharing as her authentic support grammar while privately naming its romantic limitation | a genuine role can both enable action and constrain the form in which desire becomes speakable | her agreed future romantic challenge is not enacted here | `[V06:p-0022#p0391-p0573]`, `[V06:p-0024#p0001-p0057]` |
+| SA-083 | Saku / future romantic process | he refuses immediate dating and commits to face each relation, including speaking first if Yuko's feeling becomes love | self-authorship moves from avoidance to a process he owns without promising an outcome | a process commitment is not chosen partner status | `[V06:p-0033#p0261-p0342]` |
+
+## Authenticity rule after V06
+
+> **An authentic account may contain conflicting motives. Its ethical force comes from making those motives answerable to affected people, preserving their choices, and revising roles that require self-erasure—not from discovering one pure feeling beneath every performance.**
+
+## V06 revision state
+
+- Saku's heroic performance → **REVISE through disclosed ugliness**; he can name conduct and desire that do not flatter his persona.
+- Yuko's exuberant wife role → **REVISE / HISTORICIZE** as both lived affection and territorial protection.
+- Yua's ordinary caretaker identity → **REVISE / OPEN** through family history, admitted priority, conflict, and requested selfishness.
+- Yuzuki's polished presentation → **STRENGTHEN as revisable interface** through recipient-directed ordinary food.
+- Haru's teammate identity → **PRESERVE + EXPOSE LIMIT**; it enables real care while constraining romantic speech.
+- directness as purity → **REJECT again**; direct confession may carry mixed motive, and indirect care may remain fully chosen.
+- couple/selection state → **KEEP OPEN**; plural importance and future process do not identify one beloved.

@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.6
+scope: SOCIAL_STATUS_INCLUSION_GROUP_DYNAMICS_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -308,3 +308,44 @@ The booklet strengthens the group's non-harem topology without denying romantic 
 - Saku as sole interpreter/organizer → **DOWNGRADE further** through Yua's social modeling and Yuzuki/Haru reciprocal reading.
 - Saku's desire to preserve group form → **STRENGTHEN / HISTORICIZE** before the enacted V05 split.
 - post-refusal group survival → **OPEN**; all booklet events precede the refusal and cannot supply aftermath evidence.
+
+# V06 update — reconnected network after explicit exclusion
+
+## V06 entries
+
+| ID | Group event | Source fact | Structural reading | Locator |
+|---|---|---|---|---|
+| SG-062 | post-refusal distribution | Saku withdraws; Yua visits him daily; Yuko responds only to Kaito; other members maintain separate routes | the group survives first as a network of dyadic care rather than a collective gathering | `[V06:p-0020#p0003-p0068]`, `[V06:p-0022#p0263-p0387]` |
+| SG-063 | friends use distinct support roles | Asuka interprets, Yuzuki cooks, Haru mobilizes sport, Kazuki/Kenta confront reasoning, and Yua maintains life | Saku is no longer the sole organizer/interpreter; group competence is distributed across non-equivalent practices | `[V06:p-0020#p0263-p0428]`, `[V06:p-0022#p0001-p0573]`, `[V06:p-0024#p0501-p0679]` |
+| SG-064 | Kaito and Kazuki confront male withdrawal | Kazuki challenges Kaito's delegated sacrifice and later admits his own displaced shame; Kenta challenges both older boys' fatalism | male friendship becomes a correction system rather than a silent alliance around female outcomes | `[V06:p-0024#p0184-p0223]`, `[V06:p-0024#p0565-p0679]` |
+| SG-065 | Yua stages triadic repair | she creates separate dyadic contact, then joins Saku and Yuko for full disclosure | re-entry is paced and authored by someone other than Saku; mediation does not erase the mediator's stake | `[V06:p-0025#p0203-p0458]`, `[V06:p-0027#p0042-p0172]` |
+| SG-066 | Yuko/Yua first fight | both admit jealousy and non-primacy while preserving best friendship | inclusion no longer depends on polite suppression; conflict becomes evidence of equal standing and durable dyadic capacity | `[V06:p-0031#p0002-p0303]`, `[V06:p-0033#p0002-p0094]` |
+| SG-067 | collective festival reunion | Yuko apologizes, Saku/Kaito repair contact, and everyone resumes food, play, Ramune, and fireworks | group repair is enacted, but changed gaze, spacing, and voice prevent a status-quo-reset reading | `[V06:p-0033#p0353-p0558]` |
+
+## Group rule after V06
+
+V06 replaces the binary of intact group versus destroyed group with a network model:
+
+1. collective absence can coexist with active dyadic survival;
+2. distributed competencies reduce dependence on Saku as sole social architect;
+3. explicit romantic scarcity changes access without making friendship impossible;
+4. repair requires direct answer and apology but need not equal restored innocence;
+5. inclusion after conflict is a renewed choice made within altered status knowledge.
+
+## V06 revision state
+
+- post-refusal survival → **RESOLVE as material repair**.
+- unchanged-group restoration → **REJECT**; the group explicitly retains altered distance and knowledge.
+- Saku as central organizer → **DOWNGRADE further**; Yua, Kenta, Yuzuki, Haru, Asuka, and Kazuki carry distinct repair functions.
+- female friendship under rivalry → **STRENGTHEN** through Yuko/Yua conflict, non-primacy, and repair.
+- male friendship and responsibility → **STRENGTHEN** through direct correction, confession, apology, and renewed contact.
+- romantic difference as automatic expulsion → **REJECT** at this boundary; incompatible claims remain inside a changed collective.
+
+## V06.5 group watchlist
+
+- whether component chronology occurs before or after the V06 repair;
+- whether resumed group practice becomes ordinary routine rather than one festival event;
+- whether Yua remains an organizer without being assigned permanent mediator labor;
+- whether Yuko/Yua and Yuzuki/Haru dyads can disagree without group-wide crisis;
+- whether Kaito's, Kazuki's, and Kenta's corrective roles persist;
+- whether school, club, family, and class structures create new inclusion pressures.

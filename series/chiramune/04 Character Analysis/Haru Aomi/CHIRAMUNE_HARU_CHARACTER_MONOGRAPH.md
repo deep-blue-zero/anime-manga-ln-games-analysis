@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: HARU_AOMI_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.3
+scope: HARU_AOMI_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.4
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Haru Aomi — V01–V05 Special Edition character monograph
+# Haru Aomi — V01–V06 character monograph
 
 ## Scope and promotion basis
 
@@ -290,3 +290,42 @@ Haru's relation with Saku develops partly through this partnership but is not re
 - whether Yuzuki partnership survives explicit scarcity and post-Yuko group change;
 - whether expanded gendered presentation remains chosen rather than compulsory;
 - whether improved dyadic consent generalizes to transparent team governance.
+
+# V06 longitudinal revision
+
+## Romance breaks the competition model before it produces a challenge
+
+After Yuko's confession, Haru recognizes that romance has no shared start signal, rules, score, or repeatable training. Her prior future-challenge agreement does not guarantee that the field or participants will remain available `[V06:p-0012#p0187-p0351]`.
+
+This is a material self-theory revision. Competitive grammar still gives Haru a way to act, but it cannot make love fair through procedure alone.
+
+## Yuzuki remains the first container for scarcity pain
+
+Haru and Yuzuki respond to the fracture by lying together, sharing a meal plan, and joining hands. Their partnership does not require either to deny desire or convert the other into an opponent to defeat `[V06:p-0012#p0354-p0366]`.
+
+The dyad therefore survives the first explicit scarcity test. The promised contest itself remains unresolved.
+
+## She authors care through embodied competence
+
+Haru decides that conversation, letters, and conventional comfort would be inauthentic from her. She recruits Atomu to give Saku a full-strength baseball encounter, and Saku says it provides the first genuine relief of the week `[V06:p-0022#p0391-p0539]`.
+
+Her method is imaginative rather than narrow: she uses her knowledge of Saku, another athlete's capacity, and play to create an experience she cannot provide alone.
+
+## Team language both distributes burden and limits her bid
+
+Haru tells Saku that everyone is a companion before being man or woman, and that he need not carry all clean and dirty feelings. The insight comes from team leadership and their history as partners `[V06:p-0024#p0001-p0049]`.
+
+Her private aside—this is the only way she can be beside him—shows the cost. Team idiom enables support while keeping romantic desire below direct present request. Her V05 challenge protocol is not completed in V06.
+
+## Post-V06 current model
+
+> **Haru's V06 growth lies in accepting that romance cannot be made into a fair scored competition while still using athletic partnership to provide real, recipient-specific care. She mobilizes Atomu, gives Saku embodied relief, and distributes burden across the team rather than demanding a romantic answer. Yuzuki remains her independently primary partner and first container for rivalry pain. The unresolved tasks are the promised challenge, the meaning of her `kejime`, and whether dyadic consent growth reaches team governance.**
+
+## V06.5 watchlist
+
+- whether she completes the `kejime` and enacts the promised challenge;
+- whether she can ask for an answer without importing a competition score;
+- whether Yuzuki partnership supports direct simultaneous romantic agency;
+- whether teammate care becomes ordinary reciprocal dependence rather than crisis intervention;
+- whether safety, workload, and dissent become transparent team practices;
+- whether baseball with Saku remains chosen pleasure rather than proof.

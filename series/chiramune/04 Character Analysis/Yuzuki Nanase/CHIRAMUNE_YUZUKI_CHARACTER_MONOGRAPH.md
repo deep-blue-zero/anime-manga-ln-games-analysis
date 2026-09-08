@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUZUKI_NANASE_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.6
+scope: YUZUKI_NANASE_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuzuki Nanase — V01–V05 Special Edition character monograph
+# Yuzuki Nanase — V01–V06 character monograph
 
 ## Scope
 
@@ -456,3 +456,40 @@ These scenes historicize the V05 ladder of hypothetical dating request and bound
 - whether she supports Yuko without returning to invisible complaint management;
 - whether Saku's jealousy becomes shared knowledge rather than mutually legible cover;
 - whether edition-specific cap wording gains any later direct referent without overclaiming `記憶`.
+
+# V06 longitudinal revision
+
+## She regulates rivalry pain with Haru before approaching Saku
+
+After the refusal, Yuzuki and Haru lie together, share food plans, and hold hands. Neither converts the other's pain into evidence that one should withdraw. Their partnership remains the immediate container for scarcity `[V06:p-0012#p0187-p0366]`.
+
+## Safe praise becomes a new form of distance
+
+Saku suppresses his habitual flirtation because Yuzuki has become too important, then gives a generic compliment. Yuzuki nearly cries; both recognize that the formally careful answer is relationally false `[V06:p-0020#p0528-p0610]`.
+
+This confirms that restraint is not automatically respect. Their shared fluency makes deliberately flattened language especially legible.
+
+## Sauce katsudon revises her aesthetic practice
+
+Yuzuki chooses a local, ordinary dish rather than polished cuisine. She wants Saku to say it is delicious and regain strength, not merely call the performance “like Nanase.” Her instruction not to misdirect pride applies her aesthetic discipline to care for a recipient `[V06:p-0022#p0001-p0337]`.
+
+The intervention is direct and effective, but her private aside says she still cannot communicate as fully as she wishes `[V06:p-0022#p0341-p0342]`.
+
+## Group return preserves rather than resolves her trajectory
+
+At the festival Saku corrects his earlier false distance and tells Yuzuki the apron suited her. Their familiar banter returns with new acknowledged stakes `[V06:p-0033#p0462-p0476]`.
+
+Yuzuki remains one of several girls Saku describes through a distinct important relation. V06 does not identify her as the singular V05 girl, enact the hypothetical dating request, or resolve her pact with Haru.
+
+## Post-V06 current model
+
+> **Yuzuki remains a strategically fluent, revisable self whose shared aesthetic with Saku can both create intimacy and conceal it. V06 advances her through recipient-directed ordinary care: sauce katsudon matters because it nourishes him, not because it perfects her image. Her partnership with Haru survives explicit scarcity and contains pain before either acts toward Saku. Corrected praise and resumed banter strengthen mutual recognition, but no present dating request, reciprocal romantic answer, or couple appears.**
+
+## V06.5 watchlist
+
+- whether she converts the hypothetical dating rehearsal into a present request;
+- whether Saku shares his jealousy or attraction rather than restoring cover;
+- whether ordinary practical care generalizes beyond crisis;
+- whether the Haru partnership explicitly negotiates simultaneous bids or answers;
+- whether she can support Yuko while expressing competing desire directly;
+- direct reciprocal evidence only before any selection claim.

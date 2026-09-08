@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: claim_revision_ledger
-scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.6
+scope: PROSPECTIVE_CLAIM_TRANSITIONS_THROUGH_VOLUME_06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -356,3 +356,46 @@ Their origin state is `ESTABLISHED_OR_REVISED_AT_V05_SPECIAL_EDITION`. Exact loc
 | V06-Q06 | How do Yua's chosen priority and independent friendship coexist after the fracture? | `OPEN` | Yua-authored action and relationship evidence; do not infer from care alone |
 | V06-Q07 | Does Saku's renewed baseball remain selectable ordinary practice? | `OPEN` | voluntary participation, changed stakes, and safety/accountability |
 | V06-Q08 | Do Yuzuki/Haru partnership norms remain intact when romantic stakes become explicit? | `OPEN` | direct dyadic conduct and conflict repair |
+
+## V06 prospective-question dispositions
+
+| Test ID | Disposition | Evidence-controlled result |
+|---|---|---|
+| V06-Q01 | `CLARIFY / KEEP OPEN` | Saku names Yuko and multiple other girls as equally important but cannot name which feeling is love; no singular beloved or couple is established. |
+| V06-Q02 | `MATERIAL REPAIR` | Yuko/Yua, Saku/Yuko, Saku/Kaito, and the collective reconnect through direct speech and resumed practice; the old equilibrium is not restored. |
+| V06-Q03 | `MAJOR IMPROVEMENT / PARTIAL` | Saku rejects self-punishment and shares humiliating motives, but the major disclosures are prompted; no clear unprompted support request appears. |
+| V06-Q04 | `STRENGTHEN / OPEN` | Yuzuki and Haru give distinct agent-authored care; Haru's final challenge and every romantic outcome remain open. |
+| V06-Q05 | `MAJOR STRENGTHEN` | Yuko owns mixed motive, refuses Kaito, demonstrates accumulated ordinary recognition of Saku, and retains love without extracting a promise. |
+| V06-Q06 | `MAJOR STRENGTHEN` | Yua supplies independent history, architects repair, admits jealousy/priority, and rejects self-erasure while preserving Yuko friendship. |
+| V06-Q07 | `REOPEN / UNRESOLVED` | Baseball is voluntarily enacted as shared pleasure and Atomu offers a future route; no durable choice is made. |
+| V06-Q08 | `STRENGTHEN / OPEN` | Yuzuki/Haru mutual regulation remains available under scarcity, but their romantic contest protocol is not resolved. |
+
+## Claims established or revised at the V06 main freeze
+
+| ID | Prior state | Transition | Current formulation | Evidence route |
+|---|---|---|---|---|
+| F76 | V05 converted accountability into self-punishment and support refusal | `REVISE / IMPROVE` | Yua separates responsibility from self-harm; Saku accepts care and later discloses shame, though request initiation remains open. | `CHIRAMUNE_V06_PROSPECTIVE_FREEZE.md`, `F79-F80` |
+| F77 | V05 named one unidentified girl in Saku's heart | `REVISE AGAINST SINGULAR INFERENCE` | V06 names Yuko and multiple other girls as equally important while Saku cannot name love; no singular beloved is identified. | `F77-F78` |
+| F78 | V05 ended in enacted fracture with repair unknown | `REVISE / MATERIAL REPAIR` | central dyads and the group reconnect through disclosure and renewed practice, with changed distance rather than restored stasis. | `F89` |
+| F79 | Yuko's confession was direct but its motive remained incompletely known | `REVISE / DIFFERENTIATE` | the act combines liberation of others' choices, earlier territoriality, fear, and willingness to accept success. | `F81-F82` |
+| F80 | Yua chose Saku without demanding status | `STRENGTHEN / SELF-AUTHOR` | she architects repair, admits self-interested priority and jealousy, and rejects facilitator-only self-erasure. | `F83-F84` |
+| F81 | Kaito's concealed love produced assault and delegated responsibility | `REVISE METHOD / PRESERVE WRONG` | he asks Yuko directly, accepts refusal, and reopens friendship; later repair does not justify or erase the assault. | `F85-F86` |
+| F82 | Haru/Yuzuki/Asuka bids were directional but unresolved | `STRENGTHEN / DIFFERENTIATE` | each gives a distinct care intervention under explicit scarcity; none becomes Saku's identified selection. | `F87` |
+| F83 | post-Fujishi baseball remained available in principle | `STRENGTHEN / REOPEN` | Saku voluntarily plays with Haru and Atomu outside Fujishi and receives a future invitation; durable direction remains open. | `F88` |
+| F84 | ordinary and special organized distinct injuries and desires | `REVISE / PAIR` | Yuko seeks ordinary continuity while Yua seeks special selection; the paired epilogues cross without ranking. | `F90` |
+| F85 | finite objects retrieved changed relation | `STRENGTHEN / EMBODY` | held hands, layered hands, handshake, fires, Ramune, and sparklers model connection as repeated revisable action. | `F91` |
+
+Their origin state is `ESTABLISHED_OR_REVISED_AT_V06_MAIN`. Exact locators, counterevidence, and hard nonclaims remain in `CHIRAMUNE_V06_DEEP_READING.md` and `CHIRAMUNE_V06_PROSPECTIVE_FREEZE.md`. No earlier prospective freeze is rewritten.
+
+## Open V06.5 supplemental test register
+
+| Test ID | Entering question | Current state | Required evidence |
+|---|---|---|---|
+| V065-Q01 | Is V06.5 continuous sequel, collection, or mixed chronology? | `OPEN` | component inventory and placement before synthesis |
+| V065-Q02 | Which components occur before, during, or after the V05/V06 crisis? | `OPEN` | separate diegetic and publication horizons; no blanket placement |
+| V065-Q03 | Does any component revise plural attachment or couple state? | `OPEN` | direct reciprocal wording; prominence is insufficient |
+| V065-Q04 | Does Haru enact the promised challenge or Yuzuki revise her boundary? | `OPEN` | current-state action distinguished from recollection or texture |
+| V065-Q05 | Does Saku originate a support request? | `OPEN` | spontaneous request rather than disclosure after pressure |
+| V065-Q06 | Does baseball become a durable chosen path? | `OPEN` | continuing stakes and practice rather than isolated play |
+| V065-Q07 | Which non-Saku relations carry independent narrative responsibility? | `OPEN` | component-level girl–girl, family, male-friendship, locality, and ordinary-life routing |
+| V065-Q08 | What supplemental checkpoint form does the object require? | `OPEN` | preserve V06 main freeze; route components by role and chronology |

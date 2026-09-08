@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: series_synthesis_router
 scope: ROLLING_AND_TERMINAL_SERIES_SYNTHESIS
-source_boundary: "Japanese regular main analysis frozen through Volume 05; bundled V03 bonus labeled BONUS_FICTION; separate V03 booklet and V05 special-edition booklet integrated as SUPPLEMENTAL_MAINLINE; V06+ unopened; current published-corpus synthesis updated through V05 special edition"
-generation: V0.5
+source_boundary: "Japanese main analysis frozen through Volume 06; bundled V03 bonus labeled BONUS_FICTION; separate V03 booklet and V05 special-edition booklet integrated as SUPPLEMENTAL_MAINLINE; V06.5+ unopened; current published-corpus synthesis updated through V06"
+generation: V0.6
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -45,7 +45,7 @@ Preferred name:
 
 `CHIRAMUNE_CURRENT_PUBLISHED_CORPUS_SYNTHESIS.md`
 
-That artifact was promoted at V04 and is now updated through the V05 special-edition booklet. Five ledgers, six character monographs, the promoted Fukui locality/departure specialist synthesis, and the prospective and supplemental readings create independent cross-document retrieval value. It remains explicitly analyzed-to-date and mutable; it does not imply publication closure or terminal-series eligibility.
+That artifact was promoted at V04 and is now updated through V06. Five ledgers, six character monographs, the promoted Fukui locality/departure specialist synthesis, and the prospective and supplemental readings create independent cross-document retrieval value. It remains explicitly analyzed-to-date and mutable; it does not imply publication closure or terminal-series eligibility.
 
 It must state at least:
 

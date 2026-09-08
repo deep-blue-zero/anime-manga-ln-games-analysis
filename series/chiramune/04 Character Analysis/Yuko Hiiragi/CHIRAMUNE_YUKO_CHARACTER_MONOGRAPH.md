@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUKO_HIIRAGI_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.2
+scope: YUKO_HIIRAGI_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yuko Hiiragi — V01–V05 Special Edition character monograph
+# Yuko Hiiragi — V01–V06 character monograph
 
 ## Scope and promotion basis
 
@@ -234,3 +234,54 @@ The booklet contains no post-refusal scene, so survival cannot be assumed.
 - whether Saku/Yuko acquires a form other than restored moratorium or total severance;
 - whether Yuko can ask about Saku's ordinary self without pre-answering it through admiration;
 - whether public initiative remains selectable rather than compulsory.
+
+# V06 longitudinal revision
+
+## The first-year triangle was partly protected through jealousy
+
+Yuko's jealousy begins when Saku and Yua share a domestic/familial bond. She momentarily treats Yua's painful family history as a romantic advantage, recognizes the thought as ugly, then pre-emptively tells Yua she loves Saku. Her suspended non-answer confession preserves her priority while allowing the group to continue `[V06:p-0027#p0230-p0449]`.
+
+This historicizes the `wife` performance as both sincere affection and territorial practice. It does not make the later friendship false.
+
+## The public confession was meant to end a veto, not guarantee success
+
+Yuko says she expected refusal and chose witnesses because Saku would privately hide an answer to preserve stasis. Public knowledge would release Yua, Yuzuki, Haru, and Saku from treating her position as a barrier `[V06:p-0027#p0542-p0686]`, `[V06:p-0029#p0002-p0029]`.
+
+Her motive remains mixed. She admits loving the old triangle, resenting new entrants, and that she would have accepted Saku's reciprocation. Agency here is accountable imperfection rather than selfless purity.
+
+## Refusing Kaito gives her reciprocal knowledge of refusal
+
+Kaito directly confesses his long love. Yuko says she loves him deeply but cannot transform that friendship category into her love for Saku. She refuses him clearly while preserving relation `[V06:p-0024#p0230-p0448]`.
+
+The experience lets her understand the pain Saku carried when refusing someone important. It neither makes her own love insufficient nor creates a romantic obligation for Saku.
+
+## She demonstrates ordinary recognition of Saku
+
+Yuko answers Saku's fear that she loves an ideal. She lists small habits, defensive gestures, lonely phone behavior, admirable traits, and faults learned over a year and a half. Initial attraction became maintained attention `[V06:p-0033#p0103-p0217]`.
+
+This strongly qualifies the hero/person asymmetry. She may still reinforce his hero performance, but she also sees and loves ordinary contradiction.
+
+## Fighting with Yua makes friendship more equal
+
+Yuko refuses to let Yua mediate without revealing herself. Their first fight exposes mutual jealousy and non-primacy. Yuko then thanks Yua for choosing Saku, holding both ends, and finding the feeling she hid `[V06:p-0031#p0002-p0303]`, `[V06:p-0033#p0002-p0094]`.
+
+The repair is independently primary and does not require either girl to surrender romantic desire.
+
+## She retains love without extracting a promise
+
+Saku says he cannot date Yuko and may choose another girl. Yuko accepts the answer, reserves her right to confess again, and joins the changed group `[V06:p-0033#p0261-p0342]`.
+
+The ordinary epilogue reframes her desired specialness as ordinary naming, walking, talking, and presence in dark nights `[V06:p-0034#p0001-p0033]`. This is continued desire after refusal, not couple formation.
+
+## Post-V06 current model
+
+> **Yuko is a socially powerful initiator whose love contains jealousy, territoriality, group-liberating courage, sustained ordinary observation, and the capacity to accept refusal without surrendering desire. V06 rejects both the pure-victim and pure-manipulator readings. Her relationship with Yua becomes more equal through conflict and admitted non-primacy; her refusal of Kaito gives reciprocal knowledge of Saku's position. She remains in Saku's heart as a girl, but he refuses dating again and no couple or promised selection exists.**
+
+## V06.5 watchlist
+
+- whether ordinary Saku/Yuko contact resumes without a renewed moratorium;
+- whether she can seek support before crisis or public climax;
+- whether territorial humor changes after explicit plural attachment;
+- whether Yua, Yuzuki, and Haru friendship carries direct disagreement safely;
+- whether Kaito friendship remains viable after mutual refusal knowledge;
+- whether her wish to become Saku's ordinary is enacted without self-abandonment.

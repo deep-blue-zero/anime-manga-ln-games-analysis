@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: YUA_UCHIDA_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.2
+scope: YUA_UCHIDA_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Yua Uchida — V01–V05 Special Edition character monograph
+# Yua Uchida — V01–V06 character monograph
 
 ## Scope and promotion basis
 
@@ -212,3 +212,48 @@ This is a boundary around female friendship, not merely romantic concealment. Th
 - whether she asks for support in music, ordinary life, or grief;
 - whether her social precision is heard before conflict rather than after it;
 - direct evidence only regarding the unnamed girl.
+
+# V06 longitudinal revision
+
+## The ordinary-girl identity is a survival contract
+
+Yua's first-year history shows academic excellence as accumulated necessity after her mother leaves. She studies, manages home, avoids social risk, and hides desire so her father and brother need not worry `[V06:p-0015#p0003-p0128]`, `[V06:p-0017#p0843-p0988]`.
+
+`Ordinary` preserves genuine happy family memory but also becomes proof that nothing is wrong. Her non-disclosure repeats the exclusion that injured her. Saku's question—might family feel lonely when never trusted or needed—helps make reciprocal dependence thinkable.
+
+## Family disclosure and domestic reciprocity have a first-year origin
+
+Saku creates a site where Yua can tell her father and brother what she carries and wants. Her father acknowledges relying too much on her. Saku then directly requests recurring cooking help while offering shopping labor `[V06:p-0017#p1491-p1662]`.
+
+This grounds present domestic care in an explicit, reciprocal origin. It does not make the later asymmetry disappear, but it rejects the spouse-role or one-way-rescue simplification.
+
+## She is the architect of repair and an interested party
+
+Yua rejects Saku's punishment, maintains his ordinary life, visits Yuko across three days, and convenes the festival conversation. She accepts an initial refusal and then applies pressure through a real alternative: if Yuko will not return, Yua will pursue the place beside Saku `[V06:p-0010#p0124-p0182]`, `[V06:p-0025#p0203-p0458]`.
+
+Her competence is neither neutral mediation nor disguised manipulation. She genuinely wants repair and genuinely wants Saku.
+
+## Yuko forces her out of facilitator-only self-erasure
+
+Yua's romantic rule gives every girl authority over her own feeling, but she initially exempts herself by speaking only about Saku and Yuko. Yuko's challenge makes her admit choosing Saku first, enjoying exclusive care, resenting other girls' access, and fearing loss of Yuko `[V06:p-0031#p0002-p0303]`.
+
+The resulting friendship repair accepts non-primacy: Yua and Yuko are not each other's first choice, yet remain best friends capable of conflict.
+
+## Her requested selfishness is a self-authorship transition
+
+Yua recognizes that living “for Saku” could simply replace living “for family.” Saku originally taught her that she is Uchida Yua; she therefore asks to become more selfish and stops presenting another person's happiness as sufficient for her own `[V06:p-0033#p0220-p0255]`.
+
+The special epilogue completes the directional clarification: Yua wants to face Saku with all her feeling and become his special person `[V06:p-0035#p0001-p0033]`. This identifies her desire, not Saku's selection.
+
+## Post-V06 current model
+
+> **Yua's ordinary competence is a survival architecture she can now revise. V06 makes her the principal architect of repair while refusing to purify that work of self-interest: she chooses Saku, wants specialness, enjoys being needed, and still protects Yuko friendship. Her largest development is recognizing that sacrifice “for Saku” would repeat the self-erasure he once interrupted. She asks for greater selfishness and reciprocal burden, but Saku does not select her and no couple forms.**
+
+## V06.5 watchlist
+
+- whether requested selfishness becomes a concrete bid or life choice;
+- whether she asks for care in music, family life, grief, or ordinary labor;
+- whether Saku reciprocates maintenance without romantic presumption;
+- whether Yuko friendship sustains conflict outside crisis;
+- whether mediator labor becomes distributed rather than permanently assigned to her;
+- direct reciprocal evidence only before any selection or couple claim.

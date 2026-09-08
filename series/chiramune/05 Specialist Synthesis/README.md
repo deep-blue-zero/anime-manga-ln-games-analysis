@@ -2,8 +2,8 @@
 series: CHIRAMUNE
 artifact_type: specialist_synthesis_router
 scope: PROMOTED_CROSS_VOLUME_SPECIALIST_RESPONSIBILITIES
-source_boundary: "Japanese main analysis through regular Volume 05; V03 in-EPUB bonus, separate V03 booklet, and V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.2
+source_boundary: "Japanese main analysis through Volume 06; V03 in-EPUB bonus, separate V03 booklet, and V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.3
 status: canonical
 release_state: mutable_active
 ---
@@ -14,7 +14,7 @@ This directory contains independently warranted domain syntheses in the Chiramun
 
 ## Active specialist responsibilities
 
-- `CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md` — promoted at the regular V05 boundary after locality, domestic practice, memory, aspiration, and departure accumulate independently across V01–V05, then revised with the V05 special-edition booklet's earlier-route and finite-time evidence.
+- `CHIRAMUNE_FUKUI_LOCALITY_DEPARTURE_AND_ORDINARY_YOUTH_SYNTHESIS.md` — promoted at the regular V05 boundary after locality, domestic practice, memory, aspiration, and departure accumulate independently across V01–V05; revised through the V05 booklet and V06's Obon, river, local-food, park-baseball, shrine, Yokokan, and seasonal-repair routes.
 
 ## Deferred candidates
 

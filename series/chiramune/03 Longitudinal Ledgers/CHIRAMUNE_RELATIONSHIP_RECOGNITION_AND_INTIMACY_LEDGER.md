@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: ledger
-scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.6
+scope: RELATIONSHIP_RECOGNITION_INTIMACY_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.7
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -452,3 +452,78 @@ The V04-associated story then makes the romantic contest explicit: Haru and Yuzu
 - whether Yuzuki converts performed bids into a current request without losing boundary control;
 - whether Asuka and Saku can make a request under departure without converting love into control;
 - whether Yuzuki/Haru partnership norms survive explicit romantic scarcity.
+
+# V06 relationship update — plural attachment and changed continuity
+
+## Saku ↔ Yuko — reciprocal ordinary recognition without couple formation
+
+Yuko's first-year confession was partly territorial and Saku accepted its suspended form partly to preserve group access. In V06 both disclose that compromise instead of treating the V05 rupture as a single bad moment `[V06:p-0027#p0230-p0449]`, `[V06:p-0029#p0129-p0149]`.
+
+Saku explicitly says Yuko is in his heart as a girl and that her presence has become large. Yuko demonstrates that her love is not sustained hero projection by listing concrete, ambivalent observations accumulated across a year and a half `[V06:p-0029#p0152-p0191]`, `[V06:p-0033#p0103-p0217]`.
+
+**Current state:** mutual gendered importance + Yuko's directly retained love + second Saku refusal + contingent promise only to disclose if his feeling becomes love + no couple, exclusivity, or promised selection.
+
+## Saku ↔ Yua — familylike ordinary care becomes avowed directional desire
+
+V06 grounds the domestic rhythm in Yua's family history and Saku's first-year direct request. Present care is therefore neither accidental nor merely maternal. Yua admits enjoying exclusive access to injured Saku, demands shared burden, and identifies sacrifice “for Saku” as repetition of the self-erasure he once helped her leave `[V06:p-0017#p1491-p1662]`, `[V06:p-0029#p0441-p0515]`, `[V06:p-0033#p0220-p0255]`.
+
+**Current state:** chosen familylike intimacy + recurring maintenance + Yua-authored romantic priority and wish for specialness + Saku trust and acknowledged importance + no Saku romantic selection or couple.
+
+## Saku ↔ Yuzuki — shared aesthetics turned toward recipient care
+
+Saku suppresses a genuine compliment because Yuzuki has become too important to address through casual flirtation. Yuzuki experiences the safe answer as distance, then rejects her own polished script by cooking sauce katsudon and asks that their pride serve the person rather than the image `[V06:p-0020#p0528-p0610]`, `[V06:p-0022#p0001-p0342]`.
+
+**Current state:** reciprocal social recognition + explicit Yuzuki love + bounded bids + Saku attraction/jealousy and importance + corrected intimacy after false restraint + no couple or identified selection.
+
+## Saku ↔ Haru — bodily team support contains an unspoken romantic cost
+
+Haru recruits Atomu because full-strength sport is the care she can credibly offer. Her claim that companions precede gender distributes burden across the group; her private admission that this is the only way she can stand beside Saku shows the cost beneath the team language `[V06:p-0022#p0391-p0573]`, `[V06:p-0024#p0001-p0057]`.
+
+**Current state:** equal athletic-partner recognition + Haru's named love and future challenge protocol + enacted care + Saku gratitude/importance + final challenge and romantic answer open.
+
+## Saku ↔ Asuka — interpretation remains intimate and non-neutral
+
+Asuka correctly sees that Saku disclosed events without heart and names his inexperience with loving. Her private `moon` aside shows that the counsel is delivered while withholding her own desire in order to remain morally clean `[V06:p-0020#p0263-p0428]`.
+
+**Current state:** named Asuka love + high interpretive intimacy + Saku threatened-loss and admired-ideal language + mutual non-disclosure under finite time + no exclusivity or stable Saku romantic category.
+
+## Yuko ↔ Yua — conflict establishes friendship capable of non-primacy
+
+Yua creates the repair encounter, but Yuko refuses to let her remain only mediator. Their first direct fight makes both admit jealousy, concealed choice, fear, and that the other is not first. They choose continued friendship and future argument anyway `[V06:p-0031#p0002-p0303]`, `[V06:p-0033#p0002-p0094]`.
+
+**Current state:** independently primary best friendship + mutual ordinary recognition + explicit romantic conflict + accepted non-primacy + enacted repair.
+
+## Yuzuki ↔ Haru — preserved partnership, unresolved contest
+
+Yuzuki and Haru regulate their own pain together after the refusal, and each later supports Saku through a method consistent with her distinct strengths. V06 does not show the promised direct romantic contest being adjudicated.
+
+**Current state:** independently primary partnership + reciprocal containment + fair-contest norm preserved + romantic rivalry unresolved.
+
+## Yuko ↔ Kaito and Saku ↔ Kaito — direct answer replaces delegation
+
+Kaito tells Yuko he has loved her since the entrance ceremony. She distinguishes profound friendship love from romantic love and refuses him. His acceptance gives both a route back toward Saku and the group; the later apology/handshake repairs contact without erasing violence `[V06:p-0024#p0230-p0448]`, `[V06:p-0033#p0480-p0522]`.
+
+**Current state:** Yuko/Kaito deep friendship after explicit refusal + Saku/Kaito renewed but changed friendship + assault remains a live ethical fact.
+
+## Group topology after V06
+
+The group moves from V05's enacted split to V06's enacted repair. Yua convenes the festival reunion, but the text marks changed gaze, spacing, tone, and knowledge. The proper topology is neither terminal fracture nor restoration: it is a reconnected network whose dyads now carry explicitly unequal and sometimes incompatible claims `[V06:p-0033#p0353-p0558]`.
+
+## Relationship hypotheses after V06
+
+1. **Plural attachment precedes romantic naming.** Saku's equality claim establishes real gendered importance but no selected beloved.
+2. **Refusal can deepen recognition without creating reciprocity.** Yuko understands Saku through refusing Kaito; Saku recognizes Yuko through distance and disclosure.
+3. **Friendship survives non-primacy through conflict, not denial.** Yuko/Yua repair because they admit first choices and remain answerable.
+4. **Care methods remain relationally diagnostic but not determinative.** Food, sport, interpretation, and mediation show distinct access; none proves final romantic category.
+5. **Reconnection is a new topology.** Continued group practice does not cancel the exclusions disclosed by singular desire.
+
+# V06.5 relationship watchlist
+
+- component-level chronology before applying any relation transition;
+- direct reciprocal evidence only for a couple or singular beloved;
+- whether Yuko/Saku ordinary contact continues without restoring suspended-confession stasis;
+- whether Yua's request for greater selfishness becomes enacted desire or support-seeking;
+- whether Haru performs the promised final challenge;
+- whether Yuzuki makes a present bid and how the Haru partnership contains it;
+- whether Asuka and Saku can make mutually answerable requests under departure;
+- whether Kaito, Kazuki, Kenta, and other non-romantic ties sustain the repaired group.

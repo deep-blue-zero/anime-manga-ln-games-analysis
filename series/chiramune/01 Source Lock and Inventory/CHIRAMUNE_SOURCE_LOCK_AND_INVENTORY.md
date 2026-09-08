@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: source_lock_and_inventory
 scope: ACQUIRED_JAPANESE_EPUB_CORPUS
 source_boundary_date: 2026-08-29
-generation: V0.5
+generation: V0.6
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -84,7 +84,15 @@ Its complete regular-main text was compared with the admitted regular Volume 05 
 
 The appended booklet contains 17 republished bonus stories originally associated with Volumes 01–04 and one newly written first-year Yuzuki/Haru story. Each component was separately inventoried and placed. `シャンプーにキャップ` is a revised witness of the same late-V03 event found in the separate V03 booklet: shared evidence is counted once, while material edition additions remain addressable. Contents/dividers, creator commentary, profiles, colophon, and advertising were audited under bounded paratext roles.
 
-The complete disposition and frozen supplemental checkpoint are in `../02 Sequential Readings/CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`. The next safe source is Volume 06 main.
+The complete disposition and frozen supplemental checkpoint are in `../02 Sequential Readings/CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`. At that checkpoint, the next safe source was Volume 06 main.
+
+### Volume 06 analysis disposition
+
+The locked Volume 06 witness was independently reverified at SHA-256 `f9bfe6dfd72ac2032b291c8b1a7b6e2a52e3a6e74f1b03cdcc0ffa33d3fb706b` before prospective reading. OPF metadata identifies `千歳くんはラムネ瓶のなか　６`, 裕夢, 株式会社小学館, Japanese, and modification timestamp `2021-08-13T00:00:00Z`.
+
+Its complete narrative—prologue, Chapters 5–8, and two epilogues—was extracted and read. The continuation of chapter numbering makes it narratively coupled to V05 while preserving a distinct source and freeze boundary. Ten interior narrative illustrations, frontmatter, afterword, author profile, colophon, and advertising backmatter were classified; no embedded bonus fiction was found.
+
+The extraction produced 7,616 locator rows and 7,716 reading lines. The locator TSV SHA-256 is `d1fa9c512de0fe4b25d1efe71e66a85453df6f1537ab084102d4a8cd4b57de63`. The V06 main reading and prospective freeze are complete. The next safe source is the separately locked Volume 06.5 object, which requires component and diegetic-placement classification before integration.
 
 ### Volume 04 analysis disposition
 

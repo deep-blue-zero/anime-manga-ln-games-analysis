@@ -1,9 +1,9 @@
 ---
 series: CHIRAMUNE
 artifact_type: character_monograph
-scope: SAKU_CHITOSE_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-generation: V0.7
+scope: SAKU_CHITOSE_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+generation: V0.8
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Saku Chitose — V01–V05 Special Edition character monograph
+# Saku Chitose — V01–V06 character monograph
 
 ## Scope and authority
 
@@ -813,3 +813,55 @@ The booklet strengthens plural directional attachment but supplies no direct evi
 - whether he can revise a valued group form without attempting exact restoration;
 - whether attraction becomes a timely positive choice rather than another stored category;
 - whether chosen baseball remains ordinary practice rather than renewed injury proof.
+
+# V06 longitudinal revision
+
+## 1. He accepts the distinction between responsibility and punishment
+
+Yua tells Saku that Yuko would not want his body or ordinary life damaged and that suffering for her is a thin form of self-forgiveness. Saku recognizes the error and promises not to harm or neglect himself `[V06:p-0010#p0124-p0168]`.
+
+The improvement is real but relationally prompted. It shows revisability, not autonomous mastery.
+
+## 2. He can disclose what does not preserve the hero image
+
+At the festival Saku says he initially resented Yuko's first-year confession, accepted its suspended form because he wanted the group unchanged, enjoyed her love, and postponed responsibility. He then admits plural attachment and fear of choosing `[V06:p-0029#p0129-p0257]`.
+
+This is the strongest evidence that he can be known without controlling the frame. The account is not a polished explanation that restores competence; it exposes pettiness, comfort, and uncertainty before the people affected.
+
+## 3. Plural importance is not a hidden decision
+
+Saku says Yuko is in his heart and that several other girls matter equally in distinct ways. He cannot decide which feeling is romantic. V06 therefore revises the apparent singularity of his V05 wording without naming one beloved `[V06:p-0029#p0152-p0257]`.
+
+His second refusal remains direct: he cannot date Yuko now, may eventually choose someone else, and makes no outcome promise. The only commitment is to face love and speak first if his feeling for Yuko becomes nameable `[V06:p-0033#p0261-p0342]`.
+
+## 4. He learns that withholding can control other people's choices
+
+Saku treats waiting, jealousy, and uncertainty as burdens he must prevent. Yua replies that each girl owns her romance and may decide whether continued pursuit is honest or tolerable. His self-sacrifice is therefore partly jurisdictional overreach `[V06:p-0029#p0300-p0381]`.
+
+He accepts the symmetry when Yua compares his receipt of care with Yuko's receipt of Kaito's comfort. This revises moral self-condemnation toward mutual agency without erasing causal responsibility.
+
+## 5. Distributed correction becomes effective
+
+Asuka identifies the missing heart disclosure, Yuzuki corrects misdirected pride, Haru gives embodied relief, and Kenta returns Saku's own demand for action. Saku is no longer the sole reader or catalyst of the group `[V06:p-0020#p0263-p0428]`, `[V06:p-0022#p0001-p0573]`, `[V06:p-0024#p0582-p0679]`.
+
+His ability to receive these different interventions is developmental evidence. The help-request test remains open because others still initiate the decisive moves.
+
+## 6. Baseball becomes enacted ordinary pleasure
+
+Haru and Atomu bring Saku into competitive play outside Fujishi. He experiences relief and Atomu offers a future route if Saku decides to return seriously `[V06:p-0022#p0428-p0539]`.
+
+The scene strengthens voluntary baseball without selecting it as a future or restoring the former institutional role.
+
+## 7. V06 stable model
+
+> **Saku at the V06 boundary can distinguish accountability from self-punishment, accept distributed care, and disclose motives that dismantle his heroic self-image. He now recognizes several girls as equally important without knowing which attachment is romantic, so honest uncertainty replaces both the false singular implication and premature choice. His progress is a commitment to participate in relation—answerable, revisable, and willing to speak—while his largest remaining gaps are self-originated support requests, timely positive choice, and a durable ordinary life not organized around crisis. No couple or singular beloved is established.**
+
+## 8. V06.5 watchlist
+
+- whether Saku originates a support request rather than responding to confrontation;
+- whether ordinary contact with Yuko can continue without renewed suspended-confession stasis;
+- whether plural attachment becomes differentiated through action rather than narration alone;
+- whether he responds to Haru's promised challenge and Yuzuki's bids without delay-as-default;
+- whether he can make a bounded request of Asuka under departure;
+- whether baseball develops into sustained safe practice or remains episodic relief;
+- direct reciprocal evidence only before any couple or singular-beloved claim.

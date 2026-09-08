@@ -2,7 +2,7 @@
 series: CHIRAMUNE
 artifact_type: sequential_reading_contract
 scope: VOLUME_BY_VOLUME_ANALYSIS
-generation: V0.7
+generation: V0.8
 status: canonical
 release_state: mutable_active
 ---
@@ -33,7 +33,7 @@ Each numbered main volume is read from the frozen analytical state produced by t
 
 Later volumes can revise the current model. They cannot rewrite the historical record of what the earlier source boundary supported.
 
-The current frozen main-volume high-water mark is **regular main V05**. The V03 EPUB's pre-main bonus is integrated under `BONUS_FICTION`. The separate V03 illustration/short-story booklet is independently integrated under `SUPPLEMENTAL_MAINLINE` in `CHIRAMUNE_V03_SUPPLEMENTAL_BOOKLET_READING.md`, whose checkpoint preserves the main V03 freeze. Regular V05 is independently frozen in `CHIRAMUNE_V05_DEEP_READING.md` and `CHIRAMUNE_V05_PROSPECTIVE_FREEZE.md`. The V05 Special Edition's duplicate main has been excluded from double-counting and its 18-story booklet is component-routed in `CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`. Volume 06 main is the next safe source.
+The current frozen main-volume high-water mark is **Volume 06**. The V03 EPUB's pre-main bonus is integrated under `BONUS_FICTION`. The separate V03 illustration/short-story booklet is independently integrated under `SUPPLEMENTAL_MAINLINE` in `CHIRAMUNE_V03_SUPPLEMENTAL_BOOKLET_READING.md`, whose checkpoint preserves the main V03 freeze. Regular V05 is independently frozen in `CHIRAMUNE_V05_DEEP_READING.md` and `CHIRAMUNE_V05_PROSPECTIVE_FREEZE.md`. The V05 Special Edition's duplicate main has been excluded from double-counting and its 18-story booklet is component-routed in `CHIRAMUNE_V05_SPECIAL_EDITION_SUPPLEMENTAL_READING.md`. Volume 06 is independently frozen in `CHIRAMUNE_V06_DEEP_READING.md` and `CHIRAMUNE_V06_PROSPECTIVE_FREEZE.md`; the separately locked Volume 06.5 object is the next safe source.
 
 ## Supplemental sequencing
 

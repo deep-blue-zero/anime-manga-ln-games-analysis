@@ -1,10 +1,10 @@
 ---
 series: CHIRAMUNE
 artifact_type: specialist_synthesis
-scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V05_SPECIAL_EDITION
-source_boundary: "Japanese main Volumes 01-05 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06+ unopened"
-latest_analyzed_main: V05_REGULAR_MAIN
-generation: V0.2
+scope: FUKUI_LOCALITY_DEPARTURE_ORDINARY_YOUTH_V01_V06
+source_boundary: "Japanese main Volumes 01-06 frozen; V03 in-EPUB bonus, separate V03 booklet, and component-routed V05 special-edition booklet integrated; V06.5+ unopened"
+latest_analyzed_main: V06
+generation: V0.3
 status: active_provisional
 release_state: mutable_active
 supersedes: []
@@ -12,7 +12,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# Fukui locality, departure, and ordinary youth — synthesis through V05 Special Edition
+# Fukui locality, departure, and ordinary youth — synthesis through V06
 
 ## Responsibility and promotion decision
 
@@ -223,3 +223,55 @@ V05's deliberate last summer is therefore a mature phase of a longer practice: i
 - whether Yua's music and domestic competence gain destinations not organized around Saku;
 - whether new settings receive comparable material specificity;
 - whether home becomes requestable and revisable rather than silently maintained.
+
+## XVII. V06 update — ritual routes and reconstructed continuity
+
+### Obon makes locality a theory of relation
+
+Asuka's visit to her grandmother is not a scenic pause. An ordinary Fukui family trip and local Obon practice produce the volume's bond model: separation becomes final only through intentional cutting, while one person holding an end preserves a possible route `[V06:p-0020#p0072-p0259]`.
+
+The idea then travels. Saku applies it to Yuko and Kaito, Yua stages a reconnection, and the final sparklers echo sending fire. Local ritual becomes portable relational reasoning rather than heritage display.
+
+### The river remains a low-cost disclosure infrastructure
+
+The Asuwa riverbank hosts Yuzuki's balcony-adjacent continuation, Yua's recurring calls, the festival invitation, and small drink rituals. It offers privacy without institutional reservation and keeps emotionally dense contact inside ordinary walking routes `[V06:p-0022#p0250-p0387]`, `[V06:p-0024#p0702-p0812]`.
+
+The route's repetition matters more than picturesque description. Characters can return with changed knowledge, so place stores relation without freezing it.
+
+### Local food distinguishes care from performance
+
+Yuzuki chooses sauce katsudon rather than cuisine that would affirm her stylish image. The meal draws on ordinary regional familiarity and redirects aesthetic competence toward Saku's appetite and recovery `[V06:p-0022#p0001-p0337]`.
+
+Yua's household cooking remains a larger economic and maintenance system. The comparison is not between better and worse femininity. Different local food practices make different kinds of attention available.
+
+### Parks and athletic sites reopen baseball outside institution
+
+Haru recruits Atomu into a public-park baseball session that is competitive, playful, and socially shared. The same local landscape that once held punishment can support chosen ordinary practice without restoring Fujishi membership `[V06:p-0022#p0428-p0539]`.
+
+This strengthens the distinction between locality as an available practice network and any one school institution as destiny.
+
+### The late-August festival routes dyad, triad, and group
+
+Yua and Saku begin at the shrine as an apparently private festival dyad, meet Yuko at the torii, move to Yokokan Garden for quiet triadic disclosure, then return to the full group for shared food, Ramune, and sparklers `[V06:p-0025#p0036-p0199]`, `[V06:p-0027#p0042-p0172]`, `[V06:p-0033#p0353-p0558]`.
+
+The route is a social topology: public ritual, historical garden, and ordinary park permit different scales of relation. Repair depends on moving between them rather than remaining in one exceptional setting.
+
+### Departure remains structurally present without geographic execution
+
+Asuka's fear becomes relational: she prepared for leaving Fukui but not for losing Saku before departure. Class year and daily access are forms of distance before travel `[V06:p-0014#p0212-p0301]`.
+
+V06 does not yet provide a practical Tokyo transition, so housing, transport, and remote communication remain open. It does show why departure matters: repeated local routes create the ordinary access whose loss Asuka anticipates.
+
+## XVIII. Current specialist model after V06
+
+> **Through V06, Fukui is a revisable relationship infrastructure. Rivers, homes, parks, regional food, a shrine festival, Yokokan Garden, and Obon practice provide distinct scales for maintenance, athletic pleasure, disclosure, separation, and return. Seasonal ritual supplies a theory of connection that characters enact: welcome, release, and continued holding can coexist. Locality preserves routes rather than unchanged states; departure threatens the repeated access those routes enable, not an abstract regional essence.**
+
+## XIX. V06.5 research questions
+
+- component-level chronology and whether each story uses pre- or post-repair local routes;
+- whether late-summer settings extend or merely repeat V05/V06 seasonal work;
+- whether Asuka's departure acquires practical transport, housing, or communication consequences;
+- whether Yua's music and domestic expertise gain independently chosen destinations;
+- whether Saku's park baseball becomes durable local practice;
+- whether homes become sites of reciprocal request rather than gendered silent maintenance;
+- whether new places supply independent developmental infrastructure sufficient for a second specialist route.
