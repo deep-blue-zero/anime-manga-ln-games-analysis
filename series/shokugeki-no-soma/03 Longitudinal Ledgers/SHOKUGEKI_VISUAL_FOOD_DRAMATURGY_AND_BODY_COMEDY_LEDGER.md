@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: VISUAL_FOOD_DRAMATURGY_AND_BODY_COMEDY
 generation: V2
 status: active_provisional
-source_boundary: V25 complete
+source_boundary: V01-V36 complete; six frozen checkpoints; terminal reconstruction consolidation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-26
-last_updated_scope: V25
+last_updated_scope: V36_TERMINAL_RECONSTRUCTION
 ---
 
 # SHOKUGEKI_VISUAL_FOOD_DRAMATURGY_AND_BODY_COMEDY_LEDGER
@@ -20,7 +20,9 @@ Track manga-specific sensory and evaluative staging that a text transcript would
 
 ## Current boundary
 
-`V16 COMPLETE`.
+Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [character-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
+
+`V01-V36 COMPLETE; TERMINAL V2`.
 
 | Pattern ID | Scope | Visual/formal device | Narrative/sensory function | Character/institutional implication | Counterexample/variation | Locator(s) |
 |---|---|---|---|---|---|---|

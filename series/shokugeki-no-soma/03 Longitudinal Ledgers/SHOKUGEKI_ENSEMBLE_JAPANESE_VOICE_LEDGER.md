@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: ENSEMBLE_JAPANESE_VOICE_AND_REGISTER
 generation: V2
 status: active_provisional
-source_boundary: V25 complete
+source_boundary: V01-V36 complete; six frozen checkpoints; terminal reconstruction consolidation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-26
-last_updated_scope: V25
+last_updated_scope: V36_TERMINAL_RECONSTRUCTION
 ---
 
 # SHOKUGEKI_ENSEMBLE_JAPANESE_VOICE_LEDGER
@@ -20,7 +20,9 @@ Canonical V2 home for recurring Japanese voice/register patterns across the ense
 
 ## Current boundary
 
-`V16 COMPLETE`.
+Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [character-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
+
+`V01-V36 COMPLETE; TERMINAL V2`.
 
 | Character | Pattern ID | Scope | Interlocutor/context | Japanese feature/function | Interpretation | Counterexample/limit | Confidence | Locator(s) |
 |---|---|---|---|---|---|---|---|---|
@@ -640,3 +642,14 @@ V35 makes voice the instrument by which rescue becomes either care or possession
 | ensemble | SJV2-ENSEMBLE-001 | adult reunion / failed final dish | differentiated career summaries yield to a shared blunt `不味い!!!!`, preserving many voices inside one table before Soma's closing invitation | collective judgment is exact for the experimental dish but does not dissolve individual careers, relationships, or culinary standards | 36-209-36-243 |
 
 V36 closes voice through renewed address rather than final agreement. Soma still offers; Erina still judges; Mana turns a bad verdict toward a shared future; Asahi loses the language of possession; and the ensemble can reject an adult prestige cook's dish without threatening belonging. The ending's emotional force depends on what remains unsaid: no confession, cure declaration, universal ranking, or complete apology replaces the voices' ongoing work.
+
+## Terminal reconstruction addition — Ikumi Mito primary register checks
+
+These exact forms were checked on the original Japanese images during the subsequent Ikumi addition. The V06 summer comic is supplementary and lower weight. Earlier voice IDs and publication-boundary claims remain intact; see the [fidelity audit](../05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) for source hashes and the complete 22-image inspection scope.
+
+| Speaker | Evidence ID | Situation | Register finding | Reconstruction constraint | Locator(s) |
+|---|---|---|---|---|---|
+| Mito | SJV2-MITO-004 | early challenge, patron relation, and next-day club entry | `あたし` is attested first person; confrontational `あんた` / `テメェ` contrast with superior-oriented `えりな様`; `主将さん` occurs in mockery; she asks about `幸平` and objects to `肉魅` | Honorifics require pragmatic context; do not replace her first person with stereotyped `俺`, invent universal first-name intimacy, or make all recipients receive the early hostile register | 02-105; 02-107–02-110; 02-171–02-175 |
+| Mito | SJV2-MITO-005 | offering her new donburi and receiving shaved ice | `幸平` and hesitant `食べるか？` precede hurt; `食わねぇ` expresses the initial refusal; `あたし` and emphatic `だからな` frame her explicit flavor-conditioned acceptance; the later complaint retains work pride | Preserve sequence and recipient; no universal insult/stammer script, covert-consent rule, permanent favorite-food inference, or audiovisual acting claim | supplementary 06-187–06-189 |
+
+Together with SJV2-MITO-002 and SJV2-MITO-003, these forms support a forceful register capable of technical revision, embarrassed offering, refusal, and precise recognition of another successor's burden. They do not turn every line into a meat slogan or concealed compliment. Current reconstruction: [Ikumi Mito](../04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md).

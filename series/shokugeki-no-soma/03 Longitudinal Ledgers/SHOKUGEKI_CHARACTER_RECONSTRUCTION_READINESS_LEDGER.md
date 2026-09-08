@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: CHARACTER_RECONSTRUCTION_READINESS
 generation: V2
 status: active_provisional
-source_boundary: V25 complete
+source_boundary: V01-V36 complete; six frozen checkpoints; terminal reconstruction consolidation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-26
-last_updated_scope: V25
+last_updated_scope: V36_TERMINAL_RECONSTRUCTION
 ---
 
 # SHOKUGEKI_CHARACTER_RECONSTRUCTION_READINESS_LEDGER
@@ -26,7 +26,9 @@ Qualitative coverage uses `none / sparse / moderate / strong`.
 
 ## Current boundary
 
-`V16 COMPLETE`. Promotions below use V2 evidence only. The frozen V1 Soma model remains separately available and does not auto-promote Soma inside V2.
+Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [character-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
+
+`V01-V36 COMPLETE; TERMINAL V2`. Promotions below use V2 evidence only. The frozen V1 Soma model remains separately available and does not auto-promote Soma inside V2.
 
 | Character | Readiness | Voice | Relationships | Ordinary state | High stakes | Failure/correction | Emotion | Authority | Craft cognition | Counterevidence | Main gap | Last scope |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -651,6 +653,8 @@ No V35 promotion reaches `monograph_ready`. Erina, Mana, Asahi, and Senzaemon ga
 
 ## V36 terminal readiness update
 
+Historical pre-audit freeze: the table and promotion prose in this section record the state before the original terminal model-validation audit. Their former monograph-only routing is preserved as history. Current readiness and bounded artifact availability are in the terminal sections below.
+
 | Character | Readiness after V36 | V36 coverage gain | Remaining limit carried into synthesis |
 |---|---|---|---|
 | Yukihira Soma | **monograph_ready** | gains complete semifinal craft and 3-0 result, explicit failure/Tamako pedagogy, Erina-recipient intervention, runner-up placement, adult vocation, final failed experiment, and endpoint voice | legal diner succession, interior romantic naming, and universal rank remain unsupported; final model requires full-series exception audit |
@@ -687,3 +691,38 @@ Promotion to `monograph_ready` authorizes writing; it is not validation. Each pr
 | Saiba Asahi | `monograph_ready` | **validated_model** | `SHOKUGEKI_ASAHI_CHARACTER_MONOGRAPH.md` |
 
 Mana, Senzaemon, Takumi, Hayama, Alice/Ryō, Shinomiya, Tsukasa/Rindō, Hisako, and other substantial characters retain their prior readiness. Specialist and ensemble routing is deliberate; validation does not promote them by association.
+
+## Terminal reconstruction artifact availability
+
+The original six `validated_model` states remain unchanged. The terminal architectural refinement permits bounded artifacts for substantial evidence without promoting readiness. Hisako retains `substantial, provisional` from the terminal evidence matrix and prior ledger state; omission from the grouped V36 pre-audit table was not a demotion.
+
+| Character | Current readiness | Artifact | Change in this expansion |
+|---|---|---|---|
+| Soma | `validated_model` | [SHOKUGEKI_SOMA_V2_FULL_SERIES_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_SOMA_V2_FULL_SERIES_CHARACTER_MODEL.md) | Expanded in place; no promotion |
+| Erina | `validated_model` | [SHOKUGEKI_ERINA_CHARACTER_MONOGRAPH.md](../04%20Final%20Character%20Model/SHOKUGEKI_ERINA_CHARACTER_MONOGRAPH.md) | Expanded in place; no promotion |
+| Megumi | `validated_model` | [SHOKUGEKI_MEGUMI_CHARACTER_MONOGRAPH.md](../04%20Final%20Character%20Model/SHOKUGEKI_MEGUMI_CHARACTER_MONOGRAPH.md) | Expanded in place; no promotion |
+| Jōichirō | `validated_model` | [SHOKUGEKI_JOICHIRO_CHARACTER_MONOGRAPH.md](../04%20Final%20Character%20Model/SHOKUGEKI_JOICHIRO_CHARACTER_MONOGRAPH.md) | Expanded in place; no promotion |
+| Azami | `validated_model` | [SHOKUGEKI_AZAMI_CHARACTER_MONOGRAPH.md](../04%20Final%20Character%20Model/SHOKUGEKI_AZAMI_CHARACTER_MONOGRAPH.md) | Expanded in place; no promotion |
+| Asahi | `validated_model` | [SHOKUGEKI_ASAHI_CHARACTER_MONOGRAPH.md](../04%20Final%20Character%20Model/SHOKUGEKI_ASAHI_CHARACTER_MONOGRAPH.md) | Expanded in place; no promotion |
+| Mana | `substantial, provisional` | [SHOKUGEKI_MANA_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_MANA_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+| Senzaemon | `substantial, provisional` | [SHOKUGEKI_SENZAEMON_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_SENZAEMON_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+| Hisako | `substantial, provisional` | [SHOKUGEKI_HISAKO_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_HISAKO_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+| Takumi | `substantial` | [SHOKUGEKI_TAKUMI_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_TAKUMI_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+| Hayama | `substantial` | [SHOKUGEKI_HAYAMA_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_HAYAMA_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+| Alice | `substantial` | [SHOKUGEKI_ALICE_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_ALICE_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+| Ryō | `substantial` | [SHOKUGEKI_KUROKIBA_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_KUROKIBA_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+| Shinomiya | `substantial` | [SHOKUGEKI_SHINOMIYA_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_SHINOMIYA_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+| Tsukasa | `substantial` | [SHOKUGEKI_TSUKASA_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_TSUKASA_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+| Rindō | `substantial` | [SHOKUGEKI_RINDO_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_RINDO_CHARACTER_MODEL.md) | Bounded model created; no promotion |
+
+See the [reconstruction-fidelity audit](../05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) for ordinary-life, recipient, register, and abstention bounds. No frozen checkpoint or prospective score is revised by this availability record.
+
+## Ikumi Mito reconstruction addition — carried readiness
+
+This terminal retrieval-layer addition carries the explicit V20 and V21 state `substantial, provisional (stronger)` as `substantial, provisional`; the parenthetical qualifier is not a new readiness tier. Omission from the grouped terminal selection and the earlier evidence matrix did not record a demotion. The first sixteen model decisions and all per-volume readiness entries remain unchanged.
+
+| Character | Prior explicit readiness | Current artifact | Readiness after addition | Remaining gate |
+|---|---|---|---|---|
+| Ikumi Mito | V20/V21 `substantial, provisional (stronger)` | [SHOKUGEKI_MITO_CHARACTER_MODEL.md](../04%20Final%20Character%20Model/SHOKUGEKI_MITO_CHARACTER_MODEL.md) | `substantial, provisional`; no promotion | Later adverse-result response, full V20 dish/opponent chain, broader ordinary conflict and leadership accountability, adult endpoint and Erina repair |
+
+Targeted analytical retrieval uses V02, V05–V08, V15–V16, V20–V21 and the existing terminal coverage. Primary checks of `02-104`–`02-111`, `02-166`–`02-175`, and supplementary `06-186`–`06-189` add exact address/register and a bounded ordinary refusal/acceptance sequence. These 22 images strengthen retrieval precision without supplying a whole adult or ordinary-life personality. No whole-volume or full-series reread occurred. The model defaults explicitly to the latest detailed school state. See the Ikumi addendum in the [fidelity audit](../05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md).

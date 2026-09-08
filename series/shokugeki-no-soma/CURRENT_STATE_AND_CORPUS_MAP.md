@@ -54,7 +54,9 @@ The source root contains a contiguous Japanese CBZ spine **V01-V36**.
 
 **Latest frozen checkpoint:** `02 Full-Series Deep Readings/SHOKUGEKI_V31-V36_END_STATE_CHECKPOINT.md`
 
-**Latest validation artifact:** `05 Validation and Audit/SHOKUGEKI_V2_FULL_SERIES_VALIDATION_AUDIT.md`
+**Latest validation artifact:** `05 Validation and Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md` — terminal reconstruction self-audit; the original full-series validation audit remains separate.
+
+**Current character first read:** [character-model router](04%20Final%20Character%20Model/README.md) — seventeen artifacts: six expanded validated models and eleven bounded substantial models, including Ikumi Mito, with no new readiness promotion.
 
 **Current master synthesis:** `04 Full-Series and Specialist Syntheses/SHOKUGEKI_FULL_SERIES_SYNTHESIS.md`
 
@@ -175,18 +177,13 @@ Specialist syntheses are created only when longitudinal evidence proves a distin
 
 ## Current authority routing
 
-### Full-series V2 questions through Volume 24
+### Full-series V2 questions through Volume 36
 
-Use the latest relevant `SHOKUGEKI_VXX_DEEP_READING.md` artifact for local volume interpretation, then the relevant V2 ledger for cumulative state, then the original Japanese CBZ for exact verification. V01 through V26 are complete; the V01-V06, V07-V12, V13-V18, and V19-V24 checkpoints are frozen.
+Use the master and relevant specialist synthesis for full-series interpretation, the latest relevant V2 ledger for cumulative evidence, and the canonical volume deep reading for local context. V01–V36 are complete and all six checkpoints are frozen. Escalate to the located original Japanese page only when the analytical record cannot resolve a material claim.
 
 ### Soma mature reconstruction
 
-Until a V2 full-series Soma model is explicitly promoted:
-
-1. [`SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md`](04%20Final%20Character%20Model/SHOKUGEKI_SOMA_FINAL_CHARACTER_MODEL.md)
-2. relevant frozen V1 ledger
-3. relevant sampled V1 character reading
-4. Japanese CBZ
+Use [the validated V2 Soma model](04%20Final%20Character%20Model/SHOKUGEKI_SOMA_V2_FULL_SERIES_CHARACTER_MODEL.md) first, then its state/voice/relationship and specialist dependencies. The V1 final model remains frozen provenance for the sampled experiment. The [character router](04%20Final%20Character%20Model/README.md) provides the other fifteen current reconstructions and their unchanged readiness.
 
 ### V1 predictive-warrant question
 
@@ -197,6 +194,8 @@ Use [`SHOKUGEKI_SOMA_MODEL_VALIDATION_AUDIT.md`](05%20Validation%20and%20Audit/S
 Use the original Japanese CBZ; analytical artifacts are locators and interpretations, not substitutes for source verification.
 
 ## V01 canonical closure
+
+Historical sequence note: the V01–V35 closure records below preserve their contemporaneous readiness, latest-checkpoint, and next-step statements. They are publication-boundary history; current instructions and artifact availability are given above and in the terminal sections.
 
 `02 Full-Series Deep Readings/SHOKUGEKI_V01_DEEP_READING.md` is complete and canonical.
 
@@ -1190,7 +1189,7 @@ The V35 prospective audit resolves at `7 CONFIRM / 1 PARTIAL / 0 MISS / 0 UNTEST
 - `04 Final Character Model/SHOKUGEKI_AZAMI_CHARACTER_MONOGRAPH.md`
 - `04 Final Character Model/SHOKUGEKI_ASAHI_CHARACTER_MONOGRAPH.md`
 
-Mana, Senzaemon, Takumi, Hayama, Alice/Ryō, Shinomiya, Tsukasa/Rindō, Hisako, and other substantial characters route through the evidence matrix, ensemble synthesis, specialist syntheses, and ledgers rather than unsupported thin monographs.
+The [character router](04%20Final%20Character%20Model/README.md) now also links eleven bounded reconstruction models: Mana, Senzaemon, Hisako, Takumi, Hayama, Alice, Ryō, Shinomiya, Tsukasa, Rindō, and Ikumi Mito. They retain `substantial` or `substantial, provisional` readiness. The six validated models above are expanded in place, and the evidence matrix reflects their already-completed validation promotion. Specialist and ensemble authority remains separate.
 
 ## Current specialist and evidence authority
 
@@ -1203,4 +1202,6 @@ The canonical evidence layer contains:
 - `06 Evidence and Indexes/SHOKUGEKI_CHARACTER_EVIDENCE_MATRIX.md`;
 - `06 Evidence and Indexes/SHOKUGEKI_V1_TO_V2_CROSSWALK.md`.
 
-The terminal content audit passes with explicit open claims. No further analytical artifact is required for V2 completion. Stable-branch publication does not constitute or authorize main-branch integration.
+The original terminal content audit remains preserved with its open claims. The separate [reconstruction-fidelity audit](05%20Validation%20and%20Audit/SHOKUGEKI_V2_CHARACTER_RECONSTRUCTION_FIDELITY_AUDIT.md) covers all seventeen expanded/bounded artifacts: the original sixteen-model review and a subsequent Ikumi addendum, preserving the Megumi attribution corrections, state and recipient tests, and required abstentions. This terminal expansion does not revise the thirty-six sequential readings, six frozen checkpoints, or V1 scorecards. Stable-branch publication does not constitute or authorize main-branch integration.
+
+Ikumi's addition carries the explicit V20/V21 `substantial, provisional` state and uses the latest detailed school-era default; her adult endpoint remains unestablished by the present analytical coverage. Twenty-two original V02/V06 images were re-inspected for exact register, post-loss behavior, and supplementary ordinary refusal/acceptance. The state, voice, and relationship ledgers append those observations, and the fidelity audit records hash-matched source provenance. No whole-volume or full-series reread occurred, and the original sixteen models are unchanged by this addition.
