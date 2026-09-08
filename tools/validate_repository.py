@@ -92,6 +92,12 @@ STUDY_REGISTRY_PATH = "studies/registry.json"
 STUDY_REGISTRY_SCHEMA = "anime-manga-ln-games-analysis/study-registry/v1"
 CHANGE_OBLIGATIONS_PATH = "governance/repository-controls/change-obligations.json"
 CHANGE_OBLIGATIONS_SCHEMA = "anime-manga-ln-games-analysis/change-obligations/v1"
+PROJECT_INITIATION_GATE_PATH = (
+    "governance/repository-controls/project-initiation-gate.json"
+)
+PROJECT_INITIATION_GATE_SCHEMA = (
+    "anime-manga-ln-games-analysis/project-initiation-gate/v1"
+)
 GLOBAL_AUTOMATION_POLICY_PATH = (
     "governance/repository-controls/global-index-automation-policy.json"
 )
@@ -1121,6 +1127,660 @@ def _valid_nonempty_string(value: Any) -> bool:
         and "\r" not in value
         and "\n" not in value
     )
+
+
+def _yaml_front_matter(data: bytes, path: str) -> Mapping[str, Any] | None:
+    """Return generic restricted YAML front matter without classifying authority."""
+
+    if not data.startswith(b"---\n"):
+        return None
+    if b"\r" in data:
+        raise DomainError(f"{path}: recognized YAML artifact must be LF-only")
+    try:
+        text = data.decode("utf-8", "strict")
+    except UnicodeDecodeError as exc:
+        raise DomainError(f"{path}: invalid UTF-8 front matter") from exc
+    lines = text.split("\n")
+    closing = next(
+        (index for index in range(1, len(lines)) if lines[index] == "---"), None
+    )
+    if closing is None:
+        raise DomainError(f"{path}: unterminated YAML front matter")
+    loaded = _restricted_yaml_load("\n".join(lines[1:closing]) + "\n", path)
+    if not isinstance(loaded, Mapping):
+        raise DomainError(f"{path}: front matter must be one mapping")
+    return loaded
+
+
+def _load_project_initiation_gate(
+    snapshot: GitSnapshot,
+) -> tuple[Mapping[str, Any] | None, list[str]]:
+    entry = snapshot.get(PROJECT_INITIATION_GATE_PATH)
+    if entry is None or not entry.qualifies_as_evidence:
+        return None, [
+            f"missing tracked regular project-initiation control: "
+            f"{PROJECT_INITIATION_GATE_PATH}"
+        ]
+    try:
+        control = decode_json(entry.data, PROJECT_INITIATION_GATE_PATH)
+    except (DomainError, json.JSONDecodeError, UnicodeDecodeError) as exc:
+        return None, [str(exc)]
+    if not isinstance(control, Mapping):
+        return None, [f"{PROJECT_INITIATION_GATE_PATH} must be a JSON object"]
+
+    errors: list[str] = []
+    if control.get("schema") != PROJECT_INITIATION_GATE_SCHEMA:
+        errors.append(
+            f"{PROJECT_INITIATION_GATE_PATH}.schema must equal "
+            f"{PROJECT_INITIATION_GATE_SCHEMA!r}"
+        )
+    policy = control.get("governing_policy")
+    if not _valid_nonempty_string(policy):
+        errors.append(
+            f"{PROJECT_INITIATION_GATE_PATH}.governing_policy must be a nonempty path"
+        )
+    else:
+        try:
+            validate_repository_path(policy)
+        except DomainError as exc:
+            errors.append(
+                f"{PROJECT_INITIATION_GATE_PATH}.governing_policy is invalid: {exc}"
+            )
+        target = snapshot.get(policy)
+        if target is None or not target.qualifies_as_evidence:
+            errors.append(
+                f"project-initiation governing policy is not tracked regular: {policy}"
+            )
+    baseline = control.get("activation_baseline_commit")
+    if not isinstance(baseline, str) or re.fullmatch(r"[0-9a-f]{40}", baseline) is None:
+        errors.append(
+            f"{PROJECT_INITIATION_GATE_PATH}.activation_baseline_commit must be a "
+            "full lowercase SHA-1 commit ID"
+        )
+
+    marker = control.get("prospective_registry_marker")
+    if not isinstance(marker, Mapping):
+        errors.append(
+            f"{PROJECT_INITIATION_GATE_PATH}.prospective_registry_marker must be an object"
+        )
+    elif marker.get("field") != "project_initiation_gate" or marker.get(
+        "required_value"
+    ) != "REQUIRED":
+        errors.append("project-initiation registry marker contract is invalid")
+
+    compatibility = control.get("legacy_compatibility")
+    if not isinstance(compatibility, Mapping):
+        errors.append(
+            f"{PROJECT_INITIATION_GATE_PATH}.legacy_compatibility must be an object"
+        )
+    else:
+        if compatibility.get("baseline_rule") != "ROOT_PRESENT_AT_ACTIVATION":
+            errors.append("project-initiation legacy baseline rule is invalid")
+        if not _valid_nonempty_string(
+            compatibility.get("git_native_migration_scope_prefix")
+        ):
+            errors.append("project-initiation Git-native migration prefix is invalid")
+        if (
+            compatibility.get("new_sequential_work_requires_current_architecture")
+            is not True
+        ):
+            errors.append(
+                "project-initiation legacy continuation architecture rule must be true"
+            )
+
+    classification = control.get("sequential_artifact_classification")
+    if not isinstance(classification, Mapping):
+        errors.append(
+            f"{PROJECT_INITIATION_GATE_PATH}.sequential_artifact_classification "
+            "must be an object"
+        )
+    else:
+        if classification.get("front_matter_field") != "artifact_type":
+            errors.append("project-initiation artifact classifier field is invalid")
+        for field in (
+            "exact_types",
+            "suffixes",
+            "untyped_fallback_directory_keywords",
+        ):
+            values = classification.get(field)
+            if (
+                not isinstance(values, list)
+                or not values
+                or any(not _valid_nonempty_string(value) for value in values)
+                or len(values) != len(set(values))
+                or values != sorted(values)
+            ):
+                errors.append(
+                    f"project-initiation artifact classifier {field} must be a "
+                    "nonempty sorted unique string array"
+                )
+    return (None if errors else control), errors
+
+
+def project_initiation_baseline_paths(
+    root: Path, control: Mapping[str, Any]
+) -> set[str]:
+    baseline = control.get("activation_baseline_commit")
+    if not isinstance(baseline, str):
+        raise DomainError("project-initiation activation baseline is unavailable")
+    if run_git(root, "cat-file", "-t", baseline).decode("ascii").strip() != "commit":
+        raise DomainError("project-initiation activation baseline is not a commit")
+    return set(
+        _git_paths(root, "ls-tree", "-r", "--name-only", "-z", baseline)
+    )
+
+
+def _is_substantive_sequential_artifact(
+    path: str,
+    entry: Any,
+    classification: Mapping[str, Any],
+) -> tuple[bool, bool, list[str]]:
+    """Return (classified, used_untyped_fallback, parse_errors)."""
+
+    errors: list[str] = []
+    try:
+        front = _yaml_front_matter(entry.data, path)
+    except DomainError as exc:
+        return False, False, [str(exc)]
+    artifact_type = front.get("artifact_type") if front is not None else None
+    if isinstance(artifact_type, str):
+        normalized = artifact_type.casefold()
+        exact = classification.get("exact_types", [])
+        suffixes = classification.get("suffixes", [])
+        return (
+            normalized in exact
+            or any(normalized.endswith(suffix) for suffix in suffixes),
+            False,
+            errors,
+        )
+    if artifact_type is not None:
+        errors.append(f"{path}: artifact_type must be a string")
+        return False, False, errors
+    if PurePosixPath(path).name.casefold() == "readme.md":
+        return False, False, errors
+    normalized_parts = [
+        re.sub(r"[^a-z0-9]+", " ", part.casefold()).strip()
+        for part in PurePosixPath(path).parts[:-1]
+    ]
+    fallback = any(
+        keyword in part
+        for keyword in classification.get("untyped_fallback_directory_keywords", [])
+        for part in normalized_parts
+    )
+    return fallback, fallback, errors
+
+
+PROJECT_INITIALIZATION_ALIASES = {
+    "method": ("governing_method", "analytical_method", "deep_reading_method"),
+    "architecture": (
+        "synthesis_architecture",
+        "governing_synthesis_architecture",
+        "corpus_architecture",
+    ),
+    "method_status": ("method_status", "governing_method_status"),
+    "architecture_status": (
+        "architecture_status",
+        "synthesis_architecture_status",
+    ),
+    "infrastructure_initialized": (
+        "required_day_one_infrastructure_initialized",
+        "required_day_one_ledgers_initialized",
+        "required_ledgers_initialized",
+    ),
+    "infrastructure": (
+        "required_day_one_infrastructure",
+        "required_day_one_artifacts",
+    ),
+    "lock": ("sequential_analysis_lock",),
+}
+
+
+def _project_initialization_state(
+    data: bytes, path: str
+) -> tuple[dict[str, Any], list[str]]:
+    errors: list[str] = []
+    mappings: list[Mapping[str, Any]] = []
+    try:
+        front = _yaml_front_matter(data, path)
+    except DomainError as exc:
+        return {}, [str(exc)]
+    if front is not None:
+        nested = front.get("project_initialization")
+        if nested is not None:
+            if isinstance(nested, Mapping):
+                mappings.append(nested)
+            else:
+                errors.append(f"{path}: project_initialization must be a mapping")
+        if any(
+            alias in front
+            for aliases in PROJECT_INITIALIZATION_ALIASES.values()
+            for alias in aliases
+        ):
+            mappings.append(front)
+
+    try:
+        text = data.decode("utf-8", "strict")
+    except UnicodeDecodeError as exc:
+        return {}, [f"{path}: invalid UTF-8 initialization state: {exc}"]
+    for index, match in enumerate(
+        re.finditer(r"(?ms)^```ya?ml[ \t]*\n(.*?)^```[ \t]*$", text), start=1
+    ):
+        body = match.group(1)
+        if not re.search(r"(?m)^project_initialization\s*:", body):
+            continue
+        try:
+            loaded = _restricted_yaml_load(
+                body if body.endswith("\n") else body + "\n",
+                f"{path}:project_initialization_block[{index}]",
+            )
+        except DomainError as exc:
+            errors.append(str(exc))
+            continue
+        nested = (
+            loaded.get("project_initialization")
+            if isinstance(loaded, Mapping)
+            else None
+        )
+        if not isinstance(nested, Mapping):
+            errors.append(
+                f"{path}:project_initialization_block[{index}] must contain one mapping"
+            )
+        else:
+            mappings.append(nested)
+
+    state: dict[str, Any] = {}
+    for semantic, aliases in PROJECT_INITIALIZATION_ALIASES.items():
+        observed = [
+            mapping[alias]
+            for mapping in mappings
+            for alias in aliases
+            if alias in mapping
+        ]
+        if not observed:
+            continue
+        if any(value != observed[0] for value in observed[1:]):
+            errors.append(
+                f"{path}: contradictory project-initialization declarations for {semantic}"
+            )
+            continue
+        state[semantic] = observed[0]
+    return state, errors
+
+
+def _resolve_project_reference(
+    snapshot: GitSnapshot,
+    project_prefix: str,
+    entrypoint_path: str,
+    value: Any,
+    label: str,
+) -> tuple[str | None, list[str]]:
+    if not _valid_nonempty_string(value):
+        return None, [f"{entrypoint_path}: {label} must be a nonempty path"]
+    if "\\" in value or value.startswith(("/", "http://", "https://")):
+        return None, [f"{entrypoint_path}: {label} is not a repository-relative path"]
+
+    raw_candidates = []
+    if value.startswith(project_prefix):
+        raw_candidates.append(value)
+    else:
+        raw_candidates.extend(
+            [
+                project_prefix + value,
+                (PurePosixPath(entrypoint_path).parent / value).as_posix(),
+            ]
+        )
+    candidates: list[str] = []
+    for candidate in raw_candidates:
+        try:
+            validate_repository_path(candidate)
+        except DomainError:
+            continue
+        if candidate.startswith(project_prefix) and candidate not in candidates:
+            candidates.append(candidate)
+    direct = [
+        candidate
+        for candidate in candidates
+        if (target := snapshot.get(candidate)) is not None and target.qualifies_as_evidence
+    ]
+    if not direct and "/" not in value:
+        direct = [
+            path
+            for path, target in snapshot.entries.items()
+            if path.startswith(project_prefix)
+            and PurePosixPath(path).name == value
+            and target.qualifies_as_evidence
+        ]
+    direct = sorted(set(direct), key=lambda item: item.encode("utf-8"))
+    if not direct:
+        return None, [
+            f"{entrypoint_path}: referenced {label} is missing or not a tracked regular "
+            f"Git artifact: {value}"
+        ]
+    if len(direct) != 1:
+        return None, [
+            f"{entrypoint_path}: referenced {label} is ambiguous: {value} -> {direct}"
+        ]
+    return direct[0], []
+
+
+def _validate_current_reference(
+    snapshot: GitSnapshot,
+    authority: AuthorityGraph,
+    project_prefix: str,
+    entrypoint_path: str,
+    value: Any,
+    label: str,
+) -> list[str]:
+    resolved, errors = _resolve_project_reference(
+        snapshot, project_prefix, entrypoint_path, value, label
+    )
+    if resolved is not None and not authority.current_eligible(resolved):
+        errors.append(
+            f"{entrypoint_path}: referenced {label} is not current-eligible: {resolved} "
+            f"(classification={authority.classification(resolved)})"
+        )
+    return errors
+
+
+def _validate_initialization_contract(
+    snapshot: GitSnapshot,
+    authority: AuthorityGraph,
+    project_prefix: str,
+    entrypoint_path: Any,
+    *,
+    require_open: bool,
+) -> list[str]:
+    if not _valid_nonempty_string(entrypoint_path):
+        return [
+            f"{project_prefix} project-initiation gate requires a canonical entrypoint"
+        ]
+    entry = snapshot.get(entrypoint_path)
+    if entry is None or not entry.qualifies_as_evidence:
+        return [
+            f"{project_prefix} project-initiation entrypoint is missing or not tracked "
+            f"regular: {entrypoint_path}"
+        ]
+    errors: list[str] = []
+    if not entrypoint_path.startswith(project_prefix):
+        errors.append(
+            f"{project_prefix} project-initiation entrypoint is outside the project root: "
+            f"{entrypoint_path}"
+        )
+    if not authority.current_eligible(entrypoint_path):
+        errors.append(
+            f"{entrypoint_path}: project-initiation entrypoint is not current-eligible "
+            f"(classification={authority.classification(entrypoint_path)})"
+        )
+    state, state_errors = _project_initialization_state(entry.data, entrypoint_path)
+    errors.extend(state_errors)
+    lock = state.get("lock")
+    normalized_lock = lock.casefold() if isinstance(lock, str) else None
+    if normalized_lock not in {"open", "closed"}:
+        errors.append(
+            f"{entrypoint_path}: sequential_analysis_lock must be explicitly OPEN or CLOSED"
+        )
+    if require_open and normalized_lock != "open":
+        errors.append(
+            f"{entrypoint_path}: substantive sequential analysis requires "
+            "sequential_analysis_lock OPEN"
+        )
+
+    full_gate_claimed = require_open or normalized_lock == "open"
+    if full_gate_claimed:
+        for semantic, label in (
+            ("method", "governing analytical method"),
+            ("architecture", "governing synthesis architecture"),
+        ):
+            if semantic not in state:
+                errors.append(
+                    f"{entrypoint_path}: project_initialization does not identify {label}"
+                )
+            else:
+                errors.extend(
+                    _validate_current_reference(
+                        snapshot,
+                        authority,
+                        project_prefix,
+                        entrypoint_path,
+                        state[semantic],
+                        label,
+                    )
+                )
+        current_statuses = {
+            "canonical",
+            "active_provisional",
+            "current",
+            "current_eligible",
+        }
+        for semantic, label in (
+            ("method_status", "method status"),
+            ("architecture_status", "synthesis-architecture status"),
+        ):
+            if semantic in state and (
+                not isinstance(state[semantic], str)
+                or state[semantic].casefold() not in current_statuses
+            ):
+                errors.append(f"{entrypoint_path}: {label} contradicts an OPEN gate")
+        if state.get("infrastructure_initialized") is not True:
+            errors.append(
+                f"{entrypoint_path}: required day-one infrastructure must be explicitly "
+                "initialized before sequential analysis"
+            )
+
+    infrastructure = state.get("infrastructure")
+    if infrastructure is not None:
+        if (
+            not isinstance(infrastructure, list)
+            or any(not _valid_nonempty_string(value) for value in infrastructure)
+            or len(infrastructure) != len(set(infrastructure))
+        ):
+            errors.append(
+                f"{entrypoint_path}: required_day_one_infrastructure must be a "
+                "unique path list"
+            )
+        elif state.get("infrastructure_initialized") is True:
+            for value in infrastructure:
+                _resolved, reference_errors = _resolve_project_reference(
+                    snapshot,
+                    project_prefix,
+                    entrypoint_path,
+                    value,
+                    "required day-one infrastructure",
+                )
+                errors.extend(reference_errors)
+    return errors
+
+
+def _entrypoint_mentions(
+    entrypoint_text: str, path: str, project_prefix: str
+) -> bool:
+    relative = path[len(project_prefix) :] if path.startswith(project_prefix) else path
+    candidates = {path, relative, PurePosixPath(path).name}
+    candidates.update(value.replace(" ", "%20") for value in tuple(candidates))
+    return any(value in entrypoint_text for value in candidates)
+
+
+def _validate_legacy_architecture_route(
+    snapshot: GitSnapshot,
+    authority: AuthorityGraph,
+    project_prefix: str,
+    entrypoint_path: Any,
+) -> list[str]:
+    if not _valid_nonempty_string(entrypoint_path):
+        return [
+            f"{project_prefix} legacy continuation cannot publish new sequential analysis "
+            "without a canonical entrypoint"
+        ]
+    entry = snapshot.get(entrypoint_path)
+    if entry is None or not entry.qualifies_as_evidence:
+        return [
+            f"{project_prefix} legacy continuation entrypoint is missing or not tracked "
+            f"regular: {entrypoint_path}"
+        ]
+    errors: list[str] = []
+    if not authority.current_eligible(entrypoint_path):
+        errors.append(
+            f"{entrypoint_path}: legacy continuation entrypoint is not current-eligible"
+        )
+    try:
+        text = entry.data.decode("utf-8", "strict")
+    except UnicodeDecodeError as exc:
+        return errors + [f"{entrypoint_path}: invalid UTF-8: {exc}"]
+    method_paths: list[str] = []
+    architecture_paths: list[str] = []
+    for path, candidate in snapshot.entries.items():
+        if (
+            not path.startswith(project_prefix)
+            or not path.endswith(".md")
+            or not candidate.qualifies_as_evidence
+            or not authority.current_eligible(path)
+            or not _entrypoint_mentions(text, path, project_prefix)
+        ):
+            continue
+        try:
+            front = _yaml_front_matter(candidate.data, path)
+        except DomainError as exc:
+            errors.append(str(exc))
+            continue
+        artifact_type = front.get("artifact_type") if front is not None else None
+        if not isinstance(artifact_type, str):
+            continue
+        normalized = artifact_type.casefold()
+        if normalized.endswith(("_method", "_methodology")) or normalized in {
+            "analytical_method",
+            "comparative_methodology",
+            "governing_method",
+            "reading_protocol",
+        }:
+            method_paths.append(path)
+        if normalized.endswith("_architecture") or normalized in {
+            "project_architecture",
+            "synthesis_architecture",
+        }:
+            architecture_paths.append(path)
+    if not method_paths:
+        errors.append(
+            f"{entrypoint_path}: legacy continuation does not identify a current-eligible "
+            "governing analytical method"
+        )
+    if not architecture_paths:
+        errors.append(
+            f"{entrypoint_path}: legacy continuation does not identify a current-eligible "
+            "governing synthesis/corpus architecture"
+        )
+    return errors
+
+
+def validate_project_initiation_gate(
+    snapshot: GitSnapshot,
+    baseline_paths: set[str],
+    control: Mapping[str, Any] | None = None,
+) -> list[str]:
+    """Enforce the prospective project-initiation gate without rewriting legacy roots."""
+
+    errors: list[str] = []
+    if control is None:
+        control, control_errors = _load_project_initiation_gate(snapshot)
+        errors.extend(control_errors)
+        if control is None:
+            return errors
+    classification = control.get("sequential_artifact_classification")
+    marker = control.get("prospective_registry_marker")
+    compatibility = control.get("legacy_compatibility")
+    if not all(
+        isinstance(value, Mapping)
+        for value in (classification, marker, compatibility)
+    ):
+        return errors + ["project-initiation control is incomplete"]
+    marker_field = marker["field"]
+    marker_value = marker["required_value"]
+    git_native_prefix = compatibility["git_native_migration_scope_prefix"]
+    authority = AuthorityGraph(snapshot)
+
+    rows: list[tuple[str, Mapping[str, Any]]] = []
+    for registry_path, collection in (
+        (SERIES_REGISTRY_PATH, "series"),
+        (STUDY_REGISTRY_PATH, "studies"),
+    ):
+        entry = snapshot.get(registry_path)
+        if entry is None or not entry.qualifies_as_evidence:
+            continue
+        try:
+            registry = decode_json(entry.data, registry_path)
+        except (DomainError, json.JSONDecodeError, UnicodeDecodeError):
+            continue
+        registry_rows = registry.get(collection) if isinstance(registry, Mapping) else None
+        if not isinstance(registry_rows, list):
+            continue
+        rows.extend(
+            (f"{registry_path}:{collection}[{index}]", row)
+            for index, row in enumerate(registry_rows)
+            if isinstance(row, Mapping)
+        )
+
+    for label, row in rows:
+        project_prefix = row.get("repository_path")
+        if not _valid_nonempty_string(
+            project_prefix
+        ) or not project_prefix.endswith("/"):
+            continue
+        baseline_present = any(path.startswith(project_prefix) for path in baseline_paths)
+        explicit_marker = row.get(marker_field)
+        if explicit_marker is not None and explicit_marker != marker_value:
+            errors.append(
+                f"{label}.{marker_field} must equal {marker_value!r} when present"
+            )
+        if not baseline_present and explicit_marker != marker_value:
+            errors.append(
+                f"{label}.{marker_field} must equal {marker_value!r} for a project root "
+                "created after the initiation-gate activation baseline"
+            )
+
+        new_sequential: list[str] = []
+        for path, candidate in snapshot.entries.items():
+            if (
+                path in baseline_paths
+                or not path.startswith(project_prefix)
+                or not path.endswith(".md")
+                or not candidate.qualifies_as_evidence
+            ):
+                continue
+            classified, fallback, artifact_errors = _is_substantive_sequential_artifact(
+                path, candidate, classification
+            )
+            errors.extend(artifact_errors)
+            if classified:
+                new_sequential.append(path)
+                if fallback:
+                    errors.append(
+                        f"{path}: sequential-reading directory artifact requires a structured "
+                        "artifact_type"
+                    )
+
+        git_native = isinstance(row.get("migration_scope"), str) and row[
+            "migration_scope"
+        ].startswith(git_native_prefix)
+        strict = not baseline_present or explicit_marker == marker_value or git_native
+        entrypoint = row.get("canonical_entrypoint")
+        if strict and (
+            not baseline_present or explicit_marker == marker_value or new_sequential
+        ):
+            errors.extend(
+                _validate_initialization_contract(
+                    snapshot,
+                    authority,
+                    project_prefix,
+                    entrypoint,
+                    require_open=bool(new_sequential),
+                )
+            )
+        elif new_sequential:
+            errors.extend(
+                _validate_legacy_architecture_route(
+                    snapshot, authority, project_prefix, entrypoint
+                )
+            )
+    return errors
 
 
 def validate_series_registry(snapshot: GitSnapshot) -> list[str]:
@@ -2721,6 +3381,23 @@ def main() -> int:
             errors.extend(validate_study_registry(snapshot))
             errors.extend(validate_registered_root_topology(snapshot))
             errors.extend(validate_change_obligations(snapshot))
+            project_gate_control, project_gate_control_errors = (
+                _load_project_initiation_gate(snapshot)
+            )
+            errors.extend(project_gate_control_errors)
+            if project_gate_control is not None:
+                try:
+                    errors.extend(
+                        validate_project_initiation_gate(
+                            snapshot,
+                            project_initiation_baseline_paths(
+                                root, project_gate_control
+                            ),
+                            project_gate_control,
+                        )
+                    )
+                except DomainError as exc:
+                    errors.append(str(exc))
             errors.extend(validate_current_domain(root, snapshot, not args.defer_schema_engine))
             if not args.defer_schema_engine:
                 generator_snapshot = "commit" if kind == "commit" else kind
