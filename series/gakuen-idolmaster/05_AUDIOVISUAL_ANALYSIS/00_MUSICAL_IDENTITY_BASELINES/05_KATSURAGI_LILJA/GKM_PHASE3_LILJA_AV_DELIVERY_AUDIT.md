@@ -7,8 +7,8 @@ generation: V2
 release: R1
 status: canonical
 source_boundary: "Release-integrity audit for the Lilja integrated AV R1 package"
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: "2026-08-22"
 title: "Katsuragi Lilja Phase-3 AV Delivery Audit"

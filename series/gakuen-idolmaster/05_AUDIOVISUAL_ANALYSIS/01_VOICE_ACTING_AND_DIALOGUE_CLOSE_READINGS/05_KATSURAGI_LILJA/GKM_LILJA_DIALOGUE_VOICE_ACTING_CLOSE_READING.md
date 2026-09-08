@@ -7,8 +7,8 @@ generation: V2
 release: R1
 status: canonical
 source_boundary: "Complete Dear 001-037 plus seven complete acted song communications; exact wording controlled by Source Lock 1.0; Dear 028-037 fine facial detail confidence-limited by 360p source"
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: "2026-08-22"
 title: "Katsuragi Lilja — Dialogue, Register, and Voice-Acting Close Reading"

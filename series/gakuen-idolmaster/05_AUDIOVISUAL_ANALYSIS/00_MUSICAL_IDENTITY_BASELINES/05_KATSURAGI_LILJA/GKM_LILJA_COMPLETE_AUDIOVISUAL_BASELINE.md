@@ -7,8 +7,8 @@ generation: V2
 release: R1
 status: canonical
 source_boundary: "Complete Phase-3 integrated AV packet: 22 canonical logical objects / 23 materialized physical files / 18,685.005 seconds / 2.560 GB decimal; complete Dear 001-037, seven complete song communications, eight rendered performances, and three authored official MVs; exact wording controlled by GAKUMAS V2 Source Lock 1.0"
-supersedes: "GKM_LILJA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md"
-superseded_by: null
+supersedes: ["series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/05_KATSURAGI_LILJA/GKM_LILJA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md"]
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: "2026-08-22"
 title: "Gakuen Idolmaster V2 — Katsuragi Lilja Complete Audiovisual Baseline"

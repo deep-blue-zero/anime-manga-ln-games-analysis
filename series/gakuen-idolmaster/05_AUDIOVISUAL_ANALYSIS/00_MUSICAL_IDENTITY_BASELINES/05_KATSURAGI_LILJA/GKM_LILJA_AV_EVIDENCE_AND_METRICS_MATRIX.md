@@ -7,8 +7,8 @@ generation: V2
 release: R1
 status: canonical
 source_boundary: "Claim-level routing across complete Dear 001-037, seven complete song communications, eight rendered performances, three official MVs, Source Lock 1.0, and the Phase-3 textual core"
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: "2026-08-22"
 title: "Katsuragi Lilja AV Evidence and Metrics Matrix"

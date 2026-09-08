@@ -7,8 +7,8 @@ generation: V2
 release: R1
 status: canonical
 source_boundary: "Closure report for the complete Lilja Phase-3 integrated audiovisual baseline"
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: "2026-08-22"
 title: "Katsuragi Lilja Phase-3 Integrated AV Completion Report"

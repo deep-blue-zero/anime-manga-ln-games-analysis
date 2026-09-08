@@ -7,8 +7,8 @@ generation: V2
 release: R1
 status: canonical
 source_boundary: "Complete Phase-3 Lilja integrated audiovisual release: 22 canonical logical objects, 23 physical files, complete Dear 001-037, seven song communications, eight rendered performances, and three official MVs"
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: "2026-08-22"
 title: "Katsuragi Lilja Phase-3 Integrated AV — README and Document Map"

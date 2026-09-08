@@ -7,8 +7,8 @@ generation: V2
 release: R1
 status: canonical
 source_boundary: "ffprobe, SHA-256, sparse-frame, whole-mix, mixed-scene, and Source-Lock-derived textual-register measurements for 22 canonical logical AV objects and one alternate duplicate capture"
-supersedes: null
-superseded_by: null
+supersedes: []
+superseded_by: []
 do_not_use_as_current_authority: false
 last_updated: "2026-08-22"
 title: "Katsuragi Lilja AV Technical Metrics Appendix"
