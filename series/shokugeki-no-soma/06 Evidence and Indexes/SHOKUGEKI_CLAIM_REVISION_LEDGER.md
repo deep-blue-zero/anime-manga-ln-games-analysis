@@ -6,6 +6,9 @@ generation: V2
 status: canonical
 source_boundary: Complete original-Japanese sequential V2 reread, six frozen checkpoints, and immutable V1 Soma sample provenance
 created: 2026-09-08
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 last_updated_scope: V36_TERMINAL
 ---
 
@@ -49,7 +52,15 @@ It does not replace volume readings or the prospective `SH-V2-P###` register. Ea
 | SH-CR-028 | Mana is cured by the BLUE dishes | REJECT / HIGH | she experiences pleasure and returns to meals/family relation; later physical vulnerability and absence of medical certification require `relational reintegration`, not cure | `35-180`-`36-073`; `36-140`-`36-176`; `36-221`-`36-224` |
 | SH-CR-029 | Erina's BLUE victory is shown at the serialized ending | REJECT / HIGH | the serialized ending withholds the final ballot; `Présent` later identifies Erina champion and Soma runner-up without vote detail | `36-137`-`36-157` |
 | SH-CR-030 | The series ends in completed mastery | REJECT / HIGH | adult prestige culminates in an honestly failed dish, retained belonging, and another `おあがりよ!!` | `36-223`-`36-243` |
+| SH-CR-031 | Megumi worked with Soma at Mitamura and redesigned its reservation/information system | REJECT / HIGH — reconstruction correction | Megumi worked with Erina at Excellence and proposed table-side saucing. Hisako worked with Soma at Mitamura and supplied the administrative expertise; owner/staff consent remains causal | V13 deep reading Chapters 107–109; `13-108`–`13-124`; `13-128`–`13-159` |
+| SH-CR-032 | Megumi served a bento against Kurokiba in the Election | REJECT / HIGH — reconstruction correction | Her authored dish was `こづゆ鶏醤油ラーメン`, kozuyu-based chicken-soy ramen; Kurokiba wins, with no invented numeric ballot | V09 deep reading Chapters 71–72; `09-055`–`09-070` |
+| SH-CR-033 | The Sumire packaging/shopping-street coalition is Megumi's service evidence | REJECT / HIGH — attribution correction | That project names Soma, Kurase, Mito, Tomita, and local shops. Megumi's operational record uses her own breakfast, Excellence proposal, Moon Festival customer work, and later front-of-house service | V05 Ch. 38, `05-163`–`05-173`; V13 `13-108`–`13-124`; V15–V16 service record; V32 `32-188`–`32-190` |
+| SH-CR-034 | Megumi's V35 self-correction establishes withdrawal or authorization of her protective wager | REVISE / HIGH — scope correction | She retracts her claim about Erina's feelings and names friendship/opposition to harm. Wager withdrawal, Erina's consent, and V36 direct ratification remain unshown | V35 `35-048`–`35-064`; V36 character-state consequences |
 
 ## Terminal unresolved set
 
 The following remain `OPEN` rather than gaps to be harmonized away: the BLUE final vote and detailed plate comparison; Mana's medical course; complete accountability for Central, BLUE bracket capture, abduction, and Cross Knives; democratic legitimacy at Tōtsuki; the exact maintenance of adult peer relations; legal diner succession; and explicit Soma/Erina romance. These absences are part of the endpoint evidence.
+
+## Reconstruction-correction provenance
+
+SH-CR-031–034 were identified while expanding the existing Megumi monograph. Targeted V05, V09, V13, and V35 analytical retrieval resolved the attribution and scope issues without a new primary-volume reread. The original full-series validation audit is retained; these corrections are documented in the new reconstruction-fidelity audit rather than silently rewriting the earlier validation record.

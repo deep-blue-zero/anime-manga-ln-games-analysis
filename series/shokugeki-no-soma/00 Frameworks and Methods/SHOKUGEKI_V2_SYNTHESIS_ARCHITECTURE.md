@@ -4,7 +4,7 @@ artifact_type: synthesis_architecture
 scope: FULL_SERIES_V01-V36
 generation: V2
 status: canonical
-source_boundary: Original Japanese manga V01-V36; V2 sequential deep reading not yet begun at architecture activation
+source_boundary: Original Japanese manga V01-V36 complete; activation history preserved; terminal reconstruction refinement
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -59,7 +59,7 @@ The following remain canonical **within the scope of the completed V1 Soma sampl
 
 They do not govern how new V2 volumes are read.
 
-The V1 final character model remains the preferred **completed Soma reconstruction** until a full-series V2 Soma monograph/model is explicitly promoted. The V1 validation audit remains permanently authoritative for the old holdout experiment even after such a promotion.
+At activation, the V1 final character model remained the preferred **completed Soma reconstruction** until a full-series V2 Soma model was explicitly promoted. That condition has now been fulfilled: current full-series behavior routes through the V2 model and the character-model README. The V1 validation audit remains permanently authoritative for the old holdout experiment.
 
 ## 3. Existing structure and additive V2 layers
 
@@ -205,9 +205,16 @@ Canonical home for manga-specific sensory staging: food reveals, reaction imager
 
 ## 7. Character monograph architecture
 
-Do not decide the entire cast in advance.
+Do not decide the entire cast in advance. The original activation architecture reserved dedicated full-scale monographs for `monograph_ready` characters. The completed V01–V36 corpus now permits a **terminal refinement**, without rewriting what the earlier checkpoints authorized.
 
-When a character reaches `monograph_ready`, create a dedicated artifact with a stable name such as:
+| Artifact level | Evidence and authority contract | Readiness consequence |
+|---|---|---|
+| Full-scale monograph / validated reconstruction | Broad longitudinal, adverse, ordinary, relational, and endpoint evidence; explicit exception testing | `monograph_ready` authorizes construction; the recorded audit authorizes `validated_model` |
+| Bounded substantial reconstruction | Useful recurring character evidence, a clear default and state gates, conditional behavior/register, ordinary evidence or explicit absence, recipient modifiers, negative controls, probes and abstentions | Retain `substantial` or `substantial, provisional`; an artifact, filename, or self-audit does not promote it |
+
+A bounded model may be the character's first-read reconstruction artifact while ledgers and specialist syntheses retain their separate authority. It must expose missing ordinary, interior, endpoint, or accountability conditions. Do not fill those gaps with prominence, generic behavior, or protagonist-centered interpretation. Depth should follow evidence; Mana and Senzaemon need tighter limits than Hisako's broader work and relationship record.
+
+For a full-scale artifact at `monograph_ready`, use a stable name such as:
 
 `SHOKUGEKI_ERINA_CHARACTER_MONOGRAPH.md`
 
@@ -318,7 +325,9 @@ Examples:
 
 ### Mature character question
 
-`CURRENT_STATE_AND_CORPUS_MAP -> current character monograph/model -> character/voice/relationship ledgers -> checkpoint -> deep reading -> Japanese CBZ`
+`CURRENT_STATE_AND_CORPUS_MAP -> 04 Final Character Model/README -> selected validated or bounded model -> character/voice/relationship ledgers -> checkpoint -> deep reading -> Japanese CBZ`
+
+Use the separate reconstruction-fidelity audit for ordinary behavior, recipient differences, and abstentions. The original full-series audit and immutable V1 holdout audit retain their different validation responsibilities. Exact evidence retrieval escalates only where the existing record cannot resolve a material claim.
 
 ### V1 Soma holdout/predictive-warrant question
 
@@ -349,3 +358,9 @@ At V2 activation:
 Every artifact must have one clear identity, scope, authority state, and canonical home.
 
 V1 is preserved because it answers a narrower experimental question well. V2 is added because the user now wants a larger question answered. The architecture should allow both to remain intelligible without forcing the old corpus to masquerade as work it was never designed to be.
+
+## 16. Terminal reconstruction expansion
+
+Six existing validated models are expanded in place and ten bounded models are available through [the character router](../04%20Final%20Character%20Model/README.md). The sixteen readiness states are unchanged. This refinement changes artifact availability and reconstructive depth, not the frozen sequential method, past promotion decisions, or the separate responsibilities of the seven specialist syntheses.
+
+The repository schema search found no governing cross-title character-package schema. The reconstruction-capability specification concerns discovery governance and remains specification-only; it is not adopted as a Shokugeki JSON package. Markdown models remain the canonical deliverables.

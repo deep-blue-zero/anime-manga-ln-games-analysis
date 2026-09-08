@@ -4,12 +4,12 @@ artifact_type: ledger
 scope: ENSEMBLE_CHARACTER_STATE_AND_RECONSTRUCTION
 generation: V2
 status: active_provisional
-source_boundary: V25 complete
+source_boundary: V01-V36 complete; six frozen checkpoints; terminal reconstruction consolidation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-26
-last_updated_scope: V25
+last_updated_scope: V36_TERMINAL_RECONSTRUCTION
 ---
 
 # SHOKUGEKI_CHARACTER_STATE_AND_RECONSTRUCTION_LEDGER
@@ -22,7 +22,9 @@ The frozen V1 Soma behavioral ledger remains bounded provenance and is not merge
 
 ## Current boundary
 
-`V16 COMPLETE` - current cumulative V2 authority is bounded to Volume 16.
+Current scope covers the completed corpus. Per-volume tables and prospective rules below retain their historical boundaries; they are not new forward predictions. For current artifact availability use the [sixteen-model router](../04%20Final%20Character%20Model/README.md). Mutable-ledger status does not promote character readiness.
+
+`V01-V36 COMPLETE; TERMINAL V2` - current cumulative evidence covers the completed series; historical rows retain their own scope.
 
 ## Character state table
 
