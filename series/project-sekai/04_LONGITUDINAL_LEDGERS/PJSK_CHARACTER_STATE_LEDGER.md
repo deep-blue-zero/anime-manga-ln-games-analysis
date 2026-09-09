@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 character evidence through EVENT_0080; Mafuyu archery history, bounded regulation and remembered cross-unit support; no successor global human state"
-analysis_cutoff: "EVENT_0080 relationship/epistemic I3; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained; latest human-state transition EVENT_0072"
+source_boundary: "N25 characterization through EVENT_0081; Kanade public improvisation and reciprocal reception, ordinary group and family evidence; no successor human state"
+analysis_cutoff: "EVENT_0081 I1; latest relationship/epistemic I3 EVENT_0080; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The verified forward analytical frontier is **EVENT_0080**, an I3 cross-unit relationship/epistemic transition with material Mafuyu characterization refinement. EVENT_0079’s Ena sibling evidence and EVENT_0077’s Ena/Mafuyu refinements remain controlling, with current global human defaults: **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. EVENT_0072 remains the latest human-state transition. Historical entries remain true only at their own recorded cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact.
+The verified forward analytical frontier is **EVENT_0081**, an I1 characterization increment in public creative support and ordinary companionship. EVENT_0080’s Mafuyu characterization and bounded relationship/epistemic transition remain controlling, alongside EVENT_0079’s Ena sibling evidence and EVENT_0077’s Ena/Mafuyu refinements. Current global human defaults remain **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. EVENT_0072 remains the latest human-state transition. Historical entries remain true only at their own recorded cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact.
 
 Earlier summaries and pending queues are historical handoffs. The current model must also apply `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and the EVENT_0080/0077 epistemic/claim refinements, including the limit on EVENT_0072's “first explicit want” language. Other human-unit foundations and 21 earlier universal screens remain separate unfinished obligations. The frozen source boundary `PJSK_SOURCE_20260822T184634Z_EVENT_0213` confers no later analytical authority.
 
@@ -1280,3 +1280,15 @@ After hearing that Shizuku wants to support her, Mafuyu initially retains exam/f
 Ordinary capacities include a tied match and rematch proposal; checking Shizuku after a fall, sharing an umbrella, laughing at snow on her face and wiping it away; identifying a wrong branch map; asking to accompany an actual umbrella purchase; accepting a lunch invitation after an existing commitment is checked; and explaining topical-fiction reading as study (`PJSK:event:0080:08:001:0002–0052`; `PJSK:card:0557:02:002:0017–0051`; `PJSK:area:areatalk_ev_shuffle_26_001:01`; `PJSK:area:areatalk_ev_shuffle_26_002:01`). These acts are not dismissed as fake, but public enjoyment wording alone does not establish affective fluency. In the holiday scene, private concern that maternal presence constrains N25 work accompanies the public spare-time explanation; no single motive exhausts the outing.
 
 Reconstruction must apply the new cross-unit relationship and knowledge state while retaining the human tuple and EVENT_0077's limit on first-ever desire language. Kanade, Ena and Mizuki receive no new global characterization from this envelope. Shizuku's perfection pressure, agency, hobbies and care, Airi's independent tea interests, and Shiho's family/play evidence remain routed for founded MMJ/Leo/need comparison. Next EVENT_0081 after transaction closure.
+
+## EVENT_0081 characterization increment — public help and ordinary reception
+
+**I1; preserve all four human defaults.** In the [complete mixed reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0081_DEEP_READING.md), Kanade notices that interrupted music is losing a show's audience, uses an available piano and develops the fragment she heard according to the scene's needs. Her rapid action includes represented musical reasoning; it is not full-score recall or an unqualified compulsion to intervene in everything (`PJSK:event:0081:06:003:0071–0084`). Tsukasa identifies how the accompaniment helped his acting. Kanade initially minimizes her work, then thanks the friends who praise it (`PJSK:event:0081:06:003:0091–0111`). This strengthens established creative support beyond Mafuyu, not a new global public-confidence state.
+
+Miku's comparison between the play's smile-making and Kanade's work prompts Kanade to remember her happiness at Mafuyu's smile (`PJSK:event:0081:06:003:0037–0050`). Partial positive consequence is already meaningful under `K-E0063-01`; persistent rescue/guilt architecture remains. Shopping for a small decoration to bring to a hospitalized family member extends remembered household ritual into intended care. She is physically tired carrying purchases and considers Honami's later plans; no hospital visit or response is shown (`PJSK:event:0081:07:005:0002–0008`).
+
+Mafuyu draws a fortune for Len, reassures him about her own poor result, recognizes the earlier festival piano by its moon mark, accommodates Miku's discreet watching and offers both public and plainer peer praise (`PJSK:event:0081:06:002:0011–0017`; `PJSK:event:0081:06:003:0005–0008`; `PJSK:event:0081:06:003:0017–0035`; `PJSK:event:0081:06:003:0096–0109`). She accepts Shizuku's sweets invitation until family contact, preserving its condition rather than displaying unlimited autonomy or restored taste (`PJSK:event:0081:07:004:0005–0018`). Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080` and its knowledge limits.
+
+Ena candidly enjoys the show and Kanade's playing, while her later running follows an Akito remark she privately withholds behind a show-inspired explanation (`PJSK:event:0081:06:003:0107–0111`; `PJSK:event:0081:07:005:0009–0021`). Mizuki openly pursues a favorite accessory sale, includes others, enjoys ritual, teases and enforces the singers' concealment boundary (`PJSK:event:0081:06:002:0010–0014`; `PJSK:event:0081:06:003:0011–0031`). None discloses Mizuki's guarded content or replaces their existing state.
+
+Empty Len reports settling through others' kindness and learning string figures from Luka, then requests Rin's attention to a practiced ladder. The attempt is proposed, not shown completed (`PJSK:area:areatalk_monthly2212_005:01`). Keep this manifestation's ordinary evidence separate from the other four units' singers. Next EVENT_0082 after closure.

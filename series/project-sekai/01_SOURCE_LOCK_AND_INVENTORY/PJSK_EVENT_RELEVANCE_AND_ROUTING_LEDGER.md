@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0080; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0081; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1607,3 +1607,93 @@ next_event: EVENT_0081
 | Ordinary school / reading and lunch | `PJSK:area:areatalk_ev_shuffle_26_001:01`; `PJSK:area:areatalk_ev_shuffle_26_002:01`; `PJSK:area:areatalk_ev_shuffle_26_003:01` | Agreed lunch after checking commitments, different reading rationales, music purchase and cat-plush tactile pleasure. No depicted completed lunch or restored Mafuyu literary preference. |
 
 The shared reading owns all 23 witness ranges/hashes, causal interpretation and reconstruction delta. N25 I3 updates all six ledgers and advances `REL-CROSS-MAFUYU-SHIZUKU-E0033 -> REL-CROSS-MAFUYU-SHIZUKU-E0080`, without successor human state. MMJ and Leo/need remain deferred. Latest positive/documentary and relationship/epistemic boundary EVENT_0080; latest human-state transition EVENT_0072. Next EVENT_0081; earlier gaps and remaining completion obligations persist.
+
+## EVENT_0081 — 新春！ 獅子舞ロボのお正月ショー！
+
+```yaml
+release_id: EVENT_0081
+release_bucket: RB_20221231T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 10 archive-publication/event-unlock areas = 28"
+core_locators: [PJSK:event:0081:01, PJSK:event:0081:02, PJSK:event:0081:03, PJSK:event:0081:04, PJSK:event:0081:05, PJSK:event:0081:06, PJSK:event:0081:07, PJSK:event:0081:08]
+card_locators: [PJSK:card:0565:01, PJSK:card:0565:02, PJSK:card:0566:01, PJSK:card:0566:02, PJSK:card:0567:01, PJSK:card:0567:02, PJSK:card:0568:01, PJSK:card:0568:02, PJSK:card:0569:01, PJSK:card:0569:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_27_001:01, PJSK:area:areatalk_ev_shuffle_27_002:01, PJSK:area:areatalk_ev_shuffle_27_003:01, PJSK:area:areatalk_ev_shuffle_27_004:01, PJSK:area:areatalk_ev_shuffle_27_005:01, PJSK:area:areatalk_monthly2212_001:01, PJSK:area:areatalk_monthly2212_002:01, PJSK:area:areatalk_monthly2212_003:01, PJSK:area:areatalk_monthly2212_004:01, PJSK:area:areatalk_monthly2212_005:01]
+
+chronology_note: "Cards 0565-0567 initially available 03:00Z, 0568-0569 06:00Z; all ten areas archive-published 2022-12-31T06:00Z, separately linked by condition 108008 to episode 1000656/chapter 8. Earlier preparation, New Year tour and later encounters/practice remain distinct; play chronology is fictional."
+unit_routes:
+  WXS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Tsukasa, Emu, Nene, Rui, Hinata, Shousuke_reported, Tenma_mother, Saki_family, Nenerobo, lion_robot, audiences]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [duty_and_growth, actorly_ambition, cooperative_learning, improvisation, audience_participation, situated_music, transport_and_permission, sibling_familiarity, reciprocal_music_friendship, ordinary_belonging, robotic_companionship, plans_versus_outcomes]
+    locators: [PJSK:event:0081:01, PJSK:event:0081:02, PJSK:event:0081:03:002, PJSK:event:0081:04:003, PJSK:event:0081:05:002, PJSK:event:0081:06:003, PJSK:event:0081:08, PJSK:card:0565, PJSK:card:0567, PJSK:card:0568]
+  VBS:
+    relevance: SECONDARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [An, Kohane, Akito, Toya, Ken_reported_and_arriving, pension_owner_reported, Haruka_cross_unit, Ena_reported_family, audience_child]
+    manifestations: [VBS_Miku, VBS_Rin, VBS_Len, VBS_Luka, VBS_MEIKO, VBS_KAITO]
+    domains: [audience_rapport, participatory_skill, novice_sensitive_teaching, rivalry, shared_leisure, music_priority, ordinary_preferences, photography, bodily_limits, family_influence, supportive_logistics]
+    locators: [PJSK:event:0081:05:002, PJSK:event:0081:07:003, PJSK:event:0081:07:004, PJSK:event:0081:07:006, PJSK:card:0566, PJSK:card:0569, PJSK:area:areatalk_ev_shuffle_27_004:01, PJSK:area:areatalk_ev_shuffle_27_005:01, PJSK:area:areatalk_monthly2212_003:01]
+  N25:
+    relevance: SECONDARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: I1
+    reconstruction_yield: R2
+    characters: [Kanade, Mafuyu, Ena, Mizuki, hospitalized_family_member_referenced, Akito_bounded_family, Honami_cross_unit, Shizuku_cross_unit]
+    manifestations: [N25_Miku, N25_Rin, N25_Len, N25_Luka, N25_MEIKO]
+    domains: [public_creative_support, partial_efficacy, scene_sensitive_composition, received_praise, perceptual_memory, ritual_beliefs, ordinary_interests, privacy, conditional_social_choice, family_continuity, private_motive, manifestation_companionship]
+    locators: [PJSK:event:0081:06:002, PJSK:event:0081:06:003, PJSK:event:0081:07:004, PJSK:event:0081:07:005, PJSK:event:0081:08:001:0063, PJSK:card:0565:02:001:0035, PJSK:area:areatalk_monthly2212_005:01]
+  LEO_NEED:
+    relevance: SECONDARY
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Ichika, Saki, Honami, Shiho, Tsukasa_family, Tenma_mother, Nene_cross_unit, Kanade_cross_unit]
+    manifestations: [LN_Miku, LN_Rin, LN_Len, LN_Luka, LN_MEIKO, LN_KAITO]
+    domains: [professional_aspiration, singing_under_embarrassment, encouragement, group_play, planning_and_care, sibling_knowledge, music_friendship, ordinary_social_networks, household_support]
+    locators: [PJSK:event:0081:03:002, PJSK:event:0081:07:002, PJSK:event:0081:07:005, PJSK:event:0081:07:006, PJSK:card:0565:01, PJSK:card:0568:02, PJSK:area:areatalk_monthly2212_001:01]
+  MMJ:
+    relevance: SECONDARY
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Minori, Haruka, Airi, Shizuku, fans, An_cross_unit, Mafuyu_cross_unit]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [fan_perspective, hope_delivery, practical_planning, group_care, improvised_collaboration, audience_inclusion, ordinary_friendship, preferences, fan_service_calibration]
+    locators: [PJSK:event:0081:04:003, PJSK:event:0081:07:002, PJSK:event:0081:07:003, PJSK:event:0081:07:004, PJSK:event:0081:07:006, PJSK:area:areatalk_monthly2212_002:01]
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0081_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0082
+```
+
+| Reusable route | Exact evidence | Interpretation and limits |
+|---|---|---|
+| Tsukasa / actor, leader and learner | `PJSK:event:0081:02:002:0003–0023`; `PJSK:event:0081:08:001:0041–0074`; `PJSK:card:0565:02:001:0022–0059` | Familiar duties and desired novelty coexist. Four encounters produce differentiated lessons and a plan to consult about more external work, followed by renewed practice; no departure, approved tour or completed new mastery. |
+| WxS / audience co-creation | `PJSK:event:0081:03:002:0072–0124`; `PJSK:event:0081:04:003:0074–0110`; `PJSK:event:0081:05:002:0077–0106`; `PJSK:event:0081:06:003:0064–0099` | Song-responsive dance, idol involvement, street excitement and fitting accompaniment alter the prepared show differently. One shared causal reading serves all units; audience reactions and actors' private lessons are different evidence levels. |
+| Hinata–Emu–troupe / practical reciprocal help | `PJSK:event:0081:02:004:0044–0066`; `PJSK:card:0568:01:001:0025–0065`; `PJSK:event:0081:06:004:0004–0007` | Driver has her own educational interest, borrowed vehicle, food and route preparation. All four venues authorize performance; no invented permission agent or completed nursery project. Nene anticipates nonfamily New Year belonging. |
+| An–Kohane / active companionship | `PJSK:card:0566:01:001:0009–0050`; `PJSK:event:0081:05:002:0077–0100` | Shared rest and beginner teaching, Kohane-initiated matching outside work, An's skill-inclusive invitation to a child and Kohane's voluntary singing. Coordinated socks confirmed packed in 0569:01; other shopping remains proposed. |
+| VBS / leisure, instruction and bodily limits | `PJSK:card:0566:02:001:0002–0057`; `PJSK:card:0569:01:002:0013–0050`; `PJSK:card:0569:02:001` | Akito permits travel rest and privately loosens up; novice ski practice avoids the lift; balanced snowball teams include practice; actual live/footbath and differentiated food/photography/scenery preferences. No final race tally, snowball winner or booked return. |
+| An–Haruka / ambition and familiarity | `PJSK:event:0081:07:003:0002–0016` | Acting is briefly entertained then rejected as not the foremost desired path; Haruka recognizes the preference. Penguin delight and the wish to photograph the dessert coexist with professional skill. No career switch. |
+| Ichika–Nene / mutual musical interest | `PJSK:event:0081:03:002:0083–0124`; `PJSK:card:0568:02:001:0005–0046` | Ichika performs despite shyness; Nene notices specific effects, struggles after finishing her planned thanks, then accepts a conditional future invitation. They start practice; live-house attendance remains future. |
+| Tenma household / reciprocal familiarity | `PJSK:card:0565:01:001:0013–0050` | Saki notices hunger, siblings accurately predict amounts/preferences and accept their mother's playful task request. No literal mind-reading or reduction to illness-centered caretaking. |
+| MMJ / self-organized broadcast and collaboration | `PJSK:event:0081:04:003:0002–0049`; `PJSK:event:0081:04:003:0074–0127` | Fan-viewpoint idea, researched route and broadcast pause, support on slippery ground, Airi's initiative and all-member improvisation with audience invitation. Hope-delivery mission continues; fans are not shown seeing Stage manifestations. |
+| N25 / ritual and situated composition | `PJSK:event:0081:06:002`; `PJSK:event:0081:06:003:0011–0035`; `PJSK:event:0081:06:003:0040–0050`; `PJSK:event:0081:06:003:0071–0111` | Different beliefs, preferences, piano recognition, discreet viewing, partial-score reasoning, received praise. I1 strengthens K-027/042/071; no rescue/guilt cure, new self-esteem state or total-score recall. |
+| Mafuyu–Shizuku and wider circle | `PJSK:event:0081:07:004:0002–0025` | Shared-show discovery and accepted invitation until family contact extend E0080 ordinary availability. Meal, full autonomy and private disclosure are not shown. |
+| Kanade–Honami–Ena / public/private reasons | `PJSK:event:0081:07:005:0002–0021` | Practical shopping/rest support and intended family decoration; Ena's Akito-prompted running motive is audience-only behind a different public account. No completed hospital response or diagnosis. |
+| Wonderland singers–lion robot / roles and constraints | `PJSK:card:0567:01`; `PJSK:card:0567:02`; `PJSK:area:areatalk_ev_shuffle_27_001:01`; `PJSK:area:areatalk_ev_shuffle_27_002:01`; `PJSK:area:areatalk_ev_shuffle_27_003:01` | Ritual thanks, limited-view audience experience, corrected dream memory, Rin's alternate-role idea and request to consult Rui; adjustment postponed at Tsukasa's petlike attachment. No automatic robot ontology, approved new show, fixed mechanism or prophetic fortune. |
+| Manifestation-specific monthly ordinary skill | `PJSK:area:areatalk_monthly2212_001:01` through `PJSK:area:areatalk_monthly2212_005:01` | Classroom game rules; Stage fan-service calibration; Street teaching with comic inconsistency; Wonderland learned juggling; Empty Len's settling and string-figure request. Keep all five knowledge/behavior systems distinct; N25 KAITO absent. |
+| Cross-unit plans and everyday friction | `PJSK:event:0081:07:002`; `PJSK:event:0081:07:006`; `PJSK:area:areatalk_ev_shuffle_27_004:01`; `PJSK:area:areatalk_ev_shuffle_27_005:01` | Show stories travel through particular contacts, An/Akito negotiate odd drinks, and An/Tsukasa propose joint shrine attendance while Akito/Nene react differently. No universal itinerary knowledge, machine diagnosis or completed/unanimously pre-approved group visit. |
+
+All 28 hashes/ranges and causal distinctions are retained in the shared reading. N25 I1 updates all six ledgers without new IDs; latest relationship/epistemic I3 remains EVENT_0080, latest human-state transition EVENT_0072. Other units remain deferred. Next EVENT_0082; earlier gaps and full foundation/reconstruction/synthesis/audit/integration obligations persist.

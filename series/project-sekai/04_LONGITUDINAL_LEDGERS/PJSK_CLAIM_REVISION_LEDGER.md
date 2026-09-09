@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claim authority through EVENT_0080; MF-094 and MF-095 added; public competence, bounded affect, maternal care/control and cross-unit knowledge formulations refined"
-analysis_cutoff: "EVENT_0080 claim integration and relationship/epistemic I3; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained"
+source_boundary: "N25 claims through EVENT_0081; K-027, K-042 and K-071 strengthened by situated public help and reciprocal reception; no new claim ID"
+analysis_cutoff: "EVENT_0081 I1 claim corroboration; latest relationship/epistemic I3 EVENT_0080; current human tuple retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 claim authority reaches **EVENT_0080**, adding `CR-N25-MF-094` and `CR-N25-MF-095` on bounded regulation and support received outside full disclosure. EVENT_0077’s `CR-N25-E-091`, `CR-N25-MF-092`, `CR-N25-FAMILY-093` and chronological correction to `CR-N25-MF-088` remain controlling; EVENT_0079 required no governing claim revision. Earlier summaries are historical handoffs; revisions apply only within the requested analytical boundary. EVENT_0080 produces a bounded cross-unit relationship/epistemic transition without a successor global human ID. Source currency does not advance claim authority.
+N25 claim authority reaches **EVENT_0081**, strengthening `CR-N25-K-027`, `CR-N25-K-042` and `CR-N25-K-071` without a new claim ID or successor state. EVENT_0080’s `CR-N25-MF-094` and `CR-N25-MF-095` remain controlling, as do EVENT_0077’s `CR-N25-E-091`, `CR-N25-MF-092`, `CR-N25-FAMILY-093` and chronological correction to `CR-N25-MF-088`. Earlier summaries are historical handoffs; revisions apply only within the requested analytical boundary. Latest bounded relationship/epistemic I3 remains EVENT_0080. Source currency does not advance claim authority.
 
 The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
 
@@ -1259,3 +1259,11 @@ EVENT_0077 is I3 through relationship/epistemic transition; no successor human I
 - **Historical school-knowledge shorthand: REVISE scope.** Newly shown first-year observations prevent using “public-mode-only” to mean Shizuku never saw strain. They do not grant her its causes, make every earlier interaction intimate or backdate the present support promise (`PJSK:event:0080:04:005:0031–0082`). The former relationship state remains historically preserved with this source-time qualification.
 
 No revision erases EVENT_0077's correction to first-ever desire language, E0070's artistic judgments, or the E0079 family increment. New relationship default `REL-CROSS-MAFUYU-SHIZUKU-E0080`; human tuple unchanged. Other units require foundation-aware claim comparison. Next EVENT_0081 after closure of the [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md).
+
+## EVENT_0081 claim corroboration — situated music can help beyond the rescue project
+
+- **`CR-N25-K-027`: STRENGTHEN.** Kanade's public piano intervention helps a performance continue and its audience reconnect. She uses the fragment heard and the dramatic context to compose a continuation, a concrete instance of useful creative support outside the Mafuyu salvation schema (`PJSK:event:0081:06:003:0071–0088`). EVENT_0076 already corroborated the broader ability; this is additional situated evidence, not a first discovery or new governing motive.
+- **`CR-N25-K-042`: STRENGTHEN.** The play/Miku analogy prompts Kanade to value her remembered happiness at Mafuyu's smile, while the actual performance supplies another bounded positive consequence (`PJSK:event:0081:06:003:0040–0050`; `PJSK:event:0081:06:003:0091–0099`). Partial efficacy remains worthwhile without a claim that Mafuyu is fully saved or that Kanade has abandoned outcome-linked guilt.
+- **`CR-N25-K-071`: STRENGTHEN.** Kanade takes part in shrine/shopping life, can imagine pleasure in collective activity and eventually accepts specific peer praise. Her intended family decoration connects present care to remembered household custom (`PJSK:event:0081:06:002:0018–0019`; `PJSK:event:0081:06:003:0040–0041`; `PJSK:event:0081:06:003:0107–0111`; `PJSK:event:0081:07:005:0002–0008`). Fatigue, household dependence and unresolved rescue obligation remain; neither the future visit nor its effect occurs in the source.
+
+**PRESERVE** the current Mafuyu affect/agency, Ena artistic legitimacy, Mizuki disclosure and E0080 support claims. Mafuyu's plainer praise, recognition and conditional outing provide behavior without general taste/emotion recovery; Ena's public reason for running must be distinguished from her private motive. **No new claim ID** is required. `CR-N25-MF-095` remains the newest claim. The [shared reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0081_DEEP_READING.md) retains substantial other-unit evidence for later founded revision. Next EVENT_0082.

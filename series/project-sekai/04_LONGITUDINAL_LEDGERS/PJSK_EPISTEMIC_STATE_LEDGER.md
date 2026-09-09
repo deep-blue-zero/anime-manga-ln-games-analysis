@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic authority through EVENT_0080; Mafuyu knows Shizuku observed strain and offers support; recipient memory/relief remains private; maternal and N25 causes undisclosed"
-analysis_cutoff: "EVENT_0080 I3 bounded cross-unit knowledge transition; EVENT_0077 desire/disclosure corrections and EVENT_0079 family increment retained"
+source_boundary: "N25 epistemic increments through EVENT_0081; observed public improvisation, bounded name/itinerary sharing and private motives kept separate"
+analysis_cutoff: "EVENT_0081 I1 evidence; latest bounded relationship/epistemic I3 EVENT_0080; E0077 desire/disclosure corrections retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic boundary is **EVENT_0080**. Mafuyu learns Shizuku’s specific concern, historical gratitude and persistent support offer; Shizuku witnesses strain and local recovery but does not learn its maternal cause or the later private memory response. EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or newly depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
+The latest integrated epistemic boundary is **EVENT_0081**, adding directly witnessed public creative competence and bounded social information without a governing state replacement. EVENT_0080’s support offer, preserved causal ignorance and private recipient memory remain current; EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
 
-Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0081; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
+Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0082; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
 
 ## 1. Purpose
 
@@ -1395,3 +1395,20 @@ The repeated EVENT_0029 origin suggestion remains established history rather tha
 **Temporal correction:** the audience newly sees Shizuku's first-year glimpses of strain; current analytical knowledge of those scenes is not evidence that the present offer already existed then. Earlier “public-mode-only” shorthand is narrowed as an absolute observation claim while the specific N25/family knowledge exclusions remain valid. Public statements of enjoyment in recruitment, snowfall and shopping retain attribution; private evidence is assessed separately.
 
 Mizuki's guarded content remains undisclosed. No N25 manifestation obtains Stage memory. Preserve E0077 and E0079 corrections and the human tuple. The [shared reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md) owns complete knowledge routing, including design versus sewn-costume completion and the distributed rabbit sequence. Next EVENT_0081.
+
+## EVENT_0081 knowledge increments — observed skill, attributed causes and partial networks
+
+| Holder / class | New usable knowledge | Evidence and limit |
+|---|---|---|
+| Mafuyu, Kanade / direct recognition | The mall piano is the earlier festival instrument, identified by Mafuyu's remembered moon mark and confirmed by Kanade. | `PJSK:event:0081:06:003:0017–0024`. Mizuki learns the location from this exchange; no general omniscient memory follows. |
+| Kanade / private memory and compositional reasoning | The play recalls happiness at Mafuyu's smile; she knows only a fragment of the BGM and develops it for the scene. | `PJSK:event:0081:06:003:0040–0050`; `PJSK:event:0081:06:003:0079–0080`. Others witness music and hear her modest account, not necessarily every internal reasoning step. |
+| Tsukasa, WxS and nearby observers / direct witness and disclosure | Kanade supplies live accompaniment; Tsukasa hears her name and states that its warmth helped his acting. Rui links prior festival assistance. | `PJSK:event:0081:06:003:0076–0099`. No automatic father/guilt/N25-private knowledge. Tsukasa's later internal lesson about sound remains his own until actually communicated; 0565:02 explicitly shares the broader growth rationale. |
+| Rui / technical inference | Repeated cold/warm transitions may explain Nenerobo's failure despite charging. | `PJSK:event:0081:06:003:0059–0060`. Do not certify a diagnostic cause or give every observer access to this private assessment. |
+| Mafuyu, Shizuku, Mizuki, Akito, Toya / explicit reports | They compare separate encounters with the same show; Mafuyu agrees to accompany the group until family contact. | `PJSK:event:0081:07:004:0002–0025`. Shared-show familiarity is not proof that every detail of every venue, or Kanade's private life, was transmitted. |
+| Kanade, Honami / directly discussed plan | A purchased small decoration is intended for a hospitalized family member, continuing a remembered home practice. | `PJSK:event:0081:07:005:0002–0008`. Future visit, placement and recipient response remain unshown. |
+| Ena / audience-richer private motive | Akito's comment about holiday eating prompted running; she instead tells companions the show inspired movement. | `PJSK:event:0081:07:005:0015–0017`. Kanade/Honami receive her explanation, not her unspoken correction. |
+| Empty Len and companions / report and request | Len says kindness helped him settle and confirms Luka taught string figures; he asks Rin to watch a ladder he practised. | `PJSK:area:areatalk_monthly2212_005:01:001:0002–0014`. Luka's possible self-interest is MEIKO's interpretation; successful demonstration is not yet shown. |
+
+Classroom, Stage, Street, Wonderland and Empty manifestations remain separate. Classroom/VBS singers conceal themselves around visitors; MMJ singers appear during a broadcast pause; Miku's discreet mall watching preserves the existing boundary. Wonderland 0567:02 independently supplies its singers' tour-viewing report and corrects Luka's imagined jungle ending (`PJSK:card:0567:02:001:0002–0012`). No shared-memory shortcut is licensed. N25 KAITO does not appear.
+
+The play's god, ten-year journeys, ages and castle are fictional events inside a performance. Fortunes and dream-picture claims are character beliefs/customs, not reliable forecasts or proven dream control. Proposed consultation, invitations, robot adaptations, repaired mechanisms and future performances remain distinct from completed actions. Preserve Mizuki's guarded-content boundary, the E0080 Shizuku knowledge limits and all current N25 states. Next EVENT_0082.

@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 thematic evidence through EVENT_0080; warmth/coldness, care without extraction, ordinary life and relational conditions strengthened; no new recurring motif ID"
-analysis_cutoff: "EVENT_0080 positive thematic boundary; newest theme ID remains TH-N25-034 from EVENT_0077; other-unit foundations pending"
+source_boundary: "N25 thematic evidence through EVENT_0081; partial efficacy, situated creative response, seasonal continuity and ordinary life strengthened; no new motif ID"
+analysis_cutoff: "EVENT_0081 thematic increment; newest theme remains TH-N25-034 from EVENT_0077; other-unit comparisons deferred"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0080**, extending warmth/coldness, support without complete disclosure, ordinary-life and relational-choice themes. No new recurring motif ID is added. `TH-N25-034` remains the newest theme from EVENT_0077; EVENT_0070 established `TH-N25-032` and EVENT_0072 `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
+N25 thematic authority reaches **EVENT_0081**, strengthening partial efficacy, situated creative response, seasonal continuity and ordinary life alongside the EVENT_0080 warmth/support findings. No new recurring motif ID is added. `TH-N25-034` remains the newest theme from EVENT_0077; EVENT_0070 established `TH-N25-032` and EVENT_0072 `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -1213,3 +1213,12 @@ Latest theme/evidence authority EVENT_0077; next forward candidate EVENT_0078.
 **Event-local structures:** archery's one-shot focus is both a working practice and visibly limited refuge; snow shifts from a wish to suspend return into a shared material carrying memory; the umbrella moves from actual shelter to an explicit future offer. The rabbits grow 1 → 5 → 8 through makers who initially do not know one another's contributions or Mafuyu's private response. These structures strengthen established support/memory/warmth lines; they do not require duplicate recurring motif IDs, prove a literal character-per-rabbit mapping, or establish permanence beyond melting.
 
 Shizuku's perfection/effort history, Airi's tea interests, Hinomori childhood consolation and Stage KAITO's complementary craft abilities remain in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md) for founded MMJ/Leo/need interpretation. No franchise-wide theorem is certified. Next EVENT_0081.
+
+## EVENT_0081 thematic corroboration — an audience can also help make the work
+
+- **`TH-N25-003` creative work/music as psychological evidence: STRENGTHEN.** Kanade's response to an interrupted show exposes attention to the recipient's situation, usable musical competence and an ability to make a fitting continuation from incomplete material (`PJSK:event:0081:06:003:0071–0088`). The observed effect is shared by musician, actors and audience; a performer is not a wholly self-sufficient source of the experience.
+- **`TH-N25-025` positive rescue destination / accompaniment: STRENGTHEN existing bounded meaning.** Kanade remembers the value of Mafuyu's smile through the play's relational-treasure idea, and her accompaniment helps the scene without making anyone fully saved (`PJSK:event:0081:06:003:0040–0050`; `PJSK:event:0081:06:003:0091–0099`). This continues the earlier partial-efficacy correction; it does not newly legitimate relentless self-sacrifice.
+- **`TH-N25-014` ordinary-life expansion without cure: STRENGTHEN.** Fortune drawing, accessory shopping, discreet entertainment, peer gratitude, an invitation bounded by family contact and Len's string figures carry life outside immediate crisis (`PJSK:event:0081:06:002`; `PJSK:event:0081:06:003:0002–0035`; `PJSK:event:0081:07:004`; `PJSK:area:areatalk_monthly2212_005:01`). Self-care, secrecy and autonomy conflicts do not disappear.
+- **`TH-N25-015`, §12.3 seasonal ritual and its EVENT_0045 continuity extension: STRENGTHEN.** Another shared New Year includes the newer Empty Len, while Kanade's intended hospital decoration recalls household continuity (`PJSK:event:0081:06:002`; `PJSK:event:0081:07:005:0007–0008`). The qualified reference is distinct from the imported ordinary-companionship meaning of the same ID.
+
+**Event-local structures, broader comparison deferred:** the play redirects the castle's value into shared theater; Tsukasa's real excursion tests growth through unfamiliar collaborators while retaining home obligations; the lion robot makes limited opportunities visible; dream drawing proposes a shared image of future activity. None needs a new N25 recurring motif ID. Fortunes do not establish fate, desired dreams are not demonstrated dream control, and theatrical treasure is not literal human biography. The four performances and their distinct effects are preserved for WxS/Leo/need/MMJ/VBS foundation-aware synthesis. Next EVENT_0082.

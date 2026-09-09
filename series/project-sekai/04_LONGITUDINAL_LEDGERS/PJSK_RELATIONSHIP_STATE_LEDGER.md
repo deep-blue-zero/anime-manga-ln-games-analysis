@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationship evidence through EVENT_0080; REL-CROSS-MAFUYU-SHIZUKU-E0080 succeeds the E0033 bounded peer state; other current relationships retained"
-analysis_cutoff: "EVENT_0080 I3 reciprocal cross-unit support under nondisclosure; latest human-state transition EVENT_0072; REL-N25-EM-5 remains current"
+source_boundary: "N25 relationship evidence through EVENT_0081; creative gratitude, time-qualified peer contact and Empty Len companionship; E0080 cross-unit and other defaults retained"
+analysis_cutoff: "EVENT_0081 I1; latest relationship/epistemic I3 EVENT_0080; REL-CROSS-MAFUYU-SHIZUKU-E0080 and REL-N25-EM-5 remain current"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-Relationship authority reaches **EVENT_0080**, advancing Mafuyu–Shizuku to **`REL-CROSS-MAFUYU-SHIZUKU-E0080`** through explicit, enacted and remembered support under preserved nondisclosure. EVENT_0079’s Ena–Akito increment remains valid; EVENT_0077’s **`REL-N25-EM-5`** remains current. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku's `REL-N25-GM-E0054` and N25 Len's `REL-N25-VS-LEN-GROUP-E0061` remain distinct; Len gains a bounded support-method refinement. Cross-unit entries do not establish complete other-unit systems.
+Relationship authority reaches **EVENT_0081**, with I1 creative-gratitude, ordinary-contact and manifestation-companionship evidence. Mafuyu–Shizuku remains **`REL-CROSS-MAFUYU-SHIZUKU-E0080`**, the latest bounded relationship/epistemic I3. EVENT_0079’s Ena–Akito increment and EVENT_0077’s **`REL-N25-EM-5`** remain valid. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku’s `REL-N25-GM-E0054` and N25 Len’s `REL-N25-VS-LEN-GROUP-E0061` remain distinct. Cross-unit entries do not establish complete other-unit systems.
 
-Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. `REL-CROSS-MAFUYU-SHIZUKU-E0033` remains the historical analytical default through EVENT_0079, with newly revealed first-year observations applied only to their depicted times. The next forward event is EVENT_0081. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
+Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. `REL-CROSS-MAFUYU-SHIZUKU-E0033` remains the historical analytical default through EVENT_0079, with newly revealed first-year observations applied only to their depicted times. The next forward event is EVENT_0082. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
 
 ## 1. Purpose
 
@@ -1648,3 +1648,15 @@ The E0033 state and its E0035/0036/0045/0068/0072/0075 extensions covered comfor
 **Asymmetry:** Shizuku remains uncertain whether she helped and ignorant of the mother's message, N25/SEKAI and the private memory-linked bodily response. Mafuyu now knows her concern is specific and that the support offer persists; this does not mean she will freely disclose. The returned instruction has local efficacy, not universal protective power. Earlier recruitment/training scenes add historical substrate without projecting this present promise backward. Shizuku's first-year glimpses also qualify any absolute claim that she had never seen beyond the polished mode.
 
 Preserve `REL-N25-EM-5`, `REL-N25-KM-7`, all other N25 dyad/group defaults, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061`, and the Ena–Akito I1 evidence from E0079. Stage KAITO/Miku advise Shizuku through their own relationship; they are not N25 manifestations. Hinomori sibling affection/restraint, Airi's peer teaching and Stage craft collaboration remain complete deferred routes in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md). Next EVENT_0081.
+
+## EVENT_0081 relationship increments — gratitude without expanded entitlement
+
+- **N25 group / `REL-N25-G-7`: STRENGTHEN.** Shared shrine ritual and shopping accommodate distinct beliefs and interests. After Kanade's public improvisation, Mizuki boasts appreciatively, Ena says the performance energized her, Mafuyu offers plainer approval after the visitors leave, and Kanade accepts the support with thanks (`PJSK:event:0081:06:002`; `PJSK:event:0081:06:003:0091–0111`). Creative admiration is reciprocal without making every relationship a rescue dyad.
+- **Kanade–Mafuyu / `REL-N25-KM-7`: PRESERVE with corroboration.** Miku's play analogy leads Kanade to value the remembered Mafuyu smile, while Mafuyu praises Kanade's present skill (`PJSK:event:0081:06:003:0040–0050`; `PJSK:event:0081:06:003:0096–0109`). No new existential promise or global affect recovery occurs.
+- **Mafuyu–Shizuku / `REL-CROSS-MAFUYU-SHIZUKU-E0080`: STRENGTHEN ordinary availability.** Shared-show conversation leads to an invitation that Mafuyu accepts until family contact (`PJSK:event:0081:07:004:0002–0025`). Mizuki, Akito and Toya join the encounter. The meal remains prospective, and no new private cause is disclosed.
+- **Kanade–Honami / `REL-CROSS-KANADE-HONAMI-E0002`: STRENGTHEN.** Help with shopping, an offered rest and Kanade's attention to Honami's separate party schedule retain practical care with another person's life outside it (`PJSK:event:0081:07:005:0002–0008`). An intended hospital decoration is not a completed therapeutic effect.
+- **Kanade–WxS: bounded acquaintance/creative gratitude, no successor dyad ID.** Tsukasa recognizes a prior Mizuki acquaintance, now hears Kanade's name and thanks her for a specific effect; Rui acknowledges repeated help across the festival and present performance (`PJSK:event:0081:06:003:0078–0099`). This gives usable familiarity and artistic respect without close-confidant status or access to her family history.
+- **N25 manifestation ties: STRENGTHEN existing group entries.** Mafuyu helps Len participate in fortune drawing and lets Miku watch discreetly. Empty Len reports ordinary kindness and Luka's string-figure teaching, then asks Rin to watch (`PJSK:event:0081:06:002:0011–0017`; `PJSK:event:0081:06:003:0005–0010`; `PJSK:event:0081:06:003:0029–0035`; `PJSK:area:areatalk_monthly2212_005:01`). `REL-N25-VS-LEN-GROUP-E0061` remains sufficient; teasing skepticism does not erase the confirmed teaching.
+- **Ena–Akito / `REL-FAMILY-ENA-AKITO-E0014`: PRESERVE with reported increment.** His weight-related holiday remark influences her running, but this causal account is private to her and the audience (`PJSK:event:0081:07:005:0015–0017`). Do not give Kanade/Honami that knowledge or convert the joke into a new governing sibling state.
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0081_DEEP_READING.md) separately retains Tsukasa/Saki/mother familiarity, Nene/Ichika reciprocal music interest, An/Kohane chosen matching, VBS teaching/team play, An/Haruka's explicit preferred ambition, Hinata's interested support and unit-specific singer/robot relations for founded comparison. No N25 relationship ID is superseded. Next EVENT_0082.
