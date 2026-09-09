@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20"
-analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only"
+source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20"
+analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only; WXS foundation-current P06 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,15 +19,18 @@ mutable: true
 
 Relationship authority reaches **EVENT_0090**, adding `REL-CROSS-ENA-SHIHO-E0090` and `REL-CROSS-ENA-AN-E0090` as bounded acquaintance records. Shiho's shown introduction differs from An's already established acquaintance; neither establishes intimate or guarded N25 knowledge. Existing creative/group bonds receive contextual evidence without successor IDs.
 
-EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. WXS foundation, Leo/need routed history and 21 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
+EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. Leo/need routed history and 21 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. WXS remains canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
-
-
-Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. WXS foundation and the material routed/screening/reconstruction backlog remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
-MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. N25, Leo/need, VBS and MMJ foundations are complete; WXS remains pending. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+
+
+Wonderlands×Showtime's [six-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) is integrated through `wonder_01_20`: tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`, group `REL-WXS-MS-G-P06`, knowledge `EPI-WXS-MS-P06`. Preserve coercive appointment and pursuit alongside subsequent separate assent, Nene's continuing fear and mediated competence, Tsukasa's enduring grandiose register within revised purpose, Rui's distinct artistic choice and Emu's reported family/material conditions. Wonderland Miku/KAITO remain separate manifestations. All five human-unit main-story foundations are complete. Material routed histories, 21 earlier universal-screen gaps and reconstruction/synthesis obligations remain pending; forward EVENT_0091 does not advance.
 
 ## 1. Purpose
 
@@ -2426,3 +2429,267 @@ Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MM
 **Bounded state / claim:** PRESERVE; Mai hears return intention and expresses relief; full hidden cause, group name and Mai injury outcome remain unknown.
 
 **Evidence:** `PJSK:main:mmj_01_19:01:002:0002–0009`. Confidence: HIGH.
+
+## Wonderlands×Showtime main-story foundation — serial phase history
+
+The following snapshots preserve knowledge and interpretation at each named boundary. Phase-indexed human IDs retain operational snapshots, including refinements and revelations; a new phase ID does not by itself claim an event-level durable transition. No later source enters an earlier snapshot. Source-observed acts and disclosed histories carry HIGH confidence; qualified psychological inference is MODERATE. Shared causal interpretation belongs to each phase reading. These histories do not replace later cross-unit records or certify character-package readiness.
+
+### WXS-MS-P01 — through `wonder_01_04`
+
+Causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P01_DEEP_READING.md).
+
+#### REL-WXS-MS-TE-P01
+
+**Prior:** No prior substantive WXS foundation relationship snapshot. **Members:** TSUKASA, EMU.
+
+Pressured appointment becomes initial practical recruitment partnership. **Asymmetry and limits:** Emu claims collaboration early; Tsukasa initially attempts to withdraw. Later initiative does not retrospectively supply consent.
+
+**Evidence:** `PJSK:main:wonder_01_02:01:002:0025–0044`; `PJSK:main:wonder_01_04:01:002:0024–0043`.
+
+#### REL-WXS-MS-TS-P01
+
+**Prior:** No prior substantive WXS foundation relationship snapshot. **Members:** TSUKASA, SAKI.
+
+Familiar teasing, concern for school/health and support for ambition. **Asymmetry and limits:** Shared childhood affection does not mean either currently articulates the ambition's cause.
+
+**Evidence:** `PJSK:main:wonder_01_00:01:001:0008–0017`; `PJSK:main:wonder_01_00:01:003:0005–0023`.
+
+### WXS-MS-P02 — through `wonder_01_08`
+
+Causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P02_DEEP_READING.md).
+
+#### REL-WXS-MS-G-P02
+
+**Prior:** No prior substantive WXS foundation relationship snapshot. **Members:** TSUKASA, EMU, NENE, RUI.
+
+Four roles and collectively negotiated name exist. **Asymmetry and limits:** Distinct reasons for entry and unequal access to Nene's history; shared purpose not settled.
+
+**Evidence:** `PJSK:main:wonder_01_07:01:001:0058–0065`; `PJSK:main:wonder_01_08:01:003:0023–0044`.
+
+#### REL-WXS-MS-TE-P02
+
+**Prior:** REL-WXS-MS-TE-P01. **Members:** TSUKASA, EMU.
+
+Cooperate in admission and naming despite disagreement. **Asymmetry and limits:** Tsukasa's showcase and Emu's stage aim are only partly aligned.
+
+**Evidence:** `PJSK:main:wonder_01_07:01:001:0058–0064`; `PJSK:main:wonder_01_08:01:003:0035–0044`.
+
+#### REL-WXS-MS-TR-P02
+
+**Prior:** No prior substantive WXS foundation relationship snapshot. **Members:** TSUKASA, RUI.
+
+Artistic recognition and conditional actor/director agreement. **Asymmetry and limits:** Rui conditions entry on another member; Tsukasa promises without demonstrated limits.
+
+**Evidence:** `PJSK:main:wonder_01_06:01:001:0012–0036`.
+
+#### REL-WXS-MS-TN-P02
+
+**Prior:** No prior substantive WXS foundation relationship snapshot. **Members:** TSUKASA, NENE.
+
+Mediated rivalry/challenge yields admitted membership. **Asymmetry and limits:** Tsukasa accepts competence defensively; Nene sees his threat response to attention.
+
+**Evidence:** `PJSK:main:wonder_01_07:01:001:0046–0067`.
+
+#### REL-WXS-MS-EN-P02
+
+**Prior:** No prior substantive WXS foundation relationship snapshot. **Members:** EMU, NENE.
+
+Warm welcome and recognition of effort. **Asymmetry and limits:** Nene's guarded entry does not erase her response; direct exposure remains limited.
+
+**Evidence:** `PJSK:main:wonder_01_07:01:001:0058–0065`.
+
+#### REL-WXS-MS-RN-P02
+
+**Prior:** No prior substantive WXS foundation relationship snapshot. **Members:** RUI, NENE.
+
+Existing familiarity and enabling robot support under private ambivalence. **Asymmetry and limits:** Rui invites and reads her attendance as desire; her choice must remain hers.
+
+**Evidence:** `PJSK:main:wonder_01_06:01:001:0031–0035`; `PJSK:main:wonder_01_07:01:001:0071–0079`.
+
+**Preserved without successor:** `REL-WXS-MS-TS-P01`.
+
+**Increment to `REL-WXS-MS-TS-P01`:** Saki receives a spontaneous encouraging show and recalls childhood puppet play; no new family relationship ID necessary. Evidence: `PJSK:main:wonder_01_08:01:001:0008–0021`.
+
+### WXS-MS-P03 — through `wonder_01_11`
+
+Causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P03_DEEP_READING.md).
+
+#### REL-WXS-MS-G-P03
+
+**Prior:** REL-WXS-MS-G-P02. **Members:** TSUKASA, EMU, NENE, RUI.
+
+Enjoyable working collaboration, rehearsal confidence and group ritual before debut. **Asymmetry and limits:** Emotional/technical exposure and success definitions remain unequal.
+
+**Evidence:** `PJSK:main:wonder_01_11:01:001:0018–0038`; `PJSK:main:wonder_01_11:01:003:0007–0016`.
+
+#### REL-WXS-MS-TR-P03
+
+**Prior:** REL-WXS-MS-TR-P02. **Members:** TSUKASA, RUI.
+
+Demanding artistic responsiveness and specific gratitude. **Asymmetry and limits:** Cooperation includes risk pressure and prominence incentives; not blanket free assent.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:001:0026–0043`; `PJSK:main:wonder_01_11:01:001:0024–0026`.
+
+#### REL-WXS-MS-EN-P03
+
+**Prior:** REL-WXS-MS-EN-P02. **Members:** EMU, NENE.
+
+Requested teaching with a moment of laughter. **Asymmetry and limits:** Emu can notice dejection without knowing Nene's hidden direct encounter.
+
+**Evidence:** `PJSK:main:wonder_01_10:01:003:0003–0005`; `PJSK:main:wonder_01_11:01:001:0005–0009`.
+
+#### REL-WXS-MS-RN-P03
+
+**Prior:** REL-WXS-MS-RN-P02. **Members:** RUI, NENE.
+
+Rui accompanies anxious preparation and permits further private practice. **Asymmetry and limits:** Care is fallible judgment, not foreknowledge of a problem.
+
+**Evidence:** `PJSK:main:wonder_01_11:01:001:0049–0064`.
+
+**Preserved without successor:** `REL-WXS-MS-TE-P02`, `REL-WXS-MS-TS-P01`, `REL-WXS-MS-TN-P02`.
+
+### WXS-MS-P04 — through `wonder_01_14`
+
+Causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P04_DEEP_READING.md).
+
+#### REL-WXS-MS-G-P04
+
+**Prior:** REL-WXS-MS-G-P03. **Members:** TSUKASA, EMU, NENE, RUI.
+
+Company fractured after public failure and backstage choices. **Asymmetry and limits:** Tsukasa privately recovers purpose while others have not received it.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0016–0058`; `PJSK:main:wonder_01_14:01:002:0059–0088`.
+
+#### REL-WXS-MS-TN-P04
+
+**Prior:** REL-WXS-MS-TN-P02. **Members:** TSUKASA, NENE.
+
+Trust damaged by attack on her vulnerability; she flees. **Asymmetry and limits:** Her total self-blame is not a reliable responsibility allocation.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0016–0024`.
+
+#### REL-WXS-MS-TR-P04
+
+**Prior:** REL-WXS-MS-TR-P03. **Members:** TSUKASA, RUI.
+
+Rui terminates collaboration after conflict over treatment and purpose. **Asymmetry and limits:** Rui's absolute motive/future claims are conflict judgments, not narrator facts.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0028–0046`.
+
+#### REL-WXS-MS-TE-P04
+
+**Prior:** REL-WXS-MS-TE-P02. **Members:** TSUKASA, EMU.
+
+Her request to preserve a further chance is rejected. **Asymmetry and limits:** Emu names lost smiles; Tsukasa has not yet repaired with her.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0051–0058`.
+
+#### REL-WXS-MS-RN-P04
+
+**Prior:** REL-WXS-MS-RN-P03. **Members:** RUI, NENE.
+
+Protective apology and withdrawal with robot abandoned at stage. **Asymmetry and limits:** Rui's decision that she need not return does not establish her own wish.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:002:0002–0010`.
+
+**Preserved without successor:** `REL-WXS-MS-TS-P01`, `REL-WXS-MS-EN-P03`.
+
+### WXS-MS-P05 — through `wonder_01_18`
+
+Causal home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P05_DEEP_READING.md).
+
+#### REL-WXS-MS-G-P05
+
+**Prior:** REL-WXS-MS-G-P04. **Members:** TSUKASA, EMU, NENE, RUI.
+
+Reunited after differentiated repair and Rui's acceptance. **Asymmetry and limits:** Restored participation has intrusive pursuit in its history; finance not yet group-wide.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0039–0042`; `PJSK:main:wonder_01_16:01:002:0069–0078`; `PJSK:main:wonder_01_18:01:003:0045–0066`.
+
+#### REL-WXS-MS-TE-P05
+
+**Prior:** REL-WXS-MS-TE-P04. **Members:** TSUKASA, EMU.
+
+Private family-stake disclosure, inclusion of Emu's happiness, apology and renewed assent. **Asymmetry and limits:** Tsukasa now knows conditions; other members do not automatically know.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0007–0042`.
+
+#### REL-WXS-MS-TN-P05
+
+**Prior:** REL-WXS-MS-TN-P04. **Members:** TSUKASA, NENE.
+
+Specific apology, gaze accommodation, disclosure and chosen return. **Asymmetry and limits:** Pursuit/interception preceded the accommodated conversation; no cure or automatic trust maximum.
+
+**Evidence:** `PJSK:main:wonder_01_16:01:002:0006–0038`; `PJSK:main:wonder_01_16:01:002:0046–0078`.
+
+#### REL-WXS-MS-TR-P05
+
+**Prior:** REL-WXS-MS-TR-P04. **Members:** TSUKASA, RUI.
+
+Reconciliation through performed self-account and Rui's new directing choice. **Asymmetry and limits:** Apology alone failed; Nene's forgiveness cannot settle Rui's artistic willingness.
+
+**Evidence:** `PJSK:main:wonder_01_17:01:001:0047–0057`; `PJSK:main:wonder_01_18:01:003:0040–0066`.
+
+#### REL-WXS-MS-RN-P05
+
+**Prior:** REL-WXS-MS-RN-P04. **Members:** RUI, NENE.
+
+Nene asserts return and challenges Rui's withdrawal; he accepts her independent choice. **Asymmetry and limits:** Prior protective asymmetry is qualified by her active mediation.
+
+**Evidence:** `PJSK:main:wonder_01_17:01:001:0037–0040`; `PJSK:main:wonder_01_17:01:001:0047–0053`.
+
+#### REL-WXS-MS-EF-P05
+
+**Prior:** No prior substantive WXS foundation relationship snapshot. **Members:** EMU, EMU_FATHER.
+
+Reported conditional authority over the stage after grandfather's death. **Asymmetry and limits:** Only Emu's account of the father's condition is directly available; his full motives OPEN.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0014–0021`.
+
+**Preserved without successor:** `REL-WXS-MS-TS-P01`, `REL-WXS-MS-EN-P03`.
+
+### WXS-MS-P06 — through `wonder_01_20`
+
+Causal home: [P06 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP_READING.md).
+
+#### REL-WXS-MS-G-P06
+
+**Prior:** REL-WXS-MS-G-P05. **Members:** TSUKASA, EMU, NENE, RUI.
+
+Explicitly continuing company after renewed public performance and local stage survival. **Asymmetry and limits:** Distinct professional/local ambitions remain; not permanent security or maximal trust.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:002:0014–0039`; `PJSK:main:wonder_01_20:01:002:0026–0046`.
+
+#### REL-WXS-MS-TN-P06
+
+**Prior:** REL-WXS-MS-TN-P05. **Members:** TSUKASA, NENE.
+
+Explicit shared support if something goes wrong accompanies renewed show. **Asymmetry and limits:** Nervousness persists and support is a stated practice, not guaranteed future success.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:002:0012–0015`.
+
+#### REL-WXS-MS-TR-P06
+
+**Prior:** REL-WXS-MS-TR-P05. **Members:** TSUKASA, RUI.
+
+Rui affirms further direction with these performers; Tsukasa asks peers' plans. **Asymmetry and limits:** Experimental possibilities remain plans rather than enacted safe outcomes.
+
+**Evidence:** `PJSK:main:wonder_01_20:01:002:0030–0046`.
+
+#### REL-WXS-MS-TE-P06
+
+**Prior:** REL-WXS-MS-TE-P05. **Members:** TSUKASA, EMU.
+
+Shared stage outcome and voluntary continued work. **Asymmetry and limits:** Her happiness and local goal are included; family/material dependencies persist.
+
+**Evidence:** `PJSK:main:wonder_01_20:01:002:0011–0021`; `PJSK:main:wonder_01_20:01:002:0026–0044`.
+
+#### REL-WXS-MS-EF-P06
+
+**Prior:** REL-WXS-MS-EF-P05. **Members:** EMU, EMU_FATHER.
+
+Emu returns from father's summons with result understood as preservation. **Asymmetry and limits:** No witnessed meeting, full financial figures, contract or permanent terms.
+
+**Evidence:** `PJSK:main:wonder_01_20:01:002:0008–0019`.
+
+**Preserved without successor:** `REL-WXS-MS-TS-P01`, `REL-WXS-MS-EN-P03`, `REL-WXS-MS-RN-P05`.

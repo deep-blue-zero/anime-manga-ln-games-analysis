@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20"
-analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only"
+source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20"
+analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only; WXS foundation-current P06 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,13 +21,16 @@ The latest integrated epistemic boundary is **EVENT_0090**, adding `EPI-N25-E-E0
 
 Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 21 older screens, WXS foundation and Leo/need routed history are separate unfinished obligations.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. WXS remains canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
-Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. WXS foundation and the material routed/screening/reconstruction backlog remain pending.
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
 
 
-MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. N25, Leo/need, VBS and MMJ foundations are complete; WXS remains pending. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+
+
+Wonderlands×Showtime's [six-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) is integrated through `wonder_01_20`: tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`, group `REL-WXS-MS-G-P06`, knowledge `EPI-WXS-MS-P06`. Preserve coercive appointment and pursuit alongside subsequent separate assent, Nene's continuing fear and mediated competence, Tsukasa's enduring grandiose register within revised purpose, Rui's distinct artistic choice and Emu's reported family/material conditions. Wonderland Miku/KAITO remain separate manifestations. All five human-unit main-story foundations are complete. Material routed histories, 21 earlier universal-screen gaps and reconstruction/synthesis obligations remain pending; forward EVENT_0091 does not advance.
 
 ## 1. Purpose
 
@@ -2008,3 +2011,117 @@ Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MM
 **Bounded state / claim:** Know shared feelings/song and performed support; Miku sings, Rin MC; future invitations explicit. No shown receipt of rooftop group naming.
 
 **Evidence:** `PJSK:main:mmj_01_19:01:001:0002–0053`; `PJSK:main:mmj_01_20:01:002:0002–0007`. Confidence: HIGH.
+
+## Wonderlands×Showtime main-story foundation — serial phase history
+
+The following snapshots preserve knowledge and interpretation at each named boundary. Phase-indexed human IDs retain operational snapshots, including refinements and revelations; a new phase ID does not by itself claim an event-level durable transition. No later source enters an earlier snapshot. Source-observed acts and disclosed histories carry HIGH confidence; qualified psychological inference is MODERATE. Shared causal interpretation belongs to each phase reading. These histories do not replace later cross-unit records or certify character-package readiness.
+
+### WXS-MS-P01 — through `wonder_01_04`
+
+Causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P01_DEEP_READING.md).
+
+#### EPI-WXS-MS-P01
+
+**Prior:** No prior WXS foundation knowledge snapshot. Reader-facing memories and implied motives do not automatically become shared participant knowledge. Earlier unmodified known facts persist; later private disclosures only advance recipients explicitly supported.
+
+**TSUKASA:** **Knows:** Ordinary audition failed; Emu obtained this stage position; hears SEKAI explanation; cannot retrieve original star motive. **Believes or suspects:** Initial talent explanation and dream/trick hypotheses; not narrator ontology. **Unknown:** Meaning of Emu's promise, rabbit identity, later collaborators and financial condition.
+
+**EMU:** **Knows:** Her own stage promise, Tsukasa's claim to deliver a show, and the experienced SEKAI account. **Unknown:** No inference that she knows Tsukasa's childhood motive.
+
+**SAKI:** **Knows:** Longstanding ambition and current audition plan. **Unknown:** Cannot supply original motive in present exchange.
+
+**WONDERLAND MIKU KAITO:** **Knows or claims:** Tsukasa-origin SEKAI and forgotten purpose; invite discovery. **Limits:** Specific manifestation; presentation discontinuity between opening encounter and later first greeting remains OPEN.
+
+**Evidence:** `PJSK:main:wonder_01_00:01:003:0014–0030`; `PJSK:main:wonder_01_00:01:004:0015–0040`; `PJSK:main:wonder_01_02:01:002:0002–0005`; `PJSK:main:wonder_01_03:01:001:0038–0059`; `PJSK:main:wonder_01_03:01:001:0066–0075`.
+
+### WXS-MS-P02 — through `wonder_01_08`
+
+Causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P02_DEEP_READING.md).
+
+#### EPI-WXS-MS-P02
+
+**Prior:** EPI-WXS-MS-P01. Reader-facing memories and implied motives do not automatically become shared participant knowledge. Earlier unmodified known facts persist; later private disclosures only advance recipients explicitly supported.
+
+**TSUKASA EMU:** **Knows:** Rui is director/actor and maker; Nene is named remote operator and admitted performer. **Unknown:** Nene's prior failure, full Rui history; no completed surname-to-family confirmation.
+
+**RUI NENE:** **Knows:** Their prior childhood-show familiarity and actual operation of robot. **Limits:** Surname reactions suggest but do not establish specific Otori-family knowledge.
+
+**TSUKASA SAKI PRIVATE:** **Knows:** Saki explicitly recalls puppet shows and the rabbit; Tsukasa responds uncertainly. **Limits:** No transmission to company; Saki's school/club comments do not establish Leo/need chronology.
+
+**Evidence:** `PJSK:main:wonder_01_06:01:001:0031–0036`; `PJSK:main:wonder_01_06:01:003:0010–0020`; `PJSK:main:wonder_01_07:01:001:0014–0022`; `PJSK:main:wonder_01_08:01:001:0008–0021`.
+
+### WXS-MS-P03 — through `wonder_01_11`
+
+Causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P03_DEEP_READING.md).
+
+#### EPI-WXS-MS-P03
+
+**Prior:** EPI-WXS-MS-P02. Reader-facing memories and implied motives do not automatically become shared participant knowledge. Earlier unmodified known facts persist; later private disclosures only advance recipients explicitly supported.
+
+**ALL FOUR:** **Knows:** Company's rehearsal work, reported successful rehearsal, Emu's stated smile-oriented dream; Rui/Nene experience SEKAI directly. **Unknown:** Public outcome, concealed financial condition, undisclosed past failure.
+
+**TSUKASA:** **Knows:** KAITO demonstrates prince; says he found an acting hint. **Limits:** Does not yet understand or accept deeper star-purpose account.
+
+**WONDERLAND MIKU:** **Knows:** Directly encounters Nene's difficulty facing conversational attention. **Limits:** No automatic sharing of this encounter with company or other manifestations.
+
+**EMU:** **Suspects:** Nenerobo looks dejected after SEKAI visit. **Unknown:** Cause not established by that perception.
+
+**RUI:** **Knows:** Nene practices from fear of failure and continues when he leaves. **Unknown:** No foreknowledge of later battery outcome.
+
+**Evidence:** `PJSK:main:wonder_01_10:01:002:0012–0018`; `PJSK:main:wonder_01_10:01:002:0032–0050`; `PJSK:main:wonder_01_10:01:002:0062–0072`; `PJSK:main:wonder_01_10:01:003:0003–0005`; `PJSK:main:wonder_01_11:01:001:0034–0038`; `PJSK:main:wonder_01_11:01:001:0049–0064`.
+
+### WXS-MS-P04 — through `wonder_01_14`
+
+Causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P04_DEEP_READING.md).
+
+#### EPI-WXS-MS-P04
+
+**Prior:** EPI-WXS-MS-P03. Reader-facing memories and implied motives do not automatically become shared participant knowledge. Earlier unmodified known facts persist; later private disclosures only advance recipients explicitly supported.
+
+**TSUKASA:** **Knows:** Recognizes rabbit as Saki's toy and surroundings as his creations; explicitly recovers original motive. **Limits:** Private insight not yet communicated to estranged colleagues.
+
+**NENE:** **Knows:** Experienced failure and Tsukasa's attack; prior stage fear in internal account. **Unknown:** Leaves before Rui's extended criticism; no automatic access to it or Tsukasa's recovery.
+
+**RUI:** **Believes:** Tsukasa treats shows as means to private status and cannot be his collaborator. **Limits:** Conflict judgment is not authoritative whole-person truth; does not know new insight.
+
+**EMU:** **Knows:** Company's lost smiles and Tsukasa's refusal to enjoy/renew the experience. **Unknown:** New private insight not yet transmitted.
+
+**WONDERLAND MIKU KAITO:** **Knows:** Observe recipient-focused rabbit play and Tsukasa's verbal recovery. **Limits:** No unbounded knowledge of all private humans' states.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0016–0058`; `PJSK:main:wonder_01_13:01:002:0005–0010`; `PJSK:main:wonder_01_14:01:002:0031–0088`.
+
+### WXS-MS-P05 — through `wonder_01_18`
+
+Causal home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P05_DEEP_READING.md).
+
+#### EPI-WXS-MS-P05
+
+**Prior:** EPI-WXS-MS-P04. Reader-facing memories and implied motives do not automatically become shared participant knowledge. Earlier unmodified known facts persist; later private disclosures only advance recipients explicitly supported.
+
+**TSUKASA:** **Knows:** Emu directly discloses grandfather/father condition; Nene discloses past failed line and subsequent difficulty; Nene supplies childhood-neighbor history. **Limits:** Does not gain complete private biographies.
+
+**EMU:** **Knows:** Nene's direct disclosure, her recommitment and Nene/Rui neighbor history. **Limits:** Own financial conditions not yet shown disclosed to Nene/Rui.
+
+**NENE:** **Knows:** Tsukasa recounts Rui's statement that a show needs collaborators; hears specific apology; declares return. **Limits:** Finance not yet group-wide.
+
+**RUI:** **Knows:** Nene has decided to return; repair show communicates Tsukasa's recovered sister-linked, audience/colleague-oriented motive. **Limits:** Receives selected performed account, not all private scenes or full details of Emu's conditions.
+
+**WONDERLAND MIKU KAITO:** **Knows:** Participate in staged account and witness Rui's response. **Limits:** Do not infer unseen financial briefing or cross-SEKAI knowledge.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0007–0021`; `PJSK:main:wonder_01_16:01:002:0048–0061`; `PJSK:main:wonder_01_17:01:001:0002–0015`; `PJSK:main:wonder_01_17:01:001:0037–0054`; `PJSK:main:wonder_01_18:01:003:0031–0066`.
+
+### WXS-MS-P06 — through `wonder_01_20`
+
+Causal home: [P06 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP_READING.md).
+
+#### EPI-WXS-MS-P06
+
+**Prior:** EPI-WXS-MS-P05. Reader-facing memories and implied motives do not automatically become shared participant knowledge. Earlier unmodified known facts persist; later private disclosures only advance recipients explicitly supported.
+
+**ALL FOUR:** **Knows:** Witness song/title change; hear Emu's demolition disclosure and plan daily performances; receive her stage-saving report; hear each other's future aims. **Limits:** No full financial account, formal future contract or universal knowledge of private memories.
+
+**TSUKASA:** **Knows:** Expresses others' contribution to song and relation between stardom, smiles and collaborators. **Limits:** Singers' ontology and song-origin claims remain attributed where appropriate.
+
+**WONDERLAND MIKU KAITO:** **Knows:** Participate in song scene; later hear apparent laughter and infer someone smiling. **Limits:** Final scene does not establish remote knowledge of parental deliberation or full human outcome.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:001:0004–0030`; `PJSK:main:wonder_01_19:01:002:0002–0015`; `PJSK:main:wonder_01_20:01:002:0011–0046`; `PJSK:main:wonder_01_20:01:003:0002–0007`.

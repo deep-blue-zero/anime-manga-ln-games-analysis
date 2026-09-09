@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20"
-analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only"
+source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20"
+analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only; WXS foundation-current P06 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,15 +19,18 @@ mutable: true
 
 The verified forward analytical frontier is **EVENT_0090**, an I2 refinement of Ena's working artistic method. Current N25 global human defaults remain **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Ena now supplies explicit subject-to-technique selection, qualified reception assessment and subsequent practice evidence; these operationalize the existing aesthetic state rather than replace it. EVENT_0089 remains the latest global human transition: Kanade sustains recipient-directed protection after failed parental trust, retaining bounded self-permission, supported ordinary competence and rescue obligation.
 
-Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. WXS foundation, Leo/need routed history and 21 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
+Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. Leo/need routed history and 21 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. WXS remains canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
-
-
-Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. WXS foundation and the material routed/screening/reconstruction backlog remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
-MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. N25, Leo/need, VBS and MMJ foundations are complete; WXS remains pending. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+
+
+Wonderlands×Showtime's [six-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) is integrated through `wonder_01_20`: tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`, group `REL-WXS-MS-G-P06`, knowledge `EPI-WXS-MS-P06`. Preserve coercive appointment and pursuit alongside subsequent separate assent, Nene's continuing fear and mediated competence, Tsukasa's enduring grandiose register within revised purpose, Rui's distinct artistic choice and Emu's reported family/material conditions. Wonderland Miku/KAITO remain separate manifestations. All five human-unit main-story foundations are complete. Material routed histories, 21 earlier universal-screen gaps and reconstruction/synthesis obligations remain pending; forward EVENT_0091 does not advance.
 
 ## 1. Purpose and authority
 
@@ -2115,3 +2118,339 @@ Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MM
 **Bounded state / claim:** PRESERVE; shared performance, invitation and ordinary ribbon help Miku-to-Rin extend local care without a new global singer state.
 
 **Evidence:** `PJSK:main:mmj_01_19:01:001:0019–0053`; `PJSK:main:mmj_01_20:01:002:0002–0007`. Confidence: HIGH.
+
+## Wonderlands×Showtime main-story foundation — serial phase history
+
+The following snapshots preserve knowledge and interpretation at each named boundary. Phase-indexed human IDs retain operational snapshots, including refinements and revelations; a new phase ID does not by itself claim an event-level durable transition. No later source enters an earlier snapshot. Source-observed acts and disclosed histories carry HIGH confidence; qualified psychological inference is MODERATE. Shared causal interpretation belongs to each phase reading. These histories do not replace later cross-unit records or certify character-package readiness.
+
+### WXS-MS-P01 — through `wonder_01_04`
+
+Causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P01_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P01 — Tsukasa
+
+**Prior:** No prior substantive WXS foundation snapshot; boundary: WXS main episode 04 end.
+
+**Self-concept:** Future world-class star, original reason inaccessible. **Goals:** Enter a major stage and become conspicuous; now recruit for this stage. **Fears / uncertainty:** Loss of opportunity and loss of bodily/control security.
+
+**Emotional baseline:** Boastful confidence interrupted by frustration and fear. **Presentation:** Grand public self-announcement; polite workplace and threatened deference; familiar sibling concern. **Coping:** Self-glorifying explanation; reframing adversity as a star narrative.
+
+**Agency:** Initial agreement constrained; independently undertakes recruitment afterward. **Stress vulnerability:** Misreads evaluation; bristles at marginal status; pressure can produce compliance. **Speech:** 俺 in familiar/self-assertive speech; 僕 and politeness to staff or threat; uncertainty in inner speech.
+
+**Dependencies:** Emu-mediated appointment, staff access, future collaborators. Knowledge: `EPI-WXS-MS-P01`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_00:01:003:0011–0030`; `PJSK:main:wonder_01_01:01:004:0017–0022`; `PJSK:main:wonder_01_04:01:002:0024–0043`.
+
+#### WXS-MS-EMU-P01 — Emu
+
+**Prior:** No prior substantive WXS foundation snapshot; boundary: WXS main episode 04 end.
+
+**Self-concept:** Performer tied to this particular stage; reasons not yet disclosed. **Goals:** Fill the stage and make people smile with a collaborator. **Fears / uncertainty:** Loss of the particular place implied by her refusal to substitute another.
+
+**Emotional baseline:** Exuberance with sharp insistence around the stage. **Presentation:** Playful invitation; urgent direct refusal when stage dismissed. **Coping:** Repeated invitations and physical intervention; practical phone retrieval.
+
+**Agency:** Initiates recruitment, detour and search; can interrupt staff violence. **Stress vulnerability:** Urgency can disregard another person's bodily/phone boundary. **Speech:** Sound-rich invitations, repeated participation calls, abrupt serious insistence.
+
+**Dependencies:** An unnamed promise, stage access and staff; potential collaborator. Knowledge: `EPI-WXS-MS-P01`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_02:01:002:0025–0044`; `PJSK:main:wonder_01_02:01:002:0059–0065`; `PJSK:main:wonder_01_04:01:001:0013–0019`; `PJSK:main:wonder_01_04:01:002:0020–0022`.
+
+### WXS-MS-P02 — through `wonder_01_08`
+
+Causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P02_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P02 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P01; boundary: WXS main episode 08 end.
+
+**Self-concept:** Star and active organizer; others' skill recognized but visibility-centered. **Goals:** Recruit a director/cast, write a script and mount his showcase. **Fears / uncertainty:** Being displaced from attention by Nene's reported ability.
+
+**Emotional baseline:** Engaged, proud, irritated by challenges. **Presentation:** Grand recruiter and competitive peer; responsive caring brother at home. **Coping:** Searching, appraisal, competitive boasting, concessions; performs to cheer Saki.
+
+**Agency:** Persistent direct recruitment and script authorship; accepts negotiated name. **Stress vulnerability:** Critique and loss of prominence can prompt defensive devaluation. **Speech:** Extravagant unsupported numerical promises; direct first-name collaboration; familiar family play.
+
+**Dependencies:** Rui's direction, Nene's skills, Emu's place and enthusiasm. Knowledge: `EPI-WXS-MS-P02`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_05:01:001:0010–0012`; `PJSK:main:wonder_01_06:01:001:0012–0036`; `PJSK:main:wonder_01_07:01:001:0048–0063`; `PJSK:main:wonder_01_08:01:001:0008–0022`; `PJSK:main:wonder_01_08:01:003:0035–0044`.
+
+#### WXS-MS-EMU-P02 — Emu
+
+**Prior:** WXS-MS-EMU-P01; boundary: WXS main episode 08 end.
+
+**Self-concept:** Welcoming performer and keeper of a many-worlds stage. **Goals:** Build a company where visitors smile. **Fears / uncertainty:** Stage-related fear remains unarticulated.
+
+**Emotional baseline:** Enthusiastic and relationally inviting. **Presentation:** Treats unusual technology as welcome participation. **Coping:** Enthusiasm, concrete request, naming and recognition of effort.
+
+**Agency:** Directly helps admit Nene and names the company. **Stress vulnerability:** Can overlook friction while reading others as already friendly. **Speech:** Sound-based imaginative description; direct welcome to both Nene and robot.
+
+**Dependencies:** Rui's craft, Nene's performance, Tsukasa's organizing labor. Knowledge: `EPI-WXS-MS-P02`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_06:01:003:0003–0017`; `PJSK:main:wonder_01_07:01:001:0058–0064`; `PJSK:main:wonder_01_08:01:003:0023–0039`.
+
+#### WXS-MS-NENE-P02 — Nene
+
+**Prior:** No prior substantive WXS foundation snapshot; boundary: WXS main episode 08 end.
+
+**Self-concept:** Claims to have left shows, yet participates through a robot. **Goals:** Participation without showing herself; exact longer-term aim still OPEN. **Fears / uncertainty:** Direct social exposure suggested by remaining hidden, cause undisclosed.
+
+**Emotional baseline:** Guarded but willing to engage through mediation. **Presentation:** Cutting mediated speech versus hidden physical presence and hesitant private talk. **Coping:** Sarcasm, demonstration of control/song, physical concealment, game framing offered by Rui.
+
+**Agency:** Challenges Tsukasa and accepts entry; presence is her act despite verbal withdrawal. **Stress vulnerability:** Direct exposure and unspecified show-related history. **Speech:** Short confrontational mediated replies; pauses and unfinished statements to Rui.
+
+**Dependencies:** Rui's technical design and introduction; remote interface. Knowledge: `EPI-WXS-MS-P02`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_07:01:001:0009–0014`; `PJSK:main:wonder_01_07:01:001:0026–0055`; `PJSK:main:wonder_01_07:01:001:0071–0080`.
+
+#### WXS-MS-RUI-P02 — Rui
+
+**Prior:** No prior substantive WXS foundation snapshot; boundary: WXS main episode 08 end.
+
+**Self-concept:** Solo performer by stated preference; director interested in audience enjoyment. **Goals:** Create enjoyable shows; condition entry on Nene's inclusion. **Fears / uncertainty:** Fear/avoidance origin not yet established.
+
+**Emotional baseline:** Amused, curious, selectively receptive. **Presentation:** Playful questioning and apparently detached refusal; practical support for Nene. **Coping:** Solo making, observation by drone, conditional cooperation.
+
+**Agency:** Chooses terms of entry and supplies enabling technology. **Stress vulnerability:** Unproven compatibility of his ideas with others. **Speech:** Measured teasing, questions that test grand claims, conditional assent.
+
+**Dependencies:** Own technical craft; potentially Tsukasa's responsiveness and an accepting company. Knowledge: `EPI-WXS-MS-P02`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_05:01:004:0005–0022`; `PJSK:main:wonder_01_06:01:001:0005–0006`; `PJSK:main:wonder_01_06:01:001:0020–0035`; `PJSK:main:wonder_01_07:01:001:0004–0014`; `PJSK:main:wonder_01_07:01:001:0071–0079`.
+
+### WXS-MS-P03 — through `wonder_01_11`
+
+Causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P03_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P03 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P02; boundary: WXS main episode 11 end.
+
+**Self-concept:** Star-in-training whose labor now yields a coherent production. **Goals:** Deliver a conspicuous successful first show and improve the prince role. **Fears / uncertainty:** Failure to meet expectations or be sufficiently impressive.
+
+**Emotional baseline:** Excited, physically taxed, increasingly enjoying shared work. **Presentation:** Public boasting coexists with private admission of anticipation. **Coping:** Intensive practice; seeking hints; spectacular risk accepted for prominence.
+
+**Agency:** Works hard, repairs seats and starts the show. **Stress vulnerability:** Visibility incentives can override safety objections; performance success still central. **Speech:** Grand numeric praise; uncertain whether Nene reassurance is intentional encouragement.
+
+**Dependencies:** Rui's direction, KAITO's model, group craft and publicity. Knowledge: `EPI-WXS-MS-P03`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:001:0026–0043`; `PJSK:main:wonder_01_09:01:003:0003–0015`; `PJSK:main:wonder_01_10:01:002:0045–0050`; `PJSK:main:wonder_01_11:01:001:0011–0030`; `PJSK:main:wonder_01_11:01:002:0002–0005`; `PJSK:main:wonder_01_11:01:003:0007–0012`.
+
+#### WXS-MS-EMU-P03 — Emu
+
+**Prior:** WXS-MS-EMU-P02; boundary: WXS main episode 11 end.
+
+**Self-concept:** Performer whose dream seems close through this shared stage. **Goals:** Improve singing and make tomorrow's audience smile. **Fears / uncertainty:** Stage-loss condition still undisclosed.
+
+**Emotional baseline:** Anticipatory happiness and gratitude. **Presentation:** Exuberance with sincere thanks. **Coping:** Asks practical help; enthusiastic preparation and ritual.
+
+**Agency:** Requests teaching, participates in work and supports others. **Stress vulnerability:** Hope can outrun untested public outcome. **Speech:** Playful song and earnest gratitude; collective performance call.
+
+**Dependencies:** Nene's teaching and the group's labor. Knowledge: `EPI-WXS-MS-P03`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_11:01:001:0005–0015`; `PJSK:main:wonder_01_11:01:001:0032–0038`; `PJSK:main:wonder_01_11:01:003:0013–0016`.
+
+#### WXS-MS-NENE-P03 — Nene
+
+**Prior:** WXS-MS-NENE-P02; boundary: WXS main episode 11 end.
+
+**Self-concept:** Capable mediated participant who wants a successful show but struggles in direct conversation. **Goals:** Avoid failure and give the audience joy. **Fears / uncertainty:** Failure and direct face-to-face attention.
+
+**Emotional baseline:** Hopeful engagement with persistent preparation anxiety. **Presentation:** Sharp mediated criticism; hesitant direct speech; warmth in teaching. **Coping:** Extra practice, mediation, asking help.
+
+**Agency:** Teaches Emu and requests rehearsal support; difficulty speaking directly. **Stress vulnerability:** May over-practice under fear; cause/history remains undisclosed. **Speech:** Can laugh casually with Emu, ask Rui softly, hesitate with Miku.
+
+**Dependencies:** Robot, Rui's accompaniment, Miku's permission to speak when ready. Knowledge: `EPI-WXS-MS-P03`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_10:01:002:0032–0043`; `PJSK:main:wonder_01_11:01:001:0005–0009`; `PJSK:main:wonder_01_11:01:001:0046–0064`.
+
+#### WXS-MS-RUI-P03 — Rui
+
+**Prior:** WXS-MS-RUI-P02; boundary: WXS main episode 11 end.
+
+**Self-concept:** Director whose ideas are actually being realized with others. **Goals:** Build the show and accompany Nene's preparation. **Fears / uncertainty:** Collaborative rejection is reported history, not a fully explained private fear.
+
+**Emotional baseline:** Unusually pleased and invested. **Presentation:** Teasing exactitude, technical absorption and direct thanks. **Coping:** Experimentation, coaching, accompaniment, allowing Nene space.
+
+**Agency:** High production and interpersonal initiative. **Stress vulnerability:** Demanding staging and judgments about others' limits can strain preparation. **Speech:** Technical theorizing, provocative challenge, specific thanks and reassurance.
+
+**Dependencies:** Responsive performers, parts, collaborators' capacities. Knowledge: `EPI-WXS-MS-P03`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:001:0008–0028`; `PJSK:main:wonder_01_09:01:002:0002–0007`; `PJSK:main:wonder_01_10:01:002:0014–0018`; `PJSK:main:wonder_01_11:01:001:0024–0026`; `PJSK:main:wonder_01_11:01:001:0049–0064`.
+
+### WXS-MS-P04 — through `wonder_01_14`
+
+Causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P04_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P04 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P03; boundary: WXS main episode 14 end.
+
+**Self-concept:** Star ambition recovered as giving others joy after harmful success fixation. **Goals:** Initially defend this failed show; now find and repair with colleagues. **Fears / uncertainty:** Public failure and threatened identity; then lost connection.
+
+**Emotional baseline:** Anger gives way to responsive play, regret and renewed purpose. **Presentation:** Accusatory performer under humiliation; flexible play and gratitude in SEKAI. **Coping:** Blame and departure, then seeking help and recipient-focused improvisation.
+
+**Agency:** Acts in onstage recovery and later initiates repair search. **Stress vulnerability:** Success pressure can displace care into attack; recovered insight is not repaired trust. **Speech:** Absolute blame shifts to playful borrowing of Emu's greeting and explicit thanks.
+
+**Dependencies:** Colleagues now absent; Miku/KAITO and rabbit enable self-recognition. Knowledge: `EPI-WXS-MS-P04`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_12:01:001:0038–0045`; `PJSK:main:wonder_01_13:01:001:0007–0020`; `PJSK:main:wonder_01_14:01:002:0006–0020`; `PJSK:main:wonder_01_14:01:002:0059–0088`; `PJSK:main:wonder_01_14:01:004:0002–0011`.
+
+#### WXS-MS-EMU-P04 — Emu
+
+**Prior:** WXS-MS-EMU-P03; boundary: WXS main episode 14 end.
+
+**Self-concept:** Performer whose goal includes companions' smiles now lost. **Goals:** Keep the show/group going and recover shared joy. **Fears / uncertainty:** Loss of colleagues' smiles.
+
+**Emotional baseline:** Distress after failed repair appeal. **Presentation:** Still offers affirmative invitation, then names devastation. **Coping:** Onstage improvisation and interpersonal appeal.
+
+**Agency:** Attempts narrative recovery and asks to try again. **Stress vulnerability:** May take responsibility for others' lost happiness; next decision still OPEN. **Speech:** Urgent practical improvisation and repeated hopeful requests become sadness.
+
+**Dependencies:** Departing group; stage stake remains undisclosed. Knowledge: `EPI-WXS-MS-P04`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_12:01:001:0044–0045`; `PJSK:main:wonder_01_13:01:001:0051–0058`.
+
+#### WXS-MS-NENE-P04 — Nene
+
+**Prior:** WXS-MS-NENE-P03; boundary: WXS main episode 14 end.
+
+**Self-concept:** Failure-condemning self-account after an attempted return. **Goals:** Immediate withdrawal; continuing show desire not settled by flight. **Fears / uncertainty:** Stage failure and facing others after blame.
+
+**Emotional baseline:** Acute distress and shame as textual states. **Presentation:** Mediated confidence replaced by fragmented face-to-face apology. **Coping:** Total self-blame, apology and flight.
+
+**Agency:** Had attempted performance; withdrawal is contextual, not total lack of desire. **Stress vulnerability:** Vulnerability exposed to accusatory judgment. **Speech:** Short broken apologies replace earlier cutting mediated replies.
+
+**Dependencies:** Rui's support; robot left behind by Rui. Knowledge: `EPI-WXS-MS-P04`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_12:01:001:0020–0035`; `PJSK:main:wonder_01_13:01:001:0016–0024`; `PJSK:main:wonder_01_13:01:002:0005–0010`.
+
+#### WXS-MS-RUI-P04 — Rui
+
+**Prior:** WXS-MS-RUI-P03; boundary: WXS main episode 14 end.
+
+**Self-concept:** Collaborative possibility recognized but Tsukasa judged incompatible. **Goals:** Protect Nene and leave this company. **Fears / uncertainty:** Renewed harmful collaboration.
+
+**Emotional baseline:** Angry/disappointed, decisive withdrawal. **Presentation:** Direct admonition replaces playful testing. **Coping:** Accepts missed check, interrupts blame, withdraws and leaves robot.
+
+**Agency:** Sets a clear relational boundary and apologizes to Nene. **Stress vulnerability:** Condemnation overgeneralizes Tsukasa's current motive and future. **Speech:** Measured criticism becomes absolute rejection and farewell.
+
+**Dependencies:** Nene relation retained; rejects working with Tsukasa. Knowledge: `EPI-WXS-MS-P04`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0010–0011`; `PJSK:main:wonder_01_13:01:001:0028–0046`; `PJSK:main:wonder_01_13:01:002:0002–0009`.
+
+### WXS-MS-P05 — through `wonder_01_18`
+
+Causal home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P05_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P05 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P04; boundary: WXS main episode 18 end.
+
+**Self-concept:** Future star whose purpose includes audience and companions' joy. **Goals:** Repair specifically with Emu, Nene and Rui. **Fears / uncertainty:** Failure of explanation and loss of collaborators.
+
+**Emotional baseline:** Determined remorse with renewed energy. **Presentation:** Specific apology and listening coexist with assertive/intrusive pursuit. **Coping:** Acknowledgment, inclusive reframing, accommodating Nene's gaze, communication through show.
+
+**Agency:** Initiates repair and accepts ownership; does not control Rui's final answer. **Stress vulnerability:** Can pursue others coercively even while repairing; future durability untested. **Speech:** Apologies name acts and feelings; invitations replace entitlement at key moments.
+
+**Dependencies:** Others' separate willingness to return; SEKAI performance help. Knowledge: `EPI-WXS-MS-P05`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0031–0042`; `PJSK:main:wonder_01_16:01:002:0006–0038`; `PJSK:main:wonder_01_16:01:002:0064–0076`; `PJSK:main:wonder_01_18:01:002:0003–0011`; `PJSK:main:wonder_01_18:01:003:0040–0054`.
+
+#### WXS-MS-EMU-P05 — Emu
+
+**Prior:** WXS-MS-EMU-P04; boundary: WXS main episode 18 end.
+
+**Self-concept:** Stage custodian who must also count among those entitled to joy. **Goals:** Save grandfather's stage with renewed companions. **Fears / uncertainty:** Her wish making others unhappy; potential demolition.
+
+**Emotional baseline:** Grief/surrender shifts to relieved recommitment. **Presentation:** Reveals concealed burden to Tsukasa; active energetic mediator afterward. **Coping:** Prior concealment and self-blame; now disclosure and collective action.
+
+**Agency:** Chooses ride/disclosure and return; helps pursue/reunite others. **Stress vulnerability:** Support ethic can become exclusion of her own needs; intrusive tactics persist. **Speech:** Quiet serious family account, affirmative renewed wish, forceful encouragement.
+
+**Dependencies:** Reported father's conditions, grandfather's memory, collaborators. Knowledge: `EPI-WXS-MS-P05`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0007–0042`; `PJSK:main:wonder_01_17:01:002:0006–0011`; `PJSK:main:wonder_01_18:01:002:0006–0009`.
+
+#### WXS-MS-NENE-P05 — Nene
+
+**Prior:** WXS-MS-NENE-P04; boundary: WXS main episode 18 end.
+
+**Self-concept:** Performer who still wants shows despite a prior failure and current fear. **Goals:** Return to performance and help Rui return too. **Fears / uncertainty:** A failed line and consequences recur in self-account; direct exposure.
+
+**Emotional baseline:** Distress coexists with desire and relief at accepted re-entry. **Presentation:** Hesitant direct disclosure, chosen participation and familiar challenge to Rui. **Coping:** Retrieves robot, sings privately, discloses, accepts fallible challenge, mediates.
+
+**Agency:** Independent return precedes pursuit; later proposes action and performs in repair show. **Stress vulnerability:** No general cure; pressured encounter and continuing fear must remain visible. **Speech:** Fragmented desire/disclosure becomes explicit assent and direct question to Rui.
+
+**Dependencies:** Robot as enabling medium; peers' support; Rui history. Knowledge: `EPI-WXS-MS-P05`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:003:0002–0019`; `PJSK:main:wonder_01_16:01:002:0046–0078`; `PJSK:main:wonder_01_17:01:001:0004–0015`; `PJSK:main:wonder_01_17:01:001:0037–0040`; `PJSK:main:wonder_01_18:01:003:0017–0018`.
+
+#### WXS-MS-RUI-P05 — Rui
+
+**Prior:** WXS-MS-RUI-P04; boundary: WXS main episode 18 end.
+
+**Self-concept:** Director who can distinguish Nene's forgiveness from his own artistic choice. **Goals:** Create meaningful shows with compatible collaborators; now accepts this company again. **Fears / uncertainty:** Repeated incompatibility/rejection contextualized by remembered peers.
+
+**Emotional baseline:** Guarded refusal becomes qualified openness. **Presentation:** Explicit boundary; in-role acceptance preserves playful critical agency. **Coping:** Narrative expression, refusal, judging performance then resuming direction.
+
+**Agency:** Refuses apology as sufficient, later chooses the unassigned next role. **Stress vulnerability:** Prior accusations are memories of others' judgments, not truth about intent. **Speech:** Measured refusal and understated acceptance through the alchemist role.
+
+**Dependencies:** Nene's independent decision, Tsukasa's demonstrated rationale, shared show. Knowledge: `EPI-WXS-MS-P05`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_17:01:001:0019–0028`; `PJSK:main:wonder_01_17:01:001:0047–0057`; `PJSK:main:wonder_01_18:01:001:0003–0007`; `PJSK:main:wonder_01_18:01:003:0045–0066`.
+
+### WXS-MS-P06 — through `wonder_01_20`
+
+Causal home: [P06 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P06 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P05; boundary: WXS main episode 20 end.
+
+**Self-concept:** Star defined through others' joy and necessary collaborators. **Goals:** Continue this company and keep improving here. **Fears / uncertainty:** New fears not established; future failure remains plausible pressure.
+
+**Emotional baseline:** Proud, relieved, fatigued and energized by continuation. **Presentation:** Grandiosity remains alongside questions, credit and support. **Coping:** Invites others' wishes, shares song, offers contingency support, accepts publicity credit increment.
+
+**Agency:** Chooses continuation after eliciting peers' aims. **Stress vulnerability:** No proof humiliation can never reactivate prior response. **Speech:** Self-praise and laughter coexist with collaborative invitations and thanks.
+
+**Dependencies:** All three collaborators, performance infrastructure and audience. Knowledge: `EPI-WXS-MS-P06`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:001:0011–0017`; `PJSK:main:wonder_01_19:01:002:0014–0022`; `PJSK:main:wonder_01_20:01:002:0002–0007`; `PJSK:main:wonder_01_20:01:002:0026–0050`.
+
+#### WXS-MS-EMU-P06 — Emu
+
+**Prior:** WXS-MS-EMU-P05; boundary: WXS main episode 20 end.
+
+**Self-concept:** Participant whose stage and happiness have been supported collectively. **Goals:** Keep making audiences smile at Wonder Stage with the company. **Fears / uncertainty:** No new fear explicitly established; material/family conditions not abolished.
+
+**Emotional baseline:** Relief and joy after communicated stage survival. **Presentation:** Open about shared stake; enthusiastic recommitment. **Coping:** Disclosure, gratitude, shared ritual and renewed work.
+
+**Agency:** Reports outcome and explicitly chooses continuing company. **Stress vulnerability:** No permanent institutional security inferred from this outcome. **Speech:** Familiar joyful shorthand now understood by group; direct gratitude and desire.
+
+**Dependencies:** Family-controlled stage and collective labor. Knowledge: `EPI-WXS-MS-P06`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:002:0002–0008`; `PJSK:main:wonder_01_20:01:002:0011–0021`; `PJSK:main:wonder_01_20:01:002:0028–0029`; `PJSK:main:wonder_01_20:01:002:0042–0044`.
+
+#### WXS-MS-NENE-P06 — Nene
+
+**Prior:** WXS-MS-NENE-P05; boundary: WXS main episode 20 end.
+
+**Self-concept:** Performer with renewed stage participation and eventual professional aspiration. **Goals:** More stage experience, future professional acting; hopes to perform with robot too. **Fears / uncertainty:** Nervousness before renewed public show remains.
+
+**Emotional baseline:** Supported anticipation, fatigue and hopeful future intent. **Presentation:** Human participation and mediated commentary coexist. **Coping:** Accepts support, performs, asks implicitly through stated desire to continue.
+
+**Agency:** Explicitly wants song, renewed stage work and a future path. **Stress vulnerability:** No cure, mastery or permanently unmediated participation certified. **Speech:** Hesitant aspiration and sharp robot-mediated correction both persist.
+
+**Dependencies:** Peers' expressed support, robot, practice opportunities. Knowledge: `EPI-WXS-MS-P06`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:001:0014–0017`; `PJSK:main:wonder_01_19:01:002:0012–0027`; `PJSK:main:wonder_01_20:01:002:0003–0006`; `PJSK:main:wonder_01_20:01:002:0031–0032`; `PJSK:main:wonder_01_20:01:002:0045–0046`.
+
+#### WXS-MS-RUI-P06 — Rui
+
+**Prior:** WXS-MS-RUI-P05; boundary: WXS main episode 20 end.
+
+**Self-concept:** Director choosing these collaborators as a site for further experiments. **Goals:** Continue directing and develop untried staging with this company. **Fears / uncertainty:** Future compatibility/safety questions untested.
+
+**Emotional baseline:** Relieved and creatively interested but physically tired. **Presentation:** Playful direction, practical work, understated commitment. **Coping:** Production checks, participation and proposing further work.
+
+**Agency:** Affirms specific continued collaboration. **Stress vulnerability:** Ideas not yet enacted or independently safety-verified; physical limits visible. **Speech:** Measured commentary, questions about outcome and imaginative proposals.
+
+**Dependencies:** Shared labor, performers and technical infrastructure. Knowledge: `EPI-WXS-MS-P06`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:002:0011–0014`; `PJSK:main:wonder_01_19:01:002:0029–0035`; `PJSK:main:wonder_01_20:01:002:0004–0008`; `PJSK:main:wonder_01_20:01:002:0033–0046`.

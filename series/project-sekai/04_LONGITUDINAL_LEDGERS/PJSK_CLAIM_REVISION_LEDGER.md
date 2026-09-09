@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20"
-analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only"
+source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20"
+analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only; WXS foundation-current P06 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -30,13 +30,16 @@ The imported ledger reuses the following IDs for different claims. Historical id
 
 The EVENT_0070 heading `CR-N25-E-057 / talent-continuation architecture` is a dangling imported reference, not an additional established claim. Its stated EVENT_0053 continuation premise resolves to **`CR-N25-ENA-021`**, including the §7.20 strengthening. Use that responsible claim plus the EVENT_0070 extension when citing the passage. These reference repairs introduce no new source findings and confer no franchise-wide claim authority before the other unit foundations are completed.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. WXS remains canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
-Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. WXS foundation and the material routed/screening/reconstruction backlog remain pending.
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
 
 
-MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. N25, Leo/need, VBS and MMJ foundations are complete; WXS remains pending. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+
+
+Wonderlands×Showtime's [six-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) is integrated through `wonder_01_20`: tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`, group `REL-WXS-MS-G-P06`, knowledge `EPI-WXS-MS-P06`. Preserve coercive appointment and pursuit alongside subsequent separate assent, Nene's continuing fear and mediated competence, Tsukasa's enduring grandiose register within revised purpose, Rui's distinct artistic choice and Emu's reported family/material conditions. Wonderland Miku/KAITO remain separate manifestations. All five human-unit main-story foundations are complete. Material routed histories, 21 earlier universal-screen gaps and reconstruction/synthesis obligations remain pending; forward EVENT_0091 does not advance.
 
 ## 1. Purpose
 
@@ -1772,3 +1775,175 @@ Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MM
 **Bounded state / claim:** REVISE: Airi continues teaching after actual next rejection; earlier terminal condition no longer governs this relation.
 
 **Evidence:** `PJSK:main:mmj_01_20:01:001:0005–0022`. Confidence: HIGH.
+
+## Wonderlands×Showtime main-story foundation — serial phase history
+
+The following snapshots preserve knowledge and interpretation at each named boundary. Phase-indexed human IDs retain operational snapshots, including refinements and revelations; a new phase ID does not by itself claim an event-level durable transition. No later source enters an earlier snapshot. Source-observed acts and disclosed histories carry HIGH confidence; qualified psychological inference is MODERATE. Shared causal interpretation belongs to each phase reading. These histories do not replace later cross-unit records or certify character-package readiness.
+
+### WXS-MS-P01 — through `wonder_01_04`
+
+Causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P01_DEEP_READING.md).
+
+#### CR-WXS-MS-STAR-PURPOSE-P01 — OPEN
+
+**Chain:** `CR-WXS-MS-STAR-PURPOSE`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** No WXS foundation claim.
+
+**Bounded revised claim:** Present star ambition is explicit while its childhood purpose is inaccessible to Tsukasa; care remains observable. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_00:01:001:0001–0017`; `PJSK:main:wonder_01_00:01:003:0011–0030`.
+
+#### CR-WXS-MS-APPOINTMENT-P01 — REJECT
+
+**Chain:** `CR-WXS-MS-APPOINTMENT`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Tsukasa believes ordinary audition succeeded.
+
+**Bounded revised claim:** He was not selected by ordinary audition and his initial appointment is pressured before subsequent initiative. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_02:01:002:0002–0005`; `PJSK:main:wonder_01_04:01:002:0024–0043`.
+
+### WXS-MS-P02 — through `wonder_01_08`
+
+Causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P02_DEEP_READING.md).
+
+#### CR-WXS-MS-STAR-PURPOSE-P02 — STRENGTHEN
+
+**Chain:** `CR-WXS-MS-STAR-PURPOSE`. **Prior ID:** CR-WXS-MS-STAR-PURPOSE-P01. **Prior analytical statement:** Present star ambition is explicit while its childhood purpose is inaccessible to Tsukasa; care remains observable.. **Source-local target:** Present purpose inaccessible but care remains.
+
+**Bounded revised claim:** Family performance and real craft recognition qualify a wholly self-absorbed account without resolving the motive. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_05:01:001:0010–0012`; `PJSK:main:wonder_01_08:01:001:0008–0021`.
+
+#### CR-WXS-MS-NENE-MEDIATION-P02 — OPEN
+
+**Chain:** `CR-WXS-MS-NENE-MEDIATION`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Nene source glimpse only.
+
+**Bounded revised claim:** Robot permits competent participation with physical concealment; precise history and dependence limits remain OPEN. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_07:01:001:0004–0014`; `PJSK:main:wonder_01_07:01:001:0058–0080`.
+
+#### CR-WXS-MS-RUI-SOLO-P02 — OPEN
+
+**Chain:** `CR-WXS-MS-RUI-SOLO`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Rui source glimpse only.
+
+**Bounded revised claim:** He states solo preference but accepts with Nene as condition; do not yet supply later causal biography. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_06:01:001:0005–0006`; `PJSK:main:wonder_01_06:01:001:0028–0035`.
+
+### WXS-MS-P03 — through `wonder_01_11`
+
+Causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P03_DEEP_READING.md).
+
+#### CR-WXS-MS-RUI-SOLO-P03 — DOWNGRADE
+
+**Chain:** `CR-WXS-MS-RUI-SOLO`. **Prior ID:** CR-WXS-MS-RUI-SOLO-P02. **Prior analytical statement:** He states solo preference but accepts with Nene as condition; do not yet supply later causal biography.. **Source-local target:** Simple face-value solo preference remains possible.
+
+**Bounded revised claim:** Observed pleasure and gratitude strengthen interest in these collaborators; complete origin still OPEN. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:002:0002–0007`; `PJSK:main:wonder_01_11:01:001:0024–0026`.
+
+#### CR-WXS-MS-PERFECTION-P03 — OPEN
+
+**Chain:** `CR-WXS-MS-PERFECTION`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Company assembled without tested public outcome.
+
+**Bounded revised claim:** Successful rehearsal and real labor do not establish resilience under failure or technical safety. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:001:0026–0043`; `PJSK:main:wonder_01_11:01:001:0018–0038`; `PJSK:main:wonder_01_11:01:001:0046–0064`.
+
+### WXS-MS-P04 — through `wonder_01_14`
+
+Causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P04_DEEP_READING.md).
+
+#### CR-WXS-MS-STAR-PURPOSE-P04 — REVISE
+
+**Chain:** `CR-WXS-MS-STAR-PURPOSE`. **Prior ID:** CR-WXS-MS-STAR-PURPOSE-P02. **Prior analytical statement:** Family performance and real craft recognition qualify a wholly self-absorbed account without resolving the motive.. **Source-local target:** Care exists but present rationale is status-centered and inaccessible.
+
+**Bounded revised claim:** Tsukasa recovers audience-oriented childhood aim after enacting harmful status/success fixation; insight not yet shared repair. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0012–0046`; `PJSK:main:wonder_01_14:01:002:0059–0088`.
+
+#### CR-WXS-MS-NENE-BLAME-P04 — REJECT
+
+**Chain:** `CR-WXS-MS-NENE-BLAME`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Hostile/self-blaming local claim that robot use or Nene alone invalidated the show.
+
+**Bounded revised claim:** Technical preparation, failed recovery and subsequent accusations are distinct; mediated participation is not inherently illegitimate. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_12:01:001:0030–0064`; `PJSK:main:wonder_01_13:01:001:0005–0020`.
+
+#### CR-WXS-MS-RUI-SOLO-P04 — REVISE
+
+**Chain:** `CR-WXS-MS-RUI-SOLO`. **Prior ID:** CR-WXS-MS-RUI-SOLO-P03. **Prior analytical statement:** Observed pleasure and gratitude strengthen interest in these collaborators; complete origin still OPEN.. **Source-local target:** Collaborative pleasure qualified simple solo preference.
+
+**Bounded revised claim:** Rui directly recognizes what working with companions made possible, then rejects this harmful interaction. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0028–0043`.
+
+### WXS-MS-P05 — through `wonder_01_18`
+
+Causal home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P05_DEEP_READING.md).
+
+#### CR-WXS-MS-PERFECTION-P05 — REVISE
+
+**Chain:** `CR-WXS-MS-PERFECTION`. **Prior ID:** CR-WXS-MS-PERFECTION-P03. **Prior analytical statement:** Successful rehearsal and real labor do not establish resilience under failure or technical safety.. **Source-local target:** Tsukasa explicitly demands success every time in episode 13.
+
+**Bounded revised claim:** He now states failure accompanies challenge and specifically rejects blaming the colleague who tried. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_16:01:002:0064–0076`.
+
+#### CR-WXS-MS-NENE-MEDIATION-P05 — STRENGTHEN
+
+**Chain:** `CR-WXS-MS-NENE-MEDIATION`. **Prior ID:** CR-WXS-MS-NENE-MEDIATION-P02. **Prior analytical statement:** Robot permits competent participation with physical concealment; precise history and dependence limits remain OPEN.. **Source-local target:** Robot enabling function preserved against global blame.
+
+**Bounded revised claim:** Nene privately returns, discloses desire and fear, and credits robot-enabled enjoyment; return is not a cure. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:003:0002–0017`; `PJSK:main:wonder_01_16:01:002:0046–0078`.
+
+#### CR-WXS-MS-SHARED-HAPPINESS-P05 — REVISE
+
+**Chain:** `CR-WXS-MS-SHARED-HAPPINESS`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Emu risks excluding herself while supporting others.
+
+**Bounded revised claim:** Tsukasa explicitly includes her in everyone; she agrees to renewed work after private disclosure. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0020–0042`.
+
+#### CR-WXS-MS-COMPATIBILITY-P05 — REJECT
+
+**Chain:** `CR-WXS-MS-COMPATIBILITY`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Rui regards Tsukasa's values as incompatible in episode 17.
+
+**Bounded revised claim:** Performed revised rationale and a choice left open lead Rui to resume directing; past refusal remains historical. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_17:01:001:0047–0054`; `PJSK:main:wonder_01_18:01:003:0040–0066`.
+
+### WXS-MS-P06 — through `wonder_01_20`
+
+Causal home: [P06 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP_READING.md).
+
+#### CR-WXS-MS-STAR-PURPOSE-P06 — STRENGTHEN
+
+**Chain:** `CR-WXS-MS-STAR-PURPOSE`. **Prior ID:** CR-WXS-MS-STAR-PURPOSE-P04. **Prior analytical statement:** Tsukasa recovers audience-oriented childhood aim after enacting harmful status/success fixation; insight not yet shared repair.. **Source-local target:** Recovered aim and differentiated repair.
+
+**Bounded revised claim:** Shared song, support and solicited future aims enact revised purpose while grandiose register persists. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:001:0011–0017`; `PJSK:main:wonder_01_19:01:002:0014–0022`; `PJSK:main:wonder_01_20:01:002:0026–0050`.
+
+#### CR-WXS-MS-NENE-MEDIATION-P06 — PRESERVE
+
+**Chain:** `CR-WXS-MS-NENE-MEDIATION`. **Prior ID:** CR-WXS-MS-NENE-MEDIATION-P05. **Prior analytical statement:** Nene privately returns, discloses desire and fear, and credits robot-enabled enjoyment; return is not a cure.. **Source-local target:** Chosen participation with fear and enabling robot, no cure.
+
+**Bounded revised claim:** Renewed show and professional aim coexist with nerves and mediated speech; future joint appearance with robot remains intention. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:002:0012–0027`; `PJSK:main:wonder_01_20:01:002:0003–0006`; `PJSK:main:wonder_01_20:01:002:0031–0032`; `PJSK:main:wonder_01_20:01:002:0045–0046`.
+
+#### CR-WXS-MS-STAGE-SURVIVAL-P06 — OPEN
+
+**Chain:** `CR-WXS-MS-STAGE-SURVIVAL`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Family condition disclosed and common action intended.
+
+**Bounded revised claim:** Emu's communicated result supports local preservation, not permanent finances, contract or parental agreement beyond the scene. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_20:01:002:0008–0029`.
+
+#### CR-WXS-MS-RUI-SOLO-P06 — REVISE
+
+**Chain:** `CR-WXS-MS-RUI-SOLO`. **Prior ID:** CR-WXS-MS-RUI-SOLO-P04. **Prior analytical statement:** Rui directly recognizes what working with companions made possible, then rejects this harmful interaction.. **Source-local target:** Returned collaborator after judged compatibility.
+
+**Bounded revised claim:** Rui explicitly chooses further direction with this company; this is not a universal change to every context. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_20:01:002:0030–0046`.

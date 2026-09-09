@@ -54,9 +54,9 @@ SUPERSEDED
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
 - Latest closed forward transaction and positive N25 integration: `EVENT_0090`, I2 Ena expressive-method refinement; next `EVENT_0091`. All six longitudinal ledgers reach EVENT_0090. Two bounded cross-unit relationship responsibilities and three epistemic records are added without a new global human state. Preserve EVENT_0089's protective/family/KAITO records and unequal-information limits, EVENT_0080's Mafuyu–Shizuku state, `REL-N25-EM-5`, E0077 corrections and all unaffected increments. No completed art career, liberation or taste recovery.
 - Current N25 tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`.
-- Completed main-story foundations: N25, LEO_NEED, VBS and MMJ. Remaining canonical foundation: WXS. Leo/need, VBS and MMJ are foundation-current through their main-story endings; their routed-event integration remains pending.
+- Completed main-story foundations: all five human units — N25, LEO_NEED, VBS, MMJ and WXS. Each non-N25 foundation is current through its main-story ending; material routed-event integration remains pending.
 - Franchise routing inventory reaches EVENT_0090, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for LEO_NEED, MMJ, VBS and WXS still require ordered foundation-aware interpretation. Leo/need, VBS and MMJ now have their baselines; WXS foundation remains pending. EVENT_0046–0090 universal screens and earlier reusable complete readings retain their bounded authority.
+- Material routes for LEO_NEED, MMJ, VBS and WXS still require ordered foundation-aware interpretation. All five human units now have their main-story baselines. EVENT_0046–0090 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
 
@@ -99,6 +99,21 @@ The completed [synthesis](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_S
 | P05 | `mmj_01_19–20` | 167 | Five substantive ledger responsibilities integrated at their bounded times | [P05](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P05_DEEP_READING.md) |
 
 The [synthesis](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md) follows all five readings and their reconciled state handoffs. Final main-story tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`, group `MMJ-REL-GROUP-05`; ten distinct claims retain serial refinements. Twenty human snapshots preserve operational dimensions, with Stage manifestations separately bounded. Minori skill/rejection, Haruka supported capacity, future agency work and former-group repair remain explicit limits. No R1 or higher character-package readiness is certified by completing the foundation. Later MMJ routes, earlier screen gaps and reconstruction remain pending; the forward-event cursor does not advance.
+
+### Wonderlands×Showtime foundation completion — 2026-09-09
+
+**COMPLETE_FOUNDATION:** all 21 canonical files / 60 scenes / 1,704 ordered records, independently rehashed and inventoried in the [source audit](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SOURCE_AUDIT.md). Root reviewed and integrated all six phases before the [synthesis](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md) became current.
+
+| Phase | Episodes | Records | Scenes | Reading |
+|---|---|---:|---:|---|
+| P01 | `wonder_01_00–04` | 430 | 16 | [P01](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P01_DEEP_READING.md) |
+| P02 | `wonder_01_05–08` | 296 | 11 | [P02](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P02_DEEP_READING.md) |
+| P03 | `wonder_01_09–11` | 253 | 9 | [P03](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P03_DEEP_READING.md) |
+| P04 | `wonder_01_12–14` | 264 | 8 | [P04](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P04_DEEP_READING.md) |
+| P05 | `wonder_01_15–18` | 316 | 11 | [P05](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P05_DEEP_READING.md) |
+| P06 | `wonder_01_19–20` | 145 | 5 | [P06](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP_READING.md) |
+
+The [phase map](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) routes causal readings and source history. Final tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`; group `REL-WXS-MS-G-P06`; knowledge `EPI-WXS-MS-P06`. Shared histories retain 22 human and 28 relationship boundary snapshots, six epistemic boundaries and nine claim chains. Explicit phase boundaries preserve refinements as well as changes without making every phase ID a durable transition. Coercion, fallible care, unshared knowledge, ongoing fear and reported local outcomes remain visible. Foundation completion earns no character-package readiness certificate; all material routed-event histories and later completion dependencies remain pending. The 21 earlier universal screens and EVENT_0091 forward cursor are unchanged.
 
 ### Historical initial summary
 
