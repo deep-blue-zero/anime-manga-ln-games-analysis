@@ -4,18 +4,18 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI analytical layer; N25 positive integration and documentary screening through EVENT_0072"
+source_boundary: "Project SEKAI analytical layer; N25 positive integration through EVENT_0072 and documentary screening through EVENT_0073"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "N25 positive integration and documentary screening through EVENT_0072; EVENT_0070 advances Ena and EVENT_0072 advances Mafuyu; current human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+analysis_cutoff: "N25 positive integration through EVENT_0072 and documentary screening through EVENT_0073; EVENT_0070 advances Ena and EVENT_0072 advances Mafuyu; current human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
 ---
 
 # Project SEKAI Release Impact Ledger
 
 ## Current execution handoff
 
-The last completed forward event transaction is **EVENT_0072**; the next is **EVENT_0073**. Positive N25 integration reaches EVENT_0072, with current human tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier `Pending release queue` and `Next pending release` passages are historical handoffs at their surrounding event boundaries; they are not competing current instructions.
+The last completed forward event transaction is **EVENT_0073**; the next is **EVENT_0074**. Positive N25 integration reaches EVENT_0072 and documentary screening reaches EVENT_0073, with current human tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier `Pending release queue` and `Next pending release` passages are historical handoffs at their surrounding event boundaries; they are not competing current instructions.
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Its final coverage also requires the 21 older incomplete universal screens and interpretation of material deferred routes after the remaining foundations. Existing N25 I0–I3 scores are scoped to the founded N25 baseline. An event-level reconstruction-yield label does not certify a character package as reconstruction-ready.
 
@@ -1867,3 +1867,30 @@ EVENT_0072 advances the EVENT_0061 autonomy model from behavior-before-language 
 ### Next pending release
 
 Sequential screening resumes with `EVENT_0073` against `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+
+## RI-EVENT-0073 — 拝啓、あの頃のわたしへ
+
+```yaml
+release_id: EVENT_0073
+release_bucket: RB_20221012T060000Z
+complete_envelope: "8 core + 10 card halves + 5 archive-publication areas = 23"
+unit_relevance: MMJ_PRIMARY_LEO_NEED_INCIDENTAL_N25_NONE
+impact_scope: N25
+impact: I0
+reconstruction_yield_n25: R0
+integration_status: SCREENED_FULL_DEEP_READING_DEFERRED_MMJ
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0073_DEEP_READING.md
+other_unit_impact: DEFERRED_PENDING_FOUNDATION
+character_state_delta: none_for_N25
+relationship_delta: none_for_N25
+epistemic_delta: none_for_N25
+claim_delta: none_for_N25
+theme_delta: none_for_N25
+explicit_bridge_check: "Shizuku card 0520 and all linked areas contain no Mafuyu/Mizuki/N25 bridge; MMJ manifestations only"
+current_n25_tuple: "MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+next_candidate_operation: EVENT_0074
+```
+
+All 23 canonical surfaces were inspected. Full-reading promotion is driven by MMJ's event-local R3 yield: Minori's commitment under acknowledged uncertainty, the first solo concert as reciprocal hope, Haruka's private DVD recognition and deliberate invitation echo, audience-facing training, practical production and staff feedback, and ordinary family/fan behavior. MMJ is PRIMARY/HIGH and retains `DEFERRED_PENDING_FOUNDATION`; no unsupported I0–I3 judgment or human state ID is created. Leo/need receives incidental Ichika-flower and Shiho-sibling reports at `PJSK:area:areatalk_ev_idol_10_001:01:001:0007–0008` and `PJSK:area:areatalk_ev_idol_10_004:01:001:0006–0008`. Neither is a shown cross-unit exchange.
+
+N25 has no evidence-bearing route. Its five substantive ledgers remain unchanged, including `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061`. The routing ledger, reading and coverage/current-state surfaces close this transaction together. Historical universal-screen gaps remain explicit; latest closed forward event does not mean gap-free coverage.

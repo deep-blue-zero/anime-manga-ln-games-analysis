@@ -49,14 +49,14 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Recovered current coverage — 2026-09-08
+### Current coverage — updated through EVENT_0073 on 2026-09-09
 
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
-- Latest closed forward transaction: `EVENT_0072`; next forward operation: `EVENT_0073`.
+- Latest closed forward transaction: `EVENT_0073`; next forward operation: `EVENT_0074`. Latest substantive N25 integration remains `EVENT_0072`.
 - Current N25 tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
 - Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
-- Franchise routing inventory reaches EVENT_0072, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0072 universal screens and earlier reusable complete readings retain their bounded authority.
+- Franchise routing inventory reaches EVENT_0073, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0073 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
 
@@ -698,3 +698,22 @@ CURRENT AUTHORITY AFTER EVENT_0072
 - Current broad manifestation-group authority remains REL-N25-GM-E0054; REL-N25-VS-LEN-GROUP-E0061 remains preserved.
 - Next sequential operation: EVENT_0073.
 .
+
+EVENT_0073 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE
+
+Title: 拝啓、あの頃のわたしへ. Release bucket: `RB_20221012T060000Z`.
+Artifact: [MMJ/PJSK_EVENT_0073_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0073_DEEP_READING.md).
+Complete source boundary: core `0073:01–08`, cards `0517–0521` both halves, and five archive-publication areas `areatalk_ev_idol_10_001–005`; all 23 surfaces read from the pinned canonical witness.
+
+MMJ is PRIMARY/HIGH with R3 event-local reconstruction yield and `DEFERRED_PENDING_FOUNDATION`: Minori's uncertain-outcome commitment, reciprocal fan/peer hope, Haruka's private recognition, production learning and ordinary-life evidence are preserved for ordered backfill. Leo/need is INCIDENTAL/LOW through two indirect references. VBS and WxS have no evidence-bearing route. N25 is NONE/I0/R0; Shizuku's cards and all linked areas contain no Mafuyu/Mizuki/N25 bridge.
+
+The five substantive N25 ledgers remain unchanged. RELEASE_IMPACT, franchise routing, the event reading and coverage/current-state surfaces advance together. No MMJ state ID, baseline impact score or completed character-readiness certification is inferred from this extraction.
+
+CURRENT AUTHORITY AFTER EVENT_0073
+
+- Latest closed forward transaction and N25 documentary screening: EVENT_0073.
+- Latest substantive N25 integration: EVENT_0072 (I3/R3).
+- Current tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- Preserved manifestation-group authorities: `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061`.
+- Franchise inventory/frontier: EVENT_0073; 21 earlier universal screens still pending, four foundations and material deferred-route integrations still incomplete.
+- Next forward operation: EVENT_0074 — カーテンコールに惜別を, `RB_20221021T060000Z`.

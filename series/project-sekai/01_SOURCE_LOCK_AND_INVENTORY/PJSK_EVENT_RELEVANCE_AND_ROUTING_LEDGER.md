@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0072"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0073; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1072,3 +1072,56 @@ Epistemic guardrail: cross-unit witnesses receive bounded public/medical/desire 
 Preferred artifact: `PJSK_EVENT_0072_DEEP_READING.md`.
 
 **Routing current through EVENT_0072. Next: EVENT_0073.**
+
+## EVENT_0073 — 拝啓、あの頃のわたしへ
+
+```yaml
+release_id: EVENT_0073
+release_bucket: RB_20221012T060000Z
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+routing_status: UNIVERSAL_SCREEN_COMPLETE
+complete_envelope: "8 core + cards 0517-0521 both halves + 5 archive-publication areas = 23 surfaces"
+core_locators: [PJSK:event:0073:01, PJSK:event:0073:02, PJSK:event:0073:03, PJSK:event:0073:04, PJSK:event:0073:05, PJSK:event:0073:06, PJSK:event:0073:07, PJSK:event:0073:08]
+card_locators: [PJSK:card:0517:01, PJSK:card:0517:02, PJSK:card:0518:01, PJSK:card:0518:02, PJSK:card:0519:01, PJSK:card:0519:02, PJSK:card:0520:01, PJSK:card:0520:02, PJSK:card:0521:01, PJSK:card:0521:02]
+area_locators: [PJSK:area:areatalk_ev_idol_10_001:01, PJSK:area:areatalk_ev_idol_10_002:01, PJSK:area:areatalk_ev_idol_10_003:01, PJSK:area:areatalk_ev_idol_10_004:01, PJSK:area:areatalk_ev_idol_10_005:01]
+routes:
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Minori, Haruka, Airi, Shizuku]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [commitment_under_uncertainty, reciprocal_hope, performance, training, family, friendship, production_labor, audience_access, ambition, ordinary_life, speech_register, private_recognition, manifestation_specific_support]
+  LEO_NEED:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R0_R1
+    characters: [Ichika_indirect_reference, Shiho_indirect_reference]
+    locators: [PJSK:area:areatalk_ev_idol_10_001:01:001:0007, PJSK:area:areatalk_ev_idol_10_001:01:001:0008, PJSK:area:areatalk_ev_idol_10_004:01:001:0006, PJSK:area:areatalk_ev_idol_10_004:01:001:0007, PJSK:area:areatalk_ev_idol_10_004:01:001:0008]
+  N25: {relevance: NONE, future_review_priority: NONE, baseline_impact: I0, reconstruction_yield: R0}
+  VBS: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+  WXS: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0073_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0074
+```
+
+Relationship routes for later MMJ integration:
+
+| Relationship or network | Exact evidence | Mode and later responsibility |
+|---|---|---|
+| Minori–Haruka | `PJSK:event:0073:04:001:0137–0161`; `PJSK:card:0518:01:002:0040–0068`; `PJSK:card:0518:02:003:0023–0038`, `PJSK:card:0518:02:003:0063–0072` | Formative encounter, private retrospective recognition, public reciprocity and present teasing; retain the difference between audience knowledge and Minori's unconfirmed suspicion. |
+| Minori–parents | `PJSK:event:0073:05:002:0013–0046`; `PJSK:card:0517:01:002:0012–0065` | Retrospective commitment and material limits; present ordinary family support/comedy. Brother also appears directly in card 0517. |
+| Minori–Chihiro | `PJSK:event:0073:03:003:0004–0015`; `PJSK:event:0073:03:004:0002–0042`; `PJSK:event:0073:04:001:0052–0062`; `PJSK:card:0517:02:001:0066–0072` | Independent dance interest, companion feedback, later mutual encouragement; no claim that Chihiro attended MMJ's concert. |
+| Minori–Airi; all four MMJ performers | `PJSK:card:0519:01:002:0017–0065`; `PJSK:card:0519:02:004:0014–0039`; `PJSK:event:0073:06:001:0086–0101`; `PJSK:event:0073:08:001:0013–0020` | Teaching, audience design, anxiety-sensitive restraint and reciprocal peer competition. |
+| MMJ–fans, Yuina, child aspirant | `PJSK:event:0073:06:001:0047–0076`; `PJSK:event:0073:07:001:0018–0061`; `PJSK:event:0073:08:001:0039–0070`; `PJSK:card:0517:02:001:0026–0061` | Public response and practical access; no universal fan consensus or guaranteed future career. |
+| MMJ–Saito/staff; Shizuku–former leader | `PJSK:event:0073:01:001:0019–0036`; `PJSK:card:0520:01:003:0002–0029`; `PJSK:card:0520:02:001:0038–0072` | Backstage vocation, retained practical mentorship and post-event operational feedback. |
+| MMJ–Nanamin/Mai/Hasegawa | `PJSK:event:0073:06:001:0012–0023`, `PJSK:event:0073:06:001:0098–0104`; `PJSK:event:0073:07:001:0098–0108` | Former-idol and composer reception; bounded direct witness and inner perspective, not transfer of all private history. |
+| MMJ humans–Stage-SEKAI manifestations | `PJSK:card:0521:01:002:0012–0049`; `PJSK:card:0521:02:002:0002–0030`, `PJSK:card:0521:02:004:0014–0040`; `PJSK:event:0073:07:001:0025–0028` | Practical and emotional support with two-way learning; public SEKAI concealment remains. |
+
+The full reading's envelope table preserves additional ordinary-life areas and finer claim locators. N25 is explicitly I0 after checking all cards and areas, including Shizuku's potential cross-unit surfaces. Incidental Leo/need evidence consists of reports or a proposed future question; no Ichika answer or Shiho participation is shown. Tier A developmental/commitment material, Tier B reciprocity, Tier C professional characterization and Tier D ordinary behavior justify extraction; MMJ baseline-relative impact remains deferred.
+
+**Latest closed forward route: EVENT_0073. Next forward candidate: EVENT_0074.** The 21 earlier `PENDING_ONE_TIME_UNIVERSAL_SCREEN` rows remain workflow gaps.
