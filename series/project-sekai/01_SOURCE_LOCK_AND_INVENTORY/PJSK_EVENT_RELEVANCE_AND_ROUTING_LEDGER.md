@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0078; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0079; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1466,3 +1466,75 @@ next_event: EVENT_0079
 | Production / audience-only future complication | `PJSK:event:0078:08:003:0002–0012`; `PJSK:card:0548:01:001`; `PJSK:card:0549:02:001:0042–0046` | Replacement host accepted on production side; MMJ only knows its offer acceptance and incomplete arrangements. No motive or later outcome imported. |
 
 The shared reading owns causal interpretation, all 23 witness ranges/hashes, knowledge limits and reconstruction delta. MMJ and Leo/need remain deferred for founded comparison. N25's five substantive ledgers and human/relationship IDs remain unchanged; RELEASE_IMPACT and current routing/coverage advance documentary screening only. Latest positive N25 integration EVENT_0077; latest human-state transition EVENT_0072; latest closed forward event EVENT_0078; next EVENT_0079. The 21 older universal screens and remaining completion dependencies persist.
+
+## EVENT_0079 — Find A Way Out
+
+```yaml
+release_id: EVENT_0079
+release_bucket: RB_20221211T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0079:01, PJSK:event:0079:02, PJSK:event:0079:03, PJSK:event:0079:04, PJSK:event:0079:05, PJSK:event:0079:06, PJSK:event:0079:07, PJSK:event:0079:08]
+card_locators: [PJSK:card:0551:01, PJSK:card:0551:02, PJSK:card:0552:01, PJSK:card:0552:02, PJSK:card:0553:01, PJSK:card:0553:02, PJSK:card:0554:01, PJSK:card:0554:02, PJSK:card:0555:01, PJSK:card:0555:02]
+area_locators: [PJSK:area:areatalk_ev_street_11_001:01, PJSK:area:areatalk_ev_street_11_002:01, PJSK:area:areatalk_ev_street_11_003:01, PJSK:area:areatalk_ev_street_11_004:01, PJSK:area:areatalk_ev_street_11_005:01]
+chronology_note: "Cards 0551-0553 initially available 03:00Z, 0554-0555 06:00Z; all areas archive-published 2022-12-11T06:00Z with independent chapter-8 unlock condition 107808/episode 1000640. Childhood, middle-school, present evening, Christmas Eve/Day and following-day scenes remain separate."
+unit_routes:
+  VBS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Akito, Toya, An, Kohane, Kotaro, Arata, Tatsuya, EVER, Ken, Taiga, Nagi_private_memory, Shepherd, Crawl_Green_owner, Toya_parents, Toya_brothers_reported, Soma_reported]
+    manifestations: [VBS_Miku, VBS_Rin, VBS_Len, VBS_Luka, VBS_MEIKO, VBS_KAITO]
+    domains: [musical_origin, uncertain_trial, ambition, public_private_register, hostile_evaluation, shame, effort_and_limits, embodied_desire, pacing, mentorship, acquired_capability, group_enabled_growth, harmful_intent_attribution, family_independence, ordinary_preferences, practical_care, shared_work, knowledge_partition]
+    locators: [PJSK:event:0079:01:003, PJSK:event:0079:03:002, PJSK:event:0079:04:003, PJSK:event:0079:04:008, PJSK:event:0079:04:009, PJSK:event:0079:05:006, PJSK:event:0079:06:001, PJSK:event:0079:06:002, PJSK:event:0079:07:001, PJSK:event:0079:08:001, PJSK:event:0079:08:002, PJSK:card:0554:01:002, PJSK:card:0555:02:001]
+  N25:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    baseline_impact: I1
+    reconstruction_yield: R2
+    characters: [Ena, Akito_bounded_family]
+    domains: [sibling_observation, inferred_distress, practical_accommodation, historical_restraint, privacy, food_talk, reported_gift_requests, repeated_origin_reference]
+    locators: [PJSK:card:0551:01:002:0002, PJSK:card:0551:01:002:0011, PJSK:card:0551:01:002:0020, PJSK:card:0551:01:002:0033, PJSK:card:0551:01:002:0038, PJSK:card:0551:01:002:0046, PJSK:card:0555:01:002:0036, PJSK:area:areatalk_ev_street_11_003:01:001:0005, PJSK:event:0079:04:003:0032]
+  LEO_NEED:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Ichika_group_reported]
+    domains: [reported_matching_objects, cross_unit_social_knowledge]
+    locators: [PJSK:area:areatalk_ev_street_11_002:01:001:0008]
+  WXS:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Tsukasa_mother_reported]
+    domains: [reported_parent_network, practical_cooking_help]
+    locators: [PJSK:card:0552:01:001:0044]
+  MMJ:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0080
+```
+
+| Relationship / decision route | Exact evidence | Reuse and limits |
+|---|---|---|
+| Akito–Ena / trial and current family observation | `PJSK:event:0079:04:003:0032–0036`; `PJSK:card:0551:01:002:0002–0048`; `PJSK:card:0555:01:002:0035–0036`; `PJSK:area:areatalk_ev_street_11_003:01:001:0002–0006` | EVENT_0029 origin suggestion is repeated, not rediscovered. New bath priority, crying-sign recognition, reported earlier restraint and household talk support N25 I1 without granting knowledge of the tears' cause. |
+| Akito–An / early asymmetric influence | `PJSK:event:0079:04:008:0040–0068`; `PJSK:event:0079:05:004:0014–0029` | Her singing and stated ambition sharpen his resolve; later he sees others' effort too. No mutual partnership or shared inner knowledge at first sight. |
+| Akito–hostile musicians / capability and humiliation | `PJSK:event:0079:04:009:0002–0038`; `PJSK:event:0079:05:002:0011–0029`; `PJSK:event:0079:05:006:0011–0096`; `PJSK:event:0079:06:002:0031–0114` | Learned public manner, knowingly premature challenge, genuine skill gap, later local victory and refusal of satisfaction. Cruel opponents can be capable; present stance does not absolve their conduct. |
+| Akito–Ken/Taiga / persistence and acquired skill | `PJSK:event:0079:06:001:0003–0053`; `PJSK:event:0079:07:001:0028–0071`; `PJSK:event:0079:07:001:0098–0123` | Ken couples continued singing with rest; Taiga's personal account reveals the admired voice developed. Conditional potential is not guaranteed success; pacing remains unresolved. |
+| VBS/Kotaro/Luka / informed support | `PJSK:event:0079:03:004:0020–0049`; `PJSK:event:0079:06:002:0009–0024`; `PJSK:event:0079:08:001:0003–0039` | Water and shared running, partial-information alert, later disclosure, apology and offered shared return. Solo performance remains enabled by companions. |
+| Kohane–Akito/Toya/Kotaro / revising old harm | `PJSK:card:0554:01:002:0013–0050` | Kohane finds later value and hypothesizes kindness; others acknowledge their own responsibility and qualify benevolent original intent. Required VBS foundation-reconciliation constraint, not exoneration. |
+| Toya–parents/brothers / autonomy and domestic affection | `PJSK:event:0079:03:002:0002–0024`; `PJSK:card:0552:01:001:0002–0053`; `PJSK:area:areatalk_ev_street_11_005:01` | Own song value survives paternal dismissal; maternal cooking effort/food affection, wanted but unheld brother conversation, retained classical curiosity. No complete family reconciliation. |
+| An–Kohane and wider peers / labor and ordinary knowledge | `PJSK:card:0555:01:002`; `PJSK:card:0555:02:001:0007–0060`; `PJSK:card:0554:02` | Adapted taste testing, transparent family rituals, actual feeding, hosting, detailed preferences and gift shopping. Ordinary knowledge helps belonging without reducing everyone to musical drive. |
+| Arata–An–owner/adults / venue and succession | `PJSK:event:0079:02:001:0001–0045`; `PJSK:event:0079:07:001:0076–0090`; `PJSK:event:0079:08:001:0061–0071`; `PJSK:event:0079:08:002:0008–0027` | Negotiation and Taiga attendance conditional; adult coda private. No granted booking, completed event or later explanation of Nagi's unspecified circumstances. |
+| Street manifestations / play, work and limits | `PJSK:card:0553:01:002`; `PJSK:card:0553:02:002`; `PJSK:card:0552:02:004`; `PJSK:area:areatalk_ev_street_11_004:01`; `PJSK:area:areatalk_ev_street_11_005:01` | Decoration/food work, reciprocal gifts, local-use restriction, actual illumination visit, proposed photo/prank and comparative CD help. No N25 identity collapse or universal ontology inferred. |
+
+The reading owns all 23 witness ranges/hashes and shared causal interpretation. N25 I1 updates CHARACTER_STATE, RELATIONSHIP_STATE, EPISTEMIC_STATE and RELEASE_IMPACT; CLAIM_REVISION and THEME_AND_MOTIF remain unchanged. Existing human and relationship IDs, including `REL-N25-EM-5`, are retained. Latest positive/documentary boundary EVENT_0079; latest human-state transition EVENT_0072 and relationship/epistemic I3 EVENT_0077. VBS and incidental unfounded routes remain deferred. Next EVENT_0080; earlier gaps and remaining completion obligations persist.

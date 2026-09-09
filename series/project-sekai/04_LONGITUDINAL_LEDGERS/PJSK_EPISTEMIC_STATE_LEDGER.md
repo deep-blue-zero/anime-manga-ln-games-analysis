@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic authority through EVENT_0077; Ena learns Mafuyu already voiced wanting music; portrait interpretation and family/public/VS knowledge remain partitioned"
-analysis_cutoff: "Positive and documentary epistemic boundary EVENT_0077; guarded-content, parental-intent, vocational, sensory and private-thought limits retained"
+source_boundary: "N25 epistemic evidence through EVENT_0079; bounded Ena-Akito habit recognition and newly reported earlier observation; present emotional cause remains private"
+analysis_cutoff: "N25 I1 epistemic increment EVENT_0079; EVENT_0077 disclosure/claim refinements and all guarded-content, family and manifestation limits retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic boundary is **EVENT_0077**. Ena directly learns that Mafuyu had already voiced wanting music, revises the premise of her advice, and offers a fallible artistic reading that Mafuyu can question. This extends rather than erases the EVENT_0061 family/music disclosure and EVENT_0072 bounded-wanting states. Newly disclosed prior history is not retroactive participant knowledge. Earlier overview/pending statements remain historical handoffs.
+The latest integrated epistemic evidence boundary is **EVENT_0079**, a bounded I1 family increment after EVENT_0078’s I0 screen. The latest relationship/epistemic I3 remains EVENT_0077: Ena directly learns that Mafuyu had already voiced wanting music, revises the premise of her advice, and offers a fallible artistic reading that Mafuyu can question. This extends rather than erases the EVENT_0061 family/music disclosure and EVENT_0072 bounded-wanting states. Newly disclosed prior history is not retroactive participant knowledge. Earlier overview/pending statements remain historical handoffs.
 
-Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0078; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
+Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0080; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
 
 ## 1. Purpose
 
@@ -1363,3 +1363,16 @@ The group learns of the computer access and Mafuyu's belief that hidden files we
 Len asks manifestation peers about their past help; their reported examples remain distinct. He conveys the overnight development and his observation of partial relief to Miku/MEIKO, who entrust further presence to him. Their concern is not omniscience; the source does not give them every later human conversation (`PJSK:card:0544:01:001:0042–0065`; `PJSK:card:0544:02:002:0004–0026`). N25 manifestations have no demonstrated memory-sharing with their other-SEKAI counterparts.
 
 This I3 knowledge change informs reconstruction at EVENT_0077 only. The earlier attempt to voice wanting music qualifies any absolute “first-ever” reading of EVENT_0072; it does not let Ena know it before this disclosure. Human tuple unchanged; next forward candidate EVENT_0078.
+
+## EVENT_0079 epistemic increment — familiar evidence does not reveal the whole cause
+
+### `EPI-FAMILY-ENA-AKITO-E0079` — observation, report and private explanation
+
+| Holder | Evidence / knowledge | Boundary |
+|---|---|---|
+| Ena | Hears that Akito trained after the celebration and ran home; notices redness beside his eyes, infers crying through a familiar habit, and reports a much worse earlier return (`PJSK:card:0551:01:002:0002–0038`). | No direct account of why he cried now, the Taiga/Ken conversations, the old Crawl Green performance or VBS/SEKAI private information. Her present question is an inference, not his confession. |
+| Akito | Learns that Ena has noticed his rubbing/redness pattern since earlier years and had chosen to leave him alone during a prior crisis (`PJSK:card:0551:01:002:0029–0043`). | His thought that Toya and others probably did not notice is not proof of their ignorance. |
+| VBS peers | Hear Akito's reports of Ena's sweets talk and the family's gift-request practice (`PJSK:area:areatalk_ev_street_11_003:01:001:0002–0006`; `PJSK:card:0555:01:002:0035–0036`). | No access to the private sibling exchange, her private artistic state or N25 information. |
+| Audience | Akito's recalled relief, surprise at the visible sign and embarrassment about Ena noticing (`PJSK:card:0551:01:002:0020–0048`). | Do not distribute private thought to Ena or his musical partners; the historical distressed return is not a direct Ena-side view of the venue. |
+
+The repeated EVENT_0029 origin suggestion remains established history rather than a new disclosure to N25. VBS's separate histories, contested benevolent-intent reading of Akito's old harshness, conditional venue/attendance plans and private adult codas remain in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md) until foundation-aware integration. No N25 manifestation gains Street-SEKAI knowledge; Mizuki's guarded content remains undisclosed. Human/relationship IDs and EVENT_0077 knowledge/claim refinements stay current. Next EVENT_0080.

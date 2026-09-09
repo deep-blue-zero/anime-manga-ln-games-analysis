@@ -4,18 +4,18 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "N25 positive integration through EVENT_0077; documentary screening through EVENT_0078; no new substantive delta at EVENT_0078"
+source_boundary: "N25 positive integration and documentary screening through EVENT_0079; bounded I1 sibling/ordinary-life evidence with no successor state"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "N25 I3 relationship/epistemic boundary EVENT_0077; latest global human-state transition EVENT_0072; current tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+analysis_cutoff: "N25 I1 boundary EVENT_0079; latest I3 relationship/epistemic EVENT_0077 and human-state EVENT_0072; tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
 ---
 
 # Project SEKAI Release Impact Ledger
 
 ## Current execution handoff
 
-The last completed forward event transaction is **EVENT_0078**; the next is **EVENT_0079**. Documentary screening reaches EVENT_0078 (N25 I0); positive N25 integration remains EVENT_0077 (I3 relationship/epistemic transition, `REL-N25-EM-5`). The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
+The last completed forward event transaction is **EVENT_0079**; the next is **EVENT_0080**. Positive N25 evidence and documentary screening reach EVENT_0079 (bounded I1); the latest relationship/epistemic I3 remains EVENT_0077 (`REL-N25-EM-5`). The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package.
 
@@ -2036,3 +2036,33 @@ All 23 canonical surfaces were read and matched to the frozen manifest. MMJ PRIM
 Leo/need CROSS_UNIT/MEDIUM/R2-yield preserves Shiho's private observation, concern about Shizuku's public perception, support and ordinary boundaries (`PJSK:card:0549:02:001:0002–0050`). Saki's future interest is predicted, not a disclosure or completed viewing. MMJ/Leo/need baseline impact remains deferred. VBS and WxS have no evidence-bearing route.
 
 N25's five substantive ledgers remain unchanged, including `REL-N25-EM-5`, `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061`. The EVENT_0077 knowledge/claim refinements remain controlling. Documentary screening advances to EVENT_0078 without moving positive integration or human-state boundaries. Reading, routing, release impact and current coverage close together; the 21 historical universal-screen gaps and all remaining foundations/deferred integration/reconstruction/synthesis/audit/protected-integration obligations remain unfinished.
+
+## RI-EVENT-0079 — Find A Way Out
+
+```yaml
+release_id: EVENT_0079
+release_bucket: RB_20221211T060000Z
+complete_envelope: "8 core + 10 card halves + 5 manifest-linked archive areas = 23"
+unit_relevance: VBS_PRIMARY_N25_CROSS_UNIT_LEO_NEED_WXS_INCIDENTAL_MMJ_NONE
+impact_scope: N25
+impact: I1
+reconstruction_yield_n25: R2
+integration_status: INTEGRATED_BOUNDED_N25_OTHER_MATERIAL_UNITS_DEFERRED
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md
+other_unit_impact: DEFERRED_PENDING_FOUNDATION
+character_state_delta: "bounded Ena observation, historical restraint and household preference evidence; no successor human ID"
+relationship_delta: "strengthen REL-FAMILY-ENA-AKITO-E0014; no successor relationship ID"
+epistemic_delta: "EPI-FAMILY-ENA-AKITO-E0079; recognized sign distinct from private cause"
+claim_delta: none
+theme_delta: none
+current_n25_tuple: "MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+latest_human_state_transition: EVENT_0072
+latest_relationship_epistemic_i3: EVENT_0077
+next_candidate_operation: EVENT_0080
+```
+
+Card `PJSK:card:0551:01:002:0002–0048` adds Ena's practical bath accommodation, person-specific crying-sign inference and report of earlier restraint. Akito learns her familiarity with a habit he had not recognized; she does not learn the musical cause of his tears. Reported gift requests and meal-time sweets talk add ordinary evidence (`PJSK:card:0555:01:002:0035–0036`; `PJSK:area:areatalk_ev_street_11_003:01:001:0002–0006`). The core's EVENT_0029 permission-to-try recap is preserved rather than double-counted. This extends the existing model at I1, without revising a governing claim or creating a successor state/theme.
+
+The complete 23-surface reading preserves VBS's VERY_HIGH-priority origin, hostile evaluation, group-enabled growth, mentor history, family/ordinary-life and knowledge evidence for founded comparison. Victory does not erase harsh self-evaluation or guarantee future success; Ken's advice includes rest; Kohane's kindness hypothesis is explicitly qualified by others. Leo/need and WxS incidental reports remain LOW/deferred; MMJ NONE. Only Street manifestations occur.
+
+Four ledgers update; CLAIM_REVISION and THEME_AND_MOTIF stay unchanged. Preserve current N25 IDs, including `REL-N25-EM-5`, `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061`, and the EVENT_0077 refinements. Latest positive/documentary frontier EVENT_0079; next EVENT_0080. Twenty-one older screen gaps, four foundations, deferred integration and remaining reconstruction/synthesis/audit/protected-integration obligations persist.

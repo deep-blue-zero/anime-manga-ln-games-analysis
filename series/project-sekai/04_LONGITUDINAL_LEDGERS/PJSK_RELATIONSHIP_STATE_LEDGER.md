@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationship evidence integrated through EVENT_0077; REL-N25-EM-4 advances to REL-N25-EM-5, differentiated agency support and reciprocal expressive recognition"
-analysis_cutoff: "N25 relationship/epistemic I3 through EVENT_0077; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained; documentary screening EVENT_0077"
+source_boundary: "N25 relationship evidence integrated through EVENT_0079; bounded Ena-Akito observation and care extension; REL-N25-EM-5 and all current relationship IDs preserved"
+analysis_cutoff: "N25 I1 family evidence EVENT_0079; latest relationship/epistemic I3 EVENT_0077; human tuple unchanged; documentary screening EVENT_0079"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-Relationship authority reaches **EVENT_0077**, advancing Ena–Mafuyu to **`REL-N25-EM-5`**. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku's `REL-N25-GM-E0054` and N25 Len's `REL-N25-VS-LEN-GROUP-E0061` remain distinct; Len gains a bounded support-method refinement. Cross-unit entries do not establish complete other-unit systems.
+Relationship evidence reaches **EVENT_0079**, adding bounded Ena–Akito observation/care at I1. The latest relationship/epistemic transition remains EVENT_0077, which advanced Ena–Mafuyu to **`REL-N25-EM-5`**. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku's `REL-N25-GM-E0054` and N25 Len's `REL-N25-VS-LEN-GROUP-E0061` remain distinct; Len gains a bounded support-method refinement. Cross-unit entries do not establish complete other-unit systems.
 
-Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. The next forward event is EVENT_0078. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
+Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. The next forward event is EVENT_0080. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
 
 ## 1. Purpose
 
@@ -1616,3 +1616,15 @@ Reciprocity remains creative and abrasive. Mafuyu disagrees about the song/image
 - **`REL-N25-VS-LEN-GROUP-E0061`:** Len seeks examples, visits, notices suffering, offers a parental-fear analogy and remains present. Miku and MEIKO endorse his presence while avoiding unnecessary crowding; his reports, not omniscient access, inform them (`PJSK:card:0544:01:001:0042–0065`; `PJSK:card:0544:02:002:0004–0026`). Preserve the manifestation-specific ID and separate `REL-N25-GM-E0054` authority.
 
 The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0077_DEEP_READING.md) preserves Honami, Akito/Mizuki, indirect Airi and all other-unit routes for founded comparison. Human tuple remains unchanged; next forward candidate EVENT_0078.
+
+## EVENT_0079 relationship increment — seeing a sign while leaving the cause private
+
+### `REL-FAMILY-ENA-AKITO-E0014` — preserve and extend at I1
+
+The EVENT_0029/0044 model already combines abrasive familiarity, reciprocal practical reliability, vulnerability observation and causal influence. Card `PJSK:card:0551:01:002:0002–0048` adds a precise Ena-side instance: she yields the bath despite wanting it herself, identifies the redness produced by his familiar tear-wiping, and reports deliberately leaving him space after an earlier severely distressed return. Akito resists explicit admission, privately recognizes being noticed by the person he least wanted to notice, and returns to familiar sibling banter. Care does not require either a complete confession or softened dialogue throughout.
+
+Preserve the distinction between **recognizing distress**, **knowing its cause**, and **choosing an intervention**. Ena's report establishes one earlier act of restraint; it does not prove she knew the old venue/counsel history. Akito learns that she noticed him then and knows a bodily habit he had not recognized. His present relief is richer audience knowledge, not information he directly gives her.
+
+Household meal conversation transmits sweets knowledge (`PJSK:area:areatalk_ev_street_11_003:01:001:0002–0006`), while his reported gift-request practice adds ordinary family context (`PJSK:card:0555:01:002:0035–0036`). His recalled Ena permission in the core preserves EVENT_0029's causal authority and adds no second origin claim. State statement remains adequate: `high verbal friction + reciprocal practical reliability + accurate vulnerability observation + bounded restraint + causal influence + sentiment commonly displaced into action/joking`. The added wording is an evidence increment, not a successor family state.
+
+No N25 dyad/group or manifestation transition follows. Preserve `REL-N25-EM-5`, `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061`, all other current IDs, and the human tuple. VBS's newly disclosed group history and mentor relationships are routed in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md) for later founded comparison. Next EVENT_0080.

@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 character evidence integrated through EVENT_0077; I3 relationship/epistemic release with material Ena/Mafuyu interpretive refinement and no successor global human state"
-analysis_cutoff: "N25 human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01; latest human-state transition EVENT_0072; positive evidence and documentary screening through EVENT_0077"
+source_boundary: "N25 character evidence integrated through EVENT_0079; bounded Ena sibling observation, practical care and household preferences; no successor global human state"
+analysis_cutoff: "N25 I1 evidence boundary EVENT_0079; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained; latest human-state transition EVENT_0072"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The verified forward analytical frontier is **EVENT_0077**. This I3 release changes relationship/epistemic state and materially refines Ena/Mafuyu interpretation while preserving current global human defaults: **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. EVENT_0072 remains the latest human-state transition. Historical entries remain true only at their own recorded cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact.
+The verified forward analytical frontier is **EVENT_0079**. EVENT_0078 was I0; EVENT_0079 adds bounded I1 Ena sibling/ordinary-life evidence. EVENT_0077’s relationship/epistemic transition and Ena/Mafuyu refinements remain controlling, with current global human defaults: **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. EVENT_0072 remains the latest human-state transition. Historical entries remain true only at their own recorded cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact.
 
 Earlier summaries and pending queues are historical handoffs. The current model must also apply `REL-N25-EM-5` and EVENT_0077 epistemic/claim refinements, including the limit on EVENT_0072's “first explicit want” language. Other human-unit foundations and 21 earlier universal screens remain separate unfinished obligations. The frozen source boundary `PJSK_SOURCE_20260822T184634Z_EVENT_0213` confers no later analytical authority.
 
@@ -1256,3 +1256,13 @@ Mafuyu has only an indirect prior-conversation reference in card 0536:01; Ena an
 Ena's later thought that her father had never forbidden drawing briefly differentiates his injury from Mafuyu's constraint; she promptly dismisses the thought as pity and continues avoidance (`PJSK:card:0540:02:001:0042–0056`). No reconciliation. Area `night_11_005` preserves envy and irritation at Mafuyu's dexterity alongside plural artistic value. N25 Len's learned usefulness of presence is manifestation-specific, recorded in the relationship ledger; it is not a new human state.
 
 **Prospective default:** retain the human tuple, apply `REL-N25-EM-5` and the EVENT_0077 knowledge/claim refinements. Latest human-state transition remains EVENT_0072; latest integrated evidence EVENT_0077. Next forward candidate EVENT_0078.
+
+## EVENT_0079 characterization increment — sibling observation and bounded restraint
+
+**N25 I1; preserve Ena `E-E0070-01` and all other human defaults.** Card `PJSK:card:0551:01:002:0002–0048` adds a relationship-conditioned ordinary mode without changing Ena's global artistic model. Seeing her sweaty brother, she combines complaint with practical accommodation: she gives him her intended bath slot and asks for gratitude. On closer inspection she infers crying from redness beside his eyes, explains his familiar rubbing habit, and reports having left him alone after a much worse distressed return near the beginning of his musical activity. Akito had not recognized this visible habit himself.
+
+The inference concerns a sign, not its full cause. Ena receives no account of the present Taiga conversation, old Crawl Green failure or Ken's intervention. Her earlier decision to leave space is a newly reported historical episode, not a new present acquisition of empathy, a claim of always respecting privacy, or retrospective knowledge of musical events. Akito's current denial and internal embarrassment do not negate the practical care.
+
+Indirect ordinary evidence: Akito reports Ena talking about seasonal sweets promotions during meals (`PJSK:area:areatalk_ev_street_11_003:01:001:0002–0006`) and a household tradition of direct gift requests, adding that Ena would otherwise complain (`PJSK:card:0555:01:002:0023–0036`). Preserve attribution rather than inventing a depicted present demand. The core's remembered permission to try music before deciding on seriousness (`PJSK:event:0079:04:003:0032–0036`) reiterates EVENT_0029 and is not double-counted as a new causal discovery.
+
+Reconstruction uses the existing chain from person-specific observation through practical response to abrasive, sibling-conditioned speech. No successor human state, new claim or theme/motif ID is warranted. VBS's major Akito/Toya/An/Kohane material remains deferred for its missing foundation; it is not imported as mature N25 character authority. See the [shared EVENT_0079 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md). Next forward event EVENT_0080.
