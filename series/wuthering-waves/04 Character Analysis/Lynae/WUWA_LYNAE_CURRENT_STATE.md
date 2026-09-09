@@ -19,7 +19,7 @@ The nine-document pre-audiovisual V0.1 reconstruction packet is now imported on 
 
 Read [the packet entrypoint](WUWA_LYNAE_ANALYSIS_PACKET_README.md), [the character deep dive](WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md), and the evidence/falsification matrix before the specialist profiles. The packet supplies reconstruction, relationship/state, ordinary-life, speech/machine-voice, AV nomination, and fidelity/stress-test documents; it does not establish a completed integrated AV monograph or compiled JSON model.
 
-The [import record](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) explains retained draft metadata and records hashes. The supplied documents are byte-preserved. Publication on this branch does not itself establish merged-main authority.
+The [import record](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) explains retained draft metadata and records hashes. The earlier import preserved the supplied bytes. The owner now adopts all nine documents as current `active_provisional` authority within their stated text/audio scope; the complete quartet, updated authority metadata, and publication notes are recorded in the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md). Pending AV and incomplete audio profiling retain their stated claim-level limits.
 
 ## Evidence route
 

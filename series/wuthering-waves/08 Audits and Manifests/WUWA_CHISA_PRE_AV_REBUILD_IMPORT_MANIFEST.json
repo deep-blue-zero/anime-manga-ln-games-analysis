@@ -1,0 +1,246 @@
+{
+  "schema": "wuwa/character-packet-import/v1",
+  "character": "Chisa",
+  "analysis_generation": "CHISA_PRE_AV_REBUILD_V0_1",
+  "source": {
+    "source_archive": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1.zip",
+    "archive_bytes": 117410,
+    "archive_sha256": "6c35ceb6ad119ae00fa908517819d23713f47622ca28000293878c55c94b3486",
+    "member_count": 12,
+    "total_member_bytes": 288898
+  },
+  "source_archive_disposition": "VERIFIED_EXCLUDED_CONTAINER_RETAINED_OUTSIDE_GIT",
+  "packet_disposition": "IMPORT_OWNER_ADOPTED_CURRENT_PROVISIONAL_ANALYSIS",
+  "source_bytes_preserved": false,
+  "authority_veto_preserved": false,
+  "transformations": [
+    "OWNER_AUTHORIZED_AUTHORITY_AND_RELEASE_METADATA",
+    "SCOPE_QUALIFIED_ADOPTION_NOTES_AND_README_AUTHORITY_RECONCILIATION",
+    "DIRECT_DRIVE_URLS_TO_TYPED_OBJECT_IDS",
+    "ORIGINAL_BASENAMES_UNDER_CHARACTER_ROOT"
+  ],
+  "files": [
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_ANALYSIS_PACKET_README.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_ANALYSIS_PACKET_README.md",
+      "source_bytes": 19193,
+      "source_sha256": "be3ca022d1358df3906cfe228bd1475e5ac38dfa133c68a17f6b4b49ab6e2695",
+      "destination_bytes": 19616,
+      "destination_sha256": "bb21f76902197106e79e72334eb08c7756b06c88ea3f5016f92bdb99b802203a",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE",
+        "DIRECT_DRIVE_URLS_TO_TYPED_OBJECT_IDS"
+      ],
+      "drive_references": [
+        {
+          "kind": "file",
+          "id": "1hm1iBMgEasg0Ul7PuyA0iD5oek2X18St"
+        },
+        {
+          "kind": "file",
+          "id": "1zYhNZ_x8Dw0ui_oAc9OAWmgUvDwjm4dR"
+        },
+        {
+          "kind": "file",
+          "id": "1ACYYZXZQM5RgqkaimsdNX0-9XUQTyc22"
+        },
+        {
+          "kind": "file",
+          "id": "1WxtTm7xJLuh4ZKkNKNwIuwrbC9-iTTMl"
+        },
+        {
+          "kind": "file",
+          "id": "1GpPPdPqko7FXVT8NXODXiBJMPTPSzPh2"
+        },
+        {
+          "kind": "file",
+          "id": "1EjHtaJNXINOJ8_DmWVCsM0NW0HDVf4Ji"
+        },
+        {
+          "kind": "file",
+          "id": "1mwZW9C1ygw0KuxFwXsP50uwi8wXSZiqc"
+        },
+        {
+          "kind": "file",
+          "id": "139Nku1R-gGtR57CX_6D0wm5MTXlnFTdC"
+        },
+        {
+          "kind": "file",
+          "id": "1eZOmwyC4bH4-hlZq_h4pTRVUGfIUi4aP"
+        },
+        {
+          "kind": "file",
+          "id": "16YwM03_L1h2wx9cqd41nQB7vDMowImI-"
+        },
+        {
+          "kind": "folder",
+          "id": "1xpu6tz7YGHMpqOor_GA4Pa3cJ_wIWmvS"
+        },
+        {
+          "kind": "folder",
+          "id": "1MBGJEtAnR94lxUr94wZd0zUsJzM_0MH4"
+        },
+        {
+          "kind": "file",
+          "id": "1oKeOemKa9_ZUaE2xeZnNH4JwQjDr6ped"
+        }
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "source_bytes": 19202,
+      "source_sha256": "2e08957e16ef3624586749613495526e88f9371d9824a5bd91b9c229c75c840b",
+      "destination_bytes": 19830,
+      "destination_sha256": "bd12d7e60eb53e0e095aa1e9c91702e224f8e37aa6f5fba9b3c82ea4958e0f3f",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "source_bytes": 25002,
+      "source_sha256": "01a77f4a26af6471d272b765fca9e5287403344a406ac1db8e6ad1e0e6395826",
+      "destination_bytes": 25630,
+      "destination_sha256": "9be059291abaabd995baf9e55911da31e009804427f8fea505f6d631b80e38ef",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "source_bytes": 46581,
+      "source_sha256": "d89d43d7d55b1b481c9eae17e433752a0d9a9e3699bc8c494c4ab8c0aa594c14",
+      "destination_bytes": 47209,
+      "destination_sha256": "86534fdf906137af2fc9af04aa994b15739a633928ac0a68b90a7fcce9786c28",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "source_bytes": 49809,
+      "source_sha256": "aa896088b8fdae5d62f0d3578985bb435872bafa8a26f67b79656d58e64c534a",
+      "destination_bytes": 50437,
+      "destination_sha256": "6e0de72f6d7af6eb2be712af20a102eef7a5dc77c2a30e0528251ba498f89a62",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "source_bytes": 19496,
+      "source_sha256": "bf79699a3fe8cdc6652a373a2b1c33afe7d726ec5f7e7c55fb677881552104dc",
+      "destination_bytes": 20124,
+      "destination_sha256": "9541da8e82fc2053462853f5484449969962041b290d16315313aef701709654",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "source_bytes": 17986,
+      "source_sha256": "10b99a3005452d6c8133573fed8ed9907761157fdd93d676ccc97870a65fcd56",
+      "destination_bytes": 18614,
+      "destination_sha256": "aa7fa696b08acaa48cdfafdab44ab627adbd3ee3d0f548295c48a587f3678de3",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_PERCEPTION_CARE_AND_TEMPORAL_CONTINUITY_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_PERCEPTION_CARE_AND_TEMPORAL_CONTINUITY_PROFILE.md",
+      "source_bytes": 17226,
+      "source_sha256": "b1adf2d2990b51ae1f9a885608cee52b7c6ee0693b0bf004d6c8ecc07a010345",
+      "destination_bytes": 17854,
+      "destination_sha256": "d7a0110a77bea195f6c110734001ac724e3858893e9d59ca4dc0a0d10d102ccb",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_PRIOR_BASELINE_AND_SOURCE_RECONCILIATION.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_PRIOR_BASELINE_AND_SOURCE_RECONCILIATION.md",
+      "source_bytes": 11971,
+      "source_sha256": "eff75474c59a84e873e008731a42595f5415658c5a595ff5adfbecfda16afb76",
+      "destination_bytes": 12599,
+      "destination_sha256": "abd438653f597fecf1f202101190adfab9ba46c5788d9b38ac5959e298a68848",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "source_bytes": 22555,
+      "source_sha256": "52246433ca71a00f90048f7b03a55eabed368f6f27fa7e5cefb016571c6f13b4",
+      "destination_bytes": 23183,
+      "destination_sha256": "2ecb98f21bb0c24c2619ac9f1e625d7ba4af3e18eefc2c5b55087f26aa0222d5",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "source_bytes": 20602,
+      "source_sha256": "4f7aececa5696e9602a001bd4685921ae09a0fcc11fea3dfeb324394cb7e5c9d",
+      "destination_bytes": 21230,
+      "destination_sha256": "85c8da45c034f42911311402fde6650b9c347585dcd01725f430eccd0f530324",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    },
+    {
+      "source_member": "WUWA_CHISA_RECONSTRUCTION_PACKET_PRE_AV_REBUILD_V0_1/WUWA_CHISA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "source_bytes": 19275,
+      "source_sha256": "d7fe246e71db015fc50902df27e48e0f252365a1de0d14bcb77747a5e3cb61f9",
+      "destination_bytes": 19903,
+      "destination_sha256": "f2377876f0ee32c2b0425185cdb451515e2f1b88090fecec278a6fdb6de0007a",
+      "transformations": [
+        "OWNER_AUTHORIZED_CURRENT_AUTHORITY_METADATA",
+        "SCOPE_QUALIFIED_ADOPTION_NOTE",
+        "README_AUTHORITY_RECONCILIATION_WHERE_APPLICABLE"
+      ]
+    }
+  ],
+  "analytical_body_bytes_preserved": false,
+  "status_normalization": {
+    "source_status": "active_provisional",
+    "destination_status": "active_provisional",
+    "source_authority_veto": true,
+    "destination_authority_veto": false,
+    "basis": "OWNER_2026_09_09_AUTHORITY_ADOPTION"
+  },
+  "analytical_prose_preserved_except_drive_reference_formatting": false,
+  "authority_veto_change": "OWNER_EXPLICITLY_REQUESTED_FALSE",
+  "interpretive_findings_preserved": true
+}

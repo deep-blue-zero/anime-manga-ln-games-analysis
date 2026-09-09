@@ -5,13 +5,20 @@ artifact_type: model_fidelity_and_stress_test
 scope: LYNAE_SOURCE_3_6_0_PRE_AV
 generation: V0.1-pre-av
 status: active_provisional
-authority_state: local_working_draft_not_promoted
+authority_state: owner_adopted_current_provisional
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 model_under_test: WUWA_LYNAE_RECONSTRUCTIVE_PROFILE_PRE_AV.md
 intended_canonical_home: series/wuthering-waves/04 Character Analysis/Lynae/
-do_not_use_as_current_git_authority: true
+do_not_use_as_current_git_authority: false
+release_state: current_provisional_pre_av
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
+
+> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
 
 # Lynae model fidelity and stress test — pre-audiovisual
 
