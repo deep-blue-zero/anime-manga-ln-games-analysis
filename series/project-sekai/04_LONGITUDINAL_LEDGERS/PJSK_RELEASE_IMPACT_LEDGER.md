@@ -4,18 +4,18 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Universal documentary screening through EVENT_0085, N25 I0 closure; positive N25 integration remains EVENT_0084 I2"
+source_boundary: "Universal documentary screening through EVENT_0086, N25 I0 closure; positive N25 integration remains EVENT_0084 I2"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "EVENT_0085 I0 documentary closure; positive N25 EVENT_0084 I2; latest relationship/epistemic I3 EVENT_0080 and human-state transition EVENT_0072"
+analysis_cutoff: "EVENT_0086 I0 documentary closure; positive N25 EVENT_0084 I2; latest relationship/epistemic I3 EVENT_0080 and human-state transition EVENT_0072"
 ---
 
 # Project SEKAI Release Impact Ledger
 
 ## Current execution handoff
 
-The last completed forward event transaction is **EVENT_0085**; the next is **EVENT_0086**. Documentary screening reaches EVENT_0085, an N25 I0 closure. Positive N25 evidence remains EVENT_0084, an I2 supported nonmusical-competence and reciprocal-pleasure refinement; earlier increments remain valid. Latest relationship/epistemic I3 remains EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. `REL-N25-EM-5` and EVENT_0077’s desire/disclosure corrections remain current. The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
+The last completed forward event transaction is **EVENT_0086**; the next is **EVENT_0087**. Documentary screening reaches EVENT_0086, an N25 I0 closure. Positive N25 evidence remains EVENT_0084, an I2 supported nonmusical-competence and reciprocal-pleasure refinement; earlier increments remain valid. Latest relationship/epistemic I3 remains EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. `REL-N25-EM-5` and EVENT_0077’s desire/disclosure corrections remain current. The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package.
 
@@ -2256,3 +2256,36 @@ MMJ PRIMARY/VERY_HIGH/R3-yield preserves Shizuku's imposed image, hidden collabo
 Leo/need CROSS_UNIT/MEDIUM/R2-yield retains Shiho's bounded knowledge, direct encouragement, physical-affection boundary and respect for Shizuku's chosen aim, plus a reported cat-figure preference and intended gift (`PJSK:card:0589:01:001:0019–0063`; `PJSK:area:areatalk_monthly2303_003:01`). Both material unit impacts remain deferred pending foundation. WxS/VBS NONE. All singers are Stage-specific.
 
 N25 NONE/I0/R0: CHARACTER_STATE, RELATIONSHIP_STATE, EPISTEMIC_STATE, CLAIM_REVISION and THEME_AND_MOTIF remain byte-preserved at EVENT_0084. All current IDs, tuple and E0077 corrections remain. Documentary high-water EVENT_0085; next EVENT_0086. The 21 older universal screens, four foundations and material deferred-route consumption, principal-human reconstruction/readiness, warranted unit/specialist/full-series synthesis, final audits and protected integration remain incomplete.
+
+## RI-EVENT-0086 — Kick it up a notch
+
+```yaml
+release_id: EVENT_0086
+release_bucket: RB_20230219T060000Z
+complete_envelope: "8 core + 10 card halves + 8 archive-publication/event-unlock areas = 26"
+unit_relevance: VBS_PRIMARY_WXS_CROSS_UNIT_MMJ_INCIDENTAL_N25_LEO_NEED_NONE
+impact_scope: N25
+impact: I0
+reconstruction_yield_n25: R0
+integration_status: UNIVERSAL_SCREEN_COMPLETE_N25_I0_OTHER_REPRESENTED_SCOPES_DEFERRED
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0086_DEEP_READING.md
+other_represented_unit_impact: DEFERRED_PENDING_FOUNDATION
+character_state_delta: none
+relationship_delta: none
+epistemic_delta: none
+claim_delta: none
+theme_delta: none
+latest_positive_n25_evidence: EVENT_0084
+latest_relationship_epistemic_i3: EVENT_0080
+latest_human_state_transition: EVENT_0072
+current_n25_tuple: "MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+next_candidate_operation: EVENT_0087
+```
+
+All 26 canonical stories read and manifest-matched; independent review-group identities agree. Cards 0595–0597 initially available 03:00Z, 0598–0599 06:00Z. Five street_12 areas are archive-published 2023-02-19T06:00Z and three monthly2304 areas 2023-04-30T06:00Z; all lack initial-availability release buckets and carry independent condition 108508 / episode 1000696, chapter 8. Negotiation, the following week's lesson, later preparation/outing, performance and subsequent card outcomes retain separate chronology.
+
+VBS PRIMARY/VERY_HIGH/R3-yield preserves Kohane's chosen solo, responsive audience relationship and supported agency, An's effective care and unresolved comparison, Akito's accountable return/qualified recognition, Toya's musical responsiveness and ordinary literary pleasure, collective event construction, street social memory and Taiga's competing commitments. The owner explicitly judges RADder's debut still higher despite acknowledging strong momentum and Akito's result. Nagi resemblance is attributed; no later biography or Taiga action is supplied (`PJSK:event:0086`; `PJSK:card:0595`; `PJSK:card:0596`; `PJSK:card:0597`; `PJSK:card:0598`; `PJSK:card:0599`).
+
+WxS CROSS_UNIT/MEDIUM/R2-yield retains Nene's effort to visit unfamiliar places, new knowledge of Akito's retail work and unspoken impression of his social presentation (`PJSK:area:areatalk_monthly2304_002:01`). MMJ INCIDENTAL/LOW/R1-yield retains Minori waking Kohane at school without inventing a developmental change (`PJSK:event:0086:04:002:0002–0014`). All represented unfounded scopes remain deferred; Leo/need NONE. All singers are Street manifestations.
+
+N25 NONE/I0/R0: CHARACTER_STATE, RELATIONSHIP_STATE, EPISTEMIC_STATE, CLAIM_REVISION and THEME_AND_MOTIF remain byte-preserved at EVENT_0084. All current IDs, tuple and E0077 corrections remain. Documentary high-water EVENT_0086; next EVENT_0087. The 21 older universal screens, four foundations/material deferred integrations, principal-human reconstruction/readiness, warranted unit/specialist/full-series synthesis, final audits and final protected integration remain incomplete.
