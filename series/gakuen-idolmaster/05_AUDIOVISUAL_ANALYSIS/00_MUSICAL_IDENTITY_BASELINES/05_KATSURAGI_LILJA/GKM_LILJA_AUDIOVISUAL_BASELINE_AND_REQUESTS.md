@@ -4,10 +4,10 @@ artifact_type: audiovisual_request_register
 scope: CHARACTER_KATSURAGI_LILJA_PHASE3_BASELINE
 character: Katsuragi Lilja / 葛城リーリヤ
 generation: V2
-status: historical_legacy
+status: superseded
 source_boundary: Text-derived request queue only; audiovisual files not yet inspected
 supersedes: []
-superseded_by: []
+superseded_by: ["series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/05_KATSURAGI_LILJA/GKM_LILJA_COMPLETE_AUDIOVISUAL_BASELINE.md"]
 do_not_use_as_current_authority: true
 last_updated: 2026-08-22 — acquisition complete; integrated AV baseline promoted
 legacy_supersession_notes:
