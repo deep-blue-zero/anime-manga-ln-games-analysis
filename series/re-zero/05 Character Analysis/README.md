@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -14,7 +14,9 @@ do_not_use_as_current_authority: false
 
 This directory is the canonical home for Re:Zero character syntheses **after** evidence warrants them.
 
-No character monograph is present at bootstrap.
+No character monograph is present through V03.
+
+`../00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` is the controlling detailed protocol. It defines the seven-axis state selector, ordinary-life and relationship responsibilities, Japanese-register discipline, failure and negative controls, abstentions, unfamiliar probes, and the first mature-character fidelity audit. This README is the directory router and does not duplicate that contract.
 
 ## Promotion threshold
 
@@ -33,6 +35,8 @@ Create a monograph only when the available source record can distinguish most of
 
 A cast list, synopsis, or one dramatic scene is not enough.
 
+Readiness remains in `../04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md` until independent retrieval burden earns another home. Prominence, popularity, or template symmetry does not establish readiness.
+
 ## Minimum monograph responsibilities
 
 A mature character artifact should state:
@@ -50,6 +54,10 @@ A mature character artifact should state:
 11. Japanese voice/register findings when material;
 12. rival interpretations and falsifiers;
 13. unresolved questions and abstentions.
+
+These are minimum routing responsibilities, not mandatory headings. A character packet may split current state, ordinary life, relationships, voice, evidence, or fidelity into separate files only when each file has a real maintenance purpose. Do not create empty packet scaffolds.
+
+The first character promoted to `MONOGRAPH_READY` must pass the separate fidelity audit required by the reconstruction protocol before the model becomes a reusable reconstruction surface.
 
 ## Route discipline
 

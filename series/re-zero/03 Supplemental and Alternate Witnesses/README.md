@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: supplemental_routing_contract
 scope: NON_SPINE_SOURCE_WITNESSES
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -14,13 +14,17 @@ do_not_use_as_current_authority: false
 
 This directory owns analytical readings of admitted material that is **not part of the governing numbered main-light-novel spine**.
 
-No supplemental reading is present at bootstrap.
+No supplemental reading is present through V03.
+
+Bibliographic awareness is maintained separately in `../01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md`. A catalog row or family-awareness row is not a source admission and does not authorize narrative opening.
 
 ## Admission before interpretation
 
-Every item must first exist in `REZERO_SOURCE_LOCK_AND_INVENTORY.md` with a witness class and analytical horizon.
+Every item must first have sufficiently exact identity in the supplemental catalog and then exist in `../01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md` as an acquired, integrity-audited witness with a source class and analytical horizon. `H_pub`, `H_diegetic`, `H_route` where applicable, and conservative `H_final` must be recoverable before opening.
 
 Do not read an acquired item merely because it is interesting or apparently short. Publication timing and route placement can create retrospective spoilers that corrupt the prospective main-volume chain.
+
+The V03-paratext preview of a separately published serial story remains an unresolved catalog lead, not an admitted witness. It stays unopened while the post-V03 pause is active and until exact identity and horizon routing are established.
 
 ## Witness-specific responsibilities
 

@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: PROFESSIONAL_HEROES
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -6217,3 +6217,26 @@ V27 confirms the V25-V26 preparation-to-action transition. He participates in th
 
 - `V40:p077-080`: surviving U.S.-linked pilots intervene at All Might's execution point because Toshinori was Star's admired hero.
 - The action extends Star's relation beyond her death without implying that the pilots are mere substitutes for Star. Admiration becomes independent present choice.
+
+
+# Volume 42 cumulative closure
+
+## All Might / Yagi Toshinori — plural recognition and practical succession
+
+`V42:p029-035`: severely injured but alive, he gives Midoriya a **speaker-attributed** interpretation of heart rescue while accepting the life-loss distinction; thanks both boys as greatest heroes. `p140-141`: facilitates the armor gift and calls it capacity Midoriya himself earned. Mentorship can acknowledge collective production without claiming the recipient's future. Remains `specialist_ready`; lost OFA, injured postwar body and later network facilitation are separate states.
+
+## Endeavor — professional retirement and ongoing restitution
+
+`V42:p057-066`: retires, names his failure to see Toya, offers daily conversation while acknowledging its lateness, and commits to lifetime compensation/apology. Natsuo ends contact and refuses a marriage introduction even while recognizing Enji's conduct; Enji does not make forgiveness the price of continuing responsibility. Family detail is cross-routed to the Family and Relationship ledgers. Remains `specialist_ready`; pre-reform command and atonement-era obligation cannot be simulated interchangeably.
+
+## Hawks / Takami Keigo — from observed change to institutional authorship
+
+`V42:p067-069`: offers Nagant help without forcing her release, keeps personal contact with Endeavor and becomes public-safety commission chair. His wording moves from wondering how society will change to how to change it. `p118-119`: favors updating the achievement chart and recognizing heroes outside the occupation rather than simply discarding achievement. `p150`: counseling is supported by staffing, donations and education-ministry coordination. These are concrete reform mechanisms, not proof the commission's entire history is repaired. Remains `specialist_ready`; covert-agent knowledge does not become omniscient public knowledge.
+
+## Lady Nagant / Tsutsumi Kaina — voluntary reserve of trust
+
+`V42:p067-068`: although told she may leave, she chooses to remain for now, fears being used again and wants to see what society does with Midoriya's example. Skepticism now operates alongside voluntary help and the capacity to refuse a new institutional timetable. Remains `strong`; this adds postwar relationship/state breadth without supplying an ordinary life outside professional coercion/recovery.
+
+## Other professionals and terminal models
+
+Fat Gum's employer-responsibility teaching informs Kirishima's adult hiring (`V42:p157`); a bounded mentorship addition, not automatic `strong`. Continuing professionals, including Best Jeanist and Mirko, appear within adult specialization (`p164-165`); no ranking-only readiness promotion. Sir Nighteye remains dead, and his **V18 strong** adjudication is restored in the final readiness snapshot; Mirio's later speech is legacy/relationship evidence, not new independent Nighteye behavior.

@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: VILLAINS_ANTAGONISTS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3652,3 +3652,96 @@ Retrospective V27 evidence strengthens the relationship model with Garaki: expli
 - This strengthens the distinction between Stain's admiration target and his earlier purification jurisdiction: for the hero he recognizes as genuine, continued life and victory are positive goods rather than impurity.
 - AFO had prepared a Bloodcurdle counter after Tartarus, overwhelms Stain and takes `凝血`.
 - **Readiness:** remains `moderate (strongly strengthened)`; exact post-defeat terminal status is not overclaimed beyond V40.
+
+# Volume 41 cumulative updates
+
+## Shigaraki Tomura / Shimura Tenko — engineered origin and segmented agency
+
+**Revision:** `MAJOR CAUSAL REVISION / STRONGLY STRENGTHEN`.
+
+### Present agency before the origin reveal
+- `V41:p005-020`: steals/uses Danger Sense and continues his own destruction program.
+- `V41:p113-123`: rejects a child-only rescue narrative through his p116 choice claim about destroying his home/family. The subsequent League montage and p121-123 villain-hero obligation separately establish later relational identity.
+- `V41:p121-123`: says that even if hatred is removed/emptied he must be the `敵の…ヒーロー`, establishing selective relational responsibility to villains/outcasts without moral rehabilitation of mass destruction.
+
+### Origin causation revised by AFO
+- `V41:p129-136`: AFO reveals deliberate manipulation of the Shimura family environment, removal of Tenko's still-unmanifest inherited factor, and provision of an engineered destruction-only Quirk copy stripped of reversibility.
+- AFO cultivated hatred because OFA theft required overcoming the predecessors' collective will and deliberately wanted Tenko to experience the path as chosen.
+
+### Control-state constraint
+- `V41:p131`: AFO's internal return follows Tenko's inner state being overwhelmed by the vestige assault. This does not retroactively erase V40 Shigaraki's explicit rejection of AFO.
+
+### Modeling consequence
+Use **segmented agency**, not either extreme:
+1. foundational conditions and Quirk catastrophe were heavily engineered;
+2. family/social failures retained independent causal reality and were exploited rather than invented wholesale;
+3. later League relationships and adult learning produced genuinely Shigaraki-specific state;
+4. chosen killings/destruction remain attributable where the source does not show direct override;
+5. final AFO/Tenko/Shigaraki separability remains V42+ OPEN.
+
+**Readiness:** remains `specialist_ready`.
+
+## All For One — manipulation around free will and the limits of possession
+
+**Revision:** `VERY STRONGLY STRENGTHEN`.
+
+- `V41:p132-133`: explicitly states that Tenko needed to think he had chosen so sufficient hatred would arise; the covert environmental method is specified in the following p133-135 disclosure.
+- `V41:p132-135`: identifies OFA theft as the long-horizon design objective and hatred as instrumental anti-OFA force.
+- `V41:p133-135`: exploits Kotaro's existing family wound, removes Tenko's latent inherited factor and gives the destruction-only engineered copy.
+- `V41:p135-136`: escalates specific causal acts into `全部だ!!!` — a total-authorship claim that should be recorded as AFO's possession heuristic rather than automatically treated as neutral omniscient narration.
+- `V41:p136-140`: renews the objective of erasing Tomura/Tenko's remaining heart and taking the body/control state.
+- `V41:p166-171`: Yoichi's loss makes AFO's world lose color. AFO is therefore not affectless; he has singular attachment whose pathological form is possession rather than recognition of separateness.
+- As the coalition grows, differentiated other people collapse toward gray/low-salience bodies in his perception, producing a practical inability to understand why wounded people remain causally active.
+
+### Modeling consequence
+AFO's core error is not inability to form attachment or learn. He repeatedly turns causal influence and attachment into jurisdiction/ownership. His strongest grief evidence coexists with his strongest possession evidence.
+
+**Readiness:** remains `strong`, very strongly strengthened. Ordinary reciprocal/interpersonal breadth remains insufficient for `specialist_ready`.
+
+## Kurogiri / Shirakumo continuity — mixed identity becomes explicit
+
+**Revision:** `STRONGLY STRENGTHEN`.
+
+- `V41:p147-151`: Aizawa rejects a pure-restoration model; black plus white has become mixed/changed rather than simply reverting to Shirakumo.
+- `V41:p150-156`: Kurogiri responds enough to old relationships for Warp Gate to become an active reinforcement route.
+- The response proves meaningful continuity, not final metaphysical identity resolution.
+
+### Modeling consequence
+Do not simulate Kurogiri as either “only artificial servant” or “Shirakumo fully restored.” Current model is an altered mixed person with relational continuity and unresolved independent future.
+
+**Readiness:** remains `moderate`, very strongly strengthened.
+
+
+# Volume 42 cumulative closure
+
+## Shigaraki Tomura / Shimura Tenko — terminal distinctness, retained identity
+
+`V42:p017-020`: reappears distinctly, credits Nana with holding him from disappearance, recognizes recovery of his body from his teacher, and entrusts Midoriya with a message to Spinner under **Tomura Shigaraki**. He does not become a generic penitential Tenko. `p030-031` explicitly separates life not saved from All Might's interpretation of heart rescue; `p073-081` extends his historical/relational consequences through others' testimony. Remains `specialist_ready`; death precludes observation of rehabilitation, adult civilian adjustment or a future choice to renounce destruction.
+
+## All For One — need does not become respect
+
+`V42:p008-015`: singular Demon Lord ideology and attempts to repossess survive defeat; Midoriya names a lonely human, while AFO pleads for Yoichi with love, need and denied permission to leave. Yoichi's final framing couples the end with paying for instrumentalizing others. These are speaker-specific judgments, not moral amnesty. Remains `strong`: attachment is explicit but reciprocal ordinary relationship diversity is not.
+
+## Kurogiri / Shirakumo — two relational histories remain in one last action
+
+`V42:p009-011`: names Shota/Hizashi with apology, then asks AFO to return Shigaraki because friends are waiting; Bakugo intercepts the gate. This supports mixed continuity more precisely than simply calling him wholly Kurogiri or wholly restored Shirakumo. Remains `moderate`; no independent ordinary future is shown.
+
+## Spinner / Iguchi Shuichi — grieving friend and adversarial memorial author
+
+`V42:p073`: doctors say early Nomu-like deterioration was arrested using prior research; bodily/cognitive cost is real. `p074-078`: learns the final message was for him, names Tomura his hero, recalls shared games and his first friend. Stress-driven bodily expansion and grief remain observable, not a placid rehabilitation scene.
+
+`p078-081`: questions his failure to act one step further and chooses to write. His plan also vows to confront heroes with Tomura as a terror symbol; the scene does **not** establish pacifism or reconciliation. Midoriya promises lifelong memory; Spinner sends Shoji a brusque encouragement. Remains `strong`, broadened in reflection/history but still concentrated around League/stigma relations.
+
+## Dabi / Todoroki Toya — terminal body, local apology
+
+`V42:p056-064`: terminal prognosis and minutes-limited speech constrain action. Sarcasm toward Endeavor persists; Toya answers Shoto's food question with soba, hears they share it, then cries and says **Shoto, sorry**. This is a genuine local counterexample to a wholly unchanging hatred model, not evidence that all conduct is repudiated. `p167` mentions his altar; death during the gap is strongly inferred, precise circumstances unknown. Remains `specialist_ready`; childhood, League, self-destructive war and terminal sibling states remain distinct.
+
+## Chisaki / Overhaul — apology remains relationship-bound
+
+`V42:p082-083`: meets his surviving boss, who rejects his methods and requires lifelong remembrance of Eri's suffering, promising continued reproach. Chisaki cries and apologizes **to the boss**. This closes the meeting question but not the missing Eri-directed accountability behavior. Remains `strong`; neither affectless exploitation nor completed moral reform fits the shown evidence.
+
+## Toga / Twice / Gentle and La Brava — endpoint and afterlife controls
+
+Toga's death is explicit in Ochako's speech (`V42:p114,p155`). Later dream/apparition speech (`p146-148,p177-183`) is mediated through Ochako, with literal vestige continuity unconfirmed. Toga remains `specialist_ready`; V42 primarily alters others' relation to her. Twice's V27 terminal `specialist_ready` state remains operative and is restored to the top snapshot; later copies/memories do not create adult Jin observations.
+
+Gentle and La Brava are released following recognized wartime contributions (`p068`); adult technology-company imagery (`p130`) extends social reintegration. Cross-reference their established individual homes. Gentle remains `strong`, La Brava `moderate`; new institutional utility alone does not establish diverse private relationships.
