@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 main-story foundation plus positive thematic evidence through EVENT_0072; EVENT_0070 establishes technique-expression integration and EVENT_0072 establishes bounded wanting before complete self-understanding while strengthening first-person/ordinary-life evidence"
-analysis_cutoff: "N25 thematic authority through EVENT_0072; documentary screening through EVENT_0072"
+source_boundary: "N25 thematic evidence through EVENT_0084; ordinary co-creation, reciprocal care, partial efficacy and object-mediated warmth strengthened; no new motif ID"
+analysis_cutoff: "EVENT_0084 thematic integration within I2 refinement; newest theme remains TH-N25-034 from EVENT_0077; other-unit comparisons deferred"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,6 +14,23 @@ mutable: true
 ---
 
 # Project SEKAI Theme and Motif Ledger
+
+## Current authority and reference disambiguation
+
+N25 thematic authority reaches **EVENT_0084**, strengthening ordinary co-creation, reciprocal care, partial efficacy and object-mediated warmth alongside prior findings. EVENT_0082/0083 required no governing thematic revision; no new recurring motif ID is added. `TH-N25-034` remains the newest theme from EVENT_0077; EVENT_0070 established `TH-N25-032` and EVENT_0072 `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
+
+The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
+
+| Imported ID | Distinct historical meanings and required qualifier |
+|---|---|
+| `TH-N25-005` | §8 hope/search exhaustion; §12.6 warmth as low-intensity efficacy, EVENT_0026 |
+| `TH-N25-009` | §12 negative affect as self-evidence and its later explicit extensions; §12.4 curse/obligation/chosen continuation, EVENT_0014; §12.6 persistence as virtue and pathology, EVENT_0026 |
+| `TH-N25-015` | §12.3 seasonal ritual and its later explicit extensions; §12.7 ordinary companionship across multiple spaces, EVENT_0029 |
+| `TH-N25-024` | §12.5 ordinary activity as mutual revelation and its later explicit extensions; §12.7 future attachment without falsifying happiness, EVENT_0029; EVENT_0068 causal backfill of that attachment/happiness meaning |
+| `MO-N25-013` | §12.6 carnation field/perspective-scaled memory, EVENT_0026; §12.20 blank canvas/repeated self-assignment, EVENT_0053 |
+| `MO-N25-014` | §12.7 souvenir/commemorative object, EVENT_0029; §12.21 sakura/shared experience, EVENT_0054 |
+
+New references must resolve the intended meaning from the local formulation and evidence, never infer it from the repeated ID alone. This is a citation-integrity clarification, not a new thematic finding or a rewrite of the historical source boundaries.
 
 ## 1. Purpose and caution
 
@@ -1156,3 +1173,61 @@ Practical volunteering and first aid produce self-evidence that abstract discuss
 Helping Rui and the injured child, then receiving specific gratitude, produces a positive shift that Mafuyu can later compare across situations.
 
 No new recurring motif is promoted. The street piano is event-central but remains event-local until recurrence warrants motif status.
+
+## EVENT_0076 thematic corroboration — shared making and reciprocal ordinary care
+
+**I1 corroboration; no new theme or recurring motif ID.**
+
+- **`TH-N25-003` — creative work/music as psychological evidence: STRENGTHEN.** Kanade hears a trace of Ichika's intended supportiveness, asks her to articulate it, and helps make that intention more audible; she receives inspiration in the process (`PJSK:event:0076:03:001:0031–0082`; `PJSK:event:0076:03:002:0005–0019`). The technical intervention preserves the maker's intention and agency.
+- **`TH-N25-014` — ordinary-life expansion without cure: STRENGTHEN.** A requested lesson, shared refreshments and the later reciprocal gift/flower exchange let Kanade receive and enjoy others' care without resolving self-neglect or the rescue vow (`PJSK:event:0076:04:002:0013–0024`; `PJSK:card:0535:02:001:0039–0060`).
+
+The gerberas remain a specific gift with the giver's stated rationale, not a newly promoted recurring motif. Leo/need's choice-under-uncertainty, medium-sensitive expression, audience orientation and music connecting distinct Miku contexts are retained in the [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) for founded historical comparison; N25 thematic authority does not substitute for that work.
+
+## EVENT_0077 thematic integration — permission as a lived relationship condition
+
+### `TH-N25-034` — nominal choice and usable choice depend on relational conditions
+
+**Status:** EVENT_ESTABLISHED / CANONICAL, N25/family scope. Both parental environments can use personal-choice language, but Mafuyu experiences different room to differ. Future-regret reasoning draws an expressed wish back toward compliance; a noisier household can feel less cold. Ena's move from “just say it” to informed support changes what the wish can presently do (`PJSK:event:0077:04:002:0052–0106`; `PJSK:event:0077:06:002:0020–0084`). The theme distinguishes words, practical consequences and experience without erasing maternal care, declaring parental intent omnisciently, or idealizing the Shinonome family.
+
+### Established themes — strengthened and bounded
+
+- **`TH-N25-001` first-person authority:** disclosure corrects an observer's premise; Ena marks her portrait as fallible seeing that Mafuyu can question (`PJSK:event:0077:07:002:0159–0173`). Supporting agency can still involve over-directive acts; effective intervention is not automatically a model of consent.
+- **`TH-N25-003` creative work as psychological evidence:** Mafuyu authors and disputes interpretation; Ena's image responds to witnessed agency and communicates the maker's own wish. A subject is also an interpreting participant, not merely inspiration for someone else's work.
+- **`TH-N25-032` technique and self-authored expressive value:** the teacher can identify persistent defects and receive the intended wish in the same work. Ena continues practice. No anti-technique conclusion or completed professional success (`PJSK:event:0077:08:004:0002–0019`).
+- **`TH-N25-033` wanting before complete self-understanding:** Mafuyu names collaborative music and later values ordinary talk without a complete explanation of herself. EVENT_0072 is not the first-ever possible statement of wanting; articulation and enactment remain context-dependent.
+- **`TH-N25-014` ordinary-life expansion without cure:** shelter, meals, guest preparation, gift advice, snacks, teasing and colouring make companionship usable. Poor sleep, health strain, secrecy and family conflicts persist. Walking/pillow suggestions do not prove improvement.
+- **`TH-N25-024` / §12.5 and EVENT_0070, ordinary activity as mutual revelation:** shared work and the two households expose differences that abstract advice missed; the cited meaning is distinct from the imported EVENT_0029 future-attachment use of this ID.
+
+The shell, hatching, dawn and portrait are central event structures. They express a hoped-for future and a fallible present perception, **not completed liberation**; no new recurring motif ID is promoted. N25 Len's presence and peers' selective restraint strengthen the existing non-solving support line while preserving differences among N25 manifestations. No franchise-wide generalization substitutes for the unfounded units' pending interpretation.
+
+Latest theme/evidence authority EVENT_0077; next forward candidate EVENT_0078.
+
+## EVENT_0080 thematic integration — support remembered beyond its occasion
+
+- **`MO-N25-001` warmth/coldness: STRENGTHEN.** Warm tea at home does not relieve Mafuyu's coldness; threatened loss of the club precedes another cold feeling; recalling Shizuku's promise beside the rabbits precedes tentative less-cold appraisal (`PJSK:event:0080:05:001:0013–0017`; `PJSK:card:0557:01:004:0002–0029`). The motif tracks experienced relational conditions alongside physical temperature; it does not certify recovery. Shizuku's actual cold hands and pleased return remain a different person's experience.
+- **`TH-N25-029` care without extraction: STRENGTHEN.** Shizuku asks, encounters a closed explanation and nevertheless sustains practical support. She admits ignorance while returning a useful cue and offers nonexclusive availability (`PJSK:event:0080:06:001:0036–0062`; `PJSK:event:0080:07:001:0064–0079`; `PJSK:event:0080:08:001:0028–0032`). Her initially insistent practice invitation remains part of the record; this is not perfect restraint throughout or a guarantee that every encouragement helps.
+- **`TH-N25-014` ordinary-life expansion without cure: STRENGTHEN.** Archery competition, snow craft, laughter, an umbrella errand and agreed lunch carry reciprocal life alongside unresolved home constraints (`PJSK:event:0080:08:001`; `PJSK:card:0557:02`; `PJSK:area:areatalk_ev_shuffle_26_001:01`). Public enjoyment language is assessed separately from first-person affective evidence.
+- **`TH-N25-024`, §12.5 ordinary activity as mutual revelation: STRENGTHEN.** Practising together makes altered tension observable and gives the old lesson a reciprocal use; the correct qualifier distinguishes this from the imported future-attachment meaning of the same ID (`PJSK:event:0080:07:001:0044–0079`).
+- **`TH-N25-034` relational conditions of usable choice: STRENGTHEN.** Worry about weather and study narrows space for archery, whereas another person's available companionship permits a short interval of shared activity. The mother's ordinary wording, Mafuyu's experience and Shizuku's partial perception remain different evidentiary levels (`PJSK:event:0080:05:001:0006–0012`; `PJSK:event:0080:05:003:0008–0033`).
+
+**Event-local structures:** archery's one-shot focus is both a working practice and visibly limited refuge; snow shifts from a wish to suspend return into a shared material carrying memory; the umbrella moves from actual shelter to an explicit future offer. The rabbits grow 1 → 5 → 8 through makers who initially do not know one another's contributions or Mafuyu's private response. These structures strengthen established support/memory/warmth lines; they do not require duplicate recurring motif IDs, prove a literal character-per-rabbit mapping, or establish permanence beyond melting.
+
+Shizuku's perfection/effort history, Airi's tea interests, Hinomori childhood consolation and Stage KAITO's complementary craft abilities remain in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md) for founded MMJ/Leo/need interpretation. No franchise-wide theorem is certified. Next EVENT_0081.
+
+## EVENT_0081 thematic corroboration — an audience can also help make the work
+
+- **`TH-N25-003` creative work/music as psychological evidence: STRENGTHEN.** Kanade's response to an interrupted show exposes attention to the recipient's situation, usable musical competence and an ability to make a fitting continuation from incomplete material (`PJSK:event:0081:06:003:0071–0088`). The observed effect is shared by musician, actors and audience; a performer is not a wholly self-sufficient source of the experience.
+- **`TH-N25-025` positive rescue destination / accompaniment: STRENGTHEN existing bounded meaning.** Kanade remembers the value of Mafuyu's smile through the play's relational-treasure idea, and her accompaniment helps the scene without making anyone fully saved (`PJSK:event:0081:06:003:0040–0050`; `PJSK:event:0081:06:003:0091–0099`). This continues the earlier partial-efficacy correction; it does not newly legitimate relentless self-sacrifice.
+- **`TH-N25-014` ordinary-life expansion without cure: STRENGTHEN.** Fortune drawing, accessory shopping, discreet entertainment, peer gratitude, an invitation bounded by family contact and Len's string figures carry life outside immediate crisis (`PJSK:event:0081:06:002`; `PJSK:event:0081:06:003:0002–0035`; `PJSK:event:0081:07:004`; `PJSK:area:areatalk_monthly2212_005:01`). Self-care, secrecy and autonomy conflicts do not disappear.
+- **`TH-N25-015`, §12.3 seasonal ritual and its EVENT_0045 continuity extension: STRENGTHEN.** Another shared New Year includes the newer Empty Len, while Kanade's intended hospital decoration recalls household continuity (`PJSK:event:0081:06:002`; `PJSK:event:0081:07:005:0007–0008`). The qualified reference is distinct from the imported ordinary-companionship meaning of the same ID.
+
+**Event-local structures, broader comparison deferred:** the play redirects the castle's value into shared theater; Tsukasa's real excursion tests growth through unfamiliar collaborators while retaining home obligations; the lion robot makes limited opportunities visible; dream drawing proposes a shared image of future activity. None needs a new N25 recurring motif ID. Fortunes do not establish fate, desired dreams are not demonstrated dream control, and theatrical treasure is not literal human biography. The four performances and their distinct effects are preserved for WxS/Leo/need/MMJ/VBS foundation-aware synthesis. Next EVENT_0082.
+
+## EVENT_0084 thematic increment — the process can communicate care too
+
+- **`TH-N25-003` / creative work as psyche and communication: STRENGTHEN across a nonmusical form.** Kanade translates remembered recipient-oriented advice into choices that express Len's own gratitude; the physical maker and the participant supplying purposes/choices need not be identical. A gift may communicate felt kindness even when its precise intended meaning is unknown (`PJSK:event:0084:06:003:0019–0078`; `PJSK:event:0084:05:001:0080–0104`). This is supported co-production, not evidence that every craft has the same psychological function as a rescue song.
+- **`TH-N25-014` / ordinary-life expansion without cure: STRENGTHEN.** Hosting, learning, laughing over practical uncertainty, immediate exchange, using gifts and requesting ordinary company matter alongside useful outputs. Kanade explicitly recognizes pleasure in making together while still needing physical/practical help and retaining her narrowed routine (`PJSK:event:0084:04:001:0002–0017`; `PJSK:card:0583:01:001:0030–0044`; `PJSK:event:0084:06:001`; `PJSK:event:0084:07:003:0060–0074`; `PJSK:area:areatalk_ev_shuffle_28_003:01`).
+- **`TH-N25-025` / partial positive effect and accompaniment: STRENGTHEN.** Miku cannot yet solve Len's gift problem but thinking together is already warm; Kanade later supplies practical access and receives insight from him. Competence circulates through particular roles rather than belonging to one omnipotent helper (`PJSK:card:0587:01:001:0023–0053`; `PJSK:event:0084:06:003`; `PJSK:event:0084:07:003:0060–0074`).
+- **`MO-N25-001` / warmth: bounded additional recurrence.** Len's anticipatory warmth, Kanade's gentle associations and later direct candle sensation join prior warmth evidence. Emotional response, figurative warmth and sensory description remain distinguishable (`PJSK:card:0587:01:001:0039–0053`; `PJSK:event:0084:06:001`; `PJSK:card:0587:02:001:0036–0046`). Scent/candle/memory is a developed local event pattern, not a newly certified franchise-wide recurring motif. Ichika's future memory hope remains in the deferred Leo/need route (`PJSK:event:0084:08:003`).
+
+Bought gifts, handmade gifts, recipient pleasure and maker pleasure are not ranked by one universal sincerity test. Mafuyu's queued recommendation, Ena's self-presentation plus care and distinct later use responses resist that shortcut (`PJSK:event:0084:07:003:0010–0028`; `PJSK:card:0585:02:001:0021–0063`). Aroma effects remain situated reports, not independently established therapeutic claims. No new theme/motif ID. Broader comparative conclusions await other unit foundations and deferred-route consumption; latest human-state transition remains EVENT_0072. Next EVENT_0085.
