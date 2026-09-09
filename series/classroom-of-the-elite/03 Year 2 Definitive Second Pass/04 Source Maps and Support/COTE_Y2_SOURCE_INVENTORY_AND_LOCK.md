@@ -2,10 +2,14 @@
 series: COTE
 artifact_type: source_lock
 scope: Y2
-status: active_provisional
+status: canonical
+authority_state: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 source_boundary: "Y2V01-Y2V12.5 + V00 + Y2SL"
 generation: V2
-updated_at: "2026-08-24"
+updated_at: "2026-09-09"
 ---
 # COTE Year 2 V2 — Source Inventory and Lock
 
@@ -49,3 +53,7 @@ Audit result:
 - canonical audit: `COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md`
 
 The source identity is now locked for Year-2 analytical purposes even though the large EPUB binary itself remains outside the Drive mirror. Do not substitute summaries or prior synthesis for the verified guidebook.
+
+## Git release source verification
+
+The closeout verified all seventeen local Japanese EPUBs against the identities above, including byte counts, SHA-256, CRC/container structure and resource readability. The historical Drive acquisition notes remain provenance; the verified local payloads supply this release. The [source checksums](../00%20Corpus%20Administration/COTE_Y2_SOURCE_CHECKSUMS.sha256), [source-locator map](COTE_Y2_SOURCE_LOCATOR_MAP.json) and [evidence router](../05%20Year-Level%20Synthesis/COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md) record reproducible current routing. Volume 0 remains after Y2V08; Second List remains after Y2V12.5. No Year-3 narrative source was opened or used.
