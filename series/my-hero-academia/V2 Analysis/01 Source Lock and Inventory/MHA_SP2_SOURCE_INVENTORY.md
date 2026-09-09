@@ -995,6 +995,9 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Chapter starts: No.259 `p006`; No.260 `p024`; No.261 `p042`; No.262 `p060`; No.263 `p080`; No.264 `p100`; No.265 `p120`; No.266 `p140`; No.267 `p160`.
 - Narrative endpoint: `V27:p180`; `V27:p181-190` are character/assistant/advertising/publication/digital/back-cover material.
 - Prospective endpoint: Twice is dead; Tokoyami is extracting the critically burned Hawks; Dabi's reader-withheld identity disclosure, Shigaraki procedure outcome, Mirko/Hawks long-term status, broader raid result, Best Jeanist truth and later OFA developments remain V28+.
+
+**Current correction:** the preceding historical endpoint’s extraction clause is superseded. `V27:p179` is arrival only; extraction is `V28:p060–077` (excluding portrait `p062`). No completed extraction belongs to the V27 prospective lock. See the [source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 - Handling: fetched temporarily for source-grounded review; canonical raw source remains in Google Drive.
 
 # Volume 28 source verification

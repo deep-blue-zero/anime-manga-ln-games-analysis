@@ -3384,6 +3384,9 @@ Key changes:
 - Dabi knows Hawks's private name `Takami Keigo` and whispers another identity fact to him, but V27 formally withholds the content from the reader. Later Toya/Todoroki knowledge remains OPEN;
 - Hawks's childhood HPSC-linked identity discontinuity and special hero training become canonical causal-biography evidence. His rescue aspiration is genuine, so institutional opportunity and institutional ownership coexist;
 - Tokoyami converts mentorship attachment into reverse rescue by reaching/extracting the critically burned Hawks without possessing the reader's full Hawks/Twice knowledge;
+
+**Current correction:** that historical V27 summary prematurely includes extraction and the V28 information problem. `V27:p179` establishes arrival; extraction and the response to Dabi are `V28:p060–077` (excluding portrait `p062`). Exclude the premature claims from V27 freezes; the [source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) preserves the correction and provenance.
+
 - the volume ends at `V27:p180` with Endeavor reaching the underground High-End fight and Mirko still refusing to abandon the Shigaraki/Doctor objective. Shigaraki's actual awakening/procedure result and the overall raid outcome remain V28+.
 
 Character-model readiness changes:

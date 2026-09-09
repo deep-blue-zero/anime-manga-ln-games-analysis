@@ -5926,9 +5926,14 @@ V27 resolves the V26 Hawks/Twice collision with unusually diagnostic evidence.
 
 - `V27:p109-115`: Hawks restrains Twice first, explains that Double is the operation's most dangerous force multiplier, asks him not to resist, plans police handoff, offers atonement/restart assistance, calls him a good person, and says he does not want to fight him.
 - `V27:p140-147`: after Dabi breaks the containment geometry and Twice resumes escape/mass-deployment attempts, Hawks lethally neutralizes the original Twice.
+
+**Current locator correction:** the exact lethal strike is `V27:p149`; the preceding historical `p140-147` range does not locate the decisive blow.
+
 - `V27:p146-171`: Dabi uses Hawks's private name `Takami Keigo`, reveals another identity fact that V27 withholds from the reader, and destabilizes Hawks biographically while continuing the attack.
 - `V27:p168-169`: childhood evidence establishes name/identity discontinuity and a special HPSC-linked hero training program. Child Hawks's rescue aspiration is genuine, so the institution is both opportunity and ownership structure rather than a total fabrication of motive.
 - `V27:p179`: Tokoyami reaches/extracts Hawks, giving Hawks's prior mentorship a reciprocal rescue consequence.
+
+**Current chronology correction:** `V27:p179` shows arrival only. Completed retrieval/escape is `V28:p060–077`, excluding portrait `p062`; concern is spoken at `p066`, unconsciousness is observed at `p070`, and trust is voiced at `p077`. The historical extraction clause is inadmissible in a V27 freeze. Tokoyami’s belief in Hawks does not establish moral exoneration.
 
 **Current model:** Hawks can sincerely humanize a target while applying coercive or lethal threat management. Polite professional register, care, deception, surveillance and violence are not mutually exclusive modes for him.
 
@@ -5967,7 +5972,7 @@ V27 confirms the V25-V26 preparation-to-action transition. He participates in th
 - Readiness remains `specialist_ready`.
 
 ## Hawks / Takami Keigo - state continuity only
-- V28 confirms Hawks alive but critically burned/unconscious during Tokoyami's extraction. Later recovery and institutional consequences remain OPEN.
+- `V28:p060–077` first establishes Tokoyami’s extraction (exclude portrait `p062`), with unconsciousness observed at `p070`. Hawks is alive but critically burned; later recovery and institutional consequences remain OPEN at this boundary.
 - Readiness remains `specialist_ready`.
 
 # Volume 29 cumulative updates
@@ -6013,6 +6018,9 @@ V27 confirms the V25-V26 preparation-to-action transition. He participates in th
 - `V31:p083`: preserves Twice/Bubaigawara as a morally positive reference because he desperately tried to be useful to people. This does not retract Hawks's V27 lethal decision; it proves threat management did not erase target personhood.
 - `V31:p202-204`: publicly acknowledges the true parts of his own family history and distinguishes them from the false/misleading Best Jeanist implication.
 - Modeling consequence: V31 is a strong held-out validation that Hawks's hero motive is institutionally shaped but not reducible to HPSC obedience.
+
+**Current validation qualification:** this is a retrospective chronological comparison with analyst knowledge of later manga, not a blind forecast. HK-V01’s original V27 freeze was contaminated by received-rescue knowledge; its correction excludes that input, preserves the original prediction and partials, and credits no survival forecast. Independent earlier rescue/mentorship supports the directional motive inference, without restoring a pristine prospective record.
+
 - Readiness remains `specialist_ready`.
 
 ## Endeavor - guilt becomes family-supported and public-facing responsibility
