@@ -1125,3 +1125,55 @@ Relationship routes for later MMJ integration:
 The full reading's envelope table preserves additional ordinary-life areas and finer claim locators. N25 is explicitly I0 after checking all cards and areas, including Shizuku's potential cross-unit surfaces. Incidental Leo/need evidence consists of reports or a proposed future question; no Ichika answer or Shiho participation is shown. Tier A developmental/commitment material, Tier B reciprocity, Tier C professional characterization and Tier D ordinary behavior justify extraction; MMJ baseline-relative impact remains deferred.
 
 **Latest closed forward route: EVENT_0073. Next forward candidate: EVENT_0074.** The 21 earlier `PENDING_ONE_TIME_UNIVERSAL_SCREEN` rows remain workflow gaps.
+
+## EVENT_0074 — カーテンコールに惜別を
+
+```yaml
+release_id: EVENT_0074
+release_bucket: RB_20221021T060000Z
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+routing_status: UNIVERSAL_SCREEN_COMPLETE
+complete_envelope: "8 core + cards 0522-0526 both halves + 8 manifest-linked archive areas = 26 surfaces"
+envelope_set_check: EXACT_MATCH_ASSOCIATED_EVENT_IDS_UNION_UNLOCK_EVENT_IDS
+core_locators: [PJSK:event:0074:01, PJSK:event:0074:02, PJSK:event:0074:03, PJSK:event:0074:04, PJSK:event:0074:05, PJSK:event:0074:06, PJSK:event:0074:07, PJSK:event:0074:08]
+card_locators: [PJSK:card:0522:01, PJSK:card:0522:02, PJSK:card:0523:01, PJSK:card:0523:02, PJSK:card:0524:01, PJSK:card:0524:02, PJSK:card:0525:01, PJSK:card:0525:02, PJSK:card:0526:01, PJSK:card:0526:02]
+area_locators: [PJSK:area:areatalk_ev_wonder_10_001:01, PJSK:area:areatalk_ev_wonder_10_002:01, PJSK:area:areatalk_ev_wonder_10_003:01, PJSK:area:areatalk_ev_wonder_10_004:01, PJSK:area:areatalk_ev_wonder_10_005:01, PJSK:area:areatalk_monthly2211_002:01, PJSK:area:areatalk_monthly2211_004:01, PJSK:area:areatalk_monthly2211_005:01]
+area_temporal_basis: archive_publication_not_asserted_initial_availability
+area_unlock_relation: "All eight require EVENT_0074 chapter 8; releaseConditionId=107308; eventStoryEpisodeId=1000600"
+later_supplement_boundary: "monthly2211_002/004/005 published 2022-11-30T06:00:00Z; no retroactive core-ending state or knowledge import"
+routes:
+  WXS:
+    relevance: PRIMARY
+    future_review_priority: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Rui, Tsukasa, Nene, Emu]
+    other_figures: [Asahi_Genbu, Arkland_cast, bird_plush, park_management, Emu_family_in_recollection, Tom_Gray_in_report]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [professional_opportunity, attachment, plural_goals, decision_under_uncertainty, private_distress, non_disclosure_respecting_care, acting, direction, training, audience_model, safety, reciprocal_learning, ordinary_life, speech_register, manifestation_specific_support, embedded_fiction]
+  N25: {relevance: NONE, future_review_priority: NONE, baseline_impact: I0, reconstruction_yield: R0}
+  LEO_NEED: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+  MMJ: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+  VBS: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0074_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0075
+```
+
+Relationship and reconstruction routes for ordered WxS integration:
+
+| Relationship or network | Exact evidence | Mode and future responsibility |
+|---|---|---|
+| Rui–Asahi | `PJSK:event:0074:04:003:0021–0098`; `PJSK:event:0074:05:003:0011–0034`; `PJSK:event:0074:05:004:0008–0033`; `PJSK:event:0074:08:001:0002–0051` | Shared artistic aim, distinct self-reported history, person-specific trust, private offer and attachment-respecting response; future invitation remains open. |
+| Rui–Nene/Emu | `PJSK:event:0074:06:001:0061–0098`; `PJSK:event:0074:07:002:0017–0025`; `PJSK:card:0522:01:001:0013–0055` | Distress noticed without offer knowledge; reassurance without demanded disclosure; concrete future-show enthusiasm. |
+| Rui–WxS group | `PJSK:event:0074:01:001:0002–0026`; `PJSK:event:0074:07:002:0126–0147`; `PJSK:event:0074:08:003:0009–0048`; `PJSK:area:areatalk_ev_wonder_10_003:01`; `PJSK:area:areatalk_ev_wonder_10_004:01` | Creative growth and attachment coexist; shared curiosity and respected leisure; private search intention is not an agreed solution. |
+| Rui–Wonderland Miku; Miku–bird | `PJSK:event:0074:06:002:0016–0074`; `PJSK:card:0525:01:001:0043–0063`; `PJSK:card:0525:02:001:0012–0045`; `PJSK:card:0522:02:002:0030–0072` | Both wants are legitimate; unconditional care; original solo achievement and subsequent new shared wish; other manifestations do not automatically know Rui's private account. |
+| Tsukasa–Rui/Asahi | `PJSK:event:0074:03:003:0031–0053`; `PJSK:event:0074:05:001:0066–0083`; `PJSK:card:0523:01:002:0009–0044`; `PJSK:card:0523:02:004:0015–0045` | Goal-derived behavior, role-specific instruction, gap without hopelessness, observation practice and reciprocal regard. |
+| Nene–Emu/visiting actors | `PJSK:card:0524:01`; `PJSK:card:0524:02:002:0040–0068`; `PJSK:card:0526:01:002:0021–0057` | Supported initiative, deliberate feedback seeking, Emu's improvisation accepted externally, sadness and preparation coexist. |
+| Emu–group/park/family | `PJSK:card:0526:02:002:0010–0059`; `PJSK:area:areatalk_ev_wonder_10_002:01:001:0002–0009` | Retrospective park protection, promotional success and continuing playful invention; not newly inspected earlier events. |
+| Rui/Nene–MEIKO/KAITO; Rui/Tsukasa–Luka; Emu/Nene–Rin | `PJSK:area:areatalk_monthly2211_002:01`; `PJSK:area:areatalk_monthly2211_004:01`; `PJSK:area:areatalk_monthly2211_005:01` | Later-published bounded safety discussion, sleep comedy and reciprocal math explanation; preserve separate 2022-11-30 archive boundary. |
+
+The full reading owns finer causal, epistemic and ordinary-life analysis plus all 26 pinned witness ranges/hashes. Tiers A–D warrant the extraction. The staged android play remains embedded fiction. Neither Rui's desire conflict nor a Wonderland manifestation supplies N25 impact by thematic resemblance alone. All core/card/area checks are N25 NONE/I0/R0. No unfounded-unit score or human successor state is assigned.
+
+**Latest closed forward route: EVENT_0074. Next forward candidate: EVENT_0075.** The 21 historical universal-screen gaps and four foundation/deferred-integration dependencies remain explicit.

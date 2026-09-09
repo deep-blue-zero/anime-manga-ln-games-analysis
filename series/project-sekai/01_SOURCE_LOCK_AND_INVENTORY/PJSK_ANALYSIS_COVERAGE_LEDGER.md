@@ -49,14 +49,14 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — updated through EVENT_0073 on 2026-09-09
+### Current coverage — updated through EVENT_0074 on 2026-09-09
 
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
-- Latest closed forward transaction: `EVENT_0073`; next forward operation: `EVENT_0074`. Latest substantive N25 integration remains `EVENT_0072`.
+- Latest closed forward transaction: `EVENT_0074`; next forward operation: `EVENT_0075`. Latest substantive N25 integration remains `EVENT_0072`.
 - Current N25 tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
 - Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
-- Franchise routing inventory reaches EVENT_0073, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0073 universal screens and earlier reusable complete readings retain their bounded authority.
+- Franchise routing inventory reaches EVENT_0074, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0074 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
 
@@ -717,3 +717,22 @@ CURRENT AUTHORITY AFTER EVENT_0073
 - Preserved manifestation-group authorities: `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061`.
 - Franchise inventory/frontier: EVENT_0073; 21 earlier universal screens still pending, four foundations and material deferred-route integrations still incomplete.
 - Next forward operation: EVENT_0074 — カーテンコールに惜別を, `RB_20221021T060000Z`.
+
+EVENT_0074 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE
+
+Title: カーテンコールに惜別を. Core release bucket: `RB_20221021T060000Z`.
+Artifact: [WXS/PJSK_EVENT_0074_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0074_DEEP_READING.md).
+All 26 manifest-resolved surfaces read: core `0074:01–08`, cards `0522–0526` both halves, five `areatalk_ev_wonder_10_001–005` and three `areatalk_monthly2211_002/004/005` areas. The monthly archive-publication date is 2022-11-30T06:00:00Z; this supplementary evidence is kept separate from the core ending. All eight area unlock relations target chapter 8.
+
+WxS is PRIMARY/VERY_HIGH with R3 event-local yield and `DEFERRED_PENDING_FOUNDATION`. Rui's credible professional opportunity and attachment conflict, the open-ended joint-path search, non-disclosure-respecting care, reciprocal acting/directing pedagogy and ordinary-life evidence are preserved. The other three unfounded units have no material route. N25 is NONE/I0/R0; all core, card and area surfaces were checked for cross-unit bridges.
+
+The five substantive N25 ledgers remain unchanged. RELEASE_IMPACT, routing, this full reading and current-state surfaces advance together. A targeted EVENT_0073 chronology sentence now records its independently established chapter-8 area unlock relation; its envelope and analytical conclusions are unchanged.
+
+CURRENT AUTHORITY AFTER EVENT_0074
+
+- Latest closed forward transaction and N25 documentary screening: EVENT_0074.
+- Latest substantive N25 integration: EVENT_0072 (I3/R3).
+- Current tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- Preserved manifestation-group authorities: `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061`.
+- Frontier is EVENT_0074; 21 earlier universal screens, four foundations and their material deferred integrations remain incomplete.
+- Next forward operation: EVENT_0075, subject to its complete manifest-resolved envelope.

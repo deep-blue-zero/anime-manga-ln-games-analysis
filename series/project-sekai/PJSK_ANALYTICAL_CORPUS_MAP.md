@@ -210,7 +210,7 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Continuous completion campaign — updated through EVENT_0073 on 2026-09-09
+### Continuous completion campaign — updated through EVENT_0074 on 2026-09-09
 
 ```yaml
 sequential_execution:
@@ -218,23 +218,23 @@ sequential_execution:
   unit_type: event
   authorized_start: EVENT_0073
   terminal_boundary: PJSK_SOURCE_20260822T184634Z_EVENT_0213
-  committed_high_water_mark: EVENT_0073
+  committed_high_water_mark: EVENT_0074
   high_water_mark_semantics: latest_closed_forward_event_transaction_not_gap_free_franchise_coverage
   entering_analysis_commit: 091b6eae42e1a652220cf1cfa8981f1bf6bea69e
-  next_candidate_operation: EVENT_0074
+  next_candidate_operation: EVENT_0075
   confirmation_between_units: false
   run_state: active
 ```
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` has a latest closed forward transaction of `EVENT_0073`. Its complete 23-surface screen is N25 I0; the latest substantive N25 integration remains EVENT_0072, and the six longitudinal ledger endpoints retain `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. N25's main-story foundation is complete. The other four human-unit foundations remain `NOT_STARTED`, and their material event routes remain deferred pending foundation and subsequent interpretation.
+`ANALYSIS_CURRENT` has a latest closed forward transaction of `EVENT_0074`. Its complete 26-surface screen is N25 I0; the latest substantive N25 integration remains EVENT_0072, and the six longitudinal ledger endpoints retain `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. N25's main-story foundation is complete. The other four human-unit foundations remain `NOT_STARTED`, and their material event routes remain deferred pending foundation and subsequent interpretation.
 
 **Coverage qualification:** the imported routing inventory still explicitly marks 21 earlier events `PENDING_ONE_TIME_UNIVERSAL_SCREEN`: `0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, and `0027–0028`. No later closure record in that ledger resolves these rows. Thus “routing through EVENT_0072” identifies the inventory/frontier, not gap-free completed franchise screening. Preserve the completed EVENT_0046–0072 universal screens and reusable earlier completed envelopes. Close the listed backlog once, and consume deferred routes after each remaining foundation; do not repeat discovery separately for each unit.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, four remaining foundations, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0073_DEEP_READING.md) closes `EVENT_0073 — 拝啓、あの頃のわたしへ`, bucket `RB_20221012T060000Z`: eight core chapters, cards `0517–0521` (ten halves), and five archive-publication areas `areatalk_ev_idol_10_001–005`. MMJ is PRIMARY/HIGH with R3 event-local yield and `DEFERRED_PENDING_FOUNDATION`; Leo/need receives two incidental references; N25, VBS and WxS have no evidence-bearing route. The next forward event is `EVENT_0074`, present in the locked manifest and awaiting its own complete transaction.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0074_DEEP_READING.md) closes `EVENT_0074 — カーテンコールに惜別を`, core bucket `RB_20221021T060000Z`: eight core chapters, cards `0522–0526` (ten halves), five `areatalk_ev_wonder_10_001–005` areas and three later-published `areatalk_monthly2211_002/004/005` areas. The monthly archive boundary is 2022-11-30, separate from the core ending. WxS is PRIMARY/VERY_HIGH with R3 event-local yield and `DEFERRED_PENDING_FOUNDATION`; N25 is I0, and Leo/need, MMJ and VBS have no evidence-bearing route. The next forward event is `EVENT_0075`, awaiting its own complete manifest-resolved transaction.
 
 ### Preserved earlier campaign narrative and chronological updates
 
@@ -385,3 +385,9 @@ Current authority after EVENT_0072: universal franchise routing and N25 positive
 [EVENT_0073 — 拝啓、あの頃のわたしへ](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0073_DEEP_READING.md) is closed as a complete 23-surface universal screen with a full reading for deferred MMJ integration. Its core, cards 0517–0521 and five archive-publication areas preserve Minori's commitment under uncertainty, reciprocal idol/fan hope, Haruka's private recognition, performance training, production and ordinary-life evidence. MMJ is PRIMARY/HIGH/R3-yield with impact `DEFERRED_PENDING_FOUNDATION`; Leo/need is INCIDENTAL/LOW through two indirect area references. N25 is NONE/I0/R0; VBS and WxS have no evidence-bearing route.
 
 The latest substantive N25 state remains the EVENT_0072 tuple, while documentary screening and the latest closed forward transaction advance to EVENT_0073. Its five substantive ledgers require no mutation; RELEASE_IMPACT and the canonical routing/coverage surfaces record the closure. Next forward candidate: EVENT_0074 — カーテンコールに惜別を, `RB_20221021T060000Z`, with its own manifest-resolved envelope. The 21 older pending universal screens, four foundations and deferred interpretation, character packages, syntheses, audits and protected integration remain required.
+
+### EVENT_0074 authority update
+
+[EVENT_0074 — カーテンコールに惜別を](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0074_DEEP_READING.md) closes all 26 manifest-resolved surfaces. WxS is PRIMARY/VERY_HIGH/R3-yield with impact `DEFERRED_PENDING_FOUNDATION`. The full reading preserves Rui's opportunity/attachment conflict and unresolved practical search, person-specific professional learning, care under incomplete knowledge, the bird's successive genuine wants and ordinary-life evidence. Its three monthly areas retain their separate 2022-11-30 archive-publication boundary. N25 is NONE/I0/R0; the other human units have no evidence-bearing route.
+
+Documentary screening and the latest closed forward transaction advance to EVENT_0074. The latest substantive N25 integration remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` and both preserved manifestation-group authorities. Five substantive N25 ledgers remain unchanged; routing, release impact and coverage close the transaction. EVENT_0073 receives a targeted correction distinguishing archive timestamps from its independently specified chapter-8 unlock relation, without changing analytical results. Next forward candidate: EVENT_0075. All 21 older universal-screen gaps, four foundations/deferred integrations, reconstruction, syntheses and final audits/integration remain required.

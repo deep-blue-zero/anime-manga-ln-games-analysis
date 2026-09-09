@@ -24,7 +24,7 @@ The [routing ledger](../../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND
 
 ## 2. Envelope and chronology
 
-The event bucket is `RB_20221012T060000Z`. Cards 0517–0519 have release timestamps of 03:00Z that day; cards 0520–0521, the core, and the linked archive areas have 06:00Z timestamps. Release time does not determine diegetic scene order: the cards explicitly include a month before the concert, its preceding week, concert day, and aftermath. The core embeds a middle-school flashback inside present preparation. The five area records are archive-publication associations, not evidence that these conversations require completion of the event to unlock.
+The event bucket is `RB_20221012T060000Z`. Cards 0517–0519 have release timestamps of 03:00Z that day; cards 0520–0521, the core, and the linked archive areas have 06:00Z timestamps. Release time does not determine diegetic scene order: the cards explicitly include a month before the concert, its preceding week, concert day, and aftermath. The core embeds a middle-school flashback inside present preparation. The five area timestamps represent archive publication, not established initial availability. Separately, their manifest unlock relation requires EVENT_0073 chapter 8 (`releaseConditionId=107208`, `eventStoryEpisodeId=1000592`). This targeted chronology-metadata correction preserves the original 23-surface envelope and all narrative and impact conclusions.
 
 All locators below carry the `PJSK:` prefix. An episode locator identifies the complete inspected surface; finer locators in later sections identify the claims' evidence. The source register at the end preserves witness ranges and hashes.
 
