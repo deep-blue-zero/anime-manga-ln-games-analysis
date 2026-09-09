@@ -202,7 +202,9 @@ jobs:
                   lines.append(f"- {label}: no completed report; inspect earlier steps.")
                   continue
               report = json.loads(path.read_text(encoding="utf-8"))
-              print("AUDIT_EXECUTION_REPORT: " + json.dumps(report, sort_keys=True))
+              print(f"AUDIT_EXECUTION_REPORT_BEGIN: {filename}")
+              print(json.dumps(report, sort_keys=True, indent=2))
+              print(f"AUDIT_EXECUTION_REPORT_END: {filename}")
               lines.append(f"- {label}: {report['outcome']}, {report['seconds']:.2f} seconds.")
               if "tests_run" in report:
                   lines.append(f"- Tests executed: {report['tests_run']}; skipped: {report['skipped']}.")

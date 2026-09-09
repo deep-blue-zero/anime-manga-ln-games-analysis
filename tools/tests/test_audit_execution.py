@@ -68,6 +68,37 @@ class ExecutionPlanTests(unittest.TestCase):
     def test_registry_and_sheet_data_remain_content_candidates(self):
         for path in ("characters/registry.jsonl", "series/registry.json", "series/example/package/tab.tsv"):
             self.assertEqual(self.plan([path])["proposed_profile"], "content")
+        snapshot = snapshot_fixture()
+        snapshot.entries["series/registry.json"] = SnapshotEntry(
+            "series/registry.json", "100644", json.dumps({"series": [
+                {"repository_path": "series/example/"},
+                {"repository_path": "studies/comparative-media/Mass Effect/"},
+            ]}).encode(),
+        )
+        snapshot.entries["studies/registry.json"] = SnapshotEntry(
+            "studies/registry.json", "100644", json.dumps({"studies": [
+                {"repository_path": "studies/comparative-media/"},
+                {"repository_path": "studies/comparative-media/Mass Effect/"},
+            ]}).encode(),
+        )
+        catalog = catalog_fixture()
+        plan = execution.plan_content(snapshot, policy_fixture(), catalog, list(catalog),
+                                      ["studies/comparative-media/Mass Effect/reading.md"], [])
+        self.assertEqual(plan["reasons"], [])
+        self.assertEqual(plan["proposed_profile"], "content")
+
+    def test_current_registry_paths_support_shadow_planning(self):
+        snapshot = snapshot_fixture()
+        paths = []
+        for namespace in ("series", "studies"):
+            path = f"{namespace}/registry.json"
+            data = (TOOLS.parent / path).read_bytes()
+            snapshot.entries[path] = SnapshotEntry(path, "100644", data)
+            paths.extend(row["repository_path"] + "shadow-fixture.md" for row in json.loads(data)[namespace])
+        catalog = catalog_fixture()
+        plan = execution.plan_content(snapshot, policy_fixture(), catalog, list(catalog), paths, [])
+        self.assertEqual(plan["reasons"], [])
+        self.assertEqual(plan["proposed_profile"], "content")
 
     def test_missing_baseline_unknown_tests_and_runtime_force_full(self):
         self.assertEqual(self.plan([], reasons=["baseline_unavailable"])["proposed_profile"], "full")

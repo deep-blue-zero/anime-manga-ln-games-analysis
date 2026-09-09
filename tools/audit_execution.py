@@ -114,9 +114,15 @@ def plan_content(snapshot: GitSnapshot, policy: dict, catalog: dict, ids: list[s
             document = decode_json(entry.data, path)
             for row in document[namespace]:
                 value = row["repository_path"]
-                if not isinstance(value, str) or not re.fullmatch(rf"{namespace}/[a-z0-9][a-z0-9-]*/", value):
+                if not isinstance(value, str) or not value.endswith("/"):
                     raise DomainError("invalid registered root")
-                roots.add(value)
+                validate_repository_path(value[:-1])
+                parts = PurePosixPath(value).parts
+                if len(parts) < 2 or parts[0] not in {"series", "studies"} or not re.fullmatch(r"[a-z0-9][a-z0-9-]*", parts[1]):
+                    raise DomainError("invalid registered root")
+                # Series records can route to a nested comparative study
+                # (for example Mass Effect); use the actual registered path.
+                roots.add("/".join(parts[:2]) + "/")
     except (DomainError, KeyError, TypeError):
         reasons.append("registered_roots_unavailable")
     full_paths = []

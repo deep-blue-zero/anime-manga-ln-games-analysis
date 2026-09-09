@@ -1,6 +1,25 @@
 {
   "schema": "repository-test-catalog/v1",
   "tests": {
+    "test_audit_execution.ExecutionPlanTests.test_current_registry_paths_support_shadow_planning": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "series/registry.json",
+        "studies/registry.json",
+        "governance/repository-controls/test-execution-policy.json"
+      ],
+      "purpose": "Keep the advisory planner compatible with all current registered routes, including nested comparative studies."
+    },
+    "test_audit_reporting.AuditReportingTests.test_execution_summary_preserves_large_reports_in_bounded_log_lines": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_reporting.py",
+        ".github/workflows/repository-audit.yml"
+      ],
+      "purpose": "Preserve complete large timing and shadow reports through ordinary CI log readers."
+    },
     "test_analytical_preflight.AnalyticalPreflightTests.test_new_root_defers_only_routing_and_preserves_all_authored_bytes": {
       "group": "regression",
       "smoke": false,

@@ -93,6 +93,12 @@ class AuditReportingTests(unittest.TestCase):
 
     def test_reporter_and_validation_permission_boundaries_are_enforced(self) -> None:
         original = (ROOT / AUDIT).read_text(encoding="utf-8")
+        entries = {
+            path: SnapshotEntry(path, "100644", (ROOT / path).read_bytes())
+            for path in (AUDIT, "governance/repository-controls/test-execution-policy.json", "tools/tests/test-catalog.json")
+        }
+        policy = {"allowed_workflows": [AUDIT, HOUSEKEEPING, ".github/workflows/nightly-integration.yml"]}
+        self.assertEqual(validate_audit_workflow(GitSnapshot(ROOT, "TEST", entries), policy), [])
         variants = (
             original.replace("permissions:\n  contents: read", "permissions:\n  contents: read\n  statuses: write", 1),
             original.replace("      statuses: write", "      statuses: write\n      contents: write", 1),
@@ -103,8 +109,8 @@ class AuditReportingTests(unittest.TestCase):
         )
         for changed in variants:
             with self.subTest(changed=changed[-100:]):
-                snap = GitSnapshot(ROOT, "TEST", {AUDIT: SnapshotEntry(AUDIT, "100644", changed.encode())})
-                failures = validate_audit_workflow(snap, {"allowed_workflows": [AUDIT, HOUSEKEEPING]})
+                snap = GitSnapshot(ROOT, "TEST", {**entries, AUDIT: SnapshotEntry(AUDIT, "100644", changed.encode())})
+                failures = validate_audit_workflow(snap, policy)
                 self.assertTrue(failures)
 
     def test_all_workflow_shell_steps_parse(self) -> None:
@@ -120,6 +126,32 @@ class AuditReportingTests(unittest.TestCase):
                                 text=True, capture_output=True, check=False,
                             )
                             self.assertEqual(result.returncode, 0, result.stderr)
+
+    def test_execution_summary_preserves_large_reports_in_bounded_log_lines(self) -> None:
+        script = workflow(AUDIT)["jobs"]["audit"]["steps"][-1]["run"]
+        program = script.split("python - <<'PY'\n", 1)[1].rsplit("\nPY", 1)[0]
+        report = {
+            "outcome": "success", "seconds": 1.5, "tests_run": 300, "skipped": 0,
+            "shadow_plan": {
+                "proposed_profile": "full", "excluded_ids": [],
+                "selected_ids": [f"test_{i}_" + "fixture" * 40 for i in range(300)],
+            },
+        }
+        self.assertGreater(len(json.dumps(report)), 65536)
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            summary = root / "summary.md"
+            (root / "test-timings.json").write_text(json.dumps(report), encoding="utf-8")
+            output = io.StringIO()
+            with mock.patch.dict(os.environ, {"RUNNER_TEMP": str(root), "GITHUB_STEP_SUMMARY": str(summary)}, clear=True), contextlib.redirect_stdout(output):
+                exec(compile(program, "execution-summary", "exec"), {})
+            emitted = output.getvalue()
+            payload = emitted.split("AUDIT_EXECUTION_REPORT_BEGIN: test-timings.json\n", 1)[1].split("\nAUDIT_EXECUTION_REPORT_END:", 1)[0]
+            self.assertEqual(json.loads(payload), report)
+            self.assertLess(max(map(len, emitted.splitlines())), 1024)
+            self.assertIn("Tests executed: 300; skipped: 0", summary.read_text())
+            self.assertIn("Actual execution remained full", summary.read_text())
+            self.assertIn("Archive validation: no completed report", summary.read_text())
 
     def test_unchanged_housekeeping_dispatches_only_after_current_head_checks(self) -> None:
         if not shutil.which("bash"):
