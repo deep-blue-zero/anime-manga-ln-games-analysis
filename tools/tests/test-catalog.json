@@ -1,0 +1,2760 @@
+{
+  "schema": "repository-test-catalog/v1",
+  "tests": {
+    "test_analytical_preflight.AnalyticalPreflightTests.test_new_root_defers_only_routing_and_preserves_all_authored_bytes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "new root defers only routing and preserves all authored bytes"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_materialized_outputs_require_no_deferral": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "materialized outputs require no deferral"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_empty_branch_is_not_a_new_root": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "empty branch is not a new root"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_real_new_root_requires_a_descriptor": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "real new root requires a descriptor"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_projection_does_not_make_draft_entrypoint_current": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "projection does not make draft entrypoint current"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_projection_does_not_repair_or_ignore_a_broken_character_index": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "projection does not repair or ignore a broken character index"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_projector_cannot_expand_its_write_boundary": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "projector cannot expand its write boundary"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_fixture_baseline_handles_inherited_pending_root_without_changing_content": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "fixture baseline handles inherited pending root without changing content"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_cli_pending_then_materialized_integration": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py"
+      ],
+      "purpose": "cli pending then materialized integration"
+    },
+    "test_analytical_preflight.AnalyticalPreflightTests.test_nonregular_descriptor_is_not_admissible": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_analytical_preflight.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "nonregular descriptor is not admissible"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_content_plan_keeps_live_checks_and_smoke_and_is_advisory": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "content plan keeps live checks and smoke and is advisory"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_controls_unknown_paths_and_embedded_scripts_force_full": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "controls unknown paths and embedded scripts force full"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_registry_and_sheet_data_remain_content_candidates": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "registry and sheet data remain content candidates"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_missing_baseline_unknown_tests_and_runtime_force_full": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "missing baseline unknown tests and runtime force full"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_selection_cannot_be_enabled_by_flipping_policy": {
+      "group": "regression",
+      "smoke": true,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "selection cannot be enabled by flipping policy"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_malformed_policy_groups_fail_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "malformed policy groups fail closed"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_complete_delta_uses_no_renames_and_exact_base": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "complete delta uses no renames and exact base"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_index_diff_and_unavailable_baselines_do_not_use_latest_commit_only": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "index diff and unavailable baselines do not use latest commit only"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_catalog_rejects_stale_duplicate_and_missing_mandatory_groups": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "catalog rejects stale duplicate and missing mandatory groups"
+    },
+    "test_audit_execution.ExecutionPlanTests.test_uncatalogued_test_is_retained_for_full_execution": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "uncatalogued test is retained for full execution"
+    },
+    "test_audit_execution.ExecutionResultTests.test_timed_runner_preserves_failures_errors_subtests_and_skips": {
+      "group": "regression",
+      "smoke": true,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "timed runner preserves failures errors subtests and skips"
+    },
+    "test_audit_execution.ExecutionResultTests.test_shadow_executes_every_discovered_test_once": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "shadow executes every discovered test once"
+    },
+    "test_audit_execution.ExecutionResultTests.test_empty_discovery_cannot_succeed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "empty discovery cannot succeed"
+    },
+    "test_audit_execution.ExecutionResultTests.test_telemetry_cannot_pollute_repository_and_records_failure": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_execution.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "telemetry cannot pollute repository and records failure"
+    },
+    "test_audit_reporting.AuditReportingTests.test_report_is_bound_to_audited_sha_not_dispatch_default_head": {
+      "group": "regression",
+      "smoke": true,
+      "inputs": [
+        "tools/tests/test_audit_reporting.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "report is bound to audited sha not dispatch default head"
+    },
+    "test_audit_reporting.AuditReportingTests.test_preflight_pending_and_unsuccessful_runs_never_report_success": {
+      "group": "regression",
+      "smoke": true,
+      "inputs": [
+        "tools/tests/test_audit_reporting.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "preflight pending and unsuccessful runs never report success"
+    },
+    "test_audit_reporting.AuditReportingTests.test_stable_source_is_pending_even_when_routing_is_current": {
+      "group": "regression",
+      "smoke": true,
+      "inputs": [
+        "tools/tests/test_audit_reporting.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "stable source is pending even when routing is current"
+    },
+    "test_audit_reporting.AuditReportingTests.test_invalid_target_is_rejected_before_a_status_write": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_reporting.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "invalid target is rejected before a status write"
+    },
+    "test_audit_reporting.AuditReportingTests.test_reporter_and_validation_permission_boundaries_are_enforced": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_reporting.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "reporter and validation permission boundaries are enforced"
+    },
+    "test_audit_reporting.AuditReportingTests.test_all_workflow_shell_steps_parse": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_reporting.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "all workflow shell steps parse"
+    },
+    "test_audit_reporting.AuditReportingTests.test_unchanged_housekeeping_dispatches_only_after_current_head_checks": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_reporting.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "unchanged housekeeping dispatches only after current head checks"
+    },
+    "test_audit_reporting.AuditReportingTests.test_superseded_housekeeping_exits_before_generation": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_audit_reporting.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "superseded housekeeping exits before generation"
+    },
+    "test_character_index_v2.CanonicalizationTests.test_jsonl_decoder_preserves_physical_nonblank_line_numbers": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "jsonl decoder preserves physical nonblank line numbers"
+    },
+    "test_character_index_v2.CanonicalizationTests.test_normative_evidence_golden_vector": {
+      "group": "regression",
+      "smoke": true,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "normative evidence golden vector"
+    },
+    "test_character_index_v2.CanonicalizationTests.test_full_default_non_turkic_casefold": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "full default non turkic casefold"
+    },
+    "test_character_index_v2.CanonicalizationTests.test_nfd_is_rejected": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "nfd is rejected"
+    },
+    "test_character_index_v2.CanonicalizationTests.test_repository_paths_reject_raw_dot_empty_fragment_and_c1_segments": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "repository paths reject raw dot empty fragment and c1 segments"
+    },
+    "test_character_index_v2.CanonicalizationTests.test_all_reference_keywords_reject_remote_targets_without_network": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "all reference keywords reject remote targets without network"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_subject_alias_variance_does_not_create_entity_drift": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "subject alias variance does not create entity drift"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_entity_alias_variance_is_entity_drift": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "entity alias variance is entity drift"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_normalized_alias_overlap_across_scopes_fails": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "normalized alias overlap across scopes fails"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_alias_note_boundary_whitespace_and_c1_control_fail": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "alias note boundary whitespace and c1 control fail"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_absent_evidence_paths_still_receive_strict_syntax_validation": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "absent evidence paths still receive strict syntax validation"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_unpromoted_draft_cannot_be_included_character_evidence": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "unpromoted draft cannot be included character evidence"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_present_reviewed_and_current_included_record_passes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "present reviewed and current included record passes"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_mixed_materialization_is_rejected": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "mixed materialization is rejected"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_materialization_review_and_nonblob_permutations": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "materialization review and nonblob permutations"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_same_series_composite_and_projection": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "same series composite and projection"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_cross_series_composite_fails": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "cross series composite fails"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_composite_cycle_fails": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "composite cycle fails"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_nested_composite_duplicate_leaf_reachability_fails": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "nested composite duplicate leaf reachability fails"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_composite_cannot_inherit_leaf_evidence_or_inclusion": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "composite cannot inherit leaf evidence or inclusion"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_render_declares_scoped_post_cutover_git_authority": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "render declares scoped post cutover git authority"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_input_reordering_does_not_change_rendered_bytes": {
+      "group": "regression",
+      "smoke": true,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "input reordering does not change rendered bytes"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_entity_grouping_alias_once_and_segment_url_encoding": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "entity grouping alias once and segment url encoding"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_markdown_link_validator_rejects_malformed_and_separator_escapes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "markdown link validator rejects malformed and separator escapes"
+    },
+    "test_character_index_v2.DiscoveryContractTests.test_same_preferred_name_groups_follow_full_frozen_record_order": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "same preferred name groups follow full frozen record order"
+    },
+    "test_character_index_v2.DiscoverySchemaPathTests.test_raw_unsafe_path_forms_fail_schema": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "raw unsafe path forms fail schema"
+    },
+    "test_character_index_v2.DiscoverySchemaPathTests.test_every_full_string_pattern_uses_absolute_end_guard": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "every full string pattern uses absolute end guard"
+    },
+    "test_character_index_v2.DiscoverySchemaPathTests.test_terminal_controls_fail_human_text_and_ontology_ids": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "terminal controls fail human text and ontology ids"
+    },
+    "test_character_index_v2.DiscoverySchemaPathTests.test_terminal_lf_fails_every_discovery_string_grammar": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "terminal lf fails every discovery string grammar"
+    },
+    "test_character_index_v2.DiscoverySchemaPathTests.test_schema_diagnostics_are_numeric_stable_and_value_redacted": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "schema diagnostics are numeric stable and value redacted"
+    },
+    "test_git_snapshot_io.BatchProtocolTests.test_binary_empty_and_duplicate_blobs_keep_exact_bytes": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "binary empty and duplicate blobs keep exact bytes"
+    },
+    "test_git_snapshot_io.BatchProtocolTests.test_bad_batch_responses_fail_closed": {
+      "group": "regression",
+      "smoke": true,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "bad batch responses fail closed"
+    },
+    "test_git_snapshot_io.BatchProtocolTests.test_invalid_requests_never_start_git_and_empty_requests_are_free": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "invalid requests never start git and empty requests are free"
+    },
+    "test_git_snapshot_io.BatchProtocolTests.test_git_failure_is_not_an_empty_success": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "git failure is not an empty success"
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_commit_and_index_match_individual_raw_reads_and_modes": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "commit and index match individual raw reads and modes"
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_process_count_is_bounded_and_duplicate_blobs_are_read_once": {
+      "group": "synthetic_git",
+      "smoke": true,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "process count is bounded and duplicate blobs are read once"
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_index_change_during_acquisition_is_rejected": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "index change during acquisition is rejected"
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_unmerged_index_is_rejected_before_blob_acquisition": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "unmerged index is rejected before blob acquisition"
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_new_index_snapshot_never_reuses_previous_staged_bytes": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "new index snapshot never reuses previous staged bytes"
+    },
+    "test_git_snapshot_io.SnapshotIOTests.test_sha256_object_format_is_supported": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_git_snapshot_io.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "sha256 object format is supported"
+    },
+    "test_global_index_automation.GlobalIndexAutomationTests.test_series_routing_does_not_depend_on_character_files": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_global_index_automation.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "series routing does not depend on character files"
+    },
+    "test_global_index_automation.GlobalIndexAutomationTests.test_legacy_character_proposals_are_never_replacement_inputs": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_global_index_automation.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "legacy character proposals are never replacement inputs"
+    },
+    "test_global_index_automation.GlobalIndexAutomationTests.test_write_and_check_preserve_character_bytes_and_proposals": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_global_index_automation.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "write and check preserve character bytes and proposals"
+    },
+    "test_global_index_automation.GlobalIndexAutomationTests.test_study_routing_remains_independent": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_global_index_automation.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "study routing remains independent"
+    },
+    "test_global_index_automation.GlobalIndexAutomationTests.test_existing_root_without_descriptor_preserves_registered_row": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_global_index_automation.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "existing root without descriptor preserves registered row"
+    },
+    "test_global_index_automation.GlobalIndexAutomationTests.test_new_root_without_descriptor_fails_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_global_index_automation.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "new root without descriptor fails closed"
+    },
+    "test_global_index_automation.GlobalIndexAutomationTests.test_branch_creation_without_a_root_is_a_noop": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_global_index_automation.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "branch creation without a root is a noop"
+    },
+    "test_global_index_automation.GlobalIndexAutomationTests.test_routing_descriptor_cannot_cross_branch_boundary": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_global_index_automation.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "routing descriptor cannot cross branch boundary"
+    },
+    "test_global_index_automation.GlobalIndexAutomationTests.test_branch_parser_rejects_cross_cutting_and_nested_names": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_global_index_automation.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "branch parser rejects cross cutting and nested names"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_restricted_yaml_rejects_nonstring_complex_mapping_keys": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "restricted yaml rejects nonstring complex mapping keys"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_supersession_paths_reject_raw_dot_fragment_and_c1_forms": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "supersession paths reject raw dot fragment and c1 forms"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_valid_status_metadata_and_exact_boolean_spellings": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "valid status metadata and exact boolean spellings"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_non_exact_opener_is_unclassified_legacy": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "non exact opener is unclassified legacy"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_exact_opener_invalid_surfaces_fail_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "exact opener invalid surfaces fail closed"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_restricted_yaml_constructs_fail_closed": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "restricted yaml constructs fail closed"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_wrong_type_status_fails_closed_without_value_echo": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "wrong type status fails closed without value echo"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_supersession_arrays_reject_wrong_types_members_and_duplicates": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "supersession arrays reject wrong types members and duplicates"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_boolean_spelling_is_exact_and_not_merely_yaml_truthy": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "boolean spelling is exact and not merely yaml truthy"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_current_status_with_veto_or_successor_is_contradictory": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "current status with veto or successor is contradictory"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_draft_noncurrent_preserves_veto_and_cannot_claim_supersession": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "draft noncurrent preserves veto and cannot claim supersession"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_partial_authority_quartet_is_unclassified_legacy_not_current": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "partial authority quartet is unclassified legacy not current"
+    },
+    "test_governance_authority.AuthorityFrontMatterTests.test_missing_quartet_is_unclassified_legacy_not_current": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "missing quartet is unclassified legacy not current"
+    },
+    "test_governance_authority.AuthorityGraphTests.test_canonical_provisional_historical_and_missing_classifications": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "canonical provisional historical and missing classifications"
+    },
+    "test_governance_authority.AuthorityGraphTests.test_reciprocal_supersession_has_one_current_sink": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "reciprocal supersession has one current sink"
+    },
+    "test_governance_authority.AuthorityGraphTests.test_three_node_chain_and_independent_components_are_valid": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "three node chain and independent components are valid"
+    },
+    "test_governance_authority.AuthorityGraphTests.test_each_one_sided_supersession_orientation_is_invalid": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "each one sided supersession orientation is invalid"
+    },
+    "test_governance_authority.AuthorityGraphTests.test_cyclic_reciprocal_graph_is_invalid": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "cyclic reciprocal graph is invalid"
+    },
+    "test_governance_authority.AuthorityGraphTests.test_self_edge_and_multiple_current_sinks_are_invalid": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "self edge and multiple current sinks are invalid"
+    },
+    "test_governance_authority.AuthorityGraphTests.test_exact_case_mismatch_is_dangling_and_noncurrent": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "exact case mismatch is dangling and noncurrent"
+    },
+    "test_governance_authority.AuthorityGraphTests.test_dangling_predecessor_and_successor_are_invalid": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "dangling predecessor and successor are invalid"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_epoch_one_git_authority_is_explicit_and_visibility_is_separate": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "epoch one git authority is explicit and visibility is separate"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_g8_activation_tuple_is_exact": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "g8 activation tuple is exact"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_g7_closure_and_active_prose_are_consistent": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "g7 closure and active prose are consistent"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_public_activation_evidence_tuple_is_exact": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "public activation evidence tuple is exact"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_owner_only_license_and_integrated_candidate_boundaries": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "owner only license and integrated candidate boundaries"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_local_and_github_connector_author_and_committer_identities_are_exact": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "local and github connector author and committer identities are exact"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_series_registry_is_unique_and_routes_fail_closed": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "series registry is unique and routes fail closed"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_g5_t01_maebashi_tuple_is_exact": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "g5 t01 maebashi tuple is exact"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_g5_t02_mass_effect_tuple_is_exact": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "g5 t02 mass effect tuple is exact"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_g6_source_provenance_closure_is_exact": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "g6 source provenance closure is exact"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_g6_all_materialized_representations_have_three_ledger_legs": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "g6 all materialized representations have three ledger legs"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_p02_exact_copy_and_reference_only_rows_are_consistent": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "p02 exact copy and reference only rows are consistent"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_p03_native_doc_sheet_candidate_is_exact_and_partial": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 native doc sheet candidate is exact and partial"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_p04_zip_references_are_exact_and_destination_free": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "p04 zip references are exact and destination free"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_historical_private_bootstrap_bindings_are_unchanged": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "historical private bootstrap bindings are unchanged"
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_p03_tsv_whitespace_exception_is_exact_and_not_broadened": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 tsv whitespace exception is exact and not broadened"
+    },
+    "test_nightly_integration.ControllerTests.test_merge_binds_head_and_explicitly_audits_returned_main": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "merge binds head and explicitly audits returned main"
+    },
+    "test_nightly_integration.ControllerTests.test_preview_never_pushes_creates_pr_or_merges": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "preview never pushes creates pr or merges"
+    },
+    "test_nightly_integration.ControllerTests.test_transport_uses_canonical_repository_metadata_url": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "transport uses canonical repository metadata url"
+    },
+    "test_nightly_integration.ControllerTests.test_preview_transport_rejects_every_mutation": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "preview transport rejects every mutation"
+    },
+    "test_nightly_integration.ControllerTests.test_source_drift_is_preserved_before_any_write": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "source drift is preserved before any write"
+    },
+    "test_nightly_integration.ControllerTests.test_main_drift_stops_integration": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "main drift stops integration"
+    },
+    "test_nightly_integration.ControllerTests.test_conflict_is_never_resolved_or_published": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "conflict is never resolved or published"
+    },
+    "test_nightly_integration.ControllerTests.test_failed_source_and_out_of_scope_paths_block_before_writes": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "failed source and out of scope paths block before writes"
+    },
+    "test_nightly_integration.ControllerTests.test_pending_preflight_never_satisfies_final_integration": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "pending preflight never satisfies final integration"
+    },
+    "test_nightly_integration.ControllerTests.test_post_merge_failure_retains_integrated_receipt_and_halts": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "post merge failure retains integrated receipt and halts"
+    },
+    "test_nightly_integration.ControllerTests.test_merge_conflict_response_is_read_back_without_retry": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "merge conflict response is read back without retry"
+    },
+    "test_nightly_integration.ControllerTests.test_holds_and_foreign_prs_are_respected": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "holds and foreign prs are respected"
+    },
+    "test_nightly_integration.ControllerTests.test_branch_inventory_is_filtered_and_halt_stops_next_candidate": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "branch inventory is filtered and halt stops next candidate"
+    },
+    "test_nightly_integration.ControllerTests.test_only_five_output_housekeeping_child_is_accepted": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "only five output housekeeping child is accepted"
+    },
+    "test_nightly_integration.ControllerTests.test_protection_requires_strict_status_and_owner_enforcement": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "protection requires strict status and owner enforcement"
+    },
+    "test_nightly_integration.ControllerTests.test_scope_allows_only_named_root_and_reviewed_shared_paths": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "scope allows only named root and reviewed shared paths"
+    },
+    "test_nightly_integration.ControllerTests.test_latest_status_and_trusted_workflow_identity": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "latest status and trusted workflow identity"
+    },
+    "test_nightly_integration.ControllerTests.test_reconciliation_is_a_nonforced_push_before_fresh_audit_and_merge": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "reconciliation is a nonforced push before fresh audit and merge"
+    },
+    "test_nightly_integration.ControllerTests.test_ambiguous_push_is_read_back_before_proceeding_or_halting": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "ambiguous push is read back before proceeding or halting"
+    },
+    "test_nightly_integration.ControllerTests.test_no_content_change_produces_no_remote_write": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "no content change produces no remote write"
+    },
+    "test_nightly_integration.ControllerTests.test_post_merge_timeout_does_not_accept_an_older_success": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "post merge timeout does not accept an older success"
+    },
+    "test_nightly_integration.ControllerTests.test_merge_requires_time_for_post_merge_validation": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "merge requires time for post merge validation"
+    },
+    "test_nightly_integration.ControllerTests.test_post_merge_dispatch_is_not_hidden_by_a_later_push_success": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "post merge dispatch is not hidden by a later push success"
+    },
+    "test_nightly_integration.PreviewResultTests.test_preview_deferral_warns_continues_and_succeeds": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "preview deferral warns continues and succeeds"
+    },
+    "test_nightly_integration.PreviewResultTests.test_apply_deferral_still_fails": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "apply deferral still fails"
+    },
+    "test_nightly_integration.PreviewResultTests.test_preview_execution_errors_fail_and_stop_scan": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "preview execution errors fail and stop scan"
+    },
+    "test_nightly_integration.RealGitTests.test_missing_git_objects_are_execution_errors_not_conflicts": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "missing git objects are execution errors not conflicts"
+    },
+    "test_nightly_integration.RealGitTests.test_clean_merge_preserves_both_histories_without_checkout": {
+      "group": "synthetic_git",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "clean merge preserves both histories without checkout"
+    },
+    "test_nightly_integration.ContractTests.test_reviewed_contract_validates": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py"
+      ],
+      "purpose": "reviewed contract validates"
+    },
+    "test_nightly_integration.ContractTests.test_changed_script_or_workflow_requires_reviewed_binding": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py"
+      ],
+      "purpose": "changed script or workflow requires reviewed binding"
+    },
+    "test_nightly_integration.ContractTests.test_rebinding_does_not_allow_wider_permissions_or_different_timezone": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_nightly_integration.py",
+        "tools/*.py"
+      ],
+      "purpose": "rebinding does not allow wider permissions or different timezone"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_first_sequential_reading_requires_synthesis_architecture_artifact": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "first sequential reading requires synthesis architecture artifact"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_method_without_synthesis_architecture_declaration_fails": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "method without synthesis architecture declaration fails"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_synthesis_architecture_without_method_declaration_fails": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "synthesis architecture without method declaration fails"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_entrypoint_must_identify_both_governing_artifacts": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "entrypoint must identify both governing artifacts"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_referenced_governing_artifacts_must_exist": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "referenced governing artifacts must exist"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_governing_artifacts_must_be_current_eligible": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "governing artifacts must be current eligible"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_sequential_reading_fails_while_lock_is_closed": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "sequential reading fails while lock is closed"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_sequential_reading_requires_present_well_formed_lock": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "sequential reading requires present well formed lock"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_sequential_reading_requires_initialized_infrastructure": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "sequential reading requires initialized infrastructure"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_bootstrap_only_project_may_remain_closed_and_incomplete": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "bootstrap only project may remain closed and incomplete"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_fully_initialized_new_project_with_first_reading_passes": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "fully initialized new project with first reading passes"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_new_root_requires_prospective_registry_marker": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "new root requires prospective registry marker"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_git_native_baseline_root_is_checked_before_its_next_reading": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "git native baseline root is checked before its next reading"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_legacy_root_uses_coherent_current_architecture_without_new_block": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "legacy root uses coherent current architecture without new block"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_baseline_readings_do_not_retroactively_require_initialization": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "baseline readings do not retroactively require initialization"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_pre_enforcement_branch_reading_uses_baseline_paths_not_authored_date": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "pre enforcement branch reading uses baseline paths not authored date"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_legacy_branch_reading_requires_routes_but_not_a_new_initialization_block": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "legacy branch reading requires routes but not a new initialization block"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_material_restart_requires_contract_even_when_all_paths_are_in_baseline": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "material restart requires contract even when all paths are in baseline"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_structured_role_not_filename_drives_detection": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "structured role not filename drives detection"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_untyped_sequential_directory_artifact_fails_closed": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "untyped sequential directory artifact fails closed"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "current repository examples remain compatible"
+    },
+    "test_reconstruction_capability.EvidenceSetContractTests.test_normative_golden_digest_and_exact_bytes": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "normative golden digest and exact bytes"
+    },
+    "test_reconstruction_capability.EvidenceSetContractTests.test_one_byte_crlf_path_and_anchor_changes_change_digest": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "one byte crlf path and anchor changes change digest"
+    },
+    "test_reconstruction_capability.EvidenceSetContractTests.test_evidence_reference_grammar_is_exact": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "evidence reference grammar is exact"
+    },
+    "test_reconstruction_capability.ReconstructionSchemaTests.test_basis_commit_requires_a_full_lowercase_object_id_shape": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "basis commit requires a full lowercase object id shape"
+    },
+    "test_reconstruction_capability.ReconstructionSchemaTests.test_every_full_string_pattern_uses_absolute_end_guard": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "every full string pattern uses absolute end guard"
+    },
+    "test_reconstruction_capability.ReconstructionSchemaTests.test_terminal_controls_fail_reconstruction_text_and_ids": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "terminal controls fail reconstruction text and ids"
+    },
+    "test_reconstruction_capability.ReconstructionSchemaTests.test_terminal_lf_fails_every_reconstruction_string_grammar": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "terminal lf fails every reconstruction string grammar"
+    },
+    "test_reconstruction_capability.ReconstructionSchemaTests.test_dimension_claim_conditionals_fail_closed": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "dimension claim conditionals fail closed"
+    },
+    "test_reconstruction_capability.ReconstructionSchemaTests.test_scenario_conditionals_fail_closed": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "scenario conditionals fail closed"
+    },
+    "test_reconstruction_capability.ReconstructionSchemaTests.test_known_limit_reference_conditionals_fail_closed": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "known limit reference conditionals fail closed"
+    },
+    "test_reconstruction_capability.ReconstructionSchemaTests.test_assessment_status_invariants_fail_closed": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "assessment status invariants fail closed"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_exact_claim_union_accepts_exact_set_and_rejects_extra_or_omitted": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "exact claim union accepts exact set and rejects extra or omitted"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_controlled_claim_coverage_and_limit_ids_are_unique": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "controlled claim coverage and limit ids are unique"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_abbreviated_basis_commit_fails_before_resolution": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "abbreviated basis commit fails before resolution"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_full_blob_object_id_is_not_a_basis_commit": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "full blob object id is not a basis commit"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_composite_cannot_borrow_leaf_evidence": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "composite cannot borrow leaf evidence"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_duplicate_subject_or_evidence_in_basis_registry_fails_closed": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "duplicate subject or evidence in basis registry fails closed"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_duplicate_evidence_id_in_basis_registry_fails_closed": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "duplicate evidence id in basis registry fails closed"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_historical_stale_assessment_reproduces_after_subject_removal": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "historical stale assessment reproduces after subject removal"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_historical_superseded_assessment_reproduces_after_subject_removal": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "historical superseded assessment reproduces after subject removal"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_authority_graph_only_change_requires_reviewed_assessment_to_be_stale": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "authority graph only change requires reviewed assessment to be stale"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_provisional_to_canonical_committed_byte_change_changes_digest": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "provisional to canonical committed byte change changes digest"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_reciprocal_supersession_rejects_incompatible_subject_scope": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "reciprocal supersession rejects incompatible subject scope"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_assessment_supersession_cycle_fails": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "assessment supersession cycle fails"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_unresolved_and_one_sided_assessment_links_fail_closed": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "unresolved and one sided assessment links fail closed"
+    },
+    "test_reconstruction_capability.GitBoundCapabilityTests.test_supersession_allows_revision_of_source_and_temporal_boundaries": {
+      "group": "dormant_reconstruction",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py",
+        "governance/schemas/*",
+        "governance/repository-controls/*"
+      ],
+      "purpose": "supersession allows revision of source and temporal boundaries"
+    },
+    "test_reconstruction_capability.DeliberateNonpopulationTests.test_production_capability_surfaces_do_not_exist": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_reconstruction_capability.py",
+        "tools/*.py"
+      ],
+      "purpose": "production capability surfaces do not exist"
+    },
+    "test_repository_indexes.RepositoryIndexTests.test_generated_repository_indexes_match_index": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_repository_indexes.py",
+        "tools/*.py"
+      ],
+      "purpose": "generated repository indexes match index"
+    },
+    "test_repository_indexes.RepositoryIndexTests.test_registered_root_topology_is_bidirectional": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_repository_indexes.py",
+        "tools/*.py"
+      ],
+      "purpose": "registered root topology is bidirectional"
+    },
+    "test_repository_indexes.RepositoryIndexTests.test_study_registry_and_obligation_map_are_valid": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_repository_indexes.py",
+        "tools/*.py"
+      ],
+      "purpose": "study registry and obligation map are valid"
+    },
+    "test_repository_indexes.RepositoryIndexTests.test_obligation_rules_detect_topology_and_registry_changes": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_repository_indexes.py",
+        "tools/*.py"
+      ],
+      "purpose": "obligation rules detect topology and registry changes"
+    },
+    "test_repository_indexes.RepositoryIndexTests.test_unchanged_required_outputs_can_satisfy_an_obligation": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_repository_indexes.py",
+        "tools/*.py"
+      ],
+      "purpose": "unchanged required outputs can satisfy an obligation"
+    },
+    "test_validate_repository.PhaseValidationTests.test_active_authority_uses_frozen_migration_provenance_baseline": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "active authority uses frozen migration provenance baseline"
+    },
+    "test_validate_repository.PhaseValidationTests.test_series_registry_entrypoint_routes_are_valid": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "series registry entrypoint routes are valid"
+    },
+    "test_validate_repository.PhaseValidationTests.test_series_registry_rejects_an_untracked_verified_entrypoint": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "series registry rejects an untracked verified entrypoint"
+    },
+    "test_validate_repository.PhaseValidationTests.test_series_registry_requires_the_entrypoint_status_field": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "series registry requires the entrypoint status field"
+    },
+    "test_validate_repository.PhaseValidationTests.test_series_registry_rejects_a_non_string_entrypoint_status": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "series registry rejects a non string entrypoint status"
+    },
+    "test_validate_repository.PhaseValidationTests.test_series_registry_rejects_a_historical_verified_entrypoint": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "series registry rejects a historical verified entrypoint"
+    },
+    "test_validate_repository.PhaseValidationTests.test_series_registry_rejects_a_path_for_missing_status": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "series registry rejects a path for missing status"
+    },
+    "test_validate_repository.PhaseValidationTests.test_production_named_text_exception_is_exactly_bound": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "production named text exception is exactly bound"
+    },
+    "test_validate_repository.PhaseValidationTests.test_production_furina_commonmark_exception_is_exactly_bound": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "production furina commonmark exception is exactly bound"
+    },
+    "test_validate_repository.PhaseValidationTests.test_furina_commonmark_exception_rejects_byte_or_line_shape_drift": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "furina commonmark exception rejects byte or line shape drift"
+    },
+    "test_validate_repository.PhaseValidationTests.test_furina_commonmark_exception_rejects_broader_attribute_rule": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "furina commonmark exception rejects broader attribute rule"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_crosswalk_three_leg_closure_and_snapshot_hashes_pass": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 crosswalk three leg closure and snapshot hashes pass"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_crosswalk_rejects_a_missing_plan_leg": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 crosswalk rejects a missing plan leg"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_crosswalk_rejects_duplicate_representation_id": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 crosswalk rejects duplicate representation id"
+    },
+    "test_validate_repository.PhaseValidationTests.test_g6_merged_source_group_rejects_nonidentical_source_tuple": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "g6 merged source group rejects nonidentical source tuple"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_crosswalk_rejects_exact_committed_hash_drift": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 crosswalk rejects exact committed hash drift"
+    },
+    "test_validate_repository.PhaseValidationTests.test_reference_only_crosswalk_rejects_a_destination": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "reference only crosswalk rejects a destination"
+    },
+    "test_validate_repository.PhaseValidationTests.test_study_crosswalk_requires_source_revision_and_path_on_every_leg": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "study crosswalk requires source revision and path on every leg"
+    },
+    "test_validate_repository.PhaseValidationTests.test_native_xlsx_reference_binds_source_revision_and_path": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "native xlsx reference binds source revision and path"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_native_sheet_schema_shape_hashes_and_crosswalk_pass": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 native sheet schema shape hashes and crosswalk pass"
+    },
+    "test_validate_repository.PhaseValidationTests.test_native_sheet_discovery_ignores_unrelated_structure_json": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "native sheet discovery ignores unrelated structure json"
+    },
+    "test_validate_repository.PhaseValidationTests.test_native_sheet_discovery_rejects_schema_id_orphan_manifest": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "native sheet discovery rejects schema id orphan manifest"
+    },
+    "test_validate_repository.PhaseValidationTests.test_native_sheet_schema_allows_ordinals_longer_than_two_digits": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "native sheet schema allows ordinals longer than two digits"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_native_sheet_rejects_missing_and_orphan_tabs": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 native sheet rejects missing and orphan tabs"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_native_sheet_rejects_hash_and_rectangularity_drift": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 native sheet rejects hash and rectangularity drift"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_native_sheet_rejects_an_untracked_worktree_projection": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 native sheet rejects an untracked worktree projection"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_native_sheet_rejects_name_collision_and_range_shape_drift": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 native sheet rejects name collision and range shape drift"
+    },
+    "test_validate_repository.PhaseValidationTests.test_p03_native_sheet_rejects_path_traversal_and_tracked_xlsx": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "p03 native sheet rejects path traversal and tracked xlsx"
+    },
+    "test_validate_repository.PhaseValidationTests.test_named_text_exception_allows_only_the_exact_large_bom_cr_tuple": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "named text exception allows only the exact large bom cr tuple"
+    },
+    "test_validate_repository.PhaseValidationTests.test_named_text_exception_grants_no_capability_to_another_path": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "named text exception grants no capability to another path"
+    },
+    "test_validate_repository.PhaseValidationTests.test_named_text_exception_must_name_a_present_snapshot_path": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "named text exception must name a present snapshot path"
+    },
+    "test_validate_repository.PhaseValidationTests.test_named_text_exception_does_not_waive_content_safety_or_utf8": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "named text exception does not waive content safety or utf8"
+    },
+    "test_validate_repository.PhaseValidationTests.test_named_text_exception_path_remains_hash_bound_below_threshold": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "named text exception path remains hash bound below threshold"
+    },
+    "test_validate_repository.PhaseValidationTests.test_malformed_named_text_exception_fails_closed": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "malformed named text exception fails closed"
+    },
+    "test_validate_repository.PhaseValidationTests.test_approved_repository_audit_workflow_is_non_mutating": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "approved repository audit workflow is non mutating"
+    },
+    "test_validate_repository.PhaseValidationTests.test_global_index_housekeeping_matches_bounded_write_contract": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "global index housekeeping matches bounded write contract"
+    },
+    "test_validate_repository.PhaseValidationTests.test_housekeeping_rejects_restored_character_write_policy": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "housekeeping rejects restored character write policy"
+    },
+    "test_validate_repository.PhaseValidationTests.test_housekeeping_rejects_reactivated_character_input": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "housekeeping rejects reactivated character input"
+    },
+    "test_validate_repository.PhaseValidationTests.test_housekeeping_rejects_character_generation_staging_and_write_allowance": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "housekeeping rejects character generation staging and write allowance"
+    },
+    "test_validate_repository.PhaseValidationTests.test_repository_audit_requires_character_branch_trigger": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "repository audit requires character branch trigger"
+    },
+    "test_validate_repository.PhaseValidationTests.test_repository_audit_workflow_rejects_mutation_capability": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "repository audit workflow rejects mutation capability"
+    },
+    "test_validate_repository.PhaseValidationTests.test_repository_audit_workflow_rejects_shallow_history": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "repository audit workflow rejects shallow history"
+    },
+    "test_validate_repository.PhaseValidationTests.test_repository_audit_workflow_requires_exact_whitespace_exclusions": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "repository audit workflow requires exact whitespace exclusions"
+    },
+    "test_validate_repository.PhaseValidationTests.test_historical_g3_commit_exact_set": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "historical g3 commit exact set"
+    },
+    "test_validate_repository.PhaseValidationTests.test_current_git_index_is_the_live_path_authority": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "current git index is the live path authority"
+    },
+    "test_validate_repository.PhaseValidationTests.test_protected_bootstrap_hashes_are_unchanged": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "protected bootstrap hashes are unchanged"
+    },
+    "test_validate_repository.PhaseValidationTests.test_untracked_worktree_file_cannot_materialize_evidence": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "untracked worktree file cannot materialize evidence"
+    },
+    "test_validate_repository.PhaseValidationTests.test_basis_commit_rejects_abbreviation_uppercase_and_tree": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "basis commit rejects abbreviation uppercase and tree"
+    },
+    "test_validate_repository.PhaseValidationTests.test_g3_cli_reads_historical_git_objects": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "g3 cli reads historical git objects"
+    },
+    "test_validate_repository.PhaseValidationTests.test_g3_selection_is_immutable_and_tree_bound": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "g3 selection is immutable and tree bound"
+    },
+    "test_validate_repository.PhaseValidationTests.test_selected_non_head_commit_controls_identity_history": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "selected non head commit controls identity history"
+    },
+    "test_validate_repository.PhaseValidationTests.test_percent_encoded_markdown_paths_decode_before_resolution": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "percent encoded markdown paths decode before resolution"
+    },
+    "test_validate_repository.PhaseValidationTests.test_schema_deferral_rejects_a_nonempty_registry": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "schema deferral rejects a nonempty registry"
+    },
+    "test_validate_repository.PhaseValidationTests.test_schema_failure_short_circuits_domain_assumptions": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "schema failure short circuits domain assumptions"
+    },
+    "test_validate_repository.PhaseValidationTests.test_schema_diagnostic_uses_physical_jsonl_line_after_blank_lines": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "schema diagnostic uses physical jsonl line after blank lines"
+    },
+    "test_validate_repository.PhaseValidationTests.test_atomic_write_failure_preserves_prior_index_and_own_temp_boundary": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "atomic write failure preserves prior index and own temp boundary"
+    },
+    "test_validate_repository.PhaseValidationTests.test_populated_index_generates_from_index_then_checks_after_staging": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "populated index generates from index then checks after staging"
+    },
+    "test_validate_repository.PhaseValidationTests.test_current_worktree_cli_fails_closed_until_evidence_is_staged": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_validate_repository.py",
+        "tools/*.py"
+      ],
+      "purpose": "current worktree cli fails closed until evidence is staged"
+    }
+  }
+}
