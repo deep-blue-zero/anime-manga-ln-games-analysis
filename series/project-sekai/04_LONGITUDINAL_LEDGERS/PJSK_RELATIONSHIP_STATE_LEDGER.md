@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationship evidence through EVENT_0081; creative gratitude, time-qualified peer contact and Empty Len companionship; E0080 cross-unit and other defaults retained"
-analysis_cutoff: "EVENT_0081 I1; latest relationship/epistemic I3 EVENT_0080; REL-CROSS-MAFUYU-SHIZUKU-E0080 and REL-N25-EM-5 remain current"
+source_boundary: "N25 relationship evidence through EVENT_0083; Kanade-Ichika feedback and accommodated messaging, Honami-Ichika intended flower care; all current IDs retained"
+analysis_cutoff: "EVENT_0083 I1; latest relationship/epistemic I3 EVENT_0080; REL-CROSS-MAFUYU-SHIZUKU-E0080 and REL-N25-EM-5 remain current"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-Relationship authority reaches **EVENT_0081**, with I1 creative-gratitude, ordinary-contact and manifestation-companionship evidence. Mafuyu–Shizuku remains **`REL-CROSS-MAFUYU-SHIZUKU-E0080`**, the latest bounded relationship/epistemic I3. EVENT_0079’s Ena–Akito increment and EVENT_0077’s **`REL-N25-EM-5`** remain valid. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku’s `REL-N25-GM-E0054` and N25 Len’s `REL-N25-VS-LEN-GROUP-E0061` remain distinct. Cross-unit entries do not establish complete other-unit systems.
+Relationship authority reaches **EVENT_0083**, with I1 Kanade–Ichika musical feedback and ordinary-message accommodation, plus qualified intended flower care. EVENT_0081’s creative-gratitude and companionship increments remain valid; EVENT_0082 was documentary I0. Mafuyu–Shizuku remains **`REL-CROSS-MAFUYU-SHIZUKU-E0080`**, the latest bounded relationship/epistemic I3. EVENT_0079’s Ena–Akito increment and EVENT_0077’s **`REL-N25-EM-5`** remain valid. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku’s `REL-N25-GM-E0054` and N25 Len’s `REL-N25-VS-LEN-GROUP-E0061` remain distinct. Cross-unit entries do not establish complete other-unit systems.
 
-Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. `REL-CROSS-MAFUYU-SHIZUKU-E0033` remains the historical analytical default through EVENT_0079, with newly revealed first-year observations applied only to their depicted times. The next forward event is EVENT_0082. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
+Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. `REL-CROSS-MAFUYU-SHIZUKU-E0033` remains the historical analytical default through EVENT_0079, with newly revealed first-year observations applied only to their depicted times. The next forward event is EVENT_0084. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
 
 ## 1. Purpose
 
@@ -1660,3 +1660,11 @@ Preserve `REL-N25-EM-5`, `REL-N25-KM-7`, all other N25 dyad/group defaults, `REL
 - **Ena–Akito / `REL-FAMILY-ENA-AKITO-E0014`: PRESERVE with reported increment.** His weight-related holiday remark influences her running, but this causal account is private to her and the audience (`PJSK:event:0081:07:005:0015–0017`). Do not give Kanade/Honami that knowledge or convert the joke into a new governing sibling state.
 
 The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0081_DEEP_READING.md) separately retains Tsukasa/Saki/mother familiarity, Nene/Ichika reciprocal music interest, An/Kohane chosen matching, VBS teaching/team play, An/Haruka's explicit preferred ambition, Hinata's interested support and unit-specific singer/robot relations for founded comparison. No N25 relationship ID is superseded. Next EVENT_0082.
+
+## EVENT_0083 relationship increment — feedback without assuming availability
+
+- **Kanade–Ichika / `REL-CROSS-KANADE-ICHIKA-E0042`: STRENGTHEN.** Ichika credits earlier help, chooses a message rather than assuming another visit is convenient, and sends both videos. Kanade has watched both and offers affirmative musical feedback. Ichika explicitly accommodates slow phone input; thanks and matching goodnight stickers carry ordinary reciprocity beside musical admiration (`PJSK:card:0580:01:001:0012–0049`). Her careful drafting does not imply estrangement, and her wish to work together again is not a booked session. The EVENT_0076 mentor/creative-reciprocity refinement remains sufficient; no new dyad ID.
+- **Kanade–Honami / `REL-CROSS-KANADE-HONAMI-E0002`: PRESERVE with intended-care increment.** Honami has asked Ichika which flowers to bring to Kanade next. Actual flower selection is shown in the later florist scene, but delivery and Kanade's response are not (`PJSK:card:0580:01:001:0052–0053`; `PJSK:card:0580:02:002:0018–0034`). This extends the existing care network without granting Kanade knowledge of every planning conversation.
+- **Minori-group familiarity: bounded report.** Ichika recalls Minori introducing the otter sticker set and earlier group exchanges. Her guess that Kanade used stickers because typing was difficult is not Kanade's explicit historical explanation (`PJSK:card:0580:01:001:0017`; `PJSK:card:0580:01:001:0039–0043`). No independent new Kanade–Minori state is required.
+
+Preserve every other N25 human/group/manifestation default, including `REL-CROSS-MAFUYU-SHIZUKU-E0080` and `REL-N25-EM-5`. Haruka–Honami advice/returned gratitude, Honami's accepted maternal help, Shiho's recognition of earlier strength, and Kohane/Rui/Tsukasa assistance are materially routed in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0083_DEEP_READING.md), pending their unit foundations. Next EVENT_0084.

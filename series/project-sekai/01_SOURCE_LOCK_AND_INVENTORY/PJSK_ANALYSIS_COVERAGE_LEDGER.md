@@ -49,14 +49,14 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — updated through EVENT_0082 on 2026-09-09
+### Current coverage — updated through EVENT_0083 on 2026-09-09
 
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
-- Latest closed forward transaction: `EVENT_0082`, N25 I0 documentary closure; next forward operation: `EVENT_0083`. Latest positive N25 evidence remains `EVENT_0081`, I1 creative-support/ordinary-life increment. Latest relationship/epistemic I3 remains `EVENT_0080`, with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. Preserve `REL-N25-EM-5` and the EVENT_0077 desire/disclosure corrections. Latest global human-state transition remains `EVENT_0072`. Apply EVENT_0081 evidence with the preserved tuple and prior refinements.
+- Latest closed forward transaction and positive N25 evidence: `EVENT_0083`, I1 musical-feedback/ordinary-contact increment; next forward operation: `EVENT_0084`. EVENT_0082 remains documentary I0. Latest relationship/epistemic I3 remains `EVENT_0080`, with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. Preserve `REL-N25-EM-5` and the EVENT_0077 desire/disclosure corrections. Latest global human-state transition remains `EVENT_0072`. Apply EVENT_0083 and earlier evidence with the preserved tuple and prior refinements.
 - Current N25 tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
 - Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
-- Franchise routing inventory reaches EVENT_0082, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0082 universal screens and earlier reusable complete readings retain their bounded authority.
+- Franchise routing inventory reaches EVENT_0083, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0083 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
 
@@ -876,3 +876,20 @@ CURRENT AUTHORITY AFTER EVENT_0082
 - N25 foundation complete; four other foundations and material deferred integration pending.
 - Twenty-one earlier universal-screen gaps remain; EVENT_0046–0082 and earlier reusable envelopes preserved.
 - Reconstruction/readiness, unit/specialist/full-series syntheses, final audits and protected integration remain incomplete.
+
+EVENT_0083 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I1 / OTHER_UNITS_DEFERRED
+
+Artifact: [LEO_NEED/PJSK_EVENT_0083_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0083_DEEP_READING.md).
+All 23 canonical surfaces read and manifest-matched: core 01–08, cards 0576–0580 both halves, five band_12 areas. Archive publication and chapter-8 unlock condition 108208 / episode 1000672 remain separate from initial availability; earlier history, preparatory strain and later successful practice retain their own chronology.
+
+N25 CROSS_UNIT/MEDIUM/I1/R2 yields bounded Kanade–Ichika musical feedback, accommodated messaging and qualified intended flower care. Four affected ledgers updated; CLAIM_REVISION/THEME_AND_MOTIF preserved because no governing revision is required. No new state, claim or theme ID. Leo/need PRIMARY/VERY_HIGH/R3, MMJ CROSS_UNIT/HIGH/R2 and WxS/VBS CROSS_UNIT/MEDIUM/R2 preserve material deferred responsibilities. All six SEKAI singers are Classroom-specific; software Miku remains distinct.
+
+CURRENT AUTHORITY AFTER EVENT_0083
+
+- Latest positive/documentary frontier EVENT_0083; next EVENT_0084.
+- Strengthen `REL-CROSS-KANADE-ICHIKA-E0042`; preserve `REL-CROSS-KANADE-HONAMI-E0002` with intended-care qualification. Other current dyad/group/manifestation IDs remain.
+- Latest relationship/epistemic I3 EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve `REL-N25-EM-5` and E0077 desire/disclosure corrections.
+- Latest global human-state transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` unchanged.
+- N25 foundation complete; four other foundations and subsequent material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; EVENT_0046–0083 and earlier reusable envelopes preserved.
+- Principal-human reconstruction/readiness, unit/specialist/full-series synthesis, final audits and protected integration remain incomplete.

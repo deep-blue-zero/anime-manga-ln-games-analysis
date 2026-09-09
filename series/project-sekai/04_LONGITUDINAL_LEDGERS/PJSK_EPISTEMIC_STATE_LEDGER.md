@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic increments through EVENT_0081; observed public improvisation, bounded name/itinerary sharing and private motives kept separate"
-analysis_cutoff: "EVENT_0081 I1 evidence; latest bounded relationship/epistemic I3 EVENT_0080; E0077 desire/disclosure corrections retained"
+source_boundary: "N25 epistemic increments through EVENT_0083; direct video feedback and phone-input disclosure, hypothetical activity/prior-sticker causes and planned flower reception kept separate"
+analysis_cutoff: "EVENT_0083 I1 evidence; latest bounded relationship/epistemic I3 EVENT_0080; E0077 desire/disclosure corrections retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic boundary is **EVENT_0081**, adding directly witnessed public creative competence and bounded social information without a governing state replacement. EVENT_0080’s support offer, preserved causal ignorance and private recipient memory remain current; EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
+The latest integrated epistemic boundary is **EVENT_0083**, adding Kanade’s direct musical feedback and phone-input disclosure while separating Ichika’s hypotheses and prospective care. EVENT_0081’s public creative-competence and bounded social information remain valid; EVENT_0082 was documentary I0. No governing state is replaced. EVENT_0080’s support offer, preserved causal ignorance and private recipient memory remain current; EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
 
-Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0082; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
+Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0084; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
 
 ## 1. Purpose
 
@@ -1412,3 +1412,16 @@ Mizuki's guarded content remains undisclosed. No N25 manifestation obtains Stage
 Classroom, Stage, Street, Wonderland and Empty manifestations remain separate. Classroom/VBS singers conceal themselves around visitors; MMJ singers appear during a broadcast pause; Miku's discreet mall watching preserves the existing boundary. Wonderland 0567:02 independently supplies its singers' tour-viewing report and corrects Luka's imagined jungle ending (`PJSK:card:0567:02:001:0002–0012`). No shared-memory shortcut is licensed. N25 KAITO does not appear.
 
 The play's god, ten-year journeys, ages and castle are fictional events inside a performance. Fortunes and dream-picture claims are character beliefs/customs, not reliable forecasts or proven dream control. Proposed consultation, invitations, robot adaptations, repaired mechanisms and future performances remain distinct from completed actions. Preserve Mizuki's guarded-content boundary, the E0080 Shizuku knowledge limits and all current N25 states. Next EVENT_0082.
+
+## EVENT_0083 knowledge increment — a message supplies less than an imagined scene
+
+| Holder / class | Usable evidence | Limit |
+|---|---|---|
+| Ichika / private attribution | She believes Kanade's lesson helped the Miku version's growth and actually reports publication with both links. | `PJSK:card:0580:01:001:0012–0024`. Her gratitude is direct evidence of attribution, not proof of exclusive quantitative causation. |
+| Ichika / unconfirmed inference | While waiting, she imagines Kanade composing and perhaps not noticing until tomorrow. | `PJSK:card:0580:01:001:0025–0033`. No observed Kanade activity confirms this. |
+| Ichika / direct disclosure | Kanade explains difficulty typing on a phone and an accidental partial send, then reports some improvement. | `PJSK:card:0580:01:001:0035–0043`. This specific disclosure does not establish general technical incompetence. |
+| Ichika / recollection plus hypothesis | She recalls prior group stickers and Minori's introduction of the otter set; she guesses a typing-related reason for the older replies. | `PJSK:card:0580:01:001:0039–0043`. Recollection and causal guess remain distinct. |
+| Ichika / direct message | Kanade says she watched both videos, approves the performance/song and expects more growth. | `PJSK:card:0580:01:001:0044–0049`. The assessment is known; future views and another work session remain prospective. |
+| Ichika, Honami / reported plan and later action | Honami consulted Ichika about flowers for Kanade; flowers are subsequently selected for an acquaintance's home. | `PJSK:card:0580:01:001:0052–0053`; `PJSK:card:0580:02:002:0018–0034`. Kanade's receipt, response and awareness of planning are not established. |
+
+Only Classroom manifestations appear in the SEKAI scenes. Miku's relational reading of Ichika's coauthor language explicitly distinguishes the software singer and her own direct production role; it does not transmit Empty-Miku memory (`PJSK:card:0579:01:001:0021–0032`). The shared reading also preserves the music director's private reassessment as audience-only, Haruka's actual receipt of Honami's thanks, tentative MMJ reservations and the difference between a completed practice set and a future public show. Preserve E0080's support/disclosure limits, E0077's historical corrections and Mizuki's guarded content. Next EVENT_0084.
