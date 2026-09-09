@@ -399,23 +399,29 @@ The Year-2 project now has a dedicated synthesis home:
   - responsibility: retrospective revision architecture, Volume-0 and Second List consequences, preserved local truth, and source-verified cohort-routing correction
   - the 62 Volume-0 revelation rows and 42 inherited handoff states remain unchanged
 
+### Canonical `Y2_11` specialist
+
+- [COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md](../05%20Year-Level%20Synthesis/COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md)
+  - status: `canonical`; boundary `Y2SL`; Year 3 narrative evidence excluded
+  - responsibility: six comparative matrix families, exact inheritance of all 42 terminal handoff states, four strict closure conditions, 13 partial tests, seven reframed lenses, and 12 new or refined `Y2H` boundary tests
+  - analytical handoff only: no Year-3 answer, high-water mark, or execution; the release gate remains closed until all remaining closure duties are verified
+
 ### Remaining specialist/full-synthesis artifacts
 
-- `COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md`
 - `COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md`
 - `COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md`
 - `COTE_Y2_FULL_SYNTHESIS.md`
 
 ## Next architecture-defined step
-**Produce `COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md`.**
+**Produce `COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md`.**
 
-`Y2_01` owns the canonical Year-2 causal spine, `Y2_02` the integrated Ayanokōji psychology/ethics/voice argument, `Y2_03` Horikita leadership/self-authorship/class formation, `Y2_04` the directed relationship system, `Y2_05` the comparative four-polity constitutional argument, `Y2_06` the integrated ability/meritocracy/measurement/points/examination argument, `Y2_07` the institutional-governance/surveillance/adult-power/White-Room argument, `Y2_08` the integrated ethics/autonomy/protection/expulsion/violence argument, and `Y2_09` the integrated Japanese narration/written-voice/genre/humor/visual-paratext argument. `Y2_10` now owns retrospective claim transitions and the direct cohort-routing correction. The next task consolidates comparative matrices and carries the exact unresolved Year-2 conditions into a future Year-3 test register; it supplies no Year-3 answers.
+`Y2_01` owns the canonical Year-2 causal spine, `Y2_02` the integrated Ayanokōji psychology/ethics/voice argument, `Y2_03` Horikita leadership/self-authorship/class formation, `Y2_04` the directed relationship system, `Y2_05` the comparative four-polity constitutional argument, `Y2_06` the integrated ability/meritocracy/measurement/points/examination argument, `Y2_07` the institutional-governance/surveillance/adult-power/White-Room argument, `Y2_08` the integrated ethics/autonomy/protection/expulsion/violence argument, and `Y2_09` the integrated Japanese narration/written-voice/genre/humor/visual-paratext argument. `Y2_10` now owns retrospective claim transitions and the direct cohort-routing correction. `Y2_11` now owns the comparative matrices and analytical handoff. The next task consolidates the route from synthesis claim through canonical artifact and evidence ID to the deterministic Japanese-source locator.
 
-Recommended sequence:
-1. produce `COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md`;
-2. continue the architecture-defined Year-2 specialist syntheses, using canonical through-Y2 ledgers and immutable source-local readings as authorities;
-3. carry reconstruction-relevant distinctions forward without letting the derivative protocol become source authority;
-4. produce `COTE_Y2_FULL_SYNTHESIS.md`;
-5. perform the protocol-vs-specialist audit and revise the protocol only where the completed specialist layer exposes a mismatch;
-6. consolidate `Y2_12` / `Y2_13`, update `Y2_00` in place to its mature release form, then perform corpus-map/manifest/checksum audit and next-year handoff;
-7. only then unlock Year 3.
+Remaining closeout sequence:
+1. complete `Y2_12` evidence routing and `Y2_13` Japanese-language retrieval from the verified sources;
+2. produce `COTE_Y2_FULL_SYNTHESIS.md` from the completed specialist layer;
+3. audit the reconstruction protocol against the completed synthesis and make only necessary authority/routing or substantive corrections;
+4. complete manifest, checksums, corpus index, delivery package and source/artifact/routing audits;
+5. update the current status and finalize `Y2_00` last as the stable frozen Year-2 entrypoint;
+6. publish the exact validated branch state, verify remote blobs and integration/housekeeping audits, then record Year-3 eligibility only when every gate condition is true;
+7. stop at the frozen Year-2 boundary; Y3V01 belongs to a later execution.
