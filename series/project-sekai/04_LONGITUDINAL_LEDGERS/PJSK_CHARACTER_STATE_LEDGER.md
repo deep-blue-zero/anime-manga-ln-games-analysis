@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 characterization through EVENT_0087; Ena reported lending/presentation preference and Empty Len/Rin ordinary companionship; no successor human state"
-analysis_cutoff: "EVENT_0087 I1; latest I2 EVENT_0084, relationship/epistemic I3 EVENT_0080; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained"
+source_boundary: "N25 characterization through EVENT_0089; Kanade recipient-directed protection after failed parental trust; three other human states retained"
+analysis_cutoff: "EVENT_0089 I3; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The verified forward analytical frontier is **EVENT_0087**, an I1 increment in Ena’s reported ordinary behavior and Empty Len/Rin companionship. EVENT_0084’s I2 refinement of Kanade’s supported nonmusical competence and reciprocal ordinary pleasure remains current; EVENT_0085/0086 added documentary closure only. EVENT_0083’s musical feedback, EVENT_0081’s public creative support and the intervening documentary I0 remain valid. EVENT_0080’s Mafuyu characterization and bounded relationship/epistemic transition remain controlling, alongside EVENT_0079’s Ena sibling evidence and EVENT_0077’s Ena/Mafuyu refinements. Current global human defaults remain **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. EVENT_0072 remains the latest human-state transition. Historical entries remain true only at their own recorded cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact.
+The verified forward analytical frontier is **EVENT_0089**, an I3 release with a Kanade psychological transition and independent relationship/epistemic changes. Current global human defaults are **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Kanade now sustains recipient-directed protection after failed trust in Mafuyu’s mother, while inheriting K-E0063-01’s bounded self-permission and EVENT_0084’s supported ordinary competence. Mafuyu’s covert lyrics and attempted refusal refine existing agency under tighter access constraints; they do not establish a first-ever wish, completed independence or taste recovery. Historical entries remain true only at their own cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact. Apply EVENT_0089’s separate knowledge/relationship records alongside all preserved earlier increments.
 
 Earlier summaries and pending queues are historical handoffs. The current model must also apply `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and the EVENT_0080/0077 epistemic/claim refinements, including the limit on EVENT_0072's “first explicit want” language. Other human-unit foundations and 21 earlier universal screens remain separate unfinished obligations. The frozen source boundary `PJSK_SOURCE_20260822T184634Z_EVENT_0213` confers no later analytical authority.
 
@@ -1318,3 +1318,32 @@ Empty Len already wants to give and seeks several singers' help before Kanade in
 Akito's recalled pancake conversation says people such as Ena also want attractive presentation and might perceive variable shapes as uneven outcomes. This is his characterization, not a new directly observed complaint or evidence that Ena puts appearance above taste. Preserve `E-E0070-01` with the existing presentation/pleasure model (`PJSK:card:0600:01:001:0018–0027`). His description of ordinary household curry supplies no specific Ena preference (`PJSK:area:areatalk_ev_shuffle_29_003:01:001:0002–0009`).
 
 No new human or manifestation-state ID. The complete mixed reading owns the 29-story envelope and other-unit deferred routes. Latest I2 remains EVENT_0084, relationship/epistemic I3 EVENT_0080 and global human transition EVENT_0072. Next EVENT_0088.
+
+## EVENT_0089 state transition — protective refusal without rescue resolution
+
+### `K-E0089-01` — recipient-directed protection after failed parental trust
+
+**Character:** Yoisaki Kanade. **Previous/default through EVENT_0088:** `K-E0063-01`, preserved historically. **Valid from:** the EVENT_0089 chapter-8 refusal, reaffirmed after the meeting in card 0612:02. **Valid through:** current EVENT_0089 analytical boundary. **Status:** current within cutoff. **Confidence:** high for the bounded transition; future implementation remains open.
+
+- **Transition trigger:** Kanade initially hopes that communicating Mafuyu’s wishes/distress will let a concerned mother understand. The mother instead treats discussion as persuading Mafuyu to accept the prescribed doctor future. Kanade explicitly refuses trust and declares that she will remain despite the parental demand (`PJSK:event:0089:07:003`; `PJSK:event:0089:08:002:0024–0057`). Reaffirmation at home distinguishes this from momentary opposition (`PJSK:card:0612:02:001:0053–0063`).
+- **Self-concept/goals:** a person who wants and feels obliged to save Mafuyu, now prepared to protect access to her chosen collaboration when parental agreement fails. Music continues; further forms of help are considered but a concrete distance arrangement is not yet made.
+- **Authority/agency:** Kanade can listen politely, question her own premise and then disagree directly with an adult. Her judgment is grounded in Mafuyu’s communicated experience and her own observations. It is not a universal rejection of parenthood or proof of infallibility.
+- **Emotional baseline/vulnerabilities:** concern, uncertainty and lasting coldness after the encounter coexist with resolve. Future-loss rhetoric affects her; solitary work displaces intended sleep and does not reliably restore concentration. Water overflowing during rumination demonstrates disrupted practical attention, not a diagnostic conclusion (`PJSK:card:0612:01:001:0024–0040`; `PJSK:card:0612:02:001:0038–0047`).
+- **Coping/dependencies:** shared work with Ena/Mizuki helps where solitary adjustment stalled; she accepts on-call help. Honami’s previously provided tea is selected and experienced as warmth. Received care supplies a model for care she wants to give. These supports do not dissolve rescue compulsion: “want to remain” becomes “must,” explicitly to save Mafuyu (`PJSK:card:0612:01:001:0054–0082`; `PJSK:card:0612:02:001:0053–0063`).
+- **Preserved development:** K-E0063-01’s bounded non-instrumental living, positive family memories and EVENT_0084’s supported nonmusical competence remain available. No father-guilt correction, robust body regulation or broad intrinsic self-worth is established.
+- **Relationship conditions:** use `REL-N25-KM-8`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089`, the preserved Ena/Mizuki/group support IDs and the new Empty KAITO group record. The hotel commitment is not shown to become Mafuyu’s knowledge.
+- **Knowledge constraints:** `EPI-N25-K-E0089` distinguishes what she learns, her marionette interpretation, her prognosis about the mother and withheld information. Her unfinished thought about distance is not an enacted invitation or plan.
+- **Speech/register:** formal listening and qualified first-person appraisal can coexist with categorical refusal. Ordinary embarrassment, thanks and conditional willingness to wear a blouse remain (`PJSK:area:areatalk_ev_night_12_001:01`). No general voice/personality replacement.
+- **Next-state pointer:** OPEN; future source evidence required.
+
+### Preserved human states, materially refined conditions
+
+**Mafuyu — `MF-E0072-01`:** wanting N25 music and trying to preserve it are already established. Current dinner refusal, covert phone lyrics and a brief SEKAI visit while the mother is away strengthen tactical agency under continuing attachment/conflict (`PJSK:event:0089:05:003`; `PJSK:card:0616:02:001:0036–0065`; `PJSK:area:areatalk_ev_night_12_003:01`). KAITO’s confrontation immediately produces flight; music explicitly provides relief and prompts writing. Do not turn the sequence into demonstrated efficacy of harshness. Archery helps an unnamed peer while her own regulation fails; offered parfait help is compatible with explicitly unknown taste (`PJSK:card:0616:01:001:0002–0033`; `PJSK:card:0614:02:001:0063–0074`). Preserve EVENT_0077’s correction of first-ever-wanting language and EVENT_0080’s bounded support history.
+
+**Ena — `E-E0070-01`:** worry disrupts color decisions and drawing, but does not revise the established art-continuation state. Anger and “nothing I can do” coexist with actual shopping initiative, companionship, on-call support and resumed work after Mizuki’s return-place proposal. Her renewed “say no” advice has limits shown by the dinner; it does not erase the E0077 learned distinction between unspoken and unheard wishes (`PJSK:card:0613:01`; `PJSK:card:0613:02`).
+
+**Mizuki — `MZ-E0039-01`:** accepts companionship for personal rumination, sustains ordinary talk for Mafuyu, proposes preserving N25 as a place to return and moderates Ena/KAITO friction. Genuine anime/fashion interest, self-chosen retail work and teasing remain ordinary evidence; guarded content is undisclosed (`PJSK:card:0614:01`; `PJSK:card:0614:02`; `PJSK:card:0615:02:001:0036–0037`).
+
+**Empty KAITO characterization:** anger about perceived stagnation, prioritization of resistance and rejection of what he calls indulgence are his initial stance. Miku supplies his history; the failed encounter and later discussion lead him privately to consider another approach. He can accept listening to Kanade’s music while reserving honest feedback (`PJSK:card:0615:01`; `PJSK:card:0615:02:001:0039–0054`; `PJSK:area:areatalk_ev_night_12_004:01`). This is manifestation-specific evidence, not a completed global VS reconstruction model.
+
+Current tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`. All earlier state history survives; no principal-human package gains readiness certification here. Next EVENT_0090.

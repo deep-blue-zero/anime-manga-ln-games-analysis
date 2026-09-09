@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0084; K-027 operationally revised for supported nonmusical co-production, K-071/K-081/K-042 strengthened; no new claim ID"
-analysis_cutoff: "EVENT_0084 I2 interpretive refinement; latest relationship/epistemic I3 EVENT_0080; current human tuple retained"
+source_boundary: "N25 claims through EVENT_0089; K-096/G-097/VS-098 added, maternal discovery resolved and established agency/care claims refined"
+analysis_cutoff: "EVENT_0089 I3; Kanade state and independent relationship/epistemic transitions with bounded claim review"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 claim authority reaches **EVENT_0084**, revising the operational breadth of `CR-N25-K-027` and strengthening `CR-N25-K-042`, `CR-N25-K-071` and `CR-N25-K-081` without a new claim ID or successor state. EVENT_0082/0083 required no governing claim change. EVENT_0080’s `CR-N25-MF-094` and `CR-N25-MF-095` remain controlling, as do EVENT_0077’s `CR-N25-E-091`, `CR-N25-MF-092`, `CR-N25-FAMILY-093` and chronological correction to `CR-N25-MF-088`. Earlier summaries are historical handoffs; revisions apply only within the requested analytical boundary. Latest bounded relationship/epistemic I3 remains EVENT_0080. Source currency does not advance claim authority.
+N25 claim authority reaches **EVENT_0089**, adding `CR-N25-K-096`, `CR-N25-G-097` and `CR-N25-VS-098`, resolving maternal search/discovery and refining established care/agency formulations. The release supports `K-E0089-01` and separate relationship/epistemic transitions; it does not revise Mafuyu into completed independence or taste recovery. EVENT_0084’s K-027 operational refinement and all valid prior increments remain. Preserve EVENT_0080’s MF-094/MF-095 and EVENT_0077’s E-091/MF-092/FAMILY-093, including the chronological correction to MF-088. Earlier summaries are historical handoffs; claim revisions apply only within their boundaries. Source currency alone confers no analytical authority.
 
 The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
 
@@ -1285,3 +1285,33 @@ EVENT_0042 already established simply enjoying mixed company, and EVENT_0063 add
 Kanade enables Len's desired gift; his articulation of shared pleasure helps her understand her own. Miku's earlier discussion helps Len even while its material problem remains unsolved. Help can produce a limited positive result or self-knowledge without solving every condition (`PJSK:card:0587:01:001:0023–0053`; `PJSK:event:0084:06:003:0064–0087`; `PJSK:event:0084:07:003:0060–0074`). Ordinary gifts need not be redescribed as salvation to count as consequential care.
 
 **PRESERVE** Mafuyu's bounded sensory/affective access, unresolved family authority and E0080/E0077 claim corrections. Her reported concentration response and apparently accepted study-break explanation are specific, not a general recovery or maternal-transformation finding (`PJSK:card:0585:02:001:0033–0053`). Preserve Ena/Mizuki's governing claims and guarded-content boundaries. No new claim ID; all current human and major relationship states remain. Next EVENT_0085.
+
+## EVENT_0089 claim revisions — authority, access and intervention consequences
+
+### `CR-N25-K-096` — parental standing does not settle whose wishes govern care
+
+**NEW / CANONICAL, Kanade-context bounded.** Kanade initially reasons from her own caring-parent experience, then directly encounters a mother who interprets the child’s distress as a reason to restore a preselected future. Her explicit refusal of trust and sustained commitment to remain support a new protective state, `K-E0089-01` (`PJSK:event:0089:07:003`; `PJSK:event:0089:08:002`; `PJSK:card:0612:02:001:0020–0063`).
+
+This is a corrected decision premise, not an assertion that every parent is harmful, Kanade never errs, the mother has no real care or will certainly never change. Positive family memory and persistent rescue obligation coexist. A thought about distance is not a completed protective arrangement.
+
+### `CR-N25-G-097` — preserving a support network can involve unequal access and unresolved consent tensions
+
+**NEW / CANONICAL, event-bounded operational rule.** Kanade limits face exposure to preserve other friends’ possible access, while Ena/Mizuki remain available and sustain N25 as a place to return. Kanade and the mother agree to conceal the meeting; Ena questions decisions made without Mafuyu. Care can be effective in some respects without becoming completely transparent or recipient-authorized (`PJSK:event:0089:03:002:0140–0181`; `PJSK:event:0089:08:002:0066–0069`; `PJSK:card:0613:02:001:0028–0075`).
+
+No universal endorsement of secrecy, complete network strategy, actual later rescue or equal knowledge is implied. Mafuyu remains an author of lyrics and choices even when excluded from this negotiation.
+
+### `CR-N25-VS-098` — confrontational intent, immediate harm and strategic reconsideration require separate judgments
+
+**NEW / CANONICAL, Empty KAITO only.** His demand for resistance draws on Miku’s report and his own interpretation. Mafuyu flees; Rin/Len object and later protect refuge. KAITO subsequently recalls the failed assertion and privately considers another approach, while accepting bounded musical participation (`PJSK:card:0615:01`; `PJSK:event:0089:06:002`; `PJSK:card:0615:02:001:0039–0054`; `PJSK:area:areatalk_ev_night_12_002:01`; `PJSK:area:areatalk_ev_night_12_004:01`).
+
+Do not label harshness a demonstrated cure, all refuge mere stagnation, or KAITO incapable of change. Mafuyu’s later lyric making is directly prompted by music; attributing that efficacy to confrontation exceeds the shown causal evidence.
+
+### Established formulations — refine and preserve
+
+- **`CR-N25-MF-003`, `CR-N25-FAMILY-079`, `CR-N25-FAMILY-093`: REVISE current evidentiary scope / STRENGTHEN coexistence.** Search and discovery are now directly shown, followed by recruitment of K and an effort to separate Mafuyu from collaborative music. Earlier OPEN states remain historical; remembered care is not falsified (`PJSK:event:0089:01:005`; `PJSK:event:0089:07:003`; `PJSK:event:0089:08:002`).
+- **`CR-N25-MF-088`, `CR-N25-MF-090`, `CR-N25-MF-092`: STRENGTHEN / context-bound.** Stated refusal, covert phone lyrics and brief conditioned visits show wanting/agency under constraints. Keep the E0077 first-ever-wanting correction; unknown taste is directly stated (`PJSK:event:0089:05:003`; `PJSK:card:0616:02`; `PJSK:card:0614:02:001:0063–0074`; `PJSK:area:areatalk_ev_night_12_003:01`).
+- **`CR-N25-MF-094`: STRENGTHEN limits on competence as wellness evidence.** Specific archery coaching helps a peer while Mafuyu’s own quieting effort fails (`PJSK:card:0616:01:001:0002–0033`).
+- **`CR-N25-E-091`: PRESERVE / guard against regression in interpretation.** Ena’s renewed direct assertion advice cannot be generalized into “saying no is enough”; dinner again shows an unheard wish, while companionship has a separately reported effect (`PJSK:event:0089:05:001`; `PJSK:event:0089:05:002`; `PJSK:event:0089:05:003`).
+- **`CR-N25-K-042`, `CR-N25-K-044`, `CR-N25-K-081`, `CR-N25-K-082`: STRENGTHEN differentiated inheritance.** Parental memories include positive self-directed permission; shared work and received tea help Kanade; persistent duty and sleep-displacing work remain (`PJSK:event:0089:02:002`; `PJSK:event:0089:08:002`; `PJSK:card:0612:01`; `PJSK:card:0612:02`). No guilt-resolution or general health-efficacy claim.
+
+Current tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; no additional claim IDs. Inherited collision qualifiers remain mandatory. Next EVENT_0090.

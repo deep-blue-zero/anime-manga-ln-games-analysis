@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0088; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0089; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2291,3 +2291,77 @@ next_event: EVENT_0089
 | Wonderland daily practice and helping | `PJSK:area:areatalk_ev_wonder_12_004:01`; `PJSK:area:areatalk_ev_wonder_12_005:01`; `PJSK:area:areatalk_monthly2304_004:01` | Nene prioritizes endurance and refuses comic dance; search for Luka offered; Rin's turn directly praised, later joint performance proposed. |
 
 All 24 declared witness rows are in the shared reading. WxS PRIMARY and Leo/need/VBS CROSS_UNIT remain material deferred routes. N25/MMJ are NONE; documentary N25 I0 advances closure only. Five substantive N25 ledgers remain byte-preserved and all current IDs/E0077 corrections survive. Next EVENT_0089; earlier gaps and remaining completion dependencies persist.
+
+## EVENT_0089 — イミシブル・ディスコード
+
+```yaml
+release_id: EVENT_0089
+release_bucket: RB_20230321T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0089:01, PJSK:event:0089:02, PJSK:event:0089:03, PJSK:event:0089:04, PJSK:event:0089:05, PJSK:event:0089:06, PJSK:event:0089:07, PJSK:event:0089:08]
+card_locators: [PJSK:card:0612:01, PJSK:card:0612:02, PJSK:card:0613:01, PJSK:card:0613:02, PJSK:card:0614:01, PJSK:card:0614:02, PJSK:card:0615:01, PJSK:card:0615:02, PJSK:card:0616:01, PJSK:card:0616:02]
+area_locators: [PJSK:area:areatalk_ev_night_12_001:01, PJSK:area:areatalk_ev_night_12_002:01, PJSK:area:areatalk_ev_night_12_003:01, PJSK:area:areatalk_ev_night_12_004:01, PJSK:area:areatalk_ev_night_12_005:01]
+
+chronology_note: "Core and cards 0615-0616 06:00Z; cards 0612-0614 03:00Z. Five night_12 areas archive-published March 21, no initial-availability buckets, separate chapter-8 condition 108808 / episode 1000720. Childhood memories, Friday announcement, Saturday confrontation, Sunday meeting, later introductions and short conditioned visits remain distinct."
+unit_routes:
+  N25:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: I3
+    reconstruction_yield: R3
+    characters: [Kanade, Mafuyu, Ena, Mizuki, Mafuyu_mother, Mafuyu_father, Kanade_mother_memory, Kanade_father_memory_and_report, unnamed_archery_peer, Honami_reported, unnamed_shop_working_classmate_reported]
+    manifestations: [N25_Miku, N25_Rin, N25_Len, N25_Luka, N25_MEIKO, N25_KAITO]
+    domains: [recipient_authority, parental_trust_revision, protective_commitment, rescue_obligation, reciprocal_care, controlled_access, secrecy, information_asymmetry, covert_creative_agency, failed_assertion, continued_attachment, fallible_intervention, strategy_revision, ordinary_fashion_food_work, concentration, bodily_strain, textual_register]
+    locators: [PJSK:event:0089, PJSK:card:0612, PJSK:card:0613, PJSK:card:0614, PJSK:card:0615, PJSK:card:0616, PJSK:area:areatalk_ev_night_12_001:01, PJSK:area:areatalk_ev_night_12_002:01, PJSK:area:areatalk_ev_night_12_003:01, PJSK:area:areatalk_ev_night_12_004:01, PJSK:area:areatalk_ev_night_12_005:01]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: LOW
+    analytical_salience: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Honami_reported, Kanade]
+    manifestations: []
+    domains: [reported_practical_care, selected_tea, recipient_appreciation, knowledge_limits]
+    locators: [PJSK:card:0612:02:001:0053–0061]
+  MMJ:
+    relevance: NONE
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  VBS:
+    relevance: NONE
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  WXS:
+    relevance: NONE
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0089_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0090
+```
+
+| Reusable responsibility | Exact evidence | Evidence level / boundary |
+|---|---|---|
+| Mother–Mafuyu–K / discovery and changed access | `PJSK:event:0089:01:005:0002–0027`; `PJSK:event:0089:02:003`; `PJSK:event:0089:03:002:0036–0091` | Shown search vs Mafuyu’s inferred exposure; no SEKAI or exhaustive group knowledge. |
+| Kanade–parents / tested care premise | `PJSK:event:0089:02:002`; `PJSK:event:0089:08:002`; `PJSK:card:0612:02` | Childhood positive memory and present refusal; no father recovery or all-parent rejection. |
+| N25 / protected remaining access | `PJSK:event:0089:03:002:0093–0181`; `PJSK:card:0613:02:001:0028–0075` | Explicit information transfers and face-exposure rationale; person affected absent; full hotel report unshown. |
+| Mafuyu–family / assertion under coded constraints | `PJSK:event:0089:05:002`; `PJSK:event:0089:05:003` | Reference-book strategy and failed night-study refusal; father’s musical knowledge unestablished. |
+| Empty KAITO–Miku–Mafuyu–peers / disputed help | `PJSK:card:0615:01`; `PJSK:event:0089:06:002`; `PJSK:card:0615:02`; `PJSK:area:areatalk_ev_night_12_002:01` | Supplied history, immediate flight, peer objections and private reconsideration; no automatic efficacy or shared VS mind. |
+| Kanade–mother / negotiation endpoint | `PJSK:event:0089:07:002`; `PJSK:event:0089:07:003`; `PJSK:event:0089:08:002` | Mutual identification, circle-quit demand, rejected trust and secrecy; no negotiated permission or enacted distance plan. |
+| Mafuyu / preserved creative agency | `PJSK:card:0616:02`; `PJSK:area:areatalk_ev_night_12_003:01` | Covert lyric notes after listening, brief conditioned visit; no regular access restored. |
+| Mafuyu / competence and limited regulation | `PJSK:card:0616:01:001:0002–0033` | Skilled peer coaching, own concentration disrupted; final destination after memory cut unnamed. |
+| Ena–Mizuki–Mafuyu / ordinary reciprocal support | `PJSK:card:0613:01`; `PJSK:card:0613:02`; `PJSK:card:0614:01`; `PJSK:card:0614:02` | Shared rumination, real fashion/art/work interests, recipient relief, small food/help choice; taste explicitly unknown. |
+| Honami–Kanade / reported provision with actual use | `PJSK:card:0612:02:001:0053–0061` | Honami previously brings selected tea; Kanade appreciates it and experiences warmth. No Honami scene/meeting knowledge or independently proven medical effect. |
+| Empty group / ordinary participation | `PJSK:event:0089:02:004:0002–0005`; `PJSK:area:areatalk_ev_night_12_001:01`; `PJSK:area:areatalk_ev_night_12_004:01`; `PJSK:area:areatalk_ev_night_12_005:01` | Miku’s finished Ena-given book, conditional blouse plan, accepted listening/no critique shown, Luka’s friendship joke not certification. |
+
+All 23 declared witness rows are in the shared reading. N25 I3 is integrated; the reported Leo/need CROSS_UNIT route remains material and deferred. MMJ/VBS/WxS NONE; do not identify the unnamed shop-working classmate from roster memory. No complete-envelope reopen required. Earlier gaps and remaining completion dependencies persist; next EVENT_0090.

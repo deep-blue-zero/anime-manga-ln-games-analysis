@@ -4,18 +4,18 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Universal documentary screening through EVENT_0088; positive N25 evidence EVENT_0087 I1; latest I2 EVENT_0084"
+source_boundary: "Universal screening and positive N25 integration through EVENT_0089; N25 I3 and bounded Leo/need report deferred"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "EVENT_0088 N25 I0 documentary closure; positive N25 EVENT_0087 I1; relationship/epistemic I3 EVENT_0080 and human transition EVENT_0072"
+analysis_cutoff: "EVENT_0089 I3 Kanade psychological, relationship and epistemic transitions; all six ledgers synchronized"
 ---
 
 # Project SEKAI Release Impact Ledger
 
 ## Current execution handoff
 
-The last completed forward event transaction is **EVENT_0088**; the next is **EVENT_0089**. Documentary screening reaches EVENT_0088, an N25 I0 closure. Positive N25 evidence remains EVENT_0087 I1, with reported Ena lending/presentation and Empty Len/Rin companionship. Latest I2 remains EVENT_0084’s supported nonmusical-competence and reciprocal-pleasure refinement; earlier increments remain valid. Latest relationship/epistemic I3 remains EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. `REL-N25-EM-5` and EVENT_0077’s desire/disclosure corrections remain current. The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
+The last completed forward event transaction is **EVENT_0089**; the next is **EVENT_0090**. Documentary screening and positive N25 integration reach EVENT_0089 I3, with a Kanade psychological transition and independent relationship/epistemic changes. All six longitudinal ledgers reach this boundary. Current tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; `REL-N25-KM-8`, the two new bounded family/negotiation records and Empty KAITO’s group record apply with participant-specific knowledge limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, EVENT_0077’s desire/disclosure corrections and all unaffected history. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package.
 
@@ -2354,3 +2354,31 @@ All 24 canonical stories are read and manifest/review matched. Cards 0606–0608
 WxS PRIMARY/VERY_HIGH/R3-yield preserves Tsukasa's role-building limit, specific affective connection, successful audition and continuing distance; Nene/Emu's own growth; Rui's responsive options and later concern about excessive bodily burden; Sakurako's contextual expertise and the brothers' unresolved future planning. Wonderland singer support includes uncertainty, a useful analogy, patient training and correction of overextended helping. No completed anniversary performance, general mastery or necessity/safety of deprivation is asserted.
 
 Leo/need and VBS CROSS_UNIT/MEDIUM/R2-yield preserve Saki's trust and detection of strain, Toya's proactive concern and Tsukasa's selective disclosure (`PJSK:card:0606:01`; `PJSK:event:0088:03:002:0022–0025`). Both remain deferred with WxS pending their foundations. N25/MMJ are NONE; all singers are Wonderland manifestations. Five substantive N25 ledgers remain byte-preserved: character/relationship/epistemic at EVENT_0087, claim/theme at EVENT_0084. Documentary frontier EVENT_0088; positive N25 EVENT_0087 I1; all current IDs and E0077 corrections persist. Next EVENT_0089; older gaps and remaining completion dependencies stay open.
+
+## RI-EVENT-0089 — イミシブル・ディスコード
+
+```yaml
+release_id: EVENT_0089
+release_bucket: RB_20230321T060000Z
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+unit_relevance: N25_PRIMARY_LEO_NEED_CROSS_UNIT_MMJ_VBS_WXS_NONE
+impact_scope: N25
+impact: I3
+integration_status: UNIVERSAL_SCREEN_COMPLETE_N25_INTEGRATED_LEO_NEED_DEFERRED
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0089_DEEP_READING.md
+other_represented_unit_impact: DEFERRED_PENDING_FOUNDATION
+character_state_delta: K_E0063_01_TO_K_E0089_01_OTHER_THREE_PRESERVED
+relationship_delta: KM8_MATERNAL_ACCESS_DIRECT_NEGOTIATION_EMPTY_KAITO
+epistemic_delta: DIRECT_DISCOVERY_BOUNDED_TRANSMISSIONS_PRIVATE_INTERPRETATIONS
+claim_delta: NEW_K096_G097_VS098_AND_ESTABLISHED_REFINEMENTS
+theme_delta: REFINE_EXISTING_NO_NEW_RECURRING_ID
+reconstruction_update: DELTA_RECORDED_NO_COMPLETE_PACKAGE_CERTIFICATION
+current_n25_tuple: "MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01"
+next_candidate_operation: EVENT_0090
+```
+
+All 23 canonical stories are fully read and manifest/review matched. Core and cards 0615–0616 release at 06:00Z, cards 0612–0614 at 03:00Z. Five night_12 areas carry March 21 archive publication without initial-availability buckets and independent chapter-8 condition 108808 / episode 1000720. Prior memories, Saturday/Sunday sequence and conditioned visits are distinguished.
+
+N25 PRIMARY/VERY_HIGH/R3-yield I3: Kanade’s failed parental-trust premise yields sustained protective refusal, while rescue obligation and reciprocal self-permission persist. Maternal discovery/negotiation changes relational access and knowledge; Mafuyu’s attempted refusal and covert lyrics refine her existing state. Empty KAITO’s initial pressure has observed costs and a later privately reconsidered strategy. No completed liberation, doctor-wish confirmation, taste recovery, shared hotel knowledge or successful harshness-as-cure claim. All six ledgers integrate the change; three claims are added, existing motifs refined.
+
+Leo/need CROSS_UNIT/LOW/R1-yield: reported Honami tea provision is used/appreciated by Kanade (`PJSK:card:0612:02:001:0053–0061`), deferred pending foundation. MMJ/VBS/WxS NONE; the unnamed classmate’s shop job does not justify roster identification. Four foundations and their material routes, 21 older screens, packages/readiness, syntheses, final audits/integration remain incomplete. Next EVENT_0090.

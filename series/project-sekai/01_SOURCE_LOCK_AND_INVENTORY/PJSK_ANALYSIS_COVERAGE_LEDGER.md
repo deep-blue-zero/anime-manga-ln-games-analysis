@@ -49,14 +49,14 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — updated through EVENT_0088 on 2026-09-09
+### Current coverage — updated through EVENT_0089 on 2026-09-09
 
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
-- Latest closed forward transaction: `EVENT_0088`, N25 I0 documentary closure; next forward operation: `EVENT_0089`. Positive N25 evidence remains `EVENT_0087`, I1 reported Ena behavior and Empty Len/Rin companionship. Latest I2 remains `EVENT_0084`, supported nonmusical competence/reciprocal ordinary-pleasure refinement. Latest relationship/epistemic I3 remains `EVENT_0080`, with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. Preserve `REL-N25-EM-5` and the EVENT_0077 desire/disclosure corrections. Latest global human-state transition remains `EVENT_0072`. Apply EVENT_0087 and earlier evidence with the preserved tuple and prior refinements. CHARACTER_STATE, RELATIONSHIP_STATE and EPISTEMIC_STATE remain at EVENT_0087; CLAIM_REVISION/THEME_AND_MOTIF remain at EVENT_0084. RELEASE_IMPACT records documentary closure through EVENT_0088; no substantive N25 revision is required.
-- Current N25 tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- Latest closed forward transaction and positive N25 integration: `EVENT_0089`, I3 Kanade psychological plus relationship/epistemic transitions; next `EVENT_0090`. All six longitudinal ledgers reach EVENT_0089. `K-E0089-01`, `REL-N25-KM-8`, two bounded family/negotiation records and Empty KAITO’s group record apply with unequal-information limits. Preserve EVENT_0080’s Mafuyu–Shizuku state, `REL-N25-EM-5`, the E0077 desire/disclosure corrections and all unaffected earlier increments. No complete liberation, taste recovery or shared hotel knowledge is established.
+- Current N25 tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`.
 - Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
-- Franchise routing inventory reaches EVENT_0088, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0088 universal screens and earlier reusable complete readings retain their bounded authority.
+- Franchise routing inventory reaches EVENT_0089, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0089 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
 
@@ -973,3 +973,20 @@ CURRENT AUTHORITY AFTER EVENT_0088
 - Latest relationship/epistemic I3 EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve all current IDs and E0077 corrections.
 - Latest global human transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` unchanged.
 - Four foundations and material deferred integrations, 21 earlier screens, principal-human packages/readiness, syntheses, final audits and final protected integration remain incomplete.
+
+EVENT_0089 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I3_INTEGRATED / LEO_NEED_CROSS_UNIT_DEFERRED
+
+Artifact: [N25/PJSK_EVENT_0089_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0089_DEEP_READING.md).
+All 23 canonical stories fully read and manifest/review matched: core 01–08, cards 0612–0616 both halves, five night_12 areas. Areas retain separate archive publication and chapter-8 condition 108808 / episode 1000720; no initial-availability bucket is invented. All singers are Empty manifestations.
+
+N25 PRIMARY/VERY_HIGH/R3-yield I3 integrates Kanade’s revised parental-trust premise/protective commitment, exposed family collaboration, direct negotiation, unequal knowledge and contested Empty KAITO intervention. Mafuyu’s existing state continues with covert lyrics and attempted refusal; Ena/Mizuki states and guarded-content boundary persist. All six ledgers integrate EVENT_0089, three new claims are recorded and existing themes/motifs refined. No completed principal-human package is certified.
+
+Leo/need CROSS_UNIT/LOW/R1-yield preserves reported Honami tea provision and Kanade’s actual use/appreciation, deferred pending foundation. MMJ/VBS/WxS NONE; the unnamed shop-working classmate remains unidentified.
+
+CURRENT AUTHORITY AFTER EVENT_0089
+
+- Documentary/positive N25 boundary and latest psychological/relationship/epistemic I3: EVENT_0089; next EVENT_0090.
+- Tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; former K-E0063-01 and KM-7 remain historical defaults through E0088.
+- Current successors `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`; new direct-negotiation and Empty KAITO group records. Unaffected IDs/E0077 corrections remain intact.
+- Mother’s discovery is now shown; Mafuyu’s hotel knowledge and future arrangements remain unshown. No inference of inevitable maternal future, recovered taste or therapeutic success of confrontation.
+- Four foundations/material deferred integrations, 21 earlier screens, packages/readiness, syntheses, final audits and final protected integration remain incomplete.
