@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: master_longitudinal_ledger
 scope: CUMULATIVE_MAIN_LIGHT_NOVEL_STATE_THROUGH_V03
-generation: V1.1
+generation: V1.2
 status: canonical
 release_state: mutable_active
 current_source_horizon: V03
@@ -400,6 +400,24 @@ The separately previewed side story remains unopened and unadmitted; it supplies
 
 Nothing is `MONOGRAPH_READY` or `SPECIALIST_READY` through V03. The master ledger still represents every ongoing responsibility without a competing dedicated ledger.
 
+### Post-V03 architecture-promotion review
+
+This is the operational V03 closeout review required by the synthesis architecture. Exact candidate filenames and full field contracts live in `REZERO_LEDGER_PROMOTION_AND_SCHEMAS.md`.
+
+| candidate | observed burden through V03 | disposition | later promotion trigger |
+|---|---|---|---|
+| event-state / route | five V02 estate states plus one surviving V03 state remain recoverable in one compact chronology | `RETAIN IN MASTER` | interacting loops/routes require an independently maintained chronology or carry-forward matrix |
+| knowledge / information asymmetry | restoration secrecy, curse knowledge, household knowledge, and reader-only information are material but table-sized | `RETAIN IN MASTER` | proposition-holder-nonholder networks and disclosure revisions become unsafe to retrieve compactly |
+| relationship continuity | several asymmetric relationships recur, but present histories and V03 changes remain compact | `RETAIN IN MASTER` | multiple dyads require maintained asymmetric histories, rupture/repair chains, or cross-dyad comparison |
+| mechanics / metaphysics | restoration, suppression, odor, curse, magic, and spirit claims are still separable by speaker and confidence | `RETAIN IN MASTER` | competing theories, exceptions, costs, and revision ancestry develop independent density |
+| institution / faction / power | Roswaal's patronage and the royal-selection horizon signal upcoming complexity but V03 has not supplied the system | `DEFER WITH TRIGGER` | rules, actors, resources, enforcement, patronage, and faction divergence require their own maintained model |
+| ordinary life / preferences | estate work, food, comfort, clothing, humor, reading, and promised leisure are diagnostic but sparse | `DEFER WITH TRIGGER` | low-stakes evidence becomes recurrent across characters/states beyond monograph and master capacity |
+| Japanese voice / register / terminology | V01–V03 wording observations are valuable but remain retrievable from frozen loci and one terminology table | `DEFER WITH TRIGGER` | speaker- and recipient-conditioned wording shifts require sustained cross-volume comparison |
+| character reconstruction readiness | nine candidate rows are manageable here; no character is monograph-ready | `RETAIN IN MASTER` | many candidates require independent cross-horizon audit scheduling; a single mature character instead triggers its protocol fidelity audit |
+| locator / evidence index | each current claim still routes reliably through its VNN reading to exact EPUB loci | `NOT CURRENTLY WARRANTED` | repeated cross-volume or cross-witness retrieval failures demonstrate a separate navigation burden |
+
+No candidate is promoted by this review. V04 and every non-spine narrative witness remain unopened.
+
 ## 14. Append-only architecture and ledger history
 
 | event | horizon | change | historical qualification |
@@ -409,5 +427,6 @@ Nothing is `MONOGRAPH_READY` or `SPECIALIST_READY` through V03. The master ledge
 | V02 freeze | V02 | V01 claims adjudicated; 30 V02 claims and V03 horizon frozen | no master ledger yet existed |
 | architecture repair | through V02 | this master ledger promoted and backfilled from the two canonical freezes | repair does not alter either historical freeze or imply prospective prior use |
 | V03 freeze and estate-story checkpoint | V03 | V02 claims adjudicated; 35 V03 claims and V04 horizon frozen; source paratext earns a bounded V02–V03 checkpoint | no formal arc ID or specialist ledger is inferred; V04 and the previewed side story remain unopened |
+| post-V03 architecture extension | V03 closed | character-reconstruction protocol and supplemental catalog added; all ledger/evidence candidates reviewed; exact future synthesis home declared | no candidate promoted; no frozen reading changed; sequential high-water remains V03 |
 
 Future volume transactions append one history row and update the relevant current-state tables while preserving material ancestry.

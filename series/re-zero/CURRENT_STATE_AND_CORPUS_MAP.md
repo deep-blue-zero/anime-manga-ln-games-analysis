@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.6
+generation: V0.7
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -20,6 +20,8 @@ project_initialization:
   architecture_lifecycle: EVOLVING
   governing_method: 00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md
   synthesis_architecture: 00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+  character_reconstruction_protocol: 00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md
+  supplemental_witness_catalog: 01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md
   method_status: canonical
   architecture_status: canonical
   source_reconnaissance_complete: true
@@ -51,13 +53,13 @@ sequential_execution:
 
 ## Current analytical state
 
-**The acquired Japanese main-LN range V01-V43 is source-locked, and the prospective Japanese-primary Volume 01 through Volume 03 deep readings are frozen and canonical. The source-verified V02–V03 estate-story checkpoint is also frozen. Volume 04 and the separately previewed non-spine story remain analytically unopened. The sequential run is paused at the user's post-V03 boundary. No character monograph, standalone specialist synthesis, PACTRIH placement, adaptation judgment, or full-series synthesis is canonical here yet.**
+**The acquired Japanese main-LN range V01-V43 is source-locked, and the prospective Japanese-primary Volume 01 through Volume 03 deep readings are frozen and canonical. The source-verified V02–V03 estate-story checkpoint is also frozen. Volume 04 and the separately previewed non-spine story remain analytically unopened. The sequential run is paused at the user's post-V03 boundary. A canonical character-reconstruction protocol and a bibliographic-only supplemental witness catalog are now present, but no character monograph, dedicated specialist ledger, standalone specialist synthesis, PACTRIH placement, adaptation judgment, evidence/index layer, or full-series synthesis is canonical here yet.**
 
-The later project-initiation architecture gate is satisfied prospectively. `REZERO_SYNTHESIS_ARCHITECTURE.md` is the canonical `EVOLVING` synthesis architecture, and `REZERO_MASTER_LONGITUDINAL_LEDGER.md` is the required cumulative home promoted and backfilled from the unmodified V01/V02 freezes, then advanced through V03. `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, but the user-requested execution pause controls: no V04 source-facing work begins until the user resumes the run.
+The later project-initiation architecture gate is satisfied prospectively. `REZERO_SYNTHESIS_ARCHITECTURE.md` is the canonical `EVOLVING` synthesis architecture, `REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` governs future mature character work and its first fidelity audit, and `REZERO_MASTER_LONGITUDINAL_LEDGER.md` is the required cumulative home promoted and backfilled from the unmodified V01/V02 freezes, then advanced through V03. `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, but the user-requested execution pause controls: no V04 source-facing work begins until the user resumes the run.
 
 The governed source audit admits one continuous Japanese main-volume sequence V01-V43. A live 2026-09-08 rescan found no V44/V45 or other new source, reproduced 44 of 45 manifest objects exactly, and re-audited the sole post-manifest replacement, Japanese V41, under its current exact hash. A 2026-09-04 official-publication freshness check establishes V44 and V45 as published but absent from that acquisition. This does not block the authorized V03-V43 run; it means the repository must not describe the source corpus as complete-to-date.
 
-The architecture remains intentionally conservative because Re:Zero has multiple source families that can contaminate one another if treated as a single undifferentiated canon pool. Main light novels, mainline supplemental stories, alternate-route/IF material, web-novel material, and anime adaptation evidence must remain separately labeled witnesses until a specific analytical operation compares them. The current audited source folder admits no supplemental, IF/alternate-route, web-novel, or audiovisual witness.
+The architecture remains intentionally conservative because Re:Zero has multiple source families that can contaminate one another if treated as a single undifferentiated canon pool. Main light novels, mainline supplemental stories, alternate-route/IF material, web-novel material, and anime adaptation evidence must remain separately labeled witnesses until a specific analytical operation compares them. The supplemental catalog may record officially established but unacquired items and unresolved paratext leads; this is not admission. The current audited source folder admits no supplemental, IF/alternate-route, web-novel, or audiovisual witness.
 
 The first three interpretive operations are complete. `REZERO_LN_V01_DEEP_READING.md` freezes four local event-states and 24 V01 claim IDs. `REZERO_LN_V02_DEEP_READING.md` carries those claims forward through explicit revision operations, freezes four mansion event-states (`V02-E1` through `V02-E4`), 30 stable V02 claim IDs, and the bounded V03 question set. `REZERO_LN_V03_DEEP_READING.md` adjudicates all 30 V02 claims and all 26 V03 questions, confirms a surviving fifth-day mansion state, freezes 35 V03 claim IDs and 24 bounded V04 questions, and preserves the exact consumed Japanese witness identity. `REZERO_ARC_ESTATE_STORY_CHECKPOINT.md` records the source-verified V02–V03 structural break without inventing a formal arc ID. V04 is the next candidate only after resumption.
 
@@ -69,10 +71,12 @@ Read in this order for new Re:Zero analytical work:
 2. `00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md`
 3. `00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`
 4. `00 Frameworks and Methods/REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`
-5. `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`
-6. `04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`
-7. the immediately prior frozen sequential reading's claim ledger and outbound question set;
-8. only the additional character, supplemental, adaptation, promoted-ledger, or specialist artifact required for the task.
+5. `00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` for character promotion, reconstruction, or fidelity work;
+6. `01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md` for non-spine discovery or acquisition work;
+7. `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`
+8. `04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`
+9. the immediately prior frozen sequential reading's claim ledger and outbound question set;
+10. only the additional character, supplemental, adaptation, promoted-ledger, or specialist artifact required for the task.
 
 The intended primary semantic anchor is the **Japanese light novel**, within the exact admitted source range. Translations may be convenience witnesses; wording-sensitive claims return to Japanese. Anime, web-novel material, IF/alternate routes, side stories, bonus stories, game material, guidebooks, interviews, and other supplements do not silently overwrite main-light-novel findings.
 
@@ -94,15 +98,17 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | populated; analytical method V0.1; witness protocol V0.2; synthesis architecture V1.0 `EVOLVING` |
-| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, and source-family classification | V01-V43 Japanese `MAIN_LN` admitted; V41 current hash point-audited after manifest drift; V44-V45 known acquisition gaps; V01-V03 consumed into frozen prospective analysis |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | populated; analytical method V0.1; witness protocol V0.2; synthesis architecture V1.1 `EVOLVING`; character reconstruction protocol V1.0 |
+| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, source-family classification, and non-spine bibliographic awareness | V01-V43 Japanese `MAIN_LN` admitted; V41 current hash point-audited after manifest drift; V44-V45 known acquisition gaps; V01-V03 consumed; supplemental catalog V0.1 contains no admitted or opened non-spine witness |
 | `02 Sequential Readings` | Main-light-novel volume-by-volume prospective deep readings and source-verified arc checkpoints | V01-V03 deep readings and the V02–V03 estate-story checkpoint frozen/canonical; V04 remains unopened |
-| `03 Supplemental and Alternate Witnesses` | Mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract populated; no witness admitted yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, route/event-state, knowledge, relationship, character-state, institution, mechanics, ordinary-life, terminology, prospective questions, and readiness | master ledger V1.1 current through V03; schema contract retains later split thresholds; no dedicated ledger yet promoted |
-| `05 Character Analysis` | Character reconstruction only after sufficient longitudinal evidence exists | routing contract populated; no monographs yet |
+| `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
+| `04 Longitudinal Ledgers` | Current claims/revisions, route/event-state, knowledge, relationship, character-state, institution, mechanics, ordinary-life, terminology, prospective questions, and readiness | master ledger V1.2 current through V03; schema contract V0.3 registers exact later candidate homes; V03 review promotes none |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | routing contract V0.2 populated; no monographs yet; first mature model requires a separate fidelity audit |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
 | `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | bootstrap manifest populated; detailed source audit remains Drive-authoritative |
+| future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
+| future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
 
 The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
@@ -122,9 +128,11 @@ The repair therefore:
 
 All initiation requirements are now initialized. The sequential lock is affirmatively **OPEN**. The repair preceded V03; V03 is now frozen, and the user-requested pause keeps V04 unopened.
 
+At the first safe boundary after the V03 freeze, a bounded architecture extension added the character-reconstruction protocol and supplemental witness catalog, registered exact future ledger/evidence candidates, required a fidelity audit for the first mature character, and declared `10 Full-Series Synthesis/REZERO_FULL_SERIES_SYNTHESIS.md` as the eventual canonical convergence home. The V03 promotion review retained every recurring responsibility in the master ledger or deferred it with a concrete trigger; it created no empty specialist artifact.
+
 ## Reasoning-class routing
 
-- architecture repair, final role-gap review, and full-series integration: `PREMIUM_QUALITY_FIRST`;
+- architecture repair/extension, final role-gap review, and full-series integration: `PREMIUM_QUALITY_FIRST`;
 - ordinary Japanese-primary VNN deep reading and interpretive master-ledger update: `SUBSTANTIVE_ANALYSIS`;
 - deterministic source identity, checksum, locator, and metadata maintenance: `BOUNDED_STANDARD` or `ROUTINE_FAST`;
 - source-verified checkpoints, mature character work, and difficult relationship/specialist synthesis: normally `DEEP_SYNTHESIS`, with evidence-based escalation for unusually propagation-sensitive cases.
@@ -180,13 +188,14 @@ The sequential pass should test rather than assume questions including:
 
 1. Treat both frozen sequential readings as immutable historical prospective states. V01 remains the original prior; V02 owns the historical V01→V02 revision transaction and must not retroactively rewrite V01.
 2. Preserve the completed V03 transaction as its own prospective state: it owns the V02→V03 revisions, 35 current claims, the V04 horizon, and the source-verified V02–V03 estate-story checkpoint.
-3. Keep V04 and the previewed non-spine story unopened while the user pause is active. On resumption, load the frozen V03 horizon before opening only admitted Japanese witness `RZ-MAIN-LN-JA-V04`.
-4. Continue prospectively through the admitted main-LN spine; create later checkpoints only after source evidence establishes the boundary and the final contributing volume is frozen.
-5. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
-6. Do not open supplemental or alternate-route material merely to construct a bibliography. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
-7. Update the master longitudinal ledger in every volume transaction; promote a dedicated ledger only when one responsibility develops an independent retrieval/revision burden, then leave routing rather than a competing full copy in the master.
-8. Create character monographs only after enough cross-state and longitudinal evidence exists to distinguish stable tendency, local state, recipient effect, role effect, and genuine revision.
-9. Treat anime and other adaptations as distinct witnesses whose performance, direction, framing, omission, compression, and reordering can be analyzed without replacing the light-novel model.
+3. Preserve the completed post-V03 architecture extension as a separate transaction. Its catalog and future-path reservations do not advance the source horizon.
+4. Keep V04 and the previewed non-spine story unopened while the user pause is active. On resumption, load the frozen V03 horizon before opening only admitted Japanese witness `RZ-MAIN-LN-JA-V04`.
+5. Continue prospectively through the admitted main-LN spine; create later checkpoints only after source evidence establishes the boundary and the final contributing volume is frozen.
+6. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
+7. Maintain bibliographic awareness in the supplemental catalog without opening narrative material. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
+8. Update the master longitudinal ledger in every volume transaction; promote a dedicated ledger only when one responsibility develops an independent retrieval/revision burden, then leave routing rather than a competing full copy in the master.
+9. Create character monographs only after protocol-defined cross-state, relational, ordinary-life, linguistic, failure, and abstention evidence exists. The first mature model must pass its fidelity audit.
+10. Treat anime and other adaptations as distinct witnesses whose performance, direction, framing, omission, compression, and reordering can be analyzed without replacing the light-novel model.
 
 ## Bootstrap abstentions
 
