@@ -43,6 +43,12 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Professional Heroes and Hero-System Actors Character State Ledger
 
+## Current source-admissibility correction — continuation
+
+Further source precision: Lady Nagant's risky return is V38:p065–068; p063 is the chapter cover and p064 the logo. The medical objection, reopened wounds, remembered invitation and chosen support are linked narrative evidence, not proof of an unlimited willingness to absorb bodily cost. At V39:p146 Tsukauchi interprets All Might's risk as a deathward act; All Might states his own win-directed intent at p155. Preserve the observer/actor distinction. The actual V31:p079–085 Hawks choice is post-institutional comparison evidence, not V27 input.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 

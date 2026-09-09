@@ -43,6 +43,12 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Primary Source Inventory
 
+## Current source-admissibility correction — continuation
+
+The completed Japanese main-volume inventory is V01–V42. Supplemental inventory remains provisional. The continuation used the user-authorized local originals read-only and SHA-256 locked all 42 CBZs; all 12 supplied handoff locks match. These locks identify bytes, not a claim that this continuation re-read every page. See the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) for hashes and explicit inspection ranges.
+
+Two archive conventions require care: V31's extra `0002.png` makes the cited logical story page pNNN correspond to numeric raw filename NNN+1; its narrative ends logical p213/raw 0214, followed by logical p214–225/raw 0215–0226. V36 stores facing pages: raw image i has right p(2i−2) and left p(2i−1). Chapter/author matter inside otherwise narrative ranges remains excluded. In particular V37:p148 and V42:p144–145 are paratext. V27's current admissible endpoint contains Tokoyami's arrival only; extraction belongs to V28:p060–077. Historical inventory records below retain their dated wording and are governed by these current corrections.
+
 
 
 
@@ -1052,7 +1058,7 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Sequential scope: Chapters No.296-306.
 - Chapter starts: No.296 `p007`; No.297 `p027`; No.298 `p047`; No.299 `p067`; No.300 `p087`; No.301 `p105`; No.302 `p123`; No.303 `p143`; No.304 `p159`; No.305 `p177`; No.306 `p194`.
 - Narrative endpoint: **`V31:p213`**.
-- `V31:p214-226` are promotional/publication/digital/advertising/cover matter.
+- `V31:p214-225` (raw numeric files 0215–0226) are promotional/publication/digital/advertising/cover matter; no logical p226 image exists.
 - Prospective endpoint: Midoriya has left U.A. after disclosing OFA to Class 1-A; later solo-operation coordination, second/third-holder details, Shigaraki/AFO completion, Toya-family confrontation, Tartarus-escapee roles and public-institutional stabilization remain V32+ OPEN.
 - Handling: fetched temporarily for source-grounded review; canonical raw source remains in Google Drive.
 
