@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0087; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0088; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2208,3 +2208,86 @@ next_event: EVENT_0088
 | Street daily life / tasting, menus and inspiration | `PJSK:area:areatalk_ev_shuffle_29_004:01`; `PJSK:area:areatalk_ev_shuffle_29_005:01`; `PJSK:area:areatalk_monthly2302_005:01` | Coffee discrimination, distracting enthusiasm, a declined restaurant idea and unconfirmed lunch prediction; voice/food claims remain fictional attribution. |
 
 All 29 declared witness ranges/hashes are retained in the shared reading. N25 I1 selectively advances character/relationship/epistemic evidence and RELEASE_IMPACT without new IDs; claim/theme bytes remain EVENT_0084. All four unfounded material routes remain deferred; next EVENT_0088. Older gaps and final completion dependencies persist.
+
+## EVENT_0088 — 天の果てのフェニックスへ
+
+```yaml
+release_id: EVENT_0088
+release_bucket: RB_20230311T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 6 archive-publication/event-unlock areas = 24"
+core_locators: [PJSK:event:0088:01, PJSK:event:0088:02, PJSK:event:0088:03, PJSK:event:0088:04, PJSK:event:0088:05, PJSK:event:0088:06, PJSK:event:0088:07, PJSK:event:0088:08]
+card_locators: [PJSK:card:0606:01, PJSK:card:0606:02, PJSK:card:0607:01, PJSK:card:0607:02, PJSK:card:0608:01, PJSK:card:0608:02, PJSK:card:0609:01, PJSK:card:0609:02, PJSK:card:0610:01, PJSK:card:0610:02]
+area_locators: [PJSK:area:areatalk_ev_wonder_12_001:01, PJSK:area:areatalk_ev_wonder_12_002:01, PJSK:area:areatalk_ev_wonder_12_003:01, PJSK:area:areatalk_ev_wonder_12_004:01, PJSK:area:areatalk_ev_wonder_12_005:01, PJSK:area:areatalk_monthly2304_004:01]
+
+chronology_note: "Core and cards 0609-0610 initial availability 06:00Z; cards 0606-0608 03:00Z. Five wonder_12 areas archive-published 2023-03-11T06:00Z, monthly2304_004 2023-04-30T06:00Z. All six lack initial-availability buckets and independently carry chapter-8 condition 108708 / episode 1000712. Audition success does not complete the anniversary production."
+unit_routes:
+  WXS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Tsukasa, Emu, Nene, Rui, Sakurako, Shosuke, Keisuke, director, Phoenix_Stage_cast, role_model_天満星一, Saki, Toya, Asahi_reported, unnamed_actor_acquaintance_reported, Wonderland_plushies]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [acting_method, comparative_evaluation, felt_inability, ambition, role_specific_emotional_connection, audition_choice, collaboration, reciprocal_care, physical_limits, simulation, technical_learning, uneven_confidence, future_institutional_plans, ordinary_food_and_games, musical_enthusiasm, selective_disclosure, textual_register]
+    locators: [PJSK:event:0088, PJSK:card:0606, PJSK:card:0607, PJSK:card:0608, PJSK:card:0609, PJSK:card:0610, PJSK:area:areatalk_ev_wonder_12_001:01, PJSK:area:areatalk_ev_wonder_12_002:01, PJSK:area:areatalk_ev_wonder_12_003:01, PJSK:area:areatalk_ev_wonder_12_004:01, PJSK:area:areatalk_ev_wonder_12_005:01, PJSK:area:areatalk_monthly2304_004:01]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Saki, Tsukasa, Toya]
+    manifestations: []
+    domains: [childhood_illness_report, sibling_trust, perceived_strain, indirect_communication, reassurance, incomplete_disclosure]
+    locators: [PJSK:event:0088:03:002:0022–0025, PJSK:card:0606:01:001:0002–0006, PJSK:card:0606:01:002:0004–0016, PJSK:card:0606:01:004:0018–0050]
+  VBS:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Toya, Tsukasa, Saki]
+    manifestations: []
+    domains: [proactive_concern, ordinary_gift_contact, hesitation_and_candor, specific_encouragement, witnessed_history, knowledge_limits]
+    locators: [PJSK:card:0606:01:004:0004–0050]
+  N25:
+    relevance: NONE
+    baseline_impact: I0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  MMJ:
+    relevance: NONE
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0088_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0089
+```
+
+| Reusable responsibility | Exact evidence | Boundary / future interpretation |
+|---|---|---|
+| WxS–management–Sakurako / opportunity and future | `PJSK:event:0088:01:002:0018–0070`; `PJSK:event:0088:01:003:0003–0030` | Public publicity/learning reasons, Tsukasa's inference about his request and private desire to retain/support the group differ. Future solution undisclosed. |
+| Tsukasa / role choice and admired performer | `PJSK:event:0088:02:002:0051–0099`; `PJSK:event:0088:03:001:0012–0058` | Accepts original chicken responsibility, enters permitted audition, shares admiration through previously bought tickets. Named role model is 天満星一; no invented family relation. |
+| Tsukasa–Saki / earlier helplessness as role material | `PJSK:event:0088:03:002:0002–0029` | His present recollection of childhood feeling, not Saki's current illness or a new episode occurring now. |
+| Tsukasa–Sakurako / method and qualified mentorship | `PJSK:event:0088:04:002:0098–0150`; `PJSK:event:0088:05:001:0043–0124` | Other actor can be skilled yet mismatched. Research includes future plans; acquaintance unnamed; no universal literal-imitation rule. |
+| Tsukasa / strain, doubt and rejected shortcut | `PJSK:event:0088:06:003`; `PJSK:event:0088:06:004`; `PJSK:event:0088:06:005:0002–0038` | Improvement does not immediately resolve mismatch. He considers optimizing against candidates, then rejects winning through merely superficial performance. Bodily costs remain real. |
+| WxS–Wonderland MEIKO/KAITO / supported interpretive discovery | `PJSK:event:0088:06:006:0002–0031`; `PJSK:event:0088:07:001:0005–0051` | Group admits limits; MEIKO's analogy gives Tsukasa a possibility he develops himself. Singers do not already know the solution. |
+| Tsukasa–companions / concert and audition response | `PJSK:event:0088:07:003:0020–0069`; `PJSK:event:0088:07:004`; `PJSK:event:0088:08:002:0023–0132` | Specific role-affect connection; Sakurako extends the scene and explains her response; selected for Rio, anniversary show still future. |
+| Rui–Tsukasa / choices, technology and reciprocal limits | `PJSK:card:0609:01:001:0022–0092`; `PJSK:card:0609:02` | Rui offers alternatives without taking the actor's choice; Tsukasa protects others' rehearsal time. Later burden concern leads to actual visual VR, not completed multisensory simulation. |
+| Nene–Rui / learning through recorded performance | `PJSK:card:0608:01:002:0018–0089` | Nene requests rerecording after concrete self-assessment; deliberate robot activation is her inference, not Rui's confession. |
+| Nene–Emu / parallel aspiration and reciprocal care | `PJSK:event:0088:05:001:0140–0144`; `PJSK:card:0608:02:002:0019–0049`; `PJSK:event:0088:08:002:0011–0020`; `PJSK:event:0088:08:002:0115–0122` | Nene has no settled route to the admired level; Emu notices discouragement and receives practical care too. Concern at another's audition differs from own-stage confidence. |
+| Emu / observation, mistaken inference and initiative | `PJSK:card:0607:01:001:0005–0058`; `PJSK:card:0607:02:001:0002–0055` | Duck communication is not established. Further training respects companions' earlier fatigue; thirty-lap completion unshown. |
+| Saki–Toya–Tsukasa / concerned follow-up and limited truth | `PJSK:card:0606:01` | Saki both trusts and detects strain; Toya visits after her report; Tsukasa explains difficulty while concealment of food restriction persists. Intended reassurance message unshown. |
+| Wonderland MEIKO–Nene–Rin/Len/plushies / sustainable help | `PJSK:card:0610:01`; `PJSK:card:0610:02` | Actual group finish; gradual progress recommended. Later rescue and correction preserve valued intention and appropriate tasks; no unlimited-effort rule. |
+| WxS / food, play and ongoing artistic enthusiasm | `PJSK:card:0606:02:001:0005–0054`; `PJSK:area:areatalk_ev_wonder_12_001:01`; `PJSK:area:areatalk_ev_wonder_12_002:01`; `PJSK:area:areatalk_ev_wonder_12_003:01` | Reported resumed eating, actual drinks/order request, preferences, reported game progress and offered album loans; meal/match/loan completion not shown. |
+| Wonderland daily practice and helping | `PJSK:area:areatalk_ev_wonder_12_004:01`; `PJSK:area:areatalk_ev_wonder_12_005:01`; `PJSK:area:areatalk_monthly2304_004:01` | Nene prioritizes endurance and refuses comic dance; search for Luka offered; Rin's turn directly praised, later joint performance proposed. |
+
+All 24 declared witness rows are in the shared reading. WxS PRIMARY and Leo/need/VBS CROSS_UNIT remain material deferred routes. N25/MMJ are NONE; documentary N25 I0 advances closure only. Five substantive N25 ledgers remain byte-preserved and all current IDs/E0077 corrections survive. Next EVENT_0089; earlier gaps and remaining completion dependencies persist.
