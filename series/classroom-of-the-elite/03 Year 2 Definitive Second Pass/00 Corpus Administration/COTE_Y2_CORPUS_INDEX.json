@@ -1,0 +1,2946 @@
+{
+  "schema": "cote-y2-corpus-index-v1",
+  "release_id": "COTE_Y2_V2_2026-09-09",
+  "release_state": "frozen",
+  "source_boundary": "Y2SL",
+  "current_entrypoint": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md",
+  "core_artifact_count": 167,
+  "scope_note": "Year 2 analysis and infrastructure, governing methods, and unchanged Year 1 analytical reference foundation. No Year 3 narrative or primary-source binaries. The Year 3 method is administrative preparation only. Embedded older Year 1 checksums remain historical; this release checksum inventory binds the actual packaged bytes.",
+  "artifacts": [
+    {
+      "filename": "LICENSE.md",
+      "artifact_type": "reference_document",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "supporting_infrastructure",
+      "word_count": 203,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 1517,
+      "sha256": "a0e900a5712c32dd99db2eaaeb0ebf54c6075e6662c18fa613ff9b8a77590e5b",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "reference_document",
+      "relative_path": "LICENSE.md",
+      "package_group": "license_notices"
+    },
+    {
+      "filename": "THIRD_PARTY_NOTICES.md",
+      "artifact_type": "reference_document",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "supporting_infrastructure",
+      "word_count": 186,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 1355,
+      "sha256": "498580920794f7448de5ecd7c6312494b525e7c619b993b619213509d821fc9b",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "reference_document",
+      "relative_path": "THIRD_PARTY_NOTICES.md",
+      "package_group": "license_notices"
+    },
+    {
+      "filename": "COTE_BEHAVIORAL_RECONSTRUCTION_PROTOCOL_THROUGH_Y2.md",
+      "artifact_type": "behavioral_reconstruction_protocol",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 23367,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 174469,
+      "sha256": "e6f5d5b40f7de797b2a73e566080a4c56b48c54c8d4291a297dfb81ba8130a4f",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Behavioral Reconstruction Protocol through Year 2",
+      "relative_path": "series/classroom-of-the-elite/00 Frameworks and Methods/COTE_BEHAVIORAL_RECONSTRUCTION_PROTOCOL_THROUGH_Y2.md",
+      "package_group": "governing_methods"
+    },
+    {
+      "filename": "COTE_Multi_Document_Synthesis_Architecture_v1.md",
+      "artifact_type": "governing_architecture",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "Governing architecture for the Year 1–3 second-pass and eventual full-series synthesis corpus",
+      "word_count": 12185,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 96742,
+      "sha256": "9fc0acd1b11d03a590e40db1a1d8d6a90f738787894b081d7dfc0f3a711347e0",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "ようこそ実力至上主義の教室へ / Classroom of the Elite — Multi-Document Synthesis Architecture",
+      "relative_path": "series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Multi_Document_Synthesis_Architecture_v1.md",
+      "package_group": "governing_methods"
+    },
+    {
+      "filename": "COTE_Y1_ANALYTICAL_METHOD_V2.md",
+      "artifact_type": "analytical_method",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "Governing protocol for the Year 1 second-pass corpus",
+      "word_count": 9772,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 70887,
+      "sha256": "e9e203a82533538cf3987beae24fe4087f36daec95d813b8a8c86dd6594043dc",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "ようこそ実力至上主義の教室へ / Classroom of the Elite — Year 1 Second-Pass Analytical Method",
+      "relative_path": "series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Y1_ANALYTICAL_METHOD_V2.md",
+      "package_group": "governing_methods"
+    },
+    {
+      "filename": "COTE_Y2_ANALYTICAL_METHOD_V2.md",
+      "artifact_type": "analytical_method",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "Governing protocol for the Year 2 second-pass corpus",
+      "word_count": 3808,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 30115,
+      "sha256": "2dd62bc83b47d78cc37c3385cf228a3bd2d37fb893ff5f3f1027396e70e52f04",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "ようこそ実力至上主義の教室へ / Classroom of the Elite — Year 2 Second-Pass Analytical Method",
+      "relative_path": "series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Y2_ANALYTICAL_METHOD_V2.md",
+      "package_group": "governing_methods"
+    },
+    {
+      "filename": "COTE_Y3_ANALYTICAL_METHOD_V2.md",
+      "artifact_type": "analytical_method",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "Rolling governing protocol for the incomplete Year 3 corpus",
+      "word_count": 3801,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 29553,
+      "sha256": "235deecd75a5bae63a485ec0f48de37d2f0817fd6d5dba2de5fd9a7f83d94228",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "ようこそ実力至上主義の教室へ / Classroom of the Elite — Year 3 Rolling Analytical Method",
+      "relative_path": "series/classroom-of-the-elite/00 Frameworks and Methods/COTE_Y3_ANALYTICAL_METHOD_V2.md",
+      "package_group": "governing_methods"
+    },
+    {
+      "filename": "COTE_Y1_ARTIFACT_CHECKSUMS.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 6134,
+      "sha256": "f9ca537d451fd2a1e11af5dd6b049a232aeeaa312ec080f2ccd1016a88372a54",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_ARTIFACT_CHECKSUMS.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CORPUS_INDEX.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 160107,
+      "sha256": "3979ea2a9f94c7774d238c1480e14dac5a328b533f9e8cf1c6f2a907ff1ad2bb",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_CORPUS_INDEX.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CORPUS_MANIFEST.md",
+      "artifact_type": "manifest",
+      "source_boundary": "Japanese light novels Y1V01-Y1V11.5 + First File",
+      "status": "canonical",
+      "word_count": 739,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 10057,
+      "sha256": "57764e4013289412afba354a6927e4c93f171f8885862d1d32458629fd6e6ad3",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite - Year 1 V2 Analytical Release Manifest",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_CORPUS_MANIFEST.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_DELIVERY_AUDIT.md",
+      "artifact_type": "delivery_audit",
+      "source_boundary": "Y1V11",
+      "status": "PASS_ROLLING_THROUGH_Y1V11_POST_CP03",
+      "word_count": 408,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 3365,
+      "sha256": "de88e88c0bdead5b1ac5d5506a5b4a7983168e2a2d8baf76d4e2c0a1241f0542",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Delivery Audit",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_DELIVERY_AUDIT.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_SOURCE_CHECKSUMS.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 1916,
+      "sha256": "88f2660b352f7dcb628a6450011dfc96c00788a02536eeeb492eaeeb096d34a1",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_SOURCE_CHECKSUMS.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_SOURCE_INVENTORY.md",
+      "artifact_type": "source_inventory",
+      "source_boundary": "complete Year 1 source set: Y1V01–Y1V11.5 plus Y1FF",
+      "status": "rolling_through_Y1V10_reconciled_cp03_reconciled_cp03",
+      "word_count": 1609,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 14957,
+      "sha256": "bdcd363763ff3115c04d5fb553efa35a562de6a48d980b5047c8f2d82e8fcd57",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Source Inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_SOURCE_INVENTORY.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V2_ANALYTICAL_RELEASE_2026-08-15.zip.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 111,
+      "sha256": "58b2dec435aa66dc4c900990627a55705c8a3dac3a1983c2f94f316511180faa",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_V2_ANALYTICAL_RELEASE_2026-08-15.zip.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V2_ARCHIVAL_LOCK.md",
+      "artifact_type": "archival_lock",
+      "source_boundary": "Japanese light novels Y1V01-Y1V11.5 + First File",
+      "status": "canonical",
+      "word_count": 175,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 1361,
+      "sha256": "c6a0a3d746ae795a2932c429de3912ee513131c3f3885b8fd931b679ea74583e",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite - Year 1 V2 Archival Lock",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/00 Corpus Administration/COTE_Y1_V2_ARCHIVAL_LOCK.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V01_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 11459,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 81925,
+      "sha256": "7b4efc6f24d0084e06ca295b76594dcafeb897f12dfda5454eb856bb93a63031",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 1 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V01_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V02_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 18567,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 131649,
+      "sha256": "feff8644534649c12ef2cc3e2f06f233d730aa82c850b4e2744580d1803907f8",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 2 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V02_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V03_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 18974,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 136038,
+      "sha256": "88869c52648e303432780f5e7476481d61887fce6d6347b0f89100b271646df5",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 3 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V03_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V04_5_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 18485,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 135105,
+      "sha256": "49c5ea54e12da49cc718c77e721afda1324a3ae6fa0e7a34888df7e7dda2d068",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 4.5 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V04_5_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V04_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 23996,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 166991,
+      "sha256": "1f00af7ffb80a285be7d161f3840477173e0c856a69af65fbf15df6665148cb3",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 4 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V04_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V05_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 20240,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 151129,
+      "sha256": "f0d9ed537e985a84a9e9b51659bf7edb4db8f2f628379d13459c17b2d17c3e3b",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 5 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V05_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V06_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 13652,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 99184,
+      "sha256": "86d2022194958dd1ce46c159f3fe96402ea88563d4fd52ce992baaf58d6f3deb",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 6 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V06_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V07_5_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 24632,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 185789,
+      "sha256": "d217cd60b1ad208c1462888879336163b1793fca5b575225ee3b8735e3605e77",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 7.5 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V07_5_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V07_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 20485,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 144898,
+      "sha256": "20cbc074254bcc10abe7286cc73de9985c83a0a2771cb16683f71c7328cfe229",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 7 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V07_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V08_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 17801,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 135631,
+      "sha256": "857b4038854537ae67d9deed42aadabe66035969a012c8ebfee7f7a579c0877f",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 8 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V08_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V09_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 14361,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 104081,
+      "sha256": "0a12fac8055ec490d330a794eadd93cdaf6a686d84c2b65efefcfca56f2635df",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 9 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V09_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V10_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 17134,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 125862,
+      "sha256": "b31c55f57159482db824b15aea1a493cd7de4527f3e98d742f9dfbe99172c090",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 10 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V10_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V11_5_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 17411,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 127023,
+      "sha256": "8b2d18cf156f5d667b96b7dd2b96e199930b6501fb8242015173d147eb1d660d",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 11.5 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V11_5_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V11_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 15552,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 114672,
+      "sha256": "a7d011296c7316592418aabed16a0e4045b1de87e114b7b5919a21418744130f",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume 11 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y1_V11_DEEP_READING.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_FIRST_FILE_PARATEXT_AUDIT.md",
+      "artifact_type": "guidebook_paratext_audit",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical_recovered_from_locked_source_audit",
+      "word_count": 12123,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 87101,
+      "sha256": "a4376e79144034ce3ac9e8e1c65bb83a62aec49640f83247a0d5e37f39f773a9",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 First File Paratext Audit",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/01A Guidebook Paratext Audits/COTE_Y1_FIRST_FILE_PARATEXT_AUDIT.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_EVIDENCE_RECONCILIATION_AUDIT_THROUGH_Y1V04_5.md",
+      "artifact_type": "evidence_reconciliation_audit",
+      "source_boundary": "Y1V01–Y1V04.5",
+      "status": "canonical_checkpoint_passed",
+      "word_count": 673,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 5068,
+      "sha256": "13555f98641f7a32ffd2146c21feedc31dc426cfc643c28c8bda67423f8766a3",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Evidence Reconciliation Audit through Y1V04.5",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_EVIDENCE_RECONCILIATION_AUDIT_THROUGH_Y1V04_5.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V05_TO_Y1V07_5.md",
+      "artifact_type": "evidence_reconciliation_audit",
+      "source_boundary": "Y1V05–Y1V07.5",
+      "status": "PASS_AFTER_TERMINOLOGY_METADATA_REPAIR",
+      "word_count": 665,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 5392,
+      "sha256": "8855048c2b2b159c61c6170f703625a22444450823911ac7e636bb4187f5b44f",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Evidence Reconciliation Audit for Y1V05–Y1V07.5",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V05_TO_Y1V07_5.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V08_TO_Y1V10.md",
+      "artifact_type": "checkpoint_evidence_provenance_audit",
+      "source_boundary": "Y1V08–Y1V10",
+      "status": "PASS",
+      "word_count": 604,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 4869,
+      "sha256": "20bd2f52db076fa12743872ef94cd9617a59457588b8cdc3c3f9982a634d6d0f",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Evidence Reconciliation Audit, Y1V08–Y1V10",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V08_TO_Y1V10.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V11_TO_Y1FF.md",
+      "artifact_type": "evidence_reconciliation_audit",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "pass",
+      "word_count": 366,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 2517,
+      "sha256": "1735afbb87e7ba1166eba21aa3846bd438c012bf85ba7c058639e955e56a1325",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "COTE Year 1 Evidence Reconciliation Audit — Y1V11 through Y1FF",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_EVIDENCE_RECONCILIATION_AUDIT_Y1V11_TO_Y1FF.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_01_PACKAGE_MANIFEST.md",
+      "artifact_type": "checkpoint_package_manifest",
+      "source_boundary": "Y1V01–Y1V04.5",
+      "status": "canonical_checkpoint_package",
+      "word_count": 152,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 1409,
+      "sha256": "56dfe2af0772d016292d4813f3a498fc867bed1fb1a092db057069bf4d7a5292",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Y1 Checkpoint 01 Package Manifest",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_01_PACKAGE_MANIFEST.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_01_RECONCILIATION.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 4554,
+      "sha256": "faddba536029a056604d51a8b9bc790722ca25b7ccbb9fc5a44ef9f2ba431037",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_01_RECONCILIATION.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_01_RECONCILIATION_Y1V01_TO_Y1V04_5.md",
+      "artifact_type": "cross_volume_reconciliation_checkpoint",
+      "source_boundary": "Y1V01–Y1V04.5",
+      "status": "canonical_checkpoint_reconciled_and_audited",
+      "word_count": 3472,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 27304,
+      "sha256": "230d2d0b892c692ea8df00a68b669670a167a397268f0047736d80dd3b58230d",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Checkpoint 01 Reconciliation",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_01_RECONCILIATION_Y1V01_TO_Y1V04_5.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_01_V01_TO_V04_5_RECONCILED.zip.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 116,
+      "sha256": "63a24ccb057f9a9772bb956a9165967663dee63910544e300ebfa861e92536f7",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_01_V01_TO_V04_5_RECONCILED.zip.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_02_PACKAGE_MANIFEST.md",
+      "artifact_type": "checkpoint_package_manifest",
+      "source_boundary": "Y1V05–Y1V07.5",
+      "status": "canonical_checkpoint_package",
+      "word_count": 443,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 5617,
+      "sha256": "c2827362276e74f8a23f9cad5fb9b44486717445f05fd9226ffb5e78ea59b525",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Y1 Checkpoint 02 Package Manifest",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_02_PACKAGE_MANIFEST.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_02_RECONCILIATION.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 3804,
+      "sha256": "8a06e9b588d251a71341245aec81fc68462fc18f22cf60696b83d9a59d463d1a",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_02_RECONCILIATION.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_02_RECONCILIATION_Y1V05_TO_Y1V07_5.md",
+      "artifact_type": "cross_volume_reconciliation_checkpoint",
+      "source_boundary": "Y1V05–Y1V07.5",
+      "status": "canonical_checkpoint_reconciled_and_audited",
+      "word_count": 2821,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 21164,
+      "sha256": "d0fcc116692c88dd98c29bb063f6e8502e34c7ae4fa5800be91d53f5e3d8834f",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Checkpoint 02 Reconciliation",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_02_RECONCILIATION_Y1V05_TO_Y1V07_5.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_02_V05_TO_V07_5_RECONCILED.zip.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 116,
+      "sha256": "0d609020fb18a99bd7ae24767a4f202668a2af2ad65ca471c2a9d39ae74c2392",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_02_V05_TO_V07_5_RECONCILED.zip.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_03_PACKAGE_MANIFEST.md",
+      "artifact_type": "checkpoint_package_manifest",
+      "source_boundary": "Y1V08–Y1V10",
+      "status": "canonical_checkpoint_package",
+      "word_count": 435,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 5463,
+      "sha256": "bc570bb3d629b04b7b462a9a0eea10fb8c03b20cc1c093c71270ff88e49f33ba",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Y1 Checkpoint 03 Package Manifest",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_03_PACKAGE_MANIFEST.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_03_RECONCILIATION.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 3913,
+      "sha256": "e2ca2b39e9b040969cc3cdf9fde3c4879de03a8fb475383204b6c220e89dce35",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_03_RECONCILIATION.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_03_RECONCILIATION_Y1V08_TO_Y1V10.md",
+      "artifact_type": "cross_volume_reconciliation_checkpoint",
+      "source_boundary": "Y1V08–Y1V10",
+      "status": "canonical_checkpoint_reconciled_and_audited",
+      "word_count": 2968,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 22422,
+      "sha256": "4c20f58b44e5e37d580f184092614f13976632250f57b8f1e83f945d8e3a8cd7",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Checkpoint 03 Reconciliation",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_03_RECONCILIATION_Y1V08_TO_Y1V10.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_CHECKPOINT_03_V08_TO_V10_RECONCILED.zip.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 114,
+      "sha256": "f208ae728602947021900dd77cd86add1ab1847f4d7a510edf1e95017b332970",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_CHECKPOINT_03_V08_TO_V10_RECONCILED.zip.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_FINAL_EVIDENCE_LOCK.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 2500,
+      "sha256": "1a35e1509f3e9797312fe20456f3fbe9e56d55956d1a21dc49783404403abdfb",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_EVIDENCE_LOCK.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_FINAL_EVIDENCE_LOCK_PACKAGE.zip.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 106,
+      "sha256": "ccf78f1a83c9662e1ef92a0603cafc152edb65d3e944efa0c6aff29cc81c755a",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_EVIDENCE_LOCK_PACKAGE.zip.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_FINAL_LOCK_ARTIFACT_CHECKSUMS.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 1496,
+      "sha256": "db686ff45e03d2a3ace7eeb113c7fe875c4b0ad4526068b7c1a658180f4d70fe",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_LOCK_ARTIFACT_CHECKSUMS.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_FINAL_LOCK_PACKAGE_MANIFEST.md",
+      "artifact_type": "package_manifest",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "canonical",
+      "word_count": 228,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 2713,
+      "sha256": "3081276462bffb0f95728c2c1f81ed9f1eedae1d20b77a9f9a1a4e058f252466",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "COTE Year 1 Final Lock Package Manifest",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_LOCK_PACKAGE_MANIFEST.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_FINAL_RECONCILIATION_AND_EVIDENCE_LOCK.md",
+      "artifact_type": "final_reconciliation_evidence_lock",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical_checkpoint_passed",
+      "word_count": 3757,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 27713,
+      "sha256": "5926bf68da838c4de6935d606d4c06f6e90b650517d6027efadbf67df4941456",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Final Year 1 Reconciliation and Evidence Lock",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_FINAL_RECONCILIATION_AND_EVIDENCE_LOCK.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_SOURCE_MAP_RECONCILED_THROUGH_Y1V10.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 182564,
+      "sha256": "09e42580194b792c3b0c28f895a9bebd1f85acbd50b565ef7ba3135ee0a394d8",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/02 Reconciliation Checkpoints/COTE_Y1_SOURCE_MAP_RECONCILED_THROUGH_Y1V10.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1.md",
+      "artifact_type": "year_boundary_ledger",
+      "source_boundary": "through Y1FF",
+      "status": "canonical_year1_snapshot",
+      "word_count": 3181,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 23945,
+      "sha256": "5523e6300c12ea7e5c03d02351c00ea5ce51613242ee81952142db1aa3124295",
+      "supersession_relation": {
+        "supersedes": "COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1V11.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Ayanokōji Kiyotaka Character Ledger through Year 1",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1V11.md",
+      "artifact_type": "rolling_ledger",
+      "source_boundary": "through Y1V11",
+      "status": "rolling_snapshot_through_Y1V11",
+      "word_count": 2385,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 18082,
+      "sha256": "aef8d6658cbe296c6e607da37292c72bac81069038c927e9a6d13fd2a2defd77",
+      "supersession_relation": {
+        "supersedes": "COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1V10.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Ayanokōji Kiyotaka Character Ledger through Y1V11",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y1V11.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1.md",
+      "artifact_type": "year_boundary_ledger",
+      "source_boundary": "through Y1FF",
+      "status": "canonical_year1_snapshot",
+      "word_count": 2197,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 16238,
+      "sha256": "9280751670470acff0a57f258ff7bd30eddd27a0ebdfc8d4740296c3a0d31d51",
+      "supersession_relation": {
+        "supersedes": "COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V11.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Horikita Suzune Character Ledger through Year 1",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V11.md",
+      "artifact_type": "rolling_ledger",
+      "source_boundary": "through Y1V11",
+      "status": "rolling_snapshot_through_Y1V11",
+      "word_count": 1557,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 11726,
+      "sha256": "8df462f748c587fa1e2755ef8a43aff83db983d7cd1876a4cf7de411a237d9ff",
+      "supersession_relation": {
+        "supersedes": "COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V10.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Horikita Suzune Character Ledger through Y1V11",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y1V11.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+      "artifact_type": "year_boundary_ledger",
+      "source_boundary": "through Y1FF",
+      "status": "canonical_year1_snapshot",
+      "word_count": 4551,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 34496,
+      "sha256": "8200d4eef52567a8cb4240e26a45461f0d9d6ed18c0559d9702b860d33422647",
+      "supersession_relation": {
+        "supersedes": "COTE_CLASS_POLITY_LEDGER_THROUGH_Y1V11.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Class Polity Ledger through Year 1",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_CLASS_POLITY_LEDGER_THROUGH_Y1V11.md",
+      "artifact_type": "rolling_class_polity_snapshot",
+      "source_boundary": "through Y1V11",
+      "status": "rolling_snapshot_through_Y1V11",
+      "word_count": 3909,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 29615,
+      "sha256": "6f945e75bbecf9e5097d40804bc49119274748c0e71a062620810e0dd9b9ae4c",
+      "supersession_relation": {
+        "supersedes": "COTE_CLASS_POLITY_LEDGER_THROUGH_Y1V10.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Class Polity Ledger through Y1V11",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_CLASS_POLITY_LEDGER_THROUGH_Y1V11.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1.md",
+      "artifact_type": "year_boundary_ledger",
+      "source_boundary": "through Y1FF",
+      "status": "canonical_year1_snapshot",
+      "word_count": 2229,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 16700,
+      "sha256": "b6b70b81e00679fd710d55de72ad07147e86d8abe9c269f945d75cfd31e1c743",
+      "supersession_relation": {
+        "supersedes": "COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V11.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Institution and Examination Ledger through Year 1",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V11.md",
+      "artifact_type": "rolling_ledger",
+      "source_boundary": "through Y1V11",
+      "status": "rolling_snapshot_through_Y1V11",
+      "word_count": 1661,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 12596,
+      "sha256": "c191d569ef409be80a0182c04eabdcc105005a79ccdb2ca64a738f830d00192f",
+      "supersession_relation": {
+        "supersedes": "COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V10.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Institution and Examination Ledger through Y1V11",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_INSTITUTION_EXAM_LEDGER_THROUGH_Y1V11.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_LONGITUDINAL_CLAIM_LEDGER_THROUGH_Y1.md",
+      "artifact_type": "year_boundary_ledger",
+      "source_boundary": "through Y1FF",
+      "status": "canonical_year1_snapshot",
+      "word_count": 2835,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 21820,
+      "sha256": "673e09cce0466f355d453573c458b5ce2a713aa0c19e4417972b3e22c1ebf05e",
+      "supersession_relation": {
+        "supersedes": "COTE_LONGITUDINAL_CLAIM_LEDGER_THROUGH_Y1V11.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Longitudinal Claim Ledger through Year 1",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_LONGITUDINAL_CLAIM_LEDGER_THROUGH_Y1.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_LONGITUDINAL_CLAIM_LEDGER_THROUGH_Y1V11.md",
+      "artifact_type": "rolling_ledger",
+      "source_boundary": "through Y1V11",
+      "status": "rolling_snapshot_through_Y1V11",
+      "word_count": 2236,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 17162,
+      "sha256": "d87a4029a72a331482f260b6cf32f3ce3ae42d65defef1ca3863e08ae6b99481",
+      "supersession_relation": {
+        "supersedes": "COTE_LONGITUDINAL_CLAIM_LEDGER_THROUGH_Y1V10.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Longitudinal Claim Ledger through Y1V11",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_LONGITUDINAL_CLAIM_LEDGER_THROUGH_Y1V11.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_RELATIONSHIP_LEDGER_THROUGH_Y1.md",
+      "artifact_type": "year_boundary_ledger",
+      "source_boundary": "through Y1FF",
+      "status": "canonical_year1_snapshot",
+      "word_count": 2918,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 21955,
+      "sha256": "2c0b65ebfa7516de0a0a7396e7cb3d7491a2b8a9e6f8b3eee89ad5b9c3fc9480",
+      "supersession_relation": {
+        "supersedes": "COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V11.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Relationship Ledger through Year 1",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y1.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V11.md",
+      "artifact_type": "rolling_ledger",
+      "source_boundary": "through Y1V11",
+      "status": "rolling_snapshot_through_Y1V11",
+      "word_count": 2263,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 16879,
+      "sha256": "9a05d3abcf12ebceaeb6ed2b8c025f3233adc8a1298cda3051cd952bf8c4b651",
+      "supersession_relation": {
+        "supersedes": "COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V10.md",
+        "superseded_by": null
+      },
+      "primary_home_subject": "Classroom of the Elite — Relationship Ledger through Y1V11",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y1V11.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+      "artifact_type": "volume_evidence_ledger",
+      "source_boundary": "through Y1FF",
+      "status": "canonical_year1_evidence_router_frozen",
+      "word_count": 52315,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 387392,
+      "sha256": "794821b668185307791e1db6ebdad1b88c8bec974ff6ca7aa1df3eced322576f",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Volume-by-Volume Evidence Ledger",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 113,
+      "sha256": "7a471d32b625456a903b342b668859c5d1548406f2ac380054a5d3e68339ab86",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_Y1_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+      "artifact_type": "japanese_terminology_passage_index",
+      "source_boundary": "through Y1FF",
+      "status": "canonical",
+      "word_count": 18819,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 167085,
+      "sha256": "174fa10738f276d0011a445c981fe4da9cd5c698d96e486e7fa46bcdabbecabf",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Japanese Terminology and Passage Index",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 119,
+      "sha256": "8c1483517382a3c741c85c9ee770fe9a87aea0ed1975979f82c1b295eb6cdccb",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/03 Rolling Ledgers/COTE_Y1_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_00_README_AND_CORPUS_MAP_QA_REPORT.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 694,
+      "sha256": "f73bc61b0f6f96034c711df6e34e48497ab8be73b2c4557f11d4c11abcbb1e04",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_00_README_AND_CORPUS_MAP_QA_REPORT.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_12_FINALIZATION_QA_REPORT.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 938,
+      "sha256": "435c660781913e91b7c6ee02bf28158871c22d1d222943680c76da60529bb8a0",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_12_FINALIZATION_QA_REPORT.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_12_SPECIALIST_CORPUS_AUDIT.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 63726,
+      "sha256": "efb6fe592b7474e4850f0ca70b377fa03d52c090df87744c2ca6a89954c42c81",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_12_SPECIALIST_CORPUS_AUDIT.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_13_FINALIZATION_QA_REPORT.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 859,
+      "sha256": "81f15923ff7879c855409e295d513a30c9c4a77c1f5beb4c3f1621d3e0ceecff",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_13_FINALIZATION_QA_REPORT.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_13_SPECIALIST_ROUTING_AUDIT.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 232398,
+      "sha256": "eb56700c97c449402a5f2814f2789cbb62f32d2a2db9a2a26a5108a813c0a33f",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_13_SPECIALIST_ROUTING_AUDIT.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_FULL_SYNTHESIS_QA_REPORT.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 2750,
+      "sha256": "b853f200bbcc696dfb02bf10f3849950a96bf65e9d2f08b913507e521b553a0d",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_FULL_SYNTHESIS_QA_REPORT.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_LONGITUDINAL_THREAD_REGISTRY.md",
+      "artifact_type": "longitudinal_thread_registry",
+      "source_boundary": "through Y1FF",
+      "status": "canonical_year1_snapshot",
+      "word_count": 1952,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 16521,
+      "sha256": "5095da8dab967fef046f8980e8f412a533177d1bd88a22664d3025ebedce182b",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Longitudinal Thread Registry",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_LONGITUDINAL_THREAD_REGISTRY.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_PROJECT_STATUS.md",
+      "artifact_type": "project_status",
+      "source_boundary": "through Y1FF",
+      "status": "year1_v2_immutable_release_frozen",
+      "word_count": 2561,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 22747,
+      "sha256": "44c3913b4f247889428f7dab41182d9d26dcbb0f230ebbc8ff004b9afe07ef8c",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 1 Definitive Second Pass Project Status",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_PROJECT_STATUS.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_SOURCE_MAP.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 205308,
+      "sha256": "5c5ce97f6129eb4fc7562271b3e5e925f344f353ef1d919458f47ecff0ce67d6",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_SOURCE_MAP.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V04_5_RECOVERY_NOTE.md",
+      "artifact_type": "provenance_recovery_note",
+      "source_boundary": "Y1V04.5",
+      "status": "canonical_support_record",
+      "word_count": 206,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 1985,
+      "sha256": "8c5957eb774b41a7ce0a1c4876ed5ebf2f200fda62a1554f8c7e9062fbd3a5fe",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Y1V04.5 Canonical Artifact Recovery Note",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_V04_5_RECOVERY_NOTE.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_V2_FINAL_DELIVERY_AUDIT.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 32298,
+      "sha256": "3938a88712a129b11625ec76b95b861e7423cb6a40ef897411f4b15cd47f9f6e",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/04 Source Maps and Support/COTE_Y1_V2_FINAL_DELIVERY_AUDIT.json",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_00_README_AND_CORPUS_MAP.md",
+      "artifact_type": "corpus_map",
+      "source_boundary": "Japanese light novels Y1V01–Y1V11.5 + First File",
+      "status": "canonical",
+      "word_count": 5248,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 41920,
+      "sha256": "ea27cbfd5e91ae9be20c70fbf1a0b628abe49983b83b5e5cbec0f962cdd503f9",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y1_00",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_00_README_AND_CORPUS_MAP.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_00_README_AND_CORPUS_MAP.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 102,
+      "sha256": "6fcd768f46d857a7d210c0988c03d517f0a31b08f243c7a25cca2f209b6f1c55",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_00_README_AND_CORPUS_MAP.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical_year1_snapshot",
+      "word_count": 13603,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 98258,
+      "sha256": "e0e35d9fe35e8467c16a572452735f35cdbea7cb5427f263f99df8f328d2de4b",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": null
+      },
+      "primary_home_subject": "Y1_01",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 121,
+      "sha256": "11198c78daadc082395532a149fd59bea2e89a5c9aec14e269d87f6571909456",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical_year1_specialist_synthesis",
+      "word_count": 16512,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 115293,
+      "sha256": "7d2e8dda7d536362e4a12de3511dbd1909dc42192a73b46583cc48d0787b1a95",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Y1_02",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 128,
+      "sha256": "5d71a9b692e70ab7b8cc448b525001be050cf271c2fa1af4fff8f42fb13c1b75",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical_year1_specialist_synthesis",
+      "word_count": 15311,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 107686,
+      "sha256": "36f689a2d59d82710393307e6de39229e94d7e79ad1d240d7b4390d82be03713",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Y1_03",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 136,
+      "sha256": "0f076c945dca6675f8d46e7c269da2ac4349ade0831a3dda2618c4e716a13446",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical_year1_specialist_synthesis",
+      "word_count": 15044,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 107929,
+      "sha256": "3f0525148f40468ad387a32cd9679575d7b742a122dd636a8a71450b0a1a73d6",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Y1_04",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 140,
+      "sha256": "98a553f0c82374bf03360ffcf57f9b3ff3fdc13b8a20283fde124be266ab9753",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01-Y1V11.5 + Y1FF",
+      "status": "canonical_year1_specialist_synthesis",
+      "word_count": 16628,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 120367,
+      "sha256": "5c49036564ae745157616e8537ab7610d1825c41b5bda4b714ae9d2a6678afff",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Y1_05",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 137,
+      "sha256": "a0cdd1e0f12a16e01721c10e08bdf13c35627c0db26f032020a6b0c00ada8a26",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical_year1_specialist_synthesis",
+      "word_count": 19630,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 142495,
+      "sha256": "05334e41fa2af8929026ce76bd34f2f608bca9b8a21f669d8734f325459543b7",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Y1_06",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 129,
+      "sha256": "b4637b229e3a71ce62fb26c8bb59ef34abb691b22be314cb4908d9f8cc90831b",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical_year1_specialist_synthesis",
+      "word_count": 15974,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 117238,
+      "sha256": "1d6e10f2847cb23a40d41fe887f52ffe75658902e57bcf01cdd2858283a6c478",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Y1_07",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 133,
+      "sha256": "194f2fdf36c32cc7f1207333a32d5432336ca7e07c48095604c3411fc7dc6a57",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01-Y1V11.5 + Y1FF",
+      "status": "canonical_year1_specialist_synthesis",
+      "word_count": 14717,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 105345,
+      "sha256": "21a2b4b96edce16bbb7afc6320387aa48a7443dc1745b248bb6c3d135618ff4b",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Y1_08",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 130,
+      "sha256": "38780d8ae76b648ff4dc044f823e12e262a9963fdb40b06c06a8f3589a1c227e",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical_year1_specialist_synthesis",
+      "word_count": 13346,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 98938,
+      "sha256": "5d80e7c06a632df9037408603aa6d3c9da91c7dc4c37c137950cd9674e2feb01",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": null
+      },
+      "primary_home_subject": "Y1_09",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 137,
+      "sha256": "2ff2f43d3836fc779479bdcc647db1cc2a429ece75613822dd2db2c2bdcf2495",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical",
+      "word_count": 13246,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 96709,
+      "sha256": "06e70b9daa66ae3ee261d07c7e151e3d402239ef4cacd5e6372c96ed6952dd46",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y1_10",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 116,
+      "sha256": "6fd39ce9ee64ef264de40e170426c27ab715223ab6d71bc656d463323065cbc5",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical",
+      "word_count": 13365,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 95433,
+      "sha256": "dcd538e2f18224a41a003c24157ba8f86bc1aa11bbfc0ccc850ef984a4f8f45c",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y1_11",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 138,
+      "sha256": "34cee830c9833efe3cdf9b030651c4ff3a69ecda7bd64202ae0498b0ccce1f30",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_FULL_SYNTHESIS.md",
+      "artifact_type": "full_year_synthesis",
+      "source_boundary": "Y1V01–Y1V11.5 + Y1FF",
+      "status": "canonical",
+      "word_count": 21663,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 158823,
+      "sha256": "ade73990a3e049de2b04b14b1a2e572cb98e192edcb4bffa5e5c9312de827bc3",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y1_FULL",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_FULL_SYNTHESIS.md",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y1_FULL_SYNTHESIS.md.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "Y1FF historical foundation",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 92,
+      "sha256": "2a2363a1b51aa5c696b2aed38c4336b0561dfdf3fbc8fe5900870189dbacb06a",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/02 Year 1 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y1_FULL_SYNTHESIS.md.sha256",
+      "package_group": "historical_Y1_foundation"
+    },
+    {
+      "filename": "COTE_Y2_PROJECT_STATUS.md",
+      "artifact_type": "current_state_and_corpus_map",
+      "source_boundary": "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings and closeout analysis complete; frozen release through Y2SL; Year-3 eligibility recorded for a later execution",
+      "status": "canonical",
+      "word_count": 5271,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 50520,
+      "sha256": "e0c256faffb23ae79f1d7a2dcb20abc29b9fb896b9b2f43f61ca4a7098259fe8",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "current_state_and_corpus_map",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_PROJECT_STATUS.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_SOURCE_CHECKSUMS.sha256",
+      "artifact_type": "checksum_inventory",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 2299,
+      "sha256": "c0be26e990425ce9cbfda0a3ac95b089b6e15f245bce087593254774ae73bd69",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "checksum_inventory",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_SOURCE_CHECKSUMS.sha256",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V2_ARCHIVAL_LOCK.md",
+      "artifact_type": "archival_lock",
+      "source_boundary": "Y2SL",
+      "status": "canonical",
+      "word_count": 500,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 4396,
+      "sha256": "40eec72113d573c6ff3182b120a85709bd9a3f0f205f1af5919974cdd153b94c",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 V2 Archival Lock",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_V2_ARCHIVAL_LOCK.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_V00_RETROSPECTIVE_DEEP_READING.md",
+      "artifact_type": "retrospective_deep_reading",
+      "source_boundary": "Japanese Volume 0, read after the frozen Year 1 V2 corpus and canonical Y2V01-Y2V08 pre-Volume-0 record",
+      "status": "canonical",
+      "word_count": 24164,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 177976,
+      "sha256": "c4dc9c327f75ffc2a78ab9aeb706ebb023ec0bd3b7d81c49c743ae98bf057473",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Volume 0 Retrospective Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_V00_RETROSPECTIVE_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V01_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 1 only, with the frozen Year 1 V2 corpus as inherited background",
+      "status": "canonical",
+      "word_count": 20719,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 147995,
+      "sha256": "aef42286cf01e148f27d1909a5dd4ae76ef34a9c1a2501d9f3a59020623c0a71",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 1 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V01_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V02_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 2 only, with the frozen Year 1 V2 corpus and canonical Y2V01 endpoint as inherited background",
+      "status": "canonical",
+      "word_count": 18203,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 127211,
+      "sha256": "c5f2b01e69728f218f8c461ef55cfa2ed53f95f0f594019b6c23b714f32b8726",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 2 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V02_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V03_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 3 only, with the frozen Year 1 V2 corpus and canonical Y2V01-Y2V02 endpoints as inherited background",
+      "status": "canonical",
+      "word_count": 16023,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 119185,
+      "sha256": "e5398e564f31e25ded1ab5821b5931a525cbe516662e4f9a6add42e36edd1eaf",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite - Year 2 Volume 3 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V03_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V04_5_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 4.5 only, with frozen Year 1 V2 and canonical Y2V01-Y2V04 as inherited analytical background",
+      "status": "canonical",
+      "word_count": 21676,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 161356,
+      "sha256": "e514e448bd7d137032d9fac092b2dcb38aa0490aa10fd3134f0ef81a08866a01",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 4.5 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V04_5_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V04_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 4 only, with the frozen Year 1 V2 corpus and canonical Y2V01-Y2V03 endpoints as inherited background",
+      "status": "canonical",
+      "word_count": 24606,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 179499,
+      "sha256": "00cf53fdfdbd24c35c344054fbfcd5515ea4e83499ccdf5d77252489a1ae8741",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 4 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V04_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V05_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 5 only, with frozen Year 1 V2 and canonical Y2V01-Y2V04.5 as inherited analytical background",
+      "status": "canonical",
+      "word_count": 23517,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 170971,
+      "sha256": "05538ad97a41b063b043adadb77ac32e1999c9f0470f66724c8fcea1f582016b",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 5 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V05_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V06_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 6 only, with frozen Year 1 V2 and canonical Y2V01-Y2V05 as inherited analytical background",
+      "status": "canonical",
+      "word_count": 20238,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 147019,
+      "sha256": "867d35ed13a82792b6911203d7611bf618ea6a4f29de036f32142e5b57d210fb",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 6 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V06_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V07_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 7 only, with frozen Year 1 V2 and canonical Y2V01-Y2V06 as inherited analytical background",
+      "status": "canonical",
+      "word_count": 21080,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 152674,
+      "sha256": "4e648dec2297a4bb76764ec790f089f5b32cfccdca47aee50991380e38842e95",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 7 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V07_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V08_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 8 only, with frozen Year 1 V2 and canonical Y2V01-Y2V07 as inherited analytical background",
+      "status": "canonical",
+      "word_count": 20384,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 170934,
+      "sha256": "a86820648dbe657797367afe51129ec293c12ee008d3d83743ec6fddc9122180",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 8 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V08_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V09_5_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 9.5, with frozen Year 1 V2, canonical Y2V01-Y2V09 local artifacts, and canonical Volume 0 retrospective reader-level authority as inherited analytical background",
+      "status": "canonical",
+      "word_count": 17717,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 152045,
+      "sha256": "c9246c8cf075e7f3b4d43d5ccc17b38663ba46d6fb871b594346db8edba135fc",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite - Year 2 Volume 9.5 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V09_5_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V09_DEEP_READING.md",
+      "artifact_type": "volume_deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 9, with frozen Year 1 V2, canonical Y2V01-Y2V08 local artifacts, and canonical Volume 0 retrospective reader-level authority as inherited analytical background",
+      "status": "canonical",
+      "word_count": 20389,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 167884,
+      "sha256": "a343dc15fdf0f4b9fcab1227911ddfadeceaff1e09e82b1fd11b6f8b60107e5a",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 9 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V09_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V10_DEEP_READING.md",
+      "artifact_type": "deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 10, with frozen Year 1 V2, canonical Y2V01-Y2V09.5, and Volume 0 retained only as reader-level retrospective authority in its architecture-mandated position",
+      "status": "canonical",
+      "word_count": 18163,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 140042,
+      "sha256": "c8675d6cba6e2a4df076090b030516c9bb355bbf5e9deccefc1db272a1e3ce99",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 10 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V10_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V11_DEEP_READING.md",
+      "artifact_type": "deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 11, with frozen Year 1 V2, canonical Y2V01-Y2V10, and Volume 0 retained only as reader-level retrospective authority in its architecture-mandated position",
+      "status": "canonical",
+      "word_count": 15823,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 124034,
+      "sha256": "8fff10e25829b641732b5e7307b66a0a6f42472919b35b20105f9955eda38789",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 11 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V11_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V12_5_DEEP_READING.md",
+      "artifact_type": "deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 12.5, with frozen Year 1 V2, canonical Y2V01-Y2V12, and Volume 0 retained only as reader-level retrospective authority in its architecture-mandated position",
+      "status": "canonical",
+      "word_count": 16222,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 142876,
+      "sha256": "bf4ab422e5e3f6bc02bc844d99020437e091c4310062e89a1e1d81ed11368e10",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 12.5 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V12_5_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_V12_DEEP_READING.md",
+      "artifact_type": "deep_reading",
+      "source_boundary": "Japanese light novel Year 2 Volume 12, with frozen Year 1 V2, canonical Y2V01-Y2V11, and Volume 0 retained only as reader-level retrospective authority in its architecture-mandated position",
+      "status": "canonical",
+      "word_count": 21722,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 167615,
+      "sha256": "7c0a86cec692b36caa7e847c1bafeefad2cb06f162a22be46f282cda29af72e8",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Volume 12 Deep Reading",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V12_DEEP_READING.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md",
+      "artifact_type": "guidebook_paratext_audit",
+      "source_boundary": "Japanese Y2V01–Y2V12.5 + Volume 0 in the mandated retrospective position + Year 2 Official Guidebook Second List; Year 3 excluded",
+      "status": "canonical",
+      "word_count": 10850,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 78171,
+      "sha256": "12075e0c96fee2ab63176b583c186f81b8084f99c30f4a926954b6357ba05ccb",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 Second List Paratext Audit",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01A Guidebook Paratext Audits/COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_ABILITY_MEASUREMENT_LEDGER_THROUGH_Y2.md",
+      "artifact_type": "ability_measurement_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 8336,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 60786,
+      "sha256": "dd330ee6a42d97f0f9e8b6a4ffdaf0b56d785d4708ebc5f6fabf437d0248d6df",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Ability and Measurement Ledger through Year 2",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ABILITY_MEASUREMENT_LEDGER_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_ACTOR_IDENTITY_ALLEGIANCE_LEDGER.md",
+      "artifact_type": "identity_allegiance_ledger",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 V01–V12.5, Volume 0 after Y2V08, and Second List after Y2V12.5",
+      "status": "canonical",
+      "word_count": 1638,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 12776,
+      "sha256": "060e803a0a55956a9adcf0776a78d9ef679139c61d682801411d698b76bcf7cc",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Actor identity, knowledge, allegiance, and authorship",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ACTOR_IDENTITY_ALLEGIANCE_LEDGER.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y2.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Y2SL",
+      "status": "canonical",
+      "word_count": 4627,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 34017,
+      "sha256": "7cd8fdce959819b37350d7aa04fd98aa358a6ea366c90a57ed72d7f9d56d1838",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "character_ledger",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_CLASS_RELATIONAL_CORE_THROUGH_Y2.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Y2SL",
+      "status": "canonical",
+      "word_count": 14968,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 108627,
+      "sha256": "76001e9503dfc8cd763d6a6c8f6f38fb562295a9ab26cecb0580cdd4dc65dca3",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "character_ledger",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_CLASS_RELATIONAL_CORE_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y2.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Y2SL",
+      "status": "canonical",
+      "word_count": 4837,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 35799,
+      "sha256": "072286213ed20c51fe2cfef9cfc934ee79813ff1fccc895fdf75e0bdbab9ceef",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "character_ledger",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_HORIKITA_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_INSTITUTIONAL_ACTORS_THROUGH_Y2.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 V01–V12.5, Volume 0 after Y2V08, and Second List after Y2V12.5",
+      "status": "canonical",
+      "word_count": 1784,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 13928,
+      "sha256": "d5e9498662b68170e137c564c8085a934ff6bb699be4a34bf4d836f0bf6d6f3e",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Institutional actors: persons, offices, and limits of inference",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_INSTITUTIONAL_ACTORS_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md",
+      "artifact_type": "character_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Y2SL",
+      "status": "canonical",
+      "word_count": 11908,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 89913,
+      "sha256": "fb51bf21cc156232527e678bcac2d96ab3c5d5cdf6140a5233dce054738b5a0b",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "character_ledger",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_CLASS_POLITY_LEDGER_THROUGH_Y2.md",
+      "artifact_type": "class_polity_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Y2SL",
+      "status": "canonical",
+      "word_count": 9662,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 71855,
+      "sha256": "51997943f0f7089122c7d2d97a0d654548d159bd7bc50a865de1aa69a402e6dc",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Class Polity Ledger through Year 2",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_CLASS_POLITY_LEDGER_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_ETHICS_LEDGER_THROUGH_Y2.md",
+      "artifact_type": "ethics_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 8581,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 63220,
+      "sha256": "88f1941d254fc2dd43fde6e546559fc80317f623af66d29291a3c27c769c3862",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Ethics Ledger through Year 2",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ETHICS_LEDGER_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_EXAM_LEDGER_THROUGH_Y2.md",
+      "artifact_type": "exam_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Y2SL",
+      "status": "canonical",
+      "word_count": 9231,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 67453,
+      "sha256": "14a44abfbcbb11f9567663e63359da952ba1e2b09cc050fd74fef8e0996a1f3c",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Examination Ledger through Year 2",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_EXAM_LEDGER_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_INSTITUTIONAL_RULES_LEDGER_THROUGH_Y2.md",
+      "artifact_type": "institutional_rules_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Y2SL",
+      "status": "canonical",
+      "word_count": 8118,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 59489,
+      "sha256": "283a86160d7630f45f8bbd70195f90de256214653b871860e8d81be858c04654",
+      "supersession_relation": {
+        "supersedes": null,
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Institutional Rules Ledger through Year 2",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_INSTITUTIONAL_RULES_LEDGER_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_JAPANESE_VOICE_LEDGER_THROUGH_Y2.md",
+      "artifact_type": "japanese_voice_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 8522,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 62541,
+      "sha256": "b87d7ec44e21085bbeb5efb2ebefdefa5f1a8c2473187f95a5e65a3c8f8234e4",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Japanese Voice Ledger through Year 2",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_JAPANESE_VOICE_LEDGER_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md",
+      "artifact_type": "claim_revision_ledger",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 V01–V12.5, Volume 0 after Y2V08, and Second List after Y2V12.5",
+      "status": "canonical",
+      "word_count": 1541,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 13338,
+      "sha256": "82b6e6d54cd2f577a463bcda7922e9694b51010c70a01fc57179a22295e0e06f",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Longitudinal claims and revision: first dedicated Y2SL register",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_ORDINARY_LIFE_COUNTERCURRICULUM_LEDGER_THROUGH_Y2.md",
+      "artifact_type": "ordinary_life_countercurriculum_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 9537,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 69371,
+      "sha256": "ec623b522ecaabfe7fbefe92f4ac9099dcca82693092b79833d63171fa28d9e8",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Ordinary Life / Counter-Curriculum Ledger through Year 2",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_ORDINARY_LIFE_COUNTERCURRICULUM_LEDGER_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_RELATIONSHIP_LEDGER_THROUGH_Y2.md",
+      "artifact_type": "relationship_ledger",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Y2SL",
+      "status": "canonical",
+      "word_count": 8959,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 66834,
+      "sha256": "0e2019c69aba6497f57207369e85a626280925e3f87dd8574e16eec547e91da4",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Relationship Ledger through Year 2",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_RELATIONSHIP_LEDGER_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_RETROSPECTIVE_REVELATION_LEDGER_VOLUME0.md",
+      "artifact_type": "retrospective_revelation_ledger",
+      "source_boundary": "Japanese Volume 0 read after the frozen Y2V08 sequential record",
+      "status": "canonical",
+      "word_count": 5964,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 51138,
+      "sha256": "83d9a1e6d3ccd0e7709855bdfed96ba19db649daa1ba7ab6c5c57047960d0512",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Volume 0 Retrospective Revelation Ledger",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_RETROSPECTIVE_REVELATION_LEDGER_VOLUME0.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_SUCCESSION_SEPARATION_LEDGER.md",
+      "artifact_type": "succession_separation_ledger",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 V01–V12.5, Volume 0 after Y2V08, and Second List after Y2V12.5",
+      "status": "canonical",
+      "word_count": 1808,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 14241,
+      "sha256": "e17d932749670c3722ac3a88ae81fa8659f5e3f195282a9a1fc1adde6ff26e13",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Succession and separation: does development survive the developer?",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_SUCCESSION_SEPARATION_LEDGER.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_THEME_TERMINOLOGY_LEDGER_THROUGH_Y2.md",
+      "artifact_type": "theme_terminology_ledger",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 V01–V12.5, Volume 0 after Y2V08, and Second List after Y2V12.5",
+      "status": "canonical",
+      "word_count": 1454,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 12463,
+      "sha256": "99a51f94e8f3daaa85db2ac840e220670f74de40866f978a2aca9961ecafa304",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Themes and terminology through Y2SL",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_THEME_TERMINOLOGY_LEDGER_THROUGH_Y2.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md",
+      "artifact_type": "handoff_transition_ledger",
+      "source_boundary": "Frozen Y1 V2 boundary + canonical Y2V01-Y2V08 local adjudication + Volume 0 retrospective reconciliation + canonical Y2V09-Y2V12.5 + canonical Y2SL paratext audit; complete Year-2 source boundary",
+      "status": "canonical",
+      "word_count": 6680,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 55152,
+      "sha256": "54b75a63aef2fe1d5712d594ef4aa21c5bd15b15e1d2497e2bdb52836c9af77e",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "handoff_transition_ledger",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/03 Rolling Ledgers/COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_EVIDENCE_INDEX.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 534720,
+      "sha256": "fe49ccab0200cbbe65e5b890568ea36b258e0f305a903acb2ccf7413f825f2d1",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/COTE_Y2_EVIDENCE_INDEX.json",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_RECONSTRUCTION_PROTOCOL_CLOSEOUT_AUDIT.md",
+      "artifact_type": "delivery_audit",
+      "source_boundary": "Y2SL",
+      "status": "canonical",
+      "word_count": 1463,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 20063,
+      "sha256": "d28ad105a437dc4d7a93d22251499e1edd5c3d15c9c99c4f70b9030a2be81414",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Through-Year-2 Reconstruction Protocol Closeout Audit",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/COTE_Y2_RECONSTRUCTION_PROTOCOL_CLOSEOUT_AUDIT.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_RELEASE_SPEC.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 28142,
+      "sha256": "7b4cfc612f0a3681518773c390f998177de9b78b1ee5d598525f182ca24b9a7e",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/COTE_Y2_RELEASE_SPEC.json",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_SOURCE_INVENTORY_AND_LOCK.md",
+      "artifact_type": "source_lock",
+      "source_boundary": "Y2V01-Y2V12.5 + V00 + Y2SL",
+      "status": "canonical",
+      "word_count": 544,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 4495,
+      "sha256": "980c28f29391f1fdbcab20a02a5622c48d3ec3b49f5a59469affe8d1cf6b85c7",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "source_lock",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/COTE_Y2_SOURCE_INVENTORY_AND_LOCK.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_SOURCE_LOCATOR_MAP.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 166626,
+      "sha256": "93403f42a575aa3cfe1db0f554ebbcf4c1a3085ab890638084b3369c079dd1bf",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/COTE_Y2_SOURCE_LOCATOR_MAP.json",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_SOURCE_ROUTING_SPEC.json",
+      "artifact_type": "retrieval_or_release_data",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 30075,
+      "sha256": "60a88503cca056a0b1ffbd3f25ca1c12af671b824e891cabdd9b8f76abb5a3e0",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "retrieval_or_release_data",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/COTE_Y2_SOURCE_ROUTING_SPEC.json",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "generate_y2_evidence_router.py",
+      "artifact_type": "reproducibility_tool",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 11138,
+      "sha256": "4cf8e846d56026c51b6fc0858950f553aa12141c1e0931ad5cd0cdc37609956e",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "reproducibility_tool",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/generate_y2_evidence_router.py",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "generate_y2_release.py",
+      "artifact_type": "reproducibility_tool",
+      "source_boundary": "method/infrastructure; no independent narrative claim",
+      "status": "supporting_infrastructure",
+      "word_count": null,
+      "word_count_method": "not applicable to structured data/tool/checksum",
+      "byte_count": 16977,
+      "sha256": "a02ec768caa612f656521b1a07ed4abcacc73ee9e2b604121e910af45e384e7a",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "reproducibility_tool",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/generate_y2_release.py",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_00_README_AND_CORPUS_MAP.md",
+      "artifact_type": "corpus_map",
+      "source_boundary": "Japanese Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position after Y2V08 + Second List after Y2V12.5",
+      "status": "canonical",
+      "word_count": 7933,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 72459,
+      "sha256": "faf90046cd590519b18097fee087ce75b3cbbb9b222d16a35b4e08fa1ec1f695",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_00",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md",
+      "artifact_type": "year_level_specialist_synthesis",
+      "source_boundary": "Japanese Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position after Y2V08 + Second List after Y2V12.5",
+      "status": "canonical",
+      "word_count": 13659,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 100393,
+      "sha256": "134c1b56f286cadac8376ace50d872f4849e06bd4d099acd8b1786d6e27fc7ca",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_01",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 17517,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 125907,
+      "sha256": "555c99fb0f3ad4bc6a492ddbe8d4d9f00fe9b8dd06ef18c30e754ef548b06584",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "specialist_synthesis",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 18165,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 130496,
+      "sha256": "020908e03581dbc174b693eb72e1ee84b675b02e0e6998a4a46e1c41f04309e1",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "specialist_synthesis",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 22611,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 164520,
+      "sha256": "285f91363c4a10fcdaee03df68b90f54cf65507b2509e810f4b195eca6a0cf02",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "specialist_synthesis",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 18482,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 136867,
+      "sha256": "d8902ae2762e8011028b38b0b0eeab68a37a8a3ca04e177c0f5ef44bcbd777b2",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_05",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 10692,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 78252,
+      "sha256": "29babb2d798987ed98fe1d77ef0dd51930c69d35163bae8bd087d3d1b63e8427",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_06",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 12701,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 94494,
+      "sha256": "937cfb860e42b077ff7d13d0ab906a7514642dca41610ce57b85d62f12fe682e",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_07",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 16175,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 118480,
+      "sha256": "82db495e54c8e421233dfb6923945160163fba4befbf2e0dc36e0fd5bf39e45b",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_08",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List",
+      "status": "canonical",
+      "word_count": 16019,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 117339,
+      "sha256": "25afbbccb8a3941911dc5acba8391fea19d6de6d8e6c936c13f30be41e04201c",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_09",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 through Y2SL; Volume 0 after Y2V08",
+      "status": "canonical",
+      "word_count": 4081,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 31331,
+      "sha256": "2f888098b77d5ddf76299f0a19a4b2f5c67ab707895f3318d119e011e25e2676",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_10",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md",
+      "artifact_type": "specialist_synthesis",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 through Y2SL; Volume 0 after Y2V08",
+      "status": "canonical",
+      "word_count": 6361,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 48151,
+      "sha256": "55ff4c8c701821935e1cab743ee1ffa04869a42255ff72a1319cf4e92006d8f6",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_11",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+      "artifact_type": "evidence_router",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 through Y2SL; Volume 0 after Y2V08",
+      "status": "canonical",
+      "word_count": 2923,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 25442,
+      "sha256": "824ecc8650168e62f9a9087fb82952841a97e29d01e0581083af4ee8f2ffa46a",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_12",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+      "artifact_type": "japanese_passage_index",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 through Y2SL; Volume 0 after Y2V08",
+      "status": "canonical",
+      "word_count": 4536,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 51318,
+      "sha256": "65f60a8e9d3a8fbecc01f5d0731d6a98152f688a63ff6163ecf34fff698e79ad",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Y2_13",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md",
+      "package_group": "Year_2_release"
+    },
+    {
+      "filename": "COTE_Y2_FULL_SYNTHESIS.md",
+      "artifact_type": "year_level_full_synthesis",
+      "source_boundary": "Frozen Year 1 through First File; Year 2 through Y2SL; Volume 0 after Y2V08",
+      "status": "canonical",
+      "word_count": 7357,
+      "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
+      "byte_count": 53488,
+      "sha256": "46842babc8e9e5080b9af76f403d24f8f731955c3d10543bfd6a130a16e0e44e",
+      "supersession_relation": {
+        "supersedes": [],
+        "superseded_by": []
+      },
+      "primary_home_subject": "Classroom of the Elite — Year 2 full synthesis",
+      "relative_path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_FULL_SYNTHESIS.md",
+      "package_group": "Year_2_release"
+    }
+  ],
+  "release_envelopes": [
+    "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_CORPUS_MANIFEST.md",
+    "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_CORPUS_INDEX.json",
+    "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_DELIVERY_AUDIT.md",
+    "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_V2_FINAL_DELIVERY_AUDIT.json",
+    "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_ARTIFACT_CHECKSUMS.sha256"
+  ],
+  "envelope_hash_authority": "COTE_Y2_ARTIFACT_CHECKSUMS.sha256 covers manifest/index/audits; detached archive checksum covers that checksum file",
+  "source_local_preservation": [
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_V00_RETROSPECTIVE_DEEP_READING.md",
+      "sha256": "c4dc9c327f75ffc2a78ab9aeb706ebb023ec0bd3b7d81c49c743ae98bf057473",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V01_DEEP_READING.md",
+      "sha256": "aef42286cf01e148f27d1909a5dd4ae76ef34a9c1a2501d9f3a59020623c0a71",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V02_DEEP_READING.md",
+      "sha256": "c5f2b01e69728f218f8c461ef55cfa2ed53f95f0f594019b6c23b714f32b8726",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V03_DEEP_READING.md",
+      "sha256": "e5398e564f31e25ded1ab5821b5931a525cbe516662e4f9a6add42e36edd1eaf",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V04_5_DEEP_READING.md",
+      "sha256": "e514e448bd7d137032d9fac092b2dcb38aa0490aa10fd3134f0ef81a08866a01",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V04_DEEP_READING.md",
+      "sha256": "00cf53fdfdbd24c35c344054fbfcd5515ea4e83499ccdf5d77252489a1ae8741",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V05_DEEP_READING.md",
+      "sha256": "05538ad97a41b063b043adadb77ac32e1999c9f0470f66724c8fcea1f582016b",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V06_DEEP_READING.md",
+      "sha256": "867d35ed13a82792b6911203d7611bf618ea6a4f29de036f32142e5b57d210fb",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V07_DEEP_READING.md",
+      "sha256": "4e648dec2297a4bb76764ec790f089f5b32cfccdca47aee50991380e38842e95",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V08_DEEP_READING.md",
+      "sha256": "a86820648dbe657797367afe51129ec293c12ee008d3d83743ec6fddc9122180",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V09_5_DEEP_READING.md",
+      "sha256": "c9246c8cf075e7f3b4d43d5ccc17b38663ba46d6fb871b594346db8edba135fc",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V09_DEEP_READING.md",
+      "sha256": "a343dc15fdf0f4b9fcab1227911ddfadeceaff1e09e82b1fd11b6f8b60107e5a",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V10_DEEP_READING.md",
+      "sha256": "c8675d6cba6e2a4df076090b030516c9bb355bbf5e9deccefc1db272a1e3ce99",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V11_DEEP_READING.md",
+      "sha256": "8fff10e25829b641732b5e7307b66a0a6f42472919b35b20105f9955eda38789",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V12_5_DEEP_READING.md",
+      "sha256": "bf4ab422e5e3f6bc02bc844d99020437e091c4310062e89a1e1d81ed11368e10",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01 Canonical Volume Deep Readings/COTE_Y2_V12_DEEP_READING.md",
+      "sha256": "7c0a86cec692b36caa7e847c1bafeefad2cb06f162a22be46f282cda29af72e8",
+      "unchanged": true
+    },
+    {
+      "path": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/01A Guidebook Paratext Audits/COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md",
+      "sha256": "12075e0c96fee2ab63176b583c186f81b8084f99c30f4a926954b6357ba05ccb",
+      "unchanged": true
+    }
+  ],
+  "generated_by": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/04 Source Maps and Support/generate_y2_release.py"
+}

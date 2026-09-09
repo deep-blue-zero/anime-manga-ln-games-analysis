@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 thematic evidence through EVENT_0084; ordinary co-creation, reciprocal care, partial efficacy and object-mediated warmth strengthened; no new motif ID"
-analysis_cutoff: "EVENT_0084 thematic integration within I2 refinement; newest theme remains TH-N25-034 from EVENT_0077; other-unit comparisons deferred"
+source_boundary: "N25 thematic integration through EVENT_0089; first-person authority, usable choice, reciprocal warmth and contested refuge refined"
+analysis_cutoff: "EVENT_0089 I3 thematic integration; existing themes/motifs refined, no new recurring ID; other-unit comparison deferred"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0084**, strengthening ordinary co-creation, reciprocal care, partial efficacy and object-mediated warmth alongside prior findings. EVENT_0082/0083 required no governing thematic revision; no new recurring motif ID is added. `TH-N25-034` remains the newest theme from EVENT_0077; EVENT_0070 established `TH-N25-032` and EVENT_0072 `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
+N25 thematic authority reaches **EVENT_0089**, refining first-person authority, usable choice, reciprocal warmth, partial efficacy and Empty SEKAI’s refuge function. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Earlier evidence and ID-qualified meanings remain valid within their boundaries. The current release does not certify a franchise-wide theory, completed liberation or successful treatment through confrontation. Other-unit foundations and 21 older universal screens remain unfinished.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -1231,3 +1231,13 @@ Shizuku's perfection/effort history, Airi's tea interests, Hinomori childhood co
 - **`MO-N25-001` / warmth: bounded additional recurrence.** Len's anticipatory warmth, Kanade's gentle associations and later direct candle sensation join prior warmth evidence. Emotional response, figurative warmth and sensory description remain distinguishable (`PJSK:card:0587:01:001:0039–0053`; `PJSK:event:0084:06:001`; `PJSK:card:0587:02:001:0036–0046`). Scent/candle/memory is a developed local event pattern, not a newly certified franchise-wide recurring motif. Ichika's future memory hope remains in the deferred Leo/need route (`PJSK:event:0084:08:003`).
 
 Bought gifts, handmade gifts, recipient pleasure and maker pleasure are not ranked by one universal sincerity test. Mafuyu's queued recommendation, Ena's self-presentation plus care and distinct later use responses resist that shortcut (`PJSK:event:0084:07:003:0010–0028`; `PJSK:card:0585:02:001:0021–0063`). Aroma effects remain situated reports, not independently established therapeutic claims. No new theme/motif ID. Broader comparative conclusions await other unit foundations and deferred-route consumption; latest human-state transition remains EVENT_0072. Next EVENT_0085.
+
+## EVENT_0089 thematic integration — care can disagree about the person it serves
+
+- **`TH-N25-001` / first-person authority and `TH-N25-034` / usable choice: REFINE.** Kanade discovers that communicating distress can be absorbed into an adult’s preferred interpretation instead of changing the plan. Her remembered mother instead values the child’s own wanted life. Ena’s assertion advice, KAITO’s demand for resistance and Kanade’s protective secrecy each face their own limits (`PJSK:event:0089:05:002`; `PJSK:event:0089:05:003`; `PJSK:event:0089:06:002`; `PJSK:event:0089:08:002`). No helper becomes an infallible substitute author of Mafuyu.
+- **`MO-N25-001` / warmth-coldness: STRENGTHEN.** Courteous cafe hospitality coexists with Kanade’s coldness; received tea later warms her and supplies an image of what she wants to give. Restaurant company and music offer Mafuyu explicitly experienced relief. Kanade’s recalled marionette links current interpretation to an earlier symbol, but remains her interpretation (`PJSK:card:0612:02:001:0021–0063`; `PJSK:event:0089:05:001`; `PJSK:card:0616:02:001:0036–0065`). Warmth is not a recovery certificate.
+- **`TH-N25-003` / creative work and `TH-N25-025` / partial support: STRENGTHEN.** Shared work restores Kanade’s compositional concentration; preserving a return-place restores Ena’s momentum; Mafuyu’s listening turns into lyric authorship. The circle’s relational function cannot be assumed equivalent to isolated musical recreation (`PJSK:card:0612:01:001:0054–0082`; `PJSK:card:0613:02:001:0046–0075`; `PJSK:card:0616:02`).
+- **`MO-N25-007`, established non-demanding-refuge extension: REVISE uniformity.** Empty SEKAI now houses conflicting support practices. Mafuyu can seek rest while checking that KAITO is absent; Rin/Len defend her freedom there. KAITO himself considers another approach after confronting the limits of his initial demand (`PJSK:area:areatalk_ev_night_12_002:01`; `PJSK:card:0615:02:001:0039–0054`). Neither comfort nor confrontation receives an automatic verdict for all situations.
+- **`TH-N25-014` / ordinary-life expansion without cure: STRENGTHEN.** Needed art supplies, genuine anime/fashion interest, retail-work discussion, food help, blouse teasing and a reported finished picture book preserve lived companionship alongside the crisis (`PJSK:card:0613:01`; `PJSK:card:0614:01`; `PJSK:card:0614:02`; `PJSK:area:areatalk_ev_night_12_001:01`; `PJSK:event:0089:02:004:0002–0005`). No future shopping trip or distinct book-loan completion is inferred.
+
+The event’s discord is an enacted disagreement over meaning and access; the title does not by itself establish a technical or universal symbolic theory. No new recurring motif ID or premature cross-unit synthesis. Current N25 thematic boundary EVENT_0089; next EVENT_0090.
