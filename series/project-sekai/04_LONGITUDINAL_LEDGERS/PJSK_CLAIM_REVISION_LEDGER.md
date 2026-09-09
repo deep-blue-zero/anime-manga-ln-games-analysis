@@ -6,7 +6,7 @@ scope: FULL_SERIES
 generation: V1
 status: canonical
 source_boundary: "N25 claim authority integrated through EVENT_0072; EVENT_0070 establishes Ena technique-expression/self-authored aesthetic valuation rules and EVENT_0072 advances Mafuyu autonomy into bounded verbal positive wanting while preserving vocational uncertainty"
-analysis_cutoff: "N25 claim revision authority through EVENT_0072; documentary screening through EVENT_0072"
+analysis_cutoff: "N25 claim revision authority through EVENT_0072; documentary screening through EVENT_0075"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 claim authority reaches **EVENT_0072**, including `CR-N25-MF-088/089/090`. Earlier summaries and pending-domain statements are historical handoffs. A claim's formulation must be read at the requested event boundary, with subsequent transitions applied only when that boundary includes them. EVENT_0073 remains unprocessed; the source cutoff does not advance claim authority.
+N25 claim authority reaches **EVENT_0072**, including `CR-N25-MF-088/089/090`. Earlier summaries and pending-domain statements are historical handoffs. A claim's formulation must be read at the requested event boundary, with subsequent transitions applied only when that boundary includes them. Documentary screening reaches EVENT_0075: events 0073 and 0074 are I0; EVENT_0075 adds bounded I1 character/relationship/epistemic evidence but requires no claim revision. The source cutoff does not advance claim authority.
 
 The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
 

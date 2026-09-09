@@ -4,18 +4,18 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI analytical layer; N25 positive integration through EVENT_0072 and documentary screening through EVENT_0074"
+source_boundary: "Project SEKAI analytical layer; N25 positive integration through EVENT_0075 (I1; latest human-state transition EVENT_0072) and documentary screening through EVENT_0075"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "N25 positive integration through EVENT_0072 and documentary screening through EVENT_0074; EVENT_0070 advances Ena and EVENT_0072 advances Mafuyu; current human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+analysis_cutoff: "N25 positive integration through EVENT_0075 (I1; latest human-state transition EVENT_0072) and documentary screening through EVENT_0075; EVENT_0070 advances Ena and EVENT_0072 advances Mafuyu; current human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
 ---
 
 # Project SEKAI Release Impact Ledger
 
 ## Current execution handoff
 
-The last completed forward event transaction is **EVENT_0074**; the next is **EVENT_0075**. Positive N25 integration reaches EVENT_0072 and documentary screening reaches EVENT_0074, with current human tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier `Pending release queue` and `Next pending release` passages are historical handoffs at their surrounding event boundaries; they are not competing current instructions.
+The last completed forward event transaction is **EVENT_0075**; the next is **EVENT_0076**. Positive N25 integration and documentary screening reach EVENT_0075 (bounded I1); the latest human-state transition remains EVENT_0072, with current human tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier `Pending release queue` and `Next pending release` passages are historical handoffs at their surrounding event boundaries; they are not competing current instructions.
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Its final coverage also requires the 21 older incomplete universal screens and interpretation of material deferred routes after the remaining foundations. Existing N25 I0–I3 scores are scoped to the founded N25 baseline. An event-level reconstruction-yield label does not certify a character package as reconstruction-ready.
 
@@ -1922,3 +1922,30 @@ next_candidate_operation: EVENT_0075
 The 26-surface screen preserves VERY_HIGH-priority WxS reconstruction evidence: a credible professional opportunity exposes Rui's wish to stay with the group; Miku's recognition of two important wants and Asahi's response enable a search without guaranteeing its solution. Person-specific performance teaching, peers' care under incomplete knowledge, the bird's genuine solo achievement and new shared wish, and ordinary-life evidence warrant a full reading. The monthly areas retain their later archive-publication boundary. WxS impact remains `DEFERRED_PENDING_FOUNDATION`; Leo/need, MMJ and VBS have no evidence-bearing route.
 
 N25's tuple and five substantive ledgers remain unchanged, including `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061`. EVENT_0072 remains its latest substantive integration. Routing, reading, release impact and current coverage close EVENT_0074 together; the earlier universal-screen gaps remain required work. This transaction also corrects EVENT_0073's area-unlock metadata sentence against the manifest, with no change to that event's envelope, narrative interpretation or impact.
+
+## RI-EVENT-0075 — 絶叫！？ オオカミの森へようこそ！
+
+```yaml
+release_id: EVENT_0075
+release_bucket: RB_20221031T060000Z
+complete_envelope: "8 core + 10 card halves + 5 manifest-linked archive areas = 23"
+unit_relevance: VBS_LEO_NEED_MMJ_PRIMARY_WXS_SECONDARY_N25_INCIDENTAL
+impact_scope: N25
+impact: I1
+reconstruction_yield_n25: R1
+integration_status: INTEGRATED_BOUNDED_N25_OTHER_UNITS_DEFERRED
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md
+other_unit_impact: DEFERRED_PENDING_FOUNDATION
+character_state_delta: "Mafuyu public-school competence/register evidence; no successor human state"
+relationship_delta: "bounded strengthening REL-CROSS-MAFUYU-SHIZUKU-E0033; no intimacy escalation"
+epistemic_delta: "EPI-CROSS-MF-SCHOOL-E0075 local public information; no N25-private transfer"
+claim_delta: none
+theme_delta: none
+current_n25_tuple: "MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+latest_human_state_transition: EVENT_0072
+next_candidate_operation: EVENT_0076
+```
+
+Mafuyu's key-sharing, treasure-hosting and search relay supply bounded I1 ordinary competence and public-register evidence (`PJSK:event:0075:03:002:0015–0018`; `PJSK:event:0075:03:006:0007–0010`; `PJSK:event:0075:06:001:0050–0058`). Her school-facing concert remarks do not authenticate newly recognized enjoyment (`PJSK:card:0529:02:002:0029–0030`, `PJSK:card:0529:02:002:0048–0049`). Ena's attendance is only a report with unidentified companions. No private N25 history or manifestation crosses these public contacts.
+
+The mixed reading is warranted chiefly by Kohane/Shiho/Minori's collaborative competence, person-specific fear accommodation and repair, cross-unit ordinary relationships, and the newspaper's mistaken attribution of intent. VBS and Leo/need are PRIMARY/HIGH/R3-yield, MMJ PRIMARY/HIGH/R2–R3, WxS SECONDARY/MODERATE/R2; impact for all four remains deferred. Character, relationship and epistemic evidence receive selective N25 updates. Claim and theme formulations remain unchanged; their current screening notes are synchronized. EVENT_0075 is the latest positive N25 integration at I1; EVENT_0072 remains the latest human-state transition. Full coverage gaps and remaining foundations remain explicit.

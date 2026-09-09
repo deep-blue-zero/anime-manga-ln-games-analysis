@@ -6,7 +6,7 @@ scope: FULL_SERIES
 generation: V1
 status: canonical
 source_boundary: "N25 main-story foundation plus positive thematic evidence through EVENT_0072; EVENT_0070 establishes technique-expression integration and EVENT_0072 establishes bounded wanting before complete self-understanding while strengthening first-person/ordinary-life evidence"
-analysis_cutoff: "N25 thematic authority through EVENT_0072; documentary screening through EVENT_0072"
+analysis_cutoff: "N25 thematic authority through EVENT_0072; documentary screening through EVENT_0075"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0072**, including `TH-N25-032` and `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and the 21 older incomplete universal screens remain pending in the routing/current-state infrastructure.
+N25 thematic authority reaches **EVENT_0072**, including `TH-N25-032` and `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Documentary screening reaches EVENT_0075 with no thematic mutation from events 0073-0075. Other-unit foundations and the 21 older incomplete universal screens remain pending in the routing/current-state infrastructure.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 

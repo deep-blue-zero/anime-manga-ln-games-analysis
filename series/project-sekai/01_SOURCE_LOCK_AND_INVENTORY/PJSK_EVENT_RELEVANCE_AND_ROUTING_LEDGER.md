@@ -1177,3 +1177,77 @@ Relationship and reconstruction routes for ordered WxS integration:
 The full reading owns finer causal, epistemic and ordinary-life analysis plus all 26 pinned witness ranges/hashes. Tiers A–D warrant the extraction. The staged android play remains embedded fiction. Neither Rui's desire conflict nor a Wonderland manifestation supplies N25 impact by thematic resemblance alone. All core/card/area checks are N25 NONE/I0/R0. No unfounded-unit score or human successor state is assigned.
 
 **Latest closed forward route: EVENT_0074. Next forward candidate: EVENT_0075.** The 21 historical universal-screen gaps and four foundation/deferred-integration dependencies remain explicit.
+
+## EVENT_0075 — 絶叫！？ オオカミの森へようこそ！
+
+```yaml
+release_id: EVENT_0075
+release_bucket: RB_20221031T060000Z
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+routing_status: UNIVERSAL_SCREEN_COMPLETE
+complete_envelope: "8 core + cards 0528-0532 both halves + 5 archive-publication areas = 23 surfaces"
+envelope_set_check: EXACT_MATCH_ASSOCIATED_EVENT_IDS_UNION_UNLOCK_EVENT_IDS
+core_locators: [PJSK:event:0075:01, PJSK:event:0075:02, PJSK:event:0075:03, PJSK:event:0075:04, PJSK:event:0075:05, PJSK:event:0075:06, PJSK:event:0075:07, PJSK:event:0075:08]
+card_locators: [PJSK:card:0528:01, PJSK:card:0528:02, PJSK:card:0529:01, PJSK:card:0529:02, PJSK:card:0530:01, PJSK:card:0530:02, PJSK:card:0531:01, PJSK:card:0531:02, PJSK:card:0532:01, PJSK:card:0532:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_25_001:01, PJSK:area:areatalk_ev_shuffle_25_002:01, PJSK:area:areatalk_ev_shuffle_25_003:01, PJSK:area:areatalk_ev_shuffle_25_004:01, PJSK:area:areatalk_ev_shuffle_25_005:01]
+area_temporal_basis: archive_publication_not_asserted_initial_availability
+area_unlock_relation: "All five require chapter 8; releaseConditionId=107408; eventStoryEpisodeId=1000608"
+routes:
+  VBS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Kohane, An, Akito, Toya]
+    manifestations: [VBS_Rin, VBS_Len, VBS_Miku, VBS_Luka, VBS_MEIKO, VBS_KAITO]
+    domains: [recipient_sensitive_design, school_participation, practice_scheduling, fear, repair, protective_agency, intention_versus_reputation, photography, reciprocal_support, ordinary_life, knowledge_limits, speech_register]
+  LEO_NEED:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Shiho, Ichika, Saki, Honami]
+    domains: [context_conditioned_directness, wider_peer_participation, practical_leadership, distinctive_competence, performance, audience_memory, cute_preferences, friendship, hypothetical_recipient_model, ordinary_life]
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2_R3
+    characters: [Minori, Haruka, Airi, Shizuku]
+    domains: [learned_audience_model, production, improvisation, reciprocal_care, adaptable_public_role, admiration, friendship, ordinary_life, knowledge_limits]
+  WXS:
+    relevance: SECONDARY
+    future_review_priority: MODERATE
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Emu, Tsukasa_indirect_advice_reference]
+    domains: [improvisation, rehearsal_support, cross_unit_friendship, ordinary_life, bounded_performance_role]
+  N25:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: I1
+    reconstruction_yield: R1
+    characters: [Mafuyu, Ena_indirect_attendance_report]
+    domains: [public_school_competence, practical_peer_trust, public_register, bounded_knowledge, emotion_authentication_limit]
+    locators: [PJSK:event:0075:03:002:0015, PJSK:event:0075:03:002:0017, PJSK:event:0075:03:006:0007, PJSK:event:0075:03:006:0010, PJSK:event:0075:05:004:0003, PJSK:event:0075:05:004:0056, PJSK:event:0075:05:004:0057, PJSK:event:0075:06:001:0050, PJSK:event:0075:06:001:0053, PJSK:event:0075:06:001:0056, PJSK:event:0075:06:001:0057, PJSK:card:0529:02:002:0030, PJSK:card:0529:02:002:0049, PJSK:event:0075:08:001:0006]
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0076
+```
+
+| Relationship or network | Exact evidence | Reuse and limits |
+|---|---|---|
+| Kohane–An | `PJSK:event:0075:01:002:0020–0047`; `PJSK:event:0075:06:002:0002–0026`; `PJSK:event:0075:07:002:0002–0037`; `PJSK:event:0075:07:003:0014–0093` | Fear-sensitive design, mistaken pursuit, mutual apology, role exchange and protective action; no permanent fear cure or generalized dependency. |
+| Kohane–Shiho–Minori/class | `PJSK:event:0075:02:001:0004–0012`; `PJSK:event:0075:02:002:0018–0124`; `PJSK:event:0075:08:001:0044–0097`; `PJSK:card:0528:01`; `PJSK:card:0530:01`; `PJSK:area:areatalk_ev_shuffle_25_001:01` | Transfer of learned skills, shared preparation, recovery after trouble, ordinary teasing and reciprocal attribution; Shiho's private reflection is not fully disclosed. |
+| Shiho–An | `PJSK:card:0529:01:001:0002–0005`; `PJSK:card:0529:01:002:0015–0054`; `PJSK:area:areatalk_ev_shuffle_25_004:01` | Formal first contact, person-specific correction of expected blame, relayed admiration/apology, unexceptional acceptance of a cute hobby. |
+| Haruka–An; Haruka–Minori | `PJSK:card:0531:02:001:0002–0066`; `PJSK:card:0530:02:003:0010–0047` | Friendship and observation limits; direct witness corrected for panic; individualized practical/playful encouragement. |
+| Haruka–Ichika/Saki; school–Leo/need | `PJSK:card:0531:01:002:0002–0068`; `PJSK:area:areatalk_ev_shuffle_25_002:01`; `PJSK:card:0529:02:002:0002–0057` | Collaborative café roles, preference sharing, role-demand restraint and public musical reception. |
+| Honami–Emu; Minori–Honami/Emu | `PJSK:event:0075:05:003:0002–0021`; `PJSK:card:0530:02:002:0002–0028`; `PJSK:area:areatalk_ev_shuffle_25_003:01` | Rehearsal help, improvisation without full identity knowledge, explicitly hypothetical search suggestion, shopping and proposed pet walk. |
+| Shizuku/Airi–search network–Mafuyu/Kohane | `PJSK:event:0075:05:004:0010–0057`; `PJSK:event:0075:06:001:0050–0058` | Distinct local repair and sighting roles; bounded I1 strengthening of `REL-CROSS-MAFUYU-SHIZUKU-E0033`, no new intimate relationship. |
+| Akito/Toya–Kohane/An | `PJSK:event:0075:01:002:0010–0018`; `PJSK:card:0528:02:002:0005–0043`; `PJSK:card:0532:01:002:0005–0029` | School/practice accommodation, failed phone contact, searching alongside enjoyment, teasing and sincere but imperfect reassurance. |
+| VBS humans–Street Rin/MEIKO; Street manifestations | `PJSK:card:0532:01`; `PJSK:card:0532:02`; `PJSK:card:0528:02`; `PJSK:area:areatalk_ev_shuffle_25_005:01` | Concealed participation, retrospective reports, hypothetical stall preferences, credited craft and playful reconciliation; no N25 manifestation transfer. |
+
+The complete reading preserves all 23 witness ranges/hashes and distinguishes guest reception from actual intention. N25's I1 is bounded public characterization, not new private wanting: character, relationship and epistemic evidence are updated without successor human state; claim/theme content remains unchanged. Ena's companions are unidentified. The class play's fictional speech and Toya's supernatural speculation remain attributed, not literal external facts. Four unfounded-unit routes retain `DEFERRED_PENDING_FOUNDATION` for chronological interpretation.
+
+**Latest closed forward route: EVENT_0075. Next forward candidate: EVENT_0076.** The 21 older universal-screen gaps remain unfinished workflow coverage.

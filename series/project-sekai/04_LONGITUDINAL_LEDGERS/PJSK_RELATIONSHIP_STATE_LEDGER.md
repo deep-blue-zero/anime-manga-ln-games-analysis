@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 positive relationship evidence integrated through EVENT_0072; EVENT_0070 initializes Ena-Honami art mentorship and strengthens Kanade-Honami/Kanade-Ena reliance, while EVENT_0072 strengthens Mafuyu-Emu/Shizuku and initializes bounded Mafuyu-Rui reflective-care contact"
-analysis_cutoff: "N25 relationship authority through EVENT_0072; documentary screening through EVENT_0072; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+source_boundary: "N25 positive relationship evidence integrated through EVENT_0075 (bounded I1 school-peer extension); EVENT_0070 initializes Ena-Honami art mentorship and strengthens Kanade-Honami/Kanade-Ena reliance, while EVENT_0072 strengthens Mafuyu-Emu/Shizuku and initializes bounded Mafuyu-Rui reflective-care contact"
+analysis_cutoff: "N25 relationship evidence through EVENT_0075 without successor state; documentary screening through EVENT_0075; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-Relationship evidence is integrated through **EVENT_0072**. Current N25 defaults include `REL-N25-KM-7`, `REL-N25-EM-4`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with their later event-specific extensions below. N25 Miku's human-group relationship is `REL-N25-GM-E0054`; N25 Len's newcomer relationship is `REL-N25-VS-LEN-GROUP-E0061`. These manifestations remain distinct. Bounded cross-unit entries do not establish complete other-unit relationship systems.
+Relationship evidence is integrated through **EVENT_0075**, with a bounded I1 extension and no successor relationship state. Current N25 defaults include `REL-N25-KM-7`, `REL-N25-EM-4`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with their later event-specific extensions below. N25 Miku's human-group relationship is `REL-N25-GM-E0054`; N25 Len's newcomer relationship is `REL-N25-VS-LEN-GROUP-E0061`. These manifestations remain distinct. Bounded cross-unit entries do not establish complete other-unit relationship systems.
 
-Earlier overview and pending-domain statements are historical handoffs, superseded as current scope by the later named entries and front matter. Earlier states remain valid at their own temporal boundaries. The next forward event is EVENT_0073. The separate routing ledger retains 21 earlier incomplete universal screens; neither that backlog nor unfounded units are represented as completed by this relationship frontier.
+Earlier overview and pending-domain statements are historical handoffs, superseded as current scope by the later named entries and front matter. Earlier states remain valid at their own temporal boundaries. Events 0073 and 0074 were N25 I0; the next forward event is EVENT_0076. The separate routing ledger retains 21 earlier incomplete universal screens; neither that backlog nor unfounded units are represented as completed by this relationship frontier.
 
 ## 1. Purpose
 
@@ -1568,3 +1568,13 @@ Mafuyu treats Rui's injury and gives follow-up restrictions. Rui, after learning
 ### `REL-CROSS-MAFUYU-SHIZUKU-E0033` — STRENGTHEN through EVENT_0072
 
 Ordinary school/club trust expands through repeated chance encounters, Shizuku's festival invitation, Mafuyu's positive live feedback, sibling banter observed at close range, and explicit mutual interest in future school conversation. Shizuku remains outside N25-private family/SEKAI knowledge.
+
+## EVENT_0075 relationship evidence — practical school relay
+
+### `REL-CROSS-MAFUYU-SHIZUKU-E0033` — bounded I1 strengthening
+
+Mafuyu offers Shizuku and Airi access to the room key they need, then becomes part of Shizuku's effort to help Shiho find Kohane. Shizuku's request and Mafuyu's explicit explanation to Kohane establish the relay, without implying knowledge of every event causing it (`PJSK:event:0075:03:002:0015–0018`; `PJSK:event:0075:05:004:0052–0057`; `PJSK:event:0075:06:001:0050–0058`). Preserve the existing public-school/kyudo peer-trust state; there is no intimacy escalation or private N25 disclosure.
+
+The resulting Mafuyu–Kohane contact is practical senior/junior assistance, not enough to establish a new durable relationship ID. Her classmate's invitation to join the concert clapping and her agreeable answer add school-social register evidence without establishing privately felt enjoyment (`PJSK:card:0529:02:002:0048–0049`). Leo/need performance awareness remains a public creative fact; no new privileged artistic relationship is shown.
+
+Shizuku's report that Ena and companions visited the stall (`PJSK:event:0075:05:004:0003`) preserves ordinary contact as a report only; the unidentified companions cannot be assigned to N25. No N25 dyad/group state or manifestation relationship changes. `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061` remain current. The [mixed reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md) owns the full network and other-unit routes; next forward candidate EVENT_0076.

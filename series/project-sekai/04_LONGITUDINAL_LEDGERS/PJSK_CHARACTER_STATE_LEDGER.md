@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 positive character-state evidence integrated through EVENT_0072; EVENT_0070 advances Ena to self-authored aesthetic valuation / technique-expression integration and EVENT_0072 advances Mafuyu to articulated positive wanting / self-authored participation"
-analysis_cutoff: "N25 human character-state authority through EVENT_0072; documentary screening through EVENT_0072; current tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+source_boundary: "N25 positive character-state evidence integrated through EVENT_0075 (I1; latest human-state transition EVENT_0072); EVENT_0070 advances Ena to self-authored aesthetic valuation / technique-expression integration and EVENT_0072 advances Mafuyu to articulated positive wanting / self-authored participation"
+analysis_cutoff: "N25 human state unchanged since EVENT_0072; bounded characterization evidence through EVENT_0075; documentary screening through EVENT_0075; current tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The verified forward analytical frontier is **EVENT_0072**. Current defaults are **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. The event entries below preserve the causes and limits of each transition. A historical entry's `current within cutoff` label refers to its own recorded cutoff; it does not override a later successor. In particular, `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` are historical-to-current chains, not simultaneous defaults.
+The verified forward analytical frontier is **EVENT_0075**, a bounded I1 characterization increment; the latest human-state transition remains EVENT_0072. Current defaults are **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. The event entries below preserve the causes and limits of each transition. A historical entry's `current within cutoff` label refers to its own recorded cutoff; it does not override a later successor. In particular, `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` are historical-to-current chains, not simultaneous defaults.
 
 The earlier summaries and pending-queue statements below are retained as historical handoffs. They do not cap this ledger at EVENT_0053 or EVENT_0058. Other human-unit foundations remain pending. The franchise routing ledger separately records 21 earlier incomplete universal screens; a latest forward event is not a claim of gap-free franchise coverage. The source inventory is frozen through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; later source availability confers no analytical authority.
 
@@ -1219,3 +1219,15 @@ At the street piano Kanade asks `ピアノ、弾きたい？`. Mafuyu answers `�
 Preserve `K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Kanade's first-person-authority prompting is relationship evidence rather than a successor Kanade state.
 
 **Current tuple:** `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+
+## EVENT_0075 characterization increment — public competence after bounded wanting
+
+**Impact:** I1, Tier D ordinary behavior / secondary Tier C characterization. Preserve `MF-E0072-01`; no successor human state.
+
+Mafuyu offers the correct room key to Shizuku and Airi, hosts the treasure activity, and follows Shizuku's search request by recognizing the described wolf costume and directing Kohane toward her friends (`PJSK:event:0075:03:002:0015–0018`; `PJSK:event:0075:03:006:0007–0010`; `PJSK:event:0075:06:001:0050–0058`). Her reassurance refers to observed guests' interested response and does not require knowing the whole mishap. This adds bounded public-school practical competence, considerate wording and coordination evidence to the established state.
+
+At Leo/need's concert, Mafuyu tells a classmate that the group makes original songs and responds agreeably to a suggestion to join the clapping (`PJSK:card:0529:02:002:0029–0030`, `PJSK:card:0529:02:002:0048–0049`). These public lines have no accompanying private thought establishing newly recognized enjoyment. Do not promote school-facing anticipation or a laugh into a general emotional recovery beyond EVENT_0072's action-specific wanting. Do not infer a vocation from practical helpfulness.
+
+Ena's attendance is reported by Shizuku at `PJSK:event:0075:05:004:0003`; no direct Ena action or dialogue warrants a character-model increment. The companions remain unidentified. Kanade and Mizuki receive no new character evidence here.
+
+The complete 23-surface mixed reading owns shared causes and other-unit extraction: [EVENT_0075](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md). N25 tuple remains `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. EVENT_0075 is the latest bounded positive integration; EVENT_0072 remains the latest human-state transition. Next forward candidate: EVENT_0076.
