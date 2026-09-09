@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: CALLBACK_PAYOFF
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1665,3 +1665,51 @@ V16 advances the earlier prototype-only evidence into explicit completed-product
 ## AFO calm/dysregulation -> weakened `支配権`
 
 - V38-V39 affect evidence receives a mechanical payoff: negative-emotion dysregulation interferes with Quirk-factor control as AFO regresses.
+
+# Volume 41 callback / payoff updates
+
+| Earlier seed | V41 development | Transition |
+|---|---|---|
+| V01 `無個性` as social exclusion / lack of assigned heroic function | After OFA factors are relinquished, Midoriya says the inheritance has soaked into his `無個性` self and `残り火` remain (`V41:p173-174`) | **MAJOR PAYOFF / REVISE:** factor possession can end without resetting the formed hero-self |
+| V01 sludge-villain rescue reflex | Nana blocks Kotaro as Midoriya reaches Tenko; Midoriya later holds the child's destructive hands (`V41:p109-110`, `p113-119`) | **STRONGLY STRENGTHEN:** rescue-before-complete-calculation survives maximal moral complexity |
+| V02-V05 `僕の力` / `君の力` | Midoriya calls OFA a treasured inheritance and voluntarily gives it up (`V41:p049-051`) | **PAYOFF:** self-authorship is compatible with relinquishment; ownership is not permanent possession |
+| V03 All Might asks Midoriya to inherit `私` / become publicly legible | `WE ARE HERE` pluralizes the arrival/reassurance grammar (`V41:p164-165`) | **MAJOR PAYOFF / REVISE:** succession becomes networked rather than replacement singular Symbol |
+| V04 `誰かに救けられてここにいる` | Aoyama: `僕らは君の力が必要だし 君も僕らの力が必要だ` (`V41:p175`) | **MAJOR PAYOFF:** relational identity becomes explicit reciprocal battlefield architecture |
+| V05 Recovery Girl/Inko make Midoriya's body a shared relational concern | Classmates/Eri/Aizawa directly re-enable the armless Midoriya (`V41:p140-159`) | **STRONGLY STRENGTHEN:** rescuer's body cannot be treated as privately expendable property |
+| V05-V06 `余計なお世話` | Chapter 415 names Shigaraki's active `拒絶` of the intervention | **REVISE / COMPLETE:** unrequested rescue remains morally frictional rather than becoming retroactive consent |
+| V07 OFA/AFO opposite inheritances | Midoriya self-dispossesses OFA while AFO claims the whole engineered life/body (`V41:p129-140`) | **MAJOR PAYOFF:** voluntary relinquishment vs total possession becomes explicit final-arc opposition |
+| V08 AFO's strategic “acceptance” / subtle mentorship | AFO reveals manipulation of experienced choice, hatred cultivation and engineered Decay (`V41:p132-135`) | **MAJOR PAYOFF / RECLASSIFY:** subtle mentorship was part of a deeper possession design |
+| V08-V09 Kota resentment -> direct rescue | Kota now wants to do something when he sees Midoriya fighting despite calling himself weak/crybaby (`V41:p085-087`) | **PAYOFF:** received rescue becomes reciprocal participation impulse |
+| V17-V20 Eri rescue/recovery/School Festival joy | Eri deliberately contributes a bounded horn/Rewind resource while saying she wants to sing later (`V41:p157-159`) | **MAJOR PAYOFF:** rescue produces future-oriented agency rather than permanent victim identity |
+| V26-V37 Kurogiri/Shirakumo uncertainty | Aizawa explicitly models the current person as mixed/altered, not pure restoration; relational response enables Warp Gate (`V41:p147-156`) | **MAJOR PAYOFF / REVISE:** continuity without identity purification |
+| V31 professional/public collapse | returning/unnamed heroes and civilians re-enter through action/support (`V41:p153-176`) | **PAYOFF:** legitimacy can be rebuilt behaviorally and distributively |
+| V32 Midoriya's unilateral burden ownership identified as missing capability | V41 explicitly says Midoriya needs others and ends through collective path-making | **MAJOR PAYOFF:** reciprocal heroism becomes final operational form |
+| V33 public refuge argument / social responsibility broadens | V41 public actors provide supplies, encouragement and shared stake rather than only judgment | **STRENGTHEN / PAYOFF** |
+| V38 hidden-origin recovery / V40 Shigaraki rejects AFO summons | AFO's return requires Tenko interior collapse after vestige assault (`V41:p131`) | **STRONGLY STRENGTHEN:** prior autonomy was not hidden obedience |
+| V40 inheritance without possession | V41 separates inherited factor from embodied biography and individual agency from causal self-sufficiency | **MAJOR TRANSITION:** `inheritance without possession -> agency without self-sufficiency` |
+| All Might `私が来た` | Chapter 421 `WE ARE HERE` | **FORMAL PAYOFF:** reassurance function pluralized without denying predecessor value |
+
+
+# Volume 42 cumulative closure
+
+The final callbacks are comparisons of distinct snapshots, not permission to add later knowledge to earlier readings.
+
+| Earlier structure | V42 payoff / complication | Disposition |
+|---|---|---|
+| V01 powerless rescue impulse and narrow occupational gate | Quirkless teacher affirms Dai's reach after concrete Quirk analysis (`p129-139`). | Strengthens heroism before power while preserving professional training constraints. |
+| All Might's singular arrival and concentrated reassurance | Plural greatest-hero acknowledgment, civic “Grandma is here,” layered adult functions (`p035,p118-123,p132-141`). | Distributes responsibility; professional roles persist. |
+| OFA succession; V40-V41 inheritance without possession | Class-funded, engineered armor and chosen continued teaching (`p140-141,p158-160`). | Capacity transmission without ownership; no literal OFA restoration. |
+| V41 segmented Shigaraki agency and rescue under refusal | Terminal Tomura name/message, life/heart distinction, Spinner's history (`p018-031,p073-081`). | Reaching does not guarantee survival or erase adult accountability. |
+| Midoriya's anti-repetition `紡ぐ` and League belonging | Spinner deliberately `紡ぐ`s Tomura (`p019,p080`). | Retains tension between preventing sorrow and preserving contested memory. |
+| Bakugo's Quirkless contempt and later apology | Grief over lost future rivalry, armor support, self-worth challenge (`p033-035,p140-141,p161`). | Ethical reversal in recognizably blunt style. |
+| Endeavor's successor project / Toya's demand to be seen | Failure named, lifetime duty, different family boundaries (`p059-066`). | Atonement is not a claim on forgiveness. |
+| Shoto/Toya family separation and ordinary-food motifs | Toya says soba, Shoto says same; local apology; adult tableware and self beyond ideal (`p062-064,p167-168`). | Ordinary personhood joins heroic authorship. |
+| Nighteye/Mirio future and laughter | Mirio's negative-to-zero / positive-laughter graduation argument (`p042-043`). | Recovery is a floor; do not attribute this speech to Aoyama. |
+| Aoyama coercion, offered hand and V41 reciprocity | Voluntary repair despite permission to remain (`p045-047`), adult sidekick (`p164`). | Accountability and inclusion remain compatible. |
+| Ochako's rescuer-support question and Toga encounter | Shared grief, trust-based counseling, private desire (`p098-117,p149-155,p177-183`). | Care includes the carer; metaphysical remainder remains unconfirmed. |
+| Tenko's unanswered public distress | New child approached (`p107-123`). | Changed intervention, not a proven counterfactual villain prevented. |
+| V37 Shoji intergenerational reform | Regional peaceful work, public shared credit (`p132`). | Sustained adult enactment supports strong readiness without total breadth. |
+| Chisaki's selective boss attachment | Boss meeting, demanded Eri remembrance, apology still to boss (`p082-083`). | Complicates affectlessness without proving full reform. |
+| Hero rankings and spectacle | Revised chart, declining incidence, professional/social friction (`p118-119,p131-134,p163-174`). | Partial reform, no complete utopia. |
+
+The final `More` is a structural endpoint with its own narrative authority. Authorial afterword is publication evidence only.
