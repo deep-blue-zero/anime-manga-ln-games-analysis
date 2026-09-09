@@ -14,6 +14,7 @@ from character_index_core import (
     SnapshotEntry,
     atomic_write_text,
     decode_json,
+    read_blob_objects,
     run_git,
 )
 
@@ -73,22 +74,33 @@ def _registry_entrypoints(entries: Mapping[str, SnapshotEntry]) -> set[str]:
 
 def _entries_from_index(root: Path) -> dict[str, SnapshotEntry]:
     entries: dict[str, SnapshotEntry] = {}
+    objects: dict[str, str] = {}
     raw = run_git(root, "ls-files", "--stage", "-z")
     for item in raw.split(b"\0"):
         if not item:
             continue
         metadata, raw_path = item.split(b"\t", 1)
-        mode, _oid, stage = metadata.decode("ascii").split(" ")
+        mode, oid, stage = metadata.decode("ascii").split(" ")
         path = raw_path.decode("utf-8", "strict")
         if stage != "0":
             raise DomainError(f"unmerged index entry: {path}")
-        data = run_git(root, "show", f":{path}") if path in CONTENT_PATHS else b""
-        entries[path] = SnapshotEntry(path, mode, data)
-    for path in _registry_entrypoints(entries):
-        if path in entries:
-            entry = entries[path]
-            entries[path] = SnapshotEntry(path, entry.mode, run_git(root, "show", f":{path}"))
+        objects[path] = oid
+        entries[path] = SnapshotEntry(path, mode, b"")
+    _load_selected_blobs(root, entries, objects, CONTENT_PATHS)
+    _load_selected_blobs(root, entries, objects, _registry_entrypoints(entries) - CONTENT_PATHS)
+    if run_git(root, "ls-files", "--stage", "-z") != raw:
+        raise DomainError("Git index changed during catalog snapshot acquisition")
     return entries
+
+
+def _load_selected_blobs(
+    root: Path, entries: dict[str, SnapshotEntry], objects: Mapping[str, str], paths: set[str]
+) -> None:
+    selected = sorted(paths & entries.keys())
+    blobs = read_blob_objects(root, (objects[path] for path in selected))
+    for path in selected:
+        entry = entries[path]
+        entries[path] = SnapshotEntry(path, entry.mode, blobs[objects[path]], entry.tracked)
 
 
 def _entries_from_commit(root: Path, commit: str) -> dict[str, SnapshotEntry]:
@@ -99,24 +111,18 @@ def _entries_from_commit(root: Path, commit: str) -> dict[str, SnapshotEntry]:
     if run_git(root, "cat-file", "-t", commit).decode().strip() != "commit":
         raise DomainError("basis object is not a commit")
     entries: dict[str, SnapshotEntry] = {}
+    objects: dict[str, str] = {}
     raw = run_git(root, "ls-tree", "-r", "-z", "--full-tree", commit)
     for item in raw.split(b"\0"):
         if not item:
             continue
         metadata, raw_path = item.split(b"\t", 1)
-        mode, kind, _oid = metadata.decode("ascii").split(" ")
+        mode, kind, oid = metadata.decode("ascii").split(" ")
         path = raw_path.decode("utf-8", "strict")
-        data = run_git(root, "show", f"{commit}:{path}") if path in CONTENT_PATHS else b""
-        entries[path] = SnapshotEntry(path, mode, data, tracked=kind == "blob")
-    for path in _registry_entrypoints(entries):
-        if path in entries:
-            entry = entries[path]
-            entries[path] = SnapshotEntry(
-                path,
-                entry.mode,
-                run_git(root, "show", f"{commit}:{path}"),
-                tracked=entry.tracked,
-            )
+        objects[path] = oid
+        entries[path] = SnapshotEntry(path, mode, b"", tracked=kind == "blob")
+    _load_selected_blobs(root, entries, objects, CONTENT_PATHS)
+    _load_selected_blobs(root, entries, objects, _registry_entrypoints(entries) - CONTENT_PATHS)
     return entries
 
 
