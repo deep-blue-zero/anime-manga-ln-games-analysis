@@ -3,7 +3,7 @@ series: WUWA
 artifact_type: evidence_routing_authority
 scope: TITLE_WIDE
 source_boundary: "Git analytical authority paired with owner-authenticated Google Drive evidence authority"
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -71,6 +71,12 @@ Use the narrowest source capable of answering the question:
 6. client media or bounded audiovisual witness.
 
 Exact wording, attribution, visual staging, and performance questions require deeper escalation than thematic orientation.
+
+## Authority within a declared evidence scope
+
+Owner-accepted pre-AV character packets are current `active_provisional` analytical authority for their completed textual interpretation and actually reviewed audio evidence. Use the complete authority quartet with `do_not_use_as_current_authority: false`. Pending AV changes the scope and confidence of dependent claims, not the authority of the entire model. Unaccepted drafts and owner-retired legacy artifacts retain their noncurrent veto.
+
+Start with the current packet router and its source-facing deep dive or synthesis. Escalate claim-specific uncertainty to its evidence matrix and relevant modality. Textual observation, machine measurement, direct performance interpretation, AV completion, and compiled-model status remain independently reported; current authority does not certify any unperformed operation.
 
 ## Authority caveats
 

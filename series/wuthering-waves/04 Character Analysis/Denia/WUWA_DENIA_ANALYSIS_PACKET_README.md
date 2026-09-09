@@ -5,9 +5,9 @@ artifact_type: analysis_packet_entrypoint
 scope: DENIA_SOURCE_3_6_0_PRE_AV
 analysis_generation: DENIA_PRE_AV_V0_1
 status: active_provisional
-release_state: local_working_draft
+release_state: current_provisional_pre_av
 foundation_authority: primary_and_deterministic_derived_evidence
-analysis_authority_state: local_working_draft_not_promoted
+analysis_authority_state: owner_adopted_current_provisional
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 text_authority: zh-Hans
@@ -23,9 +23,15 @@ governing_protocols:
   - WUWA_AUDIOVISUAL_HUMAN_RETRIEVAL_CROSSWALK_SPEC_V0_1.md proposed
   - WUWA_AV_EVIDENCE_MANIFEST_SPEC_V0_1.md proposed
 intended_canonical_home: series/wuthering-waves/04 Character Analysis/Denia/
-do_not_use_as_current_git_authority: true
+do_not_use_as_current_git_authority: false
 created: 2026-09-03
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
+
+> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
 
 # Denia reconstruction dossier — pre-audiovisual V0.1
 
@@ -33,11 +39,11 @@ created: 2026-09-03
 
 This packet is a source-grounded reconstruction of **Denia / 达妮娅 / ダーニャ / 데니아** against the frozen *Wuthering Waves* 3.6.0 evidence generation. It applies the current Wuthering Waves character-analysis framework together with the proposed audiovisual collection and human-retrieval refinements that have not yet been committed to Git.
 
-The packet is an analytical working set, not a publication event. It does not update the Wuthering Waves character index, title-wide state and relationship ledgers, claim-evidence index, current-state map, corpus manifest, or repository audit. Those changes must occur atomically when the owner authorizes promotion.
+The original packet was an analytical working set. Its initial creation did not update repository routing or publication state. The owner-authorized adoption now updates the authority metadata and current routes through governed integration; its original collection and publication checklists below remain preparation history.
 
 All files in this directory therefore carry the same authority boundary:
 
-> **Local working analysis derived from canonical Drive evidence; not current Git authority.**
+> **Owner-adopted current provisional analysis derived from canonical Drive evidence, within its declared text/audio scope.**
 
 ## Current analytical thesis
 
