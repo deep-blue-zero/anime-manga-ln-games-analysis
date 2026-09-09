@@ -5,9 +5,9 @@ artifact_type: analysis_packet_entrypoint
 scope: AEMEATH_SOURCE_3_6_0_PRE_AV
 analysis_generation: AEMEATH_PRE_AV_V0_1
 status: active_provisional
-release_state: local_working_draft
+release_state: current_provisional_pre_av
 foundation_authority: primary_and_deterministic_derived_evidence
-analysis_authority_state: local_working_draft_not_promoted
+analysis_authority_state: owner_adopted_current_provisional
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 text_authority: zh-Hans
@@ -23,9 +23,15 @@ governing_protocols:
   - WUWA_AUDIOVISUAL_HUMAN_RETRIEVAL_CROSSWALK_SPEC_V0_1.md proposed
   - WUWA_AV_EVIDENCE_MANIFEST_SPEC_V0_1.md proposed
 intended_canonical_home: series/wuthering-waves/04 Character Analysis/Aemeath/
-do_not_use_as_current_git_authority: true
+do_not_use_as_current_git_authority: false
 created: 2026-09-03
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
+
+> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
 
 # Aemeath reconstruction dossier — pre-audiovisual V0.1
 
@@ -41,7 +47,7 @@ The packet has three immediate responsibilities:
 
 It is **not** a final integrated multimodal monograph. No selected Aemeath cutscene/PV/static-art tranche has yet been acquired into the AV evidence manifest and directly reviewed under the proposed protocol. It is also not a human voice-performance study. The direct voice corpus is technically complete inside its accepted boundary, but all structured human listening fields remain open.
 
-Nothing in this directory has been committed, pushed, merged, or promoted to repository authority.
+At initial preparation, this directory had not been committed, pushed, merged, or promoted. The owner has since adopted this packet as current provisional authority within its declared text/audio scope; the adoption note above governs present status.
 
 ## Current analytical thesis
 
