@@ -11,8 +11,8 @@ Current analytical state: Phase 3 sequential analysis complete through Episode 1
 
 Governance routes for continued analysis:
 
-- Current governing analytical method: `00 Frameworks/CinderellaGirlsAnalyticalMethod_v2.md` (effective from Episode 16; Episodes 1–15 retain their original prospective method metadata).
-- Governing synthesis/corpus architecture: `00 Frameworks/CINDERELLA_GIRLS_MULTI_DOCUMENT_ANALYSIS_AND_SYNTHESIS_PROTOCOL_V1.md`.
+- Current governing analytical-method authority: `00 Frameworks/CG2015_CURRENT_ANALYTICAL_METHOD_AUTHORITY.md`; substantive specification: `00 Frameworks/CinderellaGirlsAnalyticalMethod_v2.md` (effective from Episode 16; Episodes 1–15 retain their original prospective method metadata).
+- Governing synthesis/corpus architecture authority: `00 Frameworks/CG2015_CURRENT_SYNTHESIS_ARCHITECTURE_AUTHORITY.md`; substantive protocol: `00 Frameworks/CINDERELLA_GIRLS_MULTI_DOCUMENT_ANALYSIS_AND_SYNTHESIS_PROTOCOL_V1.md`.
 
 Drive lanes:
 
