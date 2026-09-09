@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic increments through EVENT_0084; learned craft knowledge, remote participation, delayed sensory access, bounded introductions and reported household acceptance"
-analysis_cutoff: "EVENT_0084 I2 event with bounded knowledge increments; latest relationship/epistemic I3 EVENT_0080; E0077 desire/disclosure corrections retained"
+source_boundary: "N25 epistemic state through EVENT_0089; direct maternal discovery/negotiation, bounded disclosure transfers and Empty KAITO acquired history"
+analysis_cutoff: "EVENT_0089 I3 epistemic changes; participant knowledge, private interpretations and unshown transmission remain separate"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic boundary is **EVENT_0084**, adding learned craft knowledge, remote collaboration and delayed sensory access, bounded introductions and reported household acceptance. Earlier direct disclosures and hypotheses retain their distinctions. No governing epistemic-state successor is required. EVENT_0080’s support offer, preserved causal ignorance and private recipient memory remain current; EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
+The latest integrated epistemic boundary is **EVENT_0089**, an I3 transition. Maternal computer search and successful discovery are now directly shown; earlier OPEN statements remain correct only at their historical boundaries. Kanade learns the prior voiced music wish from Mafuyu and the doctor-path demand from her mother; Ena/Mizuki receive bounded contact/meeting knowledge. Mafuyu is not shown learning the hotel exchange. Empty KAITO acquires history from Miku, observes resistance, and privately recognizes the need to consider another approach. His judgments, Kanade’s marionette interpretation and forecasts about the mother are attributed beliefs rather than omniscient narrative facts. All earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods.
 
-Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0085; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
+Mizuki's guarded content remains undisclosed. No broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0090; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
 
 ## 1. Purpose
 
@@ -1444,3 +1444,53 @@ Only Classroom manifestations appear in the SEKAI scenes. Miku's relational read
 | Recipients / response plus attribution | Gifts can evoke care and personal associations without exact knowledge of the maker's intended scent meaning. | `PJSK:event:0084:05:001:0080–0104`; `PJSK:event:0084:06:001`; `PJSK:event:0084:08:003`. Scent-memory persistence remains Ichika's hope/heard theory. |
 
 Temporary gift-surprise secrets do not enter Mizuki's guarded-content domain. All aroma effects remain character descriptions/beliefs; no universal causal inference follows. Honami/Nene register adjustment is explicit and local, not a blanket shift in speech toward Kanade. Walks, further craft/teaching meetings, practice observation, string-figure play and the completed CD errand remain prospective unless separately shown. Stage KAITO/Len care is manifestation-specific. Preserve E0080's undisclosed causes and E0077's historical knowledge corrections. Next EVENT_0085.
+
+## EVENT_0087 epistemic increment — familiarity, permission and attributed knowledge
+
+| Knower / evidentiary level | Established content | Limit |
+|---|---|---|
+| Empty Len / direct participation | He reports borrowing Ena's book; learns Rin has already read it, then that she will join him. | Reading completion, book content, first occurrence and Ena's intent are unshown (`PJSK:area:areatalk_monthly2302_001:01:001:0003–0009`). |
+| Empty Rin / explicit report and choice | She knows this book and agrees to the invitation despite its familiarity. | Boredom is her stated reason; hidden affection or dislike is not disclosed (`PJSK:area:areatalk_monthly2302_001:01:001:0002–0008`). |
+| Akito speaking to Toya / attributed characterization | Ena is his example of someone wanting attractive pancake presentation too. | Predicted evaluation of irregular cakes is not an actual new Ena complaint; Ena/N25 are not shown hearing this conversation (`PJSK:card:0600:01:001:0018–0027`). |
+
+No new governing epistemic-state ID or human-secret disclosure. The shared reading separately preserves Toya's newly narrated childhood history, concealment of Street helpers from human acquaintances, seasonal surprise knowledge and Miku's corrected cooking beliefs. Those do not become N25 knowledge. All E0080/E0077 constraints remain. Next EVENT_0088.
+
+## EVENT_0089 epistemic transition — discovery does not equal shared understanding
+
+### `EPI-N25-K-E0089` — direct contact, corrected premise and bounded interpretation
+
+| Knowledge class | Current content / exact evidence | Limit |
+|---|---|---|
+| DIRECT_DISCLOSURE | Identified mother asks K to stop musical activity; cites an unspecified dream (`PJSK:event:0089:02:001:0005–0028`). | Kanade does not yet know the doctor claim. Her computer-search explanation is initially inference. |
+| DIRECT_DISCLOSURE | Ena reports the earlier phone inquiry; Mafuyu later says she already voiced refusal and wanting music (`PJSK:event:0089:03:002:0093–0103`; `PJSK:event:0089:06:002`). | E0077 reader/Ena knowledge was not automatically Kanade’s earlier knowledge. |
+| DIRECT_WITNESS / DIRECT_DISCLOSURE | Hotel: doctor-path claim, request to leave the circle, maternal reframing of disappearance/distress, and the agreement to conceal the meeting (`PJSK:event:0089:07:003`; `PJSK:event:0089:08:002`). | Hearing the parent’s description does not establish that medicine is Mafuyu’s freely chosen dream. |
+| INFERENCE_STRONG / attributed judgment | Kanade concludes the mother suppresses Mafuyu’s feelings and reinterprets the earlier marionette response (`PJSK:card:0612:02:001:0021–0044`). | This is a new Kanade explanation, not earlier possession of the full causal model or Mafuyu’s fresh confirmation. |
+| BELIEF / OPEN prognosis | She thinks the mother will not change; considers what more she can do, with an unfinished conditional about distance (`PJSK:event:0089:08:002:0073–0095`). | Neither inevitable future nor enacted arrangement. |
+
+Her childhood parental memories are newly narrated history, not newly lived events. Her father’s present nonrecognition persists in her current report (`PJSK:event:0089:01:006:0002–0008`). Honami’s tea provision is recalled; Kanade directly experiences its warmth without thereby proving a general therapeutic effect (`PJSK:card:0612:02:001:0053–0061`).
+
+### `EPI-N25-MF-E0089` — inferred exposure, unheard assertion and private continuation
+
+Mafuyu hears the mother admit computer use and ask about poems, then infers that Nightcord has been found. The audience directly sees the search and knows its scope more precisely. She knows her attempted refusal at dinner failed and hears KAITO’s accusations, but rejects the claim about her mother’s intent. The father’s exact understanding of the concealed issue is not established (`PJSK:event:0089:02:003`; `PJSK:event:0089:05:003`; `PJSK:event:0089:06:002`).
+
+Private listening, renewed lyric writing, insomnia and decisions about phone/light are audience-accessible but not shown transmitted to the group (`PJSK:card:0616:02`). Mafuyu explicitly reports unknown taste while accepting a small amount of parfait; Mizuki’s tentative appearance/smile readings remain inferences (`PJSK:card:0614:02:001:0052–0074`). A conditioned group visit establishes brief access and interest in the demo, not full resumption. She is not shown knowing the hotel meeting, maternal recruitment attempt or Kanade’s new refusal promise.
+
+### `EPI-FAMILY-MAFUYU-MOTHER-E0089` — obtained records / friend identification / distorted reception
+
+The mother directly finds concealed illustrations/poems, Nightcord, Yuki’s role and K’s composer message; the computer search/discovery uncertainty is resolved **from this event onward** (`PJSK:event:0089:01:005:0002–0027`). The meeting supplies Kanade’s real name and offline familiarity with Mafuyu (`PJSK:event:0089:07:002:0002–0020`). Kanade tells her the disappearance statement and present musical wish. She interprets the distress within a school/future frame and treats discussion as restoring the prescribed path (`PJSK:event:0089:08:002`).
+
+Do not give her SEKAI knowledge, all friends’ faces, every group conversation, or Kanade’s private post-meeting thoughts. Her insistence that she knows Mafuyu’s best future is a professed position, not independent confirmation of that future or exhaustive access to her daughter’s experience.
+
+### `EPI-N25-G-E0089` — limited transfers and deliberate withholding
+
+Ena tells Kanade/Mizuki about the E0077 inquiry only after Mafuyu exits; Kanade tells them about contact/meeting but stops short of transmitting all dream/future-pressure details. They know the face-exposure plan and offer on-call help (`PJSK:event:0089:03:002:0093–0181`). Ena believes Mafuyu does not know the contact and may be better off not knowing, yet objects to major decisions being discussed without her (`PJSK:card:0613:01:001:0023–0025`; `PJSK:card:0613:02:001:0028–0032`). This tension is preserved.
+
+The later introduction and blouse conversation do not certify full knowledge of the hotel exchange or Kanade’s private reasoning. Mafuyu’s own earlier disclosures and the others’ impressions must be tracked separately. The unnamed shop-working classmate in card 0614:02 remains unnamed; no roster-based identity transfer.
+
+### `EPI-N25-VS-KAITO-E0089` — supplied history, tested assumptions, private revision
+
+Miku supplies the host/group history, prior disappearance wishes and gradual positive changes. KAITO’s model of the mother and his reason for being called are interpretations of that information (`PJSK:card:0615:01`). The confrontation gives him direct evidence that Mafuyu has tried to say no; the later introduction adds names and Kanade’s objection to his total-no-resistance claim. His recollection leads to a private decision to consider another approach (`PJSK:card:0615:02:001:0017–0054`).
+
+Luka explicitly saw the conversation without hearing its contents. KAITO’s thought that music is the sole thing reaching Mafuyu is his interpretation of Miku’s report, not a rejection of the envelope’s restaurant/refuge effects (`PJSK:card:0615:02:001:0060–0065`; `PJSK:area:areatalk_ev_night_12_004:01`). Agreed listening provides no reported critique. Rin/Len’s knowledge of Mafuyu’s avoidance grounds direct reassurance; no complete shared VS mind is assumed.
+
+Next EVENT_0090. State and relationship successors operate with these knowledge limits; guarded-content nondisclosure, prior history and earlier bounded cross-unit ignorance remain intact.

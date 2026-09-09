@@ -18,3 +18,5 @@ The folder is now populated by [EVENT_0074 — カーテンコールに惜別を
 Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 
 [EVENT_0082 — 夢の途中、輝く星たちへ](PJSK_EVENT_0082_DEEP_READING.md) adds complete-envelope extraction of Emu's reciprocal encouragement under anticipated separation, Rui's own need for support, and Tsukasa/Nene's distinct learning problems. It remains deferred for foundation-aware longitudinal interpretation.
+
+[EVENT_0088 — 天の果てのフェニックスへ](PJSK_EVENT_0088_DEEP_READING.md) adds a complete 24-story envelope: Tsukasa's audition and role-building limit, Nene/Emu's distinct learning, Rui's responsive support and burden reduction, Wonderland singer limits, and Saki/Toya's bounded cross-unit concern. WxS and the two material cross-unit routes remain deferred pending their foundations; audition success does not close the anniversary production.

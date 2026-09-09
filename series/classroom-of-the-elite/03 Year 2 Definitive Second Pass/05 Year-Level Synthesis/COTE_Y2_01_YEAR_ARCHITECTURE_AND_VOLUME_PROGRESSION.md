@@ -20,19 +20,19 @@ authority_state: canonical
 source_boundary: "Japanese Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position after Y2V08 + Second List after Y2V12.5"
 spoiler_boundary: "through Year 2 Second List only; Year 3 narrative evidence excluded"
 reader_entrypoint: COTE_Y2_00_README_AND_CORPUS_MAP.md
-operational_entrypoint: COTE_Y2_PROJECT_STATUS.md
+operational_entrypoint: COTE_Y2_00_README_AND_CORPUS_MAP.md
 source_lock: COTE_Y2_SOURCE_INVENTORY_AND_LOCK.md
 handoff_tracker: COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md
 retrospective_primary_fiction: COTE_V00_RETROSPECTIVE_DEEP_READING.md
 paratext_boundary: COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md
-release_state: active_synthesis_build
-frozen_release: false
+release_state: frozen
+frozen_release: true
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 year3_narrative_evidence_used: false
 created_at: "2026-08-26"
-updated_at: "2026-08-26"
+updated_at: "2026-09-09"
 ---
 
 # Classroom of the Elite
@@ -162,7 +162,7 @@ V11 gives Ayanokoji his clearest positive stopping rule. He can recognize anothe
 
 V12 supplies the darkest counterexample. Direct command becomes unnecessary when trust, love, fear, loyalty, or desire can be modeled accurately enough to make the preferred answer likely. Formal freedom survives. Hidden authorship survives with it. Sakayanagi can genuinely choose the outcome Ayanokoji wants while Ayanokoji still bears responsibility for creating the relational signal he expects her to interpret.
 
-V12.5 then makes the year-end test irreversible. Ayanokoji actually separates from Kei, silently exits Horikita's class, and transfers into the former Ichinose class. Yet separation alone does not prove that development has become independent. The strongest proof comes from **counter-authorship**: the developed person generates an answer the developer did not supply, predict, or own. Ichinose's third answer is the clearest terminal example.
+V12.5 then makes the year-end test irreversible. Ayanokoji actually separates from Kei, silently exits Horikita's class, and transfers into the former Sakayanagi class. Yet separation alone does not prove that development has become independent. The strongest proof comes from **counter-authorship**: the developed person generates an answer the developer did not supply, predict, or own. Ichinose's third answer is the clearest terminal example.
 
 Second List closes the boundary by turning the whole year into an archive of measurements, profiles, rankings, relationships, summaries, and official framing. Its own internal plurality repeats the year's conclusion. Measurements are useful. Profiles are useful. Historical records are useful. None is exhaustive.
 
@@ -361,7 +361,7 @@ Ayanokoji separates from Kei.
 
 He silently leaves Horikita's class.
 
-He enters the former Ichinose class after Sakayanagi's withdrawal creates a leader vacuum in another polity and after the four-class ecology has been reconfigured.
+He enters Sakayanagi's former class after her withdrawal creates a leadership vacancy and the four-class ecology has been reconfigured.
 
 Yet departure is not proof of independence.
 
@@ -1681,7 +1681,9 @@ The strict test of voluntarily exposing weakness in a way that grants another pe
 
 V12.5 begins the succession test but does not contain the post-transfer year.
 
-## 32.6 Former Ichinose-class polity after Ayanokoji transfer
+<a id="326-former-ichinose-class-polity-after-ayanokoji-transfer"></a>
+
+## 32.6 Former Sakayanagi-class polity after Ayanokoji transfer
 
 The transfer reconstitutes the competitive ecology. The resulting polity is a future-state question.
 
@@ -1918,3 +1920,7 @@ The next architecture-defined specialist artifact is:
 That document should inherit this file's architectural conclusions while moving the primary analytical responsibility from **what the year does** to **who Ayanokoji becomes across the year**.
 
 Year 3 remains locked.
+
+## Closeout correction — transfer destination
+
+The Y2SL evidence-router audit corrected three references that misnamed Ayanokōji’s transfer destination as Ichinose’s former class. Direct verification of `COTE:Y2V12.5:spine22:para0075–0080` confirms Sakayanagi’s former class and Hashimoto’s financing contribution. The old section-32.6 anchor remains as a compatibility alias. The source-local reading and all evidence IDs remain unchanged; [Y2_12 section 6](COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md#6-closeout-corrections-and-preserved-uncertainty) owns the correction record.
