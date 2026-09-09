@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID; Leo/need main-story phase history through leo_01_20"
-analysis_cutoff: "EVENT_0090 I2 thematic refinement; broader comparison awaits founded longitudinal interpretation; LN foundation-current P04 only"
+source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
+analysis_cutoff: "EVENT_0090 I2 thematic refinement; broader comparison awaits founded longitudinal interpretation; LN foundation-current P04 only; VBS foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0090**, operationalizing `TH-N25-032`'s technique-expression relation and qualifying `TH-N25-003`'s use of art as psychological evidence with dialogue and reception context. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Preserve EVENT_0089's first-person authority, usable choice, reciprocal warmth, partial efficacy and contested refuge refinements, and all earlier ID-qualified meanings. MMJ/VBS/WXS foundations, Leo/need routed history and 21 older universal screens remain unfinished; this event does not certify a franchise-wide theory.
+N25 thematic authority reaches **EVENT_0090**, operationalizing `TH-N25-032`'s technique-expression relation and qualifying `TH-N25-003`'s use of art as psychological evidence with dialogue and reception context. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Preserve EVENT_0089's first-person authority, usable choice, reciprocal warmth, partial efficacy and contested refuge refinements, and all earlier ID-qualified meanings. MMJ/WXS foundations, Leo/need routed history and 21 older universal screens remain unfinished; this event does not certify a franchise-wide theory.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -32,7 +32,10 @@ The imported history reuses several identifiers for distinct meanings. Preserve 
 
 New references must resolve the intended meaning from the local formulation and evidence, never infer it from the repeated ID alone. This is a citation-integrity clarification, not a new thematic finding or a rewrite of the historical source boundaries.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
+
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
 
 ## 1. Purpose and caution
 
@@ -1344,3 +1347,81 @@ Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK
 **NEW:** Reciprocal repair must include both speaker’s wish and recipient’s answer; renunciation and accusation have limits. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
 
 **Evidence / confidence:** `PJSK:main:leo_01_14:01:005:0021`; `PJSK:main:leo_01_15:01:003:0005`; `PJSK:main:leo_01_17:01:001:0029`; `PJSK:main:leo_01_19:01:001:0026`; HIGH.
+
+## Vivid BAD SQUAD main-story foundation — serial phase history
+
+All records below are bounded to their named phase and internal transition time. HIGH confidence identifies source-supported interpretation, not proof of unshown thought or future durability. The phase reading owns shared causes; each ledger retains only its responsibility. Earlier history remains valid when a successor becomes the later default. No other-unit private knowledge or later-event state is imported. The main-story ending does not establish reconstruction readiness.
+
+These are recurring unit-local foundation interpretations; cross-event and franchise-wide validation remain pending.
+
+### VBS-MS-P01 — episodes 00–04
+
+Causal/evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P01_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-TM-DOOR
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Literal café threshold organizes chosen approach under fear; later symbolic elaboration not yet known.
+
+**Evidence:** `PJSK:main:street_01_02:01:004:0015`; `PJSK:main:street_01_02:01:004:0016`. Confidence: HIGH.
+
+#### VBS-TM-COMPANIONS
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** RAD WEEKEND is transmitted as collective creation through mutual help and conflict.
+
+**Evidence:** `PJSK:main:street_01_04:01:002:0018`; `PJSK:main:street_01_04:01:002:0027`. Confidence: HIGH.
+
+### VBS-MS-P02 — episodes 05–08
+
+Causal/evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P02_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-TM-AUTHENTICITY
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Resolve as an evaluative standard competes with unfinished, relationally acquired aspiration.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0027`; `PJSK:main:street_01_08:01:004:0016`. Confidence: HIGH.
+
+### VBS-MS-P03 — episodes 09–13
+
+Causal/evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P03_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-TM-DOOR
+
+**Prior:** Literal threshold.
+
+**REFINE:** MEIKO/Miku make next-door choice explicit; Kohane decides and returns.
+
+**Evidence:** `PJSK:main:street_01_11:01:003:0016`; `PJSK:main:street_01_11:01:003:0028`; `PJSK:main:street_01_11:01:003:0056`. Confidence: HIGH.
+
+#### VBS-TM-AUTHENTICITY
+
+**Prior:** Competing standards.
+
+**REFINE:** Self-owned desire supports fearful action; the same standard also becomes Toya self-exclusion.
+
+**Evidence:** `PJSK:main:street_01_13:01:005:0021`; `PJSK:main:street_01_13:01:005:0046`. Confidence: HIGH.
+
+### VBS-MS-P04 — episodes 14–20
+
+Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P04_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-TM-COMPANIONS
+
+**Prior:** Collective precedent narrated by An.
+
+**REFINE:** Four enact companion formation through conflict, repair and joint song; Ken closing observation returns to earlier account.
+
+**Evidence:** `PJSK:main:street_01_20:01:004:0038`; `PJSK:main:street_01_20:01:004:0040`. Confidence: HIGH.
+
+#### VBS-TM-PRESENT-CHOICE
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Current desire and reciprocal work revise a permanently disqualifying origin story; material family conflict not declared solved.
+
+**Evidence:** `PJSK:main:street_01_19:01:001:0019`; `PJSK:main:street_01_19:01:001:0029`; `PJSK:main:street_01_19:01:001:0047`. Confidence: HIGH.

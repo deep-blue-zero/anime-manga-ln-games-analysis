@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20"
-analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN foundation-current P04 only"
+source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
+analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN foundation-current P04 only; VBS foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,9 +19,12 @@ mutable: true
 
 The verified forward analytical frontier is **EVENT_0090**, an I2 refinement of Ena's working artistic method. Current global human defaults remain **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Ena now supplies explicit subject-to-technique selection, qualified reception assessment and subsequent practice evidence; these operationalize the existing aesthetic state rather than replace it. EVENT_0089 remains the latest global human transition: Kanade sustains recipient-directed protection after failed parental trust, retaining bounded self-permission, supported ordinary competence and rescue obligation.
 
-Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. MMJ/VBS/WXS foundations, Leo/need routed history and 21 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
+Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. MMJ/WXS foundations, Leo/need routed history and 21 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
+
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
 
 ## 1. Purpose and authority
 
@@ -1569,3 +1572,215 @@ Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK
 **Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `OPEN: next founded longitudinal event state`.
 
 **Evidence / confidence:** `PJSK:main:leo_01_15:01:002:0030`; `PJSK:main:leo_01_15:01:003:0005`; `PJSK:main:leo_01_15:01:003:0009`; `PJSK:main:leo_01_16:01:001:0007`; `PJSK:main:leo_01_19:01:001:0014`; `PJSK:main:leo_01_20:01:005:0009`; HIGH. **Limits / OPEN:** Do not make harshness the single effective cure. Standards, friendship and autonomy still require future negotiation.
+
+## Vivid BAD SQUAD main-story foundation — serial phase history
+
+All records below are bounded to their named phase and internal transition time. HIGH confidence identifies source-supported interpretation, not proof of unshown thought or future durability. The phase reading owns shared causes; each ledger retains only its responsibility. Earlier history remains valid when a successor becomes the later default. No other-unit private knowledge or later-event state is imported. The main-story ending does not establish reconstruction readiness.
+
+### VBS-MS-P01 — episodes 00–04
+
+Causal/evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P01_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-KOHANE-MS1
+
+**Prior:** NOT_INITIALIZED; MS0 inhibited school participation and no claimed dream
+
+**Azusawa Kohane:** Chosen novice partner willing to try singing with An; not yet secure in ability or independent resolve. **Goals:** Try shared music and an event; find a personally meaningful direction. **Fears / unresolved limits:** Public attention, disappointing others, being a burden.
+
+**Emotion:** Excited and anxious. **Coping / presentation:** Apology, self-minimization, flight under attention; private research and practice. **Agency:** Errand completion, chosen return, accepts invitation after An gives time to decide. **Speech:** Polite/hesitant with adults and unfamiliar peers; longer excited arrangement talk; An-chan after explicit invitation.
+
+**Historical chain:** `VBS-KOHANE-MS0` → `VBS-KOHANE-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_01:01:001:0005`; `PJSK:main:street_01_02:01:004:0015`; `PJSK:main:street_01_03:01:002:0027`; `PJSK:main:street_01_04:01:002:0034`. Confidence: HIGH.
+
+#### VBS-AN-MS1
+
+**Prior:** NOT_INITIALIZED; MS0 selective partner search with fixed RAD WEEKEND ambition
+
+**Shiraishi An:** Has found a personally wanted partner; confidence now invested in their shared possibility. **Goals:** Exceed RAD WEEKEND with companions; sing more with Kohane. **Fears / unresolved limits:** Settling for partners who dismiss the goal; novice readiness remains unknown.
+
+**Emotion:** Confident, delighted, socially active. **Coping / presentation:** Initiative, invitation, encouragement and a mutual-help promise. **Agency:** Café work and public singing; asks Kohane to partner. **Speech:** Casual first names, direct invitations, intimate warmth; practical family banter.
+
+**Historical chain:** `VBS-AN-MS0` → `VBS-AN-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_00:01:003:0006`; `PJSK:main:street_01_03:01:002:0035`; `PJSK:main:street_01_04:01:002:0015`; `PJSK:main:street_01_04:01:002:0028`. Confidence: HIGH.
+
+#### VBS-AKITO-MS1
+
+**Prior:** NOT_INITIALIZED; MS0 established BAD DOGS performer
+
+**Shinonome Akito:** Committed performer scrutinizing an inexperienced new partner; event proposal follows discovery of novice status. **Goals:** Exceed RAD WEEKEND; work with ability and resolve. **Fears / unresolved limits:** Others trivializing the target; unproven collaborator.
+
+**Emotion:** Proud, evaluative, irritated by dismissal. **Coping / presentation:** Hard standards and direct challenge; newcomer-facing courtesy. **Agency:** Regular performances, set-list planning, proposes event. **Speech:** Polite to staff/newcomers and rough among familiar musicians; motive of invitation still OPEN.
+
+**Historical chain:** `VBS-AKITO-MS0` → `VBS-AKITO-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_04:01:001:0007`; `PJSK:main:street_01_04:01:001:0013`; `PJSK:main:street_01_04:01:001:0021`; `PJSK:main:street_01_04:01:002:0060`; `PJSK:main:street_01_04:01:002:0066`. Confidence: HIGH.
+
+#### VBS-TOYA-MS0
+
+**Prior:** NOT_INITIALIZED
+
+**Aoyagi Toya:** Effective reserved BAD DOGS partner whose private motives are not yet established. **Goals:** Perform well; adapt repertoire to audience. **Fears / unresolved limits:** Not established at this boundary.
+
+**Emotion:** Restrained and task-focused. **Coping / presentation:** Concise practical cooperation; does not explain silence. **Agency:** Anticipates set-list needs and eases Kohane honorific distance. **Speech:** Plain declarative speech and brief request to avoid honorifics.
+
+**Historical chain:** `VBS-TOYA-MS0`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_04:01:001:0008`; `PJSK:main:street_01_04:01:001:0011`; `PJSK:main:street_01_04:01:002:0047`. Confidence: HIGH.
+
+### VBS-MS-P02 — episodes 05–08
+
+Causal/evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P02_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-KOHANE-MS2
+
+**Prior:** VBS-KOHANE-MS1
+
+**Azusawa Kohane:** Practiced novice with an upcoming event; values shared music but still questions whether the dream is truly hers. **Goals:** Sing with An and pursue a shared dream. **Fears / unresolved limits:** Event audience, unfamiliar people, burdening An.
+
+**Emotion:** Hopeful with recurring nervousness. **Coping / presentation:** Reliance on An safety, honest qualification, practice despite fear. **Agency:** Joins public practice, answers Toya candidly, seeks clothing advice. **Speech:** Hesitant polite speech to Toya shifts toward plain after correction; explicit qualified account of desire.
+
+**Historical chain:** `VBS-KOHANE-MS2`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_05:01:001:0011`; `PJSK:main:street_01_06:01:002:0033`; `PJSK:main:street_01_07:01:003:0022`; `PJSK:main:street_01_08:01:004:0016`; `PJSK:main:street_01_08:01:004:0021`. Confidence: HIGH.
+
+#### VBS-AN-MS1
+
+**Prior:** VBS-AN-MS1
+
+**Shiraishi An:** Confident partner/mentor preserved; provides practice, repertoire and scene access. **Goals:** Prepare the pair for the debut. **Fears / unresolved limits:** No new stated fear; miscalibration of novice experience remains a vulnerability.
+
+**Emotion:** Optimistic and energetic. **Coping / presentation:** Reassurance and direct exposure. **Agency:** Leads public practice and event planning. **Speech:** Casual encouragement and familiar community greetings.
+
+**Historical chain:** `VBS-AN-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_05:01:001:0010`; `PJSK:main:street_01_07:01:003:0015`; `PJSK:main:street_01_08:01:003:0004`. Confidence: HIGH.
+
+#### VBS-AKITO-MS1
+
+**Prior:** VBS-AKITO-MS1
+
+**Shinonome Akito:** Gatekeeping/test motive explicit; old soccer history explains existing standard rather than a new current psychological change. **Goals:** Demonstrate novice pair inadequacy through music. **Fears / unresolved limits:** Trivialization of RAD WEEKEND ambition.
+
+**Emotion:** Determined, contemptuous privately. **Coping / presentation:** Public courtesy/private hostility; rejects outside interference. **Agency:** Plans decisive musical comparison; helps staff with equipment. **Speech:** Welcoming politeness in public, rough evaluative speech privately.
+
+**Historical chain:** `VBS-AKITO-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0006`; `PJSK:main:street_01_05:01:002:0015`; `PJSK:main:street_01_08:01:001:0021`; `PJSK:main:street_01_08:01:002:0004`. Confidence: HIGH.
+
+#### VBS-TOYA-MS1
+
+**Prior:** VBS-TOYA-MS0
+
+**Aoyagi Toya:** Operational partner develops evaluative dissent and unresolved self-comparison around half-heartedness. **Goals:** Improve audience connection and judge the girls fairly. **Fears / unresolved limits:** Legitimacy-related unease is suggested; precise origin remains unrevealed.
+
+**Emotion:** Reserved, thoughtful, increasingly troubled. **Coping / presentation:** Private practice; direct questions to Kohane; incomplete self-disclosure to Akito. **Agency:** Corrects Akito technical detail, observes pair, attempts an event-day intervention. **Speech:** Concise technical directives, formal plain speech, unfinished Ore wa statements.
+
+**Historical chain:** `VBS-TOYA-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0016`; `PJSK:main:street_01_07:01:003:0047`; `PJSK:main:street_01_07:01:004:0011`; `PJSK:main:street_01_08:01:004:0009`; `PJSK:main:street_01_08:01:006:0014`. Confidence: HIGH.
+
+### VBS-MS-P03 — episodes 09–13
+
+Causal/evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P03_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-KOHANE-MS4
+
+**Prior:** VBS-KOHANE-MS2
+
+**Azusawa Kohane:** Debut collapse and self-condemnation give way to own wish and renewed action under continuing fear. **Goals:** Sing with An; excite listeners; exceed RAD WEEKEND together. **Fears / unresolved limits:** Failure/burden and public exposure persist.
+
+**Emotion:** MS3 ashamed and withdrawn; MS4 purposeful and still nervous. **Coping / presentation:** MS3 avoids replies and seeks café; MS4 recalls meaningful experience and states desire. **Agency:** Returns to An, challenges Akito, leads singing at rematch. **Speech:** From apology and silence to direct contradiction; retains hesitant polite public thanks.
+
+**Historical chain:** `VBS-KOHANE-MS2` → `VBS-KOHANE-MS3 at10 after debut` → `VBS-KOHANE-MS4 from11 choice; tested12–13`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_10:01:003:0004`; `PJSK:main:street_01_11:01:003:0052`; `PJSK:main:street_01_12:01:001:0027`; `PJSK:main:street_01_13:01:005:0013`; `PJSK:main:street_01_13:01:005:0021`. Confidence: HIGH.
+
+#### VBS-AN-MS3
+
+**Prior:** VBS-AN-MS1
+
+**Shiraishi An:** Protective guilt after disrupted debut is followed by renewed confidence in a partner who now voices her own commitment. **Goals:** Keep Kohane connected to music; perform together and challenge rivals. **Fears / unresolved limits:** Failure to keep mutual-help promise; loss of contact.
+
+**Emotion:** MS2 worried and guilty; MS3 relieved and determined. **Coping / presentation:** Defends partner; attempts direct contact; supports challenge. **Agency:** Continues a cappella, pursues contact, backs rematch. **Speech:** Protective reassurance, joint challenge and post-recognition teasing.
+
+**Historical chain:** `VBS-AN-MS1` → `VBS-AN-MS2 after debut/contact failure` → `VBS-AN-MS3 from12 reaffirmation`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_09:01:002:0039`; `PJSK:main:street_01_11:01:006:0007`; `PJSK:main:street_01_12:01:001:0016`; `PJSK:main:street_01_13:01:005:0059`. Confidence: HIGH.
+
+#### VBS-AKITO-MS2
+
+**Prior:** VBS-AKITO-MS1
+
+**Shinonome Akito:** Recognizes Vivids seriousness after rematch; competitive ambition remains, literal sabotage account still false for girls. **Goals:** Improve and surpass benchmark alongside Toya; now treat Vivids as real rivals. **Fears / unresolved limits:** Insufficient seriousness; challenge to dream.
+
+**Emotion:** Harsh under failure, then impressed and competitively motivated. **Coping / presentation:** False blame-taking framed as no excuses; revises evaluation on contrary performance evidence. **Agency:** Agrees to fair hearing, later acknowledges and apologizes. **Speech:** Rough disparagement and orders; short direct praise/apology.
+
+**Historical chain:** `VBS-AKITO-MS2`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_09:01:001:0007`; `PJSK:main:street_01_10:01:002:0034`; `PJSK:main:street_01_13:01:005:0052`; `PJSK:main:street_01_13:01:005:0057`; `PJSK:main:street_01_13:01:005:0065`. Confidence: HIGH.
+
+#### VBS-TOYA-MS2
+
+**Prior:** VBS-TOYA-MS1
+
+**Aoyagi Toya:** Believes he alone lacks pure resolve; endorses girls legitimacy and withdraws as supposedly unfit partner. **Goals:** Protect Akito dream by leaving; refuses return to classical music. **Fears / unresolved limits:** Being a burden or insufficiently authentic beside Akito.
+
+**Emotion:** Privately ashamed and resolved to leave. **Coping / presentation:** Mediation for others, comparison against self, incomplete self-disclosure then exit statement. **Agency:** Wins fair hearing, offers rematch venue, announces departure. **Speech:** Direct toward father and in exit statement; inner self-condemnation not yet told to Akito.
+
+**Historical chain:** `VBS-TOYA-MS2`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_13:01:002:0009`; `PJSK:main:street_01_13:01:002:0015`; `PJSK:main:street_01_13:01:002:0023`; `PJSK:main:street_01_13:01:005:0045`; `PJSK:main:street_01_13:01:005:0070`. Confidence: HIGH.
+
+### VBS-MS-P04 — episodes 14–20
+
+Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P04_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-KOHANE-MS4
+
+**Prior:** VBS-KOHANE-MS4
+
+**Azusawa Kohane:** Self-owned commitment broadens into independent care and group contribution; anxiety and self-minimization persist. **Goals:** Sing with chosen companions; become someone others can rely upon. **Fears / unresolved limits:** Being intrusive or a burden; unfamiliar social situations.
+
+**Emotion:** Purposeful and caring with residual nervousness. **Coping / presentation:** Asks difficult questions, persists after uncertainty, accepts An practical support. **Agency:** Initiates concern before sabotage correction; questions Toya; proposes SQUAD. **Speech:** Hesitant in awkward meetings, direct about own desire, spontaneous contribution in trusted group.
+
+**Historical chain:** `VBS-KOHANE-MS4`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_15:01:004:0025`; `PJSK:main:street_01_16:01:001:0016`; `PJSK:main:street_01_16:01:001:0028`; `PJSK:main:street_01_20:01:004:0026`; `PJSK:main:street_01_20:01:004:0031`. Confidence: HIGH.
+
+#### VBS-AN-MS4
+
+**Prior:** VBS-AN-MS3
+
+**Shiraishi An:** Chooses four-person collaboration after supporting Kohane initiative and revising false beliefs about the boys. **Goals:** Advance beyond RAD WEEKEND through this group; sustain Kohane partnership. **Fears / unresolved limits:** Future group durability untested.
+
+**Emotion:** Warm, confident, competitively animated. **Coping / presentation:** Practical access, assistance, teasing, reappraisal on disclosure. **Agency:** Arranges courtyard talk; proposes unit based on joint singing. **Speech:** Casual affection to Kohane, rivalry to Akito, practical customer service.
+
+**Historical chain:** `VBS-AN-MS4`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_15:01:007:0004`; `PJSK:main:street_01_16:01:001:0030`; `PJSK:main:street_01_20:01:004:0008`; `PJSK:main:street_01_20:01:004:0013`. Confidence: HIGH.
+
+#### VBS-AKITO-MS3
+
+**Prior:** VBS-AKITO-MS2
+
+**Shinonome Akito:** Explicitly accepts reciprocal dependence and values present desire over pure origins; restored partner and collaborative rival. **Goals:** Continue with Toya; use four-person collaboration to pursue benchmark. **Fears / unresolved limits:** Loss of valued partner; threats to commitment.
+
+**Emotion:** Hurt and defensive during break, then candid and motivated. **Coping / presentation:** First literalizes breakup and denies relation; accepts care, reopens interpretation and requests disclosure access. **Agency:** Seeks Toya, states need and refuses substitute, endorses group. **Speech:** Rough emotional confession; polite self-correction to MEIKO and phone courtesy to Ken.
+
+**Historical chain:** `VBS-AKITO-MS3`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_17:01:001:0003`; `PJSK:main:street_01_17:01:001:0036`; `PJSK:main:street_01_19:01:001:0019`; `PJSK:main:street_01_19:01:001:0029`; `PJSK:main:street_01_19:01:001:0032`; `PJSK:main:street_01_20:01:004:0017`. Confidence: HIGH.
+
+#### VBS-TOYA-MS3
+
+**Prior:** VBS-TOYA-MS2
+
+**Aoyagi Toya:** Accepts his valued place beside Akito and owns the present shared wish despite oppositional musical origin. **Goals:** Sing with Akito, exceed RAD WEEKEND, contribute to new group. **Fears / unresolved limits:** Family conflict remains; self-disqualification may remain a vulnerability beyond this bounded repair.
+
+**Emotion:** Relieved and newly unguarded in relation, otherwise restrained. **Coping / presentation:** Stops protective withdrawal after reciprocal testimony; apologizes and recommits. **Agency:** Discloses to café listeners, finally states desire to Akito, participates in group. **Speech:** Respectful to Ken; defensive harshness during rupture; emphatic desire then concise recommitment.
+
+**Historical chain:** `VBS-TOYA-MS3`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_18:01:001:0044`; `PJSK:main:street_01_19:01:001:0037`; `PJSK:main:street_01_19:01:001:0047`; `PJSK:main:street_01_19:01:001:0064`; `PJSK:main:street_01_20:01:002:0015`. Confidence: HIGH.

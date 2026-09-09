@@ -4,11 +4,11 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Universal screening and positive N25 integration through EVENT_0090; N25 I2 with four material other-unit routes deferred"
+source_boundary: "Universal screening and positive N25 integration through EVENT_0090; N25 I2 with four material other-unit routes deferred; VBS main-story history through street_01_20"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "EVENT_0090 I2 Ena expressive-method refinement; all six ledgers synchronized; current human tuple retained"
+analysis_cutoff: "EVENT_0090 I2 Ena expressive-method refinement; all six ledgers synchronized; current human tuple retained; VBS foundation-current P04 only"
 ---
 
 # Project SEKAI Release Impact Ledger
@@ -19,7 +19,10 @@ The last completed forward event transaction is **EVENT_0090**; the next is **EV
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package. Earlier pending-release passages are historical handoffs.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
+
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
 
 ## 1. Purpose
 
@@ -2417,3 +2420,7 @@ LEO_NEED PRIMARY/HIGH/R3, VBS PRIMARY/VERY_HIGH/R3, WXS SECONDARY/HIGH/R3 and MM
 ## Leo/need main-story foundation completion
 
 The complete 21-story / 1,746-record main-story foundation now supplies four causal phase readings, an evidence index and a reviewed synthesis. Character, relationship, epistemic, claim and theme histories were integrated in P01→P04 order. This is foundation completion, with **no event-impact classification or existing event-row reassignment**. Leo/need's main-story baseline is available for ordered routed-event comparison; its later routes remain deferred pending that work. EVENT_0090 remains the closed forward boundary and EVENT_0091 the next forward event; N25's current tuple and all previously bounded event judgments remain valid. Main-story completion supplies no final character-readiness or longitudinal-synthesis certification.
+
+## Vivid BAD SQUAD main-story foundation completion
+
+All 21 sources / 1,854 ordered records support four reviewed causal readings and the completed main-story synthesis. Root integrated character, relationship, epistemic, claim and theme records in P01→P04 order, including temporary crisis states and phase-bounded mistaken beliefs. This closes VBS's foundation prerequisite with **no event I0–I3 reassignment**. Existing release rows, N25 EVENT_0090 authority and the EVENT_0091 forward cursor remain unchanged. VBS historical routed events still need ordered comparison, and the foundation confers no final package-readiness or longitudinal-synthesis certification.

@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20"
-analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN foundation-current P04 only"
+source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
+analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN foundation-current P04 only; VBS foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -30,7 +30,10 @@ The imported ledger reuses the following IDs for different claims. Historical id
 
 The EVENT_0070 heading `CR-N25-E-057 / talent-continuation architecture` is a dangling imported reference, not an additional established claim. Its stated EVENT_0053 continuation premise resolves to **`CR-N25-ENA-021`**, including the §7.20 strengthening. Use that responsible claim plus the EVENT_0070 extension when citing the passage. These reference repairs introduce no new source findings and confer no franchise-wide claim authority before the other unit foundations are completed.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
+
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
 
 ## 1. Purpose
 
@@ -1466,3 +1469,151 @@ Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK
 **NEW:** Ending establishes chosen serious practice, a named band and an original-song initiative; no professional outcome is established. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
 
 **Evidence / confidence:** `PJSK:main:leo_01_20:01:003:0015`; `PJSK:main:leo_01_20:01:005:0019`; `PJSK:main:leo_01_20:01:005:0025`; `PJSK:main:leo_01_20:01:005:0030`; HIGH.
+
+## Vivid BAD SQUAD main-story foundation — serial phase history
+
+All records below are bounded to their named phase and internal transition time. HIGH confidence identifies source-supported interpretation, not proof of unshown thought or future durability. The phase reading owns shared causes; each ledger retains only its responsibility. Earlier history remains valid when a successor becomes the later default. No other-unit private knowledge or later-event state is imported. The main-story ending does not establish reconstruction readiness.
+
+### VBS-MS-P01 — episodes 00–04
+
+Causal/evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P01_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-CR-001
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Kohane fear and initiative coexist before recruitment.
+
+**Evidence:** `PJSK:main:street_01_01:01:002:0009`; `PJSK:main:street_01_02:01:004:0015`. Confidence: HIGH.
+
+#### VBS-CR-002
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** An selects felt shared musical possibility plus ambition, while noticing novice limits.
+
+**Evidence:** `PJSK:main:street_01_03:01:002:0027`; `PJSK:main:street_01_04:01:002:0007`. Confidence: HIGH.
+
+#### VBS-CR-003
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Invitation motive and calibration of readiness remain unresolved.
+
+**Evidence:** `PJSK:main:street_01_04:01:002:0066`. Confidence: HIGH.
+
+### VBS-MS-P02 — episodes 05–08
+
+Causal/evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P02_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-CR-003
+
+**Prior:** Motive OPEN.
+
+**REFINE:** Invitation is concealed punitive musical test; outcome and readiness still OPEN.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0015`. Confidence: HIGH.
+
+#### VBS-CR-004
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Akito generalizes seriousness standard from soccer/RAD WEEKEND and may misread novice surfaces.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0006`; `PJSK:main:street_01_05:01:002:0018`. Confidence: HIGH.
+
+#### VBS-CR-005
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Toya technique and self-evaluation diverge; cause of resolve hesitation still OPEN.
+
+**Evidence:** `PJSK:main:street_01_08:01:004:0009`; `PJSK:main:street_01_07:01:003:0047`. Confidence: HIGH.
+
+### VBS-MS-P03 — episodes 09–13
+
+Causal/evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P03_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-CR-001
+
+**Prior:** Initiative coexists with fear.
+
+**REFINE:** Self-owned wish now supports action after failure; fear persists.
+
+**Evidence:** `PJSK:main:street_01_11:01:003:0052`; `PJSK:main:street_01_13:01:005:0013`. Confidence: HIGH.
+
+#### VBS-CR-004
+
+**Prior:** Standard may misread surfaces.
+
+**REFINE:** Akito initial novice inference is contradicted; he changes appraisal after rematch.
+
+**Evidence:** `PJSK:main:street_01_13:01:005:0052`; `PJSK:main:street_01_13:01:005:0057`. Confidence: HIGH.
+
+#### VBS-CR-005
+
+**Prior:** Cause of hesitation OPEN.
+
+**REFINE:** Toya compares musical origins and disqualifies himself; childhood details not yet known.
+
+**Evidence:** `PJSK:main:street_01_13:01:002:0015`; `PJSK:main:street_01_13:01:002:0023`. Confidence: HIGH.
+
+#### VBS-CR-006
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Akito no-excuses blame-taking creates false literal sabotage belief in girls.
+
+**Evidence:** `PJSK:main:street_01_10:01:002:0008`; `PJSK:main:street_01_10:01:002:0034`. Confidence: HIGH.
+
+#### VBS-CR-007
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Same performance validation supports girls belonging while provoking Toya self-exclusion.
+
+**Evidence:** `PJSK:main:street_01_13:01:005:0045`; `PJSK:main:street_01_13:01:005:0070`. Confidence: HIGH.
+
+### VBS-MS-P04 — episodes 14–20
+
+Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P04_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-CR-005
+
+**Prior:** Origin comparison known; childhood details OPEN.
+
+**REFINE:** Training pressure, oppositional entry, and pure-origin standard explain self-disqualification; present reciprocal desire answers it.
+
+**Evidence:** `PJSK:main:street_01_18:01:001:0014`; `PJSK:main:street_01_18:01:001:0031`; `PJSK:main:street_01_19:01:001:0019`. Confidence: HIGH.
+
+#### VBS-CR-006
+
+**Prior:** Girls carry false sabotage belief.
+
+**REFINE:** Belief corrected15; preserve its historical validity10–early15 and Akito actual causal responsibility.
+
+**Evidence:** `PJSK:main:street_01_15:01:004:0035`; `PJSK:main:street_01_15:01:004:0044`. Confidence: HIGH.
+
+#### VBS-CR-008
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Escape as an initial motive does not invalidate developed present musical commitment.
+
+**Evidence:** `PJSK:main:street_01_18:01:001:0044`; `PJSK:main:street_01_19:01:001:0019`; `PJSK:main:street_01_19:01:001:0047`. Confidence: HIGH.
+
+#### VBS-CR-009
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Unit forms through two affirmed/repaired partnerships; rivalry persists inside collaboration.
+
+**Evidence:** `PJSK:main:street_01_20:01:002:0010`; `PJSK:main:street_01_20:01:004:0008`; `PJSK:main:street_01_20:01:004:0029`. Confidence: HIGH.
+
+#### VBS-CR-010
+
+**Prior:** Formation pending.
+
+**NEW / FOUNDATION-BOUNDED:** Whether collaboration can sustain progress to surpass RAD WEEKEND remains open at foundation ending.
+
+**Evidence:** `PJSK:main:street_01_20:01:004:0013`. Confidence: HIGH.

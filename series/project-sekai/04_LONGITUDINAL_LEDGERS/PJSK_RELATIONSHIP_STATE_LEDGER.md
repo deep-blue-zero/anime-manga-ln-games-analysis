@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20"
-analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN foundation-current P04 only"
+source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
+analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN foundation-current P04 only; VBS foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,9 +19,12 @@ mutable: true
 
 Relationship authority reaches **EVENT_0090**, adding `REL-CROSS-ENA-SHIHO-E0090` and `REL-CROSS-ENA-AN-E0090` as bounded acquaintance records. Shiho's shown introduction differs from An's already established acquaintance; neither establishes intimate or guarded N25 knowledge. Existing creative/group bonds receive contextual evidence without successor IDs.
 
-EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. MMJ/VBS/WXS foundations, Leo/need routed history and 21 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
+EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. MMJ/WXS foundations, Leo/need routed history and 21 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
+
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
 
 ## 1. Purpose
 
@@ -1872,3 +1875,279 @@ Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK
 **ESTABLISH_BOUNDED_RELATIONSHIP_RECORD:** Honami discloses past difficulty; classmates thank her, explain concern, apologize about Shiho and welcome introduction/live attendance. Local plural belonging becomes possible. **Reason for this record:** Separate present classmates from former exclusion group; preserve earlier gossip and later correction.
 
 **Evidence / confidence:** `PJSK:main:leo_01_06:01:003:0024`; `PJSK:main:leo_01_17:01:003:0029`; `PJSK:main:leo_01_20:01:003:0008`; `PJSK:main:leo_01_20:01:003:0012`; `PJSK:main:leo_01_20:01:003:0014`; HIGH. **Limits / OPEN:** Exact elided disclosure content remains OPEN; no SEKAI transmission established.
+
+## Vivid BAD SQUAD main-story foundation — serial phase history
+
+All records below are bounded to their named phase and internal transition time. HIGH confidence identifies source-supported interpretation, not proof of unshown thought or future durability. The phase reading owns shared causes; each ledger retains only its responsibility. Earlier history remains valid when a successor becomes the later default. No other-unit private knowledge or later-event state is imported. The main-story ending does not establish reconstruction readiness.
+
+### VBS-MS-P01 — episodes 00–04
+
+Causal/evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P01_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-REL-KH-AN-1
+
+**Prior:** No ordinary-world acquaintance; prologue recall poor.
+
+**Bounded record:** New mutually chosen duo, asymmetric confidence; An wants Kohane contribution and promises reciprocal aid.
+
+**Evidence:** `PJSK:main:street_01_03:01:001:0016`; `PJSK:main:street_01_04:01:002:0015`; `PJSK:main:street_01_04:01:002:0034`. Confidence: HIGH.
+
+#### VBS-REL-AK-TY-0
+
+**Prior:** Not initialized.
+
+**Bounded record:** Established operational musical partnership with shared work; private emotional basis still OPEN.
+
+**Evidence:** `PJSK:main:street_01_04:01:001:0007`; `PJSK:main:street_01_04:01:001:0008`. Confidence: HIGH.
+
+#### VBS-REL-AN-AK-0
+
+**Prior:** Not initialized.
+
+**Bounded record:** Middle-school onward café/music familiarity and same-school peer relation; conditional respect and rivalry.
+
+**Evidence:** `PJSK:main:street_01_04:01:001:0021`; `PJSK:main:street_01_04:01:002:0048`; `PJSK:main:street_01_04:01:002:0050`. Confidence: HIGH.
+
+#### VBS-REL-AN-TY-0
+
+**Prior:** Not initialized.
+
+**Bounded record:** Existing shared-school/café familiarity, no equivalent intimacy inferred.
+
+**Evidence:** `PJSK:main:street_01_04:01:002:0048`; `PJSK:main:street_01_04:01:002:0049`. Confidence: HIGH.
+
+#### VBS-REL-KH-AK-0
+
+**Prior:** No established acquaintance.
+
+**Bounded record:** Introduced through An; newcomer courtesy and evaluation.
+
+**Evidence:** `PJSK:main:street_01_04:01:002:0045`; `PJSK:main:street_01_04:01:002:0059`. Confidence: HIGH.
+
+#### VBS-REL-KH-TY-0
+
+**Prior:** No established acquaintance.
+
+**Bounded record:** New acquaintance; Toya asks her not to use polite speech.
+
+**Evidence:** `PJSK:main:street_01_04:01:002:0046`; `PJSK:main:street_01_04:01:002:0047`. Confidence: HIGH.
+
+#### VBS-REL-AN-KEN-0
+
+**Prior:** Not initialized.
+
+**Bounded record:** Supportive paternal/work/admired-musician relation; collective musical history guides An.
+
+**Evidence:** `PJSK:main:street_01_01:01:006:0025`; `PJSK:main:street_01_01:01:006:0026`; `PJSK:main:street_01_04:01:002:0027`. Confidence: HIGH.
+
+#### VBS-REL-CROSS-KOHANE-MINORI-MS0
+
+**Prior:** No VBS-foundation record.
+
+**Bounded record:** Supportive first-year classmates: Minori affirms Kohane after classroom hesitation, shares her own dance/aspiration context, and normalizes Kohane musical interest.
+
+**Evidence:** `PJSK:main:street_01_01:01:001:0009`; `PJSK:main:street_01_01:01:001:0012`; `PJSK:main:street_01_02:01:003:0007`; `PJSK:main:street_01_02:01:003:0013`. Confidence: HIGH.
+
+### VBS-MS-P02 — episodes 05–08
+
+Causal/evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P02_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-REL-KH-AN-1
+
+**Prior:** Chosen duo.
+
+**Bounded record:** STRENGTHEN: practiced shared enjoyment and growing audience experience; unequal dependence remains.
+
+**Evidence:** `PJSK:main:street_01_05:01:001:0011`; `PJSK:main:street_01_07:01:003:0033`. Confidence: HIGH.
+
+#### VBS-REL-AK-TY-0
+
+**Prior:** Operational duo.
+
+**Bounded record:** PRESERVE with evaluative disagreement: Toya resists premature judgment; partnership functions technically while self-disclosure falters.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0016`; `PJSK:main:street_01_07:01:004:0005`; `PJSK:main:street_01_07:01:004:0011`. Confidence: HIGH.
+
+#### VBS-REL-KH-TY-1
+
+**Prior:** VBS-REL-KH-TY-0 acquaintance.
+
+**Bounded record:** Private question and candid response establish attentive but bounded relation; thanks is uninformed about hostile invitation motive.
+
+**Evidence:** `PJSK:main:street_01_08:01:004:0013`; `PJSK:main:street_01_08:01:004:0016`; `PJSK:main:street_01_08:01:004:0024`. Confidence: HIGH.
+
+### VBS-MS-P03 — episodes 09–13
+
+Causal/evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P03_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-REL-KH-AN-2
+
+**Prior:** VBS-REL-KH-AN-1
+
+**Bounded record:** Historical disrupted contact and protective guilt after debut; do not skip this crisis state.
+
+**Evidence:** `PJSK:main:street_01_10:01:003:0003`; `PJSK:main:street_01_11:01:006:0007`. Confidence: HIGH.
+
+#### VBS-REL-KH-AN-3
+
+**Prior:** VBS-REL-KH-AN-2
+
+**Bounded record:** Reaffirmed duo with Kohane first-person commitment and continued support.
+
+**Evidence:** `PJSK:main:street_01_12:01:001:0011`; `PJSK:main:street_01_12:01:001:0016`. Confidence: HIGH.
+
+#### VBS-REL-AN-AK-1
+
+**Prior:** VBS-REL-AN-AK-0
+
+**Bounded record:** Historical rupture under false sabotage admission plus harsh novice judgment.
+
+**Evidence:** `PJSK:main:street_01_10:01:002:0008`; `PJSK:main:street_01_10:01:002:0032`. Confidence: HIGH.
+
+#### VBS-REL-AN-AK-2
+
+**Prior:** VBS-REL-AN-AK-1
+
+**Bounded record:** Recognition and apology permit competitive respect; false act attribution remains.
+
+**Evidence:** `PJSK:main:street_01_13:01:005:0057`; `PJSK:main:street_01_13:01:005:0059`. Confidence: HIGH.
+
+#### VBS-REL-KH-AK-1
+
+**Prior:** VBS-REL-KH-AK-0
+
+**Bounded record:** Threatened beginner, false act attribution, and internalized harsh judgment.
+
+**Evidence:** `PJSK:main:street_01_10:01:002:0023`; `PJSK:main:street_01_10:01:003:0004`. Confidence: HIGH.
+
+#### VBS-REL-KH-AK-2
+
+**Prior:** VBS-REL-KH-AK-1
+
+**Bounded record:** Kohane asserts commitment; Akito acknowledges singing and apologizes, without factual correction.
+
+**Evidence:** `PJSK:main:street_01_12:01:001:0035`; `PJSK:main:street_01_13:01:005:0057`; `PJSK:main:street_01_13:01:005:0058`. Confidence: HIGH.
+
+#### VBS-REL-AK-TY-1
+
+**Prior:** VBS-REL-AK-TY-0
+
+**Bounded record:** Rupture announced at13 endpoint; Akito has not yet heard reason.
+
+**Evidence:** `PJSK:main:street_01_13:01:005:0070`. Confidence: HIGH.
+
+#### VBS-REL-KH-TY-1
+
+**Prior:** Private conversation.
+
+**Bounded record:** STRENGTHEN through fair hearing, attempted protection and rematch invitation; no broad shared secret.
+
+**Evidence:** `PJSK:main:street_01_09:01:001:0004`; `PJSK:main:street_01_10:01:002:0030`; `PJSK:main:street_01_12:01:001:0042`. Confidence: HIGH.
+
+### VBS-MS-P04 — episodes 14–20
+
+Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P04_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-REL-AK-TY-2
+
+**Prior:** VBS-REL-AK-TY-1 announced rupture.
+
+**Bounded record:** Restored explicitly reciprocal partnership; Akito refuses substitute and Toya owns desire. Preserve14–18 painful separation history.
+
+**Evidence:** `PJSK:main:street_01_19:01:001:0027`; `PJSK:main:street_01_19:01:001:0032`; `PJSK:main:street_01_19:01:001:0047`; `PJSK:main:street_01_19:01:001:0054`. Confidence: HIGH.
+
+#### VBS-REL-KH-AN-3
+
+**Prior:** Reaffirmed duo.
+
+**Bounded record:** PRESERVE/STRENGTHEN: An helps Kohane chosen intervention; Kohane contributes beyond receiving protection.
+
+**Evidence:** `PJSK:main:street_01_16:01:001:0028`; `PJSK:main:street_01_16:01:001:0030`; `PJSK:main:street_01_20:01:004:0030`. Confidence: HIGH.
+
+#### VBS-REL-KH-TY-2
+
+**Prior:** VBS-REL-KH-TY-1
+
+**Bounded record:** Reciprocal questioning/care and bounded disclosed family history; Toya acknowledges support.
+
+**Evidence:** `PJSK:main:street_01_16:01:001:0017`; `PJSK:main:street_01_17:01:002:0011`; `PJSK:main:street_01_19:01:001:0063`. Confidence: HIGH.
+
+#### VBS-REL-AN-AK-3
+
+**Prior:** VBS-REL-AN-AK-2 recognition under false act attribution.
+
+**Bounded record:** Corrected sabotage knowledge and witnessed vulnerability enable informed competitive collaboration.
+
+**Evidence:** `PJSK:main:street_01_15:01:004:0035`; `PJSK:main:street_01_19:01:001:0059`; `PJSK:main:street_01_20:01:004:0017`. Confidence: HIGH.
+
+#### VBS-REL-KH-AK-3
+
+**Prior:** VBS-REL-KH-AK-2
+
+**Bounded record:** Concern predates correction; afterward recognition, witnessed repair and group commitment coexist with nervousness.
+
+**Evidence:** `PJSK:main:street_01_15:01:004:0025`; `PJSK:main:street_01_15:01:004:0035`; `PJSK:main:street_01_20:01:004:0014`. Confidence: HIGH.
+
+#### VBS-REL-AN-TY-1
+
+**Prior:** VBS-REL-AN-TY-0
+
+**Bounded record:** Practical intervention, acknowledged enjoyment and disclosed background deepen existing acquaintance without equating pair intimacy.
+
+**Evidence:** `PJSK:main:street_01_16:01:001:0009`; `PJSK:main:street_01_17:01:002:0008`; `PJSK:main:street_01_19:01:001:0063`. Confidence: HIGH.
+
+#### VBS-REL-GROUP-1
+
+**Prior:** Two interacting duos, no four-person unit.
+
+**Bounded record:** Four-person Vivid BAD SQUAD formed20 next day after shared song; dyadic identities remain meaningful.
+
+**Evidence:** `PJSK:main:street_01_20:01:004:0008`; `PJSK:main:street_01_20:01:004:0017`; `PJSK:main:street_01_20:01:004:0029`. Confidence: HIGH.
+
+#### VBS-REL-TOYA-FATHER-0
+
+**Prior:** Historical pressure glimpsed13.
+
+**Bounded record:** Historical training coercion and present musical conflict; no reconciliation at endpoint.
+
+**Evidence:** `PJSK:main:street_01_18:01:001:0006`; `PJSK:main:street_01_18:01:001:0014`; `PJSK:main:street_01_18:01:001:0031`. Confidence: HIGH.
+
+#### VBS-REL-TOYA-MOTHER-0
+
+**Prior:** Mother briefly seen13.
+
+**Bounded record:** Historical framing of paternal lessons and sacrifice as obligation; no global motive diagnosis.
+
+**Evidence:** `PJSK:main:street_01_18:01:001:0019`; `PJSK:main:street_01_18:01:001:0021`. Confidence: HIGH.
+
+#### VBS-REL-TOYA-KEN-0
+
+**Prior:** Regular admired café host.
+
+**Bounded record:** Respectful refuge/mentor with substantial visits; Ken facilitates disclosure to Akito despite Toya stated audience restriction.
+
+**Evidence:** `PJSK:main:street_01_17:01:002:0004`; `PJSK:main:street_01_17:01:002:0013`; `PJSK:main:street_01_19:01:001:0003`. Confidence: HIGH.
+
+#### VBS-REL-AK-KEN-0
+
+**Prior:** Admired musician/café contact.
+
+**Bounded record:** Trusted practical support and call access; not proof Ken knows all secrets or intended every disclosure consequence.
+
+**Evidence:** `PJSK:main:street_01_17:01:001:0040`; `PJSK:main:street_01_17:01:001:0042`; `PJSK:main:street_01_19:01:001:0003`. Confidence: HIGH.
+
+#### VBS-REL-STREET-VS-HUMANS-1
+
+**Prior:** Girls have earlier contact; boys absent.
+
+**Bounded record:** Street Miku/MEIKO/Len support self-search through questions and hospitality; Akito joins16, Toya19, group20. No cross-SEKAI continuity.
+
+**Evidence:** `PJSK:main:street_01_16:01:006:0014`; `PJSK:main:street_01_17:01:001:0034`; `PJSK:main:street_01_20:01:002:0007`. Confidence: HIGH.
+
+#### VBS-REL-STREET-LEN-RIN-0
+
+**Prior:** Reported local dispute06/10; no direct Rin scene.
+
+**Bounded record:** Len reports reconciliation20; unseen conversation and any kinship labels remain unasserted.
+
+**Evidence:** `PJSK:main:street_01_20:01:006:0005`; `PJSK:main:street_01_20:01:006:0007`. Confidence: HIGH.

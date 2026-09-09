@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20"
-analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN foundation-current P04 only"
+source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
+analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN foundation-current P04 only; VBS foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,9 +19,12 @@ mutable: true
 
 The latest integrated epistemic boundary is **EVENT_0090**, adding `EPI-N25-E-E0090`, `EPI-CROSS-SHIHO-ENA-E0090` and `EPI-CROSS-AN-ENA-E0090`. Ena learns a narrower subject-led use for critique and receives qualified evidence of communicative success. Shiho learns identities and a generic creative role; An's existing acquaintance is extended without revealing guarded N25 content. Observation, report, private interpretation and hoped-for output remain separate.
 
-Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 21 older screens, MMJ/VBS/WXS foundations and Leo/need routed history are separate unfinished obligations.
+Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 21 older screens, MMJ/WXS foundations and Leo/need routed history are separate unfinished obligations.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
+
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
 
 ## 1. Purpose
 
@@ -1630,3 +1633,159 @@ Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK
 **APPEND_BOUNDED_KNOWLEDGE_RECORD:** Ichika reports Tsukasa making a musical to cheer sick Saki; Honami hears and recognizes his familiar behavior. No direct performance inspection or Tsukasa knowledge of Honami’s crisis. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
 
 **Evidence / confidence:** `PJSK:main:leo_01_12:01:002:0009`; `PJSK:main:leo_01_12:01:002:0010`; `PJSK:main:leo_01_12:01:002:0011`; HIGH.
+
+## Vivid BAD SQUAD main-story foundation — serial phase history
+
+All records below are bounded to their named phase and internal transition time. HIGH confidence identifies source-supported interpretation, not proof of unshown thought or future durability. The phase reading owns shared causes; each ledger retains only its responsibility. Earlier history remains valid when a successor becomes the later default. No other-unit private knowledge or later-event state is imported. The main-story ending does not establish reconstruction readiness.
+
+### VBS-MS-P01 — episodes 00–04
+
+Causal/evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P01_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-EPI-P01-01
+
+**Prior:** Dreamlike prologue seen by audience.
+
+**Bounded record:** An and Kohane awaken with poor recall; ordinary-world introduction does not inherit full prologue acquaintance.
+
+**Evidence:** `PJSK:main:street_01_00:01:005:0054`; `PJSK:main:street_01_00:01:006:0005`; `PJSK:main:street_01_03:01:001:0014`. Confidence: HIGH.
+
+#### VBS-EPI-P01-02
+
+**Prior:** RAD WEEKEND access not differentiated.
+
+**Bounded record:** An and Akito are established direct witnesses; Kohane learns through An account. Toya mode of access remains OPEN.
+
+**Evidence:** `PJSK:main:street_01_00:01:001:0022`; `PJSK:main:street_01_04:01:001:0015`; `PJSK:main:street_01_04:01:002:0019`. Confidence: HIGH.
+
+#### VBS-EPI-P01-03
+
+**Prior:** No shared ordinary acquaintance.
+
+**Bounded record:** All four learn names and new duo. Kohane alone is shown receiving episode02 phone Miku contact; no report to An established.
+
+**Evidence:** `PJSK:main:street_01_02:01:001:0020`; `PJSK:main:street_01_04:01:002:0045`; `PJSK:main:street_01_04:01:002:0058`. Confidence: HIGH.
+
+### VBS-MS-P02 — episodes 05–08
+
+Causal/evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P02_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-EPI-P02-01
+
+**Prior:** Invitation motive OPEN in P01.
+
+**Bounded record:** Akito/Toya/audience know punitive musical test; girls treat the invitation as an opportunity.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0015`; `PJSK:main:street_01_05:01:001:0014`. Confidence: HIGH.
+
+#### VBS-EPI-P02-02
+
+**Prior:** No interference established.
+
+**Bounded record:** Musician hears hostile goal; boys hear ambiguous support offer and Akito warning against interference. No commissioned or completed sabotage at cutoff.
+
+**Evidence:** `PJSK:main:street_01_08:01:001:0019`; `PJSK:main:street_01_08:01:001:0021`. Confidence: HIGH.
+
+#### VBS-EPI-P02-03
+
+**Prior:** Girls lack retained SEKAI explanation.
+
+**Bounded record:** Girls learn feelings-based space and Untitled play/stop mechanics plus four contributors, but not absent identities; Len knows names and fails to make contact.
+
+**Evidence:** `PJSK:main:street_01_06:01:002:0026`; `PJSK:main:street_01_06:01:002:0048`; `PJSK:main:street_01_08:01:002:0006`; `PJSK:main:street_01_08:01:002:0007`. Confidence: HIGH.
+
+#### VBS-EPI-P02-04
+
+**Prior:** Toya lacks direct account of Kohane resolve.
+
+**Bounded record:** Toya hears her qualified wish to pursue An dream together; no within-phase transmission of complete conversation to Akito.
+
+**Evidence:** `PJSK:main:street_01_08:01:004:0016`; `PJSK:main:street_01_08:01:004:0021`. Confidence: HIGH.
+
+### VBS-MS-P03 — episodes 09–13
+
+Causal/evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P03_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-EPI-P03-01
+
+**Prior:** Interference only risk.
+
+**Bounded record:** Audience, Akito, Toya and offender know independent sabotage; Akito considers his own hostility causal.
+
+**Evidence:** `PJSK:main:street_01_09:01:002:0023`; `PJSK:main:street_01_09:01:002:0058`; `PJSK:main:street_01_10:01:002:0034`. Confidence: HIGH.
+
+#### VBS-EPI-P03-02
+
+**Prior:** Girls do not know cause.
+
+**Bounded record:** Girls believe Akito literal false confession through phase exit; apology13 does not correct it.
+
+**Evidence:** `PJSK:main:street_01_10:01:002:0008`; `PJSK:main:street_01_13:01:005:0057`. Confidence: HIGH.
+
+#### VBS-EPI-P03-03
+
+**Prior:** Kohane uncertain whether wish belongs to her.
+
+**Bounded record:** Kohane/Street singers hear explicit wish in11; An receives decision/report12, not assumed verbatim café transcript.
+
+**Evidence:** `PJSK:main:street_01_11:01:003:0052`; `PJSK:main:street_01_11:01:003:0053`; `PJSK:main:street_01_12:01:001:0006`; `PJSK:main:street_01_12:01:001:0011`. Confidence: HIGH.
+
+#### VBS-EPI-P03-04
+
+**Prior:** Toya private cause unrevealed.
+
+**Bounded record:** Audience learns father disparagement and Toya origin/self-disqualification comparison13; no automatic group transmission.
+
+**Evidence:** `PJSK:main:street_01_13:01:002:0005`; `PJSK:main:street_01_13:01:002:0015`; `PJSK:main:street_01_13:01:002:0023`. Confidence: HIGH.
+
+#### VBS-EPI-P03-05
+
+**Prior:** Akito unaware of intended exit.
+
+**Bounded record:** Akito hears Toya will no longer perform with him at13 endpoint, not yet the full reason.
+
+**Evidence:** `PJSK:main:street_01_13:01:005:0070`. Confidence: HIGH.
+
+### VBS-MS-P04 — episodes 14–20
+
+Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P04_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-EPI-P04-01
+
+**Prior:** Girls believe Akito arranged/performed sabotage.
+
+**Bounded record:** Offender explicitly confesses15 and girls revise belief; this does not erase hostile test or harsh speech.
+
+**Evidence:** `PJSK:main:street_01_15:01:004:0031`; `PJSK:main:street_01_15:01:004:0035`; `PJSK:main:street_01_15:01:004:0044`. Confidence: HIGH.
+
+#### VBS-EPI-P04-02
+
+**Prior:** Girls know four contributors without names; boys not yet met singers.
+
+**Bounded record:** Girls learn boys identities14; Akito enters16, Toya19, An explains further20. Respect these individual knowledge windows.
+
+**Evidence:** `PJSK:main:street_01_14:01:003:0016`; `PJSK:main:street_01_16:01:005:0004`; `PJSK:main:street_01_19:01:003:0002`; `PJSK:main:street_01_20:01:004:0003`. Confidence: HIGH.
+
+#### VBS-EPI-P04-03
+
+**Prior:** Audience sees partial Toya father conflict; group lacks explanation.
+
+**Bounded record:** Ken/girls hear spoken retrospective; Akito hears via live phone despite Toya request. Specific childhood dialogue is audience-richer, not automatically transmitted verbatim.
+
+**Evidence:** `PJSK:main:street_01_17:01:001:0042`; `PJSK:main:street_01_17:01:002:0013`; `PJSK:main:street_01_18:01:001:0027`; `PJSK:main:street_01_19:01:001:0003`. Confidence: HIGH.
+
+#### VBS-EPI-P04-04
+
+**Prior:** Akito literalizes rejection; Toya believes he burdens Akito.
+
+**Bounded record:** Akito learns self-disqualification behind exit; Toya hears reciprocal need and is explicitly told he is valued best partner.
+
+**Evidence:** `PJSK:main:street_01_17:01:001:0036`; `PJSK:main:street_01_19:01:001:0027`; `PJSK:main:street_01_19:01:001:0047`. Confidence: HIGH.
+
+#### VBS-EPI-P04-05
+
+**Prior:** Shared feelings and song incomplete.
+
+**Bounded record:** Four hear confirmation of shared highest-event wish and experience song, then see title Ready Steady20. No later ontology or private lore.
+
+**Evidence:** `PJSK:main:street_01_20:01:002:0007`; `PJSK:main:street_01_20:01:002:0027`; `PJSK:main:street_01_20:01:002:0030`. Confidence: HIGH.
