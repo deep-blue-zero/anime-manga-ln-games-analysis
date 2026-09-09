@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20"
-analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only; WXS foundation-current P06 only"
+source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled"
+analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN P04 human defaults retained with EVENT_0001 increments; VBS foundation-current P04 only; MMJ P05 defaults retained with EVENT_0001 reported relationship/knowledge evidence; WXS P06 defaults retained with EVENT_0001 ordinary-family evidence"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,21 +19,21 @@ mutable: true
 
 The latest integrated epistemic boundary is **EVENT_0090**, adding `EPI-N25-E-E0090`, `EPI-CROSS-SHIHO-ENA-E0090` and `EPI-CROSS-AN-ENA-E0090`. Ena learns a narrower subject-led use for critique and receives qualified evidence of communicative success. Shiho learns identities and a generic creative role; An's existing acquaintance is extended without revealing guarded N25 content. Observation, report, private interpretation and hoped-for output remain separate.
 
-Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 20 older screens, WXS foundation and Leo/need routed history are separate unfinished obligations.
+Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 20 older screens and remaining founded unit histories are separate unfinished obligations; all five main-story foundations are complete.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history, the 20 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history after EVENT_0001, the 20 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
 Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
 
 
-MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. Remaining non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
 
 
 Wonderlands×Showtime's [six-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) is integrated through `wonder_01_20`: tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`, group `REL-WXS-MS-G-P06`, knowledge `EPI-WXS-MS-P06`. Preserve coercive appointment and pursuit alongside subsequent separate assent, Nene's continuing fear and mediated competence, Tsukasa's enduring grandiose register within revised purpose, Rui's distinct artistic choice and Emu's reported family/material conditions. Wonderland Miku/KAITO remain separate manifestations. All five human-unit main-story foundations are complete. Material routed histories, 20 earlier universal-screen gaps and reconstruction/synthesis obligations remain pending; forward EVENT_0091 does not advance.
 
 
-Historical EVENT_0001 now has a complete franchise screen (18 stories / 1,238 records). N25 and VBS have no material evidence and receive documentary I0. LEO_NEED, MMJ and WXS routes are `PENDING_ORDERED_UNIT_INTEGRATION`; their main-story baselines exist, but this screen creates no human or relationship state, knowledge transfer, claim revision or theme conclusion. Existing later cross-unit evidence keeps its own temporal scope. Twenty earlier universal screens remain pending; historical EVENT_0003 is next unresolved, while forward EVENT_0091 remains unchanged.
+Historical EVENT_0001 is now fully integrated by scope: Leo/need I2, WxS/MMJ I1, N25/VBS documentary I0. The [shared event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns the main causal account. All human tuples and the established human-group topology are retained; event-qualified characterization, bounded relationships, separate knowledge, seven existing claim increments plus LN-CR-011, and four existing theme refinements are appended below. Exact confession hearing, partial card chronology and unshown future outcomes remain limited. Existing later N25/cross-unit evidence keeps its own temporal scope. Twenty older universal screens remain pending; historical EVENT_0003 is next unresolved, while forward EVENT_0091 remains unchanged. Leo/need's next ordered responsibility is the existing EVENT_0002 route; no mature reconstruction readiness is certified.
 
 ## 1. Purpose
 
@@ -2128,3 +2128,126 @@ Causal home: [P06 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP
 **WONDERLAND MIKU KAITO:** **Knows:** Participate in song scene; later hear apparent laughter and infer someone smiling. **Limits:** Final scene does not establish remote knowledge of parental deliberation or full human outcome.
 
 **Evidence:** `PJSK:main:wonder_01_19:01:001:0004–0030`; `PJSK:main:wonder_01_19:01:002:0002–0015`; `PJSK:main:wonder_01_20:01:002:0011–0046`; `PJSK:main:wonder_01_20:01:003:0002–0007`.
+
+## Historical EVENT_0001 — ordered unit integration
+
+The [event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns shared causal interpretation. **Leo/need I2; WxS/MMJ I1; N25/VBS I0.** Preserve all prior phase and later-event histories in their own periods. The following records are EVENT_0001-qualified; source confidence is HIGH for observed dialogue and bounded testimony, while duration, absent-side knowledge and unshown outcomes remain OPEN. Retaining a human state does not erase new relationship or knowledge evidence.
+
+### `LN-EPI-SAKI-ILLNESS-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-EPI-SAKI-ILLNESS-P03@P03. Earlier formulations remain valid at their own cutoffs.
+
+Saki/audience privately know fever before extra work; Honami suspects it; manager knowledge unshown. At practice touch checks and spoken reports make illness concern shared by four.
+
+**Evidence:** `PJSK:event:0001:04:003:0002–0006`; `PJSK:event:0001:04:004:0002–0011`; `PJSK:event:0001:04:006:0002–0027`; `PJSK:event:0001:04:007:0002–0014`; `PJSK:event:0001:05:001:0002–0058`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** No numerical temperature or diagnosis.
+
+### `LN-EPI-HOSPITAL-VISITS-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-EPI-FRAGMENTED-P01@P01. Earlier formulations remain valid at their own cutoffs.
+
+Ichika tells Honami/Shiho about repeated distant-hospital visits and her loneliness interpretation; audience-visible flashback exceeds guaranteed verbatim retelling.
+
+**Evidence:** `PJSK:event:0001:02:001:0016–0037`; `PJSK:event:0001:06:004:0002–0048`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** No full flashback-content transmission certified.
+
+### `LN-EPI-SAKI-TIME-LUKA-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-SAKI-MS-P04@P04; LN-REL-SCHOOL-VS-MS@P04. Earlier formulations remain valid at their own cutoffs.
+
+Luka certainly receives complete time-disappearance confession. Friends’ precise arrival/hearing onset and Miku’s distance remain OPEN; do not assign full content to them.
+
+**Evidence:** `PJSK:event:0001:07:003:0002–0030`; `PJSK:event:0001:07:003:0008–0011`; `PJSK:event:0001:08:002:0029–0033`; `PJSK:event:0001:07:003:0031–0065`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** Exact hearing boundary unknown.
+
+### `LN-EPI-GROUP-REPAIR-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-EPI-REPAIR-SEQUENCE-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+All four hear Shiho’s apology and participate in the gradual-time commitment. Self-blame remains attributed and does not establish medical culpability.
+
+**Evidence:** `PJSK:event:0001:07:003:0031–0065`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** Shared repair does not imply full earlier confession heard.
+
+### `LN-EPI-SCHOOL-MIKU-RETELLING-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-REL-SCHOOL-VS-MS@P04. Earlier formulations remain valid at their own cutoffs.
+
+Later singer conversation explicitly establishes that Miku participates in discussion of distant hospitalization, loneliness, haste to recover time, and observed reassurance.
+
+**Evidence:** `PJSK:card:0110:02:001:0002–0039`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** No back-projection to original hearing; no exact full confession or secret-offer knowledge.
+
+### `LN-EPI-PRIVATE-COUNSEL-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-REL-SCHOOL-VS-MS@P04. Earlier formulations remain valid at their own cutoffs.
+
+Saki/Luka negotiate private future consultation. Miku is named as available and is outside partway; friends are absent.
+
+**Evidence:** `PJSK:card:0110:01:001:0004–0036`; `PJSK:card:0110:01:001:0037–0047`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** Miku’s exact overheard words not fully known.
+
+### `LN-EPI-SHIHO-PRIVATE-CARE-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-SHIHO-MS-P04@P04; LN-REL-SCHOOL-VS-MS@P04. Earlier formulations remain valid at their own cutoffs.
+
+Shiho and School singers share advice-seeking and Luka’s tentative concealment hypothesis. Later arrivals suspect private talk but are not shown learning content.
+
+**Evidence:** `PJSK:card:0111:01:001:0003–0058`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** Hypothesis is not proven psychology.
+
+### `LN-EPI-PACED-PLANS-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-REL-G-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Four friends explicitly share a monthly outing plan and know Saki accepts postponing observatory; planned destinations not visited here.
+
+**Evidence:** `PJSK:card:0109:02:002:0003–0042`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** No performance of future plan guaranteed.
+
+### `LN-EPI-HONAMI-JOINT-LUNCH-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-EPI-CLASSROOM-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Honami’s recognition of residual circle separation is private, followed by a shared invitation to the childhood group. Classmates’ reception unshown.
+
+**Evidence:** `PJSK:card:0112:02:001:0043–0056`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** Retain already-successful P04 classroom disclosure and bridge invitations.
+
+### `LN-EPI-GUITARIST-REPORT-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-SHIHO-MS-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Shiho receives guitarist’s retrospective comparison; Honami separately hears the rhythm-section proposal. No later full-group transmission shown.
+
+**Evidence:** `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:card:0111:02:003:0002–0022`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** Reported change not dated to crisis; performance evaluation fallible.
+
+### `LN-EPI-FLORIST-HISTORY-E0001` — EVENT_0001
+
+**Prior responsibility:** LN-REL-ICHIKA-SAKI-MS@P04. Earlier formulations remain valid at their own cutoffs.
+
+Florist learns Saki now attends school; later meets her and sees preserved gifts described as mother-made. Group exchanges older local visit history, distinct from distant hospital.
+
+**Evidence:** `PJSK:card:0113:01:001:0002–0012`; `PJSK:card:0113:01:002:0002–0023`; `PJSK:card:0113:01:003:0002–0022`; `PJSK:card:0113:02:001:0002–0011`; `PJSK:card:0113:02:002:0002–0034`.
+
+**Interpretive consequence:** Knowledge transfer has its own holders/time; preserving a human ID does not erase new knowledge. **Limits / OPEN:** Witness frequency/illness language not clinical fact; card not precisely event-climax dated.
+
+### Cross-unit knowledge — EVENT_0001 recipient limits
+
+| Record | Evidence and newly recorded scope | Knowledge ceiling |
+|---|---|---|
+| `EPI-CROSS-TSUKASA-LN-E0001` | Tsukasa hears Saki's friend-outing plan and reported doctor reassurance; on Saturday he offers food, recognizes the visitors and credits their escort/support. The visitors hear his invitation and concern. `PJSK:event:0001:04:001:0016–0024`; `PJSK:event:0001:06:002:0006–0012`; `PJSK:event:0001:07:001:0003–0018`; `PJSK:event:0001:07:002:0010–0018`. | Saki's interpretation of his time off remains private. He expects her in her room; the friends' subsequent absence discovery and SEKAI inference are not shown reaching him. No WxS colleague or Wonderland singer receives this episode. HIGH confidence for shown transfer; unseen transfer OPEN. |
+| `EPI-CROSS-LN-MMJ-REPORTS-E0001` | The LN group hears school/café acquaintance reports; outing planners hear the aquarium reference. `PJSK:card:0109:02:002:0012–0015`; `PJSK:card:0112:02:001:0037–0043`. | Minori/Haruka are not shown learning the fever conflict, private confession, SEKAI, photographs, combined-lunch proposal or future outing results. Saki's expanded friend-network wish is hers, not Minori's stated intention. HIGH confidence for reports heard; absent-side knowledge OPEN. |
+
+Both records are bounded event additions to distinct existing contexts; they do not supersede later cross-unit records or propagate information among singer manifestations. N25/VBS have no epistemic delta.

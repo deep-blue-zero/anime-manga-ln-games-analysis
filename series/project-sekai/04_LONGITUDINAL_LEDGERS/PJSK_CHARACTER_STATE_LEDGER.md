@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20"
-analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only; WXS foundation-current P06 only"
+source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled"
+analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN P04 human defaults retained with EVENT_0001 increments; VBS foundation-current P04 only; MMJ P05 defaults retained with EVENT_0001 reported relationship/knowledge evidence; WXS P06 defaults retained with EVENT_0001 ordinary-family evidence"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,19 +21,19 @@ The verified forward analytical frontier is **EVENT_0090**, an I2 refinement of 
 
 Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. Leo/need routed history and 20 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history, the 20 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history after EVENT_0001, the 20 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
 Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
 
 
-MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. Remaining non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
 
 
 Wonderlands×Showtime's [six-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) is integrated through `wonder_01_20`: tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`, group `REL-WXS-MS-G-P06`, knowledge `EPI-WXS-MS-P06`. Preserve coercive appointment and pursuit alongside subsequent separate assent, Nene's continuing fear and mediated competence, Tsukasa's enduring grandiose register within revised purpose, Rui's distinct artistic choice and Emu's reported family/material conditions. Wonderland Miku/KAITO remain separate manifestations. All five human-unit main-story foundations are complete. Material routed histories, 20 earlier universal-screen gaps and reconstruction/synthesis obligations remain pending; forward EVENT_0091 does not advance.
 
 
-Historical EVENT_0001 now has a complete franchise screen (18 stories / 1,238 records). N25 and VBS have no material evidence and receive documentary I0. LEO_NEED, MMJ and WXS routes are `PENDING_ORDERED_UNIT_INTEGRATION`; their main-story baselines exist, but this screen creates no human or relationship state, knowledge transfer, claim revision or theme conclusion. Existing later cross-unit evidence keeps its own temporal scope. Twenty earlier universal screens remain pending; historical EVENT_0003 is next unresolved, while forward EVENT_0091 remains unchanged.
+Historical EVENT_0001 is now fully integrated by scope: Leo/need I2, WxS/MMJ I1, N25/VBS documentary I0. The [shared event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns the main causal account. All human tuples and the established human-group topology are retained; event-qualified characterization, bounded relationships, separate knowledge, seven existing claim increments plus LN-CR-011, and four existing theme refinements are appended below. Exact confession hearing, partial card chronology and unshown future outcomes remain limited. Existing later N25/cross-unit evidence keeps its own temporal scope. Twenty older universal screens remain pending; historical EVENT_0003 is next unresolved, while forward EVENT_0091 remains unchanged. Leo/need's next ordered responsibility is the existing EVENT_0002 route; no mature reconstruction readiness is certified.
 
 ## 1. Purpose and authority
 
@@ -2457,3 +2457,63 @@ Causal home: [P06 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP
 **Dependencies:** Shared labor, performers and technical infrastructure. Knowledge: `EPI-WXS-MS-P06`; relationships: separate phase-matched records.
 
 **Evidence:** `PJSK:main:wonder_01_19:01:002:0011–0014`; `PJSK:main:wonder_01_19:01:002:0029–0035`; `PJSK:main:wonder_01_20:01:002:0004–0008`; `PJSK:main:wonder_01_20:01:002:0033–0046`.
+
+## Historical EVENT_0001 — ordered unit integration
+
+The [event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns shared causal interpretation. **Leo/need I2; WxS/MMJ I1; N25/VBS I0.** Preserve all prior phase and later-event histories in their own periods. The following records are EVENT_0001-qualified; source confidence is HIGH for observed dialogue and bounded testimony, while duration, absent-side knowledge and unshown outcomes remain OPEN. Retaining a human state does not erase new relationship or knowledge evidence.
+
+### `LN-SAKI-MS-P04` — EVENT_0001
+
+**Prior responsibility:** LN-SAKI-MS-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Preserve P04 identity/goals and pacing vulnerability. Refine feared loss: missed expected experiences seem to erase shared time and threaten even remembered time. Event-local reappraisal accepts gradual shared plans and reliance; the goal of sustainable youth already existed.
+
+**Evidence:** `PJSK:event:0001:01:001:0003–0020`; `PJSK:event:0001:01:002:0006–0017`; `PJSK:event:0001:01:005:0014–0016`; `PJSK:event:0001:04:003:0002–0006`; `PJSK:event:0001:04:004:0002–0011`; `PJSK:event:0001:04:006:0002–0027`; `PJSK:event:0001:04:007:0002–0014`; `PJSK:event:0001:07:003:0002–0030`; `PJSK:event:0001:07:003:0031–0065`; `PJSK:event:0001:08:001:0002–0010`; `PJSK:event:0001:08:002:0001–0028`; `PJSK:event:0001:08:002:0035–0062`; `PJSK:card:0109:01:001:0002–0014`; `PJSK:card:0109:01:004:0005–0041`; `PJSK:card:0109:02:002:0003–0042`; `PJSK:card:0110:01:001:0004–0036`.
+
+**Interpretive consequence:** Specific motive disclosure and concrete strategy warrant I2; no broad durable human reorganization demonstrated. **Limits / OPEN:** Longitudinal reliability of pacing; Private consultation remains useful; Card 0109 front is likely aftermath but lacks its own planetarium anchor.
+
+### `LN-ICHIKA-MS-P04` — EVENT_0001
+
+**Prior responsibility:** LN-ICHIKA-MS-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Preserve self-authorized relational agency. Add memory-based visit initiative, monthly scheduling, flexible learning and flower-gift history; caring initiative is preexisting and continues.
+
+**Evidence:** `PJSK:event:0001:02:001:0016–0037`; `PJSK:event:0001:06:004:0002–0048`; `PJSK:event:0001:07:001:0003–0018`; `PJSK:event:0001:07:002:0002–0018`; `PJSK:card:0109:02:002:0003–0042`; `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:card:0113:01:001:0002–0012`; `PJSK:card:0113:01:002:0002–0023`; `PJSK:card:0113:01:003:0002–0022`; `PJSK:card:0113:02:001:0002–0011`; `PJSK:card:0113:02:002:0002–0034`.
+
+**Interpretive consequence:** Concrete applications and historical enrichment support I1 human characterization; event knowledge is recorded independently. **Limits / OPEN:** Local/elementary and distant/middle-school hospital periods must remain separate; Flower card not dated to post-planetarium.
+
+### `LN-HONAMI-MS-P04` — EVENT_0001
+
+**Prior responsibility:** LN-HONAMI-MS-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Plural friendship and bridge-building already exist at P04, including introduction/performance invitations. Refine residual mental separation of circles through a proposed ordinary mixed lunch; add reciprocal class friendship, specific care, photos, astronomy and rhythm-section support.
+
+**Evidence:** `PJSK:event:0001:05:001:0059–0066`; `PJSK:event:0001:05:002:0002–0015`; `PJSK:event:0001:08:001:0002–0010`; `PJSK:event:0001:08:002:0001–0028`; `PJSK:event:0001:08:002:0035–0062`; `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:card:0112:01:001:0002–0009`; `PJSK:card:0112:01:002:0002–0037`; `PJSK:card:0112:02:001:0002–0029`; `PJSK:card:0112:02:001:0043–0056`.
+
+**Interpretive consequence:** I2 is the narrower distinction between permission for plural belonging and ordinary implementation; no first-ever plural-affiliation transition. **Limits / OPEN:** Classmates’ response and mixed lunch unshown; No universal social safety or vanished fear.
+
+### `LN-SHIHO-MS-P04` — EVENT_0001
+
+**Prior responsibility:** LN-SHIHO-MS-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Preserve rigor, care, solitude preference, embarrassment and capacity for injury/regret. Refine failure-to-notice guilt and harshness under bodily concern; she seeks advice and apologizes. Add specific adaptive ensemble support, with retrospective guitarist assessment separately attributed.
+
+**Evidence:** `PJSK:event:0001:03:001:0002–0049`; `PJSK:event:0001:03:001:0050–0080`; `PJSK:event:0001:05:001:0002–0058`; `PJSK:event:0001:07:003:0031–0065`; `PJSK:card:0111:01:001:0003–0058`; `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:card:0111:02:003:0002–0022`.
+
+**Interpretive consequence:** The mechanism of protective anger and advice seeking adds I2 precision to P04; musical flexibility is direct evidence but its onset/cause is not dated to the crisis. **Limits / OPEN:** Self-blame is not objective medical cause; Guitarist chronology and testimony are fallible; No permanent elimination of harshness.
+
+### `School/Classroom Miku and Luka characterization` — EVENT_0001
+
+**Prior responsibility:** LN-REL-SCHOOL-VS-MS@P04. Earlier formulations remain valid at their own cutoffs.
+
+School/Classroom Luka: tentative observation, questions, privacy-aware counsel and reciprocal encouragement. School/Classroom Miku: nonintrusion, help, own practice effort, senior aspiration and praise hesitation. No global singer personality or human tuple change.
+
+**Evidence:** `PJSK:event:0001:06:003:0002–0033`; `PJSK:event:0001:07:003:0008–0011`; `PJSK:event:0001:08:002:0029–0033`; `PJSK:card:0110:01:001:0004–0036`; `PJSK:card:0110:01:001:0037–0047`; `PJSK:card:0110:02:001:0002–0039`; `PJSK:card:0110:02:001:0040–0047`; `PJSK:card:0111:01:001:0003–0058`.
+
+**Interpretive consequence:** Refines the already-established helper relationship with concrete manifestation-specific behavior and role self-description. **Limits / OPEN:** Miku hearing limits; Luka embarrassment hypothesis; No other manifestation transfer.
+
+### WxS — Tsukasa ordinary family evidence; I1, preserve WXS-MS-TSUKASA-P06
+
+Tsukasa asks before entering Saki's room, dramatically mistakes her outing for a date and still encourages her. He checks her plans against parental absence and his expected performance work, accepts her friend outing and gives a road-safety reminder. When she is ill, he announces breakfast and preferred cocoa, accommodates her current lack of appetite and leaves the offer open. His welcome to visiting friends combines show boasts and gratitude. The foundation already establishes sibling care, practical involvement and theatrical self-presentation; these contexts extend that evidence without originating care or proving a universally changed register. No new human ID or four-member company state follows (`PJSK:event:0001:04:001:0004–0024`; `PJSK:event:0001:06:002:0006–0012`; `PJSK:event:0001:07:001:0003–0014`). The source does not establish that he cooked the meal or that every domestic scene occurs after every WxS main-story crisis.
+
+**Other-unit disposition:** MMJ I1 is relationship/knowledge evidence only; preserve `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`. Neither Minori nor Haruka speaks here. No Airi or named depicted Shizuku state is added. N25/VBS remain documentary I0 with no human delta.

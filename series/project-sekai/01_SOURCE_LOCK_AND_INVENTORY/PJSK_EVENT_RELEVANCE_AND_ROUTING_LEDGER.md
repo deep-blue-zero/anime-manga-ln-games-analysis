@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 20 earlier universal screens remain pending; EVENT_0001 historical universal screen complete"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 20 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,9 +14,9 @@ mutable: true
 # Project SEKAI Event Relevance and Routing Ledger
 
 
-## Current routing authority — historical EVENT_0001 screen closed
+## Current routing authority — historical EVENT_0001 fully integrated
 
-The forward frontier remains EVENT_0090 / next EVENT_0091. Historical EVENT_0001 is now `UNIVERSAL_SCREEN_COMPLETE`, with N25/VBS documentary I0 and material LEO_NEED/MMJ/WXS routes pending ordered interpretation. All five main-story baselines exist. Twenty older universal screens remain pending: `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. EVENT_0003 is the next unresolved historical screen; EVENT_0002's existing complete pass remains valid. Older dated/frontier sections below are preserved historical checkpoints, not later current-state overrides.
+The forward frontier remains EVENT_0090 / next EVENT_0091. Historical EVENT_0001 is now `UNIVERSAL_SCREEN_COMPLETE`, with N25/VBS documentary I0, LEO_NEED I2 and MMJ/WXS I1 ordered integrations complete. All five main-story baselines exist. Twenty older universal screens remain pending: `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. EVENT_0003 is the next unresolved historical screen; EVENT_0002's existing complete pass remains valid. Older dated/frontier sections below are preserved historical checkpoints, not later current-state overrides.
 
 `PENDING_ORDERED_UNIT_INTEGRATION` distinguishes a valid route whose canonical main-story baseline exists from a completed baseline-relative interpretation. Imported `DEFERRED_PENDING_FOUNDATION` entries remain historical dispositions; foundation promotion does not automatically integrate or reclassify them. Resolve them explicitly as each unit consumes its routes in order. Neither status certifies reconstruction readiness.
 
@@ -77,7 +77,7 @@ The table below is a routing inventory, not a substitute for detailed per-unit a
 
 | Event | Title | Bucket | Envelope authority | Indexed/routed units | Existing complete pass | N25 impact | Routing status | Later-unit action |
 |---|---|---|---|---|---|---|---|---|
-| EVENT_0001 | 雨上がりの一番星 | `RB_20201009T060000Z` | 8 core + 10 card halves; zero areas = 18 verified stories / 1,238 records | `LEO_NEED PRIMARY; MMJ/WXS CROSS_UNIT; N25/VBS NONE` | yes (universal) | `I0` | `UNIVERSAL_SCREEN_COMPLETE` | material LN/MMJ/WXS routes await ordered integration; reuse record-level evidence below |
+| EVENT_0001 | 雨上がりの一番星 | `RB_20201009T060000Z` | 8 core + 10 card halves; zero areas = 18 verified stories / 1,238 records | `LEO_NEED PRIMARY; MMJ/WXS CROSS_UNIT; N25/VBS NONE` | yes (universal) | `I0` | `UNIVERSAL_SCREEN_COMPLETE` | LN I2, MMJ/WXS I1 integrated; reuse shared reading and record-level evidence below |
 | EVENT_0002 | 囚われのマリオネット | `RB_20201020T060000Z` | 8 core + 10 card halves + 4 area (verified completed envelope) | `N25` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
 | EVENT_0003 | 全力！ワンダーハロウィン！ | `RB_20201031T060000Z` | review-index associations only; final analytical envelope pending | `WXS` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
 | EVENT_0004 | 走れ！体育祭！～実行委員は大忙し～ | `RB_20201109T060000Z` | 8 core + 10 card halves + 8 area (verified completed envelope) | `LEO_NEED, MMJ, N25, WXS` | yes | `I2` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
@@ -2448,19 +2448,19 @@ The shared reading owns record-level evidence and 25 actual canonical witness ha
 
 **Routing status:** `UNIVERSAL_SCREEN_COMPLETE`; quality `COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_ROUTES`. **Source lock:** `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. **Release bucket:** `RB_20201009T060000Z`; all 18 sources have `2020-10-09T06:00:00Z` initial availability. The complete envelope comprises eight core chapters and both halves of cards 0109–0113, with zero linked/unlock/archive areas or other supported crosslinks: **18 stories / 46 scenes / 1,238 ordered records**. All ordered records, including scene/cut/media cues, were inspected; actual canonical hashes independently matched the frozen checksum manifest. No image or audio performance was inspected.
 
-This closes one historical discovery gap. It does not advance the separate EVENT_0090 forward frontier / next EVENT_0091 or complete the pending longitudinal interpretation of material unit routes. N25 and VBS receive documentary I0 for absent evidence; LEO_NEED, MMJ and WXS have canonical main-story baselines but await ordered integration. No human or relationship successor is established by a routing decision.
+The historical discovery gap is closed and its material routes are now interpreted in the [shared event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md): LEO_NEED I2, MMJ/WXS I1; N25/VBS documentary I0. All human states are retained with event-qualified increments. Bounded relationship and knowledge records arise from the subsequent baseline comparison, independently of the completed discovery decision. The separate EVENT_0090 forward frontier / next EVENT_0091 is unchanged.
 
 ### Unit disposition and targeted retrieval
 
 | Unit / manifestation | Relevance | Future review | Baseline-relative disposition | Retrieval boundary |
 |---|---|---|---|---|
-| LEO_NEED | PRIMARY | HIGH | PENDING_ORDERED_UNIT_INTEGRATION | Four humans, group and dyads; illness/conflict/repair, time scarcity, private counsel, music, school/work, gifts and ordinary life. Use the evidence map below. |
-| MMJ | CROSS_UNIT | LOW | PENDING_ORDERED_UNIT_INTEGRATION | Reported Saki–Minori café/cross-class friendship and Haruka aquarium/class network. No MMJ speaker or internal state. `PJSK:card:0109:02:002:0007–0015`; `PJSK:card:0112:02:001:0037–0043`. |
-| WXS | CROSS_UNIT | MEDIUM | PENDING_ORDERED_UNIT_INTEGRATION | Tsukasa's direct household/sibling/visitor scenes and remembered invitation; no troupe-wide consequence. `PJSK:event:0001:04:001:0004–0027`; `PJSK:event:0001:06:002:0006–0024`; `PJSK:event:0001:07:001:0003–0014`; `PJSK:card:0109:02:002:0016–0025`. |
+| LEO_NEED | PRIMARY | HIGH | INTEGRATED_I2 | Four humans, group and dyads; illness/conflict/repair, time scarcity, private counsel, music, school/work, gifts and ordinary life. Use the evidence map below. |
+| MMJ | CROSS_UNIT | LOW | INTEGRATED_I1 | Reported Saki–Minori café/cross-class friendship and Haruka aquarium/class network. No MMJ speaker or internal state. `PJSK:card:0109:02:002:0007–0015`; `PJSK:card:0112:02:001:0037–0043`. |
+| WXS | CROSS_UNIT | MEDIUM | INTEGRATED_I1 | Tsukasa's direct household/sibling/visitor scenes and remembered invitation; no troupe-wide consequence. `PJSK:event:0001:04:001:0004–0027`; `PJSK:event:0001:06:002:0006–0024`; `PJSK:event:0001:07:001:0003–0014`; `PJSK:card:0109:02:002:0016–0025`. |
 | VBS | NONE | NONE | I0 — documentary screen complete | No material unit/member evidence. Generic café/live-house settings do not identify VBS. |
 | N25 | NONE | NONE | I0 — documentary screen complete | No material unit/member evidence. Honami's generic household-care competence does not create a Kanade/N25 route. |
-| School / Classroom SEKAI Luka | SECONDARY | HIGH | With LEO_NEED ordered integration | Listening, tentative inference, private counsel, music/social coordination and singer mentorship; no omniscience. |
-| School / Classroom SEKAI Miku | SECONDARY | HIGH | With LEO_NEED ordered integration | Privacy, ordinary participation, musical effort and aspirational senior identity; no other manifestation inherits this evidence. |
+| School / Classroom SEKAI Luka | SECONDARY | HIGH | INTEGRATED with LEO_NEED I2 | Listening, tentative inference, private counsel, music/social coordination and singer mentorship; no omniscience. |
+| School / Classroom SEKAI Miku | SECONDARY | HIGH | INTEGRATED with LEO_NEED I2 | Privacy, ordinary participation, musical effort and aspirational senior identity; no other manifestation inherits this evidence. |
 
 MMJ receives a bounded CROSS_UNIT route because the evidence identifies specific social relations and information flow worth preserving; LOW review priority reflects its limited report-only scope. Shiho's sister analogy remains an unnamed family reference here and does not independently establish a depicted MMJ scene. Other singers/manifestations have no supported route.
 
@@ -2512,7 +2512,7 @@ The observatory reschedule, three monthly outings, combined lunch, photobook com
 
 ### Reusable record-level evidence map
 
-The observations below own documentary retrieval. A subsequent shared event reading should own the causal and baseline-relative interpretation; individual character/unit work reuses that reading and these locators. No whole-envelope reread is required absent a concrete routing deficiency.
+The observations below own documentary retrieval. The linked shared event reading now owns the causal and baseline-relative interpretation; individual character/unit work reuses that reading and these locators. No whole-envelope reread is required absent a concrete routing deficiency.
 
 #### E0001-SRC-DREAM-AND-CONCEALMENT
 
@@ -2768,3 +2768,8 @@ All four Leo/need humans have PRIMARY/HIGH evidence. Tsukasa is CROSS_UNIT/MEDIU
 ### Closure and downstream work
 
 This is one completed franchise discovery pass. Preserve the bounded source testimony, different consultation audiences, partial card order and all planned-versus-shown limits in subsequent unit interpretation. The material LEO_NEED/MMJ/WXS routes now satisfy the routing prerequisite alongside their main-story baselines. N25/VBS require no substantive character, relationship, knowledge, claim or theme mutation for this envelope. Earlier discovery gaps decrease from 21 to 20; the next unresolved historical screen is EVENT_0003, with EVENT_0002's existing complete pass preserved. Forward EVENT_0091 remains separate and unchanged.
+
+
+### Ordered integration closure
+
+All EVENT_0001 unit dispositions are complete. Leo/need I2 retains the four P04 human IDs and group, with new explicit motive/strategy precision, event-qualified claim/theme refinements and separate School support/knowledge. WxS I1 adds direct family/visitor behavior, while MMJ I1 records reported social context without absent-side psychology. The shared reading and six ledgers carry the reconciled records. Earlier discovery-only wording above records the source-screen stage; this closure resolves its pending material interpretations. Twenty older universal screens remain pending; no whole-envelope reread or forward EVENT_0091 advancement is implied.
