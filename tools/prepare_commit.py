@@ -92,6 +92,27 @@ def active_rules(
     return active
 
 
+def missing_required_output_paths(
+    rules: list[dict[str, Any]], index_paths: set[str]
+) -> list[str]:
+    """Return required output paths that are absent from the staged snapshot.
+
+    A required deterministic output can already contain the expected bytes and
+    therefore have no diff to stage.  The generator-specific checks below prove
+    content synchronization; this boundary check only proves that each required
+    output exists in the candidate index.
+    """
+    return sorted(
+        {
+            path
+            for rule in rules
+            for path in rule.get("required_outputs", [])
+            if path not in index_paths
+        },
+        key=lambda value: value.encode("utf-8"),
+    )
+
+
 def run_python(root: Path, *args: str) -> None:
     environment = os.environ.copy()
     environment["PYTHONDONTWRITEBYTECODE"] = "1"
@@ -144,18 +165,10 @@ def main() -> int:
         paths = sorted(nul_paths(unstaged), key=lambda value: value.encode("utf-8"))
         raise RuntimeError(f"tracked worktree changes are not staged: {paths}")
 
-    missing_outputs = sorted(
-        {
-            path
-            for rule in rules
-            for path in rule.get("required_outputs", [])
-            if path not in changed
-        },
-        key=lambda value: value.encode("utf-8"),
-    )
+    missing_outputs = missing_required_output_paths(rules, index_paths)
     if missing_outputs:
         raise RuntimeError(
-            f"staged change omits required synchronized outputs: {missing_outputs}"
+            f"staged snapshot omits required output paths: {missing_outputs}"
         )
 
     subprocess.run(["git", "-C", str(root), "diff", "--cached", "--check"], check=True)
