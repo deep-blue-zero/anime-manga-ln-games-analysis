@@ -30,7 +30,7 @@ do_not_use_as_current_authority: false
 source_local_artifacts_immutable: true
 year3_information_used: false
 created_at: "2026-08-26"
-updated_at: "2026-08-26"
+updated_at: "2026-09-09"
 ---
 
 # 『ようこそ実力至上主義の教室へ』
@@ -128,7 +128,7 @@ A class point total cannot by itself establish:
 - whether members regard authority as legitimate;
 - or whether irreversible costs were imposed by actors with standing to impose them.
 
-The `Y1FF` and `Y2SL-E085` first-year-end point snapshots also remain numerically unreconciled. This document preserves that discrepancy and does **not** construct arithmetic Year-1→Year-2 point deltas from incompatible official snapshots. The detailed measurement/institutional audit routes to `Y2_06` and `Y2_07`.
+The former `Y1FF` / `Y2SL-E085` apparent discrepancy is resolved by direct source-surface cohort identification: the latter records the younger first-year cohort during Ayanokōji's Year 2. See [Y2_10, section 6](COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md). Do **not** construct cross-cohort deltas. The detailed measurement/institutional audit remains in `Y2_06` and `Y2_07`.
 
 ## 0.3 Effectiveness, legitimacy, morality, and resilience remain separate variables
 
@@ -2611,7 +2611,7 @@ The guidebook is used here as a boundary audit, not as omniscient narration.
 | `Y2SL-E082` | Horikita polity's post-transfer performance is explicitly unresolved |
 | `Y2SL-E083` | Ichinose exceeds Ayanokōji's expected answer, strengthening leader-level counter-authorship |
 | `Y2SL-E084` | provisional end-Year-2 point snapshot; not a constitutional ranking |
-| `Y2SL-E085` | separate first-year-end point snapshot remains unreconciled with `Y1FF` |
+| `Y2SL-E085` | younger-cohort first-year-end snapshot; cross-cohort comparison resolved in Y2_10 section 6 |
 
 ## 22.1 Documentary caution
 

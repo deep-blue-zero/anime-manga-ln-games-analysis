@@ -8,7 +8,7 @@ source_boundary: "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local r
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-updated_at: "2026-08-27"
+updated_at: "2026-09-09"
 ---
 # COTE Year 2 V2 — Current State and Corpus Map
 
@@ -145,7 +145,7 @@ All four ledgers implement the architecture-mandated authority/snapshot notice a
   - stable polity IDs preserved: `POLITY-HORIKITA`, `POLITY-RYUEN`, `POLITY-ICHINOSE`, `POLITY-SAKAYANAGI-ORIGIN`.
   - controlling boundary thesis: Year 1 compared four competing leadership systems; Year 2 converts them into four competing succession systems. The decisive polity test is what remains when the strongest organizing actor is wrong, absent, unwilling, defeated, expelled, transferred, or no longer sovereign.
   - principal endpoint distinctions: Horikita's polity has the strongest distributed-capacity case but its post-transfer self-sustainment remains unproven; Ryūen's polity gains voluntary legitimacy and delegation while leader-dependence/protected-dissent problems remain; Ichinose's polity preserves solidarity while building an unfinished second brain and adversarial competence; the former Sakayanagi polity is the clearest negative succession case and responds through collectively consented imported re-centralization around Ayanokōji.
-  - point-audit note: the artifact preserves an unresolved discrepancy between the `Y1FF` Year-1 point snapshot and `Y2SL-E085`; no unsupported arithmetic Year-1→Year-2 delta is promoted pending the system-ledger audit.
+  - point-audit state: `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`; direct `embed0231_HD.jpg` inspection identifies the younger first-year cohort. Printed values and `Y2SL-E085` remain unchanged; see `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md` section 6.
 
 ### Completed through-Y2 institutional-rules ledger
 - `COTE_INSTITUTIONAL_RULES_LEDGER_THROUGH_Y2.md`
@@ -157,7 +157,7 @@ All four ledgers implement the architecture-mandated authority/snapshot notice a
   - controlling boundary thesis: Year 2 increases institutional legibility downward faster than transparency upward. Students become increasingly measurable, trackable, protectable, disposable, and transferable while rule authorship, administrative discretion, record control, patronage, and external political influence remain unevenly visible.
   - principal institutional distinctions: formal rule vs practical access; implementation vs enforcement; record vs provenance; administrative capture vs procedural counterforce; formal choice vs environmentally authored choice; mobility vs patronage; political origin vs ownership of later outcomes.
   - strongest constructive rule: when hostile authority can control an immediate record, independent witness/provenance routes provide the most durable counterweight.
-  - data-integrity note: the `Y1FF` / `Y2SL-E085` first-year class-point discrepancy remains explicitly OPEN pending source-surface and point-accounting audit; no silent reconciliation is performed.
+  - point-audit state: `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`; direct `embed0231_HD.jpg` inspection identifies the younger first-year cohort. Printed values and `Y2SL-E085` remain unchanged; see `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md` section 6.
 
 ### Completed through-Y2 examination ledger
 - `COTE_EXAM_LEDGER_THROUGH_Y2.md`
@@ -169,7 +169,7 @@ All four ledgers implement the architecture-mandated authority/snapshot notice a
   - controlling boundary thesis: an ANHS examination is an authored conversion system rather than a neutral window onto merit; the rule decides which capacities become valuable and converts them into points, protection, bargaining power, mobility, expulsion risk, or jurisdiction.
   - event taxonomy: six formal Year-2 special examinations are distinguished from the scored sports/cultural festivals, non-exam negative controls, private proving fields, Volume-0 retrospective genealogy, and `Second List` documentary calibration.
   - major result discipline: score is separated from causal authorship; clean procedure from complete political meaning; leader performance from polity development; exam-local value from total human value.
-  - point-audit state: the former `Y1FF` / `Y2SL-E085` apparent discrepancy is narrowed to `OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION`. The `First File` and Y2V01 point chain is coherent for Ayanokōji's cohort, while `Y2SL-E085` likely refers to the cohort that is first-year during Ayanokōji's Year 2. The fixed-layout source page still requires direct visual re-verification before prior ledgers are silently corrected.
+  - point-audit state: `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`; direct `embed0231_HD.jpg` inspection identifies the younger first-year cohort. Printed values and `Y2SL-E085` remain unchanged; see `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md` section 6.
 
 ### Completed through-Y2 ability / measurement ledger
 - `COTE_ABILITY_MEASUREMENT_LEDGER_THROUGH_Y2.md`
@@ -380,21 +380,27 @@ The Year-2 project now has a dedicated synthesis home:
   - canonical endpoint: development usually expands what a stable voice is permitted to contain rather than replacing linguistic identity. Year 2 increasingly distributes interpretive authority across alternate focalization, embodied evidence, ordinary-life modes, illustrations, records, and paratext; V12.5 demonstrates a focal-ownership trap stronger than ordinary narrator unreliability; *Second List* improves predictive legibility without becoming the person; and written prose does not license anime/seiyū acoustic claims.
   - authority relationship: source-local readings remain primary for exact Japanese wording and local formal claims; `COTE_JAPANESE_VOICE_LEDGER_THROUGH_Y2.md` remains the compact canonical written-voice state ledger; `COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md` remains primary for typed guidebook evidence; `Y2_09` owns the integrated Year-2 narration/voice/genre/humor/visual-form argument.
 
+### Canonical `Y2_10` specialist
+
+- [COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md](../05%20Year-Level%20Synthesis/COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md)
+  - status: `canonical`; boundary `Y2SL`; Year 3 narrative evidence excluded
+  - responsibility: retrospective revision architecture, Volume-0 and Second List consequences, preserved local truth, and source-verified cohort-routing correction
+  - the 62 Volume-0 revelation rows and 42 inherited handoff states remain unchanged
+
 ### Remaining specialist/full-synthesis artifacts
 
-- `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md`
 - `COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md`
 - `COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md`
 - `COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md`
 - `COTE_Y2_FULL_SYNTHESIS.md`
 
 ## Next architecture-defined step
-**Produce `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md`.**
+**Produce `COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md`.**
 
-`Y2_01` owns the canonical Year-2 causal spine, `Y2_02` the integrated Ayanokōji psychology/ethics/voice argument, `Y2_03` Horikita leadership/self-authorship/class formation, `Y2_04` the directed relationship system, `Y2_05` the comparative four-polity constitutional argument, `Y2_06` the integrated ability/meritocracy/measurement/points/examination argument, `Y2_07` the institutional-governance/surveillance/adult-power/White-Room argument, `Y2_08` the integrated ethics/autonomy/protection/expulsion/violence argument, and `Y2_09` the integrated Japanese narration/written-voice/genre/humor/visual-paratext argument. The next task should adjudicate retrospective claim transition across Volume 0 and *Second List*: preserve prospective truth boundaries, distinguish revelation from development and revision, and route earlier claims through `PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN` without back-projecting later reader knowledge into earlier actor states.
+`Y2_01` owns the canonical Year-2 causal spine, `Y2_02` the integrated Ayanokōji psychology/ethics/voice argument, `Y2_03` Horikita leadership/self-authorship/class formation, `Y2_04` the directed relationship system, `Y2_05` the comparative four-polity constitutional argument, `Y2_06` the integrated ability/meritocracy/measurement/points/examination argument, `Y2_07` the institutional-governance/surveillance/adult-power/White-Room argument, `Y2_08` the integrated ethics/autonomy/protection/expulsion/violence argument, and `Y2_09` the integrated Japanese narration/written-voice/genre/humor/visual-paratext argument. `Y2_10` now owns retrospective claim transitions and the direct cohort-routing correction. The next task consolidates comparative matrices and carries the exact unresolved Year-2 conditions into a future Year-3 test register; it supplies no Year-3 answers.
 
 Recommended sequence:
-1. produce `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md`;
+1. produce `COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md`;
 2. continue the architecture-defined Year-2 specialist syntheses, using canonical through-Y2 ledgers and immutable source-local readings as authorities;
 3. carry reconstruction-relevant distinctions forward without letting the derivative protocol become source authority;
 4. produce `COTE_Y2_FULL_SYNTHESIS.md`;
