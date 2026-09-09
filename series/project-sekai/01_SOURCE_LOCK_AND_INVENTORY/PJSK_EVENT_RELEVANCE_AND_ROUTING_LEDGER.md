@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0081; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0082; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1697,3 +1697,62 @@ next_event: EVENT_0082
 | Cross-unit plans and everyday friction | `PJSK:event:0081:07:002`; `PJSK:event:0081:07:006`; `PJSK:area:areatalk_ev_shuffle_27_004:01`; `PJSK:area:areatalk_ev_shuffle_27_005:01` | Show stories travel through particular contacts, An/Akito negotiate odd drinks, and An/Tsukasa propose joint shrine attendance while Akito/Nene react differently. No universal itinerary knowledge, machine diagnosis or completed/unanimously pre-approved group visit. |
 
 All 28 hashes/ranges and causal distinctions are retained in the shared reading. N25 I1 updates all six ledgers without new IDs; latest relationship/epistemic I3 remains EVENT_0080, latest human-state transition EVENT_0072. Other units remain deferred. Next EVENT_0082; earlier gaps and full foundation/reconstruction/synthesis/audit/integration obligations persist.
+
+## EVENT_0082 — 夢の途中、輝く星たちへ
+
+```yaml
+release_id: EVENT_0082
+release_bucket: RB_20230110T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0082:01, PJSK:event:0082:02, PJSK:event:0082:03, PJSK:event:0082:04, PJSK:event:0082:05, PJSK:event:0082:06, PJSK:event:0082:07, PJSK:event:0082:08]
+card_locators: [PJSK:card:0571:01, PJSK:card:0571:02, PJSK:card:0572:01, PJSK:card:0572:02, PJSK:card:0573:01, PJSK:card:0573:02, PJSK:card:0574:01, PJSK:card:0574:02, PJSK:card:0575:01, PJSK:card:0575:02]
+area_locators: [PJSK:area:areatalk_ev_wonder_11_001:01, PJSK:area:areatalk_ev_wonder_11_002:01, PJSK:area:areatalk_ev_wonder_11_003:01, PJSK:area:areatalk_ev_wonder_11_004:01, PJSK:area:areatalk_ev_wonder_11_005:01]
+
+chronology_note: "Cards 0571-0573 initially available 03:00Z, 0574-0575 06:00Z; areas archive-published 2023-01-10T06:00Z with no initial-availability release bucket, separately linked by condition 108108 to episode 1000664/chapter 8. Card recollections, workshop progression, post-finale scenes and performed fiction remain distinct."
+unit_routes:
+  WXS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Emu, Tsukasa, Nene, Rui, Keisuke, Shousuke, Asahi_reported_and_message, workshop_director_unnamed, workshop_peers, park_costumed_staff, visitors, grandfather_remembered, Sakurako_reported]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [attachment_and_separation, reciprocal_encouragement, conflicting_wants, managerial_obligations, institutional_opportunity, acting_and_role_background, learner_identity, distributed_learning, fairness_and_reliance, conditional_confidence, emotional_support, non_disclosure, improvisation, ordinary_pleasure, textual_register, plans_versus_outcomes]
+    locators: [PJSK:event:0082:01, PJSK:event:0082:02, PJSK:event:0082:03, PJSK:event:0082:04, PJSK:event:0082:05, PJSK:event:0082:06, PJSK:event:0082:07, PJSK:event:0082:08, PJSK:card:0571, PJSK:card:0572, PJSK:card:0573, PJSK:card:0574, PJSK:card:0575]
+  LEO_NEED:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    analytical_salience: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Honami_reported, Saki_reported]
+    domains: [ordinary_food_recommendation, reported_social_network]
+    locators: [PJSK:event:0082:03:001]
+  N25: {relevance: NONE, future_review_priority: NONE, baseline_impact: I0, reconstruction_yield: R0}
+  MMJ: {relevance: NONE, future_review_priority: NONE}
+  VBS: {relevance: NONE, future_review_priority: NONE}
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0082_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0083
+```
+
+| Reusable responsibility | Exact evidence | Interpretation and limits |
+|---|---|---|
+| Emu / attachment and chosen reciprocity | `PJSK:event:0082:03:002`; `PJSK:event:0082:07:001:0047–0074`; `PJSK:event:0082:08:001:0053–0065` | Growth makes parting feel nearer; she chooses encouragement while explicitly expecting sadness to remain. Her worldwide hope for Tsukasa is private; her park dream continues. No actual separation or settled future. |
+| Emu / public cheer and ordinary motivation | `PJSK:card:0571:01:001:0025–0064`; `PJSK:card:0571:02:002:0021–0037` | Generic happy crowds and direct fan contact have different immediate effects. Rehearsal effort and valuing finite time coexist with enduring attachment. No guaranteed happy ending. |
+| Tsukasa–management / growth and employment | `PJSK:event:0082:01:001`; `PJSK:event:0082:08:003:0013–0039`; `PJSK:card:0571:02:001:0014–0026` | E81 consultation now occurs. Present business refusal and later joint-stage proposal do not settle all ambitions; joint performance remains awaiting details. |
+| Tsukasa–peers–director / role-specific learning | `PJSK:card:0574:01:003:0004–0054`; `PJSK:card:0574:02:001:0012–0072`; `PJSK:event:0082:08:001:0041–0050` | Peer welcome, initial failure and insight into implicit knowledge from self-written scripts; practice and casting support bounded progress. Pegasus naming motives are disputed; performed roles are not biography. |
+| Nene / conditional confidence and self-directed effort | `PJSK:card:0575:01:001:0014–0055`; `PJSK:card:0575:02:001:0002–0020` | Known-group stage confidence does not prove stranger confidence. Greeting practice, online search and completed notebook review coexist with envy and perceived limits. No workshop enrollment. |
+| Nene–Rui–Tsukasa / fair reliance and inclusion | `PJSK:card:0575:02:003:0002–0042`; `PJSK:event:0082:03:001` | Instructor-authorized sharing is distinguished from earned peer contacts. Nene asks, Tsukasa agrees, and she includes Emu in a later planned talk; the full discussion remains unshown. |
+| Rui / urgency, self-control and accepted help | `PJSK:card:0572:01:001:0024–0031`; `PJSK:card:0572:01:002:0011–0038`; `PJSK:card:0572:02:001:0040–0054` | Private compatible-future wish disrupts work. Partial disclosure and non-extractive support calm him and explicitly enable consultation about Emu; no full strategy or complete disclosure. |
+| Nene–Rui–Emu / care under incomplete knowledge | `PJSK:event:0082:04`; `PJSK:event:0082:05`; `PJSK:event:0082:06`; `PJSK:event:0082:07:001:0047–0083` | Hypothesis precedes actual disclosure; an outing creates conditions for her own interpretation. Tsukasa is absent; his knowledge cannot be inferred from next-day praise. |
+| Wonderland singers / collaborative failure response | `PJSK:card:0573:01:001:0013–0059`; `PJSK:card:0573:02:001:0009–0075` | Lost prop is accommodated successfully while Rin still feels failure. Len adapts the Emu example; a laugh is observed, lasting recovery or successful retry is not. |
+| Wonderland human/singer learning and play | `PJSK:area:areatalk_ev_wonder_11_004:01:001:0004–0012`; `PJSK:area:areatalk_ev_wonder_11_005:01:001:0002–0012` | Delivery depends on disposition, stakes and obstacles; hypothetical shy role is not Len's actual part. Narration accompanies altered sleep-talk without proving dream control. |
+| WxS / everyday wants, boundaries and expression | `PJSK:area:areatalk_ev_wonder_11_001:01`; `PJSK:area:areatalk_ev_wonder_11_002:01`; `PJSK:area:areatalk_ev_wonder_11_003:01`; `PJSK:event:0082:06:002` | Planned food outing, changed local consent to rushing, tactile rain and uncertain acting classification, differentiated ride enjoyment and remote-food limits. Preserve ordinary evidence beside major dilemmas. |
+| Leo/need / bounded report | `PJSK:event:0082:03:001` | Honami recommends a parfait place to Emu; Tsukasa reports Saki also heard about it. No actual visit, broader unit development or Kanade bridge. |
+
+All 23 declared witness hashes/ranges are retained in the shared reading. N25 I0 changes RELEASE_IMPACT only among the six longitudinal ledgers. Latest positive N25 evidence remains EVENT_0081, relationship/epistemic I3 EVENT_0080 and human-state transition EVENT_0072. Next EVENT_0083; earlier backlog, four foundations/deferred consumption and full completion obligations persist.

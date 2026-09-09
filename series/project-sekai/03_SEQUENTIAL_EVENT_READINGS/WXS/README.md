@@ -16,3 +16,5 @@ This directory mirrors an empty folder in the supplied Project SEKAI Drive analy
 The folder is now populated by [EVENT_0074 — カーテンコールに惜別を](PJSK_EVENT_0074_DEEP_READING.md), a complete-envelope reading preserving high-priority WxS evidence for integration after its main-story foundation and ordered historical routes. The import-time statement above describes the original source folder only. No completed WxS foundation or baseline-relative event state is implied.
 
 Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
+
+[EVENT_0082 — 夢の途中、輝く星たちへ](PJSK_EVENT_0082_DEEP_READING.md) adds complete-envelope extraction of Emu's reciprocal encouragement under anticipated separation, Rui's own need for support, and Tsukasa/Nene's distinct learning problems. It remains deferred for foundation-aware longitudinal interpretation.
