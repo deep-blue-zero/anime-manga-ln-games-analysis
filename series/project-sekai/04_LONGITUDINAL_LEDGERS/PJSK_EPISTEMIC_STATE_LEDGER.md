@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained"
-analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved"
+source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20"
+analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,9 @@ mutable: true
 
 The latest integrated epistemic boundary is **EVENT_0090**, adding `EPI-N25-E-E0090`, `EPI-CROSS-SHIHO-ENA-E0090` and `EPI-CROSS-AN-ENA-E0090`. Ena learns a narrower subject-led use for critique and receives qualified evidence of communicative success. Shiho learns identities and a generic creative role; An's existing acquaintance is extended without revealing guarded N25 content. Observation, report, private interpretation and hoped-for output remain separate.
 
-Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 21 older screens and four remaining canonical foundations are separate unfinished obligations.
+Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 21 older screens, MMJ/VBS/WXS foundations and Leo/need routed history are separate unfinished obligations.
+
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 ## 1. Purpose
 
@@ -1504,3 +1506,127 @@ Next EVENT_0090. State and relationship successors operate with these knowledge 
 | `EPI-CROSS-AN-ENA-E0090` | Existing acquaintance and circle awareness; sees the sketch, hears Ena's artistic aim and later receives small practical care. | An says Mizuki talks about Ena; report contents remain unspecified. No knowledge of the teacher's entire critique, private N25 difficulties or guarded content follows. High confidence in direct exchange, OPEN on unspecified report detail. `PJSK:event:0090:05:001:0017–0055`; `PJSK:area:areatalk_ev_shuffle_30_002:01`. |
 
 **Cross-unit routed limits:** Shiho gains An's named growth-pressure account after analogy and inquiry; the reader has additional private material. Nene learns through the session and tells WxS, but is not shown knowing the exhibition exchange or An's entire concern. Ena is not shown knowing the session. School Miku observes via Shiho while Street Miku has her own earlier/later conversations with An. Imagined debut/view counts in card 0622:02 are fantasy, not knowledge of a completed career. No cross-manifestation communication or shared psyche is shown. Use the shared reading's exact locators for these deferred responsibilities; no baseline-relative impact is assigned to the unfounded units.
+
+## Leo/need main-story foundation — serial phase history
+
+Each record below is valid only at its named phase endpoint and preserves earlier states as historical evidence. Phase-end snapshots can preserve or newly disclose a property; they do not automatically assert a new durable personality. Source confidence is HIGH for the indicated support, with unshown transmission and future durability OPEN. Shared causes remain in the linked reading. Main-story family observations/reports do not advance another unit or confer private SEKAI knowledge. No later event evidence, I0–I3 release judgment or reconstruction readiness is imported.
+
+### LN-MS-P01 — episodes 00–03
+
+Source and causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P01_DEEP_READING.md). The following records resolve epistemic responsibility only.
+
+#### LN-EPI-FRAGMENTED-P01
+
+**Prior:** No founded epistemic baseline.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Ichika knows distance and suspects permanence; Saki returns without intervening history, then suspects something happened. Honami/Shiho have not received the duo’s private conversation. Four separate star responses are audience-only comparison. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:005:0012`; `PJSK:main:leo_01_01:01:003:0023`; `PJSK:main:leo_01_03:01:007:0005`; `PJSK:main:leo_01_00:01:007:0064`; HIGH.
+
+#### LN-EPI-ENCOUNTER-P01
+
+**Prior:** Ichika admires distributed Miku songs; this is not School Miku familiarity.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Opening School Miku/Luka encounter is dream-framed by Ichika; later hologram and joint entry occur. Saki shares the episode-03 entry only, not the earlier dream. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:007:0044`; `PJSK:main:leo_01_03:01:003:0008`; `PJSK:main:leo_01_03:01:007:0017`; HIGH.
+
+### LN-MS-P02 — episodes 04–08
+
+Source and causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P02_DEEP_READING.md). The following records resolve epistemic responsibility only.
+
+#### LN-EPI-SEKAI-P02
+
+**Prior:** Dream-framed encounter / unexplained entry.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** All four encounter tactile Miku, familiar instruments and her explanation; hear Untitled playback/stop entrance/exit rule. Ichika/Saki use repeatable access and meet Luka for teaching. Do not infer all four heard every later explanation. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_04:01:001:0033`; `PJSK:main:leo_01_04:01:001:0046`; `PJSK:main:leo_01_05:01:001:0053`; `PJSK:main:leo_01_07:01:001:0029`; HIGH.
+
+#### LN-EPI-FRACTURE-HISTORY-P02
+
+**Prior:** Causes unknown; contact avoidance observed.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Audience sees Honami’s whose-side memory fragment; Ichika recalls Shiho’s second-year-middle-school withdrawal and Honami’s isolation/help refusal. Full causes still unknown to her and not shown transmitted to Saki. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:003:0032`; `PJSK:main:leo_01_08:01:001:0016`; `PJSK:main:leo_01_08:01:003:0013`; `PJSK:main:leo_01_08:01:003:0024`; HIGH.
+
+#### LN-EPI-SIBLING-BOUND-P02
+
+**Prior:** No foundation-scope Shizuku knowledge entry.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Shizuku observes Shiho’s lower spirits and asks; Shiho denies a problem. Shizuku is not shown learning the cause, SEKAI, or later band decision. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:003:0045`; `PJSK:main:leo_01_06:01:003:0046`; `PJSK:main:leo_01_06:01:003:0048`; HIGH.
+
+### LN-MS-P03 — episodes 09–11
+
+Source and causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P03_DEEP_READING.md). The following records resolve epistemic responsibility only.
+
+#### LN-EPI-SHIHO-DISCLOSURE-P03
+
+**Prior:** Ichika believes she may be disliked; motives unresolved.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Ichika/Saki hear Shiho’s prior band account and protective reason for withdrawing from friends, then witness her membership request. Honami does not witness either scene. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0035`; `PJSK:main:leo_01_11:01:001:0026`; `PJSK:main:leo_01_11:01:001:0047`; `PJSK:main:leo_01_11:01:001:0064`; HIGH.
+
+#### LN-EPI-SAKI-ILLNESS-P03
+
+**Prior:** Symptoms initially private; others focus on trial.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Ichika/Shiho witness dizziness and hear Saki identify a cold. Honami only observes the trio elsewhere; singers are not shown receiving this account in P03. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_11:01:001:0009`; `PJSK:main:leo_01_11:01:001:0012`; `PJSK:main:leo_01_11:01:001:0015`; HIGH.
+
+#### LN-EPI-HONAMI-WITNESS-P03
+
+**Prior:** Honami knows the duo began a band.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** She sees the three moving together and infers possible reconciliation; loneliness remains private. No knowledge of trial terms/outcome at this boundary. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_10:01:003:0006`; `PJSK:main:leo_01_10:01:003:0007`; `PJSK:main:leo_01_10:01:003:0013`; HIGH.
+
+### LN-MS-P04 — episodes 12–20
+
+Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P04_DEEP_READING.md). The following records resolve epistemic responsibility only.
+
+#### LN-EPI-HONAMI-DISCLOSURE-P04
+
+**Prior:** Ichika suspects prior exclusion; Shiho knows exclusion occurred but lacks details.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Honami tells Ichika her history and present fear in episode 12; Ichika reports to Saki/Shiho in 13; Saki tells Honami she has heard it in 14. Preserve prospective ignorance in earlier phases. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_12:01:002:0071`; `PJSK:main:leo_01_12:01:002:0078`; `PJSK:main:leo_01_13:01:002:0021`; `PJSK:main:leo_01_13:01:002:0034`; `PJSK:main:leo_01_14:01:005:0006`; HIGH.
+
+#### LN-EPI-REPAIR-SEQUENCE-P04
+
+**Prior:** Honami knows Saki stopped invitations, not the immediate later tears.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Shiho tells Honami Saki is crying; Shiho’s regret is initially private, then reported to Ichika, and explicit apology reaches Honami in 19. Final apologies/membership/song are shared; the entire earlier rooftop exchange is not shown to arrivals. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_15:01:002:0041`; `PJSK:main:leo_01_15:01:003:0005`; `PJSK:main:leo_01_15:01:003:0013`; `PJSK:main:leo_01_18:01:003:0068`; `PJSK:main:leo_01_19:01:001:0014`; `PJSK:main:leo_01_19:01:001:0026`; HIGH.
+
+#### LN-EPI-SELF-WISH-P04
+
+**Prior:** Ichika believes she has done nothing despite prior acts.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Peers supply remembered agency; lyric notebook and Miku’s response lead to explicit self-recognition of wanting the four together. Honami recognizes wanting after acceptance. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_16:01:002:0022`; `PJSK:main:leo_01_16:01:003:0012`; `PJSK:main:leo_01_17:01:001:0029`; `PJSK:main:leo_01_19:01:001:0034`; HIGH.
+
+#### LN-EPI-CLASSROOM-P04
+
+**Prior:** Honami anticipates punishment for multiple affiliations.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Current classmates receive an elided history account, learn of band, apologize about Shiho and welcome continued contact. No exact complete biography/SEKAI transfer; trio observes bounded response. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_20:01:003:0007`; `PJSK:main:leo_01_20:01:003:0012`; `PJSK:main:leo_01_20:01:003:0019`; HIGH.
+
+#### LN-EPI-FAMILY-REPORT-P04
+
+**Prior:** No foundation-scope Tsukasa causal record.
+
+**APPEND_BOUNDED_KNOWLEDGE_RECORD:** Ichika reports Tsukasa making a musical to cheer sick Saki; Honami hears and recognizes his familiar behavior. No direct performance inspection or Tsukasa knowledge of Honami’s crisis. **Reason for this record:** Keep direct disclosure, inference, private thought and unshown transmission separate.
+
+**Evidence / confidence:** `PJSK:main:leo_01_12:01:002:0009`; `PJSK:main:leo_01_12:01:002:0010`; `PJSK:main:leo_01_12:01:002:0011`; HIGH.

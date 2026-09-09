@@ -54,11 +54,24 @@ SUPERSEDED
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
 - Latest closed forward transaction and positive N25 integration: `EVENT_0090`, I2 Ena expressive-method refinement; next `EVENT_0091`. All six longitudinal ledgers reach EVENT_0090. Two bounded cross-unit relationship responsibilities and three epistemic records are added without a new global human state. Preserve EVENT_0089's protective/family/KAITO records and unequal-information limits, EVENT_0080's Mafuyu–Shizuku state, `REL-N25-EM-5`, E0077 corrections and all unaffected increments. No completed art career, liberation or taste recovery.
 - Current N25 tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`.
-- Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
+- Completed main-story foundations: N25 and LEO_NEED. Remaining canonical foundations: MMJ, VBS, WXS. Leo/need is foundation-current through `leo_01_20`; its routed-event integration is still pending.
 - Franchise routing inventory reaches EVENT_0090, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0090 universal screens and earlier reusable complete readings retain their bounded authority.
+- Material routes for LEO_NEED, MMJ, VBS and WXS still require ordered foundation-aware interpretation. Leo/need now has its baseline; the other three foundations remain pending. EVENT_0046–0090 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
+
+### Leo/need foundation completion — 2026-09-09
+
+**Status: COMPLETE_FOUNDATION.** All 21 canonical stories and 1,746 ordered records were read; independently verified canonical digests and complete scene intervals are preserved in the [evidence index](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_EVIDENCE_INDEX.md). Phases were reviewed and their shared histories integrated in this order:
+
+| Phase | Source episodes | Records | Canonical responsibility | Reading |
+|---|---|---:|---|---|
+| P01 | `leo_01_00–03` | 394 | INTEGRATED: character, relationship, epistemic, claim and theme deltas reconciled at this endpoint | [P01](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P01_DEEP_READING.md) |
+| P02 | `leo_01_04–08` | 408 | INTEGRATED: character, relationship, epistemic, claim and theme deltas reconciled at this endpoint | [P02](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P02_DEEP_READING.md) |
+| P03 | `leo_01_09–11` | 234 | INTEGRATED: character, relationship, epistemic, claim and theme deltas reconciled at this endpoint | [P03](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P03_DEEP_READING.md) |
+| P04 | `leo_01_12–20` | 710 | INTEGRATED: character, relationship, epistemic, claim and theme deltas reconciled at this endpoint | [P04](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P04_DEEP_READING.md) |
+
+The [phase map](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md) explains the causal partition; the [synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md) was completed after the readings and reconciled after their state histories. Final foundation tuple `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`; group `LN-REL-G-P04`. School Miku/Luka remain distinct manifestations. Later event interpretations, character packages and readiness are pending. This closes Leo/need's unit-foundation prerequisite only, with no forward-event advancement or claim that incomplete earlier screens are closed.
 
 ### Historical initial summary
 

@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID"
-analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained"
+source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20"
+analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -29,6 +29,8 @@ The imported ledger reuses the following IDs for different claims. Historical id
 | `CR-N25-ENA-037` | §7.6, EVENT_0019 support under unexplained concern | §7.20, EVENT_0053 technical deficit versus artistic legitimacy |
 
 The EVENT_0070 heading `CR-N25-E-057 / talent-continuation architecture` is a dangling imported reference, not an additional established claim. Its stated EVENT_0053 continuation premise resolves to **`CR-N25-ENA-021`**, including the §7.20 strengthening. Use that responsible claim plus the EVENT_0070 extension when citing the passage. These reference repairs introduce no new source findings and confer no franchise-wide claim authority before the other unit foundations are completed.
+
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 ## 1. Purpose
 
@@ -1324,3 +1326,143 @@ Current tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; no addition
 - **`CR-N25-E-087`: PRESERVE, no new teaching outcome.** Ena interrogates and uses another person's goal-sensitive advice here. This is consonant with the prior pedagogy model but is not another scene of Ena successfully teaching someone else.
 
 All prior state/relationship claims survive, including K-E0089-01's protection alongside rescue obligation and the limits on Mafuyu's agency, taste and hotel knowledge. No new permanent claim ID or retrospective overwrite. An's partial relief, Shiho's rehearsal result and Nene's initiative remain deferred source-supported propositions, not current N25 claims or premature full-unit conclusions.
+
+## Leo/need main-story foundation — serial phase history
+
+Each record below is valid only at its named phase endpoint and preserves earlier states as historical evidence. Phase-end snapshots can preserve or newly disclose a property; they do not automatically assert a new durable personality. Source confidence is HIGH for the indicated support, with unshown transmission and future durability OPEN. Shared causes remain in the linked reading. Main-story family observations/reports do not advance another unit or confer private SEKAI knowledge. No later event evidence, I0–I3 release judgment or reconstruction readiness is imported.
+
+### LN-MS-P01 — episodes 00–03
+
+Source and causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P01_DEEP_READING.md). The following records resolve claim revision responsibility only.
+
+#### LN-CR-001
+
+**Prior:** No founded LN claim.
+
+**NEW:** Refusal proves restricted contact, not absent affection. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_02:01:002:0015`; `PJSK:main:leo_01_02:01:002:0019`; `PJSK:main:leo_01_02:01:002:0025`; HIGH.
+
+#### LN-CR-002
+
+**Prior:** No founded LN claim.
+
+**NEW:** Ichika’s inhibited present behavior is relationship-conditioned; childhood initiative and direct affection already exist. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:001:0012`; `PJSK:main:leo_01_01:01:003:0019`; HIGH.
+
+### LN-MS-P02 — episodes 04–08
+
+Source and causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P02_DEEP_READING.md). The following records resolve claim revision responsibility only.
+
+#### LN-CR-001
+
+**Prior:** LN-CR-001 P01.
+
+**STRENGTHEN:** Honami’s repeated refusal coexists with private longing and ordinary familiar pleasure. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_08:01:001:0033`; `PJSK:main:leo_01_08:01:002:0006`; HIGH.
+
+#### LN-CR-002
+
+**Prior:** LN-CR-002 P01.
+
+**STRENGTHEN:** Ichika initiates the duo and attempts another invitation; her self-blame minimizes real actions. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:004:0014`; `PJSK:main:leo_01_08:01:001:0042`; `PJSK:main:leo_01_08:01:003:0039`; HIGH.
+
+#### LN-CR-003
+
+**Prior:** P01 reunion hope unresolved.
+
+**NEW:** Shared space, recalled song and supported performance can motivate action without securing continuing consent. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_04:01:001:0073`; `PJSK:main:leo_01_05:01:001:0045`; `PJSK:main:leo_01_05:01:001:0047`; HIGH.
+
+#### LN-CR-004
+
+**Prior:** No founded practice claim.
+
+**NEW:** Learning and seriousness matter to music but cannot alone explain every social refusal. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_05:01:001:0011`; `PJSK:main:leo_01_07:01:001:0056`; `PJSK:main:leo_01_08:01:001:0043`; HIGH.
+
+### LN-MS-P03 — episodes 09–11
+
+Source and causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P03_DEEP_READING.md). The following records resolve claim revision responsibility only.
+
+#### LN-CR-004
+
+**Prior:** LN-CR-004 P02.
+
+**STRENGTHEN:** Shiho notices preparation, but care/disclosure and chosen risk produce membership after an interrupted trial. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_11:01:001:0005`; `PJSK:main:leo_01_11:01:001:0014`; `PJSK:main:leo_01_11:01:001:0064`; HIGH.
+
+#### LN-CR-005
+
+**Prior:** Shiho motive OPEN at P01/P02.
+
+**NEW:** Shiho’s real solitude preference, musical standards and protective estrangement are distinct coexisting causes. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0035`; `PJSK:main:leo_01_11:01:001:0031`; `PJSK:main:leo_01_11:01:001:0047`; HIGH.
+
+#### LN-CR-006
+
+**Prior:** No founded reciprocal-risk claim.
+
+**NEW:** Private protection can deny another person an informed choice about valued affiliation. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_11:01:001:0051`; `PJSK:main:leo_01_11:01:001:0055`; `PJSK:main:leo_01_11:01:001:0061`; HIGH.
+
+### LN-MS-P04 — episodes 12–20
+
+Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P04_DEEP_READING.md). The following records resolve claim revision responsibility only.
+
+#### LN-CR-001
+
+**Prior:** LN-CR-001 P01/P02.
+
+**REVISE:** Honami’s refusal is now explained through fear of exclusion, exclusive association and care; lack-of-affection reading is rejected. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_12:01:002:0074`; `PJSK:main:leo_01_12:01:002:0078`; `PJSK:main:leo_01_19:01:001:0034`; HIGH.
+
+#### LN-CR-002
+
+**Prior:** LN-CR-002 P01/P02.
+
+**STRENGTHEN:** Peer memories, old lyrics and a new invitation restore/strengthen Ichika’s agency rather than create it from nothing. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_15:01:003:0021`; `PJSK:main:leo_01_16:01:003:0012`; `PJSK:main:leo_01_18:01:003:0026`; HIGH.
+
+#### LN-CR-007
+
+**Prior:** Earlier motive uncertainty.
+
+**NEW:** Honami’s restricted affiliation is a fear-shaped response to exclusion; self-protection and concern for others coexist. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_12:01:002:0042`; `PJSK:main:leo_01_12:01:002:0058`; `PJSK:main:leo_01_12:01:002:0078`; HIGH.
+
+#### LN-CR-008
+
+**Prior:** No exhaustive-motive claim permitted.
+
+**NEW:** Selfishness is Shiho’s accusation/Honami’s self-judgment, qualified by evidenced care and Shiho’s explicit regret. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_15:01:002:0058`; `PJSK:main:leo_01_15:01:003:0003`; `PJSK:main:leo_01_18:01:003:0056`; `PJSK:main:leo_01_19:01:001:0014`; HIGH.
+
+#### LN-CR-009
+
+**Prior:** Honami anticipates repeated exclusion.
+
+**NEW:** Plural belonging succeeds with these current classmates; no universal social-safety or prior-bullying-erasure claim follows. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_17:01:003:0029`; `PJSK:main:leo_01_20:01:003:0008`; `PJSK:main:leo_01_20:01:003:0012`; HIGH.
+
+#### LN-CR-010
+
+**Prior:** Group repaired but future activity previously prospective.
+
+**NEW:** Ending establishes chosen serious practice, a named band and an original-song initiative; no professional outcome is established. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_20:01:003:0015`; `PJSK:main:leo_01_20:01:005:0019`; `PJSK:main:leo_01_20:01:005:0025`; `PJSK:main:leo_01_20:01:005:0030`; HIGH.

@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID"
-analysis_cutoff: "EVENT_0090 I2 thematic refinement; broader comparison awaits founded longitudinal interpretation"
+source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID; Leo/need main-story phase history through leo_01_20"
+analysis_cutoff: "EVENT_0090 I2 thematic refinement; broader comparison awaits founded longitudinal interpretation; LN foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0090**, operationalizing `TH-N25-032`'s technique-expression relation and qualifying `TH-N25-003`'s use of art as psychological evidence with dialogue and reception context. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Preserve EVENT_0089's first-person authority, usable choice, reciprocal warmth, partial efficacy and contested refuge refinements, and all earlier ID-qualified meanings. Other-unit foundations and 21 older universal screens remain unfinished; this event does not certify a franchise-wide theory.
+N25 thematic authority reaches **EVENT_0090**, operationalizing `TH-N25-032`'s technique-expression relation and qualifying `TH-N25-003`'s use of art as psychological evidence with dialogue and reception context. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Preserve EVENT_0089's first-person authority, usable choice, reciprocal warmth, partial efficacy and contested refuge refinements, and all earlier ID-qualified meanings. MMJ/VBS/WXS foundations, Leo/need routed history and 21 older universal screens remain unfinished; this event does not certify a franchise-wide theory.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -31,6 +31,8 @@ The imported history reuses several identifiers for distinct meanings. Preserve 
 | `MO-N25-014` | §12.7 souvenir/commemorative object, EVENT_0029; §12.21 sakura/shared experience, EVENT_0054 |
 
 New references must resolve the intended meaning from the local formulation and evidence, never infer it from the repeated ID alone. This is a citation-integrity clarification, not a new thematic finding or a rewrite of the historical source boundaries.
+
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 ## 1. Purpose and caution
 
@@ -1248,3 +1250,97 @@ The event’s discord is an enacted disagreement over meaning and access; the ti
 - **`TH-N25-003`: STRENGTHEN with interpretation limits.** Ena articulates peaceful company through a sketch and receives that reading, while recognizing a shared viewing context. Shiho initially admires an intense sound without knowing its cause; later dialogue supports a more specific interpretation. Work can communicate feeling without granting transparent access to every private motive (`PJSK:event:0090:05:001:0002–0028`; `PJSK:event:0090:06:002:0034–0077`; `PJSK:event:0090:07:001:0002–0049`; `PJSK:card:0621:02:001:0026–0044`).
 
 The fish pair is Ena's chosen local image of peaceful company, not an established real pairing, fixed N25 character map or guarantee of permanent togetherness. Nene's nonliteral acting advice is a useful deferred comparison, but no pedagogical transmission from Yukihira to Nene is shown. Painful effort is not uniquely authentic: excellent café singing and a joyful session remain valid, while later An material preserves continuing pressure and concealment. Existing theme responsibilities suffice; no new recurring motif or final comparative synthesis. Next EVENT_0091.
+
+## Leo/need main-story foundation — serial phase history
+
+Each record below is valid only at its named phase endpoint and preserves earlier states as historical evidence. Phase-end snapshots can preserve or newly disclose a property; they do not automatically assert a new durable personality. Source confidence is HIGH for the indicated support, with unshown transmission and future durability OPEN. Shared causes remain in the linked reading. Main-story family observations/reports do not advance another unit or confer private SEKAI knowledge. No later event evidence, I0–I3 release judgment or reconstruction readiness is imported.
+
+`LN-TH-*` is unit-local foundation authority with cross-event and cross-unit validation pending. Each recurrence/refinement below retains its earlier scene function; no symbolic code or franchise-wide theme is certified.
+
+### LN-MS-P01 — episodes 00–03
+
+Source and causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P01_DEEP_READING.md). The following records resolve theme and motif responsibility only.
+
+#### LN-TH-001
+
+**Prior:** No founded LN motif entry.
+
+**NEW:** Stars mark shared past and separately continuing attachment; parallel attention does not transmit knowledge. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:001:0021`; `PJSK:main:leo_01_00:01:007:0047`; `PJSK:main:leo_01_00:01:007:0064`; HIGH.
+
+### LN-MS-P02 — episodes 04–08
+
+Source and causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P02_DEEP_READING.md). The following records resolve theme and motif responsibility only.
+
+#### LN-TH-001
+
+**Prior:** Earlier LN-TH-001 remains valid within its phase.
+
+**STRENGTHEN:** Honami links unseen stars to absent companions; this is private interpretation, not ordinary-world emotional control of the sky. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_08:01:002:0005`; `PJSK:main:leo_01_08:01:002:0006`; HIGH.
+
+#### LN-TH-002
+
+**Prior:** No founded LN motif entry.
+
+**NEW:** Creative practice converts care into available action when complete reunion is unavailable. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:004:0022`; `PJSK:main:leo_01_07:01:001:0055`; HIGH.
+
+### LN-MS-P03 — episodes 09–11
+
+Source and causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P03_DEEP_READING.md). The following records resolve theme and motif responsibility only.
+
+#### LN-TH-001
+
+**Prior:** Earlier LN-TH-001 remains valid within its phase.
+
+**STRENGTHEN:** Shared roof/star memory motivates reunion; Shiho’s mistaken airplane preserves uncertainty about hoped-for signs. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:003:0014`; `PJSK:main:leo_01_10:01:001:0053`; `PJSK:main:leo_01_10:01:001:0061`; HIGH.
+
+#### LN-TH-003
+
+**Prior:** No founded LN motif entry.
+
+**NEW:** Serious collaboration combines work, mutual care and informed choice of association. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_11:01:001:0005`; `PJSK:main:leo_01_11:01:001:0014`; `PJSK:main:leo_01_11:01:001:0055`; HIGH.
+
+### LN-MS-P04 — episodes 12–20
+
+Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P04_DEEP_READING.md). The following records resolve theme and motif responsibility only.
+
+#### LN-TH-001
+
+**Prior:** Earlier LN-TH-001 remains valid within its phase.
+
+**STRENGTHEN:** Stars become shared pleasure, ordinary-world continuity and collaborative band-name symbolism. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_18:01:003:0011`; `PJSK:main:leo_01_20:01:001:0004`; `PJSK:main:leo_01_20:01:005:0021`; HIGH.
+
+#### LN-TH-002
+
+**Prior:** Earlier LN-TH-002 remains valid within its phase.
+
+**STRENGTHEN:** After feelings-derived needLe, Ichika’s lyrics for Saki’s melody make ordinary creative labor a concrete future. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_19:01:001:0064`; `PJSK:main:leo_01_20:01:005:0025`; HIGH.
+
+#### LN-TH-003
+
+**Prior:** Earlier LN-TH-003 remains valid within its phase.
+
+**STRENGTHEN:** Serious practice persists after friendship repair; no standard-free utopia or proven professional future. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_19:01:001:0028`; `PJSK:main:leo_01_20:01:005:0030`; HIGH.
+
+#### LN-TH-004
+
+**Prior:** No founded LN motif entry.
+
+**NEW:** Reciprocal repair must include both speaker’s wish and recipient’s answer; renunciation and accusation have limits. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_14:01:005:0021`; `PJSK:main:leo_01_15:01:003:0005`; `PJSK:main:leo_01_17:01:001:0029`; `PJSK:main:leo_01_19:01:001:0026`; HIGH.

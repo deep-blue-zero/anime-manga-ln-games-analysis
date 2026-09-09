@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained"
-analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained"
+source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20"
+analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,9 @@ mutable: true
 
 Relationship authority reaches **EVENT_0090**, adding `REL-CROSS-ENA-SHIHO-E0090` and `REL-CROSS-ENA-AN-E0090` as bounded acquaintance records. Shiho's shown introduction differs from An's already established acquaintance; neither establishes intimate or guarded N25 knowledge. Existing creative/group bonds receive contextual evidence without successor IDs.
 
-EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. Other foundations and 21 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
+EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. MMJ/VBS/WXS foundations, Leo/need routed history and 21 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
+
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 ## 1. Purpose
 
@@ -1746,3 +1748,127 @@ Current relationships require the epistemic ledger’s unequal-information const
 **Directional limit:** warm reciprocal response does not replace their existing relationships or transmit Mizuki's guarded content. An's private comparative worry is not disclosed to Ena here. The art-shop exchange adds shared interest without certifying professional authority (`PJSK:area:areatalk_ev_shuffle_30_003:01`).
 
 **Preserve established N25 relationships.** Ena's wish to express her colleagues' music supplies her own continuing commitment; it does not independently prove a new Kanade response or group transition. `REL-CROSS-ENA-HONAMI-E0070` receives only Honami's attributed photograph/report bridge, not a fresh direct Ena–Honami encounter. Yukihira's selected feedback belongs to the established learning context, with the artist's dissent and application both retained. Other-unit dyads remain routed pending their foundations. No guarded-content or hotel-meeting knowledge transfer.
+
+## Leo/need main-story foundation — serial phase history
+
+Each record below is valid only at its named phase endpoint and preserves earlier states as historical evidence. Phase-end snapshots can preserve or newly disclose a property; they do not automatically assert a new durable personality. Source confidence is HIGH for the indicated support, with unshown transmission and future durability OPEN. Shared causes remain in the linked reading. Main-story family observations/reports do not advance another unit or confer private SEKAI knowledge. No later event evidence, I0–I3 release judgment or reconstruction readiness is imported.
+
+### LN-MS-P01 — episodes 00–03
+
+Source and causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P01_DEEP_READING.md). The following records resolve relationship responsibility only.
+
+#### LN-REL-G-P01
+
+**Prior:** No founded group entry
+
+**APPEND_HISTORICAL_GROUP_STATE:** Fractured childhood quartet; active Ichika–Saki dyad; warm signals and shared memories do not constitute restored access or membership. **Reason for this record:** A change in group topology is independent of every member undergoing a new personality state.
+
+**Evidence / confidence:** `PJSK:main:leo_01_02:01:002:0025`; `PJSK:main:leo_01_03:01:002:0029`; HIGH.
+
+### LN-MS-P02 — episodes 04–08
+
+Source and causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P02_DEEP_READING.md). The following records resolve relationship responsibility only.
+
+#### LN-REL-G-P02
+
+**Prior:** LN-REL-G-P01
+
+**APPEND_HISTORICAL_GROUP_STATE:** Chosen practicing Ichika–Saki duo; four-person contact/performance has occurred but Shiho/Honami refused the band. Honami–Shiho inquiry remains unresolved. Predecessor: `LN-REL-G-P01`. **Reason for this record:** A change in group topology is independent of every member undergoing a new personality state.
+
+**Evidence / confidence:** `PJSK:main:leo_01_05:01:001:0045`; `PJSK:main:leo_01_05:01:001:0047`; `PJSK:main:leo_01_06:01:004:0014`; HIGH.
+
+#### LN-REL-SCHOOL-VS-MS
+
+**Prior:** Initial dream-framed/entry encounter only.
+
+**ESTABLISH_BOUNDED_RELATIONSHIP_RECORD:** School Miku makes return instructions conditional on an initial performance and participates when it falters; this obtains one song, not continuing consent. Luka joins technical teaching. The duo subsequently chooses repeated practice. The singers’ confidence about shared wishes does not establish all private knowledge. **Manifestations:** School/Classroom SEKAI Miku, School/Classroom SEKAI Luka. **Reason for this record:** Manifestation-specific support and leverage should both remain visible.
+
+**Evidence / confidence:** `PJSK:main:leo_01_04:01:001:0073`; `PJSK:main:leo_01_05:01:001:0025`; `PJSK:main:leo_01_07:01:001:0031`; `PJSK:main:leo_01_07:01:001:0056`; HIGH.
+
+### LN-MS-P03 — episodes 09–11
+
+Source and causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P03_DEEP_READING.md). The following records resolve relationship responsibility only.
+
+#### LN-REL-G-P03
+
+**Prior:** LN-REL-G-P02
+
+**APPEND_HISTORICAL_GROUP_STATE:** Explicit Ichika–Saki–Shiho trio after disclosure and request; Honami remains outside and privately lonely. Serious practice and care for Saki’s limits coexist. Predecessor: `LN-REL-G-P02`. **Reason for this record:** A change in group topology is independent of every member undergoing a new personality state.
+
+**Evidence / confidence:** `PJSK:main:leo_01_11:01:001:0064`; `PJSK:main:leo_01_11:01:001:0073`; HIGH.
+
+### LN-MS-P04 — episodes 12–20
+
+Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P04_DEEP_READING.md). The following records resolve relationship responsibility only.
+
+#### LN-REL-G-P04
+
+**Prior:** LN-REL-G-P03
+
+**APPEND_HISTORICAL_GROUP_STATE:** Explicit four-member Leo/need; reciprocal apology and practical music future; Honami can retain current classmates. Preserve six differentiated dyad histories and remaining vulnerabilities. Predecessor: `LN-REL-G-P03`. **Reason for this record:** A change in group topology is independent of every member undergoing a new personality state.
+
+**Evidence / confidence:** `PJSK:main:leo_01_19:01:001:0024`; `PJSK:main:leo_01_19:01:001:0026`; `PJSK:main:leo_01_20:01:003:0013`; `PJSK:main:leo_01_20:01:005:0030`; HIGH.
+
+#### LN-REL-ICHIKA-SAKI-MS
+
+**Prior:** Relevant earlier LN group/character/epistemic states; no deletion or replacement of their valid historical boundaries.
+
+**APPEND_DYAD_HISTORY_WITH_PHASE_LABELS:** P01 easy reunion dyad -> P02 shared practice and distributed initiative -> P03 reciprocal work/care -> P04 mutual recognition and fully shared belonging. **Constraint:** Trust and humor predate reunion; Saki’s missing history and Ichika’s withheld explanation must remain earlier-state constraints. **Reason for this record:** Preserve asymmetric relationship history in independently retrievable form; the pair is not reducible to a generic group bond.
+
+**Evidence / confidence:** `PJSK:main:leo_01_01:01:003:0019`; `PJSK:main:leo_01_03:01:002:0029`; `PJSK:main:leo_01_06:01:004:0014`; `PJSK:main:leo_01_16:01:002:0022`; HIGH.
+
+#### LN-REL-ICHIKA-SHIHO-MS
+
+**Prior:** Relevant earlier LN group/character/epistemic states; no deletion or replacement of their valid historical boundaries.
+
+**APPEND_DYAD_HISTORY_WITH_PHASE_LABELS:** P01 restricted unexplained contact -> P03 disclosed protection and informed chosen association -> P04 reciprocal recognition and ordinary affectionate embarrassment. **Constraint:** Shiho’s warning does not eliminate social risk; Ichika actively chooses friendship. **Reason for this record:** Preserve asymmetric relationship history in independently retrievable form; the pair is not reducible to a generic group bond.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:005:0008`; `PJSK:main:leo_01_11:01:001:0047`; `PJSK:main:leo_01_11:01:001:0055`; `PJSK:main:leo_01_15:01:003:0025`; `PJSK:main:leo_01_20:01:003:0025`; HIGH.
+
+#### LN-REL-ICHIKA-HONAMI-MS
+
+**Prior:** Relevant earlier LN group/character/epistemic states; no deletion or replacement of their valid historical boundaries.
+
+**APPEND_DYAD_HISTORY_WITH_PHASE_LABELS:** P01 interrupted affiliation -> P02 intermittent ordinary ease and refusal -> P04 direct history disclosure, affirmative invitation and accepted belonging. **Constraint:** Past attempts to help and apple-pie discretion preclude describing trust as wholly absent until the rooftop. **Reason for this record:** Preserve asymmetric relationship history in independently retrievable form; the pair is not reducible to a generic group bond.
+
+**Evidence / confidence:** `PJSK:main:leo_01_08:01:001:0033`; `PJSK:main:leo_01_08:01:003:0024`; `PJSK:main:leo_01_12:01:002:0072`; `PJSK:main:leo_01_18:01:003:0063`; HIGH.
+
+#### LN-REL-SAKI-SHIHO-MS
+
+**Prior:** Relevant earlier LN group/character/epistemic states; no deletion or replacement of their valid historical boundaries.
+
+**APPEND_DYAD_HISTORY_WITH_PHASE_LABELS:** Repeated declined invitations -> negotiated musical trial and membership -> care for limits with teasing and seriousness retained. **Constraint:** Persistence does not erase Shiho’s condition or her explicit final request. **Reason for this record:** Preserve asymmetric relationship history in independently retrievable form; the pair is not reducible to a generic group bond.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0030`; `PJSK:main:leo_01_09:01:002:0043`; `PJSK:main:leo_01_11:01:001:0064`; `PJSK:main:leo_01_16:01:002:0005`; HIGH.
+
+#### LN-REL-SAKI-HONAMI-MS
+
+**Prior:** Relevant earlier LN group/character/epistemic states; no deletion or replacement of their valid historical boundaries.
+
+**APPEND_DYAD_HISTORY_WITH_PHASE_LABELS:** Warm but interrupted reunion -> painful relinquishment to respect present friends -> reciprocal apologies and renewed band belonging. **Constraint:** Honami does not witness Saki’s episode-14 tears; Shiho later tells her. Saki’s absence-related guilt is not culpability. **Reason for this record:** Preserve asymmetric relationship history in independently retrievable form; the pair is not reducible to a generic group bond.
+
+**Evidence / confidence:** `PJSK:main:leo_01_02:01:002:0019`; `PJSK:main:leo_01_13:01:002:0058`; `PJSK:main:leo_01_14:01:005:0008`; `PJSK:main:leo_01_19:01:001:0009`; `PJSK:main:leo_01_19:01:001:0026`; HIGH.
+
+#### LN-REL-SHIHO-HONAMI-MS
+
+**Prior:** Relevant earlier LN group/character/epistemic states; no deletion or replacement of their valid historical boundaries.
+
+**APPEND_DYAD_HISTORY_WITH_PHASE_LABELS:** Inquiry/frustration under incomplete knowledge -> injurious confrontation -> private regret -> explicit apology accepted with acknowledgment of helpful challenge. **Constraint:** Preserve the injury and the apology alongside Honami’s gratitude; no flawless-counselor conclusion. **Reason for this record:** Preserve asymmetric relationship history in independently retrievable form; the pair is not reducible to a generic group bond.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:003:0015`; `PJSK:main:leo_01_13:01:002:0021`; `PJSK:main:leo_01_15:01:002:0030`; `PJSK:main:leo_01_15:01:003:0005`; `PJSK:main:leo_01_19:01:001:0014`; `PJSK:main:leo_01_19:01:001:0017`; HIGH.
+
+#### LN-REL-SCHOOL-VS-MS
+
+**Prior:** LN-REL-SCHOOL-VS-MS through P02/P03 practice.
+
+**STRENGTHEN_WITH_P04_INCREMENT:** Singers help Ichika recognize her own wish, facilitate final four-person gathering and join music with acknowledged gratitude; anticipation/teasing demonstrates their own involvement. **Reason for this record:** The helpers assist decisions rather than replacing the four members’ assent.
+
+**Evidence / confidence:** `PJSK:main:leo_01_17:01:001:0019`; `PJSK:main:leo_01_18:01:003:0069`; `PJSK:main:leo_01_19:01:001:0053`; `PJSK:main:leo_01_20:01:006:0004`; HIGH.
+
+#### LN-REL-HONAMI-CURRENT-CLASS-MS
+
+**Prior:** P01/P02 affiliation guarded; current peers make negative assumptions about Shiho, with no explicit exclusion rule.
+
+**ESTABLISH_BOUNDED_RELATIONSHIP_RECORD:** Honami discloses past difficulty; classmates thank her, explain concern, apologize about Shiho and welcome introduction/live attendance. Local plural belonging becomes possible. **Reason for this record:** Separate present classmates from former exclusion group; preserve earlier gossip and later correction.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:003:0024`; `PJSK:main:leo_01_17:01:003:0029`; `PJSK:main:leo_01_20:01:003:0008`; `PJSK:main:leo_01_20:01:003:0012`; `PJSK:main:leo_01_20:01:003:0014`; HIGH. **Limits / OPEN:** Exact elided disclosure content remains OPEN; no SEKAI transmission established.

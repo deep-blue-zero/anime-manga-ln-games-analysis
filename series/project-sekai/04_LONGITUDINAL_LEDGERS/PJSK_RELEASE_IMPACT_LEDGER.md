@@ -19,6 +19,8 @@ The last completed forward event transaction is **EVENT_0090**; the next is **EV
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package. Earlier pending-release passages are historical handoffs.
 
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
 ## 1. Purpose
 
 Mutable ledger recording the analytical effect of releases after source ingestion. Source-current does not equal analysis-current. A release enters this ledger when triaged or integrated.
@@ -2411,3 +2413,7 @@ All 25 canonical stories were fully read and actual-file SHA-256 matched against
 N25 PRIMARY/HIGH/R3-yield I2 refines Ena's established E0070/E0077 model: intended subject selects useful technical information, communicative value coexists with named defects, and shared observer context qualifies reception. The two bounded acquaintance records do not create a global human transition. No completed new illustration/audience increase or private-group disclosure is shown.
 
 LEO_NEED PRIMARY/HIGH/R3, VBS PRIMARY/VERY_HIGH/R3, WXS SECONDARY/HIGH/R3 and MMJ CROSS_UNIT/LOW/R1 remain deferred. Preserve Shiho's mutual practice responsibility without completed debut; An's supported partial relief with continuing pressure/concealment; Nene's actual rehearsal initiative without completed mastery; bounded dog-walking/family reciprocity. School and Street manifestations remain distinct, with no Empty singer. All six ledgers update proportionately; four foundations/deferred histories, 21 older screens, character packages/readiness, syntheses, final audits and protected integration remain incomplete. Next EVENT_0091.
+
+## Leo/need main-story foundation completion
+
+The complete 21-story / 1,746-record main-story foundation now supplies four causal phase readings, an evidence index and a reviewed synthesis. Character, relationship, epistemic, claim and theme histories were integrated in P01→P04 order. This is foundation completion, with **no event-impact classification or existing event-row reassignment**. Leo/need's main-story baseline is available for ordered routed-event comparison; its later routes remain deferred pending that work. EVENT_0090 remains the closed forward boundary and EVENT_0091 the next forward event; N25's current tuple and all previously bounded event judgments remain valid. Main-story completion supplies no final character-readiness or longitudinal-synthesis certification.

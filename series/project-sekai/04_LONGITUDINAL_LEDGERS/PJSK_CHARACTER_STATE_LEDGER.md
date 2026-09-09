@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained"
-analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01"
+source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20"
+analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN foundation-current P04 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,9 @@ mutable: true
 
 The verified forward analytical frontier is **EVENT_0090**, an I2 refinement of Ena's working artistic method. Current global human defaults remain **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Ena now supplies explicit subject-to-technique selection, qualified reception assessment and subsequent practice evidence; these operationalize the existing aesthetic state rather than replace it. EVENT_0089 remains the latest global human transition: Kanade sustains recipient-directed protection after failed parental trust, retaining bounded self-permission, supported ordinary competence and rescue obligation.
 
-Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. Other human-unit foundations and 21 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
+Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. MMJ/VBS/WXS foundations, Leo/need routed history and 21 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
+
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ, VBS and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 ## 1. Purpose and authority
 
@@ -1355,3 +1357,215 @@ Current tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`. All earlie
 She plans composition/perspective corrections while considering nonliteral lighting to preserve the intended warmth. Reception remains qualified because both observers saw the same fish. She wants stronger pictures to convey her colleagues' musical world, then chooses further practice over the missed shopping stop; the revised output and broader audience remain future (`PJSK:card:0621:02:001:0002–0011`; `PJSK:card:0621:02:001:0026–0054`; `PJSK:event:0090:05:001:0042–0055`). This makes the E0070/E0077 technique-expression distinction operational, not newly discovered or professionally mastered.
 
 Warm introduction, embarrassment after aspiration talk, unprompted cleaning of An's dusty clothes and modest acceptance of an illustrator conversation preserve ordinary interpersonal range (`PJSK:event:0090:04:001:0002–0008`; `PJSK:event:0090:05:002:0002–0007`; `PJSK:area:areatalk_ev_shuffle_30_002:01`; `PJSK:area:areatalk_ev_shuffle_30_003:01`). Her existing anger/envy/criticism sensitivity is not erased. No other N25 human acquires a state delta from these reports. School and Street singers remain separate deferred manifestations; no Empty singer is present. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0090_DEEP_READING.md) owns shared causes and other-unit routes. No complete reconstruction package is certified.
+
+## Leo/need main-story foundation — serial phase history
+
+Each record below is valid only at its named phase endpoint and preserves earlier states as historical evidence. Phase-end snapshots can preserve or newly disclose a property; they do not automatically assert a new durable personality. Source confidence is HIGH for the indicated support, with unshown transmission and future durability OPEN. Shared causes remain in the linked reading. Main-story family observations/reports do not advance another unit or confer private SEKAI knowledge. No later event evidence, I0–I3 release judgment or reconstruction readiness is imported.
+
+### LN-MS-P01 — episodes 00–03
+
+Source and causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P01_DEEP_READING.md). The following records resolve character responsibility only.
+
+#### LN-ICHIKA-MS-P01
+
+**Prior:** No integrated Leo/need main-story baseline; preserve all existing cross-unit/event-scoped entries.
+
+**Ichika — INITIALIZE_FOUNDATION_SNAPSHOT.** Valid at `PJSK:main:leo_01_03:01 END`. Self-concept: Believes she cannot readily repair the friends’ distance; compares her immobility with admired Miku freedom. Goals: Stay with childhood friends; accompany and protect Saki’s return. Fears/uncertainty: Permanent separation and inability to help.
+
+**Emotion and presentation:** Lonely and hesitant around damaged ties; openly happy with Saki. Minimizes trouble to classmates and offers Saki a benign busyness explanation. **Coping and agency:** Tentative small talk, withdrawal, listening to music and accompanying Saki. Attempts contact but abandons openings; practical companionship remains active. **Speech:** Hesitant toward Shiho/Honami; direct gratitude and affectionate complaint to Saki.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-ICHIKA-MS-P02`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:005:0011`; `PJSK:main:leo_01_01:01:003:0019`; `PJSK:main:leo_01_02:01:002:0029`; `PJSK:main:leo_01_03:01:007:0010`; HIGH. **Limits / OPEN:** Causes of the two withdrawals unknown at this endpoint. Saki’s motive for changing topics is Ichika’s inference.
+
+#### LN-SAKI-MS-P01
+
+**Prior:** No integrated Leo/need main-story baseline; preserve all existing cross-unit/event-scoped entries.
+
+**Saki — INITIALIZE_FOUNDATION_SNAPSHOT.** Valid at `PJSK:main:leo_01_03:01 END`. Self-concept: Returned participant eager for youth; initially expects restored proximity to restore the quartet. Goals: Enjoy school, club, fashion, food and the four friends. Fears/uncertainty: Worry about inconveniencing others through illness; uncertainty about the history she missed.
+
+**Emotion and presentation:** Energetic and playful; explicitly lonely with only Ichika. Cheerful self-introduction and quick return to positive topics; pain is not absent. **Coping and agency:** Initiates outings/invitations, jokes and shares ordinary pleasures. Strong initiative; begins suspecting omitted history. **Speech:** Familiar nicknames; playful mock-formality with Ichika; direct requests.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SAKI-MS-P02`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_01:01:003:0009`; `PJSK:main:leo_01_01:01:003:0014`; `PJSK:main:leo_01_03:01:002:0011`; `PJSK:main:leo_01_03:01:002:0029`; `PJSK:main:leo_01_03:01:007:0005`; HIGH. **Limits / OPEN:** Health stability is not certified by her recovered self-description. Missing middle-school history remains unavailable.
+
+#### LN-HONAMI-MS-P01
+
+**Prior:** No integrated Leo/need main-story baseline; preserve all existing cross-unit/event-scoped entries.
+
+**Honami — INITIALIZE_FOUNDATION_SNAPSHOT.** Valid at `PJSK:main:leo_01_03:01 END`. Self-concept: Self-account not yet disclosed; attachment and social inhibition coexist. Goals: Maintain current peer association while retaining concern for old friends. Fears/uncertainty: Specific cause of inhibited affiliation remains OPEN.
+
+**Emotion and presentation:** Warm concern followed by hesitation; private state only partly shown. Apologetic departures and indirect explanations of knowledge. **Coping and agency:** Deflects questions and changes topic during disparaging talk. Small corrections and concern, limited sustained approach. **Speech:** Familiar name-plus-chan address, hesitations, apologies and soft topic shifts.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-HONAMI-MS-P02`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:004:0004`; `PJSK:main:leo_01_02:01:002:0019`; `PJSK:main:leo_01_02:01:002:0025`; `PJSK:main:leo_01_02:01:004:0019`; `PJSK:main:leo_01_02:01:004:0028`; HIGH. **Limits / OPEN:** Do not attribute past exclusion causes before disclosure. Current classmates have not explicitly banned other friends.
+
+#### LN-SHIHO-MS-P01
+
+**Prior:** No integrated Leo/need main-story baseline; preserve all existing cross-unit/event-scoped entries.
+
+**Shiho — INITIALIZE_FOUNDATION_SNAPSHOT.** Valid at `PJSK:main:leo_01_03:01 END`. Self-concept: Active bassist with restricted social contact; fuller self-account unavailable. Goals: Continue bass practice/work; control access to her time. Fears/uncertainty: Motives behind friendship refusal remain OPEN.
+
+**Emotion and presentation:** Reserved and brief; relief at Saki’s return is explicit. Practical reasons for leaving; observers judge her intimidating. **Coping and agency:** Withdraws or ends conversation rather than explaining. Musical agency active; relational engagement curtailed. **Speech:** Short practical answers; relief at return prevents reducing brevity to dislike.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SHIHO-MS-P02`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:005:0005`; `PJSK:main:leo_01_01:01:002:0020`; `PJSK:main:leo_01_02:01:002:0015`; `PJSK:main:leo_01_03:01:005:0005`; HIGH. **Limits / OPEN:** Solitude, protection and musical standards not yet causally distinguished.
+
+### LN-MS-P02 — episodes 04–08
+
+Source and causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P02_DEEP_READING.md). The following records resolve character responsibility only.
+
+#### LN-ICHIKA-MS-P02
+
+**Prior:** LN-ICHIKA-MS-P01; retain as historical phase endpoint.
+
+**Ichika — ADVANCE_AGENCY_WITH_RETAINED_INHIBITION.** Valid at `PJSK:main:leo_01_08:01 END`. Self-concept: Can do something with Saki even if the quartet cannot yet return; still minimizes past helpful actions. Goals: Practice toward future reunion and answer Saki’s persistence. Fears/uncertainty: Another refusal; having failed Honami in middle school.
+
+**Emotion and presentation:** Hopeful in practice, guilty and uncertain after refusal. Polite checks before visiting; hesitates during invitations. **Coping and agency:** Begins a duo, seeks tuition, approaches Honami and reflects on past. Initiates a feasible step instead of waiting for all four. **Speech:** Tentative invitations coexist with explicit practical proposal.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-ICHIKA-MS-P03`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:004:0014`; `PJSK:main:leo_01_06:01:004:0021`; `PJSK:main:leo_01_07:01:001:0023`; `PJSK:main:leo_01_08:01:001:0042`; `PJSK:main:leo_01_08:01:003:0039`; HIGH. **Limits / OPEN:** Self-blame is not evidence that earlier help was absent. Full causes of withdrawal still unknown.
+
+#### LN-SAKI-MS-P02
+
+**Prior:** LN-SAKI-MS-P01; retain as historical phase endpoint.
+
+**Saki — ADVANCE_TO_PRACTICE_COMMITMENT.** Valid at `PJSK:main:leo_01_08:01 END`. Self-concept: Can pursue hoped-for reunion through learning rather than invitation alone. Goals: Develop synth skill and play with all four. Fears/uncertainty: Refusal persists; uncertainty about what happened while absent.
+
+**Emotion and presentation:** Enthusiastic, playful and receptive to instruction. Optimism and imagined Shiho response; no claim of complete understanding. **Coping and agency:** Persists, thanks helpers, asks technical questions and practices. Accepts duo and technical work; does not yet secure other members. **Speech:** Nickname intimacy and Shiho imitation; polite appreciative exchanges with Luka.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SAKI-MS-P03`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_05:01:001:0064`; `PJSK:main:leo_01_07:01:001:0022`; `PJSK:main:leo_01_07:01:001:0044`; `PJSK:main:leo_01_07:01:001:0055`; `PJSK:main:leo_01_08:01:001:0005`; HIGH. **Limits / OPEN:** Sustainable pacing remains untested.
+
+#### LN-HONAMI-MS-P02
+
+**Prior:** LN-HONAMI-MS-P01; retain as historical phase endpoint.
+
+**Honami — DOCUMENT_EXISTING_STATE_WITH_NEW_PRIVATE_EVIDENCE.** Valid at `PJSK:main:leo_01_08:01 END`. Self-concept: Privately questions continued avoidance and misses the others; public affiliation remains guarded. Goals: Avoid social conflict; care for others; desire companionship she declines. Fears/uncertainty: Remembered demand to choose a side; full origin still undisclosed.
+
+**Emotion and presentation:** Momentary ease about apple pie, then shame/longing. Minimizes closeness to Shiho and gives reasons to leave. **Coping and agency:** Brief mediation, tentative defense, topic deflection and withdrawal. Can correct and converse but rejects a band invitation. **Speech:** Familiar small talk and request for discretion; hesitation under affiliation questions.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-HONAMI-MS-P03`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_05:01:001:0016`; `PJSK:main:leo_01_06:01:003:0032`; `PJSK:main:leo_01_06:01:003:0036`; `PJSK:main:leo_01_08:01:001:0033`; `PJSK:main:leo_01_08:01:002:0006`; HIGH. **Limits / OPEN:** The current classmates are not the source of the recalled accusation. Private longing is not yet transmitted to Ichika.
+
+#### LN-SHIHO-MS-P02
+
+**Prior:** LN-SHIHO-MS-P01; retain as historical phase endpoint.
+
+**Shiho — DOCUMENT_RETAINED_STATE_AND_PROBING_CONCERN.** Valid at `PJSK:main:leo_01_08:01 END`. Self-concept: Serious playing matters; asks whether Honami shares the others’ feeling while retaining refusal. Goals: Maintain musical standards and understand the unexpected shared place. Fears/uncertainty: Specific protective withdrawal logic not yet disclosed.
+
+**Emotion and presentation:** Irritated, observant and guarded; Shizuku notices lower spirits. Dismisses sister’s concern and restricts school approach. **Coping and agency:** Precise musical correction and short social refusals. Initiates inquiry to Honami; does not join. **Speech:** Direct tempo instruction differs from curt private-boundary setting.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SHIHO-MS-P03`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_05:01:001:0011`; `PJSK:main:leo_01_05:01:001:0015`; `PJSK:main:leo_01_06:01:003:0015`; `PJSK:main:leo_01_06:01:003:0046`; `PJSK:main:leo_01_06:01:003:0048`; HIGH. **Limits / OPEN:** Shizuku receives no causal disclosure. Do not generalize School Miku’s interpretation into omniscient fact.
+
+### LN-MS-P03 — episodes 09–11
+
+Source and causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P03_DEEP_READING.md). The following records resolve character responsibility only.
+
+#### LN-ICHIKA-MS-P03
+
+**Prior:** LN-ICHIKA-MS-P02; retain as historical phase endpoint.
+
+**Ichika — ADVANCE_DIRECT_ATTACHMENT_AND_KNOWLEDGE.** Valid at `PJSK:main:leo_01_11:01 END`. Self-concept: Can choose Shiho’s friendship despite others’ judgment; no longer needs interpret distance as dislike. Goals: Earn shared music and remain Shiho’s friend; later approach Honami. Fears/uncertainty: Concern over Saki’s condition; retained outcome-based guilt.
+
+**Emotion and presentation:** Hopeful, moved by return and practically concerned. Hesitant thanks and apologies coexist with direct commitment. **Coping and agency:** Preparation, seeking instruction, care and explicit relational choice. Greater independent declaration after learning Shiho’s reason. **Speech:** Direct promise under relational stakes; ordinary practical shopping advice remains available.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-ICHIKA-MS-P04`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0005`; `PJSK:main:leo_01_10:01:001:0012`; `PJSK:main:leo_01_11:01:001:0019`; `PJSK:main:leo_01_11:01:001:0026`; `PJSK:main:leo_01_11:01:001:0055`; HIGH. **Limits / OPEN:** Disclosure to Honami of Shiho’s complete history is not shown.
+
+#### LN-SAKI-MS-P03
+
+**Prior:** LN-SAKI-MS-P02; retain as historical phase endpoint.
+
+**Saki — ADVANCE_REUNION_WITH_PACING_VULNERABILITY.** Valid at `PJSK:main:leo_01_11:01 END`. Self-concept: Persistence and work can make reunion possible; opportunity is intensely valued. Goals: Join with Shiho and eventually Honami. Fears/uncertainty: Missing the reunion opportunity; reluctance to stop despite illness.
+
+**Emotion and presentation:** Excited, briefly physically unwell, relieved by membership. Conceals cold during the trial; then apologizes and accepts rest. **Coping and agency:** Investment, rehearsal, direct questioning and rapid renewed planning. High initiative; needs others to insist on recovery first. **Speech:** Explicit wishes, joyful response, apology after concealment.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SAKI-MS-P04`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0004`; `PJSK:main:leo_01_09:01:002:0025`; `PJSK:main:leo_01_11:01:001:0009`; `PJSK:main:leo_01_11:01:001:0015`; `PJSK:main:leo_01_11:01:001:0073`; HIGH. **Limits / OPEN:** No disease recurrence or long-term prognosis established. One pressured concealment is not a universal dishonesty trait.
+
+#### LN-HONAMI-MS-P03
+
+**Prior:** LN-HONAMI-MS-P02; retain as historical phase endpoint.
+
+**Honami — DOCUMENT_EXISTING_STATE_WITH_INTENSIFIED_LONELINESS.** Valid at `PJSK:main:leo_01_11:01 END`. Self-concept: Others’ apparent reconciliation ought to be enough, yet she feels lonely. Goals: Want the others to be well while remaining outside. Fears/uncertainty: Previously indicated affiliation fear remains unresolved.
+
+**Emotion and presentation:** Private sadness and ambivalence. Returns to classmates without disclosing longing. **Coping and agency:** Withdraws from observed trio and questions feeling privately. No new public membership or disclosure. **Speech:** No new broad register conclusion; private thought contradicts outward sufficiency.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-HONAMI-MS-P04`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_10:01:003:0006`; `PJSK:main:leo_01_10:01:003:0011`; `PJSK:main:leo_01_10:01:003:0013`; HIGH. **Limits / OPEN:** She only infers possible reconciliation and does not witness the session.
+
+#### LN-SHIHO-MS-P03
+
+**Prior:** LN-SHIHO-MS-P02; retain as historical phase endpoint.
+
+**Shiho — DURABLE_MEMBERSHIP_TRANSITION.** Valid at `PJSK:main:leo_01_11:01 END`. Self-concept: Permits wanting these friends despite believing protective withdrawal safer; calls that wanting weak. Goals: Play seriously with trusted partners and protect friends. Fears/uncertainty: Collateral gossip and harming friends through association.
+
+**Emotion and presentation:** Guarded but relieved/engaged; care overrides trial enforcement during illness. Warning and defensive phrasing precede explicit request to join. **Coping and agency:** Solitary practice, conditional test, urgent care and eventual disclosure. Negotiates rather than unilaterally controls affiliation. **Speech:** Direct standards, immediate practical concern, reluctant disclosure and a membership request.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SHIHO-MS-P04`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0035`; `PJSK:main:leo_01_09:01:003:0003`; `PJSK:main:leo_01_11:01:001:0014`; `PJSK:main:leo_01_11:01:001:0047`; `PJSK:main:leo_01_11:01:001:0064`; HIGH. **Limits / OPEN:** Preference for solitude persists. Musical seriousness is not a completed professional ambition.
+
+### LN-MS-P04 — episodes 12–20
+
+Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P04_DEEP_READING.md). The following records resolve character responsibility only.
+
+#### LN-ICHIKA-MS-P04
+
+**Prior:** LN-ICHIKA-MS-P03; retain as historical phase endpoint.
+
+**Ichika — DURABLE_SELF_AUTHORIZED_RELATIONAL_AGENCY.** Valid at `PJSK:main:leo_01_20:01 END`. Self-concept: Own desire to be with all four has value; recovered agency is evidenced by friends and old lyrics. Goals: Maintain reciprocal group belonging; make music and share new lyrics. Fears/uncertainty: Potential inability to help, embarrassment and uncertain response remain vulnerabilities.
+
+**Emotion and presentation:** Affectionate and hopeful with ordinary embarrassment. Offers her lyrics while asking friends not to read them in front of her; embarrassment coexists with chosen authorship. **Coping and agency:** Consults helpers, uses person-specific shared memory and makes direct request. Creates repair encounter and resumes writing. **Speech:** First-person wanting becomes explicit; calm, tentative and teasing registers persist.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `OPEN: next founded longitudinal event state`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_15:01:003:0019`; `PJSK:main:leo_01_16:01:003:0012`; `PJSK:main:leo_01_17:01:001:0029`; `PJSK:main:leo_01_18:01:003:0026`; `PJSK:main:leo_01_20:01:005:0025`; HIGH. **Limits / OPEN:** Do not call this first-ever initiative. Durability outside these relationships needs later evidence.
+
+#### LN-SAKI-MS-P04
+
+**Prior:** LN-SAKI-MS-P03; retain as historical phase endpoint.
+
+**Saki — ADVANCE_RECIPROCAL_CARE_AND_BELONGING.** Valid at `PJSK:main:leo_01_20:01 END`. Self-concept: Can value a friend’s present ties while recognizing that her own wish and grief also matter. Goals: Share life/music as four; pursue ordinary youth sustainably. Fears/uncertainty: Absence-related guilt and loss of shared time; overexertion risk remains.
+
+**Emotion and presentation:** Bright and playful, capable of grief and earnest apology. Insists relinquishment is fine while crying; ending makes own wish shareable. **Coping and agency:** Restraint, apology, practice, concern and collaborative naming. Stops pressure when she believes it harmful; later joins repair without erasing desire. **Speech:** Playfulness, formal apology and explicit sadness are context-dependent.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `OPEN: next founded longitudinal event state`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_13:01:002:0051`; `PJSK:main:leo_01_13:01:002:0058`; `PJSK:main:leo_01_14:01:005:0021`; `PJSK:main:leo_01_16:01:002:0006`; `PJSK:main:leo_01_19:01:001:0009`; `PJSK:main:leo_01_20:01:005:0019`; HIGH. **Limits / OPEN:** Health remains a practical limit; no cure/prognosis inferred. Absence-related guilt is not objective culpability.
+
+#### LN-HONAMI-MS-P04
+
+**Prior:** LN-HONAMI-MS-P03; retain as historical phase endpoint.
+
+**Honami — DURABLE_AFFILIATION_AND_DISCLOSURE_TRANSITION.** Valid at `PJSK:main:leo_01_20:01 END`. Self-concept: May belong despite having hurt friends; multiple friendships can coexist in the tested current class. Goals: Play with the group, preserve current friendships and communicate more openly. Fears/uncertainty: Fear of being disliked and shame remain meaningful despite local success.
+
+**Emotion and presentation:** Relieved, happy and still self-critical. Less need for evasive excuses in the repaired contexts; apologetic language remains. **Coping and agency:** Names fear, accepts invitation and initiates classroom disclosure. Moves from restricted affiliation to active bridge-building. **Speech:** Asks for time to speak; introduces wishes and thanks; familiar warmth persists.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `OPEN: next founded longitudinal event state`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_12:01:002:0078`; `PJSK:main:leo_01_18:01:003:0061`; `PJSK:main:leo_01_19:01:001:0026`; `PJSK:main:leo_01_19:01:001:0034`; `PJSK:main:leo_01_20:01:003:0004`; `PJSK:main:leo_01_20:01:003:0013`; HIGH. **Limits / OPEN:** No universal social safety or permanent fear removal established. Elided classroom account does not establish SEKAI disclosure.
+
+#### LN-SHIHO-MS-P04
+
+**Prior:** LN-SHIHO-MS-P03; retain as historical phase endpoint.
+
+**Shiho — REFINE_CONFLICT_AND_REPAIR_WITH_MEMBERSHIP_RETAINED.** Valid at `PJSK:main:leo_01_20:01 END`. Self-concept: Can be committed and perceptive while acknowledging hurtful speech and accepting reciprocal affirmation. Goals: Serious band practice, friends’ well-being and constructive continued belonging. Fears/uncertainty: Causing harm through pressure or bluntness; sentimental exposure uncomfortable.
+
+**Emotion and presentation:** Engaged, still blunt and teasing, privately self-critical after injury. Minimizes own concern/embarrassment without negating it. **Coping and agency:** Solo bass to clear head, direct action, private disclosure and explicit apology. Remains decisive while admitting intervention failed. **Speech:** Sharp accusation is qualified by regret and apology; praise and practical instruction remain.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `OPEN: next founded longitudinal event state`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_15:01:002:0030`; `PJSK:main:leo_01_15:01:003:0005`; `PJSK:main:leo_01_15:01:003:0009`; `PJSK:main:leo_01_16:01:001:0007`; `PJSK:main:leo_01_19:01:001:0014`; `PJSK:main:leo_01_20:01:005:0009`; HIGH. **Limits / OPEN:** Do not make harshness the single effective cure. Standards, friendship and autonomy still require future negotiation.
