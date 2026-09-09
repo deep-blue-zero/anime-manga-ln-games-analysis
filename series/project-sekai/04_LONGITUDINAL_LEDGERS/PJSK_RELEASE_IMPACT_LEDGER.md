@@ -4,18 +4,18 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "N25 positive integration and universal documentary screening through EVENT_0083; I1 musical-feedback and ordinary-contact increment"
+source_boundary: "N25 positive integration and universal documentary screening through EVENT_0084; I2 supported nonmusical competence and reciprocal ordinary pleasure refinement"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "EVENT_0083 I1; latest relationship/epistemic I3 EVENT_0080; latest global human-state transition EVENT_0072; current tuple retained"
+analysis_cutoff: "EVENT_0084 I2; latest relationship/epistemic I3 EVENT_0080; latest global human-state transition EVENT_0072; current tuple retained"
 ---
 
 # Project SEKAI Release Impact Ledger
 
 ## Current execution handoff
 
-The last completed forward event transaction is **EVENT_0083**; the next is **EVENT_0084**. Positive N25 evidence and documentary screening reach EVENT_0083, an I1 musical-feedback and ordinary-contact increment. EVENT_0082 remains an I0 documentary closure. Latest relationship/epistemic I3 remains EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. `REL-N25-EM-5` and EVENT_0077’s desire/disclosure corrections remain current. The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
+The last completed forward event transaction is **EVENT_0084**; the next is **EVENT_0085**. Positive N25 evidence and documentary screening reach EVENT_0084, an I2 supported nonmusical-competence and reciprocal-pleasure refinement. Earlier I1 increments and EVENT_0082’s I0 documentary closure remain valid. Latest relationship/epistemic I3 remains EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. `REL-N25-EM-5` and EVENT_0077’s desire/disclosure corrections remain current. The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package.
 
@@ -2190,3 +2190,36 @@ N25 CROSS_UNIT/MEDIUM/I1/R2 strengthens `REL-CROSS-KANADE-ICHIKA-E0042` through 
 Leo/need PRIMARY/VERY_HIGH/R3 preserves Honami's accepted reliance and self-chosen professional costs, distributed preparation, already-existing strength, peer/maternal care and ordinary life. MMJ CROSS_UNIT/HIGH/R2 retains Haruka's explicit personal ethic and returned thanks; WxS/VBS CROSS_UNIT/MEDIUM/R2 retain concrete assistance and its limits. All four are deferred pending foundation. Only Classroom singers occur; software Miku remains distinct. No actual solo concert, formal contract, all-member MMJ attendance or guaranteed future popularity.
 
 Latest positive/documentary frontier EVENT_0083; latest relationship/epistemic I3 EVENT_0080 and human-state transition EVENT_0072. Preserve all current N25 IDs and E0077 corrections. Next EVENT_0084; the 21 older screens and remaining foundations/deferred interpretation, reconstruction/synthesis/readiness/audit/protected-integration work persist.
+
+## RI-EVENT-0084 — キャンドルの香りは思い出と共に
+
+```yaml
+release_id: EVENT_0084
+release_bucket: RB_20230131T060000Z
+complete_envelope: "8 core + 10 card halves + 10 archive-publication/event-unlock areas = 28"
+unit_relevance: N25_LEO_NEED_PRIMARY_WXS_SECONDARY_MMJ_CROSS_UNIT_VBS_NONE
+impact_scope: N25
+impact: I2
+reconstruction_yield_n25: R3
+integration_status: INTEGRATED_N25_OTHER_MATERIAL_ROUTES_DEFERRED
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0084_DEEP_READING.md
+other_material_unit_impact: DEFERRED_PENDING_FOUNDATION
+character_state_delta: Kanade_operational_refinement_no_successor_other_humans_I1
+relationship_delta: reciprocal_craft_care_and_bounded_acquaintance_existing_major_IDs_retained
+epistemic_delta: taught_knowledge_remote_participation_delayed_sensation_bounded_reports
+claim_delta: K027_operational_revision_K042_K071_K081_strengthen
+theme_delta: ordinary_co_creation_partial_efficacy_and_warmth_strengthen_no_new_ID
+current_n25_tuple: "MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+latest_positive_n25_evidence: EVENT_0084
+latest_relationship_epistemic_i3: EVENT_0080
+latest_human_state_transition: EVENT_0072
+next_candidate_operation: EVENT_0085
+```
+
+All 28 canonical surfaces read and manifest-matched; independent review-group identities agree. Cards 0583–0585 initially available 03:00Z, 0586–0587 06:00Z. Five shuffle_28 areas are archive-published 2023-01-31T06:00Z; five monthly2301 areas 2023-02-28T06:00Z. None has an initial-availability release bucket; all carry separate chapter-8 condition 108308 / episode 1000680. Preserve recalled/preparatory/later-use chronology and the later monthly archive timestamp.
+
+N25 PRIMARY/HIGH/I2/R3-yield materially refines Kanade's supported nonmusical competence and reciprocal ordinary pleasure. Her physical execution of Len's gift preserves his design decisions and initiative; he first smells it in the later card. Prior ordinary pleasure and unresolved rescue/self-care remain. Other human/manifestation findings are bounded I1 increments. All six longitudinal ledgers updated; K-027 operational revision and K-042/K-071/K-081 strengthening require no new claim ID or successor human/group state (`PJSK:event:0084:04:001`; `PJSK:event:0084:06`; `PJSK:event:0084:07:003:0060–0074`; `PJSK:card:0587:02:001`).
+
+Leo/need PRIMARY/VERY_HIGH/R3-yield preserves Ichika's experiential understanding of gifts, Honami's fallible teaching and received care, and scent-associated memory hopes. WxS SECONDARY/HIGH/R3-yield preserves Nene's chosen new contact, evolving knowledge of effort and reciprocal gift/teaching intentions. MMJ CROSS_UNIT/MEDIUM/R2-yield preserves Airi/Ena gift selection, actual Mizuki/Shizuku shopping and adaptive Minori/Kanade care. Their impacts remain deferred; VBS NONE. Classroom, Wonderland, Empty and Stage manifestations remain distinct. Event-local R3 yield is not package readiness.
+
+Latest positive/documentary frontier EVENT_0084; latest relationship/epistemic I3 EVENT_0080; human-state transition EVENT_0072. All current defaults and E0077 corrections retained. Next EVENT_0085; 21 older universal screens, four foundations and subsequent deferred-route consumption, mature reconstruction, warranted synthesis, final audits and protected integration remain incomplete.

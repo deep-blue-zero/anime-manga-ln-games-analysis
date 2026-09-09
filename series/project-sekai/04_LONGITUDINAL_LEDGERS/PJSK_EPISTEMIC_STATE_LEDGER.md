@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic increments through EVENT_0083; direct video feedback and phone-input disclosure, hypothetical activity/prior-sticker causes and planned flower reception kept separate"
-analysis_cutoff: "EVENT_0083 I1 evidence; latest bounded relationship/epistemic I3 EVENT_0080; E0077 desire/disclosure corrections retained"
+source_boundary: "N25 epistemic increments through EVENT_0084; learned craft knowledge, remote participation, delayed sensory access, bounded introductions and reported household acceptance"
+analysis_cutoff: "EVENT_0084 I2 event with bounded knowledge increments; latest relationship/epistemic I3 EVENT_0080; E0077 desire/disclosure corrections retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic boundary is **EVENT_0083**, adding Kanade’s direct musical feedback and phone-input disclosure while separating Ichika’s hypotheses and prospective care. EVENT_0081’s public creative-competence and bounded social information remain valid; EVENT_0082 was documentary I0. No governing state is replaced. EVENT_0080’s support offer, preserved causal ignorance and private recipient memory remain current; EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
+The latest integrated epistemic boundary is **EVENT_0084**, adding learned craft knowledge, remote collaboration and delayed sensory access, bounded introductions and reported household acceptance. Earlier direct disclosures and hypotheses retain their distinctions. No governing epistemic-state successor is required. EVENT_0080’s support offer, preserved causal ignorance and private recipient memory remain current; EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
 
-Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0084; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
+Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0085; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
 
 ## 1. Purpose
 
@@ -1425,3 +1425,22 @@ The play's god, ten-year journeys, ages and castle are fictional events inside a
 | Ichika, Honami / reported plan and later action | Honami consulted Ichika about flowers for Kanade; flowers are subsequently selected for an acquaintance's home. | `PJSK:card:0580:01:001:0052–0053`; `PJSK:card:0580:02:002:0018–0034`. Kanade's receipt, response and awareness of planning are not established. |
 
 Only Classroom manifestations appear in the SEKAI scenes. Miku's relational reading of Ichika's coauthor language explicitly distinguishes the software singer and her own direct production role; it does not transmit Empty-Miku memory (`PJSK:card:0579:01:001:0021–0032`). The shared reading also preserves the music director's private reassessment as audience-only, Haruka's actual receipt of Honami's thanks, tentative MMJ reservations and the difference between a completed practice set and a future public show. Preserve E0080's support/disclosure limits, E0077's historical corrections and Mizuki's guarded content. Next EVENT_0084.
+
+## EVENT_0084 knowledge increment — shared creation does not imply shared access
+
+| Holder / class | Acquired or available information | Boundary |
+|---|---|---|
+| Kanade / observation then disclosure | Len's earlier murmured fragment and subdued manner motivate a later question; he then explains wanting to give thanks. | `PJSK:event:0084:02:001:0028–0031`; `PJSK:event:0084:06:002:0002–0034`. Concern precedes known cause. |
+| Empty singers / earlier consultation | Len asks MEIKO/Luka/Rin and thinks with Miku before the craft solution. | `PJSK:card:0587:01:001`. Knowing the wish does not establish foreknowledge of Kanade's later method. |
+| Kanade, Len / taught knowledge and described option | Kanade learns from Honami/Ichika and passes on steps and recipient-oriented choices. Len accepts her apple-like chamomile description. | `PJSK:event:0084:06:003:0002–0062`. He participates through a phone and does not physically make or smell it there. |
+| Len / later direct sensation | After singers light the gift he explicitly smells chamomile for the first time and feels warmth. | `PJSK:card:0587:02:001:0036–0046`. His suggestion that others feel the same remains inference. |
+| Kanade / acquired self-interpretation, then disclosure | Len distinguishes pleasure in working together; she recognizes her own experience and later explicitly thanks him for that insight. | `PJSK:event:0084:06:003:0064–0087`; `PJSK:event:0084:07:003:0060–0074`. This is not her first ordinary pleasure in the series. |
+| Nene, Kanade / recognition then introduction | Nene knows Kanade's name and public show help; present conversation exchanges thanks and music roles. | `PJSK:card:0584:01:001`; `PJSK:event:0084:03:001:0004–0034`. No full family/N25 biography transfers. |
+| Nene / relayed message and inference | Ichika reports Kanade's welcoming message; Nene guesses Ichika recognized her anxiety. Later Nene discloses that anxiety to the group. | `PJSK:card:0584:01:001:0033–0053`; `PJSK:event:0084:05:001:0105–0112`. The relay is explicit; the guessed reason is not. |
+| Nene / newly explained care network | Honami describes Ichika's flower advice for Kanade's home; Kanade acknowledges its effect. | `PJSK:card:0585:01:001:0021–0050`. Does not date the delivery of a specific earlier arrangement. |
+| Emu / mistaken inference; Honami / private guilt | Emu infers birthday preparations from supplies. Honami preserves Nene's surprise, feels guilt and offers useful color advice. | `PJSK:card:0586:01:001:0014–0065`. No detailed invented birthday narrative or automatic knowledge of guilt. |
+| WxS / delayed disclosure | Emu reveals repeated failed chocolates and nervousness the next day; Nene explains difficult recipient choices. | `PJSK:card:0584:02:002:0008–0057`. Earlier cheerfulness did not reveal all effort. |
+| Mafuyu / self-report; N25 / hearing it | Mafuyu describes a small sensory/concentration benefit and explaining the candle as a friend's Valentine gift for study breaks. Her mother seemed accepting. | `PJSK:card:0585:02:001:0033–0053`. Bounded report, not direct maternal scene, disclosure of N25 identity or general permission. |
+| Recipients / response plus attribution | Gifts can evoke care and personal associations without exact knowledge of the maker's intended scent meaning. | `PJSK:event:0084:05:001:0080–0104`; `PJSK:event:0084:06:001`; `PJSK:event:0084:08:003`. Scent-memory persistence remains Ichika's hope/heard theory. |
+
+Temporary gift-surprise secrets do not enter Mizuki's guarded-content domain. All aroma effects remain character descriptions/beliefs; no universal causal inference follows. Honami/Nene register adjustment is explicit and local, not a blanket shift in speech toward Kanade. Walks, further craft/teaching meetings, practice observation, string-figure play and the completed CD errand remain prospective unless separately shown. Stage KAITO/Len care is manifestation-specific. Preserve E0080's undisclosed causes and E0077's historical knowledge corrections. Next EVENT_0085.

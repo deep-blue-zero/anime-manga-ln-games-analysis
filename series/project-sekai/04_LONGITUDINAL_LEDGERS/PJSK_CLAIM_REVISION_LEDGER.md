@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0081; K-027, K-042 and K-071 strengthened by situated public help and reciprocal reception; no new claim ID"
-analysis_cutoff: "EVENT_0081 I1 claim corroboration; latest relationship/epistemic I3 EVENT_0080; current human tuple retained"
+source_boundary: "N25 claims through EVENT_0084; K-027 operationally revised for supported nonmusical co-production, K-071/K-081/K-042 strengthened; no new claim ID"
+analysis_cutoff: "EVENT_0084 I2 interpretive refinement; latest relationship/epistemic I3 EVENT_0080; current human tuple retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 claim authority reaches **EVENT_0081**, strengthening `CR-N25-K-027`, `CR-N25-K-042` and `CR-N25-K-071` without a new claim ID or successor state. EVENT_0080’s `CR-N25-MF-094` and `CR-N25-MF-095` remain controlling, as do EVENT_0077’s `CR-N25-E-091`, `CR-N25-MF-092`, `CR-N25-FAMILY-093` and chronological correction to `CR-N25-MF-088`. Earlier summaries are historical handoffs; revisions apply only within the requested analytical boundary. Latest bounded relationship/epistemic I3 remains EVENT_0080. Source currency does not advance claim authority.
+N25 claim authority reaches **EVENT_0084**, revising the operational breadth of `CR-N25-K-027` and strengthening `CR-N25-K-042`, `CR-N25-K-071` and `CR-N25-K-081` without a new claim ID or successor state. EVENT_0082/0083 required no governing claim change. EVENT_0080’s `CR-N25-MF-094` and `CR-N25-MF-095` remain controlling, as do EVENT_0077’s `CR-N25-E-091`, `CR-N25-MF-092`, `CR-N25-FAMILY-093` and chronological correction to `CR-N25-MF-088`. Earlier summaries are historical handoffs; revisions apply only within the requested analytical boundary. Latest bounded relationship/epistemic I3 remains EVENT_0080. Source currency does not advance claim authority.
 
 The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
 
@@ -1267,3 +1267,21 @@ No revision erases EVENT_0077's correction to first-ever desire language, E0070'
 - **`CR-N25-K-071`: STRENGTHEN.** Kanade takes part in shrine/shopping life, can imagine pleasure in collective activity and eventually accepts specific peer praise. Her intended family decoration connects present care to remembered household custom (`PJSK:event:0081:06:002:0018–0019`; `PJSK:event:0081:06:003:0040–0041`; `PJSK:event:0081:06:003:0107–0111`; `PJSK:event:0081:07:005:0002–0008`). Fatigue, household dependence and unresolved rescue obligation remain; neither the future visit nor its effect occurs in the source.
 
 **PRESERVE** the current Mafuyu affect/agency, Ena artistic legitimacy, Mizuki disclosure and E0080 support claims. Mafuyu's plainer praise, recognition and conditional outing provide behavior without general taste/emotion recovery; Ena's public reason for running must be distinguished from her private motive. **No new claim ID** is required. `CR-N25-MF-095` remains the newest claim. The [shared reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0081_DEEP_READING.md) retains substantial other-unit evidence for later founded revision. Next EVENT_0082.
+
+## EVENT_0084 claim refinement — competence and aid are task-specific
+
+### CR-N25-K-027 — REVISE operational breadth within the established bounded-support claim
+
+The original EVENT_0014 claim established reaching beyond the Mafuyu salvation schema through a creative message, evidence, trust and waiting. Later musical-help extensions remain valid. EVENT_0084 materially broadens the usable behavior model: Kanade can become a supported nonmusical learner, perform a new craft, teach its process and preserve a collaborator's decisions despite doing its physical work. The appropriate reconstruction rule is **resolve task, scaffolding and participant access before assigning competence or dependence**. Her trouble with a heavy kettle coexists with later successful making; Len's nonphysical participation coexists with actual authorship (`PJSK:event:0084:04:001`; `PJSK:event:0084:05:001:0045–0049`; `PJSK:event:0084:06:003:0002–0062`; `PJSK:card:0587:02:001:0036–0043`).
+
+This does not claim that the historical ledger asserted total helplessness. It rules out that reconstruction shortcut and a music-only operationalization of an already broader care principle. Kanade invites rather than assigns the project, asks for desired qualities, offers a fitting option, and credits Len's initiative after completion (`PJSK:event:0084:06:002:0015–0034`; `PJSK:event:0084:06:003:0019–0078`). I2 is earned by this model refinement; no durable human-state replacement or rescue-compulsion cure is inferred.
+
+### CR-N25-K-071 / CR-N25-K-081 — STRENGTHEN ordinary pleasure and bounded self-permission
+
+EVENT_0042 already established simply enjoying mixed company, and EVENT_0063 added self-directed choice under unresolved guilt. EVENT_0084 adds the difference between an unchanged solitary house and its newly felt quiet, actual use of a received gift, co-activity recognized through Len's words, explicit later thanks and chosen ordinary contact (`PJSK:event:0084:06:001`; `PJSK:event:0084:06:003:0064–0087`; `PJSK:event:0084:07:003:0060–0074`; `PJSK:area:areatalk_ev_shuffle_28_003:01`; `PJSK:area:areatalk_ev_shuffle_28_004:01`). These are additional forms of lived pleasure, not its first appearance or proof of fully intrinsic self-worth.
+
+### CR-N25-K-042 — STRENGTHEN partial efficacy and reciprocal positive destination
+
+Kanade enables Len's desired gift; his articulation of shared pleasure helps her understand her own. Miku's earlier discussion helps Len even while its material problem remains unsolved. Help can produce a limited positive result or self-knowledge without solving every condition (`PJSK:card:0587:01:001:0023–0053`; `PJSK:event:0084:06:003:0064–0087`; `PJSK:event:0084:07:003:0060–0074`). Ordinary gifts need not be redescribed as salvation to count as consequential care.
+
+**PRESERVE** Mafuyu's bounded sensory/affective access, unresolved family authority and E0080/E0077 claim corrections. Her reported concentration response and apparently accepted study-break explanation are specific, not a general recovery or maternal-transformation finding (`PJSK:card:0585:02:001:0033–0053`). Preserve Ena/Mizuki's governing claims and guarded-content boundaries. No new claim ID; all current human and major relationship states remain. Next EVENT_0085.

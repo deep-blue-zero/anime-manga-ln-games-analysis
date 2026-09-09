@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0083; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0084; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1840,3 +1840,93 @@ next_event: EVENT_0084
 | Leo/need / promotion, wider audience and musical agency | `PJSK:card:0580:02:002:0035–0062`; `PJSK:area:areatalk_ev_band_12_003:01`; `PJSK:area:areatalk_ev_band_12_004:01` | Older listener welcomed, channel actually shared, flyers proposed for display; self-owned youth joy differs from imposed sales framing. Honami researches publicity and seeks to lead through playing. |
 
 All 23 declared hashes/ranges are retained in the shared reading. N25 I1 changes four ledgers without new IDs; CLAIM_REVISION and THEME_AND_MOTIF remain byte-preserved. Latest relationship/epistemic I3 EVENT_0080 and human-state transition EVENT_0072 remain. Four material other-unit routes are deferred. Next EVENT_0084; earlier gaps and all full-completion dependencies persist.
+
+## EVENT_0084 — キャンドルの香りは思い出と共に
+
+```yaml
+release_id: EVENT_0084
+release_bucket: RB_20230131T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 10 archive-publication/event-unlock areas = 28"
+core_locators: [PJSK:event:0084:01, PJSK:event:0084:02, PJSK:event:0084:03, PJSK:event:0084:04, PJSK:event:0084:05, PJSK:event:0084:06, PJSK:event:0084:07, PJSK:event:0084:08]
+card_locators: [PJSK:card:0583:01, PJSK:card:0583:02, PJSK:card:0584:01, PJSK:card:0584:02, PJSK:card:0585:01, PJSK:card:0585:02, PJSK:card:0586:01, PJSK:card:0586:02, PJSK:card:0587:01, PJSK:card:0587:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_28_001:01, PJSK:area:areatalk_ev_shuffle_28_002:01, PJSK:area:areatalk_ev_shuffle_28_003:01, PJSK:area:areatalk_ev_shuffle_28_004:01, PJSK:area:areatalk_ev_shuffle_28_005:01, PJSK:area:areatalk_monthly2301_001:01, PJSK:area:areatalk_monthly2301_002:01, PJSK:area:areatalk_monthly2301_003:01, PJSK:area:areatalk_monthly2301_004:01, PJSK:area:areatalk_monthly2301_005:01]
+
+chronology_note: "Cards 0583-0585 initially available 03:00Z, 0586-0587 06:00Z; shuffle_28 archive publication 2023-01-31T06:00Z, monthly2301 2023-02-28T06:00Z. All ten areas lack initial-availability buckets and independently carry condition 108308 / episode 1000680. Earlier preparation, shared making, Valentine gifts and subsequent use retain their narrative order."
+unit_routes:
+  N25:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: I2
+    reconstruction_yield: R3
+    characters: [Kanade, Mafuyu, Ena, Mizuki, Honami, Ichika, Nene, Minori, Shizuku, Airi, Mafuyu_mother_reported]
+    manifestations: [N25_Miku, N25_Rin, N25_Len, N25_Luka, N25_MEIKO]
+    domains: [supported_nonmusical_competence, participant_authorship, reciprocal_care, ordinary_pleasure, self_knowledge, physical_limits, gift_selection, household_permission_report, sensory_access, bounded_acquaintance, social_register, practical_help, guarded_information, manifestation_identity]
+    locators: [PJSK:event:0084:02, PJSK:event:0084:03, PJSK:event:0084:04, PJSK:event:0084:05, PJSK:event:0084:06, PJSK:event:0084:07:003, PJSK:card:0583:01, PJSK:card:0584:01, PJSK:card:0585, PJSK:card:0586:02, PJSK:card:0587, PJSK:area:areatalk_ev_shuffle_28_001:01, PJSK:area:areatalk_ev_shuffle_28_003:01, PJSK:area:areatalk_ev_shuffle_28_004:01, PJSK:area:areatalk_monthly2301_001:01, PJSK:area:areatalk_monthly2301_002:01, PJSK:area:areatalk_monthly2301_003:01, PJSK:area:areatalk_monthly2301_004:01]
+  LEO_NEED:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Ichika, Honami, Saki, Shiho, Nene, Kanade, Emu, Tsukasa_reported, classmates, passerby]
+    manifestations: [LN_Miku, LN_Rin, LN_Len, LN_Luka, LN_MEIKO, LN_KAITO]
+    domains: [experiential_understanding_of_care, teaching_and_learning, practical_fallibility, chosen_friendship, mutual_gratitude, paid_care_and_reciprocity, gift_effort, embodied_skill, recipient_image, music_feedback, ordinary_pleasure, scent_and_memory_hope, secret_and_mistaken_belief, social_register]
+    locators: [PJSK:event:0084:01, PJSK:event:0084:02:003, PJSK:event:0084:03, PJSK:event:0084:04, PJSK:event:0084:05, PJSK:event:0084:08, PJSK:card:0583, PJSK:card:0584:01, PJSK:card:0585:01, PJSK:card:0586, PJSK:area:areatalk_ev_shuffle_28_001:01, PJSK:area:areatalk_ev_shuffle_28_002:01, PJSK:area:areatalk_ev_shuffle_28_004:01, PJSK:area:areatalk_ev_shuffle_28_005:01]
+  WXS:
+    relevance: SECONDARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Nene, Emu, Tsukasa, Rui, Ichika, Honami, Kanade]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [chosen_social_contact, situational_anxiety, reciprocal_practice, recipient_care, novice_skill, perceived_effort, delayed_disclosure, group_gratitude, performer_audience_concern, teaching_intention, bounded_introductions, textual_register, personal_report]
+    locators: [PJSK:event:0084:01, PJSK:event:0084:03, PJSK:event:0084:04, PJSK:event:0084:05, PJSK:event:0084:07:002, PJSK:card:0583:01, PJSK:card:0584, PJSK:card:0585:01, PJSK:card:0586, PJSK:area:areatalk_ev_shuffle_28_001:01, PJSK:area:areatalk_ev_shuffle_28_002:01, PJSK:area:areatalk_ev_shuffle_28_005:01]
+  MMJ:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Airi, Minori, Shizuku, Ena, Kanade, Mizuki]
+    manifestations: [MMJ_Len, MMJ_KAITO]
+    domains: [recipient_specific_care, shared_craft_interest, completed_shopping, adaptive_practical_help, route_knowledge, intended_outing, manifestation_rest_and_care]
+    locators: [PJSK:area:areatalk_monthly2301_001:01, PJSK:area:areatalk_monthly2301_003:01, PJSK:area:areatalk_monthly2301_004:01, PJSK:area:areatalk_monthly2301_005:01]
+  VBS:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: NOT_APPLICABLE_NO_MATERIAL_ROUTE
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0084_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0085
+```
+
+| Reusable responsibility | Evidence | Required interpretation and limits |
+|---|---|---|
+| Ichika–Nene / mutual musical learning and chosen company | `PJSK:event:0084:01:003:0002–0062`; `PJSK:area:areatalk_ev_shuffle_28_002:01` | Actual reciprocal practice, trusted feedback and a joint craft invitation; Nene's confidence reading and inferred strangers' affinity stay attributed. |
+| Ichika / experiential gratitude and gift-making effort | `PJSK:event:0084:05:001:0002–0043`; `PJSK:card:0583:01:001`; `PJSK:card:0583:02:002` | Participation deepens already-real gratitude. Wrapping failures and help remain separate from candle competence; recipient response cannot be anticipated as fact. |
+| Honami / fallible teaching, received care and own interests | `PJSK:event:0084:03:002:0076–0085`; `PJSK:event:0084:04:001`; `PJSK:event:0084:05:001:0045–0079`; `PJSK:card:0586:02:001` | Forgotten preparation and skill coexist; the others share cleanup and recognize teaching. She enjoys learning, rather than existing only as useful support. |
+| Honami–Emu / secrecy, mistaken inference and guilt | `PJSK:card:0586:01:001:0014–0065` | Protecting Nene's surprise leaves Emu's birthday inference uncorrected; private guilt motivates useful advice. No direct invented birthday story or guaranteed first-trial chocolate success. |
+| Kanade / task-specific competence and learner-to-helper transfer | `PJSK:event:0084:04:001`; `PJSK:event:0084:06:002`; `PJSK:event:0084:06:003` | I2 integrates accepted scaffolding, physical execution and another's design ownership; neither generalized helplessness nor cure. |
+| Kanade–Ichika–Honami / reciprocal expertise and care | `PJSK:card:0585:01:001:0021–0050`; `PJSK:event:0084:05:001:0064–0079`; `PJSK:area:areatalk_ev_shuffle_28_004:01` | Flower network explicitly known, maker/recipient roles rotate and actual use is reported; a particular earlier bouquet delivery remains undated. |
+| Nene–Kanade / first proper conversation and bounded welcome | `PJSK:card:0584:01:001`; `PJSK:event:0084:03:001:0004–0040`; `PJSK:event:0084:05:001:0105–0112` | Earlier name/public help, new introduction, local speech-register agreement with Honami and eventual anxiety disclosure. No full private biography. |
+| Kanade–Len / initiative, access and reciprocal insight | `PJSK:card:0587:01:001`; `PJSK:event:0084:06:003`; `PJSK:event:0084:07:003:0060–0074`; `PJSK:card:0587:02:001:0036–0046` | Len's wish precedes Kanade's help; she physically makes, he selects/reflects; later first smell differs from prior approval of a description. His joy helps her name hers. |
+| Nene–WxS / personalized gifts, hidden effort and reciprocity | `PJSK:event:0084:07:002`; `PJSK:card:0584:02:002` | Actual received candles and later use reports; Emu's failures disclosed later. Mutual teaching and White Day gifts remain future. |
+| N25 / plural everyday care and bounded household report | `PJSK:event:0084:07:003`; `PJSK:card:0585:02:001` | Bought/made gifts both carry care; individual responses differ. Mafuyu's small benefit and study-compatible explanation do not establish global recovery or parental transformation. |
+| Empty singers / practical inclusion and verbalized wishes | `PJSK:card:0587:01:001`; `PJSK:card:0587:02:001`; `PJSK:area:areatalk_monthly2301_002:01` | Unsolved listening still helps; lighting/gathering actually occurs. MEIKO prompts words before Mafuyu agrees to learn a game; game completion unshown. |
+| Ichika–Leo/need / gifts and memory | `PJSK:event:0084:08:002`; `PJSK:event:0084:08:003` | Actual exchange, later solitary candle use; group lighting is proposed and future scent-linked recall is hoped for. |
+| N25–MMJ / ordinary taste, craft talk and adaptive help | `PJSK:area:areatalk_monthly2301_001:01`; `PJSK:area:areatalk_monthly2301_003:01`; `PJSK:area:areatalk_monthly2301_004:01` | Airi/Ena selection pending; Mizuki/Shizuku thread purchase actual, next shop intended; Minori changes a failing route, CD collection unshown. |
+| Stage Len–KAITO / rest and practical care | `PJSK:area:areatalk_monthly2301_005:01` | Blanket placement and fatigue acknowledged; no Empty-manifestation memory/behavior transfer. |
+| Ordinary invitations and lingering awkwardness | `PJSK:area:areatalk_ev_shuffle_28_001:01`; `PJSK:area:areatalk_ev_shuffle_28_003:01`; `PJSK:area:areatalk_ev_shuffle_28_005:01` | Practice observation/walk agreed, not shown; Honami/Nene's surprise can still produce speechlessness. |
+
+All 28 declared hashes/ranges remain in the shared reading. N25 I2 updates six ledgers without new state/claim/theme IDs; other material unit impacts remain deferred. Latest relationship/epistemic I3 EVENT_0080 and global human-state transition EVENT_0072 persist. Next EVENT_0085; all earlier gaps and full-completion dependencies remain.

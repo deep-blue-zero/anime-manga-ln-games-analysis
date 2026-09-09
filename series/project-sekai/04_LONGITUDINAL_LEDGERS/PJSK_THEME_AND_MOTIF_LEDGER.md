@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 thematic evidence through EVENT_0081; partial efficacy, situated creative response, seasonal continuity and ordinary life strengthened; no new motif ID"
-analysis_cutoff: "EVENT_0081 thematic increment; newest theme remains TH-N25-034 from EVENT_0077; other-unit comparisons deferred"
+source_boundary: "N25 thematic evidence through EVENT_0084; ordinary co-creation, reciprocal care, partial efficacy and object-mediated warmth strengthened; no new motif ID"
+analysis_cutoff: "EVENT_0084 thematic integration within I2 refinement; newest theme remains TH-N25-034 from EVENT_0077; other-unit comparisons deferred"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0081**, strengthening partial efficacy, situated creative response, seasonal continuity and ordinary life alongside the EVENT_0080 warmth/support findings. No new recurring motif ID is added. `TH-N25-034` remains the newest theme from EVENT_0077; EVENT_0070 established `TH-N25-032` and EVENT_0072 `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
+N25 thematic authority reaches **EVENT_0084**, strengthening ordinary co-creation, reciprocal care, partial efficacy and object-mediated warmth alongside prior findings. EVENT_0082/0083 required no governing thematic revision; no new recurring motif ID is added. `TH-N25-034` remains the newest theme from EVENT_0077; EVENT_0070 established `TH-N25-032` and EVENT_0072 `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -1222,3 +1222,12 @@ Shizuku's perfection/effort history, Airi's tea interests, Hinomori childhood co
 - **`TH-N25-015`, §12.3 seasonal ritual and its EVENT_0045 continuity extension: STRENGTHEN.** Another shared New Year includes the newer Empty Len, while Kanade's intended hospital decoration recalls household continuity (`PJSK:event:0081:06:002`; `PJSK:event:0081:07:005:0007–0008`). The qualified reference is distinct from the imported ordinary-companionship meaning of the same ID.
 
 **Event-local structures, broader comparison deferred:** the play redirects the castle's value into shared theater; Tsukasa's real excursion tests growth through unfamiliar collaborators while retaining home obligations; the lion robot makes limited opportunities visible; dream drawing proposes a shared image of future activity. None needs a new N25 recurring motif ID. Fortunes do not establish fate, desired dreams are not demonstrated dream control, and theatrical treasure is not literal human biography. The four performances and their distinct effects are preserved for WxS/Leo/need/MMJ/VBS foundation-aware synthesis. Next EVENT_0082.
+
+## EVENT_0084 thematic increment — the process can communicate care too
+
+- **`TH-N25-003` / creative work as psyche and communication: STRENGTHEN across a nonmusical form.** Kanade translates remembered recipient-oriented advice into choices that express Len's own gratitude; the physical maker and the participant supplying purposes/choices need not be identical. A gift may communicate felt kindness even when its precise intended meaning is unknown (`PJSK:event:0084:06:003:0019–0078`; `PJSK:event:0084:05:001:0080–0104`). This is supported co-production, not evidence that every craft has the same psychological function as a rescue song.
+- **`TH-N25-014` / ordinary-life expansion without cure: STRENGTHEN.** Hosting, learning, laughing over practical uncertainty, immediate exchange, using gifts and requesting ordinary company matter alongside useful outputs. Kanade explicitly recognizes pleasure in making together while still needing physical/practical help and retaining her narrowed routine (`PJSK:event:0084:04:001:0002–0017`; `PJSK:card:0583:01:001:0030–0044`; `PJSK:event:0084:06:001`; `PJSK:event:0084:07:003:0060–0074`; `PJSK:area:areatalk_ev_shuffle_28_003:01`).
+- **`TH-N25-025` / partial positive effect and accompaniment: STRENGTHEN.** Miku cannot yet solve Len's gift problem but thinking together is already warm; Kanade later supplies practical access and receives insight from him. Competence circulates through particular roles rather than belonging to one omnipotent helper (`PJSK:card:0587:01:001:0023–0053`; `PJSK:event:0084:06:003`; `PJSK:event:0084:07:003:0060–0074`).
+- **`MO-N25-001` / warmth: bounded additional recurrence.** Len's anticipatory warmth, Kanade's gentle associations and later direct candle sensation join prior warmth evidence. Emotional response, figurative warmth and sensory description remain distinguishable (`PJSK:card:0587:01:001:0039–0053`; `PJSK:event:0084:06:001`; `PJSK:card:0587:02:001:0036–0046`). Scent/candle/memory is a developed local event pattern, not a newly certified franchise-wide recurring motif. Ichika's future memory hope remains in the deferred Leo/need route (`PJSK:event:0084:08:003`).
+
+Bought gifts, handmade gifts, recipient pleasure and maker pleasure are not ranked by one universal sincerity test. Mafuyu's queued recommendation, Ena's self-presentation plus care and distinct later use responses resist that shortcut (`PJSK:event:0084:07:003:0010–0028`; `PJSK:card:0585:02:001:0021–0063`). Aroma effects remain situated reports, not independently established therapeutic claims. No new theme/motif ID. Broader comparative conclusions await other unit foundations and deferred-route consumption; latest human-state transition remains EVENT_0072. Next EVENT_0085.
