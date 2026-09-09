@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
-analysis_cutoff: "EVENT_0090 I2 thematic refinement; broader comparison awaits founded longitudinal interpretation; LN foundation-current P04 only; VBS foundation-current P04 only"
+source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20"
+analysis_cutoff: "EVENT_0090 I2 thematic refinement; broader comparison awaits founded longitudinal interpretation; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0090**, operationalizing `TH-N25-032`'s technique-expression relation and qualifying `TH-N25-003`'s use of art as psychological evidence with dialogue and reception context. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Preserve EVENT_0089's first-person authority, usable choice, reciprocal warmth, partial efficacy and contested refuge refinements, and all earlier ID-qualified meanings. MMJ/WXS foundations, Leo/need routed history and 21 older universal screens remain unfinished; this event does not certify a franchise-wide theory.
+N25 thematic authority reaches **EVENT_0090**, operationalizing `TH-N25-032`'s technique-expression relation and qualifying `TH-N25-003`'s use of art as psychological evidence with dialogue and reception context. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Preserve EVENT_0089's first-person authority, usable choice, reciprocal warmth, partial efficacy and contested refuge refinements, and all earlier ID-qualified meanings. WXS foundation, Leo/need routed history and 21 older universal screens remain unfinished; this event does not certify a franchise-wide theory.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -32,10 +32,13 @@ The imported history reuses several identifiers for distinct meanings. Preserve 
 
 New references must resolve the intended meaning from the local formulation and evidence, never infer it from the repeated ID alone. This is a citation-integrity clarification, not a new thematic finding or a rewrite of the historical source boundaries.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. WXS remains canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
-Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. WXS foundation and the material routed/screening/reconstruction backlog remain pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. N25, Leo/need, VBS and MMJ foundations are complete; WXS remains pending. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
 
 ## 1. Purpose and caution
 
@@ -1425,3 +1428,93 @@ Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS
 **NEW / FOUNDATION-BOUNDED:** Current desire and reciprocal work revise a permanently disqualifying origin story; material family conflict not declared solved.
 
 **Evidence:** `PJSK:main:street_01_19:01:001:0019`; `PJSK:main:street_01_19:01:001:0029`; `PJSK:main:street_01_19:01:001:0047`. Confidence: HIGH.
+
+## MORE MORE JUMP! main-story foundation — serial phase history
+
+Records are valid at their named phase boundary and preserve earlier ignorance, interrupted repair and historically valid states. A preserved human ID receives refinement without an automatic global transition. Source confidence is HIGH for the supported interpretation; unshown transmission, broader durability and future outcomes remain OPEN. Shared causes belong to each phase reading. These are historical main-story defaults, not replacements for later cross-unit states or certification of character readiness.
+
+Theme/motif entries are foundation-local recurrence with cross-event and cross-unit validation pending. The blue audience view remains attributed and ontologically limited.
+
+### MMJ-MS-P01 — through `PJSK:main:mmj_01_04:01`
+
+Causal and evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P01_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-001
+
+**Prior:** No MMJ theme
+
+**Bounded state / claim:** NEW: hope received becomes renewed action, apology, application, practice and request for help.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:001:0032–0041`; `PJSK:main:mmj_01_04:01:001:0004–0018`. Confidence: HIGH.
+
+### MMJ-MS-P02 — through `PJSK:main:mmj_01_08:01`
+
+Causal and evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P02_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-002
+
+**Prior:** No MMJ theme
+
+**Bounded state / claim:** NEW: professional visibility and imposed categories conceal unequal losses and expose comparison.
+
+**Evidence:** `PJSK:main:mmj_01_05:01:002:0008–0013`; `PJSK:main:mmj_01_07:01:004:0019–0040`; `PJSK:main:mmj_01_08:01:002:0002–0019`. Confidence: HIGH.
+
+#### MMJ-MOTIF-001
+
+**Prior:** No MMJ motif
+
+**Bounded state / claim:** NEW local motif: blue audience sea as remembered stage view and lost connection, ontology unspecified.
+
+**Evidence:** `PJSK:main:mmj_01_06:01:001:0052–0069`. Confidence: HIGH.
+
+### MMJ-MS-P03 — through `PJSK:main:mmj_01_12:01`
+
+Causal and evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P03_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-003
+
+**Prior:** No MMJ theme
+
+**Bounded state / claim:** NEW: accountable reciprocal recognition restores vocation/partnership without repairing the former institution.
+
+**Evidence:** `PJSK:main:mmj_01_11:01:002:0030–0062`; `PJSK:main:mmj_01_12:01:001:0010–0041`. Confidence: HIGH.
+
+### MMJ-MS-P04 — through `PJSK:main:mmj_01_18:01`
+
+Causal and evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P04_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-001
+
+**Prior:** MMJ-TH-001 P01
+
+**Bounded state / claim:** REVISE/STRENGTHEN: desire and helpful hope require limits, recipient evidence and received support; obligation alone can immobilize.
+
+**Evidence:** `PJSK:main:mmj_01_15:01:001:0030–0055`; `PJSK:main:mmj_01_18:01:002:0063–0101`. Confidence: HIGH.
+
+#### MMJ-MOTIF-001
+
+**Prior:** MMJ-MOTIF-001 P02
+
+**Bounded state / claim:** STRENGTHEN recurring local sequence: spectator recollection -> changed vantage -> supported shared view. Exact all-light ontology OPEN.
+
+**Evidence:** `PJSK:main:mmj_01_16:01:001:0036–0077`; `PJSK:main:mmj_01_18:01:002:0036–0052`; `PJSK:main:mmj_01_18:01:002:0094–0101`. Confidence: HIGH.
+
+### MMJ-MS-P05 — through `PJSK:main:mmj_01_20:01`
+
+Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P05_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-004
+
+**Prior:** No MMJ theme
+
+**Bounded state / claim:** NEW: membership and value are distinct from audition certification; collective help makes unequal competence usable.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0002–0018`; `PJSK:main:mmj_01_20:01:001:0051–0064`. Confidence: HIGH.
+
+#### MMJ-TH-003
+
+**Prior:** MMJ-TH-003 P03
+
+**Bounded state / claim:** STRENGTHEN reciprocal care becomes named group and negotiated everyday address.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0027–0064`; `PJSK:main:mmj_01_20:01:001:0065–0091`. Confidence: HIGH.

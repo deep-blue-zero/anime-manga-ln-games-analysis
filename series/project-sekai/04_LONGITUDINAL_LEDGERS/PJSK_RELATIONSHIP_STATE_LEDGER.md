@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
-analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN foundation-current P04 only; VBS foundation-current P04 only"
+source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20"
+analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,12 +19,15 @@ mutable: true
 
 Relationship authority reaches **EVENT_0090**, adding `REL-CROSS-ENA-SHIHO-E0090` and `REL-CROSS-ENA-AN-E0090` as bounded acquaintance records. Shiho's shown introduction differs from An's already established acquaintance; neither establishes intimate or guarded N25 knowledge. Existing creative/group bonds receive contextual evidence without successor IDs.
 
-EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. MMJ/WXS foundations, Leo/need routed history and 21 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
+EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. WXS foundation, Leo/need routed history and 21 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. WXS remains canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
-Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. WXS foundation and the material routed/screening/reconstruction backlog remain pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. N25, Leo/need, VBS and MMJ foundations are complete; WXS remains pending. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
 
 ## 1. Purpose
 
@@ -2151,3 +2154,275 @@ Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS
 **Bounded record:** Len reports reconciliation20; unseen conversation and any kinship labels remain unasserted.
 
 **Evidence:** `PJSK:main:street_01_20:01:006:0005`; `PJSK:main:street_01_20:01:006:0007`. Confidence: HIGH.
+
+## MORE MORE JUMP! main-story foundation — serial phase history
+
+Records are valid at their named phase boundary and preserve earlier ignorance, interrupted repair and historically valid states. A preserved human ID receives refinement without an automatic global transition. Source confidence is HIGH for the supported interpretation; unshown transmission, broader durability and future outcomes remain OPEN. Shared causes belong to each phase reading. These are historical main-story defaults, not replacements for later cross-unit states or certification of character readiness.
+
+### MMJ-MS-P01 — through `PJSK:main:mmj_01_04:01`
+
+Causal and evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P01_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-REL-MNHR-01
+
+**Prior:** Unfounded public admiration
+
+**Bounded state / claim:** Asymmetric fan admiration becomes acknowledged peer contact; permission for non-polite speech and specific protective action.
+
+**Evidence:** `PJSK:main:mmj_01_02:01:001:0036–0038`; `PJSK:main:mmj_01_02:01:001:0054–0065`. Confidence: HIGH.
+
+#### MMJ-REL-MNAI-01
+
+**Prior:** No teaching relation
+
+**Bounded state / claim:** Conditional stern mentor/novice relation until next failed audition.
+
+**Evidence:** `PJSK:main:mmj_01_04:01:001:0013–0018`; `PJSK:main:mmj_01_04:01:003:0013–0030`. Confidence: HIGH.
+
+#### MMJ-REL-MNSZ-01
+
+**Prior:** No teaching relation
+
+**Bounded state / claim:** Active supportive teacher within work availability; validates persistence.
+
+**Evidence:** `PJSK:main:mmj_01_04:01:001:0008–0014`; `PJSK:main:mmj_01_04:01:003:0024–0027`. Confidence: HIGH.
+
+#### MMJ-REL-AISZ-01
+
+**Prior:** No canonical MMJ historical record
+
+**Bounded state / claim:** Prior trainee friendship and remembered idol norm; present rumor questioning and avoidance.
+
+**Evidence:** `PJSK:main:mmj_01_02:01:001:0040–0046`; `PJSK:main:mmj_01_04:01:003:0035–0042`. Confidence: HIGH.
+
+#### MMJ-REL-HRAI-01
+
+**Prior:** No direct relation established
+
+**Bounded state / claim:** Professional/age-status friction; Haruka counters eavesdropping and space accusations with polite firmness.
+
+**Evidence:** `PJSK:main:mmj_01_02:01:001:0051–0065`. Confidence: HIGH.
+
+#### MMJ-REL-HRSZ-01
+
+**Prior:** No canonical historical baseline
+
+**Bounded state / claim:** Professional acquaintance; prior-year recording reference, not established private intimacy.
+
+**Evidence:** `PJSK:main:mmj_01_02:01:001:0027–0033`; `PJSK:main:mmj_01_02:01:001:0053`. Confidence: HIGH.
+
+#### MMJ-REL-GROUP-01
+
+**Prior:** No human unit
+
+**Bounded state / claim:** Contingent rooftop novice/two-teacher/observer configuration.
+
+**Evidence:** `PJSK:main:mmj_01_04:01:001:0008–0018`; `PJSK:main:mmj_01_04:01:003:0003–0009`. Confidence: HIGH.
+
+### MMJ-MS-P02 — through `PJSK:main:mmj_01_08:01`
+
+Causal and evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P02_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-REL-MNHR-02
+
+**Prior:** MMJ-REL-MNHR-01
+
+**Bounded state / claim:** Haruka withdraws from practice proximity while offering contact and walks; Minori remains grateful and uninformed.
+
+**Evidence:** `PJSK:main:mmj_01_08:01:004:0009–0024`. Confidence: HIGH.
+
+#### MMJ-REL-AISZ-02
+
+**Prior:** MMJ-REL-AISZ-01
+
+**Bounded state / claim:** Appearance-based comparative attack from the former source of hope causes explicit rupture; immediate attempted apology fails to restore contact.
+
+**Evidence:** `PJSK:main:mmj_01_08:01:002:0006–0019`; `PJSK:main:mmj_01_08:01:003:0028–0039`. Confidence: HIGH.
+
+#### MMJ-REL-GROUP-02
+
+**Prior:** MMJ-REL-GROUP-01
+
+**Bounded state / claim:** Shared live does not secure ordinary gathering; seniors absent and Haruka withdraws.
+
+**Evidence:** `PJSK:main:mmj_01_07:01:001:0002–0022`; `PJSK:main:mmj_01_08:01:004:0002–0024`. Confidence: HIGH.
+
+### MMJ-MS-P03 — through `PJSK:main:mmj_01_12:01`
+
+Causal and evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P03_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-REL-MNAI-02
+
+**Prior:** MMJ-REL-MNAI-01
+
+**Bounded state / claim:** Disclosure and fellow aspiration add reciprocal encouragement; Minori restrains teacher, who accepts and thanks her.
+
+**Evidence:** `PJSK:main:mmj_01_09:01:002:0025–0042`; `PJSK:main:mmj_01_11:01:002:0043–0049`. Confidence: HIGH.
+
+#### MMJ-REL-MNSZ-02
+
+**Prior:** MMJ-REL-MNSZ-01
+
+**Bounded state / claim:** Shizuku thanks novice for restraint and welcomes shared rehearsal.
+
+**Evidence:** `PJSK:main:mmj_01_11:01:002:0051–0052`; `PJSK:main:mmj_01_12:01:001:0049–0052`. Confidence: HIGH.
+
+#### MMJ-REL-AISZ-03
+
+**Prior:** MMJ-REL-AISZ-02
+
+**Bounded state / claim:** Accountable apology, specific effort recognition and mutually desired idol partnership; no former-group reconciliation.
+
+**Evidence:** `PJSK:main:mmj_01_11:01:002:0030–0036`; `PJSK:main:mmj_01_12:01:001:0005–0042`. Confidence: HIGH.
+
+#### MMJ-REL-HRAI-02
+
+**Prior:** MMJ-REL-HRAI-01
+
+**Bounded state / claim:** Shared crisis and concern; Airi requests professional teaching and hears unexplained refusal.
+
+**Evidence:** `PJSK:main:mmj_01_12:01:001:0053–0074`. Confidence: HIGH.
+
+#### MMJ-REL-HRSZ-02
+
+**Prior:** MMJ-REL-HRSZ-01
+
+**Bounded state / claim:** Concern and teaching request reveal unexplained barrier; Haruka does not accept role.
+
+**Evidence:** `PJSK:main:mmj_01_12:01:001:0055–0075`. Confidence: HIGH.
+
+#### MMJ-REL-GROUP-03
+
+**Prior:** MMJ-REL-GROUP-02
+
+**Bounded state / claim:** Three-person practice configuration and concern for excluded fourth after repaired partnership.
+
+**Evidence:** `PJSK:main:mmj_01_12:01:001:0048–0077`. Confidence: HIGH.
+
+#### MMJ-REL-HUMAN-STAGE-01
+
+**Prior:** Inviting local manifestation relation
+
+**Bounded state / claim:** Rin actively encourages Airi and reenacts her lost idol norm; enables return to novice interaction, not sole cause of full human repair.
+
+**Evidence:** `PJSK:main:mmj_01_09:01:001:0011–0034`; `PJSK:main:mmj_01_09:01:002:0010–0042`. Confidence: HIGH.
+
+### MMJ-MS-P04 — through `PJSK:main:mmj_01_18:01`
+
+Causal and evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P04_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-REL-MNHR-03
+
+**Prior:** MMJ-REL-MNHR-02
+
+**Bounded state / claim:** Admiration gains informed reciprocal care, detailed recipient testimony and accepted hand support; skill asymmetry remains.
+
+**Evidence:** `PJSK:main:mmj_01_18:01:002:0063–0101`. Confidence: HIGH.
+
+#### MMJ-REL-HRAI-03
+
+**Prior:** MMJ-REL-HRAI-02
+
+**Bounded state / claim:** Informed support project, practical coaching and accepted bodily aid.
+
+**Evidence:** `PJSK:main:mmj_01_17:01:002:0017–0027`; `PJSK:main:mmj_01_18:01:002:0091–0093`. Confidence: HIGH.
+
+#### MMJ-REL-HRSZ-03
+
+**Prior:** MMJ-REL-HRSZ-02
+
+**Bounded state / claim:** Informed care includes risk recognition, coaching and explicitly repeatable physical support.
+
+**Evidence:** `PJSK:main:mmj_01_17:01:001:0031–0033`; `PJSK:main:mmj_01_17:01:002:0020–0029`; `PJSK:main:mmj_01_18:01:002:0091–0093`. Confidence: HIGH.
+
+#### MMJ-REL-HRMAI-01
+
+**Prior:** No bounded historical baseline
+
+**Bounded state / claim:** Admired model/colleague and friend; remembered accusation and exchanged apologies; Haruka conceals causal admission from Mai.
+
+**Evidence:** `PJSK:main:mmj_01_13:01:003:0019–0074`; `PJSK:main:mmj_01_14:01:002:0011–0044`. Confidence: HIGH.
+
+#### MMJ-REL-GROUP-04
+
+**Prior:** MMJ-REL-GROUP-03
+
+**Bounded state / claim:** Collaborative help project becomes four-person experience of giving/receiving support and Haruka supported access.
+
+**Evidence:** `PJSK:main:mmj_01_17:01:002:0010–0030`; `PJSK:main:mmj_01_18:01:002:0075–0101`. Confidence: HIGH.
+
+#### MMJ-REL-HUMAN-STAGE-02
+
+**Prior:** MMJ-REL-HUMAN-STAGE-01
+
+**Bounded state / claim:** Supported performance project and accepted help, rather than externally solving humans without their participation.
+
+**Evidence:** `PJSK:main:mmj_01_16:01:001:0092–0106`; `PJSK:main:mmj_01_17:01:002:0010–0015`; `PJSK:main:mmj_01_18:01:002:0075–0093`. Confidence: HIGH.
+
+### MMJ-MS-P05 — through `PJSK:main:mmj_01_20:01`
+
+Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P05_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-REL-MNHR-04
+
+**Prior:** MMJ-REL-MNHR-03
+
+**Bounded state / claim:** Explicit fellow membership corrects Minori self-exclusion; admiration and development gap remain.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0044–0064`. Confidence: HIGH.
+
+#### MMJ-REL-MNAI-03
+
+**Prior:** MMJ-REL-MNAI-02
+
+**Bounded state / claim:** Teaching continues after rejection within mutual membership; former termination condition replaced in practice.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0005–0022`; `PJSK:main:mmj_01_20:01:001:0059–0064`. Confidence: HIGH.
+
+#### MMJ-REL-MNSZ-03
+
+**Prior:** MMJ-REL-MNSZ-02
+
+**Bounded state / claim:** Comfort and mutual accommodation justify membership; Shizuku initiates familiar address.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0008–0014`; `PJSK:main:mmj_01_20:01:001:0060–0064`; `PJSK:main:mmj_01_20:01:001:0086–0088`. Confidence: HIGH.
+
+#### MMJ-REL-AISZ-04
+
+**Prior:** MMJ-REL-AISZ-03
+
+**Bounded state / claim:** Repaired two-person aspiration expands into four-person work with Airi assent explicitly respected.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0035–0042`. Confidence: HIGH.
+
+#### MMJ-REL-HRAI-04
+
+**Prior:** MMJ-REL-HRAI-03
+
+**Bounded state / claim:** Chosen collaboration includes professional respect and exacting standards even for Haruka.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0038–0043`. Confidence: HIGH.
+
+#### MMJ-REL-HRSZ-04
+
+**Prior:** MMJ-REL-HRSZ-03
+
+**Bounded state / claim:** Chosen shared work grounded in expectation of helping one another.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0029–0037`. Confidence: HIGH.
+
+#### MMJ-REL-GROUP-05
+
+**Prior:** MMJ-REL-GROUP-04
+
+**Bounded state / claim:** Four-person accepted named MORE MORE JUMP! unit begins practice; no settled external agency/activity model.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0027–0064`; `PJSK:main:mmj_01_20:01:001:0065–0091`. Confidence: HIGH.
+
+#### MMJ-REL-HRMAI-01
+
+**Prior:** MMJ-REL-HRMAI-01
+
+**Bounded state / claim:** PRESERVE; Mai hears return intention and expresses relief; full hidden cause, group name and Mai injury outcome remain unknown.
+
+**Evidence:** `PJSK:main:mmj_01_19:01:002:0002–0009`. Confidence: HIGH.

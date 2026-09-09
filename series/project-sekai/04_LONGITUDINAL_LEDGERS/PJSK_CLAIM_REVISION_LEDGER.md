@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
-analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN foundation-current P04 only; VBS foundation-current P04 only"
+source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20"
+analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -30,10 +30,13 @@ The imported ledger reuses the following IDs for different claims. Historical id
 
 The EVENT_0070 heading `CR-N25-E-057 / talent-continuation architecture` is a dangling imported reference, not an additional established claim. Its stated EVENT_0053 continuation premise resolves to **`CR-N25-ENA-021`**, including the §7.20 strengthening. Use that responsible claim plus the EVENT_0070 extension when citing the passage. These reference repairs introduce no new source findings and confer no franchise-wide claim authority before the other unit foundations are completed.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. WXS remains canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
-Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. WXS foundation and the material routed/screening/reconstruction backlog remain pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. N25, Leo/need, VBS and MMJ foundations are complete; WXS remains pending. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
 
 ## 1. Purpose
 
@@ -1617,3 +1620,155 @@ Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS
 **NEW / FOUNDATION-BOUNDED:** Whether collaboration can sustain progress to surpass RAD WEEKEND remains open at foundation ending.
 
 **Evidence:** `PJSK:main:street_01_20:01:004:0013`. Confidence: HIGH.
+
+## MORE MORE JUMP! main-story foundation — serial phase history
+
+Records are valid at their named phase boundary and preserve earlier ignorance, interrupted repair and historically valid states. A preserved human ID receives refinement without an automatic global transition. Source confidence is HIGH for the supported interpretation; unshown transmission, broader durability and future outcomes remain OPEN. Shared causes belong to each phase reading. These are historical main-story defaults, not replacements for later cross-unit states or certification of character readiness.
+
+### MMJ-MS-P01 — through `PJSK:main:mmj_01_04:01`
+
+Causal and evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P01_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-001
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: received hope enables renewed action and sustained aspiration without proving outcomes guaranteed.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:001:0032–0041`; `PJSK:main:mmj_01_01:01:004:0015–0024`. Confidence: HIGH.
+
+#### MMJ-CL-002
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** OPEN/NEW tension: Airi dismisses effort yet practices useful teaching; public classification troubles her, cause not yet established.
+
+**Evidence:** `PJSK:main:mmj_01_03:01:001:0019–0030`; `PJSK:main:mmj_01_04:01:003:0013–0048`. Confidence: HIGH.
+
+#### MMJ-CL-003
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: Shizuku gentle speech includes clear protective initiative; unresolved work trouble cannot be inferred away.
+
+**Evidence:** `PJSK:main:mmj_01_03:01:001:0024–0030`; `PJSK:main:mmj_01_04:01:001:0008–0014`. Confidence: HIGH.
+
+#### MMJ-CL-010
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: Airi teaching agreement is explicitly conditional on next audition not failing.
+
+**Evidence:** `PJSK:main:mmj_01_04:01:001:0016–0018`. Confidence: HIGH.
+
+### MMJ-MS-P02 — through `PJSK:main:mmj_01_08:01`
+
+Causal and evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P02_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-002
+
+**Prior:** MMJ-CL-002 P01 OPEN
+
+**Bounded state / claim:** STRENGTHEN/RESOLVE limited cause: Airi enjoyed and studied variety, but imposed replacement of idol work and failed agency change wound desired identity.
+
+**Evidence:** `PJSK:main:mmj_01_07:01:004:0019–0040`; `PJSK:main:mmj_01_08:01:002:0002–0005`. Confidence: HIGH.
+
+#### MMJ-CL-004
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: withheld idol recognition and reduction to appearance are distinct injuries joined through comparative envy.
+
+**Evidence:** `PJSK:main:mmj_01_05:01:002:0008–0013`; `PJSK:main:mmj_01_08:01:002:0012–0019`; `PJSK:main:mmj_01_08:01:003:0017–0039`. Confidence: HIGH.
+
+#### MMJ-CL-005
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW with OPEN ontology: blue view represents remembered valued audience relation; same enjoyable live does not resolve all humans.
+
+**Evidence:** `PJSK:main:mmj_01_06:01:001:0045–0069`; `PJSK:main:mmj_01_07:01:001:0002–0028`. Confidence: HIGH.
+
+### MMJ-MS-P03 — through `PJSK:main:mmj_01_12:01`
+
+Causal and evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P03_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-004
+
+**Prior:** MMJ-CL-004 P02
+
+**Bounded state / claim:** STRENGTHEN; REJECT single-cause attribution of Shizuku departure to Airi: long group deterioration and prior consideration coexist with recent injury.
+
+**Evidence:** `PJSK:main:mmj_01_10:01:002:0025–0034`. Confidence: HIGH.
+
+#### MMJ-CL-006
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: recipient recognition and accountable apology restore mutually desired idol legitimacy/partnership; old group remains unreconciled.
+
+**Evidence:** `PJSK:main:mmj_01_11:01:002:0030–0062`; `PJSK:main:mmj_01_12:01:001:0005–0041`. Confidence: HIGH.
+
+### MMJ-MS-P04 — through `PJSK:main:mmj_01_18:01`
+
+Causal and evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P04_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-001
+
+**Prior:** MMJ-CL-001 P01
+
+**Bounded state / claim:** REVISE/STRENGTHEN: hope is uncertain enabling action; fear-driven overpractice and impossible no-harm duty expose its limits. No effort-success guarantee.
+
+**Evidence:** `PJSK:main:mmj_01_13:01:003:0045–0074`; `PJSK:main:mmj_01_15:01:001:0030–0055`; `PJSK:main:mmj_01_18:01:002:0065–0101`. Confidence: HIGH.
+
+#### MMJ-CL-005
+
+**Prior:** MMJ-CL-005 P02
+
+**Bounded state / claim:** STRENGTHEN blue view as reciprocity/vantage motif; Miku possibility and Minori interpretation do not establish exact creator of all lights.
+
+**Evidence:** `PJSK:main:mmj_01_16:01:001:0063–0077`; `PJSK:main:mmj_01_18:01:002:0036–0052`; `PJSK:main:mmj_01_18:01:002:0094–0101`. Confidence: HIGH.
+
+#### MMJ-CL-007
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: Haruka retirement has guilt and reported bodily inhibition after prior help-seeking; public school-only account incomplete and deliberately retained for Mai.
+
+**Evidence:** `PJSK:main:mmj_01_14:01:002:0022–0044`; `PJSK:main:mmj_01_15:01:002:0002–0010`. Confidence: HIGH.
+
+#### MMJ-CL-008
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: desire, testimony and accepted support allow stage access while trembling remains; no diagnosis, cure or blanket future recovery.
+
+**Evidence:** `PJSK:main:mmj_01_18:01:002:0057–0101`. Confidence: HIGH.
+
+### MMJ-MS-P05 — through `PJSK:main:mmj_01_20:01`
+
+Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P05_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-006
+
+**Prior:** MMJ-CL-006 P03
+
+**Bounded state / claim:** STRENGTHEN: three recognize Minori as an idol through hope received; mutual need authorizes membership beyond institutional selection.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0013–0018`; `PJSK:main:mmj_01_20:01:001:0051–0064`. Confidence: HIGH.
+
+#### MMJ-CL-009
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: chosen group accommodates novice skill disparity without denying it; fifty-first failure precedes new membership. Agency, public debut and sustainability remain OPEN.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0002–0018`; `PJSK:main:mmj_01_20:01:001:0027–0064`. Confidence: HIGH.
+
+#### MMJ-CL-010
+
+**Prior:** MMJ-CL-010 P01
+
+**Bounded state / claim:** REVISE: Airi continues teaching after actual next rejection; earlier terminal condition no longer governs this relation.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0005–0022`. Confidence: HIGH.

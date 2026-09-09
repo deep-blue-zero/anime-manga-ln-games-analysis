@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
-analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN foundation-current P04 only; VBS foundation-current P04 only"
+source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20"
+analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,14 +17,17 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The verified forward analytical frontier is **EVENT_0090**, an I2 refinement of Ena's working artistic method. Current global human defaults remain **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Ena now supplies explicit subject-to-technique selection, qualified reception assessment and subsequent practice evidence; these operationalize the existing aesthetic state rather than replace it. EVENT_0089 remains the latest global human transition: Kanade sustains recipient-directed protection after failed parental trust, retaining bounded self-permission, supported ordinary competence and rescue obligation.
+The verified forward analytical frontier is **EVENT_0090**, an I2 refinement of Ena's working artistic method. Current N25 global human defaults remain **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Ena now supplies explicit subject-to-technique selection, qualified reception assessment and subsequent practice evidence; these operationalize the existing aesthetic state rather than replace it. EVENT_0089 remains the latest global human transition: Kanade sustains recipient-directed protection after failed parental trust, retaining bounded self-permission, supported ordinary competence and rescue obligation.
 
-Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. MMJ/WXS foundations, Leo/need routed history and 21 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
+Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. WXS foundation, Leo/need routed history and 21 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. WXS remains canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
-Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. WXS foundation and the material routed/screening/reconstruction backlog remain pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. N25, Leo/need, VBS and MMJ foundations are complete; WXS remains pending. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
 
 ## 1. Purpose and authority
 
@@ -1784,3 +1787,331 @@ Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS
 **Historical chain:** `VBS-TOYA-MS3`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
 
 **Evidence:** `PJSK:main:street_01_18:01:001:0044`; `PJSK:main:street_01_19:01:001:0037`; `PJSK:main:street_01_19:01:001:0047`; `PJSK:main:street_01_19:01:001:0064`; `PJSK:main:street_01_20:01:002:0015`. Confidence: HIGH.
+
+## MORE MORE JUMP! main-story foundation — serial phase history
+
+Records are valid at their named phase boundary and preserve earlier ignorance, interrupted repair and historically valid states. A preserved human ID receives refinement without an automatic global transition. Source confidence is HIGH for the supported interpretation; unshown transmission, broader durability and future outcomes remain OPEN. Shared causes belong to each phase reading. These are historical main-story defaults, not replacements for later cross-unit states or certification of character readiness.
+
+### MMJ-MS-P01 — through `PJSK:main:mmj_01_04:01`
+
+Causal and evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P01_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-01
+
+**Prior:** No substantive MMJ foundation; opening retrospective: perceived misfortune/avoidance becomes hope through Haruka.
+
+**Bounded state / claim:** Hopeful novice after fifty rejections; accepts Haruka retirement, seeks instruction, recognizes perseverance as a strength; private excitement and insecurity, solitary effort and new teacher dependence coexist.
+
+**Self-concept:** Aspiring idol after fifty rejected applications; begins recognizing persistence as a real strength despite weak credentials. **Goals:** Become like Haruka and give others hope; improve through instruction and pass the next audition. **Fears / uncertainty:** Audition failure and inadequate skill recur; nervous about imposing on admired professionals. Does not know their private troubles.
+
+**Emotion and presentation:** Excitable and hopeful but vulnerable to discouragement; acceptance of retirement coexists with intense admiration. Eager, deferential novice; privately much more overwhelmed by Haruka than her attempted ordinary conversation conveys. **Coping:** Self-exhortation, remembered encouragement, repeated practice and applications; now asks for practical help rather than working entirely alone. **Agency:** Initiates applications, practice and the request for teaching; can decide to respect Haruka’s declared choice despite personal disappointment. **Speech:** Hesitant polite requests and senior address; excited internal repetition. Haruka expressly permits familiar peer speech, which initially embarrasses her.
+
+**Relational dependencies:** Haruka’s example sustains hope; Airi and Shizuku newly supply different teaching strengths. No secure professional membership yet.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:001:0001–0041`; `PJSK:main:mmj_01_01:01:004:0015–0024`; `PJSK:main:mmj_01_04:01:003:0013–0030`. Confidence: HIGH.
+
+#### MMJ-HR-MS-01
+
+**Prior:** No substantive MMJ foundation; opening declares retirement, cause unrevealed.
+
+**Bounded state / claim:** Retired self-described ordinary student; seeks reading/privacy, permits peer address, defends Minori and observes rooftop practice. Private cause and continuing desire OPEN.
+
+**Self-concept:** Defines herself publicly as an ordinary high-school student who has left idol work. Private retirement cause remains OPEN. **Goals:** Resume ordinary schooling and find quiet reading space; protect Minori’s prior right to rehearse when challenged. **Fears / uncertainty:** Unwanted attention is directly shown; deeper fears, private reasons for retirement and any wish to return remain OPEN at this cutoff.
+
+**Emotion and presentation:** Controlled and observant, with moments of warmth; quieter responses around Minori’s aspiration require explanation still unavailable here. Courteous returned student and retired professional; privately seeks relief from attention and reads near Minori’s practice. **Coping:** Seeks privacy and reading; uses direct boundary-setting when accused. Do not infer later clinical or guilt-related mechanisms yet. **Agency:** Chooses her school arrangement, offers address permission and counters Airi; does not volunteer to teach or perform. **Speech:** Formal school/teacher language; polite but pointed disagreement with Airi; friendly peer invitation to Minori.
+
+**Relational dependencies:** New peer contact with Minori and prior professional acquaintance with Shizuku; dependence on others for an undisclosed crisis is OPEN.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:005:0036–0039`; `PJSK:main:mmj_01_01:01:004:0004–0005`; `PJSK:main:mmj_01_02:01:001:0036–0038`; `PJSK:main:mmj_01_02:01:001:0054–0065`. Confidence: HIGH.
+
+#### MMJ-AI-MS-01
+
+**Prior:** No substantive MMJ foundation; former QT/variety association established.
+
+**Bounded state / claim:** Blunt, industry-aware critic becomes conditional teacher through remembered idol norm; actionable standards and praise coexist with public recognition discomfort. No cause imported yet.
+
+**Self-concept:** Former idol associated publicly with variety work; knowledgeable critic who can still enact the idol norm she formerly taught Shizuku. **Goals:** Get clarity about Shizuku’s rumors; evaluate and then improve Minori’s audition preparation under a stated failure condition. **Fears / uncertainty:** Industry odds and Minori’s weak preparation are explicit concerns; private reasons for her own retirement and their emotional extent remain OPEN.
+
+**Emotion and presentation:** Irritable and demanding in conflict; engaged, approving and useful once teaching. Public classification discomfort is visible but unexplained. Assertive senior/professional authority; discomfort after passersby misclassify her is not explained to the others. **Coping:** Challenges vague answers, invokes standards and supplies corrections; may retreat rather than answer public attention. Deeper motive remains OPEN. **Agency:** Initiates confrontation and controls the lesson; agrees to help after Shizuku recalls her own values, not because she suddenly endorses effortless success. **Speech:** Direct questions, imperatives and アンタ; sharp evaluation can become practical instruction and praise without abandoning directness.
+
+**Relational dependencies:** Established trainee-history bond with Shizuku can recall her ideals; Minori creates a new teaching role; Haruka challenges her authority.
+
+**Evidence:** `PJSK:main:mmj_01_03:01:001:0002–0030`; `PJSK:main:mmj_01_04:01:001:0013–0018`; `PJSK:main:mmj_01_04:01:003:0035–0048`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-01
+
+**Prior:** No substantive MMJ foundation; current center and Airi trainee companion.
+
+**Bounded state / claim:** Working idol with unresolved rumors; actively defends Minori dream, offers bounded teaching and validates effort; silence toward Airi conceals an unestablished problem.
+
+**Self-concept:** Current idol/center who values giving hope and effort; a former trainee partner of Airi. Present work conflict is not yet explained. **Goals:** Protect Minori’s aspiration and teach on available days; continue work while deferring Airi’s rumor questioning. **Fears / uncertainty:** Silence around rumors shows unresolved concern; the specific feared consequences, colleagues’ conduct and future work choices remain OPEN.
+
+**Emotion and presentation:** Composed and encouraging in the lesson; hesitant or silent under Airi’s private pressure. Hidden strain is not yet fully characterized. Gentle senior and working professional; can oppose a harmful statement clearly while remaining reassuring. **Coping:** Invokes remembered values, offers practical teaching and validates effort; delays answering a sensitive question, with reasons still OPEN. **Agency:** First to challenge dismissal of Minori’s dream and first to accept teaching; her gentle manner does not erase initiative. **Speech:** Reassuring questions and gentle endings; direct request that Airi not negate the novice’s dream; calls Airi by familiar name.
+
+**Relational dependencies:** Shared trainee history and remembered Airi ideals are important; new teaching connection to Minori; prior professional contact with Haruka.
+
+**Evidence:** `PJSK:main:mmj_01_02:01:001:0040–0046`; `PJSK:main:mmj_01_03:01:001:0024–0030`; `PJSK:main:mmj_01_04:01:001:0008–0014`; `PJSK:main:mmj_01_04:01:003:0024–0027`. Confidence: HIGH.
+
+#### MMJ-VS-STAGE-01
+
+**Prior:** No MMJ-local manifestation record
+
+**Bounded state / claim:** Initialize Stage Miku/Rin only: invitation to find feelings, friendly encouragement, Miku describes learning dance from Rin. Opening encounter later treated as dream by Minori.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:005:0007–0033`; `PJSK:main:mmj_01_03:01:001:0047–0057`. Confidence: HIGH. **OPEN:** Opening versus later first-meeting phrasing remains unexplained.
+
+### MMJ-MS-P02 — through `PJSK:main:mmj_01_08:01`
+
+Causal and evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P02_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-01
+
+**Prior:** MMJ-MN-MS-01
+
+**Bounded state / claim:** PRESERVE; receives practical training/care, enjoys Stage live, notices sadness and absence without knowing private causes; continues aspiration after Haruka withdraws.
+
+**Self-concept:** PRESERVE MMJ-MN-MS-01: hopeful technical novice; improvement and received help do not remove appearance insecurity or lack of credentials. **Goals:** PRESERVE aspiration and audition work; continue practicing despite unexplained mentor absence and Haruka’s departure from the rooftop. **Fears / uncertainty:** Worries about comparing poorly with prettier applicants; notices others’ sadness but does not know Airi/Shizuku conflict or Haruka’s private cause.
+
+**Emotion and presentation:** PRESERVE excited hope with discouragement; enjoys the Stage live, then feels concern and disappointment at reduced companionship. Grateful learner and enthusiastic audience member; can thank Haruka for earlier support rather than accuse her when she leaves. **Coping:** PRESERVE practice and self-encouragement; accepts reassurance and practical injury care, sends a request for further teaching. **Agency:** PRESERVE self-directed rehearsal and requests for help; observes distress without having an informed intervention plan. **Speech:** PRESERVE polite senior address and familiar Haruka address; enthusiastic exclamation, small comic protest and sincere gratitude.
+
+**Relational dependencies:** PRESERVE Haruka as admired model and seniors as teachers; their reduced availability weakens the arrangement. Stage singers add encouragement.
+
+**Evidence:** `PJSK:main:mmj_01_05:01:005:0005–0014`; `PJSK:main:mmj_01_07:01:001:0020–0035`; `PJSK:main:mmj_01_08:01:004:0002–0024`. Confidence: HIGH.
+
+#### MMJ-HR-MS-02
+
+**Prior:** MMJ-HR-MS-01
+
+**Bounded state / claim:** Self-disqualification and accusation fragment reader-visible; remembers blue audience view, enjoys live but leaves and stops attending practice while retaining friendly contact. Injury/cause not yet disclosed.
+
+**Self-concept:** Retired idol who privately judges herself unqualified; retains a valued memory of stage/audience connection. Full causal explanation remains OPEN. **Goals:** Maintain student life and leave rehearsal proximity; still offers contact with Minori and gives specific practical care. **Fears / uncertainty:** A remembered accusation is linked to self-disqualification; accuser identity, injury history, bodily barrier and prior treatment are not yet disclosed.
+
+**Emotion and presentation:** Can enjoy the live and speak warmly while feeling loss; withdrawal and private self-denial coexist with that pleasure. Polite appreciation and ordinary-study explanation in company; private remembered accusation and self-condemnation are reader-only here. **Coping:** Withdraws from the live and later practice proximity while preserving the friendship; broader coping history remains OPEN. **Agency:** Chooses to leave, changes reading location and retains control over contact; neither performs nor agrees to instruction. **Speech:** Thanks the singers politely, uses a parting farewell, and privately denies her idol qualification; offers Minori familiar, considerate contact.
+
+**Relational dependencies:** Minori remains a valued contact rather than a rejected person; Stage encounter recalls lost audience connection but does not resolve it.
+
+**Evidence:** `PJSK:main:mmj_01_06:01:001:0052–0060`; `PJSK:main:mmj_01_07:01:002:0006–0010`; `PJSK:main:mmj_01_08:01:004:0009–0028`. Confidence: HIGH.
+
+#### MMJ-AI-MS-02
+
+**Prior:** MMJ-AI-MS-01
+
+**Bounded state / claim:** Agency role-redirection and failed move explain recognition wound; retains stage desire and former enjoyment of variety; comparative defense harms Shizuku and produces immediate attempted apology.
+
+**Self-concept:** Would-be stage idol who experiences institutional redirection as denial of her desired identity; enjoyed and learned variety work before it displaced idol activity. **Goals:** Has wanted to deliver hope from idol stages; now struggles to believe desire and effort can secure that role. **Fears / uncertainty:** Believes industry and viewers do not recognize her as an idol; comparison with Shizuku makes affirmation feel inaccessible.
+
+**Emotion and presentation:** Longing and bitterness intensify into an envious outburst, immediately followed by recognition of hurt and an interrupted apology. Can teach and show concern in ordinary practice; privately discloses professional frustration to Shizuku and attacks her innate advantages. **Coping:** Previously studied and accepted opportunities, protested and changed agencies; now uses withdrawal and comparative defensiveness, with incomplete attempted repair. **Agency:** Prior attempts to alter work failed; current directness produces interpersonal harm rather than a viable new work choice. Repair is not completed. **Speech:** Dismissal of reassurance escalates through やめて into personal comparative accusations; begins an apology as Shizuku leaves.
+
+**Relational dependencies:** Shizuku is both valued friend and painful comparison target; Minori remains a learner, but final rehearsal is not attended.
+
+**Evidence:** `PJSK:main:mmj_01_07:01:004:0019–0040`; `PJSK:main:mmj_01_08:01:002:0002–0019`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-02
+
+**Prior:** MMJ-SZ-MS-01
+
+**Bounded state / claim:** Repeated appearance reduction at work and Airi matching accusation rupture trusted encouragement; privately thinks others changed and withdraws. Retirement not established at this cutoff.
+
+**Self-concept:** Idol striving to give hope whose work is reduced by colleagues to beauty; Airi’s matching judgment undermines the ideal that previously helped her persist. **Goals:** Had tried to sustain cooperative work and effort for fans; current direction after the friendship wound is OPEN. **Fears / uncertainty:** Repeated denigration and loss of trusted encouragement threaten her reason to continue; formal departure is not yet established at this cutoff.
+
+**Emotion and presentation:** Composed at work despite hurt; distressed and withdrawn after Airi’s attack, privately feeling that others have changed. Maintains professional civility and reassurance toward Minori; private pain and remembered trainee insecurity contrast with public idealization. **Coping:** Previously continued cooperative overtures despite overheard hostility; now leaves the quarrel and is absent from the lesson. New solution remains OPEN. **Agency:** Earlier supportive initiative persists historically, but current action is withdrawal; do not assign the later retirement decision to this phase. **Speech:** Reassuring heart/effort language in teaching; private 愛莉ちゃんまで makes the familiar speaker’s participation in denigration decisive.
+
+**Relational dependencies:** Airi’s early hope-giving words supported her chosen effort; that trust ruptures. Current group colleagues are a recurring source of harm.
+
+**Evidence:** `PJSK:main:mmj_01_05:01:002:0008–0013`; `PJSK:main:mmj_01_08:01:003:0007–0039`. Confidence: HIGH.
+
+### MMJ-MS-P03 — through `PJSK:main:mmj_01_12:01`
+
+Causal and evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P03_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-02
+
+**Prior:** MMJ-MN-MS-01
+
+**Bounded state / claim:** Admits ignorance but owns chosen path; encourages Airi, accompanies apology and restrains escalation by invoking idol duty. Fellow aspirant/ethical helper remains technical novice.
+
+**Self-concept:** Still a learner, now explicitly a fellow aspirant and someone whose commitment can encourage and ethically restrain an experienced idol. **Goals:** Continue chosen idol path; help Airi apologize, protect her from harmful escalation and support renewed practice with the seniors. **Fears / uncertainty:** Admits she cannot know Airi’s full past or imagine all future costs; newly concerned about Haruka’s unexplained disqualification statement.
+
+**Emotion and presentation:** Determined and caring despite witnessing ugly professional conduct; relieved when Airi stops and the senior pair recommit. Deferential novice in instruction but forceful protector when needed; does not pretend experiential equality with the professionals. **Coping:** Owns her choice under uncertainty, proposes practical accompaniment and invokes the idol ideal to interrupt escalation. **Agency:** Initiates moral/practical help and remains present despite Haruka’s warning; technical learning and senior instruction continue. **Speech:** Explicitly acknowledges ignorance, then states commitment; forceful ダメです retains 桃井先輩, showing that politeness need not prevent opposition.
+
+**Relational dependencies:** Airi now both teaches and receives encouragement/restraint; Shizuku thanks her; Haruka provides accompaniment but keeps a separate unexplained barrier.
+
+**Evidence:** `PJSK:main:mmj_01_09:01:002:0010–0022`; `PJSK:main:mmj_01_10:01:001:0021–0022`; `PJSK:main:mmj_01_11:01:002:0043–0051`. Confidence: HIGH.
+
+#### MMJ-HR-MS-02
+
+**Prior:** MMJ-HR-MS-02
+
+**Bounded state / claim:** PRESERVE; warns and accompanies Minori, then teaching request prompts public self-disqualification and retraction. Cause remains unknown to the three.
+
+**Self-concept:** PRESERVE MMJ-HR-MS-02: self-disqualifying retired idol; the claim now escapes publicly, without a new global state of recommitment. **Goals:** PRESERVE ordinary-student stance; warn and accompany Minori, then refuse requested teaching/participation. **Fears / uncertainty:** PRESERVE undisclosed barrier; a request to teach triggers a memory fragment. Identity/cause and bodily or medical specifics remain OPEN to the three.
+
+**Emotion and presentation:** PRESERVE controlled outward manner with moments of acute distress around participation; no renewed desire or relief is asserted here. Experienced, protective companion who warns of backstage envy; retracts the disqualification outburst as a verbal mistake and leaves. **Coping:** PRESERVE distancing and controlled explanations; uses warning and accompaniment to care for Minori without joining idol work. **Agency:** PRESERVE ability to choose ordinary contact and departure; can help others practically but rejects the professional role offered. **Speech:** Direct realistic warning; polite refusal breaks into a sharp self-disqualification, followed by formal minimizing explanation.
+
+**Relational dependencies:** PRESERVE Minori contact and professional ties; Airi/Shizuku’s repaired partnership creates concern and an invitation she does not accept.
+
+**Evidence:** `PJSK:main:mmj_01_11:01:001:0004–0013`; `PJSK:main:mmj_01_12:01:001:0053–0077`. Confidence: HIGH.
+
+#### MMJ-AI-MS-03
+
+**Prior:** MMJ-AI-MS-02
+
+**Bounded state / claim:** Chooses idol work without settled agency; admits envy, defends Shizuku effort and apologizes specifically; accepts Minori restraint and commits with Shizuku. Residual totalizing guilt preserved as self-assessment.
+
+**Self-concept:** Chooses to be an idol because she wants to give hope; recognizes personal envy and harm while receiving Shizuku’s judgment that she is an idol. **Goals:** Begin again, apologize and recognize Shizuku accurately; resume idol work together and regain practice competence. **Fears / uncertainty:** Agency/work route is unresolved; guilt can still overstate her sole responsibility for Shizuku’s departure. Haruka’s refusal creates a new unknown.
+
+**Emotion and presentation:** Renewed determination and competitive energy coexist with shame, anger at mistreatment and moved gratitude during repair. Can admit harmful motives and apologize without demanding forgiveness; remains a demanding teacher and an embarrassed recipient of affection. **Coping:** Owns desire, seeks apology, advocates Shizuku’s effort and accepts Minori’s restraint; explicit repair replaces the interrupted apology. **Agency:** Directly restarts practice and agrees to partnership; acts strongly but can over-escalate and then let another person stop her. **Speech:** Assertive declaration of chosen vocation; sustained specific apologies, self-including criticism of envy, affectionate resistance to Shizuku’s hug.
+
+**Relational dependencies:** Shizuku is mutually recognized ideal and chosen partner; Minori becomes fellow aspirant and ethical support while still learning from her.
+
+**Evidence:** `PJSK:main:mmj_01_09:01:002:0025–0042`; `PJSK:main:mmj_01_11:01:002:0026–0049`; `PJSK:main:mmj_01_12:01:001:0025–0042`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-03
+
+**Prior:** MMJ-SZ-MS-02
+
+**Bounded state / claim:** Leaves group/agency after cumulative harm, explains limits and earlier enjoyment, receives effort recognition, refuses return, and chooses renewed idol partnership with Airi.
+
+**Self-concept:** Recognized for effort and hope-giving intention rather than appearance alone; former center who can choose idol work again with Airi. **Goals:** Remain out of Cheerful＊Days, preserve meaningful idol aspiration and practice with Airi beside Minori; seek Haruka’s help if she is willing. **Fears / uncertainty:** Old-group hostility remains unresolved; future agency/activity plans are unknown, and Haruka’s unexplained statement creates concern.
+
+**Emotion and presentation:** Pain and limits are finally expressed; recognition brings strong relief and hopeful affection, without erasing previous hurt. Can explain cumulative harm and firmly refuse return while maintaining a courteous goodbye; openly requests and welcomes Airi’s renewed vocation. **Coping:** Discloses previously hidden strain, receives recognition, chooses a different partnership and offers affection rather than reentering the harmful group. **Agency:** Has left the group/agency, states she will not return, and explicitly chooses a renewed shared goal; does not merely follow an imposed career. **Speech:** Clear refusal within polite language; personal 私のアイドル recognition and direct request to Airi; warm agreement and affectionate action.
+
+**Relational dependencies:** Airi becomes explicitly chosen partner and mutual source of legitimacy; Minori has helped protect the repair; former-member cooperation is not restored.
+
+**Evidence:** `PJSK:main:mmj_01_10:01:002:0025–0034`; `PJSK:main:mmj_01_11:01:002:0053–0062`; `PJSK:main:mmj_01_12:01:001:0010–0041`. Confidence: HIGH.
+
+### MMJ-MS-P04 — through `PJSK:main:mmj_01_18:01`
+
+Causal and evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P04_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-03
+
+**Prior:** MMJ-MN-MS-02
+
+**Bounded state / claim:** Learns harm history, worries about intrusion, seeks singer help, initiates recipient-specific performance, accepts training and provides concrete benefits/testimony and hand support.
+
+**Self-concept:** Still a novice but now an informed recipient/helper who can show what Haruka’s hope actually changed in her life. **Goals:** Lighten Haruka’s distress and show a treasured view even if she stays retired; prepare a live that expresses Minori’s own gratitude. **Fears / uncertainty:** Worries past enthusiasm hurt Haruka and further intervention may intrude; knows her stage-access plan is initially incomplete.
+
+**Emotion and presentation:** Self-reproach and confusion become purposeful determination through consultation and collective preparation; gratitude remains central. Admits uncertainty to the singers and seniors, then presents a sincere recipient-specific performance; enthusiasm does not imply complete practical foresight. **Coping:** Seeks help, revises perspective, rehearses with concrete feedback, and offers specific testimony plus her hand rather than only repeating a slogan. **Agency:** Initiates the support project, recruits expertise and performs; relies on shared labor and Haruka’s expressed wish for the decisive stage approach. **Speech:** Hesitant consultation becomes clear performance address and concrete autobiographical thanks; familiar Haruka address remains, while senior address is preserved.
+
+**Relational dependencies:** Airi/Shizuku provide instruction and physical aid; Stage Miku/Rin provide viewpoint, space and support; Haruka must choose and accept help.
+
+**Evidence:** `PJSK:main:mmj_01_15:01:004:0002–0018`; `PJSK:main:mmj_01_16:01:001:0075–0106`; `PJSK:main:mmj_01_17:01:001:0046–0063`; `PJSK:main:mmj_01_18:01:002:0063–0073`. Confidence: HIGH.
+
+#### MMJ-HR-MS-03
+
+**Prior:** MMJ-HR-MS-02
+
+**Bounded state / claim:** Disclosure establishes guilt, reported stage-approach inhibition and prior help-seeking; exit accepts own desire, assisted stage access and evidence of delivered hope while still trembling. No diagnosis or global recovery.
+
+**Self-concept:** A former idol whose message had become linked to guilt and global self-disqualification; at exit recognizes that she did give hope and can want the stage. **Goals:** Protect Mai from ongoing blame; by the climax explicitly wants to climb up and see the treasured view again. Formal career/group plans remain OPEN here. **Fears / uncertainty:** Fears hope may pressure or hurt someone; reports inability to approach stage despite prior efforts and consultation. Trembling persists after assisted arrival.
+
+**Emotion and presentation:** Guilt, resignation and guarded gratitude shift toward acknowledged desire and recognition of real benefit; complete or stable recovery is not established. Keeps school-life explanation for Mai, privately admits causal link to the three, and finally voices first-person desire rather than only duty. **Coping:** Previously sought multiple kinds of help and tried repeatedly; protective withholding persists. At exit accepts recipient testimony and concrete bodily assistance. **Agency:** Can articulate what she wants and accept supported stage access; cannot yet be modeled as independently capable in every performance context. **Speech:** Polite firmness when protecting Mai; obligation-heavy private wording gives way to ステージに上がりたい and tentative acknowledgment of delivered hope.
+
+**Relational dependencies:** Minori’s testimony and hand, singers’ assistance, and Airi/Shizuku’s physical support are immediately load-bearing; Mai remains protected through unequal disclosure.
+
+**Evidence:** `PJSK:main:mmj_01_14:01:002:0040–0055`; `PJSK:main:mmj_01_15:01:002:0002–0010`; `PJSK:main:mmj_01_18:01:002:0075–0101`. Confidence: HIGH.
+
+#### MMJ-AI-MS-03
+
+**Prior:** MMJ-AI-MS-03
+
+**Bounded state / claim:** PRESERVE; reflective knowledge of quitting distress, acknowledges surprise-meeting defect, tests plan and provides concrete rehearsal/physical support.
+
+**Self-concept:** PRESERVE MMJ-AI-MS-03: recommitted idol and accountable friend; her own loss now informs, without fully explaining, Haruka’s situation. **Goals:** PRESERVE vocation and partnership; help Haruka and make Minori’s proposed live technically workable. **Fears / uncertainty:** Knows stage access is a practical obstacle and concern may become interference; acknowledges the surprise meeting’s defect. Outcome is uncertain during planning.
+
+**Emotion and presentation:** PRESERVE determination with concern and remembered quitting distress; relief in helping does not make her an infallible caregiver. Direct, practical senior who also discloses private regret and accepts that other people can question her intervention. **Coping:** PRESERVE reflective accountability; checks plan weaknesses, teaches broad movement, verifies rehearsal video and physically supports Haruka. **Agency:** PRESERVE active leadership, now in a collaborative care project; follows Minori’s initiating goal while supplying needed practical judgment. **Speech:** PRESERVE blunt correction and imperatives, now tied to reaching distant viewers and relying on others; openly admits past distress and planning defects.
+
+**Relational dependencies:** PRESERVE repaired Shizuku bond and reciprocal Minori relation; shared work and singer access enable help beyond what she could accomplish alone.
+
+**Evidence:** `PJSK:main:mmj_01_14:01:002:0036–0038`; `PJSK:main:mmj_01_17:01:001:0003–0017`; `PJSK:main:mmj_01_17:01:002:0017–0027`; `PJSK:main:mmj_01_18:01:002:0091–0093`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-03
+
+**Prior:** MMJ-SZ-MS-03
+
+**Bounded state / claim:** PRESERVE; describes self-chosen importance of idol work, tests possible emotional harm, supplies technical coaching and repeated bodily support; analogy remains fallible.
+
+**Self-concept:** PRESERVE MMJ-SZ-MS-03: actively chosen idol vocation and repaired partner identity; explicitly describes how meaningful that vocation became despite accidental entry. **Goals:** PRESERVE shared work with Airi; help Haruka through informed care, useful rehearsal and support she can receive repeatedly. **Fears / uncertainty:** Recognizes a beloved stage view might intensify pain; cannot know Haruka’s suffering merely from analogy with her own departure.
+
+**Emotion and presentation:** PRESERVE renewed hope, with remembered emptiness and present concern; supportive warmth does not eliminate caution. Gentle but active helper who shares her own loss, questions risks and provides specific expertise rather than reassurance alone. **Coping:** PRESERVE disclosure and chosen support; uses personal analogy cautiously, offers breathing/pitch guidance and steadies Haruka onstage. **Agency:** PRESERVE active choice and teaching; joins the live and directly offers repeated support when Haruka remains unsteady. **Speech:** PRESERVE considerate questions and reassurance; practical explanations and direct offer to support as often as needed make care concrete.
+
+**Relational dependencies:** PRESERVE chosen Airi partnership and Minori teaching relation; collective rehearsal and shared physical support address limits none can solve alone.
+
+**Evidence:** `PJSK:main:mmj_01_17:01:001:0011–0018`; `PJSK:main:mmj_01_17:01:001:0031–0033`; `PJSK:main:mmj_01_17:01:002:0020–0029`; `PJSK:main:mmj_01_18:01:002:0091–0093`. Confidence: HIGH.
+
+#### MMJ-VS-STAGE-02
+
+**Prior:** MMJ-VS-STAGE-01
+
+**Bounded state / claim:** Receive Minori origin and summarized Haruka problem, offer changed stage viewpoint/rehearsal access, Miku asks Haruka desire, both assist access. Knowledge limited to shown receipt.
+
+**Evidence:** `PJSK:main:mmj_01_16:01:001:0015–0036`; `PJSK:main:mmj_01_16:01:001:0063–0102`; `PJSK:main:mmj_01_17:01:002:0012–0013`; `PJSK:main:mmj_01_18:01:002:0075–0089`. Confidence: HIGH.
+
+### MMJ-MS-P05 — through `PJSK:main:mmj_01_20:01`
+
+Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P05_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-04
+
+**Prior:** MMJ-MN-MS-03
+
+**Bounded state / claim:** Novice founding member after fifty-first audition failure; belonging based on hope given, accepted through others trust despite real skill disparity and embarrassment. Continues effort and newly permitted familiar address.
+
+**Self-concept:** Novice founding member chosen for hope actually given; still compares her weaker skill and absent audition credentials with experienced partners. **Goals:** Give hope with the group, improve and catch up; continue practice after the fifty-first rejection. **Fears / uncertainty:** Fears inadequacy and initially doubts inclusion; real skill gap remains. Future public work and success are not established.
+
+**Emotion and presentation:** Disappointed at rejection and others’ invested effort, then encouraged, astonished and embarrassed by explicit acceptance. Eager admirer initially imagines herself as fan rather than member; accepts membership and familiar address with visible hesitation. **Coping:** Reframes another failure, accepts the others’ trust and mutual accommodation, and recommits to practice rather than denying the result. **Agency:** Accepts the offered member role, contributes the final group name and begins practice; group formation does not imply independent professional competence. **Speech:** Continues emphatic effort language and polite responses; Airi-chan/Shizuku-chan become explicitly permitted only after Shizuku’s invitation.
+
+**Relational dependencies:** The three recognize her contribution and offer skill-gap support; she remains deeply admiring of Haruka and dependent on expert instruction.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0002–0018`; `PJSK:main:mmj_01_20:01:001:0044–0064`; `PJSK:main:mmj_01_20:01:001:0084–0090`. Confidence: HIGH.
+
+#### MMJ-HR-MS-04
+
+**Prior:** MMJ-HR-MS-03
+
+**Bounded state / claim:** Shared singing reported; tells Mai intention to return, initiates four-person group and includes Minori; wants these supportive partners. No settled agency or universal recovery proof.
+
+**Self-concept:** Intends to resume idol work and chooses to found a group with those who gave her hope; shared singing is textually reported, not a complete recovery assessment. **Goals:** Work with these four people, continue standing on stages together and give fans hope; concrete agency arrangements remain unsettled. **Fears / uncertainty:** Durability of stage capacity outside this supportive context remains OPEN; Minori’s exclusion of herself requires correction, not confirmation.
+
+**Emotion and presentation:** Grateful and newly forward-looking, with reported enjoyment and quiet confidence in the proposal; absence of all future distress is not established. Courteous collaborator who tells Mai she will return, listens on arrival, and explicitly invites Minori rather than relying on implied inclusion. **Coping:** Builds on received support by choosing specific partners and mutual accommodation; fuller private disclosure to Mai is still not shown. **Agency:** Initiates the new group, insists on preferred partners and includes Minori; has not demonstrated a settled professional operation. **Speech:** Friendly peer warmth and direct proposal coexist with senior courtesy toward Airi; Minori’s new address permission does not alter Haruka’s usage automatically.
+
+**Relational dependencies:** Wants the particular people who gave her hope; mutual aid sustains the new plan. Mai receives return news but not all hidden causes or final naming details.
+
+**Evidence:** `PJSK:main:mmj_01_19:01:001:0009–0039`; `PJSK:main:mmj_01_19:01:002:0002–0009`; `PJSK:main:mmj_01_20:01:001:0027–0043`; `PJSK:main:mmj_01_20:01:001:0052–0061`. Confidence: HIGH.
+
+#### MMJ-AI-MS-04
+
+**Prior:** MMJ-AI-MS-03
+
+**Bounded state / claim:** Founding member/rigorous teacher and organizer; continues teaching after failed audition, agrees to Haruka proposal without dropping standards, directs naming and practice.
+
+**Self-concept:** Founding idol/member who retains exacting teaching authority; reciprocal contribution replaces her earlier conditional willingness to train Minori. **Goals:** Give hope with the four, improve performance, organize practice and move the new group forward. **Fears / uncertainty:** Future agency/work structure remains OPEN; rejection proves training has not secured institutional selection, without nullifying Minori’s belonging.
+
+**Emotion and presentation:** Indignant at the audition outcome, energized by the group prospect and playfully demanding during naming and practice. Assertive senior and organizer who accepts Haruka’s chosen route while preserving standards, including for the established star. **Coping:** Turns disappointment toward more instruction and practical next steps; corrects mistaken naming ideas with humor rather than abandoning the novice. **Agency:** Accepts the proposal after checking Haruka’s intention; initiates naming and first practice, within collectively accepted membership. **Speech:** PRESERVE direct imperatives, teasing corrections and emphatic evaluations; new member familiarity coexists with the instructional relationship.
+
+**Relational dependencies:** Repaired partnership with Shizuku expands with her assent; Haruka contributes chosen collaboration and Minori supplies hope, effort and naming initiative.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0005–0022`; `PJSK:main:mmj_01_20:01:001:0038–0043`; `PJSK:main:mmj_01_20:01:001:0065–0084`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-04
+
+**Prior:** MMJ-SZ-MS-03
+
+**Bounded state / claim:** Founding member choosing mutual support, practical comfort, skill-gap accommodation and familiar member address; old-group rupture remains.
+
+**Self-concept:** Founding member who chooses a wider mutually supportive unit after leaving the old group; both skill and ordinary limitations can be accommodated. **Goals:** Give hope and make enjoyable shared performances with the four; support Minori’s belonging and preserve Airi’s willing participation. **Fears / uncertainty:** Outside work, agency plans and former-group consequences remain OPEN; unequal skill is real and calls for mutual help rather than exclusion.
+
+**Emotion and presentation:** Hopeful, affectionate and encouraging; ordinary consolation and naming play coexist with a history of unresolved old-group hurt. Warm helper who offers food, checks Airi’s assent, reassures Minori and actively invites more familiar address. **Coping:** Uses practical comfort and explicit mutual accommodation; can participate playfully and make an English mistake without loss of member legitimacy. **Agency:** Chooses the group, helps articulate how members can cover limitations, contributes naming ideas and changes an address norm by invitation. **Speech:** PRESERVE considerate invitations and gentle assertions; explicitly permits dropping senior titles. Playful English proposals show situated fallibility, not global incompetence.
+
+**Relational dependencies:** Airi remains a valued chosen partner; the wider group offers shared aid. Former colleagues are not reconciled and no outside support system is newly established.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0008–0014`; `PJSK:main:mmj_01_20:01:001:0035–0037`; `PJSK:main:mmj_01_20:01:001:0050–0060`; `PJSK:main:mmj_01_20:01:001:0086–0088`. Confidence: HIGH.
+
+#### MMJ-VS-STAGE-02
+
+**Prior:** MMJ-VS-STAGE-02
+
+**Bounded state / claim:** PRESERVE; shared performance, invitation and ordinary ribbon help Miku-to-Rin extend local care without a new global singer state.
+
+**Evidence:** `PJSK:main:mmj_01_19:01:001:0019–0053`; `PJSK:main:mmj_01_20:01:002:0002–0007`. Confidence: HIGH.

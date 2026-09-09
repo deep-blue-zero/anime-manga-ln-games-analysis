@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20"
-analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN foundation-current P04 only; VBS foundation-current P04 only"
+source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20"
+analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN foundation-current P04 only; VBS foundation-current P04 only; MMJ foundation-current P05 only"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,12 +19,15 @@ mutable: true
 
 The latest integrated epistemic boundary is **EVENT_0090**, adding `EPI-N25-E-E0090`, `EPI-CROSS-SHIHO-ENA-E0090` and `EPI-CROSS-AN-ENA-E0090`. Ena learns a narrower subject-led use for critique and receives qualified evidence of communicative success. Shiho learns identities and a generic creative role; An's existing acquaintance is extended without revealing guarded N25 content. Observation, report, private interpretation and hoped-for output remain separate.
 
-Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 21 older screens, MMJ/WXS foundations and Leo/need routed history are separate unfinished obligations.
+Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 21 older screens, WXS foundation and Leo/need routed history are separate unfinished obligations.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. MMJ and WXS remain canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. WXS remains canonically unfounded; Leo/need's material routed history, the 21 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
-Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. MMJ/WXS foundations and the material routed/screening/reconstruction backlog remain pending.
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. WXS foundation and the material routed/screening/reconstruction backlog remain pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. N25, Leo/need, VBS and MMJ foundations are complete; WXS remains pending. All non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
 
 ## 1. Purpose
 
@@ -1789,3 +1792,219 @@ Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS
 **Bounded record:** Four hear confirmation of shared highest-event wish and experience song, then see title Ready Steady20. No later ontology or private lore.
 
 **Evidence:** `PJSK:main:street_01_20:01:002:0007`; `PJSK:main:street_01_20:01:002:0027`; `PJSK:main:street_01_20:01:002:0030`. Confidence: HIGH.
+
+## MORE MORE JUMP! main-story foundation — serial phase history
+
+Records are valid at their named phase boundary and preserve earlier ignorance, interrupted repair and historically valid states. A preserved human ID receives refinement without an automatic global transition. Source confidence is HIGH for the supported interpretation; unshown transmission, broader durability and future outcomes remain OPEN. Shared causes belong to each phase reading. These are historical main-story defaults, not replacements for later cross-unit states or certification of character readiness.
+
+### MMJ-MS-P01 — through `PJSK:main:mmj_01_04:01`
+
+Causal and evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P01_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-EP-MN-P01
+
+**Prior:** Retirement unknown before news; opening SEKAI treated as dream.
+
+**Bounded state / claim:** Learns retirement/school return, audition teaching agreement and rumors without cause; phone Miku encounter unresolved.
+
+**Evidence:** `PJSK:main:mmj_01_01:01:002:0017–0020`; `PJSK:main:mmj_01_02:01:001:0040–0046`; `PJSK:main:mmj_01_03:01:001:0047–0066`; `PJSK:main:mmj_01_04:01:001:0008–0018`. Confidence: HIGH.
+
+#### MMJ-EP-HR-P01
+
+**Prior:** No personal knowledge of novice.
+
+**Bounded state / claim:** Learns Minori aspiration/admiration and audition record; not the complete private childhood sequence.
+
+**Evidence:** `PJSK:main:mmj_01_03:01:001:0011–0040`; `PJSK:main:mmj_01_04:01:002:0006–0012`. Confidence: HIGH.
+
+#### MMJ-EP-AI-P01
+
+**Prior:** No Minori baseline; rumors about Shizuku.
+
+**Bounded state / claim:** Learns novice audition record and strengths; Shizuku has not answered group rumors; Haruka retirement cause unknown.
+
+**Evidence:** `PJSK:main:mmj_01_03:01:001:0011–0030`; `PJSK:main:mmj_01_04:01:003:0013–0030`. Confidence: HIGH.
+
+#### MMJ-EP-SZ-P01
+
+**Prior:** Knows Airi past values and own current trouble.
+
+**Bounded state / claim:** Learns novice aspiration and record, Airi current dismissal/teaching consent; Haruka cause remains unknown.
+
+**Evidence:** `PJSK:main:mmj_01_03:01:001:0011–0030`; `PJSK:main:mmj_01_04:01:001:0008–0018`. Confidence: HIGH.
+
+### MMJ-MS-P02 — through `PJSK:main:mmj_01_08:01`
+
+Causal and evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P02_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-EP-MN-P02
+
+**Prior:** MMJ-EP-MN-P01
+
+**Bounded state / claim:** Shared SEKAI/entry-exit explanation, blue view reported by Haruka, unexplained sadness/absence. Does not know private senior causes.
+
+**Evidence:** `PJSK:main:mmj_01_06:01:001:0011–0024`; `PJSK:main:mmj_01_06:01:001:0052–0069`; `PJSK:main:mmj_01_07:01:001:0002–0035`; `PJSK:main:mmj_01_08:01:004:0002–0024`. Confidence: HIGH.
+
+#### MMJ-EP-HR-P02
+
+**Prior:** MMJ-EP-HR-P01
+
+**Bounded state / claim:** Shares visit and knows own withheld history. No shown receipt of Airi-Shizuku private rupture or agency narrative.
+
+**Evidence:** `PJSK:main:mmj_01_06:01:001:0052–0060`; `PJSK:main:mmj_01_07:01:002:0006–0010`. Confidence: HIGH.
+
+#### MMJ-EP-AI-P02
+
+**Prior:** MMJ-EP-AI-P01
+
+**Bounded state / claim:** Knows role-redirection history and that outburst hurts Shizuku; does not hear complete current group account.
+
+**Evidence:** `PJSK:main:mmj_01_08:01:002:0002–0019`. Confidence: HIGH.
+
+#### MMJ-EP-SZ-P02
+
+**Prior:** MMJ-EP-SZ-P01
+
+**Bounded state / claim:** Knows Airi work frustration and attack; her own past/colleague denigration remains private to reader unless disclosed later.
+
+**Evidence:** `PJSK:main:mmj_01_05:01:002:0008–0013`; `PJSK:main:mmj_01_08:01:002:0002–0019`; `PJSK:main:mmj_01_08:01:003:0007–0039`. Confidence: HIGH.
+
+#### MMJ-EP-STAGE-P02
+
+**Prior:** MMJ-VS-STAGE-01
+
+**Bounded state / claim:** Miku attributes space to four idol feelings, gives exit route, respects departure; Rin resists departure and proposes partial remembering. Blue-light identity not fully specified.
+
+**Evidence:** `PJSK:main:mmj_01_06:01:001:0016–0024`; `PJSK:main:mmj_01_06:01:001:0067–0069`; `PJSK:main:mmj_01_07:01:001:0002–0028`. Confidence: HIGH.
+
+### MMJ-MS-P03 — through `PJSK:main:mmj_01_12:01`
+
+Causal and evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P03_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-EP-MN-P03
+
+**Prior:** MMJ-EP-MN-P02
+
+**Bounded state / claim:** Learns Airi agency history/admitted envy and Shizuku cumulative group harm; witnesses theater apology/restraint; hears unexplained Haruka disqualification.
+
+**Evidence:** `PJSK:main:mmj_01_09:01:002:0029–0038`; `PJSK:main:mmj_01_10:01:001:0009–0019`; `PJSK:main:mmj_01_10:01:002:0025–0034`; `PJSK:main:mmj_01_12:01:001:0065–0077`. Confidence: HIGH.
+
+#### MMJ-EP-HR-P03
+
+**Prior:** MMJ-EP-HR-P02
+
+**Bounded state / claim:** Hears Shizuku courtyard account, witnesses theater conduct and repaired partnership; no claim she hears earlier private Airi confession to Minori.
+
+**Evidence:** `PJSK:main:mmj_01_10:01:002:0025–0034`; `PJSK:main:mmj_01_11:01:002:0011–0062`; `PJSK:main:mmj_01_12:01:001:0010–0055`. Confidence: HIGH.
+
+#### MMJ-EP-AI-P03
+
+**Prior:** MMJ-EP-AI-P02
+
+**Bounded state / claim:** Receives Shizuku account and learns departure was considered before attack; her total self-blame persists as belief. Receives reciprocal idol valuation; Haruka cause not known.
+
+**Evidence:** `PJSK:main:mmj_01_10:01:002:0025–0041`; `PJSK:main:mmj_01_12:01:001:0010–0039`; `PJSK:main:mmj_01_12:01:001:0065–0074`. Confidence: HIGH.
+
+#### MMJ-EP-SZ-P03
+
+**Prior:** MMJ-EP-SZ-P02
+
+**Bounded state / claim:** Hears Airi accountable recognition/apology and mutual ideal; joins renewed partnership; hears Haruka unexplained refusal.
+
+**Evidence:** `PJSK:main:mmj_01_11:01:002:0030–0036`; `PJSK:main:mmj_01_12:01:001:0025–0041`; `PJSK:main:mmj_01_12:01:001:0065–0075`. Confidence: HIGH.
+
+### MMJ-MS-P04 — through `PJSK:main:mmj_01_18:01`
+
+Causal and evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P04_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-EP-MN-P04
+
+**Prior:** MMJ-EP-MN-P03
+
+**Bounded state / claim:** Receives Mai account and Haruka private causal admission/body barrier/help-seeking; infers blue scene may be Haruka desire; observes accepted supported access. Inference is not complete metaphysical knowledge.
+
+**Evidence:** `PJSK:main:mmj_01_13:01:003:0019–0074`; `PJSK:main:mmj_01_14:01:002:0040–0055`; `PJSK:main:mmj_01_15:01:002:0002–0010`; `PJSK:main:mmj_01_16:01:001:0063–0094`; `PJSK:main:mmj_01_18:01:002:0075–0101`. Confidence: HIGH.
+
+#### MMJ-EP-HR-P04
+
+**Prior:** MMJ-EP-HR-P03
+
+**Bounded state / claim:** Hears Mai apology; knows own withholding; learns supporters efforts and concrete Minori life benefits. Solo memory is reader access, not group disclosure.
+
+**Evidence:** `PJSK:main:mmj_01_14:01:002:0011–0044`; `PJSK:main:mmj_01_18:01:002:0031–0052`; `PJSK:main:mmj_01_18:01:002:0065–0101`. Confidence: HIGH.
+
+#### MMJ-EP-AI-P04
+
+**Prior:** MMJ-EP-AI-P03
+
+**Bounded state / claim:** Learns Mai/Haruka accounts, knows surprise meeting and its limitation, receives Minori proposal and witnesses supported stage. Does not acquire exact private Haruka solo monologue.
+
+**Evidence:** `PJSK:main:mmj_01_13:01:003:0019–0074`; `PJSK:main:mmj_01_14:01:002:0036–0055`; `PJSK:main:mmj_01_15:01:002:0002–0010`; `PJSK:main:mmj_01_17:01:001:0025–0063`; `PJSK:main:mmj_01_18:01:002:0083–0101`. Confidence: HIGH.
+
+#### MMJ-EP-SZ-P04
+
+**Prior:** MMJ-EP-SZ-P03
+
+**Bounded state / claim:** Learns Mai/Haruka accounts, proposes communication from her own analogous experience, recognizes possible plan harm, witnesses Haruka chosen supported action.
+
+**Evidence:** `PJSK:main:mmj_01_14:01:002:0005–0009`; `PJSK:main:mmj_01_14:01:002:0040–0055`; `PJSK:main:mmj_01_15:01:002:0002–0010`; `PJSK:main:mmj_01_17:01:001:0031–0033`; `PJSK:main:mmj_01_18:01:002:0083–0101`. Confidence: HIGH.
+
+#### MMJ-EP-MAI-P04
+
+**Prior:** Remembered admiration/working friendship and accusation; present regret.
+
+**Bounded state / claim:** Hears Haruka school-life explanation and denial of responsibility; challenges it but does not hear private later causal admission.
+
+**Evidence:** `PJSK:main:mmj_01_14:01:002:0011–0044`. Confidence: HIGH.
+
+### MMJ-MS-P05 — through `PJSK:main:mmj_01_20:01`
+
+Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P05_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-EP-MN-P05
+
+**Prior:** MMJ-EP-MN-P04
+
+**Bounded state / claim:** Knows song, latest rejection, then learns proposal explicitly includes her and accepts familiar address. No assumed professional contract or public announcement.
+
+**Evidence:** `PJSK:main:mmj_01_19:01:001:0002–0039`; `PJSK:main:mmj_01_20:01:001:0002–0018`; `PJSK:main:mmj_01_20:01:001:0044–0064`; `PJSK:main:mmj_01_20:01:001:0086–0090`. Confidence: HIGH.
+
+#### MMJ-EP-HR-P05
+
+**Prior:** MMJ-EP-HR-P04
+
+**Bounded state / claim:** Knows shared song and informs Mai of return; learns rejection on rooftop arrival; initiates and knows accepted group/name. Not present for prior udon offer.
+
+**Evidence:** `PJSK:main:mmj_01_19:01:002:0002–0009`; `PJSK:main:mmj_01_20:01:001:0019–0043`; `PJSK:main:mmj_01_20:01:001:0072–0083`. Confidence: HIGH.
+
+#### MMJ-EP-AI-P05
+
+**Prior:** MMJ-EP-AI-P04
+
+**Bounded state / claim:** Knows latest rejection, Haruka chosen partners, Minori inclusion and agreed name; exact outside opportunities unverified despite own assessment.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0005–0043`; `PJSK:main:mmj_01_20:01:001:0049–0084`. Confidence: HIGH.
+
+#### MMJ-EP-SZ-P05
+
+**Prior:** MMJ-EP-SZ-P04
+
+**Bounded state / claim:** Knows latest rejection, mutual group assent, Minori doubt and final name; offers address permission.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0008–0014`; `PJSK:main:mmj_01_20:01:001:0035–0064`; `PJSK:main:mmj_01_20:01:001:0080–0088`. Confidence: HIGH.
+
+#### MMJ-EP-MAI-P05
+
+**Prior:** MMJ-EP-MAI-P04
+
+**Bounded state / claim:** Learns Haruka intends to return and has an unspecified idea; not shown exact final membership/name, full private cause, or own injury resolution.
+
+**Evidence:** `PJSK:main:mmj_01_19:01:002:0002–0009`. Confidence: HIGH.
+
+#### MMJ-EP-STAGE-P05
+
+**Prior:** MMJ-EP-STAGE-P02 with P04 receipt/support
+
+**Bounded state / claim:** Know shared feelings/song and performed support; Miku sings, Rin MC; future invitations explicit. No shown receipt of rooftop group naming.
+
+**Evidence:** `PJSK:main:mmj_01_19:01:001:0002–0053`; `PJSK:main:mmj_01_20:01:002:0002–0007`. Confidence: HIGH.
