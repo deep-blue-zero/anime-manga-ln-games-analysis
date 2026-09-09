@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claim authority integrated through EVENT_0072; EVENT_0070 establishes Ena technique-expression/self-authored aesthetic valuation rules and EVENT_0072 advances Mafuyu autonomy into bounded verbal positive wanting while preserving vocational uncertainty"
-analysis_cutoff: "N25 claim revision authority through EVENT_0072; documentary screening through EVENT_0075"
+source_boundary: "N25 claim evidence integrated through EVENT_0076; latest new governing formulations EVENT_0072; EVENT_0070 establishes Ena technique-expression/self-authored aesthetic valuation rules and EVENT_0072 advances Mafuyu autonomy into bounded verbal positive wanting while preserving vocational uncertainty"
+analysis_cutoff: "N25 claim evidence authority through EVENT_0076; latest new governing formulations EVENT_0072; documentary screening through EVENT_0076"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 claim authority reaches **EVENT_0072**, including `CR-N25-MF-088/089/090`. Earlier summaries and pending-domain statements are historical handoffs. A claim's formulation must be read at the requested event boundary, with subsequent transitions applied only when that boundary includes them. Documentary screening reaches EVENT_0075: events 0073 and 0074 are I0; EVENT_0075 adds bounded I1 character/relationship/epistemic evidence but requires no claim revision. The source cutoff does not advance claim authority.
+N25 claim evidence authority reaches **EVENT_0076** through I1 strengthening of existing claims; the latest new governing formulations remain at EVENT_0072, including `CR-N25-MF-088/089/090`. Earlier summaries and pending-domain statements are historical handoffs. A claim's formulation must be read at the requested event boundary, with subsequent transitions applied only when that boundary includes them. Documentary screening reaches EVENT_0076: events 0073 and 0074 are I0; EVENT_0075 added bounded I1 school evidence without claim revision; EVENT_0076 strengthens existing Kanade claims without replacing their formulations. The source cutoff does not advance claim authority.
 
 The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
 
@@ -1195,3 +1195,11 @@ EVENT_0061 established that autonomy can appear behaviorally before Mafuyu can s
 **Evidence:** teacher permits refusal; Mafuyu initially accepts volunteering because it may let her be with N25; at home she justifies it through school-record/recommendation utility so the choice can survive maternal scrutiny.
 
 **Guardrail:** the admissions benefit need not be false. The claim concerns causal priority and audience-versus-participant knowledge.
+
+## EVENT_0076 claim review — I1 corroboration without a new governing formulation
+
+- **`CR-N25-K-027` and `CR-N25-K-042` — STRENGTHEN.** Kanade recognizes Ichika's wish to support important people beside her as another possible rescue form and helps her realize that intention technically (`PJSK:event:0076:03:001:0031–0082`). This corroborates the existing bounded-support authority, particularly `CR-N25-K-042` as formulated in §7.10 / EVENT_0034. It is not the first discovery that non-solving support matters and does not cancel Kanade's more demanding guilt-driven obligation.
+- **`CR-N25-K-044` — STRENGTHEN, bounded inheritance evidence.** Her father's former music work also supplied equipment used in present creative activity (`PJSK:event:0076:03:001:0002–0008`). The disclosure does not reveal the collapse history to Ichika or imply acquittal in Kanade's self-understanding.
+- **`CR-N25-K-071` — STRENGTHEN.** Kanade explicitly receives inspiration, acknowledges reciprocal gratitude and values food/flowers offered with attention to her circumstances (`PJSK:card:0535:02:001:0007–0013`, `PJSK:card:0535:02:001:0039–0060`). Ordinary receptive pleasure persists within `K-E0063-01`; ongoing household dependence and restricted food purchasing remain visible.
+
+No new claim ID or successor state is warranted. The decision-making advice applies to composition first; Honami and Ichika supply the life analogy, and the source does not establish that Kanade herself consistently exercises healthy boundaries. Preserve `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Shared causality and other-unit comparisons remain in the [EVENT_0076 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) and deferred routing.

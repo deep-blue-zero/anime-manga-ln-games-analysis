@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 positive character-state evidence integrated through EVENT_0075 (I1; latest human-state transition EVENT_0072); EVENT_0070 advances Ena to self-authored aesthetic valuation / technique-expression integration and EVENT_0072 advances Mafuyu to articulated positive wanting / self-authored participation"
-analysis_cutoff: "N25 human state unchanged since EVENT_0072; bounded characterization evidence through EVENT_0075; documentary screening through EVENT_0075; current tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+source_boundary: "N25 positive character-state evidence integrated through EVENT_0076 (I1; latest human-state transition EVENT_0072); EVENT_0070 advances Ena to self-authored aesthetic valuation / technique-expression integration and EVENT_0072 advances Mafuyu to articulated positive wanting / self-authored participation"
+analysis_cutoff: "N25 human state unchanged since EVENT_0072; bounded characterization evidence through EVENT_0076; documentary screening through EVENT_0076; current tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The verified forward analytical frontier is **EVENT_0075**, a bounded I1 characterization increment; the latest human-state transition remains EVENT_0072. Current defaults are **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. The event entries below preserve the causes and limits of each transition. A historical entry's `current within cutoff` label refers to its own recorded cutoff; it does not override a later successor. In particular, `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` are historical-to-current chains, not simultaneous defaults.
+The verified forward analytical frontier is **EVENT_0076**, a bounded I1 characterization increment; the latest human-state transition remains EVENT_0072. Current defaults are **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. The event entries below preserve the causes and limits of each transition. A historical entry's `current within cutoff` label refers to its own recorded cutoff; it does not override a later successor. In particular, `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` are historical-to-current chains, not simultaneous defaults.
 
 The earlier summaries and pending-queue statements below are retained as historical handoffs. They do not cap this ledger at EVENT_0053 or EVENT_0058. Other human-unit foundations remain pending. The franchise routing ledger separately records 21 earlier incomplete universal screens; a latest forward event is not a claim of gap-free franchise coverage. The source inventory is frozen through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; later source availability confers no analytical authority.
 
@@ -1231,3 +1231,15 @@ At Leo/need's concert, Mafuyu tells a classmate that the group makes original so
 Ena's attendance is reported by Shizuku at `PJSK:event:0075:05:004:0003`; no direct Ena action or dialogue warrants a character-model increment. The companions remain unidentified. Kanade and Mizuki receive no new character evidence here.
 
 The complete 23-surface mixed reading owns shared causes and other-unit extraction: [EVENT_0075](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md). N25 tuple remains `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. EVENT_0075 is the latest bounded positive integration; EVENT_0072 remains the latest human-state transition. Next forward candidate: EVENT_0076.
+
+## EVENT_0076 characterization increment — recipient-led teaching and reciprocal reception
+
+**Impact:** I1, Tier C characterization / Tier B relationship / Tier D ordinary creative and domestic life. Preserve `K-E0063-01`; no successor human state.
+
+Kanade asks what Ichika wants the song to communicate, hears a trace of that intention before its explanation, and teaches a concrete instrument-balance method rather than replacing the learner's work. She recognizes standing beside important people as a possible way of saving, receives creative inspiration and becomes absorbed in her own phrase before apologizing for the attention shift (`PJSK:event:0076:03:001:0031–0090`; `PJSK:event:0076:03:002:0005–0019`; `PJSK:event:0076:04:002:0011–0024`). This strengthens an already established ability to recognize non-solving support, not a new rescue philosophy that removes her vow or guilt.
+
+Her advice explicitly separates committing to a judged path from knowing an objectively correct answer. She teaches through calm questions, precise procedures, qualified judgment and acknowledgment of her own early difficulty (`PJSK:event:0076:04:002:0025–0038`). Honami and Ichika independently apply the idea to their lives; Kanade does not claim expertise over those histories. The ordinary rice-ball hesitation preserves context dependence rather than universal decisiveness.
+
+Kanade later credits Ichika's persistence, thanks her for inspiration, enjoys the selected cream puffs, recognizes her flower-selection contribution and intends to care for the gerberas so she can enjoy them longer (`PJSK:card:0535:02:001:0005–0036`, `PJSK:card:0535:02:001:0039–0060`). This is concrete receiving/valuing inside `K-E0063-01`. Honami's report of an often empty refrigerator, cup-noodle reliance and prepared food disappearing between visits preserves dependence on household support; it does not certify recovered self-regulation (`PJSK:card:0536:01:001:0022–0037`).
+
+Mafuyu has only an indirect prior-conversation reference in card 0536:01; Ena and Mizuki have no new direct evidence. Preserve the complete tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. The [EVENT_0076 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) owns the full 25-surface causal account and deferred other-unit reconstruction. Latest human-state transition remains EVENT_0072; next forward candidate EVENT_0077.

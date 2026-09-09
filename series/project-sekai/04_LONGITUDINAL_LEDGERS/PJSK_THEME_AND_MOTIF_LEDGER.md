@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 main-story foundation plus positive thematic evidence through EVENT_0072; EVENT_0070 establishes technique-expression integration and EVENT_0072 establishes bounded wanting before complete self-understanding while strengthening first-person/ordinary-life evidence"
-analysis_cutoff: "N25 thematic authority through EVENT_0072; documentary screening through EVENT_0075"
+source_boundary: "N25 main-story foundation plus positive thematic evidence through EVENT_0076; latest new theme EVENT_0072; EVENT_0070 establishes technique-expression integration and EVENT_0072 establishes bounded wanting before complete self-understanding while strengthening first-person/ordinary-life evidence"
+analysis_cutoff: "N25 thematic evidence through EVENT_0076; latest new theme EVENT_0072; documentary screening through EVENT_0076"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0072**, including `TH-N25-032` and `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Documentary screening reaches EVENT_0075 with no thematic mutation from events 0073-0075. Other-unit foundations and the 21 older incomplete universal screens remain pending in the routing/current-state infrastructure.
+N25 thematic evidence reaches **EVENT_0076**, corroborating existing themes without a new ID; the latest new-theme authority remains EVENT_0072, including `TH-N25-032` and `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Documentary screening reaches EVENT_0076 with no thematic mutation from events 0073-0075 and I1 corroboration of existing themes in EVENT_0076. Other-unit foundations and the 21 older incomplete universal screens remain pending in the routing/current-state infrastructure.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -1173,3 +1173,12 @@ Practical volunteering and first aid produce self-evidence that abstract discuss
 Helping Rui and the injured child, then receiving specific gratitude, produces a positive shift that Mafuyu can later compare across situations.
 
 No new recurring motif is promoted. The street piano is event-central but remains event-local until recurrence warrants motif status.
+
+## EVENT_0076 thematic corroboration — shared making and reciprocal ordinary care
+
+**I1 corroboration; no new theme or recurring motif ID.**
+
+- **`TH-N25-003` — creative work/music as psychological evidence: STRENGTHEN.** Kanade hears a trace of Ichika's intended supportiveness, asks her to articulate it, and helps make that intention more audible; she receives inspiration in the process (`PJSK:event:0076:03:001:0031–0082`; `PJSK:event:0076:03:002:0005–0019`). The technical intervention preserves the maker's intention and agency.
+- **`TH-N25-014` — ordinary-life expansion without cure: STRENGTHEN.** A requested lesson, shared refreshments and the later reciprocal gift/flower exchange let Kanade receive and enjoy others' care without resolving self-neglect or the rescue vow (`PJSK:event:0076:04:002:0013–0024`; `PJSK:card:0535:02:001:0039–0060`).
+
+The gerberas remain a specific gift with the giver's stated rationale, not a newly promoted recurring motif. Leo/need's choice-under-uncertainty, medium-sensitive expression, audience orientation and music connecting distinct Miku contexts are retained in the [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) for founded historical comparison; N25 thematic authority does not substitute for that work.

@@ -1251,3 +1251,79 @@ next_event: EVENT_0076
 The complete reading preserves all 23 witness ranges/hashes and distinguishes guest reception from actual intention. N25's I1 is bounded public characterization, not new private wanting: character, relationship and epistemic evidence are updated without successor human state; claim/theme content remains unchanged. Ena's companions are unidentified. The class play's fictional speech and Toya's supernatural speculation remain attributed, not literal external facts. Four unfounded-unit routes retain `DEFERRED_PENDING_FOUNDATION` for chronological interpretation.
 
 **Latest closed forward route: EVENT_0075. Next forward candidate: EVENT_0076.** The 21 older universal-screen gaps remain unfinished workflow coverage.
+
+## EVENT_0076 — Echo my melody
+
+```yaml
+release_id: EVENT_0076
+release_bucket: RB_20221111T060000Z
+screen_status: COMPLETE_UNIVERSAL_SCREEN
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 7 archive-publication/event-unlock areas = 25"
+core_locators: [PJSK:event:0076:01, PJSK:event:0076:02, PJSK:event:0076:03, PJSK:event:0076:04, PJSK:event:0076:05, PJSK:event:0076:06, PJSK:event:0076:07, PJSK:event:0076:08]
+card_locators: [PJSK:card:0535:01, PJSK:card:0535:02, PJSK:card:0536:01, PJSK:card:0536:02, PJSK:card:0537:01, PJSK:card:0537:02, PJSK:card:0538:01, PJSK:card:0538:02, PJSK:card:0539:01, PJSK:card:0539:02]
+area_locators: [PJSK:area:areatalk_ev_band_11_001:01, PJSK:area:areatalk_ev_band_11_002:01, PJSK:area:areatalk_ev_band_11_003:01, PJSK:area:areatalk_ev_band_11_004:01, PJSK:area:areatalk_ev_band_11_005:01, PJSK:area:areatalk_monthly2211_001:01, PJSK:area:areatalk_monthly2211_003:01]
+chronology_note: "Cards 0535-0537 initially available at 03:00Z, 0538-0539 at 06:00Z; band-area archive publication 2022-11-11T06:00Z, monthly-area archive publication 2022-11-30T06:00Z; all seven independently unlock after chapter 8, condition 107508/episode 1000616. Archive publication is not asserted initial availability."
+unit_routes:
+  LEO_NEED:
+    relevance: PRIMARY
+    future_review_priority: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Ichika, Honami, Saki, Shiho]
+    manifestations: [LEO_NEED_Miku, LEO_NEED_Rin, LEO_NEED_Len, LEO_NEED_Luka, LEO_NEED_MEIKO, LEO_NEED_KAITO]
+    domains: [composition, self_criticism, help_seeking, technical_learning, intention_and_form, uncertainty_and_choice, medium_sensitive_judgment, shared_authority, professional_aspiration, audience_orientation, household_work, production_labor, reciprocal_care, childhood_history, ordinary_life, speech_register, knowledge_partition, distinct_miku_contexts]
+  N25:
+    relevance: CROSS_UNIT
+    future_review_priority: HIGH
+    baseline_impact: I1
+    reconstruction_yield: R2
+    characters: [Kanade, Mafuyu_indirect_prior_conversation_reference]
+    domains: [recipient_led_mentoring, concrete_technical_expertise, bounded_support, uncertain_judgment, reciprocal_inspiration, receptive_pleasure, household_support, positive_musical_inheritance, private_knowledge_limits]
+    locators: [PJSK:event:0076:02:005:0004, PJSK:event:0076:03:001:0004, PJSK:event:0076:03:001:0033, PJSK:event:0076:03:001:0037, PJSK:event:0076:03:001:0070, PJSK:event:0076:03:001:0082, PJSK:event:0076:03:002:0005, PJSK:event:0076:04:002:0034, PJSK:event:0076:04:002:0036, PJSK:card:0535:02, PJSK:card:0536:01]
+  WXS:
+    relevance: CROSS_UNIT
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Tsukasa, Emu, Nene]
+    domains: [ordinary_friendship, voluntary_company, enthusiastic_recommendation, responsive_listening]
+    locators: [PJSK:area:areatalk_monthly2211_001:01, PJSK:area:areatalk_monthly2211_003:01]
+  MMJ:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Airi_and_group_indirect_video_reference]
+    domains: [practice_video_model, audience_encouragement]
+    locators: [PJSK:area:areatalk_ev_band_11_001:01:001:0004]
+  VBS:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Kohane_hypothetical_helper_reference]
+    domains: [peer_attribution_of_photography_skill, photography_filming_distinction]
+    locators: [PJSK:card:0539:01:001:0024, PJSK:card:0539:01:001:0025]
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0077
+```
+
+| Relationship / decision route | Evidence | Reuse and limits |
+|---|---|---|
+| Ichika–Kanade | `PJSK:event:0076:03:001:0031–0090`; `PJSK:event:0076:03:002:0005–0022`; `PJSK:event:0076:04:002:0025–0045`; `PJSK:card:0535:02` | Technical support preserves recipient intention; reciprocal inspiration, uncertainty-aware advice and later thanks strengthen `REL-CROSS-KANADE-ICHIKA-E0042`. No rescue-vow replacement. |
+| Honami–Kanade–Ichika | `PJSK:event:0076:02:002:0046–0085`; `PJSK:event:0076:04:002:0013–0024`; `PJSK:card:0536:01` | Confidentiality, self-initiated contact, household work, food, practical trust and bounded health inference; strengthen `REL-CROSS-KANADE-HONAMI-E0002`. |
+| Honami–Ichika / childhood antecedent | `PJSK:card:0536:02:002:0016–0030`; `PJSK:card:0536:02:003:0003–0031` | Private insufficient-contribution feeling, received praise, mutual offers and remembered hat recovery; recollection is not a new present incident. |
+| Ichika–Saki–Shiho–Honami | `PJSK:event:0076:01:003:0041–0075`; `PJSK:event:0076:06:001:0076–0102`; `PJSK:event:0076:08:002:0022–0074` | Contribution desire, medium-sensitive disagreement, respect for editor authority, completion disclosure and consent to band use; no rivalry assumption or compulsory production quota. |
+| Band–Classroom singers | `PJSK:event:0076:05:003:0054–0092`; `PJSK:event:0076:06:001:0002–0038`; `PJSK:card:0537:01` | Visible audience changes performance; gratitude is reciprocal; quality does not guarantee worldwide reception. |
+| Ichika–software Miku–Classroom Miku | `PJSK:event:0076:07:002:0023–0073`; `PJSK:card:0537:02`; `PJSK:area:areatalk_ev_band_11_003:01`; `PJSK:area:areatalk_ev_band_11_004:01` | Explicit entity distinction; interpreted shared feeling, direct duet, entrusted recording and voluntary rehearsal; no shared memory with N25 manifestations or proven software interiority. |
+| KAITO–band / Classroom peers | `PJSK:card:0539:01:001:0018–0052`; `PJSK:card:0539:02`; `PJSK:area:areatalk_ev_band_11_002:01` | Musical support, excitement with concern, self-consciousness under overinterpretation and humorous constraints on hypothetical MV ideas. |
+| Band ordinary life | `PJSK:card:0535:01`; `PJSK:card:0538:01`; `PJSK:card:0538:02` | Careful tasting and combined option, Saki anxiety eased by peer conversation, joking and celebration; no universal cure for indecision/anxiety. |
+| Public observer–band | `PJSK:event:0076:08:004:0002–0016`; `PJSK:card:0539:02:001:0003–0014` | Channel/Miku upload confirmed; four-subscriber identity is observer inference; future attention is not a contract or mass success, and the band does not know this observation. |
+| Saki–Tsukasa–Emu; Ichika–Nene | Both monthly-area locators above | Consensual company while waiting; recommendation and responsive reassurance. Later archive date retained. |
+
+The full reading preserves all 25 witness ranges/hashes. It owns shared causal interpretation, while other-unit state comparison awaits foundation and ordered historical integration. N25 is I1 because already established support, reciprocal creativity and receptive pleasure gain evidence rather than a new governing interpretation. All six ledgers receive targeted updates; the current human tuple and N25 manifestation-group authorities are unchanged.
+
+**Latest closed forward route: EVENT_0076. Next forward candidate: EVENT_0077.** The 21 older universal-screen gaps and remaining foundations/deferred integration are not resolved by this frontier.

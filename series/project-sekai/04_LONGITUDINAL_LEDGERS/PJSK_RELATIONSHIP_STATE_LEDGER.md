@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 positive relationship evidence integrated through EVENT_0075 (bounded I1 school-peer extension); EVENT_0070 initializes Ena-Honami art mentorship and strengthens Kanade-Honami/Kanade-Ena reliance, while EVENT_0072 strengthens Mafuyu-Emu/Shizuku and initializes bounded Mafuyu-Rui reflective-care contact"
-analysis_cutoff: "N25 relationship evidence through EVENT_0075 without successor state; documentary screening through EVENT_0075; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+source_boundary: "N25 positive relationship evidence integrated through EVENT_0076 (I1 creative-mentoring and reciprocal-care extension); EVENT_0070 initializes Ena-Honami art mentorship and strengthens Kanade-Honami/Kanade-Ena reliance, while EVENT_0072 strengthens Mafuyu-Emu/Shizuku and initializes bounded Mafuyu-Rui reflective-care contact"
+analysis_cutoff: "N25 relationship evidence through EVENT_0076 without successor state; documentary screening through EVENT_0076; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-Relationship evidence is integrated through **EVENT_0075**, with a bounded I1 extension and no successor relationship state. Current N25 defaults include `REL-N25-KM-7`, `REL-N25-EM-4`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with their later event-specific extensions below. N25 Miku's human-group relationship is `REL-N25-GM-E0054`; N25 Len's newcomer relationship is `REL-N25-VS-LEN-GROUP-E0061`. These manifestations remain distinct. Bounded cross-unit entries do not establish complete other-unit relationship systems.
+Relationship evidence is integrated through **EVENT_0076**, with a bounded I1 extension and no successor relationship state. Current N25 defaults include `REL-N25-KM-7`, `REL-N25-EM-4`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with their later event-specific extensions below. N25 Miku's human-group relationship is `REL-N25-GM-E0054`; N25 Len's newcomer relationship is `REL-N25-VS-LEN-GROUP-E0061`. These manifestations remain distinct. Bounded cross-unit entries do not establish complete other-unit relationship systems.
 
-Earlier overview and pending-domain statements are historical handoffs, superseded as current scope by the later named entries and front matter. Earlier states remain valid at their own temporal boundaries. Events 0073 and 0074 were N25 I0; the next forward event is EVENT_0076. The separate routing ledger retains 21 earlier incomplete universal screens; neither that backlog nor unfounded units are represented as completed by this relationship frontier.
+Earlier overview and pending-domain statements are historical handoffs, superseded as current scope by the later named entries and front matter. Earlier states remain valid at their own temporal boundaries. Events 0073 and 0074 were N25 I0; the next forward event is EVENT_0077. The separate routing ledger retains 21 earlier incomplete universal screens; neither that backlog nor unfounded units are represented as completed by this relationship frontier.
 
 ## 1. Purpose
 
@@ -1578,3 +1578,15 @@ Mafuyu offers Shizuku and Airi access to the room key they need, then becomes pa
 The resulting Mafuyu–Kohane contact is practical senior/junior assistance, not enough to establish a new durable relationship ID. Her classmate's invitation to join the concert clapping and her agreeable answer add school-social register evidence without establishing privately felt enjoyment (`PJSK:card:0529:02:002:0048–0049`). Leo/need performance awareness remains a public creative fact; no new privileged artistic relationship is shown.
 
 Shizuku's report that Ena and companions visited the stall (`PJSK:event:0075:05:004:0003`) preserves ordinary contact as a report only; the unidentified companions cannot be assigned to N25. No N25 dyad/group state or manifestation relationship changes. `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061` remain current. The [mixed reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md) owns the full network and other-unit routes; next forward candidate EVENT_0076.
+
+## EVENT_0076 relationship evidence — creative mentorship within reciprocal peer contact
+
+### `REL-CROSS-KANADE-ICHIKA-E0042` — I1 strengthening
+
+The chosen future contact established in EVENT_0042 and ordinary ease strengthened in EVENT_0063 now supports a requested lesson in Kanade's home. Kanade asks for Ichika's intention, provides concrete help and gains inspiration; Ichika uses the method herself and returns with a completed work and considered gifts. Kanade assigns achievement to Ichika's persistence and explicitly thanks her for inspiration and long-standing flower selection (`PJSK:event:0076:02:005:0004–0014`; `PJSK:event:0076:03:001:0031–0090`; `PJSK:card:0535:02:001:0005–0060`). Preserve the existing creative-peer relationship ID with a competence-specific mentoring extension. The skill asymmetry does not erase reciprocal benefit, establish generalized dependency or create access to private N25 history.
+
+### `REL-CROSS-KANADE-HONAMI-E0002` — I1 strengthening
+
+Honami facilitates the lesson while preserving her household-work responsibilities, prepares food and sustains the practical environment in which both composers work. She receives Kanade's choice advice as useful to her own experience; Kanade acknowledges her without claiming that broader life lesson as her intended authority (`PJSK:event:0076:04:002:0013–0045`). Card 0536:01 gives work-specific pleasure, planning and observed appreciation as well as the limits of Honami's food-consumption inference. Card 0535:02 preserves the jointly mediated gift/flower exchange. These extend mutual care and safe facilitation without replacing the relationship state.
+
+No internal N25 dyad/group or manifestation relationship changes. `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061` remain distinct and current. Classroom Miku's reciprocal music with Ichika belongs to the deferred Leo/need route, not N25 Miku. See the [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md). Next forward candidate EVENT_0077.

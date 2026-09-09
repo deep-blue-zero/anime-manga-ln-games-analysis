@@ -49,14 +49,14 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — updated through EVENT_0075 on 2026-09-09
+### Current coverage — updated through EVENT_0076 on 2026-09-09
 
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
-- Latest closed forward transaction: `EVENT_0075`; next forward operation: `EVENT_0076`. Latest positive N25 integration is bounded I1 at EVENT_0075; latest human-state transition remains `EVENT_0072`.
+- Latest closed forward transaction: `EVENT_0076`; next forward operation: `EVENT_0077`. Latest positive N25 integration is bounded I1 at EVENT_0076; latest human-state transition remains `EVENT_0072`.
 - Current N25 tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
 - Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
-- Franchise routing inventory reaches EVENT_0075, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0075 universal screens and earlier reusable complete readings retain their bounded authority.
+- Franchise routing inventory reaches EVENT_0076, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0076 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
 
@@ -755,3 +755,21 @@ CURRENT AUTHORITY AFTER EVENT_0075
 - Character, relationship, epistemic, release impact, routing and coverage responsibilities are synchronized; no new claim or motif.
 - Twenty-one earlier universal screens, four foundations and material deferred interpretations remain incomplete, alongside reconstruction, syntheses and final audits/integration.
 - Next forward operation: EVENT_0076, subject to its own complete manifest envelope.
+
+EVENT_0076 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / BOUNDED_N25_I1
+
+Artifact: [LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md).
+All 25 manifest-resolved surfaces read: core 01–08, cards 0535–0539 both halves, five band areas and monthly2211_001/003. All seven areas independently unlock after chapter 8; archive publication is distinct from initial availability, with monthly publication dated 2022-11-30.
+
+Leo/need is PRIMARY/VERY_HIGH/R3-yield with baseline impact deferred. The full reading preserves recipient-led composition, choice under uncertainty, concrete production labor, medium-sensitive judgment, audience orientation, distinct Miku contexts, ordinary life and the unnamed observer's bounded interest. WxS has LOW cross-unit ordinary evidence; MMJ and VBS have LOW indirect references, with actual advice/filming competence not inferred.
+
+N25 is CROSS_UNIT/HIGH/I1/R2-yield: Kanade's mentoring, reciprocal inspiration, positive musical inheritance and receptive pleasure corroborate existing authority. Both Kanade cross-unit dyads are strengthened, bounded epistemic knowledge is recorded, and existing claims/themes are supported without new governing formulations. No successor human or N25 manifestation state. All six ledgers receive selective updates.
+
+CURRENT AUTHORITY AFTER EVENT_0076
+
+- Latest closed forward transaction, documentary screen and positive N25 integration: EVENT_0076 (I1).
+- Latest human-state transition: EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- N25 foundation complete; LEO_NEED/MMJ/VBS/WXS foundations and material deferred interpretation pending.
+- Twenty-one older universal-screen gaps remain; completed EVENT_0046–0076 and earlier reusable complete envelopes are preserved.
+- Character packages/readiness, synthesis, audits and final integration remain incomplete.
+- Next forward operation: EVENT_0077, subject to its own complete manifest envelope.

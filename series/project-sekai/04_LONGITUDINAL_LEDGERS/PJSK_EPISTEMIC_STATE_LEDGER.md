@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic evidence integrated through EVENT_0075 (bounded school-public information); EVENT_0070 adds Ena self-authored aesthetic-valuation knowledge and bounded Honami mentoring knowledge, while EVENT_0072 adds Mafuyu action-specific desire, caregiving self-evidence, and bounded cross-unit desire-reflection knowledge"
-analysis_cutoff: "N25 epistemic authority through EVENT_0075; documentary screening through EVENT_0075; preserve guarded-issue, family-control, vocational, and flashback-interiority asymmetries"
+source_boundary: "N25 epistemic evidence integrated through EVENT_0076 (bounded creative/domestic information); EVENT_0070 adds Ena self-authored aesthetic-valuation knowledge and bounded Honami mentoring knowledge, while EVENT_0072 adds Mafuyu action-specific desire, caregiving self-evidence, and bounded cross-unit desire-reflection knowledge"
+analysis_cutoff: "N25 epistemic authority through EVENT_0076; documentary screening through EVENT_0076; preserve guarded-issue, family-control, vocational, and flashback-interiority asymmetries"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic boundary is **EVENT_0075**, adding bounded public-school information without revising private-state knowledge. Later event entries extend rather than erase the main-story and earlier-event knowledge states. Earlier overview/pending statements referring to EVENT_0053 are historical handoffs. In particular, EVENT_0061 establishes bounded N25 knowledge of Mafuyu's family/music restrictions; EVENT_0072 establishes witnessed action-specific wanting while leaving vocation and broad emotion naming unresolved. Neither entry grants participants the audience's full private history.
+The latest integrated epistemic boundary is **EVENT_0076**, adding bounded creative/domestic exchange without revising private-state knowledge. Later event entries extend rather than erase the main-story and earlier-event knowledge states. Earlier overview/pending statements referring to EVENT_0053 are historical handoffs. In particular, EVENT_0061 establishes bounded N25 knowledge of Mafuyu's family/music restrictions; EVENT_0072 establishes witnessed action-specific wanting while leaving vocation and broad emotion naming unresolved. Neither entry grants participants the audience's full private history.
 
-Mizuki's guarded content remains undisclosed within this analytical boundary. Cross-unit familiarity and Virtual Singer observation confer only the knowledge explicitly recorded below. Events 0073 and 0074 were N25 I0; EVENT_0076 is the next forward transaction; 21 older universal-screen gaps and the other four unit foundations remain separate coverage obligations in the canonical routing/current-state infrastructure.
+Mizuki's guarded content remains undisclosed within this analytical boundary. Cross-unit familiarity and Virtual Singer observation confer only the knowledge explicitly recorded below. Events 0073 and 0074 were N25 I0; EVENT_0077 is the next forward transaction; 21 older universal-screen gaps and the other four unit foundations remain separate coverage obligations in the canonical routing/current-state infrastructure.
 
 ## 1. Purpose
 
@@ -1319,3 +1319,17 @@ Rui and Emu know that Mafuyu says she believes she lacks a personally wanted pat
 | Audience | Shizuku reports Ena and companions visited (`PJSK:event:0075:05:004:0003`). | Identities of the companions, direct Ena interiority, or a N25-group outing. |
 
 This I1 evidence increment does not change `EPI-N25-MF-E0072` or grant wider disclosure. The hypothetical and performed material elsewhere in the envelope does not become literal ontology or public source knowledge. Street-SEKAI manifestations are separate from N25 manifestations; their festival reports confer no N25-private access. See the [complete mixed reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md) for staggered identity recognition and the newspaper's mistaken intention attribution. No successor human state; next forward candidate EVENT_0076.
+
+## EVENT_0076 epistemic evidence — technical exchange with private histories partitioned
+
+### `EPI-CROSS-K-ICHIKA-HONAMI-E0076` — bounded creative/domestic knowledge
+
+| Holder | Established source and knowledge | Limit |
+|---|---|---|
+| Kanade | Ichika explains wanting to support important people, her instrument-representation problem and Miku motive; Kanade later hears the finished work (`PJSK:event:0076:03:001:0015–0082`; `PJSK:card:0535:02:001:0016–0036`). | No demonstrated knowledge of Classroom SEKAI or the full private childhood/reunion histories behind the stated intention. |
+| Ichika | Kanade says her father worked in music and supplied much of the equipment; teaches track balance and decision-making under uncertainty (`PJSK:event:0076:03:001:0002–0010`, `PJSK:event:0076:03:001:0077–0090`; `PJSK:event:0076:04:002:0030–0038`). | No father-collapse/guilt disclosure, private Mafuyu crisis, N25 identity/manifestation disclosure or evidence that Kanade changed her rescue vow. |
+| Honami | Knows the unfinished song after accidentally hearing it and agrees to confidentiality; hears the later choice discussion (`PJSK:event:0076:02:002:0046–0085`; `PJSK:event:0076:04:002:0039–0044`). | Saki and Shiho do not share that early knowledge. Her statement that Kanade would decline an impractical request is her trust-based judgment, not proof of healthy boundaries. |
+| Honami → Ichika | Reports cup-noodle reliance, the usually empty refrigerator and prepared food gone on return; infers recent eating (`PJSK:card:0536:01:001:0022–0030`). | Quantity, timing and adequate nutrition are not directly verified; Ichika's prior Mafuyu conversation is referenced without replaying its full content. |
+| Kanade / Ichika / Honami | Directly exchange gratitude, completed-work feedback and the source of the selected flowers (`PJSK:card:0535:02:001:0039–0060`). | Ordinary familiarity does not transfer the audience's knowledge of N25-private cognition. |
+
+Kanade's tentative recognition of support as rescue is direct speech, but the unspoken content of the intervening memory cut is not recoverable from its blank transcript markers. No scene image/audio was inspected. Classroom and software Miku remain explicitly distinct at `PJSK:event:0076:07:002:0023–0025`; their relation gives no N25 manifestation shared memory. Mafuyu/Ena/Mizuki retain their existing epistemic states. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) records the separate late observer/publication asymmetry. No successor human state; next forward candidate EVENT_0077.

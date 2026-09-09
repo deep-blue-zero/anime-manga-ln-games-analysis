@@ -210,7 +210,7 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Continuous completion campaign — updated through EVENT_0075 on 2026-09-09
+### Continuous completion campaign — updated through EVENT_0076 on 2026-09-09
 
 ```yaml
 sequential_execution:
@@ -218,23 +218,23 @@ sequential_execution:
   unit_type: event
   authorized_start: EVENT_0073
   terminal_boundary: PJSK_SOURCE_20260822T184634Z_EVENT_0213
-  committed_high_water_mark: EVENT_0075
+  committed_high_water_mark: EVENT_0076
   high_water_mark_semantics: latest_closed_forward_event_transaction_not_gap_free_franchise_coverage
   entering_analysis_commit: 091b6eae42e1a652220cf1cfa8981f1bf6bea69e
-  next_candidate_operation: EVENT_0076
+  next_candidate_operation: EVENT_0077
   confirmation_between_units: false
   run_state: active
 ```
 
 `SOURCE_CURRENT` for this generation is the frozen 15,292-story inventory documented in [PJSK_ANALYTICAL_SOURCE_LOCK.md](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), with 211 event IDs through `EVENT_0213`. The absent ordinals `0166` and `0186` are not fabricated operations. Future ingestion does not move this run's boundary.
 
-`ANALYSIS_CURRENT` has a latest closed forward transaction of `EVENT_0075`. Its complete 23-surface screen adds bounded N25 I1 public-school character/relationship/epistemic evidence; the latest human-state transition remains EVENT_0072, and the six longitudinal ledger endpoints retain `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. N25's main-story foundation is complete. The other four human-unit foundations remain `NOT_STARTED`, and their material event routes remain deferred pending foundation and subsequent interpretation.
+`ANALYSIS_CURRENT` has a latest closed forward transaction of `EVENT_0076`. Its complete 25-surface screen adds N25 I1 creative-mentoring, reciprocal-care and bounded epistemic evidence while strengthening existing claims/themes; the latest human-state transition remains EVENT_0072, and the six longitudinal ledger endpoints retain `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. N25's main-story foundation is complete. The other four human-unit foundations remain `NOT_STARTED`, and their material event routes remain deferred pending foundation and subsequent interpretation.
 
 **Coverage qualification:** the imported routing inventory still explicitly marks 21 earlier events `PENDING_ONE_TIME_UNIVERSAL_SCREEN`: `0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, and `0027–0028`. No later closure record in that ledger resolves these rows. Thus “routing through EVENT_0072” identifies the inventory/frontier, not gap-free completed franchise screening. Preserve the completed EVENT_0046–0072 universal screens and reusable earlier completed envelopes. Close the listed backlog once, and consume deferred routes after each remaining foundation; do not repeat discovery separately for each unit.
 
 `RECONSTRUCTION_CURRENT` is not yet certified for any complete principal-human package. Event-local `reconstruction_yield: R3` annotations are evidence-yield assessments, not completed character-readiness audits. Character packages, four remaining foundations, backlog/deferred-route interpretation, unit and warranted specialist syntheses, full-series synthesis, and final audits/integration remain completion dependencies.
 
-The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md) closes `EVENT_0075 — 絶叫！？ オオカミの森へようこそ！`, bucket `RB_20221031T060000Z`: eight core chapters, cards `0528–0532` (ten halves) and five archive-publication areas `areatalk_ev_shuffle_25_001–005` with independent chapter-8 unlock links. VBS/Leo/need/MMJ are PRIMARY and WxS SECONDARY, all with impact `DEFERRED_PENDING_FOUNDATION`; N25 is INCIDENTAL/I1 with no successor human state. The next forward event is `EVENT_0076`, awaiting its own complete manifest-resolved transaction.
+The latest [event reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) closes `EVENT_0076 — Echo my melody`, bucket `RB_20221111T060000Z`: eight core chapters, cards `0535–0539` (ten halves), five band areas and two monthly areas with independent chapter-8 unlock links. Leo/need is PRIMARY/VERY_HIGH/R3-yield with impact `DEFERRED_PENDING_FOUNDATION`; N25 is CROSS_UNIT/HIGH/I1/R2-yield with no successor human state. Other-unit ordinary/indirect routes remain bounded. The next forward event is `EVENT_0077`, awaiting its own complete manifest-resolved transaction.
 
 ### Preserved earlier campaign narrative and chronological updates
 
@@ -397,3 +397,9 @@ Documentary screening and the latest closed forward transaction advance to EVENT
 [EVENT_0075 — 絶叫！？ オオカミの森へようこそ！](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md) closes all 23 surfaces, preserving shared class-project competence, fear-sensitive participation, distributed repair, ordinary relationships and mistaken public intention attribution. VBS/Leo/need/MMJ are PRIMARY, WxS SECONDARY, with baseline impact deferred until foundation and ordered historical integration.
 
 N25 is INCIDENTAL/LOW/I1/R1: Mafuyu's public-school coordination, bounded peer trust with Shizuku and concert register add evidence without authenticating new private enjoyment. Character, relationship and epistemic ledgers receive selective entries; no successor human state, claim revision or new motif is warranted. Ena's attendance remains an indirect report with unidentified companions. Documentary screening and latest positive N25 integration reach EVENT_0075, while the latest human-state transition remains EVENT_0072. Tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` and both manifestation-group authorities remain current. Next forward candidate EVENT_0076; the 21 historical screen gaps and all remaining completion dependencies persist.
+
+### EVENT_0076 authority update
+
+[EVENT_0076 — Echo my melody](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) closes all 25 surfaces. Ichika's composition, Honami's production work, choices under uncertainty, recipient-sensitive performance and explicit software/Classroom Miku distinction warrant a full reading. Leo/need baseline impact remains deferred until foundation and ordered historical interpretation; the unnamed observer's interest does not establish professional debut.
+
+N25 is CROSS_UNIT/HIGH/I1/R2-yield. Kanade's technical mentorship, recognition of support beside others, reciprocal inspiration, credited inheritance and received gifts strengthen existing character/relationship/epistemic/claim/theme authority without a successor human state. All six ledgers receive selective updates. Documentary screening and positive N25 integration reach EVENT_0076; the latest human-state transition remains EVENT_0072. Tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` and both N25 manifestation-group authorities remain current. Next forward candidate EVENT_0077; all older screen gaps, four foundations/deferred integrations and remaining completion dependencies persist.
