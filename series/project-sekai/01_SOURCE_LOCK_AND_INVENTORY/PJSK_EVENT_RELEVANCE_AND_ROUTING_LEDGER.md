@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 20 earlier universal screens remain pending; EVENT_0001 historical universal screen complete"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -12,6 +12,13 @@ mutable: true
 ---
 
 # Project SEKAI Event Relevance and Routing Ledger
+
+
+## Current routing authority — historical EVENT_0001 screen closed
+
+The forward frontier remains EVENT_0090 / next EVENT_0091. Historical EVENT_0001 is now `UNIVERSAL_SCREEN_COMPLETE`, with N25/VBS documentary I0 and material LEO_NEED/MMJ/WXS routes pending ordered interpretation. All five main-story baselines exist. Twenty older universal screens remain pending: `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. EVENT_0003 is the next unresolved historical screen; EVENT_0002's existing complete pass remains valid. Older dated/frontier sections below are preserved historical checkpoints, not later current-state overrides.
+
+`PENDING_ORDERED_UNIT_INTEGRATION` distinguishes a valid route whose canonical main-story baseline exists from a completed baseline-relative interpretation. Imported `DEFERRED_PENDING_FOUNDATION` entries remain historical dispositions; foundation promotion does not automatically integrate or reclassify them. Resolve them explicitly as each unit consumes its routes in order. Neither status certifies reconstruction readiness.
 
 ## 1. Purpose and authority
 
@@ -70,7 +77,7 @@ The table below is a routing inventory, not a substitute for detailed per-unit a
 
 | Event | Title | Bucket | Envelope authority | Indexed/routed units | Existing complete pass | N25 impact | Routing status | Later-unit action |
 |---|---|---|---|---|---|---|---|---|
-| EVENT_0001 | 雨上がりの一番星 | `RB_20201009T060000Z` | review-index associations only; final analytical envelope pending | `LEO_NEED` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
+| EVENT_0001 | 雨上がりの一番星 | `RB_20201009T060000Z` | 8 core + 10 card halves; zero areas = 18 verified stories / 1,238 records | `LEO_NEED PRIMARY; MMJ/WXS CROSS_UNIT; N25/VBS NONE` | yes (universal) | `I0` | `UNIVERSAL_SCREEN_COMPLETE` | material LN/MMJ/WXS routes await ordered integration; reuse record-level evidence below |
 | EVENT_0002 | 囚われのマリオネット | `RB_20201020T060000Z` | 8 core + 10 card halves + 4 area (verified completed envelope) | `N25` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
 | EVENT_0003 | 全力！ワンダーハロウィン！ | `RB_20201031T060000Z` | review-index associations only; final analytical envelope pending | `WXS` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
 | EVENT_0004 | 走れ！体育祭！～実行委員は大忙し～ | `RB_20201109T060000Z` | 8 core + 10 card halves + 8 area (verified completed envelope) | `LEO_NEED, MMJ, N25, WXS` | yes | `I2` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
@@ -2436,3 +2443,328 @@ next_event: EVENT_0091
 ```
 
 The shared reading owns record-level evidence and 25 actual canonical witness hashes. Reuse its separate sections for Ena's intended-subject/technique/reception sequence, Shiho's practice-accountability and musical exchange, An's continuing pressure after partial relief, Nene's incomplete but enacted rehearsal initiative, and School/Street Miku's distinct knowledge. No future debut, professional mastery, fixed fish-pair symbolism or unshown private-content transfer follows. N25 I2 is integrated; four material unit routes remain deferred. Earlier gaps and remaining architecture dependencies persist; next EVENT_0091.
+
+## EVENT_0001 — 雨上がりの一番星 — historical universal screen
+
+**Routing status:** `UNIVERSAL_SCREEN_COMPLETE`; quality `COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_ROUTES`. **Source lock:** `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. **Release bucket:** `RB_20201009T060000Z`; all 18 sources have `2020-10-09T06:00:00Z` initial availability. The complete envelope comprises eight core chapters and both halves of cards 0109–0113, with zero linked/unlock/archive areas or other supported crosslinks: **18 stories / 46 scenes / 1,238 ordered records**. All ordered records, including scene/cut/media cues, were inspected; actual canonical hashes independently matched the frozen checksum manifest. No image or audio performance was inspected.
+
+This closes one historical discovery gap. It does not advance the separate EVENT_0090 forward frontier / next EVENT_0091 or complete the pending longitudinal interpretation of material unit routes. N25 and VBS receive documentary I0 for absent evidence; LEO_NEED, MMJ and WXS have canonical main-story baselines but await ordered integration. No human or relationship successor is established by a routing decision.
+
+### Unit disposition and targeted retrieval
+
+| Unit / manifestation | Relevance | Future review | Baseline-relative disposition | Retrieval boundary |
+|---|---|---|---|---|
+| LEO_NEED | PRIMARY | HIGH | PENDING_ORDERED_UNIT_INTEGRATION | Four humans, group and dyads; illness/conflict/repair, time scarcity, private counsel, music, school/work, gifts and ordinary life. Use the evidence map below. |
+| MMJ | CROSS_UNIT | LOW | PENDING_ORDERED_UNIT_INTEGRATION | Reported Saki–Minori café/cross-class friendship and Haruka aquarium/class network. No MMJ speaker or internal state. `PJSK:card:0109:02:002:0007–0015`; `PJSK:card:0112:02:001:0037–0043`. |
+| WXS | CROSS_UNIT | MEDIUM | PENDING_ORDERED_UNIT_INTEGRATION | Tsukasa's direct household/sibling/visitor scenes and remembered invitation; no troupe-wide consequence. `PJSK:event:0001:04:001:0004–0027`; `PJSK:event:0001:06:002:0006–0024`; `PJSK:event:0001:07:001:0003–0014`; `PJSK:card:0109:02:002:0016–0025`. |
+| VBS | NONE | NONE | I0 — documentary screen complete | No material unit/member evidence. Generic café/live-house settings do not identify VBS. |
+| N25 | NONE | NONE | I0 — documentary screen complete | No material unit/member evidence. Honami's generic household-care competence does not create a Kanade/N25 route. |
+| School / Classroom SEKAI Luka | SECONDARY | HIGH | With LEO_NEED ordered integration | Listening, tentative inference, private counsel, music/social coordination and singer mentorship; no omniscience. |
+| School / Classroom SEKAI Miku | SECONDARY | HIGH | With LEO_NEED ordered integration | Privacy, ordinary participation, musical effort and aspirational senior identity; no other manifestation inherits this evidence. |
+
+MMJ receives a bounded CROSS_UNIT route because the evidence identifies specific social relations and information flow worth preserving; LOW review priority reflects its limited report-only scope. Shiho's sister analogy remains an unnamed family reference here and does not independently establish a depicted MMJ scene. Other singers/manifestations have no supported route.
+
+### Verified source inventory
+
+Hashes below identify canonical analyzed Markdown bytes, not the distinct upstream transcript bytes. Source proxy: `ci-ke/ProjectSekai-story` at `22b4d19e982feaece6cd42c074e86e2cefac5cdd`; the analytical source lock owns full pipeline provenance. No local filesystem path is required for retrieval.
+
+| Story ID | Ordered records | Scenes | Canonical SHA-256 |
+|---|---:|---:|---|
+| `PJSK:event:0001:01` | 85 | 5 | `83e340ddfd26e1e55964335e8cda6879c4cb19b9959b81159e01858dcce01fec` |
+| `PJSK:event:0001:02` | 72 | 2 | `df31ee3253e705fe7d7568f1cc40d34daa919e9be1b08916564869260b906bb9` |
+| `PJSK:event:0001:03` | 81 | 1 | `55da5afd49c60a4e9b74dcd17656958fbf7f19d8a1f5533e661957adfc9d0a12` |
+| `PJSK:event:0001:04` | 96 | 7 | `910023af135e65f4bb1c3fcd7262afc6338da204ee7be417fea1274e25f272f2` |
+| `PJSK:event:0001:05` | 84 | 2 | `ae70c53f07b80bb5533147392a2375069ef91afeb27ddf1701331fb956837f56` |
+| `PJSK:event:0001:06` | 111 | 4 | `7363233368224b01842ca49e2cc7fbd0423dd39ac3a9bd5741ff84850bfe7a66` |
+| `PJSK:event:0001:07` | 106 | 3 | `fc63acdb9f93ebb15c77ca6efae75c3f8b60a1cf9faa4ca49e7858c098b4ef67` |
+| `PJSK:event:0001:08` | 74 | 2 | `51badb8641e2035c635fe210866774f2c6ab3a9525458dfa50b17b6832e906a4` |
+| `PJSK:card:0109:01` | 60 | 4 | `653ac6664670a6274a4102591089279cf703f57bb4282cdbec0f63d9f3728af3` |
+| `PJSK:card:0109:02` | 44 | 2 | `3bb5fe18066e1fd88b256ed70ffb91695408b612751dd7855c76e84518105df4` |
+| `PJSK:card:0110:01` | 48 | 1 | `b9c264ccb0946c7fd9aebab165e9c573ab20a2216288474e231ecd05ff0441c6` |
+| `PJSK:card:0110:02` | 48 | 1 | `1421dc567b5c95ac417224caef74ac1d6f96ccd99a01cd8115b776a64147ce29` |
+| `PJSK:card:0111:01` | 59 | 1 | `86f6739735d36b5acfbca195c80d18999c0aca0ce953e65635cde0235623ff74` |
+| `PJSK:card:0111:02` | 54 | 3 | `6c9268ef95affe4f6e184a4ac44defe5309c77834d19b3158ac26258db91c0d6` |
+| `PJSK:card:0112:01` | 49 | 2 | `030aa398174c2ed9006f6bb75162cd97d489f57860f4b1a9603676cd07e89f41` |
+| `PJSK:card:0112:02` | 57 | 1 | `ee92e225c9e816f95b989e211adf42d92160377f78ee74dad9d34005b66f87ea` |
+| `PJSK:card:0113:01` | 62 | 3 | `16ad6385b7adfb6dec8653b2477db21378320c42c7f74d0f26a713221f321086` |
+| `PJSK:card:0113:02` | 48 | 2 | `c9845beef3fbb90093ef3027f41e9c20f4fe503f08231d88d81df2d9f7dbd681` |
+
+
+### Depicted chronology and knowledge limits
+
+The core proceeds from the hospital dream and current school/practice through preparation, an explicitly next-day shift request, practice the day before the planned observatory visit, Saturday's illness/visit/SEKAI conversation, and planetarium play several days later. The distant-hospital flashbacks and earlier elementary/local-hospital flower visits remain distinct. The cards share availability metadata, not a proven total depicted order.
+
+- `PJSK:card:0109:01` — LIKELY_AFTERMATH_NOT_EXPLICIT_IN_HALF: Self-management after illness; paired back explicitly after planetarium. Night then next-day lunch internally ordered.
+- `PJSK:card:0109:02` — EXPLICIT_AFTER_PLANETARIUM: Saki says planetarium already happened; monthly outings remain plans.
+- `PJSK:card:0110:01` — EXPLICIT_AFTER_PLANETARIUM: Luka says first meeting since planetarium; Saki delivers photos.
+- `PJSK:card:0110:02` — AFTER_CARD_0110_FRONT: Luka shows photos previously not shown, delivered by Saki.
+- `PJSK:card:0111:01` — AFTER_ILLNESS_CONFLICT_LESSON;_PLANETARIUM_RELATION_UNPINNED: Thanks about warning and discussion of what Saki has understood.
+- `PJSK:card:0111:02` — POST_FORMATION;EXACT_EVENT_RELATION_UNPINNED: Band practice and live-house peer testimony; no explicit planetarium mention.
+- `PJSK:card:0112:01` — AFTER_RECENT_COLD_HOME_ESCORT;PLANETARIUM_RELATION_UNPINNED: Saki thanks Honami for escort and says recovered.
+- `PJSK:card:0112:02` — EXPLICIT_AFTER_PLANETARIUM: Printed photos shown; future delivery to singers suggests but does not date link to card 0110.
+- `PJSK:card:0113:01` — POST_FORMATION_AND_SAKI_RETURN_TO_SCHOOL;EVENT_CLIMAX_RELATION_UNPINNED: No explicit planetarium/recent-fever anchor; remembered local visits precede distant hospital move.
+- `PJSK:card:0113:02` — AFTER_CARD_0113_FRONT_PROPOSAL: Group actually fulfills flower-shop plan; relation to other card stories unpinned.
+
+
+Luka certainly receives Saki's confession. The friends' exact arrival/hearing point and Miku's hearing distance remain OPEN; later singer discussion establishes particular subsequent knowledge without proving each person heard every original line. Tsukasa expects Saki in her room and is not shown learning her SEKAI destination. Fever concealment is audience/Saki knowledge before the others' direct checks; the manager's awareness is unshown. Doctor reassurance, a guitarist's evaluation, self-blame and teasing each retain their speaker attribution. No diagnosis, numerical temperature, objective sole cause or permanent recovery follows.
+
+The observatory reschedule, three monthly outings, combined lunch, photobook completion, later celebration purchases and show attendance remain plans. Planetarium play and the flower-shop visit are shown. The core's final proposal to play music is not a completed musical performance in the inspected record. These distinctions constrain later interpretation rather than preassigning its impact.
+
+### Reusable record-level evidence map
+
+The observations below own documentary retrieval. A subsequent shared event reading should own the causal and baseline-relative interpretation; individual character/unit work reuses that reading and these locators. No whole-envelope reread is required absent a concrete routing deficiency.
+
+#### E0001-SRC-DREAM-AND-CONCEALMENT
+
+Saki identifies the opening as a hospitalization dream; she withholds it to avoid Ichika feeling guilty and privately wants to regain time with friends. **Evidence mode:** audience_only_internal, dream_context, direct_dialogue. **Temporal scope:** Core opening; dream recalls earlier hospitalization. **Limits:** Dream is not a new hospital admission. Friends do not receive the full private explanation.
+
+**Domains:** hospitalization_memory, self_presentation, time_scarcity, epistemic_boundary. **Exact locators:** `PJSK:event:0001:01:001:0003–0020`; `PJSK:event:0001:01:002:0006–0017`; `PJSK:event:0001:01:005:0014–0016`.
+
+#### E0001-SRC-EARLY-ORDINARY-GROUP
+
+Saki oversleeps unusually, initiates hugs, and redirects to music; friends tease and move discreetly to SEKAI. **Evidence mode:** direct_dialogue, participant_reports. **Temporal scope:** Core chapter 01 present. **Limits:** No outsider knowledge or broad secrecy policy inferred.
+
+**Domains:** school_routine, affection, speech_register, practice, SEKAI_access. **Exact locators:** `PJSK:event:0001:01:001:0021–0024`; `PJSK:event:0001:01:002:0002–0005`; `PJSK:event:0001:01:003:0009–0017`; `PJSK:event:0001:01:004:0001–0005`; `PJSK:event:0001:01:005:0006–0012`.
+
+#### E0001-SRC-DISTANT-HOSPITAL-VISIT
+
+Ichika recalls visiting the distant hospital; Saki notes travel cost/time, disappointment at absent friends, and turns departure sadness toward a souvenir suggestion. **Evidence mode:** retrospective_memory, participant_side, audience_only_internal. **Temporal scope:** Hospital memory within chapter 02. **Limits:** Do not conflate this distant-hospital visit with elementary/local flower-shop visits.
+
+**Domains:** friendship_history, care, social_mask, hospitalization_geography. **Exact locators:** `PJSK:event:0001:02:001:0016–0037`.
+
+#### E0001-SRC-SCHEDULE-AND-OUTING
+
+Saki maintains her café schedule, enjoys packed work/club/band life, and expands an observatory idea to multiple activities. **Evidence mode:** direct_dialogue, audience_only_self_speech, memory_context. **Temporal scope:** After chapter 01 practice; before Saturday plan. **Limits:** No actual outing is depicted here.
+
+**Domains:** ordinary_life, work, planning, time_scarcity, recreation. **Exact locators:** `PJSK:event:0001:02:001:0002–0014`; `PJSK:event:0001:02:002:0002–0032`.
+
+#### E0001-SRC-PRACTICE-AND-SOCIAL-VALUE
+
+Honami knows about the observatory; Shiho prioritizes practice; Luka offers a social-coordination rationale; the group teases Ichika’s analogy. **Evidence mode:** direct_dialogue, context_conditioned, inferred_by_character. **Temporal scope:** SEKAI planning before Saturday. **Limits:** Luka’s belief that Shiho already wanted to go is her interpretation.
+
+**Domains:** creative_process, leisure_preferences, speech_register, mentorship. **Exact locators:** `PJSK:event:0001:03:001:0002–0049`.
+
+#### E0001-SRC-LUKA-WARNING
+
+Luka tentatively says Saki sounds strained and Shiho agrees to watch her; playful food wager and Honami’s cost curiosity continue. **Evidence mode:** direct_dialogue, character_auditory_report. **Temporal scope:** Before detected fever. **Limits:** No audio inspected; subjective impression is not diagnosis.
+
+**Domains:** care, observation, epistemic_transfer, humor, food_costs. **Exact locators:** `PJSK:event:0001:03:001:0050–0080`.
+
+#### E0001-SRC-TSUKASA-HOUSEHOLD
+
+Tsukasa checks weekend arrangements, briefly misunderstands a date, supports Saki, and worries while parents travel and he expects performance work. **Evidence mode:** direct_dialogue, participant_report. **Temporal scope:** Pre-outing preparations. **Limits:** Doctor’s reassurance is Saki’s report; no troupe-wide consequence established.
+
+**Domains:** family, household_coordination, speech_register, performance_work_context, self_care. **Exact locators:** `PJSK:event:0001:04:001:0004–0027`.
+
+#### E0001-SRC-ILLNESS-AND-EXTRA-WORK
+
+Honami notices redness; Saki privately recognizes fever and plans rest, then covers a café shift while protecting Saturday plans and helping coworkers. **Evidence mode:** direct_dialogue, audience_only_internal, phone_dialogue. **Temporal scope:** Days before outing, including explicitly next-day shift request. **Limits:** Manager not shown knowing Saki is ill; no diagnosis or medical mechanism inferred.
+
+**Domains:** self_care, work_obligation, helping, concealment, competing_goals. **Exact locators:** `PJSK:event:0001:04:003:0002–0006`; `PJSK:event:0001:04:004:0002–0011`; `PJSK:event:0001:04:006:0002–0027`.
+
+#### E0001-SRC-PERCEIVED-PRACTICE-CONDITION
+
+After work Saki feels fever rising, recalls the practice condition, and worries skipping might cost the outing. **Evidence mode:** audience_only_self_speech, retrospective_memory. **Temporal scope:** Night before practice preceding Saturday. **Limits:** Shiho did not explicitly require practice while ill.
+
+**Domains:** causal_pressure, interpretation_gap, self_care. **Exact locators:** `PJSK:event:0001:04:007:0002–0014`.
+
+#### E0001-SRC-FEVER-CONFLICT
+
+The group offers rest or individual pacing; Saki denies fever and insists on ensemble practice. Honami/Shiho detect fever; Saki rejects outings being available anytime. **Evidence mode:** direct_dialogue, touch_based_character_observation, memory_context. **Temporal scope:** Day before Saturday outing. **Limits:** No numerical temperature or current collapse shown. Arm pain is directly voiced by Saki.
+
+**Domains:** conflict, health_concealment, care, time_scarcity, communication_mismatch. **Exact locators:** `PJSK:event:0001:05:001:0002–0058`.
+
+#### E0001-SRC-HONAMI-PRACTICAL-CARE
+
+Honami requests a chair, offers a drink and home escort, then handles household care and credits experience with her brother; Shiho defers repair until rest. **Evidence mode:** direct_dialogue, participant_report. **Temporal scope:** Immediately after practice illness. **Limits:** Saki’s self-blame is not adopted; exact household actions beyond dialogue unspecified.
+
+**Domains:** practical_care, family_experience, agency, repair_pending. **Exact locators:** `PJSK:event:0001:05:001:0059–0066`; `PJSK:event:0001:05:002:0002–0015`.
+
+#### E0001-SRC-SATURDAY-SIBLING-CARE
+
+Tsukasa offers breakfast/cocoa and remains available; Saki believes he took time off for her and feels guilty. **Evidence mode:** direct_dialogue, audience_only_internal. **Temporal scope:** Explicit Saturday. **Limits:** Reason and details of time off are Saki’s internal account; no WxS cast reaction shown.
+
+**Domains:** family, care, work_context, self_blame. **Exact locators:** `PJSK:event:0001:06:002:0002–0024`.
+
+#### E0001-SRC-LUKA-LISTENING
+
+Saki seeks SEKAI stars, initially feels alone, then discloses to Luka; Luka denies omniscience and asks why she pushed herself. **Evidence mode:** direct_dialogue, self_account. **Temporal scope:** Saturday, before group arrives. **Limits:** Saki’s sweeping blame is a self-account, not narration.
+
+**Domains:** mentorship, privacy, loneliness, epistemic_limits. **Exact locators:** `PJSK:event:0001:06:003:0002–0033`.
+
+#### E0001-SRC-ICHIKA-VISIT-DISCLOSURE
+
+Ichika explains repeated hospital visits to Honami/Shiho and recalls letters and parting loneliness; she proposes visiting together. **Evidence mode:** direct_dialogue, retrospective_memory, participant_report, audience_only_internal. **Temporal scope:** Saturday walking group plus earlier hospital visit memory. **Limits:** Exact flashback content retold is not fully specified; specialist hospital reason is a report of Saki’s mother.
+
+**Domains:** friendship_history, epistemic_transfer, care, letters, agency. **Exact locators:** `PJSK:event:0001:06:004:0002–0048`.
+
+#### E0001-SRC-HOME-VISIT-AND-STARS
+
+Tsukasa mixes show talk with sincere thanks. Friends remember ceiling stars and use Saki’s desire for stars to infer SEKAI after finding her absent. **Evidence mode:** direct_dialogue, retrospective_report, inference_by_character. **Temporal scope:** Saturday home visit. **Limits:** Tsukasa is not shown learning where Saki went. Future show attendance not shown.
+
+**Domains:** family, cross_unit_contact, shared_memory, SEKAI_knowledge_boundary. **Exact locators:** `PJSK:event:0001:07:001:0003–0018`; `PJSK:event:0001:07:002:0002–0018`.
+
+#### E0001-SRC-TIME-FEAR-CONFESSION
+
+Saki tells Luka hospitalization contained kindness and enjoyable activities but also fear that missed and even past shared time would disappear; she wanted to give time form. **Evidence mode:** direct_disclosure, retrospective_self_account. **Temporal scope:** Saturday confession recalling hospitalization. **Limits:** Disclosure recipient certain: Luka. Friends’ arrival point and Miku’s precise hearing boundary remain OPEN.
+
+**Domains:** psychology, time_scarcity, memory_preservation, hospitalization, coping. **Exact locators:** `PJSK:event:0001:07:003:0002–0030`.
+
+#### E0001-SRC-MIKU-GIVES-SPACE
+
+Miku sees Luka listening to Saki and decides to leave the conversation to her; Luka later thanks Miku for the space. **Evidence mode:** audience_only_internal, direct_dialogue. **Temporal scope:** Saturday observation, followed by planetarium recollection. **Limits:** Seeing a conversation does not prove hearing every disclosure.
+
+**Domains:** privacy, mentorship, VS_manifestation, senior_relation. **Exact locators:** `PJSK:event:0001:07:003:0008–0011`; `PJSK:event:0001:08:002:0029–0033`.
+
+#### E0001-SRC-GROUP-REPAIR
+
+Luka offers a tentative hurry/loss reframe; Shiho apologizes and describes anger at herself; Honami also apologizes; Ichika proposes gradual shared time and continued companionship. **Evidence mode:** direct_dialogue, self_account, interpretation_by_character. **Temporal scope:** Saturday after confession. **Limits:** Self-blame does not establish medical causation. Promise is not guaranteed future outcome.
+
+**Domains:** repair, self_blame, friendship, time_pacing, epistemic_partial_transfer. **Exact locators:** `PJSK:event:0001:07:003:0031–0065`.
+
+#### E0001-SRC-PLANETARIUM-SHARED-WORK
+
+Saki accepts going home and rescheduling; several days later all six cooperate in planetarium play, with Honami guiding and everyone contributing. **Evidence mode:** direct_dialogue, explicit_time_transition. **Temporal scope:** Immediate Saturday continuation; then several days later. **Limits:** No actual observatory visit. Core does not show completed music performance after the final proposal.
+
+**Domains:** ordinary_life, shared_creation, astronomy, humor, care, VS_manifestation. **Exact locators:** `PJSK:event:0001:08:001:0002–0010`; `PJSK:event:0001:08:002:0001–0028`; `PJSK:event:0001:08:002:0035–0062`.
+
+#### E0001-SRC-HEALTH-APP-AND-RELIANCE
+
+Saki prioritizes health, evaluates a health app, and explicitly agrees to rely on the three friends; affectionate teasing follows. **Evidence mode:** audience_only_self_speech, direct_dialogue, claims_about_app. **Temporal scope:** Likely event aftermath; front half itself does not date to planetarium. **Limits:** App/provider efficacy and safety unverified; no lasting symptom outcome claimed.
+
+**Domains:** ordinary_life, self_care, planning, technology, reliance, speech_register. **Exact locators:** `PJSK:card:0109:01:001:0002–0014`; `PJSK:card:0109:01:004:0005–0041`.
+
+#### E0001-SRC-PACED-TRIP-PLANS
+
+After the planetarium, the four agree all proposed outings can be spaced monthly, protecting work/practice and including everyone’s preferences. **Evidence mode:** direct_dialogue, prospective_plan. **Temporal scope:** Explicitly after planetarium. **Limits:** Aquarium, shopping complex, and Phoenix Wonderland visits remain unshown plans.
+
+**Domains:** planning, time_pacing, friendship, leisure_preferences. **Exact locators:** `PJSK:card:0109:02:002:0003–0042`.
+
+#### E0001-SRC-HARUKA-AQUARIUM-REPORT
+
+Ichika identifies Kiritani as the aquarium recommender; Saki reports a temporary penguin interaction and Shiho expresses interest. **Evidence mode:** participant_side_report, absent_character_reference. **Temporal scope:** Post-planetarium planning; recommendation earlier but unshown. **Limits:** Haruka does not speak; internal motives and shared event knowledge absent.
+
+**Domains:** cross_unit_network, school_peer_information, recreation. **Exact locators:** `PJSK:card:0109:02:002:0011–0016`.
+
+#### E0001-SRC-TSUKASA-SHOW-RECALL
+
+Shiho proposes Phoenix Wonderland and cites Tsukasa’s show invitation while friends tease about mascots. **Evidence mode:** participant_report, teasing_inference. **Temporal scope:** Post-planetarium plan; recalls core home visit. **Limits:** No visit or show performance outcome. Mascot motive is teasing, not admitted fact.
+
+**Domains:** cross_unit_network, recreation, family_friend_contact. **Exact locators:** `PJSK:card:0109:02:002:0021–0025`.
+
+#### E0001-SRC-PRIVATE-CONSULTATION
+
+Saki thanks Luka after the planetarium and negotiates future secret consultations apart from her childhood friends; Luka offers herself and Miku as support. **Evidence mode:** direct_dialogue, self_report, prospective_offer. **Temporal scope:** Explicitly after planetarium. **Limits:** Reassurance gratitude is not a medical cure; childhood friends do not witness consultation offer.
+
+**Domains:** privacy, mentorship, friendship_disclosure_limits, VS_manifestation. **Exact locators:** `PJSK:card:0110:01:001:0004–0036`.
+
+#### E0001-SRC-MIKU-OUTSIDE
+
+Miku explains not interrupting Saki’s thanks, partly because she is recovering; Luka privately wonders whether embarrassment also mattered. **Evidence mode:** direct_dialogue, audience_only_inference. **Temporal scope:** After Saki leaves photo/thanks visit. **Limits:** Miku is outside partway; precise lines overheard not fully established. Embarrassment is Luka’s hypothesis.
+
+**Domains:** privacy, care, speech_register, VS_manifestation. **Exact locators:** `PJSK:card:0110:01:001:0037–0047`.
+
+#### E0001-SRC-SINGER-PHOTO-REVIEW
+
+Luka gives Miku photos; both review the gathering and Saki’s situation, with support framed around possible future difficulty speaking to close friends. **Evidence mode:** direct_dialogue, photo_based_recollection, character_assessment. **Temporal scope:** After Saki’s photo delivery. **Limits:** Photos not inspected. Descriptions and psychological assessments remain speaker testimony.
+
+**Domains:** VS_manifestation, mentorship, memory_preservation, relationship_limits. **Exact locators:** `PJSK:card:0110:02:001:0002–0039`.
+
+#### E0001-SRC-MIKU-SENIOR-ASPIRATION
+
+Miku wants to encourage important juniors like Luka does; Luka says Miku already is a fine senior and Miku hesitates at praise. **Evidence mode:** direct_dialogue. **Temporal scope:** Post-planetarium singer-only conversation. **Limits:** Do not generalize beyond Classroom SEKAI manifestations.
+
+**Domains:** VS_manifestation, identity, aspiration, reciprocal_encouragement, speech_register. **Exact locators:** `PJSK:card:0110:02:001:0040–0047`.
+
+#### E0001-SRC-SHIHO-PRIVATE-ADVICE
+
+Shiho asks Luka how to notice illness; Luka tentatively attributes noticing to chance/differential concealment. Shiho wishes Saki would rely on them. She redirects when others later suspect private talk. **Evidence mode:** direct_dialogue, self_blame, character_hypothesis, privacy_boundary. **Temporal scope:** After illness/conflict; planetarium-relative date unspecified. **Limits:** Luka’s hypothesis not fact. Contents not disclosed to arriving friends.
+
+**Domains:** care, mentorship, concealment, affection, speech_register. **Exact locators:** `PJSK:card:0111:01:001:0003–0058`.
+
+#### E0001-SRC-ENSEMBLE-ADJUSTMENT
+
+Shiho gives specific feedback; Ichika requests slower tempo; Shiho and Honami then consider changing their rhythm parts to preserve Ichika’s strengths and support difficult passage. **Evidence mode:** direct_dialogue, creative_process. **Temporal scope:** Post-formation practice; exact event-relative date unresolved. **Limits:** No independent audio validation. Does not prove crisis caused musical change.
+
+**Domains:** music, adaptive_support, agency, practice, relationship. **Exact locators:** `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`.
+
+#### E0001-SRC-GUITARIST-CHANGE-REPORT
+
+A female guitarist retrospectively compares Shiho’s support playing about a month ago and more recently; Shiho says she enjoys playing with Leo/need and explains band name. **Evidence mode:** direct_dialogue, retrospective_external_evaluation, self_report. **Temporal scope:** At live house after practice; reported performances predate conversation. **Limits:** Evaluation is fallible third-party testimony. No causal attribution to this event or automatic longitudinal impact.
+
+**Domains:** creative_identity, work, external_validation, unit_formation_context. **Exact locators:** `PJSK:card:0111:02:003:0002–0022`.
+
+#### E0001-SRC-HONAMI-CLASSMATES
+
+Honami shares concern, reciprocal personal talk, jokes, and quiz help with two classmates, privately valuing both newer and childhood friendships. **Evidence mode:** direct_dialogue, classmate_self_report, audience_only_internal. **Temporal scope:** After recent cold/home escort; planetarium-relative date unspecified. **Limits:** Exact prior important disclosure and classmates’ earlier history not invented.
+
+**Domains:** school, friendship, study, reciprocity, ordinary_life. **Exact locators:** `PJSK:card:0112:01:001:0002–0009`; `PJSK:card:0112:01:002:0002–0037`.
+
+#### E0001-SRC-PHOTO-PRINTING-AND-BOOK
+
+Honami prints planetarium photographs, includes an amusing image, and proposes a photobook; others tease and consider preserving memories. **Evidence mode:** direct_dialogue, photo_description, prospective_plan. **Temporal scope:** After planetarium; likely before photo delivery to Luka. **Limits:** Photo printing shown by dialogue/object exchange; future photobook completion unshown; images not inspected.
+
+**Domains:** ordinary_life, humor, memory_preservation, practical_initiative. **Exact locators:** `PJSK:card:0112:02:001:0002–0029`.
+
+#### E0001-SRC-MINORI-HARUKA-NETWORK
+
+Saki reports Minori was her first friend from another class and same café coworker; she chose café for cute uniform. Shift overlap and Haruka’s class/friend ties are discussed. **Evidence mode:** participant_side_report, peer_report, absent_character_reference. **Temporal scope:** Post-planetarium photo gathering; employment meeting retrospective. **Limits:** No Minori/Haruka speaker, MMJ development, or knowledge of Saki’s private conflict established.
+
+**Domains:** cross_unit_network, school, work, friendship, ordinary_preferences. **Exact locators:** `PJSK:card:0112:02:001:0030–0044`.
+
+#### E0001-SRC-JOINING-FRIEND-CIRCLES
+
+Saki’s friends-of-friends approach prompts Honami to question separating classmates and childhood friends, then invite a future joint lunch. **Evidence mode:** audience_only_internal, direct_dialogue, prospective_plan. **Temporal scope:** Post-planetarium photo gathering. **Limits:** Lunch itself, classmates’ acceptance, and durable network change unshown.
+
+**Domains:** social_network, agency, friendship, epistemic_to_behavior. **Exact locators:** `PJSK:card:0112:02:001:0043–0056`.
+
+#### E0001-SRC-LOCAL-FLORIST-HISTORY
+
+Ichika revisits a local florist, distinguishes elementary/local hospital visits from later distant hospitalization, orders flowers, and invites Saki and the group to the shop. **Evidence mode:** audience_only_memory, direct_dialogue, retrospective_external_report. **Temporal scope:** Post-formation present; no explicit planetarium-relative date. Earlier visits precede middle-school hospital move. **Limits:** Florist’s illness severity inference and visit-frequency memory retain witness limits.
+
+**Domains:** friendship_history, gifts, care, ordinary_initiative, hospital_geography, speech_register. **Exact locators:** `PJSK:card:0113:01:001:0002–0012`; `PJSK:card:0113:01:002:0002–0023`; `PJSK:card:0113:01:003:0002–0022`.
+
+#### E0001-SRC-FLOWER-VISIT-AND-PRESERVATION
+
+Four friends visit florist; Saki shows pressed flowers made by her mother at her request, gives a positive public account of hospitalization, and joins Ichika’s plan to buy celebration flowers. **Evidence mode:** direct_dialogue, retrospective_participant_report, audience_only_internal, prospective_plan. **Temporal scope:** After card 0113 front’s proposed flower-shop visit; other card placement unspecified. **Limits:** Pressed flowers not self-made by Saki; public positivity does not erase private fear. Celebration purchases not shown.
+
+**Domains:** gift_care, memory_preservation, family, social_presentation, friendship, ordinary_life. **Exact locators:** `PJSK:card:0113:02:001:0002–0011`; `PJSK:card:0113:02:002:0002–0034`.
+
+#### E0001-SRC-UNNAMED-SISTER-ANALOGY
+
+Shiho compares Saki’s clinginess to her own sister. **Evidence mode:** absent_relational_reference, teasing_context. **Temporal scope:** Core planning and card 0109 front. **Limits:** Sister not named or depicted in envelope. Any canonical named mapping belongs to root with baseline authority.
+
+**Domains:** family_reference, affection_boundaries. **Exact locators:** `PJSK:event:0001:03:001:0035–0036`; `PJSK:card:0109:01:004:0034–0040`.
+
+### Relationship and character retrieval
+
+All four Leo/need humans have PRIMARY/HIGH evidence. Tsukasa is CROSS_UNIT/MEDIUM; Minori and Haruka are reported CROSS_UNIT/LOW contacts. Anonymous classmates, the florist and guitarist retain separate speaker roles rather than invented principal identities. The relationship map below indexes the observation IDs above; those observations supply the exact records.
+
+| Relationship / group | Route | Evidence observations | Limit |
+|---|---|---|---|
+| SAKI--SHIHO | PRIMARY | `E0001-SRC-PRACTICE-AND-SOCIAL-VALUE`, `E0001-SRC-PERCEIVED-PRACTICE-CONDITION`, `E0001-SRC-FEVER-CONFLICT`, `E0001-SRC-GROUP-REPAIR`, `E0001-SRC-HEALTH-APP-AND-RELIANCE`, `E0001-SRC-SHIHO-PRIVATE-ADVICE` | Do not convert either girl’s self-blame into objective medical causality. |
+| SAKI--ICHIKA | PRIMARY | `E0001-SRC-DREAM-AND-CONCEALMENT`, `E0001-SRC-DISTANT-HOSPITAL-VISIT`, `E0001-SRC-ICHIKA-VISIT-DISCLOSURE`, `E0001-SRC-GROUP-REPAIR`, `E0001-SRC-PACED-TRIP-PLANS`, `E0001-SRC-LOCAL-FLORIST-HISTORY`, `E0001-SRC-FLOWER-VISIT-AND-PRESERVATION` | Private intent and recollection do not imply equal knowledge. |
+| SAKI--HONAMI | PRIMARY | `E0001-SRC-ILLNESS-AND-EXTRA-WORK`, `E0001-SRC-HONAMI-PRACTICAL-CARE`, `E0001-SRC-GROUP-REPAIR`, `E0001-SRC-HONAMI-CLASSMATES`, `E0001-SRC-PHOTO-PRINTING-AND-BOOK`, `E0001-SRC-JOINING-FRIEND-CIRCLES` | Joint lunch is planned, not observed. |
+| LEO_NEED_FOUR_CHILDHOOD_FRIENDS | PRIMARY | `E0001-SRC-EARLY-ORDINARY-GROUP`, `E0001-SRC-PRACTICE-AND-SOCIAL-VALUE`, `E0001-SRC-FEVER-CONFLICT`, `E0001-SRC-ICHIKA-VISIT-DISCLOSURE`, `E0001-SRC-GROUP-REPAIR`, `E0001-SRC-PLANETARIUM-SHARED-WORK`, `E0001-SRC-HEALTH-APP-AND-RELIANCE`, `E0001-SRC-PACED-TRIP-PLANS`, `E0001-SRC-PHOTO-PRINTING-AND-BOOK`, `E0001-SRC-FLOWER-VISIT-AND-PRESERVATION` | No permanent absence of future disagreement or fully shared secrets inferred. |
+| SHIHO--HONAMI | SECONDARY | `E0001-SRC-ENSEMBLE-ADJUSTMENT`, `E0001-SRC-PHOTO-PRINTING-AND-BOOK` | No actual audio outcome or event-caused musical transformation asserted. |
+| ICHIKA--SHIHO | SECONDARY | `E0001-SRC-PRACTICE-AND-SOCIAL-VALUE`, `E0001-SRC-ENSEMBLE-ADJUSTMENT` | Specific correction is not universal harshness. |
+| ICHIKA--HONAMI | SECONDARY | `E0001-SRC-HONAMI-PRACTICAL-CARE`, `E0001-SRC-PLANETARIUM-SHARED-WORK`, `E0001-SRC-JOINING-FRIEND-CIRCLES` | No separate unshown interpersonal crisis. |
+| SAKI--TSUKASA | CROSS_UNIT | `E0001-SRC-EARLY-ORDINARY-GROUP`, `E0001-SRC-TSUKASA-HOUSEHOLD`, `E0001-SRC-SATURDAY-SIBLING-CARE`, `E0001-SRC-HOME-VISIT-AND-STARS` | His work leave motive is Saki’s internal account; no SEKAI knowledge inferred. |
+| TSUKASA--ICHIKA_HONAMI_SHIHO | CROSS_UNIT | `E0001-SRC-HOME-VISIT-AND-STARS`, `E0001-SRC-TSUKASA-SHOW-RECALL` | Other WxS members absent; show attendance unshown. |
+| SAKI--CLASSROOM_LUKA | SECONDARY | `E0001-SRC-LUKA-WARNING`, `E0001-SRC-LUKA-LISTENING`, `E0001-SRC-TIME-FEAR-CONFESSION`, `E0001-SRC-GROUP-REPAIR`, `E0001-SRC-PRIVATE-CONSULTATION` | Not omniscient or medical cure; friends do not inherit private channel contents. |
+| SHIHO--CLASSROOM_LUKA_MIKU | SECONDARY | `E0001-SRC-LUKA-WARNING`, `E0001-SRC-SHIHO-PRIVATE-ADVICE` | The three later arrivals do not receive demonstrated full content. |
+| CLASSROOM_MIKU--CLASSROOM_LUKA | SECONDARY | `E0001-SRC-MIKU-GIVES-SPACE`, `E0001-SRC-MIKU-OUTSIDE`, `E0001-SRC-SINGER-PHOTO-REVIEW`, `E0001-SRC-MIKU-SENIOR-ASPIRATION` | Specific manifestations only; embarrassment hypothesis remains tentative. |
+| LEO_NEED--CLASSROOM_MIKU_LUKA | SECONDARY | `E0001-SRC-PRACTICE-AND-SOCIAL-VALUE`, `E0001-SRC-PLANETARIUM-SHARED-WORK`, `E0001-SRC-PRIVATE-CONSULTATION`, `E0001-SRC-SINGER-PHOTO-REVIEW` | No global singer identity or ontology conclusions. |
+| HONAMI--CLASSMATE_A_CLASSMATE_B | SECONDARY | `E0001-SRC-HONAMI-CLASSMATES`, `E0001-SRC-JOINING-FRIEND-CIRCLES` | Exact prior important disclosure and lunch outcome remain unknown. |
+| SAKI--MINORI | CROSS_UNIT | `E0001-SRC-MINORI-HARUKA-NETWORK` | No direct Minori participation or inner state. |
+| ICHIKA_SAKI--HARUKA | CROSS_UNIT | `E0001-SRC-HARUKA-AQUARIUM-REPORT`, `E0001-SRC-MINORI-HARUKA-NETWORK` | Reported only; no unit artistic evidence. |
+| MINORI--HARUKA | INCIDENTAL | `E0001-SRC-MINORI-HARUKA-NETWORK` | Retain as witness social-link report without assessing the dyad longitudinally. |
+| ICHIKA_SAKI--FLOWER_SHOP_WOMAN | SECONDARY | `E0001-SRC-LOCAL-FLORIST-HISTORY`, `E0001-SRC-FLOWER-VISIT-AND-PRESERVATION` | Past frequency is a witness report; celebration purchases not shown. |
+| SHIHO--FEMALE_GUITARIST | SECONDARY | `E0001-SRC-GUITARIST-CHANGE-REPORT` | Unnamed speaker; comparison is her perception. |
+| SAKI--CAFE_MANAGER | INCIDENTAL | `E0001-SRC-SCHEDULE-AND-OUTING`, `E0001-SRC-ILLNESS-AND-EXTRA-WORK` | No awareness of Saki’s illness by manager shown. |
+| SHIHO--UNNAMED_OLDER_SISTER | INCIDENTAL | `E0001-SRC-UNNAMED-SISTER-ANALOGY` | No named identification imported and no direct sister scene. |
+
+
+### Closure and downstream work
+
+This is one completed franchise discovery pass. Preserve the bounded source testimony, different consultation audiences, partial card order and all planned-versus-shown limits in subsequent unit interpretation. The material LEO_NEED/MMJ/WXS routes now satisfy the routing prerequisite alongside their main-story baselines. N25/VBS require no substantive character, relationship, knowledge, claim or theme mutation for this envelope. Earlier discovery gaps decrease from 21 to 20; the next unresolved historical screen is EVENT_0003, with EVENT_0002's existing complete pass preserved. Forward EVENT_0091 remains separate and unchanged.
