@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: HERO_SOCIETY
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3521,3 +3521,40 @@ Midoriya's endpoint perception of Shigaraki as rescue-relevant explicitly coexis
 
 - `V40:p193-196` pre-battle planning centers civilians, underground shelters, building preservation and the risk that Decay/destruction reaches the land itself.
 - The explicit priority is human life **and future**. Hero-system labor includes preserving the conditions from which reconstruction remains possible, not only stopping an enemy body.
+
+# Volume 41 hero-society updates
+
+## `WE ARE HERE` turns distributed heroism into executable architecture
+
+- `V41:p164-165`: the singular reassurance grammar associated with All Might is pluralized as `WE ARE HERE`.
+- This is not a repudiation of All Might's genuine past success. It is a structural successor to the fragility created when too much public reassurance and deterrence rested on one finite body.
+
+## Distribution preserves role differentiation
+
+- `V41:p151-156`: Aizawa gathers currently usable fighters through Kurogiri while leaving necessary evacuation/other-front defenders in place.
+- `V41:p157-159`: Eri contributes only the Rewind window she actually possesses.
+- `V41:p179-195`: different students/heroes construct different parts of the route to the final strike.
+
+**Revision:** distributed heroism is not “everyone does the same job.” It is broad participation organized around real expertise, location, capacity and obligation.
+
+## Civilians move from audience toward participation
+
+- `V41:p090`: social concern is explicitly widened beyond the singular hero profession.
+- `V41:p153-176`: evacuees/public actors provide equipment, encouragement and practical support.
+- `V41:p185-194`: repeated `頑張れ` makes spectatorship relationally implicated rather than purely consumptive/judgmental.
+
+This does not make cheering equivalent to combat. It changes the public's relation to the system from pure delegation toward shared stake.
+
+## Professional identity can be reactivated through conduct
+
+- `V41:p153`: returning and unnamed heroes ask to join the fight despite prior attrition/public collapse.
+- The evidence is best routed to institutional legitimacy rather than treated as automatic standalone character-readiness promotion.
+
+## Midoriya's visible insufficiency solves a different problem than All Might's visible sufficiency
+
+- `V41:p187-188`: the `弱き強さ` realization identifies Midoriya's weakness/need as something that repeatedly mobilizes others.
+- All Might's visible sufficiency reassured society and inspired successors; Midoriya's visible incompleteness creates causal room for other agents to enter.
+
+## Current synthesis through V41
+
+> **Hero Society's final-war alternative to singular-symbol dependence is neither anti-professionalism nor universal frontline heroism. It is a distributed protection network in which specialists remain specialists, civilians remain meaningful participants, damaged people can still contribute, and no one person's extraordinary capacity is treated as sufficient infrastructure for everyone else.**

@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: FIRST_PASS_CORRECTION
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1986,3 +1986,29 @@ Historical source: `MHA_V26-V27_DEEP_READING.md` remains `historical_legacy`.
 | **REJECT** | AFO's death automatically returns all stolen Quirks to original owners. Hawks's vestige immediately rejects that imagined restitution. | `V40:p190-191` |
 | **REJECT** | Childhood adversity alone explains AFO's later moral identity; V40 adds early possessiveness and a consciously selected Demon King dream. | `V40:p137-150` |
 | **OPEN** | Exact consequence of Shigaraki's V40:p199 contact for Danger Sense, final AFO vestige state, and remaining final-war/postwar outcomes. | freeze `V40:p199` |
+
+# Volume 41 second-pass corrections
+
+1. **MAJOR REVISE — Shigaraki was not simply an already-formed damaged child whom AFO later groomed.** Chapter 419 establishes direct developmental engineering: manipulation of the Shimura environment, removal of Tenko's latent inherited factor, provision of an engineered destruction-only copy, and deliberate hatred cultivation for OFA theft.
+
+2. **REJECT — the Chapter 419 reveal does not justify “Shigaraki never had any agency.”** AFO's specific manipulations are facts; `全部だ` is also AFO's totalizing ownership claim. Adult League bonds, later learning, V40 rejection of AFO and V41 `僕が…選んだんだ` remain evidence that must be assigned at their own causal level.
+
+3. **REVISE — “saving Tenko” cannot mean treating Tomura as a fake shell to be discarded.** V41 explicitly makes Shigaraki defend chosen League relationships and his role as `敵の…ヒーロー`. Rescue must recognize origin victimization and adult authorship/accountability together.
+
+4. **REJECT — V41 does not endorse a universal “trauma makes heroes strong” thesis.** AFO voices `悲劇こそが人を強くする`; Sero immediately challenges it and says sad things are better absent. Growth after suffering does not retroactively justify suffering.
+
+5. **REJECT — Midoriya's final growth is not maximal self-sufficiency.** He loses OFA factors, loses both arms temporarily, is directly re-enabled by others and receives the explicit rule `君も僕らの力が必要だ`. His final attack is authored but not self-caused.
+
+6. **REVISE — `WE ARE HERE` does not mean professional expertise disappears or that everyone becomes occupationally identical “heroes.”** V41 preserves differentiated evacuation, transport, Quirk, medical, logistical and frontline roles while widening participation/responsibility.
+
+7. **REJECT — Kurogiri should not be modeled as “Shirakumo fully restored.”** Aizawa's V41 black/white metaphor explicitly treats current identity as mixed and changed. Relational continuity is real; pure restoration and final identity remain unsupported.
+
+8. **REVISE — Eri's horn contribution should not be celebrated simply as child heroic self-sacrifice.** Its ethical meaning depends on bounded power, adult mediation and her preserved future desire to sing. The payoff of rescue is agency plus ordinary future, not conversion into expendable resource.
+
+9. **REJECT — AFO is not affectless.** Yoichi's loss drains color from his world. The stronger model is intense attachment translated through possession rather than absence of attachment.
+
+10. **REJECT — `弱き強さ` does not make weakness/injury intrinsically virtuous.** In the immediate context of Sero's anti-tragedy argument, the phrase is better read as relational strength produced by visible incompleteness/need that creates room for other agents.
+
+11. **STRENGTHEN / COMPLETE — `無個性` is no longer a static identity category.** V41 shows that a power can be lost while training, judgment, social recognition, relationship and embodied history remain. Midoriya cannot be reset to the V01 boy merely by subtracting a Quirk factor.
+
+12. **STRENGTHEN — AFO's central failure is ownership, not ignorance.** He understands people, wounds and power mechanics with exceptional precision but treats causal knowledge as jurisdiction. Recognition without respect is a mature-series failure mode.

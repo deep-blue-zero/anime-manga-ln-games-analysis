@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: JAPANESE_VOCABULARY
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1587,3 +1587,39 @@ Register rule strengthened: Hawks's politeness cannot be treated as softness, an
 - **AFO:** `僕の物語` ownership language remains stable across strategy, childhood dream and final collapse; dysregulation changes repetition/intensity, not the central possessive grammar.
 - **Shigaraki:** `先生` can coexist with rejection; address term alone must not be read as obedience.
 - **Stain:** categorical imperative register persists, but content shifts to `生きて勝て`, demonstrating that stable voice does not imply frozen judgment.
+
+# Volume 41 Japanese vocabulary / voice additions
+
+| Term / phrase | V41 analytical function | Locator |
+|---|---|---|
+| `人だよ` | Midoriya refuses threat-status -> non-person collapse; moral classification, not rescue certainty | `V41:p019` |
+| `守るもんが多くて大変だなァ` | Shigaraki identifies protection/multiple goods as a hero-side constraint | `V41:p028` |
+| `キレイ事は嫌いじゃない` / `おまえに賭ける` | Kudo accepts Midoriya's ideal as a wager rather than established truth | `V41:p035` |
+| `OFAを手放す` | chosen relinquishment of inherited power | `V41:p035-036` |
+| `宝物` | OFA's emotional value; loss is meaningful rather than costless | `V41:p049` |
+| `拒絶` | active resistance to the vestige-transfer/rescue tactic | `V41:p069` onward |
+| `これは 私の弱さだ` | Nana names her family-separation decision as her weakness/accountability | `V41:p100` |
+| `僕が…選んだんだ` / `僕の意志で` | Shigaraki claims authorship of home/family destruction (p116); p121-123 separately give the League-centered obligation | `V41:p116-123` |
+| `敵の…ヒーロー` | Shigaraki defines selective relational responsibility toward villains/outcasts | `V41:p121-123` |
+| `そう思わせねば “意志力”は生じない` | AFO needs experienced choice to generate willpower; covert environmental shaping is specified on p133-135 | `V41:p132` |
+| `全部だ` | AFO's total-authorship claim; factual causal core plus possession-driven overreach | `V41:p135-136` |
+| `お歌したいの` | Eri's ordinary future desire after a bounded contribution | `V41:p158` |
+| `WE ARE HERE` | plural successor/reassurance grammar | `V41:p164-165` |
+| `悲劇こそが人を強くする` | AFO's compensatory-suffering thesis | `V41:p167` |
+| `悲しい事なんざ あるよりない方が良いだろ!` | Sero's explicit rejection of tragedy-as-necessary-strength (colloquial elongation normalized) | `V41:p168` |
+| `まだ残り火があります` | Midoriya's current post-transfer power boundary | `V41:p174` |
+| `僕らは君の力が必要だし 君も僕らの力が必要だ` | Aoyama returns the reciprocal-need appeal to Midoriya; the recalled offered hand links present help to prior reintegration | `V41:p175` |
+| `弱き強さ` | strength generated relationally through visible insufficiency, not celebration of suffering | `V41:p187-188` |
+| `頑張れ` | repeated social implication/encouragement motif in final path-making | `V41:p185-194` |
+
+**Transcription discipline:** quoted fragments are normalized for spacing; p132's wording is about redirecting free will, not the packet's unattested `自由意思を避けて導く`. The interpretation of subtle environmental guidance also relies on p133-135. The p116 choice claim concerns destruction of home/family, not a quoted declaration of having joined League hands.
+
+## Voice-model consequences
+
+- **Midoriya:** final-arc moral speech remains short and concrete under maximal stress; avoid grandiose eloquence in reconstruction.
+- **Shigaraki:** identity defense becomes unusually explicit around `選ぶ / 意志 / ヒーロー` while destructive intent remains present.
+- **AFO:** ownership grammar expands from bodies/powers to causal history itself; totalizing rhetoric is a stable character signal, not neutral narrator voice.
+- **Aizawa:** emotionally difficult identity problems are processed through clipped operational metaphor and present professional duty.
+- **Aoyama:** the p175 reciprocal appeal retains `僕` and theatrical `走ろう☆`; it is not evidence for an Aizawa `僕ら` register.
+- **Sero:** casual/ordinary register can carry a major ethical claim precisely because he rejects AFO's grand tragedy frame.
+- **Eri:** childlike future-oriented language expresses genuine desire/agency without mimicking adult hero rhetoric.

@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: RELATIONSHIPS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -9639,3 +9639,62 @@ Explicit friend-language and praise deepen the relationship beyond employer/tech
 ## Stain -> All Might — recognition culminates in `生きて勝て`
 
 - Stain's final direct contribution to All Might is survival-oriented. The true-hero ideal is therefore not reducible to glorious death.
+
+# Volume 41 relationship deltas
+
+## Midoriya -> Shigaraki — rescue without annexation
+
+**State:** `personhood recognition + rescue commitment under explicit refusal -> memory access -> recognition of adult chosen bonds -> OFA self-dispossession as intervention`.
+
+- `V41:p019`: Midoriya insists Shigaraki is a person without claiming he knows the outcome of rescue.
+- `V41:p028-035`: persists despite Shigaraki's destructive self-description; the route is explicitly a wager.
+- `V41:p069 onward`: Shigaraki's `拒絶` remains real; rescue is not retroactively converted into consent.
+- `V41:p109-110`, `p113-119`: Nana blocks Kotaro while Midoriya reaches Tenko; Midoriya then maintains dangerous hand contact. The two agents' contributions remain distinct.
+- `V41:p113-123`: adult Shigaraki's chosen League identity interrupts any simple “true child / false adult” model.
+
+**Current relationship rule:** Midoriya can intervene coercively to stop catastrophic harm while still being required to recognize that Shigaraki has an adult history he does not own.
+
+## Shigaraki -> Midoriya — refusal and involuntary intimacy without capitulation
+
+**State:** `destructive opponent -> active rejection of rescue framing -> shared-memory penetration -> explicit adult self-authorship claim`.
+
+Shigaraki does not become a grateful rescue recipient in V41. He uses the memory encounter to insist that his League bonds and villain role are his. Final state after AFO reemergence remains OPEN.
+
+## AFO -> Tenko/Shigaraki — manufactured autonomy in service of possession
+
+**State:** `mentor/possessor -> revealed developmental designer / Quirk engineer -> renewed total capture attempt`.
+
+- AFO deliberately wants Tenko to experience choice while guiding conditions around him (`V41:p132-135`).
+- His later `全部だ` claim is the relationship's maximal ownership formulation.
+- AFO's return after Tenko interior collapse (`V41:p131`) must not be read as proof of prior voluntary submission.
+
+## Shigaraki -> AFO — identity dispute sharpened
+
+V40's `先生…邪魔するなよ` autonomy evidence remains authoritative. V41 adds direct contradiction:
+
+`Shigaraki: 僕が…選んだんだ`
+
+`AFO: 君は何一つ選んでなどいない`.
+
+The relationship should be modeled as manipulated development plus later active resistance, not as a single stable obedience state.
+
+## Aizawa / Present Mic / Kurogiri-Shirakumo — relation after irreversible change
+
+- Mic's grief resists pretending the old school trio can simply be restored.
+- Aizawa seeks a usable relational origin inside a changed mixed identity.
+- Kurogiri responds enough for shared action without resolving who/what the final person is.
+
+**State:** `lost friend / constructed antagonist binary -> uncertain mixed continuity capable of relation`.
+
+## Eri -> Midoriya — rescue subject becomes bounded reciprocal helper
+
+- `V41:p157-159`: Eri gives the horn for Midoriya and imagines a future in which she sings for him/others.
+- Relation now contains reciprocal help without requiring Eri to become an adult frontline hero.
+
+## Class 1-A / coalition -> Midoriya — vulnerability becomes a mobilizing relation
+
+- `V41:p142-176`: others repeatedly rescue/re-enable Midoriya.
+- `V41:p175`: Aoyama makes two-way need explicit.
+- `V41:p179-195`: classmates/allies construct the physical path through which Midoriya acts.
+
+**Revision:** Midoriya's final relationship network is not audience/support around a solitary savior; it is part of the causal machinery of his agency.

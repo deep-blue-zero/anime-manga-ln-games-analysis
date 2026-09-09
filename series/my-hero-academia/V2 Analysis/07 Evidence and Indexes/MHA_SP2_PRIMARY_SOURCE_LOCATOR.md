@@ -1,10 +1,10 @@
 ---
 series: MHA
 artifact_type: locator_index
-scope: V01-V35
+scope: V01-V41
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon Volume 1 through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2101,3 +2101,58 @@ Anchor checks: raw `0004` right=`p006`, left=`p007`; raw `0012` left=`p023`; raw
 | Shigaraki adapts to Gearshift and closes distance | `V40:p197-198` |
 | `危機感知` cliffhanger | `V40:p199` |
 
+
+## Volume 41
+
+| Locator | Content |
+|---|---|
+| V41:p005 | Ch.411 start; Shigaraki has stolen Danger Sense |
+| V41:p008-010 | Fourth/Danger Sense separation and Shigaraki use |
+| V41:p019 | Midoriya `人だよ` personhood classification |
+| V41:p028 | Shigaraki `守るもんが多くて大変だなァ` |
+| V41:p033-035 | Kudo interprets Midoriya's human-heart belief, then accepts the wager |
+| V41:p035-036 | Kudo instructs OFA relinquishment |
+| V41:p037-048 | interior-wound / forced-transfer plan derived from Star-and-Stripe encounter |
+| V41:p049-051 | Midoriya calls OFA `宝物` and agrees to relinquish it |
+| V41:p053-058 | Blackwhip `オーバーレイ` bodily reinforcement |
+| V41:p059-068 | Nagant-style decoy/tactical deception; transfer opening |
+| V41:p069 onward | Ch.415 `拒絶`; active resistance to vestige transfer |
+| V41:p073-080 | memory crossover / vestige penetration |
+| V41:p081-084 | Eri Rewind stockpile currently insufficient for broad reset |
+| V41:p085-087 | Kota wants to contribute despite self-described weakness |
+| V41:p090-093 | wider shared-concern proposition; `勧善懲悪` route problem |
+| V41:p095 | Midoriya reaches Shimura-house memory |
+| V41:p097-101 | Nana exclusion; `これは 私の弱さだ` |
+| V41:p101-104 | memory-house threshold / Midoriya entry |
+| V41:p109-110 | Nana blocks Kotaro; Midoriya reaches toward child Tenko |
+| V41:p109-112 | Nana recognizes family wound and apologizes for not returning |
+| V41:p113-119 | Midoriya holds Tenko's hands despite Decay; Shigaraki claims choice of home/family destruction at p116 |
+| V41:p116-123 | p116 family-destruction agency claim; p121-123 League montage and villains' hero obligation |
+| V41:p124-125 | unknown AFO-linked memory around Shimura family appears |
+| V41:p127 | AFO reappears; claims Tenko chose nothing |
+| V41:p129 | Ch.419 `DESIGN` substantive title/start |
+| V41:p131 | AFO says Tenko interior collapse enabled renewed consciousness |
+| V41:p132-133 | hatred cultivation; manipulation around free will; OFA-theft will objective |
+| V41:p133-134 | subtle Shimura/Kotaro family manipulation |
+| V41:p134-135 | Tenko latent factor removed; engineered destruction-only copy supplied |
+| V41:p135-136 | AFO `全部だ` total-authorship claim |
+| V41:p136-140 | renewed body/identity capture; Midoriya loses both arms |
+| V41:p142-145 | Sero/Ojiro/Sato rescue reinforcement; Aizawa arrival |
+| V41:p147-151 | Aizawa/Mic/Kurogiri; mixed-identity black/white model; teacher-duty framing |
+| V41:p151-156 | Kurogiri Warp Gate / distributed reinforcement logistics; returning/unnamed heroes; Gashly front |
+| V41:p157 | Aizawa assesses AFO/Tenko internal state; Eri horn revealed |
+| V41:p158-159 | Eri deliberate bounded contribution; `私 お歌したいの`; short Rewind window |
+| V41:p160-163 | depleted friends/Mineta re-enter; cannot leave friend fighting alone |
+| V41:p164-165 | `WE ARE HERE` title spread / plural arrival grammar |
+| V41:p166 | AFO: Yoichi loss makes world lose color |
+| V41:p167-168 | AFO tragedy-strength thesis; Sero anti-tragedy reply |
+| V41:p169-173 | coordinated coalition attacks; AFO isolation/emptiness; Midoriya says OFA lost |
+| V41:p173-174 | inheritance soaked into `無個性`; `残り火` remain |
+| V41:p175 | Aoyama reciprocal-need formulation and recalled offered hand |
+| V41:p176 | `皆 一緒に戦ってくれてるよ` / shared participation |
+| V41:p179-184 | Ch.422 start; Aoyama/Hagakure/class path-making |
+| V41:p185 | distributed `頑張れ`; Midoriya answers |
+| V41:p186 | AFO cannot understand why damaged fighters keep standing |
+| V41:p187-188 | `弱き強さ`; Midoriya's need mobilizes repeated participation |
+| V41:p189-194 | global/civilian encouragement convergence |
+| V41:p195 | final V41 punch / frozen prospective endpoint; outcome remains V42 OPEN |

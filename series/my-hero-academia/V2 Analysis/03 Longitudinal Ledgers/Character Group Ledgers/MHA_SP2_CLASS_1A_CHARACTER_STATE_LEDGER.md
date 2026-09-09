@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: CLASS_1A
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13209,3 +13209,62 @@ V27 adds limited independent Jiro behavior but meaningful relationship evidence:
 - This is high-value evidence that mature Midoriya can recognize another person's necessary role without trying to perform every rescue personally.
 - `V40:p193-199`: current Shigaraki confrontation remains active; `危機感知` becomes the explicit endpoint uncertainty and must not be resolved from V41.
 - **Readiness:** remains `specialist_ready`.
+
+# Volume 41 cumulative updates
+
+## Midoriya Izuku — agency survives relinquishment and dependence
+
+**Revision:** `STRONGLY STRENGTHEN / REVISE` — the mature Midoriya model is not self-sufficient mastery. V41 shows stable agency under power relinquishment, explicit rescue refusal, catastrophic bodily need and distributed enablement.
+
+- `V41:p019`: `人だよ` refuses the move from catastrophic threat to non-personhood. Treat as Midoriya's moral classification, not proof that Shigaraki is secretly redeemable.
+- `V41:p028-035`: continues the rescue attempt despite Shigaraki's explicit destructive self-account and accepts that the route is a wager rather than a known solution.
+- `V41:p049-051`: calls OFA All Might's `宝物` and still agrees to relinquish it. Giving up the inheritance has weight because he values it.
+- `V41:p053-068`: uses Blackwhip overlay, prior Nagant decoy logic and inherited functions as flexible tools rather than sacred forms.
+- `V41:p109-110`, `p113-119`: Nana interrupts Kotaro's strike while Midoriya reaches Tenko; Midoriya subsequently holds the child's hands despite Decay. Protective intent is evident, but the block must not be assigned to Midoriya.
+- `V41:p113-123`: encounters adult Shigaraki's explicit `僕が…選んだんだ` / League-bond account; rescue can no longer be modeled as simply recovering the child while discarding the adult identity.
+- `V41:p140-159`: loses both arms and is materially re-enabled by classmates/Aizawa/Eri. He is a rescue subject, not only rescuer.
+- `V41:p173-175`: says OFA has been lost while `残り火` remain and receives Aoyama's reciprocal appeal: `僕らは君の力が必要だし 君も僕らの力が必要だ`.
+- `V41:p179-195`: reaches the final strike through a path other people physically construct. Assistance no longer threatens authorship of his own act.
+
+### Modeling consequence
+Midoriya's final-form decision policy should preserve **agency without self-sufficiency**. He remains strongly self-authored while allowing others to share causal ownership of rescue. Do not simulate him as someone whose ideal endpoint is independence from help.
+
+### Ethical friction preserved
+`拒絶` remains real. Midoriya will impose intervention on a person actively resisting him when catastrophic harm is ongoing. The model should preserve this as justified-force/rescue tension rather than retroactively redescribing refusal as consent.
+
+**Readiness:** remains `specialist_ready`.
+
+## Sero Hanta — ordinary motive and anti-tragedy value become explicit
+
+**Revision:** `STRENGTHEN / READINESS PROMOTION` — V41 finally adds value/motive evidence beyond sparse tactical participation.
+
+- `V41:p142-144`: arrives with Ojiro/Sato when Midoriya has lost both arms and explicitly says they came to help.
+- `V41:p167-168`: when AFO proposes `悲劇こそが人を強くする`, Sero rejects the compensatory-suffering thesis; his own motives are ordinary school/friendship pressures, and `悲しい事なんざ あるよりない方が良いだろ!`.
+- This establishes that Sero does not need catastrophic trauma to construct prosocial commitment and does not retrospectively justify suffering because growth followed it.
+
+### Modeling consequence
+Do not reconstruct Sero as empty “normal-classmate comic relief.” His ordinary scale is itself evidence: low-stakes belonging, not tragedy, can generate durable action under crisis.
+
+**Readiness:** `insufficient/emerging -> emerging (strongly grounded)`. Still below `moderate` because ordinary relationship breadth and repeated independent decision regimes remain narrow.
+
+## Ojiro Mashirao and Sato Rikido — direct rescue reinforcement
+
+- `V41:p142-145`: join Sero's reinforcement after Midoriya's catastrophic injury and convert their remaining capacity into a concrete opening/support action.
+- Ojiro's earlier principle-centered/self-authorship profile is strengthened by willingness to re-enter lethal danger for another person without a new status reward.
+- Sato receives a useful high-stakes prosocial atom but not enough breadth for standalone promotion.
+
+**Readiness:** no forced tier changes.
+
+## Mineta Minoru — prosocial action persists under depletion
+
+- `V41:p160-163`: returns despite severe depletion/injury and describes the impulse as his body moving anyway.
+- This strengthens the V38 separation between persistent sexual-boundary failures and genuine friendship/prosocial risk behavior. Complexity is not moral rehabilitation.
+
+**Readiness:** remains `emerging`, strengthened.
+
+## Aoyama Yuga and Hagakure Toru — paired support becomes final path-making
+
+- `V41:p179-184`: Aoyama urges Midoriya to run while Aoyama/Hagakure and the surrounding coalition help construct the route to the final strike.
+- The pair's earlier high-risk coordination now participates in a larger distributed architecture: support does not require replacing the protagonist's final act.
+
+**Readiness:** existing tiers preserved; V41 is a strengthening atom, not a breadth gate.

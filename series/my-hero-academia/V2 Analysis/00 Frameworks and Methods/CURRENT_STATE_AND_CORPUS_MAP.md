@@ -487,10 +487,13 @@ Completed canonical V2 deep readings:
 - `MHA_SP2_V38_DEEP_READING.md`
 - `MHA_SP2_V39_DEEP_READING.md`
 - `MHA_SP2_V40_DEEP_READING.md`
+- `MHA_SP2_V41_DEEP_READING.md`
 
 Next default sequential task:
 
-- Volume 41.
+- Volume 42.
+
+The volume-by-volume sections below preserve earlier prospective snapshots. Their historical next-task language is not a competing instruction; this top-level pointer is operative. The present authorization covers V42 and subsequent reconstruction/synthesis completion.
 
 ## Volume 1 major model change
 
@@ -2757,7 +2760,7 @@ Durable analytical continuity is carried by:
 
 
 
-The V2.0 cross-cutting ledgers are active and integrated through V10:
+The V2 cross-cutting ledgers are active and integrated through V41:
 
 
 
@@ -2936,7 +2939,7 @@ The strongest compact formulation is:
 > **Reliability requires integration: power becomes trustworthy when persons and institutions can integrate history, emotion, inheritance, communication and distributed responsibility well enough that none of them hijack judgment or force one body to carry the entire system alone.**
 
 
-## Next architecture actions
+## Historical architecture actions at the V13 boundary
 
 
 - continue sequential reread with Volume 14;
@@ -3703,3 +3706,23 @@ Frozen V40 boundary: **`V40:p199`**. External AFO/Rewind body is dead/disappeare
 
 **Current sequential state:** V01-V40 complete. **Next sequential operation:** `MHA_SP2_V41_DEEP_READING.md`, beginning from the unresolved `危機感知` contact state at `V40:p199`. Do not begin V41 without a new explicit `single_operation` authorization.
 
+
+## Volume 41 major model change
+
+Volume 41 shifts from **inheritance without possession** to **agency without self-sufficiency**.
+
+The volume repeatedly separates authorship from isolation. Midoriya agrees to relinquish OFA even though he calls it All Might's `宝物`; after the transferable factors are lost he says their inheritance has soaked into his `無個性` self and `残り火` remain. His agency therefore survives the loss of possession. The same logic is tested against Shigaraki: Chapter 419 reveals that AFO manipulated the Shimura family environment, removed Tenko's latent inherited factor, supplied an engineered destruction-only Quirk copy and cultivated hatred for OFA theft. This materially increases AFO's causal responsibility but does not make AFO's `全部だ` total-authorship claim sufficient to erase Shigaraki's later p116 choice claim, subsequent League bonds, V40 rejection of AFO or adult accountability.
+
+Kurogiri/Shirakumo receives a parallel identity correction. Aizawa explicitly rejects a pure-restoration model and treats the current person as mixed/altered while still capable of relational response. Eri supplies the positive autonomy control: she deliberately contributes a bounded horn/Rewind resource while preserving an ordinary future desire (`お歌したいの`).
+
+At society scale, `WE ARE HERE` pluralizes the old singular arrival/reassurance grammar. Aizawa preserves differentiated evacuation/frontline roles, civilians supply support, wounded students/pros re-enter within capacity, and the final path to Midoriya's punch is collectively constructed. Sero explicitly rejects AFO's proposition that tragedy is what makes people strong, preventing the finale from romanticizing suffering.
+
+The final formal proposition is `弱き強さ`: Midoriya's visible incompleteness/need creates room for other agents to stand and participate. This is not “weakness is intrinsically good.” It is a relational alternative to heroic self-sufficiency.
+
+**Current sequential state:** V01-V41 complete.
+
+**Frozen V41 boundary:** `V41:p195`.
+
+At that boundary Midoriya is shown throwing the final punch in the V41 endpoint image, but final AFO defeat, Shigaraki/Tenko survival/control, permanent Midoriya/OFA status, Kurogiri end state, postwar medical/legal outcomes and institutional reconstruction remain Volume 42 OPEN.
+
+**Next sequential operation:** `MHA_SP2_V42_DEEP_READING.md`, beginning from unresolved `V41:p195`. Do not adjudicate V42 from V41 end matter or prior publication knowledge.

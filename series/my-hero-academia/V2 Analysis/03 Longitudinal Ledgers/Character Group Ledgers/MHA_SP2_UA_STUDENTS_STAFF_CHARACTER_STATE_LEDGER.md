@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: UA_STUDENTS_STAFF
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 35
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -5082,3 +5082,28 @@ V27 strengthens his war-scale mentorship model. He transports/protects students,
 - Their self-critique is institutional: hero society allowed public responsibility to concentrate on visible individuals such as Endeavor while mediation failed to show process, dependency and distributed labor.
 - `撮って / 繋ぐ` therefore functions as infrastructure, not decorative fandom.
 - **Institutional consequence:** U.A.'s training ecology contributes hero labor beyond combat/rescue tracks; public legibility and social memory are part of system resilience.
+
+# Volume 41 cumulative updates
+
+## Aizawa Shota — mixed identity, distributed command and bodily care
+
+**Revision:** `STRONGLY STRENGTHEN`.
+
+- `V41:p147-151`: refuses both the pure-restoration fantasy and total-abandonment model for Kurogiri/Shirakumo. His black/white metaphor treats the current person as mixed/altered rather than as pristine Shirakumo hidden under removable contamination.
+- `V41:p149-151`: current identity/duty controls the use of old grief: he and Mic are Hero Course teachers whose job is to get their students through graduation.
+- `V41:p151-156`: uses Kurogiri's renewed Warp Gate as distributed logistics, seeks currently usable positions, and does not strip evacuation/other fronts of every necessary defender.
+- `V41:p157-159`: receives Eri's chosen horn contribution and operationalizes its two-to-three-minute window. At p158 he objects that breaking the horn risks injuring the Quirk itself; Ectoplasm apologizes for helping. Agency and adult disagreement coexist, so this is not evidence that the bodily risk was safely settled in advance.
+- `V41:p175`: supplies bandages and a donated shirt, protecting Midoriya's temperature and immediate physical condition. The reciprocal-need speech later on that page belongs to Aoyama, not Aizawa.
+
+### Modeling consequence
+Aizawa's rationalism is not purity-seeking. He can act under identity uncertainty, respect partial continuity, allocate differentiated roles and supply practical care. Old loss informs current duty without becoming a demand to recreate the past.
+
+**Readiness:** remains `specialist_ready`.
+
+## Present Mic / Yamada Hizashi — adult grief resists false restoration
+
+- `V41:p147-150`: explicitly rejects pretending that the old U.A. trio can simply be recovered unchanged; the dead friend/remains problem produces anger as well as longing.
+- Continues to test/respond to relational continuity once Kurogiri supplies enough evidence for action.
+- V41 therefore strengthens the existing model of Mic as capable of hard protective thresholds around grief rather than unlimited nostalgia.
+
+**Readiness:** no forced top-tier promotion. Relationship-specific evidence is strong; independent ordinary/private breadth remains limited.

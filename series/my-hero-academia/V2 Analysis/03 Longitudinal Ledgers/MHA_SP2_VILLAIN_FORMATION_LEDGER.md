@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: VILLAIN_FORMATION
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1892,3 +1892,51 @@ AFO's explicit friend-language toward Garaki demonstrates that malignant systems
 
 - `先生…邪魔するなよ` and the post-death `俺を強くしてくれた` establish differentiated causal inheritance.
 - AFO is simultaneously manipulator, trainer and failed owner. Shigaraki's `再興の芽も残さない` destruction aim remains his own current project at the V40 boundary.
+
+# Volume 41 villain-formation updates
+
+## AFO's direct engineering becomes foundational fact
+
+**Transition:** `MAJOR REVISION / STRONGLY STRENGTHEN DIRECT-MANIPULATION CAUSATION`.
+
+Chapter 419 establishes that AFO did much more than opportunistically adopt an already-formed damaged child:
+
+- `V41:p132-133`: OFA theft required a will/hatred capable of overwhelming the predecessors; hatred cultivation was a deliberate design objective.
+- `V41:p132`: Tenko needed to experience the path as chosen; AFO links the belief of having chosen to the production of willpower; the covert environmental method is specified on p133-135.
+- `V41:p133-134`: AFO subtly manipulates/exploits the existing Shimura family wound rather than needing to invent the wound from nothing.
+- `V41:p134-135`: removes Tenko's still-unmanifest inherited factor and gives an engineered destructive copy stripped of reversibility.
+
+## `全部だ` must not replace one monocausal model with another
+
+AFO's `全部だ!!!` is partly supported by specific revealed interventions and partly a totalizing interpretation. The ledger's longstanding anti-monocausal rule remains necessary.
+
+### Current segmented causal model for Shigaraki
+
+`Nana separation / inherited family wound`
+→ `Kotaro's own abusive conduct, amplified/exploited by AFO`
+→ `AFO removal/replacement of Tenko's Quirk inheritance`
+→ `engineered destructive catastrophe`
+→ `social/bystander failure around the abandoned child`
+→ `AFO grooming, naming and hatred cultivation`
+→ `later encounters/learning`
+→ `League reciprocal bonds and leadership`
+→ `adult chosen harms/destruction`.
+
+No single arrow erases the others.
+
+## Subjective choice can be manipulated without becoming meaningless
+
+V41 creates a harder agency rule:
+
+- subjective experience of “I chose” is not proof that developmental conditions were unmanipulated;
+- proof of manipulated developmental conditions is not proof that every later adult choice was remote-authored.
+
+Agency must be assigned at the act/state level.
+
+## Shigaraki's League identity remains counterevidence to total authorship
+
+- `V41:p116-123`: `僕が…選んだんだ`, `僕の意志で`, and the `敵の…ヒーロー` formulation show adult relation/value claims AFO's causal boast cannot simply delete from the record.
+
+## Current synthesis through V41
+
+> **Villain formation in MHA is now explicitly vulnerable to predatory design: AFO can exploit real wounds, alter biological affordances, engineer catastrophe and scaffold experienced choice. But this makes causal analysis more granular, not less. The same life can contain imposed conditions, manipulated interpretation, independent relationships and accountable adult choices.**

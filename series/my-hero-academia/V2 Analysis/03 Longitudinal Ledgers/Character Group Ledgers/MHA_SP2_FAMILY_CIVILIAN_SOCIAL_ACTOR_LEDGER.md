@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: FAMILY_CIVILIANS_SOCIAL_ACTORS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 39
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3129,3 +3129,44 @@ V16 materially advances the Hassaikai product/organizational context around Eri 
 
 - `V39:p007-010`: Geten's account links Himura blood purity/resistance to mixing with former landlord status, postwar material decline and attempts to preserve family position.
 - This extends family-system analysis from individual Quirk marriages to historically embedded status reproduction.
+
+# Volume 41 cumulative updates
+
+## Eri — bounded agency with an ordinary future
+
+**Revision:** `STRONGLY STRENGTHEN`.
+
+- `V41:p081-084`: current Rewind stockpile is insufficient for an unlimited reset, preserving the long-standing constraint that Eri is not a universal restoration resource.
+- `V41:p157-159`: Eri deliberately gives Aizawa her severed horn for Midoriya after learning enough about her Quirk to make a bounded contribution.
+- The available energy supports only a short rewind interval, which is why Midoriya's recent arm loss can be restored without erasing the whole battle.
+- `V41:p158-159`: Eri's future-facing desire is explicit: `私 お歌したいの`. She wants a postwar ordinary activity and to sing for people who made her happy.
+
+### Modeling consequence
+Eri moves further from protected rescue object toward reciprocal agent, but the ethical endpoint is **not child self-sacrifice**. Her contribution is mediated, capacity-bounded and attached to an ordinary future she expects to live. Aizawa's p158 warning about injury to the Quirk and Ectoplasm's apology remain a real adult-care conflict; willingness to help does not prove the cost safe or negligible.
+
+**Readiness:** remains `strong`, very strongly strengthened. V41 closes part of the later autonomous-control gap but not the longer ordinary/adolescent breadth gate for `specialist_ready`.
+
+## Kota Izumi — received rescue becomes reciprocal participation impulse
+
+- `V41:p085-087`: Kota calls himself a crybaby yet says watching the older person he admires fight makes him feel that he has to do something.
+- This is a major longitudinal return to V08-V09: heroic sacrifice once reached Kota primarily as parental loss/alienation; being personally rescued later supplies a different experiential inheritance.
+
+### Modeling consequence
+The developmental chain is now `received protection -> recognition of another's struggle -> desire to contribute within one's capacity`, not simple conversion into hero worship.
+
+**Readiness:** remains `emerging`, strengthened.
+
+## Shimura family — family wound is acknowledged without swallowing adult agency
+
+- `V41:p097-112`: Nana identifies her separation decision as `私の弱さ`, recognizes that the wound spread through the family line and apologizes for not coming back to take her child home.
+- Kotaro's accusation that heroes hurt family while saving strangers contains real inherited pain but does not legitimate his abuse of Tenko.
+- V41 therefore strengthens the family/system causal contribution to Tenko's formation while Chapter 418 separately preserves adult Shigaraki's chosen relationships.
+
+## Civilians / public — participation becomes more than spectatorship
+
+- `V41:p090`: the volume proposes wider low-level concern for other people rather than leaving all responsibility to singular heroes.
+- `V41:p153-176`: evacuees/civilians provide supplies, support and encouragement while specialist actors preserve differentiated roles.
+- `V41:p185-194`: repeated `頑張れ` turns the public gaze from pure consumption/judgment toward relational implication.
+
+### Social-model consequence
+Do not translate the finale into “everyone is literally a professional hero.” V41 supports **distributed civic participation around specialist hero labor**, not abolition of expertise.

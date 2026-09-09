@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: VILLAINS_ANTAGONISTS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 41
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3652,3 +3652,61 @@ Retrospective V27 evidence strengthens the relationship model with Garaki: expli
 - This strengthens the distinction between Stain's admiration target and his earlier purification jurisdiction: for the hero he recognizes as genuine, continued life and victory are positive goods rather than impurity.
 - AFO had prepared a Bloodcurdle counter after Tartarus, overwhelms Stain and takes `凝血`.
 - **Readiness:** remains `moderate (strongly strengthened)`; exact post-defeat terminal status is not overclaimed beyond V40.
+
+# Volume 41 cumulative updates
+
+## Shigaraki Tomura / Shimura Tenko — engineered origin and segmented agency
+
+**Revision:** `MAJOR CAUSAL REVISION / STRONGLY STRENGTHEN`.
+
+### Present agency before the origin reveal
+- `V41:p005-020`: steals/uses Danger Sense and continues his own destruction program.
+- `V41:p113-123`: rejects a child-only rescue narrative through his p116 choice claim about destroying his home/family. The subsequent League montage and p121-123 villain-hero obligation separately establish later relational identity.
+- `V41:p121-123`: says that even if hatred is removed/emptied he must be the `敵の…ヒーロー`, establishing selective relational responsibility to villains/outcasts without moral rehabilitation of mass destruction.
+
+### Origin causation revised by AFO
+- `V41:p129-136`: AFO reveals deliberate manipulation of the Shimura family environment, removal of Tenko's still-unmanifest inherited factor, and provision of an engineered destruction-only Quirk copy stripped of reversibility.
+- AFO cultivated hatred because OFA theft required overcoming the predecessors' collective will and deliberately wanted Tenko to experience the path as chosen.
+
+### Control-state constraint
+- `V41:p131`: AFO's internal return follows Tenko's inner state being overwhelmed by the vestige assault. This does not retroactively erase V40 Shigaraki's explicit rejection of AFO.
+
+### Modeling consequence
+Use **segmented agency**, not either extreme:
+1. foundational conditions and Quirk catastrophe were heavily engineered;
+2. family/social failures retained independent causal reality and were exploited rather than invented wholesale;
+3. later League relationships and adult learning produced genuinely Shigaraki-specific state;
+4. chosen killings/destruction remain attributable where the source does not show direct override;
+5. final AFO/Tenko/Shigaraki separability remains V42+ OPEN.
+
+**Readiness:** remains `specialist_ready`.
+
+## All For One — manipulation around free will and the limits of possession
+
+**Revision:** `VERY STRONGLY STRENGTHEN`.
+
+- `V41:p132-133`: explicitly states that Tenko needed to think he had chosen so sufficient hatred would arise; the covert environmental method is specified in the following p133-135 disclosure.
+- `V41:p132-135`: identifies OFA theft as the long-horizon design objective and hatred as instrumental anti-OFA force.
+- `V41:p133-135`: exploits Kotaro's existing family wound, removes Tenko's latent inherited factor and gives the destruction-only engineered copy.
+- `V41:p135-136`: escalates specific causal acts into `全部だ!!!` — a total-authorship claim that should be recorded as AFO's possession heuristic rather than automatically treated as neutral omniscient narration.
+- `V41:p136-140`: renews the objective of erasing Tomura/Tenko's remaining heart and taking the body/control state.
+- `V41:p166-171`: Yoichi's loss makes AFO's world lose color. AFO is therefore not affectless; he has singular attachment whose pathological form is possession rather than recognition of separateness.
+- As the coalition grows, differentiated other people collapse toward gray/low-salience bodies in his perception, producing a practical inability to understand why wounded people remain causally active.
+
+### Modeling consequence
+AFO's core error is not inability to form attachment or learn. He repeatedly turns causal influence and attachment into jurisdiction/ownership. His strongest grief evidence coexists with his strongest possession evidence.
+
+**Readiness:** remains `strong`, very strongly strengthened. Ordinary reciprocal/interpersonal breadth remains insufficient for `specialist_ready`.
+
+## Kurogiri / Shirakumo continuity — mixed identity becomes explicit
+
+**Revision:** `STRONGLY STRENGTHEN`.
+
+- `V41:p147-151`: Aizawa rejects a pure-restoration model; black plus white has become mixed/changed rather than simply reverting to Shirakumo.
+- `V41:p150-156`: Kurogiri responds enough to old relationships for Warp Gate to become an active reinforcement route.
+- The response proves meaningful continuity, not final metaphysical identity resolution.
+
+### Modeling consequence
+Do not simulate Kurogiri as either “only artificial servant” or “Shirakumo fully restored.” Current model is an altered mixed person with relational continuity and unresolved independent future.
+
+**Readiness:** remains `moderate`, very strongly strengthened.

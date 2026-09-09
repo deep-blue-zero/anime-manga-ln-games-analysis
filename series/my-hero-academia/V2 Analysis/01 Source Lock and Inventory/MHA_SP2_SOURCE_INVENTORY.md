@@ -372,8 +372,8 @@ This satisfies the complete main-source requirement for the planned sequential V
 
 
 
-- V01–V36 — analyzed canonically in V2
-- V37–V42 — source accessible; sequential reading pending
+- V01–V41 — analyzed canonically in V2
+- V42 — source accessible; sequential reading pending
 
 
 
@@ -778,7 +778,7 @@ For each volume:
 2. inspect original Japanese pages directly;
 3. extract/contact-sheet only as needed for the current analysis pass;
 4. preserve page/source locators in the canonical deep-reading artifact;
-5. persist analytical/ledger outputs to the V2 analytical Drive tree;
+5. persist analytical/ledger outputs to the canonical V2 Git tree under current repository governance;
 6. treat local CBZ/extracted images as disposable and refetch later when primary-source re-verification is required.
 
 
@@ -1077,7 +1077,7 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Topology **202 JPEG + ComicInfo.xml**; Japanese/right-to-left; Chapters No.329-339.
 - Canonical deep reading: `MHA_SP2_V34_DEEP_READING.md`, Drive `13_hEns9FZh0dLI3DwbXnsN0GVPDGdWe-`, 84,099 bytes, SHA-256 `a6a5381762f5c939318931de42dd6ee83b0e5174632ab5139f7d6ff8e70b0938`.
 - Narrative endpoint **`V34:p190`**; `p191-202` non-sequential material; `p175` publication paratext.
-- At the V34 closeout, the next source was Volume 35; Volume 35 is now verified below and Volume 36 is current next.
+- At the V34 closeout, the next source was Volume 35; Volume 35 was subsequently verified below and Volume 36 was then next; the operative boundary is the current analysis boundary above.
 
 # Volume 35 source verification
 
@@ -1094,7 +1094,7 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Prospective endpoint: the segmented second decisive battle has begun; Shoto/Dabi, Toga/Uraraka, Midoriya's return, floating-U.A./Shigaraki, AFO/Endeavor-Hawks, Spinner mobilization and all final-war outcomes remain V36+ OPEN.
 - Handling: fetched temporarily for source-grounded review; canonical raw source remains in Google Drive.
 
-**Current sequential source high-water mark:** V01-V37 complete. **Next sequential source:** Volume 38 (`My Hero Academia - Vol. 38 [Japanese].cbz`, Drive `16WiqmDzbtYeAqt7_7tHmbtFm3KhRApEa`).
+**Historical V37 source high-water mark:** V01-V37 complete. **Then-next sequential source:** Volume 38 (`My Hero Academia - Vol. 38 [Japanese].cbz`, Drive `16WiqmDzbtYeAqt7_7tHmbtFm3KhRApEa`).
 
 
 # Volume 36 source verification
@@ -1174,5 +1174,22 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Prospective endpoint: external AFO/Rewind body has died/disappeared before reaching Shigaraki; Bakugo is alive and has completed the AFO intervention but is exhausted; All Might has survived the predicted death point with longer medical outcome open; Shigaraki continues independently and has closed on Midoriya; `危機感知` is the explicit unresolved endpoint state. Exact Danger Sense consequence and all V41+ outcomes remain OPEN.
 - Handling: fetched temporarily for source-grounded review; canonical raw source remains in Google Drive.
 
-**Current sequential source high-water mark:** V01-V40 complete. **Next sequential source:** Volume 41 (`My Hero Academia - Vol. 41 [Japanese].cbz`, Drive `1q6pj0t6mP59pOsywt8p58H3VWz2l52X_`).
+**Historical V40 source high-water mark:** V01-V40 complete. **Then-next sequential source:** Volume 41 (`My Hero Academia - Vol. 41 [Japanese].cbz`, Drive `1q6pj0t6mP59pOsywt8p58H3VWz2l52X_`).
 
+
+## Volume 41 verified source state
+
+- Canonical source: `My Hero Academia - Vol. 41 [Japanese].cbz`
+- Drive ID: `1q6pj0t6mP59pOsywt8p58H3VWz2l52X_`
+- Size: **104,293,245 bytes**
+- SHA-256: `236c8ee8546dcc4c2007a9ffedced6e3489f1d0a2f721cea0d89b5dc75220700`
+- Archive topology: **209 JPEG logical pages + `ComicInfo.xml`**.
+- Sequential chapters: **No.411-No.422**.
+- Narrative start: **`V41:p005`**.
+- Narrative endpoint: **`V41:p195`**.
+- `V41:p196+` is publication/end/extra matter and does not extend sequential authority.
+- Chapter 419 substantive title/start is `V41:p129` (`DESIGN`); `p128` is chapter-adjacent illustration/lead matter.
+- Prospective endpoint: Midoriya has reached a final V41 strike through distributed support; AFO is under attack; final AFO/Shigaraki/Tenko state, permanent OFA status and postwar outcome remain V42+ OPEN.
+- Handling: fetched temporarily/read-only for source-grounded review; canonical raw source remains in Google Drive.
+
+**Current sequential source high-water mark:** V01-V41 complete. **Next sequential source:** Volume 42 (`My Hero Academia - Vol. 42 [Japanese].cbz`; Drive `1HiFWIMVIizGLbqlfVmK1xvTSwA3Rqi9O`, metadata verified during this reconciliation).
