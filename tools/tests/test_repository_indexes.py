@@ -13,7 +13,7 @@ ROOT = TOOLS.parent
 sys.path.insert(0, str(TOOLS))
 
 from character_index_core import GitSnapshot, SnapshotEntry  # noqa: E402
-from prepare_commit import active_rules  # noqa: E402
+from prepare_commit import active_rules, missing_required_output_paths  # noqa: E402
 from update_repository_indexes import _snapshot, expected_outputs  # noqa: E402
 from validate_repository import (  # noqa: E402
     validate_change_obligations,
@@ -87,6 +87,29 @@ class RepositoryIndexTests(unittest.TestCase):
         self.assertEqual(
             [rule["id"] for rule in active],
             ["series-root-topology", "series-registry-routing"],
+        )
+
+    def test_unchanged_required_outputs_can_satisfy_an_obligation(self) -> None:
+        rules = [
+            {
+                "id": "series-registry-routing",
+                "required_outputs": [
+                    "governance/MANGA_ANIME_CORPUS_INDEX.md",
+                    "series/README.md",
+                ],
+            }
+        ]
+        index_paths = {
+            "governance/MANGA_ANIME_CORPUS_INDEX.md",
+            "series/README.md",
+            "series/registry.json",
+        }
+        self.assertEqual(missing_required_output_paths(rules, index_paths), [])
+
+        index_paths.remove("series/README.md")
+        self.assertEqual(
+            missing_required_output_paths(rules, index_paths),
+            ["series/README.md"],
         )
 
 
