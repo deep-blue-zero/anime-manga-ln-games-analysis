@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 thematic evidence through EVENT_0077; TH-N25-034 added and first-person, creative-evidence, ordinary-life, wanting and technique/expression themes strengthened"
-analysis_cutoff: "Latest new-theme and documentary boundary EVENT_0077; no new recurring motif; other-unit foundations remain pending"
+source_boundary: "N25 thematic evidence through EVENT_0080; warmth/coldness, care without extraction, ordinary life and relational conditions strengthened; no new recurring motif ID"
+analysis_cutoff: "EVENT_0080 positive thematic boundary; newest theme ID remains TH-N25-034 from EVENT_0077; other-unit foundations pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0077**, adding `TH-N25-034` on the relational conditions of usable choice while strengthening existing themes. EVENT_0070 established `TH-N25-032`; EVENT_0072 established `TH-N25-033`. Hatching and the portrait remain event-local structures. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
+N25 thematic authority reaches **EVENT_0080**, extending warmth/coldness, support without complete disclosure, ordinary-life and relational-choice themes. No new recurring motif ID is added. `TH-N25-034` remains the newest theme from EVENT_0077; EVENT_0070 established `TH-N25-032` and EVENT_0072 `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -1201,3 +1201,15 @@ The gerberas remain a specific gift with the giver's stated rationale, not a new
 The shell, hatching, dawn and portrait are central event structures. They express a hoped-for future and a fallible present perception, **not completed liberation**; no new recurring motif ID is promoted. N25 Len's presence and peers' selective restraint strengthen the existing non-solving support line while preserving differences among N25 manifestations. No franchise-wide generalization substitutes for the unfounded units' pending interpretation.
 
 Latest theme/evidence authority EVENT_0077; next forward candidate EVENT_0078.
+
+## EVENT_0080 thematic integration — support remembered beyond its occasion
+
+- **`MO-N25-001` warmth/coldness: STRENGTHEN.** Warm tea at home does not relieve Mafuyu's coldness; threatened loss of the club precedes another cold feeling; recalling Shizuku's promise beside the rabbits precedes tentative less-cold appraisal (`PJSK:event:0080:05:001:0013–0017`; `PJSK:card:0557:01:004:0002–0029`). The motif tracks experienced relational conditions alongside physical temperature; it does not certify recovery. Shizuku's actual cold hands and pleased return remain a different person's experience.
+- **`TH-N25-029` care without extraction: STRENGTHEN.** Shizuku asks, encounters a closed explanation and nevertheless sustains practical support. She admits ignorance while returning a useful cue and offers nonexclusive availability (`PJSK:event:0080:06:001:0036–0062`; `PJSK:event:0080:07:001:0064–0079`; `PJSK:event:0080:08:001:0028–0032`). Her initially insistent practice invitation remains part of the record; this is not perfect restraint throughout or a guarantee that every encouragement helps.
+- **`TH-N25-014` ordinary-life expansion without cure: STRENGTHEN.** Archery competition, snow craft, laughter, an umbrella errand and agreed lunch carry reciprocal life alongside unresolved home constraints (`PJSK:event:0080:08:001`; `PJSK:card:0557:02`; `PJSK:area:areatalk_ev_shuffle_26_001:01`). Public enjoyment language is assessed separately from first-person affective evidence.
+- **`TH-N25-024`, §12.5 ordinary activity as mutual revelation: STRENGTHEN.** Practising together makes altered tension observable and gives the old lesson a reciprocal use; the correct qualifier distinguishes this from the imported future-attachment meaning of the same ID (`PJSK:event:0080:07:001:0044–0079`).
+- **`TH-N25-034` relational conditions of usable choice: STRENGTHEN.** Worry about weather and study narrows space for archery, whereas another person's available companionship permits a short interval of shared activity. The mother's ordinary wording, Mafuyu's experience and Shizuku's partial perception remain different evidentiary levels (`PJSK:event:0080:05:001:0006–0012`; `PJSK:event:0080:05:003:0008–0033`).
+
+**Event-local structures:** archery's one-shot focus is both a working practice and visibly limited refuge; snow shifts from a wish to suspend return into a shared material carrying memory; the umbrella moves from actual shelter to an explicit future offer. The rabbits grow 1 → 5 → 8 through makers who initially do not know one another's contributions or Mafuyu's private response. These structures strengthen established support/memory/warmth lines; they do not require duplicate recurring motif IDs, prove a literal character-per-rabbit mapping, or establish permanence beyond melting.
+
+Shizuku's perfection/effort history, Airi's tea interests, Hinomori childhood consolation and Stage KAITO's complementary craft abilities remain in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md) for founded MMJ/Leo/need interpretation. No franchise-wide theorem is certified. Next EVENT_0081.

@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationship evidence integrated through EVENT_0079; bounded Ena-Akito observation and care extension; REL-N25-EM-5 and all current relationship IDs preserved"
-analysis_cutoff: "N25 I1 family evidence EVENT_0079; latest relationship/epistemic I3 EVENT_0077; human tuple unchanged; documentary screening EVENT_0079"
+source_boundary: "N25 relationship evidence through EVENT_0080; REL-CROSS-MAFUYU-SHIZUKU-E0080 succeeds the E0033 bounded peer state; other current relationships retained"
+analysis_cutoff: "EVENT_0080 I3 reciprocal cross-unit support under nondisclosure; latest human-state transition EVENT_0072; REL-N25-EM-5 remains current"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-Relationship evidence reaches **EVENT_0079**, adding bounded Ena–Akito observation/care at I1. The latest relationship/epistemic transition remains EVENT_0077, which advanced Ena–Mafuyu to **`REL-N25-EM-5`**. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku's `REL-N25-GM-E0054` and N25 Len's `REL-N25-VS-LEN-GROUP-E0061` remain distinct; Len gains a bounded support-method refinement. Cross-unit entries do not establish complete other-unit systems.
+Relationship authority reaches **EVENT_0080**, advancing Mafuyu–Shizuku to **`REL-CROSS-MAFUYU-SHIZUKU-E0080`** through explicit, enacted and remembered support under preserved nondisclosure. EVENT_0079’s Ena–Akito increment remains valid; EVENT_0077’s **`REL-N25-EM-5`** remains current. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku's `REL-N25-GM-E0054` and N25 Len's `REL-N25-VS-LEN-GROUP-E0061` remain distinct; Len gains a bounded support-method refinement. Cross-unit entries do not establish complete other-unit systems.
 
-Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. The next forward event is EVENT_0080. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
+Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. `REL-CROSS-MAFUYU-SHIZUKU-E0033` remains the historical analytical default through EVENT_0079, with newly revealed first-year observations applied only to their depicted times. The next forward event is EVENT_0081. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
 
 ## 1. Purpose
 
@@ -1628,3 +1628,23 @@ Preserve the distinction between **recognizing distress**, **knowing its cause**
 Household meal conversation transmits sweets knowledge (`PJSK:area:areatalk_ev_street_11_003:01:001:0002–0006`), while his reported gift-request practice adds ordinary family context (`PJSK:card:0555:01:002:0035–0036`). His recalled Ena permission in the core preserves EVENT_0029's causal authority and adds no second origin claim. State statement remains adequate: `high verbal friction + reciprocal practical reliability + accurate vulnerability observation + bounded restraint + causal influence + sentiment commonly displaced into action/joking`. The added wording is an evidence increment, not a successor family state.
 
 No N25 dyad/group or manifestation transition follows. Preserve `REL-N25-EM-5`, `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061`, all other current IDs, and the human tuple. VBS's newly disclosed group history and mentor relationships are routed in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md) for later founded comparison. Next EVENT_0080.
+
+## EVENT_0080 relationship transition — reciprocal support without causal access
+
+### `REL-CROSS-MAFUYU-SHIZUKU-E0080`
+
+**Participants:** Asahina Mafuyu ↔ Hinomori Shizuku. **Previous:** `REL-CROSS-MAFUYU-SHIZUKU-E0033`. **Valid from:** EVENT_0080 present-day support sequence and associated aftermath. **Status:** current bounded cross-unit state; no certification of the wider MMJ system. **Impact:** I3, Tier B relationship with epistemic change; no successor human ID.
+
+The E0033 state and its E0035/0036/0045/0068/0072/0075 extensions covered comfortable public-school consultation, practical help and observations of strain. EVENT_0080 supplies a qualitatively different current commitment:
+
+- Shizuku describes the specific old lesson that helped her continue, while accepting Mafuyu's insistence that her own effort mattered (`PJSK:event:0080:06:001:0016–0035`).
+- She names concern about present and historical strain and explicitly offers help. Mafuyu hears this but maintains ordinary exam/fourth-place explanations; there is no full confession (`PJSK:event:0080:06:001:0036–0062`).
+- Shizuku remains ready despite uncertainty and returns the breathing/one-shot instruction when she sees immediate difficulty. Mafuyu hits and thanks her (`PJSK:event:0080:07:001:0064–0079`).
+- Shizuku asks to be remembered as one supporter among others, not an exclusive rescuer. Mafuyu later independently retrieves that promise and tentatively feels less cold (`PJSK:event:0080:08:001:0020–0032`; `PJSK:card:0557:01:004:0013–0029`).
+- Ordinary reciprocity continues: Mafuyu shares her umbrella, helps choose its replacement and hears Shizuku's future offer to shelter her too. A lunch invitation is accepted after checking existing commitments (`PJSK:event:0080:08:001:0036–0052`; `PJSK:card:0557:02:002:0037–0051`; `PJSK:area:areatalk_ev_shuffle_26_001:01`).
+
+**State statement:** `established school/archery trust + acknowledged historical help + explicit nonexclusive reciprocal availability + situational support received + retrievable support memory + serious causes still undisclosed`.
+
+**Asymmetry:** Shizuku remains uncertain whether she helped and ignorant of the mother's message, N25/SEKAI and the private memory-linked bodily response. Mafuyu now knows her concern is specific and that the support offer persists; this does not mean she will freely disclose. The returned instruction has local efficacy, not universal protective power. Earlier recruitment/training scenes add historical substrate without projecting this present promise backward. Shizuku's first-year glimpses also qualify any absolute claim that she had never seen beyond the polished mode.
+
+Preserve `REL-N25-EM-5`, `REL-N25-KM-7`, all other N25 dyad/group defaults, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061`, and the Ena–Akito I1 evidence from E0079. Stage KAITO/Miku advise Shizuku through their own relationship; they are not N25 manifestations. Hinomori sibling affection/restraint, Airi's peer teaching and Stage craft collaboration remain complete deferred routes in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md). Next EVENT_0081.

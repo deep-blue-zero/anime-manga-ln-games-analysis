@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic evidence through EVENT_0079; bounded Ena-Akito habit recognition and newly reported earlier observation; present emotional cause remains private"
-analysis_cutoff: "N25 I1 epistemic increment EVENT_0079; EVENT_0077 disclosure/claim refinements and all guarded-content, family and manifestation limits retained"
+source_boundary: "N25 epistemic authority through EVENT_0080; Mafuyu knows Shizuku observed strain and offers support; recipient memory/relief remains private; maternal and N25 causes undisclosed"
+analysis_cutoff: "EVENT_0080 I3 bounded cross-unit knowledge transition; EVENT_0077 desire/disclosure corrections and EVENT_0079 family increment retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic evidence boundary is **EVENT_0079**, a bounded I1 family increment after EVENT_0078’s I0 screen. The latest relationship/epistemic I3 remains EVENT_0077: Ena directly learns that Mafuyu had already voiced wanting music, revises the premise of her advice, and offers a fallible artistic reading that Mafuyu can question. This extends rather than erases the EVENT_0061 family/music disclosure and EVENT_0072 bounded-wanting states. Newly disclosed prior history is not retroactive participant knowledge. Earlier overview/pending statements remain historical handoffs.
+The latest integrated epistemic boundary is **EVENT_0080**. Mafuyu learns Shizuku’s specific concern, historical gratitude and persistent support offer; Shizuku witnesses strain and local recovery but does not learn its maternal cause or the later private memory response. EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or newly depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
 
-Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0080; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
+Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0081; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
 
 ## 1. Purpose
 
@@ -1376,3 +1376,22 @@ This I3 knowledge change informs reconstruction at EVENT_0077 only. The earlier 
 | Audience | Akito's recalled relief, surprise at the visible sign and embarrassment about Ena noticing (`PJSK:card:0551:01:002:0020–0048`). | Do not distribute private thought to Ena or his musical partners; the historical distressed return is not a direct Ena-side view of the venue. |
 
 The repeated EVENT_0029 origin suggestion remains established history rather than a new disclosure to N25. VBS's separate histories, contested benevolent-intent reading of Akito's old harshness, conditional venue/attendance plans and private adult codas remain in the [shared reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md) until foundation-aware integration. No N25 manifestation gains Street-SEKAI knowledge; Mizuki's guarded content remains undisclosed. Human/relationship IDs and EVENT_0077 knowledge/claim refinements stay current. Next EVENT_0080.
+
+## EVENT_0080 epistemic transition — an offer known, a cause still withheld
+
+### `EPI-CROSS-MAFUYU-SHIZUKU-E0080`
+
+**Boundary:** EVENT_0080 and its complete card/area aftermath. **Relationship:** `REL-CROSS-MAFUYU-SHIZUKU-E0080`. The transition is knowledge of observation, historical efficacy and present availability; it is not full distress disclosure.
+
+| Holder | Class and acquired information | Limit |
+|---|---|---|
+| Mafuyu | DIRECT_DISCLOSURE: Shizuku explains her old pressures and why the archery lesson helped; identifies her own observations of Mafuyu's strain; offers continuing help (`PJSK:event:0080:06:001:0016–0062`). DIRECT_WITNESS: returned cue, successful shot and stated nonexclusive support (`PJSK:event:0080:07:001:0064–0079`; `PJSK:event:0080:08:001:0028–0032`). | No evidence she knows all Shizuku's private interpretations or who made every rabbit. Acknowledgment does not establish disclosure readiness. |
+| Mafuyu alone / audience | FIRST-PERSON, TENTATIVE: after retirement thoughts and seeing the rabbits, remembers the offer and wonders if she feels less cold, then doubts it (`PJSK:card:0557:01:004:0002–0029`). | Do not give Shizuku this private confirmation or elevate it to confidently labeled emotion, complete causal self-knowledge or cure. |
+| Shizuku | DIRECT_WITNESS: old precarious practice, present altered expression, change after an unspecified message and successful shot after the cue. INFERENCE: something serious may be wrong. DIRECT_DISCLOSURE: Mafuyu supplies exam/fourth-place explanations (`PJSK:event:0080:04:005:0024–0082`; `PJSK:event:0080:06:001:0039–0062`; `PJSK:event:0080:07:001:0025–0079`). | Sender/content, maternal constraints, N25/Empty SEKAI and private bodily relief are not disclosed. She neither proves nor fully abandons her concern. The old muttering was not clearly audible. |
+| Stage Miku and KAITO | REPORT: Shizuku recounts concern and history; KAITO gives an explicitly partial-knowledge support analogy (`PJSK:event:0080:01:003:0067–0071`; `PJSK:event:0080:04:005:0077–0107`). | Not every flashback interior thought is necessarily spoken. No direct N25 access or automatic later outcome report; only Stage manifestations. |
+| Shiho, Airi and peers | Own contributions and ordinary reports. The sisters identify rabbit makers; Airi waits for Shizuku's conversation; Shiho hears she could return a little of what she received (`PJSK:card:0560:02:001:0023–0037`; `PJSK:card:0556:02:002:0004–0016`; `PJSK:event:0080:08:002:0007–0016`). | Kitchen continuation is not shown and cannot transmit the whole private story. Leo/need's rabbits were not knowingly intended for Mafuyu. |
+| Mother / classmates | Own messages and observations; Mafuyu's stated study explanation and ordinary public conduct (`PJSK:event:0080:05:003:0004–0017`). | No shown knowledge of her private wish to remain, the support encounter or N25 work. The reported medical-reference-book observation is not autonomous vocation evidence. |
+
+**Temporal correction:** the audience newly sees Shizuku's first-year glimpses of strain; current analytical knowledge of those scenes is not evidence that the present offer already existed then. Earlier “public-mode-only” shorthand is narrowed as an absolute observation claim while the specific N25/family knowledge exclusions remain valid. Public statements of enjoyment in recruitment, snowfall and shopping retain attribution; private evidence is assessed separately.
+
+Mizuki's guarded content remains undisclosed. No N25 manifestation obtains Stage memory. Preserve E0077 and E0079 corrections and the human tuple. The [shared reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md) owns complete knowledge routing, including design versus sewn-costume completion and the distributed rabbit sequence. Next EVENT_0081.

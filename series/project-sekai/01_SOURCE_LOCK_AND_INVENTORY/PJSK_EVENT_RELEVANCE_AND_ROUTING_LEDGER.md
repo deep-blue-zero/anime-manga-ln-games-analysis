@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0079; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0080; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1538,3 +1538,72 @@ next_event: EVENT_0080
 | Street manifestations / play, work and limits | `PJSK:card:0553:01:002`; `PJSK:card:0553:02:002`; `PJSK:card:0552:02:004`; `PJSK:area:areatalk_ev_street_11_004:01`; `PJSK:area:areatalk_ev_street_11_005:01` | Decoration/food work, reciprocal gifts, local-use restriction, actual illumination visit, proposed photo/prank and comparative CD help. No N25 identity collapse or universal ontology inferred. |
 
 The reading owns all 23 witness ranges/hashes and shared causal interpretation. N25 I1 updates CHARACTER_STATE, RELATIONSHIP_STATE, EPISTEMIC_STATE and RELEASE_IMPACT; CLAIM_REVISION and THEME_AND_MOTIF remain unchanged. Existing human and relationship IDs, including `REL-N25-EM-5`, are retained. Latest positive/documentary boundary EVENT_0079; latest human-state transition EVENT_0072 and relationship/epistemic I3 EVENT_0077. VBS and incidental unfounded routes remain deferred. Next EVENT_0080; earlier gaps and remaining completion obligations persist.
+
+## EVENT_0080 — 弓引け、白の世界で
+
+```yaml
+release_id: EVENT_0080
+release_bucket: RB_20221221T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0080:01, PJSK:event:0080:02, PJSK:event:0080:03, PJSK:event:0080:04, PJSK:event:0080:05, PJSK:event:0080:06, PJSK:event:0080:07, PJSK:event:0080:08]
+card_locators: [PJSK:card:0556:01, PJSK:card:0556:02, PJSK:card:0557:01, PJSK:card:0557:02, PJSK:card:0558:01, PJSK:card:0558:02, PJSK:card:0559:01, PJSK:card:0559:02, PJSK:card:0560:01, PJSK:card:0560:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_26_001:01, PJSK:area:areatalk_ev_shuffle_26_002:01, PJSK:area:areatalk_ev_shuffle_26_003:01, PJSK:area:areatalk_ev_shuffle_26_004:01, PJSK:area:areatalk_ev_shuffle_26_005:01]
+
+chronology_note: "Cards 0556-0558 initially available 03:00Z and 0559-0560 06:00Z; five areas archive-published 2022-12-21T06:00Z with separate condition 107908/episode 1000648. Pre-high-school, first-year, present winter and later ordinary aftermath remain distinct."
+unit_routes:
+  N25:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: I3
+    reconstruction_yield: R3
+    characters: [Mafuyu, Mafuyu_mother, school_peers]
+    domains: [archery_competence, regulation_and_limits, public_private_register, historical_knowledge, maternal_care_control, selective_disclosure, nonexclusive_support, reciprocal_instruction, memory_linked_affect, ordinary_care]
+    locators: [PJSK:event:0080:03:004, PJSK:event:0080:04:005, PJSK:event:0080:05:001, PJSK:event:0080:05:003, PJSK:event:0080:06:001, PJSK:event:0080:07:001, PJSK:event:0080:08:001, PJSK:card:0557:01:004, PJSK:card:0557:02:002]
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Shizuku, Airi, Minori, Haruka, Cheerful_Days_senior_member, manager, archery_captain_Hayashi, club_peers, Hinomori_mother]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [perfection_pressure, owned_effort, learning, work_school_balance, gratitude, support_without_full_knowledge, independent_hobbies, tea_and_ceramics, craft_teaching, reciprocal_competence, family_and_peer_life]
+    locators: [PJSK:event:0080:02, PJSK:event:0080:03, PJSK:event:0080:06:001, PJSK:event:0080:07:001, PJSK:event:0080:08, PJSK:card:0556, PJSK:card:0558, PJSK:card:0559]
+  LEO_NEED:
+    relevance: SECONDARY
+    future_review_priority: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Shiho, Saki, Ichika, Honami, Shizuku_bounded_family, Hinomori_mother_reported]
+    domains: [sibling_attention_and_restraint, childhood_consolation, snow_play, teaching, reported_animal_knowledge, texture_and_plush_preferences, group_belonging, distributed_craft]
+    locators: [PJSK:event:0080:01:003, PJSK:event:0080:05:002, PJSK:event:0080:08:002, PJSK:card:0560:01, PJSK:card:0560:02, PJSK:area:areatalk_ev_shuffle_26_003:01]
+  VBS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+  WXS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0081
+```
+
+| Reusable route | Exact evidence | Interpretation and limits |
+|---|---|---|
+| Shizuku–Mafuyu / origin and regulation | `PJSK:event:0080:02:008:0013–0103`; `PJSK:event:0080:03:004:0035–0088`; `PJSK:event:0080:04:005:0024–0082` | Skill, effort, helpful instruction and precarious inward condition coexist. Newly disclosed source history qualifies an absolute public-mode-only observation claim; original private motive remains unconfirmed. |
+| Mafuyu–mother / activity and return constraints | `PJSK:event:0080:05:001:0006–0017`; `PJSK:event:0080:05:003:0008–0017`; `PJSK:event:0080:07:001:0030–0045`; `PJSK:card:0557:02:002:0002–0005` | Care/study framing, selective delay, ordinary message with disturbing effect and N25-work constraint. No proven malicious intention, new self-harm plan or completed club withdrawal. |
+| Shizuku–Mafuyu / present reciprocal support | `PJSK:event:0080:06:001:0016–0062`; `PJSK:event:0080:07:001:0064–0079`; `PJSK:event:0080:08:001:0028–0052`; `PJSK:card:0557:01:004:0013–0029`; `PJSK:card:0557:02:002:0037–0051` | Explicit help, refusal to disclose, returned cue, remembered less-cold impression and ordinary future shelter. New bounded N25 relationship state; Shizuku remains ignorant of cause and uncertain of efficacy. |
+| Shizuku–Airi / school and work history | `PJSK:event:0080:02:004:0016–0033`; `PJSK:event:0080:02:006:0007–0033`; `PJSK:event:0080:03:003:0021–0046` | Own study/club interest, welcoming friend, Airi's considered agency departure and Shizuku's self-blame. Diverse former colleagues, not a uniformly hostile industry. No full dispute or later contract outcome imported. |
+| Airi–MMJ / tea as independent interest and teaching | `PJSK:card:0559:01:001:0011–0053`; `PJSK:card:0559:02:004:0002–0044` | Accepted club priority, formal/ceramic curiosity, actual home hospitality and beginner-sensitive instruction. Demonstrated competence with acknowledged limits, no reduction to sweets or idol usefulness. |
+| Hinomori sisters / care, boundaries and shared past | `PJSK:event:0080:01:003:0003–0018`; `PJSK:event:0080:08:002:0007–0016`; `PJSK:card:0560:01:002:0017–0020`; `PJSK:card:0560:02:001` | Thought-space allowed, noticed happiness, childhood consolation and current physical-space objections. Unshown kitchen continuation does not transmit full private causes. |
+| Leo/need–MMJ / distributed rabbits | `PJSK:card:0560:01:002:0021–0057`; `PJSK:card:0556:01:002:0007–0040`; `PJSK:card:0560:02:001:0023–0037` | One grows to five and then eight through initially unidentified contributors. Mafuyu's private significance is not their known intention; no one-to-one symbolic cast mapping. |
+| Stage singers–Shizuku / complementary craft and support | `PJSK:event:0080:01:003:0034–0071`; `PJSK:event:0080:04:005:0091–0107`; `PJSK:card:0558:01–02`; `PJSK:area:areatalk_ev_shuffle_26_004:01`; `PJSK:area:areatalk_ev_shuffle_26_005:01` | Help flows both ways. KAITO's balance/organization, Miku's lace and Len's colors differ; sewing is learned. Designs, implementation and unshown concert remain distinct. Stage report knowledge is not N25 access. |
+| Ordinary school / reading and lunch | `PJSK:area:areatalk_ev_shuffle_26_001:01`; `PJSK:area:areatalk_ev_shuffle_26_002:01`; `PJSK:area:areatalk_ev_shuffle_26_003:01` | Agreed lunch after checking commitments, different reading rationales, music purchase and cat-plush tactile pleasure. No depicted completed lunch or restored Mafuyu literary preference. |
+
+The shared reading owns all 23 witness ranges/hashes, causal interpretation and reconstruction delta. N25 I3 updates all six ledgers and advances `REL-CROSS-MAFUYU-SHIZUKU-E0033 -> REL-CROSS-MAFUYU-SHIZUKU-E0080`, without successor human state. MMJ and Leo/need remain deferred. Latest positive/documentary and relationship/epistemic boundary EVENT_0080; latest human-state transition EVENT_0072. Next EVENT_0081; earlier gaps and remaining completion obligations persist.

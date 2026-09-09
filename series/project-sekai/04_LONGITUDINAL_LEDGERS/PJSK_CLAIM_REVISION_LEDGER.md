@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claim authority through EVENT_0077; E-091, MF-092 and FAMILY-093 added, MF-088 chronological scope refined, existing artistic/reciprocal claims strengthened"
-analysis_cutoff: "Latest governing claim integration and documentary screening EVENT_0077; global human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained"
+source_boundary: "N25 claim authority through EVENT_0080; MF-094 and MF-095 added; public competence, bounded affect, maternal care/control and cross-unit knowledge formulations refined"
+analysis_cutoff: "EVENT_0080 claim integration and relationship/epistemic I3; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 claim authority reaches **EVENT_0077**, adding `CR-N25-E-091`, `CR-N25-MF-092` and `CR-N25-FAMILY-093`, refining `CR-N25-MF-088` against a first-ever-wanting inference and strengthening existing artistic/reciprocal claims. Earlier summaries and pending-domain statements are historical handoffs; claims must be read at the requested boundary with subsequent revisions applied only where included. EVENT_0077 produces an I3 relationship/epistemic transition without a successor global human ID. Source currency does not advance claim authority.
+N25 claim authority reaches **EVENT_0080**, adding `CR-N25-MF-094` and `CR-N25-MF-095` on bounded regulation and support received outside full disclosure. EVENT_0077’s `CR-N25-E-091`, `CR-N25-MF-092`, `CR-N25-FAMILY-093` and chronological correction to `CR-N25-MF-088` remain controlling; EVENT_0079 required no governing claim revision. Earlier summaries are historical handoffs; revisions apply only within the requested analytical boundary. EVENT_0080 produces a bounded cross-unit relationship/epistemic transition without a successor global human ID. Source currency does not advance claim authority.
 
 The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
 
@@ -1235,3 +1235,27 @@ The valid EVENT_0072 rule is that action-specific wanting and continuation prefe
 - **`CR-N25-K-071`:** reciprocal reception extends into self-initiated thanks for Honami's careful paid work and an invitation to share a known favourite (`PJSK:card:0541:02:003:0006–0017`). Self-neglect remains unresolved.
 
 EVENT_0077 is I3 through relationship/epistemic transition; no successor human ID. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0077_DEEP_READING.md) owns shared causal analysis and reconstruction delta. Next forward candidate EVENT_0078.
+
+## EVENT_0080 claim integration — competence does not certify inner ease
+
+### `CR-N25-MF-094` — NEW / CANONICAL, activity-bounded
+
+**Claim:** Mafuyu's practiced competence can support temporary regulation and help another person while coexisting with distress that the same activity cannot reliably settle. Successful performance is not an adequate proxy for emotional safety or privately owned enjoyment.
+
+**Evidence:** historical instruction about quieting the mind helps Shizuku hit; a later accurate snowy practice still appears precarious; present maternal-message disturbance alters Mafuyu's technique, and Shizuku's returned cue helps a subsequent shot (`PJSK:event:0080:03:004:0035–0088`; `PJSK:event:0080:04:005:0024–0061`; `PJSK:event:0080:07:001:0030–0079`). **Limit:** not a clinical efficacy claim, omniscient diagnosis, complete explanation of old muttering or proof of authentic private enjoyment from public recruitment speech. New history reveals an existing practice, not a present acquisition of all skills.
+
+### `CR-N25-MF-095` — NEW / CANONICAL, relationship-bounded
+
+**Claim:** support from a school peer who does not know the causes of Mafuyu's distress can become explicitly available, locally effective and later retrievable as tentative bodily relief. Receiving support does not require full confession or making that person an exclusive rescuer.
+
+**Evidence:** Shizuku's concern meets retained exam/fourth-place explanations; her cue works in the match; her nonexclusive promise returns to Mafuyu's memory when she sees the rabbits and tentatively feels less cold (`PJSK:event:0080:06:001:0036–0062`; `PJSK:event:0080:07:001:0064–0079`; `PJSK:event:0080:08:001:0028–0032`; `PJSK:card:0557:01:004:0013–0029`). **Limit:** Shizuku remains uncertain, knows neither the message nor N25/SEKAI history, and does not hear the later private response. Partial effect is not cure or assured future disclosure.
+
+### Established claims — strengthen and narrow overreads
+
+- **`CR-N25-MF-003` / `CR-N25-FAMILY-079` / `CR-N25-FAMILY-093`: STRENGTHEN.** Maternal warmth/care language can accompany pressure to relinquish archery for study; an ordinary return message can feel disturbing without being an overt threat (`PJSK:event:0080:05:001:0006–0017`; `PJSK:event:0080:07:001:0030–0045`). No omniscient motive or completed withdrawal follows.
+- **`CR-N25-MF-059` / `CR-N25-MF-061`: PRESERVE / STRENGTHEN.** Rapid learning, observation, teaching, navigation and practical care remain real capacities within polished public conduct. Neither all-fake interpretation nor privately felt pleasure inferred solely from public enthusiasm is warranted (`PJSK:event:0080:02:008:0072–0098`; `PJSK:event:0080:08:001:0036–0052`; `PJSK:card:0557:02:002:0017–0035`).
+- **`CR-N25-MF-063` / `CR-N25-MF-064` / `CR-N25-MF-069`: STRENGTHEN / broaden context.** External framing can change access conditions without supplying a final emotional label. The rabbit/remembrance sequence is recipient-side, tentative evidence outside the N25 disclosure circle, not a new global affect stage (`PJSK:card:0557:01:004:0013–0029`).
+- **`CR-N25-MF-078`: STRENGTHEN.** Delayed return and selective study explanations coexist with continued obligation language; the holiday shopping encounter occurs beside a private N25-work constraint (`PJSK:event:0080:05:003:0008–0017`; `PJSK:card:0557:02:002:0002–0035`). This is context-dependent divergence, not a declared independent life principle.
+- **Historical school-knowledge shorthand: REVISE scope.** Newly shown first-year observations prevent using “public-mode-only” to mean Shizuku never saw strain. They do not grant her its causes, make every earlier interaction intimate or backdate the present support promise (`PJSK:event:0080:04:005:0031–0082`). The former relationship state remains historically preserved with this source-time qualification.
+
+No revision erases EVENT_0077's correction to first-ever desire language, E0070's artistic judgments, or the E0079 family increment. New relationship default `REL-CROSS-MAFUYU-SHIZUKU-E0080`; human tuple unchanged. Other units require foundation-aware claim comparison. Next EVENT_0081 after closure of the [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md).

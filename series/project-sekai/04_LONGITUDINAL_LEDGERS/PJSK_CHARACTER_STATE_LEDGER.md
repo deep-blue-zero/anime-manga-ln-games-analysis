@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 character evidence integrated through EVENT_0079; bounded Ena sibling observation, practical care and household preferences; no successor global human state"
-analysis_cutoff: "N25 I1 evidence boundary EVENT_0079; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained; latest human-state transition EVENT_0072"
+source_boundary: "N25 character evidence through EVENT_0080; Mafuyu archery history, bounded regulation and remembered cross-unit support; no successor global human state"
+analysis_cutoff: "EVENT_0080 relationship/epistemic I3; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained; latest human-state transition EVENT_0072"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The verified forward analytical frontier is **EVENT_0079**. EVENT_0078 was I0; EVENT_0079 adds bounded I1 Ena sibling/ordinary-life evidence. EVENT_0077’s relationship/epistemic transition and Ena/Mafuyu refinements remain controlling, with current global human defaults: **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. EVENT_0072 remains the latest human-state transition. Historical entries remain true only at their own recorded cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact.
+The verified forward analytical frontier is **EVENT_0080**, an I3 cross-unit relationship/epistemic transition with material Mafuyu characterization refinement. EVENT_0079’s Ena sibling evidence and EVENT_0077’s Ena/Mafuyu refinements remain controlling, with current global human defaults: **Mafuyu `MF-E0072-01`; Kanade `K-E0063-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. EVENT_0072 remains the latest human-state transition. Historical entries remain true only at their own recorded cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact.
 
-Earlier summaries and pending queues are historical handoffs. The current model must also apply `REL-N25-EM-5` and EVENT_0077 epistemic/claim refinements, including the limit on EVENT_0072's “first explicit want” language. Other human-unit foundations and 21 earlier universal screens remain separate unfinished obligations. The frozen source boundary `PJSK_SOURCE_20260822T184634Z_EVENT_0213` confers no later analytical authority.
+Earlier summaries and pending queues are historical handoffs. The current model must also apply `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and the EVENT_0080/0077 epistemic/claim refinements, including the limit on EVENT_0072's “first explicit want” language. Other human-unit foundations and 21 earlier universal screens remain separate unfinished obligations. The frozen source boundary `PJSK_SOURCE_20260822T184634Z_EVENT_0213` confers no later analytical authority.
 
 ## 1. Purpose and authority
 
@@ -1266,3 +1266,17 @@ The inference concerns a sign, not its full cause. Ena receives no account of th
 Indirect ordinary evidence: Akito reports Ena talking about seasonal sweets promotions during meals (`PJSK:area:areatalk_ev_street_11_003:01:001:0002–0006`) and a household tradition of direct gift requests, adding that Ena would otherwise complain (`PJSK:card:0555:01:002:0023–0036`). Preserve attribution rather than inventing a depicted present demand. The core's remembered permission to try music before deciding on seriousness (`PJSK:event:0079:04:003:0032–0036`) reiterates EVENT_0029 and is not double-counted as a new causal discovery.
 
 Reconstruction uses the existing chain from person-specific observation through practical response to abrasive, sibling-conditioned speech. No successor human state, new claim or theme/motif ID is warranted. VBS's major Akito/Toya/An/Kohane material remains deferred for its missing foundation; it is not imported as mature N25 character authority. See the [shared EVENT_0079 reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md). Next forward event EVENT_0080.
+
+## EVENT_0080 characterization refinement — skill, regulation and received support
+
+**I3 through bounded relationship/epistemic change; preserve Mafuyu `MF-E0072-01`.** The new [mixed reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md) supplies pre-high-school/first-year history as newly revealed evidence, not a new current acquisition of all depicted traits. Historical public enjoyment statements must not become proof of original private motivation.
+
+Mafuyu learns archery rapidly but still uses a demonstrated correction after initial difficulty, explains the movement to peers and later practises privately. She tells Shizuku she comes because she is not consistently composed: concentrating on one shot lets her quiet other concerns. Her instruction helps Shizuku hit for the first time (`PJSK:event:0080:02:008:0072–0083`; `PJSK:event:0080:03:004:0035–0088`). A subsequent frighteningly intense but accurate snowy practice establishes the limit of reading internal condition from results. Her inaudible muttering remains incomplete; Shizuku's interpretation is not omniscient (`PJSK:event:0080:04:005:0024–0074`).
+
+Present maternal concern connects club participation to cold-weather/study risk; Mafuyu postpones immediate withdrawal by citing younger members but does not assert an independent long-term club choice. A study explanation helps delay going home. An ordinary maternal return message unsettles her enough to alter her technique; Shizuku's returned breathing cue helps the next shot (`PJSK:event:0080:05:001:0006–0017`; `PJSK:event:0080:05:003:0008–0017`; `PJSK:event:0080:07:001:0030–0079`). Skill, bodily strain, selective explanation and underarticulated avoidance coexist. Neither club resignation nor restored general pleasure/taste/vocational certainty occurs.
+
+After hearing that Shizuku wants to support her, Mafuyu initially retains exam/fourth-place explanations. Later, a reminder of retirement leaves her cold; seeing the snow rabbits retrieves the explicit support promise, and she tentatively notices feeling less cold before doubting it (`PJSK:card:0557:01:004:0002–0029`). This recipient-side sequence is real analytical evidence without a confident emotional label, complete causal appraisal or durable symptom cure. Preserve the distinction from Shizuku's uncertain assessment of whether she helped.
+
+Ordinary capacities include a tied match and rematch proposal; checking Shizuku after a fall, sharing an umbrella, laughing at snow on her face and wiping it away; identifying a wrong branch map; asking to accompany an actual umbrella purchase; accepting a lunch invitation after an existing commitment is checked; and explaining topical-fiction reading as study (`PJSK:event:0080:08:001:0002–0052`; `PJSK:card:0557:02:002:0017–0051`; `PJSK:area:areatalk_ev_shuffle_26_001:01`; `PJSK:area:areatalk_ev_shuffle_26_002:01`). These acts are not dismissed as fake, but public enjoyment wording alone does not establish affective fluency. In the holiday scene, private concern that maternal presence constrains N25 work accompanies the public spare-time explanation; no single motive exhausts the outing.
+
+Reconstruction must apply the new cross-unit relationship and knowledge state while retaining the human tuple and EVENT_0077's limit on first-ever desire language. Kanade, Ena and Mizuki receive no new global characterization from this envelope. Shizuku's perfection pressure, agency, hobbies and care, Airi's independent tea interests, and Shiho's family/play evidence remain routed for founded MMJ/Leo/need comparison. Next EVENT_0081 after transaction closure.
