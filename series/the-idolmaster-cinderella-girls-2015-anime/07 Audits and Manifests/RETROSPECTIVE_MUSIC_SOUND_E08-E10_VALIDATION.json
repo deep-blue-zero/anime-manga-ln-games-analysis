@@ -1,0 +1,257 @@
+{
+  "series": "THE IDOLM@STER CINDERELLA GIRLS",
+  "audit": "RETROSPECTIVE_MUSIC_SOUND_E08-E10",
+  "status": "PASS",
+  "contact_sheets_reviewed": "113/113",
+  "new_claims": [
+    "CG-PERF-0021",
+    "CG-PERF-0022",
+    "CG-REL-0029",
+    "CG-MEDIA-0009",
+    "CG-PERF-0023",
+    "CG-REL-0030"
+  ],
+  "claim_count_after": 209,
+  "distinct_claim_evidence_locators_after": 997,
+  "batch_distinct_audiovisual_locators_checked": 50,
+  "source_integrity": {
+    "E08": {
+      "sha256": "54c823f7be3c9e2e198798d39439e0c7051c6052c42ad86e6ed77c682231f6a8",
+      "zip_crc": "PASS",
+      "ass_cues": 468,
+      "physical_non_contact_jpgs": 709,
+      "contact_sheets": 36,
+      "audio_duration_seconds": 1442.016
+    },
+    "E09": {
+      "sha256": "5012570d82cb6dfe3c8cb2da2680320f084f4c4365972bbebf23769be8b702f5",
+      "zip_crc": "PASS",
+      "ass_cues": 546,
+      "physical_non_contact_jpgs": 729,
+      "contact_sheets": 37,
+      "audio_duration_seconds": 1442.064
+    },
+    "E10": {
+      "sha256": "d395e7a89f33b2f69c857fea4ec448195a1e108f90f7c1cf9dc791ec7903d5b3",
+      "zip_crc": "PASS",
+      "ass_cues": 557,
+      "physical_non_contact_jpgs": 789,
+      "contact_sheets": 40,
+      "audio_duration_seconds": 1442.064
+    }
+  },
+  "immutability_hashes": {
+    "E08": "c343c0ae4c6017d9ff02b0b2b03a9b6cd71127b5ff642372494562ca9101c531",
+    "E09": "2463e3ac1922ae1d262db029e25de07e388649bb6c8bd8453cd9dbd6a0623db3",
+    "E10": "047aa99406802cd128c97e6b891e17d280fb1579bfcfdebbeb425272dd83e21b",
+    "E13 frozen checkpoint": "028a07e16e51b4493dfe42671c356cfb0920a06222f339fde551afbefb0ebea3"
+  },
+  "checks": [
+    {
+      "check": "E08 source sha256",
+      "pass": true,
+      "detail": "54c823f7be3c9e2e198798d39439e0c7051c6052c42ad86e6ed77c682231f6a8"
+    },
+    {
+      "check": "E08 ZIP CRC",
+      "pass": true,
+      "detail": "None"
+    },
+    {
+      "check": "E08 ASS cue count",
+      "pass": true,
+      "detail": "468"
+    },
+    {
+      "check": "E08 contact sheet count",
+      "pass": true,
+      "detail": "36"
+    },
+    {
+      "check": "E08 retained frame count",
+      "pass": true,
+      "detail": "709"
+    },
+    {
+      "check": "E09 source sha256",
+      "pass": true,
+      "detail": "5012570d82cb6dfe3c8cb2da2680320f084f4c4365972bbebf23769be8b702f5"
+    },
+    {
+      "check": "E09 ZIP CRC",
+      "pass": true,
+      "detail": "None"
+    },
+    {
+      "check": "E09 ASS cue count",
+      "pass": true,
+      "detail": "546"
+    },
+    {
+      "check": "E09 contact sheet count",
+      "pass": true,
+      "detail": "37"
+    },
+    {
+      "check": "E09 retained frame count",
+      "pass": true,
+      "detail": "729"
+    },
+    {
+      "check": "E10 source sha256",
+      "pass": true,
+      "detail": "d395e7a89f33b2f69c857fea4ec448195a1e108f90f7c1cf9dc791ec7903d5b3"
+    },
+    {
+      "check": "E10 ZIP CRC",
+      "pass": true,
+      "detail": "None"
+    },
+    {
+      "check": "E10 ASS cue count",
+      "pass": true,
+      "detail": "557"
+    },
+    {
+      "check": "E10 contact sheet count",
+      "pass": true,
+      "detail": "40"
+    },
+    {
+      "check": "E10 retained frame count",
+      "pass": true,
+      "detail": "789"
+    },
+    {
+      "check": "All contact sheets reviewed",
+      "pass": true,
+      "detail": "113/113"
+    },
+    {
+      "check": "E08 addendum YAML/front matter",
+      "pass": true,
+      "detail": "parsed"
+    },
+    {
+      "check": "E08 no E09+ source locator leakage",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "E09 addendum YAML/front matter",
+      "pass": true,
+      "detail": "parsed"
+    },
+    {
+      "check": "E09 no E10+ source locator leakage",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "E10 addendum YAML/front matter",
+      "pass": true,
+      "detail": "parsed"
+    },
+    {
+      "check": "E10 no E11+ source locator leakage",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "E08 original deep reading unchanged",
+      "pass": true,
+      "detail": "c343c0ae4c6017d9ff02b0b2b03a9b6cd71127b5ff642372494562ca9101c531"
+    },
+    {
+      "check": "E09 original deep reading unchanged",
+      "pass": true,
+      "detail": "2463e3ac1922ae1d262db029e25de07e388649bb6c8bd8453cd9dbd6a0623db3"
+    },
+    {
+      "check": "E10 original deep reading unchanged",
+      "pass": true,
+      "detail": "047aa99406802cd128c97e6b891e17d280fb1579bfcfdebbeb425272dd83e21b"
+    },
+    {
+      "check": "E13 frozen checkpoint unchanged",
+      "pass": true,
+      "detail": "028a07e16e51b4493dfe42671c356cfb0920a06222f339fde551afbefb0ebea3"
+    },
+    {
+      "check": "All E08-E10 audiovisual locators resolve",
+      "pass": true,
+      "detail": "50 checked; errors=[]"
+    },
+    {
+      "check": "Claim index count 209",
+      "pass": true,
+      "detail": "209"
+    },
+    {
+      "check": "Document 14 count 209",
+      "pass": true,
+      "detail": "209"
+    },
+    {
+      "check": "Claim index IDs equal Document 14 IDs",
+      "pass": true,
+      "detail": "ordered parity"
+    },
+    {
+      "check": "Locator index count 997",
+      "pass": true,
+      "detail": "997"
+    },
+    {
+      "check": "Claim↔locator reverse refs consistent",
+      "pass": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Six E08-E10 retrospective claims indexed",
+      "pass": true,
+      "detail": "6"
+    },
+    {
+      "check": "All six new claims VERIFIED_STRENGTHENED",
+      "pass": true,
+      "detail": "['VERIFIED_STRENGTHENED', 'VERIFIED_STRENGTHENED', 'VERIFIED_STRENGTHENED', 'VERIFIED_STRENGTHENED', 'VERIFIED_STRENGTHENED', 'VERIFIED_STRENGTHENED']"
+    },
+    {
+      "check": "Retro audit list through E10",
+      "pass": true,
+      "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+    },
+    {
+      "check": "01_SERIES_ARCHITECTURE_AND_EPISODE_PROGRESSION.md has E08-E10 sound delta",
+      "pass": true,
+      "detail": "present"
+    },
+    {
+      "check": "04_CINDERELLA_PROJECT_CHARACTERS_UNITS_AND_UNIT_ECOLOGIES.md has E08-E10 sound delta",
+      "pass": true,
+      "detail": "present"
+    },
+    {
+      "check": "06_346_PRODUCTION_INSTITUTIONS_AND_PHILOSOPHIES_OF_PRODUCTION.md has E08-E10 sound delta",
+      "pass": true,
+      "detail": "present"
+    },
+    {
+      "check": "07_PERFORMANCE_SONGS_AUDIENCE_SUCCESS_AND_RECOGNITION.md has E08-E10 sound delta",
+      "pass": true,
+      "detail": "present"
+    },
+    {
+      "check": "08_PERSONA_IMAGE_MEDIA_AND_SELF_AUTHORSHIP.md has E08-E10 sound delta",
+      "pass": true,
+      "detail": "present"
+    },
+    {
+      "check": "No exact duplicate new-addendum prose blocks >=600 chars",
+      "pass": true,
+      "detail": "[]"
+    }
+  ],
+  "machine_index_repair_note": "CLAIM_INDEX.json and LOCATOR_INDEX.json were found regressed to old E03 snapshots at batch close; both were deterministically rebuilt from authoritative Document 14 before validation."
+}
