@@ -49,6 +49,21 @@ SUPERSEDED
 
 ## Initial coverage
 
+### Current coverage — updated through EVENT_0089 on 2026-09-09
+
+- Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
+- Latest closed forward transaction and positive N25 integration: `EVENT_0089`, I3 Kanade psychological plus relationship/epistemic transitions; next `EVENT_0090`. All six longitudinal ledgers reach EVENT_0089. `K-E0089-01`, `REL-N25-KM-8`, two bounded family/negotiation records and Empty KAITO’s group record apply with unequal-information limits. Preserve EVENT_0080’s Mafuyu–Shizuku state, `REL-N25-EM-5`, the E0077 desire/disclosure corrections and all unaffected earlier increments. No complete liberation, taste recovery or shared hotel knowledge is established.
+- Current N25 tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`.
+- Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
+- Franchise routing inventory reaches EVENT_0089, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0089 universal screens and earlier reusable complete readings retain their bounded authority.
+- Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
+- Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
+
+### Historical initial summary
+
+The following initialization-era summary is preserved as history. Use the recovered current coverage above and the explicitly bounded later transaction records for present routing.
+
 
 LEO_NEED main story — NOT_STARTED
 MMJ main story — NOT_STARTED
@@ -683,3 +698,295 @@ CURRENT AUTHORITY AFTER EVENT_0072
 - Current broad manifestation-group authority remains REL-N25-GM-E0054; REL-N25-VS-LEN-GROUP-E0061 remains preserved.
 - Next sequential operation: EVENT_0073.
 .
+
+EVENT_0073 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE
+
+Title: 拝啓、あの頃のわたしへ. Release bucket: `RB_20221012T060000Z`.
+Artifact: [MMJ/PJSK_EVENT_0073_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0073_DEEP_READING.md).
+Complete source boundary: core `0073:01–08`, cards `0517–0521` both halves, and five archive-publication areas `areatalk_ev_idol_10_001–005`; all 23 surfaces read from the pinned canonical witness.
+
+MMJ is PRIMARY/HIGH with R3 event-local reconstruction yield and `DEFERRED_PENDING_FOUNDATION`: Minori's uncertain-outcome commitment, reciprocal fan/peer hope, Haruka's private recognition, production learning and ordinary-life evidence are preserved for ordered backfill. Leo/need is INCIDENTAL/LOW through two indirect references. VBS and WxS have no evidence-bearing route. N25 is NONE/I0/R0; Shizuku's cards and all linked areas contain no Mafuyu/Mizuki/N25 bridge.
+
+The five substantive N25 ledgers remain unchanged. RELEASE_IMPACT, franchise routing, the event reading and coverage/current-state surfaces advance together. No MMJ state ID, baseline impact score or completed character-readiness certification is inferred from this extraction.
+
+CURRENT AUTHORITY AFTER EVENT_0073
+
+- Latest closed forward transaction and N25 documentary screening: EVENT_0073.
+- Latest substantive N25 integration: EVENT_0072 (I3/R3).
+- Current tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- Preserved manifestation-group authorities: `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061`.
+- Franchise inventory/frontier: EVENT_0073; 21 earlier universal screens still pending, four foundations and material deferred-route integrations still incomplete.
+- Next forward operation: EVENT_0074 — カーテンコールに惜別を, `RB_20221021T060000Z`.
+
+EVENT_0074 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE
+
+Title: カーテンコールに惜別を. Core release bucket: `RB_20221021T060000Z`.
+Artifact: [WXS/PJSK_EVENT_0074_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0074_DEEP_READING.md).
+All 26 manifest-resolved surfaces read: core `0074:01–08`, cards `0522–0526` both halves, five `areatalk_ev_wonder_10_001–005` and three `areatalk_monthly2211_002/004/005` areas. The monthly archive-publication date is 2022-11-30T06:00:00Z; this supplementary evidence is kept separate from the core ending. All eight area unlock relations target chapter 8.
+
+WxS is PRIMARY/VERY_HIGH with R3 event-local yield and `DEFERRED_PENDING_FOUNDATION`. Rui's credible professional opportunity and attachment conflict, the open-ended joint-path search, non-disclosure-respecting care, reciprocal acting/directing pedagogy and ordinary-life evidence are preserved. The other three unfounded units have no material route. N25 is NONE/I0/R0; all core, card and area surfaces were checked for cross-unit bridges.
+
+The five substantive N25 ledgers remain unchanged. RELEASE_IMPACT, routing, this full reading and current-state surfaces advance together. A targeted EVENT_0073 chronology sentence now records its independently established chapter-8 area unlock relation; its envelope and analytical conclusions are unchanged.
+
+CURRENT AUTHORITY AFTER EVENT_0074
+
+- Latest closed forward transaction and N25 documentary screening: EVENT_0074.
+- Latest substantive N25 integration: EVENT_0072 (I3/R3).
+- Current tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- Preserved manifestation-group authorities: `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061`.
+- Frontier is EVENT_0074; 21 earlier universal screens, four foundations and their material deferred integrations remain incomplete.
+- Next forward operation: EVENT_0075, subject to its complete manifest-resolved envelope.
+
+EVENT_0075 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / BOUNDED_N25_I1
+
+Title: 絶叫！？ オオカミの森へようこそ！. Core bucket `RB_20221031T060000Z`.
+Artifact: [MIXED/PJSK_EVENT_0075_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md).
+All 23 manifest-resolved surfaces read: core `0075:01–08`, cards `0528–0532` both halves, and five `areatalk_ev_shuffle_25_001–005` areas. Area timestamps represent archive publication; independent unlock relations target chapter 8.
+
+VBS and Leo/need are PRIMARY/HIGH/R3-yield, MMJ PRIMARY/HIGH/R2–R3-yield, WxS SECONDARY/MODERATE/R2-yield. Their material interpretation remains `DEFERRED_PENDING_FOUNDATION`. The shared reading preserves school participation, transferred musical/production skills, recipient-sensitive attraction design, distributed repair, ordinary friendship and mistaken public intention attribution.
+
+N25 is INCIDENTAL/LOW/I1/R1. Mafuyu's practical school coordination and public register add characterization and bounded `REL-CROSS-MAFUYU-SHIZUKU-E0033` evidence; `EPI-CROSS-MF-SCHOOL-E0075` records strictly local information. Public concert anticipation/clapping language does not establish private enjoyment. Ena's attendance is an indirect report with unidentified companions. No successor human or N25-group/manifestation relationship state is created. CLAIM_REVISION and THEME_AND_MOTIF formulations remain unchanged; screening notes are synchronized.
+
+CURRENT AUTHORITY AFTER EVENT_0075
+
+- Latest closed forward transaction, documentary screen and positive N25 integration: EVENT_0075 (bounded I1).
+- Latest human-state transition: EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- Preserved manifestation-group authorities: `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061`.
+- Character, relationship, epistemic, release impact, routing and coverage responsibilities are synchronized; no new claim or motif.
+- Twenty-one earlier universal screens, four foundations and material deferred interpretations remain incomplete, alongside reconstruction, syntheses and final audits/integration.
+- Next forward operation: EVENT_0076, subject to its own complete manifest envelope.
+
+EVENT_0076 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / BOUNDED_N25_I1
+
+Artifact: [LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md).
+All 25 manifest-resolved surfaces read: core 01–08, cards 0535–0539 both halves, five band areas and monthly2211_001/003. All seven areas independently unlock after chapter 8; archive publication is distinct from initial availability, with monthly publication dated 2022-11-30.
+
+Leo/need is PRIMARY/VERY_HIGH/R3-yield with baseline impact deferred. The full reading preserves recipient-led composition, choice under uncertainty, concrete production labor, medium-sensitive judgment, audience orientation, distinct Miku contexts, ordinary life and the unnamed observer's bounded interest. WxS has LOW cross-unit ordinary evidence; MMJ and VBS have LOW indirect references, with actual advice/filming competence not inferred.
+
+N25 is CROSS_UNIT/HIGH/I1/R2-yield: Kanade's mentoring, reciprocal inspiration, positive musical inheritance and receptive pleasure corroborate existing authority. Both Kanade cross-unit dyads are strengthened, bounded epistemic knowledge is recorded, and existing claims/themes are supported without new governing formulations. No successor human or N25 manifestation state. All six ledgers receive selective updates.
+
+CURRENT AUTHORITY AFTER EVENT_0076
+
+- Latest closed forward transaction, documentary screen and positive N25 integration: EVENT_0076 (I1).
+- Latest human-state transition: EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- N25 foundation complete; LEO_NEED/MMJ/VBS/WXS foundations and material deferred interpretation pending.
+- Twenty-one older universal-screen gaps remain; completed EVENT_0046–0076 and earlier reusable complete envelopes are preserved.
+- Character packages/readiness, synthesis, audits and final integration remain incomplete.
+- Next forward operation: EVENT_0077, subject to its own complete manifest envelope.
+
+EVENT_0077 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I3_RELATIONSHIP_EPISTEMIC
+
+Artifact: [N25/PJSK_EVENT_0077_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0077_DEEP_READING.md).
+All 23 surfaces read: core 01–08, cards 0540–0544 both halves, five night_11 areas; archive dates and independent chapter-8 unlock relation remain distinct. Canonical IDs, paths, commits and dates match the locked manifest; the reading retains every declared witness segment hash without asserting an independent raw-byte checksum certification.
+
+N25 PRIMARY/VERY_HIGH/I3/R3-yield: `REL-N25-EM-4 -> REL-N25-EM-5` records directly informed agency support and reciprocal expressive recognition. Ena/Mafuyu global human models receive material refinements but no successor IDs. All six ledgers include disclosure limits, imperfect intervention, contextual wanting, mixed artistic assessment, ordinary reciprocity, persistent strain and N25 manifestation distinctions. The absolute first-ever-wanting inference from EVENT_0072 is qualified. New claims E-091/MF-092/FAMILY-093 and theme TH-N25-034 are integrated; no new recurring motif.
+
+Leo/need CROSS_UNIT/HIGH (Honami receiving Kanade's reciprocal care), VBS CROSS_UNIT/MEDIUM (Akito family/public modes and practical Mizuki care), MMJ INCIDENTAL/LOW (reported Airi courtesy/visit) remain deferred for founded comparison. WxS NONE. All areas and card halves contribute to the closed envelope, not merely the core climax.
+
+CURRENT AUTHORITY AFTER EVENT_0077
+
+- Latest positive/documentary frontier: EVENT_0077, with I3 relationship/epistemic transition.
+- Latest global human-state transition: EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` plus EVENT_0077 refinements.
+- Current Ena–Mafuyu relationship: `REL-N25-EM-5`; other N25 dyad/group and manifestation IDs preserved with bounded extensions.
+- N25 foundation complete; other four foundations and material deferred integrations pending.
+- Twenty-one older universal-screen gaps remain; completed EVENT_0046–0077 and earlier reusable envelopes preserved.
+- Principal-human packages/readiness, syntheses, final audits and protected integration remain incomplete; event R3 yield is not package certification.
+- Next forward operation: EVENT_0078, subject to its own manifest-resolved envelope.
+
+EVENT_0078 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I0 / MMJ_LEO_NEED_DEFERRED
+
+Artifact: [MMJ/PJSK_EVENT_0078_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0078_DEEP_READING.md).
+All 23 surfaces read: core 01–08, cards 0545–0549 both halves, five idol_11 areas. Canonical IDs, types, episodes, paths, commits and dates match the locked manifest; declared segment hashes and inclusive upstream line ranges remain recoverable. Initial availability, area archive publication and separate chapter-8 unlock relation are distinguished from depicted chronology.
+
+MMJ PRIMARY/VERY_HIGH/R3-yield preserves Haruka's origin and independently reasoned publicity decision, shared larger ambition, Airi's nuanced production experience, Shizuku's authenticity and practical learning, Minori's fan competence and training limits, Stage manifestation distinctions and everyday behavior. Leo/need CROSS_UNIT/MEDIUM/R2-yield preserves Shiho's confidential sibling concern and boundaries. Both remain `DEFERRED_PENDING_FOUNDATION`; no I0–I3 or successor human state is manufactured for unfounded units. No later production outcome or confirmed radio recognition is imported; Minori's dream remains a dream.
+
+N25 NONE/I0/R0 after explicit Shizuku/all-area bridge checks; VBS and WxS NONE. RELEASE_IMPACT and current routing/coverage advance; the five substantive N25 ledgers remain at their EVENT_0077 positive boundary, including `REL-N25-EM-5` and the preserved tuple. All six responsibilities are therefore closed proportionately, without package-readiness certification.
+
+CURRENT AUTHORITY AFTER EVENT_0078
+
+- Latest closed forward/documentary frontier: EVENT_0078; next EVENT_0079.
+- Latest positive N25 integration: EVENT_0077, relationship/epistemic I3; latest global human-state transition EVENT_0072.
+- Human tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`, with EVENT_0077 refinements.
+- N25 foundation complete; other four foundations and material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; completed EVENT_0046–0078 and earlier reusable envelopes preserved.
+- Principal-human packages/readiness, all warranted syntheses, final audits and protected integration remain incomplete.
+
+EVENT_0079 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I1 / VBS_DEFERRED
+
+Artifact: [VBS/PJSK_EVENT_0079_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md).
+All 23 surfaces read and manifest-verified: eight core chapters, cards 0551–0555 both halves, five street_11 areas. Inclusive source ranges/declared hashes are retained; childhood, middle-school, present evening, Christmas Eve/Day and following-day chronology remain distinct from publication/unlock metadata.
+
+N25 CROSS_UNIT/MEDIUM/I1/R2-yield integrates Ena's person-specific crying-sign inference, bath priority, reported earlier restraint and indirect household preferences. She does not learn the cause of Akito's present tears or his VBS-private histories. The EVENT_0029 encouragement recap is not counted twice. CHARACTER_STATE, RELATIONSHIP_STATE, EPISTEMIC_STATE and RELEASE_IMPACT update; CLAIM_REVISION and THEME_AND_MOTIF remain unchanged. No successor human/family/dyad/manifestation state or package readiness is certified.
+
+VBS PRIMARY/VERY_HIGH/R3-yield remains deferred pending foundation and historical integration. The reading preserves distinct trial/commitment stages, hostile evaluation and genuine skill differences, socially enabled solo success, Ken/Taiga history, unresolved pacing/self-evaluation, qualified interpretation of old harm, family and ordinary-life evidence. Leo/need and WxS incidental reports are LOW/deferred; MMJ NONE. All six ledger responsibilities are dispositioned proportionately.
+
+CURRENT AUTHORITY AFTER EVENT_0079
+
+- Latest positive N25/documentary frontier: EVENT_0079, bounded I1; next EVENT_0080.
+- Latest global human-state transition: EVENT_0072; latest relationship/epistemic I3 EVENT_0077.
+- Human tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`; preserve `REL-N25-EM-5`, the sibling ID and all other current IDs with bounded refinements.
+- N25 foundation complete; four remaining foundations and material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; completed EVENT_0046–0079 and earlier reusable envelopes preserved.
+- Principal-human packages/readiness, warranted syntheses, final audits and protected integration remain incomplete.
+
+EVENT_0080 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I3 / MMJ_LEO_NEED_DEFERRED
+
+Artifact: [MIXED/PJSK_EVENT_0080_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md).
+All 23 surfaces read and manifest-matched: eight core chapters, cards 0556–0560 both halves, five shuffle_26 areas. Pinned source ranges and declared segment hashes retained; first-year flashbacks, present commitments, card aftermath and publication/unlock metadata remain distinct.
+
+N25 PRIMARY/HIGH/I3/R3-yield advances the bounded Mafuyu–Shizuku relationship to explicit reciprocal support under preserved nondisclosure, with recipient-side remembered tentative bodily relief. Human tuple unchanged; all six ledgers updated, claims MF-094/095 added, existing themes strengthened without a new motif ID. MMJ PRIMARY/VERY_HIGH/R3 and Leo/need SECONDARY/MEDIUM/R2 routes remain deferred; VBS/WxS NONE. Only Stage manifestations appear. No complete character package or unit synthesis is certified.
+
+CURRENT AUTHORITY AFTER EVENT_0080
+
+- Latest positive/documentary and relationship/epistemic frontier EVENT_0080; next EVENT_0081.
+- Latest global human-state transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- Current bounded cross-unit default `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve `REL-N25-EM-5`, other N25 relationships/manifestations and E0077/E0079 refinements.
+- N25 foundation complete; four other foundations and material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; completed EVENT_0046–0080 and earlier reusable envelopes preserved.
+- Principal-human packages/readiness, warranted syntheses, final audits and protected integration remain incomplete.
+
+EVENT_0081 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I1 / OTHER_UNITS_DEFERRED
+
+Artifact: [MIXED/PJSK_EVENT_0081_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0081_DEEP_READING.md).
+All 28 surfaces read and manifest-matched: eight core chapters, cards 0565–0569 both halves, five shuffle_27 and five monthly2212 areas. Area archive publication and independent chapter-8 unlock condition 108008 / episode 1000656 remain distinct from card/core initial availability. The play's internal chronology and later prospective actions are explicitly qualified.
+
+N25 SECONDARY/HIGH/I1/R2-yield strengthens situated public creative support, partial efficacy, received praise and ordinary/manifestation life. All six ledgers updated proportionately; K-027/042/071 strengthened without new IDs. WxS PRIMARY/VERY_HIGH/R3, VBS SECONDARY/HIGH/R3 and Leo/need/MMJ SECONDARY/MEDIUM/R2 retain detailed deferred routes. All five manifestation systems are separately evidenced; N25 KAITO does not appear. No unit or character package is certified by this event's yield.
+
+CURRENT AUTHORITY AFTER EVENT_0081
+
+- Latest positive/documentary frontier EVENT_0081; next EVENT_0082.
+- Latest relationship/epistemic I3 EVENT_0080, `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve `REL-N25-EM-5` and all other current relationship/manifestation states.
+- Latest global human-state transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+- N25 foundation complete; four other foundations and material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; completed EVENT_0046–0081 and earlier reusable envelopes preserved.
+- Principal-human packages/readiness, warranted syntheses, final audits and protected integration remain incomplete.
+
+EVENT_0082 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I0 / WXS_DEFERRED
+
+Artifact: [WXS/PJSK_EVENT_0082_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0082_DEEP_READING.md).
+All 23 canonical surfaces read and manifest-matched: core 01–08, cards 0571–0575 both halves, five wonder_11 areas. Archive publication and chapter-8 unlock condition 108108 / episode 1000664 remain separate from initial availability; card chronology and embedded performance remain explicit.
+
+WxS PRIMARY/VERY_HIGH/R3-yield preserves developmental/relationship, learning, practical institutional, ordinary-life and manifestation evidence for later founded interpretation. Leo/need INCIDENTAL/LOW/R1-yield is reported Honami/Saki food talk. N25 NONE/I0/R0; MMJ/VBS NONE. Only RELEASE_IMPACT changes among the six ledgers; no new human, relationship, claim or theme ID.
+
+CURRENT AUTHORITY AFTER EVENT_0082
+
+- Latest closed documentary frontier EVENT_0082; positive N25 evidence EVENT_0081; next EVENT_0083.
+- Latest relationship/epistemic I3 EVENT_0080; preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5` and all other current relationship/manifestation states.
+- Latest global human-state transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` unchanged.
+- N25 foundation complete; four other foundations and material deferred integration pending.
+- Twenty-one earlier universal-screen gaps remain; EVENT_0046–0082 and earlier reusable envelopes preserved.
+- Reconstruction/readiness, unit/specialist/full-series syntheses, final audits and protected integration remain incomplete.
+
+EVENT_0083 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I1 / OTHER_UNITS_DEFERRED
+
+Artifact: [LEO_NEED/PJSK_EVENT_0083_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0083_DEEP_READING.md).
+All 23 canonical surfaces read and manifest-matched: core 01–08, cards 0576–0580 both halves, five band_12 areas. Archive publication and chapter-8 unlock condition 108208 / episode 1000672 remain separate from initial availability; earlier history, preparatory strain and later successful practice retain their own chronology.
+
+N25 CROSS_UNIT/MEDIUM/I1/R2 yields bounded Kanade–Ichika musical feedback, accommodated messaging and qualified intended flower care. Four affected ledgers updated; CLAIM_REVISION/THEME_AND_MOTIF preserved because no governing revision is required. No new state, claim or theme ID. Leo/need PRIMARY/VERY_HIGH/R3, MMJ CROSS_UNIT/HIGH/R2 and WxS/VBS CROSS_UNIT/MEDIUM/R2 preserve material deferred responsibilities. All six SEKAI singers are Classroom-specific; software Miku remains distinct.
+
+CURRENT AUTHORITY AFTER EVENT_0083
+
+- Latest positive/documentary frontier EVENT_0083; next EVENT_0084.
+- Strengthen `REL-CROSS-KANADE-ICHIKA-E0042`; preserve `REL-CROSS-KANADE-HONAMI-E0002` with intended-care qualification. Other current dyad/group/manifestation IDs remain.
+- Latest relationship/epistemic I3 EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve `REL-N25-EM-5` and E0077 desire/disclosure corrections.
+- Latest global human-state transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` unchanged.
+- N25 foundation complete; four other foundations and subsequent material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; EVENT_0046–0083 and earlier reusable envelopes preserved.
+- Principal-human reconstruction/readiness, unit/specialist/full-series synthesis, final audits and protected integration remain incomplete.
+
+EVENT_0084 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I2 / OTHER_MATERIAL_UNITS_DEFERRED
+
+Artifact: [MIXED/PJSK_EVENT_0084_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0084_DEEP_READING.md).
+All 28 canonical surfaces read and manifest-matched: core 01–08, cards 0583–0587 both halves, five shuffle_28 and five monthly2301 areas. Monthly archive publication remains 2023-02-28T06:00Z, distinct from the January 31 core/shuffle publication; all areas have separate chapter-8 condition 108308 / episode 1000680 and no initial-availability bucket.
+
+N25 PRIMARY/HIGH/I2/R3-yield refines Kanade's supported nonmusical skill, participant-led care and reciprocal ordinary pleasure; all six ledgers updated. K-027 operationally revised; K-042/K-071/K-081 strengthened. No new state, claim or theme ID, and no completed reconstruction package inferred from event yield. Leo/need PRIMARY/VERY_HIGH/R3, WxS SECONDARY/HIGH/R3 and MMJ CROSS_UNIT/MEDIUM/R2 retain material deferred routes; VBS NONE. Classroom, Wonderland, Empty and Stage manifestations remain distinct.
+
+CURRENT AUTHORITY AFTER EVENT_0084
+
+- Latest positive/documentary frontier EVENT_0084; next EVENT_0085.
+- Existing Kanade–Honami/Ichika/Minori, Mizuki–Shizuku and N25 human/singer relationships strengthened; Kanade–Nene and Kanade–Len remain bounded event-qualified subentries without new mature IDs.
+- Latest relationship/epistemic I3 EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve `REL-N25-EM-5` and E0077 desire/disclosure corrections.
+- Latest global human-state transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` unchanged.
+- N25 foundation complete; four other foundations and subsequent material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; EVENT_0046–0084 and earlier reusable envelopes preserved.
+- Principal-human reconstruction/readiness, unit/specialist/full-series synthesis, final audits and protected integration remain incomplete.
+
+EVENT_0085 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I0 / MMJ_LEO_NEED_DEFERRED
+
+Artifact: [MMJ/PJSK_EVENT_0085_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0085_DEEP_READING.md).
+All 26 canonical stories read and manifest-matched: core 01–08, cards 0589–0593 both halves, five idol_12 areas and three monthly2303 areas. Preserve March 30 archive publication for the latter, February 10 for idol_12, no initial area release buckets and separate chapter-8 condition 108408 / episode 1000688. Earlier history, recording and broadcast weeks later remain distinct.
+
+MMJ PRIMARY/VERY_HIGH/R3-yield preserves Shizuku's self-authored speech and historical care, unequal opportunity/hidden labor, Arisa's mixed motives and incomplete reconciliation, reciprocal peer support, Minori's learning and Stage singers' experience limits. Leo/need CROSS_UNIT/MEDIUM/R2-yield preserves direct Shiho sibling support and ordinary reported preference. Both await founded interpretation. N25/WxS/VBS NONE; N25 I0 updates RELEASE_IMPACT and documentary state only. Five substantive N25 ledgers remain byte-preserved; all singers are Stage-specific.
+
+CURRENT AUTHORITY AFTER EVENT_0085
+
+- Documentary frontier EVENT_0085; positive N25 evidence EVENT_0084; next EVENT_0086.
+- Latest relationship/epistemic I3 EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve `REL-N25-EM-5` and E0077 desire/disclosure corrections.
+- Latest global human-state transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` unchanged.
+- N25 foundation complete; four other foundations and subsequent material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; EVENT_0046–0085 and earlier reusable envelopes preserved.
+- Principal-human reconstruction/readiness, unit/specialist/full-series synthesis, final audits and protected integration remain incomplete.
+
+EVENT_0086 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I0 / VBS_WXS_MATERIAL_AND_MMJ_INCIDENTAL_DEFERRED
+
+Artifact: [VBS/PJSK_EVENT_0086_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0086_DEEP_READING.md).
+All 26 canonical stories read and manifest-matched: core 01–08, cards 0595–0599 both halves, five street_12 areas and three monthly2304 areas. Preserve April 30 archive publication for the latter, February 19 for street_12, no initial area release buckets and separate chapter-8 condition 108508 / episode 1000696. Negotiation, following-week lesson, later outing/preparation, actual event and subsequent card outcomes remain distinct.
+
+VBS PRIMARY/VERY_HIGH/R3-yield retains Kohane's audience relationship and supported agency, An's unresolved comparative unease alongside care, Akito's qualified recognition, Toya's literary pleasure/commitment, collective musical work and Taiga's conflicting commitments. WxS CROSS_UNIT/MEDIUM/R2-yield retains Nene's ordinary initiative and bounded Akito contact; MMJ INCIDENTAL/LOW/R1-yield retains Minori's school help. Represented unfounded impacts remain deferred. N25/Leo/need NONE; N25 I0 updates RELEASE_IMPACT and documentary state only. All singers are Street-specific.
+
+CURRENT AUTHORITY AFTER EVENT_0086
+
+- Documentary frontier EVENT_0086; positive N25 evidence EVENT_0084; next EVENT_0087.
+- Five substantive N25 ledgers byte-preserved at EVENT_0084.
+- Latest relationship/epistemic I3 EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve `REL-N25-EM-5` and E0077 desire/disclosure corrections.
+- Latest global human-state transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` unchanged.
+- N25 foundation complete; four other foundations and subsequent material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; EVENT_0046–0086 and earlier reusable envelopes preserved.
+- Principal-human reconstruction/readiness, unit/specialist/full-series synthesis, final audits and final protected integration remain incomplete.
+
+EVENT_0087 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I1 / FOUR_OTHER_UNIT_ROUTES_DEFERRED
+
+Artifact: [MIXED/PJSK_EVENT_0087_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0087_DEEP_READING.md).
+All 29 canonical stories read and manifest/review matched: core 01–08, cards 0600–0604 both halves, five shuffle_29, five monthly2302 and one monthly2304 area. All eleven areas retain archive publication separately from chapter-8 condition 108608 / episode 1000704; monthly2304 publication is April 30, the other ten February 28. Five manifestation systems remain distinct.
+
+N25 CROSS_UNIT/LOW/R1 receives I1 for reported Ena lending/presentation and directly accepted Empty Len/Rin companionship. Character/relationship/epistemic evidence and RELEASE_IMPACT advance; no new IDs or governing claim/theme change. VBS PRIMARY/VERY_HIGH/R3, WxS SECONDARY/HIGH/R3, Leo/need SECONDARY/HIGH/R2 and MMJ CROSS_UNIT/MEDIUM/R2 routes remain deferred pending their foundations. The shared reading distinguishes received care, practical failure, inaccurate instruction, repair, actual reciprocal gifts and prospective outcomes.
+
+CURRENT AUTHORITY AFTER EVENT_0087
+
+- Documentary and positive N25 frontier EVENT_0087 I1; next EVENT_0088.
+- Latest I2 EVENT_0084; CLAIM_REVISION and THEME_AND_MOTIF byte-preserved at EVENT_0084.
+- Latest relationship/epistemic I3 EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve all current IDs and E0077 corrections.
+- Latest global human transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` unchanged.
+- N25 founded; four foundations/material deferred integrations, 21 older screens, all principal-human packages/readiness, syntheses, final audits and final protected integration remain incomplete.
+
+EVENT_0088 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I0 / THREE_MATERIAL_UNIT_ROUTES_DEFERRED
+
+Artifact: [WXS/PJSK_EVENT_0088_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0088_DEEP_READING.md).
+All 24 canonical stories read and manifest/review matched: core 01–08, cards 0606–0610 both halves, five wonder_12 areas and monthly2304_004. Six archive publications remain separate from chapter-8 condition 108708 / episode 1000712; monthly2304 publishes April 30, wonder_12 March 11. All singers are Wonderland manifestations.
+
+WxS PRIMARY/VERY_HIGH/R3-yield preserves the audition, role-specific learning, partner response, distinct Nene/Emu growth, supported agency and limits on bodily burden. Leo/need and VBS CROSS_UNIT/MEDIUM/R2-yield preserve Saki/Toya concern, trust and incomplete disclosure. These three material routes await foundation. N25/MMJ are NONE; five substantive N25 ledgers remain byte-preserved.
+
+CURRENT AUTHORITY AFTER EVENT_0088
+
+- Documentary frontier EVENT_0088 I0; next EVENT_0089. Positive N25 evidence EVENT_0087 I1, latest I2 EVENT_0084.
+- Character/relationship/epistemic authority remains EVENT_0087; claim/theme EVENT_0084.
+- Latest relationship/epistemic I3 EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`; preserve all current IDs and E0077 corrections.
+- Latest global human transition EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` unchanged.
+- Four foundations and material deferred integrations, 21 earlier screens, principal-human packages/readiness, syntheses, final audits and final protected integration remain incomplete.
+
+EVENT_0089 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I3_INTEGRATED / LEO_NEED_CROSS_UNIT_DEFERRED
+
+Artifact: [N25/PJSK_EVENT_0089_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0089_DEEP_READING.md).
+All 23 canonical stories fully read and manifest/review matched: core 01–08, cards 0612–0616 both halves, five night_12 areas. Areas retain separate archive publication and chapter-8 condition 108808 / episode 1000720; no initial-availability bucket is invented. All singers are Empty manifestations.
+
+N25 PRIMARY/VERY_HIGH/R3-yield I3 integrates Kanade’s revised parental-trust premise/protective commitment, exposed family collaboration, direct negotiation, unequal knowledge and contested Empty KAITO intervention. Mafuyu’s existing state continues with covert lyrics and attempted refusal; Ena/Mizuki states and guarded-content boundary persist. All six ledgers integrate EVENT_0089, three new claims are recorded and existing themes/motifs refined. No completed principal-human package is certified.
+
+Leo/need CROSS_UNIT/LOW/R1-yield preserves reported Honami tea provision and Kanade’s actual use/appreciation, deferred pending foundation. MMJ/VBS/WxS NONE; the unnamed shop-working classmate remains unidentified.
+
+CURRENT AUTHORITY AFTER EVENT_0089
+
+- Documentary/positive N25 boundary and latest psychological/relationship/epistemic I3: EVENT_0089; next EVENT_0090.
+- Tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; former K-E0063-01 and KM-7 remain historical defaults through E0088.
+- Current successors `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`; new direct-negotiation and Empty KAITO group records. Unaffected IDs/E0077 corrections remain intact.
+- Mother’s discovery is now shown; Mafuyu’s hotel knowledge and future arrangements remain unshown. No inference of inevitable maternal future, recovered taste or therapeutic success of confrontation.
+- Four foundations/material deferred integrations, 21 earlier screens, packages/readiness, syntheses, final audits and final protected integration remain incomplete.

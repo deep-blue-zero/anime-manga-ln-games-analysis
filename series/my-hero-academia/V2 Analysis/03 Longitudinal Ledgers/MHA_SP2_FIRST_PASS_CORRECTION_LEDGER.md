@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: FIRST_PASS_CORRECTION
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1986,3 +1986,56 @@ Historical source: `MHA_V26-V27_DEEP_READING.md` remains `historical_legacy`.
 | **REJECT** | AFO's death automatically returns all stolen Quirks to original owners. Hawks's vestige immediately rejects that imagined restitution. | `V40:p190-191` |
 | **REJECT** | Childhood adversity alone explains AFO's later moral identity; V40 adds early possessiveness and a consciously selected Demon King dream. | `V40:p137-150` |
 | **OPEN** | Exact consequence of Shigaraki's V40:p199 contact for Danger Sense, final AFO vestige state, and remaining final-war/postwar outcomes. | freeze `V40:p199` |
+
+# Volume 41 second-pass corrections
+
+1. **MAJOR REVISE — Shigaraki was not simply an already-formed damaged child whom AFO later groomed.** Chapter 419 establishes direct developmental engineering: manipulation of the Shimura environment, removal of Tenko's latent inherited factor, provision of an engineered destruction-only copy, and deliberate hatred cultivation for OFA theft.
+
+2. **REJECT — the Chapter 419 reveal does not justify “Shigaraki never had any agency.”** AFO's specific manipulations are facts; `全部だ` is also AFO's totalizing ownership claim. Adult League bonds, later learning, V40 rejection of AFO and V41 `僕が…選んだんだ` remain evidence that must be assigned at their own causal level.
+
+3. **REVISE — “saving Tenko” cannot mean treating Tomura as a fake shell to be discarded.** V41 explicitly makes Shigaraki defend chosen League relationships and his role as `敵の…ヒーロー`. Rescue must recognize origin victimization and adult authorship/accountability together.
+
+4. **REJECT — V41 does not endorse a universal “trauma makes heroes strong” thesis.** AFO voices `悲劇こそが人を強くする`; Sero immediately challenges it and says sad things are better absent. Growth after suffering does not retroactively justify suffering.
+
+5. **REJECT — Midoriya's final growth is not maximal self-sufficiency.** He loses OFA factors, loses both arms temporarily, is directly re-enabled by others and receives the explicit rule `君も僕らの力が必要だ`. His final attack is authored but not self-caused.
+
+6. **REVISE — `WE ARE HERE` does not mean professional expertise disappears or that everyone becomes occupationally identical “heroes.”** V41 preserves differentiated evacuation, transport, Quirk, medical, logistical and frontline roles while widening participation/responsibility.
+
+7. **REJECT — Kurogiri should not be modeled as “Shirakumo fully restored.”** Aizawa's V41 black/white metaphor explicitly treats current identity as mixed and changed. Relational continuity is real; pure restoration and final identity remain unsupported.
+
+8. **REVISE — Eri's horn contribution should not be celebrated simply as child heroic self-sacrifice.** Its ethical meaning depends on bounded power, adult mediation and her preserved future desire to sing. The payoff of rescue is agency plus ordinary future, not conversion into expendable resource.
+
+9. **REJECT — AFO is not affectless.** Yoichi's loss drains color from his world. The stronger model is intense attachment translated through possession rather than absence of attachment.
+
+10. **REJECT — `弱き強さ` does not make weakness/injury intrinsically virtuous.** In the immediate context of Sero's anti-tragedy argument, the phrase is better read as relational strength produced by visible incompleteness/need that creates room for other agents.
+
+11. **STRENGTHEN / COMPLETE — `無個性` is no longer a static identity category.** V41 shows that a power can be lost while training, judgment, social recognition, relationship and embodied history remain. Midoriya cannot be reset to the V01 boy merely by subtracting a Quirk factor.
+
+12. **STRENGTHEN — AFO's central failure is ownership, not ignorance.** He understands people, wounds and power mechanics with exceptional precision but treats causal knowledge as jurisdiction. Recognition without respect is a mature-series failure mode.
+
+
+# Volume 42 cumulative closure
+
+## Direct V1 comparison, distinguished from review controls
+
+The maintained historical `V1 Analysis/02 Sequential Volume Readings/MHA_V42_DEEP_READING.md` was read in full for this comparison. It already recognizes OFA expenditure, rescue without sentimental absolution, earlier civilian intervention, teaching, collective armor support and ordinary interpersonal life. **Do not invent a V1 claim that Midoriya failed to save Tenko's heart**: that wording is absent from this V1 artifact.
+
+| V1 proposition / section | V2 adjudication | Japanese-primary anchor |
+|---|---|---|
+| OFA fulfills its purpose through expenditure | **STRENGTHEN / QUALIFY:** factor expenditure, temporary embers and later extinction are distinct chronological states. | `V42:p030-035,p129-141` |
+| Saving without sentimental absolution | **STRENGTHEN / SPECIFY:** Tomura retains chosen adult name; acts remain unforgiven; life loss and interpreted heart rescue must be separated. | `p019-031,p073-081` |
+| Ordinary intervention is the social answer | **STRENGTHEN / BROADEN:** civilian approach works alongside concrete counseling, regional reform and institutional resources. | `p119-123,p132-133,p149-153` |
+| Suit as distributed inheritance replacing sacred inheritance | **REVISE framing:** OFA was already a socially transmitted, costly relation; the armor changes material architecture, not from literal divinity. Neither giver owns the user. | `p140-141,p158-160`; V40-V41 power ledger |
+| Adult teacher / Bakugo's reparative support | **STRENGTHEN:** teaching is explicitly chosen even under an imagined retained OFA; Bakugo's care still includes rivalry and failed tact. | `p156-161` |
+| More offers a softer ordinary-life landing | **STRENGTHEN / EXTEND:** Shoto's self beyond ideal, trust-based counseling and particular romantic desire carry final normative argument, not mere decoration. | `p149-183` |
+| All Might's age taught people to wait | **QUALIFY causal compression:** concentrated dependence is real, but professional rescue, institutional constraints, family abuse and individual choices remain heterogeneous causes. | V2 Hero Society / Villain Formation ledgers; `p107-123` |
+
+## Additional rejection controls — not attributed to V1 without evidence
+
+- `命` at `V42:p030` means life; All Might's `心` interpretation at `p031` is separate. Reject any future substitution.
+- Reject pure-Tenko erasure of Tomura, affectless AFO, guaranteed rescue through empathy, universal Endeavor forgiveness, suit-as-restored-OFA and completed idle-hero utopia (`p014-035,p064-066,p140-141,p174`).
+- Spinner's hero declaration is relational testimony; his writing retains adversarial intent (`p076-081`). Chisaki's apology is to the boss, not yet Eri (`p082-083`).
+- Toga vestige mechanism is **OPEN**; mutual Midoriya/Ochako romantic movement is **strongly supported**, formal relationship label unstated (`p155,p177-183`).
+- Correct the **working V42 packet**, not a falsely alleged V1 error: Mirio owns negative-to-zero (`p042-043`); Toya says soba and Shoto says same (`p062-063`); Toya's local apology and Nagant/Chisaki endpoints must not be omitted.
+
+Earlier correction IDs and adjudications remain intact. Final specialist revision synthesis must distinguish surviving V1 insight, source-sharpened revisions and rejected working-packet formulations.

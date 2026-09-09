@@ -32,9 +32,9 @@ volume0_information_used: true
 volume0_usage_rule: "reader-level retrospective genealogy of preference engineering and developmental sovereignty only; Volume 0 does not retroactively grant earlier actors information, consent, or motive knowledge"
 second_list_information_used: true
 second_list_usage_rule: "boundary calibration after Y2V12.5 only; no retroactive mutation of source-local ethical judgments"
-point_snapshot_issue_state: "OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION"
+point_snapshot_issue_state: "RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION"
 created_at: "2026-08-26"
-updated_at: "2026-08-26"
+updated_at: "2026-09-09"
 ---
 
 # 『ようこそ実力至上主義の教室へ』

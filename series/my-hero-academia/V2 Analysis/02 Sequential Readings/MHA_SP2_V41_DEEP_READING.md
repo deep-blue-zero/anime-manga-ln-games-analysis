@@ -5,12 +5,11 @@ artifact_type: deep_reading
 scope: V41
 generation: V2
 method_generation: V2.1
-status: draft_noncurrent
-proposed_status_if_promoted: canonical
+status: canonical
 source_boundary: Japanese manga Volume 41, narrative V41:p005-p195
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 origin_working_packet: series/my-hero-academia/V2 Analysis/09 Working Branches/V41/
 ---
 
@@ -18,7 +17,7 @@ origin_working_packet: series/my-hero-academia/V2 Analysis/09 Working Branches/V
 
 ## 0. Status, method, and prospective lock
 
-This is the **single-file canonical-form draft** of the Volume 41 reading, materialized at the sequential-reading home under `MHA_SP2_ANALYTICAL_METHOD_V2_1.md`. It begins from the exact frozen Volume 40 endpoint and treats Volume 41 prospectively. It remains `draft_noncurrent` until the corresponding V41 cumulative ledgers, indexes, manifest, and current-state surfaces have been synchronized and a later promotion explicitly changes its authority state.
+This is the **canonical Volume 41 sequential reading** under `MHA_SP2_ANALYTICAL_METHOD_V2_1.md`, promoted together with the synchronized V41 cumulative surfaces. The original Git draft is retained in history and the working packet remains provenance. Direct Japanese-page re-verification corrected speaker attribution, quoted wording and memory-scene action before promotion; see `../08 Audits and Manifests/MHA_SP2_V41_RECONCILIATION_AUDIT.md`. The reading begins from the frozen V40 endpoint and remains prospective through V41.
 
 No Volume 42 material is admissible for resolving a Volume 41 uncertainty. In particular, the final punch at `V41:p195` is a prospective endpoint, not proof of the final AFO/Shigaraki outcome, permanent One For All status, survival/death, medical recovery, legal disposition, or postwar settlement.
 
@@ -152,7 +151,7 @@ Midoriya answers that this does not permit him to give up on the crying boy he p
 
 ## 3.3 Midoriya's anthropology is a value commitment
 
-The chapter connects Midoriya's position to a broad belief that beneath difference there is equally a human heart (`V41:p033`). Because the line is connected to his own Quirkless formation, it has autobiographical force: he learned early what it means for social capability classification to become a judgment about human possibility.
+Kudo interprets Midoriya as wanting to believe that beneath difference there is equally a human heart (`V41:p033`). This is Kudo's reading of Midoriya, not direct first-person testimony by Midoriya on that page. Because the line is connected to his own Quirkless formation, it has autobiographical force: he learned early what it means for social capability classification to become a judgment about human possibility.
 
 Methodological caution: this is **Midoriya's moral anthropology**. The source does not require us to treat it as a measurable empirical law that every person contains an accessible benign core. Muscular remains a control case; AFO will remain a control case. Midoriya's claim is that personhood should not be forfeited merely because moral rescue is uncertain.
 
@@ -308,15 +307,11 @@ Midoriya's approach to the house carries the etiquette of entering another perso
 
 This small phrase supports the rescue-without-annexation reading. He is not acting as though another person's interior is automatically his property because he wants to help.
 
-## 7.3 Midoriya protects Tenko before exploiting the memory
+## 7.3 Nana interrupts the strike; Midoriya reaches Tenko
 
-At the core abuse scene, Midoriya blocks Kotaro's strike (`V41:p104-108`). He had entered with a strategy designed to break through Shigaraki's interior. When confronted with the child being hit, his immediate rescue reflex overrides purely instrumental use of the memory.
+At the core abuse scene, Nana interrupts Kotaro's strike while Midoriya reaches toward Tenko (`V41:p109-110`). Midoriya subsequently holds Tenko's hands through the remembered Decay catastrophe (`V41:p113-119`). These are complementary actions by different people; assigning Nana's block to Midoriya would erase the grandmother's own intervention and create false behavioral evidence.
 
-This is a held-out validation of the V01 behavioral rule:
-
-`visible person in danger -> rescue action can precede complete strategic calculation`.
-
-The context has changed from a sludge villain to the interior of the series' central antagonist. The action policy remains recognizable.
+Midoriya's refusal to leave the child alone remains strongly consistent with his established rescue policy. This is retrospective consistency evidence, not a newly blind prediction. The prospective V41 snapshot preserves the cost and uncertainty of contact rather than claiming that the child is already safely rescued.
 
 ## 7.4 Kotaro's grievance is inherited and partially true without legitimizing abuse
 
@@ -340,20 +335,20 @@ Midoriya's decisive move is not a speech saying “you were innocent, therefore 
 
 That is a better rescue posture than simply telling another person what they “really are.”
 
-## 8.2 `僕が選んだ` is the chapter's agency claim
+## 8.2 `僕が…選んだんだ` is the chapter's agency claim
 
 Shigaraki answers the victim-only reading explicitly:
 
-- `僕は…僕が 選んだんだ`
-- `僕の意志で この手を繋いだんだ`
+- `僕は…僕が…選んだんだ`
+- `僕の意志で この家を…家族を 壊したんだ`
 
-The exact phrases matter because Chapter 419 will attack them directly. At this point, the adult Shigaraki is asserting that his League bonds and villain path are not merely things done to him.
+The exact phrases matter because Chapter 419 will attack them directly. At p116, Shigaraki specifically claims choice of destroying his home and family. The subsequent League montage and villains' hero obligation at p121-123 establish a second, related claim about later attachments. These must not be conflated into an invented quotation about choosing to join League hands.
 
 This does not make the claim metaphysically complete. V41 is about to reveal that AFO manipulated foundational conditions. But it does establish the object of the later dispute: whether manipulation of conditions nullifies all later authorship.
 
 ## 8.3 The hands are not only trauma props; they have become chosen relationship symbols
 
-Shigaraki asks, in effect, if his choices do not matter, then what are these hands (`V41:p118-121`). Earlier, the hands began as grotesque imposed family remains and control objects. Across the series, the League creates additional relational meaning around the identity built from that history.
+Shigaraki asks what these hands mean if he did not choose (`V41:p116`). That immediate exchange concerns family destruction. The subsequent p121-123 League montage gives the hand motif an additional relational horizon; this extension is a formal interpretation, not the literal object of the p116 choice sentence. Earlier, the hands began as grotesque imposed family remains and control objects. Across the series, the League creates additional relational meaning around the identity built from that history.
 
 The adult cannot be reduced to the child without losing what happened afterward.
 
@@ -406,9 +401,11 @@ That distinction preserves the V40 evidence that Shigaraki had independently rej
 
 The exchange at `V41:p132-133` is unusually explicit.
 
-Tenko insists this was his choice. AFO answers that Tenko needed to **believe** that in order to generate the hatred force required to overcome OFA's will, and that the key was to guide while avoiding overt free-will interference.
+Tenko insists this was his choice. AFO answers that Tenko needed to **believe** that in order to generate the hatred force required to overcome OFA's will, and describes redirecting free will. The following pages specify covert environmental prompts; the packet's wording must not substitute for that sequence.
 
-This adds a new manipulation model:
+The packet's purported quotation `自由意思を避けて導く` is not on p132. The source instead connects the belief in having chosen to the production of `意志力` and describes redirecting free will; p133-135 then specify covert prompts and biological intervention.
+
+This supports the following manipulation model:
 
 `coercion is not always direct command; a controller can design environments so the target experiences self-authorship while desired affect/behavior emerges.`
 
@@ -546,7 +543,7 @@ Aizawa reveals that Eri gave him her horn for Midoriya (`V41:p157-159`). The sce
 
 The power is limited. The stored Rewind only reaches back a short period. It can restore Midoriya's just-lost arms because the injury falls within that window; it cannot erase the entire accumulated war.
 
-This preserves both agency and constraint.
+This preserves both agency and constraint. Aizawa explicitly warns at p158 that breaking the horn may injure the Quirk itself, and Ectoplasm apologizes for helping Eri. The decision is therefore contested adult care under emergency conditions, not proof that a child's willingness makes the bodily cost safe.
 
 ## 11.2 Eri's future desire is part of the ethical meaning of the contribution
 
@@ -663,9 +660,9 @@ Even if the power can be lost, the person is not reset.
 
 This is **inheritance becoming irreversible biography without requiring permanent possession**.
 
-## 13.3 Aizawa states reciprocal dependence directly
+## 13.3 Aoyama returns the reciprocal-need appeal
 
-Aizawa tells Midoriya: `僕らは君の力が必要だし 君も僕らの力が必要だ` (`V41:p175`).
+Aoyama tells Midoriya: `僕らは君の力が必要だし 君も僕らの力が必要だ` (`V41:p175`).
 
 This may be the cleanest explicit formula for the volume's governing transition.
 
@@ -741,10 +738,10 @@ Do not read V42 backward into this page.
 - Continues rescue attempt despite Shigaraki's explicit destructive identity and refusal (`V41:p028-035`, p069 onward).
 - Agrees to relinquish a treasured inheritance when the rescue strategy requires it (`V41:p049-051`).
 - Uses tactical deception and inherited abilities as flexible tools rather than sacred forms (`V41:p053-068`).
-- When confronted with child Tenko being struck, rescue reflex overrides purely instrumental memory-combat logic (`V41:p104-108`).
+- Reaches child Tenko while Nana blocks Kotaro, then maintains hand contact through Decay (`V41:p109-110`, `p113-119`).
 - Does not erase adult Shigaraki's chosen relationships after encountering childhood trauma (`V41:p113-123`).
 - Suffers catastrophic loss of arms and is directly rescued/re-enabled by others (`V41:p140-159`).
-- Explicitly accepts reciprocal dependence under Aizawa's formulation (`V41:p175`).
+- Explicitly accepts reciprocal dependence under Aoyama's reciprocal appeal (`V41:p175`).
 - Reaches the final strike through a path built by others rather than treating assistance as authorship loss (`V41:p179-195`).
 
 ### Modeling consequence
@@ -763,7 +760,7 @@ He remains willing to impose intervention on a person actively refusing him when
 
 - Danger Sense theft and continued tactical agency (`V41:p005-020`).
 - Explicit rejection of Midoriya's reduction to the crying-child story.
-- `僕が選んだ` / chosen League connection and adult villain identity (`V41:p113-123`).
+- `僕が…選んだんだ` / chosen League connection and adult villain identity (`V41:p113-123`).
 - Identifies himself as a `ヒーロー` for villains/outcasts even if hatred is removed (`V41:p121-123`).
 - Origin is dramatically recontextualized by AFO's manipulation and engineered Decay (`V41:p129-136`).
 - AFO's return occurs after Tenko's inner state is overwhelmed, not as proof of prior voluntary obedience (`V41:p131`).
@@ -804,8 +801,8 @@ AFO is not well-modeled as affectless optimizer. He has attachment, grievance, a
 - Treats Kurogiri/Shirakumo continuity as mixed rather than pure-restoration binary.
 - Current teacher duty controls use of old friendship.
 - Builds a distributed reinforcement network without evacuating every specialist from necessary roles.
-- Accepts Eri's bounded self-authored contribution and turns it into safe operational support rather than unrestricted child deployment.
-- States reciprocal dependence to Midoriya explicitly.
+- Accepts Eri's bounded self-authored contribution and uses its bounded effect while explicitly objecting to the risk of Quirk injury; this is contested emergency care, not a settled guarantee of safety.
+- Supplies bandages and a civilian-donated shirt to Midoriya at p175. The reciprocal-need speech on that page belongs to Aoyama.
 
 **Readiness:** remains `specialist_ready`.
 
@@ -1040,16 +1037,16 @@ The following phrases carry analytical load and should be preserved in the cumul
 | `宝物` | OFA is emotionally valued, so relinquishment is real sacrifice | `V41:p049` |
 | `拒絶` | Shigaraki actively resists interior transfer/rescue tactic | `V41:p069` onward |
 | `これは 私の弱さだ` | Nana names her family decision as her weakness | `V41:p100` |
-| `僕が選んだ` / `僕の意志で` | Shigaraki asserts adult authorship | `V41:p117-121` |
+| `僕が…選んだんだ` / `僕の意志で` | Shigaraki claims authorship of home/family destruction; later League obligation is distinct | `V41:p116`, `p121-123` |
 | `敵の…ヒーロー` | Shigaraki defines selective relational responsibility to villains/outcasts | `V41:p121-123` |
-| `自由意思を避けて導く` | AFO's manipulation model: guide around overt free will | `V41:p132` |
+| `そう思わせねば “意志力”は生じない` | AFO links experienced choice to willpower; covert guidance is specified on p133-135 | `V41:p132` |
 | `全部だ` | AFO's total-authorship claim; factual core + overreach | `V41:p135-136` |
 | `お歌したいの` | Eri's future ordinary desire after bounded contribution | `V41:p158` |
 | `悲劇こそが人を強くする` | AFO's compensatory suffering thesis | `V41:p167` |
 | `悲しい事なんざ あるよりない方が良い` | Sero rejects tragedy-as-necessary-strength | `V41:p168` |
 | `WE ARE HERE` | plural successor grammar to singular Symbol reassurance | `V41:p164-165` |
 | `まだ残り火があります` | Midoriya's current post-transfer power boundary | `V41:p174` |
-| `僕らは君の力が必要だし 君も僕らの力が必要だ` | explicit reciprocal-dependence formula | `V41:p175` |
+| `僕らは君の力が必要だし 君も僕らの力が必要だ` | Aoyama's reciprocal appeal to Midoriya, linked to the earlier offered hand | `V41:p175` |
 | `弱き強さ` | relational strength generated through visible insufficiency | `V41:p187-188` |
 | `頑張れ` | distributed encouragement / social implication motif | `V41:p185-194` |
 
@@ -1111,10 +1108,10 @@ The final chapter repeatedly shows other bodies/Quirks constructing the corridor
 # 23. Callback and payoff map
 
 1. **V01 `無個性` as exclusion -> V41 inherited power “stained into” a Quirkless self.** Losing the factor does not reset the biography.
-2. **V01 sludge-crowd rescue reflex -> V41 Tenko memory intervention.** Midoriya still moves when a child is visibly being hit, even inside a strategic mental battlefield.
+2. **V01 sludge-crowd rescue reflex -> V41 Tenko memory intervention.** Nana blocks the blow while Midoriya reaches Tenko; Midoriya's subsequent dangerous hand contact preserves his rescue policy inside the mental battlefield.
 3. **V02-V05 `僕の力` / `君の力` -> V41 OFA relinquishment.** Power becomes sufficiently self-authored that possession can be surrendered without identity collapse.
 4. **V03 `私を継いで` / public successor -> V41 `WE ARE HERE`.** Succession becomes plural rather than a replacement singular Symbol.
-5. **V04 `誰かに救けられてここにいる` -> V41 explicit reciprocal dependence.** Earlier relational identity becomes battlefield architecture.
+5. **V04 `誰かに救けられてここにいる` -> V41 explicit reciprocal dependence.** Earlier relational identity becomes battlefield architecture, with Aoyama returning the help once offered to him.
 6. **V05 sustainability through loved ones' worry -> V41 classmates/Eri/Aizawa directly restore and carry Midoriya.** The body is never purely private heroic property.
 7. **V05/V06 `余計なお世話` -> V41 `拒絶`.** Unrequested rescue remains ethically frictional at the final antagonist rather than becoming magically consented.
 8. **V07 OFA/AFO opposite inheritances -> V41 self-dispossession versus total possession.** The moral opposition reaches its final causal form.
@@ -1124,8 +1121,8 @@ The final chapter repeatedly shows other bodies/Quirks constructing the corridor
 12. **V26-V37 Shirakumo/Kurogiri uncertainty -> V41 mixed-identity operational model.** Pure-restoration expectation is explicitly rejected.
 13. **V31 professional attrition/public collapse -> V41 return/volunteer/support network.** Social trust is not simply restored by proclamation; participation reappears through conduct.
 14. **V32 unilateral Midoriya burden -> V41 `君も僕らの力が必要だ`.** The missing capability identified in V32 is finally stated as legitimate reciprocal dependence.
-15. **V34 shelter/public argument -> V41 spectators become active contributors/supporters.** Public stake moves from permission to shared participation.
-16. **V37 Shigaraki resists AFO identity overwrite -> V41 AFO's return requires Tenko interior collapse.** Prior autonomy evidence is preserved rather than retconned into hidden obedience.
+15. **V33 shelter/public argument -> V41 spectators become active contributors/supporters.** Public stake moves from permission to shared participation.
+16. **V38 hidden-origin recovery / V40 Shigaraki rejects AFO summons -> V41 AFO's return requires Tenko interior collapse.** Prior autonomy evidence is preserved rather than retconned into hidden obedience.
 17. **V40 inheritance without possession -> V41 agency without self-sufficiency.** The volume explicitly demonstrates that letting go, needing help and remaining authored can coexist.
 18. **All Might's `私が来た` -> V41 `WE ARE HERE`.** Reassurance changes grammar from singular embodiment to network presence.
 
@@ -1218,7 +1215,7 @@ The following are predictions/questions only. They must not be entered into cano
 
 - Danger Sense was stolen by Shigaraki and operationally used.
 - Midoriya/vestiges deliberately chose to transfer/expend OFA factors against Shigaraki's interior wound.
-- Midoriya reached Shimura/Tenko memory and directly protected the child in the memory-space encounter.
+- Midoriya reached Shimura/Tenko memory and held the child's destructive hands; Nana supplied the block against Kotaro at p110.
 - Shigaraki explicitly claimed adult choices/League bonds and a “hero to villains” relational role.
 - AFO reemerged after Tenko's interior collapse.
 - AFO directly manipulated the Shimura family environment, removed Tenko's latent inherited Quirk factor, and supplied an engineered destructive Quirk copy stripped of reversibility.
@@ -1230,7 +1227,7 @@ The following are predictions/questions only. They must not be entered into cano
 - Sero explicitly rejected tragedy as a desirable/necessary route to strength.
 - AFO's attachment to Yoichi was shown as singular enough that Yoichi's loss drained color from his world.
 - Midoriya stated OFA had been lost while `残り火` remained at the current boundary.
-- Aizawa explicitly stated reciprocal need between Midoriya and the group.
+- Aoyama explicitly stated reciprocal need to Midoriya; Aizawa supplied immediate bodily care on the same page.
 - The final attack was constructed through collective path-making and encouragement.
 
 ## Revised / complicated
