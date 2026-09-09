@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.4
+generation: V0.5
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -14,33 +14,64 @@ do_not_use_as_current_authority: false
 
 This is the canonical first read for the Git-side Re:Zero analytical corpus.
 
+```yaml
+project_initialization:
+  status: canonical
+  architecture_lifecycle: EVOLVING
+  governing_method: 00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md
+  synthesis_architecture: 00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md
+  method_status: canonical
+  architecture_status: canonical
+  source_reconnaissance_complete: true
+  required_day_one_infrastructure_initialized: true
+  required_day_one_infrastructure:
+    - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
+  sequential_analysis_lock: OPEN
+```
+
+```yaml
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: main_light_novel_volume
+  authorized_start: V03
+  terminal_boundary: V43
+  committed_high_water_mark: V02
+  next_candidate_operation: V03
+  confirmation_between_units: false
+  run_state: active
+```
+
 ## Authority split
 
 - **GitHub is the analytical authority** for methods, source-routing decisions, sequential readings, longitudinal ledgers, character analysis, adaptation analysis, specialist synthesis, and analytical audits promoted under `series/re-zero/`.
 - **Primary-source media do not belong in this Git root.** Japanese light-novel files, audiovisual media, scans, extracted text, and other source-bearing objects remain in the governed evidence plane unless a policy explicitly admits a reference representation.
-- **The current source lock admits the acquired Japanese main-light-novel spine V01-V43.** Exact file identity, integrity, Drive provenance, alternate-edition handling, and known current acquisition gaps are recorded in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`. The lock does not claim complete-to-date possession: published Japanese V44 and V45 are not present in the audited Drive manifest.
+- **The current source lock admits the acquired Japanese main-light-novel spine V01-V43.** Exact file identity, integrity, Drive provenance, alternate-edition handling, the bounded post-manifest V41 hash override, and known current acquisition gaps are recorded in `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`. The lock does not claim complete-to-date possession: published Japanese V44 and V45 are not present in the live governed folder.
 - Local workspaces are working environments, not authority, until an artifact is promoted through the governed Git route.
 
 ## Current analytical state
 
 **The acquired Japanese main-LN range V01-V43 is source-locked, and the prospective Japanese-primary Volume 01 and Volume 02 deep readings are now frozen and canonical at `02 Sequential Readings/REZERO_LN_V01_DEEP_READING.md` and `02 Sequential Readings/REZERO_LN_V02_DEEP_READING.md`. Volume 03 has not been opened analytically. No character monograph, standalone specialist synthesis, PACTRIH placement, adaptation judgment, or full-series synthesis is canonical here yet.**
 
-The governed Drive audit admits one continuous Japanese main-volume sequence V01-V43. A 2026-09-04 official-publication freshness check establishes V44 and V45 as published but absent from that audited acquisition. This does not block prospective work at the beginning of the series; it means the repository must not describe the source corpus as complete-to-date, and V44-V45 must be acquired and audited before the sequential reading reaches them.
+The later project-initiation architecture gate is now satisfied prospectively. `REZERO_SYNTHESIS_ARCHITECTURE.md` is the canonical `EVOLVING` synthesis architecture, and `REZERO_MASTER_LONGITUDINAL_LEDGER.md` is the required cumulative home promoted and backfilled from the unmodified V01/V02 freezes. `SEQUENTIAL_ANALYSIS_LOCK = OPEN`. This opening authorizes the already bounded V03-V43 `continuous_sequential` run; it does not make any unread volume a source for an earlier freeze.
+
+The governed source audit admits one continuous Japanese main-volume sequence V01-V43. A live 2026-09-08 rescan found no V44/V45 or other new source, reproduced 44 of 45 manifest objects exactly, and re-audited the sole post-manifest replacement, Japanese V41, under its current exact hash. A 2026-09-04 official-publication freshness check establishes V44 and V45 as published but absent from that acquisition. This does not block the authorized V03-V43 run; it means the repository must not describe the source corpus as complete-to-date.
 
 The architecture remains intentionally conservative because Re:Zero has multiple source families that can contaminate one another if treated as a single undifferentiated canon pool. Main light novels, mainline supplemental stories, alternate-route/IF material, web-novel material, and anime adaptation evidence must remain separately labeled witnesses until a specific analytical operation compares them. The current audited source folder admits no supplemental, IF/alternate-route, web-novel, or audiovisual witness.
 
 The first two interpretive operations are complete. `REZERO_LN_V01_DEEP_READING.md` freezes four local event-states and 24 V01 claim IDs. `REZERO_LN_V02_DEEP_READING.md` carries those claims forward through explicit revision operations, freezes four mansion event-states (`V02-E1` through `V02-E4`), 30 stable V02 claim IDs (`RZ-V02-C001` through `RZ-V02-C030`), and the bounded V03 question set. V02 ends after Subaru's deliberate death and an unidentified liminal scene; no subsequent restoration is assumed. The next permitted numbered operation is to record the V03 pre-reading horizon from the V02 freeze and then open only admitted Japanese witness `RZ-MAIN-LN-JA-V03`.
 
-## Governing method
+## Governing method and retrieval route
 
 Read in this order for new Re:Zero analytical work:
 
 1. `CURRENT_STATE_AND_CORPUS_MAP.md`
 2. `00 Frameworks and Methods/REZERO_ANALYTICAL_METHOD.md`
-3. `00 Frameworks and Methods/REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`
-4. `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`
-5. the relevant frozen sequential reading(s), once they exist;
-6. only the longitudinal, character, supplemental, adaptation, or specialist artifact needed for the task.
+3. `00 Frameworks and Methods/REZERO_SYNTHESIS_ARCHITECTURE.md`
+4. `00 Frameworks and Methods/REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`
+5. `01 Source Lock and Inventory/REZERO_SOURCE_LOCK_AND_INVENTORY.md`
+6. `04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md`
+7. the immediately prior frozen sequential reading's claim ledger and outbound question set;
+8. only the additional character, supplemental, adaptation, promoted-ledger, or specialist artifact required for the task.
 
 The intended primary semantic anchor is the **Japanese light novel**, within the exact admitted source range. Translations may be convenience witnesses; wording-sensitive claims return to Japanese. Anime, web-novel material, IF/alternate routes, side stories, bonus stories, game material, guidebooks, interviews, and other supplements do not silently overwrite main-light-novel findings.
 
@@ -62,11 +93,11 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, focalization, Japanese-language, safe-horizon, and revision rules | populated; analytical method V0.1; witness protocol V0.2 |
-| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, and source-family classification | V01-V43 Japanese `MAIN_LN` admitted; V44-V45 known acquisition gaps; V01-V02 consumed into frozen prospective analysis |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | populated; analytical method V0.1; witness protocol V0.2; synthesis architecture V1.0 `EVOLVING` |
+| `01 Source Lock and Inventory` | Exact admitted witness set, integrity/provenance, edition identity, publication ordering, and source-family classification | V01-V43 Japanese `MAIN_LN` admitted; V41 current hash point-audited after manifest drift; V44-V45 known acquisition gaps; V01-V02 consumed into frozen prospective analysis |
 | `02 Sequential Readings` | Main-light-novel volume-by-volume prospective deep readings and source-verified arc checkpoints | V01 and V02 deep readings frozen/canonical; V03 is next and remains unopened |
 | `03 Supplemental and Alternate Witnesses` | Mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract populated; no witness admitted yet |
-| `04 Longitudinal Ledgers` | Recurring route/event-state, knowledge, relationship, character-state, institution, mechanics, and ordinary-life tracking once promotion thresholds are met | schema contract populated; no ledger promoted yet; V01-V02 state remains recoverable from the frozen volume files |
+| `04 Longitudinal Ledgers` | Current claims/revisions, route/event-state, knowledge, relationship, character-state, institution, mechanics, ordinary-life, terminology, prospective questions, and readiness | master ledger V1.0 promoted and backfilled through V02; schema contract retains later split thresholds |
 | `05 Character Analysis` | Character reconstruction only after sufficient longitudinal evidence exists | routing contract populated; no monographs yet |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
@@ -74,6 +105,30 @@ A discarded or superseded event-state can remain highly probative character evid
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
 
 The absence of an unused directory is intentional. Re:Zero should grow by analytical responsibility, not by template symmetry.
+
+## Architecture repair provenance and sequential lock
+
+The Re:Zero Git-native root was created and V01/V02 were frozen before enforcement of the current initiation validator. After merging live `origin/main` into the stable branch, the role-gap audit found a complete analytical method and witness protocol but no separately recoverable synthesis/corpus architecture and no promoted cumulative current-state home despite repeated longitudinal responsibilities.
+
+The repair therefore:
+
+- preserves the historical bootstrap manifest and both frozen readings unchanged;
+- creates `REZERO_SYNTHESIS_ARCHITECTURE.md` as the canonical `EVOLVING` architecture;
+- promotes one proportional `REZERO_MASTER_LONGITUDINAL_LEDGER.md` rather than seven empty or competing ledgers;
+- backfills only the state already established by V01/V02;
+- marks the routing descriptor `project_initiation_gate: REQUIRED`;
+- records the bounded audit in `08 Audits and Manifests/REZERO_ARCHITECTURE_REPAIR_MANIFEST.md`.
+
+All initiation requirements are now initialized. The sequential lock is affirmatively **OPEN**, while V03 remains analytically unopened until this repair is committed and validated.
+
+## Reasoning-class routing
+
+- architecture repair, final role-gap review, and full-series integration: `PREMIUM_QUALITY_FIRST`;
+- ordinary Japanese-primary VNN deep reading and interpretive master-ledger update: `SUBSTANTIVE_ANALYSIS`;
+- deterministic source identity, checksum, locator, and metadata maintenance: `BOUNDED_STANDARD` or `ROUTINE_FAST`;
+- source-verified checkpoints, mature character work, and difficult relationship/specialist synthesis: normally `DEEP_SYNTHESIS`, with evidence-based escalation for unusually propagation-sensitive cases.
+
+The stable class governs; literal provider/model names remain a mutable mapping in the corpus-wide reasoning policy.
 
 ## Main reading methodology
 
@@ -122,14 +177,14 @@ The sequential pass should test rather than assume questions including:
 
 ## Initial work order
 
-1. Treat both frozen sequential readings as immutable historical prospective states. V01 remains the original prior; V02 owns the current V01→V02 revision state and must not retroactively rewrite V01.
-2. Before opening Volume 03 analytically, instantiate its pre-reading horizon from V02 Sections 13, 14, and 16: carry the V01 revision table, preserve all 30 V02 claim IDs, and record the bounded unresolved questions without importing V03 answers.
+1. Treat both frozen sequential readings as immutable historical prospective states. V01 remains the original prior; V02 owns the historical V01→V02 revision transaction and must not retroactively rewrite V01.
+2. Before opening Volume 03 analytically, load the master ledger's backfilled current state and V03 question horizon, then verify them against V02 Sections 13, 14, and 16 without importing V03 answers.
 3. Read only admitted Japanese witness `RZ-MAIN-LN-JA-V03`, produce `02 Sequential Readings/REZERO_LN_V03_DEEP_READING.md`, and freeze its explicit `PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN` operations against the V02 current state.
 4. V02 author paratext describes V02 as `問題提起編`, V03 as `解決編`, and the unit as the `屋敷の物語`. After V03 is frozen, evaluate whether the source evidence has earned a structural checkpoint and whether recurring event-state/knowledge responsibilities now justify a separate ledger; do not invent an arc name merely from fandom convention.
 5. Continue prospectively through the admitted main-LN spine; create later checkpoints only after source evidence establishes the boundary and the final contributing volume is frozen.
 6. Acquire and integrity-audit Japanese V44 and V45 before the sequential reading reaches that boundary; admission is not implied by their bibliographic existence.
 7. Do not open supplemental or alternate-route material merely to construct a bibliography. When a witness is acquired, assign its source class and `H_pub`/`H_diegetic`/`H_route`/`H_final` state before reading it analytically.
-8. Promote longitudinal ledgers only when recurring responsibilities become costly or unreliable to reconstruct from frozen volume files.
+8. Update the master longitudinal ledger in every volume transaction; promote a dedicated ledger only when one responsibility develops an independent retrieval/revision burden, then leave routing rather than a competing full copy in the master.
 9. Create character monographs only after enough cross-state and longitudinal evidence exists to distinguish stable tendency, local state, recipient effect, role effect, and genuine revision.
 10. Treat anime and other adaptations as distinct witnesses whose performance, direction, framing, omission, compression, and reordering can be analyzed without replacing the light-novel model.
 

@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -16,7 +16,17 @@ do_not_use_as_current_authority: false
 
 This document defines **when** Re:Zero receives longitudinal ledgers and what responsibilities those ledgers may own. It is not itself a data ledger.
 
-No recurring ledger is promoted at bootstrap. Frozen volume readings remain the initial source of analytical state.
+No recurring ledger was promoted at bootstrap. Frozen volume readings were the initial source of analytical state.
+
+## Current promoted state
+
+At the project-initiation architecture-repair boundary after the V02 freeze, the recurring responsibilities below crossed the promotion threshold. Their canonical current home is now:
+
+`REZERO_MASTER_LONGITUDINAL_LEDGER.md`
+
+The master ledger was backfilled from the frozen V01/V02 canonical readings. It did not exist prospectively for those readings, and neither freeze was changed. It initially owns claim revision, route/event-state, knowledge, relationship, character-state/stress, institution/power, mechanics/world-model, diagnostic ordinary-life, Japanese terminology/register, prospective-question, and promotion-readiness state.
+
+The following candidate sections now define responsibilities that may later split out of the master ledger when independent retrieval/revision burden warrants specialization. They are not unpromoted gaps and do not authorize parallel competing homes.
 
 ## Promotion threshold
 
@@ -157,3 +167,5 @@ Use append/history fields or explicit revision notes where appropriate. The curr
 ## Canonical-home rule
 
 One recurring responsibility gets one canonical ledger home. Do not create competing `notes`, `tracker`, and `master ledger` files that all claim to own the same state.
+
+While a responsibility remains in `REZERO_MASTER_LONGITUDINAL_LEDGER.md`, that file is its canonical cumulative home. If a dedicated ledger is promoted, migrate the necessary current state and material history, leave a clear routing row in the master, update the synthesis architecture and corpus map, and stop maintaining two full competing versions.

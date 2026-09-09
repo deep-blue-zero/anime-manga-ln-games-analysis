@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -16,7 +16,7 @@ do_not_use_as_current_authority: false
 
 **PARTIALLY LOCKED — ACQUIRED JAPANESE MAIN-LN SPINE V01-V43.**
 
-The governed Drive evidence folder contains a continuous, integrity-audited Japanese main-light-novel sequence from Volume 01 through Volume 43. Those 43 objects are admitted as `MAIN_LN` witnesses.
+The governed evidence locations contain a continuous Japanese main-light-novel sequence from Volume 01 through Volume 43. Those 43 objects are admitted as `MAIN_LN` witnesses. Forty-two main-volume files retain exact agreement with the 2026-08-31 manifest; the current V41 object was replaced after that manifest and is admitted under the bounded 2026-09-08 point re-audit recorded below.
 
 This is **not a claim that the acquired corpus is current-complete**. A bibliographic freshness check on 2026-09-04 against official KADOKAWA/Re:Zero publication surfaces establishes that Volume 44 was released on 2026-03-25 and Volume 45 on 2026-06-25. Neither appears in the audited 2026-08-31 Drive manifest. The known current main-spine acquisition gaps are therefore **V44 and V45**.
 
@@ -28,7 +28,7 @@ This file owns the Git-side record of **which Re:Zero source witnesses are admit
 
 Primary-source binaries, extracted prose, and detailed per-object audit data remain in the governed evidence plane. Git records the current admission decision, deterministic source identifiers, provenance anchors, integrity summary, known gaps, and analytical horizons.
 
-The detailed per-file SHA-256 values remain authoritative in the Drive audit manifest identified below. Duplicating that entire machine inventory in this mutable analytical file would create two competing audit surfaces.
+The detailed per-file SHA-256 values remain authoritative in the Drive audit manifest identified below for the 44 audited objects whose current bytes still match it. V41 is the sole exception and is governed by the exact point-re-audit record below. Duplicating the entire otherwise unchanged machine inventory in this mutable analytical file would create two competing audit surfaces.
 
 ## Governed evidence anchors
 
@@ -39,6 +39,7 @@ The detailed per-file SHA-256 values remain authoritative in the Drive audit man
 - Manifest audit date: `2026-08-31`
 - Manifest size: `23,584` bytes
 - Manifest SHA-256 as retrieved for this admission audit: `3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314`
+- Current V41 Drive file: `1t2ppNA9sPYT4OFwZK0nG1Px1b7nc0Aon`
 
 Normalized English filenames are locators only. Embedded Japanese titles and Japanese prose remain the semantic anchor.
 
@@ -55,6 +56,8 @@ The manifest records:
 - `23` packaging-conformant objects and `22` non-fatal packaging-warning objects across the 45-object audit;
 - no supplemental/EX/short-story, IF/alternate-route, web-novel, or audiovisual witness represented in the manifest.
 
+A live 2026-09-08 rescan found no new EPUB, no V44/V45, no missing manifest path, and no extra path. Forty-four of the 45 current EPUB objects reproduce the manifest size and SHA-256. The one exception is Japanese V41, whose current Drive metadata and local governed source copy both report `14,208,152` bytes rather than the manifest's `14,207,851`; its bounded replacement audit is recorded below.
+
 The manifest states that the packaging warnings are non-fatal and that affected books remain readable after CRC/container validation.
 
 ## Admitted main-light-novel set
@@ -65,12 +68,37 @@ The following range admission is deterministic and exhaustive for the current Ja
 - witness class: `MAIN_LN`;
 - language: `ja`;
 - folder-relative locators: `Re Zero - Volume 01.epub` through `Re Zero - Volume 43.epub`;
-- integrity: exact per-file SHA-256 plus CRC/container audit in the anchored Drive manifest;
+- integrity: exact per-file SHA-256 plus CRC/container audit in the anchored Drive manifest, except V41 which uses the 2026-09-08 point-re-audit override below;
 - arc: `UNASSIGNED_PENDING_SOURCE_VERIFICATION`;
 - publication dates: not supplied by the local audit manifest and not globally backfilled from memory;
 - horizon: V01=`START`; each VNN after the frozen prospective analysis of VNN-1.
 
-This ranged admission is allowed because the manifest explicitly enumerates all 43 objects, hashes each one, reports no missing volume in the range, and records one primary Japanese edition per numbered volume. Any future changed hash, replacement file, revised edition, or gap invalidates the range assumption until re-audited.
+This ranged admission is allowed because the manifest explicitly enumerates all 43 objects, reports no missing volume in the range, and records one primary Japanese edition per numbered volume, while the sole current hash replacement has now received a bounded identity/integrity audit. Any future changed hash, replacement file, revised edition, or gap invalidates the affected admission until re-audited.
+
+## Volume 41 post-manifest point re-audit
+
+The live source audit on 2026-09-08 found that V41 was modified after `audit_manifest.json`. The manifest remains historical evidence of its audited snapshot but no longer supplies the current V41 hash.
+
+Current V41 identity:
+
+- source ID: `RZ-MAIN-LN-JA-V41` (stable source identity retained);
+- Drive file ID: `1t2ppNA9sPYT4OFwZK0nG1Px1b7nc0Aon`;
+- locator: `Re Zero - Volume 41.epub`;
+- Drive size: `14,208,152` bytes;
+- governed local-source size: `14,208,152` bytes;
+- current SHA-256: `abd148204c4cdd2cc52bde40fa399910fcb83661902b3ae98d16d249a2c04120`;
+- language: Japanese (`ja`);
+- embedded title: `Re：ゼロから始める異世界生活 41`;
+- embedded creators: `長月　達平` and illustrator `大塚　真一郎`;
+- publisher/label: `株式会社ＫＡＤＯＫＡＷＡ` / `ＭＦ文庫Ｊ`;
+- embedded BookWalker identifier: `04684890A21975100000`;
+- electronic/print basis: `2025年6月25日`, `ver.001`, first edition dated the same day;
+- container root: `item/standard.opf`;
+- package: 61 ZIP files, 23 manifest image resources, reflowable Japanese EPUB;
+- integrity: NanaZip full-archive test passed; EPUB container metadata and package document resolved;
+- packaging: non-fatal warning remains because `mimetype` is stored but is not the first ZIP entry.
+
+The current Drive object has one retained revision only, so the earlier manifest-hashed bytes are not available for a bytewise semantic comparison. The current object is nevertheless re-admitted as the same numbered Japanese MF Bunko J V41 witness because its exact present bytes, internal bibliographic identity, language, edition/version, publisher, container structure, and archive integrity were verified. This override is limited to V41. Any future size/hash change or a mismatch between a fresh Drive download and the recorded current hash reopens V41 admission.
 
 ## Known current main-spine acquisition gaps
 
@@ -194,4 +222,4 @@ Therefore `02 Sequential Readings/REZERO_LN_V01_DEEP_READING.md` may now be crea
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation permitted now:** Japanese V01 deep reading.
+- **Next analytical operation permitted now:** after the project-initiation architecture gate is open, Japanese V03 deep reading from the frozen V02 horizon.
