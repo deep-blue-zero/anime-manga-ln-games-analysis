@@ -37,6 +37,8 @@ Aemeath, Denia, and Lynae now have supplied pre-AV relationship/state analyses w
 - `Denia`: `04 Character Analysis/Denia/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md`.
 - `Lynae`: `04 Character Analysis/Lynae/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md`.
 
+Chisa's owner-adopted current provisional packet routes to `04 Character Analysis/Chisa/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md`. It preserves source-specific relationship and chronology qualifications; importing it adds no independently adjudicated edges and retains its declared text/audio scope and pending AV questions.
+
 ## Edge contract
 
 Every future entry should identify:

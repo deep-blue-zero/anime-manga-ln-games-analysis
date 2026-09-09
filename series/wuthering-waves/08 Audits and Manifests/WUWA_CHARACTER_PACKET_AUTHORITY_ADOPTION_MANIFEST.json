@@ -1,0 +1,453 @@
+{
+  "schema": "wuwa/character-authority-adoption/v1",
+  "owner_requested_on": "2026-09-09",
+  "source_candidate_tree_before_adoption": "6d6361f4d9b3e96da86289cf72a6c35a0fd4c78e",
+  "packet_count": 5,
+  "document_count": 55,
+  "authority": "active_provisional",
+  "do_not_use_as_current_authority": false,
+  "new_source_analysis_performed": false,
+  "modality_completion_changed": false,
+  "documents": [
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_ANALYSIS_PACKET_README.md",
+      "prepared_source_sha256": "4b824c489e72730905add86966f301a181dd5641186b99e2467a83b330872219",
+      "prepared_source_bytes": 18908,
+      "adopted_sha256": "bb21f76902197106e79e72334eb08c7756b06c88ea3f5016f92bdb99b802203a",
+      "adopted_bytes": 19616,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "prepared_source_sha256": "65571eac86c2f3d5c3db2d4d9754f585f234de829b4b0af271d63ac12e1b22bd",
+      "prepared_source_bytes": 19200,
+      "adopted_sha256": "bd12d7e60eb53e0e095aa1e9c91702e224f8e37aa6f5fba9b3c82ea4958e0f3f",
+      "adopted_bytes": 19830,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "prepared_source_sha256": "73b741e30a2d6ff6d2f082f9a5478f1daa0499d67415da2534a969c99631af7c",
+      "prepared_source_bytes": 25000,
+      "adopted_sha256": "9be059291abaabd995baf9e55911da31e009804427f8fea505f6d631b80e38ef",
+      "adopted_bytes": 25630,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "prepared_source_sha256": "684564a82d8a269849c9cbdf1c1369e0fbe88be0154238b1a49688d75aa8b743",
+      "prepared_source_bytes": 46579,
+      "adopted_sha256": "86534fdf906137af2fc9af04aa994b15739a633928ac0a68b90a7fcce9786c28",
+      "adopted_bytes": 47209,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "prepared_source_sha256": "8841fbfdafeb831d648d842130d0f96e972b19da654e6242d9d50790700360d4",
+      "prepared_source_bytes": 49807,
+      "adopted_sha256": "6e0de72f6d7af6eb2be712af20a102eef7a5dc77c2a30e0528251ba498f89a62",
+      "adopted_bytes": 50437,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "prepared_source_sha256": "403b4e4f81094579620a3dfa0789b9758f47795174898504f3ccb6949aea1ae6",
+      "prepared_source_bytes": 19494,
+      "adopted_sha256": "9541da8e82fc2053462853f5484449969962041b290d16315313aef701709654",
+      "adopted_bytes": 20124,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "prepared_source_sha256": "4ca344d94ff637d64be3dd944920aee3b8890ceeb3da3abd453c4a5ce1910786",
+      "prepared_source_bytes": 17984,
+      "adopted_sha256": "aa7fa696b08acaa48cdfafdab44ab627adbd3ee3d0f548295c48a587f3678de3",
+      "adopted_bytes": 18614,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_PERCEPTION_CARE_AND_TEMPORAL_CONTINUITY_PROFILE.md",
+      "prepared_source_sha256": "1baaa63f46e90502bf55563d0e99c5068aefc51b80695887adc35a2cd8f0a213",
+      "prepared_source_bytes": 17224,
+      "adopted_sha256": "d7a0110a77bea195f6c110734001ac724e3858893e9d59ca4dc0a0d10d102ccb",
+      "adopted_bytes": 17854,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_PRIOR_BASELINE_AND_SOURCE_RECONCILIATION.md",
+      "prepared_source_sha256": "b334da54923c5263895d2243778cc42019fcde95d089f48aa6a51c0223228ae3",
+      "prepared_source_bytes": 11969,
+      "adopted_sha256": "abd438653f597fecf1f202101190adfab9ba46c5788d9b38ac5959e298a68848",
+      "adopted_bytes": 12599,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "e989f7e2ddf6621330343312f5d31a3b66f6b2d1e4f9b7adbc4c6d5c248257f1",
+      "prepared_source_bytes": 22553,
+      "adopted_sha256": "2ecb98f21bb0c24c2619ac9f1e625d7ba4af3e18eefc2c5b55087f26aa0222d5",
+      "adopted_bytes": 23183,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "prepared_source_sha256": "5ca33f3c33f3ecf03529dc50a1b0352576e07030e73367e41a43ff2837dc1ce9",
+      "prepared_source_bytes": 20600,
+      "adopted_sha256": "85c8da45c034f42911311402fde6650b9c347585dcd01725f430eccd0f530324",
+      "adopted_bytes": 21230,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Chisa/WUWA_CHISA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "7f8f5069194ee2d84c7950a9ab088d2adcf5fb17ef6c4264bcfececf28c0bdce",
+      "prepared_source_bytes": 19273,
+      "adopted_sha256": "f2377876f0ee32c2b0425185cdb451515e2f1b88090fecec278a6fdb6de0007a",
+      "adopted_bytes": 19903,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md",
+      "prepared_source_sha256": "87d01f163719649e7871a27f5deff9a049ce2d1e7b55b655367d304264da67da",
+      "prepared_source_bytes": 17734,
+      "adopted_sha256": "b45324d370ff0253118e1317dccf9c1e9df31ca86dd87febee601704d75e8f78",
+      "adopted_bytes": 18398,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "prepared_source_sha256": "fce076731301eb81c980b484da7ca4514f5eb56dd125835a1a88f34c218c8892",
+      "prepared_source_bytes": 19223,
+      "adopted_sha256": "3085579703bcf1dddb701e0be5ae1e3b1ed353c2729ebf4feadddfa11dc1f706",
+      "adopted_bytes": 19915,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "prepared_source_sha256": "57df01f737e19174fce299cdf328d87744a10daa151381f9c45431e612ac3ad9",
+      "prepared_source_bytes": 29263,
+      "adopted_sha256": "51770684eeb77e7d0d63b36df168eb1d3bc7d6f78bfbfc4d6b66af82b3d26e6f",
+      "adopted_bytes": 29955,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "prepared_source_sha256": "7e477b65566a5f6b8865f22e265c25b88c4475111e06bf83935069b2d15d269a",
+      "prepared_source_bytes": 50346,
+      "adopted_sha256": "2c1ace49ea1fd6c7f7c13ffc37d36653f666e342baee7b549aeae16b94df22dc",
+      "adopted_bytes": 51038,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "prepared_source_sha256": "ac928973df7bf25dd6280b0d95fca7dc452869c20f48ddef82e445f1f59de3bb",
+      "prepared_source_bytes": 50274,
+      "adopted_sha256": "f4e3fc28fb0d2f270976259adca87d148fbb8319340f64cf32c121a33b705903",
+      "adopted_bytes": 50966,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_IDENTITY_FORMS_AND_EMBODIMENT_PROFILE.md",
+      "prepared_source_sha256": "abcfde0b1d69cc16ca24eea33d4ff6e83b518030659ce536303613b6c2359e96",
+      "prepared_source_bytes": 17529,
+      "adopted_sha256": "3d19b3ae96f926e0750bbad12ac06a375ef130dc8ab3f39bbf2f4793a0d2cc6b",
+      "adopted_bytes": 18221,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "prepared_source_sha256": "fea6ca91122863ee65c58b525ffc39107233922bd183b2c1248c81eeeaeb6a36",
+      "prepared_source_bytes": 19263,
+      "adopted_sha256": "dc9cbb5903e4146280c7c000c02b49ed80f58e66aba9a34aa7f59bd4884a1435",
+      "adopted_bytes": 19955,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "prepared_source_sha256": "a5b793980520e5d373e994d612600796be0324a407157bbbc34a53cd4119dcb5",
+      "prepared_source_bytes": 17950,
+      "adopted_sha256": "00ae82212c9858af18b876531caced76ee07136099b515e6089747fc7d0e436f",
+      "adopted_bytes": 18642,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_PRIOR_GENERATION_CLAIM_REVISION_LEDGER.md",
+      "prepared_source_sha256": "7c29d7ae5ca71808d376d8ed92428f4fb947ecfbcdd8c97b674288dd34c36226",
+      "prepared_source_bytes": 13277,
+      "adopted_sha256": "634bdf763a5d3a773eb91f641ba892b04732707d5dc5b4323dd7c5eb9b233b85",
+      "adopted_bytes": 13969,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "9f8d5ef4c0c85e11c554e76899b9ef0934ef93a3837b351cbc48fa6d8b755cae",
+      "prepared_source_bytes": 19242,
+      "adopted_sha256": "a1be2dc588b36dd83a96de7ed90970b970eac5f5ccd5656f4991e0d70fc5f15c",
+      "adopted_bytes": 19934,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "prepared_source_sha256": "9b2688aa767017b50a6681dabae50e21c7ba6df994a6378125a22224e31511bb",
+      "prepared_source_bytes": 18722,
+      "adopted_sha256": "cad5041df8e8afa7bc3115603ced93529fbf24114657785f7bf4af5638468431",
+      "adopted_bytes": 19414,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "e341fe0d030cf0f024e857e8811ce8c3ed7cd217870df455cbba90011699918d",
+      "prepared_source_bytes": 18575,
+      "adopted_sha256": "55007c415ab5571ba6b39fa33ddfd1fe7bc298d7b877ff9878ba4512756af9ee",
+      "adopted_bytes": 19267,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_ANALYSIS_PACKET_README.md",
+      "prepared_source_sha256": "0fff8e5288868c8c3287cddfa5539b7c3727daf3fb6d56989a483d35045af9a3",
+      "prepared_source_bytes": 15564,
+      "adopted_sha256": "dad0ee501e3b2a068f3aa5fbf38c310db7c2cc20bc4598235353bdafbd4c19ff",
+      "adopted_bytes": 16416,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "prepared_source_sha256": "5ba7daa27f4016086a85a97feb8241c15cea1097ee6429fcaed7be8f97d0248d",
+      "prepared_source_bytes": 15676,
+      "adopted_sha256": "05accf08518c9b79fd628cdea0f4f145891f1958d8a2caaa2c56135234dae367",
+      "adopted_bytes": 16376,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "prepared_source_sha256": "cdea89389d77cbe8736c3ab748923dbd7be922f36caf929c4d625b1fa0215a1e",
+      "prepared_source_bytes": 18960,
+      "adopted_sha256": "3fa97dc015c52482d08847919705263e788087681f4f7d7526cb515c390890e9",
+      "adopted_bytes": 19660,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "prepared_source_sha256": "664a9fd550f1227eaf363623a26762fb9285940c13b7e506ba40749c7dd10d70",
+      "prepared_source_bytes": 62139,
+      "adopted_sha256": "38c18aabf70d571c0b56b7a4c638e8022ae1f1e652725b1a4c1500d93193ed85",
+      "adopted_bytes": 62874,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "prepared_source_sha256": "ff312850d0abf6df62ca57d319fc370e6bd95e938198bf2dba9c00daa42aafce",
+      "prepared_source_bytes": 22057,
+      "adopted_sha256": "1584aa891ac65bddfdeed1e975b43e5ba2c280e7128402bf9feb541467b03c2e",
+      "adopted_bytes": 22757,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_IDENTITY_EMBODIMENT_AND_SHELL_PROFILE.md",
+      "prepared_source_sha256": "808f6ce023c8e2b91ffb0ccaf8ffb3fde0809d86e357265c7cd8d09e9a704673",
+      "prepared_source_bytes": 16675,
+      "adopted_sha256": "4d9d69d10aacdfa1decbe7e4814890acb2b4218a3e87e8dd6054a9ebec6ca849",
+      "adopted_bytes": 17375,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "prepared_source_sha256": "e54d88470a2ff00f5a5d13cf72137457bcccc8b6766d58d71f4407af0becbada",
+      "prepared_source_bytes": 14366,
+      "adopted_sha256": "e8fd3e612b763b696ad99652c30a25e1c1b534dbe880ae759ea4b888fe627758",
+      "adopted_bytes": 15066,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "prepared_source_sha256": "d19ab0e85ab235fad91836c508baf99c1a2984b3f97acbe54ddd9f321e00560a",
+      "prepared_source_bytes": 23820,
+      "adopted_sha256": "d13d97dc672818145983d5dba6cd05e968cfb85a519db8bfa5a8bc421c492cc5",
+      "adopted_bytes": 24520,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "06a295c242b38f6e298ba83bf27fb7381670544e6c9ce3b1da0a4b6a74b57888",
+      "prepared_source_bytes": 21141,
+      "adopted_sha256": "cce24e1dd64d787490762b7e7f2f9d7b39599373a3f2e971707ae186bf4eaade",
+      "adopted_bytes": 21841,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "prepared_source_sha256": "aae7b148235174df5967018dfcc1c8870c4a93ca44b2780ea0ecaf6daef54114",
+      "prepared_source_bytes": 24809,
+      "adopted_sha256": "fbb97d2beeceedac824592d149a9974912fa9184d488da3f70a887afa57980eb",
+      "adopted_bytes": 25509,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Aemeath/WUWA_AEMEATH_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "6e80b5fd88e30dfaf075eaf167d4fa8e9d23c757056e08e7533ce4970ce7bd02",
+      "prepared_source_bytes": 18664,
+      "adopted_sha256": "6c97ab1f4cf8ab3c4985d7485db2cb716bd0aaf105824ab543f9f24747f9b3f9",
+      "adopted_bytes": 19364,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_ANALYSIS_PACKET_README.md",
+      "prepared_source_sha256": "a46ae2093fdd564945fcc24e8ac701d4ff6b7d2dec21a34059fbba1e85f9e3d6",
+      "prepared_source_bytes": 17168,
+      "adopted_sha256": "22a362ec56cda4b342bc05044bcc47a0fa5c6a02ccc59b3023d8528cd9234899",
+      "adopted_bytes": 17909,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "prepared_source_sha256": "07aca003c67cbb7e3d7993bd6c5bf415feb04a8a6da79a9ae50243d18944462d",
+      "prepared_source_bytes": 22481,
+      "adopted_sha256": "96e662128deb474e4700890fd493c55899f5165601a36559636aa2e11b779314",
+      "adopted_bytes": 23181,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "prepared_source_sha256": "77fb95137faf34459a74ebfc3a936228d6cd31c77dd96ceb594ba75ee236801c",
+      "prepared_source_bytes": 16447,
+      "adopted_sha256": "18f4024678bd07cc620e613cd6639dad3efab26ef6cb9d12f52852177e0ccc02",
+      "adopted_bytes": 17147,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "prepared_source_sha256": "c0d515e2b83e3501567fd396ba1780786340c2b51e24bd6dd5c9155805925519",
+      "prepared_source_bytes": 60421,
+      "adopted_sha256": "be75887e87dacd099f29143f57598b79febb39ddb9298fc7e9fb74d4413a6378",
+      "adopted_bytes": 61156,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "prepared_source_sha256": "d779bd7a675dc20b50224fdbed6ef30ba4683a8b445aa1915c65fdfa032dd4bf",
+      "prepared_source_bytes": 20373,
+      "adopted_sha256": "ab43ab4838ae632ffee674b9fbcc5dd9fca29f9e5799b8a2b4a1319104740b87",
+      "adopted_bytes": 21073,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_IDENTITY_DECEPTION_AND_PERSONHOOD_PROFILE.md",
+      "prepared_source_sha256": "6ea4b1187ae7387f7afa7524c9b4041e816e064c36d12f27da257453aa793275",
+      "prepared_source_bytes": 19900,
+      "adopted_sha256": "5497ff8ec908160a885f43c55a240c411d0ece118738548ba58f5e5a5cacd556",
+      "adopted_bytes": 20600,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "prepared_source_sha256": "fecfc1558f5b0c05008f4f3ef7b07e2d227482802c6cacfb1ffc5891e0795483",
+      "prepared_source_bytes": 17066,
+      "adopted_sha256": "04975d0d5a51f1d613e44f5e20787cfd54c09259e2135e9b4516dd90a8b12707",
+      "adopted_bytes": 17766,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "prepared_source_sha256": "a8e7da487539cdf79dbc7e4b5ac118692b04ea7641e64c7a96b652b8e4f068f2",
+      "prepared_source_bytes": 18991,
+      "adopted_sha256": "fc87fc23e88f9f80d3538eb80be1c31d25615af60322526d64242bfab5f4fd8b",
+      "adopted_bytes": 19691,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "33891dafff4d85df43fd1889817cf5cd740593b1fd6739fb89119a9767ca094c",
+      "prepared_source_bytes": 20763,
+      "adopted_sha256": "171f41d5486be2e3448b239f7cc2a0edd03fc21700471e8b10fcfa67a2b445fa",
+      "adopted_bytes": 21463,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "prepared_source_sha256": "dbb6f6bd98af540dd0e9c4e799e6582579e779e9c2f32be9ef08e5fcba49e800",
+      "prepared_source_bytes": 22117,
+      "adopted_sha256": "8834253d8031e82a92e6ea428174a7e491f03058372a4cfcc3e2fcc5883aab3a",
+      "adopted_bytes": 22817,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Denia/WUWA_DENIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "df4b51f470697eec25529e0a7e043ca9af5b9337f199da43ed0e264a7837f726",
+      "prepared_source_bytes": 17952,
+      "adopted_sha256": "046a47f6bead089a96ec3a6b5c434b001fb82c17bf65a4e5a546dc05e5bbe3d7",
+      "adopted_bytes": 18652,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_ANALYSIS_PACKET_README.md",
+      "prepared_source_sha256": "e3949cf44253ec6ae74f7ac37c595195e8f9fc85e7a3342eaee0a3d1cda35b4d",
+      "prepared_source_bytes": 11495,
+      "adopted_sha256": "88781f48d51bbc387de507de84f76b9d1ef6ffb092b66035a2d00aebed27777c",
+      "adopted_bytes": 12463,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "prepared_source_sha256": "23574a7203da1dc35968e37bddd031487d0b0f81fc170e0bcacc53bc67c6c1ac",
+      "prepared_source_bytes": 20250,
+      "adopted_sha256": "2838fa0265cd7b1766a4b135ea4675fce72072940cf4e8a25f882092d069e2e3",
+      "adopted_bytes": 20985,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "prepared_source_sha256": "e8a9e521c15db8174d258b875abeba150192ced8fc6b461dc9c56677caf4b21c",
+      "prepared_source_bytes": 65061,
+      "adopted_sha256": "2e50643359c8a0ca99dea8d77130114c6a95ae321313a62110621783c9aadc38",
+      "adopted_bytes": 65796,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "prepared_source_sha256": "fe8fd29cc94d135b77c4aa7766455ce3b84c37c5aa80171619e80e664917d260",
+      "prepared_source_bytes": 19476,
+      "adopted_sha256": "01540ccc67ebaaac3b76e00e94ebc74b8354f771fb3fca4a540cffe989042746",
+      "adopted_bytes": 20211,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "prepared_source_sha256": "d15ac6a9a6ab44328cbc8ec56e52733744f9ea932fb4937994c40fafc92f4d9d",
+      "prepared_source_bytes": 16935,
+      "adopted_sha256": "2922a333787ec6cfa645f2944343db9b87faf5e1768eeb84714b2c13721e3510",
+      "adopted_bytes": 17670,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "prepared_source_sha256": "de3270fb80ad2773a3bceec6ef27a9bf17a69c7f5af4b018ce9b2b32874490bc",
+      "prepared_source_bytes": 20635,
+      "adopted_sha256": "eb927b827c3d9e5f34d2c84d8546b7f7ff38f05ce07a27c433c81e3634003f9c",
+      "adopted_bytes": 21370,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "c328e8ec1d5184b1a38e71be3f86e8464312e5521e4ce5882f6e13f1e1fda3a6",
+      "prepared_source_bytes": 21007,
+      "adopted_sha256": "f483f7d310ee916de4d19156c6ae2b2531430e89697af85ba0202998d419fbce",
+      "adopted_bytes": 21742,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "prepared_source_sha256": "6f0cd2f927ff50ec69f987c685a1ec46960fea40db88aebedc45819438d55d86",
+      "prepared_source_bytes": 21625,
+      "adopted_sha256": "9169ea9fd7d356a6893a3868a9f1f6dfbb0408c73f6ea0ae17fc33262466ca74",
+      "adopted_bytes": 22360,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    },
+    {
+      "repository_path": "series/wuthering-waves/04 Character Analysis/Lynae/WUWA_LYNAE_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "prepared_source_sha256": "9acde45cd970624cca1e950ad86b1001b4a33c1a0b3f6267e9eba444e8d34480",
+      "prepared_source_bytes": 16938,
+      "adopted_sha256": "e160a97e2eb584fa2ed1abd44da76e17de98f0b26e43a58a596a2af22aa74a22",
+      "adopted_bytes": 17673,
+      "transformation": "OWNER_AUTHORIZED_AUTHORITY_METADATA, ADOPTION_NOTE, AND TARGETED_README_AUTHORITY_STATEMENTS; analytical findings and coverage retained"
+    }
+  ]
+}

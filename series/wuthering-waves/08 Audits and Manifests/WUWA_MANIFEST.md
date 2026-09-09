@@ -23,9 +23,9 @@ do_not_use_as_current_authority: false
 - Source control: source boundary, Drive release pointer, source-coverage audit.
 - Sequential layer: naming/closeout contract; no completed readings.
 - Longitudinal layer: character state, relationship network, world/faction, chronology, open questions.
-- Character layer: complete imported Cartethyia package; Chisa status router; Aemeath (11), Denia (11), and Lynae (9) supplied pre-AV V0.1 documents with current-state routers. All three new packets remain `active_provisional`, pending audiovisual analysis.
+- Character layer: complete imported Cartethyia V0.2 package plus a current twelve-document pre-AV rebuild; Chisa status router and twelve-document current provisional pre-AV rebuild; Aemeath (11), Denia (11), and Lynae (9) supplied pre-AV V0.1 documents with current-state routers. All three new packets remain `active_provisional`, pending audiovisual analysis.
 - Evidence/index layer: character index, claim index, Drive/Git crosswalk.
-- Audit layer: analytical corpus audit, authority audit, bootstrap path/hash manifest, imported Cartethyia hardening report; `WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md` and `WUWA_PRE_AV_CHARACTER_PACKET_IMPORT_MANIFEST.json` record the later three-packet import. Frozen bootstrap records remain historical.
+- Audit layer: analytical corpus audit, authority audit, bootstrap path/hash manifest, imported Cartethyia hardening report; `WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md` and `WUWA_PRE_AV_CHARACTER_PACKET_IMPORT_MANIFEST.json` record the later three-packet import. The later `WUWA_CHISA_PRE_AV_REBUILD_IMPORT.md` and `WUWA_CHISA_PRE_AV_REBUILD_IMPORT_MANIFEST.json` record the Chisa import and its declared transformations. `WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md` and its manifest record current authority for all 55 packet documents and the five guidance amendments. `WUWA_PRE_AV_BRANCH_INTEGRATION_REPAIR_MANIFEST.json` records the existing Cartethyia branch repairs and owner-requested archival of the older ordinary-life profile. Frozen bootstrap records remain historical.
 
 ## Authority order
 
