@@ -4,7 +4,11 @@
 
 This directory is the canonical home for recurring cross-volume analytical questions once they become too persistent to retrieve and revise reliably inside individual volume deep readings.
 
-No substantive ledger is instantiated at bootstrap. A ledger should be created only after repeated source-facing evidence gives it an actual maintenance responsibility.
+The bootstrap began with no substantive ledger. After V02, one responsibility has met the promotion rule and is now instantiated:
+
+- `TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md` — tracks effort regimes, competition, goal origin/ownership, comparison targets, stopping conditions, self-worth coupling, collateral costs, and revision state.
+
+Other ledgers should still be created only after repeated source-facing evidence gives them an independent maintenance responsibility.
 
 ## Candidate responsibilities — not predetermined theses
 
