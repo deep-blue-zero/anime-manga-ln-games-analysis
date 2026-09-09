@@ -3,7 +3,7 @@ series: CHIRAMUNE
 artifact_type: analytical_method
 scope: JAPANESE_LIGHT_NOVEL_CORPUS
 source_boundary: "Current Chiramune source lock; Japanese EPUB witnesses through Volume 09/09.5 and acquired supplements"
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -17,7 +17,7 @@ do_not_use_as_current_authority: false
 
 This method governs source-grounded analysis of Hiromu's *Chitose Is in the Ramune Bottle*. It is built for a first-person, socially dense light-novel series where characterization can be distributed across narration, dialogue, reputation, peer-group behavior, self-presentation, private vulnerability, romantic interaction, ordinary routine, and later retrospective information.
 
-The method standardizes analytical responsibilities and evidentiary discipline. It does not predetermine what the series means.
+The method standardizes analytical responsibilities and evidentiary discipline. It does not predetermine what the series means. Its paired corpus and convergence contract is `CHIRAMUNE_FULL_SERIES_ARCHITECTURE.md`.
 
 ## 1. Japanese source first
 
@@ -154,3 +154,26 @@ PACTRIH or other project-wide comparative frameworks may be applied only after e
 Create a standalone artifact only when it has a clear responsibility that benefits from independent retrieval or revision. Do not create empty ledgers, monographs, or synthesis folders merely because another series has them.
 
 The canonical current-state map must always tell a future session which artifacts actually exist, which are authoritative, and what operation comes next.
+
+## 14. Source-unit closeout
+
+A numbered deep reading is not complete merely because its standalone prose exists. Before the next unsafe source is opened, the transaction must also:
+
+- adjudicate materially tested claims in the revision ledger;
+- update affected thematic and relationship ledgers;
+- update earned character models without creating symmetry-driven files;
+- write the source-bounded prospective freeze;
+- advance the horizon vector and next route in the current corpus map;
+- pass the current stable-series validation and publication checkpoint.
+
+The full atomic contract is defined in `CHIRAMUNE_FULL_SERIES_ARCHITECTURE.md`.
+
+## 15. Open-ended publication and synthesis
+
+Track publication, acquisition, main-volume analysis, supplemental analysis, and next-safe-reading horizons separately. Analyzed-through does not mean published-through, acquired-through, or series-complete.
+
+A rolling current published-corpus synthesis may integrate the analyzed horizon when it earns independent retrieval value. It must remain explicitly provisional and source-bounded. A terminal full-series synthesis is ineligible while publication remains open or while source disposition and architecture-convergence gates remain unresolved.
+
+## 16. Adaptation and performance witnesses
+
+Anime, audio, music, direction, acting, framing, editing, and other performance evidence require a separately admitted adaptation boundary. They may illuminate what the adaptation presents and how it transforms the novels, but they do not silently rewrite Japanese-light-novel findings.
