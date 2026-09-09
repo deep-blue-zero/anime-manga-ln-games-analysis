@@ -93,7 +93,7 @@ Final distribution remains:
 - 4 `STILL_OPEN`
 
 ## Year-2 boundary integration — Phase 1 complete
-Boundary promotion is active in the canonical `03 Rolling Ledgers` home. **All four architecture-defined through-Year-2 character-ledger artifacts, the superseding through-Year-2 relationship ledger, the superseding through-Year-2 class-polity ledger, the through-Year-2 institutional-rules ledger, the through-Year-2 examination ledger, the through-Year-2 ability/measurement ledger, the through-Year-2 Japanese written-voice ledger, the through-Year-2 ethics ledger, and the through-Year-2 ordinary-life/counter-curriculum ledger are now canonical.** The Ayanokōji and Horikita snapshots supersede their direct Year-1 counterparts for **current-state reference only**; the Year-1 ledgers remain historical boundary authority. `COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md` and `COTE_CHAR_LEDGER_CLASS_RELATIONAL_CORE_THROUGH_Y2.md` are the first canonical completed-year snapshots of their respective roles and therefore preserve the appropriate frozen Year-1 specialist/ledger/handoff authorities rather than inventing nonexistent direct Year-1 supersessions.
+Boundary promotion is active in the canonical `03 Rolling Ledgers` home. **All five architecture-defined through-Year-2 character-ledger artifacts, the superseding through-Year-2 relationship ledger, the superseding through-Year-2 class-polity ledger, the through-Year-2 institutional-rules ledger, the through-Year-2 examination ledger, the through-Year-2 ability/measurement ledger, the through-Year-2 Japanese written-voice ledger, the through-Year-2 ethics ledger, and the through-Year-2 ordinary-life/counter-curriculum ledger are now canonical.** The Ayanokōji and Horikita snapshots supersede their direct Year-1 counterparts for **current-state reference only**; the Year-1 ledgers remain historical boundary authority. `COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md` and `COTE_CHAR_LEDGER_CLASS_RELATIONAL_CORE_THROUGH_Y2.md` are the first canonical completed-year snapshots of their respective roles and therefore preserve the appropriate frozen Year-1 specialist/ledger/handoff authorities rather than inventing nonexistent direct Year-1 supersessions.
 
 ### Completed through-Y2 character ledgers
 - `COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y2.md`
@@ -123,7 +123,7 @@ Boundary promotion is active in the canonical `03 Rolling Ledgers` home. **All f
   - primary members: Karuizawa Kei, Kushida Kikyō, Hirata Yōsuke, Sudō Ken, Shiina Hiyori, Kanzaki Ryūji, Hashimoto Masayoshi; collective coverage also includes the Ayanokōji Group rupture/successor core and selected supporting nodes.
   - controlling boundary thesis: the Year-2 relational core becomes strongest where social function survives role change without requiring the original organizer to remain sovereign; the mature alternative to dependency is plural, answerable interdependence.
 
-All four ledgers implement the architecture-mandated authority/snapshot notice and explicit delta classes: `CONFIRMED_CONTINUITY`, `GENUINE_DEVELOPMENT`, `REVELATION_OF_PRIOR_HIDDEN_STATE`, `RETROSPECTIVE_RECONTEXTUALIZATION`, `CORRECTION_OF_PRIOR_INFERENCE`, `RELATIONSHIP_SPECIFIC_EXPRESSION`, and `UNRESOLVED_CONTRADICTION`. Frozen per-volume/source-local artifacts were not modified.
+The four previously promoted character ledgers implement the architecture-mandated authority/snapshot notice and explicit delta classes: `CONFIRMED_CONTINUITY`, `GENUINE_DEVELOPMENT`, `REVELATION_OF_PRIOR_HIDDEN_STATE`, `RETROSPECTIVE_RECONTEXTUALIZATION`, `CORRECTION_OF_PRIOR_INFERENCE`, `RELATIONSHIP_SPECIFIC_EXPRESSION`, and `UNRESOLVED_CONTRADICTION`. Frozen per-volume/source-local artifacts were not modified.
 
 ### Completed through-Y2 relationship ledger
 - `COTE_RELATIONSHIP_LEDGER_THROUGH_Y2.md`
@@ -249,6 +249,18 @@ All four ledgers implement the architecture-mandated authority/snapshot notice a
   - final distribution: 15 `ANSWERED_BY_DEVELOPMENT`, 3 `ANSWERED_BY_REVELATION`, 7 `REFRAMED`, 13 `PARTIALLY_ANSWERED`, 4 `STILL_OPEN`
   - strictly open questions: `Y1H-004`, `Y1H-016`, `Y1H-026`, `Y1H-035`
   - new routing layer: all 42 questions crosswalked to their canonical through-Y2 topical homes, with explicit carry-forward/closure discipline and reconstruction-facing inheritance rules
+
+### Closeout repair of required ledger roles
+
+The architecture audit corrected the earlier incomplete claim that every required role was present. The four previously promoted character ledgers remain intact. The following first dedicated records are now canonical through `Y2SL`, preserving frozen Year-1 authority and all source-local readings:
+
+- [Institutional actors](../03%20Rolling%20Ledgers/COTE_CHAR_LEDGER_INSTITUTIONAL_ACTORS_THROUGH_Y2.md): the fifth Appendix-B character role; personal motives, office, knowledge and reconstruction limits.
+- [Identity and allegiance](../03%20Rolling%20Ledgers/COTE_ACTOR_IDENTITY_ALLEGIANCE_LEDGER.md): Architecture V.4 / Phase-2 origin, knowledge, sponsor, independent purpose and causal-attribution distinctions.
+- [Succession and separation](../03%20Rolling%20Ledgers/COTE_SUCCESSION_SEPARATION_LEDGER.md): Architecture V.5 / Phase-2 function withdrawal, substitutes, observed adaptation and untested durability.
+- [Claim and revision register](../03%20Rolling%20Ledgers/COTE_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md): Architecture V.6 current propositions, counterevidence, revision semantics and primary homes; 18 analytical claim records, preserving all existing evidence IDs.
+- [Themes and terminology](../03%20Rolling%20Ledgers/COTE_THEME_TERMINOLOGY_LEDGER_THROUGH_Y2.md): Appendix-B semantic distinctions and controlled-thread routing; exact Japanese passage retrieval remains the Y2_13 responsibility.
+
+The cumulative filenames carry an explicit `Y2SL` snapshot boundary. None claims a Year-3 update. The existing separate institutional-rules and examination ledgers jointly fulfill the architecture's institution/exam responsibility; no redundant combined replacement is created.
 
 ### Phase-1 completion lock
 All Year-2 boundary ledgers and the Year-1 → Year-2 handoff-question tracker are complete and canonical at `Y2SL`. The downstream behavioral reconstruction protocol remains `active_provisional` and is not part of the evidence-promotion gate.
