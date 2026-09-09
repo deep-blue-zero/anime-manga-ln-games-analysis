@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationship evidence through EVENT_0084; reciprocal craft learning, giving and company; existing major dyad/group/manifestation IDs retained"
-analysis_cutoff: "EVENT_0084 I2 event with bounded relationship increments; latest relationship/epistemic I3 EVENT_0080; REL-CROSS-MAFUYU-SHIZUKU-E0080 and REL-N25-EM-5 remain current"
+source_boundary: "N25 relationship evidence through EVENT_0087; reported Ena lending, Empty Len/Rin accepted companionship and bounded sibling characterization; existing IDs retained"
+analysis_cutoff: "EVENT_0087 I1 relationship increments; latest relationship/epistemic I3 EVENT_0080; REL-CROSS-MAFUYU-SHIZUKU-E0080 and REL-N25-EM-5 remain current"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-Relationship authority reaches **EVENT_0084**, adding reciprocal craft learning, giving and ordinary company within the event’s I2 Kanade refinement. Existing musical-feedback, creative-gratitude and companionship increments remain valid; no major relationship-state successor is required. Mafuyu–Shizuku remains **`REL-CROSS-MAFUYU-SHIZUKU-E0080`**, the latest bounded relationship/epistemic I3. EVENT_0079’s Ena–Akito increment and EVENT_0077’s **`REL-N25-EM-5`** remain valid. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku’s `REL-N25-GM-E0054` and N25 Len’s `REL-N25-VS-LEN-GROUP-E0061` remain distinct. Cross-unit entries do not establish complete other-unit systems.
+Relationship authority reaches **EVENT_0087**, adding reported Ena lending and accepted Empty Len/Rin companionship at I1. EVENT_0084’s reciprocal craft learning, giving and ordinary company remain valid within its I2 Kanade refinement. Existing musical-feedback, creative-gratitude and companionship increments remain valid; no major relationship-state successor is required. Mafuyu–Shizuku remains **`REL-CROSS-MAFUYU-SHIZUKU-E0080`**, the latest bounded relationship/epistemic I3. EVENT_0079’s Ena–Akito increment and EVENT_0077’s **`REL-N25-EM-5`** remain valid. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku’s `REL-N25-GM-E0054` and N25 Len’s `REL-N25-VS-LEN-GROUP-E0061` remain distinct. Cross-unit entries do not establish complete other-unit systems.
 
-Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. `REL-CROSS-MAFUYU-SHIZUKU-E0033` remains the historical analytical default through EVENT_0079, with newly revealed first-year observations applied only to their depicted times. The next forward event is EVENT_0085. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
+Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. `REL-CROSS-MAFUYU-SHIZUKU-E0033` remains the historical analytical default through EVENT_0079, with newly revealed first-year observations applied only to their depicted times. The next forward event is EVENT_0088. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
 
 ## 1. Purpose
 
@@ -1684,3 +1684,10 @@ Preserve every other N25 human/group/manifestation default, including `REL-CROSS
 | Ena–Airi / bounded ordinary-contact increment | They discuss a gift for Minori, consider balance and agree to seek matching items. No completed purchase, recipient response or new mature dyad (`PJSK:area:areatalk_monthly2301_001:01`). |
 
 The immediate four-way exchange is Nene → Ichika → Kanade → Honami → Nene, distinct from later home-unit gifts. Preserve all other current IDs, latest relationship/epistemic I3 EVENT_0080 and E0077 corrections. Ichika/Honami, Nene/WxS and MMJ responsibilities remain deferred for their founded interpretation; Stage blanket care cannot be assigned to Empty Len. Next EVENT_0085.
+
+## EVENT_0087 relationship increment — an invitation need not offer novelty
+
+- **`REL-N25-VS-LEN-GROUP-E0061`: STRENGTHEN ordinary participation.** Len reports receiving Ena's loan, then initiates an invitation to Rin. Her prior familiarity with the book does not prevent agreement to accompany him. Keep Ena–Len and Rin–Len as bounded subentries within the existing manifestation/group responsibility; no new mature dyad or first shared-reading claim is warranted (`PJSK:area:areatalk_monthly2302_001:01:001:0002–0009`).
+- **`REL-FAMILY-ENA-AKITO-E0014`: PRESERVE with attributed characterization evidence.** Akito uses Ena as an example of someone who also cares about pancake presentation. His forecast of how such a customer might evaluate uneven shapes is not a shown disagreement with Ena, nor a new increase in resentment/intimacy (`PJSK:card:0600:01:001:0018–0027`).
+
+Rin's terse boredom explanation remains her stated framing; no hidden affection or hostile rejection is asserted. Shared reading completion and Ena's knowledge of the invitation remain unshown. Preserve every other human/group/manifestation default, including `REL-CROSS-MAFUYU-SHIZUKU-E0080` and `REL-N25-EM-5`. The other four unit systems remain deferred pending foundation. Next EVENT_0088.

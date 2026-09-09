@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic increments through EVENT_0084; learned craft knowledge, remote participation, delayed sensory access, bounded introductions and reported household acceptance"
-analysis_cutoff: "EVENT_0084 I2 event with bounded knowledge increments; latest relationship/epistemic I3 EVENT_0080; E0077 desire/disclosure corrections retained"
+source_boundary: "N25 epistemic increments through EVENT_0087; Empty Len learns Rin already knows the borrowed book yet accepts company; Ena lending/presentation remain attributed reports"
+analysis_cutoff: "EVENT_0087 I1 bounded knowledge increment; latest relationship/epistemic I3 EVENT_0080; E0077 desire/disclosure corrections retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic boundary is **EVENT_0084**, adding learned craft knowledge, remote collaboration and delayed sensory access, bounded introductions and reported household acceptance. Earlier direct disclosures and hypotheses retain their distinctions. No governing epistemic-state successor is required. EVENT_0080’s support offer, preserved causal ignorance and private recipient memory remain current; EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
+The latest integrated epistemic boundary is **EVENT_0087**, adding Empty Len/Rin book familiarity and accepted-company knowledge, plus bounded reports about Ena. EVENT_0084’s learned craft knowledge, remote collaboration, delayed sensory access, bounded introductions and reported household acceptance remain valid. Earlier direct disclosures and hypotheses retain their distinctions. No governing epistemic-state successor is required. EVENT_0080’s support offer, preserved causal ignorance and private recipient memory remain current; EVENT_0077’s correction to Ena’s knowledge and EVENT_0079’s Ena–Akito increment remain valid. Newly disclosed or depicted prior history is not automatic earlier participant knowledge. Earlier overview/pending statements remain historical handoffs.
 
-Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0085; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
+Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0088; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
 
 ## 1. Purpose
 
@@ -1444,3 +1444,13 @@ Only Classroom manifestations appear in the SEKAI scenes. Miku's relational read
 | Recipients / response plus attribution | Gifts can evoke care and personal associations without exact knowledge of the maker's intended scent meaning. | `PJSK:event:0084:05:001:0080–0104`; `PJSK:event:0084:06:001`; `PJSK:event:0084:08:003`. Scent-memory persistence remains Ichika's hope/heard theory. |
 
 Temporary gift-surprise secrets do not enter Mizuki's guarded-content domain. All aroma effects remain character descriptions/beliefs; no universal causal inference follows. Honami/Nene register adjustment is explicit and local, not a blanket shift in speech toward Kanade. Walks, further craft/teaching meetings, practice observation, string-figure play and the completed CD errand remain prospective unless separately shown. Stage KAITO/Len care is manifestation-specific. Preserve E0080's undisclosed causes and E0077's historical knowledge corrections. Next EVENT_0085.
+
+## EVENT_0087 epistemic increment — familiarity, permission and attributed knowledge
+
+| Knower / evidentiary level | Established content | Limit |
+|---|---|---|
+| Empty Len / direct participation | He reports borrowing Ena's book; learns Rin has already read it, then that she will join him. | Reading completion, book content, first occurrence and Ena's intent are unshown (`PJSK:area:areatalk_monthly2302_001:01:001:0003–0009`). |
+| Empty Rin / explicit report and choice | She knows this book and agrees to the invitation despite its familiarity. | Boredom is her stated reason; hidden affection or dislike is not disclosed (`PJSK:area:areatalk_monthly2302_001:01:001:0002–0008`). |
+| Akito speaking to Toya / attributed characterization | Ena is his example of someone wanting attractive pancake presentation too. | Predicted evaluation of irregular cakes is not an actual new Ena complaint; Ena/N25 are not shown hearing this conversation (`PJSK:card:0600:01:001:0018–0027`). |
+
+No new governing epistemic-state ID or human-secret disclosure. The shared reading separately preserves Toya's newly narrated childhood history, concealment of Street helpers from human acquaintances, seasonal surprise knowledge and Miku's corrected cooking beliefs. Those do not become N25 knowledge. All E0080/E0077 constraints remain. Next EVENT_0088.

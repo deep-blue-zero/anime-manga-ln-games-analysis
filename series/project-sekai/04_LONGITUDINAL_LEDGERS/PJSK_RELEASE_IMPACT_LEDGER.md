@@ -4,18 +4,18 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Universal documentary screening through EVENT_0086, N25 I0 closure; positive N25 integration remains EVENT_0084 I2"
+source_boundary: "Universal documentary screening and positive N25 integration through EVENT_0087 I1; latest I2 remains EVENT_0084"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "EVENT_0086 I0 documentary closure; positive N25 EVENT_0084 I2; latest relationship/epistemic I3 EVENT_0080 and human-state transition EVENT_0072"
+analysis_cutoff: "EVENT_0087 I1; latest I2 EVENT_0084, relationship/epistemic I3 EVENT_0080 and human-state transition EVENT_0072"
 ---
 
 # Project SEKAI Release Impact Ledger
 
 ## Current execution handoff
 
-The last completed forward event transaction is **EVENT_0086**; the next is **EVENT_0087**. Documentary screening reaches EVENT_0086, an N25 I0 closure. Positive N25 evidence remains EVENT_0084, an I2 supported nonmusical-competence and reciprocal-pleasure refinement; earlier increments remain valid. Latest relationship/epistemic I3 remains EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. `REL-N25-EM-5` and EVENT_0077’s desire/disclosure corrections remain current. The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
+The last completed forward event transaction is **EVENT_0087**; the next is **EVENT_0088**. Documentary screening and positive N25 evidence reach EVENT_0087 I1, with reported Ena lending/presentation and Empty Len/Rin companionship. Latest I2 remains EVENT_0084’s supported nonmusical-competence and reciprocal-pleasure refinement; earlier increments remain valid. Latest relationship/epistemic I3 remains EVENT_0080 with `REL-CROSS-MAFUYU-SHIZUKU-E0080`. `REL-N25-EM-5` and EVENT_0077’s desire/disclosure corrections remain current. The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package.
 
@@ -2289,3 +2289,37 @@ VBS PRIMARY/VERY_HIGH/R3-yield preserves Kohane's chosen solo, responsive audien
 WxS CROSS_UNIT/MEDIUM/R2-yield retains Nene's effort to visit unfamiliar places, new knowledge of Akito's retail work and unspoken impression of his social presentation (`PJSK:area:areatalk_monthly2304_002:01`). MMJ INCIDENTAL/LOW/R1-yield retains Minori waking Kohane at school without inventing a developmental change (`PJSK:event:0086:04:002:0002–0014`). All represented unfounded scopes remain deferred; Leo/need NONE. All singers are Street manifestations.
 
 N25 NONE/I0/R0: CHARACTER_STATE, RELATIONSHIP_STATE, EPISTEMIC_STATE, CLAIM_REVISION and THEME_AND_MOTIF remain byte-preserved at EVENT_0084. All current IDs, tuple and E0077 corrections remain. Documentary high-water EVENT_0086; next EVENT_0087. The 21 older universal screens, four foundations/material deferred integrations, principal-human reconstruction/readiness, warranted unit/specialist/full-series synthesis, final audits and final protected integration remain incomplete.
+
+## RI-EVENT-0087 — Never Give Up Cooking！
+
+```yaml
+release_id: EVENT_0087
+release_bucket: RB_20230228T060000Z
+complete_envelope: "8 core + 10 card halves + 11 archive-publication/event-unlock areas = 29"
+unit_relevance: VBS_PRIMARY_WXS_LEO_NEED_SECONDARY_N25_MMJ_CROSS_UNIT
+impact_scope: N25
+impact: I1
+reconstruction_yield_n25: R1
+integration_status: UNIVERSAL_SCREEN_COMPLETE_N25_I1_OTHER_SCOPES_DEFERRED
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0087_DEEP_READING.md
+other_represented_unit_impact: DEFERRED_PENDING_FOUNDATION
+character_state_delta: bounded_ordinary_evidence_no_successor
+relationship_delta: accepted_company_and_reported_lending_no_successor
+epistemic_delta: book_familiarity_and_accepted_invitation_no_governing_successor
+claim_delta: preserve_no_governing_revision
+theme_delta: none
+latest_positive_n25_evidence: EVENT_0087
+latest_i2_refinement: EVENT_0084
+latest_relationship_epistemic_i3: EVENT_0080
+latest_human_state_transition: EVENT_0072
+current_n25_tuple: "MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+next_candidate_operation: EVENT_0088
+```
+
+All 29 canonical stories are read and manifest/review-group matched. Cards 0600–0602 initially available 03:00Z, 0603–0604 06:00Z. Ten shuffle_29/monthly2302 areas are archive-published February 28, monthly2304_001 April 30; all eleven lack initial-availability buckets and independently carry chapter-8 condition 108608 / episode 1000704. Preparation, recalled childhood, successive failures/lessons, successful tasting, party and later outcomes retain separate narrative chronology.
+
+N25 CROSS_UNIT/LOW/R1 supplies I1: Empty Len reports Ena's book loan and invites Rin, who already knows it but accepts; Akito separately characterizes Ena's wish for attractive pancake presentation (`PJSK:area:areatalk_monthly2302_001:01:001:0002–0009`; `PJSK:card:0600:01:001:0018–0027`). The loan is reported, invitation/acceptance direct, completed reading unshown; Akito's hypothetical comparison is not Ena's new complaint. CHARACTER_STATE, RELATIONSHIP_STATE and EPISTEMIC_STATE receive bounded increments; CLAIM_REVISION and THEME_AND_MOTIF remain byte-preserved at EVENT_0084. No state/claim/theme ID is added.
+
+VBS PRIMARY/VERY_HIGH/R3-yield preserves gratitude, learned skill, family memory and fallible/repaired assistance. WxS SECONDARY/HIGH/R3-yield preserves responsive care and context-sensitive hospitality; Leo/need SECONDARY/HIGH/R2-yield retains Saki's initiative/labor and Classroom singer uncertainty. MMJ CROSS_UNIT/MEDIUM/R2-yield retains Stage equipment/practice burden and requested help. All four impacts await foundation. All five manifestation systems are represented and kept distinct. No cooking/nutrition claim is promoted beyond fictional attribution.
+
+Documentary/positive N25 frontier EVENT_0087; next EVENT_0088. Latest I2 EVENT_0084, relationship/epistemic I3 EVENT_0080, human transition EVENT_0072 and all current IDs/tuple/E0077 corrections remain. Twenty-one older universal screens, four foundations/deferred integrations, principal-human packages/readiness, unit/specialist/full-series synthesis, final audits and final protected integration remain incomplete.
