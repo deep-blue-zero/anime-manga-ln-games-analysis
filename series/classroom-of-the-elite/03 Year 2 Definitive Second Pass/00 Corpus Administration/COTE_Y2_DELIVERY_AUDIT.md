@@ -13,13 +13,13 @@ do_not_use_as_current_authority: false
 
 # Year 2 V2 delivery audit
 
-**PASS — local content, preservation and package checks.** Release state: `prepared_for_publication`. Remote publication verification is recorded separately for the exact branch head; this report does not claim CI success before it has been observed.
+**PASS — local content, preservation and package checks.** Release state: `frozen`. Remote publication verification is recorded separately for the exact branch head; this report does not claim CI success before it has been observed.
 
 - 167 core artifacts; 172 total package members, including release envelopes.
 - Seventeen source-local artifacts match the starting boundary byte-for-byte.
 - Seventeen source identities; 2,697 preserved evidence IDs; 43 Japanese retrieval entries; 23 calibrated protocol cases.
 - Thirteen specialist/index slots and the full synthesis are canonical through Y2SL.
-- UTF-8, YAML/JSON, declared package membership, 612 internal file links and 4 heading anchors pass.
+- UTF-8, YAML/JSON, declared package membership, 614 internal file links and 4 heading anchors pass.
 - No new long verbatim analytical-paragraph duplication, forbidden placeholder or chat wrapper was found. 0 pre-existing long-repetition groups are preserved and individually identified in the machine audit.
 - No primary-source binaries, Year-3 narrative analysis, extracted artwork, raw chapter exports or private work files are included.
 

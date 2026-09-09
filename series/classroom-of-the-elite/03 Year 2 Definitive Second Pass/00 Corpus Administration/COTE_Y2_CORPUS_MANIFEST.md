@@ -13,7 +13,7 @@ do_not_use_as_current_authority: false
 
 # Year 2 V2 corpus manifest
 
-Release `COTE_Y2_V2_2026-09-09`; state `prepared_for_publication`. Start with the [README](../05%20Year-Level%20Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md). The manifest covers 167 core artifacts plus the generated release envelopes listed below. All paths preserve repository-relative layout in the archive.
+Release `COTE_Y2_V2_2026-09-09`; state `frozen`. Start with the [README](../05%20Year-Level%20Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md). The manifest covers 167 core artifacts plus the generated release envelopes listed below. All paths preserve repository-relative layout in the archive.
 
 Year 2 analysis and infrastructure, governing methods, and unchanged Year 1 analytical reference foundation. No Year 3 narrative or primary-source binaries. The Year 3 method is administrative preparation only. Embedded older Year 1 checksums remain historical; this release checksum inventory binds the actual packaged bytes.
 
@@ -968,9 +968,9 @@ All core records carry the architecture-required filename, type, source boundary
 
 - path: [series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_PROJECT_STATUS.md](COTE_Y2_PROJECT_STATUS.md)
 - type: `current_state_and_corpus_map`; status: "canonical"
-- source boundary: "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings and closeout analysis complete; prepared release awaiting exact publication verification"
+- source boundary: "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings and closeout analysis complete; frozen release through Y2SL; Year-3 eligibility recorded for a later execution"
 - primary home: "current_state_and_corpus_map"; group: `Year_2_release`
-- words: 5242; bytes: 50350; SHA-256: `a8782275e82069366dfdb7115c32b826bc0d9650512e8eca48fc0fda5af4ec3a`
+- words: 5271; bytes: 50520; SHA-256: `e0c256faffb23ae79f1d7a2dcb20abc29b9fb896b9b2f43f61ca4a7098259fe8`
 - supersession: {"supersedes": [], "superseded_by": []}
 
 ## COTE_Y2_SOURCE_CHECKSUMS.sha256
@@ -985,10 +985,10 @@ All core records carry the architecture-required filename, type, source boundary
 ## COTE_Y2_V2_ARCHIVAL_LOCK.md
 
 - path: [series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/00 Corpus Administration/COTE_Y2_V2_ARCHIVAL_LOCK.md](COTE_Y2_V2_ARCHIVAL_LOCK.md)
-- type: `archival_lock`; status: "active_provisional"
+- type: `archival_lock`; status: "canonical"
 - source boundary: "Y2SL"
 - primary home: "Classroom of the Elite — Year 2 V2 Archival Lock"; group: `Year_2_release`
-- words: 465; bytes: 4050; SHA-256: `0333118112bcb6cc71477d769b715f7344dcf2d934a9647f8b2dd44abcb94a2d`
+- words: 500; bytes: 4396; SHA-256: `40eec72113d573c6ff3182b120a85709bd9a3f0f205f1af5919974cdd153b94c`
 - supersession: {"supersedes": [], "superseded_by": []}
 
 ## COTE_V00_RETROSPECTIVE_DEEP_READING.md
@@ -1393,7 +1393,7 @@ All core records carry the architecture-required filename, type, source boundary
 - type: `corpus_map`; status: "canonical"
 - source boundary: "Japanese Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position after Y2V08 + Second List after Y2V12.5"
 - primary home: "Y2_00"; group: `Year_2_release`
-- words: 7837; bytes: 71676; SHA-256: `5003baa24e89ef9a6421cf2b6673d3953073a974c97a59acd07f5c13f644927f`
+- words: 7933; bytes: 72459; SHA-256: `faf90046cd590519b18097fee087ce75b3cbbb9b222d16a35b4e08fa1ec1f695`
 - supersession: {"supersedes": [], "superseded_by": []}
 
 ## COTE_Y2_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md
@@ -1402,7 +1402,7 @@ All core records carry the architecture-required filename, type, source boundary
 - type: `year_level_specialist_synthesis`; status: "canonical"
 - source boundary: "Japanese Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position after Y2V08 + Second List after Y2V12.5"
 - primary home: "Y2_01"; group: `Year_2_release`
-- words: 13659; bytes: 100400; SHA-256: `332671004ca2637e82979fb7daad1980c63e2e3af1fabb15b0c14d03acd09bec`
+- words: 13659; bytes: 100393; SHA-256: `134c1b56f286cadac8376ace50d872f4849e06bd4d099acd8b1786d6e27fc7ca`
 - supersession: {"supersedes": [], "superseded_by": []}
 
 ## COTE_Y2_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md

@@ -20,13 +20,13 @@ authority_state: canonical
 source_boundary: "Japanese Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position after Y2V08 + Second List after Y2V12.5"
 spoiler_boundary: "through Year 2 Second List only; Year 3 narrative evidence excluded"
 reader_entrypoint: COTE_Y2_00_README_AND_CORPUS_MAP.md
-operational_entrypoint: COTE_Y2_PROJECT_STATUS.md
+operational_entrypoint: COTE_Y2_00_README_AND_CORPUS_MAP.md
 source_lock: COTE_Y2_SOURCE_INVENTORY_AND_LOCK.md
 handoff_tracker: COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md
 retrospective_primary_fiction: COTE_V00_RETROSPECTIVE_DEEP_READING.md
 paratext_boundary: COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md
-release_state: active_synthesis_build
-frozen_release: false
+release_state: frozen
+frozen_release: true
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

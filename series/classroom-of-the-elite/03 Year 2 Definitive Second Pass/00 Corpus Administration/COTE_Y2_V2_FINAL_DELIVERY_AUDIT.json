@@ -1,7 +1,7 @@
 {
   "schema": "cote-y2-final-delivery-audit-v1",
   "release_id": "COTE_Y2_V2_2026-09-09",
-  "release_state": "prepared_for_publication",
+  "release_state": "frozen",
   "result": "PASS_LOCAL_CONTENT_AND_PACKAGE",
   "publication_verification": "See exact-commit external release receipt; this deterministic content audit makes no unobserved CI claim",
   "core_artifact_count": 167,
@@ -17,7 +17,7 @@
   "full_synthesis_present": true,
   "utf8": "PASS",
   "yaml_json": "PASS",
-  "internal_file_links_checked": 612,
+  "internal_file_links_checked": 614,
   "heading_anchors_checked": 4,
   "link_errors": [],
   "forbidden_wrappers_or_placeholders": [],

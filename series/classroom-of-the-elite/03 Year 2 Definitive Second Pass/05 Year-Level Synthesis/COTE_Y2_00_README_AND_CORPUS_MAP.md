@@ -31,8 +31,8 @@ updated_at: "2026-09-09"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-release_state: prepared_for_publication
-mutable_until: "Exact branch-publication verification and final archival lock; analytical and local administrative closeout complete"
+release_state: frozen
+mutable_until: "Closed by verified Year-2 archival lock; later corrections require an explicit new revision"
 finalization_rule: "This routing map is intentionally created before the specialist corpus under the current project-state instruction, but the architecture's README-last rule still governs finalization: update this same file in place after specialist/full synthesis stabilizes, then freeze it as the Year-2 first-read entrypoint."
 ---
 
@@ -42,7 +42,7 @@ finalization_rule: "This routing map is intentionally created before the special
 
 > **START HERE FOR THE COMPLETED YEAR-2 CORPUS**
 >
-> This is the canonical first-read Year-2 entrypoint, finalized in place after the completed analytical and local administrative layers. `COTE_Y2_PROJECT_STATUS.md` preserves operational history and release status. The prepared release remains subject to exact branch-publication verification before archival freezing and Year-3 eligibility.
+> This is the canonical first-read Year-2 entrypoint, finalized in place after the completed analytical and local administrative layers. `COTE_Y2_PROJECT_STATUS.md` preserves operational history and release status. The corpus is frozen after verification of the published prepared release. The existing Year-3 gate records eligibility for a later bootstrap; no Year-3 narrative analysis has begun.
 >
 > This file is **not another full synthesis**. It tells a reader what the Year-2 corpus contains, which artifacts own which questions, how Volume 0 and *Second List* are allowed to affect interpretation, which conclusions are current at `Y2SL`, what remains analytically open, and how the publication gate is verified.
 
@@ -357,7 +357,7 @@ For **where a Year-2 question belongs**, use this file:
 
 `COTE_Y2_00_README_AND_CORPUS_MAP.md`
 
-This README is canonical. Final freezing awaits the exact publication checks recorded in the archival-lock process.
+This README is canonical and frozen. The archival lock records the verified publication basis; the release receipt binds the exact delivered head and archive.
 
 ## 6.3 Current-state character, relationship, polity, institution, exam, ability, voice, ethics, ordinary-life questions
 
@@ -510,7 +510,7 @@ Therefore:
 
 - do not create a second “final” README later;
 - the same file has been updated in place after Y2_01–Y2_13 and the full synthesis stabilized;
-- canonical routing is complete; final freezing follows verified publication during the Year-2 release audit.
+- canonical routing and final freezing are complete after verified publication during the Year-2 release audit.
 
 ---
 
@@ -1289,11 +1289,12 @@ The current corpus also preserves, rather than prematurely closes:
 
 The earlier point-surface issue is **resolved**: direct inspection identifies `Y2SL-E085` as the younger first-year cohort during Ayanokōji's Year 2. Its values are not a competing `Y1FF` record. [Y2_10 section 6](COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md#6-resolved-source-surface-issue-y2sl-e085-identifies-a-different-cohort) owns the correction. [Y2_12](COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md) also routes the V01 companion correction to Nanase and the corrected transfer destination in Sakayanagi's former class. None of these repairs changes an inherited open-question state.
 
-## 19.3 Year 3 remains locked
+<a id="193-year-3-remains-locked"></a>
+## 19.3 Year 3 is eligible for later bootstrap
 
 **No Year-3 narrative evidence may enter Year-2 specialist synthesis.**
 
-The Year-3 lock remains in force until all of the following are complete:
+The following closure requirements are complete; the verified publication basis is recorded in the [archival lock](../00%20Corpus%20Administration/COTE_Y2_V2_ARCHIVAL_LOCK.md):
 
 1. `Y2_01–Y2_13` specialist corpus;
 2. `COTE_Y2_FULL_SYNTHESIS.md`;
@@ -1301,13 +1302,16 @@ The Year-3 lock remains in force until all of the following are complete:
 4. protocol-vs-specialist audit and any necessary protocol revision;
 5. corpus map / manifest / checksum audit;
 6. next-year handoff;
-7. administrative verification and explicit unlock.
+7. administrative verification and explicit eligibility recording.
+
+The existing `year3_unlock: true` value below means eligibility for **a later execution** to bootstrap Year 3, not that narrative analysis has started. The next permitted source is Y3V01 under [COTE_Y3_ANALYTICAL_METHOD_V2.md](../../00%20Frameworks%20and%20Methods/COTE_Y3_ANALYTICAL_METHOD_V2.md). Preserve all Year-2 boundaries and unanswered handoff tests.
 
 ---
 
 # 20. Current release state and fingerprints
 
-## 20.1 Active state
+<a id="201-active-state"></a>
+## 20.1 Frozen release state
 
 Current state:
 
@@ -1319,8 +1323,8 @@ reconstruction_protocol: canonical_audited
 specialist_synthesis: Y2_01_through_Y2_13_canonical_complete
 full_synthesis: canonical_complete
 evidence_index_consolidation: canonical_complete
-final_manifest_checksums: complete_for_prepared_release
-year3_unlock: false
+final_manifest_checksums: canonical_complete
+year3_unlock: true
 ```
 
 ## 20.2 Key current artifacts
@@ -1365,10 +1369,10 @@ The architecture-defined production sequence is preserved below with its current
 13. **completed/canonical:** `COTE_Y2_FULL_SYNTHESIS.md`;
 14. **completed:** protocol-vs-specialist/full audit and checksum integration;
 15. **completed:** evidence and Japanese index consolidation;
-16. **completed locally:** manifest, checksums, corpus index, delivery audit, handoff and README-last routing update;
-17. **remaining:** exact publication verification, final archival freezing and Year-3 eligibility recording.
+16. **completed:** manifest, checksums, corpus index, delivery audit, handoff and README-last routing update;
+17. **completed:** prepared-state publication verification, final archival freezing and Year-3 eligibility recording; the delivery receipt binds the final published revision.
 
-All analytical responsibilities are complete. The remaining release operation verifies the exact published branch state before final freezing; the next narrative operation, Y3V01, belongs to a later execution.
+All Year-2 closeout responsibilities are complete. The final release receipt binds the delivered branch head, successful audit and immutable archive. The next narrative operation, Y3V01, belongs to a later execution.
 
 ---
 
@@ -1391,6 +1395,6 @@ For historical Year-1 truth, route sideways into the frozen Year-1 corpus rather
 
 For novel-scenario reconstruction, route **downstream** from canonical analysis into the behavioral reconstruction protocol and preserve abstention when the evidence is too thin.
 
-For future Year-3 work, do nothing until the explicit Year-3 unlock is recorded.
+For future Year-3 work, the gate is now eligible. Begin only in a later execution from Y3V01 under the governing method; this Year-2 release contains no Year-3 narrative findings.
 
 > **One corpus, one temporal record, one authority chain: preserve what was knowable locally, state what is knowable at Y2SL, and leave future truth to future evidence.**

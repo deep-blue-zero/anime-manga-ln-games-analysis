@@ -5,7 +5,7 @@ scope: Y2
 generation: V2
 status: canonical
 authority_state: canonical
-source_boundary: "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings and closeout analysis complete; prepared release awaiting exact publication verification"
+source_boundary: "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings and closeout analysis complete; frozen release through Y2SL; Year-3 eligibility recorded for a later execution"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -28,7 +28,7 @@ This is the canonical operational history and release-status record for the Year
 
 Current reader-level authority endpoint: **through Y2SL**, with Volume 0 retained at the mandated retrospective position between Y2V08 and Y2V09 and `Second List` retained after Y2V12.5 as paratext rather than retroactively injected into the immutable volume-local artifacts.
 
-The Year-2 analytical and local administrative closeout is complete. **The remaining operation is exact branch-publication verification and final freezing. Year 3 remains locked until that verification is complete.**
+The Year-2 analytical and administrative closeout is complete. **Year 2 is frozen through Y2SL. The existing Year-3 gate is eligible for a later bootstrap, and no Year-3 analysis has started.**
 
 ## Canonical source sequence
 `Y2V01 -> Y2V02 -> Y2V03 -> Y2V04 -> Y2V04.5 -> Y2V05 -> Y2V06 -> Y2V07 -> Y2V08 -> V00 -> Y2V09 -> Y2V09.5 -> Y2V10 -> Y2V11 -> Y2V12 -> Y2V12.5 -> Y2SL`
@@ -280,10 +280,10 @@ The Year-2 project now has a dedicated synthesis home:
   - Drive ID: `1IgFKyXNHZrzv6OHLMJT8n-yPGsr3OB3c`
   - SHA-256: `f6a6bb292fadeb29b3f846fdba90a30191e70186d7ef6f943a52ee9010b6a667`
   - bytes: `63323`
-  - status: `canonical`; prepared release awaiting exact remote verification
+  - status: `canonical`; frozen Year-2 first-read entrypoint
   - boundary: `Y2SL`; Year 3 narrative evidence excluded
   - responsibility: reader-facing Year-2 synthesis-layer orientation, authority map, retrieval guide, corpus map, open-question routing, and release-state map
-  - authority relationship: `Y2_00` is now the first-read Year-2 entrypoint, updated in place after the analytical and administrative layers. This status file preserves the operational history. Final archive freezing awaits exact remote verification.
+  - authority relationship: `Y2_00` is now the first-read Year-2 entrypoint, updated in place after the analytical and administrative layers. This status file preserves the operational history. Final archive freezing follows the verified prepared-release publication recorded in the archival lock.
 
 ### Canonical `Y2_01` specialist
 
@@ -428,16 +428,13 @@ The Year-2 project now has a dedicated synthesis home:
 - [COTE_Y2_FULL_SYNTHESIS.md](../05%20Year-Level%20Synthesis/COTE_Y2_FULL_SYNTHESIS.md)
   - status: `canonical`; boundary `Y2SL`; Year-3 evidence excluded
   - responsibility: continuous integration of the completed specialist model, including capacity, authorship of purpose, answerability, character/relationship development, class succession, institutions, Japanese form, retrospective limits, counterarguments and surviving questions
-  - all thirteen specialist slots, the full synthesis, protocol audit and local release administration are complete; verified branch publication remains required before closure eligibility
+  - all thirteen specialist slots, the full synthesis, protocol audit and local release administration are complete; prepared branch publication has been verified, and the final freeze/eligibility state is recorded in the README and archival lock
 
 ## Next architecture-defined step
-**Verify the prepared release after branch publication, then record the final freeze.**
+**Year-2 closeout complete. In a later execution, bootstrap Year 3 from Y3V01 under the governing method.**
 
 `Y2_01` owns the canonical Year-2 causal spine, `Y2_02` the integrated Ayanokōji psychology/ethics/voice argument, `Y2_03` Horikita leadership/self-authorship/class formation, `Y2_04` the directed relationship system, `Y2_05` the comparative four-polity constitutional argument, `Y2_06` the integrated ability/meritocracy/measurement/points/examination argument, `Y2_07` the institutional-governance/surveillance/adult-power/White-Room argument, `Y2_08` the integrated ethics/autonomy/protection/expulsion/violence argument, and `Y2_09` the integrated Japanese narration/written-voice/genre/humor/visual-paratext argument. `Y2_10` now owns retrospective claim transitions and the direct cohort-routing correction. `Y2_11` now owns the comparative matrices and analytical handoff. `Y2_12` now owns evidence routing and source-locator verification. `Y2_13` now owns the consolidated Japanese-language passage index. `COTE_Y2_FULL_SYNTHESIS.md` now integrates that model without replacing the specialist primary homes. The [protocol closeout audit](../04%20Source%20Maps%20and%20Support/COTE_Y2_RECONSTRUCTION_PROTOCOL_CLOSEOUT_AUDIT.md) confirms all 23 cases with their existing limits. Current evidence/language routes and the twelve Y2H nonclosure gates are integrated; canonical protocol promotion and archival checksum integration are complete.
 
-Remaining closeout sequence:
-1. publish the exact validated prepared release and verify remote blobs, current-main ancestry, housekeeping and Repository integration audit;
-2. record final freezing and Year-3 eligibility only after those conditions pass, regenerate the final checksum envelopes and verify the resulting published head;
-3. stop at Y2SL; Y3V01 belongs to a later execution.
+Closure sequence completed: analytical synthesis and indexes; protocol audit; source/artifact manifests and package; README-last routing; published prepared-state verification at `d6d1ea5416fd462cba4f6395faffde51edb52bbf`; final freeze and Year-3 eligibility. The final release receipt records the exact delivered head and its own successful publication audit. No Year-3 narrative source was used, and the branch was not merged to main by this task.
 
 The [manifest](COTE_Y2_CORPUS_MANIFEST.md), [machine index](COTE_Y2_CORPUS_INDEX.json), [source checksums](COTE_Y2_SOURCE_CHECKSUMS.sha256), [artifact checksums](COTE_Y2_ARTIFACT_CHECKSUMS.sha256), [delivery audit](COTE_Y2_DELIVERY_AUDIT.md) and [archival-lock record](COTE_Y2_V2_ARCHIVAL_LOCK.md) own the release inventory and verification boundary.

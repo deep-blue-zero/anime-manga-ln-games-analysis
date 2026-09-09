@@ -1,7 +1,7 @@
 {
   "schema": "cote-y2-corpus-index-v1",
   "release_id": "COTE_Y2_V2_2026-09-09",
-  "release_state": "prepared_for_publication",
+  "release_state": "frozen",
   "source_boundary": "Y2SL",
   "current_entrypoint": "series/classroom-of-the-elite/03 Year 2 Definitive Second Pass/05 Year-Level Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md",
   "core_artifact_count": 167,
@@ -1795,12 +1795,12 @@
     {
       "filename": "COTE_Y2_PROJECT_STATUS.md",
       "artifact_type": "current_state_and_corpus_map",
-      "source_boundary": "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings and closeout analysis complete; prepared release awaiting exact publication verification",
+      "source_boundary": "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings and closeout analysis complete; frozen release through Y2SL; Year-3 eligibility recorded for a later execution",
       "status": "canonical",
-      "word_count": 5242,
+      "word_count": 5271,
       "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
-      "byte_count": 50350,
-      "sha256": "a8782275e82069366dfdb7115c32b826bc0d9650512e8eca48fc0fda5af4ec3a",
+      "byte_count": 50520,
+      "sha256": "e0c256faffb23ae79f1d7a2dcb20abc29b9fb896b9b2f43f61ca4a7098259fe8",
       "supersession_relation": {
         "supersedes": [],
         "superseded_by": []
@@ -1830,11 +1830,11 @@
       "filename": "COTE_Y2_V2_ARCHIVAL_LOCK.md",
       "artifact_type": "archival_lock",
       "source_boundary": "Y2SL",
-      "status": "active_provisional",
-      "word_count": 465,
+      "status": "canonical",
+      "word_count": 500,
       "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
-      "byte_count": 4050,
-      "sha256": "0333118112bcb6cc71477d769b715f7344dcf2d934a9647f8b2dd44abcb94a2d",
+      "byte_count": 4396,
+      "sha256": "40eec72113d573c6ff3182b120a85709bd9a3f0f205f1af5919974cdd153b94c",
       "supersession_relation": {
         "supersedes": [],
         "superseded_by": []
@@ -2596,10 +2596,10 @@
       "artifact_type": "corpus_map",
       "source_boundary": "Japanese Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position after Y2V08 + Second List after Y2V12.5",
       "status": "canonical",
-      "word_count": 7837,
+      "word_count": 7933,
       "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
-      "byte_count": 71676,
-      "sha256": "5003baa24e89ef9a6421cf2b6673d3953073a974c97a59acd07f5c13f644927f",
+      "byte_count": 72459,
+      "sha256": "faf90046cd590519b18097fee087ce75b3cbbb9b222d16a35b4e08fa1ec1f695",
       "supersession_relation": {
         "supersedes": [],
         "superseded_by": []
@@ -2615,8 +2615,8 @@
       "status": "canonical",
       "word_count": 13659,
       "word_count_method": "UTF-8 whitespace-delimited tokens including metadata; not a Japanese linguistic word count",
-      "byte_count": 100400,
-      "sha256": "332671004ca2637e82979fb7daad1980c63e2e3af1fabb15b0c14d03acd09bec",
+      "byte_count": 100393,
+      "sha256": "134c1b56f286cadac8376ace50d872f4849e06bd4d099acd8b1786d6e27fc7ca",
       "supersession_relation": {
         "supersedes": [],
         "superseded_by": []

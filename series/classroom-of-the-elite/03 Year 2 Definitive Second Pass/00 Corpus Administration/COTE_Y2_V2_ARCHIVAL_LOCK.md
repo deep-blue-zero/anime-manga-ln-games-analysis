@@ -4,10 +4,10 @@ series: COTE
 artifact_type: archival_lock
 scope: Y2
 generation: V2
-status: active_provisional
-authority_state: active_provisional
+status: canonical
+authority_state: canonical
 source_boundary: Y2SL
-release_state: prepared_for_publication
+release_state: frozen
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -16,11 +16,13 @@ updated_at: "2026-09-09"
 
 # Year 2 V2 archival lock
 
-The analytical corpus is complete through Second List. This prepared release binds the seventeen source-local records, nineteen rolling-ledger files (seventeen topical/current-state roles, the Volume-0 revision ledger and the inherited-question tracker), thirteen specialist/index slots, full synthesis, audited reconstruction protocol and release infrastructure. The source-local records remain byte-identical to the verified starting boundary.
+The analytical corpus is complete through Second List. This frozen release binds the seventeen source-local records, nineteen rolling-ledger files (seventeen topical/current-state roles, the Volume-0 revision ledger and the inherited-question tracker), thirteen specialist/index slots, full synthesis, audited reconstruction protocol and release infrastructure. The source-local records remain byte-identical to the verified starting boundary.
 
 ## Publication gate
 
-Release preparation is complete; final freezing and the existing `year3_unlock` state in the [README](../05%20Year-Level%20Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md#201-active-state) remain conditional on successful publication and exact remote verification. A local manifest or passing author preflight alone does not establish integration readiness. The final remote head must pass Repository integration audit after housekeeping and current-main reconciliation. The release receipt records that exact head outside the committed corpus to avoid a self-referential commit hash.
+The prepared corpus was published and verified at commit `d6d1ea5416fd462cba4f6395faffde51edb52bbf`, including exact changed-blob readback, current-main ancestry, completed housekeeping and a successful [Repository integration audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/34310028535). All analytical and administrative requirements were satisfied before this final freeze was recorded. The existing `year3_unlock` state in the [README](../05%20Year-Level%20Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md#201-active-state) therefore records eligibility for later Year-3 bootstrap.
+
+This final metadata/checksum revision is subject to its own exact remote readback and successful integration audit before delivery. The external release receipt binds that final head, archive SHA-256 and CI evidence without embedding a self-referential commit hash. No merge to main or Year-3 narrative analysis is performed by this release task.
 
 Year-3 narrative evidence is absent. Eligibility to open the later gate never means that this task has started Year 3. After verified closure, the next permitted analytical operation belongs to a later execution: bootstrap and sequential analysis from Y3V01 under COTE_Y3_ANALYTICAL_METHOD_V2.md.
 
