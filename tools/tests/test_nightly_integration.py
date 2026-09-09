@@ -2,7 +2,9 @@ from __future__ import annotations
 
 import copy
 import hashlib
+import io
 import json
+import os
 import subprocess
 import sys
 import tempfile
@@ -14,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / 'tools'))
 from nightly_integration import (
     AUDIT, AUDIT_WORKFLOW, AUTHOR, COMMITTER, GENERATED, OWNER, REPOSITORY,
-    ApiError, Blocked, GitHub, Graph, Halt, Integrator, protection_method, scoped_paths,
+    ApiError, Blocked, GitError, GitHub, Graph, Halt, Integrator, main, protection_method, scoped_paths,
 )
 from character_index_core import GitSnapshot, SnapshotEntry
 from validate_repository import validate_nightly_integration
@@ -57,8 +59,13 @@ class FakeAPI:
         state = ('failure' if self.post_failure else 'success') if sha == M else self.source_status
         return {'id': 12 if sha == M else 1, 'state': state}
 
-    def audit_run(self, sha, status):
-        return {'event': 'repository_dispatch', 'actor': {'login': OWNER if sha == M else 'github-actions[bot]'}}
+    def audit_statuses(self, sha):
+        status = self.status(sha)
+        return [status] if status else []
+
+    def audit_run(self, sha, status, *, require_success=True):
+        return {'event': 'repository_dispatch', 'conclusion': 'success',
+                'actor': {'login': OWNER if sha == M else 'github-actions[bot]'}}
 
     def request(self, method, path, payload=None):
         if method != 'GET':
@@ -266,6 +273,27 @@ class ControllerTests(unittest.TestCase):
         self.assertEqual(row['final_source_sha'], G)
         self.assertEqual(worker.api.writes[0][2]['sha'], G)
 
+    def test_ambiguous_push_is_read_back_before_proceeding_or_halting(self):
+        for published in (True, False):
+            with self.subTest(published=published):
+                worker = self.worker()
+                worker.graph.ancestor.side_effect = lambda base, head: base == B and head == G
+                worker.graph.reconcile_commit.return_value = G
+                def pushed(*args):
+                    if published:
+                        worker.api.source = G
+                        worker.api.pr['head']['sha'] = G
+                    raise GitError('push', 1)
+                worker.graph.push.side_effect = pushed
+                worker.generated_child = mock.Mock(return_value=False)
+                if published:
+                    self.assertEqual(worker.process('series/a', S, B, {}), M)
+                else:
+                    with self.assertRaises(GitError):
+                        worker.process('series/a', S, B, {})
+                    self.assertEqual(worker.api.writes, [])
+                self.assertEqual(worker.graph.push.call_count, 1)
+
     def test_no_content_change_produces_no_remote_write(self):
         worker = self.worker()
         worker.graph.merge_tree.return_value = 'f' * 40
@@ -289,8 +317,130 @@ class ControllerTests(unittest.TestCase):
             worker.process('series/a', S, B, {})
         self.assertEqual(worker.api.writes, [])
 
+    def test_post_merge_dispatch_is_not_hidden_by_a_later_push_success(self):
+        worker = self.worker()
+        api = GitHub('test')
+        worker.api = api
+        def status(identifier, run_id, state='success'):
+            return {'id': identifier, 'context': AUDIT, 'state': state,
+                    'creator': {'login': 'github-actions[bot]'},
+                    'target_url': f'https://github.com/{REPOSITORY}/actions/runs/{run_id}'}
+        push, dispatched = status(14, 41), status(13, 42)
+        api.pages = mock.Mock(return_value=[push, dispatched])
+        runs = {
+            'actions/runs/41': {'path': AUDIT_WORKFLOW, 'event': 'push', 'head_sha': M,
+                               'actor': {'login': OWNER}, 'conclusion': 'success'},
+            'actions/runs/42': {'path': AUDIT_WORKFLOW, 'event': 'repository_dispatch',
+                               'actor': {'login': OWNER}, 'conclusion': 'success'},
+        }
+        api.request = mock.Mock(side_effect=lambda method, path: runs[path])
+        with mock.patch('nightly_integration.time.sleep', side_effect=AssertionError('unexpected wait')):
+            worker.wait_post_merge(M, 12)
+        api.pages.assert_called_once_with(f'commits/{M}/statuses')
+
+        # An older good dispatch cannot override a failure or pending result.
+        for target, state, conclusion in (
+            (push, 'failure', 'success'), (push, 'error', 'success'),
+            (dispatched, 'failure', 'failure'), (dispatched, 'success', 'cancelled'),
+        ):
+            with self.subTest(target=target['id'], state=state, conclusion=conclusion):
+                target['state'] = state
+                runs['actions/runs/42']['conclusion'] = conclusion
+                with self.assertRaisesRegex(Halt, 'post-merge audit failed'):
+                    worker.wait_post_merge(M, 12)
+                target['state'] = 'success'
+                runs['actions/runs/42']['conclusion'] = 'success'
+
+        for case in ('pending_push', 'pending_dispatch', 'old_dispatch', 'push_only',
+                     'wrong_actor', 'wrong_workflow', 'wrong_reporter'):
+            with self.subTest(case=case):
+                rows = copy.deepcopy([push, dispatched])
+                run = runs['actions/runs/42']
+                original = copy.deepcopy(run)
+                if case == 'pending_push':
+                    rows[0]['state'] = 'pending'
+                elif case == 'pending_dispatch':
+                    rows[1]['state'] = 'pending'
+                    run['conclusion'] = None
+                elif case == 'old_dispatch':
+                    rows[1]['id'] = 12
+                elif case == 'push_only':
+                    rows.pop()
+                elif case == 'wrong_actor':
+                    run['actor'] = {'login': 'github-actions[bot]'}
+                elif case == 'wrong_workflow':
+                    run['path'] = '.github/workflows/other.yml'
+                else:
+                    rows[1]['creator']['login'] = 'someone-else'
+                api.pages.return_value = rows
+                clock = [0]
+                with mock.patch('nightly_integration.time.monotonic', side_effect=lambda: clock[0]), \
+                        mock.patch('nightly_integration.time.sleep', side_effect=lambda _: clock.__setitem__(0, 1801)):
+                    with self.assertRaisesRegex(Halt, 'did not finish'):
+                        worker.wait_post_merge(M, 12)
+                runs['actions/runs/42'] = original
+
+
+class PreviewResultTests(unittest.TestCase):
+    def invoke(self, mode, failure):
+        # Run the real CLI/result/report path, with only network and Git mocked.
+        worker = Integrator(FakeAPI(), graph_mock(), preview=mode == 'preview', controller_sha=B)
+        worker.preflight = mock.Mock(return_value=B)
+        worker.process = mock.Mock(side_effect=[failure, B])
+        with tempfile.TemporaryDirectory() as directory:
+            previous = Path.cwd()
+            try:
+                os.chdir(directory)
+                with mock.patch.dict(os.environ, {
+                    'GITHUB_REPOSITORY': REPOSITORY, 'GITHUB_SHA': B,
+                    'GITHUB_REF': 'refs/heads/main', 'GITHUB_ACTIONS': 'true',
+                    'OWNER_TOKEN': 'test', 'GITHUB_STEP_SUMMARY': '',
+                }), mock.patch.object(sys, 'argv', ['nightly_integration', '--mode', mode]), \
+                        mock.patch('nightly_integration.Graph'), \
+                        mock.patch('nightly_integration.Integrator', return_value=worker), \
+                        mock.patch('sys.stdout', new_callable=io.StringIO) as output:
+                    result = main()
+                report = json.loads(Path('nightly-integration-report.json').read_text())
+            finally:
+                os.chdir(previous)
+        return result, report, output.getvalue(), worker
+
+    def test_preview_deferral_warns_continues_and_succeeds(self):
+        result, report, output, worker = self.invoke('preview', Blocked('Audit pending 50%\r\nsecond line'))
+        self.assertEqual(result, 0)
+        self.assertTrue(report['preview'])
+        self.assertEqual(report['branches'][0]['outcome'], 'blocked')
+        self.assertEqual(worker.process.call_count, 2)
+        self.assertIn('::warning::series/a: Audit pending 50%25%0D%0Asecond line\n', output)
+        self.assertEqual(worker.api.writes, [])
+        worker.graph.push.assert_not_called()
+
+    def test_apply_deferral_still_fails(self):
+        result, report, output, worker = self.invoke('apply', Blocked('Audit pending'))
+        self.assertEqual(result, 1)
+        self.assertFalse(report['preview'])
+        self.assertEqual(worker.process.call_count, 2)
+        self.assertNotIn('::warning::', output)
+
+    def test_preview_execution_errors_fail_and_stop_scan(self):
+        for error in (GitError('fetch', 128), ApiError('GET', 'branches', 403), OSError('disk failure')):
+            with self.subTest(error=str(error)):
+                result, report, output, worker = self.invoke('preview', error)
+                self.assertEqual(result, 1)
+                self.assertEqual(report['branches'][-1]['outcome'], 'halted')
+                self.assertEqual(worker.process.call_count, 1)
+                self.assertNotIn('::warning::', output)
+
 
 class RealGitTests(unittest.TestCase):
+    def test_missing_git_objects_are_execution_errors_not_conflicts(self):
+        with tempfile.TemporaryDirectory() as temp:
+            graph = Graph(Path(temp))
+            with self.assertRaises(GitError):
+                graph.merge_tree(S, B)
+            with self.assertRaises(GitError):
+                graph.tree(S)
+
     def test_clean_merge_preserves_both_histories_without_checkout(self):
         with tempfile.TemporaryDirectory() as temp:
             graph = Graph(Path(temp))

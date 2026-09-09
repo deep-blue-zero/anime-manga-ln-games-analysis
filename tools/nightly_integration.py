@@ -43,6 +43,15 @@ class Halt(RuntimeError):
     """Stop the run: main or shared controls require attention."""
 
 
+class GitError(Halt):
+    """A Git execution failure, distinct from a merge conflict."""
+
+    def __init__(self, operation: str, returncode: int, output: bytes = b""):
+        super().__init__(f"Git {operation} failed (exit {returncode})")
+        self.returncode = returncode
+        self.output = output
+
+
 class ApiError(RuntimeError):
     def __init__(self, method: str, path: str, status: int):
         super().__init__(f"GitHub {method} {path}: HTTP {status}")
@@ -112,18 +121,23 @@ class GitHub:
         name = urllib.parse.quote(branch, safe="")
         return exact_sha(self.request("GET", f"git/ref/heads/{name}")["object"]["sha"])
 
+    def audit_statuses(self, sha: str) -> list[dict]:
+        return [row for row in self.pages(f"commits/{exact_sha(sha)}/statuses") if row["context"] == AUDIT]
+
     def status(self, sha: str) -> dict | None:
         # Newest first: an older success cannot override a later failure/pending.
-        return next((row for row in self.pages(f"commits/{exact_sha(sha)}/statuses") if row["context"] == AUDIT), None)
+        return next(iter(self.audit_statuses(sha)), None)
 
-    def audit_run(self, sha: str, status: dict | None) -> dict | None:
+    def audit_run(self, sha: str, status: dict | None, *, require_success: bool = True) -> dict | None:
         if not status or status.get("creator", {}).get("login") != "github-actions[bot]":
             return None
         match = re.fullmatch(r"https://github\.com/" + re.escape(REPOSITORY) + r"/actions/runs/([0-9]+)", status.get("target_url", ""))
         if not match:
             return None
         run = self.request("GET", "actions/runs/" + match[1])
-        if run.get("path", "").split("@", 1)[0] != AUDIT_WORKFLOW or run.get("conclusion") != "success":
+        if run.get("path", "").split("@", 1)[0] != AUDIT_WORKFLOW:
+            return None
+        if require_success and run.get("conclusion") != "success":
             return None
         if run.get("event") in {"push", "workflow_dispatch", "schedule"} and run.get("head_sha") != sha:
             return None
@@ -144,7 +158,7 @@ class Graph:
                                 input=None if input_text is None else input_text.encode("utf-8"),
                                 capture_output=True, check=False)
         if result.returncode:
-            raise Blocked(f"Git {args[0]} failed (exit {result.returncode}); no conflict resolution is authorized")
+            raise GitError(args[0], result.returncode, result.stdout)
         return result.stdout.decode("utf-8", "strict").strip("\r\n")
 
     def fetch(self, sha: str) -> None:
@@ -161,7 +175,16 @@ class Graph:
         return self.git("rev-parse", exact_sha(sha) + "^{tree}")
 
     def merge_tree(self, source: str, base: str) -> str:
-        return exact_sha(self.git("merge-tree", "--write-tree", exact_sha(source), exact_sha(base)).splitlines()[0])
+        try:
+            output = self.git("merge-tree", "--write-tree", exact_sha(source), exact_sha(base))
+        except GitError as exc:
+            # Some Git versions also return 1 for invalid objects; a completed
+            # conflicted merge must emit its resulting tree as the first line.
+            first = exc.output.splitlines()[0] if exc.output else b""
+            if exc.returncode == 1 and re.fullmatch(rb"[0-9a-f]{40}", first):
+                raise Blocked("Git merge-tree found conflicts; no conflict resolution is authorized") from exc
+            raise
+        return exact_sha(output.splitlines()[0])
 
     def reconcile_commit(self, source: str, base: str, tree: str) -> str:
         identities = {"GIT_AUTHOR_NAME": AUTHOR["name"], "GIT_AUTHOR_EMAIL": AUTHOR["email"],
@@ -257,14 +280,30 @@ class Integrator:
     def wait_post_merge(self, sha: str, previous_status_id: int) -> None:
         end = min(self.deadline, time.monotonic() + 1800)
         while time.monotonic() < end:
-            status = self.api.status(sha)
-            if status and status["id"] > previous_status_id:
-                if status["state"] in {"failure", "error"}:
+            statuses = self.api.audit_statuses(sha)
+            latest = next(iter(statuses), None)
+            if latest and latest["id"] > previous_status_id:
+                if latest["state"] in {"failure", "error"}:
                     raise Halt("Already integrated, but post-merge audit failed; further merges stopped")
-                run = self.api.audit_run(sha, status)
-                if (status["state"] == "success" and run and run.get("event") == "repository_dispatch"
-                        and run.get("actor", {}).get("login") == OWNER):
-                    return
+                if latest["state"] == "success" and self.api.audit_run(sha, latest):
+                    # The owner-token merge also starts a push audit. Its newer
+                    # success must not hide the explicitly dispatched full audit.
+                    # Keep the latest overall failure/pending safeguards above,
+                    # and use only the newest trusted dispatch result below.
+                    for status in statuses:
+                        if status["id"] <= previous_status_id:
+                            break
+                        run = self.api.audit_run(sha, status, require_success=False)
+                        if (not run or run.get("event") != "repository_dispatch"
+                                or run.get("actor", {}).get("login") != OWNER):
+                            continue
+                        if status["state"] in {"failure", "error"} or run.get("conclusion") in {
+                            "failure", "cancelled", "timed_out", "action_required", "startup_failure",
+                        }:
+                            raise Halt("Already integrated, but post-merge audit failed; further merges stopped")
+                        if status["state"] == "success" and run.get("conclusion") == "success":
+                            return
+                        break
             time.sleep(15)
         raise Halt("Already integrated, but explicit post-merge audit did not finish; further merges stopped")
 
@@ -311,7 +350,7 @@ class Integrator:
             self.same_heads(branch, source, base)
             try:
                 self.graph.push(branch, reconciled, self.api.token)
-            except Blocked:
+            except GitError:
                 observed = self.api.head(branch)
                 if observed != reconciled and not self.generated_child(reconciled, observed):
                     raise
@@ -400,6 +439,9 @@ class Integrator:
                     row["detail"] = str(exc)
                     raise Halt("Already integrated, but verification failed; further merges stopped") from exc
                 row.update(outcome="blocked", detail=str(exc))
+                if self.preview:
+                    message = f"{branch}: {exc}".replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+                    print("::warning::" + message, flush=True)
             except Exception as exc:
                 row["detail"] = str(exc)
                 raise
@@ -426,7 +468,7 @@ def main() -> int:
         worker = Integrator(GitHub(token, preview=preview), Graph(Path(temporary)), preview=preview, controller_sha=controller_sha)
         try:
             worker.run(args.branch)
-            if any(row["outcome"] == "blocked" for row in worker.rows):
+            if not preview and any(row["outcome"] == "blocked" for row in worker.rows):
                 result = 1
         except (Halt, Blocked, ApiError, OSError, ValueError, KeyError) as exc:
             worker.rows.append({"branch": "run", "outcome": "halted", "detail": str(exc)})

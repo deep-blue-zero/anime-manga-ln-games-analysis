@@ -6,8 +6,8 @@ analytical_responsibility: "Claim epistemics, primary evidence routes, counterev
 scope: CARTETHYIA_SOURCE_3_6_0_PRE_AV_REBUILD
 analysis_generation: CARTETHYIA_PRE_AV_REBUILD_V0_1
 status: active_provisional
-release_state: local_working_draft
-analysis_authority_state: local_working_draft_not_promoted
+release_state: current_provisional_pre_av
+analysis_authority_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 text_authority: zh-Hans
 localization_witnesses: [ja, ko, en]
@@ -15,9 +15,13 @@ evidence_bridge_generation: V0.3.1
 intended_canonical_home: "series/wuthering-waves/04 Character Analysis/Cartethyia/"
 supersedes: []
 superseded_by: []
-do_not_use_as_current_git_authority: true
+do_not_use_as_current_git_authority: false
+do_not_use_as_current_authority: false
 created: 2026-09-05
+authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
+
+> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
 
 # Cartethyia: Evidence and Falsification Matrix
 
@@ -924,4 +928,4 @@ An AV scene can strengthen an embodied observation without strengthening a unive
 
 ---
 
-**Routing and status.** This is one local working artifact, not a replacement of current Git authority. [Packet entrypoint](WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md) records the source boundary. Evidence codes E01-E60 and claim codes C01-C50 resolve in the [evidence matrix](WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md). Row/action locators are literal indices in the pinned scene ledger, not public chapter numbers.
+**Routing and status.** This is owner-adopted current provisional authority within its declared text/audio or planning scope; pending AV limits the relevant claims. [Packet entrypoint](WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md) records the source boundary. Evidence codes E01-E60 and claim codes C01-C50 resolve in the [evidence matrix](WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md). Row/action locators are literal indices in the pinned scene ledger, not public chapter numbers.

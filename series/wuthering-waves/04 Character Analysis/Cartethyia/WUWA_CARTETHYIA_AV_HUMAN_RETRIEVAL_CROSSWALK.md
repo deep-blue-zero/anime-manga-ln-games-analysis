@@ -6,8 +6,8 @@ analytical_responsibility: "Human retrieval bridge from source locators to story
 scope: CARTETHYIA_SOURCE_3_6_0_PRE_AV_REBUILD
 analysis_generation: CARTETHYIA_PRE_AV_REBUILD_V0_1
 status: active_provisional
-release_state: local_working_draft
-analysis_authority_state: local_working_draft_not_promoted
+release_state: current_provisional_pre_av
+analysis_authority_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 text_authority: zh-Hans
 localization_witnesses: [ja, ko, en]
@@ -15,9 +15,13 @@ evidence_bridge_generation: V0.3.1
 intended_canonical_home: "series/wuthering-waves/04 Character Analysis/Cartethyia/"
 supersedes: []
 superseded_by: []
-do_not_use_as_current_git_authority: true
+do_not_use_as_current_git_authority: false
+do_not_use_as_current_authority: false
 created: 2026-09-05
+authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
+
+> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
 
 # Cartethyia: AV Human-Retrieval Crosswalk
 
@@ -385,16 +389,16 @@ Original playthrough: `https://www.youtube.com/watch?v=re80l_xz33k` (third-party
 
 | Anchor | Original-video span | Existing Drive file | Bytes | Primary use |
 |---|---|---|---:|---|
-| A | 00:00:00 - 00:05:00 | [A_initial_presentation.mp4](https://drive.google.com/file/d/1NOT43Ctn-ZBlEUD29aaRGHxnpK1muS_z/view) | 30,892,710 | initial presentation |
-| B | 00:18:40 - 00:21:30 | [B_inverted_bridge.mp4](https://drive.google.com/file/d/1RvLOtnJB6QJFOWamFRo3ZQa9c-HqMm-q/view) | 15,222,558 | inverted bridge |
-| C | 00:41:45 - 00:42:20 | [C_amnesia_truth_choice.mp4](https://drive.google.com/file/d/13Zav4-kVx8iXstfa1G7pgCv4ibfToBlt/view) | 4,828,168 | amnesia truth choice |
-| D | 00:45:35 - 00:49:30 | [D_blessed_maiden_memory.mp4](https://drive.google.com/file/d/10hIAEk2RfgEEdqRLHmNV_7ZRpBFRoYjs/view) | 17,079,534 | blessed maiden memory |
-| E | 01:18:45 - 01:19:45 | [E_grief_composure.mp4](https://drive.google.com/file/d/1PGvOYe0cCKiSSyrozIwHMuqQVTUGUnjh/view) | 4,135,189 | grief composure |
-| F | 01:41:30 - 01:46:45 | [F_integration_request.mp4](https://drive.google.com/file/d/1LtXJ8x5Jo2CAXbq63DJCGOawWNsfbM96/view) | 24,926,871 | integration request |
-| G | 01:56:50 - 01:59:00 | [G_particular_rescue.mp4](https://drive.google.com/file/d/12dNUg1vvotk7uSbUpsHnaSJRnDwhiG1p/view) | 12,620,544 | particular rescue |
-| H | 02:12:40 - 02:14:10 | [H_name_choice.mp4](https://drive.google.com/file/d/1bwxYXRVS6-mclhkxvgWLdJ620rxq7In4/view) | 6,323,037 | name choice |
-| I | 02:18:00 - 02:19:08 | [I_reciprocal_defiance.mp4](https://drive.google.com/file/d/172TmdgDiFkZWKNdPEh6quj-fzSrzRIv-/view) | 6,149,425 | reciprocal defiance |
-| J | 02:17:48 - 02:19:54 | [J_post_integration_ordinary_coda.mp4](https://drive.google.com/file/d/1rnAQZbgcP1YaeNFGYS2UnYovE6CmUs5i/view) | 10,535,269 | post integration ordinary coda |
+| A | 00:00:00 - 00:05:00 | A_initial_presentation.mp4 (Drive file ID `1NOT43Ctn-ZBlEUD29aaRGHxnpK1muS_z`) | 30,892,710 | initial presentation |
+| B | 00:18:40 - 00:21:30 | B_inverted_bridge.mp4 (Drive file ID `1RvLOtnJB6QJFOWamFRo3ZQa9c-HqMm-q`) | 15,222,558 | inverted bridge |
+| C | 00:41:45 - 00:42:20 | C_amnesia_truth_choice.mp4 (Drive file ID `13Zav4-kVx8iXstfa1G7pgCv4ibfToBlt`) | 4,828,168 | amnesia truth choice |
+| D | 00:45:35 - 00:49:30 | D_blessed_maiden_memory.mp4 (Drive file ID `10hIAEk2RfgEEdqRLHmNV_7ZRpBFRoYjs`) | 17,079,534 | blessed maiden memory |
+| E | 01:18:45 - 01:19:45 | E_grief_composure.mp4 (Drive file ID `1PGvOYe0cCKiSSyrozIwHMuqQVTUGUnjh`) | 4,135,189 | grief composure |
+| F | 01:41:30 - 01:46:45 | F_integration_request.mp4 (Drive file ID `1LtXJ8x5Jo2CAXbq63DJCGOawWNsfbM96`) | 24,926,871 | integration request |
+| G | 01:56:50 - 01:59:00 | G_particular_rescue.mp4 (Drive file ID `12dNUg1vvotk7uSbUpsHnaSJRnDwhiG1p`) | 12,620,544 | particular rescue |
+| H | 02:12:40 - 02:14:10 | H_name_choice.mp4 (Drive file ID `1bwxYXRVS6-mclhkxvgWLdJ620rxq7In4`) | 6,323,037 | name choice |
+| I | 02:18:00 - 02:19:08 | I_reciprocal_defiance.mp4 (Drive file ID `172TmdgDiFkZWKNdPEh6quj-fzSrzRIv-`) | 6,149,425 | reciprocal defiance |
+| J | 02:17:48 - 02:19:54 | J_post_integration_ordinary_coda.mp4 (Drive file ID `1rnAQZbgcP1YaeNFGYS2UnYovE6CmUs5i`) | 10,535,269 | post integration ordinary coda |
 
 The corrected I interval is 02:18:00-02:19:08 and the corrected J interval is 02:17:48-02:19:54. They overlap. Do not treat them as separate instances of reciprocal defiance or two independent codas. The old I/J intervals in historical receipts must not silently replace these corrected values.
 
@@ -436,4 +440,4 @@ The source plane already has an acquired-anchor manifest. Do not create an empty
 
 ---
 
-**Routing and status.** This is one local working artifact, not a replacement of current Git authority. [Packet entrypoint](WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md) records the source boundary. Evidence codes E01-E60 and claim codes C01-C50 resolve in the [evidence matrix](WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md). Row/action locators are literal indices in the pinned scene ledger, not public chapter numbers.
+**Routing and status.** This is owner-adopted current provisional authority within its declared text/audio or planning scope; pending AV limits the relevant claims. [Packet entrypoint](WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md) records the source boundary. Evidence codes E01-E60 and claim codes C01-C50 resolve in the [evidence matrix](WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md). Row/action locators are literal indices in the pinned scene ledger, not public chapter numbers.

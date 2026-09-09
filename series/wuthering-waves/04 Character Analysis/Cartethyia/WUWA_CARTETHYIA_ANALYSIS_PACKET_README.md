@@ -6,8 +6,8 @@ analytical_responsibility: "Local entrypoint, source accounting, authority bound
 scope: CARTETHYIA_SOURCE_3_6_0_PRE_AV_REBUILD
 analysis_generation: CARTETHYIA_PRE_AV_REBUILD_V0_1
 status: active_provisional
-release_state: local_working_draft
-analysis_authority_state: local_working_draft_not_promoted
+release_state: current_provisional_pre_av
+analysis_authority_state: owner_adopted_current_provisional
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 text_authority: zh-Hans
 localization_witnesses: [ja, ko, en]
@@ -15,9 +15,13 @@ evidence_bridge_generation: V0.3.1
 intended_canonical_home: "series/wuthering-waves/04 Character Analysis/Cartethyia/"
 supersedes: []
 superseded_by: []
-do_not_use_as_current_git_authority: true
+do_not_use_as_current_git_authority: false
+do_not_use_as_current_authority: false
 created: 2026-09-05
+authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
+
+> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
 
 # Cartethyia Reconstruction Packet - Local Pre-AV Rebuild V0.1
 
@@ -25,7 +29,7 @@ created: 2026-09-05
 
 This is the **single entrypoint** for a twelve-document reconstruction of Cartethyia, rebuilt using the source-facing, state-sensitive, ordinary-life, falsification, and audiovisual-retrieval practices developed in the Lynae, Aemeath, and Denia packets. It is not a renamed template or an expansion of the earlier monograph by paraphrase. The frozen primary selection was reread, the supplied acoustic records reaggregated, and material prior interpretations reconsidered.
 
-**Authority:** local working draft, not promoted. No Git commit, push, branch mutation, merge, Drive write, character-registry update, or generated-index update was made. Intended future analytical home: `series/wuthering-waves/04 Character Analysis/Cartethyia/`. Existing published analysis is not overwritten or silently superseded. The word rebuild distinguishes this packet's V0.1 from historical Cartethyia analytical V0.1/V0.2 and evidence V0.3.1; these are different version domains.
+**Authority:** owner-adopted current `active_provisional` text/audio analysis. At initial preparation, no Git or Drive publication was performed; the adoption note above records the later owner decision. Intended future analytical home: `series/wuthering-waves/04 Character Analysis/Cartethyia/`. Existing published analysis is not overwritten or silently superseded. The word rebuild distinguishes this packet's V0.1 from historical Cartethyia analytical V0.1/V0.2 and evidence V0.3.1; these are different version domains.
 
 **Reading center:** *Cartethyia: A Life That Cannot Be Finished for Her*. The governing interpretation is that she reclaims a continuous, imperfect life from powers that would determine its origin, role, and ending. Knightliness, ordinary joy, being cared for, reciprocal opposition, and civic repair belong to that life. They do not prove that every pressure toward self-instrumentalization has disappeared.
 
@@ -59,7 +63,7 @@ The semantic source is pinned to Arikatsu commit `353f2eaed119bc9f680eab92807d20
 
 Chinese (`zh-Hans`) is primary textual evidence. Japanese, Korean, and English are official localization witnesses. Installed-client V0.5.1 raw audio/package evidence is a separate provenance surface. No official-client normalized semantic parity, newer-release refresh, or complete game graph is claimed.
 
-Source-side first read: [Cartethyia source coverage and identity](https://drive.google.com/file/d/13-O5qIieUGv6KkWoY9uBGVkKDoJsQzlo/view). Evidence bridge: [Cartethyia](https://drive.google.com/drive/folders/1RD8BcQVtNPY0GHcG5IkCSpaWyq0svWd_). Project evidence map: [00_README_AND_SOURCE_DERIVED_MAP.md](https://drive.google.com/file/d/1vZRelxjX95N-8O7byuYmQBc8uELyb0ht/view).
+Source-side first read: Cartethyia source coverage and identity (Drive file ID `13-O5qIieUGv6KkWoY9uBGVkKDoJsQzlo`). Evidence bridge: Cartethyia (Drive folder ID `1RD8BcQVtNPY0GHcG5IkCSpaWyq0svWd_`). Project evidence map: 00_README_AND_SOURCE_DERIVED_MAP.md (Drive file ID `1vZRelxjX95N-8O7byuYmQBc8uELyb0ht`).
 
 ## 4. Source accounting
 
@@ -108,35 +112,35 @@ Historical V0.2 comparison used retrieved File Library passages and apparatus. I
 These SHA-256 values identify the **downloaded structured inputs actually used**. They do not certify the remote media bytes referred to inside those inputs. Full source files and media are not bundled into the analytical ZIP.
 
 **WUWA_CARTETHYIA_SCENE_AND_EVIDENCE_LEDGER.jsonl**  
-[Drive source](https://drive.google.com/file/d/1NUHFsp9orso8JS5gOzWi_PxV83BB4pPG/view) - 28,069,282 bytes  
+Drive source (Drive file ID `1NUHFsp9orso8JS5gOzWi_PxV83BB4pPG`) - 28,069,282 bytes  
 SHA-256: `7b5794b26af0bd725dd920bbe980ecb7be1e4693909bb3ec5a6842f4a5aa39f8`
 
 **cartethyia_archive_and_voice_evidence.json**  
-[Drive source](https://drive.google.com/file/d/1Enrmdoh1TIqMDbCXk6Aie-aA98JSC8Ld/view) - 417,517 bytes  
+Drive source (Drive file ID `1Enrmdoh1TIqMDbCXk6Aie-aA98JSC8Ld`) - 417,517 bytes  
 SHA-256: `0feeac2bb865ab7236168c5c74879eb629cf5f148d8e07cd4bc51c020b745df8`
 
 **cartethyia_occurrence_identity_crosswalk_v0_3_1.jsonl**  
-[Drive source](https://drive.google.com/file/d/1p8a-CJ93xrarnbaowVYXAlOF8tdbTtTJ/view) - 4,262,417 bytes  
+Drive source (Drive file ID `1p8a-CJ93xrarnbaowVYXAlOF8tdbTtTJ`) - 4,262,417 bytes  
 SHA-256: `b8e4be95a85952e70c4819243e1c8a4283df37620b7bdb5535d313f6bde72105`
 
 **cartethyia_quest_context.json**  
-[Drive source](https://drive.google.com/file/d/16KWo2GzLTST9kg4CwTS7GxPF5UTuRA0w/view) - 164,424 bytes  
+Drive source (Drive file ID `16KWo2GzLTST9kg4CwTS7GxPF5UTuRA0w`) - 164,424 bytes  
 SHA-256: `5df3763149b77ab068d8030d9b4dce5e77714dc7470d5d806317eab48e9a9bcd`
 
 **cartethyia_source_mentions.jsonl**  
-[Drive source](https://drive.google.com/file/d/1_Po9gJ2yEv16Cwrt8DZmBh_n4RPMHj9M/view) - 956,973 bytes  
+Drive source (Drive file ID `1_Po9gJ2yEv16Cwrt8DZmBh_n4RPMHj9M`) - 956,973 bytes  
 SHA-256: `332d0b7b48e6460e2572f2defaa4528c5a70e822205b6ec4476d5a6d42624854`
 
 **COMPLETE_VOICE_LINE_ANALYSIS.jsonl**  
-[Drive source](https://drive.google.com/file/d/1-bmiEQhXlOyTGuOTtUUG69mq3X5wSK4T/view) - 10,263,317 bytes  
+Drive source (Drive file ID `1-bmiEQhXlOyTGuOTtUUG69mq3X5wSK4T`) - 10,263,317 bytes  
 SHA-256: `798cac152f4452ded5e31a67a02d2ecc4a7d695148389a2834715c8934d43fb9`
 
 **COMPLETE_VOICE_COVERAGE_AUDIT.json**  
-[Drive source](https://drive.google.com/file/d/1gvFrj28IGYbeeq8MQzzya6ZUI-XfvL8S/view) - 2,330 bytes  
+Drive source (Drive file ID `1gvFrj28IGYbeeq8MQzzya6ZUI-XfvL8S`) - 2,330 bytes  
 SHA-256: `e52293ac28c98ac593fac281f86688573df274aa3d6adbbd60bae1a0c7a0dea9`
 
 **cartethyia_audiovisual_anchor_manifest_v0_3.json**  
-[Drive source](https://drive.google.com/file/d/1_hNfT6eQq5JrgqIQXFwix_iI9XLQbAcB/view) - 19,617 bytes  
+Drive source (Drive file ID `1_hNfT6eQq5JrgqIQXFwix_iI9XLQbAcB`) - 19,617 bytes  
 SHA-256: `433074a1e9f3bba3334b173ccd913c47b3a47e18196f492ddf62c957b7210cfb`
 
 ## 7. Modality and completion state
