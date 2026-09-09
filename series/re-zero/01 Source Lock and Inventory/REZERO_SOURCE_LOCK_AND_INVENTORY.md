@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.3
+generation: V0.4
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -211,6 +211,28 @@ Verified evidence:
 
 Therefore `02 Sequential Readings/REZERO_LN_V01_DEEP_READING.md` may now be created from this exact Japanese witness under the prospective-freeze method.
 
+## Volume 03 consumption record
+
+`RZ-MAIN-LN-JA-V03` has been consumed into the frozen prospective V03 reading and the source-verified V02–V03 estate-story checkpoint.
+
+Verified identity at consumption:
+
+- source ID: `RZ-MAIN-LN-JA-V03`;
+- Drive file ID: `1i9yf4dFhwpKclUgZI5rxTmb3TDdcSKIo`;
+- locator: `Re Zero - Volume 03.epub`;
+- language: Japanese (`ja`);
+- embedded title: `Ｒｅ：ゼロから始める異世界生活3`;
+- embedded creator: `長月達平`;
+- embedded UUID: `431773eb-f119-4374-9cf7-cafc120bce17`;
+- publication basis: Japanese MF Bunko J edition, 2014;
+- size: `5,631,534` bytes;
+- SHA-256: `6cdeb6d1f04566bdda39c9ef951ad6a33251987531dd9ff7cf2bce423d6d86b6`;
+- manifest relation: exact size/hash agreement with the anchored 2026-08-31 Drive audit manifest;
+- integrity: full archive test passed; 77 ZIP entries, including 20 image resources;
+- analytical products: `02 Sequential Readings/REZERO_LN_V03_DEEP_READING.md` and `02 Sequential Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md`.
+
+No V04 prose or previewed non-spine story was opened as part of this transaction. V04 remains admitted but analytically unopened until the user resumes the sequential run.
+
 ## Current source-state summary
 
 - **Acquired/admitted Japanese main LN:** V01-V43 continuous.
@@ -221,5 +243,7 @@ Therefore `02 Sequential Readings/REZERO_LN_V01_DEEP_READING.md` may now be crea
 - **Admitted IF/alternate route:** none.
 - **Admitted web novel:** none.
 - **Admitted anime/audiovisual:** none.
+- **Consumed into frozen prospective main-LN analysis:** V01-V03.
 - **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation permitted now:** after the project-initiation architecture gate is open, Japanese V03 deep reading from the frozen V02 horizon.
+- **Next analytical operation when the user resumes:** Japanese V04 deep reading from the frozen V03 horizon.
+- **Current execution state:** paused by user immediately after the verified V03 publication transaction; V04 remains unopened.
