@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0073; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0077; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1327,3 +1327,77 @@ next_event: EVENT_0077
 The full reading preserves all 25 witness ranges/hashes. It owns shared causal interpretation, while other-unit state comparison awaits foundation and ordered historical integration. N25 is I1 because already established support, reciprocal creativity and receptive pleasure gain evidence rather than a new governing interpretation. All six ledgers receive targeted updates; the current human tuple and N25 manifestation-group authorities are unchanged.
 
 **Latest closed forward route: EVENT_0076. Next forward candidate: EVENT_0077.** The 21 older universal-screen gaps and remaining foundations/deferred integration are not resolved by this frontier.
+
+## EVENT_0077 — 願いは、いつか朝をこえて
+
+```yaml
+release_id: EVENT_0077
+release_bucket: RB_20221120T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0077:01, PJSK:event:0077:02, PJSK:event:0077:03, PJSK:event:0077:04, PJSK:event:0077:05, PJSK:event:0077:06, PJSK:event:0077:07, PJSK:event:0077:08]
+card_locators: [PJSK:card:0540:01, PJSK:card:0540:02, PJSK:card:0541:01, PJSK:card:0541:02, PJSK:card:0542:01, PJSK:card:0542:02, PJSK:card:0543:01, PJSK:card:0543:02, PJSK:card:0544:01, PJSK:card:0544:02]
+area_locators: [PJSK:area:areatalk_ev_night_11_001:01, PJSK:area:areatalk_ev_night_11_002:01, PJSK:area:areatalk_ev_night_11_003:01, PJSK:area:areatalk_ev_night_11_004:01, PJSK:area:areatalk_ev_night_11_005:01]
+chronology_note: "Cards 0540-0542 initially available 03:00Z, 0543-0544 06:00Z; all five areas archive-published 2022-11-20T06:00Z with independent chapter-8 unlock condition 107608/episode 1000624. Depicted pre-encounter, overnight, later and remembered scenes remain distinct."
+unit_routes:
+  N25:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: I3
+    impact_basis: relationship_and_epistemic_transition
+    reconstruction_yield: R3
+    characters: [Ena, Mafuyu, Kanade, Mizuki, Ena_mother, Ena_father, Mafuyu_mother, Yukihira, Futaba]
+    manifestations: [N25_Len, N25_Miku, N25_MEIKO, N25_Rin, N25_Luka]
+    domains: [agency, family_pressure, corrected_assumption, parental_comparison, creative_authorship, technical_evaluation, self_valuation, practical_shelter, consent_limits, reciprocal_recognition, ordinary_life, food_preferences, household_work, self_care, school_attendance, public_private_register, knowledge_partition, support_methods]
+    locators: [PJSK:event:0077:03:003:0081, PJSK:event:0077:03:003:0159, PJSK:event:0077:04:002, PJSK:event:0077:06:002:0022, PJSK:event:0077:06:002:0066, PJSK:event:0077:06:002:0071, PJSK:event:0077:07:002:0172, PJSK:event:0077:08:004, PJSK:card:0540:02, PJSK:card:0542:01, PJSK:card:0542:02, PJSK:card:0544:01, PJSK:card:0544:02]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Honami]
+    domains: [paid_work_and_personal_care, received_recognition, reciprocal_gift, known_preferences, ordinary_life, register]
+    locators: [PJSK:card:0541:01:001:0031, PJSK:card:0541:01:001:0054, PJSK:card:0541:02:001:0028, PJSK:card:0541:02:003:0006, PJSK:card:0541:02:003:0017]
+  VBS:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Akito, An_indirect_committee_absence, Toya_indirect_committee_absence]
+    domains: [sibling_friction, public_private_register, household_food_rules, informal_peer_care, school_sociality, privacy_limits]
+    locators: [PJSK:event:0077:04:002, PJSK:card:0543:02:003:0002, PJSK:card:0543:02:004, PJSK:area:areatalk_ev_night_11_002:01]
+  MMJ:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Airi_reported_earlier_visit, Minori_identification_reference]
+    domains: [reported_middle_school_courtesy, Ena_friendship_history, public_idol_recognition]
+    locators: [PJSK:event:0077:03:001, PJSK:card:0543:01:002:0038, PJSK:card:0543:01:002:0040, PJSK:card:0543:01:002:0045, PJSK:card:0543:02:004:0012]
+  WXS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0077_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0078
+```
+
+| Relationship / decision route | Exact evidence | Reuse and limits |
+|---|---|---|
+| Ena–Mafuyu / shelter before full understanding | `PJSK:event:0077:02:004:0007–0024`; `PJSK:event:0077:03:003:0042–0065`, `PJSK:event:0077:03:003:0081–0163` | Concern, analogy, phone takeover, improvised exhibition/model pretext and one-night permission; no prior modelling agreement or idealized consent. |
+| Ena–Mafuyu / differentiated agency support | `PJSK:event:0077:06:002:0020–0084`; `PJSK:event:0077:07:002:0120–0173` | Direct correction of “never tried,” parental counterfactual, explicit collaborative want, support as a peer and a fallible portrait. New `REL-N25-EM-5`; human IDs retained. |
+| Ena–Yukihira–Futaba / artistic authorship | `PJSK:event:0077:01:001:0031–0061`; `PJSK:event:0077:08:002:0056–0088`; `PJSK:event:0077:08:004:0002–0019` | Generic intention gives way to a maker's wish for Mafuyu; mixed critique and conditional pass if timely. No on-time pass, talent certainty or completed freedom. |
+| Mafuyu–mother / constrained wanting | `PJSK:event:0077:01:004:0004–0014`; `PJSK:event:0077:06:002:0022–0047`; `PJSK:card:0542:01:001:0003–0057` | Computer access, reported prior desire/retraction, regret reasoning, sleep/mistake strain and partial musical regulation. Search motive/discovery and diagnosis unconfirmed. |
+| Shinonome household / parental comparison | `PJSK:event:0077:04:002:0014–0018`, `PJSK:event:0077:04:002:0052–0106`; `PJSK:card:0540:01:001:0025–0050`; `PJSK:card:0540:02:001:0042–0056` | Akito/Mafuyu polite masks; room for disagreement, Ena's use of paternal status and rejected conciliatory thought. Do not idealize absent father or infer taste recovery. |
+| Kanade–Honami / paid work and personal recognition | `PJSK:card:0541:01:001:0031–0066`; `PJSK:card:0541:02:001:0028–0058`; `PJSK:card:0541:02:003:0002–0017` | Order and food already help; known pies reveal earlier sharing; Kanade purchases thanks and Honami accepts specific recognition. No meal shown or recovered self-regulation. HIGH-priority Leo/need reuse. |
+| Mizuki–Akito / ordinary reciprocal care | `PJSK:card:0543:02:001:0002–0004`; `PJSK:card:0543:02:004:0002–0042` | School avoidance/attendance, absent usual peers, sibling/food teasing and sandwich gift despite verbal dismissal. No N25-private disclosure or broad academic deficiency inference. MEDIUM-priority VBS reuse. |
+| Mizuki–Mafuyu; Mizuki–Ena/group | `PJSK:card:0542:02:002`; `PJSK:card:0543:01:002:0056–0079`; `PJSK:area:areatalk_ev_night_11_003:01` | Wanted conversation, room/plant interest, declined overnight joke with unconfirmed motive, exhibition ticket/gift sociality. No guarded-content revelation or enacted house visit. |
+| N25 Len–humans / other singers | `PJSK:card:0544:01:001:0042–0065`; `PJSK:card:0544:02:002:0004–0041`; `PJSK:area:areatalk_ev_night_11_005:01` | Learned presence, report-based concern, avoiding unnecessary crowding, distinct peer stances, colouring. Manifestation-specific; no shared omniscience. |
+| Airi–Ena / indirect historical comparison | `PJSK:card:0543:01:002:0038–0050`; `PJSK:card:0543:02:004:0012` | Ena reports unusually mature courtesy during a middle-school home visit; Akito remembers Ena rarely bringing other friends. Reported history, not newly enacted MMJ development. |
+| Group sleep/care and reciprocal gifts | `PJSK:card:0543:01:002:0010–0032`; all five `night_11` areas | Sleep need, fatigue, requested walking company, mother's prompted macaron thanks, pillow suggestion, creative plurality and lingering envy. Proposed health benefits remain unverified. |
+
+The complete reading owns all 23 witness ranges/hashes, shared causal interpretation and reconstruction delta. All six longitudinal ledgers receive proportionate updates. N25 I3 rests on the relationship and knowledge transition; human tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` stays current. Other-unit impact remains deferred for founded comparison. **Latest closed forward route EVENT_0077; next EVENT_0078.** Twenty-one older universal screens and remaining completion dependencies persist.

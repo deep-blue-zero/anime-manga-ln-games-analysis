@@ -49,14 +49,14 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — updated through EVENT_0076 on 2026-09-09
+### Current coverage — updated through EVENT_0077 on 2026-09-09
 
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
-- Latest closed forward transaction: `EVENT_0076`; next forward operation: `EVENT_0077`. Latest positive N25 integration is bounded I1 at EVENT_0076; latest human-state transition remains `EVENT_0072`.
+- Latest closed forward transaction: `EVENT_0077`; next forward operation: `EVENT_0078`. Latest positive N25 integration is I3 through relationship/epistemic transition (`REL-N25-EM-5`); latest global human-state transition remains `EVENT_0072`. Apply the EVENT_0077 character/knowledge/claim refinements with the preserved tuple.
 - Current N25 tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
 - Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
-- Franchise routing inventory reaches EVENT_0076, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0076 universal screens and earlier reusable complete readings retain their bounded authority.
+- Franchise routing inventory reaches EVENT_0077, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0077 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
 
@@ -773,3 +773,22 @@ CURRENT AUTHORITY AFTER EVENT_0076
 - Twenty-one older universal-screen gaps remain; completed EVENT_0046–0076 and earlier reusable complete envelopes are preserved.
 - Character packages/readiness, synthesis, audits and final integration remain incomplete.
 - Next forward operation: EVENT_0077, subject to its own complete manifest envelope.
+
+EVENT_0077 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I3_RELATIONSHIP_EPISTEMIC
+
+Artifact: [N25/PJSK_EVENT_0077_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0077_DEEP_READING.md).
+All 23 surfaces read: core 01–08, cards 0540–0544 both halves, five night_11 areas; archive dates and independent chapter-8 unlock relation remain distinct. Canonical IDs, paths, commits and dates match the locked manifest; the reading retains every declared witness segment hash without asserting an independent raw-byte checksum certification.
+
+N25 PRIMARY/VERY_HIGH/I3/R3-yield: `REL-N25-EM-4 -> REL-N25-EM-5` records directly informed agency support and reciprocal expressive recognition. Ena/Mafuyu global human models receive material refinements but no successor IDs. All six ledgers include disclosure limits, imperfect intervention, contextual wanting, mixed artistic assessment, ordinary reciprocity, persistent strain and N25 manifestation distinctions. The absolute first-ever-wanting inference from EVENT_0072 is qualified. New claims E-091/MF-092/FAMILY-093 and theme TH-N25-034 are integrated; no new recurring motif.
+
+Leo/need CROSS_UNIT/HIGH (Honami receiving Kanade's reciprocal care), VBS CROSS_UNIT/MEDIUM (Akito family/public modes and practical Mizuki care), MMJ INCIDENTAL/LOW (reported Airi courtesy/visit) remain deferred for founded comparison. WxS NONE. All areas and card halves contribute to the closed envelope, not merely the core climax.
+
+CURRENT AUTHORITY AFTER EVENT_0077
+
+- Latest positive/documentary frontier: EVENT_0077, with I3 relationship/epistemic transition.
+- Latest global human-state transition: EVENT_0072; tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` plus EVENT_0077 refinements.
+- Current Ena–Mafuyu relationship: `REL-N25-EM-5`; other N25 dyad/group and manifestation IDs preserved with bounded extensions.
+- N25 foundation complete; other four foundations and material deferred integrations pending.
+- Twenty-one older universal-screen gaps remain; completed EVENT_0046–0077 and earlier reusable envelopes preserved.
+- Principal-human packages/readiness, syntheses, final audits and protected integration remain incomplete; event R3 yield is not package certification.
+- Next forward operation: EVENT_0078, subject to its own manifest-resolved envelope.

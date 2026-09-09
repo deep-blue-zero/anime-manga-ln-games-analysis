@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 positive relationship evidence integrated through EVENT_0076 (I1 creative-mentoring and reciprocal-care extension); EVENT_0070 initializes Ena-Honami art mentorship and strengthens Kanade-Honami/Kanade-Ena reliance, while EVENT_0072 strengthens Mafuyu-Emu/Shizuku and initializes bounded Mafuyu-Rui reflective-care contact"
-analysis_cutoff: "N25 relationship evidence through EVENT_0076 without successor state; documentary screening through EVENT_0076; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+source_boundary: "N25 relationship evidence integrated through EVENT_0077; REL-N25-EM-4 advances to REL-N25-EM-5, differentiated agency support and reciprocal expressive recognition"
+analysis_cutoff: "N25 relationship/epistemic I3 through EVENT_0077; human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained; documentary screening EVENT_0077"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-Relationship evidence is integrated through **EVENT_0076**, with a bounded I1 extension and no successor relationship state. Current N25 defaults include `REL-N25-KM-7`, `REL-N25-EM-4`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with their later event-specific extensions below. N25 Miku's human-group relationship is `REL-N25-GM-E0054`; N25 Len's newcomer relationship is `REL-N25-VS-LEN-GROUP-E0061`. These manifestations remain distinct. Bounded cross-unit entries do not establish complete other-unit relationship systems.
+Relationship authority reaches **EVENT_0077**, advancing Ena–Mafuyu to **`REL-N25-EM-5`**. Other current N25 defaults remain `REL-N25-KM-7`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, and `REL-N25-G-7`, with event-specific extensions below. N25 Miku's `REL-N25-GM-E0054` and N25 Len's `REL-N25-VS-LEN-GROUP-E0061` remain distinct; Len gains a bounded support-method refinement. Cross-unit entries do not establish complete other-unit systems.
 
-Earlier overview and pending-domain statements are historical handoffs, superseded as current scope by the later named entries and front matter. Earlier states remain valid at their own temporal boundaries. Events 0073 and 0074 were N25 I0; the next forward event is EVENT_0077. The separate routing ledger retains 21 earlier incomplete universal screens; neither that backlog nor unfounded units are represented as completed by this relationship frontier.
+Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. The next forward event is EVENT_0078. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
 
 ## 1. Purpose
 
@@ -1590,3 +1590,29 @@ The chosen future contact established in EVENT_0042 and ordinary ease strengthen
 Honami facilitates the lesson while preserving her household-work responsibilities, prepares food and sustains the practical environment in which both composers work. She receives Kanade's choice advice as useful to her own experience; Kanade acknowledges her without claiming that broader life lesson as her intended authority (`PJSK:event:0076:04:002:0013–0045`). Card 0536:01 gives work-specific pleasure, planning and observed appreciation as well as the limits of Honami's food-consumption inference. Card 0535:02 preserves the jointly mediated gift/flower exchange. These extend mutual care and safe facilitation without replacing the relationship state.
 
 No internal N25 dyad/group or manifestation relationship changes. `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061` remain distinct and current. Classroom Miku's reciprocal music with Ichika belongs to the deferred Leo/need route, not N25 Miku. See the [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md). Next forward candidate EVENT_0077.
+
+## EVENT_0077 relationship integration — directly informed advocacy and reciprocal seeing
+
+### `REL-N25-EM-5` — differentiated agency support / reciprocal expressive recognition
+
+**Boundary:** complete EVENT_0077 envelope. **Previous:** `REL-N25-EM-4`. **Status:** current within N25 analysis cutoff. **Transition:** I3 / Tier B relationship, with direct epistemic change; no global human successor required.
+
+Ena's practical concern already existed. What changes is her basis for responding: Mafuyu directly tells her she tried to ask for music and describes the pressure under which she retracted it. Ena can no longer treat silence as proof she never tried. After comparing rather than equating their parental environments, she asks for Mafuyu's own want and offers a concrete place to practise it (`PJSK:event:0077:06:002:0020–0084`). Mafuyu receives overnight shelter and explicitly says the home context allowed concentration unavailable at her own home (`PJSK:event:0077:08:002:0020–0022`).
+
+Reciprocity remains creative and abrasive. Mafuyu disagrees about the song/image, supplies useful lyrical interpretation, and thereby helps Ena find an owned expressive intention. Ena's portrait makes a perceived will visible to Mafuyu, who questions it; Ena marks that reading as fallible (`PJSK:event:0077:07:002:0059–0094`; `PJSK:event:0077:07:002:0159–0173`). Ena thanks Mafuyu and gives her the portrait. Later macarons carry thanks, including maternal prompting, while colouring retains envy and irritation (`PJSK:area:areatalk_ev_night_11_002:01`; `PJSK:area:areatalk_ev_night_11_005:01`).
+
+**State statement:** `trusted blunt creative feedback + residual envy/irritation + directly informed family-pressure knowledge + recognition that attempted self-assertion can be defeated + bounded practical shelter and agency support + reciprocal creative influence + fallible second-person seeing available for first-person inquiry`.
+
+**Limits:** the phone takeover and invented modelling pretext were not negotiated beforehand; the later real modelling was agreed separately. Do not idealize the intervention as consistently autonomy-preserving, assume a standing offer of permanent refuge, overwrite maternal attachment or make the pair frictionless. Mafuyu does not adopt every meaning Ena sees in her. `REL-N25-EM-4` remains the historical state at earlier boundaries.
+
+### Preserved relationships with material extensions
+
+- **`REL-N25-MZM-3`:** Mafuyu permits an unplanned hour of ordinary talk and says it was good; Mizuki reciprocates without requiring a disclosure or emotion label (`PJSK:card:0542:02:002:0026–0071`). A proposed house visit is not enacted.
+- **`REL-N25-G-7`:** shared work remains a place for actual disagreement and reciprocal creation. Peers observe apparent enjoyment but accept Mafuyu's later absence/need for sleep; contribution is not a requirement to stay online at all costs (`PJSK:card:0543:01:002:0010–0032`). Kanade/Mizuki do not automatically learn the whole private Ena–Mafuyu exchange.
+- **`REL-CROSS-KANADE-HONAMI-E0002`:** Kanade distinguishes personally careful work from payment alone and actively prepares thanks. Honami first minimizes her contribution as work, then accepts the specific acknowledgement and shared-snack invitation (`PJSK:card:0541:02:003:0006–0017`). Reciprocity includes known preferences; novelty is unnecessary. No new dyad ID.
+- **`REL-FAMILY-MAFUYU-MOTHER-E0035`:** computer access, future-regret reasoning, educational priorities and conditional one-night permission deepen the contextual constraint model; the mother's support for a thank-you gift coexists with hidden music activity. Actual computer-search intention/discovery is `OPEN`.
+- **`REL-FAMILY-ENA-FATHER-E0014`:** public reputation enables the intervention at a cost to Ena's pride; a later memory differentiates permission to draw from painful judgment, but Ena refuses a conciliatory meaning (`PJSK:card:0540:01:001:0025–0050`; `PJSK:card:0540:02:001:0042–0056`). No forgiveness or mutual conversation occurs.
+- **`REL-FAMILY-ENA-AKITO-E0014`:** familiar food quarrels and criticism coexist with household care, guest-facing courtesy and limited protection of Mafuyu's privacy. Akito's later sandwich gift to Mizuki gives a separate peer-care route (`PJSK:card:0543:02:004:0010–0042`), not proof he knows Mafuyu's private self or the whole overnight conversation.
+- **`REL-N25-VS-LEN-GROUP-E0061`:** Len seeks examples, visits, notices suffering, offers a parental-fear analogy and remains present. Miku and MEIKO endorse his presence while avoiding unnecessary crowding; his reports, not omniscient access, inform them (`PJSK:card:0544:01:001:0042–0065`; `PJSK:card:0544:02:002:0004–0026`). Preserve the manifestation-specific ID and separate `REL-N25-GM-E0054` authority.
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0077_DEEP_READING.md) preserves Honami, Akito/Mizuki, indirect Airi and all other-unit routes for founded comparison. Human tuple remains unchanged; next forward candidate EVENT_0078.

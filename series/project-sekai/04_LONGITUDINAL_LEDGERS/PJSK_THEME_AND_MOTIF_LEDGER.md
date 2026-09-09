@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 main-story foundation plus positive thematic evidence through EVENT_0076; latest new theme EVENT_0072; EVENT_0070 establishes technique-expression integration and EVENT_0072 establishes bounded wanting before complete self-understanding while strengthening first-person/ordinary-life evidence"
-analysis_cutoff: "N25 thematic evidence through EVENT_0076; latest new theme EVENT_0072; documentary screening through EVENT_0076"
+source_boundary: "N25 thematic evidence through EVENT_0077; TH-N25-034 added and first-person, creative-evidence, ordinary-life, wanting and technique/expression themes strengthened"
+analysis_cutoff: "Latest new-theme and documentary boundary EVENT_0077; no new recurring motif; other-unit foundations remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic evidence reaches **EVENT_0076**, corroborating existing themes without a new ID; the latest new-theme authority remains EVENT_0072, including `TH-N25-032` and `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Documentary screening reaches EVENT_0076 with no thematic mutation from events 0073-0075 and I1 corroboration of existing themes in EVENT_0076. Other-unit foundations and the 21 older incomplete universal screens remain pending in the routing/current-state infrastructure.
+N25 thematic authority reaches **EVENT_0077**, adding `TH-N25-034` on the relational conditions of usable choice while strengthening existing themes. EVENT_0070 established `TH-N25-032`; EVENT_0072 established `TH-N25-033`. Hatching and the portrait remain event-local structures. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -1182,3 +1182,22 @@ No new recurring motif is promoted. The street piano is event-central but remain
 - **`TH-N25-014` — ordinary-life expansion without cure: STRENGTHEN.** A requested lesson, shared refreshments and the later reciprocal gift/flower exchange let Kanade receive and enjoy others' care without resolving self-neglect or the rescue vow (`PJSK:event:0076:04:002:0013–0024`; `PJSK:card:0535:02:001:0039–0060`).
 
 The gerberas remain a specific gift with the giver's stated rationale, not a newly promoted recurring motif. Leo/need's choice-under-uncertainty, medium-sensitive expression, audience orientation and music connecting distinct Miku contexts are retained in the [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) for founded historical comparison; N25 thematic authority does not substitute for that work.
+
+## EVENT_0077 thematic integration — permission as a lived relationship condition
+
+### `TH-N25-034` — nominal choice and usable choice depend on relational conditions
+
+**Status:** EVENT_ESTABLISHED / CANONICAL, N25/family scope. Both parental environments can use personal-choice language, but Mafuyu experiences different room to differ. Future-regret reasoning draws an expressed wish back toward compliance; a noisier household can feel less cold. Ena's move from “just say it” to informed support changes what the wish can presently do (`PJSK:event:0077:04:002:0052–0106`; `PJSK:event:0077:06:002:0020–0084`). The theme distinguishes words, practical consequences and experience without erasing maternal care, declaring parental intent omnisciently, or idealizing the Shinonome family.
+
+### Established themes — strengthened and bounded
+
+- **`TH-N25-001` first-person authority:** disclosure corrects an observer's premise; Ena marks her portrait as fallible seeing that Mafuyu can question (`PJSK:event:0077:07:002:0159–0173`). Supporting agency can still involve over-directive acts; effective intervention is not automatically a model of consent.
+- **`TH-N25-003` creative work as psychological evidence:** Mafuyu authors and disputes interpretation; Ena's image responds to witnessed agency and communicates the maker's own wish. A subject is also an interpreting participant, not merely inspiration for someone else's work.
+- **`TH-N25-032` technique and self-authored expressive value:** the teacher can identify persistent defects and receive the intended wish in the same work. Ena continues practice. No anti-technique conclusion or completed professional success (`PJSK:event:0077:08:004:0002–0019`).
+- **`TH-N25-033` wanting before complete self-understanding:** Mafuyu names collaborative music and later values ordinary talk without a complete explanation of herself. EVENT_0072 is not the first-ever possible statement of wanting; articulation and enactment remain context-dependent.
+- **`TH-N25-014` ordinary-life expansion without cure:** shelter, meals, guest preparation, gift advice, snacks, teasing and colouring make companionship usable. Poor sleep, health strain, secrecy and family conflicts persist. Walking/pillow suggestions do not prove improvement.
+- **`TH-N25-024` / §12.5 and EVENT_0070, ordinary activity as mutual revelation:** shared work and the two households expose differences that abstract advice missed; the cited meaning is distinct from the imported EVENT_0029 future-attachment use of this ID.
+
+The shell, hatching, dawn and portrait are central event structures. They express a hoped-for future and a fallible present perception, **not completed liberation**; no new recurring motif ID is promoted. N25 Len's presence and peers' selective restraint strengthen the existing non-solving support line while preserving differences among N25 manifestations. No franchise-wide generalization substitutes for the unfounded units' pending interpretation.
+
+Latest theme/evidence authority EVENT_0077; next forward candidate EVENT_0078.

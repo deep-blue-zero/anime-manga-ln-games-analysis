@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claim evidence integrated through EVENT_0076; latest new governing formulations EVENT_0072; EVENT_0070 establishes Ena technique-expression/self-authored aesthetic valuation rules and EVENT_0072 advances Mafuyu autonomy into bounded verbal positive wanting while preserving vocational uncertainty"
-analysis_cutoff: "N25 claim evidence authority through EVENT_0076; latest new governing formulations EVENT_0072; documentary screening through EVENT_0076"
+source_boundary: "N25 claim authority through EVENT_0077; E-091, MF-092 and FAMILY-093 added, MF-088 chronological scope refined, existing artistic/reciprocal claims strengthened"
+analysis_cutoff: "Latest governing claim integration and documentary screening EVENT_0077; global human tuple MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01 retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 claim evidence authority reaches **EVENT_0076** through I1 strengthening of existing claims; the latest new governing formulations remain at EVENT_0072, including `CR-N25-MF-088/089/090`. Earlier summaries and pending-domain statements are historical handoffs. A claim's formulation must be read at the requested event boundary, with subsequent transitions applied only when that boundary includes them. Documentary screening reaches EVENT_0076: events 0073 and 0074 are I0; EVENT_0075 added bounded I1 school evidence without claim revision; EVENT_0076 strengthens existing Kanade claims without replacing their formulations. The source cutoff does not advance claim authority.
+N25 claim authority reaches **EVENT_0077**, adding `CR-N25-E-091`, `CR-N25-MF-092` and `CR-N25-FAMILY-093`, refining `CR-N25-MF-088` against a first-ever-wanting inference and strengthening existing artistic/reciprocal claims. Earlier summaries and pending-domain statements are historical handoffs; claims must be read at the requested boundary with subsequent revisions applied only where included. EVENT_0077 produces an I3 relationship/epistemic transition without a successor global human ID. Source currency does not advance claim authority.
 
 The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
 
@@ -1203,3 +1203,35 @@ EVENT_0061 established that autonomy can appear behaviorally before Mafuyu can s
 - **`CR-N25-K-071` — STRENGTHEN.** Kanade explicitly receives inspiration, acknowledges reciprocal gratitude and values food/flowers offered with attention to her circumstances (`PJSK:card:0535:02:001:0007–0013`, `PJSK:card:0535:02:001:0039–0060`). Ordinary receptive pleasure persists within `K-E0063-01`; ongoing household dependence and restricted food purchasing remain visible.
 
 No new claim ID or successor state is warranted. The decision-making advice applies to composition first; Honami and Ichika supply the life analogy, and the source does not establish that Kanade herself consistently exercises healthy boundaries. Preserve `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Shared causality and other-unit comparisons remain in the [EVENT_0076 reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) and deferred routing.
+
+## EVENT_0077 claim transitions — informed support, contextual wanting and usable permission
+
+### `CR-N25-E-091` — NEW / CANONICAL
+
+**Claim:** Ena can revise agency advice when direct disclosure shows that she projected her own available assertiveness onto Mafuyu. Effective support then includes differentiating histories, asking the person's want and making bounded room to enact it.
+
+**Evidence:** Mafuyu corrects the “never tried” premise; Ena considers the counterfactual of a different upbringing, then offers help as a peer (`PJSK:event:0077:06:002:0020–0084`). Her portrait is expressly a fallible perception (`PJSK:event:0077:07:002:0159–0173`). **Limit:** no universal empathy/mediation competence. The earlier phone takeover, instruction to stay quiet and invented pretext remain part of the same event, not exemplary negotiated care.
+
+### `CR-N25-MF-092` — NEW / CANONICAL
+
+**Claim:** Mafuyu's explicitly wanted collaborative music activity can coexist with maternal deference, concealed participation and uncertainty about the activity's larger emotional or identity meaning.
+
+**Evidence:** wanting songs with everyone while unable to explain acting against maternal instructions or affirm Ena's “important” category (`PJSK:event:0077:06:002:0040–0071`; `PJSK:event:0077:07:002:0125–0129`); later spontaneous work and valued conversation (`PJSK:card:0542:02:002`). **Limit:** not a career choice, settled autonomous principle, global affect recovery or complete home independence.
+
+### `CR-N25-FAMILY-093` — NEW / CANONICAL, context-bounded
+
+**Claim:** apparently similar parental permission language must be interpreted through its consequences and the child's experienced room to differ. Warm wording or absence of argument cannot alone establish usable choice.
+
+**Evidence:** the two mothers' personal-choice formulations produce different felt contexts for Mafuyu; regret/future reasoning accompanies surrendering music, whereas ordinary Shinonome disagreement coexists with her chest lightening (`PJSK:event:0077:04:002:0052–0106`; `PJSK:event:0077:06:002:0027–0040`). **Limit:** no denial of genuine attachment/care, idealization of the whole Shinonome family, or omniscient claim about maternal computer-search intent. Ena's recalled freedom to draw is briefly considered and defensively dismissed, not reconciliation (`PJSK:card:0540:02:001:0042–0056`).
+
+### `CR-N25-MF-088` — REFINE chronological scope; retain bounded-wanting rule
+
+The valid EVENT_0072 rule is that action-specific wanting and continuation preference can be accessible before broad emotion/preference/life-direction fluency. EVENT_0077's explicit report of an earlier attempt to tell her mother she wanted music **rules out extending EVENT_0072's “first explicit” language into a first-ever desire statement** (`PJSK:event:0077:06:002:0022–0040`). Earlier wording remains a historical analytical handoff, qualified by this revision. Do not reconstruct a universal pre-EVENT_0072 inability to voice any want or project Ena's newly corrected knowledge backward. Preserve `MF-E0072-01` with context-dependent articulation/enactment, not a monotonic linguistic recovery model.
+
+### Existing artistic/reciprocal claims — STRENGTHEN
+
+- **`CR-N25-E-085/086`:** Yukihira identifies actual technical/time defects and nevertheless perceives the intended wish; Ena values communication and commits to continued practice (`PJSK:event:0077:08:004:0002–0019`). The conditional assessment is not an on-time pass.
+- **`CR-N25-E-087`:** the portrait response is a bounded analogue of person-sensitive expressive practice; Ena permits Mafuyu to keep working and qualifies her interpretation. Area `night_11_005` preserves differentiated artistic results and residual envy rather than flawless pedagogy.
+- **`CR-N25-K-071`:** reciprocal reception extends into self-initiated thanks for Honami's careful paid work and an invitation to share a known favourite (`PJSK:card:0541:02:003:0006–0017`). Self-neglect remains unresolved.
+
+EVENT_0077 is I3 through relationship/epistemic transition; no successor human ID. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0077_DEEP_READING.md) owns shared causal analysis and reconstruction delta. Next forward candidate EVENT_0078.

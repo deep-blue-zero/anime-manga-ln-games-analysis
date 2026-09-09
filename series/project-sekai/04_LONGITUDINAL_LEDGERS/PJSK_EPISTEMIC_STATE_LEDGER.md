@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic evidence integrated through EVENT_0076 (bounded creative/domestic information); EVENT_0070 adds Ena self-authored aesthetic-valuation knowledge and bounded Honami mentoring knowledge, while EVENT_0072 adds Mafuyu action-specific desire, caregiving self-evidence, and bounded cross-unit desire-reflection knowledge"
-analysis_cutoff: "N25 epistemic authority through EVENT_0076; documentary screening through EVENT_0076; preserve guarded-issue, family-control, vocational, and flashback-interiority asymmetries"
+source_boundary: "N25 epistemic authority through EVENT_0077; Ena learns Mafuyu already voiced wanting music; portrait interpretation and family/public/VS knowledge remain partitioned"
+analysis_cutoff: "Positive and documentary epistemic boundary EVENT_0077; guarded-content, parental-intent, vocational, sensory and private-thought limits retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic boundary is **EVENT_0076**, adding bounded creative/domestic exchange without revising private-state knowledge. Later event entries extend rather than erase the main-story and earlier-event knowledge states. Earlier overview/pending statements referring to EVENT_0053 are historical handoffs. In particular, EVENT_0061 establishes bounded N25 knowledge of Mafuyu's family/music restrictions; EVENT_0072 establishes witnessed action-specific wanting while leaving vocation and broad emotion naming unresolved. Neither entry grants participants the audience's full private history.
+The latest integrated epistemic boundary is **EVENT_0077**. Ena directly learns that Mafuyu had already voiced wanting music, revises the premise of her advice, and offers a fallible artistic reading that Mafuyu can question. This extends rather than erases the EVENT_0061 family/music disclosure and EVENT_0072 bounded-wanting states. Newly disclosed prior history is not retroactive participant knowledge. Earlier overview/pending statements remain historical handoffs.
 
-Mizuki's guarded content remains undisclosed within this analytical boundary. Cross-unit familiarity and Virtual Singer observation confer only the knowledge explicitly recorded below. Events 0073 and 0074 were N25 I0; EVENT_0077 is the next forward transaction; 21 older universal-screen gaps and the other four unit foundations remain separate coverage obligations in the canonical routing/current-state infrastructure.
+Mizuki's guarded content remains undisclosed. Maternal computer-search intent and successful discovery remain unconfirmed; no broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0078; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
 
 ## 1. Purpose
 
@@ -1333,3 +1333,33 @@ This I1 evidence increment does not change `EPI-N25-MF-E0072` or grant wider dis
 | Kanade / Ichika / Honami | Directly exchange gratitude, completed-work feedback and the source of the selected flowers (`PJSK:card:0535:02:001:0039–0060`). | Ordinary familiarity does not transfer the audience's knowledge of N25-private cognition. |
 
 Kanade's tentative recognition of support as rescue is direct speech, but the unspoken content of the intervening memory cut is not recoverable from its blank transcript markers. No scene image/audio was inspected. Classroom and software Miku remain explicitly distinct at `PJSK:event:0076:07:002:0023–0025`; their relation gives no N25 manifestation shared memory. Mafuyu/Ena/Mizuki retain their existing epistemic states. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md) records the separate late observer/publication asymmetry. No successor human state; next forward candidate EVENT_0077.
+
+## EVENT_0077 epistemic integration — corrected assumptions and fallible expressive testimony
+
+### `EPI-N25-EM-E0077` — directly disclosed constraint and reciprocal interpretation
+
+| Holder | New knowledge / source | Unavailable or unconfirmed extension |
+|---|---|---|
+| Ena | Mafuyu says she previously voiced wanting music, describes maternal regret/future reasoning, admits promising to stop, and names wanting to make songs together now (`PJSK:event:0077:06:002:0020–0071`). | Ena's initial assumption that Mafuyu had never tried is corrected. She does not gain complete first-person access or proof that her own assertiveness would work in Mafuyu's upbringing. |
+| Mafuyu | Ena wants to draw despite pain; Ena offers practical support as a peer. Her picture is a view of Mafuyu's perceived will and is explicitly qualified as potentially mistaken (`PJSK:event:0077:06:002:0011–0018`; `PJSK:event:0077:07:002:0159–0173`). | She does not thereby know a complete self, happiness category, settled vocation, or Ena's private hatching/parent reflections. |
+| Ena and Len | Witness the overnight interaction; Len directly hears the disclosed parent/music history and current wanting. | Other N25 singers do not automatically inherit all of their knowledge. |
+| Mafuyu | The noisy Shinonome dinner feels less cold; her chest lightens. Later she knows the stay enabled deeper concentration and that talking with Mizuki was good (`PJSK:event:0077:04:002:0052–0106`; `PJSK:event:0077:08:002:0020–0021`; `PJSK:card:0542:02:002:0063–0071`). | She does not give a complete explanation for the family contrast; public meal approval does not establish recovered taste. |
+
+### `EPI-N25-G-E0077` — distributed observation with private causes partitioned
+
+The group learns of the computer access and Mafuyu's belief that hidden files were probably not found. Mizuki's checking hypothesis is not confirmed. Kanade/Mizuki join the work session, receive the stay report, observe apparent enjoyment and learn that Ena has drawn Mafuyu. They do not automatically receive the complete preceding conversation or Ena's later private wish. The group also receives Mafuyu's later lyric submission and reason for not joining voice chat; concern about sleep does not confer knowledge of every earlier mistake or symptom (`PJSK:event:0077:02:002`; `PJSK:event:0077:07:002`; `PJSK:card:0543:01:002:0010–0032`).
+
+### `EPI-FAMILY-CROSS-E0077` — public accounts, reports and inference limits
+
+- **Mafuyu's mother:** hears Ena's name, father's identity, invented exhibition meeting and urgent model/stay account. She asks about music, grants a bounded stay and later prompts thanks. Confirmation of N25 discovery or the actual purpose of computer use remains `OPEN`; the fabricated meeting is not biographical fact (`PJSK:event:0077:03:003:0083–0145`).
+- **Shinonome mother/Akito:** know Mafuyu as a guest, receive the music-circle connection and a request for discretion because of strict parents. They see guest-facing behaviour, not N25-private affect or the whole bedroom conversation (`PJSK:event:0077:04:002`).
+- **Mizuki/Akito:** exchange food-practice and overnight household reports; An/Toya's committee absence is stated. No sensitive N25 history crosses this peer exchange (`PJSK:card:0543:02:004`).
+- **Kanade/Ena/Mizuki/Honami:** gift advice shares shop/preference knowledge; Honami directly learns that Kanade values her careful work. No full private Kanade/Mafuyu history is newly disclosed (`PJSK:card:0541:01–02`).
+- **Yukihira:** reads the maker's wish in the submitted image and identifies continued technical/time deficits. The assessment does not prove knowledge of Mafuyu's identity or family history (`PJSK:event:0077:08:004:0002–0014`).
+- **Audience richer:** Mafuyu's sleep/mistake history and Ena's cost in using her father, avoidance and ambivalent freedom reflection are private unless specifically voiced. Mizuki's sleepover explanation is neither disproven nor evidence of a particular secret (`PJSK:card:0542:01`; `PJSK:card:0540:01–02`; `PJSK:card:0543:01:002:0066–0074`).
+
+### `EPI-N25-VS-E0077` — learned support through bounded reports
+
+Len asks manifestation peers about their past help; their reported examples remain distinct. He conveys the overnight development and his observation of partial relief to Miku/MEIKO, who entrust further presence to him. Their concern is not omniscience; the source does not give them every later human conversation (`PJSK:card:0544:01:001:0042–0065`; `PJSK:card:0544:02:002:0004–0026`). N25 manifestations have no demonstrated memory-sharing with their other-SEKAI counterparts.
+
+This I3 knowledge change informs reconstruction at EVENT_0077 only. The earlier attempt to voice wanting music qualifies any absolute “first-ever” reading of EVENT_0072; it does not let Ena know it before this disclosure. Human tuple unchanged; next forward candidate EVENT_0078.
