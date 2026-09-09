@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 20 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 20 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated; EVENT_0002 existing complete pass enriched and all unit dispositions integrated"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,9 +14,9 @@ mutable: true
 # Project SEKAI Event Relevance and Routing Ledger
 
 
-## Current routing authority — historical EVENT_0001 fully integrated
+## Current routing authority — historical EVENT_0001 and EVENT_0002 integrated
 
-The forward frontier remains EVENT_0090 / next EVENT_0091. Historical EVENT_0001 is now `UNIVERSAL_SCREEN_COMPLETE`, with N25/VBS documentary I0, LEO_NEED I2 and MMJ/WXS I1 ordered integrations complete. All five main-story baselines exist. Twenty older universal screens remain pending: `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. EVENT_0003 is the next unresolved historical screen; EVENT_0002's existing complete pass remains valid. Older dated/frontier sections below are preserved historical checkpoints, not later current-state overrides.
+The forward frontier remains EVENT_0090 / next EVENT_0091. Historical EVENT_0001 is now `UNIVERSAL_SCREEN_COMPLETE`, with N25/VBS documentary I0, LEO_NEED I2 and MMJ/WXS I1 ordered integrations complete. All five main-story baselines exist. Twenty older universal screens remain pending: `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. EVENT_0003 is the next unresolved historical screen; EVENT_0002's existing complete pass remains valid; targeted enrichment now integrates LN I1 and records MMJ/VBS/WxS NONE / I0 while preserving N25 I3. Older dated/frontier sections below are preserved historical checkpoints, not later current-state overrides.
 
 `PENDING_ORDERED_UNIT_INTEGRATION` distinguishes a valid route whose canonical main-story baseline exists from a completed baseline-relative interpretation. Imported `DEFERRED_PENDING_FOUNDATION` entries remain historical dispositions; foundation promotion does not automatically integrate or reclassify them. Resolve them explicitly as each unit consumes its routes in order. Neither status certifies reconstruction readiness.
 
@@ -78,7 +78,7 @@ The table below is a routing inventory, not a substitute for detailed per-unit a
 | Event | Title | Bucket | Envelope authority | Indexed/routed units | Existing complete pass | N25 impact | Routing status | Later-unit action |
 |---|---|---|---|---|---|---|---|---|
 | EVENT_0001 | 雨上がりの一番星 | `RB_20201009T060000Z` | 8 core + 10 card halves; zero areas = 18 verified stories / 1,238 records | `LEO_NEED PRIMARY; MMJ/WXS CROSS_UNIT; N25/VBS NONE` | yes (universal) | `I0` | `UNIVERSAL_SCREEN_COMPLETE` | LN I2, MMJ/WXS I1 integrated; reuse shared reading and record-level evidence below |
-| EVENT_0002 | 囚われのマリオネット | `RB_20201020T060000Z` | 8 core + 10 card halves + 4 area (verified completed envelope) | `N25` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
+| EVENT_0002 | 囚われのマリオネット | `RB_20201020T060000Z` | 8 core + 10 card halves + 4 area (verified completed envelope) | `N25; LEO_NEED` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | LN I1 integrated; MMJ/VBS/WXS NONE/I0; all unit dispositions complete; existing N25 reading retained |
 | EVENT_0003 | 全力！ワンダーハロウィン！ | `RB_20201031T060000Z` | review-index associations only; final analytical envelope pending | `WXS` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
 | EVENT_0004 | 走れ！体育祭！～実行委員は大忙し～ | `RB_20201109T060000Z` | 8 core + 10 card halves + 8 area (verified completed envelope) | `LEO_NEED, MMJ, N25, WXS` | yes | `I2` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
 | EVENT_0005 | ここからRE:START！ | `RB_20201119T060000Z` | review-index associations only; final analytical envelope pending | `MMJ` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
@@ -2773,3 +2773,66 @@ This is one completed franchise discovery pass. Preserve the bounded source test
 ### Ordered integration closure
 
 All EVENT_0001 unit dispositions are complete. Leo/need I2 retains the four P04 human IDs and group, with new explicit motive/strategy precision, event-qualified claim/theme refinements and separate School support/knowledge. WxS I1 adds direct family/visitor behavior, while MMJ I1 records reported social context without absent-side psychology. The shared reading and six ledgers carry the reconciled records. Earlier discovery-only wording above records the source-screen stage; this closure resolves its pending material interpretations. Twenty older universal screens remain pending; no whole-envelope reread or forward EVENT_0091 advancement is implied.
+
+
+## EVENT_0002 — retained complete pass and targeted Leo/need route integration
+
+The [existing N25 reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0002_DEEP_READING.md) owns the complete source pass and main causal interpretation. This section makes the formerly sparse franchise route explicit after the LN foundation and EVENT_0001 integration. It reuses the completed 22-story pass and targeted Honami evidence; it does not claim a second universal read. The [Honami checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) owns the bounded I1 comparison. All actual source hashes were independently reverified against the frozen lock.
+
+| Scope | Route | Evidence weight | Integration | Ownership / limits |
+|---|---|---|---|---|
+| N25 | PRIMARY | HIGH | Existing I3 retained | Full core/card/area causal account and established ledger consequences remain with the N25 reading. |
+| LEO_NEED | CROSS_UNIT | MEDIUM | INTEGRATED_I1 | Honami's household work, qualified advice, personal analogy, tea/food exchange and proposed band recording; four P04 human IDs/group retained. |
+| MMJ | NONE | NONE | DOCUMENTARY_I0 | Retained full pass and targeted retrieval supply no material member/unit route. |
+| VBS | NONE | NONE | DOCUMENTARY_I0 | No material member/unit route. |
+| WXS | NONE | NONE | DOCUMENTARY_I0 | No material member/unit route; lexical hits for 種類 do not identify Rui. |
+| Empty Miku | DIRECT, N25 manifestation | HIGH | Existing N25 integration retained | Named Empty/N25 speaker appears in the original envelope; no singer identity pooling. |
+| School / Stage / Street / Wonderland singers | NONE | NONE | No delta | No separate manifestation evidence; do not infer access from Miku's name alone. |
+
+The negative routes rest on the preserved complete pass, checked against speaker labels and targeted surname/given-name/unit-name retrieval. The latter is a retrieval check, not an independent proof of semantic absence. It found Honami as the only additional named human-unit participant; generic friends remain generic rather than being assigned to specific members.
+
+### Honami evidence and recipient boundaries
+
+| Source | Material responsibility | Access / outcome limit |
+|---|---|---|
+| `PJSK:event:0002:02:002:0002–0039` | Agreed work, tea, noticed mood, pleasure in helping, self-described meddling and job recommendation | Kanade's private grandmother/workspace thoughts are not automatically heard by Honami. |
+| `PJSK:event:0002:02:002:0041–0057` | Listening and learning the person's feelings, qualified by dislike of probing | Unnamed recipient; uncertainty and individual differences explicit. |
+| `PJSK:event:0002:02:002:0059–0070`; `PJSK:event:0002:03:002:0037–0053`; `PJSK:event:0002:03:002:0065–0087` | Optional tickets, practical reasons, Kanade's later recall and invitation | Causal contribution does not confer knowledge of N25's private outing. |
+| `PJSK:card:0115:01:002:0002–0040` | Accepted after-work conversation, limited progress report and inferred conversational opportunity | Honami hears an anonymized account; multiple ticket motives may coexist. |
+| `PJSK:card:0115:01:002:0042–0052` | Permission for advice, friends-persisted account, plea to persist, heard rescue vow | Analogy is not direct access to Mafuyu's wishes; Honami's response to the absolute vow is unshown. |
+| `PJSK:area:areatalk_ev_night_01_001:01:001:0002–0009` | Childhood-friend practice, modest skill appraisal and proposed recording | No delivered recording, actual listening or full group identification. |
+| `PJSK:area:areatalk_ev_night_01_002:01:001:0002–0009` | Menu-planning pleasure, reciprocal shopping and provisional taste inference | No exact favorite food established; Honami plans verification. |
+| `PJSK:area:areatalk_ev_night_01_003:01:001:0002–0010` | Unnamed companion, warm shared-town recognition | No identification of friend or confirmed earlier encounter. |
+
+### Locked envelope inventory and release limits
+
+The eight core chapters and ten card halves have initial availability `2020-10-20T06:00:00Z`, bucket `RB_20201020T060000Z`. All four areas have null publication timestamp/bucket, condition-ordered unlock `100108`, target `1000016`, event2. `areatalk03_267` is an ordinary area; the three `night_01` exchanges are event-linked areas. No archive or additional crosslink belongs to the retained envelope. Card0115 front explicitly follows the exhibition; association does not establish a total depicted order among cards and areas.
+
+| Story | Records | Scenes | Canonical SHA-256 |
+|---|---:|---:|---|
+| `PJSK:event:0002:01` | 114 | 2 | `6177c143eb0ac738e71395d3ee99ebd6a0febe26b0f9091310c1af7cc24109d2` |
+| `PJSK:event:0002:02` | 90 | 2 | `dac52e80d83433337635e03ce554fffdb402a106f137f44b17a32188112ba222` |
+| `PJSK:event:0002:03` | 119 | 4 | `5ab72e66200665195a878a0c72320e3a0205cc504a4d2056a5753c8ddf273990` |
+| `PJSK:event:0002:04` | 73 | 3 | `0ad548e3727cb56b96a95c995386d2f7c403c198c5fe670bcb574325cebfaead` |
+| `PJSK:event:0002:05` | 81 | 4 | `18bf8b5ec978d53a835b9d3b2718092ed95c62d970c74de7d130cee568b296fb` |
+| `PJSK:event:0002:06` | 80 | 1 | `8b7467c799efe892cd9eef18aa5bbb0516d2f9e943f657d6015e689cd7c5729f` |
+| `PJSK:event:0002:07` | 137 | 4 | `43ddbea4a81023fceea1b06970ba6264ba7fdc482e6b370c59e6f7d2179acecd` |
+| `PJSK:event:0002:08` | 113 | 3 | `7d40c3796e83db632c9d5d5267d19877ef2a93a5762ffbc73de00756f1cec2bb` |
+| `PJSK:card:0114:01` | 88 | 1 | `521122cc86ad22c3a5f6fc30fee9e8ebdc5f0cad32b7c0093e8bffb6e55e6967` |
+| `PJSK:card:0114:02` | 68 | 1 | `f5c2df064dd9d742ba3fdca94040588a01724df8f763a1fb51be294775c31e13` |
+| `PJSK:card:0115:01` | 58 | 2 | `37c387ac040f9fb3caa26934327fc58ab5485705fa890dcbe43f9bd81f06f575` |
+| `PJSK:card:0115:02` | 50 | 1 | `c71497cd39db074b39fc5906ae5d566caacf1a203d09e6039bdbe2b3f82fc30b` |
+| `PJSK:card:0116:01` | 62 | 1 | `289d8cc32572be10e8d0a193c7540083b0f6590f0cf493d12b0a83cb567ecf1f` |
+| `PJSK:card:0116:02` | 46 | 1 | `5f9c825ac0aa08a58da81d04e03571c0b1f1933cdc31acb2e8a532bef196254e` |
+| `PJSK:card:0117:01` | 61 | 1 | `e8f7d462e052184d152edd1ebfc0fd0fdae8e524e6449e81f561e0756edf5e64` |
+| `PJSK:card:0117:02` | 50 | 1 | `27012c90e7c08a45c16d2dd66b475c91ef0eda39f11e68af46418f92ea72fd7d` |
+| `PJSK:card:0118:01` | 94 | 1 | `d789f55fd871e303ed6c4b1543f8527ac13be2858adf7b594cfc3705d4393caf` |
+| `PJSK:card:0118:02` | 69 | 2 | `6fbe778d1bbd9a32c3e4a7fe5db53bfa408461f6c95c23b9257361a087835540` |
+| `PJSK:area:areatalk03_267:01` | 10 | 1 | `18bc7066336b8606ad30588ad04162d69c37f38bb0f1043662e6f5166075c909` |
+| `PJSK:area:areatalk_ev_night_01_001:01` | 9 | 1 | `725a7c9809a955d3e4159a6485e8066858b12fed822f23e8649437af365349a4` |
+| `PJSK:area:areatalk_ev_night_01_002:01` | 9 | 1 | `1f7ebfa5f357f9c59476c5a69c7c65efe79145ba98c9c010067d6416f236a018` |
+| `PJSK:area:areatalk_ev_night_01_003:01` | 10 | 1 | `f351d7854a8579ba798932e1d0c89d36c5f6240a320700818ad3444ad79e7392` |
+
+**Verified inventory:** 22 stories / 1491 ordered records / 39 scenes. Six Honami-relevant story surfaces received targeted ordered rereads; the existing N25 pass remains unchanged.
+
+**Closure:** All five human-unit dispositions are reconciled. The six ledgers preserve prior histories, adding Honami characterization, a scoped supplement to `REL-CROSS-KANADE-HONAMI-E0002` and new `EPI-CROSS-HONAMI-KANADE-E0002`; claims/themes explicitly preserve their existing formulations. Twenty older universal screens remain pending, with EVENT_0003 next. The forward EVENT_0090 / next EVENT_0091 frontier and reconstruction/synthesis backlog remain independent.

@@ -54,7 +54,7 @@ SUPERSEDED
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
 - Latest closed forward transaction and positive N25 integration: `EVENT_0090`, I2 Ena expressive-method refinement; next `EVENT_0091`. All six longitudinal ledgers reach EVENT_0090. Two bounded cross-unit relationship responsibilities and three epistemic records are added without a new global human state. Preserve EVENT_0089's protective/family/KAITO records and unequal-information limits, EVENT_0080's Mafuyu–Shizuku state, `REL-N25-EM-5`, E0077 corrections and all unaffected increments. No completed art career, liberation or taste recovery.
 - Current N25 tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`.
-- Completed main-story foundations: all five human units — N25, LEO_NEED, VBS, MMJ and WXS. Their main-story baselines remain current; EVENT_0001 now adds LN I2 and WxS/MMJ I1 integrated evidence, with other material routes pending ordered work.
+- Completed main-story foundations: all five human units — N25, LEO_NEED, VBS, MMJ and WXS. Their main-story baselines remain current; EVENT_0001 adds LN I2 and WxS/MMJ I1; EVENT_0002 adds bounded LN I1 with existing N25 I3 retained, and other material routes remain pending ordered work.
 - Franchise routing inventory reaches EVENT_0090, but gap-free universal screening is **not complete**: 20 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
 - Material routes for LEO_NEED, MMJ, VBS and WXS still require ordered foundation-aware interpretation. All five human units now have their main-story baselines. EVENT_0046–0090 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
@@ -127,7 +127,13 @@ Remaining older universal-screen gaps: 20. Next unresolved historical screen: EV
 
 WxS I1 preserves P06 humans/company with Tsukasa ordinary-family evidence and bounded relationship/knowledge additions. MMJ I1 preserves P05 humans/group with reported work/class/recreation relationships and absent-side limits. N25/VBS remain I0. All six ledgers, unit reading index and routing dispositions are synchronized. No medical cure, perfect transparency, fulfilled future trip/lunch, global human successor or mature character readiness is certified.
 
-This resolves the material interpretations that were pending at the earlier discovery checkpoint. Twenty older universal screens remain; EVENT_0003 is next unresolved. LN EVENT_0002 requires targeted enrichment of the existing completed reading's Honami route, then ordered interpretation. Forward EVENT_0090 / next EVENT_0091 remains unchanged.
+This resolves the material interpretations that were pending at the earlier discovery checkpoint. Twenty older universal screens remain; EVENT_0003 is next unresolved. LN EVENT_0002 is now integrated as specified below. Forward EVENT_0090 / next EVENT_0091 remains unchanged.
+
+### Historical EVENT_0002 ordered integration
+
+Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusing the existing complete 22-story N25 reading and targeted Honami evidence. The [Honami integration checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) preserves all P04 human defaults and EVENT_0001 refinements, supplements the existing Kanade–Honami relationship, and records bounded knowledge separately. N25's existing EVENT_0002 I3 and its later defaults remain valid at their own cutoffs; MMJ/VBS/WxS are NONE / documentary I0. Twenty older universal screens remain pending, with EVENT_0003 next. This closes LN's EVENT_0002 responsibility without advancing forward EVENT_0091 or certifying mature reconstruction readiness.
+
+Character-state coverage adds work, advice and reciprocal ordinary/musical interests. Relationship coverage supplements the existing bounded dyad without replacing later history. Epistemic coverage gains one recipient-bound record; claims and themes have explicit preservation dispositions. The 22-source hashes / 1491 records / 39 scenes remain inventoried in routing. No existing N25 reading was rewritten, and no full-envelope discovery was repeated.
 
 ### Historical initial summary
 
