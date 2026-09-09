@@ -7,8 +7,8 @@ scope: THROUGH_Y2
 generation: V1
 version: "1.4"
 refinement_pass: R4_SECONDARY_CHARACTER_ABSTENTION_THRESHOLDS
-status: active_provisional
-authority_state: active_provisional
+status: canonical
+authority_state: canonical
 source_boundary: "Frozen Year 1 V2 through First File + canonical Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position + Year 2 Official Guidebook Second List"
 spoiler_boundary: "through Year 2 Second List only; Year 3 narrative evidence excluded"
 source_language: ja
@@ -22,16 +22,16 @@ may_originate_canonical_character_facts: false
 prospective_validation_target: "Year 3 material only after Year 2 archival lock and explicit unlock"
 handoff_tracker: COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md
 handoff_tracker_state: "canonical at Y2SL; 15 development / 3 revelation / 7 reframed / 13 partial / 4 open"
-protocol_maturity: "operational core refined; 23-case calibration suite complete including secondary-character abstention thresholds; specialist/full-synthesis audit passed; archival checksum integration pending"
+protocol_maturity: "operational core refined; 23-case calibration suite complete including secondary-character abstention thresholds; specialist/full-synthesis audit passed; archival checksum integration complete"
 created_at: "2026-08-25"
 updated_at: "2026-09-09"
 ---
 
-> **PROVISIONAL OPERATIONAL STATUS**
+> **CANONICAL DERIVATIVE PROTOCOL AT Y2SL**
 >
-> This document is being built as a downstream inference protocol over the canonical COTE V2 corpus. It is **not** a character ledger, specialist synthesis, or source authority. It may combine canonical evidence to constrain a novel-situation reconstruction, but it may not create new canonical character facts merely because a generated behavior seems coherent.
+> This document operates as a downstream inference protocol over the canonical COTE V2 corpus. It is **not** a character ledger, specialist synthesis, or source authority. It may combine canonical evidence to constrain a novel-situation reconstruction, but it may not create new canonical character facts merely because a generated behavior seems coherent.
 >
-> The initial build established the ontology, routing rules, inference stages, uncertainty discipline, and failure controls. **Refinement R1** integrated the completed Year-1 to Year-2 handoff-question tracker and formalized claim-type-specific evidence precedence, epistemic-state reconstruction, multi-character social topology, goal-conflict resolution, branch determinacy, and a larger guardrail set. **Refinement R2** expanded the worked calibration suite to 11 cases covering ordinary participation, audience-conditioned distress, distributed role ownership, open-question abstention, bounded obligation, model correction, split-register public competence, post-patronage rivalry, insurance brokerage, sparse White Room-linked epistemics, and adult conflict of interest under witness architecture. **Refinement R3** added bounded recursive-modeling rules and six high-agency cross-character tests in which several capable actors simultaneously observe, misread, pressure, signal, and update on one another without any actor model becoming protocol truth. **Refinement R4** calibrates secondary-character abstention: reconstruction permission is now scenario-relative, voice permission is separately gated, role/group evidence cannot silently become a portable personality, and the protocol may explicitly return character-specific abstention when the frozen corpus cannot distinguish the target from plausible same-role peers. The specialist/full-synthesis audit is complete; the protocol remains `active_provisional` until archival checksum integration is complete.
+> The initial build established the ontology, routing rules, inference stages, uncertainty discipline, and failure controls. **Refinement R1** integrated the completed Year-1 to Year-2 handoff-question tracker and formalized claim-type-specific evidence precedence, epistemic-state reconstruction, multi-character social topology, goal-conflict resolution, branch determinacy, and a larger guardrail set. **Refinement R2** expanded the worked calibration suite to 11 cases covering ordinary participation, audience-conditioned distress, distributed role ownership, open-question abstention, bounded obligation, model correction, split-register public competence, post-patronage rivalry, insurance brokerage, sparse White Room-linked epistemics, and adult conflict of interest under witness architecture. **Refinement R3** added bounded recursive-modeling rules and six high-agency cross-character tests in which several capable actors simultaneously observe, misread, pressure, signal, and update on one another without any actor model becoming protocol truth. **Refinement R4** calibrates secondary-character abstention: reconstruction permission is now scenario-relative, voice permission is separately gated, role/group evidence cannot silently become a portable personality, and the protocol may explicitly return character-specific abstention when the frozen corpus cannot distinguish the target from plausible same-role peers. The specialist/full-synthesis audit and archival checksum integration are complete. Canonical authority here governs derivative reconstruction constraints only; it never promotes a hypothetical into evidence.
 
 # Classroom of the Elite — Behavioral Reconstruction Protocol through Year 2
 ## Operational inference from canonical character, relationship, ordinary-life, institutional, ethical, and Japanese-voice evidence
@@ -4302,13 +4302,13 @@ Refinement R4 has now completed the planned secondary-character abstention tranc
 - the distinguishability test prevents same-role generic behavior from masquerading as character reconstruction;
 - Yamamura, Satō, Ishizaki, Onodera, Himeno, and Albert calibrate narrow-diagnostic, relationship-rich, role-conflict, single-domain, coalition-structural, and hard-abstention evidence shapes.
 
-Before promotion from `active_provisional` to `canonical`, remaining work should be:
+The canonical-promotion checklist is now dispositioned as follows:
 
 1. **completed:** protocol-level audit against all thirteen specialists and the full synthesis; the [closeout audit](../03%20Year%202%20Definitive%20Second%20Pass/04%20Source%20Maps%20and%20Support/COTE_Y2_RECONSTRUCTION_PROTOCOL_CLOSEOUT_AUDIT.md) records 23 passing cases with their existing limits;
-2. archival-lock metadata and checksum integration;
-3. only after real prospective Year-3 prediction/observation pairs exist, a separate validation ledger.
+2. **completed:** archival-lock metadata and checksum integration in the Year-2 release;
+3. **deferred by design:** only after real prospective Year-3 prediction/observation pairs exist, a separate validation ledger.
 
-The reconstruction protocol's calibration program and specialist/full-synthesis audit are complete. The next operation is **Year-2 archival checksum integration**, followed by canonical promotion as a derivative boundary method. A prospective validation ledger remains deferred until real admissible prediction/observation pairs exist.
+The reconstruction protocol's calibration program and specialist/full-synthesis audit are complete. The protocol is now canonical as a derivative boundary method, included in the Year-2 artifact checksum inventory. Final release eligibility is governed by the corpus entrypoint and exact published verification. A prospective validation ledger remains deferred until real admissible prediction/observation pairs exist.
 
 # 18. Provisional governing thesis
 

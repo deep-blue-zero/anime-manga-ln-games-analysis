@@ -3,8 +3,9 @@ series: COTE
 artifact_type: current_state_and_corpus_map
 scope: Y2
 generation: V2
-status: active_provisional
-source_boundary: "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings complete; Year-2 boundary integration active"
+status: canonical
+authority_state: canonical
+source_boundary: "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings and closeout analysis complete; prepared release awaiting exact publication verification"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +14,7 @@ updated_at: "2026-09-09"
 # COTE Year 2 V2 — Current State and Corpus Map
 
 ## Authority
-This is the canonical active entrypoint for the Year 2 definitive second pass. The frozen Year 1 V2 corpus remains immutable historical authority at the Y1V11.5 + First File boundary.
+This is the canonical operational history and release-status record for the Year 2 definitive second pass. Start with the [Year-2 README](../05%20Year-Level%20Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md) for current routing. Embedded Drive IDs, byte counts and artifact fingerprints below are historical promotion records; the [Git release checksum inventory](COTE_Y2_ARTIFACT_CHECKSUMS.sha256) owns current artifact bytes. The frozen Year 1 V2 corpus remains immutable historical authority at the Y1V11.5 + First File boundary.
 
 ## Governing documents
 - `COTE_Y2_ANALYTICAL_METHOD_V2.md`
@@ -27,7 +28,7 @@ This is the canonical active entrypoint for the Year 2 definitive second pass. T
 
 Current reader-level authority endpoint: **through Y2SL**, with Volume 0 retained at the mandated retrospective position between Y2V08 and Y2V09 and `Second List` retained after Y2V12.5 as paratext rather than retroactively injected into the immutable volume-local artifacts.
 
-The next operation is **Year-2 boundary integration**: through-Y2 character/relationship/institution ledgers, specialist synthesis, full synthesis, evidence/index consolidation, and next-year handoff. **Year 3 remains locked until that boundary layer is complete and administratively verified.**
+The Year-2 analytical and local administrative closeout is complete. **The remaining operation is exact branch-publication verification and final freezing. Year 3 remains locked until that verification is complete.**
 
 ## Canonical source sequence
 `Y2V01 -> Y2V02 -> Y2V03 -> Y2V04 -> Y2V04.5 -> Y2V05 -> Y2V06 -> Y2V07 -> Y2V08 -> V00 -> Y2V09 -> Y2V09.5 -> Y2V10 -> Y2V11 -> Y2V12 -> Y2V12.5 -> Y2SL`
@@ -230,14 +231,14 @@ The four previously promoted character ledgers implement the architecture-mandat
   - SHA-256: `c19704e81dc1d864ca05037293650e9620ae966ff0e6f9ca8aacdf908132b313`
   - bytes: `172605`
   - boundary: `Y2SL`; Year 3 narrative evidence excluded
-  - status: `active_provisional`; downstream operational-method layer, not a source authority, character ledger, or specialist synthesis
+  - status: `canonical`; audited downstream operational-method layer, not a source authority, character ledger, or specialist synthesis
   - architecture amendment: `COTE_Multi_Document_Synthesis_Architecture_v1.md` is v1.1 and explicitly recognizes boundary-specific behavioral reconstruction protocols as derivative operational infrastructure.
   - controlling rule: reconstruct constraints first, behavior second, speech third; preserve underdetermination rather than forcing deterministic or falsely quantified predictions.
   - refinement state: `R4_SECONDARY_CHARACTER_ABSTENTION_THRESHOLDS` / protocol version `1.4`.
   - current implemented layers: authority hierarchy; claim-type-specific evidence precedence; canonical input routing; scenario-state vector; directed multi-character social topology; proposition-level knowledge/deception/false-belief model; qualitative goal-conflict resolution; behavior-before-speech pipeline; four support classes (`DEMONSTRATED`, `STRONG_GENERALIZATION`, `BOUNDED_EXTRAPOLATION`, `SPECULATIVE`); separate determinacy states (`NARROWLY_DETERMINED`, `BRANCHED`, `OPEN_FIELD`, `ABSTAIN_ON_CLOSURE`); separate reconstruction-permission states (`PORTABLE_BOUNDED`, `CONTEXT_ANCHORED`, `STRUCTURAL_ONLY`, `ABSTAIN_CHARACTER_SPECIFIC`); separate voice-permission states (`VOICE_REALIZATION_BOUNDED`, `VOICE_REGISTER_ONLY`, `VOICE_PARAPHRASE_ONLY`, `VOICE_ABSTAIN`); handoff-question gating; expanded character guardrails; adversarial tests; compact reconstruction worksheet; and prospective Year-3 validation design.
   - worked calibration suite: twenty-three source-routed hypotheticals. Initial five cover ordinary Ayanokōji/Hiyori, socially observed Kei, distributed-role Horikita/Ibuki/Sudō, `Y1H-026` Hiyori/Ryūen abstention, and bounded-obligation Kōenji; R2 adds Sakayanagi/Yamamura corrigibility, post-exposure Kushida public repair, leverage-free Nagumo autonomy, Hashimoto insurance brokerage, paired Nanase/Amasawa epistemic gating, and Hoshinomiya conflict-of-interest under witness architecture; R3 adds six high-agency cross-character cases covering hidden informational authority, role loss plus brokerage, merit versus patronage, unresolved information markets, ordinary scarcity, and a nonstrategic emergency; R4 adds Yamamura, Satō, Ishizaki, Onodera, Himeno, and Albert cases spanning narrow-diagnostic depth, relationship-rich context anchoring, conflicting real relationships, single-domain pedagogy, coalition-structural evidence, and hard individual abstention.
   - R4 abstention layer: scenario-relative evidence-envelope mapping; distinguishability test against plausible same-role peers; explicit separation of person evidence from role/group evidence; independent behavior and voice permissions; hard abstention triggers for private-preference invention, untested moral hierarchy, single-scene universalization, unsupported interior/idiolect completion, group-to-individual transfer, and fandom completion.
-  - promotion condition: pre-synthesis calibration program is complete; remains provisional until post-specialist-synthesis audit and archival-lock/checksum integration are complete.
+  - promotion condition satisfied: all 23 calibrations passed the completed specialist/full-synthesis audit, and the protocol is integrated into the release checksum inventory. It remains derivative only.
 
 ### Completed Year-1 → Year-2 handoff-question tracker
 - `COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md`
@@ -263,7 +264,7 @@ The architecture audit corrected the earlier incomplete claim that every require
 The cumulative filenames carry an explicit `Y2SL` snapshot boundary. None claims a Year-3 update. The existing separate institutional-rules and examination ledgers jointly fulfill the architecture's institution/exam responsibility; no redundant combined replacement is created.
 
 ### Phase-1 completion lock
-All Year-2 boundary ledgers and the Year-1 → Year-2 handoff-question tracker are complete and canonical at `Y2SL`. The downstream behavioral reconstruction protocol remains `active_provisional` and is not part of the evidence-promotion gate.
+All Year-2 boundary ledgers and the Year-1 → Year-2 handoff-question tracker are complete and canonical at `Y2SL`. The downstream behavioral reconstruction protocol is canonical after its completed closeout audit and checksum integration; it remains a derivative method rather than evidence.
 
 
 ## Year-2 specialist synthesis layer — active
@@ -279,10 +280,10 @@ The Year-2 project now has a dedicated synthesis home:
   - Drive ID: `1IgFKyXNHZrzv6OHLMJT8n-yPGsr3OB3c`
   - SHA-256: `f6a6bb292fadeb29b3f846fdba90a30191e70186d7ef6f943a52ee9010b6a667`
   - bytes: `63323`
-  - status: `active_provisional`
+  - status: `canonical`; prepared release awaiting exact remote verification
   - boundary: `Y2SL`; Year 3 narrative evidence excluded
   - responsibility: reader-facing Year-2 synthesis-layer orientation, authority map, retrieval guide, corpus map, open-question routing, and release-state map
-  - authority relationship: `COTE_Y2_PROJECT_STATUS.md` remains the canonical operational current-state entrypoint while synthesis work is active. `Y2_00` is the stable reader-routing home and will be updated in place, then finalized last in accordance with the architecture's README-finalization rule.
+  - authority relationship: `Y2_00` is now the first-read Year-2 entrypoint, updated in place after the analytical and administrative layers. This status file preserves the operational history. Final archive freezing awaits exact remote verification.
 
 ### Canonical `Y2_01` specialist
 
@@ -427,15 +428,16 @@ The Year-2 project now has a dedicated synthesis home:
 - [COTE_Y2_FULL_SYNTHESIS.md](../05%20Year-Level%20Synthesis/COTE_Y2_FULL_SYNTHESIS.md)
   - status: `canonical`; boundary `Y2SL`; Year-3 evidence excluded
   - responsibility: continuous integration of the completed specialist model, including capacity, authorship of purpose, answerability, character/relationship development, class succession, institutions, Japanese form, retrospective limits, counterarguments and surviving questions
-  - all thirteen specialist slots and the full synthesis now exist as canonical analysis; the protocol audit, release administration and verified branch publication remain required before closure eligibility
+  - all thirteen specialist slots, the full synthesis, protocol audit and local release administration are complete; verified branch publication remains required before closure eligibility
 
 ## Next architecture-defined step
-**Complete Year-2 release administration and verified publication.**
+**Verify the prepared release after branch publication, then record the final freeze.**
 
-`Y2_01` owns the canonical Year-2 causal spine, `Y2_02` the integrated Ayanokōji psychology/ethics/voice argument, `Y2_03` Horikita leadership/self-authorship/class formation, `Y2_04` the directed relationship system, `Y2_05` the comparative four-polity constitutional argument, `Y2_06` the integrated ability/meritocracy/measurement/points/examination argument, `Y2_07` the institutional-governance/surveillance/adult-power/White-Room argument, `Y2_08` the integrated ethics/autonomy/protection/expulsion/violence argument, and `Y2_09` the integrated Japanese narration/written-voice/genre/humor/visual-paratext argument. `Y2_10` now owns retrospective claim transitions and the direct cohort-routing correction. `Y2_11` now owns the comparative matrices and analytical handoff. `Y2_12` now owns evidence routing and source-locator verification. `Y2_13` now owns the consolidated Japanese-language passage index. `COTE_Y2_FULL_SYNTHESIS.md` now integrates that model without replacing the specialist primary homes. The [protocol closeout audit](../04%20Source%20Maps%20and%20Support/COTE_Y2_RECONSTRUCTION_PROTOCOL_CLOSEOUT_AUDIT.md) confirms all 23 cases with their existing limits. Current evidence/language routes and the twelve Y2H nonclosure gates are integrated; canonical protocol promotion awaits archival checksum integration.
+`Y2_01` owns the canonical Year-2 causal spine, `Y2_02` the integrated Ayanokōji psychology/ethics/voice argument, `Y2_03` Horikita leadership/self-authorship/class formation, `Y2_04` the directed relationship system, `Y2_05` the comparative four-polity constitutional argument, `Y2_06` the integrated ability/meritocracy/measurement/points/examination argument, `Y2_07` the institutional-governance/surveillance/adult-power/White-Room argument, `Y2_08` the integrated ethics/autonomy/protection/expulsion/violence argument, and `Y2_09` the integrated Japanese narration/written-voice/genre/humor/visual-paratext argument. `Y2_10` now owns retrospective claim transitions and the direct cohort-routing correction. `Y2_11` now owns the comparative matrices and analytical handoff. `Y2_12` now owns evidence routing and source-locator verification. `Y2_13` now owns the consolidated Japanese-language passage index. `COTE_Y2_FULL_SYNTHESIS.md` now integrates that model without replacing the specialist primary homes. The [protocol closeout audit](../04%20Source%20Maps%20and%20Support/COTE_Y2_RECONSTRUCTION_PROTOCOL_CLOSEOUT_AUDIT.md) confirms all 23 cases with their existing limits. Current evidence/language routes and the twelve Y2H nonclosure gates are integrated; canonical protocol promotion and archival checksum integration are complete.
 
 Remaining closeout sequence:
-1. complete manifest, checksums, corpus index, delivery package and source/artifact/routing audits;
-2. update the current status and finalize `Y2_00` last as the stable frozen Year-2 entrypoint;
-3. publish the exact validated branch state, verify remote blobs and integration/housekeeping audits, then record Year-3 eligibility only when every gate condition is true;
-4. stop at the frozen Year-2 boundary; Y3V01 belongs to a later execution.
+1. publish the exact validated prepared release and verify remote blobs, current-main ancestry, housekeeping and Repository integration audit;
+2. record final freezing and Year-3 eligibility only after those conditions pass, regenerate the final checksum envelopes and verify the resulting published head;
+3. stop at Y2SL; Y3V01 belongs to a later execution.
+
+The [manifest](COTE_Y2_CORPUS_MANIFEST.md), [machine index](COTE_Y2_CORPUS_INDEX.json), [source checksums](COTE_Y2_SOURCE_CHECKSUMS.sha256), [artifact checksums](COTE_Y2_ARTIFACT_CHECKSUMS.sha256), [delivery audit](COTE_Y2_DELIVERY_AUDIT.md) and [archival-lock record](COTE_Y2_V2_ARCHIVAL_LOCK.md) own the release inventory and verification boundary.
