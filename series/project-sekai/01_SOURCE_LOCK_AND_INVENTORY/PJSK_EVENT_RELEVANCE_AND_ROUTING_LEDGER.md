@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0084; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0085; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1930,3 +1930,95 @@ next_event: EVENT_0085
 | Ordinary invitations and lingering awkwardness | `PJSK:area:areatalk_ev_shuffle_28_001:01`; `PJSK:area:areatalk_ev_shuffle_28_003:01`; `PJSK:area:areatalk_ev_shuffle_28_005:01` | Practice observation/walk agreed, not shown; Honami/Nene's surprise can still produce speechlessness. |
 
 All 28 declared hashes/ranges remain in the shared reading. N25 I2 updates six ledgers without new state/claim/theme IDs; other material unit impacts remain deferred. Latest relationship/epistemic I3 EVENT_0080 and global human-state transition EVENT_0072 persist. Next EVENT_0085; all earlier gaps and full-completion dependencies remain.
+
+## EVENT_0085 — ほどかれた糸のその先に
+
+```yaml
+release_id: EVENT_0085
+release_bucket: RB_20230210T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 8 archive-publication/event-unlock areas = 26"
+core_locators: [PJSK:event:0085:01, PJSK:event:0085:02, PJSK:event:0085:03, PJSK:event:0085:04, PJSK:event:0085:05, PJSK:event:0085:06, PJSK:event:0085:07, PJSK:event:0085:08]
+card_locators: [PJSK:card:0589:01, PJSK:card:0589:02, PJSK:card:0590:01, PJSK:card:0590:02, PJSK:card:0591:01, PJSK:card:0591:02, PJSK:card:0592:01, PJSK:card:0592:02, PJSK:card:0593:01, PJSK:card:0593:02]
+area_locators: [PJSK:area:areatalk_ev_idol_12_001:01, PJSK:area:areatalk_ev_idol_12_002:01, PJSK:area:areatalk_ev_idol_12_003:01, PJSK:area:areatalk_ev_idol_12_004:01, PJSK:area:areatalk_ev_idol_12_005:01, PJSK:area:areatalk_monthly2303_003:01, PJSK:area:areatalk_monthly2303_004:01, PJSK:area:areatalk_monthly2303_005:01]
+
+chronology_note: "Cards 0589-0591 initially available 03:00Z, 0592-0593 06:00Z; five idol_12 areas archive-published 2023-02-10T06:00Z, three monthly2303 areas 2023-03-30T06:00Z. All eight lack initial-availability buckets and carry separate condition 108408 / episode 1000688, chapter 8. Past formation/exclusion, present preparation/recording, broadcast weeks later and subsequent response remain distinct."
+unit_routes:
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Shizuku, Airi, Haruka, Minori, Higurashi_Arisa, Yamashita_Marina, Cheerful_Days_members, agency_producer, agency_staff, other_program_producer, Aihaza_producer, production_staff, manager_reported, fans_and_former_fan, Shiho, Samo_video]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [self_authored_speech, persona_and_continuity, audience_care, imposed_image, institutional_incentives, collaborative_labor, unequal_opportunity, ambition_and_responsibility, self_blame, mistreatment, specific_accountability, incomplete_reconciliation, professional_skill, mixed_motives, reciprocal_support, historical_strength, social_register, bounded_knowledge, preparation_and_learning, received_feedback, ordinary_life, manifestation_experience_limits]
+    locators: [PJSK:event:0085, PJSK:card:0589, PJSK:card:0590, PJSK:card:0591, PJSK:card:0592, PJSK:card:0593, PJSK:area:areatalk_ev_idol_12_001:01, PJSK:area:areatalk_ev_idol_12_002:01, PJSK:area:areatalk_ev_idol_12_003:01, PJSK:area:areatalk_ev_idol_12_004:01, PJSK:area:areatalk_ev_idol_12_005:01, PJSK:area:areatalk_monthly2303_003:01, PJSK:area:areatalk_monthly2303_004:01, PJSK:area:areatalk_monthly2303_005:01]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Shiho, Shizuku, Airi_gift_companion]
+    manifestations: []
+    domains: [sibling_support, limited_disclosure, recognized_strain, physical_affection_boundary, chosen_aim, self_trust, ordinary_preferences_reported, gift_intention]
+    locators: [PJSK:card:0589:01:001:0019–0063, PJSK:area:areatalk_monthly2303_003:01]
+  N25:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: I0
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  WXS:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: NOT_APPLICABLE_NO_MATERIAL_ROUTE
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  VBS:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: NOT_APPLICABLE_NO_MATERIAL_ROUTE
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0085_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0086
+```
+
+| Reusable responsibility | Evidence | Interpretation and limits |
+|---|---|---|
+| Shizuku–Airi / chosen exposure with an option to decline | `PJSK:event:0085:01:003`; `PJSK:event:0085:02:001:0012–0045` | Acknowledge hurt, offer cancellation without guilt, then support her chosen opportunity. No requirement that reconciliation succeed. |
+| Shizuku / ordinary fallibility and professional care | `PJSK:event:0085:01:001`; `PJSK:event:0085:01:003:0012–0013`; `PJSK:card:0591:02:002:0003–0012`; `PJSK:area:areatalk_ev_idol_12_002:01` | Phone errors coexist with acquired modeling skill and successful speech; not global incompetence or sudden self-sufficiency. |
+| Minori / useful purpose and situational nerves | `PJSK:event:0085:02:003`; `PJSK:card:0590:01`; `PJSK:card:0593:01:001`; `PJSK:event:0085:06:002:0006–0015` | Concrete self-chosen message, deliberate practice, pacing feedback and playful care help without eliminating later pressure. |
+| Television institution / improvisation and consent | `PJSK:event:0085:03:001`; `PJSK:event:0085:07:001:0024–0048` | Expected questions are not a guarantee; producer knows rumor and offers advance meeting. Continued filming supports an inference about usable footage, not proof of a preplanned conspiracy. |
+| Cheerful＊Days / genuine early support and rivalry | `PJSK:event:0085:04:004`; `PJSK:event:0085:04:005:0002–0034`; `PJSK:event:0085:05:004:0002–0037` | Initial welcome, competitive fellowship, admitted difficulty and willing cover are not retrospectively erased by later harm. |
+| Shizuku–management / selective image and hidden labor | `PJSK:event:0085:04:005:0035–0046`; `PJSK:event:0085:05:003`; `PJSK:event:0085:05:004:0002–0045` | Management rejects gap/fallibility marketing; increasing work and peer cover create uneven conditions. Private producer conversation is not automatic human/group knowledge. |
+| Shizuku–Arisa/peers / opportunity, scheduling and exclusion | `PJSK:event:0085:05:004:0048–0116` | Theater fans, center responsibility and invisible work give grievances content; hostility remains distinct. Missing costume's cause is unestablished; Shizuku's totalizing self-blame stays attributed. |
+| Airi / anger with accurate assessment | `PJSK:card:0591:01:001`; `PJSK:event:0085:08:001:0026–0046`; `PJSK:area:areatalk_ev_idol_12_001:01` | Research recognizes Arisa's balanced hosting and skill without excusing cruelty. Anticipated agency restraint proves fallible; objection persists after success. |
+| Shizuku–Shiho / agency and physical boundary | `PJSK:card:0589:01:001:0019–0063` | Limited pre-recording disclosure, direct encouragement, refused hug and respected self-chosen aim. No exhaustive knowledge or performed embrace. |
+| Shizuku–Haruka / prior strength and shared responsibility | `PJSK:card:0592:01:001:0018–0064` | Earlier appraisal was sincere, not mere consolation; all chose the appearance. Mutual help does not disqualify strength. |
+| Shizuku / public causal framing and continuous self | `PJSK:event:0085:07:001:0050–0106` | Minori notes omission of imposed agency policy. Both periods belong to Shizuku through real fan care; no demand all former fans prefer her present self. |
+| Minori–MMJ / failed improvisation and later owned response | `PJSK:card:0590:02:001:0008–0084` | Others turn a difficult question into useful promotion. Later debrief acknowledges preparation and produces an actual practice answer; it was not spoken on camera. |
+| Shizuku–Arisa / mixed motives and incomplete reconciliation | `PJSK:event:0085:08:001:0020–0110` | Arisa admits both work purpose and interest in seeing her falter; praises the answer but never apologizes. Shizuku's specific apology and hope for recognition do not create reciprocal forgiveness. |
+| Shizuku–Airi / received historical influence | `PJSK:card:0591:02:003:0004–0036` | Airi's earlier Happy Everyday self-recognition helps Shizuku reconsider her past, as tentatively explained now. Explicit thanks and future commitment differ from Airi's unfinished private admiration. |
+| MMJ–fans / actual reception with limits | `PJSK:event:0085:08:003`; `PJSK:card:0589:02:001` | Broadcast, new awareness/subscriber growth and one former fan's returned support are evidenced; universal approval, future booking and full repair are not. |
+| Stage singers / received effect and recognized learning gap | `PJSK:card:0592:02:001`; `PJSK:card:0593:02:001` | Report precedes actual viewing; KAITO supplies display access. Haruka credits MEIKO's earlier help; MEIKO recognizes limited TV experience and proposes more learning. |
+| Ordinary shared life / pets, taste and playful knowledge | `PJSK:area:areatalk_ev_idol_12_003:01`; `PJSK:area:areatalk_ev_idol_12_004:01`; `PJSK:area:areatalk_ev_idol_12_005:01`; `PJSK:area:areatalk_monthly2303_003:01`; `PJSK:area:areatalk_monthly2303_004:01`; `PJSK:area:areatalk_monthly2303_005:01` | Distinguish pet interpretation, enjoyable failed concealment, practiced rope skill, conditional gift trade, requested host-role advice and playful test from outcomes or objective psychology. |
+
+All 26 declared witness hashes/ranges remain in the shared reading. N25 I0 changes RELEASE_IMPACT/documentary state only; five substantive N25 ledgers remain byte-preserved at EVENT_0084. MMJ and Leo/need impacts remain deferred. Next EVENT_0086; all older gaps and full-completion dependencies persist.
