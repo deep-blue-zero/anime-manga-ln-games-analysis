@@ -20,6 +20,6 @@ Read [the packet entrypoint](WUWA_DENIA_ANALYSIS_PACKET_README.md), then [the ch
 
 Drive evidence bridge: `1RCrb3zpoAF05f9_YEC4CJ62zY9CoehrV`. Source commit: `353f2eaed119bc9f680eab92807d20ac75a79b40`; Chinese is the primary textual witness, with Japanese, Korean, and English localization witnesses.
 
-See [the import record](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) for source hashes and publication-state interpretation. Packet-local draft and not-committed statements are preserved historical metadata; branch publication does not itself establish merged-main authority.
+See [the import record](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) for source hashes and publication-state interpretation. The owner has now adopted all 11 packet documents as current `active_provisional` authority within their stated text/audio scope, with the complete quartet and veto=false. Original preparation statements are historical. See the [authority adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md); the adoption becomes effective through governed integration into `main`.
 
 The next analytical step is the pending AV evidence pass described by the packet. Collection plans and stress-test scenarios are not completed observations or new source evidence.

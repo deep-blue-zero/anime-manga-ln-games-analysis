@@ -57,13 +57,16 @@ def fixture(*, new_root: bool = True) -> GitSnapshot:
     if new_root:
         entries[ENTRYPOINT] = entry(ENTRYPOINT, (
             "---\nstatus: canonical\nsupersedes: []\nsuperseded_by: []\n"
-            "do_not_use_as_current_authority: false\n---\n# Completed new analysis\n"
+            "do_not_use_as_current_authority: false\n"
+            "project_initialization:\n  sequential_analysis_lock: CLOSED\n"
+            "---\n# Completed new analysis\n"
         ).encode())
         descriptor = {
             "series_id": "example", "stable_slug": "example", "canonical_title": "Example",
             "repository_path": "series/example/", "canonical_entrypoint": ENTRYPOINT,
             "canonical_entrypoint_status": "PRESENT_VERIFIED",
             "migration_scope": "GIT_NATIVE_POST_CUTOVER_EXAMPLE",
+            "project_initiation_gate": "REQUIRED",
         }
         entries[DESCRIPTOR] = entry(DESCRIPTOR, (json.dumps(descriptor) + "\n").encode())
     return GitSnapshot(TOOLS.parent, SOURCE_SHA, entries)

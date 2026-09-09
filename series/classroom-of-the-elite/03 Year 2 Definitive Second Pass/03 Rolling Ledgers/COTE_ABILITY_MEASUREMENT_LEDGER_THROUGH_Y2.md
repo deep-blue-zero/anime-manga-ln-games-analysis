@@ -36,7 +36,7 @@ current_supporting_authorities:
   - COTE_CHAR_LEDGER_CLASS_RELATIONAL_CORE_THROUGH_Y2.md
   - COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md
 created_at: "2026-08-25"
-updated_at: "2026-08-25"
+updated_at: "2026-09-09"
 ---
 
 > **BOUNDARY-PROMOTION NOTICE**
@@ -1675,9 +1675,11 @@ Do not silently combine fields across those layers.
 
 Likewise, do not use the `Y2SL-E085` first-year class-point table as an OAA/ability surface.
 
-The examination ledger currently routes that table as:
+The examination ledger now routes that table as:
 
-`OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION`.
+`RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`.
+
+Direct inspection of `COTE:Y2SL:IMG:embed0231_HD.jpg` (printed p. 236) confirms the younger first-year cohort: `新1年生`, with Amasawa, the withdrawn Yagami, Utomiya, and Hōsen callouts. The values do not conflict with Ayanokōji's own Year-1 endpoint. This corrects cohort routing, preserves both printed tables, and leaves `Y2SL-E085` unchanged. See [Y2_10, section 6](../05%20Year-Level%20Synthesis/COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md).
 
 That is a class-point / cohort-identification issue, not an ability-rating contradiction.
 

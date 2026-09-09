@@ -3,7 +3,7 @@ series: WUWA
 artifact_type: analytical_method
 scope: TITLE_WIDE
 source_boundary: "Versioned Wuthering Waves game evidence; current bootstrap anchored to source 3.6.0"
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -112,7 +112,7 @@ Git artifacts should preserve exact evidence IDs, text keys, source locators, Dr
 - `superseded`: replaced by a named successor; retained for provenance.
 - `historical_legacy`: historically meaningful but not current authority.
 
-Source freeze and analytical authority are separate. A source generation can be frozen while analysis over it remains provisional.
+Source freeze and analytical authority are separate. A source generation can be frozen while analysis over it remains provisional. Current `active_provisional` authority also remains separate from modality completion: accepted comprehensive character packets are current within their declared text/audio scope while AV-dependent claims remain open. Use the complete authority quartet with veto=false. Neither a `PRE_AV` filename nor pending AV alone justifies `draft_noncurrent`; see the character reconstruction protocol for generation and completion rules.
 
 ## Revision vocabulary
 

@@ -1,0 +1,12 @@
+logical_id	scope	role	duration_seconds	input_i_lufs	input_lra_lu	input_tp_dbfs	input_thresh_lufs
+LILJA-P01	白線	3dmv	166.463855	-13.76	4.6	0.36	-23.94
+LILJA-P02	白線	official_mv	217.524535	-7.79	3.8	1.95	-17.82
+LILJA-P03	Campus mode!!	3dmv	160.867846	-12.63	3.5	-0.23	-22.75
+LILJA-P04	極光	3dmv	196.742676	-14.05	9.0	-0.42	-24.46
+LILJA-P05	Atmosphere	3dmv	189.59093	-13.17	10.0	-0.21	-23.44
+LILJA-P06	Atmosphere	official_mv	269.328254	-8.98	12.1	-1.04	-19.29
+LILJA-P07	ときめきエモーション / REVERSI	3dmv	160.403447	-12.47	3.8	0.05	-22.61
+LILJA-P08	ときめきエモーション / REVERSI	official_mv	209.049252	-8.14	5.6	-0.1	-18.19
+LILJA-P09	ガラクタロード	3dmv	164.04898	-13.24	3.8	-0.45	-23.3
+LILJA-P10	ENDLESS DANCE	3dmv	109.621406	-11.37	2.3	0.53	-21.52
+LILJA-P11	Howling over the World	3dmv	110.666304	-13.55	5.7	0.16	-23.88

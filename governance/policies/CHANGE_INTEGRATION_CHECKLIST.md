@@ -11,6 +11,39 @@ This is the mandatory pre-commit contract for human, Codex, and ChatGPT changes 
 
 For a stable series/study branch, read `AUTOMATED_GLOBAL_INDEX_MAINTENANCE.md`. Author the named analytical root and required series/study routing descriptors; housekeeping owns five routing outputs. Character discovery belongs solely to the curation agent under `CHARACTER_DISCOVERY_MAINTENANCE.md`. It may supply a coordinated pre-merge repair on a source branch, but housekeeping may not write either character output.
 
+## Project-initiation architecture gate
+
+Read `../source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md` before opening a new substantive analytical root or materially restarting an existing project. The machine boundary is `../repository-controls/project-initiation-gate.json`; a new or materially restarted root declares `project_initiation_gate: REQUIRED` in its series/study routing descriptor and exposes a recoverable `project_initialization` state from its canonical entrypoint.
+
+### Architecture/bootstrap state
+
+Architecture, source reconnaissance, source locking, corpus-map creation, method creation, synthesis-architecture creation, justified longitudinal-infrastructure initialization, and other pre-sequential setup may proceed while `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`. CLOSED is the safe default. A project may remain incomplete in this state, and it must not create empty ledgers or placeholder artifact classes merely for symmetry. Creating directories, routing files, or an entrypoint does not by itself satisfy the initiation gate.
+
+### Sequential-analysis state
+
+Before staging or committing the first substantive sequential deep reading for a governed project, verify all of the following:
+
+- the governing analytical/deep-reading method exists as a tracked regular artifact and is current-eligible under repository authority rules;
+- the governing synthesis/corpus architecture exists as a tracked regular artifact and is current-eligible under the same rules;
+- the canonical current-state/corpus-map entrypoint identifies both governing artifacts;
+- every day-one longitudinal artifact required by that architecture is initialized, with no requirement to invent analytically unnecessary infrastructure;
+- the entrypoint's initialization state explicitly records `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; and
+- the new sequential artifact carries an accurate structured `artifact_type` rather than relying on its filename to establish its role.
+
+An absent, CLOSED, malformed, or contradictory lock is a stop condition. OPEN is affirmative gate state, not a state inferred from the existence of a downstream reading. The validator recognizes substantive sequential roles through authority front matter and uses a narrow sequential-reading-directory fallback only to fail closed when such an artifact omits `artifact_type`.
+
+Roots present at the machine control's activation baseline retain policy-defined legacy compatibility: a mature/imported project is not required to adopt the new initialization block merely for cosmetic uniformity, but any newly added sequential artifact must still route through a current-eligible canonical entrypoint that identifies a current-eligible method and synthesis/corpus architecture. Git-native post-cutover roots are checked against the full initiation contract before their next newly added sequential artifact. A material restart must opt into the prospective contract through its routing descriptor; the prior root's existence is not evidence that a new analytical generation has passed the gate.
+
+When a project creates a bootstrap/initiation manifest, record at least its base state or bootstrap generation, governing method, governing synthesis architecture, canonical entrypoint, required day-one infrastructure state, sequential-analysis-lock state, whether substantive sequential findings existed at bootstrap, and the next permitted operation. Historical projects are not required to create a manifest retroactively. This record distinguishes path scaffolding from actual gate satisfaction.
+
+### Adoption boundary and work already on branches
+
+The activation baseline is the immutable Git tree named by `activation_baseline_commit`, not a publication date, commit timestamp, moving `main`, or the base of the current pull request. "Newly added sequential artifact" means a classified Markdown path absent from that baseline tree. A path already in the baseline is outside this gate's new-reading detection; the repository's other integrity and authority checks still apply. New paths remain subject to the gate after their first integration. Renaming or importing an older reading to a new path can therefore invoke the gate without implying that its analysis was recently written.
+
+Work authored on a branch before enforcement, but absent from the baseline, is checked when that branch incorporates the controls. An earlier green audit using older controls is not certification under the new gate. For an existing mature/imported root, retain the legacy route through its current method and architecture. For a Git-native root, verify existing governing artifacts and required infrastructure, then record truthful initialization state in the current entrypoint. Dates alone do not grant an exemption, and neither shifting the baseline nor marking a bootstrap OPEN without verification is an acceptable repair.
+
+This transition checks present governing structure; it does not authorize redoing earlier readings, rewriting prospective freezes, or replacing mature bespoke documents for cosmetic consistency. Preserve adequate existing work and backfill only material evidence gaps under the governing source policy. If an import or material restart cannot be classified from the reviewed provenance, resolve that classification explicitly before integration rather than inventing a timestamp-based exception.
+
 ## Maintained documents: targeted edits
 
 This rule applies to maintained analytical prose, rolling ledgers, readiness tables, project-local indexes, and other authored documents in both clone and GitHub connector workflows. Update the verified current document through targeted patches by default. Whole-document rewriting follows only the regeneration exceptions below. A filename containing "index" or "ledger" does not make the file a generated artifact.
@@ -59,6 +92,7 @@ The machine-readable form of this table is `governance/repository-controls/chang
 | Add new eligible character analysis | Daily curation may enroll it after merge if existing character references and generated output remain valid. Character-upsert inputs are no longer required or applied. |
 | Change the character registry or already referenced evidence | The curation agent reviews affected records and regenerates `CHARACTER_ANALYSIS_INDEX.md`; evidence changes that invalidate existing discovery require its coordinated repair before source integration. |
 | Add or change a Drive-only reference | Update the Drive artifact reference index and verify every referenced anchor. Do not rewrite frozen migration crosswalks. |
+| Initiate or materially restart a substantive analytical project | Declare `project_initiation_gate: REQUIRED` in the root's routing descriptor and satisfy the state-sensitive project-initiation validator. This invariant creates no additional global-index output beyond ordinary root/routing topology obligations. |
 | Change policy, schema, validation, workflow, or authority controls | Run the affected focused tests and review the governance effect. Use the explicit full gate for executable validation, workflow, schema, publication-safety, or authority changes. Authority-scope changes require separate owner authorization. |
 
 Ordinary edits, additions, and deletions inside an existing registered analytical root do not require unrelated global registry or catalog churn solely because the path set changed. New or removed series/study roots and other semantic changes still activate the specific obligations above. `G3_BOOTSTRAP_TRACKED_PATHS.txt` remains immutable historical evidence; it is not the live inventory.

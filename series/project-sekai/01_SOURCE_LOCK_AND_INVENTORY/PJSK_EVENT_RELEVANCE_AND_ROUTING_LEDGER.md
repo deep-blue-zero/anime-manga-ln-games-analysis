@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0072"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0089; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1072,3 +1072,1296 @@ Epistemic guardrail: cross-unit witnesses receive bounded public/medical/desire 
 Preferred artifact: `PJSK_EVENT_0072_DEEP_READING.md`.
 
 **Routing current through EVENT_0072. Next: EVENT_0073.**
+
+## EVENT_0073 — 拝啓、あの頃のわたしへ
+
+```yaml
+release_id: EVENT_0073
+release_bucket: RB_20221012T060000Z
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+routing_status: UNIVERSAL_SCREEN_COMPLETE
+complete_envelope: "8 core + cards 0517-0521 both halves + 5 archive-publication areas = 23 surfaces"
+core_locators: [PJSK:event:0073:01, PJSK:event:0073:02, PJSK:event:0073:03, PJSK:event:0073:04, PJSK:event:0073:05, PJSK:event:0073:06, PJSK:event:0073:07, PJSK:event:0073:08]
+card_locators: [PJSK:card:0517:01, PJSK:card:0517:02, PJSK:card:0518:01, PJSK:card:0518:02, PJSK:card:0519:01, PJSK:card:0519:02, PJSK:card:0520:01, PJSK:card:0520:02, PJSK:card:0521:01, PJSK:card:0521:02]
+area_locators: [PJSK:area:areatalk_ev_idol_10_001:01, PJSK:area:areatalk_ev_idol_10_002:01, PJSK:area:areatalk_ev_idol_10_003:01, PJSK:area:areatalk_ev_idol_10_004:01, PJSK:area:areatalk_ev_idol_10_005:01]
+routes:
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Minori, Haruka, Airi, Shizuku]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [commitment_under_uncertainty, reciprocal_hope, performance, training, family, friendship, production_labor, audience_access, ambition, ordinary_life, speech_register, private_recognition, manifestation_specific_support]
+  LEO_NEED:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R0_R1
+    characters: [Ichika_indirect_reference, Shiho_indirect_reference]
+    locators: [PJSK:area:areatalk_ev_idol_10_001:01:001:0007, PJSK:area:areatalk_ev_idol_10_001:01:001:0008, PJSK:area:areatalk_ev_idol_10_004:01:001:0006, PJSK:area:areatalk_ev_idol_10_004:01:001:0007, PJSK:area:areatalk_ev_idol_10_004:01:001:0008]
+  N25: {relevance: NONE, future_review_priority: NONE, baseline_impact: I0, reconstruction_yield: R0}
+  VBS: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+  WXS: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0073_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0074
+```
+
+Relationship routes for later MMJ integration:
+
+| Relationship or network | Exact evidence | Mode and later responsibility |
+|---|---|---|
+| Minori–Haruka | `PJSK:event:0073:04:001:0137–0161`; `PJSK:card:0518:01:002:0040–0068`; `PJSK:card:0518:02:003:0023–0038`, `PJSK:card:0518:02:003:0063–0072` | Formative encounter, private retrospective recognition, public reciprocity and present teasing; retain the difference between audience knowledge and Minori's unconfirmed suspicion. |
+| Minori–parents | `PJSK:event:0073:05:002:0013–0046`; `PJSK:card:0517:01:002:0012–0065` | Retrospective commitment and material limits; present ordinary family support/comedy. Brother also appears directly in card 0517. |
+| Minori–Chihiro | `PJSK:event:0073:03:003:0004–0015`; `PJSK:event:0073:03:004:0002–0042`; `PJSK:event:0073:04:001:0052–0062`; `PJSK:card:0517:02:001:0066–0072` | Independent dance interest, companion feedback, later mutual encouragement; no claim that Chihiro attended MMJ's concert. |
+| Minori–Airi; all four MMJ performers | `PJSK:card:0519:01:002:0017–0065`; `PJSK:card:0519:02:004:0014–0039`; `PJSK:event:0073:06:001:0086–0101`; `PJSK:event:0073:08:001:0013–0020` | Teaching, audience design, anxiety-sensitive restraint and reciprocal peer competition. |
+| MMJ–fans, Yuina, child aspirant | `PJSK:event:0073:06:001:0047–0076`; `PJSK:event:0073:07:001:0018–0061`; `PJSK:event:0073:08:001:0039–0070`; `PJSK:card:0517:02:001:0026–0061` | Public response and practical access; no universal fan consensus or guaranteed future career. |
+| MMJ–Saito/staff; Shizuku–former leader | `PJSK:event:0073:01:001:0019–0036`; `PJSK:card:0520:01:003:0002–0029`; `PJSK:card:0520:02:001:0038–0072` | Backstage vocation, retained practical mentorship and post-event operational feedback. |
+| MMJ–Nanamin/Mai/Hasegawa | `PJSK:event:0073:06:001:0012–0023`, `PJSK:event:0073:06:001:0098–0104`; `PJSK:event:0073:07:001:0098–0108` | Former-idol and composer reception; bounded direct witness and inner perspective, not transfer of all private history. |
+| MMJ humans–Stage-SEKAI manifestations | `PJSK:card:0521:01:002:0012–0049`; `PJSK:card:0521:02:002:0002–0030`, `PJSK:card:0521:02:004:0014–0040`; `PJSK:event:0073:07:001:0025–0028` | Practical and emotional support with two-way learning; public SEKAI concealment remains. |
+
+The full reading's envelope table preserves additional ordinary-life areas and finer claim locators. N25 is explicitly I0 after checking all cards and areas, including Shizuku's potential cross-unit surfaces. Incidental Leo/need evidence consists of reports or a proposed future question; no Ichika answer or Shiho participation is shown. Tier A developmental/commitment material, Tier B reciprocity, Tier C professional characterization and Tier D ordinary behavior justify extraction; MMJ baseline-relative impact remains deferred.
+
+**Latest closed forward route: EVENT_0073. Next forward candidate: EVENT_0074.** The 21 earlier `PENDING_ONE_TIME_UNIVERSAL_SCREEN` rows remain workflow gaps.
+
+## EVENT_0074 — カーテンコールに惜別を
+
+```yaml
+release_id: EVENT_0074
+release_bucket: RB_20221021T060000Z
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+routing_status: UNIVERSAL_SCREEN_COMPLETE
+complete_envelope: "8 core + cards 0522-0526 both halves + 8 manifest-linked archive areas = 26 surfaces"
+envelope_set_check: EXACT_MATCH_ASSOCIATED_EVENT_IDS_UNION_UNLOCK_EVENT_IDS
+core_locators: [PJSK:event:0074:01, PJSK:event:0074:02, PJSK:event:0074:03, PJSK:event:0074:04, PJSK:event:0074:05, PJSK:event:0074:06, PJSK:event:0074:07, PJSK:event:0074:08]
+card_locators: [PJSK:card:0522:01, PJSK:card:0522:02, PJSK:card:0523:01, PJSK:card:0523:02, PJSK:card:0524:01, PJSK:card:0524:02, PJSK:card:0525:01, PJSK:card:0525:02, PJSK:card:0526:01, PJSK:card:0526:02]
+area_locators: [PJSK:area:areatalk_ev_wonder_10_001:01, PJSK:area:areatalk_ev_wonder_10_002:01, PJSK:area:areatalk_ev_wonder_10_003:01, PJSK:area:areatalk_ev_wonder_10_004:01, PJSK:area:areatalk_ev_wonder_10_005:01, PJSK:area:areatalk_monthly2211_002:01, PJSK:area:areatalk_monthly2211_004:01, PJSK:area:areatalk_monthly2211_005:01]
+area_temporal_basis: archive_publication_not_asserted_initial_availability
+area_unlock_relation: "All eight require EVENT_0074 chapter 8; releaseConditionId=107308; eventStoryEpisodeId=1000600"
+later_supplement_boundary: "monthly2211_002/004/005 published 2022-11-30T06:00:00Z; no retroactive core-ending state or knowledge import"
+routes:
+  WXS:
+    relevance: PRIMARY
+    future_review_priority: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Rui, Tsukasa, Nene, Emu]
+    other_figures: [Asahi_Genbu, Arkland_cast, bird_plush, park_management, Emu_family_in_recollection, Tom_Gray_in_report]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [professional_opportunity, attachment, plural_goals, decision_under_uncertainty, private_distress, non_disclosure_respecting_care, acting, direction, training, audience_model, safety, reciprocal_learning, ordinary_life, speech_register, manifestation_specific_support, embedded_fiction]
+  N25: {relevance: NONE, future_review_priority: NONE, baseline_impact: I0, reconstruction_yield: R0}
+  LEO_NEED: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+  MMJ: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+  VBS: {relevance: NONE, future_review_priority: NONE, baseline_impact: DEFERRED_PENDING_FOUNDATION}
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0074_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0075
+```
+
+Relationship and reconstruction routes for ordered WxS integration:
+
+| Relationship or network | Exact evidence | Mode and future responsibility |
+|---|---|---|
+| Rui–Asahi | `PJSK:event:0074:04:003:0021–0098`; `PJSK:event:0074:05:003:0011–0034`; `PJSK:event:0074:05:004:0008–0033`; `PJSK:event:0074:08:001:0002–0051` | Shared artistic aim, distinct self-reported history, person-specific trust, private offer and attachment-respecting response; future invitation remains open. |
+| Rui–Nene/Emu | `PJSK:event:0074:06:001:0061–0098`; `PJSK:event:0074:07:002:0017–0025`; `PJSK:card:0522:01:001:0013–0055` | Distress noticed without offer knowledge; reassurance without demanded disclosure; concrete future-show enthusiasm. |
+| Rui–WxS group | `PJSK:event:0074:01:001:0002–0026`; `PJSK:event:0074:07:002:0126–0147`; `PJSK:event:0074:08:003:0009–0048`; `PJSK:area:areatalk_ev_wonder_10_003:01`; `PJSK:area:areatalk_ev_wonder_10_004:01` | Creative growth and attachment coexist; shared curiosity and respected leisure; private search intention is not an agreed solution. |
+| Rui–Wonderland Miku; Miku–bird | `PJSK:event:0074:06:002:0016–0074`; `PJSK:card:0525:01:001:0043–0063`; `PJSK:card:0525:02:001:0012–0045`; `PJSK:card:0522:02:002:0030–0072` | Both wants are legitimate; unconditional care; original solo achievement and subsequent new shared wish; other manifestations do not automatically know Rui's private account. |
+| Tsukasa–Rui/Asahi | `PJSK:event:0074:03:003:0031–0053`; `PJSK:event:0074:05:001:0066–0083`; `PJSK:card:0523:01:002:0009–0044`; `PJSK:card:0523:02:004:0015–0045` | Goal-derived behavior, role-specific instruction, gap without hopelessness, observation practice and reciprocal regard. |
+| Nene–Emu/visiting actors | `PJSK:card:0524:01`; `PJSK:card:0524:02:002:0040–0068`; `PJSK:card:0526:01:002:0021–0057` | Supported initiative, deliberate feedback seeking, Emu's improvisation accepted externally, sadness and preparation coexist. |
+| Emu–group/park/family | `PJSK:card:0526:02:002:0010–0059`; `PJSK:area:areatalk_ev_wonder_10_002:01:001:0002–0009` | Retrospective park protection, promotional success and continuing playful invention; not newly inspected earlier events. |
+| Rui/Nene–MEIKO/KAITO; Rui/Tsukasa–Luka; Emu/Nene–Rin | `PJSK:area:areatalk_monthly2211_002:01`; `PJSK:area:areatalk_monthly2211_004:01`; `PJSK:area:areatalk_monthly2211_005:01` | Later-published bounded safety discussion, sleep comedy and reciprocal math explanation; preserve separate 2022-11-30 archive boundary. |
+
+The full reading owns finer causal, epistemic and ordinary-life analysis plus all 26 pinned witness ranges/hashes. Tiers A–D warrant the extraction. The staged android play remains embedded fiction. Neither Rui's desire conflict nor a Wonderland manifestation supplies N25 impact by thematic resemblance alone. All core/card/area checks are N25 NONE/I0/R0. No unfounded-unit score or human successor state is assigned.
+
+**Latest closed forward route: EVENT_0074. Next forward candidate: EVENT_0075.** The 21 historical universal-screen gaps and four foundation/deferred-integration dependencies remain explicit.
+
+## EVENT_0075 — 絶叫！？ オオカミの森へようこそ！
+
+```yaml
+release_id: EVENT_0075
+release_bucket: RB_20221031T060000Z
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+routing_status: UNIVERSAL_SCREEN_COMPLETE
+complete_envelope: "8 core + cards 0528-0532 both halves + 5 archive-publication areas = 23 surfaces"
+envelope_set_check: EXACT_MATCH_ASSOCIATED_EVENT_IDS_UNION_UNLOCK_EVENT_IDS
+core_locators: [PJSK:event:0075:01, PJSK:event:0075:02, PJSK:event:0075:03, PJSK:event:0075:04, PJSK:event:0075:05, PJSK:event:0075:06, PJSK:event:0075:07, PJSK:event:0075:08]
+card_locators: [PJSK:card:0528:01, PJSK:card:0528:02, PJSK:card:0529:01, PJSK:card:0529:02, PJSK:card:0530:01, PJSK:card:0530:02, PJSK:card:0531:01, PJSK:card:0531:02, PJSK:card:0532:01, PJSK:card:0532:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_25_001:01, PJSK:area:areatalk_ev_shuffle_25_002:01, PJSK:area:areatalk_ev_shuffle_25_003:01, PJSK:area:areatalk_ev_shuffle_25_004:01, PJSK:area:areatalk_ev_shuffle_25_005:01]
+area_temporal_basis: archive_publication_not_asserted_initial_availability
+area_unlock_relation: "All five require chapter 8; releaseConditionId=107408; eventStoryEpisodeId=1000608"
+routes:
+  VBS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Kohane, An, Akito, Toya]
+    manifestations: [VBS_Rin, VBS_Len, VBS_Miku, VBS_Luka, VBS_MEIKO, VBS_KAITO]
+    domains: [recipient_sensitive_design, school_participation, practice_scheduling, fear, repair, protective_agency, intention_versus_reputation, photography, reciprocal_support, ordinary_life, knowledge_limits, speech_register]
+  LEO_NEED:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Shiho, Ichika, Saki, Honami]
+    domains: [context_conditioned_directness, wider_peer_participation, practical_leadership, distinctive_competence, performance, audience_memory, cute_preferences, friendship, hypothetical_recipient_model, ordinary_life]
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2_R3
+    characters: [Minori, Haruka, Airi, Shizuku]
+    domains: [learned_audience_model, production, improvisation, reciprocal_care, adaptable_public_role, admiration, friendship, ordinary_life, knowledge_limits]
+  WXS:
+    relevance: SECONDARY
+    future_review_priority: MODERATE
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Emu, Tsukasa_indirect_advice_reference]
+    domains: [improvisation, rehearsal_support, cross_unit_friendship, ordinary_life, bounded_performance_role]
+  N25:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: I1
+    reconstruction_yield: R1
+    characters: [Mafuyu, Ena_indirect_attendance_report]
+    domains: [public_school_competence, practical_peer_trust, public_register, bounded_knowledge, emotion_authentication_limit]
+    locators: [PJSK:event:0075:03:002:0015, PJSK:event:0075:03:002:0017, PJSK:event:0075:03:006:0007, PJSK:event:0075:03:006:0010, PJSK:event:0075:05:004:0003, PJSK:event:0075:05:004:0056, PJSK:event:0075:05:004:0057, PJSK:event:0075:06:001:0050, PJSK:event:0075:06:001:0053, PJSK:event:0075:06:001:0056, PJSK:event:0075:06:001:0057, PJSK:card:0529:02:002:0030, PJSK:card:0529:02:002:0049, PJSK:event:0075:08:001:0006]
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0075_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0076
+```
+
+| Relationship or network | Exact evidence | Reuse and limits |
+|---|---|---|
+| Kohane–An | `PJSK:event:0075:01:002:0020–0047`; `PJSK:event:0075:06:002:0002–0026`; `PJSK:event:0075:07:002:0002–0037`; `PJSK:event:0075:07:003:0014–0093` | Fear-sensitive design, mistaken pursuit, mutual apology, role exchange and protective action; no permanent fear cure or generalized dependency. |
+| Kohane–Shiho–Minori/class | `PJSK:event:0075:02:001:0004–0012`; `PJSK:event:0075:02:002:0018–0124`; `PJSK:event:0075:08:001:0044–0097`; `PJSK:card:0528:01`; `PJSK:card:0530:01`; `PJSK:area:areatalk_ev_shuffle_25_001:01` | Transfer of learned skills, shared preparation, recovery after trouble, ordinary teasing and reciprocal attribution; Shiho's private reflection is not fully disclosed. |
+| Shiho–An | `PJSK:card:0529:01:001:0002–0005`; `PJSK:card:0529:01:002:0015–0054`; `PJSK:area:areatalk_ev_shuffle_25_004:01` | Formal first contact, person-specific correction of expected blame, relayed admiration/apology, unexceptional acceptance of a cute hobby. |
+| Haruka–An; Haruka–Minori | `PJSK:card:0531:02:001:0002–0066`; `PJSK:card:0530:02:003:0010–0047` | Friendship and observation limits; direct witness corrected for panic; individualized practical/playful encouragement. |
+| Haruka–Ichika/Saki; school–Leo/need | `PJSK:card:0531:01:002:0002–0068`; `PJSK:area:areatalk_ev_shuffle_25_002:01`; `PJSK:card:0529:02:002:0002–0057` | Collaborative café roles, preference sharing, role-demand restraint and public musical reception. |
+| Honami–Emu; Minori–Honami/Emu | `PJSK:event:0075:05:003:0002–0021`; `PJSK:card:0530:02:002:0002–0028`; `PJSK:area:areatalk_ev_shuffle_25_003:01` | Rehearsal help, improvisation without full identity knowledge, explicitly hypothetical search suggestion, shopping and proposed pet walk. |
+| Shizuku/Airi–search network–Mafuyu/Kohane | `PJSK:event:0075:05:004:0010–0057`; `PJSK:event:0075:06:001:0050–0058` | Distinct local repair and sighting roles; bounded I1 strengthening of `REL-CROSS-MAFUYU-SHIZUKU-E0033`, no new intimate relationship. |
+| Akito/Toya–Kohane/An | `PJSK:event:0075:01:002:0010–0018`; `PJSK:card:0528:02:002:0005–0043`; `PJSK:card:0532:01:002:0005–0029` | School/practice accommodation, failed phone contact, searching alongside enjoyment, teasing and sincere but imperfect reassurance. |
+| VBS humans–Street Rin/MEIKO; Street manifestations | `PJSK:card:0532:01`; `PJSK:card:0532:02`; `PJSK:card:0528:02`; `PJSK:area:areatalk_ev_shuffle_25_005:01` | Concealed participation, retrospective reports, hypothetical stall preferences, credited craft and playful reconciliation; no N25 manifestation transfer. |
+
+The complete reading preserves all 23 witness ranges/hashes and distinguishes guest reception from actual intention. N25's I1 is bounded public characterization, not new private wanting: character, relationship and epistemic evidence are updated without successor human state; claim/theme content remains unchanged. Ena's companions are unidentified. The class play's fictional speech and Toya's supernatural speculation remain attributed, not literal external facts. Four unfounded-unit routes retain `DEFERRED_PENDING_FOUNDATION` for chronological interpretation.
+
+**Latest closed forward route: EVENT_0075. Next forward candidate: EVENT_0076.** The 21 older universal-screen gaps remain unfinished workflow coverage.
+
+## EVENT_0076 — Echo my melody
+
+```yaml
+release_id: EVENT_0076
+release_bucket: RB_20221111T060000Z
+screen_status: COMPLETE_UNIVERSAL_SCREEN
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 7 archive-publication/event-unlock areas = 25"
+core_locators: [PJSK:event:0076:01, PJSK:event:0076:02, PJSK:event:0076:03, PJSK:event:0076:04, PJSK:event:0076:05, PJSK:event:0076:06, PJSK:event:0076:07, PJSK:event:0076:08]
+card_locators: [PJSK:card:0535:01, PJSK:card:0535:02, PJSK:card:0536:01, PJSK:card:0536:02, PJSK:card:0537:01, PJSK:card:0537:02, PJSK:card:0538:01, PJSK:card:0538:02, PJSK:card:0539:01, PJSK:card:0539:02]
+area_locators: [PJSK:area:areatalk_ev_band_11_001:01, PJSK:area:areatalk_ev_band_11_002:01, PJSK:area:areatalk_ev_band_11_003:01, PJSK:area:areatalk_ev_band_11_004:01, PJSK:area:areatalk_ev_band_11_005:01, PJSK:area:areatalk_monthly2211_001:01, PJSK:area:areatalk_monthly2211_003:01]
+chronology_note: "Cards 0535-0537 initially available at 03:00Z, 0538-0539 at 06:00Z; band-area archive publication 2022-11-11T06:00Z, monthly-area archive publication 2022-11-30T06:00Z; all seven independently unlock after chapter 8, condition 107508/episode 1000616. Archive publication is not asserted initial availability."
+unit_routes:
+  LEO_NEED:
+    relevance: PRIMARY
+    future_review_priority: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Ichika, Honami, Saki, Shiho]
+    manifestations: [LEO_NEED_Miku, LEO_NEED_Rin, LEO_NEED_Len, LEO_NEED_Luka, LEO_NEED_MEIKO, LEO_NEED_KAITO]
+    domains: [composition, self_criticism, help_seeking, technical_learning, intention_and_form, uncertainty_and_choice, medium_sensitive_judgment, shared_authority, professional_aspiration, audience_orientation, household_work, production_labor, reciprocal_care, childhood_history, ordinary_life, speech_register, knowledge_partition, distinct_miku_contexts]
+  N25:
+    relevance: CROSS_UNIT
+    future_review_priority: HIGH
+    baseline_impact: I1
+    reconstruction_yield: R2
+    characters: [Kanade, Mafuyu_indirect_prior_conversation_reference]
+    domains: [recipient_led_mentoring, concrete_technical_expertise, bounded_support, uncertain_judgment, reciprocal_inspiration, receptive_pleasure, household_support, positive_musical_inheritance, private_knowledge_limits]
+    locators: [PJSK:event:0076:02:005:0004, PJSK:event:0076:03:001:0004, PJSK:event:0076:03:001:0033, PJSK:event:0076:03:001:0037, PJSK:event:0076:03:001:0070, PJSK:event:0076:03:001:0082, PJSK:event:0076:03:002:0005, PJSK:event:0076:04:002:0034, PJSK:event:0076:04:002:0036, PJSK:card:0535:02, PJSK:card:0536:01]
+  WXS:
+    relevance: CROSS_UNIT
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Tsukasa, Emu, Nene]
+    domains: [ordinary_friendship, voluntary_company, enthusiastic_recommendation, responsive_listening]
+    locators: [PJSK:area:areatalk_monthly2211_001:01, PJSK:area:areatalk_monthly2211_003:01]
+  MMJ:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Airi_and_group_indirect_video_reference]
+    domains: [practice_video_model, audience_encouragement]
+    locators: [PJSK:area:areatalk_ev_band_11_001:01:001:0004]
+  VBS:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Kohane_hypothetical_helper_reference]
+    domains: [peer_attribution_of_photography_skill, photography_filming_distinction]
+    locators: [PJSK:card:0539:01:001:0024, PJSK:card:0539:01:001:0025]
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0076_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0077
+```
+
+| Relationship / decision route | Evidence | Reuse and limits |
+|---|---|---|
+| Ichika–Kanade | `PJSK:event:0076:03:001:0031–0090`; `PJSK:event:0076:03:002:0005–0022`; `PJSK:event:0076:04:002:0025–0045`; `PJSK:card:0535:02` | Technical support preserves recipient intention; reciprocal inspiration, uncertainty-aware advice and later thanks strengthen `REL-CROSS-KANADE-ICHIKA-E0042`. No rescue-vow replacement. |
+| Honami–Kanade–Ichika | `PJSK:event:0076:02:002:0046–0085`; `PJSK:event:0076:04:002:0013–0024`; `PJSK:card:0536:01` | Confidentiality, self-initiated contact, household work, food, practical trust and bounded health inference; strengthen `REL-CROSS-KANADE-HONAMI-E0002`. |
+| Honami–Ichika / childhood antecedent | `PJSK:card:0536:02:002:0016–0030`; `PJSK:card:0536:02:003:0003–0031` | Private insufficient-contribution feeling, received praise, mutual offers and remembered hat recovery; recollection is not a new present incident. |
+| Ichika–Saki–Shiho–Honami | `PJSK:event:0076:01:003:0041–0075`; `PJSK:event:0076:06:001:0076–0102`; `PJSK:event:0076:08:002:0022–0074` | Contribution desire, medium-sensitive disagreement, respect for editor authority, completion disclosure and consent to band use; no rivalry assumption or compulsory production quota. |
+| Band–Classroom singers | `PJSK:event:0076:05:003:0054–0092`; `PJSK:event:0076:06:001:0002–0038`; `PJSK:card:0537:01` | Visible audience changes performance; gratitude is reciprocal; quality does not guarantee worldwide reception. |
+| Ichika–software Miku–Classroom Miku | `PJSK:event:0076:07:002:0023–0073`; `PJSK:card:0537:02`; `PJSK:area:areatalk_ev_band_11_003:01`; `PJSK:area:areatalk_ev_band_11_004:01` | Explicit entity distinction; interpreted shared feeling, direct duet, entrusted recording and voluntary rehearsal; no shared memory with N25 manifestations or proven software interiority. |
+| KAITO–band / Classroom peers | `PJSK:card:0539:01:001:0018–0052`; `PJSK:card:0539:02`; `PJSK:area:areatalk_ev_band_11_002:01` | Musical support, excitement with concern, self-consciousness under overinterpretation and humorous constraints on hypothetical MV ideas. |
+| Band ordinary life | `PJSK:card:0535:01`; `PJSK:card:0538:01`; `PJSK:card:0538:02` | Careful tasting and combined option, Saki anxiety eased by peer conversation, joking and celebration; no universal cure for indecision/anxiety. |
+| Public observer–band | `PJSK:event:0076:08:004:0002–0016`; `PJSK:card:0539:02:001:0003–0014` | Channel/Miku upload confirmed; four-subscriber identity is observer inference; future attention is not a contract or mass success, and the band does not know this observation. |
+| Saki–Tsukasa–Emu; Ichika–Nene | Both monthly-area locators above | Consensual company while waiting; recommendation and responsive reassurance. Later archive date retained. |
+
+The full reading preserves all 25 witness ranges/hashes. It owns shared causal interpretation, while other-unit state comparison awaits foundation and ordered historical integration. N25 is I1 because already established support, reciprocal creativity and receptive pleasure gain evidence rather than a new governing interpretation. All six ledgers receive targeted updates; the current human tuple and N25 manifestation-group authorities are unchanged.
+
+**Latest closed forward route: EVENT_0076. Next forward candidate: EVENT_0077.** The 21 older universal-screen gaps and remaining foundations/deferred integration are not resolved by this frontier.
+
+## EVENT_0077 — 願いは、いつか朝をこえて
+
+```yaml
+release_id: EVENT_0077
+release_bucket: RB_20221120T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0077:01, PJSK:event:0077:02, PJSK:event:0077:03, PJSK:event:0077:04, PJSK:event:0077:05, PJSK:event:0077:06, PJSK:event:0077:07, PJSK:event:0077:08]
+card_locators: [PJSK:card:0540:01, PJSK:card:0540:02, PJSK:card:0541:01, PJSK:card:0541:02, PJSK:card:0542:01, PJSK:card:0542:02, PJSK:card:0543:01, PJSK:card:0543:02, PJSK:card:0544:01, PJSK:card:0544:02]
+area_locators: [PJSK:area:areatalk_ev_night_11_001:01, PJSK:area:areatalk_ev_night_11_002:01, PJSK:area:areatalk_ev_night_11_003:01, PJSK:area:areatalk_ev_night_11_004:01, PJSK:area:areatalk_ev_night_11_005:01]
+chronology_note: "Cards 0540-0542 initially available 03:00Z, 0543-0544 06:00Z; all five areas archive-published 2022-11-20T06:00Z with independent chapter-8 unlock condition 107608/episode 1000624. Depicted pre-encounter, overnight, later and remembered scenes remain distinct."
+unit_routes:
+  N25:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: I3
+    impact_basis: relationship_and_epistemic_transition
+    reconstruction_yield: R3
+    characters: [Ena, Mafuyu, Kanade, Mizuki, Ena_mother, Ena_father, Mafuyu_mother, Yukihira, Futaba]
+    manifestations: [N25_Len, N25_Miku, N25_MEIKO, N25_Rin, N25_Luka]
+    domains: [agency, family_pressure, corrected_assumption, parental_comparison, creative_authorship, technical_evaluation, self_valuation, practical_shelter, consent_limits, reciprocal_recognition, ordinary_life, food_preferences, household_work, self_care, school_attendance, public_private_register, knowledge_partition, support_methods]
+    locators: [PJSK:event:0077:03:003:0081, PJSK:event:0077:03:003:0159, PJSK:event:0077:04:002, PJSK:event:0077:06:002:0022, PJSK:event:0077:06:002:0066, PJSK:event:0077:06:002:0071, PJSK:event:0077:07:002:0172, PJSK:event:0077:08:004, PJSK:card:0540:02, PJSK:card:0542:01, PJSK:card:0542:02, PJSK:card:0544:01, PJSK:card:0544:02]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Honami]
+    domains: [paid_work_and_personal_care, received_recognition, reciprocal_gift, known_preferences, ordinary_life, register]
+    locators: [PJSK:card:0541:01:001:0031, PJSK:card:0541:01:001:0054, PJSK:card:0541:02:001:0028, PJSK:card:0541:02:003:0006, PJSK:card:0541:02:003:0017]
+  VBS:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Akito, An_indirect_committee_absence, Toya_indirect_committee_absence]
+    domains: [sibling_friction, public_private_register, household_food_rules, informal_peer_care, school_sociality, privacy_limits]
+    locators: [PJSK:event:0077:04:002, PJSK:card:0543:02:003:0002, PJSK:card:0543:02:004, PJSK:area:areatalk_ev_night_11_002:01]
+  MMJ:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Airi_reported_earlier_visit, Minori_identification_reference]
+    domains: [reported_middle_school_courtesy, Ena_friendship_history, public_idol_recognition]
+    locators: [PJSK:event:0077:03:001, PJSK:card:0543:01:002:0038, PJSK:card:0543:01:002:0040, PJSK:card:0543:01:002:0045, PJSK:card:0543:02:004:0012]
+  WXS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0077_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0078
+```
+
+| Relationship / decision route | Exact evidence | Reuse and limits |
+|---|---|---|
+| Ena–Mafuyu / shelter before full understanding | `PJSK:event:0077:02:004:0007–0024`; `PJSK:event:0077:03:003:0042–0065`, `PJSK:event:0077:03:003:0081–0163` | Concern, analogy, phone takeover, improvised exhibition/model pretext and one-night permission; no prior modelling agreement or idealized consent. |
+| Ena–Mafuyu / differentiated agency support | `PJSK:event:0077:06:002:0020–0084`; `PJSK:event:0077:07:002:0120–0173` | Direct correction of “never tried,” parental counterfactual, explicit collaborative want, support as a peer and a fallible portrait. New `REL-N25-EM-5`; human IDs retained. |
+| Ena–Yukihira–Futaba / artistic authorship | `PJSK:event:0077:01:001:0031–0061`; `PJSK:event:0077:08:002:0056–0088`; `PJSK:event:0077:08:004:0002–0019` | Generic intention gives way to a maker's wish for Mafuyu; mixed critique and conditional pass if timely. No on-time pass, talent certainty or completed freedom. |
+| Mafuyu–mother / constrained wanting | `PJSK:event:0077:01:004:0004–0014`; `PJSK:event:0077:06:002:0022–0047`; `PJSK:card:0542:01:001:0003–0057` | Computer access, reported prior desire/retraction, regret reasoning, sleep/mistake strain and partial musical regulation. Search motive/discovery and diagnosis unconfirmed. |
+| Shinonome household / parental comparison | `PJSK:event:0077:04:002:0014–0018`, `PJSK:event:0077:04:002:0052–0106`; `PJSK:card:0540:01:001:0025–0050`; `PJSK:card:0540:02:001:0042–0056` | Akito/Mafuyu polite masks; room for disagreement, Ena's use of paternal status and rejected conciliatory thought. Do not idealize absent father or infer taste recovery. |
+| Kanade–Honami / paid work and personal recognition | `PJSK:card:0541:01:001:0031–0066`; `PJSK:card:0541:02:001:0028–0058`; `PJSK:card:0541:02:003:0002–0017` | Order and food already help; known pies reveal earlier sharing; Kanade purchases thanks and Honami accepts specific recognition. No meal shown or recovered self-regulation. HIGH-priority Leo/need reuse. |
+| Mizuki–Akito / ordinary reciprocal care | `PJSK:card:0543:02:001:0002–0004`; `PJSK:card:0543:02:004:0002–0042` | School avoidance/attendance, absent usual peers, sibling/food teasing and sandwich gift despite verbal dismissal. No N25-private disclosure or broad academic deficiency inference. MEDIUM-priority VBS reuse. |
+| Mizuki–Mafuyu; Mizuki–Ena/group | `PJSK:card:0542:02:002`; `PJSK:card:0543:01:002:0056–0079`; `PJSK:area:areatalk_ev_night_11_003:01` | Wanted conversation, room/plant interest, declined overnight joke with unconfirmed motive, exhibition ticket/gift sociality. No guarded-content revelation or enacted house visit. |
+| N25 Len–humans / other singers | `PJSK:card:0544:01:001:0042–0065`; `PJSK:card:0544:02:002:0004–0041`; `PJSK:area:areatalk_ev_night_11_005:01` | Learned presence, report-based concern, avoiding unnecessary crowding, distinct peer stances, colouring. Manifestation-specific; no shared omniscience. |
+| Airi–Ena / indirect historical comparison | `PJSK:card:0543:01:002:0038–0050`; `PJSK:card:0543:02:004:0012` | Ena reports unusually mature courtesy during a middle-school home visit; Akito remembers Ena rarely bringing other friends. Reported history, not newly enacted MMJ development. |
+| Group sleep/care and reciprocal gifts | `PJSK:card:0543:01:002:0010–0032`; all five `night_11` areas | Sleep need, fatigue, requested walking company, mother's prompted macaron thanks, pillow suggestion, creative plurality and lingering envy. Proposed health benefits remain unverified. |
+
+The complete reading owns all 23 witness ranges/hashes, shared causal interpretation and reconstruction delta. All six longitudinal ledgers receive proportionate updates. N25 I3 rests on the relationship and knowledge transition; human tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` stays current. Other-unit impact remains deferred for founded comparison. **Latest closed forward route EVENT_0077; next EVENT_0078.** Twenty-one older universal screens and remaining completion dependencies persist.
+
+## EVENT_0078 — あの日の夢の、彼方向こうへ
+
+```yaml
+release_id: EVENT_0078
+release_bucket: RB_20221130T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0078:01, PJSK:event:0078:02, PJSK:event:0078:03, PJSK:event:0078:04, PJSK:event:0078:05, PJSK:event:0078:06, PJSK:event:0078:07, PJSK:event:0078:08]
+card_locators: [PJSK:card:0545:01, PJSK:card:0545:02, PJSK:card:0546:01, PJSK:card:0546:02, PJSK:card:0547:01, PJSK:card:0547:02, PJSK:card:0548:01, PJSK:card:0548:02, PJSK:card:0549:01, PJSK:card:0549:02]
+area_locators: [PJSK:area:areatalk_ev_idol_11_001:01, PJSK:area:areatalk_ev_idol_11_002:01, PJSK:area:areatalk_ev_idol_11_003:01, PJSK:area:areatalk_ev_idol_11_004:01, PJSK:area:areatalk_ev_idol_11_005:01]
+chronology_note: "Cards 0545-0547 initial availability 03:00Z, 0548-0549 06:00Z; all five areas archive-published 2022-11-30T06:00Z with independent chapter-8 unlock condition 107708/episode 1000632. Childhood memories, accepted-offer preparations, audience-only production coda and Minori's dream retain distinct contexts."
+unit_routes:
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Haruka, Minori, Airi, Shizuku, unnamed_origin_idol, Haruka_mother, Nozomi, fans, producer, manager, Cheerful_Days_production_reference]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [origin_revelation, received_and_transmitted_hope, shared_ambition, decision_ownership, dissent, publicity_risk, editing, fan_trust, professional_labor, differentiated_competence, public_identity, authentic_presentation, practical_care, ordinary_life, childhood_expression, knowledge_partition]
+    locators: [PJSK:event:0078:02:001, PJSK:event:0078:03:002, PJSK:event:0078:04:002, PJSK:event:0078:05:002, PJSK:event:0078:06:002, PJSK:event:0078:07:002, PJSK:event:0078:08:002, PJSK:event:0078:08:003, PJSK:card:0545:01, PJSK:card:0545:02, PJSK:card:0546:01, PJSK:card:0546:02, PJSK:card:0548:02, PJSK:card:0549:02]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Shiho, Saki_predicted_viewing_only]
+    domains: [sibling_care, noticing_expression, public_perception, family_burden, confidentiality, ordinary_boundaries, understated_register]
+    locators: [PJSK:card:0549:02:001:0002, PJSK:card:0549:02:001:0011, PJSK:card:0549:02:001:0019, PJSK:card:0549:02:001:0026, PJSK:card:0549:02:001:0030, PJSK:card:0549:02:001:0037, PJSK:card:0549:02:001:0042, PJSK:card:0549:02:001:0045]
+  N25:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: I0
+    reconstruction_yield: R0
+    explicit_bridge_check: "Shizuku card 0549 both halves and all five idol_11 areas inspected; no Mafuyu/Mizuki/N25 evidence or private-knowledge transfer; Stage manifestations only. Childhood expressivity similarity is not a cross-unit causal route."
+  VBS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+  WXS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0078_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0079
+```
+
+| Relationship / decision route | Exact evidence | Reuse and limits |
+|---|---|---|
+| MMJ / adopting a larger goal | `PJSK:event:0078:01:003:0031–0088`; `PJSK:event:0078:02:001:0030–0064`; `PJSK:event:0078:02:003:0012–0034`; `PJSK:card:0549:01:001:0012–0037` | Minori's tentative tour/dome wish becomes shared; Shizuku privately values her active relation to dreams. Planning numbers are estimates, not bookings or achieved demand. |
+| Haruka–group / usable disagreement | `PJSK:event:0078:03:002:0019–0079`; `PJSK:event:0078:04:001:0014–0047`; `PJSK:event:0078:08:002:0005–0077` | Distortion concern receives time and individually reasoned acceptance. Same eventual answer does not make deliberation unnecessary; no guaranteed production safety. |
+| Haruka–origin idol / childhood and present meaning | `PJSK:event:0078:05:002:0002–0024`; `PJSK:event:0078:06:002:0030–0118`; `PJSK:event:0078:07:002:0027–0083`; `PJSK:card:0545:02:001:0007–0066`; `PJSK:area:areatalk_ev_idol_11_001:01` | Felt joy precedes easy expression; supported participation gives reciprocal encouragement; newspaper/radio renew purpose. No confirmed later recognition or direct reunion. |
+| Haruka–child / adaptive practical care | `PJSK:card:0545:01:001:0006–0058` | Respects an agreed meeting place, waits with Nozomi and invites playful expression; uncertain age/recognition and no publicity exploitation. |
+| Airi–Shizuku/group / differentiated professional judgment | `PJSK:card:0546:01:002:0022–0062`; `PJSK:card:0546:02:001:0015–0047`; `PJSK:area:areatalk_ev_idol_11_002:01`; `PJSK:area:areatalk_ev_idol_11_003:01` | Two editing examples remain distinct; inferred effort-showing intent is not proven. Anecdote preparation, research, requester screening, peer learning and technical limits broaden ordinary reconstruction. |
+| Minori–group / expertise and learning limits | `PJSK:card:0545:02:001`; `PJSK:card:0548:01:001:0050–0095`; `PJSK:card:0548:02:001:0009–0062` | Fan knowledge helps radio access and viewing preparation; sleep/dream and divided attention remain ordinary limitations. No literal dream powers or instant camera mastery. |
+| Shizuku–Shiho / authenticity and confidential support | `PJSK:card:0549:02:001:0002–0050` | Shiho notices affect, supports opportunity, asks about public perception and receives the accepted-offer secret. Shizuku wants to be herself over gradual public learning; closeness does not erase Shiho's space/bath boundaries. Saki's future viewing is predicted, not known. MEDIUM-priority Leo/need reuse. |
+| Stage MEIKO–Haruka; singers as peers | `PJSK:event:0078:04:002:0012–0069`; `PJSK:card:0547:01:001:0019–0050`; `PJSK:card:0547:02:001:0013–0062`; `PJSK:area:areatalk_ev_idol_11_004:01`; `PJSK:area:areatalk_ev_idol_11_005:01` | Bounded fan perspective, origin report, enjoyed hard practice, hypothetical interests, ropes proposal and concrete performance feedback; no cross-manifestation omniscience or actual TV appearance. |
+| Production / audience-only future complication | `PJSK:event:0078:08:003:0002–0012`; `PJSK:card:0548:01:001`; `PJSK:card:0549:02:001:0042–0046` | Replacement host accepted on production side; MMJ only knows its offer acceptance and incomplete arrangements. No motive or later outcome imported. |
+
+The shared reading owns causal interpretation, all 23 witness ranges/hashes, knowledge limits and reconstruction delta. MMJ and Leo/need remain deferred for founded comparison. N25's five substantive ledgers and human/relationship IDs remain unchanged; RELEASE_IMPACT and current routing/coverage advance documentary screening only. Latest positive N25 integration EVENT_0077; latest human-state transition EVENT_0072; latest closed forward event EVENT_0078; next EVENT_0079. The 21 older universal screens and remaining completion dependencies persist.
+
+## EVENT_0079 — Find A Way Out
+
+```yaml
+release_id: EVENT_0079
+release_bucket: RB_20221211T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0079:01, PJSK:event:0079:02, PJSK:event:0079:03, PJSK:event:0079:04, PJSK:event:0079:05, PJSK:event:0079:06, PJSK:event:0079:07, PJSK:event:0079:08]
+card_locators: [PJSK:card:0551:01, PJSK:card:0551:02, PJSK:card:0552:01, PJSK:card:0552:02, PJSK:card:0553:01, PJSK:card:0553:02, PJSK:card:0554:01, PJSK:card:0554:02, PJSK:card:0555:01, PJSK:card:0555:02]
+area_locators: [PJSK:area:areatalk_ev_street_11_001:01, PJSK:area:areatalk_ev_street_11_002:01, PJSK:area:areatalk_ev_street_11_003:01, PJSK:area:areatalk_ev_street_11_004:01, PJSK:area:areatalk_ev_street_11_005:01]
+chronology_note: "Cards 0551-0553 initially available 03:00Z, 0554-0555 06:00Z; all areas archive-published 2022-12-11T06:00Z with independent chapter-8 unlock condition 107808/episode 1000640. Childhood, middle-school, present evening, Christmas Eve/Day and following-day scenes remain separate."
+unit_routes:
+  VBS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Akito, Toya, An, Kohane, Kotaro, Arata, Tatsuya, EVER, Ken, Taiga, Nagi_private_memory, Shepherd, Crawl_Green_owner, Toya_parents, Toya_brothers_reported, Soma_reported]
+    manifestations: [VBS_Miku, VBS_Rin, VBS_Len, VBS_Luka, VBS_MEIKO, VBS_KAITO]
+    domains: [musical_origin, uncertain_trial, ambition, public_private_register, hostile_evaluation, shame, effort_and_limits, embodied_desire, pacing, mentorship, acquired_capability, group_enabled_growth, harmful_intent_attribution, family_independence, ordinary_preferences, practical_care, shared_work, knowledge_partition]
+    locators: [PJSK:event:0079:01:003, PJSK:event:0079:03:002, PJSK:event:0079:04:003, PJSK:event:0079:04:008, PJSK:event:0079:04:009, PJSK:event:0079:05:006, PJSK:event:0079:06:001, PJSK:event:0079:06:002, PJSK:event:0079:07:001, PJSK:event:0079:08:001, PJSK:event:0079:08:002, PJSK:card:0554:01:002, PJSK:card:0555:02:001]
+  N25:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    baseline_impact: I1
+    reconstruction_yield: R2
+    characters: [Ena, Akito_bounded_family]
+    domains: [sibling_observation, inferred_distress, practical_accommodation, historical_restraint, privacy, food_talk, reported_gift_requests, repeated_origin_reference]
+    locators: [PJSK:card:0551:01:002:0002, PJSK:card:0551:01:002:0011, PJSK:card:0551:01:002:0020, PJSK:card:0551:01:002:0033, PJSK:card:0551:01:002:0038, PJSK:card:0551:01:002:0046, PJSK:card:0555:01:002:0036, PJSK:area:areatalk_ev_street_11_003:01:001:0005, PJSK:event:0079:04:003:0032]
+  LEO_NEED:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Ichika_group_reported]
+    domains: [reported_matching_objects, cross_unit_social_knowledge]
+    locators: [PJSK:area:areatalk_ev_street_11_002:01:001:0008]
+  WXS:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Tsukasa_mother_reported]
+    domains: [reported_parent_network, practical_cooking_help]
+    locators: [PJSK:card:0552:01:001:0044]
+  MMJ:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0079_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0080
+```
+
+| Relationship / decision route | Exact evidence | Reuse and limits |
+|---|---|---|
+| Akito–Ena / trial and current family observation | `PJSK:event:0079:04:003:0032–0036`; `PJSK:card:0551:01:002:0002–0048`; `PJSK:card:0555:01:002:0035–0036`; `PJSK:area:areatalk_ev_street_11_003:01:001:0002–0006` | EVENT_0029 origin suggestion is repeated, not rediscovered. New bath priority, crying-sign recognition, reported earlier restraint and household talk support N25 I1 without granting knowledge of the tears' cause. |
+| Akito–An / early asymmetric influence | `PJSK:event:0079:04:008:0040–0068`; `PJSK:event:0079:05:004:0014–0029` | Her singing and stated ambition sharpen his resolve; later he sees others' effort too. No mutual partnership or shared inner knowledge at first sight. |
+| Akito–hostile musicians / capability and humiliation | `PJSK:event:0079:04:009:0002–0038`; `PJSK:event:0079:05:002:0011–0029`; `PJSK:event:0079:05:006:0011–0096`; `PJSK:event:0079:06:002:0031–0114` | Learned public manner, knowingly premature challenge, genuine skill gap, later local victory and refusal of satisfaction. Cruel opponents can be capable; present stance does not absolve their conduct. |
+| Akito–Ken/Taiga / persistence and acquired skill | `PJSK:event:0079:06:001:0003–0053`; `PJSK:event:0079:07:001:0028–0071`; `PJSK:event:0079:07:001:0098–0123` | Ken couples continued singing with rest; Taiga's personal account reveals the admired voice developed. Conditional potential is not guaranteed success; pacing remains unresolved. |
+| VBS/Kotaro/Luka / informed support | `PJSK:event:0079:03:004:0020–0049`; `PJSK:event:0079:06:002:0009–0024`; `PJSK:event:0079:08:001:0003–0039` | Water and shared running, partial-information alert, later disclosure, apology and offered shared return. Solo performance remains enabled by companions. |
+| Kohane–Akito/Toya/Kotaro / revising old harm | `PJSK:card:0554:01:002:0013–0050` | Kohane finds later value and hypothesizes kindness; others acknowledge their own responsibility and qualify benevolent original intent. Required VBS foundation-reconciliation constraint, not exoneration. |
+| Toya–parents/brothers / autonomy and domestic affection | `PJSK:event:0079:03:002:0002–0024`; `PJSK:card:0552:01:001:0002–0053`; `PJSK:area:areatalk_ev_street_11_005:01` | Own song value survives paternal dismissal; maternal cooking effort/food affection, wanted but unheld brother conversation, retained classical curiosity. No complete family reconciliation. |
+| An–Kohane and wider peers / labor and ordinary knowledge | `PJSK:card:0555:01:002`; `PJSK:card:0555:02:001:0007–0060`; `PJSK:card:0554:02` | Adapted taste testing, transparent family rituals, actual feeding, hosting, detailed preferences and gift shopping. Ordinary knowledge helps belonging without reducing everyone to musical drive. |
+| Arata–An–owner/adults / venue and succession | `PJSK:event:0079:02:001:0001–0045`; `PJSK:event:0079:07:001:0076–0090`; `PJSK:event:0079:08:001:0061–0071`; `PJSK:event:0079:08:002:0008–0027` | Negotiation and Taiga attendance conditional; adult coda private. No granted booking, completed event or later explanation of Nagi's unspecified circumstances. |
+| Street manifestations / play, work and limits | `PJSK:card:0553:01:002`; `PJSK:card:0553:02:002`; `PJSK:card:0552:02:004`; `PJSK:area:areatalk_ev_street_11_004:01`; `PJSK:area:areatalk_ev_street_11_005:01` | Decoration/food work, reciprocal gifts, local-use restriction, actual illumination visit, proposed photo/prank and comparative CD help. No N25 identity collapse or universal ontology inferred. |
+
+The reading owns all 23 witness ranges/hashes and shared causal interpretation. N25 I1 updates CHARACTER_STATE, RELATIONSHIP_STATE, EPISTEMIC_STATE and RELEASE_IMPACT; CLAIM_REVISION and THEME_AND_MOTIF remain unchanged. Existing human and relationship IDs, including `REL-N25-EM-5`, are retained. Latest positive/documentary boundary EVENT_0079; latest human-state transition EVENT_0072 and relationship/epistemic I3 EVENT_0077. VBS and incidental unfounded routes remain deferred. Next EVENT_0080; earlier gaps and remaining completion obligations persist.
+
+## EVENT_0080 — 弓引け、白の世界で
+
+```yaml
+release_id: EVENT_0080
+release_bucket: RB_20221221T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0080:01, PJSK:event:0080:02, PJSK:event:0080:03, PJSK:event:0080:04, PJSK:event:0080:05, PJSK:event:0080:06, PJSK:event:0080:07, PJSK:event:0080:08]
+card_locators: [PJSK:card:0556:01, PJSK:card:0556:02, PJSK:card:0557:01, PJSK:card:0557:02, PJSK:card:0558:01, PJSK:card:0558:02, PJSK:card:0559:01, PJSK:card:0559:02, PJSK:card:0560:01, PJSK:card:0560:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_26_001:01, PJSK:area:areatalk_ev_shuffle_26_002:01, PJSK:area:areatalk_ev_shuffle_26_003:01, PJSK:area:areatalk_ev_shuffle_26_004:01, PJSK:area:areatalk_ev_shuffle_26_005:01]
+
+chronology_note: "Cards 0556-0558 initially available 03:00Z and 0559-0560 06:00Z; five areas archive-published 2022-12-21T06:00Z with separate condition 107908/episode 1000648. Pre-high-school, first-year, present winter and later ordinary aftermath remain distinct."
+unit_routes:
+  N25:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: I3
+    reconstruction_yield: R3
+    characters: [Mafuyu, Mafuyu_mother, school_peers]
+    domains: [archery_competence, regulation_and_limits, public_private_register, historical_knowledge, maternal_care_control, selective_disclosure, nonexclusive_support, reciprocal_instruction, memory_linked_affect, ordinary_care]
+    locators: [PJSK:event:0080:03:004, PJSK:event:0080:04:005, PJSK:event:0080:05:001, PJSK:event:0080:05:003, PJSK:event:0080:06:001, PJSK:event:0080:07:001, PJSK:event:0080:08:001, PJSK:card:0557:01:004, PJSK:card:0557:02:002]
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Shizuku, Airi, Minori, Haruka, Cheerful_Days_senior_member, manager, archery_captain_Hayashi, club_peers, Hinomori_mother]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [perfection_pressure, owned_effort, learning, work_school_balance, gratitude, support_without_full_knowledge, independent_hobbies, tea_and_ceramics, craft_teaching, reciprocal_competence, family_and_peer_life]
+    locators: [PJSK:event:0080:02, PJSK:event:0080:03, PJSK:event:0080:06:001, PJSK:event:0080:07:001, PJSK:event:0080:08, PJSK:card:0556, PJSK:card:0558, PJSK:card:0559]
+  LEO_NEED:
+    relevance: SECONDARY
+    future_review_priority: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Shiho, Saki, Ichika, Honami, Shizuku_bounded_family, Hinomori_mother_reported]
+    domains: [sibling_attention_and_restraint, childhood_consolation, snow_play, teaching, reported_animal_knowledge, texture_and_plush_preferences, group_belonging, distributed_craft]
+    locators: [PJSK:event:0080:01:003, PJSK:event:0080:05:002, PJSK:event:0080:08:002, PJSK:card:0560:01, PJSK:card:0560:02, PJSK:area:areatalk_ev_shuffle_26_003:01]
+  VBS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+  WXS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0080_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0081
+```
+
+| Reusable route | Exact evidence | Interpretation and limits |
+|---|---|---|
+| Shizuku–Mafuyu / origin and regulation | `PJSK:event:0080:02:008:0013–0103`; `PJSK:event:0080:03:004:0035–0088`; `PJSK:event:0080:04:005:0024–0082` | Skill, effort, helpful instruction and precarious inward condition coexist. Newly disclosed source history qualifies an absolute public-mode-only observation claim; original private motive remains unconfirmed. |
+| Mafuyu–mother / activity and return constraints | `PJSK:event:0080:05:001:0006–0017`; `PJSK:event:0080:05:003:0008–0017`; `PJSK:event:0080:07:001:0030–0045`; `PJSK:card:0557:02:002:0002–0005` | Care/study framing, selective delay, ordinary message with disturbing effect and N25-work constraint. No proven malicious intention, new self-harm plan or completed club withdrawal. |
+| Shizuku–Mafuyu / present reciprocal support | `PJSK:event:0080:06:001:0016–0062`; `PJSK:event:0080:07:001:0064–0079`; `PJSK:event:0080:08:001:0028–0052`; `PJSK:card:0557:01:004:0013–0029`; `PJSK:card:0557:02:002:0037–0051` | Explicit help, refusal to disclose, returned cue, remembered less-cold impression and ordinary future shelter. New bounded N25 relationship state; Shizuku remains ignorant of cause and uncertain of efficacy. |
+| Shizuku–Airi / school and work history | `PJSK:event:0080:02:004:0016–0033`; `PJSK:event:0080:02:006:0007–0033`; `PJSK:event:0080:03:003:0021–0046` | Own study/club interest, welcoming friend, Airi's considered agency departure and Shizuku's self-blame. Diverse former colleagues, not a uniformly hostile industry. No full dispute or later contract outcome imported. |
+| Airi–MMJ / tea as independent interest and teaching | `PJSK:card:0559:01:001:0011–0053`; `PJSK:card:0559:02:004:0002–0044` | Accepted club priority, formal/ceramic curiosity, actual home hospitality and beginner-sensitive instruction. Demonstrated competence with acknowledged limits, no reduction to sweets or idol usefulness. |
+| Hinomori sisters / care, boundaries and shared past | `PJSK:event:0080:01:003:0003–0018`; `PJSK:event:0080:08:002:0007–0016`; `PJSK:card:0560:01:002:0017–0020`; `PJSK:card:0560:02:001` | Thought-space allowed, noticed happiness, childhood consolation and current physical-space objections. Unshown kitchen continuation does not transmit full private causes. |
+| Leo/need–MMJ / distributed rabbits | `PJSK:card:0560:01:002:0021–0057`; `PJSK:card:0556:01:002:0007–0040`; `PJSK:card:0560:02:001:0023–0037` | One grows to five and then eight through initially unidentified contributors. Mafuyu's private significance is not their known intention; no one-to-one symbolic cast mapping. |
+| Stage singers–Shizuku / complementary craft and support | `PJSK:event:0080:01:003:0034–0071`; `PJSK:event:0080:04:005:0091–0107`; `PJSK:card:0558:01–02`; `PJSK:area:areatalk_ev_shuffle_26_004:01`; `PJSK:area:areatalk_ev_shuffle_26_005:01` | Help flows both ways. KAITO's balance/organization, Miku's lace and Len's colors differ; sewing is learned. Designs, implementation and unshown concert remain distinct. Stage report knowledge is not N25 access. |
+| Ordinary school / reading and lunch | `PJSK:area:areatalk_ev_shuffle_26_001:01`; `PJSK:area:areatalk_ev_shuffle_26_002:01`; `PJSK:area:areatalk_ev_shuffle_26_003:01` | Agreed lunch after checking commitments, different reading rationales, music purchase and cat-plush tactile pleasure. No depicted completed lunch or restored Mafuyu literary preference. |
+
+The shared reading owns all 23 witness ranges/hashes, causal interpretation and reconstruction delta. N25 I3 updates all six ledgers and advances `REL-CROSS-MAFUYU-SHIZUKU-E0033 -> REL-CROSS-MAFUYU-SHIZUKU-E0080`, without successor human state. MMJ and Leo/need remain deferred. Latest positive/documentary and relationship/epistemic boundary EVENT_0080; latest human-state transition EVENT_0072. Next EVENT_0081; earlier gaps and remaining completion obligations persist.
+
+## EVENT_0081 — 新春！ 獅子舞ロボのお正月ショー！
+
+```yaml
+release_id: EVENT_0081
+release_bucket: RB_20221231T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 10 archive-publication/event-unlock areas = 28"
+core_locators: [PJSK:event:0081:01, PJSK:event:0081:02, PJSK:event:0081:03, PJSK:event:0081:04, PJSK:event:0081:05, PJSK:event:0081:06, PJSK:event:0081:07, PJSK:event:0081:08]
+card_locators: [PJSK:card:0565:01, PJSK:card:0565:02, PJSK:card:0566:01, PJSK:card:0566:02, PJSK:card:0567:01, PJSK:card:0567:02, PJSK:card:0568:01, PJSK:card:0568:02, PJSK:card:0569:01, PJSK:card:0569:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_27_001:01, PJSK:area:areatalk_ev_shuffle_27_002:01, PJSK:area:areatalk_ev_shuffle_27_003:01, PJSK:area:areatalk_ev_shuffle_27_004:01, PJSK:area:areatalk_ev_shuffle_27_005:01, PJSK:area:areatalk_monthly2212_001:01, PJSK:area:areatalk_monthly2212_002:01, PJSK:area:areatalk_monthly2212_003:01, PJSK:area:areatalk_monthly2212_004:01, PJSK:area:areatalk_monthly2212_005:01]
+
+chronology_note: "Cards 0565-0567 initially available 03:00Z, 0568-0569 06:00Z; all ten areas archive-published 2022-12-31T06:00Z, separately linked by condition 108008 to episode 1000656/chapter 8. Earlier preparation, New Year tour and later encounters/practice remain distinct; play chronology is fictional."
+unit_routes:
+  WXS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Tsukasa, Emu, Nene, Rui, Hinata, Shousuke_reported, Tenma_mother, Saki_family, Nenerobo, lion_robot, audiences]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [duty_and_growth, actorly_ambition, cooperative_learning, improvisation, audience_participation, situated_music, transport_and_permission, sibling_familiarity, reciprocal_music_friendship, ordinary_belonging, robotic_companionship, plans_versus_outcomes]
+    locators: [PJSK:event:0081:01, PJSK:event:0081:02, PJSK:event:0081:03:002, PJSK:event:0081:04:003, PJSK:event:0081:05:002, PJSK:event:0081:06:003, PJSK:event:0081:08, PJSK:card:0565, PJSK:card:0567, PJSK:card:0568]
+  VBS:
+    relevance: SECONDARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [An, Kohane, Akito, Toya, Ken_reported_and_arriving, pension_owner_reported, Haruka_cross_unit, Ena_reported_family, audience_child]
+    manifestations: [VBS_Miku, VBS_Rin, VBS_Len, VBS_Luka, VBS_MEIKO, VBS_KAITO]
+    domains: [audience_rapport, participatory_skill, novice_sensitive_teaching, rivalry, shared_leisure, music_priority, ordinary_preferences, photography, bodily_limits, family_influence, supportive_logistics]
+    locators: [PJSK:event:0081:05:002, PJSK:event:0081:07:003, PJSK:event:0081:07:004, PJSK:event:0081:07:006, PJSK:card:0566, PJSK:card:0569, PJSK:area:areatalk_ev_shuffle_27_004:01, PJSK:area:areatalk_ev_shuffle_27_005:01, PJSK:area:areatalk_monthly2212_003:01]
+  N25:
+    relevance: SECONDARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: I1
+    reconstruction_yield: R2
+    characters: [Kanade, Mafuyu, Ena, Mizuki, hospitalized_family_member_referenced, Akito_bounded_family, Honami_cross_unit, Shizuku_cross_unit]
+    manifestations: [N25_Miku, N25_Rin, N25_Len, N25_Luka, N25_MEIKO]
+    domains: [public_creative_support, partial_efficacy, scene_sensitive_composition, received_praise, perceptual_memory, ritual_beliefs, ordinary_interests, privacy, conditional_social_choice, family_continuity, private_motive, manifestation_companionship]
+    locators: [PJSK:event:0081:06:002, PJSK:event:0081:06:003, PJSK:event:0081:07:004, PJSK:event:0081:07:005, PJSK:event:0081:08:001:0063, PJSK:card:0565:02:001:0035, PJSK:area:areatalk_monthly2212_005:01]
+  LEO_NEED:
+    relevance: SECONDARY
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Ichika, Saki, Honami, Shiho, Tsukasa_family, Tenma_mother, Nene_cross_unit, Kanade_cross_unit]
+    manifestations: [LN_Miku, LN_Rin, LN_Len, LN_Luka, LN_MEIKO, LN_KAITO]
+    domains: [professional_aspiration, singing_under_embarrassment, encouragement, group_play, planning_and_care, sibling_knowledge, music_friendship, ordinary_social_networks, household_support]
+    locators: [PJSK:event:0081:03:002, PJSK:event:0081:07:002, PJSK:event:0081:07:005, PJSK:event:0081:07:006, PJSK:card:0565:01, PJSK:card:0568:02, PJSK:area:areatalk_monthly2212_001:01]
+  MMJ:
+    relevance: SECONDARY
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Minori, Haruka, Airi, Shizuku, fans, An_cross_unit, Mafuyu_cross_unit]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [fan_perspective, hope_delivery, practical_planning, group_care, improvised_collaboration, audience_inclusion, ordinary_friendship, preferences, fan_service_calibration]
+    locators: [PJSK:event:0081:04:003, PJSK:event:0081:07:002, PJSK:event:0081:07:003, PJSK:event:0081:07:004, PJSK:event:0081:07:006, PJSK:area:areatalk_monthly2212_002:01]
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0081_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0082
+```
+
+| Reusable route | Exact evidence | Interpretation and limits |
+|---|---|---|
+| Tsukasa / actor, leader and learner | `PJSK:event:0081:02:002:0003–0023`; `PJSK:event:0081:08:001:0041–0074`; `PJSK:card:0565:02:001:0022–0059` | Familiar duties and desired novelty coexist. Four encounters produce differentiated lessons and a plan to consult about more external work, followed by renewed practice; no departure, approved tour or completed new mastery. |
+| WxS / audience co-creation | `PJSK:event:0081:03:002:0072–0124`; `PJSK:event:0081:04:003:0074–0110`; `PJSK:event:0081:05:002:0077–0106`; `PJSK:event:0081:06:003:0064–0099` | Song-responsive dance, idol involvement, street excitement and fitting accompaniment alter the prepared show differently. One shared causal reading serves all units; audience reactions and actors' private lessons are different evidence levels. |
+| Hinata–Emu–troupe / practical reciprocal help | `PJSK:event:0081:02:004:0044–0066`; `PJSK:card:0568:01:001:0025–0065`; `PJSK:event:0081:06:004:0004–0007` | Driver has her own educational interest, borrowed vehicle, food and route preparation. All four venues authorize performance; no invented permission agent or completed nursery project. Nene anticipates nonfamily New Year belonging. |
+| An–Kohane / active companionship | `PJSK:card:0566:01:001:0009–0050`; `PJSK:event:0081:05:002:0077–0100` | Shared rest and beginner teaching, Kohane-initiated matching outside work, An's skill-inclusive invitation to a child and Kohane's voluntary singing. Coordinated socks confirmed packed in 0569:01; other shopping remains proposed. |
+| VBS / leisure, instruction and bodily limits | `PJSK:card:0566:02:001:0002–0057`; `PJSK:card:0569:01:002:0013–0050`; `PJSK:card:0569:02:001` | Akito permits travel rest and privately loosens up; novice ski practice avoids the lift; balanced snowball teams include practice; actual live/footbath and differentiated food/photography/scenery preferences. No final race tally, snowball winner or booked return. |
+| An–Haruka / ambition and familiarity | `PJSK:event:0081:07:003:0002–0016` | Acting is briefly entertained then rejected as not the foremost desired path; Haruka recognizes the preference. Penguin delight and the wish to photograph the dessert coexist with professional skill. No career switch. |
+| Ichika–Nene / mutual musical interest | `PJSK:event:0081:03:002:0083–0124`; `PJSK:card:0568:02:001:0005–0046` | Ichika performs despite shyness; Nene notices specific effects, struggles after finishing her planned thanks, then accepts a conditional future invitation. They start practice; live-house attendance remains future. |
+| Tenma household / reciprocal familiarity | `PJSK:card:0565:01:001:0013–0050` | Saki notices hunger, siblings accurately predict amounts/preferences and accept their mother's playful task request. No literal mind-reading or reduction to illness-centered caretaking. |
+| MMJ / self-organized broadcast and collaboration | `PJSK:event:0081:04:003:0002–0049`; `PJSK:event:0081:04:003:0074–0127` | Fan-viewpoint idea, researched route and broadcast pause, support on slippery ground, Airi's initiative and all-member improvisation with audience invitation. Hope-delivery mission continues; fans are not shown seeing Stage manifestations. |
+| N25 / ritual and situated composition | `PJSK:event:0081:06:002`; `PJSK:event:0081:06:003:0011–0035`; `PJSK:event:0081:06:003:0040–0050`; `PJSK:event:0081:06:003:0071–0111` | Different beliefs, preferences, piano recognition, discreet viewing, partial-score reasoning, received praise. I1 strengthens K-027/042/071; no rescue/guilt cure, new self-esteem state or total-score recall. |
+| Mafuyu–Shizuku and wider circle | `PJSK:event:0081:07:004:0002–0025` | Shared-show discovery and accepted invitation until family contact extend E0080 ordinary availability. Meal, full autonomy and private disclosure are not shown. |
+| Kanade–Honami–Ena / public/private reasons | `PJSK:event:0081:07:005:0002–0021` | Practical shopping/rest support and intended family decoration; Ena's Akito-prompted running motive is audience-only behind a different public account. No completed hospital response or diagnosis. |
+| Wonderland singers–lion robot / roles and constraints | `PJSK:card:0567:01`; `PJSK:card:0567:02`; `PJSK:area:areatalk_ev_shuffle_27_001:01`; `PJSK:area:areatalk_ev_shuffle_27_002:01`; `PJSK:area:areatalk_ev_shuffle_27_003:01` | Ritual thanks, limited-view audience experience, corrected dream memory, Rin's alternate-role idea and request to consult Rui; adjustment postponed at Tsukasa's petlike attachment. No automatic robot ontology, approved new show, fixed mechanism or prophetic fortune. |
+| Manifestation-specific monthly ordinary skill | `PJSK:area:areatalk_monthly2212_001:01` through `PJSK:area:areatalk_monthly2212_005:01` | Classroom game rules; Stage fan-service calibration; Street teaching with comic inconsistency; Wonderland learned juggling; Empty Len's settling and string-figure request. Keep all five knowledge/behavior systems distinct; N25 KAITO absent. |
+| Cross-unit plans and everyday friction | `PJSK:event:0081:07:002`; `PJSK:event:0081:07:006`; `PJSK:area:areatalk_ev_shuffle_27_004:01`; `PJSK:area:areatalk_ev_shuffle_27_005:01` | Show stories travel through particular contacts, An/Akito negotiate odd drinks, and An/Tsukasa propose joint shrine attendance while Akito/Nene react differently. No universal itinerary knowledge, machine diagnosis or completed/unanimously pre-approved group visit. |
+
+All 28 hashes/ranges and causal distinctions are retained in the shared reading. N25 I1 updates all six ledgers without new IDs; latest relationship/epistemic I3 remains EVENT_0080, latest human-state transition EVENT_0072. Other units remain deferred. Next EVENT_0082; earlier gaps and full foundation/reconstruction/synthesis/audit/integration obligations persist.
+
+## EVENT_0082 — 夢の途中、輝く星たちへ
+
+```yaml
+release_id: EVENT_0082
+release_bucket: RB_20230110T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0082:01, PJSK:event:0082:02, PJSK:event:0082:03, PJSK:event:0082:04, PJSK:event:0082:05, PJSK:event:0082:06, PJSK:event:0082:07, PJSK:event:0082:08]
+card_locators: [PJSK:card:0571:01, PJSK:card:0571:02, PJSK:card:0572:01, PJSK:card:0572:02, PJSK:card:0573:01, PJSK:card:0573:02, PJSK:card:0574:01, PJSK:card:0574:02, PJSK:card:0575:01, PJSK:card:0575:02]
+area_locators: [PJSK:area:areatalk_ev_wonder_11_001:01, PJSK:area:areatalk_ev_wonder_11_002:01, PJSK:area:areatalk_ev_wonder_11_003:01, PJSK:area:areatalk_ev_wonder_11_004:01, PJSK:area:areatalk_ev_wonder_11_005:01]
+
+chronology_note: "Cards 0571-0573 initially available 03:00Z, 0574-0575 06:00Z; areas archive-published 2023-01-10T06:00Z with no initial-availability release bucket, separately linked by condition 108108 to episode 1000664/chapter 8. Card recollections, workshop progression, post-finale scenes and performed fiction remain distinct."
+unit_routes:
+  WXS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Emu, Tsukasa, Nene, Rui, Keisuke, Shousuke, Asahi_reported_and_message, workshop_director_unnamed, workshop_peers, park_costumed_staff, visitors, grandfather_remembered, Sakurako_reported]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [attachment_and_separation, reciprocal_encouragement, conflicting_wants, managerial_obligations, institutional_opportunity, acting_and_role_background, learner_identity, distributed_learning, fairness_and_reliance, conditional_confidence, emotional_support, non_disclosure, improvisation, ordinary_pleasure, textual_register, plans_versus_outcomes]
+    locators: [PJSK:event:0082:01, PJSK:event:0082:02, PJSK:event:0082:03, PJSK:event:0082:04, PJSK:event:0082:05, PJSK:event:0082:06, PJSK:event:0082:07, PJSK:event:0082:08, PJSK:card:0571, PJSK:card:0572, PJSK:card:0573, PJSK:card:0574, PJSK:card:0575]
+  LEO_NEED:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    analytical_salience: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Honami_reported, Saki_reported]
+    domains: [ordinary_food_recommendation, reported_social_network]
+    locators: [PJSK:event:0082:03:001]
+  N25: {relevance: NONE, future_review_priority: NONE, baseline_impact: I0, reconstruction_yield: R0}
+  MMJ: {relevance: NONE, future_review_priority: NONE}
+  VBS: {relevance: NONE, future_review_priority: NONE}
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0082_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0083
+```
+
+| Reusable responsibility | Exact evidence | Interpretation and limits |
+|---|---|---|
+| Emu / attachment and chosen reciprocity | `PJSK:event:0082:03:002`; `PJSK:event:0082:07:001:0047–0074`; `PJSK:event:0082:08:001:0053–0065` | Growth makes parting feel nearer; she chooses encouragement while explicitly expecting sadness to remain. Her worldwide hope for Tsukasa is private; her park dream continues. No actual separation or settled future. |
+| Emu / public cheer and ordinary motivation | `PJSK:card:0571:01:001:0025–0064`; `PJSK:card:0571:02:002:0021–0037` | Generic happy crowds and direct fan contact have different immediate effects. Rehearsal effort and valuing finite time coexist with enduring attachment. No guaranteed happy ending. |
+| Tsukasa–management / growth and employment | `PJSK:event:0082:01:001`; `PJSK:event:0082:08:003:0013–0039`; `PJSK:card:0571:02:001:0014–0026` | E81 consultation now occurs. Present business refusal and later joint-stage proposal do not settle all ambitions; joint performance remains awaiting details. |
+| Tsukasa–peers–director / role-specific learning | `PJSK:card:0574:01:003:0004–0054`; `PJSK:card:0574:02:001:0012–0072`; `PJSK:event:0082:08:001:0041–0050` | Peer welcome, initial failure and insight into implicit knowledge from self-written scripts; practice and casting support bounded progress. Pegasus naming motives are disputed; performed roles are not biography. |
+| Nene / conditional confidence and self-directed effort | `PJSK:card:0575:01:001:0014–0055`; `PJSK:card:0575:02:001:0002–0020` | Known-group stage confidence does not prove stranger confidence. Greeting practice, online search and completed notebook review coexist with envy and perceived limits. No workshop enrollment. |
+| Nene–Rui–Tsukasa / fair reliance and inclusion | `PJSK:card:0575:02:003:0002–0042`; `PJSK:event:0082:03:001` | Instructor-authorized sharing is distinguished from earned peer contacts. Nene asks, Tsukasa agrees, and she includes Emu in a later planned talk; the full discussion remains unshown. |
+| Rui / urgency, self-control and accepted help | `PJSK:card:0572:01:001:0024–0031`; `PJSK:card:0572:01:002:0011–0038`; `PJSK:card:0572:02:001:0040–0054` | Private compatible-future wish disrupts work. Partial disclosure and non-extractive support calm him and explicitly enable consultation about Emu; no full strategy or complete disclosure. |
+| Nene–Rui–Emu / care under incomplete knowledge | `PJSK:event:0082:04`; `PJSK:event:0082:05`; `PJSK:event:0082:06`; `PJSK:event:0082:07:001:0047–0083` | Hypothesis precedes actual disclosure; an outing creates conditions for her own interpretation. Tsukasa is absent; his knowledge cannot be inferred from next-day praise. |
+| Wonderland singers / collaborative failure response | `PJSK:card:0573:01:001:0013–0059`; `PJSK:card:0573:02:001:0009–0075` | Lost prop is accommodated successfully while Rin still feels failure. Len adapts the Emu example; a laugh is observed, lasting recovery or successful retry is not. |
+| Wonderland human/singer learning and play | `PJSK:area:areatalk_ev_wonder_11_004:01:001:0004–0012`; `PJSK:area:areatalk_ev_wonder_11_005:01:001:0002–0012` | Delivery depends on disposition, stakes and obstacles; hypothetical shy role is not Len's actual part. Narration accompanies altered sleep-talk without proving dream control. |
+| WxS / everyday wants, boundaries and expression | `PJSK:area:areatalk_ev_wonder_11_001:01`; `PJSK:area:areatalk_ev_wonder_11_002:01`; `PJSK:area:areatalk_ev_wonder_11_003:01`; `PJSK:event:0082:06:002` | Planned food outing, changed local consent to rushing, tactile rain and uncertain acting classification, differentiated ride enjoyment and remote-food limits. Preserve ordinary evidence beside major dilemmas. |
+| Leo/need / bounded report | `PJSK:event:0082:03:001` | Honami recommends a parfait place to Emu; Tsukasa reports Saki also heard about it. No actual visit, broader unit development or Kanade bridge. |
+
+All 23 declared witness hashes/ranges are retained in the shared reading. N25 I0 changes RELEASE_IMPACT only among the six longitudinal ledgers. Latest positive N25 evidence remains EVENT_0081, relationship/epistemic I3 EVENT_0080 and human-state transition EVENT_0072. Next EVENT_0083; earlier backlog, four foundations/deferred consumption and full completion obligations persist.
+
+## EVENT_0083 — Little Bravers！
+
+```yaml
+release_id: EVENT_0083
+release_bucket: RB_20230121T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0083:01, PJSK:event:0083:02, PJSK:event:0083:03, PJSK:event:0083:04, PJSK:event:0083:05, PJSK:event:0083:06, PJSK:event:0083:07, PJSK:event:0083:08]
+card_locators: [PJSK:card:0576:01, PJSK:card:0576:02, PJSK:card:0577:01, PJSK:card:0577:02, PJSK:card:0578:01, PJSK:card:0578:02, PJSK:card:0579:01, PJSK:card:0579:02, PJSK:card:0580:01, PJSK:card:0580:02]
+area_locators: [PJSK:area:areatalk_ev_band_12_001:01, PJSK:area:areatalk_ev_band_12_002:01, PJSK:area:areatalk_ev_band_12_003:01, PJSK:area:areatalk_ev_band_12_004:01, PJSK:area:areatalk_ev_band_12_005:01]
+
+chronology_note: "Cards 0576-0578 initially available 03:00Z, 0579-0580 06:00Z; areas archive-published 2023-01-21T06:00Z with no initial-availability release bucket, separately linked by condition 108208 to episode 1000672/chapter 8. Earlier remembered strength, preparatory strain, later completed practice and prospective concert remain distinct."
+unit_routes:
+  LEO_NEED:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Honami, Ichika, Saki, Shiho, Shindo_music_director, Honami_mother_reported, venue_manager, venue_staff, art_teacher_reported, florist, Gimme_performers]
+    manifestations: [LN_Miku, LN_Rin, LN_Len, LN_Luka, LN_MEIKO, LN_KAITO]
+    domains: [agency_and_professional_purpose, self_chosen_costs, reliance_and_care, distributed_work, self_evaluation, existing_strength, fear_and_courage, musical_skill, audience_relations, institutional_opportunity, family_history, peer_recognition, ordinary_school_life, textual_register, knowledge_asymmetry, manifestation_identity]
+    locators: [PJSK:event:0083, PJSK:card:0576, PJSK:card:0577, PJSK:card:0578, PJSK:card:0579, PJSK:card:0580]
+  N25:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: I1
+    reconstruction_yield: R2
+    characters: [Kanade_direct_messages, Ichika, Honami_reported_care_plan]
+    domains: [creative_feedback, reciprocal_contact, phone_input_skill, register, intended_care, inference_versus_disclosure]
+    locators: [PJSK:card:0580:01, PJSK:card:0580:02:002]
+  MMJ:
+    relevance: CROSS_UNIT
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Haruka, Minori_reported, Airi_and_Shizuku_tentative_reservation_only]
+    domains: [performance_ethic, audience_and_performer_joy, accepted_help, advice, reciprocal_gratitude, ordinary_group_messaging, tentative_plans]
+    locators: [PJSK:event:0083:04:001, PJSK:event:0083:05:001, PJSK:card:0576:01:002, PJSK:card:0580:01:001]
+  WXS:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Rui, Tsukasa]
+    domains: [practical_creative_support, introduction, accepted_request, performance_purpose, plans_versus_completed_work]
+    locators: [PJSK:event:0083:03:002, PJSK:event:0083:05:001, PJSK:event:0083:06:001, PJSK:card:0576:02:001]
+  VBS:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Kohane]
+    domains: [collaborative_visual_communication, bounded_experience, accepted_help, concept_development, reciprocal_support]
+    locators: [PJSK:event:0083:05:001:0062–0070, PJSK:card:0576:02:001]
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0083_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0084
+```
+
+| Reusable responsibility | Exact evidence | Interpretation and limits |
+|---|---|---|
+| Honami / useful participation and distributed work | `PJSK:event:0083:01:001`; `PJSK:event:0083:02:001`; `PJSK:event:0083:03`; `PJSK:event:0083:05:001` | Musical self-minimization encourages over-absorption; others already work and offer help. External coordination protects practice, not abandonment of responsibility. |
+| Honami–Haruka / advice and received consequence | `PJSK:event:0083:04:001:0036–0086`; `PJSK:card:0576:01:002:0004–0042` | Audience care plus performers' own conviction/joy; later thanks communicates actual effect. Haruka's personal ethic, one firm and three tentative tickets; no automatic MMJ unanimity or attendance. |
+| Leo/need–director / artistic purpose and selected cost | `PJSK:event:0083:06:001:0065–0129`; `PJSK:event:0083:07:001:0004–0058` | Understand commercial youth argument while refusing it as primary appeal; choose costs themselves and retain professional ambition. Private director respect is not a signed offer. |
+| Honami–peers / courage and already-existing strength | `PJSK:event:0083:08:001`; `PJSK:card:0578:02:002:0032–0071` | Shaking/apology receive explicit agreement; Shiho recalls earlier strength. Different singers possess different historical knowledge. |
+| Honami–mother / receiving support | `PJSK:card:0576:02:001:0017–0054` | Improved existing costumes, reported middle-school silence/inquiry, mother's pleasure at reliance and accepted playful care. No omniscient parent or exhaustive maternal identity. |
+| Honami–Kohane / collaborative flyer help | `PJSK:event:0083:05:001:0062–0070`; `PJSK:card:0576:02:001` | Limited experience acknowledged; saved examples and joint concept proposed. Later flyers exist, but full individual production history is not separately depicted. |
+| Honami–Tsukasa–Rui / introduction and useful skill | `PJSK:event:0083:05:001:0073–0086`; `PJSK:event:0083:06:001:0012–0014` | Specific performance rationale receives help; later Rui-built reservation site is confirmed. Saki's earlier computer-borrowing plan remains a distinct report. |
+| Shiho / work competence and accepted goodwill | `PJSK:card:0578:01:001:0002–0056`; `PJSK:area:areatalk_ev_band_12_002:01` | Experienced listeners' praise matters; normal-treatment preference can accept genuine support. Discount/effect offers are not profit or completed implementation. |
+| Saki–Ichika / ordinary school life | `PJSK:card:0577:01:002`; `PJSK:card:0577:02:002`; `PJSK:area:areatalk_ev_band_12_001:01` | Teacher misunderstanding corrected; actual next-morning submission and first shared greeting. Enjoying unusual experience does not mean wanting punishment; pressure-point belief is not medical evidence. |
+| Classroom singers / distinct identity and reciprocal motivation | `PJSK:card:0579:01:001:0021–0032`; `PJSK:card:0579:02:001:0004–0048`; `PJSK:area:areatalk_ev_band_12_005:01` | Relational coauthorship differs from direct composition and software identity. Worry/trust permit support, not substitution or guaranteed human safety. Humans also inspire singer practice. |
+| Kanade–Ichika / feedback and message accommodation | `PJSK:card:0580:01:001:0012–0049` | Directly watched both videos, specific phone difficulty, thanks/goodnight stickers. Waiting-time composing and old-sticker causes remain Ichika's hypotheses; future work/views are not outcomes. |
+| Honami–Ichika–Kanade / intended ordinary care | `PJSK:card:0580:01:001:0052–0053`; `PJSK:card:0580:02:002:0018–0034` | Consultation and actual flower selection; delivery, recipient pleasure and full planning knowledge unshown. |
+| Leo/need / promotion, wider audience and musical agency | `PJSK:card:0580:02:002:0035–0062`; `PJSK:area:areatalk_ev_band_12_003:01`; `PJSK:area:areatalk_ev_band_12_004:01` | Older listener welcomed, channel actually shared, flyers proposed for display; self-owned youth joy differs from imposed sales framing. Honami researches publicity and seeks to lead through playing. |
+
+All 23 declared hashes/ranges are retained in the shared reading. N25 I1 changes four ledgers without new IDs; CLAIM_REVISION and THEME_AND_MOTIF remain byte-preserved. Latest relationship/epistemic I3 EVENT_0080 and human-state transition EVENT_0072 remain. Four material other-unit routes are deferred. Next EVENT_0084; earlier gaps and all full-completion dependencies persist.
+
+## EVENT_0084 — キャンドルの香りは思い出と共に
+
+```yaml
+release_id: EVENT_0084
+release_bucket: RB_20230131T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 10 archive-publication/event-unlock areas = 28"
+core_locators: [PJSK:event:0084:01, PJSK:event:0084:02, PJSK:event:0084:03, PJSK:event:0084:04, PJSK:event:0084:05, PJSK:event:0084:06, PJSK:event:0084:07, PJSK:event:0084:08]
+card_locators: [PJSK:card:0583:01, PJSK:card:0583:02, PJSK:card:0584:01, PJSK:card:0584:02, PJSK:card:0585:01, PJSK:card:0585:02, PJSK:card:0586:01, PJSK:card:0586:02, PJSK:card:0587:01, PJSK:card:0587:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_28_001:01, PJSK:area:areatalk_ev_shuffle_28_002:01, PJSK:area:areatalk_ev_shuffle_28_003:01, PJSK:area:areatalk_ev_shuffle_28_004:01, PJSK:area:areatalk_ev_shuffle_28_005:01, PJSK:area:areatalk_monthly2301_001:01, PJSK:area:areatalk_monthly2301_002:01, PJSK:area:areatalk_monthly2301_003:01, PJSK:area:areatalk_monthly2301_004:01, PJSK:area:areatalk_monthly2301_005:01]
+
+chronology_note: "Cards 0583-0585 initially available 03:00Z, 0586-0587 06:00Z; shuffle_28 archive publication 2023-01-31T06:00Z, monthly2301 2023-02-28T06:00Z. All ten areas lack initial-availability buckets and independently carry condition 108308 / episode 1000680. Earlier preparation, shared making, Valentine gifts and subsequent use retain their narrative order."
+unit_routes:
+  N25:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: I2
+    reconstruction_yield: R3
+    characters: [Kanade, Mafuyu, Ena, Mizuki, Honami, Ichika, Nene, Minori, Shizuku, Airi, Mafuyu_mother_reported]
+    manifestations: [N25_Miku, N25_Rin, N25_Len, N25_Luka, N25_MEIKO]
+    domains: [supported_nonmusical_competence, participant_authorship, reciprocal_care, ordinary_pleasure, self_knowledge, physical_limits, gift_selection, household_permission_report, sensory_access, bounded_acquaintance, social_register, practical_help, guarded_information, manifestation_identity]
+    locators: [PJSK:event:0084:02, PJSK:event:0084:03, PJSK:event:0084:04, PJSK:event:0084:05, PJSK:event:0084:06, PJSK:event:0084:07:003, PJSK:card:0583:01, PJSK:card:0584:01, PJSK:card:0585, PJSK:card:0586:02, PJSK:card:0587, PJSK:area:areatalk_ev_shuffle_28_001:01, PJSK:area:areatalk_ev_shuffle_28_003:01, PJSK:area:areatalk_ev_shuffle_28_004:01, PJSK:area:areatalk_monthly2301_001:01, PJSK:area:areatalk_monthly2301_002:01, PJSK:area:areatalk_monthly2301_003:01, PJSK:area:areatalk_monthly2301_004:01]
+  LEO_NEED:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Ichika, Honami, Saki, Shiho, Nene, Kanade, Emu, Tsukasa_reported, classmates, passerby]
+    manifestations: [LN_Miku, LN_Rin, LN_Len, LN_Luka, LN_MEIKO, LN_KAITO]
+    domains: [experiential_understanding_of_care, teaching_and_learning, practical_fallibility, chosen_friendship, mutual_gratitude, paid_care_and_reciprocity, gift_effort, embodied_skill, recipient_image, music_feedback, ordinary_pleasure, scent_and_memory_hope, secret_and_mistaken_belief, social_register]
+    locators: [PJSK:event:0084:01, PJSK:event:0084:02:003, PJSK:event:0084:03, PJSK:event:0084:04, PJSK:event:0084:05, PJSK:event:0084:08, PJSK:card:0583, PJSK:card:0584:01, PJSK:card:0585:01, PJSK:card:0586, PJSK:area:areatalk_ev_shuffle_28_001:01, PJSK:area:areatalk_ev_shuffle_28_002:01, PJSK:area:areatalk_ev_shuffle_28_004:01, PJSK:area:areatalk_ev_shuffle_28_005:01]
+  WXS:
+    relevance: SECONDARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Nene, Emu, Tsukasa, Rui, Ichika, Honami, Kanade]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [chosen_social_contact, situational_anxiety, reciprocal_practice, recipient_care, novice_skill, perceived_effort, delayed_disclosure, group_gratitude, performer_audience_concern, teaching_intention, bounded_introductions, textual_register, personal_report]
+    locators: [PJSK:event:0084:01, PJSK:event:0084:03, PJSK:event:0084:04, PJSK:event:0084:05, PJSK:event:0084:07:002, PJSK:card:0583:01, PJSK:card:0584, PJSK:card:0585:01, PJSK:card:0586, PJSK:area:areatalk_ev_shuffle_28_001:01, PJSK:area:areatalk_ev_shuffle_28_002:01, PJSK:area:areatalk_ev_shuffle_28_005:01]
+  MMJ:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Airi, Minori, Shizuku, Ena, Kanade, Mizuki]
+    manifestations: [MMJ_Len, MMJ_KAITO]
+    domains: [recipient_specific_care, shared_craft_interest, completed_shopping, adaptive_practical_help, route_knowledge, intended_outing, manifestation_rest_and_care]
+    locators: [PJSK:area:areatalk_monthly2301_001:01, PJSK:area:areatalk_monthly2301_003:01, PJSK:area:areatalk_monthly2301_004:01, PJSK:area:areatalk_monthly2301_005:01]
+  VBS:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: NOT_APPLICABLE_NO_MATERIAL_ROUTE
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0084_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0085
+```
+
+| Reusable responsibility | Evidence | Required interpretation and limits |
+|---|---|---|
+| Ichika–Nene / mutual musical learning and chosen company | `PJSK:event:0084:01:003:0002–0062`; `PJSK:area:areatalk_ev_shuffle_28_002:01` | Actual reciprocal practice, trusted feedback and a joint craft invitation; Nene's confidence reading and inferred strangers' affinity stay attributed. |
+| Ichika / experiential gratitude and gift-making effort | `PJSK:event:0084:05:001:0002–0043`; `PJSK:card:0583:01:001`; `PJSK:card:0583:02:002` | Participation deepens already-real gratitude. Wrapping failures and help remain separate from candle competence; recipient response cannot be anticipated as fact. |
+| Honami / fallible teaching, received care and own interests | `PJSK:event:0084:03:002:0076–0085`; `PJSK:event:0084:04:001`; `PJSK:event:0084:05:001:0045–0079`; `PJSK:card:0586:02:001` | Forgotten preparation and skill coexist; the others share cleanup and recognize teaching. She enjoys learning, rather than existing only as useful support. |
+| Honami–Emu / secrecy, mistaken inference and guilt | `PJSK:card:0586:01:001:0014–0065` | Protecting Nene's surprise leaves Emu's birthday inference uncorrected; private guilt motivates useful advice. No direct invented birthday story or guaranteed first-trial chocolate success. |
+| Kanade / task-specific competence and learner-to-helper transfer | `PJSK:event:0084:04:001`; `PJSK:event:0084:06:002`; `PJSK:event:0084:06:003` | I2 integrates accepted scaffolding, physical execution and another's design ownership; neither generalized helplessness nor cure. |
+| Kanade–Ichika–Honami / reciprocal expertise and care | `PJSK:card:0585:01:001:0021–0050`; `PJSK:event:0084:05:001:0064–0079`; `PJSK:area:areatalk_ev_shuffle_28_004:01` | Flower network explicitly known, maker/recipient roles rotate and actual use is reported; a particular earlier bouquet delivery remains undated. |
+| Nene–Kanade / first proper conversation and bounded welcome | `PJSK:card:0584:01:001`; `PJSK:event:0084:03:001:0004–0040`; `PJSK:event:0084:05:001:0105–0112` | Earlier name/public help, new introduction, local speech-register agreement with Honami and eventual anxiety disclosure. No full private biography. |
+| Kanade–Len / initiative, access and reciprocal insight | `PJSK:card:0587:01:001`; `PJSK:event:0084:06:003`; `PJSK:event:0084:07:003:0060–0074`; `PJSK:card:0587:02:001:0036–0046` | Len's wish precedes Kanade's help; she physically makes, he selects/reflects; later first smell differs from prior approval of a description. His joy helps her name hers. |
+| Nene–WxS / personalized gifts, hidden effort and reciprocity | `PJSK:event:0084:07:002`; `PJSK:card:0584:02:002` | Actual received candles and later use reports; Emu's failures disclosed later. Mutual teaching and White Day gifts remain future. |
+| N25 / plural everyday care and bounded household report | `PJSK:event:0084:07:003`; `PJSK:card:0585:02:001` | Bought/made gifts both carry care; individual responses differ. Mafuyu's small benefit and study-compatible explanation do not establish global recovery or parental transformation. |
+| Empty singers / practical inclusion and verbalized wishes | `PJSK:card:0587:01:001`; `PJSK:card:0587:02:001`; `PJSK:area:areatalk_monthly2301_002:01` | Unsolved listening still helps; lighting/gathering actually occurs. MEIKO prompts words before Mafuyu agrees to learn a game; game completion unshown. |
+| Ichika–Leo/need / gifts and memory | `PJSK:event:0084:08:002`; `PJSK:event:0084:08:003` | Actual exchange, later solitary candle use; group lighting is proposed and future scent-linked recall is hoped for. |
+| N25–MMJ / ordinary taste, craft talk and adaptive help | `PJSK:area:areatalk_monthly2301_001:01`; `PJSK:area:areatalk_monthly2301_003:01`; `PJSK:area:areatalk_monthly2301_004:01` | Airi/Ena selection pending; Mizuki/Shizuku thread purchase actual, next shop intended; Minori changes a failing route, CD collection unshown. |
+| Stage Len–KAITO / rest and practical care | `PJSK:area:areatalk_monthly2301_005:01` | Blanket placement and fatigue acknowledged; no Empty-manifestation memory/behavior transfer. |
+| Ordinary invitations and lingering awkwardness | `PJSK:area:areatalk_ev_shuffle_28_001:01`; `PJSK:area:areatalk_ev_shuffle_28_003:01`; `PJSK:area:areatalk_ev_shuffle_28_005:01` | Practice observation/walk agreed, not shown; Honami/Nene's surprise can still produce speechlessness. |
+
+All 28 declared hashes/ranges remain in the shared reading. N25 I2 updates six ledgers without new state/claim/theme IDs; other material unit impacts remain deferred. Latest relationship/epistemic I3 EVENT_0080 and global human-state transition EVENT_0072 persist. Next EVENT_0085; all earlier gaps and full-completion dependencies remain.
+
+## EVENT_0085 — ほどかれた糸のその先に
+
+```yaml
+release_id: EVENT_0085
+release_bucket: RB_20230210T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 8 archive-publication/event-unlock areas = 26"
+core_locators: [PJSK:event:0085:01, PJSK:event:0085:02, PJSK:event:0085:03, PJSK:event:0085:04, PJSK:event:0085:05, PJSK:event:0085:06, PJSK:event:0085:07, PJSK:event:0085:08]
+card_locators: [PJSK:card:0589:01, PJSK:card:0589:02, PJSK:card:0590:01, PJSK:card:0590:02, PJSK:card:0591:01, PJSK:card:0591:02, PJSK:card:0592:01, PJSK:card:0592:02, PJSK:card:0593:01, PJSK:card:0593:02]
+area_locators: [PJSK:area:areatalk_ev_idol_12_001:01, PJSK:area:areatalk_ev_idol_12_002:01, PJSK:area:areatalk_ev_idol_12_003:01, PJSK:area:areatalk_ev_idol_12_004:01, PJSK:area:areatalk_ev_idol_12_005:01, PJSK:area:areatalk_monthly2303_003:01, PJSK:area:areatalk_monthly2303_004:01, PJSK:area:areatalk_monthly2303_005:01]
+
+chronology_note: "Cards 0589-0591 initially available 03:00Z, 0592-0593 06:00Z; five idol_12 areas archive-published 2023-02-10T06:00Z, three monthly2303 areas 2023-03-30T06:00Z. All eight lack initial-availability buckets and carry separate condition 108408 / episode 1000688, chapter 8. Past formation/exclusion, present preparation/recording, broadcast weeks later and subsequent response remain distinct."
+unit_routes:
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Shizuku, Airi, Haruka, Minori, Higurashi_Arisa, Yamashita_Marina, Cheerful_Days_members, agency_producer, agency_staff, other_program_producer, Aihaza_producer, production_staff, manager_reported, fans_and_former_fan, Shiho, Samo_video]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [self_authored_speech, persona_and_continuity, audience_care, imposed_image, institutional_incentives, collaborative_labor, unequal_opportunity, ambition_and_responsibility, self_blame, mistreatment, specific_accountability, incomplete_reconciliation, professional_skill, mixed_motives, reciprocal_support, historical_strength, social_register, bounded_knowledge, preparation_and_learning, received_feedback, ordinary_life, manifestation_experience_limits]
+    locators: [PJSK:event:0085, PJSK:card:0589, PJSK:card:0590, PJSK:card:0591, PJSK:card:0592, PJSK:card:0593, PJSK:area:areatalk_ev_idol_12_001:01, PJSK:area:areatalk_ev_idol_12_002:01, PJSK:area:areatalk_ev_idol_12_003:01, PJSK:area:areatalk_ev_idol_12_004:01, PJSK:area:areatalk_ev_idol_12_005:01, PJSK:area:areatalk_monthly2303_003:01, PJSK:area:areatalk_monthly2303_004:01, PJSK:area:areatalk_monthly2303_005:01]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Shiho, Shizuku, Airi_gift_companion]
+    manifestations: []
+    domains: [sibling_support, limited_disclosure, recognized_strain, physical_affection_boundary, chosen_aim, self_trust, ordinary_preferences_reported, gift_intention]
+    locators: [PJSK:card:0589:01:001:0019–0063, PJSK:area:areatalk_monthly2303_003:01]
+  N25:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: I0
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  WXS:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: NOT_APPLICABLE_NO_MATERIAL_ROUTE
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  VBS:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: NOT_APPLICABLE_NO_MATERIAL_ROUTE
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0085_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0086
+```
+
+| Reusable responsibility | Evidence | Interpretation and limits |
+|---|---|---|
+| Shizuku–Airi / chosen exposure with an option to decline | `PJSK:event:0085:01:003`; `PJSK:event:0085:02:001:0012–0045` | Acknowledge hurt, offer cancellation without guilt, then support her chosen opportunity. No requirement that reconciliation succeed. |
+| Shizuku / ordinary fallibility and professional care | `PJSK:event:0085:01:001`; `PJSK:event:0085:01:003:0012–0013`; `PJSK:card:0591:02:002:0003–0012`; `PJSK:area:areatalk_ev_idol_12_002:01` | Phone errors coexist with acquired modeling skill and successful speech; not global incompetence or sudden self-sufficiency. |
+| Minori / useful purpose and situational nerves | `PJSK:event:0085:02:003`; `PJSK:card:0590:01`; `PJSK:card:0593:01:001`; `PJSK:event:0085:06:002:0006–0015` | Concrete self-chosen message, deliberate practice, pacing feedback and playful care help without eliminating later pressure. |
+| Television institution / improvisation and consent | `PJSK:event:0085:03:001`; `PJSK:event:0085:07:001:0024–0048` | Expected questions are not a guarantee; producer knows rumor and offers advance meeting. Continued filming supports an inference about usable footage, not proof of a preplanned conspiracy. |
+| Cheerful＊Days / genuine early support and rivalry | `PJSK:event:0085:04:004`; `PJSK:event:0085:04:005:0002–0034`; `PJSK:event:0085:05:004:0002–0037` | Initial welcome, competitive fellowship, admitted difficulty and willing cover are not retrospectively erased by later harm. |
+| Shizuku–management / selective image and hidden labor | `PJSK:event:0085:04:005:0035–0046`; `PJSK:event:0085:05:003`; `PJSK:event:0085:05:004:0002–0045` | Management rejects gap/fallibility marketing; increasing work and peer cover create uneven conditions. Private producer conversation is not automatic human/group knowledge. |
+| Shizuku–Arisa/peers / opportunity, scheduling and exclusion | `PJSK:event:0085:05:004:0048–0116` | Theater fans, center responsibility and invisible work give grievances content; hostility remains distinct. Missing costume's cause is unestablished; Shizuku's totalizing self-blame stays attributed. |
+| Airi / anger with accurate assessment | `PJSK:card:0591:01:001`; `PJSK:event:0085:08:001:0026–0046`; `PJSK:area:areatalk_ev_idol_12_001:01` | Research recognizes Arisa's balanced hosting and skill without excusing cruelty. Anticipated agency restraint proves fallible; objection persists after success. |
+| Shizuku–Shiho / agency and physical boundary | `PJSK:card:0589:01:001:0019–0063` | Limited pre-recording disclosure, direct encouragement, refused hug and respected self-chosen aim. No exhaustive knowledge or performed embrace. |
+| Shizuku–Haruka / prior strength and shared responsibility | `PJSK:card:0592:01:001:0018–0064` | Earlier appraisal was sincere, not mere consolation; all chose the appearance. Mutual help does not disqualify strength. |
+| Shizuku / public causal framing and continuous self | `PJSK:event:0085:07:001:0050–0106` | Minori notes omission of imposed agency policy. Both periods belong to Shizuku through real fan care; no demand all former fans prefer her present self. |
+| Minori–MMJ / failed improvisation and later owned response | `PJSK:card:0590:02:001:0008–0084` | Others turn a difficult question into useful promotion. Later debrief acknowledges preparation and produces an actual practice answer; it was not spoken on camera. |
+| Shizuku–Arisa / mixed motives and incomplete reconciliation | `PJSK:event:0085:08:001:0020–0110` | Arisa admits both work purpose and interest in seeing her falter; praises the answer but never apologizes. Shizuku's specific apology and hope for recognition do not create reciprocal forgiveness. |
+| Shizuku–Airi / received historical influence | `PJSK:card:0591:02:003:0004–0036` | Airi's earlier Happy Everyday self-recognition helps Shizuku reconsider her past, as tentatively explained now. Explicit thanks and future commitment differ from Airi's unfinished private admiration. |
+| MMJ–fans / actual reception with limits | `PJSK:event:0085:08:003`; `PJSK:card:0589:02:001` | Broadcast, new awareness/subscriber growth and one former fan's returned support are evidenced; universal approval, future booking and full repair are not. |
+| Stage singers / received effect and recognized learning gap | `PJSK:card:0592:02:001`; `PJSK:card:0593:02:001` | Report precedes actual viewing; KAITO supplies display access. Haruka credits MEIKO's earlier help; MEIKO recognizes limited TV experience and proposes more learning. |
+| Ordinary shared life / pets, taste and playful knowledge | `PJSK:area:areatalk_ev_idol_12_003:01`; `PJSK:area:areatalk_ev_idol_12_004:01`; `PJSK:area:areatalk_ev_idol_12_005:01`; `PJSK:area:areatalk_monthly2303_003:01`; `PJSK:area:areatalk_monthly2303_004:01`; `PJSK:area:areatalk_monthly2303_005:01` | Distinguish pet interpretation, enjoyable failed concealment, practiced rope skill, conditional gift trade, requested host-role advice and playful test from outcomes or objective psychology. |
+
+All 26 declared witness hashes/ranges remain in the shared reading. N25 I0 changes RELEASE_IMPACT/documentary state only; five substantive N25 ledgers remain byte-preserved at EVENT_0084. MMJ and Leo/need impacts remain deferred. Next EVENT_0086; all older gaps and full-completion dependencies persist.
+
+## EVENT_0086 — Kick it up a notch
+
+```yaml
+release_id: EVENT_0086
+release_bucket: RB_20230219T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 8 archive-publication/event-unlock areas = 26"
+core_locators: [PJSK:event:0086:01, PJSK:event:0086:02, PJSK:event:0086:03, PJSK:event:0086:04, PJSK:event:0086:05, PJSK:event:0086:06, PJSK:event:0086:07, PJSK:event:0086:08]
+card_locators: [PJSK:card:0595:01, PJSK:card:0595:02, PJSK:card:0596:01, PJSK:card:0596:02, PJSK:card:0597:01, PJSK:card:0597:02, PJSK:card:0598:01, PJSK:card:0598:02, PJSK:card:0599:01, PJSK:card:0599:02]
+area_locators: [PJSK:area:areatalk_ev_street_12_001:01, PJSK:area:areatalk_ev_street_12_002:01, PJSK:area:areatalk_ev_street_12_003:01, PJSK:area:areatalk_ev_street_12_004:01, PJSK:area:areatalk_ev_street_12_005:01, PJSK:area:areatalk_monthly2304_002:01, PJSK:area:areatalk_monthly2304_003:01, PJSK:area:areatalk_monthly2304_005:01]
+
+chronology_note: "Cards 0595-0597 initially available 03:00Z, 0598-0599 06:00Z; five street_12 areas archive-published 2023-02-19T06:00Z, three monthly2304 areas 2023-04-30T06:00Z. All eight lack initial-availability buckets and carry separate condition 108508 / episode 1000696, chapter 8. Negotiation, following-week lesson, later preparation/outing, actual performance and subsequent card outcomes remain distinct."
+unit_routes:
+  VBS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Kohane, An, Akito, Toya, Taiga, Ken, Nagi_memory, Arata, Kotaro, Tatsuya, EVER_members, Crawl_Green_owner, older_record_shop_woman, record_shop_woman, crepe_seller, ramen_shop_owner, shop_worker, neighborhood_residents, audiences, passersby, Kohane_father_reported, Minori, Nene, Bibi, phone_caller_unresolved]
+    manifestations: [VBS_Miku, VBS_Rin, VBS_Len, VBS_Luka, VBS_MEIKO, VBS_KAITO]
+    domains: [chosen_risk, audience_relationship, supported_agency, acquired_skill, individual_and_collective_achievement, mentor_pedagogy, selective_explanation, pressure_and_rest, ordinary_pleasure, reciprocal_care, prior_failure, gratitude, qualified_recognition, comparison_and_unease, generational_hope, competing_commitments, institutional_craft, community_memory, self_authored_learning, musical_responsiveness, literary_taste, postponement_and_commitment, social_register, bounded_knowledge, manifestation_specific_support]
+    locators: [PJSK:event:0086, PJSK:card:0595, PJSK:card:0596, PJSK:card:0597, PJSK:card:0598, PJSK:card:0599, PJSK:area:areatalk_ev_street_12_001:01, PJSK:area:areatalk_ev_street_12_002:01, PJSK:area:areatalk_ev_street_12_003:01, PJSK:area:areatalk_ev_street_12_004:01, PJSK:area:areatalk_ev_street_12_005:01, PJSK:area:areatalk_monthly2304_002:01, PJSK:area:areatalk_monthly2304_003:01, PJSK:area:areatalk_monthly2304_005:01]
+  WXS:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Nene, Akito]
+    manifestations: []
+    domains: [ordinary_initiative, unfamiliar_places, social_caution, employment_knowledge, perceived_social_presentation, unspoken_impression]
+    locators: [PJSK:area:areatalk_monthly2304_002:01:001:0002–0013]
+  MMJ:
+    relevance: INCIDENTAL
+    future_review_priority: LOW
+    analytical_salience: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Minori, Kohane]
+    manifestations: []
+    domains: [school_friendship, ordinary_help, received_gratitude]
+    locators: [PJSK:event:0086:04:002:0002–0014]
+  N25:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: I0
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  LEO_NEED:
+    relevance: NONE
+    future_review_priority: NONE
+    analytical_salience: NONE
+    baseline_impact: NOT_APPLICABLE_NO_MATERIAL_ROUTE
+    reconstruction_yield: R0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0086_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0087
+```
+
+| Reusable responsibility | Evidence | Interpretation and limits |
+|---|---|---|
+| VBS/event team–venue / collective merit | `PJSK:event:0086:01:001:0019–0045`; `PJSK:card:0596:01:001` | Actual JET video and shared achievement earn the booking. An's connection is not automatic favoritism; Arata and An contribute differently. |
+| Taiga–Ken–Kohane / uneven news and motive access | `PJSK:event:0086:01:001:0085–0121`; `PJSK:event:0086:02:002:0056–0064`; `PJSK:event:0086:08:002:0094–0118` | Ken hears tour news before Kohane; private Nagi/generational comparison and contested responsibility do not become group knowledge. |
+| Kohane–street / learned contact and chosen solo | `PJSK:event:0086:02:002`; `PJSK:event:0086:03:001:0029–0063` | Partial pedagogical understanding, photographed people, personal desire under collective stakes and negotiated support. Earlier solo experience remains. |
+| Kohane–companions / strain and differentiated appraisal | `PJSK:event:0086:03:002:0002–0037`; `PJSK:event:0086:04:002:0002–0017`; `PJSK:event:0086:04:003:0013–0018` | Familiar listeners hear pressure others initially miss. Late practice changes form after parental concern; school sleep and Minori's help are actual. |
+| An–Kohane / restorative and reciprocal ordinary life | `PJSK:event:0086:04:003`; `PJSK:event:0086:04:004`; `PJSK:card:0596:02:001` | Shared clothing choices, allowed rest, actual crepe exchange, received benefit and future cafe visit. Date wording does not settle relationship category. |
+| Akito–owner / failure, gratitude and institutional craft | `PJSK:event:0086:05:001:0014–0027`; `PJSK:event:0086:05:002:0008–0020`; `PJSK:card:0597:02:002` | Akito thanks the owner for allowing the earlier performance to finish; later voluntary thanks receives qualified recognition without an explicit demand for reassurance. |
+| RADder–street / shared memory and benchmark | `PJSK:event:0086:05:002:0029–0064`; `PJSK:event:0086:05:004:0007–0027` | Owner/An's attributed historical accounts change what surpassing the debut means to Kohane. Do not supply the unfinished historical lament's explanation. |
+| Kohane–Street Miku/Luka / supported agency | `PJSK:event:0086:06:002:0069–0149`; `PJSK:card:0599:02:002:0025–0050` | Pressure returns after a useful outing. Coordinated singing helps; later explicit correction attributes achieved performance to Kohane herself. |
+| Kohane–audience / performance as response | `PJSK:event:0086:07:002` | Specific listeners, remembered support, delivered singing and actual response support the causal model. Inner thoughts are not literal telepathy; Nagi resemblance is attributed. |
+| RISE / collective escalation with limits | `PJSK:event:0086:08:001`; `PJSK:event:0086:08:002:0002–0092`; `PJSK:card:0597:02:002:0044–0054` | EVER, Kotaro, Arata and VBS add their own work. The owner explicitly ranks RADder's debut higher despite comparable momentum; RAD WEEKEND remains future. |
+| An / sincere support and unresolved comparison | `PJSK:event:0086:07:002:0151–0166`; `PJSK:event:0086:08:002:0035–0062`; `PJSK:event:0086:08:002:0130–0150` | Fear, admiration, care and performance enjoyment coexist. Deflection into fatigue does not establish full disclosure or resolution. |
+| Akito–Toya / forward action and musical response | `PJSK:card:0597:01:001:0021–0072`; `PJSK:card:0597:02:003` | Return to the venue remains meaningful without simple avoidance; responsive BAD DOGS performance and a waiting team retain relational agency. |
+| Kohane / retained insight and teacher role | `PJSK:card:0595:02`; `PJSK:area:areatalk_ev_street_12_001:01`; `PJSK:area:areatalk_ev_street_12_003:01` | Self-initiated photographic revisiting, longstanding community support, renewed admiration of An and accepted teaching request. Quasi-family wording is metaphor. |
+| Toya / intense reading pleasure and chosen priorities | `PJSK:card:0598:01:002`; `PJSK:card:0598:02` | Forecast immersion, failed distraction, actual purchase and kept prior commitment. Reading completion is not shown; An's initial ignorance differs from later apology. |
+| Kohane–An/Toya / earnest play and pedagogy | `PJSK:card:0595:01`; `PJSK:area:areatalk_ev_street_12_002:01` | Intended animal-language content is not immediate listener/cat knowledge. An eventually understands; Toya admits intrinsic curiosity. Vocal claims remain source-attributed. |
+| Street singers / experience, choice and reciprocal care | `PJSK:card:0599:01:002`; `PJSK:card:0599:02:002`; `PJSK:area:areatalk_ev_street_12_004:01`; `PJSK:area:areatalk_ev_street_12_005:01`; `PJSK:area:areatalk_monthly2304_003:01`; `PJSK:area:areatalk_monthly2304_005:01` | Historically weighted assurance, chosen nonattendance, reports rather than shown video viewing, phrase-specific help, food/play and shared-space permission limits. |
+| Nene–Akito / ordinary initiative and bounded knowledge | `PJSK:area:areatalk_monthly2304_002:01:001:0002–0013` | Deliberate unfamiliar outing, retail-work disclosure and private social-presentation inference. No close dyad or exact mind-reading established. |
+| Minori–Kohane / incidental school care | `PJSK:event:0086:04:002:0002–0014` | Waking a friend prevents an appointment being missed; no independent Minori developmental transition is asserted. |
+
+All 26 declared witness hashes/ranges remain in the shared reading. N25 I0 changes RELEASE_IMPACT/documentary state only; five substantive N25 ledgers remain byte-preserved at EVENT_0084. VBS/WxS material routes and MMJ's incidental observation retain unfounded impact deferral. Next EVENT_0087; older gaps and full-completion dependencies persist.
+
+## EVENT_0087 — Never Give Up Cooking！
+
+```yaml
+release_id: EVENT_0087
+release_bucket: RB_20230228T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 11 archive-publication/event-unlock areas = 29"
+core_locators: [PJSK:event:0087:01, PJSK:event:0087:02, PJSK:event:0087:03, PJSK:event:0087:04, PJSK:event:0087:05, PJSK:event:0087:06, PJSK:event:0087:07, PJSK:event:0087:08]
+card_locators: [PJSK:card:0600:01, PJSK:card:0600:02, PJSK:card:0601:01, PJSK:card:0601:02, PJSK:card:0602:01, PJSK:card:0602:02, PJSK:card:0603:01, PJSK:card:0603:02, PJSK:card:0604:01, PJSK:card:0604:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_29_001:01, PJSK:area:areatalk_ev_shuffle_29_002:01, PJSK:area:areatalk_ev_shuffle_29_003:01, PJSK:area:areatalk_ev_shuffle_29_004:01, PJSK:area:areatalk_ev_shuffle_29_005:01, PJSK:area:areatalk_monthly2302_001:01, PJSK:area:areatalk_monthly2302_002:01, PJSK:area:areatalk_monthly2302_003:01, PJSK:area:areatalk_monthly2302_004:01, PJSK:area:areatalk_monthly2302_005:01, PJSK:area:areatalk_monthly2304_001:01]
+
+chronology_note: "Core 06:00Z; cards 0600-0602 03:00Z and 0603-0604 06:00Z initial availability. Ten shuffle_29/monthly2302 areas archive-published 2023-02-28T06:00Z, monthly2304_001 2023-04-30T06:00Z; all eleven lack initial-availability buckets and independently carry chapter-8 condition 108608 / episode 1000704. Earlier childhood/preparation, successive trials, actual party and later outcomes remain distinct."
+unit_routes:
+  VBS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Toya, Akito, Kohane, An, Rui, Tsukasa, Saki, Emu, Tenma_mother, Toya_parents_reported, cafe_owner, cafe_customer, Ena_reported]
+    manifestations: [VBS_Miku, VBS_Rin, VBS_Len, VBS_Luka, VBS_MEIKO, VBS_KAITO]
+    domains: [gratitude, received_care, family_history, chosen_learning, practical_inexperience, mistaken_instruction, trust_and_self_blame, persistence, technical_feedback, reciprocal_support, ordinary_taste, gift_secrecy, literary_pleasure, inferred_emotion, manifestation_fallibility_and_repair]
+    locators: [PJSK:event:0087, PJSK:card:0600, PJSK:card:0602, PJSK:card:0603, PJSK:card:0604, PJSK:area:areatalk_ev_shuffle_29_001:01, PJSK:area:areatalk_ev_shuffle_29_002:01, PJSK:area:areatalk_ev_shuffle_29_003:01, PJSK:area:areatalk_ev_shuffle_29_004:01, PJSK:area:areatalk_ev_shuffle_29_005:01, PJSK:area:areatalk_monthly2302_005:01, PJSK:area:areatalk_monthly2304_001:01]
+  WXS:
+    relevance: SECONDARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Rui, Tsukasa, Emu, Nene, Nenerobo, Toya, Saki, Tenma_mother, Honami_reported]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [responsive_help, private_and_spoken_judgment, ordinary_hospitality, family_like_belonging, childhood_care, role_restraint, gift_participation, practical_credit, shared_play, recipient_specificity, inferred_motive, material_preferences]
+    locators: [PJSK:event:0087:02:004, PJSK:event:0087:04:003, PJSK:event:0087:05, PJSK:event:0087:06:002, PJSK:event:0087:08, PJSK:card:0600, PJSK:card:0601, PJSK:card:0604, PJSK:area:areatalk_ev_shuffle_29_001:01, PJSK:area:areatalk_ev_shuffle_29_002:01, PJSK:area:areatalk_monthly2302_002:01, PJSK:area:areatalk_monthly2304_001:01]
+  LEO_NEED:
+    relevance: SECONDARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Saki, Tsukasa, Toya, Tenma_mother, Honami_reported, Ichika_group_reported]
+    manifestations: [LN_Len, LN_MEIKO]
+    domains: [social_initiative, invitation_and_choice, childhood_illness_and_presence, practical_care, sibling_reciprocity, family_labor, recipient_preference, reported_cooking_knowledge, senior_role_uncertainty]
+    locators: [PJSK:event:0087:01:001, PJSK:event:0087:03:001, PJSK:event:0087:06:002:0085–0109, PJSK:event:0087:08:004, PJSK:card:0600:02, PJSK:card:0604, PJSK:area:areatalk_ev_shuffle_29_002:01, PJSK:area:areatalk_monthly2302_003:01]
+  N25:
+    relevance: CROSS_UNIT
+    future_review_priority: LOW
+    analytical_salience: LOW
+    baseline_impact: I1
+    reconstruction_yield: R1
+    characters: [Ena_reported, Akito, Toya]
+    manifestations: [N25_Rin, N25_Len]
+    domains: [reported_lending, invitation, familiar_material, accepted_companionship, terse_register, tentative_initiative, attributed_presentation_preference, knowledge_limits]
+    locators: [PJSK:area:areatalk_monthly2302_001:01:001:0002–0009, PJSK:card:0600:01:001:0018–0027]
+  MMJ:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: []
+    manifestations: [MMJ_MEIKO, MMJ_KAITO]
+    domains: [support_labor, performance_duties, time_pressure, need_recognition, prompted_help_request, reciprocal_practice]
+    locators: [PJSK:area:areatalk_monthly2302_004:01:001:0002–0012]
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0087_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0088
+```
+
+| Reusable responsibility | Exact evidence | Boundary / future interpretation |
+|---|---|---|
+| Toya–Tenmas / remembered refuge and present gratitude | `PJSK:event:0087:01:001:0011–0045`; `PJSK:event:0087:06:002:0072–0109`; `PJSK:event:0087:08:004:0074–0097` | Later narration of earlier childhood; Saki's intermittent presence, present partner/companions and persistent older warmth remain distinct. No blanket family cure. |
+| Toya–Rui / consultation, discouragement and renewed choice | `PJSK:event:0087:02:004:0021–0057`; `PJSK:event:0087:04:003:0004–0064`; `PJSK:event:0087:06:002:0023–0123`; `PJSK:event:0087:08:002` | Honest technical assessment and tact coexist; recalled care supports renewed effort before KAITO's later lesson. Successful gift to Rui is actual. |
+| Toya–Street Miku/KAITO / fallible instruction and repair | `PJSK:event:0087:03:003`; `PJSK:event:0087:03:005`; `PJSK:event:0087:05:001:0012–0049`; `PJSK:event:0087:07` | First independent failure, mistaken advice, self-blame, acknowledged error, corrected technique and successful later outcome. No domain-general mastery. |
+| Tsukasa–Rui / family table and context-sensitive restraint | `PJSK:event:0087:05:001:0058–0073`; `PJSK:card:0601:01:002:0017–0059` | Childhood concern helps explain care; Rui recommends ordinary hospitality without rejecting performance or making himself the occasion's center. |
+| Saki–Tsukasa–Toya / shared initiative and labor | `PJSK:card:0604`; `PJSK:event:0087:08:004:0002–0084`; `PJSK:card:0600:02:001` | Saki's originating concern, negotiated menu, credited actual work, accepted gratitude and future reunion wish. Helpers' Street identities remain undisclosed. |
+| Toya–Akito / taste, recipient awareness and analogy | `PJSK:event:0087:04:002:0005–0025`; `PJSK:card:0600:01:001:0018–0041` | Work prevents tasting help, not refusal of friendship. Taste/appearance comparison and pancake/performance analogy remain attributed. |
+| Street Miku–MEIKO / confidence, notes and supervised progress | `PJSK:card:0603:01`; `PJSK:card:0603:02` | Earlier curry confidence is not proof of competence. Later notes improve procedure but MEIKO still corrects misunderstandings. Finished baking/tasting, intended delivery. |
+| Street Len–KAITO–group / surprise, teaching and return care | `PJSK:card:0602`; `PJSK:event:0087:01:002`; `PJSK:event:0087:02:002` | MEIKO's partial inference differs from others' ignorance; later cookies, portrait gift, laughter and returned thanks are actual. |
+| WxS–Wonderland singers / participatory gift | `PJSK:card:0601:02:001:0012–0072` | Distinct equipment/batter/operating roles, incremental discovery, stated safety design and actual collective making; no certified independent engineering claim. |
+| Rui–Toya–An / secrecy and inferred intention | `PJSK:area:areatalk_ev_shuffle_29_001:01` | Toya agrees to conceal equipment; his guess at Rui's thoughts differs from the private text. The future user is unnamed. |
+| Tenma curry / invitation and separately reported knowledge | `PJSK:area:areatalk_ev_shuffle_29_002:01`; `PJSK:area:areatalk_ev_shuffle_29_003:01` | Permission request is prospective; a separate curry description does not establish that exact invitation's resolution or Ena's tastes. |
+| Toya–Emu / ordinary preference and emotion recognition | `PJSK:area:areatalk_monthly2304_001:01` | Notebook purchase, smile noticed and tentative naming of literary-choice pleasure; not first-ever happiness or a completed book purchase. |
+| N25 Ena–Len–Rin / reported loan and accepted activity | `PJSK:area:areatalk_monthly2302_001:01:001:0002–0009` | Existing `REL-N25-VS-LEN-GROUP-E0061` receives I1. Book content, Ena's motive and completed reading remain unshown. |
+| Ena–Akito / third-party characterization | `PJSK:card:0600:01:001:0018–0027` | I1 support for presentation preference, attributed to Akito. No new direct Ena complaint, appearance-over-taste hierarchy or successor sibling state. |
+| Classroom Len–MEIKO / uncertain senior role | `PJSK:area:areatalk_monthly2302_003:01` | Desire to help Ichika's group lacks a settled practical model; prompt is not a completed solution. |
+| Stage MEIKO–KAITO / support and personal practice | `PJSK:area:areatalk_monthly2302_004:01` | Equipment duties crowd rehearsal; MEIKO elicits accepted requests for carrying and dance help. Future execution not shown. |
+| Wonderland Rin–Luka / sleep and conjecture | `PJSK:area:areatalk_monthly2302_002:01` | Sleeping on Rin's lap occurs; a changed dream or later dream report does not. |
+| Street daily life / tasting, menus and inspiration | `PJSK:area:areatalk_ev_shuffle_29_004:01`; `PJSK:area:areatalk_ev_shuffle_29_005:01`; `PJSK:area:areatalk_monthly2302_005:01` | Coffee discrimination, distracting enthusiasm, a declined restaurant idea and unconfirmed lunch prediction; voice/food claims remain fictional attribution. |
+
+All 29 declared witness ranges/hashes are retained in the shared reading. N25 I1 selectively advances character/relationship/epistemic evidence and RELEASE_IMPACT without new IDs; claim/theme bytes remain EVENT_0084. All four unfounded material routes remain deferred; next EVENT_0088. Older gaps and final completion dependencies persist.
+
+## EVENT_0088 — 天の果てのフェニックスへ
+
+```yaml
+release_id: EVENT_0088
+release_bucket: RB_20230311T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 6 archive-publication/event-unlock areas = 24"
+core_locators: [PJSK:event:0088:01, PJSK:event:0088:02, PJSK:event:0088:03, PJSK:event:0088:04, PJSK:event:0088:05, PJSK:event:0088:06, PJSK:event:0088:07, PJSK:event:0088:08]
+card_locators: [PJSK:card:0606:01, PJSK:card:0606:02, PJSK:card:0607:01, PJSK:card:0607:02, PJSK:card:0608:01, PJSK:card:0608:02, PJSK:card:0609:01, PJSK:card:0609:02, PJSK:card:0610:01, PJSK:card:0610:02]
+area_locators: [PJSK:area:areatalk_ev_wonder_12_001:01, PJSK:area:areatalk_ev_wonder_12_002:01, PJSK:area:areatalk_ev_wonder_12_003:01, PJSK:area:areatalk_ev_wonder_12_004:01, PJSK:area:areatalk_ev_wonder_12_005:01, PJSK:area:areatalk_monthly2304_004:01]
+
+chronology_note: "Core and cards 0609-0610 initial availability 06:00Z; cards 0606-0608 03:00Z. Five wonder_12 areas archive-published 2023-03-11T06:00Z, monthly2304_004 2023-04-30T06:00Z. All six lack initial-availability buckets and independently carry chapter-8 condition 108708 / episode 1000712. Audition success does not complete the anniversary production."
+unit_routes:
+  WXS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Tsukasa, Emu, Nene, Rui, Sakurako, Shosuke, Keisuke, director, Phoenix_Stage_cast, role_model_天満星一, Saki, Toya, Asahi_reported, unnamed_actor_acquaintance_reported, Wonderland_plushies]
+    manifestations: [WXS_Miku, WXS_Rin, WXS_Len, WXS_Luka, WXS_MEIKO, WXS_KAITO]
+    domains: [acting_method, comparative_evaluation, felt_inability, ambition, role_specific_emotional_connection, audition_choice, collaboration, reciprocal_care, physical_limits, simulation, technical_learning, uneven_confidence, future_institutional_plans, ordinary_food_and_games, musical_enthusiasm, selective_disclosure, textual_register]
+    locators: [PJSK:event:0088, PJSK:card:0606, PJSK:card:0607, PJSK:card:0608, PJSK:card:0609, PJSK:card:0610, PJSK:area:areatalk_ev_wonder_12_001:01, PJSK:area:areatalk_ev_wonder_12_002:01, PJSK:area:areatalk_ev_wonder_12_003:01, PJSK:area:areatalk_ev_wonder_12_004:01, PJSK:area:areatalk_ev_wonder_12_005:01, PJSK:area:areatalk_monthly2304_004:01]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Saki, Tsukasa, Toya]
+    manifestations: []
+    domains: [childhood_illness_report, sibling_trust, perceived_strain, indirect_communication, reassurance, incomplete_disclosure]
+    locators: [PJSK:event:0088:03:002:0022–0025, PJSK:card:0606:01:001:0002–0006, PJSK:card:0606:01:002:0004–0016, PJSK:card:0606:01:004:0018–0050]
+  VBS:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    analytical_salience: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Toya, Tsukasa, Saki]
+    manifestations: []
+    domains: [proactive_concern, ordinary_gift_contact, hesitation_and_candor, specific_encouragement, witnessed_history, knowledge_limits]
+    locators: [PJSK:card:0606:01:004:0004–0050]
+  N25:
+    relevance: NONE
+    baseline_impact: I0
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  MMJ:
+    relevance: NONE
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0088_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0089
+```
+
+| Reusable responsibility | Exact evidence | Boundary / future interpretation |
+|---|---|---|
+| WxS–management–Sakurako / opportunity and future | `PJSK:event:0088:01:002:0018–0070`; `PJSK:event:0088:01:003:0003–0030` | Public publicity/learning reasons, Tsukasa's inference about his request and private desire to retain/support the group differ. Future solution undisclosed. |
+| Tsukasa / role choice and admired performer | `PJSK:event:0088:02:002:0051–0099`; `PJSK:event:0088:03:001:0012–0058` | Accepts original chicken responsibility, enters permitted audition, shares admiration through previously bought tickets. Named role model is 天満星一; no invented family relation. |
+| Tsukasa–Saki / earlier helplessness as role material | `PJSK:event:0088:03:002:0002–0029` | His present recollection of childhood feeling, not Saki's current illness or a new episode occurring now. |
+| Tsukasa–Sakurako / method and qualified mentorship | `PJSK:event:0088:04:002:0098–0150`; `PJSK:event:0088:05:001:0043–0124` | Other actor can be skilled yet mismatched. Research includes future plans; acquaintance unnamed; no universal literal-imitation rule. |
+| Tsukasa / strain, doubt and rejected shortcut | `PJSK:event:0088:06:003`; `PJSK:event:0088:06:004`; `PJSK:event:0088:06:005:0002–0038` | Improvement does not immediately resolve mismatch. He considers optimizing against candidates, then rejects winning through merely superficial performance. Bodily costs remain real. |
+| WxS–Wonderland MEIKO/KAITO / supported interpretive discovery | `PJSK:event:0088:06:006:0002–0031`; `PJSK:event:0088:07:001:0005–0051` | Group admits limits; MEIKO's analogy gives Tsukasa a possibility he develops himself. Singers do not already know the solution. |
+| Tsukasa–companions / concert and audition response | `PJSK:event:0088:07:003:0020–0069`; `PJSK:event:0088:07:004`; `PJSK:event:0088:08:002:0023–0132` | Specific role-affect connection; Sakurako extends the scene and explains her response; selected for Rio, anniversary show still future. |
+| Rui–Tsukasa / choices, technology and reciprocal limits | `PJSK:card:0609:01:001:0022–0092`; `PJSK:card:0609:02` | Rui offers alternatives without taking the actor's choice; Tsukasa protects others' rehearsal time. Later burden concern leads to actual visual VR, not completed multisensory simulation. |
+| Nene–Rui / learning through recorded performance | `PJSK:card:0608:01:002:0018–0089` | Nene requests rerecording after concrete self-assessment; deliberate robot activation is her inference, not Rui's confession. |
+| Nene–Emu / parallel aspiration and reciprocal care | `PJSK:event:0088:05:001:0140–0144`; `PJSK:card:0608:02:002:0019–0049`; `PJSK:event:0088:08:002:0011–0020`; `PJSK:event:0088:08:002:0115–0122` | Nene has no settled route to the admired level; Emu notices discouragement and receives practical care too. Concern at another's audition differs from own-stage confidence. |
+| Emu / observation, mistaken inference and initiative | `PJSK:card:0607:01:001:0005–0058`; `PJSK:card:0607:02:001:0002–0055` | Duck communication is not established. Further training respects companions' earlier fatigue; thirty-lap completion unshown. |
+| Saki–Toya–Tsukasa / concerned follow-up and limited truth | `PJSK:card:0606:01` | Saki both trusts and detects strain; Toya visits after her report; Tsukasa explains difficulty while concealment of food restriction persists. Intended reassurance message unshown. |
+| Wonderland MEIKO–Nene–Rin/Len/plushies / sustainable help | `PJSK:card:0610:01`; `PJSK:card:0610:02` | Actual group finish; gradual progress recommended. Later rescue and correction preserve valued intention and appropriate tasks; no unlimited-effort rule. |
+| WxS / food, play and ongoing artistic enthusiasm | `PJSK:card:0606:02:001:0005–0054`; `PJSK:area:areatalk_ev_wonder_12_001:01`; `PJSK:area:areatalk_ev_wonder_12_002:01`; `PJSK:area:areatalk_ev_wonder_12_003:01` | Reported resumed eating, actual drinks/order request, preferences, reported game progress and offered album loans; meal/match/loan completion not shown. |
+| Wonderland daily practice and helping | `PJSK:area:areatalk_ev_wonder_12_004:01`; `PJSK:area:areatalk_ev_wonder_12_005:01`; `PJSK:area:areatalk_monthly2304_004:01` | Nene prioritizes endurance and refuses comic dance; search for Luka offered; Rin's turn directly praised, later joint performance proposed. |
+
+All 24 declared witness rows are in the shared reading. WxS PRIMARY and Leo/need/VBS CROSS_UNIT remain material deferred routes. N25/MMJ are NONE; documentary N25 I0 advances closure only. Five substantive N25 ledgers remain byte-preserved and all current IDs/E0077 corrections survive. Next EVENT_0089; earlier gaps and remaining completion dependencies persist.
+
+## EVENT_0089 — イミシブル・ディスコード
+
+```yaml
+release_id: EVENT_0089
+release_bucket: RB_20230321T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0089:01, PJSK:event:0089:02, PJSK:event:0089:03, PJSK:event:0089:04, PJSK:event:0089:05, PJSK:event:0089:06, PJSK:event:0089:07, PJSK:event:0089:08]
+card_locators: [PJSK:card:0612:01, PJSK:card:0612:02, PJSK:card:0613:01, PJSK:card:0613:02, PJSK:card:0614:01, PJSK:card:0614:02, PJSK:card:0615:01, PJSK:card:0615:02, PJSK:card:0616:01, PJSK:card:0616:02]
+area_locators: [PJSK:area:areatalk_ev_night_12_001:01, PJSK:area:areatalk_ev_night_12_002:01, PJSK:area:areatalk_ev_night_12_003:01, PJSK:area:areatalk_ev_night_12_004:01, PJSK:area:areatalk_ev_night_12_005:01]
+
+chronology_note: "Core and cards 0615-0616 06:00Z; cards 0612-0614 03:00Z. Five night_12 areas archive-published March 21, no initial-availability buckets, separate chapter-8 condition 108808 / episode 1000720. Childhood memories, Friday announcement, Saturday confrontation, Sunday meeting, later introductions and short conditioned visits remain distinct."
+unit_routes:
+  N25:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: I3
+    reconstruction_yield: R3
+    characters: [Kanade, Mafuyu, Ena, Mizuki, Mafuyu_mother, Mafuyu_father, Kanade_mother_memory, Kanade_father_memory_and_report, unnamed_archery_peer, Honami_reported, unnamed_shop_working_classmate_reported]
+    manifestations: [N25_Miku, N25_Rin, N25_Len, N25_Luka, N25_MEIKO, N25_KAITO]
+    domains: [recipient_authority, parental_trust_revision, protective_commitment, rescue_obligation, reciprocal_care, controlled_access, secrecy, information_asymmetry, covert_creative_agency, failed_assertion, continued_attachment, fallible_intervention, strategy_revision, ordinary_fashion_food_work, concentration, bodily_strain, textual_register]
+    locators: [PJSK:event:0089, PJSK:card:0612, PJSK:card:0613, PJSK:card:0614, PJSK:card:0615, PJSK:card:0616, PJSK:area:areatalk_ev_night_12_001:01, PJSK:area:areatalk_ev_night_12_002:01, PJSK:area:areatalk_ev_night_12_003:01, PJSK:area:areatalk_ev_night_12_004:01, PJSK:area:areatalk_ev_night_12_005:01]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: LOW
+    analytical_salience: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Honami_reported, Kanade]
+    manifestations: []
+    domains: [reported_practical_care, selected_tea, recipient_appreciation, knowledge_limits]
+    locators: [PJSK:card:0612:02:001:0053–0061]
+  MMJ:
+    relevance: NONE
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  VBS:
+    relevance: NONE
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+  WXS:
+    relevance: NONE
+    characters: []
+    manifestations: []
+    domains: []
+    locators: []
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0089_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0090
+```
+
+| Reusable responsibility | Exact evidence | Evidence level / boundary |
+|---|---|---|
+| Mother–Mafuyu–K / discovery and changed access | `PJSK:event:0089:01:005:0002–0027`; `PJSK:event:0089:02:003`; `PJSK:event:0089:03:002:0036–0091` | Shown search vs Mafuyu’s inferred exposure; no SEKAI or exhaustive group knowledge. |
+| Kanade–parents / tested care premise | `PJSK:event:0089:02:002`; `PJSK:event:0089:08:002`; `PJSK:card:0612:02` | Childhood positive memory and present refusal; no father recovery or all-parent rejection. |
+| N25 / protected remaining access | `PJSK:event:0089:03:002:0093–0181`; `PJSK:card:0613:02:001:0028–0075` | Explicit information transfers and face-exposure rationale; person affected absent; full hotel report unshown. |
+| Mafuyu–family / assertion under coded constraints | `PJSK:event:0089:05:002`; `PJSK:event:0089:05:003` | Reference-book strategy and failed night-study refusal; father’s musical knowledge unestablished. |
+| Empty KAITO–Miku–Mafuyu–peers / disputed help | `PJSK:card:0615:01`; `PJSK:event:0089:06:002`; `PJSK:card:0615:02`; `PJSK:area:areatalk_ev_night_12_002:01` | Supplied history, immediate flight, peer objections and private reconsideration; no automatic efficacy or shared VS mind. |
+| Kanade–mother / negotiation endpoint | `PJSK:event:0089:07:002`; `PJSK:event:0089:07:003`; `PJSK:event:0089:08:002` | Mutual identification, circle-quit demand, rejected trust and secrecy; no negotiated permission or enacted distance plan. |
+| Mafuyu / preserved creative agency | `PJSK:card:0616:02`; `PJSK:area:areatalk_ev_night_12_003:01` | Covert lyric notes after listening, brief conditioned visit; no regular access restored. |
+| Mafuyu / competence and limited regulation | `PJSK:card:0616:01:001:0002–0033` | Skilled peer coaching, own concentration disrupted; final destination after memory cut unnamed. |
+| Ena–Mizuki–Mafuyu / ordinary reciprocal support | `PJSK:card:0613:01`; `PJSK:card:0613:02`; `PJSK:card:0614:01`; `PJSK:card:0614:02` | Shared rumination, real fashion/art/work interests, recipient relief, small food/help choice; taste explicitly unknown. |
+| Honami–Kanade / reported provision with actual use | `PJSK:card:0612:02:001:0053–0061` | Honami previously brings selected tea; Kanade appreciates it and experiences warmth. No Honami scene/meeting knowledge or independently proven medical effect. |
+| Empty group / ordinary participation | `PJSK:event:0089:02:004:0002–0005`; `PJSK:area:areatalk_ev_night_12_001:01`; `PJSK:area:areatalk_ev_night_12_004:01`; `PJSK:area:areatalk_ev_night_12_005:01` | Miku’s finished Ena-given book, conditional blouse plan, accepted listening/no critique shown, Luka’s friendship joke not certification. |
+
+All 23 declared witness rows are in the shared reading. N25 I3 is integrated; the reported Leo/need CROSS_UNIT route remains material and deferred. MMJ/VBS/WxS NONE; do not identify the unnamed shop-working classmate from roster memory. No complete-envelope reopen required. Earlier gaps and remaining completion dependencies persist; next EVENT_0090.

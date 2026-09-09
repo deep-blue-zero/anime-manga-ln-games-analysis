@@ -442,7 +442,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `cartethyia-reviewed-corpus`: GAME QUEST: Active-provisional Cartethyia V0.2 analytical corpus over the pinned Wuthering Waves 3.6.0/3.6.6 semantic view and its explicitly qualified multilingual, voice, relationship, and ordinary-life evidence.; continuity `wuthering-waves-game`
+  - `cartethyia-reviewed-corpus`: GAME QUEST: Current provisional Cartethyia pre-AV rebuild and retained V0.2 analytical corpus over the pinned Wuthering Waves 3.6.0/3.6.6 semantic view and its explicitly qualified multilingual, voice, relationship, and ordinary-life evidence.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
   - [`wuwa-cartethyia-character-monograph` — WUWA CARTETHYIA CHARACTER MONOGRAPH](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`wuwa-cartethyia-ordinary-life-and-preferences-profile` — WUWA CARTETHYIA ORDINARY LIFE AND PREFERENCES PROFILE](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) — **active provisional authority**
