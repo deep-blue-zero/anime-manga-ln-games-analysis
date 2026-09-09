@@ -3,17 +3,18 @@ series: COTE
 artifact_type: current_state_and_corpus_map
 scope: Y2
 generation: V2
-status: active_provisional
-source_boundary: "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings complete; Year-2 boundary integration active"
+status: canonical
+authority_state: canonical
+source_boundary: "Japanese Y2V01-Y2V12.5 + V00 + Y2SL; all Year-2 source-local readings and closeout analysis complete; frozen release through Y2SL; Year-3 eligibility recorded for a later execution"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-updated_at: "2026-08-27"
+updated_at: "2026-09-09"
 ---
 # COTE Year 2 V2 — Current State and Corpus Map
 
 ## Authority
-This is the canonical active entrypoint for the Year 2 definitive second pass. The frozen Year 1 V2 corpus remains immutable historical authority at the Y1V11.5 + First File boundary.
+This is the canonical operational history and release-status record for the Year 2 definitive second pass. Start with the [Year-2 README](../05%20Year-Level%20Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md) for current routing. Embedded Drive IDs, byte counts and artifact fingerprints below are historical promotion records; the [Git release checksum inventory](COTE_Y2_ARTIFACT_CHECKSUMS.sha256) owns current artifact bytes. The frozen Year 1 V2 corpus remains immutable historical authority at the Y1V11.5 + First File boundary.
 
 ## Governing documents
 - `COTE_Y2_ANALYTICAL_METHOD_V2.md`
@@ -27,7 +28,7 @@ This is the canonical active entrypoint for the Year 2 definitive second pass. T
 
 Current reader-level authority endpoint: **through Y2SL**, with Volume 0 retained at the mandated retrospective position between Y2V08 and Y2V09 and `Second List` retained after Y2V12.5 as paratext rather than retroactively injected into the immutable volume-local artifacts.
 
-The next operation is **Year-2 boundary integration**: through-Y2 character/relationship/institution ledgers, specialist synthesis, full synthesis, evidence/index consolidation, and next-year handoff. **Year 3 remains locked until that boundary layer is complete and administratively verified.**
+The Year-2 analytical and administrative closeout is complete. **Year 2 is frozen through Y2SL. The existing Year-3 gate is eligible for a later bootstrap, and no Year-3 analysis has started.**
 
 ## Canonical source sequence
 `Y2V01 -> Y2V02 -> Y2V03 -> Y2V04 -> Y2V04.5 -> Y2V05 -> Y2V06 -> Y2V07 -> Y2V08 -> V00 -> Y2V09 -> Y2V09.5 -> Y2V10 -> Y2V11 -> Y2V12 -> Y2V12.5 -> Y2SL`
@@ -93,7 +94,7 @@ Final distribution remains:
 - 4 `STILL_OPEN`
 
 ## Year-2 boundary integration — Phase 1 complete
-Boundary promotion is active in the canonical `03 Rolling Ledgers` home. **All four architecture-defined through-Year-2 character-ledger artifacts, the superseding through-Year-2 relationship ledger, the superseding through-Year-2 class-polity ledger, the through-Year-2 institutional-rules ledger, the through-Year-2 examination ledger, the through-Year-2 ability/measurement ledger, the through-Year-2 Japanese written-voice ledger, the through-Year-2 ethics ledger, and the through-Year-2 ordinary-life/counter-curriculum ledger are now canonical.** The Ayanokōji and Horikita snapshots supersede their direct Year-1 counterparts for **current-state reference only**; the Year-1 ledgers remain historical boundary authority. `COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md` and `COTE_CHAR_LEDGER_CLASS_RELATIONAL_CORE_THROUGH_Y2.md` are the first canonical completed-year snapshots of their respective roles and therefore preserve the appropriate frozen Year-1 specialist/ledger/handoff authorities rather than inventing nonexistent direct Year-1 supersessions.
+Boundary promotion is active in the canonical `03 Rolling Ledgers` home. **All five architecture-defined through-Year-2 character-ledger artifacts, the superseding through-Year-2 relationship ledger, the superseding through-Year-2 class-polity ledger, the through-Year-2 institutional-rules ledger, the through-Year-2 examination ledger, the through-Year-2 ability/measurement ledger, the through-Year-2 Japanese written-voice ledger, the through-Year-2 ethics ledger, and the through-Year-2 ordinary-life/counter-curriculum ledger are now canonical.** The Ayanokōji and Horikita snapshots supersede their direct Year-1 counterparts for **current-state reference only**; the Year-1 ledgers remain historical boundary authority. `COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md` and `COTE_CHAR_LEDGER_CLASS_RELATIONAL_CORE_THROUGH_Y2.md` are the first canonical completed-year snapshots of their respective roles and therefore preserve the appropriate frozen Year-1 specialist/ledger/handoff authorities rather than inventing nonexistent direct Year-1 supersessions.
 
 ### Completed through-Y2 character ledgers
 - `COTE_CHAR_LEDGER_AYANOKOJI_THROUGH_Y2.md`
@@ -123,7 +124,7 @@ Boundary promotion is active in the canonical `03 Rolling Ledgers` home. **All f
   - primary members: Karuizawa Kei, Kushida Kikyō, Hirata Yōsuke, Sudō Ken, Shiina Hiyori, Kanzaki Ryūji, Hashimoto Masayoshi; collective coverage also includes the Ayanokōji Group rupture/successor core and selected supporting nodes.
   - controlling boundary thesis: the Year-2 relational core becomes strongest where social function survives role change without requiring the original organizer to remain sovereign; the mature alternative to dependency is plural, answerable interdependence.
 
-All four ledgers implement the architecture-mandated authority/snapshot notice and explicit delta classes: `CONFIRMED_CONTINUITY`, `GENUINE_DEVELOPMENT`, `REVELATION_OF_PRIOR_HIDDEN_STATE`, `RETROSPECTIVE_RECONTEXTUALIZATION`, `CORRECTION_OF_PRIOR_INFERENCE`, `RELATIONSHIP_SPECIFIC_EXPRESSION`, and `UNRESOLVED_CONTRADICTION`. Frozen per-volume/source-local artifacts were not modified.
+The four previously promoted character ledgers implement the architecture-mandated authority/snapshot notice and explicit delta classes: `CONFIRMED_CONTINUITY`, `GENUINE_DEVELOPMENT`, `REVELATION_OF_PRIOR_HIDDEN_STATE`, `RETROSPECTIVE_RECONTEXTUALIZATION`, `CORRECTION_OF_PRIOR_INFERENCE`, `RELATIONSHIP_SPECIFIC_EXPRESSION`, and `UNRESOLVED_CONTRADICTION`. Frozen per-volume/source-local artifacts were not modified.
 
 ### Completed through-Y2 relationship ledger
 - `COTE_RELATIONSHIP_LEDGER_THROUGH_Y2.md`
@@ -145,7 +146,7 @@ All four ledgers implement the architecture-mandated authority/snapshot notice a
   - stable polity IDs preserved: `POLITY-HORIKITA`, `POLITY-RYUEN`, `POLITY-ICHINOSE`, `POLITY-SAKAYANAGI-ORIGIN`.
   - controlling boundary thesis: Year 1 compared four competing leadership systems; Year 2 converts them into four competing succession systems. The decisive polity test is what remains when the strongest organizing actor is wrong, absent, unwilling, defeated, expelled, transferred, or no longer sovereign.
   - principal endpoint distinctions: Horikita's polity has the strongest distributed-capacity case but its post-transfer self-sustainment remains unproven; Ryūen's polity gains voluntary legitimacy and delegation while leader-dependence/protected-dissent problems remain; Ichinose's polity preserves solidarity while building an unfinished second brain and adversarial competence; the former Sakayanagi polity is the clearest negative succession case and responds through collectively consented imported re-centralization around Ayanokōji.
-  - point-audit note: the artifact preserves an unresolved discrepancy between the `Y1FF` Year-1 point snapshot and `Y2SL-E085`; no unsupported arithmetic Year-1→Year-2 delta is promoted pending the system-ledger audit.
+  - point-audit state: `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`; direct `embed0231_HD.jpg` inspection identifies the younger first-year cohort. Printed values and `Y2SL-E085` remain unchanged; see `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md` section 6.
 
 ### Completed through-Y2 institutional-rules ledger
 - `COTE_INSTITUTIONAL_RULES_LEDGER_THROUGH_Y2.md`
@@ -157,7 +158,7 @@ All four ledgers implement the architecture-mandated authority/snapshot notice a
   - controlling boundary thesis: Year 2 increases institutional legibility downward faster than transparency upward. Students become increasingly measurable, trackable, protectable, disposable, and transferable while rule authorship, administrative discretion, record control, patronage, and external political influence remain unevenly visible.
   - principal institutional distinctions: formal rule vs practical access; implementation vs enforcement; record vs provenance; administrative capture vs procedural counterforce; formal choice vs environmentally authored choice; mobility vs patronage; political origin vs ownership of later outcomes.
   - strongest constructive rule: when hostile authority can control an immediate record, independent witness/provenance routes provide the most durable counterweight.
-  - data-integrity note: the `Y1FF` / `Y2SL-E085` first-year class-point discrepancy remains explicitly OPEN pending source-surface and point-accounting audit; no silent reconciliation is performed.
+  - point-audit state: `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`; direct `embed0231_HD.jpg` inspection identifies the younger first-year cohort. Printed values and `Y2SL-E085` remain unchanged; see `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md` section 6.
 
 ### Completed through-Y2 examination ledger
 - `COTE_EXAM_LEDGER_THROUGH_Y2.md`
@@ -169,7 +170,7 @@ All four ledgers implement the architecture-mandated authority/snapshot notice a
   - controlling boundary thesis: an ANHS examination is an authored conversion system rather than a neutral window onto merit; the rule decides which capacities become valuable and converts them into points, protection, bargaining power, mobility, expulsion risk, or jurisdiction.
   - event taxonomy: six formal Year-2 special examinations are distinguished from the scored sports/cultural festivals, non-exam negative controls, private proving fields, Volume-0 retrospective genealogy, and `Second List` documentary calibration.
   - major result discipline: score is separated from causal authorship; clean procedure from complete political meaning; leader performance from polity development; exam-local value from total human value.
-  - point-audit state: the former `Y1FF` / `Y2SL-E085` apparent discrepancy is narrowed to `OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION`. The `First File` and Y2V01 point chain is coherent for Ayanokōji's cohort, while `Y2SL-E085` likely refers to the cohort that is first-year during Ayanokōji's Year 2. The fixed-layout source page still requires direct visual re-verification before prior ledgers are silently corrected.
+  - point-audit state: `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`; direct `embed0231_HD.jpg` inspection identifies the younger first-year cohort. Printed values and `Y2SL-E085` remain unchanged; see `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md` section 6.
 
 ### Completed through-Y2 ability / measurement ledger
 - `COTE_ABILITY_MEASUREMENT_LEDGER_THROUGH_Y2.md`
@@ -230,14 +231,14 @@ All four ledgers implement the architecture-mandated authority/snapshot notice a
   - SHA-256: `c19704e81dc1d864ca05037293650e9620ae966ff0e6f9ca8aacdf908132b313`
   - bytes: `172605`
   - boundary: `Y2SL`; Year 3 narrative evidence excluded
-  - status: `active_provisional`; downstream operational-method layer, not a source authority, character ledger, or specialist synthesis
+  - status: `canonical`; audited downstream operational-method layer, not a source authority, character ledger, or specialist synthesis
   - architecture amendment: `COTE_Multi_Document_Synthesis_Architecture_v1.md` is v1.1 and explicitly recognizes boundary-specific behavioral reconstruction protocols as derivative operational infrastructure.
   - controlling rule: reconstruct constraints first, behavior second, speech third; preserve underdetermination rather than forcing deterministic or falsely quantified predictions.
   - refinement state: `R4_SECONDARY_CHARACTER_ABSTENTION_THRESHOLDS` / protocol version `1.4`.
   - current implemented layers: authority hierarchy; claim-type-specific evidence precedence; canonical input routing; scenario-state vector; directed multi-character social topology; proposition-level knowledge/deception/false-belief model; qualitative goal-conflict resolution; behavior-before-speech pipeline; four support classes (`DEMONSTRATED`, `STRONG_GENERALIZATION`, `BOUNDED_EXTRAPOLATION`, `SPECULATIVE`); separate determinacy states (`NARROWLY_DETERMINED`, `BRANCHED`, `OPEN_FIELD`, `ABSTAIN_ON_CLOSURE`); separate reconstruction-permission states (`PORTABLE_BOUNDED`, `CONTEXT_ANCHORED`, `STRUCTURAL_ONLY`, `ABSTAIN_CHARACTER_SPECIFIC`); separate voice-permission states (`VOICE_REALIZATION_BOUNDED`, `VOICE_REGISTER_ONLY`, `VOICE_PARAPHRASE_ONLY`, `VOICE_ABSTAIN`); handoff-question gating; expanded character guardrails; adversarial tests; compact reconstruction worksheet; and prospective Year-3 validation design.
   - worked calibration suite: twenty-three source-routed hypotheticals. Initial five cover ordinary Ayanokōji/Hiyori, socially observed Kei, distributed-role Horikita/Ibuki/Sudō, `Y1H-026` Hiyori/Ryūen abstention, and bounded-obligation Kōenji; R2 adds Sakayanagi/Yamamura corrigibility, post-exposure Kushida public repair, leverage-free Nagumo autonomy, Hashimoto insurance brokerage, paired Nanase/Amasawa epistemic gating, and Hoshinomiya conflict-of-interest under witness architecture; R3 adds six high-agency cross-character cases covering hidden informational authority, role loss plus brokerage, merit versus patronage, unresolved information markets, ordinary scarcity, and a nonstrategic emergency; R4 adds Yamamura, Satō, Ishizaki, Onodera, Himeno, and Albert cases spanning narrow-diagnostic depth, relationship-rich context anchoring, conflicting real relationships, single-domain pedagogy, coalition-structural evidence, and hard individual abstention.
   - R4 abstention layer: scenario-relative evidence-envelope mapping; distinguishability test against plausible same-role peers; explicit separation of person evidence from role/group evidence; independent behavior and voice permissions; hard abstention triggers for private-preference invention, untested moral hierarchy, single-scene universalization, unsupported interior/idiolect completion, group-to-individual transfer, and fandom completion.
-  - promotion condition: pre-synthesis calibration program is complete; remains provisional until post-specialist-synthesis audit and archival-lock/checksum integration are complete.
+  - promotion condition satisfied: all 23 calibrations passed the completed specialist/full-synthesis audit, and the protocol is integrated into the release checksum inventory. It remains derivative only.
 
 ### Completed Year-1 → Year-2 handoff-question tracker
 - `COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md`
@@ -250,8 +251,20 @@ All four ledgers implement the architecture-mandated authority/snapshot notice a
   - strictly open questions: `Y1H-004`, `Y1H-016`, `Y1H-026`, `Y1H-035`
   - new routing layer: all 42 questions crosswalked to their canonical through-Y2 topical homes, with explicit carry-forward/closure discipline and reconstruction-facing inheritance rules
 
+### Closeout repair of required ledger roles
+
+The architecture audit corrected the earlier incomplete claim that every required role was present. The four previously promoted character ledgers remain intact. The following first dedicated records are now canonical through `Y2SL`, preserving frozen Year-1 authority and all source-local readings:
+
+- [Institutional actors](../03%20Rolling%20Ledgers/COTE_CHAR_LEDGER_INSTITUTIONAL_ACTORS_THROUGH_Y2.md): the fifth Appendix-B character role; personal motives, office, knowledge and reconstruction limits.
+- [Identity and allegiance](../03%20Rolling%20Ledgers/COTE_ACTOR_IDENTITY_ALLEGIANCE_LEDGER.md): Architecture V.4 / Phase-2 origin, knowledge, sponsor, independent purpose and causal-attribution distinctions.
+- [Succession and separation](../03%20Rolling%20Ledgers/COTE_SUCCESSION_SEPARATION_LEDGER.md): Architecture V.5 / Phase-2 function withdrawal, substitutes, observed adaptation and untested durability.
+- [Claim and revision register](../03%20Rolling%20Ledgers/COTE_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md): Architecture V.6 current propositions, counterevidence, revision semantics and primary homes; 18 analytical claim records, preserving all existing evidence IDs.
+- [Themes and terminology](../03%20Rolling%20Ledgers/COTE_THEME_TERMINOLOGY_LEDGER_THROUGH_Y2.md): Appendix-B semantic distinctions and controlled-thread routing; exact Japanese passage retrieval remains the Y2_13 responsibility.
+
+The cumulative filenames carry an explicit `Y2SL` snapshot boundary. None claims a Year-3 update. The existing separate institutional-rules and examination ledgers jointly fulfill the architecture's institution/exam responsibility; no redundant combined replacement is created.
+
 ### Phase-1 completion lock
-All Year-2 boundary ledgers and the Year-1 → Year-2 handoff-question tracker are complete and canonical at `Y2SL`. The downstream behavioral reconstruction protocol remains `active_provisional` and is not part of the evidence-promotion gate.
+All Year-2 boundary ledgers and the Year-1 → Year-2 handoff-question tracker are complete and canonical at `Y2SL`. The downstream behavioral reconstruction protocol is canonical after its completed closeout audit and checksum integration; it remains a derivative method rather than evidence.
 
 
 ## Year-2 specialist synthesis layer — active
@@ -267,10 +280,10 @@ The Year-2 project now has a dedicated synthesis home:
   - Drive ID: `1IgFKyXNHZrzv6OHLMJT8n-yPGsr3OB3c`
   - SHA-256: `f6a6bb292fadeb29b3f846fdba90a30191e70186d7ef6f943a52ee9010b6a667`
   - bytes: `63323`
-  - status: `active_provisional`
+  - status: `canonical`; frozen Year-2 first-read entrypoint
   - boundary: `Y2SL`; Year 3 narrative evidence excluded
   - responsibility: reader-facing Year-2 synthesis-layer orientation, authority map, retrieval guide, corpus map, open-question routing, and release-state map
-  - authority relationship: `COTE_Y2_PROJECT_STATUS.md` remains the canonical operational current-state entrypoint while synthesis work is active. `Y2_00` is the stable reader-routing home and will be updated in place, then finalized last in accordance with the architecture's README-finalization rule.
+  - authority relationship: `Y2_00` is now the first-read Year-2 entrypoint, updated in place after the analytical and administrative layers. This status file preserves the operational history. Final archive freezing follows the verified prepared-release publication recorded in the archival lock.
 
 ### Canonical `Y2_01` specialist
 
@@ -380,24 +393,48 @@ The Year-2 project now has a dedicated synthesis home:
   - canonical endpoint: development usually expands what a stable voice is permitted to contain rather than replacing linguistic identity. Year 2 increasingly distributes interpretive authority across alternate focalization, embodied evidence, ordinary-life modes, illustrations, records, and paratext; V12.5 demonstrates a focal-ownership trap stronger than ordinary narrator unreliability; *Second List* improves predictive legibility without becoming the person; and written prose does not license anime/seiyū acoustic claims.
   - authority relationship: source-local readings remain primary for exact Japanese wording and local formal claims; `COTE_JAPANESE_VOICE_LEDGER_THROUGH_Y2.md` remains the compact canonical written-voice state ledger; `COTE_Y2_SECOND_LIST_PARATEXT_AUDIT.md` remains primary for typed guidebook evidence; `Y2_09` owns the integrated Year-2 narration/voice/genre/humor/visual-form argument.
 
-### Remaining specialist/full-synthesis artifacts
+### Canonical `Y2_10` specialist
 
-- `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md`
-- `COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md`
-- `COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md`
-- `COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md`
-- `COTE_Y2_FULL_SYNTHESIS.md`
+- [COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md](../05%20Year-Level%20Synthesis/COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md)
+  - status: `canonical`; boundary `Y2SL`; Year 3 narrative evidence excluded
+  - responsibility: retrospective revision architecture, Volume-0 and Second List consequences, preserved local truth, and source-verified cohort-routing correction
+  - the 62 Volume-0 revelation rows and 42 inherited handoff states remain unchanged
+
+### Canonical `Y2_11` specialist
+
+- [COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md](../05%20Year-Level%20Synthesis/COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md)
+  - status: `canonical`; boundary `Y2SL`; Year 3 narrative evidence excluded
+  - responsibility: six comparative matrix families, exact inheritance of all 42 terminal handoff states, four strict closure conditions, 13 partial tests, seven reframed lenses, and 12 new or refined `Y2H` boundary tests
+  - analytical handoff only: no Year-3 answer, high-water mark, or execution; the release gate remains closed until all remaining closure duties are verified
+
+### Canonical `Y2_12` evidence router
+
+- [COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md](../05%20Year-Level%20Synthesis/COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md)
+  - status: `canonical`; boundary `Y2SL`; all 2,697 original evidence IDs retained
+  - responsibility: claim-to-home routing, seventeen locked source identities, complete original locators and physical resource map, per-volume spine conventions, and reproducible generated JSON companions
+  - corrections: Y2_01 transfer destination corrected to Sakayanagi's former polity; V01 E064's pictured companion corrected to Nanase by an explicit closeout overlay while the frozen local reading remains unchanged
+  - source checks: source-byte identities/CRC, paragraph bounds, internal resources, illustration aliases and 692 canonical Japanese anchor identities verified; no Year-3 source used
+
+### Canonical `Y2_13` Japanese passage index
+
+- [COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md](../05%20Year-Level%20Synthesis/COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md)
+  - status: `canonical`; boundary `Y2SL`; Year-3 evidence excluded
+  - responsibility: five required language categories, 43 source-verified passage entries, 52 short excerpts, speaker/narrator ownership, working translations, ambiguity limits, controlled thread IDs and specialist routes
+  - distinctions: evaluation versus capacity, defect labels, conditional freedom, care/dependence, functional indispensability versus particular attachment, address changes, institutional terminology, developmental metaphors and the V12.5 focal-ownership disclosure
+  - the existing written-voice ledger and source-local language analysis retain authority; added retrieval precision does not reassign an existing evidence ID
+
+### Canonical full synthesis — analytical layer complete
+
+- [COTE_Y2_FULL_SYNTHESIS.md](../05%20Year-Level%20Synthesis/COTE_Y2_FULL_SYNTHESIS.md)
+  - status: `canonical`; boundary `Y2SL`; Year-3 evidence excluded
+  - responsibility: continuous integration of the completed specialist model, including capacity, authorship of purpose, answerability, character/relationship development, class succession, institutions, Japanese form, retrospective limits, counterarguments and surviving questions
+  - all thirteen specialist slots, the full synthesis, protocol audit and local release administration are complete; prepared branch publication has been verified, and the final freeze/eligibility state is recorded in the README and archival lock
 
 ## Next architecture-defined step
-**Produce `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md`.**
+**Year-2 closeout complete. In a later execution, bootstrap Year 3 from Y3V01 under the governing method.**
 
-`Y2_01` owns the canonical Year-2 causal spine, `Y2_02` the integrated Ayanokōji psychology/ethics/voice argument, `Y2_03` Horikita leadership/self-authorship/class formation, `Y2_04` the directed relationship system, `Y2_05` the comparative four-polity constitutional argument, `Y2_06` the integrated ability/meritocracy/measurement/points/examination argument, `Y2_07` the institutional-governance/surveillance/adult-power/White-Room argument, `Y2_08` the integrated ethics/autonomy/protection/expulsion/violence argument, and `Y2_09` the integrated Japanese narration/written-voice/genre/humor/visual-paratext argument. The next task should adjudicate retrospective claim transition across Volume 0 and *Second List*: preserve prospective truth boundaries, distinguish revelation from development and revision, and route earlier claims through `PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN` without back-projecting later reader knowledge into earlier actor states.
+`Y2_01` owns the canonical Year-2 causal spine, `Y2_02` the integrated Ayanokōji psychology/ethics/voice argument, `Y2_03` Horikita leadership/self-authorship/class formation, `Y2_04` the directed relationship system, `Y2_05` the comparative four-polity constitutional argument, `Y2_06` the integrated ability/meritocracy/measurement/points/examination argument, `Y2_07` the institutional-governance/surveillance/adult-power/White-Room argument, `Y2_08` the integrated ethics/autonomy/protection/expulsion/violence argument, and `Y2_09` the integrated Japanese narration/written-voice/genre/humor/visual-paratext argument. `Y2_10` now owns retrospective claim transitions and the direct cohort-routing correction. `Y2_11` now owns the comparative matrices and analytical handoff. `Y2_12` now owns evidence routing and source-locator verification. `Y2_13` now owns the consolidated Japanese-language passage index. `COTE_Y2_FULL_SYNTHESIS.md` now integrates that model without replacing the specialist primary homes. The [protocol closeout audit](../04%20Source%20Maps%20and%20Support/COTE_Y2_RECONSTRUCTION_PROTOCOL_CLOSEOUT_AUDIT.md) confirms all 23 cases with their existing limits. Current evidence/language routes and the twelve Y2H nonclosure gates are integrated; canonical protocol promotion and archival checksum integration are complete.
 
-Recommended sequence:
-1. produce `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md`;
-2. continue the architecture-defined Year-2 specialist syntheses, using canonical through-Y2 ledgers and immutable source-local readings as authorities;
-3. carry reconstruction-relevant distinctions forward without letting the derivative protocol become source authority;
-4. produce `COTE_Y2_FULL_SYNTHESIS.md`;
-5. perform the protocol-vs-specialist audit and revise the protocol only where the completed specialist layer exposes a mismatch;
-6. consolidate `Y2_12` / `Y2_13`, update `Y2_00` in place to its mature release form, then perform corpus-map/manifest/checksum audit and next-year handoff;
-7. only then unlock Year 3.
+Closure sequence completed: analytical synthesis and indexes; protocol audit; source/artifact manifests and package; README-last routing; published prepared-state verification at `d6d1ea5416fd462cba4f6395faffde51edb52bbf`; final freeze and Year-3 eligibility. The final release receipt records the exact delivered head and its own successful publication audit. No Year-3 narrative source was used, and the branch was not merged to main by this task.
+
+The [manifest](COTE_Y2_CORPUS_MANIFEST.md), [machine index](COTE_Y2_CORPUS_INDEX.json), [source checksums](COTE_Y2_SOURCE_CHECKSUMS.sha256), [artifact checksums](COTE_Y2_ARTIFACT_CHECKSUMS.sha256), [delivery audit](COTE_Y2_DELIVERY_AUDIT.md) and [archival-lock record](COTE_Y2_V2_ARCHIVAL_LOCK.md) own the release inventory and verification boundary.
