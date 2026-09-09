@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "N25 positive integration and documentary screening through EVENT_0077; I3 relationship/epistemic transition with no successor human ID"
+source_boundary: "N25 positive integration through EVENT_0077; documentary screening through EVENT_0078; no new substantive delta at EVENT_0078"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -15,7 +15,7 @@ analysis_cutoff: "N25 I3 relationship/epistemic boundary EVENT_0077; latest glob
 
 ## Current execution handoff
 
-The last completed forward event transaction is **EVENT_0077**; the next is **EVENT_0078**. Positive N25 integration and documentary screening reach EVENT_0077 (I3 relationship/epistemic transition, `REL-N25-EM-5`). The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
+The last completed forward event transaction is **EVENT_0078**; the next is **EVENT_0079**. Documentary screening reaches EVENT_0078 (N25 I0); positive N25 integration remains EVENT_0077 (I3 relationship/epistemic transition, `REL-N25-EM-5`). The latest global human-state transition remains EVENT_0072, with tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
 
 The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package.
 
@@ -2005,3 +2005,34 @@ next_candidate_operation: EVENT_0078
 Ena learns that Mafuyu already voiced wanting music, revises the premise of her advice, makes room for collaborative work and offers a qualified artistic interpretation that Mafuyu questions. Mafuyu's active authorship changes Ena's own expressive intention. This warrants I3 through a durable dyad/knowledge transition, while the EVENT_0070/EVENT_0072 global human states remain adequate with refinements. “First explicit want” cannot now mean first-ever capacity; successful communication in a technically flawed, late assignment is not an on-time pass; one-night relief is not independent home life or recovery.
 
 The complete witness register and reconstruction delta cover all 23 surfaces, including Kanade/Honami reciprocal care, Mizuki/Akito school and household contact, residual Ena/father conflict, sleep strain, distinct N25 support methods and all five areas. Leo/need CROSS_UNIT/HIGH and VBS CROSS_UNIT/MEDIUM remain deferred for founded interpretation; MMJ's indirect Airi route is LOW, WxS NONE. All six ledgers, routing, coverage and entrypoints are synchronized. No principal-human package is certified R3. The 21 older universal-screen gaps and remaining foundations/reconstruction/synthesis/audit/integration obligations persist.
+
+## RI-EVENT-0078 — あの日の夢の、彼方向こうへ
+
+```yaml
+release_id: EVENT_0078
+release_bucket: RB_20221130T060000Z
+complete_envelope: "8 core + 10 card halves + 5 manifest-linked archive areas = 23"
+unit_relevance: MMJ_PRIMARY_LEO_NEED_CROSS_UNIT_N25_NONE
+impact_scope: N25
+impact: I0
+reconstruction_yield_n25: R0
+integration_status: SCREENED_FULL_DEEP_READING_DEFERRED_MMJ_LEO_NEED
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0078_DEEP_READING.md
+other_unit_impact: DEFERRED_PENDING_FOUNDATION
+character_state_delta: none_for_N25
+relationship_delta: none_for_N25
+epistemic_delta: none_for_N25
+claim_delta: none_for_N25
+theme_delta: none_for_N25
+explicit_bridge_check: "Shizuku card 0549 and all five areas contain no N25 evidence/private transfer; Haruka childhood expressivity is not a Mafuyu causal bridge; Stage manifestations only"
+current_n25_tuple: "MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01"
+latest_positive_n25_integration: EVENT_0077
+latest_human_state_transition: EVENT_0072
+next_candidate_operation: EVENT_0079
+```
+
+All 23 canonical surfaces were read and matched to the frozen manifest. MMJ PRIMARY/VERY_HIGH/R3-yield warrants a full reading through Haruka's childhood received encouragement, shared tour/dome ambition, ownership of the publicity decision, Airi's differentiated editing/production judgment, Shizuku's authentic-presentation stance and ordinary learning/care. Acceptance does not certify safe editing, a completed appearance or a large-venue career. The production coda is audience-only; the radio anecdote's identification remains unconfirmed; Minori's apparent powers are a dream.
+
+Leo/need CROSS_UNIT/MEDIUM/R2-yield preserves Shiho's private observation, concern about Shizuku's public perception, support and ordinary boundaries (`PJSK:card:0549:02:001:0002–0050`). Saki's future interest is predicted, not a disclosure or completed viewing. MMJ/Leo/need baseline impact remains deferred. VBS and WxS have no evidence-bearing route.
+
+N25's five substantive ledgers remain unchanged, including `REL-N25-EM-5`, `REL-N25-GM-E0054` and `REL-N25-VS-LEN-GROUP-E0061`. The EVENT_0077 knowledge/claim refinements remain controlling. Documentary screening advances to EVENT_0078 without moving positive integration or human-state boundaries. Reading, routing, release impact and current coverage close together; the 21 historical universal-screen gaps and all remaining foundations/deferred integration/reconstruction/synthesis/audit/protected-integration obligations remain unfinished.

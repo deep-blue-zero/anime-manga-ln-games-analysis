@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0077; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0078; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1401,3 +1401,68 @@ next_event: EVENT_0078
 | Group sleep/care and reciprocal gifts | `PJSK:card:0543:01:002:0010–0032`; all five `night_11` areas | Sleep need, fatigue, requested walking company, mother's prompted macaron thanks, pillow suggestion, creative plurality and lingering envy. Proposed health benefits remain unverified. |
 
 The complete reading owns all 23 witness ranges/hashes, shared causal interpretation and reconstruction delta. All six longitudinal ledgers receive proportionate updates. N25 I3 rests on the relationship and knowledge transition; human tuple `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01` stays current. Other-unit impact remains deferred for founded comparison. **Latest closed forward route EVENT_0077; next EVENT_0078.** Twenty-one older universal screens and remaining completion dependencies persist.
+
+## EVENT_0078 — あの日の夢の、彼方向こうへ
+
+```yaml
+release_id: EVENT_0078
+release_bucket: RB_20221130T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 5 archive-publication/event-unlock areas = 23"
+core_locators: [PJSK:event:0078:01, PJSK:event:0078:02, PJSK:event:0078:03, PJSK:event:0078:04, PJSK:event:0078:05, PJSK:event:0078:06, PJSK:event:0078:07, PJSK:event:0078:08]
+card_locators: [PJSK:card:0545:01, PJSK:card:0545:02, PJSK:card:0546:01, PJSK:card:0546:02, PJSK:card:0547:01, PJSK:card:0547:02, PJSK:card:0548:01, PJSK:card:0548:02, PJSK:card:0549:01, PJSK:card:0549:02]
+area_locators: [PJSK:area:areatalk_ev_idol_11_001:01, PJSK:area:areatalk_ev_idol_11_002:01, PJSK:area:areatalk_ev_idol_11_003:01, PJSK:area:areatalk_ev_idol_11_004:01, PJSK:area:areatalk_ev_idol_11_005:01]
+chronology_note: "Cards 0545-0547 initial availability 03:00Z, 0548-0549 06:00Z; all five areas archive-published 2022-11-30T06:00Z with independent chapter-8 unlock condition 107708/episode 1000632. Childhood memories, accepted-offer preparations, audience-only production coda and Minori's dream retain distinct contexts."
+unit_routes:
+  MMJ:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Haruka, Minori, Airi, Shizuku, unnamed_origin_idol, Haruka_mother, Nozomi, fans, producer, manager, Cheerful_Days_production_reference]
+    manifestations: [MMJ_Miku, MMJ_Rin, MMJ_Len, MMJ_Luka, MMJ_MEIKO, MMJ_KAITO]
+    domains: [origin_revelation, received_and_transmitted_hope, shared_ambition, decision_ownership, dissent, publicity_risk, editing, fan_trust, professional_labor, differentiated_competence, public_identity, authentic_presentation, practical_care, ordinary_life, childhood_expression, knowledge_partition]
+    locators: [PJSK:event:0078:02:001, PJSK:event:0078:03:002, PJSK:event:0078:04:002, PJSK:event:0078:05:002, PJSK:event:0078:06:002, PJSK:event:0078:07:002, PJSK:event:0078:08:002, PJSK:event:0078:08:003, PJSK:card:0545:01, PJSK:card:0545:02, PJSK:card:0546:01, PJSK:card:0546:02, PJSK:card:0548:02, PJSK:card:0549:02]
+  LEO_NEED:
+    relevance: CROSS_UNIT
+    future_review_priority: MEDIUM
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R2
+    characters: [Shiho, Saki_predicted_viewing_only]
+    domains: [sibling_care, noticing_expression, public_perception, family_burden, confidentiality, ordinary_boundaries, understated_register]
+    locators: [PJSK:card:0549:02:001:0002, PJSK:card:0549:02:001:0011, PJSK:card:0549:02:001:0019, PJSK:card:0549:02:001:0026, PJSK:card:0549:02:001:0030, PJSK:card:0549:02:001:0037, PJSK:card:0549:02:001:0042, PJSK:card:0549:02:001:0045]
+  N25:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: I0
+    reconstruction_yield: R0
+    explicit_bridge_check: "Shizuku card 0549 both halves and all five idol_11 areas inspected; no Mafuyu/Mizuki/N25 evidence or private-knowledge transfer; Stage manifestations only. Childhood expressivity similarity is not a cross-unit causal route."
+  VBS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+  WXS:
+    relevance: NONE
+    future_review_priority: NONE
+    baseline_impact: NOT_ASSIGNED_ROUTE_NONE
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0078_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0079
+```
+
+| Relationship / decision route | Exact evidence | Reuse and limits |
+|---|---|---|
+| MMJ / adopting a larger goal | `PJSK:event:0078:01:003:0031–0088`; `PJSK:event:0078:02:001:0030–0064`; `PJSK:event:0078:02:003:0012–0034`; `PJSK:card:0549:01:001:0012–0037` | Minori's tentative tour/dome wish becomes shared; Shizuku privately values her active relation to dreams. Planning numbers are estimates, not bookings or achieved demand. |
+| Haruka–group / usable disagreement | `PJSK:event:0078:03:002:0019–0079`; `PJSK:event:0078:04:001:0014–0047`; `PJSK:event:0078:08:002:0005–0077` | Distortion concern receives time and individually reasoned acceptance. Same eventual answer does not make deliberation unnecessary; no guaranteed production safety. |
+| Haruka–origin idol / childhood and present meaning | `PJSK:event:0078:05:002:0002–0024`; `PJSK:event:0078:06:002:0030–0118`; `PJSK:event:0078:07:002:0027–0083`; `PJSK:card:0545:02:001:0007–0066`; `PJSK:area:areatalk_ev_idol_11_001:01` | Felt joy precedes easy expression; supported participation gives reciprocal encouragement; newspaper/radio renew purpose. No confirmed later recognition or direct reunion. |
+| Haruka–child / adaptive practical care | `PJSK:card:0545:01:001:0006–0058` | Respects an agreed meeting place, waits with Nozomi and invites playful expression; uncertain age/recognition and no publicity exploitation. |
+| Airi–Shizuku/group / differentiated professional judgment | `PJSK:card:0546:01:002:0022–0062`; `PJSK:card:0546:02:001:0015–0047`; `PJSK:area:areatalk_ev_idol_11_002:01`; `PJSK:area:areatalk_ev_idol_11_003:01` | Two editing examples remain distinct; inferred effort-showing intent is not proven. Anecdote preparation, research, requester screening, peer learning and technical limits broaden ordinary reconstruction. |
+| Minori–group / expertise and learning limits | `PJSK:card:0545:02:001`; `PJSK:card:0548:01:001:0050–0095`; `PJSK:card:0548:02:001:0009–0062` | Fan knowledge helps radio access and viewing preparation; sleep/dream and divided attention remain ordinary limitations. No literal dream powers or instant camera mastery. |
+| Shizuku–Shiho / authenticity and confidential support | `PJSK:card:0549:02:001:0002–0050` | Shiho notices affect, supports opportunity, asks about public perception and receives the accepted-offer secret. Shizuku wants to be herself over gradual public learning; closeness does not erase Shiho's space/bath boundaries. Saki's future viewing is predicted, not known. MEDIUM-priority Leo/need reuse. |
+| Stage MEIKO–Haruka; singers as peers | `PJSK:event:0078:04:002:0012–0069`; `PJSK:card:0547:01:001:0019–0050`; `PJSK:card:0547:02:001:0013–0062`; `PJSK:area:areatalk_ev_idol_11_004:01`; `PJSK:area:areatalk_ev_idol_11_005:01` | Bounded fan perspective, origin report, enjoyed hard practice, hypothetical interests, ropes proposal and concrete performance feedback; no cross-manifestation omniscience or actual TV appearance. |
+| Production / audience-only future complication | `PJSK:event:0078:08:003:0002–0012`; `PJSK:card:0548:01:001`; `PJSK:card:0549:02:001:0042–0046` | Replacement host accepted on production side; MMJ only knows its offer acceptance and incomplete arrangements. No motive or later outcome imported. |
+
+The shared reading owns causal interpretation, all 23 witness ranges/hashes, knowledge limits and reconstruction delta. MMJ and Leo/need remain deferred for founded comparison. N25's five substantive ledgers and human/relationship IDs remain unchanged; RELEASE_IMPACT and current routing/coverage advance documentary screening only. Latest positive N25 integration EVENT_0077; latest human-state transition EVENT_0072; latest closed forward event EVENT_0078; next EVENT_0079. The 21 older universal screens and remaining completion dependencies persist.

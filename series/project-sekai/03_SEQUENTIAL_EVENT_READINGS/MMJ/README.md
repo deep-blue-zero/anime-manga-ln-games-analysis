@@ -16,3 +16,5 @@ This directory mirrors an empty folder in the supplied Project SEKAI Drive analy
 Source Drive folder ID: `1u5fkt7cSeAR_fXYst17MvlKqoSf8nvWV`.
 
 Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-envelope reading with MMJ interpretation preserved for later foundation-aware integration. The empty-folder statement above describes the import snapshot; this directory is now populated. MMJ's main-story foundation and baseline-relative event integration remain unfinished.
+
+[EVENT_0078](PJSK_EVENT_0078_DEEP_READING.md) adds the complete 23-surface shared reading of Haruka’s origin, MMJ’s larger goal and publicity decision, with a bounded Shiho sibling route. MMJ and Leo/need longitudinal impact remains deferred pending their foundations.

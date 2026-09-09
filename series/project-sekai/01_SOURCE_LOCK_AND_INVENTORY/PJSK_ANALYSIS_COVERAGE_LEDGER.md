@@ -49,14 +49,14 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — updated through EVENT_0077 on 2026-09-09
+### Current coverage — updated through EVENT_0078 on 2026-09-09
 
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
-- Latest closed forward transaction: `EVENT_0077`; next forward operation: `EVENT_0078`. Latest positive N25 integration is I3 through relationship/epistemic transition (`REL-N25-EM-5`); latest global human-state transition remains `EVENT_0072`. Apply the EVENT_0077 character/knowledge/claim refinements with the preserved tuple.
+- Latest closed forward transaction: `EVENT_0078` (N25 I0); next forward operation: `EVENT_0079`. Latest positive N25 integration remains EVENT_0077, I3 through relationship/epistemic transition (`REL-N25-EM-5`); latest global human-state transition remains `EVENT_0072`. Apply the EVENT_0077 character/knowledge/claim refinements with the preserved tuple.
 - Current N25 tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
 - Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
-- Franchise routing inventory reaches EVENT_0077, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0077 universal screens and earlier reusable complete readings retain their bounded authority.
+- Franchise routing inventory reaches EVENT_0078, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0078 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
 
@@ -792,3 +792,21 @@ CURRENT AUTHORITY AFTER EVENT_0077
 - Twenty-one older universal-screen gaps remain; completed EVENT_0046–0077 and earlier reusable envelopes preserved.
 - Principal-human packages/readiness, syntheses, final audits and protected integration remain incomplete; event R3 yield is not package certification.
 - Next forward operation: EVENT_0078, subject to its own manifest-resolved envelope.
+
+EVENT_0078 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I0 / MMJ_LEO_NEED_DEFERRED
+
+Artifact: [MMJ/PJSK_EVENT_0078_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0078_DEEP_READING.md).
+All 23 surfaces read: core 01–08, cards 0545–0549 both halves, five idol_11 areas. Canonical IDs, types, episodes, paths, commits and dates match the locked manifest; declared segment hashes and inclusive upstream line ranges remain recoverable. Initial availability, area archive publication and separate chapter-8 unlock relation are distinguished from depicted chronology.
+
+MMJ PRIMARY/VERY_HIGH/R3-yield preserves Haruka's origin and independently reasoned publicity decision, shared larger ambition, Airi's nuanced production experience, Shizuku's authenticity and practical learning, Minori's fan competence and training limits, Stage manifestation distinctions and everyday behavior. Leo/need CROSS_UNIT/MEDIUM/R2-yield preserves Shiho's confidential sibling concern and boundaries. Both remain `DEFERRED_PENDING_FOUNDATION`; no I0–I3 or successor human state is manufactured for unfounded units. No later production outcome or confirmed radio recognition is imported; Minori's dream remains a dream.
+
+N25 NONE/I0/R0 after explicit Shizuku/all-area bridge checks; VBS and WxS NONE. RELEASE_IMPACT and current routing/coverage advance; the five substantive N25 ledgers remain at their EVENT_0077 positive boundary, including `REL-N25-EM-5` and the preserved tuple. All six responsibilities are therefore closed proportionately, without package-readiness certification.
+
+CURRENT AUTHORITY AFTER EVENT_0078
+
+- Latest closed forward/documentary frontier: EVENT_0078; next EVENT_0079.
+- Latest positive N25 integration: EVENT_0077, relationship/epistemic I3; latest global human-state transition EVENT_0072.
+- Human tuple: `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`, with EVENT_0077 refinements.
+- N25 foundation complete; other four foundations and material deferred integration pending.
+- Twenty-one older universal-screen gaps remain; completed EVENT_0046–0078 and earlier reusable envelopes preserved.
+- Principal-human packages/readiness, all warranted syntheses, final audits and protected integration remain incomplete.
