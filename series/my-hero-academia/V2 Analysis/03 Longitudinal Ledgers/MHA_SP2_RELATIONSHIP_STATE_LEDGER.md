@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: RELATIONSHIPS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -9698,3 +9698,29 @@ The relationship should be modeled as manipulated development plus later active 
 - `V41:p179-195`: classmates/allies construct the physical path through which Midoriya acts.
 
 **Revision:** Midoriya's final relationship network is not audience/support around a solitary savior; it is part of the causal machinery of his agency.
+
+
+# Volume 42 cumulative closure
+
+Earlier relationship states remain chronology-specific. The following final deltas distinguish actions from interpretations and unobserved futures.
+
+| Relation | V42 change and evidence | Boundary |
+|---|---|---|
+| Midoriya -> Shigaraki | Opposes unforgiven acts, receives a message, admits failure to save life, then carries Tomura's words to Spinner (`p019-020,p030-031,p073-081`). | Recognition/terminal witness does not mean acquittal or a rehabilitation future. Heart rescue is All Might's interpretation. |
+| Shigaraki -> Midoriya / Spinner | Narrow terminal trust in Midoriya as courier; Spinner alone is chosen message recipient (`p019-020,p074-075`). | Neither general gratitude nor replacement of Tomura by an innocent child. |
+| Spinner -> Tomura / Midoriya / Shoji | First-friend/gaming memory, self-critique and adversarial historical authorship; a rude encouragement goes to Shoji (`p076-081`). | Continued loyalty does not prove endorsement by the narrator; writing is not established pacifism. |
+| AFO -> Yoichi | Explicit love/need combined with denied permission to separate (`p014-015`). | Intense attachment and respectful care diverge. |
+| Kurogiri -> Shota / Hizashi / Shigaraki | Apology to former friends precedes demand to return Shigaraki to waiting friends (`p009-011`). | Mixed continuity; no pure restoration or ordinary future. |
+| Midoriya <-> Bakugo | Grief over lost power, class-funded armor, missed recruitment invitation and self-worth advice (`p033-035,p140-141,p156-161`). | Bluntness, ambition and social mistakes persist within mutual support. |
+| Ochako -> Toga | Grief and self-blame, later counseling and dream/apparition experience (`p098-117,p149-155,p177-183`). | Self-blame is not proof of sole causal responsibility; literal vestige mechanism unconfirmed. |
+| Midoriya <-> Ochako | Receives/offers grief support, names specific desire for more contact, reciprocates and takes hands (`p110-117,p177-183`). | Strong romantic movement; no on-page formal dating/marriage label. |
+| Shoto <-> Toya | Food question, soba/shared preference, Toya's local apology; later altar reference (`p061-064,p167`). | Local connection is neither bodily restoration nor total forgiveness. |
+| Endeavor -> family | Continuing conversation/restitution without requiring Natsuo's return (`p057-066`). | Family members retain distinct assessments and boundaries. |
+| Chisaki -> boss / Eri | Boss meeting ends in apology to the boss and demand to remember Eri's suffering (`p082-083`). | Eri-directed apology and durable reform are still unobserved. |
+| Hawks -> Nagant / institutions | Offers help and allows her chosen delay; reform becomes his responsibility (`p067-069,p118-119,p150`). | Trust is conditional, not restored by a single kind successor. |
+| Aoyama -> peers | Chooses repair despite permission to remain, recalls taking their hand (`p045-047`); adult Hagakure sidekick (`p164`). | Flamboyant style and accountability coexist; Mirio owns the negative-to-zero speech. |
+| Kirishima -> prospective employees / Fat Gum | Carries received employer-responsibility advice into adult recruiting (`p157`). | Care can require assessing another's future, not simply welcoming everyone. |
+| Asui -> Ochako | Asks about grief/dreams/medical reassurance and suggests another opinion (`p153-155`). | Familiar directness permits concern without supernatural certainty. |
+| Adult Class A | Intermittent contact, distinct jobs, teasing and rapid coordinated response (`p135,p162-175`). | Reduced co-presence is not abandonment; maturity is not uniform agreeableness. |
+
+The final source endpoint closes observed manga events, not every relationship's future. Terminal voices must not be generated as living adult observations.

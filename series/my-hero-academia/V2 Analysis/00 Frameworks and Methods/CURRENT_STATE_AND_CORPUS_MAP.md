@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES_V2
 generation: V2
 status: canonical
-source_boundary: V2 Japanese manga reread in progress; main tankobon sequence V01-V42 confirmed accessible in canonical Drive source root
+source_boundary: Complete canonical V2 Japanese main-manga reread V01-V42 through V42:p183; supplemental source inventory remains provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -488,12 +488,13 @@ Completed canonical V2 deep readings:
 - `MHA_SP2_V39_DEEP_READING.md`
 - `MHA_SP2_V40_DEEP_READING.md`
 - `MHA_SP2_V41_DEEP_READING.md`
+- `MHA_SP2_V42_DEEP_READING.md`
 
-Next default sequential task:
+**Sequential main-manga reread: V01–V42 complete.** There is no next default sequential volume.
 
-- Volume 42.
+The current post-V42 phase is the reconstruction/validation corpus, followed by specialist and full-series synthesis under the present completion authorization. The canonical post-Final-War checkpoint is `04 Character Modeling and Reconstruction/MHA_SP2_V42_POST_FINAL_WAR_MODEL_CHECKPOINT.md`; the readiness index in that directory owns final normalized tiers.
 
-The volume-by-volume sections below preserve earlier prospective snapshots. Their historical next-task language is not a competing instruction; this top-level pointer is operative. The present authorization covers V42 and subsequent reconstruction/synthesis completion.
+The volume-by-volume sections below preserve earlier prospective snapshots. Their historical next-task language is not a competing instruction; this top-level closure is operative. Earlier next-volume and single-operation statements are retained as historical prospective records, not live instructions.
 
 ## Volume 1 major model change
 
@@ -3726,3 +3727,16 @@ The final formal proposition is `弱き強さ`: Midoriya's visible incompletenes
 At that boundary Midoriya is shown throwing the final punch in the V41 endpoint image, but final AFO defeat, Shigaraki/Tenko survival/control, permanent Midoriya/OFA status, Kurogiri end state, postwar medical/legal outcomes and institutional reconstruction remain Volume 42 OPEN.
 
 **Next sequential operation:** `MHA_SP2_V42_DEEP_READING.md`, beginning from unresolved `V41:p195`. Do not adjudicate V42 from V41 end matter or prior publication knowledge.
+
+
+## Volume 42 major model change and sequential closure
+
+Volume 42 moves from agency without self-sufficiency toward **shared responsibility that makes ordinary selfhood possible**. The final battle defeats AFO's possession while Tomura retains his name/League relations and dies; Midoriya says his life was not saved, while All Might separately interprets heart rescue. Neither personhood nor causal explanation implies forgiveness. Endeavor accepts lifetime restitution, Natsuo keeps a separate relational boundary, Toya offers a local sibling apology, and Chisaki's apology remains directed to his boss under a demand to remember Eri.
+
+Mirio's graduation speech distinguishes repairing a negative from creating positive life; Aoyama chooses his own repair path. Hawks's reform, counseling practice, Shoji's regional work and the old woman's earlier intervention join professional expertise rather than eliminate it. Spinner's memorial preserves first-friend history while retaining adversarial intent. Midoriya loses OFA's embers, chooses teaching and later adds socially engineered armor capacity; Shoto discovers an ordinary self beyond his ideal; Ochako's care includes her own desire. The ending remains partial reform, not utopia.
+
+Canonical V42 narrative endpoint: **`V42:p183`**; chapters 423–431. `p145` and other identified paratext are excluded from in-world evidence, `p184+` from sequential narrative. Main-volume source sequence and canonical V01–V42 readings are complete. The separate supplemental source boundary remains provisional.
+
+The final readiness audit restores Twice's V27 `specialist_ready` row and Nighteye's V18 `strong` row, evaluates Shoji as `strong`, and normalizes final tiers to the five schema categories. Earlier historical tiers are not overwritten with ending knowledge. The V42 checkpoint routes to that maintained index and preserves both model gaps and qualified prospective tests.
+
+Residual manga-bounded uncertainties include Toya's exact off-panel death timing, Eri's full horn/Quirk medical consequences, literal Toga-vestige metaphysics, complete legal dispositions, the armor's full technical/maintenance envelope, a formal future Midoriya/Ochako relationship label and reform beyond the sampled adult period. These are boundaries for reconstruction and synthesis, not reasons to restart the sequential reread.

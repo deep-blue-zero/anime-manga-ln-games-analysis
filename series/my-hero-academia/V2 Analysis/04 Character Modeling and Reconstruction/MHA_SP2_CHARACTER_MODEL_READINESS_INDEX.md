@@ -4,7 +4,7 @@ artifact_type: index
 scope: CHARACTER_MODELING
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread complete through Volume 42; final readiness audit
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -109,6 +109,8 @@ do_not_use_as_current_authority: false
 
 Track whether accumulated V2 evidence is sufficient for responsible novel-situation character reconstruction. Readiness measures evidence breadth, not narrative importance or thematic confidence.
 
+**Final snapshot: audited through V42.** “Current boundary” records the last material individual adjudication, not an incomplete global reread. The top table alone defines current normalized tiers. Qualifiers in historical entries describe confidence within a tier; they do not promote it. The V42 reconciliation below records omissions, ambiguity decisions and historical-table limitations.
+
 
 
 
@@ -142,84 +144,92 @@ Track whether accumulated V2 evidence is sufficient for responsible novel-situat
 
 | Character | Current boundary | Context breadth | Relationship breadth | Language breadth | Longitudinal depth | Current readiness | Main missing evidence |
 |---|---|---:|---:|---:|---:|---|---|
-| Midoriya Izuku | V41 | high | high | high | high | **specialist_ready** | V41 adds OFA relinquishment, recognition under refusal, dangerous hand contact and received rescue; permanent power/medical and terminal Shigaraki outcomes remain open |
-| Bakugo Katsuki | V40 | high | high | high | high | **specialist_ready** | V40 closes Bakugo/Edgeshot life-state uncertainty into received rescue + self-authored return, Midoriya high-trust cooperation, explicit plural-victory language and AFO defeat; longer post-collapse medical evidence only refines |
-| Iida Tenya | V39 | high | high | high | high | **specialist_ready** | V39 completes the `迷子を導く` transport handoff to Shoto; later adult-professional refinement only |
-| All Might | V40 | high | high | high | high | **specialist_ready** | V40 validates Quirkless/post-Symbol agency under equipment failure, mortality, rescue reception and successor handoff; longer medical outcome refines rather than gates reconstruction |
-| Aizawa Shota | V41 | high | high | high | high | **specialist_ready** | V41 adds mixed-continuity reasoning, differentiated command, Eri-risk objection and practical care; final institutional/medical state refines |
-| Uraraka Ochako | V39 | high | high | high | high | **specialist_ready** | V39 closes the Toga/accountability/rescue-choice gate; later adult/professional breadth refines rather than gates reconstruction |
-| Todoroki Shoto | V39 | high | high | high | high | **specialist_ready** | V39 adds explicit conflict-to-understanding policy, friend-modeled care and family-scale Toya action; later aftermath only refines |
-| Shinso Hitoshi | V35 | high | moderate-high | high | moderate-high | **strong** | V35 compelled-speech/deception/emergency-role breadth closes the prior moderate gate; broader ordinary/adult-professional life still limits specialist tier |
-| Shigaraki Tomura | V41 | high | high | high | high | **specialist_ready** | V41 revises engineered origin; the p116 family-destruction choice claim and p121-123 League obligation require separate attribution; final control/separability open |
-| All For One | V41 | high | high | high | high | **strong** | V41 adds engineered Decay, manipulation of experienced choice, total-authorship rhetoric and Yoichi grief; ordinary reciprocal breadth still limits specialist tier |
-| Asui Tsuyu | V39 | high | moderate-high | high | high | **strong** | V39 adds explicit longitudinal revision of rule-based hero/villain ontology and high-stakes relational advocacy; broader ordinary/adult-professional breadth gates specialist_ready |
-| Yaoyorozu Momo | V29 | high | high | high | high | **strong** | later sustained command/failure and adult-professional breadth before specialist-ready |
+| Midoriya Izuku | V42 | high | high | high | high | **specialist_ready** | V42:p030-035,p129-141,p158-183 separates life/heart rescue, embers, teaching and support-suit agency; later armor limits and unshown future remain uncertain |
+| Bakugo Katsuki | V42 | high | high | high | high | **specialist_ready** | V42:p027-035,p140-141,p156-175 adds chosen rehabilitation, loss grief, sustained material care and abrasive adult reciprocity; exact long-term medical limits remain uncertain |
+| Iida Tenya | V42 | high | high | high | high | **specialist_ready** | V42:p133,p163,p171-174 adds adult counseling and task-focused restraint of competition; later unshown private life is outside the source boundary |
+| All Might | V42 | high | high | high | high | **specialist_ready** | V42:p029-035,p140-141 adds surviving mentor interpretation and collective support facilitation; heart rescue remains his interpretation, not omniscient access |
+| Aizawa Shota | V42 | high | high | high | high | **specialist_ready** | V42:p044-049,p090,p117,p133-134 adds student consent, continued oversight and adult colleague care; Shirakumo restoration is not established |
+| Uraraka Ochako | V42 | high | high | high | high | **specialist_ready** | V42:p095-117,p133,p149-155,p177-183 adds grief, counseling, received care and particular desire; dream mechanism and formal relationship status remain unconfirmed |
+| Todoroki Shoto | V42 | high | high | high | high | **specialist_ready** | V42:p055-066,p134,p166-168 adds chosen sibling contact and ordinary self beyond the hero ideal; Toya death timing remains unshown |
+| Shinso Hitoshi | V42 | high | moderate-high | high | moderate-high | **strong** | V42:p047,p163 closes school inclusion and adds adult continuity; repeated ordinary/private and independent adult relationships still gate specialist_ready |
+| Shigaraki Tomura | V42 | high | high | high | high | **specialist_ready** | V42:p009-020,p075-081 establishes terminal distinctness, Spinner-directed memory and retained Tomura identity; no independent postmortem or adult-future behavior |
+| All For One | V42 | high | high | high | high | **strong** | V42:p013-018 exposes Yoichi attachment and terminal control failure; ordinary reciprocal relationship breadth still gates specialist_ready |
+| Asui Tsuyu | V42 | high | moderate-high | high | high | **strong** | V42:p149-155 adds counseling and grounded concern for Ochako; broader independent ordinary/adult relationship regimes still gate specialist_ready |
+| Yaoyorozu Momo | V42 | high | high | high | high | **strong** | V35 infrastructure and V42:p133 adult counseling refine command/support continuity; repeated private and independent adult decision contexts still gate specialist_ready |
 | Ojiro Mashirao | V41 | low-moderate | low | low-moderate | very low | **emerging** | V41 direct rescue supplements earlier integrity; independent ordinary relationships and repeated motive breadth remain narrow |
 | Hatsume Mei | V34 | moderate | low | moderate | emerging | **moderate** | ordinary relationships, failure response, collaboration, non-promotional speech |
-| Endeavor | V39 | high | high | high | high | **specialist_ready** | V39 adds receptive listening and differentiated family apology without forgiveness demand; later aftermath refines rather than gates reconstruction |
-| Hawks | V31 | high | high | high | high | **specialist_ready** | specialist-ready; later free-agency/public aftermath refine rather than gate reconstruction |
-| Stain | V07 | high | moderate | high | moderate | **moderate (strongly strengthened)** | origin, low-stakes behavior, stable attachments, later longitudinal behavior beyond symbolic afterlife |
-| Iida Tensei / Ingenium | V07 | moderate | one strong relationship | moderate | low | **insufficient/emerging** | direct pre-injury hero behavior beyond memory, broader relationships, stress/decision policy |
+| Endeavor | V42 | high | high | high | high | **specialist_ready** | V42:p057-066 adds retirement, daily restitution and accepted non-forgiveness; future family outcomes are not guaranteed |
+| Hawks | V42 | high | high | high | high | **specialist_ready** | V42:p067-069,p118-119,p150 adds voluntary institutional authorship and concrete reform mechanisms; reform durability and complete commission repair remain unknown |
+| Stain | V07 | high | moderate | high | moderate | **moderate** | origin, low-stakes behavior, stable attachments, later longitudinal behavior beyond symbolic afterlife |
+| Iida Tensei / Ingenium | V07 | moderate | one strong relationship | moderate | low | **insufficient** | direct pre-injury hero behavior beyond memory, broader relationships, stress/decision policy |
 | Gran Torino | V29 | high | moderate | high | low | **moderate** | broader relationships, sustained ordinary behavior, serious/grief states, longitudinal mentorship |
-| Manual | V06 | moderate | low | moderate | very low | **insufficient/emerging** | broader relationships, conflict/stress behavior, ordinary personality breadth |
+| Manual | V29 | moderate | low | moderate | very low | **emerging** | Final normalization: repeated professional decisions support emerging; private/ordinary motives, speech and independent relationship variation remain too thin for moderate |
 | Best Jeanist | V31 | high | moderate-high | high | moderate | **moderate** | broader private/ordinary and non-mentor relationship evidence before strong |
-| Gunhead | V06 | low | low | low-moderate | very low | **insufficient/emerging** | independent personality, relationships, crisis behavior, speech breadth |
-| Uwabami | V06 | low | low | low-moderate | very low | **insufficient/emerging** | independent personality, values beyond media role, crisis behavior, relationships |
-| Kurogiri | V41 | moderate | moderate | moderate | moderate | **moderate** | V41 adds mixed-continuity interpretation and responsive Warp Gate; independent ordinary desire and final identity state remain open |
-| Recovery Girl | V05 | low-moderate | low-moderate | moderate | low-moderate | emerging (strengthened) | broader professional/casual behavior and relationships |
-| Thirteen | V04 | low-moderate | low | moderate | low | emerging | broader combat, casual behavior, repeated decision policy, relationships |
-| Shoda Nirengeki | V04 | very low | very low | very low | very low | insufficient/emerging | repeated decisions, ordinary personality, relationships, speech breadth |
-| Midoriya Inko | V11 | moderate-high | low-moderate | moderate-high | moderate-high | **emerging (strongly grounded)** | ordinary independent life, broader relationships, later trust change, non-crisis identity beyond motherhood |
-| Bakugo Mitsuki | V11 | moderate | one primary relationship | moderate | very low | **insufficient/emerging (strongly grounded)** | broader contexts/relationships, ordinary independent behavior, later conflict/parenting evidence |
-| Kirishima Eijiro | V34 | high | high | high | high | **strong** | broader later-life/professional breadth, repeated ordinary relationships, sustained leadership beyond internship |
-| Ashido Mina | V38 | moderate | moderate | moderate-high | moderate | **moderate (very strongly grounded)** | broader ordinary/adult-professional breadth, repeated independent leadership and additional non-Kirishima relational regimes before strong |
+| Gunhead | V06 | low | low | low-moderate | very low | **insufficient** | independent personality, relationships, crisis behavior, speech breadth |
+| Uwabami | V06 | low | low | low-moderate | very low | **insufficient** | independent personality, values beyond media role, crisis behavior, relationships |
+| Kurogiri | V42 | moderate | moderate | moderate | moderate | **moderate** | V42:p009-011,p018 supports mixed Shirakumo/friend and Tomura-rescue continuity; independent restored identity and ordinary desire remain unestablished |
+| Recovery Girl | V05 | low-moderate | low-moderate | moderate | low-moderate | **emerging** | broader professional/casual behavior and relationships |
+| Thirteen | V04 | low-moderate | low | moderate | low | **emerging** | broader combat, casual behavior, repeated decision policy, relationships |
+| Shoda Nirengeki | V04 | very low | very low | very low | very low | **insufficient** | repeated decisions, ordinary personality, relationships, speech breadth |
+| Midoriya Inko | V25 | moderate-high | low-moderate | moderate-high | moderate-high | **moderate** | V25:p123-126 earned reassurance broadens V11 institutional confrontation and conditional trust; independent non-parental life and relationship breadth remain limited |
+| Bakugo Mitsuki | V11 | moderate | one primary relationship | moderate | very low | **insufficient** | broader contexts/relationships, ordinary independent behavior, later conflict/parenting evidence |
+| Kirishima Eijiro | V42 | high | high | high | high | **strong** | V42:p157 adds independent hiring responsibility conditioned by Fat Gum mentorship; wider repeated private/adult contexts still gate specialist_ready |
+| Ashido Mina | V38 | moderate | moderate | moderate-high | moderate | **moderate** | broader ordinary/adult-professional breadth, repeated independent leadership and additional non-Kirishima relational regimes before strong |
 | Kaminari Denki | V21 | moderate-high | moderate-high | moderate | moderate | **moderate** | broader relationships beyond Class 1-A, later failure/repair regimes, sustained independent leadership |
 | Mineta Minoru | V41 | moderate | low-moderate | moderate | moderate | **emerging** | V41 continues prosocial risk under depletion; sexual-boundary failures and limited independent relationship breadth remain |
-| Sero Hanta | V41 | low-moderate | low | moderate | low-moderate | **emerging (strongly grounded)** | V41 adds ordinary motives, explicit anti-tragedy value and direct rescue; repeated independent and relationship breadth remains below moderate |
-| Jiro Kyoka | V36 | high | moderate-high | high | high | **strong** | V36 adds existential fear, empathic updating, friend-centered resistance and causal high-stakes action; specialist tier still awaits broader independent/adult-life and relationship breadth |
+| Sero Hanta | V41 | low-moderate | low | moderate | low-moderate | **emerging** | V41 adds ordinary motives, explicit anti-tragedy value and direct rescue; repeated independent and relationship breadth remains below moderate |
+| Jiro Kyoka | V42 | high | moderate-high | high | high | **strong** | V42:p169 adds ordinary peer boundaries; broader independent adult-life and relationship contexts still gate specialist_ready |
 | Koda Koji | V37 | moderate-high | moderate | low-moderate | moderate | **moderate** | V37 family stigma history, proper-anger ethic, Shoji-specific loyalty and independent battlefield choice close the emerging gate; ordinary speech/relationship breadth remains limited |
-| Shoji Mezo | V37 | high | moderate-high | moderate-high | moderate | **moderate (very strongly grounded)** | V37 adds persecution biography, ordinary appearance-management, anti-revenge identity, intergenerational reform theory and mass-persuasion evidence; repeated adult/ordinary breadth remains below strong |
+| Shoji Mezo | V42 | high | moderate-high | moderate-high | high | **strong** | V37:p117-164 plus V42:p132,p163 closes the repeated professional/public/ordinary breadth gate through sustained regional work and shared-credit speech; private adult relationship variation still gates specialist_ready |
 | Monoma Neito | V37 | moderate-high | moderate | high | moderate | **moderate** | V35 promotion is preserved; V37 adds extreme-stakes Erasure persistence plus unchanged public-recognition/status hunger. Private ordinary breadth remains thin |
-| Spinner / Iguchi Shuichi | V37 | high | moderate-high | high | high | **strong** | origin, political awakening, conscious follower identity, leader challenge, Shigaraki-specific custodial loyalty, imposed representative role and cognitive-collapse persistence now support strong conditional reconstruction |
-| Aoyama Yuga | V41 | high | moderate-high | high | high | **strong** | V41 reciprocal-need speech to Midoriya, prior offered-hand callback and Hagakure path-making strengthen agency under unresolved legal/school future; specialist breadth still limited |
-| Nezu | V14 | moderate-high | low-moderate | moderate | low-moderate | **insufficient/emerging (strongly grounded)** | ordinary personality, relationship breadth, repeated crisis leadership and decision evidence |
-| Himiko Toga | V39 | high | high | high | high | **specialist_ready** | V39 adds childhood/self-definition, League belonging, Uraraka reciprocity, apology, Quirk/affect reasoning and total-blood rescue choice; post-act status/ordinary future only refine |
-| Dabi / Todoroki Toya | V39 | high | high | high | high | **specialist_ready** | V39 adds latent cold factor, whole-family recognition, continued hatred and joint thermal containment; ordinary non-hostile/post-crisis breadth refines rather than gates reconstruction |
+| Spinner / Iguchi Shuichi | V42 | high | moderate-high | high | high | **strong** | V42:p073-081 adds impaired recovery, grief, self-criticism and adversarial memorial authorship; ordinary relationships beyond League belonging still gate specialist_ready |
+| Aoyama Yuga | V42 | high | moderate-high | high | high | **strong** | V42:p045-047,p164 adds chosen departure despite offered inclusion and later sidekick work; independent adult/private breadth still gates specialist_ready |
+| Nezu | V33 | moderate-high | low-moderate | moderate | low-moderate | **emerging** | Final normalization: repeated professional decisions support emerging; private/ordinary motives, speech and independent relationship variation remain too thin for moderate |
+| Himiko Toga | V42 | high | high | high | high | **specialist_ready** | V42:p114,p155 confirms death; Ochako memory/dream is reception evidence, not independent Toga behavior; no imagined redeemed adult snapshot |
+| Dabi / Todoroki Toya | V42 | high | high | high | high | **specialist_ready** | V42:p056-064 adds constrained hospital speech and specific apology to Shoto; p167 altar strongly implies later death, with timing and broader remorse unshown |
 | Mr. Compress / Sako Atsuhiro | V30 | moderate-high | moderate | high | moderate | **moderate** | ordinary/private and repeated non-League contexts before strong |
 | Kota Izumi | V41 | moderate | low-moderate | moderate | very low | **emerging** | V41 adds a reciprocal participation impulse despite acknowledged weakness; independent ordinary relationships and later breadth remain narrow |
-| Mandalay | V09 | low-moderate | low-moderate | low-moderate | very low | **insufficient/emerging** | broader pro behavior, stress response, relationships beyond Kota/team |
-| Pixie-Bob | V08 | low-moderate | low | low-moderate | very low | **insufficient/emerging** | broader relationships, crisis behavior, ordinary voice, values |
+| Mandalay | V09 | low-moderate | low-moderate | low-moderate | very low | **insufficient** | broader pro behavior, stress response, relationships beyond Kota/team |
+| Pixie-Bob | V08 | low-moderate | low | low-moderate | very low | **insufficient** | broader relationships, crisis behavior, ordinary voice, values |
 | Yoarashi Inasa | V38 | moderate | low-moderate | high | moderate | **moderate** | ordinary/private breadth and broader repeated relationship regimes remain thin |
-| Shishikura Seiji | V38 | moderate | low | moderate-high | low-moderate | **emerging (strongly grounded)** | father/AFO hatred-governance evidence strengthens values; still needs ordinary baseline, broader relationships and repeated independent decisions |
-| Togata Mirio | V36 | high | high | high | high | **strong** | consistency repair: strong was already established in V17; V36 adds social misread plus immediate repair and mature Big Three coordination |
-| Sir Nighteye | V15 | high | high | high | moderate | **moderate** | broader causal history with All Might, field stress/failure, private relationships, longitudinal change |
-| Chisaki / Overhaul | V32 | high | moderate-high | high | high | **strong** | ordinary/private breadth and relationships beyond the boss remain specialist-ready gaps |
-| Lady Nagant / Tsutsumi Kaina | V38 | high | moderate-high | high | high | **strong** | ordinary/private breadth and postwar institutional/relationship life remain before specialist-ready |
-| Muscular / Imasuji Goto | V32 | moderate | low | high | moderate | **emerging (very strongly grounded within combat/motive domain)** | noncombat/relationship breadth |
+| Shishikura Seiji | V38 | moderate | low | moderate-high | low-moderate | **emerging** | father/AFO hatred-governance evidence strengthens values; still needs ordinary baseline, broader relationships and repeated independent decisions |
+| Togata Mirio | V42 | high | high | high | high | **strong** | V42:p042-043,p149-152 adds positive-future graduation ethic and adult collaborative play; repeated independent private/ordinary contexts still gate specialist_ready |
+| Sir Nighteye | V18 | high | high | high | high | **strong** | Snapshot repair: V18 already promoted to strong after forecast revision and terminal All Might/Mirio care; ordinary/private breadth outside professional attachments still gates specialist_ready |
+| Chisaki / Overhaul | V42 | high | moderate-high | high | high | **strong** | V42:p082-083 adds boss reunion and tears under demanded lifelong Eri-directed accountability; his apology is to the boss, not demonstrated full reform; ordinary/private breadth remains limited |
+| Lady Nagant / Tsutsumi Kaina | V42 | high | moderate-high | high | high | **strong** | V42:p067-068 adds refusal of offered release and conditional institutional trust; ordinary life outside coercion/recovery still gates specialist_ready |
+| Muscular / Imasuji Goto | V32 | moderate | low | high | moderate | **emerging** | noncombat/relationship breadth |
 | Yo Shindo | V32 | moderate | low-moderate | moderate | low | **emerging** | ordinary baseline and repeated decisions |
-| Dictator | V32 | low-moderate | very low | low-moderate | very low | **insufficient/emerging** | motive/history/relationship breadth |
-| Amajiki Tamaki | V36 | high | high | high | high | **strong** | V36 adds anxiety regulation, received-belief integration, Big Three reciprocity and extreme-stakes independent execution; ordinary-life breadth still below specialist tier |
+| Dictator | V32 | low-moderate | very low | low-moderate | very low | **insufficient** | motive/history/relationship breadth |
+| Amajiki Tamaki | V42 | high | high | high | high | **strong** | V36 independent high-stakes execution plus V42 adult continuity; repeated independent ordinary-life and broader relationship regimes still gate specialist_ready |
 | Hado Nejire | V36 | moderate-high | moderate-high | moderate-high | moderate | **moderate** | V36 supplies rejection/curiosity social history, reciprocal Big Three conditioning, explicit self-interpretation and high-stakes support; broader independent/ordinary breadth remains needed |
-| Magne | V14 | low | low | moderate | very low | **insufficient/emerging (strongly grounded)** | broader history, ordinary behavior, relationships, decision policy beyond autonomy/belonging endpoint |
-| Eri | V41 | high | high | high | moderate-high | **strong** | V41 adds chosen horn contribution and future singing; injury risk is explicitly contested and longer ordinary/adolescent breadth still limits specialist tier |
+| Magne | V14 | low | low | moderate | very low | **insufficient** | broader history, ordinary behavior, relationships, decision policy beyond autonomy/belonging endpoint |
+| Eri | V42 | high | high | high | moderate-high | **strong** | V42:p128 adds ordinary creative continuity after the contested V41 horn contribution; adolescent private life and exhaustive Quirk-medical prognosis remain unavailable |
 | Fat Gum | V16 | high | moderate-high | high | low-moderate | **moderate** | private/low-stakes baseline, broader relationships, repeated failure/grief regimes, later mentorship change |
-| Crimson Riot | V16 | moderate | very low | high | very low | **insufficient/emerging (strongly grounded)** | ordinary/private behavior, relationships, repeated field decisions, longitudinal evidence |
-| Rappa Kendo | V16 | moderate-high | low | high | low | **emerging (strongly grounded)** | low-stakes behavior, broader relationships, noncombat values, later failure/choice breadth |
-| Joi Irinaka / Mimic | V16 | moderate | low | moderate | very low | **insufficient/emerging (strongly grounded)** | ordinary baseline, relationships, motive history, repeated stress/failure behavior |
-| Rock Lock | V16 | low-moderate | low | low-moderate | very low | **insufficient/emerging** | broader leadership, ordinary behavior, relationships, repeated crisis decisions |
-| Ryukyu | V15 | low-moderate | low | low-moderate | very low | **insufficient/emerging** | broader leadership, relationships, speech/register, stress/failure behavior |
-| Gentle Criminal | V38 | high | high in one dominant relationship | high | high | **strong** | V38 closes rehabilitation/held-out recurrence; broader relationships outside La Brava and postwar ordinary life remain before specialist-ready |
+| Crimson Riot | V16 | moderate | very low | high | very low | **insufficient** | ordinary/private behavior, relationships, repeated field decisions, longitudinal evidence |
+| Rappa Kendo | V16 | moderate-high | low | high | low | **emerging** | low-stakes behavior, broader relationships, noncombat values, later failure/choice breadth |
+| Joi Irinaka / Mimic | V16 | moderate | low | moderate | very low | **insufficient** | ordinary baseline, relationships, motive history, repeated stress/failure behavior |
+| Rock Lock | V17 | low-moderate | low | low-moderate | very low | **emerging** | Final normalization: repeated professional decisions support emerging; private/ordinary motives, speech and independent relationship variation remain too thin for moderate |
+| Ryukyu | V28 | low-moderate | low | low-moderate | very low | **emerging** | Final normalization: repeated professional decisions support emerging; private/ordinary motives, speech and independent relationship variation remain too thin for moderate |
+| Gentle Criminal | V42 | high | high in one dominant relationship | high | high | **strong** | V42:p068,p130 adds release after recognized service and adult technical partnership; relationships outside La Brava remain a specialist_ready gap |
 | La Brava | V38 | high | high in one dominant relationship | high | high | **moderate** | independent technical hero labor is strongly added; broader relationships/ordinary identity outside Gentle still gate strong |
-| Tokoyami Fumikage | V38 | high | moderate-high | high | high | **strong** | V38 maximum-action/support-network evidence strongly deepens; ordinary/private breadth remains the main specialist-tier gap |
+| Tokoyami Fumikage | V42 | high | moderate-high | high | high | **strong** | V42 adult professional and distinctive peer-register continuity supplements V38 network-supported action; ordinary/private breadth still gates specialist_ready |
 | Kendo Itsuka | V21 | moderate-high | moderate | moderate-high | moderate | **moderate** | ordinary baseline, broader relationships, Match 2 resolution, later leadership/failure breadth |
-| Shiozaki Ibara | V21 | moderate | low-moderate | moderate | low-moderate | **emerging (strongly grounded)** | ordinary baseline, broader relationships, repeated noncompetition decisions, later failure/repair |
-| Shishida Jurota | V21 | moderate | low | moderate | very low | **insufficient/emerging (strongly grounded)** | ordinary baseline, relationships, later stress/failure and independent goals |
-| Tsuburaba Kosei | V21 | low-moderate | low | low-moderate | very low | **insufficient/emerging** | ordinary personality, relationships, repeated decisions and failure response |
-| Rin Hiryu | V21 | low-moderate | low | low-moderate | very low | **insufficient/emerging** | ordinary personality, relationships, repeated decisions and failure response |
-| Kuroiro Shihai | V21 | moderate | low | moderate | very low | **insufficient/emerging (strongly grounded)** | ordinary baseline, broader relationships, Match 2 resolution, repeated stress/failure |
-| Komori Kinoko | V21 | moderate | low | low-moderate | very low | **insufficient/emerging (strongly grounded)** | ordinary baseline, relationships, motive/values, Match 2 resolution |
-| Fukidashi Manga | V21 | low-moderate | low | low-moderate | very low | **insufficient/emerging** | ordinary baseline, relationships, motive/values, Match 2 resolution |
-| Nomu (USJ) | V03 | instrumental only | none | none | none | insufficient | autonomous personhood/decision/speech evidence unavailable at current boundary |
+| Shiozaki Ibara | V21 | moderate | low-moderate | moderate | low-moderate | **emerging** | ordinary baseline, broader relationships, repeated noncompetition decisions, later failure/repair |
+| Shishida Jurota | V21 | moderate | low | moderate | very low | **insufficient** | ordinary baseline, relationships, later stress/failure and independent goals |
+| Tsuburaba Kosei | V21 | low-moderate | low | low-moderate | very low | **insufficient** | ordinary personality, relationships, repeated decisions and failure response |
+| Rin Hiryu | V21 | low-moderate | low | low-moderate | very low | **insufficient** | ordinary personality, relationships, repeated decisions and failure response |
+| Kuroiro Shihai | V21 | moderate | low | moderate | very low | **insufficient** | ordinary baseline, broader relationships, Match 2 resolution, repeated stress/failure |
+| Komori Kinoko | V21 | moderate | low | low-moderate | very low | **insufficient** | ordinary baseline, relationships, motive/values, Match 2 resolution |
+| Fukidashi Manga | V21 | low-moderate | low | low-moderate | very low | **insufficient** | ordinary baseline, relationships, motive/values, Match 2 resolution |
+| Nomu (USJ) | V03 | instrumental only | none | none | none | **insufficient** | autonomous personhood/decision/speech evidence unavailable at current boundary |
+| Twice / Bubaigawara Jin | V27 | high | high | high | high | **specialist_ready** | Snapshot omission repaired: V27 terminal promotion follows identity-trauma revision, ordinary League belonging, betrayal and final care; no postmortem independent behavior |
+| Giran | V24 | moderate | moderate | moderate | moderate | **moderate** | V24 historical promotion restored; independent ordinary/private and broader repeated relationship regimes remain thin |
+| Re-Destro / Yotsubashi Rikiya | V25 | moderate-high | moderate | high | moderate | **moderate** | V24 promotion and V25 defeat/abdication preserved; ordinary/private and non-ideological relationships remain limited |
+| Garaki / Ujiko | V28 | moderate-high | moderate | moderate | moderate | **moderate** | V27 promotion and V28 biography preserved; ordinary reciprocal relationships remain thin |
+| Star and Stripe | V34 | moderate-high | moderate | moderate-high | low | **moderate** | V34 established tier restored; concentrated terminal evidence does not supply a broad ordinary/longitudinal model |
+| Hagakure Toru | V42 | moderate | low-moderate | moderate | low-moderate | **emerging** | V34/V40 established tier restored; V41 coordination and V42:p164 professional continuity do not close independent motive/relationship breadth |
+| Camie Utsushimi | V18 | moderate | low-moderate | moderate-high | low | **emerging** | Real-Camie V18 evidence only for this promotion; Toga impersonation excluded; independent longitudinal breadth remains narrow |
+| Tetsutetsu Tetsutetsu | V22 | moderate | low-moderate | moderate | low-moderate | **emerging** | V22 established tier restored; accumulated V09/V22 bodily-limit persistence remains combat concentrated |
 
 
 
@@ -1440,3 +1450,30 @@ V41's convergence scenes should not be used to convert every returning classmate
 ### Other screened V41 character evidence
 
 Present Mic receives adult-grief/altered-friend evidence; Ojiro, Sato, Mineta, Aoyama and Hagakure receive rescue/coordination evidence, and Kota receives reciprocal-participation evidence. Existing tiers are preserved except for Sero as recorded above. Their character-group and relationship entries carry these bounded deltas; no missing top-table row is silently treated as a new high-readiness promotion. The final V42 reconciliation will audit snapshot omissions against the complete historical record.
+
+
+# Volume 42 final readiness reconciliation
+
+## Evidence and normalization rule
+
+The complete maintained index, five character-group ledgers and V42 Japanese sequence were reconciled against the promoted V41 base. This is a breadth audit, not an end-of-manga mass promotion. All current rows now use exactly one of the schema's five categories. Historical prose and ordering are retained. A dossier's existence will not change readiness.
+
+- `moderate (very strongly grounded)` and other moderate qualifiers normalize to `moderate`; emerging qualifiers normalize to `emerging`. Mina, La Brava, Hado, Koda and Kurogiri remain below reconstruction eligibility.
+- Legacy `insufficient/emerging` watchlists are resolved conservatively to `insufficient` where the recorded evidence supports a salient role/scene but not an independently repeatable multi-context pattern. This is ambiguity resolution, not a claim that no evidence exists. Manual (sustained operational support through V29), Nezu (institutional risk and refuge decisions through V33), Rock Lock (field distrust and revised recognition through V17), and Ryukyu (repeated command/rescue through V28) resolve to `emerging`; their ordinary/private limits remain explicit.
+- **Shoji: `moderate -> strong`.** The V37 complete entry includes persecution history, appearance management, child rescue, anti-revenge reasoning and mass persuasion. V42:p132 adds sustained independent regional practice under public recognition; shared credit is consistent with his earlier intergenerational theory, and p163 supplies ordinary peer courtesy. This crosses the stated repeated professional/ordinary breadth gate. It does not establish broad private adult relationships or justify `specialist_ready`.
+- **Sir Nighteye: restore `strong` at V18.** The historical V18 promotion and Pro Hero ledger already resolve the stale V15 top row. This is an administrative repair, not a new V42 behavior claim.
+- **Twice: restore `specialist_ready` at V27 (terminal).** The explicit V27 adjudication was absent from the top table. His death does not make a full endpoint model unavailable, nor permit later autonomous behavior.
+- **Inko: `moderate` at V25.** The V25 historical “remains moderate” wording lacks a matching earlier top-table promotion, so it is not silently treated as a clean transaction. V11 institutional confrontation/conditional trust plus V25:p123-126 earned reassurance substantively supports moderate maternal-context reconstruction. Non-parental breadth stays limited. This repair has no effect on the strong/specialist target population.
+- Giran, Re-Destro, Garaki/Ujiko, Star and Stripe, Hagakure, real Camie and Tetsutetsu receive omitted top rows at their already recorded categories. Other named low-evidence actors remain discoverable in the group ledgers; absence from this index is not permission to assign a high tier.
+
+## Historical integrity warning
+
+The imported index contains V40-format eight-column snapshot rows inside older four-column delta tables: V28 (Bakugo/Shigaraki), V35 (Aoyama/AFO), V36 (Bakugo/AFO), V38 (All Might), and V39 (All Might/AFO). The available Git history does not recover authentic replaced delta rows. These carry-forward intrusions are preserved as historical defects, **not valid prospective freezes or evidence of earlier tier promotion**. Use the named volume's deep reading and properly bounded group-ledger section for chronological validation. The top snapshot and explicit dated adjudications govern current readiness; no lost historical text has been invented.
+
+## Closure boundary
+
+V42 resolves terminal life/control outcomes and adds adult states; it does not make private-life evidence exhaustive. Kurogiri remains moderate despite a highly diagnostic terminal scene. Toga's dreams in Ochako's viewpoint are reception evidence, not independent postmortem behavior. Toya's p064 apology is specific; neither a full reform nor a broad future life is supplied. Existing strong models retain their documented specialist-tier gaps.
+
+The reconstruction target population is derived by parsing **only the top snapshot** and selecting exact `strong` or `specialist_ready` values. The downstream model index routes that population without duplicating this readiness table.
+
+Final snapshot counts: `insufficient` 18, `emerging` 18, `moderate` 20, `strong` 17, `specialist_ready` 13. Reconstruction scope: **30 characters**.

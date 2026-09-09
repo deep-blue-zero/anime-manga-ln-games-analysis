@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: POWER_PHILOSOPHY
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3957,3 +3957,22 @@ Current distinction: **voluntary co-presence vs possessive jurisdiction**. Agenc
 ## Current synthesis through V41
 
 > **Power is not morally legitimized by possession, scale, or causal influence. V41's strongest powers are those that can be relinquished, bounded, shared and coordinated without erasing the people who bear them. The opposite pole is AFO's attempt to convert giving, taking, designing and loving into a single jurisdictional claim: therefore it is mine.**
+
+
+# Volume 42 cumulative closure
+
+## Capacity, identity and authorship remain separate
+
+`V42:p030-035,p129-141,p158-160`: OFA factors are expended, embers persist temporarily then end, and Midoriya teaches before receiving technological capacity. He explicitly retains teaching after the armor arrives. **Fact:** the capacities and roles change. **Strong inference:** a biography formed through power survives its loss. **Interpretation:** power should enlarge rather than exhaust a person's available life.
+
+## Social contribution does not imply ownership
+
+`V42:p140-141`: All Might's battle data, engineering collaboration and class funding centered on Bakugo create the armor; it is not OFA mechanically restored. All Might calls it power Midoriya earned. Compare AFO's permission/ownership claims even while pleading for Yoichi (`p014-015`): causal contribution does not settle legitimate jurisdiction over the recipient. The suit's complete capability, cost and maintenance envelope remain unshown.
+
+## Skilled power remains necessary within prevention
+
+`V42:p119-123` makes early civilian approach decisive without spectacular force; `p149-152` depicts trained Quirk use and counseling together; `p171-174` still requires professional response to dangerous Quirk use. Distributed responsibility is differentiated competence, not universal combat equivalence.
+
+## Selfhood exceeds both imposed and chosen missions
+
+Shoto's food/tableware preference and explicit self beyond `なりたい自分` (`V42:p166-168`), Ochako's chosen work/desire (`p153,p177-183`) and Midoriya's dual vocation resist total role identity. These are character-grounded normative interpretations, not a claim that obligation vanishes or that tragedy was necessary for growth.

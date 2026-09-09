@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: HERO_SOCIETY
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3558,3 +3558,25 @@ This does not make cheering equivalent to combat. It changes the public's relati
 ## Current synthesis through V41
 
 > **Hero Society's final-war alternative to singular-symbol dependence is neither anti-professionalism nor universal frontline heroism. It is a distributed protection network in which specialists remain specialists, civilians remain meaningful participants, damaged people can still contribute, and no one person's extraordinary capacity is treated as sufficient infrastructure for everyone else.**
+
+
+# Volume 42 cumulative closure
+
+## Recovery has material and institutional work left to do
+
+`V42:p023-026,p041-043,p071-072,p090-095`: international aid, Nezu's coordination, local rebuilding, clinical care and student/civilian labor follow the war. Public victim testimony preserves destroyed lives/homes beside media simplification of Shigaraki. Victory does not automatically repair society.
+
+## Professional expertise and civic initiative are complements
+
+`V42:p107-123`: a new abused child enters a public space; the old woman interrupts abandonment after remembering Tenko. She need not know a complete biography to offer a hand. The scene does not prove all danger is eliminated or that this child had an inevitable villain future. Mirio's graduation distinguishes returning harm from negative to zero from a positive future with laughter (`p042-043`); recovery is a floor.
+
+## Named mechanisms of partial reform
+
+- Hawks becomes public-safety chair and takes responsibility for changing the system (`p067-069`). His chart proposal preserves achievement while widening recognized heroism beyond the occupation (`p118-119`); it is not abolition of rankings or institutions.
+- Shoji's peaceful regional heteromorph work and allocation of credit appear in adult public recognition (`p132`). It confirms sustained work, not eradication of discrimination.
+- Ochako, Iida, Asui and Yaoyorozu expand counseling (`p133`); `p149-153` shows trust-building, staffing and education-ministry support. Files alone are insufficient; time and communication matter.
+- Midoriya's teaching and outreach transmit possibility (`p127-141,p158-160`); armor engineering broadens capacity while frontline specialization continues.
+
+## Changed occupational field, unfinished ideal
+
+`V42:p131,p163-174`: villain incidence and hero numbers are described as declining; rankings are subdivided and no longer have precisely their old absolute meaning. Careers remain unequal, applicants still worry about weak Quirks, publicity still creates friction, and dangerous incidents continue. `ヒーローが暇な社会` is an aspiration approached unevenly, not a completed utopia. V41's plural participation persists as behavior and institutions; no literal constitutional `WE ARE HERE` doctrine is claimed.

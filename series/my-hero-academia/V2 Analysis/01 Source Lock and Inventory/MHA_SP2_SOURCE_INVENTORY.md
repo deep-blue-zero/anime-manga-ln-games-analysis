@@ -372,8 +372,8 @@ This satisfies the complete main-source requirement for the planned sequential V
 
 
 
-- V01–V41 — analyzed canonically in V2
-- V42 — source accessible; sequential reading pending
+- V01–V42 — complete canonical V2 sequential main-manga reread; final narrative endpoint `V42:p183`.
+- Supplemental inventory — still `active_provisional`; it does not reopen the completed main-volume sequence.
 
 
 
@@ -1192,4 +1192,16 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Prospective endpoint: Midoriya has reached a final V41 strike through distributed support; AFO is under attack; final AFO/Shigaraki/Tenko state, permanent OFA status and postwar outcome remain V42+ OPEN.
 - Handling: fetched temporarily/read-only for source-grounded review; canonical raw source remains in Google Drive.
 
-**Current sequential source high-water mark:** V01-V41 complete. **Next sequential source:** Volume 42 (`My Hero Academia - Vol. 42 [Japanese].cbz`; Drive `1HiFWIMVIizGLbqlfVmK1xvTSwA3Rqi9O`, metadata verified during this reconciliation).
+**Historical V41 source high-water mark:** V01-V41 complete. **Then-next sequential source:** Volume 42 (`My Hero Academia - Vol. 42 [Japanese].cbz`; Drive `1HiFWIMVIizGLbqlfVmK1xvTSwA3Rqi9O`, metadata verified during this reconciliation).
+
+
+# Volume 42 source verification and main-manga closure
+
+- Source: `My Hero Academia - Vol. 42 [Japanese].cbz`; Drive `1HiFWIMVIizGLbqlfVmK1xvTSwA3Rqi9O`.
+- Size **89,885,814 bytes**; SHA-256 `969bd3ca1df7cea2f2e6e2aae16eae77c4717d82c09f7ee372f22a5d195b86c3`.
+- Archive topology **193 JPEG pages + ComicInfo.xml**, Japanese/right-to-left, logical page equals JPEG number.
+- Main narrative chapter sequence **423–431**, encompassing `V42:p005-p183`. `p145` is authorial paratext, `p184+` publication/end matter; `p144` and other identified credits/interstitials within the encompassing interval also remain non-event evidence.
+- All pages in the encompassing sequence were viewed directly during reconciliation; the Primary Source Locator and V42 audit distinguish narrative from paratext.
+- V41 cumulative synchronization was committed first; V42 reading, checkpoint and cumulative closure follow that verified state.
+
+**Main-volume source and canonical sequential reread: V01–V42 complete.** No next main volume is pending. Supplemental enumeration/edition closure remains outside this completed main-manga scope and retains the inventory's `active_provisional` authority state.

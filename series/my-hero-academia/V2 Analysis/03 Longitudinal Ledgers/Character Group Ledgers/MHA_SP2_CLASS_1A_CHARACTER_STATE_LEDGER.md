@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: CLASS_1A
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13268,3 +13268,57 @@ Do not reconstruct Sero as empty “normal-classmate comic relief.” His ordina
 - The pair's earlier high-risk coordination now participates in a larger distributed architecture: support does not require replacing the protagonist's final act.
 
 **Readiness:** existing tiers preserved; V41 is a strengthening atom, not a breadth gate.
+
+
+# Volume 42 cumulative closure
+
+This tranche follows the promoted V41 snapshot. Locators refer to directly rechecked Japanese narrative pages. Earlier volume sections remain prospective; no adult outcome is imported into them.
+
+## Midoriya Izuku — terminal witness, teacher and supported adult hero
+
+- `V42:p013-020`: rejects AFO's Demon Lord claim by naming a lonely human; opposes Tomura's acts without forgiveness, receives Tomura's Spinner message and answers that something has already been broken. His attempted rescue does not authorize him to replace Tomura's chosen adult identity.
+- `V42:p030-035`: says Tenko's **life** (`命`) was not saved; All Might separately interprets possible **heart** rescue. Midoriya reports residual OFA embers. Grief, uncertainty and gratitude coexist with an action he chose; neither easy triumph nor total self-nullification fits.
+- `V42:p110-117`: notices Ochako's concealed grief, offers his hand and says he will not depend only on her strength. He shares his own unresolved rescue question without claiming it explains hers completely.
+- `V42:p129-141`: embers end over time; adult U.A. teaching continues his attention to unrealized possibility. He admits some loneliness, values others' careers, and examines Dai's plate Quirk concretely before affirming the significance of the hand Dai already extended. Differing schedules are not evidence that friends abandoned him.
+- `V42:p158-160`: keeps teaching after receiving the armor; explicitly thinks teaching would have attracted him even had OFA remained. Capacity and vocation have separate state variables. `p169-183` adds self-worth reflection and a particular wish to talk more with Ochako; strong mutual romantic movement is shown, no formal dating/marriage label.
+- **Readiness:** remains `specialist_ready`. Keep pre-OFA, early U.A., Dark Deku, final-war, immediate embers, Quirkless teacher and teacher-plus-armor snapshots distinct. Armor maintenance/capability limits beyond the shown use remain unknown.
+
+## Bakugo Katsuki — dependence accepted, demanding style retained
+
+- `V42:p027-028`: chooses difficult arm rehabilitation because his Quirk originates in his palms; doctors retain serious cardiac/rest restrictions. This is embodied preference under limits, not proof of harmless recovery.
+- `V42:p033-035`: cries at Midoriya's approaching Quirklessness because he imagined their continuing rivalry. Childhood superiority no longer defines that rivalry.
+- `V42:p140-141`: centrally supports the class-funded armor; `p156-161` retains abrasive banter and recruitment standards. Applicants who merely admire him fare poorly; an aspirant who wants to surpass him would interest him. His indirect invitation to Midoriya is missed, then he challenges Midoriya's self-undervaluation.
+- `V42:p171-175`: competitive rescue timing still draws Iida's objection; care has not made him universally tactful. **Readiness:** remains `specialist_ready`.
+
+## Uraraka Ochako — grief, professional prevention and permitted desire
+
+- `V42:p095-117`: social smiling conceals pain; Toga's death is explicitly mourned, with self-blame and counterfactual wishes for earlier encounter. Her self-blame is testimony about affect, not a narrator-certified causal verdict.
+- `V42:p133,p149-155`: Quirk counseling requires time, communication and trust beyond files; she explicitly chooses work because she likes others' happiness. Institutional resources make that labor possible. Asui asks about medical reassurance and another opinion instead of assuming a supernatural answer to dreams.
+- `V42:p155,p177-183`: an OFA-like Toga remainder is Ochako's speculation. Her growing love for Midoriya is directly narrated; the remembered/apparitional Toga permits self-directed desire. Do not generate independent postmortem Toga speech as observed fact.
+- **Readiness:** remains `specialist_ready`; the model must permit receiving care, conflict about private desire and professional initiative beyond Midoriya.
+
+## Todoroki Shoto — chosen heroism and a self beyond the ideal
+
+- `V42:p055,p061-066`: comes to Toya by choice, asks his favorite food; **Toya says soba, Shoto says they share it** (`p062-063`). Toya's subsequent apology is limited evidence of a changed sibling response, not a family-wide absolution.
+- `V42:p066`: explicitly connects Class A support to becoming who he chooses. `p134` reports decreasing identification solely as Endeavor's son.
+- `V42:p166-168`: questions a total destiny/mission frame, plans tableware craft and recognizes ordinary preference beyond even `なりたい自分`. Toya's altar is mentioned at `p167`; death during the gap is strongly implied, exact timing unobserved.
+- **Readiness:** remains `specialist_ready`; distinguish rejection of Endeavor, integrated hero self, family crisis and adult ordinary self.
+
+## Aoyama Yuga — reparative choice after offered inclusion
+
+- `V42:p045-047`: teachers/Tsukauchi allow him to remain, but he chooses to leave, atone and seek the hero path again; accepting classmates' hand motivates future equality. His sparkle, surprise and dislike of a gloomy farewell persist.
+- **Attribution correction:** the explicit negative-to-zero formulation is **Mirio's graduation speech** (`p042-043`), not Aoyama's line. Aoyama's repair ethic must be grounded in his own words/actions.
+- `V42:p164`: adult professional continuity includes working as Hagakure's sidekick. **Readiness:** remains `strong`; independent adult/private breadth is still limited.
+
+## Shoji Mezo — sustained reform and public credit
+
+- `V42:p132`: the award citation recognizes peaceful work on heteromorph incidents in outlying regions; Shoji assigns credit to those who rose eight years earlier and says he stands on their resolve. This tests his V37 intergenerational, anti-revenge policy in a later professional/public-recognition regime.
+- `V42:p163`: at the peer gathering he affirms another's achievement and cautions that words can be blades. Public courtesy, familiar group speech and ordinary social presence supplement the V37 classroom/appearance evidence.
+- **Readiness:** `moderate -> strong`, after reviewing the complete V37 entry (`V37:p117-164`), earlier rescue/team behavior and this independent adult endpoint. This is a breadth adjudication, not a promotion because an award or ending exists. Private relationships and repeated ordinary adult decision contexts still gate `specialist_ready`.
+
+## Other Class A adults — continuity with distinct responsibilities
+
+- Kirishima (`V42:p157`) takes hiring responsibility seriously after independence, drawing on Fat Gum's warning about responsibility for another person's life. Received mentorship changes his own employer policy. Remains `strong`.
+- Asui (`p149-155`) participates in counseling and challenges Ochako's concealment with concrete wellbeing questions; Jiro (`p169`) denies that neighboring offices establish a romance with Kaminari. Neither is reducible to generic supportive agreement. Both remain `strong`.
+- Iida (`p133,p163,p171-174`) combines counseling, explanation of revised rankings and task-focused correction of competition; remains `specialist_ready`. Yaoyorozu joins counseling and ordinary peers; Tokoyami retains distinctive formal/metaphorical diction and professional response. Both remain `strong`.
+- `p162-175`: cohort schedules, different employment arrangements, teasing and rapid cooperation coexist. Lower-tier members gain bounded continuity; appearances and rankings alone do not close breadth gates.

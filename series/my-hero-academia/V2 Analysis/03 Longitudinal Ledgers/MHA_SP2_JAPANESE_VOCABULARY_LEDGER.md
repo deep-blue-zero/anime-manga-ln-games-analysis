@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: JAPANESE_VOCABULARY
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1623,3 +1623,35 @@ Register rule strengthened: Hawks's politeness cannot be treated as softness, an
 - **Aoyama:** the p175 reciprocal appeal retains `僕` and theatrical `走ろう☆`; it is not evidence for an Aizawa `僕ら` register.
 - **Sero:** casual/ordinary register can carry a major ethical claim precisely because he rejects AFO's grand tragedy frame.
 - **Eri:** childlike future-oriented language expresses genuine desire/agency without mimicking adult hero rhetoric.
+
+
+# Volume 42 cumulative closure
+
+Direct Japanese-page re-verification governs these short lexical anchors; spacing/punctuation are normalized where shown. Ellipses mark excerpts, not invented continuous quotations. Speech belongs to its speaker and chronology.
+
+| Anchor / speaker | Locator | Interpretive or voice consequence |
+|---|---|---|
+| `寂しがりな人間` — Midoriya to AFO | `V42:p013` | Human classification denies Demon Lord exemption without acquittal. |
+| `許可しない` / `大好きだ` — AFO to Yoichi | `p015` | Need/love coexist with permission/ownership grammar. |
+| `やった事を許せはしない` — Midoriya | `p019` | Understanding and fighting remain compatible; not absolution. |
+| `悲しみが紡がれないように` — Midoriya; `俺が死柄木弔を紡ぐ` — Spinner | `p019,p080` | Prevent repeating sorrow while contesting erasure; the shared verb carries a real tension. |
+| `死柄木弔` / `最期まで壊す為に戦った` — terminal Tomura's requested memory | `p020` | Adult identity persists; do not replace it with a pure-child voice. |
+| `命` / `心` — Midoriya then All Might | `p030-031` | Life not saved; heart rescue is a separate supportive interpretation. |
+| `残り火` — Midoriya | `p032,p129` | Residual capacity has an eventual endpoint, not restored factors. |
+| `マイナスをゼロに戻す` / `プラスの世界` — **Mirio** | `p042-043` | Battle repairs harm; humor/laughter mark positive life beyond repair. Not Aoyama's wording. |
+| `罪を償って` — Aoyama | `p045-047` | Chosen repair after permission to stay, in continuing sparkling/familiar register. |
+| `俺に見てほしかった` — Endeavor; `ごめんな` — Toya to Shoto | `p059,p064` | Specific failure of attention; local apology with a precise recipient. |
+| `賠償と謝罪` / `一生をかけて` — Endeavor | `p065` | Ongoing duty without control over family response. |
+| `自分でなりてえように` — Shoto | `p066` | Self-authorship is explicitly supported by Class A. |
+| `死柄木弔は俺のヒーローだった` — Spinner | `p076` | Relational hero category, not narrator moral certification. |
+| `どう変えるか` — Hawks | `p069` | Agency within an institution replaces passive observation of change. |
+| `おばあちゃんが来た` — civilian woman | `p122` | Familiar reassurance makes arrival civic, without professional impersonation. |
+| `君自身が勝ち取った力` — All Might | `p141` | Collective material production need not transfer authorship away from Midoriya. |
+| `私がやりたい事をしてます` — Ochako | `p153` | Care work is a chosen desire as well as duty. |
+| `OFAが残ってたとしても` / `先生っていいな` — adult Midoriya | `p159` | Explicit counterfactual valuation of teaching. |
+| `自分を高く見積もんねーと` — adult Bakugo | `p161` | Familiar rough contraction now challenges self-undervaluation; tact remains limited. |
+| `なりたい自分以外にも` — adult Shoto | `p168` | Ordinary self exceeds even the chosen ideal. |
+| `もっと話したい` — Midoriya; `もっと好きに生きてね` — Toga apparition | `p180-181` | Particular desire and permission; apparition is mediated through Ochako. |
+| `気が合うね` — final reciprocal encounter | `p183` | Mutual movement/contact, without a formal relationship label. |
+
+Voice updates also include Asui's familiar direct concern (`p154-155`), Mirio's formal public address versus child-facing play (`p042-043,p151-152`), and Shoji's public courtesy versus peer moral caution (`p132,p163`). These are contextual register contrasts, not catchphrase-only models.

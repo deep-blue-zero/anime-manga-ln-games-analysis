@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: RECOGNITION_FAILED_RESCUE
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3187,3 +3187,27 @@ The endpoint is perceptual evidence about Midoriya, not proof that Shigaraki con
 ### Current synthesis through V41
 
 > **Recognition reaches maturity when it can see both vulnerability and agency, both origin and later self, and both another person's need and their refusal. V41's strongest failed-recognition figure is AFO, who sees an enormous amount but mistakes being able to explain a person for having the right to own the person.**
+
+
+# Volume 42 cumulative closure
+
+## Tomura: rescue must be scored on separate dimensions
+
+| Dimension | V42 evidence | Final adjudication |
+|---|---|---|
+| Personhood / adult identity | Tomura speaks separately and requests memory under his chosen name (`p018-020`). | Reached without erasure. |
+| Possession | Final AFO trajectory collapses; Tomura describes his recovered body (`p013-020`). | Defeated at the terminal endpoint. |
+| Physical survival | Midoriya says `転弧の命を救ける事は できませんでした` (`p030`). | Life not saved. |
+| Heart / affect | Hatred broken, adult League identity retained; All Might interprets a possibly saved heart (`p030-031`). | Substantial contact; speaker-attributed interpretation, not survival. |
+| Accountability / forgiveness | `やった事を許せはしない だから戦った` (`p019`). | Opposition remains; no absolution. |
+| Rehabilitation | Death closes observed future. | No behavioral evidence of a rehabilitated Tomura. |
+
+The `命`/`心` distinction is source-critical. It is a correction control for misleading summaries, not evidence that the maintained V1 V42 reading literally made the mistranslation.
+
+## Recognition needs limits as well as perception
+
+AFO knows needs and still refuses Yoichi's separateness (`V42:p014-015`); the old woman knows little but enough to approach a distressed child (`p119-123`). High-information recognition can be coercive; limited information can support morally adequate first aid. Neither establishes omniscience or a guarantee of rescue outcome.
+
+## The rescuer can need rescue
+
+`V42:p098-117`: the camera misses Ochako/Toga's ending; private grief persists while society celebrates. Midoriya offers a hand and shared burden. Toya's late sibling apology (`p062-064`) and Chisaki's boss-bound apology (`p082-083`) require separate outcome assessments, not one generic redemption label. Earlier intervention is repeatedly desired, while its counterfactual success remains unprovable.

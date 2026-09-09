@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: VILLAINS_ANTAGONISTS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3710,3 +3710,38 @@ AFO's core error is not inability to form attachment or learn. He repeatedly tur
 Do not simulate Kurogiri as either “only artificial servant” or “Shirakumo fully restored.” Current model is an altered mixed person with relational continuity and unresolved independent future.
 
 **Readiness:** remains `moderate`, very strongly strengthened.
+
+
+# Volume 42 cumulative closure
+
+## Shigaraki Tomura / Shimura Tenko — terminal distinctness, retained identity
+
+`V42:p017-020`: reappears distinctly, credits Nana with holding him from disappearance, recognizes recovery of his body from his teacher, and entrusts Midoriya with a message to Spinner under **Tomura Shigaraki**. He does not become a generic penitential Tenko. `p030-031` explicitly separates life not saved from All Might's interpretation of heart rescue; `p073-081` extends his historical/relational consequences through others' testimony. Remains `specialist_ready`; death precludes observation of rehabilitation, adult civilian adjustment or a future choice to renounce destruction.
+
+## All For One — need does not become respect
+
+`V42:p008-015`: singular Demon Lord ideology and attempts to repossess survive defeat; Midoriya names a lonely human, while AFO pleads for Yoichi with love, need and denied permission to leave. Yoichi's final framing couples the end with paying for instrumentalizing others. These are speaker-specific judgments, not moral amnesty. Remains `strong`: attachment is explicit but reciprocal ordinary relationship diversity is not.
+
+## Kurogiri / Shirakumo — two relational histories remain in one last action
+
+`V42:p009-011`: names Shota/Hizashi with apology, then asks AFO to return Shigaraki because friends are waiting; Bakugo intercepts the gate. This supports mixed continuity more precisely than simply calling him wholly Kurogiri or wholly restored Shirakumo. Remains `moderate`; no independent ordinary future is shown.
+
+## Spinner / Iguchi Shuichi — grieving friend and adversarial memorial author
+
+`V42:p073`: doctors say early Nomu-like deterioration was arrested using prior research; bodily/cognitive cost is real. `p074-078`: learns the final message was for him, names Tomura his hero, recalls shared games and his first friend. Stress-driven bodily expansion and grief remain observable, not a placid rehabilitation scene.
+
+`p078-081`: questions his failure to act one step further and chooses to write. His plan also vows to confront heroes with Tomura as a terror symbol; the scene does **not** establish pacifism or reconciliation. Midoriya promises lifelong memory; Spinner sends Shoji a brusque encouragement. Remains `strong`, broadened in reflection/history but still concentrated around League/stigma relations.
+
+## Dabi / Todoroki Toya — terminal body, local apology
+
+`V42:p056-064`: terminal prognosis and minutes-limited speech constrain action. Sarcasm toward Endeavor persists; Toya answers Shoto's food question with soba, hears they share it, then cries and says **Shoto, sorry**. This is a genuine local counterexample to a wholly unchanging hatred model, not evidence that all conduct is repudiated. `p167` mentions his altar; death during the gap is strongly inferred, precise circumstances unknown. Remains `specialist_ready`; childhood, League, self-destructive war and terminal sibling states remain distinct.
+
+## Chisaki / Overhaul — apology remains relationship-bound
+
+`V42:p082-083`: meets his surviving boss, who rejects his methods and requires lifelong remembrance of Eri's suffering, promising continued reproach. Chisaki cries and apologizes **to the boss**. This closes the meeting question but not the missing Eri-directed accountability behavior. Remains `strong`; neither affectless exploitation nor completed moral reform fits the shown evidence.
+
+## Toga / Twice / Gentle and La Brava — endpoint and afterlife controls
+
+Toga's death is explicit in Ochako's speech (`V42:p114,p155`). Later dream/apparition speech (`p146-148,p177-183`) is mediated through Ochako, with literal vestige continuity unconfirmed. Toga remains `specialist_ready`; V42 primarily alters others' relation to her. Twice's V27 terminal `specialist_ready` state remains operative and is restored to the top snapshot; later copies/memories do not create adult Jin observations.
+
+Gentle and La Brava are released following recognized wartime contributions (`p068`); adult technology-company imagery (`p130`) extends social reintegration. Cross-reference their established individual homes. Gentle remains `strong`, La Brava `moderate`; new institutional utility alone does not establish diverse private relationships.

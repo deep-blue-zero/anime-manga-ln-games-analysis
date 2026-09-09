@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: VISUAL_MOTIFS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3646,3 +3646,22 @@ Yoichi's loss drains color from AFO's world (`V41:p166`), while the mass of othe
 ## `弱き強さ`
 
 Midoriya's damaged/unfinished state is visually surrounded by people repeatedly standing and pushing the action forward (`V41:p186-188`). The motif should be read with Sero's anti-tragedy line: the image celebrates relational openness/need, not injury as a virtue in itself.
+
+
+# Volume 42 cumulative closure
+
+## Hands: meaning depends on relation and action
+
+`V42:p018-020` holds terminal adversaries in contact; `p113-114` makes grief support tangible; `p120-123` offers early civilian protection; `p140-143` returns socially supported action capacity; `p182-183` closes on voluntary adult contact. Continuity of shape does not make possession, rescue and intimacy identical. The final handclasp is a transformation in stakes and mutual choice, not proof of a formal couple label.
+
+## Body loss and the archive of a person
+
+Tomura's disintegration (`p018-021`) is followed by medical aftermath, public debate and Spinner's competing memorial (`p071-081`). Physical disappearance does not terminate historical argument. Toya's apparatus-limited face, food dialogue and tear (`p056-064`) allow local relation without undoing bodily consequence.
+
+## Visibility is not complete knowledge
+
+`p098` explicitly marks camera failure at Ochako/Toga's ending. `p095-117` moves from public recovery/social smiling to concealed pain and shared grief. The reader's privileged scene access must not become every character's knowledge.
+
+## Scale and page architecture
+
+The apocalyptic opening gives way to schools, meals, workplace scheduling, craft plans and a smaller but still dangerous incident (`p149-174`). Adult montages distribute functions and preserve different personalities. `p144-145` is authorial afterword; `p104-105,p124-125` are formal/title portraits, not literal evidence that every depicted person attends one living reunion. Narrative coda `p146-183` supplies ordinary-life evidence; its lowered stakes do not make it analytically optional.

@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: VILLAIN_FORMATION
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1940,3 +1940,22 @@ Agency must be assigned at the act/state level.
 ## Current synthesis through V41
 
 > **Villain formation in MHA is now explicitly vulnerable to predatory design: AFO can exploit real wounds, alter biological affordances, engineer catastrophe and scaffold experienced choice. But this makes causal analysis more granular, not less. The same life can contain imposed conditions, manipulated interpretation, independent relationships and accountable adult choices.**
+
+
+# Volume 42 cumulative closure
+
+## Final causality remains plural and chronology-dependent
+
+The V41 revelations increase AFO's responsibility for Tenko's conditions; V42's terminal Tomura, Spinner's memories and another endangered child do not erase family abuse, bystander omission, stigma, grooming, belonging or later choices (`V42:p018-020,p075-081,p107-123`). Keep cause, current control and accountability as different questions. Heteromorph stigma is especially evidenced through Spinner/Shoji, not silently assigned as Tenko's identical biography.
+
+## Memorial testimony is evidence with a perspective
+
+`V42:p071-081` juxtaposes victims/public commentators with Spinner's first-friend/gaming memory and self-critique. His writing project includes an adversarial vow to confront heroes with Tomura's terror symbol. It preserves excluded relational history without becoming neutral history, pacifism or narrator endorsement of destruction. Midoriya's lifelong-memory promise answers erasure without endorsing all of Spinner's claims.
+
+## Prevention interrupts a pathway without proving a counterfactual
+
+`V42:p107-123` shows the new child's abusive confinement and a later civilian hand before escalation. The child is not diagnosed as an inevitable future Shigaraki. The changed early response is textual fact; lasting prevention is a supported direction with limited follow-up. Counseling practice and regional anti-discrimination work (`p132-133,p149-153`) provide institutional complements.
+
+## Unequal endpoints resist one redemption theory
+
+Tomura dies with adult identity retained; Toga's death is mourned; Toya offers a local sibling apology while terminal; Chisaki apologizes to his boss under a demand to remember Eri; Gentle/La Brava are released after recognized contribution; Nagant delays offered release pending trust (`p056-083,p114,p155`). These do not fit either universal irredeemability or universal rehabilitation. No legal disposition or inner conversion is inferred beyond the shown case.

@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: UA_STUDENTS_STAFF
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -5107,3 +5107,24 @@ Aizawa's rationalism is not purity-seeking. He can act under identity uncertaint
 - V41 therefore strengthens the existing model of Mic as capable of hard protective thresholds around grief rather than unlimited nostalgia.
 
 **Readiness:** no forced top-tier promotion. Relationship-specific evidence is strong; independent ordinary/private breadth remains limited.
+
+
+# Volume 42 cumulative closure
+
+## Aizawa Shota — continuing supervision rather than publicity capture
+
+`V42:p044-049` keeps him with the class for another year while students enter reconstruction and a new school stage. At `p090` he declines press access because uninterested students' wishes take priority. At `p117` he objects to being left uninformed about Midoriya's embers; at `p133-134` he asks adult Midoriya about loneliness and continues candid colleague/teacher advice. Practical concern and abrasive economy coexist. Remains `specialist_ready`; Shirakumo-related grief is not resolved into an invented restored friend.
+
+## Shinso Hitoshi — formal inclusion
+
+`V42:p047` makes him the new Class A member, with provisional-license progress stated. `p163` shows adult professional continuity. This completes an institutional transition without retroactively granting early Shinso the training or access he later acquired. Remains `strong`; private/adult relationship breadth remains thin. His maintained character home stays here; Class A is a role cross-link.
+
+## Togata Mirio — recovery is a floor, positive life the objective
+
+At graduation (`V42:p042-043`) Mirio explicitly says hero battle generally returns a negative to zero, while the desired goal is a positive future in which many can laugh. He credits every department, honors Nighteye through humor/future orientation and performs the school's comic departure tradition. **The negative-to-zero line belongs to Mirio.** Adult No.1 status does not detach him from collaborative Quirk counseling (`p149-152`); he joins playful child engagement under Ochako's guidance. Remains `strong`, now with substantial postwar public and adult collaborative breadth; repeated independent private/ordinary contexts remain limited relative to specialist tier.
+
+## Eri / Big Three / institutional continuity
+
+Eri's ordinary/creative montage (`V42:p128`) supports life after the horn contribution, not an exhaustive Quirk-medical prognosis; her individual home remains the Family ledger and tier `strong`. Amajiki's adult continuity does not warrant changing `strong`; Hado's friendly collaborative presence at `p149-153` retains `moderate`. Do not import the idealized title portrait into a literal roster of living characters.
+
+Midoriya's adult teaching and outreach (`p127-141,p158-160,p175`) are staff-role cross-links to his Class A individual entry. U.A. resumes education while adapting recovery duties; the Hero Society ledger owns the system-level argument.

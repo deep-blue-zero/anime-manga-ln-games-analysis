@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: FAMILY_CIVILIANS_SOCIAL_ACTORS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -3170,3 +3170,28 @@ The developmental chain is now `received protection -> recognition of another's 
 
 ### Social-model consequence
 Do not translate the finale into “everyone is literally a professional hero.” V41 supports **distributed civic participation around specialist hero labor**, not abolition of expertise.
+
+
+# Volume 42 cumulative closure
+
+## Todoroki family — repair without one common relational verdict
+
+`V42:p055-066`: family members attend Toya voluntarily, within a terminal prognosis and severe speaking limits. Endeavor identifies not seeing him, offers continued conversation and lifetime restitution. Shoto asks about food; Toya answers soba, Shoto shares the preference, and Toya subsequently apologizes to Shoto. Natsuo ends father contact and declines a marriage introduction, while also saying he believes responsibility/penalty have been met and recognizing something admirable in Enji's latest stance. Recognition and restored intimacy therefore remain different outcomes. Fuyumi and Rei's continued presence does not authorize a universal family forgiveness claim.
+
+`V42:p167`: Toya's altar is part of Shoto's later ordinary conversation. Together with the terminal prognosis this strongly implies an intervening death; exact timing and off-panel conversations remain unknown.
+
+## The earlier Tenko bystander — a changed decision with limited knowledge
+
+`V42:p119-123`: the old woman recalls failing to help Tenko, worries whether help ever arrived, and now approaches another visibly distressed child. At `p122`, “Grandma is here” transforms All Might's arrival grammar into immediate civilian reassurance. Her changed choice is direct evidence; a broad personality, occupation, legal guardianship or future care arrangement is not supplied.
+
+## The new endangered child — interrupted abandonment, no invented destiny
+
+`V42:p051-053,p107-108`: confinement, a sewn mouth, frightening Quirk difference and family abandonment produce fear/sadness and anger at apparently happy passersby. `p120-123` shows approach, hand contact and tears. The formal parallel to Tenko is strong; certainty that he would otherwise become a villain is unsupported. No expansive readiness model is inferred from one episode.
+
+## Eri, Kota and ordinary continuity
+
+`V42:p128` depicts Eri in ordinary/creative continuity; it does not answer every medical or Quirk consequence of V41's horn injury. She remains `strong`. `p127,p132` gives Kota a later student/mentor relation and friendly initiative; it does not create adult personality breadth. Title portraits and authorial notes are not substituted for events.
+
+## Civilian recovery labor
+
+`V42:p023-026,p093-095`: international assistance, local rebuilding, food and new students' voluntary work distribute recovery. Material loss persists and gratitude does not reimburse it. The Hero Society ledger owns institutional consequences; this ledger preserves the limited actors/actions rather than inventing comprehensive anonymous-character models.

@@ -1,10 +1,10 @@
 ---
 series: MHA
 artifact_type: locator_index
-scope: V01-V41
+scope: V01-V42
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 41
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2156,3 +2156,27 @@ Anchor checks: raw `0004` right=`p006`, left=`p007`; raw `0012` left=`p023`; raw
 | V41:p187-188 | `弱き強さ`; Midoriya's need mobilizes repeated participation |
 | V41:p189-194 | global/civilian encouragement convergence |
 | V41:p195 | final V41 punch / frozen prospective endpoint; outcome remains V42 OPEN |
+
+
+# Volume 42 cumulative closure
+
+## Verified final main-volume source
+
+- `My Hero Academia - Vol. 42 [Japanese].cbz`; Drive `1HiFWIMVIizGLbqlfVmK1xvTSwA3Rqi9O`.
+- Size **89,885,814 bytes**; SHA-256 `969bd3ca1df7cea2f2e6e2aae16eae77c4717d82c09f7ee372f22a5d195b86c3`.
+- 193 JPEG logical pages plus `ComicInfo.xml`; JPEG number equals logical page.
+- Chapters 423–431; encompassing sequence `V42:p005-p183`. `p145` is authorial paratext; `p184+` publication/end matter. Other credits, interstitial notes and title-only portraits inside the encompassing interval are not in-world events; see the V42 reconciliation audit's page-classification table. In particular `p144` joins `p145` as afterword.
+
+| Chapter | Start | Retrieval anchors |
+|---|---|---|
+| 423 | `p005` | Kurogiri mixed relational action `p009-011`; AFO/Yoichi `p013-015`; terminal Tomura/message `p018-020` |
+| 424 | `p023` | rebuilding `p023-026`; Bakugo rehab `p027-028`; life/heart/embers `p030-035` |
+| 425 | `p039` | Mirio positive-future speech `p042-043`; Aoyama choice/Shinso inclusion `p045-047` |
+| 426 | `p055` | terminal Toya `p056`; Endeavor recognition/duty `p059-066`; soba/apology `p062-064`; Nagant/Hawks/Gentle `p067-069` |
+| 427 | `p071` | public/Spinner accounts `p071-081`; Chisaki/boss `p082-083` |
+| 428 | `p087` | Aizawa media boundary `p090`; civic labor `p093-095`; missing camera/grief `p098-103` |
+| 429 | `p104` title portrait; narrative continues `p107` | child confinement `p107-108`; shared grief `p110-117`; chart proposal `p118-119`; civilian hand `p120-123` |
+| 430 | `p124` title portrait; narrative `p127` | embers/time `p129-130`; Shoji `p132`; counseling `p133`; teacher/Dai `p134-139`; armor `p140-143` |
+| 431 | `p146`; title `p148` | counseling/voice `p149-155`; recruiting/vocation `p156-161`; adult group `p162-175`; Shoto `p166-168`; mutual more `p177-183` |
+
+All `p005-p183` pages were directly viewed during reconciliation. The formal/paratext distinction is applied page by page; no supplemental author comment is silently promoted as dialogue or a depicted event.
