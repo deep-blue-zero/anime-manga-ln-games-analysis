@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0089; 21 earlier universal screens remain pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 21 earlier universal screens remain pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2365,3 +2365,74 @@ next_event: EVENT_0090
 | Empty group / ordinary participation | `PJSK:event:0089:02:004:0002–0005`; `PJSK:area:areatalk_ev_night_12_001:01`; `PJSK:area:areatalk_ev_night_12_004:01`; `PJSK:area:areatalk_ev_night_12_005:01` | Miku’s finished Ena-given book, conditional blouse plan, accepted listening/no critique shown, Luka’s friendship joke not certification. |
 
 All 23 declared witness rows are in the shared reading. N25 I3 is integrated; the reported Leo/need CROSS_UNIT route remains material and deferred. MMJ/VBS/WxS NONE; do not identify the unnamed shop-working classmate from roster memory. No complete-envelope reopen required. Earlier gaps and remaining completion dependencies persist; next EVENT_0090.
+
+## EVENT_0090 — 交響する街の片隅で
+
+```yaml
+release_id: EVENT_0090
+release_bucket: RB_20230330T060000Z
+screen_status: UNIVERSAL_SCREEN_COMPLETE
+source_cutoff: PJSK_SOURCE_20260822T184634Z_EVENT_0213
+complete_envelope: "8 core + 10 card halves + 7 archive-publication/event-unlock areas = 25"
+core_locators: [PJSK:event:0090:01, PJSK:event:0090:02, PJSK:event:0090:03, PJSK:event:0090:04, PJSK:event:0090:05, PJSK:event:0090:06, PJSK:event:0090:07, PJSK:event:0090:08]
+card_locators: [PJSK:card:0619:01, PJSK:card:0619:02, PJSK:card:0620:01, PJSK:card:0620:02, PJSK:card:0621:01, PJSK:card:0621:02, PJSK:card:0622:01, PJSK:card:0622:02, PJSK:card:0623:01, PJSK:card:0623:02]
+area_locators: [PJSK:area:areatalk_ev_shuffle_30_001:01, PJSK:area:areatalk_ev_shuffle_30_002:01, PJSK:area:areatalk_ev_shuffle_30_003:01, PJSK:area:areatalk_ev_shuffle_30_004:01, PJSK:area:areatalk_ev_shuffle_30_005:01, PJSK:area:areatalk_monthly2303_001:01, PJSK:area:areatalk_monthly2303_002:01]
+chronology_note: "Core and card 0623 06:00Z; cards 0619–0622 03:00Z. All seven areas March 30 archive publication, no initial-availability bucket, separate chapter-8 condition 108908 / episode 1000728. Pre-exhibition/pre-flyer cards, later rehearsal and School Miku fantasy remain distinct."
+unit_routes:
+  N25:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: I2
+    reconstruction_yield: R3
+    characters: [Ena, Yukihira, Kanade_reported, Mizuki_reported, Shiho, An, Honami_reported, Akito, Airi_reported, Shizuku_reported]
+    manifestations: []
+    domains: [subject_led_art, technique_expression, qualified_reception, criticism_response, deliberate_practice, cross_unit_introduction, artistic_disclosure, ordinary_care, embarrassment, illustrator_interest, knowledge_limits]
+    locators: [PJSK:event:0090:04, PJSK:event:0090:05, PJSK:card:0621:01, PJSK:card:0621:02, PJSK:area:areatalk_ev_shuffle_30_002:01, PJSK:area:areatalk_ev_shuffle_30_003:01]
+  LEO_NEED:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Shiho, Ichika, Saki, Honami, An, Ena, Nene, Shizuku, Minori, venue_manager, music_shop_owner]
+    manifestations: [School_Miku, School_Rin, School_Len, School_Luka, School_MEIKO, School_KAITO]
+    domains: [cross_genre_listening, interpreted_intensity, mutual_ensemble_effort, reciprocal_session, rehearsal_accountability, equipment_cost_care, practical_help, future_dream, support_collaboration, embarrassment, family_repair, dogs]
+    locators: [PJSK:event:0090, PJSK:card:0619, PJSK:card:0622, PJSK:area:areatalk_ev_shuffle_30_001:01, PJSK:area:areatalk_ev_shuffle_30_003:01, PJSK:area:areatalk_ev_shuffle_30_004:01, PJSK:area:areatalk_ev_shuffle_30_005:01, PJSK:area:areatalk_monthly2303_001:01, PJSK:area:areatalk_monthly2303_002:01]
+  VBS:
+    relevance: PRIMARY
+    future_review_priority: HIGH
+    analytical_salience: VERY_HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [An, Kohane, Akito, Toya, Ken, Shiho, Ena, Nene, neighbourhood_residents]
+    manifestations: [Street_Miku]
+    domains: [admiration, comparative_pressure, partner_attachment, private_practice, selective_disclosure, partial_relief, responsive_improvisation, fallible_interpretation, local_recognition, shop_work, ordinary_friendship]
+    locators: [PJSK:event:0090:01, PJSK:event:0090:02, PJSK:event:0090:03, PJSK:event:0090:06, PJSK:event:0090:07, PJSK:event:0090:08, PJSK:card:0620, PJSK:area:areatalk_ev_shuffle_30_001:01, PJSK:area:areatalk_ev_shuffle_30_002:01, PJSK:area:areatalk_ev_shuffle_30_003:01]
+  WXS:
+    relevance: SECONDARY
+    future_review_priority: HIGH
+    analytical_salience: HIGH
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R3
+    characters: [Nene, Tsukasa, Rui, Emu, Shiho, An, acting_colleagues]
+    manifestations: []
+    domains: [role_comprehension, imperfect_analogy, comparative_pressure, chosen_participation, rehearsal_initiative, requested_feedback, audience_legibility, reciprocal_encouragement, reported_location]
+    locators: [PJSK:event:0090:08, PJSK:card:0623, PJSK:area:areatalk_ev_shuffle_30_004:01]
+  MMJ:
+    relevance: CROSS_UNIT
+    future_review_priority: LOW
+    analytical_salience: LOW
+    baseline_impact: DEFERRED_PENDING_FOUNDATION
+    reconstruction_yield: R1
+    characters: [Minori, Honami, Shizuku, Shiho, Ena, Airi_reported]
+    manifestations: []
+    domains: [shared_dog_walking, practical_family_error_repair, respected_schedule, future_invitation, reported_acquaintance]
+    locators: [PJSK:event:0090:04:001:0002–0013, PJSK:area:areatalk_monthly2303_001:01, PJSK:area:areatalk_monthly2303_002:01]
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0090_DEEP_READING.md
+backfill_quality: COMPLETE_ENVELOPE_WITH_RECORD_LEVEL_CLAIM_LOCATORS
+full_envelope_reopen_required: false
+next_event: EVENT_0091
+```
+
+The shared reading owns record-level evidence and 25 actual canonical witness hashes. Reuse its separate sections for Ena's intended-subject/technique/reception sequence, Shiho's practice-accountability and musical exchange, An's continuing pressure after partial relief, Nene's incomplete but enacted rehearsal initiative, and School/Street Miku's distinct knowledge. No future debut, professional mastery, fixed fish-pair symbolism or unshown private-content transfer follows. N25 I2 is integrated; four material unit routes remain deferred. Earlier gaps and remaining architecture dependencies persist; next EVENT_0091.

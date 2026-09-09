@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationships through EVENT_0089; informed protective commitment, discovered collaboration, direct maternal negotiation and Empty KAITO arrival"
-analysis_cutoff: "EVENT_0089 I3; REL-N25-KM-8 and bounded family/KAITO records current; earlier unaffected IDs retained"
+source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained"
+analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-Relationship authority reaches **EVENT_0089**, an I3 transition. **`REL-N25-KM-8`** succeeds KM-7, retaining reciprocal positive-affect/ordinary support while adding Kanade’s informed refusal to withdraw under maternal pressure. **`REL-FAMILY-MAFUYU-MOTHER-E0089`** succeeds E0035 as the current operational phase; direct negotiation has its own **`REL-N25-KANADE-MAFUYU-MOTHER-E0089`** record. **`REL-N25-VS-KAITO-GROUP-E0089`** initializes the contested Empty newcomer relationship. These changes do not confer shared knowledge of the hotel exchange or erase prior affection/agency. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records, with the bounded increments below.
+Relationship authority reaches **EVENT_0090**, adding `REL-CROSS-ENA-SHIHO-E0090` and `REL-CROSS-ENA-AN-E0090` as bounded acquaintance records. Shiho's shown introduction differs from An's already established acquaintance; neither establishes intimate or guarded N25 knowledge. Existing creative/group bonds receive contextual evidence without successor IDs.
 
-Earlier overview and pending-domain statements are historical handoffs, and `REL-N25-EM-4` remains historical through EVENT_0076 despite its older cutoff-local “current” label. `REL-CROSS-MAFUYU-SHIZUKU-E0033` remains the historical analytical default through EVENT_0079, with newly revealed first-year observations applied only to their depicted times. The next forward event is EVENT_0090. KM-7 and the E0035 family record remain historical defaults through EVENT_0088; the successor records preserve their earlier evidence. Other foundations and the 21 earlier universal-screen gaps remain unfinished coverage obligations.
+EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. Other foundations and 21 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
 
 ## 1. Purpose
 
@@ -1730,3 +1730,19 @@ He accepts a music-listening request with a candor condition; actual feedback is
 - `REL-N25-GM-E0054` and established Rin/Len refuge records: Miku reports finishing an Ena-given book; no identity match with E0087’s Len loan is established. Rin/Len’s reassurance is directly accepted by Mafuyu (`PJSK:event:0089:02:004:0002–0005`; `PJSK:area:areatalk_ev_night_12_002:01`).
 
 Current relationships require the epistemic ledger’s unequal-information constraints. Other units remain unfounded, no complete package is certified, and next event is EVENT_0090.
+
+## EVENT_0090 relationship increment — artistic reception and ordinary acquaintance
+
+### `REL-CROSS-ENA-SHIHO-E0090` — introduced acquaintance with bounded artistic exchange
+
+**Prior:** no dedicated canonical dyad record; Shiho recognizes Ena from Honami's kindergarten photograph/report. **Valid from:** the core chapter-4 introduction; **through:** EVENT_0090. **Status:** ACTIVE_PROVISIONAL, high confidence for observed contact, no claim of close friendship. Ena learns she is Shizuku's sister; Shiho later learns Ena is Akito's sister and hears the generic music-circle role. Ena discusses her work/aspirations and receives a specific communicative response from Shiho. Later the music-shop conversation gives Ena a modestly accepted artist-viewpoint role (`PJSK:event:0090:04:001:0002–0013`; `PJSK:event:0090:05:001:0017–0059`; `PJSK:area:areatalk_ev_shuffle_30_003:01`).
+
+**Directional limit:** Ena's account inspires Shiho, but Ena is not shown learning the subsequent musical session. Reception of a peaceful feeling does not reveal N25 identities or private crises. No reciprocity of equal expertise, future concert attendance or enduring intimacy is asserted. Distinct responsibility warrants this record, not a global I3 by itself.
+
+### `REL-CROSS-ENA-AN-E0090` — existing acquaintance with artistic reception and practical care
+
+**Prior:** already acquainted in the depicted encounter; no first-meeting claim. **Valid through:** EVENT_0090. **Status:** ACTIVE_PROVISIONAL, high confidence for shown exchange. An facilitates the exhibition encounter, responds to Ena's sketch and already knows she works with a music circle. Later Ena cleans dust from An's back; An appreciates the care, reports unspecified Mizuki talk and wishes for such an older sister, while Ena reacts shyly (`PJSK:event:0090:04:001`; `PJSK:event:0090:05:001:0017–0049`; `PJSK:area:areatalk_ev_shuffle_30_002:01`).
+
+**Directional limit:** warm reciprocal response does not replace their existing relationships or transmit Mizuki's guarded content. An's private comparative worry is not disclosed to Ena here. The art-shop exchange adds shared interest without certifying professional authority (`PJSK:area:areatalk_ev_shuffle_30_003:01`).
+
+**Preserve established N25 relationships.** Ena's wish to express her colleagues' music supplies her own continuing commitment; it does not independently prove a new Kanade response or group transition. `REL-CROSS-ENA-HONAMI-E0070` receives only Honami's attributed photograph/report bridge, not a fresh direct Ena–Honami encounter. Yukihira's selected feedback belongs to the established learning context, with the artist's dissent and application both retained. Other-unit dyads remain routed pending their foundations. No guarded-content or hotel-meeting knowledge transfer.

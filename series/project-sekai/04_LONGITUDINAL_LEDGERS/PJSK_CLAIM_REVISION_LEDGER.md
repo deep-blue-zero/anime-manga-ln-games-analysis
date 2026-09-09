@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0089; K-096/G-097/VS-098 added, maternal discovery resolved and established agency/care claims refined"
-analysis_cutoff: "EVENT_0089 I3; Kanade state and independent relationship/epistemic transitions with bounded claim review"
+source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID"
+analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 claim authority reaches **EVENT_0089**, adding `CR-N25-K-096`, `CR-N25-G-097` and `CR-N25-VS-098`, resolving maternal search/discovery and refining established care/agency formulations. The release supports `K-E0089-01` and separate relationship/epistemic transitions; it does not revise Mafuyu into completed independence or taste recovery. EVENT_0084’s K-027 operational refinement and all valid prior increments remain. Preserve EVENT_0080’s MF-094/MF-095 and EVENT_0077’s E-091/MF-092/FAMILY-093, including the chronological correction to MF-088. Earlier summaries are historical handoffs; claim revisions apply only within their boundaries. Source currency alone confers no analytical authority.
+N25 claim authority reaches **EVENT_0090**, refining `CR-N25-E-085` and strengthening `CR-N25-E-086` / `CR-N25-ENA-021` without adding a duplicate claim. E0070's subject-sensitive pedagogy rule remains bounded; Ena is a learner here. Preserve EVENT_0089's `CR-N25-K-096`, `CR-N25-G-097`, `CR-N25-VS-098`, resolved maternal discovery and qualified care/agency refinements, EVENT_0084's K-027 refinement, EVENT_0080's MF-094/MF-095 and EVENT_0077's E-091/MF-092/FAMILY-093 with the MF-088 chronological correction. No professional certainty, completed liberation or shared private knowledge is established. Earlier summaries are historical handoffs; source currency alone confers no analytical authority.
 
 The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
 
@@ -1315,3 +1315,12 @@ Do not label harshness a demonstrated cure, all refuge mere stagnation, or KAITO
 - **`CR-N25-K-042`, `CR-N25-K-044`, `CR-N25-K-081`, `CR-N25-K-082`: STRENGTHEN differentiated inheritance.** Parental memories include positive self-directed permission; shared work and received tea help Kanade; persistent duty and sleep-displacing work remain (`PJSK:event:0089:02:002`; `PJSK:event:0089:08:002`; `PJSK:card:0612:01`; `PJSK:card:0612:02`). No guilt-resolution or general health-efficacy claim.
 
 Current tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; no additional claim IDs. Inherited collision qualifiers remain mandatory. Next EVENT_0090.
+
+## EVENT_0090 claim refinement — expressive aim directs technical choices
+
+- **`CR-N25-E-085`: REFINE operationally, high confidence.** Prior separability/integration of technical finish and expressive value now receives a deliberate decision rule: determine the subject/feeling, then choose sensory properties serving it. Ena considers altering literal light/shadow to retain warmth while correcting composition and perspective (`PJSK:card:0621:01:001:0004–0039`; `PJSK:card:0621:02:001:0002–0011`; `PJSK:card:0621:02:001:0026–0044`). This does not prove every departure succeeds or make observational technique dispensable.
+- **`CR-N25-E-086`: STRENGTHEN, high confidence with reception limit.** Ena names defects and accepts that An/Shiho received the wanted peaceful feeling. She additionally notices they shared the subject, qualifying generalization from one success (`PJSK:event:0090:05:001:0002–0028`; `PJSK:card:0621:02:001:0026–0044`). This continues E0070/E0077, not first-ever self-authorization or stable professional confidence.
+- **`CR-N25-ENA-021`: STRENGTHEN bounded continuation.** Comparison and criticism lead to concrete self-chosen practice and a wish to communicate colleagues' music better (`PJSK:event:0090:05:001:0042–0055`; `PJSK:card:0621:02:001:0040–0054`). No future talent, revised picture or increased audience is guaranteed. The E0070 dangling E-057 talent-continuation reference resolves to this established claim.
+- **`CR-N25-E-087`: PRESERVE, no new teaching outcome.** Ena interrogates and uses another person's goal-sensitive advice here. This is consonant with the prior pedagogy model but is not another scene of Ena successfully teaching someone else.
+
+All prior state/relationship claims survive, including K-E0089-01's protection alongside rescue obligation and the limits on Mafuyu's agency, taste and hotel knowledge. No new permanent claim ID or retrospective overwrite. An's partial relief, Shiho's rehearsal result and Nene's initiative remain deferred source-supported propositions, not current N25 claims or premature full-unit conclusions.

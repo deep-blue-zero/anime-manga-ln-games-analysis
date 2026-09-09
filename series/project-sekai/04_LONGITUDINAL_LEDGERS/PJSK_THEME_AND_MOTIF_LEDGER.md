@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 thematic integration through EVENT_0089; first-person authority, usable choice, reciprocal warmth and contested refuge refined"
-analysis_cutoff: "EVENT_0089 I3 thematic integration; existing themes/motifs refined, no new recurring ID; other-unit comparison deferred"
+source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID"
+analysis_cutoff: "EVENT_0090 I2 thematic refinement; broader comparison awaits founded longitudinal interpretation"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0089**, refining first-person authority, usable choice, reciprocal warmth, partial efficacy and Empty SEKAI’s refuge function. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Earlier evidence and ID-qualified meanings remain valid within their boundaries. The current release does not certify a franchise-wide theory, completed liberation or successful treatment through confrontation. Other-unit foundations and 21 older universal screens remain unfinished.
+N25 thematic authority reaches **EVENT_0090**, operationalizing `TH-N25-032`'s technique-expression relation and qualifying `TH-N25-003`'s use of art as psychological evidence with dialogue and reception context. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Preserve EVENT_0089's first-person authority, usable choice, reciprocal warmth, partial efficacy and contested refuge refinements, and all earlier ID-qualified meanings. Other-unit foundations and 21 older universal screens remain unfinished; this event does not certify a franchise-wide theory.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -1241,3 +1241,10 @@ Bought gifts, handmade gifts, recipient pleasure and maker pleasure are not rank
 - **`TH-N25-014` / ordinary-life expansion without cure: STRENGTHEN.** Needed art supplies, genuine anime/fashion interest, retail-work discussion, food help, blouse teasing and a reported finished picture book preserve lived companionship alongside the crisis (`PJSK:card:0613:01`; `PJSK:card:0614:01`; `PJSK:card:0614:02`; `PJSK:area:areatalk_ev_night_12_001:01`; `PJSK:event:0089:02:004:0002–0005`). No future shopping trip or distinct book-loan completion is inferred.
 
 The event’s discord is an enacted disagreement over meaning and access; the title does not by itself establish a technical or universal symbolic theory. No new recurring motif ID or premature cross-unit synthesis. Current N25 thematic boundary EVENT_0089; next EVENT_0090.
+
+## EVENT_0090 thematic refinement — the intended feeling selects the representation
+
+- **`TH-N25-032`: REFINE.** Ena can correct some literal/technical properties and intentionally alter others in service of the wanted warmth. Subject-led choice and continued practice extend the existing integration of skill and self-authored value; neither technical perfection nor rejection of technique follows (`PJSK:card:0621:01:001:0004–0039`; `PJSK:card:0621:02:001:0002–0011`; `PJSK:card:0621:02:001:0026–0044`).
+- **`TH-N25-003`: STRENGTHEN with interpretation limits.** Ena articulates peaceful company through a sketch and receives that reading, while recognizing a shared viewing context. Shiho initially admires an intense sound without knowing its cause; later dialogue supports a more specific interpretation. Work can communicate feeling without granting transparent access to every private motive (`PJSK:event:0090:05:001:0002–0028`; `PJSK:event:0090:06:002:0034–0077`; `PJSK:event:0090:07:001:0002–0049`; `PJSK:card:0621:02:001:0026–0044`).
+
+The fish pair is Ena's chosen local image of peaceful company, not an established real pairing, fixed N25 character map or guarantee of permanent togetherness. Nene's nonliteral acting advice is a useful deferred comparison, but no pedagogical transmission from Yukihira to Nene is shown. Painful effort is not uniquely authentic: excellent café singing and a joyful session remain valid, while later An material preserves continuing pressure and concealment. Existing theme responsibilities suffice; no new recurring motif or final comparative synthesis. Next EVENT_0091.

@@ -49,14 +49,14 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — updated through EVENT_0089 on 2026-09-09
+### Current coverage — updated through EVENT_0090 on 2026-09-09
 
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
-- Latest closed forward transaction and positive N25 integration: `EVENT_0089`, I3 Kanade psychological plus relationship/epistemic transitions; next `EVENT_0090`. All six longitudinal ledgers reach EVENT_0089. `K-E0089-01`, `REL-N25-KM-8`, two bounded family/negotiation records and Empty KAITO’s group record apply with unequal-information limits. Preserve EVENT_0080’s Mafuyu–Shizuku state, `REL-N25-EM-5`, the E0077 desire/disclosure corrections and all unaffected earlier increments. No complete liberation, taste recovery or shared hotel knowledge is established.
+- Latest closed forward transaction and positive N25 integration: `EVENT_0090`, I2 Ena expressive-method refinement; next `EVENT_0091`. All six longitudinal ledgers reach EVENT_0090. Two bounded cross-unit relationship responsibilities and three epistemic records are added without a new global human state. Preserve EVENT_0089's protective/family/KAITO records and unequal-information limits, EVENT_0080's Mafuyu–Shizuku state, `REL-N25-EM-5`, E0077 corrections and all unaffected increments. No completed art career, liberation or taste recovery.
 - Current N25 tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`.
 - Completed main-story foundation: N25. Remaining foundations: LEO_NEED, MMJ, VBS, WXS.
-- Franchise routing inventory reaches EVENT_0089, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
-- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0089 universal screens and earlier reusable complete readings retain their bounded authority.
+- Franchise routing inventory reaches EVENT_0090, but gap-free universal screening is **not complete**: 21 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0001`, `0003`, `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Material routes for the four unfounded units still require foundation-aware interpretation. EVENT_0046–0090 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
 - Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
 
@@ -990,3 +990,19 @@ CURRENT AUTHORITY AFTER EVENT_0089
 - Current successors `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`; new direct-negotiation and Empty KAITO group records. Unaffected IDs/E0077 corrections remain intact.
 - Mother’s discovery is now shown; Mafuyu’s hotel knowledge and future arrangements remain unshown. No inference of inevitable maternal future, recovered taste or therapeutic success of confrontation.
 - Four foundations/material deferred integrations, 21 earlier screens, packages/readiness, syntheses, final audits and final protected integration remain incomplete.
+
+EVENT_0090 — FULL_DEEP_READING / UNIVERSAL_SCREEN_COMPLETE / N25_I2_INTEGRATED / FOUR_UNIT_ROUTES_DEFERRED
+
+Artifact: [MIXED/PJSK_EVENT_0090_DEEP_READING.md](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0090_DEEP_READING.md).
+All 25 canonical stories fully read and actual SHA-256 matched: core 01–08, cards 0619–0623 both halves, five shuffle_30 and two monthly2303 areas. Seven March 30 archive publications have no initial-availability bucket; chapter-8 condition 108908 / episode 1000728 is independently retained. Source witness hashes are in the reading. School and Street manifestations are kept separate; no Empty singer appears.
+
+N25 PRIMARY/HIGH/R3-yield I2 refines Ena's subject-led technique, acceptance of communicative value with defects, and context-qualified reception. Bounded Ena–Shiho/Ena–An relationships and three knowledge records integrate the new contacts without guarded N25 disclosure. All six ledgers update; no successor human state, duplicate permanent claim/motif or full reconstruction certification.
+
+Leo/need PRIMARY/HIGH/R3, VBS PRIMARY/VERY_HIGH/R3, WxS SECONDARY/HIGH/R3 and MMJ CROSS_UNIT/LOW/R1 remain material deferred routes. Shiho's rehearsal procedure, An's partial relief, Nene's follow-through and ordinary cross-unit reciprocity retain exact evidence and uncompleted-outcome limits.
+
+CURRENT AUTHORITY AFTER EVENT_0090
+
+- Documentary/positive N25 boundary EVENT_0090 I2; next EVENT_0091. All six ledgers synchronized.
+- Current tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; EVENT_0089 remains latest global human and major N25 relationship/epistemic I3.
+- EVENT_0089 unequal-knowledge/family/KAITO limits, EVENT_0080 and EVENT_0077 corrections and all unaffected prior IDs survive.
+- Four canonical foundations/material deferred integrations, 21 earlier screens, packages/readiness, syntheses, final audits and final protected integration remain incomplete.

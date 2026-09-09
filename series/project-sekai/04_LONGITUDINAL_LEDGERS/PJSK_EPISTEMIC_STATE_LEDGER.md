@@ -5,8 +5,8 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic state through EVENT_0089; direct maternal discovery/negotiation, bounded disclosure transfers and Empty KAITO acquired history"
-analysis_cutoff: "EVENT_0089 I3 epistemic changes; participant knowledge, private interpretations and unshown transmission remain separate"
+source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained"
+analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The latest integrated epistemic boundary is **EVENT_0089**, an I3 transition. Maternal computer search and successful discovery are now directly shown; earlier OPEN statements remain correct only at their historical boundaries. Kanade learns the prior voiced music wish from Mafuyu and the doctor-path demand from her mother; Ena/Mizuki receive bounded contact/meeting knowledge. Mafuyu is not shown learning the hotel exchange. Empty KAITO acquires history from Miku, observes resistance, and privately recognizes the need to consider another approach. His judgments, Kanade’s marionette interpretation and forecasts about the mother are attributed beliefs rather than omniscient narrative facts. All earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods.
+The latest integrated epistemic boundary is **EVENT_0090**, adding `EPI-N25-E-E0090`, `EPI-CROSS-SHIHO-ENA-E0090` and `EPI-CROSS-AN-ENA-E0090`. Ena learns a narrower subject-led use for critique and receives qualified evidence of communicative success. Shiho learns identities and a generic creative role; An's existing acquaintance is extended without revealing guarded N25 content. Observation, report, private interpretation and hoped-for output remain separate.
 
-Mizuki's guarded content remains undisclosed. No broad emotion, taste or vocation recovery is established. Cross-unit familiarity and manifestation reports confer only recorded knowledge. Next forward transaction EVENT_0090; the 21 older screen gaps and four remaining foundations retain separate unfinished status.
+Preserve EVENT_0089's directly shown maternal discovery, Kanade's changed understanding, bounded Ena/Mizuki contact information and Empty KAITO's acquired history. Mafuyu is not shown learning the hotel exchange; Mizuki's guarded content remains undisclosed. School and Street Miku do not share a mind or automatically exchange knowledge. Earlier knowledge and E0077 transmission/chronology corrections remain in their proper periods. Next EVENT_0091; 21 older screens and four remaining canonical foundations are separate unfinished obligations.
 
 ## 1. Purpose
 
@@ -1494,3 +1494,13 @@ Miku supplies the host/group history, prior disappearance wishes and gradual pos
 Luka explicitly saw the conversation without hearing its contents. KAITO’s thought that music is the sole thing reaching Mafuyu is his interpretation of Miku’s report, not a rejection of the envelope’s restaurant/refuge effects (`PJSK:card:0615:02:001:0060–0065`; `PJSK:area:areatalk_ev_night_12_004:01`). Agreed listening provides no reported critique. Rin/Len’s knowledge of Mafuyu’s avoidance grounds direct reassurance; no complete shared VS mind is assumed.
 
 Next EVENT_0090. State and relationship successors operate with these knowledge limits; guarded-content nondisclosure, prior history and earlier bounded cross-unit ignorance remain intact.
+
+## EVENT_0090 epistemic increment — response is evidence with a context
+
+| Record | Prior / trigger / knowledge gained | Mode, timing and limits |
+|---|---|---|
+| `EPI-N25-E-E0090` | Ena starts with a water-texture exercise; Yukihira's feedback prompts consideration of subject, temperature and movement. After the exhibition she knows An/Shiho received the intended warmth and identifies remaining defects. | Critique is directly heard, its useful meaning is Ena's inference, reception is direct participant feedback. Shared viewing may have helped. Her intended revision, Kanade's response and wider audience are unknown. High confidence in bounded gains. `PJSK:card:0621:01:001:0004–0039`; `PJSK:event:0090:05:001:0002–0028`; `PJSK:card:0621:02:001:0026–0054`. |
+| `EPI-CROSS-SHIHO-ENA-E0090` | Prior recognition via Honami's photograph/report; direct introduction; learns sibling identity and Ena's generic circle/art role, hears desire to express peers' music. | Introduction/report in core 04–05, not permission to infer N25 member identities, home crises or SEKAI. Her interpretation of Ena's concentrated face is an observation/appraisal. High confidence in explicit transfer. `PJSK:event:0090:04:001:0002–0013`; `PJSK:event:0090:05:001:0033–0059`. |
+| `EPI-CROSS-AN-ENA-E0090` | Existing acquaintance and circle awareness; sees the sketch, hears Ena's artistic aim and later receives small practical care. | An says Mizuki talks about Ena; report contents remain unspecified. No knowledge of the teacher's entire critique, private N25 difficulties or guarded content follows. High confidence in direct exchange, OPEN on unspecified report detail. `PJSK:event:0090:05:001:0017–0055`; `PJSK:area:areatalk_ev_shuffle_30_002:01`. |
+
+**Cross-unit routed limits:** Shiho gains An's named growth-pressure account after analogy and inquiry; the reader has additional private material. Nene learns through the session and tells WxS, but is not shown knowing the exhibition exchange or An's entire concern. Ena is not shown knowing the session. School Miku observes via Shiho while Street Miku has her own earlier/later conversations with An. Imagined debut/view counts in card 0622:02 are fantasy, not knowledge of a completed career. No cross-manifestation communication or shared psyche is shown. Use the shared reading's exact locators for these deferred responsibilities; no baseline-relative impact is assigned to the unfounded units.

@@ -4,20 +4,20 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Universal screening and positive N25 integration through EVENT_0089; N25 I3 and bounded Leo/need report deferred"
+source_boundary: "Universal screening and positive N25 integration through EVENT_0090; N25 I2 with four material other-unit routes deferred"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "EVENT_0089 I3 Kanade psychological, relationship and epistemic transitions; all six ledgers synchronized"
+analysis_cutoff: "EVENT_0090 I2 Ena expressive-method refinement; all six ledgers synchronized; current human tuple retained"
 ---
 
 # Project SEKAI Release Impact Ledger
 
 ## Current execution handoff
 
-The last completed forward event transaction is **EVENT_0089**; the next is **EVENT_0090**. Documentary screening and positive N25 integration reach EVENT_0089 I3, with a Kanade psychological transition and independent relationship/epistemic changes. All six longitudinal ledgers reach this boundary. Current tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; `REL-N25-KM-8`, the two new bounded family/negotiation records and Empty KAITO’s group record apply with participant-specific knowledge limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, EVENT_0077’s desire/disclosure corrections and all unaffected history. Earlier pending-release passages are historical handoffs at their surrounding boundaries.
+The last completed forward event transaction is **EVENT_0090**; the next is **EVENT_0091**. Its 25-story complete envelope produces N25 I2: Ena's existing aesthetic model receives explicit subject-led technique and contextual reception refinements plus bounded cross-unit relationship/knowledge increments. All six longitudinal ledgers reach this boundary. Current tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` is preserved. EVENT_0089 remains the latest global human and major N25 relationship/epistemic I3; its family/KAITO and unequal-knowledge limits remain current alongside all unaffected history and E0077 corrections.
 
-The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package.
+The authorized run is `continuous_sequential` through `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. Final coverage also requires 21 older universal screens and founded interpretation of deferred routes. I0–I3 scores apply only where a mature baseline exists; event-local R3 yield does not certify a reconstruction-ready package. Earlier pending-release passages are historical handoffs.
 
 ## 1. Purpose
 
@@ -2382,3 +2382,32 @@ All 23 canonical stories are fully read and manifest/review matched. Core and ca
 N25 PRIMARY/VERY_HIGH/R3-yield I3: Kanade’s failed parental-trust premise yields sustained protective refusal, while rescue obligation and reciprocal self-permission persist. Maternal discovery/negotiation changes relational access and knowledge; Mafuyu’s attempted refusal and covert lyrics refine her existing state. Empty KAITO’s initial pressure has observed costs and a later privately reconsidered strategy. No completed liberation, doctor-wish confirmation, taste recovery, shared hotel knowledge or successful harshness-as-cure claim. All six ledgers integrate the change; three claims are added, existing motifs refined.
 
 Leo/need CROSS_UNIT/LOW/R1-yield: reported Honami tea provision is used/appreciated by Kanade (`PJSK:card:0612:02:001:0053–0061`), deferred pending foundation. MMJ/VBS/WxS NONE; the unnamed classmate’s shop job does not justify roster identification. Four foundations and their material routes, 21 older screens, packages/readiness, syntheses, final audits/integration remain incomplete. Next EVENT_0090.
+
+## RI-EVENT-0090 — 交響する街の片隅で
+
+```yaml
+release_id: EVENT_0090
+release_bucket: RB_20230330T060000Z
+complete_envelope: "8 core + 10 card halves + 7 archive-publication/event-unlock areas = 25"
+unit_relevance: LEO_NEED_VBS_N25_PRIMARY_WXS_SECONDARY_MMJ_CROSS_UNIT
+impact_scope: N25
+impact: I2
+integration_status: UNIVERSAL_SCREEN_COMPLETE_N25_INTEGRATED_FOUR_UNIT_ROUTES_DEFERRED
+analysis_artifact: ../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0090_DEEP_READING.md
+other_represented_unit_impact: DEFERRED_PENDING_FOUNDATION
+character_state_delta: ENA_EXPRESSIVE_METHOD_REFINED_ALL_GLOBAL_STATES_PRESERVED
+relationship_delta: BOUNDED_ENA_SHIHO_AND_ENA_AN_RECORDS
+epistemic_delta: SUBJECT_RECEPTION_AND_LIMITED_CROSS_UNIT_DISCLOSURE
+claim_delta: E085_REFINE_E086_ENA021_STRENGTHEN_NO_NEW_ID
+theme_delta: TH032_REFINE_TH003_QUALIFIED_STRENGTHEN_NO_NEW_ID
+reconstruction_update: CONDITIONAL_EVIDENCE_RECORDED_NO_COMPLETE_PACKAGE_CERTIFICATION
+current_n25_tuple: "MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01"
+latest_human_state_transition: EVENT_0089
+next_candidate_operation: EVENT_0091
+```
+
+All 25 canonical stories were fully read and actual-file SHA-256 matched against the source inventory. Core and card 0623 have 06:00Z availability, cards 0619–0622 03:00Z. All seven areas are March 30 archive publications with absent initial-availability buckets and separate chapter-8 condition 108908 / episode 1000728. Pre-exhibition/pre-flyer cards, later follow-through and School Miku's fantasy are distinguished.
+
+N25 PRIMARY/HIGH/R3-yield I2 refines Ena's established E0070/E0077 model: intended subject selects useful technical information, communicative value coexists with named defects, and shared observer context qualifies reception. The two bounded acquaintance records do not create a global human transition. No completed new illustration/audience increase or private-group disclosure is shown.
+
+LEO_NEED PRIMARY/HIGH/R3, VBS PRIMARY/VERY_HIGH/R3, WXS SECONDARY/HIGH/R3 and MMJ CROSS_UNIT/LOW/R1 remain deferred. Preserve Shiho's mutual practice responsibility without completed debut; An's supported partial relief with continuing pressure/concealment; Nene's actual rehearsal initiative without completed mastery; bounded dog-walking/family reciprocity. School and Street manifestations remain distinct, with no Empty singer. All six ledgers update proportionately; four foundations/deferred histories, 21 older screens, character packages/readiness, syntheses, final audits and protected integration remain incomplete. Next EVENT_0091.

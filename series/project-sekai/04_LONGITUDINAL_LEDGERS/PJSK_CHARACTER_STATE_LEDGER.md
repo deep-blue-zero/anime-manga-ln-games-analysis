@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 characterization through EVENT_0089; Kanade recipient-directed protection after failed parental trust; three other human states retained"
-analysis_cutoff: "EVENT_0089 I3; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01"
+source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained"
+analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,9 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The verified forward analytical frontier is **EVENT_0089**, an I3 release with a Kanade psychological transition and independent relationship/epistemic changes. Current global human defaults are **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Kanade now sustains recipient-directed protection after failed trust in Mafuyu’s mother, while inheriting K-E0063-01’s bounded self-permission and EVENT_0084’s supported ordinary competence. Mafuyu’s covert lyrics and attempted refusal refine existing agency under tighter access constraints; they do not establish a first-ever wish, completed independence or taste recovery. Historical entries remain true only at their own cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact. Apply EVENT_0089’s separate knowledge/relationship records alongside all preserved earlier increments.
+The verified forward analytical frontier is **EVENT_0090**, an I2 refinement of Ena's working artistic method. Current global human defaults remain **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Ena now supplies explicit subject-to-technique selection, qualified reception assessment and subsequent practice evidence; these operationalize the existing aesthetic state rather than replace it. EVENT_0089 remains the latest global human transition: Kanade sustains recipient-directed protection after failed parental trust, retaining bounded self-permission, supported ordinary competence and rescue obligation.
 
-Earlier summaries and pending queues are historical handoffs. The current model must also apply `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and the EVENT_0080/0077 epistemic/claim refinements, including the limit on EVENT_0072's “first explicit want” language. Other human-unit foundations and 21 earlier universal screens remain separate unfinished obligations. The frozen source boundary `PJSK_SOURCE_20260822T184634Z_EVENT_0213` confers no later analytical authority.
+Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. Other human-unit foundations and 21 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
 
 ## 1. Purpose and authority
 
@@ -1347,3 +1347,11 @@ No new human or manifestation-state ID. The complete mixed reading owns the 29-s
 **Empty KAITO characterization:** anger about perceived stagnation, prioritization of resistance and rejection of what he calls indulgence are his initial stance. Miku supplies his history; the failed encounter and later discussion lead him privately to consider another approach. He can accept listening to Kanade’s music while reserving honest feedback (`PJSK:card:0615:01`; `PJSK:card:0615:02:001:0039–0054`; `PJSK:area:areatalk_ev_night_12_004:01`). This is manifestation-specific evidence, not a completed global VS reconstruction model.
 
 Current tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`. All earlier state history survives; no principal-human package gains readiness certification here. Next EVENT_0090.
+
+## EVENT_0090 characterization refinement — choose what the technique must express
+
+**Ena: I2; preserve `E-E0070-01`.** A Kanade demo motivates water studies. Ena requests Yukihira's critique, initially disputes the dismissal of practice, and then accepts the narrower point that intended content determines useful sensory information. Her exhibition subject becomes the warmth of peaceful company; she can name technical defects and recognize successful communication together (`PJSK:card:0621:01:001:0004–0039`; `PJSK:event:0090:04:001:0034–0043`; `PJSK:event:0090:05:001:0002–0028`). The teacher's aesthetic verdict remains attributed, not an objective rule that practice lacks value.
+
+She plans composition/perspective corrections while considering nonliteral lighting to preserve the intended warmth. Reception remains qualified because both observers saw the same fish. She wants stronger pictures to convey her colleagues' musical world, then chooses further practice over the missed shopping stop; the revised output and broader audience remain future (`PJSK:card:0621:02:001:0002–0011`; `PJSK:card:0621:02:001:0026–0054`; `PJSK:event:0090:05:001:0042–0055`). This makes the E0070/E0077 technique-expression distinction operational, not newly discovered or professionally mastered.
+
+Warm introduction, embarrassment after aspiration talk, unprompted cleaning of An's dusty clothes and modest acceptance of an illustrator conversation preserve ordinary interpersonal range (`PJSK:event:0090:04:001:0002–0008`; `PJSK:event:0090:05:002:0002–0007`; `PJSK:area:areatalk_ev_shuffle_30_002:01`; `PJSK:area:areatalk_ev_shuffle_30_003:01`). Her existing anger/envy/criticism sensitivity is not erased. No other N25 human acquires a state delta from these reports. School and Street singers remain separate deferred manifestations; no Empty singer is present. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0090_DEEP_READING.md) owns shared causes and other-unit routes. No complete reconstruction package is certified.
