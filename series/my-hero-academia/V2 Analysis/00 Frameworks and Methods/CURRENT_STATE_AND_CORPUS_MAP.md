@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES_V2
 generation: V2
 status: canonical
-source_boundary: Complete canonical V2 Japanese main-manga reread V01-V42 through V42:p183; supplemental source inventory remains provisional
+source_boundary: Complete canonical V2 Japanese main manga V01-V42 through V42:p183 with reconstruction, aggregate validation, specialist and full-series syntheses; supplemental inventory remains provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -42,6 +42,28 @@ do_not_use_as_current_authority: false
 
 
 # My Hero Academia V2 — Current State and Corpus Map
+
+## Current analytical completion and entrypoints
+
+**MHA_SP2 is analytically complete for the authorized Japanese main-manga V01–V42 scope, including chapter 431 through V42:p183.** V41 and V42 are canonical, all thirty eligible reconstruction models are present, aggregate validation covers all thirty probes and five checkpoint comparisons, and the eight-specialist/four-document full-series corpora are complete. No main-volume next task remains. Historical snapshots below retain their original knowledge boundaries and are not live continuation instructions.
+
+| Current responsibility | Canonical route |
+|---|---|
+| Governing method, architecture and schema | [Method](MHA_SP2_ANALYTICAL_METHOD_V2_1.md), [architecture](MHA_SP2_SYNTHESIS_ARCHITECTURE.md), [modeling schema](MHA_SP2_CHARACTER_MODELING_SCHEMA.md) |
+| Final sequential readings | [V41](../02%20Sequential%20Readings/MHA_SP2_V41_DEEP_READING.md), [V42](../02%20Sequential%20Readings/MHA_SP2_V42_DEEP_READING.md); all earlier canonical V01–V40 readings retained |
+| Final checkpoint and sole tier authority | [Post-Final-War checkpoint](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_V42_POST_FINAL_WAR_MODEL_CHECKPOINT.md), [readiness index](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) |
+| Thirty reconstruction dossiers and validation | [Model corpus index](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_RECONSTRUCTION_CORPUS_INDEX.md), [aggregate report](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AGGREGATE_RECONSTRUCTION_VALIDATION.md) |
+| Eight specialist syntheses / all fourteen ledger dispositions | [Specialist index](../05%20Specialist%20Synthesis/MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md) |
+| Definitive four-document synthesis corpus | [Full-series entrypoint](../06%20Full-Series%20Synthesis/MHA_SP2_FULL_SERIES_SYNTHESIS.md), routing paired adjudication, social future, and form/revision/residuals |
+| Primary retrieval, source scope and correction provenance | [Locator](../07%20Evidence%20and%20Indexes/MHA_SP2_PRIMARY_SOURCE_LOCATOR.md), [inventory](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_SOURCE_INVENTORY.md), [publication/source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) |
+
+Current readiness remains **86 rows: 18 insufficient, 18 emerging, 20 moderate, 17 strong, 13 specialist_ready**. The user-authorized dossier scope covers the latter two tiers without promoting them; Kurogiri remains moderate with a qualified mixed-continuity checkpoint comparison. Retrospective holdouts are not blind trials, and the original Hawks test remains contaminated after excluding V28 extraction from its V27 freeze.
+
+The main source set is complete and all 42 local CBZs are hash-locked; the audit distinguishes actual inspected pages from inherited direct review. Supplemental material, adaptations and exhaustive supplemental inventory remain provisional/excluded. Residuals include exact Toya death circumstances, Eri's full prognosis, vestige metaphysics, unshown adult relationships, suit limits/access, counterfactual rehabilitation and the durability of partial reform. They are explicitly adjudicated in the definitive corpus rather than silently filled.
+
+Source corrections govern historical claims: V27:p179 is Tokoyami's arrival and V28:p060–077 the extraction; V31 uses raw +1 mapping and ends narrative at logical p213; V36 uses facing-page mapping; V37:p148 is author art; V42:p144–145 is afterword while chapter 431 remains narrative. Speaker and observer/actor distinctions remain operative. These repairs preserve unaffected history and frozen identities.
+
+This is analytical closeout, not a substitute for exact-head publication, housekeeping and protected integration receipts. Current Git/PR audit state must be read from those receipts rather than inferred from completion prose.
 
 
 
@@ -492,7 +514,7 @@ Completed canonical V2 deep readings:
 
 **Sequential main-manga reread: V01–V42 complete.** There is no next default sequential volume.
 
-The current post-V42 phase is the reconstruction/validation corpus, followed by specialist and full-series synthesis under the present completion authorization. The canonical post-Final-War checkpoint is `04 Character Modeling and Reconstruction/MHA_SP2_V42_POST_FINAL_WAR_MODEL_CHECKPOINT.md`; the readiness index in that directory owns final normalized tiers.
+The post-V42 reconstruction/validation, specialist synthesis and definitive full-series synthesis phases are complete under the present authorization. The current routes are listed above. The canonical post-Final-War checkpoint remains `04 Character Modeling and Reconstruction/MHA_SP2_V42_POST_FINAL_WAR_MODEL_CHECKPOINT.md`; the readiness index in that directory alone owns final normalized tiers.
 
 The volume-by-volume sections below preserve earlier prospective snapshots. Their historical next-task language is not a competing instruction; this top-level closure is operative. Earlier next-volume and single-operation statements are retained as historical prospective records, not live instructions.
 
@@ -3738,7 +3760,7 @@ Volume 42 moves from agency without self-sufficiency toward **shared responsibil
 
 Mirio's graduation speech distinguishes repairing a negative from creating positive life; Aoyama chooses his own repair path. Hawks's reform, counseling practice, Shoji's regional work and the old woman's earlier intervention join professional expertise rather than eliminate it. Spinner's memorial preserves first-friend history while retaining adversarial intent. Midoriya loses OFA's embers, chooses teaching and later adds socially engineered armor capacity; Shoto discovers an ordinary self beyond his ideal; Ochako's care includes her own desire. The ending remains partial reform, not utopia.
 
-Canonical V42 narrative endpoint: **`V42:p183`**; chapters 423–431. `p145` and other identified paratext are excluded from in-world evidence, `p184+` from sequential narrative. Main-volume source sequence and canonical V01–V42 readings are complete. The separate supplemental source boundary remains provisional.
+Canonical V42 narrative endpoint: **`V42:p183`**; chapters 423–431. `p144–145` and other identified paratext are excluded from in-world evidence, `p184+` from sequential narrative. Main-volume source sequence and canonical V01–V42 readings are complete. The separate supplemental source boundary remains provisional.
 
 The final readiness audit restores Twice's V27 `specialist_ready` row and Nighteye's V18 `strong` row, evaluates Shoji as `strong`, and normalizes final tiers to the five schema categories. Earlier historical tiers are not overwritten with ending knowledge. The V42 checkpoint routes to that maintained index and preserves both model gaps and qualified prospective tests.
 
