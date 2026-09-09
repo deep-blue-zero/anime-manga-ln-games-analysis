@@ -43,6 +43,14 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Class 1-A Character State Ledger
 
+## Current source-admissibility correction — continuation
+
+The historical Shoji note below uses V37:p148 as a deadpan kimono response. That image is an author-posted Twitter drawing and is excluded from in-world ordinary behavior. V37:p140–142 supplies the anti-revenge/name/classmate exchange and rescued-girl memory; V42:p132,p163 supports professional/public/ordinary breadth without p148. Shoji remains strong.
+
+Jiro's V36:p078 fear changes her understanding of classmates' danger; p082–092 combines her friend-directed challenge with internal wills, the copied factor's weaker control and delayed perception. Sound is a contribution, not an isolated sufficient cause. Tokoyami's V27 endpoint is arrival only; the rescue, Dabi confrontation and belief response occur in V28:p060–077. Gentle's V38:p082 unseen joy is followed by discovering cameras at p082–083, not permanent witnesslessness. V41:p168 is Sero's rejection of suffering as necessary to become better.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 
@@ -13038,6 +13046,8 @@ V27 adds limited independent Jiro behavior but meaningful relationship evidence:
 - `V37:p117-164`: the Central Hospital front makes current heteromorph exclusion explicit and puts Shoji in a conflict where his own lived history is directly relevant rather than merely analogous.
 - `V37:p133-148`: Shoji says his parents did not share his arm phenotype and describes a village environment in which touching someone could trigger communal `血祓い`. His scars and mask are therefore products of appearance-conditioned violence and his effort to control the meanings other people project onto him.
 - He does **not** ask classmates to avoid his appearance. His Tentacole name, awareness of silly appearance rankings and p148 deadpan kimono response show an ordinary social policy of refusing awkward over-accommodation.
+
+> **Current correction:** the p148 clause above is inadmissible: it is authorial kimono art, not Shoji responding in-world. The narrower classmate/name/anti-revenge reading rests on V37:p140–142; repeated adult breadth additionally rests on V42:p132,p163. Do not reuse the preserved historical clause as evidence.
 - `俺は復讐者と思われたくない` is a high-value self-model: he will not allow persecution to dictate a revenge identity.
 - His positive counterweight is deliberately modest: even one memory in which this body was good — saving a drowning child — is enough to support a future in which appearance can acquire additional meanings. Classmates answer by promising to make more such memories.
 - `100年以上続く柵を一世代でフラットにできるとは思わない` grounds an intergenerational reform model. Shoji wants to become an admirable hero and pass better memories forward rather than demanding instant moral purification or accepting continued exclusion.

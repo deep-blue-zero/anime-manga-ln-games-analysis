@@ -43,6 +43,12 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Character Model Readiness Index
 
+## Current source-admissibility correction — continuation
+
+Source sharpening does not change tiers: **86 current rows; 18 insufficient, 18 emerging, 20 moderate, 17 strong, 13 specialist_ready**. Shoji's strong tier excludes the V37:p148 author drawing. Tamaki's adult evidence now specifies V42:p149,p151,p153 rather than an undifferentiated continuity label. The thirty dossiers are an authorized scope extension, not grounds for promotion.
+
+Historical V27/V28 Hawks/Tokoyami notes below must use arrival at V27:p179 and actual extraction at V28:p060–077. The old V28 “mainly confirms” summary understates that new event. Historical tier decisions remain historical; the top normalized table alone controls current readiness. See the [audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md); aggregate reconstruction validation must preserve these limits.
+
 
 
 
@@ -180,7 +186,7 @@ Track whether accumulated V2 evidence is sufficient for responsible novel-situat
 | Sero Hanta | V41 | low-moderate | low | moderate | low-moderate | **emerging** | V41 adds ordinary motives, explicit anti-tragedy value and direct rescue; repeated independent and relationship breadth remains below moderate |
 | Jiro Kyoka | V42 | high | moderate-high | high | high | **strong** | V42:p169 adds ordinary peer boundaries; broader independent adult-life and relationship contexts still gate specialist_ready |
 | Koda Koji | V37 | moderate-high | moderate | low-moderate | moderate | **moderate** | V37 family stigma history, proper-anger ethic, Shoji-specific loyalty and independent battlefield choice close the emerging gate; ordinary speech/relationship breadth remains limited |
-| Shoji Mezo | V42 | high | moderate-high | moderate-high | high | **strong** | V37:p117-164 plus V42:p132,p163 closes the repeated professional/public/ordinary breadth gate through sustained regional work and shared-credit speech; private adult relationship variation still gates specialist_ready |
+| Shoji Mezo | V42 | high | moderate-high | moderate-high | high | **strong** | V37:p140-142 (p148 author drawing excluded) plus V42:p132,p163 supplies repeated public/professional/ordinary breadth through anti-revenge dialogue, sustained regional work and shared credit; private adult relationship variation still gates specialist_ready |
 | Monoma Neito | V37 | moderate-high | moderate | high | moderate | **moderate** | V35 promotion is preserved; V37 adds extreme-stakes Erasure persistence plus unchanged public-recognition/status hunger. Private ordinary breadth remains thin |
 | Spinner / Iguchi Shuichi | V42 | high | moderate-high | high | high | **strong** | V42:p073-081 adds impaired recovery, grief, self-criticism and adversarial memorial authorship; ordinary relationships beyond League belonging still gate specialist_ready |
 | Aoyama Yuga | V42 | high | moderate-high | high | high | **strong** | V42:p045-047,p164 adds chosen departure despite offered inclusion and later sidekick work; independent adult/private breadth still gates specialist_ready |
@@ -200,7 +206,7 @@ Track whether accumulated V2 evidence is sufficient for responsible novel-situat
 | Muscular / Imasuji Goto | V32 | moderate | low | high | moderate | **emerging** | noncombat/relationship breadth |
 | Yo Shindo | V32 | moderate | low-moderate | moderate | low | **emerging** | ordinary baseline and repeated decisions |
 | Dictator | V32 | low-moderate | very low | low-moderate | very low | **insufficient** | motive/history/relationship breadth |
-| Amajiki Tamaki | V42 | high | high | high | high | **strong** | V36 independent high-stakes execution plus V42 adult continuity; repeated independent ordinary-life and broader relationship regimes still gate specialist_ready |
+| Amajiki Tamaki | V42 | high | high | high | high | **strong** | V36:p173-179,p181 supplies coordinated execution and changed use of belief; V42:p149,p151,p153 adds adult competence, care, hesitation and correction of a hasty inference; repeated independent ordinary-life and broader relationship regimes still gate specialist_ready |
 | Hado Nejire | V36 | moderate-high | moderate-high | moderate-high | moderate | **moderate** | V36 supplies rejection/curiosity social history, reciprocal Big Three conditioning, explicit self-interpretation and high-stakes support; broader independent/ordinary breadth remains needed |
 | Magne | V14 | low | low | moderate | very low | **insufficient** | broader history, ordinary behavior, relationships, decision policy beyond autonomy/belonging endpoint |
 | Eri | V42 | high | high | high | moderate-high | **strong** | V42:p128 adds ordinary creative continuity after the contested V41 horn contribution; adolescent private life and exhaustive Quirk-medical prognosis remain unavailable |

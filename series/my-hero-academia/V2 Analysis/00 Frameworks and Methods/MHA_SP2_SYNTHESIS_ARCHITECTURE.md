@@ -4,7 +4,7 @@ artifact_type: synthesis_architecture
 scope: FULL_SERIES_V01-V42
 generation: V2
 status: canonical
-source_boundary: Japanese manga Volumes 1-42; V2 sequential reread in progress
+source_boundary: Japanese main manga Volumes 1-42 complete; reconstruction, aggregate validation, specialist and full-series synthesis complete; supplements excluded
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,9 +27,7 @@ The architecture does **not** treat character simulation as a replacement for li
 
 ### Analytical root
 
-Google Drive: `My Hero Academia` under the project analytical-artifact root.
-
-Current V2 subtree: `V2 Analysis`.
+Current governed Git home: `series/my-hero-academia/V2 Analysis/`, under the repository authority boundary. The original Google Drive `My Hero Academia` analytical-artifact root is provenance; current routing is the V2 corpus map.
 
 ### Primary-source root
 
@@ -40,7 +38,7 @@ Current visible subfolders:
 - `Main volumes`
 - `Supplemental material`
 
-The source inventory remains `active_provisional` while uploads are still in progress.
+The Japanese main-volume source sequence V01–V42 is complete and byte-locked. The source inventory remains `active_provisional` only for supplemental scope; this does not reopen the main-volume sequence.
 
 ## 3. Authority precedence
 
@@ -49,7 +47,7 @@ Within MHA, use the following order:
 1. this V2 architecture and the current V2 corpus map;
 2. the amended V2 analytical method;
 3. canonical V2 sequential volume readings and cumulative ledgers;
-4. V2 specialist and full-series syntheses once created;
+4. canonical V2 specialist and full-series syntheses, now complete and routed below;
 5. primary Japanese manga for direct verification;
 6. V1 analysis only as `historical_legacy` and revision-comparison material.
 
@@ -92,13 +90,15 @@ V2 Analysis/
 │
 ├── 04 Character Modeling and Reconstruction/
 │   ├── MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md
-│   └── future character model dossiers / scenario validation reports
+│   ├── MHA_SP2_CHARACTER_RECONSTRUCTION_CORPUS_INDEX.md
+│   ├── MHA_SP2_AGGREGATE_RECONSTRUCTION_VALIDATION.md
+│   └── 30 canonical character reconstruction dossiers
 │
 ├── 05 Specialist Synthesis/
-│   └── subject-specific canonical syntheses after sufficient evidence accrues
+│   └── MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md and eight canonical specialist syntheses
 │
 ├── 06 Full-Series Synthesis/
-│   └── definitive post-V42 synthesis corpus
+│   └── MHA_SP2_FULL_SERIES_SYNTHESIS.md and three distinct supporting adjudications
 │
 ├── 07 Evidence and Indexes/
 │   └── MHA_SP2_PRIMARY_SOURCE_LOCATOR.md and future crosswalks
@@ -340,9 +340,9 @@ At major structural boundaries, audit whether character models have enough conte
 These checkpoints should identify what kinds of situations remain missing for each important character rather than merely summarizing them.
 
 ### Phase 3 — Character reconstruction dossiers
-After enough evidence accumulates, produce specialist dossiers for characters that reach `specialist_ready`.
+After enough evidence accumulates, produce specialist dossiers for characters that reach `specialist_ready`. The user-authorized completion scope also includes every `strong` character. This extension yields 30 dossiers (13 specialist_ready, 17 strong) without changing the five readiness definitions or treating dossier existence as promotion.
 
-Likely eventual candidates include Midoriya, Bakugo, All Might, Todoroki, Endeavor, Shigaraki/Tenko, AFO, Ochako, Toga, Iida, Aizawa, Hawks, Twice, Spinner, Dabi, and others as evidence warrants.
+The original anticipated candidates included Midoriya, Bakugo, All Might, Todoroki, Endeavor, Shigaraki/Tenko, AFO, Ochako, Toga, Iida, Aizawa, Hawks, Twice, Spinner, Dabi, and others as evidence warrants.
 
 ### Phase 4 — Validation probes
 Test reconstruction quality using held-out canonical scenes or deliberately withheld later-volume material:
@@ -352,7 +352,7 @@ Test reconstruction quality using held-out canonical scenes or deliberately with
 - classify mismatch as missing state, wrong inference, context sensitivity, or genuine surprise;
 - revise the model rather than rationalizing the miss.
 
-This is the preferred method for measuring simulation rigor.
+This is the preferred method for testing simulation rigor. The completed thirty-probe corpus uses retrospective chronological evidence holdouts: the analyst knew later manga, frozen inputs are selected earlier evidence, and supplied later initial conditions are not predictions. The aggregate report retains partials, misses and the contaminated original Hawks exercise; it does not report blind accuracy. The five V41→V42 checkpoint comparisons remain directional comparisons/open-question resolutions.
 
 ### Phase 5 — Specialist synthesis
 Draft subject-specific documents from the mature ledgers and sequential readings.
@@ -404,3 +404,16 @@ At the completion of Volume 42, the MHA V2 corpus should be able to support both
 - evidence-auditable character reconstruction in novel scenarios.
 
 The two outputs should share evidence infrastructure but remain epistemically distinct.
+
+
+## 14. Completed corpus and current routing
+
+The authorized V01–V42 main-manga analytical program is complete. V41/V42 readings and the final checkpoint are canonical. No next sequential main volume or unfinished specialist/full-series document remains. Publication/integration receipts are separate from this analytical completion statement.
+
+- [Current-state and corpus map](CURRENT_STATE_AND_CORPUS_MAP.md) — canonical current routing and historical-boundary controls.
+- [Reconstruction corpus](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_RECONSTRUCTION_CORPUS_INDEX.md) and [aggregate validation](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AGGREGATE_RECONSTRUCTION_VALIDATION.md) — thirty dossiers and all formal comparisons; the readiness index alone owns tiers.
+- [Specialist disposition and corpus](../05%20Specialist%20Synthesis/MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md) — all fourteen maintained ledgers assigned before drafting to eight material specialist responsibilities.
+- [Definitive full-series entrypoint](../06%20Full-Series%20Synthesis/MHA_SP2_FULL_SERIES_SYNTHESIS.md) — integrated argument and three supporting documents with distinct paired, social-future and form/revision/residual responsibilities.
+- [Publication/source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) — source hashes, mapping, inspected ranges, correction propagation and frozen publication equivalence.
+
+Supplemental inventory remains provisional and excluded. Unshown futures, exact medical endpoints, vestige metaphysics, complete equipment limits and reform durability are residuals defined in the full-series corpus, not missing main-volume readings. Future reconstruction must retain dated state, relationships, knowledge and uncertainty rather than import final outcomes into an earlier freeze.
