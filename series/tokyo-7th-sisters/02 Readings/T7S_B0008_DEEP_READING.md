@@ -47,7 +47,7 @@ B0008 closes the complete nine-episode native Main chapter `300080`, マイ・�
 
 The source simultaneously makes Sui's ideal a first love. Musubi interprets her boyish identification as a way of hiding embarrassment about a boy who remained in her heart, Hime calls her an ordinary girl in love, and Sui accepts that she had been in love. That is a consequential participant interpretation which Sui partly adopts. It is not omniscient proof that every boyish word, aspiration, bodily discomfort, or practice was false. The chapter itself prevents that total conversion: after the diagnosis Sui still uses `ボク`, chooses a cool song for boys because she wants to sing it at full force, preserves the feeling and effort that formed her, and receives Hime's final reciprocal address as `王子様`. The resolution is gender-constraining and heteronormative in several peer statements, but its own remainder is plural.
 
-Sui's recruitment is more self-propelled than Connie's initial maneuver. Connie crookedly converts Sui's challenge to the Player into a contest against his idols, but Sui later sends the challenge letter, requests the rematch, discloses the childhood history, chooses the final song, accepts defeat, and asks the Player to help make her a full-fledged girl in the immediate idol-development context. The chapter treats his acceptance and their handshake as her Nanasta entry, and Hime says they will work together from now on. No formal contract, ordinary lesson, audience-facing debut, stable labor, or complete performance is shown. Each contest and assent remains local.
+Sui's recruitment is more self-propelled than Coney's initial maneuver. Coney crookedly converts Sui's challenge to the Player into a contest against his idols, but Sui later sends the challenge letter, requests the rematch, discloses the childhood history, chooses the final song, accepts defeat, and asks the Player to help make her a full-fledged girl in the immediate idol-development context. The chapter treats his acceptance and their handshake as her Nanasta entry, and Hime says they will work together from now on. No formal contract, ordinary lesson, audience-facing debut, stable labor, or complete performance is shown. Each contest and assent remains local.
 
 The Player's prince-like status is ethically mixed. He acts first to rescue a drowning child and later offers attention and recognition. He also repeatedly reaches toward Sui after she has explicitly said that men must not touch her. Her reflexive punches are harmful, she immediately apologizes, and the response persists even after cognitive insight; none of those facts makes his boundary failure disappear or makes the punch harmless. The coda refuses a cure narrative: Sui accepts the handshake, strikes reflexively again, apologizes again, and Musubi observes both that the “male allergy” remains and that the Player has not learned.
 
@@ -70,8 +70,8 @@ All 347 primary pages/logs and 323 text records were read in native order, inclu
 | Key | Exact locator | Evidentiary use |
 | --- | --- | --- |
 | E01 | `t7s://c20260909-r484/v1/script/scout_007_01_01.json__6dd916ae293fdd45?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=9#/Pages/9/TextArea/Dialogue` | Sui's self-introduction, prince aspiration, protection goal, and forgotten motive |
-| E02 | Same script, logs 23–55 | discovery at the pool, child rescue, challenge, and Connie's first nostalgic prince clue |
-| E03 | `t7s://c20260909-r484/v1/script/scout_007_01_02.json__916932870a3bda08?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=49#/Pages/49/TextArea/Dialogue` | Hime's opening prejudice, Sui's renewed challenge, role disclosure, and Connie's contest reframe |
+| E02 | Same script, logs 23–55 | discovery at the pool, child rescue, challenge, and Coney's first nostalgic prince clue |
+| E03 | `t7s://c20260909-r484/v1/script/scout_007_01_02.json__916932870a3bda08?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=49#/Pages/49/TextArea/Dialogue` | Hime's opening prejudice, Sui's renewed challenge, role disclosure, and Coney's contest reframe |
 | E04 | `t7s://c20260909-r484/v1/script/scout_007_01_03.json__84a46fae5efbd9c2?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=21#/Pages/21/TextArea/Dialogue` | first elided performance's result, reduced prince account, gender policing, and first touch/punch sequence |
 | E05 | `t7s://c20260909-r484/v1/script/scout_007_02_02.json__eaea021bb99bfa8f?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=29#/Pages/29/TextArea/Dialogue` | Sui's challenge letter, voluntary rematch, and Hime/Musubi participation |
 | E06 | `t7s://c20260909-r484/v1/script/scout_007_02_03.json__260a2b8d11c8a9d5?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=38#/Pages/38/TextArea/Dialogue` | second elided result, body/gender conflict, Hime's kindness question, repeated boundary failure, punch, apology, and flight |
@@ -83,7 +83,7 @@ All 347 primary pages/logs and 323 text records were read in native order, inclu
 | E12 | `t7s://c20260909-r484/v1/script/scout_007_04_03.json__731bff8409a73140?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=9#/Pages/9/TextArea/Dialogue` | final elided result, both authored choice branches, convergence, and cool/cute recognition |
 | E13 | Same script, logs 10–18 | prince-like Player, preserved prior feeling/effort, future love, and request to be made a woman |
 | E14 | Same script, logs 19–32 | comic misreading, idol-development acceptance, handshake, persistent reflex, apology, and failure-to-learn diagnosis |
-| E15 | Same script, logs 33–43 | Connie's second prince clue, reciprocal Hime/Sui role address, and ending commands |
+| E15 | Same script, logs 33–43 | Coney's second prince clue, reciprocal Hime/Sui role address, and ending commands |
 
 The abbreviated `...` in each row expands without substitution to the complete URI printed first in that row.
 
@@ -95,17 +95,17 @@ Sui introduces herself through conjunction rather than disguise: `一応、女�
 
 At the pool, the Player notices Sui while scouting. A child calls for help. Sui begins to intervene, but the Player jumps in fully clothed and reaches him first. She praises the act, then converts it into a contest she lost and promises to defeat him next time so she can become the prince who helps everyone. [E02] The rescue supplies real prince-like conduct; Sui's competitive grammar makes priority rather than the child's safety the measure afterward.
 
-Connie hears `王子様`, calls the sound nostalgic, and refuses to explain. She later says a girl once called “prince” was her acquaintance and that meeting another at Nanasta feels like fate. [E02, E15] This is a two-step clue about Connie's past, not an identified person or established Seven Sisters relation.
+Coney hears `王子様`, calls the sound nostalgic, and refuses to explain. She later says a girl once called “prince” was her acquaintance and that meeting another at Nanasta feels like fate. [E02, E15] This is a two-step clue about Coney's past, not an identified person or established Seven Sisters relation.
 
-### 1.2 Connie turns rivalry into recruitment, and Hime begins from gender policing (`201000702`–`201000703`)
+### 1.2 Coney turns rivalry into recruitment, and Hime begins from gender policing (`201000702`–`201000703`)
 
-Before meeting Sui again, Hime says a woman using `ボク` cannot be cute and expresses personal dislike of princes. The Player internally notices the inconsistency with Hime's own `オレ`, but no one corrects her aloud. [E03] At the pool Sui renews her challenge, initially proposing swimming. Connie calls competing in one's own specialty unfair, then defines idol production as the Player's specialty: defeating one of his idols in performance would therefore defeat him. The Player explicitly calls the device crooked. Sui accepts it and says she will sing; Hime reluctantly accepts Connie's “ore/boku battle.” [E03]
+Before meeting Sui again, Hime says a woman using `ボク` cannot be cute and expresses personal dislike of princes. The Player internally notices the inconsistency with Hime's own `オレ`, but no one corrects her aloud. [E03] At the pool Sui renews her challenge, initially proposing swimming. Coney calls competing in one's own specialty unfair, then defines idol production as the Player's specialty: defeating one of his idols in performance would therefore defeat him. The Player explicitly calls the device crooked. Sui accepts it and says she will sing; Hime reluctantly accepts Coney's “ore/boku battle.” [E03]
 
 The performance is omitted. The next episode opens with Sui's loss, which she accepts. Asked what prince means, she gives a reduced account: a cool, strong boy who defeated a bully. Hime asks what a girl would do by becoming him. The Player offers Sui a hand; Sui says a man must not casually touch her, strikes reflexively, apologizes, and runs. [E04] The source establishes both the explicit boundary and the harmful reaction. Neither licenses the other.
 
 ### 1.3 A self-authored rematch makes body conflict explicit (`201000704`–`201000705`)
 
-Sui sends a written challenge and asks the group to return to the pool. Hime volunteers herself and Musubi; Musubi protests Hime's use of her name but accompanies the group. Sui explicitly asks for another performance contest. [E05] The second performance is again omitted. Sui loses and says a prince must not lose or cry “like a girl.” Connie and Musubi respond by calling her body, atmosphere, and song female and cute. Sui says she is already troubled that her body is becoming more feminine, equates the female category offered to her with weakness, and insists on the strong prince. [E06]
+Sui sends a written challenge and asks the group to return to the pool. Hime volunteers herself and Musubi; Musubi protests Hime's use of her name but accompanies the group. Sui explicitly asks for another performance contest. [E05] The second performance is again omitted. Sui loses and says a prince must not lose or cry “like a girl.” Coney and Musubi respond by calling her body, atmosphere, and song female and cute. Sui says she is already troubled that her body is becoming more feminine, equates the female category offered to her with weakness, and insists on the strong prince. [E06]
 
 Hime asks whether Sui's prince was only strong and points to the towel the Player has kept offering. Sui refuses the towel and repeats that a man must not touch her; the Player persists because she might catch cold. Sui strikes him, apologizes, calls the response an “allergy,” and runs crying. [E06] Hime's question productively dislodges strength from princehood. The Player's concern does not override Sui's stated control over touch.
 
@@ -133,7 +133,7 @@ Sui says the Player resembles the childhood boy and that a prince-like person is
 
 She then asks the Player, `ボクを、女にしてくださいっ！` The surrounding recruitment/performance exchange and his reply make the operative request idol/girl development, while the group comically hears sexual implication. He promises to make her a full-fledged girl and offers a handshake. Sui accepts with `よろしくお願いします`, reflexively strikes him, and apologizes. Musubi says the “male allergy” is not yet cured and wonders whether the Player lacks learning ability. [E13–E14] The source treats the exchange as accepted Nanasta entry, not as literal sex, cure, or an exhaustive contract.
 
-Connie then says she once knew another girl called prince but supplies no name. Sui greets Hime as princess; Hime rejects that title yet says they will work together and answers with `王子様`. [E15] Their reciprocal naming transforms initial gender policing into peer recognition without deleting the prejudicial route by which they arrived there.
+Coney then says she once knew another girl called prince but supplies no name. Sui greets Hime as princess; Hime rejects that title yet says they will work together and answers with `王子様`. [E15] Their reciprocal naming transforms initial gender policing into peer recognition without deleting the prejudicial route by which they arrived there.
 
 ## 2. Analytical findings
 
@@ -178,7 +178,7 @@ The development does not purify Hime's advice. Calling Sui a normal girl in love
 | Moment | Source state | What it authorizes / does not authorize |
 | --- | --- | --- |
 | Pool encounter | Player intends to scout; Sui frames rescue as defeat | No offer or membership decision |
-| First contest | Connie manipulates the challenge into idol performance; Sui agrees to sing; Hime agrees to compete | This contest only; not informed agreement to recruitment strategy or membership |
+| First contest | Coney manipulates the challenge into idol performance; Sui agrees to sing; Hime agrees to compete | This contest only; not informed agreement to recruitment strategy or membership |
 | First touch | Player offers a hand; Sui explicitly rejects male touch and strikes | Establishes a boundary and harmful reflex, not generalized hostility or permission to retry |
 | Challenge letter/rematch | Sui initiates contact and explicitly requests another performance contest | Second contest only; Musubi's initial participation objection remains local |
 | Towel/touch | Sui rejects towel/contact; Player persists; Sui strikes and apologizes | Concern does not override refusal; apology does not erase the boundary |
@@ -248,7 +248,7 @@ The claim ledger owns the compact formulations:
 7. `CL-B0008-007`: Hime moves from prejudice/rivalry to bridge and reciprocal recognition without shedding every essentialist assumption.
 8. `CL-B0008-008`: competition shifts from victory-as-worth toward a vehicle for self-authored full expression; performance quality remains unavailable because all acts are elided.
 9. `CL-B0008-009`: consent is local, temporal, and information-conditioned across contest, touch, disclosure, song, final duel, and entry.
-10. `CL-B0008-010`: Connie's two former-prince remarks advance her past-identity thread without identifying their referent.
+10. `CL-B0008-010`: Coney's two former-prince remarks advance her past-identity thread without identifying their referent.
 11. `CL-B0008-011`: the chapter treats Sui as Nanasta's seventh current entrant, while formal terms, debut, stable labor, and performance quality remain unshown.
 
 The story ledger adds eight event records, one open/transformed thread, and ten typed edges. The entity ledger adds Sui's identity route, character state, three epistemic states, eight directional relationships, and an R2 bounded-readiness decision. No character model, monograph, specialist, arc/era synthesis, or full-series synthesis is created.
@@ -268,7 +268,7 @@ At the chapter exit:
 - Her victory-only model has been revised, but `ボク`, cool boy-song choice, formative effort, and the prince role persist.
 - Her response to male touch is not cured. The Player's repeated boundary failures and Sui's harmful reflexive punches both remain active problems.
 - Hime and Sui have a specific reciprocal rival/peer relation organized through princess/prince address.
-- Connie has twice alluded to an unidentified girl once called prince; exact identity and relevance remain open.
+- Coney has twice alluded to an unidentified girl once called prince; exact identity and relevance remain open.
 - All four performances are elided; performed voice, singing, music, choreography, and audience response remain unreviewed.
 - Nine exact static Sui composites are reviewed; broader costume range, runtime staging, and later embodied development remain incomplete.
 
