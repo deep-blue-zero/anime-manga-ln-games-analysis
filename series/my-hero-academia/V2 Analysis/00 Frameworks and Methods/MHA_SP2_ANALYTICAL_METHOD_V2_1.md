@@ -1,10 +1,10 @@
 ---
 series: MHA
 artifact_type: analytical_method
-scope: V01-V42
+scope: V01-V42_WITH_BOUNDED_UA_UAN_UAG_RECONCILIATION
 generation: V2
 status: canonical
-source_boundary: Japanese manga tankobon Volumes 1-42
+source_boundary: Japanese manga tankobon Volumes 1-42; section 18 governs the separate owner-authorized UA, UAN and UAG supplemental reconciliation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -274,3 +274,36 @@ It should never answer:
 > What response would be dramatically convenient or stereotypically in character?
 
 The aim is evidence-grounded conditional reconstruction, not roleplay by vibe.
+
+
+## 18. Official supplemental-material reconciliation amendment — 2026-09-10
+
+This amendment governs a bounded continuation after the completed manga-only maturation pass. Sections 1–17 and all historical volume/checkpoint knowledge boundaries remain intact. The new admission boundary is the three owner-selected Japanese EPUB objects, **Ultra Archive (UA), Ultra Analysis (UAN), and Ultra Age (UAG)**, identified in the [supplemental source lock](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md). The books are reviewed in that order; the current map records actual progress. Admission of a source object is not a claim that its contents have already been read or integrated.
+
+### 18.1 Direct reading and complete accounting
+
+Read every original spine image visually, at a resolution sufficient for its Japanese text and visual relations. Use original image bytes extracted in OPF spine order. OCR may assist retrieval but cannot substitute for visual verification or supply an unverified quotation. Record every page, including covers, profiles, gags, bonus fiction, interviews, design notes and publication matter, in that book's coverage table. Each row owns a spine locator, printed page only when actually verified, review method, content/disposition, and evidence-record links. Non-spine resources receive an explicit source-topology disposition. No category is dismissed merely because it is paratext.
+
+Allowed page states are `REVIEWED_MATERIAL`, `REVIEWED_NO_MATERIAL_ADDITION`, `REVIEWED_DUPLICATE`, `EXCLUDED_WITH_REASON`, `UNRESOLVED_READABILITY`, and working-only `NOT_YET_REVIEWED`. A duplicate must name its comparator; a no-addition verdict must state what was reviewed and why it adds no material claim. Coverage is complete only when every page has an honest non-pending disposition. Unreadable text remains unresolved rather than being inferred from another edition. Individual claims may remain uncertain despite complete page coverage.
+
+### 18.2 Claim authority, attribution and temporal state
+
+The source object and the kind of statement are separate questions. Distinguish manga/bonus narrative, editorial synopsis, profile fact or preference, author comment, attributed self-report, another character's judgment, numerical rating, design material, and gag. Verify credited authorship and continuity for bonus fiction; official publication alone does not establish personal Horikoshi authorship or main-continuity event status. Creator intent and editorial clarification can enlarge characterization without demonstrating that the manga dramatized that material successfully.
+
+Record book print/digital dates separately from package conversion metadata; an original interview/reprint date when established; editorial cutoff; depicted character/narrative state; and present applicability. Unknown fields remain explicit. Later publication does not make every statement an endpoint statement. Earlier-only, continuing-with-support, superseded, endpoint and unresolved uses are distinct. An interview answer, a character's conscious explanation, a concealed motive and behavior observed by another character have different epistemic force.
+
+Use brief verified Japanese anchors and bounded English glosses for consequential claims. Preserve speaker, audience, relationship, occasion and uncertainty. First-person explanation is evidence of self-understanding, not automatic proof of underlying motive. Reprints, excerpted manga panels and paraphrases remain dependent evidence; the same fact appearing in three books is not three independent behavioral observations. Changing rating dimensions must be compared by their definitions before any claim of growth or decline.
+
+### 18.3 Reconciliation and reconstruction
+
+For every material record separate evidence class; analytical outcome (`CONFIRM`, `STRENGTHEN`, `COMPLICATE`, `NARROW`, `CONTRADICT`, `NEW`, `INSUFFICIENT`); temporal applicability; modeling effect; literary consequence; and source dependence. The [supplemental reconciliation ledger](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md) owns those adjudications. Compare manga against book and book against book. Do not silently harmonize a discrepancy, count dependent summaries as fresh corroboration, or turn an absence of information into a negative character fact.
+
+Preferences, aversions, routines and ordinary sociability are first-class characterization. A favorite food supports a stated preference; without contextual conduct it does not establish a restaurant decision policy, coping mechanism or relationship script. Changes can improve factual texture or domain breadth without promoting a readiness tier. All baseline/current readiness subjects require a named disposition, including no-change cases and historical distributed candidates outside the current 86-row snapshot. New book-only subjects require identity/discovery review, not automatic dossiers. Mineta specifically requires balanced treatment of misconduct, aspiration, competence, friendship and self-risk; rehabilitation would require acknowledged harm, changed boundary understanding and changed conduct, not a flattering profile.
+
+Only current cumulative models, readiness and synthesis may absorb admitted supplemental findings. Give new supplemental atoms distinct IDs and exact locators, with dates and applicability. Preserve original atoms, historical checkpoints, manga source locks, formal probe inputs, predictions, outcomes and contamination notices byte-for-byte. Any subsequent validation is separately labeled retrospective/nonblind or explicitly withheld as appropriate; hypothetical behavior is not empirical validation. The readiness index remains the sole tier authority.
+
+### 18.4 Literary use and stopping boundaries
+
+Review all eight comparative specialists, eight literary character studies and four full-series documents. Revise a home only when evidence materially changes its responsibility; unchanged is a valid result. Distinguish expanded source characterization, a changed reading of the manga, and unresolved limits of the manga's execution. Keep serious counterreadings and source-specific tensions visible. Final integration follows evidence stabilization, all-character dispositions and reconstruction review, then specialist convergence and full-series revision.
+
+Completion is **V01–V42 + these three named books reconciled**, with page coverage, traceable claims, current routes and preservation checks. It is not an exhaustive all-franchise supplemental audit. Volume-embedded author notes, profiles, design pages and omake remain a separately recorded coverage question; their prior exclusion from narrative sequence is not a finding of analytical worthlessness and does not authorize a new comprehensive volume reread.

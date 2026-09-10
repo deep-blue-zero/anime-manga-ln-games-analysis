@@ -4,7 +4,7 @@ artifact_type: source_inventory
 scope: FULL_SERIES
 generation: V2
 status: active_provisional
-source_boundary: Google Drive MHA primary-source root; main Japanese tankobon sequence V01-V42 confirmed complete, supplemental boundary not yet frozen
+source_boundary: Japanese main tankobon sequence V01-V42 confirmed complete; owner-selected UA, UAN and UAG EPUB objects separately locked for bounded reconciliation; exhaustive franchise supplement inventory remains provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -42,6 +42,12 @@ do_not_use_as_current_authority: false
 
 
 # MHA SP2 — Primary Source Inventory
+
+## Current supplemental admission — 2026-09-10
+
+The owner has admitted three Japanese EPUBs for a bounded supplemental reconciliation: **Ultra Archive (UA), Ultra Analysis (UAN), and Ultra Age (UAG)**. The [supplemental source lock](MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md) identifies their exact filenames/hashes and the [spine map](MHA_SP2_SUPPLEMENTAL_SPINE_MAP.tsv) resolves every original page. These user-authorized local originals are preferred over the earlier UA/UAN CBZ objects. The first two EPUBs are not uniformly larger in pixel dimensions than the CBZs; edition and image quality must be assessed separately. Calibre-compatible copies are reading derivatives of these originals, not independent corroborating sources.
+
+The three named source objects are closed for this pass; their analytical review is initially incomplete. This does not freeze an exhaustive all-franchise source inventory or reopen V01–V42. The historical Drive inventory and source-lock rule below retain their broader original scope. Existing volume locks and exclusions from sequential narrative are unchanged. Volume-embedded paratext remains a separate coverage question, not evidence declared worthless.
 
 ## Current source-admissibility correction — continuation
 

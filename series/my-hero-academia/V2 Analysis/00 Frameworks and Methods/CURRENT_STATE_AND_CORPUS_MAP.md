@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES_V2
 generation: V2
 status: canonical
-source_boundary: Complete canonical V2 Japanese main manga V01-V42 through V42:p183 with reconstruction, aggregate validation, comparative specialists, eight individual literary studies and full-series syntheses; supplemental inventory remains provisional
+source_boundary: Complete canonical V2 Japanese main manga V01-V42 through V42:p183; bounded owner-authorized UA, UAN and UAG supplemental reconciliation is in progress, not yet integrated
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -43,6 +43,14 @@ do_not_use_as_current_authority: false
 
 # My Hero Academia V2 — Current State and Corpus Map
 
+## Current supplemental reconciliation
+
+**SUPPLEMENTAL_RECONCILIATION_STATE = SOURCE_LOCKED_REVIEW_OPEN.** This is a bounded continuation of the mature V2 root. The completed manga-only analysis and maturation remain intact; the additional admitted source objects are **Ultra Archive (UA), Ultra Analysis (UAN), and Ultra Age (UAG)**. Their 217 + 297 + 331 original spine images are technically verified, but extraction and image validity are not page-reading completion. No supplemental analytical conclusion or readiness promotion is certified at this initialization state.
+
+The [method amendment](MHA_SP2_ANALYTICAL_METHOD_V2_1.md#18-official-supplemental-material-reconciliation-amendment--2026-09-10) and [architecture section 16](MHA_SP2_SYNTHESIS_ARCHITECTURE.md#16-bounded-official-supplement-reconciliation--2026-09-10) govern the pass. The [supplemental source lock](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md), [source map](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_SUPPLEMENTAL_SPINE_MAP.tsv), [reconciliation ledger](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md), and [impact audit](../08%20Audits%20and%20Manifests/MHA_SP2_SUPPLEMENTAL_RECONCILIATION_IMPACT_AUDIT.md) are the current execution route.
+
+**Supplemental review gate: OPEN for UA.** Method, architecture, deterministic source retrieval and the required cumulative claim/impact homes are initialized. This is a scoped continuation gate, not a claim of a new-project restart. Next operation: visually review every UA page, write its independent paratext audit and coverage, and verify/commit its checkpoint before UAN; UAG follows UAN closure. Final source reconciliation, all-character review and synthesis propagation remain pending. No manga volume is reopened. Historical main-only completion and dated queues below remain provenance, not the next supplemental operation.
+
 ## Current analytical completion and entrypoints
 
 **MHA_SP2 is analytically complete for the authorized Japanese main-manga V01–V42 scope, including chapter 431 through V42:p183.** V41 and V42 are canonical, all thirty eligible reconstruction models are present, aggregate validation covers all thirty probes and five checkpoint comparisons, and the eight-specialist/four-document full-series corpora are complete. No main-volume next task remains. Historical snapshots below retain their original knowledge boundaries and are not live continuation instructions.
@@ -64,7 +72,7 @@ do_not_use_as_current_authority: false
 
 Current readiness remains **86 rows: 18 insufficient, 18 emerging, 20 moderate, 17 strong, 13 specialist_ready**. The user-authorized dossier scope covers the latter two tiers without promoting them; Kurogiri remains moderate with a qualified mixed-continuity checkpoint comparison. Retrospective holdouts are not blind trials, and the original Hawks test remains contaminated after excluding V28 extraction from its V27 freeze.
 
-The main source set is complete and all 42 local CBZs are hash-locked; the audit distinguishes actual inspected pages from inherited direct review. Supplemental material, adaptations and exhaustive supplemental inventory remain provisional/excluded. Residuals include exact Toya death circumstances, Eri's full prognosis, vestige metaphysics, unshown adult relationships, suit limits/access, counterfactual rehabilitation and the durability of partial reform. They are explicitly adjudicated in the definitive corpus rather than silently filled.
+The main source set is complete and all 42 local CBZs are hash-locked; the audit distinguishes actual inspected pages from inherited direct review. The three named supplemental books are now admitted for the separate in-progress pass above; adaptations and exhaustive supplemental inventory remain outside it. At the preserved manga-only boundary, residuals include exact Toya death circumstances, Eri's full prognosis, vestige metaphysics, unshown adult relationships, suit limits/access, counterfactual rehabilitation and the durability of partial reform. They are explicitly adjudicated in the definitive corpus rather than silently filled.
 
 Source corrections govern historical claims: V27:p179 is Tokoyami's arrival and V28:p060–077 the extraction; V31 uses raw +1 mapping and ends narrative at logical p213; V36 uses facing-page mapping; V37:p148 is author art; V42:p144–145 is afterword while chapter 431 remains narrative. Speaker and observer/actor distinctions remain operative. These repairs preserve unaffected history and frozen identities.
 
