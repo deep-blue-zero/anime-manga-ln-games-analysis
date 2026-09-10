@@ -48,6 +48,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Aemeath dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Aemeath/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
+### Airi
+
+- Entity ID: `project-sekai:airi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — MORE MORE JUMP!
+
+- Analysis subject ID: `project-sekai:airi@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Airi analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
 ### Aizawa Shota
 
 - Entity ID: `my-hero-academia:aizawa-shota`
@@ -112,6 +132,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `akimi-sakura-reviewed-corpus`: LIGHT_NOVEL VOLUME: Dedicated character section within the canonical core-cast monograph covering the twelve original Japanese light novels.; continuity `oreimo-original-light-novels`
 - Reviewed current evidence:
   - [`oreimo-core-character-deep-dive` — OREIMO CORE CHARACTER DEEP DIVE](series/oreimo/V1%20Analysis/04%20Character%20Deep%20Dives/OREIMO_CORE_CHARACTER_DEEP_DIVE.md)
+
+### Akito
+
+- Entity ID: `project-sekai:akito`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Vivid BAD SQUAD
+
+- Analysis subject ID: `project-sekai:akito@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Akito analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
 
 ### Aldini Takumi
 
@@ -217,6 +257,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `amaya-tsubame-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-13-amaya-tsubame` — GKM CORE 13 AMAYA TSUBAME](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_CORE_13_AMAYA_TSUBAME.md)
+
+### An
+
+- Entity ID: `project-sekai:an`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Vivid BAD SQUAD
+
+- Analysis subject ID: `project-sekai:an@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — An analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
 
 ### Anju Emma
 
@@ -819,6 +879,46 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`eiko-oikura-comparison` — Eiko × Oikura Sodachi — Monogatari](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Emu
+
+- Entity ID: `project-sekai:emu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Wonderlands×Showtime
+
+- Analysis subject ID: `project-sekai:emu@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Emu analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+
+### Ena
+
+- Entity ID: `project-sekai:ena`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Nightcord at 25:00
+
+- Analysis subject ID: `project-sekai:ena@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Ena analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
+
 ### Endeavor
 
 - Entity ID: `my-hero-academia:endeavor`
@@ -1381,6 +1481,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
 
+### Haruka
+
+- Entity ID: `project-sekai:haruka`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — MORE MORE JUMP!
+
+- Analysis subject ID: `project-sekai:haruka@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Haruka analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
 ### Hataya Misuzu
 
 - Entity ID: `the-idolmaster:hataya-misuzu`
@@ -1554,6 +1674,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`mha-sp2-villain-antagonist-character-state-ledger` — MHA SP2 VILLAIN ANTAGONIST CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md)
   - [`reviewed-dedicated-analysis` — Himiko Toga V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_HIMIKO_TOGA_CHARACTER_RECONSTRUCTION_MODEL.md)
 
+### Hinami
+
+- Entity ID: `tomozaki:hinami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:hinami@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Hinami analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
+
 ### Hinase Naoki
 
 - Entity ID: `shine-post:hinase-naoki`
@@ -1659,6 +1799,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`hojo-karen-mobile-game-monograph` — Hojo Karen mobile-game character monograph](series/the-idolmaster-cinderella-girls-mobile-games/04%20Specialist%20Synthesis/CINDERELLA_GIRLS_HOJO_KAREN_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`hojo-karen-mobile-game-monograph-audit` — Hojo Karen mobile-game monograph audit](series/the-idolmaster-cinderella-girls-mobile-games/08%20Audits%20and%20Manifests/CINDERELLA_GIRLS_HOJO_KAREN_MONOGRAPH_AUDIT.md)
 
+### Honami
+
+- Entity ID: `project-sekai:honami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Leo/need
+
+- Analysis subject ID: `project-sekai:honami@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Honami analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
+
 ### Horikita Suzune
 
 - Entity ID: `classroom-of-the-elite:horikita-suzune`
@@ -1740,6 +1900,46 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `ibuki-nagisa-reviewed-corpus`: OTHER OTHER: Canonical Phase-2 longitudinal reconstruction over the character's complete Phase-1-routed frozen occurrence frontier, with load-bearing claims retested against reopened primary Japanese source where available and lower-priority texture kept bounded.; continuity `idoly-pride-v2-cross-media`
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-nagisa-longitudinal-ledger` — IDOLY PRIDE V2 CHAR NAGISA LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_NAGISA_LONGITUDINAL_LEDGER.md)
+
+### Ichika
+
+- Entity ID: `project-sekai:ichika`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Leo/need
+
+- Analysis subject ID: `project-sekai:ichika@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Ichika analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
+
+### Ichinose Honami
+
+- Entity ID: `classroom-of-the-elite:ichinose-honami`
+- Entity aliases:
+  - _None._
+
+#### Subject: Classroom of the Elite light novel
+
+- Analysis subject ID: `classroom-of-the-elite:ichinose-honami@light-novel`
+- Series: `classroom-of-the-elite`
+- Continuity: `classroom-of-the-elite-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed individual relationship and agency synthesis within Year 2 through Second List, using the document's frozen Year 1 and Volume 0 context. Retrospective scenes and the Year 2 endpoint remain chronologically separate; no Year 3 narrative coverage is claimed.; continuity `classroom-of-the-elite-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Ichinose Honami analysis in shared synthesis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/05%20Year-Level%20Synthesis/COTE_Y2_FULL_SYNTHESIS.md)
 
 ### Ichinose Rei
 
@@ -1969,6 +2169,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-kana-longitudinal-ledger` — IDOLY PRIDE V2 CHAR KANA LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_KANA_LONGITUDINAL_LEDGER.md)
 
+### Kanade
+
+- Entity ID: `project-sekai:kanade`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Nightcord at 25:00
+
+- Analysis subject ID: `project-sekai:kanade@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Kanade analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
+
 ### Kani Nayuta
 
 - Entity ID: `a-sisters-all-you-need:kani-nayuta`
@@ -2049,6 +2269,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `kaori-nakaseko-reviewed-corpus`: LIGHT_NOVEL VOLUME: Active-provisional Tier-B monograph over the locked Japanese prose corpus, with dense evidence concentrated in Volumes 1, 3, 7, 9, 10, 12, and 13 and explicit partial-simulation limits.; continuity `sound-euphonium-original-novels`
 - Reviewed current evidence:
   - [`hibike-kaori-character-monograph` — HIBIKE KAORI CHARACTER MONOGRAPH](series/sound-euphonium/04%20Character%20Modeling/HIBIKE_KAORI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Karuizawa Kei
+
+- Entity ID: `classroom-of-the-elite:karuizawa-kei`
+- Entity aliases:
+  - _None._
+
+#### Subject: Classroom of the Elite light novel
+
+- Analysis subject ID: `classroom-of-the-elite:karuizawa-kei@light-novel`
+- Series: `classroom-of-the-elite`
+- Continuity: `classroom-of-the-elite-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed individual relationship and agency synthesis within Year 2 through Second List, using the document's frozen Year 1 and Volume 0 context. Retrospective scenes and the Year 2 endpoint remain chronologically separate; no Year 3 narrative coverage is claimed.; continuity `classroom-of-the-elite-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Karuizawa Kei analysis in shared synthesis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/05%20Year-Level%20Synthesis/COTE_Y2_FULL_SYNTHESIS.md)
 
 ### Katsuragi Lilja
 
@@ -2212,6 +2452,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: MANGA VOLUME: Reviewed V2 dedicated analysis drawing on the original-Japanese V01–V36 corpus, including Le dessert, within the document's character-specific evidence gaps and ordered school, retrospective and endpoint states. This does not assert evidence in every volume.; continuity `shokugeki-no-soma-manga`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Kobayashi Rindō dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_RINDO_CHARACTER_MODEL.md) — **active provisional authority**
+
+### Kohane
+
+- Entity ID: `project-sekai:kohane`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Vivid BAD SQUAD
+
+- Analysis subject ID: `project-sekai:kohane@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Kohane analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
 
 ### Komiyama Ai
 
@@ -2556,6 +2816,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`10-luo-li-cuteness-technology-grief-and-self-authorship` — 10 LUO LI CUTENESS TECHNOLOGY GRIEF AND SELF AUTHORSHIP](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/10_LUO_LI_CUTENESS_TECHNOLOGY_GRIEF_AND_SELF_AUTHORSHIP.md)
 
+### Lutz
+
+- Entity ID: `ascendance-of-a-bookworm:lutz`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:lutz@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed Part 1 integrated analysis across the frozen original-Japanese numbered-volume V01–V03 readings. Preserve the prospective V03 cutoff, recipient-specific knowledge and unresolved identity mechanisms; no Part 2 or adaptation evidence is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Lutz analysis in shared synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
+
 ### Lynae
 
 - Entity ID: `wuthering-waves:lynae`
@@ -2575,6 +2855,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Lynae dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Lynae/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+
+### Mafuyu
+
+- Entity ID: `project-sekai:mafuyu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Nightcord at 25:00
+
+- Analysis subject ID: `project-sekai:mafuyu@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Mafuyu analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
 
 ### Mai
 
@@ -2684,6 +2984,46 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`aot-japanese-voice-and-vocabulary-ledger` — AOT JAPANESE VOICE AND VOCABULARY LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_JAPANESE_VOICE_AND_VOCABULARY_LEDGER.md) — **active provisional authority**
   - [`aot-relationship-conditioned-behavior-ledger` — AOT RELATIONSHIP CONDITIONED BEHAVIOR LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_RELATIONSHIP_CONDITIONED_BEHAVIOR_LEDGER.md) — **active provisional authority**
 
+### Mimimi
+
+- Entity ID: `tomozaki:mimimi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:mimimi@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Mimimi analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
+
+### Minori
+
+- Entity ID: `project-sekai:minori`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — MORE MORE JUMP!
+
+- Analysis subject ID: `project-sekai:minori@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Minori analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
+
 ### Misaki Nagisa
 
 - Entity ID: `chiramune:misaki-nagisa`
@@ -2703,6 +3043,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Misaki Nagisa dedicated analysis](series/chiramune/04%20Character%20Analysis/Misaki%20Nagisa/CHIRAMUNE_MISAKI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Mizuki
+
+- Entity ID: `project-sekai:mizuki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Nightcord at 25:00
+
+- Analysis subject ID: `project-sekai:mizuki@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Mizuki analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
 
 ### Momiji Nozomi
 
@@ -2745,6 +3105,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`chapter-1-checkpoint` — Countermeasures Committee Arc Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
+
+### Myne
+
+- Entity ID: `ascendance-of-a-bookworm:myne`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:myne@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed Part 1 integrated analysis across the frozen original-Japanese numbered-volume V01–V03 readings. Preserve the prospective V03 cutoff, recipient-specific knowledge and unresolved identity mechanisms; no Part 2 or adaptation evidence is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Myne analysis in shared synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
 
 ### Nabatame Haru
 
@@ -2945,6 +3325,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Nazuna Ayase dedicated analysis](series/chiramune/04%20Character%20Analysis/Nazuna%20Ayase/CHIRAMUNE_NAZUNA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Nene
+
+- Entity ID: `project-sekai:nene`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Wonderlands×Showtime
+
+- Analysis subject ID: `project-sekai:nene@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Nene analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
 
 ### Ninomiya Asuka
 
@@ -3154,6 +3554,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`86-rito-character-reference-profile` — 86 RITO CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_RITO_CHARACTER_REFERENCE_PROFILE.md)
 
+### Rui
+
+- Entity ID: `project-sekai:rui`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Wonderlands×Showtime
+
+- Analysis subject ID: `project-sekai:rui@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Rui analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
+
 ### Saeki Haruko
 
 - Entity ID: `idoly-pride:saeki-haruko`
@@ -3215,6 +3635,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`opm-character-model-readiness-index` — OPM CHARACTER MODEL READINESS INDEX](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`opm-relationship-state-ledger` — OPM RELATIONSHIP STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
   - [`opm-saitama-character-state-ledger` — OPM SAITAMA CHARACTER STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_SAITAMA_CHARACTER_STATE_LEDGER.md)
+
+### Saki
+
+- Entity ID: `project-sekai:saki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Leo/need
+
+- Analysis subject ID: `project-sekai:saki@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Saki analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
 
 ### Saku Chitose
 
@@ -3384,6 +3824,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`mha-sp2-relationship-state-ledger` — MHA SP2 RELATIONSHIP STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md)
   - [`mha-sp2-villain-antagonist-character-state-ledger` — MHA SP2 VILLAIN ANTAGONIST CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md)
   - [`reviewed-dedicated-analysis` — Shigaraki Tomura V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SHIGARAKI_TOMURA_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Shiho
+
+- Entity ID: `project-sekai:shiho`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Leo/need
+
+- Analysis subject ID: `project-sekai:shiho@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Shiho analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
 
 ### Shinei Nouzen
 
@@ -3566,6 +4026,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `shiun-sumika-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-09-shiun-sumika` — GKM CORE 09 SHIUN SUMIKA](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/09_SHIUN_SUMIKA/GKM_CORE_09_SHIUN_SUMIKA.md)
+
+### Shizuku
+
+- Entity ID: `project-sekai:shizuku`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — MORE MORE JUMP!
+
+- Analysis subject ID: `project-sekai:shizuku@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Shizuku analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 ### Shoji Mezo
 
@@ -3954,6 +4434,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Tokoyami Fumikage dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TOKOYAMI_FUMIKAGE_CHARACTER_RECONSTRUCTION_MODEL.md)
 
+### Tomozaki
+
+- Entity ID: `tomozaki:tomozaki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:tomozaki@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Tomozaki analysis in shared synthesis](series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
+
 ### Totsuki Sheena
 
 - Entity ID: `kimishinu:totsuki-sheena`
@@ -3973,6 +4473,46 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `totsuki-sheena-reviewed-corpus`: MANGA VOLUME: Canonical character monograph over the Japanese manga through Volume 9 plus the admitted supplemental and side-story corpus stated by the artifact.; continuity `kimishinu-manga`
 - Reviewed current evidence:
   - [`kimishinu-sheena-character-monograph` — KIMISHINU SHEENA CHARACTER MONOGRAPH](series/kimishinu/04%20Specialist%20Synthesis/KIMISHINU_SHEENA_CHARACTER_MONOGRAPH.md)
+
+### Toya
+
+- Entity ID: `project-sekai:toya`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Vivid BAD SQUAD
+
+- Analysis subject ID: `project-sekai:toya@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Toya analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
+
+### Tsukasa
+
+- Entity ID: `project-sekai:tsukasa`
+- Entity aliases:
+  - _None._
+
+#### Subject: Project SEKAI game — Wonderlands×Showtime
+
+- Analysis subject ID: `project-sekai:tsukasa@game`
+- Series: `project-sekai`
+- Continuity: `project-sekai-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
+- Reviewed current evidence:
+  - [`reviewed-shared-synthesis` — Tsukasa analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
 
 ### Tsukasa Eishi
 
