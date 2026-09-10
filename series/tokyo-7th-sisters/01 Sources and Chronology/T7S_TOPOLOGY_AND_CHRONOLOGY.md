@@ -4,13 +4,13 @@ artifact_id: T7S_TOPOLOGY_AND_CHRONOLOGY
 artifact_type: source_topology_and_chronology
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; no sequential analysis consumed"
+source_boundary: "c20260909-r484; through T7S_B0001 / episode 201000001 / primary pages 0–194 including both authored branches"
 architecture_lifecycle: INITIAL
 created: 2026-09-09
 last_updated: 2026-09-09
@@ -85,9 +85,13 @@ Maintain a **partial-order graph**, not one chronology integer. Only asserted `B
 
 The exact source membership comes from the locked episode catalog and coverage ledger. All 19 Main families, all four Sub top groups and all 58 Event families are inventoried. Native parent links are topology edges; they are not temporal `BEFORE` assertions. No event-level chronology or inferred cross-line dependency is asserted at bootstrap. The temporal dependency graph has zero analytical edges, so there is no fabricated total order to validate. Add edges with type, exact source basis, witness, endpoints and confidence; reject cycles among established `BEFORE` edges and retain incompatible alternatives as issues.
 
-The first candidate is EPISODE 1.0 → アバンタイトル → 始まりの日 (第0話), episode `201000001`, script `scout_000_00_01.json__8df3fd723276f650`, category `0`, qualified layers `100020 / 200030 / 300010`. Native source-order index is 6 and priority is 1; neither field makes this the universally first story. The complete source has 195 pages and 190 text records. Selection now has the bounded prerequisite basis OPA-0001 below. The next candidate is chapter `300020`, ノッキン・オン・セブンス・ドア, with causal subdivision determined during authorized reading.
+The audited first candidate, EPISODE 1.0 → アバンタイトル → 始まりの日 (第0話), episode `201000001`, script `scout_000_00_01.json__8df3fd723276f650`, category `0`, qualified layers `100020 / 200030 / 300010`, is now completed as `T7S_B0001`. Native source-order index is 6 and priority is 1; neither field makes it the universally first story. The closed source contains all 195 pages and 190 text records, including both authored choice branches. The canonical reading is [T7S_B0001_DEEP_READING.md](../02%20Readings/T7S_B0001_DEEP_READING.md).
 
-2034 family frontiers and every 2053 season/Roots. line frontier are `NOT_STARTED`. Sub/Event/additional and supplemental obligations are wholly unscreened. Maintain explicit episode/script/range sets per line and eligible supplemental envelope; a high-water number cannot hide holes. Prequels, NANASUTA and later-era crossings require prospective dependency review before admission. An unknown chronology remains unknown; resolve it only when a claim or reading boundary depends on it.
+The **next candidate only** is chapter `300020`, ノッキン・オン・セブンス・ドア, beginning with episode `201000101`; its causal subdivision must be determined in a separately authorized reading. No content from that chapter or episode has been opened for B0001.
+
+The EPISODE 1.0 frontier is exact through episode `201000001`; all other EPISODE 1.0 episode/range memberships remain `NOT_STARTED`. Every other 2034 family and every 2053 season/Roots. line frontier remains `NOT_STARTED`. Sub/Event/additional and supplemental obligations are wholly unscreened. Maintain explicit episode/script/range sets per line and eligible supplemental envelope; a high-water number cannot hide holes. Prequels, NANASUTA and later-era crossings require prospective dependency review before admission. An unknown chronology remains unknown; resolve it only when a claim or reading boundary depends on it.
+
+B0001 adds one event-level `BEFORE` edge inside its own framing structure: the recorded Seven Sisters last-live event precedes the explicit 2034 office scene, with “two years earlier” supplied by the first manager's attributed report. It adds no cross-family ordering and no exact calendar date for the live. The typed edge and causal dependencies are owned by the story ledger.
 
 The dated external chronology references above are inherited, attributed reconnaissance claims from approved design 1.1, not fresh primary-story findings. This bootstrap did not conduct new external chronology research. Native confirmation remains required before using 2031/2043 settings as load-bearing character-state or causal assumptions. Metadata labels, small technical dialogue examples, four earlier playback samples and external chronology discussion were previously exposed; no reader may claim an uncontaminated first encounter.
 
@@ -97,9 +101,10 @@ The [bounded opening-prerequisite audit](../09%20Audits%20and%20Manifests/T7S_OP
 
 For these three groups, no documented prerequisite requires displacing the proposed opening, and positive recommendation evidence supports retaining it. Historical onboarding requirements and complete narrative independence remain unresolved; no negative `REQUIRES_KNOWLEDGE_OF` claim follows. The official October 2019 EP0.7 release/final-chapter framing is supplementary routing evidence, not a fictional-time assertion. Exact evidence, uncertainty and exposure are in OPA-0001. This follow-up performed new bounded routing research; it does not alter the earlier bootstrap's research/exposure history above.
 
-EP0.0 and EP0.7 remain `NOT_STARTED`. Their ranks do not admit later packets or establish an automatic complete reading order. If a future load-bearing reconstruction requires unadmitted prior knowledge, pause the dependent work and record a prospective boundary correction before proceeding. No event-level temporal or causal edge is added by this scheduling decision.
+EP0.0 and EP0.7 remain `NOT_STARTED`. Their ranks do not admit later packets or establish an automatic complete reading order. If a future load-bearing reconstruction requires unadmitted prior knowledge, pause the dependent work and record a prospective boundary correction before proceeding. No event-level temporal or causal edge was added by the scheduling decision itself; the B0001 edge recorded above comes from the subsequently admitted episode.
 
 ## Revision history
 
 - 2026-09-09 — Initialize native topology and candidate reading schedule from master revision 484; zero analytical chronology edges or consumed stories.
 - 2026-09-09 — V1 / 1.1: record OPA-0001 and the separate native recommendation axis; retain the EP1.0 introduction with explicit prerequisite limits and zero story consumption.
+- 2026-09-09 — V1 / 1.2: close T7S_B0001 at episode `201000001`, advance only the exact EPISODE 1.0 frontier, and route the unopened next candidate to chapter `300020` / episode `201000101`.

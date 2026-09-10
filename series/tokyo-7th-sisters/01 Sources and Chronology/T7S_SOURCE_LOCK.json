@@ -2,7 +2,7 @@
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "1.0",
+  "version": "1.1",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -27,11 +27,30 @@
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "Preserved witness available for bounded retrieval; analytical source consumption remains zero",
+  "scope_admission": "T7S_B0001 is admitted and closed for episode 201000001 only; all later story and supplemental sources remain unconsumed",
   "analysis_horizon": {
-    "closed_blocks": [],
-    "consumed_sources": [],
-    "candidate_first_episode_id": "201000001"
+    "closed_blocks": [
+      "T7S_B0001"
+    ],
+    "consumed_sources": [
+      {
+        "episode_id": "201000001",
+        "script_id": "scout_000_00_01.json__8df3fd723276f650",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          194
+        ],
+        "log_order_index": [
+          0,
+          194
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0001_DEEP_READING.md"
+      }
+    ],
+    "next_candidate_episode_id": "201000101",
+    "next_candidate_native_chapter_layer_id": 300020
   },
   "collection_manifest": {
     "sha256": "f8127e578c3e350fca526b3f60315cedce2ef5de82d456d92962ca19364877b1",
@@ -225,7 +244,7 @@
   },
   "limits": [
     "Extraction completeness is not analytical, listening or visual-review completeness",
-    "All Main/Sub/Event consumption and additional/supplemental screening start at zero",
+    "At source-lock version 1.1, episode 201000001 is the sole consumed Main source; every later Main episode and all Sub/Event/additional/supplemental sources remain unconsumed",
     "Repeated decoded hashes preserve distinct logical occurrence identities",
     "Unresolved/compound speakers and unbound media documents remain unresolved",
     "No full franchise, anime, live, studio-recording or complete lyric-edition admission is implied"

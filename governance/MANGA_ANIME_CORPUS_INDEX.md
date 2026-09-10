@@ -50,7 +50,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)](../series/the-idolmaster-cinderella-girls-mobile-games/) — `series/the-idolmaster-cinderella-girls-mobile-games/`
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/) — `series/the-idolmaster-cinderella-girls-u149/`
 - [To Be Hero X](../series/to-be-hero-x/) — `series/to-be-hero-x/`
-- [Tokyo 7th Sisters](../series/tokyo-7th-sisters/) — `series/tokyo-7th-sisters/` — Game-first analytical architecture initialized from approved design 1.1; exact inventory and zero-consumption ledgers. Native source corpus and media remain external; no sequential findings yet.
+- [Tokyo 7th Sisters](../series/tokyo-7th-sisters/) — `series/tokyo-7th-sisters/` — Game-first analytical architecture under approved design 1.1. T7S_B0001 closes Main episode 201000001 with synchronized reading, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. Next candidate 201000101 is not admitted; no monograph, model, specialist, or synthesis is promoted.
 - [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`
