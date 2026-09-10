@@ -4,7 +4,7 @@ artifact_id: T7S_B0008_DEEP_READING
 artifact_type: deep_reading
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: T7S_B0008
 episode_ids:
@@ -26,7 +26,7 @@ source_boundary: "Complete category-qualified native Main chapter 300080; episod
 source_pages: 347
 source_text_records: 323
 command_only_pages: 24
-voice_references: 251
+voice_references: 263
 authored_choice_groups: 1
 analysis_status: complete
 prospective_only: false
@@ -231,7 +231,7 @@ The composites show the same short-haired Sui across school swimsuit and sailor 
 
 ### 4.3 Performed voice and songs
 
-The chapter has 251 native voice references. Nine contrastive Sui cues were resolved and byte-verified but not audibly reviewed: 701/7 row `8193`, `vo_007_00_01_008`, `wav:dcd53eb722cc9524e79d74f22511d6e43909c774e5c646a55808fcf150fc359e`; 703/14 row `15049`, `vo_007_01_03_013`, `wav:4d6a857082a14d4ac20a46d7442bf8eb217d02e1cd218716761228e2de612b25`; 705/11 row `163860`, `vo_007_02_03_009`, `wav:92e4d1365a6085480542013601f2bb469894e1dbdf0c663421f92a1404f79781`; 706/29 row `18955`, `vo_007_03_02_027`, `wav:16aa7185e781aadfa3b800cd30a47fb965852229647da13497bca692e97c49de`; 706/44 row `146268`, `vo_007_03_02_042`, `wav:86454495a59b5d751a69390a86223db03d02e011de19f19e8b79f307b02df817`; 708/17 row `54101`, `vo_007_04_02_013`, `wav:2168c6a3b8855bcc27329b423b2825a3e2bd410aab8b3107285b8cc744ab948f`; 709/15 row `40035`, `vo_007_04_03_008`, `wav:2f211a81c28022c0a321ec13e7d45f79d7218224b43cfb0592af4bc34d5f0828`; 709/18 row `57209`, `vo_007_04_03_011`, `wav:b14c06cf96df06091d0b0cc41b38f01488fa04492f9a8addbe665608cfb18fdb`; and 709/36 row `175989`, `vo_007_04_03_027`, `wav:e2e08788d23a6e35d14b17ab0cee64501572ba3603014566d98eaeeb3115d882`. Cue sheet family is `scout_007`.
+The chapter has 263 native `Sound/VoiceFileName` page references. Nine contrastive Sui cues were resolved and byte-verified but not audibly reviewed: 701/7 row `8193`, `vo_007_00_01_008`, `wav:dcd53eb722cc9524e79d74f22511d6e43909c774e5c646a55808fcf150fc359e`; 703/14 row `15049`, `vo_007_01_03_013`, `wav:4d6a857082a14d4ac20a46d7442bf8eb217d02e1cd218716761228e2de612b25`; 705/11 row `163860`, `vo_007_02_03_009`, `wav:92e4d1365a6085480542013601f2bb469894e1dbdf0c663421f92a1404f79781`; 706/29 row `18955`, `vo_007_03_02_027`, `wav:16aa7185e781aadfa3b800cd30a47fb965852229647da13497bca692e97c49de`; 706/44 row `146268`, `vo_007_03_02_042`, `wav:86454495a59b5d751a69390a86223db03d02e011de19f19e8b79f307b02df817`; 708/17 row `54101`, `vo_007_04_02_013`, `wav:2168c6a3b8855bcc27329b423b2825a3e2bd410aab8b3107285b8cc744ab948f`; 709/15 row `40035`, `vo_007_04_03_008`, `wav:2f211a81c28022c0a321ec13e7d45f79d7218224b43cfb0592af4bc34d5f0828`; 709/18 row `57209`, `vo_007_04_03_011`, `wav:b14c06cf96df06091d0b0cc41b38f01488fa04492f9a8addbe665608cfb18fdb`; and 709/36 row `175989`, `vo_007_04_03_027`, `wav:e2e08788d23a6e35d14b17ab0cee64501572ba3603014566d98eaeeb3115d882`. Cue sheet family is `scout_007`.
 
 No acoustic characterization is admitted. All four performance/song acts begin or end across scene cuts; none supplies heard singing, choreography, technique, or musical affect in the story documents.
 
@@ -275,3 +275,8 @@ At the chapter exit:
 ## 8. Transaction and next boundary
 
 `T7S_B0008_CHAPTER_CLOSE-20260910` consumes exactly episodes `201000701`–`201000709`, complete primary page/log ranges, and both branches of the sole authored choice. It excludes Sub episode `402000601` despite the shared native layer ID. The next candidate inside the authorized EPISODE 1.0 continuation is `201000801`, script `scout_008_01_01.json__baf782fe3895a172`, title シズカなるお嬢様 / 第1話, chapter layer `300090` / ザ・タレンテッド・ナデシコ. Only that catalog metadata is carried forward; its story content is not admitted here.
+
+## Revision history
+
+- 2026-09-10 — V1 / 1.0: close complete category-qualified Main chapter `300080`, preserve both authored branches, integrate Sui's bounded state, and stop before unopened `201000801`.
+- 2026-09-10 — V1 / 1.1: reconcile the chapter's native page-level `Sound/VoiceFileName` count from 251 line-bound cues to 263 page references, including title/non-dialogue pages; no story finding or performed-audio status changes.

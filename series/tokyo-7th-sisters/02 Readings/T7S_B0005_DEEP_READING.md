@@ -4,7 +4,7 @@ artifact_id: T7S_B0005_DEEP_READING
 artifact_type: deep_reading
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: T7S_B0005
 episode_ids:
@@ -26,7 +26,7 @@ source_boundary: "Complete native chapter 300050; episodes 201000401–201000409
 source_pages: 330
 source_text_records: 312
 command_only_pages: 18
-voice_references: 214
+voice_references: 222
 authored_choice_groups: 1
 analysis_status: complete
 prospective_only: true
@@ -220,7 +220,7 @@ These are exact asset and native-command findings, not a claim that the isolated
 | Nanasta | Three current performers and an emerging care practice | Four current performers; peer/household labor expands “family” beyond rhetoric; local and streamed performances occur | Formal unit, contracts, sustainable work, broad revival, and reliable boundaries remain unproved |
 | HoloCom | One inherited special-device claim and one separately found archive device; no function established for the inherited one | A Player-carried HoloCom concretely enables a private simulated live | Particular-device identity and supposedly special contents remain unresolved |
 | Unidentified customer | No current route | A familiar, cold-looking beautiful woman buys tofu; Coney implies autograph significance | Name, public role, Coney knowledge, and future relevance all remain unknown |
-| AV evidence | Selected still reviews; performed voice/song queued | Six exact Hime composites plus storybook, labor, river, device, stage, and costume assets reviewed; 214 voice-reference pages counted and six cues recovered | Full runtime presentation and audible voice/music remain unavailable; both performances are elided |
+| AV evidence | Selected still reviews; performed voice/song queued | Six exact Hime composites plus storybook, labor, river, device, stage, and costume assets reviewed; 222 native `Sound/VoiceFileName` page references counted and six cues recovered | Full runtime presentation and audible voice/music remain unavailable; both performances are elided |
 
 ### 3.1 Open obligations
 
@@ -242,3 +242,4 @@ The next candidate within the authorized EPISODE 1.0 continuation is episode `20
 ## Revision history
 
 - 2026-09-10 — V1 / 1.0: close complete native chapter `300050`; read all 330 pages and 312 text records, preserve both authored branches in `201000407`, reconstruct six exact Hime body/expression composites with native offsets, integrate the plurality of care, grief, speech, femininity, and consent, record partial HoloCom support without false identity closure, and stop before unopened `201000501`.
+- 2026-09-10 — V1 / 1.1: reconcile the chapter's native page-level `Sound/VoiceFileName` count from 214 line-bound cues to 222 page references, including title/non-dialogue pages; no story finding or performed-audio status changes.

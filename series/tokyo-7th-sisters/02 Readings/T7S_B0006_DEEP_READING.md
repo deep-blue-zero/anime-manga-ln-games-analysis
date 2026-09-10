@@ -4,7 +4,7 @@ artifact_id: T7S_B0006_DEEP_READING
 artifact_type: deep_reading
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: T7S_B0006
 episode_ids:
@@ -26,7 +26,7 @@ source_boundary: "Complete native chapter 300060; Main episodes 201000501–2010
 source_pages: 370
 source_text_records: 349
 command_only_pages: 21
-voice_references: 278
+voice_references: 289
 authored_choice_groups: 1
 analysis_status: complete
 prospective_only: true
@@ -208,7 +208,7 @@ Separate exact items show Momoka's decorated room and the fictional magical-girl
 | Hime/peer boundary learning | Newly joined after force and a costume refusal | Explicitly states that an unwilling person should not be forced | The group has still prepared around Momoka's assumed attendance; whether peer objection changes practice remains unknown |
 | Coney/Nicole knowledge | Haru/Rona/Musubi carry strong implication; Player remains oblivious | Rona nearly says `ニコさま`, self-corrects, and group silence marks the Player's exclusion | Exact distribution among Hime/others, explicit disclosure, and Player acquisition remain unresolved |
 | Nanasta | Four current performers, usable training/stage/stream contexts, and repeated privacy/consent failures | Favorable five-person stream and Momoka's formal fifth-performer admission; team can prepare a five-person formation | Formal terms, sustainable content/audience, stable lesson assent, and non-deceptive accommodation remain unproved |
-| AV evidence | Five bounded visual reviews and five queued performed-voice/music reviews | Eight exact Momoka composites plus room/TV, candy, and audition objects reviewed; 278 voice-reference pages counted and seven contrastive cues resolved | No actual audio listening, performed songs, full runtime staging, exact screen placement, or continuous motion reviewed |
+| AV evidence | Five bounded visual reviews and five queued performed-voice/music reviews | Eight exact Momoka composites plus room/TV, candy, and audition objects reviewed; 289 native `Sound/VoiceFileName` page references counted and seven contrastive cues resolved | No actual audio listening, performed songs, full runtime staging, exact screen placement, or continuous motion reviewed |
 
 ### 3.1 Open obligations
 
@@ -230,3 +230,4 @@ The next candidate within the authorized EPISODE 1.0 continuation is episode `20
 ## Revision history
 
 - 2026-09-10 — V1 / 1.0: close complete native Main chapter `300060`; read all 370 pages and 349 text records, preserve both authored branches in `201000504`, reconstruct eight exact Momoka body/expression composites with native offsets, distinguish skill/interest from sustained obligation, integrate media-conditioned motivation and the coercive recruitment chain, strengthen the Coney/Nicole knowledge asymmetry without false disclosure, and stop before unopened `201000601`.
+- 2026-09-10 — V1 / 1.1: reconcile the chapter's native page-level `Sound/VoiceFileName` count from 278 line-bound cues to 289 page references, including title/non-dialogue pages; no story finding or performed-audio status changes.
