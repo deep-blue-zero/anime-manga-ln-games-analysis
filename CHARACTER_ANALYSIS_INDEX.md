@@ -1931,13 +1931,13 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 
 - Analysis subject ID: `classroom-of-the-elite:ichinose-honami@light-novel`
 - Series: `classroom-of-the-elite`
-- Continuity: `classroom-of-the-elite-light-novel`
+- Continuity: `classroom-of-the-elite-original-light-novels`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed individual relationship and agency synthesis within Year 2 through Second List, using the document's frozen Year 1 and Volume 0 context. Retrospective scenes and the Year 2 endpoint remain chronologically separate; no Year 3 narrative coverage is claimed.; continuity `classroom-of-the-elite-light-novel`
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed individual relationship and agency synthesis within Year 2 through Second List, using the document's frozen Year 1 and Volume 0 context. Retrospective scenes and the Year 2 endpoint remain chronologically separate; no Year 3 narrative coverage is claimed.; continuity `classroom-of-the-elite-original-light-novels`
 - Reviewed current evidence:
   - [`reviewed-shared-synthesis` — Ichinose Honami analysis in shared synthesis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/05%20Year-Level%20Synthesis/COTE_Y2_FULL_SYNTHESIS.md)
 
@@ -2280,13 +2280,13 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 
 - Analysis subject ID: `classroom-of-the-elite:karuizawa-kei@light-novel`
 - Series: `classroom-of-the-elite`
-- Continuity: `classroom-of-the-elite-light-novel`
+- Continuity: `classroom-of-the-elite-original-light-novels`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
 - Subject aliases:
   - _None._
 - Analytical coverage:
-  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed individual relationship and agency synthesis within Year 2 through Second List, using the document's frozen Year 1 and Volume 0 context. Retrospective scenes and the Year 2 endpoint remain chronologically separate; no Year 3 narrative coverage is claimed.; continuity `classroom-of-the-elite-light-novel`
+  - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed individual relationship and agency synthesis within Year 2 through Second List, using the document's frozen Year 1 and Volume 0 context. Retrospective scenes and the Year 2 endpoint remain chronologically separate; no Year 3 narrative coverage is claimed.; continuity `classroom-of-the-elite-original-light-novels`
 - Reviewed current evidence:
   - [`reviewed-shared-synthesis` — Karuizawa Kei analysis in shared synthesis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/05%20Year-Level%20Synthesis/COTE_Y2_FULL_SYNTHESIS.md)
 
