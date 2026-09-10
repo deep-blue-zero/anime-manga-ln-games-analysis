@@ -8,7 +8,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisua
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-09-09 - AV files consolidated by character; Rinami filename reference corrected; Hiro and Misuzu remain prospective documentation rebuilds; Phase 6 remains IN PROGRESS
+last_updated: 2026-09-10 - AVE-FULL-20260910 Hiro/Misuzu documentation imported; source-accounting and measurement gaps closed within declared scope; direct-listening and motion dependencies remain open; Phase 6 remains IN PROGRESS
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
@@ -16,6 +16,21 @@ last_updated: 2026-09-09 - AV files consolidated by character; Rinami filename r
 ## First-read status
 
 This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical corpus.
+
+### Hiro and Misuzu full AV documentation rebuild — 2026-09-10
+
+**AVE-FULL-20260910 is the current imported Hiro/Misuzu AV document generation.** It closes the previously registered source-accounting and advertised measurement-documentation gaps within the declared source and segment scope. Complete baselines, dialogue/music specialists, evidence matrices and textual-core AV addenda carry the resulting claim qualifications; this is not a certification of complete new audiovisual playback review.
+
+| Character | Verified source identities | Fresh inspected still points | Retained claim dispositions | Current evidence routes |
+|---|---|---|---|---|
+| Hiro | 33/33 | 636 distinct original-source PTS points | 20 | [Rebuild manifest](05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md); [source verification](05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_SOURCE_VERIFICATION.md); [all-claim review](05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md) |
+| Misuzu | 27/27 | 565 distinct original-source PTS points | 45 | [Rebuild manifest](05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md); [source verification](05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_SOURCE_VERIFICATION.md); [all-claim review](05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md) |
+
+**Fresh direct listening: zero. Fresh continuous-motion review: zero.** Source-bound measurements describe the decoded mix; sampled stills support bounded visual/caption findings. Neither closes the remaining vocal, motion, causal or ethical dependencies. Earlier AV interpretations and the separate targeted trial remain identified as inherited evidence. Exact review accounting and limitations are in each character's `SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md` and all-claim review.
+
+The original `GKM_PHASE3_*_AUDIOVISUAL_SOURCE_MANIFEST.json` files remain historical release records. The linked `*_SOURCE_MANIFEST_REBUILD.md` files and `FULL_REBUILD_SOURCE_VERIFICATION.md` now govern current Hiro/Misuzu acquisition accounting; original null fields are not current missing-source claims. Immutable release checksums continue to describe their original packages. Textual-core addenda remain in the existing `03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` homes. Source Lock 1.0 is unchanged, and the separate Phase-6 Rinha AV baseline and dossier remain pending.
+
+The September 9 checkpoint below preserves the earlier recovery state. Its prospective Hiro/Misuzu labels are superseded by this checkpoint and the [updated rebuild dispositions](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md).
 
 ### Recovery and documentation audit — 2026-09-09
 
@@ -45,7 +60,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 | --- | --- | --- |
 | 0 — Corpus Audit and Source Lock | COMPLETE | `01_CORPUS_AUDIT_AND_SOURCE_LOCK/` |
 | 1 — Continuity and Story-State Reconstruction | COMPLETE | `02_CONTINUITY_AND_STORY_STATE/` |
-| 1A — AV baseline/discovery | 13/13 baselines delivered; Hiro/Misuzu technical documentation requires targeted review | `05_AUDIOVISUAL_ANALYSIS/` |
+| 1A — AV baseline/discovery | 13/13 baselines delivered; Hiro/Misuzu AVE-FULL-20260910 documentary/measurement rebuild complete within declared scope; direct-listening and motion dependencies remain open | `05_AUDIOVISUAL_ANALYSIS/` |
 | 2 — Shared Narrative and Institutional Spine | COMPLETE; paratext-refined 2026-08-15 | `GKM_SHARED_AND_INSTITUTIONAL_SPINE_DEEP_READING.md` |
 | 3 — Character Core Readings | COMPLETE — Gate C satisfied | `03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` |
 | 4 — Numbered Events | COMPLETE — 136/136 dedicated event scripts, 8,507/8,507 messages; four canonical tranche readings | `03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/` |
@@ -64,15 +79,15 @@ The AV consolidation places each character's baseline, specialists, evidence and
 4. Arimura Mao — textual core COMPLETE; integrated AV baseline COMPLETE.
 5. Lilja Katsuragi — textual core COMPLETE; integrated AV baseline COMPLETE.
 6. Kuramoto China — textual core COMPLETE; integrated AV baseline COMPLETE.
-7. Hiro Shinosawa — textual core COMPLETE; integrated AV baseline delivered; **prospective targeted technical-documentation rebuild** (missing metric support and late-Dear materialization records).
+7. Hiro Shinosawa — textual core COMPLETE; integrated AV baseline revised by **AVE-FULL-20260910**: 33 verified source identities, 636 inspected still points and 20 claim dispositions; documentary/measurement gaps closed within scope, fresh direct-listening and motion review unperformed.
 8. Rinami Himesaki — textual core COMPLETE; integrated AV baseline COMPLETE.
 9. Sumika Shiun — textual core COMPLETE; integrated AV baseline COMPLETE.
 10. Hanami Ume — textual core COMPLETE; integrated AV baseline COMPLETE.
-11. Hataya Misuzu — textual core COMPLETE; integrated AV baseline delivered; **prospective targeted technical-documentation rebuild** (empty metric tables and unmaterialized source manifest).
+11. Hataya Misuzu — textual core COMPLETE; integrated AV baseline revised by **AVE-FULL-20260910**: 27 verified source identities, 565 inspected still points and 45 claim dispositions; documentary/measurement gaps closed within scope, fresh direct-listening and motion review unperformed.
 12. Juo Sena / 十王星南 — textual core COMPLETE; integrated AV baseline COMPLETE.
 13. Amaya Tsubame / 雨夜燕 — textual core COMPLETE; integrated AV baseline COMPLETE.
 
-**Current integrated AV coverage: 13/13 baseline analyses delivered.** No Phase-3 baseline document is missing; technical-documentation completion remains qualified for Hiro and Misuzu as recorded above. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 621 logical Rinha dialogue messages** after tagged-speaker parser correction. The matrix adjudicates **73 bounded person-level claims** and requires a targeted Rinha AV baseline before the dossier is finalized. Next is `GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`; the character dossier remains required before Phase 6 can close.
+**Current integrated AV coverage: 13/13 baseline analyses delivered.** No Phase-3 baseline document is missing. Hiro and Misuzu now have the imported AVE-FULL-20260910 source-accounting, measurement and all-claim review records; their remaining perceptual and interpretive dependencies are explicitly qualified above and in the character packets. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 621 logical Rinha dialogue messages** after tagged-speaker parser correction. The matrix adjudicates **73 bounded person-level claims** and requires a targeted Rinha AV baseline before the dossier is finalized. Next is `GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`; the character dossier remains required before Phase 6 can close.
 
 ## Canonical retrieval route
 

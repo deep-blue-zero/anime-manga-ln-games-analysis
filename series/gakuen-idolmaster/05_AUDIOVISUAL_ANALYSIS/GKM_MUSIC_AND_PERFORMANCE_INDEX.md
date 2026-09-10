@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-09"
+last_updated: "2026-09-10"
 ---
 
 # Music, MVs and visual performance
@@ -33,4 +33,4 @@ Songs, authored MVs, rendered performances, choreography and visual presentation
 | Juo Sena | [Specialist](12_JUO_SENA/GKM_SENA_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [README](12_JUO_SENA/README.md) |
 | Amaya Tsubame | [Specialist](13_AMAYA_TSUBAME/GKM_TSUBAME_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md) | [README](13_AMAYA_TSUBAME/README.md) |
 
-[All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). Hiro and Misuzu's delivered analyses retain the [technical-documentation qualifications](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md).
+[All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). Hiro and Misuzu's [adopted toolkit rebuilds](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) resolve the documentary rebuild tasks while retaining explicit direct-listening and continuous-motion review gaps.
