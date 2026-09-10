@@ -4,24 +4,33 @@ artifact_id: T7S_B0007_DEEP_READING
 artifact_type: deep_reading
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "2.0"
 status: canonical
 scope: T7S_B0007
-episode_id: "201000601"
-script_id: scout_006_01_01.json__6128561e1329882d
-native_hierarchy: "2034年 / EPISODE 1.0 / ギャル・ライク・イット・ホット / ライオンの試練 (第1話)"
+episode_ids:
+  - "201000601"
+  - "201000602"
+  - "201000603"
+  - "201000604"
+  - "201000605"
+  - "201000606"
+  - "201000607"
+  - "201000608"
+  - "201000609"
+native_hierarchy: "2034年 / EPISODE 1.0 / ギャル・ライク・イット・ホット"
 corpus_alias: c20260909-r484
 witness_id: T7S_GAME_OFFLINE_JA_R484
 language: ja
 analysis_language: en
-source_boundary: "Episode 201000601 only; primary document pages/logs 0–72; no authored choice; no later story source"
-source_pages: 73
-source_text_records: 69
-command_only_pages: 4
-voice_references: 35
+source_boundary: "Complete category-qualified native Main chapter 300070; episodes 201000601–201000609; all primary pages/logs and both authored branches in 201000606; no later story source"
+source_pages: 401
+source_text_records: 378
+command_only_pages: 23
+voice_references: 232
+authored_choice_groups: 1
 analysis_status: complete
-prospective_only: true
-retrospective_annotations: false
+prospective_only: false
+retrospective_annotations: true
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 created: 2026-09-10
@@ -30,122 +39,191 @@ last_updated: 2026-09-10
 
 # Tokyo 7th Sisters — B0007 deep reading
 
-## The weight of being ordinary: Sumire is discovered while rescuing the scout
+## A feeling that is not half-hearted: Sumire joins by finding one serious desire inside a vocabulary built to disqualify seriousness
 
 ## 0. Result, scope, and integrity
 
-B0007 closes only episode `201000601`, the first episode of ギャル・ライク・イット・ホット. It does not complete 臼田スミレ's chapter or establish that she wants idol work. The episode creates two linked reversals: **Sumire calls herself a carefree, ordinary contemporary high-school girl while privately finding that identity strangely heavy; the Player, sent to prove he can scout alone, notices her as a candidate only after she mistakes his exhausted pause for a suicide crisis, intervenes, encourages him, and refuses his description of her as kind.** Her action qualifies her self-description without revealing a single hidden “true” self, and his candidate judgment is an intention to search for her, not contact, offer, consent, or membership.
+B0007 closes the complete nine-episode native Main chapter `300070`, ギャル・ライク・イット・ホット. Its opening proposition survives but changes scale. 臼田スミレ's `フツーでイマドキ` life is genuinely pleasurable, not exposed as a wholly false mask; what later episodes reveal is a recurring rule by which she disqualifies parts of herself that might look unfashionable, mismatched, old-fashioned, earnest, or insufficient. She anticipates that her feminine given name is fraudulent beside her appearance, hides skilled homemade cookies because cooking feels out of date, treats serious speech as socially repellent, and finally describes herself as someone who has always left things half-finished. `イミワカ` repeatedly closes what threatens that rule, but its uses remain context-specific rather than mechanically identical.
 
-All 73 primary pages/logs and 69 text records were read in native order, including all four pages without text. There is no authored choice group or inline child document. Page and log indices are contiguous, and every present text pointer equals its native `/Pages/<index>/TextArea/Dialogue` location. The exact source SHA-256 is `caf76a16aa7b0e059107e26c127d207f578caaf5251248831740403add39c7a7`; it matches the immutable database row. The database was opened with `mode=ro&immutable=1`, `query_only=ON`, and memory-only temporary storage; its full SHA-256 was reverified as `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87`. No content from episode `201000602` or any later source was opened.
+The decisive recruitment obstacle is therefore not simple lack of interest. Sumire comes to Nanasta voluntarily, enjoys singing and the members' company, and admits that joining might be good; she refuses because pleasure and curiosity seem ethically inadequate beside people working seriously toward dreams. That refusal is itself evidence of seriousness. The chapter resolves the immediate decision when singing supplies a completed effect she can recognize as “shining,” and when she can name one desire—to shine at the Nanasta where the Player works—as not half-hearted. It does not prove a stable talent essence, durable labor commitment, or complete cause of the opening weight.
+
+Consent remains local across the sequence. Episode `201000602` contains an explicit offer and refusal; `201000604` a voluntary visit but renewed refusal; `201000604` and `201000606` songs initiated over resistance; `201000608` an explicit agreement to an immediate stream under abrupt pressure; and `201000609` a self-authored membership declaration after that stream. The final membership neither retroactively authorizes earlier surveillance, forbidden name use, or compelled singing nor prospectively authorizes every costume. The bunny-costume coda records initial refusal, private persuasion whose exact terms are withheld, later assent, a full alternate body asset, and the Player's comic collapse. None of those facts should be erased by another.
+
+All 401 primary pages/logs and 378 text records were read in native order, including 23 pages without text. Episode `201000606` contains one authored choice group: the two responses occupy five branch-tagged pages and converge at log 17, where the Player says he was honestly worried. Both authored branches were consumed. Every chapter document is `primary`; there is no inline child document. Page and log indices are contiguous within every episode, and every present text pointer equals its native `/Pages/<index>/TextArea/Dialogue` location. The immutable database was opened with `mode=ro&immutable=1`, `query_only=ON`, and memory-only temporary storage; its full SHA-256 was reverified as `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87`. Main membership was category-qualified: Sub episode `402000201` shares layer ID `300070` and is excluded.
+
+| Episode | Native title | Pages / text / command-only | Source SHA-256 |
+| --- | --- | ---: | --- |
+| `201000601` | ライオンの試練 / 第1話 | 73 / 69 / 4 | `caf76a16aa7b0e059107e26c127d207f578caaf5251248831740403add39c7a7` |
+| `201000602` | ヒトカラ？フタカラ？ / 第2話 前編 | 67 / 64 / 3 | `b57c2d72c4783323c97e4a01bea5bf9a7ce31786228124f12a60428699dd8c0a` |
+| `201000603` | ヒトカラ？フタカラ？ / 第2話 後編 | 33 / 31 / 2 | `882662bb32cc8a18dba6a1c3324730be8327dd7f521b1e1c628af53647c2d3f7` |
+| `201000604` | スミレの特技 / 第3話 前編 | 50 / 48 / 2 | `959c2ff39768feb2208ce0c9a34d175882f34dd7d1e87271d67e409c22358890` |
+| `201000605` | スミレの特技 / 第3話 後編 | 21 / 19 / 2 | `8be24b1d5d14732c07c4314179e0cf20a21f5b4762ad99f1475b0dd67ebc8f75` |
+| `201000606` | 笑顔 / 第4話 前編 | 59 / 55 / 4 | `60d00aa0f30b8d832cdf50fe9e581b43eb2ae7b403b0f6f200f636ae7fd76f74` |
+| `201000607` | 笑顔 / 第4話 後編 | 17 / 16 / 1 | `6a88f18044610cfb95cfc22122987601270d0a467a073a503a8ec046c8d20261` |
+| `201000608` | 一番輝くもの / 最終話 前編 | 25 / 23 / 2 | `dabb34da59b04a4f10526ed3f8238543db1dc8ba3c810392e2e07a98495eced7` |
+| `201000609` | 一番輝くもの / 最終話 後編 | 56 / 53 / 3 | `fafa09b88ef149c295b32d5317281f0ff4c5025cfb2155ba5051fad5ca55a76a` |
 
 ### 0.1 Locator key
 
 | Key | Exact locator | Evidentiary use |
 | --- | --- | --- |
-| E01 | `t7s://c20260909-r484/v1/script/scout_006_01_01.json__6128561e1329882d?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=6#/Pages/6/TextArea/Dialogue` | Sumire's ordinary/current self-description and unexplained heaviness |
-| E02 | `t7s://c20260909-r484/v1/script/scout_006_01_01.json__6128561e1329882d?doc=primary&log=7#/Pages/7/TextArea/Dialogue` through `...&log=10#/Pages/10/TextArea/Dialogue` | Frustration, self-isolation, and suppression as `イミワカ` |
-| E03 | `t7s://c20260909-r484/v1/script/scout_006_01_01.json__6128561e1329882d?doc=primary&log=14#/Pages/14/TextArea/Dialogue` through `...&log=26#/Pages/26/TextArea/Dialogue` | Connie's absence, sleep-spoken `セブンスライブ`, and Player's vague recognition |
-| E04 | `t7s://c20260909-r484/v1/script/scout_006_01_01.json__6128561e1329882d?doc=primary&log=27#/Pages/27/TextArea/Dialogue` through `...&log=40#/Pages/40/TextArea/Dialogue` | Retrospective lion-trial claim, solo-scouting instruction, dependency, and failure |
-| E05 | `t7s://c20260909-r484/v1/script/scout_006_01_01.json__6128561e1329882d?doc=primary&log=41#/Pages/41/TextArea/Dialogue` through `...&log=53#/Pages/53/TextArea/Dialogue` | Riverside pause, mistaken suicide inference, physical intervention, and clarification |
-| E06 | `t7s://c20260909-r484/v1/script/scout_006_01_01.json__6128561e1329882d?doc=primary&log=54#/Pages/54/TextArea/Dialogue` through `...&log=64#/Pages/64` | Encouragement, kindness attribution, Sumire's disavowal, and departure |
-| E07 | `t7s://c20260909-r484/v1/script/scout_006_01_01.json__6128561e1329882d?doc=primary&log=65#/Pages/65/TextArea/Dialogue` through `...&log=72#/Pages/72/TextArea/Dialogue` | Player's candidate judgment and Connie's inference from his expression |
+| E01 | `t7s://c20260909-r484/v1/script/scout_006_01_01.json__6128561e1329882d?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=10#/Pages/10/TextArea/Dialogue` | Ordinary/current pleasure, unexplained weight, and self-closure as `イミワカ` |
+| E02 | Same script, logs 14–40 | Connie's sleep speech, improvised lion trial, transfer of scouting responsibility, and the Player's failed search |
+| E03 | Same script, logs 41–72 | Mistaken-crisis intervention, bounded encouragement, kindness disavowal, and private candidate judgment |
+| E04 | `t7s://c20260909-r484/v1/script/scout_006_01_02.json__8d81e4f06fd7a7ed?doc=primary&log=12#/Pages/12/TextArea/Dialogue` through `...&log=49#/Pages/49/TextArea/Dialogue` | Deliberate search, role disclosure, idol offer, name shame/boundary, refusal, and the Player's dream |
+| E05 | Same script, logs 50–66 | Canceled peer plans, refusal of two-person karaoke, Connie's surveillance, and transition to the offscreen three-person session |
+| E06 | `t7s://c20260909-r484/v1/script/scout_006_01_03.json__6505b37f6f2a7416?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=31#/Pages/31/TextArea/Dialogue` | Karaoke aftermath, Nanasta footage, direct invitation, open laughter, praise of her name, and departure without an answer |
+| E07 | `t7s://c20260909-r484/v1/script/scout_006_02_02.json__b88305af605eba32?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=27#/Pages/27/TextArea/Dialogue` | Voluntary Nanasta visit, denied membership decision, conditional willingness to leave, assembled peers, and repeated name-boundary failures |
+| E08 | Same script, logs 28–48 | Homemade cookies, concealment of cooking, peer recognition, explicit refusal to sing or join, and music started over protest |
+| E09 | `t7s://c20260909-r484/v1/script/scout_006_02_03.json__53825ba661ede61d?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=19#/Pages/19/TextArea/Dialogue` | Forced-song aftermath, admitted enjoyment, regard for serious labor, professional comparison, self-devaluation, and withdrawal |
+| E10 | `t7s://c20260909-r484/v1/script/scout_006_03_02.json__f001e23f37cdf1f7?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=44#/Pages/44/TextArea/Dialogue` | Search, both choice branches, honest concern, admitted interest, adequacy-based refusal, earnestness self-policing, specific recognition, and another name violation |
+| E11 | Same script, logs 45–57, then `t7s://c20260909-r484/v1/script/scout_006_03_03.json__d47cde38b61980d3?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=15#/Pages/15/TextArea/Dialogue` | Connie's second song push, elided performance, bounded “shining” judgment, Sumire's half-finished self-model, open smile, and forgotten lion trial |
+| E12 | `t7s://c20260909-r484/v1/script/scout_006_04_02.json__2b62d71a77140c4e?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=23#/Pages/23/TextArea/Dialogue` | Player's stated refusal acceptance, Sumire's prior decision and fear, sudden livestream proposal, and explicit immediate assent |
+| E13 | `t7s://c20260909-r484/v1/script/scout_006_04_03.json__3033ad3531143cb8?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=29#/Pages/29/TextArea/Dialogue` | Stream aftermath, apology, explicit membership, not-half-hearted feeling, exclusive name permission, address shift, and girlfriend question |
+| E14 | Same script, logs 30–52 | Connie's `ラヴ` reading, Sumire's denial, private costume persuasion, later assent, bunny-body reveal, and Player's reaction |
 
-In each row, `...&log=` expands to the complete URI printed at the start of that row.
+The abbreviated `...` in each row expands without substitution to the complete URI printed first in that row.
 
 ## 1. Descriptive reconstruction
 
-### 1.1 “Ordinary and current” is already difficult to carry (pages 0–10)
+### 1.1 The opening places care before candidacy (`201000601`)
 
-Over an open-sky background and without a character sprite, Sumire addresses an indefinite audience. She introduces herself as `ウスタ`, an ordinary, contemporary high-school girl: she wears current fashion and plays with friends after school. The life is fun, free of anything tiring, casual, mobile, and `フワフワ`. [E01]
+Sumire introduces herself as an ordinary, current high-school girl who follows fashion, spends time with friends, and values an untiring, floating lightness. She says that life is fun. She also finds being `フツーでイマドキ` strangely heavy, wonders whether the feeling is hers alone, and suppresses the question as `イミワカ`. [E01] The source does not yet make pleasure counterfeit or explain the pressure.
 
-She then reverses the weight metaphor. She cannot quite explain it, but being `フツーでイマドキ` sometimes feels heavy, and she wonders whether this is enough. Her friends do not say anything similar, so she asks whether the feeling belongs only to her. Frustration follows before explanation: she says she will stop thinking about unnecessary things, calls the rumination strange, and closes it with `……イミワカ、だよね`. [E01–E02]
+Connie oversleeps, sleep-speaks `セブンスライブ`, and retroactively invents a lion's trial. The explanation is not credible as provenance, but her absence does transfer responsibility: the Player admits dependence on her intuition, searches alone, and fails to identify a candidate. [E02]
 
-The horizon does not establish what produces the weight. “Ordinary” could refer to peer conformity, a chosen social pleasure that has become insufficient, a defensive self-presentation, or another pressure not yet named. Her enjoyment is not retracted merely because doubt coexists with it.
+At the riverside Sumire mistakes his exhausted pause for imminent suicide, physically intervenes, checks his reassurance, and offers encouragement limited by her lack of work experience. When he calls her kind, she flusters, rejects the label, and reduces the act to a whim. Only after being helped does he privately identify her as a possible candidate. They exchange neither names nor professional information. [E03]
 
-### 1.2 An improvised trial produces a real transfer of responsibility (pages 14–40)
+### 1.2 Disclosure produces refusal, but shared play produces curiosity (`201000602`–`201000603`)
 
-The Player waits at Nanasta for a promised scouting trip, but Connie is late. On the HoloCom call she appears to be asleep and says, `てめーら元気ですかー～ / セブンスライブはっじまるよー`, before trailing off. The Player thinks the phrase sounds familiar, then dismisses the thought to wake her. Connie panics about the time, pauses, and retrospectively announces that this was the day she became the lion who casts its cub into a deep valley—plus an invented wrestling strike. [E03–E04]
+The Player returns specifically to find Sumire. He discloses that he scouts for the Three Seven studio and directly asks whether she wants to become an idol. She first suspects a pickup, distrusts the business card as easily fabricated, then provisionally believes him because he does not look like a liar. [E04]
 
-Her story collapses across its own references: after calling herself a lion, she orders the Player to become a tiger, then audibly falls asleep again. The scene supplies no evidence that she planned the absence before oversleeping. It does nevertheless impose a practical trial. She tells him to stop relying on her and scout alone. He recognizes that he has depended on her distinctive intuition, goes out, fails to identify an obvious candidate, and worries that he may simply be overlooking aptitude. [E04]
+Her name becomes the first explicit boundary. She offers `ウスタ`, reluctantly supplies `スミレ`, and preempts the familiar insult that such a pretty, feminine name does not fit her appearance—`名前負け`, even `名前サギ`. She orders him to use `ウスタ` and says every alternative is forbidden. She also calls idol work incomprehensible, impossible for her, never previously considered, and culturally out of date. The Player answers by disclosing love of idols and a dream of raising performers who can rival Seven Sisters. [E04]
 
-The result is therefore divided. Connie's pedagogical explanation is dubious and self-protective; the transfer of responsibility is real. The Player confronts the difference between holding the manager title and possessing an independent scouting practice.
+Because friends canceled karaoke, she agrees to continue listening, but explicitly rejects two-person karaoke as too intimate and abrupt. Connie then emerges, says she has watched since the Player left Nanasta, and declares that three people solve the problem. The scene cuts without a fresh explicit Sumire assent. [E05]
 
-### 1.3 Sumire acts under uncertainty before either person knows the encounter as recruitment (pages 41–64)
+The next episode opens after the karaoke. Sumire enjoyed it and asks about the girls shown from the Player's HoloCom. Connie directly invites her to Nanasta and then promises to keep watching from concealment. Sumire praises Connie's singing, laughs openly at the group's strange energy, and says she does not dislike their style. The Player calls this first open laugh cute and fitting to `スミレ`; he says the name is beautiful and that he likes it. Sumire rejects the praise defensively, then concedes it is not `イミワカ` and invents a later appointment before leaving. [E06] Enjoyment, attraction to the social field, and embarrassment have increased; a recruitment answer has not.
 
-Unable to find anyone, the Player stops by the river and looks at the water. Sumire suddenly grabs or clings to him, demands that he reconsider, and refuses to release him because she believes he will jump. The text establishes her interpretation and bodily intervention; it does not establish that he was actually suicidal. He says that work went poorly and he is only tired, and privately wonders whether his face looked that exhausted. [E05]
+### 1.3 Cookies make hidden competence material, then comparison turns it against her (`201000604`–`201000605`)
 
-Sumire checks whether he is telling the truth before releasing him. She says she has never worked and cannot understand occupational hardship, but believes it cannot all be bad and tells him to keep trying. The Player asks whether she is encouraging him and calls her kind. She becomes flustered, says that description is `イミワカ`, insists kindness is impossible, reduces the intervention to a whim, and leaves. [E05–E06]
+Sumire voluntarily visits Nanasta. She denies having decided to join, asks only to look around, admits interest in the Player's workplace, and offers to leave if inconvenient. Connie predicted the visit and summoned Haru, Musubi, Momoka, Hime, and Rona. Haru keeps calling her `スミレちゃん` after being corrected; Momoka substitutes `ウスター`. The comedy does not remove the explicit boundary failure. [E07]
 
-Her correction should be preserved as speech, not treated as transparent self-knowledge or simply ignored. Yet it cannot erase the action it redescribes. She accepted immediate cost and possible embarrassment to prevent catastrophic harm to a stranger under uncertain information, verified safety, and then offered encouragement within the explicit limit of what she did not know. The episode places care before her willingness to own “kind” as an identity.
+Sumire has brought cookies. She calls them trivial, lies that they were purchased when Musubi recognizes them as homemade, and says cooking as a hobby is too old-fashioned for the present. Hime detects the craftsmanship and tells her to accept praise; Rona envies the competence. The exact item art shows a lace-lined presentation tray with several distinct shapes and fillings, reinforcing effort and skill rather than a generic token. [E08]
 
-### 1.4 The scout discovers a candidate while occupying the position of someone helped (pages 65–72)
+Connie then proposes singing. Sumire asks why, denies she will become an idol, and says she will not sing. Haru encourages her, but Connie starts the music while Sumire is still protesting. [E08] The following episode begins with Sumire's own description: she was made to sing. The Player apologizes. She concedes it was not unenjoyable and values having seen him work, then describes the existing members as serious and professional. When she realizes they were the impressive performers in the karaoke footage, she turns that regard downward—“my cookies” against their professionalism—stops herself, and leaves. [E09] Her withdrawal is not well explained by lack of pleasure; admiration has become evidence of her own insufficiency.
 
-After Sumire leaves, the Player calls her memorable. Her appearance first reads as that of a contemporary girl, but he senses something not exhausted by that category. Connie arrives using another unstable comic register and identifies his expression as the look of someone who has met a promising rough gem. He privately concludes that the girl may indeed be a good idol candidate and that he should find and scout her. [E07]
+### 1.4 “I am not serious enough” is a serious refusal (`201000606`)
 
-He has not assessed singing, dancing, stage presence, stated desire, or sustained work. He also does not exchange names or make an offer in the shown encounter. What produces the judgment is Sumire's unsolicited conduct toward him. The episode ends at future intent: she does not know she has been categorized as a candidate, and there is no recruitment decision for her to accept or refuse.
+The Player searches again. At the sole choice, he either immediately admits doing so or initially calls the encounter coincidence; the latter branch converges on an honest admission that he was worried. Neither branch changes the later decision state. [E10]
+
+Sumire says she is not uninterested. The visit was fun, she could get along with everyone, and joining might not be bad. Her refusal follows because those reasons seem too casual beside members working seriously and a manager pursuing a dream. She does not want to enter with an `いいかげんな気持ち`. She then catches herself speaking earnestly and predicts that such serious talk is unfashionable and off-putting. [E10]
+
+The Player says seriousness is good and recognizably hers. He groups kindness, cooking, seriousness, and the name `スミレ` as things that fit her, says he likes those parts, and asks to know her feelings. The recognition is specific enough to oppose her separate disqualifications. It is also ethically mixed: he again uses the explicitly prohibited given name and does so as part of defining what is “her.” Sumire is moved, then points out the violation. [E10]
+
+Connie interrupts from concealment, says youthful trouble should be sung, and tells Sumire to discard common sense and trends and shout as her unadorned self. She pushes another song; the Player internally identifies the lack of context yet still joins the encouragement. The performance is elided. [E11]
+
+### 1.5 Shining supplies evidence against being half-finished (`201000607`–`201000608`)
+
+After the unseen song Connie says Sumire has aptitude. Sumire still hesitates. Connie then makes her most epistemically careful statement in the chapter: she cannot know whether Sumire's feeling is half-hearted, but she can say that Sumire shone while singing. The Player agrees. [E11]
+
+Sumire repeats the judgment in disbelief and links it to a broader self-model: she has been half-finished at whatever she does. She then laughs openly. Connie calls it her natural smile, and the Player agrees. Connie credits him with drawing it out and finally looking like a manager. Asked whether the lion's trial is over, she has forgotten the phrase, confirming the original rationale's improvisation. [E11]
+
+Sumire next appears outside Nanasta saying she has already decided why she came but cannot gather courage. Before she can deliver the prepared statement, Connie proposes joining a livestream immediately. The Player objects that this is too sudden. Connie assumes that performance was Sumire's purpose and invokes the support of everyone. Sumire first hesitates and then explicitly says, `アタシやるよ！ / やってみる！` [E12] This is real assent to the immediate act. Its abrupt, pressured context prevents it from standing in for terms she was never shown discussing.
+
+### 1.6 Membership and the name become chosen relations (`201000609`)
+
+The final episode begins after the elided stream. The Player apologizes that Sumire was made to appear before becoming an idol and rebukes Connie's excess. Sumire asks whether she looked like she shone. After he confirms it, she declares that she will become an idol and came for that purpose. She concedes that her seriousness may not yet equal the others', but says she wants to shine here, at the Nanasta where he is, and that this feeling alone is not `いいかげん`. The Player welcomes her. [E13]
+
+He then remembers the name restriction. Sumire grants him—and explicitly only him—permission to call her `スミレ` because he said he liked the name. She changes her address for him from `アンタ` to `支配人`, asks whether he has a girlfriend, and responds with visible relief when he says no. Connie calls love what makes a girl shine; Sumire loudly denies `ラヴ` and again invokes `イミワカ`. [E13–E14] Attraction is strongly implied by exclusivity, the question, the response, and Connie's framing. It is not a literal confession, and Sumire's denial remains part of the evidence rather than an obstacle to be deleted.
+
+Connie privately proposes a costume. Sumire first says it is impossible, then agrees after Connie claims that the Player likes this kind of thing; the exact whispered proposal and assurance are withheld. She changes, returns in a black bunny leotard with ears, bows, tail, white thigh-highs, heels, and a microphone, and addresses him as `ご主人さま`. He faints. [E14] Her later `わかった` and `うん` are evidence of assent after persuasion. They do not reveal complete terms, make the pressure irrelevant, or convert membership and attraction into blanket costume consent.
 
 ## 2. Analytical findings
 
-### 2.1 `フツーでイマドキ` is a normative identity, not an empty baseline
+### 2.1 `イマドキ` becomes a technology of self-disqualification
 
-Sumire's opening does not merely locate her demographic type. She lists the practices that make the type legible—fashion, after-school friends, lightness, freedom from tiring demands—and tests herself against them. Her friends' apparent lack of the same question makes private doubt feel deviant. She then polices the thought herself as useless, strange, and incomprehensible.
+The opening identity is not merely a fashion description. Across the complete chapter, “currentness” governs what Sumire believes can count as socially fitting: her feminine name supposedly contradicts her visible style; cooking is too old-fashioned; serious speech is uncool; idol work is culturally stale. Each case turns a capacity or feeling into a mismatch before another person can reject it.
 
-The chapter has not yet supplied the history behind this norm, so a “false gyaru mask” conclusion would outrun the evidence. Sumire explicitly calls the life fun. The defensible opening state is coexistence: ordinary contemporary sociability gives pleasure and mobility, while being reducible to it feels heavy.
+This does not justify reducing the entire persona to defense. Friends, fashion, karaoke, lightness, and quick humor remain things she enjoys. The chapter instead shows a norm that both organizes pleasure and narrows what she can claim. `イミワカ` is one compact closure within that system: it dismisses private doubt, idol possibility, unwanted intimacy, praise, and romantic exposure at different moments. The shared word does not make every motive identical.
 
-### 2.2 Her action exceeds both the lightness script and the kindness label
+### 2.2 The adequacy refusal reveals an ethical standard
 
-The rescue scene supplies a concrete counterpressure to `疲れることなんて何もない`. Sumire immediately takes responsibility for what she believes is a life-or-death situation involving a stranger. This does not prove that she secretly seeks burden, that the prologue was a lie, or that “kind girl” is her true essence. It does establish that her practice can become urgent, effortful, and morally committed before her self-description admits those qualities.
+Sumire's most explicit refusal arrives after she admits interest. She treats existing members' effort and the Player's dream as claims she must not exploit with casual curiosity. Her comparison is harsh and asymmetric—professional performance is allowed to invalidate homemade competence—but it also reveals respect for work and other people's stakes.
 
-The Player's word `優しい` is therefore accurate at the level of this action but totalizing if treated as a complete identity. Sumire's embarrassed refusal may protect her current social style, reject premature intimacy, resist being neatly known by a stranger, or reflect a deeper prohibition still absent from the evidence. Later material must discriminate among those alternatives.
+The chapter's irony is exact: she declares herself insufficiently serious through a speech whose ethical seriousness the Player recognizes. Recruitment succeeds only after she can distinguish between total parity with the others and one present feeling she can own as nontrivial. She does not claim equal history, perfected commitment, or guaranteed endurance.
 
-### 2.3 Scouting is inverted into being rescued
+### 2.3 The name moves from anticipated fraud to chosen intimacy
 
-Earlier recruitment often begins with Connie or the Player viewing a girl from outside and translating visible conduct into candidacy. Here the Player's deliberate visual search fails. He becomes legible to Sumire as a person needing help, and only from inside that unequal misunderstanding does he encounter a capacity worth remembering.
+`スミレ` first appears as a site of anticipated ridicule. Sumire controls exposure by supplying her surname and forbidding the given name. The Player's praise counters her expectation that the name and appearance cannot coexist, but he repeatedly violates the boundary before permission. Beneficial recognition and relational trespass are simultaneous.
 
-The inversion matters even though the suicide inference is false. Sumire acts for a person rather than for an audition; the Player receives her effect before naming potential. This is a more relational discovery route than pure appearance assessment. It is not automatically ethical recruitment: he still forms a professional intention without her knowledge and has not learned her interests, name, constraints, or consent.
+At the end, Sumire does not abandon the boundary; she exercises it. Permission is exclusive and reasoned: this person may use the name because he explicitly valued it. That turns the name from a test imposed by others into a resource she allocates. The later permission changes the current relationship but cannot retroactively authorize earlier use.
 
-### 2.4 The lion story is false as provenance but partially true as function
+### 2.4 “Shining” is evidence of completed effect, not a stable essence
 
-Connie plainly oversleeps, then declares the absence intentional. Her mixed lion, wrestling, and tiger rhetoric makes the explanation visibly improvised. Treating it as a planned test would convert comic self-exculpation into fact.
+Sumire's global judgment is that she is half-finished at everything. The sung moment matters because Connie and the Player report an observable completed effect: she shone. Connie carefully separates what she cannot know—whether the feeling is sufficiently serious—from what she observed. Sumire accepts the event as evidence that a half-finished self nevertheless produced something whole enough to be seen.
 
-At the same time, the situation does test the Player. Without Connie's target selection he admits dependence, searches unsuccessfully, doubts his perception, and finally makes an independent candidate judgment. The episode title can therefore name a function the event acquires without certifying Connie's account of how it began.
+The performance itself is omitted. No singing quality, choreography, audience response, acoustic affect, or comparative ability can be inferred. “Shining” is a relational judgment that changes her decision, not a technical evaluation or proof of durable idol identity.
 
-### 2.5 Sleep speech adds a clue without producing disclosure
+### 2.5 Recognition works, but recruitment ethics remain mixed
 
-Connie's `セブンスライブはっじまるよー` sounds like an involuntary performance opening, and the Player himself reports vague familiarity. In the existing horizon—where Connie≈Nicole is already the strongest bounded solution—this is additional identity-bearing pressure. It remains ambiguous in isolation: the phrase does not literally name Nicole, supply a complete memory, or establish whether it is recollection, dream recombination, or a generic stage line.
+The Player improves over the chapter. He discloses his role and dream, offers to defer when she has plans, says a refusal would be acceptable, apologizes for Connie's force, asks for Sumire's feelings, objects to the sudden stream, and rebukes the final excess. His specific recognition connects qualities she had separately disowned.
 
-Most importantly, the Player abandons the association. His knowledge state advances from earlier interrupted familiarity to another moment of near-recognition, not to explicit acquisition. The asymmetry survives.
+He also repeatedly uses the forbidden name, continues pursuit after refusal, praises a totalizing version of what is “Sumire-like,” and participates in performances Connie initiates over protest. The final mutual address shift and implied attraction make the relationship more reciprocal, not retroactively clean. His success as a scout is therefore developmental evidence, not ethical exoneration.
 
-### 2.6 Japanese textual voice stages self-policing through fashionable compression
+Connie remains more coercive: surveillance, assumed answers, music started over refusal, another song push, and a sudden livestream. Her ability to create opportunities and see a possible stage self remains real. Her statement that she cannot know Sumire's interior seriousness is a valuable limit, but one correct epistemic boundary does not repair the others she crosses.
 
-These are textual observations only. Sumire uses `アタシ`, clipped colloquial forms (`見てのとーり`, `って`, `っつーの`), katakana emphasis (`フツー`, `イマドキ`, `イミワカ`, `キマグレ`), and English-derived or fashion-coded vocabulary to perform contemporaneity. `イミワカ` does more than express confusion: it closes her private reflection at log 10 and later rejects the Player's moral reading at logs 58–60. The same compact label polices both an inward question and an outward attribution.
+### 2.6 Local consent is the only defensible recruitment map
 
-Her intervention is also verbally precise beneath the style. She names the feared act, conditions release on reassurance, states the limit of her work experience, and offers only the modest claim that work is probably not all bad. The register is not evidence of shallowness; it carries quick situational judgment and then defensive retreat.
+The chapter's decisions must stay temporally distinct:
 
-Connie's language moves in the opposite direction: sleepy stage address, panicked waking, fable, wrestling jargon, false pedagogical certainty, tiger exhortation, and renewed sleep. Register instability keeps control of pace while exposing the retrospective excuse.
+- At `201000601`, Sumire does not know she is a candidate.
+- At `201000602`, she receives an explicit offer and rejects idol work; she separately refuses two-person karaoke.
+- At `201000603`, she enjoys the completed karaoke and Nanasta footage but gives no recruitment answer.
+- At `201000604`, she chooses a visit while denying membership and refuses the song that follows.
+- At `201000606`, she admits interest but refuses entry on adequacy/seriousness grounds; another song is pushed.
+- At `201000608`, she arrives after making an unstated decision and explicitly accepts an immediate livestream under pressure.
+- At `201000609`, after that experience, she explicitly and in her own words chooses Nanasta membership.
+- In the costume coda, she initially refuses, receives undisclosed persuasion, then assents to changing and appears in the costume.
 
-### 2.7 Exact overlays distinguish stable styling from changing affect
+This map permits neither a “she always wanted it, so force was harmless” reading nor a “all later choices are void” reading. Desire, pressure, refusal, experience, and later authorization coexist as different states.
 
-The opening sky occurrence, Nanasta office/HoloCom item, and riverside occurrence were inspected through exact visual-relation rows and hash-matching canonical assets. Six Sumire expression layers were alpha-composited onto the single exact body `adv_chara_008_01` at the verified native face offset `(166,84)`: urgent arrival `..._11`, alarmed/clinging `..._04`, restrained uncertainty `..._09`, gentle encouragement `..._02`, flustered protest `..._05`, and blushing deflection `..._12`.
+### 2.7 Japanese textual voice exposes the rule while trying to hide it
 
-The body remains constant while the face sequence changes. Sumire's highly coordinated presentation—voluminous orange hair, cream ribbon-fastened knitwear, black and hot-pink dotted/ruffled skirt, and layered leg accessories—makes `イマドキ` visually specific rather than a neutral lack of style. The unchanged costume across alarm, reassurance, embarrassment, and retreat prevents those affects from being mistaken for different outfits or personas. It also does not prove who selected the clothing, how peers judge it, or that any isolated expression is a durable trait.
+These observations are textual only. Sumire's `アタシ`, clipped forms, katakana compression, fashion vocabulary, abrupt reversals, and repeated `てゆーか` sustain a quick contemporary register. But the most consequential lines lengthen into causal reasoning: she compares motivations, distinguishes degrees of seriousness, recognizes other people's labor, and specifies why one feeling is not half-hearted. She then often retreats into the fashionable shorthand that predicted the speech would be embarrassing.
 
-This reconstruction reproduces the native body-plus-face still geometry. It does not simulate full runtime screen placement, fade/shake timing, continuous motion, camera behavior, or performed affect. Six contrastive voice cues were exactly resolved and byte-verified but not audibly reviewed; no claim depends on delivery, acoustic affect, music, or timing.
+The contrast is not between a shallow voice and a hidden eloquent self. The same voice performs both social lightness and exact ethical judgment. Even her final declaration keeps qualifications: she may not match the others yet, but one desire is real enough to act on.
 
-## 3. State handoff and closeout
+### 2.8 Exact layer reconstruction recovers intended stills, not the full performance
+
+Thirteen exact Sumire body/expression composites were reconstructed from native commands and hash-matching files. The ordinary body uses the verified `adv_chara_008_01` face offset `(166,84)`; the bunny-stage body uses `adv_chara_008_02` offset `(129,131)`. Across urgent care, shame, seriousness, self-doubt, determination, commitment, and name permission, the ordinary body remains stable while face layers change. The later bunny reveal is not a face placed on the ordinary costume: it is a complete alternate body resource with a dynamic microphone pose, over which grin and alarm faces are separately layered.
+
+The additional reviewed ordinary faces include `adv_chara_008_01_03`, `_06`, `_07`, and `_08`; their exact SHA-256 values are `4ef21b05b42aa3e64dd5741c2d3f06e773733eeddbb71cdc98a56be3d22e0127`, `26ec902c22f1897ea8b85d86688b1ea0e7a106ee69ea32c9bb9fd24d06243540`, `188f3a4865e56bf0f31438455cc3bce8eb1a94425524c7cb70c80788855399c7`, and `f25f8e7458ddefe35e093699690893a1d19f5767c26bebc8f50f5e802fe9c5ef`. The shared ordinary body is `a72bd127faade4229587eff774c6b319fd99e8221290d4cfbd61769441d8afa4`. The bunny body is `a4da175acde5e3164799f9cf69a33418076f12f2e7382e7da3b634b9162b4aec`; its two reviewed faces are `bfc51020bea93df98241adb75b5023f4f3c1beda579fb06347751baad69e22b5` and `bab7cf939fe8e81d22954edc814f716ae0e7ba9a95729a526cd915ea704b2021`. Every listed file was byte-hash checked.
+
+The cookie item, sunset/daytime river settings, and Nanasta stage were also inspected. The stills support presentation, expression contrast, and prop/context observations. Alpha compositing recovers the intended static body-plus-face geometry; it does not reproduce full runtime placement, layer transitions, fades, shakes, camera behavior, continuous movement, timing, or performed affect. Fourteen selected voice cues were exactly resolved and byte-verified, but none was audibly reviewed. No claim depends on delivery, singing quality, music, or acoustic timing.
+
+## 3. Retrospective adjudication of the opening horizon
+
+The original v1.0 reading stopped after `201000601` and froze `PRED-0005`: the discrepancy between enjoyed ordinary/current lightness and urgent care would be tested or explained, without predicting idol interest, recruitment response, or membership. The continuation confirms recurrence and identifies part of the mechanism. Name, cooking, serious speech, and idol work are each screened through social currentness; global `中途半端` self-judgment supplies a second, broader inadequacy rule. The later chapter also newly observes attraction and membership, outcomes the prediction explicitly declined to forecast.
+
+The adjudication is partial rather than total. The exact cause and history of the ordinary/current burden, the nature of her offscreen friendships, and whether every `イミワカ` serves the same defense remain unknown. Opening pleasure stays true. The rescue remains meaningful conduct without becoming proof that “kind girl” is her sole authentic identity.
+
+The nine episodes warrant one chapter-level analytical document because later movements repeatedly reinterpret earlier ones: cookie concealment clarifies the opening norm, the adequacy refusal explains the earlier withdrawal, the shining judgment answers half-finishedness, and the final name permission transforms—but does not erase—the earlier boundary. Episode-level granularity is preserved through the integrity table, locator key, event ledger, and consent sequence. Compression here is synthesis across a tightly causal arc, not a judgment that individual episodes lack depth.
+
+## 4. State handoff and closeout
 
 | Dimension | End-of-block state |
 | --- | --- |
-| Sumire | Self-presented ordinary/contemporary high-school girl who enjoys fashion and friendship but privately experiences the category as unexplained weight; suppresses the question, later intervenes in a stranger's presumed crisis, encourages him, and disowns “kind” as her identity. |
-| Player | Still second manager of five performers; sent out alone after Connie oversleeps; explicitly recognizes dependence on her intuition, initially fails to find talent, then independently treats Sumire's conduct as candidate evidence. He has not contacted, named, evaluated, or recruited her. |
-| Connie | Oversleeps, produces an improvised lion/tiger trial rationale, transfers scouting responsibility, and later recognizes from the Player's expression that he met someone promising. Sleep speech adds another ambiguous performance-memory clue without disclosure. |
-| Recruitment | Search intent exists only on the Player's side. Sumire does not know Nanasta's purpose and expresses no idol preference, consent, refusal, audition, or membership. |
-| Nanasta | Remains a five-performer institution with scouting active; this episode tests the Player's ability to originate candidate judgment without Connie selecting the person first. |
+| Sumire | Her age is not established; she is a current high-school student who enjoys fashion/friends, protects handmade care and earnestness through currentness-based self-disqualification, and holds a global half-finished self-judgment. She has now chosen Nanasta membership, grants the Player exclusive given-name permission, and shows strongly implied attraction. Stability across labor, conflict, failure, ordinary friendships, family, and later performance is unknown. |
+| Player | Manager of six consenting current performers. He originates and completes a recruitment, discloses his dream, listens to the candidate's adequacy concern, accepts the possibility of refusal, and objects/apologizes at several pressure points. He also repeatedly violates the name boundary and participates in Connie-led coercive performances. His relationship with Sumire gains chosen intimacy; its professional/romantic boundary remains untested. |
+| Connie | Her improvised withdrawal does force genuine scouting development. She sees Sumire's potential and later limits her claim to observed shining rather than interior seriousness. She nevertheless uses surveillance, forced songs, assumed consent, a sudden stream, and costume pressure. The lion-trial rationale is confirmed as improvised when she forgets it. |
+| Recruitment | Sumire explicitly chooses current membership after the elided livestream. This is neither back-projected into earlier refusals nor generalized to every song, name use, stream term, costume, or future labor demand. |
+| Nanasta | Advances from five to six current performers. Existing members provide welcome, recognition of cooking, and a serious-practice standard, while also failing to enforce name and song boundaries. Reliable institutional consent, privacy, costume, information, workload, and romance/professional safeguards remain unresolved. |
 
-`THREAD-0010` opens: what makes ordinary/contemporary life heavy for Sumire, why she refuses the kindness attribution after acting, and whether later recruitment can distinguish her desire from the useful effect she already had on the scout. A frozen prospective prediction may expect the self-description/action discrepancy to be tested, but must not predetermine idol interest or successful recruitment.
+`THREAD-0010` remains open but transforms. Immediate recruitment is resolved; ordinary/current self-policing, global half-finishedness, the durability of chosen seriousness, offscreen peer/family life, relation-specific naming, and professional/romantic/costume boundaries now require longitudinal tests. Sumire reaches `R2_STATE_BOUNDED`: the complete introductory chapter supplies a grounded state transition, repeated decision rule, differentiated consent history, ordinary-life skill, central relationships, and partial exact visual reconstruction. It does not support portable R3 conditions or a mature monograph; performed voice and every song remain unreviewed, and later conflict/failure/routine are absent.
 
-No reconstruction-readiness or monograph decision is created from one introductory episode. B0007 is fully screened, reconstructed, closely analyzed, and integrated through page/log 72. Six exact body/expression composites and three setting/item contexts receive bounded visual review; performed voice/music remains queued. Episode `201000602` is the next native candidate, but it is **not admitted and was not opened**. The authorized ten-episode operation stops here.
+B0007 is fully screened, reconstructed, closely analyzed, and integrated through episode `201000609`. Episode `201000701`, script `scout_007_01_01.json__6dd916ae293fdd45`, title 今度は王子さま？ / 第1話, in chapter `300080` / マイ・プリンス・フォーエバー, is the next native candidate. Only its catalog metadata was checked; its story content was not opened.
 
 ## Revision history
 
-- 2026-09-10 — V1 / 1.0: close only episode `201000601`; read all 73 pages and 69 text records, reconstruct six exact Sumire body/expression composites at the verified native offset, preserve ordinary-life pleasure and unexplained weight together, distinguish the false suicide inference from the real intervention, record the Player's first independent candidate judgment without inventing recruitment consent, and stop before unopened `201000602`.
+- 2026-09-10 — V1 / 1.0: close only episode `201000601`; preserve ordinary-life pleasure and unexplained weight together, distinguish the false suicide inference from the real intervention, record the Player's private candidate judgment, reconstruct six native-offset Sumire composites, freeze `PRED-0005`, and stop before `201000602`.
+- 2026-09-10 — V1 / 2.0: expand B0007 through all nine episodes of complete Main chapter `300070`; consume 401 pages, 378 text records, and both choice branches; distinguish every local recruitment/performance/costume decision; identify currentness-based self-disqualification and the half-finished adequacy model; record self-authored membership and exclusive name permission; expand exact still reconstruction to thirteen composites across ordinary and bunny bodies; adjudicate `PRED-0005` without rewriting it; and stop before unopened `201000701`.
