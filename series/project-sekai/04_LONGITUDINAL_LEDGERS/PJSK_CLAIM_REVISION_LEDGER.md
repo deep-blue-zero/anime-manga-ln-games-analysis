@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
-analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
+source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved"
+analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -15,7 +15,15 @@ mutable: true
 
 # Project SEKAI Claim Revision Ledger
 
-## Current authority and reference disambiguation
+## Current EVENT_0005 checkpoint
+
+**EVENT_0005 is fully integrated:** MMJ PRIMARY/HIGH / I3 through adopted freelance activity, shared production/management work and operative identity knowledge; Leo/need, VBS, WxS and N25 are NONE / documentary I0. The four MMJ human defaults remain `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`; the unit state advances `MMJ-REL-GROUP-05 -> MMJ-REL-GROUP-06`. Existing dyads receive bounded refinements and recipient-specific knowledge is separate. Stage Rin/Miku and public recordings retain distinct responsibilities. The retained complete discovery covers 18 stories / 47 scenes / 1,162 records; root wording corrections, core interpretation and bounded card rereading are reconciled. All five main-story foundations and EVENT_0001–0005 unit dispositions are complete. Eighteen earlier universal screens remain: `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. The next historical candidate is EVENT_0006. Forward EVENT_0090 / next EVENT_0091 and N25 tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No principal-human R3 package, public career outcome or final synthesis is certified. This `single_operation` ends after its validated commit; the next candidate is not authorization to proceed.
+
+Causal home: [EVENT_0005 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md).
+
+The foundation and EVENT_0001–0004 paragraphs below preserve their then-current workflow counts and handoffs. This EVENT_0005 checkpoint supersedes those operational counters; their source evidence and historically scoped analytical states remain intact.
+
+## Preserved earlier authority and checkpoint context
 
 N25 claim authority reaches **EVENT_0090**, refining `CR-N25-E-085` and strengthening `CR-N25-E-086` / `CR-N25-ENA-021` without adding a duplicate claim. E0070's subject-sensitive pedagogy rule remains bounded; Ena is a learner here. Preserve EVENT_0089's `CR-N25-K-096`, `CR-N25-G-097`, `CR-N25-VS-098`, resolved maternal discovery and qualified care/agency refinements, EVENT_0084's K-027 refinement, EVENT_0080's MF-094/MF-095 and EVENT_0077's E-091/MF-092/FAMILY-093 with the MF-088 chronological correction. No professional certainty, completed liberation or shared private knowledge is established. Earlier summaries are historical handoffs; source currency alone confers no analytical authority.
 
@@ -2198,3 +2206,93 @@ Retain specific fear history and previously accepted gradual plans. Here proacti
 **Evidence:** `PJSK:card:0128:01:002:0009–0017`; `PJSK:card:0128:01:003:0015–0035`; `PJSK:event:0004:08:001:0002–0007`.
 
 **Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Exact limits, relapse risk and broad durability remain OPEN.
+
+## Historical EVENT_0005 — chosen freelance activity and bounded integration
+
+Historical EVENT_0005 — **MMJ I3**, with Leo/need, VBS, WxS and N25 NONE / documentary I0. The [EVENT_0005 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md) owns the shared causal account; the upstream routing ledger preserves all 18 source responsibilities. Four MMJ MS-04 human IDs remain; `MMJ-REL-GROUP-05 -> MMJ-REL-GROUP-06` records the adopted freelance model, and separate epistemic records make changed assumptions and recipients explicit. The following entries are EVENT5-qualified: every main-story and EVENT1–4 state remains valid in its original period, and no later-event premise is imported. Source confidence is HIGH for the stated evidence and its attribution; unshown outcomes and broader durability remain OPEN. No mature reconstruction package is certified.
+
+### MMJ-CL-001 — EVENT_0005
+
+**Prior:** Main P04 limits and EVENT4 reciprocity.
+
+**Disposition:** STRENGTHEN.
+
+**Bounded change:** Hope supplies renewed attempts through music, recipient recognition and concrete alternatives; failed search and incomplete research keep outcomes uncertain.
+
+**Evidence:** `PJSK:event:0005:05:001:0002–0035`; `PJSK:event:0005:06:001:0043–0084`; `PJSK:event:0005:08:001:0023–0067`.
+
+**Limits / confidence:** No success guarantee, universally beneficial encouragement or permanent emotional invulnerability. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-CL-002 — EVENT_0005
+
+**Prior:** P02 clarified imposed role-redirection.
+
+**Disposition:** REVISE/EXTEND.
+
+**Bounded change:** Positive childhood interest in entertaining talk and later variety injury coexist with a private readiness to relinquish choice for the group. Airi ultimately revises the conventional idol image as a necessary condition, preserving vocation.
+
+**Evidence:** `PJSK:event:0005:01:002:0002–0013`; `PJSK:event:0005:04:003:0006–0017`; `PJSK:card:0129:02:002:0019–0034`; `PJSK:card:0132:02:002:0019–0027`.
+
+**Limits / confidence:** Not a claim she always hated variety or now rejects every old skill; the recording complaint stays attributed. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-CL-003 — EVENT_0005
+
+**Prior:** P01 Shizuku gentle protective initiative.
+
+**Disposition:** STRENGTHEN.
+
+**Bounded change:** Shizuku proposes rest and alternatives, accepts a learning role and specifies her own four-person vocation after considering hypothetical modeling usefulness.
+
+**Evidence:** `PJSK:event:0005:03:003:0009–0015`; `PJSK:event:0005:04:001:0012–0025`; `PJSK:event:0005:07:003:0017–0028`; `PJSK:card:0132:01:002:0016–0049`.
+
+**Limits / confidence:** Airi’s questions do not author Shizuku’s answer; no general incapacity, verified rumor or completed former-group repair. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-CL-004 — EVENT_0005
+
+**Prior:** P03 differentiated recognition injuries and cumulative Shizuku departure.
+
+**Disposition:** STRENGTHEN/EXTEND.
+
+**Bounded change:** Credentials, aura concerns and admired appearance produce different pressures. Minori wants recognition without leaving; Shizuku wonders about usefulness without choosing modeling; agency fear remains a reported institutional constraint.
+
+**Evidence:** `PJSK:event:0005:02:003:0002–0024`; `PJSK:event:0005:03:004:0020–0035`; `PJSK:card:0130:02:001:0002–0021`; `PJSK:card:0130:02:003:0023–0048`; `PJSK:card:0132:01:002:0002–0049`.
+
+**Limits / confidence:** No one causal account for all institutions, objective aura or total attribution of Shizuku’s past departure. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-CL-006 — EVENT_0005
+
+**Prior:** P05 recipient recognition and mutual membership.
+
+**Disposition:** STRENGTHEN.
+
+**Bounded change:** Rin’s specific enjoyment and desire to sing with Airi, the former colleague’s interest in Minori and useful novice contributions give recognition person-specific content beyond credentials.
+
+**Evidence:** `PJSK:event:0005:06:001:0043–0050`; `PJSK:card:0131:01:002:0016–0026`; `PJSK:card:0131:02:001:0016–0035`; `PJSK:card:0133:01:003:0022–0044`.
+
+**Limits / confidence:** No new beginning of Airi/Rin trust, automatic reconciliation or professional equality. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-CL-009 — EVENT_0005
+
+**Prior:** P05 accepted group; agency/public debut/sustainability OPEN.
+
+**Disposition:** REVISE current operating model; PRESERVE historical uncertainty.
+
+**Bounded change:** The external operating approach is now selected: all four choose freelance activity and undertake management/video preparation. Membership continues to accommodate uneven skills.
+
+**Evidence:** `PJSK:event:0005:08:001:0012–0075`; `PJSK:card:0131:01:002:0002–0015`; `PJSK:card:0132:02:002:0002–0034`; `PJSK:card:0133:01:001:0002–0013`.
+
+**Limits / confidence:** Public launch, earnings and long-term workload success stay OPEN. Do not edit the P05 historical entry into later knowledge. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-CL-E0005-PRESERVATION — EVENT_0005
+
+**Prior:** Haruka’s prior care and chosen group; E08 public rigidity remark.
+
+**Disposition:** NEW I2 interpretive claim.
+
+**Bounded change:** Preserving received hope can narrow attention to another means of acting. Haruka partly endorses protective awareness but limits Airi’s elaborate motive inference, admits neglected challenge and values the new proposal.
+
+**Evidence:** `PJSK:event:0005:08:001:0058–0064`; `PJSK:card:0133:02:002:0014–0045`.
+
+**Limits / confidence:** Neither selfish obstruction nor fully foresighted protective performance explains the whole exchange. Shared talk is proposed, not proved an enduring routine. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+**Explicit preservation:** `MMJ-CL-007–008` retain Haruka’s historical cause and supported-access limits; `MMJ-CL-010` keeps the already-revised teaching condition. No new contradiction licenses erasing these histories.

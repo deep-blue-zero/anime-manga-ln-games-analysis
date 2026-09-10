@@ -49,18 +49,28 @@ SUPERSEDED
 
 ## Initial coverage
 
-### Current coverage — updated through EVENT_0090 on 2026-09-09
+### Current coverage — EVENT_0005 historical transaction; forward EVENT_0090 retained
+
+**EVENT_0005 is fully integrated:** MMJ PRIMARY/HIGH / I3 through adopted freelance activity, shared production/management work and operative identity knowledge; Leo/need, VBS, WxS and N25 are NONE / documentary I0. The four MMJ human defaults remain `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`; the unit state advances `MMJ-REL-GROUP-05 -> MMJ-REL-GROUP-06`. Existing dyads receive bounded refinements and recipient-specific knowledge is separate. Stage Rin/Miku and public recordings retain distinct responsibilities. The retained complete discovery covers 18 stories / 47 scenes / 1,162 records; root wording corrections, core interpretation and bounded card rereading are reconciled. All five main-story foundations and EVENT_0001–0005 unit dispositions are complete. Eighteen earlier universal screens remain: `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. The next historical candidate is EVENT_0006. Forward EVENT_0090 / next EVENT_0091 and N25 tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No principal-human R3 package, public career outcome or final synthesis is certified. This `single_operation` ends after its validated commit; the next candidate is not authorization to proceed.
+
+Causal home: [EVENT_0005 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md).
 
 - Frozen source boundary: `PJSK_SOURCE_20260822T184634Z_EVENT_0213`; see [source lock](PJSK_ANALYTICAL_SOURCE_LOCK.md).
 - Latest closed forward transaction and positive N25 integration: `EVENT_0090`, I2 Ena expressive-method refinement; next `EVENT_0091`. All six longitudinal ledgers reach EVENT_0090. Two bounded cross-unit relationship responsibilities and three epistemic records are added without a new global human state. Preserve EVENT_0089's protective/family/KAITO records and unequal-information limits, EVENT_0080's Mafuyu–Shizuku state, `REL-N25-EM-5`, E0077 corrections and all unaffected increments. No completed art career, liberation or taste recovery.
 - Current N25 tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`.
-- Completed main-story foundations: all five human units — N25, LEO_NEED, VBS, MMJ and WXS. Their main-story baselines remain current; EVENT_0001 adds LN I2 and WxS/MMJ I1; EVENT_0002 adds bounded LN I1 with existing N25 I3 retained; EVENT3 and EVENT4 founded dispositions are integrated below, while later material routes remain pending ordered work.
-- Franchise routing inventory reaches EVENT_0090, but gap-free universal screening is **not complete**: 19 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
+- Completed main-story foundations: all five human units — N25, LEO_NEED, VBS, MMJ and WXS. Their main-story baselines remain current; EVENT_0001 adds LN I2 and WxS/MMJ I1; EVENT_0002 adds bounded LN I1 with existing N25 I3 retained; EVENT3–5 founded dispositions are integrated, while later material routes remain pending ordered work.
+- Franchise routing inventory reaches EVENT_0090, but gap-free universal screening is **not complete**: 18 earlier entries in the routing ledger remain `PENDING_ONE_TIME_UNIVERSAL_SCREEN` (`0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`). These are workflow gaps, not interpretive uncertainty, and must be closed without repeating already completed envelope passes.
 - Material routes for LEO_NEED, MMJ, VBS and WXS still require ordered foundation-aware interpretation. All five human units now have their main-story baselines. EVENT_0046–0090 universal screens and earlier reusable complete readings retain their bounded authority.
 - Principal-human packages and reconstruction-readiness certification, unit/specialist/full-series syntheses, final audits, and integration remain incomplete. Event-local R3 yield does not certify a completed R3 character package.
-- Execution authority: continuous through the frozen inventory and remaining completion dependencies; ordinary event/foundation handoffs do not require renewed confirmation.
+- Execution authority: `single_operation EVENT_0005`, completed at this checkpoint; stop after commit and verification. The earlier continuous campaign remains paused. EVENT_0006 is a routing pointer requiring a new user instruction.
 
-### Current historical-screen handoff — EVENT_0003
+### EVENT_0005 source and reconstruction review
+
+The 18 canonical hashes and release membership match the locked authority; eight core stories (603 records) and ten card stories (559 records) retain separate semantic-reading responsibility. Original discovery and independent criticism are reused, with required retreat/audition wording corrections and tentative Minori response honored. No media or unrelated attachments were analyzed. All seven analytical lenses, 11 relationship routes, four humans, separate Stage participants, nine knowledge responsibilities and ordinary behavior are covered in the event reading and longitudinal entries. Character reconstruction review preserves four MS-04 humans and the historical GROUP-05, adds GROUP-06 and its event-qualified knowledge, and leaves all principal-human packages uncertified. Later longitudinal routes, monographs, dedicated reconstruction/evidence models, unit/specialist/full-series syntheses and final audits remain unfinished.
+
+The foundation and EVENT_0001–0004 paragraphs below preserve their then-current workflow counts and handoffs. This EVENT_0005 checkpoint supersedes those operational counters; their source evidence and historically scoped analytical states remain intact.
+
+### Preserved historical-screen handoff — EVENT_0003
 
 **UNIVERSAL_SCREEN_COMPLETE:** 26 verified sources / 50 scenes / 1,456 ordered records, all actual hashes and record ranges checked. WXS PRIMARY/HIGH is integrated I3 on Rui's operative epistemic transition and LN CROSS_UNIT/LOW is integrated I1; MMJ/VBS/N25 NONE / I0 remain closed. Distinct Wonderland singer routes, two different puppet pairs, private knowledge and partial card chronology remain explicit in the [routing ledger](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md). Source discovery and the material EVENT_0003 unit comparisons are now complete; all later unit responsibilities retain their own prerequisites.
 
@@ -70,11 +80,11 @@ SUPERSEDED
 
 The [EVENT_0004 checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_N25_INTEGRATION_CHECKPOINT.md) §15 documents the corrected exclusion, exact source authority and bounded supplement. Coverage combines the retained 26-story pass with one newly read scene; the 27 verified hashes do not represent a repeated full-source reading. Complete mixed-unit EVENT4 interpretation is now integrated; all mature syntheses retain their unfinished longitudinal prerequisites.
 
-### Current EVENT_0003 interpretation authority
+### Preserved EVENT_0003 interpretation checkpoint
 
 The [EVENT_0003 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) integrates WXS I3 and the bounded LN I1 appendix while preserving all existing human/company IDs. Rui's new usable self-knowledge is independently state-changing; it does not require a broad personality replacement. All26 source responsibilities and seven analytical lenses are retained, with explicit recipients, ordinary behavior and OPEN outcomes. EVENT_0004 source-scope closure and founded interpretations are now complete;19 older source gaps still require work. No forward EVENT_0091 or mature-readiness advancement follows.
 
-### Current EVENT_0004 interpretation authority
+### Preserved EVENT_0004 interpretation checkpoint
 
 Historical EVENT_0004 is now fully integrated across its founded unit scopes: **MMJ I3**, **WXS I3**, **LEO_NEED I2**, **VBS I1**, and **N25 I2 preserved** with the earlier area009 I1 supplement. The [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) close the previously sparse non-active-unit detail through targeted evidence review. The retained complete discovery plus omitted area comprises 27 stories / 53 scenes / 1,433 records; no new universal pass is claimed. Haruka–Emu friendship and Haruka's continuing class access support I3; Saki's informed reliance implements her existing approach at I2. All human/group defaults remain, with differentiated ordinary, relationship and knowledge increments. Shared records have one reconciled EVENT4 entry per responsibility. Wonderland participants remain distinct from other manifestations. Nineteen historical screening gaps start at EVENT_0005; forward next EVENT_0091 and mature reconstruction/synthesis obligations remain unchanged.
 

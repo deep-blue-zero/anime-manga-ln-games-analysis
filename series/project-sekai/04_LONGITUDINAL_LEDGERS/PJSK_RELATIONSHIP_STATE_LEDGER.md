@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
-analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
+source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved"
+analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -15,7 +15,15 @@ mutable: true
 
 # Project SEKAI Relationship State Ledger
 
-## Current authority and historical-state resolution
+## Current EVENT_0005 checkpoint
+
+**EVENT_0005 is fully integrated:** MMJ PRIMARY/HIGH / I3 through adopted freelance activity, shared production/management work and operative identity knowledge; Leo/need, VBS, WxS and N25 are NONE / documentary I0. The four MMJ human defaults remain `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`; the unit state advances `MMJ-REL-GROUP-05 -> MMJ-REL-GROUP-06`. Existing dyads receive bounded refinements and recipient-specific knowledge is separate. Stage Rin/Miku and public recordings retain distinct responsibilities. The retained complete discovery covers 18 stories / 47 scenes / 1,162 records; root wording corrections, core interpretation and bounded card rereading are reconciled. All five main-story foundations and EVENT_0001–0005 unit dispositions are complete. Eighteen earlier universal screens remain: `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. The next historical candidate is EVENT_0006. Forward EVENT_0090 / next EVENT_0091 and N25 tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01` remain unchanged. No principal-human R3 package, public career outcome or final synthesis is certified. This `single_operation` ends after its validated commit; the next candidate is not authorization to proceed.
+
+Causal home: [EVENT_0005 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md).
+
+The foundation and EVENT_0001–0004 paragraphs below preserve their then-current workflow counts and handoffs. This EVENT_0005 checkpoint supersedes those operational counters; their source evidence and historically scoped analytical states remain intact.
+
+## Preserved earlier authority and checkpoint context
 
 Relationship authority reaches **EVENT_0090**, adding `REL-CROSS-ENA-SHIHO-E0090` and `REL-CROSS-ENA-AN-E0090` as bounded acquaintance records. Shiho's shown introduction differs from An's already established acquaintance; neither establishes intimate or guarded N25 knowledge. Existing creative/group bonds receive contextual evidence without successor IDs.
 
@@ -3126,3 +3134,141 @@ Preserve supportive classmates. Direct decorated-ball conversation with Shiho ad
 **Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Kohane receipt/delivery and wider Shiho dyad depth remain OPEN.
 
 All other established MMJ/WXS dyads, LN/VBS groups, Tenma household records and N25 relationships preserve their exact earlier histories; new school examples do not replace them.
+
+## Historical EVENT_0005 — chosen freelance activity and bounded integration
+
+Historical EVENT_0005 — **MMJ I3**, with Leo/need, VBS, WxS and N25 NONE / documentary I0. The [EVENT_0005 reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md) owns the shared causal account; the upstream routing ledger preserves all 18 source responsibilities. Four MMJ MS-04 human IDs remain; `MMJ-REL-GROUP-05 -> MMJ-REL-GROUP-06` records the adopted freelance model, and separate epistemic records make changed assumptions and recipients explicit. The following entries are EVENT5-qualified: every main-story and EVENT1–4 state remains valid in its original period, and no later-event premise is imported. Source confidence is HIGH for the stated evidence and its attribution; unshown outcomes and broader durability remain OPEN. No mature reconstruction package is certified.
+
+### MMJ-REL-GROUP-06 — EVENT_0005
+
+**Prior:** MMJ-REL-GROUP-05 with EVENT4 school-work accommodation.
+
+**Disposition:** NEW I3 unit operating state; retain prior history.
+
+**Bounded change:** Named mutual membership now governs a chosen freelance operating model: responsibilities are offered/shared, Airi’s imperfect production research joins Minori/Shizuku’s video experiment, Haruka adopts the approach and preparation continues. The new state begins at the collective choice and is corroborated by later work and outward explanations.
+
+**Evidence:** `PJSK:event:0005:08:001:0012–0075`; `PJSK:card:0131:01:002:0002–0015`; `PJSK:card:0132:02:002:0002–0034`; `PJSK:card:0133:01:001:0002–0013`.
+
+**Limits / confidence:** A durable adopted model is not completed public launch, income or indefinitely successful workload allocation. Six founding dyads and all school relations remain differentiated. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-HRAI-04 — EVENT_0005
+
+**Prior:** MMJ-REL-HRAI-04.
+
+**Disposition:** STRENGTHEN/REFINE I2.
+
+**Bounded change:** Experienced collaborators negotiate management burden, exchange a qualified account of protective caution, acknowledge mutual reliance and propose more conversation. Airi says she will not leave the work to Haruka alone.
+
+**Evidence:** `PJSK:event:0005:08:001:0019–0038`; `PJSK:card:0133:02:002:0014–0045`.
+
+**Limits / confidence:** No already durable meeting routine or complete endorsement of Airi’s inferred motive; absent Minori/Shizuku are not recipients. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-AISZ-04 — EVENT_0005
+
+**Prior:** MMJ-REL-AISZ-04.
+
+**Disposition:** STRENGTHEN/REFINE I2.
+
+**Bounded change:** Chosen partners share listening and an idol criterion, return ordinary care through a towel, and distinguish imagined modeling usefulness from Shizuku’s stated wish. Instruction and exasperation coexist with respect for her participation.
+
+**Evidence:** `PJSK:card:0129:02:002:0002–0034`; `PJSK:card:0132:01:002:0016–0049`; `PJSK:card:0132:02:002:0005–0046`.
+
+**Limits / confidence:** No prior rupture is erased, no global technical dependence or full rumor transmission inferred. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-MNHR-04 — EVENT_0005
+
+**Prior:** MMJ-REL-MNHR-04 with EVENT4 care.
+
+**Disposition:** STRENGTHEN I1/I2.
+
+**Bounded change:** Haruka protects Minori’s membership against unusable offers and seeks her practical contribution; Minori notices lowered mood and later receives reassurance. Reciprocal care persists within admiration and a real training gap.
+
+**Evidence:** `PJSK:event:0005:03:003:0017–0022`; `PJSK:event:0005:08:001:0061–0067`; `PJSK:card:0133:01:001:0005–0012`; `PJSK:card:0133:01:003:0002–0008`; `PJSK:card:0133:01:005:0002–0010`.
+
+**Limits / confidence:** Minori does not receive the intervening call or become professionally equal by virtue of usefulness. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-MNSZ-03 — EVENT_0005
+
+**Prior:** MMJ-REL-MNSZ-03.
+
+**Disposition:** STRENGTHEN/REFINE I1/I2.
+
+**Bounded change:** Shizuku recognizes Minori’s video idea and offers help; Minori teaches local device operation while correcting her own planning omission. Both experience the mishap and later share it with the group.
+
+**Evidence:** `PJSK:event:0005:07:003:0017–0028`; `PJSK:card:0130:01:002:0012–0054`.
+
+**Limits / confidence:** Local reversed expertise is not a new global hierarchy; the mishap was not recorded and Minori’s acceptance of the laughter is tentative. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-MNAI-03 — EVENT_0005
+
+**Prior:** MMJ-REL-MNAI-03.
+
+**Disposition:** STRENGTHEN I1/I2.
+
+**Bounded change:** Airi advocates Minori’s effort and promise, retains specific standards in dance, permits rest and cautions against validation-seeking street approaches. Minori can protest while reaffirming membership and accepting instruction.
+
+**Evidence:** `PJSK:event:0005:02:004:0015–0019`; `PJSK:event:0005:04:001:0024–0032`; `PJSK:card:0129:01:003:0031–0043`; `PJSK:card:0130:02:003:0025–0045`.
+
+**Limits / confidence:** Airi’s promise/aura/solicitor appraisals are attributed; no fraud, actual future success or total resolution of Minori’s insecurity. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-HUMAN-STAGE-02 — EVENT_0005
+
+**Prior:** MMJ-REL-HUMAN-STAGE-02; prior Airi/Rin support in human main.
+
+**Disposition:** STRENGTHEN/REFINE I2 through Airi–Stage Rin and shared audience.
+
+**Bounded change:** Prior trust permits optional personal disclosure and requested encouragement. Rin later requests Airi the idol as a duet partner; the promise is fulfilled with the three other humans and Miku present as supporters. Airi reports telling the others about the duet, after which they wanted to join as supporters.
+
+**Evidence:** `PJSK:event:0005:05:002:0009–0028`; `PJSK:event:0005:06:001:0017–0050`; `PJSK:card:0131:01:002:0016–0036`; `PJSK:card:0131:02:001:0002–0035`.
+
+**Limits / confidence:** Not first trust or support; gratitude does not reduce the duet to repayment. No wholesale consultation transfer, commercial public audience or completed encore. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-STAGE-RIN-MIKU-E0005 — EVENT_0005
+
+**Prior:** Prior Stage companionship; no claim of first contact.
+
+**Disposition:** NEW bounded I1 relationship record.
+
+**Bounded change:** Rin voices uncertainty about checking on Airi; Miku suggests asking and tentatively anticipates a welcome. Rin later brings a greeting and duet news; they await the shared performance together.
+
+**Evidence:** `PJSK:card:0131:01:001:0002–0014`; `PJSK:card:0131:01:002:0029–0036`; `PJSK:card:0131:02:001:0002–0008`.
+
+**Limits / confidence:** Advice and reported success do not imply omniscience or a newly begun friendship; keep manifestation specificity. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-AIRI-FAMILY-E0005 — EVENT_0005
+
+**Prior:** Previously existing family; retrospective evidence, not a new present relation.
+
+**Disposition:** NEW bounded historical I1/I2 evidence record.
+
+**Bounded change:** Childhood protection, maternal treatment/scolding and sister’s recognition accompany Airi’s later report that family supported the time and cost of becoming an idol. The sister’s smile matters to how Airi first imagines the vocation.
+
+**Evidence:** `PJSK:event:0005:01:001:0010–0034`; `PJSK:event:0005:01:002:0002–0013`; `PJSK:event:0005:06:001:0021–0036`; `PJSK:card:0129:01:003:0023–0030`.
+
+**Limits / confidence:** No unshown boys’ defeat, named sister substitution or total family psychology; Rin receives the spoken report, the group selected history, not every childhood scene. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-HR-ASRUN-E0005 — EVENT_0005
+
+**Prior:** Existing unnamed former colleague; distinct from MMJ-REL-HRMAI-01.
+
+**Disposition:** NEW bounded I1/I2 historical-contact record.
+
+**Bounded change:** The former colleague reports a solo possibility incompatible with Haruka’s wish, then asks about Minori as a person and receives a selected account. Interest and support make the conversation valuable independently of the unusable offer.
+
+**Evidence:** `PJSK:card:0133:01:003:0010–0044`; `PJSK:card:0133:01:005:0002–0010`.
+
+**Limits / confidence:** Do not identify the speaker as Mai, certify finances/predictions or make the call’s full content known to Minori. Relationship origin and wider durability are unshown. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+### MMJ-REL-INDUSTRY-E0005 — EVENT_0005
+
+**Prior:** Prior differentiated professional histories; no pooled institutional mind.
+
+**Disposition:** NEW bounded I2 institutional-interaction record.
+
+**Bounded change:** Affiliation and unit debut are different conditions. Experienced members use contacts and courtesy while insisting on these four; a producer reports feared pressure, a former president rejects Airi’s group request, and Haruka later explains the freelance decision.
+
+**Evidence:** `PJSK:event:0005:02:003:0002–0010`; `PJSK:event:0005:02:004:0008–0026`; `PJSK:event:0005:03:004:0020–0035`; `PJSK:event:0005:04:003:0002–0023`; `PJSK:card:0133:01:001:0002–0013`.
+
+**Limits / confidence:** Different conversations remain distinct. No actual retaliation, universal blacklist, agency acceptance, completed wider apologies or pooled private bargain knowledge. HIGH for depicted acts and attributed accounts; broader inference bounded below.
+
+**Explicit preservation:** `MMJ-REL-HRSZ-04`, `MMJ-REL-HRMAI-01` and the EVENT4 school relationships remain. Shared planning does not manufacture an isolated Haruka–Shizuku encounter; the unnamed ASRUN caller does not update Mai by inferred identity.

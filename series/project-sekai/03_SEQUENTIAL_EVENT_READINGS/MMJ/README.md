@@ -11,7 +11,7 @@ do_not_use_as_current_authority: false
 
 # MMJ
 
-Current ordered authority: the MMJ main-story foundation is complete. EVENT_0001 I1 and EVENT_0002–0003 NONE/I0 precede EVENT_0004 I3 school relationships; four MS-04 human defaults remain. Later complete-envelope readings retain pending interpretation until their intervening routes are integrated.
+Current ordered authority: the MMJ main-story foundation is complete. EVENT_0001 I1 and EVENT_0002–0003 NONE/I0 precede EVENT_0004 I3 school relationships and [EVENT_0005 I3](PJSK_EVENT_0005_DEEP_READING.md), which adopts freelance/shared production activity as `MMJ-REL-GROUP-06`. Four MS-04 human defaults remain with separate event/knowledge refinements. Later complete-envelope readings retain pending interpretation until their intervening routes are integrated. This single-event checkpoint stops here; next historical candidate EVENT_0006.
 
 This directory mirrors an empty folder in the supplied Project SEKAI Drive analytical corpus at import time. This README preserves the folder in Git; it is not a completed analytical artifact.
 
@@ -24,3 +24,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 [EVENT_0085](PJSK_EVENT_0085_DEEP_READING.md) adds 26 canonical surfaces on Shizuku's public self-authorship, former-group history, unequal opportunity, incomplete reconciliation and reciprocal care. MMJ PRIMARY/VERY_HIGH/R3-yield and the direct Shiho sibling-support route remain deferred pending their intervening ordered routes. N25 is I0; Stage manifestations retain their distinct experience and knowledge limits.
 
 - [EVENT_0004 — founded MMJ interpretation](PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md): EVENT_0001 I1 and EVENT_0002–0003 NONE/I0 precede EVENT_0004 I3 school relationships; four MS-04 human defaults remain. All six ledger dispositions are reconciled; no mature reconstruction or final-synthesis readiness is implied.
+
+- [EVENT_0005 — choosing how these four can be idols](PJSK_EVENT_0005_DEEP_READING.md): all 18 source responsibilities, I3 unit/operative knowledge change, differentiated ordinary behavior and exact recipient limits; six ledgers and reconstruction review integrated, no mature package certified.
