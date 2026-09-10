@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 screen complete, WXS/LN interpretation pending; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved"
-analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN P04 human defaults retained with EVENT_0001 and EVENT_0002 increments; VBS foundation-current P04 only; MMJ P05 defaults retained with EVENT_0001 reported relationship/knowledge evidence; WXS P06 defaults retained with EVENT_0001 ordinary-family evidence"
+source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved"
+analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN P04 human defaults retained with EVENT_0001–0003 increments; VBS foundation-current P04 only; MMJ P05 defaults retained with EVENT_0001 reported relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -37,9 +37,9 @@ Historical EVENT_0001 is now fully integrated by scope: Leo/need I2, WxS/MMJ I1,
 
 Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusing the existing complete 22-story N25 reading and targeted Honami evidence. The [Honami integration checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) preserves all P04 human defaults and EVENT_0001 refinements, supplements the existing Kanade–Honami relationship, and records bounded knowledge separately. N25's existing EVENT_0002 I3 and its later defaults remain valid at their own cutoffs; MMJ/VBS/WxS are NONE / documentary I0. Nineteen older universal screens remain pending, with EVENT_0005 next after retained EVENT_0004. This closes LN's EVENT_0002 responsibility without advancing forward EVENT_0091 or certifying mature reconstruction readiness.
 
-Historical EVENT_0003 now has a complete 26-story / 1,456-record franchise screen in the [routing ledger](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md). MMJ/VBS/N25 NONE receive documentary I0; WXS PRIMARY/HIGH and LEO_NEED CROSS_UNIT/LOW are `PENDING_ORDERED_UNIT_INTEGRATION`. Wonderland Miku/KAITO/Len have distinct direct evidence and Rin is reported only. Discovery does not establish a human successor, relationship revision or shared knowledge. Nineteen earlier universal-screen gaps remain; EVENT_0005 is next unresolved after retained EVENT_0004. LN EVENT_0001–0002 and all other closed integrations remain intact. The independent forward frontier stays EVENT_0090 / next EVENT_0091.
+Historical EVENT_0003 is now fully integrated across its relevant founded scopes: **WXS I3** on Rui's operative self-knowledge transition, **LEO_NEED I1** for Saki's bounded household exchange, and MMJ/VBS/N25 NONE / I0. The [event reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) reuses the complete 26-story discovery and preserves all four WxS P06 humans/company plus LN P04 humans/group. I3 rests on Rui acquiring and retaining a usable distinction between fear-linked restraint and deliberate safety work; unchanged human IDs do not erase that epistemic transition. Specific relationship/character I2 and ordinary I1 increments remain separate, as do source recipients and uncertain future outcomes. EVENT_0004's source-scope correction and original N25 I2 remain intact; MMJ/LN/WXS EVENT4 interpretation is pending. Nineteen older source-screen gaps start at EVENT_0005. Forward next EVENT_0091 and mature reconstruction/synthesis requirements are unchanged.
 
-**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Non-active-unit routes retain partial detail and await ordered founded interpretation. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS/LN EVENT_0003 interpretation remains pending; forward EVENT_0091 is unchanged.
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Non-active-unit routes retain partial detail and await ordered founded interpretation. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS EVENT_0003 I3 and LN I1 are integrated; forward EVENT_0091 is unchanged.
 
 ## 1. Purpose
 
@@ -2852,3 +2852,88 @@ See the [scope-corrected checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_
 ### `REL-CROSS-MAFUYU-EMU-E0004` — omitted-area supplement
 
 **Preserve existing dyad; no duplicate or successor.** An ordinary school conversation now includes Emu's report of her work setting and companions, followed by a playful greeting that requires explanation. Emu privately aims to change Mafuyu's smile and privately questions immediate success; Mafuyu responds to the greeting without receiving that purpose. Positive conversational feedback is not verified emotional recovery or a new central attachment (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0002–0010`). Keep the original mutual-curiosity/contact findings and later extensions at their own cutoffs. Named absent performers do not thereby become Mafuyu's directly acquainted dyads. HIGH confidence for stated/withheld information; internal affect and enduring consequences remain OPEN.
+
+
+## Historical EVENT_0003 — ordered interpretation and Rui epistemic transition
+
+The [EVENT_0003 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) integrates WxS I3 and the bounded LN I1 appendix after their preceding routes. The original source screen, all earlier ledgers and the EVENT_0004 source supplement remain historically intact. No new human or company ID is introduced.
+
+### `REL-WXS-MS-G-P06` — EVENT_0003 a valued workplace tested and repaired
+
+**PRESERVE_WITH_I2_REFINEMENT.** The already continuing four-person company encounters a conflict produced partly by fear of losing its good work. Tsukasa/Rui's argument is interrupted by Emu and Nene; apology, separate reflection, accepted consultation and renewed rehearsal keep their roles available. The group accommodates different career/local aims in the contest and contributes practical ideas, safety objections, mats and maintenance requests. Preserve the P06 group default with this tested support pattern. No new group formation, identical ambition, permanent security or maximal trust is claimed.
+
+**Evidence:** `PJSK:event:0003:02:002:0011–0036`; `PJSK:event:0003:05:001:0026–0077`; `PJSK:event:0003:07:003:0008–0089`; `PJSK:event:0003:08:002:0002–0024`; `PJSK:card:0120:02:004:0003–0020`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Durability under another conflict; Specific risk/disclosure practices.
+
+### `REL-WXS-MS-TR-P06` — EVENT_0003 creative responsiveness with attachment and limits
+
+**PRESERVE_WITH_I2_REFINEMENT.** Prior chosen actor/director collaboration gains an explicit problem of feared departure and actor self-pressure. Tsukasa notices restraint but wrongly treats deliberate lying as known; Rui initially lacks its explanation. Renewed experimentation acknowledges uncertainty and receives assent, though the updraft is unannounced and broad promises later qualified. The mat contribution supports Rui's working conditions, and Rui privately resists leaning on Tsukasa's receptiveness. Preserve reciprocal creative reliance and teasing; do not convert fear recognition or restored effort into a completed norm of full effect disclosure or blanket permission.
+
+**Evidence:** `PJSK:event:0003:05:001:0002–0035`; `PJSK:event:0003:06:001:0075–0099`; `PJSK:event:0003:07:003:0014–0017`; `PJSK:event:0003:07:003:0043–0085`; `PJSK:card:0119:01:002:0021–0033`; `PJSK:card:0120:02:004:0003–0020`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Consistent future negotiation; Private resolve is not automatically Tsukasa knowledge.
+
+### `REL-WXS-MS-RN-P05` — EVENT_0003 more explicitly reciprocal help
+
+**PRESERVE_WITH_I2_REFINEMENT.** Nene already asserted her choice and challenged Rui's retreat in P05. Here Rui asks for and trusts her observation, accepts the help route she proposes, receives her explicit invitation to rely on her as childhood friend and companion, and later thanks her for making consultation possible. Ordinary robot maintenance and familiar teasing continue. Her account that she failed him earlier remains her self-assessment; she is not established as morally responsible for his isolation. Preserve this dyad ID with a more explicit reciprocal-support formulation, not a first reversal from wholly passive beneficiary.
+
+**Evidence:** `PJSK:event:0003:05:001:0038–0077`; `PJSK:event:0003:06:001:0047–0050`; `PJSK:event:0003:08:002:0039–0046`; `PJSK:card:0119:01:002:0012–0017`; `PJSK:card:0119:01:002:0036–0048`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** How consistently Rui seeks her support; No full private-memory transmission.
+
+### `REL-WXS-MS-EN-P03` — EVENT_0003 personally affirmed friendship and boundary tension
+
+**PRESERVE_WITH_I2_REFINEMENT.** Welcome and requested teaching are supplemented by regular messages, pursuit of time together and Emu's explicit private affirmation that Nene is an important friend. Nene objects to school entry, responds to messages, feels embarrassed asking why she is sought and privately appreciates the answer. Preserve her gaming relationships and real irritation/exhaustion. Affection does not retroactively authorize Emu's crossing of the gate-only instruction. This is an explicit personal-value refinement of an existing relationship, not proof of first friendship or universal enthusiastic availability.
+
+**Evidence:** `PJSK:card:0122:01:002:0062–0071`; `PJSK:card:0123:01:003:0008–0037`; `PJSK:card:0123:02:001:0002–0011`; `PJSK:card:0123:02:002:0002–0010`; `PJSK:card:0123:02:002:0042–0055`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Future respect for direct boundaries; No enacted new lunch routine.
+
+### `REL-WXS-MS-TN-P06` — EVENT_0003 concern expressed through warning and teasing
+
+**PRESERVE_WITH_I1_EVIDENCE.** Nene's teasing concern after the head impact, objections to danger, warning during the later rehearsal fall and praise qualified by a jab after mats demonstrate reciprocal concern within the established supported collaboration. She also admits that the show needs Tsukasa's energy. Sarcasm does not erase practical care, nor do later approving appraisals cancel earlier objections. No new dyad state or cure is required.
+
+**Evidence:** `PJSK:event:0003:04:001:0004–0008`; `PJSK:event:0003:04:001:0062–0064`; `PJSK:event:0003:07:003:0043–0050`; `PJSK:card:0120:02:002:0015–0038`; `PJSK:card:0120:02:004:0012–0013`; `PJSK:card:0122:01:002:0062–0070`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** No universal acceptance of risky proposals.
+
+### `REL-WXS-MS-TE-P06` — EVENT_0003 specific appreciation and repair accompaniment
+
+**PRESERVE_WITH_I1_EVIDENCE.** Emu pursues Tsukasa after the quarrel, answers his question about Rui's shows and hears his self-directed anger. Their exchange renews the intention to explain rather than sever collaboration. Her panda account and their familiar retorts preserve play alongside concern. Tsukasa can reject an unsafe roof-jump inference and object to school intrusion while recognizing her desire for company. Existing inclusion of Emu's happiness and chosen stage work persist; the shared backstage account is not automatically transmitted to others.
+
+**Evidence:** `PJSK:event:0003:06:001:0102–0122`; `PJSK:card:0122:01:002:0043–0058`; `PJSK:card:0120:02:004:0007–0011`; `PJSK:card:0123:02:002:0028–0033`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** No complete private-account transfer in Nene framing conversation.
+
+### `REL-WXS-MS-EF-P06` — EVENT_0003 stage dependence remains conditional
+
+**PRESERVE_WITH_I1_REPORTED_EVIDENCE.** The father-linked stage-authority history remains intact. Emu reports her grandfather's rejection of ranking shows; Rui hypothesizes a changed policy, without a directly witnessed family decision. The mascot later reports demolition currently stopped and forecasts that greater popularity may persuade the family. This adds mediated evidence of continuing material/family dependence, not a permanent settlement or direct statement of the father's motives. Grandfather and mascot reports remain distinguished from the father dyad.
+
+**Evidence:** `PJSK:event:0003:02:002:0003–0010`; `PJSK:card:0122:02:001:0039–0051`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Exact family deliberations; Long-term stage protection.
+
+### `REL-WXS-WONDERLAND-E0003` — EVENT_0003 Wonderland reciprocal participation network
+
+**NEW_BOUNDED_CONTEXT_RECORD.** Register the event's manifestation-specific network without inventing a new relationship state for every pair. KAITO listens to Rui/Nene; Nene proposes that trusted route; Rui intends thanks through a show. Miku/Len work with the core puppet pair, while KAITO counsels a distinct pair and later receives Miku's reassurance about his own troupe. Len meets the humans, exchanges recognition/learning interest with Tsukasa, joins Emu's greeting and search, helps Nene find the script's reported route and shares her enjoyment of stage labor, and seeks Rui's lighting advice. Rin contacts are KAITO/Len reports only. Shared-show plans, invitations, search completion and lighting competence remain prospective. This supplements the main-story singer support rather than originating it.
+
+**Evidence:** `PJSK:event:0003:01:003:0002–0020`; `PJSK:event:0003:05:002:0002–0023`; `PJSK:event:0003:06:001:0075–0099`; `PJSK:event:0003:08:002:0050–0054`; `PJSK:card:0121:01:001:0002–0062`; `PJSK:card:0121:02:001:0002–0051`; `PJSK:area:areatalk_ev_wonder_01_001:01:001:0002–0006`; `PJSK:area:areatalk_ev_wonder_01_002:01:001:0002–0007`; `PJSK:area:areatalk_ev_wonder_01_003:01:001:0002–0007`; `PJSK:area:areatalk_ev_wonder_01_004:01:001:0002–0009`; `PJSK:area:areatalk_ev_wonder_01_005:01:001:0002–0009`; `PJSK:area:areatalk_ev_wonder_01_006:01:001:0002–0007`; `PJSK:area:areatalk_ev_wonder_01_007:01:001:0002–0007`; `PJSK:area:areatalk_ev_wonder_01_008:01:001:0002–0009`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Rin response and future membership; No shared minds across manifestations; Different puppet pairs remain distinct.
+
+### `REL-WXS-PARK-SUPPORT-E0003` — EVENT_0003 staff authority and material support
+
+**NEW_BOUNDED_CONTEXT_RECORD.** The troupe's work depends on staff arranging repairs, handling reports and evaluating storage; performers make requests and supply labor. Rui learns the mascot filed an earlier equipment report, and the mascot refuses Emu the test permitted to Tsukasa. Tsukasa learns mask reuse from a human cast member and reports a suitable storage solution. Emu and the mascot share stage enthusiasm, while the mascot's private regret about last year differs from Emu's own appraisal. Preserve these roles and unequal permissions as bounded workplace evidence; promised repairs/reporting, storage movement and permanent stage protection are not completed outcomes.
+
+**Evidence:** `PJSK:card:0119:02:002:0002–0036`; `PJSK:card:0119:02:002:0040–0069`; `PJSK:card:0120:01:002:0011–0022`; `PJSK:card:0120:01:004:0002–0018`; `PJSK:card:0122:02:001:0015–0020`; `PJSK:card:0122:02:001:0039–0051`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Completion of promised repairs and paperwork; Full policy rationale; No universal test permission.
+
+### Bounded Leo/need disposition — EVENT_0003
+
+### `REL-WXS-MS-TS-P01` — EVENT_0003 reciprocal care and household request
+
+**PRESERVE with bounded family increment.** Main-story teasing, concern and ambition support, plus EVENT_0001's schedule/comfort/visitor care, retain their separate histories. Here Saki objects to noisy stomping, promptly checks Tsukasa after his toe collision, then asks him to stop the sudden noise for a concrete household reason. Tsukasa reassures her and acknowledges the request. Irritation and care coexist; neither implies a new dyad, a role reversal that replaces earlier affection or general mutual transparency.
+
+**Evidence:** `PJSK:card:0120:02:003:0013–0018`. **Confidence:** HIGH. **Limits:** fulfilled quiet is unshown, prior spoken self-reproach may or may not be overheard, and no direct rehearsal/Rui disclosure to Saki is shown. His following bed/mat inference is his contribution, not her intended stage-design advice (`PJSK:card:0120:02:003:0019–0022`). This shared sibling responsibility is root-owned so the WxS/LN comparisons do not create competing copies.

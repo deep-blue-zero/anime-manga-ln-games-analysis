@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 screen complete, WXS/LN interpretation pending; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved"
-analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN P04 human defaults retained with EVENT_0001 and EVENT_0002 increments; VBS foundation-current P04 only; MMJ P05 defaults retained with EVENT_0001 reported relationship/knowledge evidence; WXS P06 defaults retained with EVENT_0001 ordinary-family evidence"
+source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved"
+analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN P04 human defaults retained with EVENT_0001–0003 increments; VBS foundation-current P04 only; MMJ P05 defaults retained with EVENT_0001 reported relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -46,9 +46,9 @@ Historical EVENT_0001 is now fully integrated by scope: Leo/need I2, WxS/MMJ I1,
 
 Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusing the existing complete 22-story N25 reading and targeted Honami evidence. The [Honami integration checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) preserves all P04 human defaults and EVENT_0001 refinements, supplements the existing Kanade–Honami relationship, and records bounded knowledge separately. N25's existing EVENT_0002 I3 and its later defaults remain valid at their own cutoffs; MMJ/VBS/WxS are NONE / documentary I0. Nineteen older universal screens remain pending, with EVENT_0005 next after retained EVENT_0004. This closes LN's EVENT_0002 responsibility without advancing forward EVENT_0091 or certifying mature reconstruction readiness.
 
-Historical EVENT_0003 now has a complete 26-story / 1,456-record franchise screen in the [routing ledger](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md). MMJ/VBS/N25 NONE receive documentary I0; WXS PRIMARY/HIGH and LEO_NEED CROSS_UNIT/LOW are `PENDING_ORDERED_UNIT_INTEGRATION`. Wonderland Miku/KAITO/Len have distinct direct evidence and Rin is reported only. Discovery does not establish a human successor, relationship revision or shared knowledge. Nineteen earlier universal-screen gaps remain; EVENT_0005 is next unresolved after retained EVENT_0004. LN EVENT_0001–0002 and all other closed integrations remain intact. The independent forward frontier stays EVENT_0090 / next EVENT_0091.
+Historical EVENT_0003 is now fully integrated across its relevant founded scopes: **WXS I3** on Rui's operative self-knowledge transition, **LEO_NEED I1** for Saki's bounded household exchange, and MMJ/VBS/N25 NONE / I0. The [event reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) reuses the complete 26-story discovery and preserves all four WxS P06 humans/company plus LN P04 humans/group. I3 rests on Rui acquiring and retaining a usable distinction between fear-linked restraint and deliberate safety work; unchanged human IDs do not erase that epistemic transition. Specific relationship/character I2 and ordinary I1 increments remain separate, as do source recipients and uncertain future outcomes. EVENT_0004's source-scope correction and original N25 I2 remain intact; MMJ/LN/WXS EVENT4 interpretation is pending. Nineteen older source-screen gaps start at EVENT_0005. Forward next EVENT_0091 and mature reconstruction/synthesis requirements are unchanged.
 
-**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Non-active-unit routes retain partial detail and await ordered founded interpretation. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS/LN EVENT_0003 interpretation remains pending; forward EVENT_0091 is unchanged.
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Non-active-unit routes retain partial detail and await ordered founded interpretation. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS EVENT_0003 I3 and LN I1 are integrated; forward EVENT_0091 is unchanged.
 
 ## 1. Purpose
 
@@ -2056,3 +2056,68 @@ The [Honami checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002
 See the [scope-corrected checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_N25_INTEGRATION_CHECKPOINT.md) §15. Earlier EVENT_0004 and later historical records remain unchanged.
 
 **PRESERVE existing EVENT_0004 §7.2 claims; no new ID.** The event-qualified `CR-N25-MF-006/007/008` and `CR-CROSS-EMU-MF-001` remain valid; identical earlier main-story IDs retain their separate section scopes. Area009 does not independently prove spontaneous positive affect or successful intervention. It reinforces the limit that sensitivity and benevolent intention confer neither explanatory authority nor guaranteed efficacy (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010`). Preserve original stronger evidence and all downstream revisions at their own cutoffs.
+
+
+## Historical EVENT_0003 — ordered interpretation and Rui epistemic transition
+
+The [EVENT_0003 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) integrates WxS I3 and the bounded LN I1 appendix after their preceding routes. The original source screen, all earlier ledgers and the EVENT_0004 source supplement remain historically intact. No new human or company ID is introduced.
+
+### `CR-WXS-RUI-ATTACHMENT-E0003` — EVENT_0003 chosen collaboration can produce inhibition
+
+**STRENGTHEN_AND_REFINE.** PRESERVE Rui's explicit choice to continue with these particular performers. REFINE its causal meaning: the already valued place can become something he fears losing, and after the accident that fear is compatible with restraint he initially does not understand. His tentative recognition, renewed directing and later deliberate safety planning support this account. The reading does not rewrite earlier solo claims as knowingly false, make every childhood refusal unjustified or prove durable cure. Chain: CR-WXS-MS-RUI-SOLO.
+
+**Evidence:** `PJSK:event:0003:01:004:0005–0021`; `PJSK:event:0003:05:001:0038–0049`; `PJSK:event:0003:06:001:0005–0027`; `PJSK:event:0003:06:001:0051–0099`; `PJSK:card:0119:01:002:0019–0033`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Reliability beyond this context.
+
+### `CR-WXS-STAR-PURPOSE-E0003` — EVENT_0003 care as enabling work with self-pressure
+
+**STRENGTHEN_AND_REFINE.** Preserve the P06 recipient-oriented purpose and grandiose register. Tsukasa values Rui's ability to create and names an environment-enabling leader role; mat procurement and storage problem-solving make it practical. REFINE the vulnerability: the same purpose can become a self-condemning demand never to worry or inhibit others. His accident-related self-blame is attributed and does not certify culpability. Neither affection nor initiative originates here. Chain: CR-WXS-MS-STAR-PURPOSE.
+
+**Evidence:** `PJSK:event:0003:06:001:0102–0122`; `PJSK:card:0120:01:004:0002–0018`; `PJSK:card:0120:02:003:0011–0022`; `PJSK:card:0120:02:004:0003–0020`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Future bodily-limit negotiation.
+
+### `CR-WXS-PERFECTION-E0003` — EVENT_0003 fallibility and self-directed perfection
+
+**PRESERVE_WITH_TARGETED_REFINEMENT.** Preserve that Tsukasa had already rejected blaming a colleague merely for trying and failing. His immediate post-accident reassurance and practical mat limits are compatible with that prior. The event nevertheless exposes self-directed perfection: he calls himself unfit for worrying the director and promises perfect response before qualifying danger. This refines a pressure vulnerability without claiming he has returned to the main-story attack on Nene or that acknowledged fallibility has vanished. Chain: CR-WXS-MS-PERFECTION.
+
+**Evidence:** `PJSK:event:0003:03:001:0059–0067`; `PJSK:event:0003:06:001:0111–0122`; `PJSK:event:0003:07:003:0075–0085`; `PJSK:card:0120:02:004:0005–0010`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Whether pressure generalizes beyond this incident.
+
+### `CR-WXS-NENE-MEDIATION-E0003` — EVENT_0003 participation with multiple enabling channels
+
+**STRENGTHEN.** Preserve chosen participation, professional aim and the absence of a cure/mastery claim. Nene's consultation initiative, script work, direct practical exchanges and private message question broaden ordinary evidence. Rui reports present onstage independence and a Nenerobo autonomous upgrade under trial; the future robot stage appearance remains prospective. A medium can enable contribution or disclosure without invalidating it. Neither gaming friendship nor preference for quiet is erased by valued in-person company. Chain: CR-WXS-MS-NENE-MEDIATION.
+
+**Evidence:** `PJSK:event:0003:05:001:0067–0077`; `PJSK:card:0123:01:003:0019–0030`; `PJSK:card:0123:02:002:0042–0055`; `PJSK:area:areatalk_ev_wonder_01_005:01:001:0002–0009`; `PJSK:area:areatalk_ev_wonder_01_007:01:001:0002–0007`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Generalization across unfamiliar settings.
+
+### `CR-WXS-STAGE-SURVIVAL-E0003` — EVENT_0003 local security and contest horizon
+
+**STRENGTHEN_LIMIT_AND_PRESERVE_OPEN.** Preserve P06's local preservation claim and its explicit refusal of permanent financial/contractual certainty. The mascot says demolition is currently stopped and greater popularity may persuade the family. Emu wants lasting continuity; that wish is not achieved institutional security. First interim third place is not a final win or acquired television role. Chain: CR-WXS-MS-STAGE-SURVIVAL.
+
+**Evidence:** `PJSK:event:0003:08:002:0002–0024`; `PJSK:card:0122:02:001:0039–0051`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Final contest outcome; Permanent stage protection.
+
+### `CR-WXS-RESTRAINT-DECEPTION-E0003` — EVENT_0003 restraint is not verified conscious lying
+
+**REJECT_SOURCE_LOCAL_OVERCLAIM.** Reject adopting Tsukasa's lying accusation as authoritative motive narration. Rui first cannot explain the altered work, asks for Nene's observation and later tentatively recognizes fear under KAITO's questions. Observable restraint is supported; knowing deliberate deception is not established. Rui's and Tsukasa's disqualification statements likewise remain self-condemnations rather than analytical verdicts.
+
+**Evidence:** `PJSK:event:0003:05:001:0002–0049`; `PJSK:event:0003:06:001:0075–0090`; `PJSK:event:0003:06:001:0111–0122`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Unconscious-motive language remains tentative self-interpretation.
+
+### `CR-WXS-RISK-DISCLOSURE-E0003` — EVENT_0003 care and consent do not certify equipment safety
+
+**OPEN_WITH_BOUNDED_REJECTIONS.** Preserve observable precautions, Rui's concern and Nene's trust as distinct from verified engineering safety. A general uncertainty warning and Tsukasa's assent precede a surprise updraft; later broad willingness is qualified. Mats, belt and a successful local test establish the described setup/outcome and participant appraisals, not universal safety or permanent permission. Tsukasa explicitly rejects Emu's roof-jump inference; staff separately refuse her a test. No diagnosis or lasting cure follows from either fall or reported hospital reassurance.
+
+**Evidence:** `PJSK:event:0003:03:001:0027–0067`; `PJSK:event:0003:04:001:0004–0009`; `PJSK:event:0003:06:001:0047–0050`; `PJSK:event:0003:07:003:0014–0017`; `PJSK:event:0003:07:003:0043–0085`; `PJSK:card:0119:02:002:0040–0069`; `PJSK:card:0120:02:004:0005–0010`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** General equipment safety; Future consistency of disclosure and permission.
+
+### Bounded Leo/need disposition — EVENT_0003
+
+LN claims PRESERVE; no new or revised claim ID. The short home exchange supplies a context example, not evidence of recovery, new care capacity or intentionally authored stage safety advice.

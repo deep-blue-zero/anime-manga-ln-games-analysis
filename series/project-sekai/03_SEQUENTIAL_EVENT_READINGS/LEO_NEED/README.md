@@ -11,7 +11,7 @@ do_not_use_as_current_authority: false
 
 # LEO_NEED
 
-This directory was empty in the supplied analytical corpus at import time. It now contains complete source-envelope readings and ordered interpretations. The main-story foundation is complete; EVENT_0001 is integrated at LN I2 and the bounded EVENT_0002 Honami route at I1; later readings retain their pending baseline-relative dispositions until the intervening history is handled.
+This directory was empty in the supplied analytical corpus at import time. It now contains complete source-envelope readings and ordered interpretations. The main-story foundation is complete; EVENT_0001 is integrated at LN I2, the bounded EVENT_0002 Honami route at I1 and EVENT_0003 household route at I1; later readings retain their pending baseline-relative dispositions until the intervening history is handled.
 
 - [EVENT_0076 — Echo my melody](PJSK_EVENT_0076_DEEP_READING.md): all 25 canonical surfaces read; Ichika's first completed composition, choice under uncertainty, Honami's production work, audience-sensitive performance and distinct Miku contexts. Leo/need PRIMARY / VERY_HIGH / R3 event-local yield, `DEFERRED_PENDING_FOUNDATION`; N25 CROSS_UNIT / I1 with no successor human state.
 
@@ -22,3 +22,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0001 — 雨上がりの一番星](PJSK_EVENT_0001_DEEP_READING.md): completed source pass reused; LN I2 with preserved P04 human states, differentiated School support and knowledge, WxS/MMJ I1 and N25/VBS I0. All unit dispositions and six ledger consequences integrated.
 
 - [EVENT_0002 — Honami cross-unit integration](PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md): LN I1 work/advice and reciprocal ordinary interests; existing N25 reading owns the full event. Human defaults retained, existing Kanade–Honami relationship supplemented, and bounded knowledge recorded independently.
+
+- [EVENT_0003 — bounded Saki household appendix](../WXS/PJSK_EVENT_0003_DEEP_READING.md): LN I1 with preserved P04 humans/group; existing sibling relation supplemented and exact knowledge limits kept separately. WxS owns the full event account and its I3 epistemic transition. LN EVENT4 remains pending ordered interpretation.
