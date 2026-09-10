@@ -1,10 +1,10 @@
 ---
 series: MHA
 artifact_type: locator_index
-scope: V01-V42
+scope: V01-V42_PLUS_BOUNDED_SUPPLEMENTAL_ROUTING
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 42
+source_boundary: Completed Japanese V01-V42 manga locators preserved; separately locked UA/UAN/UAG spine routing admitted for ordered supplemental reconciliation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2194,3 +2194,12 @@ Anchor checks: raw `0004` right=`p006`, left=`p007`; raw `0012` left=`p023`; raw
 | 431 | `p146`; title `p148` | counseling/voice `p149-155`; recruiting/vocation `p156-161`; adult group `p162-175`; Shoto `p166-168`; mutual more `p177-183` |
 
 All `p005-p183` pages were directly viewed during reconciliation. The formal/paratext distinction is applied page by page; no supplemental author comment is silently promoted as dialogue or a depicted event.
+
+
+## Supplemental source routing — 2026-09-10
+
+Existing `VXX:pNNN` entries retain their exact manga identities, offsets and exclusions. The newly admitted `UA:sNNNN`, `UAN:sNNNN` and `UAG:sNNNN` locators use original EPUB OPF spine positions. They do not change manga pagination or imply printed-page numbers. The [official supplemental source lock](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md) and [complete source/member/hash map](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_SUPPLEMENTAL_SPINE_MAP.tsv) own exact retrieval; repaired EPUBs are only reading derivatives.
+
+The [UA audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ARCHIVE_PARATEXT_AUDIT.md) and [217-page coverage](../01A%20Supplemental%20Source%20Audits/MHA_SP2_UA_PAGE_COVERAGE.csv) record actual completed page accounting with seven limited-readability subparts; the [supplemental ledger](MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md) owns claim adjudication. Subsequent book progress is controlled by the [current map](../00%20Frameworks%20and%20Methods/CURRENT_STATE_AND_CORPUS_MAP.md#current-supplemental-reconciliation). Technical locks for UAN/UAG are not analytical review completion.
+
+The historical publication/source-reverification audit remains byte-identical and manga-only. This appendix does not add supplementary checks to its old SR series or alter the V27/V28, V31, V35 or V36 mapping corrections.

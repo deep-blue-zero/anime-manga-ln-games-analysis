@@ -37,7 +37,7 @@ The supplied originals have direct JPEG spine items. On the original UAN object,
 | UAN | `c23d51bb5e20117d9c0c7270a83fa29b8ec2d8e2c4ceb313746e349f726d73c0` | 297/297 identical, same order |
 | UAG | `87bed1ce8ee04eb34604f0b5813467349ad9872baff6e0ee66ab6a1cfd3dfd06` | 331/331 identical, same order |
 
-UAN's current derivative container hash differs from the earlier repair receipt quoted in the execution prompt (`e1c93b52eb526802fd6634f76a014d9b2a02f55a4106b1045038537c19f612e5`). Its original EPUB hash and all 297 image bytes/order remain verified. Container drift must be recorded separately; a changed derivative container is neither a new canonical witness nor evidence of changed character content. The other current derivative hashes match the earlier receipts.
+UAN's current derivative container hash differs from the earlier repair receipt quoted in the execution prompt (`e1c93b52eb526802fd6634f76a014d9b2a02f55a4106b1045038537c19f612e5`). Its original EPUB hash and all 297 image bytes/order remain verified. The derivative now includes a 204-byte `META-INF/calibre_bookmarks.txt`, archive timestamp 2026-09-10 15:48:40. All 601 expected repaired resource payloads match a reconstruction from the prior repair helper and current repair metadata timestamp; the bookmark is the only additional resource. Removing its ZIP structures in memory did not recover the previous whole-container hash, so exact historical-container equivalence is not claimed. The verified image, wrapper, navigation and expected OPF payloads preserve the reading source; no changed character content was found. A derivative is not a new canonical witness. The other current derivative hashes match the earlier receipts.
 
 ## Earlier CBZ correspondence and edition caution
 
@@ -46,11 +46,26 @@ UAN's current derivative container hash differs from the earlier repair receipt 
 | `My Hero Academia - Official Character Book - Ultra Archive [Japanese].cbz` | `6088d917b98f24a7cfdf3cf7acf0873aecc5913a75edd741e79ff5cd66f9a54a` | 217 images, 1020×1600; machine correspondence maps one-to-one in the same page order. None is byte-identical to the 1019×1600 EPUB pages. Visual checks establish some actual editorial differences, so this is not certified word-for-word equivalence. |
 | `My Hero Academia - Official Character Book 2 - Ultra Analysis [Japanese].cbz` | `115f8afc24df2bd03d7f78bf5b1cb11a4633796246789494a2fc477dd2696f51` | 298 images; EPUB spine sN maps to CBZ numeric image N+1. The extra 884×1200 first image is a cover variant, not a missing interior page. Of 297 matched pairs, 290 decoded RGB images and 70 compressed image byte sequences are identical. |
 
-UA:s0116 and UA:s0191 provide observed edition differences: the Nezu caption differs, and the Smash!! promotional footer changes its publication/volume framing. The EPUB remains owner-preferred, but dates and reprint/editorial revision must be attributed carefully. The 2016 title's initial publication date does not establish that every line of this supplied digital package is unchanged from its first printing. Matched page topology does not prove full textual identity. UAN's seven nonidentical decoded-image pairs remain subject to the technical comparison's explicit review limits.
+The following bounded visual comparisons establish actual UA edition differences. They do not certify exhaustive word-level equivalence of all 217 pairs.
+
+| Original locator | Preferred EPUB | Older CBZ comparator |
+|---|---|---|
+| UA:s0098 / CBZ `0098.jpg` | Hatsume File 42; likes steampunk-like things and chocolate | File 30; steampunk |
+| UA:s0116 / CBZ `0116.jpg` | Nezu species joke includes bear | Caption begins `YES!` and uses a different mouse/dog formulation |
+| UA:s0126 / CBZ `0126.jpg` | Tiger: 29 February, 190 cm, likes members | 21 June, 193 cm, likes protein |
+| UA:s0153 / CBZ `0153.jpg` | Muscular File 08 | File 06 |
+| UA:s0159 / CBZ `0159.jpg` | Broker/sludge/giant/headgear entries numbered 15–18; lower-left heading uses `僧坊ヘッドギア` | Entries 23–26; heading uses `僧帽ヘッドギア` |
+| UA:s0191 / CBZ `0191.jpg` | Smash!! footer advertises all five volumes; no printed 191 footer | Weekly-serialization/volume-1 promotion; printed 191 footer |
+
+The EPUB remains owner-preferred, but dates and reprint/editorial revision must be attributed carefully. The 2016 title's initial publication date does not establish that every line of this supplied digital package is unchanged from its first printing. Tiger's differing profile facts are edition variance, not an inferred biographical transition. Matched page topology does not prove full textual identity. Bounded additional checks of UA:s0090 and s0144 found the same profile subject/layout without establishing every small-print character identical.
+
+UAN's seven nonidentical decoded-image pairs—s0001, s0003, s0004, s0005, s0008, s0018 and s0290—were visually compared at original resolution. They preserve the same cover/title/gallery/sticker compositions and visible wording, with small raster differences; no substantive change was identified in these bounded checks. The extra CBZ first cover was separately viewed. Technical comparison remains distinct from page-complete analytical review, and no format is counted as independent corroboration. Neither UA nor UAN has a demonstrated blanket resolution advantage over its CBZ counterpart. No supplied UAG CBZ exists for comparison.
 
 ## Publication dates and content cutoff
 
 Publisher metadata distinguishes original print and digital releases: UA 2016-05-02 / 2016-07-04; UAN 2019-10-04 / 2019-10-18; UAG 2025-05-02 / 2025-05-02. Sources: [Shueisha UA](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-880719-5), [Shueisha UAN](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-882128-3), [Shueisha UAG](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-884309-4). These dates are not universal narrative cutoffs or package conversion dates. Each book audit must reconcile its actual colophon, credited contributors, original/reprinted material and claim-specific reference time. Unknown original revision dates remain unknown.
+
+Original digital colophons UA:s0213, UAN:s0293 and UAG:s0327 were visually checked during source verification. They identify Horikoshi/Shueisha, describe digital re-editing, and give only 2016, 2019 and 2025 respectively for first/digital publication; exact month/day dates above are publisher metadata. Original OPF modified timestamps are UA `2023-02-10T03:50:54Z`, UAN `2019-10-04T09:05:00Z`, UAG `2025-06-06T06:26:11Z`. None establishes a contribution's original date, a common editorial revision date or narrative endpoint. These bounded technical checks do not preempt the ordered substantive book reviews.
 
 ## Boundaries
 

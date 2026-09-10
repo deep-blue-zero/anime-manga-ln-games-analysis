@@ -15,7 +15,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 ## Actual execution state
 
-**IN PROGRESS — source locking and the supplemental reading contract are initialized. No complete book review, character integration or final analytical closeout is claimed.** The completed manga-only corpus remains authoritative within its preserved boundary. This mutable audit will record verified transitions and final impact rather than treating planned files or extracted pages as finished analysis.
+**IN PROGRESS — UA has completed original-page accounting and its admitted source checkpoint; UAN/UAG review, character integration and final analytical closeout remain pending.** The completed manga-only corpus remains authoritative within its preserved boundary. This mutable audit will record verified transitions and final impact rather than treating planned files or extracted pages as finished analysis.
 
 ## Baseline, authority and preservation
 
@@ -25,7 +25,7 @@ The live registry resolves this existing `GIT_PRIMARY` root through the current 
 
 Complete before-images and SHA-256 values for the tracked MHA tree were captured outside Git before analytical mutation. The protected baseline includes all 42 sequential readings, the fourteen manga ledgers, historical source locks, model/reconciliation checkpoints, formal validation inputs and first-pass history. Later current dossier edits must preserve their embedded historical/frozen portions, not merely retain filenames. Final preservation is a checked result still to be reported, not inferred from this intention.
 
-## Initialization responsibilities
+## Historical initialization responsibilities
 
 | Requirement | Verified initialization state |
 |---|---|
@@ -47,3 +47,14 @@ The baseline current readiness snapshot has **86 subjects: 18 insufficient, 18 e
 The final audit must enumerate complete page coverage per book; records versus unique/dependent observations; character/domain/tier and model changes; literary characterization versus manga interpretation versus execution limits; counterreading/contradiction adjudications; unchanged current homes and why; source readability or temporal residuals; preservation results; and exact logical commit/validation evidence. Optional new reconstruction checks must be labeled retrospective/nonblind or withheld as actually conducted. Original formal validation results remain historical.
 
 Final scope is **V01–V42 + UA + UAN + UAG reconciled**. All-franchise supplements and the separate volume-embedded-paratext coverage question remain outside that closure. Commit/push and main integration are separate states: no automatic main merge is part of this execution. Published incomplete work must use the repository's draft/hold route if needed to prevent scheduled integration. The user-facing change report is a standalone Markdown deliverable outside the repository.
+
+
+## UA source checkpoint — 2026-09-10
+
+The [UA audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ARCHIVE_PARATEXT_AUDIT.md) closes 217/217 original-image page dispositions and admits 276 selective stable claim records. Seven pages retain bounded tiny/faint text non-use; no conclusion relies on those unresolved glyphs. Coverage, original member/hash mapping, record IDs and independent class/outcome/time/modeling codes are checked. Exact page dispositions are REVIEWED_NO_MATERIAL_ADDITION 10, REVIEWED_MATERIAL 181, REVIEWED_DUPLICATE 19, UNRESOLVED_READABILITY 7. These records do not equal 276 independent new behavioral observations; reprinted manga, attributed book voices, editorial explanations, production material and bonus fiction remain classified individually.
+
+Material UA gains include THE・DEPTH's added Ochako–Bakugo classroom interaction; ordinary tastes and reciprocal care; Shoto's reduced hatred without affection; Fuyumi's vocational motive; concrete school/professional routines; and precise production-history qualifications. The audit names candidate effects for all eight specialists, eight monographs and F1–F4. No current model/tier or literary synthesis is changed before ordered cross-book reconciliation. Earlier villain unknowns, edition differences and captions remain time/attribution controlled.
+
+Two narrow original-manga rechecks support the disciplinary caption at V07:p067/p080 and do not establish a competing cuff account at V08:p095. These are new source verifications outside the preserved old publication audit and frozen probes. The root also directly verified the five-page bonus narrative and two family claims after disjoint page review, without counting those checks as new independent source observations.
+
+Bootstrap parent commit is `7e3cae7cdebece20332d94a4b3aec62ee2d19a94`. This checkpoint's logical commit is recorded by Git after author preflight; no future hash/CI success is claimed in its own contents. Current locator/inventory/map routes are extended with history preserved. All 30 dossiers, all readiness history, the 42 readings, 14 manga ledgers, original validation and historical source/publication artifacts remain unchanged. UAN opens only after verification and commit; publication/main integration remain separate.
