@@ -2,7 +2,7 @@
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "1.4",
+  "version": "1.5",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -27,13 +27,14 @@
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "T7S_B0001 through complete T7S_B0004 are admitted and closed for the first 28 native Main episodes through 201000309; every later story and all supplemental sources remain unconsumed",
+  "scope_admission": "T7S_B0001 through complete T7S_B0005 are admitted and closed for the first 37 native Main episodes through 201000409; every later story and all supplemental sources remain unconsumed",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
       "T7S_B0002",
       "T7S_B0003",
-      "T7S_B0004"
+      "T7S_B0004",
+      "T7S_B0005"
     ],
     "consumed_sources": [
       {
@@ -455,10 +456,145 @@
         ],
         "choice_scope": "NONE",
         "canonical_artifact": "02 Readings/T7S_B0004_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000401",
+        "script_id": "scout_004_01_01.json__9e26666955a9372f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          61
+        ],
+        "log_order_index": [
+          0,
+          61
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000402",
+        "script_id": "scout_004_01_02.json__4c6b2ec4b7f43c93",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          28
+        ],
+        "log_order_index": [
+          0,
+          28
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000403",
+        "script_id": "scout_004_01_03.json__ee31a7a812eece40",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          29
+        ],
+        "log_order_index": [
+          0,
+          29
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000404",
+        "script_id": "scout_004_02_02.json__7975f18a06c661e1",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          64
+        ],
+        "log_order_index": [
+          0,
+          64
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000405",
+        "script_id": "scout_004_02_03.json__a0971e385f1d543a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          15
+        ],
+        "log_order_index": [
+          0,
+          15
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000406",
+        "script_id": "scout_004_03_02.json__5e34150643ca454c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          62
+        ],
+        "log_order_index": [
+          0,
+          62
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000407",
+        "script_id": "scout_004_03_03.json__dbb1903e63342c48",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          20
+        ],
+        "log_order_index": [
+          0,
+          20
+        ],
+        "choice_scope": "BOTH_AUTHORED_BRANCHES",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000408",
+        "script_id": "scout_004_04_02.json__e64dada90214b4bb",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          7
+        ],
+        "log_order_index": [
+          0,
+          7
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
+      },
+      {
+        "episode_id": "201000409",
+        "script_id": "scout_004_04_03.json__1793a050a9549a77",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          35
+        ],
+        "log_order_index": [
+          0,
+          35
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0005_DEEP_READING.md"
       }
     ],
-    "next_candidate_episode_id": "201000401",
-    "next_candidate_native_chapter_layer_id": 300050
+    "next_candidate_episode_id": "201000501",
+    "next_candidate_native_chapter_layer_id": 300060
   },
   "collection_manifest": {
     "sha256": "f8127e578c3e350fca526b3f60315cedce2ef5de82d456d92962ca19364877b1",
@@ -709,6 +845,36 @@
       },
       "boundary": "Complete native chapter 300040 through episode 201000309; episode 201000401 metadata identified as next candidate but its story content not opened"
     },
+    "chapter_300050_close_verification": {
+      "checked_at": "2026-09-10T04:12:54-04:00",
+      "operation": "T7S_B0005_CHAPTER_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "chapter_layer_id": 300050,
+      "episodes_verified": 9,
+      "newly_admitted_episodes": 9,
+      "pages_verified": 330,
+      "text_pointers_verified": 312,
+      "command_only_pages_verified": 18,
+      "voice_references_observed": 214,
+      "authored_choice_groups_verified": 1,
+      "authored_branch_pages_verified": 4,
+      "inline_child_documents": 0,
+      "selected_character_composites_verified": 6,
+      "face_position_artifact_sha256": "5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439",
+      "source_sha256_by_script": {
+        "scout_004_01_01.json__9e26666955a9372f": "0905573ddfb021e56c2be640e9cc37aee1d56783d712a219fbac404f5a8dfc64",
+        "scout_004_01_02.json__4c6b2ec4b7f43c93": "c153e85b38145430f411d43c6ca32397228e4a544280316be28ed8095dc78db6",
+        "scout_004_01_03.json__ee31a7a812eece40": "0bfda839df876e531e0094b45960f6b6b8bbe89c3571e1441c4c02cfe035f2c6",
+        "scout_004_02_02.json__7975f18a06c661e1": "120992b779fa161f30ab0dcc8311c3c179ed75a35b262abeb36d9c47683504c3",
+        "scout_004_02_03.json__a0971e385f1d543a": "f3b59207b79c80bf3eaae7d546f75260e085770a680aacb8537d43a9fbc0bffd",
+        "scout_004_03_02.json__5e34150643ca454c": "d7eda47db8ce9aba62c04dd016b4985a9830afd50b247dfdf7c18cb12eb20203",
+        "scout_004_03_03.json__dbb1903e63342c48": "d9da074b860a97bb70c3b01595629c8557a2d2b51f133a93ea8b472cc1ab0852",
+        "scout_004_04_02.json__e64dada90214b4bb": "821a990626336a59498893a454d56708e62cd87e00dadef0dbfba5c6e7bd90d6",
+        "scout_004_04_03.json__1793a050a9549a77": "8cc411ca2a905d6f1be0633c5487230a931f049cc73ac2c0dfdfc61d26724056"
+      },
+      "boundary": "Complete native chapter 300050 through episode 201000409; episode 201000501 metadata identified as next candidate but its story content not opened"
+    },
     "selected_media_recovery": [
       {
         "kind": "audio",
@@ -734,7 +900,7 @@
   },
   "limits": [
     "Extraction completeness is not analytical, listening or visual-review completeness",
-    "At source-lock version 1.4, the first 28 native Main episodes through complete chapter 300040 / episode 201000309 are the sole consumed story sources; every later Main episode and all Sub/Event/additional/supplemental sources remain unconsumed",
+    "At source-lock version 1.5, the first 37 native Main episodes through complete chapter 300050 / episode 201000409 are the sole consumed story sources; every later Main episode and all Sub/Event/additional/supplemental sources remain unconsumed",
     "Repeated decoded hashes preserve distinct logical occurrence identities",
     "Unresolved/compound speakers and unbound media documents remain unresolved",
     "No full franchise, anime, live, studio-recording or complete lyric-edition admission is implied"
