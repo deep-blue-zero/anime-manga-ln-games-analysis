@@ -51,8 +51,8 @@ Every script locator below uses the immutable alias, exact script, mandatory `do
 | E04 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=51#/Pages/51/TextArea/Dialogue` | Manager's attributed report: disbandment two years earlier and cultural decline |
 | E05 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=80#/Pages/80/TextArea/Dialogue` | Unilateral appointment of the Player as second manager |
 | E06 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=97#/Pages/97/TextArea/Dialogue` | The scene's explicit current year, 2034 |
-| E07 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=113#/Pages/113/TextArea/Dialogue` | First interrupted `ナナサ…` disclosure about Connie |
-| E08 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=144#/Pages/144/TextArea/Dialogue` | Connie proposes future idols and “Nanasta Sisters” |
+| E07 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=113#/Pages/113/TextArea/Dialogue` | First interrupted `ナナサ…` disclosure about Coney |
+| E08 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=144#/Pages/144/TextArea/Dialogue` | Coney proposes future idols and “Nanasta Sisters” |
 | E09 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=147#/Pages/147/TextArea/Dialogue` | A new idol image made for and from the present |
 | E10 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=151#/Pages/151/Choices` | One choice group, whose two authored branches are retained |
 | E11 | `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=152#/Pages/152/TextArea/Dialogue` and `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=154#/Pages/154/TextArea/Dialogue` | Love/confidence alternatives |
@@ -93,17 +93,17 @@ The reviewed backgrounds sharpen the institutional claim. The opening concert im
 
 The first manager abruptly announces a wandering trip, attributes it to “upper management,” and is immediately corrected: there is no such authority above him. He has already selected the second manager—`PLAYER`—before asking for consent. [E05; pages 68–93] The Player does not refuse the underlying dream, but objects to the irresponsibility of the process, the absence of affiliated idols, and the incumbent's pattern of failed scouting. This is important agency evidence: the Player's polite `僕` and largely `です／ます` register do not make them passive. They repeatedly detect contradictions and say them aloud.
 
-`六咲コニー` enters by joining the criticism before the Player knows who she is. She calls herself a `ジャーマネ`, says she has returned from abroad, and is presented by the first manager as the Player's right hand, an excellent worker, and an industry senior. The authority chart and the competence chart therefore diverge from the outset: the Player receives the higher title, while Connie arrives with more initiative, claimed experience, and hidden knowledge.
+`六咲コニー` enters by joining the criticism before the Player knows who she is. She calls herself a `ジャーマネ`, says she has returned from abroad, and is presented by the first manager as the Player's right hand, an excellent worker, and an industry senior. The authority chart and the competence chart therefore diverge from the outset: the Player receives the higher title, while Coney arrives with more initiative, claimed experience, and hidden knowledge.
 
-Twice the first manager begins to identify her as `ナナサ…`, and twice Connie physically interrupts him. [E07; pages 108–128] The text establishes intentional concealment and shared past knowledge, but it does **not** complete the name or resolve the concealed identity. The machine record likewise leaves the displayed name unresolved. “Connie has some direct connection to the interrupted `ナナサ…` referent” is a strong working prediction; any exact equivalence is premature.
+Twice the first manager begins to identify her as `ナナサ…`, and twice Coney physically interrupts him. [E07; pages 108–128] The text establishes intentional concealment and shared past knowledge, but it does **not** complete the name or resolve the concealed identity. The machine record likewise leaves the displayed name unresolved. “Coney has some direct connection to the interrupted `ナナサ…` referent” is a strong working prediction; any exact equivalence is premature.
 
 ### 1.5 The mission changes from finding replicas to making the present (pages 131–160)
 
-Connie attacks the Player's appeal to the times: if old-style idols no longer exist, make new ones. Her proposed `ナナスタシスターズ` are “future idols” bound more deeply than idols as previously imagined, girls needed by and born in the current world. The most important phrase is not the proposed proper name but the temporal insistence: `新しい、『今』のアイドル像`. [E08–E09]
+Coney attacks the Player's appeal to the times: if old-style idols no longer exist, make new ones. Her proposed `ナナスタシスターズ` are “future idols” bound more deeply than idols as previously imagined, girls needed by and born in the current world. The most important phrase is not the proposed proper name but the temporal insistence: `新しい、『今』のアイドル像`. [E08–E09]
 
 The Player then identifies the mistake directly: fixation on Seven Sisters had made the future invisible. This is a bounded self-diagnosis, not a global character essence. It turns Nicole's opening “from here” into an institutional principle. The old unit's value is honored when it generates a different future, not when it becomes an impossible entrance exam for the present.
 
-The choice at page 151 asks how the Player answers Connie's question about love. One branch immediately claims plentiful love; Connie says that is enough. The other admits low confidence; Connie rejects the defeatism, the Player resolves to try despite not knowing where to start, and she promises full support. [E10–E11] Both branches converge on the birth of “new Nanasta.” [E12]
+The choice at page 151 asks how the Player answers Coney's question about love. One branch immediately claims plentiful love; Coney says that is enough. The other admits low confidence; Coney rejects the defeatism, the Player resolves to try despite not knowing where to start, and she promises full support. [E10–E11] Both branches converge on the birth of “new Nanasta.” [E12]
 
 This is meaningful but bounded interactivity. The player does not choose whether the first manager departs, whether the appointment happens, or whether the rebuilding mission begins. The choice controls **how imposed responsibility becomes personally articulated**: love already owned, or confidence repaired into effort. Its convergence converts the protagonist from recipient of a role into participant in a commitment without pretending that the original appointment was consensual.
 
@@ -111,9 +111,9 @@ This is meaningful but bounded interactivity. The player does not choose whether
 
 Before rushing for his flight, the first manager throws the Player a supposedly inherited, legendary HoloCom. The Player observes that it looks like an ordinary device common in the city and challenges the implausible antiquity claim. The manager answers that for humans and HoloComs, what matters is not appearance but `中身`. [E13; pages 161–178] The exact special contents and function remain unknown.
 
-Connie then calls the departed manager `おっちゃん` in private and promises that the new Nanasta is safe with her. When the Player asks whether they have met before and begins linking “六咲コニー” to `ナナサ…`, Connie denies the past, becomes conspicuously performative, and physically interrupts the recognition. [E14; pages 180–193] The blow is a comic mechanism that preserves an information asymmetry: the Player knows there is something to recognize but loses the active line of inquiry; Connie and the former manager know more.
+Coney then calls the departed manager `おっちゃん` in private and promises that the new Nanasta is safe with her. When the Player asks whether they have met before and begins linking “六咲コニー” to `ナナサ…`, Coney denies the past, becomes conspicuously performative, and physically interrupts the recognition. [E14; pages 180–193] The blow is a comic mechanism that preserves an information asymmetry: the Player knows there is something to recognize but loses the active line of inquiry; Coney and the former manager know more.
 
-The “appearance / contents” maxim may echo both Connie's staged self-presentation and the episode's new-idol doctrine, but that is a working motif, not settled authorial design. The rival explanation is simple tutorial comedy around a device. The block ends with the most concrete forward motion available: Connie redirects from hidden past to future labor and proposes that they immediately scout girls. [E15]
+The “appearance / contents” maxim may echo both Coney's staged self-presentation and the episode's new-idol doctrine, but that is a working motif, not settled authorial design. The rival explanation is simple tutorial comedy around a device. The block ends with the most concrete forward motion available: Coney redirects from hidden past to future labor and proposes that they immediately scout girls. [E15]
 
 ## 2. Analytical findings
 
@@ -122,19 +122,19 @@ The “appearance / contents” maxim may echo both Connie's staged self-present
 The native title, 始まりの日, initially seems to conflict with a last live. The episode resolves the apparent contradiction by dividing beginning into two stages:
 
 1. Nicole names an ending as the site from which something may begin.
-2. Connie supplies the practical correction that makes the beginning possible: stop searching for an identical past and make an idol form adequate to “now.”
+2. Coney supplies the practical correction that makes the beginning possible: stop searching for an identical past and make an idol form adequate to “now.”
 
-The Player is the hinge between them. Before Connie, “love for Seven Sisters” means comparison and scarcity. After Connie, the same love can become energy for scouting, building, and relationship. The opening does not renounce nostalgia; it disciplines nostalgia into generative inheritance.
+The Player is the hinge between them. Before Coney, “love for Seven Sisters” means comparison and scarcity. After Coney, the same love can become energy for scouting, building, and relationship. The opening does not renounce nostalgia; it disciplines nostalgia into generative inheritance.
 
 ### 2.2 The real deficit is relational
 
-The institutional diagnosis repeatedly links performers, viewers, distributable material, and local conviction. Nanasta has a favorable location and usable space, yet it lacks affiliated idols and content, while viewership has withered. Connie's answer is also relational: gather girls, raise them, bind them more deeply, and make a shared present. The proposed solution is not merely “find talent.” It is to reconstruct the social circuit through which talent, care, work, and audience become an institution.
+The institutional diagnosis repeatedly links performers, viewers, distributable material, and local conviction. Nanasta has a favorable location and usable space, yet it lacks affiliated idols and content, while viewership has withered. Coney's answer is also relational: gather girls, raise them, bind them more deeply, and make a shared present. The proposed solution is not merely “find talent.” It is to reconstruct the social circuit through which talent, care, work, and audience become an institution.
 
 This makes the phrase “Nanasta Sisters” programmatic before it is organizational. No actual unit with that membership exists at the block's end. It names a desired mode of relation and a recruitment mission, not a completed lineup.
 
 ### 2.3 Formal authority and practical authority split three ways
 
-The first manager possesses incumbent authority but abandons operations. The Player receives formal succession and carries local knowledge, moral criticism, and love of idols, but not confidence or demonstrated management competence. Connie has no top title, yet supplies the conceptual reframing, momentum, claimed industry seniority, and ongoing support.
+The first manager possesses incumbent authority but abandons operations. The Player receives formal succession and carries local knowledge, moral criticism, and love of idols, but not confidence or demonstrated management competence. Coney has no top title, yet supplies the conceptual reframing, momentum, claimed industry seniority, and ongoing support.
 
 The episode's comedy keeps any one of these roles from appearing sufficient. Title without labor is hollow; expertise without disclosed identity creates asymmetry; love without a present-tense model stalls. “New Nanasta” begins when these deficits are redistributed, albeit messily and without resolving the coercive handoff.
 
@@ -146,7 +146,7 @@ These are linguistic observations only; they do not claim performed delivery.
 - `支配人` performs authority through grandiose diction (`いかにも`, `たまえ`), clipped emphatic `ッ`, proclamations, and comic English such as `ノー`. His language produces a larger office than the institution can presently sustain.
 - `六咲コニー` shifts registers as an instrument of control: industry slang (`ジャーマネ`), motivational loanwords (`ガッツ`, `アンダスタン`), mock-elevated femininity (`ですことよ`, `ございます`, `おほほほ`), robotic katakana threat at page 126, and the slangy final `行こうずっ`. The elasticity lets her motivate, evade, intimidate, and reset the scene faster than either man.
 
-The text thus makes Connie legible as highly performative without yet explaining what lies behind that performance.
+The text thus makes Coney legible as highly performative without yet explaining what lies behind that performance.
 
 ### 2.5 Visual sequence and modality limits
 
@@ -174,12 +174,12 @@ The episode contains 101 voice references, and selected relevant files were reco
 | --- | --- |
 | Scene time | The main office scene says it is 2034. Seven Sisters' dissolution is reported as two years earlier; no exact date is assigned here. |
 | Nanasta | A locally situated HakoSta with usable premises but no affiliated idols, poor streaming viewership, and no content to distribute. |
-| Institutional roles | The first manager has left on a wandering trip. `PLAYER` is designated and accepts operation as second manager. Connie is assigned as manager/support in all paths; in the low-confidence choice branch, she additionally promises full assistance. |
+| Institutional roles | The first manager has left on a wandering trip. `PLAYER` is designated and accepts operation as second manager. Coney is assigned as manager/support in all paths; in the low-confidence choice branch, she additionally promises full assistance. |
 | Mission | Scout girls and build a present-born idol form provisionally called “Nanasta Sisters”; no completed unit yet exists. |
 | Player | Moves from legacy-bound discouragement to bounded willingness to try. Both branches support commitment, but preserve different confidence articulations. |
-| Connie | Recently returned from abroad; presented as experienced and capable; knows the first manager; intentionally conceals a past or identity connected only by the incomplete `ナナサ…` clue. |
+| Coney | Recently returned from abroad; presented as experienced and capable; knows the first manager; intentionally conceals a past or identity connected only by the incomplete `ナナサ…` clue. |
 | First manager | Entrusts Nanasta and a HoloCom, departs, and leaves both the device's special contents and his broader purpose unresolved. |
-| Knowledge asymmetry | Connie and the first manager share information about her that the Player lacks. The audience has also seen a proleptic future-girl montage not established as Player knowledge. |
+| Knowledge asymmetry | Coney and the first manager share information about her that the Player lacks. The audience has also seen a proleptic future-girl montage not established as Player knowledge. |
 
 ### 3.2 Facts, beliefs, and bounded inferences
 
@@ -187,18 +187,18 @@ The episode contains 101 voice references, and selected relevant files were reco
 | --- | --- |
 | Source-established | `PLAYER` replays the dissolution live, loves Seven Sisters, works at Nanasta, and becomes its second manager. |
 | Attributed but locally corroborated in part | The first manager calls the period an idol ice age and says idol culture has died; the Player corroborates Nanasta's immediate scarcity, not every society-wide conclusion. |
-| Source-established concealment | Connie blocks two attempted `ナナサ…` disclosures and the Player's later recognition. |
+| Source-established concealment | Coney blocks two attempted `ナナサ…` disclosures and the Player's later recognition. |
 | Bounded inference | The opening movie is audience-facing prolepsis whose ensemble imagery contradicts the Player's scarcity belief. |
 | Thematic interpretation | The episode converts inherited love from copying a finished miracle into producing a new present. |
-| Working hypothesis | “Contents over appearance” echoes Connie's concealment and the new-idol proposition; tutorial comedy remains a live rival. |
-| Unknown | Connie's exact prior identity; the HoloCom's special contents/function; the first manager's purpose beyond the announced wandering trip; complete historical/release chronology. |
+| Working hypothesis | “Contents over appearance” echoes Coney's concealment and the new-idol proposition; tutorial comedy remains a live rival. |
+| Unknown | Coney's exact prior identity; the HoloCom's special contents/function; the first manager's purpose beyond the announced wandering trip; complete historical/release chronology. |
 
 ### 3.3 Open threads and prospective tests
 
-- `THREAD-0001`: Can the Player and Connie actually recruit girls and turn “new Nanasta” from slogan into working institution?
-- `THREAD-0002`: What exact identity, history, or affiliation lies behind Connie and the interrupted `ナナサ…` disclosures?
+- `THREAD-0001`: Can the Player and Coney actually recruit girls and turn “new Nanasta” from slogan into working institution?
+- `THREAD-0002`: What exact identity, history, or affiliation lies behind Coney and the interrupted `ナナサ…` disclosures?
 - `THREAD-0003`: What is inside the inherited HoloCom, and is its claimed special status functional or comic misdirection?
-- `PRED-0001`: Connie has a direct prior connection to the concealed `ナナサ…` referent. Alternatives include affiliation, role, or another relationship; exact identity is not predicted as settled fact.
+- `PRED-0001`: Coney has a direct prior connection to the concealed `ナナサ…` referent. Alternatives include affiliation, role, or another relationship; exact identity is not predicted as settled fact.
 - `PRED-0002`: The HoloCom's contents will later perform a concrete enabling function. Rival: it is principally tutorial framing with no durable narrative significance.
 
 ### 3.4 Promotion decision
