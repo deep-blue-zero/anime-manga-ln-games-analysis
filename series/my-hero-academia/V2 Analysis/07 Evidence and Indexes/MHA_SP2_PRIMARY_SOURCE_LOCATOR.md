@@ -2203,3 +2203,9 @@ Existing `VXX:pNNN` entries retain their exact manga identities, offsets and exc
 The [UA audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ARCHIVE_PARATEXT_AUDIT.md) and [217-page coverage](../01A%20Supplemental%20Source%20Audits/MHA_SP2_UA_PAGE_COVERAGE.csv) record actual completed page accounting with seven limited-readability subparts; the [supplemental ledger](MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md) owns claim adjudication. Subsequent book progress is controlled by the [current map](../00%20Frameworks%20and%20Methods/CURRENT_STATE_AND_CORPUS_MAP.md#current-supplemental-reconciliation). Technical locks for UAN/UAG are not analytical review completion.
 
 The historical publication/source-reverification audit remains byte-identical and manga-only. This appendix does not add supplementary checks to its old SR series or alter the V27/V28, V31, V35 or V36 mapping corrections.
+
+## Ultra Analysis routing checkpoint — 2026-09-10
+
+The [UAN audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ANALYSIS_PARATEXT_AUDIT.md) and [297-page coverage](../01A%20Supplemental%20Source%20Audits/MHA_SP2_UAN_PAGE_COVERAGE.csv) now establish complete original-page accounting, with bounded unreadable subparts on s0275. The [UAN ledger section](MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#ultra-analysis-checkpoint) records source claims and UA comparisons. UAG remains technically locked but analytically pending until this checkpoint's verification and commit.
+
+Narrow new manga checks use the existing original locators V23:p046–047 for Monoma's conditional disclosure and V13:p105 for Yaoyorozu's 94-point result. They are supplemental verification, not new sequential readings or retrospective additions to the historical source-reverification audit. Existing manga locator bodies and prior mapping corrections remain intact.

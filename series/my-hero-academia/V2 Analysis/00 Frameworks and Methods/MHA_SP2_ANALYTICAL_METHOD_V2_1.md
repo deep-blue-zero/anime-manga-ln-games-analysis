@@ -302,6 +302,8 @@ Preferences, aversions, routines and ordinary sociability are first-class charac
 
 Only current cumulative models, readiness and synthesis may absorb admitted supplemental findings. Give new supplemental atoms distinct IDs and exact locators, with dates and applicability. Preserve original atoms, historical checkpoints, manga source locks, formal probe inputs, predictions, outcomes and contamination notices byte-for-byte. Any subsequent validation is separately labeled retrospective/nonblind or explicitly withheld as appropriate; hypothetical behavior is not empirical validation. The readiness index remains the sole tier authority.
 
+The cumulative supplemental ledger may index source-record partitions to meet the repository file-size limit. Keep the canonical ledger identity and existing evidence anchors, give each record one detailed owner, and verify text-preserving relocation with only necessary link changes. A partition creates no new source authority or independent support. Cross-book comparisons must resolve to the exact earlier record regardless of storage file.
+
 ### 18.4 Literary use and stopping boundaries
 
 Review all eight comparative specialists, eight literary character studies and four full-series documents. Revise a home only when evidence materially changes its responsibility; unchanged is a valid result. Distinguish expanded source characterization, a changed reading of the manga, and unresolved limits of the manga's execution. Keep serious counterreadings and source-specific tensions visible. Final integration follows evidence stabilization, all-character dispositions and reconstruction review, then specialist convergence and full-series revision.

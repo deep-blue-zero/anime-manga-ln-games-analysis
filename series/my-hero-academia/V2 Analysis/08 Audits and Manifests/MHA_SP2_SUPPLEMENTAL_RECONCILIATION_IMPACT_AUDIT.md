@@ -15,7 +15,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 ## Actual execution state
 
-**IN PROGRESS — UA has completed original-page accounting and its admitted source checkpoint; UAN/UAG review, character integration and final analytical closeout remain pending.** The completed manga-only corpus remains authoritative within its preserved boundary. This mutable audit will record verified transitions and final impact rather than treating planned files or extracted pages as finished analysis.
+**IN PROGRESS — UA and UAN have completed original-page accounting and admitted source checkpoints; UAG review, character integration and final analytical closeout remain pending.** The completed manga-only corpus remains authoritative within its preserved boundary. This mutable audit will record verified transitions and final impact rather than treating planned files or extracted pages as finished analysis.
 
 ## Baseline, authority and preservation
 
@@ -58,3 +58,17 @@ Material UA gains include THE・DEPTH's added Ochako–Bakugo classroom interact
 Two narrow original-manga rechecks support the disciplinary caption at V07:p067/p080 and do not establish a competing cuff account at V08:p095. These are new source verifications outside the preserved old publication audit and frozen probes. The root also directly verified the five-page bonus narrative and two family claims after disjoint page review, without counting those checks as new independent source observations.
 
 Bootstrap parent commit is `7e3cae7cdebece20332d94a4b3aec62ee2d19a94`. This checkpoint's logical commit is recorded by Git after author preflight; no future hash/CI success is claimed in its own contents. Current locator/inventory/map routes are extended with history preserved. All 30 dossiers, all readiness history, the 42 readings, 14 manga ledgers, original validation and historical source/publication artifacts remain unchanged. UAN opens only after verification and commit; publication/main integration remain separate.
+
+## UAN source checkpoint — 2026-09-10
+
+The [UAN audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ANALYSIS_PARATEXT_AUDIT.md) closes 297/297 original-image page dispositions and admits 334 selective stable claim records. Exact page dispositions: REVIEWED_NO_MATERIAL_ADDITION 33, REVIEWED_MATERIAL 247, REVIEWED_DUPLICATE 16, UNRESOLVED_READABILITY 1. Tiny dialogue/aside text at s0275 remains specifically excluded from claims; the initially uncertain s0267 name was resolved by independent original-image checks. All source locators/member hashes, coverage references, canonical codes and earlier UA comparison IDs are checked. Combined admitted source accounting is 514 original pages and 610 selective records; these counts are not independent behavioral observations.
+
+The main additions are reciprocal ordinary practices, family contact and peer boundaries; differentiated professional care and teaching; Pussycats formation and post-loss work; specific access, licensing, employment and financial arrangements; and distinct histories of plot-role planning, visual design and moral exploration. Source adjudication retains public credit versus actual rescue, mixed knowledge states, incompatible Stain affiliation claims, CRC optimism versus explicit local prejudice, and identity/edition clarifications without invented development. All eight specialists, eight monographs and four full-series homes have named candidate dispositions in the book audit. Actual current-home integration remains pending the UAG and cross-book reviews.
+
+Two narrow primary comparisons were performed outside the frozen historical source audit. V23:p046–047 preserves Monoma's conditional tactical disclosure, qualifying the guide's flat five-minute parameter without pretending a timed demonstration. V13:p105 supports the manga's 94-point Yaoyorozu result against the guide profile's 95; the guide discrepancy and unknown cause remain recorded. These are retrospective source checks, not fresh character-model predictions. One UA coverage label is transparently corrected from “photographs004” to “illustration gallery004”; its source and interpretation are unchanged.
+
+Parent commit is `4f3a4ca92252c7cd8a76f87b1e8b28cac0e03a3f`. The verified UA checkpoint and all historical source/probe records remain preserved. No current dossier, readiness tier, specialist, monograph or full-series argument is revised at this checkpoint. UAG opens only after this logical checkpoint's preservation checks, author preflight and commit. The separate final publication step will verify remote identity and CI; no future result is asserted here.
+
+### UAN ledger-size validation and corrective routing
+
+The first author preflight rejected the 1,332,059-byte cumulative ledger under the repository's 1 MiB review threshold. The canonical ledger now indexes bounded UA and UAN detailed-record files, retaining all610 evidence anchors and their single owners. No record or interpretation was removed. UA record text is unchanged; UAN cross-book hyperlinks now point to the UA partition. Method and architecture explicitly document the storage rule. The new layout requires a fresh exact-index author preflight; the failed attempt is not reported as a pass.
