@@ -43,6 +43,12 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Family, Civilians, and Other Social Actors Ledger
 
+## Current source-admissibility correction — continuation
+
+Shoji's V37:p148 kimono drawing is authorial paratext, not an ordinary family/classmate scene. Any interval below ending in p148 must exclude it; the valid dialogue and rescued-child memory are V37:p140–142. The ending's family claims keep distinct Shoto's initiative (V42:p062), Toya's narrow Shoto-directed apology (p064), and the strong inference from the later Toya altar (p167); the altar is not a depicted death event. Both V42:p144 and p145 remain correctly classified as authorial afterword.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 

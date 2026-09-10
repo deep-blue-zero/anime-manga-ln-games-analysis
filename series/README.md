@@ -53,6 +53,7 @@ All G7 roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. 
 - [`tomozaki/`](tomozaki/) — Bottom-Tier Character Tomozaki — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [`chiramune/`](chiramune/) — Chitose Is in the Ramune Bottle — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [`re-zero/`](re-zero/) — Re:ZERO -Starting Life in Another World- — post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary.
+- [`tokyo-7th-sisters/`](tokyo-7th-sisters/) — Tokyo 7th Sisters — Game-first analytical architecture initialized from approved design 1.1; exact inventory and zero-consumption ledgers. Native source corpus and media remain external; no sequential findings yet.
 - [`wuthering-waves/`](wuthering-waves/) — Wuthering Waves — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
 
 <!-- END GENERATED SERIES CATALOG -->

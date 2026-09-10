@@ -27,6 +27,14 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Villains and Antagonists Character State Ledger
 
+## Current source-admissibility correction — continuation
+
+The lethal strike on Twice is V27:p149; the earlier p140–147 lead-in is not the strike itself. The final clone sequence and Toga/Compress rescue continue afterward; those subsequent details retain their inherited locators and do not turn Hawks extraction into a V27 event. Tokoyami arrives at p179 and extracts Hawks in V28:p060–077.
+
+V41:p132 is AFO's claim to have engineered Tomura's conditions, not an omniscient declaration that all later choices vanish. V41:p116,p121–123 and V42:p018 preserve resistant or League-directed intent. Toya's V42:p064 apology is narrow; the p167 altar supports death by the later setting as a strong inference without a shown final moment. Both distinctions constrain terminal-state generalization.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 

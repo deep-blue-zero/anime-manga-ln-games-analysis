@@ -43,6 +43,12 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Relationship State Ledger
 
+## Current source-admissibility correction — continuation
+
+Hawks/Tokoyami reciprocity is temporally split: Tokoyami arrives at V27:p179; extraction, accusation and voiced belief belong to V28:p060–077 (p062 portrait excluded). Preserve the mentorship relation while excluding received rescue from a V27 freeze. In the Big Three sequence, V36:p170–171 distinguishes Mirio's spoken apology from internal reconsideration, p173–179 supplies coordination and p181 Tamaki's changed reception of belief; the broad battle interval excludes author matter including p180. V42:p149,p151,p153 adds adult Tamaki's care and correctable social interpretation. Shoto's food question and Toya's apology at V42:p062–064 establish one directed movement, not universal family reconciliation; Ochako/Midoriya's p180–183 approach does not establish marriage or an unshown relationship history.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 

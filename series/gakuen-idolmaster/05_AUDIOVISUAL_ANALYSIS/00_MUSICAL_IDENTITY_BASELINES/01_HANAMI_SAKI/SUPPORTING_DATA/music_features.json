@@ -1,0 +1,629 @@
+[
+  {
+    "id": "MUS001_Fighting_My_Way",
+    "duration_s": 200.319,
+    "tempo_bpm_primary": 66.26,
+    "tempo_candidates_bpm": [
+      66.26,
+      132.51
+    ],
+    "tempo_autocorr_strength": 0.71,
+    "onset_rate_per_s": 4.792,
+    "rms_db_p10": -10.79,
+    "rms_db_p50": -4.24,
+    "rms_db_p90": -2.66,
+    "rms_dynamic_span_db": 8.13,
+    "spectral_centroid_hz_median": 614.7,
+    "spectral_centroid_hz_p90": 1248.3,
+    "spectral_bandwidth_hz_median": 928.6,
+    "rolloff85_hz_median": 1227.4,
+    "spectral_flatness_median": 0.08087,
+    "energy_band_fractions": {
+      "low_below_160": 0.5615,
+      "lowmid_160_600": 0.1442,
+      "mid_600_2500": 0.2386,
+      "high_2500_plus": 0.0556
+    },
+    "key_candidates": [
+      {
+        "key": "F major",
+        "score": 0.442
+      },
+      {
+        "key": "C major",
+        "score": 0.424
+      },
+      {
+        "key": "F minor",
+        "score": 0.351
+      },
+      {
+        "key": "A# minor",
+        "score": 0.345
+      }
+    ],
+    "integrated_lufs": -12.8,
+    "loudness_range_lu": 4.2,
+    "true_peak_dbfs": -1.3,
+    "approx_section_change_points_s": [
+      6.1,
+      18.1,
+      35.0,
+      95.9,
+      130.9,
+      143.9,
+      180.8,
+      193.8
+    ]
+  },
+  {
+    "id": "MUS002_Boom_Boom_Pow",
+    "duration_s": 201.327,
+    "tempo_bpm_primary": 78.3,
+    "tempo_candidates_bpm": [
+      78.3,
+      156.61
+    ],
+    "tempo_autocorr_strength": 0.598,
+    "onset_rate_per_s": 4.177,
+    "rms_db_p10": -15.18,
+    "rms_db_p50": -7.29,
+    "rms_db_p90": -2.63,
+    "rms_dynamic_span_db": 12.55,
+    "spectral_centroid_hz_median": 711.0,
+    "spectral_centroid_hz_p90": 1691.5,
+    "spectral_bandwidth_hz_median": 984.9,
+    "rolloff85_hz_median": 1571.9,
+    "spectral_flatness_median": 0.07556,
+    "energy_band_fractions": {
+      "low_below_160": 0.5894,
+      "lowmid_160_600": 0.1101,
+      "mid_600_2500": 0.2235,
+      "high_2500_plus": 0.0771
+    },
+    "key_candidates": [
+      {
+        "key": "A# minor",
+        "score": 0.292
+      },
+      {
+        "key": "A minor",
+        "score": 0.201
+      },
+      {
+        "key": "C# minor",
+        "score": 0.19
+      },
+      {
+        "key": "A# major",
+        "score": 0.176
+      }
+    ],
+    "integrated_lufs": -13.8,
+    "loudness_range_lu": 4.8,
+    "true_peak_dbfs": 0.8,
+    "approx_section_change_points_s": [
+      22.1,
+      48.0,
+      68.0,
+      91.0,
+      122.9,
+      141.9,
+      161.8,
+      178.8
+    ]
+  },
+  {
+    "id": "MUS003_EGO",
+    "duration_s": 241.882,
+    "tempo_bpm_primary": 64.6,
+    "tempo_candidates_bpm": [
+      64.6,
+      129.2
+    ],
+    "tempo_autocorr_strength": 0.555,
+    "onset_rate_per_s": 4.68,
+    "rms_db_p10": -12.2,
+    "rms_db_p50": -6.14,
+    "rms_db_p90": -1.52,
+    "rms_dynamic_span_db": 10.67,
+    "spectral_centroid_hz_median": 727.3,
+    "spectral_centroid_hz_p90": 1747.9,
+    "spectral_bandwidth_hz_median": 1040.9,
+    "rolloff85_hz_median": 1798.0,
+    "spectral_flatness_median": 0.08327,
+    "energy_band_fractions": {
+      "low_below_160": 0.6322,
+      "lowmid_160_600": 0.1128,
+      "mid_600_2500": 0.1698,
+      "high_2500_plus": 0.0852
+    },
+    "key_candidates": [
+      {
+        "key": "D minor",
+        "score": 0.508
+      },
+      {
+        "key": "F major",
+        "score": 0.504
+      },
+      {
+        "key": "A# major",
+        "score": 0.462
+      },
+      {
+        "key": "A# minor",
+        "score": 0.353
+      }
+    ],
+    "integrated_lufs": -12.7,
+    "loudness_range_lu": 3.7,
+    "true_peak_dbfs": 0.7,
+    "approx_section_change_points_s": [
+      3.1,
+      23.1,
+      80.0,
+      106.9,
+      118.9,
+      160.8,
+      223.7,
+      235.7
+    ]
+  },
+  {
+    "id": "MUS004_Campus_mode",
+    "duration_s": 160.194,
+    "tempo_bpm_primary": 184.57,
+    "tempo_candidates_bpm": [
+      92.29,
+      184.57
+    ],
+    "tempo_autocorr_strength": 0.492,
+    "onset_rate_per_s": 4.251,
+    "rms_db_p10": -14.8,
+    "rms_db_p50": -6.96,
+    "rms_db_p90": -4.48,
+    "rms_dynamic_span_db": 10.32,
+    "spectral_centroid_hz_median": 1008.2,
+    "spectral_centroid_hz_p90": 1612.5,
+    "spectral_bandwidth_hz_median": 1059.9,
+    "rolloff85_hz_median": 2002.6,
+    "spectral_flatness_median": 0.11498,
+    "energy_band_fractions": {
+      "low_below_160": 0.2139,
+      "lowmid_160_600": 0.2413,
+      "mid_600_2500": 0.4083,
+      "high_2500_plus": 0.1365
+    },
+    "key_candidates": [
+      {
+        "key": "A major",
+        "score": 0.772
+      },
+      {
+        "key": "F# minor",
+        "score": 0.662
+      },
+      {
+        "key": "D major",
+        "score": 0.496
+      },
+      {
+        "key": "C# minor",
+        "score": 0.465
+      }
+    ],
+    "integrated_lufs": -17.1,
+    "loudness_range_lu": 3.3,
+    "true_peak_dbfs": -0.8,
+    "approx_section_change_points_s": [
+      7.1,
+      24.1,
+      40.0,
+      53.0,
+      72.0,
+      92.0,
+      108.9,
+      144.9
+    ]
+  },
+  {
+    "id": "MUS005_Wildest_Flower",
+    "duration_s": 181.766,
+    "tempo_bpm_primary": 83.35,
+    "tempo_candidates_bpm": [
+      83.35,
+      166.71
+    ],
+    "tempo_autocorr_strength": 0.628,
+    "onset_rate_per_s": 4.038,
+    "rms_db_p10": -16.19,
+    "rms_db_p50": -5.73,
+    "rms_db_p90": -2.87,
+    "rms_dynamic_span_db": 13.32,
+    "spectral_centroid_hz_median": 492.1,
+    "spectral_centroid_hz_p90": 1090.6,
+    "spectral_bandwidth_hz_median": 713.8,
+    "rolloff85_hz_median": 1039.0,
+    "spectral_flatness_median": 0.05045,
+    "energy_band_fractions": {
+      "low_below_160": 0.6193,
+      "lowmid_160_600": 0.1422,
+      "mid_600_2500": 0.2038,
+      "high_2500_plus": 0.0348
+    },
+    "key_candidates": [
+      {
+        "key": "A# minor",
+        "score": 0.812
+      },
+      {
+        "key": "A# major",
+        "score": 0.488
+      },
+      {
+        "key": "C# major",
+        "score": 0.408
+      },
+      {
+        "key": "F# major",
+        "score": 0.369
+      }
+    ],
+    "integrated_lufs": -13.0,
+    "loudness_range_lu": 4.3,
+    "true_peak_dbfs": -1.5,
+    "approx_section_change_points_s": [
+      2.1,
+      25.1,
+      38.0,
+      70.0,
+      93.9,
+      105.9,
+      118.9,
+      166.8
+    ]
+  },
+  {
+    "id": "MUS006_Gamushara",
+    "duration_s": 220.52,
+    "tempo_bpm_primary": 66.26,
+    "tempo_candidates_bpm": [
+      66.26,
+      132.51
+    ],
+    "tempo_autocorr_strength": 0.606,
+    "onset_rate_per_s": 3.877,
+    "rms_db_p10": -10.94,
+    "rms_db_p50": -6.86,
+    "rms_db_p90": -3.4,
+    "rms_dynamic_span_db": 7.54,
+    "spectral_centroid_hz_median": 614.3,
+    "spectral_centroid_hz_p90": 980.8,
+    "spectral_bandwidth_hz_median": 818.0,
+    "rolloff85_hz_median": 1168.2,
+    "spectral_flatness_median": 0.06544,
+    "energy_band_fractions": {
+      "low_below_160": 0.3908,
+      "lowmid_160_600": 0.3067,
+      "mid_600_2500": 0.2573,
+      "high_2500_plus": 0.0452
+    },
+    "key_candidates": [
+      {
+        "key": "G major",
+        "score": 0.7
+      },
+      {
+        "key": "D major",
+        "score": 0.683
+      },
+      {
+        "key": "A major",
+        "score": 0.425
+      },
+      {
+        "key": "B minor",
+        "score": 0.401
+      }
+    ],
+    "integrated_lufs": -12.3,
+    "loudness_range_lu": 3.1,
+    "true_peak_dbfs": 0.5,
+    "approx_section_change_points_s": [
+      2.1,
+      41.0,
+      72.0,
+      92.0,
+      142.9,
+      156.9,
+      170.8,
+      214.8
+    ]
+  },
+  {
+    "id": "MUS007_Garakuta_Road",
+    "duration_s": 163.561,
+    "tempo_bpm_primary": 143.55,
+    "tempo_candidates_bpm": [
+      71.78,
+      143.55
+    ],
+    "tempo_autocorr_strength": 0.382,
+    "onset_rate_per_s": 4.09,
+    "rms_db_p10": -12.73,
+    "rms_db_p50": -7.47,
+    "rms_db_p90": -5.33,
+    "rms_dynamic_span_db": 7.4,
+    "spectral_centroid_hz_median": 1096.6,
+    "spectral_centroid_hz_p90": 1708.0,
+    "spectral_bandwidth_hz_median": 1142.9,
+    "rolloff85_hz_median": 2234.1,
+    "spectral_flatness_median": 0.13955,
+    "energy_band_fractions": {
+      "low_below_160": 0.2284,
+      "lowmid_160_600": 0.2415,
+      "mid_600_2500": 0.3865,
+      "high_2500_plus": 0.1436
+    },
+    "key_candidates": [
+      {
+        "key": "D minor",
+        "score": 0.683
+      },
+      {
+        "key": "A minor",
+        "score": 0.631
+      },
+      {
+        "key": "D major",
+        "score": 0.627
+      },
+      {
+        "key": "A major",
+        "score": 0.484
+      }
+    ],
+    "integrated_lufs": -18.0,
+    "loudness_range_lu": 3.6,
+    "true_peak_dbfs": -2.1,
+    "approx_section_change_points_s": [
+      6.1,
+      19.1,
+      45.0,
+      70.0,
+      88.0,
+      116.9,
+      128.9,
+      149.9
+    ]
+  },
+  {
+    "id": "MUS008_GO_MY_WAY",
+    "duration_s": 133.027,
+    "tempo_bpm_primary": 184.57,
+    "tempo_candidates_bpm": [
+      92.29,
+      184.57
+    ],
+    "tempo_autocorr_strength": 0.377,
+    "onset_rate_per_s": 4.255,
+    "rms_db_p10": -8.69,
+    "rms_db_p50": -4.87,
+    "rms_db_p90": -1.84,
+    "rms_dynamic_span_db": 6.85,
+    "spectral_centroid_hz_median": 809.6,
+    "spectral_centroid_hz_p90": 1567.5,
+    "spectral_bandwidth_hz_median": 915.6,
+    "rolloff85_hz_median": 1475.0,
+    "spectral_flatness_median": 0.07743,
+    "energy_band_fractions": {
+      "low_below_160": 0.3848,
+      "lowmid_160_600": 0.2309,
+      "mid_600_2500": 0.2971,
+      "high_2500_plus": 0.0872
+    },
+    "key_candidates": [
+      {
+        "key": "C# minor",
+        "score": 0.365
+      },
+      {
+        "key": "A minor",
+        "score": 0.348
+      },
+      {
+        "key": "E major",
+        "score": 0.318
+      },
+      {
+        "key": "A major",
+        "score": 0.3
+      }
+    ],
+    "integrated_lufs": -18.3,
+    "loudness_range_lu": 3.0,
+    "true_peak_dbfs": -2.7,
+    "approx_section_change_points_s": [
+      15.1,
+      31.0,
+      45.0,
+      58.0,
+      74.0,
+      93.9,
+      106.9,
+      124.9
+    ]
+  },
+  {
+    "id": "MUS009_Hajime",
+    "duration_s": 157.78,
+    "tempo_bpm_primary": 172.27,
+    "tempo_candidates_bpm": [
+      86.13,
+      172.27
+    ],
+    "tempo_autocorr_strength": 0.424,
+    "onset_rate_per_s": 3.771,
+    "rms_db_p10": -15.17,
+    "rms_db_p50": -9.11,
+    "rms_db_p90": -6.38,
+    "rms_dynamic_span_db": 8.79,
+    "spectral_centroid_hz_median": 877.8,
+    "spectral_centroid_hz_p90": 1386.5,
+    "spectral_bandwidth_hz_median": 830.4,
+    "rolloff85_hz_median": 1496.6,
+    "spectral_flatness_median": 0.05881,
+    "energy_band_fractions": {
+      "low_below_160": 0.1744,
+      "lowmid_160_600": 0.2314,
+      "mid_600_2500": 0.5204,
+      "high_2500_plus": 0.0738
+    },
+    "key_candidates": [
+      {
+        "key": "D major",
+        "score": 0.817
+      },
+      {
+        "key": "G major",
+        "score": 0.778
+      },
+      {
+        "key": "B minor",
+        "score": 0.518
+      },
+      {
+        "key": "D minor",
+        "score": 0.518
+      }
+    ],
+    "integrated_lufs": -21.5,
+    "loudness_range_lu": 7.1,
+    "true_peak_dbfs": -4.0,
+    "approx_section_change_points_s": [
+      16.1,
+      35.0,
+      60.0,
+      80.0,
+      92.9,
+      114.9,
+      139.9,
+      153.9
+    ]
+  },
+  {
+    "id": "MUS010_ENDLESS_DANCE",
+    "duration_s": 109.691,
+    "tempo_bpm_primary": 76.0,
+    "tempo_candidates_bpm": [
+      76.0,
+      152.0
+    ],
+    "tempo_autocorr_strength": 0.565,
+    "onset_rate_per_s": 4.212,
+    "rms_db_p10": -69.75,
+    "rms_db_p50": -5.07,
+    "rms_db_p90": -2.35,
+    "rms_dynamic_span_db": 67.4,
+    "spectral_centroid_hz_median": 741.2,
+    "spectral_centroid_hz_p90": 1125.1,
+    "spectral_bandwidth_hz_median": 1040.5,
+    "rolloff85_hz_median": 1884.2,
+    "spectral_flatness_median": 0.11456,
+    "energy_band_fractions": {
+      "low_below_160": 0.3444,
+      "lowmid_160_600": 0.3286,
+      "mid_600_2500": 0.237,
+      "high_2500_plus": 0.09
+    },
+    "key_candidates": [
+      {
+        "key": "A minor",
+        "score": 0.763
+      },
+      {
+        "key": "F major",
+        "score": 0.668
+      },
+      {
+        "key": "D minor",
+        "score": 0.561
+      },
+      {
+        "key": "A major",
+        "score": 0.515
+      }
+    ],
+    "integrated_lufs": -15.4,
+    "loudness_range_lu": 2.4,
+    "true_peak_dbfs": -0.4,
+    "approx_section_change_points_s": [
+      6.1,
+      20.1,
+      33.0,
+      45.0,
+      58.0,
+      72.0,
+      86.0,
+      101.9
+    ]
+  },
+  {
+    "id": "MUS011_Ameagari_no_Iris",
+    "duration_s": 199.459,
+    "tempo_bpm_primary": 123.05,
+    "tempo_candidates_bpm": [
+      61.52,
+      123.05
+    ],
+    "tempo_autocorr_strength": 0.471,
+    "onset_rate_per_s": 3.53,
+    "rms_db_p10": -25.24,
+    "rms_db_p50": -8.57,
+    "rms_db_p90": -4.35,
+    "rms_dynamic_span_db": 20.9,
+    "spectral_centroid_hz_median": 722.5,
+    "spectral_centroid_hz_p90": 1277.0,
+    "spectral_bandwidth_hz_median": 805.1,
+    "rolloff85_hz_median": 1178.9,
+    "spectral_flatness_median": 0.05554,
+    "energy_band_fractions": {
+      "low_below_160": 0.4238,
+      "lowmid_160_600": 0.1952,
+      "mid_600_2500": 0.304,
+      "high_2500_plus": 0.077
+    },
+    "key_candidates": [
+      {
+        "key": "A# minor",
+        "score": 0.369
+      },
+      {
+        "key": "F major",
+        "score": 0.254
+      },
+      {
+        "key": "C major",
+        "score": 0.246
+      },
+      {
+        "key": "F# major",
+        "score": 0.204
+      }
+    ],
+    "integrated_lufs": -17.9,
+    "loudness_range_lu": 8.6,
+    "true_peak_dbfs": -0.6,
+    "approx_section_change_points_s": [
+      33.0,
+      54.0,
+      78.0,
+      91.0,
+      123.9,
+      150.9,
+      169.8,
+      181.8
+    ]
+  }
+]

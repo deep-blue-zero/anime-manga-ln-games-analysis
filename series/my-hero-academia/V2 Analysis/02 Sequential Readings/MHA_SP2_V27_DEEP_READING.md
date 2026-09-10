@@ -14,6 +14,14 @@ do_not_use_as_current_authority: false
 
 # My Hero Academia - Second-Pass Deep Reading, Volume 27
 
+## Current correction to the historical V27 boundary — 2026-09-09
+
+**Arrival is V27; extraction is V28.** Direct Japanese-page inspection confirms that `V27:p179` shows Tokoyami arriving beside the injured Hawks. `p180` returns to Mirko and closes No.267; `p181` is an author equipment note and `p182` assistant material. The actual retrieval and escape occur in `V28:p060–077` (exclude `p062`, a chapter portrait). Tokoyami’s concern for his mentor is spoken at `V28:p066`; his belief that Hawks did right is at `p077`, and is not narrator certification of the killing.
+
+The historical body below is preserved, including its erroneous extraction claim in §0, its reverse-rescue argument in §11, and derivatives in §§1, 12, 15–16, 19, 21–22. **All statements that Tokoyami has already extracted Hawks, heard Dabi’s killing accusation, or delivered the V28 trust response are invalid as V27 observations and excluded from every V27 freeze.** The valid outgoing state is: Tokoyami has arrived; Hawks is severely burned and in immediate danger; the extraction’s execution, success and subsequent condition remain V28+ evidence. This notice corrects admissibility without pretending the prospective record was pristine. Historical V27 readiness rationales that used the completed extraction cannot establish that scene at the earlier boundary; final tiers remain governed by the current readiness index and valid later evidence.
+
+Original published source blob: `8ce15b4cc2ca01b19bcb1bc3e1994e0cf5a0132a` at `7089f586ce3114e54a2c4954018f809b7c2cab09`. See the [publication/source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) and the corrected [Hawks probe](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_HAWKS_CHARACTER_RECONSTRUCTION_MODEL.md#formal-validation-probe-hk-v01-v27--v31-freedom-from-command).
+
 ## 0. Status, method, and prospective lock
 
 This reading follows `MHA_SP2_ANALYTICAL_METHOD_V2_1.md` and begins from the exact frozen Volume 26 endpoint.

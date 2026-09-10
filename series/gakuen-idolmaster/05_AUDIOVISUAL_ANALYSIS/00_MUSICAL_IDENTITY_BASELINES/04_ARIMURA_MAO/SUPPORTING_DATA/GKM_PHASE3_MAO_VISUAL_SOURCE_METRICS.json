@@ -1,0 +1,110 @@
+[
+  {
+    "source_id": "M01",
+    "work": "Fluorite official",
+    "sampled_frame_count": 16,
+    "mean_brightness_0_255": 141.16335611979167,
+    "brightness_std_across_frames": 44.78243881076026,
+    "mean_saturation_0_255": 82.9524045138889,
+    "mean_dominant_hue_degrees": 110.1152495014143,
+    "mean_edge_fraction": 0.05220594618055555,
+    "mean_interframe_mean_rgb_distance": 123.03210540510136,
+    "caveat": "Computed from evenly sampled contact frames; descriptive of supplied source palette/cut variation, not a semantic interpretation by itself."
+  },
+  {
+    "source_id": "M02",
+    "work": "Fluorite 3DMV",
+    "sampled_frame_count": 16,
+    "mean_brightness_0_255": 72.59636284722222,
+    "brightness_std_across_frames": 28.607589503276216,
+    "mean_saturation_0_255": 141.55096028645835,
+    "mean_dominant_hue_degrees": 113.51201453464007,
+    "mean_edge_fraction": 0.05029513888888889,
+    "mean_interframe_mean_rgb_distance": 44.885649573347514,
+    "caveat": "Computed from evenly sampled contact frames; descriptive of supplied source palette/cut variation, not a semantic interpretation by itself."
+  },
+  {
+    "source_id": "M04",
+    "work": "Feel Jewel Dream 3DMV",
+    "sampled_frame_count": 16,
+    "mean_brightness_0_255": 71.16273654513888,
+    "brightness_std_across_frames": 26.226212976590396,
+    "mean_saturation_0_255": 143.6820388454861,
+    "mean_dominant_hue_degrees": 126.247675077782,
+    "mean_edge_fraction": 0.059531249999999994,
+    "mean_interframe_mean_rgb_distance": 54.82718021971546,
+    "caveat": "Computed from evenly sampled contact frames; descriptive of supplied source palette/cut variation, not a semantic interpretation by itself."
+  },
+  {
+    "source_id": "M06",
+    "work": "Campus mode!! 3DMV",
+    "sampled_frame_count": 16,
+    "mean_brightness_0_255": 85.55754014756945,
+    "brightness_std_across_frames": 17.788751883165332,
+    "mean_saturation_0_255": 127.73267361111111,
+    "mean_dominant_hue_degrees": 121.98018104778942,
+    "mean_edge_fraction": 0.08197916666666666,
+    "mean_interframe_mean_rgb_distance": 48.476471873976024,
+    "caveat": "Computed from evenly sampled contact frames; descriptive of supplied source palette/cut variation, not a semantic interpretation by itself."
+  },
+  {
+    "source_id": "M07",
+    "work": "SUGAR FLAVOR official",
+    "sampled_frame_count": 16,
+    "mean_brightness_0_255": 165.53592122395833,
+    "brightness_std_across_frames": 58.057007139917154,
+    "mean_saturation_0_255": 133.5389822048611,
+    "mean_dominant_hue_degrees": 136.56728032619927,
+    "mean_edge_fraction": 0.073642578125,
+    "mean_interframe_mean_rgb_distance": 123.49074688706686,
+    "caveat": "Computed from evenly sampled contact frames; descriptive of supplied source palette/cut variation, not a semantic interpretation by itself."
+  },
+  {
+    "source_id": "M08",
+    "work": "SUGAR FLAVOR 3DMV",
+    "sampled_frame_count": 16,
+    "mean_brightness_0_255": 77.53065972222223,
+    "brightness_std_across_frames": 31.110023122095747,
+    "mean_saturation_0_255": 122.01792100694445,
+    "mean_dominant_hue_degrees": 134.1804588935467,
+    "mean_edge_fraction": 0.07183159722222222,
+    "mean_interframe_mean_rgb_distance": 39.873610422415574,
+    "caveat": "Computed from evenly sampled contact frames; descriptive of supplied source palette/cut variation, not a semantic interpretation by itself."
+  },
+  {
+    "source_id": "M09",
+    "work": "見て official",
+    "sampled_frame_count": 16,
+    "mean_brightness_0_255": 130.22707356770835,
+    "brightness_std_across_frames": 63.73354548608408,
+    "mean_saturation_0_255": 57.29092990451389,
+    "mean_dominant_hue_degrees": 106.73833916413793,
+    "mean_edge_fraction": 0.046613498263888886,
+    "mean_interframe_mean_rgb_distance": 139.97931226458647,
+    "caveat": "Computed from evenly sampled contact frames; descriptive of supplied source palette/cut variation, not a semantic interpretation by itself."
+  },
+  {
+    "source_id": "M10",
+    "work": "見て 3DMV",
+    "sampled_frame_count": 16,
+    "mean_brightness_0_255": 113.77093315972222,
+    "brightness_std_across_frames": 40.967242069405316,
+    "mean_saturation_0_255": 121.67884440104166,
+    "mean_dominant_hue_degrees": 134.37620567045994,
+    "mean_edge_fraction": 0.07186957465277777,
+    "mean_interframe_mean_rgb_distance": 68.91683011111174,
+    "caveat": "Computed from evenly sampled contact frames; descriptive of supplied source palette/cut variation, not a semantic interpretation by itself."
+  },
+  {
+    "source_id": "M11",
+    "work": "ガラクタロード 3DMV",
+    "sampled_frame_count": 16,
+    "mean_brightness_0_255": 141.36575303819444,
+    "brightness_std_across_frames": 49.281135804988494,
+    "mean_saturation_0_255": 138.49797526041667,
+    "mean_dominant_hue_degrees": 110.98973479518206,
+    "mean_edge_fraction": 0.09499131944444444,
+    "mean_interframe_mean_rgb_distance": 82.99861045403365,
+    "caveat": "Computed from evenly sampled contact frames; descriptive of supplied source palette/cut variation, not a semantic interpretation by itself."
+  }
+]

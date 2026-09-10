@@ -32,6 +32,7 @@ from character_index_core import (
     validate_schema_document,
 )
 from generate_character_index import render as render_character_index
+from audit_timing import AuditTimer, report_path, write_report
 
 
 WINDOWS_RESERVED = {
@@ -283,11 +284,22 @@ def validate_audit_workflow(
         'audit_args+=(--routing-preflight "${AUDIT_BRANCH}")',
         'steps.validate.outputs.integration_state',
         'mkdir -p "${MANGA_ANIME_TEST_TMP}"',
-        "python -m unittest discover",
+        'python tools/audit_execution.py --snapshot commit --commit "${AUDIT_COMMIT}" --base "${AUDIT_BASE}" --profile "${REGRESSION_PROFILE}" --report-json "${RUNNER_TEMP}/test-timings.json"',
+        '--timings-json "${RUNNER_TEMP}/audit-timings.json"',
     )
     for fragment in required_fragments:
         if fragment not in text:
             errors.append(f"repository-audit workflow missing required contract: {fragment}")
+
+    try:
+        from audit_execution import CATALOG, load_policy
+
+        load_policy(snapshot)
+        catalog = snapshot.get(CATALOG)
+        if catalog is None or not catalog.qualifies_as_evidence:
+            errors.append("repository audit requires a tracked regular test catalog")
+    except (DomainError, TypeError, ValueError) as exc:
+        errors.append(f"invalid full-coverage test execution policy: {exc}")
 
 
     # Only the isolated reporter receives write permission. It has no checkout
@@ -1073,8 +1085,21 @@ def validate_generated_index(snapshot: GitSnapshot, snapshot_kind: str) -> list[
 
 
 def validate_generated_repository_indexes(
-    root: Path, snapshot_kind: str, commit: str | None
+    root: Path, snapshot_kind: str, commit: str | None, *, snapshot: GitSnapshot | None = None
 ) -> list[str]:
+    if snapshot is not None:
+        from update_repository_indexes import expected_outputs
+
+        try:
+            stale = [
+                path for path, expected in expected_outputs(snapshot).items()
+                if snapshot.get(path) is None
+                or snapshot.entries[path].mode != "100644"
+                or snapshot.entries[path].data != expected
+            ]
+            return [f"generated repository indexes are out of date: {stale}"] if stale else []
+        except (DomainError, OSError, ValueError) as exc:
+            return [str(exc)]
     command = [
         sys.executable,
         str(root / "tools" / "update_repository_indexes.py"),
@@ -3325,6 +3350,7 @@ def main() -> int:
     parser.add_argument("--manifest", type=Path)
     parser.add_argument("--routing-preflight", metavar="ANALYTICAL_BRANCH")
     parser.add_argument("--result-json", type=Path)
+    parser.add_argument("--timings-json", type=Path)
     parser.add_argument(
         "--defer-schema-engine",
         action="store_true",
@@ -3334,8 +3360,13 @@ def main() -> int:
     args = parser.parse_args()
     root = args.repo.resolve() if args.repo else Path(__file__).resolve().parents[1]
     kind = args.snapshot or ("commit" if args.phase == "g3" else "worktree")
+    timer = AuditTimer()
+    outcome = "failure"
+    commit = args.commit
+    timing_output = None
     try:
-        commit = args.commit
+        if args.timings_json:
+            timing_output = report_path(root, args.timings_json)
         if args.phase == "g3":
             commit = require_g3_selection(root, kind, commit, args.manifest is not None)
         elif kind == "commit" and commit is None:
@@ -3344,7 +3375,7 @@ def main() -> int:
             args.phase != "current" or kind not in {"index", "commit"} or args.defer_schema_engine
         ):
             raise DomainError("routing preflight requires a current Git index or exact commit with full schema validation")
-        snapshot, paths = choose_snapshot(root, kind, commit)
+        snapshot, paths = timer.call("snapshot", choose_snapshot, root, kind, commit)
         deferred_routing: list[str] = []
         policy = _policy_from_snapshot(snapshot)
         errors: list[str] = []
@@ -3354,33 +3385,33 @@ def main() -> int:
         elif args.phase == "g3":
             expected = read_manifest_from_snapshot(snapshot, G3_MANIFEST)
             errors.extend(validate_exact_set(paths, expected, args.phase))
-        errors.extend(validate_paths(snapshot, policy))
-        errors.extend(validate_bytes(snapshot, policy, args.phase))
+        errors.extend(timer.call("paths", validate_paths, snapshot, policy))
+        errors.extend(timer.call("bytes", validate_bytes, snapshot, policy, args.phase))
         revision = identity_revision_for_snapshot(kind, commit)
-        errors.extend(validate_commit_identities(root, policy, revision))
+        errors.extend(timer.call("identities", validate_commit_identities, root, policy, revision))
         if args.routing_preflight:
             from analytical_preflight import routing_preflight
 
-            snapshot, deferred_routing = routing_preflight(snapshot, args.routing_preflight)
+            snapshot, deferred_routing = timer.call("routing_preflight", routing_preflight, snapshot, args.routing_preflight)
         if args.phase == "g3":
-            errors.extend(validate_protected(snapshot))
+            errors.extend(timer.call("protected", validate_protected, snapshot))
         else:
-            errors.extend(validate_protected(snapshot))
-            errors.extend(validate_markdown_links(snapshot))
-            errors.extend(validate_audit_workflow(snapshot, policy))
-            errors.extend(validate_global_index_automation(snapshot, policy))
-            errors.extend(validate_nightly_integration(snapshot))
-            errors.extend(validate_named_whitespace_exceptions(snapshot, policy))
+            errors.extend(timer.call("protected", validate_protected, snapshot))
+            errors.extend(timer.call("links", validate_markdown_links, snapshot))
+            errors.extend(timer.call("audit_workflow", validate_audit_workflow, snapshot, policy))
+            errors.extend(timer.call("housekeeping", validate_global_index_automation, snapshot, policy))
+            errors.extend(timer.call("nightly_contract", validate_nightly_integration, snapshot))
+            errors.extend(timer.call("whitespace_exceptions", validate_named_whitespace_exceptions, snapshot, policy))
             baseline_commit = active_migration_baseline_commit(snapshot)
-            errors.extend(validate_active_authority_scope(snapshot, baseline_commit))
+            errors.extend(timer.call("authority_scope", validate_active_authority_scope, snapshot, baseline_commit))
             errors.extend(
-                validate_crosswalk_closure(snapshot, baseline_commit=baseline_commit)
+                timer.call("crosswalk", validate_crosswalk_closure, snapshot, baseline_commit=baseline_commit)
             )
-            errors.extend(validate_native_sheets(snapshot, not args.defer_schema_engine))
-            errors.extend(validate_series_registry(snapshot))
-            errors.extend(validate_study_registry(snapshot))
-            errors.extend(validate_registered_root_topology(snapshot))
-            errors.extend(validate_change_obligations(snapshot))
+            errors.extend(timer.call("native_sheets", validate_native_sheets, snapshot, not args.defer_schema_engine))
+            errors.extend(timer.call("series_registry", validate_series_registry, snapshot))
+            errors.extend(timer.call("study_registry", validate_study_registry, snapshot))
+            errors.extend(timer.call("root_topology", validate_registered_root_topology, snapshot))
+            errors.extend(timer.call("obligations", validate_change_obligations, snapshot))
             project_gate_control, project_gate_control_errors = (
                 _load_project_initiation_gate(snapshot)
             )
@@ -3388,7 +3419,7 @@ def main() -> int:
             if project_gate_control is not None:
                 try:
                     errors.extend(
-                        validate_project_initiation_gate(
+                        timer.call("project_initiation", validate_project_initiation_gate,
                             snapshot,
                             project_initiation_baseline_paths(
                                 root, project_gate_control
@@ -3398,16 +3429,17 @@ def main() -> int:
                     )
                 except DomainError as exc:
                     errors.append(str(exc))
-            errors.extend(validate_current_domain(root, snapshot, not args.defer_schema_engine))
+            errors.extend(timer.call("character_domain", validate_current_domain, root, snapshot, not args.defer_schema_engine))
             if not args.defer_schema_engine:
                 generator_snapshot = "commit" if kind == "commit" else kind
-                errors.extend(validate_generated_index(snapshot, generator_snapshot))
+                errors.extend(timer.call("character_render", validate_generated_index, snapshot, generator_snapshot))
                 if not deferred_routing:
                     errors.extend(
-                        validate_generated_repository_indexes(
+                        timer.call("catalog_render", validate_generated_repository_indexes,
                             root,
                             generator_snapshot,
                             commit if kind == "commit" else None,
+                            snapshot=snapshot,
                         )
                     )
         if errors:
@@ -3423,6 +3455,7 @@ def main() -> int:
                 }) + "\n",
                 encoding="utf-8",
             )
+        outcome = "pending" if deferred_routing else "success"
         if deferred_routing:
             print(
                 f"AWAITING_SYNCHRONIZATION: source={snapshot.identity} paths={deferred_routing}; "
@@ -3442,6 +3475,12 @@ def main() -> int:
     except (DomainError, OSError, ValueError) as exc:
         print(f"FAIL: {exc}")
         return 1
+    finally:
+        if timing_output:
+            write_report(root, timing_output, {
+                "schema": "repository-audit-timing/v1", "audited_commit": commit,
+                "snapshot": kind, "outcome": outcome, **timer.report(),
+            })
 
 
 if __name__ == "__main__":

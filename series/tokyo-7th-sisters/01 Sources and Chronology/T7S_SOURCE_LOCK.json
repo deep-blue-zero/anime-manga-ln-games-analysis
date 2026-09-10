@@ -1,0 +1,253 @@
+{
+  "schema": "t7s-analysis/source-lock/v1",
+  "artifact_id": "T7S_SOURCE_LOCK",
+  "artifact_type": "source_lock",
+  "version": "1.0",
+  "generation": "V1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "corpus_alias": "c20260909-r484",
+  "alias_mutability": "IMMUTABLE; add a new alias and crosswalk on any source/schema change",
+  "witness_id": "T7S_GAME_OFFLINE_JA_R484",
+  "source_class": "GAME_STORY",
+  "additional_source_layers": [
+    "GAME_SUPPLEMENTAL",
+    "GAME_PRESENTATION",
+    "LYRICS_GAME_MASTER"
+  ],
+  "continuity": "GAME; per-story diegetic mode and cross-witness identity require evidence",
+  "language": "ja",
+  "edition": {
+    "client": "preserved final offline Android client",
+    "package": "jp.ne.donuts.t7s",
+    "master_revision": 484,
+    "resource_revision": 100005,
+    "build_version": "Bound by external preservation manifest; no unverified version string supplied"
+  },
+  "scope_admission": "Preserved witness available for bounded retrieval; analytical source consumption remains zero",
+  "analysis_horizon": {
+    "closed_blocks": [],
+    "consumed_sources": [],
+    "candidate_first_episode_id": "201000001"
+  },
+  "collection_manifest": {
+    "sha256": "f8127e578c3e350fca526b3f60315cedce2ef5de82d456d92962ca19364877b1",
+    "bytes": 1096631
+  },
+  "database": {
+    "sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+    "bytes": 5864910848,
+    "schema": "t7s-query-index/1",
+    "normalized_schema": "t7s-normalized-scenario/1",
+    "verification": "FULL_FILE_SHA256_MATCH_AT_BOOTSTRAP"
+  },
+  "episode_catalog": {
+    "artifact_id": "corpus:catalog/episodes.jsonl",
+    "scope": "corpus",
+    "role": "catalog_authority",
+    "size": 7810590,
+    "sha256": "cda29102ec76a4242bcbb194a37a12453510e7ca6ccffe5478e4f1358b18e625"
+  },
+  "source_artifact_manifest": {
+    "artifact": "source_artifacts.json",
+    "sha256": "7c0ac41509af9520a98129d924e42654a515ba3818683bd679f72342b3a191e5",
+    "bytes": 569048
+  },
+  "source_artifact_manifest_recipe": {
+    "query": "SELECT * FROM source_artifacts ORDER BY artifact_id COLLATE BINARY",
+    "serialization": "array of objects in SQLite column order; Python json.dumps(ensure_ascii=False, indent=2), final LF, UTF-8 without BOM",
+    "scope_resolution": "archive, corpus, media roots configured outside Git; reject path escape"
+  },
+  "masters": [
+    {
+      "table": "m_scenario",
+      "sha256": "0409286e46697e8bfe474ec607b01c7065107ae1f0e4e161c4b316a49b129c65",
+      "bytes": 531744,
+      "rows": 1350
+    },
+    {
+      "table": "m_scenario_layer",
+      "sha256": "5fac27e3e6bea2381b29eaf95a72e5c5f1c78af502554b1b0cb62106dcefafdc",
+      "bytes": 169172,
+      "rows": 462
+    },
+    {
+      "table": "m_character",
+      "sha256": "dbda7389df987ffe150500efa0d33c6af59c734cdcd835c2ccf83c561e19f5cd",
+      "bytes": 53055,
+      "rows": 74
+    },
+    {
+      "table": "m_live_music",
+      "sha256": "c2bc4a78f7f466e05d322839106cf2ad11c59b4eac2fe038619f13a17e5c684d",
+      "bytes": 82388,
+      "rows": 229
+    },
+    {
+      "table": "m_live_music_meta",
+      "sha256": "0960e010321f8ec6486f4a1d7cab10daa43de64160f1fc3108b398b5f69e2606",
+      "bytes": 411962,
+      "rows": 217
+    }
+  ],
+  "supplemental_tranches": [
+    {
+      "namespace": "card_message",
+      "count": 25711,
+      "membership_sha256": "453e0d1ff03b844eca5bc14d33971cf2f13b2d8a7a568cd12225fb374f92af82",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "card_message"
+      }
+    },
+    {
+      "namespace": "character_voice",
+      "count": 5072,
+      "membership_sha256": "3325a8aae6e87f324a58c519c97e6178c44a5520e318d6bae1458cd8056f30ae",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "character_voice"
+      }
+    },
+    {
+      "namespace": "eplive_navigation",
+      "count": 7,
+      "membership_sha256": "46bad0dab6001391c29b4392594f2fa8057ac0716973c132fc835197e97a0dac",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "eplive_navigation"
+      }
+    },
+    {
+      "namespace": "solo_stage_message",
+      "count": 196,
+      "membership_sha256": "654fa6ec270c3baf262e6beb23c72f43762c751bad5de9217226aad8a63de0a3",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "solo_stage_message"
+      }
+    },
+    {
+      "namespace": "tutorial_ui_message",
+      "count": 5,
+      "membership_sha256": "d78d0fa1753c75bed104422cff5246cb9d97fb66c94459b675bf85dd2eaeaa15",
+      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
+      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
+      "parameters": {
+        "namespace": "tutorial_ui_message"
+      }
+    }
+  ],
+  "counts": {
+    "catalog_episodes": 1350,
+    "Main": 364,
+    "Sub": 755,
+    "Event": 231,
+    "scenario_resources": 1578,
+    "additional_scripts": 228,
+    "text_records": 94457,
+    "catalog_text_records": 91523,
+    "pages": 110527,
+    "supplemental_records": 30991,
+    "media_assets": 95395,
+    "wav": 69520,
+    "images": 25688,
+    "movies": 187,
+    "native_wave_identities": 69647,
+    "logical_movie_resources": 189,
+    "media_relation_rows": 699298
+  },
+  "collection_seal_scope": {
+    "output_files": 112440,
+    "output_bytes": 82983925341,
+    "output_scopes": 6,
+    "evidence_artifacts": 2023,
+    "meaning": "canonical collection output counts, not raw acquisition counts"
+  },
+  "capabilities": {
+    "native_text": "Native Japanese wording, presence flags and page/command context; no automatic resolved identity",
+    "media": "Canonical decoded assets and native candidate/occurrence links; no universal timing or playback proof",
+    "lyrics": "215 nonempty of 217 m_live_music_meta records; game-master wording, not full-recording alignment",
+    "runtime_validation": "Historical four-script sample: 49 unique observed pages, 47 dialogue and 2 title; not complete playback"
+  },
+  "integrity": {
+    "checked_at": "2026-09-10T00:08:35.699517+00:00",
+    "bootstrap_record": "09 Audits and Manifests/T7S_BOOTSTRAP_AND_GATE_RECORD.md",
+    "database_hash": "Fully rehashed at bootstrap",
+    "collection_payloads": "No new full 83 GB collection rehash; retain original collection seal and recheck cited objects at use",
+    "locator_probes": {
+      "passed": 25,
+      "total": 25,
+      "receipt_sha256": "7717b914bb7ec25b901f45a6ffcebe26188bd9167cadd052444e810bec3d8feb",
+      "original_probe_tool_sha256": "b6da16c0e8a9da14594cc22604db88c628f7652bd276df952ba913b09233920b"
+    },
+    "first_block_query": {
+      "episode_id": "201000001",
+      "script_id": "scout_000_00_01.json__8df3fd723276f650",
+      "pages_verified": 195,
+      "text_pointers_verified": 190,
+      "packet_source_sha256": "a4d9b47d19b16a3829695a8c2da3b594ec13dcd303d7a9c4fd6917100e163939"
+    },
+    "bounded_packet_receipt": {
+      "artifact": "packets/B0001/receipt.json",
+      "sha256": "52d7a351f590e6b1ca7b2259c2dd3ce51f86beda882b12ced64419d1542ecbec",
+      "bytes": 1126
+    },
+    "selected_media_recovery": [
+      {
+        "kind": "audio",
+        "asset_id": "wav:6520d70a302f4f72da934bcd51dccb5d361ee980ca136e0d04d547dd9ff3f248",
+        "sha256": "6520d70a302f4f72da934bcd51dccb5d361ee980ca136e0d04d547dd9ff3f248",
+        "origin_artifact": "media:audio_relations.jsonl",
+        "source_row_index": 0,
+        "document_ref": "primary",
+        "resolution_status": "decoded",
+        "review": "BYTE_AND_RELATION_RECOVERY_ONLY; NOT_LISTENED_OR_VIEWED"
+      },
+      {
+        "kind": "video",
+        "asset_id": "movie:38beabd1e25a6d24ebee9f937b8d4ad024667cc6f539c6a4ed447e7a501fb590",
+        "sha256": "38beabd1e25a6d24ebee9f937b8d4ad024667cc6f539c6a4ed447e7a501fb590",
+        "origin_artifact": "media:video_relations.jsonl",
+        "source_row_index": 0,
+        "document_ref": "primary",
+        "resolution_status": "copied_and_probed",
+        "review": "BYTE_AND_RELATION_RECOVERY_ONLY; NOT_LISTENED_OR_VIEWED"
+      }
+    ]
+  },
+  "limits": [
+    "Extraction completeness is not analytical, listening or visual-review completeness",
+    "All Main/Sub/Event consumption and additional/supplemental screening start at zero",
+    "Repeated decoded hashes preserve distinct logical occurrence identities",
+    "Unresolved/compound speakers and unbound media documents remain unresolved",
+    "No full franchise, anime, live, studio-recording or complete lyric-edition admission is implied"
+  ],
+  "future_witness_admission_fields": [
+    "witness_id",
+    "source_class",
+    "continuity_or_UNKNOWN",
+    "edition_build",
+    "acquisition_and_verification_refs",
+    "immutable_source_hashes",
+    "capabilities",
+    "limitations",
+    "admission_scope",
+    "analysis_horizon"
+  ],
+  "future_witness_classes": [
+    "ANIME_ADAPTATION",
+    "SONG_RECORDING",
+    "MUSIC_VIDEO",
+    "LIVE_PERFORMANCE",
+    "OFFICIAL_PARATEXT",
+    "SECONDARY_REFERENCE"
+  ]
+}

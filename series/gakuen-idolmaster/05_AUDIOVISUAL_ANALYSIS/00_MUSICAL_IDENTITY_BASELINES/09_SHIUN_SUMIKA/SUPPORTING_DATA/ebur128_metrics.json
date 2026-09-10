@@ -1,0 +1,80 @@
+[
+  {
+    "file_name": "4K HDR「Campus mode!!」(紫雲清夏 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "integrated_lufs": -15.1,
+    "loudness_range_lu": 3.4,
+    "true_peak_dbfs": -2.6
+  },
+  {
+    "file_name": "4K HDR「Howling over the World」 (紫雲清夏 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "integrated_lufs": -13.8,
+    "loudness_range_lu": 5.8,
+    "true_peak_dbfs": -0.2
+  },
+  {
+    "file_name": "4K HDR「Love & Joy」 (紫雲清夏 ソロ3 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "integrated_lufs": -13.5,
+    "loudness_range_lu": 5.8,
+    "true_peak_dbfs": 0.0
+  },
+  {
+    "file_name": "4K HDR「Tame-Lie-One-Step」(歌：紫雲清夏)【学マス⧸学園アイドルマスタ⧸Gakumas MV】-(1080p60).mp4",
+    "integrated_lufs": -13.4,
+    "loudness_range_lu": 7.2,
+    "true_peak_dbfs": 0.1
+  },
+  {
+    "file_name": "4K HDR「がむしゃらに行こう！」 (紫雲清夏 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "integrated_lufs": -14.0,
+    "loudness_range_lu": 4.6,
+    "true_peak_dbfs": -0.3
+  },
+  {
+    "file_name": "4K HDR「ときめきエモーション」(葛城リーリヤ・紫雲清夏 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "integrated_lufs": -12.4,
+    "loudness_range_lu": 3.7,
+    "true_peak_dbfs": 0.1
+  },
+  {
+    "file_name": "4K HDR「カクシタワタシ」 (紫雲清夏 ソロ2 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "integrated_lufs": -13.6,
+    "loudness_range_lu": 13.8,
+    "true_peak_dbfs": 0.3
+  },
+  {
+    "file_name": "4K HDR「ミラクルナナウ(ﾟ∀ﾟ)！」 (紫雲清夏 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "integrated_lufs": -13.7,
+    "loudness_range_lu": 4.4,
+    "true_peak_dbfs": -0.4
+  },
+  {
+    "file_name": "カクシタワタシ-(1080p25).mp4",
+    "integrated_lufs": -7.6,
+    "loudness_range_lu": 3.8,
+    "true_peak_dbfs": 0.2
+  },
+  {
+    "file_name": "初星学園 「Kira Kira」Official Music Video (HATSUBOSHI GAKUEN - Kira Kira)-(1080p24).mp4",
+    "integrated_lufs": -9.1,
+    "loudness_range_lu": 6.3,
+    "true_peak_dbfs": 0.2
+  },
+  {
+    "file_name": "初星学園 「Love & Joy」Official Music Video (HATSUBOSHI GAKUEN - Love & Joy)-(1280p24).mp4",
+    "integrated_lufs": -10.4,
+    "loudness_range_lu": 4.0,
+    "true_peak_dbfs": 0.1
+  },
+  {
+    "file_name": "初星学園 「Tame-Lie-One-Step」Official Music Video (HATSUBOSHI GAKUEN - Tame-Lie-One-Step)-(1080p30).mp4",
+    "integrated_lufs": -8.2,
+    "loudness_range_lu": 3.7,
+    "true_peak_dbfs": -0.4
+  },
+  {
+    "file_name": "初星学園 「ときめきエモーション」Official Music Video (HATSUBOSHI GAKUEN -  Tokimeki Emotion)-(1080p24).mp4",
+    "integrated_lufs": -8.1,
+    "loudness_range_lu": 5.6,
+    "true_peak_dbfs": -0.1
+  }
+]

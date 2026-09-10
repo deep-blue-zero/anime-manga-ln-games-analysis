@@ -129,4 +129,12 @@ The complete source manifest records full filenames, exact SHA-256 values, byte 
 
 `GKM_PHASE3_TEMARI_AUDIOVISUAL_SOURCE_MANIFEST.json`
 
+### Recovered data routing — 2026-09-09
+
+The current release's [music signal metrics](GKM_TEMARI_MUSIC_SIGNAL_METRICS.json) and [dialogue scene signal metrics](GKM_TEMARI_DIALOGUE_SCENE_SIGNAL_METRICS.json) support this matrix. Recovery comparison confirms all 15 music rows and 12 selected dialogue rows at the displayed precision; no measurements were regenerated.
+
+The existing [music CSV](GKM_TEMARI_MUSIC_SIGNAL_METRICS.csv) is **historical**, paired with the [preserved predecessor JSON](../../../90%20Legacy%20and%20Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_MUSIC_SIGNAL_METRICS.json). Its 15 rows and 17 shared fields match that earlier dataset. It is not an export of the restored current JSON: the two generations use different summary statistics and time-bin methods. The older selected-scene prosody and target-time estimates remain supplementary and do not replace the current dialogue dataset.
+
+The [predecessor evidence matrix](../../../90%20Legacy%20and%20Superseded/TEMARI_AV_PREDECESSOR_GENERATION_20260815/GKM_TEMARI_AV_EVIDENCE_AND_METRICS_MATRIX.md) is retained separately. See the [recovery manifest](../../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_MANIFEST_20260909.json) for source-package and repository hashes. Existing release checksum manifests describe the original release bytes and package paths.
+
 The analytical release does not redistribute source audio/video.

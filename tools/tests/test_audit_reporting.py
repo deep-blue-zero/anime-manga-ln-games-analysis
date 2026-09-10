@@ -4,6 +4,7 @@ import contextlib
 import io
 import json
 import os
+import shlex
 import shutil
 import subprocess
 import sys
@@ -20,6 +21,18 @@ from validate_repository import validate_audit_workflow
 
 AUDIT = ".github/workflows/repository-audit.yml"
 HOUSEKEEPING = ".github/workflows/global-index-housekeeping.yml"
+
+
+def with_stubs(script: str, directory: Path, names: tuple[str, ...]) -> str:
+    path = directory.as_posix()
+    if os.name == "nt":
+        path = "/" + directory.drive[0].lower() + path[2:]
+    # Git Bash can prepend its own directories to the inherited Windows PATH.
+    # Set the fixture boundary inside the shell and verify it before execution.
+    prefix = "export PATH=" + shlex.quote(path) + ':"$PATH"\nhash -r\n'
+    for name in names:
+        prefix += 'test "$(command -v ' + name + ')" = ' + shlex.quote(path + "/" + name) + " || exit 99\n"
+    return prefix + script
 
 
 def workflow(path: str) -> dict:
@@ -80,6 +93,12 @@ class AuditReportingTests(unittest.TestCase):
 
     def test_reporter_and_validation_permission_boundaries_are_enforced(self) -> None:
         original = (ROOT / AUDIT).read_text(encoding="utf-8")
+        entries = {
+            path: SnapshotEntry(path, "100644", (ROOT / path).read_bytes())
+            for path in (AUDIT, "governance/repository-controls/test-execution-policy.json", "tools/tests/test-catalog.json")
+        }
+        policy = {"allowed_workflows": [AUDIT, HOUSEKEEPING, ".github/workflows/nightly-integration.yml"]}
+        self.assertEqual(validate_audit_workflow(GitSnapshot(ROOT, "TEST", entries), policy), [])
         variants = (
             original.replace("permissions:\n  contents: read", "permissions:\n  contents: read\n  statuses: write", 1),
             original.replace("      statuses: write", "      statuses: write\n      contents: write", 1),
@@ -90,8 +109,8 @@ class AuditReportingTests(unittest.TestCase):
         )
         for changed in variants:
             with self.subTest(changed=changed[-100:]):
-                snap = GitSnapshot(ROOT, "TEST", {AUDIT: SnapshotEntry(AUDIT, "100644", changed.encode())})
-                failures = validate_audit_workflow(snap, {"allowed_workflows": [AUDIT, HOUSEKEEPING]})
+                snap = GitSnapshot(ROOT, "TEST", {**entries, AUDIT: SnapshotEntry(AUDIT, "100644", changed.encode())})
+                failures = validate_audit_workflow(snap, policy)
                 self.assertTrue(failures)
 
     def test_all_workflow_shell_steps_parse(self) -> None:
@@ -107,6 +126,32 @@ class AuditReportingTests(unittest.TestCase):
                                 text=True, capture_output=True, check=False,
                             )
                             self.assertEqual(result.returncode, 0, result.stderr)
+
+    def test_execution_summary_preserves_large_reports_in_bounded_log_lines(self) -> None:
+        script = workflow(AUDIT)["jobs"]["audit"]["steps"][-1]["run"]
+        program = script.split("python - <<'PY'\n", 1)[1].rsplit("\nPY", 1)[0]
+        report = {
+            "outcome": "success", "seconds": 1.5, "tests_run": 300, "skipped": 0,
+            "shadow_plan": {
+                "proposed_profile": "full", "excluded_ids": [],
+                "selected_ids": [f"test_{i}_" + "fixture" * 40 for i in range(300)],
+            },
+        }
+        self.assertGreater(len(json.dumps(report)), 65536)
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            summary = root / "summary.md"
+            (root / "test-timings.json").write_text(json.dumps(report), encoding="utf-8")
+            output = io.StringIO()
+            with mock.patch.dict(os.environ, {"RUNNER_TEMP": str(root), "GITHUB_STEP_SUMMARY": str(summary)}, clear=True), contextlib.redirect_stdout(output):
+                exec(compile(program, "execution-summary", "exec"), {})
+            emitted = output.getvalue()
+            payload = emitted.split("AUDIT_EXECUTION_REPORT_BEGIN: test-timings.json\n", 1)[1].split("\nAUDIT_EXECUTION_REPORT_END:", 1)[0]
+            self.assertEqual(json.loads(payload), report)
+            self.assertLess(max(map(len, emitted.splitlines())), 1024)
+            self.assertIn("Tests executed: 300; skipped: 0", summary.read_text())
+            self.assertIn("Actual execution remained full", summary.read_text())
+            self.assertIn("Archive validation: no completed report", summary.read_text())
 
     def test_unchanged_housekeeping_dispatches_only_after_current_head_checks(self) -> None:
         if not shutil.which("bash"):
@@ -139,9 +184,18 @@ class AuditReportingTests(unittest.TestCase):
                             "    print('b' * 40)\n"
                         ),
                         "python": (
-                            "import os, sys\n"
+                            "import subprocess, sys\n"
+                            "from pathlib import Path\n"
                             "if not sys.argv[1].startswith('tools/'):\n"
-                            "    os.execv(sys.executable, [sys.executable, *sys.argv[1:]])\n"
+                            "    assert sys.argv[1] == '-'\n"
+                            "    original = subprocess.check_output\n"
+                            "    git_stub = str(Path(__file__).with_name('git.py'))\n"
+                            "    def check_output(args, **kwargs):\n"
+                            "        assert args[0] == 'git', args\n"
+                            "        return original([sys.executable, git_stub, *args[1:]], **kwargs)\n"
+                            "    subprocess.check_output = check_output\n"
+                            "    sys.argv = sys.argv[1:]\n"
+                            "    exec(compile(sys.stdin.read(), '<workflow-stdin>', 'exec'), {'__name__': '__main__'})\n"
                         ),
                         "curl": (
                             "import os\n"
@@ -151,7 +205,13 @@ class AuditReportingTests(unittest.TestCase):
                     }
                     for name, program in programs.items():
                         target = binaries / name
-                        target.write_text("#!" + sys.executable + "\n" + program)
+                        program_path = binaries / (name + ".py")
+                        program_path.write_text(program, encoding="utf-8", newline="\n")
+                        target.write_text(
+                            "#!/bin/sh\nexec " + shlex.quote(Path(sys.executable).as_posix())
+                            + " " + shlex.quote(program_path.as_posix()) + ' "$@"\n',
+                            encoding="utf-8", newline="\n",
+                        )
                         target.chmod(0o700)
                     calls = root / "git-calls"
                     marker = root / "dispatched"
@@ -164,7 +224,7 @@ class AuditReportingTests(unittest.TestCase):
                         TEST_GIT_CALLS=str(calls), TEST_DISPATCHED=str(marker),
                     )
                     result = subprocess.run(
-                        ["bash", "-e", "-o", "pipefail"], input=step["run"], cwd=root,
+                        ["bash", "-e", "-o", "pipefail"], input=with_stubs(step["run"], binaries, ("git", "python", "curl")), cwd=root,
                         env=environment, text=True, capture_output=True, check=False,
                     )
                     self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
@@ -196,6 +256,7 @@ class AuditReportingTests(unittest.TestCase):
                 "#!/bin/sh\n"
                 'if [ "$1" = "rev-parse" ]; then printf "%s\\n" "' + "b" * 40 + '"; fi\n',
                 encoding="utf-8",
+                newline="\n",
             )
             stub.chmod(0o700)
             output = root / "outputs"
@@ -204,7 +265,7 @@ class AuditReportingTests(unittest.TestCase):
                                GITHUB_REPOSITORY="deep-blue-zero/anime-manga-ln-games-analysis",
                                GITHUB_OUTPUT=str(output))
             result = subprocess.run(
-                ["bash", "-e", "-o", "pipefail"], input=acquire["run"], cwd=root,
+                ["bash", "-e", "-o", "pipefail"], input=with_stubs(acquire["run"], root, ("git",)), cwd=root,
                 env=environment, text=True, capture_output=True, check=False,
             )
             self.assertEqual(result.returncode, 0, result.stdout + result.stderr)

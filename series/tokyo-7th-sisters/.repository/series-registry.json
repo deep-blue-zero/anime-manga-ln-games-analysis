@@ -1,0 +1,16 @@
+{
+  "series_id": "tokyo-7th-sisters",
+  "stable_slug": "tokyo-7th-sisters",
+  "canonical_title": "Tokyo 7th Sisters",
+  "media": [
+    "MOBILE_GAME"
+  ],
+  "repository_path": "series/tokyo-7th-sisters/",
+  "canonical_entrypoint": "series/tokyo-7th-sisters/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260909",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Game-first analytical architecture initialized from approved design 1.1; exact inventory and zero-consumption ledgers. Native source corpus and media remain external; no sequential findings yet."
+}
