@@ -4,7 +4,7 @@ artifact_type: synthesis_architecture
 scope: FULL_SERIES_V01-V42
 generation: V2
 status: canonical
-source_boundary: Japanese main manga Volumes 1-42 complete; reconstruction, aggregate validation, specialist and full-series synthesis complete; supplements excluded
+source_boundary: Japanese main manga Volumes 1-42 complete; reconstruction, aggregate validation, comparative specialists, eight individual literary studies and full-series synthesis; supplements excluded
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -95,7 +95,7 @@ V2 Analysis/
 │   └── 30 canonical character reconstruction dossiers
 │
 ├── 05 Specialist Synthesis/
-│   └── MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md and eight canonical specialist syntheses
+│   └── MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md, eight comparative specialists and eight individual literary studies
 │
 ├── 06 Full-Series Synthesis/
 │   └── MHA_SP2_FULL_SERIES_SYNTHESIS.md and three distinct supporting adjudications
@@ -380,6 +380,9 @@ Given the accumulated evidence, what behavior/speech can be reconstructed, with 
 ### Specialist syntheses answer
 What is the strongest mature interpretation of a subject across the complete corpus?
 
+### Individual literary studies answer
+How does one person's whole trajectory develop its governing literary question across changing relationships, social roles, embodiment, narrative disclosure and ordinary ends? These studies synthesize evidence across comparative responsibilities without becoming operational reconstruction models or changing the fourteen-ledger partition.
+
 These responsibilities should not be collapsed into near-duplicate documents.
 
 ## 12. Governing rule for simulation
@@ -417,3 +420,29 @@ The authorized V01–V42 main-manga analytical program is complete. V41/V42 read
 - [Publication/source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) — source hashes, mapping, inspected ranges, correction propagation and frozen publication equivalence.
 
 Supplemental inventory remains provisional and excluded. Unshown futures, exact medical endpoints, vestige metaphysics, complete equipment limits and reform durability are residuals defined in the full-series corpus, not missing main-volume readings. Future reconstruction must retain dated state, relationships, knowledge and uncertainty rather than import final outcomes into an earlier freeze.
+
+
+## 15. Post-completion maturation and literary-character ownership
+
+The completed V01–V42 baseline remains complete. The subsequent maturity review identified underdeveloped longitudinal arguments and eight distinct individual literary questions; the user authorized their implementation. This is maturation inside the existing V2 generation, not a new sequential reread or supplemental expansion. **MATURATION_STATE = COMPLETE** for the local analytical work. The implementation record verifies the finished arguments, routes, evidence and preservation requirements, while recording publication separately.
+
+The eight comparative specialists retain their identities and the primary fourteen-ledger partition in the specialist index. Seven received substantive expansion; S8's fifteen claim adjudications and existing V1 qualifications are preserved. The following individual homes belong beside them in `05 Specialist Synthesis/`. They reuse the readings and ledgers but own complete character interpretations, not another set of comparative specialists or reconstruction dossiers.
+
+| Literary home / current artifact | Primary governing question | Comparative owners and full-series dependency |
+|---|---|---|
+| L1 — [MHA_SP2_MIDORIYA_IZUKU_CHARACTER_MONOGRAPH.md](../05%20Specialist%20Synthesis/MHA_SP2_MIDORIYA_IZUKU_CHARACTER_MONOGRAPH.md) | How can a person formed through rescue and entrusted power author his methods and ends while including himself among those who may receive care? | S1/S2/S3 retain comparative development, rescue and inheritance; F1/F2/F3 consume the individual argument. |
+| L2 — [MHA_SP2_BAKUGO_KATSUKI_CHARACTER_MONOGRAPH.md](../05%20Specialist%20Synthesis/MHA_SP2_BAKUGO_KATSUKI_CHARACTER_MONOGRAPH.md) | How do admiration and proof of worth develop from domination into accountable cooperation and enabling care without erasing earlier harm or persistent voice? | S1 retains directed rivalry; F1/F3 consume the trajectory across peers, mentors, public performance and injury. |
+| L3 — [MHA_SP2_SHIGARAKI_TOMURA_CHARACTER_MONOGRAPH.md](../05%20Specialist%20Synthesis/MHA_SP2_SHIGARAKI_TOMURA_CHARACTER_MONOGRAPH.md) | How does the work construct destructive leadership and situated agency while progressively revealing engineered history, possession and contested identity? | S3/S5 retain power and comparative formation; F2/F4 consume the distinction between explanation, chosen harm and limited terminal recognition. |
+| L4 — [MHA_SP2_ALL_MIGHT_CHARACTER_MONOGRAPH.md](../05%20Specialist%20Synthesis/MHA_SP2_ALL_MIGHT_CHARACTER_MONOGRAPH.md) | How does a real public ideal become a teachable, dependent person and continuing mentor without becoming either an obsolete function or an innocent abstraction? | S3/S4 retain inheritance and institutions; F2/F3 consume the changing relation among purpose, pedagogy, risk and ordinary presence. |
+| L5 — [MHA_SP2_ENDEAVOR_CHARACTER_MONOGRAPH.md](../05%20Specialist%20Synthesis/MHA_SP2_ENDEAVOR_CHARACTER_MONOGRAPH.md) | How do expertise, public legitimacy, parental ownership, guilt and responsive responsibility change at different rates? | S4/S6 retain institutional and family comparison; F2/F3 consume the refusal of moral offsetting between roles. |
+| L6 — [MHA_SP2_TODOROKI_SHOTO_CHARACTER_MONOGRAPH.md](../05%20Specialist%20Synthesis/MHA_SP2_TODOROKI_SHOTO_CHARACTER_MONOGRAPH.md) | How does negative self-definition become selective inheritance, social learning and positive ordinary ends without requiring filial absolution? | S1/S3/S6 retain comparative implications; F2/F3 consume the trajectory beyond the father's project. |
+| L7 — [MHA_SP2_URARAKA_OCHAKO_CHARACTER_MONOGRAPH.md](../05%20Specialist%20Synthesis/MHA_SP2_URARAKA_OCHAKO_CHARACTER_MONOGRAPH.md) | How do material care, independent ambition, attention to rescuers, desire and survivor responsibility become a chosen life? | S1/S2/S6 retain comparative care; F2/F3 consume independent history beyond either romantic support or a terminal pair. |
+| L8 — [MHA_SP2_HIMIKO_TOGA_CHARACTER_MONOGRAPH.md](../05%20Specialist%20Synthesis/MHA_SP2_HIMIKO_TOGA_CHARACTER_MONOGRAPH.md) | How do imposed normality, authored desire, violence and particular belonging change across several interlocutors into a chosen gift without general absolution? | S5 retains comparative formation and F2 intervention/gift adjudication; F2/F4 consume the whole trajectory and its final limits. |
+
+An individual home must develop its governing question across early, middle and late evidence, distinguish narrated history from the order of disclosure, and adjudicate a serious rival reading. Its scope is not earned by a file count, readiness tier or protagonist status. If a full argument can be owned by a navigable existing primary section without displacing that owner's comparative purpose, the separate file becomes redundant and should not be expanded merely to defend its existence.
+
+Toya's failed capture, family-produced worth and staged revenge remain in S5/S6; AFO's pedagogy, selective strategic understanding and ownership claims remain in S3/S5/F2. These are nonduplication decisions, not claims of thin characterization. No parallel Todoroki-family, rival-dyad, ensemble, adversarial or residual file is established. S7 retains a joint language/form responsibility because speaker, visual mediation and sequence jointly change the same arguments. F2/F3/F4 retain counterreadings and R01–R13.
+
+Literary interpretation is not a behavioral freeze. The four targeted model changes add discriminative support for Midoriya, Bakugo, All Might and Aizawa without rewriting existing atoms, formal probes, frozen inputs, contamination notices or readiness. The other twenty-six dossiers and S8 remain unchanged. A useful new example need not become a new probe: V19 All Might applies learner-led teaching already explicit in V12, and Bakugo has earlier noncombat cooperation. No validation quota follows from greater literary depth.
+
+The [maturation implementation record](../08%20Audits%20and%20Manifests/MHA_SP2_MATURATION_IMPLEMENTATION_RECORD.md) owns completion evidence for this bounded change. The specialist index routes completed individual homes; the corpus map distinguishes the completed baseline from this additional implementation. Evidence status, primary locators, source exclusions and the literary/reconstruction separation remain governed by the existing method and schema.

@@ -10,7 +10,7 @@ created: "2026-08-14"
 status: historical_legacy
 historical_release_status: "canonical specialist AV artifact"
 do_not_use_as_current_authority: true
-superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/01_VOICE_ACTING_AND_DIALOGUE_CLOSE_READINGS/02_TSUKIMURA_TEMARI/GKM_TEMARI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md"
+superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_DIALOGUE_VOICE_ACTING_CLOSE_READING.md"
 ---
 
 # TSUKIMURA TEMARI — DIALOGUE AND VOICE-ACTING CLOSE READING
