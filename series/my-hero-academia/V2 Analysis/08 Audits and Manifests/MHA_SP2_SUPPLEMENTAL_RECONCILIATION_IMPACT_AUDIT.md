@@ -15,7 +15,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 ## Actual execution state
 
-**IN PROGRESS — UA and UAN have completed original-page accounting and admitted source checkpoints; UAG review, character integration and final analytical closeout remain pending.** The completed manga-only corpus remains authoritative within its preserved boundary. This mutable audit will record verified transitions and final impact rather than treating planned files or extracted pages as finished analysis.
+**IN PROGRESS — all three books have completed original-page accounting and admitted source checkpoints; cross-book character integration and final analytical closeout remain pending.** The completed manga-only corpus remains authoritative within its preserved boundary. This mutable audit will record verified transitions and final impact rather than treating planned files or extracted pages as finished analysis.
 
 ## Baseline, authority and preservation
 
@@ -72,3 +72,13 @@ Parent commit is `4f3a4ca92252c7cd8a76f87b1e8b28cac0e03a3f`. The verified UA che
 ### UAN ledger-size validation and corrective routing
 
 The first author preflight rejected the 1,332,059-byte cumulative ledger under the repository's 1 MiB review threshold. The canonical ledger now indexes bounded UA and UAN detailed-record files, retaining all610 evidence anchors and their single owners. No record or interpretation was removed. UA record text is unchanged; UAN cross-book hyperlinks now point to the UA partition. Method and architecture explicitly document the storage rule. The new layout requires a fresh exact-index author preflight; the failed attempt is not reported as a pass.
+
+## UAG source checkpoint — 2026-09-10
+
+The [UAG audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_AGE_PARATEXT_AUDIT.md) closes 331/331 original images and 485 selective records: 308 material, 10 duplicate and 13 no-material-addition page dispositions. There is no unresolved material text-reading disposition. Unnamed/background identities, attributed speculation and unknown contribution dates remain bounded. Total admitted accounting is 845 pages and 1,095 selective records across UA/UAN/UAG; composite records and dependent recaps do not become independent behavioral trials. The two UAG detailed partitions retain single claim owners and all anchors through the canonical index.
+
+Material additions include particular adult occupations and ordinary practices, asymmetric friendship and accountability outcomes, OFA-predecessor histories, changing injury/ability states, the school prospectus's attributed graduate voices, deliberate production revisions and the five-page new Eri comic. Eri chooses the terms on which admired heroes attend her planned musical debut; the later television chart supplies Deku No.4/Bakugo No.5 with announcer speculation kept separate from motive. A current All Might office was corrected from a reviewer transcription to vice-principal using original profile/comic comparison. The all-character phase must use actual page/profile/poll rosters, not merely the ledger's selected subjects.
+
+Independent original-image checks supported thirteen predecessor/Mineta records; thirty-six root records were compared against forty-one distinct earlier records. Additional root checks resolved names, the vice-principal identity, important source conflicts, production dialogue and all five comic pages. V42 chronology and V23 genealogy were checked against unchanged original manga archives and found compatible at the stated level, without invented exact ages or generations. All these are retrospective source checks, not new model predictions.
+
+Parent commit is `45da74881ebb71a1101054bd1cf83883e1051843`. Earlier UA/UAN claim sections and frozen manga/model history are preserved. This book checkpoint does not change current dossiers, tiers or literary arguments. After its preservation/link verification, exact-index author preflight and logical commit, the next responsibility is the complete all-character/cross-book review, followed by current-model integration, specialist/monograph convergence and F1–F4. Remote publication and main integration remain separate; the final report stays outside GitHub.
