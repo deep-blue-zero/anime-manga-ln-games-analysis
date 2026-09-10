@@ -8,7 +8,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisua
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-09-09 - Recovered support files integrated; Hiro and Misuzu flagged for prospective targeted documentation rebuild; Phase 6 remains IN PROGRESS
+last_updated: 2026-09-09 - AV files consolidated by character; Rinami filename reference corrected; Hiro and Misuzu remain prospective documentation rebuilds; Phase 6 remains IN PROGRESS
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
@@ -19,14 +19,16 @@ This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical 
 
 ### Recovery and documentation audit — 2026-09-09
 
-Recovered packages resolve 32 of 33 originally named support-file targets. Current Temari dialogue/music datasets are restored with predecessor data explicitly preserved. Hiro and Misuzu remain **prospective targeted documentation-rebuild candidates**; this qualifies the completeness of their technical evidence without erasing the delivered baseline analyses. Rinami retains one unlocated audit filename whose substantive responsibility is covered by existing R2 documentation.
+Recovered packages resolve 32 of 33 originally named support-file targets. Current Temari dialogue/music datasets are restored with predecessor data explicitly preserved. Hiro and Misuzu remain **prospective targeted documentation-rebuild candidates**; this qualifies the completeness of their technical evidence without erasing the delivered baseline analyses. Rinami's separately named audit is treated as a likely stale, unverified filename reference with no further collection action requested; existing R2 documentation covers the transition.
 
 - [Recovery integration and remaining collection status](10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md)
 - [Targeted rebuild candidates and acceptance criteria](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md)
+- [Audiovisual home: one folder per character](05_AUDIOVISUAL_ANALYSIS/README.md)
 - [Audiovisual file index for all 13 characters](05_AUDIOVISUAL_ANALYSIS/GKM_AUDIOVISUAL_FILE_INDEX.md)
+- [AV file relocation and integrity receipt](10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AV_PATH_MIGRATION_20260909.tsv)
 - [File-organization audit and proposed improvements](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_FILE_ORGANIZATION_AUDIT_20260909.md)
 
-The dated checkpoints below preserve prior project states. Their historical next-step statements do not override this first-read status or the final Phase-6 Rinha AV checkpoint. This recovery pass does not open a new sequential-analysis gate or perform the proposed rebuilds.
+The AV consolidation places each character's baseline, specialists, evidence and AV release controls together; supporting measurements use character-local `SUPPORTING_DATA/` folders. Textual-core addenda remain with their textual analyses. The dated checkpoints below preserve prior project states, including historical Drive folder names and IDs; use the current AV home for Git locations. Their historical next-step statements do not override this first-read status or the final Phase-6 Rinha AV checkpoint. This recovery pass does not open a new sequential-analysis gate or perform the proposed rebuilds.
 
 ### Current authority
 
@@ -569,7 +571,7 @@ Current character-level authority stack:
 - `GKM_RINAMI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md` — specialist song/MV/3DMV authority.
 - `GKM_RINAMI_AV_EVIDENCE_AND_METRICS_MATRIX.md` — claim/source/disposition routing.
 - `GKM_PHASE3_RINAMI_AV_TECHNICAL_METRICS_APPENDIX.md` — source identity and measurement limits.
-- `GKM_PHASE3_RINAMI_R2_HIGH_RESOLUTION_REINSPECTION_AUDIT.md` — R1→R2 source transition and claim audit.
+- [R2 delivery audit](05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_PHASE3_RINAMI_AV_DELIVERY_AUDIT.md) and [R2 revision record](05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/00_README_AND_DOCUMENT_MAP.md#r2-revision-over-r1) — verified documentation of the R1→R2 source transition. **Reference correction, 2026-09-09:** this entry originally named `GKM_PHASE3_RINAMI_R2_HIGH_RESOLUTION_REINSPECTION_AUDIT.md`; no separate deliverable has been established. The original filename is retained here only as correction history.
 - `GKM_CORE_08_HIMESAKI_RINAMI_AV_REVISION_ADDENDUM.md` — routes the textual core through the AV pass.
 - immutable `GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R2.zip` plus SHA-256 sidecar.
 
