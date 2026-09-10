@@ -1,0 +1,27 @@
+{
+  "schema": "anime-manga-ln-games-analysis/test-execution/v1",
+  "rollout_stage": "FULL_COVERAGE_SHADOW_PLANNING",
+  "selection_enabled": false,
+  "catalog": "tools/tests/test-catalog.json",
+  "runtime": {"python_major_minor": [3, 12], "unicode": "15.0.0"},
+  "content_extensions": [".md", ".csv", ".tsv", ".json", ".jsonl", ".txt"],
+  "content_global_paths": [
+    "characters/registry.jsonl",
+    "CHARACTER_ANALYSIS_INDEX.md",
+    "series/registry.json",
+    "studies/registry.json",
+    "series/README.md",
+    "studies/README.md",
+    "governance/MANGA_ANIME_CORPUS_INDEX.md"
+  ],
+  "mandatory_groups": ["live_corpus", "smoke"],
+  "full_groups": ["live_corpus", "regression", "synthetic_git", "dormant_reconstruction"],
+  "enablement_requires": [
+    "reviewed live-assertion and dependency separation",
+    "trusted successful baseline verification",
+    "failure-mutation acceptance cases",
+    "at least seven days and twenty representative shadow audits",
+    "completion of required stabilization full audits",
+    "reviewed implementation of reduced execution"
+  ]
+}

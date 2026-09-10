@@ -1,0 +1,84 @@
+---
+series: MHA
+corpus: MHA_SP2
+artifact_type: specialist_synthesis
+scope: FULL_SERIES_V01-V42
+generation: V2
+status: canonical
+source_boundary: Japanese main manga Volumes 1-42, including chapter 431; supplemental expansion excluded
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# MHA SP2 — Heroism, recognition and failed rescue
+
+## Rescue has several outcomes and several claimants
+
+**Interpretation.** MHA expands the obligations of rescue without making them one undifferentiated success condition. A person can be recognized yet die; survive yet remain controlled; receive care without forgiving; acknowledge harm without being restored to social membership. The [Recognition and failed rescue ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RECOGNITION_FAILED_RESCUE_LEDGER.md) is the primary owner, particularly its perception → interpretation → jurisdiction → action → follow-through distinctions, `R-V08-1`–`R-V08-8`, `R-25-01`–`R-25-05`, and final-war/postwar entries. Those stages are analytical separations, not a universal chronological checklist.
+
+### The early impulse is necessary and insufficient
+
+**Textual facts.** Midoriya notices the person in danger and moves before possessing a viable professional capacity (V01:p043–059). All Might's subsequent action makes the physical rescue possible. The sequence grants value to attention and impulse while also depicting the gap between wanting to help and being equipped to do so. The same separation remains visible when Gentle's attempted rescue fails and later succeeds under different conditions. V38:p054–059,p081–083 does not retrospectively turn the earlier motive into earlier competence. [Recognition and failed rescue ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RECOGNITION_FAILED_RESCUE_LEDGER.md), V01 and Gentle entries; [Power philosophy ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_POWER_PHILOSOPHY_LEDGER.md), capacity/control distinctions.
+
+The training and examination cases in `R-V08-1`–`R-V08-8` prevent an exclusively moralized reading of failure. Timing, cooperative knowledge, bodily limits and means matter. A correct ethical aim may be poorly executed; a well-executed capture may leave the recipient's situation unaddressed. **Interpretation:** the series does not replace technical rescue with emotional recognition. It adds demands that technical success alone cannot satisfy.
+
+### Accurate recognition does not grant unlimited jurisdiction
+
+Stain can identify hypocrisy without earning the right to kill on that basis. AFO can understand another's vulnerability sufficiently to manipulate it without recognizing that person as an independent end. Chisaki's attachment to his boss does not authorize his treatment of Eri or his seizure of the boss's future. These are important counterexamples to the claim that understanding someone necessarily improves one's conduct toward them. [Recognition and failed rescue ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RECOGNITION_FAILED_RESCUE_LEDGER.md), Stain/AFO/Chisaki; [Villains and antagonists ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md), corresponding volume sections; `R-V08` entries preserve the difference between evaluation and intervention.
+
+Recognition also does not give the rescuer ownership of the outcome. Mirio refuses a hypothetical transfer that would displace loss onto Midoriya at V18:p088–090. Eri's V41:p157–159 help is chosen but contested by adult concern and limited by her body. **Interpretation:** gratitude can motivate contribution without creating a debt enforceable against the rescued person's powers, future or affection. See [S3](MHA_SP2_POWER_INHERITANCE_AND_SELF_AUTHORSHIP_SYNTHESIS.md) for the capacity/ownership distinction.
+
+### Hawks and Twice: a real offer can fail its recipient
+
+Hawks recognizes helping qualities in Twice and offers an individual restart, yet that route requires separation from the comrades whose belonging defines the future Twice values. The offer's concern and the threat posed by Double are both present. The lethal strike is V27:p149. Tokoyami's later extraction of Hawks occurs at V28:p060–077, not in the V27 freeze, and his belief is evidence of a particular bond rather than proof that every alternative to killing was impossible. [Recognition and failed rescue ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RECOGNITION_FAILED_RESCUE_LEDGER.md), Hawks/Twice and Tokoyami; [Professional heroes ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_PRO_HERO_CHARACTER_STATE_LEDGER.md), V27–V31 correction; [Villains and antagonists ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md), Twice V27.
+
+**Interpretation:** the failure is not adequately explained by “Hawks never cared” or “Twice refused rescue because he was irrational.” What counts as a livable restart is contested. Equally, understanding that contest does not neutralize the immediate mass-danger problem or prove a safe available alternative. **Residual:** the manga does not run every possible de-escalation counterfactual. Tactical necessity under perceived constraints and total moral exoneration must remain separate claims.
+
+### Three terminal pairs resist one redemption template
+
+| Pair | Depicted or attributed outcome | What it does not establish |
+|---|---|---|
+| Midoriya / Shigaraki-Tenko | Resistant and League-directed intent persists; Midoriya reports the lost life and continuing League allegiance, while All Might offers the supportive interpretation that the heart was saved | Guaranteed survival, acquittal, or a demonstrated rehabilitated future |
+| Ochako / Toga | Containment and personal attention meet a particular reciprocal gift at fatal cost; later grief remains | Universal moral conversion, necessity of death for acceptance, or literal postmortem Toga activity |
+| Shoto / Toya | Stoppage is followed by an ordinary food question and narrow apology | General forgiveness, restoration of health, or one common family decision |
+
+Primary anchors: V41:p116,p121–123; V42:p018,p030–035; V39:p098–139; V42:p062–064,p180–183. Ledger retrieval: [Recognition and failed rescue ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RECOGNITION_FAILED_RESCUE_LEDGER.md), final-war/V42; [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), all three pairs. The table records different dimensions; it does not assign a single moral score to each death.
+
+The Midoriya pair supplies the strongest warning against converting recognition into a substitute trophy for survival. His grief registers the lost life. A plausible reached heart has value without making the physical loss negligible. Ochako's later work similarly preserves bereavement and a future preventive commitment rather than declaring the original encounter a complete success. Shoto's small question matters because it addresses a person outside the rivalry that helped structure his suffering, yet Toya's brief response neither speaks for all victims nor cancels previous choices.
+
+### Follow-through makes rescue more than an encounter
+
+Eri's later capacity for joy and creative desire, Nagant's chosen aid amid medical risk, and Gentle's rehabilitation require conditions after the initial intervention. V38:p065–068 makes Nagant's body and distrust consequential; the role of particular invitations and access does not prove an institution has automatically become trustworthy. V42:p150 locates Ochako's preventive work in staffing, support and resources. These are textual anchors for the **strong inference** that recognition becomes durable only when someone can continue living and acting differently. [Recognition and failed rescue ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RECOGNITION_FAILED_RESCUE_LEDGER.md), Eri/Nagant/Gentle and V42; [Hero society ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_HERO_SOCIETY_LEDGER.md), postwar reform.
+
+Civilian initiative extends that follow-through without abolishing professional rescue. V42:p118–123 juxtaposes finite professional hands with a civilian responding to another endangered child. It depicts one different intervention, not a measured guarantee that every comparable child is now reached. **Residual:** recurrence, unequal access, and the limits of reforms remain. The normative conclusion is a wider obligation to notice and respond with appropriate means, coupled to respect for the recipient's agency; it is not a universal promise that sufficient empathy saves everyone.
+
+The paired adjudications continue in [Rescue, power and personhood](../06%20Full-Series%20Synthesis/MHA_SP2_RESCUE_POWER_PERSONHOOD_ADJUDICATION.md). [S4](MHA_SP2_HERO_SOCIETY_AND_DISTRIBUTED_RESPONSIBILITY_SYNTHESIS.md) owns the institutional conditions that can support this enlarged responsibility.
+
+## How rescue judgment becomes more discriminating
+
+### Noticing distress is different from understanding its danger
+
+Iida's revenge history makes the missing step precise. Midoriya and Shoto can notice that something is wrong without grasping the depth of his intention; Manual's professional warning supplies another, differently informed response. The failure is not that nobody possesses empathy. Available signs are interpreted inadequately, and a bereaved person conceals or misdirects what others could use. Later experience changes how Iida can recognize a friend's self-endangerment. This does not make the early missed intervention retrospectively inevitable or authorize every later intrusion. [V06](../02%20Sequential%20Readings/MHA_SP2_V06_DEEP_READING.md); [V07](../02%20Sequential%20Readings/MHA_SP2_V07_DEEP_READING.md), Hosu and its aftermath; recognition ledger, Iida/Stain sequence.
+
+Kota supplies a related distinction. Mandalay's account of his bereavement gives Midoriya information before he can fully inhabit its implications. After the rescue, that information becomes newly usable from a changed experiential position. The child is also a recipient whose response matters; an adult's explanatory account does not exhaust his relation to heroes. In the licensing exercise, that recipient-facing dimension becomes practical instruction: Bakugo can correctly classify an injury and still fail to communicate reassurance. Accurate assessment, intelligible delivery and trust are separable achievements. [V08](../02%20Sequential%20Readings/MHA_SP2_V08_DEEP_READING.md), Kota's position; [V09](../02%20Sequential%20Readings/MHA_SP2_V09_DEEP_READING.md), rescue aftermath; [V13](../02%20Sequential%20Readings/MHA_SP2_V13_DEEP_READING.md), triage assessment.
+
+### Eri's rescue is a sequence of different problems
+
+The Eri sequence develops the distinction across an extended relationship. Her fearful return under Chisaki's threat follows a moment in which Midoriya and Mirio recognize danger but lack both full knowledge and safe freedom of action. Deferring direct action in that encounter is intelligible under coercion; it is not a completed rescue or proof that the subsequent harm is ethically costless. Remembered contact then matters to Eri's later willingness to reach toward an alternative. **Interpretation:** recognition acquires force through a history that changes what another person can imagine and do, not through the rescuer simply announcing the correct moral account. [V14](../02%20Sequential%20Readings/MHA_SP2_V14_DEEP_READING.md), opening encounter; [V15](../02%20Sequential%20Readings/MHA_SP2_V15_DEEP_READING.md), threat, withdrawal and investigation; [V16](../02%20Sequential%20Readings/MHA_SP2_V16_DEEP_READING.md); [V17](../02%20Sequential%20Readings/MHA_SP2_V17_DEEP_READING.md), Mirio and Eri.
+
+When Midoriya and Eri escape together, their temporarily complementary bodily processes make action possible. That emergency coupling is not equivalent to durable safe control; termination and supervision remain necessary. Afterward, guilt and unfamiliarity with joy require a different kind of care. The festival does not repeat the combat rescue in miniature: it creates conditions in which Eri can enjoy something without first repaying what was done for her. The later candy apple also brings care back into an ordinary day. [V18](../02%20Sequential%20Readings/MHA_SP2_V18_DEEP_READING.md), battle and aftermath; [V19](../02%20Sequential%20Readings/MHA_SP2_V19_DEEP_READING.md), hospital and preparation; [V20](../02%20Sequential%20Readings/MHA_SP2_V20_DEEP_READING.md), performance and afterward. [S6](MHA_SP2_FAMILY_CARE_AND_ORDINARY_LIFE_SYNTHESIS.md) develops the ordinary-life implication.
+
+### Later encounters distinguish evidence, commitment and authority
+
+Ochako's question about who helps heroes opens a recipient category often hidden by the professional role. V33 makes it concrete in Midoriya. Friends have longitudinal knowledge and visible signs of exhaustion with which to challenge his self-report. Their grounds are stronger than generic confidence that they understand him, yet they still contest his refusal rather than discover that refusal never existed. Shared danger must be negotiated; it cannot be dissolved by the fact of affection. [V22](../02%20Sequential%20Readings/MHA_SP2_V22_DEEP_READING.md), Ochako's rescue-oriented reflection; [V33](../02%20Sequential%20Readings/MHA_SP2_V33_DEEP_READING.md), the class's intervention and U.A. refuge.
+
+The Shigaraki and Nagant cases require different epistemic claims. In V31 the vestiges do not all share Midoriya's reading of a suffering face. His determination to try rescue is a defended commitment under uncertainty, not collective confirmation of Shigaraki's consent. In V32 Nagant's restraint supplies observable, defeasible evidence that her professed position does not explain all her conduct. An inference from such behavior is different from privileged access to an untouched good self. Neither inference guarantees the means will succeed or the recipient will accept the offered future. [V31](../02%20Sequential%20Readings/MHA_SP2_V31_DEEP_READING.md), vestige deliberation; [V32](../02%20Sequential%20Readings/MHA_SP2_V32_DEEP_READING.md), Nagant encounter.
+
+**Counterreading adjudication.** “Recognition saves” remains useful only if it names a changed possibility, not a sufficient cause or a right over another person. These cases distribute the work across perception, inference, means, communication, recipient action, restraint and continuing support. The existing [full-series adjudication](../06%20Full-Series%20Synthesis/MHA_SP2_RESCUE_POWER_PERSONHOOD_ADJUDICATION.md) therefore compares unlike consent and intervention cases without collapsing Eri, Mirio, Aoyama, exhausted Midoriya and resistant Shigaraki into a common transaction. The fuller developmental history strengthens the existing conclusion about failed rescue; it does not replace it with an empathy formula.
+
+## Evidence status and corpus role
+
+This specialist owns the subject argument named above. Its primary ledger responsibilities are assigned in the [fourteen-ledger disposition](MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md). **Textual fact** identifies depicted action or attributed speech; **strong inference** identifies an implication supported by converging evidence; **interpretation** states the analytical judgment; **residual** marks what remains unshown or unsettled. A character's explanation is a fact that the character gives that explanation, not automatically a true account of the world.
+
+Primary citations use the [logical-page locator](../07%20Evidence%20and%20Indexes/MHA_SP2_PRIMARY_SOURCE_LOCATOR.md). The [source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) distinguishes this continuation's inspections from inherited direct review, locks source bytes and excludes paratext. No claim here implies a new complete reread of all 42 volumes. The scope is the completed Japanese main manga V01–V42, including chapter 431.

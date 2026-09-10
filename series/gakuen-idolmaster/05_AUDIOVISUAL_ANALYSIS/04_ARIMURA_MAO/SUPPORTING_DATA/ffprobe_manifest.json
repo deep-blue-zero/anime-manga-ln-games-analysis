@@ -1,0 +1,1053 @@
+[
+  {
+    "path": "/mnt/data/4K HDR (有村麻央 SSR2) 「ガラクタロード」Aエンディング【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "file_name": "4K HDR (有村麻央 SSR2) 「ガラクタロード」Aエンディング【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "format": {
+      "duration": "88.421587",
+      "size": "58592339",
+      "bit_rate": "5301179"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "5066077"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/4K HDR「Campus mode!!」(有村麻央 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "file_name": "4K HDR「Campus mode!!」(有村麻央 フェスSSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "format": {
+      "duration": "160.101587",
+      "size": "96606943",
+      "bit_rate": "4827282"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "4654297",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/4K HDR「Feel Jewel Dream」(歌：有村麻央 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "file_name": "4K HDR「Feel Jewel Dream」(歌：有村麻央 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "format": {
+      "duration": "195.326259",
+      "size": "127300410",
+      "bit_rate": "5213857"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "5028657",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/4K HDR「Fluorite」 (有村麻央 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen Idolm@ster MV】-(1080p60).mp4",
+    "file_name": "4K HDR「Fluorite」 (有村麻央 ソロ SSR)【学マス⧸学園アイドルマスタ⧸Gakuen Idolm@ster MV】-(1080p60).mp4",
+    "format": {
+      "duration": "164.490159",
+      "size": "86660557",
+      "bit_rate": "4214747"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "4035517",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/4K HDR「SUGAR FLAVOR」(姫崎莉波・有村麻央 SSR)【学マス⧸学園アイドルマスタ⧸学園偶像大師⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "file_name": "4K HDR「SUGAR FLAVOR」(姫崎莉波・有村麻央 SSR)【学マス⧸学園アイドルマスタ⧸学園偶像大師⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "format": {
+      "duration": "138.646349",
+      "size": "79590939",
+      "bit_rate": "4592457"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "4387262"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/4K HDR「見て」(有村麻央 STEP3 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "file_name": "4K HDR「見て」(有村麻央 STEP3 SSR)【学マス⧸学園アイドルマスタ⧸Gakuen idolm@ster MV】-(1080p60).mp4",
+    "format": {
+      "duration": "170.922086",
+      "size": "102157301",
+      "bit_rate": "4781467"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "4581625",
+        "side_data_list": [
+          {}
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/Feel Jewel Dream-(1080p25).mp4",
+    "file_name": "Feel Jewel Dream-(1080p25).mp4",
+    "format": {
+      "duration": "202.767007",
+      "size": "9749275",
+      "bit_rate": "384649"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1080,
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "bit_rate": "99105"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "255999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/[学マス] 『Campus mode!!』 有村 麻央ver [親愛度10]-(1080p30).mp4",
+    "file_name": "[学マス] 『Campus mode!!』 有村 麻央ver [親愛度10]-(1080p30).mp4",
+    "format": {
+      "duration": "162.795102",
+      "size": "6302722",
+      "bit_rate": "309725"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "159204"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 640,
+        "height": 480,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【Campus mode!!】有村麻央 楽曲コミュまとめ【学マス】-(1080p60).mp4",
+    "file_name": "【Campus mode!!】有村麻央 楽曲コミュまとめ【学マス】-(1080p60).mp4",
+    "format": {
+      "duration": "654.524082",
+      "size": "138901255",
+      "bit_rate": "1697737"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "1536448"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "128005"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【SUGAR FLAVOR】有村麻央  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+    "file_name": "【SUGAR FLAVOR】有村麻央  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+    "format": {
+      "duration": "550.684444",
+      "size": "80350484",
+      "bit_rate": "1167281"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60000/1001",
+        "avg_frame_rate": "60000/1001",
+        "bit_rate": "1003406"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "128005"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【ミラクルナナウ(ﾟ∀ﾟ)！】有村麻央  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+    "file_name": "【ミラクルナナウ(ﾟ∀ﾟ)！】有村麻央  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+    "format": {
+      "duration": "524.376236",
+      "size": "74716041",
+      "bit_rate": "1139884"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "972990"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "128002"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【学マス】有村麻央  親愛度コミュ21～27話まとめ【STEP3】-(480p30).mp4",
+    "file_name": "【学マス】有村麻央  親愛度コミュ21～27話まとめ【STEP3】-(480p30).mp4",
+    "format": {
+      "duration": "2769.490431",
+      "size": "206146032",
+      "bit_rate": "595477"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "Main",
+        "codec_type": "video",
+        "width": 854,
+        "height": 480,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "455190"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "bin_data",
+        "codec_type": "data",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "index": 3,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【学マス】有村麻央　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+    "file_name": "【学マス】有村麻央　親愛度１１～２０話【アイドルコミュ】-(720p30).mp4",
+    "format": {
+      "duration": "3283.301587",
+      "size": "123183601",
+      "bit_rate": "300145"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "Main",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "161047"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【学マス】有村麻央　親愛度１～１０話【アイドルコミュ】-(1080p30).mp4",
+    "file_name": "【学マス】有村麻央　親愛度１～１０話【アイドルコミュ】-(1080p30).mp4",
+    "format": {
+      "duration": "3100.049705",
+      "size": "215210362",
+      "bit_rate": "555372"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "416714"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【学マス】有村麻央　親愛度２８～３７話【アイドルコミュ STEP4 HIF】-(480p30).mp4",
+    "file_name": "【学マス】有村麻央　親愛度２８～３７話【アイドルコミュ STEP4 HIF】-(480p30).mp4",
+    "format": {
+      "duration": "3127.913651",
+      "size": "229577663",
+      "bit_rate": "587171"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "Main",
+        "codec_type": "video",
+        "width": 854,
+        "height": 480,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "448290"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【楽曲コミュ】Feel Jewel Dream【有村麻央】【学マス】-(1080p30).mp4",
+    "file_name": "【楽曲コミュ】Feel Jewel Dream【有村麻央】【学マス】-(1080p30).mp4",
+    "format": {
+      "duration": "513.114558",
+      "size": "84633230",
+      "bit_rate": "1319521"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "1159856"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【楽曲コミュ】Fluorite【有村麻央】【学マス】-(1080p30).mp4",
+    "file_name": "【楽曲コミュ】Fluorite【有村麻央】【学マス】-(1080p30).mp4",
+    "format": {
+      "duration": "421.790476",
+      "size": "54360735",
+      "bit_rate": "1031047"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "865612"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【楽曲コミュ】キミとセミブルー【有村麻央】【学マス】-(1080p30).mp4",
+    "file_name": "【楽曲コミュ】キミとセミブルー【有村麻央】【学マス】-(1080p30).mp4",
+    "format": {
+      "duration": "461.450159",
+      "size": "87031907",
+      "bit_rate": "1508841"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "1344371"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【楽曲コミュ】雪解けに【有村麻央】【学マス】-(1080p30).mp4",
+    "file_name": "【楽曲コミュ】雪解けに【有村麻央】【学マス】-(1080p30).mp4",
+    "format": {
+      "duration": "667.689796",
+      "size": "105763618",
+      "bit_rate": "1267218"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "1109532"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/【見て】有村麻央  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+    "file_name": "【見て】有村麻央  楽曲コミュまとめ【学マス】-(1080p60).mp4",
+    "format": {
+      "duration": "618.742132",
+      "size": "87353467",
+      "bit_rate": "1129432"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "bit_rate": "965579"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "128006"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/初星学園 「Fluorite」Official Music Video (HATSUBOSHI GAKUEN - Fluorite)-(1080p24).mp4",
+    "file_name": "初星学園 「Fluorite」Official Music Video (HATSUBOSHI GAKUEN - Fluorite)-(1080p24).mp4",
+    "format": {
+      "duration": "251.216689",
+      "size": "61374298",
+      "bit_rate": "1954465"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "bit_rate": "1667924"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "255999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/初星学園 「SUGAR FLAVOR」Official Music Video (HATSUBOSHI GAKUEN - SUGAR FLAVOR)-(1080p24).mp4",
+    "file_name": "初星学園 「SUGAR FLAVOR」Official Music Video (HATSUBOSHI GAKUEN - SUGAR FLAVOR)-(1080p24).mp4",
+    "format": {
+      "duration": "188.104853",
+      "size": "72304019",
+      "bit_rate": "3075051"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "bit_rate": "2745198"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "255999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/初星学園 「見て」Official Music Video (HATSUBOSHI GAKUEN - Face Me )-(816p24).mp4",
+    "file_name": "初星学園 「見て」Official Music Video (HATSUBOSHI GAKUEN - Face Me )-(816p24).mp4",
+    "format": {
+      "duration": "305.435283",
+      "size": "62629663",
+      "bit_rate": "1640404"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 816,
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "bit_rate": "1343279"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "255999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "path": "/mnt/data/麻央、覚醒【有村麻央】親愛度コミュ10.5話【親愛度コミュ】【学マス】-(1080p30).mp4",
+    "file_name": "麻央、覚醒【有村麻央】親愛度コミュ10.5話【親愛度コミュ】【学マス】-(1080p30).mp4",
+    "format": {
+      "duration": "140.527166",
+      "size": "15372752",
+      "bit_rate": "875147"
+    },
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "bit_rate": "670013"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "bit_rate": "127999"
+      },
+      {
+        "index": 2,
+        "codec_name": "png",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "90000/1",
+        "avg_frame_rate": "0/0"
+      }
+    ]
+  }
+]

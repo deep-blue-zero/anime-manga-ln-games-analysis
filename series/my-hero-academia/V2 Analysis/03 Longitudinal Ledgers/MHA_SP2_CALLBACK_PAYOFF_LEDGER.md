@@ -43,6 +43,12 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Callback and Payoff Ledger
 
+## Current source-admissibility correction — continuation
+
+The Hawks/Tokoyami reverse-rescue callback becomes enacted extraction in V28:p060–077; V27:p179 supplies the arrival setup only. Historical “HELDOUT PASS” wording below describes retrospective directional comparison, never a blind experiment; analyst familiarity and contamination limits remain operative. Shoji's V37:p148 author drawing cannot be a behavioral callback. Gentle's V38:p081–083 joy precedes his discovery of student cameras, so the scene revises dependence on applause without proving an enduring absence of witnesses. Both V42:p144–145 are authorial framing and may contextualize construction, but cannot add in-world events.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 

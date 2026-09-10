@@ -8,7 +8,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisua
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-08-24 - Phase 6 IN PROGRESS; Systems I + II + side-character synthesis + corrected Kaya Rinha crosswalk + evidence matrix COMPLETE; targeted Rinha AV baseline next; dossier remains required
+last_updated: 2026-09-09 - AV files consolidated by character; Rinami filename reference corrected; Hiro and Misuzu remain prospective documentation rebuilds; Phase 6 remains IN PROGRESS
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
@@ -16,6 +16,19 @@ last_updated: 2026-08-24 - Phase 6 IN PROGRESS; Systems I + II + side-character 
 ## First-read status
 
 This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical corpus.
+
+### Recovery and documentation audit — 2026-09-09
+
+Recovered packages resolve 32 of 33 originally named support-file targets. Current Temari dialogue/music datasets are restored with predecessor data explicitly preserved. Hiro and Misuzu remain **prospective targeted documentation-rebuild candidates**; this qualifies the completeness of their technical evidence without erasing the delivered baseline analyses. Rinami's separately named audit is treated as a likely stale, unverified filename reference with no further collection action requested; existing R2 documentation covers the transition.
+
+- [Recovery integration and remaining collection status](10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md)
+- [Targeted rebuild candidates and acceptance criteria](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md)
+- [Audiovisual home: one folder per character](05_AUDIOVISUAL_ANALYSIS/README.md)
+- [Audiovisual file index for all 13 characters](05_AUDIOVISUAL_ANALYSIS/GKM_AUDIOVISUAL_FILE_INDEX.md)
+- [AV file relocation and integrity receipt](10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AV_PATH_MIGRATION_20260909.tsv)
+- [File-organization audit and proposed improvements](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_FILE_ORGANIZATION_AUDIT_20260909.md)
+
+The AV consolidation places each character's baseline, specialists, evidence and AV release controls together; supporting measurements use character-local `SUPPORTING_DATA/` folders. Textual-core addenda remain with their textual analyses. The dated checkpoints below preserve prior project states, including historical Drive folder names and IDs; use the current AV home for Git locations. Their historical next-step statements do not override this first-read status or the final Phase-6 Rinha AV checkpoint. This recovery pass does not open a new sequential-analysis gate or perform the proposed rebuilds.
 
 ### Current authority
 
@@ -32,7 +45,7 @@ This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical 
 | --- | --- | --- |
 | 0 — Corpus Audit and Source Lock | COMPLETE | `01_CORPUS_AUDIT_AND_SOURCE_LOCK/` |
 | 1 — Continuity and Story-State Reconstruction | COMPLETE | `02_CONTINUITY_AND_STORY_STATE/` |
-| 1A — AV baseline/discovery | COMPLETE — 13/13 | `05_AUDIOVISUAL_ANALYSIS/` |
+| 1A — AV baseline/discovery | 13/13 baselines delivered; Hiro/Misuzu technical documentation requires targeted review | `05_AUDIOVISUAL_ANALYSIS/` |
 | 2 — Shared Narrative and Institutional Spine | COMPLETE; paratext-refined 2026-08-15 | `GKM_SHARED_AND_INSTITUTIONAL_SPINE_DEEP_READING.md` |
 | 3 — Character Core Readings | COMPLETE — Gate C satisfied | `03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` |
 | 4 — Numbered Events | COMPLETE — 136/136 dedicated event scripts, 8,507/8,507 messages; four canonical tranche readings | `03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/` |
@@ -51,15 +64,15 @@ This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical 
 4. Arimura Mao — textual core COMPLETE; integrated AV baseline COMPLETE.
 5. Lilja Katsuragi — textual core COMPLETE; integrated AV baseline COMPLETE.
 6. Kuramoto China — textual core COMPLETE; integrated AV baseline COMPLETE.
-7. Hiro Shinosawa — textual core COMPLETE; integrated AV baseline COMPLETE.
+7. Hiro Shinosawa — textual core COMPLETE; integrated AV baseline delivered; **prospective targeted technical-documentation rebuild** (missing metric support and late-Dear materialization records).
 8. Rinami Himesaki — textual core COMPLETE; integrated AV baseline COMPLETE.
 9. Sumika Shiun — textual core COMPLETE; integrated AV baseline COMPLETE.
 10. Hanami Ume — textual core COMPLETE; integrated AV baseline COMPLETE.
-11. Hataya Misuzu — textual core COMPLETE; integrated AV baseline COMPLETE.
+11. Hataya Misuzu — textual core COMPLETE; integrated AV baseline delivered; **prospective targeted technical-documentation rebuild** (empty metric tables and unmaterialized source manifest).
 12. Juo Sena / 十王星南 — textual core COMPLETE; integrated AV baseline COMPLETE.
 13. Amaya Tsubame / 雨夜燕 — textual core COMPLETE; integrated AV baseline COMPLETE.
 
-**Current integrated AV coverage: 13/13 COMPLETE.** No Phase-3 character AV baseline remains. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 621 logical Rinha dialogue messages** after tagged-speaker parser correction. The matrix adjudicates **73 bounded person-level claims** and requires a targeted Rinha AV baseline before the dossier is finalized. Next is `GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`; the character dossier remains required before Phase 6 can close.
+**Current integrated AV coverage: 13/13 baseline analyses delivered.** No Phase-3 baseline document is missing; technical-documentation completion remains qualified for Hiro and Misuzu as recorded above. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 621 logical Rinha dialogue messages** after tagged-speaker parser correction. The matrix adjudicates **73 bounded person-level claims** and requires a targeted Rinha AV baseline before the dossier is finalized. Next is `GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`; the character dossier remains required before Phase 6 can close.
 
 ## Canonical retrieval route
 
@@ -322,9 +335,11 @@ Kotone's audiovisual branch is now closed as a canonical Phase-3 baseline.
 
 Current integrated thesis: **material security becoming self-authorship, refined audiovisually into performed reciprocity**. Kotone's stable performance identity is not a single cute register or genre; it is the capacity to read attention, modulate presentation, make recognition feel personal, receive audience energy, and return it as visible pleasure. The unavailable Kotone-specific `ガラクタロード` commu/3DMV remains an explicit non-blocking `OPEN-SOURCE` gap rather than a guessed conclusion.
 
-## Immediate next work
+## Historical planning checkpoint after Phase 3
 
-The mainline and parallel branches are now:
+The following instructions record the earlier Phase-3 handoff. Phases 4 and 5 and the Rinha crosswalk/matrix have since been completed; the current next analytical operation remains the targeted Rinha AV baseline, subject to the governing initiation controls.
+
+At this historical checkpoint, the mainline and parallel branches were:
 
 - **Current user-priority gate:** SATISFIED — all 13 Phase-3 character AV baselines are complete. Proceed to Phase 4 numbered events.
 - **Next text-first operation:** Phase 4 — `GKM_EVENTS_013_020_DEEP_READING.md`.
@@ -556,7 +571,7 @@ Current character-level authority stack:
 - `GKM_RINAMI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md` — specialist song/MV/3DMV authority.
 - `GKM_RINAMI_AV_EVIDENCE_AND_METRICS_MATRIX.md` — claim/source/disposition routing.
 - `GKM_PHASE3_RINAMI_AV_TECHNICAL_METRICS_APPENDIX.md` — source identity and measurement limits.
-- `GKM_PHASE3_RINAMI_R2_HIGH_RESOLUTION_REINSPECTION_AUDIT.md` — R1→R2 source transition and claim audit.
+- [R2 delivery audit](05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_PHASE3_RINAMI_AV_DELIVERY_AUDIT.md) and [R2 revision record](05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/00_README_AND_DOCUMENT_MAP.md#r2-revision-over-r1) — verified documentation of the R1→R2 source transition. **Reference correction, 2026-09-09:** this entry originally named `GKM_PHASE3_RINAMI_R2_HIGH_RESOLUTION_REINSPECTION_AUDIT.md`; no separate deliverable has been established. The original filename is retained here only as correction history.
 - `GKM_CORE_08_HIMESAKI_RINAMI_AV_REVISION_ADDENDUM.md` — routes the textual core through the AV pass.
 - immutable `GAKUEN_IDOLMASTER_PHASE3_RINAMI_INTEGRATED_AV_R2.zip` plus SHA-256 sidecar.
 
@@ -642,7 +657,7 @@ Continuity now includes bounded E005→E006 and explicit E007→E011 links plus 
 
 Mutable character, relationship, continuity, institution, theme, Japanese-register, AV-queue, participant-index, and primary-locator infrastructure has been updated to route this tranche forward.
 
-**Next canonical Phase-4 artifact:** `GKM_EVENTS_013_020_DEEP_READING.md`.
+**Next Phase-4 artifact at this historical checkpoint:** `GKM_EVENTS_013_020_DEEP_READING.md`.
 
 <!-- PHASE4_EVENTS_013_020_2026-08-23 -->
 ## Phase 4 checkpoint — Events 013–020 — 2026-08-23
@@ -675,7 +690,7 @@ Continuity now includes a strong pre-summer-H.I.F. anchor for Event 017, autumn 
 
 Mutable character, relationship, continuity, institution, theme, Japanese-register, side-character, AV-queue, participant-index, and primary-locator infrastructure has been updated to route this tranche forward.
 
-**Next canonical Phase-4 artifact:** `GKM_EVENTS_021_PLUS_DEEP_READING.md`.
+**Next Phase-4 artifact at this historical checkpoint:** `GKM_EVENTS_021_PLUS_DEEP_READING.md`.
 
 <!-- PHASE4_EVENTS_021_PLUS_2026-08-23 -->
 ## Phase 4 numbered-event closure checkpoint — 2026-08-23
@@ -764,7 +779,7 @@ Canonical artifact: `GKM_SUPPORT_SERIES_02_PART_051_074_DEEP_READING.md` — Dri
 - Major promotions: Mao/Rinami direct first-year formative anchor; Sena/Tsubame childhood garden evidence; Hiro/China explicit friendship-growth intent; Tsubame/Hiro safety-limited severity; Tsubame/Kotone directive health mentorship; China/Misuzu reciprocal tea culture; Sena/Kotone consent-avoidant production warning; Mao explicit continuing acting ambition.
 - Character, relationship, continuity, institution, theme/motif, Japanese-register, NPC/side-character, AV, source-locator, and participant infrastructure updated in place.
 
-**Current next operation:** `GKM_SUPPORT_SERIES_03_PART_001_025_DEEP_READING.md` using `support_series_3_part_001-025.dialogue.txt`.
+**Next operation at this historical checkpoint:** `GKM_SUPPORT_SERIES_03_PART_001_025_DEEP_READING.md` using `support_series_3_part_001-025.dialogue.txt`.
 
 <!-- PHASE5_SUPPORT_SERIES_03_PART_001_025_2026-08-24 -->
 ## Phase 5 checkpoint — Support Series 3 Part 001–025 complete
@@ -779,7 +794,7 @@ Canonical artifact: `GKM_SUPPORT_SERIES_03_PART_001_025_DEEP_READING.md` — Dri
 - institutional promotions: Sena's current council as pseudo-agency, Producer Course peer networking, and hardship-student relief for Kotone-type material strain;
 - 20 new AV discriminations, 78 A1 locators, and 26 participant rows routed into cumulative infrastructure.
 
-**Current next operation:** `GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md` using `support_series_3_part_026-050.dialogue.txt`.
+**Next operation at this historical checkpoint:** `GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md` using `support_series_3_part_026-050.dialogue.txt`.
 
 <!-- PHASE5_SUPPORT_SERIES_03_PART_026_050_2026-08-24 -->
 ## Phase 5 checkpoint — Support Series 3 Part 026–050 complete
@@ -794,7 +809,7 @@ Canonical artifact: `GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md` — Dri
 - institutional/musical promotions: council memory transmission, dorm tradition, and `Campus mode!!` as an explicit intergenerational baton;
 - 18 new AV discriminations, 75 A1 locators, 25 participant rows, and a dedicated `GKM_SONG_AND_MUSICAL_IDENTITY_LEDGER.md` update.
 
-**Current next operation:** `GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md` using `support_series_3_part_051-075.dialogue.txt`.
+**Next operation at this historical checkpoint:** `GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md` using `support_series_3_part_051-075.dialogue.txt`.
 
 <!-- PHASE5_SUPPORT_SERIES_03_PART_051_075_2026-08-24 -->
 ## Phase 5 Support Series 3 Part 051–075 checkpoint — 2026-08-24
@@ -809,7 +824,7 @@ Canonical artifact: `GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md` — Dri
 - added Mashiro Yu as ordinary-course/broadcast-club side-character authority;
 - 18 new AV discriminations, 75 A1 locators, 25 participant rows, plus private listening/song-life deltas for Sena and Rinami.
 
-**Current next operation:** `GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md` using `support_series_3_part_076-102.dialogue.txt`.
+**Next operation at this historical checkpoint:** `GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md` using `support_series_3_part_076-102.dialogue.txt`.
 
 <!-- PHASE5_SUPPORT_SERIES_03_PART_076_102_2026-08-24 -->
 ## Phase 5 closure - Support Series 3 Part 076-102 and full support-card pass complete
@@ -849,7 +864,7 @@ Current reconstruction guardrail:
 
 **Relationship Systems II:** COMPLETE — `GKM_RELATIONSHIP_SYSTEMS_II_RIVALRY_FRIENDSHIP_CLASS_AND_SUCCESSION.md` (Drive `1sN6rcZPUBmkJaYPpyhPUMRSI29gZHQqK`).
 
-**Next canonical operation:** `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`.
+**Next operation at this historical checkpoint:** `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`.
 
 Architecture v2.4 also requires the Kaya Rinha distributed-character branch during Phase 6:
 
@@ -898,7 +913,7 @@ Systems I and II are the two canonical major relationship-system syntheses. The 
 2. `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`;
 3. `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`.
 
-**Next canonical operation:** `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`.
+**Next operation at this historical checkpoint:** `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`.
 
 
 
@@ -923,7 +938,7 @@ Phase 6 remains **IN PROGRESS** because architecture v2.4 requires the distribut
 
 Rinha remains a distributed non-playable reconstruction, not a fourteenth playable-character core.
 
-**Next canonical operation:** `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`.
+**Next operation at this historical checkpoint:** `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`.
 
 <!-- PHASE6_KAYA_RINHA_SOURCE_CROSSWALK_2026-08-24 -->
 ## Phase 6 checkpoint - Kaya Rinha source crosswalk complete
@@ -940,7 +955,7 @@ Dedicated Rinha AV reconstruction is **WARRANTED - DEFERRED UNTIL EVIDENCE MATRI
 
 Phase 6 remains **IN PROGRESS**.
 
-**Next canonical operation:** `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`.
+**Next operation at this historical checkpoint:** `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md`.
 
 After the matrix, `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md` remains the final mandatory Rinha branch artifact before Phase 6 can close.
 

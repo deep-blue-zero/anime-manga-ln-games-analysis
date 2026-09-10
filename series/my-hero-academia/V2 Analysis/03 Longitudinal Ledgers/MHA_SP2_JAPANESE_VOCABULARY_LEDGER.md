@@ -43,6 +43,12 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Japanese Vocabulary and Voice Ledger
 
+## Current source-admissibility correction — continuation
+
+Shoji's anti-revenge formulation belongs to V37:p140; the V37:p148 kimono image is an author-posted drawing and supplies no in-world voice. V36:p170 carries Mirio's spoken apology and p171 his internal reconsideration. V41:p175's mutual-need wording is Aoyama's; V42:p042–043's future/humor argument is Mirio's. V39:p146 is Tsukauchi's interpretation, while p155 is All Might's own win-directed statement. Broad ranges and historical romanizations/escaped strings below are retrieval aids; exact-glyph claims must return to the Japanese page, preserve the speaker, and distinguish speech, thought, narrator and author matter.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 
