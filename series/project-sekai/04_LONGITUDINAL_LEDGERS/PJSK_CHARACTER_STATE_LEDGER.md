@@ -5,8 +5,8 @@ ledger_type: character_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 characterization through EVENT_0089; Kanade recipient-directed protection after failed parental trust; three other human states retained"
-analysis_cutoff: "EVENT_0089 I3; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01"
+source_boundary: "N25 characterization through EVENT_0090; Ena subject-led expressive method and ordinary cross-unit openness; all four human states retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
+analysis_cutoff: "EVENT_0090 I2; current tuple MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,9 +17,31 @@ mutable: true
 
 ## Current authority and historical-state resolution
 
-The verified forward analytical frontier is **EVENT_0089**, an I3 release with a Kanade psychological transition and independent relationship/epistemic changes. Current global human defaults are **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Kanade now sustains recipient-directed protection after failed trust in Mafuyu’s mother, while inheriting K-E0063-01’s bounded self-permission and EVENT_0084’s supported ordinary competence. Mafuyu’s covert lyrics and attempted refusal refine existing agency under tighter access constraints; they do not establish a first-ever wish, completed independence or taste recovery. Historical entries remain true only at their own cutoffs; their “current” labels are not simultaneous defaults. The chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01` remain intact. Apply EVENT_0089’s separate knowledge/relationship records alongside all preserved earlier increments.
+The verified forward analytical frontier is **EVENT_0090**, an I2 refinement of Ena's working artistic method. Current N25 global human defaults remain **Mafuyu `MF-E0072-01`; Kanade `K-E0089-01`; Ena `E-E0070-01`; Mizuki `MZ-E0039-01`**. Ena now supplies explicit subject-to-technique selection, qualified reception assessment and subsequent practice evidence; these operationalize the existing aesthetic state rather than replace it. EVENT_0089 remains the latest global human transition: Kanade sustains recipient-directed protection after failed parental trust, retaining bounded self-permission, supported ordinary competence and rescue obligation.
 
-Earlier summaries and pending queues are historical handoffs. The current model must also apply `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and the EVENT_0080/0077 epistemic/claim refinements, including the limit on EVENT_0072's “first explicit want” language. Other human-unit foundations and 21 earlier universal screens remain separate unfinished obligations. The frozen source boundary `PJSK_SOURCE_20260822T184634Z_EVENT_0213` confers no later analytical authority.
+Historical states and their cutoff-local “current” labels are not simultaneous defaults. Preserve the chains `E-E0014-01 -> E-E0053-01 -> E-E0070-01`, `K-E0026-01 -> K-E0063-01 -> K-E0089-01`, and `MF-E0042-01 -> MF-E0061-01 -> MF-E0072-01`. Apply all EVENT_0089 family/KAITO and unequal-knowledge records, `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, and EVENT_0077's corrected desire/disclosure history. No completed liberation, taste recovery or professional artistic certainty follows. Leo/need routed history and 19 earlier universal screens remain separate unfinished obligations. Source currency confers no later analytical authority. Next EVENT_0091.
+
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history after EVENT_0004, the 19 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
+
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. Remaining non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+
+
+Wonderlands×Showtime's [six-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) is integrated through `wonder_01_20`: tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`, group `REL-WXS-MS-G-P06`, knowledge `EPI-WXS-MS-P06`. Preserve coercive appointment and pursuit alongside subsequent separate assent, Nene's continuing fear and mediated competence, Tsukasa's enduring grandiose register within revised purpose, Rui's distinct artistic choice and Emu's reported family/material conditions. Wonderland Miku/KAITO remain separate manifestations. All five human-unit main-story foundations are complete. Material routed histories, 19 earlier universal-screen gaps and reconstruction/synthesis obligations remain pending; forward EVENT_0091 does not advance.
+
+
+Historical EVENT_0001 is now fully integrated by scope: Leo/need I2, WxS/MMJ I1, N25/VBS documentary I0. The [shared event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns the main causal account. All human tuples and the established human-group topology are retained; event-qualified characterization, bounded relationships, separate knowledge, seven existing claim increments plus LN-CR-011, and four existing theme refinements are appended below. Exact confession hearing, partial card chronology and unshown future outcomes remain limited. Existing later N25/cross-unit evidence keeps its own temporal scope. Nineteen older universal screens remain pending; historical EVENT_0005 is next unresolved, while forward EVENT_0091 remains unchanged. Leo/need's EVENT_0002 route is also integrated as specified below; no mature reconstruction readiness is certified.
+
+Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusing the existing complete 22-story N25 reading and targeted Honami evidence. The [Honami integration checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) preserves all P04 human defaults and EVENT_0001 refinements, supplements the existing Kanade–Honami relationship, and records bounded knowledge separately. N25's existing EVENT_0002 I3 and its later defaults remain valid at their own cutoffs; MMJ/VBS/WxS are NONE / documentary I0. Nineteen older universal screens remain pending, with EVENT_0005 next after retained EVENT_0004. This closes LN's EVENT_0002 responsibility without advancing forward EVENT_0091 or certifying mature reconstruction readiness.
+
+Historical EVENT_0003 is now fully integrated across its relevant founded scopes: **WXS I3** on Rui's operative self-knowledge transition, **LEO_NEED I1** for Saki's bounded household exchange, and MMJ/VBS/N25 NONE / I0. The [event reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) reuses the complete 26-story discovery and preserves all four WxS P06 humans/company plus LN P04 humans/group. I3 rests on Rui acquiring and retaining a usable distinction between fear-linked restraint and deliberate safety work; unchanged human IDs do not erase that epistemic transition. Specific relationship/character I2 and ordinary I1 increments remain separate, as do source recipients and uncertain future outcomes. EVENT_0004's source correction and original N25 I2 remain intact; all its founded unit interpretations are integrated below. Nineteen older source-screen gaps start at EVENT_0005. Forward next EVENT_0091 and mature reconstruction/synthesis requirements are unchanged.
+
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Targeted founded interpretation has now closed the sparse MMJ/WXS/LN/VBS detail; the complete EVENT4 dispositions are recorded below. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS EVENT_0003 I3 and LN I1 are integrated; forward EVENT_0091 is unchanged.
+
+Historical EVENT_0004 is now fully integrated across its founded unit scopes: **MMJ I3**, **WXS I3**, **LEO_NEED I2**, **VBS I1**, and **N25 I2 preserved** with the earlier area009 I1 supplement. The [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) close the previously sparse non-active-unit detail through targeted evidence review. The retained complete discovery plus omitted area comprises 27 stories / 53 scenes / 1,433 records; no new universal pass is claimed. Haruka–Emu friendship and Haruka's continuing class access support I3; Saki's informed reliance implements her existing approach at I2. All human/group defaults remain, with differentiated ordinary, relationship and knowledge increments. Shared records have one reconciled EVENT4 entry per responsibility. Wonderland participants remain distinct from other manifestations. Nineteen historical screening gaps start at EVENT_0005; forward next EVENT_0091 and mature reconstruction/synthesis obligations remain unchanged.
 
 ## 1. Purpose and authority
 
@@ -1347,3 +1369,1377 @@ No new human or manifestation-state ID. The complete mixed reading owns the 29-s
 **Empty KAITO characterization:** anger about perceived stagnation, prioritization of resistance and rejection of what he calls indulgence are his initial stance. Miku supplies his history; the failed encounter and later discussion lead him privately to consider another approach. He can accept listening to Kanade’s music while reserving honest feedback (`PJSK:card:0615:01`; `PJSK:card:0615:02:001:0039–0054`; `PJSK:area:areatalk_ev_night_12_004:01`). This is manifestation-specific evidence, not a completed global VS reconstruction model.
 
 Current tuple: `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`. All earlier state history survives; no principal-human package gains readiness certification here. Next EVENT_0090.
+
+## EVENT_0090 characterization refinement — choose what the technique must express
+
+**Ena: I2; preserve `E-E0070-01`.** A Kanade demo motivates water studies. Ena requests Yukihira's critique, initially disputes the dismissal of practice, and then accepts the narrower point that intended content determines useful sensory information. Her exhibition subject becomes the warmth of peaceful company; she can name technical defects and recognize successful communication together (`PJSK:card:0621:01:001:0004–0039`; `PJSK:event:0090:04:001:0034–0043`; `PJSK:event:0090:05:001:0002–0028`). The teacher's aesthetic verdict remains attributed, not an objective rule that practice lacks value.
+
+She plans composition/perspective corrections while considering nonliteral lighting to preserve the intended warmth. Reception remains qualified because both observers saw the same fish. She wants stronger pictures to convey her colleagues' musical world, then chooses further practice over the missed shopping stop; the revised output and broader audience remain future (`PJSK:card:0621:02:001:0002–0011`; `PJSK:card:0621:02:001:0026–0054`; `PJSK:event:0090:05:001:0042–0055`). This makes the E0070/E0077 technique-expression distinction operational, not newly discovered or professionally mastered.
+
+Warm introduction, embarrassment after aspiration talk, unprompted cleaning of An's dusty clothes and modest acceptance of an illustrator conversation preserve ordinary interpersonal range (`PJSK:event:0090:04:001:0002–0008`; `PJSK:event:0090:05:002:0002–0007`; `PJSK:area:areatalk_ev_shuffle_30_002:01`; `PJSK:area:areatalk_ev_shuffle_30_003:01`). Her existing anger/envy/criticism sensitivity is not erased. No other N25 human acquires a state delta from these reports. School and Street singers remain separate deferred manifestations; no Empty singer is present. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0090_DEEP_READING.md) owns shared causes and other-unit routes. No complete reconstruction package is certified.
+
+## Leo/need main-story foundation — serial phase history
+
+Each record below is valid only at its named phase endpoint and preserves earlier states as historical evidence. Phase-end snapshots can preserve or newly disclose a property; they do not automatically assert a new durable personality. Source confidence is HIGH for the indicated support, with unshown transmission and future durability OPEN. Shared causes remain in the linked reading. Main-story family observations/reports do not advance another unit or confer private SEKAI knowledge. No later event evidence, I0–I3 release judgment or reconstruction readiness is imported.
+
+### LN-MS-P01 — episodes 00–03
+
+Source and causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P01_DEEP_READING.md). The following records resolve character responsibility only.
+
+#### LN-ICHIKA-MS-P01
+
+**Prior:** No integrated Leo/need main-story baseline; preserve all existing cross-unit/event-scoped entries.
+
+**Ichika — INITIALIZE_FOUNDATION_SNAPSHOT.** Valid at `PJSK:main:leo_01_03:01 END`. Self-concept: Believes she cannot readily repair the friends’ distance; compares her immobility with admired Miku freedom. Goals: Stay with childhood friends; accompany and protect Saki’s return. Fears/uncertainty: Permanent separation and inability to help.
+
+**Emotion and presentation:** Lonely and hesitant around damaged ties; openly happy with Saki. Minimizes trouble to classmates and offers Saki a benign busyness explanation. **Coping and agency:** Tentative small talk, withdrawal, listening to music and accompanying Saki. Attempts contact but abandons openings; practical companionship remains active. **Speech:** Hesitant toward Shiho/Honami; direct gratitude and affectionate complaint to Saki.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-ICHIKA-MS-P02`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:005:0011`; `PJSK:main:leo_01_01:01:003:0019`; `PJSK:main:leo_01_02:01:002:0029`; `PJSK:main:leo_01_03:01:007:0010`; HIGH. **Limits / OPEN:** Causes of the two withdrawals unknown at this endpoint. Saki’s motive for changing topics is Ichika’s inference.
+
+#### LN-SAKI-MS-P01
+
+**Prior:** No integrated Leo/need main-story baseline; preserve all existing cross-unit/event-scoped entries.
+
+**Saki — INITIALIZE_FOUNDATION_SNAPSHOT.** Valid at `PJSK:main:leo_01_03:01 END`. Self-concept: Returned participant eager for youth; initially expects restored proximity to restore the quartet. Goals: Enjoy school, club, fashion, food and the four friends. Fears/uncertainty: Worry about inconveniencing others through illness; uncertainty about the history she missed.
+
+**Emotion and presentation:** Energetic and playful; explicitly lonely with only Ichika. Cheerful self-introduction and quick return to positive topics; pain is not absent. **Coping and agency:** Initiates outings/invitations, jokes and shares ordinary pleasures. Strong initiative; begins suspecting omitted history. **Speech:** Familiar nicknames; playful mock-formality with Ichika; direct requests.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SAKI-MS-P02`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_01:01:003:0009`; `PJSK:main:leo_01_01:01:003:0014`; `PJSK:main:leo_01_03:01:002:0011`; `PJSK:main:leo_01_03:01:002:0029`; `PJSK:main:leo_01_03:01:007:0005`; HIGH. **Limits / OPEN:** Health stability is not certified by her recovered self-description. Missing middle-school history remains unavailable.
+
+#### LN-HONAMI-MS-P01
+
+**Prior:** No integrated Leo/need main-story baseline; preserve all existing cross-unit/event-scoped entries.
+
+**Honami — INITIALIZE_FOUNDATION_SNAPSHOT.** Valid at `PJSK:main:leo_01_03:01 END`. Self-concept: Self-account not yet disclosed; attachment and social inhibition coexist. Goals: Maintain current peer association while retaining concern for old friends. Fears/uncertainty: Specific cause of inhibited affiliation remains OPEN.
+
+**Emotion and presentation:** Warm concern followed by hesitation; private state only partly shown. Apologetic departures and indirect explanations of knowledge. **Coping and agency:** Deflects questions and changes topic during disparaging talk. Small corrections and concern, limited sustained approach. **Speech:** Familiar name-plus-chan address, hesitations, apologies and soft topic shifts.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-HONAMI-MS-P02`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:004:0004`; `PJSK:main:leo_01_02:01:002:0019`; `PJSK:main:leo_01_02:01:002:0025`; `PJSK:main:leo_01_02:01:004:0019`; `PJSK:main:leo_01_02:01:004:0028`; HIGH. **Limits / OPEN:** Do not attribute past exclusion causes before disclosure. Current classmates have not explicitly banned other friends.
+
+#### LN-SHIHO-MS-P01
+
+**Prior:** No integrated Leo/need main-story baseline; preserve all existing cross-unit/event-scoped entries.
+
+**Shiho — INITIALIZE_FOUNDATION_SNAPSHOT.** Valid at `PJSK:main:leo_01_03:01 END`. Self-concept: Active bassist with restricted social contact; fuller self-account unavailable. Goals: Continue bass practice/work; control access to her time. Fears/uncertainty: Motives behind friendship refusal remain OPEN.
+
+**Emotion and presentation:** Reserved and brief; relief at Saki’s return is explicit. Practical reasons for leaving; observers judge her intimidating. **Coping and agency:** Withdraws or ends conversation rather than explaining. Musical agency active; relational engagement curtailed. **Speech:** Short practical answers; relief at return prevents reducing brevity to dislike.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SHIHO-MS-P02`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:005:0005`; `PJSK:main:leo_01_01:01:002:0020`; `PJSK:main:leo_01_02:01:002:0015`; `PJSK:main:leo_01_03:01:005:0005`; HIGH. **Limits / OPEN:** Solitude, protection and musical standards not yet causally distinguished.
+
+### LN-MS-P02 — episodes 04–08
+
+Source and causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P02_DEEP_READING.md). The following records resolve character responsibility only.
+
+#### LN-ICHIKA-MS-P02
+
+**Prior:** LN-ICHIKA-MS-P01; retain as historical phase endpoint.
+
+**Ichika — ADVANCE_AGENCY_WITH_RETAINED_INHIBITION.** Valid at `PJSK:main:leo_01_08:01 END`. Self-concept: Can do something with Saki even if the quartet cannot yet return; still minimizes past helpful actions. Goals: Practice toward future reunion and answer Saki’s persistence. Fears/uncertainty: Another refusal; having failed Honami in middle school.
+
+**Emotion and presentation:** Hopeful in practice, guilty and uncertain after refusal. Polite checks before visiting; hesitates during invitations. **Coping and agency:** Begins a duo, seeks tuition, approaches Honami and reflects on past. Initiates a feasible step instead of waiting for all four. **Speech:** Tentative invitations coexist with explicit practical proposal.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-ICHIKA-MS-P03`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:004:0014`; `PJSK:main:leo_01_06:01:004:0021`; `PJSK:main:leo_01_07:01:001:0023`; `PJSK:main:leo_01_08:01:001:0042`; `PJSK:main:leo_01_08:01:003:0039`; HIGH. **Limits / OPEN:** Self-blame is not evidence that earlier help was absent. Full causes of withdrawal still unknown.
+
+#### LN-SAKI-MS-P02
+
+**Prior:** LN-SAKI-MS-P01; retain as historical phase endpoint.
+
+**Saki — ADVANCE_TO_PRACTICE_COMMITMENT.** Valid at `PJSK:main:leo_01_08:01 END`. Self-concept: Can pursue hoped-for reunion through learning rather than invitation alone. Goals: Develop synth skill and play with all four. Fears/uncertainty: Refusal persists; uncertainty about what happened while absent.
+
+**Emotion and presentation:** Enthusiastic, playful and receptive to instruction. Optimism and imagined Shiho response; no claim of complete understanding. **Coping and agency:** Persists, thanks helpers, asks technical questions and practices. Accepts duo and technical work; does not yet secure other members. **Speech:** Nickname intimacy and Shiho imitation; polite appreciative exchanges with Luka.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SAKI-MS-P03`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_05:01:001:0064`; `PJSK:main:leo_01_07:01:001:0022`; `PJSK:main:leo_01_07:01:001:0044`; `PJSK:main:leo_01_07:01:001:0055`; `PJSK:main:leo_01_08:01:001:0005`; HIGH. **Limits / OPEN:** Sustainable pacing remains untested.
+
+#### LN-HONAMI-MS-P02
+
+**Prior:** LN-HONAMI-MS-P01; retain as historical phase endpoint.
+
+**Honami — DOCUMENT_EXISTING_STATE_WITH_NEW_PRIVATE_EVIDENCE.** Valid at `PJSK:main:leo_01_08:01 END`. Self-concept: Privately questions continued avoidance and misses the others; public affiliation remains guarded. Goals: Avoid social conflict; care for others; desire companionship she declines. Fears/uncertainty: Remembered demand to choose a side; full origin still undisclosed.
+
+**Emotion and presentation:** Momentary ease about apple pie, then shame/longing. Minimizes closeness to Shiho and gives reasons to leave. **Coping and agency:** Brief mediation, tentative defense, topic deflection and withdrawal. Can correct and converse but rejects a band invitation. **Speech:** Familiar small talk and request for discretion; hesitation under affiliation questions.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-HONAMI-MS-P03`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_05:01:001:0016`; `PJSK:main:leo_01_06:01:003:0032`; `PJSK:main:leo_01_06:01:003:0036`; `PJSK:main:leo_01_08:01:001:0033`; `PJSK:main:leo_01_08:01:002:0006`; HIGH. **Limits / OPEN:** The current classmates are not the source of the recalled accusation. Private longing is not yet transmitted to Ichika.
+
+#### LN-SHIHO-MS-P02
+
+**Prior:** LN-SHIHO-MS-P01; retain as historical phase endpoint.
+
+**Shiho — DOCUMENT_RETAINED_STATE_AND_PROBING_CONCERN.** Valid at `PJSK:main:leo_01_08:01 END`. Self-concept: Serious playing matters; asks whether Honami shares the others’ feeling while retaining refusal. Goals: Maintain musical standards and understand the unexpected shared place. Fears/uncertainty: Specific protective withdrawal logic not yet disclosed.
+
+**Emotion and presentation:** Irritated, observant and guarded; Shizuku notices lower spirits. Dismisses sister’s concern and restricts school approach. **Coping and agency:** Precise musical correction and short social refusals. Initiates inquiry to Honami; does not join. **Speech:** Direct tempo instruction differs from curt private-boundary setting.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SHIHO-MS-P03`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_05:01:001:0011`; `PJSK:main:leo_01_05:01:001:0015`; `PJSK:main:leo_01_06:01:003:0015`; `PJSK:main:leo_01_06:01:003:0046`; `PJSK:main:leo_01_06:01:003:0048`; HIGH. **Limits / OPEN:** Shizuku receives no causal disclosure. Do not generalize School Miku’s interpretation into omniscient fact.
+
+### LN-MS-P03 — episodes 09–11
+
+Source and causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P03_DEEP_READING.md). The following records resolve character responsibility only.
+
+#### LN-ICHIKA-MS-P03
+
+**Prior:** LN-ICHIKA-MS-P02; retain as historical phase endpoint.
+
+**Ichika — ADVANCE_DIRECT_ATTACHMENT_AND_KNOWLEDGE.** Valid at `PJSK:main:leo_01_11:01 END`. Self-concept: Can choose Shiho’s friendship despite others’ judgment; no longer needs interpret distance as dislike. Goals: Earn shared music and remain Shiho’s friend; later approach Honami. Fears/uncertainty: Concern over Saki’s condition; retained outcome-based guilt.
+
+**Emotion and presentation:** Hopeful, moved by return and practically concerned. Hesitant thanks and apologies coexist with direct commitment. **Coping and agency:** Preparation, seeking instruction, care and explicit relational choice. Greater independent declaration after learning Shiho’s reason. **Speech:** Direct promise under relational stakes; ordinary practical shopping advice remains available.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-ICHIKA-MS-P04`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0005`; `PJSK:main:leo_01_10:01:001:0012`; `PJSK:main:leo_01_11:01:001:0019`; `PJSK:main:leo_01_11:01:001:0026`; `PJSK:main:leo_01_11:01:001:0055`; HIGH. **Limits / OPEN:** Disclosure to Honami of Shiho’s complete history is not shown.
+
+#### LN-SAKI-MS-P03
+
+**Prior:** LN-SAKI-MS-P02; retain as historical phase endpoint.
+
+**Saki — ADVANCE_REUNION_WITH_PACING_VULNERABILITY.** Valid at `PJSK:main:leo_01_11:01 END`. Self-concept: Persistence and work can make reunion possible; opportunity is intensely valued. Goals: Join with Shiho and eventually Honami. Fears/uncertainty: Missing the reunion opportunity; reluctance to stop despite illness.
+
+**Emotion and presentation:** Excited, briefly physically unwell, relieved by membership. Conceals cold during the trial; then apologizes and accepts rest. **Coping and agency:** Investment, rehearsal, direct questioning and rapid renewed planning. High initiative; needs others to insist on recovery first. **Speech:** Explicit wishes, joyful response, apology after concealment.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SAKI-MS-P04`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0004`; `PJSK:main:leo_01_09:01:002:0025`; `PJSK:main:leo_01_11:01:001:0009`; `PJSK:main:leo_01_11:01:001:0015`; `PJSK:main:leo_01_11:01:001:0073`; HIGH. **Limits / OPEN:** No disease recurrence or long-term prognosis established. One pressured concealment is not a universal dishonesty trait.
+
+#### LN-HONAMI-MS-P03
+
+**Prior:** LN-HONAMI-MS-P02; retain as historical phase endpoint.
+
+**Honami — DOCUMENT_EXISTING_STATE_WITH_INTENSIFIED_LONELINESS.** Valid at `PJSK:main:leo_01_11:01 END`. Self-concept: Others’ apparent reconciliation ought to be enough, yet she feels lonely. Goals: Want the others to be well while remaining outside. Fears/uncertainty: Previously indicated affiliation fear remains unresolved.
+
+**Emotion and presentation:** Private sadness and ambivalence. Returns to classmates without disclosing longing. **Coping and agency:** Withdraws from observed trio and questions feeling privately. No new public membership or disclosure. **Speech:** No new broad register conclusion; private thought contradicts outward sufficiency.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-HONAMI-MS-P04`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_10:01:003:0006`; `PJSK:main:leo_01_10:01:003:0011`; `PJSK:main:leo_01_10:01:003:0013`; HIGH. **Limits / OPEN:** She only infers possible reconciliation and does not witness the session.
+
+#### LN-SHIHO-MS-P03
+
+**Prior:** LN-SHIHO-MS-P02; retain as historical phase endpoint.
+
+**Shiho — DURABLE_MEMBERSHIP_TRANSITION.** Valid at `PJSK:main:leo_01_11:01 END`. Self-concept: Permits wanting these friends despite believing protective withdrawal safer; calls that wanting weak. Goals: Play seriously with trusted partners and protect friends. Fears/uncertainty: Collateral gossip and harming friends through association.
+
+**Emotion and presentation:** Guarded but relieved/engaged; care overrides trial enforcement during illness. Warning and defensive phrasing precede explicit request to join. **Coping and agency:** Solitary practice, conditional test, urgent care and eventual disclosure. Negotiates rather than unilaterally controls affiliation. **Speech:** Direct standards, immediate practical concern, reluctant disclosure and a membership request.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `LN-SHIHO-MS-P04`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0035`; `PJSK:main:leo_01_09:01:003:0003`; `PJSK:main:leo_01_11:01:001:0014`; `PJSK:main:leo_01_11:01:001:0047`; `PJSK:main:leo_01_11:01:001:0064`; HIGH. **Limits / OPEN:** Preference for solitude persists. Musical seriousness is not a completed professional ambition.
+
+### LN-MS-P04 — episodes 12–20
+
+Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P04_DEEP_READING.md). The following records resolve character responsibility only.
+
+#### LN-ICHIKA-MS-P04
+
+**Prior:** LN-ICHIKA-MS-P03; retain as historical phase endpoint.
+
+**Ichika — DURABLE_SELF_AUTHORIZED_RELATIONAL_AGENCY.** Valid at `PJSK:main:leo_01_20:01 END`. Self-concept: Own desire to be with all four has value; recovered agency is evidenced by friends and old lyrics. Goals: Maintain reciprocal group belonging; make music and share new lyrics. Fears/uncertainty: Potential inability to help, embarrassment and uncertain response remain vulnerabilities.
+
+**Emotion and presentation:** Affectionate and hopeful with ordinary embarrassment. Offers her lyrics while asking friends not to read them in front of her; embarrassment coexists with chosen authorship. **Coping and agency:** Consults helpers, uses person-specific shared memory and makes direct request. Creates repair encounter and resumes writing. **Speech:** First-person wanting becomes explicit; calm, tentative and teasing registers persist.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `OPEN: next founded longitudinal event state`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_15:01:003:0019`; `PJSK:main:leo_01_16:01:003:0012`; `PJSK:main:leo_01_17:01:001:0029`; `PJSK:main:leo_01_18:01:003:0026`; `PJSK:main:leo_01_20:01:005:0025`; HIGH. **Limits / OPEN:** Do not call this first-ever initiative. Durability outside these relationships needs later evidence.
+
+#### LN-SAKI-MS-P04
+
+**Prior:** LN-SAKI-MS-P03; retain as historical phase endpoint.
+
+**Saki — ADVANCE_RECIPROCAL_CARE_AND_BELONGING.** Valid at `PJSK:main:leo_01_20:01 END`. Self-concept: Can value a friend’s present ties while recognizing that her own wish and grief also matter. Goals: Share life/music as four; pursue ordinary youth sustainably. Fears/uncertainty: Absence-related guilt and loss of shared time; overexertion risk remains.
+
+**Emotion and presentation:** Bright and playful, capable of grief and earnest apology. Insists relinquishment is fine while crying; ending makes own wish shareable. **Coping and agency:** Restraint, apology, practice, concern and collaborative naming. Stops pressure when she believes it harmful; later joins repair without erasing desire. **Speech:** Playfulness, formal apology and explicit sadness are context-dependent.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `OPEN: next founded longitudinal event state`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_13:01:002:0051`; `PJSK:main:leo_01_13:01:002:0058`; `PJSK:main:leo_01_14:01:005:0021`; `PJSK:main:leo_01_16:01:002:0006`; `PJSK:main:leo_01_19:01:001:0009`; `PJSK:main:leo_01_20:01:005:0019`; HIGH. **Limits / OPEN:** Health remains a practical limit; no cure/prognosis inferred. Absence-related guilt is not objective culpability.
+
+#### LN-HONAMI-MS-P04
+
+**Prior:** LN-HONAMI-MS-P03; retain as historical phase endpoint.
+
+**Honami — DURABLE_AFFILIATION_AND_DISCLOSURE_TRANSITION.** Valid at `PJSK:main:leo_01_20:01 END`. Self-concept: May belong despite having hurt friends; multiple friendships can coexist in the tested current class. Goals: Play with the group, preserve current friendships and communicate more openly. Fears/uncertainty: Fear of being disliked and shame remain meaningful despite local success.
+
+**Emotion and presentation:** Relieved, happy and still self-critical. Less need for evasive excuses in the repaired contexts; apologetic language remains. **Coping and agency:** Names fear, accepts invitation and initiates classroom disclosure. Moves from restricted affiliation to active bridge-building. **Speech:** Asks for time to speak; introduces wishes and thanks; familiar warmth persists.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `OPEN: next founded longitudinal event state`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_12:01:002:0078`; `PJSK:main:leo_01_18:01:003:0061`; `PJSK:main:leo_01_19:01:001:0026`; `PJSK:main:leo_01_19:01:001:0034`; `PJSK:main:leo_01_20:01:003:0004`; `PJSK:main:leo_01_20:01:003:0013`; HIGH. **Limits / OPEN:** No universal social safety or permanent fear removal established. Elided classroom account does not establish SEKAI disclosure.
+
+#### LN-SHIHO-MS-P04
+
+**Prior:** LN-SHIHO-MS-P03; retain as historical phase endpoint.
+
+**Shiho — REFINE_CONFLICT_AND_REPAIR_WITH_MEMBERSHIP_RETAINED.** Valid at `PJSK:main:leo_01_20:01 END`. Self-concept: Can be committed and perceptive while acknowledging hurtful speech and accepting reciprocal affirmation. Goals: Serious band practice, friends’ well-being and constructive continued belonging. Fears/uncertainty: Causing harm through pressure or bluntness; sentimental exposure uncomfortable.
+
+**Emotion and presentation:** Engaged, still blunt and teasing, privately self-critical after injury. Minimizes own concern/embarrassment without negating it. **Coping and agency:** Solo bass to clear head, direct action, private disclosure and explicit apology. Remains decisive while admitting intervention failed. **Speech:** Sharp accusation is qualified by regret and apology; praise and practical instruction remain.
+
+**Relational dependence:** Apply independent LN relationship/epistemic records for this phase; do not import later disclosure. **Historical resolution:** historical boundary snapshot; P04 is foundation-current only, not event-current. Next pointer: `OPEN: next founded longitudinal event state`.
+
+**Evidence / confidence:** `PJSK:main:leo_01_15:01:002:0030`; `PJSK:main:leo_01_15:01:003:0005`; `PJSK:main:leo_01_15:01:003:0009`; `PJSK:main:leo_01_16:01:001:0007`; `PJSK:main:leo_01_19:01:001:0014`; `PJSK:main:leo_01_20:01:005:0009`; HIGH. **Limits / OPEN:** Do not make harshness the single effective cure. Standards, friendship and autonomy still require future negotiation.
+
+## Vivid BAD SQUAD main-story foundation — serial phase history
+
+All records below are bounded to their named phase and internal transition time. HIGH confidence identifies source-supported interpretation, not proof of unshown thought or future durability. The phase reading owns shared causes; each ledger retains only its responsibility. Earlier history remains valid when a successor becomes the later default. No other-unit private knowledge or later-event state is imported. The main-story ending does not establish reconstruction readiness.
+
+### VBS-MS-P01 — episodes 00–04
+
+Causal/evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P01_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-KOHANE-MS1
+
+**Prior:** NOT_INITIALIZED; MS0 inhibited school participation and no claimed dream
+
+**Azusawa Kohane:** Chosen novice partner willing to try singing with An; not yet secure in ability or independent resolve. **Goals:** Try shared music and an event; find a personally meaningful direction. **Fears / unresolved limits:** Public attention, disappointing others, being a burden.
+
+**Emotion:** Excited and anxious. **Coping / presentation:** Apology, self-minimization, flight under attention; private research and practice. **Agency:** Errand completion, chosen return, accepts invitation after An gives time to decide. **Speech:** Polite/hesitant with adults and unfamiliar peers; longer excited arrangement talk; An-chan after explicit invitation.
+
+**Historical chain:** `VBS-KOHANE-MS0` → `VBS-KOHANE-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_01:01:001:0005`; `PJSK:main:street_01_02:01:004:0015`; `PJSK:main:street_01_03:01:002:0027`; `PJSK:main:street_01_04:01:002:0034`. Confidence: HIGH.
+
+#### VBS-AN-MS1
+
+**Prior:** NOT_INITIALIZED; MS0 selective partner search with fixed RAD WEEKEND ambition
+
+**Shiraishi An:** Has found a personally wanted partner; confidence now invested in their shared possibility. **Goals:** Exceed RAD WEEKEND with companions; sing more with Kohane. **Fears / unresolved limits:** Settling for partners who dismiss the goal; novice readiness remains unknown.
+
+**Emotion:** Confident, delighted, socially active. **Coping / presentation:** Initiative, invitation, encouragement and a mutual-help promise. **Agency:** Café work and public singing; asks Kohane to partner. **Speech:** Casual first names, direct invitations, intimate warmth; practical family banter.
+
+**Historical chain:** `VBS-AN-MS0` → `VBS-AN-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_00:01:003:0006`; `PJSK:main:street_01_03:01:002:0035`; `PJSK:main:street_01_04:01:002:0015`; `PJSK:main:street_01_04:01:002:0028`. Confidence: HIGH.
+
+#### VBS-AKITO-MS1
+
+**Prior:** NOT_INITIALIZED; MS0 established BAD DOGS performer
+
+**Shinonome Akito:** Committed performer scrutinizing an inexperienced new partner; event proposal follows discovery of novice status. **Goals:** Exceed RAD WEEKEND; work with ability and resolve. **Fears / unresolved limits:** Others trivializing the target; unproven collaborator.
+
+**Emotion:** Proud, evaluative, irritated by dismissal. **Coping / presentation:** Hard standards and direct challenge; newcomer-facing courtesy. **Agency:** Regular performances, set-list planning, proposes event. **Speech:** Polite to staff/newcomers and rough among familiar musicians; motive of invitation still OPEN.
+
+**Historical chain:** `VBS-AKITO-MS0` → `VBS-AKITO-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_04:01:001:0007`; `PJSK:main:street_01_04:01:001:0013`; `PJSK:main:street_01_04:01:001:0021`; `PJSK:main:street_01_04:01:002:0060`; `PJSK:main:street_01_04:01:002:0066`. Confidence: HIGH.
+
+#### VBS-TOYA-MS0
+
+**Prior:** NOT_INITIALIZED
+
+**Aoyagi Toya:** Effective reserved BAD DOGS partner whose private motives are not yet established. **Goals:** Perform well; adapt repertoire to audience. **Fears / unresolved limits:** Not established at this boundary.
+
+**Emotion:** Restrained and task-focused. **Coping / presentation:** Concise practical cooperation; does not explain silence. **Agency:** Anticipates set-list needs and eases Kohane honorific distance. **Speech:** Plain declarative speech and brief request to avoid honorifics.
+
+**Historical chain:** `VBS-TOYA-MS0`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_04:01:001:0008`; `PJSK:main:street_01_04:01:001:0011`; `PJSK:main:street_01_04:01:002:0047`. Confidence: HIGH.
+
+### VBS-MS-P02 — episodes 05–08
+
+Causal/evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P02_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-KOHANE-MS2
+
+**Prior:** VBS-KOHANE-MS1
+
+**Azusawa Kohane:** Practiced novice with an upcoming event; values shared music but still questions whether the dream is truly hers. **Goals:** Sing with An and pursue a shared dream. **Fears / unresolved limits:** Event audience, unfamiliar people, burdening An.
+
+**Emotion:** Hopeful with recurring nervousness. **Coping / presentation:** Reliance on An safety, honest qualification, practice despite fear. **Agency:** Joins public practice, answers Toya candidly, seeks clothing advice. **Speech:** Hesitant polite speech to Toya shifts toward plain after correction; explicit qualified account of desire.
+
+**Historical chain:** `VBS-KOHANE-MS2`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_05:01:001:0011`; `PJSK:main:street_01_06:01:002:0033`; `PJSK:main:street_01_07:01:003:0022`; `PJSK:main:street_01_08:01:004:0016`; `PJSK:main:street_01_08:01:004:0021`. Confidence: HIGH.
+
+#### VBS-AN-MS1
+
+**Prior:** VBS-AN-MS1
+
+**Shiraishi An:** Confident partner/mentor preserved; provides practice, repertoire and scene access. **Goals:** Prepare the pair for the debut. **Fears / unresolved limits:** No new stated fear; miscalibration of novice experience remains a vulnerability.
+
+**Emotion:** Optimistic and energetic. **Coping / presentation:** Reassurance and direct exposure. **Agency:** Leads public practice and event planning. **Speech:** Casual encouragement and familiar community greetings.
+
+**Historical chain:** `VBS-AN-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_05:01:001:0010`; `PJSK:main:street_01_07:01:003:0015`; `PJSK:main:street_01_08:01:003:0004`. Confidence: HIGH.
+
+#### VBS-AKITO-MS1
+
+**Prior:** VBS-AKITO-MS1
+
+**Shinonome Akito:** Gatekeeping/test motive explicit; old soccer history explains existing standard rather than a new current psychological change. **Goals:** Demonstrate novice pair inadequacy through music. **Fears / unresolved limits:** Trivialization of RAD WEEKEND ambition.
+
+**Emotion:** Determined, contemptuous privately. **Coping / presentation:** Public courtesy/private hostility; rejects outside interference. **Agency:** Plans decisive musical comparison; helps staff with equipment. **Speech:** Welcoming politeness in public, rough evaluative speech privately.
+
+**Historical chain:** `VBS-AKITO-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0006`; `PJSK:main:street_01_05:01:002:0015`; `PJSK:main:street_01_08:01:001:0021`; `PJSK:main:street_01_08:01:002:0004`. Confidence: HIGH.
+
+#### VBS-TOYA-MS1
+
+**Prior:** VBS-TOYA-MS0
+
+**Aoyagi Toya:** Operational partner develops evaluative dissent and unresolved self-comparison around half-heartedness. **Goals:** Improve audience connection and judge the girls fairly. **Fears / unresolved limits:** Legitimacy-related unease is suggested; precise origin remains unrevealed.
+
+**Emotion:** Reserved, thoughtful, increasingly troubled. **Coping / presentation:** Private practice; direct questions to Kohane; incomplete self-disclosure to Akito. **Agency:** Corrects Akito technical detail, observes pair, attempts an event-day intervention. **Speech:** Concise technical directives, formal plain speech, unfinished Ore wa statements.
+
+**Historical chain:** `VBS-TOYA-MS1`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0016`; `PJSK:main:street_01_07:01:003:0047`; `PJSK:main:street_01_07:01:004:0011`; `PJSK:main:street_01_08:01:004:0009`; `PJSK:main:street_01_08:01:006:0014`. Confidence: HIGH.
+
+### VBS-MS-P03 — episodes 09–13
+
+Causal/evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P03_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-KOHANE-MS4
+
+**Prior:** VBS-KOHANE-MS2
+
+**Azusawa Kohane:** Debut collapse and self-condemnation give way to own wish and renewed action under continuing fear. **Goals:** Sing with An; excite listeners; exceed RAD WEEKEND together. **Fears / unresolved limits:** Failure/burden and public exposure persist.
+
+**Emotion:** MS3 ashamed and withdrawn; MS4 purposeful and still nervous. **Coping / presentation:** MS3 avoids replies and seeks café; MS4 recalls meaningful experience and states desire. **Agency:** Returns to An, challenges Akito, leads singing at rematch. **Speech:** From apology and silence to direct contradiction; retains hesitant polite public thanks.
+
+**Historical chain:** `VBS-KOHANE-MS2` → `VBS-KOHANE-MS3 at10 after debut` → `VBS-KOHANE-MS4 from11 choice; tested12–13`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_10:01:003:0004`; `PJSK:main:street_01_11:01:003:0052`; `PJSK:main:street_01_12:01:001:0027`; `PJSK:main:street_01_13:01:005:0013`; `PJSK:main:street_01_13:01:005:0021`. Confidence: HIGH.
+
+#### VBS-AN-MS3
+
+**Prior:** VBS-AN-MS1
+
+**Shiraishi An:** Protective guilt after disrupted debut is followed by renewed confidence in a partner who now voices her own commitment. **Goals:** Keep Kohane connected to music; perform together and challenge rivals. **Fears / unresolved limits:** Failure to keep mutual-help promise; loss of contact.
+
+**Emotion:** MS2 worried and guilty; MS3 relieved and determined. **Coping / presentation:** Defends partner; attempts direct contact; supports challenge. **Agency:** Continues a cappella, pursues contact, backs rematch. **Speech:** Protective reassurance, joint challenge and post-recognition teasing.
+
+**Historical chain:** `VBS-AN-MS1` → `VBS-AN-MS2 after debut/contact failure` → `VBS-AN-MS3 from12 reaffirmation`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_09:01:002:0039`; `PJSK:main:street_01_11:01:006:0007`; `PJSK:main:street_01_12:01:001:0016`; `PJSK:main:street_01_13:01:005:0059`. Confidence: HIGH.
+
+#### VBS-AKITO-MS2
+
+**Prior:** VBS-AKITO-MS1
+
+**Shinonome Akito:** Recognizes Vivids seriousness after rematch; competitive ambition remains, literal sabotage account still false for girls. **Goals:** Improve and surpass benchmark alongside Toya; now treat Vivids as real rivals. **Fears / unresolved limits:** Insufficient seriousness; challenge to dream.
+
+**Emotion:** Harsh under failure, then impressed and competitively motivated. **Coping / presentation:** False blame-taking framed as no excuses; revises evaluation on contrary performance evidence. **Agency:** Agrees to fair hearing, later acknowledges and apologizes. **Speech:** Rough disparagement and orders; short direct praise/apology.
+
+**Historical chain:** `VBS-AKITO-MS2`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_09:01:001:0007`; `PJSK:main:street_01_10:01:002:0034`; `PJSK:main:street_01_13:01:005:0052`; `PJSK:main:street_01_13:01:005:0057`; `PJSK:main:street_01_13:01:005:0065`. Confidence: HIGH.
+
+#### VBS-TOYA-MS2
+
+**Prior:** VBS-TOYA-MS1
+
+**Aoyagi Toya:** Believes he alone lacks pure resolve; endorses girls legitimacy and withdraws as supposedly unfit partner. **Goals:** Protect Akito dream by leaving; refuses return to classical music. **Fears / unresolved limits:** Being a burden or insufficiently authentic beside Akito.
+
+**Emotion:** Privately ashamed and resolved to leave. **Coping / presentation:** Mediation for others, comparison against self, incomplete self-disclosure then exit statement. **Agency:** Wins fair hearing, offers rematch venue, announces departure. **Speech:** Direct toward father and in exit statement; inner self-condemnation not yet told to Akito.
+
+**Historical chain:** `VBS-TOYA-MS2`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_13:01:002:0009`; `PJSK:main:street_01_13:01:002:0015`; `PJSK:main:street_01_13:01:002:0023`; `PJSK:main:street_01_13:01:005:0045`; `PJSK:main:street_01_13:01:005:0070`. Confidence: HIGH.
+
+### VBS-MS-P04 — episodes 14–20
+
+Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P04_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-KOHANE-MS4
+
+**Prior:** VBS-KOHANE-MS4
+
+**Azusawa Kohane:** Self-owned commitment broadens into independent care and group contribution; anxiety and self-minimization persist. **Goals:** Sing with chosen companions; become someone others can rely upon. **Fears / unresolved limits:** Being intrusive or a burden; unfamiliar social situations.
+
+**Emotion:** Purposeful and caring with residual nervousness. **Coping / presentation:** Asks difficult questions, persists after uncertainty, accepts An practical support. **Agency:** Initiates concern before sabotage correction; questions Toya; proposes SQUAD. **Speech:** Hesitant in awkward meetings, direct about own desire, spontaneous contribution in trusted group.
+
+**Historical chain:** `VBS-KOHANE-MS4`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_15:01:004:0025`; `PJSK:main:street_01_16:01:001:0016`; `PJSK:main:street_01_16:01:001:0028`; `PJSK:main:street_01_20:01:004:0026`; `PJSK:main:street_01_20:01:004:0031`. Confidence: HIGH.
+
+#### VBS-AN-MS4
+
+**Prior:** VBS-AN-MS3
+
+**Shiraishi An:** Chooses four-person collaboration after supporting Kohane initiative and revising false beliefs about the boys. **Goals:** Advance beyond RAD WEEKEND through this group; sustain Kohane partnership. **Fears / unresolved limits:** Future group durability untested.
+
+**Emotion:** Warm, confident, competitively animated. **Coping / presentation:** Practical access, assistance, teasing, reappraisal on disclosure. **Agency:** Arranges courtyard talk; proposes unit based on joint singing. **Speech:** Casual affection to Kohane, rivalry to Akito, practical customer service.
+
+**Historical chain:** `VBS-AN-MS4`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_15:01:007:0004`; `PJSK:main:street_01_16:01:001:0030`; `PJSK:main:street_01_20:01:004:0008`; `PJSK:main:street_01_20:01:004:0013`. Confidence: HIGH.
+
+#### VBS-AKITO-MS3
+
+**Prior:** VBS-AKITO-MS2
+
+**Shinonome Akito:** Explicitly accepts reciprocal dependence and values present desire over pure origins; restored partner and collaborative rival. **Goals:** Continue with Toya; use four-person collaboration to pursue benchmark. **Fears / unresolved limits:** Loss of valued partner; threats to commitment.
+
+**Emotion:** Hurt and defensive during break, then candid and motivated. **Coping / presentation:** First literalizes breakup and denies relation; accepts care, reopens interpretation and requests disclosure access. **Agency:** Seeks Toya, states need and refuses substitute, endorses group. **Speech:** Rough emotional confession; polite self-correction to MEIKO and phone courtesy to Ken.
+
+**Historical chain:** `VBS-AKITO-MS3`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_17:01:001:0003`; `PJSK:main:street_01_17:01:001:0036`; `PJSK:main:street_01_19:01:001:0019`; `PJSK:main:street_01_19:01:001:0029`; `PJSK:main:street_01_19:01:001:0032`; `PJSK:main:street_01_20:01:004:0017`. Confidence: HIGH.
+
+#### VBS-TOYA-MS3
+
+**Prior:** VBS-TOYA-MS2
+
+**Aoyagi Toya:** Accepts his valued place beside Akito and owns the present shared wish despite oppositional musical origin. **Goals:** Sing with Akito, exceed RAD WEEKEND, contribute to new group. **Fears / unresolved limits:** Family conflict remains; self-disqualification may remain a vulnerability beyond this bounded repair.
+
+**Emotion:** Relieved and newly unguarded in relation, otherwise restrained. **Coping / presentation:** Stops protective withdrawal after reciprocal testimony; apologizes and recommits. **Agency:** Discloses to café listeners, finally states desire to Akito, participates in group. **Speech:** Respectful to Ken; defensive harshness during rupture; emphatic desire then concise recommitment.
+
+**Historical chain:** `VBS-TOYA-MS3`. Apply separate phase relationship deltas. Apply separate phase epistemic deltas. This is a historical foundation state; the later main-story default does not erase its intermediate crisis.
+
+**Evidence:** `PJSK:main:street_01_18:01:001:0044`; `PJSK:main:street_01_19:01:001:0037`; `PJSK:main:street_01_19:01:001:0047`; `PJSK:main:street_01_19:01:001:0064`; `PJSK:main:street_01_20:01:002:0015`. Confidence: HIGH.
+
+## MORE MORE JUMP! main-story foundation — serial phase history
+
+Records are valid at their named phase boundary and preserve earlier ignorance, interrupted repair and historically valid states. A preserved human ID receives refinement without an automatic global transition. Source confidence is HIGH for the supported interpretation; unshown transmission, broader durability and future outcomes remain OPEN. Shared causes belong to each phase reading. These are historical main-story defaults, not replacements for later cross-unit states or certification of character readiness.
+
+### MMJ-MS-P01 — through `PJSK:main:mmj_01_04:01`
+
+Causal and evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P01_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-01
+
+**Prior:** No substantive MMJ foundation; opening retrospective: perceived misfortune/avoidance becomes hope through Haruka.
+
+**Bounded state / claim:** Hopeful novice after fifty rejections; accepts Haruka retirement, seeks instruction, recognizes perseverance as a strength; private excitement and insecurity, solitary effort and new teacher dependence coexist.
+
+**Self-concept:** Aspiring idol after fifty rejected applications; begins recognizing persistence as a real strength despite weak credentials. **Goals:** Become like Haruka and give others hope; improve through instruction and pass the next audition. **Fears / uncertainty:** Audition failure and inadequate skill recur; nervous about imposing on admired professionals. Does not know their private troubles.
+
+**Emotion and presentation:** Excitable and hopeful but vulnerable to discouragement; acceptance of retirement coexists with intense admiration. Eager, deferential novice; privately much more overwhelmed by Haruka than her attempted ordinary conversation conveys. **Coping:** Self-exhortation, remembered encouragement, repeated practice and applications; now asks for practical help rather than working entirely alone. **Agency:** Initiates applications, practice and the request for teaching; can decide to respect Haruka’s declared choice despite personal disappointment. **Speech:** Hesitant polite requests and senior address; excited internal repetition. Haruka expressly permits familiar peer speech, which initially embarrasses her.
+
+**Relational dependencies:** Haruka’s example sustains hope; Airi and Shizuku newly supply different teaching strengths. No secure professional membership yet.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:001:0001–0041`; `PJSK:main:mmj_01_01:01:004:0015–0024`; `PJSK:main:mmj_01_04:01:003:0013–0030`. Confidence: HIGH.
+
+#### MMJ-HR-MS-01
+
+**Prior:** No substantive MMJ foundation; opening declares retirement, cause unrevealed.
+
+**Bounded state / claim:** Retired self-described ordinary student; seeks reading/privacy, permits peer address, defends Minori and observes rooftop practice. Private cause and continuing desire OPEN.
+
+**Self-concept:** Defines herself publicly as an ordinary high-school student who has left idol work. Private retirement cause remains OPEN. **Goals:** Resume ordinary schooling and find quiet reading space; protect Minori’s prior right to rehearse when challenged. **Fears / uncertainty:** Unwanted attention is directly shown; deeper fears, private reasons for retirement and any wish to return remain OPEN at this cutoff.
+
+**Emotion and presentation:** Controlled and observant, with moments of warmth; quieter responses around Minori’s aspiration require explanation still unavailable here. Courteous returned student and retired professional; privately seeks relief from attention and reads near Minori’s practice. **Coping:** Seeks privacy and reading; uses direct boundary-setting when accused. Do not infer later clinical or guilt-related mechanisms yet. **Agency:** Chooses her school arrangement, offers address permission and counters Airi; does not volunteer to teach or perform. **Speech:** Formal school/teacher language; polite but pointed disagreement with Airi; friendly peer invitation to Minori.
+
+**Relational dependencies:** New peer contact with Minori and prior professional acquaintance with Shizuku; dependence on others for an undisclosed crisis is OPEN.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:005:0036–0039`; `PJSK:main:mmj_01_01:01:004:0004–0005`; `PJSK:main:mmj_01_02:01:001:0036–0038`; `PJSK:main:mmj_01_02:01:001:0054–0065`. Confidence: HIGH.
+
+#### MMJ-AI-MS-01
+
+**Prior:** No substantive MMJ foundation; former QT/variety association established.
+
+**Bounded state / claim:** Blunt, industry-aware critic becomes conditional teacher through remembered idol norm; actionable standards and praise coexist with public recognition discomfort. No cause imported yet.
+
+**Self-concept:** Former idol associated publicly with variety work; knowledgeable critic who can still enact the idol norm she formerly taught Shizuku. **Goals:** Get clarity about Shizuku’s rumors; evaluate and then improve Minori’s audition preparation under a stated failure condition. **Fears / uncertainty:** Industry odds and Minori’s weak preparation are explicit concerns; private reasons for her own retirement and their emotional extent remain OPEN.
+
+**Emotion and presentation:** Irritable and demanding in conflict; engaged, approving and useful once teaching. Public classification discomfort is visible but unexplained. Assertive senior/professional authority; discomfort after passersby misclassify her is not explained to the others. **Coping:** Challenges vague answers, invokes standards and supplies corrections; may retreat rather than answer public attention. Deeper motive remains OPEN. **Agency:** Initiates confrontation and controls the lesson; agrees to help after Shizuku recalls her own values, not because she suddenly endorses effortless success. **Speech:** Direct questions, imperatives and アンタ; sharp evaluation can become practical instruction and praise without abandoning directness.
+
+**Relational dependencies:** Established trainee-history bond with Shizuku can recall her ideals; Minori creates a new teaching role; Haruka challenges her authority.
+
+**Evidence:** `PJSK:main:mmj_01_03:01:001:0002–0030`; `PJSK:main:mmj_01_04:01:001:0013–0018`; `PJSK:main:mmj_01_04:01:003:0035–0048`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-01
+
+**Prior:** No substantive MMJ foundation; current center and Airi trainee companion.
+
+**Bounded state / claim:** Working idol with unresolved rumors; actively defends Minori dream, offers bounded teaching and validates effort; silence toward Airi conceals an unestablished problem.
+
+**Self-concept:** Current idol/center who values giving hope and effort; a former trainee partner of Airi. Present work conflict is not yet explained. **Goals:** Protect Minori’s aspiration and teach on available days; continue work while deferring Airi’s rumor questioning. **Fears / uncertainty:** Silence around rumors shows unresolved concern; the specific feared consequences, colleagues’ conduct and future work choices remain OPEN.
+
+**Emotion and presentation:** Composed and encouraging in the lesson; hesitant or silent under Airi’s private pressure. Hidden strain is not yet fully characterized. Gentle senior and working professional; can oppose a harmful statement clearly while remaining reassuring. **Coping:** Invokes remembered values, offers practical teaching and validates effort; delays answering a sensitive question, with reasons still OPEN. **Agency:** First to challenge dismissal of Minori’s dream and first to accept teaching; her gentle manner does not erase initiative. **Speech:** Reassuring questions and gentle endings; direct request that Airi not negate the novice’s dream; calls Airi by familiar name.
+
+**Relational dependencies:** Shared trainee history and remembered Airi ideals are important; new teaching connection to Minori; prior professional contact with Haruka.
+
+**Evidence:** `PJSK:main:mmj_01_02:01:001:0040–0046`; `PJSK:main:mmj_01_03:01:001:0024–0030`; `PJSK:main:mmj_01_04:01:001:0008–0014`; `PJSK:main:mmj_01_04:01:003:0024–0027`. Confidence: HIGH.
+
+#### MMJ-VS-STAGE-01
+
+**Prior:** No MMJ-local manifestation record
+
+**Bounded state / claim:** Initialize Stage Miku/Rin only: invitation to find feelings, friendly encouragement, Miku describes learning dance from Rin. Opening encounter later treated as dream by Minori.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:005:0007–0033`; `PJSK:main:mmj_01_03:01:001:0047–0057`. Confidence: HIGH. **OPEN:** Opening versus later first-meeting phrasing remains unexplained.
+
+### MMJ-MS-P02 — through `PJSK:main:mmj_01_08:01`
+
+Causal and evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P02_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-01
+
+**Prior:** MMJ-MN-MS-01
+
+**Bounded state / claim:** PRESERVE; receives practical training/care, enjoys Stage live, notices sadness and absence without knowing private causes; continues aspiration after Haruka withdraws.
+
+**Self-concept:** PRESERVE MMJ-MN-MS-01: hopeful technical novice; improvement and received help do not remove appearance insecurity or lack of credentials. **Goals:** PRESERVE aspiration and audition work; continue practicing despite unexplained mentor absence and Haruka’s departure from the rooftop. **Fears / uncertainty:** Worries about comparing poorly with prettier applicants; notices others’ sadness but does not know Airi/Shizuku conflict or Haruka’s private cause.
+
+**Emotion and presentation:** PRESERVE excited hope with discouragement; enjoys the Stage live, then feels concern and disappointment at reduced companionship. Grateful learner and enthusiastic audience member; can thank Haruka for earlier support rather than accuse her when she leaves. **Coping:** PRESERVE practice and self-encouragement; accepts reassurance and practical injury care, sends a request for further teaching. **Agency:** PRESERVE self-directed rehearsal and requests for help; observes distress without having an informed intervention plan. **Speech:** PRESERVE polite senior address and familiar Haruka address; enthusiastic exclamation, small comic protest and sincere gratitude.
+
+**Relational dependencies:** PRESERVE Haruka as admired model and seniors as teachers; their reduced availability weakens the arrangement. Stage singers add encouragement.
+
+**Evidence:** `PJSK:main:mmj_01_05:01:005:0005–0014`; `PJSK:main:mmj_01_07:01:001:0020–0035`; `PJSK:main:mmj_01_08:01:004:0002–0024`. Confidence: HIGH.
+
+#### MMJ-HR-MS-02
+
+**Prior:** MMJ-HR-MS-01
+
+**Bounded state / claim:** Self-disqualification and accusation fragment reader-visible; remembers blue audience view, enjoys live but leaves and stops attending practice while retaining friendly contact. Injury/cause not yet disclosed.
+
+**Self-concept:** Retired idol who privately judges herself unqualified; retains a valued memory of stage/audience connection. Full causal explanation remains OPEN. **Goals:** Maintain student life and leave rehearsal proximity; still offers contact with Minori and gives specific practical care. **Fears / uncertainty:** A remembered accusation is linked to self-disqualification; accuser identity, injury history, bodily barrier and prior treatment are not yet disclosed.
+
+**Emotion and presentation:** Can enjoy the live and speak warmly while feeling loss; withdrawal and private self-denial coexist with that pleasure. Polite appreciation and ordinary-study explanation in company; private remembered accusation and self-condemnation are reader-only here. **Coping:** Withdraws from the live and later practice proximity while preserving the friendship; broader coping history remains OPEN. **Agency:** Chooses to leave, changes reading location and retains control over contact; neither performs nor agrees to instruction. **Speech:** Thanks the singers politely, uses a parting farewell, and privately denies her idol qualification; offers Minori familiar, considerate contact.
+
+**Relational dependencies:** Minori remains a valued contact rather than a rejected person; Stage encounter recalls lost audience connection but does not resolve it.
+
+**Evidence:** `PJSK:main:mmj_01_06:01:001:0052–0060`; `PJSK:main:mmj_01_07:01:002:0006–0010`; `PJSK:main:mmj_01_08:01:004:0009–0028`. Confidence: HIGH.
+
+#### MMJ-AI-MS-02
+
+**Prior:** MMJ-AI-MS-01
+
+**Bounded state / claim:** Agency role-redirection and failed move explain recognition wound; retains stage desire and former enjoyment of variety; comparative defense harms Shizuku and produces immediate attempted apology.
+
+**Self-concept:** Would-be stage idol who experiences institutional redirection as denial of her desired identity; enjoyed and learned variety work before it displaced idol activity. **Goals:** Has wanted to deliver hope from idol stages; now struggles to believe desire and effort can secure that role. **Fears / uncertainty:** Believes industry and viewers do not recognize her as an idol; comparison with Shizuku makes affirmation feel inaccessible.
+
+**Emotion and presentation:** Longing and bitterness intensify into an envious outburst, immediately followed by recognition of hurt and an interrupted apology. Can teach and show concern in ordinary practice; privately discloses professional frustration to Shizuku and attacks her innate advantages. **Coping:** Previously studied and accepted opportunities, protested and changed agencies; now uses withdrawal and comparative defensiveness, with incomplete attempted repair. **Agency:** Prior attempts to alter work failed; current directness produces interpersonal harm rather than a viable new work choice. Repair is not completed. **Speech:** Dismissal of reassurance escalates through やめて into personal comparative accusations; begins an apology as Shizuku leaves.
+
+**Relational dependencies:** Shizuku is both valued friend and painful comparison target; Minori remains a learner, but final rehearsal is not attended.
+
+**Evidence:** `PJSK:main:mmj_01_07:01:004:0019–0040`; `PJSK:main:mmj_01_08:01:002:0002–0019`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-02
+
+**Prior:** MMJ-SZ-MS-01
+
+**Bounded state / claim:** Repeated appearance reduction at work and Airi matching accusation rupture trusted encouragement; privately thinks others changed and withdraws. Retirement not established at this cutoff.
+
+**Self-concept:** Idol striving to give hope whose work is reduced by colleagues to beauty; Airi’s matching judgment undermines the ideal that previously helped her persist. **Goals:** Had tried to sustain cooperative work and effort for fans; current direction after the friendship wound is OPEN. **Fears / uncertainty:** Repeated denigration and loss of trusted encouragement threaten her reason to continue; formal departure is not yet established at this cutoff.
+
+**Emotion and presentation:** Composed at work despite hurt; distressed and withdrawn after Airi’s attack, privately feeling that others have changed. Maintains professional civility and reassurance toward Minori; private pain and remembered trainee insecurity contrast with public idealization. **Coping:** Previously continued cooperative overtures despite overheard hostility; now leaves the quarrel and is absent from the lesson. New solution remains OPEN. **Agency:** Earlier supportive initiative persists historically, but current action is withdrawal; do not assign the later retirement decision to this phase. **Speech:** Reassuring heart/effort language in teaching; private 愛莉ちゃんまで makes the familiar speaker’s participation in denigration decisive.
+
+**Relational dependencies:** Airi’s early hope-giving words supported her chosen effort; that trust ruptures. Current group colleagues are a recurring source of harm.
+
+**Evidence:** `PJSK:main:mmj_01_05:01:002:0008–0013`; `PJSK:main:mmj_01_08:01:003:0007–0039`. Confidence: HIGH.
+
+### MMJ-MS-P03 — through `PJSK:main:mmj_01_12:01`
+
+Causal and evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P03_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-02
+
+**Prior:** MMJ-MN-MS-01
+
+**Bounded state / claim:** Admits ignorance but owns chosen path; encourages Airi, accompanies apology and restrains escalation by invoking idol duty. Fellow aspirant/ethical helper remains technical novice.
+
+**Self-concept:** Still a learner, now explicitly a fellow aspirant and someone whose commitment can encourage and ethically restrain an experienced idol. **Goals:** Continue chosen idol path; help Airi apologize, protect her from harmful escalation and support renewed practice with the seniors. **Fears / uncertainty:** Admits she cannot know Airi’s full past or imagine all future costs; newly concerned about Haruka’s unexplained disqualification statement.
+
+**Emotion and presentation:** Determined and caring despite witnessing ugly professional conduct; relieved when Airi stops and the senior pair recommit. Deferential novice in instruction but forceful protector when needed; does not pretend experiential equality with the professionals. **Coping:** Owns her choice under uncertainty, proposes practical accompaniment and invokes the idol ideal to interrupt escalation. **Agency:** Initiates moral/practical help and remains present despite Haruka’s warning; technical learning and senior instruction continue. **Speech:** Explicitly acknowledges ignorance, then states commitment; forceful ダメです retains 桃井先輩, showing that politeness need not prevent opposition.
+
+**Relational dependencies:** Airi now both teaches and receives encouragement/restraint; Shizuku thanks her; Haruka provides accompaniment but keeps a separate unexplained barrier.
+
+**Evidence:** `PJSK:main:mmj_01_09:01:002:0010–0022`; `PJSK:main:mmj_01_10:01:001:0021–0022`; `PJSK:main:mmj_01_11:01:002:0043–0051`. Confidence: HIGH.
+
+#### MMJ-HR-MS-02
+
+**Prior:** MMJ-HR-MS-02
+
+**Bounded state / claim:** PRESERVE; warns and accompanies Minori, then teaching request prompts public self-disqualification and retraction. Cause remains unknown to the three.
+
+**Self-concept:** PRESERVE MMJ-HR-MS-02: self-disqualifying retired idol; the claim now escapes publicly, without a new global state of recommitment. **Goals:** PRESERVE ordinary-student stance; warn and accompany Minori, then refuse requested teaching/participation. **Fears / uncertainty:** PRESERVE undisclosed barrier; a request to teach triggers a memory fragment. Identity/cause and bodily or medical specifics remain OPEN to the three.
+
+**Emotion and presentation:** PRESERVE controlled outward manner with moments of acute distress around participation; no renewed desire or relief is asserted here. Experienced, protective companion who warns of backstage envy; retracts the disqualification outburst as a verbal mistake and leaves. **Coping:** PRESERVE distancing and controlled explanations; uses warning and accompaniment to care for Minori without joining idol work. **Agency:** PRESERVE ability to choose ordinary contact and departure; can help others practically but rejects the professional role offered. **Speech:** Direct realistic warning; polite refusal breaks into a sharp self-disqualification, followed by formal minimizing explanation.
+
+**Relational dependencies:** PRESERVE Minori contact and professional ties; Airi/Shizuku’s repaired partnership creates concern and an invitation she does not accept.
+
+**Evidence:** `PJSK:main:mmj_01_11:01:001:0004–0013`; `PJSK:main:mmj_01_12:01:001:0053–0077`. Confidence: HIGH.
+
+#### MMJ-AI-MS-03
+
+**Prior:** MMJ-AI-MS-02
+
+**Bounded state / claim:** Chooses idol work without settled agency; admits envy, defends Shizuku effort and apologizes specifically; accepts Minori restraint and commits with Shizuku. Residual totalizing guilt preserved as self-assessment.
+
+**Self-concept:** Chooses to be an idol because she wants to give hope; recognizes personal envy and harm while receiving Shizuku’s judgment that she is an idol. **Goals:** Begin again, apologize and recognize Shizuku accurately; resume idol work together and regain practice competence. **Fears / uncertainty:** Agency/work route is unresolved; guilt can still overstate her sole responsibility for Shizuku’s departure. Haruka’s refusal creates a new unknown.
+
+**Emotion and presentation:** Renewed determination and competitive energy coexist with shame, anger at mistreatment and moved gratitude during repair. Can admit harmful motives and apologize without demanding forgiveness; remains a demanding teacher and an embarrassed recipient of affection. **Coping:** Owns desire, seeks apology, advocates Shizuku’s effort and accepts Minori’s restraint; explicit repair replaces the interrupted apology. **Agency:** Directly restarts practice and agrees to partnership; acts strongly but can over-escalate and then let another person stop her. **Speech:** Assertive declaration of chosen vocation; sustained specific apologies, self-including criticism of envy, affectionate resistance to Shizuku’s hug.
+
+**Relational dependencies:** Shizuku is mutually recognized ideal and chosen partner; Minori becomes fellow aspirant and ethical support while still learning from her.
+
+**Evidence:** `PJSK:main:mmj_01_09:01:002:0025–0042`; `PJSK:main:mmj_01_11:01:002:0026–0049`; `PJSK:main:mmj_01_12:01:001:0025–0042`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-03
+
+**Prior:** MMJ-SZ-MS-02
+
+**Bounded state / claim:** Leaves group/agency after cumulative harm, explains limits and earlier enjoyment, receives effort recognition, refuses return, and chooses renewed idol partnership with Airi.
+
+**Self-concept:** Recognized for effort and hope-giving intention rather than appearance alone; former center who can choose idol work again with Airi. **Goals:** Remain out of Cheerful＊Days, preserve meaningful idol aspiration and practice with Airi beside Minori; seek Haruka’s help if she is willing. **Fears / uncertainty:** Old-group hostility remains unresolved; future agency/activity plans are unknown, and Haruka’s unexplained statement creates concern.
+
+**Emotion and presentation:** Pain and limits are finally expressed; recognition brings strong relief and hopeful affection, without erasing previous hurt. Can explain cumulative harm and firmly refuse return while maintaining a courteous goodbye; openly requests and welcomes Airi’s renewed vocation. **Coping:** Discloses previously hidden strain, receives recognition, chooses a different partnership and offers affection rather than reentering the harmful group. **Agency:** Has left the group/agency, states she will not return, and explicitly chooses a renewed shared goal; does not merely follow an imposed career. **Speech:** Clear refusal within polite language; personal 私のアイドル recognition and direct request to Airi; warm agreement and affectionate action.
+
+**Relational dependencies:** Airi becomes explicitly chosen partner and mutual source of legitimacy; Minori has helped protect the repair; former-member cooperation is not restored.
+
+**Evidence:** `PJSK:main:mmj_01_10:01:002:0025–0034`; `PJSK:main:mmj_01_11:01:002:0053–0062`; `PJSK:main:mmj_01_12:01:001:0010–0041`. Confidence: HIGH.
+
+### MMJ-MS-P04 — through `PJSK:main:mmj_01_18:01`
+
+Causal and evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P04_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-03
+
+**Prior:** MMJ-MN-MS-02
+
+**Bounded state / claim:** Learns harm history, worries about intrusion, seeks singer help, initiates recipient-specific performance, accepts training and provides concrete benefits/testimony and hand support.
+
+**Self-concept:** Still a novice but now an informed recipient/helper who can show what Haruka’s hope actually changed in her life. **Goals:** Lighten Haruka’s distress and show a treasured view even if she stays retired; prepare a live that expresses Minori’s own gratitude. **Fears / uncertainty:** Worries past enthusiasm hurt Haruka and further intervention may intrude; knows her stage-access plan is initially incomplete.
+
+**Emotion and presentation:** Self-reproach and confusion become purposeful determination through consultation and collective preparation; gratitude remains central. Admits uncertainty to the singers and seniors, then presents a sincere recipient-specific performance; enthusiasm does not imply complete practical foresight. **Coping:** Seeks help, revises perspective, rehearses with concrete feedback, and offers specific testimony plus her hand rather than only repeating a slogan. **Agency:** Initiates the support project, recruits expertise and performs; relies on shared labor and Haruka’s expressed wish for the decisive stage approach. **Speech:** Hesitant consultation becomes clear performance address and concrete autobiographical thanks; familiar Haruka address remains, while senior address is preserved.
+
+**Relational dependencies:** Airi/Shizuku provide instruction and physical aid; Stage Miku/Rin provide viewpoint, space and support; Haruka must choose and accept help.
+
+**Evidence:** `PJSK:main:mmj_01_15:01:004:0002–0018`; `PJSK:main:mmj_01_16:01:001:0075–0106`; `PJSK:main:mmj_01_17:01:001:0046–0063`; `PJSK:main:mmj_01_18:01:002:0063–0073`. Confidence: HIGH.
+
+#### MMJ-HR-MS-03
+
+**Prior:** MMJ-HR-MS-02
+
+**Bounded state / claim:** Disclosure establishes guilt, reported stage-approach inhibition and prior help-seeking; exit accepts own desire, assisted stage access and evidence of delivered hope while still trembling. No diagnosis or global recovery.
+
+**Self-concept:** A former idol whose message had become linked to guilt and global self-disqualification; at exit recognizes that she did give hope and can want the stage. **Goals:** Protect Mai from ongoing blame; by the climax explicitly wants to climb up and see the treasured view again. Formal career/group plans remain OPEN here. **Fears / uncertainty:** Fears hope may pressure or hurt someone; reports inability to approach stage despite prior efforts and consultation. Trembling persists after assisted arrival.
+
+**Emotion and presentation:** Guilt, resignation and guarded gratitude shift toward acknowledged desire and recognition of real benefit; complete or stable recovery is not established. Keeps school-life explanation for Mai, privately admits causal link to the three, and finally voices first-person desire rather than only duty. **Coping:** Previously sought multiple kinds of help and tried repeatedly; protective withholding persists. At exit accepts recipient testimony and concrete bodily assistance. **Agency:** Can articulate what she wants and accept supported stage access; cannot yet be modeled as independently capable in every performance context. **Speech:** Polite firmness when protecting Mai; obligation-heavy private wording gives way to ステージに上がりたい and tentative acknowledgment of delivered hope.
+
+**Relational dependencies:** Minori’s testimony and hand, singers’ assistance, and Airi/Shizuku’s physical support are immediately load-bearing; Mai remains protected through unequal disclosure.
+
+**Evidence:** `PJSK:main:mmj_01_14:01:002:0040–0055`; `PJSK:main:mmj_01_15:01:002:0002–0010`; `PJSK:main:mmj_01_18:01:002:0075–0101`. Confidence: HIGH.
+
+#### MMJ-AI-MS-03
+
+**Prior:** MMJ-AI-MS-03
+
+**Bounded state / claim:** PRESERVE; reflective knowledge of quitting distress, acknowledges surprise-meeting defect, tests plan and provides concrete rehearsal/physical support.
+
+**Self-concept:** PRESERVE MMJ-AI-MS-03: recommitted idol and accountable friend; her own loss now informs, without fully explaining, Haruka’s situation. **Goals:** PRESERVE vocation and partnership; help Haruka and make Minori’s proposed live technically workable. **Fears / uncertainty:** Knows stage access is a practical obstacle and concern may become interference; acknowledges the surprise meeting’s defect. Outcome is uncertain during planning.
+
+**Emotion and presentation:** PRESERVE determination with concern and remembered quitting distress; relief in helping does not make her an infallible caregiver. Direct, practical senior who also discloses private regret and accepts that other people can question her intervention. **Coping:** PRESERVE reflective accountability; checks plan weaknesses, teaches broad movement, verifies rehearsal video and physically supports Haruka. **Agency:** PRESERVE active leadership, now in a collaborative care project; follows Minori’s initiating goal while supplying needed practical judgment. **Speech:** PRESERVE blunt correction and imperatives, now tied to reaching distant viewers and relying on others; openly admits past distress and planning defects.
+
+**Relational dependencies:** PRESERVE repaired Shizuku bond and reciprocal Minori relation; shared work and singer access enable help beyond what she could accomplish alone.
+
+**Evidence:** `PJSK:main:mmj_01_14:01:002:0036–0038`; `PJSK:main:mmj_01_17:01:001:0003–0017`; `PJSK:main:mmj_01_17:01:002:0017–0027`; `PJSK:main:mmj_01_18:01:002:0091–0093`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-03
+
+**Prior:** MMJ-SZ-MS-03
+
+**Bounded state / claim:** PRESERVE; describes self-chosen importance of idol work, tests possible emotional harm, supplies technical coaching and repeated bodily support; analogy remains fallible.
+
+**Self-concept:** PRESERVE MMJ-SZ-MS-03: actively chosen idol vocation and repaired partner identity; explicitly describes how meaningful that vocation became despite accidental entry. **Goals:** PRESERVE shared work with Airi; help Haruka through informed care, useful rehearsal and support she can receive repeatedly. **Fears / uncertainty:** Recognizes a beloved stage view might intensify pain; cannot know Haruka’s suffering merely from analogy with her own departure.
+
+**Emotion and presentation:** PRESERVE renewed hope, with remembered emptiness and present concern; supportive warmth does not eliminate caution. Gentle but active helper who shares her own loss, questions risks and provides specific expertise rather than reassurance alone. **Coping:** PRESERVE disclosure and chosen support; uses personal analogy cautiously, offers breathing/pitch guidance and steadies Haruka onstage. **Agency:** PRESERVE active choice and teaching; joins the live and directly offers repeated support when Haruka remains unsteady. **Speech:** PRESERVE considerate questions and reassurance; practical explanations and direct offer to support as often as needed make care concrete.
+
+**Relational dependencies:** PRESERVE chosen Airi partnership and Minori teaching relation; collective rehearsal and shared physical support address limits none can solve alone.
+
+**Evidence:** `PJSK:main:mmj_01_17:01:001:0011–0018`; `PJSK:main:mmj_01_17:01:001:0031–0033`; `PJSK:main:mmj_01_17:01:002:0020–0029`; `PJSK:main:mmj_01_18:01:002:0091–0093`. Confidence: HIGH.
+
+#### MMJ-VS-STAGE-02
+
+**Prior:** MMJ-VS-STAGE-01
+
+**Bounded state / claim:** Receive Minori origin and summarized Haruka problem, offer changed stage viewpoint/rehearsal access, Miku asks Haruka desire, both assist access. Knowledge limited to shown receipt.
+
+**Evidence:** `PJSK:main:mmj_01_16:01:001:0015–0036`; `PJSK:main:mmj_01_16:01:001:0063–0102`; `PJSK:main:mmj_01_17:01:002:0012–0013`; `PJSK:main:mmj_01_18:01:002:0075–0089`. Confidence: HIGH.
+
+### MMJ-MS-P05 — through `PJSK:main:mmj_01_20:01`
+
+Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P05_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-MN-MS-04
+
+**Prior:** MMJ-MN-MS-03
+
+**Bounded state / claim:** Novice founding member after fifty-first audition failure; belonging based on hope given, accepted through others trust despite real skill disparity and embarrassment. Continues effort and newly permitted familiar address.
+
+**Self-concept:** Novice founding member chosen for hope actually given; still compares her weaker skill and absent audition credentials with experienced partners. **Goals:** Give hope with the group, improve and catch up; continue practice after the fifty-first rejection. **Fears / uncertainty:** Fears inadequacy and initially doubts inclusion; real skill gap remains. Future public work and success are not established.
+
+**Emotion and presentation:** Disappointed at rejection and others’ invested effort, then encouraged, astonished and embarrassed by explicit acceptance. Eager admirer initially imagines herself as fan rather than member; accepts membership and familiar address with visible hesitation. **Coping:** Reframes another failure, accepts the others’ trust and mutual accommodation, and recommits to practice rather than denying the result. **Agency:** Accepts the offered member role, contributes the final group name and begins practice; group formation does not imply independent professional competence. **Speech:** Continues emphatic effort language and polite responses; Airi-chan/Shizuku-chan become explicitly permitted only after Shizuku’s invitation.
+
+**Relational dependencies:** The three recognize her contribution and offer skill-gap support; she remains deeply admiring of Haruka and dependent on expert instruction.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0002–0018`; `PJSK:main:mmj_01_20:01:001:0044–0064`; `PJSK:main:mmj_01_20:01:001:0084–0090`. Confidence: HIGH.
+
+#### MMJ-HR-MS-04
+
+**Prior:** MMJ-HR-MS-03
+
+**Bounded state / claim:** Shared singing reported; tells Mai intention to return, initiates four-person group and includes Minori; wants these supportive partners. No settled agency or universal recovery proof.
+
+**Self-concept:** Intends to resume idol work and chooses to found a group with those who gave her hope; shared singing is textually reported, not a complete recovery assessment. **Goals:** Work with these four people, continue standing on stages together and give fans hope; concrete agency arrangements remain unsettled. **Fears / uncertainty:** Durability of stage capacity outside this supportive context remains OPEN; Minori’s exclusion of herself requires correction, not confirmation.
+
+**Emotion and presentation:** Grateful and newly forward-looking, with reported enjoyment and quiet confidence in the proposal; absence of all future distress is not established. Courteous collaborator who tells Mai she will return, listens on arrival, and explicitly invites Minori rather than relying on implied inclusion. **Coping:** Builds on received support by choosing specific partners and mutual accommodation; fuller private disclosure to Mai is still not shown. **Agency:** Initiates the new group, insists on preferred partners and includes Minori; has not demonstrated a settled professional operation. **Speech:** Friendly peer warmth and direct proposal coexist with senior courtesy toward Airi; Minori’s new address permission does not alter Haruka’s usage automatically.
+
+**Relational dependencies:** Wants the particular people who gave her hope; mutual aid sustains the new plan. Mai receives return news but not all hidden causes or final naming details.
+
+**Evidence:** `PJSK:main:mmj_01_19:01:001:0009–0039`; `PJSK:main:mmj_01_19:01:002:0002–0009`; `PJSK:main:mmj_01_20:01:001:0027–0043`; `PJSK:main:mmj_01_20:01:001:0052–0061`. Confidence: HIGH.
+
+#### MMJ-AI-MS-04
+
+**Prior:** MMJ-AI-MS-03
+
+**Bounded state / claim:** Founding member/rigorous teacher and organizer; continues teaching after failed audition, agrees to Haruka proposal without dropping standards, directs naming and practice.
+
+**Self-concept:** Founding idol/member who retains exacting teaching authority; reciprocal contribution replaces her earlier conditional willingness to train Minori. **Goals:** Give hope with the four, improve performance, organize practice and move the new group forward. **Fears / uncertainty:** Future agency/work structure remains OPEN; rejection proves training has not secured institutional selection, without nullifying Minori’s belonging.
+
+**Emotion and presentation:** Indignant at the audition outcome, energized by the group prospect and playfully demanding during naming and practice. Assertive senior and organizer who accepts Haruka’s chosen route while preserving standards, including for the established star. **Coping:** Turns disappointment toward more instruction and practical next steps; corrects mistaken naming ideas with humor rather than abandoning the novice. **Agency:** Accepts the proposal after checking Haruka’s intention; initiates naming and first practice, within collectively accepted membership. **Speech:** PRESERVE direct imperatives, teasing corrections and emphatic evaluations; new member familiarity coexists with the instructional relationship.
+
+**Relational dependencies:** Repaired partnership with Shizuku expands with her assent; Haruka contributes chosen collaboration and Minori supplies hope, effort and naming initiative.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0005–0022`; `PJSK:main:mmj_01_20:01:001:0038–0043`; `PJSK:main:mmj_01_20:01:001:0065–0084`. Confidence: HIGH.
+
+#### MMJ-SZ-MS-04
+
+**Prior:** MMJ-SZ-MS-03
+
+**Bounded state / claim:** Founding member choosing mutual support, practical comfort, skill-gap accommodation and familiar member address; old-group rupture remains.
+
+**Self-concept:** Founding member who chooses a wider mutually supportive unit after leaving the old group; both skill and ordinary limitations can be accommodated. **Goals:** Give hope and make enjoyable shared performances with the four; support Minori’s belonging and preserve Airi’s willing participation. **Fears / uncertainty:** Outside work, agency plans and former-group consequences remain OPEN; unequal skill is real and calls for mutual help rather than exclusion.
+
+**Emotion and presentation:** Hopeful, affectionate and encouraging; ordinary consolation and naming play coexist with a history of unresolved old-group hurt. Warm helper who offers food, checks Airi’s assent, reassures Minori and actively invites more familiar address. **Coping:** Uses practical comfort and explicit mutual accommodation; can participate playfully and make an English mistake without loss of member legitimacy. **Agency:** Chooses the group, helps articulate how members can cover limitations, contributes naming ideas and changes an address norm by invitation. **Speech:** PRESERVE considerate invitations and gentle assertions; explicitly permits dropping senior titles. Playful English proposals show situated fallibility, not global incompetence.
+
+**Relational dependencies:** Airi remains a valued chosen partner; the wider group offers shared aid. Former colleagues are not reconciled and no outside support system is newly established.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0008–0014`; `PJSK:main:mmj_01_20:01:001:0035–0037`; `PJSK:main:mmj_01_20:01:001:0050–0060`; `PJSK:main:mmj_01_20:01:001:0086–0088`. Confidence: HIGH.
+
+#### MMJ-VS-STAGE-02
+
+**Prior:** MMJ-VS-STAGE-02
+
+**Bounded state / claim:** PRESERVE; shared performance, invitation and ordinary ribbon help Miku-to-Rin extend local care without a new global singer state.
+
+**Evidence:** `PJSK:main:mmj_01_19:01:001:0019–0053`; `PJSK:main:mmj_01_20:01:002:0002–0007`. Confidence: HIGH.
+
+## Wonderlands×Showtime main-story foundation — serial phase history
+
+The following snapshots preserve knowledge and interpretation at each named boundary. Phase-indexed human IDs retain operational snapshots, including refinements and revelations; a new phase ID does not by itself claim an event-level durable transition. No later source enters an earlier snapshot. Source-observed acts and disclosed histories carry HIGH confidence; qualified psychological inference is MODERATE. Shared causal interpretation belongs to each phase reading. These histories do not replace later cross-unit records or certify character-package readiness.
+
+### WXS-MS-P01 — through `wonder_01_04`
+
+Causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P01_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P01 — Tsukasa
+
+**Prior:** No prior substantive WXS foundation snapshot; boundary: WXS main episode 04 end.
+
+**Self-concept:** Future world-class star, original reason inaccessible. **Goals:** Enter a major stage and become conspicuous; now recruit for this stage. **Fears / uncertainty:** Loss of opportunity and loss of bodily/control security.
+
+**Emotional baseline:** Boastful confidence interrupted by frustration and fear. **Presentation:** Grand public self-announcement; polite workplace and threatened deference; familiar sibling concern. **Coping:** Self-glorifying explanation; reframing adversity as a star narrative.
+
+**Agency:** Initial agreement constrained; independently undertakes recruitment afterward. **Stress vulnerability:** Misreads evaluation; bristles at marginal status; pressure can produce compliance. **Speech:** 俺 in familiar/self-assertive speech; 僕 and politeness to staff or threat; uncertainty in inner speech.
+
+**Dependencies:** Emu-mediated appointment, staff access, future collaborators. Knowledge: `EPI-WXS-MS-P01`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_00:01:003:0011–0030`; `PJSK:main:wonder_01_01:01:004:0017–0022`; `PJSK:main:wonder_01_04:01:002:0024–0043`.
+
+#### WXS-MS-EMU-P01 — Emu
+
+**Prior:** No prior substantive WXS foundation snapshot; boundary: WXS main episode 04 end.
+
+**Self-concept:** Performer tied to this particular stage; reasons not yet disclosed. **Goals:** Fill the stage and make people smile with a collaborator. **Fears / uncertainty:** Loss of the particular place implied by her refusal to substitute another.
+
+**Emotional baseline:** Exuberance with sharp insistence around the stage. **Presentation:** Playful invitation; urgent direct refusal when stage dismissed. **Coping:** Repeated invitations and physical intervention; practical phone retrieval.
+
+**Agency:** Initiates recruitment, detour and search; can interrupt staff violence. **Stress vulnerability:** Urgency can disregard another person's bodily/phone boundary. **Speech:** Sound-rich invitations, repeated participation calls, abrupt serious insistence.
+
+**Dependencies:** An unnamed promise, stage access and staff; potential collaborator. Knowledge: `EPI-WXS-MS-P01`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_02:01:002:0025–0044`; `PJSK:main:wonder_01_02:01:002:0059–0065`; `PJSK:main:wonder_01_04:01:001:0013–0019`; `PJSK:main:wonder_01_04:01:002:0020–0022`.
+
+### WXS-MS-P02 — through `wonder_01_08`
+
+Causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P02_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P02 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P01; boundary: WXS main episode 08 end.
+
+**Self-concept:** Star and active organizer; others' skill recognized but visibility-centered. **Goals:** Recruit a director/cast, write a script and mount his showcase. **Fears / uncertainty:** Being displaced from attention by Nene's reported ability.
+
+**Emotional baseline:** Engaged, proud, irritated by challenges. **Presentation:** Grand recruiter and competitive peer; responsive caring brother at home. **Coping:** Searching, appraisal, competitive boasting, concessions; performs to cheer Saki.
+
+**Agency:** Persistent direct recruitment and script authorship; accepts negotiated name. **Stress vulnerability:** Critique and loss of prominence can prompt defensive devaluation. **Speech:** Extravagant unsupported numerical promises; direct first-name collaboration; familiar family play.
+
+**Dependencies:** Rui's direction, Nene's skills, Emu's place and enthusiasm. Knowledge: `EPI-WXS-MS-P02`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_05:01:001:0010–0012`; `PJSK:main:wonder_01_06:01:001:0012–0036`; `PJSK:main:wonder_01_07:01:001:0048–0063`; `PJSK:main:wonder_01_08:01:001:0008–0022`; `PJSK:main:wonder_01_08:01:003:0035–0044`.
+
+#### WXS-MS-EMU-P02 — Emu
+
+**Prior:** WXS-MS-EMU-P01; boundary: WXS main episode 08 end.
+
+**Self-concept:** Welcoming performer and keeper of a many-worlds stage. **Goals:** Build a company where visitors smile. **Fears / uncertainty:** Stage-related fear remains unarticulated.
+
+**Emotional baseline:** Enthusiastic and relationally inviting. **Presentation:** Treats unusual technology as welcome participation. **Coping:** Enthusiasm, concrete request, naming and recognition of effort.
+
+**Agency:** Directly helps admit Nene and names the company. **Stress vulnerability:** Can overlook friction while reading others as already friendly. **Speech:** Sound-based imaginative description; direct welcome to both Nene and robot.
+
+**Dependencies:** Rui's craft, Nene's performance, Tsukasa's organizing labor. Knowledge: `EPI-WXS-MS-P02`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_06:01:003:0003–0017`; `PJSK:main:wonder_01_07:01:001:0058–0064`; `PJSK:main:wonder_01_08:01:003:0023–0039`.
+
+#### WXS-MS-NENE-P02 — Nene
+
+**Prior:** No prior substantive WXS foundation snapshot; boundary: WXS main episode 08 end.
+
+**Self-concept:** Claims to have left shows, yet participates through a robot. **Goals:** Participation without showing herself; exact longer-term aim still OPEN. **Fears / uncertainty:** Direct social exposure suggested by remaining hidden, cause undisclosed.
+
+**Emotional baseline:** Guarded but willing to engage through mediation. **Presentation:** Cutting mediated speech versus hidden physical presence and hesitant private talk. **Coping:** Sarcasm, demonstration of control/song, physical concealment, game framing offered by Rui.
+
+**Agency:** Challenges Tsukasa and accepts entry; presence is her act despite verbal withdrawal. **Stress vulnerability:** Direct exposure and unspecified show-related history. **Speech:** Short confrontational mediated replies; pauses and unfinished statements to Rui.
+
+**Dependencies:** Rui's technical design and introduction; remote interface. Knowledge: `EPI-WXS-MS-P02`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_07:01:001:0009–0014`; `PJSK:main:wonder_01_07:01:001:0026–0055`; `PJSK:main:wonder_01_07:01:001:0071–0080`.
+
+#### WXS-MS-RUI-P02 — Rui
+
+**Prior:** No prior substantive WXS foundation snapshot; boundary: WXS main episode 08 end.
+
+**Self-concept:** Solo performer by stated preference; director interested in audience enjoyment. **Goals:** Create enjoyable shows; condition entry on Nene's inclusion. **Fears / uncertainty:** Fear/avoidance origin not yet established.
+
+**Emotional baseline:** Amused, curious, selectively receptive. **Presentation:** Playful questioning and apparently detached refusal; practical support for Nene. **Coping:** Solo making, observation by drone, conditional cooperation.
+
+**Agency:** Chooses terms of entry and supplies enabling technology. **Stress vulnerability:** Unproven compatibility of his ideas with others. **Speech:** Measured teasing, questions that test grand claims, conditional assent.
+
+**Dependencies:** Own technical craft; potentially Tsukasa's responsiveness and an accepting company. Knowledge: `EPI-WXS-MS-P02`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_05:01:004:0005–0022`; `PJSK:main:wonder_01_06:01:001:0005–0006`; `PJSK:main:wonder_01_06:01:001:0020–0035`; `PJSK:main:wonder_01_07:01:001:0004–0014`; `PJSK:main:wonder_01_07:01:001:0071–0079`.
+
+### WXS-MS-P03 — through `wonder_01_11`
+
+Causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P03_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P03 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P02; boundary: WXS main episode 11 end.
+
+**Self-concept:** Star-in-training whose labor now yields a coherent production. **Goals:** Deliver a conspicuous successful first show and improve the prince role. **Fears / uncertainty:** Failure to meet expectations or be sufficiently impressive.
+
+**Emotional baseline:** Excited, physically taxed, increasingly enjoying shared work. **Presentation:** Public boasting coexists with private admission of anticipation. **Coping:** Intensive practice; seeking hints; spectacular risk accepted for prominence.
+
+**Agency:** Works hard, repairs seats and starts the show. **Stress vulnerability:** Visibility incentives can override safety objections; performance success still central. **Speech:** Grand numeric praise; uncertain whether Nene reassurance is intentional encouragement.
+
+**Dependencies:** Rui's direction, KAITO's model, group craft and publicity. Knowledge: `EPI-WXS-MS-P03`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:001:0026–0043`; `PJSK:main:wonder_01_09:01:003:0003–0015`; `PJSK:main:wonder_01_10:01:002:0045–0050`; `PJSK:main:wonder_01_11:01:001:0011–0030`; `PJSK:main:wonder_01_11:01:002:0002–0005`; `PJSK:main:wonder_01_11:01:003:0007–0012`.
+
+#### WXS-MS-EMU-P03 — Emu
+
+**Prior:** WXS-MS-EMU-P02; boundary: WXS main episode 11 end.
+
+**Self-concept:** Performer whose dream seems close through this shared stage. **Goals:** Improve singing and make tomorrow's audience smile. **Fears / uncertainty:** Stage-loss condition still undisclosed.
+
+**Emotional baseline:** Anticipatory happiness and gratitude. **Presentation:** Exuberance with sincere thanks. **Coping:** Asks practical help; enthusiastic preparation and ritual.
+
+**Agency:** Requests teaching, participates in work and supports others. **Stress vulnerability:** Hope can outrun untested public outcome. **Speech:** Playful song and earnest gratitude; collective performance call.
+
+**Dependencies:** Nene's teaching and the group's labor. Knowledge: `EPI-WXS-MS-P03`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_11:01:001:0005–0015`; `PJSK:main:wonder_01_11:01:001:0032–0038`; `PJSK:main:wonder_01_11:01:003:0013–0016`.
+
+#### WXS-MS-NENE-P03 — Nene
+
+**Prior:** WXS-MS-NENE-P02; boundary: WXS main episode 11 end.
+
+**Self-concept:** Capable mediated participant who wants a successful show but struggles in direct conversation. **Goals:** Avoid failure and give the audience joy. **Fears / uncertainty:** Failure and direct face-to-face attention.
+
+**Emotional baseline:** Hopeful engagement with persistent preparation anxiety. **Presentation:** Sharp mediated criticism; hesitant direct speech; warmth in teaching. **Coping:** Extra practice, mediation, asking help.
+
+**Agency:** Teaches Emu and requests rehearsal support; difficulty speaking directly. **Stress vulnerability:** May over-practice under fear; cause/history remains undisclosed. **Speech:** Can laugh casually with Emu, ask Rui softly, hesitate with Miku.
+
+**Dependencies:** Robot, Rui's accompaniment, Miku's permission to speak when ready. Knowledge: `EPI-WXS-MS-P03`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_10:01:002:0032–0043`; `PJSK:main:wonder_01_11:01:001:0005–0009`; `PJSK:main:wonder_01_11:01:001:0046–0064`.
+
+#### WXS-MS-RUI-P03 — Rui
+
+**Prior:** WXS-MS-RUI-P02; boundary: WXS main episode 11 end.
+
+**Self-concept:** Director whose ideas are actually being realized with others. **Goals:** Build the show and accompany Nene's preparation. **Fears / uncertainty:** Collaborative rejection is reported history, not a fully explained private fear.
+
+**Emotional baseline:** Unusually pleased and invested. **Presentation:** Teasing exactitude, technical absorption and direct thanks. **Coping:** Experimentation, coaching, accompaniment, allowing Nene space.
+
+**Agency:** High production and interpersonal initiative. **Stress vulnerability:** Demanding staging and judgments about others' limits can strain preparation. **Speech:** Technical theorizing, provocative challenge, specific thanks and reassurance.
+
+**Dependencies:** Responsive performers, parts, collaborators' capacities. Knowledge: `EPI-WXS-MS-P03`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:001:0008–0028`; `PJSK:main:wonder_01_09:01:002:0002–0007`; `PJSK:main:wonder_01_10:01:002:0014–0018`; `PJSK:main:wonder_01_11:01:001:0024–0026`; `PJSK:main:wonder_01_11:01:001:0049–0064`.
+
+### WXS-MS-P04 — through `wonder_01_14`
+
+Causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P04_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P04 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P03; boundary: WXS main episode 14 end.
+
+**Self-concept:** Star ambition recovered as giving others joy after harmful success fixation. **Goals:** Initially defend this failed show; now find and repair with colleagues. **Fears / uncertainty:** Public failure and threatened identity; then lost connection.
+
+**Emotional baseline:** Anger gives way to responsive play, regret and renewed purpose. **Presentation:** Accusatory performer under humiliation; flexible play and gratitude in SEKAI. **Coping:** Blame and departure, then seeking help and recipient-focused improvisation.
+
+**Agency:** Acts in onstage recovery and later initiates repair search. **Stress vulnerability:** Success pressure can displace care into attack; recovered insight is not repaired trust. **Speech:** Absolute blame shifts to playful borrowing of Emu's greeting and explicit thanks.
+
+**Dependencies:** Colleagues now absent; Miku/KAITO and rabbit enable self-recognition. Knowledge: `EPI-WXS-MS-P04`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_12:01:001:0038–0045`; `PJSK:main:wonder_01_13:01:001:0007–0020`; `PJSK:main:wonder_01_14:01:002:0006–0020`; `PJSK:main:wonder_01_14:01:002:0059–0088`; `PJSK:main:wonder_01_14:01:004:0002–0011`.
+
+#### WXS-MS-EMU-P04 — Emu
+
+**Prior:** WXS-MS-EMU-P03; boundary: WXS main episode 14 end.
+
+**Self-concept:** Performer whose goal includes companions' smiles now lost. **Goals:** Keep the show/group going and recover shared joy. **Fears / uncertainty:** Loss of colleagues' smiles.
+
+**Emotional baseline:** Distress after failed repair appeal. **Presentation:** Still offers affirmative invitation, then names devastation. **Coping:** Onstage improvisation and interpersonal appeal.
+
+**Agency:** Attempts narrative recovery and asks to try again. **Stress vulnerability:** May take responsibility for others' lost happiness; next decision still OPEN. **Speech:** Urgent practical improvisation and repeated hopeful requests become sadness.
+
+**Dependencies:** Departing group; stage stake remains undisclosed. Knowledge: `EPI-WXS-MS-P04`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_12:01:001:0044–0045`; `PJSK:main:wonder_01_13:01:001:0051–0058`.
+
+#### WXS-MS-NENE-P04 — Nene
+
+**Prior:** WXS-MS-NENE-P03; boundary: WXS main episode 14 end.
+
+**Self-concept:** Failure-condemning self-account after an attempted return. **Goals:** Immediate withdrawal; continuing show desire not settled by flight. **Fears / uncertainty:** Stage failure and facing others after blame.
+
+**Emotional baseline:** Acute distress and shame as textual states. **Presentation:** Mediated confidence replaced by fragmented face-to-face apology. **Coping:** Total self-blame, apology and flight.
+
+**Agency:** Had attempted performance; withdrawal is contextual, not total lack of desire. **Stress vulnerability:** Vulnerability exposed to accusatory judgment. **Speech:** Short broken apologies replace earlier cutting mediated replies.
+
+**Dependencies:** Rui's support; robot left behind by Rui. Knowledge: `EPI-WXS-MS-P04`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_12:01:001:0020–0035`; `PJSK:main:wonder_01_13:01:001:0016–0024`; `PJSK:main:wonder_01_13:01:002:0005–0010`.
+
+#### WXS-MS-RUI-P04 — Rui
+
+**Prior:** WXS-MS-RUI-P03; boundary: WXS main episode 14 end.
+
+**Self-concept:** Collaborative possibility recognized but Tsukasa judged incompatible. **Goals:** Protect Nene and leave this company. **Fears / uncertainty:** Renewed harmful collaboration.
+
+**Emotional baseline:** Angry/disappointed, decisive withdrawal. **Presentation:** Direct admonition replaces playful testing. **Coping:** Accepts missed check, interrupts blame, withdraws and leaves robot.
+
+**Agency:** Sets a clear relational boundary and apologizes to Nene. **Stress vulnerability:** Condemnation overgeneralizes Tsukasa's current motive and future. **Speech:** Measured criticism becomes absolute rejection and farewell.
+
+**Dependencies:** Nene relation retained; rejects working with Tsukasa. Knowledge: `EPI-WXS-MS-P04`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0010–0011`; `PJSK:main:wonder_01_13:01:001:0028–0046`; `PJSK:main:wonder_01_13:01:002:0002–0009`.
+
+### WXS-MS-P05 — through `wonder_01_18`
+
+Causal home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P05_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P05 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P04; boundary: WXS main episode 18 end.
+
+**Self-concept:** Future star whose purpose includes audience and companions' joy. **Goals:** Repair specifically with Emu, Nene and Rui. **Fears / uncertainty:** Failure of explanation and loss of collaborators.
+
+**Emotional baseline:** Determined remorse with renewed energy. **Presentation:** Specific apology and listening coexist with assertive/intrusive pursuit. **Coping:** Acknowledgment, inclusive reframing, accommodating Nene's gaze, communication through show.
+
+**Agency:** Initiates repair and accepts ownership; does not control Rui's final answer. **Stress vulnerability:** Can pursue others coercively even while repairing; future durability untested. **Speech:** Apologies name acts and feelings; invitations replace entitlement at key moments.
+
+**Dependencies:** Others' separate willingness to return; SEKAI performance help. Knowledge: `EPI-WXS-MS-P05`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0031–0042`; `PJSK:main:wonder_01_16:01:002:0006–0038`; `PJSK:main:wonder_01_16:01:002:0064–0076`; `PJSK:main:wonder_01_18:01:002:0003–0011`; `PJSK:main:wonder_01_18:01:003:0040–0054`.
+
+#### WXS-MS-EMU-P05 — Emu
+
+**Prior:** WXS-MS-EMU-P04; boundary: WXS main episode 18 end.
+
+**Self-concept:** Stage custodian who must also count among those entitled to joy. **Goals:** Save grandfather's stage with renewed companions. **Fears / uncertainty:** Her wish making others unhappy; potential demolition.
+
+**Emotional baseline:** Grief/surrender shifts to relieved recommitment. **Presentation:** Reveals concealed burden to Tsukasa; active energetic mediator afterward. **Coping:** Prior concealment and self-blame; now disclosure and collective action.
+
+**Agency:** Chooses ride/disclosure and return; helps pursue/reunite others. **Stress vulnerability:** Support ethic can become exclusion of her own needs; intrusive tactics persist. **Speech:** Quiet serious family account, affirmative renewed wish, forceful encouragement.
+
+**Dependencies:** Reported father's conditions, grandfather's memory, collaborators. Knowledge: `EPI-WXS-MS-P05`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0007–0042`; `PJSK:main:wonder_01_17:01:002:0006–0011`; `PJSK:main:wonder_01_18:01:002:0006–0009`.
+
+#### WXS-MS-NENE-P05 — Nene
+
+**Prior:** WXS-MS-NENE-P04; boundary: WXS main episode 18 end.
+
+**Self-concept:** Performer who still wants shows despite a prior failure and current fear. **Goals:** Return to performance and help Rui return too. **Fears / uncertainty:** A failed line and consequences recur in self-account; direct exposure.
+
+**Emotional baseline:** Distress coexists with desire and relief at accepted re-entry. **Presentation:** Hesitant direct disclosure, chosen participation and familiar challenge to Rui. **Coping:** Retrieves robot, sings privately, discloses, accepts fallible challenge, mediates.
+
+**Agency:** Independent return precedes pursuit; later proposes action and performs in repair show. **Stress vulnerability:** No general cure; pressured encounter and continuing fear must remain visible. **Speech:** Fragmented desire/disclosure becomes explicit assent and direct question to Rui.
+
+**Dependencies:** Robot as enabling medium; peers' support; Rui history. Knowledge: `EPI-WXS-MS-P05`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:003:0002–0019`; `PJSK:main:wonder_01_16:01:002:0046–0078`; `PJSK:main:wonder_01_17:01:001:0004–0015`; `PJSK:main:wonder_01_17:01:001:0037–0040`; `PJSK:main:wonder_01_18:01:003:0017–0018`.
+
+#### WXS-MS-RUI-P05 — Rui
+
+**Prior:** WXS-MS-RUI-P04; boundary: WXS main episode 18 end.
+
+**Self-concept:** Director who can distinguish Nene's forgiveness from his own artistic choice. **Goals:** Create meaningful shows with compatible collaborators; now accepts this company again. **Fears / uncertainty:** Repeated incompatibility/rejection contextualized by remembered peers.
+
+**Emotional baseline:** Guarded refusal becomes qualified openness. **Presentation:** Explicit boundary; in-role acceptance preserves playful critical agency. **Coping:** Narrative expression, refusal, judging performance then resuming direction.
+
+**Agency:** Refuses apology as sufficient, later chooses the unassigned next role. **Stress vulnerability:** Prior accusations are memories of others' judgments, not truth about intent. **Speech:** Measured refusal and understated acceptance through the alchemist role.
+
+**Dependencies:** Nene's independent decision, Tsukasa's demonstrated rationale, shared show. Knowledge: `EPI-WXS-MS-P05`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_17:01:001:0019–0028`; `PJSK:main:wonder_01_17:01:001:0047–0057`; `PJSK:main:wonder_01_18:01:001:0003–0007`; `PJSK:main:wonder_01_18:01:003:0045–0066`.
+
+### WXS-MS-P06 — through `wonder_01_20`
+
+Causal home: [P06 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP_READING.md).
+
+#### WXS-MS-TSUKASA-P06 — Tsukasa
+
+**Prior:** WXS-MS-TSUKASA-P05; boundary: WXS main episode 20 end.
+
+**Self-concept:** Star defined through others' joy and necessary collaborators. **Goals:** Continue this company and keep improving here. **Fears / uncertainty:** New fears not established; future failure remains plausible pressure.
+
+**Emotional baseline:** Proud, relieved, fatigued and energized by continuation. **Presentation:** Grandiosity remains alongside questions, credit and support. **Coping:** Invites others' wishes, shares song, offers contingency support, accepts publicity credit increment.
+
+**Agency:** Chooses continuation after eliciting peers' aims. **Stress vulnerability:** No proof humiliation can never reactivate prior response. **Speech:** Self-praise and laughter coexist with collaborative invitations and thanks.
+
+**Dependencies:** All three collaborators, performance infrastructure and audience. Knowledge: `EPI-WXS-MS-P06`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:001:0011–0017`; `PJSK:main:wonder_01_19:01:002:0014–0022`; `PJSK:main:wonder_01_20:01:002:0002–0007`; `PJSK:main:wonder_01_20:01:002:0026–0050`.
+
+#### WXS-MS-EMU-P06 — Emu
+
+**Prior:** WXS-MS-EMU-P05; boundary: WXS main episode 20 end.
+
+**Self-concept:** Participant whose stage and happiness have been supported collectively. **Goals:** Keep making audiences smile at Wonder Stage with the company. **Fears / uncertainty:** No new fear explicitly established; material/family conditions not abolished.
+
+**Emotional baseline:** Relief and joy after communicated stage survival. **Presentation:** Open about shared stake; enthusiastic recommitment. **Coping:** Disclosure, gratitude, shared ritual and renewed work.
+
+**Agency:** Reports outcome and explicitly chooses continuing company. **Stress vulnerability:** No permanent institutional security inferred from this outcome. **Speech:** Familiar joyful shorthand now understood by group; direct gratitude and desire.
+
+**Dependencies:** Family-controlled stage and collective labor. Knowledge: `EPI-WXS-MS-P06`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:002:0002–0008`; `PJSK:main:wonder_01_20:01:002:0011–0021`; `PJSK:main:wonder_01_20:01:002:0028–0029`; `PJSK:main:wonder_01_20:01:002:0042–0044`.
+
+#### WXS-MS-NENE-P06 — Nene
+
+**Prior:** WXS-MS-NENE-P05; boundary: WXS main episode 20 end.
+
+**Self-concept:** Performer with renewed stage participation and eventual professional aspiration. **Goals:** More stage experience, future professional acting; hopes to perform with robot too. **Fears / uncertainty:** Nervousness before renewed public show remains.
+
+**Emotional baseline:** Supported anticipation, fatigue and hopeful future intent. **Presentation:** Human participation and mediated commentary coexist. **Coping:** Accepts support, performs, asks implicitly through stated desire to continue.
+
+**Agency:** Explicitly wants song, renewed stage work and a future path. **Stress vulnerability:** No cure, mastery or permanently unmediated participation certified. **Speech:** Hesitant aspiration and sharp robot-mediated correction both persist.
+
+**Dependencies:** Peers' expressed support, robot, practice opportunities. Knowledge: `EPI-WXS-MS-P06`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:001:0014–0017`; `PJSK:main:wonder_01_19:01:002:0012–0027`; `PJSK:main:wonder_01_20:01:002:0003–0006`; `PJSK:main:wonder_01_20:01:002:0031–0032`; `PJSK:main:wonder_01_20:01:002:0045–0046`.
+
+#### WXS-MS-RUI-P06 — Rui
+
+**Prior:** WXS-MS-RUI-P05; boundary: WXS main episode 20 end.
+
+**Self-concept:** Director choosing these collaborators as a site for further experiments. **Goals:** Continue directing and develop untried staging with this company. **Fears / uncertainty:** Future compatibility/safety questions untested.
+
+**Emotional baseline:** Relieved and creatively interested but physically tired. **Presentation:** Playful direction, practical work, understated commitment. **Coping:** Production checks, participation and proposing further work.
+
+**Agency:** Affirms specific continued collaboration. **Stress vulnerability:** Ideas not yet enacted or independently safety-verified; physical limits visible. **Speech:** Measured commentary, questions about outcome and imaginative proposals.
+
+**Dependencies:** Shared labor, performers and technical infrastructure. Knowledge: `EPI-WXS-MS-P06`; relationships: separate phase-matched records.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:002:0011–0014`; `PJSK:main:wonder_01_19:01:002:0029–0035`; `PJSK:main:wonder_01_20:01:002:0004–0008`; `PJSK:main:wonder_01_20:01:002:0033–0046`.
+
+## Historical EVENT_0001 — ordered unit integration
+
+The [event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns shared causal interpretation. **Leo/need I2; WxS/MMJ I1; N25/VBS I0.** Preserve all prior phase and later-event histories in their own periods. The following records are EVENT_0001-qualified; source confidence is HIGH for observed dialogue and bounded testimony, while duration, absent-side knowledge and unshown outcomes remain OPEN. Retaining a human state does not erase new relationship or knowledge evidence.
+
+### `LN-SAKI-MS-P04` — EVENT_0001
+
+**Prior responsibility:** LN-SAKI-MS-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Preserve P04 identity/goals and pacing vulnerability. Refine feared loss: missed expected experiences seem to erase shared time and threaten even remembered time. Event-local reappraisal accepts gradual shared plans and reliance; the goal of sustainable youth already existed.
+
+**Evidence:** `PJSK:event:0001:01:001:0003–0020`; `PJSK:event:0001:01:002:0006–0017`; `PJSK:event:0001:01:005:0014–0016`; `PJSK:event:0001:04:003:0002–0006`; `PJSK:event:0001:04:004:0002–0011`; `PJSK:event:0001:04:006:0002–0027`; `PJSK:event:0001:04:007:0002–0014`; `PJSK:event:0001:07:003:0002–0030`; `PJSK:event:0001:07:003:0031–0065`; `PJSK:event:0001:08:001:0002–0010`; `PJSK:event:0001:08:002:0001–0028`; `PJSK:event:0001:08:002:0035–0062`; `PJSK:card:0109:01:001:0002–0014`; `PJSK:card:0109:01:004:0005–0041`; `PJSK:card:0109:02:002:0003–0042`; `PJSK:card:0110:01:001:0004–0036`.
+
+**Interpretive consequence:** Specific motive disclosure and concrete strategy warrant I2; no broad durable human reorganization demonstrated. **Limits / OPEN:** Longitudinal reliability of pacing; Private consultation remains useful; Card 0109 front is likely aftermath but lacks its own planetarium anchor.
+
+### `LN-ICHIKA-MS-P04` — EVENT_0001
+
+**Prior responsibility:** LN-ICHIKA-MS-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Preserve self-authorized relational agency. Add memory-based visit initiative, monthly scheduling, flexible learning and flower-gift history; caring initiative is preexisting and continues.
+
+**Evidence:** `PJSK:event:0001:02:001:0016–0037`; `PJSK:event:0001:06:004:0002–0048`; `PJSK:event:0001:07:001:0003–0018`; `PJSK:event:0001:07:002:0002–0018`; `PJSK:card:0109:02:002:0003–0042`; `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:card:0113:01:001:0002–0012`; `PJSK:card:0113:01:002:0002–0023`; `PJSK:card:0113:01:003:0002–0022`; `PJSK:card:0113:02:001:0002–0011`; `PJSK:card:0113:02:002:0002–0034`.
+
+**Interpretive consequence:** Concrete applications and historical enrichment support I1 human characterization; event knowledge is recorded independently. **Limits / OPEN:** Local/elementary and distant/middle-school hospital periods must remain separate; Flower card not dated to post-planetarium.
+
+### `LN-HONAMI-MS-P04` — EVENT_0001
+
+**Prior responsibility:** LN-HONAMI-MS-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Plural friendship and bridge-building already exist at P04, including introduction/performance invitations. Refine residual mental separation of circles through a proposed ordinary mixed lunch; add reciprocal class friendship, specific care, photos, astronomy and rhythm-section support.
+
+**Evidence:** `PJSK:event:0001:05:001:0059–0066`; `PJSK:event:0001:05:002:0002–0015`; `PJSK:event:0001:08:001:0002–0010`; `PJSK:event:0001:08:002:0001–0028`; `PJSK:event:0001:08:002:0035–0062`; `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:card:0112:01:001:0002–0009`; `PJSK:card:0112:01:002:0002–0037`; `PJSK:card:0112:02:001:0002–0029`; `PJSK:card:0112:02:001:0043–0056`.
+
+**Interpretive consequence:** I2 is the narrower distinction between permission for plural belonging and ordinary implementation; no first-ever plural-affiliation transition. **Limits / OPEN:** Classmates’ response and mixed lunch unshown; No universal social safety or vanished fear.
+
+### `LN-SHIHO-MS-P04` — EVENT_0001
+
+**Prior responsibility:** LN-SHIHO-MS-P04@P04. Earlier formulations remain valid at their own cutoffs.
+
+Preserve rigor, care, solitude preference, embarrassment and capacity for injury/regret. Refine failure-to-notice guilt and harshness under bodily concern; she seeks advice and apologizes. Add specific adaptive ensemble support, with retrospective guitarist assessment separately attributed.
+
+**Evidence:** `PJSK:event:0001:03:001:0002–0049`; `PJSK:event:0001:03:001:0050–0080`; `PJSK:event:0001:05:001:0002–0058`; `PJSK:event:0001:07:003:0031–0065`; `PJSK:card:0111:01:001:0003–0058`; `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:card:0111:02:003:0002–0022`.
+
+**Interpretive consequence:** The mechanism of protective anger and advice seeking adds I2 precision to P04; musical flexibility is direct evidence but its onset/cause is not dated to the crisis. **Limits / OPEN:** Self-blame is not objective medical cause; Guitarist chronology and testimony are fallible; No permanent elimination of harshness.
+
+### `School/Classroom Miku and Luka characterization` — EVENT_0001
+
+**Prior responsibility:** LN-REL-SCHOOL-VS-MS@P04. Earlier formulations remain valid at their own cutoffs.
+
+School/Classroom Luka: tentative observation, questions, privacy-aware counsel and reciprocal encouragement. School/Classroom Miku: nonintrusion, help, own practice effort, senior aspiration and praise hesitation. No global singer personality or human tuple change.
+
+**Evidence:** `PJSK:event:0001:06:003:0002–0033`; `PJSK:event:0001:07:003:0008–0011`; `PJSK:event:0001:08:002:0029–0033`; `PJSK:card:0110:01:001:0004–0036`; `PJSK:card:0110:01:001:0037–0047`; `PJSK:card:0110:02:001:0002–0039`; `PJSK:card:0110:02:001:0040–0047`; `PJSK:card:0111:01:001:0003–0058`.
+
+**Interpretive consequence:** Refines the already-established helper relationship with concrete manifestation-specific behavior and role self-description. **Limits / OPEN:** Miku hearing limits; Luka embarrassment hypothesis; No other manifestation transfer.
+
+### WxS — Tsukasa ordinary family evidence; I1, preserve WXS-MS-TSUKASA-P06
+
+Tsukasa asks before entering Saki's room, dramatically mistakes her outing for a date and still encourages her. He checks her plans against parental absence and his expected performance work, accepts her friend outing and gives a road-safety reminder. When she is ill, he announces breakfast and preferred cocoa, accommodates her current lack of appetite and leaves the offer open. His welcome to visiting friends combines show boasts and gratitude. The foundation already establishes sibling care, practical involvement and theatrical self-presentation; these contexts extend that evidence without originating care or proving a universally changed register. No new human ID or four-member company state follows (`PJSK:event:0001:04:001:0004–0024`; `PJSK:event:0001:06:002:0006–0012`; `PJSK:event:0001:07:001:0003–0014`). The source does not establish that he cooked the meal or that every domestic scene occurs after every WxS main-story crisis.
+
+**Other-unit disposition:** MMJ I1 is relationship/knowledge evidence only; preserve `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04`. Neither Minori nor Haruka speaks here. No Airi or named depicted Shizuku state is added. N25/VBS remain documentary I0 with no human delta.
+
+
+## Historical EVENT_0002 — founded Leo/need integration
+
+The [Honami checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) owns this bounded comparison; the existing N25 reading retains the event's main causal account. All earlier ledger bytes remain historical evidence at their own cutoffs.
+
+### `LN-HONAMI-MS-P04` — EVENT_0002 ordinary work and advice
+
+**PRESERVE, I1.** The main-story endpoint already permits active disclosure, plural affiliation and bridge-building while shame, interpersonal fear and apologetic language remain contextually meaningful; EVENT_0001 supplies ordinary implementation and practical care. This event adds a client/work relationship in which competence, pleasure in housework, joy when helping succeeds and acknowledged risk of meddling are explicit. Do not reduce every helpful act to rejection avoidance. She notices Kanade's low mood, chooses tea, confirms cleaning tasks and likes planning meals (`PJSK:event:0002:02:002:0002–0039`; `PJSK:area:areatalk_ev_night_01_002:01:001:0002–0009`).
+
+Her advice proposes listening and learning the recipient's feelings, with the explicit qualification that some people dislike probing. After a limited report she requests permission for more advice, uses her own received friendship care as an analogy and urges persistence. Polite permission requests, self-qualification and earnest initiative coexist. The anonymized recipient's wishes remain inferred, and Honami's response to Kanade's stronger absolute rescue vow is unshown (`PJSK:event:0002:02:002:0041–0057`; `PJSK:card:0115:01:002:0002–0052`).
+
+She describes practice with childhood friends and offers a future rehearsal recording in response to Kanade's interest, despite modest embarrassment about skill. At the shop she warmly recognizes shared town life; her companion stays unnamed. These give music-sharing willingness and reciprocal ordinary interests, without a shown delivery/listening session, newly formed friendship, changed governing goal or durable human successor (`PJSK:area:areatalk_ev_night_01_001:01:001:0002–0009`; `PJSK:area:areatalk_ev_night_01_003:01:001:0002–0010`).
+
+**Confidence / limits:** HIGH for speech, actions and explicitly reported motives; mixed motives, lasting assertiveness and future outcomes remain OPEN. Other three LN humans, School manifestations and group `LN-REL-G-P04` receive no state change. No later Kanade–Honami evidence is imported into this endpoint.
+
+
+## Historical EVENT_0004 — omitted linked-area supplement
+
+See the [scope-corrected checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_N25_INTEGRATION_CHECKPOINT.md) §15. Earlier EVENT_0004 and later historical records remain unchanged.
+
+### Mafuyu — EVENT_0004 area009 supplement; preserve `MF-E0002-01`
+
+The omitted area's ordinary work question, request to explain Emu's greeting, laugh and positive description add situational behavior within the existing EVENT_0004 state. They do not independently establish spontaneous positive affect, recovered preference access, a changed goal or a new human successor (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0002–0010`). Preserve the stronger original post-race evidence and all later Mafuyu defaults at their own cutoffs. Kanade/Ena/Mizuki receive no new state evidence. The Emu EVENT_0004 baseline-relative interpretation awaits the preceding WxS EVENT_0003 integration; this source supplement does not assign it prematurely.
+
+
+## Historical EVENT_0003 — ordered interpretation and Rui epistemic transition
+
+The [EVENT_0003 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) integrates WxS I3 and the bounded LN I1 appendix after their preceding routes. The original source screen, all earlier ledgers and the EVENT_0004 source supplement remain historically intact. No new human or company ID is introduced.
+
+### `WXS-MS-RUI-P06` — EVENT_0003 attachment, recognition and work practice
+
+**PRESERVE_WITH_I2_REFINEMENT.** Preserve the director who already chose this company and further experiments. The accident exposes a context-specific restraint he initially cannot explain. With KAITO's questions, he tentatively recognizes fear that Tsukasa may leave and that he may lose his valued creative place; this becomes available self-knowledge, not a first capacity for attachment. He accepts Nene's consultation proposal, returns to ambitious direction under an explicit uncertainty warning, and later distinguishes continuing safety consideration from the earlier troubled state. Private planning considers entanglement, lighting and sightlines, and he resolves not to lean on Tsukasa's broad willingness. Preserve technical absorption, teasing, direct thanks and dependence on responsive performers/staff. New fear-recognition and planning evidence supplement the state; they do not prove permanent recovery or universally complete disclosure.
+
+**Evidence:** `PJSK:event:0003:05:001:0038–0077`; `PJSK:event:0003:06:001:0051–0056`; `PJSK:event:0003:06:001:0075–0099`; `PJSK:event:0003:07:003:0014–0017`; `PJSK:card:0119:01:002:0002–0048`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Reliability of applying the distinction under future pressure; Consistent specific effect disclosure; No clinical diagnosis or cure.
+
+### `WXS-MS-TSUKASA-P06` — EVENT_0003 enabling duty and bodily limits
+
+**PRESERVE_WITH_I2_REFINEMENT.** Preserve recipient-oriented stardom, practical initiative, care, grandiosity and the EVENT_0001 family increment. After the accident he wants Rui's full creative work and also condemns himself for inhibiting the director; self-blame is not a correct allocation of accident responsibility. He apologizes for shouting, plans clearer explanation and renews effort. A later fall brings public bravado, private distress, accepted reduced movement and installed mats. He calls furnishing the director's working environment a troupe-leader responsibility and expressly denies that mats make every jump safe. The storage search for zombie robots extends his practical care to fellow performers/tools; the suitable space is reported, not a depicted move. No first-ever care, organizing or recognition of others is inferred.
+
+**Evidence:** `PJSK:event:0003:05:001:0017–0035`; `PJSK:event:0003:06:001:0102–0122`; `PJSK:event:0003:07:003:0075–0085`; `PJSK:card:0120:01:002:0011–0022`; `PJSK:card:0120:01:004:0002–0018`; `PJSK:card:0120:02:002:0031–0038`; `PJSK:card:0120:02:003:0002–0022`; `PJSK:card:0120:02:004:0003–0020`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Future response to injury or humiliation; No universal assent; Apply the bounded sibling relationship/epistemic increment below.
+
+### `WXS-MS-NENE-P06` — EVENT_0003 agency, ordinary participation and private disclosure
+
+**PRESERVE_WITH_I1_EVIDENCE.** Preserve renewed performance, professional aspiration, medium/context-sensitive speech and unresolved fear. She independently notices Rui's diminished enjoyment, proposes help despite private doubt and asks him to rely on her more. Those acts extend her prior mediation rather than inaugurating agency. She offers a scene idea, memorizes a script, thanks Len for its reported whereabouts, and describes audience response as making hard work worthwhile. With Emu she states a gate boundary, defends gaming friendships and later chooses private messaging to ask about being sought out. Warm receipt of the friendship affirmation coexists with real irritation and exhaustion. Rui's area007 report that she can stand onstage herself remains a local report; no cure, general mastery or completed robot joint debut follows.
+
+**Evidence:** `PJSK:event:0003:05:001:0038–0077`; `PJSK:event:0003:08:002:0039–0046`; `PJSK:card:0123:01:002:0002–0019`; `PJSK:card:0123:01:003:0008–0037`; `PJSK:card:0123:02:002:0042–0055`; `PJSK:area:areatalk_ev_wonder_01_005:01:001:0002–0009`; `PJSK:area:areatalk_ev_wonder_01_006:01:001:0002–0007`; `PJSK:area:areatalk_ev_wonder_01_007:01:001:0002–0007`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Extent of unmediated participation across audiences; Future private-message openness; Rui recovery appraisal is not certification.
+
+### `WXS-MS-EMU-P06` — EVENT_0003 shared-place joy, pursuit and boundaries
+
+**PRESERVE_WITH_I1_EVIDENCE.** Preserve local-stage attachment, desire for shared smiles, energetic invitations and practical initiative. She reports her grandfather's objection to ranking, assents to the contest through audience joy, interrupts conflict and pursues Tsukasa. Her panda-ride account and early role reenactment give concrete play/ordinary-life evidence. She values this four-person work and hopes the stage remains; the mascot's demolition-pause statement is not permanent security. With Nene, Emu explicitly values friendship and seeks shared meals while entering after a stated gate-only request. With Len she invents and performs a greeting and accepts a search request. These contexts add evidence without a new governing goal, a universal right to others' participation or institutional independence.
+
+**Evidence:** `PJSK:event:0003:02:002:0003–0026`; `PJSK:event:0003:05:001:0026–0028`; `PJSK:event:0003:06:001:0102–0122`; `PJSK:card:0122:01:002:0002–0071`; `PJSK:card:0122:02:001:0002–0058`; `PJSK:card:0123:02:002:0028–0055`; `PJSK:area:areatalk_ev_wonder_01_003:01:001:0002–0007`; `PJSK:area:areatalk_ev_wonder_01_004:01:001:0002–0009`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Whether future shared-time bids respect stated boundaries; Long-term family/stage decision; No literal panda-ride sentience.
+
+### Bounded Leo/need disposition — EVENT_0003
+
+### `LN-SAKI-MS-P04` — EVENT_0003 household behavior; I1
+
+**PRESERVE.** Against P04's context-sensitive concern/agency and EVENT_0001's more specific lost-time fear and accepted pacing, this brief home exchange adds ordinary irritation, rapid concern at Tsukasa's toe collision and a concrete request about noise reaching downstairs. Familiar sibling address and hesitant follow-through coexist with direct boundary-setting. No first-ever care, changed governing goal, band consequence or durable human successor is shown. Preserve all four LN P04 humans, EVENT_0001–0002 increments and group `LN-REL-G-P04`.
+
+**Evidence:** `PJSK:card:0120:02:003:0013–0018`. **Confidence:** HIGH for observed speech and concern. **OPEN:** whether the noise stops, any information she hears before speaking, and repetition beyond this instance. Tsukasa's full rehearsal history and later mat solution are not assigned to Saki's knowledge.
+
+
+## Historical EVENT_0004 — founded cross-unit interpretation complete
+
+Historical EVENT_0004 is now fully integrated across its founded unit scopes: **MMJ I3**, **WXS I3**, **LEO_NEED I2**, **VBS I1**, and **N25 I2 preserved** with the earlier area009 I1 supplement. The [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) close the previously sparse non-active-unit detail through targeted evidence review. The retained complete discovery plus omitted area comprises 27 stories / 53 scenes / 1,433 records; no new universal pass is claimed. Haruka–Emu friendship and Haruka's continuing class access support I3; Saki's informed reliance implements her existing approach at I2. All human/group defaults remain, with differentiated ordinary, relationship and knowledge increments. Shared records have one reconciled EVENT4 entry per responsibility. Wonderland participants remain distinct from other manifestations. Nineteen historical screening gaps start at EVENT_0005; forward next EVENT_0091 and mature reconstruction/synthesis obligations remain unchanged.
+
+### MMJ-HR-MS-04 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Preserve returned idol/founder, practical care, accepted support and bounded recovery status. Add school-context evidence: chooses committee work after group consultation, negotiates constraints, protects an injured participant, voices specific baton anxiety, competes with support, acknowledges enjoyable school belonging and loss at its ending, and initiates ordinary interest-based contact. School knowledge/relationship changes are independent records, not a fabricated global psychological successor.
+
+**Evidence:** `PJSK:event:0004:01:002:0064–0080`; `PJSK:event:0004:02:002:0045–0069`; `PJSK:event:0004:06:001:0016–0046`; `PJSK:event:0004:07:001:0019–0028`; `PJSK:event:0004:08:001:0025–0053`; `PJSK:card:0125:01:002:0025–0054`; `PJSK:area:areatalk_ev_shuffle_01_006:01:001:0002–0009`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Durability beyond shown post-festival contact, wider stage contexts, clubs and professional arrangements remain OPEN.
+
+### MMJ-MN-MS-04 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Preserve novice member, admiration, initiative and real skill gap. Adds assent to Haruka committee time, enjoyment of designed activities with school peers, video-sharing for Haruka, proposed photographic help through Kohane, and embarrassed divided cheering. No new global state.
+
+**Evidence:** `PJSK:event:0004:01:002:0072–0076`; `PJSK:event:0004:05:001:0017–0025`; `PJSK:card:0125:01:002:0020–0023`; `PJSK:card:0125:02:002:0037–0064`; `PJSK:card:0128:02:003:0018–0023`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future durability and unshown transmission remain OPEN.
+
+### MMJ-AI-MS-04 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Preserve exacting teacher and reciprocal founding member. Accommodates a limited school opportunity, participates and helps recruitment across credit classes, values school events alongside proper idol activity, and supplies Haruka with an explanation of others support. Spectators report forceful pole-collecting; no clinical, career or global personality successor.
+
+**Evidence:** `PJSK:event:0004:01:002:0069–0071`; `PJSK:event:0004:05:001:0027–0029`; `PJSK:card:0125:02:002:0009–0034`; `PJSK:card:0125:02:002:0045–0051`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future durability and unshown transmission remain OPEN.
+
+### MMJ-SZ-MS-04 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Preserve active supportive member and unreconciled old-group history. Agrees to Haruka committee time, helps school recruitment, reports enjoyable class participation, and values shared memories. Spectators perception that others avoid injuring her is attributed testimony, not a self-authored strategy or new psychological state.
+
+**Evidence:** `PJSK:event:0004:01:002:0072–0076`; `PJSK:event:0004:05:001:0027–0029`; `PJSK:card:0125:02:002:0006–0029`; `PJSK:card:0125:02:002:0045–0054`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future durability and unshown transmission remain OPEN.
+
+**Unchanged manifestation responsibility:** preserve `MMJ-VS-STAGE-02`; EVENT4 supplies no Stage manifestation evidence and Wonderland experience does not transfer by shared identity.
+
+### WXS-MS-EMU-P06 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Preserve stage attachment, recipient-oriented joy, imaginative initiative, valued friendship and established capacity to receive support. School work shows acceptance of a practical redesign, sustained adaptation/decoration and shared responsibility. New contexts reveal fatigue despite desire to do both commitments; she accepts a changed rehearsal priority and later thanks peers, without articulating a durable pacing rule. With Mafuyu she can become frightened, formally polite and evasive, cooperate athletically, notice differing expressions, communicate some appraisals and openly admit not knowing their cause. She shares sadness at a happy event ending, retains grandfather-derived tomorrow-oriented purpose, and forms post-task friendship with Haruka. Ordinary food, play, club/exploration interests and direct competitive speech remain. No successor human ID.
+
+**Evidence:** `PJSK:event:0004:02:002:0012–0026`; `PJSK:event:0004:02:002:0036–0076`; `PJSK:event:0004:03:003:0007–0018`; `PJSK:card:0124:02:002:0013–0067`; `PJSK:event:0004:04:001:0020–0043`; `PJSK:event:0004:08:001:0022–0053`; `PJSK:card:0127:01:001:0023–0063`; `PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Long-term pacing, fear/effect appraisal, universal smile efficacy and respect for others' limits remain OPEN.
+
+### WXS-MS-TSUKASA-P06 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Retain recipient-oriented star ambition, practical leadership, grandiosity and EVENT1/3 care refinements. He tolerates a minor Emu line lapse to preserve flow, joins concern after she falls asleep, announces prop maintenance instead of next-day acrobatics, and gives her school commitment priority. Success rhetoric coexists with accommodation. In Wonderland play he objects to unexpected rules, loses, and renews competitive effort. No new goal, cure or human successor.
+
+**Evidence:** `PJSK:card:0124:02:001:0002–0009`; `PJSK:card:0124:02:002:0013–0057`; `PJSK:card:0124:02:002:0061–0067`; `PJSK:card:0126:02:002:0003–0011`; `PJSK:card:0126:02:003:0013–0022`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future failure response and completed next-day maintenance remain OPEN.
+
+### WXS-MS-NENE-P06 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Retain chosen performance, professional aim, context-sensitive directness and medium-enabled agency. Nene notices Emu's uncharacteristic lapse, raises concern, recognizes acrobatics as unsuitable under fatigue and endorses prioritizing the festival. Stern wording supports this accommodation. In Wonderland she expresses frustration at an apparently impossible train request, then infers the toy-search solution from a found example. No cure, universal direct social ease or successor state.
+
+**Evidence:** `PJSK:card:0124:02:002:0005–0029`; `PJSK:card:0124:02:002:0033–0057`; `PJSK:card:0126:02:003:0002–0022`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Generalization across unfamiliar social contexts and actual completion of all planned work remain OPEN.
+
+### WXS-MS-RUI-P06 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Retain chosen collaboration, experimental interest and EVENT3 operative distinction between deliberate safety work and troubled restraint. Rui notices Emu's unusual errors, hypothesizes fatigue and proposes changing acrobatics to protect both commitments. In Wonderland he recalls the clue, seeks the chest and reasons from the toy. Deliberate care continues; no new fear-recognition, universal diagnostic accuracy or successor state.
+
+**Evidence:** `PJSK:card:0124:02:002:0013–0043`; `PJSK:card:0126:02:001:0017–0020`; `PJSK:card:0126:02:003:0002–0010`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Reliability beyond the described case; no unshared fatigue reasoning assigned to sleeping Emu.
+
+### LN-SAKI-MS-P04 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Preserve P04 goals and EVENT1 accepted pacing. Preparation supplies proactive disclosure of uncertain limits to Haruka/Emu before another illness, accepted reliance and capacity-bounded reciprocity. Successful participation here and her growth claim strengthen a used strategy, not universal limit mastery. Notices/multilateral lists, injury care, invitations and photo collection preserve active ordinary contribution.
+
+**Evidence:** `PJSK:card:0128:01:003:0005–0035`; `PJSK:card:0128:01:002:0002–0017`; `PJSK:event:0004:08:001:0002–0007`; `PJSK:event:0004:03:003:0002–0019`; `PJSK:event:0004:03:005:0002–0018`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Broader reliability and exact physical limits remain unproved; no new human ID.
+
+### LN-ICHIKA-MS-P04 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Preserve established quiet initiative. Offers lunch and school context, supports Haruka recruitment, attends to injury and cheers; worries about Saki and receives her later consultation account. Suggests a cause for Haruka approachability as a hypothesis. Ordinary teasing and food preference coexist with care.
+
+**Evidence:** `PJSK:event:0004:01:002:0014–0025`; `PJSK:event:0004:01:002:0044–0078`; `PJSK:event:0004:06:001:0010–0034`; `PJSK:card:0128:01:002:0002–0017`; `PJSK:card:0128:01:003:0039–0048`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Does not hear Haruka private fitting-in reflection or every committee conversation.
+
+### LN-HONAMI-MS-P04 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Existing plural belonging permits ordinary Emu friendship, direct congratulations and shared food. Notices nervousness but privately hypothesizes admired-senior nerves without knowing Emu actual appraisal. Photo embarrassment and assent after entreaty stay visible; neither a new exclusion crisis nor unrestricted ease is inferred.
+
+**Evidence:** `PJSK:event:0004:04:001:0029–0042`; `PJSK:event:0004:07:001:0029–0038`; `PJSK:card:0128:02:004:0002–0018`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. No Emu fear explanation, N25 private history, universal fear removal or diagnosis.
+
+### LN-SHIHO-MS-P04 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Preserve musical rigor and differentiated ordinary interests. Stern-looking attention resolves into stated reluctance to throw cute balls; later embarrassment concerns Saki photo candidacy. Recorded dry correction tracks class allegiance; Kohane-camera knowledge is a practical peer report.
+
+**Evidence:** `PJSK:event:0004:05:001:0017–0025`; `PJSK:card:0125:02:002:0055–0064`; `PJSK:card:0128:02:003:0002–0023`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. No lasting permission norm, musical-goal change or identity merge across differently labeled relays.
+
+### VBS-KOHANE-MS4 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Notices decorated balls differ from practice, appreciates effort and tentatively points out the need to throw to win. Camera use is Minori/Shiho report while she is absent; the later request and image delivery are not shown received/completed. Preserve initiative with residual social anxiety.
+
+**Evidence:** `PJSK:event:0004:05:001:0017–0025`; `PJSK:card:0128:02:003:0018–0023`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. No global confidence, photography expertise or fulfilled contribution inferred.
+
+### VBS-AN-MS4 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Preserve current An baseline. Haruka reports a close childhood friendship/relay rivalry and missed rematch. An remembered displeasure is Haruka private recollection. No current An choice, memory confirmation, present intimacy or VBS development is shown.
+
+**Evidence:** `PJSK:card:0125:01:002:0040–0046`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Current memory, future rematch and continuing closeness OPEN.
+
+Other human defaults, N25's forward tuple and all unrepresented singer manifestations remain unchanged. No empty successor state is introduced.

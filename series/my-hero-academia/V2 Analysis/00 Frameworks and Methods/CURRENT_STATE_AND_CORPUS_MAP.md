@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES_V2
 generation: V2
 status: canonical
-source_boundary: Complete canonical V2 Japanese main manga V01-V42 through V42:p183 with reconstruction, aggregate validation, specialist and full-series syntheses; supplemental inventory remains provisional
+source_boundary: Complete canonical V2 Japanese main manga V01-V42 through V42:p183 with reconstruction, aggregate validation, comparative specialists, eight individual literary studies and full-series syntheses; supplemental inventory remains provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -47,6 +47,8 @@ do_not_use_as_current_authority: false
 
 **MHA_SP2 is analytically complete for the authorized Japanese main-manga V01–V42 scope, including chapter 431 through V42:p183.** V41 and V42 are canonical, all thirty eligible reconstruction models are present, aggregate validation covers all thirty probes and five checkpoint comparisons, and the eight-specialist/four-document full-series corpora are complete. No main-volume next task remains. Historical snapshots below retain their original knowledge boundaries and are not live continuation instructions.
 
+**Post-completion maturation is complete locally.** The completed baseline above remains intact. The additional user-authorized work developed S1–S7, added eight distinct literary-character homes inside the existing specialist area, and refined four model supports while preserving S8 and twenty-six other dossiers. The [architecture's maturation responsibilities](MHA_SP2_SYNTHESIS_ARCHITECTURE.md#15-post-completion-maturation-and-literary-character-ownership) and [implementation record](../08%20Audits%20and%20Manifests/MHA_SP2_MATURATION_IMPLEMENTATION_RECORD.md) govern the completed additions and verification. Publication remains separate; the local Git history records these analytical changes, while this entrypoint does not certify a push or protected integration. No sequential volume queue has reopened.
+
 | Current responsibility | Canonical route |
 |---|---|
 | Governing method, architecture and schema | [Method](MHA_SP2_ANALYTICAL_METHOD_V2_1.md), [architecture](MHA_SP2_SYNTHESIS_ARCHITECTURE.md), [modeling schema](MHA_SP2_CHARACTER_MODELING_SCHEMA.md) |
@@ -54,8 +56,11 @@ do_not_use_as_current_authority: false
 | Final checkpoint and sole tier authority | [Post-Final-War checkpoint](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_V42_POST_FINAL_WAR_MODEL_CHECKPOINT.md), [readiness index](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) |
 | Thirty reconstruction dossiers and validation | [Model corpus index](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_RECONSTRUCTION_CORPUS_INDEX.md), [aggregate report](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AGGREGATE_RECONSTRUCTION_VALIDATION.md) |
 | Eight specialist syntheses / all fourteen ledger dispositions | [Specialist index](../05%20Specialist%20Synthesis/MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md) |
+| Eight individual literary character studies | [Literary homes and governing questions](../05%20Specialist%20Synthesis/MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md#individual-literary-character-responsibilities) |
 | Definitive four-document synthesis corpus | [Full-series entrypoint](../06%20Full-Series%20Synthesis/MHA_SP2_FULL_SERIES_SYNTHESIS.md), routing paired adjudication, social future, and form/revision/residuals |
 | Primary retrieval, source scope and correction provenance | [Locator](../07%20Evidence%20and%20Indexes/MHA_SP2_PRIMARY_SOURCE_LOCATOR.md), [inventory](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_SOURCE_INVENTORY.md), [publication/source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) |
+
+[Post-completion maturation implementation and source checks](../08%20Audits%20and%20Manifests/MHA_SP2_MATURATION_IMPLEMENTATION_RECORD.md) record the bounded additions, corrected current locators, unchanged historical freezes and separate publication status.
 
 Current readiness remains **86 rows: 18 insufficient, 18 emerging, 20 moderate, 17 strong, 13 specialist_ready**. The user-authorized dossier scope covers the latter two tiers without promoting them; Kurogiri remains moderate with a qualified mixed-continuity checkpoint comparison. Retrospective holdouts are not blind trials, and the original Hawks test remains contaminated after excluding V28 extraction from its V27 freeze.
 
