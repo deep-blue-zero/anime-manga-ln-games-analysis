@@ -1,0 +1,78 @@
+---
+series: MHA
+corpus: MHA_SP2
+artifact_type: character_monograph
+scope: BAKUGO_KATSUKI_FULL_SERIES_V01-V42
+generation: V2
+status: canonical
+source_boundary: Japanese main manga Volumes 1-42, including chapter 431; supplemental expansion excluded
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# MHA SP2 — Bakugo Katsuki: from proof of worth to enabling another
+
+**Governing question:** How do admiration and proof of worth develop from domination into accountable cooperation and enabling care without erasing earlier harm or persistent voice?
+
+## Winning must mean something to the winner
+
+**Interpretation.** Bakugo develops through revisions in what an acceptable victory requires and how another person's excellence bears on his own value. Early superiority turns dependence into humiliation and Midoriya's concern into an intolerable challenge. Later cooperation does not remove his admiration for victory or his abrasive speech. It changes what he can acknowledge, what he is responsible for, and whether helping another succeed diminishes him.
+
+His early cruelty is actual conduct, not a protective mask whose later explanation acquits it. Social praise of talent and a hierarchy that places Midoriya below him help make his response intelligible, but do not make it inevitable. The threatening feature of Midoriya's offered hand is not simply that help exists. It comes from someone whose assigned inferiority should, in Bakugo's early logic, rule out the position of helper. V02 makes the contradiction visible when a supposedly inferior rival demonstrates tactical understanding and an ability Bakugo cannot explain. [V01](../02%20Sequential%20Readings/MHA_SP2_V01_DEEP_READING.md), childhood and rescue; [V02](../02%20Sequential%20Readings/MHA_SP2_V02_DEEP_READING.md), battle training.
+
+The festival shows why mere applause does not satisfy him. His declaration invites public hostility, but he still demands a victory whose conditions meet his own standard. Against Ochako he takes the opponent's possible action seriously while spectators read the situation through a patronizing protective frame. That tactical respect should not be inflated into complete understanding of her motives or general emotional maturity. It does establish that outsiders' easy moral reading of his combat manner is incomplete. [V03](../02%20Sequential%20Readings/MHA_SP2_V03_DEEP_READING.md), public declaration; [V05](../02%20Sequential%20Readings/MHA_SP2_V05_DEEP_READING.md), Ochako match.
+
+Shoto's withdrawal of fire then gives Bakugo a nominal championship he cannot accept as an adequate test. The restrained podium image produces a winner for public consumption while disregarding the meaning he assigns to winning. The scene makes him a victim of institutional misrecognition without making his treatment of Midoriya innocent. Those judgments coexist. **Strong inference:** his need for an internally credible victory is more stable than a simple hunger for any available public approval. [V05](../02%20Sequential%20Readings/MHA_SP2_V05_DEEP_READING.md), final match and awards.
+
+## The villain invitation fails because it mistakes anger for allegiance
+
+The League's recruitment uses the public image of an angry, constrained student as if it revealed a latent enemy of hero society. Bakugo's refusal instead makes his admiration for heroic victory explicit. He need not become gentle or explain himself attractively in order to remain committed to that ideal. Aizawa's defense draws on observed motivation; the teacher is not merely protecting the school's reputation by denying obvious villainy. [V10](../02%20Sequential%20Readings/MHA_SP2_V10_DEEP_READING.md), captivity and p110.
+
+This is not yet the later ethical relation to Midoriya. A heroic aspiration can coexist with cruelty, distorted pride and poor cooperation. The captivity scene defeats a specific claim about likely affiliation; it does not certify a finished moral character. Its value in the whole trajectory is to show that subsequent growth reorganizes a real commitment already present rather than introducing heroic allegiance for the first time.
+
+## Different people make different forms of dependence possible
+
+The Kamino extraction depends on choosing a person from whom Bakugo can accept a hand. Kirishima's relation offers a route that Midoriya recognizes he cannot simply substitute himself into. The rescue is therefore a work of relational judgment as well as geometry and timing. Accepting it does not suddenly eliminate the exceptional charge surrounding Midoriya. [V11](../02%20Sequential%20Readings/MHA_SP2_V11_DEEP_READING.md), p020–025.
+
+The later Ground Beta confrontation addresses another condition: Bakugo's burden of responsibility for All Might's loss and his uncertainty about Midoriya's relation to that mentor. The duel exposes a question the earlier rescue does not answer. Adult clarification in V14 redistributes responsibility and changes shared knowledge; later technical feedback becomes possible in that altered relationship. **Interpretation:** action, disclosure and explanation each do work. Collapsing them into one generic acceptance-of-help event loses the actual mechanism of change. [V13](../02%20Sequential%20Readings/MHA_SP2_V13_DEEP_READING.md), duel and guilt; [V14](../02%20Sequential%20Readings/MHA_SP2_V14_DEEP_READING.md), aftermath and training.
+
+Mentorship also broadens the measure of competence. Jeanist's concern with public presentation and the licensing exercise's recipient-facing assessment resist the belief that correct tactical judgment alone completes a professional act. Bakugo can identify the appropriate triage category and still fail to reassure the person being assessed. The error is communicative without being superficial: how a recipient understands an intervention affects its practical success. [V06](../02%20Sequential%20Readings/MHA_SP2_V06_DEEP_READING.md), internship; [V13](../02%20Sequential%20Readings/MHA_SP2_V13_DEEP_READING.md), licensing.
+
+## Learning to contribute does not require a gentle register
+
+The remedial course places Bakugo and Shoto among children whose cooperation cannot simply be extracted through force. Bakugo's warning about looking down on others is consequential because the scene makes his own earlier stance available for revision. The group must create an occasion for participation and respond to peers with different approaches. This is social learning within a continuing competitive temperament. [V18](../02%20Sequential%20Readings/MHA_SP2_V18_DEEP_READING.md), remedial children.
+
+Music then gives the temperament another object. The Japanese pages locate Bakugo's drum demonstration at V19:p073 and the dispute over participation at p074–076. His reluctance is not adequately explained as dislike of noncombat activity. He objects to a conciliatory performance offered to students who blame Class A for their troubles, then reframes the event as a serious musical challenge. His words remain aggressive, but he commits himself within Jiro's project. Later assignment and rehearsal at p079–087 corroborate the collective role; they are not the location of the original recruitment decision. [V19](../02%20Sequential%20Readings/MHA_SP2_V19_DEEP_READING.md), p073–077,p079–087; targeted page checks in the maturation record.
+
+This scene has two implications. First, competent contribution can be motivated through pride and solidarity with blamed peers rather than a sudden change into an agreeable person. Second, Jiro is an independent organizer whose chosen musical aim gives him somewhere to contribute. Her agency should not disappear into an account of his surprising skill. The performance is a cooperative achievement with several centers. [V20](../02%20Sequential%20Readings/MHA_SP2_V20_DEEP_READING.md), festival.
+
+Earlier repayment and technical feedback already establish noncombat reciprocity, so the festival is not the discovery that Bakugo can ever cooperate outside battle. It extends the demonstrated range and specifies a condition: the public meaning of the task matters to his assent. That is analytically richer than using the drums as charming trivia or counting them as an automatic new validation success.
+
+## Accountability changes the object of effort
+
+Later combat cooperation joins Bakugo's technical attention to a more explicit understanding of Midoriya's vulnerability. His intervention and injury do not erase the need for acknowledgment in words. The V33 apology names the earlier relation and changes what he publicly accepts responsibility for. It should not be reduced to a performance whose sincerity depends on immediate forgiveness, nor inflated into proof that every harmful habit has vanished. [V29](../02%20Sequential%20Readings/MHA_SP2_V29_DEEP_READING.md); [V30](../02%20Sequential%20Readings/MHA_SP2_V30_DEEP_READING.md), intervention and rivalry; [V33](../02%20Sequential%20Readings/MHA_SP2_V33_DEEP_READING.md), apology and return.
+
+The distinction matters because self-sacrifice can also serve pride. The stronger evidence of change is not merely that he is willing to be injured, but that he can address the person harmed and continue supporting that person's future. Final-war attention, survival through others' work and the experience of bodily limits make dependence increasingly unavoidable. They also prevent an account in which exceptional will alone produces his return. [V36](../02%20Sequential%20Readings/MHA_SP2_V36_DEEP_READING.md), injury; [V40](../02%20Sequential%20Readings/MHA_SP2_V40_DEEP_READING.md), return and action.
+
+The postwar response to Midoriya's loss gives rivalry a new task. Rehabilitation concerns Bakugo's own damaged body; the long material effort toward the suit concerns another person's access to a desired activity. The support is enabling and collective, with Bakugo centrally involved. It preserves admiration for Midoriya's capacity to act while refusing to accept that unequal fortune must end their shared field. [V42](../02%20Sequential%20Readings/MHA_SP2_V42_DEEP_READING.md), recovery and p140–141.
+
+**Interpretation:** this is a movement from proving superiority by constraining another's standing toward proving commitment by enlarging another's possibilities. The continuity of effort and exacting standards makes the change recognizable. Its moral value depends on what the effort now does, not on pretending its earlier object was always benevolent.
+
+## Adult bluntness preserves both continuity and a remaining limit
+
+The adult scenes keep Bakugo's voice forceful and sometimes socially unhelpful. An invitation does not guarantee the addressee will hear the desired meaning, and Midoriya's account of his teaching vocation remains his own. The same person who materially supports him cannot simply dictate his preferred form of participation. This prevents the suit from becoming a claim on Midoriya's whole future. [V42](../02%20Sequential%20Readings/MHA_SP2_V42_DEEP_READING.md), p158–175.
+
+The result is not a personality replacement. Nor is it a claim that an unchanged manner makes development unreal. Voice, practical obligation and relational meaning have changed at different rates. The comic can preserve difficult social texture while giving long action and explicit acknowledgment substantial moral weight.
+
+## Rival readings: concealed goodness or a cosmetic apology
+
+The concealed-goodness reading correctly notices heroic allegiance and tactical respect before the apology, but misuses those facts if it retrospectively converts cruelty into care. The cosmetic-apology reading correctly refuses to let one speech settle a history, but cannot explain the changed knowledge, sustained cooperation, costly acknowledgment and years of material support by pointing only to a familiar insult.
+
+The evidence supports real, limited ethical development. Bakugo's admiration for victorious heroism survives; his understanding of whose excellence can coexist with his own and what he owes a harmed peer changes. The other person's acceptance is never automatic, and the adult sample does not license a universally tactful or fully repaired future. His literary trajectory is strongest when those remaining limits are part of the achieved change rather than objections that force all-or-nothing judgment.
+
+## Evidence, ownership and limits
+
+This is the individual literary home specified by [architecture §15](../00%20Frameworks%20and%20Methods/MHA_SP2_SYNTHESIS_ARCHITECTURE.md#15-post-completion-maturation-and-literary-character-ownership). [S1](MHA_SP2_CHARACTER_DEVELOPMENT_AND_RELATIONSHIPS_SYNTHESIS.md) retains the comparative account of directed rivalry and conditional cooperation; [S7](MHA_SP2_JAPANESE_LANGUAGE_AND_LONGITUDINAL_FORM_SYNTHESIS.md) retains voice and recurring-place comparison. F1/F3 consume the distinction between acknowledged change, sustained enablement and retrospective excuse. Primary evidence is retrieved through the cited sequential readings and [Class 1-A ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md) and [relationship ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md). The [specialist index](MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md) routes the comparative and individual responsibilities.
+
+Depicted actions and attributed statements support the observations above; their longitudinal connection is an interpretation. Strong inferences and residuals are identified where the distinction affects the conclusion. Later disclosures qualify earlier causal accounts without becoming knowledge earlier characters possessed. This document is not a reconstruction freeze or a new validation result. The [primary locator](../07%20Evidence%20and%20Indexes/MHA_SP2_PRIMARY_SOURCE_LOCATOR.md), [source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) and [maturation record](../08%20Audits%20and%20Manifests/MHA_SP2_MATURATION_IMPLEMENTATION_RECORD.md) distinguish inherited evidence, targeted new page checks and excluded paratext.

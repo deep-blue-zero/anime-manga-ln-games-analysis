@@ -1,0 +1,78 @@
+---
+series: MHA
+corpus: MHA_SP2
+artifact_type: character_monograph
+scope: SHIGARAKI_TOMURA_FULL_SERIES_V01-V42
+generation: V2
+status: canonical
+source_boundary: Japanese main manga Volumes 1-42, including chapter 431; supplemental expansion excluded
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# MHA SP2 — Shigaraki Tomura / Tenko: acquired agency under an engineered history
+
+**Governing question:** How does the work construct destructive leadership and situated agency while progressively revealing engineered history, possession and contested identity?
+
+## A person develops before the reader receives a complete origin
+
+**Interpretation.** Shigaraki's literary force depends on the work making his agency visible before progressively revising the conditions under which it formed. An immature attacker becomes a leader capable of inquiry, delayed retaliation and delegated trust; later revelations expose childhood injury, engineered circumstances and bodily appropriation. Neither half can simply cancel the other. If he was never an agent, possession steals nothing. If development made him wholly self-created, the engineered history becomes irrelevant precisely where the narrative insists it matters.
+
+The early USJ attack gives him a mixture of perception and immaturity. He can assess weaknesses in a heroic ideal and use a planned operation, yet responds poorly when the encounter exceeds his expectations. V03's unseen mentor reframes failure as information and encourages stronger allies. Retrospectively that teacher is AFO; within the early disclosure state the identity is not yet available. The structural comparison with All Might's construction of a successor is already possible without granting the early character knowledge of the final plot. [V02](../02%20Sequential%20Readings/MHA_SP2_V02_DEEP_READING.md); [V03](../02%20Sequential%20Readings/MHA_SP2_V03_DEEP_READING.md), USJ aftermath and paired mentorship.
+
+This distinction between chronology and disclosure must govern the whole study. The child Tenko's history occurs earlier in the life, but arrives later in the reader's judgment. The adult's prior actions are not merely placeholders waiting for the authentic child to appear. They are part of what the later account has to explain.
+
+## Conviction is acquired through conflict rather than delivered intact
+
+Stain initially confronts Shigaraki with a rival kind of purpose and a humiliating contrast in charisma. Stain's mediated image then attracts people to the League, producing an opportunity its leader resents. The recruits do not become evidence that Shigaraki already possesses the ideology they admire. Public circulation assembles a group before its internal purposes align. [V06](../02%20Sequential%20Readings/MHA_SP2_V06_DEEP_READING.md); [V07](../02%20Sequential%20Readings/MHA_SP2_V07_DEEP_READING.md), Stain and recruitment.
+
+The mall encounter is a distinctive act of learning because Shigaraki recruits an adversary into clarifying his grievance. Midoriya explains why Stain's conviction can be intelligible while his methods remain unacceptable. Shigaraki finds a common target in the Symbol whose reassuring social effects organize his hatred. The encounter produces an articulated direction; it does not establish that this direction is ethically justified. A villain can learn from another person and become more dangerous through the resulting clarity. [V08](../02%20Sequential%20Readings/MHA_SP2_V08_DEEP_READING.md), mall.
+
+Subsequent target selection and coordination test whether the articulation changes conduct. The Bakugo recruitment fails because an angry public image does not entail the allegiance Shigaraki wants. The failure forces him to ask for help, exposing dependence rather than secretly proving that every contingency was under control. AFO's later withdrawal is presented as a condition intended to stimulate leadership; its predicted benefits still require evidence in what Tomura subsequently does. [V09](../02%20Sequential%20Readings/MHA_SP2_V09_DEEP_READING.md); [V10](../02%20Sequential%20Readings/MHA_SP2_V10_DEEP_READING.md), attack and captivity; [V11](../02%20Sequential%20Readings/MHA_SP2_V11_DEEP_READING.md), predecessor withdrawal.
+
+## A chosen place can organize violence without a common doctrine
+
+League affiliation becomes consequential through differences. Twice values a place to belong; Dabi filters recruits destructively; Magne defends the legitimacy of her chosen space against Overhaul's demand for subordination. Their motives are neither uniform nor reducible to the leader's words. Shigaraki's response to Magne's death has to reckon with the group as something he can endanger through immediate retaliation. Delayed action becomes an acquired leadership capacity. [V13](../02%20Sequential%20Readings/MHA_SP2_V13_DEEP_READING.md); [V14](../02%20Sequential%20Readings/MHA_SP2_V14_DEEP_READING.md), recruitment and Overhaul.
+
+Delegation to Toga and Twice later gives their anger room to act inside a strategy. The Hassaikai sequence consequently develops more than a revenge payoff: Tomura can use initiative he does not personally script. The final retaliation and acquisition of technology show the organizational consequence. **Strong inference:** his leadership becomes more capable of keeping a group viable and acting through its members. That is development in agency and competence, not a moral conversion. [V16](../02%20Sequential%20Readings/MHA_SP2_V16_DEEP_READING.md); [V17](../02%20Sequential%20Readings/MHA_SP2_V17_DEEP_READING.md); [V18](../02%20Sequential%20Readings/MHA_SP2_V18_DEEP_READING.md).
+
+The later struggle for resources prevents romanticizing the League as belonging sufficient unto itself. Food, money, brokers, retainers and technological access matter. Inherited nomination does not automatically command loyalty, and Spinner can question what the leader is doing. When the MLA challenges them, the encounter joins a precarious group to a much larger political and corporate system. [V23](../02%20Sequential%20Readings/MHA_SP2_V23_DEEP_READING.md); [V24](../02%20Sequential%20Readings/MHA_SP2_V24_DEEP_READING.md).
+
+Re-Destro's submission interprets defeat through liberation doctrine, but does not show that Tomura has adopted that doctrine in full. The PLF combines his destructive authority and comrades with infrastructure and resources carrying other histories. The resulting program increases the scale of possible harm. The history is therefore not adequately described as an isolated victim finally finding friends. It is also the acquisition of institutional reach through a coalition of unlike motives. [V25](../02%20Sequential%20Readings/MHA_SP2_V25_DEEP_READING.md); [V26](../02%20Sequential%20Readings/MHA_SP2_V26_DEEP_READING.md). [S5](MHA_SP2_VILLAIN_FORMATION_AND_ACCOUNTABILITY_SYNTHESIS.md) retains that comparative organizational explanation.
+
+## The origin changes causal judgment without acquitting later choices
+
+The Tenko disclosure makes a household's rule, paternal violence, failed adult protection and catastrophic bodily action available as a causal history. The visual presence of the child confronts the reader with suffering that the adult's destructive power could otherwise obscure. Yet the inference cannot be that seeing the child establishes the innocence of everything the adult later does. The relevant task is to hold injuries, available support and subsequent choices together. [V24](../02%20Sequential%20Readings/MHA_SP2_V24_DEEP_READING.md); [V25](../02%20Sequential%20Readings/MHA_SP2_V25_DEEP_READING.md), household and catastrophe.
+
+AFO's later account revises how spontaneous those conditions can be judged. The text supplies substantial grounds for specific engineering and manipulation. His stronger assertion that every choice therefore belongs to him is a different proposition, one made by a controller seeking to eliminate the subject's standing. The League history and Tomura's resistance provide evidence against accepting that total claim. Explanation becomes more constrained and more culpability-sensitive; it does not become a transfer of all authorship to the person boasting of control. [V41](../02%20Sequential%20Readings/MHA_SP2_V41_DEEP_READING.md), origin intervention and AFO's account.
+
+An important residual survives: the manga does not show a controlled alternative childhood or a surviving adult under safe, noncoercive conditions. It cannot specify exactly which later capacities or commitments would remain in such a life. That uncertainty is a reason to avoid determinism in either direction, not a reason to abandon the depicted history.
+
+## Possession violates a will that is not thereby harmless
+
+Accepting enhancement under the terms available to Tomura is not informed consent to AFO's occupation. The body's incomplete preparation and the emergence of a competing will expose an asymmetry between acquiring capacity and retaining command of it. Tomura can own a destructive intention while resisting the predecessor's claim over his person. The two conflicts are simultaneous: opposition to AFO does not make him the heroes' ally, and opposition to the heroes does not legitimize AFO's possession. [V25](../02%20Sequential%20Readings/MHA_SP2_V25_DEEP_READING.md), preparation; [V28](../02%20Sequential%20Readings/MHA_SP2_V28_DEEP_READING.md); [V29](../02%20Sequential%20Readings/MHA_SP2_V29_DEEP_READING.md); [V30](../02%20Sequential%20Readings/MHA_SP2_V30_DEEP_READING.md), awakening and contested control.
+
+Spinner's recognition and the later interior recovery continue the relational history within that struggle. Memories and attachments cannot be treated as meaningless deposits simply because a more powerful agent says the identity has dissolved. Yet the body and voice are genuinely unstable across the conflict; an analyst must not attribute every mixed utterance to one pure speaker. The eventual return of destructive intent prevents reading recovery as the restoration of an already pacified true self. [V31](../02%20Sequential%20Readings/MHA_SP2_V31_DEEP_READING.md), Spinner and contested identity; [V38](../02%20Sequential%20Readings/MHA_SP2_V38_DEEP_READING.md), internal recovery; [V40](../02%20Sequential%20Readings/MHA_SP2_V40_DEEP_READING.md), continuing intent.
+
+This is the central literary contradiction the story sustains: the reader can want him freed from another's control without endorsing what he wants to do with freedom. His claim against possession remains valid even when his chosen conduct is indefensible.
+
+## Terminal recognition does not settle the meaning of rescue
+
+The final intervention reaches an interior history by force. Midoriya's commitment to the crying child is not Tomura's agreement to accept the hero's proposed future. The process also opens space for AFO's renewed control, making it impossible to describe as an uncomplicated gift of understanding. Nana's blocking, Tenko's contradiction, the League-directed montage and Tomura's terminal re-emergence have to be distinguished rather than compressed into one recovered voice. [V41](../02%20Sequential%20Readings/MHA_SP2_V41_DEEP_READING.md), p110,p116,p121–123; [V42](../02%20Sequential%20Readings/MHA_SP2_V42_DEEP_READING.md), p018.
+
+The final words preserve an identification with people for whom he has acted as a hero, even though the reader need not endorse the destruction that relation supported. Midoriya's later conversation with Spinner transmits a part of that self-expression to someone whose grief and loyalty retain a hostile perspective. The resulting memory is plural. The protagonist does not become sole custodian of what Tomura meant. [V42](../02%20Sequential%20Readings/MHA_SP2_V42_DEEP_READING.md), terminal exchange and Spinner.
+
+The exchange separates Midoriya’s report that Tenko’s life was not saved from All Might’s supportive interpretation of heart rescue, giving contact value without erasing death. The manga supplies no rehabilitated adult Tomura, no general acquittal and no assurance that survival would have yielded willing integration. **Interpretation:** the endpoint permits limited recognition across antagonism while refusing to make all dimensions of rescue coincide. [F2](../06%20Full-Series%20Synthesis/MHA_SP2_RESCUE_POWER_PERSONHOOD_ADJUDICATION.md) owns the intervention judgment; [F4](../06%20Full-Series%20Synthesis/MHA_SP2_FORM_REVISION_AND_RESIDUALS.md) retains the counterfactual limits.
+
+## Rival readings: the puppeteer explains everything, or the child explains everything
+
+The first reading rightly emphasizes AFO's material control and the late revision of origin. It fails by treating a controller's maximal claim as the narrator's unrestricted verdict and making the developed League relations analytically disposable. The second rightly refuses to let adult monstrosity conceal childhood harm. It fails if it makes the child the only authentic identity and every later destructive commitment an external contaminant awaiting removal.
+
+The stronger interpretation is situated authorship. Tomura acquires powers of judgment, affiliation and leadership inside constrained conditions; those capacities can produce harm and can be violated by possession. Later disclosures change the distribution of causal responsibility without turning the life into either pure choice or pure machinery. The sustained mismatch between deserved recognition, chosen violence and an unavailable safe future is the argument this individual history contributes beyond a comparative formation map.
+
+## Evidence, ownership and limits
+
+This is the individual literary home specified by [architecture §15](../00%20Frameworks%20and%20Methods/MHA_SP2_SYNTHESIS_ARCHITECTURE.md#15-post-completion-maturation-and-literary-character-ownership). [S3](MHA_SP2_POWER_INHERITANCE_AND_SELF_AUTHORSHIP_SYNTHESIS.md) owns comparative inheritance and [S5](MHA_SP2_VILLAIN_FORMATION_AND_ACCOUNTABILITY_SYNTHESIS.md) comparative formation and organization. This home connects leadership, disclosure and contested identity for F2/F4 without duplicating their adjudication or residual register. Primary evidence is retrieved through the cited sequential readings and [antagonist ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md), [formation ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_VILLAIN_FORMATION_LEDGER.md) and [relationship ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md). The [specialist index](MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md) routes the comparative and individual responsibilities.
+
+Depicted actions and attributed statements support the observations above; their longitudinal connection is an interpretation. Strong inferences and residuals are identified where the distinction affects the conclusion. Later disclosures qualify earlier causal accounts without becoming knowledge earlier characters possessed. This document is not a reconstruction freeze or a new validation result. The [primary locator](../07%20Evidence%20and%20Indexes/MHA_SP2_PRIMARY_SOURCE_LOCATOR.md), [source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) and [maturation record](../08%20Audits%20and%20Manifests/MHA_SP2_MATURATION_IMPLEMENTATION_RECORD.md) distinguish inherited evidence, targeted new page checks and excluded paratext.
