@@ -409,3 +409,12 @@ The response supplies ordinary conversational behavior, but this source does not
 The existing `REL-CROSS-MAFUYU-EMU-E0004` receives ordinary contact and uneven intention/knowledge evidence, without a duplicate dyad or new attachment center. Existing `EPI-N25-MF-E0004` receives the exact limited work report; `EPI-CROSS-EMU-MF-E0004` preserves private purpose, uncertain efficacy and received response. `EPI-N25-G-E0004` is unchanged: no report of this conversation to Nightcord or the absent named performers is shown. EVENT_0004 claim records in §7.2 and motif `MO-N25-004` retain their bounded authority; no new claim/theme ID is required.
 
 The preceding sections remain the historical 26-story analysis, now explicitly scope-corrected. No later event supplies evidence for this addition. Other-unit interpretation remains pending where material; this N25 supplement does not complete the mixed event's founded unit analysis or mature reconstruction work.
+
+
+## 16. Founded cross-unit reconciliation and spoken appraisal precision
+
+The original analytical sections and area009 correction remain intact. The companion [MMJ reading](../MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) now complete the other founded unit comparisons. They retain N25's original overall I2 and area009's bounded I1.
+
+At `PJSK:card:0127:01:001:0041–0046`, Emu's real-looking-smile appraisal is spoken, Mafuyu asks what it means, and Emu retreats. At `PJSK:card:0127:01:001:0055–0066`, Emu directly voices a smile judgment and enjoyment of their race while admitting she does not know the expression's cause. Mafuyu receives these judgments, not certified affect recovery. Her earlier receipt of classmates' committee-proposal report is separately explicit (`PJSK:card:0127:01:001:0005–0014`).
+
+The Nightcord account describes the unusual junior and novelty of her reactions; Mafuyu's good-girl hypothesis remains private, and the spoken smile judgments are not relayed (`PJSK:card:0127:02:001:0037–0059`). Area007's inward sincerity appraisal and area009's remedial plan/failure fear remain private at their own locations. Existing `EPI-N25-MF-E0004`, `EPI-CROSS-EMU-MF-E0004` and `REL-CROSS-MAFUYU-EMU-E0004` carry the reconciled precision, without new human successors or competing dyads. Honami's separate private admiration inference does not give her this knowledge.

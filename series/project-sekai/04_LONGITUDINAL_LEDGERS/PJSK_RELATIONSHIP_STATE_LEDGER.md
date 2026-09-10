@@ -5,8 +5,8 @@ ledger_type: relationship_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved"
-analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN P04 human defaults retained with EVENT_0001–0003 increments; VBS foundation-current P04 only; MMJ P05 defaults retained with EVENT_0001 reported relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge"
+source_boundary: "N25 relationships through EVENT_0090; bounded Ena–Shiho introduction and Ena–An acquaintance added; all prior defaults retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
+analysis_cutoff: "EVENT_0090 I2; two bounded cross-unit responsibilities; EVENT_0089 protective/family/KAITO states retained; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -21,7 +21,7 @@ Relationship authority reaches **EVENT_0090**, adding `REL-CROSS-ENA-SHIHO-E0090
 
 EVENT_0089 remains the latest N25 I3: `REL-N25-KM-8`, `REL-FAMILY-MAFUYU-MOTHER-E0089`, `REL-N25-KANADE-MAFUYU-MOTHER-E0089` and `REL-N25-VS-KAITO-GROUP-E0089` retain their precise knowledge/access limits. Preserve `REL-CROSS-MAFUYU-SHIZUKU-E0080`, `REL-N25-EM-5`, `REL-N25-MZM-3`, `REL-N25-KE-1`, `REL-N25-KMZ-1`, `REL-N25-EMZ-2`, `REL-N25-G-7`, `REL-N25-GM-E0054`, `REL-N25-VS-LEN-GROUP-E0061` and all unaffected cross-unit/family records. KM-7 and the E0035 family default remain historical through E0088; older cutoff-local “current” statements do not override successors. Leo/need routed history and 19 earlier universal-screen gaps remain unfinished. Next EVENT_0091.
 
-Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history after EVENT_0002, the 19 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history after EVENT_0004, the 19 earlier screens and all reconstruction/synthesis completion obligations remain pending.
 
 
 Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
@@ -37,9 +37,11 @@ Historical EVENT_0001 is now fully integrated by scope: Leo/need I2, WxS/MMJ I1,
 
 Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusing the existing complete 22-story N25 reading and targeted Honami evidence. The [Honami integration checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) preserves all P04 human defaults and EVENT_0001 refinements, supplements the existing Kanade–Honami relationship, and records bounded knowledge separately. N25's existing EVENT_0002 I3 and its later defaults remain valid at their own cutoffs; MMJ/VBS/WxS are NONE / documentary I0. Nineteen older universal screens remain pending, with EVENT_0005 next after retained EVENT_0004. This closes LN's EVENT_0002 responsibility without advancing forward EVENT_0091 or certifying mature reconstruction readiness.
 
-Historical EVENT_0003 is now fully integrated across its relevant founded scopes: **WXS I3** on Rui's operative self-knowledge transition, **LEO_NEED I1** for Saki's bounded household exchange, and MMJ/VBS/N25 NONE / I0. The [event reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) reuses the complete 26-story discovery and preserves all four WxS P06 humans/company plus LN P04 humans/group. I3 rests on Rui acquiring and retaining a usable distinction between fear-linked restraint and deliberate safety work; unchanged human IDs do not erase that epistemic transition. Specific relationship/character I2 and ordinary I1 increments remain separate, as do source recipients and uncertain future outcomes. EVENT_0004's source-scope correction and original N25 I2 remain intact; MMJ/LN/WXS EVENT4 interpretation is pending. Nineteen older source-screen gaps start at EVENT_0005. Forward next EVENT_0091 and mature reconstruction/synthesis requirements are unchanged.
+Historical EVENT_0003 is now fully integrated across its relevant founded scopes: **WXS I3** on Rui's operative self-knowledge transition, **LEO_NEED I1** for Saki's bounded household exchange, and MMJ/VBS/N25 NONE / I0. The [event reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) reuses the complete 26-story discovery and preserves all four WxS P06 humans/company plus LN P04 humans/group. I3 rests on Rui acquiring and retaining a usable distinction between fear-linked restraint and deliberate safety work; unchanged human IDs do not erase that epistemic transition. Specific relationship/character I2 and ordinary I1 increments remain separate, as do source recipients and uncertain future outcomes. EVENT_0004's source correction and original N25 I2 remain intact; all its founded unit interpretations are integrated below. Nineteen older source-screen gaps start at EVENT_0005. Forward next EVENT_0091 and mature reconstruction/synthesis requirements are unchanged.
 
-**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Non-active-unit routes retain partial detail and await ordered founded interpretation. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS EVENT_0003 I3 and LN I1 are integrated; forward EVENT_0091 is unchanged.
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Targeted founded interpretation has now closed the sparse MMJ/WXS/LN/VBS detail; the complete EVENT4 dispositions are recorded below. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS EVENT_0003 I3 and LN I1 are integrated; forward EVENT_0091 is unchanged.
+
+Historical EVENT_0004 is now fully integrated across its founded unit scopes: **MMJ I3**, **WXS I3**, **LEO_NEED I2**, **VBS I1**, and **N25 I2 preserved** with the earlier area009 I1 supplement. The [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) close the previously sparse non-active-unit detail through targeted evidence review. The retained complete discovery plus omitted area comprises 27 stories / 53 scenes / 1,433 records; no new universal pass is claimed. Haruka–Emu friendship and Haruka's continuing class access support I3; Saki's informed reliance implements her existing approach at I2. All human/group defaults remain, with differentiated ordinary, relationship and knowledge increments. Shared records have one reconciled EVENT4 entry per responsibility. Wonderland participants remain distinct from other manifestations. Nineteen historical screening gaps start at EVENT_0005; forward next EVENT_0091 and mature reconstruction/synthesis obligations remain unchanged.
 
 ## 1. Purpose
 
@@ -2937,3 +2939,190 @@ The [EVENT_0003 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEE
 **PRESERVE with bounded family increment.** Main-story teasing, concern and ambition support, plus EVENT_0001's schedule/comfort/visitor care, retain their separate histories. Here Saki objects to noisy stomping, promptly checks Tsukasa after his toe collision, then asks him to stop the sudden noise for a concrete household reason. Tsukasa reassures her and acknowledges the request. Irritation and care coexist; neither implies a new dyad, a role reversal that replaces earlier affection or general mutual transparency.
 
 **Evidence:** `PJSK:card:0120:02:003:0013–0018`. **Confidence:** HIGH. **Limits:** fulfilled quiet is unshown, prior spoken self-reproach may or may not be overheard, and no direct rehearsal/Rui disclosure to Saki is shown. His following bed/mat inference is his contribution, not her intended stage-design advice (`PJSK:card:0120:02:003:0019–0022`). This shared sibling responsibility is root-owned so the WxS/LN comparisons do not create competing copies.
+
+
+## Historical EVENT_0004 — founded cross-unit interpretation complete
+
+Historical EVENT_0004 is now fully integrated across its founded unit scopes: **MMJ I3**, **WXS I3**, **LEO_NEED I2**, **VBS I1**, and **N25 I2 preserved** with the earlier area009 I1 supplement. The [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) close the previously sparse non-active-unit detail through targeted evidence review. The retained complete discovery plus omitted area comprises 27 stories / 53 scenes / 1,433 records; no new universal pass is claimed. Haruka–Emu friendship and Haruka's continuing class access support I3; Saki's informed reliance implements her existing approach at I2. All human/group defaults remain, with differentiated ordinary, relationship and knowledge increments. Shared records have one reconciled EVENT4 entry per responsibility. Wonderland participants remain distinct from other manifestations. Nineteen historical screening gaps start at EVENT_0005; forward next EVENT_0091 and mature reconstruction/synthesis obligations remain unchanged.
+
+### MMJ-REL-GROUP-05 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Preserve named four-person membership and unequal expertise. Group assent accommodates Haruka school work while individual practice continues; Airi/Shizuku help wider attendance and all four exchange received benefits afterward. The group permits school participation to matter alongside idol activity, without a new institutional model.
+
+**Evidence:** `PJSK:event:0004:01:002:0064–0076`; `PJSK:card:0125:02:002:0002–0036`; `PJSK:card:0125:02:002:0045–0054`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future durability and unshown transmission remain OPEN.
+
+### MMJ-REL-MNHR-04 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Preserve explicit fellow membership, admiration and skill asymmetry. Haruka reports sharing food with hungry Minori at the class gathering; Saki/Ichika report Minori overwhelmed. Minori later shares videos and Haruka thanks her for cheering despite different classes. Neither report establishes a new attachment category.
+
+**Evidence:** `PJSK:card:0125:01:002:0020–0023`; `PJSK:card:0125:02:002:0037–0044`; `PJSK:card:0125:02:002:0055–0064`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Exact private Minori reaction at the restaurant and identity/order of every relay remain OPEN.
+
+### REL-CROSS-HARUKA-EMU-E0004 — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+The named school acquaintance becomes a chosen friendship. Haruka supports a workable committee redesign and Emu accepts shared responsibility; sustained preparation makes their trust specific. Emu invokes their effective partnership before baton practice, seeks Haruka first after victory and distributes credit. Both acknowledge sadness when the event ends and connect its value to their distinct future work. Actual post-festival lunch, personal interests and welcomed neighborhood accompaniment provide continuing ordinary access; Haruka expressly describes Emu as a newly made friend to Saki and Ichika, with Emu absent from that statement. This supports the bounded I3 relationship transition for both MMJ and WxS. Haruka continues calling Emu Otori-san; no maximal intimacy, changed company or guarantee of long-term reliability follows.
+
+**Evidence:** `PJSK:event:0004:02:002:0045–0069`; `PJSK:event:0004:03:002:0024–0033`; `PJSK:event:0004:06:001:0036–0046`; `PJSK:event:0004:08:001:0025–0053`; `PJSK:card:0124:01:002:0002–0018`; `PJSK:card:0125:01:002:0027–0029`; `PJSK:area:areatalk_ev_shuffle_01_006:01:001:0002–0009`; `PJSK:event:0004:02:002:0045–0068`; `PJSK:event:0004:03:002:0024–0034`; `PJSK:event:0004:07:001:0029–0038`; `PJSK:event:0004:08:001:0022–0053`; `PJSK:card:0124:01:002:0002–0056`; `PJSK:card:0125:01:002:0025–0033`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Show attendance, planned third-person lunch, broader intimacy and long-term continuity remain OPEN. Long-term reliability, show attendance, planned third-person lunch and later excursion completion remain OPEN.
+
+### REL-CROSS-HARUKA-SAKI-E0004 — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Preserve the pre-existing school acquaintance and lunch contact. Saki invites Haruka while respecting her availability; Haruka independently chooses the more demanding work. Saki deliberately discloses uncertain capacity and a missed outing after overextension, receives offered reliance from Haruka and offers reciprocal help within capacity. Later thanks, shared enjoyment and willingness for another opportunity extend this relation. This is meaningful I2 trust and practical availability within an existing relationship, without claiming first-ever care or a new Saki-side inability-to-belong resolution. Ichika has her own lunch, observation and recipient roles rather than attending every consultation.
+
+**Evidence:** `PJSK:event:0004:01:002:0014–0019`; `PJSK:event:0004:01:002:0034–0043`; `PJSK:event:0004:01:002:0054–0080`; `PJSK:card:0128:01:003:0015–0035`; `PJSK:card:0125:01:002:0025–0054`; `PJSK:card:0128:01:003:0005–0035`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future durability and unshown transmission remain OPEN. Future opportunity completion and Haruka private assessment not transferred.
+
+### REL-CROSS-HARUKA-CLASS-E0004 — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Celebrity-marked distance gives way to shown ordinary peer contact through committee work, substitute running, specific thanks, a class gathering, a personally selected Fenny keychain and permitted Haruka-chan address. A later penguin conversation and reports of more approaches corroborate continuing change. Individual anonymous speakers are not conflated and school-wide popularity is unproved.
+
+**Evidence:** `PJSK:event:0004:01:002:0003–0019`; `PJSK:event:0004:06:001:0016–0027`; `PJSK:event:0004:07:001:0019–0028`; `PJSK:event:0004:08:001:0008–0019`; `PJSK:event:0004:08:003:0003–0018`; `PJSK:card:0125:01:002:0012–0019`; `PJSK:card:0128:01:003:0040–0048`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Extent beyond shown classmates and durable loss of celebrity distance remain OPEN.
+
+### REL-CROSS-HARUKA-AN-E0004 — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Haruka reports An as her closest elementary-school friend and rival anchor: Haruka narrowly won, An asked for a rematch, and Haruka's work required leaving the final elementary-school sports day before that rematch. Saki and Ichika hear the given name and account, not an unspoken surname, current school or VBS identity. Haruka's memory of An's displeasure and question about whether An still remembers are private. An is absent; no current response, memory confirmation or continuing intimacy is established. This is a retrospective dyad record, not an EVENT4 friendship onset or present An transition.
+
+**Evidence:** `PJSK:card:0125:01:002:0040–0046`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. An current memory, continuing closeness, precise childhood date and any rematch remain OPEN. Current An memory, contact and future rematch OPEN.
+
+### REL-WXS-MS-G-P06 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+The continuing company makes room for Emu's school commitment. Peers identify minor rehearsal errors and sleep, discuss risk, change the announced practice priority and receive her later gratitude. This is shared support by differentiated contributions, with direct assent after initial hesitation. The same four participate in Wonderland games; no new company, identical goals, blanket permission or fixed institutional independence.
+
+**Evidence:** `PJSK:card:0124:02:002:0013–0067`; `PJSK:card:0126:02:001:0002–0019`; `PJSK:card:0126:02:003:0013–0022`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Actual maintenance enactment and durable future pacing are OPEN.
+
+### REL-WXS-MS-TE-P06 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Emu receives Tsukasa's announced schedule priority and encouragement, accepts after hesitation and later thanks the company; he explicitly answers that they are companions. Ordinary competitive retorts persist in the shared red team. Care is continuous with prior stage inclusion, not first recognition.
+
+**Evidence:** `PJSK:card:0124:02:002:0047–0067`; `PJSK:card:0126:02:002:0003–0011`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. No universal risk permission, friendship maximum or new human defaults.
+
+### REL-WXS-MS-EN-P03 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Nene notices Emu's unusual lapse, expresses concern, supports changed practice and later recognizes her preparation work. The established important-friend history and earlier school boundary tension remain. This caring episode does not retroactively authorize the prior gate intrusion.
+
+**Evidence:** `PJSK:card:0124:02:001:0002–0009`; `PJSK:card:0124:02:002:0013–0057`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. No universal risk permission, friendship maximum or new human defaults.
+
+### REL-WXS-MS-TR-P06 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Rui proposes the risk-sensitive schedule change and Tsukasa announces it. Their practical collaboration supports another performer's commitments without resolving all earlier effect-disclosure concerns.
+
+**Evidence:** `PJSK:card:0124:02:002:0039–0057`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. No universal risk permission, friendship maximum or new human defaults.
+
+### REL-WXS-MS-RN-P05 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Rui and Nene exchange observations about Emu and planned acrobatics; in ordinary team play Rui recalls a clue and Nene develops its implication. Prior independent agency and reciprocal support remain.
+
+**Evidence:** `PJSK:card:0124:02:002:0020–0043`; `PJSK:card:0126:02:003:0002–0010`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. No universal risk permission, friendship maximum or new human defaults.
+
+### REL-WXS-WONDERLAND-E0003 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Continue the manifestation-specific reciprocal network. Emu and Miku mutually seek contact; Miku elects cheering as an available festival role, Emu provides mediated viewpoint and later thanks/invites her. Miku initiates a Wonderland festival after explaining sports-day activity to puppets; KAITO permits and hosts, puppets invite others, flowers cheer and all four humans attend. Miku affirmatively chooses the supporter role when asked, not a permanent abandonment of performance. KAITO's future school visit and completed exploration remain unshown.
+
+**Evidence:** `PJSK:event:0004:04:003:0002–0036`; `PJSK:event:0004:05:001:0032–0060`; `PJSK:event:0004:07:001:0040–0062`; `PJSK:card:0126:01:002:0002–0030`; `PJSK:card:0126:01:004:0002–0022`; `PJSK:card:0126:02:001:0002–0019`; `PJSK:card:0126:02:003:0023–0029`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future school tour, formal public access and cross-manifestation sharing remain OPEN or unshown.
+
+### REL-WXS-PARK-SUPPORT-E0003 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Emu reports practicing imitated acrobatics with a mascot after being admonished for trying alone. This extends childhood craft/support context and the distinction between playful initiative and safe permission. Haruka receives the report; staff practice is not reenacted, and no new universal permission follows.
+
+**Evidence:** `PJSK:card:0124:01:002:0024–0039`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Exact training circumstances and general safety remain OPEN.
+
+### REL-CROSS-MAFUYU-EMU-E0004 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+WxS side: Emu's fear and altered formality coexist with direct paired coordination and later ordinary contact. Some appraisal is spoken: card0127a0041 reaches Mafuyu before Emu retreats, and0058–0063 explicitly pairs smile judgment, admitted lack of cause and enjoyment of their race. Area007's inward sincerity appraisal and area009's remedial plan/failure fear remain private. Preserve tentative ordinary contact and possible mutual club observation without a central-attachment or completed-visit claim. None of these judgments certifies Mafuyu's affect.
+
+**Evidence:** `PJSK:event:0004:04:001:0020–0043`; `PJSK:event:0004:05:001:0065–0094`; `PJSK:card:0127:01:001:0035–0046`; `PJSK:card:0127:01:001:0055–0066`; `PJSK:area:areatalk_ev_shuffle_01_007:01:001:0002–0008`; `PJSK:area:areatalk_ev_shuffle_01_008:01:001:0002–0009`; `PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Meaning of Mafuyu affect, stable fear reduction and completed future visits remain OPEN.
+
+### LN-REL-ICHIKA-SAKI-MS — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Existing reciprocal care now includes Ichika continued pacing concern, Saki recognition of it and her retrospective account of relying on school peers. Ichika acknowledges enjoyment and tentatively credits Saki invitation for helping Haruka. No first trust or replacement of the childhood bond.
+
+**Evidence:** `PJSK:event:0004:08:001:0002–0007`; `PJSK:card:0128:01:002:0002–0017`; `PJSK:card:0128:01:003:0039–0048`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Concern is not omniscience; Haruka private assessment remains unshared.
+
+### REL-CROSS-SAKI-EMU-E0004 — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Committee cooperation includes Saki deliberate limits disclosure, Emu delight at being trusted and concern that Saki enjoy the festival, plus Saki capacity-bounded reciprocal offer. Later photo work and joint enjoyment continue the task relationship. Record mutual availability without claiming indefinite friendship durability or new global human states.
+
+**Evidence:** `PJSK:event:0004:02:002:0067–0076`; `PJSK:card:0128:01:003:0015–0035`; `PJSK:card:0128:02:004:0022–0035`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Durability beyond shown committee contexts is OPEN; WxS-side cooperation is included in the shared account.
+
+### REL-CROSS-HONAMI-EMU-E0004 — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+The girls are already classmates/friends at their first shown encounter. Honami notices nerves, supports and later seeks Emu to congratulate her; shared apple-pie photo attests ordinary company. Photo assent follows embarrassment and group entreaty. Do not mark friendship onset here.
+
+**Evidence:** `PJSK:event:0004:04:001:0029–0042`; `PJSK:event:0004:07:001:0029–0038`; `PJSK:card:0128:02:004:0002–0018`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. No precise earlier onset, full mutual transparency or free-standing lasting permission norm.
+
+### VBS-REL-CROSS-KOHANE-MINORI-MS0 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Preserve supportive classmates. Direct decorated-ball conversation with Shiho adds ordinary joint participation; Minori later proposes asking Kohane for photos while she is absent. No new friendship formation or completed favor.
+
+**Evidence:** `PJSK:event:0004:05:001:0017–0025`; `PJSK:card:0128:02:003:0018–0023`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Kohane receipt/delivery and wider Shiho dyad depth remain OPEN.
+
+All other established MMJ/WXS dyads, LN/VBS groups, Tenma household records and N25 relationships preserve their exact earlier histories; new school examples do not replace them.
