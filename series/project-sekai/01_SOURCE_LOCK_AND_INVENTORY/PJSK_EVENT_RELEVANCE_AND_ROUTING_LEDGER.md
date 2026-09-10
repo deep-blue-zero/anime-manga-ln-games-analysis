@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 19 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated; EVENT_0002 existing complete pass enriched and all unit dispositions integrated; EVENT_0003 historical universal screen complete, WXS/LN interpretation pending"
+source_boundary: "Project SEKAI event-review envelopes; universal routing inventory through EVENT_0090; 19 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated; EVENT_0002 existing complete pass enriched and all unit dispositions integrated; EVENT_0003 historical universal screen complete, WXS/LN interpretation pending; EVENT_0004 omitted area009 reconciled, non-active-unit detail remains partial"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,7 +14,7 @@ mutable: true
 # Project SEKAI Event Relevance and Routing Ledger
 
 
-## Current routing authority — EVENT_0003 historical screen closed
+## Current routing authority — EVENT_0004 omitted surface reconciled
 
 The forward frontier remains EVENT_0090 / next EVENT_0091. Historical EVENT_0001 is now `UNIVERSAL_SCREEN_COMPLETE`, with N25/VBS documentary I0, LEO_NEED I2 and MMJ/WXS I1 ordered integrations complete. All five main-story baselines exist. Nineteen older universal screens remain pending: `0005`, `0006`, `0008`, `0010–0013`, `0015–0018`, `0020–0025`, `0027–0028`. EVENT_0005 is the next unresolved historical screen after the retained EVENT_0004 complete pass; EVENT_0002's existing complete pass remains valid; targeted enrichment now integrates LN I1 and records MMJ/VBS/WxS NONE / I0 while preserving N25 I3. Older dated/frontier sections below are preserved historical checkpoints, not later current-state overrides.
 
@@ -22,7 +22,7 @@ The forward frontier remains EVENT_0090 / next EVENT_0091. Historical EVENT_0001
 
 Historical EVENT_0003 is now `UNIVERSAL_SCREEN_COMPLETE`: 26 stories / 50 scenes / 1,456 records. WXS PRIMARY/HIGH and LN CROSS_UNIT/LOW are `PENDING_ORDERED_UNIT_INTEGRATION`; MMJ/VBS/N25 NONE receive documentary I0. All earlier founded integrations remain intact. The record-level inventory below enables unit interpretation without another full discovery pass.
 
-**Next-operation qualification:** the locked EVENT_0004 review group contains 27 stories, while its retained N25 checkpoint explicitly screened 26 and excluded `areatalk_ev_shuffle_01_009`. That area is present under unlock condition `100308`, target `1000032`, event4; its metadata has no publication timestamp. Reconcile this one omitted surface before advancing past EVENT_0004. The 19 older inventory gaps still start at EVENT_0005; they are distinct from this newly identified envelope supplement. Preserve the existing EVENT_0004 reading and impacts pending that targeted check.
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Non-active-unit routes retain partial detail and await ordered founded interpretation. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS/LN EVENT_0003 interpretation remains pending; forward EVENT_0091 is unchanged.
 
 ## 1. Purpose and authority
 
@@ -84,7 +84,7 @@ The table below is a routing inventory, not a substitute for detailed per-unit a
 | EVENT_0001 | 雨上がりの一番星 | `RB_20201009T060000Z` | 8 core + 10 card halves; zero areas = 18 verified stories / 1,238 records | `LEO_NEED PRIMARY; MMJ/WXS CROSS_UNIT; N25/VBS NONE` | yes (universal) | `I0` | `UNIVERSAL_SCREEN_COMPLETE` | LN I2, MMJ/WXS I1 integrated; reuse shared reading and record-level evidence below |
 | EVENT_0002 | 囚われのマリオネット | `RB_20201020T060000Z` | 8 core + 10 card halves + 4 area (verified completed envelope) | `N25; LEO_NEED` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | LN I1 integrated; MMJ/VBS/WXS NONE/I0; all unit dispositions complete; existing N25 reading retained |
 | EVENT_0003 | 全力！ワンダーハロウィン！ | `RB_20201031T060000Z` | 8 core + 10 card halves + 8 areas = 26 verified stories / 1,456 records | `WXS PRIMARY; LEO_NEED CROSS_UNIT; MMJ/VBS/N25 NONE` | yes (universal) | `I0` | `UNIVERSAL_SCREEN_COMPLETE` | WXS/LN pending ordered integration; reuse record-level routes below |
-| EVENT_0004 | 走れ！体育祭！～実行委員は大忙し～ | `RB_20201109T060000Z` | 26-story pass retained; locked envelope has 27, area009 supplement pending | `LEO_NEED, MMJ, N25, WXS` | yes | `I2` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | reconcile omitted area009 first; then founded unit interpretation; retain earlier 26-story pass |
+| EVENT_0004 | 走れ！体育祭！～実行委員は大忙し～ | `RB_20201109T060000Z` | 8 core + 10 card halves + 9 areas = 27 verified stories; prior26 plus area009 | `LEO_NEED, MMJ, N25, WXS` | yes (reuse + omitted-area supplement) | `I2` | `ROUTED_WITH_PARTIAL_NON_ACTIVE_UNIT_DETAIL` | N25 I2 preserved; MMJ/LN/WXS pending ordered integration; targeted route enrichment only |
 | EVENT_0005 | ここからRE:START！ | `RB_20201119T060000Z` | review-index associations only; final analytical envelope pending | `MMJ` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
 | EVENT_0006 | いつか、背中あわせのリリックを | `RB_20201130T060000Z` | review-index associations only; final analytical envelope pending | `VBS` | no | `NOT_ASSESSED` | `PENDING_ONE_TIME_UNIVERSAL_SCREEN` | one franchise-wide complete-envelope screen |
 | EVENT_0007 | KAMIKOU FESTIVAL！ | `RB_20201210T060000Z` | 8 core + 10 card halves + 9 area (verified completed envelope) | `N25, VBS, WXS` | yes | `I3` | `ROUTED_FROM_EXISTING_COMPLETE_READING` | targeted interpretation after foundation; no blind full reread |
@@ -3003,3 +3003,64 @@ These compact routes supplement the source descriptions above. Each record remai
 
 
 This source-complete historical screen reduces the earlier universal-screen backlog from 20 to 19. EVENT_0005 is the next older inventory gap; first reconcile EVENT_0004's omitted area009 while preserving its existing 26-story pass. EVENT_0002's existing complete pass and LN I1 enrichment are already integrated; its N25 I3 and other-unit I0 dispositions remain intact. Reuse these positive/negative routes; no whole-envelope reread is required absent a specific evidence gap. Exact phone eligibility, distinct puppet pairs, private conversations, partial card chronology, attributed safety and uncompleted outcomes remain binding interpretation limits.
+
+
+## EVENT_0004 — omitted linked area reconciled; retained source pass
+
+### Source authority and coverage
+
+The [existing N25 checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_N25_INTEGRATION_CHECKPOINT.md) originally read 26 stories and explicitly excluded area009. Verification of the established locked review group and release manifest requires that area to be included. All ten records in its scene are now read; the original 26-story pass is reused. Coverage is **27 stories / 53 scenes / 1,433 records**, comprising eight core chapters, ten card halves0124–0128 and nine linked shuffle01 areas. The review-group SHA256 is `eef5d80de58ce7034ddd462e4fa461ad804fc6b25a6f2c96dc7db8dd759facde`, matching the frozen checksum authority. All canonical story hashes below were independently reverified.
+
+Core/cards retain initial availability `RB_20201109T060000Z`. Area009 has null publication timestamp and bucket, with unlock condition100308 / target1000032 / event4. This association does not fix every card/area scene's depicted order. No later source cutoff is imported. The existing pass is reusable but its non-active-unit extraction remains partial: `ROUTED_WITH_PARTIAL_NON_ACTIVE_UNIT_DETAIL` preserves that quality limit.
+
+| Story ID | Scenes | Records | Canonical SHA256 |
+|---|---:|---:|---|
+| `PJSK:event:0004:01` | 2 | 93 | `ca8ed9a6ba7e42098d43e111389826a52c88596a6bf9455bb353003ae289105f` |
+| `PJSK:event:0004:02` | 2 | 78 | `e9e7706ca322c9463c0cd3ec6052d926b6b6352c01172d22d66e03853cadc263` |
+| `PJSK:event:0004:03` | 5 | 90 | `6e28ce858c4e8b9e0b95872263b79cf61bca875d4819f1a5968fe4d267fdaeb3` |
+| `PJSK:event:0004:04` | 5 | 92 | `b1888e799076f591c12a8ef5492736dd4d81309562c9169e93eaf1b4471b3872` |
+| `PJSK:event:0004:05` | 1 | 95 | `aac7caff190342dab2b588f446bd9a0c41bb395d25f1a2e746b54acca429ad90` |
+| `PJSK:event:0004:06` | 1 | 92 | `209e805e852df031e072702af68bebd158f25dc9bdaa35abcebac15a80f0a8ae` |
+| `PJSK:event:0004:07` | 1 | 63 | `2ea43a0199f9f0f7f49ad64749d6d7918bd150e02bac47dde47aeadf01e66e74` |
+| `PJSK:event:0004:08` | 3 | 81 | `f4a6c277fb1051f164b3e666d5177f989410331ffb392095d48fbc62f03d8349` |
+| `PJSK:card:0124:01` | 2 | 58 | `afc09abec921c38dc00a691bf651d1589e1843fda47b1be5bbba654186bf295e` |
+| `PJSK:card:0124:02` | 2 | 80 | `8ef2f945ba016356e0c79452b38c572119960431874ed1746e6a3b7270073565` |
+| `PJSK:card:0125:01` | 2 | 56 | `c6cad08a39a38f79864563527d66169fd043b22f690ed3ba33b117cf0ccbf196` |
+| `PJSK:card:0125:02` | 2 | 66 | `4c217b79a68d5218998911d5b968d3ef5e8bd8414f752160b33d73f04a714d58` |
+| `PJSK:card:0126:01` | 4 | 65 | `004faf7d79c9f995c1da1236257d5ac37878ca767bd8e01c5ae043be48a22058` |
+| `PJSK:card:0126:02` | 3 | 72 | `2b80ba8f6982b7e19927eb76ca5497b2917db0b394d5935ca3882b5faf8a0702` |
+| `PJSK:card:0127:01` | 1 | 69 | `9657e964c3a021fb47cb78599c6cc143adac1f113bff6ab3213600d2413b57e2` |
+| `PJSK:card:0127:02` | 1 | 76 | `1a92eb74beca3d8d435b2dcb9046568a8699fab1aa24ca31370ff6d4700dc66c` |
+| `PJSK:card:0128:01` | 3 | 70 | `32976d119f8385be2f9e33080a6d305e2ebffc656fd18add451fa81642c7880d` |
+| `PJSK:card:0128:02` | 4 | 66 | `3dcb380df8926cce470fe1a63447f08c7eea48cb3cb29426cded4111df9bd5cc` |
+| `PJSK:area:areatalk_ev_shuffle_01_001:01` | 1 | 8 | `f85bbc68b5a4715b18e184cfe70460ae43d82bd38f313fa1aa5c81e40f52cd5b` |
+| `PJSK:area:areatalk_ev_shuffle_01_002:01` | 1 | 7 | `f4b377b35efca8ea12543deb62d4084688ed0216da4d0e5822b1d16618b92aa8` |
+| `PJSK:area:areatalk_ev_shuffle_01_003:01` | 1 | 7 | `da73f715549761857454481f0118e3a67cbf4b9996e91db469947370b7622973` |
+| `PJSK:area:areatalk_ev_shuffle_01_004:01` | 1 | 6 | `8e8cf44856f586dcbac19447b23b3870e68d6c350fae432ebc18ff57a7a15c9a` |
+| `PJSK:area:areatalk_ev_shuffle_01_005:01` | 1 | 7 | `da32160af812222f10ffb570fce694555e9047d87065e4c0be05f7246f3b150c` |
+| `PJSK:area:areatalk_ev_shuffle_01_006:01` | 1 | 9 | `661d11ad500bc6537b977e38512ac1b616de19547df4b548f09eaab6c80cf5fe` |
+| `PJSK:area:areatalk_ev_shuffle_01_007:01` | 1 | 8 | `3426917ed680b65cd8076911395ce033cf7c3ca2c2efb1b02696dc593ca15937` |
+| `PJSK:area:areatalk_ev_shuffle_01_008:01` | 1 | 9 | `d55faa8892bdf4a16b0413b5a64b51133a1cb7df1ba4cceda87af30779d18797` |
+| `PJSK:area:areatalk_ev_shuffle_01_009:01` | 1 | 10 | `f4b0fa46f36f18ed809cf719dc6261116ac69b70086b15c96d22f54c590df681` |
+
+### New source capsule — area009, complete scene
+
+| Route / evidence domain | Exact source interval | Observation and recipient limit | Disposition |
+|---|---|---|---|
+| Mafuyu–Emu; ordinary work and reported companions | `PJSK:area:areatalk_ev_shuffle_01_009:01:001:0002–0003` | Mafuyu already knows the generic cast role; Emu names WonderStage, Tsukasa/Nene/Rui and mascots, with the stated smile-making purpose. No formal troupe name, full identities, direct acquaintance or SEKAI disclosure. | Supplement existing N25/cross-unit knowledge and dyad. Named absent performers receive no independent character change. |
+| Emu–Mafuyu; intention, communication and uncertain affect | `PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010` | Emu privately plans to make Mafuyu smile, privately fears immediate failure, explains the puzzling greeting and hears positive feedback. Neither genuine affect recovery nor whole-exchange failure is proved; private intention is not transmitted. | Bounded N25 I1 addition within preserved I2; WxS baseline-relative EVENT4 judgment remains pending. |
+
+### Reusable unit responsibilities and remaining detail
+
+The original checkpoint's §2 and causal account already identify the material Haruka/Emu/Saki spine in core1–3/8, the Mafuyu/Emu core4–7, all ten card halves and all first eight areas. These documentary routes remain valid. Their source responsibilities are:
+
+| Unit / route | Available source responsibility | Ordered interpretation status |
+|---|---|---|
+| MMJ — PRIMARY / HIGH | Haruka's committee/participation arc: `PJSK:event:0004:01–03`, `PJSK:event:0004:08`; `PJSK:card:0125:01–02`; relevant Haruka/Saki/Emu exchanges among shuffle01 areas001–006. Targeted interpretation may refine exact record locators and any associated MMJ context missing from the original N25 extraction. | PENDING_ORDERED_UNIT_INTEGRATION; canonical main-story baseline, EVENT1 bounded I1 and EVENT2–3 I0 already exist. |
+| WXS — PRIMARY / HIGH | Emu across the mixed core; `PJSK:card:0124:01–02`, Wonderland Miku `PJSK:card:0126:01–02`, and Emu-bearing areas001–009. Preserve manifestation distinctions and absent named performers' reported status in009. | PENDING_ORDERED_UNIT_INTEGRATION; first close WXS EVENT3. No authoritative EVENT4 impact assigned here. |
+| LEO_NEED — SECONDARY / MEDIUM | Saki's committee/school participation: original core1–3/8 responsibility, `PJSK:card:0128:01–02`, relevant areas001–006; Honami's appearance in core4 is documented by the retained N25 reading. | PENDING_ORDERED_UNIT_INTEGRATION; first close LN EVENT3. Source loci need unit-specific detail, not another universal pass. |
+| N25 — SECONDARY / MEDIUM | Existing core4–7/card0127 and supplementary0124/areas007–008 interpretation, now plus complete area009 capsule above. | INTEGRATED_N25_I2_PRESERVED; omitted area I1, no human successor. |
+
+No new VBS evidence is introduced by the omitted area. The existing four-unit routing inventory is retained; its limits do not become evidence of unseen unit states. Claims about further source surfaces require targeted retrieval before interpretation. The root alone reconciles shared cross-unit records; do not create competing Mafuyu–Emu or Tenma records in separate lanes.
+
+The source-scope omission is closed. EVENT_0005 is the next of19 old inventory gaps. The forward frontier remains EVENT_0090 / next EVENT_0091, WXS/LN EVENT3 interpretation remains pending, and mature packages/syntheses remain required. This transaction does not advance an unfinished unit past its own prior material route.

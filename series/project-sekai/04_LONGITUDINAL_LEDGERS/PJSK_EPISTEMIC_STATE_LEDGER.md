@@ -5,7 +5,7 @@ ledger_type: epistemic_state
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 screen complete, WXS/LN interpretation pending"
+source_boundary: "N25 epistemic evidence through EVENT_0090; Ena artistic inference and bounded Shiho/An disclosure; prior guarded and hotel knowledge limits retained; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 screen complete, WXS/LN interpretation pending; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved"
 analysis_cutoff: "EVENT_0090 I2 with bounded knowledge increments; EVENT_0089 discovery and unequal-information changes preserved; LN P04 human defaults retained with EVENT_0001 and EVENT_0002 increments; VBS foundation-current P04 only; MMJ P05 defaults retained with EVENT_0001 reported relationship/knowledge evidence; WXS P06 defaults retained with EVENT_0001 ordinary-family evidence"
 supersedes: []
 superseded_by: []
@@ -39,7 +39,7 @@ Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusin
 
 Historical EVENT_0003 now has a complete 26-story / 1,456-record franchise screen in the [routing ledger](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md). MMJ/VBS/N25 NONE receive documentary I0; WXS PRIMARY/HIGH and LEO_NEED CROSS_UNIT/LOW are `PENDING_ORDERED_UNIT_INTEGRATION`. Wonderland Miku/KAITO/Len have distinct direct evidence and Rin is reported only. Discovery does not establish a human successor, relationship revision or shared knowledge. Nineteen earlier universal-screen gaps remain; EVENT_0005 is next unresolved after retained EVENT_0004. LN EVENT_0001–0002 and all other closed integrations remain intact. The independent forward frontier stays EVENT_0090 / next EVENT_0091.
 
-**Next-operation qualification:** the locked EVENT_0004 review group contains 27 stories, while its retained N25 checkpoint explicitly screened 26 and excluded `areatalk_ev_shuffle_01_009`. That area is present under unlock condition `100308`, target `1000032`, event4; its metadata has no publication timestamp. Reconcile this one omitted surface before advancing past EVENT_0004. The 19 older inventory gaps still start at EVENT_0005; they are distinct from this newly identified envelope supplement. Preserve the existing EVENT_0004 reading and impacts pending that targeted check.
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Non-active-unit routes retain partial detail and await ordered founded interpretation. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS/LN EVENT_0003 interpretation remains pending; forward EVENT_0091 is unchanged.
 
 ## 1. Purpose
 
@@ -2278,3 +2278,16 @@ The [Honami checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002
 **Evidence:** `PJSK:event:0002:02:002:0002–0070`; `PJSK:event:0002:03:002:0037–0053`; `PJSK:event:0002:03:002:0065–0087`; `PJSK:card:0115:01:002:0002–0052`; `PJSK:area:areatalk_ev_night_01_001:01:001:0002–0009`; `PJSK:area:areatalk_ev_night_01_002:01:001:0002–0009`; `PJSK:area:areatalk_ev_night_01_003:01:001:0002–0010`.
 
 **Confidence / chronology:** HIGH for explicit access; inferred motives/wishes remain attributed and uncertain. Card0115 front explicitly follows the exhibition. Linked areas are condition-ordered, not assigned a total order against cards. The unnamed music-shop companion and any supposed earlier passing encounter remain unidentified/unconfirmed. Future recording delivery and rescue are unshown.
+
+
+## Historical EVENT_0004 — omitted linked-area supplement
+
+See the [scope-corrected checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_N25_INTEGRATION_CHECKPOINT.md) §15. Earlier EVENT_0004 and later historical records remain unchanged.
+
+### `EPI-N25-MF-E0004` — omitted-area workplace report
+
+Mafuyu already knows the generic cast role. She directly hears Emu name WonderStage, Tsukasa/Nene/Rui by given name, mascots, and the purpose of making people smile. She hears and obtains an explanation of the greeting, without the private remedial aim. No formal troupe name, full identities/biographies, direct acquaintance or SEKAI disclosure is established (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0002–0009`). Supplement the existing EVENT_0004 record, not a new knowledge-state ID. Do not retroactively change later knowledge boundaries.
+
+### `EPI-CROSS-EMU-MF-E0004` — private purpose and uncertain uptake
+
+Emu privately recalls incongruent expressions, chooses to make Mafuyu smile properly, and privately fears immediate failure after the greeting puzzles her. She hears the question and positive description, but the source supplies no decisive appraisal that the later smile is genuine. Her intention and efficacy remain distinct; Mafuyu does not receive the parenthetical thoughts (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010`). HIGH confidence for speech/private-thought boundaries; achieved affect remains OPEN. `EPI-N25-G-E0004` is preserved: this exchange is not shown transmitted to Nightcord. Absent WxS/LN/MMJ members and singers acquire no knowledge from the scene.

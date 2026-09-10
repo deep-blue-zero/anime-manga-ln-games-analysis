@@ -5,7 +5,7 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 screen complete, WXS/LN interpretation pending"
+source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 screen complete, WXS/LN interpretation pending; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved"
 analysis_cutoff: "EVENT_0090 I2 thematic refinement; broader comparison awaits founded longitudinal interpretation; LN P04 human defaults retained with EVENT_0001 and EVENT_0002 increments; VBS foundation-current P04 only; MMJ P05 defaults retained with EVENT_0001 reported relationship/knowledge evidence; WXS P06 defaults retained with EVENT_0001 ordinary-family evidence"
 supersedes: []
 superseded_by: []
@@ -50,7 +50,7 @@ Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusin
 
 Historical EVENT_0003 now has a complete 26-story / 1,456-record franchise screen in the [routing ledger](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md). MMJ/VBS/N25 NONE receive documentary I0; WXS PRIMARY/HIGH and LEO_NEED CROSS_UNIT/LOW are `PENDING_ORDERED_UNIT_INTEGRATION`. Wonderland Miku/KAITO/Len have distinct direct evidence and Rin is reported only. Discovery does not establish a human successor, relationship revision or shared knowledge. Nineteen earlier universal-screen gaps remain; EVENT_0005 is next unresolved after retained EVENT_0004. LN EVENT_0001–0002 and all other closed integrations remain intact. The independent forward frontier stays EVENT_0090 / next EVENT_0091.
 
-**Next-operation qualification:** the locked EVENT_0004 review group contains 27 stories, while its retained N25 checkpoint explicitly screened 26 and excluded `areatalk_ev_shuffle_01_009`. That area is present under unlock condition `100308`, target `1000032`, event4; its metadata has no publication timestamp. Reconcile this one omitted surface before advancing past EVENT_0004. The 19 older inventory gaps still start at EVENT_0005; they are distinct from this newly identified envelope supplement. Preserve the existing EVENT_0004 reading and impacts pending that targeted check.
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Non-active-unit routes retain partial detail and await ordered founded interpretation. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS/LN EVENT_0003 interpretation remains pending; forward EVENT_0091 is unchanged.
 
 ## 1. Purpose and caution
 
@@ -1671,3 +1671,10 @@ Reciprocal repair includes articulating the felt cost of postponement and sharin
 The [Honami checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) owns this bounded comparison; the existing N25 reading retains the event's main causal account. All earlier ledger bytes remain historical evidence at their own cutoffs.
 
 **PRESERVE / no new LN theme or motif ID.** Domestic work, recipient-sensitive listening, remembered support and reciprocal interest are compatible with existing care/creative-labor and mutual-choice themes. Their presence in this event does not by itself require another recurring-theme revision. The established N25 reading owns the main doll/selfhood and intervention structures at this boundary. Do not use Honami's limited analogy to infer Mafuyu's wishes, a universal formula for care or merged School/Empty singer identity. Character, relationship and epistemic entries preserve the concrete evidence for later warranted synthesis.
+
+
+## Historical EVENT_0004 — omitted linked-area supplement
+
+See the [scope-corrected checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_N25_INTEGRATION_CHECKPOINT.md) §15. Earlier EVENT_0004 and later historical records remain unchanged.
+
+**PRESERVE `MO-N25-004` and the existing EVENT_0004 affect-access refinement.** The omitted greeting scene supplies a local efficacy limit: Emu's private aim, Mafuyu's puzzlement and subsequent positive conversational response do not form an infallible genuine-smile test (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010`). No new recurring motif or universal care formula follows. The original post-race findings remain intact; the character/relationship/epistemic additions own this ordinary scene's bounded contribution.

@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-source_boundary: "Universal screening and positive N25 integration through EVENT_0090; N25 I2 with four material other-unit routes deferred; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 screen complete, WXS/LN interpretation pending"
+source_boundary: "Universal screening and positive N25 integration through EVENT_0090; N25 I2 with four material other-unit routes deferred; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 screen complete, WXS/LN interpretation pending; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -37,7 +37,7 @@ Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusin
 
 Historical EVENT_0003 now has a complete 26-story / 1,456-record franchise screen in the [routing ledger](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md). MMJ/VBS/N25 NONE receive documentary I0; WXS PRIMARY/HIGH and LEO_NEED CROSS_UNIT/LOW are `PENDING_ORDERED_UNIT_INTEGRATION`. Wonderland Miku/KAITO/Len have distinct direct evidence and Rin is reported only. Discovery does not establish a human successor, relationship revision or shared knowledge. Nineteen earlier universal-screen gaps remain; EVENT_0005 is next unresolved after retained EVENT_0004. LN EVENT_0001–0002 and all other closed integrations remain intact. The independent forward frontier stays EVENT_0090 / next EVENT_0091.
 
-**Next-operation qualification:** the locked EVENT_0004 review group contains 27 stories, while its retained N25 checkpoint explicitly screened 26 and excluded `areatalk_ev_shuffle_01_009`. That area is present under unlock condition `100308`, target `1000032`, event4; its metadata has no publication timestamp. Reconcile this one omitted surface before advancing past EVENT_0004. The 19 older inventory gaps still start at EVENT_0005; they are distinct from this newly identified envelope supplement. Preserve the existing EVENT_0004 reading and impacts pending that targeted check.
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Non-active-unit routes retain partial detail and await ordered founded interpretation. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS/LN EVENT_0003 interpretation remains pending; forward EVENT_0091 is unchanged.
 
 ## 1. Purpose
 
@@ -2508,3 +2508,12 @@ All eight core chapters, cards 0119–0123 both halves and eight linked areas we
 | Wonderland Miku / KAITO / Len; reported Rin | Manifestation-specific direct/reported routes | With WXS ordered interpretation | Preserve separate recipients, puppet pairs, attributed safety and partial chronology. No pooled singer mind or completed future joint performance. |
 
 The five substantive ledger histories are preserved exactly; this screen adds no character, relationship, epistemic, claim or theme conclusion. Existing N25 EVENT_0090 defaults and LN EVENT_0001–0002 / MMJ-WXS EVENT_0001 increments remain intact. Earlier universal-screen gaps decrease from 20 to 19; EVENT_0005 is next unresolved after retained EVENT_0004. Forward EVENT_0091 remains separate. Unit backfill and mature reconstruction/synthesis remain required work.
+
+
+## Historical EVENT_0004 — omitted linked-area supplement
+
+See the [scope-corrected checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_N25_INTEGRATION_CHECKPOINT.md) §15. Earlier EVENT_0004 and later historical records remain unchanged.
+
+**N25 I2 preserved; omitted area009 adds I1 evidence.** The original 26-story pass and its six-ledger consequences remain intact. One omitted 10-record scene is now fully read, completing the locked 27-story / 53-scene / 1,433-record envelope by reuse plus supplement. It adds ordinary social behavior, existing dyad context and separately bounded workplace/private-intention knowledge without a new human state (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0002–0010`).
+
+MMJ/LEO_NEED/WXS retain material historical routes pending ordered founded interpretation; this source-scope correction does not assign their event-wide impacts. WxS4 and LN4 remain dependent on their respective EVENT_0003 interpretations. No new VBS evidence is introduced by area009. The source-routing inventory retains partial non-active-unit detail so specific missing locators may be enriched without another blind full pass. Nineteen old inventory gaps remain, starting EVENT_0005; forward next EVENT_0091 and all later N25 defaults remain unchanged.
