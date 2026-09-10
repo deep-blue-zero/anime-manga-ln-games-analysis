@@ -43,6 +43,16 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Other U.A. Students and Staff Character State Ledger
 
+## Current source-admissibility correction — continuation
+
+V27:p179 shows Tokoyami arriving; Hawks extraction and the response to Dabi's accusation belong to V28:p060–077 (p062 excluded). Historical V27 reverse-rescue wording cannot enter an earlier freeze.
+
+The Big Three sequence requires precise attribution: Mirio apologizes aloud at V36:p170 and reconsiders internally at p171; coordinated preparation runs p173–179; Tamaki explicitly receives others' belief at p181. p180 is an author advertisement, not Tamaki's reflection. The coordination range alone does not justify assigning every time-buying line to Tamaki.
+
+Tamaki's adult breadth is concrete: V42:p149 retains embarrassment about professional fit; p151 expresses concern for Ochako's own time; p153 acknowledges a hasty inference after her response. Competence, care and correctability coexist with inhibition; this is not an anxiety cure. V42:p042–043 is Mirio's future/humor formulation, while V41:p175 is Aoyama's mutual-need statement.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 

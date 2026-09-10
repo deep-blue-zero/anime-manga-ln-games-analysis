@@ -43,6 +43,20 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Primary Source Locator
 
+## Current source-admissibility correction — continuation
+
+Logical book pages, raw archive filenames and paratext must be distinguished. The [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) records the exact CBZ hashes, actually inspected pages, mapping checks and inherited evidence. The following corrections govern retrieval without rewriting the historical volume locks.
+
+- **V27 → V28:** V27:p149 is the strike on Twice; V27:p179 is Tokoyami's arrival, not extraction. V27:p180 ends the narrative with Mirko. Hawks extraction is V28:p060–077, excluding the p062 chapter portrait. Any older “reached/extracted” endpoint here contributes arrival only to a V27 freeze.
+- **V31:** the extra `0002.png` creates a raw filename offset: logical pNNN maps to numeric filename NNN+1 in the cited story sequence. Logical p213 is raw 0214, the narrative endpoint. Logical p214–225 (raw 0215–0226) is non-sequential tail matter; there is no logical p226 source image. Do not shift chapter locators or confuse an image count of 226 with a logical endpoint.
+- **V36:** raw facing-page image index `i` contains logical right p(2i−2), left p(2i−1); use raw `floor((p+2)/2)`. Mirio's spoken apology is p170 and internal reconsideration p171. Big Three coordination is p173–179, Tamaki's received-belief reflection p181. p180 is authorial promotion, not Tamaki's thought. Jiro's effect includes rebellious wills, degraded control of the copied AFO factor and sensory delay (p082–092), not an unqualified sound-only mechanism.
+- **V37:** p148 is an author-shared Twitter kimono drawing. Exclude it from Shoji's in-world ordinary behavior. Valid anti-revenge/name/classmate exchange and childhood rescue memories are p140–142; adult professional/ordinary evidence is V42:p132,p163.
+- **V38:** Gentle's rescue/rehabilitation scenes are p054–059 and p081–083. p062 is an author recap, p063 a chapter cover and p064 the logo. Nagant's medically risky intervention is p065–068. Gentle experiences joy before noticing the students' cameras; p082–083 does not establish permanent absence of an audience.
+- **V39:** p146 is Tsukauchi's interpretation of All Might's risk; p155 supplies All Might's stated intention to fight to win. One does not transparently report the other actor's motive.
+- **V40:** p150 is an author Q&A interstitial. The offer imagined at p190 is rejected at p191; do not treat it as an enacted bargain. These are inherited direct-review findings, not newly inspected pages in this continuation.
+- **V41:** p110 Nana's blocking; p116 Tenko's hand contradiction; p121–123 continuing League-directed intent; p157–159 Eri's limited horn route; p168 Sero's rejection of necessary suffering; p175 Aoyama's mutual-need statement. Keep speakers and adult objections attached to claims.
+- **V42:** p042–043 is Mirio's future/humor argument; p062–064 moves from Shoto's food question to Toya's narrow apology. Both p144 **and p145** are authorial afterword, correctly excluded already. Tamaki's adult social sequence is p149,p151,p153. p159 establishes Midoriya's chosen teaching even under the counterfactual of retained OFA. p167's Toya altar supports a strong death inference, not an observed death scene. p180–183 joins Ochako's dream/memory to mutual approach; it does not prove objective vestige survival or a formal relationship status.
+
 
 
 
@@ -1659,7 +1673,7 @@ Source: `My Hero Academia - Vol. 18 [Japanese].cbz` - Drive `1uXDOUStNBGzwBLMcAb
 - Mirko/Aizawa hospital coordination: `V28:p006-021`.
 - Garaki/Shigaraki provisional-death state and three-person Aizawa/Mic/Shirakumo memory: `V28:p022-039`.
 - Quirk Singularity / Garaki biography / original-vs-duplicate AFO succession: `V28:p040-058`.
-- Tokoyami extraction of Hawks / Dabi confrontation / Machia scent recognition: `V28:p060-079`.
+- Tokoyami extraction of Hawks / Dabi confrontation: `V28:p060-077`, excluding the p062 chapter portrait; Machia scent recognition follows at `V28:p078-079`.
 - first-holder warning / awakened Decay / evacuation / Crust rescue: `V28:p080-099`.
 - Shigaraki destruction objective / Machia call / Toga grief-world judgment: `V28:p100-119`.
 - Search / AFO-linked OFA acquisition drive / Ragdoll contrast / Midoriya target inference and decoy: `V28:p120-139`.
@@ -1754,7 +1768,7 @@ High-value locators:
 - Sequential chapters: No.296-306.
 - Starts: No.296 `p007`; No.297 `p027`; No.298 `p047`; No.299 `p067`; No.300 `p087`; No.301 `p105`; No.302 `p123`; No.303 `p143`; No.304 `p159`; No.305 `p177`; No.306 `p194`.
 - Narrative endpoint: **`V31:p213`**.
-- `V31:p214-226`: non-sequential promotional, publication, digital-extra, advertising and cover matter.
+- `V31:p214-225` (raw numeric files 0215–0226): non-sequential promotional, publication, digital-extra, advertising and cover matter. The archive has 226 image entries; this is not a logical p226 endpoint.
 
 High-value locators:
 - PLF secure/escape counts and remaining Near High-Ends: `V31:p009-012`.
@@ -1952,8 +1966,8 @@ Anchor checks: raw `0004` right=`p006`, left=`p007`; raw `0012` left=`p023`; raw
 | Toga finite Twice-blood strategy / Spinner bet | `V38:p007-021` |
 | Uraraka `恋バナ` pursuit | `V38:p007-021` |
 | La Brava/Skeptic information-front intervention | `V38:p035-046` |
-| Gentle U.A. rescue / rehabilitation | `V38:p047-062`, `p081-098` |
-| Lady Nagant return | `V38:p063-068` |
+| Gentle U.A. rescue / rehabilitation | Decisive narrative `V38:p054-059`, `p081-083`; broader surrounding action does not admit p062–064 as behavior |
+| Lady Nagant return | `V38:p065-068`; p063 chapter cover and p064 logo excluded |
 | Shigaraki hidden `原点` internal recovery | `V38:p070-075` |
 | Shigaraki/Tenko destructive salvation statement | `V38:p074-076` |
 | Midoriya `見なかった事にはしない` | `V38:p078` |
