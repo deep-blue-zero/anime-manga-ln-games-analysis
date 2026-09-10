@@ -6,23 +6,31 @@ supersedes:
 - series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_MISUZU_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-16'
+last_updated: '2026-09-10'
 artifact_type: audiovisual_baseline
 scope: CHARACTER_HATAYA_MISUZU_PHASE3_COMPLETE_AV
 character: Hataya Misuzu / 秦谷美鈴
-source_boundary: 27 staged AV objects inspected against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_11_HATAYA_MISUZU.md; deferred physical-release solos excluded as nonblocking
+source_boundary: "AVE-FULL-20260910: 27 source recordings computationally processed; 565 sampled still points reviewed; no fresh direct listening or continuous-motion review. Earlier evidence generations retain their stated provenance."
 textual_authority: GKM_CORE_11_HATAYA_MISUZU.md
-source_manifest: GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST.json
+source_manifest: GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md
 ---
+
+> **Repository adoption — 2026-09-10.** This is the owner-requested branch revision of the exported rebuild. Pre-import candidate labels and repository-state statements in preserved records describe their original execution. Current analytical use remains bounded by the stated evidence modalities. The [import record](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) identifies export hashes and repository transformations.
+
+
+> **Full toolkit rebuild — 2026-09-10.** This document is the adopted bounded revision derived from the earlier packet and repository baseline `400234a42d5811847367de94e6e8229fe816e99b`. The original qualitative analysis, the supplied ZIP calculations, the previous targeted execution, the later M04 toolkit trial, and this full rebuild are distinct evidence generations. Earlier work described as watching/listening remains **inherited qualitative analysis**, not a claim that it never occurred. This run directly inspects only the images recorded in [the full rebuild claim review](SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md). Source-PTS still images establish sampled appearance; computed audio features establish signal properties. Neither certifies fresh listening or continuous-motion review.
+
+> **Historical apparatus.** Original claim IDs/confidence and prior measurements remain recoverable below. Sections explicitly labeled historical describe earlier generations, even where a preserved quotation uses “fresh,” “current,” or “new.” Current claim dispositions and the scope of each renewed observation are in [FULL_REBUILD_CLAIM_REVIEW.md](SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md). Textual controls use GAKUMAS V2 Source Lock 1.0, commit `00d150a069a3ffa723a1ff264752ba242024caad`, revision 32.
+
 
 # GKM — HATAYA MISUZU COMPLETE AUDIOVISUAL BASELINE
 ## Phase 3 integrated acting, music, staging, and character synthesis
 
 ## 0. Authority, purpose, and evidence discipline
 
-This is the canonical integrated Phase-3 audiovisual baseline for **Hataya Misuzu / 秦谷美鈴**. It does not replace the textual core. It tests, revises, and expands that core through directly inspected voiced story compilations, song communications, in-game 3DMVs, authored music videos, and controlled common-repertoire sources.
+The historical release established this as the canonical integrated Phase-3 audiovisual baseline for **Hataya Misuzu / 秦谷美鈴**. It does not replace the textual core. It tests, revises, and expands that core through directly inspected voiced story compilations, song communications, in-game 3DMVs, authored music videos, and controlled common-repertoire sources.
 
-The inspected packet contains **27 staged objects**:
+The admitted packet contains **27 staged objects**. All 27 are newly hash/stream verified; the fresh perceptual scope is the 565 still points recorded in the current review, rather than complete replay of every object:
 
 - four complete Dear compilations covering **Dear 001–037 without a narrative gap**;
 - five complete song-communication compilations;
@@ -30,7 +38,7 @@ The inspected packet contains **27 staged objects**:
 - four authored MVs;
 - four static or full-mix comparison sources.
 
-The evidence classes are kept separate:
+The following broad taxonomy belongs to the historical analysis and is retained for interpreting its original claim classes:
 
 - **AV-DIRECT:** visible performance, editing, framing, gesture, facial state, timing, and audible event structure in a staged source;
 - **AUDIO-METRIC:** extracted source-level or segment-level measurements such as loudness, range, silence, aggregate pitch contour, spectral balance, and tempo;
@@ -38,67 +46,65 @@ The evidence classes are kept separate:
 - **INFERENCE:** interpretation produced by combining the preceding classes;
 - **OPEN:** a proposition that the current packet cannot settle.
 
-Speech-compilation acoustic measures are scene-level rather than speaker-isolated: they include other speakers, background music, and interface audio. They are therefore useful for longitudinal and state comparison, but they are not presented as laboratory measurements of Harusaki Non's unaided voice. Likewise, visual sampling and cut/motion metrics support close reading; they do not replace shot-by-shot human description.
+In this generation, fresh AV-DIRECT review means **sampled still images only**. New computations comprise native mixed-audio loudness, per-channel signal features and audio identity, plus selected-PNG image descriptors. There are no fresh F0, tempo, VAD, cut or motion measurements. The broader historical categories above must not be read as newly completed modalities.
 
-The source that exceeds the connector's normal 256 MiB path—Dear 021–027—is present through the raw/streamed acquisition route. It is not an evidence gap.
+Speech-compilation measures include interlocutors, background music and interface audio. They describe the admitted stream or operational region, not Harusaki Non's isolated voice or a psychological state. Current still images establish source-bound sampled appearance; neither their differences nor older cut/motion proxies establish continuous movement. Original auditory and continuous-performance descriptions remain inherited qualitative work.
 
----
-
-# 1. Executive thesis — centripetal sovereignty
-
-The textual core named Misuzu's mature structure **night-sky sovereignty**. The audiovisual pass preserves that thesis and identifies its performance mechanism:
-
-> **Misuzu exercises centripetal sovereignty. She does not usually seize attention by becoming louder, faster, or more visibly strenuous than everyone around her. She establishes a low-friction center—soft voice, unhurried timing, economical movement, sustained gaze, controlled stillness—and makes other people, cameras, rival energies, and audience expectation organize themselves around it. Her care and her conquest are not opposite registers. They are the same invitational grammar at different scales: come closer, rest here, entrust yourself to me, continue looking at me.**
-
-This is the most important audiovisual correction. Misuzu's softness is not a neutral surface beneath which a separate dangerous personality occasionally appears. The danger comes from **continuity**. Possessive statements often remain adjacent to the same tempo, warmth, and composure used for tea, caretaking, reassurance, and ordinary affection. The audience is not warned by a wholesale switch into an external villain voice. The character's totalizing ambition is persuasive because it sounds and looks hospitable.
-
-At the same time, the AV evidence rejects the caricature of Misuzu as static or low-energy. She can accelerate, dance sharply, sustain bright common repertoire, occupy aggressive ensemble material, and project public authority. What remains stable is not slowness in the literal sense. It is her control over **when and why tempo changes**. Her mature `マイペース` is therefore neither laziness nor a fixed BPM. It is temporal authorship.
-
-A compact AV formulation is:
-
-> **softness as gravity; tempo as sovereignty; care as totalizing attraction.**
+The historical release asserted raw/streamed acquisition of Dear021–027 while its manifest listed the source as unmaterialized. The direct upload admitted in the earlier rebuild is now freshly hash/stream verified and processed by the new toolkit. It establishes current readable bytes; it does not retroactively verify the historical route/hash. This is a provenance distinction, not proof that earlier qualitative inspection was absent.
 
 ---
 
-# 2. What the AV evidence changes
+# 1. Executive thesis — invitation, chosen pace and redistributed attention
 
-## 2.1 Soft/polite Misuzu and possessive Misuzu are one architecture
+The textual core's **night-sky sovereignty** remains a useful interpretive account of Misuzu's growth: she wants to offer rest, become necessary, reach the summit and continue expanding her field of desire. The original AV analysis proposed **centripetal sovereignty** as its performance mechanism. This rebuild keeps that phrase as a selective interpretation and gives it firmer limits.
 
-The packet does not support a clean mask model in which a gentle public Misuzu gives way to a separate “real” threatening Misuzu. Across Dear, song communications, and character-specific performance, the stable features are controlled pacing, small-scale modulation, and an ability to leave semantic violence inside an acoustically inviting form.
+Fresh care and dependence points in M01 show gathered hands, closed-eye smiles and restrained portrait changes across semantic differences. The recovery passage in M03 pairs ongoing pain with a composed figure, then places a promise to stop hurrying beside renewed ambition. These support visual and textual continuity. They do not newly establish the inherited claims about Harusaki Non's softness, breath, phrase endings or chosen pauses.
 
-That matters for Dear 005's wish to fill the listener's heart with herself and make herself indispensable. The disturbing force of the scene does not require a dramatic break with her usual demeanor. The claim extends care rather than negating it. “Let me make you comfortable” and “let me become necessary” belong to the same relational technology.
+The musical comparison also requires a narrower formulation. A sole stage body can receive centered framing without proving a uniquely Misuzu mechanism. In the Star-mine trio, Misuzu receives local foreground attention while Ume and Sena receive other foreground or central positions. Literal stillness is neither a stable pose nor a safe descriptor of all source forms: the packet includes varied body configurations, illustrated sequences, digital doubles and four files that retain the same cover artwork at every survey point.
 
-**Verdict:** the textual formulation “care is both gift and attachment technology” is **STRENGTHENED**.
+> **Care and possession can share an invitational form. Chosen pace can retain ambition. Public authority can coexist with visible need. None of those propositions makes Misuzu the invariant center of every ensemble or guarantees the autonomy of the people she draws close.**
 
-## 2.2 `マイペース` has a bodily signature—but not one fixed energy level
+The current 45-row ledger contains 8 SUPPORTED,27 QUALIFIED,4 REVISED and 6 UNRESOLVED dispositions. It explicitly revises the untested “strongest” ranking for VEIL (MZ-AV-019), invariant ensemble gravity (023), and literal stillness (025). Source provenance042 retains its earlier REVISED status. The auditory architecture remains inherited qualitative work awaiting a fresh auditory comparison.
 
-Ordinary Misuzu repeatedly favors settled posture, low-friction transitions, delayed reaction rather than reflexive flailing, and gestures that seem to complete on her own count. Yet common-song and unit sources show that she can enter faster choreography without losing legibility. Her body becomes more active, but the performance rarely reads as panicked imitation of a more kinetic idol.
+# 2. What the current evidence changes
 
-The decisive negative control is the Dear 023–026 overtraining sequence. There the loss is not simply that she works hard. The route makes the body and schedule feel externally driven: accumulated fatigue, compressed recovery, and a pace whose justification comes from defeat and broken confidence rather than chosen desire. The return to `マイペース` therefore reads as restored coherence, not retreat from seriousness.
+## 2.1 Care and possession share visible forms, with a textual ethical difference
 
-**Verdict:** “Misuzu rejects effort” is **REJECTED**; “Misuzu protects self-authored tempo” is **STRENGTHENED**.
+At M01 840s,848–852s and 856s, the care discussion moves from helping close people to the dissatisfaction of their growing independence and a request to care for Producer. At 1206s and 1214s, heart-filling and dependency language accompanies the same character's closed-eye smile, gathered hands and hand-to-chest presentation. This is a concrete visual counterpart to the textual care/indispensability continuum (Dear004 raw 90–112; Dear005 raw 176–201). It is not a pose-based proof of motive.
 
-## 2.3 Calm and pain coexist
+The song communications extend the comparison. Tsuki's script asks that audiences see beyond an exclusively gentle/peaceful image (CIDOL000_01 raw 83–119). Superlative's higher-being dream fantasy appears beside a smiling close portrait at M07 248.1s (CIDOL014_02 raw 78–133). Care's pleasure and its possessive extension are both explicit. The recipient's freedom to refuse remains a separate ethical question.
 
-Dear 021–037 confirms that calmness is a mode of emotional governance rather than proof of emotional shallowness. Defeat, resentment, fear of abandonment, jealousy, shame, and grief can remain compressed beneath formally composed speech and posture. Later tears do not expose an authentic self that invalidates the composed self. They enlarge the set of states she can permit other people to witness.
+**Current finding:** visual/textual continuity is renewed; the inherited acoustic-neighbor interpretation remains QUALIFIED. Neither “wholly altruistic” nor “merely manipulation” is adequate.
 
-The winter H.I.F. material is especially important. Public authority, exhaustion, dependence, open crying, and the final bodily return signaled by the yawn occupy one continuous summit sequence. Sovereignty does not culminate in disembodiment. The body that needs rest is retained inside the top-idol image.
+## 2.2 Chosen pace is not an inferred movement speed
 
-**Verdict:** “calm = invulnerability” is **REJECTED**; “calm = chosen containment that can later become shared exposure” is **STRENGTHENED**.
+M03's recovery conversation says that the hurried self differs from the idol Misuzu and Producer wanted (fresh points around 1830–1865s; Dear026 raw 66–95). Later, the caption promising to stop hurrying and fulfill the promise slowly appears at 2034.015317–2040.004633s. Rivalry, the offered stars and the demand to subjugate Hatsuboshi's idols follow at 2049.013633–2067.014950s (raw 272–302). The semantic sequence directly rejects the idea that returning to pace abandons ambition.
 
-## 2.4 Group performance does not reduce her to caretaker
+This is a **recovery diagnosis**, not newly inspected footage of the training escalation. The full overtraining arc and its vocal/continuous bodily realization remain inherited analysis under locked Dear023–026 control. Neither a chapter's loudness nor a song's beat estimate measures self-authored tempo.
 
-`Star-mine` and the Ume/Sena shared repertoire show Misuzu as a full performance center rather than the soft support person between more obviously forceful partners. Her contrastive value is real—Ume supplies kinetic ignition and Sena supplies vertical command—but Misuzu's function is not merely to smooth the other two. She supplies centripetal weight. The ensemble has somewhere to return.
+**Current finding:** the narrative relation between pace and ambition is renewed. Literal stillness is replaced by specific sampled posture and source-form descriptions; sustained speed, ease and stamina remain outside the new still review.
 
-This supports distributed-center capacity but does not prove a universal claim that Misuzu is always the group's social mediator. Later event and support-card readings must still test that proposition.
+## 2.3 Calm appearance and need can coexist
 
-**Verdict:** “Misuzu is always the caretaker/mediator in groups” is **DOWNGRADED**; “Misuzu can stabilize an ensemble without surrendering center status” is **STRENGTHENED**.
+M03's continuing-pain captions at 1962.010050s and 1968.016050s appear with hand-to-chest and closed-eye portraits. The following held-forearm sample at 1974.005367s does not erase that stated pain. In M04, trophy contemplation at 2940s and 3000s sits beside an admission of self-uncertainty at 2970s; public thanks and requested help at 3120–3150s also complicate an invulnerable sovereign image.
+
+The exact tear/refusal and final-yawn timing comes from the **prior M04 toolkit trial**, carried forward with its source and observation hashes. A tear and the completed refusal caption coexist at 3391s. The closing speaker label, first glyph, portrait/moon mixture and fade were separately bracketed. The current rebuild supplies wider comparisons without counting those prior points as fresh.
+
+**Current finding:** the rejection of tears or need as incompatible with the crown remains supported. Audible crying and two simultaneous yawns are not newly certified.
+
+## 2.4 Group focality is distributed, not a permanent Misuzu axis
+
+In M17, Ume occupies the foreground/center at 62s and 90s, Misuzu receives the near foreground at 74/78s, and Sena receives analogous direct address at 82s. M18 gives Misuzu individual folded-arm imagery at 88s, but its survey trio at 90.041667s centers Sena. These are distinct editorial constructions rather than one continuous geometric hierarchy.
+
+The fresh material rejects a permanent support-only role for Misuzu. It also revises an invariant “ensemble has somewhere to return” claim into **local centrality within redistributed attention**. Universal social mediation, equal line allocation and complete-song blocking are not settled by these points.
+
+**Current finding:** MZ-AV-023 is REVISED; interpretive “gravity” may describe selected passages but cannot stand for an unmeasured whole-song or universal group function.
 
 ---
 
 # 3. Dear 001–010 — hospitality, lowered confidence, and the first disclosure
 
-The first tranche establishes the baseline against which later rupture becomes legible.
+The first tranche establishes the baseline against which later rupture becomes legible. The timing and auditory descriptions in this historical close reading remain inherited. The current renewal is specifically M01 care/dependence/anger/sunset still imagery, linked in MZ-AV-001,008,009 and 012.
 
 Misuzu's ordinary voice and body are not empty softness. They create a room. Pauses allow the listener to remain inside the exchange; small smiles and controlled gaze make attention feel individualized; unhurried delivery communicates that she is not being displaced by the other person's urgency. This is why tea, rest, and care are more than lifestyle decoration. They are the first scale of her stagecraft.
 
@@ -108,7 +114,7 @@ Dear 004 and 005 then establish the ethical double structure. Caregiving is plea
 
 > stay, receive comfort, let me know you well enough to make myself indispensable.
 
-Dear 007 is a valuable register test because anger is no longer routed through quiet containment alone. Misuzu can make conflict explicit. The force comes less from explosive volume than from the withdrawal of cushioning ambiguity: tempo tightens, intention becomes harder, and the other person is required to answer.
+Dear 007 is a valuable register test because anger is no longer routed through quiet containment alone. Misuzu can make conflict explicit. The inherited auditory reading locates force in the withdrawal of cushioning ambiguity rather than explosive volume. Fresh M01 1704s directly shows the anger caption with a level close portrait;1720/1724s present requests that Temari worry and impose on her, and 1740s shows Temari's answer. This renews the answerable conflict, not a measured change in tempo.
 
 Dear 009 and 010 add two further elements. Praise for effort matters because Misuzu's work is often socially invisible; recognition reaches the part of her that resents being mistaken for someone who merely coasts. The idol-origin disclosure then makes the triangular gaze audiovisual: Misuzu is moved by Temari being moved. Her desire for the stage begins as a desire to occupy another person's field of attention.
 
@@ -120,7 +126,7 @@ The first tranche therefore establishes the basic AV grammar:
 
 # 4. Dear 011–020 — conflict as respect and relation without restoration
 
-The Rinha tranche tests whether Misuzu can relate to someone she cannot peacefully contain.
+The Rinha tranche tests whether Misuzu can relate to someone she cannot peacefully contain. Its complete conflict reading remains inherited/text-controlled. The new M02 738–990s supplement reaches Rinha's speaker inset, shared training context and Misuzu's friendship caption at 990s; it is not a complete replay of the confrontation. The first 1660–1880s selection instead showed Temari and is retained under that correct attribution.
 
 The audiovisual distinction is not simply “warm voice versus angry voice.” The more important change is dialogic pressure. Misuzu stops using softness to keep conflict indefinitely unresolved and begins allowing speech to create consequences. `ちゃんと喧嘩をしましょう` is an ethical advance because it grants Rinha the dignity of refusal, contradiction, and counterattack.
 
@@ -138,7 +144,7 @@ The route's larger proposition is visible here:
 
 This tranche is the strongest test of whether `マイペース` is a philosophy or an alibi.
 
-The loss to Sena wounds Misuzu. The AV evidence supports a distinction between public processing and stored affect. She can speak coherently about the competitive result while resentment remains in timing, breath, and the effort required to preserve composure. Her anger is not invalidated by being quiet.
+The loss to Sena wounds Misuzu. The AV evidence supports a distinction between public processing and stored affect. The inherited auditory analysis places resentment in timing and breath. Fresh M03 points instead show the text naming accumulated resentment and the Producer's treasure-box interpretation around 514.0135–544.010133s, alongside gathered hands, closed eyes and folded arms (Dear022 raw 145–220). The words establish the stored affect; a still does not reveal the cost of maintaining vocal composure. Her anger is not invalidated by being quiet.
 
 The subsequent training escalation matters because Misuzu is capable of doing it. A weaker reading would imagine that she rejects high workload because she cannot tolerate it. Instead, the sequence demonstrates that she can temporarily sustain an externally recognizable seriousness—more visible effort, less rest, greater urgency—and become less coherent as Misuzu in the process.
 
@@ -155,7 +161,7 @@ Dear 027 then returns to childhood. The “cold omnipotence” disclosure explai
 
 # 6. Dear 028–037 — the crown becomes inhabited
 
-The final tranche distinguishes a title from a livable identity.
+The final tranche distinguishes a title from a livable identity. Fresh M04 public/trophy samples renew that setting and its uncertainty; the precise tears and closing-yawn transitions below depend on the separately labeled prior M04 trial. No new audible register judgment is supplied by the current mixed-signal metrics.
 
 Misuzu's public top-idol language grows clearer and more authoritative without abandoning her ordinary bodily tempo. She can enter professional comparison and institutional representation, but the route repeatedly returns to the question of whether the summit remains a place she can inhabit rather than a role that requires permanent overextension.
 
@@ -165,59 +171,43 @@ The Producer-facing possessiveness near the final intensifies the unresolved eth
 
 Prima Stella and the open crying with Temari then permit a new combination: public reign plus visible need. Misuzu is not reduced to the child who wanted Temari's gaze, but neither is that child discarded. She can win, cry, receive care, and remain sovereign.
 
-Dear 037's night-sky expansion is therefore not closure. The sky grows because the summit reveals more stars. The final yawn is not anticlimax. It is the proof that her highest identity can still contain the ordinary body that sleeps.
+Dear 037's night-sky expansion is therefore not closure. The sky grows because the summit reveals more stars. The final yawn supports an interpretive return to the ordinary body within the summit image. It is not an acoustic proof: the prior trial establishes the shared-speaker label, written yawn and moon transition, while the locked script supplies one explicit Misuzu voice cue. Two audible yawning voices remain unverified.
 
 ---
 
-# 7. Musical identity — command without compulsory force
+# 7. Musical identity — source form, invitation and expanding scale
 
-Misuzu's musical identity is not reducible to “soft nocturnal songs.” The packet contains bright school repertoire, aggressive ensemble material, novelty pop, inherited songs, and high-motion common choreography. She performs all of them credibly.
+The original analysis heard a controlled intimacy that survived brighter, more aggressive and collective repertoire. That remains inherited listening. The fresh visual comparison gives it source-specific material while withdrawing claims that depend on unreviewed continuous movement or an untested rank of mature works.
 
-What remains stable is a procedure:
+## 7.1 `ツキノカメ` — two distinct orbital constructions
 
-1. establish a controlled center;
-2. allow arrangement and surrounding movement to intensify around that center;
-3. use small changes in gaze, timing, and gesture to make attention feel personally directed;
-4. preserve softness even when the semantic or visual scale becomes totalizing;
-5. make low friction read as confidence rather than absence.
+M10's rendered stage places one performer within orbit-like platforms, suspended globes and changing light fields. At 62/66/74s, rear-head, eyes-closed smile and reaching-palm samples coexist with wide-stage images. M11 instead supplies a moon/cloud field, linked little fingers, a turtle among crystals, clock/ring objects and illustrated portraits. These are different kinds of authored address; the linked hands are not independently identified as named Dear characters.
 
-This procedure is the musical analogue of her relational care.
+The commu explicitly seeks more than an exclusively gentle image and wants enduring audience attention (CIDOL000_01 raw 83–119;000_02 raw 72–108). This joins comfort and desire at the textual level. The original description of their acoustic proximity remains a bounded inherited reading.
 
-## 7.1 `ツキノカメ` — slowness ceases to be defensive
+## 7.2 `Campus mode!!` — re-authorship includes other audiences
 
-`ツキノカメ` is the clearest origin statement. Across authored MV and 3DMV, nocturnal and cyclical imagery aligns with a performance that does not apologize for measured motion. Stillness is not the interval before “real” performance begins. It is the condition under which the camera and listener become attentive to smaller changes.
+M06's samples distinguish recollection of SyngUp!, a later solo costume and present fan address. The locked script names her own fans while acknowledging overlap with Temari and Rinha's audiences (CIDOL005_03 raw 60–84), then frames the solo rendition as gentle overthrow (raw 125–169). Fresh M12 shows a microphone, balloon-lit platform and bright audience-facing poses. It supports admitted range rather than a measurable change in the song's center of gravity.
 
-The song's danger comes from proximity rather than attack. Misuzu's calm presentation can be read as shelter, seduction, command, or all three. That ambiguity is not indecision; it is the character's first complete audiovisual signature.
+The personal re-authorship claim is strongest where the commu explicitly makes it. It does not require declaring every common-song pose uniquely Misuzu or assuming she possesses everyone attending.
 
-## 7.2 `Campus mode!!` — `穏やかなる下剋上`
+## 7.3 `Superlative` — offered acceptance inside an asymmetric fantasy
 
-The bright, inherited school-song framework is a useful negative control. Misuzu can participate in overtly cheerful, kinetic repertoire without becoming a parody of another idol. Her individuality appears in how she inhabits the choreography: the performance remains measured, gaze-oriented, and composed even when the song's surface asks for broad communal energy.
+M07 248.1s places the dream/higher-being idea beside a smiling close portrait. M13's extended hand and embrace/acceptance lyrics at 84/96s supply an invitation, not only elevation. The locked commu develops the fantasy and its unsettling humor (CIDOL014_02 raw 78–133;014_03 raw 164–189). The care-to-possession interpretation therefore has direct textual control and specific visual counterparts.
 
-The textual phrase `穏やかなる下剋上`—gentle overthrow—therefore gains audiovisual substance. She does not destroy the inherited song. She makes its center of gravity move toward her.
+M14 is a full-mix comparison source with the same cover artwork at all 12 survey points. Its arrangement/vocal reading is inherited; the new images and signal features cannot “confirm” vocal superiority or audience submission.
 
-## 7.3 `Superlative` — care enlarged into sovereignty
+## 7.4 `VEIL` — mature synthesis without an untested superlative
 
-`Superlative` is the most concentrated expression of her totalizing fan fantasy. Superior-being imagery, centralized framing, and the song communication's language of dreams make the audience relation explicitly asymmetrical.
+M15's rendered orbital arena alternates a large light field with closer invitation: the offered hand at 74s and surrounding beams/fire columns at 82/90s give scale a concrete visual form. M16 uses another grammar: mechanical aperture at 48s, wireframe chamber at 72s, fractured/grid fields, fragmentary humanoid forms and an illustrated cosmic portrait by 132s. “Night sky” does not exhaust those technological and crystalline textures.
 
-Yet the performance does not become simply tyrannical. Its attraction depends on an offered pleasure: the fantasy that placing one's dream in Misuzu's hands will make it safer, larger, or more beautiful. The ethical problem is precisely that the offer is appealing.
+The commu explicitly says the current work is difficult and unfinished, tied to future growth and a rival beside her (CIDOL016_02 raw 107–163;016_03 raw 38–150). **VEIL is a mature synthesis, not a newly established strongest work or a final identity.** A still's spectacular scale neither measures mastery nor certifies benevolent sovereignty.
 
-This is the strongest musical evidence for the thesis:
+## 7.5 `Star-mine` — local centers and different histories
 
-> **healing can be a method of conquest.**
+The commu separates ongoing solo identities from a temporary return to working together (CIDOL010_02 raw 37–92,118–141). Fresh M17 and M18 do not reduce Misuzu to support: she receives individual address and local foreground placement. They also center or foreground other members at other sampled points.
 
-## 7.4 `VEIL` — mature night-sky sovereignty
-
-`VEIL` is the packet's highest-load object because it integrates concealment, scale, desire, and incompletion. The authored MV and 3DMV should not be treated as interchangeable. The authored work controls symbolic environment and editorial revelation; the in-game stage tests whether Misuzu can embody the concept through performance presence.
-
-Veiling does not mean simple dishonesty. It names the controlled relation between what Misuzu offers and what she withholds. The audience is permitted proximity but not total possession. At the same time, Misuzu wants to become the sky within which other lights are visible. The image is both generous and imperial.
-
-The song communication's insistence that the work is not finally exhausted is crucial. Mature sovereignty does not become static mastery. `VEIL` remains capable of producing new layers because Misuzu's summit opens further distance.
-
-## 7.5 `Star-mine` — plurality without restoration
-
-Begrazia is not SyngUp! restored under another name. `Star-mine` places Misuzu beside Ume and Sena, characters whose force is organized differently. The unit works through contrast rather than convergence.
-
-Misuzu's contribution is centripetal: she gives the trio a calm but not passive axis. Ume's kinetic ignition and Sena's commanding verticality remain legible because Misuzu does not attempt to average them into one tone. This is the group-performance version of relation without compulsory sameness.
+Replace a fixed centripetal axis with **distributed focality**. The difference between rendered blocking and authored individual/graphic portraiture is evidence of source form. Neither establishes equal vocal shares, complete movement handoffs, long-term unit governance or compulsory SyngUp! restoration.
 
 ---
 
@@ -225,31 +215,31 @@ Misuzu's contribution is centripetal: she gives the trio a calm but not passive 
 
 ## `ENDLESS DANCE`
 
-This source proves that Misuzu can sustain a more continuously activated body without losing character identity. It also prevents the analysis from turning every successful performance into evidence that low motion is her essence. The stable property is authored control, not literal stillness.
+M19's points at 34–64s alternate side/profile views, an arms-open body, a monochrome close face, distorted room space and direct hand-framed address. They establish varied visible configurations and form. The historical assessment of sustained activation remains inherited continuous-performance analysis; this short admitted source is not the deferred physical-release Misuzu solo.
 
 ## `Howling over the World`
 
-Aggressive repertoire does not require Misuzu to become vocally or visually indistinguishable from a conventional power singer. The contrast between arrangement and her controlled center can itself produce force. The trio full-mix additionally tests whether her identity survives shared attention; it does.
+M23's red/blue digital doubles, chain-like barriers and crouched figure give the aggressive/confinement reading exact visual objects. The ordinary face-and-hand address at 58s supplies another register of the same source. M26, the trio full mix, retains static graphic lettering at all 12 survey points. Neither source was freshly auditioned. Whether the singing preserves or erases Misuzu's softness remains UNRESOLVED, rather than being decided from spectral balance or a digital double.
 
 ## `ミラクルナナウ(ﾟ∀ﾟ)!`
 
-Novelty intensity and digital excess reveal genuine comic and rhythmic adaptability. This material is analytically useful because it places pressure on the temptation to make Misuzu solemn at all times.
+M22 uses keyboard/toy staging, interface patterns and a cup-drinking pose at 56s beside performance images. These specific comic/domestic inserts constrain an exclusively solemn identity. Comedy's timing and vocal adaptability remain inherited judgments.
 
 ## `がむしゃらに行こう！`
 
-The song's effort-forward surface is a necessary counterexample. Misuzu can perform an anthem of wholehearted exertion without the narrative endorsing a universal ethic that visible strain is morally superior. A performer can inhabit repertoire without converting every lyric into her complete philosophy.
+M24 shows leaning toward a book-covered desk at 40s, chin-hand thought at 44/52s, a question-mark multi-panel image at 56s and raised bent-wrist hands at 60s. Difficulty is visibly stylized. This does not show physiological strain or make the lyric's effort theme Misuzu's moral doctrine; Dear026's recovery still retains ambition without compulsory hurry.
 
 ## `初`
 
-Inherited school repertoire supplies a baseline for how she enters a shared institutional language. Her individuality emerges through phrasing and presence rather than through refusal of the common song.
+M20's illuminated stage and microphone/body poses provide an institutional-performance control. M25 is a separate source form: the same title illustration persists at all 12 survey points. Their visual difference must be preserved before comparing any full-mix audio. Individual phrasing remains inherited listening.
 
 ## `ヨルニテ`
 
-The nocturnal identity here is more intimate and local than the cosmic scale of `VEIL`. Night can be a shared interval rather than a territory Misuzu governs. This keeps the night-sky thesis from collapsing all darkness into domination.
+M21 juxtaposes glass-like fragments, a school-uniform figure in a daylit photographic animal-park setting at 72s, three chibi figures at 84s, a large crowned illustration at 96s and neon line work at 108s. This is more varied than “intimate night” alone. Crown imagery can participate in sovereignty interpretation, but neither it nor the other images settles whether the entire audience relation is totalizing.
 
 ## `たいせつなもの`
 
-This source preserves care, memory, and value without requiring overt conquest. It is important counterevidence against reading every gentle performance as covert threat. The correct claim is not “softness is always manipulation.” It is that softness is the medium through which both care and possessiveness can travel.
+M27 repeats one leafy portrait illustration at all 12 sampled points. Its decorative recording display is part of the artwork, not a source clock. The original reading of non-totalizing tenderness remains inherited auditory interpretation; the new stills establish the source form rather than the heard feeling. Ordinary care passages and specific invitation lyrics remain separate textual counterweights to “all softness is threat.”
 
 ---
 
@@ -277,9 +267,9 @@ Fans are not merely objects Misuzu wants to possess. Their attention, expectatio
 
 ---
 
-# 10. Comparative placement within the completed AV baselines
+# 10. Inherited comparative placement within earlier AV baselines
 
-The three completed earlier AV baselines help specify what is distinctive here.
+The three earlier AV baselines supplied the following comparative interpretation. Those characters were not freshly reprocessed for this Misuzu review; these tendencies are inherited, not new controlled measurements:
 
 - **Saki** tends to make effort and forward propulsion visible; Misuzu makes effort disappear into controlled ease when the system is functioning well.
 - **Temari** often externalizes internal fracture through sharper tension and unstable intensity; Misuzu more often converts pressure into composure until a chosen or unavoidable release.
@@ -289,7 +279,7 @@ These are comparative tendencies, not exhaustive identities. Misuzu can be kinet
 
 ---
 
-# 11. Claim-transition summary
+# 11. Historical claim-transition summary
 
 | earlier formulation | transition | AV formulation |
 |---|---|---|
@@ -317,8 +307,27 @@ These are comparative tendencies, not exhaustive identities. Misuzu can be kinet
 
 ---
 
-# 13. Final formulation
+# 13. Current formulation
 
-> **Hataya Misuzu's audiovisual identity is not softness hiding power. Softness is how her power works. She creates low-friction spaces in which people want to remain; she turns attention into intimacy, intimacy into need, and need into a public charisma large enough to resemble a night sky. Her growth does not require becoming louder, more frantic, or less greedy. It requires learning that sovereignty is strongest when it can contain conflict, defeat, tears, rival autonomy, bodily rest, and further stars without forcing them back into one old arrangement.**
+> **Misuzu's care, desire for indispensability and public ambition remain connected without becoming ethically identical. Fresh stills locate their shared portrait vocabulary, the admission of stored pain, and the recovery that keeps ambitious promises while relinquishing hurry. The original account of hospitable vocal control remains inherited. Musical images now require distinctions among local stage centrality, distributed trio focality, authored cosmic/technical imagery and static artwork. Night-sky sovereignty describes an unresolved project: drawing others near while learning whether their independent paths can remain independent.**
 
-The textual thesis **night-sky sovereignty** is therefore preserved and strengthened. The AV mechanism is **centripetal sovereignty**.
+The textual thesis is preserved with narrower audiovisual mechanisms. The current claim ledger supplies source-PTS evidence and explicit counterlimits rather than using “centripetal sovereignty” as a universal explanation. All 27 admitted sources were newly verified and sampled; all 37 operational Dear intervals were rerun with inherited boundary provenance. Fresh perceptual review remains visual point coverage, with direct listening and continuous motion uncompleted.
+
+## Previous targeted rebuild — historical completion qualification
+
+- Current source verification: all 27 local files were freshly hashed and probed against the recorded IDs and hashes, including the STEP3 upload and three shared Sena sources. The supplied ZIP separately records 26 Drive fetches and one direct upload; those acquisition events are inherited records, not fresh connector downloads in this execution.
+- Technical generations: the supplied rebuild contains 27 whole-source records and 18 music-feature records. Current execution independently reproduces M03 whole-source audio measures and adds 20 newly measured chapter-label intervals. All audio measures concern full mixes; no isolated Misuzu voice measurement is asserted.
+- Dear measurements:37/37 chapter-associated operational intervals:17 inherited container-marker intervals (11–27), plus20 fresh frame-selected chapter-label cycles (1–10 and28–37). The earlier10 late interior windows remain separately labeled historical numerical records; two inherited ED segments remain controls. No equal-duration fallback or original-game frame-exact narrative-start claim.
+- Claim review:45/45 actual existing rows preserved, mapped and dispositioned, correcting the register’s43-row count. New visual checks have exact hashes/times; no new direct listening or complete continuous audiovisual reinspection certified.
+- Full rebuild completion:source accounting,37-chapter operational coverage and bounded documentation/measurement delivery complete; full perceptual re-verification remains PARTIAL because direct listening is unavailable and ordered still samples omit intervening frames.
+- Deferred 標, physical-release Misuzu ENDLESS DANCE and Misuzu ガラクタロード remain optional and outside this rebuild.
+
+The earlier generation preserved unaffected analysis and identified visual/textual facets and unresolved acoustic dependencies. The full rebuild now revises the main-body formulations above through its separate current ledger. Interpretive labels such as resistant form or centripetal sovereignty are not derived from a new scalar ranking.
+
+## Previous targeted execution — inherited synthesis and limits
+
+Fresh inspection and locked A1 alignment now locate the early care/dependence/anger architecture and its later vulnerability/callback controls. M01's care request at836–858s and enclosure admission at1206–1214s share composed hand/face presentation; explicit anger at1704s remains relatively level in visible posture. M03's continuing pain and recovery now have exact captions/frames instead of whole-chapter fallback locators. M04's3382–3392s uncertainty/refusal and3400–3416s tearful embrace show why vulnerability does not mechanically cancel self-definition. The first high-place promise atM01 190–194s returns in M04's3812–3815s shared-yawn caption and moon cutaway. These renew visual/textual facets; they do not certify newly heard softness, strain, crying or two simultaneous yawning voices.
+
+Dense0.5s sequences also document varied gestures and forms in Tsuki no Kame, Howling, Gamushara, Hajime, Miracle Nanau and both Star-mine versions. Misuzu receives local foreground attention in the rendered trio before attention redistributes; the authored MV uses individual portraits, rotating masks and a combined graphic composition. Neither sparse stills nor these denser excerpts measure complete-song blocking, line allocation, dance competence or an actor's acoustic signature. All original45 qualitative propositions and confidence remain preserved; fresh dispositions are facet-specific and the six OPEN/UNRESOLVED outcomes remain explicit.
+
+The exact frame schedules, current source hashes, locked-text raw lines and interpretation limits are in [the execution extension](SUPPORTING_DATA/EXECUTION_EXTENSION_20260910.md). All27 source slots were freshly hash/probe verified in [the current source record](SUPPORTING_DATA/EXECUTION_SOURCE_VERIFICATION.md). The37-row chapter table distinguishes17 inherited marker intervals from20 fresh label-cycle measurements in [the new technical record](SUPPORTING_DATA/EXECUTION_MEASUREMENTS.md); no metric is an isolated Misuzu voice measurement.
