@@ -43,6 +43,14 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Power Philosophy Ledger
 
+## Current source-admissibility correction — continuation
+
+The V27 mobility/mentor reversal below establishes arrival at p179; the exercise of extraction capacity is V28:p060–077. Do not move that later action into a V27 freeze. V31:p164–174 makes accumulated OFA dangerous for an already Quirk-bearing successor and frames Quirklessness as a compatibility condition; it does not authorize a universal predicted lifespan. “Excellent successor” cannot mean both ethical suitability and uncomplicated biological suitability for Mirio.
+
+Jiro's contribution at V36:p082–092 is mediated: hostile wills rebel, the copied AFO factor has weaker control, and sensory delay permits further blows. “Sound defeats AFO” would erase that causal chain. Eri's V41:p157–159 horn intervention is limited, chosen help accompanied by adult concern about lasting Quirk damage, not permission to treat a child's body as an owed resource.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 

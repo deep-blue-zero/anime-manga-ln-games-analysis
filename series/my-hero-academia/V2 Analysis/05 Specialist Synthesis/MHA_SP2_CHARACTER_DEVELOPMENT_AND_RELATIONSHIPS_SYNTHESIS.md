@@ -1,0 +1,54 @@
+---
+series: MHA
+corpus: MHA_SP2
+artifact_type: specialist_synthesis
+scope: FULL_SERIES_V01-V42
+generation: V2
+status: canonical
+source_boundary: Japanese main manga Volumes 1-42, including chapter 431; supplemental expansion excluded
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# MHA SP2 — Character development and relationships
+
+## Development changes conditional responses
+
+**Interpretation.** MHA's most defensible character model is neither an immutable trait list nor a sequence of personalities replacing one another. Development changes what a person notices, which obligations they accept, and how they use an existing disposition. Abrasiveness, anxiety, formality and admiration can persist while their practical meaning changes. Relationships are directed and unequal: what Bakugo can receive from Kirishima is not identical to what he can receive from Midoriya; what Toya can briefly acknowledge to Shoto is not a general reconciliation with his father. The primary evidence owners are [Class 1-A ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md), [U.A. students and staff ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_UA_STUDENTS_STAFF_CHARACTER_STATE_LEDGER.md) and [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), especially their Bakugo/Midoriya, Iida, Big Three, Aoyama, and V42 ordinary-life sections.
+
+### Rivalry is reorganized rather than erased
+
+**Textual facts.** Early Bakugo treats threatened superiority and Midoriya's intervention as intolerable; captivity does not make villain affiliation attractive because he already identifies with heroic victory. V10's refusal and Aizawa's defense at p110 therefore reveal a pre-existing commitment, rather than a conversion from secret villainy. Later apology, cooperation, rehabilitation and sustained material support alter the relation while adult bluntness remains. The suit's collective funding and Bakugo's central role are explicit at V42:p140–141. [Class 1-A ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md), Bakugo V02/V08/V10/V42; [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), Midoriya–Bakugo.
+
+**Strong inference.** Rivalry becomes more capable of acknowledging dependence and another's worth. It does not simply end when aggression becomes care. The costly support matters because it is sustained and enabling; an insulting manner cannot be treated as proof that nothing changed, while care cannot retrospectively excuse earlier cruelty. Midoriya's continuing difficulty reading his own value complicates reciprocity: being admired and being able to believe that admiration are different states. V42:p158–175; [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), V42 adult peers; the BK-V01 and MI-V01 dossier comparisons remain narrower than this longitudinal conclusion.
+
+### Rules and anxiety are resources that can be revised
+
+Iida's revenge experience does not make all rules hypocritical. His V09→V10 rescue-plan negotiation puts friendship, legality and risk in tension; accepting a bounded role is not proof that any noncombat plan is acceptable. Tsuyu likewise preserves direct speech while later revising a rules-based judgment in the Toga encounter. Momo converts a teacher's technical information into delegated roles during the Machia operation, and uncertainty about results does not make her incompetent. **Interpretation:** development often improves a person's discrimination between contexts, rather than moving them from one absolute slogan to its opposite. [Class 1-A ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md), Iida V09–V10, Tsuyu V39, Momo V28–V30; [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), Kamino rescue and final-war cooperation.
+
+Tamaki makes this mechanism especially visible. The Big Three buy and use limited time together at V36:p173–179; p181 explicitly changes the significance of received belief. Earlier praise could burden him, whereas here it can strengthen action. The enemy's survival prevents equating a well-executed role with certain victory. Adult p149,p151,p153 in V42 adds professional doubt, concern for Ochako and willingness to correct a hasty inference. **Textual fact:** inhibition and useful action coexist. **Interpretation:** emotional growth is increased room to act and revise, not a cure defined by becoming Mirio. [U.A. students and staff ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_UA_STUDENTS_STAFF_CHARACTER_STATE_LEDGER.md), Tamaki V16/V36/V42; [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), Big Three.
+
+### Recognition can change the relation without settling the person
+
+Aoyama's postwar departure is not predicted merely by knowing he feels guilt. Authorities offer inclusion; he chooses a separate reparative route while preserving aspiration and peer bonds. The alternative of staying was also consistent with earlier evidence. Mirio's V18:p088–090 refusal of a hypothetical transfer similarly shows that accepting support is not the same as accepting any offered means: he resists shifting loss onto Midoriya and conditions Eri-related help on safe control. Both cases give the recipient a decision, rather than making gratitude a required response. [U.A. students and staff ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_UA_STUDENTS_STAFF_CHARACTER_STATE_LEDGER.md), Aoyama V42 and Mirio V18; [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), Aoyama–Class A and Midoriya–Mirio.
+
+Shoto's V42:p062 question and Toya's p064 apology must be modeled separately. Shoto initiates an ordinary relation; the response is an unexpected opening relative to Toya's dominant prior hostility. The fact that a Shoto model can support reaching out does not make it capable of guaranteeing Toya's answer. **Interpretation:** reconstruction must preserve the other person's independent response and the possibility of nonreciprocity. A relationship ledger is therefore not a table of automatically symmetrical trust scores. [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), Todoroki siblings; [Family and civilians ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_FAMILY_CIVILIAN_SOCIAL_ACTOR_LEDGER.md), V42 family endpoint.
+
+### New bodies and terminal states are not timeless personalities
+
+Spinner's enhanced, impaired execution in V37 is not evidence that he always lacked coherent thought. Eri's risky horn route at V41:p157–159 is not predictable from gratitude alone. Toya's medically restricted speech is a newly sampled register, and mixed Kurogiri recognition at V42:p009–011 does not supply an ordinary restored Shirakumo. These cases show why bodily state, available knowledge, coercion and relationship must be supplied alongside disposition. [Villains and antagonists ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md), Spinner/Toya/Kurogiri final-war sections; [U.A. students and staff ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_UA_STUDENTS_STAFF_CHARACTER_STATE_LEDGER.md), Eri V41; [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), terminal relationships.
+
+The reconstruction corpus consequently retains 30 bounded models and a `moderate` Kurogiri comparison, rather than inflating evidence breadth because the story ends. **Residual:** healthy reciprocal AFO intimacy, rehabilitated adult Shigaraki, Eri's unshown adolescent private life and detailed adult family patterns cannot be extracted from endpoint scenes. A counterfactual can be explored only by declaring its new conditions and uncertainty. The [aggregate validation](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AGGREGATE_RECONSTRUCTION_VALIDATION.md) preserves these limits and substantive misses.
+
+### Ordinary behavior is a separate test
+
+V42's adult scenes add evidence that battle coordination cannot substitute for: Tamaki's correctable social inference, Shoto's interest in tableware and food (p167–168), Midoriya's teaching preference (p159), and Ochako's movement toward a desire she can acknowledge (p180–183). Shoji's valid adult breadth is p132,p163; the V37:p148 kimono drawing contributes none. **Interpretation:** ordinary life tests whether a character can have ends beyond usefulness under crisis. It also reveals remaining asymmetries: adult schedules do not prove abandonment, professional rank does not prove emotional ease, and mutual approach does not prove a formal relationship label. [Class 1-A ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_CLASS_1A_CHARACTER_STATE_LEDGER.md), V42; [U.A. students and staff ledger](../03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_UA_STUDENTS_STAFF_CHARACTER_STATE_LEDGER.md), V42; [Relationship state ledger](../03%20Longitudinal%20Ledgers/MHA_SP2_RELATIONSHIP_STATE_LEDGER.md), adult peer/romantic sections.
+
+This conclusion feeds [S6: ordinary life](MHA_SP2_FAMILY_CARE_AND_ORDINARY_LIFE_SYNTHESIS.md) and the [definitive synthesis](../06%20Full-Series%20Synthesis/MHA_SP2_FULL_SERIES_SYNTHESIS.md). The literary value of continuity is precisely that change remains recognizable; the modeling danger is treating recognizability as permission to predict every situation.
+
+## Evidence status and corpus role
+
+This specialist owns the subject argument named above. Its primary ledger responsibilities are assigned in the [fourteen-ledger disposition](MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md). **Textual fact** identifies depicted action or attributed speech; **strong inference** identifies an implication supported by converging evidence; **interpretation** states the analytical judgment; **residual** marks what remains unshown or unsettled. A character's explanation is a fact that the character gives that explanation, not automatically a true account of the world.
+
+Primary citations use the [logical-page locator](../07%20Evidence%20and%20Indexes/MHA_SP2_PRIMARY_SOURCE_LOCATOR.md). The [source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) distinguishes this continuation's inspections from inherited direct review, locks source bytes and excludes paratext. No claim here implies a new complete reread of all 42 volumes. The scope is the completed Japanese main manga V01–V42, including chapter 431.

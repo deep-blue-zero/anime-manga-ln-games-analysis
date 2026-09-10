@@ -43,6 +43,12 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — First-Pass Correction Ledger
 
+## Current source-admissibility correction — continuation
+
+The continuation separates actual V1 claim revision from correction of V2's own evidence handling. The Hawks V27 extraction leak, Shoji p148 paratext contamination, Tamaki's vague adult locator and observer/actor ambiguity are **V2 self-corrections**, not invented V1 mistakes. Historical prose remains preserved. Claim reconciliation must use fully read, identified V1 documents and classify surviving, strengthened, revised and rejected claims. V1 already recognized OFA expenditure, reaching without simple absolution, distributed vocation, teaching and ordinary `More`; V2 must not take false novelty credit.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 
 
 
