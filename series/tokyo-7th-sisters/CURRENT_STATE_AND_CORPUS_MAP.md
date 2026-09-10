@@ -33,14 +33,14 @@ project_initialization:
     - "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md"
     - "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md"
     - "09 Audits and Manifests/T7S_BOOTSTRAP_AND_GATE_RECORD.md"
-  sequential_analysis_lock: open
+  sequential_analysis_lock: closed
 substantive_findings_at_bootstrap: false
 execution_scope: architecture_bootstrap_only
 ---
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**V1 architecture verified; no story analysis has begun. `SEQUENTIAL_ANALYSIS_LOCK = OPEN`.** This is the sole current entrypoint for `series/tokyo-7th-sisters/`. The branch implements approved specification 1.1, including independent character reconstruction readiness and multimodal monograph maturity. The gate record documents the verified readiness transition. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
+**Opening prerequisites under review; no story analysis has begun. `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`.** This is the sole current entrypoint for `series/tokyo-7th-sisters/`. The branch implements approved specification 1.1, including independent character reconstruction readiness and multimodal monograph maturity. The gate record preserves the earlier readiness transition and its temporary closure for a bounded prerequisite audit. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
 
 ## Governing and cumulative homes
 
@@ -76,7 +76,7 @@ Every per-line frontier is `NOT_STARTED`; remaining holes are the full exact set
 
 Earlier preservation/design work exposed labels, small technical dialogue examples, four sampled script playbacks and external chronology discussion. This bootstrap performed metadata, hash and native-pointer equality checks, not a story reading. Preserve that exposure history; use exact bounded packets and entering-state records for future prospective work. No uncontaminated first encounter is claimed.
 
-The architecture is ready for the first bounded reading: episode `201000001`, EPISODE 1.0 / アバンタイトル / 始まりの日 (第0話), script `scout_000_00_01.json__8df3fd723276f650`, complete 195-page/190-text-record scope. Source/packet recovery and the initialized methods and ledgers have been verified. Story analysis requires a sequential task scope; this branch-creation request authorizes architecture only. A next-candidate route does not start that reading. At the next reading task, recheck current authority, the unchanged source binding and entering horizon before admitting the packet.
+The proposed first reading remains under prerequisite review: episode `201000001`, EPISODE 1.0 / アバンタイトル / 始まりの日 (第0話), script `scout_000_00_01.json__8df3fd723276f650`, complete 195-page/190-text-record scope. Source/packet recovery and the initialized methods and ledgers have been verified; intended entry-point prerequisites have not yet been established. The next permitted operation is the bounded EP0.0 / EP0.7 / EP1.0-introduction prerequisite audit using only topology, chronology, unlock/tutorial metadata and official guidance. Story analysis remains locked and requires a sequential task scope; this branch-creation request authorizes architecture only. A next-candidate route does not start that reading. At the next reading task, recheck current authority, the unchanged source binding and entering horizon before admitting the packet.
 
 Use `BOUNDED_STANDARD` for source/locator checks, `SUBSTANTIVE_ANALYSIS` for normal bounded readings and ledger updates, `DEEP_SYNTHESIS` for mature integration/reconstruction, and justified `PREMIUM_QUALITY_FIRST` for propagation-sensitive adversarial/final work. Stable classes do not hard-code a product or model mapping.
 

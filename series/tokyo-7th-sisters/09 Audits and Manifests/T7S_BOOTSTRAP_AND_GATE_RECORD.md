@@ -74,7 +74,7 @@ A full 83 GB payload rehash was not repeated. The existing collection seal and p
 | Independent R0–R5, capabilities and monograph maturity | Implemented from approved amendment; promotion requires evidence later |
 | First boundary and query-equivalent recoverability | 195 pages/190 text pointers verified, exact external packet receipt |
 | Repository author preflight and publication checks | Initial staged tree passed; final publication repeats the check after this gate-record update; remote final-head audit is a separate GitHub result |
-| Sequential-analysis lock | OPEN by explicit GATE-0002 readiness decision; sequential execution remains unstarted |
+| Sequential-analysis lock | CLOSED by GATE-0003 pending the bounded opening-prerequisite audit; sequential execution remains unstarted |
 
 `GATE-0001` — initialize CLOSED during architecture authoring. No source consumption, fictional state or mature artifact was implied.
 
@@ -82,8 +82,10 @@ A full 83 GB payload rehash was not repeated. The existing collection seal and p
 
 The reviewed source queries recover the candidate first operation without reading later material. Global chronology uncertainty is modeled and is not a fabricated total-order prerequisite. Required fields for separate reconstruction readiness, capabilities and monograph maturity are present; completed monographs or audiovisual interpretation are later promotion obligations. OPEN establishes architectural readiness only. It neither imports extraction work as literary findings nor starts a sequential operation.
 
+GATE-0003 — temporarily return OPEN → CLOSED at the owner’s request, before any sequential reading. GATE-0002 verified source recovery and infrastructure but did not establish the proposed opening’s intended prerequisites. Audit EP0.0, EP0.7 and the EP1.0 introduction using permitted metadata and official chronology/entry guidance only. Preserve GATE-0001/0002 as history. Reopening requires a documented, evidence-bounded entry-point decision; metadata silence is not proof of narrative independence.
+
 ## Publication and next operation
 
 Stable-branch author preflight uses the repository's read-only projected routing check. Housekeeping alone owns the five global series/study routing outputs, and character curation owns the two character outputs. Final integration requires current-main reconciliation, completed housekeeping and successful `Repository integration audit` for the exact final head. The owner-controlled merge process remains separate from this bootstrap request. No global routing or character discovery file is authored manually.
 
-The first sequential candidate is the exact episode/script identified by the entrypoint and topology document, within a sequential task's authorized scope. This bootstrap stops after branch publication and its final audit. A single-block request defaults to `single_operation`; continuous reading requires a named bounded continuation scope. Recheck live authority and the exact source/entering horizon at that operation; do not infer continuation from this route.
+The next permitted operation is the bounded opening-prerequisite audit. The exact candidate episode/script remains identified by the entrypoint and topology document, but sequential execution is CLOSED pending that audit. This operation stops after the audited gate decision and branch publication; it does not begin story analysis. A single-block request defaults to `single_operation`; continuous reading requires a named bounded continuation scope. Recheck live authority and the exact source/entering horizon at that operation; do not infer continuation from this route.
