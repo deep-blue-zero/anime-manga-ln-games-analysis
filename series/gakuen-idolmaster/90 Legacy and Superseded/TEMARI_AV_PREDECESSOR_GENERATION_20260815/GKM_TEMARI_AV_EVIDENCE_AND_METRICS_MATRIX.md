@@ -11,7 +11,7 @@ status: historical_legacy
 historical_release_status: "canonical technical appendix"
 artifact_type: evidence_matrix
 do_not_use_as_current_authority: true
-superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/02_TSUKIMURA_TEMARI/GKM_TEMARI_AV_EVIDENCE_AND_METRICS_MATRIX.md"
+superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_AV_EVIDENCE_AND_METRICS_MATRIX.md"
 ---
 
 # TSUKIMURA TEMARI — AUDIOVISUAL EVIDENCE AND METRICS MATRIX
