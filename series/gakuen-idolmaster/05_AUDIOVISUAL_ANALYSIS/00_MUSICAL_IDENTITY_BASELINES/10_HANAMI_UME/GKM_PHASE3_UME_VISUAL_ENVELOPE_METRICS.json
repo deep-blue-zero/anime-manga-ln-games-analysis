@@ -1,0 +1,51 @@
+{
+  "method": "Low-resolution 2 fps HSV, frame-difference, and color-histogram descriptors for five selected rendered performance sources. Values summarize the complete edited source, including camera, lighting, UI/effects, and performer movement; they are not character-motion isolation.",
+  "sources": [
+    {
+      "source_id": "AV-UME-001",
+      "object": "Campus mode!! 3DMV",
+      "mean_value_0_255": 85.84835317460318,
+      "mean_saturation_0_255": 116.36500129399585,
+      "dark_pixel_fraction_mean": 0.40171605417529327,
+      "frame_difference_mean": 32.444424108688125,
+      "high_transition_fraction_hist_distance_gt_0_5": 0.3115264797507788
+    },
+    {
+      "source_id": "AV-UME-002",
+      "object": "ENDLESS DANCE 3DMV",
+      "mean_value_0_255": 66.72368721461187,
+      "mean_saturation_0_255": 114.96766520801624,
+      "dark_pixel_fraction_mean": 0.5332271055301877,
+      "frame_difference_mean": 33.85955179663608,
+      "high_transition_fraction_hist_distance_gt_0_5": 0.42201834862385323
+    },
+    {
+      "source_id": "AV-UME-003",
+      "object": "GO MY WAY!! 3DMV",
+      "mean_value_0_255": 108.3129406213705,
+      "mean_saturation_0_255": 98.14048949864498,
+      "dark_pixel_fraction_mean": 0.36664101819589623,
+      "frame_difference_mean": 41.975724310411806,
+      "high_transition_fraction_hist_distance_gt_0_5": 0.32517482517482516
+    },
+    {
+      "source_id": "AV-UME-004",
+      "object": "Howling over the World 3DMV",
+      "mean_value_0_255": 82.20932766567014,
+      "mean_saturation_0_255": 114.59582772795217,
+      "dark_pixel_fraction_mean": 0.437024788241156,
+      "frame_difference_mean": 33.72334365615616,
+      "high_transition_fraction_hist_distance_gt_0_5": 0.38738738738738737
+    },
+    {
+      "source_id": "AV-UME-005",
+      "object": "The Rolling Riceball 3DMV",
+      "mean_value_0_255": 81.80373148148149,
+      "mean_saturation_0_255": 127.2779442239859,
+      "dark_pixel_fraction_mean": 0.48364880952380956,
+      "frame_difference_mean": 36.11527645081387,
+      "high_transition_fraction_hist_distance_gt_0_5": 0.2484076433121019
+    }
+  ],
+  "coverage_note": "Computational visual-envelope processing was stopped after five representative rendered sources because exhaustive decoding was disproportionately expensive. All principal sources were nevertheless directly inspected by playback, targeted frame extraction, and contact sheets."
+}
