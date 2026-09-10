@@ -4,7 +4,7 @@ artifact_id: T7S_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -345,8 +345,11 @@ The architecture can support bounded work without solving the entire story chron
 
 The current entrypoint alone records the live lock; the bootstrap record preserves its transitions. Before the first substantive sequential reading, require the owner-authorized root, current eligible method and synthesis architecture, immutable witness/source bindings, explicit chronology/identity/horizon rules, the exact coverage ledger and three initialized longitudinal homes, and verified source/locator/first-boundary recovery. Review the actual artifacts and record an affirmative OPEN transition. Absent, malformed, contradictory or CLOSED state fails closed; scaffolding and source completeness cannot substitute for verification.
 
+Opening also requires a bounded prerequisite decision for the proposed first packet, using permitted topology, recommendation/access metadata and official publication or entry guidance. Distinguish positively supported entry-point evidence from missing prerequisite fields; episode numbers, menu order and earlier fictional dates alone are insufficient. Record the candidate, alternatives, exact evidence, unresolved limits and gate consequence before transitioning OPEN. A material conflicting prerequisite keeps the affected boundary closed until resolved; metadata silence does not prove narrative independence. The initial EP0.0 / EP0.7 / EP1.0 decision is [OPA-0001](../09%20Audits%20and%20Manifests/T7S_OPENING_PREREQUISITE_AUDIT.md). Review later admission boundaries prospectively when their prerequisites become relevant; this rule does not authorize a global literary screening pass.
+
 OPEN establishes architectural readiness. It does not start reading or expand execution authorization. A later single-block request consumes only its exact admitted source range and closes the entire reading/state/claim/coverage transaction before naming the next candidate. Continuous execution requires an explicit bounded continuation scope. Completed visual/voice reviews and mature monographs are later promotion obligations, not prerequisites for opening this initiation gate.
 
 ## Revision history
 
 - 2026-09-09 — V1 / 1.0: implement approved design 1.1, including independent monograph maturity, thirteen bootstrap files and meaningful zero-finding ledgers. Gate state and exact validation are owned by the bootstrap record and current entrypoint.
+- 2026-09-09 — V1 / 1.1: add the bounded opening-prerequisite criterion and OPA-0001 route; preserve independent source-recovery, readiness and execution-authorization requirements.

@@ -4,7 +4,7 @@ artifact_id: T7S_BOOTSTRAP_AND_GATE_RECORD
 artifact_type: project_initialization_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -45,6 +45,8 @@ These 13 files constitute the complete authored bootstrap and staging allowlist.
 - [T7S_BOOTSTRAP_AND_GATE_RECORD.md](T7S_BOOTSTRAP_AND_GATE_RECORD.md)
 - [series-registry.json](../.repository/series-registry.json)
 
+The subsequent owner-authorized prerequisite review adds [T7S_OPENING_PREREQUISITE_AUDIT.md](T7S_OPENING_PREREQUISITE_AUDIT.md), bringing the authored T7S tree to 14 files. Its follow-up change set is limited to that audit plus the entrypoint, topology, synthesis architecture and this gate record. The original 13-file bootstrap manifest above remains historical.
+
 ## Source and query verification
 
 The collection-manifest SHA-256 was rechecked. The full 5,864,910,848-byte query database was rehashed and matched the sealed digest. The source lock binds that database, its schema, episode catalog, selected masters, external source-artifact manifest and exact supplemental membership recipes/digests. Original sources and canonical media remain unchanged.
@@ -74,7 +76,7 @@ A full 83 GB payload rehash was not repeated. The existing collection seal and p
 | Independent R0–R5, capabilities and monograph maturity | Implemented from approved amendment; promotion requires evidence later |
 | First boundary and query-equivalent recoverability | 195 pages/190 text pointers verified, exact external packet receipt |
 | Repository author preflight and publication checks | Initial staged tree passed; final publication repeats the check after this gate-record update; remote final-head audit is a separate GitHub result |
-| Sequential-analysis lock | CLOSED by GATE-0003 pending the bounded opening-prerequisite audit; sequential execution remains unstarted |
+| Sequential-analysis lock | OPEN by GATE-0004 after bounded audit OPA-0001; sequential execution remains unstarted |
 
 `GATE-0001` — initialize CLOSED during architecture authoring. No source consumption, fictional state or mature artifact was implied.
 
@@ -84,8 +86,15 @@ The reviewed source queries recover the candidate first operation without readin
 
 GATE-0003 — temporarily return OPEN → CLOSED at the owner’s request, before any sequential reading. GATE-0002 verified source recovery and infrastructure but did not establish the proposed opening’s intended prerequisites. Audit EP0.0, EP0.7 and the EP1.0 introduction using permitted metadata and official chronology/entry guidance only. Preserve GATE-0001/0002 as history. Reopening requires a documented, evidence-bounded entry-point decision; metadata silence is not proof of narrative independence.
 
+GATE-0004 — explicit CLOSED → OPEN readiness transition after completing and documenting [OPA-0001](T7S_OPENING_PREREQUISITE_AUDIT.md). GATE-0003 was first published in commit `4acccc4`; this later transition preserves that closure. Reviewed the ten scoped native episode records, recommendation joins and unique 1–235 series ranks, ascending client recommendation code, availability/tutorial limitations and the official EP0.7 publication cross-check. Retain episode `201000001` as the first candidate: its native recommendation rank is 1, while EP0.0 is 155–160 and EP0.7 is 163–165. This positively supports the entry point without claiming universal narrative independence or fully reconstructed historical onboarding. The entrypoint, topology and synthesis gate criterion now route this decision; prior source-lock, packet, coverage and zero-finding ledger bytes remain unchanged. The prior gate history remains intact. Reopening does not admit a story packet or begin a sequential operation; final publication still requires the staged author preflight and exact-head repository integration result.
+
 ## Publication and next operation
 
 Stable-branch author preflight uses the repository's read-only projected routing check. Housekeeping alone owns the five global series/study routing outputs, and character curation owns the two character outputs. Final integration requires current-main reconciliation, completed housekeeping and successful `Repository integration audit` for the exact final head. The owner-controlled merge process remains separate from this bootstrap request. No global routing or character discovery file is authored manually.
 
-The next permitted operation is the bounded opening-prerequisite audit. The exact candidate episode/script remains identified by the entrypoint and topology document, but sequential execution is CLOSED pending that audit. This operation stops after the audited gate decision and branch publication; it does not begin story analysis. A single-block request defaults to `single_operation`; continuous reading requires a named bounded continuation scope. Recheck live authority and the exact source/entering horizon at that operation; do not infer continuation from this route.
+The bounded opening-prerequisite audit is complete, and the readiness lock is OPEN. The exact candidate episode/script remains identified by the entrypoint and topology document with OPA-0001 as its prerequisite basis. This operation stops after the audited gate decision and branch publication; it does not begin story analysis. A single-block request defaults to `single_operation`; continuous reading requires a named bounded continuation scope. Recheck live authority and the exact source/entering horizon at that operation; do not infer continuation from this route.
+
+## Revision history
+
+- 2026-09-09 — V1 / 1.0: original bootstrap and GATE-0001/0002; later GATE-0003 temporarily closes the lock before prerequisite inspection.
+- 2026-09-09 — V1 / 1.1: add OPA-0001 route and GATE-0004; preserve historical transitions and the original bootstrap manifest, with no story consumption.
