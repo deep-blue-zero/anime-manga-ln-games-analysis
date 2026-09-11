@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.4"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-22 — Rinami crosswalk closed at integrated AV R2; 13/13 character baselines complete"
+last_updated: "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open"
 status: "active; Phase-3 character audiovisual crosswalk complete at 13/13"
 ---
 
@@ -440,3 +440,10 @@ Canonical manifest: `GKM_PHASE3_CHINA_AUDIOVISUAL_SOURCE_MANIFEST.json` — Driv
 | breadth | `ENDLESS DANCE`, `がむしゃらに行こう！`, `ミラクルナナウ`, `初` | common/seasonal repertoire | CLOSED as range controls |
 
 R2 source note: the high-resolution Dear 021–027 and 028–037 files replace only the physical R1 analysis representatives. Audio identity was verified; route timing, exact-text control, and logical-object count remain unchanged. Current manifest authority is `GKM_PHASE3_RINAMI_AUDIOVISUAL_SOURCE_MANIFEST.json` inside the R2 release.
+
+<!-- RINHA_AV_20260911 -->
+## Kaya Rinha distributed target mapping — RINHA-AV-20260911
+
+All 18 planned targets reference one of 12 retained physical compilations in the [source manifest](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md). The [target map](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/SUPPORTING_DATA/target_map.json) binds unchanged RINHA-AV/RINHA-XW IDs to exact A1 paths and source SHA-256s through the manifest. Caption points confirm scene identity; conservative envelopes are not exact frame cuts or complete word alignments.
+
+Ume11–20 is a new 1080p materialization distinct from historical 720p AV-UME-013; no byte-equivalence or independent-story credit is claimed. EVENT016 is 996×1920 portrait and its embedded chapter labels are shifted; actual main-03 captions govern its locator. Support0097-02 has nine Rinha messages and an independent fan utterance at 174.000s. All media are present; audible performance and continuous movement remain unreviewed.
