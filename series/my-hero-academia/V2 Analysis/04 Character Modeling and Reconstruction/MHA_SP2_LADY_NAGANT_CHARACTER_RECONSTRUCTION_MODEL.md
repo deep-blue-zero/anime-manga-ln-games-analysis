@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: LADY_NAGANT
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Lady Nagant / Tsutsumi Kaina
 readiness: strong
 supersedes: []
@@ -73,7 +73,39 @@ Rifle-related body use, ammunition preparation, distance, sightlines and Air Wal
 
 Her covert knowledge is extensive within that role, not a complete archive of every HPSC operation or all AFO plans. The mansion lead is information she can supply, not assurance that the location is safe. Postwar observation cannot establish that all concealed practices have disappeared. `PRESERVE` exact skill and distrust of hypocrisy; `REVISE` permanently extinguished hero orientation; `REJECT` coerced history as no agency, nominal contract as fully free and aid as absolution; `OPEN` long-term health, institutional trust and ordinary-life breadth.
 
+**Current supplemental qualification (LN-SUP-01–03):** UAG explicitly supersedes permanent-custody use of the V42 snapshot: she is later released, enjoys unspecified hobbies and sometimes advises Hawks. The delayed-return prediction below belongs to the earlier custodial decision context; later private interactions and precise health limits remain open. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given postwar Nagant offered immediate ceremonial reinstatement with little evidence of structural change, delay or skepticism is strongly supported. Given a specific rescue opportunity linked to a person who treated her as an agent, chosen assistance is plausible if bodily means exist. Alternative refusal becomes more plausible when the cost is uncontrolled, the request resembles covert command or trustworthy information is missing.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside LN-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### LN-SUP-01 — Refusal and release belong to different times
+
+Her initial decision to wait reflects doubt about society’s response to the heroes. The later profile explicitly states release, hobbies and occasional Hawks consultation. The V42 custodial snapshot is not the permanent current state, and no release date, hobby list or full rehabilitation process is supplied.
+
+Source basis: [SUP-UAG-216-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-216-01) (`UAG:s0216`; EDITORIAL_SUMMARY, NARRATIVE, SELF_REPORT; ENDPOINT); [SUP-UAG-198-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-198-01) (`UAG:s0198`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT).
+
+### LN-SUP-02 — Caring essence is editorial framing
+
+The guide sees continuity in care and inability to ignore someone in front of her; Rock Lock explicitly takes responsibility for allowing her dangerous aid. Preserve her choice and bodily risk. A benevolent essence label does not erase coerced or authored killing, and another’s permission is not full recovery.
+
+Source basis: [SUP-UAG-199-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-199-02) (`UAG:s0199`; EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT); [SUP-UAG-152-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-152-02) (`UAG:s0152`; PROFILE_FACT, EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT).
+
+### LN-SUP-03 — Concealed institutional violence
+
+The killing of the earlier Commission president was concealed and Tartarus constrained information. Reader knowledge of that account should not become universal public knowledge or be transferred to the later Commission without distinction.
+
+Source basis: [SUP-UAG-199-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-199-01) (`UAG:s0199`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### Current use and remaining limits
+
+Later ordinary-life reconstruction may assume freedom and unspecified hobbies, not a continuing cell or a particular imagined pastime. Consultation with Hawks supports a professional relation while broader private response remains sparse.
+
+Keep strong. This materially revises the current custody/ordinary-life boundary; diverse civilian interactions and precise recovery limits remain missing. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe LN-V01: V32 → V38 chosen use of skill
 

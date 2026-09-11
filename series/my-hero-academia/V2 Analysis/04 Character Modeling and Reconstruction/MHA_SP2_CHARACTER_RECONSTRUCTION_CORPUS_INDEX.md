@@ -5,7 +5,7 @@ artifact_type: index
 scope: FULL_SERIES_V01-V42
 generation: V2
 status: canonical
-source_boundary: Japanese main manga Volumes 1-42, including chapter 431; supplemental expansion excluded
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age under analytical method section 18
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ do_not_use_as_current_authority: false
 
 # MHA SP2 — Character reconstruction corpus index
 
-This is the narrow canonical route to the **30 published reconstruction dossiers** and their aggregate validation. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the sole maintained tier authority; this index does not duplicate its evidence-breadth table. The final selection is 13 `specialist_ready` plus 17 `strong`, under the user's explicit extension to both eligible tiers. Dossier existence never promotes a character.
+This is the narrow canonical route to the **30 published reconstruction dossiers** and their aggregate validation. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the sole maintained tier authority; this index does not duplicate its evidence-breadth table. The current selection remains 13 `specialist_ready` plus 17 `strong`, under the user's explicit extension to both eligible tiers; supplemental reconciliation preserves those dossier tiers while reviewing all 86 baseline subjects and admitting 25 justified lower-tier current entries (111 total). Dossier existence never promotes a character.
 
 Each dossier owns its chronology, evidence atoms, register/relationship differences, knowledge constraints, conditional use and formal probe. Use a dated snapshot and supplied situation, then carry uncertainty into the result. Do not reconstruct an unobserved healthy future for a dead character as canonical behavior.
 
@@ -58,4 +58,4 @@ The [aggregate validation report](MHA_SP2_AGGREGATE_RECONSTRUCTION_VALIDATION.md
 
 Kurogiri remains `moderate`; the aggregate report preserves the mixed Kurogiri/Shirakumo checkpoint comparison without creating an ineligible dossier. Strong-tier gaps remain explicit, including ordinary relationship breadth for AFO, Spinner and others. Thirty probes are thirty bounded comparison transactions, not thirty exhaustive tests of all possible contexts.
 
-For cross-character development use [S1](../05%20Specialist%20Synthesis/MHA_SP2_CHARACTER_DEVELOPMENT_AND_RELATIONSHIPS_SYNTHESIS.md); for all eight specialist responsibilities use the [specialist index](../05%20Specialist%20Synthesis/MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md). The [full-series entrypoint](../06%20Full-Series%20Synthesis/MHA_SP2_FULL_SERIES_SYNTHESIS.md) integrates the literary conclusions. Main manga V01–V42, including chapter 431, is the complete boundary; supplements and unshown futures remain outside it.
+For cross-character development use [S1](../05%20Specialist%20Synthesis/MHA_SP2_CHARACTER_DEVELOPMENT_AND_RELATIONSHIPS_SYNTHESIS.md); for all eight specialist responsibilities use the [specialist index](../05%20Specialist%20Synthesis/MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md). The [full-series entrypoint](../06%20Full-Series%20Synthesis/MHA_SP2_FULL_SERIES_SYNTHESIS.md) integrates the literary conclusions. The main-manga boundary is V01–V42, including chapter 431. Source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims are now admitted under [method section 18](../00%20Frameworks%20and%20Methods/MHA_SP2_ANALYTICAL_METHOD_V2_1.md#18-official-supplemental-material-reconciliation-amendment--2026-09-10); each claim retains its actual chronology and authority. The [all-character reconciliation audit](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) routes the complete roster decisions, aliases, additional subjects and new current supports. Unshown futures remain unobserved. All thirty formal probe tails retain the original manga-only inputs and results; the current supplemental sections are separate, retrospective support.

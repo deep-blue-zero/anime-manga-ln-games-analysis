@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: URARAKA_OCHAKO
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Uraraka Ochako
 readiness: specialist_ready
 supersedes: []
@@ -75,9 +75,41 @@ Zero Gravity is constrained by contact, nausea and training history; later propa
 
 Before reconstruction, specify what she knows about Toga, Twice, Midoriya's mission, her own attraction, and the present danger. She cannot use V39 childhood disclosure at V30 or adult dream content at V35. `PRESERVE` care and tactical authorship; `REVISE` rescue that attends only to an opponent's liability; `REJECT` dependence on Midoriya as her total narrative identity; `OPEN` exact long-term grief course, metaphysics of dreams, institutional counseling outcomes, and formal adult relationship status.
 
+**Current supplemental qualification (UR-SUP-01–03):** Continuing counseling tours, money sent to parents who leave it untouched, and explicit self-inclusion now sharpen later care. The author supplies no off-page confession account: long-term grief, outcomes and formal relationship details remain separately open. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **adult Ochako**, a child describes an unusual Quirk-related desire and expects disgust. Likely: keep the child talking, ask concrete questions, distinguish desire from harmful conduct, and build a practicable safe route with others' expertise. High confidence for non-dismissal and patient prevention; medium for precise intervention because the child's facts matter. Imminent danger changes the immediate order toward safety and containment, not dehumanization. Recognition need not mean offering her own body or promising confidentiality regardless of risk. She may need peer support herself if the situation activates Toga-related grief.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside UR-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### UR-SUP-01 — Material care with independent recipients
+
+Early solitary living and food preferences belong to the student state. Adult Ochako sends money home while her parents leave it untouched. Her care is established; their use of the money and a wholly solved family economy are not.
+
+Source basis: [SUP-UA-026-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-026-01) (`UA:s0026`; PROFILE_FACT; EARLIER_ONLY); [SUP-UAG-040-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-040-01) (`UAG:s0040`; EDITORIAL_SUMMARY, PROFILE_FACT; ENDPOINT).
+
+### UR-SUP-02 — Attraction, speech and personal permission
+
+The early bonus gives unsolicited insight into Bakugo followed by Ochako’s regret at blurting it out. The later school relation map preserves unsettled attraction; Horikoshi directs readers to V42 and imagination when asked about confession. Do not turn interpretive openness into a confirmed off-page relationship transaction.
+
+Source basis: [SUP-UA-186-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-186-01) (`UA:s0186`; NARRATIVE, BONUS_FICTION, SELF_REPORT, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UA-187-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-187-01) (`UA:s0187`; NARRATIVE, BONUS_FICTION, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UA-189-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-189-01) (`UA:s0189`; NARRATIVE, BONUS_FICTION, SELF_REPORT; EARLIER_ONLY); [SUP-UAN-029-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-029-02) (`UAN:s0029`; EDITORIAL_SUMMARY, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAG-301-06](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-301-06) (`UAG:s0301`; AUTHOR_COMMENT; UNRESOLVED).
+
+### UR-SUP-03 — Prevention and including herself
+
+The guide specifies ongoing school counseling tours, while her attributed later voice values laughing together including herself. The manga-dependent grief recap retains self-blame as her speech. These extend the existing distinction between caring for others, receiving care and making room for her own desire.
+
+Source basis: [SUP-UAG-081-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-081-02) (`UAG:s0081`; EDITORIAL_SUMMARY, NARRATIVE; ENDPOINT); [SUP-UAG-227-03](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-227-03) (`UAG:s0227`; SELF_REPORT, EDITORIAL_SUMMARY, GAG; ENDPOINT); [SUP-UAG-079-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-079-01) (`UAG:s0079`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### Current use and remaining limits
+
+A later reconstruction can draw on continuing outreach and an expressed wish to include herself. It cannot infer that every sacrifice stopped, that prevention eliminated its causes, or that her grief establishes sole culpability for Toga’s death.
+
+Keep specialist_ready. Ordinary/material care and expressed self-inclusion sharpen confidence; confession details and dream mechanism remain unconfirmed. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe UR-V01: V38 → V39 accountable listening
 

@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: SIR_NIGHTEYE
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Sir Nighteye
 readiness: strong
 supersedes: []
@@ -65,7 +65,39 @@ Foresight has activation/target conditions, a roughly daily interval and a targe
 
 `PRESERVE` evidence-sensitive evaluation and attachment; `REVISE` fatal certainty; `REJECT` anti-Midoriya caricature, all-seeing information and V42 living behavior; `OPEN` the mechanism of changed prediction, exact content of the final Mirio vision and what a surviving Nighteye would have revised next. Death prevents observing stable practice after this update.
 
+**Current supplemental qualification (SN-SUP-01–03):** Particular fandom/humor practices and Mirio-directed pride now sharpen ordinary and relational context. The workplace punishment gag still lacks established consent; a tentative sacrificial motive and posthumous remembered image do not become new living behavior. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given V15 Nighteye asked to scan a colleague's death with no actionable plan, refusal or a demand for prior investigation is high confidence. If a narrowed lead can secure a child, use becomes more likely (SN03). A V18 terminal response to decisive contradiction permits explicit revision; those two snapshots cannot be blended into a timeless certainty or timeless openness.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside SN-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### SN-SUP-01 — Humor, care and workplace coercion coexist
+
+Merchandise, fandom and valuing humor are specific ordinary practices. The tickling-machine punishment remains a coercive gag with no established employee consent. A warm retrospective portrayal does not make it ordinary kindness or require imitation in a novel workplace.
+
+Source basis: [SUP-UAN-171-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-171-01) (`UAN:s0171`; PROFILE_FACT, EDITORIAL_SUMMARY, NARRATIVE, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAG-139-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-139-02) (`UAG:s0139`; NARRATIVE, GAG, EDITORIAL_SUMMARY, SELF_REPORT; EARLIER_ONLY).
+
+### SN-SUP-02 — A particular deathbed disclosure
+
+The guide develops pride in Mirio beyond a succession project and preserves his statement to All Might that he bears no resentment. This final relation-specific disclosure does not mean he never struggled with regret or felt no earlier hurt.
+
+Source basis: [SUP-UAG-138-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-138-01) (`UAG:s0138`; PROFILE_FACT, EDITORIAL_SUMMARY, NARRATIVE; ENDPOINT); [SUP-UAG-139-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-139-01) (`UAG:s0139`; NARRATIVE, SELF_REPORT, EDITORIAL_SUMMARY; EARLIER_ONLY).
+
+### SN-SUP-03 — An uncertain sacrificial intention stays uncertain
+
+UAN asks whether he took the fatal blow to alter the future; the question is not established motive. His later appearance through All Might’s remembered prediction is not an independently living return or proof every future can be changed.
+
+Source basis: [SUP-UAN-216-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-216-01) (`UAN:s0216`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-139-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-139-01) (`UAG:s0139`; NARRATIVE, SELF_REPORT, EDITORIAL_SUMMARY; EARLIER_ONLY).
+
+### Current use and remaining limits
+
+A chronology-specific Nighteye can combine exacting standards, personal attachments and imperfect humor. Do not import deathbed openness into an earlier closed forecast or turn posthumous agency succession into his own later decisions.
+
+Keep strong at the terminal boundary. Ordinary and relationship interpretation sharpens; independent nonprofessional life remains thin and no postmortem actor state is created. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe SN-V01: V17 → V18 empirical contradiction
 

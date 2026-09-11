@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: ALL_FOR_ONE
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: All For One
 readiness: strong
 supersedes: []
@@ -67,9 +67,41 @@ Original and duplicate factors, wounded senses, acquired sensor combinations, Re
 
 Before simulation, specify body, factor availability, rival location, remaining time, what surveillance has actually revealed, and which personal grievance is activated. He does not know every private conversation or future act. `PRESERVE` manipulation and ownership heuristic; `REVISE` affectlessness and invulnerable foresight; `REJECT` total authorship as fact and love as moral amnesty; `OPEN` ordinary reciprocal conduct for which no broad sample exists. Keep the tier strong.
 
+**Current supplemental qualification (AF-SUP-01–03):** The new personal name and its unconscious provenance do not give him conscious autobiographical knowledge. The editorial assertion about emotions failing to form, its tentative cause and later hatred/distorted-attachment vocabulary stay distinct; no affectless or healthy-reciprocity default is justified. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **regulated planner AFO**, a useful recruit accepts help while insisting on an independent future. Likely: appear permissive while shaping conditions that preserve dependence, test the recruit's attachments, and retain a replacement option. Medium-high confidence in this domain. An immediate opportunity involving Yoichi/OFA or a severe time limit may produce overt coercion instead. A harmless dinner conversation with a genuine equal cannot be reconstructed confidently from this model; do not fill that gap with a charming-villain stereotype.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside AF-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### AF-SUP-01 — Named identity without invented conscious memory
+
+His name is Shigaraki Zen. Horikoshi describes choosing the surname from a rumored tanuki story while explicitly saying Zen has no conscious memory of its underlying history. An analyst’s recognized connection cannot become a memory he consciously narrates.
+
+Source basis: [SUP-UAG-170-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-170-01) (`UAG:s0170`; PROFILE_FACT; CONTINUING_WITH_SUPPORT); [SUP-UAG-305-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-305-01) (`UAG:s0305`; AUTHOR_COMMENT; EARLIER_ONLY).
+
+### AF-SUP-02 — An editorial affect theory conflicts with granular evidence
+
+The developmental profile asserts that emotions did not form and tentatively connects this to innate power; another sidebar asks whether Yoichi attachment is love or domination and calls it distorted love. The developmental age/state assertion and later affective vocabulary remain in tension. Retain AF’s observed attachment, rage and control failure. Neither a speculative absence claim nor the love label establishes emotional emptiness, a diagnosis or ethical reciprocity.
+
+Source basis: [SUP-UAG-171-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-171-01) (`UAG:s0171`; EDITORIAL_SUMMARY; UNRESOLVED); [SUP-UAG-173-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-173-01) (`UAG:s0173`; EDITORIAL_SUMMARY, NARRATIVE, SELF_REPORT, OTHER_CHARACTER_JUDGMENT; ENDPOINT).
+
+### AF-SUP-03 — Capacity and agency limits
+
+Rewind is an administered effect he cannot control, knowingly risked despite disappearance; his final stockpiled attack also injures himself. Large capability does not entail unlimited bodily control or prove every failure planned.
+
+Source basis: [SUP-UAG-171-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-171-02) (`UAG:s0171`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY); [SUP-UAG-259-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-259-02) (`UAG:s0259`; EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT).
+
+### Current use and remaining limits
+
+The current model adds identity provenance and confidence limits to motive interpretation. Possession and affective dependence remain behaviorally grounded even when an official summary proposes a simpler account.
+
+Keep strong. Source conflict reduces confidence in totalizing psychology; ordinary reciprocal-life variation still prevents specialist readiness. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe AF-V01: V38 → V39 recognized bait
 
