@@ -4,16 +4,16 @@ artifact_id: T7S_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; no sequential analysis consumed"
-architecture_lifecycle: INITIAL
+source_boundary: "c20260909-r484; method reviewed through complete native Main EPISODE 1.0 / T7S_B0001–T7S_B0011; no later or non-Main story source"
+architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-09
+last_updated: 2026-09-10
 ---
 
 # Tokyo 7th Sisters analytical method
@@ -73,7 +73,8 @@ Once a foundation is established, global retrieval within its admitted witness/s
 | Bounded narrative reconstruction | Concrete local events, motivations as evidenced, decisions, information movement, consequences, and unresolved situation |
 | Deep reading | Interpretation of how that bounded material works; rivals and uncertainties |
 | Causal story ledger | Cumulative event skeleton, dependencies, world consequences, thread status, and pointers to detailed reconstruction |
-| Arc/era synthesis | A coherent causal reconstruction of a completed storyline across blocks, with a separate interpretive section |
+| Arc/era narrative synthesis | Compact causal/state reconstruction of a completed storyline across blocks, with the bounded interpretation needed to explain its result and limits |
+| Arc deep reading | Optional sustained whole-arc literary/formal interpretation when cross-block comparison adds knowledge that the compact narrative synthesis cannot responsibly contain; never a competing state or local-reconstruction home |
 | Full-series narrative integration | Cross-line/era connections, chronology alternatives, continuity boundaries, and routes into detailed era reconstructions |
 
 Every substantive block must preserve the starting situation; participants and identities as known; location/context; goals; initiating conditions; consequential actions and decisions; important revelations/dialogue in concise paraphrase; misunderstandings; conflicts/reversals; commitments; failures and repairs; ending situation; immediate and durable consequences; open/closed threads; and dependencies on prior material. Retrospectively identified later dependencies are labeled as later annotations.
@@ -98,7 +99,7 @@ The narrative portion uses `SOURCE-ESTABLISHED NARRATIVE FACT` and separately ta
 
 “No supported change” is a valid value; blank fields are not assumed negative evidence. Side-story portfolios retain separate mini-case event chains and uncertain placement instead of pretending their source order describes one continuous day.
 
-Consolidate at the completion of a coherent native sub-arc/season or independently justified storyline, then at era closure after parallel lines and consequential supplemental obligations are reconciled. A 91-episode family may need several causal-phase readings before one family synthesis; no arbitrary every-five-episodes checkpoint is required.
+Consolidate at the completion of a coherent native sub-arc/season or independently justified storyline, then at era closure after parallel lines and consequential supplemental obligations are reconciled. A 91-episode family may need several causal-phase readings before one family synthesis; no arbitrary every-five-episodes checkpoint is required. After that compact narrative synthesis exists, architecture may separately promote an arc deep reading when the completed scope sustains independent whole-arc literary work. Both consume the same reconciled substrate, but the narrative synthesis remains the publication prerequisite and authoritative route for causal/state closeout.
 
 ## I. T7S analytical method
 
@@ -203,3 +204,8 @@ The existing `m_live_music_meta.json` has **215 nonempty lyric entries**; the in
 Lyrics should be referenced through the master-file row/key and field pointer. They are not currently a dedicated SQLite lyric table and must not be presumed included in `supplemental_text`. Preserve source line breaks; use bounded quotations only when analytically needed. No bulk lyrics or recordings enter Git.
 
 Future ingestion is question-driven: an official lyric edition to resolve a variant/missing passage; an exact full recording to assess arrangement or delivery; a source MV or live recording for visual/stage claims; synchronized runtime evidence for scene music timing. Record edition, performer, credits, duration, hashes, and alignment limits. Unavailable evidence bounds the music claim rather than blocking unrelated narrative work.
+
+## Revision history
+
+- 2026-09-09 — V1 / 1.0: implement the approved reading, evidence, claim, audiovisual and music method for the preserved Japanese offline game.
+- 2026-09-10 — V1 / 1.1: distinguish compact arc/era narrative synthesis from optional promoted arc deep reading; require the narrative synthesis as the latter's publication prerequisite while preserving shared reconciled dependencies and separate authority.
