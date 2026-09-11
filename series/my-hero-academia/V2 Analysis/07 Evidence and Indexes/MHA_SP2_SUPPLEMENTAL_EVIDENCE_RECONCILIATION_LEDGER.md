@@ -15,9 +15,11 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 ## Current state and responsibility
 
-**UA, UAN and UAG source checkpoints admitted; cross-book character and current-home propagation remain pending.** The source lock establishes retrieval and the adjudication contract; all three book audits/coverage establish actual page review with explicit readability, attribution and chronology limits. See the [current map](../00%20Frameworks%20and%20Methods/CURRENT_STATE_AND_CORPUS_MAP.md#current-supplemental-reconciliation) and [source lock](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md).
+**UA, UAN and UAG source checkpoints admitted; bounded cross-book character and current-home reconciliation complete.** The source lock establishes retrieval and the adjudication contract; all three book audits/coverage establish actual page review with explicit readability, attribution and chronology limits. See the [current map](../00%20Frameworks%20and%20Methods/CURRENT_STATE_AND_CORPUS_MAP.md#current-supplemental-reconciliation) and [source lock](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md).
 
 This selective ledger owns consequential claim reconciliation. Page-complete accounting belongs to each book audit and coverage CSV; absence of a ledger record is not evidence that its page was unread. Stable IDs use source/spine/subclaim forms such as `SUP-UA-022-01`, `SUP-UAN-022-01` and `SUP-UAG-022-01`; the source's four-digit spine locator remains explicit. Several IDs on one page separate materially different claims, speakers or effects. Cross-book revisions link the original ID rather than deleting a prior checkpoint. A record may have several destinations without becoming multiple independent observations.
+
+The [all-subject character audit](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) owns the complete subject census and current model decisions; the [impact audit](../08%20Audits%20and%20Manifests/MHA_SP2_SUPPLEMENTAL_RECONCILIATION_IMPACT_AUDIT.md) records all twenty analytical-home dispositions and final preservation. All 1,095 stable record anchors and their single detailed owners remain intact. Earlier checkpoint candidate destinations are historical judgments; this current route supplies their final disposition without rewriting that history.
 
 ## Required record contract
 

@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: CHISAKI_OVERHAUL
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Chisaki / Overhaul
 readiness: strong
 supersedes: []
@@ -73,7 +73,39 @@ He knows enough about care to exploit it and enough about Rewind to build a proj
 
 `PRESERVE` planning, selective attachment and coercive authorship; `REVISE` affectless villain and power removal as identity erasure; `REJECT` gratitude as consent, crying as completed accountability and victim restoration as repayment owed; `OPEN` future Eri-directed conduct, long-term rehabilitation and independent ordinary relations.
 
+**Current supplemental qualification (CO-SUP-01–03):** UAN asserts treatment and Quirk modification without specifying restored hands, activation or enacted later use. Boss-directed hospital support and reunion do not establish completed Eri-directed accountability; the operational and reciprocal-life gaps remain distinct. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given V15 Chisaki confronted publicly by a cautious hero, plausible first response is socially legitimate cover and pressure calibrated to avoid exposing the plan. Given V17 imminent defeat, escalation through the opponent's protective constraint is better supported. Given postwar Chisaki before the rejecting boss, distressed listening and boss-directed apology are supported; confident promises of general moral repair exceed the evidence.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside CO-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### CO-SUP-01 — Quirk modification is asserted but operationally unspecified
+
+UAN says the severed arms were treated and the Quirk modified; it supplies no restored hands, activation method or later executed use. UAG’s separate degraded-copy origin explanation does not fill those omissions. Keep the claim visible and attributed rather than assuming either full recovery or total factor erasure.
+
+Source basis: [SUP-UAN-243-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-243-01) (`UAN:s0243`; PROFILE_FACT, EDITORIAL_SUMMARY; UNRESOLVED); [SUP-UAG-197-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-197-01) (`UAG:s0197`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### CO-SUP-02 — Selective material concern
+
+The book states he pays the comatose boss’s hospital costs while pursuing a plan that exploits Eri. The payment mechanism is unknown. Care for one recipient cannot be generalized into humane treatment of everyone he instrumentalizes.
+
+Source basis: [SUP-UAN-261-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-261-01) (`UAN:s0261`; PROFILE_FACT, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAN-243-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-243-02) (`UAN:s0243`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### CO-SUP-03 — Reunion is not completed accountability
+
+He is imprisoned again; medical support restores the boss’s consciousness, and the boss demands lifelong Eri-directed apology. The editorial reconciliation label concerns that encounter. Eri is separated from the Hassaikai and cared for elsewhere, not returned as proof of his reform.
+
+Source basis: [SUP-UAG-196-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-196-01) (`UAG:s0196`; EDITORIAL_SUMMARY, PROFILE_FACT, NARRATIVE; ENDPOINT); [SUP-UAG-216-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-216-02) (`UAG:s0216`; EDITORIAL_SUMMARY, NARRATIVE, OTHER_CHARACTER_JUDGMENT; ENDPOINT); [SUP-UAG-150-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-150-01) (`UAG:s0150`; PROFILE_FACT; ENDPOINT).
+
+### Current use and remaining limits
+
+A later hypothetical must distinguish boss-directed regret from unshown response to Eri’s needs. No functional-Quirk scenario should assume the missing activation detail; confidence in a total incapacity claim is correspondingly restricted.
+
+Keep strong. Specific concern and institutional aftermath sharpen; completed reform, broad reciprocity and restored function remain unestablished. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe CO-V01: V32 → V42 recipient of remorse
 

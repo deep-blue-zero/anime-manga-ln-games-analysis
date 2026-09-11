@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: HIMIKO_TOGA
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Himiko Toga
 readiness: specialist_ready
 supersedes: []
@@ -71,9 +71,41 @@ Specify the blood held, forms known, injuries, what she has learned about the ot
 
 `PRESERVE` desire for ordinary life and particular belonging. `REVISE` a model of blood solely as appropriation after the terminal gift. `REJECT` congenital evil, social stigma as a sufficient excuse for every killing, or completed universal nonviolence. `OPEN` alternative developmental possibilities under different early care, how much accountability she would have accepted had she survived, and literal metaphysics of the dreams. Counterfactual prevention is plausible, not demonstrated biography.
 
+**Current supplemental qualification (TG-SUP-01–03):** The author supplies liked uniform/casual clothing practices with pleasure and pursuit-evasion functions. Those ordinary preferences do not repair consent violations, identify Camie’s blood-acquisition method or create a living post-terminal adult state. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **League-era Toga before Twice's death**, someone she likes says that affection is welcome but blood-taking without permission is not. Likely: seek to understand or contest a boundary she experiences as separation, perhaps with cheerful insistence that can become dangerous. Confidence is medium because relationship history and perceived rejection matter. A repeated experience of acceptance with concrete safe alternatives could change the response; the source does not prove it would have done so at any chosen earlier point. A terminal V39 version may understand a gift differently. Do not transplant that exceptional change backward.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside TG-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### TG-SUP-01 — Clothing combines pleasure and evasion
+
+Horikoshi says she genuinely likes sailor uniforms and considers herself cute in them; favored casual clothes are bought and discarded once she is satisfied, also confusing pursuit. This is an author-described ordinary practice with dual purposes, not a diagnosis or an inferred motive from costume alone.
+
+Source basis: [SUP-UAG-305-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-305-02) (`UAG:s0305`; AUTHOR_COMMENT; EARLIER_ONLY).
+
+### TG-SUP-02 — Attribution does not supply unknown acquisition
+
+UAN offers an editorial reason for keeping Camie alive, while UAG still leaves the blood-acquisition route unknown. Keep the explanatory claim as attributed and the method open; Camie’s behavior while impersonated is not real Camie evidence.
+
+Source basis: [SUP-UAN-143-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-143-01) (`UAN:s0143`; EDITORIAL_SUMMARY, PROFILE_FACT; EARLIER_ONLY); [SUP-UAG-179-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-179-01) (`UAG:s0179`; EDITORIAL_SUMMARY; UNRESOLVED).
+
+### TG-SUP-03 — Chosen terminal rescue does not erase prior harms
+
+The guide retains childhood suppression, destructive action and affection-conditioned power alongside the lethal blood gift to Ochako. It describes dying while living according to her likes. Specific rescue is not a general consent repair or a redeemed adult future.
+
+Source basis: [SUP-UAG-178-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-178-01) (`UAG:s0178`; EDITORIAL_SUMMARY, NARRATIVE, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAG-180-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-180-01) (`UAG:s0180`; EDITORIAL_SUMMARY, NARRATIVE, SELF_REPORT; ENDPOINT); [SUP-UAG-269-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-269-01) (`UAG:s0269`; EDITORIAL_SUMMARY, PROFILE_FACT; CONTINUING_WITH_SUPPORT).
+
+### Current use and remaining limits
+
+Clothing choice and concealment now have concrete support, but preference is not universal behavioral permission. Distinguish appearance copying, affection-conditioned Quirk use, the original actor and duplicates; grief/dream reception after death is not autonomous speech.
+
+Keep specialist_ready at the terminal boundary. Ordinary self-presentation improves; harm/consent distinctions and unknown mechanisms remain. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe TG-V01: V38 → V39 received recognition
 

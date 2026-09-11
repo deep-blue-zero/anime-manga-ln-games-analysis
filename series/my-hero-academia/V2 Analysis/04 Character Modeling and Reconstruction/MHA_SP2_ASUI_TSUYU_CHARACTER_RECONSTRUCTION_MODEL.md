@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: ASUI_TSUYU
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Asui Tsuyu
 readiness: strong
 supersedes: []
@@ -65,6 +65,38 @@ Japanese **私**, relatively level declarative delivery, familiar name use and r
 Tongue, mobility, water competence, camouflage and bodily scent/mucus provide different options at different training points (AS01, AS04). They do not grant invulnerability or all-purpose sensory certainty. Know which capabilities and environment are available before predicting rescue tactics. She knows Ochako through actual interaction, not direct access to unspoken dreams or motives. Asking another question is sometimes the supported action precisely because knowledge is incomplete.
 
 `PRESERVE` practical directness; `REVISE` rules as exhaustive hero ontology; `REJECT` emotional flatness and automatic agreement; `OPEN` independent adult/private breadth. Given adult Ochako minimizing a recurring distress symptom, likely behavior is a direct but caring follow-up about support or evaluation, with space for the friend's own report. High confidence in this sampled relation; lower for an unfamiliar civilian with a different trust state. Acute danger would move immediate protection ahead of extended discussion.
+
+**Current supplemental qualification (AS-SUP-01–03):** Sibling video calls and an adult agency near home with family time now fill part of the independent-life gap. Her invited junior teaching and expressed wish for happy conversation do not establish agreement with every friend or broad adult private response. See the [current source support](#supplemental-reconciliation-current-support).
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside AS-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### AS-SUP-01 — Home ties are a changing situation
+
+As her parents’ work stabilizes, she and her siblings often video-chat. Later she locates her agency near home, values family time and teaches juniors on invitation. The adult arrangement supplies continuing choice, not a timeless obligation to parent her siblings.
+
+Source basis: [SUP-UAN-033-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-033-01) (`UAN:s0033`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-046-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-046-01) (`UAG:s0046`; EDITORIAL_SUMMARY, PROFILE_FACT; ENDPOINT).
+
+### AS-SUP-02 — Frankness does not erase hurt or boundaries
+
+Her attributed descriptions of Mineta’s unwanted touching, refusal of Toga’s assumed intimacy, and hurt over friends’ rescue decisions remain different relational responses. Her later wish for happy conversation is not approval of everything they did.
+
+Source basis: [SUP-UA-034-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-034-02) (`UA:s0034`; OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAN-033-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-033-02) (`UAN:s0033`; EDITORIAL_SUMMARY, NARRATIVE, OTHER_CHARACTER_JUDGMENT, GAG; EARLIER_ONLY); [SUP-UAG-047-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-047-01) (`UAG:s0047`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### AS-SUP-03 — Embodiment and ordinary preference
+
+Rain/jelly are early preferences. The author qualifies the room’s aesthetic label with plants and moss; camouflage is harder-to-notice concealment, not transparency, and informed observers can detect it. These facts support texture and practical constraints rather than a personality inferred from frog anatomy.
+
+Source basis: [SUP-UA-032-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-032-01) (`UA:s0032`; PROFILE_FACT; EARLIER_ONLY); [SUP-UAG-241-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-241-01) (`UAG:s0241`; EDITORIAL_SUMMARY, OTHER_CHARACTER_JUDGMENT, NARRATIVE; CONTINUING_WITH_SUPPORT); [SUP-UAG-301-07](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-301-07) (`UAG:s0301`; AUTHOR_COMMENT; ENDPOINT).
+
+### Current use and remaining limits
+
+Adult family scheduling and junior teaching are now supported roles. Her direct voice must remain relationship-sensitive: familiar -chan usage does not by itself establish closeness or permission, and concern can coexist with disagreement.
+
+Keep strong. Family and ordinary-life breadth improve, but varied independent adult conflicts and private responses still limit specialist readiness. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe AS-V01: V38 → V39 friendship and moral revision
 
