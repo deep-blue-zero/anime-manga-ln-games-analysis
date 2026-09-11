@@ -64,10 +64,10 @@ All 371 primary pages/logs and 342 text records were read in native order, inclu
 | Key | Exact locator | Evidentiary use |
 | --- | --- | --- |
 | E01 | `t7s://c20260909-r484/v1/script/scout_003_01_01.json__2261d2430958079b?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=8#/Pages/8/TextArea/Dialogue` | Nicole's last-live promise and Rona's desire to support someone as idols supported her |
-| E02 | `t7s://c20260909-r484/v1/script/scout_003_01_01.json__2261d2430958079b?doc=primary&log=37#/Pages/37/TextArea/Dialogue` through `...&log=67#/Pages/67/TextArea/Dialogue` | Rona at work, Connie's frightening approach, and the Player's anti-force intervention |
+| E02 | `t7s://c20260909-r484/v1/script/scout_003_01_01.json__2261d2430958079b?doc=primary&log=37#/Pages/37/TextArea/Dialogue` through `...&log=67#/Pages/67/TextArea/Dialogue` | Rona at work, Coney's frightening approach, and the Player's anti-force intervention |
 | E03 | `t7s://c20260909-r484/v1/script/scout_003_01_01.json__2261d2430958079b?doc=primary&log=68#/Pages/68/TextArea/Dialogue` through `...&log=75#/Pages/75/TextArea/Dialogue` | Rona voluntarily stops the departing scouts and asks to become like Nicole |
 | E04 | `t7s://c20260909-r484/v1/script/scout_003_01_02.json__54e23a6e18820bf4?doc=primary&log=11#/Pages/11/TextArea/Dialogue` through `...&log=27#/Pages/27/TextArea/Dialogue` | Bad-luck introduction and immediate live-format lesson over stated unreadiness |
-| E05 | `t7s://c20260909-r484/v1/script/scout_003_01_03.json__b73499f303b4b1e4?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=25#/Pages/25/TextArea/Dialogue` | Strong copied performance, Rona's Nicole identification, Connie's denial, and Player ignorance |
+| E05 | `t7s://c20260909-r484/v1/script/scout_003_01_03.json__b73499f303b4b1e4?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=25#/Pages/25/TextArea/Dialogue` | Strong copied performance, Rona's Nicole identification, Coney's denial, and Player ignorance |
 | E06 | `t7s://c20260909-r484/v1/script/scout_003_02_02.json__2e39ba53a1fd9136?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=36#/Pages/36/TextArea/Dialogue` | Cleaning, childhood belonging through imitation, reciprocal-courage goal, and three-person cohesion |
 | E07 | `t7s://c20260909-r484/v1/script/scout_003_02_03.json__0a73394d981960b9?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=13#/Pages/13/TextArea/Dialogue` | Successful group practice rejected because it does not equal Nicole |
 | E08 | `t7s://c20260909-r484/v1/script/scout_003_03_02.json__4100baf0d22a17e9?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=18#/Pages/18/TextArea/Dialogue` | Three-day absence, Haru's friendship motive, Musubi's waiting, and collective aspiration |
@@ -76,7 +76,7 @@ All 371 primary pages/logs and 342 text records were read in native order, inclu
 | E11 | `t7s://c20260909-r484/v1/script/scout_003_03_03.json__7522b65ee7406e0a?doc=primary&log=25#/Pages/25/TextArea/Dialogue` through `...&log=67#/Pages/67/TextArea/Dialogue` | Haru's uncertainty and specific recognition; Rona asks whether she herself can give courage and chooses return |
 | E12 | `t7s://c20260909-r484/v1/script/scout_003_04_02.json__3e25191da487f957?doc=primary&log=1#/Pages/1/TextArea/Dialogue` through `...&log=19#/Pages/19/TextArea/Dialogue` | Pre-debut identity question, both Player branches, retained Nicole aspiration, and convergence |
 | E13 | `t7s://c20260909-r484/v1/script/scout_003_04_03.json__ef9e6455cf6fa708?doc=primary&log=0#/Pages/0/TextArea/Dialogue` through `...&log=5#/Pages/5/TextArea/Dialogue` | Debut self-introduction makes support reciprocal rather than unilateral |
-| E14 | `t7s://c20260909-r484/v1/script/scout_003_04_03.json__ef9e6455cf6fa708?doc=primary&log=9#/Pages/9/TextArea/Dialogue` through `...&log=50#/Pages/50/TextArea/Dialogue` | Connie's non-replication motive, continued concealment, membership address, accident, and relapse |
+| E14 | `t7s://c20260909-r484/v1/script/scout_003_04_03.json__ef9e6455cf6fa708?doc=primary&log=9#/Pages/9/TextArea/Dialogue` through `...&log=50#/Pages/50/TextArea/Dialogue` | Coney's non-replication motive, continued concealment, membership address, accident, and relapse |
 
 In each row, `...&log=` expands to the complete URI printed at the start of that row.
 
@@ -86,15 +86,15 @@ In each row, `...&log=` expands to the complete URI printed at the start of that
 
 Nicole's recorded stage promise is addressed precisely to the downcast and crying: she will make all of them smile. Rona then defines idols as cute, energetic people who repeatedly gave her courage. Their absence creates not only loss but a vacancy in care—who will encourage a girl like her now? Her answer is aspirational and reciprocal: she wants to become someone who can support another person. [E01]
 
-The present meeting occurs while Rona works nervously at a donut café. Connie identifies her as a target and approaches in an improvised Kansai/gangster register, asking for her name, interests, and whether she will become a “sister.” Rona is visibly frightened. The Player stops Connie on a clear principle: forcing a girl who is afraid is wrong. Only as the pair leave does Rona call them back, give her name, and ask to be made an idol like `ニコさま`. Her initial request is therefore voluntary in the narrow scene: it follows an available departure and is spoken by Rona herself. [E02–E03]
+The present meeting occurs while Rona works nervously at a donut café. Coney identifies her as a target and approaches in an improvised Kansai/gangster register, asking for her name, interests, and whether she will become a “sister.” Rona is visibly frightened. The Player stops Coney on a clear principle: forcing a girl who is afraid is wrong. Only as the pair leave does Rona call them back, give her name, and ask to be made an idol like `ニコさま`. Her initial request is therefore voluntary in the narrow scene: it follows an available departure and is spoken by Rona herself. [E02–E03]
 
 ### 1.2 Readiness is rushed, but skill is real (`201000302`–`201000303`)
 
-Rona arrives at Nanasta soaked because a station faucet broke while she washed her hands. She calls this kind of bad luck ordinary. Musubi describes her as so luckless she is difficult to leave alone; Connie eroticizes her crying. Connie then begins a live-format lesson immediately despite Rona saying that an instant live is impossible. [E04]
+Rona arrives at Nanasta soaked because a station faucet broke while she washed her hands. She calls this kind of bad luck ordinary. Musubi describes her as so luckless she is difficult to leave alone; Coney eroticizes her crying. Coney then begins a live-format lesson immediately despite Rona saying that an instant live is impossible. [E04]
 
 The elided performance surprises everyone. Musubi is almost jealous of Rona's singing; Haru enjoyed dancing with her. Rona explains that she reproduced Nicole's singing and dance from memory and has long been a fan. Copying is already practiced expertise, not an empty pose. [E05]
 
-Rona also says that Nicole personally invited her and points to Connie. Connie visibly panics, insists `私は六咲コニー` and that they are obviously different people, invents manager work, stops the Player's question physically, and flees. Haru and Musubi articulate what the Player does not grasp: he cannot imagine that Nicole is before him. The scene greatly strengthens Connie≈Nicole for the reader while preserving four distinct records: Rona's confident recognition, Haru/Musubi's understanding, Connie's literal denial, and the Player's continuing ignorance. [E05]
+Rona also says that Nicole personally invited her and points to Coney. Coney visibly panics, insists `私は六咲コニー` and that they are obviously different people, invents manager work, stops the Player's question physically, and flees. Haru and Musubi articulate what the Player does not grasp: he cannot imagine that Nicole is before him. The scene greatly strengthens Coney≈Nicole for the reader while preserving four distinct records: Rona's confident recognition, Haru/Musubi's understanding, Coney's literal denial, and the Player's continuing ignorance. [E05]
 
 ### 1.3 Imitation once made a place (`201000304`)
 
@@ -104,11 +104,11 @@ Haru, Musubi, and Rona answer one another as a practice group, and the Player no
 
 ### 1.4 A useful model becomes an impossible criterion (`201000305`–`201000306`)
 
-The group improves and synchronizes, but Rona cries and rejects the result for one reason: Nicole was greater and the practice was different. The Player's ordinary developmental answer—that lessons have only begun—cannot reach a categorical conclusion: if she is not like Nicole, she cannot be an idol like Nicole. Connie, normally quick to redirect, says nothing. [E07]
+The group improves and synchronizes, but Rona cries and rejects the result for one reason: Nicole was greater and the practice was different. The Player's ordinary developmental answer—that lessons have only begun—cannot reach a categorical conclusion: if she is not like Nicole, she cannot be an idol like Nicole. Coney, normally quick to redirect, says nothing. [E07]
 
 Rona stays away for three days. Haru volunteers to look because she does not want to lose a new friend and because work with Rona and Musubi makes a serious idol future—or something “far greater than idols”—imaginable. Musubi remains at Nanasta in case Rona returns. The emerging collective distributes care instead of treating Rona only as a missing performer. [E08]
 
-Alone, Rona remembers children requesting her Nicole imitation, then concludes that “weak Rona” cannot be Nicole and resolves to resign. Haru finds her and orders an immediate street live battle, making return to Nanasta the stake. Rona objects that she cannot do it; Haru says `問答無用`. The Player explicitly compares her forcefulness to Connie's. [E09]
+Alone, Rona remembers children requesting her Nicole imitation, then concludes that “weak Rona” cannot be Nicole and resolves to resign. Haru finds her and orders an immediate street live battle, making return to Nanasta the stake. Rona objects that she cannot do it; Haru says `問答無用`. The Player explicitly compares her forcefulness to Coney's. [E09]
 
 ### 1.5 Spectacle produces evidence; quiet recognition makes it usable (`201000307`)
 
@@ -128,9 +128,9 @@ The branch structure distinguishes two propositions. Rona need not become Nicole
 
 Rona opens the stream by saying she wants to energize and support viewers, then asks them to support her. An audience member jokes that it is unclear whether she wants to support or be supported. Rona tries to retract the latter request, but the joke gives the chapter's one-directional rescue fantasy a more sustainable form: an idol can give courage while also needing it. [E13]
 
-After the elided performance, Connie explains her earlier silence. Advice from her might have made Rona more like Nicole, “but that would be no good,” because she wants the girls to become new-era idols who surpass `私たち`. The first-person plural is the strongest verbal evidence yet for Connie's Seven Sisters membership/identity, but the Player's question is again interrupted before explicit disclosure. Strategic nonintervention protects successor difference; continued concealment protects Connie's own control of identity and leaves the recruiter's information problem unresolved. [E14]
+After the elided performance, Coney explains her earlier silence. Advice from her might have made Rona more like Nicole, “but that would be no good,” because she wants the girls to become new-era idols who surpass `私たち`. The first-person plural is the strongest verbal evidence yet for Coney's Seven Sisters membership/identity, but the Player's question is again interrupted before explicit disclosure. Strategic nonintervention protects successor difference; continued concealment protects Coney's own control of identity and leaves the recruiter's information problem unresolved. [E14]
 
-Connie tells Rona that Nicole may have watched and praises the energetic, enjoyable performance as Rona's own. The Player counts her as the third member. Rona asks him to call her `ロナ`, as he does Haru and Musubi, and identifies herself as a Sisters member. This name transition marks chosen familiarity and membership rather than a formal contract. [E14]
+Coney tells Rona that Nicole may have watched and praises the energetic, enjoyable performance as Rona's own. The Player counts her as the third member. Rona asks him to call her `ロナ`, as he does Haru and Musubi, and identifies herself as a Sisters member. This name transition marks chosen familiarity and membership rather than a formal contract. [E14]
 
 Then Rona jumps, falls into a hanging costume, and tears it. One ordinary accident instantly restores the total conclusion `こんなドジな私に / やっぱりアイドルなんて`. The others comfort her, but the chapter ends before she revises it. Her debut is successful; her right to be Rona is verbally affirmed; her habit of converting a mishap into a verdict on personhood remains active. [E14]
 
@@ -146,7 +146,7 @@ The problem begins when a successful technique becomes an exhaustive identity ru
 
 Nicole's opening promise supplies the relevant invariant: make the downcast smile. Rona initially locates that capacity in Nicole's appearance, singing, and dance. Haru relocates it in a causal effect already present between people: Rona made Haru more forward-looking before Rona could satisfy her own image of an idol.
 
-This directly develops B0001's non-replicative legacy mandate. A successor honors Seven Sisters not by producing the nearest copy, but by making inherited courage operative under present conditions and through a different person. Connie's final refusal to coach Nicole-likeness makes the institutional version explicit: reproducing her own performance would obstruct the new group she wants to surpass the old one.
+This directly develops B0001's non-replicative legacy mandate. A successor honors Seven Sisters not by producing the nearest copy, but by making inherited courage operative under present conditions and through a different person. Coney's final refusal to coach Nicole-likeness makes the institutional version explicit: reproducing her own performance would obstruct the new group she wants to surpass the old one.
 
 ### 2.3 Haru recognizes a person where crowds recognize a performance
 
@@ -156,15 +156,15 @@ This is not a rejection of publics or stages. The debut still matters. It shows 
 
 ### 2.4 The durable repair is not the forced battle
 
-Haru's street-live demand reproduces Connie's coercive method and the Player recognizes the resemblance. It creates useful surface evidence, but that evidence initially fails. Rona still evaluates herself by Nicole-likeness. The actual pivot follows removal from the crowd: juice, waiting, shared silence, Haru's admission of uncertainty, and specific testimony.
+Haru's street-live demand reproduces Coney's coercive method and the Player recognizes the resemblance. It creates useful surface evidence, but that evidence initially fails. Rona still evaluates herself by Nicole-likeness. The actual pivot follows removal from the crowd: juice, waiting, shared silence, Haru's admission of uncertainty, and specific testimony.
 
 The chapter therefore does not license a simple “push people into exposure because success will heal them” rule. Its own sequence offers a negative control. Forced performance produces attention; quiet reciprocal speech makes the attention intelligible without making it the source of worth. Rona's later voluntary return cannot retroactively authorize the condition Haru imposed.
 
-### 2.5 Connie's non-replication ethic and concealment problem coexist
+### 2.5 Coney's non-replication ethic and concealment problem coexist
 
-Connie's absence during the crisis is unusually deliberate. She knows that her expertise could move Rona closer to Nicole and withholds it because success under that criterion would be the wrong success. This is a more disciplined use of managerial restraint than her B0002/B0003 interventions and the clearest operational fulfillment so far of the new-era doctrine.
+Coney's absence during the crisis is unusually deliberate. She knows that her expertise could move Rona closer to Nicole and withholds it because success under that criterion would be the wrong success. This is a more disciplined use of managerial restraint than her B0002/B0003 interventions and the clearest operational fulfillment so far of the new-era doctrine.
 
-Yet Rona's original consent was given under a material false belief: she thought Nicole herself invited her. Connie knew this, explicitly denied the identity, and prevented clarification. The bounded scene still shows Rona voluntarily asking for idol work, but the informational basis of that request is compromised. The chapter neither discloses nor repairs the misrepresentation. Ethical improvement in one domain—refusing to manufacture a copy—does not cancel information control in another.
+Yet Rona's original consent was given under a material false belief: she thought Nicole herself invited her. Coney knew this, explicitly denied the identity, and prevented clarification. The bounded scene still shows Rona voluntarily asking for idol work, but the informational basis of that request is compromised. The chapter neither discloses nor repairs the misrepresentation. Ethical improvement in one domain—refusing to manufacture a copy—does not cancel information control in another.
 
 ### 2.6 Support is reciprocal, and the collective precedes formal structure
 
@@ -180,7 +180,7 @@ They do not establish stable self-worth. Her recurring verbal pattern moves from
 
 ### 2.8 Textual voice and presentation limits
 
-Rona's native wording repeatedly marks hesitation, apology, and self-interruption (`ふぇ`, `ぐすっ`, ellipses, stammered morae), while `ニコさま` condenses admiration into reverent address. Her clearest development is syntactic as well as thematic: `ニコさまじゃなくて、私が` turns the sentence's agent from model to self. Asking to be called `ロナ` later makes familiarity an explicit chosen relation. Haru's register shifts from forceful `問答無用` to long silences and precise ordinary predicates; Connie's guarded `私たち` briefly exceeds her cover story.
+Rona's native wording repeatedly marks hesitation, apology, and self-interruption (`ふぇ`, `ぐすっ`, ellipses, stammered morae), while `ニコさま` condenses admiration into reverent address. Her clearest development is syntactic as well as thematic: `ニコさまじゃなくて、私が` turns the sentence's agent from model to self. Asking to be called `ロナ` later makes familiarity an explicit chosen relation. Haru's register shifts from forceful `問答無用` to long silences and precise ordinary predicates; Coney's guarded `私たち` briefly exceeds her cover story.
 
 These are textual Japanese findings only. Exact selected body and face assets were hash-checked and alpha-composited at the offsets in the verified native `characterFacePosition` table. The resulting character sprites confirm Nicole's individualized bright performance costume and expansive pointing pose; Rona's schoolwear/café anxiety; Haru's open expression and Rona's anxious ordinary outfit during the sunset-park repair; Rona's distinct red-plaid debut costume and backward-looking pose; and her tearful ordinary-costume accident states. Exact backgrounds were inspected separately. This reconstructs the intended character layers, not full runtime screen placement or animation. The two performances are elided; recovered voice/music files were not audibly delivered. No acoustic affect, singing quality, timing, continuous movement, or music interpretation is admitted.
 
@@ -190,7 +190,7 @@ These are textual Japanese findings only. Exact selected body and face assets we
 | --- | --- | --- | --- |
 | Rona's idol model | Nicole is the absent person who once supplied courage; becoming like her appears to be the route to supporting others | Nicole remains an aspiration, but Rona accepts that she herself already gives courage and completes a debut as Rona | One costume accident immediately restores global self-disqualification; test failure, ordinary competence, and repeated performance |
 | Recruitment/consent | Rona is unknown to Nanasta | She voluntarily asks, later voluntarily returns, appears, and claims member familiarity | Initial request rests partly on the false belief that Nicole invited her; forced lesson/battle remain unauthorized in their domains |
-| Connie/Nicole | Strong audience inference; Player ignorant | Rona identifies Connie, Haru/Musubi understand, Connie denies, and `私たちを超えた` strengthens Seven Sisters linkage | No explicit confession, machine identity resolution, or Player knowledge; concealment is unrepaired |
+| Coney/Nicole | Strong audience inference; Player ignorant | Rona identifies Coney, Haru/Musubi understand, Coney denies, and `私たちを超えた` strengthens Seven Sisters linkage | No explicit confession, machine identity resolution, or Player knowledge; concealment is unrepaired |
 | Haru/Rona | No relation | Friendship becomes the decisive interpretive resource; each gives the other courage | Haru also compels a street battle; later conflict and respect for refusal remain tests |
 | Nanasta | Two consenting performers, local stage/stream use | Three current performers cohere in practice and complete Rona's streamed debut | No formal unit structure, durable work program, broad audience recovery, or reliable safeguards established |
 | Idol culture | Reported decline with local counterexamples | Street listeners who call idols old still respond intensely and ask for the girls' HakoSta | Local appetite does not establish wider revival |
@@ -198,7 +198,7 @@ These are textual Japanese findings only. Exact selected body and face assets we
 
 ### 3.1 Open obligations
 
-- Preserve literal `七咲ニコル` and `六咲コニー` routes while carrying Connie≈Nicole as a strengthened but still bounded inference.
+- Preserve literal `七咲ニコル` and `六咲コニー` routes while carrying Coney≈Nicole as a strengthened but still bounded inference.
 - Preserve Rona's initial request, forced lesson, forced battle, return, debut, and membership address as separate decisions; later assent does not merge their authorization.
 - Test whether Rona can use Nicole as a resource without converting difference, clumsiness, or error into categorical unworthiness.
 - Test whether mutual support becomes a durable group practice and whether Nanasta develops structure, work, audience relations, and safeguarding.
@@ -213,4 +213,4 @@ The next candidate within the authorized EPISODE 1.0 continuation is episode `20
 
 ## Revision history
 
-- 2026-09-10 — V1 / 1.0: close complete native chapter `300040`; read all 371 pages and 342 text records, preserve both authored branches in `201000308`, integrate Rona's bounded identity/legacy arc and Nanasta's third performer, strengthen but do not resolve Connie≈Nicole, and stop before unopened `201000401`.
+- 2026-09-10 — V1 / 1.0: close complete native chapter `300040`; read all 371 pages and 342 text records, preserve both authored branches in `201000308`, integrate Rona's bounded identity/legacy arc and Nanasta's third performer, strengthen but do not resolve Coney≈Nicole, and stop before unopened `201000401`.
