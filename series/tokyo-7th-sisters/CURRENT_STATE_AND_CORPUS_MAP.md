@@ -4,19 +4,19 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.2"
+version: "2.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 source_boundary: "c20260909-r484; complete native Main EPISODE 1.0 / T7S_B0001–T7S_B0011 / all 91 primary episode documents and all eleven authored choice branches; no later or non-Main story source"
-architecture_lifecycle: INITIAL
+architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-09-10
 project_initialization:
   status: canonical
-  architecture_lifecycle: INITIAL
+  architecture_lifecycle: EVOLVING
   governing_method: "00 Frameworks and Methods/T7S_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/T7S_SYNTHESIS_ARCHITECTURE.md"
   method_status: canonical
@@ -50,7 +50,7 @@ sequential_execution:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**The opening-prerequisite audit remains satisfied, `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, and the complete 91-episode native Main EPISODE 1.0 story unit is the latest recoverable checkpoint.** T7S_B0010 and T7S_B0011 close the owner-authorized boundary through episode `201001009`; there is no authorized next story source. This is the sole current entrypoint for `series/tokyo-7th-sisters/`. The branch implements approved specification 1.1, including independent character reconstruction readiness and multimodal monograph maturity. The gate record preserves the original readiness transition, temporary closure, and reopening after OPA-0001; it is not rewritten by completed readings. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
+**The opening-prerequisite audit remains satisfied, `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, and the complete 91-episode native Main EPISODE 1.0 story unit is the latest recoverable checkpoint.** T7S_B0010 and T7S_B0011 close the owner-authorized boundary through episode `201001009`; there is no authorized next story source. This is the sole current entrypoint for `series/tokyo-7th-sisters/`. The branch implements approved specification 1.1, including independent character reconstruction readiness and multimodal monograph maturity, and is now `EVOLVING` after evidence-driven promotion of the first optional arc deep reading. The gate record preserves the original readiness transition, temporary closure, and reopening after OPA-0001; it is not rewritten by completed readings or later synthesis promotion. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
 
 ## Governing and cumulative homes
 
@@ -78,6 +78,7 @@ sequential_execution:
 | Alessandra chapter deep reading | [T7S_B0010_DEEP_READING.md](02%20Readings/T7S_B0010_DEEP_READING.md) |
 | Harumi-sisters chapter deep reading | [T7S_B0011_DEEP_READING.md](02%20Readings/T7S_B0011_DEEP_READING.md) |
 | EPISODE 1.0 narrative synthesis | [T7S_EPISODE_1_0_NARRATIVE_SYNTHESIS.md](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_NARRATIVE_SYNTHESIS.md) |
+| EPISODE 1.0 whole-arc literary/formal interpretation | [T7S_EPISODE_1_0_ARC_DEEP_READING.md](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md) |
 | Bootstrap provenance, checks and gate history | [T7S_BOOTSTRAP_AND_GATE_RECORD.md](09%20Audits%20and%20Manifests/T7S_BOOTSTRAP_AND_GATE_RECORD.md) |
 | Bounded opening-prerequisite decision and limits | [T7S_OPENING_PREREQUISITE_AUDIT.md](09%20Audits%20and%20Manifests/T7S_OPENING_PREREQUISITE_AUDIT.md) |
 | EPISODE 1.0 completion proof | [T7S_EPISODE_1_0_COMPLETION_AUDIT.md](09%20Audits%20and%20Manifests/T7S_EPISODE_1_0_COMPLETION_AUDIT.md) |
@@ -96,7 +97,7 @@ Reader-facing Latin spelling follows first-party evidence: **Coney Rokusaki** in
 | Additional scripts | 228 | 0 | 0 | 0 | 0 |
 | Supplemental records | 30,991 | 0 | 0 | 0 | 0 |
 
-The EPISODE 1.0 frontier is exact and hole-free for all 91 episode IDs: `{201000001, 201000101–201000109, 201000201–201000209, 201000301–201000309, 201000401–201000409, 201000501–201000509, 201000601–201000609, 201000701–201000709, 201000801–201000809, 201000901–201000909, 201001001–201001009}`. Every other Main line plus all Sub/Event/additional/supplemental frontiers remain `NOT_STARTED`. The coverage ledger preserves exact memberships and digest-bound supplemental tranches, so the numeric high-water cannot hide gaps. Across B0001–B0011 the repository now contains eleven deep readings, one EPISODE 1.0 narrative synthesis, 93 causal events, five world states, fourteen threads, 96 typed edges, 24 bounded identity routes, 21 character states, 30 epistemic states, 86 directional relationship states, six unit/institution states, twelve R2 readiness decisions, 119 literary claims, eight revisions, seven frozen predictions, eleven completed bounded visual reviews, and eleven queued performed-voice/music reviews. It creates no character model, monograph, specialist, or full-series synthesis. Native 2034/2053 grouping, release chronology, diegetic time, and analytical reading order stay separate.
+The EPISODE 1.0 frontier is exact and hole-free for all 91 episode IDs: `{201000001, 201000101–201000109, 201000201–201000209, 201000301–201000309, 201000401–201000409, 201000501–201000509, 201000601–201000609, 201000701–201000709, 201000801–201000809, 201000901–201000909, 201001001–201001009}`. Every other Main line plus all Sub/Event/additional/supplemental frontiers remain `NOT_STARTED`. The coverage ledger preserves exact memberships and digest-bound supplemental tranches, so the numeric high-water cannot hide gaps. Across B0001–B0011 the repository now contains eleven bounded deep readings, one EPISODE 1.0 narrative synthesis, one promoted EPISODE 1.0 arc deep reading, 93 causal events, five world states, fourteen threads, 96 typed edges, 24 bounded identity routes, 21 character states, 30 epistemic states, 86 directional relationship states, six unit/institution states, twelve R2 readiness decisions, 119 literary claims, eight revisions, seven frozen predictions, eleven completed bounded visual reviews, and eleven queued performed-voice/music reviews. It creates no character model, monograph, relationship/unit synthesis, specialist synthesis, or full-series synthesis. Native 2034/2053 grouping, release chronology, diegetic time, and analytical reading order stay separate.
 
 ## Exposure and next operation
 
@@ -124,11 +125,13 @@ The [B0011 reading](02%20Readings/T7S_B0011_DEEP_READING.md) distinguishes the H
 
 The [EPISODE 1.0 synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_NARRATIVE_SYNTHESIS.md) integrates all eleven chapter readings without flattening their differences. Its central result is that Nanasta forms through repeatedly recovered local authorship rather than one recruitment formula: consent, care, coercion, deception, resources, identity, and boundary failures remain separately tracked. The ending establishes a twelve-performer roster and worldwide scouting ambition, not institutional maturity or resolution of the open Coney/Nicole, HoloCom, labor, privacy, housing, and presentation problems.
 
+The optional [EPISODE 1.0 arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md) owns the sustained literary/formal argument that the compact synthesis cannot carry without losing its navigational role. It compares how the repeated recruitment structure changes across refusal, recognition, care, peer power, media, gendered presentation, material labor, space, comedy and elided performance. Its central thesis is renewal without replacement: the successor becomes viable by adding idol work to existing lives, while Nanasta's capacity develops faster than its governance. The document is retrospective only within EPISODE 1.0 and does not change the bounded readings, ledger state, current claims, source lock, coverage routes or absence of later-story authorization.
+
 There is **no authorized next story operation**. EPISODE 1.0 is complete through `201001009`; later Main, prequel, Sub/Event, additional, and supplemental sources remain outside this session's story boundary. A future operation must first establish new owner authorization, recheck current authority and source binding, and perform prospective dependency review. Metadata-only awareness beyond the boundary is not story consumption.
 
 Use `BOUNDED_STANDARD` for source/locator checks, `SUBSTANTIVE_ANALYSIS` for normal bounded readings and ledger updates, `DEEP_SYNTHESIS` for mature integration/reconstruction, and justified `PREMIUM_QUALITY_FIRST` for propagation-sensitive adversarial/final work. Stable classes do not hard-code a product or model mapping.
 
-No later folder is created merely for symmetry. The architecture documents the promotion triggers for readings, characters, relationships/units, specialists, arc/era and full-series work. Monographs may earn a textual home before audiovisual review, but `MONOGRAPH_MATURE` requires representative visual and performed-voice review, integrated argument and passing fidelity audit independently of R0–R5.
+No optional artifact is created merely for symmetry. The architecture documents the promotion triggers for readings, characters, relationships/units, specialists, arc deep readings, arc/era narrative synthesis and full-series work. EPISODE 1.0 passes the arc-deep-reading gate because its cross-block literary comparisons add independent knowledge while the compact narrative synthesis remains necessary as the causal/state instrument; length alone supplied no authority. Monographs may earn a textual home before audiovisual review, but `MONOGRAPH_MATURE` requires representative visual and performed-voice review, integrated argument and passing fidelity audit independently of R0–R5.
 
 ## Revision history
 
@@ -145,3 +148,4 @@ No later folder is created merely for symmetry. The architecture documents the p
 - 2026-09-10 — V1 / 2.0: close complete category-qualified Main chapter `300080` as T7S_B0008; synchronize all nine episodes, both authored branches, nine exact native-offset Sui composites across four school/swim bodies, prince/love/gender/touch state without total identity conversion, Sui R2 readiness, new frozen `PRED-0006`, and unopened next candidate `201000801`.
 - 2026-09-10 — V1 / 2.1: close complete category-qualified Main chapter `300090` as T7S_B0009 and bounded opening episode `201000901` as T7S_B0010; preserve the chapter boundary, synchronize ten exact sources and both B0009 branches, add Shizuka readiness and Alessandra opening state, confirm Coney/Nicole only at the audience layer, reconstruct exact visual composites, queue voice review, correct the prior reader-facing misspelling to first-party **Coney** while preserving the stable legacy subject token, and stop before `201000902`.
 - 2026-09-10 — V1 / 2.2: expand T7S_B0010 through complete chapter `300100`, close chapter `300110` as T7S_B0011, consume the final 17 EPISODE 1.0 episodes and both authored choice groups, synchronize all ledgers and the first arc/era synthesis, retain unresolved recognition/consent/AV limits, and close the authorized boundary through `201001009` with no selected next story source.
+- 2026-09-10 — V1 / 2.3: move the architecture to `EVOLVING`, distinguish compact arc/era narrative synthesis from optional whole-arc deep reading, and promote `T7S_EPISODE_1_0_ARC_DEEP_READING` as the horizon-bounded owner of sustained EPISODE 1.0 literary/formal interpretation; preserve every factual, state, claim, coverage and later-story boundary.

@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: BAKUGO_KATSUKI
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Bakugo Katsuki
 readiness: specialist_ready
 supersedes: []
@@ -72,6 +72,8 @@ Competition favors assertive coordination; humiliation risks narrowed social int
 
 **Contradiction resolution:** `REVISE` “cooperation contradicts pride” into pride whose definition of winning changes through experience. `REJECT` “abusive speech makes him recruitable.” `PRESERVE` continuing communication problems. `OPEN` the exact adult limits of emotional disclosure outside the established friendships.
 
+**Current supplemental qualification (BK-SUP-01–03):** Terse parental replies, particular admiration expressed through the true-form autograph, and reciprocal adult teacher-directed banter now constrain ordinary speech. They do not establish intimate adult disclosure, universal politeness or how he responds privately to every criticism. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **adult Bakugo**, a trusted teammate offers help after he has overextended during a rescue. Likely: assess whether the help improves the operation, accept or assign it with a sharp directive, and resist being discussed as helpless. Confidence is high for operational cooperation, medium for the exact emotional response. A public implication that he is replaceable could produce a sharper retort; immediate danger to Midoriya or a civilian could override the argument. An unfamiliar helper with no demonstrated competence increases verification and resistance. None of this predicts a particular insult or authorizes ignoring known cardiac constraints.
@@ -92,6 +94,36 @@ The three BK04 supports separate **accepting an offered route**, **disclosing pr
 BK09 supplies a further distinction: participation is not the same as assent to a task's initial social framing. The new context is musical performance, with technique and collective timing making cooperation concrete. It is not his first noncombat reciprocity: [V11:p176–177](../02%20Sequential%20Readings/MHA_SP2_V11_DEEP_READING.md) already records repayment to Kirishima, and V14:p055–056 records useful criticism during cleanup. The musical episode expands the domains in which abrasive collaboration is observed; it does not require inventing a previously universal refusal of ordinary contribution.
 
 For a reconstruction **during festival preparation**, classmates seek his contribution to a project for which he has demonstrated skill. Likely: assess whether the role and shared standard justify the effort, challenge a framing he experiences as appeasement or status surrender, and participate forcefully if a meaningful demanding task emerges. Confidence is medium for a novel assignment. Lack of competence, an unworkable plan, or continuing disagreement about the project's purpose can change the answer; BK09 does not establish willingness to join every hobby. Preserve the difference between terse technical direction and humiliating a person. No new probe, score, or readiness promotion is claimed.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside BK-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### BK-SUP-01 — Post-finals anger before later guilt and disclosure
+
+The Horikoshi bonus dates itself just after finals. Bakugo’s withheld complaint during All Might’s debrief, Ochako’s unsolicited interpretation, and subsequent eruption are a separate situation from BK04’s later guilt duel and secret disclosure. Her fear interpretation remains hers; his changed expression and anger do not constitute an agreed explanation or reconciliation.
+
+Source basis: [SUP-UA-185-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-185-01) (`UA:s0185`; NARRATIVE, BONUS_FICTION, SELF_REPORT; EARLIER_ONLY); [SUP-UA-186-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-186-01) (`UA:s0186`; NARRATIVE, BONUS_FICTION, SELF_REPORT, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UA-187-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-187-01) (`UA:s0187`; NARRATIVE, BONUS_FICTION, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UA-188-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-188-01) (`UA:s0188`; NARRATIVE, BONUS_FICTION; EARLIER_ONLY); [SUP-UA-189-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-189-01) (`UA:s0189`; NARRATIVE, BONUS_FICTION, SELF_REPORT; EARLIER_ONLY).
+
+### BK-SUP-02 — Peer reception and family contact
+
+Editorially, rescue, retirement and learning the Quirk truth change his capacity to attend to teammates. His terse parental emails and classmates’ demands for names/better speech retain abrasive ordinary conduct. These statements neither negate change nor make other people’s tolerance consent to every insult.
+
+Source basis: [SUP-UAN-025-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-025-01) (`UAN:s0025`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAN-025-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-025-02) (`UAN:s0025`; PROFILE_FACT; EARLIER_ONLY); [SUP-UAN-062-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-062-01) (`UAN:s0062`; GAG, NARRATIVE, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY).
+
+### BK-SUP-03 — Adult cooperation and particular admiration
+
+The adult profile distinguishes independent work, mixed public reception and better reception in teams. The later bonus enacts cooperative deployment while he needles teacher Midoriya and receives a joke in return. Horikoshi separately confirms an autograph from true-form All Might and thinks Bakugo treasures the armor-remnant memory. Specific admiration and reciprocal banter do not establish uniform politeness; the author’s conjecture retains its qualification.
+
+Source basis: [SUP-UAG-028-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-028-01) (`UAG:s0028`; EDITORIAL_SUMMARY, PROFILE_FACT; ENDPOINT); [SUP-UAG-301-03](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-301-03) (`UAG:s0301`; AUTHOR_COMMENT; ENDPOINT); [SUP-UAG-322-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-322-01) (`UAG:s0322`; BONUS_FICTION, NARRATIVE; ENDPOINT).
+
+### Current use and remaining limits
+
+The choice of audience, available knowledge and current relational permission should govern reconstruction. A challenge from Ochako immediately after finals is not interchangeable with later accepted aid, guilt disclosure or adult banter. Mountain climbing/spicy-food preferences are earlier profile facts (SUP-UA-024-01), not ready-made behavioral scripts.
+
+Keep specialist_ready. Ordinary speech and state discrimination strengthen; the books do not remove documented injury limits or supply every adult private response. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe BK-V01: V09 → V10 recruitment
 

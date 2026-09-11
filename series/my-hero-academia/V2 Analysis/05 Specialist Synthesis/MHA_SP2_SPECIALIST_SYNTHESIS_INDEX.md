@@ -5,7 +5,7 @@ artifact_type: index
 scope: FULL_SERIES_V01-V42
 generation: V2
 status: canonical
-source_boundary: Japanese main manga Volumes 1-42, including chapter 431; supplemental expansion excluded
+source_boundary: Japanese main manga Volumes 1-42, including chapter 431; selectively reconciled Ultra Archive (UA), Ultra Analysis (UAN), and Ultra Age (UAG)
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -68,10 +68,29 @@ All fourteen dispositions are **material synthesis contributions**. None is sile
 | [MHA_SP2_CALLBACK_PAYOFF_LEDGER.md](../03%20Longitudinal%20Ledgers/MHA_SP2_CALLBACK_PAYOFF_LEDGER.md) | [S7: Japanese language and longitudinal form](MHA_SP2_JAPANESE_LANGUAGE_AND_LONGITUDINAL_FORM_SYNTHESIS.md) | Longitudinal recurrence and changed function; payoff without invented authorial foresight |
 | [MHA_SP2_FIRST_PASS_CORRECTION_LEDGER.md](../03%20Longitudinal%20Ledgers/MHA_SP2_FIRST_PASS_CORRECTION_LEDGER.md) | [S8: V1 to V2 claim reconciliation](MHA_SP2_V1_V2_CLAIM_RECONCILIATION.md) | Surviving, strengthened, revised, and rejected claims; V2 self-correction distinguished from V1 |
 
+## Supplemental reconciliation within the existing ownership
+
+The current source boundary additionally admits the three specifically reviewed Japanese books, **Ultra Archive (UA), Ultra Analysis (UAN) and Ultra Age (UAG)**, under [architecture §16](../00%20Frameworks%20and%20Methods/MHA_SP2_SYNTHESIS_ARCHITECTURE.md#16-bounded-official-supplement-reconciliation--2026-09-10). Their independent [UA](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ARCHIVE_PARATEXT_AUDIT.md), [UAN](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ANALYSIS_PARATEXT_AUDIT.md) and [UAG](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_AGE_PARATEXT_AUDIT.md) audits own page coverage, contribution topology and source limits. The [supplemental ledger](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md) retains stable claim anchors and routes to each record's one detailed owner. These source partitions do not add comparative specialists or duplicate the fourteen preserved manga-ledger responsibilities.
+
+| Existing owner | Material supplemental use |
+|---|---|
+| S1 and L1/L2/L6/L7 | New classroom behavior, reciprocal ordinary routines and later received support distinguish interpretation, intent and result. Familiarity does not erase harm or establish universal understanding. |
+| S2 and L1/L7/L8 | Eri's staged musical boundary, selected judicial/recovery outcomes and unlike terminal choices sharpen consent and follow-through. Recognition, survival, forgiveness and authority remain separate. |
+| S3 and L1/L3/L4/L6 | Holder knowledge histories, learned bodily habits, appropriated capacity and distinct equipment systems qualify inheritance and self-authorship. No new complete biological or equipment model follows. |
+| S4 and L4/L5 | Earlier courses, labor and recruitment routes meet later financing, care, licensing and selected reform. Persistent prejudice and incomplete access remain limits on coverage. |
+| S5 and L3/L8 | Real attachments inside engineered circumstances and harmful organizations, differentiated institutional incentives and source conflicts refine causal claims without absolution. AFO and Toya remain substantively owned by existing comparative homes. |
+| S6 and L5/L6/L7 | Reciprocal tastes, chosen jobs, material care and the Eri comic deepen the ordinary future while retaining unequal family responses and bodily costs. |
+| S7 and all individual studies | Attributed testimony, guest reception, omitted material, specific production revisions and new bonus fiction are distinguished. Added source information does not retroactively add manga scenes. |
+| S8 | All fifteen historical CR adjudications and their inputs remain intact; a dated note routes later source reconciliation without rewriting what either pass knew. |
+
+F1–F4 consume the converged findings at their established scale. The four counterreadings retain their current homes: imposed function/chosen contribution/enjoyment, earlier plurality/later redistribution, personhood/other causal mechanisms, and unequal consent. No separate adversarial, language/form, family or dyad authority follows from the books' structure. The [current impact audit](../08%20Audits%20and%20Manifests/MHA_SP2_SUPPLEMENTAL_RECONCILIATION_IMPACT_AUDIT.md) records actual propagation and the remaining completion gates; this index does not grant readiness tiers or new validation status.
+
+The [supplemental character reconciliation audit](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the 111-subject readiness disposition and the retained thirty-dossier inventory. The complete source census is broader than character-model readiness; a name, profile or repeated appearance does not by itself establish reconstruction sufficiency.
+
 ## Shared evidence contract
 
 Each specialist identifies textual facts, strong inferences, interpretive judgments, and residual uncertainties. A primary locator such as `V42:p062-064` names logical Japanese book pages, with archive mappings and excluded paratext controlled by the [primary locator](../07%20Evidence%20and%20Indexes/MHA_SP2_PRIMARY_SOURCE_LOCATOR.md) and [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md). Ledger IDs are retained where present; otherwise citations name the volume and character/topic section. Broad intervals never admit every intervening portrait or author note as behavior.
 
 The [reconstruction index](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_RECONSTRUCTION_CORPUS_INDEX.md) owns routing to thirty dossiers. Their [aggregate validation](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AGGREGATE_RECONSTRUCTION_VALIDATION.md) qualifies retrospective chronological comparisons; it does not certify blind predictive accuracy. The [readiness index](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) alone owns current tiers.
 
-The [definitive full-series entrypoint](../06%20Full-Series%20Synthesis/MHA_SP2_FULL_SERIES_SYNTHESIS.md) integrates these results and routes three distinct supporting adjudications. The specialist documents retain detailed subject arguments; the full-series corpus tests their compatibility. Main manga V01-V42 is complete. Films, anime additions, spin-offs, novels, databooks, and an exhaustive supplemental inventory are outside this completion claim.
+The [definitive full-series entrypoint](../06%20Full-Series%20Synthesis/MHA_SP2_FULL_SERIES_SYNTHESIS.md) integrates these results and routes three distinct supporting adjudications. The specialist documents retain detailed subject arguments; the full-series corpus tests their compatibility. The completed main-manga boundary is V01–V42; current interpretation additionally reconciles the three named books UA, UAN and UAG. Films, anime additions, spin-offs, novels, other databooks and an exhaustive supplemental inventory remain outside this boundary. Volume-embedded paratext retains a separately recorded coverage question; no broad volume reread is implied.
