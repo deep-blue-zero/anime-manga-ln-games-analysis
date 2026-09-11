@@ -9,14 +9,33 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: '2026-09-09'
-last_updated: '2026-09-09'
+last_updated: '2026-09-10'
 source_lock: GAKUMAS V2 Source Lock 1.0
-source_boundary: Repository control documents and recovered analytical release archives; no source-media reinspection or new measurements
+source_boundary: Original 2026-09-09 documentary audit plus imported AVE-FULL-20260910 source verification, measurements and sampled-still review; zero fresh direct listening or continuous-motion review
 ---
 
 # GKM TARGETED REBUILD CANDIDATES
 
 ## 1. Register status and boundary
+
+### Current disposition — AVE-FULL-20260910
+
+**The two documentary/measurement rebuild candidates are closed within their declared scope. Perceptual re-verification remains partial.** The imported current packets account for all 33 Hiro and 27 Misuzu source identities, populate the supported measurement responsibilities, review all 20/45 retained claims respectively, and synchronize the complete analytical documents. The user-authorized full rebuild expanded the original 29-identity reconciliation subset to the complete 60-source packet set; the older subset and acceptance criteria are retained below as history.
+
+| Candidate | Current state | Execution evidence and remaining boundary |
+|---|---|---|
+| `GKM-REBUILD-HIRO-01` | DOCUMENTARY / MEASUREMENT SCOPE CLOSED; PERCEPTUAL DEPENDENCIES OPEN | 33/33 verified identities, including H03 and the full H04 original; 33 whole-source loudness and native-channel feature records; 636 distinct inspected still points; 20 claim dispositions. [Source verification](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_SOURCE_VERIFICATION.md), [measurements](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_MEASUREMENTS.md), [comparisons](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_COMPARISONS.md), [claim review](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md). |
+| `GKM-REBUILD-MISUZU-01` | DOCUMENTARY / MEASUREMENT SCOPE CLOSED; PERCEPTUAL DEPENDENCIES OPEN | 27/27 verified identities; 27 whole-source loudness and native-channel feature records plus the bounded Dear-segment layer; 565 distinct inspected still points; 45 claim dispositions. [Source verification](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_SOURCE_VERIFICATION.md), [measurements](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_MEASUREMENTS.md), [Dear segments](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_DEAR_SEGMENTS.md), [claim review](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md). |
+
+Current acquisition authority is the [Hiro rebuild manifest](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md) and [Misuzu rebuild manifest](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md), read with each `FULL_REBUILD_SOURCE_VERIFICATION.md`. The original JSON manifests retain their historical null/unmaterialized fields and must not be read as current acquisition status. H04 original and retained derivative identities remain distinct; bounded equivalence evidence does not make their whole files identical.
+
+The empty/ungenerated measurement responsibilities are discharged by the current populated technical documents and reproducibility records, not by claiming that the old `metrics_summary.md` was found. Whole-mix metrics do not isolate character voices; the Dear segmentation retains its documented boundary derivation and limits. Historical floor-sensitive RMS ratios are not interchangeable with new loudness-range values. The original measurement generations and release checksums remain identifiable.
+
+**Zero fresh direct listening and zero fresh continuous-motion review were performed.** The current image counts are sampled source points, not durations watched. The [Hiro](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md) and [Misuzu](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md) review-accounting reports distinguish displayed stills from generated evidence and inherited inspection claims. Open auditory, motion, causal and ethical dependencies remain in the per-claim review; documentary closure does not recertify the original full-inspection statements.
+
+### Original documentary audit — 2026-09-09
+
+The original audit text, prospective candidate table and Sections 2–6 below are preserved as the dated before-state. Their “open”, “prospective”, “unmaterialized” and “not executed” statements describe that audit, not the current AVE-FULL-20260910 disposition. The old 43-row Misuzu observation is retained as recorded; the current complete register contains 45 claim IDs. Later execution evidence and current authority are routed above.
 
 **Two prospective candidates are open: Hiro and Misuzu. No rebuild, new measurement, or source-media reinspection has been performed by this audit.** This register records the documentary gaps and the evidence required to close them. It does not establish that a historical inspection never happened, nor does it certify that the inspection claimed by a completion report occurred.
 

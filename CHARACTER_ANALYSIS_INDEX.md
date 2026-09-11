@@ -173,6 +173,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Aldini Takumi dedicated analysis](series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_TAKUMI_CHARACTER_MODEL.md) — **active provisional authority**
 
+### Alessandra Susu
+
+- Entity ID: `tokyo-7th-sisters:alessandra-susu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:alessandra-susu@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0010 introduction chapter, Main episodes 201000901–201000909, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
 ### All For One
 
 - Entity ID: `my-hero-academia:all-for-one`
@@ -1543,6 +1564,69 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-shared-synthesis` — Haruka analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
+### Harumi Kajika
+
+- Entity ID: `tokyo-7th-sisters:harumi-kajika`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:harumi-kajika@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0011 introduction chapter, Main episodes 201001001–201001009, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Harumi Sawara
+
+- Entity ID: `tokyo-7th-sisters:harumi-sawara`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:harumi-sawara@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0011 introduction chapter, Main episodes 201001001–201001009, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Harumi Shinju
+
+- Entity ID: `tokyo-7th-sisters:harumi-shinju`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:harumi-shinju@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0011 introduction chapter, Main episodes 201001001–201001009, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
 ### Hataya Misuzu
 
 - Entity ID: `the-idolmaster:hataya-misuzu`
@@ -2191,6 +2275,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`gkm-core-12-juo-sena` — GKM CORE 12 JUO SENA](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_CORE_12_JUO_SENA.md)
 
+### Kamishiro Sui
+
+- Entity ID: `tokyo-7th-sisters:kamishiro-sui`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:kamishiro-sui@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0008 introduction chapter, Main episodes 201000701–201000709, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
 ### kana
 
 - Entity ID: `idoly-pride:kana`
@@ -2555,6 +2660,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `komiyama-ai-reviewed-corpus`: OTHER OTHER: Canonical Phase-2 longitudinal reconstruction over the character's complete Phase-1-routed frozen occurrence frontier, with load-bearing claims retested against reopened primary Japanese source where available and lower-priority texture kept bounded.; continuity `idoly-pride-v2-cross-media`
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-ai-longitudinal-ledger` — IDOLY PRIDE V2 CHAR AI LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_AI_LONGITUDINAL_LEDGER.md)
+
+### Kuonji Shizuka
+
+- Entity ID: `tokyo-7th-sisters:kuonji-shizuka`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:kuonji-shizuka@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-bounded-analysis`: GAME STORY_CHAPTER: Reviewed individual interpretation of the complete B0009 introduction chapter, Main episodes 201000801–201000809, in the Japanese offline game witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). The shared ledgers are read at their EPISODE 1.0 / B0011 horizon, but this enrolled scope is the named introduction chapter and its explicitly separated recollections and authored choice branches. No later story, Sub/Event material, performed voice or singing, or continuous audiovisual performance is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
 
 ### Kuramoto China
 
