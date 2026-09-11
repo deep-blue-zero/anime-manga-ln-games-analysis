@@ -1129,7 +1129,7 @@ Source admission is distinct from current-home propagation, which remains contro
 
 ### SUP-UAG-319-01
 
-**Source and claim:** `UAG:s0319`. High-school Eri visits U.A. with her guitar, greets Aizawa and All Might as vice-principal, with other staff present, and brings paw-shaped manju sent by Shino/Mandalay in thanks for Kota’s care. She hoped to see Midoriya, but Aizawa says he has already finished today’s work and left. Japanese anchor: 「信乃さんからだよ 光太くんがお世話になってますって」.
+**Source and claim:** `UAG:s0319`. High-school Eri visits U.A. with her guitar, greets Aizawa and All Might as vice-principal, with other staff present, and brings paw-shaped manju sent by Shino/Mandalay in thanks for Kota’s care. She hoped to see Midoriya, but Aizawa says he has already finished today’s work and left. Japanese anchor: 「信乃さんからだよ 洸汰くんがお世話になってますって」.
 
 **Attribution / domain:** Horikoshi’s new special one-shot. Each claim specifies the fictional speaker or visible event; in-world broadcasts do not become omniscient narration. Subjects: Eri; Aizawa Shota; Present Mic; Snipe; All Might; Mandalay; Kota Izumi; Midoriya Izuku. Domains: new bonus narrative; adult ordinary future; public recognition.
 
