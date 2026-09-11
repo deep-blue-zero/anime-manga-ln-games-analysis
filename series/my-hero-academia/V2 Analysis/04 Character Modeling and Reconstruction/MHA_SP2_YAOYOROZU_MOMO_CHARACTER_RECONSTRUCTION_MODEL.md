@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: YAOYOROZU_MOMO
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Yaoyorozu Momo
 readiness: strong
 supersedes: []
@@ -67,7 +67,39 @@ Creation consumes bodily resources and requires knowledge of what is made. Time,
 
 Knowledge must be dated. Early Momo does not know future opponents' physiology, the later success of an anesthetic, or adult institutional arrangements. Stable analytical disposition and temporary shaken confidence must be tracked separately. `PRESERVE` planning and standards; `REVISE` fragile incompetence after defeat; `REJECT` scoreboard-only evaluation and infinite-resource Creation; `OPEN` private adult breadth.
 
+**Current supplemental qualification (YM-SUP-01–03):** Reciprocal music learning, unfamiliarity with a hotpot’s informal rules and adult research add ordinary reception and ongoing expertise. The guide’s editorial 95 does not replace the original/reprinted narrative 94; private adult intimacy remains sparsely sampled. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given late-school Momo with a damaged support system and incomplete specifications, likely response is to ask the crucial constraint, make a workable bounded replacement, and coordinate a test or fallback. Medium-high confidence. A prior personal failure or a trusted peer's competing judgment could increase hesitation; urgency and explicit delegated authority increase commitment. The model does not predict the correct engineering answer without technical evidence.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside YM-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### YM-SUP-01 — Reciprocal learning beyond helpfulness
+
+Being relied on pleases her, but she also receives unfamiliar musical experience from Jiro and is surprised by an ordinary hotpot’s open rules. This distinguishes knowledgeable teaching from effortless familiarity with every social setting.
+
+Source basis: [SUP-UA-039-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-039-01) (`UA:s0039`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAN-037-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-037-01) (`UAN:s0037`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-053-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-053-02) (`UAG:s0053`; EDITORIAL_SUMMARY, NARRATIVE, GAG; EARLIER_ONLY).
+
+### YM-SUP-02 — Research and situated support
+
+The adult profile adds research as well as international hero work. The growing binder and shared railgun operation preserve knowledge acquisition and coordination rather than omniscient instant fabrication or sole authorship of collective success.
+
+Source basis: [SUP-UAG-052-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-052-01) (`UAG:s0052`; PROFILE_FACT, EDITORIAL_SUMMARY, OTHER_CHARACTER_JUDGMENT; ENDPOINT); [SUP-UAG-052-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-052-02) (`UAG:s0052`; DESIGN, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-242-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-242-01) (`UAG:s0242`; EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT).
+
+### YM-SUP-03 — Explicit score conflict
+
+The guide’s editorial licensing score is 95, while its reproduced panel and the checked Japanese V13:p105 give 94. Use 94 when describing the narrative event, retain 95 as a source discrepancy, and do not manufacture an explanation or turn one mark into a behavioral tier.
+
+Source basis: [SUP-UAN-037-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-037-02) (`UAN:s0037`; EDITORIAL_SUMMARY, NARRATIVE, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAN-115-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-115-01) (`UAN:s0115`; NARRATIVE, EDITORIAL_SUMMARY; EARLIER_ONLY).
+
+### Current use and remaining limits
+
+Invitations to teach can evoke enthusiastic support; unfamiliar ordinary conventions can still require explanation. Adult research extends professional context but supplies no fully observed laboratory management style.
+
+Keep strong. Reciprocal ordinary learning and adult work broaden the dossier; repeated independent/private decisions remain the specialist gap. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe YM-V01: V28 → V29 delegated emergency command
 

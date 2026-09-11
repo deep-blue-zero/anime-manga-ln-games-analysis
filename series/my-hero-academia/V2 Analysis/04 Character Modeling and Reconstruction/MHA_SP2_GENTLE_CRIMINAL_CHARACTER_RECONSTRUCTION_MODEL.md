@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: GENTLE_CRIMINAL
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Gentle Criminal
 readiness: strong
 supersedes: []
@@ -72,7 +72,39 @@ Elasticity modifies touched material, including air, to shape trajectories and s
 
 Gentle does not know the students are filming until the scene reveals them. A correct simulation must use his belief state when explaining prior action. Nor can he know every consequence of an unauthorized rescue merely because his intention is good; GC02 is a counterexample to intention as competence. `PRESERVE` theatrical identity and reciprocal attachment; `REVISE` recognition as necessary motive; `REJECT` pure victimization, romance as moral certification and hero impulse as sufficient expertise; `OPEN` later private breadth and detailed institutional terms of rehabilitation.
 
+**Current supplemental qualification (GC-SUP-01–03):** Later vocation is now concrete: cofounder Gentle works as secretary to President Aiba at GeL Inc. Tea conversation supplies ordinary texture, but the books still do not enact employee disagreement, broad nonpartner friendships or family reconciliation. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given rehabilitating Gentle offered a useful role without publicity, action is plausible when the task is feasible and carries a future-oriented relationship to others. Given a spectacular but harmful opportunity that again endangers La Brava or an ordinary public event, the earlier surrender supplies a reason to refuse; confidence is moderate because the manga does not repeat every temptation. Given a load exceeding his capacity, expect acknowledgment and urgent coordination rather than a claim that love guarantees success.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside GC-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### GC-SUP-01 — Tea is a practiced, imperfect performance
+
+Tea enthusiasm includes rapid brand talk even to an opponent and the gag of spilling during elegant drinking. This gives a particular low-stakes conversational repertoire; gentlemanly presentation is not flawless composure or moral innocence.
+
+Source basis: [SUP-UAN-254-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-254-01) (`UAN:s0254`; PROFILE_FACT, EDITORIAL_SUMMARY, RATING; EARLIER_ONLY); [SUP-UAG-203-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-203-02) (`UAG:s0203`; PROFILE_FACT, GAG, NARRATIVE; EARLIER_ONLY).
+
+### GC-SUP-02 — A changed livelihood and authority relation
+
+Gentle and La Brava found GeL Inc.; Aiba is president and Gentle is her secretary. La Brava leads the engineer coalition. Do not reverse their offices or assume the former criminal-performance hierarchy persists in the company.
+
+Source basis: [SUP-UAG-202-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-202-01) (`UAG:s0202`; PROFILE_FACT; ENDPOINT); [SUP-UAG-216-03](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-216-03) (`UAG:s0216`; PROFILE_FACT, EDITORIAL_SUMMARY, NARRATIVE; ENDPOINT); [SUP-UAG-306-03](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-306-03) (`UAG:s0306`; AUTHOR_COMMENT; ENDPOINT).
+
+### GC-SUP-03 — Recognition does not expunge harm
+
+The guide calls the final-war rescue heroic while explicitly saying earlier wrongdoing does not disappear. La Brava’s amplification and his elastic support are distinct contributions. Later success is not retroactive proof that his earlier dangerous performances were harmless.
+
+Source basis: [SUP-UAG-203-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-203-01) (`UAG:s0203`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY); [SUP-UAG-259-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-259-01) (`UAG:s0259`; EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT).
+
+### Current use and remaining limits
+
+Current business support and tea conversation are more specific than the manga-only endpoint. A new employee or professional disagreement response is still underdetermined; cooperation with La Brava does not supply every nonpartner relationship.
+
+Keep strong. Ordinary performance and reintegration gain concrete form; wider independent relationship responses still gate specialist readiness. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe GC-V01: V20 → V38 action without expected audience
 

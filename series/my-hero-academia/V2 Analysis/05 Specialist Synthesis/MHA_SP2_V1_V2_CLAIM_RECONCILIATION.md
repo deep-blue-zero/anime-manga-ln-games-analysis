@@ -5,7 +5,7 @@ artifact_type: specialist_synthesis
 scope: FULL_SERIES_V01-V42
 generation: V2
 status: canonical
-source_boundary: Japanese main manga Volumes 1-42, including chapter 431; supplemental expansion excluded
+source_boundary: Historical V1/V2 Japanese main-manga comparison through chapter 431; dated routing note for later UA, UAN, and UAG reconciliation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -98,6 +98,12 @@ The Hawks V27 extraction leak, Shoji's p148 kimono-behavior claim, vague Tamaki 
 V1-FS's character “philosophies” in §16 are interpretive condensations, not direct manga quotations. They may be compared as judgments but cannot become Japanese voice evidence. Likewise Nighteye's hypothesis at V18:p072 is not established physics merely because it fits a thematic account of many people changing a future. This discipline preserves the genuinely useful V1 inheritance while giving V2's source method practical force.
 
 **Residual:** this adjudication does not settle every reasonable literary disagreement or verify every V1 sentence. It resolves the major actual claims that bear on the authorized full-series questions, identifies limits, and leaves historical files intact. [Form, revision and residuals](../06%20Full-Series%20Synthesis/MHA_SP2_FORM_REVISION_AND_RESIDUALS.md) explains how these changes affect the definitive interpretation.
+
+## Dated supplemental boundary — 2026-09-10
+
+The fifteen historical CR adjudications above retain their original V1/V2 inputs and conclusions. The later admission of UA, UAN and UAG does not retroactively make their profile disclosures, bonus narratives or author testimony evidence available to either reading pass. New source characterization, differing reference states and guide conflicts are reconciled in the [supplemental ledger](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md), with source-specific audits and present S1–S7/individual owners. This note expands retrieval, not the historical evidence basis of the CR decisions.
+
+In particular, Stain's guide affiliation claim must remain distinct from the explainable public attribution of his arrest; UAN's 95 for Momo remains recorded beside the hash-verified manga's 94; repeated Copy duration wording cannot replace later conditional capacity; and UAG's conflicting AFO-affect descriptions remain qualified. Those findings do not justify replacing this historical reconciliation with a new adversarial registry. [S4](MHA_SP2_HERO_SOCIETY_AND_DISTRIBUTED_RESPONSIBILITY_SYNTHESIS.md), [S5](MHA_SP2_VILLAIN_FORMATION_AND_ACCOUNTABILITY_SYNTHESIS.md) and [S7](MHA_SP2_JAPANESE_LANGUAGE_AND_LONGITUDINAL_FORM_SYNTHESIS.md) own their current interpretive effects; F4 retains the continuing residuals. [SUP-UAN-037-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-037-02) [SUP-UAN-238-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-238-01) [SUP-UAN-238-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-238-02) [SUP-UAG-082-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-082-02) [SUP-UAG-171-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-171-01) [SUP-UAG-173-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-173-01)
 
 ## Evidence status and corpus role
 

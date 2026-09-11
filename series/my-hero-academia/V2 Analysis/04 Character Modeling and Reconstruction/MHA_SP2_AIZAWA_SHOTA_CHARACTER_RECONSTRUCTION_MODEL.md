@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: AIZAWA_SHOTA
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Aizawa Shota
 readiness: specialist_ready
 supersedes: []
@@ -73,6 +73,8 @@ Erasure depends on usable sight and maintenance conditions; capture cloth and ph
 
 `PRESERVE` demanding professional judgment and practical care. `REVISE` apparent detachment when personal loss and long-term teaching reveal its limits. `REJECT` infallible rationality or automatic absolution of coerced students. `OPEN` full private ordinary-life behavior, the final metaphysics of Kurogiri/Shirakumo, and exact long-term medical capacity. Specialist readiness reflects breadth in teacher, combat, care, grief, and peer roles; it does not supply unseen domestic biography.
 
+**Current supplemental qualification (AZ-SUP-01–03):** Cat-directed attention, selective public appearances and a directly enacted later exchange respecting adolescent Eri’s performance boundary add ordinary care. The earlier Nighteye-disclosure policy remains a temporary response to a harmed child’s self-blame, not his universal later policy. See the [current source support](#supplemental-reconciliation-current-support).
+
 Knowledge is local. Aizawa can judge Bakugo from teaching experience without knowing every private Midoriya–Bakugo conversation. In early Eri scenes he cannot know her final-war choice. A V26 reconstruction cannot import V42 mixed-continuity evidence. Distinguish what he hopes, what a trace suggests, and what he can operationally rely upon.
 
 ## Conditional reconstruction
@@ -94,6 +96,36 @@ The recipient and the practical purpose prevent a universal secrecy rule. In the
 For a reconstruction **during Eri's early post-raid recovery**, adults must decide when and how to discuss a loss she would wrongly assign to herself. Likely: assess what she already knows, the burden she is carrying, and the support available; avoid adding facts as an unmanaged demand that she absorb adult suffering. Confidence is medium for this novel case. AZ09 makes temporary delay plausible, but does not specify a general timetable or how he would answer a direct, informed question from Eri. Evidence that she already knows, that silence creates an immediate danger, or that necessary decisions depend on the information changes the problem and requires reassessment. Exact language to the child is underdetermined: p049 establishes his explanation of the decision, not a fully observed disclosure conversation.
 
 `STRENGTHEN` recipient- and role-sensitive care; `REJECT` the inference that blunt public judgment requires indiscriminate immediate disclosure in private recovery. Preserve AZ07's later distinction between hearing Eri's intention and treating risky bodily contribution as harmless authorization. Her eventual final-war action cannot be used as knowledge available to Aizawa in V19, and this one recovery judgment cannot certify a general child-disclosure policy.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside AZ-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### AZ-SUP-01 — Observer limits and care explanations
+
+Early Aizawa thinks Kirishima seems to have few worries; later biography prevents using that impression as complete knowledge. The books connect his severity with losing Shirakumo, while explicitly retaining years of practiced teaching/capture-cloth skill. Grief is a contributing history, not the cause of every decision.
+
+Source basis: [SUP-UA-037-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-037-01) (`UA:s0037`; OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAN-165-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-165-01) (`UAN:s0165`; PROFILE_FACT, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-119-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-119-01) (`UAG:s0119`; PROFILE_FACT, EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT).
+
+### AZ-SUP-02 — Ordinary attention and chosen disclosure
+
+Cats attract his gaze; public appearances are selectively accepted when he considers them necessary. His Aoyama speech refuses to teach lifelong guilt as a way of living. These are distinct from AZ09’s temporary, child-facing Nighteye disclosure boundary; none establishes universal secrecy or unconditional absolution.
+
+Source basis: [SUP-UAG-120-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-120-01) (`UAG:s0120`; PROFILE_FACT, EDITORIAL_SUMMARY; CONTINUING_WITH_SUPPORT); [SUP-UAG-121-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-121-01) (`UAG:s0121`; NARRATIVE, SELF_REPORT, EDITORIAL_SUMMARY; EARLIER_ONLY).
+
+### AZ-SUP-03 — Adolescent agency in the new bonus
+
+Eri visits with a guitar and gifts. Aizawa recognizes why she wants famous friends to watch her first performance discreetly, calls her stoic and gently corrects playful speech. This is a directly enacted later care context in which he can respect ambition and explain its practical audience constraint.
+
+Source basis: [SUP-UAG-319-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-319-01) (`UAG:s0319`; BONUS_FICTION, NARRATIVE; ENDPOINT); [SUP-UAG-320-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-320-01) (`UAG:s0320`; BONUS_FICTION, NARRATIVE; ENDPOINT).
+
+### Current use and remaining limits
+
+For the later Eri, do not mechanically reuse early protection from self-blame as a policy of withholding ordinary decisions. Cat preference can guide attention, but it does not predict adoption or every social choice. Mobility and Erasure remain changed after injury.
+
+Keep specialist_ready. Low-stakes adult/child interaction and recipient-specific care improve; no restored Shirakumo identity or universal teaching omniscience is admitted. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe AZ-V01: V09 → V10 public defense
 

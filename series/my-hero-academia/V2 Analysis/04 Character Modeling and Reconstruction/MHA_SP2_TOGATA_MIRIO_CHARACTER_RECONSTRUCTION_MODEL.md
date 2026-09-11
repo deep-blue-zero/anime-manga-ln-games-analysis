@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: TOGATA_MIRIO
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Togata Mirio
 readiness: strong
 supersedes: []
@@ -67,7 +67,39 @@ Permeation removes sensory/air access and requires timing and trajectory judgmen
 
 He does not know OFA simply because Midoriya hypothetically asks about giving a Quirk; V18 explicitly preserves uncertainty about what Midoriya means. Nor does he know Tenko's friendships before his taunt (TM05). `PRESERVE` practiced optimism and protection; `REVISE` effortless invulnerability and perfect empathy; `REJECT` restoration entitlement; `OPEN` independent adult/private breadth.
 
+**Current supplemental qualification (TM-SUP-01–03):** Adult humor now has differing reported child/elderly reception, and the sequence from Centipeder’s inherited agency to Mirio’s leadership is explicit. These narrow professional/ordinary gaps without proving every joke lands or supplying varied management decisions. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given adult Mirio in a child-facing session led by a better-qualified counselor, playful participation under that person's direction is high confidence in the sampled context. A traumatized child refusing contact requires adjustment; the model cannot assume every joke works. Immediate lethal danger shifts from engagement to practiced protection, while severe loss can still elicit grief.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside TM-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### TM-SUP-01 — Humor has differentiated recipients
+
+Some elderly recipients question whether he is a comedian, while the author says the adult peach-harvesting variation pleases children. Persistent humor is neither universal success nor evidence grief vanished; choose audience and current stakes before predicting reception.
+
+Source basis: [SUP-UAG-088-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-088-01) (`UAG:s0088`; PROFILE_FACT, EDITORIAL_SUMMARY, NARRATIVE, GAG, DESIGN; CONTINUING_WITH_SUPPORT); [SUP-UAG-089-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-089-01) (`UAG:s0089`; NARRATIVE, EDITORIAL_SUMMARY, GAG; EARLIER_ONLY); [SUP-UAG-303-04](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-303-04) (`UAG:s0303`; AUTHOR_COMMENT; ENDPOINT).
+
+### TM-SUP-02 — Mentorship is not merely a succession instrument
+
+The guide says Mirio’s existence became Nighteye’s pride beyond the original One For All succession plan. This is retrospective relational framing, not a new omniscient account of every earlier evaluation.
+
+Source basis: [SUP-UAG-138-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-138-01) (`UAG:s0138`; PROFILE_FACT, EDITORIAL_SUMMARY, NARRATIVE; ENDPOINT).
+
+### TM-SUP-03 — An agency sequence, then a separate chosen invitation
+
+After graduation he first joins the inherited Nighteye agency as a sidekick, then later takes it over. Eri includes him among beloved heroes whose fame she does not want to use for her first performance. Being admired does not entitle him to determine her stage or audience.
+
+Source basis: [SUP-UAG-101-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-101-01) (`UAG:s0101`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-320-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-320-01) (`UAG:s0320`; BONUS_FICTION, NARRATIVE; ENDPOINT).
+
+### Current use and remaining limits
+
+Distinguish practiced encouragement from an expectation that every joke lands. Current agency leadership is established; specific management decisions and reactions to Eri’s stated boundary are not directly enacted.
+
+Keep strong. Adult recipient variation and professional continuity improve; wider private/conflict responses remain the specialist gap. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe TM-V01: V17 → V18 offered replacement capacity
 

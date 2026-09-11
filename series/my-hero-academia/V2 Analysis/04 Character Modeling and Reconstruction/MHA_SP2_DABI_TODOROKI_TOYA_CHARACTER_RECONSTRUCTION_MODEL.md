@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: DABI_TODOROKI_TOYA
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Dabi / Todoroki Toya
 readiness: specialist_ready
 supersedes: []
@@ -68,11 +68,43 @@ Fire capacity exceeds the body's safe tolerance. Burn injury, heat escalation, l
 
 Before any reconstruction, specify identity secrecy, what he knows of Endeavor's new behavior, whether Shoto has faced him, and current bodily state. Readers' later knowledge of AFO's broader engineering cannot be treated as Toya's omniscience. `PRESERVE` attention-centered motive and strategic capacity; `REVISE` hatred as excluding every possible local acknowledgment; `REJECT` innocent child alone acting through a non-responsible adult, or agency erased by manipulation; `OPEN` full victim accountability, exact later death circumstances, and counterfactual life under earlier care.
 
+**Current supplemental qualification (DY-SUP-01–03):** Hair-dye concealment and continued family time during bodily decline sharpen dated contexts. The source does not date death, explain a broad remorse policy or turn its question about instrumental kindness into a settled denial of every affection. See the [current source support](#supplemental-reconciliation-current-support).
+
 Despite the specialist tier, non-hostile adult ordinary life is sparsely sampled. The single hospital opening does not authorize a broad domestic persona.
 
 ## Conditional reconstruction
 
 For **pre-reveal Dabi**, an ally offers an efficient victory that would deprive Endeavor of learning who caused it. Likely: evaluate the plan against the delayed recognition project and reject or modify it if it makes the result impersonal. Medium-high confidence from DY01; exact tactical choice depends on whether secrecy is still useful. An immediate threat to the project may justify retreat or temporary cooperation. A V42 version lacks the same physical options and has experienced a new family encounter; the old operational policy cannot simply be reused.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside DY-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### DY-SUP-01 — Concealment and inherited ambition
+
+The guide says his father’s aspiration became his own childhood dream, then traces rejection into hatred; dyed hair conceals him from family until disclosure. These are dated conditions, not knowledge every observer possessed earlier.
+
+Source basis: [SUP-UAG-174-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-174-02) (`UAG:s0174`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY); [SUP-UAG-175-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-175-01) (`UAG:s0175`; EDITORIAL_SUMMARY, DESIGN; EARLIER_ONLY).
+
+### DY-SUP-02 — Instrumental kindness is a question to test
+
+The sidebar asks whether even kindness to Toga is another use of available means; sharing Twice’s blood and publicizing his death serve destructive plans. Preserve the evidence and interrogative framing rather than declaring all possible affection unreal.
+
+Source basis: [SUP-UAG-177-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-177-01) (`UAG:s0177`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### DY-SUP-03 — Medical trajectory does not expand remorse
+
+The later profile describes family time in a body slowly approaching death. It does not date death, overturn the V42 altar implication, establish full rehabilitation or broaden DY07’s specific apology into forgiveness by every family member.
+
+Source basis: [SUP-UAG-174-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-174-01) (`UAG:s0174`; EDITORIAL_SUMMARY; ENDPOINT).
+
+### Current use and remaining limits
+
+Concealed identity, public performance, bodily decline and the narrow sibling apology are different reconstruction states. A family visit cannot be treated as consent to every earlier harm or evidence of an open healthy future.
+
+Keep specialist_ready at the terminal/declining boundary. Concealment and motive framing sharpen; exact death timing and broader remorse remain unshown. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe DY-V01: V39 → V42 sibling conversation
 
