@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.14"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-24 — Phase 6 Kaya Rinha evidence matrix relationship transitions integrated"
+last_updated: "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open"
 status: "active; cumulative through Phase 6 Systems I + II and Kaya Rinha evidence matrix"
 ---
 
@@ -745,3 +745,16 @@ This section introduces no new source object. It revises relationship wording us
 
 Rinha is a strong example of why **surface hostility cannot be used as a scalar proxy for relational distance**. Her recurrent harsh/directive register can perform challenge, pedagogy, defensive armor, professional evaluation, play, actual anger, or care depending on recipient and scene. Conversely, familiarity does not neutralize a genuinely hostile line. The targeted AV baseline must partition these functions before the final dossier freezes relationship-specific speech behavior.
 
+<!-- RINHA_AV_20260911 -->
+## Rinha recipient controls — RINHA-AV-20260911
+
+| Relation | New bounded evidence | Consequence / remaining limit |
+| --- | --- | --- |
+| Rinha ↔ Temari | Dear024 severance wording at 1297.467s followed by training invitation at 1335.483/1341.333s | Permanent-severance reading is locally contradicted; does not turn all harshness into affection |
+| Rinha ↔ Misuzu | Dear024 visible phone/merchandise smiles and later unsmiling self-judgment | Fandom and normative self-disqualification coexist; audible register still open |
+| Rinha ↔ Saki | Dear026 sustained disclosure ends in encouragement; Dear034 explicit friendship admission accompanies folded arms/small smile | Direct vulnerability and affiliation can survive the ending; pose is not a fixed hostility code |
+| Rinha ↔ Ume | Dear029 refusal at 523.006/535.001s, Rinha’s acceptance at 536.870s, continued feedback at 569.536s | Concern can yield to a boundary while coaching continues; acceptance tone unheard |
+| Rinha ↔ Ume, support0097-03 | Final request at 271.817s, then Ume’s answer and no subsequent Rinha turn | Accepted vulnerability is an available ending; no invented recovery/deflection |
+| Rinha ↔ fans | support0097-02 at 174.000s labels an independent fan speaker while Rinha is onscreen | Preserve reception evidence; exclude fan line from Rinha’s 620-message corpus |
+
+Times identify points on the physical recordings in the [baseline](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md); they are not continuous motion intervals or audible timestamps. All relation-conditioned vocal judgments remain open to direct review.
