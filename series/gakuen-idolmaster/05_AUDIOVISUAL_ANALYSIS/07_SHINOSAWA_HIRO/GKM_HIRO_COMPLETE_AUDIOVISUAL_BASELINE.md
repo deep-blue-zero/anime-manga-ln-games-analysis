@@ -5,109 +5,86 @@ scope: CHARACTER_SHINOSAWA_HIRO_PHASE3_COMPLETE_AV
 character: Shinosawa Hiro / 篠澤広
 generation: V2
 status: canonical
-source_boundary: '33 AV objects: 11 dialogue/commu sources and 22 music/performance/derivative sources, interpreted against GAKUMAS V2 Source Lock 1.0 and GKM_CORE_07_SHINOSAWA_HIRO.md; みちなるひろがる song commu unavailable/nonblocking'
+source_boundary: "AVE-FULL-20260910: 33 source recordings computationally processed; 636 sampled still points reviewed; no fresh direct listening or continuous-motion review. Earlier evidence generations retain their stated provenance."
 supersedes:
 - series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_HIRO_AUDIOVISUAL_BASELINE_AND_REQUESTS.md
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-17'
+last_updated: '2026-09-10'
 title: Gakuen Idolmaster V2 — Shinosawa Hiro Complete Audiovisual Baseline
 ---
+
+> **Repository adoption — 2026-09-10.** This is the owner-requested branch revision of the exported rebuild. Pre-import candidate labels and repository-state statements in preserved records describe their original execution. Current analytical use remains bounded by the stated evidence modalities. The [import record](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) identifies export hashes and repository transformations.
+
+
+> **Full toolkit rebuild — 2026-09-10.** This adopted rebuild incorporates a fresh 33-source still review (636 distinct source PTS points, 61 actual image displays), current native-mix measurements and carried-forward targeted-trial findings. [The full claim review](SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md) is the current disposition record. Direct listening and continuous motion review remain unperformed. Earlier sections explicitly labeled prior execution preserve their own historical scope and counts; they are not fresh coverage. This revision is adopted at the existing repository path on the owner-requested series branch.
+
 
 # GKM — SHINOSAWA HIRO COMPLETE AUDIOVISUAL BASELINE
 ## Phase 3 integrated acting, music, staging, reception, and character synthesis
 
 ## 0. Authority and evidence discipline
 
-This document is the canonical Phase-3 audiovisual baseline for **Shinosawa Hiro / 篠澤広**. It does not replace `GKM_CORE_07_SHINOSAWA_HIRO.md`. The textual core remains authoritative for exact wording, story-state boundaries, route chronology, and claims about what characters state or believe. This baseline tests that model through directly inspected voiced commus, rendered performances, authored MVs, lyric/full-mix presentations, and one clearly separated derivative reception object.
+The canonical source-facing textual core remains authoritative for exact semantics, route boundaries and story-state claims. This full toolkit rebuild is the current bounded audiovisual revision on the owner-requested series branch. It renews the entire declared 33-source packet at a stated sampling resolution and revises the analytical prose where the evidence warrants it.
 
-The inspected packet contains **33 sources**:
+The packet retains four Dear compilations, seven song communications, twelve solo/common rendered 3DMVs, two Hiro/China duet-source records, five authored/official MV or lyric-video records, two static/full-mix presentations and one derivative fan montage. H26's historical `duet_performance` label is preserved, with a current qualification: its reviewed points show scenery/lyrics, not paired bodies.
 
-- four contiguous Dear compilations covering **Dear 001–037**;
-- seven song communications;
-- eleven solo/common rendered 3DMVs;
-- two Hiro/China duet renderings;
-- five authored/official MVs or lyric videos;
-- three static/full-mix presentations;
-- one fan comparative montage, `どんどん上手くなる光景`.
+Fresh direct inspection consists of **636 distinct original-source PTS points in 61 displayed contact sheets**: 396 survey points across all 33 sources and 240 targeted points across 24 sources. These are still observations, not duration coverage, continuous motion review or direct listening. Twenty-one previously acquired frozen scripts were rehashed and checked by Git-blob identity; script timeline numbers are not substituted for MP4 source clocks. Prior trial points remain separately identified as carried-forward evidence.
 
-The derivative montage is not allowed to establish choreography, chronology, or animation intent by itself. It is used as a reception-salience object and as a locator for claims to retest against primary rendered footage.
+Evidence classes in this revision are:
 
-Evidence labels used below:
+- **FRESH-VISUAL** — personally inspected stills with actual image-return receipts and original source/frame hashes.
+- **LOCKED-TEXT** — exact frozen script wording and speaker control.
+- **CARRIED-TRIAL** — previously performed targeted sequence observations, imported without fresh-coverage credit.
+- **INHERITED-AUDITORY** — supplied-package acoustic/performance interpretations not directly re-heard here.
+- **NATIVE-METRIC** — whole-recording/channel descriptors and exact decoded-audio comparisons within their stated scope.
+- **INFERENCE / OPEN** — interpretation or unresolved dependency.
 
-- **AV-DIRECT** — visible or audible features of the supplied source;
-- **AUDIO-METRIC** — full-mix/source-level measurements, never isolated vocal stems;
-- **TEXT-CONTROL** — Source Lock 1.0 and the canonical textual core;
-- **INFERENCE** — synthesis combining direct and textual evidence;
-- **OPEN** — plausible but not settled by this packet.
-
-The analysis does not equate aesthetic effectiveness with medical or professional safety. Hiro's exhaustion, breath, collapse, and crisis response are character evidence; they are not proof that escalating risk is ethically justified.
-
----
+The [full claim review](SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md), [visual observation log](SUPPORTING_DATA/FULL_REBUILD_HIRO_OBSERVATIONS.md), [measurements](SUPPORTING_DATA/FULL_REBUILD_MEASUREMENTS.md) and [review accounting](SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md) keep those classes distinct. Exact source PTS governs retrieval; rounded times in prose identify nearby reviewed points, not speech onset. Rendered success, popularity and computed loudness do not by themselves establish technical mastery or justify pressure.
 
 # 1. Executive thesis — resistant form
 
-The textual core identified Hiro as the idol of **chosen impossibility becoming accountable attachment**. She begins by selecting idolhood because it is badly suited to her and therefore resists the boredom of effortless competence. The route later gives that chosen difficulty consequences: friends, fans, rivalry, bodily continuity, a shared dream, and a Producer whose own future becomes entangled with hers.
+The textual core's “chosen impossibility becoming accountable attachment” remains the governing interpretation. Hiro's initial difficult project acquires people, promises and a future that can be lost. The full rebuild makes the audiovisual claim more specific: represented bodily limits coexist with stage address, public identity is discussed as something made with others, and cute/social agency coexists with the reception language of `神格`.
 
-The audiovisual evidence preserves that trajectory and identifies its formal mechanism:
+The fresh evidence does not demonstrate every component of the earlier “resistant form” synthesis. A low-force voice and musical irregularity remain inherited auditory hypotheses. Developmental skill cannot be read directly from a polished later stage. What the new still comparisons do show is **plurality without simple replacement**: the early performance already has broad gestures, the foundational authored MV already includes playful imagery, and later victory still displays a bodily limit.
 
-> **Hiro is the idol of resistant form. Her appeal does not arise because audiovisual polish erases the mismatch between her body, voice, temperament, and conventional idol expectations. It arises because the franchise repeatedly turns that mismatch into form: low-force speech becomes deadpan timing; visible effort becomes developmental choreography; fragile stillness becomes attention; crisis becomes dangerous concentration; and musically irregular, discontinuous, or experimental arrangements become a sonic environment in which a conventionally unsuitable idol sounds authored rather than defective.**
+Comedy also needs a wider mechanism. Hiro can contribute a sincere unusual proposition, but she can also invite, stage a surprise and continue a tease after correction. This revises H-AV-002 without pretending to have heard its cadence.
 
-A shorter formulation is:
-
-> **Mismatch is not removed. It is composed.**
-
-This revises two tempting readings at once.
-
-First, Hiro is not simply the weak girl who gradually becomes normal. Improvement matters, but her mature artistic identity does not require disappearance of the qualities that made her strange.
-
-Second, Hiro is not compelling merely because she fails. Failure is initially stimulating because it is consequence-light. Once people depend on her and she wants a future, the same instability becomes frightening. Mature Hiro seeks difficult form **and** a result she has obligations to deliver.
-
----
+The current compact thesis is therefore: **Hiro's form is negotiated through craft, relationships and multiple presentations; success does not make the original constraints or mixed motives disappear.** The body/music homology is a useful interpretation, while exact acoustic mechanisms and sustainable non-crisis practice remain open.
 
 # 2. The five interacting mismatches
 
 ## 2.1 Body versus profession
 
-Hiro's body begins near a functional floor that ordinary idol narratives often treat as a brief comic obstacle. Here it remains structural. Early Dear footage repeatedly makes locomotion, posture, breath, stamina, and recovery part of the scene rather than hiding them behind a generic “training hard” montage. Her small body and reduced reserve do not merely symbolize insecurity; they constrain what can be done safely and how quickly.
+The body's continuing constraint is supported by local story and visible evidence. H05's survey includes the stated difficulty of certain poses even when stationary. Its targeted 283–297 s passage describes just managing song/dance execution before returning to harder lessons. After the late title declaration, H04 2923.003417 s shows spiral-eyed Hiro leaning beside Sena and saying her limit is near (Dear036, raw line 864).
 
-The important audiovisual development is not a single miraculous jump. It is the increasing conversion of effort from scene-ending collapse into usable performance information. Later Hiro can still look and sound strained, but strain no longer automatically consumes all available attention. More of the performance can be allocated to gaze, phrasing, timing, audience address, and relationship.
+This does not make the body a medical dataset. The new review did not measure breath, reserve, recovery or balance. It establishes the representation of limitation after success (H-AV-003).
 
-**INFERENCE:** competence appears as increased expressive surplus. The body does not become irrelevant; it gains enough governance that Hiro can do something besides survive the movement.
+“Expressive surplus” remains an interpretive developmental hypothesis. The new H12/H15/H17 comparison shows differing gestures, light, framing and audience address, but broad movement is already represented in foundational H12. A controlled comparison of matched game-state variants would be needed to separate learning from costume, camera, staging and edit differences (H-AV-004).
 
 ## 2.2 Voice versus conventional idol projection
 
-Hiro's dialogue voice is low-force in the broad functional sense: she often uses small attacks, long pauses, quiet amusement, and an unhurried surface even when the content is startling. The result is not emotional absence. It is a style in which tiny changes matter because the baseline refuses constant emphasis.
+The supplied reading described a low-force dialogue identity in which small attacks, pauses and quiet amusement carry information. That remains **INHERITED-AUDITORY**, qualified rather than independently renewed.
 
-Her funniest lines often land through under-marking. She does not always signal that a statement is outrageous. The listener must catch up to a completely sincere proposition. This creates a distinctive deadpan rhythm: Hiro's logic is internally coherent, the surrounding cast supplies the alarm, and the comedy emerges from the gap.
+Fresh frames establish a varied gestural vocabulary: H01's unusual praise brings hands beside the cheeks; H09's disclosure uses blush and vignetted private thought; H10 changes from a smile to a thinking pose. The economy of some gestures is visible, but it does not measure vocal force.
 
-When fear and attachment become real, the voice does not transform into a different character. The changes are usually local—breath, delay, shortened certainty, embarrassment, or a line that is suddenly allowed to sound wanted rather than analytically interesting.
+The comedy formulation is now more inclusive. H07's explicit invitation, H11's staged close-up `ばぁ！`, and the carried Dear027 invitation after correction show intention and role-play. Sincere underreaction and cast alarm remain possible components, not a complete rule for every scene. Heard timing and relative reaction magnitude remain unresolved.
 
 ## 2.3 Musical language versus ordinary pop expectation
 
-The user's initial observation that Hiro's principal music sounds unusually experimental is **STRENGTHENED**, with one qualification.
+The user's original experimental-music hypothesis remains a **qualified historical musical interpretation**. The undefined composite once used to rank experimentality stays retired; new native-channel RMS, spectral and loudness measures do not establish genre or compositional intent.
 
-The effect is strongest in the repertoire specifically authored around Hiro: `光景`, `コントラスト`, `サンフェーデッド`, `メクルメ`, and `コンテンポラリのダンス`. Across different creators and presentation types, these works repeatedly resist the smooth transparency expected of standard character pop. Their interest lies in discontinuity, contrast, unstable texture, irregular emphasis, collage-like change, and the sense that the vocal is negotiating with the arrangement rather than simply riding above it.
+The fresh visual comparison does support varied authored construction in H14, H18, H24 and H32: bodies are drawn, inverted, duplicated, fragmented, cropped or placed under changing typography. Those devices can be read in relation to Hiro's story without being literal biography.
 
-The common-song controls revise the stronger claim that “Hiro herself makes every song avant-garde.” `Campus mode!!`, `初`, `がむしゃらに行こう！`, `Howling over the World`, `ミラクルナナウ(ﾟ∀ﾟ)！`, and `ENDLESS DANCE` retain their shared repertoire identities. Hiro remains legible inside them, but the extreme formal strangeness is less constant.
-
-The best current formulation is therefore:
-
-> **Experimentalism is a curated pillar of Hiro's authored repertoire, while her portable performance identity is quieter: soft precision, unusual weighting, fragility without disappearance, and a refusal to counterfeit conventional effortlessness.**
+Common repertoire is not visually plain. H21 uses duplicated bodies and digital fragmentation; H25 distorts room perspective and figure scale. Conversely, cute/playful imagery already appears in foundational H14. The distinction between curated work and portable performance identity must therefore be argued through specific source forms and heard passages, not assumed from visual novelty or whole-recording averages (H-AV-009/010).
 
 ## 2.4 Charisma versus technical weakness
 
-Sena's `神格` language identifies a real phenomenon but can tempt mystical overstatement. The AV packet supports the existence of a Hiro-specific attraction that exceeds ordinary technical evaluation. It does not prove literal transcendence.
+Sena's nonnumeric vocabulary identifies a reception problem that ordinary technical assessment does not exhaust. Fresh H03 1048–1069 s makes its limit explicit: she instructs Hiro to raise `神格` and cause a miracle, but admits she does not know how when Hiro asks (Dear023, lines 444, 452, 458, 463).
 
-The attraction is built from contrast:
+Thus “reproducible reception mode” must be narrowed. The category recurs in the story; a controlled reproducible technique or invariant sound has not been demonstrated. H04 946–961 s adds Hiro's description of a power received from everyone, rather than a force originally belonging to her alone (Dear031, lines 55, 57, 67).
 
-- a body that appears vulnerable but enters a large stage;
-- a voice that does not overpower the mix but remains memorable;
-- stillness or reduced force inside visually and musically active environments;
-- sincerity so unusual that it reads as opacity;
-- visible risk that heightens attention.
-
-This can produce “goddess” distance, but the route's later cute and social material prevents that image from exhausting her.
+Hiro's cute wish and Owl's account of an idol image as a team-created work further resist a single hidden essence. `神格`, ordinary desire and deliberate presentation are partial aspects of the same constructed career (H-AV-007/008/018).
 
 ## 2.5 Hobby versus dream
 
@@ -127,214 +104,149 @@ The voice and performance therefore accumulate a new tension:
 
 ## 3.1 Dear 001–007 — bodily comedy without bodily unreality
 
-The early Dear packet establishes the comic mechanism that fans often associate with Hiro: quiet conviction colliding with alarming content. Her collapse, requests for harder work, and attraction to low aptitude are funny because she approaches them with analytical serenity.
+The textual model of attraction to chosen difficulty is retained. The fresh H01 survey confirms that the compilation presents bodily and relational scenes through varied poses and speaker changes. It is a breadth sample, not a full retiming of every early collapse or joke.
 
-But the acting also places limits on the joke. Breath, pauses, posture, and recovery make the body concrete. The performance does not let the audience pretend that “HP 1” is only a cute label.
-
-**Finding:** the early route creates comedy and ethical discomfort from the same evidence. Hiro's pleasure is genuine; so is the physical constraint.
+The older account of breath, recovery and serene delivery remains inherited auditory analysis. The new body claim rests more precisely on stated execution limits and the later post-victory limit; the comic claim now also includes active invitation and role-play. This preserves the difference between enjoying a difficult premise and having no physical constraint, without turning sampled posture into physiology.
 
 ## 3.2 Dear 008–010 — jealousy makes the voice personally vulnerable
 
-Watching Ume forces Hiro to encounter `悔しい` as something other than an interesting variable. The phrase `大好きなことで負けるの、すごく苦しいね` marks a change in the emotional economy: pain now follows attachment rather than preceding it.
+The frozen textual hinge is unchanged: jealousy and liking idolhood give failure a positive object that can be lost. The exact auditory pause structure of that discovery has not been newly heard.
 
-The next-day live then produces a dangerous but real discovery—high stakes can concentrate Hiro. Audiovisually, the crucial contrast is not simply louder versus quieter. It is diffusion versus alignment. Ordinary Hiro's pauses can feel exploratory; crisis Hiro's attention narrows.
+The fresh Dear009 comparison makes the subsequent causal model attributable. H01 2081–2102 s displays the gap between practice and live demands; 2181–2216 s moves through a modest result, praise, Hiro's response and the Producer's danger-to-ability explanation. A stylized stage insert is not an independent measure of the diegetic audience or degree of improvement.
 
-Dear 010 and the later `ガラクタロード` retrospective preserve another motive that the “difficulty addict” reading can suppress: `かわいくなりたかった`. The embarrassment surrounding that desire is among the strongest evidence that Hiro possesses ordinary longing she cannot metabolize as an abstract problem.
+The H09 retrospective then gives cute desire a specific visible form: partial typed disclosure, blush, vignetted framing and parenthesized private thought. Frozen CIDOL018 part01 line 224 supplies the completed `かわいくなりたかった`. Ordinary desire complements unsuitability; it does not replace it as the only true motive.
 
 ## 3.3 Dear 011–020 — the hobby gains witnesses
 
-China and Ume change Hiro's weakness from private self-experiment into a social position. Rivalry and friendship create comparison that matters, while fans create obligations that extend beyond the Producer dyad.
+The inherited textual trajectory remains: friends, rivals and fans make Hiro's hobby consequential without requiring her to renounce `趣味`. The fresh H02 survey provides contextual scene variety, including rivalry and concern, but not a complete review of every public obligation.
 
-The acting range broadens accordingly. Hiro can remain deadpan, but the same pauses now carry anticipation, hurt, affection, or an attempt to decide what another person's success means for her.
-
-Dear 020's shared-dream formulation is important because the route does not force Hiro to renounce `趣味`. Producer's dream does not replace her pleasure; it gives that pleasure a future-oriented structure.
+Song-commu comparisons specify distinct relations. H06 asks how different people read Hiro; H08 301–315 s links nervousness to secrets kept from the two friends; H07 anticipates people awaiting a performance. H09 488–502 s credits the Producer's dream with making the hobby brighter. These are different sources of accountability, not one undifferentiated fan effect. The prior claim that pauses now carry specific new affects remains an auditory question.
 
 ## 3.4 Dear 021–027 — `神格`, image coauthorship, and manufactured danger
 
-This tranche supplies the most ethically volatile material. Sena's low metric evaluation and simultaneous recognition of `神格` formalize the technical/charismatic mismatch. Hiro and Producer then work on whether she should be distant goddess, cute owl, or something more deliberately plural.
+This tranche places public identity and production conditions under discussion. Fresh H03 targets locate Sena's admission that she cannot explain a method for raising `神格`, Hiro's cute-idol wish, and Owl's separation of personal identity from a team-created idol avatar. The 1559–1573 s Owl passage concerns image coauthorship, not ordinary fan labor (Dear025, lines 117, 122, 123, 127, 128).
 
-The crucial correction is that image construction is not merely imposed on Hiro. She participates, tests, and enjoys it. Yet the Producer's strategy also becomes more manipulative: public risk and surprise are used to manufacture the concentration that ordinary conditions do not reliably produce.
+The Producer's crisis method remains a narrative attribution. The carried targeted trial locates H03 stage arrival between 1978.416667 and 1978.433333 s, then the backstage return figure between 2001.416667 and 2001.433333 s. It supplies pressure→performance insert→return order, not an acoustic cause or measured skill gain.
 
-The AV pass supports a performance-state distinction under pressure. It does **not** convert effectiveness into ethical permission.
+The same carried trial supplies a second correction: Dear027's teasing continues after the Producer's denial. China’s shocked interruption and Hiro’s purposeful continuation are separate comic acts. They refine the mechanism rather than merely adding more examples of underreaction.
 
-**Verdict:** crisis-linked concentration — **STRENGTHEN**. Crisis escalation as benign production — **OPEN**.
+**Current dispositions:** H-AV-005 stays QUALIFIED; H-AV-006 stays UNRESOLVED; H-AV-002 becomes REVISED for the visible/textual comedy account. None is an auditory-confidence upgrade.
 
 ## 3.5 Dear 028–037 — fear of ending changes the meaning of risk
 
-Late Hiro is no longer protected by consequence-light experimentation. The Producer makes the possibility of separation and shared-career failure emotionally salient. Hiro now has enough attachment for the threat to work.
+The textual stakes are now the shared career and relationship, within the D-HIRO result branch. H04's fresh survey shows the displayed dream/hobby wager; targeted 946–967 s locates the power Hiro says she received from everyone. The full original is used, with actual non-integer source PTS retained.
 
-This is exactly why the strategy becomes more dangerous ethically. Consent remains present, but the object being wagered is no longer an abstract challenge. It is a relationship and future Hiro values.
+Victory is visibly bounded. Sena's number-one declaration at 2917–2920 s is followed at 2923.003417 s by Hiro's leaning, spiral-eyed near-limit response. In the later text, **Producer** describes a `瞬間最大風速` (Dear037, line 113), while **Hiro** calls the dream's fulfillment `今夜だけ` (line 236). The old attribution of both phrases to Hiro is corrected.
 
-The final movement through `不純なアイドル`, Prima Stella, `可愛い悪魔`, `瞬間最大風速`, and `今夜だけ` refuses stable triumphalism. Hiro can produce a peak state without pretending that peak state is her ordinary floor. Her own top-idol dream is genuine precisely because it does not erase the temporary, precarious body from which it emerged.
+The carried trial places the Producer's one-time-only proposal fully on screen at 3173.003167 s and Hiro's bad-liar response at 3191.004483 s. This explicit limit must be retained alongside the ethical OPEN. A promise is not a demonstrated refusal/recovery protocol.
 
-**Finding:** the route's mature miracle is bounded. The best performance does not retroactively prove that Hiro was conventionally superior all along.
-
----
+Fresh 3246–3267 s closes with Hiro's own dream declaration and the Producer's request to share it again (Dear037, lines 267, 269, 276, 282). The sequence establishes renewed commitment; it does not demonstrate a sustainable ordinary floor, permanent technical supremacy or an outcome in incompatible branches (H-AV-016/017/020).
 
 # 4. Music and performance sequence
 
 ## 4.1 `光景` — impossibility given an authored environment
 
-`光景` is the foundational Hiro work because its formal difficulty and her bodily difficulty operate in parallel. The arrangement does not merely decorate a weak novice with aspirational pop. It gives discontinuity, density, interruption, and unusual motion a positive aesthetic role.
+The fresh H05 commu target centers on achieving basic song/dance execution while further difficult lessons remain. H12 already supplies broad arms and a raised-leg rendered pose. H14 combines playful patterned imagery with a drawn body that becomes inverted, duplicated and fragmented at 147–161 s.
 
-The rendered performance and authored MV do different work. The 3DMV makes bodily execution inspectable; the authored MV constructs an autonomous symbolic and editorial world. Their agreement lies not in literal shot identity but in refusing to present Hiro as a generic bright idol whose only problem is confidence.
-
-The fan montage `どんどん上手くなる光景` makes a derivative argument: Hiro's appeal includes watching a body learn. That argument is plausible and useful, but the montage cannot establish a canonical chronology by selection alone. It is preserved as a reception map and falsification prompt.
-
-**Claim:** `光景` makes unsuitability legible as artistic premise rather than pre-artistic defect.
+These are distinct kinds of evidence: stated execution, rendered posture and graphic transformation. They can support an interpretation of constraint becoming form, but neither the MV nor a still establishes actual bodily improvement or newly heard musical irregularity. Foundational cute imagery also prevents treating cuteness as a later replacement of seriousness.
 
 ## 4.2 `コントラスト` — contradiction becomes relational
 
-Where `光景` can feel solitary and self-observing, `コントラスト` makes difference itself more legible as structure. Hiro is no longer only the unusual object being watched; contrast becomes a way of relating states, bodies, desires, and expectations.
+The title is now supported by a more specific local comparison: H06 deals with divergent readings by others and includes a request that the Producer look at Hiro; H15 143–157 s organizes face/hand and audience address around a circular aperture. That gives “relation among differences” visible and semantic anchors.
 
-The title is not enough to prove that interpretation. The song commu and the comparison between rendered and full/static forms support it: Hiro's identity is increasingly built not through isolation from normal idolhood but through controlled adjacency to it.
-
-**Claim:** contradiction stops being merely diagnostic and becomes compositional.
+H16's repeated cover is not already an identical-audio control. Whole native decoded samples and timing differ from H15, including duration. Comparison of camera effects with audio held constant would require matched validated segments. The broader musical interpretation stays qualified.
 
 ## 4.3 `サンフェーデッド` — late attachment without normalization
 
-`サンフェーデッド` returns Hiro to a highly authored, formally unusual musical space after the route has acquired stakes. The late work is important because it does not “mature” her by simplifying the music into conventional uplift.
+H08 301–315 s connects nervousness with selective disclosure to friends. H17 63–77 s uses a freestanding rectangular frame, audience fields and foliage/light imagery, while H18 supplies a changing authored urban/abstract MV. The official source is not a static cover at the reviewed points.
 
-Instead, unusual form is now capable of carrying:
-
-- fear of loss;
-- relation to Producer;
-- fans and friends;
-- the difference between hobby and dream;
-- a future Hiro actually wants.
-
-**Claim:** experimental language survives accountability. It ceases to be only the sound of distance.
+The wider reading of consequential attachment is controlled by the route; it is not proved by the song title or a new acoustic maturation sequence. Shared large gestures and stage architecture with H12 also limit an early-static versus late-open bodily progression.
 
 ## 4.4 `メクルメ` and `コンテンポラリのダンス` — experimentalism across creators
 
-These works matter methodologically because they reduce the risk of attributing Hiro's entire musical identity to one composer or one trilogy. `メクルメ` supplies a separate birthday-song construction; `コンテンポラリのダンス` makes formal and bodily experimentation explicit.
+H32 varies typography, crop and glitch-like overlays around a repeated portrait; H24 combines flat drawn body parts, objects, text fields and arrows. These are concrete authored visual differences. They support a broader graphic repertoire without proving a single musical genre, creator intention or literal contemporary-dance technique.
 
-Together with the principal trilogy, they support the user's larger observation:
-
-> Hiro's catalog is curated to tolerate more formal abrasion, asymmetry, rapid change, and conceptual framing than ordinary character pop generally permits.
-
-This is still a comparative claim within the inspected packet, not a statistical survey of every idol song in the franchise.
+H33 is a repeated cover at twelve survey points. Its whole native decoded audio is not identical to H32. A static presentation is a source form, not a guarantee that another recording differs only by visuals. Cross-creator musical generalization remains inherited qualitative analysis pending direct listening.
 
 ## 4.5 `ガラクタロード` — the secret motive becomes shared future
 
-The commu's identification with CIDOL 018 is now secure. Hiro recounts Producer's cruel surprise live, her friends' reaction, the original answer about choosing the least-suited profession, and the deeper confession that she wanted to become cute. The later parts turn toward memory, mutual provocation, and Producer sharing a dream.
+The H09/CIDOL018 crosswalk remains secure. Fresh points renew the private disclosure in part01 and the closing dream/hobby exchange in part03; the previously verified part02 mapping is carried forward. Dark vignetted interior thoughts must be distinguished from the later direct exchange and from any hypothetical spoken Producer performance.
 
-The rendered performance lets that retrospective intimacy enter H.I.F.-era public form. The song is therefore not merely another festival performance. It is a bridge between:
-
-- private motive;
-- produced crisis;
-- friendship;
-- romance-coded attachment;
-- and a dream that can be addressed to an audience.
+H27's huge star/screen stage and tilted views offer a public visual counterpart, not the literal same scene. Connecting private desire, shared dream and the public song remains a bounded interpretation rather than collapsing commu, lyric persona and 3DMV chronology.
 
 ## 4.6 `Campus mode!!` and `初` — institutional repertoire as bodily test
 
-These songs are essential controls. Hiro cannot rely on a custom experimental arrangement to make every incompatibility aesthetically intentional. She must enter shared repertoire whose brightness, motion, and inherited expectations predate her.
+H07's learning and public-anticipation captions provide context for shared repertoire; H19/H20 display bright concert environments and direct gestures. H07 also contributes an intentional intimate invitation to the comedy comparison.
 
-The interesting result is not that she makes the songs “weird.” It is that ordinary institutional repertoire exposes how much labor is required for Hiro to become legible inside a common grammar.
-
-`初` is especially useful alongside the improvement montage because beginning is both literal and revisitable. A more skilled Hiro can perform firstness without pretending the body has forgotten what it learned.
+“Bodily test” names an analytical question. This still review does not determine how hard the shared arrangements are, how much effort a pose requires, or whether the same vocal identity carries across them. H20's lower resolution also constrains fine comparison. No technical gain is inferred from the title `初` or the production polish.
 
 ## 4.7 Cute, comic, and seasonal counter-registers
 
-`ハッピーミルフィーユ`, `仮装狂騒曲`, and `ミラクルナナウ(ﾟ∀ﾟ)！` prevent an excessively solemn Hiro model.
+Fresh H10/H11 commus put cute and theatrical premises in social action: cooking, practice, persuasion, invitations and pranks. H23/H30/H31 stages vary expressions, hand address, costumes and prop inserts. Cute imagery also already exists in foundational H14.
 
-The cute desire revealed in `ガラクタロード` is not fulfilled only by turning her into an ethereal art object. These sources allow play, costume, embarrassment, sweetness, social absurdity, and fanservice. The persistent Hiro trait is not mystical distance; it is the strange seriousness with which she can inhabit even ridiculous premises.
+These sources support compatible partial modes, not a hidden true self revealed when goddess imagery is removed. H30's local questioning face within a sweet form is a useful reminder that “cute” is not one affect. Sung register, comic timing and vocal expressivity remain unreviewed.
 
-**Claim:** cute Hiro is not an anti-`神格` revelation. It is evidence that `神格` was never exhaustive.
+Historical H23/H31 RMS-P90/P10 extremes remain denominator-sensitive: H23's near-zero P10 is above the numerical floor, while H31's zero P10 invokes it. New loudnorm LRA is 5.7 LU for each. These are different measures; 5.7 LU is not a corrected version of 211/230 dB.
 
 ## 4.8 Aggressive and kinetic controls
 
-`Howling over the World`, `ENDLESS DANCE`, and `がむしゃらに行こう！` test intensity, bodily force, and effort rhetoric.
+H21's digital fragmentation and duplicated bodies, H25's distorted checkerboard space and vigorous selected poses, and H22's overt bright gestures expand the common-source visual comparison. They also falsify a simple optical split between experimental principal songs and plain common repertoire.
 
-They are useful precisely because they are not custom explanations of Hiro. They show where her identity survives shared demands and where the common choreography/arrangement does most of the work.
-
-The current evidence favors a bounded conclusion: Hiro has meaningful range, but range should not be confused with equal natural fit. Some performances remain interesting because the effort of fit is visible.
+They do not establish heard aggression, continuous stamina, rhythmic skill or natural fit. Whole-source mix differences and camera/prop changes cannot allocate causality to Hiro's own movement or vocal effort. The common sources are comparisons of specified forms, not automatic proof of an ordinary professional floor.
 
 ## 4.9 `みちなるひろがる` and `標` — relation as form
 
-The Hiro/China performances matter because Hiro's late identity is no longer solitary. China and Hiro begin from different kinds of weakness and privilege; the duet makes contrast reciprocal rather than diagnostic.
+H28's fresh points repeatedly place both bodies together in mutual or shared audience-facing compositions, sometimes with unequal foreground area. H29 uses paired inward-facing lower bodies/profiles and, at a separate survey point, linked hands. These provide concrete local relational devices while preserving difference.
 
-The 3DMV and authored MV are present. The song commu is not. Therefore the pass can analyze vocal/visual distribution and broad relational form, but it does not claim a complete character-authorship account of the song's narrative meaning.
-
-**Status:** performance baseline — **PRESERVE/STRENGTHEN**; exact commu meaning — **OPEN / NONBLOCKING**.
-
----
+The shared commu remains accounted for as China AV-CHINA-010. No 34th Hiro source or acquisition request is introduced. H26 shows scenery/lyrics at its twenty fresh points and therefore supplies no reviewed paired-body evidence. Whole-song screen share, motion reciprocity, vocal allocation and full relational authorship remain open.
 
 # 5. Reception and the “improving Hiro” argument
 
-The fan montage is analytically useful because it identifies a major pleasure structure: audiences do not only love Hiro's static strangeness. They love watching the franchise render her improvement.
+The fresh H13 survey confirms that the fan montage combines training, outdoor and staged costume contexts. Its targeted arched-stage section resembles H12 at another clock and framing, yielding a primary-source retrieval candidate. Exact clip identity and chronology were not independently established.
 
-Three safeguards are required.
+The edit makes an argument about improvement. It cannot establish animator intent, causation or canonical ordering by itself, and it does not demonstrate a population-wide reception consensus. Camera, costume, rendering state and selection are practical confounds, not merely abstract caveats.
 
-1. The montage is edited and therefore argumentative.
-2. Different game-result/performance variants are not automatically a canonical chronological sequence.
-3. Better camera, costume, or animation context can be mistaken for better character technique.
-
-Used correctly, however, it reveals a durable reception hypothesis:
-
-> **Hiro's awkwardness is pleasurable partly because it is remembered as an origin that later competence does not disown.**
-
-This is consistent with the route's ethics. If she remained permanently incompetent, “chosen impossibility” could become exploitative spectacle. Visible learning gives her pleasure in difficulty a professional answer.
-
----
+The interpretation that later competence can preserve memory of earlier awkwardness remains useful. Testing it requires matched underlying variants and continuous performance evidence. A derivative montage is a locator and a reception object, not that completed test (H-AV-004/019).
 
 # 6. Character and relationship revisions
 
 ## Hiro ↔ Producer
 
-The AV pass strengthens the model of productive mutuality and intensifies the ethical problem.
+Fresh H09 488–502 s and H04 3246–3267 s put reciprocal dream/hobby language in precise visible exchanges. Hiro's own declaration precedes the Producer's request to share the dream again. Their coauthorship and initiative have concrete semantic support.
 
-Their comedy depends on shared recognition that the Producer is not merely tolerating Hiro's appetite for unreasonable tasks. He increasingly enjoys designing them. Hiro recognizes this and likes him for it. Their intimacy is built partly through being co-conspirators in pressure.
-
-At the same time, he controls information, opportunity, load, and the terms under which risk appears. Emotional reciprocity does not erase professional authority.
-
-**Current formulation:** shared dream and attraction — **STRENGTHEN**; equality claim — **DOWNGRADE**; ethical closure — **OPEN**.
+The carried trial's one-time-only proposal adds a stated production limit, while the fear/bad-liar exchange preserves ambiguity about its implementation. Earlier producer-controlled stakes and the acknowledged excess remain textually relevant. Emotional reciprocity, invitations and shared pleasure do not erase professional authority or settle the ethics of manufactured pressure (H-AV-006/017/020).
 
 ## Hiro ↔ China and Ume
 
-The Dear and `ガラクタロード` material shows Hiro sharing secrets with the other “Worst Three,” not merely using them as comparative data. Their reactions supply social friction that Hiro's Producer dyad alone cannot provide.
+The new H08 secret-sharing passage and H06 discrepant-readings context distinguish friendship from the Producer dyad. H07's invitation and H11's prank add purposeful social play. The carried Dear027 China interruption remains its own reaction sequence rather than decorative side art.
 
-The friend register matters because it makes Hiro's private motives narratable without turning Producer into the sole keeper of her personhood.
+These sources support the plurality of people to whom Hiro presents different information and gestures. They do not newly establish relative vocal loudness or a complete acoustic friend register.
 
 ## Hiro ↔ fans
 
-The visual and musical packet supports a transition from accidental fascination to accountable attraction. Fans may initially be “odd people” who like an odd idol, but Hiro increasingly treats their attention as something requiring craft.
+H07's public anticipation and H04's statement that power came from everyone support the route's relational account. H09 specifically concerns the Producer's shared dream; it should not be substituted for evidence of everyday fan work.
 
-The route does not make popularity evidence that all risk was worthwhile. It makes popularity one of the reasons risk can no longer be treated privately.
+The stronger thesis that audience attachment creates craft obligations remains grounded primarily in the textual corpus. The new survey and target points give local anchors but do not exhaust fan service, refusal, recovery or routine professional practice.
 
 ## Hiro ↔ Sena / institution
 
-Sena's `神格` recognition is validated as a useful category of charisma but rejected as a complete identity. Institutional language can recognize Hiro's nonmetric attraction, yet it also risks turning bodily precarity into elite mystique.
+Sena's instruction and admission of not knowing the technique bound the category `神格`. Her later instruction to stand and greet the audience, followed by Hiro's near-limit response, places institutional recognition beside continuing bodily constraint.
 
-The better institutional question is not “How do we exploit the miracle?” but “How do we build conditions in which the performer can continue producing distinctive work without requiring emergency as a permanent fuel source?”
-
----
+The institution can name and reward an exceptional moment without establishing a repeatable ordinary floor. That is why the victory supports the route-bounded rejection of stable conventional supremacy rather than making technical standards or production ethics irrelevant.
 
 # 7. Claim-transition ledger
 
-| Earlier claim | Transition | AV-grounded formulation |
-|---|---|---|
-| Hiro loves failure | **REVISE** | She loves resistance; attachment makes some failures genuinely painful and professionally unacceptable |
-| Bodily weakness is primarily a character gimmick | **REJECT** | It is a persistent material constraint and a source of performance form |
-| `神格` names Hiro's true essence | **DOWNGRADE** | It names one reception/performance mode generated by contrast and risk |
-| Hiro's music is avant-garde because of one composer | **REJECT** | Experimentalism is curated across several Hiro-specific works and creators |
-| Every Hiro performance is experimental | **REVISE** | Formal experimentalism is concentrated in authored repertoire; common songs reveal a quieter portable identity |
-| Crisis makes Hiro better | **STRENGTHEN** | Pressure can produce a concentrated peak state, but metrics and narrative do not justify indefinite escalation |
-| Hiro chose idolhood only because it was unsuitable | **REVISE** | Unsuitability was real, but `かわいくなりたかった` reveals an ordinary positive desire beneath the prepared answer |
-| Improvement normalizes Hiro | **REJECT** | Improvement creates expressive surplus while preserving distinctive mismatch |
-| Cute Hiro contradicts goddess Hiro | **REJECT** | Cute/social and distant/mystical modes are partial, compatible constructions |
-| Producer and Hiro are equal because they share the risk | **DOWNGRADE** | Emotional co-conspiracy coexists with institutional authority asymmetry |
-| Prima Stella proves stable conventional superiority | **REJECT** | It marks a bounded peak, `瞬間最大風速`, not a permanent floor |
-| `みちなるひろがる` is fully interpreted | **OPEN** | Performance forms are available; song-commu authorship remains missing |
+All twenty existing IDs were reviewed against the new evidence. The definitive per-claim account is [FULL_REBUILD_CLAIM_REVIEW.md](SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md), synchronized with the [evidence matrix](GKM_HIRO_AV_EVIDENCE_AND_METRICS_MATRIX.md).
 
----
+Current dispositions are **12 QUALIFIED, 2 REVISED, 4 SUPPORTED and 2 UNRESOLVED**. H-AV-002 changes from UNRESOLVED to REVISED because its visible/textual mechanism includes deliberate teasing and role-play. This is a change of claim formulation, not an upgrade of heard comedy. H-AV-013 remains REVISED with the existing shared-source correction and broader local paired imagery.
+
+SUPPORTED on H-AV-016/017/019 supports the rejection or downgrade of the original proposition; it does not assert stable supremacy, institutional equality or fan-edit chronology. H-AV-006 and H-AV-020 remain unresolved. The other twelve claims retain qualified status with specified fresh visual/textual facets and independent auditory, causal or longitudinal limits.
 
 # 8. Open questions
 
 1. Can Hiro learn to access concentration without Producer-manufactured emergency?
 2. How much of her custom repertoire's experimentalism is character direction, and how much is broader label strategy?
-3. Does a lawful full `みちなるひろがる` commu alter the China/Hiro reciprocity model?
+3. How does the already-accounted shared `みちなるひろがる` commu (AV-CHINA-010) refine the China/Hiro reciprocity model?
 4. How do live seiyuu performances translate the character's low-force physical grammar, and where must performer evidence remain separate from canon?
 5. Does later content give Hiro a sustainable ordinary professional floor, or continue to privilege peak miracle states?
 6. Can an institution admire `神格` without aestheticizing medical risk?
@@ -344,4 +256,32 @@ The better institutional question is not “How do we exploit the miracle?” bu
 
 # 9. Final formulation
 
-> **Hiro's audiovisual identity is the conversion of mismatch into resistant form. She does not become compelling by hiding the body that cannot easily do idol work, the voice that refuses ordinary projection, or the mind that originally treated failure as stimulation. She becomes compelling when those mismatches acquire craft, relation, and responsibility. Her experimental repertoire gives sonic dignity to nonfit; her acting makes underreaction expressive; her improvement makes awkwardness historical rather than exploitative; and her late fear makes the dream accountable. The result is not a conventionally perfect idol wearing an eccentric backstory. It is an idol whose form remains visibly negotiated—and whose audience is invited to love the negotiation without demanding endless harm as proof of authenticity.**
+Hiro's current audiovisual reading is strongest when it keeps distinct what the story says, what sampled images show, what the recording measurements describe and what the earlier listener inferred. The fresh packet adds concrete gesture, comic agency, graphic construction, relational framing and post-victory limitation. It supports plurality without a simple normalization story. Musical and vocal hypotheses remain qualified; crisis effectiveness does not close ethics, and the final promise does not establish a sustainable professional floor.
+
+# Prior execution record (retained)
+
+The following sections describe the earlier authorized execution, before this full toolkit rebuild. Their counts and unchanged-category statement are historical.
+
+## Prior authorized execution qualification
+
+- Source accounting: **33 existing Hiro source IDs** remain intact; the inherited numerical tables cover 33 source slots and 22 music records. Current byte/probe verification is separately enumerated in [execution source verification](SUPPORTING_DATA/EXECUTION_SOURCE_VERIFICATION.md).
+- H03 matches the supplied rebuild hash. The original-length H04 is now hashed/probed separately from the retained derivative. Every retained audio/video packet has matching payload and source-clock values, with zero mismatches; original/derivative prefix equivalence is resolved.
+- Direct visual/textual review: **529 distinct timestamps in 57 viewed contact sheets across all 33 source IDs**, including targeted H01/H03/H04-original/H09 passages and principal/common performance sequences; 21 frozen A1 scripts were retrieved and blob-verified. All Dear021–037 chapters have exact presence anchors; targeted claims have narrower passage locators.
+- Claim review: **20/20 existing claims**, with 12 QUALIFIED, 1 REVISED, 4 SUPPORTED, and 3 UNRESOLVED dispositions. The current review adds decisive counterpressure and precision without recasting inherited acoustic judgments as new listening.
+- Song-form tables retain their inputs, groups, and values. The undefined experimental composite remains retired. H23/H31 extreme RMS ratios and the affected common-group mean are explicitly qualified as silence/floor-sensitive artifacts.
+- The targeted visual/textual documentation is complete within its declared sampling boundary. Direct listening and continuous playback have not been performed by this reviewer; automated audio trials did not close that dependency. Freeform model judgments failed validation and were rejected; ASR remains a separately labeled locator aid.
+- China shared communication remains accounted for as **AV-CHINA-010**; no extra Hiro record or missing-source request is created.
+
+All unaffected analytical sections above are preserved. The new claim-review ledger identifies supported visual/textual facets and unresolved acoustic dependencies. The interpretation of resistant form is not derived from a new scalar ranking.
+
+## Prior authorized execution music/breadth refinement
+
+The prior execution's visual evidence covered every source ID at its declared sampling resolution: **529 distinct timestamps in 57 viewed sheets across 33 sources**. Detailed new observations, input hashes and every time pair are in [the music/breadth review](SUPPORTING_DATA/EXECUTION_MUSIC_AND_BREADTH_REVIEW.md).
+
+- H12 30–52, H15 60–82 and H17 120–142 s renew precise principal-performance staging differences; the sources are not a controlled developmental skill test.
+- H14 50–72, H24 100–122 and H32 40–62 s supply directly observed authored graphic/editorial changes. H25 30–52 s provides strong visual discontinuity in a common song, preventing visual novelty from becoming a proxy for a principal-only musical property.
+- H23 70–92 s and the H30/H31 samples renew plural compatible visible modes. Sung register and expressivity remain separate acoustic claims.
+- H28 139.055 s shows the two performers facing and reaching toward one another. H26's 20 samples show scenery, lyrics and titles/credits with no bodies at those points. Its historical duet-performance field remains intact, but it cannot supply the claimed visual distribution or choreography.
+- H13 samples remain derivative locators; similarity to an H12 stage image is not independently established canonical chronology. H16/H33 sampled cover images remain recording-level controls.
+
+At that prior stage, the 20 disposition categories stayed unchanged. Those added visual facets do not imply direct listening or a full continuous audiovisual re-performance of the historical pass.
