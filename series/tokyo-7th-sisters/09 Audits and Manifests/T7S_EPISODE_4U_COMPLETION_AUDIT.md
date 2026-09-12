@@ -4,7 +4,7 @@ artifact_id: T7S_EPISODE_4U_COMPLETION_AUDIT
 artifact_type: bounded_completion_audit
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,6 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 source_boundary: "c20260909-r484; complete category-qualified native Main EPISODE.4U / T7S_B0012–T7S_B0016 / all 22 primary episode documents; no authored choices; no KARAKURI or other later/non-Main story source"
 architecture_lifecycle: EVOLVING
+arc_deep_reading_status: PROMOTED_POST_CLOSEOUT
 validation_status: PASSED_LOCAL_AUTHOR_PREFLIGHT
 created: 2026-09-12
 last_updated: 2026-09-12
@@ -45,7 +46,7 @@ Five canonical readings preserve the unit's causal seams:
 - B0015: public grievance and Nanasta's collective decision;
 - B0016: collapse, dissolution, renewed choice, re-debut, and ordinary-life coda.
 
-The compact unit synthesis integrates those readings. No optional whole-unit arc deep reading is promoted: the bounded readings already carry the sustained formal argument, and a second long document would add duplication rather than an independent analytical home.
+The compact unit synthesis integrates those readings. At closeout, the optional whole-unit arc deep reading was withheld because the bounded readings already carried the local sustained arguments. A later owner-requested deletion review isolated an independent cross-block formal responsibility: the unit repeatedly stages endings that fail to make prior relations unreal and thereby relocates authenticity from permanence to accountable recurrence. [T7S_EPISODE_4U_ARC_DEEP_READING.md](../07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_4U_ARC_DEEP_READING.md) now owns that argument. This post-closeout promotion revises artifact routing only; it changes no source, coverage, causal, entity, current-claim, or modality state.
 
 After reconciliation, the longitudinal ledgers contain:
 
@@ -66,7 +67,7 @@ After reconciliation, the longitudinal ledgers contain:
 | Frozen predictions | 7 |
 | AV review records | 24 |
 
-Ume, Emoco, and Hina reach only `R2_STATE_BOUNDED`. No character model, monograph, relationship/unit synthesis, specialist synthesis, new arc deep reading, or full-series synthesis is promoted.
+Ume, Emoco, and Hina reach only `R2_STATE_BOUNDED`. No character model, monograph, relationship/unit synthesis, specialist synthesis, or full-series synthesis is promoted.
 
 ## Interpretive completeness test
 
@@ -102,3 +103,4 @@ EPISODE.KARAKURI is the next recommendation-visible Main unit and remains `NOT_S
 
 - 2026-09-12 — V1 / 1.0 provisional: define the exact EPISODE.4U completion set, analytical homes, modality boundary, no-duplicate-deep-reading decision, and staged publication gates.
 - 2026-09-12 — V1 / 1.1 canonical: reconcile the 22-source horizon and all ledger counters, then pass the stable-branch exact-index author preflight across 3,788 projected repository paths.
+- 2026-09-12 — V1 / 1.2 canonical: record the post-closeout promotion of `T7S_EPISODE_4U_ARC_DEEP_READING` for the independent serial-non-ending thesis, preserve every source, coverage, causal, entity, claim, and modality boundary, and pass the stable-branch exact-index author preflight across 3,789 projected repository paths.

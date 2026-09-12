@@ -4,7 +4,7 @@ artifact_id: T7S_EPISODE_4U_NARRATIVE_SYNTHESIS
 artifact_type: arc_era_narrative_synthesis
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: "T7S_B0012–T7S_B0016 / complete native Main EPISODE.4U"
 episode_ids: ["203000701", "203000702", "203000801", "203000802", "203000901", "203000902", "203001101", "203001102", "203001201", "203001202", "203001301", "203001302", "203001401", "203001402", "203001501", "203001502", "203001601", "203001602", "203001701", "203001702", "203001801", "203001802"]
@@ -22,7 +22,7 @@ authored_choice_groups: 0
 analysis_status: complete_bounded_story_unit_synthesis
 prospective_only: false
 retrospective_annotations: true
-optional_arc_deep_reading_status: NOT_PROMOTED_NOT_REQUIRED
+optional_arc_deep_reading_status: PROMOTED_POST_CLOSEOUT
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 created: 2026-09-12
@@ -37,7 +37,7 @@ EPISODE.4U is a complete 22-episode Main story unit whose central conflict is no
 
 The unit does not answer by promising that idols endure forever or by converting Ume into one. Haru accepts the possibility that public feeling lasts only a moment and that performers may later be hated. A momentary smile or transmitted force can still justify choosing the work again tomorrow. Emoco and Hina then end the band as Ume's anti-idol instrument; Ume asks them to begin it again as what all three want. The audience becomes a renewable “fourth member.” 4U survives not as an immortal object but as a repeated relation among three makers and whoever receives their music.
 
-This compact synthesis integrates [B0012](../02%20Readings/T7S_B0012_DEEP_READING.md), [B0013](../02%20Readings/T7S_B0013_DEEP_READING.md), [B0014](../02%20Readings/T7S_B0014_DEEP_READING.md), [B0015](../02%20Readings/T7S_B0015_DEEP_READING.md), and [B0016](../02%20Readings/T7S_B0016_DEEP_READING.md). The five readings already preserve the sustained formal and literary work at its causal seams. A second optional whole-unit deep reading would duplicate rather than add independent knowledge, so it is not promoted at this horizon.
+This compact synthesis integrates [B0012](../02%20Readings/T7S_B0012_DEEP_READING.md), [B0013](../02%20Readings/T7S_B0013_DEEP_READING.md), [B0014](../02%20Readings/T7S_B0014_DEEP_READING.md), [B0015](../02%20Readings/T7S_B0015_DEEP_READING.md), and [B0016](../02%20Readings/T7S_B0016_DEEP_READING.md). The five readings preserve the sustained formal and literary work at their causal seams. A post-closeout promotion review isolated a separate whole-arc responsibility: apparent endings repeatedly fail to produce nullity, shifting authenticity from permanence and pure origin toward accountable recurrence, renewed consent, and shared reception. That argument now lives in the [EPISODE.4U arc deep reading](T7S_EPISODE_4U_ARC_DEEP_READING.md). This compact synthesis remains causal/state authority; the promotion changes no source, coverage, ledger, or claim state.
 
 ## 1. Causal spine
 
@@ -186,3 +186,8 @@ No KARAKURI episode, later Main family, Sub/Event source, additional script, sup
 - [T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md](../03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md) — event, world, thread, and dependency state
 - [T7S_ENTITY_STATE_LEDGER.md](../03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md) — identities, knowledge, relationships, units, and readiness
 - [T7S_CLAIM_AND_EVIDENCE_LEDGER.md](../03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md) — claims, revisions, rivals, and modality limits
+
+## 14. Revision history
+
+- 2026-09-12 — V1 / 1.0: close the complete native Main EPISODE.4U unit through five bounded readings and retain the compact synthesis as causal/state authority; initially withhold an optional whole-arc reading under the no-duplication gate.
+- 2026-09-12 — V1 / 1.1: promote `T7S_EPISODE_4U_ARC_DEEP_READING` after a post-closeout deletion review isolates the independent formal argument about serial non-ending and accountable recurrence; preserve all source, coverage, causal, entity, claim, and modality state.
