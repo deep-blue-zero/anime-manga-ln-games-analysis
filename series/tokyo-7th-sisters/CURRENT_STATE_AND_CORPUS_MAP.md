@@ -4,16 +4,16 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "3.0"
+version: "4.0"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; exact 141-document recommendation prefix completing native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, and KARAKURI / T7S_B0001–T7S_B0024 / all eleven authored choice branches; no AXiS, later, or non-Main story source"
+source_boundary: "c20260909-r484; exact 183-document horizon completing native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, and EPISODE 3.0 / T7S_B0001–T7S_B0041 / all eleven authored choice branches; no AXiS, later, or non-Main story source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-12
+last_updated: 2026-09-14
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
@@ -36,14 +36,14 @@ project_initialization:
     - "09 Audits and Manifests/T7S_OPENING_PREREQUISITE_AUDIT.md"
   sequential_analysis_lock: open
 substantive_findings_at_bootstrap: false
-execution_scope: next_two_major_story_units_complete
+execution_scope: next_major_story_unit_complete
 sequential_execution:
-  latest_operation: T7S_NEXT_TWO_UNITS_CLOSE
+  latest_operation: T7S_EPISODE_3_0_CLOSE
   status: COMPLETED
-  authorized_continuation: "Complete next two major Main story units: EPISODE 2.0 / family 200060 and KARAKURI / family 200050, in recommendation ranks 114–141"
-  episode_ids: ["204001001", "204001002", "311100101", "311100102", "311100201", "311100202", "311100301", "311100302", "311100401", "311100402", "311100501", "311100502", "313300101", "313300102", "313300201", "313300202", "313300301", "313300302", "313300401", "313300402", "313300501", "313300502", "313300601", "313300602", "313300701", "313300702", "313300801", "313300802"]
-  script_ids: [legend_010_02.json__b1b2b4dbdad42bdc, legend_010_03.json__94635aeb1a19f25c, ing_101001_01.json__aee671176e8678c5, ing_101001_02.json__d5e94bf81d4ea1f8, ing_101002_01.json__3868bda37a4b3670, ing_101002_02.json__abce0b6bd9f5326d, ing_101003_01.json__eb9bf6206cc5c6fd, ing_101003_02.json__bc932834439006e3, ing_101004_01.json__ed5b0677209bdb3a, ing_101004_02.json__6163c67d943fabec, ing_101005_01.json__dbae138ddbf98f64, ing_101005_02.json__9aa3b9f92ea5795d, ing_103001_01.json__43692b487b77c975, ing_103001_02.json__6865a7d868127932, ing_103002_01.json__7e5c7ccc08b98c04, ing_103002_02.json__b6d61ab27b8e127c, ing_103003_01.json__9b751760e9c22485, ing_103003_02.json__cc39546930be1295, ing_103004_01.json__60416e02dec37448, ing_103004_02.json__785bb59a8e34675d, ing_103005_01.json__6f6219c871343d4a, ing_103005_02.json__9ef8b9a1700987f0, ing_103006_01.json__04c231933e3cf52b, ing_103006_02.json__7b2ee79f1e3d25b8, ing_103007_01.json__b2a472c2f6d5c570, ing_103007_02.json__116bfb0b754bcc77, ing_103008_01.json__47182d09137e1f61, ing_103008_02.json__b06a250e45fd5b23]
-  committed_high_water: "recommendation rank 141 / episode 313300802"
+  authorized_continuation: "Complete the next numbered major Main story unit: EPISODE 3.0 / family 200070, after owner correction distinguished numbered-family succession from recommendation-table adjacency"
+  episode_ids: ["611100101", "611100102", "611100201", "611100202", "611100301", "611100302", "611100401", "611100402", "611100501", "611100502", "611100601", "611100602", "611100701", "611100702", "611100801", "611100802", "611100901", "611100902", "611101001", "611101002", "611101101", "611101102", "611101201", "611101202", "611101301", "611101302", "611101401", "611101402", "611101403", "611101404", "611101501", "611101502", "611101503", "611101504", "611101601", "611101602", "611101603", "611101604", "611101701", "611101702", "611101703", "611101704"]
+  script_ids: [ing3_101001_01.json__854e3970d910a247, ing3_101001_02.json__f40155e4c9840d18, ing3_101002_01.json__7bf458b71b5a9eb8, ing3_101002_02.json__64c295309156a35d, ing3_101003_01.json__e512d9c27164bf2b, ing3_101003_02.json__b6f2c97c60ced25c, ing3_101004_01.json__916513554faa133c, ing3_101004_02.json__19272d0ae770332f, ing3_101005_01.json__47f74b8a7cfd4b0e, ing3_101005_02.json__c825f4be8eee86f6, ing3_101006_01.json__7f59fb406e04ea47, ing3_101006_02.json__5fe55b2e4c176f05, ing3_101007_01.json__44ad091d4b012f9e, ing3_101007_02.json__45c439eb528518de, ing3_101008_01.json__eab22ed01ba5a128, ing3_101008_02.json__1d5f64c991210242, ing3_101009_01.json__2cc0cc67018a9e92, ing3_101009_02.json__24f77f18796147f2, ing3_101010_01.json__cf068674bbb96ca8, ing3_101010_02.json__c48d8bf839c445ba, ing3_101011_01.json__3b1a18690e714d74, ing3_101011_02.json__158e2470d83a3a2d, ing3_101012_01.json__0d54f04995eeb0c4, ing3_101012_02.json__362290e00cbfbe15, ing3_101013_01.json__dc909ba2ec38f022, ing3_101013_02.json__47485ddb7f31e358, ing3_101014_01.json__df3aa1cf5dc827d7, ing3_101014_02.json__565af99feb4d2d46, ing3_101014_03.json__d148f5920662628d, ing3_101014_04.json__edba975bc3f42f24, ing3_101015_00.json__a28f58d570bf8ceb, ing3_101015_01.json__c91d4640e8c15248, ing3_101015_02.json__d5edf63cbd8b3bb2, ing3_101015_03.json__797dadda8880d887, ing3_101016_00.json__c1b304506c1a057e, ing3_101016_01.json__d9f526c3e5f8285b, ing3_101016_02.json__7588cd94f7c1260f, ing3_101016_03.json__a4ffaf7514637a30, ing3_101017_00.json__2f5c66674298185c, ing3_101017_01.json__730f1148f6549100, ing3_101017_02.json__38871865ab0c3837, ing3_101017_03.json__2bcbc3961329cf15]
+  committed_high_water: "native EPISODE 3.0 family through chapter 017 / episode 611101704; combined admitted horizon 183 documents"
   next_candidate_episode_id: "711100101"
   next_candidate_family_layer_id: "200080"
   next_candidate_status: METADATA_ONLY_NOT_AUTHORIZED
@@ -51,7 +51,7 @@ sequential_execution:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**The opening-prerequisite audit remains satisfied, `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, and the complete native Main EPISODE 2.0 and KARAKURI units are the latest recoverable checkpoints after EPISODE.4U.** T7S_B0017–T7S_B0024 close recommendation ranks 114–141: both KARAKURI prologue documents, all ten EPISODE 2.0 documents, and the remaining sixteen KARAKURI documents. The next AXiS candidate is metadata-only. This is the sole current entrypoint for `series/tokyo-7th-sisters/`. The branch implements approved specification 1.1, including independent character reconstruction readiness and multimodal monograph maturity, and remains `EVOLVING`. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
+**The opening-prerequisite audit remains satisfied, `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, and complete native Main EPISODE 3.0 is the latest recoverable checkpoint after EPISODE 2.0/KARAKURI.** T7S_B0025–T7S_B0041 close all 42 documents in family `200070` by qualified native chapter order. This corrects the earlier operational mistake of equating AXiS's next recommendation-table row with the next numbered major unit; no AXiS story page has been opened. This is the sole current entrypoint for `series/tokyo-7th-sisters/`. The branch implements approved specification 1.1, including independent character reconstruction readiness and multimodal monograph maturity, and remains `EVOLVING`. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
 
 ## Governing and cumulative homes
 
@@ -91,6 +91,23 @@ sequential_execution:
 | KARAKURI media/origin deep reading | [T7S_B0022_DEEP_READING.md](02%20Readings/T7S_B0022_DEEP_READING.md) |
 | KARAKURI festival/reconstitution deep reading | [T7S_B0023_DEEP_READING.md](02%20Readings/T7S_B0023_DEEP_READING.md) |
 | KARAKURI bathhouse epilogue deep reading | [T7S_B0024_DEEP_READING.md](02%20Readings/T7S_B0024_DEEP_READING.md) |
+| EPISODE 3.0 distributed-Nanasta deep reading | [T7S_B0025_DEEP_READING.md](02%20Readings/T7S_B0025_DEEP_READING.md) |
+| EPISODE 3.0 WITCH NUMBER 4 drama deep reading | [T7S_B0026_DEEP_READING.md](02%20Readings/T7S_B0026_DEEP_READING.md) |
+| EPISODE 3.0 SiSH form deep reading | [T7S_B0027_DEEP_READING.md](02%20Readings/T7S_B0027_DEEP_READING.md) |
+| EPISODE 3.0 Musubi/Susu care deep reading | [T7S_B0028_DEEP_READING.md](02%20Readings/T7S_B0028_DEEP_READING.md) |
+| EPISODE 3.0 Sanbon Ribbon renewal deep reading | [T7S_B0029_DEEP_READING.md](02%20Readings/T7S_B0029_DEEP_READING.md) |
+| EPISODE 3.0 Haru/Kajika friendship deep reading | [T7S_B0030_DEEP_READING.md](02%20Readings/T7S_B0030_DEEP_READING.md) |
+| EPISODE 3.0 Kyoko/Idag access deep reading | [T7S_B0031_DEEP_READING.md](02%20Readings/T7S_B0031_DEEP_READING.md) |
+| EPISODE 3.0 Queen of Purple deep reading | [T7S_B0032_DEEP_READING.md](02%20Readings/T7S_B0032_DEEP_READING.md) |
+| EPISODE 3.0 Ume/Emoco friendship deep reading | [T7S_B0033_DEEP_READING.md](02%20Readings/T7S_B0033_DEEP_READING.md) |
+| EPISODE 3.0 KARAKURI privacy deep reading | [T7S_B0034_DEEP_READING.md](02%20Readings/T7S_B0034_DEEP_READING.md) |
+| EPISODE 3.0 Citrus deep reading | [T7S_B0035_DEEP_READING.md](02%20Readings/T7S_B0035_DEEP_READING.md) |
+| EPISODE 3.0 Sakura/Seven Sisters deep reading | [T7S_B0036_DEEP_READING.md](02%20Readings/T7S_B0036_DEEP_READING.md) |
+| EPISODE 3.0 CASQUETTE'S deep reading | [T7S_B0037_DEEP_READING.md](02%20Readings/T7S_B0037_DEEP_READING.md) |
+| EPISODE 3.0 Tomoe/seven-person formation deep reading | [T7S_B0038_DEEP_READING.md](02%20Readings/T7S_B0038_DEEP_READING.md) |
+| EPISODE 3.0 Kazumi love-song deep reading | [T7S_B0039_DEEP_READING.md](02%20Readings/T7S_B0039_DEEP_READING.md) |
+| EPISODE 3.0 Jeda/local-stage deep reading | [T7S_B0040_DEEP_READING.md](02%20Readings/T7S_B0040_DEEP_READING.md) |
+| EPISODE 3.0 Ei/Saori/spirit deep reading | [T7S_B0041_DEEP_READING.md](02%20Readings/T7S_B0041_DEEP_READING.md) |
 | EPISODE 1.0 narrative synthesis | [T7S_EPISODE_1_0_NARRATIVE_SYNTHESIS.md](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_NARRATIVE_SYNTHESIS.md) |
 | EPISODE 1.0 whole-arc literary/formal interpretation | [T7S_EPISODE_1_0_ARC_DEEP_READING.md](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md) |
 | EPISODE.4U narrative synthesis | [T7S_EPISODE_4U_NARRATIVE_SYNTHESIS.md](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_4U_NARRATIVE_SYNTHESIS.md) |
@@ -99,6 +116,8 @@ sequential_execution:
 | EPISODE 2.0 whole-arc literary/formal interpretation | [T7S_EPISODE_2_0_ARC_DEEP_READING.md](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_2_0_ARC_DEEP_READING.md) |
 | KARAKURI narrative synthesis | [T7S_KARAKURI_NARRATIVE_SYNTHESIS.md](07%20Arc%20and%20Era%20Synthesis/T7S_KARAKURI_NARRATIVE_SYNTHESIS.md) |
 | KARAKURI whole-arc literary/formal interpretation | [T7S_KARAKURI_ARC_DEEP_READING.md](07%20Arc%20and%20Era%20Synthesis/T7S_KARAKURI_ARC_DEEP_READING.md) |
+| EPISODE 3.0 narrative synthesis | [T7S_EPISODE_3_0_NARRATIVE_SYNTHESIS.md](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_3_0_NARRATIVE_SYNTHESIS.md) |
+| EPISODE 3.0 whole-arc literary/formal interpretation | [T7S_EPISODE_3_0_ARC_DEEP_READING.md](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_3_0_ARC_DEEP_READING.md) |
 | Bootstrap provenance, checks and gate history | [T7S_BOOTSTRAP_AND_GATE_RECORD.md](09%20Audits%20and%20Manifests/T7S_BOOTSTRAP_AND_GATE_RECORD.md) |
 | Bounded opening-prerequisite decision and limits | [T7S_OPENING_PREREQUISITE_AUDIT.md](09%20Audits%20and%20Manifests/T7S_OPENING_PREREQUISITE_AUDIT.md) |
 | EPISODE 1.0 completion proof | [T7S_EPISODE_1_0_COMPLETION_AUDIT.md](09%20Audits%20and%20Manifests/T7S_EPISODE_1_0_COMPLETION_AUDIT.md) |
@@ -107,6 +126,8 @@ sequential_execution:
 | Next-two-units prerequisite decision | [T7S_NEXT_TWO_UNITS_PREREQUISITE_AUDIT.md](09%20Audits%20and%20Manifests/T7S_NEXT_TWO_UNITS_PREREQUISITE_AUDIT.md) |
 | EPISODE 2.0 completion proof | [T7S_EPISODE_2_0_COMPLETION_AUDIT.md](09%20Audits%20and%20Manifests/T7S_EPISODE_2_0_COMPLETION_AUDIT.md) |
 | KARAKURI completion proof | [T7S_KARAKURI_COMPLETION_AUDIT.md](09%20Audits%20and%20Manifests/T7S_KARAKURI_COMPLETION_AUDIT.md) |
+| EPISODE 3.0 prerequisite decision | [T7S_EPISODE_3_0_PREREQUISITE_AUDIT.md](09%20Audits%20and%20Manifests/T7S_EPISODE_3_0_PREREQUISITE_AUDIT.md) |
+| EPISODE 3.0 completion proof | [T7S_EPISODE_3_0_COMPLETION_AUDIT.md](09%20Audits%20and%20Manifests/T7S_EPISODE_3_0_COMPLETION_AUDIT.md) |
 
 ## Source and analytical coverage
 
@@ -116,15 +137,15 @@ Reader-facing Latin spelling follows first-party evidence: **Coney Rokusaki** in
 
 | Scope | Inventoried | Semantically screened | Factually reconstructed | Closely analyzed | Integrated state |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Main | 364 | 141 | 141 | 141 | 141 |
+| Main | 364 | 183 | 183 | 183 | 183 |
 | Sub | 755 | 0 | 0 | 0 | 0 |
 | Event | 231 | 0 | 0 | 0 | 0 |
 | Additional scripts | 228 | 0 | 0 | 0 | 0 |
 | Supplemental records | 30,991 | 0 | 0 | 0 | 0 |
 
-The consumed Main frontier is the exact 141-document recommendation prefix: complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, and KARAKURI. It includes `{201000001, 201000101–201000109, 201000201–201000209, 201000301–201000309, 201000401–201000409, 201000501–201000509, 201000601–201000609, 201000701–201000709, 201000801–201000809, 201000901–201000909, 201001001–201001009, 203000701–203000702, 203000801–203000802, 203000901–203000902, 203001101–203001102, 203001201–203001202, 203001301–203001302, 203001401–203001402, 203001501–203001502, 203001601–203001602, 203001701–203001702, 203001801–203001802, 204001001–204001002, 311100101–311100502, 313300101–313300802}` with the chapter-defined gaps inside those compact numeric ranges resolved by the coverage ledger. Every other Main line plus all Sub/Event/additional/supplemental frontiers remain `NOT_STARTED`.
+The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, and EPISODE 3.0. It includes the prior 141-document recommendation prefix plus all 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` with chapter-defined numeric gaps resolved by the coverage ledger. EPISODE 3.0 is admitted by native family/chapter order because recommendation records place it discontinuously; it is not represented as a fabricated contiguous recommendation extension. Every other Main line plus all Sub/Event/additional/supplemental frontiers remain `NOT_STARTED`.
 
-Across B0001–B0024 the repository now contains 24 bounded deep readings, four compact unit narrative syntheses, four promoted arc deep readings, 135 causal events, eight world states, eighteen threads, 137 typed edges, 34 bounded identity routes, 27 character states, 43 epistemic states, 118 directional relationship states, twelve unit/institution states, seventeen R2 readiness decisions, 180 literary claims, fourteen revisions, seven frozen predictions, fourteen completed bounded visual reviews, and fourteen queued performed-voice/music reviews. It creates no character model, monograph, relationship/unit synthesis, specialist synthesis, or full-series synthesis. Native 2034/2053 grouping, recommendation order, release chronology, diegetic time, and analytical family grouping stay separate.
+Across B0001–B0041 the repository now contains 41 bounded deep readings, five compact unit narrative syntheses, five promoted arc deep readings, 186 causal events, eleven world states, twenty-two threads, 172 typed edges, 51 bounded identity routes, 39 character states, 50 epistemic states, 132 directional relationship states, eighteen unit/institution states, seventeen retained R2 readiness decisions, 265 literary claims, eighteen revisions, seven frozen predictions, thirty bounded AV-review records, and performed-voice/music work still queued. It creates no character model, monograph, relationship/unit synthesis, specialist synthesis, or full-series synthesis. Native 2034/2053 grouping, recommendation order, release chronology, diegetic time, and analytical family grouping stay separate.
 
 ## Exposure and next operation
 
@@ -132,7 +153,7 @@ Earlier preservation/design work exposed labels, small technical dialogue exampl
 
 OPA-0001 added native recommendation and tutorial metadata, a bounded client routing check and official publication paratext. Its web search also incidentally exposed synopsis/card snippets and track titles, quarantined from the decision. These exposures do not count as completed semantic screening or establish character knowledge; carry them into future entering-exposure records.
 
-Together B0001–B0024 consume every primary document in the native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, and KARAKURI families: 141 episodes, 8,735 pages/logs, 8,152 text records, and 583 command-only pages in recommendation-prefix order. The eleven choice-bearing episodes are all in EPISODE 1.0 and retain both authored branches; the other three units have no authored choice group. EPISODE 2.0 contributes 10 episodes / 1,162 pages / 1,076 text / 86 command-only / 855 voice references; KARAKURI contributes 18 / 1,804 / 1,620 / 184 / 1,338. Category-sharing Sub episodes remain excluded. The immutable database SHA-256 was reverified. Selected static assets include Susu's letter tears; KARAKURI's fused hologram, distinct solo/apology/bath bodies, and two differently patterned bowls. Fourteen bounded visual review sets are complete. Voice files were not audibly reviewed, and relevant songs/lives are elided, so performed-voice, singing, and technical music claims remain queued and non-load-bearing. Static body-plus-face geometry is recoverable; full runtime placement, transitions, effects, timing, camera behavior, and continuous movement were not reconstructed.
+Together B0001–B0041 consume every primary document in the native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, and EPISODE 3.0 families: 183 episodes, 16,702 pages/logs, 14,945 text records, 1,757 command-only pages, and 11,976 native voice-reference pages. The eleven choice-bearing episodes are all in EPISODE 1.0 and retain both authored branches; the other four units have no authored choice group. EPISODE 3.0 contributes 42 episodes / 7,967 pages / 6,793 text / 1,174 command-only / 5,601 voice references. Category-sharing Sub episodes remain excluded. The immutable database SHA-256 was reverified. Representative EPISODE 3.0 reconstruction covers Sakura's faceless closing body, Tomoe's mud-covered body/expression, and the separate visible Ei/Saori stage bodies; these four composites support only the recorded static claims. Voice files were not audibly reviewed, and relevant songs/lives are elided, so performed-voice, singing, and technical music claims remain queued and non-load-bearing. Static body-plus-face geometry is recoverable; full runtime placement, transitions, effects, timing, camera behavior, and continuous movement were not reconstructed.
 
 The [B0001 reading](02%20Readings/T7S_B0001_DEEP_READING.md) finds that the opening converts Seven Sisters' ending into a mandate for non-replicative renewal: the Player moves from searching for a “second Seven Sisters” to accepting work toward a new, present-born idol form. The [B0002 reading](02%20Readings/T7S_B0002_DEEP_READING.md) shows Haru recovering choice by separating loved practice from a coercive idol institution. Her voluntary return advances Nanasta to one performer but does not excuse Coney's deceptive recruitment; the Player's fraud objection, cleaner-only offer, candid disclosure, and request for consent remain ethically material. Haru's recognition, the stage/resource switch, Coney's leader autobiography, and “skilled manager” remark make Coney≈Nicole the strongest bounded explanation, while literal denial, unresolved machine identity, and Player ignorance remain distinct facts. The [B0003 reading](02%20Readings/T7S_B0003_DEEP_READING.md) shows that Musubi cultivated “perfection” because achievement preserved others' approval while she hid ordinary appetite and a love of singing. Haru helps her test the fear of disappointment and invites her as a friend; Musubi then chooses Nanasta, giving it a second performer. That later consent does not authorize earlier forced songs/costume, and the final live disclosure leaves Nanasta's protection of her privacy unresolved. The [B0004 reading](02%20Readings/T7S_B0004_DEEP_READING.md) finds that Nicole imitation first gave Rona courage and belonging, then became an exclusive standard that erased her own value. Haru's specific testimony helps her recognize that “Tsunomori Rona” already supports others, while Coney preserves Nicole as aspiration but refuses to manufacture a copy. Rona joins and debuts as Nanasta's third current performer, although one costume accident immediately reactivates her categorical self-disqualification; Coney's concealed identity and Rona's mistaken recruitment premise also remain ethically unresolved.
 
@@ -162,11 +183,15 @@ The [three EPISODE 2.0 readings](02%20Readings/T7S_B0018_DEEP_READING.md) move f
 
 The [five KARAKURI readings](02%20Readings/T7S_B0017_DEEP_READING.md) follow Hitoha and Futaba from fused mediated challenge through empty-victory disclosure, Dr. Serge origin, media coercion, separate solos, renewed joint song, named adult praise, and domestic tomorrow. The [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_KARAKURI_NARRATIVE_SYNTHESIS.md) owns causal/person-state closeout. The [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_KARAKURI_ARC_DEEP_READING.md) separately shows that the machine is both imposed apparatus and appropriated survival: individuation need not mean abandonment, togetherness need not mean interchangeability, and chosen connection need not become a puppeteer's thread. Idol conversion and twin separation are explicitly rejected as solutions.
 
+The [seventeen EPISODE 3.0 readings](02%20Readings/T7S_B0025_DEEP_READING.md) move from Nanasta's dispersed schedules through subunit, band, friendship, historical Seven Sisters, coercive-industry, local-stage, and supernatural-labor cases. Their causal state is integrated by the [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_3_0_NARRATIVE_SYNTHESIS.md): people can take one another's tasks, return solo intelligence to a group, permit privacy or possible exit, and provide accompaniment without thereby becoming substitutes for one another. The promoted [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_3_0_ARC_DEEP_READING.md) independently owns the formal argument of **composition without substitution**, organized through the recurrent “space beside.” Its counterarchive is equally important: fixed-camera legibility, compulsory smiles, imitation, secret capture, invasive rescue, romantic possession, sponsorship retaliation, and spirit possession all try to make relation work by replacing a person's terms with an externally useful form. Deleting the arc reading would erase this cross-block formal result; the compact synthesis remains the navigational and causal-state instrument.
+
+B0036 is explicitly historical: it recounts Sakura's encounter with Seven Sisters after the referenced `SEVENTH HAVEN` work and before dissolution, without fixing its exact position relative to the last-live recording. Exact visual reconstruction shows a faceless silhouette with no expression layer at Sakura's closing thanks; absence of a depicted smile is supported, but neither a smile nor an unsmiling facial expression is positively shown. Tomoe's mud-covered composite and Ei/Saori's separately visible bodies support their bounded static arguments. No voice asset was listened to.
+
 There is **no authorized next story operation after this closeout**. Native recommendation metadata identifies EPISODE 4.0 AXiS family layer `200080`, beginning with episode `711100101` (`紅い宴`) at rank 142, as the next candidate; its story text remains unopened. A future operation must first establish new owner authorization, recheck current authority and source binding, and perform prospective dependency review. Later Main, prequel, Sub/Event, additional, and supplemental sources remain outside the current story boundary. Metadata-only awareness is not story consumption.
 
 Use `BOUNDED_STANDARD` for source/locator checks, `SUBSTANTIVE_ANALYSIS` for normal bounded readings and ledger updates, `DEEP_SYNTHESIS` for mature integration/reconstruction, and justified `PREMIUM_QUALITY_FIRST` for propagation-sensitive adversarial/final work. Stable classes do not hard-code a product or model mapping.
 
-No optional artifact is created merely for symmetry. The architecture documents promotion triggers for readings, characters, relationships/units, specialists, arc deep readings, arc/era narrative synthesis and full-series work. EPISODE 1.0 passes for its cross-block renewal-without-replacement argument; EPISODE.4U for serial non-ending and accountable recurrence; EPISODE 2.0 for the independent image-to-address/captured-authenticity argument; and KARAKURI for the machine/thread/two-person/tomorrow argument. In each case the compact synthesis remains the causal/state instrument and the whole-arc reading passes only because deletion would remove a non-substitutable formal result. Length and symmetry supply no authority. Monographs may earn a textual home before audiovisual review, but `MONOGRAPH_MATURE` requires representative visual and performed-voice review, integrated argument and passing fidelity audit independently of R0–R5.
+No optional artifact is created merely for symmetry. The architecture documents promotion triggers for readings, characters, relationships/units, specialists, arc deep readings, arc/era narrative synthesis and full-series work. EPISODE 1.0 passes for renewal without replacement; EPISODE.4U for serial non-ending and accountable recurrence; EPISODE 2.0 for image-to-address/captured authenticity; KARAKURI for machine/thread/two-person/tomorrow; and EPISODE 3.0 for composition without substitution and the recurrent space beside. In each case the compact synthesis remains the causal/state instrument and the whole-arc reading passes only because deletion would remove a non-substitutable formal result. Length and symmetry supply no authority. Monographs may earn a textual home before audiovisual review, but `MONOGRAPH_MATURE` requires representative visual and performed-voice review, integrated argument and passing fidelity audit independently of R0–R5.
 
 ## Revision history
 
@@ -187,3 +212,4 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-09-12 — V1 / 2.4: close all 22 native Main EPISODE.4U episodes as T7S_B0012–T7S_B0016; synchronize exact coverage and causal/entity/claim state; reconstruct eleven exact native-offset 4U composites; publish the compact unit synthesis and prerequisite/completion audits; retain performed-audio and runtime-staging limits; and stop before metadata-only KARAKURI candidate `204001001`.
 - 2026-09-12 — V1 / 2.5: promote the EPISODE.4U arc deep reading after a post-closeout deletion review isolates its independent serial-non-ending and accountable-recurrence thesis; preserve all source, coverage, causal, entity, claim, modality, and KARAKURI boundary state.
 - 2026-09-12 — V1 / 3.0: admit recommendation ranks 114–141; close complete EPISODE 2.0 and KARAKURI as T7S_B0017–T7S_B0024; publish both compact syntheses, both deletion-tested arc deep readings, and prerequisite/completion audits; synchronize exact source, coverage, causal, entity, claim, and modality state; and stop before metadata-only AXiS episode `711100101`.
+- 2026-09-14 — V1 / 4.0: distinguish next recommendation row from next numbered major story unit; close all 42 native Main EPISODE 3.0 documents as T7S_B0025–T7S_B0041; publish the compact synthesis and deletion-tested composition-without-substitution arc reading; reconcile source, coverage, causal, entity, claim, and representative static-visual state; preserve unreviewed audio and B0036's recounted chronology; and stop before unopened AXiS.
