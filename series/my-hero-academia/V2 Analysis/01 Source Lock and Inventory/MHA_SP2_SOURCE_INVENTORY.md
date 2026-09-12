@@ -4,7 +4,7 @@ artifact_type: source_inventory
 scope: FULL_SERIES
 generation: V2
 status: active_provisional
-source_boundary: Google Drive MHA primary-source root; main Japanese tankobon sequence V01-V42 confirmed complete, supplemental boundary not yet frozen
+source_boundary: Japanese main tankobon sequence V01-V42 confirmed complete; owner-selected UA, UAN and UAG EPUB objects separately locked and reconciled; exhaustive franchise supplement inventory remains provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -42,6 +42,18 @@ do_not_use_as_current_authority: false
 
 
 # MHA SP2 — Primary Source Inventory
+
+## Current supplemental admission — 2026-09-10
+
+The owner has admitted three Japanese EPUBs for a bounded supplemental reconciliation: **Ultra Archive (UA), Ultra Analysis (UAN), and Ultra Age (UAG)**. The [supplemental source lock](MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md) identifies their exact filenames/hashes and the [spine map](MHA_SP2_SUPPLEMENTAL_SPINE_MAP.tsv) resolves every original page. These user-authorized local originals are preferred over the earlier UA/UAN CBZ objects. The first two EPUBs are not uniformly larger in pixel dimensions than the CBZs; edition and image quality must be assessed separately. Calibre-compatible copies are reading derivatives of these originals, not independent corroborating sources.
+
+The three named source objects are closed for this pass. UA, UAN and UAG now have complete page accounting with explicit source limits: [UA audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ARCHIVE_PARATEXT_AUDIT.md), [UAN audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ANALYSIS_PARATEXT_AUDIT.md), [UAG audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_AGE_PARATEXT_AUDIT.md). Cross-book character and analytical reconciliation is complete within this exact boundary; the [all-subject character audit](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) and [impact audit](../08%20Audits%20and%20Manifests/MHA_SP2_SUPPLEMENTAL_RECONCILIATION_IMPACT_AUDIT.md) record decisions, current-home integration and limits. This does not freeze an exhaustive all-franchise source inventory or reopen V01–V42. The historical Drive inventory and source-lock rule below retain their broader original scope. Existing volume locks and exclusions from sequential narrative are unchanged. Volume-embedded paratext remains a separate coverage question, not evidence declared worthless.
+
+## Current source-admissibility correction — continuation
+
+The completed Japanese main-volume inventory is V01–V42. Supplemental inventory remains provisional. The continuation used the user-authorized local originals read-only and SHA-256 locked all 42 CBZs; all 12 supplied handoff locks match. These locks identify bytes, not a claim that this continuation re-read every page. See the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) for hashes and explicit inspection ranges.
+
+Two archive conventions require care: V31's extra `0002.png` makes the cited logical story page pNNN correspond to numeric raw filename NNN+1; its narrative ends logical p213/raw 0214, followed by logical p214–225/raw 0215–0226. V36 stores facing pages: raw image i has right p(2i−2) and left p(2i−1). Chapter/author matter inside otherwise narrative ranges remains excluded. In particular V37:p148 and V42:p144–145 are paratext. V27's current admissible endpoint contains Tokoyami's arrival only; extraction belongs to V28:p060–077. Historical inventory records below retain their dated wording and are governed by these current corrections.
 
 
 
@@ -372,8 +384,8 @@ This satisfies the complete main-source requirement for the planned sequential V
 
 
 
-- V01–V36 — analyzed canonically in V2
-- V37–V42 — source accessible; sequential reading pending
+- V01–V42 — complete canonical V2 sequential main-manga reread; final narrative endpoint `V42:p183`.
+- Supplemental inventory — still `active_provisional`; it does not reopen the completed main-volume sequence.
 
 
 
@@ -778,7 +790,7 @@ For each volume:
 2. inspect original Japanese pages directly;
 3. extract/contact-sheet only as needed for the current analysis pass;
 4. preserve page/source locators in the canonical deep-reading artifact;
-5. persist analytical/ledger outputs to the V2 analytical Drive tree;
+5. persist analytical/ledger outputs to the canonical V2 Git tree under current repository governance;
 6. treat local CBZ/extracted images as disposable and refetch later when primary-source re-verification is required.
 
 
@@ -995,6 +1007,9 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Chapter starts: No.259 `p006`; No.260 `p024`; No.261 `p042`; No.262 `p060`; No.263 `p080`; No.264 `p100`; No.265 `p120`; No.266 `p140`; No.267 `p160`.
 - Narrative endpoint: `V27:p180`; `V27:p181-190` are character/assistant/advertising/publication/digital/back-cover material.
 - Prospective endpoint: Twice is dead; Tokoyami is extracting the critically burned Hawks; Dabi's reader-withheld identity disclosure, Shigaraki procedure outcome, Mirko/Hawks long-term status, broader raid result, Best Jeanist truth and later OFA developments remain V28+.
+
+**Current correction:** the preceding historical endpoint’s extraction clause is superseded. `V27:p179` is arrival only; extraction is `V28:p060–077` (excluding portrait `p062`). No completed extraction belongs to the V27 prospective lock. See the [source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
+
 - Handling: fetched temporarily for source-grounded review; canonical raw source remains in Google Drive.
 
 # Volume 28 source verification
@@ -1049,7 +1064,7 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Sequential scope: Chapters No.296-306.
 - Chapter starts: No.296 `p007`; No.297 `p027`; No.298 `p047`; No.299 `p067`; No.300 `p087`; No.301 `p105`; No.302 `p123`; No.303 `p143`; No.304 `p159`; No.305 `p177`; No.306 `p194`.
 - Narrative endpoint: **`V31:p213`**.
-- `V31:p214-226` are promotional/publication/digital/advertising/cover matter.
+- `V31:p214-225` (raw numeric files 0215–0226) are promotional/publication/digital/advertising/cover matter; no logical p226 image exists.
 - Prospective endpoint: Midoriya has left U.A. after disclosing OFA to Class 1-A; later solo-operation coordination, second/third-holder details, Shigaraki/AFO completion, Toya-family confrontation, Tartarus-escapee roles and public-institutional stabilization remain V32+ OPEN.
 - Handling: fetched temporarily for source-grounded review; canonical raw source remains in Google Drive.
 
@@ -1077,7 +1092,7 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Topology **202 JPEG + ComicInfo.xml**; Japanese/right-to-left; Chapters No.329-339.
 - Canonical deep reading: `MHA_SP2_V34_DEEP_READING.md`, Drive `13_hEns9FZh0dLI3DwbXnsN0GVPDGdWe-`, 84,099 bytes, SHA-256 `a6a5381762f5c939318931de42dd6ee83b0e5174632ab5139f7d6ff8e70b0938`.
 - Narrative endpoint **`V34:p190`**; `p191-202` non-sequential material; `p175` publication paratext.
-- At the V34 closeout, the next source was Volume 35; Volume 35 is now verified below and Volume 36 is current next.
+- At the V34 closeout, the next source was Volume 35; Volume 35 was subsequently verified below and Volume 36 was then next; the operative boundary is the current analysis boundary above.
 
 # Volume 35 source verification
 
@@ -1094,7 +1109,7 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Prospective endpoint: the segmented second decisive battle has begun; Shoto/Dabi, Toga/Uraraka, Midoriya's return, floating-U.A./Shigaraki, AFO/Endeavor-Hawks, Spinner mobilization and all final-war outcomes remain V36+ OPEN.
 - Handling: fetched temporarily for source-grounded review; canonical raw source remains in Google Drive.
 
-**Current sequential source high-water mark:** V01-V37 complete. **Next sequential source:** Volume 38 (`My Hero Academia - Vol. 38 [Japanese].cbz`, Drive `16WiqmDzbtYeAqt7_7tHmbtFm3KhRApEa`).
+**Historical V37 source high-water mark:** V01-V37 complete. **Then-next sequential source:** Volume 38 (`My Hero Academia - Vol. 38 [Japanese].cbz`, Drive `16WiqmDzbtYeAqt7_7tHmbtFm3KhRApEa`).
 
 
 # Volume 36 source verification
@@ -1174,5 +1189,34 @@ A Drive fetch does not need to duplicate the volume into ChatGPT File Library.
 - Prospective endpoint: external AFO/Rewind body has died/disappeared before reaching Shigaraki; Bakugo is alive and has completed the AFO intervention but is exhausted; All Might has survived the predicted death point with longer medical outcome open; Shigaraki continues independently and has closed on Midoriya; `危機感知` is the explicit unresolved endpoint state. Exact Danger Sense consequence and all V41+ outcomes remain OPEN.
 - Handling: fetched temporarily for source-grounded review; canonical raw source remains in Google Drive.
 
-**Current sequential source high-water mark:** V01-V40 complete. **Next sequential source:** Volume 41 (`My Hero Academia - Vol. 41 [Japanese].cbz`, Drive `1q6pj0t6mP59pOsywt8p58H3VWz2l52X_`).
+**Historical V40 source high-water mark:** V01-V40 complete. **Then-next sequential source:** Volume 41 (`My Hero Academia - Vol. 41 [Japanese].cbz`, Drive `1q6pj0t6mP59pOsywt8p58H3VWz2l52X_`).
 
+
+## Volume 41 verified source state
+
+- Canonical source: `My Hero Academia - Vol. 41 [Japanese].cbz`
+- Drive ID: `1q6pj0t6mP59pOsywt8p58H3VWz2l52X_`
+- Size: **104,293,245 bytes**
+- SHA-256: `236c8ee8546dcc4c2007a9ffedced6e3489f1d0a2f721cea0d89b5dc75220700`
+- Archive topology: **209 JPEG logical pages + `ComicInfo.xml`**.
+- Sequential chapters: **No.411-No.422**.
+- Narrative start: **`V41:p005`**.
+- Narrative endpoint: **`V41:p195`**.
+- `V41:p196+` is publication/end/extra matter and does not extend sequential authority.
+- Chapter 419 substantive title/start is `V41:p129` (`DESIGN`); `p128` is chapter-adjacent illustration/lead matter.
+- Prospective endpoint: Midoriya has reached a final V41 strike through distributed support; AFO is under attack; final AFO/Shigaraki/Tenko state, permanent OFA status and postwar outcome remain V42+ OPEN.
+- Handling: fetched temporarily/read-only for source-grounded review; canonical raw source remains in Google Drive.
+
+**Historical V41 source high-water mark:** V01-V41 complete. **Then-next sequential source:** Volume 42 (`My Hero Academia - Vol. 42 [Japanese].cbz`; Drive `1HiFWIMVIizGLbqlfVmK1xvTSwA3Rqi9O`, metadata verified during this reconciliation).
+
+
+# Volume 42 source verification and main-manga closure
+
+- Source: `My Hero Academia - Vol. 42 [Japanese].cbz`; Drive `1HiFWIMVIizGLbqlfVmK1xvTSwA3Rqi9O`.
+- Size **89,885,814 bytes**; SHA-256 `969bd3ca1df7cea2f2e6e2aae16eae77c4717d82c09f7ee372f22a5d195b86c3`.
+- Archive topology **193 JPEG pages + ComicInfo.xml**, Japanese/right-to-left, logical page equals JPEG number.
+- Main narrative chapter sequence **423–431**, encompassing `V42:p005-p183`. `p145` is authorial paratext, `p184+` publication/end matter; `p144` and other identified credits/interstitials within the encompassing interval also remain non-event evidence.
+- All pages in the encompassing sequence were viewed directly during reconciliation; the Primary Source Locator and V42 audit distinguish narrative from paratext.
+- V41 cumulative synchronization was committed first; V42 reading, checkpoint and cumulative closure follow that verified state.
+
+**Main-volume source and canonical sequential reread: V01–V42 complete.** No next main volume is pending. Supplemental enumeration/edition closure remains outside this completed main-manga scope and retains the inventory's `active_provisional` authority state.

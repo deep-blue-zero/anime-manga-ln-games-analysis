@@ -5,8 +5,8 @@ ledger_type: theme_and_motif
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 thematic evidence through EVENT_0084; ordinary co-creation, reciprocal care, partial efficacy and object-mediated warmth strengthened; no new motif ID"
-analysis_cutoff: "EVENT_0084 thematic integration within I2 refinement; newest theme remains TH-N25-034 from EVENT_0077; other-unit comparisons deferred"
+source_boundary: "N25 themes through EVENT_0090; technique-expression and context-limited creative communication refined; no new recurring ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
+analysis_cutoff: "EVENT_0090 I2 thematic refinement; broader comparison awaits founded longitudinal interpretation; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 thematic authority reaches **EVENT_0084**, strengthening ordinary co-creation, reciprocal care, partial efficacy and object-mediated warmth alongside prior findings. EVENT_0082/0083 required no governing thematic revision; no new recurring motif ID is added. `TH-N25-034` remains the newest theme from EVENT_0077; EVENT_0070 established `TH-N25-032` and EVENT_0072 `TH-N25-033`. Earlier summaries are historical handoffs; no N25 theme becomes franchise-wide solely through this cutoff. Other-unit foundations and 21 older universal screens remain unfinished.
+N25 thematic authority reaches **EVENT_0090**, operationalizing `TH-N25-032`'s technique-expression relation and qualifying `TH-N25-003`'s use of art as psychological evidence with dialogue and reception context. No new recurring motif/theme ID is added; `TH-N25-034` remains the newest theme from EVENT_0077. Preserve EVENT_0089's first-person authority, usable choice, reciprocal warmth, partial efficacy and contested refuge refinements, and all earlier ID-qualified meanings. Leo/need routed history and 19 older universal screens remain unfinished; this event does not certify a franchise-wide theory.
 
 The imported history reuses several identifiers for distinct meanings. Preserve those historical IDs, but cite each ambiguous use with its **section title and source event**. A bare repeated ID is insufficient evidence routing. The following resolver preserves the distinct responsibilities without merging their claims:
 
@@ -31,6 +31,28 @@ The imported history reuses several identifiers for distinct meanings. Preserve 
 | `MO-N25-014` | §12.7 souvenir/commemorative object, EVENT_0029; §12.21 sakura/shared experience, EVENT_0054 |
 
 New references must resolve the intended meaning from the local formulation and evidence, never infer it from the repeated ID alone. This is a citation-integrity clarification, not a new thematic finding or a rewrite of the historical source boundaries.
+
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history after EVENT_0004, the 19 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
+
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. Remaining non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+
+
+Wonderlands×Showtime's [six-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) is integrated through `wonder_01_20`: tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`, group `REL-WXS-MS-G-P06`, knowledge `EPI-WXS-MS-P06`. Preserve coercive appointment and pursuit alongside subsequent separate assent, Nene's continuing fear and mediated competence, Tsukasa's enduring grandiose register within revised purpose, Rui's distinct artistic choice and Emu's reported family/material conditions. Wonderland Miku/KAITO remain separate manifestations. All five human-unit main-story foundations are complete. Material routed histories, 19 earlier universal-screen gaps and reconstruction/synthesis obligations remain pending; forward EVENT_0091 does not advance.
+
+
+Historical EVENT_0001 is now fully integrated by scope: Leo/need I2, WxS/MMJ I1, N25/VBS documentary I0. The [shared event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns the main causal account. All human tuples and the established human-group topology are retained; event-qualified characterization, bounded relationships, separate knowledge, seven existing claim increments plus LN-CR-011, and four existing theme refinements are appended below. Exact confession hearing, partial card chronology and unshown future outcomes remain limited. Existing later N25/cross-unit evidence keeps its own temporal scope. Nineteen older universal screens remain pending; historical EVENT_0005 is next unresolved, while forward EVENT_0091 remains unchanged. Leo/need's EVENT_0002 route is also integrated as specified below; no mature reconstruction readiness is certified.
+
+Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusing the existing complete 22-story N25 reading and targeted Honami evidence. The [Honami integration checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) preserves all P04 human defaults and EVENT_0001 refinements, supplements the existing Kanade–Honami relationship, and records bounded knowledge separately. N25's existing EVENT_0002 I3 and its later defaults remain valid at their own cutoffs; MMJ/VBS/WxS are NONE / documentary I0. Nineteen older universal screens remain pending, with EVENT_0005 next after retained EVENT_0004. This closes LN's EVENT_0002 responsibility without advancing forward EVENT_0091 or certifying mature reconstruction readiness.
+
+Historical EVENT_0003 is now fully integrated across its relevant founded scopes: **WXS I3** on Rui's operative self-knowledge transition, **LEO_NEED I1** for Saki's bounded household exchange, and MMJ/VBS/N25 NONE / I0. The [event reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) reuses the complete 26-story discovery and preserves all four WxS P06 humans/company plus LN P04 humans/group. I3 rests on Rui acquiring and retaining a usable distinction between fear-linked restraint and deliberate safety work; unchanged human IDs do not erase that epistemic transition. Specific relationship/character I2 and ordinary I1 increments remain separate, as do source recipients and uncertain future outcomes. EVENT_0004's source correction and original N25 I2 remain intact; all its founded unit interpretations are integrated below. Nineteen older source-screen gaps start at EVENT_0005. Forward next EVENT_0091 and mature reconstruction/synthesis requirements are unchanged.
+
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Targeted founded interpretation has now closed the sparse MMJ/WXS/LN/VBS detail; the complete EVENT4 dispositions are recorded below. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS EVENT_0003 I3 and LN I1 are integrated; forward EVENT_0091 is unchanged.
+
+Historical EVENT_0004 is now fully integrated across its founded unit scopes: **MMJ I3**, **WXS I3**, **LEO_NEED I2**, **VBS I1**, and **N25 I2 preserved** with the earlier area009 I1 supplement. The [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) close the previously sparse non-active-unit detail through targeted evidence review. The retained complete discovery plus omitted area comprises 27 stories / 53 scenes / 1,433 records; no new universal pass is claimed. Haruka–Emu friendship and Haruka's continuing class access support I3; Saki's informed reliance implements her existing approach at I2. All human/group defaults remain, with differentiated ordinary, relationship and knowledge increments. Shared records have one reconciled EVENT4 entry per responsibility. Wonderland participants remain distinct from other manifestations. Nineteen historical screening gaps start at EVENT_0005; forward next EVENT_0091 and mature reconstruction/synthesis obligations remain unchanged.
 
 ## 1. Purpose and caution
 
@@ -1231,3 +1253,512 @@ Shizuku's perfection/effort history, Airi's tea interests, Hinomori childhood co
 - **`MO-N25-001` / warmth: bounded additional recurrence.** Len's anticipatory warmth, Kanade's gentle associations and later direct candle sensation join prior warmth evidence. Emotional response, figurative warmth and sensory description remain distinguishable (`PJSK:card:0587:01:001:0039–0053`; `PJSK:event:0084:06:001`; `PJSK:card:0587:02:001:0036–0046`). Scent/candle/memory is a developed local event pattern, not a newly certified franchise-wide recurring motif. Ichika's future memory hope remains in the deferred Leo/need route (`PJSK:event:0084:08:003`).
 
 Bought gifts, handmade gifts, recipient pleasure and maker pleasure are not ranked by one universal sincerity test. Mafuyu's queued recommendation, Ena's self-presentation plus care and distinct later use responses resist that shortcut (`PJSK:event:0084:07:003:0010–0028`; `PJSK:card:0585:02:001:0021–0063`). Aroma effects remain situated reports, not independently established therapeutic claims. No new theme/motif ID. Broader comparative conclusions await other unit foundations and deferred-route consumption; latest human-state transition remains EVENT_0072. Next EVENT_0085.
+
+## EVENT_0089 thematic integration — care can disagree about the person it serves
+
+- **`TH-N25-001` / first-person authority and `TH-N25-034` / usable choice: REFINE.** Kanade discovers that communicating distress can be absorbed into an adult’s preferred interpretation instead of changing the plan. Her remembered mother instead values the child’s own wanted life. Ena’s assertion advice, KAITO’s demand for resistance and Kanade’s protective secrecy each face their own limits (`PJSK:event:0089:05:002`; `PJSK:event:0089:05:003`; `PJSK:event:0089:06:002`; `PJSK:event:0089:08:002`). No helper becomes an infallible substitute author of Mafuyu.
+- **`MO-N25-001` / warmth-coldness: STRENGTHEN.** Courteous cafe hospitality coexists with Kanade’s coldness; received tea later warms her and supplies an image of what she wants to give. Restaurant company and music offer Mafuyu explicitly experienced relief. Kanade’s recalled marionette links current interpretation to an earlier symbol, but remains her interpretation (`PJSK:card:0612:02:001:0021–0063`; `PJSK:event:0089:05:001`; `PJSK:card:0616:02:001:0036–0065`). Warmth is not a recovery certificate.
+- **`TH-N25-003` / creative work and `TH-N25-025` / partial support: STRENGTHEN.** Shared work restores Kanade’s compositional concentration; preserving a return-place restores Ena’s momentum; Mafuyu’s listening turns into lyric authorship. The circle’s relational function cannot be assumed equivalent to isolated musical recreation (`PJSK:card:0612:01:001:0054–0082`; `PJSK:card:0613:02:001:0046–0075`; `PJSK:card:0616:02`).
+- **`MO-N25-007`, established non-demanding-refuge extension: REVISE uniformity.** Empty SEKAI now houses conflicting support practices. Mafuyu can seek rest while checking that KAITO is absent; Rin/Len defend her freedom there. KAITO himself considers another approach after confronting the limits of his initial demand (`PJSK:area:areatalk_ev_night_12_002:01`; `PJSK:card:0615:02:001:0039–0054`). Neither comfort nor confrontation receives an automatic verdict for all situations.
+- **`TH-N25-014` / ordinary-life expansion without cure: STRENGTHEN.** Needed art supplies, genuine anime/fashion interest, retail-work discussion, food help, blouse teasing and a reported finished picture book preserve lived companionship alongside the crisis (`PJSK:card:0613:01`; `PJSK:card:0614:01`; `PJSK:card:0614:02`; `PJSK:area:areatalk_ev_night_12_001:01`; `PJSK:event:0089:02:004:0002–0005`). No future shopping trip or distinct book-loan completion is inferred.
+
+The event’s discord is an enacted disagreement over meaning and access; the title does not by itself establish a technical or universal symbolic theory. No new recurring motif ID or premature cross-unit synthesis. Current N25 thematic boundary EVENT_0089; next EVENT_0090.
+
+## EVENT_0090 thematic refinement — the intended feeling selects the representation
+
+- **`TH-N25-032`: REFINE.** Ena can correct some literal/technical properties and intentionally alter others in service of the wanted warmth. Subject-led choice and continued practice extend the existing integration of skill and self-authored value; neither technical perfection nor rejection of technique follows (`PJSK:card:0621:01:001:0004–0039`; `PJSK:card:0621:02:001:0002–0011`; `PJSK:card:0621:02:001:0026–0044`).
+- **`TH-N25-003`: STRENGTHEN with interpretation limits.** Ena articulates peaceful company through a sketch and receives that reading, while recognizing a shared viewing context. Shiho initially admires an intense sound without knowing its cause; later dialogue supports a more specific interpretation. Work can communicate feeling without granting transparent access to every private motive (`PJSK:event:0090:05:001:0002–0028`; `PJSK:event:0090:06:002:0034–0077`; `PJSK:event:0090:07:001:0002–0049`; `PJSK:card:0621:02:001:0026–0044`).
+
+The fish pair is Ena's chosen local image of peaceful company, not an established real pairing, fixed N25 character map or guarantee of permanent togetherness. Nene's nonliteral acting advice is a useful deferred comparison, but no pedagogical transmission from Yukihira to Nene is shown. Painful effort is not uniquely authentic: excellent café singing and a joyful session remain valid, while later An material preserves continuing pressure and concealment. Existing theme responsibilities suffice; no new recurring motif or final comparative synthesis. Next EVENT_0091.
+
+## Leo/need main-story foundation — serial phase history
+
+Each record below is valid only at its named phase endpoint and preserves earlier states as historical evidence. Phase-end snapshots can preserve or newly disclose a property; they do not automatically assert a new durable personality. Source confidence is HIGH for the indicated support, with unshown transmission and future durability OPEN. Shared causes remain in the linked reading. Main-story family observations/reports do not advance another unit or confer private SEKAI knowledge. No later event evidence, I0–I3 release judgment or reconstruction readiness is imported.
+
+`LN-TH-*` is unit-local foundation authority with cross-event and cross-unit validation pending. Each recurrence/refinement below retains its earlier scene function; no symbolic code or franchise-wide theme is certified.
+
+### LN-MS-P01 — episodes 00–03
+
+Source and causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P01_DEEP_READING.md). The following records resolve theme and motif responsibility only.
+
+#### LN-TH-001
+
+**Prior:** No founded LN motif entry.
+
+**NEW:** Stars mark shared past and separately continuing attachment; parallel attention does not transmit knowledge. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:001:0021`; `PJSK:main:leo_01_00:01:007:0047`; `PJSK:main:leo_01_00:01:007:0064`; HIGH.
+
+### LN-MS-P02 — episodes 04–08
+
+Source and causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P02_DEEP_READING.md). The following records resolve theme and motif responsibility only.
+
+#### LN-TH-001
+
+**Prior:** Earlier LN-TH-001 remains valid within its phase.
+
+**STRENGTHEN:** Honami links unseen stars to absent companions; this is private interpretation, not ordinary-world emotional control of the sky. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_08:01:002:0005`; `PJSK:main:leo_01_08:01:002:0006`; HIGH.
+
+#### LN-TH-002
+
+**Prior:** No founded LN motif entry.
+
+**NEW:** Creative practice converts care into available action when complete reunion is unavailable. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:004:0022`; `PJSK:main:leo_01_07:01:001:0055`; HIGH.
+
+### LN-MS-P03 — episodes 09–11
+
+Source and causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P03_DEEP_READING.md). The following records resolve theme and motif responsibility only.
+
+#### LN-TH-001
+
+**Prior:** Earlier LN-TH-001 remains valid within its phase.
+
+**STRENGTHEN:** Shared roof/star memory motivates reunion; Shiho’s mistaken airplane preserves uncertainty about hoped-for signs. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:003:0014`; `PJSK:main:leo_01_10:01:001:0053`; `PJSK:main:leo_01_10:01:001:0061`; HIGH.
+
+#### LN-TH-003
+
+**Prior:** No founded LN motif entry.
+
+**NEW:** Serious collaboration combines work, mutual care and informed choice of association. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_11:01:001:0005`; `PJSK:main:leo_01_11:01:001:0014`; `PJSK:main:leo_01_11:01:001:0055`; HIGH.
+
+### LN-MS-P04 — episodes 12–20
+
+Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P04_DEEP_READING.md). The following records resolve theme and motif responsibility only.
+
+#### LN-TH-001
+
+**Prior:** Earlier LN-TH-001 remains valid within its phase.
+
+**STRENGTHEN:** Stars become shared pleasure, ordinary-world continuity and collaborative band-name symbolism. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_18:01:003:0011`; `PJSK:main:leo_01_20:01:001:0004`; `PJSK:main:leo_01_20:01:005:0021`; HIGH.
+
+#### LN-TH-002
+
+**Prior:** Earlier LN-TH-002 remains valid within its phase.
+
+**STRENGTHEN:** After feelings-derived needLe, Ichika’s lyrics for Saki’s melody make ordinary creative labor a concrete future. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_19:01:001:0064`; `PJSK:main:leo_01_20:01:005:0025`; HIGH.
+
+#### LN-TH-003
+
+**Prior:** Earlier LN-TH-003 remains valid within its phase.
+
+**STRENGTHEN:** Serious practice persists after friendship repair; no standard-free utopia or proven professional future. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_19:01:001:0028`; `PJSK:main:leo_01_20:01:005:0030`; HIGH.
+
+#### LN-TH-004
+
+**Prior:** No founded LN motif entry.
+
+**NEW:** Reciprocal repair must include both speaker’s wish and recipient’s answer; renunciation and accusation have limits. **Reason for this record:** Keep symbolic function tied to the scene’s causal and epistemic role, not a universal code.
+
+**Evidence / confidence:** `PJSK:main:leo_01_14:01:005:0021`; `PJSK:main:leo_01_15:01:003:0005`; `PJSK:main:leo_01_17:01:001:0029`; `PJSK:main:leo_01_19:01:001:0026`; HIGH.
+
+## Vivid BAD SQUAD main-story foundation — serial phase history
+
+All records below are bounded to their named phase and internal transition time. HIGH confidence identifies source-supported interpretation, not proof of unshown thought or future durability. The phase reading owns shared causes; each ledger retains only its responsibility. Earlier history remains valid when a successor becomes the later default. No other-unit private knowledge or later-event state is imported. The main-story ending does not establish reconstruction readiness.
+
+These are recurring unit-local foundation interpretations; cross-event and franchise-wide validation remain pending.
+
+### VBS-MS-P01 — episodes 00–04
+
+Causal/evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P01_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-TM-DOOR
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Literal café threshold organizes chosen approach under fear; later symbolic elaboration not yet known.
+
+**Evidence:** `PJSK:main:street_01_02:01:004:0015`; `PJSK:main:street_01_02:01:004:0016`. Confidence: HIGH.
+
+#### VBS-TM-COMPANIONS
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** RAD WEEKEND is transmitted as collective creation through mutual help and conflict.
+
+**Evidence:** `PJSK:main:street_01_04:01:002:0018`; `PJSK:main:street_01_04:01:002:0027`. Confidence: HIGH.
+
+### VBS-MS-P02 — episodes 05–08
+
+Causal/evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P02_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-TM-AUTHENTICITY
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Resolve as an evaluative standard competes with unfinished, relationally acquired aspiration.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0027`; `PJSK:main:street_01_08:01:004:0016`. Confidence: HIGH.
+
+### VBS-MS-P03 — episodes 09–13
+
+Causal/evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P03_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-TM-DOOR
+
+**Prior:** Literal threshold.
+
+**REFINE:** MEIKO/Miku make next-door choice explicit; Kohane decides and returns.
+
+**Evidence:** `PJSK:main:street_01_11:01:003:0016`; `PJSK:main:street_01_11:01:003:0028`; `PJSK:main:street_01_11:01:003:0056`. Confidence: HIGH.
+
+#### VBS-TM-AUTHENTICITY
+
+**Prior:** Competing standards.
+
+**REFINE:** Self-owned desire supports fearful action; the same standard also becomes Toya self-exclusion.
+
+**Evidence:** `PJSK:main:street_01_13:01:005:0021`; `PJSK:main:street_01_13:01:005:0046`. Confidence: HIGH.
+
+### VBS-MS-P04 — episodes 14–20
+
+Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P04_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-TM-COMPANIONS
+
+**Prior:** Collective precedent narrated by An.
+
+**REFINE:** Four enact companion formation through conflict, repair and joint song; Ken closing observation returns to earlier account.
+
+**Evidence:** `PJSK:main:street_01_20:01:004:0038`; `PJSK:main:street_01_20:01:004:0040`. Confidence: HIGH.
+
+#### VBS-TM-PRESENT-CHOICE
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Current desire and reciprocal work revise a permanently disqualifying origin story; material family conflict not declared solved.
+
+**Evidence:** `PJSK:main:street_01_19:01:001:0019`; `PJSK:main:street_01_19:01:001:0029`; `PJSK:main:street_01_19:01:001:0047`. Confidence: HIGH.
+
+## MORE MORE JUMP! main-story foundation — serial phase history
+
+Records are valid at their named phase boundary and preserve earlier ignorance, interrupted repair and historically valid states. A preserved human ID receives refinement without an automatic global transition. Source confidence is HIGH for the supported interpretation; unshown transmission, broader durability and future outcomes remain OPEN. Shared causes belong to each phase reading. These are historical main-story defaults, not replacements for later cross-unit states or certification of character readiness.
+
+Theme/motif entries are foundation-local recurrence with cross-event and cross-unit validation pending. The blue audience view remains attributed and ontologically limited.
+
+### MMJ-MS-P01 — through `PJSK:main:mmj_01_04:01`
+
+Causal and evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P01_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-001
+
+**Prior:** No MMJ theme
+
+**Bounded state / claim:** NEW: hope received becomes renewed action, apology, application, practice and request for help.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:001:0032–0041`; `PJSK:main:mmj_01_04:01:001:0004–0018`. Confidence: HIGH.
+
+### MMJ-MS-P02 — through `PJSK:main:mmj_01_08:01`
+
+Causal and evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P02_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-002
+
+**Prior:** No MMJ theme
+
+**Bounded state / claim:** NEW: professional visibility and imposed categories conceal unequal losses and expose comparison.
+
+**Evidence:** `PJSK:main:mmj_01_05:01:002:0008–0013`; `PJSK:main:mmj_01_07:01:004:0019–0040`; `PJSK:main:mmj_01_08:01:002:0002–0019`. Confidence: HIGH.
+
+#### MMJ-MOTIF-001
+
+**Prior:** No MMJ motif
+
+**Bounded state / claim:** NEW local motif: blue audience sea as remembered stage view and lost connection, ontology unspecified.
+
+**Evidence:** `PJSK:main:mmj_01_06:01:001:0052–0069`. Confidence: HIGH.
+
+### MMJ-MS-P03 — through `PJSK:main:mmj_01_12:01`
+
+Causal and evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P03_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-003
+
+**Prior:** No MMJ theme
+
+**Bounded state / claim:** NEW: accountable reciprocal recognition restores vocation/partnership without repairing the former institution.
+
+**Evidence:** `PJSK:main:mmj_01_11:01:002:0030–0062`; `PJSK:main:mmj_01_12:01:001:0010–0041`. Confidence: HIGH.
+
+### MMJ-MS-P04 — through `PJSK:main:mmj_01_18:01`
+
+Causal and evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P04_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-001
+
+**Prior:** MMJ-TH-001 P01
+
+**Bounded state / claim:** REVISE/STRENGTHEN: desire and helpful hope require limits, recipient evidence and received support; obligation alone can immobilize.
+
+**Evidence:** `PJSK:main:mmj_01_15:01:001:0030–0055`; `PJSK:main:mmj_01_18:01:002:0063–0101`. Confidence: HIGH.
+
+#### MMJ-MOTIF-001
+
+**Prior:** MMJ-MOTIF-001 P02
+
+**Bounded state / claim:** STRENGTHEN recurring local sequence: spectator recollection -> changed vantage -> supported shared view. Exact all-light ontology OPEN.
+
+**Evidence:** `PJSK:main:mmj_01_16:01:001:0036–0077`; `PJSK:main:mmj_01_18:01:002:0036–0052`; `PJSK:main:mmj_01_18:01:002:0094–0101`. Confidence: HIGH.
+
+### MMJ-MS-P05 — through `PJSK:main:mmj_01_20:01`
+
+Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P05_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-TH-004
+
+**Prior:** No MMJ theme
+
+**Bounded state / claim:** NEW: membership and value are distinct from audition certification; collective help makes unequal competence usable.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0002–0018`; `PJSK:main:mmj_01_20:01:001:0051–0064`. Confidence: HIGH.
+
+#### MMJ-TH-003
+
+**Prior:** MMJ-TH-003 P03
+
+**Bounded state / claim:** STRENGTHEN reciprocal care becomes named group and negotiated everyday address.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0027–0064`; `PJSK:main:mmj_01_20:01:001:0065–0091`. Confidence: HIGH.
+
+## Wonderlands×Showtime main-story foundation — serial phase history
+
+The following snapshots preserve knowledge and interpretation at each named boundary. Phase-indexed human IDs retain operational snapshots, including refinements and revelations; a new phase ID does not by itself claim an event-level durable transition. No later source enters an earlier snapshot. Source-observed acts and disclosed histories carry HIGH confidence; qualified psychological inference is MODERATE. Shared causal interpretation belongs to each phase reading. These histories do not replace later cross-unit records or certify character-package readiness.
+
+### WXS-MS-P01 — through `wonder_01_04`
+
+Causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P01_DEEP_READING.md).
+
+#### TH-WXS-MS-P01
+
+**Prior:** No WXS main-story motif chain. **Operation:** APPEND_SCOPE_BOUNDED.
+
+Prestige and marginal stage; inaccessible purpose versus continuing care; promise as bounded clue. Wonderland Miku and KAITO only; no general VS psychology or ontology synthesized.
+
+**Evidence:** `PJSK:main:wonder_01_00:01:001:0001–0017`; `PJSK:main:wonder_01_00:01:003:0011–0030`; `PJSK:main:wonder_01_01:01:004:0024–0036`; `PJSK:main:wonder_01_02:01:002:0041–0044`.
+
+**OPEN:** Emu's promise remains unidentified; no grandfather/finance import.
+
+### WXS-MS-P02 — through `wonder_01_08`
+
+Causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P02_DEEP_READING.md).
+
+#### TH-WXS-MS-P02
+
+**Prior:** TH-WXS-MS-P01. **Operation:** APPEND_SCOPE_BOUNDED.
+
+A stage accommodates different roles and mediated participation; collective naming incorporates several contributors. Wonderland Miku and KAITO only; no general VS psychology or ontology synthesized.
+
+**Evidence:** `PJSK:main:wonder_01_07:01:001:0004–0014`; `PJSK:main:wonder_01_07:01:001:0058–0065`; `PJSK:main:wonder_01_08:01:003:0023–0044`.
+
+**OPEN:** Robot protective-distance function is supported inference, not yet complete fear biography.
+
+### WXS-MS-P03 — through `wonder_01_11`
+
+Causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P03_DEEP_READING.md).
+
+#### TH-WXS-MS-P03
+
+**Prior:** TH-WXS-MS-P02. **Operation:** APPEND_SCOPE_BOUNDED.
+
+Creative pleasure and labor coexist with risk, unequal exposure and unresolved success criteria. Wonderland Miku and KAITO only; no general VS psychology or ontology synthesized.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:001:0026–0043`; `PJSK:main:wonder_01_11:01:001:0005–0038`; `PJSK:main:wonder_01_11:01:001:0046–0064`.
+
+**OPEN:** Rehearsal confidence cannot certify public outcome or safety.
+
+### WXS-MS-P04 — through `wonder_01_14`
+
+Causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P04_DEEP_READING.md).
+
+#### TH-WXS-MS-P04
+
+**Prior:** TH-WXS-MS-P03. **Operation:** APPEND_SCOPE_BOUNDED.
+
+Technical disruption and relational collapse have separate causes; small recipient-focused play redefines star worth. Wonderland Miku and KAITO only; no general VS psychology or ontology synthesized.
+
+**Evidence:** `PJSK:main:wonder_01_12:01:001:0030–0064`; `PJSK:main:wonder_01_13:01:001:0012–0046`; `PJSK:main:wonder_01_14:01:002:0006–0042`; `PJSK:main:wonder_01_14:01:002:0059–0088`.
+
+**OPEN:** Recovery of purpose is not completed repair or rejection of ambition.
+
+### WXS-MS-P05 — through `wonder_01_18`
+
+Causal home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P05_DEEP_READING.md).
+
+#### TH-WXS-MS-P05
+
+**Prior:** TH-WXS-MS-P04. **Operation:** APPEND_SCOPE_BOUNDED.
+
+Everyone includes performers and the helper herself; support work, grief and institutional conditions gain explicit form; alchemist fiction enables but does not guarantee persuasion. Wonderland Miku and KAITO only; no general VS psychology or ontology synthesized.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0014–0042`; `PJSK:main:wonder_01_16:01:002:0064–0078`; `PJSK:main:wonder_01_17:01:001:0019–0028`; `PJSK:main:wonder_01_18:01:003:0031–0066`.
+
+**OPEN:** Ethically mixed pursuit/transport must remain visible despite later assent. Fictional alchemist statements are not transparent universal biography.
+
+### WXS-MS-P06 — through `wonder_01_20`
+
+Causal home: [P06 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP_READING.md).
+
+#### TH-WXS-MS-P06
+
+**Prior:** TH-WXS-MS-P05. **Operation:** APPEND_SCOPE_BOUNDED.
+
+Shared song recognizes collective contribution while retaining stated Tsukasa-origin feelings; repeated labor and publicity secure local survival; continuation accommodates distinct aims. Wonderland Miku and KAITO only; no general VS psychology or ontology synthesized.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:001:0004–0026`; `PJSK:main:wonder_01_20:01:002:0002–0024`; `PJSK:main:wonder_01_20:01:002:0026–0046`.
+
+**OPEN:** No watched-music-video, heard-voice, permanent security or identical-ambition claims.
+
+## Historical EVENT_0001 — ordered unit integration
+
+The [event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns shared causal interpretation. **Leo/need I2; WxS/MMJ I1; N25/VBS I0.** Preserve all prior phase and later-event histories in their own periods. The following records are EVENT_0001-qualified; source confidence is HIGH for observed dialogue and bounded testimony, while duration, absent-side knowledge and unshown outcomes remain OPEN. Retaining a human state does not erase new relationship or knowledge evidence.
+
+### `LN-TH-001` — EVENT_0001
+
+**Prior responsibility:** LN-TH-001@P04. Earlier formulations remain valid at their own cutoffs.
+
+Stars and preserved memories extend existing functions: rain prompts remembered separation; the group makes a star activity together; photos/old pressed flowers make time revisitable without a weather-emotion law.
+
+**Evidence:** `PJSK:event:0001:01:001:0003–0020`; `PJSK:event:0001:01:002:0006–0017`; `PJSK:event:0001:01:005:0014–0016`; `PJSK:event:0001:07:003:0002–0030`; `PJSK:event:0001:08:001:0002–0010`; `PJSK:event:0001:08:002:0001–0028`; `PJSK:event:0001:08:002:0035–0062`; `PJSK:card:0112:02:001:0002–0029`; `PJSK:card:0113:02:001:0002–0011`; `PJSK:card:0113:02:002:0002–0034`.
+
+**Interpretive consequence:** Extend established phase chain; no duplicate symbolic code. **Limits / OPEN:** Local function only; no cross-unit/global motif authority.
+
+### `LN-TH-002` — EVENT_0001
+
+**Prior responsibility:** LN-TH-002@P04. Earlier formulations remain valid at their own cutoffs.
+
+Creative work and practical initiative keep companionship actionable; rhythm support, planetarium organization and paced planning refine existing labor/care responsibility.
+
+**Evidence:** `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:event:0001:08:001:0002–0010`; `PJSK:event:0001:08:002:0001–0028`; `PJSK:event:0001:08:002:0035–0062`; `PJSK:card:0109:02:002:0003–0042`.
+
+**Interpretive consequence:** Extend established phase chain; no duplicate symbolic code. **Limits / OPEN:** Local function only; no cross-unit/global motif authority.
+
+### `LN-TH-003` — EVENT_0001
+
+**Prior responsibility:** LN-TH-003@P04. Earlier formulations remain valid at their own cutoffs.
+
+Serious collaboration can adapt tempo, rhythm and schedule while retaining standards and bodily care; no standard-free or professional-success conclusion.
+
+**Evidence:** `PJSK:event:0001:03:001:0002–0049`; `PJSK:event:0001:05:001:0002–0058`; `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:card:0111:02:003:0002–0022`.
+
+**Interpretive consequence:** Extend established phase chain; no duplicate symbolic code. **Limits / OPEN:** Local function only; no cross-unit/global motif authority.
+
+### `LN-TH-004` — EVENT_0001
+
+**Prior responsibility:** LN-TH-004@P04. Earlier formulations remain valid at their own cutoffs.
+
+Reciprocal repair includes articulating the felt cost of postponement and sharing enough information for care; private counsel remains compatible with belonging.
+
+**Evidence:** `PJSK:event:0001:04:007:0002–0014`; `PJSK:event:0001:07:003:0002–0030`; `PJSK:event:0001:07:003:0031–0065`; `PJSK:card:0110:01:001:0004–0036`.
+
+**Interpretive consequence:** Extend established phase chain; no duplicate symbolic code. **Limits / OPEN:** Local function only; no cross-unit/global motif authority.
+
+**Other-unit disposition:** WxS/MMJ existing thematic responsibilities preserved; no separate recurring theme or motif justified. N25/VBS no delta.
+
+
+## Historical EVENT_0002 — founded Leo/need integration
+
+The [Honami checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) owns this bounded comparison; the existing N25 reading retains the event's main causal account. All earlier ledger bytes remain historical evidence at their own cutoffs.
+
+**PRESERVE / no new LN theme or motif ID.** Domestic work, recipient-sensitive listening, remembered support and reciprocal interest are compatible with existing care/creative-labor and mutual-choice themes. Their presence in this event does not by itself require another recurring-theme revision. The established N25 reading owns the main doll/selfhood and intervention structures at this boundary. Do not use Honami's limited analogy to infer Mafuyu's wishes, a universal formula for care or merged School/Empty singer identity. Character, relationship and epistemic entries preserve the concrete evidence for later warranted synthesis.
+
+
+## Historical EVENT_0004 — omitted linked-area supplement
+
+See the [scope-corrected checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_N25_INTEGRATION_CHECKPOINT.md) §15. Earlier EVENT_0004 and later historical records remain unchanged.
+
+**PRESERVE `MO-N25-004` and the existing EVENT_0004 affect-access refinement.** The omitted greeting scene supplies a local efficacy limit: Emu's private aim, Mafuyu's puzzlement and subsequent positive conversational response do not form an infallible genuine-smile test (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010`). No new recurring motif or universal care formula follows. The original post-race findings remain intact; the character/relationship/epistemic additions own this ordinary scene's bounded contribution.
+
+
+## Historical EVENT_0003 — ordered interpretation and Rui epistemic transition
+
+The [EVENT_0003 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) integrates WxS I3 and the bounded LN I1 appendix after their preceding routes. The original source screen, all earlier ledgers and the EVENT_0004 source supplement remain historically intact. No new human or company ID is introduced.
+
+### `TH-WXS-E0003` — EVENT_0003 a valued place, reciprocal care and material labor
+
+**APPEND_SCOPE_BOUNDED.** Extend the prior collective-labor/continuation chain: a valued place for uninhibited art can become a motive for inhibition, and support can mean both listening and furnishing workable conditions. The two distinct puppet pairs offer related communication problems rather than literal human identities; KAITO also receives Miku's recognition. Mats, storage, seating, lighting, reports and backstage learning make creative freedom materially dependent. Private messages continue the use of media as participation channels. Contest ranking introduces a tension with Emu's reported grandfather principle while distinct aspirations remain compatible with a shared show. No new global SEKAI ontology or specialist synthesis is established.
+
+**Evidence:** `PJSK:event:0003:02:002:0003–0036`; `PJSK:event:0003:06:001:0051–0099`; `PJSK:card:0119:02:002:0002–0036`; `PJSK:card:0120:01:004:0002–0018`; `PJSK:card:0120:02:004:0003–0020`; `PJSK:card:0121:01:001:0002–0062`; `PJSK:card:0121:02:001:0034–0051`; `PJSK:card:0123:02:002:0042–0055`; `PJSK:area:areatalk_ev_wonder_01_008:01:001:0002–0009`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Longitudinal durability of the attachment/support mechanism; No literal one-to-one puppet equivalence.
+
+### Bounded Leo/need disposition — EVENT_0003
+
+LN themes PRESERVE; no new motif ID. Ordinary household care and boundaries are compatible with existing reciprocal-care evidence but do not warrant another recurring structure from this brief scene.
+
+
+## Historical EVENT_0004 — founded cross-unit interpretation complete
+
+Historical EVENT_0004 is now fully integrated across its founded unit scopes: **MMJ I3**, **WXS I3**, **LEO_NEED I2**, **VBS I1**, and **N25 I2 preserved** with the earlier area009 I1 supplement. The [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) close the previously sparse non-active-unit detail through targeted evidence review. The retained complete discovery plus omitted area comprises 27 stories / 53 scenes / 1,433 records; no new universal pass is claimed. Haruka–Emu friendship and Haruka's continuing class access support I3; Saki's informed reliance implements her existing approach at I2. All human/group defaults remain, with differentiated ordinary, relationship and knowledge increments. Shared records have one reconciled EVENT4 entry per responsibility. Wonderland participants remain distinct from other manifestations. Nineteen historical screening gaps start at EVENT_0005; forward next EVENT_0091 and mature reconstruction/synthesis obligations remain unchanged.
+
+### MMJ-TH-001 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Received support and enjoyable participation renew tomorrow-oriented action in a school context. Endings can bring sadness without making the experience worthless; hope-givers are also recipients. Preserve harm/obligation limits from the main story.
+
+**Evidence:** `PJSK:event:0004:02:002:0020–0031`; `PJSK:event:0004:08:001:0025–0053`; `PJSK:card:0125:02:002:0026–0054`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future durability and unshown transmission remain OPEN.
+
+### MMJ-TH-002 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Add the bounded school case in which admiring celebrity categorization hinders ordinary contact and shared work/interests permit a more personal relationship. Do not equate classmates excitement with the main story professional abuse. Fenny eraser/keychain is a local structural echo, not a newly certified longitudinal motif.
+
+**Evidence:** `PJSK:event:0004:01:002:0003–0019`; `PJSK:event:0004:08:003:0003–0018`; `PJSK:card:0128:01:003:0040–0048`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future durability and unshown transmission remain OPEN.
+
+### TH-WXS-E0004 — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+The shared-joy/collective-labor chain expands beyond WonderStage: old equipment, flexible practice, decoration, list-making and changed rehearsals make participation possible. School competition can involve reciprocal pacing, serious effort and distributed credit. Miku's chosen cheering and enacted Wonderland festival carry observed pleasure into another bounded activity. Sadness at an ending coexists with grandfather-derived tomorrow-oriented work; photographs are proposed durable memories with consent and selection limits. Emu's variable reception of Mafuyu smiles complicates the efficacy of her aim without authoring Mafuyu's internal meaning. No new global SEKAI ontology, universal puppet-human equivalence or specialist synthesis.
+
+**Evidence:** `PJSK:event:0004:02:002:0036–0068`; `PJSK:event:0004:03:003:0007–0018`; `PJSK:card:0124:02:002:0040–0067`; `PJSK:event:0004:05:001:0075–0094`; `PJSK:event:0004:07:001:0011–0038`; `PJSK:event:0004:08:001:0026–0053`; `PJSK:card:0126:02:003:0023–0029`; `PJSK:card:0128:02:004:0006–0035`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Enduring consequences, final photo use and future affect interpretation remain OPEN.
+
+### LN-TH-001 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Photographs make the enjoyed school experience revisitable and extend Saki attention to others pages of youth; no new global star/weather code or motif.
+
+**Evidence:** `PJSK:card:0128:01:002:0002–0007`; `PJSK:card:0128:02:004:0022–0035`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Local context only; no reconstruction-readiness promotion.
+
+### LN-TH-002 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Notices, shared lists, practical injury support and photo collection make companionship actionable beyond band work; attribution preserves distributed labor.
+
+**Evidence:** `PJSK:event:0004:03:003:0002–0019`; `PJSK:event:0004:03:005:0002–0018`; `PJSK:event:0004:06:001:0010–0034`; `PJSK:card:0128:02:004:0022–0035`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Local context only; no reconstruction-readiness promotion.
+
+### LN-TH-004 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Specific limits disclosure, accepted reliance and capacity-bounded reciprocity extend existing communicative care to committee peers without requiring universal disclosure.
+
+**Evidence:** `PJSK:card:0128:01:003:0015–0035`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Local context only; no reconstruction-readiness promotion.

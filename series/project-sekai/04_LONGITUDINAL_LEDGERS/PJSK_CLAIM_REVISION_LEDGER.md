@@ -5,8 +5,8 @@ ledger_type: claim_revision
 scope: FULL_SERIES
 generation: V1
 status: canonical
-source_boundary: "N25 claims through EVENT_0084; K-027 operationally revised for supported nonmusical co-production, K-071/K-081/K-042 strengthened; no new claim ID"
-analysis_cutoff: "EVENT_0084 I2 interpretive refinement; latest relationship/epistemic I3 EVENT_0080; current human tuple retained"
+source_boundary: "N25 claims through EVENT_0090; E-085 refined, E-086 and ENA-021 strengthened with source-context limits; no new claim ID; Leo/need main-story phase history through leo_01_20; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
+analysis_cutoff: "EVENT_0090 I2 expressive-method refinement; EVENT_0089 I3 and all unaffected prior claims retained; LN P04 human defaults retained with EVENT_0001–0004 increments; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ mutable: true
 
 ## Current authority and reference disambiguation
 
-N25 claim authority reaches **EVENT_0084**, revising the operational breadth of `CR-N25-K-027` and strengthening `CR-N25-K-042`, `CR-N25-K-071` and `CR-N25-K-081` without a new claim ID or successor state. EVENT_0082/0083 required no governing claim change. EVENT_0080’s `CR-N25-MF-094` and `CR-N25-MF-095` remain controlling, as do EVENT_0077’s `CR-N25-E-091`, `CR-N25-MF-092`, `CR-N25-FAMILY-093` and chronological correction to `CR-N25-MF-088`. Earlier summaries are historical handoffs; revisions apply only within the requested analytical boundary. Latest bounded relationship/epistemic I3 remains EVENT_0080. Source currency does not advance claim authority.
+N25 claim authority reaches **EVENT_0090**, refining `CR-N25-E-085` and strengthening `CR-N25-E-086` / `CR-N25-ENA-021` without adding a duplicate claim. E0070's subject-sensitive pedagogy rule remains bounded; Ena is a learner here. Preserve EVENT_0089's `CR-N25-K-096`, `CR-N25-G-097`, `CR-N25-VS-098`, resolved maternal discovery and qualified care/agency refinements, EVENT_0084's K-027 refinement, EVENT_0080's MF-094/MF-095 and EVENT_0077's E-091/MF-092/FAMILY-093 with the MF-088 chronological correction. No professional certainty, completed liberation or shared private knowledge is established. Earlier summaries are historical handoffs; source currency alone confers no analytical authority.
 
 The imported ledger reuses the following IDs for different claims. Historical identifiers and formulations are preserved; citations must include the section/source-event qualifier shown here:
 
@@ -28,7 +28,29 @@ The imported ledger reuses the following IDs for different claims. Historical id
 | `CR-N25-MF-008` | §2, main-story global-passivity rejection | §7.2, EVENT_0004 salience before meaning |
 | `CR-N25-ENA-037` | §7.6, EVENT_0019 support under unexplained concern | §7.20, EVENT_0053 technical deficit versus artistic legitimacy |
 
-The EVENT_0070 heading `CR-N25-E-057 / talent-continuation architecture` is a dangling imported reference, not an additional established claim. Its stated EVENT_0053 continuation premise resolves to **`CR-N25-ENA-021`**, including the §7.20 strengthening. Use that responsible claim plus the EVENT_0070 extension when citing the passage. These reference repairs introduce no new source findings and confer no franchise-wide claim authority before the other unit foundations are completed.
+The EVENT_0070 heading `CR-N25-E-057 / talent-continuation architecture` is a dangling imported reference, not an additional established claim. Its stated EVENT_0053 continuation premise resolves to **`CR-N25-ENA-021`**, including the §7.20 strengthening. Use that responsible claim plus the EVENT_0070 extension when citing the passage. These reference repairs introduce no new source findings and confer no franchise-wide claim authority; the completed foundations still require their ordered longitudinal interpretation.
+
+Leo/need's main-story foundation is now integrated through `leo_01_20`: [four phase readings and synthesis](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_PHASE_MAP.md), with independent phase-bounded character, relationship, epistemic, claim and theme history below. Its foundation-current tuple is `LN-ICHIKA-MS-P04 / LN-SAKI-MS-P04 / LN-HONAMI-MS-P04 / LN-SHIHO-MS-P04`, with group `LN-REL-G-P04`. These are historical main-story defaults for later Leo/need comparison, not replacements for event-scoped cross-unit records or Nightcord's EVENT_0090 frontier. All five human-unit foundations are complete; Leo/need's material routed history after EVENT_0004, the 19 earlier screens and all reconstruction/synthesis completion obligations remain pending.
+
+
+Vivid BAD SQUAD's [four-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_PHASE_MAP.md) is integrated through `street_01_20`, with tuple `VBS-KOHANE-MS4 / VBS-AN-MS4 / VBS-AKITO-MS3 / VBS-TOYA-MS3`. `VBS-REL-KH-AN-3`, `VBS-REL-AK-TY-2` and `VBS-REL-GROUP-1` retain differentiated partnerships within the new unit. Earlier crises and false sabotage belief remain valid at their historical cutoffs; the connected-call disclosure retains Toya's stated audience restriction. Street singers have separate knowledge histories. This establishes VBS's historical baseline, alongside N25 and Leo/need foundations; it does not integrate VBS's later event routes or change the EVENT_0091 forward cursor. The material routed/screening/reconstruction backlog remains pending.
+
+
+MORE MORE JUMP!'s [five-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_PHASE_MAP.md) is integrated through `mmj_01_20`, with tuple `MMJ-MN-MS-04 / MMJ-HR-MS-04 / MMJ-AI-MS-04 / MMJ-SZ-MS-04` and group `MMJ-REL-GROUP-05`. Preserve Minori's real skill gap and fifty-first rejection, Haruka's supported access rather than certified recovery, Airi's accountable repair and continued teaching, and Shizuku's chosen departure without former-group reconciliation. Stage Miku/Rin remain bounded manifestations. All five human-unit foundations are complete. Remaining non-N25 routed histories, earlier universal-screen gaps and reconstruction/synthesis dependencies still require ordered work. The forward event cursor remains EVENT_0091.
+
+
+Wonderlands×Showtime's [six-phase main-story foundation](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_PHASE_MAP.md) is integrated through `wonder_01_20`: tuple `WXS-MS-TSUKASA-P06 / WXS-MS-EMU-P06 / WXS-MS-NENE-P06 / WXS-MS-RUI-P06`, group `REL-WXS-MS-G-P06`, knowledge `EPI-WXS-MS-P06`. Preserve coercive appointment and pursuit alongside subsequent separate assent, Nene's continuing fear and mediated competence, Tsukasa's enduring grandiose register within revised purpose, Rui's distinct artistic choice and Emu's reported family/material conditions. Wonderland Miku/KAITO remain separate manifestations. All five human-unit main-story foundations are complete. Material routed histories, 19 earlier universal-screen gaps and reconstruction/synthesis obligations remain pending; forward EVENT_0091 does not advance.
+
+
+Historical EVENT_0001 is now fully integrated by scope: Leo/need I2, WxS/MMJ I1, N25/VBS documentary I0. The [shared event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns the main causal account. All human tuples and the established human-group topology are retained; event-qualified characterization, bounded relationships, separate knowledge, seven existing claim increments plus LN-CR-011, and four existing theme refinements are appended below. Exact confession hearing, partial card chronology and unshown future outcomes remain limited. Existing later N25/cross-unit evidence keeps its own temporal scope. Nineteen older universal screens remain pending; historical EVENT_0005 is next unresolved, while forward EVENT_0091 remains unchanged. Leo/need's EVENT_0002 route is also integrated as specified below; no mature reconstruction readiness is certified.
+
+Historical EVENT_0002 now has an explicitly reconciled Leo/need I1 route, reusing the existing complete 22-story N25 reading and targeted Honami evidence. The [Honami integration checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) preserves all P04 human defaults and EVENT_0001 refinements, supplements the existing Kanade–Honami relationship, and records bounded knowledge separately. N25's existing EVENT_0002 I3 and its later defaults remain valid at their own cutoffs; MMJ/VBS/WxS are NONE / documentary I0. Nineteen older universal screens remain pending, with EVENT_0005 next after retained EVENT_0004. This closes LN's EVENT_0002 responsibility without advancing forward EVENT_0091 or certifying mature reconstruction readiness.
+
+Historical EVENT_0003 is now fully integrated across its relevant founded scopes: **WXS I3** on Rui's operative self-knowledge transition, **LEO_NEED I1** for Saki's bounded household exchange, and MMJ/VBS/N25 NONE / I0. The [event reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) reuses the complete 26-story discovery and preserves all four WxS P06 humans/company plus LN P04 humans/group. I3 rests on Rui acquiring and retaining a usable distinction between fear-linked restraint and deliberate safety work; unchanged human IDs do not erase that epistemic transition. Specific relationship/character I2 and ordinary I1 increments remain separate, as do source recipients and uncertain future outcomes. EVENT_0004's source correction and original N25 I2 remain intact; all its founded unit interpretations are integrated below. Nineteen older source-screen gaps start at EVENT_0005. Forward next EVENT_0091 and mature reconstruction/synthesis requirements are unchanged.
+
+**EVENT_0004 scope reconciliation complete:** the prior 26-story pass is preserved and the omitted `areatalk_ev_shuffle_01_009` is now read and integrated for its bounded N25 contribution. The locked envelope is 27 stories / 53 scenes / 1,433 records; area009 contributes 10 records and retains null publication time under unlock condition `100308`, target `1000032`, event4. N25's original I2 remains; the additional ordinary/relationship/knowledge evidence is I1 and creates no human successor. Targeted founded interpretation has now closed the sparse MMJ/WXS/LN/VBS detail; the complete EVENT4 dispositions are recorded below. The 19 older inventory gaps start at EVENT_0005, now the next historical source-screen operation. WXS EVENT_0003 I3 and LN I1 are integrated; forward EVENT_0091 is unchanged.
+
+Historical EVENT_0004 is now fully integrated across its founded unit scopes: **MMJ I3**, **WXS I3**, **LEO_NEED I2**, **VBS I1**, and **N25 I2 preserved** with the earlier area009 I1 supplement. The [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) close the previously sparse non-active-unit detail through targeted evidence review. The retained complete discovery plus omitted area comprises 27 stories / 53 scenes / 1,433 records; no new universal pass is claimed. Haruka–Emu friendship and Haruka's continuing class access support I3; Saki's informed reliance implements her existing approach at I2. All human/group defaults remain, with differentiated ordinary, relationship and knowledge increments. Shared records have one reconciled EVENT4 entry per responsibility. Wonderland participants remain distinct from other manifestations. Nineteen historical screening gaps start at EVENT_0005; forward next EVENT_0091 and mature reconstruction/synthesis obligations remain unchanged.
 
 ## 1. Purpose
 
@@ -1285,3 +1307,894 @@ EVENT_0042 already established simply enjoying mixed company, and EVENT_0063 add
 Kanade enables Len's desired gift; his articulation of shared pleasure helps her understand her own. Miku's earlier discussion helps Len even while its material problem remains unsolved. Help can produce a limited positive result or self-knowledge without solving every condition (`PJSK:card:0587:01:001:0023–0053`; `PJSK:event:0084:06:003:0064–0087`; `PJSK:event:0084:07:003:0060–0074`). Ordinary gifts need not be redescribed as salvation to count as consequential care.
 
 **PRESERVE** Mafuyu's bounded sensory/affective access, unresolved family authority and E0080/E0077 claim corrections. Her reported concentration response and apparently accepted study-break explanation are specific, not a general recovery or maternal-transformation finding (`PJSK:card:0585:02:001:0033–0053`). Preserve Ena/Mizuki's governing claims and guarded-content boundaries. No new claim ID; all current human and major relationship states remain. Next EVENT_0085.
+
+## EVENT_0089 claim revisions — authority, access and intervention consequences
+
+### `CR-N25-K-096` — parental standing does not settle whose wishes govern care
+
+**NEW / CANONICAL, Kanade-context bounded.** Kanade initially reasons from her own caring-parent experience, then directly encounters a mother who interprets the child’s distress as a reason to restore a preselected future. Her explicit refusal of trust and sustained commitment to remain support a new protective state, `K-E0089-01` (`PJSK:event:0089:07:003`; `PJSK:event:0089:08:002`; `PJSK:card:0612:02:001:0020–0063`).
+
+This is a corrected decision premise, not an assertion that every parent is harmful, Kanade never errs, the mother has no real care or will certainly never change. Positive family memory and persistent rescue obligation coexist. A thought about distance is not a completed protective arrangement.
+
+### `CR-N25-G-097` — preserving a support network can involve unequal access and unresolved consent tensions
+
+**NEW / CANONICAL, event-bounded operational rule.** Kanade limits face exposure to preserve other friends’ possible access, while Ena/Mizuki remain available and sustain N25 as a place to return. Kanade and the mother agree to conceal the meeting; Ena questions decisions made without Mafuyu. Care can be effective in some respects without becoming completely transparent or recipient-authorized (`PJSK:event:0089:03:002:0140–0181`; `PJSK:event:0089:08:002:0066–0069`; `PJSK:card:0613:02:001:0028–0075`).
+
+No universal endorsement of secrecy, complete network strategy, actual later rescue or equal knowledge is implied. Mafuyu remains an author of lyrics and choices even when excluded from this negotiation.
+
+### `CR-N25-VS-098` — confrontational intent, immediate harm and strategic reconsideration require separate judgments
+
+**NEW / CANONICAL, Empty KAITO only.** His demand for resistance draws on Miku’s report and his own interpretation. Mafuyu flees; Rin/Len object and later protect refuge. KAITO subsequently recalls the failed assertion and privately considers another approach, while accepting bounded musical participation (`PJSK:card:0615:01`; `PJSK:event:0089:06:002`; `PJSK:card:0615:02:001:0039–0054`; `PJSK:area:areatalk_ev_night_12_002:01`; `PJSK:area:areatalk_ev_night_12_004:01`).
+
+Do not label harshness a demonstrated cure, all refuge mere stagnation, or KAITO incapable of change. Mafuyu’s later lyric making is directly prompted by music; attributing that efficacy to confrontation exceeds the shown causal evidence.
+
+### Established formulations — refine and preserve
+
+- **`CR-N25-MF-003`, `CR-N25-FAMILY-079`, `CR-N25-FAMILY-093`: REVISE current evidentiary scope / STRENGTHEN coexistence.** Search and discovery are now directly shown, followed by recruitment of K and an effort to separate Mafuyu from collaborative music. Earlier OPEN states remain historical; remembered care is not falsified (`PJSK:event:0089:01:005`; `PJSK:event:0089:07:003`; `PJSK:event:0089:08:002`).
+- **`CR-N25-MF-088`, `CR-N25-MF-090`, `CR-N25-MF-092`: STRENGTHEN / context-bound.** Stated refusal, covert phone lyrics and brief conditioned visits show wanting/agency under constraints. Keep the E0077 first-ever-wanting correction; unknown taste is directly stated (`PJSK:event:0089:05:003`; `PJSK:card:0616:02`; `PJSK:card:0614:02:001:0063–0074`; `PJSK:area:areatalk_ev_night_12_003:01`).
+- **`CR-N25-MF-094`: STRENGTHEN limits on competence as wellness evidence.** Specific archery coaching helps a peer while Mafuyu’s own quieting effort fails (`PJSK:card:0616:01:001:0002–0033`).
+- **`CR-N25-E-091`: PRESERVE / guard against regression in interpretation.** Ena’s renewed direct assertion advice cannot be generalized into “saying no is enough”; dinner again shows an unheard wish, while companionship has a separately reported effect (`PJSK:event:0089:05:001`; `PJSK:event:0089:05:002`; `PJSK:event:0089:05:003`).
+- **`CR-N25-K-042`, `CR-N25-K-044`, `CR-N25-K-081`, `CR-N25-K-082`: STRENGTHEN differentiated inheritance.** Parental memories include positive self-directed permission; shared work and received tea help Kanade; persistent duty and sleep-displacing work remain (`PJSK:event:0089:02:002`; `PJSK:event:0089:08:002`; `PJSK:card:0612:01`; `PJSK:card:0612:02`). No guilt-resolution or general health-efficacy claim.
+
+Current tuple `MF-E0072-01 / K-E0089-01 / E-E0070-01 / MZ-E0039-01`; no additional claim IDs. Inherited collision qualifiers remain mandatory. Next EVENT_0090.
+
+## EVENT_0090 claim refinement — expressive aim directs technical choices
+
+- **`CR-N25-E-085`: REFINE operationally, high confidence.** Prior separability/integration of technical finish and expressive value now receives a deliberate decision rule: determine the subject/feeling, then choose sensory properties serving it. Ena considers altering literal light/shadow to retain warmth while correcting composition and perspective (`PJSK:card:0621:01:001:0004–0039`; `PJSK:card:0621:02:001:0002–0011`; `PJSK:card:0621:02:001:0026–0044`). This does not prove every departure succeeds or make observational technique dispensable.
+- **`CR-N25-E-086`: STRENGTHEN, high confidence with reception limit.** Ena names defects and accepts that An/Shiho received the wanted peaceful feeling. She additionally notices they shared the subject, qualifying generalization from one success (`PJSK:event:0090:05:001:0002–0028`; `PJSK:card:0621:02:001:0026–0044`). This continues E0070/E0077, not first-ever self-authorization or stable professional confidence.
+- **`CR-N25-ENA-021`: STRENGTHEN bounded continuation.** Comparison and criticism lead to concrete self-chosen practice and a wish to communicate colleagues' music better (`PJSK:event:0090:05:001:0042–0055`; `PJSK:card:0621:02:001:0040–0054`). No future talent, revised picture or increased audience is guaranteed. The E0070 dangling E-057 talent-continuation reference resolves to this established claim.
+- **`CR-N25-E-087`: PRESERVE, no new teaching outcome.** Ena interrogates and uses another person's goal-sensitive advice here. This is consonant with the prior pedagogy model but is not another scene of Ena successfully teaching someone else.
+
+All prior state/relationship claims survive, including K-E0089-01's protection alongside rescue obligation and the limits on Mafuyu's agency, taste and hotel knowledge. No new permanent claim ID or retrospective overwrite. An's partial relief, Shiho's rehearsal result and Nene's initiative remain deferred source-supported propositions, not current N25 claims or premature full-unit conclusions.
+
+## Leo/need main-story foundation — serial phase history
+
+Each record below is valid only at its named phase endpoint and preserves earlier states as historical evidence. Phase-end snapshots can preserve or newly disclose a property; they do not automatically assert a new durable personality. Source confidence is HIGH for the indicated support, with unshown transmission and future durability OPEN. Shared causes remain in the linked reading. Main-story family observations/reports do not advance another unit or confer private SEKAI knowledge. No later event evidence, I0–I3 release judgment or reconstruction readiness is imported.
+
+### LN-MS-P01 — episodes 00–03
+
+Source and causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P01_DEEP_READING.md). The following records resolve claim revision responsibility only.
+
+#### LN-CR-001
+
+**Prior:** No founded LN claim.
+
+**NEW:** Refusal proves restricted contact, not absent affection. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_02:01:002:0015`; `PJSK:main:leo_01_02:01:002:0019`; `PJSK:main:leo_01_02:01:002:0025`; HIGH.
+
+#### LN-CR-002
+
+**Prior:** No founded LN claim.
+
+**NEW:** Ichika’s inhibited present behavior is relationship-conditioned; childhood initiative and direct affection already exist. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_00:01:001:0012`; `PJSK:main:leo_01_01:01:003:0019`; HIGH.
+
+### LN-MS-P02 — episodes 04–08
+
+Source and causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P02_DEEP_READING.md). The following records resolve claim revision responsibility only.
+
+#### LN-CR-001
+
+**Prior:** LN-CR-001 P01.
+
+**STRENGTHEN:** Honami’s repeated refusal coexists with private longing and ordinary familiar pleasure. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_08:01:001:0033`; `PJSK:main:leo_01_08:01:002:0006`; HIGH.
+
+#### LN-CR-002
+
+**Prior:** LN-CR-002 P01.
+
+**STRENGTHEN:** Ichika initiates the duo and attempts another invitation; her self-blame minimizes real actions. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_06:01:004:0014`; `PJSK:main:leo_01_08:01:001:0042`; `PJSK:main:leo_01_08:01:003:0039`; HIGH.
+
+#### LN-CR-003
+
+**Prior:** P01 reunion hope unresolved.
+
+**NEW:** Shared space, recalled song and supported performance can motivate action without securing continuing consent. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_04:01:001:0073`; `PJSK:main:leo_01_05:01:001:0045`; `PJSK:main:leo_01_05:01:001:0047`; HIGH.
+
+#### LN-CR-004
+
+**Prior:** No founded practice claim.
+
+**NEW:** Learning and seriousness matter to music but cannot alone explain every social refusal. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_05:01:001:0011`; `PJSK:main:leo_01_07:01:001:0056`; `PJSK:main:leo_01_08:01:001:0043`; HIGH.
+
+### LN-MS-P03 — episodes 09–11
+
+Source and causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P03_DEEP_READING.md). The following records resolve claim revision responsibility only.
+
+#### LN-CR-004
+
+**Prior:** LN-CR-004 P02.
+
+**STRENGTHEN:** Shiho notices preparation, but care/disclosure and chosen risk produce membership after an interrupted trial. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_11:01:001:0005`; `PJSK:main:leo_01_11:01:001:0014`; `PJSK:main:leo_01_11:01:001:0064`; HIGH.
+
+#### LN-CR-005
+
+**Prior:** Shiho motive OPEN at P01/P02.
+
+**NEW:** Shiho’s real solitude preference, musical standards and protective estrangement are distinct coexisting causes. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_09:01:002:0035`; `PJSK:main:leo_01_11:01:001:0031`; `PJSK:main:leo_01_11:01:001:0047`; HIGH.
+
+#### LN-CR-006
+
+**Prior:** No founded reciprocal-risk claim.
+
+**NEW:** Private protection can deny another person an informed choice about valued affiliation. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_11:01:001:0051`; `PJSK:main:leo_01_11:01:001:0055`; `PJSK:main:leo_01_11:01:001:0061`; HIGH.
+
+### LN-MS-P04 — episodes 12–20
+
+Source and causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MS_P04_DEEP_READING.md). The following records resolve claim revision responsibility only.
+
+#### LN-CR-001
+
+**Prior:** LN-CR-001 P01/P02.
+
+**REVISE:** Honami’s refusal is now explained through fear of exclusion, exclusive association and care; lack-of-affection reading is rejected. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_12:01:002:0074`; `PJSK:main:leo_01_12:01:002:0078`; `PJSK:main:leo_01_19:01:001:0034`; HIGH.
+
+#### LN-CR-002
+
+**Prior:** LN-CR-002 P01/P02.
+
+**STRENGTHEN:** Peer memories, old lyrics and a new invitation restore/strengthen Ichika’s agency rather than create it from nothing. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_15:01:003:0021`; `PJSK:main:leo_01_16:01:003:0012`; `PJSK:main:leo_01_18:01:003:0026`; HIGH.
+
+#### LN-CR-007
+
+**Prior:** Earlier motive uncertainty.
+
+**NEW:** Honami’s restricted affiliation is a fear-shaped response to exclusion; self-protection and concern for others coexist. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_12:01:002:0042`; `PJSK:main:leo_01_12:01:002:0058`; `PJSK:main:leo_01_12:01:002:0078`; HIGH.
+
+#### LN-CR-008
+
+**Prior:** No exhaustive-motive claim permitted.
+
+**NEW:** Selfishness is Shiho’s accusation/Honami’s self-judgment, qualified by evidenced care and Shiho’s explicit regret. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_15:01:002:0058`; `PJSK:main:leo_01_15:01:003:0003`; `PJSK:main:leo_01_18:01:003:0056`; `PJSK:main:leo_01_19:01:001:0014`; HIGH.
+
+#### LN-CR-009
+
+**Prior:** Honami anticipates repeated exclusion.
+
+**NEW:** Plural belonging succeeds with these current classmates; no universal social-safety or prior-bullying-erasure claim follows. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_17:01:003:0029`; `PJSK:main:leo_01_20:01:003:0008`; `PJSK:main:leo_01_20:01:003:0012`; HIGH.
+
+#### LN-CR-010
+
+**Prior:** Group repaired but future activity previously prospective.
+
+**NEW:** Ending establishes chosen serious practice, a named band and an original-song initiative; no professional outcome is established. **Reason for this record:** Source-based revision with earlier phase knowledge preserved.
+
+**Evidence / confidence:** `PJSK:main:leo_01_20:01:003:0015`; `PJSK:main:leo_01_20:01:005:0019`; `PJSK:main:leo_01_20:01:005:0025`; `PJSK:main:leo_01_20:01:005:0030`; HIGH.
+
+## Vivid BAD SQUAD main-story foundation — serial phase history
+
+All records below are bounded to their named phase and internal transition time. HIGH confidence identifies source-supported interpretation, not proof of unshown thought or future durability. The phase reading owns shared causes; each ledger retains only its responsibility. Earlier history remains valid when a successor becomes the later default. No other-unit private knowledge or later-event state is imported. The main-story ending does not establish reconstruction readiness.
+
+### VBS-MS-P01 — episodes 00–04
+
+Causal/evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P01_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-CR-001
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Kohane fear and initiative coexist before recruitment.
+
+**Evidence:** `PJSK:main:street_01_01:01:002:0009`; `PJSK:main:street_01_02:01:004:0015`. Confidence: HIGH.
+
+#### VBS-CR-002
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** An selects felt shared musical possibility plus ambition, while noticing novice limits.
+
+**Evidence:** `PJSK:main:street_01_03:01:002:0027`; `PJSK:main:street_01_04:01:002:0007`. Confidence: HIGH.
+
+#### VBS-CR-003
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Invitation motive and calibration of readiness remain unresolved.
+
+**Evidence:** `PJSK:main:street_01_04:01:002:0066`. Confidence: HIGH.
+
+### VBS-MS-P02 — episodes 05–08
+
+Causal/evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P02_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-CR-003
+
+**Prior:** Motive OPEN.
+
+**REFINE:** Invitation is concealed punitive musical test; outcome and readiness still OPEN.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0015`. Confidence: HIGH.
+
+#### VBS-CR-004
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Akito generalizes seriousness standard from soccer/RAD WEEKEND and may misread novice surfaces.
+
+**Evidence:** `PJSK:main:street_01_05:01:002:0006`; `PJSK:main:street_01_05:01:002:0018`. Confidence: HIGH.
+
+#### VBS-CR-005
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Toya technique and self-evaluation diverge; cause of resolve hesitation still OPEN.
+
+**Evidence:** `PJSK:main:street_01_08:01:004:0009`; `PJSK:main:street_01_07:01:003:0047`. Confidence: HIGH.
+
+### VBS-MS-P03 — episodes 09–13
+
+Causal/evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P03_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-CR-001
+
+**Prior:** Initiative coexists with fear.
+
+**REFINE:** Self-owned wish now supports action after failure; fear persists.
+
+**Evidence:** `PJSK:main:street_01_11:01:003:0052`; `PJSK:main:street_01_13:01:005:0013`. Confidence: HIGH.
+
+#### VBS-CR-004
+
+**Prior:** Standard may misread surfaces.
+
+**REFINE:** Akito initial novice inference is contradicted; he changes appraisal after rematch.
+
+**Evidence:** `PJSK:main:street_01_13:01:005:0052`; `PJSK:main:street_01_13:01:005:0057`. Confidence: HIGH.
+
+#### VBS-CR-005
+
+**Prior:** Cause of hesitation OPEN.
+
+**REFINE:** Toya compares musical origins and disqualifies himself; childhood details not yet known.
+
+**Evidence:** `PJSK:main:street_01_13:01:002:0015`; `PJSK:main:street_01_13:01:002:0023`. Confidence: HIGH.
+
+#### VBS-CR-006
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Akito no-excuses blame-taking creates false literal sabotage belief in girls.
+
+**Evidence:** `PJSK:main:street_01_10:01:002:0008`; `PJSK:main:street_01_10:01:002:0034`. Confidence: HIGH.
+
+#### VBS-CR-007
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Same performance validation supports girls belonging while provoking Toya self-exclusion.
+
+**Evidence:** `PJSK:main:street_01_13:01:005:0045`; `PJSK:main:street_01_13:01:005:0070`. Confidence: HIGH.
+
+### VBS-MS-P04 — episodes 14–20
+
+Causal/evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MS_P04_DEEP_READING.md). Preserve earlier uncertainty until the disclosure or action actually occurs.
+
+#### VBS-CR-005
+
+**Prior:** Origin comparison known; childhood details OPEN.
+
+**REFINE:** Training pressure, oppositional entry, and pure-origin standard explain self-disqualification; present reciprocal desire answers it.
+
+**Evidence:** `PJSK:main:street_01_18:01:001:0014`; `PJSK:main:street_01_18:01:001:0031`; `PJSK:main:street_01_19:01:001:0019`. Confidence: HIGH.
+
+#### VBS-CR-006
+
+**Prior:** Girls carry false sabotage belief.
+
+**REFINE:** Belief corrected15; preserve its historical validity10–early15 and Akito actual causal responsibility.
+
+**Evidence:** `PJSK:main:street_01_15:01:004:0035`; `PJSK:main:street_01_15:01:004:0044`. Confidence: HIGH.
+
+#### VBS-CR-008
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Escape as an initial motive does not invalidate developed present musical commitment.
+
+**Evidence:** `PJSK:main:street_01_18:01:001:0044`; `PJSK:main:street_01_19:01:001:0019`; `PJSK:main:street_01_19:01:001:0047`. Confidence: HIGH.
+
+#### VBS-CR-009
+
+**Prior:** Uninitialized.
+
+**NEW / FOUNDATION-BOUNDED:** Unit forms through two affirmed/repaired partnerships; rivalry persists inside collaboration.
+
+**Evidence:** `PJSK:main:street_01_20:01:002:0010`; `PJSK:main:street_01_20:01:004:0008`; `PJSK:main:street_01_20:01:004:0029`. Confidence: HIGH.
+
+#### VBS-CR-010
+
+**Prior:** Formation pending.
+
+**NEW / FOUNDATION-BOUNDED:** Whether collaboration can sustain progress to surpass RAD WEEKEND remains open at foundation ending.
+
+**Evidence:** `PJSK:main:street_01_20:01:004:0013`. Confidence: HIGH.
+
+## MORE MORE JUMP! main-story foundation — serial phase history
+
+Records are valid at their named phase boundary and preserve earlier ignorance, interrupted repair and historically valid states. A preserved human ID receives refinement without an automatic global transition. Source confidence is HIGH for the supported interpretation; unshown transmission, broader durability and future outcomes remain OPEN. Shared causes belong to each phase reading. These are historical main-story defaults, not replacements for later cross-unit states or certification of character readiness.
+
+### MMJ-MS-P01 — through `PJSK:main:mmj_01_04:01`
+
+Causal and evidence home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P01_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-001
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: received hope enables renewed action and sustained aspiration without proving outcomes guaranteed.
+
+**Evidence:** `PJSK:main:mmj_01_00:01:001:0032–0041`; `PJSK:main:mmj_01_01:01:004:0015–0024`. Confidence: HIGH.
+
+#### MMJ-CL-002
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** OPEN/NEW tension: Airi dismisses effort yet practices useful teaching; public classification troubles her, cause not yet established.
+
+**Evidence:** `PJSK:main:mmj_01_03:01:001:0019–0030`; `PJSK:main:mmj_01_04:01:003:0013–0048`. Confidence: HIGH.
+
+#### MMJ-CL-003
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: Shizuku gentle speech includes clear protective initiative; unresolved work trouble cannot be inferred away.
+
+**Evidence:** `PJSK:main:mmj_01_03:01:001:0024–0030`; `PJSK:main:mmj_01_04:01:001:0008–0014`. Confidence: HIGH.
+
+#### MMJ-CL-010
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: Airi teaching agreement is explicitly conditional on next audition not failing.
+
+**Evidence:** `PJSK:main:mmj_01_04:01:001:0016–0018`. Confidence: HIGH.
+
+### MMJ-MS-P02 — through `PJSK:main:mmj_01_08:01`
+
+Causal and evidence home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P02_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-002
+
+**Prior:** MMJ-CL-002 P01 OPEN
+
+**Bounded state / claim:** STRENGTHEN/RESOLVE limited cause: Airi enjoyed and studied variety, but imposed replacement of idol work and failed agency change wound desired identity.
+
+**Evidence:** `PJSK:main:mmj_01_07:01:004:0019–0040`; `PJSK:main:mmj_01_08:01:002:0002–0005`. Confidence: HIGH.
+
+#### MMJ-CL-004
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: withheld idol recognition and reduction to appearance are distinct injuries joined through comparative envy.
+
+**Evidence:** `PJSK:main:mmj_01_05:01:002:0008–0013`; `PJSK:main:mmj_01_08:01:002:0012–0019`; `PJSK:main:mmj_01_08:01:003:0017–0039`. Confidence: HIGH.
+
+#### MMJ-CL-005
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW with OPEN ontology: blue view represents remembered valued audience relation; same enjoyable live does not resolve all humans.
+
+**Evidence:** `PJSK:main:mmj_01_06:01:001:0045–0069`; `PJSK:main:mmj_01_07:01:001:0002–0028`. Confidence: HIGH.
+
+### MMJ-MS-P03 — through `PJSK:main:mmj_01_12:01`
+
+Causal and evidence home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P03_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-004
+
+**Prior:** MMJ-CL-004 P02
+
+**Bounded state / claim:** STRENGTHEN; REJECT single-cause attribution of Shizuku departure to Airi: long group deterioration and prior consideration coexist with recent injury.
+
+**Evidence:** `PJSK:main:mmj_01_10:01:002:0025–0034`. Confidence: HIGH.
+
+#### MMJ-CL-006
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: recipient recognition and accountable apology restore mutually desired idol legitimacy/partnership; old group remains unreconciled.
+
+**Evidence:** `PJSK:main:mmj_01_11:01:002:0030–0062`; `PJSK:main:mmj_01_12:01:001:0005–0041`. Confidence: HIGH.
+
+### MMJ-MS-P04 — through `PJSK:main:mmj_01_18:01`
+
+Causal and evidence home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P04_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-001
+
+**Prior:** MMJ-CL-001 P01
+
+**Bounded state / claim:** REVISE/STRENGTHEN: hope is uncertain enabling action; fear-driven overpractice and impossible no-harm duty expose its limits. No effort-success guarantee.
+
+**Evidence:** `PJSK:main:mmj_01_13:01:003:0045–0074`; `PJSK:main:mmj_01_15:01:001:0030–0055`; `PJSK:main:mmj_01_18:01:002:0065–0101`. Confidence: HIGH.
+
+#### MMJ-CL-005
+
+**Prior:** MMJ-CL-005 P02
+
+**Bounded state / claim:** STRENGTHEN blue view as reciprocity/vantage motif; Miku possibility and Minori interpretation do not establish exact creator of all lights.
+
+**Evidence:** `PJSK:main:mmj_01_16:01:001:0063–0077`; `PJSK:main:mmj_01_18:01:002:0036–0052`; `PJSK:main:mmj_01_18:01:002:0094–0101`. Confidence: HIGH.
+
+#### MMJ-CL-007
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: Haruka retirement has guilt and reported bodily inhibition after prior help-seeking; public school-only account incomplete and deliberately retained for Mai.
+
+**Evidence:** `PJSK:main:mmj_01_14:01:002:0022–0044`; `PJSK:main:mmj_01_15:01:002:0002–0010`. Confidence: HIGH.
+
+#### MMJ-CL-008
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: desire, testimony and accepted support allow stage access while trembling remains; no diagnosis, cure or blanket future recovery.
+
+**Evidence:** `PJSK:main:mmj_01_18:01:002:0057–0101`. Confidence: HIGH.
+
+### MMJ-MS-P05 — through `PJSK:main:mmj_01_20:01`
+
+Causal and evidence home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MS_P05_DEEP_READING.md). Apply these records only after prior phases, retaining the exact disclosure and action sequence.
+
+#### MMJ-CL-006
+
+**Prior:** MMJ-CL-006 P03
+
+**Bounded state / claim:** STRENGTHEN: three recognize Minori as an idol through hope received; mutual need authorizes membership beyond institutional selection.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0013–0018`; `PJSK:main:mmj_01_20:01:001:0051–0064`. Confidence: HIGH.
+
+#### MMJ-CL-009
+
+**Prior:** No MMJ claim
+
+**Bounded state / claim:** NEW: chosen group accommodates novice skill disparity without denying it; fifty-first failure precedes new membership. Agency, public debut and sustainability remain OPEN.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0002–0018`; `PJSK:main:mmj_01_20:01:001:0027–0064`. Confidence: HIGH.
+
+#### MMJ-CL-010
+
+**Prior:** MMJ-CL-010 P01
+
+**Bounded state / claim:** REVISE: Airi continues teaching after actual next rejection; earlier terminal condition no longer governs this relation.
+
+**Evidence:** `PJSK:main:mmj_01_20:01:001:0005–0022`. Confidence: HIGH.
+
+## Wonderlands×Showtime main-story foundation — serial phase history
+
+The following snapshots preserve knowledge and interpretation at each named boundary. Phase-indexed human IDs retain operational snapshots, including refinements and revelations; a new phase ID does not by itself claim an event-level durable transition. No later source enters an earlier snapshot. Source-observed acts and disclosed histories carry HIGH confidence; qualified psychological inference is MODERATE. Shared causal interpretation belongs to each phase reading. These histories do not replace later cross-unit records or certify character-package readiness.
+
+### WXS-MS-P01 — through `wonder_01_04`
+
+Causal home: [P01 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P01_DEEP_READING.md).
+
+#### CR-WXS-MS-STAR-PURPOSE-P01 — OPEN
+
+**Chain:** `CR-WXS-MS-STAR-PURPOSE`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** No WXS foundation claim.
+
+**Bounded revised claim:** Present star ambition is explicit while its childhood purpose is inaccessible to Tsukasa; care remains observable. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_00:01:001:0001–0017`; `PJSK:main:wonder_01_00:01:003:0011–0030`.
+
+#### CR-WXS-MS-APPOINTMENT-P01 — REJECT
+
+**Chain:** `CR-WXS-MS-APPOINTMENT`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Tsukasa believes ordinary audition succeeded.
+
+**Bounded revised claim:** He was not selected by ordinary audition and his initial appointment is pressured before subsequent initiative. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_02:01:002:0002–0005`; `PJSK:main:wonder_01_04:01:002:0024–0043`.
+
+### WXS-MS-P02 — through `wonder_01_08`
+
+Causal home: [P02 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P02_DEEP_READING.md).
+
+#### CR-WXS-MS-STAR-PURPOSE-P02 — STRENGTHEN
+
+**Chain:** `CR-WXS-MS-STAR-PURPOSE`. **Prior ID:** CR-WXS-MS-STAR-PURPOSE-P01. **Prior analytical statement:** Present star ambition is explicit while its childhood purpose is inaccessible to Tsukasa; care remains observable.. **Source-local target:** Present purpose inaccessible but care remains.
+
+**Bounded revised claim:** Family performance and real craft recognition qualify a wholly self-absorbed account without resolving the motive. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_05:01:001:0010–0012`; `PJSK:main:wonder_01_08:01:001:0008–0021`.
+
+#### CR-WXS-MS-NENE-MEDIATION-P02 — OPEN
+
+**Chain:** `CR-WXS-MS-NENE-MEDIATION`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Nene source glimpse only.
+
+**Bounded revised claim:** Robot permits competent participation with physical concealment; precise history and dependence limits remain OPEN. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_07:01:001:0004–0014`; `PJSK:main:wonder_01_07:01:001:0058–0080`.
+
+#### CR-WXS-MS-RUI-SOLO-P02 — OPEN
+
+**Chain:** `CR-WXS-MS-RUI-SOLO`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Rui source glimpse only.
+
+**Bounded revised claim:** He states solo preference but accepts with Nene as condition; do not yet supply later causal biography. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_06:01:001:0005–0006`; `PJSK:main:wonder_01_06:01:001:0028–0035`.
+
+### WXS-MS-P03 — through `wonder_01_11`
+
+Causal home: [P03 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P03_DEEP_READING.md).
+
+#### CR-WXS-MS-RUI-SOLO-P03 — DOWNGRADE
+
+**Chain:** `CR-WXS-MS-RUI-SOLO`. **Prior ID:** CR-WXS-MS-RUI-SOLO-P02. **Prior analytical statement:** He states solo preference but accepts with Nene as condition; do not yet supply later causal biography.. **Source-local target:** Simple face-value solo preference remains possible.
+
+**Bounded revised claim:** Observed pleasure and gratitude strengthen interest in these collaborators; complete origin still OPEN. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:002:0002–0007`; `PJSK:main:wonder_01_11:01:001:0024–0026`.
+
+#### CR-WXS-MS-PERFECTION-P03 — OPEN
+
+**Chain:** `CR-WXS-MS-PERFECTION`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Company assembled without tested public outcome.
+
+**Bounded revised claim:** Successful rehearsal and real labor do not establish resilience under failure or technical safety. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_09:01:001:0026–0043`; `PJSK:main:wonder_01_11:01:001:0018–0038`; `PJSK:main:wonder_01_11:01:001:0046–0064`.
+
+### WXS-MS-P04 — through `wonder_01_14`
+
+Causal home: [P04 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P04_DEEP_READING.md).
+
+#### CR-WXS-MS-STAR-PURPOSE-P04 — REVISE
+
+**Chain:** `CR-WXS-MS-STAR-PURPOSE`. **Prior ID:** CR-WXS-MS-STAR-PURPOSE-P02. **Prior analytical statement:** Family performance and real craft recognition qualify a wholly self-absorbed account without resolving the motive.. **Source-local target:** Care exists but present rationale is status-centered and inaccessible.
+
+**Bounded revised claim:** Tsukasa recovers audience-oriented childhood aim after enacting harmful status/success fixation; insight not yet shared repair. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0012–0046`; `PJSK:main:wonder_01_14:01:002:0059–0088`.
+
+#### CR-WXS-MS-NENE-BLAME-P04 — REJECT
+
+**Chain:** `CR-WXS-MS-NENE-BLAME`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Hostile/self-blaming local claim that robot use or Nene alone invalidated the show.
+
+**Bounded revised claim:** Technical preparation, failed recovery and subsequent accusations are distinct; mediated participation is not inherently illegitimate. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_12:01:001:0030–0064`; `PJSK:main:wonder_01_13:01:001:0005–0020`.
+
+#### CR-WXS-MS-RUI-SOLO-P04 — REVISE
+
+**Chain:** `CR-WXS-MS-RUI-SOLO`. **Prior ID:** CR-WXS-MS-RUI-SOLO-P03. **Prior analytical statement:** Observed pleasure and gratitude strengthen interest in these collaborators; complete origin still OPEN.. **Source-local target:** Collaborative pleasure qualified simple solo preference.
+
+**Bounded revised claim:** Rui directly recognizes what working with companions made possible, then rejects this harmful interaction. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_13:01:001:0028–0043`.
+
+### WXS-MS-P05 — through `wonder_01_18`
+
+Causal home: [P05 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P05_DEEP_READING.md).
+
+#### CR-WXS-MS-PERFECTION-P05 — REVISE
+
+**Chain:** `CR-WXS-MS-PERFECTION`. **Prior ID:** CR-WXS-MS-PERFECTION-P03. **Prior analytical statement:** Successful rehearsal and real labor do not establish resilience under failure or technical safety.. **Source-local target:** Tsukasa explicitly demands success every time in episode 13.
+
+**Bounded revised claim:** He now states failure accompanies challenge and specifically rejects blaming the colleague who tried. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_16:01:002:0064–0076`.
+
+#### CR-WXS-MS-NENE-MEDIATION-P05 — STRENGTHEN
+
+**Chain:** `CR-WXS-MS-NENE-MEDIATION`. **Prior ID:** CR-WXS-MS-NENE-MEDIATION-P02. **Prior analytical statement:** Robot permits competent participation with physical concealment; precise history and dependence limits remain OPEN.. **Source-local target:** Robot enabling function preserved against global blame.
+
+**Bounded revised claim:** Nene privately returns, discloses desire and fear, and credits robot-enabled enjoyment; return is not a cure. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:003:0002–0017`; `PJSK:main:wonder_01_16:01:002:0046–0078`.
+
+#### CR-WXS-MS-SHARED-HAPPINESS-P05 — REVISE
+
+**Chain:** `CR-WXS-MS-SHARED-HAPPINESS`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Emu risks excluding herself while supporting others.
+
+**Bounded revised claim:** Tsukasa explicitly includes her in everyone; she agrees to renewed work after private disclosure. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_15:01:002:0020–0042`.
+
+#### CR-WXS-MS-COMPATIBILITY-P05 — REJECT
+
+**Chain:** `CR-WXS-MS-COMPATIBILITY`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Rui regards Tsukasa's values as incompatible in episode 17.
+
+**Bounded revised claim:** Performed revised rationale and a choice left open lead Rui to resume directing; past refusal remains historical. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_17:01:001:0047–0054`; `PJSK:main:wonder_01_18:01:003:0040–0066`.
+
+### WXS-MS-P06 — through `wonder_01_20`
+
+Causal home: [P06 reading](../02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MS_P06_DEEP_READING.md).
+
+#### CR-WXS-MS-STAR-PURPOSE-P06 — STRENGTHEN
+
+**Chain:** `CR-WXS-MS-STAR-PURPOSE`. **Prior ID:** CR-WXS-MS-STAR-PURPOSE-P04. **Prior analytical statement:** Tsukasa recovers audience-oriented childhood aim after enacting harmful status/success fixation; insight not yet shared repair.. **Source-local target:** Recovered aim and differentiated repair.
+
+**Bounded revised claim:** Shared song, support and solicited future aims enact revised purpose while grandiose register persists. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:001:0011–0017`; `PJSK:main:wonder_01_19:01:002:0014–0022`; `PJSK:main:wonder_01_20:01:002:0026–0050`.
+
+#### CR-WXS-MS-NENE-MEDIATION-P06 — PRESERVE
+
+**Chain:** `CR-WXS-MS-NENE-MEDIATION`. **Prior ID:** CR-WXS-MS-NENE-MEDIATION-P05. **Prior analytical statement:** Nene privately returns, discloses desire and fear, and credits robot-enabled enjoyment; return is not a cure.. **Source-local target:** Chosen participation with fear and enabling robot, no cure.
+
+**Bounded revised claim:** Renewed show and professional aim coexist with nerves and mediated speech; future joint appearance with robot remains intention. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_19:01:002:0012–0027`; `PJSK:main:wonder_01_20:01:002:0003–0006`; `PJSK:main:wonder_01_20:01:002:0031–0032`; `PJSK:main:wonder_01_20:01:002:0045–0046`.
+
+#### CR-WXS-MS-STAGE-SURVIVAL-P06 — OPEN
+
+**Chain:** `CR-WXS-MS-STAGE-SURVIVAL`. **Prior ID:** None; source-local proposition or initial interpretation is the target. **Prior analytical statement:** NO_PRIOR_WXS_FOUNDATION_CLAIM; evaluating a source-local statement or initial inference. **Source-local target:** Family condition disclosed and common action intended.
+
+**Bounded revised claim:** Emu's communicated result supports local preservation, not permanent finances, contract or parental agreement beyond the scene. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_20:01:002:0008–0029`.
+
+#### CR-WXS-MS-RUI-SOLO-P06 — REVISE
+
+**Chain:** `CR-WXS-MS-RUI-SOLO`. **Prior ID:** CR-WXS-MS-RUI-SOLO-P04. **Prior analytical statement:** Rui directly recognizes what working with companions made possible, then rejects this harmful interaction.. **Source-local target:** Returned collaborator after judged compatibility.
+
+**Bounded revised claim:** Rui explicitly chooses further direction with this company; this is not a universal change to every context. Historical conduct and former valid states remain preserved.
+
+**Evidence:** `PJSK:main:wonder_01_20:01:002:0030–0046`.
+
+## Historical EVENT_0001 — ordered unit integration
+
+The [event reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0001_DEEP_READING.md) owns shared causal interpretation. **Leo/need I2; WxS/MMJ I1; N25/VBS I0.** Preserve all prior phase and later-event histories in their own periods. The following records are EVENT_0001-qualified; source confidence is HIGH for observed dialogue and bounded testimony, while duration, absent-side knowledge and unshown outcomes remain OPEN. Retaining a human state does not erase new relationship or knowledge evidence.
+
+### `LN-CR-002` — EVENT_0001
+
+**Prior responsibility:** LN-CR-002@P04. Earlier formulations remain valid at their own cutoffs.
+
+Ichika’s initiative already existed; visit/pacing/flowers add further applications and history.
+
+**Evidence:** `PJSK:event:0001:06:004:0002–0048`; `PJSK:card:0109:02:002:0003–0042`; `PJSK:card:0113:01:001:0002–0012`; `PJSK:card:0113:01:002:0002–0023`; `PJSK:card:0113:01:003:0002–0022`.
+
+**Interpretive consequence:** Reuse existing phase-qualified claim responsibility; retain exact prior records and earlier source boundaries. **Limits / OPEN:** Longitudinal durability and causal onset only as source permits.
+
+### `LN-CR-004` — EVENT_0001
+
+**Prior responsibility:** LN-CR-004@P03. Earlier formulations remain valid at their own cutoffs.
+
+Serious playing and care coexist; support may include changing own rhythm parts while retaining musical aims.
+
+**Evidence:** `PJSK:event:0001:05:001:0002–0058`; `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`.
+
+**Interpretive consequence:** Reuse existing phase-qualified claim responsibility; retain exact prior records and earlier source boundaries. **Limits / OPEN:** Longitudinal durability and causal onset only as source permits.
+
+### `LN-CR-005` — EVENT_0001
+
+**Prior responsibility:** LN-CR-005@P03. Earlier formulations remain valid at their own cutoffs.
+
+Shiho’s rigor, solitude preference, care and embarrassment remain distinct; frustration at missed care adds situational detail.
+
+**Evidence:** `PJSK:event:0001:03:001:0002–0049`; `PJSK:event:0001:07:003:0031–0065`; `PJSK:card:0111:01:001:0003–0058`.
+
+**Interpretive consequence:** Reuse existing phase-qualified claim responsibility; retain exact prior records and earlier source boundaries. **Limits / OPEN:** Longitudinal durability and causal onset only as source permits.
+
+### `LN-CR-006` — EVENT_0001
+
+**Prior responsibility:** LN-CR-006@P03. Earlier formulations remain valid at their own cutoffs.
+
+Private protection can restrict informed response: illness concealment and misunderstanding postponement now complicate reciprocal care.
+
+**Evidence:** `PJSK:event:0001:04:003:0002–0006`; `PJSK:event:0001:04:004:0002–0011`; `PJSK:event:0001:04:006:0002–0027`; `PJSK:event:0001:04:007:0002–0014`; `PJSK:event:0001:05:001:0002–0058`; `PJSK:event:0001:07:003:0031–0065`.
+
+**Interpretive consequence:** Reuse existing phase-qualified claim responsibility; retain exact prior records and earlier source boundaries. **Limits / OPEN:** Longitudinal durability and causal onset only as source permits.
+
+### `LN-CR-008` — EVENT_0001
+
+**Prior responsibility:** LN-CR-008@P04. Earlier formulations remain valid at their own cutoffs.
+
+Accusations/self-blame remain situated speech; current responsibility-taking must not be promoted to sole medical or moral causation. Preserve original Honami-specific claim.
+
+**Evidence:** `PJSK:event:0001:07:003:0031–0065`; `PJSK:card:0111:01:001:0003–0058`.
+
+**Interpretive consequence:** Reuse existing phase-qualified claim responsibility; retain exact prior records and earlier source boundaries. **Limits / OPEN:** Longitudinal durability and causal onset only as source permits.
+
+### `LN-CR-009` — EVENT_0001
+
+**Prior responsibility:** LN-CR-009@P04. Earlier formulations remain valid at their own cutoffs.
+
+Plural belonging already succeeded and introductions/performance links were welcomed. Honami’s new lunch invitation implements that permission and reduces residual mental separation.
+
+**Evidence:** `PJSK:card:0112:01:001:0002–0009`; `PJSK:card:0112:01:002:0002–0037`; `PJSK:card:0112:02:001:0043–0056`.
+
+**Interpretive consequence:** Reuse existing phase-qualified claim responsibility; retain exact prior records and earlier source boundaries. **Limits / OPEN:** Longitudinal durability and causal onset only as source permits.
+
+### `LN-CR-010` — EVENT_0001
+
+**Prior responsibility:** LN-CR-010@P04. Earlier formulations remain valid at their own cutoffs.
+
+Serious collaborative practice has new concrete adaptive evidence; reported style change does not establish a crisis-caused transition or professional outcome.
+
+**Evidence:** `PJSK:card:0111:02:001:0002–0013`; `PJSK:card:0111:02:002:0002–0014`; `PJSK:card:0111:02:003:0002–0022`.
+
+**Interpretive consequence:** Reuse existing phase-qualified claim responsibility; retain exact prior records and earlier source boundaries. **Limits / OPEN:** Longitudinal durability and causal onset only as source permits.
+
+### `LN-CR-011` — EVENT_0001
+
+**Prior responsibility:** LN-SAKI-MS-P04@P04; LN-CR-006@P03. Earlier formulations remain valid at their own cutoffs.
+
+Saki’s existing overexertion vulnerability is more specifically explained by feared disappearance of missed and even remembered shared time. Acknowledged pacing becomes credible through shared plans and help; new motive evidence is not the onset of the historical fear or a guarantee of lasting mastery.
+
+**Evidence:** `PJSK:event:0001:01:001:0003–0020`; `PJSK:event:0001:01:002:0006–0017`; `PJSK:event:0001:01:005:0014–0016`; `PJSK:event:0001:07:003:0002–0030`; `PJSK:event:0001:07:003:0031–0065`; `PJSK:card:0109:02:002:0003–0042`; `PJSK:card:0110:01:001:0004–0036`.
+
+**Interpretive consequence:** New explanatory responsibility for Saki’s disclosed fear; does not duplicate the star motif or rewrite P04. **Limits / OPEN:** Durability, exact earlier onset and future reliable implementation OPEN.
+
+**Other-unit disposition:** WxS/MMJ foundation claims preserved; no distinct claim revision warranted by the bounded I1 evidence. N25/VBS no delta.
+
+
+## Historical EVENT_0002 — founded Leo/need integration
+
+The [Honami checkpoint](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0002_LN_INTEGRATION_CHECKPOINT.md) owns this bounded comparison; the existing N25 reading retains the event's main causal account. All earlier ledger bytes remain historical evidence at their own cutoffs.
+
+**PRESERVE / no new LN claim ID.** Honami's active care, qualified advice and reciprocal interests supply event-qualified characterization and knowledge without a contradiction requiring a separate claim revision. P04 already establishes disclosure and plural affiliation; EVENT_0001's distinctions remain intact. Neither helpfulness-as-pure-rejection-fear nor omniscient advice is established as a prior governing LN claim that now needs reversal. The character/relationship/epistemic entries own this new context. Existing N25 EVENT_0002 claims and every later extension retain their temporal responsibility. No mature franchise-wide claim follows from a single cross-unit channel.
+
+
+## Historical EVENT_0004 — omitted linked-area supplement
+
+See the [scope-corrected checkpoint](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_N25_INTEGRATION_CHECKPOINT.md) §15. Earlier EVENT_0004 and later historical records remain unchanged.
+
+**PRESERVE existing EVENT_0004 §7.2 claims; no new ID.** The event-qualified `CR-N25-MF-006/007/008` and `CR-CROSS-EMU-MF-001` remain valid; identical earlier main-story IDs retain their separate section scopes. Area009 does not independently prove spontaneous positive affect or successful intervention. It reinforces the limit that sensitivity and benevolent intention confer neither explanatory authority nor guaranteed efficacy (`PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010`). Preserve original stronger evidence and all downstream revisions at their own cutoffs.
+
+
+## Historical EVENT_0003 — ordered interpretation and Rui epistemic transition
+
+The [EVENT_0003 reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0003_DEEP_READING.md) integrates WxS I3 and the bounded LN I1 appendix after their preceding routes. The original source screen, all earlier ledgers and the EVENT_0004 source supplement remain historically intact. No new human or company ID is introduced.
+
+### `CR-WXS-RUI-ATTACHMENT-E0003` — EVENT_0003 chosen collaboration can produce inhibition
+
+**STRENGTHEN_AND_REFINE.** PRESERVE Rui's explicit choice to continue with these particular performers. REFINE its causal meaning: the already valued place can become something he fears losing, and after the accident that fear is compatible with restraint he initially does not understand. His tentative recognition, renewed directing and later deliberate safety planning support this account. The reading does not rewrite earlier solo claims as knowingly false, make every childhood refusal unjustified or prove durable cure. Chain: CR-WXS-MS-RUI-SOLO.
+
+**Evidence:** `PJSK:event:0003:01:004:0005–0021`; `PJSK:event:0003:05:001:0038–0049`; `PJSK:event:0003:06:001:0005–0027`; `PJSK:event:0003:06:001:0051–0099`; `PJSK:card:0119:01:002:0019–0033`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Reliability beyond this context.
+
+### `CR-WXS-STAR-PURPOSE-E0003` — EVENT_0003 care as enabling work with self-pressure
+
+**STRENGTHEN_AND_REFINE.** Preserve the P06 recipient-oriented purpose and grandiose register. Tsukasa values Rui's ability to create and names an environment-enabling leader role; mat procurement and storage problem-solving make it practical. REFINE the vulnerability: the same purpose can become a self-condemning demand never to worry or inhibit others. His accident-related self-blame is attributed and does not certify culpability. Neither affection nor initiative originates here. Chain: CR-WXS-MS-STAR-PURPOSE.
+
+**Evidence:** `PJSK:event:0003:06:001:0102–0122`; `PJSK:card:0120:01:004:0002–0018`; `PJSK:card:0120:02:003:0011–0022`; `PJSK:card:0120:02:004:0003–0020`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Future bodily-limit negotiation.
+
+### `CR-WXS-PERFECTION-E0003` — EVENT_0003 fallibility and self-directed perfection
+
+**PRESERVE_WITH_TARGETED_REFINEMENT.** Preserve that Tsukasa had already rejected blaming a colleague merely for trying and failing. His immediate post-accident reassurance and practical mat limits are compatible with that prior. The event nevertheless exposes self-directed perfection: he calls himself unfit for worrying the director and promises perfect response before qualifying danger. This refines a pressure vulnerability without claiming he has returned to the main-story attack on Nene or that acknowledged fallibility has vanished. Chain: CR-WXS-MS-PERFECTION.
+
+**Evidence:** `PJSK:event:0003:03:001:0059–0067`; `PJSK:event:0003:06:001:0111–0122`; `PJSK:event:0003:07:003:0075–0085`; `PJSK:card:0120:02:004:0005–0010`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Whether pressure generalizes beyond this incident.
+
+### `CR-WXS-NENE-MEDIATION-E0003` — EVENT_0003 participation with multiple enabling channels
+
+**STRENGTHEN.** Preserve chosen participation, professional aim and the absence of a cure/mastery claim. Nene's consultation initiative, script work, direct practical exchanges and private message question broaden ordinary evidence. Rui reports present onstage independence and a Nenerobo autonomous upgrade under trial; the future robot stage appearance remains prospective. A medium can enable contribution or disclosure without invalidating it. Neither gaming friendship nor preference for quiet is erased by valued in-person company. Chain: CR-WXS-MS-NENE-MEDIATION.
+
+**Evidence:** `PJSK:event:0003:05:001:0067–0077`; `PJSK:card:0123:01:003:0019–0030`; `PJSK:card:0123:02:002:0042–0055`; `PJSK:area:areatalk_ev_wonder_01_005:01:001:0002–0009`; `PJSK:area:areatalk_ev_wonder_01_007:01:001:0002–0007`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Generalization across unfamiliar settings.
+
+### `CR-WXS-STAGE-SURVIVAL-E0003` — EVENT_0003 local security and contest horizon
+
+**STRENGTHEN_LIMIT_AND_PRESERVE_OPEN.** Preserve P06's local preservation claim and its explicit refusal of permanent financial/contractual certainty. The mascot says demolition is currently stopped and greater popularity may persuade the family. Emu wants lasting continuity; that wish is not achieved institutional security. First interim third place is not a final win or acquired television role. Chain: CR-WXS-MS-STAGE-SURVIVAL.
+
+**Evidence:** `PJSK:event:0003:08:002:0002–0024`; `PJSK:card:0122:02:001:0039–0051`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Final contest outcome; Permanent stage protection.
+
+### `CR-WXS-RESTRAINT-DECEPTION-E0003` — EVENT_0003 restraint is not verified conscious lying
+
+**REJECT_SOURCE_LOCAL_OVERCLAIM.** Reject adopting Tsukasa's lying accusation as authoritative motive narration. Rui first cannot explain the altered work, asks for Nene's observation and later tentatively recognizes fear under KAITO's questions. Observable restraint is supported; knowing deliberate deception is not established. Rui's and Tsukasa's disqualification statements likewise remain self-condemnations rather than analytical verdicts.
+
+**Evidence:** `PJSK:event:0003:05:001:0002–0049`; `PJSK:event:0003:06:001:0075–0090`; `PJSK:event:0003:06:001:0111–0122`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** Unconscious-motive language remains tentative self-interpretation.
+
+### `CR-WXS-RISK-DISCLOSURE-E0003` — EVENT_0003 care and consent do not certify equipment safety
+
+**OPEN_WITH_BOUNDED_REJECTIONS.** Preserve observable precautions, Rui's concern and Nene's trust as distinct from verified engineering safety. A general uncertainty warning and Tsukasa's assent precede a surprise updraft; later broad willingness is qualified. Mats, belt and a successful local test establish the described setup/outcome and participant appraisals, not universal safety or permanent permission. Tsukasa explicitly rejects Emu's roof-jump inference; staff separately refuse her a test. No diagnosis or lasting cure follows from either fall or reported hospital reassurance.
+
+**Evidence:** `PJSK:event:0003:03:001:0027–0067`; `PJSK:event:0003:04:001:0004–0009`; `PJSK:event:0003:06:001:0047–0050`; `PJSK:event:0003:07:003:0014–0017`; `PJSK:event:0003:07:003:0043–0085`; `PJSK:card:0119:02:002:0040–0069`; `PJSK:card:0120:02:004:0005–0010`.
+
+**Confidence:** HIGH for observed acts, utterances and receipt of reports; MODERATE for expressly bounded psychological/structural interpretation. **Temporal scope:** EVENT_0003 local core/card/condition boundaries; no total card order. **OPEN:** General equipment safety; Future consistency of disclosure and permission.
+
+### Bounded Leo/need disposition — EVENT_0003
+
+LN claims PRESERVE; no new or revised claim ID. The short home exchange supplies a context example, not evidence of recovery, new care capacity or intentionally authored stage safety advice.
+
+
+## Historical EVENT_0004 — founded cross-unit interpretation complete
+
+Historical EVENT_0004 is now fully integrated across its founded unit scopes: **MMJ I3**, **WXS I3**, **LEO_NEED I2**, **VBS I1**, and **N25 I2 preserved** with the earlier area009 I1 supplement. The [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md), [WxS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md) and [Leo/need–VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md) close the previously sparse non-active-unit detail through targeted evidence review. The retained complete discovery plus omitted area comprises 27 stories / 53 scenes / 1,433 records; no new universal pass is claimed. Haruka–Emu friendship and Haruka's continuing class access support I3; Saki's informed reliance implements her existing approach at I2. All human/group defaults remain, with differentiated ordinary, relationship and knowledge increments. Shared records have one reconciled EVENT4 entry per responsibility. Wonderland participants remain distinct from other manifestations. Nineteen historical screening gaps start at EVENT_0005; forward next EVENT_0091 and mature reconstruction/synthesis obligations remain unchanged.
+
+### MMJ-CL-001 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Preserve uncertain enabling hope and its limits. Add school participation as a context in which received enjoyment/support can motivate future hope-giving after a valued activity ends. The claim is supported by specific testimony and observed/reported benefit, not the assumption that all encouragement succeeds.
+
+**Evidence:** `PJSK:event:0004:02:002:0020–0031`; `PJSK:event:0004:08:001:0025–0053`; `PJSK:event:0004:08:003:0019–0024`; `PJSK:card:0125:02:002:0026–0054`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future durability and unshown transmission remain OPEN.
+
+### MMJ-CL-E0004-SCHOOL — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [MMJ reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0004_MMJ_INTEGRATION_CHECKPOINT.md).
+
+Haruka voluntary school work serves others and yields experiences she wants for herself; explicit joy, sadness, gratitude and anticipation coexist with continued practice and responsibility. Shared work/personal interests can reduce celebrity-mediated distance for shown peers. This neither completes the school-only retirement explanation nor proves total recovery or universal popularity.
+
+**Evidence:** `PJSK:event:0004:01:002:0003–0035`; `PJSK:card:0128:01:003:0008–0011`; `PJSK:event:0004:07:001:0019–0028`; `PJSK:event:0004:08:003:0003–0024`; `PJSK:card:0125:01:002:0025–0054`; `PJSK:card:0125:02:002:0045–0054`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future durability and unshown transmission remain OPEN.
+
+### CR-WXS-SHARED-HAPPINESS-E0004 — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Preserve that everyone includes the helper and performers. Emu applies this aim to a school event, accepts support for her own participation and openly shares sadness when the good time ends. Her grandfather-derived tomorrow-oriented account gives joy temporal purpose without making sadness a failure. Her variable fear and partial smile judgments around Mafuyu refine the mechanism: wanting shared happiness is not reliable access to another's experience or guaranteed efficacy. This WxS claim concerns her practice; the established N25 affect/opacity claims retain their own home.
+
+**Evidence:** `PJSK:event:0004:02:002:0016–0026`; `PJSK:card:0124:02:002:0047–0067`; `PJSK:event:0004:08:001:0026–0053`; `PJSK:card:0127:01:001:0058–0063`; `PJSK:area:areatalk_ev_shuffle_01_004:01:001:0002–0006`; `PJSK:area:areatalk_ev_shuffle_01_009:01:001:0004–0010`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Universal efficacy, affect explanation and future self-pacing remain OPEN.
+
+### CR-WXS-PERFECTION-E0004 — EVENT_0004 bounded responsibility
+
+**Prior and scope:** New bounded responsibility; no human successor implied. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Preserve accepted fallibility and self-pressure tension. Isolated success-only rhetoric does not establish restored punitive blame: Tsukasa permits the flow to continue after a minor error and later prioritizes Emu's health-related work accommodation. Nene's stern instruction is likewise embedded in reducing demands. This ordinary episode supports care under imperfect performance without proving future immunity to humiliation or erasing the harmful main-story history.
+
+**Evidence:** `PJSK:card:0124:02:001:0005–0009`; `PJSK:card:0124:02:002:0013–0018`; `PJSK:card:0124:02:002:0022–0057`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Future failure response remains OPEN; no permanent cured perfectionism.
+
+### CR-WXS-RISK-DISCLOSURE-E0003 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [WXS reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0004_WXS_INTEGRATION_CHECKPOINT.md).
+
+Retain care, assent, attribution and physical safety as separate responsibilities. Fatigue prompts changed proposed practice; Emu's reported childhood solo acrobatics drew a warning. Her earlier attempt to climb a locked store was stopped, and her tree viewpoint is shown without school safety authorization. No energetic movement, warm relationship, successful outcome or shared photo assent provides universal permission or verified safety.
+
+**Evidence:** `PJSK:card:0124:02:002:0033–0057`; `PJSK:card:0124:01:002:0033–0038`; `PJSK:event:0004:03:002:0007–0014`; `PJSK:event:0004:05:001:0045–0057`; `PJSK:card:0128:02:004:0006–0018`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. General safety, consistent future disclosures and respect for expressed boundaries remain OPEN.
+
+### LN-CR-006 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Preserve earlier private-protection limits. Saki now shares enough about uncertain capacity before illness for Haruka/Emu to offer informed help. This demonstrates a useful alternative in one event, not that privacy itself is harmful or all future requests will be easy.
+
+**Evidence:** `PJSK:card:0128:01:003:0015–0035`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. No universal openness rule or complete transfer of LN history.
+
+### LN-CR-011 — EVENT_0004 context increment
+
+**Prior and scope:** Append EVENT4 context; preserve prior text and historical defaults. Causal home: [LN/VBS reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0004_LN_VBS_INTEGRATION_CHECKPOINT.md).
+
+Retain specific fear history and previously accepted gradual plans. Here proactive reliance and capacity-bounded reciprocity accompany completed participation and a later growth claim; one concrete implementation narrows the earlier OPEN about any use without settling general reliability.
+
+**Evidence:** `PJSK:card:0128:01:002:0009–0017`; `PJSK:card:0128:01:003:0015–0035`; `PJSK:event:0004:08:001:0002–0007`.
+
+**Confidence and limits:** HIGH for source acts, speech and recipients; MODERATE for bounded interpretive comparison. Exact limits, relapse risk and broad durability remain OPEN.

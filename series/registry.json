@@ -421,6 +421,7 @@
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_RE_ZERO_BOOTSTRAP_V0_1",
+      "project_initiation_gate": "REQUIRED",
       "authority_status": "GIT_PRIMARY",
       "catalog_note": "post-cutover Git-native analytical root; source witnesses remain outside Git unless separately admitted through the governed evidence boundary."
     },
@@ -584,6 +585,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "tokyo-7th-sisters",
+      "stable_slug": "tokyo-7th-sisters",
+      "canonical_title": "Tokyo 7th Sisters",
+      "media": [
+        "MOBILE_GAME"
+      ],
+      "repository_path": "series/tokyo-7th-sisters/",
+      "canonical_entrypoint": "series/tokyo-7th-sisters/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20260909",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Game-first analytical architecture under approved design 1.1. T7S_B0001–B0003 close the exact first 11 Main episodes through 201000201 with synchronized readings, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. B0002 completes Haru's first chapter and B0003 opens but does not complete Musubi's. Next candidate 201000202 is not admitted; Haru is R2 state-bounded, and no monograph, model, specialist, or synthesis is promoted."
     },
     {
       "series_id": "tomozaki",

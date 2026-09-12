@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: RELATIONSHIPS
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -42,6 +42,12 @@ do_not_use_as_current_authority: false
 
 
 # MHA SP2 — Relationship State Ledger
+
+## Current source-admissibility correction — continuation
+
+Hawks/Tokoyami reciprocity is temporally split: Tokoyami arrives at V27:p179; extraction, accusation and voiced belief belong to V28:p060–077 (p062 portrait excluded). Preserve the mentorship relation while excluding received rescue from a V27 freeze. In the Big Three sequence, V36:p170–171 distinguishes Mirio's spoken apology from internal reconsideration, p173–179 supplies coordination and p181 Tamaki's changed reception of belief; the broad battle interval excludes author matter including p180. V42:p149,p151,p153 adds adult Tamaki's care and correctable social interpretation. Shoto's food question and Toya's apology at V42:p062–064 establish one directed movement, not universal family reconciliation; Ochako/Midoriya's p180–183 approach does not establish marriage or an unshown relationship history.
+
+These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
 
 
 
@@ -9639,3 +9645,88 @@ Explicit friend-language and praise deepen the relationship beyond employer/tech
 ## Stain -> All Might — recognition culminates in `生きて勝て`
 
 - Stain's final direct contribution to All Might is survival-oriented. The true-hero ideal is therefore not reducible to glorious death.
+
+# Volume 41 relationship deltas
+
+## Midoriya -> Shigaraki — rescue without annexation
+
+**State:** `personhood recognition + rescue commitment under explicit refusal -> memory access -> recognition of adult chosen bonds -> OFA self-dispossession as intervention`.
+
+- `V41:p019`: Midoriya insists Shigaraki is a person without claiming he knows the outcome of rescue.
+- `V41:p028-035`: persists despite Shigaraki's destructive self-description; the route is explicitly a wager.
+- `V41:p069 onward`: Shigaraki's `拒絶` remains real; rescue is not retroactively converted into consent.
+- `V41:p109-110`, `p113-119`: Nana blocks Kotaro while Midoriya reaches Tenko; Midoriya then maintains dangerous hand contact. The two agents' contributions remain distinct.
+- `V41:p113-123`: adult Shigaraki's chosen League identity interrupts any simple “true child / false adult” model.
+
+**Current relationship rule:** Midoriya can intervene coercively to stop catastrophic harm while still being required to recognize that Shigaraki has an adult history he does not own.
+
+## Shigaraki -> Midoriya — refusal and involuntary intimacy without capitulation
+
+**State:** `destructive opponent -> active rejection of rescue framing -> shared-memory penetration -> explicit adult self-authorship claim`.
+
+Shigaraki does not become a grateful rescue recipient in V41. He uses the memory encounter to insist that his League bonds and villain role are his. Final state after AFO reemergence remains OPEN.
+
+## AFO -> Tenko/Shigaraki — manufactured autonomy in service of possession
+
+**State:** `mentor/possessor -> revealed developmental designer / Quirk engineer -> renewed total capture attempt`.
+
+- AFO deliberately wants Tenko to experience choice while guiding conditions around him (`V41:p132-135`).
+- His later `全部だ` claim is the relationship's maximal ownership formulation.
+- AFO's return after Tenko interior collapse (`V41:p131`) must not be read as proof of prior voluntary submission.
+
+## Shigaraki -> AFO — identity dispute sharpened
+
+V40's `先生…邪魔するなよ` autonomy evidence remains authoritative. V41 adds direct contradiction:
+
+`Shigaraki: 僕が…選んだんだ`
+
+`AFO: 君は何一つ選んでなどいない`.
+
+The relationship should be modeled as manipulated development plus later active resistance, not as a single stable obedience state.
+
+## Aizawa / Present Mic / Kurogiri-Shirakumo — relation after irreversible change
+
+- Mic's grief resists pretending the old school trio can simply be restored.
+- Aizawa seeks a usable relational origin inside a changed mixed identity.
+- Kurogiri responds enough for shared action without resolving who/what the final person is.
+
+**State:** `lost friend / constructed antagonist binary -> uncertain mixed continuity capable of relation`.
+
+## Eri -> Midoriya — rescue subject becomes bounded reciprocal helper
+
+- `V41:p157-159`: Eri gives the horn for Midoriya and imagines a future in which she sings for him/others.
+- Relation now contains reciprocal help without requiring Eri to become an adult frontline hero.
+
+## Class 1-A / coalition -> Midoriya — vulnerability becomes a mobilizing relation
+
+- `V41:p142-176`: others repeatedly rescue/re-enable Midoriya.
+- `V41:p175`: Aoyama makes two-way need explicit.
+- `V41:p179-195`: classmates/allies construct the physical path through which Midoriya acts.
+
+**Revision:** Midoriya's final relationship network is not audience/support around a solitary savior; it is part of the causal machinery of his agency.
+
+
+# Volume 42 cumulative closure
+
+Earlier relationship states remain chronology-specific. The following final deltas distinguish actions from interpretations and unobserved futures.
+
+| Relation | V42 change and evidence | Boundary |
+|---|---|---|
+| Midoriya -> Shigaraki | Opposes unforgiven acts, receives a message, admits failure to save life, then carries Tomura's words to Spinner (`p019-020,p030-031,p073-081`). | Recognition/terminal witness does not mean acquittal or a rehabilitation future. Heart rescue is All Might's interpretation. |
+| Shigaraki -> Midoriya / Spinner | Narrow terminal trust in Midoriya as courier; Spinner alone is chosen message recipient (`p019-020,p074-075`). | Neither general gratitude nor replacement of Tomura by an innocent child. |
+| Spinner -> Tomura / Midoriya / Shoji | First-friend/gaming memory, self-critique and adversarial historical authorship; a rude encouragement goes to Shoji (`p076-081`). | Continued loyalty does not prove endorsement by the narrator; writing is not established pacifism. |
+| AFO -> Yoichi | Explicit love/need combined with denied permission to separate (`p014-015`). | Intense attachment and respectful care diverge. |
+| Kurogiri -> Shota / Hizashi / Shigaraki | Apology to former friends precedes demand to return Shigaraki to waiting friends (`p009-011`). | Mixed continuity; no pure restoration or ordinary future. |
+| Midoriya <-> Bakugo | Grief over lost power, class-funded armor, missed recruitment invitation and self-worth advice (`p033-035,p140-141,p156-161`). | Bluntness, ambition and social mistakes persist within mutual support. |
+| Ochako -> Toga | Grief and self-blame, later counseling and dream/apparition experience (`p098-117,p149-155,p177-183`). | Self-blame is not proof of sole causal responsibility; literal vestige mechanism unconfirmed. |
+| Midoriya <-> Ochako | Receives/offers grief support, names specific desire for more contact, reciprocates and takes hands (`p110-117,p177-183`). | Strong romantic movement; no on-page formal dating/marriage label. |
+| Shoto <-> Toya | Food question, soba/shared preference, Toya's local apology; later altar reference (`p061-064,p167`). | Local connection is neither bodily restoration nor total forgiveness. |
+| Endeavor -> family | Continuing conversation/restitution without requiring Natsuo's return (`p057-066`). | Family members retain distinct assessments and boundaries. |
+| Chisaki -> boss / Eri | Boss meeting ends in apology to the boss and demand to remember Eri's suffering (`p082-083`). | Eri-directed apology and durable reform are still unobserved. |
+| Hawks -> Nagant / institutions | Offers help and allows her chosen delay; reform becomes his responsibility (`p067-069,p118-119,p150`). | Trust is conditional, not restored by a single kind successor. |
+| Aoyama -> peers | Chooses repair despite permission to remain, recalls taking their hand (`p045-047`); adult Hagakure sidekick (`p164`). | Flamboyant style and accountability coexist; Mirio owns the negative-to-zero speech. |
+| Kirishima -> prospective employees / Fat Gum | Carries received employer-responsibility advice into adult recruiting (`p157`). | Care can require assessing another's future, not simply welcoming everyone. |
+| Asui -> Ochako | Asks about grief/dreams/medical reassurance and suggests another opinion (`p153-155`). | Familiar directness permits concern without supernatural certainty. |
+| Adult Class A | Intermittent contact, distinct jobs, teasing and rapid coordinated response (`p135,p162-175`). | Reduced co-presence is not abandonment; maturity is not uniform agreeableness. |
+
+The final source endpoint closes observed manga events, not every relationship's future. Terminal voices must not be generated as living adult observations.
