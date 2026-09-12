@@ -4,29 +4,29 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.1"
+version: "4.0"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main EPISODE 1.0 / T7S_B0001–T7S_B0011 / all 91 primary episode documents and all eleven authored choice branches; no later or non-Main story source"
-architecture_lifecycle: INITIAL
+source_boundary: "c20260909-r484; complete native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, and EPISODE 3.0 / T7S_B0001–T7S_B0041 / 183 primary episode documents; no AXiS or later/non-Main story source"
+architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-10
+last_updated: 2026-09-12
 ---
 
 # Tokyo 7th Sisters claim and evidence ledger
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend only through the complete admitted native Main EPISODE 1.0 horizon. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend only through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, and EPISODE 3.0 horizon. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 119`; `revisions = 8`; `predictions = 7`; `AV_reviews = 22`; `literary_findings = 119`. Claims are bounded to their stated B0001 through B0011 horizons and integrated only across native Main EPISODE 1.0. No performed-voice, singing, or music interpretation is admitted. Complete B0010 establishes Alessandra's disciplined fandom, explicit but pressured ninth-performer entry, actor-local touch relations, and a genuine public welcome built on a false departure inference. B0011 distinguishes Sawara, Kajika, and Shinju's motives, preserves Shinju's accounting future and repeated refusals, and treats qualified sister-together enjoyment plus branch-aware assent as the route to a twelve-person roster. Formation, non-replicative inheritance, distributed care, local consent, and plural identity are supported; deception, surveillance, privacy, touch, naming, costume, gender, resource, and professional-boundary failures remain counterexamples. No claim has earned specialist or monograph promotion.
+`claims = 265`; `revisions = 18`; `predictions = 7`; `AV_reviews = 30`; `literary_findings = 265`. Claims are bounded to their stated B0001 through B0041 horizons and integrated across complete Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, and EPISODE 3.0 only. No performed-voice, singing, instrumental-technique, or music-affect interpretation is admitted. EPISODE 3.0 makes composition without substitution its dominant formal problem: differentiation returns as collective capacity, care becomes accompaniment rather than commanded output, and apparently solo/public acts disclose hidden contributors. Local ethical revisions do not yet constitute reliable institutional governance. No claim has earned specialist or monograph promotion.
 
 ## Claim record contract
 
@@ -239,9 +239,315 @@ Horizon is complete category-qualified Main chapter `300110`, episodes `20100100
 | `CL-B0011-011` | `SOURCE_FACT`; D0; high at boundary | **EPISODE 1.0 closes with twelve current Nanasta performers and continued worldwide scouting intent, not a completed institution.** | `EV-B0011-007`, `008`; `UNIT-0002`; episode `201001009`, logs 11–48. No final unit structure, contracts, stable labor, audience recovery, or governance maturity follows from roster count. |
 | `CL-B0011-012` | `RECONSTRUCTION_RULE`; D0; high | **Every B0011 contest/song is elided, and recovered dialogue cues were not listened to.** | `EV-B0011-002`, `005`–`007`; `AV-0022`. No singing technique, comparative quality, choreography, vocal psychology, or music-affect claim is admitted. |
 
+### T7S_B0012 claims
+
+Horizon is the six Main 4U prologues `203000701`–`203000902`; owner is [T7S_B0012_DEEP_READING.md](../02%20Readings/T7S_B0012_DEEP_READING.md).
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0012-001` | `THEMATIC_INTERPRETATION`; D1; high within block | **4U enters as a present outside rather than another Nanasta recruitment deficit.** It already has members, audience, venue, public personae, practice, and internal disagreement. | `EV-B0012-001`–`003`; `UNIT-0007`. Rival: a temporary antagonist packet. Repeated return plus Coney's continuing-rival formulation defeats that within the unit; later durability remains untested. |
+| `CL-B0012-002` | `RECONSTRUCTION_RULE`; D0; high | **Three favorable reported outcomes for Nanasta do not adjudicate the rock/idol argument or technical quality.** The acts are elided and the conflict intensifies after each. | `EV-B0012-001`–`003`; complete B0012 sources; `AV-0024`. Outcome is narratively available; singing, playing, choreography, and comparative technique are not. |
+| `CL-B0012-003` | `BOUNDED_INFERENCE`; D1; high | **Hina's mediation is member labor, not neutrality.** She objects to deception, restrains escalation, and makes a friendlier encounter possible while remaining committed to 4U. | `EV-B0012-001`, `003`; `CHAR-0024`. Rival: the uncomplicated cheerful member. Later dissent and dissolution strengthen the labor reading without back-projecting every motive. |
+
+### T7S_B0013 claims
+
+Horizon is `203001101`–`203001302`; owner is [T7S_B0013_DEEP_READING.md](../02%20Readings/T7S_B0013_DEEP_READING.md).
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0013-001` | `THEMATIC_INTERPRETATION`; D1; high within block | **Ume's authenticity hierarchy contradicts the evidence of her own practice.** Her public “natural” persona is knowingly constructed while rehearsal, authorship claims, and audience obligation remain serious; mediation is not equivalent to emptiness. | `EV-B0013-001`. Rival: exposure of a fake self. The block instead presents multiple fabricated layers plus genuine labor; complete private self remains irreducible. |
+| `CL-B0013-002` | `BOUNDED_INFERENCE`; D1; high | **“Eternal music” is addressed to the absent judge it claims to supersede.** Ume makes Nicole the desired witness of 4U's superiority after declaring Nicole/idols over. | `EV-B0013-001`; `KNOW-0031`. This establishes dependence of the doctrine on Nicole, not yet its childhood cause. |
+| `CL-B0013-003` | `BOUNDED_INFERENCE`; D1; high | **Coney's claim that Nanasta performers shine themselves is a genuine distributed-agency principle that remains ethically incomplete.** | `EV-B0013-002`; `CHAR-0003`; `THREAD-0002`. It advances beyond replication/control rhetoric but does not repair concealment, coercion, or Ume's grievance. |
+| `CL-B0013-004` | `THEMATIC_INTERPRETATION`; D1; high within block | **Hina and Shinju relocate the conflict from genre supremacy to shared purpose and visible unhappiness.** Hina's loved music is not made to defeat idols; Shinju observes that Ume is not happy in the confrontation. | `EV-B0013-004`; `REL-0095`, `0096`. Rival: naïve peacemaking. Hina's later repeated dissent and costly dissolution show member governance rather than conflict avoidance alone. |
+
+### T7S_B0014 claims
+
+Horizon is “Lost Idols,” episodes `203001401`–`203001402`; owner is [T7S_B0014_DEEP_READING.md](../02%20Readings/T7S_B0014_DEEP_READING.md).
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0014-001` | `THEMATIC_INTERPRETATION`; D1; high within block | **Seven Sisters fandom produces real social capacity before its loss.** It gives isolated Ume a shareable preference, conversations, peers, and a more livable world. | `EV-B0014-001`, `002`. Rival: shallow popularity-seeking. The emphasis on being heard and sharing ordinary life supports the relational account. |
+| `CL-B0014-002` | `BOUNDED_INFERENCE`; D1; high | **Emoco is Ume's first durable witness and also an enabler of her defensive answer.** She listens before fandom, remains after peer departure, and accepts 4U because it is Ume's chosen answer. | `EV-B0014-001`, `003`; `REL-0087`, `0088`. Neither clean rescuer nor pure accomplice explains both histories. |
+| `CL-B0014-003` | `THEMATIC_INTERPRETATION`; D1; high within unit | **Ume's eternity doctrine is a grief defense: it makes non-ending the condition for safe attachment.** | `EV-B0014-002`, `003`; `EV-B0013-001`; `THREAD-0015`. Rival: empirical claim about self-composed music. The loss/founding sequence supplies the stronger cause; no technical test of permanence occurs. |
+| `CL-B0014-004` | `RECONSTRUCTION_RULE`; D1; high | **4U has two simultaneous founding truths: an anti-idol erasure mission and a positive desire to make music with Emoco.** | `EV-B0014-003`; later `EV-B0016-003`. Repair may end the governing mission without declaring the band's past pleasure unreal. |
+
+### T7S_B0015 claims
+
+Horizon is `203001501`–`203001602`; owner is [T7S_B0015_DEEP_READING.md](../02%20Readings/T7S_B0015_DEEP_READING.md).
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0015-001` | `RECONSTRUCTION_RULE`; D1; high | **Ume's grievance is valid evidence of legacy harm without conferring ownership of 4U or entitlement to dissolve Nanasta.** | `EV-B0015-001`; `REL-0087`–`0094`. Explanation and authorization remain distinct. |
+| `CL-B0015-002` | `THEMATIC_INTERPRETATION`; D1; high within block | **“My band” is the collective form taken by Ume's private defense.** Emoco's “your band” and Hina's question expose that the members no longer share its assigned purpose. | `EV-B0015-001`; `UNIT-0007`. Rival: casual leader phrasing. The pointed echo plus later dissolution make ownership load-bearing. |
+| `CL-B0015-003` | `BOUNDED_INFERENCE`; D1; high | **Nanasta's twelve-member deliberation is a local institutional advance.** Player/Coney defer; performers give different reasons and collectively choose the response. | `EV-B0015-002`, `003`; `WORLD-0001`; `UNIT-0002`. One scene does not establish formal democracy or repair prior capture practices. |
+| `CL-B0015-004` | `THEMATIC_INTERPRETATION`; D1; medium-high | **Coney's “destiny” formulation acknowledges public consequence while risking naturalization of responsibility.** | `EV-B0015-003`; `KNOW-0035`. Rival: complete acceptance of fault. No confession, apology, causal account, or request from Ume follows, so accountability remains open. |
+
+### T7S_B0016 claims
+
+Horizon is `203001701`–`203001802` and closes Main EPISODE.4U; owner is [T7S_B0016_DEEP_READING.md](../02%20Readings/T7S_B0016_DEEP_READING.md).
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0016-001` | `THEMATIC_INTERPRETATION`; D1; high within unit | **The unit rejects nullity, not transience.** Haru accepts momentary effect and possible later hatred but denies that either makes the prior smile or present reason unreal. | `EV-B0016-002`; `EV-B0014-002`, `003`. Rival: optimistic promise that idols endure. Haru explicitly refuses that promise. |
+| `CL-B0016-002` | `BOUNDED_INFERENCE`; D1; high | **Haru develops into an ethical performer able to return the desire question without prescribing her own category.** | `EV-B0016-002`; `THREAD-0004`; `REL-0097`, `0098`. Ume chooses band, not idol work; no technical mastery or total emotional cure follows. |
+| `CL-B0016-003` | `RECONSTRUCTION_RULE`; D1; high | **4U must dissolve as an assumed private mission before the same three members can recommit with mutual authorship.** | `EV-B0016-003`; `REL-0087`–`0092`; `UNIT-0007`. Same name and roster do not imply institutional continuity without change; renewed choice does not guarantee permanence. |
+| `CL-B0016-004` | `THEMATIC_INTERPRETATION`; D1; high within unit | **The audience-as-fourth-member metaphor replaces an immortal object with a renewable relation.** | `EV-B0016-003`, `004`; `WORLD-0006`. The audience is not a literal fourth performer, permanent owner, or guarantee of affection. |
+| `CL-B0016-005` | `BOUNDED_INFERENCE`; D1; high | **Repair is distributed and incomplete.** Nanasta, Haru, Rona, Susu, audience, Emoco, Hina, and Ume carry the change; Coney does not confess/apologize, and Ume withholds forgiveness. | `EV-B0016-001`–`004`; `REL-0099`, `0100`; `KNOW-0035`. Rival: Nicole heals the fan she hurt. The source preserves contact but not that repair. |
+| `CL-B0016-006` | `THEMATIC_INTERPRETATION`; D1; high within unit | **Ume's refusal of idol recruitment completes 4U's status as an autonomous rival rather than a failed Nanasta acquisition.** | `EV-B0016-004`, `005`; `UNIT-0002`, `0007`. Refusal is compatible with public effect and future collaboration; it is not anti-idol relapse or permanent alliance. |
+
+### T7S_B0017 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0017-001` | `THEMATIC_INTERPRETATION`; D1; high within block | **“Sisters” becomes a contested relational title rather than an exclusive inheritance or proof of sameness.** | `EV-B0017-001`–`002`; `UNIT-0011`. KARAKURI revises “fake” after encounter. |
+| `CL-B0017-002` | `RECONSTRUCTION_RULE`; D1; high | **A fused holographic presentation does not collapse Hitoha and Futaba's person routes.** | `IDENTITY-0028`–`0029`; `AV-0027`. Presented unity is evidence about form, not literal ontology. |
+| `CL-B0017-003` | `BOUNDED_INFERENCE`; D1; high | **KARAKURI's channel seizure makes technological mediation part of its initial agency as well as its machine image.** | `EV-B0017-001`. Rival: passive corporate projection; the twins actively seize the channel. |
+| `CL-B0017-004` | `THEMATIC_INTERPRETATION`; D1; high | **Recognition need not become capture.** KARAKURI can name Nanasta a rival/Sisters while refusing recruitment and idol identity. | `EV-B0017-002`–`003`; `REL-0103`, `0104`. |
+| `CL-B0017-005` | `RECONSTRUCTION_RULE`; D0; high | **The elided encounter supports outcome and character judgment, not technical comparison.** | Complete B0017; `AV-0028`. No singing/synchronization ranking is admitted. |
+
+### T7S_B0018 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0018-001` | `SOURCE_FACT`; D0; high | **Tokyo-7th is a reclaimed special administrative/economic district whose prior idol subsidy has ended.** | `EV-B0018-001`–`002`; `WORLD-0007`. Exact legal/policy breadth remains unknown. |
+| `CL-B0018-002` | `THEMATIC_INTERPRETATION`; D1; high within block | **The tourism video makes the city legible through accumulated partial maps, not one authoritative gaze.** | `EV-B0018-002`; B0018. |
+| `CL-B0018-003` | `THEMATIC_INTERPRETATION`; D1; high | **The office becomes home as a return address joining distinct routes, not through architectural prestige or ownership of the city.** | `EV-B0018-003`; `WORLD-0007`. |
+| `CL-B0018-004` | `BOUNDED_INFERENCE`; D1; high | **Children's idol nonrecognition demonstrates a transmission gap: predecessor memory cannot substitute for present address.** | `EV-B0018-002`; `WORLD-0002`. Society-wide ignorance is not claimed. |
+| `CL-B0018-005` | `RECONSTRUCTION_RULE`; D1; high | **Mutual comic apology does not retroactively authorize filming Musubi's coerced sexualized performance.** | `EV-B0018-002`; `THREAD-0016`. Outcome and consent timing remain separate. |
+
+### T7S_B0019 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0019-001` | `THEMATIC_INTERPRETATION`; D1; high | **Genuine reaction can be commercially manufactured through ignorance; spontaneity alone is not ethical authenticity.** | `EV-B0019-001`; `UNIT-0008`; `THREAD-0016`. |
+| `CL-B0019-002` | `RECONSTRUCTION_RULE`; D1; high | **WITCH NUMBER 4's successful result cannot retroactively supply informed initial assent.** | `EV-B0019-001`. Later enjoyment and earlier withholding are both retained. |
+| `CL-B0019-003` | `THEMATIC_INTERPRETATION`; D1; high | **The “SiSH-like” judgment shows a brand abstraction alienating its own referents.** | `EV-B0019-002`; `UNIT-0009`. |
+| `CL-B0019-004` | `BOUNDED_INFERENCE`; D1; high | **SiSH inhabits its concept through complementary care, not by making each member a complete older-sister ideal.** | `EV-B0019-003`; `UNIT-0009`. |
+| `CL-B0019-005` | `THEMATIC_INTERPRETATION`; D1; medium-high | **The sleeping trio makes dependence reciprocal inside an aspirational caregiving image.** | `EV-B0019-003`. Static scene meaning; no performed affect claim. |
+
+### T7S_B0020 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0020-001` | `BOUNDED_INFERENCE`; D1; high | **Susu's withdrawal is a zero-sum protection strategy, not simple rejection of family.** | `EV-B0020-001`; `KNOW-0037`. Relatives' independent view remains mediated. |
+| `CL-B0020-002` | `THEMATIC_INTERPRETATION`; D1; high | **Remembered scent establishes recognition through specific memory rather than blood equivalence.** | `EV-B0020-002`; `REL-0107`, `0108`; `AV-0025`. |
+| `CL-B0020-003` | `THEMATIC_INTERPRETATION`; D1; high | **Keeping the nickname given by the biological mother lets Susu add a current maternal relation without replacement.** | `EV-B0020-002`; `IDENTITY-0032`, `0033`. |
+| `CL-B0020-004` | `RECONSTRUCTION_RULE`; D1; high | **Musubi's helpful result does not erase unauthorized access to a private letter.** | `EV-B0020-002`; `KNOW-0039`. Care and breach coexist. |
+| `CL-B0020-005` | `THEMATIC_INTERPRETATION`; D1; high | **The Harumi household defines family care as anticipation and reversible provision, not an invulnerable eldest role.** | `EV-B0020-003`; `UNIT-0006`. |
+
+### T7S_B0021 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0021-001` | `BOUNDED_INFERENCE`; D1; high | **“Empty victory” names a teleological failure: later wins cannot complete a specific contest made impossible by Seven Sisters' dissolution.** | `EV-B0021-001`; `KNOW-0040`. This does not deny technical achievement. |
+| `CL-B0021-002` | `THEMATIC_INTERPRETATION`; D1; high | **Two differently patterned bowls bind individuation to hospitality and expected return.** | `EV-B0021-002`; `REL-0109`–`0112`; `AV-0027`. |
+| `CL-B0021-003` | `THEMATIC_INTERPRETATION`; D1; high | **One pot and two bowls model common participation without interchangeable persons.** | `EV-B0021-002`; `REL-0101`, `0102`. |
+| `CL-B0021-004` | `BOUNDED_INFERENCE`; D1; high | **KARAKURI's perfection is materially sustained by an intensive monitoring/training apparatus.** | `EV-B0021-003`; `WORLD-0008`. Skill remains real; causal proportions are not quantified. |
+| `CL-B0021-005` | `THEMATIC_INTERPRETATION`; D1; high | **Joint training makes rivalry an investment in another's capacity rather than preservation of advantage.** | `EV-B0021-003`; `REL-0103`, `0104`. |
+
+### T7S_B0022 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0022-001` | `THEMATIC_INTERPRETATION`; D1; high | **Quotation weaponizes tense by converting past statements into permanent essence.** | `EV-B0022-001`; `WORLD-0008`. |
+| `CL-B0022-002` | `BOUNDED_INFERENCE`; D1; high | **Fans who demand lonely charisma reproduce the project's condition that love depends on role compliance.** | `EV-B0022-001`; `THREAD-0018`. Not all fans are generalized. |
+| `CL-B0022-003` | `RECONSTRUCTION_RULE`; D1; high | **Dr. Serge is a distributed project, not one stable guardian or villain.** | `EV-B0022-002`; `IDENTITY-0030`; `UNIT-0012`. |
+| `CL-B0022-004` | `THEMATIC_INTERPRETATION`; D1; high | **KARAKURI is simultaneously imposed apparatus and appropriated survival work.** | `EV-B0022-002`; `CHAR-0025`, `0026`. Rival “fake corporate shell” is rejected. |
+| `CL-B0022-005` | `BOUNDED_INFERENCE`; D1; high | **Nanasta can oppose withdrawal without promising safety or demanding idol conversion.** | `EV-B0022-003`; `REL-0103`, `0104`. The twins remain undecided at block exit. |
+
+### T7S_B0023 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0023-001` | `THEMATIC_INTERPRETATION`; D1; high | **The thread to cut is inherited adult purpose, not every tie.** | `EV-B0023-001`; `UNIT-0012`; `REL-0113`, `0114`. |
+| `CL-B0023-002` | `THEMATIC_INTERPRETATION`; D1; high | **Solo sequence followed by reunion makes togetherness a choice by two continuing persons.** | `EV-B0023-002`; `REL-0101`, `0102`; `AV-0027`. Permanent separation is not the endpoint. |
+| `CL-B0023-003` | `RECONSTRUCTION_RULE`; D1; high | **Imperfect solos reveal personhood without establishing inferior or superior musicianship.** | `EV-B0023-002`; `AV-0028`. Technical performance remains unreviewed. |
+| `CL-B0023-004` | `THEMATIC_INTERPRETATION`; D1; high | **The twins' apology joins a right to change with responsibility for public effects, not fan ownership.** | `EV-B0023-002`; `UNIT-0011`. |
+| `CL-B0023-005` | `THEMATIC_INTERPRETATION`; D1; high | **MVA victory is narratively meaningful only after victory ceases to authorize existence; named adult praise supplies recognition the award cannot.** | `EV-B0023-003`; `REL-0109`–`0112`. |
+
+### T7S_B0024 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0024-001` | `THEMATIC_INTERPRETATION`; D1; high | **The bathhouse coda is causal/formal completion, not disposable comedy.** | `EV-B0024-001`–`003`; B0024; KARAKURI arc reading. |
+| `CL-B0024-002` | `BOUNDED_INFERENCE`; D1; high | **Daily instruction supplies competence without the selection/ranking logic of Dr. Serge.** | `EV-B0024-001`; `UNIT-0012`. |
+| `CL-B0024-003` | `THEMATIC_INTERPRETATION`; D1; high | **Saved separate objects and distinct bath bodies translate public individuation into ordinary continuity.** | `EV-B0024-002`; `AV-0027`. |
+| `CL-B0024-004` | `THEMATIC_INTERPRETATION`; D1; high | **Named gratitude makes social relation a condition enabling song rather than a claim on its ownership.** | `EV-B0024-003`; `REL-0115`–`0118`. |
+| `CL-B0024-005` | `THEMATIC_INTERPRETATION`; D1; high within arc | **“See you tomorrow” replaces impossible completion with a finite, renewable future.** | `EV-B0024-003`; `THREAD-0018`. It is no permanence guarantee. |
+
+### T7S_B0025 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0025-001` | `THEMATIC_INTERPRETATION`; D1; high | **The fixed documentary camera fails because Nanasta has become a distributed practice rather than one room full of performers.** | `EV-B0025-001`; B0025. The building remains material infrastructure. |
+| `CL-B0025-002` | `BOUNDED_INFERENCE`; D1; high | **Fame first appears as changed circulation, scheduling, access, and crowd capacity rather than abstract status.** | `EV-B0025-001`, `002`; `WORLD-0001`. Society-wide celebrity is not inferred. |
+| `CL-B0025-003` | `THEMATIC_INTERPRETATION`; D1; high | **Relocating the overflow live turns institutional identity from fixed place into portable coordination.** | `EV-B0025-002`, `003`; `UNIT-0002`. |
+| `CL-B0025-004` | `BOUNDED_INFERENCE`; D1; high | **Member-led problem solving distributes agency beyond management without proving formal governance.** | `EV-B0025-002`, `003`; `THREAD-0001`. |
+| `CL-B0025-005` | `OPEN`; D2; high that obligation exists | **Expanded visibility intensifies privacy, school, safety, and access obligations that successful improvisation does not close.** | B0025; `THREAD-0016`. Exact policies remain unknown. |
+
+### T7S_B0026 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0026-001` | `THEMATIC_INTERPRETATION`; D1; high | **The drama chapter makes “natural” expression the product of direction, repetition, fatigue, relation, and artificial weather.** | `EV-B0026-001`–`003`; B0026. Constructed does not mean false. |
+| `CL-B0026-002` | `BOUNDED_INFERENCE`; D1; high | **Haru's role stretches a recognizable public self instead of revealing an untouched private essence.** | `EV-B0026-001`, `003`; `CHAR-0004`. |
+| `CL-B0026-003` | `THEMATIC_INTERPRETATION`; D1; high | **Rona's support is causal labor that the marketable final face makes comparatively invisible.** | `EV-B0026-002`, `003`; `REL-0021`, `0022`. |
+| `CL-B0026-004` | `BOUNDED_INFERENCE`; D1; high | **WITCH NUMBER 4 gains range through differentiated acting rather than tighter personality typing.** | `EV-B0026-003`; `UNIT-0008`. |
+| `CL-B0026-005` | `RECONSTRUCTION_RULE`; D1; high | **In-world praise for an expression cannot independently establish vocal delivery, runtime timing, or acting technique.** | B0026 modality boundary; `AV-0030`. |
+
+### T7S_B0027 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0027-001` | `THEMATIC_INTERPRETATION`; D1; high | **Separate media work returns as SiSH intelligence rather than evidence that the unit is dispensable.** | `EV-B0027-001`–`003`; `UNIT-0009`. |
+| `CL-B0027-002` | `BOUNDED_INFERENCE`; D1; high | **Management anticipates opportunity but overbooking makes growth materially burdensome.** | `EV-B0027-001`; `THREAD-0001`. |
+| `CL-B0027-003` | `THEMATIC_INTERPRETATION`; D1; high | **The unit's perfection horizon recedes because greater capacity produces greater perception of limits.** | `EV-B0027-002`, `003`; B0027. |
+| `CL-B0027-004` | `THEMATIC_INTERPRETATION`; D1; high | **SiSH is a composite relation among non-identical members, not a property each must embody alone.** | `EV-B0027-003`; extends B0019 without erasing it. |
+| `CL-B0027-005` | `BOUNDED_INFERENCE`; D1; medium-high | **Audience reception helps complete the unit's shape without granting audiences ownership of member identity.** | `EV-B0027-003`; later durability remains open. |
+
+### T7S_B0028 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0028-001` | `BOUNDED_INFERENCE`; D1; high | **Musubi's collapse makes organizational labor visible by temporarily removing it.** | `EV-B0028-001`; `CHAR-0006`. |
+| `CL-B0028-002` | `THEMATIC_INTERPRETATION`; D1; high | **Susu's competent solo proves independence without proving Musubi dispensable.** | `EV-B0028-002`; `CHAR-0018`; `UNIT-0010`. |
+| `CL-B0028-003` | `THEMATIC_INTERPRETATION`; D1; high | **The wish to be indispensable mistakes another person's strength for relational loss.** | `EV-B0028-001`, `002`; B0028. |
+| `CL-B0028-004` | `BOUNDED_INFERENCE`; D1; high | **Care becomes reciprocal when Musubi can receive it without surrendering competence or authority.** | `EV-B0028-003`; `REL-0071`–`0074`. |
+| `CL-B0028-005` | `OPEN`; D2; high that obligation exists | **A repaired dyad does not by itself settle workload allocation, rest, or the institutional causes of collapse.** | `EV-B0028-003`; `THREAD-0005`, `0016`. |
+
+### T7S_B0029 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0029-001` | `THEMATIC_INTERPRETATION`; D1; high | **Compulsory novelty treats change as an output while ignoring the relation that already generates new material.** | `EV-B0029-001`–`003`; B0029. |
+| `CL-B0029-002` | `BOUNDED_INFERENCE`; D1; high | **Sanbon Ribbon's rainy-day play recurs after time has passed without becoming an exact repetition.** | `EV-B0029-002`, `003`. |
+| `CL-B0029-003` | `THEMATIC_INTERPRETATION`; D1; high | **Ordinary continuity is renewable form, not the absence of development.** | `EV-B0029-003`; arc synthesis. |
+| `CL-B0029-004` | `BOUNDED_INFERENCE`; D1; high | **Names and joke labels can acquire public force beyond their maker's intention.** | `EV-B0029-001`, `002`. |
+| `CL-B0029-005` | `BOUNDED_INFERENCE`; D1; high | **Sawara speaks for collective assent before it exists and the Player advances the proposal prematurely.** | `EV-B0029-001`; successful outcome does not retroactively authorize the process. |
+
+### T7S_B0030 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0030-001` | `THEMATIC_INTERPRETATION`; D1; high | **A heterosexual rivalry script cannot contain the performed significance of Haru and Kajika's friendship.** | `EV-B0030-001`–`003`; B0030. |
+| `CL-B0030-002` | `BOUNDED_INFERENCE`; D1; high | **Each performer comes to see herself through the friend's response rather than only through the man's choice.** | `EV-B0030-002`; `REL-0119`, `0120`. |
+| `CL-B0030-003` | `THEMATIC_INTERPRETATION`; D1; high | **Production revision recognizes affective excess without canonically resolving the pair as mutual romance.** | `EV-B0030-003`; queer reception remains permitted, not mandated. |
+| `CL-B0030-004` | `OPEN`; D2; high that ambiguity remains | **The Player's use as romantic rehearsal object overlaps managerial authority and leaves a professional boundary unsettled.** | `EV-B0030-001`, `002`; `THREAD-0019`. |
+| `CL-B0030-005` | `RECONSTRUCTION_RULE`; D1; high | **Genre invitation, queer resonance, friendship, and explicit reciprocal romance are distinct evidentiary states.** | B0030; no inferred confession. |
+
+### T7S_B0031 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0031-001` | `THEMATIC_INTERPRETATION`; D1; high | **Idag's approach becomes meaningful after Kyoko stops treating contact as owed proof.** | `EV-B0031-001`, `002`; B0031. |
+| `CL-B0031-002` | `BOUNDED_INFERENCE`; D1; high | **An eventual approach does not reclassify earlier refusals as concealed assent.** | `EV-B0031-001`, `002`. |
+| `CL-B0031-003` | `THEMATIC_INTERPRETATION`; D1; high | **The goodbye preserves attachment through memory and possible return without possession.** | `EV-B0031-003`. |
+| `CL-B0031-004` | `THEMATIC_INTERPRETATION`; D1; high | **Secret cameras turn the breakthrough produced by reduced pressure into candid commodity.** | `EV-B0031-003`; `THREAD-0016`. |
+| `CL-B0031-005` | `BOUNDED_INFERENCE`; D1; medium-high | **Le☆S☆Ca becomes legible through its relation to guests rather than an isolated brand declaration.** | B0031; later unit governance remains open. |
+
+### T7S_B0032 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0032-001` | `BOUNDED_INFERENCE`; D1; high | **A fragmentary phone call produces a romance narrative through missing information.** | `EV-B0032-001`; B0032. |
+| `CL-B0032-002` | `THEMATIC_INTERPRETATION`; D1; high | **QOP's loyalty is credible because members are permitted to choose departure.** | `EV-B0032-002`; `UNIT-0015`. |
+| `CL-B0032-003` | `THEMATIC_INTERPRETATION`; D1; high | **The music shop is constitutive infrastructure, not a comic lesser object than romance.** | `EV-B0032-003`; `WORLD-0009`. |
+| `CL-B0032-004` | `BOUNDED_INFERENCE`; D1; high | **Business success elsewhere can coexist with irreversible local cultural loss.** | `EV-B0032-003`; exact economic causes remain bounded to report. |
+| `CL-B0032-005` | `THEMATIC_INTERPRETATION`; D1; medium-high | **A false separation story may become song without becoming factual history.** | `EV-B0032-003`; technical musical realization unreviewed. |
+
+### T7S_B0033 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0033-001` | `THEMATIC_INTERPRETATION`; D1; high | **Friendliness is a learnable public technique but cannot substitute for friendship's substance.** | `EV-B0033-001`–`003`; B0033. |
+| `CL-B0033-002` | `BOUNDED_INFERENCE`; D1; high | **Ume's accessibility makes her an involuntary intermediary for Emoco's public relation.** | `EV-B0033-001`; `UNIT-0007`. |
+| `CL-B0033-003` | `THEMATIC_INTERPRETATION`; D1; high | **The Ume–Emoco abrasive idiom both conceals care from outsiders and conveys it to informed participants.** | `EV-B0033-002`, `003`; `REL-0087`, `0088`. |
+| `CL-B0033-004` | `BOUNDED_INFERENCE`; D1; high | **Hina reads the dyad's private grammar without making every harsh exchange harmless.** | `EV-B0033-003`; `REL-0091`, `0092`. |
+| `CL-B0033-005` | `OPEN`; D2; high that obligation exists | **Public access remains real band labor even after forced personality normalization is rejected.** | B0033; durable allocation remains unknown. |
+
+### T7S_B0034 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0034-001` | `THEMATIC_INTERPRETATION`; D1; high | **One day apart makes Hitoha and Futaba different through non-identical relations rather than solitary essence.** | `EV-B0034-001`, `002`; B0034. |
+| `CL-B0034-002` | `BOUNDED_INFERENCE`; D1; high | **Initial separation anxiety is historically intelligible without proving incapacity for independent action.** | `EV-B0034-001`; `THREAD-0018`. |
+| `CL-B0034-003` | `THEMATIC_INTERPRETATION`; D1; high | **Care does not require total disclosure; privacy becomes a form the duet can share.** | `EV-B0034-003`; `REL-0101`, `0102`. |
+| `CL-B0034-004` | `THEMATIC_INTERPRETATION`; D1; high | **Simultaneous separate messages synchronize the act while preserving different content.** | `EV-B0034-003`. |
+| `CL-B0034-005` | `BOUNDED_INFERENCE`; D1; high | **KARAKURI's chosen synchronization is strengthened, not contradicted, by ordinary privacy.** | `EV-B0034-003`; `UNIT-0011`; `REV-0016`. |
+
+### T7S_B0035 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0035-001` | `BOUNDED_INFERENCE`; D1; high | **Makoto initially proposes a duo as a technology for monopolizing the Player's attention.** | `EV-B0035-001`; B0035. |
+| `CL-B0035-002` | `THEMATIC_INTERPRETATION`; D1; high | **NI+CORA's relational history cannot be copied as an audition shortcut.** | `EV-B0035-001`, `002`; `UNIT-0010`. |
+| `CL-B0035-003` | `THEMATIC_INTERPRETATION`; D1; high | **Care for Citrus gives Makoto and Ayumu a shared third obligation neither owns.** | `EV-B0035-002`; `UNIT-0016`. |
+| `CL-B0035-004` | `BOUNDED_INFERENCE`; D1; high | **Losing the rematch but passing breaks legitimacy's dependence on displacing an incumbent unit.** | `EV-B0035-003`; `UNIT-0016`. |
+| `CL-B0035-005` | `RECONSTRUCTION_RULE`; D1; high | **Desire, stalking/privacy violations, dyadic intimacy, and canonical mutual romance must remain separate states.** | B0035; `THREAD-0019`. |
+
+### T7S_B0036 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0036-001` | `THEMATIC_INTERPRETATION`; D1; high | **Making Sakura smile turns involuntary expression into a deliverable she can fail.** | `EV-B0036-001`, `002`; B0036. |
+| `CL-B0036-002` | `BOUNDED_INFERENCE`; D1; high | **Sakura repeatedly reports enjoyment while adults privilege visible expression, separating pleasure from smile.** | `EV-B0036-002`; `KNOW-0044`. |
+| `CL-B0036-003` | `THEMATIC_INTERPRETATION`; D1; high | **Memoru, Mito, Nicole, Rui, and Kuruto replace promised rescue with partial distributed accompaniment.** | `EV-B0036-002`, `003`; B0036. |
+| `CL-B0036-004` | `BOUNDED_INFERENCE`; D1; high | **Rui's testimony preserves non-forgiveness and does not prescribe Sakura's recovery.** | `EV-B0036-003`; `CHAR-0028`. |
+| `CL-B0036-005` | `RECONSTRUCTION_RULE`; D1; high | **Sakura's `お父さん` and thanks are meaningful action, not proof of smiling, cure, permanent trust, or one decisive cause.** | `EV-B0036-003`; `AV-0029`; faceless asset supplies no expression. |
+
+### T7S_B0037 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0037-001` | `BOUNDED_INFERENCE`; D1; high | **Chizuru's agency constructs three routes that each preserve institutional control through sacrifice.** | `EV-B0037-001`; B0037. |
+| `CL-B0037-002` | `THEMATIC_INTERPRETATION`; D1; high | **Protecting Shisara refuses one sacrifice but cannot alone create an exit.** | `EV-B0037-001`, `002`; `REL-0123`, `0124`. |
+| `CL-B0037-003` | `THEMATIC_INTERPRETATION`; D1; high | **CASQUETTE'S exists as collective risk and invention before management recognizes its name.** | `EV-B0037-002`, `003`; `UNIT-0017`. |
+| `CL-B0037-004` | `BOUNDED_INFERENCE`; D1; high | **Trespass, stolen records, and non-consensual livestreaming remain privacy harms despite enabling rescue.** | `EV-B0037-002`, `003`; `THREAD-0020`. |
+| `CL-B0037-005` | `OPEN`; D2; high that obligation exists | **Virality supplies leverage in this case but does not establish due process, future protection, or full accountability.** | `EV-B0037-003`; `WORLD-0010`. |
+
+### T7S_B0038 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0038-001` | `THEMATIC_INTERPRETATION`; D1; high | **“Make everyone smile” excludes Tomoe when treated as an immediate membership test.** | `EV-B0038-001`, `002`; B0038. |
+| `CL-B0038-002` | `BOUNDED_INFERENCE`; D1; high | **Tomoe's Haru imitation shows that “be yourself” can operate as another externally imposed form.** | `EV-B0038-001`; `CHAR-0029`. |
+| `CL-B0038-003` | `THEMATIC_INTERPRETATION`; D1; high | **Weather delay makes safety an active collective choice with audience and opportunity cost.** | `EV-B0038-002`; `THREAD-0021`. |
+| `CL-B0038-004` | `THEMATIC_INTERPRETATION`; D1; high | **Shared mud converts individual failure into collective staging without making injury desirable.** | `EV-B0038-003`; `AV-0029`; `UNIT-0018`. |
+| `CL-B0038-005` | `BOUNDED_INFERENCE`; D1; high | **Tomoe becomes leader by articulating limits and direction; the chapter does not yet utter the unit name.** | `EV-B0038-003`; later metadata is not imported as literary evidence. |
+
+### T7S_B0039 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0039-001` | `THEMATIC_INTERPRETATION`; D1; high | **Quotations and interviews cannot substitute for love Kazumi does not yet know.** | `EV-B0039-001`–`003`; B0039. |
+| `CL-B0039-002` | `BOUNDED_INFERENCE`; D1; high | **Musubi, Makoto, and Ayumu provide situated and ethically unequal testimonies, not a universal definition.** | `EV-B0039-002`; `KNOW-0045`–`0047`. |
+| `CL-B0039-003` | `RECONSTRUCTION_RULE`; D1; high | **Kazumi's uncertainty permits but does not establish an aromantic identity reading.** | B0039; absence of prior experience is not diagnosis. |
+| `CL-B0039-004` | `BOUNDED_INFERENCE`; D1; medium-high | **The closing quickening remains compatible with attraction, relief, recognition, artistic release, or a mixture.** | `EV-B0039-003`; no object is canonically settled. |
+| `CL-B0039-005` | `THEMATIC_INTERPRETATION`; D1; high | **Kazumi's “own words” are relationally composed without becoming derivative.** | `EV-B0039-003`; technical vocal realization unreviewed. |
+
+### T7S_B0040 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0040-001` | `BOUNDED_INFERENCE`; D1; high | **Royal Medix makes dome-scale sponsorship conditional on Jeda's availability to corporate recruitment.** | `EV-B0040-001`; B0040. Full contract/legal state remains unknown. |
+| `CL-B0040-002` | `THEMATIC_INTERPRETATION`; D1; high | **Jeda initially makes the canceled venue stand in for a broken promise to her absent sister.** | `EV-B0040-001`, `002`. |
+| `CL-B0040-003` | `THEMATIC_INTERPRETATION`; D1; high | **TANIMACHI becomes a world stage through the relation it carries, not by pretending to equal the dome's scale.** | `EV-B0040-002`, `003`; `WORLD-0011`. |
+| `CL-B0040-004` | `BOUNDED_INFERENCE`; D1; high | **The group photograph makes chosen-family infrastructure visible inside the nominal solo.** | `EV-B0040-003`; `REL-0125`–`0126`. |
+| `CL-B0040-005` | `OPEN`; D2; high that obligation exists | **Friends' override of requested solitude, corporate accountability, and the sister's actual reception remain unresolved.** | B0040; good outcome does not settle consent. |
+
+### T7S_B0041 claims
+
+| ID | Class / distance / confidence | Current formulation | Evidence, rivals, and obligations |
+| --- | --- | --- | --- |
+| `CL-B0041-001` | `BOUNDED_INFERENCE`; D1; high | **The spirit is a long-standing fan whose mediated attention becomes artistic knowledge.** | `EV-B0041-001`–`003`; B0041. |
+| `CL-B0041-002` | `THEMATIC_INTERPRETATION`; D1; high | **Possession literalizes fan access becoming harmful when another person's body is the route.** | `EV-B0041-002`, `003`; `THREAD-0022`. |
+| `CL-B0041-003` | `BOUNDED_INFERENCE`; D1; high | **Useful interview and choreography labor is publicly credited to Saori while management lacks the material facts.** | `EV-B0041-003`; `KNOW-0048`–`0050`. |
+| `CL-B0041-004` | `THEMATIC_INTERPRETATION`; D1; high | **The unseen hand changes participation from occupancy to accompaniment while keeping Saori present.** | `EV-B0041-003`; `AV-0029`; `REL-0127`–`0132`. |
+| `CL-B0041-005` | `BOUNDED_INFERENCE`; D1; high | **A second possession proves that one repaired relation has not created a durable consent or safety system.** | `EV-B0041-003`; `THREAD-0022` remains open. |
+
 The abbreviated `...` in B0001 rows expands without substitution to `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary`.
 
-Dependent current artifacts for these 119 claims are the current entrypoint, the three longitudinal ledgers, topology/coverage routing, their owning B0001 through B0011 readings, and [T7S_EPISODE_1_0_NARRATIVE_SYNTHESIS.md](../07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_NARRATIVE_SYNTHESIS.md). None is exported to a character monograph/model, specialist synthesis, or full-series synthesis.
+Dependent current artifacts for these 265 claims are the current entrypoint, the three longitudinal ledgers, topology/coverage routing, their owning B0001 through B0041 readings, and the five unit narrative syntheses and arc deep readings. None is exported to a character monograph/model, specialist synthesis, or full-series synthesis.
 
 ## Frozen predictions
 
@@ -314,6 +620,34 @@ Predictions are frozen descriptions of their stated horizons. Future correctness
 | `AV-0021` | AV-B; visual; `REVIEWED` | Seven exact Harumi-sister composites were reconstructed from native commands and hash-matching files. Sawara, offset `(59,74)`, shared body `image:sha256:d142646f64071ed43061fd75721befa778228cd90a1c9d04fd996d739fc468b9`: 1001/0 rows `202095`/`202096`, face `48fb3d5af2ec98fe05dd274e15e82fd680c07f6723ab0a2f5dceb188b7fcffd7`; 1006/40 `203428`/`203429`, `4c5c3bd39f119ac91b090822063b9ddcc4088b3dad7171aadea7bef167026b37`. Kajika, offset `(105,60)`: 1006/46 rows `203468`/`203469`, body `2d4ca61240c61c15796eacab3c3a0ea5cf48f56c8b772d95e1b3ac1be0b7937c`, face `7ca6c12b9470ff7a2b978eceb2828b8621dea39fe1f013bab09af9c5bf36376b`. Shinju, offset `(128,78)`: 1005/4 rows `203065`/`203066`, shop body `fe43ef0449a7ceed9973b19402b624ea7a078ef9975e02ad9fffa388bead3219`, face `577e4d5b1683acc170003cf297d00ba4219a6a8c472068b80ed1381645d1b52d`; 1007/5 `203586`/`203587`, body `b8665daef47ba3fbf338538586adc18c16ed72c65092ad9d57cf2a4f128f3677`, face `5d33ee9fd5886e7ceb6c858a98c5457c079a5032f6b823b4b2a49a95e96cc85f`; 1009/3 `203800`/`203801`, face `c8f7ffb2916548d6e01780e8f31a93961b52713d7e9c3db6e04be62bf6d8d45f`; 1009/22 `203933`/`203934`, face `4e079f9164ae0c42544a85ddb20759dec6c1b5f99809e08a5e306cec26572c9b`. Face-position artifact SHA-256 `5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439`. | Supports `CL-B0011-001`, `002`, `005`, `006`, `008`–`011`: Sawara's warm/playful and concerned faces share a red-haired fish-shop-apron body; Kajika's clasped sailor/apron pose appears vulnerable/blushing; Shinju's smaller magenta-twintail figure appears in two ordinary/shop bodies with subtle face changes. The shop body includes two wooden/utility poles whose function is not identified. No idol costume appears. Still geometry does not prove motive, prop function, runtime movement/effects, performed affect, or consent. |
 | `AV-0022` | AV-B; performed voice/music; `QUEUED` | Six B0011 contrastive cues were exactly resolved and byte-verified but not audibly reviewed: 1001/59 row `77713`, `vo_010_00_01_039`, `wav:07f6a9b9074d40afe12cf70c760673014516960b72b98b9b4e0696ab755e1cc6`; 1005/27 row `118923`, `vo_010_02_03_025`, `wav:e74c4c0f0e79c6ba03c75ccb0daeaec07939dbeee2447a388b5e494a73632bc4`; 1006/42 row `152094`, `vo_010_03_02_031`, `wav:164f6547b6bf4c95b1f728b05c6c3cf7e87e5510c1a2e54bbd7d3e2cf2c900f7`; 1007/5 row `155405`, `vo_010_03_03_006`, `wav:25b9459b0b7378fad6bd563c677f0457854cfed8934e1e61f59b68312b32bdf8`; 1009/3 row `27079`, `vo_010_04_03_004`, `wav:42e959dae47915a66a370e87856058ba021bd5851f761098ad389395a4bd60bb`; 1009/10 row `55863`, `vo_010_04_03_008`, `wav:e15ba0962fbd0651187a037d24eb989a4a0ff5a25ad3033946e0202311acb637`. Cue sheet `scout_010`; complete chapter has 263 native voice references, including title/non-dialogue pages. | No acoustic age/register, performed psychology, singing quality, choreography, music affect, onset, overlap, or mix claim is admitted. All contest/song acts are elided. Actual listening in scene context remains required before performed-voice characterization or monograph maturity. |
 
+### EPISODE.4U AV reviews
+
+| ID | Priority / modality / status | Selection and actually reviewed evidence | Outcome, limits, and remaining obligation |
+| --- | --- | --- | --- |
+| `AV-0023` | AV-B; visual; `REVIEWED` | Eleven exact composites were reconstructed from native commands and hash-matching files. **Ume**, offset `(49,64)`, body `image:sha256:4256b90093664efe7a8abbdacfa491e68695285c206a626e179b7b860655729c`: 1702/185 public mask face `9e6d729d722269b311e0415568e188a9dc569c9925ff41e4b3044f3fe00330a9`; 1702/91 collapse `26d2e43cd6bee86155e8868bc6cc07a054c77c99cbf82dabbb634fabefa1ca20`; 1702/129 plea `9ab7c7632271e29930427b40a4ae0cecc485ff7754ac7183f2c88508d9772413`; 1702/134 desire `80e0b263b774beefce65e433d89a7b1d843fa53b3ac915d5031f44f884d349fc`; 1702/150 reunion `5813a371d58c780e5871821e3d3a5268bceeb1d03c6e5bbcad02816f73e1a0f6`. **Emoco**, offset `(76,60)`: ordinary 0802/1 body `909097674eded1ff08644d8b26faba5a1651ea50017a2975520ed29da1d1846b`, face `80183a214d586eeb8bc9d31155d8876864ea939e215779b54e952e46d8c09d27`; 1702/111 and /114 body `390552e70d3b9ed08a3bb532571572204d1add1e0ce59838aa18f03c9962a0a0`, faces `6cf6891a4ef0d3f12ce7f59a3221cb72179a1657aa11ef1d8cc4fb5058879e67` and `84cc2b36eca3d999034b1c29f5b69bbc4226e39cf3d322a59761bd59dc88053d`. **Hina**, offset `(136,40)`: ordinary 0902/2 body `bb7632e9dc91a8f006733fb8282139b101ba789f7a3a8e1417ecf4d54ebb2938`, face `edb3bee4b227f71ceab90ed80a1ae98e41c6a577ce9067e20397588fd6a29604`; 1702/105 and /135 body `a76761cf599ea76bbe0e50c28384d250692645a2fb41dba3d363eb5e2be30378`, faces `5a1d928b3d4bd2e869696d051e8891ec5776c073294c8393b0e9fb65a3f64b1f` and `93fcf808247d665c3c60397c9d4756c0c4cd14d932a520ebab806526ca775e0b`. Face-position artifact SHA-256 `5381a55fbdd9fded501401c7079d855c27e1f54e532db81968e3b18077543439`. | Supports B0012–B0016 claims with bounded presentation evidence. Ume's stable coquettish hand/body pose spans public smile, collapse, raw plea, named desire, and bright tearful rejoin; expression layers carry most selected visible change. Emoco's ordinary body bears a flower, the later body removes it, and worry/confession faces differ subtly. Hina's ordinary body includes bag/groceries; goodbye uses a closed tearful face and reunion a bright open one on the later body. Alpha composition recovers static native geometry, not runtime screen placement, effects, fades, shakes, camera, continuous motion, prop action, motive, or performed affect. |
+| `AV-0024` | AV-B; performed voice/music; `QUEUED` | Complete Main EPISODE.4U contains 1,214 pages with native voice references across cue families `legend_007` through `legend_018`. Page-level counts reconcile exactly across the 22 source documents. Files are recoverable from the sealed relation layer, but no cue was listened to in scene context for this transaction because no acoustic claim was load-bearing. | No performed register, crying/anger delivery, singing quality, instrumental technique, synchronization, choreography, music affect, onset, overlap, or mix claim is admitted. Contest/live acts are elided or represented by dialogue/response rather than a complete reviewed performance. Actual contextual listening remains required before performed-voice characterization or monograph maturity. |
+
+### EPISODE 2.0 AV reviews
+
+| ID | Priority / modality / status | Selection and actually reviewed evidence | Outcome, limits, and remaining obligation |
+| --- | --- | --- | --- |
+| `AV-0025` | AV-B; visual; `REVIEWED` | Exact Susu family-letter composite from `311100402` page/log 81: body `image:sha256:16fc2472d10c8972da16fad1f65b0bbc8c49cfb9daf7ebf2c583e54fedfb6004`, face `image:sha256:b20252b0b5afaeb548c6bd5a927f1c93e15717a647bfc1d21ce0d1a0c8f3845e`, native offset `(89,54)`, output SHA-256 `c86f7b0452f6e5bc87ce28f5282b01dbf8c8046610eaca14a0292b173ede63e1`. External review receipt SHA-256 is `b901dccf0ec307b7b506d32465e4d3ceeefa4728e18adc9845f3ab085958de60`. A separately inspected faceless body layer was excluded as a non-scene comparison. | Supports `CL-B0020-002`: tears are visibly overlaid within Susu's continuing ordinary outfit/body state. It does not establish vocal affect, motion, timing, camera, full staging, or motive. The bounded set is sufficient only for the load-bearing letter scene, not representative monograph visual maturity. |
+| `AV-0026` | AV-B; performed voice/music; `QUEUED` | Complete Main EPISODE 2.0 contains 855 pages with native voice references across the ten exact scripts. Page counts and source relations reconcile; no cue was listened to in scene context because no acoustic claim was load-bearing. | No accent, crying delivery, comic timing, singing quality, choreography, music affect, onset, overlap, or mix claim is admitted. Actual contextual listening remains required for performed-voice characterization or monograph maturity. |
+
+### KARAKURI AV reviews
+
+| ID | Priority / modality / status | Selection and actually reviewed evidence | Outcome, limits, and remaining obligation |
+| --- | --- | --- | --- |
+| `AV-0027` | AV-B; visual; `REVIEWED` | Exact composites: joint hologram body `f57a8f96d9bc9391604195e37d5cd68943aa89f0e2316216bbb1b2a93e76b79c` + face `4bc19ca7949b90fe856126415bcd6c2c42858027f3c6f5a546015fef67baf175`, `(184,60)`; Hitoha solo body `0ec3f8980aa8d93ac595396ee21d562b5e83bea571031c89cfadfc38f1668169` + face `053f56aafd54508d86f388c323e33e3a1b64bff6a70bb7d34958e3f59338b64a`, `(235,60)`; Futaba solo body `422cf2a6c45733f43f4c1a6c84a01a85d62a9d091141dd48d293a5741e0e1897` + face `ca7603e0744b0ba28d166fd809757831f54b5db45b1f8ed978761783e3ce45f7`, `(135,60)`; separate apology bodies/faces `bf7110fc7c239146c389dbe4d8e7a75aec6b25692307f16136ec1d7eaed2cfbd`/`f9193b7d0b8c70eddf29c67e92f68bd8c0d9fd19255685a85498cc727f314379` and `4989f3fb2250f6c571b194322691338a569994a5f86c958fb8b441c88c6eb366`/`90c26e7873304e3b342bad425d16a814c19285fb38f7f90e83c8ecc82c645b94`; separate bath bodies/faces `6a3630a0a2e31c21f695c04045795a1c2e27968309c451dc6a369f63efb4abd5`/`c6880d48635d5014a217440ea73ff9d30559118624c75287d4357255578420f7` and `8b356230e2b6ebd72746da79c6f908131976c62327f8e88e617247189b0f7670`/`d7bea5e43e206138f52a166fe526bc64398f7db82ad0bcc372dcc30ea9cc8de0`. Distinct bowl assets are `1492bb5944f413800ea7459b9062be9c2705ab6c1d5ad75df561c7a295261d56` and `d6b127953f8b28da7615a1df3ecb04ba38c8c67d27ae2c4ebf9f690422cf1bf4`. Review receipt SHA-256 is `b901dccf0ec307b7b506d32465e4d3ceeefa4728e18adc9845f3ab085958de60`. | Supports `CL-B0017-002`, `CL-B0021-002`, `CL-B0023-002`, and `CL-B0024-003`. The joint asset presents intertwined unity; solo poses use distinct bodies/gestures; apology and bath figures remain separately embodied; bowls differ in pattern. Alpha composition recovers static geometry only—not runtime placement, effects, fades, camera, continuous movement, motive, or performed affect. |
+| `AV-0028` | AV-B; performed voice/music; `QUEUED` | Complete Main KARAKURI contains 1,338 pages with native voice references across eighteen exact scripts. Page-level counts reconcile. No cue or song was listened to in scene context because no acoustic claim was load-bearing. | No unison precision, vocal difference, crying/apology delivery, solo/joint singing quality, choreography, music affect, onset, overlap, or mix claim is admitted. Elided acts and textual audience judgments cannot supply technical ranking. Actual contextual listening remains required for performed-voice characterization or monograph maturity. |
+
+### EPISODE 3.0 AV reviews
+
+| ID | Priority / modality / status | Selection and actually reviewed evidence | Outcome, limits, and remaining obligation |
+| --- | --- | --- | --- |
+| `AV-0029` | AV-B; visual; `REVIEWED` | Four exact static exports. Sakura at `611101202/436`: body `f3e4828a3e37745c22ff66dbba099145c04e4cdcbf69f660513185e44a790a3f`, no face layer, output `824771bd8400e070bb18edca295b40c2f7ca5e2e050fd83639519b68755f501f`. Tomoe at `611101404/151`: body `599b458570772bc77436e4ab324130a031447a5da789a21bad0ba07965d798ce` + face `68e5622a5bf8e5cc6fdffc2429d3acb47f306c27b9b284c0618a9a5794956a6a` at `(134,78)`, output `b46d7fec308c184d2c6c6e8ceee6a358ecc5db2be8a4844b3422135eb7f6b0b0`. Ei at `611101704/85`: body `f8c9c1113a189da0c5154948ee7cafacf89ab9f18cf1fa1c5d2884aadd9383c0` + face `b3fc2694cd7aad24e31e4b313f916bda34ab2a0d526526318aee7e84902fe5ac` at `(165,92)`, output `daee142bb043bd418c9cd1460ddf4ae166759f81887b5fde1542519dbb228507`. Saori at `611101704/86`: body `583a2c2cfe5ac05837d8042ce81457d72dd573c633ec6e5963ea654c3ad147fd` + face `65cd13cbe3a95acd7e20cdbbcbd9a481417d7a79465c58649391550c59ab0a21` at `(120,74)`, output `3f786263c3ec2c7a42a4eaac884f63a066229bafd18607eb409edcc91027cee0`. Face-position artifact SHA-256 `99efbf5def485478cfef6a6069a2396373141be36ae5781587d2ceaa4eb2fbbf`; receipt SHA-256 `a599d5b83654b93b0eae86e4c5025b365b7ce2d8313bca082395b8ec937566e3`. | Supports `CL-B0036-005`, `CL-B0038-004`, and `CL-B0041-004`. Sakura's asset is a faceless silhouette, so it establishes absence of a depicted smile rather than a positive unsmiling expression. Tomoe visibly retains mud. Ei and Saori are separately embodied while dialogue names a three-person stage and no third sprite depicts the spirit. Alpha composition recovers static native geometry only—not screen placement, hand geometry, motion, timing, filters, camera, motive, or performed affect. This is not representative monograph visual maturity. |
+| `AV-0030` | AV-B; performed voice/music; `QUEUED` | Complete Main EPISODE 3.0 contains 5,601 pages with native voice references across 42 exact scripts. Page-level counts reconcile. No cue, song, or sound effect was listened to in scene context because no acoustic claim was load-bearing. | No register delivery, crying/laughter timing, accent, singing quality, acting technique, instrumental technique, synchronization, choreography, music affect, onset, overlap, or mix claim is admitted. Dialogue-level judgments and cue references cannot substitute for contextual listening, which remains required for performed-voice characterization or monograph maturity. |
+
 ## Revision and transaction history
 
 | ID | Decision and trigger | Prior/current formulation, scope, and repairs |
@@ -326,5 +660,19 @@ Predictions are frozen descriptions of their stated horizons. Future correctness
 | `REV-0006` | `STRENGTHEN` and partially resolve `PRED-0005`, effective complete T7S_B0007. Trigger: repeated self-disqualification of name, cooking, earnest speech, and idol work; explicit global half-finishedness; reported shining; later membership and relation-specific name permission. | **Prior:** the discrepancy between enjoyed currentness and urgent care was expected to recur, with several causes open and no recruitment outcome predicted. **Current:** recurrence is confirmed and a partial mechanism identified: currentness polices socially mismatched qualities while global inadequacy discounts unfinished effort; the “shining” report supplies local counterevidence. Attraction and membership are newly observed outcomes, not successful predictions. **Retained limits:** opening pleasure remains; the complete causal history, friend/family context, identity of every `イミワカ` use, durable labor state, and performed song remain unknown. Repaired/current destinations: `THREAD-0010`, `KNOW-0018`, `0019`, `CHAR-0013`, `REL-0043`–`0048`, `CL-B0007-007`–`014`, B0007 reading, entrypoint. Frozen prediction wording remains unchanged. |
 | `REV-0007` | `STRENGTHEN`/adjudicate the identity alternative in `PRED-0001`, effective complete T7S_B0009. Trigger: after the grandfather confirms sincere permission, Mana entrusts Shizuka to offscreen `ニコちゃん`, the caretaker role presented Coney has just enacted. | **Prior:** Coney≈七咲ニコル was the overwhelmingly strong bounded inference supported by recognitions, denials, stage familiarity, autobiography, and managed group silence. **Current:** the narrative now explicitly confirms the identity for the audience. **Retained limits:** frozen wording/confidence remains historical; Coney has not confessed on screen, the Player does not hear the coda and remains ignorant through B0010, literal `六咲コニー` labels/denials remain source facts, and machine/master identity routing remains unresolved. Repaired/current destinations: `THREAD-0002`, `KNOW-0002`, `0011`, `0025`, `0026`, `CHAR-0003`, `UNIT-0001`, `CL-B0009-011`, `CL-B0010-004`, B0009/B0010 readings, and entrypoint. |
 | `REV-0008` | `PARTIAL SUPPORT` for `PRED-0007` while preserving its recognition alternatives, effective complete T7S_B0010. Trigger: Alessandra asks Coney whether they have met before; Coney denies it and immediately redirects/withdraws. | **Prior:** Alessandra's pursuit of Nicole was expected to pressure Coney's cover, but recognition, timing, motive, prior relationship, and outcome were unknown. **Current:** cover pressure is directly observed, and Coney answers it with denial/evasion. **Retained limits:** Alessandra never explicitly identifies Coney as Nicole, her reason for asking is not supplied, and Episode 1.0 ends without resolving recognition or any prior relationship. Repaired/current destinations: `THREAD-0013`, `KNOW-0026`, `CL-B0010-004`, `CL-B0010-007`, B0010 reading, Episode 1.0 synthesis, and entrypoint. Frozen prediction wording remains unchanged. |
+| `REV-0009` | `STRENGTHEN` the knowledge/responsibility layer of the Coney≈Nicole solution carried by `PRED-0001` and `REV-0001`/`0003`/`0005`/`0007`, effective complete EPISODE.4U. Trigger: Emoco explicitly recognizes the cover, Ume directly addresses Nicole's legacy harm through Coney, and Coney later accepts Ume's non-forgiveness. | **Prior:** identity was audience-confirmed, with several Nanasta members knowing and Player/Alessandra states separate. **Current:** Ume and Emoco are added as direct knowers; the identity now bears a present accountability relation. **Retained limits:** Player acquisition and Alessandra recognition remain unresolved; Coney does not directly confess or apologize; Ume explicitly has not forgiven Nicole; machine routing/literal cover remains. Repaired destinations: `THREAD-0002`, `KNOW-0002`, `0011`, `0031`–`0036`, `REL-0099`, `0100`, B0013–B0016, 4U synthesis, entrypoint. |
+| `REV-0010` | `STRENGTHEN` the enacted cross-unit scope of the ending/beginning and non-replicative inheritance claims, effective complete EPISODE.4U. Trigger: Seven Sisters' ending is shown to have produced both Ume's real social opening and later injury; 4U survives by choosing a different practice rather than copying, defeating, or joining the predecessor/successor. | **Prior:** B0001 established renewal rather than replication inside Nanasta formation. **Current:** succession also requires plurality outside Nanasta and an account of finite legacy effects that can be real without permanence. **Retained limits:** original B0001 claims remain horizon-bounded; no full-series theme, society-wide revival, or necessary future pattern follows. Repaired destinations: `WORLD-0002`, `0006`, `UNIT-0001`, `0002`, `0007`, `CL-B0016-001`, `004`, `006`, 4U synthesis. |
+| `REV-0011` | `STRENGTHEN` Nanasta's bounded governance state, effective B0015, without closing the governance problem. Trigger: Player and Coney defer the 4U challenge to the twelve performers, who deliberate through distinct reasons and collectively accept. | **Prior:** peer boundary vocabulary and operational capacity had grown faster than governance; decisions were often manager-manufactured. **Current:** one consequential member-local collective decision is established, followed by a response that preserves 4U outside Nanasta. **Retained limits:** no formal rule, stable voting system, universal consent safeguard, or repair of prior coercion is shown. Repaired destinations: `WORLD-0001`, `THREAD-0001`, `UNIT-0002`, `CL-B0015-003`, B0015/B0016, 4U synthesis, entrypoint. |
+| `REV-0012` | `STRENGTHEN` Nanasta's situated institutional identity while preserving the consent problem, effective complete EPISODE 2.0. Trigger: the official city PV, office/home declaration, unit productions, and family-care chapters. | **Prior:** Nanasta was a twelve-performer formation with one evidenced collective decision and continuing governance failures. **Current:** it can narrate Tokyo-7th through member-local knowledge, organize distinct units, and function as a return address; the camera/commercial process still captures discomfort and surprise. Repaired destinations: `WORLD-0001`, `0007`, `THREAD-0001`, `0016`, `UNIT-0002`, `0008`–`0010`, EPISODE 2.0 syntheses, entrypoint. |
+| `REV-0013` | `STRENGTHEN` the non-absorptive successor-field claim from `REV-0010`, effective complete KARAKURI. Trigger: KARAKURI recognizes Nanasta, refuses idol recruitment, trains/competes/cross-votes, and retains autonomous artist identity. | **Prior:** 4U established that a present rival could remain outside Nanasta. **Current:** a second autonomous group confirms that shared stage, friendship, and collaboration do not require unit acquisition or occupational conversion. **Retained limits:** no full-series pattern, permanent alliance, or category hierarchy follows. Repaired destinations: `WORLD-0002`, `0008`, `THREAD-0001`, `0018`, `UNIT-0002`, `0007`, `0011`, KARAKURI syntheses, entrypoint. |
+| `REV-0014` | `REVISE` the initial two-in-one KARAKURI presentation into a bounded dual-person state, effective complete KARAKURI. Trigger: separate names/objects, project history, distinct solo/body states, renewed joint song, adult praise, and domestic coda. | **Prior:** the prologue presents a fused synchronized unit claiming sameness as authenticity. **Current:** Hitoha and Futaba are separately routed persons whose fusion was both imposed apparatus and appropriated survival practice; unity becomes chosen after distinct continuance appears. **Retained limits:** no invented personality binary, leader/follower assignment, permanent independence, technical music judgment, or cured abandonment fear. Repaired destinations: `IDENTITY-0028`–`0029`, `CHAR-0025`–`0026`, `REL-0101`–`0118`, `UNIT-0011`, `CL-B0023-002`, `CL-B0024-005`, B0017/B0021–B0024, KARAKURI syntheses, entrypoint. |
+| `REV-0015` | `STRENGTHEN` Nanasta's distributed institutional state while preserving governance limits, effective complete EPISODE 3.0. Trigger: documentary overflow, member-led relocation, differentiated unit/solo work, and performer-generated new formations. | **Prior:** Nanasta was a twelve-performer home/return address capable of unit work, hospitality, and isolated collective decisions. **Current:** it also operates as portable coordination across multiple sites and allows individual work to return as collective capacity. **Retained limits:** improvised success is not a formal procedure; scheduling, privacy, access, safety, pay, child protection, and consent failures persist. Repaired destinations: `WORLD-0001`, `THREAD-0001`, `0016`, `UNIT-0002`, B0025–B0029, EPISODE 3.0 syntheses, entrypoint. |
+| `REV-0016` | `STRENGTHEN` the bounded dual-person KARAKURI state from `REV-0014`, effective B0034. Trigger: Hitoha and Futaba spend a day apart, acquire non-identical relations/confidences, and send simultaneous messages that keep different secrets. | **Prior:** distinct continuance made renewed synchronization chosen after project rupture. **Current:** ordinary privacy becomes compatible with the duet; synchronized form can coordinate two different contents rather than prove fused interiority. **Retained limits:** no permanent independence, stable personality binary, complete privacy norm, or reduced mutual care is inferred. Repaired destinations: `CHAR-0025`, `0026`, `REL-0101`, `0102`, `UNIT-0011`, `THREAD-0018`, `CL-B0034-001`–`005`, B0034, arc synthesis. |
+| `REV-0017` | `REVISE` the uncomplicated “idols make everyone smile” residue, effective B0036 and strengthened by B0038. Trigger: Sakura enjoys the Seven Sisters' effort without producing a depicted smile; Tomoe experiences universal smiling as exclusion and revises it toward shared imperfect practice. | **Prior:** Haru's formation-era rule that idols must not cry and must make everyone smile remained an unresolved aspirational residue. **Current:** idol work can create occasions for joy, address, and change but cannot command expression or certify recovery; smile becomes something companions may offer beside distress rather than an output owed by performer or audience. **Retained limits:** the aspiration is not rejected, Memoru retains a resilience norm, Tomoe still wants to learn to smile, and preventable harm is not valorized. Repaired destinations: `THREAD-0004`, `WORLD-0002`, `CL-B0036-001`–`005`, `CL-B0038-001`–`005`, B0036/B0038, EPISODE 3.0 syntheses. |
+| `REV-0018` | `STRENGTHEN` the non-absorptive successor-field claim from `REV-0010`/`0013`, effective complete EPISODE 3.0. Trigger: existing units survive differentiation, new units form through non-zero-sum relation, Jeda's local solo remains collectively supported, and a fan participates without replacing Saori. | **Prior:** 4U and KARAKURI showed that rivals could share relation without Nanasta absorption or category conversion. **Current:** non-substitution operates within units, new formations, solo work, locality, and audience participation: valuable composition preserves non-equivalent persons and scales. **Retained limits:** this is a bounded arc-level formal pattern, not a full-series law; several successful relations retain coercive or unsafe systems. Repaired destinations: `UNIT-0002`, `0007`–`0018`, `WORLD-0001`, `0002`, `THREAD-0019`–`0022`, EPISODE 3.0 syntheses, entrypoint. |
 
-`INIT-20260909` establishes the schemas and zero-finding state. `T7S_B0001-20260909` adds eight claims, two frozen predictions, one completed visual review, and one queued audio/music review. `T7S_B0002_B0003-20260910` adds 13 claims, one frozen prediction, four modality records, and `REV-0001`. `T7S_B0003_CHAPTER_CLOSE-20260910` adds six claims, expands the two existing B0003 modality records, and adds `REV-0002`. `T7S_B0004_CHAPTER_CLOSE-20260910` adds nine claims, one completed composite-aware visual review, one queued performed-voice/music review, and `REV-0003`. `T7S_B0005_CHAPTER_CLOSE-20260910` adds nine claims, one frozen prediction, one completed native-offset composite visual review, one queued performed-voice/music review, and `REV-0004`. `T7S_B0006_CHAPTER_CLOSE-20260910` adds nine claims, one completed native-offset composite visual review, one queued performed-voice/music review, and `REV-0005`. `T7S_B0007_OPENING-20260910` adds six claims, one frozen prediction, one completed native-offset composite visual review, and one queued performed-voice/music review. `T7S_B0007_CHAPTER_CLOSE-20260910` adds eight claims, expands both B0007 modality records, and adds `REV-0006`. `T7S_B0008_CHAPTER_CLOSE-20260910` adds 11 claims, one frozen prediction, one completed native-offset composite visual review, one queued performed-voice/music review; no new revision was required at that horizon. `T7S_B0009_CHAPTER_CLOSE_B0010_OPENING-20260910` adds 18 claims, one frozen prediction, two completed native-offset composite visual reviews, two queued performed-voice reviews, and `REV-0007`; it distinguishes audience confirmation from literal labels, machine routing, and character knowledge. `T7S_EPISODE_1_0_CLOSE-20260910` adds 22 claims, two completed composite-aware visual reviews, two queued performed-voice reviews, and `REV-0008`; it closes B0010 and B0011, integrates the 91-episode unit synthesis, and reconciles three earlier line-bound/native-page voice-reference counters without changing AV status. Unsupported extensions remain rivals, bounded inference, or unknown. No performed-voice, singing, or music interpretation is admitted.
+`INIT-20260909` establishes the schemas and zero-finding state. Transactions through `T7S_EPISODE_1_0_CLOSE-20260910` produce 119 claims, eight revisions, seven frozen predictions, and 22 AV records across the complete formation unit. `T7S_EPISODE_4U_CLOSE-20260912` adds 21 claims, `REV-0009`–`0011`, one reviewed eleven-composite visual record, and one queued complete-family performed-voice/music record. It distinguishes finite effect from permanence, injury from authorization, renewed mutual authorship from unchanged continuity, collective decision from mature governance, and identity recognition from accountable repair.
+
+`T7S_NEXT_TWO_UNITS_CLOSE-20260912` adds 40 claims, `REV-0012`–`0014`, two bounded visual reviews, and two queued unit-level performed-voice/music reviews. It distinguishes image from address, spontaneous response from informed assent, family position from anticipatory care, imposed construction from appropriated survival, individuation from abandonment, and chosen ties from puppet strings. Unsupported extensions remain rivals, bounded inference, or unknown. No performed-voice, singing, instrumental-technique, choreography, or music interpretation is admitted.
+
+`T7S_EPISODE_3_0_CLOSE-20260912` adds 85 claims, `REV-0015`–`0018`, one reviewed four-state static visual record, and one queued complete-family performed-voice/music record. It distinguishes composition from substitution, differentiation from dispensability, public technique from friendship, pleasure from a required smile, local address from prestige equivalence, and fan contribution from bodily entitlement. Unsupported romance, cure, consent, technical performance, chronology, and institutional-safety extensions remain rivals, bounded inference, open, or unknown. No performed-voice, singing, instrumental-technique, choreography, or music interpretation is admitted.
