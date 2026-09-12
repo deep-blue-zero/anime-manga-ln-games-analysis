@@ -193,6 +193,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### All For One
 
@@ -1584,6 +1585,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Harumi Sawara
 
@@ -1605,6 +1607,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Harumi Shinju
 
@@ -1626,6 +1629,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Hataya Misuzu
 
@@ -2295,6 +2299,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### kana
 
@@ -2457,6 +2462,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Katsuragi Lilja
 
@@ -2497,6 +2503,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `kawasaki-sakura-reviewed-corpus`: OTHER OTHER: Canonical Phase-2 longitudinal reconstruction over the character's complete Phase-1-routed frozen occurrence frontier, with load-bearing claims retested against reopened primary Japanese source where available and lower-priority texture kept bounded.; continuity `idoly-pride-v2-cross-media`
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-sakura-longitudinal-ledger` — IDOLY PRIDE V2 CHAR SAKURA LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_SAKURA_LONGITUDINAL_LEDGER.md)
+
+### Kaya Rinha
+
+- Entity ID: `the-idolmaster:kaya-rinha`
+- Entity aliases:
+  - _None._
+
+#### Subject: Gakuen Idolmaster mobile-game targeted scene analysis
+
+- Analysis subject ID: `the-idolmaster:kaya-rinha@mobile-game`
+- Series: `gakuen-idolmaster`
+- Continuity: `gakuen-idolmaster-mobile-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-targeted-scenes`: GAME OTHER: Bounded interpretation of RINHA-AV-20260911 targets P0-001 through P0-011 and P1-001 through P1-007: selected Temari, Misuzu, Saki and Ume Dear scenes, Support 0097 parts 01-03, and EVENT_016 main-03 under Source Lock 1.0. Textual action and attributed interiority support behavior, psychology and recipient-specific relationships, with limited sampled-still support. Modular Dear/support contexts and childhood recollections remain separate; no single merged chronology, exhaustive appearance coverage, heard delivery or continuous-motion coverage is asserted.; continuity `gakuen-idolmaster-mobile-game`
+- Reviewed current evidence:
+  - [`targeted-scene-baseline` — Kaya Rinha targeted scene baseline: textual and sampled-still character analysis](series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
 
 ### Kayoko
 
@@ -2681,6 +2707,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Kuramoto China
 
@@ -3597,6 +3624,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Nonomi
 
@@ -4073,6 +4101,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Shiden Iida
 
@@ -4684,6 +4713,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Theoto Rikka
 
@@ -4890,6 +4920,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Twice / Bubaigawara Jin
 
@@ -4956,6 +4987,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+  - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
 
 ### Viktor Idinarohk
 

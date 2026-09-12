@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: ALL_MIGHT
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: All Might
 readiness: specialist_ready
 supersedes: []
@@ -74,6 +74,8 @@ He knows much OFA history, but he does not know every concealed AFO intervention
 
 `PRESERVE` sincere reassurance and evidence-responsive recognition. `REVISE` hero competence automatically supplying pedagogy. `REJECT` powerless equals useless, or the V39 observer's fear of suicide as exhaustive motive. `OPEN` how far the final social reforms reduce symbolic dependence, detailed elderly daily life, and the full psychological cost of decades of performance. The character can be specialist-ready while those questions remain open.
 
+**Current supplemental qualification (AM-SUP-01–03):** The later profile now establishes the U.A. vice-principal office, supported walking and coordination of aid for victims of villain crime; the bonus enacts Eri addressing him in that office. Detailed home routine and medical capacity beyond those facts remain unknown. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **retired All Might after V33**, a former student rejects food and help because others need him more. Likely: persist with concrete care, struggle with his own inability to force an outcome, and seek a way to remain useful. High confidence for attachment and practical effort; medium for whether he successfully challenges the student's reasoning. If peers provide a coordinated plan, delegation is more plausible than solitary pursuit. A request to risk his life is not automatically accepted merely to recover status: capability, actual protective effect, and obligation to survive all matter.
@@ -94,6 +96,36 @@ These supports refine the current full-series model. **AM03a–b and AM10 are ou
 This practice also differs from AM06's much later division of final-war roles. A reconstruction situated at V12 or V19 need not borrow the V38 decision to allow Shoto and Iida different responsibilities in order to represent supported student authorship. Conversely, appropriate technical guidance in V19 does not establish mastery over the later emotional problem of Midoriya refusing care. Domain competence and responsibility for another person's choices remain separable.
 
 For a reconstruction **after the V19 lesson**, Midoriya asks how to achieve an effect All Might once produced almost instinctively. Likely: identify the actual bodily limit, question imitation, elicit relevant prior methods, and help him test a recombination or seek suitable technical help. Confidence is medium-high for the general teaching pattern and lower for an exact technique. Immediate danger may require direct instruction; missing knowledge may require referral; a design that would create new dependence or ignore bodily constraints warrants scrutiny. The policy does not require withholding every answer to make the learner suffer productively. `STRENGTHEN` guided discovery and responsiveness to correction; preserve the continuing pressures of symbolic inheritance and instrumental self-worth. No new formal validation or readiness change is claimed.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside AM-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### AM-SUP-01 — Continuing education and aid office
+
+The current profile makes him U.A.’s vice-principal, with supported independent walking; Eri’s bonus greeting enacts that office. He leads assistance for people caught in villain crime. Neither office nor later mobility restores One For All or cancels physical limitations.
+
+Source basis: [SUP-UAG-104-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-104-01) (`UAG:s0104`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-110-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-110-02) (`UAG:s0110`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-319-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-319-01) (`UAG:s0319`; BONUS_FICTION, NARRATIVE; ENDPOINT).
+
+### AM-SUP-02 — Surviving care and individualized mentorship
+
+Inko asks him to live and raise Midoriya; he urges Endeavor to find his own kind of symbol and loses sleep researching powers for his pupil. These dependent manga selections strengthen AM03/AM10’s differentiation of recipients while preserving his vulnerability to self-neglect.
+
+Source basis: [SUP-UAG-106-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-106-01) (`UAG:s0106`; NARRATIVE, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-107-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-107-01) (`UAG:s0107`; NARRATIVE, EDITORIAL_SUMMARY; EARLIER_ONLY).
+
+### AM-SUP-03 — Equipment-mediated risk and received rescue
+
+Private funding and skipped safety testing locate the final-war suit’s risk. Heracles can sometimes act autonomously, and others interrupt All Might’s attempted self-destruction. The guide’s bent-fate language is an interpretation of survival, not a tested mechanism or proof self-sacrifice was necessary.
+
+Source basis: [SUP-UAG-109-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-109-01) (`UAG:s0109`; DESIGN, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-109-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-109-02) (`UAG:s0109`; DESIGN; EARLIER_ONLY); [SUP-UAG-108-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-108-01) (`UAG:s0108`; NARRATIVE, EDITORIAL_SUMMARY; EARLIER_ONLY).
+
+### Current use and remaining limits
+
+Use vice-principal and aid coordinator for the later state, with the earlier learner-led teaching policy still available. Declining or accepting risk depends on that dated bodily and relational context. His possible heart-rescue reading remains an interpretation rather than omniscient knowledge.
+
+Keep specialist_ready. The later institutional role and ordinary survivor continuity are better specified; exact private-life and physical limits remain bounded. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe AM-V01: V38 → V39 armored confrontation
 

@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: SHOJI_MEZO
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Shoji Mezo
 readiness: strong
 supersedes: []
@@ -67,7 +67,39 @@ Dupli-Arms supports sensory and protective functions; appearance also has a soci
 
 He cannot know every persecuted person's experience or the sincerity of all institutional reform from personal resolve. His apology for not noticing others' suffering is epistemically relevant (SM03). `PRESERVE` protective attention; `REVISE` quiet kindness as a sufficient model; `REJECT` revenge essentialism and paratext as behavior; `OPEN` the reach of reform, private adult breadth and responses to unobserved betrayal.
 
+**Current supplemental qualification (SM-SUP-01–03):** Ordinary Koda company, off-duty clothing and an author-disclosed letter from the rescued girl add received care and texture. Her reason for delayed contact is hers; Shoji’s detailed reaction and a drawn reunion are not supplied. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given adult Shoji asked to accept sole credit for a successful regional intervention, likely response acknowledges specific collaborators while accepting responsibility for his own work. High confidence in public-credit context; lower in a private conflict where safety and accountability compete. A hostile crowd threatening patients calls for firmer immediate opposition, not merely an awards-speech tone.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside SM-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### SM-SUP-01 — Prejudice and masking retain exact scope
+
+The regional prejudice/mask profile sits uneasily beside the glossary’s broadly prejudice-free modernity wording. His manga speech also gives not wanting to be seen as a revenger as a masking reason. Neither a generic glossary nor a crying-girl explanation erases the more granular history and self-presentation.
+
+Source basis: [SUP-UAN-053-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-053-01) (`UAN:s0053`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAN-285-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-285-02) (`UAN:s0285, UAN:s0053, UAN:s0261`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-066-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-066-02) (`UAG:s0066`; NARRATIVE, EDITORIAL_SUMMARY; CONTINUING_WITH_SUPPORT).
+
+### SM-SUP-02 — Ordinary peer comfort and continued care
+
+Comfortable taciturn company with Koda, adult off-duty Japanese clothing and the attributed laugh at Koda’s hair observation add ordinary texture. They do not make him silent in every setting or establish a broad private adult social network.
+
+Source basis: [SUP-UAN-053-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-053-02) (`UAN:s0053`; EDITORIAL_SUMMARY, NARRATIVE, OTHER_CHARACTER_JUDGMENT, SELF_REPORT; EARLIER_ONLY); [SUP-UAG-066-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-066-01) (`UAG:s0066`; PROFILE_FACT; ENDPOINT); [SUP-UAG-227-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-227-02) (`UAG:s0227`; SELF_REPORT, EDITORIAL_SUMMARY, GAG; ENDPOINT).
+
+### SM-SUP-03 — Received thanks has an explicitly external disclosure
+
+Horikoshi says the girl recognized him at the Sports Festival but delayed contact to avoid bringing painful history back; after the second war she sent thanks and a smiling photo. Her reasons are her side of the account. The author says he forgot to draw the planned interstitial, and Shoji’s detailed response remains unshown.
+
+Source basis: [SUP-UAG-302-04](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-302-04) (`UAG:s0302`; AUTHOR_COMMENT; ENDPOINT).
+
+### Current use and remaining limits
+
+The received letter strengthens the continuity of a particular rescue relationship without inventing a reunion scene or reaction. His broader public work remains high confidence; use conversational economy as conditional, not total emotional opacity.
+
+Keep strong. Low-stakes peer interaction and received care improve; private adult relationship variation remains limited and the V37 author drawing stays excluded from historical inputs. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe SM-V01: V37 → V42 public recognition
 

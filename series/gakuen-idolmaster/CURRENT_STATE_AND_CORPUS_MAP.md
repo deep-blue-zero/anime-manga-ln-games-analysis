@@ -8,10 +8,18 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisua
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-09-10 - AVE-FULL-20260910 Hiro/Misuzu documentation imported; source-accounting and measurement gaps closed within declared scope; direct-listening and motion dependencies remain open; Phase 6 remains IN PROGRESS
+last_updated: "2026-09-11 — RINHA-AV-20260911 source/text, selected-mix and sampled-still pass integrated; perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
+
+## Current Rinha AV execution — RINHA-AV-20260911
+
+The [Kaya Rinha AV packet](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) now contains the 18-target source/text, selected-mix measurement and sampled-still pass. All 12 required compilations are retained; 538 distinct source frame points were actually inspected, and 18 selected stereo mixes were computationally measured with decoded-sample preservation verified. **Direct listening: 0 seconds. Continuous-motion review: 0 seconds.** The full perceptual AV gate and final dossier remain open; Phase 6 stays **IN PROGRESS** and Phase 7 remains closed.
+
+The [exact-speaker audit](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md) corrects the current total to **118 relevant objects / 43 direct objects / 620 Rinha messages**. Support0097 part02 had one fan utterance incorrectly included by prefix matching; Rinha-only elongation marks change 63→49. All 73 claim IDs and Source Lock 1.0 commit/revision are preserved. Historical checkpoints below retain 621 as their then-reported count and retain old acquisition handoffs as history.
+
+Current next operation: perform and account for direct listening/continuous-video discrimination of the retained scenes, reconcile the remaining performance claims, then finalize the Rinha dossier only when its gate is satisfied. No additional required download is identified for the declared 18-target set.
 
 ## First-read status
 
@@ -28,7 +36,7 @@ This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical 
 
 **Fresh direct listening: zero. Fresh continuous-motion review: zero.** Source-bound measurements describe the decoded mix; sampled stills support bounded visual/caption findings. Neither closes the remaining vocal, motion, causal or ethical dependencies. Earlier AV interpretations and the separate targeted trial remain identified as inherited evidence. Exact review accounting and limitations are in each character's `SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md` and all-claim review.
 
-The original `GKM_PHASE3_*_AUDIOVISUAL_SOURCE_MANIFEST.json` files remain historical release records. The linked `*_SOURCE_MANIFEST_REBUILD.md` files and `FULL_REBUILD_SOURCE_VERIFICATION.md` now govern current Hiro/Misuzu acquisition accounting; original null fields are not current missing-source claims. Immutable release checksums continue to describe their original packages. Textual-core addenda remain in the existing `03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` homes. Source Lock 1.0 is unchanged, and the separate Phase-6 Rinha AV baseline and dossier remain pending.
+The original `GKM_PHASE3_*_AUDIOVISUAL_SOURCE_MANIFEST.json` files remain historical release records. The linked `*_SOURCE_MANIFEST_REBUILD.md` files and `FULL_REBUILD_SOURCE_VERIFICATION.md` now govern current Hiro/Misuzu acquisition accounting; original null fields are not current missing-source claims. Immutable release checksums continue to describe their original packages. Textual-core addenda remain in the existing ` 03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` homes. Source Lock 1.0 is unchanged, and the separate Phase-6 Rinha perceptual AV gate and dossier remain pending; the subsequent RINHA-AV-20260911 pass is recorded above.
 
 The September 9 checkpoint below preserves the earlier recovery state. Its prospective Hiro/Misuzu labels are superseded by this checkpoint and the [updated rebuild dispositions](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md).
 
@@ -65,7 +73,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 | 3 — Character Core Readings | COMPLETE — Gate C satisfied | `03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` |
 | 4 — Numbered Events | COMPLETE — 136/136 dedicated event scripts, 8,507/8,507 messages; four canonical tranche readings | `03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/` |
 | 5 — Support Cards | COMPLETE — 498/498 support scripts, 9,777/9,777 messages; eight canonical support readings | `03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/` |
-| 6 — Relationship/Ensemble Synthesis | IN PROGRESS - Relationship Systems I + II + side-character synthesis + corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md` + `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` COMPLETE; targeted Rinha AV baseline next; Rinha dossier remains required | `06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/` |
+| 6 — Relationship/Ensemble Synthesis | IN PROGRESS - Relationship Systems I + II + side-character synthesis + corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md` + `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` COMPLETE; Rinha source/text, selected-mix and sampled-still pass delivered; perceptual AV gate and dossier remain required | ` 06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/` |
 | 7 — Definitive Character Monographs | PENDING | `07_DEFINITIVE_CHARACTER_MONOGRAPHS/` |
 | 8 — Thematic/Institutional Synthesis | PENDING | `08_THEMATIC_AND_INSTITUTIONAL_SYNTHESIS/` |
 | 9 — Full-series/adversarial audit | PENDING | `09_FINAL_READER_FACING_SYNTHESIS/` |
@@ -87,7 +95,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 12. Juo Sena / 十王星南 — textual core COMPLETE; integrated AV baseline COMPLETE.
 13. Amaya Tsubame / 雨夜燕 — textual core COMPLETE; integrated AV baseline COMPLETE.
 
-**Current integrated AV coverage: 13/13 baseline analyses delivered.** No Phase-3 baseline document is missing. Hiro and Misuzu now have the imported AVE-FULL-20260910 source-accounting, measurement and all-claim review records; their remaining perceptual and interpretive dependencies are explicitly qualified above and in the character packets. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 621 logical Rinha dialogue messages** after tagged-speaker parser correction. The matrix adjudicates **73 bounded person-level claims** and requires a targeted Rinha AV baseline before the dossier is finalized. Next is `GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`; the character dossier remains required before Phase 6 can close.
+**Current integrated AV coverage: 13/13 baseline analyses delivered.** No Phase-3 baseline document is missing. Hiro and Misuzu now have the imported AVE-FULL-20260910 source-accounting, measurement and all-claim review records; their remaining perceptual and interpretive dependencies are explicitly qualified above and in the character packets. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 620 logical Rinha dialogue messages** after tagged-speaker and exact-name parser corrections. The matrix adjudicates **73 bounded person-level claims** and requires a targeted Rinha AV baseline before the dossier is finalized. The [RINHA-AV-20260911 packet](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) delivers the source/text, selected-mix and sampled-still pass. Direct listening and continuous-motion discrimination remain next; the character dossier remains required before Phase 6 can close.
 
 ## Canonical retrieval route
 
@@ -1003,3 +1011,11 @@ The matrix advances the Rinha AV decision from **WARRANTED/DEFERRED** to **REQUI
 
 After targeted acquisition/inspection and integration, proceed to `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`. The dossier remains mandatory before Phase 6 can close.
 
+<!-- RINHA_AV_20260911 -->
+## Phase 6 checkpoint — Rinha AV evidence pass delivered, perceptual gate open
+
+The [integrated Rinha baseline](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md), [evidence/metrics matrix](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md) and [73-claim report](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CLAIM_CHANGE_REPORT.md) are the current bounded AV generation. The original acquisition plan is preserved with owner-execution approval and targeted count/path status corrections.
+
+The pass sharpens sustained/accepted vulnerability, fandom beside self-disqualification, recipient-boundary acceptance and speaker/body attribution. It supplies 538 distinct inspected still points and 18 selected-mix measurements across 12 physical sources. These counts are not listening or continuous-motion coverage. The exact-speaker total is 620; prior 621 checkpoints are superseded only for current count use.
+
+Required next: direct listening and continuous-video comparison of the same 18 scenes, then performance-claim reconciliation and the Rinha dossier. Phase 6 remains **IN PROGRESS**. Dossier finalization and Phase 7 remain gated.

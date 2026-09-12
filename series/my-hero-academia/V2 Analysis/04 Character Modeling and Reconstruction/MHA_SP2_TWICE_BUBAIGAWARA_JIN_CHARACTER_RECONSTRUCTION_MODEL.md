@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: TWICE_BUBAIGAWARA_JIN
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Twice / Bubaigawara Jin
 readiness: specialist_ready
 supersedes: []
@@ -69,9 +69,41 @@ At a requested boundary, specify whether the identity fear has been falsified, w
 
 `PRESERVE` affiliative loyalty, self-blame and care. `REVISE` identity uncertainty after bodily falsification. `REJECT` comic voice as cognitive emptiness, kindness as harmlessness, and a later clone as a new adult biographical sample. `OPEN` alternate lives outside the League, whether another kind of intervention could have preserved both agency and safety, and detailed ordinary social domains beyond the sampled precarity/affiliation. Specialist readiness describes a rich terminal model, not a solved counterfactual rehabilitation program.
 
+**Current supplemental qualification (TW-SUP-01–03):** The preference for full-body enclosure and differentiated League ties now sharpen ordinary bodily security and relationship specificity. Identity-belief revision still does not certify a general cure, and later Toga-derived copies remain another actor’s actions. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **post-V24 Jin before Hawks's exposure**, a new helper works hard for the League and asks organizational questions. Likely: friendly openness, practical explanation, and trust based on visible contribution. Medium-high confidence, with greater caution if the questions directly endanger a known friend or contradict observed conduct. A pre-V24 version may also be open but retain a sharply different self-duplication constraint. After exposure, the same words of personal care are likely to be heard through betrayal, not simply accepted because the speaker sounds kind.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside TW-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### TW-SUP-01 — Apparatus and felt bodily security
+
+His own stated need for the whole body to feel enclosed is paired with mask and high-grade durable clothing. Unlocking self-copying after a specific recognition does not prove all fear or vulnerability cured. Material comfort is more specific than a generic trauma label.
+
+Source basis: [SUP-UAN-231-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-231-01) (`UAN:s0231`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-182-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-182-01) (`UAG:s0182`; EDITORIAL_SUMMARY, SELF_REPORT, DESIGN, NARRATIVE; EARLIER_ONLY).
+
+### TW-SUP-02 — Different companions, different attachment
+
+The book separates Toga-directed comradeship, executive recognition and repeated operational company, then centers happiness of companions who accepted his loneliness. Relationship shorthand is not equal intimacy with every League member.
+
+Source basis: [SUP-UAN-231-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-231-02) (`UAN:s0231`; EDITORIAL_SUMMARY, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAG-181-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-181-01) (`UAG:s0181`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### TW-SUP-03 — Contradictory speech and terminal actor
+
+The gag asks whether contrary statements are both sincere; this is not clinical diagnosis. The helper reaching Toga is a duplicate after the original’s death, and Toga’s later proliferation is her action using his blood. Preserve those actor/death distinctions.
+
+Source basis: [SUP-UAG-183-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-183-01) (`UAG:s0183`; EDITORIAL_SUMMARY, NARRATIVE, SELF_REPORT; ENDPOINT); [SUP-UAG-183-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-183-02) (`UAG:s0183`; GAG, NARRATIVE, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-258-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-258-01) (`UAG:s0258`; EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT).
+
+### Current use and remaining limits
+
+A novel earlier situation involving exposure or suit damage should consider bodily security, not only abstract identity belief. His final care remains particular; there is no postmortem adult Twice model.
+
+Keep specialist_ready at the terminal boundary. Embodied reassurance and relational discrimination improve, without claiming generalized psychological cure. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe TW-V01: V26 → V27 offered restart
 

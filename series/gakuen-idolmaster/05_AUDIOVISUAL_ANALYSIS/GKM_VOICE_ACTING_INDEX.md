@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-10"
+last_updated: "2026-09-11 — Rinha distributed AV packet added; perceptual gate open"
 ---
 
 # Voice acting and dialogue
@@ -34,3 +34,16 @@ Dialogue delivery, voice/register, scene acting and relation-specific performanc
 | Amaya Tsubame | [Specialist](13_AMAYA_TSUBAME/GKM_TSUBAME_DIALOGUE_VOICE_ACTING_CLOSE_READING.md) | [README](13_AMAYA_TSUBAME/README.md) |
 
 [All AV files](GKM_AUDIOVISUAL_FILE_INDEX.md) · [AV home](README.md) · [Project state](../CURRENT_STATE_AND_CORPUS_MAP.md). Hiro and Misuzu's [adopted toolkit rebuilds](../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_AVE_FULL_REBUILD_IMPORT_20260910.md) resolve the documentary rebuild tasks while retaining explicit direct-listening and continuous-motion review gaps.
+
+<!-- RINHA_AV_20260911 -->
+## Kaya Rinha — distributed-character AV responsibility
+
+The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) adds the 18-target source/text, selected-mix and sampled-still pass across 12 retained recordings. It documents 538 distinct inspected frame points, 18 verified selected-mix measurements and 73 claim dispositions. Direct listening and continuous-motion review are both 0 seconds; the perceptual baseline gate and Rinha dossier remain open.
+
+- [Integrated baseline and 18 scene records](KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
+- [Evidence and metrics matrix](KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md)
+- [All-claim change report](KAYA_RINHA/GKM_KAYA_RINHA_CLAIM_CHANGE_REPORT.md)
+- [Source identities and 620-message recount](KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md)
+- [Actual review accounting and methods](KAYA_RINHA/GKM_KAYA_RINHA_REVIEW_ACCOUNTING_AND_METHODS.md)
+
+The baseline owns the bounded voice-analysis responsibility; no separate unheard-voice specialist or numbered fourteenth playable-character core is created.

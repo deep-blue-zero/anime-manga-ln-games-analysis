@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: JIRO_KYOKA
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Jiro Kyoka
 readiness: strong
 supersedes: []
@@ -66,7 +66,39 @@ Earphone Jack makes hearing a practical interface and a vulnerability. Damage to
 
 Knowledge is revisable. She learns the lived intensity of fear in JK05 rather than having always fully understood friends' experience. She cannot infer an ally's complete motives from one visual memory or know whether outsiders' romantic speculation is true of someone else. `PRESERVE` domain competence and social reserve; `REVISE` hobby/hero incompatibility; `REJECT` fearlessness, disposable-extra logic and romance-by-proximity; `OPEN` private adult breadth.
 
+**Current supplemental qualification (JK-SUP-01–03):** Continuing music and schedule-dependent Eri instruction now positively fill part of the adult ordinary/creative gap. Her repaired ear is explicitly not its original state; office proximity to Kaminari does not establish romance or full bodily restoration. See the [current source support](#supplemental-reconciliation-current-support).
+
 For an adult community event seeking her musical help, likely response depends on whether she chooses the purpose and practical role. With a useful agreed task, technical leadership is medium-high confidence; an unwanted personal performance demand could elicit deflection. An acute threat to friends changes the priority from embarrassment management to protective action. Exact invented dialogue should be labeled simulation, not quotation.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside JK-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### JK-SUP-01 — Received care and reciprocal taste
+
+Jiro credits Koda and apologizes for pressing his insect fear; Momo introduces classical music while she introduces metal in the reciprocal profile. Later praise can be redirected to Kaminari’s learning. Expertise is compatible with gratitude and being a learner.
+
+Source basis: [SUP-UA-060-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-060-01) (`UA:s0060`; OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAN-045-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-045-01) (`UAN:s0045`; EDITORIAL_SUMMARY, PROFILE_FACT; EARLIER_ONLY); [SUP-UAG-061-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-061-02) (`UAG:s0061`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### JK-SUP-02 — Continuing chosen music and mentoring
+
+Adult music continues more actively, and the author says she apparently teaches Eri guitar/bass when schedules permit. The bonus reports clearing time for Eri’s first performance. This specifies a continuing chosen relationship, not mandatory availability or a complete music-career schedule.
+
+Source basis: [SUP-UAG-060-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-060-01) (`UAG:s0060`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-302-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-302-02) (`UAG:s0302`; AUTHOR_COMMENT; ENDPOINT); [SUP-UAG-320-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-320-01) (`UAG:s0320`; BONUS_FICTION, NARRATIVE; ENDPOINT).
+
+### JK-SUP-03 — Repair is not original bodily restoration
+
+The profile explicitly says her repaired left ear is not back to its original state. The reprinted final-war work remains cooperation under fear and injury. Do not project a full functional recovery into every later action or turn an effect on AFO into raw superiority.
+
+Source basis: [SUP-UAG-060-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-060-01) (`UAG:s0060`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-061-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-061-01) (`UAG:s0061`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### Current use and remaining limits
+
+For an invited musical project, role choice, schedule and the learner’s needs matter. Neighboring offices are author-confirmed, but proximity still does not establish romance or undo her manga boundary-setting.
+
+Keep strong. Independent musical and mentoring contexts materially improve; private adult relationship variability and precise medical limits remain open. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe JK-V01: V20 → V36 courage under asymmetry
 
