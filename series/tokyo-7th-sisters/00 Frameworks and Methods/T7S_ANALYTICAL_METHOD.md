@@ -4,16 +4,16 @@ artifact_id: T7S_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; governing method applied through the exact T7S_B0001–T7S_B0069 horizon; no EPISODE 6.0, EPISODE NANASUTA, 2053, or other unadmitted story source"
+source_boundary: "c20260909-r484; governing method applied through the exact T7S_B0001–T7S_B0076 horizon; no EPISODE NANASUTA, 2053, or other unadmitted story source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-12
+last_updated: 2026-09-13
 ---
 
 # Tokyo 7th Sisters analytical method
@@ -221,3 +221,4 @@ Future ingestion is question-driven: an official lyric edition to resolve a vari
 - 2026-09-09 — V1 / 1.0: implement the approved reading, evidence, claim, audiovisual and music method for the preserved Japanese offline game.
 - 2026-09-10 — V1 / 1.1: distinguish compact arc/era narrative synthesis from optional promoted arc deep reading; require the narrative synthesis as the latter's publication prerequisite while preserving shared reconciled dependencies and separate authority.
 - 2026-09-12 — V1 / 1.2: add independent 2034/2053 stack horizons and a fail-closed transition method; require the complete 2034 story, declared character and multimodal layer, warranted longitudinal syntheses, era reconstruction, literary synthesis, and completion audit before any 2053 semantic consumption.
+- 2026-09-13 — V1 / 1.3: apply the unchanged governing method through the complete T7S_B0076 / EPISODE 6.0 horizon; preserve the EPISODE NANASUTA and 2053 semantic boundaries.
