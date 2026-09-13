@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Technology, organization, and hidden actors through V26
+scope: Technology, organization, and hidden actors through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -460,3 +462,96 @@ Even without his largest weapon, Child Emperor identifies knowledge, enemy analy
 - **Hero communication:** raid actors form a distributed benign information system; fragmented status/hostage reports must be aggregated before Tatsumaki can loosen constraints.
 - **`大抜擢`:** Hero Association is shown as a fast-grown, sponsor-rich private organization with multiple departments, promotion competition, and genuine personnel evaluation. Organizational function can then drift when competent crisis staff are reassigned toward publicity production.
 - **Control principle — STRENGTHEN:** visible body, title, department, or interface is not necessarily the final causal node, and identifying the node does not guarantee the surrounding system is understood.
+
+
+## V27 delta — hardware budgets and hidden causal inputs
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+- **Genos/Kuseno — STRENGTHEN:** the ten-second warning becomes an active battlefield constraint. Genos observes an abnormal biological node and uses his limited system for complementary beam deflection. Post-window hardware state remains OPEN. `OPM|V27|134|image:0087-0089`; `137|image:0181-0188`.
+- **Distributed system — STRENGTHEN:** the fusion's compulsory energy intake becomes Tatsumaki's infiltration route; hidden rescue traffic is kept below Psykos's detection threshold. Control depends on sensing and required inputs, not merely locating a visible controller. `OPM|V27|137|image:0170-0171`.
+- **External actor — NEW causal uncertainty:** Psykos's reported God-like contact introduces a possible power-granting actor; the detailed ontology belongs to the existing power/cosmic and mystery ledgers. No Organization, Bofoi, Drive Knight or machine-program identity is established by this encounter. `OPM|V27|136|image:0134-0143`.
+- **NO CHANGE:** Drive Knight's earlier accusations remain circumstantial and speaker-attributed; V27 supplies no resolution of his affiliation, the Organization, or Bofoi's agenda.
+
+TF/VF -> IR; `tankobon_canonical`, available from V27. This section does not create a separate God or technology synthesis.
+
+## V28 delta — resource acquisition and cooperation with undisclosed purpose
+
+Propagated from the frozen [V28 reading](../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+- **Drive Knight — STRENGTHEN observed acquisition policy:** names Nyan containment, pursues fused-organism samples, judges roots unsuitable, and visibly collects a fragment during the attack sequence. Fragment viability and downstream use are unknown. `OPM / V28 / 139 / 0053–0055`; `142 / 0152`; `143 / 0186`.
+- **Infrastructure — direct consequence bounded:** his earlier power replenishment is linked to a blackout. Record the visible externality without inventing casualties or a complete supply-network account. `140 / 0076–0077`.
+- **Genos / Drive Knight — new mechanism and knowledge exchange:** Drive Knight proposes combination as a gamble; Genos accepts while warned about his reactor and later states core failure risk and planned separation. Their shared configuration is real, but temporary practical compatibility does not resolve motive, allegiance or the earlier Bofoi accusation. `143 / 0168–0174`.
+- **Research facility — new childhood history:** eighteen years earlier, Tatsumaki is confined and abandoned after personnel judge returns inadequate; the memory and Blast dialogue distinguish suppressed demonstrated ability from institutional evaluation. There is no evidence identifying this facility as the Organization or proving it created her power. `142 / 0134–0145`.
+- **Blast / cubes — OPEN:** visible cube in rescue memory and similar underground object strengthen an investigation route; occupation, acquisition purpose, object identity and operation are not disclosed. Amai's separate rescue memory is undated. `140 / 0083–0085`; `142 / 0140–0145`; `143 / 0192–0205`.
+
+Earlier Organization/G5/Bofoi questions remain active without new identity consolidation. Speaker confidence is never substituted for independent organizational proof.
+
+## V29 technology/organization delta — information and mission limits
+
+Propagated after the frozen [V29 reading](../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+- **Blast's account is a new information source with qualified authority.** Device-like language, touch/contact and altered time accompany demonstrated portals and collection (`144 / 0016–0023`). Regards to Sitch/Tatsumaki establish named links, not a full organization chart. A hidden-war explanation of his absence remains a hypothesis.
+- **Drive Knight's mission has a demonstrated stopping point.** Separation and departure follow `目的達成` despite Genos's ensuing core danger (`147 / 0091–0093`). V28's cooperation and fragment acquisition remain true; the new behavior limits how far that cooperation implied ongoing care. No hidden allegiance, final objective or sample viability is established.
+- **Technology encounters route and environment constraints.** The rescue vehicle's reported quantum stealth system does not solve blocked roads or helicopter circumstances; tires, poles, rope and Sekingar's eye beam enable another route (`145 / 0040,0051–0055`). These are local affordances, not proof of an unlimited shield.
+- **Command depends on incomplete reports.** Cadre defeats are not fully communicated; radio failure does not certify death (`145 / 0046`; `146 / 0076–0082`). Pig God's report predates Tanktop Master's later mutilation (`149 / 0143–0145`); no dishonesty need be invented. Black Sperm infers a care destination but has not identified Fubuki's precise position (`150 / 0190`).
+- **Medical capacity is part of operational capacity.** Genos's thermal warning, Fubuki's biological intervention, further body damage and the demand for another healing round distinguish hardware state, living tissue, healer endurance and transport (`147–150 / 0090–0192`). A prepared electrical intervention is not an applied treatment.
+
+The V29/V30 historical file's misplaced sword-lineage claim supplies no current organization evidence. Only four arriving swordsmen are newly shown at 0124; their fuller identities, weapons or later outcomes are not supplied from V1.
+
+## V30 technology/organization delta — old data and unanswered appeals
+
+Propagated after the frozen [V30 reading](../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+- **Genos / STRENGTHEN:** prior humiliating burial supplies engineering data for implemented escape; surviving back propulsion later supports movement after catastrophic limb loss (`152 / 0053`; `155 / 0162–0164`). Function can persist without full restoration. The repeated 0129/0160 sequence is narrative revisitation, not an unshown rebuild.
+- **Child Emperor / STRENGTHEN:** the field report turns into a phone composition with estimated oxygen under ten minutes, unknown hero survival and a formal former-assistant signoff (`154 / 0123–0127`). These are source-qualified report, estimate and request. The sent indicator does not establish receipt/read/reply.
+- **Bofoi / OPEN:** CE distinguishes the person from the Metal Knight label, appeals to capacity beyond one hero and anticipates possible institutional consequences if cooperation fails (`154 / 0126–0127`). Old snack correspondence is temporally separated. No present refusal, agenda, location or hostile affiliation follows from silence.
+- **Zombieman / OPEN:** possible moral support and priority rescue are CE's proposals, not an Association appointment or reliable current life certification (`154 / 0123–0127`).
+- **Sun Blade / new artifact evidence:** handed object, remembered lore and narrated response are recorded in the power home (`153 / 0092–0094`; `156 / 0173–0184`). Apparent responsiveness does not by itself assign maker, full mind, biological status, technology category or cosmic source.
+- **King publication / bounded medium evidence:** an in-world printed object is available in a bookstore and is read (`extra / 0196–0201`). Editorial process, contracts, payment, sales and interview accuracy remain unobserved.
+
+No present portal-group arrival, new Organization operation, Drive Knight response or independent God intervention is established. Existing hidden-actor questions remain open at their prior evidentiary limits.
+
+## V31 technology/hidden-actor delta — reliable devices and unreliable premises
+
+Propagated after the frozen [V31 reading](../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+CE's communicators and corridor plan are real organizational resources, but the decisive supposed King weapon is fictional (`157 / 0032–0037`). His policy against remote weapons cites the risk if hacked; it is not evidence of an actual Bofoi/Organization breach. Rationalizing King's delay illustrates information failure within otherwise skilled coordination (`159 / 0093`). No verified reply to the earlier Bofoi appeal appears.
+
+Genos distinguishes felt energy at Garou from the public King account and permits malfunction as an explanation (`160 / 0133`). This is bounded sensor/self-diagnostic uncertainty, not evidence of power transfer or a resolved culprit. Gratitude to Kuseno and a touched core do not establish a new repair, upgrade or remote doctor intervention (`0151–0155`).
+
+Zombieman's conditional inquiry into a hidden manipulator is interrupted by observed lethal interference (`158 / 0076–0087`). The apparent giver's counterfeit offer is separately resisted; real Blast explains a missed contact window during cube-related displacement and explicitly returns to allies (`161 / 0201–0213`). Silhouettes remain unnamed. Sage's divine mission claim adds evidence of affiliation without settling creation, command mechanics or identification with every prior hidden actor (`0218–0221`). Offshore military observation/evacuation and carrier damage show the new scale without supplying complete casualty totals (`0170–0173`).
+
+## V32 technology delta — damaged infrastructure remains part of rescue
+
+Propagated after the frozen [V32 reading](../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+The carrier's screw/rudder damage and lack of footing create a real application problem; crew orders, closing bulkheads, Saitama's improvised surfing and structural deformation manage successive hazards (`162,165 / 0028–0032,0138–0146`). No intact-vessel or final-casualty accounting is inferred. The news helicopter and rescue helicopter are distinct; the latter has engine trouble, targeting constraints, passengers who assist a shot, and a specified net landing followed by boats (`162–163,167 / 0041–0081,0179–0185`).
+
+Gearsper/One Shotter's cooperation shows useful psychic-assisted aiming with concentration and a later fumble, not a repaired eye or specified communication protocol (`0067–0074`). Sekingar privately credits personnel and later admits perceptual limits; a private address to Sitch is not a sent message (`0074,0185`). Fubuki's new group announcement lacks membership assent (`0135`).
+
+No new Bofoi reply, Genos repair/upgrade, identified hidden organization intervention, donor grant or resolved Blast-ally mechanism occurs. Sage's mission association stays at the earlier evidentiary ceiling. The bonus fleet's self-named force and weapon rhetoric are separate satire with unspecified main-story timing (`0224–0225`). V1's misplaced cosmic events and the isolated technical web pilot supply no narrative facts.
+
+## V33 technology delta — contact, overload and mediated evidence
+
+Propagated after the frozen [V33 reading](../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+Shipwide decontamination activation and an officer's nuclear-attack diagnosis provide an operational response to novel danger. They do not certify complete protection (`0116`). Blast's portal failure receives an explicit energy-load explanation; he prioritizes transferring everyone, leaving achieved evacuation open (`0190`).
+
+The donor uses a trusted teacher likeness and assigns proxy status despite Garou rejecting the offered hand. Contact, claimed retained control and inferred incomplete grant are separate stages. Unnamed dimensional speakers discuss seal damage and repair after the planetary disturbance, with no confirmed identity for every silhouette or the threatened occupant (`0070,0093–0105,0154–0168`).
+
+Genos states radiation resistance, acts from a ruined body and is later deliberately destroyed; the core is removed and caught. No new repair protocol, Kuseno intervention, Organization attribution or Bofoi response is demonstrated (`0174–0176,0191–0207`).
+
+The Drive Knight feature claims electronic interference, lack of battle imagery, protected crew access and favorable private behavior before its television frame is exposed. The final reply supports strategic image management, not a verified fabrication method or settled allegiance. Preserve the video's contents, official questions and actual reply as separate sources (`0213–0217`).
+
+## V34 technology delta — evidence-bearing core and active response
+
+Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+**STRENGTHEN core evidence, OPEN ontology:** Genos connects the second core to a sub-connector, tests it and receives memories explicitly narrated as carried through spacetime. The montage extends beyond ordinary present-body experience, but no complete recording apparatus or identity theory is given. His branch hypothesis and universal heroic inference are not interchangeable with the data (`174 / 0151–0162`).
+
+**REVISE absence-of-response:** Bofoi reports a nuclear detection through his designed ship and deploys fallout removal, attack analysis, compulsory examinations and decontamination. Bang later reports improved bodily condition. Actual technical service does not prove every patient cured, every hidden suspicion false or every prior motive benevolent (`174–175 / 0190–0192,0208`).
+
+**PRESERVE repair stages:** Saitama proposes Kuseno for Genos's limbs; working limbs appear at salvage with `SALT PROOF`. No comprehensive new body specification, observed repair-room sequence or all-environment immunity follows (`0193,0214`).
+
+Blast's allies add coordinated capability and reciprocal familiarity, with uncertain recoil destination and unnamed identities (`172 / 0015–0019`). Older Organization/Drive Knight questions remain open. Association residential infrastructure/security claims in V1 are excluded from the V34 evidence boundary.
