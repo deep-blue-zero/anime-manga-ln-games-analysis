@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Hero character state through V26
+scope: Hero character state through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -1030,3 +1032,172 @@ The extra makes Amai's hero doctrine explicit: heroes should be people worthy of
 
 ### Sitch / Hero Association staff
 - `大抜擢` strengthens staff-side modeling: Sitch's prophecy/cross-organizational crisis competence is recognized seriously by evaluators even as institutional promotion machinery redirects him toward publicity work.
+
+
+## V27 hero-state delta
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+| Character | State / behavior added | Constraint or counterexample retained | Evidence route |
+|---|---|---|---|
+| Tatsumaki | checks hostage status, protects Fubuki, extracts multiple people covertly, infiltrates through root-energy flow and mitigates the tsunami | severe self-reliance doctrine coexists with extensive rescue and Genos support; no frictionless cooperation or equal protection rule inferred | `OPM|V27|132|image:0031-0032`; `134|image:0064-0083`; `136|image:0141-0143`; `137|image:0150-0171,0181-0188` |
+| Superalloy Darkshine | childhood weakness, sustained real training, preference for predictable pleasant victory and fear under uncertain harm become explicit; warns Garou to escape collapse | confidence breach does not make his achievement fraudulent or erase concern for another person; recovery remains OPEN | `OPM|V27|133|image:0041-0049,0058-0061` |
+| Genos | detects an anomalous biological node; makes discipleship into beam-interception responsibility under the ten-second full-power limit | asserts himself abrasively toward Tatsumaki while coordinating; deflection does not establish equal overall power or resolve later hardware cost | `OPM|V27|134|image:0087-0089`; `137|image:0181-0188` |
+| Fubuki | expects Tatsumaki's power geometry to spare her and advises Bang/Bomb to remain close; senses several exceptional surface signatures | her expectation is relationship-specific; full Psykos history remains unestablished | `OPM|V27|134|image:0064`; `137|image:0181-0188` |
+| King | escort/report gives Tatsumaki usable child-accounting information | protective contribution does not validate the false combat biography | `OPM|V27|132|image:0031-0032`; `134|image:0066-0089` |
+| Mumen Rider | chooses civilian rescue after acknowledging limited frontline usefulness | accurate weakness assessment does not cancel duty | `OPM|V27|135|image:0101-0104` |
+| Tanktop Master | validates Mumen's contribution and returns to duty while injured | comic tanktop language carries sincere support; recklessness is not generalized as virtue | `OPM|V27|135|image:0101-0104` |
+| Metal Bat | reassures Zenko and leaves hospital with his bat | refusal of final defeat, not literal invulnerability | `OPM|V27|135|image:0096-0098` |
+| Flashy Flash | continues route cooperation while worrying about being seen trapped | pride sensitivity persists; broader recalibration remains bounded | `OPM|V27|137|image:0189-0191` |
+
+These are TF/VF observations with conditional IR; `tankobon_canonical`, available from V27. Genos's `先生` role language and rough peer address are partner-dependent registers. The readiness index owns tiers; this propagation makes no automatic promotion. Child Emperor and other extracted heroes receive no invented new psychological model from extraction alone.
+
+## V28 hero-state delta — recognition, limits, and acting again
+
+Propagated from the frozen [V28 reading](../../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+| Character | State / conditional behavior added | Constraint or counterexample retained | Evidence route, all V28 |
+|---|---|---|---|
+| Tatsumaki | acknowledges Genos by hero name after his intervention, physically helps him, later receives his protection; childhood abandonment and Blast's rescue contextualize her self-reliance; Fubuki's present call accompanies renewed action | memory dates her rescue eighteen years earlier, not Amai's; Blast's warning concerns expecting rescue, not rejecting offered aid; waking and acting do not cure injury or settle her autonomy conflict | `138 / 0011–0021`; `142 / 0128–0147`; `143 / 0190–0202` |
+| Genos | maintains complementary protection under expended hardware, requests other heroes' help, protects unconscious Tatsumaki, accepts Drive Knight's proposed combination and explains imminent core failure/separation | rough peer address coexists with real assistance; no civilian-trigger checkpoint expansion, unlimited endurance, or settled partner trust | `139 / 0058`; `142 / 0132–0133,0157–0159`; `143 / 0168–0174` |
+| Amai Mask | imagined peer contempt and concern trigger concealed violent intention; Blast's remembered reassurance interrupts it; self-restraint includes head impact and public deflection; challenges Darkshine and includes himself in the struggle to rise | threat toward allies and actual kicks remain in the model; no diagnostic label, settled ontology, full reform, or proof that imagined insults were spoken | `140 / 0078–0087`; `141 / 0105–0108,0112–0116,0122–0123` |
+| Superalloy Darkshine | articulates attachment to pleasant victory, curls up apologetically under humiliation, responds to investment recognition and coercive pressure, then participates with an actual missile attack | honest self-accusation is his judgment, not proof his trained strength was false; standing and attacking establish bounded re-engagement, not durable recovery from fear | `141 / 0091,0103–0117`; `143 / 0183–0186` |
+| Fubuki | calls and offers aid to Tatsumaki, supports Tanktop Master, and times an attack contribution; privately corrects his tanktop explanation | active assistance and timing revise any passive-spectator summary; no complete psychic mechanism or sisterly reconciliation inferred | `142 / 0128,0145–0147`; `143 / 0165–0168,0175` |
+| Blast | appears in two differently situated rescue memories; reassures Amai and tells young Tatsumaki of a sister who needs her while warning against expected rescue | new bounded relational evidence; Amai memory undated, knowledge of the sister unexplained, occupation/cube purpose and larger agenda OPEN | `140 / 0083–0085`; `142 / 0137–0145` |
+| Atomic Samurai / Iaian | disciple credits survival as failure to die; master responds with praise and touch; Atomic recognizes a ranged limit, proposes temporary coordination and later uses transport to reach the target | pride and later quarrels persist; Iaian's concern about Amai does not grant access to Amai's private intention | `139 / 0060–0063`; `140 / 0082`; `141 / 0118–0123`; `143 / 0176–0181` |
+| Pig God | shelters the rescued group in his body and credits Iaian's assembly of survivors | Child Emperor's digestion fear is corrected as injury, not evidence of intentional harm; body function differs from predatory incorporation | `138 / 0031`; `139 / 0059–0063` |
+| Child Emperor / Bang | institutional exclusion concern becomes an explicit exchange about Garou, then Bang thanks the child for allowing a teacher's personally owned responsibility | tears support emotional response, not a complete private confession; Bang's promise to subdue remains unfulfilled at this boundary | `141 / 0123`; `142 / 0127–0128` |
+| Zombieman | reappears whole and regulates conflict; says his estimate of Amai rose a little | small esteem shift does not endorse Amai's violence or imply knowledge of concealed plans | `141 / 0091,0109,0122` |
+| Puri-Puri Prisoner | treats Darkshine's training as investment in a person worth protecting, admits his own defeat, then uses a threatened deep kiss to induce standing | encouragement and sexual coercion coexist; preserve the earlier consent contradiction | `141 / 0109–0117`; `143 / 0182` |
+| Tanktop Master / Mumen Rider | return with an improvised pylon ride after distinguishing combat and rescue roles; Master accepts Fubuki's aid and attributes comfort to his garment | sincere gratitude can carry a false mechanism; willingness does not establish invulnerability or an unshown cadre defeat | `139 / 0064–0069`; `141 / 0120–0121`; `143 / 0165–0168,0202` |
+| Drive Knight | pursues samples, replenishes power through infrastructure, shifts forms, proposes risky combination and captures a fragment | blackout is shown but specific civilian harm is not; fragment viability and hidden allegiance remain unknown | `139 / 0053–0055`; `140 / 0076–0077`; `142 / 0148–0159`; `143 / 0168–0186` |
+| Flashy Flash | values the trapped sword, resists a forceful extraction, and objects after its breakage | later referent corrects the apparent arm warning; his claim about arm durability is not a narrator-certified absolute | `143 / 0192–0198,0203` |
+| Watchdog Man | returns from pre-alarm interception to quiet pedestal routine; the extra stresses detection and local protection | reported speed and estimated disaster level remain qualified; sparse speech and private motivation still constrain readiness | `extra:嗅覚 / 0206–0209` |
+
+The readiness index owns tiers. Darkshine advances to **moderate** on cumulative breadth, not the attack's power. Blast enters **emerging**; all other existing tiers are preserved. King adds practical map/navigation participation, not a new combat achievement (`138 / 0026`). Heroes without a material V28 transition receive no invented state update.
+
+## V29 hero-state delta — care received, returned and kept possible
+
+Propagated after the frozen [V29 reading](../../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+| Character | Added conduct / conditional policy | Contradiction or boundary retained | Evidence |
+|---|---|---|---|
+| Fubuki | treats Genos at severe cost because a leader cannot lose a subordinate; asserts her own decision to come, offers her sister different forms of help and a future with trusted companions | membership is unilateral; care does not make her free of hierarchy or complete her promise; sister's acknowledgment coexists with immobilization | `147 / 0095–0101`; `148 / 0112–0119` |
+| Tatsumaki | sustains useful interventions while bleeding, explicitly acknowledges Fubuki's growth, then restrains her and returns to danger; later frees the transport route | recognition and control coexist; she opposes expecting rescue, not necessarily all received aid; no full recovery | `146 / 0065–0068`; `148 / 0110–0119,0130–0133`; `150 / 0191` |
+| Genos | accepts treatment, puts a garment over Fubuki, chooses renewed aid by remembering respect for life-risking resolve, affirms Saitama as his teacher, carries wounded heroes and accepts a particular handoff | ethical learning coexists with strength-based self-reproach; no Fubuki membership or Bang apprenticeship; 0163's pronoun remains unnamed | `147 / 0090–0101`; `148 / 0120–0123`; `149–150 / 0150–0192` |
+| Bang | interrupts humiliation threat, extracts and carries Tanktop Master through redirection, accepts allied relief and seeks Fubuki's further care | additional demand on the exhausted healer troubles him; ultimate-defense language is his claim; Garou confrontation is still absent | `149 / 0147–0163`; `150 / 0181–0192` |
+| Bomb | supports/catches the exhausted healer, shares the sisters' imposed restraint, receives the assignment to remain with Fubuki and watch for Garou | cooperative presence and warmer peer language do not supply a complete private history | `147 / 0100–0101`; `148 / 0113–0122` |
+| Tanktop Master | helps evacuate captives and credits Mumen's bed gift, resists danger through garment-centered resolve, survives catastrophic injury after garment recoil | apparent cardiac arrest and revival do not mean full skeletal healing; sincere belief is not proof of a magic mechanism | `148 / 0125–0138`; `149 / 0148–0155,0162` |
+| Pig God | delivers living captives for care, reassures an angry amputee and returns to battle while privately reserving a prophecy-related resource | reassurance about reattachment is not completed medical outcome; his initial battlefield report predates the later mutilation; reserve and timing remain unverified claims | `149 / 0143–0146` |
+| Mumen Rider | reads the bed message as care for future wounded people and pledges rescue work | inference about Tanktop Master's foresight is his; pledged transport is not completed here | `149 / 0145–0146` |
+| Metal Bat | owns failed escort duty, notices Waganma's concern, stops adults' kneeling before children, endorses repayment and accepts Sekingar as boss | rough gendered speech and leadership recognition coexist; King's supposed combat feat remains a false premise | `145 / 0041–0055` |
+| Sekingar | credits the rescue, allocates jobs by fit and available resources, accepts responsibility for organizing and enables improvised transport | working injured is concrete duty, not omniscience; he still relies on King's myth and incomplete field information | `145 / 0045–0055` |
+| King | privately fears expectations, accepts a child's plea for the unnamed uncle and goes toward the battlefield after improvised launch | reassuring appearance does not become combat prowess; the promise's practical outcome remains open | `145 / 0038–0055` |
+| Darkshine | shields Iaian with his body, enjoys the jets as polishing, disperses the immediate water threat and intervenes against Black Sperm | actual protection and vanity coexist; no fresh surface damage or confidence collapse, no permanent cure of prior fear | `150 / 0170–0180,0192–0193` |
+| Atomic Samurai / Iaian | pupil revises water-threat assessment and imagines a conditional ocean danger; master adapts cuts to delay immediate multiplication and relieves injured transport | imagined global assimilation is not an event; tactical local success is not total elimination or a universal rule | `150 / 0168–0170,0185–0190` |
+| Child Emperor / Zombieman | child corrects his suspicion of excluded heroes and praises human leadership; Zombieman protects him under attack | the unnamed alternative leader is not identified by guess; injuries and failed radio do not certify terminal fate | `144 / 0024–0029`; `146 / 0076–0082` |
+| Amai Mask | reacts to the human-leadership exchange, suffers phobic impairment, facial crushing and dismemberment | private identity, subsequent condition and moral resolution remain unknown | `144 / 0025–0027`; `146 / 0071–0075` |
+| Blast | checks for an accepted deal, handles the cube casually, disables Flash's test, explains a qualified device model and includes Manako in transport | present helpful conduct strengthens the rescue-memory profile; agenda, affiliations, speed mechanism and destination remain open | `144 / 0014–0023` |
+| Flashy Flash | tests Blast at speed and recognizes decisive outmaneuvering | humiliation/reassessment is local; no calibrated speed ratio or complete revised hierarchy follows | `144 / 0017–0020` |
+| Drive Knight | separates and leaves after saying his objective is achieved while Genos faces core failure | tactical collaboration has a demonstrated care limit; secret allegiance and full objective remain unproved | `147 / 0091–0092` |
+| Puri-Puri Prisoner | goes to seek buried Child Emperor with his characteristic affectionate/sexualized register | rescue intent is present; success is not shown and prior consent contradictions remain | `147 / 0092` |
+
+Existing tiers are preserved; the readiness index owns the bounded additions. Defeat, rescue, return and healing are distinct states, and injuries are not silently converted to death or complete recovery.
+
+## V30 hero-state delta — changed purposes under failed force
+
+Propagated after the frozen [V30 reading](../../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+| Character | Added behavior / conditional policy | Counterevidence or unresolved limit | Evidence |
+|---|---|---|---|
+| Bang | confronts Garou using protective art; past selfish violence and defeat by Bomb lead through years of practice to reform; admits neglect as teacher, intends to retire and invites a restart | **moderate -> strong** from longitudinal/private/role-conflict breadth, not combat rank; Bomb's winning-option judgment is untested, retirement future, invitation unaccepted | `153 / 0075–0086`; `155 / 0134–0159` |
+| Bomb | shares treatment resources, protects Fubuki and moves danger away; loses to Garou; remembers nonlethal intervention and names brotherly witnessing as reason for accompanying Bang | **insufficient -> emerging**; new independent voice within family/crisis, still limited ordinary life and unrelated goals. His interpretation of hero entry is not broadcast quotation | `151–152 / 0010–0011,0029–0044,0066–0071`; `155 / 0137–0154` |
+| Genos | delivers patient, uses prior data for burial escape, repeatedly aids Tatsumaki despite limb loss; says he can no longer self-destruct with surviving heroes as collateral and asks whether he is becoming strong | strong retained; ethical restraint coexists with combat dissatisfaction. Former-self counterfactual is not an actual past massacre; repeated intercuts do not imply a repair | `151–152 / 0028,0050–0054`; `154–155 / 0129–0130,0160–0167`; `156 / 0189` |
+| Atomic Samurai | explicitly retracts judgment of Bang; accepts Nichirin's sword and mission; recalls Bang as fellow teacher/rival, gains brief sword response, suffers cost and orders pupils to escape | moderate retained; peer learning and dependence qualify pride, no universal humility or permanent mastery | `151 / 0034–0036`; `153 / 0092–0094`; `156 / 0170–0184` |
+| Superalloy Darkshine | confident mass defense precedes acid burns, distress at greater muscles/shine and a disabling blow | moderate retained; both bodily injury and comparison matter, earlier actual heroism preserved; recovery and permanence unknown | `151–152 / 0013–0014,0046–0047,0057–0061`; `154 / 0108–0113` |
+| Tatsumaki | persists at depleted output, shows alarm for Genos, accepts local coordination, credits herself for his adaptation and eventually tells him to flee | moderate retained; concern and mutual aid do not complete apology or sister reconciliation; no full recovery | `151–152 / 0012,0048–0054`; `154–155 / 0129,0161–0167` |
+| Fubuki | wants to crawl to sister, disputes Bomb's likeness judgment, initiates treatment using his strength, stands before Garou and asks Pig God for help | moderate retained; initiative and care are limited by energy/perception. Patient only improves a little; no consent symmetry or finished cure assumed | `151 / 0010–0011,0028–0037`; `152 / 0043–0045` |
+| Child Emperor | estimates dwindling oxygen, sends former mentor a formal request grounded in disaster capacity and duty; proposes Zombieman as possible moral support; protests rescuer's intrusive interpretation | strong retained; report is participant knowledge, Zombieman/Amai status unknown, send is not receipt; survival and relief do not erase boundaries | `154 / 0123–0128`; `156 / 0195` |
+| Puri-Puri Prisoner | finds and rescues the trapped child while reading protest as affection; later welcomes King | moderate retained; effective care and disregard of personal boundaries coexist; King confidence is mistaken | `154 / 0127–0128`; `156 / 0195` |
+| King | appears because Genos is endangered, privately panics, wishes Saitama would come while others expect victory | moderate retained; motive is direct, no physical power or completed rescue invented. Magazine captions add mediated public voice, not an observed interview process | `156 / 0187–0195`; `extra / 0196–0201` |
+| Metal Bat | destroys small bodies before obtaining desired information; first moves to assist King then chooses perimeter interception because he trusts King's strength | moderate retained; rough action can frustrate inquiry, and helpful deployment can follow false premises; not simply absent or uncaring | `154 / 0116–0118`; `156 / 0190` |
+| Nichirin | prepares safe geometry for pupil, entrusts Sun Blade to Atomic and grants Banehige independent-path graduation while terminally injured | newly routed emerging; coherent professional/mentor voice, narrow ordinary/private breadth. Lore remains lore; no later corpse examination | `151 / 0023–0027`; `153 / 0087–0094`; `156 / 0173` |
+| Banehige | performs the prepared technique, mourns teacher, continues defense with Iaian so Atomic can concentrate | newly routed emerging; formal loyalty, grief and new autonomy instruction support bounded model, not accomplished future mastery | `151 / 0023–0027`; `153–154 / 0087–0094,0119–0121`; `156 / 0170–0176` |
+| Iaian | witnesses losses, sustains defense, recognizes ENW's return and supports exhausted Atomic | emerging retained; precise professional care under grief, no broad new private model | `152–153 / 0062–0065,0087–0094`; `156 / 0170–0187` |
+| Tanktop Master / Pig God | patient improves slightly; Pig God arrives and is asked to help | existing moderate tiers retained; no full recovery or demonstrated reserve technique | `151–152 / 0028–0030,0045` |
+| Zombieman / Amai / Bofoi | receive reports, requests or hopes in CE's message | no new present self-directed response shown; third-party characterization is not appointment, death, refusal or secret allegiance | `154 / 0123–0127` |
+
+Zanbai's and Amahare's catastrophic losses establish lethal stakes and local sacrificial conduct without manufacturing broad personality models. The readiness index owns current tier routing. Strength, ethical change, survival, care and public recognition remain separate dimensions.
+
+## V31 hero-state delta — care and interpretation under defeat
+
+Propagated after the frozen [V31 reading](../../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+| Character | New behavior / state | Contradiction, voice and limit | Evidence |
+|---|---|---|---|
+| Genos | remains dismantled, reports sensed energy/possible malfunction, asks teacher whether he is strong, receives core-touch recognition and thanks teacher/Kuseno | strong retained; 先生 and sincere doubt coexist with mistaken King attribution. Gratitude does not establish precise understanding or bodily repair | `160 / 0132–0133,0150–0155` |
+| King | tries ordinary warnings, privately confesses, mangles fictional attack aloud, survives others' interventions, admits fear to friend, credits Genos and cares for Tatsumaki | moderate retained; intended confession differs from public result. Fear, courage, concealment and useful care coexist; no new output | `157 / 0010–0040`; `159–161 / 0090–0119,0148–0150,0200–0213` |
+| Bang / Bomb | Bang persists in teaching, falls from a damaging graze after a facial blow; Bomb struggles to reach him | strong/emerging retained; purpose does not guarantee victory. Affectionate お兄ちゃん, private appeal and Garou's later memory do not establish conscious accepted reconciliation or retirement | `158–160 / 0056–0074,0102–0108,0122,0134–0135` |
+| Child Emperor | restores communication, designs coordinated corridor, rationalizes King's delay | strong retained; useful technology and coordination rest on a fictional capability premise. Prior learning does not grant immunity to collective misinformation | `157 / 0032–0037`; `159 / 0090–0097` |
+| Zombieman | restrains HE, checks CE's safety, threatens/interrogates, rejects first death analogy and infers interference; later shredded by Platinum | moderate retained; care and lethal threat coexist. Regeneration not unlimited, inquiry not complete cosmology, no shared-vision assumption | `157–159 / 0024–0033,0075–0087,0098` |
+| Flashy Flash | attacks after category inference, fights both opponents, identifies four faster people today, resents surpassed self-model and falls | moderate retained; real defeat and pride crisis, no universal hero selfishness proved; recovery unresolved | `160–161 / 0135–0147,0158–0160,0176–0188` |
+| Tatsumaki | injured beneath King's shirt, initially responds to flattery, rejects offered power with あんた誰? after remembered advice | moderate retained; relationship memory tests identity. Not full recovery, rejection of every helper or pronoun-based authentication | `161 / 0200–0209` |
+| Blast | arrives separately, recognizes resistance, explains missed contact window, entrusts Tatsumaki, returns to assist allies | emerging retained; real/fake both 私; informed testimony, unknown allies and incomplete mechanics. No proved knowledge of King's limitation | `161 / 0208–0213` |
+| Metal Bat / PPP / Atomic and swordsmen | Bat intercepts insurance and credits King; PPP extracts wounded heroes; Atomic observes fusion/output and joins expectations | existing tiers retained; effective contribution, wrong attribution and continuing injury are separate. No new blade mastery or complete casualty accounting | `157 / 0042–0049`; `159 / 0090–0119`; `161 / 0210` |
+
+Fubuki, Tanktop Master, Pig God, Amai, Darkshine, Bofoi and other offstage/unresolved figures gain no invented cure, refusal or new independent act. Particular gratitude or a paratext appearance is not equivalent to present conduct. The readiness index owns exact current tiers.
+
+## V32 hero-state delta — wounded people continue to contribute
+
+Propagated after the frozen [V32 reading](../../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+| Character(s) | Observed addition | Voice, contradiction and boundary | Evidence |
+|---|---|---|---|
+| Metal Bat | revises hostile reading after protection, cooperates through insults, intercepts antenna, assists core opening, encourages Garou and collapses | moderate retained; protective masculine maxim, actual injury, unequal power and deferred rivalry coexist. Rescue purpose deliberate, technique resonance accidental | `162–163 / 0034–0099` |
+| Gearsper / One Shotter | offers to become the marksman's effective eye, concentrates, enables shot; marksman subsequently fumbles weapon | bounded useful contribution despite impairment; no eye repair, flawless execution or automatic broad tier promotion | `163 / 0067–0074` |
+| Sekingar | privately credits recruits, recognizes uncertain battle causes, prioritizes wounded and boat withdrawal | emerging retained; personnel judgment is not transmitted report; operational limits are explicit | `163,167 / 0074,0182–0185,0201–0204` |
+| Suiryu / Suiko | respond differently to frightening news footage; Suiryu notes aircraft not downed and qualifies perceived killing intent | moderate/emerging retained; useful perception with admitted uncertainty, not complete account of Garou | `162 / 0052–0053` |
+| Amai Mask | survives, borrows huge shirt, offers stranger escort, carries Bat, attacks Manako under predation assumption | moderate retained; care, revenge and categorical lethal violence coexist. Survival lacks a full healing mechanism; ship interruption is not moral reform | `164–165 / 0102–0104,0129–0133` |
+| Fubuki | asserts new group, attempts sister-directed energy aid, asks Master for help, becomes depleted | moderate retained; claimed membership is not assent; urgent care and self-presentation coexist; full healing unshown | `165 / 0134–0137,0147` |
+| Tanktop Master / Tatsumaki | altered Master carries wounded, proposes throw/catch, privately wishes rival to survive until he surpasses her; Tatsumaki remains unresponsive | moderate tiers retained; concern in rivalry register, real carrying and false King assumption; no complete recovery | `165 / 0134–0138,0146` |
+| King | sees Saitama before firm assurance, is praised by Master, privately credits friend and criticizes roughness | moderate retained; friendship knowledge differs from public supernatural attribution | `165 / 0138–0146` |
+| Pig God | gaunt hungry state, later enlarged swimming and protective swallowing/transport | moderate retained; recognizable continuity, unexplained complete physiology, passengers not yet shown released | `164–165 / 0103–0104,0147–0150` |
+| Flash / Bang / Bomb / Genos | Flash holds Manako during carrier hazard; Bang remembered and carried; Bomb makes conditional treatment assessment; Genos remains in care aftermath | existing moderate/strong/emerging/strong tiers retained; no completed reconciliation, retirement, repair or new Genos interpretation | `164–165 / 0112–0126,0133–0150`; `166 / 0162` |
+| Snek / Needle Star / boat helper | protect Tareo and support evacuation under new hazard | no broad promotion from one act; monster classification can coexist with competent protection, and the child leaves secretly | `167 / 0182–0183,0198–0204` |
+
+No absent character receives invented refusal, cure or hidden intervention. Existing consent contradictions and earlier failures remain in force. The readiness index owns exact current tiers; the body and relationship ledgers preserve survival/transport versus final outcome separately.
+
+## V33 hero delta — agency persists amid bodily vulnerability
+
+Propagated after the frozen [V33 reading](../../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+| Profile | New conditional evidence | Voice, knowledge and limit | Evidence |
+|---|---|---|---|
+| Genos | recognizes Saitama, propels already ruined body into confrontation, states radiation resistance, remains teacher-oriented before deliberate extraction | strong retained; resistance is bounded and intervention active. Garou chooses the later attack to provoke Saitama. Permanent mortality, repair and further uptake unshown | `170–171 / 0123,0174–0176,0191–0201` |
+| Bang | contrasts earlier felt return to sanity with a different malign presence; asks for Garou back and knowingly accepts mortal risk | strong retained; diagnosis is attributed, concern enacted, reconciliation refused; Garou credits his teaching without accepting his present demand | `170–171 / 0153–0172` |
+| Blast | argues from purposes/consequences, infers partial personality, prefers removal, uses portals/gravity, encounters overload and prioritizes evacuation | emerging retained; operational model substantially stronger, private/ordinary life and full mission thin. Final intervention outcome remains open | `171 / 0165–0190,0199,0212` |
+| Drive Knight | public hostile/favorable accounts culminate in a questioned video and his tactical reply | emerging retained; strategic publicity strongly supported. Ordinary-life montage is mediated, and neither every kindness nor every fraud is independently certified | `extra / 0213–0217` |
+| Flash / Amai / Manako | Flash gives a utility-based reason for retaining a monster companion; Amai's categorical question is interrupted by the broader crisis | moderate/moderate/emerging retained; local defense without a universal inclusion doctrine or Amai's assent | `170 / 0144–0145` |
+| Max / Sekingar / Snek / Child Emperor | search mobilization, shielding Waganma's eyes, pity/prayer for an apparent corpse, correction identifying Pig God | emerging/emerging/moderate/strong retained; Sekingar attribution is directly corrected before freeze. Careful intention can coexist with mistaken identification | `169 / 0052–0053` |
+| Pig God / Tanktop Master / Mumen | passenger release and recognizable altered body bring reunion and hospital question | moderate each retained; neither full physiology nor completed recovery follows | `169 / 0087–0088` |
+| King / Zombieman / Bat / Bomb / sisters and injured ensemble | concern, fear, limited energy interpretation and collapse; King remains positioned over the sisters | existing tiers retained; Bat first attributes dizziness to brightness. Protective posture does not prove immunity or successful rescue; a camera view alone adds no new private motive | `170–171 / 0144,0148–0149,0162–0173,0202` |
+
+Blast's science language and Bang's intimate diagnosis have different warrants. Both inform the reader without settling total possession. Genos's vulnerability is not narrative permission to erase his active contribution. No absent hero receives an invented refusal or hidden intervention.
+
+## V34 hero delta — different forms of repair and knowledge
+
+Propagated after the frozen [V34 reading](../../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+| Profile | New observed policy / state | Limit and evidence |
+|---|---|---|
+| Genos | tests second core, receives narrated memories, hypothesizes branches, overgeneralizes perfect heroism, politely contradicts lateness; intends reporting; later salvages and notices Fubuki's bandages | strong retained. Data and theory differ; reporting uncompleted, full identity/branch ontology open. `174–175/bonus / 0151–0162,0170,0214,0217` |
+| Bang | proposes helping many times more people than harmed, accepts bowing/apology burden, returns Garou to sparring and tries ordinary conversation; retires | strong retained. Wanted discovery is his modal thought; future registration/reform uncompleted. `174–175 / 0183,0198–0213` |
+| Fubuki | sews despite novice skill and needle injuries, accepts existing scar, returns garment with scent while framing gratitude as evaluation/recruitment | moderate retained. Genos notices, but consent/romance and freedom from all status anxiety are unproved. `bonus / 0216–0218` |
+| King | identifies promise recipient and demands restraint before children; reputation/engine deter crowd after Tareo's physical interruption | moderate retained. Saitama's advice supports coordination; no demonstrated new combat force. `174 / 0174–0186` |
+| Metal Bat / Amai Mask / Zombieman | injured-person objection / execution and claimed unanimity / causal investigation and will-to-live question | moderate each retained. Bat denies unanimity; do not convert disagreement into one shared judgment. `174 / 0168–0178` |
+| Flashy Flash | impaired view produces Blast-like striker account; recalls prior God discussion | moderate retained. Naked-Blast rumor is misattribution, not new Blast action; inquiry incomplete. `174 / 0169,0172–0173` |
+| Metal Knight / Bofoi | reports nuclear detection, deploys fallout removal/attack analysis, orders examination/decontamination; Bang reports bodily benefit | emerging retained, operational evidence strengthened. No full recovery census or settled hidden-actor innocence. `174–175 / 0190–0192,0208` |
+| Blast / allies | jointly redirect excessive energy after gate-distance limit; discuss recoil without exact destination knowledge | Blast emerging retained; allies unnamed with reciprocal familiarity, insufficient private breadth. `172 / 0011–0019` |
+| Sekingar / Sitch | early registration request / retirement document, withheld identity, anticipated backlash and prophecy-driven force expansion | Sekingar emerging retained; Sitch remains an attributed institutional voice, not a new readiness profile. Proposed successor has no inherited rank. `175 / 0209–0211` |
+
+Genos's G-A-03 confirmation concerns preserved respectful disagreement, not the truth of every claim. Titles/cast art and collective medical language do not independently establish every absent hero's final condition or motive. Earlier consent and bodily-history contradictions remain intact.

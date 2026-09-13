@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Heroism, recognition, rank, and institution evidence through V26
+scope: Heroism, recognition, rank, and institution evidence through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -622,3 +624,107 @@ The donor's son becomes a fallible child witness whose shame delayed crucial hos
 - **King — STRENGTHEN causal reputation:** public falsehood about physical strength still produces protective deterrence for Tareo.
 - **`大抜擢` — NEW institutional control case:** personnel review contains real evidence, competing criteria, and recognition of Sitch's crisis value, yet promotion can redirect that competence into idol-hero publicity production. Institution-level dysfunction can coexist with competent evaluators and workers.
 - **Governing revision:** recognition quality depends on evidence availability, evaluation quality, and organizational use after evaluation. These are separate failure points.
+
+
+## V27 delta — useful roles after defeat
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+- **STRENGTHEN:** King/Tareo reports and distributed extraction make rescue accounting a condition of available force, not background sentiment. `OPM|V27|132|image:0031-0032`; `134|image:0064-0083`.
+- **STRENGTHEN:** Mumen separates frontline output from civilian-rescue usefulness; Tanktop Master validates the role. Suiryu explicitly treats heroic resolve as more than fighting capacity. `OPM|V27|135|image:0101-0111`.
+- **REVISE invincibility shorthand:** wounded responders make `負けない!` a persistence ethic after defeat. Their condition remains a real constraint, not proof that danger is irrelevant. `OPM|V27|135|image:0096-0111`.
+- **STRENGTHEN:** Tatsumaki's disaster mitigation and Genos's beam interception show voluntary complementary work despite peer friction. No new institution or frictionless command structure is established. `OPM|V27|137|image:0150-0154,0181-0188`.
+- **IR, bounded:** public spectacle can obscure the fine rescue/information work that enables it. Actual field value, visible scale and public attribution remain separate dimensions.
+
+The chapter material supports these TF/VF/SF -> IR transitions; no institutional follow-through for Suiryu or public recognition of Manako is yet established.
+
+## V28 delta — recognition can restore action without purifying motives
+
+Propagated from the frozen [V28 reading](../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+- **STRENGTHEN distributed contribution:** Genos's beam work buys extraction time; Tatsumaki returns physical help; Iaian receives credit for gathering survivors; Atomic's range limit is later solved by transport. Effective contribution includes preparation, information, rescue and delivery. `OPM / V28 / 138 / 0011–0021`; `139 / 0058–0063`; `143 / 0175–0181`.
+- **REVISE clean encouragement shorthand:** Darkshine's return involves honest self-accusation, PPP's recognition of training, Amai's shared struggle, kicks/humiliation, and a sexual threat. His actual attack is useful while the means remain ethically mixed. Zombieman's small esteem gain and Child Emperor's renewed admiration coexist with immediate insults. `141 / 0103–0123`; `143 / 0183–0186`.
+- **STRENGTHEN recognition as relational work:** Bang's thanks allows Child Emperor to be a child receiving care as well as a strategist under responsibility; Blast's rescue gives young Tatsumaki a needed-family relation. Neither scene proves a general cure. `142 / 0127–0145`.
+- **KEEP institutional distinctions:** the research facility abandons a low-yield child; the hero raid uses an exclusion decision tied to Garou responsibility; Q-City personnel classify and clean up after rapid interception. These are different organizations, purposes and information positions, not one universal claim that institutions only watch. `142 / 0127–0128,0134–0136`; `extra:嗅覚 / 0206–0209`.
+- **PRESERVE useful action with mistaken explanation:** Tanktop Master's sincere thanks credits a garment mechanism Fubuki privately rejects. Watchdog Man's quiet response protects the city before alarm procedures catch up. Visibility, causal belief and actual public value remain distinct. `143 / 0165–0168`; `extra:嗅覚 / 0206–0209`.
+
+No rank revision, universal hero-reform thesis, or V1-only cadre destruction is admitted.
+
+## V29 heroism delta — role fit and continuity of rescue
+
+Propagated after the frozen [V29 reading](../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+- **Differentiated contribution is an explicit managerial principle.** Sekingar's stone/diamond statement values suitable place and work without pretending equal combat output (`145 / 0046–0048`). His injured participation and transport contribution enact the organizing obligation (`0045,0053`). Metal Bat's repayment language and refusal of kneeling in front of children make recognition relational, with rough gendered voice retained (`0043–0044`).
+- **Recognition can change without becoming pure or complete.** Waganma's concern for the injured Child Emperor, Metal Bat's noticed response and the father's payment language coexist (`145 / 0041–0043`). Child Emperor's ideal of a human leader and Amai's reaction expose a category boundary later attacked by Homeless Emperor's retort to Zombieman (`144 / 0024–0029`). The unnamed alternative organizer is left unnamed.
+- **Aid to the powerful and aid to the healer are heroic work.** Fubuki's cooling costs her body; Genos returns small care and acts from the remembered value of resolve independent of ability (`147–148 / 0095–0123`). Tatsumaki's recognition of growth does not yet end controlling protection. These are conditional, sometimes hierarchical forms of care, not a uniformly emancipated team.
+- **Victory credit and medical condition are distinct.** Tanktop Master helps deliver survivors and credits Mumen's bed before defeat; Pig God transports people who still need treatment; Bang and Genos depend on a threatened route to Fubuki (`148–150 / 0131–0192`). Rescue is a continuing chain with remaining work, not a single completed victory word.
+- **Reputation remains operationally mixed.** King's myth yields deployment expectations that his private fear does not support (`145 / 0045–0055`). The role-allocation principle can be sound while an important input is false. No direct King combat achievement is created by favorable interpretations of his posture.
+
+The volume thesis is an IR about sustained rescue obligations, bounded by selfishness, coercion, errors and unresolved medical outcomes. It does not convert rank into morality or imply all hero institutions are ineffective.
+
+## V30 heroism delta — care, teaching and deployment under reputation
+
+Propagated after the frozen [V30 reading](../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+| Claim transition | Observed basis | Scope / limit |
+|---|---|---|
+| STRENGTHEN protection without guaranteed victory | shared-resource treatment, physical patient transport, defenders holding space, Genos dragging Tatsumaki by cloth (`151 / 0028–0030`; `155 / 0162–0167`; `156 / 0170–0176`) | partial effects remain real; deaths and continuing danger prevent a simple cooperation-guarantees-success model |
+| REVISE strength as sufficient account of ethical growth | Genos rejects former willingness for collateral self-destruction while doubting combat progress (`155 / 0166–0167`) | choice is present, successful rescue unresolved; no new universal definition supplied by Saitama |
+| STRENGTHEN role conflict inside heroic duty | Bang judges hero work to have damaged his teaching relationships and intends retirement (`155 / 0156–0159`) | self-critique and plan, not already completed resignation or sole explanation of Garou |
+| STRENGTHEN particular recognition can aid reform | Bomb witnesses changed purpose; Atomic admits mistaken judgment and later models concentration on Bang (`151 / 0035–0036`; `155–156 / 0147–0154,0175`) | correct local recognition does not make every witness reliable |
+| STRENGTHEN rank/capacity distinction | Banehige's technique requires safe deployment geometry and has high penetration (`151 / 0023–0027`) | no proof of deliberate rank concealment or a complete comparative ranking |
+| STRENGTHEN institutional duty argued under incomplete information | CE appeals to Bofoi's arsenal and warns of possible standing loss; proposes Zombieman's future support role (`154 / 0123–0127`) | a desperate participant's report/proposal, not institutional verdict, receipt or succession |
+| STRENGTHEN reputation affects actual allocation | King concern is read as combat capacity; Bat chooses perimeter, cadres propose joint action, CE/PPP presume victory (`156 / 0189–0195`) | false attribution changes conduct without granting physical strength; ultimate benefit unresolved |
+| STRENGTHEN public presentation | King's fashion-publication persona and captions are read by Saitama (`extra / 0196–0201`) | actual in-world publication, uncertain production/intent; no observed mass reception or payment |
+
+Heroes do not monopolize cooperation: Golden Sperm protects HE and requests collective attack (`156 / 0181–0193`). Conversely, rescue and disregard for another's wishes coexist in PPP's intervention (`154 / 0127–0128`). Keep conduct, institutional status and moral judgment separable.
+
+## V31 heroism delta — what recognition attends to
+
+Propagated after the frozen [V31 reading](../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+| Transition | New evidence | Limit |
+|---|---|---|
+| STRENGTHEN distinction between contribution and output | King's frightening appearance and imagined ability affect real choices; Garou causes the supposed ultimate's effects (`157–159 / 0010–0049,0109–0119`) | useful delay is not all deliberate; reputation does not grant a beam |
+| STRENGTHEN recognition of protection despite defeat | King reports Genos's act, Saitama praises effort and tentatively interprets non-explosion (`160 / 0150–0155`) | partial knowledge and uncertain reception remain; no mechanical strength diagnosis |
+| STRENGTHEN teaching as purposeful costly action | Bang maintains purpose and falls (`158 / 0067–0073`) | moral purpose is not a guarantee of victory or pupil reform |
+| REVISE reliability of expert coordination | CE's actual communications/geometry depend on imaginary King output (`157 / 0032–0037`; `159 / 0093`) | technical sophistication cannot by itself validate a capability premise |
+| REVISE universal hero selfishness claim | Flash's pride crisis is direct; Platinum universalizes it (`161 / 0177–0188`) | Bang, Genos, King and Manako supply internal counterevidence |
+| STRENGTHEN care outside categorical affiliation | Manako's concern and Garou's affiliation refusal (`160–161 / 0137–0142,0188`) | particular acts do not establish general reconciliation |
+| STRENGTHEN selective dependence | Tatsumaki rejects a counterfeit while real Blast delegates and relies on allies (`161 / 0200–0213`) | autonomy is compatible with actual assistance; she remains injured |
+
+No new Association rank, promotion, verified Bofoi response or completed institutional repair appears. God's language, formal disaster category and personal ambition remain different authorities; both final threats are classified unknown.
+
+## V32 heroism delta — specific witnesses and continuing duties
+
+Propagated after the frozen [V32 reading](../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+Broadcast fear, Suiryu's qualified non-killing-intent reading, Bat's action-based revision, Tareo's personal rescue judgment and Saitama's conduct-based refusal use different evidence (`162 / 0041–0053`; `166–167 / 0166–0169,0183,0206–0211`). Tareo's broader allocation of both giant defeats remains inaccurate; Saitama's costume explanation remains incomplete. Recognition can be ethically useful without complete causal knowledge.
+
+The rescue chain requires wounded contributors, psychic-assisted marksmanship, Bat's interception, Garou's catch/throw, a specified net and later boats. Sekingar's inability to classify distant sounds and his withdrawal to protect the injured are responsible operational limits (`163,167 / 0067–0081,0182–0204`). Another chain includes carrier crew, Saitama, Fubuki, Master and Pig God; successful attack is not final medical or evacuation accounting (`162,165 / 0028–0032,0134–0150`).
+
+Amai's real care does not erase his attempted categorical killing of Manako; Garou's real care does not erase threats to rescuers. The child challenges the lesson the stronger person wants to impose, and Saitama checks the desired outcome (`165,167 / 0129–0133,0207–0223`). No new rank, Association reform, lasting Fubuki Group membership, universal public correction or completed absolution occurs. King is again miscredited, while his actual knowledge of Saitama usefully grounds assurance (`0138–0146`).
+
+## V33 heroism delta — useful effects, chosen duties and timing
+
+Propagated after the frozen [V33 reading](../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+The shelter chain distinguishes an actual rescue effect, corrected credit, fear-surviving gratitude and subsequent psychological uptake. It does not turn the initiating attack into planned protection. Lava diversion and raised land extend the distinction, while the self-prioritizing teacher contrasts with trapped evacuation workers (`168–169 / 0032–0070`).
+
+Rank remains useful to participants but insufficient as explanation. Garou infers Saitama's standing from an S-class disciple, acknowledges Blast's rank and assigns himself disaster level God. None is a new Association ruling. The ship's decontamination activation is a concrete institutional response, without a demonstrated completed safety outcome (`170–171 / 0116,0170,0176,0190`).
+
+Bang, Genos and Blast retain protective initiative despite bodily risk and inability to dominate. Blast shifts priority to everyone else's evacuation when gate overload exposes the limit of containment. Saitama's own memory and self-reproach make timely preservation part of his heroic standard; the final punch's consequences remain open (`171 / 0163–0212`).
+
+The Drive Knight bonus stages the production of public evidence. Rumor, a partisan critic, recording limitations, apparently intimate reporting, a television reveal and official reception report cannot be collapsed into one reliable biography. Tactical publicity does not prove either institutional omniscience or universal fabrication (`extra / 0213–0217`).
+
+## V34 institution delta — contested punishment and proposed succession
+
+Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+**REVISE unanimity:** Amai's execution claim is directly denied by Bat. Tareo's rescue testimony, Zombieman's inquiry, King's child-facing command and Bang's continuing restitution duty supply distinct policies. Others' prevented-rescue counterfactual remains their argument. Garou's execution demand does not itself legitimate killing (`174 / 0168–0184`).
+
+**STRENGTHEN recognition as causal but fallible:** Flash's impaired sight creates a naked-Blast rumor. Genos has real core evidence, an overextended hypothesis and an uncompleted reporting intention. King achieves a protective result through reputation without proving the feared combat capacity (`174 / 0152–0186`).
+
+**STRENGTHEN actual institutional work; OPEN outcome:** police question specific offenses and prior assault, Bang undertakes apologies and resigns, and Bofoi organizes detection/analysis/examination/cleanup. Sitch anticipates opposition and invokes prophecy pressure while withholding the proposed successor's identity; Sekingar wants registration. No completed Garou membership, inherited numerical rank or universal forgiveness is shown (`174–175 / 0190–0213`).
+
+Bang's relational discipline coexists with institutional processes. V1's Association-housing move, neighbors and security developments are absent from V34 and quarantined as unverified future claims. The closing actual setting is salvage (`0214`).

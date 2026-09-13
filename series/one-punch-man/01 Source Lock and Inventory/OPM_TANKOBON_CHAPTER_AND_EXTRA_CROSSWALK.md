@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: crosswalk
-scope: Tankobon chapter and extra crosswalk through V26
+scope: Tankobon chapter and extra crosswalk through V34
 generation: V2
 status: active_provisional
-source_boundary: Japanese tankobon V01-V26 semantically locked; V27+ pending
+source_boundary: Japanese tankobon V01-V34 semantically locked; V35+ semantic lock pending
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-08-28
+updated: 2026-09-12
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -24,9 +26,11 @@ Map deterministic archive images to collected chapter labels, extras, bonus mang
 
 ## Current state
 
+The current summary governs routing. Detailed per-volume sections preserve their earlier boundary observations; old statements excluding later volumes apply at that section's original freeze and do not override the appended V34 lock.
 
-- V01-V34 archive identities are build-manifest/inventory-locked.
-- V37 is present and directly archive-checked but remains isolated after the V35-V36 gap.
+
+- V01-V37 archive objects are physically present and directly hash-inventoried as of 2026-09-12; the former V35-V36 acquisition gap is resolved.
+- The local build manifest covers V01-V36; V37 retains its separate earlier archive audit and unchanged hash. V35-V36 full integrity rechecks and semantic validation remain sequentially pending.
 - Chapter/extra mapping is intentionally **incremental**, populated when each volume is opened for semantic source validation.
 - Do not infer chapter numbers from official-web update IDs.
 
@@ -40,14 +44,14 @@ Map deterministic archive images to collected chapter labels, extras, bonus mang
 | V05 | archive_integrity_locked | mapped / semantic_source_locked | `0001-0008` front matter; `0009-0076` 25撃目 深海王・2; `0077-0106` 26撃目 不安定な希望; `0107-0136` 27撃目 ズタボロに輝く; `0137-0162` 28撃目 雨降ってるから; `0163-0182` 29撃目 B級; `0183-0208` 番外編 買えないモノ; `0209` おまけ; `0210-0214` colophon/extra pages. |
 | V06 | archive_integrity_locked | mapped / semantic_source_locked | `0001-0006` front matter; `0007-0028` 30撃目 S級; `0029-0057` 31撃目 大予言; `0058` おまけ; `0059-0128` 32撃目 宇宙からの…; `0129-0158` 33撃目 話を聞かない男たち; `0159-0190` 34撃目 馬鹿かお前; `0191-0209` 番外編 鮭; `0210-0214` colophon/extra pages. |
 | V07 | archive_integrity_locked; semantic_source_locked | canonical | `35撃目 戦い` 0009–0044; `36撃目 ボロスの本領` 0045–0116; `37撃目 墜落` 0117–0152; omake 0153–0154; `大工事` 0155–0172; `一番弟子の回想` 0173–0176; `カツ丼` 0177–0203; transition/omake/colophon 0204–0212. |
-| V08 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V09 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
+| V08 | archive_integrity_locked; semantic_source_locked | mapped / canonical | Existing V08 detailed map below; summary status reconciled 2026-09-12. |
+| V09 | archive_integrity_locked; semantic_source_locked | mapped / canonical | Existing V09 detailed map below; summary status reconciled 2026-09-12. |
 | V10 | archive_integrity_locked; semantic_source_locked | mapped / canonical | See V10 canonical tankobon map below. |
 | V11 | archive_integrity_locked; semantic_source_locked | mapped / canonical | See V11 canonical tankobon map below. |
-| V12 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V13 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V14 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V15 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
+| V12 | archive_integrity_locked; semantic_source_locked | mapped / canonical | Existing V12 detailed map below; summary status reconciled 2026-09-12. |
+| V13 | archive_integrity_locked; semantic_source_locked | mapped / canonical | Existing V13 detailed map below; summary status reconciled 2026-09-12. |
+| V14 | archive_integrity_locked; semantic_source_locked | mapped / canonical | Existing V14 detailed map below; summary status reconciled 2026-09-12. |
+| V15 | archive_integrity_locked; semantic_source_locked | mapped / canonical | Existing V15 detailed map below; summary status reconciled 2026-09-12. |
 | V16 | archive_integrity_locked; semantic_source_locked | mapped / canonical | See V16 canonical tankobon map below. |
 | V17 | archive_integrity_locked; semantic_source_locked | mapped / canonical | See V17 canonical tankobon map below. |
 | V18 | archive_integrity_locked; semantic_source_locked | mapped / canonical | See V18 canonical tankobon map below. |
@@ -56,26 +60,26 @@ Map deterministic archive images to collected chapter labels, extras, bonus mang
 | V21 | archive_integrity_locked | mapped / semantic_source_locked | See V21 canonical tankobon map below. |
 | V22 | archive_integrity_locked | mapped / semantic_source_locked | See V22 canonical tankobon map below. |
 | V23 | archive_integrity_locked | mapped / semantic_source_locked | See V23 canonical tankobon map below. |
-| V24 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V25 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
+| V24 | archive_integrity_locked; semantic_source_locked | mapped / canonical | Existing V24 detailed map below; summary status reconciled 2026-09-12. |
+| V25 | archive_integrity_locked; semantic_source_locked | mapped / canonical | Existing V25 detailed map below; summary status reconciled 2026-09-12. |
 | V26 | archive_integrity_locked | semantic_source_locked | Canonical mapping below; V26 deep reading complete. |
-| V27 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V28 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V29 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V30 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V31 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V32 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V33 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V34 | archive_integrity_locked | pending | Populate before/deep-reading this volume. |
-| V35 | missing | not available | Acquisition gap. |
-| V36 | missing | not available | Acquisition gap. |
-| V37 | direct_archive_checked | pending | Isolated holding; 207 images; SHA-256 `3e01ca4d5a3f7791df96b8cdb153707cd6995b22a01bcddfe373dc92578ef8b9`; Japanese contents spot-checked; do not semantically admit before V35-V36 reconciliation. |
+| V27 | archive_integrity_locked; semantic_source_locked | mapped / canonical | Frozen V27 map below; administrative closeout reconciled 2026-09-12. |
+| V28 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 216 images directly reviewed; chapters 138–143, attached illustrations, 嗅覚 and edition matter locked below. |
+| V29 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 199 images directly reviewed; chapters 144–150, attached art and edition/cover matter locked below; no narrative omake. |
+| V30 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 207 images directly reviewed; chapters 151–156, attached art, six-image extra and end matter mapped below. |
+| V31 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 232 images reviewed; chapters 157–161, art, preview, edition and cover matter mapped below. |
+| V32 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 231 images reviewed; chapters 162–167, art, two-page bonus and endmatter mapped below. |
+| V33 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 223 images reviewed; chapters 168–171, art, five-page bonus and endmatter mapped below. |
+| V34 | archive_integrity_locked; semantic_source_locked | mapped / canonical | All 224 images reviewed; chapters 172–175, art, two-page bonus and endmatter mapped below. |
+| V35 | present; object_hash_verified; build_integrity_reported | pending | Newly supplied; fresh full integrity and semantic lock at its sequential turn. See source inventory. |
+| V36 | present; object_hash_verified; build_integrity_reported | pending | Newly supplied; fresh full integrity and semantic lock at its sequential turn. See source inventory. |
+| V37 | direct_archive_checked | pending | Contiguous holding; 207 images (inherited audit); unchanged SHA-256 `3e01ca4d5a3f7791df96b8cdb153707cd6995b22a01bcddfe373dc92578ef8b9`; prior Japanese spot-check retained as historical provenance; do not semantically admit before V28-V36 closeout. |
 
 
 ## Expansion rule
 
 
-Append/reconcile V35-V36 when acquired, then reconcile the already-present V37 object before extending the continuous mapping boundary. Preserve earlier mappings unless source replacement is explicitly audited.
+Physical V35-V36 availability and the unchanged V37 hash are reconciled. Extend the semantic mapping boundary only through sequential source validation and full intervening closeouts. Preserve earlier mappings unless source replacement is explicitly audited.
 
 ## V07 semantic lock
 
@@ -428,3 +432,160 @@ Source: `One Punch Man - Volume 26 [Japanese].cbz` / Drive ID `1x1Yj25v4Uiq0EJGy
 | end matter / edition extras | `0194-0200` |
 
 V26 is semantically locked. The V2 reading preserves `融合体` as the canonical collected chapter title and treats the Psykos/Orochi fusion as initiated at this boundary without importing V27 cosmic/planetary consequences. V27+ remains outside this mapping authority until each sequential pass.
+
+
+## V27 semantic lock
+
+Administrative propagation from the unchanged frozen V27 reading and its Japanese audit PASS. Source SHA-256: `95f08e514ca6207abeeeae6386ff948f45d523011bfe6d408ed58ca015287b55`; 200 images, 201 entries including metadata.
+
+| Surface | Deterministic image range | Prospective function |
+|---|---:|---|
+| front matter / contents | `0001-0008` | edition and contents control |
+| `132撃目 侵蝕` | `0009-0032` | Psykos/Orochi control struggle; distributed-body intrusion; Tatsumaki barrier inversion; King rescue update |
+| `133撃目 ひっくり返す!` | `0033-0062` | Darkshine confidence architecture; fear return; Garou's anti-bullying contradiction |
+| `134撃目 タツマキ全開` | `0063-0094` | mass rescue extraction; battlefield release; City Z restructuring; Tatsumaki/Psykos surface confrontation |
+| `135撃目 負けない!` | `0095-0118` | wounded heroes re-entering duty; Mumen/Tanktop mutual validation; Suiryu hero aspiration; Saitama/Manako naming |
+| `136撃目 大いなる何か` | `0119-0146` | planetary-scale attack; Psykos's God-like encounter; planetary-assimilation ideology; Tatsumaki exploitation critique |
+| `137撃目 究極の叡智` | `0147-0191` | Tatsumaki tactical counter-infiltration; tsunami mitigation; Genos ten-second support; final anti-grandiose underground beat |
+| end matter / staff / edition extras | `0192-0200` | paratext / edition material |
+
+There is no separate tankobon bonus manga after `137撃目`; `0192-0200` are staff/edition/end-matter pages.
+
+V27 is semantically locked through its existing canonical reading; no source reread occurred in this administrative closeout. V28 is next. Its printed TOC has been inspected, but archive-image chapter/extra boundaries remain pending rather than being inferred from page-number arithmetic.
+
+
+## V28 semantic lock
+
+The contents page is `0008`. Printed starts below are transcribed from that page. All archive boundaries are now directly verified; titles, attached illustrations, the extra and digital packaging are distinguished.
+
+| Surface | Printed start | Directly verified archive range | Status |
+|---|---:|---|---|
+| Front matter / author notes / title / cast / contents | — | `0001–0008` | reviewed |
+| `138撃目 ねじれ` | 7 | `0009–0035` title/narrative; `0036` attached laundry vignette | reviewed; next start verified |
+| `139撃目 巨大バリア` | 35 | `0037–0073` title/narrative; `0074` attached Atomic Samurai/Iaian illustration | reviewed; next start verified |
+| `140撃目 醜態と基本` | 73 | `0075–0087` title/narrative; `0088` attached Amai Mask portrait | reviewed; next start verified |
+| `141撃目 不屈` | 87 | `0089–0123` title/narrative; `0124` attached Child Emperor illustration | reviewed; next start verified |
+| `142撃目 共鳴` | 123 | `0125–0159` title/narrative; `0160` attached fused Psykos illustration | reviewed; next start verified |
+| `143撃目 深淵へ` | 159 | `0161–0205` title/narrative; final spread `0204–0205` | reviewed; main narrative ends here |
+| `番外編 嗅覚` | 204 | `0206–0209` | reviewed; four-page Watchdog Man extra; volume end mark at `0209` |
+| Credits / digital colophon / imprint | — | `0210–0212` | reviewed; non-narrative |
+| Digital extra cover reproductions | — | `0213–0215` | reviewed; back/spine/flap, body back and body front |
+| Terminal digital cover | — | `0216` | reviewed; 884 × 1200 image, not a new narrative page |
+
+Printed pages 10 and 11 are directly visible at images `0012` and `0013`, and 170 and 171 at `0172` and `0173`; the narrative uses printed page = archive image − 2. Archive ordinals remain the primary exact locator. The title, author credits and digital-edition fiction notice appear in front matter. Author comments and chapter illustrations are paratext, not diegetic episodes: the recreational vehicle group at `0009` does not establish an actual outing. The colophon at `0211` identifies Volume 28, ONE, Yusuke Murata, Shueisha and 2023 for both first and digital editions; it does not print an exact day. The end covers do not constitute a separate collected chapter.
+
+Source: `One Punch Man - Volume 28 [Japanese].cbz`, 126,817,320 bytes, 216 images / 217 entries, SHA-256 `62d76b41823c35eb49e18229a4e28a89194088e496dc33db5140f00588605a28`. This exact semantic map is copied from the prospective reading. For disjoint coverage, the six chapter-plus-attached-image spans are 0009–0036, 0037–0074, 0075–0088, 0089–0124, 0125–0160 and 0161–0205. Together with front matter 0001–0008, extra 0206–0209 and packaging 0210–0216, they cover every image once. V28 is semantically source-locked; V29 remains next after closeout readback.
+
+
+## V29 semantic lock
+
+Cover 0001, title 0005, contents 0008, the closing mark at 0193 and the colophon at 0195 directly identify Japanese Volume 29, `捲土重来`. The complete ordered inspection establishes the following map.
+
+| Surface / collected label | Printed start on contents 0008 | Direct archive boundaries |
+|---|---:|---|
+| Cover, author notes, fiction notice, title, cast, recap, contents | — | 0001–0008 |
+| 144撃目 `ABYSS` | 7 | 0009–0035 title/narrative; 0036 attached Tatsumaki illustration |
+| 145撃目 `石とダイヤ` | 35 | 0037–0055 title/narrative; 0056 attached Metal Bat portrait |
+| 146撃目 `捲土重来` | 55 | 0057–0088 title/narrative; no separate attached art |
+| 147撃目 `とるべき態度` | 87 | 0089–0101 title/narrative; 0102 attached Fubuki illustration |
+| 148撃目 `木星` / `Jupiter, the Bringer of Jollity` | 101 | 0103–0139 title/narrative; 0140 attached Fuhrer Ugly illustration |
+| 149撃目 `シルバーファング` | 139 | 0141–0165 title/narrative; 0166 attached Bang illustration |
+| 150撃目 `THE BLACK SHINE` | 165 | 0167–0193 title/narrative; volume narrative end mark at 0193 |
+| Editorial/design credits, digital colophon, digital end mark | — | 0194–0196 |
+| `EXTRA PAGES`: spine/back/flap, inner back cover, inner front cover | — | 0197–0199; cover reproductions, no additional narrative omake |
+
+Printed page 7 at 0009, 162–163 at 0164–0165 and 174–177 at 0176–0179 corroborate printed page = archive image − 2 in the narrative. Archive ordinals remain the exact reference. The colophon identifies ONE, 村田雄介, 集英社 and 2023 for both first and digital editions, without a month/day. The digital re-editing and fiction notices are edition evidence; the supplied `DL-Raw.Se` mark is preserved as part of the local source, not attributed to a character or publisher. Mechanical source integrity and semantic identification are distinct checks.
+
+Source: `One Punch Man - Volume 29 [Japanese].cbz`, 132,639,923 bytes, 199 images / 200 entries, SHA-256 `7b31cb0fda3641ad926735233d18e93eb28d5f1f06e848866dfe9b07e980c02d`. Exact map copied from the prospective reading. Disjoint coverage: front 0001–0008; chapter-plus-attached-art spans 0009–0036, 0037–0056, 0057–0088, 0089–0102, 0103–0140, 0141–0166, 0167–0193; edition 0194–0196; cover reproductions 0197–0199. Every image is covered once. The final span is packaging, not a narrative extra. V30 follows only after V29 closeout PASS.
+
+
+## V30 semantic lock
+
+Cover 0001 and title 0005 identify Volume 30 `最大の壁`. Images 0001–0008 are front matter: cover; Murata note/digital-fiction notice; ONE note; Garou/fiction illustration; Saitama/King game title image; cast; cast/recap; cast/contents.
+
+| Contents label on 0008 | Printed start | Directly verified archive span |
+|---|---:|---|
+| 151撃目 `助太刀` | 7 | 0009–0037 title/narrative; 0038 attached Bang/Atomic meal art |
+| 152撃目 `劇物` | 37 | 0039–0071 title/narrative; 0072 attached Tatsumaki art |
+| 153撃目 `一線` | 71 | 0073–0101 title/narrative; 0102 attached Golden Sperm art |
+| 154撃目 `伏兵` | 101 | 0103–0130 title/narrative; no separate attached art |
+| 155撃目 `師と弟子` | 129 | 0131–0167 title/narrative; 0168 attached Genos portrait |
+| 156撃目 `最大の壁` | 167 | 0169–0195 title/narrative; no separate attached art |
+| 番外編 `王の風格` (`王` with `キング` reading) | 194 | 0196–0201; title integrated into opening narrative |
+
+End matter: 0202 design credits; 0203 digital colophon; 0204 publisher mark; 0205 physical spine/back/flap reproduction; 0206 inner back-cover King art; 0207 inner front-cover Saitama art. The colophon gives 2024 for first and digital publication, without month/day. Printed starts are contents references; archive ordinals above are the stable local citation system. The digital extra reproductions are not additional numbered chapters or later narrative. All spans were established from images before this map was finalized.
+
+Source: `One Punch Man - Volume 30 [Japanese].cbz`, 130,364,472 bytes, 207 images / 208 entries, SHA-256 `59135310fd0cd775a14a51f8885e8206f9348536b45cd6eb80cc3b8a3636cfd8`. Disjoint spans: front 0001–0008; chapter-plus-art 0009–0038, 0039–0072, 0073–0102, 0103–0130, 0131–0168, 0169–0195; extra 0196–0201; edition/cover matter 0202–0207. Every image is covered once. Exact map copied from the prospective reading; extra placement does not date its story after the battle. V31 follows after final readback PASS.
+
+
+## V31 semantic lock
+
+Cover 0001, title 0005, contents 0008, narrative ending 0223 and digital colophon 0227 identify Japanese Volume 31, `煉獄無双爆熱波動砲`. Complete ordered inspection establishes these boundaries; archive image ordinal is the exact citation reference.
+
+| Surface / collected label | Printed start on 0008 | Observed archive boundaries |
+|---|---:|---|
+| Cover, author notes, fiction notice, title, cast, recap, contents | — | 0001–0008 |
+| 157撃目 `王手` | 7 | 0009–0049 title/narrative; 0050 attached Saitama illustration |
+| 158撃目 `没収` | 49 | 0051–0087 title/narrative; 0088 attached Zombieman illustration |
+| 159撃目 `煉獄無双爆熱波動砲` | 87 | 0089–0124 title/narrative |
+| 160撃目 `成果` | 123 | 0125–0173 title/narrative; 0174 attached Saitama/Genos silhouette |
+| 161撃目 `神罰` | 173 | 0175–0223 title/narrative; explicit V31 ending at 0223 |
+| Next-volume preview / official-site advertisement | — | 0224 / 0225 |
+| Design credits / digital colophon / publisher logo | — | 0226 / 0227 / 0228 |
+| Extra pages: spine/back/flap, underlying back/front covers, assembled cover | — | 0229–0232; reproduced paratext, no separate narrative omake |
+
+The preview announces V32 and November 2024; the advertisement's information note says July 2024. Neither supplies an actual event in V31. The colophon prints 2024 for both first and digital editions, without month/day, names ONE, 村田雄介 and 集英社, and explains the special reproduction of color originals. Author notes, cast images and posed cover art do not establish current injuries, recovery, travel or acquired powers. The full cover at 0231–0232 explicitly places the spectacular King image within the heroes' imagined scene.
+
+Source: `One Punch Man - Volume 31 [Japanese].cbz`, 112,840,194 bytes, 232 images / 233 entries, SHA-256 `9bebff1e4e54613d7d471fcaec932c46804f5438807278f8294ed9ea0609eba1`. Disjoint spans: front 0001–0008; chapter-plus-art 0009–0050, 0051–0088, 0089–0124, 0125–0174, 0175–0223; preview/advertisement 0224–0225; edition matter 0226–0228; cover reproductions 0229–0232. Every image is covered once. The map distinguishes attached art internally and ends narrative at 0223. V32 follows only after V31 readback PASS.
+
+
+## V32 semantic lock
+
+Cover 0001 and title 0005 identify Volume 32, `祝福`. Front 0001–0008 contains cover, Murata note/digital-fiction notice, ONE note, chibi fiction notice, title art, cast montage and recap/contents. The six numbered chapters and one bonus listed at 0008 have these printed starts:
+
+| Contents label at 0008 | Printed start | Archive boundary status |
+|---|---:|---|
+| 162撃目 `BAD BOYS` | 7 | 0009 title; narrative 0010–0053; attached paired art 0054 |
+| 163撃目 `2 BAD` | 53 | 0055 title (typography `2BAD`); narrative 0056–0099; attached chibi car art 0100 |
+| 164撃目 `祝福` | 99 | 0101 title; narrative 0102–0126; attached hand art 0127 |
+| 165撃目 `分水嶺` | 126 | 0128 title; narrative 0129–0155; no separate attached art |
+| 166撃目 `不安要素` | 154 | 0156 title; narrative 0157–0179; attached Saitama art 0180 |
+| 167撃目 `最高のヒーロー` | 179 | 0181 title; narrative 0182–0223; no separate attached art |
+| 番外編 `反射` | 222 | 0224–0225; title embedded on 0224, volume closing marker on 0225 |
+
+Endmatter is 0226 editorial/design credits, 0227 digital colophon, 0228 publisher logo, and 0229–0231 extra cover reproductions. The colophon gives 2024 for first and digital publication without month/day. No next-volume preview is present. Archive images 0001–0231 are fully accounted for; the observed chapter starts agree with contents printed starts plus the local two-image offset. That agreement does not replace direct inspection. Story, attached art, bonus and publication apparatus are kept distinct.
+
+Source: `One Punch Man - Volume 32 [Japanese].cbz`, 152,226,910 bytes, 231 images / 232 entries, SHA-256 `9d19d62917c14878660a35bdf036fdded35234c13990dfa5a03b8a8b722b21d3`. Disjoint spans: front 0001–0008; chapter-plus-art 0009–0054,0055–0100,0101–0127,0128–0155,0156–0180,0181–0223; bonus 0224–0225; edition 0226–0228; cover reproductions 0229–0231. Every image is covered once. Main narrative ends at 0223; bonus ends at 0225. V33 follows only after V32 readback PASS.
+
+
+## V33 semantic lock
+
+Cover 0001 and title 0005 identify Volume 33, `二乗`. Front 0001–0008 contains cover, ONE note/fiction and color-reproduction notice, Murata note, chibi fiction notice, title illustration, cast/recap montage and contents. Contents 0008 lists four numbered chapters and one bonus:
+
+| Contents label at 0008 | Printed start | Archive boundary status |
+|---|---:|---|
+| 168撃目 `神魔よりも` (ruby `やま` over `神魔`) | 7 | 0009 title; 0010–0049 narrative; 0050 attached King joke |
+| 169撃目 `神に仇なす忌むべき拳` | 49 | 0051 title; 0052–0105 narrative; 0106 dark transitional art |
+| 170撃目 `絶対悪` | 105 | 0107 title; 0108–0159 narrative |
+| 171撃目 `二乗` | 159 | 0160 single color title; 0161–0212 narrative, main-volume ending at 0212 |
+| 番外編 `駆動騎士の噂` | 211 | 0213–0217, explicit bonus ending at 0217 |
+
+0218 contains original-publication/design credits; 0219 the digital logo; 0220–0222 extra cover/spine/flap/board reproductions; 0223 the digital colophon (2025, year only). The whole archive order is accounted for. The chapter-171 color title is **0160**, one image before the position that an untested printed-start-plus-two rule would imply. Main-story image 0210 visibly carries printed 208, and the bonus starts at 0213. Keep the observed single color title and actual endpoints; do not force all positions into one offset formula. The black page at 0194 and typography pages at 0204–0205 are intentional source content.
+
+Source: `One Punch Man - Volume 33 [Japanese].cbz`, 107,999,277 bytes, 223 images / 224 entries, SHA-256 `121d8b45e1c0be7fbd4fe4c0121161656ecaaa693e3b63786cc5d6596e8b76fd`. Disjoint spans: front 0001–0008; chapter-plus-art 0009–0050,0051–0106,0107–0159,0160–0212; bonus 0213–0217; endmatter 0218–0223. Every image is covered once. Main narrative ends at 0212 before the collision result; bonus ends at 0217. V34 follows only after V33 readback PASS.
+
+
+## V34 semantic lock
+
+Cover renditions 0001–0002 and title 0006 identify Volume 34, `夜明け`. Images 0003–0004 are creator notes; 0005 is the fiction notice; 0007–0008 are the cast/recap montage; 0009 is contents. Its Fubuki beach/Saitama surfboard image is posed paratext, not a new outing or recovery. Contents lists:
+
+| Contents label at 0009 | Printed start | Direct archive confirmation |
+|---|---:|---|
+| 172撃目 `I.O.` (title ruby イオ) | 7 | 0010 title; 0011–0066 narrative; 0067 attached illustration |
+| 173撃目 `神々の目覚め` | 65 | 0068 color title; 0069–0146 narrative; 0147 attached speed-radar gag |
+| 174撃目 `夜明け` | 145 | 0148 color title; 0149–0193 narrative |
+| 175撃目 `得たもの` | 191 | 0194 color title; 0195–0214 narrative; 0215 attached actress note |
+
+The unlisted bonus `おまけ「裁縫」` occupies 0216–0217, with attached scarred-palms art at 0218. Image 0219 records first-publication and design credits; 0220 is the JCDigital colophon; 0221 is the JCDigital logo. Extra cover/spine/back/flap renditions occupy 0222–0224. All 224 images are accounted for. Printed starts are not alone archive offsets. The 2025 digital colophon supplies a year, not a month/day; 0219 records first-publication updates on 2022-07-07, 2022-07-21, 2022-08-04 and 2022-08-18, as directly checked in the audit. These publication facts do not by themselves establish episode IDs or redraw correspondences.
+
+Source: `One Punch Man - Volume 34 [Japanese].cbz`, 97,684,009 bytes, 224 images / 225 entries, SHA-256 `2d5952153d956079fb04fe7137eb04d4b7b8ffe9dcfce6db78ba3ff21fce6bc7`. Disjoint spans: front 0001–0009; chapter-plus-art 0010–0067,0068–0147,0148–0193,0194–0215; bonus 0216–0217; attached/endmatter 0218–0224. Every image is covered once. Main narrative ends at 0214, attached actress note at 0215; bonus ends at 0217. V35 follows only after V34 readback PASS.
