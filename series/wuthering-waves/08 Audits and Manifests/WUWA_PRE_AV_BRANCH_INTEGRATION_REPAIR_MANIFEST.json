@@ -1,0 +1,259 @@
+{
+  "schema": "wuwa/pre-av-branch-integration-repair/v1",
+  "source_branch": "series/wuthering-waves",
+  "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+  "reconciled_main": "108dcfa74a71feb781baa3bc476dfc06906b5e0a",
+  "reason": [
+    "Owner requested moving the older Cartethyia profile to character-local legacy while retaining the newer draft at its original path.",
+    "Owner explicitly adopted all existing WUWA character packets as current provisional text/audio authority; actual modality limits retained.",
+    "Convert prohibited direct Drive URLs to typed object identifiers; preserve labels and IDs.",
+    "Record verified existing project-initiation method, architecture, and initialized ledgers."
+  ],
+  "packet_files": [
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md",
+      "source_bytes": 17940,
+      "source_sha256": "c99f4eeb48705d1bad578f8b0cb0301a70ac8dc89e1dc3f1791e774004a7670e",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_ANALYSIS_PACKET_README.md",
+      "destination_bytes": 18398,
+      "destination_sha256": "b45324d370ff0253118e1317dccf9c1e9df31ca86dd87febee601704d75e8f78",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": [
+        {
+          "kind": "file",
+          "id": "13-O5qIieUGv6KkWoY9uBGVkKDoJsQzlo"
+        },
+        {
+          "kind": "folder",
+          "id": "1RD8BcQVtNPY0GHcG5IkCSpaWyq0svWd_"
+        },
+        {
+          "kind": "file",
+          "id": "1vZRelxjX95N-8O7byuYmQBc8uELyb0ht"
+        },
+        {
+          "kind": "file",
+          "id": "1NUHFsp9orso8JS5gOzWi_PxV83BB4pPG"
+        },
+        {
+          "kind": "file",
+          "id": "1Enrmdoh1TIqMDbCXk6Aie-aA98JSC8Ld"
+        },
+        {
+          "kind": "file",
+          "id": "1p8a-CJ93xrarnbaowVYXAlOF8tdbTtTJ"
+        },
+        {
+          "kind": "file",
+          "id": "16KWo2GzLTST9kg4CwTS7GxPF5UTuRA0w"
+        },
+        {
+          "kind": "file",
+          "id": "1_Po9gJ2yEv16Cwrt8DZmBh_n4RPMHj9M"
+        },
+        {
+          "kind": "file",
+          "id": "1-bmiEQhXlOyTGuOTtUUG69mq3X5wSK4T"
+        },
+        {
+          "kind": "file",
+          "id": "1gvFrj28IGYbeeq8MQzzya6ZUI-XfvL8S"
+        },
+        {
+          "kind": "file",
+          "id": "1_hNfT6eQq5JrgqIQXFwix_iI9XLQbAcB"
+        }
+      ]
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "source_bytes": 19187,
+      "source_sha256": "cd66a0046158bbbe8364d36339d65e5ccb5f923e406f3f20ae2379651961d111",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "destination_bytes": 19915,
+      "destination_sha256": "3085579703bcf1dddb701e0be5ae1e3b1ed353c2729ebf4feadddfa11dc1f706",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "source_bytes": 29447,
+      "source_sha256": "6b243629e60aa647ff5bee72a47fbe6a7a3acd203915e0402a536cbfb154c91a",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "destination_bytes": 29955,
+      "destination_sha256": "51770684eeb77e7d0d63b36df168eb1d3bc7d6f78bfbfc4d6b66af82b3d26e6f",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": [
+        {
+          "kind": "file",
+          "id": "1NOT43Ctn-ZBlEUD29aaRGHxnpK1muS_z"
+        },
+        {
+          "kind": "file",
+          "id": "1RvLOtnJB6QJFOWamFRo3ZQa9c-HqMm-q"
+        },
+        {
+          "kind": "file",
+          "id": "13Zav4-kVx8iXstfa1G7pgCv4ibfToBlt"
+        },
+        {
+          "kind": "file",
+          "id": "10hIAEk2RfgEEdqRLHmNV_7ZRpBFRoYjs"
+        },
+        {
+          "kind": "file",
+          "id": "1PGvOYe0cCKiSSyrozIwHMuqQVTUGUnjh"
+        },
+        {
+          "kind": "file",
+          "id": "1LtXJ8x5Jo2CAXbq63DJCGOawWNsfbM96"
+        },
+        {
+          "kind": "file",
+          "id": "12dNUg1vvotk7uSbUpsHnaSJRnDwhiG1p"
+        },
+        {
+          "kind": "file",
+          "id": "1bwxYXRVS6-mclhkxvgWLdJ620rxq7In4"
+        },
+        {
+          "kind": "file",
+          "id": "172TmdgDiFkZWKNdPEh6quj-fzSrzRIv-"
+        },
+        {
+          "kind": "file",
+          "id": "1rnAQZbgcP1YaeNFGYS2UnYovE6CmUs5i"
+        }
+      ]
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "source_bytes": 50310,
+      "source_sha256": "5820b459359fa8e355daaba34d261355e425ae584f500b422990b2f7c95752c4",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "destination_bytes": 51038,
+      "destination_sha256": "2c1ace49ea1fd6c7f7c13ffc37d36653f666e342baee7b549aeae16b94df22dc",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "source_bytes": 50238,
+      "source_sha256": "39fdd18dd25cf7090a16f8ac3d5186bcc9feee821deb0133f1e85e490f25a139",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "destination_bytes": 50966,
+      "destination_sha256": "f4e3fc28fb0d2f270976259adca87d148fbb8319340f64cf32c121a33b705903",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_IDENTITY_FORMS_AND_EMBODIMENT_PROFILE.md",
+      "source_bytes": 17493,
+      "source_sha256": "19dd7557af545103bc9f527a2e016342fcd3ff9cb13029400f2598b02110f43f",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_IDENTITY_FORMS_AND_EMBODIMENT_PROFILE.md",
+      "destination_bytes": 18221,
+      "destination_sha256": "3d19b3ae96f926e0750bbad12ac06a375ef130dc8ab3f39bbf2f4793a0d2cc6b",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "source_bytes": 19227,
+      "source_sha256": "d26e6b037d79854a61a22424ed625c5a6f2d5de95e5760e6a76940218e105beb",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "destination_bytes": 19955,
+      "destination_sha256": "dc9cbb5903e4146280c7c000c02b49ed80f58e66aba9a34aa7f59bd4884a1435",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "source_bytes": 17914,
+      "source_sha256": "c0c27ed35a62f89447eb8dfa9b47771dfc30c46a9035923946ec1bb2520be741",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "destination_bytes": 18642,
+      "destination_sha256": "00ae82212c9858af18b876531caced76ee07136099b515e6089747fc7d0e436f",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_PRIOR_GENERATION_CLAIM_REVISION_LEDGER.md",
+      "source_bytes": 13241,
+      "source_sha256": "d51f1423cecbc6137ef6a4f6307d6a2509f92fd9d253134ebc5a7207e847b178",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_PRIOR_GENERATION_CLAIM_REVISION_LEDGER.md",
+      "destination_bytes": 13969,
+      "destination_sha256": "634bdf763a5d3a773eb91f641ba892b04732707d5dc5b4323dd7c5eb9b233b85",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "source_bytes": 19206,
+      "source_sha256": "508fcc890c52384a9428c8a841536b164678d14391ef59132c6c2817fcb41f9d",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "destination_bytes": 19934,
+      "destination_sha256": "a1be2dc588b36dd83a96de7ed90970b970eac5f5ccd5656f4991e0d70fc5f15c",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "source_bytes": 18686,
+      "source_sha256": "4348967a6ae2f3f4ee394b50bcdc8f9f9da18be416bd5653072f942f56d09c34",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "destination_bytes": 19414,
+      "destination_sha256": "cad5041df8e8afa7bc3115603ced93529fbf24114657785f7bf4af5638468431",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    },
+    {
+      "source_commit": "55bd0f305d6e0c8d14173cb551cf07df7eb7ebf6",
+      "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "source_bytes": 18539,
+      "source_sha256": "cd5fc283f547db7ffcff8d0fd1b95c87a06699d0db09c2c7fd40350821c787db",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "destination_bytes": 19267,
+      "destination_sha256": "55007c415ab5571ba6b39fa33ddfd1fe7bc298d7b877ff9878ba4512756af9ee",
+      "status_normalization": "Owner-adopted active_provisional with complete veto=false quartet; legacy veto field also false; adoption note added",
+      "ordinary_profile_reference_replacements": 0,
+      "drive_reference_conversions": []
+    }
+  ],
+  "archived_older_profile": {
+    "source_commit": "7e7912f24dc0a1e1632af0f7b3ad9ff19d093fcb",
+    "source_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+    "source_bytes": 9307,
+    "source_sha256": "0b9b3255fbffbfb1dda116b1b2e3210b7aca2d00a8e5e367ada3793e10dc78b5",
+    "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/90 Legacy and Superseded/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+    "destination_bytes": 9305,
+    "destination_sha256": "f00e60f866a33af4f36ea79f1d0e9fe873b52419dfee7688210a039148199e1e",
+    "transformations": [
+      "OWNER_REQUESTED_CHARACTER_LOCAL_LEGACY_PLACEMENT",
+      "STATUS_HISTORICAL_LEGACY_AND_AUTHORITY_VETO_TRUE"
+    ],
+    "body_bytes_preserved": true
+  },
+  "character_curation": "DESIGNATED_AGENT_REVIEW_OF_NEW_CURRENT_PROFILE_BEFORE_INTEGRATION"
+}

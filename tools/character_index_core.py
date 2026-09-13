@@ -9,10 +9,12 @@ and never treats prose as authority.
 from __future__ import annotations
 
 import hashlib
+import io
 import json
 import os
 import re
 import subprocess
+import time
 import unicodedata
 from collections import Counter, defaultdict, deque
 from dataclasses import dataclass
@@ -337,7 +339,12 @@ def evidence_ref_sort_key(value: str) -> tuple[Any, ...]:
     return (sort_key(subject), sort_key(evidence_id), value.encode("ascii"))
 
 
+GIT_METRICS: Counter[str] = Counter()
+
+
 def run_git(root: Path, *args: str, input_bytes: bytes | None = None) -> bytes:
+    started = time.perf_counter()
+    GIT_METRICS["processes"] += 1
     try:
         return subprocess.check_output(
             ["git", "-C", str(root), *args],
@@ -347,6 +354,51 @@ def run_git(root: Path, *args: str, input_bytes: bytes | None = None) -> bytes:
     except subprocess.CalledProcessError as exc:
         detail = exc.stderr.decode("utf-8", "replace").strip()
         raise DomainError(f"git {' '.join(args)} failed: {detail}") from exc
+    finally:
+        GIT_METRICS["seconds"] += time.perf_counter() - started
+
+
+def read_blob_objects(root: Path, object_ids: Iterable[str]) -> dict[str, bytes]:
+    """Read raw blobs in one Git process, preserving exact byte boundaries.
+
+    Communicate through subprocess.check_output so input, output and stderr are
+    drained without a pipe deadlock. Only object IDs enter the batch protocol;
+    paths, filters and symlink traversal are never interpreted by cat-file.
+    Deduplication is confined to this acquisition, including mutable indexes.
+    """
+    requested = list(object_ids)
+    if any(not isinstance(oid, str) or not FULL_COMMIT_RE.fullmatch(oid) for oid in requested):
+        raise DomainError("blob request requires full lower-case object IDs")
+    unique = list(dict.fromkeys(requested))
+    if not unique:
+        return {}
+    GIT_METRICS["blob_requests"] += len(requested)
+    GIT_METRICS["unique_blob_reads"] += len(unique)
+    GIT_METRICS["duplicate_blob_reads_avoided"] += len(requested) - len(unique)
+    raw = run_git(root, "cat-file", "--batch", input_bytes=("\n".join(unique) + "\n").encode("ascii"))
+    stream = io.BytesIO(raw)
+    blobs: dict[str, bytes] = {}
+    for oid in unique:
+        header = stream.readline()
+        match = re.fullmatch(rb"([0-9a-f]{40}|[0-9a-f]{64}) blob (0|[1-9][0-9]*)\n", header)
+        if match is None or match[1].decode("ascii") != oid:
+            raise DomainError("missing, nonblob or mismatched Git batch object")
+        size = int(match[2])
+        if size > len(raw):
+            raise DomainError("truncated Git batch blob response")
+        data = stream.read(size)
+        if len(data) != size or stream.read(1) != b"\n":
+            raise DomainError("truncated Git batch blob response")
+        digest = hashlib.new("sha1" if len(oid) == 40 else "sha256")
+        digest.update(b"blob " + str(size).encode("ascii") + b"\0")
+        digest.update(data)
+        if digest.hexdigest() != oid:
+            raise DomainError("Git batch blob bytes do not match the requested object ID")
+        blobs[oid] = data
+        GIT_METRICS["blob_bytes"] += size
+    if stream.read(1):
+        raise DomainError("unexpected trailing Git batch output")
+    return blobs
 
 
 @dataclass(frozen=True)
@@ -384,34 +436,42 @@ class GitSnapshot:
         if run_git(root, "cat-file", "-t", commit).decode().strip() != "commit":
             raise DomainError("basis object is not a commit")
         raw = run_git(root, "ls-tree", "-r", "-z", "--full-tree", commit)
-        entries: dict[str, SnapshotEntry] = {}
+        rows = []
         for item in raw.split(b"\0"):
             if not item:
                 continue
             metadata, raw_path = item.split(b"\t", 1)
-            mode, kind, _oid = metadata.decode("ascii").split(" ")
+            mode, kind, oid = metadata.decode("ascii").split(" ")
             path = raw_path.decode("utf-8", "strict")
-            if kind == "blob":
-                data = run_git(root, "show", f"{commit}:{path}")
-                entries[path] = SnapshotEntry(path, mode, data)
-            else:
-                entries[path] = SnapshotEntry(path, mode, b"")
+            rows.append((path, mode, kind, oid))
+        blobs = read_blob_objects(root, (oid for _, _, kind, oid in rows if kind == "blob"))
+        entries = {
+            path: SnapshotEntry(path, mode, blobs[oid] if kind == "blob" else b"")
+            for path, mode, kind, oid in rows
+        }
         return cls(root, commit, entries)
 
     @classmethod
     def from_index(cls, root: Path) -> "GitSnapshot":
         raw = run_git(root, "ls-files", "--stage", "-z")
-        entries: dict[str, SnapshotEntry] = {}
+        rows = []
         for item in raw.split(b"\0"):
             if not item:
                 continue
             metadata, raw_path = item.split(b"\t", 1)
-            mode, _oid, stage = metadata.decode("ascii").split(" ")
+            mode, oid, stage = metadata.decode("ascii").split(" ")
             path = raw_path.decode("utf-8", "strict")
             if stage != "0":
                 raise DomainError(f"unmerged index entry: {path}")
-            data = run_git(root, "show", f":{path}") if mode in {"100644", "100755", "120000"} else b""
-            entries[path] = SnapshotEntry(path, mode, data)
+            rows.append((path, mode, oid))
+        blob_modes = {"100644", "100755", "120000"}
+        blobs = read_blob_objects(root, (oid for _, mode, oid in rows if mode in blob_modes))
+        if run_git(root, "ls-files", "--stage", "-z") != raw:
+            raise DomainError("Git index changed during snapshot acquisition")
+        entries = {
+            path: SnapshotEntry(path, mode, blobs[oid] if mode in blob_modes else b"")
+            for path, mode, oid in rows
+        }
         return cls(root, "INDEX", entries)
 
     @classmethod

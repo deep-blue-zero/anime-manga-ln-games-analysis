@@ -30,9 +30,11 @@ This index routes major accepted or contested claims to their canonical analytic
 | Voice-performance centers | language-scoped hypotheses only | OPEN | speech/voice/performance profile | Drive full machine tables and future human cohort |
 | Direct staging claims | prepared but unreviewed in imported baseline | OPEN | open-questions ledger / future AV synthesis | Drive selected AV witnesses |
 
+The owner-adopted current Cartethyia pre-AV rebuild has an evidence/falsification matrix and prior-generation revision ledger in the character folder. Use them for current refinements to the earlier-generation claims above. Its newer ordinary-life draft retains the original root filename. The owner-retired older standalone profile is preserved under Cartethyia's `90 Legacy and Superseded/` folder; the newer root profile is current and the archived profile is noncurrent. The designated curation agent reviews the affected global reference.
+
 ## Chisa
 
-No literary/character claims were accepted for Chisa by the bootstrap; her evidence package remains a route for future analysis.
+No literary/character claims were accepted for Chisa by the bootstrap. The later imported rebuild supplies `CHISA-C01`–`CHISA-C50` and `CHISA-E01`–`CHISA-E60` in `04 Character Analysis/Chisa/WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md`, with interpretation in `WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md`. These are owner-adopted current source-packet claims under `active_provisional` status with veto=false, within the declared textual/audio scope; this repository operation does not independently repeat their source adjudication. The source reconciliation records the association-versus-unique-audio distinction and the report-level limit of historical comparison.
 
 ## Aemeath, Denia, and Lynae — pre-AV imports
 

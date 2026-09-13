@@ -3,7 +3,7 @@ series: WUWA
 artifact_type: character_folder_contract
 scope: CHARACTER_ANALYSIS
 source_boundary: "Applies to WUWA Git analytical character packages; evidence remains in the canonical Drive plane"
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -18,6 +18,21 @@ do_not_use_as_current_authority: false
 The contract standardizes **analytical responsibilities**, not an identical mandatory file count. A minor character may need one monograph. A major reconstruction project may warrant the complete package below.
 
 No empty monograph, model, or ledger may be created merely to instantiate a filename.
+
+## Packet authority and generation contract
+
+Substantial owner-accepted character syntheses and profiles are current `active_provisional` authority within their declared text/audio scope. An incomplete audiovisual pass limits AV-dependent claims; it does not make the whole packet noncurrent. Generate the complete quartet:
+
+```yaml
+status: active_provisional
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+```
+
+Retain real supersession links when present. Use `draft_noncurrent` with veto=true for an unaccepted working draft, and `historical_legacy` with veto=true for retired analysis. Local file placement, a pre-AV filename, and optional listening gaps do not decide authority. Current authority becomes effective through governed integration into `main`.
+
+Each packet router must distinguish current authority, actual text/audio review, pending AV questions, model-compilation state, and fidelity-test limits. A source-facing deep dive plus profiles can be the current interpretive center before a later integrated AV monograph exists. A current nomination plan governs planned work; it is not completed observation. Do not assign a fixed percentage of fidelity to missing AV without an actual measurement design.
 
 ## Canonical responsibilities
 

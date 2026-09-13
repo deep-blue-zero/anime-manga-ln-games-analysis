@@ -25,7 +25,7 @@ For new or changed routing, provide a complete desired row in the named analytic
 - `series/<stable-slug>/.repository/series-registry.json`;
 - `studies/<stable-slug>/.repository/study-registry.json`.
 
-Each input is one JSON object whose ID, `stable_slug`, and `repository_path` match the branch slug exactly. Only deterministic upsert or replacement is authorized; automatic deletion remains prohibited. A new root needs a tracked current-eligible entrypoint with the complete authority quartet documented in `../../characters/README.md`. A noncurrent draft cannot serve as that entrypoint.
+Each input is one JSON object whose ID, `stable_slug`, and `repository_path` match the branch slug exactly. A new substantive root, or an existing project entering a material analytical restart, also declares `project_initiation_gate: REQUIRED`; baseline legacy rows need not be rewritten merely for uniformity. Only deterministic upsert or replacement is authorized; automatic deletion remains prohibited. A new root needs a tracked current-eligible entrypoint with the complete authority quartet documented in `../../characters/README.md`. That entrypoint must expose the initialization state required by `MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`, using CLOSED as the bootstrap default and OPEN only after the gate is satisfied. A noncurrent draft cannot serve as that entrypoint.
 
 Character-upsert files are retired as synchronization inputs. Existing `.repository/character-registry-upserts.jsonl` files are preserved as historical proposals or optional leads for independent agent review. They are neither required nor applied, and cannot overwrite curated character metadata.
 

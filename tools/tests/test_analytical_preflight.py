@@ -57,13 +57,16 @@ def fixture(*, new_root: bool = True) -> GitSnapshot:
     if new_root:
         entries[ENTRYPOINT] = entry(ENTRYPOINT, (
             "---\nstatus: canonical\nsupersedes: []\nsuperseded_by: []\n"
-            "do_not_use_as_current_authority: false\n---\n# Completed new analysis\n"
+            "do_not_use_as_current_authority: false\n"
+            "project_initialization:\n  sequential_analysis_lock: CLOSED\n"
+            "---\n# Completed new analysis\n"
         ).encode())
         descriptor = {
             "series_id": "example", "stable_slug": "example", "canonical_title": "Example",
             "repository_path": "series/example/", "canonical_entrypoint": ENTRYPOINT,
             "canonical_entrypoint_status": "PRESENT_VERIFIED",
             "migration_scope": "GIT_NATIVE_POST_CUTOVER_EXAMPLE",
+            "project_initiation_gate": "REQUIRED",
         }
         entries[DESCRIPTOR] = entry(DESCRIPTOR, (json.dumps(descriptor) + "\n").encode())
     return GitSnapshot(TOOLS.parent, SOURCE_SHA, entries)
@@ -165,10 +168,33 @@ class AnalyticalPreflightTests(unittest.TestCase):
             root = Path(directory) / "repository"
             environment = dict(os.environ, PYTHONDONTWRITEBYTECODE="1")
             clone = subprocess.run(
-                ["git", "clone", "--shared", str(TOOLS.parent), str(root)],
+                ["git", "clone", "--config", "core.longpaths=true", "--shared", str(TOOLS.parent), str(root)],
                 env=environment, capture_output=True, text=True, check=False,
             )
             self.assertEqual(clone.returncode, 0, clone.stderr)
+            # A local full gate runs before commit: overlay its exact staged
+            # candidate so nested CLIs do not accidentally test the old HEAD.
+            candidate = GitSnapshot.from_index(TOOLS.parent)
+            cloned = GitSnapshot.from_index(root)
+            candidate_paths = sorted(
+                path for path in candidate.entries.keys() | cloned.entries.keys()
+                if candidate.get(path) != cloned.get(path)
+            )
+            for path in candidate_paths:
+                target = root / path
+                entry = candidate.get(path)
+                if entry is None:
+                    target.unlink()
+                else:
+                    self.assertEqual(entry.mode, "100644")
+                    target.parent.mkdir(parents=True, exist_ok=True)
+                    target.write_bytes(entry.data)
+            if candidate_paths:
+                subprocess.run(
+                    ["git", "-C", str(root), "add", "--", *candidate_paths],
+                    env=environment, capture_output=True, check=True,
+                )
+            self.assertEqual(GitSnapshot.from_index(root).entries, candidate.entries)
             baseline, changed = fixture_baseline(GitSnapshot.from_index(root))
             for path in changed:
                 (root / path).write_bytes(baseline.entries[path].data)

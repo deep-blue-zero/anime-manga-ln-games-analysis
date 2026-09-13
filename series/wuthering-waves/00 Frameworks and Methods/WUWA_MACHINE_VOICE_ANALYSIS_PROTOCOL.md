@@ -3,7 +3,7 @@ series: WUWA
 artifact_type: machine_voice_analysis_protocol
 scope: CHARACTER_VOICE_AND_PERFORMANCE
 source_boundary: "Official installed-client voice evidence routed through canonical semantic occurrences and content-addressed lossless derivatives"
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -165,6 +165,12 @@ Drive retains line-level machine tables, audio objects, manifests, and large wor
 - selected evidence IDs and locators;
 - human-reviewed interpretations;
 - limitations and revision history.
+
+## Current authority and incomplete audio work
+
+A current textual/audio synthesis may use the reproducible audio evidence actually reviewed while further machine profiling, direct listening, or AV remains pending. `active_provisional` and veto=false express accepted authority for that scope; they do not certify `machine_voice_profiled`. Preserve missing segmentation, pitch/rate/normalization, language coverage, and runtime-dispatch gaps at the affected finding. A metadata-only signal aggregation must remain described as such.
+
+Unreviewed AV or optional human listening does not veto otherwise supported textual findings or machine observations. Performance judgments still require the corresponding direct evidence. Fuller audio work and AV may revise the model through explicit claim changes.
 
 ## Completion gate
 

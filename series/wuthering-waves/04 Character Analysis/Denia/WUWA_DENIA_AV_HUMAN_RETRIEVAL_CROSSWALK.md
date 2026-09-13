@@ -5,17 +5,23 @@ artifact_type: audiovisual_human_retrieval_crosswalk
 scope: DENIA_SOURCE_3_6_0_PRE_AV
 analysis_generation: DENIA_PRE_AV_V0_1
 status: active_provisional
-release_state: local_working_draft
-analysis_authority_state: local_working_draft_not_promoted
+release_state: current_provisional_pre_av
+analysis_authority_state: owner_adopted_current_provisional
 source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
 source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
 text_authority: zh-Hans
 localization_witnesses: [ja, ko, en]
 retrieval_status: search_crosswalk_only_no_witnesses_acquired
 intended_canonical_home: series/wuthering-waves/04 Character Analysis/Denia/
-do_not_use_as_current_git_authority: true
+do_not_use_as_current_git_authority: false
 created: 2026-09-03
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
+
+> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
 
 # Denia audiovisual human-retrieval crosswalk
 

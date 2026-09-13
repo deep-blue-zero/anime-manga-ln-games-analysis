@@ -8,43 +8,43 @@ architecture_slot: Y2_00
 drive_id: 1IgFKyXNHZrzv6OHLMJT8n-yPGsr3OB3c
 scope: Y2
 generation: V2
-status: active_provisional
-authority_state: active_provisional
+status: canonical
+authority_state: canonical
 source_boundary: "Japanese Y2V01-Y2V12.5 + Volume 0 at the mandated retrospective position after Y2V08 + Second List after Y2V12.5"
 spoiler_boundary: "through Year 2 Second List only; Year 3 narrative evidence excluded"
 analysis_pass: 2
 method: COTE_Y2_ANALYTICAL_METHOD_V2.md
 architecture: COTE_Multi_Document_Synthesis_Architecture_v1.md
-current_operational_entrypoint: COTE_Y2_PROJECT_STATUS.md
+current_operational_entrypoint: COTE_Y2_00_README_AND_CORPUS_MAP.md
 current_reader_routing_entrypoint: COTE_Y2_00_README_AND_CORPUS_MAP.md
 release_entrypoint_after_freeze: COTE_Y2_00_README_AND_CORPUS_MAP.md
 source_lock: COTE_Y2_SOURCE_INVENTORY_AND_LOCK.md
 handoff_tracker: COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md
 reconstruction_protocol: COTE_BEHAVIORAL_RECONSTRUCTION_PROTOCOL_THROUGH_Y2.md
-reconstruction_protocol_status: active_provisional
+reconstruction_protocol_status: canonical
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 reasoning_policy_version: "1.0"
-specialist_synthesis_state: "Y2_00 active provisional; Y2_01-Y2_09 canonical; Y2_10-Y2_13 and Y2 full synthesis pending"
+specialist_synthesis_state: "Y2_00-Y2_13 and Y2 full synthesis canonical; analytical closeout complete"
 year3_narrative_evidence_used: false
 created_at: "2026-08-26"
-updated_at: "2026-08-27"
+updated_at: "2026-09-09"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-release_state: active_synthesis_build
-mutable_until: "Year-2 specialist corpus, full synthesis, evidence/index consolidation, protocol audit, corpus manifest/checksums, handoff, and archival lock are complete"
+release_state: frozen
+mutable_until: "Closed by verified Year-2 archival lock; later corrections require an explicit new revision"
 finalization_rule: "This routing map is intentionally created before the specialist corpus under the current project-state instruction, but the architecture's README-last rule still governs finalization: update this same file in place after specialist/full synthesis stabilizes, then freeze it as the Year-2 first-read entrypoint."
 ---
 
 # 『ようこそ実力至上主義の教室へ』
 ## Year 2 Definitive Second Pass — README and Corpus Map
-### Active synthesis-layer orientation, authority map, retrieval guide, and Year-2 boundary lock
+### Completed synthesis orientation, authority map, retrieval guide, and Year-2 release gate
 
-> **START HERE FOR READER-FACING YEAR-2 ROUTING DURING THE SYNTHESIS BUILD**
+> **START HERE FOR THE COMPLETED YEAR-2 CORPUS**
 >
-> `COTE_Y2_PROJECT_STATUS.md` remains the **canonical operational current-state file while Year-2 synthesis work is still active**. This README is the reader-facing routing map for the Year-2 synthesis layer now being built. It is deliberately `active_provisional`, is updated **in place**, and will become the frozen first-read Year-2 entrypoint only after the specialist corpus, full synthesis, evidence/index layer, audit, manifest/checksums, and next-year handoff are complete.
+> This is the canonical first-read Year-2 entrypoint, finalized in place after the completed analytical and local administrative layers. `COTE_Y2_PROJECT_STATUS.md` preserves operational history and release status. The corpus is frozen after verification of the published prepared release. The existing Year-3 gate records eligibility for a later bootstrap; no Year-3 narrative analysis has begun.
 >
-> This file is **not another full synthesis**. It tells a reader what the Year-2 corpus contains, which artifacts own which questions, how Volume 0 and *Second List* are allowed to affect interpretation, which conclusions are current at `Y2SL`, what remains open, and what is still pending.
+> This file is **not another full synthesis**. It tells a reader what the Year-2 corpus contains, which artifacts own which questions, how Volume 0 and *Second List* are allowed to affect interpretation, which conclusions are current at `Y2SL`, what remains analytically open, and how the publication gate is verified.
 
 ---
 
@@ -68,11 +68,12 @@ At this boundary, the corpus already contains:
 - sixteen canonical fiction deep readings: fifteen Year-2 volumes plus Volume 0;
 - one canonical Volume-0 retrospective-revelation ledger;
 - one canonical *Second List* paratext audit;
-- twelve canonical through-Year-2 current-state character/relationship/polity/institution/exam/ability/voice/ethics/ordinary-life ledgers;
+- seventeen canonical through-Year-2 topical/current-state ledger roles, including identity/allegiance, succession, institutional actors, longitudinal claim revision and terminology;
 - one canonical Year-1 → Year-2 handoff-question tracker adjudicating all 42 frozen Year-1 questions;
-- one completed but still `active_provisional` behavioral reconstruction protocol with 23 worked calibrations;
+- one canonical derivative behavioral reconstruction protocol with 23 worked calibrations and a completed synthesis audit;
 - a source inventory/lock covering all 17 Year-2/retrospective/guidebook source objects;
-- and the beginning of the Year-2 specialist synthesis layer in `05 Year-Level Synthesis`.
+- all thirteen specialist/index slots and the full synthesis in `05 Year-Level Synthesis`;
+- the corpus manifest, source/artifact checksums, machine index, delivery audit and analysis-only archive specification.
 
 The simplest Year-2 authority rule is:
 
@@ -92,7 +93,7 @@ It never reverses that direction.
 
 # 1. Current Year-2 boundary thesis
 
-The specialist corpus has not yet stabilized, so the following is a **boundary thesis distilled from the completed canonical ledgers**, not the final wording of `COTE_Y2_FULL_SYNTHESIS.md`:
+The following boundary thesis remains consistent with the completed specialist corpus. The [full synthesis](COTE_Y2_FULL_SYNTHESIS.md) develops the continuous argument and its counterarguments:
 
 > **Year 2 turns authorship from a hidden tactical advantage into an explicit political, relational, institutional, and developmental problem. Ayanokōji increasingly learns to design environments in which other people change; ANHS likewise becomes more capable of measuring, sorting, protecting, moving, and consuming student ability. The central question is therefore no longer whether a superior model can produce useful outcomes. It is whether successful authorship remains answerable to people who can refuse, correct, outgrow, survive separation from, or generate purposes outside the model that understood them.**
 
@@ -279,7 +280,7 @@ Year-2 current-state ledgers may supersede Year-1 ledgers **for current-state re
 
 ## 4.4 Current Year-2 boundary ledgers
 
-The canonical through-Year-2 ledgers own current-state synthesis before the numbered Year-2 specialist corpus is complete.
+The canonical through-Year-2 ledgers own compact current-state claims; the completed numbered specialists own their integrated arguments.
 
 They are the strongest current homes for:
 
@@ -308,16 +309,18 @@ It may tell you **how much behavior can responsibly be inferred** from the corpu
 
 # 5. Actual canonical Drive architecture
 
-The current COTE analytical root is:
+The historical Drive root record is preserved below. The current Git authority is `series/classroom-of-the-elite/`; the [manifest](../00%20Corpus%20Administration/COTE_Y2_CORPUS_MANIFEST.md) and [machine index](../00%20Corpus%20Administration/COTE_Y2_CORPUS_INDEX.json) own actual release paths. Drive IDs and artifact fingerprints in this README document earlier promotions and are not a claim that those external copies match the final Git bytes. Source EPUB hashes remain the locked source identities.
+
+The recorded COTE Drive analytical root is:
 
 - root: `1sjhRfgCwIjshRqlfuyVdM6I7soxuXbDj`
 
-The active Year-2 project root is:
+The recorded Year-2 Drive project root is:
 
 - `03 Year 2 Definitive Second Pass`
 - Drive ID: `1t3SAm3oQJU4AFnJJFSOtyrjGgq_X0iLB`
 
-Its current direct children are:
+Its recorded direct children are:
 
 | Layer | Drive ID | Current responsibility |
 |---|---|---|
@@ -328,7 +331,7 @@ Its current direct children are:
 | `04 Source Maps and Support` | `1U4y96tayVCRku3rQZLEX5_1rN0tB3atP` | source inventory and lock |
 | `05 Year-Level Synthesis` | `1ZuryLYIYtQJeNLGSOqz2sEvV8osrbzTk` | Year-2 specialist synthesis layer; created when `Y2_00` began |
 
-At the COTE analytical root, the governing method/architecture layer currently includes:
+At the recorded COTE Drive root, the governing method/architecture layer includes:
 
 - `COTE_Y2_ANALYTICAL_METHOD_V2.md` — Drive ID `1cL3Pw5Q1jdNUE43XXWrwRLhqcOgsEvdQ`
 - `COTE_Multi_Document_Synthesis_Architecture_v1.md` — Drive ID `1_cajiIPYNXPEtLp-FJ8nN3lbCp4EWT3T`
@@ -346,7 +349,7 @@ For **what work is complete, what is next, and whether Year 3 is unlocked**, use
 
 `COTE_Y2_PROJECT_STATUS.md`
 
-This remains the canonical operational entrypoint while the Year-2 release is active.
+This status file preserves operational history. The current first-read entrypoint is this README, including the release gate in Section 20.1.
 
 ## 6.2 Reader-facing routing
 
@@ -354,7 +357,7 @@ For **where a Year-2 question belongs**, use this file:
 
 `COTE_Y2_00_README_AND_CORPUS_MAP.md`
 
-During the active build, this README is mutable and `active_provisional`.
+This README is canonical and frozen. The archival lock records the verified publication basis; the release receipt binds the exact delivered head and archive.
 
 ## 6.3 Current-state character, relationship, polity, institution, exam, ability, voice, ethics, ordinary-life questions
 
@@ -368,37 +371,35 @@ Use the relevant immutable source-local deep reading or *Second List* audit.
 
 Route from the analytical artifact to its deterministic source locator and then to the locked Japanese source.
 
-The future `COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md` will become the consolidated Year-2 language router after it is created. Until then, exact-language routing remains distributed across the source-local readings, voice ledger, paratext audit, and source lock.
+[COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md](COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md) now consolidates 43 directly verified entries and 52 short excerpts. It preserves speaker/narrator ownership, ambiguity and links to the existing source-local/voice authorities.
 
 ## 6.6 Continuous Year-2 interpretation
 
-`COTE_Y2_FULL_SYNTHESIS.md` does not yet exist.
-
-Until it is written, do not treat this README or any one ledger as a substitute for the eventual continuous argument.
+[COTE_Y2_FULL_SYNTHESIS.md](COTE_Y2_FULL_SYNTHESIS.md) supplies the continuous Year-2 argument. This README routes readers to that synthesis and the specialist homes.
 
 ---
 
 # 7. Year-2 specialist document map
 
-The architecture defines a stable parallel Year-2 specialist corpus. **`Y2_00` is the mutable routing map and `Y2_01`–`Y2_09` are now canonical specialist authorities. Planned files below are not authorities until created.**
+The architecture-defined Year-2 specialist corpus is complete. **`Y2_00` is the canonical routing map, `Y2_01`–`Y2_13` are complete in their assigned analytical/retrieval roles, and `Y2_FULL` integrates the continuous argument.**
 
 | Slot | Artifact | State | Responsibility |
 |---|---|---|---|
-| `Y2_00` | `COTE_Y2_00_README_AND_CORPUS_MAP.md` | **ACTIVE_PROVISIONAL** | orientation, routing, scope, authority, release state |
-| `Y2_01` | `COTE_Y2_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md` | **CANONICAL** | year architecture, volume progression, changing governing problem |
-| `Y2_02` | `COTE_Y2_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md` | **CANONICAL** | Ayanokōji psychology, freedom, authorship, ethics, voice |
-| `Y2_03` | `COTE_Y2_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md` | **CANONICAL** | Horikita leadership, self-authorship, constitutional development, succession, class formation |
-| `Y2_04` | `COTE_Y2_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md` | **CANONICAL** | relationship systems, dependency, friendship, romance, reciprocity, recognition |
-| `Y2_05` | `COTE_Y2_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md` | **CANONICAL** | four polities, leaders, dissent, succession, legitimacy |
-| `Y2_06` | `COTE_Y2_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md` | **CANONICAL** | `実力`, OAA, measurement, points, examination conversion systems |
-| `Y2_07` | `COTE_Y2_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md` | **CANONICAL** | ANHS governance, surveillance, adults, records, White Room, external power |
-| `Y2_08` | `COTE_Y2_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md` | **CANONICAL** | intervention ethics, refusal, paternalism, expulsion, violence, counter-authorship |
-| `Y2_09` | `COTE_Y2_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md` | **CANONICAL** | Japanese narration/dialogue, written voice, focalization, genre, humor, illustration/form, dossier aesthetics |
-| `Y2_10` | `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md` | PENDING | Volume 0 + *Second List* + revelation/development/revision audit |
-| `Y2_11` | `COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md` | PENDING | comparative matrices, open questions, Year-3 handoff |
-| `Y2_12` | `COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md` | PENDING | consolidated evidence router across all Year-2 source-local artifacts |
-| `Y2_13` | `COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md` | PENDING | consolidated Japanese terminology and passage router |
-| `Y2_FULL` | `COTE_Y2_FULL_SYNTHESIS.md` | PENDING | continuous reader-facing Year-2 argument |
+| `Y2_00` | [COTE_Y2_00_README_AND_CORPUS_MAP.md](COTE_Y2_00_README_AND_CORPUS_MAP.md) | **CANONICAL** | orientation, routing, scope, authority, release state |
+| `Y2_01` | [COTE_Y2_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md](COTE_Y2_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md) | **CANONICAL** | year architecture, volume progression, changing governing problem |
+| `Y2_02` | [COTE_Y2_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md](COTE_Y2_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md) | **CANONICAL** | Ayanokōji psychology, freedom, authorship, ethics, voice |
+| `Y2_03` | [COTE_Y2_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md](COTE_Y2_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md) | **CANONICAL** | Horikita leadership, self-authorship, constitutional development, succession, class formation |
+| `Y2_04` | [COTE_Y2_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md](COTE_Y2_04_RELATIONSHIPS_DEPENDENCY_FRIENDSHIP_ROMANCE_AND_RECOGNITION.md) | **CANONICAL** | relationship systems, dependency, friendship, romance, reciprocity, recognition |
+| `Y2_05` | [COTE_Y2_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md](COTE_Y2_05_CLASS_POLITICS_LEADERSHIP_AND_CONSTITUTIONAL_DEVELOPMENT.md) | **CANONICAL** | four polities, leaders, dissent, succession, legitimacy |
+| `Y2_06` | [COTE_Y2_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md](COTE_Y2_06_ABILITY_MERITOCRACY_MEASUREMENT_POINTS_AND_EXAMS.md) | **CANONICAL** | `実力`, OAA, measurement, points, examination conversion systems |
+| `Y2_07` | [COTE_Y2_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md](COTE_Y2_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md) | **CANONICAL** | ANHS governance, surveillance, adults, records, White Room, external power |
+| `Y2_08` | [COTE_Y2_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md](COTE_Y2_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md) | **CANONICAL** | intervention ethics, refusal, paternalism, expulsion, violence, counter-authorship |
+| `Y2_09` | [COTE_Y2_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md](COTE_Y2_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md) | **CANONICAL** | Japanese narration/dialogue, written voice, focalization, genre, humor, illustration/form, dossier aesthetics |
+| `Y2_10` | [COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md](COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md) | **CANONICAL** | Volume 0 + *Second List* + revelation/development/revision audit |
+| `Y2_11` | [COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md](COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md) | **CANONICAL** | comparative matrices, open questions, Year-3 handoff |
+| `Y2_12` | [COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md](COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md) | **CANONICAL** | consolidated evidence router across all Year-2 source-local artifacts |
+| `Y2_13` | [COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md](COTE_Y2_13_JAPANESE_TERMINOLOGY_AND_PASSAGE_INDEX.md) | **CANONICAL** | consolidated Japanese terminology and passage router |
+| `Y2_FULL` | [COTE_Y2_FULL_SYNTHESIS.md](COTE_Y2_FULL_SYNTHESIS.md) | **CANONICAL** | continuous reader-facing Year-2 argument |
 
 ### Current `Y2_01` specialist authority
 
@@ -508,8 +509,8 @@ These are compatible only if `Y2_00` is treated as a **mutable scaffold now and 
 Therefore:
 
 - do not create a second “final” README later;
-- update this same file in place as Y2_01–Y2_13 are produced;
-- promote it to canonical/frozen release authority only during the final Year-2 audit.
+- the same file has been updated in place after Y2_01–Y2_13 and the full synthesis stabilized;
+- canonical routing and final freezing are complete after verified publication during the Year-2 release audit.
 
 ---
 
@@ -582,17 +583,12 @@ It especially strengthens:
 - Ryūen's leader-dependence bottleneck;
 - Sakayanagi's succession vacuum.
 
-## 9.3 Open point-snapshot issue
+<a id="93-open-point-snapshot-issue"></a>
+## 9.3 Resolved point-snapshot issue
 
-A cross-guidebook point discrepancy remains explicitly unresolved rather than silently harmonized.
+Direct inspection of the fixed-layout source identifies `Y2SL-E085` as the younger cohort that is first-year during Ayanokōji's Year 2. The heading, introduction and named students resolve the earlier misrouting; the printed values and frozen Year-1 records remain unchanged.
 
-The institutional/exam/polity ledger stack currently narrows it to:
-
-`OPEN_NARROWED_TO_PROBABLE_COHORT_MISROUTING_PENDING_SOURCE_SURFACE_VERIFICATION`
-
-The likely explanation is that `Y2SL-E085` refers to the cohort that is first-year during Ayanokōji's Year 2 rather than Ayanokōji's own cohort, but the fixed-layout source surface still requires direct visual re-verification before frozen Year-1 records are corrected.
-
-Do not use this README to perform that correction.
+Current state: `RESOLVED_COHORT_MISROUTING_BY_SOURCE_SURFACE_VERIFICATION`. [Y2_10 section 6](COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md#6-resolved-source-surface-issue-y2sl-e085-identifies-a-different-cohort) owns the source verification and correction history. The original section anchor is retained for existing routes.
 
 ---
 
@@ -762,6 +758,18 @@ Those states are analytical constraints, not labels to be converted into persona
 
 ---
 
+## 10.11 Additional architecture-required ledger roles
+
+The closeout filled five missing responsibilities while preserving the twelve existing topical ledgers:
+
+- [Identity and allegiance](../03%20Rolling%20Ledgers/COTE_ACTOR_IDENTITY_ALLEGIANCE_LEDGER.md): origin, knowledge, patronage, independent purpose and competing hypotheses.
+- [Succession and separation](../03%20Rolling%20Ledgers/COTE_SUCCESSION_SEPARATION_LEDGER.md): SS-01–SS-12 distinguish departure from reproduced capacity and ethical answerability.
+- [Institutional actors](../03%20Rolling%20Ledgers/COTE_CHAR_LEDGER_INSTITUTIONAL_ACTORS_THROUGH_Y2.md): the fifth character-ledger role, including younger-cohort, council and adult actors.
+- [Longitudinal claims and revisions](../03%20Rolling%20Ledgers/COTE_LONGITUDINAL_CLAIM_AND_REVISION_LEDGER.md): LC-01–LC-18 retain current claims, revision class, evidence homes and limits.
+- [Themes and terminology](../03%20Rolling%20Ledgers/COTE_THEME_TERMINOLOGY_LEDGER_THROUGH_Y2.md): all 34 controlled threads and their primary semantic homes; Y2_13 owns exact Japanese retrieval.
+
+The seventeen topical/current-state roles plus the retrospective ledger and inherited-question tracker produce nineteen rolling-ledger files. The [Y2_11 handoff](COTE_Y2_11_COMPARATIVE_MATRICES_OPEN_QUESTIONS_AND_NEXT_YEAR_HANDOFF.md) retains all 42 inherited adjudications and adds twelve unanswered Y2H tests.
+
 # 11. Stable class-polity identifiers
 
 Class letters are rankings and can change. Preserve the stable analytical polity IDs inherited from Year 1:
@@ -795,7 +803,7 @@ Do not infer constitutional quality directly from point rank.
 - bytes: `172605`
 - version: `1.4`
 - refinement state: `R4_SECONDARY_CHARACTER_ABSTENTION_THRESHOLDS`
-- authority: `active_provisional`, derivative only
+- authority: `canonical`, derivative only; completed synthesis audit and checksum integration
 
 The completed pre-synthesis calibration program contains **23 worked source-routed hypotheticals**.
 
@@ -835,7 +843,7 @@ The key R4 distinguishability test is:
 
 If the corpus cannot answer that question, role or institutional constraints may still be reconstructed, but a unique character-specific choice should not be invented.
 
-The protocol must be audited again after the specialist synthesis layer stabilizes. A specialist synthesis that materially changes a governing character claim outranks the protocol and triggers protocol revision.
+The [protocol closeout audit](../04%20Source%20Maps%20and%20Support/COTE_Y2_RECONSTRUCTION_PROTOCOL_CLOSEOUT_AUDIT.md) confirms all 23 cases with their existing limits. Current evidence/language routes and the twelve Y2H nonclosure gates are integrated. A later admissible synthesis that materially changes a governing character claim still outranks the protocol and triggers review.
 
 ---
 
@@ -911,7 +919,7 @@ The following may be updated in place while Year 2 remains active:
 - this `COTE_Y2_00_README_AND_CORPUS_MAP.md`;
 - planned specialist documents before explicit release freeze, when their own status permits;
 - the behavioral reconstruction protocol before archival lock;
-- future corpus manifest/checksum/index infrastructure.
+- generated corpus manifest/checksum/index infrastructure through its designated generator.
 
 ## 14.4 Final Year-2 release
 
@@ -951,7 +959,7 @@ Important recurring terms include:
 - first-person reference and address terms used in written-voice analysis;
 - source-native examination names and institutional wording.
 
-The future `Y2_13` index will consolidate terminology and passage routing.
+The completed `Y2_13` index consolidates terminology and passage routing; `Y2_12` connects all 2,697 original evidence IDs to the verified source resources.
 
 ## 15.4 Romanization
 
@@ -1111,9 +1119,9 @@ Use:
 - `COTE_V00_RETROSPECTIVE_DEEP_READING.md`;
 - `COTE_RETROSPECTIVE_REVELATION_LEDGER_VOLUME0.md`.
 
-Future synthesis home:
+Current synthesis home:
 
-`COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md`
+[COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md](COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md)
 
 ## “What did Second List add?”
 
@@ -1142,7 +1150,7 @@ The protocol may return a branch or abstention. That is a feature, not a failure
 3. the canonical through-Y2 ledger matching the question
 4. the relevant source-local reading if proof is required
 
-After the full synthesis exists, insert `COTE_Y2_FULL_SYNTHESIS.md` after this README for continuous interpretation.
+For continuous interpretation, read [COTE_Y2_FULL_SYNTHESIS.md](COTE_Y2_FULL_SYNTHESIS.md) immediately after this README, then follow the relevant specialist and source routes.
 
 ## 17.2 Chronological / architectural path
 
@@ -1151,8 +1159,8 @@ After the full synthesis exists, insert `COTE_Y2_FULL_SYNTHESIS.md` after this R
 3. Y2V09–Y2V12.5 deep readings
 4. *Second List* audit
 5. canonical `COTE_Y2_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md`
-6. `Y2_10` once created
-7. full synthesis once created
+6. completed `Y2_10`
+7. completed full synthesis
 
 ## 17.3 Character-focused path
 
@@ -1160,7 +1168,7 @@ After the full synthesis exists, insert `COTE_Y2_FULL_SYNTHESIS.md` after this R
 2. relationship ledger
 3. voice ledger where language matters
 4. ethics / ordinary-life ledger as appropriate
-5. current `Y2_02` for Ayanokōji, current `Y2_03` for Horikita, current `Y2_04` for relationship systems, or the appropriate later specialist synthesis as applicable
+5. current `Y2_02` for Ayanokōji, current `Y2_03` for Horikita, current `Y2_04` for relationship systems, or the appropriate completed specialist synthesis as applicable
 6. source-local scenes for verification
 
 ## 17.4 Institutional / political path
@@ -1186,7 +1194,7 @@ After the full synthesis exists, insert `COTE_Y2_FULL_SYNTHESIS.md` after this R
 2. Japanese written-voice ledger for compact register/state routing
 3. source-local reading
 4. original Japanese source locator
-5. future `Y2_13` for consolidated terminology/passage indexing once created
+5. completed `Y2_13` for consolidated terminology/passage indexing
 
 ## 17.7 Reconstruction path
 
@@ -1204,7 +1212,7 @@ After the full synthesis exists, insert `COTE_Y2_FULL_SYNTHESIS.md` after this R
 3. `COTE_Y2_Y1_HANDOFF_QUESTION_TRACKER.md`
 4. current through-Year-2 ledger
 5. Volume-0 revelation ledger where applicable
-6. future `Y2_11`
+6. completed `Y2_11`, including twelve Year-2-generated handoff tests
 
 ---
 
@@ -1278,13 +1286,15 @@ The current corpus also preserves, rather than prematurely closes:
 - whether distributed counter-authorship can durably constrain a superior modeler;
 - the exact scope and objective of unresolved adult/external White Room interventions where the source remains incomplete;
 - layered institutional auditability under record dispute or interested adult authority;
-- the `Y1FF` / `Y2SL-E085` point-surface issue pending direct visual verification.
 
-## 19.3 Year 3 remains locked
+The earlier point-surface issue is **resolved**: direct inspection identifies `Y2SL-E085` as the younger first-year cohort during Ayanokōji's Year 2. Its values are not a competing `Y1FF` record. [Y2_10 section 6](COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md#6-resolved-source-surface-issue-y2sl-e085-identifies-a-different-cohort) owns the correction. [Y2_12](COTE_Y2_12_VOLUME_BY_VOLUME_EVIDENCE_LEDGER.md) also routes the V01 companion correction to Nanase and the corrected transfer destination in Sakayanagi's former class. None of these repairs changes an inherited open-question state.
+
+<a id="193-year-3-remains-locked"></a>
+## 19.3 Year 3 is eligible for later bootstrap
 
 **No Year-3 narrative evidence may enter Year-2 specialist synthesis.**
 
-The Year-3 lock remains in force until all of the following are complete:
+The following closure requirements are complete; the verified publication basis is recorded in the [archival lock](../00%20Corpus%20Administration/COTE_Y2_V2_ARCHIVAL_LOCK.md):
 
 1. `Y2_01–Y2_13` specialist corpus;
 2. `COTE_Y2_FULL_SYNTHESIS.md`;
@@ -1292,13 +1302,16 @@ The Year-3 lock remains in force until all of the following are complete:
 4. protocol-vs-specialist audit and any necessary protocol revision;
 5. corpus map / manifest / checksum audit;
 6. next-year handoff;
-7. administrative verification and explicit unlock.
+7. administrative verification and explicit eligibility recording.
+
+The existing `year3_unlock: true` value below means eligibility for **a later execution** to bootstrap Year 3, not that narrative analysis has started. The next permitted source is Y3V01 under [COTE_Y3_ANALYTICAL_METHOD_V2.md](../../00%20Frameworks%20and%20Methods/COTE_Y3_ANALYTICAL_METHOD_V2.md). Preserve all Year-2 boundaries and unanswered handoff tests.
 
 ---
 
 # 20. Current release state and fingerprints
 
-## 20.1 Active state
+<a id="201-active-state"></a>
+## 20.1 Frozen release state
 
 Current state:
 
@@ -1306,12 +1319,12 @@ Current state:
 source_reading: complete_through_Y2SL
 boundary_ledgers: canonical_complete
 handoff_tracker: canonical_complete
-reconstruction_protocol: active_provisional_calibration_complete
-specialist_synthesis: Y2_01_Y2_02_Y2_03_Y2_04_Y2_05_Y2_06_Y2_07_Y2_08_Y2_09_canonical_Y2_10_next
-full_synthesis: pending
-evidence_index_consolidation: pending
-final_manifest_checksums: pending
-year3_unlock: false
+reconstruction_protocol: canonical_audited
+specialist_synthesis: Y2_01_through_Y2_13_canonical_complete
+full_synthesis: canonical_complete
+evidence_index_consolidation: canonical_complete
+final_manifest_checksums: canonical_complete
+year3_unlock: true
 ```
 
 ## 20.2 Key current artifacts
@@ -1333,15 +1346,15 @@ year3_unlock: false
 | `COTE_Y2_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md` | `1JqDl-ueQDmwqcWOUytBMld5vsBLmRvzV` | canonical ethics/autonomy/protection/expulsion/violence specialist |
 | `COTE_Y2_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md` | `1PWsO4aodwuCPy0jkzHRXUW1frzo5Svrr` | canonical Japanese narration/written-voice/genre/humor/visual-paratext specialist |
 
-This README's Drive ID is now fixed at `1IgFKyXNHZrzv6OHLMJT8n-yPGsr3OB3c`. Its checksum is tracked through the active project-status record and should be refreshed whenever this mutable routing map is updated in place; the final release checksum belongs in the Year-2 manifest/checksum audit.
+The Drive table above is a historical publication record. Current Git bytes, including this README, are bound by [COTE_Y2_ARTIFACT_CHECKSUMS.sha256](../00%20Corpus%20Administration/COTE_Y2_ARTIFACT_CHECKSUMS.sha256). The [manifest](../00%20Corpus%20Administration/COTE_Y2_CORPUS_MANIFEST.md), [machine index](../00%20Corpus%20Administration/COTE_Y2_CORPUS_INDEX.json), [delivery audit](../00%20Corpus%20Administration/COTE_Y2_DELIVERY_AUDIT.md) and [archival lock](../00%20Corpus%20Administration/COTE_Y2_V2_ARCHIVAL_LOCK.md) own the current release rather than the older Drive fingerprints.
 
 ---
 
 # 21. Immediate synthesis sequence
 
-The next architecture-defined production sequence is:
+The architecture-defined production sequence is preserved below with its current completion state:
 
-1. **completed/current:** `COTE_Y2_00_README_AND_CORPUS_MAP.md` as the mutable synthesis routing surface;
+1. **completed/canonical:** `COTE_Y2_00_README_AND_CORPUS_MAP.md`, finalized in place after the analytical and administrative layers;
 2. **completed/canonical:** `COTE_Y2_01_YEAR_ARCHITECTURE_AND_VOLUME_PROGRESSION.md`;
 3. **completed/canonical:** `COTE_Y2_02_AYANOKOJI_CHARACTER_PSYCHOLOGY_ETHICS_AND_VOICE.md`;
 4. **completed/canonical:** `COTE_Y2_03_HORIKITA_LEADERSHIP_SELF_AUTHORSHIP_AND_CLASS_FORMATION.md`;
@@ -1351,15 +1364,15 @@ The next architecture-defined production sequence is:
 8. **completed/canonical:** `COTE_Y2_07_INSTITUTIONS_SURVEILLANCE_ADULT_POWER_AND_WHITE_ROOM.md`;
 9. **completed/canonical:** `COTE_Y2_08_ETHICS_AUTONOMY_PROTECTION_EXPULSION_AND_VIOLENCE.md`;
 10. **completed/canonical:** `COTE_Y2_09_JAPANESE_NARRATION_VOICE_GENRE_HUMOR_AND_VISUAL_PARATEXT.md`;
-11. **next:** `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md`;
-12. continue the architecture-defined Year-2 specialist corpus through `Y2_13`;
-13. `COTE_Y2_FULL_SYNTHESIS.md`;
-14. protocol-vs-specialist audit;
-15. evidence/index consolidation;
-16. final README update, manifest/checksum/corpus-map audit, handoff, and archival verification;
-17. only then Year-3 unlock.
+11. **completed/canonical:** `COTE_Y2_10_RETROSPECTIVE_PARATEXT_AND_REVISION.md`;
+12. **completed/canonical:** `Y2_11`, `Y2_12` and `Y2_13`;
+13. **completed/canonical:** `COTE_Y2_FULL_SYNTHESIS.md`;
+14. **completed:** protocol-vs-specialist/full audit and checksum integration;
+15. **completed:** evidence and Japanese index consolidation;
+16. **completed:** manifest, checksums, corpus index, delivery audit, handoff and README-last routing update;
+17. **completed:** prepared-state publication verification, final archival freezing and Year-3 eligibility recording; the delivery receipt binds the final published revision.
 
-The current README is therefore both useful now and intentionally incomplete as a release artifact. Its responsibility is to remain the stable routing home while the underlying specialist authorities are filled in.
+All Year-2 closeout responsibilities are complete. The final release receipt binds the delivered branch head, successful audit and immutable archive. The next narrative operation, Y3V01, belongs to a later execution.
 
 ---
 
@@ -1372,7 +1385,7 @@ For most Year-2 questions:
 Use this order:
 
 1. this README for routing;
-2. `COTE_Y2_PROJECT_STATUS.md` for active project state;
+2. `COTE_Y2_PROJECT_STATUS.md` for operational history and release status;
 3. current through-Year-2 ledger or completed specialist synthesis for the specific domain;
 4. source-local volume reading / Volume-0 retrospective artifact / *Second List* audit;
 5. deterministic source locator;
@@ -1382,6 +1395,6 @@ For historical Year-1 truth, route sideways into the frozen Year-1 corpus rather
 
 For novel-scenario reconstruction, route **downstream** from canonical analysis into the behavioral reconstruction protocol and preserve abstention when the evidence is too thin.
 
-For future Year-3 work, do nothing until the explicit Year-3 unlock is recorded.
+For future Year-3 work, the gate is now eligible. Begin only in a later execution from Y3V01 under the governing method; this Year-2 release contains no Year-3 narrative findings.
 
 > **One corpus, one temporal record, one authority chain: preserve what was knowable locally, state what is knowable at Y2SL, and leave future truth to future evidence.**

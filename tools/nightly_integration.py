@@ -121,18 +121,23 @@ class GitHub:
         name = urllib.parse.quote(branch, safe="")
         return exact_sha(self.request("GET", f"git/ref/heads/{name}")["object"]["sha"])
 
+    def audit_statuses(self, sha: str) -> list[dict]:
+        return [row for row in self.pages(f"commits/{exact_sha(sha)}/statuses") if row["context"] == AUDIT]
+
     def status(self, sha: str) -> dict | None:
         # Newest first: an older success cannot override a later failure/pending.
-        return next((row for row in self.pages(f"commits/{exact_sha(sha)}/statuses") if row["context"] == AUDIT), None)
+        return next(iter(self.audit_statuses(sha)), None)
 
-    def audit_run(self, sha: str, status: dict | None) -> dict | None:
+    def audit_run(self, sha: str, status: dict | None, *, require_success: bool = True) -> dict | None:
         if not status or status.get("creator", {}).get("login") != "github-actions[bot]":
             return None
         match = re.fullmatch(r"https://github\.com/" + re.escape(REPOSITORY) + r"/actions/runs/([0-9]+)", status.get("target_url", ""))
         if not match:
             return None
         run = self.request("GET", "actions/runs/" + match[1])
-        if run.get("path", "").split("@", 1)[0] != AUDIT_WORKFLOW or run.get("conclusion") != "success":
+        if run.get("path", "").split("@", 1)[0] != AUDIT_WORKFLOW:
+            return None
+        if require_success and run.get("conclusion") != "success":
             return None
         if run.get("event") in {"push", "workflow_dispatch", "schedule"} and run.get("head_sha") != sha:
             return None
@@ -275,14 +280,30 @@ class Integrator:
     def wait_post_merge(self, sha: str, previous_status_id: int) -> None:
         end = min(self.deadline, time.monotonic() + 1800)
         while time.monotonic() < end:
-            status = self.api.status(sha)
-            if status and status["id"] > previous_status_id:
-                if status["state"] in {"failure", "error"}:
+            statuses = self.api.audit_statuses(sha)
+            latest = next(iter(statuses), None)
+            if latest and latest["id"] > previous_status_id:
+                if latest["state"] in {"failure", "error"}:
                     raise Halt("Already integrated, but post-merge audit failed; further merges stopped")
-                run = self.api.audit_run(sha, status)
-                if (status["state"] == "success" and run and run.get("event") == "repository_dispatch"
-                        and run.get("actor", {}).get("login") == OWNER):
-                    return
+                if latest["state"] == "success" and self.api.audit_run(sha, latest):
+                    # The owner-token merge also starts a push audit. Its newer
+                    # success must not hide the explicitly dispatched full audit.
+                    # Keep the latest overall failure/pending safeguards above,
+                    # and use only the newest trusted dispatch result below.
+                    for status in statuses:
+                        if status["id"] <= previous_status_id:
+                            break
+                        run = self.api.audit_run(sha, status, require_success=False)
+                        if (not run or run.get("event") != "repository_dispatch"
+                                or run.get("actor", {}).get("login") != OWNER):
+                            continue
+                        if status["state"] in {"failure", "error"} or run.get("conclusion") in {
+                            "failure", "cancelled", "timed_out", "action_required", "startup_failure",
+                        }:
+                            raise Halt("Already integrated, but post-merge audit failed; further merges stopped")
+                        if status["state"] == "success" and run.get("conclusion") == "success":
+                            return
+                        break
             time.sleep(15)
         raise Halt("Already integrated, but explicit post-merge audit did not finish; further merges stopped")
 

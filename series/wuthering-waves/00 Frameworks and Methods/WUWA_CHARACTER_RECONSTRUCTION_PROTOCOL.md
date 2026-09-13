@@ -3,7 +3,7 @@ series: WUWA
 artifact_type: character_reconstruction_protocol
 scope: CHARACTER_ANALYSIS_AND_SIMULATION
 source_boundary: "Versioned semantic, textual, voice, message, and audiovisual evidence routed from the WUWA Drive evidence plane"
-generation: V0.2
+generation: V0.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -18,6 +18,16 @@ do_not_use_as_current_authority: false
 Produce a source-grounded character model capable of literary explanation and bounded unfamiliar-situation prediction without collapsing the character into an archetype, a timeless trait card, one relationship, one dub, or one evidentiary modality.
 
 The preferred reconstruction order is deliberately staged. Textual and machine-audio evidence establish the initial model before audiovisual evidence is used to test, extend, qualify, or contradict it. Human perceptual listening is an optional post-reconstruction addendum rather than a prerequisite for a complete integrated reconstruction.
+
+## Current authority before audiovisual completion
+
+An owner-accepted, source-grounded textual and audio reconstruction is current analytical authority for its declared evidence scope even while audiovisual review remains pending. Use `status: active_provisional`, `supersedes: []`, `superseded_by: []`, and `do_not_use_as_current_authority: false` unless an actual supersession relationship applies. Reserve `draft_noncurrent` and veto=true for an unaccepted draft or another independently justified noncurrent state; missing AV alone is not such a reason.
+
+Authority, source coverage, modality completion, and confidence are separate dimensions. Keep exact textual language coverage, usable audio denominators, performed machine analyses, unavailable context, and unresolved questions visible. Current authority does not mean complete audio profiling, direct listening, audiovisual hardening, or perfect fidelity. Do not promote an unperformed pass by changing metadata.
+
+AV-dependent claims about camera, gesture, blocking, design, editing, music, or performed nuance remain OPEN until the appropriate evidence is reviewed. A material AV contradiction may revise an affected claim or dependent state model; it does not retroactively invalidate every independently supported textual finding. There is no default numerical fidelity penalty or confidence score for a missing modality.
+
+Generate substantial accepted pre-AV packets with the complete authority quartet from the outset. A local staging location or `PRE_AV` filename does not itself imply a noncurrent model. The owner-adopted authority takes effect through the governed Git integration; packet collection plans remain plans. Refer to `WUWA_CHARACTER_FOLDER_CONTRACT.md` for artifact roles and publication metadata.
 
 ## Phase 0 — authority and scope
 
@@ -116,7 +126,7 @@ For each material claim record:
 - modalities reviewed;
 - materially relevant modalities not yet reviewed.
 
-Claims produced before audiovisual review are not yet fully integrated claims when relevant audiovisual evidence remains materially available.
+Claims produced before audiovisual review may be current, accepted textual/audio findings. They are not yet fully multimodal findings when relevant AV evidence remains unreviewed; record that distinction on the affected claims without vetoing the whole reconstruction.
 
 Prefer claims that constrain predictions and can be falsified.
 
@@ -210,17 +220,17 @@ If a relevant modality is unavailable, say so. Lack of materialized evidence is 
 
 ## Phase 11 — integrated monograph and specialist profiles
 
-Write the monograph as the interpretive center only after the mandatory available textual, machine-audio, and audiovisual passes have been integrated.
+A substantial text/audio monograph or source-facing deep dive may serve as the current provisional interpretive center as soon as its evidence scope is reviewed and accepted. Later audiovisual integration hardens that current model. Reserve the description of a fully integrated multimodal monograph for work whose relevant available passes have actually been integrated.
 
 Split ordinary-life, relationship/state, speech/voice, design/visual, or other specialist material into standalone homes only when evidence density warrants repeated retrieval.
 
 The monograph must include rival readings rather than merely presenting the most elegant thesis. It must distinguish source-grounded character conclusions from localization-specific or promotional presentation effects.
 
-A character may still receive a bounded textual reconstruction when audiovisual material is genuinely unavailable. Such an artifact must state its modality limits and must not be mislabeled as audiovisually hardened.
+A character may receive and use a current bounded textual/audio reconstruction while AV is unavailable, uncollected, or awaiting review. State those different limits accurately and retain a claim-driven hardening plan; current authority never implies `audiovisually_hardened`.
 
 ## Phase 12 — compiled model
 
-Compile the machine-readable model from accepted integrated analysis. The model must select a state before predicting and must carry mandatory abstentions.
+Compile a machine-readable model from accepted current analysis, preserving whether its basis is textual/audio or fully multimodal. AV-pending work may support a current model within its declared scope. The model must select a state before predicting and carry mandatory abstentions; compilation remains a separate completed operation.
 
 Do not include generated scenes as evidence.
 
@@ -305,6 +315,6 @@ Optional human-performance enrichment states:
 - `human_performance_partially_reviewed`
 - `human_performance_hardened`
 
-These are independent dimensions, not a single false "complete" flag.
+These are independent dimensions, not a single false "complete" flag. None is a substitute for the separate current-authority quartet. An accepted pre-AV packet may be `active_provisional` and current before `machine_voice_profiled`, `audiovisually_hardened`, or `integrated_reconstruction_completed` is achieved, provided its actual evidence scope and incomplete responsibilities are explicit.
 
 A character can legitimately be `integrated_reconstruction_completed` without either human-performance state. Conversely, human-performance review does not substitute for missing textual, identity, or materially available audiovisual evidence.

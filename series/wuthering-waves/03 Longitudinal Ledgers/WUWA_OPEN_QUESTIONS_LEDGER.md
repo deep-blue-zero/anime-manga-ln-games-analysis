@@ -26,12 +26,14 @@ do_not_use_as_current_authority: false
 | WUWA-OQ-005 | OPEN | Lynae identity | Who speaks the anonymous terminal line and distress-context line currently left unresolved? | Lynae occurrence crosswalk and identity-review evidence | contextual source or later identity evidence |
 | WUWA-OQ-006 | OPEN | Lynae voice | Which runtime dispatch path realizes the three unresolved PhoneMessage lines? | 16 installed variants exist and are `resolved_unique_active`; dispatcher route not established | deterministic runtime/media resolution |
 | WUWA-OQ-007 | PARTIALLY_RESOLVED | Lynae reconstruction | What state, relationship, ordinary-life, speech, and performance architecture does Lynae's own corpus support? | imported V0.1 pre-AV reconstruction and specialist profiles; active_provisional | audiovisual analysis and remaining voice/performance review; textual baseline imported from the supplied packet |
-| WUWA-OQ-008 | OPEN | Chisa reconstruction | What character architecture emerges from Chisa's independent evidence topology? | Drive V0.1 bridge, 733 accepted occurrences, 607 semantic voice lines | separate character analysis operation |
+| WUWA-OQ-008 | PARTIALLY_RESOLVED | Chisa reconstruction | What character architecture emerges from Chisa's independent evidence topology? | imported twelve-document pre-AV rebuild supplies a current provisional textual architecture | further evidence-grounded hardening; AV analysis, fuller machine-voice work, and prior-monograph reconciliation remain open |
 | WUWA-OQ-009 | OPEN | title-wide story | What sequential unit and scope notation best balance quest IDs, human-readable arcs, patch boundaries, and branching? | protocol exists; no Git-native sequential reading yet | first main-story deep reading |
 
 ## Pre-AV packet follow-up
 
 The supplied Aemeath, Denia, and Lynae V0.1 packets leave audiovisual acquisition and direct analysis OPEN. Each character's `WUWA_<CHARACTER>_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md` and evidence/falsification matrix define the proposed checks. Importing those plans does not report their execution. Aemeath and Denia also supply human-retrieval crosswalks. No new AV or human-performance conclusions are certified by this import.
+
+The later Chisa rebuild supplies 24 AV target cards, 36 non-blind fidelity probes, and explicit limits on prior-monograph comparison, missing option context, and performance interpretation. Its nomination plan and crosswalk remain proposed work. Current authority is adopted within the inspected text/audio scope; no AV, listening, or full machine-profile completion is asserted.
 
 ## Entry contract
 

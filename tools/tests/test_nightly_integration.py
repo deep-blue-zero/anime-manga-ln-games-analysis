@@ -59,8 +59,13 @@ class FakeAPI:
         state = ('failure' if self.post_failure else 'success') if sha == M else self.source_status
         return {'id': 12 if sha == M else 1, 'state': state}
 
-    def audit_run(self, sha, status):
-        return {'event': 'repository_dispatch', 'actor': {'login': OWNER if sha == M else 'github-actions[bot]'}}
+    def audit_statuses(self, sha):
+        status = self.status(sha)
+        return [status] if status else []
+
+    def audit_run(self, sha, status, *, require_success=True):
+        return {'event': 'repository_dispatch', 'conclusion': 'success',
+                'actor': {'login': OWNER if sha == M else 'github-actions[bot]'}}
 
     def request(self, method, path, payload=None):
         if method != 'GET':
@@ -311,6 +316,69 @@ class ControllerTests(unittest.TestCase):
         with self.assertRaisesRegex(Halt, 'Insufficient time'):
             worker.process('series/a', S, B, {})
         self.assertEqual(worker.api.writes, [])
+
+    def test_post_merge_dispatch_is_not_hidden_by_a_later_push_success(self):
+        worker = self.worker()
+        api = GitHub('test')
+        worker.api = api
+        def status(identifier, run_id, state='success'):
+            return {'id': identifier, 'context': AUDIT, 'state': state,
+                    'creator': {'login': 'github-actions[bot]'},
+                    'target_url': f'https://github.com/{REPOSITORY}/actions/runs/{run_id}'}
+        push, dispatched = status(14, 41), status(13, 42)
+        api.pages = mock.Mock(return_value=[push, dispatched])
+        runs = {
+            'actions/runs/41': {'path': AUDIT_WORKFLOW, 'event': 'push', 'head_sha': M,
+                               'actor': {'login': OWNER}, 'conclusion': 'success'},
+            'actions/runs/42': {'path': AUDIT_WORKFLOW, 'event': 'repository_dispatch',
+                               'actor': {'login': OWNER}, 'conclusion': 'success'},
+        }
+        api.request = mock.Mock(side_effect=lambda method, path: runs[path])
+        with mock.patch('nightly_integration.time.sleep', side_effect=AssertionError('unexpected wait')):
+            worker.wait_post_merge(M, 12)
+        api.pages.assert_called_once_with(f'commits/{M}/statuses')
+
+        # An older good dispatch cannot override a failure or pending result.
+        for target, state, conclusion in (
+            (push, 'failure', 'success'), (push, 'error', 'success'),
+            (dispatched, 'failure', 'failure'), (dispatched, 'success', 'cancelled'),
+        ):
+            with self.subTest(target=target['id'], state=state, conclusion=conclusion):
+                target['state'] = state
+                runs['actions/runs/42']['conclusion'] = conclusion
+                with self.assertRaisesRegex(Halt, 'post-merge audit failed'):
+                    worker.wait_post_merge(M, 12)
+                target['state'] = 'success'
+                runs['actions/runs/42']['conclusion'] = 'success'
+
+        for case in ('pending_push', 'pending_dispatch', 'old_dispatch', 'push_only',
+                     'wrong_actor', 'wrong_workflow', 'wrong_reporter'):
+            with self.subTest(case=case):
+                rows = copy.deepcopy([push, dispatched])
+                run = runs['actions/runs/42']
+                original = copy.deepcopy(run)
+                if case == 'pending_push':
+                    rows[0]['state'] = 'pending'
+                elif case == 'pending_dispatch':
+                    rows[1]['state'] = 'pending'
+                    run['conclusion'] = None
+                elif case == 'old_dispatch':
+                    rows[1]['id'] = 12
+                elif case == 'push_only':
+                    rows.pop()
+                elif case == 'wrong_actor':
+                    run['actor'] = {'login': 'github-actions[bot]'}
+                elif case == 'wrong_workflow':
+                    run['path'] = '.github/workflows/other.yml'
+                else:
+                    rows[1]['creator']['login'] = 'someone-else'
+                api.pages.return_value = rows
+                clock = [0]
+                with mock.patch('nightly_integration.time.monotonic', side_effect=lambda: clock[0]), \
+                        mock.patch('nightly_integration.time.sleep', side_effect=lambda _: clock.__setitem__(0, 1801)):
+                    with self.assertRaisesRegex(Halt, 'did not finish'):
+                        worker.wait_post_merge(M, 12)
+                runs['actions/runs/42'] = original
 
 
 class PreviewResultTests(unittest.TestCase):

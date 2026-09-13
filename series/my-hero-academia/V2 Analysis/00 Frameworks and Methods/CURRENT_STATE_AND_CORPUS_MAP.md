@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES_V2
 generation: V2
 status: canonical
-source_boundary: V2 Japanese manga reread in progress; main tankobon sequence V01-V42 confirmed accessible in canonical Drive source root
+source_boundary: Complete current V2 Japanese main manga V01-V42 through V42:p183 plus the exact reviewed Ultra Archive, Ultra Analysis and Ultra Age editions; broader supplements and volume-embedded paratext coverage remain outside this completed pass
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -42,6 +42,43 @@ do_not_use_as_current_authority: false
 
 
 # My Hero Academia V2 — Current State and Corpus Map
+
+## Current supplemental reconciliation
+
+**SUPPLEMENTAL_RECONCILIATION_STATE = COMPLETE_BOUNDED_ANALYTICAL_RECONCILIATION.** The current boundary is **V01–V42 + Ultra Archive (UA) + Ultra Analysis (UAN) + Ultra Age (UAG)**. All three source checkpoints, the all-subject review, current reconstruction and the existing twenty analytical homes have converged. Original-page accounting is UA 217/217 with 276 selective records and seven bounded small-text limits; UAN 297/297 with 334 records and one bounded small-text page; UAG 331/331 with 485 records and no unresolved material text-reading disposition. The total is 845 pages and 1,095 selective claim records, not independent behavioral observations. Separate tiny-image identity uncertainties remain explicit in the census. Current reconstruction contains 111 readiness rows and 30 dossiers; no new formal predictive result is claimed.
+
+The [method amendment](MHA_SP2_ANALYTICAL_METHOD_V2_1.md#18-official-supplemental-material-reconciliation-amendment--2026-09-10) and [architecture section 16](MHA_SP2_SYNTHESIS_ARCHITECTURE.md#16-bounded-official-supplement-reconciliation--2026-09-10) govern the pass. The [supplemental source lock](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md), [source map](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_SUPPLEMENTAL_SPINE_MAP.tsv), [reconciliation ledger](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md), the [all-subject character audit](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md), and [impact audit](../08%20Audits%20and%20Manifests/MHA_SP2_SUPPLEMENTAL_RECONCILIATION_IMPACT_AUDIT.md) are the current execution route.
+
+**Supplemental review and analytical convergence gates: closed.** The [UA audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ARCHIVE_PARATEXT_AUDIT.md), [UAN audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ANALYSIS_PARATEXT_AUDIT.md) and [UAG audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_AGE_PARATEXT_AUDIT.md) preserve the ordered source checkpoints. The [all-subject character audit](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records 348 typed identity entries, all current decisions and further-subject dispositions; the [impact audit](../08%20Audits%20and%20Manifests/MHA_SP2_SUPPLEMENTAL_RECONCILIATION_IMPACT_AUDIT.md) records model, specialist/monograph and F1–F4 convergence and preservation. No source or analytical queue remains within this bounded pass. Exact-commit publication, housekeeping and protected integration remain separate states. Historical main-only completion, maturation and dated queues below preserve their former evidence boundaries.
+
+## Current analytical completion and entrypoints
+
+**MHA_SP2 is analytically complete for the authorized Japanese main-manga V01–V42 scope, including chapter 431 through V42:p183.** V41 and V42 are canonical, all thirty eligible reconstruction models are present, aggregate validation covers all thirty probes and five checkpoint comparisons, and the eight-specialist/four-document full-series corpora are complete. No main-volume next task remains. Historical snapshots below retain their original knowledge boundaries and are not live continuation instructions.
+
+**Historical manga-only post-completion maturation is complete.** The completed baseline above remains intact. The additional user-authorized work developed S1–S7, added eight distinct literary-character homes inside the existing specialist area, and refined four model supports while preserving S8 and twenty-six other dossiers. The [architecture's maturation responsibilities](MHA_SP2_SYNTHESIS_ARCHITECTURE.md#15-post-completion-maturation-and-literary-character-ownership) and [implementation record](../08%20Audits%20and%20Manifests/MHA_SP2_MATURATION_IMPLEMENTATION_RECORD.md) govern the completed additions and verification. Publication remains separate; the local Git history records these analytical changes, while this entrypoint does not certify a push or protected integration. No sequential volume queue has reopened.
+
+| Current responsibility | Canonical route |
+|---|---|
+| Governing method, architecture and schema | [Method](MHA_SP2_ANALYTICAL_METHOD_V2_1.md), [architecture](MHA_SP2_SYNTHESIS_ARCHITECTURE.md), [modeling schema](MHA_SP2_CHARACTER_MODELING_SCHEMA.md) |
+| Final sequential readings | [V41](../02%20Sequential%20Readings/MHA_SP2_V41_DEEP_READING.md), [V42](../02%20Sequential%20Readings/MHA_SP2_V42_DEEP_READING.md); all earlier canonical V01–V40 readings retained |
+| Historical final manga checkpoint | [Post-Final-War checkpoint](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_V42_POST_FINAL_WAR_MODEL_CHECKPOINT.md) |
+| Sole current tier authority | [Readiness index](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) |
+| Thirty reconstruction dossiers and validation | [Model corpus index](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_CHARACTER_RECONSTRUCTION_CORPUS_INDEX.md), [aggregate report](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AGGREGATE_RECONSTRUCTION_VALIDATION.md) |
+| All-subject supplemental applicability and identity decisions | [all-subject character audit](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md); current tiers remain governed by the readiness index |
+| Eight specialist syntheses / all fourteen ledger dispositions | [Specialist index](../05%20Specialist%20Synthesis/MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md) |
+| Eight individual literary character studies | [Literary homes and governing questions](../05%20Specialist%20Synthesis/MHA_SP2_SPECIALIST_SYNTHESIS_INDEX.md#individual-literary-character-responsibilities) |
+| Definitive four-document synthesis corpus | [Full-series entrypoint](../06%20Full-Series%20Synthesis/MHA_SP2_FULL_SERIES_SYNTHESIS.md), routing paired adjudication, social future, and form/revision/residuals |
+| Primary retrieval, source scope and correction provenance | [Locator](../07%20Evidence%20and%20Indexes/MHA_SP2_PRIMARY_SOURCE_LOCATOR.md), [inventory](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_SOURCE_INVENTORY.md), [publication/source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) |
+
+[Post-completion maturation implementation and source checks](../08%20Audits%20and%20Manifests/MHA_SP2_MATURATION_IMPLEMENTATION_RECORD.md) record the bounded additions, corrected current locators, unchanged historical freezes and separate publication status.
+
+Current readiness is **111 rows: 7 insufficient, 36 emerging, 38 moderate, 17 strong, 13 specialist_ready**. The 86-row baseline received 17 one-tier increases and 69 retentions; 25 additional current entries are 12 moderate and 13 emerging. All 30 dossier owners retain their tiers. Kurogiri remains moderate with a qualified historical mixed-continuity checkpoint comparison. Retrospective holdouts are not blind trials, and the original Hawks test remains contaminated after excluding V28 extraction from its V27 freeze.
+
+The main source set is complete and all 42 local CBZs are hash-locked; the audit distinguishes actual inspected pages from inherited direct review. The three named supplemental books are reconciled in the current corpus; adaptations, exhaustive supplemental inventory and complete volume-embedded-paratext coverage remain outside this pass. Particular later outcomes and equipment functions narrow earlier gaps, while exact Toya death circumstances, Eri's full prognosis, vestige metaphysics, remaining private lives, equipment performance/access, counterfactual rehabilitation and reform durability remain qualified in [F4's current residual register](../06%20Full-Series%20Synthesis/MHA_SP2_FORM_REVISION_AND_RESIDUALS.md#residual-register).
+
+Source corrections govern historical claims: V27:p179 is Tokoyami's arrival and V28:p060–077 the extraction; V31 uses raw +1 mapping and ends narrative at logical p213; V36 uses facing-page mapping; V37:p148 is author art; V42:p144–145 is afterword while chapter 431 remains narrative. Speaker and observer/actor distinctions remain operative. These repairs preserve unaffected history and frozen identities.
+
+This is analytical closeout, not a substitute for exact-head publication, housekeeping and protected integration receipts. Current Git/PR audit state must be read from those receipts rather than inferred from completion prose.
 
 
 
@@ -487,10 +524,14 @@ Completed canonical V2 deep readings:
 - `MHA_SP2_V38_DEEP_READING.md`
 - `MHA_SP2_V39_DEEP_READING.md`
 - `MHA_SP2_V40_DEEP_READING.md`
+- `MHA_SP2_V41_DEEP_READING.md`
+- `MHA_SP2_V42_DEEP_READING.md`
 
-Next default sequential task:
+**Sequential main-manga reread: V01–V42 complete.** There is no next default sequential volume.
 
-- Volume 41.
+The post-V42 reconstruction/validation, specialist synthesis and definitive full-series synthesis phases are complete under the present authorization. The current routes are listed above. The canonical post-Final-War checkpoint remains `04 Character Modeling and Reconstruction/MHA_SP2_V42_POST_FINAL_WAR_MODEL_CHECKPOINT.md`; the readiness index in that directory alone owns final normalized tiers.
+
+The volume-by-volume sections below preserve earlier prospective snapshots. Their historical next-task language is not a competing instruction; this top-level closure is operative. Earlier next-volume and single-operation statements are retained as historical prospective records, not live instructions.
 
 ## Volume 1 major model change
 
@@ -2757,7 +2798,7 @@ Durable analytical continuity is carried by:
 
 
 
-The V2.0 cross-cutting ledgers are active and integrated through V10:
+The V2 cross-cutting ledgers are active and integrated through V41:
 
 
 
@@ -2936,7 +2977,7 @@ The strongest compact formulation is:
 > **Reliability requires integration: power becomes trustworthy when persons and institutions can integrate history, emotion, inheritance, communication and distributed responsibility well enough that none of them hijack judgment or force one body to carry the entire system alone.**
 
 
-## Next architecture actions
+## Historical architecture actions at the V13 boundary
 
 
 - continue sequential reread with Volume 14;
@@ -3380,6 +3421,9 @@ Key changes:
 - Dabi knows Hawks's private name `Takami Keigo` and whispers another identity fact to him, but V27 formally withholds the content from the reader. Later Toya/Todoroki knowledge remains OPEN;
 - Hawks's childhood HPSC-linked identity discontinuity and special hero training become canonical causal-biography evidence. His rescue aspiration is genuine, so institutional opportunity and institutional ownership coexist;
 - Tokoyami converts mentorship attachment into reverse rescue by reaching/extracting the critically burned Hawks without possessing the reader's full Hawks/Twice knowledge;
+
+**Current correction:** that historical V27 summary prematurely includes extraction and the V28 information problem. `V27:p179` establishes arrival; extraction and the response to Dabi are `V28:p060–077` (excluding portrait `p062`). Exclude the premature claims from V27 freezes; the [source audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md) preserves the correction and provenance.
+
 - the volume ends at `V27:p180` with Endeavor reaching the underground High-End fight and Mirko still refusing to abandon the Shigaraki/Doctor objective. Shigaraki's actual awakening/procedure result and the overall raid outcome remain V28+.
 
 Character-model readiness changes:
@@ -3703,3 +3747,36 @@ Frozen V40 boundary: **`V40:p199`**. External AFO/Rewind body is dead/disappeare
 
 **Current sequential state:** V01-V40 complete. **Next sequential operation:** `MHA_SP2_V41_DEEP_READING.md`, beginning from the unresolved `危機感知` contact state at `V40:p199`. Do not begin V41 without a new explicit `single_operation` authorization.
 
+
+## Volume 41 major model change
+
+Volume 41 shifts from **inheritance without possession** to **agency without self-sufficiency**.
+
+The volume repeatedly separates authorship from isolation. Midoriya agrees to relinquish OFA even though he calls it All Might's `宝物`; after the transferable factors are lost he says their inheritance has soaked into his `無個性` self and `残り火` remain. His agency therefore survives the loss of possession. The same logic is tested against Shigaraki: Chapter 419 reveals that AFO manipulated the Shimura family environment, removed Tenko's latent inherited factor, supplied an engineered destruction-only Quirk copy and cultivated hatred for OFA theft. This materially increases AFO's causal responsibility but does not make AFO's `全部だ` total-authorship claim sufficient to erase Shigaraki's later p116 choice claim, subsequent League bonds, V40 rejection of AFO or adult accountability.
+
+Kurogiri/Shirakumo receives a parallel identity correction. Aizawa explicitly rejects a pure-restoration model and treats the current person as mixed/altered while still capable of relational response. Eri supplies the positive autonomy control: she deliberately contributes a bounded horn/Rewind resource while preserving an ordinary future desire (`お歌したいの`).
+
+At society scale, `WE ARE HERE` pluralizes the old singular arrival/reassurance grammar. Aizawa preserves differentiated evacuation/frontline roles, civilians supply support, wounded students/pros re-enter within capacity, and the final path to Midoriya's punch is collectively constructed. Sero explicitly rejects AFO's proposition that tragedy is what makes people strong, preventing the finale from romanticizing suffering.
+
+The final formal proposition is `弱き強さ`: Midoriya's visible incompleteness/need creates room for other agents to stand and participate. This is not “weakness is intrinsically good.” It is a relational alternative to heroic self-sufficiency.
+
+**Current sequential state:** V01-V41 complete.
+
+**Frozen V41 boundary:** `V41:p195`.
+
+At that boundary Midoriya is shown throwing the final punch in the V41 endpoint image, but final AFO defeat, Shigaraki/Tenko survival/control, permanent Midoriya/OFA status, Kurogiri end state, postwar medical/legal outcomes and institutional reconstruction remain Volume 42 OPEN.
+
+**Next sequential operation:** `MHA_SP2_V42_DEEP_READING.md`, beginning from unresolved `V41:p195`. Do not adjudicate V42 from V41 end matter or prior publication knowledge.
+
+
+## Volume 42 major model change and sequential closure
+
+Volume 42 moves from agency without self-sufficiency toward **shared responsibility that makes ordinary selfhood possible**. The final battle defeats AFO's possession while Tomura retains his name/League relations and dies; Midoriya says his life was not saved, while All Might separately interprets heart rescue. Neither personhood nor causal explanation implies forgiveness. Endeavor accepts lifetime restitution, Natsuo keeps a separate relational boundary, Toya offers a local sibling apology, and Chisaki's apology remains directed to his boss under a demand to remember Eri.
+
+Mirio's graduation speech distinguishes repairing a negative from creating positive life; Aoyama chooses his own repair path. Hawks's reform, counseling practice, Shoji's regional work and the old woman's earlier intervention join professional expertise rather than eliminate it. Spinner's memorial preserves first-friend history while retaining adversarial intent. Midoriya loses OFA's embers, chooses teaching and later adds socially engineered armor capacity; Shoto discovers an ordinary self beyond his ideal; Ochako's care includes her own desire. The ending remains partial reform, not utopia.
+
+Canonical V42 narrative endpoint: **`V42:p183`**; chapters 423–431. `p144–145` and other identified paratext are excluded from in-world evidence, `p184+` from sequential narrative. Main-volume source sequence and canonical V01–V42 readings are complete. The separate supplemental source boundary remains provisional.
+
+The final readiness audit restores Twice's V27 `specialist_ready` row and Nighteye's V18 `strong` row, evaluates Shoji as `strong`, and normalizes final tiers to the five schema categories. Earlier historical tiers are not overwritten with ending knowledge. The V42 checkpoint routes to that maintained index and preserves both model gaps and qualified prospective tests.
+
+Residual manga-bounded uncertainties include Toya's exact off-panel death timing, Eri's full horn/Quirk medical consequences, literal Toga-vestige metaphysics, complete legal dispositions, the armor's full technical/maintenance envelope, a formal future Midoriya/Ochako relationship label and reform beyond the sampled adult period. These are boundaries for reconstruction and synthesis, not reasons to restart the sequential reread.

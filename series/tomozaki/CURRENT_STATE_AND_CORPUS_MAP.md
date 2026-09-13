@@ -11,23 +11,30 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 project_initialization:
+  status: canonical
   historical_gate_status: VIOLATED_ARCHITECTURE_MISSING_BEFORE_V01
+  historical_initialization_timing: REMEDIATED_AFTER_V11_NOT_PRESENT_AT_DAY_ONE
   remediation_status: ACTIVE
   architecture_lifecycle: EVOLVING
   governing_method: "00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md"
   method_status: canonical
-  architecture_status: canonical_evolving
+  architecture_status: canonical
+  architecture_maturity: EVOLVING
   source_reconnaissance_complete: true
-  required_day_one_infrastructure_initialized: false
+  required_day_one_infrastructure_initialized: true
+  historical_required_day_one_infrastructure_initialized: false
   historical_day_one_infrastructure: []
-  current_longitudinal_infrastructure:
+  required_day_one_infrastructure:
     - "03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md"
     - "03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md"
     - "03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md"
     - "03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md"
     - "03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md"
-  sequential_analysis_lock: CLOSED_AT_CURRENT_V11_BOUNDARY
+  sequential_analysis_lock: OPEN
+  committed_high_water_mark: V11_PLUS_ROUTED_V06_5_AND_V08_5
+  next_sequential_operation: NONE_AWAIT_NEW_ADMISSION
+  next_source_admission_gate: CLOSED
   longitudinal_reconciliation_gate: OPEN_BACKFILL_IN_PROGRESS
   specialist_synthesis_gate: CLOSED
   full_series_synthesis_gate: CLOSED
@@ -185,7 +192,7 @@ The present crisis separates capacity from reason. Hinami withdraws from spring 
 
 Kikuchi's fiction reaches Tomozaki where direct speech fails. A conditional publication opportunity for `純混血とアイスクリーム` forces her to ask why she writes and whether insight grants permission to use another person's pain. Tomozaki and Kikuchi reselect the relationship, and the peer group proposes a collective narrative project for Hinami. At the boundary the project has not been executed, Hinami has not consented to it, Mizusawa has not confessed, and no cure or return is shown. Jack's fourth-place offline tournament finish is real route evidence without closing Tomozaki's professional feasibility question. Full evidence, all thirty-six V10 claim adjudications, all twelve V11 question adjudications, forty frozen V11 claims, and the current abstentions are in `02 Sequential Readings/TOMOZAKI_V11_DEEP_READING.md`.
 
-No Tomozaki character is currently enrolled in the canonical character registry. Character discovery is maintained independently by the designated curation agent through `characters/registry.jsonl` and generated `CHARACTER_ANALYSIS_INDEX.md`. This analytical branch does not create character upsert inputs or independently edit either character output. Eligible distributed character analysis through V11 may be discovered after merge by the curation agent, provided no existing character reference is invalidated.
+Tomozaki, Hinami, and Mimimi are currently enrolled in the canonical character registry for bounded V01–V02 effort, competition, and goal-ownership coverage. Those curated records explicitly do not claim V03+ outcomes or a completed general character model. The V11 corpus now supplies dedicated provisional monographs and broader longitudinal evidence, but character discovery remains independently governed by the designated curation agent through `characters/registry.jsonl` and generated `CHARACTER_ANALYSIS_INDEX.md`. This analytical branch does not create character upsert inputs or independently edit either character output. Any V11 coverage expansion or additional Tomozaki character enrollment must be reviewed by that agent against the exact evidence tree without invalidating the existing bounded records.
 
 ## 5. Architecture
 

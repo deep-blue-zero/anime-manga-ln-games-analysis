@@ -33,7 +33,7 @@ See:
 
 ## Current analytical generation
 
-The Git WUWA root retains **bootstrap generation V0.1**, supplemented on `series/wuthering-waves` by the supplied Aemeath, Denia, and Lynae **pre-AV V0.1** character packets. All three are `active_provisional`; audiovisual analysis remains pending.
+The Git WUWA root retains **bootstrap generation V0.1**, supplemented on `series/wuthering-waves` by the supplied Aemeath, Denia, and Lynae **pre-AV V0.1** character packets. All three are `active_provisional`; audiovisual analysis remains pending. The owner has adopted all five character packets, including the later Chisa and Cartethyia rebuilds, as current `active_provisional` authority within their stated text/audio scopes; AV-dependent questions remain open.
 
 ### Cartethyia
 
@@ -41,7 +41,7 @@ Cartethyia has an imported **V0.2 active-provisional analytical baseline**:
 
 - canonical current monograph for this imported generation;
 - relationship and state ledger;
-- ordinary-life and preferences profile;
+- earlier ordinary-life and preferences profile, now archived under Cartethyia's legacy folder;
 - speech, voice, and performance profile;
 - claim/counterevidence ledger;
 - claim-revision ledger;
@@ -52,9 +52,13 @@ The imported prose/model artifacts were written against the pinned 3.6.0 semanti
 
 `04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CURRENT_STATE.md`
 
+Cartethyia also has an owner-adopted current twelve-document pre-AV rebuild under `active_provisional`. Its newer ordinary-life draft remains at `WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`. The owner-retired older profile is preserved under `04 Character Analysis/Cartethyia/90 Legacy and Superseded/`; the newer profile is current and the archived profile is noncurrent. The newer packet is the current text/audio first read; the V0.2 artifacts retain their earlier-generation scopes.
+
 ### Chisa
 
-Chisa has a mature Drive evidence bridge but no Git-side character monograph in this bootstrap. Her current source package reports 733 accepted solo occurrences, 607 semantic voice lines, 2,429 render associations, and zero human performance annotations. The Git directory contains only an authority/status router until a separate analysis operation is performed.
+Chisa now has a twelve-document **CHISA_PRE_AV_REBUILD_V0_1** current provisional packet alongside the original router. The deep dive, evidence/falsification matrix, specialist and reconstructive profiles, prior-baseline reconciliation, AV plan/crosswalk, and fidelity review use `status: active_provisional` and `do_not_use_as_current_authority: false` under the explicit owner adoption. AV completion and full audio profiling remain separate from current authority.
+
+The existing evidence bridge reports 733 accepted solo occurrences, 607 semantic voice lines, 2,429 render associations, and zero human performance annotations. The supplied rebuild reports **2,421 distinct PCM/FLAC identities** underlying those associations. The [Chisa import record](08%20Audits%20and%20Manifests/WUWA_CHISA_PRE_AV_REBUILD_IMPORT.md) records the source hash, exact preservation, and remaining evidence-review limits.
 
 `04 Character Analysis/Chisa/WUWA_CHISA_CURRENT_STATE.md`
 
@@ -94,6 +98,30 @@ Sequential story analysis is governed by:
 - `WUWA_NARRATIVE_DEEP_READING_PROTOCOL.md`
 - `WUWA_LONGITUDINAL_STORY_ANALYSIS_ARCHITECTURE.md`
 
+All five packets use the complete current-authority quartet and retain their actual modality coverage. See the [owner adoption record](08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md). Missing AV alone does not disqualify a text/audio model.
+
+## Project-initiation state
+
+The existing Git-native bootstrap already supplies the canonical analytical method, synthesis architecture, and the five longitudinal artifacts required by that architecture. This declaration records their verified present state for imported character deep readings under the current initiation policy. It does not claim completed title-wide sequential analysis, claim unperformed audio/AV review, or authorize a new source acquisition.
+
+```yaml
+project_initialization:
+  governing_method: 00 Frameworks and Methods/WUWA_ANALYTICAL_METHOD.md
+  method_status: canonical
+  synthesis_architecture: 00 Frameworks and Methods/WUWA_LONGITUDINAL_STORY_ANALYSIS_ARCHITECTURE.md
+  architecture_status: canonical
+  required_day_one_infrastructure_initialized: true
+  required_day_one_infrastructure:
+    - 03 Longitudinal Ledgers/WUWA_CHARACTER_STATE_CROSSWALK.md
+    - 03 Longitudinal Ledgers/WUWA_RELATIONSHIP_NETWORK_LEDGER.md
+    - 03 Longitudinal Ledgers/WUWA_WORLD_AND_FACTION_LEDGER.md
+    - 03 Longitudinal Ledgers/WUWA_CHRONOLOGY_LEDGER.md
+    - 03 Longitudinal Ledgers/WUWA_OPEN_QUESTIONS_LEDGER.md
+  sequential_analysis_lock: OPEN
+```
+
+`SEQUENTIAL_ANALYSIS_LOCK = OPEN` records this verified governing infrastructure. Narrative-unit work continues to require the canonical narrative deep-reading protocol, exact source scope, and its same-change closeout. The chronology and world/faction ledgers contain bounded Cartethyia findings and explicit gaps; initialization is not a claim of complete story coverage.
+
 ## Corpus architecture
 
 | Layer | Current role | State |
@@ -102,19 +130,19 @@ Sequential story analysis is governed by:
 | `01 Source Lock and Inventory` | Git-side source boundary and Drive pointers | populated, canonical V0.1 |
 | `02 Sequential Readings` | Quest/arc/event deep readings | contract present; no readings yet |
 | `03 Longitudinal Ledgers` | Cross-reading state, relationship, chronology, world, and uncertainty infrastructure | initialized, active provisional |
-| `04 Character Analysis` | Character syntheses, reconstruction profiles, models, and audits | Cartethyia populated; Aemeath/Denia/Lynae pre-AV packets active_provisional; Chisa routed |
+| `04 Character Analysis` | Character syntheses, reconstruction profiles, models, and audits | Cartethyia populated; Aemeath/Denia/Lynae pre-AV packets active_provisional; Chisa pre-AV packet current provisional |
 | `05 Specialist Synthesis` | Recurring thematic/institutional/media questions | not instantiated until justified |
 | `06 Full-Series Synthesis` | Release-bounded title-level synthesis | not instantiated; live-service title incomplete |
 | `07 Evidence and Indexes` | Character discovery, claim routing, Drive/Git crosswalk | populated, canonical/active |
 | `08 Audits and Manifests` | Bootstrap, corpus, authority, and analytical audit records | populated |
-| `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no current legacy artifact |
+| `90 Legacy and Superseded` | Materially distinct retired analysis | instantiated within Cartethyia for the owner-retired older ordinary-life profile |
 
 The absence of an empty directory is intentional. Git does not need symmetry-only folders.
 
 ## Current analytical priorities
 
 1. Maintain the merged bootstrap's routing and integrity metadata as the corpus evolves.
-2. Continue the Lynae inaugural reconstruction from its imported pre-AV baseline and canonical Drive package; complete the pending AV evidence pass for all three imported packets.
+2. Continue the Lynae inaugural reconstruction from its imported pre-AV baseline and canonical Drive package; complete the pending AV evidence pass for those three imported packets and harden the current Chisa packet while preserving its declared evidence limits.
 3. Generate comprehensive machine voice analysis across all usable Lynae audio before selecting a bounded human-review cohort.
 4. Harden the supplied character artifacts only as their evidence warrants, preserving active_provisional status while audiovisual analysis is pending.
 5. Update the character index, claim index, longitudinal ledgers, and current-state map in the same change.

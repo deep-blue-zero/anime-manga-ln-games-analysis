@@ -6,12 +6,19 @@ scope: LYNAE_SOURCE_3_6_0_AV_PHASE_8
 source_boundary: "Pinned Wuthering Waves 3.6.0 semantic evidence plus future bounded official audiovisual witnesses"
 generation: V0.1-pre-av
 status: active_provisional
-authority_state: local_working_draft_not_promoted
+authority_state: owner_adopted_current_provisional
 governing_protocol: WUWA_CHARACTER_RECONSTRUCTION_PROTOCOL.md V0.2
 av_state: hierarchy_and_nomination_planned_media_not_yet_collected
 created: 2026-09-02
-do_not_use_as_current_git_authority: true
+do_not_use_as_current_git_authority: false
+release_state: current_provisional_pre_av
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_adoption: owner_2026_09_09_text_audio_baseline
 ---
+
+> **Current authority — owner adoption, 2026-09-09.** This document is current `active_provisional` authority for its declared analytical or planning scope and inspected text/audio evidence. AV and other stated gaps limit the corresponding claims, not the entire model. Original local-draft and future-publication statements below describe preparation history. Coverage and completion claims remain as recorded; plans and probes are not observations. See the [adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md).
 
 # Lynae audiovisual evidence hierarchy and nomination plan
 

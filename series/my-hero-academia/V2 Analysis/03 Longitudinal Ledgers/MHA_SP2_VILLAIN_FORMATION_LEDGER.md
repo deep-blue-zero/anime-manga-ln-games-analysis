@@ -4,7 +4,7 @@ artifact_type: ledger
 scope: VILLAIN_FORMATION
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 40
+source_boundary: Japanese manga V2 reread; currently through Volume 42
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1892,3 +1892,70 @@ AFO's explicit friend-language toward Garaki demonstrates that malignant systems
 
 - `先生…邪魔するなよ` and the post-death `俺を強くしてくれた` establish differentiated causal inheritance.
 - AFO is simultaneously manipulator, trainer and failed owner. Shigaraki's `再興の芽も残さない` destruction aim remains his own current project at the V40 boundary.
+
+# Volume 41 villain-formation updates
+
+## AFO's direct engineering becomes foundational fact
+
+**Transition:** `MAJOR REVISION / STRONGLY STRENGTHEN DIRECT-MANIPULATION CAUSATION`.
+
+Chapter 419 establishes that AFO did much more than opportunistically adopt an already-formed damaged child:
+
+- `V41:p132-133`: OFA theft required a will/hatred capable of overwhelming the predecessors; hatred cultivation was a deliberate design objective.
+- `V41:p132`: Tenko needed to experience the path as chosen; AFO links the belief of having chosen to the production of willpower; the covert environmental method is specified on p133-135.
+- `V41:p133-134`: AFO subtly manipulates/exploits the existing Shimura family wound rather than needing to invent the wound from nothing.
+- `V41:p134-135`: removes Tenko's still-unmanifest inherited factor and gives an engineered destructive copy stripped of reversibility.
+
+## `全部だ` must not replace one monocausal model with another
+
+AFO's `全部だ!!!` is partly supported by specific revealed interventions and partly a totalizing interpretation. The ledger's longstanding anti-monocausal rule remains necessary.
+
+### Current segmented causal model for Shigaraki
+
+`Nana separation / inherited family wound`
+→ `Kotaro's own abusive conduct, amplified/exploited by AFO`
+→ `AFO removal/replacement of Tenko's Quirk inheritance`
+→ `engineered destructive catastrophe`
+→ `social/bystander failure around the abandoned child`
+→ `AFO grooming, naming and hatred cultivation`
+→ `later encounters/learning`
+→ `League reciprocal bonds and leadership`
+→ `adult chosen harms/destruction`.
+
+No single arrow erases the others.
+
+## Subjective choice can be manipulated without becoming meaningless
+
+V41 creates a harder agency rule:
+
+- subjective experience of “I chose” is not proof that developmental conditions were unmanipulated;
+- proof of manipulated developmental conditions is not proof that every later adult choice was remote-authored.
+
+Agency must be assigned at the act/state level.
+
+## Shigaraki's League identity remains counterevidence to total authorship
+
+- `V41:p116-123`: `僕が…選んだんだ`, `僕の意志で`, and the `敵の…ヒーロー` formulation show adult relation/value claims AFO's causal boast cannot simply delete from the record.
+
+## Current synthesis through V41
+
+> **Villain formation in MHA is now explicitly vulnerable to predatory design: AFO can exploit real wounds, alter biological affordances, engineer catastrophe and scaffold experienced choice. But this makes causal analysis more granular, not less. The same life can contain imposed conditions, manipulated interpretation, independent relationships and accountable adult choices.**
+
+
+# Volume 42 cumulative closure
+
+## Final causality remains plural and chronology-dependent
+
+The V41 revelations increase AFO's responsibility for Tenko's conditions; V42's terminal Tomura, Spinner's memories and another endangered child do not erase family abuse, bystander omission, stigma, grooming, belonging or later choices (`V42:p018-020,p075-081,p107-123`). Keep cause, current control and accountability as different questions. Heteromorph stigma is especially evidenced through Spinner/Shoji, not silently assigned as Tenko's identical biography.
+
+## Memorial testimony is evidence with a perspective
+
+`V42:p071-081` juxtaposes victims/public commentators with Spinner's first-friend/gaming memory and self-critique. His writing project includes an adversarial vow to confront heroes with Tomura's terror symbol. It preserves excluded relational history without becoming neutral history, pacifism or narrator endorsement of destruction. Midoriya's lifelong-memory promise answers erasure without endorsing all of Spinner's claims.
+
+## Prevention interrupts a pathway without proving a counterfactual
+
+`V42:p107-123` shows the new child's abusive confinement and a later civilian hand before escalation. The child is not diagnosed as an inevitable future Shigaraki. The changed early response is textual fact; lasting prevention is a supported direction with limited follow-up. Counseling practice and regional anti-discrimination work (`p132-133,p149-153`) provide institutional complements.
+
+## Unequal endpoints resist one redemption theory
+
+Tomura dies with adult identity retained; Toga's death is mourned; Toya offers a local sibling apology while terminal; Chisaki apologizes to his boss under a demand to remember Eri; Gentle/La Brava are released after recognized contribution; Nagant delays offered release pending trust (`p056-083,p114,p155`). These do not fit either universal irredeemability or universal rehabilitation. No legal disposition or inner conversion is inferred beyond the shown case.
