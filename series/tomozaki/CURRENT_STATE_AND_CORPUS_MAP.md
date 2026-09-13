@@ -329,6 +329,8 @@ Do not use side-story evidence retroactively to rewrite earlier predictions.
 
 ## 8. Work order
 
+The current identification-only handoff is the [analytical document spine and remaining-work inventory](08%20Audits%20and%20Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md). It identifies the existing owners to reconcile, the missing voice/source-verification layer, and later literary dependencies. The owner has reserved character-monograph and synthesis revision for a separate chat session. This handoff does not change the readiness gates below or certify analytical remediation as complete.
+
 Current remediation order:
 
 1. reconcile the four authored remediation ledgers with the pre-existing effort ledger and current map;
