@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: remediation_execution_inventory
 source_boundary: "Locked Japanese V01–V11 plus story-local V06.5/V08.5; no later source admitted"
-generation: V2.2
+generation: V2.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -16,9 +16,9 @@ execution_reasoning_control: Max
 
 ## 0. Current task boundary
 
-The owner's latest instruction limits this tranche to **identifying the analytical documents that need creation or revision**. Character monographs and all synthesis documents are reserved for a separate chat session. This inventory does not execute their remediation, promote their maturity, open a drafting gate, or authorize additional source admission. The earlier execution proposal below is now a dependency inventory, not an instruction to continue drafting in this session.
+The owner first limited this work to identifying the analytical spine, then expressly authorized **R01–R03 and their upstream publication**. Those three tasks are now complete under the [longitudinal reconciliation audit](TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md). Character monographs and literary synthesis remain reserved for a separate session. This tranche does not execute R04–R11, complete R12’s literary release responsibility, or admit new source material.
 
-The maintained path of this inventory is retained for continuity. Its current authority is limited to work identification and handoff; the architecture and corpus map continue to govern analytical responsibility and readiness. Source checks already performed during preparation supply a bounded correction queue in §4; the absence of a completed locator artifact remains a real gap.
+This inventory retains the original remaining-work identities and baseline deficiencies for continuity. The architecture and corpus map govern responsibility/readiness; the new audits record the actual R01–R03 source checks, correction propagation and bounded PASS. Sections 2–4 preserve the earlier dependency assessment, while §6 supplies current execution status.
 
 ## 1. Audited resumption baseline
 
@@ -28,7 +28,7 @@ The controlling [architecture](../00%20Frameworks%20and%20Methods/TOMOZAKI_SYNTH
 
 The inspected root contains thirteen completed source-facing readings, five existing substantive ledgers, seven provisional character files, one provisional full-series file, method/architecture/source controls, and three historical audit/manifest files. No relationship or thematic specialist directory exists at baseline. Directory and filename counts are discovery evidence only; the role decisions below follow the documents' actual responsibilities and evidence routes.
 
-## 2. Exact remaining dependency inventory
+## 2. Dependency inventory at identification; current status in §6
 
 | ID | Required work | Existing evidence and deficiency | Completion test |
 |---|---|---|---|
@@ -47,7 +47,7 @@ The inspected root contains thirteen completed source-facing readings, five exis
 
 ## 3. The document spine to create or revise
 
-All paths in this section are relative to `series/tomozaki/`. Existing filenames are authoritative identities; filenames marked **proposed** identify uncreated future products and may change without changing their responsibilities.
+All paths in this section are relative to `series/tomozaki/`. Existing filenames are authoritative identities. The three verification-layer paths in §3.3, originally marked **proposed**, are now authored and reviewed. Other proposed downstream products remain future work; their filenames may change without changing their responsibilities.
 
 ### 3.1 Preserve the completed foundation
 
@@ -104,7 +104,7 @@ The proposed eleven-file specialist grouping consists of three primary dyads, on
 
 Nakamura, Konno, Akiyama, Takei, Haruka, Nagisa, Yoko, Rena, and Ashigaru receive evidence-proportionate specialist/ensemble treatment. Their sparse or focalized interior evidence does not justify invented full biographies. Professional institutions, gendered performance, and ordinary life remain distributed within the required domains; no additional specialist is needed merely for symmetry. Adaptations and V12+ remain outside admission. Derived reconstruction models remain optional and deferred; they are not prerequisites for literary release and cannot repair missing literary authority.
 
-## 4. Verified correction queue for later reconciliation
+## 4. Initial correction queue; disposition now in the reconciliation audit
 
 This section records issues discovered during preparation; it does **not** silently correct a frozen reading or certify a completed source audit. The primary checks below used the locked local EPUBs read-only. `P` means one-based order of all HTML `p` elements within the named package item, including empty/image paragraphs, counted before ruby annotations are removed for display. These are reproducible package-relative markers, not printed page numbers or vendor EPUB locations. Witness authority remains the source lock.
 
@@ -119,25 +119,34 @@ This section records issues discovered during preparation; it does **not** silen
 | Mimimi's future emotional freedom | V07 deep reading §12 and the relationship ledger's response chronology; ESC-07 is the required primary-language route. | Do not convert freedom of future feeling into a specified waiting period or terminal stopping policy. Complete source-locator review before closing ESC-07. |
 | Individual game versus set victory | V06 deep reading §4 and V11 §4.8 separate an individual win from the later 3–2 set victory. | V11 challenges Tomozaki's claimed unique credential; it is not Hinami's first individual-game win. Align effort, character, and relationship owners. |
 
-The first five rows are targeted primary verification findings, not a completed twelve-queue audit. The final three retain their existing L1 reading routes and still need whatever L2/L3 verification their downstream use requires. Additional questions remain in the claim index; this table does not replace that full queue.
+At identification, the first five rows were primary verification findings and the last three retained L1 routes. The completed [source-locator audit](TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md) now records all twelve retrieval queues; the [reconciliation audit](TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) records these and additional corrections, including teacher-question counterevidence, scoped refusal, current effort dispositions and voice recipients. Those receipts govern current use. This original queue is preserved as provenance.
 
 ## 5. Preservation, ownership, and tranche manifest
 
 All author-created and author-modified analytical paths remain inside the existing Tomozaki analytical root. Source witnesses are read-only. Scratch stays in the analysis checkout and is never staged. The preserved thirteen readings, sequential README, source lock, bootstrap manifest, and immutable historical audits remain unchanged. The effort spine is not regenerated or shortened; any discovered correction must be a clearly dated downstream reconciliation, with a targeted spine correction only if actually required.
 
-All delegated drafting was stopped when the owner narrowed the task. Character-agent preparation was read-only; no monograph draft was written. Later-session assignments must establish exclusive file ownership again and independently validate returned work. No prior draft assignment remains an instruction to continue this session.
+All literary drafting was stopped when the owner narrowed the task; no monograph draft was written. The later R01–R03 authorization used exclusive ownership for the character-state ledger, relationship-state ledger, and paired source-locator/voice artifacts, followed by independent parent review. Separate read-only review checked the effort/social changes and the longitudinal audit. No literary draft assignment carries forward automatically.
 
-The exact authored staging allowlist for this identification tranche is:
+The historical authored staging allowlist for the completed identification tranche was:
 
 1. `series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md` — new inventory and handoff only.
 2. `series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md` — a targeted link and task-boundary notice; no readiness promotion or substantive literary correction.
 
 No global character-registry/index or housekeeping-owned output is assigned to this author. Existing curated Tomozaki records point to the preserved effort spine; new discovery may lag under repository policy.
 
-## 6. Handoff status and acceptance criteria
+## 6. Current execution receipt and handoff
 
-**Identification complete; analytical implementation deferred.** R01–R03 remain unfinished, with targeted findings recorded above. R04–R11 remain future literary work, and R12 remains the eventual remediation-release responsibility. Publishing this inventory does not complete R12's literary release gate. The corpus map's existing longitudinal OPEN and specialist/full-series CLOSED states remain unchanged.
+R01–R03 began at `c20fa4359e34d549da3514a6106cda1756c1a962`; the initial fetch found `origin/series/tomozaki` at that same commit and `origin/main` unchanged at `b331a3b746622760db394ac1a79367263236336f`.
 
-The next analytical implementation is the six-owner reconciliation and source-verification layer in §§3.2–3.3. The separate literary session must read the actual artifacts and successful reconciliation result before monograph or specialist drafting. Each maturity claim requires scope, evidence, source-boundary, chronology, attribution, counterevidence, links, and architectural-role review; file existence is never a passing result.
+| Task | Current status and acceptance evidence |
+|---|---|
+| R01 | **PASS.** Five existing owners reconciled with the new voice input; all 29 EFFORT, 30 CS, 16 REL, 22 SOC, 36 CRI claim-family and 15 CRI question-family identities preserved and reviewed. Current corrections and OPENs propagate through the six-owner spine. |
+| R02 | **PASS.** ESC-01–ESC-12 have exact locked witnesses, member/paragraph routes, diagnostic wording, attributed adjudication and independent context review; 49 locator records and 92 paragraph-specific diagnostics verified. Story uncertainty is not discharged. |
+| R03 | **PASS at declared scope.** Twenty-four JVL rows cover seven principals through state, recipient, layer and exact-source controls. No complete habitual voice model is claimed. |
+| R04–R09 | **DEFERRED to the reserved literary session.** Major-character inputs are ready, but the seven character candidates remain provisional, role adjudication remains required, and relationship/thematic specialists remain unfinished. |
+| R10–R11 | **CLOSED.** Cross-specialist convergence and full-series revision depend on the deferred literary work. |
+| R12 | **PARTIAL SUPPORT ONLY.** This tranche updates current routing, records its path/preservation manifest, and requires repository publication checks. It does not complete the future whole-corpus literary validation/release responsibility. |
 
-This tranche is accepted only when the exact two-path diff is reviewed, source-facing and character/synthesis files are unchanged, applicable stable-branch validators pass, and the normal source-audit → housekeeping → exact-head integration-audit publication sequence is green. Repository CI demonstrates repository validity; it does not complete the deferred analytical work.
+Current completion evidence is the [longitudinal reconciliation audit](TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md), [targeted source-locator audit](TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md), and [voice ledger](../03%20Longitudinal%20Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md). The exact authored allowlist and baseline preservation hashes for this execution are in [TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json](TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json); the earlier two-path allowlist in §5 is historical.
+
+Acceptance requires independent semantic review, verified correction propagation, preserved source-facing and literary candidates, valid links/routing, applicable staged-tree validators, normal push, successful source audit, completed housekeeping and successful exact-head integration status. Publication checks remain separate from the analytical PASS; CI cannot promote the deferred literary roles. The later session must read the successful reconciliation and actual cumulative evidence before writing any monograph or synthesis.

@@ -4,7 +4,7 @@ artifact_type: synthesis_corpus_architecture
 scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
 analytical_generation: V2_REMEDIATION
-architecture_version: "1.1"
+architecture_version: "1.2"
 architecture_lifecycle: EVOLVING
 status: canonical
 release_state: mutable_active
@@ -15,7 +15,9 @@ canonical_entrypoint: "../CURRENT_STATE_AND_CORPUS_MAP.md"
 governing_method: "TOMOZAKI_ANALYTICAL_METHOD.md"
 historical_initialization_state: ARCHITECTURE_GATE_VIOLATED_BEFORE_V01
 sequential_completion_gate: PASS_AT_V11_BOUNDARY
-longitudinal_reconciliation_gate: OPEN_BACKFILL_IN_PROGRESS
+longitudinal_reconciliation_gate: PASS_AT_V11_BOUNDARY
+major_character_input_readiness: READY
+specialist_input_readiness: READY_PENDING_SCOPE_ADJUDICATION
 specialist_synthesis_gate: CLOSED
 full_series_synthesis_gate: CLOSED
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
@@ -37,7 +39,7 @@ Its responsibility is distinct from the companion analytical method:
 - this architecture governs where accumulated knowledge goes, which artifacts may become mature authority, and in what order those artifacts are built and validated;
 - `../CURRENT_STATE_AND_CORPUS_MAP.md` is the mutable entrypoint and current-state router. It does not substitute for either the method or this architecture.
 
-The current architecture lifecycle is `EVOLVING`. Sequential reading has already reached the V11 boundary, but the cumulative and specialist layers are undergoing owner-directed remediation. `EVOLVING` is not a downgrade of the completed readings. It is the truthful state of a newly established architecture whose required downstream responsibilities are not yet reconciled.
+The current architecture lifecycle is `EVOLVING`. Sequential reading and the six-owner longitudinal reconciliation have passed at the V11 boundary. Major-character inputs are ready; later role adjudication, character/relationship/thematic maturity and cross-specialist convergence remain unfinished. The owner has reserved that literary work for a separate session. The [R01–R03 reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) supplies the current cumulative gate decision; it does not promote the preserved literary candidates.
 
 ### 1.1 Authority and governing policy
 
@@ -45,7 +47,7 @@ This architecture is canonical within `series/tomozaki/` and is subordinate to l
 
 - `governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`;
 - `governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md`;
-- `governance/policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md`;
+- `governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md`;
 - `governance/policies/CHANGE_INTEGRATION_CHECKLIST.md`;
 - `governance/policies/BRANCH_LIFECYCLE.md`;
 - the live authority state and scope files.
@@ -195,11 +197,11 @@ The completed readings demonstrate independent retrieval burdens for the followi
 | Effort, competition, rank, goal origin/ownership, stopping rules, comparative self-worth, capacity governance | `../03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md` | current through V11 | Already mature and deliberately narrow; its claim history should not be diluted into general character summary. |
 | Developmental character state | `../03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md` | canonical mutable backfill through V11 | At least seven evidence-rich figures change across many volumes and contexts; terminal monographs cannot preserve all earlier state transitions. |
 | Directional relationship and network state | `../03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md` | canonical mutable backfill through V11 | Trust, disclosure, leverage, consent, repair, third-party effects, and option structures have dyadic histories not owned by either individual. |
-| Major-claim revision and evidence routing | `../03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md` | canonical mutable L1 crosswalk through V11; twelve L2/L3 queues open | The 319 claim IDs and 140 question IDs now have an auditable promoted/local partition, while load-bearing lineages have current dispositions and deterministic reading routes. |
+| Major-claim revision and evidence routing | `../03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md` | canonical mutable crosswalk through V11; all twelve defined L2/L3 queues have reviewed retrieval PASS | The 319 claim IDs and 140 question IDs now have an auditable promoted/local partition, while load-bearing lineages have current dispositions and deterministic reading routes. |
 | Social atmosphere, group systems, status enforcement, punishment, and repair | `../03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md` | canonical mutable backfill through V11 | `空気`, conformity, reputation, informal sanctions, facilitation, and group option structures recur independently across school, election, bullying, festival, and later peer intervention. |
-| Japanese voice, register, address, and load-bearing conceptual terms | `../03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md` | required but source-escalation-dependent | The readings preserve many key lexemes, but mature character-specific register and translation-sensitive claims need selective return to exact Japanese passages rather than invention from summaries. |
+| Japanese voice, register, address, and load-bearing conceptual terms | `../03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md` | canonical mutable selective attested ledger through V11; 24 JVL records, independently reviewed | The readings preserve many key lexemes, but mature character-specific register and translation-sensitive claims need selective return to exact Japanese passages rather than invention from summaries. |
 
-Character state, relationship state, claim/evidence lineage at L1, and social/group-system state form the first completed remediation backfill. The existing readings preserved enough evidence to establish those layers without reopening the EPUBs. Japanese voice/register and the twelve high-risk L2/L3 locator queues remain the targeted source-escalation boundary.
+The first backfills were reconstructed from the preserved readings. R01–R03 then reconciled all six cumulative owners, discharged the twelve defined Japanese-source retrieval queues, and added the bounded voice/register ledger. The [source-locator audit](../08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md) records exact witness/member/paragraph evidence; the [longitudinal audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) records propagation, counterevidence, preserved identities and remaining OPENs. Future language-dependent claims may require additional targeted retrieval.
 
 ### 6.2 Responsibilities that remain local or distributed
 
@@ -389,7 +391,7 @@ Artifact supersession is separate from claim revision. A successor names what it
 
 ### 11.3 Current pre-remediation artifacts
 
-The existing V11 full-series synthesis is a provisional integration candidate produced before the mandatory cumulative and specialist dependencies existed. The former V11 validation audit remains a frozen record of what that tranche checked, but a new architecture/role-gap audit becomes current for architecture-readiness questions. The old audit's source-coverage results remain useful; its claim that architecture gaps were closed does not govern the remediation generation.
+The existing V11 full-series synthesis is a provisional integration candidate produced before the mandatory cumulative and specialist dependencies existed. The former V11 validation audit remains a frozen record of what that tranche checked, but the architecture/role-gap audit governs the remaining literary-role deficits, while the newer longitudinal audit governs the completed R01–R03 input scope. The old audit's source-coverage results remain useful; its claim that architecture gaps were closed does not govern the remediation generation.
 
 ## 12. Dependency graph and execution order
 
@@ -446,8 +448,8 @@ The current full-series synthesis gate is closed. Existing prose may be read as 
 |---|---|---|
 | Sequential-source completion | Every admitted witness has correct source routing, source-facing analysis, adjudication, and bounded freeze. | **PASS at V11 plus routed V06.5/V08.5** |
 | Architecture establishment | Canonical architecture satisfies all Minimum Semantic Contract responsibilities and a role-gap audit tests the actual corpus. | **PASS at design/audit level; lifecycle remains EVOLVING** |
-| Longitudinal reconciliation | Every mandatory cumulative home is backfilled through V11; overlaps and contradictions are reconciled; material claims have usable evidence routes. | **OPEN** |
-| Specialist readiness | Required ledger inputs are stable enough to support literary drafting; promotion scopes are explicit; unresolved states are preserved. | **CLOSED** |
+| Longitudinal reconciliation | Every mandatory cumulative home is backfilled through V11; overlaps and contradictions are reconciled; material claims have usable evidence routes. | **PASS through V11; six-owner convergence and targeted retrieval independently reviewed** |
+| Specialist readiness | Required ledger inputs are stable enough to support literary drafting; promotion scopes are explicit; unresolved states are preserved. | **INPUTS READY; gate remains CLOSED pending remaining role/scope adjudication and ordered literary work. Major-character drafting may begin in the reserved session.** |
 | Specialist completion | Required major characters, relationships, and thematic problems pass their semantic contracts and adversarial checks. | **NOT STARTED as mature layer; current monographs are candidates** |
 | Cross-specialist convergence | Shared terms, time states, claims, and relationship facts agree or record explicit unresolved conflicts. | **CLOSED** |
 | Full-series synthesis readiness | Longitudinal and specialist gates pass; a convergence audit authorizes integrated drafting. | **CLOSED** |
@@ -543,19 +545,19 @@ Promotion from `EVOLVING` to `STABILIZED` requires:
 | Analytical dimension | Sequential capture | Canonical cumulative home | Mature destination | Remediation state |
 |---|---|---|---|---|
 | Witness identity, package, chronology | yes | source lock + source-facing reading | audit/provenance | satisfied |
-| Prospective questions, predictions, falsifiers | yes | frozen source-facing reading; material crosswalk in claim index | relevant specialist | satisfied locally; crosswalk pending |
-| Character developmental state | yes | character-state ledger | monograph + relationships + final synthesis | backfilled through V11; reconciliation current |
-| Directional relationship/network state | yes | relationship-state ledger | relationship/ensemble specialists | backfilled through V11; reconciliation current |
+| Prospective questions, predictions, falsifiers | yes | frozen source-facing reading; material crosswalk in claim index | relevant specialist | satisfied locally; crosswalk and defined retrieval queues reconciled |
+| Character developmental state | yes | character-state ledger | monograph + relationships + final synthesis | backfilled through V11; reconciliation PASS |
+| Directional relationship/network state | yes | relationship-state ledger | relationship/ensemble specialists | backfilled through V11; reconciliation PASS |
 | Effort, competition, rank, goal ownership | yes | existing effort/competition ledger | effort specialist + character studies | current through V11 |
 | Major claims and revision history | yes | claim-revision/evidence index | all mature synthesis | L1 crosswalk backfilled through V11 |
-| Source locators | uneven but substantial | claim-revision/evidence index; source readings | audit + mature synthesis | L1 current; twelve targeted L2/L3 queues open |
+| Source locators | uneven but substantial | claim-revision/evidence index; source readings | audit + mature synthesis | L1 current; all twelve defined L2/L3 queues reviewed PASS |
 | Social atmosphere, reputation, punishment, repair | yes across several volumes | social-atmosphere/group-systems ledger | social-system specialist | backfilled through V11; specialist pending |
 | Technique, learned form, authenticity, authorship | yes | character/relationship ledgers + claim index | game/form/self-authorship specialist | distributed; specialist pending |
 | Causality, result, reason, meaning | yes, especially V08.5–V11 | claim index + character/relationship ledgers | control/causality/meaning specialist | distributed; specialist pending |
-| Romance, privacy, disclosure, consent, intervention | yes | relationship ledger + claim index | three relationship specialists + ethics specialist | backfill pending |
+| Romance, privacy, disclosure, consent, intervention | yes | relationship ledger + claim index | three relationship specialists + ethics specialist | cumulative inputs reconciled; specialists pending |
 | Fiction, observation, personhood, publication | yes | character ledger + claim index | Kikuchi monograph + authorship specialist | distributed; specialist pending |
-| Japanese key terms | intermittent | voice/register/key-terms ledger | all language-sensitive specialists | partial; source escalation required |
-| Character-specific voice, address, register | intermittent | voice/register/key-terms ledger | monographs + later reconstruction models | too thin; targeted source checks required |
+| Japanese key terms | intermittent | voice/register/key-terms ledger | all language-sensitive specialists | bounded attested ledger and key-term routes reviewed |
+| Character-specific voice, address, register | intermittent | voice/register/key-terms ledger | monographs + later reconstruction models | selective state/recipient samples reviewed; no complete habitual model claimed |
 | Ordinary-life preferences and habits | local as relevant | character/relationship ledgers | monographs; later models | no separate ledger yet |
 | Professional play, school, work, future | yes | effort/goal ledger | Tomozaki monograph; possible future-path specialist | substantially routed |
 | Visual/paratext evidence | diagnostic only | source reading/source lock | local specialist claim if needed | intentionally local/distributed |
@@ -570,13 +572,20 @@ Start with `../CURRENT_STATE_AND_CORPUS_MAP.md`. Before changing project state, 
 1. this architecture;
 2. `TOMOZAKI_ANALYTICAL_METHOD.md`;
 3. the source lock;
-4. the current architecture/role-gap audit;
+4. the architecture/role-gap audit for remaining literary deficits, plus the current longitudinal and targeted source-locator audits for R01–R03;
 5. the ledger(s), monograph(s), specialist(s), and source-facing reading(s) governing the requested responsibility;
 6. live repository governance and working-tree state before any mutation or integration step.
 
 The corpus map must always expose the exact completed source boundary, architecture lifecycle, current ledgers, mature versus provisional character/specialist status, open synthesis gate, and next required operation.
 
 ## 20. Revision history
+
+### v1.2 — 2026-09-13 — R01–R03 cumulative reconciliation
+
+- Recorded independently reviewed convergence of the six required cumulative owners, preserving all existing IDs and historical readings.
+- Recorded twelve completed targeted source-retrieval queues and the attested Japanese voice/register/key-terms home.
+- Marked longitudinal reconciliation PASS and major-character inputs READY; left specialist scope/completion, cross-specialist convergence and full-series gates unpassed.
+- Updated routing and the archive-policy path only; retained every literary role contract and the owner’s separate-session reservation.
 
 ### v1.1 — 2026-09-13 — first cumulative backfill instantiated
 
