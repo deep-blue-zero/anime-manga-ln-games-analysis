@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Locked Japanese V01–V11 plus story-local V06.5/V08.5; exact-source samples are selective and edition-bound"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.1
+generation: V1.2
 status: canonical
 release_state: mutable_active
 created: "2026-09-13"
@@ -90,6 +90,14 @@ Direct primary context, DR01 §9, SR08.5 §8.1 and DR06 §4 supply these additio
 | JVL-15 | V11 creative-reason inquiry and renewed plan; speech to Tomozaki | `理由がない`; `私だけの理由` — LOC-10B/D | Kikuchi states the missing further reason and distinguishes the reason received from Tomozaki from the one she still wants to find. **OPEN:** she has not completed self-authored vocational justification merely by agreeing to write again. |
 
 These samples establish neither that Kikuchi is uniformly timid nor that she becomes uniformly direct. V07's request is made by Tomozaki and accepted through a shared interpretive vocabulary; V09 makes her selection explicit. V11 shows that precise, polite interpretation can wound a recipient and that a stammering refusal can protect an interest. The relevant variables are the proposition, access, answer space, and effect, not a ranking of soft speech below blunt speech. Ordinary written self-presentation has an independent place in that development; it must not be recast as spoken dialogue.
+
+### 5.1 R05 earlier agency and recipient variation — 2026-09-13
+
+**JVL-12 — STRENGTHEN chronology, not a new voice identity.** V07 `OEBPS/Text/part0020.xhtml` P413–432 includes Kikuchi’s author-perspective self-account and polite rejection of Fumiya’s vocabulary at P427. V08 `text/part0013.html` P55–65 includes `私がそう思うんです` (P62): she claims her own evaluation of his importance. These precede V09’s explicitly choosing position. Polite grammar can already carry disagreement and desire; neither sample certifies the truth of every proposition she utters. DR07 §10, DR08 §4.1 and KF-P09/21 supply the routes.
+
+**JVL-12/15 — STRENGTHEN recipient and medium contrast.** V06.5 `OEBPS/Text/part0018.xhtml` P199–265 shows animated retelling with Goda before Fumiya’s influence. V08.5 `text/part0035.html` P1–16 and `part0037.html` P27–38 show shorter familiar speech at home, within a Kikuchi-focalized New Year’s Eve unit before V08. This is a comparison of attested contexts, not a frequency census or universal address rule. The diary images remain private writing, and the script’s character voices remain authored fiction.
+
+**JVL-13/15 — PRESERVE force and attribution.** Haruka asks for Kikuchi’s view and stops Tomozaki’s attempted interruption before the tears (V11 `item/xhtml/p-0023.xhtml` P188–276). This recipient participation does not itself establish informed anticipation, Hinami’s permission or harmlessness. Kikuchi’s earlier responsibility questions at V08.5 `text/part0037.html` P22–26 contextualize the later reason inquiry; they do not make it resolved. See CS §8.6, EFFORT §78.5 and the [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md). Original JVL-01–24 rows and Hinami §4.1 remain unchanged.
 
 ## 6. Nanami Minami / Mimimi — joking disclosure, costly restraint, and differentiated confidence
 
@@ -178,3 +186,5 @@ For a later admitted source or new language-dependent claim:
 No reconstruction/simulation model is created by this ledger. No speech style is a lie detector, no exact quotation is evidence beyond its scene, and no current boundary becomes a completed character arc merely because the ledger has reached V11.
 
 V1.1 adds independently checked R04 Hinami context under the existing JVL-06/09 responsibilities (§4.1). The original twenty-four rows, conceptual tables, source-locator audit and R01–R03 receipts are preserved.
+
+V1.2 adds reviewed Kikuchi R05 context in §5.1 under existing JVL-12/13/15 responsibilities. The original twenty-four rows and earlier receipts remain preserved; no complete speech model follows.

@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: longitudinal_ledger
 scope: EFFORT_COMPETITION_GOAL_OWNERSHIP_COMPARATIVE_SELF_WORTH
-generation: V1.4
+generation: V1.5
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -2179,3 +2179,11 @@ This v1.4 addition refines existing EFFORT families through independently review
 - **H15 / H19 / H20 — material practice and stopping:** V08.5 `text/part0013.html` P240–265 depicts results/graphs and goals in Excel/Word; `text/part0015.html` P90–105 depicts difficulty closing the failed team goal. The concrete historical practice does not establish a fixed V11 routine, and list completion cannot itself determine when proof is sufficient.
 
 These strengthen the existing SR06.5 §7 and SR08.5 §8 routes. They do not supply Nagisa’s intent, a general affirmative future end, or consent to the proposed party.
+
+### 78.5 R05 Kikuchi motive and responsibility precision — 2026-09-13
+
+**EFFORT-H06/H12/H23 — STRENGTHEN earlier concern; preserve unfinished justification.** SR08.5 §11.2’s New Year’s Eve occurs before V08. In `text/part0037.html` P22–26, Kikuchi already asks whether interpreting Hinami and investigating her circumstances was right and whether she had prepared for the responsibility. Her annotated script is a treasured record of shared work (`text/part0035.html` P15–16), while the V08 prize aspiration is explicitly a test of ability (`text/part0013.html` P37–50). These are distinct represented thoughts, preferences and aspirations, not evidence of a completed permission practice.
+
+V11 `item/xhtml/p-0025.xhtml` P118–146 makes the later problem precise: she acknowledges hurting Haruka for creative inquiry and retains liking while lacking a further reason for prioritizing writing over another person’s feelings. V11 therefore intensifies an earlier recognized responsibility; it does not introduce conscience or erase enjoyment and ambition. Haruka’s own invitations and request not to interrupt (`p-0023.xhtml` P188, P243–252) qualify the process without supplying Hinami’s permission or licensing publication. The later received reason and her search for her own remain separate at `p-0033.xhtml` P602–611.
+
+The [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) records primary verification; KF-P18–21/29–30/34 are local monograph routes. All twenty-nine EFFORT identities, prior crosswalk dispositions, Fumiya §31.5 and Hinami §78.4 are preserved. Completion, contract, sustainable career, subject consent and project results remain OPEN.

@@ -4,7 +4,7 @@ artifact_type: synthesis_corpus_architecture
 scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
 analytical_generation: V2_REMEDIATION
-architecture_version: "1.4"
+architecture_version: "1.5"
 architecture_lifecycle: EVOLVING
 status: canonical
 release_state: mutable_active
@@ -39,7 +39,7 @@ Its responsibility is distinct from the companion analytical method:
 - this architecture governs where accumulated knowledge goes, which artifacts may become mature authority, and in what order those artifacts are built and validated;
 - `../CURRENT_STATE_AND_CORPUS_MAP.md` is the mutable entrypoint and current-state router. It does not substitute for either the method or this architecture.
 
-The current architecture lifecycle is `EVOLVING`. Sequential reading and the six-owner longitudinal reconciliation have passed at the V11 boundary. Major-character inputs are ready; later role adjudication, character/relationship/thematic maturity and cross-specialist convergence remain unfinished. The owner reserved literary authoring for a separate session and subsequently authorized integration of its Fumiya delivery. Fumiya now passes the local §7.3 contract under the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md); the other character and specialist responsibilities remain unfinished. The [R01–R03 reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) supplies the current cumulative gate decision; it does not itself promote literary candidates; Fumiya’s promotion rests on the separate role review.
+The current architecture lifecycle is `EVOLVING`. Sequential reading and the six-owner longitudinal reconciliation have passed at the V11 boundary. Major-character inputs are ready; later role adjudication, character/relationship/thematic maturity and cross-specialist convergence remain unfinished. The owner reserved literary authoring for a separate session and subsequently authorized integration of its supplied monographs. Fumiya and Hinami now pass R04, and Kikuchi passes her individual R05 §7.3 responsibility under the [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md). Mimimi and the other character/specialist responsibilities remain unfinished. The [R01–R03 reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) supplies the current cumulative gate decision; it does not itself promote literary candidates; each monograph’s promotion rests on its separate role review.
 
 ### 1.1 Authority and governing policy
 
@@ -131,7 +131,7 @@ For literary claims, use this precedence unless a narrower policy controls:
 
 Higher placement does not make an inference direct evidence. A deep reading preserves the source-facing state; a later ledger can become current authority for the claim's cross-volume revision history without becoming a replacement for the source passage.
 
-Fumiya’s and Hinami’s monographs have passed their individual role reviews and are mutable current literary authority within those scopes. The other five character files and current full-series synthesis remain valuable first-pass candidates until their role-specific reviews pass. R04’s pair is complete; neither local pass settles other characters’ independent trajectories or any aggregate synthesis gate.
+Fumiya’s, Hinami’s and Kikuchi’s monographs have passed their individual role reviews and are mutable current literary authority within those scopes. The other four character files and current full-series synthesis remain valuable first-pass candidates until their role-specific reviews pass. R04’s pair is complete; R05 remains partial pending Mimimi. These local passes settle no other character’s independent trajectory or aggregate synthesis gate.
 
 ## 4. Sequential-reading contract
 
@@ -253,7 +253,7 @@ The current evidence makes mature independent studies mandatory for:
 - Kikuchi Fuka;
 - Nanami Minami / Mimimi.
 
-Tomozaki and Hinami carry the series' central competing methods and the largest propagation risk. Fumiya’s and Hinami’s supplied expansions have now passed local mature-monograph review, completing R04. The [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) records the second acceptance and preservation of Fumiya’s reviewed work. Kikuchi and Mimimi are also material backfills, not romance-subplot summaries.
+Tomozaki and Hinami carry the series' central competing methods and the largest propagation risk. Fumiya’s and Hinami’s supplied expansions have now passed local mature-monograph review, completing R04. The [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) records the second acceptance and preservation of Fumiya’s reviewed work. Kikuchi’s supplied expansion now passes the same local contract under the [Kikuchi review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md). Mimimi remains the required second R05 monograph; neither responsibility is a romance-subplot summary.
 
 Tama, Mizusawa, and Yuzu have earned independent current files, but the role-gap audit must determine whether each becomes a full mature monograph or a clearly bounded character dossier. Reclassification is not demotion: it is an honest statement of evidence breadth and document responsibility.
 
@@ -449,8 +449,8 @@ The current full-series synthesis gate is closed. Existing prose may be read as 
 | Sequential-source completion | Every admitted witness has correct source routing, source-facing analysis, adjudication, and bounded freeze. | **PASS at V11 plus routed V06.5/V08.5** |
 | Architecture establishment | Canonical architecture satisfies all Minimum Semantic Contract responsibilities and a role-gap audit tests the actual corpus. | **PASS at design/audit level; lifecycle remains EVOLVING** |
 | Longitudinal reconciliation | Every mandatory cumulative home is backfilled through V11; overlaps and contradictions are reconciled; material claims have usable evidence routes. | **PASS through V11; six-owner convergence and targeted retrieval independently reviewed** |
-| Specialist readiness | Required ledger inputs are stable enough to support literary drafting; promotion scopes are explicit; unresolved states are preserved. | **INPUTS READY; gate remains CLOSED pending remaining role/scope adjudication and ordered literary work. The reserved session may proceed to R05 using both reviewed R04 monographs and the cumulative evidence.** |
-| Specialist completion | Required major characters, relationships, and thematic problems pass their semantic contracts and adversarial checks. | **PARTIAL: Fumiya and Hinami local literary roles PASS (R04); five character candidates and required relationship/thematic specialists remain unfinished** |
+| Specialist readiness | Required ledger inputs are stable enough to support literary drafting; promotion scopes are explicit; unresolved states are preserved. | **INPUTS READY; gate remains CLOSED pending remaining role/scope adjudication and ordered literary work. The reserved session may complete R05 with Mimimi using the three reviewed monographs and cumulative evidence.** |
+| Specialist completion | Required major characters, relationships, and thematic problems pass their semantic contracts and adversarial checks. | **PARTIAL: Fumiya/Hinami PASS (R04) and Kikuchi PASS (R05 individual scope); four character candidates and required relationship/thematic specialists remain unfinished** |
 | Cross-specialist convergence | Shared terms, time states, claims, and relationship facts agree or record explicit unresolved conflicts. | **CLOSED** |
 | Full-series synthesis readiness | Longitudinal and specialist gates pass; a convergence audit authorizes integrated drafting. | **CLOSED** |
 | Full-series synthesis completion | One integrated argument answers the series-wide problem without becoming synopsis or erasing open publication-boundary questions. | **CURRENT FILE IS PRE-REMEDIATION CANDIDATE, NOT GATE PASS** |
@@ -555,7 +555,7 @@ Promotion from `EVOLVING` to `STABILIZED` requires:
 | Technique, learned form, authenticity, authorship | yes | character/relationship ledgers + claim index | game/form/self-authorship specialist | distributed; specialist pending |
 | Causality, result, reason, meaning | yes, especially V08.5–V11 | claim index + character/relationship ledgers | control/causality/meaning specialist | distributed; specialist pending |
 | Romance, privacy, disclosure, consent, intervention | yes | relationship ledger + claim index | three relationship specialists + ethics specialist | cumulative inputs reconciled; specialists pending |
-| Fiction, observation, personhood, publication | yes | character ledger + claim index | Kikuchi monograph + authorship specialist | distributed; specialist pending |
+| Fiction, observation, personhood, publication | yes | character ledger + claim index | Kikuchi monograph + authorship specialist | Kikuchi local role PASS; independent authorship specialist pending |
 | Japanese key terms | intermittent | voice/register/key-terms ledger | all language-sensitive specialists | bounded attested ledger and key-term routes reviewed |
 | Character-specific voice, address, register | intermittent | voice/register/key-terms ledger | monographs + later reconstruction models | selective state/recipient samples reviewed; no complete habitual model claimed |
 | Ordinary-life preferences and habits | local as relevant | character/relationship ledgers | monographs; later models | no separate ledger yet |
@@ -579,6 +579,12 @@ Start with `../CURRENT_STATE_AND_CORPUS_MAP.md`. Before changing project state, 
 The corpus map must always expose the exact completed source boundary, architecture lifecycle, current ledgers, mature versus provisional character/specialist status, open synthesis gate, and next required operation.
 
 ## 20. Revision history
+
+### v1.5 — 2026-09-13 — reviewed Kikuchi portion of R05
+
+- Accepted Kikuchi’s individual §7.3 literary role after independent review; retained the completed R04 pair and all other monographs unchanged.
+- Added bounded evidence in character, effort and voice owners; preserved source-facing histories and existing claim identities.
+- Kept R05 partial pending Mimimi, four character candidates provisional and all later aggregate gates unpassed. Lifecycle remains EVOLVING.
 
 ### v1.4 — 2026-09-13 — reviewed Hinami and completion of the R04 pair
 

@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_SUPPLEMENTS
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus story-locally routed Volumes 06.5 and 08.5"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.3
+generation: V1.4
 status: canonical
 release_state: mutable_active
 governing_method: "../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
@@ -36,7 +36,7 @@ The ledger has five responsibilities:
 
 It is not a plot synopsis, a substitute for the immutable prospective freezes, a relationship-state ledger, a diagnosis, a moral ranking, or a simulation guide. It does not establish post-V11 outcomes. The preserved volume readings remain authoritative for what the analyst could support at each historical boundary. This ledger is authoritative only for cumulative **state routing and revision** through the current source lock.
 
-The character monographs are downstream and retrospective; their individual maturity is routed by the current corpus map. They do not supply independent evidence to this ledger or outrank the sequential readings. The reviewed Fumiya and Hinami expansions prompted the direct primary checks recorded in §§6.6 and 7.7; the other five candidates remain provisional. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
+The character monographs are downstream and retrospective; their individual maturity is routed by the current corpus map. They do not supply independent evidence to this ledger or outrank the sequential readings. The reviewed Fumiya, Hinami and Kikuchi expansions prompted the direct primary checks recorded in §§6.6, 7.7 and 8.6; the other four candidates remain provisional. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
 
 Governing artifacts:
 
@@ -380,6 +380,21 @@ Independent review of the same locked witnesses strengthens the existing Hinami 
 ### 8.5 Current V11 boundary
 
 Kikuchi is an increasingly agentic writer and partner whose central crisis is no longer whether she has talent or can enter social life. It is whether an owned vocation can justify and govern interpretive exposure. Her final group invitation reduces authorial monopoly and preserves her own need for an independent reason. It does not create permission from Hinami or complete relationship governance with Tomozaki. (`DR11 §§5.3, 8-9`)
+
+### 8.6 R05 Kikuchi source enrichment — 2026-09-13
+
+These additions strengthen existing CS-KIK-01–04 and CRI-KIK-001/002 responsibilities without changing their identities or the frozen readings. The [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) records independent source and literary checks. KF-P labels resolve in the [monograph’s primary register](../04%20Character%20Analysis/Kikuchi%20Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md#143-fresh-primary-source-register); exact witness/member/paragraphs below supply the evidence independently of that synthesis.
+
+| State / access / route | Bounded current addition | Disposition and limit |
+|---|---|---|
+| Middle-school formation disclosed in V06.5; Kikuchi-focalized retrospective; SR06.5 §9; `OEBPS/Text/part0018.xhtml` P1–288, `part0020.xhtml` P1–317; KF-P01–02 | Animated retelling and reciprocal library companionship precede Fumiya. Goda’s given name is 沙也加, with ruby supporting Sayaka at P45 of the first member. | **STRENGTHEN selected competence; REVISE transliteration only.** Frozen SR06.5 “Saya” remains historical. Neither one failed group entry nor the name correction supplies an exhaustive biography. |
+| V01-era private diary disclosed in V06.5; SR06.5 §§9/14; `OEBPS/Text/part0024.xhtml`–`part0027.xhtml`, embedded `image00216.jpeg`–`image00219.jpeg`; KF-P04 | May 3, June 7, June 11 and June 17 images connect irregular writing, a valued old book, friendship, the tissue encounter, workplace observation and manuscript disclosure. | **STRENGTHEN private chronology.** Actual images, not OCR; neither a daily routine nor contemporaneous Fumiya knowledge follows. |
+| V07–V08 winter interlude; Fumiya, Mimimi and Kikuchi focalizations remain separate; SR08.5 §§7/9/11.2; `text/part0009.html` P1–509, `part0011.html` P1–101, `part0019.html` P1–172, `part0021.html` P1–189; KF-P14–16 | She welcomes reception of the play, declines a large-group format while liking its participants, wants both dates, works at the café and engages Mimimi with sympathy and teasing. | **STRENGTHEN ordinary range and pre-V09 agency.** Preserve REL §6.1’s R04 Christmas evidence. No later rupture is repaired by these interstitial scenes; private Mimimi thoughts are not Kikuchi knowledge. |
+| V03 café and V08 New Year; Fumiya’s observation/inference; DR03 §6, DR08 §4.1; V03 `text/part0030.html` P275–425 and V08 `text/part0013.html` P35–40; KF-P05/21 | Omurice recurs; V08 P39 explicitly attributes a liking inference to Fumiya. | **STRENGTHEN bounded preference.** Repetition plus an attributed judgment supports liking, not a self-declared exclusive favorite or Hinami’s separate cheese preference. |
+| New Year’s Eve before V08; Kikuchi’s own narration; SR08.5 §11.2; `text/part0033.html` P1–30, `part0035.html` P1–153, `part0037.html` P1–68; KF-P17–19 | Warm sibling/family interaction, familiar speech and the annotated script as treasure supply a non-crisis baseline. Responsibility for probing Hinami is already explicitly questioned at `part0037.html` P22–26. | **STRENGTHEN ordinary life and earlier conscience.** Neither household competence nor a settled safeguard is inferred. V11 escalates a concern she has previously articulated. |
+| V11 Haruka inquiry; observed speech and distress, then Kikuchi self-assessment; DR11 §§4.9/5.3; `item/xhtml/p-0023.xhtml` P188–276 and `p-0025.xhtml` P109–146; KF-P29–30 | Haruka asks Kikuchi’s view (P188), stops Tomozaki’s interruption (P243–244), asks how she understands (P252), then cries. Kikuchi later acknowledges creative absorption and harm. | **STRENGTHEN participation/access precision.** Inquiry is not continued against an explicit Haruka refusal. Her participation does not establish informed anticipation of impact, Hinami’s consent or publication authority; the exact cause of each tear remains incompletely known. |
+
+Liking writing, demonstrated craft, professional aspiration, a conditional opportunity and an adequate reason for exposing living models remain distinct. The V11 question does not erase prior pleasure or ambition; effort §78.5 retains this distinction. All source clocks and the co-proposal/consent/result OPENs survive.
 
 ## 9. Nanami Minami / Mimimi
 
@@ -753,7 +768,7 @@ Each monograph should consume this ledger by claim ID and preserve the chronolog
 - retain current abstentions; and
 - avoid describing V11 as though it had always been latent and knowable.
 
-Fumiya and Hinami now satisfy their local monograph dependencies under the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md). The other five monographs remain provisional retrieval aids until they demonstrably satisfy the contract.
+Fumiya and Hinami now satisfy their local monograph dependencies under the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md). Kikuchi now passes the same bounded role under the [R05 integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md). The other four monographs remain provisional retrieval aids until they demonstrably satisfy the contract.
 
 ### 17.2 To the relationship-state layer
 
@@ -786,3 +801,5 @@ V1.1 records the bounded R01 correction pass through the same source boundary. I
 V1.2 adds the independently reviewed R04 Fumiya ordinary-life source enrichment in section 6.6 and updates monograph routing. Existing CS identities, chronological rows, and R01 correction dispositions remain unchanged.
 
 V1.3 records the Hinami R04 checks in §7.7, precise V06 set scope and V09 pause agency, and both reviewed R04 monograph roles. Existing claim registers, Fumiya §6.6 and all prior maintenance history are preserved.
+
+V1.4 adds the reviewed Kikuchi R05 enrichment in §8.6 and records her local monograph acceptance. All chronological and claim-register rows, Fumiya §6.6, Hinami §7.7 and earlier maintenance history remain unchanged; R05 still requires Mimimi.
