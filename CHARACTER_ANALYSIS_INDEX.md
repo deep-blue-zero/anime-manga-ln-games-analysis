@@ -653,6 +653,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
   - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
+### Benno
+
+- Entity ID: `ascendance-of-a-bookworm:benno`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:benno@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-v02-v03`: LIGHT_NOVEL VOLUME: Substantial distributed analysis in the Japanese-primary V02 and V03 frozen readings, interpreted with the Part 1 boundary synthesis. V02 emergency-treatment uncertainty remains historical; V03 clarification is later evidence. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-part1` — Benno analysis in Part 1 boundary synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
+  - [`reviewed-v02` — Benno analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Benno analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
+
 ### Big Johnny
 
 - Entity ID: `to-be-hero-x:big-johnny`
@@ -1197,6 +1219,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`86-frederica-rosenfort-character-reference-profile` — 86 FREDERICA ROSENFORT CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_FREDERICA_ROSENFORT_CHARACTER_REFERENCE_PROFILE.md)
 
+### Frieda
+
+- Entity ID: `ascendance-of-a-bookworm:frieda`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:frieda@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-v02-v03`: LIGHT_NOVEL VOLUME: Substantial distributed analysis in the Japanese-primary V02 and V03 frozen readings, interpreted with the Part 1 boundary synthesis. V02 emergency-treatment uncertainty remains historical; V03 clarification is later evidence. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-part1` — Frieda analysis in Part 1 boundary synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
+  - [`reviewed-v02` — Frieda analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Frieda analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
+
 ### Fujita Kotone
 
 - Entity ID: `the-idolmaster:fujita-kotone`
@@ -1441,6 +1485,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `grethe-wenzel-reviewed-corpus`: LIGHT_NOVEL VOLUME: Canonical character reference profile over the locked original-Japanese Volumes 1-14, with Alter.1 used where the profile admits it and Alter.2 excluded from mainline characterization.; continuity `86-eighty-six-original-light-novels`
 - Reviewed current evidence:
   - [`86-grethe-wenzel-character-reference-profile` — 86 GRETHE WENZEL CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_GRETHE_WENZEL_CHARACTER_REFERENCE_PROFILE.md)
+
+### Gustav
+
+- Entity ID: `ascendance-of-a-bookworm:gustav`
+- Entity aliases:
+  - _None._
+
+#### Subject: Ascendance of a Bookworm light novel
+
+- Analysis subject ID: `ascendance-of-a-bookworm:gustav@light-novel`
+- Series: `ascendance-of-a-bookworm`
+- Continuity: `ascendance-of-a-bookworm-light-novel`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-v02-v03`: LIGHT_NOVEL VOLUME: Substantial distributed analysis in the Japanese-primary V02 and V03 frozen readings, interpreted with the Part 1 boundary synthesis. V02 emergency-treatment uncertainty remains historical; V03 clarification is later evidence. No V04+, supplemental-story, adaptation, or full-series coverage is claimed.; continuity `ascendance-of-a-bookworm-light-novel`
+- Reviewed current evidence:
+  - [`reviewed-part1` — Gustav analysis in Part 1 boundary synthesis](series/ascendance-of-a-bookworm/05%20Specialist%20Synthesis/BOOKWORM_PART1_BOUNDARY_SYNTHESIS.md)
+  - [`reviewed-v02` — Gustav analysis in V02 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V02_DEEP_READING.md)
+  - [`reviewed-v03` — Gustav analysis in V03 frozen deep reading](series/ascendance-of-a-bookworm/02%20Sequential%20Readings/BOOKWORM_V03_DEEP_READING.md)
 
 ### Hanami Ume
 
