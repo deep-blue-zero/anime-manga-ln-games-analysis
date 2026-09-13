@@ -4,7 +4,7 @@ artifact_type: longitudinal_relationship_state_ledger
 scope: JP_LIGHT_NOVEL_V01-V11_PLUS_STORY_LOCAL_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus explicitly routed side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
 analytical_generation: V2_REMEDIATION
-generation: V1.1
+generation: V1.2
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -311,6 +311,8 @@ The ethical sequence is narrow: indirect artifact → one direct clarification �
 #### Phase D — warm baseline and maintenance failure (V08.5 interstitial; V08)
 
 V08.5 Unit 1 occurs before V08. Tomozaki and Kikuchi spend private Christmas time, build a snowman, photograph it, name future gift exchange, and coordinate later dates. Genuine early affection and anticipatory scheduling are direct. This baseline makes the later crisis more specific: warmth was not false, but it did not create a capacity or disclosure rule for a busier relational system.
+
+**R04 source enrichment, 2026-09-13 — STRENGTHEN, bounded.** In the Christmas ending, Tomozaki proposes replacing an earlier meeting with New Year time to avoid taking too much of Kikuchi's time; she says she wants both, and he accepts. His later decision not to ask about her Hinami conversation combines preservation of the happy mood with a sense that it is not his place to intrude. These are DIRECT narrated speech/reflection and local counterevidence to invariably unilateral choice; neither establishes a settled scheduling or privacy policy. Exact locked route: V08.5 `text/part0011.html` P39–66 and P80–85; SR08.5 Unit 1, V08.5-C02/C04; Fumiya TF-P02 and the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md). No post-V08 repair or new REL claim identity follows.
 
 V08 preserves mutual bids. Kikuchi repeatedly asks for time, touch, knowledge, and inclusion; Tomozaki values those bids and chooses affectionate acts. She asks for his support in seeking a newcomer award. Yet work, Tama, gaming, groups, and a forgotten message repeatedly displace her. He processes each collision locally rather than governing total capacity.
 
@@ -922,3 +924,7 @@ When a new admitted source is read:
 - Removed categorical post-V11 ignorance of supplemental formation and preserved the V10/V11 school-year tension as OPEN.
 - Added story-local Mimimi/Tama role-loss and reliance constraints and explicitly routed class punishment networks to the social-system owner.
 - Added exact source-locator audit routes; shared reconciliation readiness remains owned by the independent audit. No sequential reading, monograph, or synthesis was rewritten.
+
+### v1.2 - 2026-09-13 - bounded R04 Fumiya integration
+
+- Added the exact-source Christmas preference-correction and locally motivated restraint within section 6.1; retained all REL identities, directional histories, promotion decisions and OPENs.

@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: longitudinal_ledger
 scope: EFFORT_COMPETITION_GOAL_OWNERSHIP_COMPARATIVE_SELF_WORTH
-generation: V1.2
+generation: V1.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -1009,6 +1009,8 @@ Near the end of summer vacation Mizusawa already identifies Hinami as the person
 ### 31.5 Learned form becomes intuition
 
 Tomozaki's ordinary clothing judgment shows repeated modeled exposure becoming rapid pattern recognition. A learned form can cease to feel like recitation without losing its history. This strengthens the ledger's separation between method origin and current ownership.
+
+**R04 source enrichment, 2026-09-13 — STRENGTHEN at the same early-second-term position.** The locked V06.5 clothing unit distinguishes motivational reports: Hinami says effort itself strongly motivates her, while Tomozaki inwardly says enjoyment is a prerequisite for his sustained game practice (P178–188). These are attributed self-accounts, not exhaustive laws about either person's behavior. P159–170 links price awareness and avoiding wasted wages to possible arcade/DLC spending; savings serve named leisure interests on this occasion. The earlier learned-form claim and all EFFORT identities remain intact. Route: V06.5 `OEBPS/Text/part0013.xhtml`, SR06.5 §8/V06.5-C06, Fumiya TF-P01, and the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md).
 
 ### 31.6 Konno's prosocial effort does not settle accountability
 

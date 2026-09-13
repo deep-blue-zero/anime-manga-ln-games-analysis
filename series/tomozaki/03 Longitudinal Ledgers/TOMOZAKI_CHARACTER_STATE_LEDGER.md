@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_SUPPLEMENTS
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus story-locally routed Volumes 06.5 and 08.5"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.1
+generation: V1.2
 status: canonical
 release_state: mutable_active
 governing_method: "../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
@@ -36,7 +36,7 @@ The ledger has five responsibilities:
 
 It is not a plot synopsis, a substitute for the immutable prospective freezes, a relationship-state ledger, a diagnosis, a moral ranking, or a simulation guide. It does not establish post-V11 outcomes. The preserved volume readings remain authoritative for what the analyst could support at each historical boundary. This ledger is authoritative only for cumulative **state routing and revision** through the current source lock.
 
-The current character monographs are useful retrieval aids, but they are downstream, retrospective, and provisionally subject to architecture remediation. They did not supply evidence to this ledger and do not outrank the sequential readings. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
+The character monographs are downstream and retrospective; their individual maturity is routed by the current corpus map. They do not supply independent evidence to this ledger or outrank the sequential readings. The reviewed Fumiya expansion prompted the direct primary checks recorded in §6.6; the other six candidates remain provisional. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
 
 Governing artifacts:
 
@@ -238,6 +238,15 @@ These are stable tendencies, not invariant traits. The V11 collapse does not rej
 Tomozaki's available competencies remain broad: elite play, planning, public communication, negotiation by proxy, friendship, romance repair, and reflective revision. His current **deployment state** is unstable after Hinami invalidates the unique credential on which he rested his command. This is not a return to V01: the peer network, girlfriend, professional evidence, learned repertoire, and history of owned choice remain real. It is a new crisis in which a plural social self is temporarily subordinated to a failed story of singular necessity.
 
 Current open variables are recovery of an owned reason to play; school return; a non-savior support stance toward Hinami; professional route and exit governance; privacy and allocation rules with Kikuchi; and tolerance for being valuable without being uniquely necessary. (`DR11 §§5.1, 8-9`)
+
+### 6.6 R04 ordinary-life source enrichment — 2026-09-13
+
+These are targeted additions from the same locked supplements, independently reviewed during Fumiya integration. They strengthen existing learned-form and recipient-variation responsibilities without altering the numbered chronology or the thirty CS claim identities. TF-P identifiers remain local to the monograph; the source windows, not the downstream argument, supply the evidence. See the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md).
+
+| Story-local state | Observation and evidence class | Current use / limit | Exact evidence route |
+|---|---|---|---|
+| Early second term, V06.5 clothing unit | **DIRECT narrated action / reflection:** emerging coordination judgment coexists with vocabulary and fit errors; he reports shopping alone and receiving clerk advice, and enjoys the shared game-like exchange with Hinami. | **STRENGTHEN** uneven learned competence and ordinary pleasure. Advice is received, not explicitly solicited; purchases establish neither permanent style nor a favorite color. | SR06.5 §8 and V06.5-C06; locked V06.5 `OEBPS/Text/part0013.xhtml` P1–216, especially P54–67, P83–104, P194–216; Fumiya TF-P01. |
+| December 24 between V07 and V08 | **DIRECT narrated action / reflection:** a misshapen snowman, photograph and messages sustain pleasure; learned camera access serves a wanted memory. Kikuchi corrects his proposed substitution of meeting dates, and he accepts both. | **STRENGTHEN** particular affection and low-pressure receptivity; one occasion is not a habitual hobby, permanent privacy doctrine, or post-V08 repair. Relationship-state §6.1 owns the directional exchange. | SR08.5 Unit 1, V08.5-C02/C04; locked V08.5 `text/part0011.html` P1–35, P39–85, P89–101; Fumiya TF-P02. |
 
 ## 7. Hinami Aoi
 
@@ -729,7 +738,7 @@ Each monograph should consume this ledger by claim ID and preserve the chronolog
 - retain current abstentions; and
 - avoid describing V11 as though it had always been latent and knowable.
 
-The existing monographs remain provisional retrieval aids until they demonstrably satisfy that dependency.
+Fumiya now satisfies the local monograph dependency under the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md); the other six monographs remain provisional retrieval aids until they demonstrably satisfy it.
 
 ### 17.2 To the relationship-state layer
 
@@ -758,3 +767,5 @@ If a later numbered volume is admitted, begin prospectively from the V11 freeze 
 V1.0 is the first cumulative character-state backfill after closure of the V01-V11 sequential chain. It promotes no EPUB locator, uses no adaptation or translation evidence, and leaves the preserved readings unchanged. Future revisions must be targeted, must name the new source boundary or correction basis, and must preserve obsolete formulations long enough to show why their disposition changed.
 
 V1.1 records the bounded R01 correction pass through the same source boundary. It adds the all-30-CS cross-owner check, separates V11 retrospective reader access from actor knowledge, retains the genuine school-year tension, narrows the phone-call and renewed-confession formulations, distinguishes game/set scope and retained competition, removes an unsupported V07 Akiyama advance, corrects the Nakamura table header, and routes the authored relationship owner. No sequential reading, monograph, or synthesis was rewritten. Exact-source retrieval and aggregate reconciliation remain separately reviewed in their owning audits.
+
+V1.2 adds the independently reviewed R04 Fumiya ordinary-life source enrichment in section 6.6 and updates monograph routing. Existing CS identities, chronological rows, and R01 correction dispositions remain unchanged.

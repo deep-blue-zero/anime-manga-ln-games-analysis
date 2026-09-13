@@ -4,7 +4,7 @@ artifact_type: current_state_and_corpus_map
 scope: GIT_NATIVE_ANALYTICAL_ROOT
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
 source_audit_date: 2026-08-29
-generation: V2.2_LONGITUDINAL_RECONCILIATION
+generation: V2.3_FUMIYA_LOCAL_MONOGRAPH
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -86,7 +86,7 @@ This source inventory is **verified**. It does not establish availability or aut
 
 ## 4. Current analytical state
 
-**Volumes 01 through 11 have been read, analyzed, and prospectively frozen. Volumes 06.5 and 08.5 have been read and closed under story-local supplemental routing. V11 is the current numbered-volume boundary. Sequential-source completion and R01–R03 longitudinal reconciliation have passed. Literary synthesis completion remains unpassed; architecture remediation continues through the separately reserved literary work.**
+**Volumes 01 through 11 have been read, analyzed, and prospectively frozen. Volumes 06.5 and 08.5 have been read and closed under story-local supplemental routing. V11 is the current numbered-volume boundary. Sequential-source completion and R01–R03 longitudinal reconciliation have passed. Fumiya’s local literary-monograph role now passes independent review; R04 remains partial pending Hinami. Overall literary synthesis completion remains unpassed.**
 
 Current completed responsibilities:
 
@@ -111,17 +111,18 @@ Current completed responsibilities:
 - all six mandatory longitudinal owners: reconciled through V11, preserving stable IDs, source chronology and explicit OPENs;
 - twelve targeted L2/L3 source queues: independently reviewed retrieval PASS, with exact witness/member/paragraph routes;
 - Japanese voice/register/key-terms ledger: 24 attested state/recipient records covering seven principals at declared selective scope;
-- longitudinal reconciliation audit: current PASS for R01–R03, with correction propagation and preservation receipts.
+- longitudinal reconciliation audit: current PASS for R01–R03, with correction propagation and preservation receipts;
+- Fumiya literary monograph: mature local responsibility through V11 after reviewed integration of the supplied R04 candidate; bounded ordinary-life additions are routed in the character, relationship and effort ledgers.
 
 Current open responsibilities:
 
-- deepen Tomozaki, Hinami, Kikuchi, and Mimimi to mature literary-monograph responsibility;
+- deepen Hinami, Kikuchi, and Mimimi to mature literary-monograph responsibility; preserve and later cross-check the reviewed Fumiya monograph;
 - deepen or reclassify the Tama, Mizusawa, and Yuzu candidates according to evidence sufficiency;
 - create the mandatory relationship and thematic specialists;
 - perform cross-specialist and locator convergence;
 - revise the existing full-series synthesis candidate last and then conduct a new release audit.
 
-The seven existing character files and the existing full-series synthesis are preserved as `active_provisional` pre-remediation candidates. They are useful hypothesis and retrieval aids, but their former filenames or claims of completeness do not open the architecture-defined synthesis gate.
+The [Fumiya integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) certifies Fumiya’s `canonical`, `mutable_active`, `MATURE_LOCAL_LITERARY_ROLE` responsibility. The other six character files and the existing full-series synthesis remain `active_provisional` pre-remediation candidates. This individual role pass leaves the aggregate character/specialist, convergence and full-series gates unpassed.
 
 V01 was read from audited witness `Bottom-Tier Character Tomozaki - Volume 01.epub`, Drive file ID `1B7r3rf0bIZ1gnFg88NTeDa5K6C4LVlF0`, SHA-256 `49d1577da47a22e0838b8430a52bfe24639effcfb519786149cba7ed1d0bc0c4`.
 
@@ -266,7 +267,7 @@ Current artifacts:
 - `Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md`
 - `Izumi Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md`
 
-These seven artifacts are pre-remediation candidates, all currently `active_provisional`. Tomozaki and Hinami are first-priority deep monographs; Kikuchi and Mimimi follow. Tama, Mizusawa, and Yuzu require either substantial deepening or explicit bounded-dossier scope. Relationship and whole-corpus responsibilities cannot be delegated to these individual files.
+Fumiya is a reviewed mature local literary monograph; the other six artifacts remain `active_provisional`. Hinami is the remaining R04 priority; Kikuchi and Mimimi follow. See the [Fumiya integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md). Tama, Mizusawa, and Yuzu require either substantial deepening or explicit bounded-dossier scope. Relationship and whole-corpus responsibilities cannot be delegated to these individual files.
 
 ### `05 Full-Series Synthesis/`
 Canonical home for whole-corpus integration only after the longitudinal, character, relationship, specialist, and convergence gates pass.
@@ -291,7 +292,9 @@ Current artifact:
 - [TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md](08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) — current R01–R03 convergence and input-readiness authority
 - [TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md](08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md) — independently reviewed ESC-01–ESC-12, witness receipt and 49 LOC records
 - [TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json](08%20Audits%20and%20Manifests/TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json) — authored-path and baseline preservation receipt
-- [TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md](08%20Audits%20and%20Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md) — current R01–R03 completion and R04–R12 handoff
+- [TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md](08%20Audits%20and%20Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md) — current R01–R03 completion, partial R04, and remaining R05–R12 work
+- [TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) — Fumiya-only literary role review and bounded source/cumulative additions
+- [TOMOZAKI_FUMIYA_R04_PATH_AND_VALIDATION_MANIFEST.json](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_PATH_AND_VALIDATION_MANIFEST.json) — exact ten-path integration scope and baseline preservation receipt
 - `TOMOZAKI_FULL_SERIES_SYNTHESIS_VALIDATION_AUDIT.md` — immutable pre-remediation checkpoint; source-coverage findings remain useful, but its architecture-closure conclusion is superseded by the role-gap audit
 
 ### `.repository/`
@@ -336,13 +339,13 @@ Do not use side-story evidence retroactively to rewrite earlier predictions.
 
 ## 8. Work order
 
-The [analytical document spine and execution inventory](08%20Audits%20and%20Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md) now records R01–R03 complete under the [longitudinal reconciliation audit](08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md). The six-owner input spine is ready. The owner has reserved character-monograph and literary synthesis revision for a separate session; R04–R12’s literary responsibilities remain unfinished. Specialist scope/completion, cross-specialist convergence and full-series readiness are not promoted by the input pass.
+The [analytical document spine and execution inventory](08%20Audits%20and%20Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md) now records R01–R03 complete under the [longitudinal reconciliation audit](08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md). The six-owner input spine is ready. The owner subsequently supplied and authorized integration of the cloud-authored Fumiya monograph. Its local role is complete under the [Fumiya integration review](08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md); the remaining character and synthesis work stays with the separate literary session. Specialist scope/completion, cross-specialist convergence and full-series readiness are not promoted by the input pass.
 
 Current remediation order:
 
 1. **completed R01:** reconcile the six cumulative owners with the effort spine and current map;
 2. **completed R02–R03:** independently verify all twelve indexed source queues and the attested voice/register/key-terms ledger;
-3. deepen Tomozaki and Hinami, then Kikuchi and Mimimi; deepen or reclassify Tama, Mizusawa, and Yuzu;
+3. complete Hinami’s remaining R04 monograph, then Kikuchi and Mimimi; deepen or reclassify Tama, Mizusawa, and Yuzu; retain Fumiya’s reviewed local role for later convergence;
 4. build Tomozaki/Hinami, Tomozaki/Kikuchi, and Tomozaki/Mimimi relationship syntheses plus the mandatory thematic specialists;
 5. perform adversarial claim/locator and cross-specialist convergence audits;
 6. substantially revise the full-series synthesis last;
@@ -392,11 +395,11 @@ At the current V11 boundary this project deliberately does **not** claim:
 - that V08.5 reader knowledge is automatically available to numbered-volume actors;
 - a PACTRIH score, comparative-ethics placement, or adaptation comparison;
 - a complete series source boundary beyond V11;
-- that the seven provisional character-study candidates exhaust every meaningful character, already satisfy mature-monograph responsibility, require monographs for supporting figures, or make a global character-enrollment decision; or
+- that Fumiya’s individual maturity pass completes the other six character candidates, exhausts every meaningful character, requires monographs for supporting figures, opens the aggregate specialist gate, or makes a global character-enrollment decision; or
 - any V12+, adaptation, translation, reception, or external-authority conclusion.
 
 Those claims require later source-grounded work.
 
 ## 10. Current next action
 
-**R01–R03 are complete. The next analytical operation belongs to the separately reserved literary session: use the reviewed six-owner spine and source corrections to mature Tomozaki/Hinami, then Kikuchi/Mimimi, and adjudicate the remaining character scopes before relationship/thematic convergence. The full-series gate remains closed. No broad primary-source reread or new source admission follows from this completion.**
+**R01–R03 and Fumiya’s local portion of R04 are complete. The separately reserved literary session should complete Hinami, then Kikuchi/Mimimi, and adjudicate the remaining character scopes before relationship/thematic convergence. Use Fumiya’s reviewed monograph and its bounded cumulative additions alongside the six-owner spine. R04 overall and the full-series gate remain unpassed. No broad primary-source reread or new source admission follows.**
