@@ -4,7 +4,7 @@ artifact_type: longitudinal_relationship_state_ledger
 scope: JP_LIGHT_NOVEL_V01-V11_PLUS_STORY_LOCAL_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus explicitly routed side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
 analytical_generation: V2_REMEDIATION
-generation: V1.2
+generation: V1.3
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -187,6 +187,8 @@ The Tama crisis lets Tomozaki act as a different kind of teacher while Hinami be
 V06 turns the disagreement into direct ethical judgment. Tomozaki names the last strike as “死体蹴り,” while Hinami calls it revenge and explains that she loves Tama's correct, uncalculated constancy. The exchange increases disclosure and moral frankness. It does not produce apology, restitution, or doctrinal repair. Tomozaki reaches Hinami partly by invoking NO NAME's identity, which remains a relationship-specific language rather than a complete public ethic.
 
 Their Atafami play concurrently becomes more reciprocal. Hinami's unrequired “私の勝ち” after a hard-won individual game seeks recognition from Tomozaki. The game supports pleasure and mutual estimation. It also begins to function as leverage in arguments whose proper authority lies outside the game.
+
+**R04 precision, 2026-09-13:** the locked V06 `OEBPS/Text/part0008.xhtml` P9 and P97–113 identifies a first-to-five set: Hinami wins the fifth game, Tomozaki the sixth, finishing 5–1. This qualifies frozen DR06 §4’s “five-game set” shorthand without changing the individual-win/set distinction. See the [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md).
 
 #### Phase D — owned romantic choice and inquiry without full access (V07–V08)
 
@@ -550,6 +552,14 @@ Source route: TOMOZAKI_V08_DEEP_READING.md §4.6 “Relationship maintenance fai
 | authority | Tomozaki owns bodily and sexual refusal regardless of attraction or continued professional contact. | Rena has no authority over Tomozaki's body, relationship terms, or disclosure choices; her perceptive advice does not purchase that authority. |
 
 **Current claim:** repeated local refusal with incomplete systemic governance. The ethical status cannot be softened by Rena's useful advice or formation history.
+
+### 8.6 Hinami Aoi ↔ Hattori Akira — bounded middle-school history
+
+**R04 source enrichment, 2026-09-13 — STRENGTHEN, story-local.** V06.5’s first Hinami unit supplies a distinct earlier relationship, not a test that can rank later romantic candidates. Hinami feels pleasure at the confession and experiments with intimacy; Hattori recognizes a sacrifice but does not possess all its context. Partial recognition can matter to her without becoming complete understanding. Formal/familiar address, embarrassment and teasing accompany the relationship rather than cancel its reflective calculation.
+
+**Directional and access boundary:** Hattori offers recognition and asks about a kiss; Hinami’s focalized thought weighs affect, experience and an aversion to borrowing value from the couple’s prestige. Her spoken refusal does not reveal all that interior reasoning. The narration also qualifies how completely Hattori endorses the prestige account. Neither a single decisive cause for the later breakup nor a permanent partner-selection law follows. Her prior experience does not make a later confession obligatory to accept.
+
+Primary route: SR06.5 §7; locked V06.5 `OEBPS/Text/part0009.xhtml` P57–149 and `OEBPS/Text/part0011.xhtml` P161–359, especially P214–238 and the subsequent explanation/end sequence; Hinami HA-P07/08 and the [integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md). The existing sixteen REL claims and specialist promotion decisions are preserved; no separate specialist is mandated by this bounded addition.
 
 ## 9. Network and relationship-option structures
 
@@ -928,3 +938,7 @@ When a new admitted source is read:
 ### v1.2 - 2026-09-13 - bounded R04 Fumiya integration
 
 - Added the exact-source Christmas preference-correction and locally motivated restraint within section 6.1; retained all REL identities, directional histories, promotion decisions and OPENs.
+
+### v1.3 — 2026-09-13 — bounded Hinami R04 integration
+
+- Added the earlier Hattori directional/access limits in §8.6 and exact V06 score in §5.1. Rechecked the already correct Tomozaki-initiated V09 pause without rewriting it. All REL identities, Fumiya’s Christmas enrichment, and prior history remain intact.

@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Locked Japanese V01–V11 plus story-local V06.5/V08.5; exact-source samples are selective and edition-bound"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.0
+generation: V1.1
 status: canonical
 release_state: mutable_active
 created: "2026-09-13"
@@ -71,6 +71,14 @@ The developmental information is carried by the relationship between form and pr
 The sample does not authorize a timeless public/private binary. V08.5's represented interior, V10's changing delivery during disclosure, and V11's crisis speech supply different access conditions. A short, direct utterance can be genuine disclosure of uncertainty without granting access to all causes. Likewise, a first-person self-condemnation can faithfully report the speaker's present view while overgeneralizing her capacities. These distinctions preserve the source's conflict between achieved results and the grounds on which a person can accept them.
 
 Yoko's meaning-making vocabulary must also stay attributed. LOC-03B verifies her addressed assertion that the death has meaning, Aoi's challenge, and narration preserving maternal grief. It supports a formation account; it neither licenses a named religious identity nor makes Yoko a mere mouthpiece for a philosophical position. The incompatible V10/V11 school-year statements remain OPEN under LOC-02A/C and cannot be repaired through a language gloss.
+
+### 4.1 R04 ordinary speech enrichment — 2026-09-13
+
+**JVL-06 — STRENGTHEN at selective scope.** In V01 `text/part0023.html` P155–177, Hinami explicitly identifies `おにただ` as `口癖` (P164), attributes it to a childhood game, and describes unsuccessful concealment. Tomozaki recognizes the reference; her enthusiasm about craft, world and characters (P168–174) redirects the lesson before she restores it. This supports a self-reported habit and its demonstrated use with this recipient, not a frequency estimate or permission to insert it into every social setting. V08.5 `text/part0013.html` P25–50 supplies childhood sibling/game context, not another identical coaching speech sample.
+
+**JVL-09 — PRESERVE voice / clarify result.** The V06 written `私の勝ち` remains an individual-win boast. `OEBPS/Text/part0008.xhtml` P9 and P97–113 specifies first-to-five and Tomozaki’s final 5–1 score; the fifth game is not the end of the set. No current voice interpretation depends on treating frozen “five-game set” shorthand literally.
+
+Direct primary context, DR01 §9, SR08.5 §8.1 and DR06 §4 supply these additions; the [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) records verification. The twenty-four JVL identities are unchanged. Hinami HA-P02/06/10 are local cross-references, not new cumulative locator identities. No complete voice generator or new source admission follows.
 
 ## 5. Kikuchi Fuka — polite agency, written authorship, and the limits of interpretation
 
@@ -168,3 +176,5 @@ For a later admitted source or new language-dependent claim:
 7. review any proposed habitual-register claim against multiple recipients, states, and counterexamples before promotion.
 
 No reconstruction/simulation model is created by this ledger. No speech style is a lie detector, no exact quotation is evidence beyond its scene, and no current boundary becomes a completed character arc merely because the ledger has reached V11.
+
+V1.1 adds independently checked R04 Hinami context under the existing JVL-06/09 responsibilities (§4.1). The original twenty-four rows, conceptual tables, source-locator audit and R01–R03 receipts are preserved.

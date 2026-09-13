@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: longitudinal_ledger
 scope: EFFORT_COMPETITION_GOAL_OWNERSHIP_COMPARATIVE_SELF_WORTH
-generation: V1.3
+generation: V1.4
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -2169,3 +2169,13 @@ The reading shorthand below means the exact `TOMOZAKI_VNN_DEEP_READING.md` or `T
 ### 78.3 Transfer boundary
 
 Source coverage through V11 is complete. Longitudinal review is evaluated separately in the reconciliation audit; character, relationship, thematic, and full-series maturity are separate later gates. Source checks may correct attribution or narrow an action without rewriting its original prospective reading. Future literary work must use this current crosswalk together with the character, relationship, social, claim, and Japanese-language owners, rather than treat a dated historical hypothesis as its final V11 formulation.
+
+### 78.4 R04 Hinami source qualifications — 2026-09-13
+
+This v1.4 addition refines existing EFFORT families through independently reviewed primary context; all twenty-nine identities and their earlier crosswalk dispositions survive. It preserves the Fumiya enrichment in §31.5 and does not reopen frozen source-facing states. The [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) records the bounded review.
+
+- **H08 / H14 — precise rule and scope:** V06 `OEBPS/Text/part0008.xhtml` P9, P97–113 establishes first-to-five, a fifth-game Hinami win and sixth-game Tomozaki win, ending 5–1. DR06 §4’s “five-game set” shorthand must not mean five games total. V11’s 3–2 Hinami set win remains the later result; neither establishes timeless superiority.
+- **H14 / H27 — distinguish knowledge from integration:** middle-school Hinami explicitly acknowledges luck and events that action cannot control (V06.5 `OEBPS/Text/part0011.xhtml` P53–64). She also includes emotion within reasoning (P214–238). The later causal-warrant crisis is not evidence that she has never understood those concepts; knowing a limit and tolerating its consequences remain different variables.
+- **H15 / H19 / H20 — material practice and stopping:** V08.5 `text/part0013.html` P240–265 depicts results/graphs and goals in Excel/Word; `text/part0015.html` P90–105 depicts difficulty closing the failed team goal. The concrete historical practice does not establish a fixed V11 routine, and list completion cannot itself determine when proof is sufficient.
+
+These strengthen the existing SR06.5 §7 and SR08.5 §8 routes. They do not supply Nagisa’s intent, a general affirmative future end, or consent to the proposed party.

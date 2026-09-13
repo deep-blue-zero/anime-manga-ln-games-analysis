@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_SUPPLEMENTS
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus story-locally routed Volumes 06.5 and 08.5"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.2
+generation: V1.3
 status: canonical
 release_state: mutable_active
 governing_method: "../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
@@ -36,7 +36,7 @@ The ledger has five responsibilities:
 
 It is not a plot synopsis, a substitute for the immutable prospective freezes, a relationship-state ledger, a diagnosis, a moral ranking, or a simulation guide. It does not establish post-V11 outcomes. The preserved volume readings remain authoritative for what the analyst could support at each historical boundary. This ledger is authoritative only for cumulative **state routing and revision** through the current source lock.
 
-The character monographs are downstream and retrospective; their individual maturity is routed by the current corpus map. They do not supply independent evidence to this ledger or outrank the sequential readings. The reviewed Fumiya expansion prompted the direct primary checks recorded in §6.6; the other six candidates remain provisional. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
+The character monographs are downstream and retrospective; their individual maturity is routed by the current corpus map. They do not supply independent evidence to this ledger or outrank the sequential readings. The reviewed Fumiya and Hinami expansions prompted the direct primary checks recorded in §§6.6 and 7.7; the other five candidates remain provisional. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
 
 Governing artifacts:
 
@@ -168,7 +168,7 @@ The [claim-revision/evidence index](TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.m
 | Kikuchi speaks hurt at not being heard; narration then records that the call has ended | **REVISE action attribution:** her voiced hurt is direct; a deliberate hangup by her is not specified. This passage cannot alone prove an enacted stopping policy. | `LOC`, ESC-11, LOC-11E; V11 `item/xhtml/p-0033.xhtml` P97–98; qualifies `DR11 §5.3` |
 | Tomozaki affirms liking Hinami to Haruka and considers a person-level qualification without saying it | **PRESERVE specialness / OPEN classification:** the affirmative is speech; the qualification is thought. Haruka is not shown hearing the qualifier, and the moment does not settle permanent non-romance. | `LOC`, ESC-09, LOC-09C; V11 `item/xhtml/p-0019.xhtml` P239–240; `DR11 §5.1` |
 | Mizusawa has already confessed and been refused in V03 | **NARROW endpoint language:** V11 adds no renewed confession or resulting answer. His account of understanding Hinami is his interpretation; a future declaration and its response remain unobserved. | `DR03 §9.3`; `DR11 §5.5`; `CRI-MIZ-001`; `REL-C16` |
-| Hinami's V06 individual-game victory differs from her V11 set victory | **PRESERVE capacity / BOUND result:** V06 does not establish set superiority; V11's 3–2 set defeats Tomozaki's stated credential in that encounter, not his universal worth or a permanent skill hierarchy. | `DR06 §4`; `DR11 §4.8`; `LOC`, ESC-06, LOC-06A and ESC-04, LOC-04B |
+| Hinami's V06 individual-game victory differs from her V11 set victory | **PRESERVE capacity / BOUND result:** V06 is a first-to-five set won 5–1 by Tomozaki (§7.7), so it does not establish Hinami set superiority; V11's 3–2 set defeats Tomozaki's stated credential in that encounter, not his universal worth or a permanent skill hierarchy. | `DR06 §4`; `DR11 §4.8`; `LOC`, ESC-06, LOC-06A and ESC-04, LOC-04B |
 
 ## 5. Corpus-wide developmental bands
 
@@ -283,7 +283,7 @@ These are targeted additions from the same locked supplements, independently rev
 | V06 | she directly owns the final attack as revenge and says Tama's `正しくて` uncalculated integrity is beautiful; calculability appears as a chosen risk limit | owning motive is not apology, restitution, or doctrinal integration | `DR06 §§4-6, 19-20` |
 | V07 | public explanation appears centerless to two observers; historical witnesses support deliberate construction; family discrepancy ethically stops inquiry | empty-center model strengthens, but no family event or diagnosis is then available | `DR07 §§8-9, 20-21` |
 | V08 | elite Atafami produces visible frustration and enjoyment; career planning is detailed but desire-poor; one-sister report preserves the discrepancy | game desire is domain-bounded; detailed route is not proof of owned life end | `DR08 §§4.3-4.4, 5.3, 9-10` |
-| V09 | coaching is strongly reconstructed as a reproducibility experiment; she pauses it, practices alone, says `寂しくても平気`, and resists being changed | tolerance of loneliness is not absence of loneliness; method validation is not the only possible motive | `DR09 §§4.4, 4.6, 5.3, 8-9` |
+| V09 | coaching is strongly reconstructed as a reproducibility experiment; she accepts and formalizes Tomozaki’s proposed meeting pause, practices alone, says `寂しくても平気`, and resists being changed | tolerance of loneliness is not absence of loneliness; method validation is not the only possible motive | `DR09 §§4.4, 4.6, 5.3, 8-9` |
 | V10 | private rupture coexists with public functioning; unsolicited care produces affect; she voluntarily discloses Nagisa and describes causal unknowability and chosen solitude for truth | birthday consequence is not cure; direct disclosure is not acceptance of rescue | `DR10 §§4.1, 4.6, 5.3, 8-9` |
 | V11 | video reactivates the rejected meaning form; she declares `私は空っぽ`, `私は弱キャラ`, withdraws from school, retains game capacity, wins the 3–2 set against Tomozaki, and says `人生はクソゲー` | crisis speech is direct but not an omniscient lifelong verdict; no affirmative future end or school return occurs | `DR11 §§4.2-4.8, 5.2, 8-9` |
 
@@ -315,6 +315,21 @@ These are targeted additions from the same locked supplements, independently rev
 Hinami is in **cross-domain deployment suspension with retained local capacity**. School, council, coaching, and ordinary peer participation stop; Boxman analysis, family disclosure, refusal, and competitive execution remain; the retrospective also grants reader access that cannot all be assigned to Tomozaki (§4.1). The formation mechanism behind proof, first place, self-responsibility, and causal control is substantially clearer, but the source still withholds an affirmative future end, Nagisa's intent, full adult/institutional response, and Hinami's response to the proposed collective project.
 
 Do not convert the party's care into consent. Do not make her V11 victory a proof of her worldview. Do not make crisis withdrawal the only authentic Hinami. (`DR11 §§5.2, 8-9`; `EFFORT §§71-77`)
+
+### 7.7 R04 Hinami source enrichment and precision — 2026-09-13
+
+Independent review of the same locked witnesses strengthens the existing Hinami responsibilities. These are source-facing additions, not evidence derived from the new monograph. The [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) records the checks; HA-P identifiers remain monograph-local. No CS claim identity, source boundary, or frozen reading changes.
+
+| State / access | Direct evidence | Current disposition and limit | Exact source route |
+|---|---|---|---|
+| Childhood sibling play, disclosed in V08.5 | Aoi loses to Nagisa, receives her physical celebration and shares the expressed enjoyment. | **STRENGTHEN** context-dependent competitiveness and affection; reject timeless inability to enjoy defeat, without importing this state into every later loss. | SR08.5 §8.1; V08.5 `text/part0013.html` P25–50; Hinami HA-P10. |
+| Middle-school family meal and private planning, disclosed in V08.5 | Mother and Haruka each identify cheese-filled hamburger steak as liked; Aoi’s response is managed. Results/graphs and goals are recorded in Excel/Word. | **STRENGTHEN** ordinary preference and material practice; liking is not a complete food hierarchy, and the depicted routine is not an established V11 timetable. | SR08.5 §8; `text/part0013.html` P176–187, P227–265; HA-P10. |
+| Middle-school private thought, disclosed in V06.5 | Hinami acknowledges luck and causes beyond personal control; she regards ignoring emotion as illogical. | **REVISE overbroad shorthand:** difficulty accepting contingency or granting feelings end-authority differs from never understanding either. These thoughts are not all spoken to Hattori. | SR06.5 §7; V06.5 `OEBPS/Text/part0011.xhtml` P53–64, P214–238; HA-P08. |
+| V01 coaching and game enthusiasm | Hinami explicitly calls `おにただ` a habit and explains its game origin, then becomes animated about game craft, world and characters. | **STRENGTHEN** attested local habit and particular enthusiasm; JVL-06 enrichment owns wording and recipient limits. No global frequency or all-context style follows. | DR01 §9; V01 `text/part0023.html` P155–177; HA-P02. |
+| Early-second-term shopping, disclosed in V06.5 | She teaches staged, affordable practice and learned intuition; comic exchanges and surprise at independent learning accompany instruction. | **STRENGTHEN** lower-stakes pedagogy. Tomozaki’s selected clothing is not her personal taste; retain the earlier Fumiya addition in §6.6. | SR06.5 §8; V06.5 `OEBPS/Text/part0013.xhtml` P1–216; HA-P09. |
+| V10 souvenir shop; narrated observation and addressed speech | Three Found mugs are in her shopping basket; she identifies the displayed item as a souvenir for her younger sister. | **PRESERVE** selection and stated gift purpose; payment, full allocation among recipients and symbolic meaning are not shown by this window. | DR10 §4.6; V10 `text/part0026.html` P43–75; HA-P17. |
+
+**Result and agency precision.** V06 `OEBPS/Text/part0008.xhtml` P9, P97–113 specifies first-to-five: Hinami wins the fifth game, then Tomozaki wins the sixth to finish 5–1. The frozen DR06 §4 phrase “five-game set” remains historical shorthand, not current rule/score authority. V11’s 3–2 Hinami set victory remains distinct. V09 `text/part0013.html` P75–98 attributes the meeting-pause proposal to Tomozaki and acceptance/formalization to Hinami; the §7.3 row is narrowed accordingly. Neither correction changes the established claim families or erases her later refusal.
 
 ## 8. Kikuchi Fuka
 
@@ -738,7 +753,7 @@ Each monograph should consume this ledger by claim ID and preserve the chronolog
 - retain current abstentions; and
 - avoid describing V11 as though it had always been latent and knowable.
 
-Fumiya now satisfies the local monograph dependency under the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md); the other six monographs remain provisional retrieval aids until they demonstrably satisfy it.
+Fumiya and Hinami now satisfy their local monograph dependencies under the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md). The other five monographs remain provisional retrieval aids until they demonstrably satisfy the contract.
 
 ### 17.2 To the relationship-state layer
 
@@ -769,3 +784,5 @@ V1.0 is the first cumulative character-state backfill after closure of the V01-V
 V1.1 records the bounded R01 correction pass through the same source boundary. It adds the all-30-CS cross-owner check, separates V11 retrospective reader access from actor knowledge, retains the genuine school-year tension, narrows the phone-call and renewed-confession formulations, distinguishes game/set scope and retained competition, removes an unsupported V07 Akiyama advance, corrects the Nakamura table header, and routes the authored relationship owner. No sequential reading, monograph, or synthesis was rewritten. Exact-source retrieval and aggregate reconciliation remain separately reviewed in their owning audits.
 
 V1.2 adds the independently reviewed R04 Fumiya ordinary-life source enrichment in section 6.6 and updates monograph routing. Existing CS identities, chronological rows, and R01 correction dispositions remain unchanged.
+
+V1.3 records the Hinami R04 checks in §7.7, precise V06 set scope and V09 pause agency, and both reviewed R04 monograph roles. Existing claim registers, Fumiya §6.6 and all prior maintenance history are preserved.

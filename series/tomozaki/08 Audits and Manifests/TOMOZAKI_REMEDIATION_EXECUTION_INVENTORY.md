@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: remediation_execution_inventory
 source_boundary: "Locked Japanese V01–V11 plus story-local V06.5/V08.5; no later source admitted"
-generation: V2.4
+generation: V2.5
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -16,9 +16,9 @@ execution_reasoning_control: Max
 
 ## 0. Current task boundary
 
-The owner first limited this work to identifying the analytical spine, then expressly authorized **R01–R03 and their upstream publication**. Those three tasks are now complete under the [longitudinal reconciliation audit](TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md). Literary authoring was reserved for a separate session. The owner has now supplied its Fumiya monograph and authorized repository integration. The [Fumiya review](TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) passes that individual R04 responsibility; Hinami and the later literary work remain unfinished. This integration does not complete R04, execute R05–R11, complete R12’s literary release responsibility, or admit new source material.
+The owner first limited this work to identifying the analytical spine, then expressly authorized **R01–R03 and their upstream publication**. Those three tasks are now complete under the [longitudinal reconciliation audit](TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md). Literary authoring was reserved for a separate session. The owner subsequently supplied Fumiya’s and Hinami’s monographs and authorized repository integration. The [Fumiya review](TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami review](HINAMI_AOI_R04_INTEGRATION_REVIEW.md) pass both individual R04 responsibilities. R04 is complete at that pair’s scope; R05–R11 and R12’s literary release responsibility remain unfinished. No new source material is admitted.
 
-This inventory retains the original remaining-work identities and baseline deficiencies for continuity. The architecture and corpus map govern responsibility/readiness; the new audits record the actual R01–R03 source checks, correction propagation and bounded PASS. Sections 2–4 preserve the earlier dependency assessment, while §6 supplies current execution status, including the later Fumiya-only integration.
+This inventory retains the original remaining-work identities and baseline deficiencies for continuity. The architecture and corpus map govern responsibility/readiness; the new audits record the actual R01–R03 source checks, correction propagation and bounded PASS. Sections 2–4 preserve the earlier dependency assessment, while §6 supplies current execution status, including both later R04 integrations.
 
 ## 1. Audited resumption baseline
 
@@ -143,7 +143,7 @@ R01–R03 began at `c20fa4359e34d549da3514a6106cda1756c1a962`; the initial fetch
 | R01 | **PASS.** Five existing owners reconciled with the new voice input; all 29 EFFORT, 30 CS, 16 REL, 22 SOC, 36 CRI claim-family and 15 CRI question-family identities preserved and reviewed. Current corrections and OPENs propagate through the six-owner spine. |
 | R02 | **PASS.** ESC-01–ESC-12 have exact locked witnesses, member/paragraph routes, diagnostic wording, attributed adjudication and independent context review; 49 locator records and 92 paragraph-specific diagnostics verified. Story uncertainty is not discharged. |
 | R03 | **PASS at declared scope.** Twenty-four JVL rows cover seven principals through state, recipient, layer and exact-source controls. No complete habitual voice model is claimed. |
-| R04 | **PARTIAL. Fumiya local literary role PASS** under the [integration review](TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md). Hinami remains provisional and unfinished. |
+| R04 | **PASS at the two-monograph scope.** Fumiya passes under the [Fumiya review](TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md); Hinami passes under the [Hinami review](HINAMI_AOI_R04_INTEGRATION_REVIEW.md). Both remain mutable literary authority at the V11 boundary. |
 | R05–R09 | **RESERVED literary work remains unfinished.** Kikuchi/Mimimi require mature monographs; Tama/Mizusawa/Yuzu require role adjudication and backfill; relationship/thematic specialists remain unfinished. |
 | R10–R11 | **CLOSED.** Cross-specialist convergence and full-series revision depend on the deferred literary work. |
 | R12 | **PARTIAL SUPPORT ONLY.** This tranche updates current routing, records its path/preservation manifest, and requires repository publication checks. It does not complete the future whole-corpus literary validation/release responsibility. |
@@ -157,3 +157,9 @@ Acceptance requires independent semantic review, verified correction propagation
 The owner-supplied candidate and handoff were reviewed against unchanged branch `919b71662a8be869f648f34120aae8493c37897f`; current main remained `b331a3b746622760db394ac1a79367263236336f`. The candidate replaces only Fumiya’s earlier provisional monograph at its existing path. Independent review and integrating-agent verification corrected bounded wording, preserved the owned-reason-to-play OPEN, and accepted the local §7.3 responsibility. Character-state §6.6, relationship §6.1 and effort §31.5 receive exact-source ordinary-life enrichment without new claim families. The original R01–R03 manifest and audits remain unchanged historical receipts for their own snapshots.
 
 The [integration review](TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [ten-path manifest](TOMOZAKI_FUMIYA_R04_PATH_AND_VALIDATION_MANIFEST.json) govern this later authored delta. All six other character candidates and the full-series candidate remain unchanged. R04 overall, R05–R11 and whole-corpus R12 release remain unpassed; publication checks certify only the exact repository revision.
+
+### 6.2 Later Hinami R04 integration and pair completion
+
+The owner supplied the Hinami candidate and handoff after Fumiya’s publication at `8c4007e91ad0d019a625aa263fb24743aac9e74e`. Fetch confirmed that unchanged branch head and main `b331a3b746622760db394ac1a79367263236336f`; the Hinami before-image still matched its recorded blob. Independent review and integrating-agent primary checks accepted the §7.3 literary role after bounded source and scenario corrections. Fumiya’s monograph and its prior review/manifest are preserved.
+
+Character-state §7.7, relationship §8.6/§5.1, effort §78.4 and voice §4.1 record the targeted source enrichments and exact score/agency qualifications without new cumulative identities. The [Hinami integration review](HINAMI_AOI_R04_INTEGRATION_REVIEW.md) and [eleven-path manifest](HINAMI_AOI_R04_PATH_AND_VALIDATION_MANIFEST.json) bind this later delta. Both R04 monograph responsibilities now pass; next is R05. This is not R10 convergence, R11 drafting permission, R12 whole-corpus release, or derived-model approval. Required publication checks attach to the exact resulting repository commit.
