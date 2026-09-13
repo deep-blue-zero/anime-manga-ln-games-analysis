@@ -7,13 +7,13 @@ authority_state: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-completion_state: Y3V03_complete_character_monograph_layer_adopted_unpopulated
-source_boundary: Y3V03
+completion_state: Y3V04_complete_character_monograph_layer_adopted_unpopulated
+source_boundary: Y3V04
 available_inventory_boundary: Y3V04
-completed_sequential_operation: Y3V03
-next_sequential_operation: Y3V04
-continuation_authorized: true
-execution_mode: sequential_range
+completed_sequential_operation: Y3V04
+next_sequential_operation: null
+continuation_authorized: false
+execution_mode: completed_sequential_range
 authorized_start: Y3V02
 authorized_end: Y3V04
 SEQUENTIAL_ANALYSIS_LOCK: OPEN
@@ -35,7 +35,7 @@ updated_at: '2026-09-12'
 
 # Classroom of the Elite — Current series state and corpus map
 
-The completed narrative-analysis boundary is **Y3V03**. Year 1 and Year 2 are closed at their recorded boundaries; Year 3 remains provisional. Japanese Y3V01–V04 are inventoried; V1–3 have been read completely, and V4 remains unread. The current user goal authorizes sequential deep reading through Y3V04. Y3V04 is next after the V3 local lock; each volume must be read and its local analysis locked before the next volume supplies narrative evidence.
+The completed narrative-analysis boundary is **Y3V04**. Year 1 and Year 2 are closed at their recorded boundaries; Year 3 remains provisional. Japanese Y3V01–V04 have been read completely. The authorized sequential range Y3V02–Y3V04 is complete, with each predecessor locally locked before the next volume supplied evidence. No later volume has been read or is authorized by this completed range. Further sequential reading awaits a new instruction; structural analytical readiness remains OPEN.
 
 The series now requires a detailed individual monograph for **every character with sufficient evidence**, covering known personal history, personality, behavior, written speech, preferences, and a bounded operational model. The requirement is adopted; the systematic eligibility review and monograph production have not yet occurred. No character is recorded as qualified or rejected merely by adopting the rule.
 
@@ -58,7 +58,8 @@ The established method, complete base architecture, and populated longitudinal i
 |---|---|
 | Frozen Y3V01 local reading, provisional synthesis, seventeen predecessor ledger homes, evidence, and delivery records | [Through-Y3V01 corpus map](04%20Year%203%20Rolling%20Second%20Pass/COTE_Y3_CURRENT_STATE_AND_CORPUS_MAP.md) |
 | Frozen Y3V02 local reading, provisional synthesis, seventeen predecessor ledger homes, evidence, and delivery records | [Through-Y3V02 corpus map](04%20Year%203%20Rolling%20Second%20Pass/COTE_Y3_CORPUS_MAP_THROUGH_Y3V02.md) |
-| Y3V03 local reading, current provisional synthesis, all seventeen cumulative ledger successors, evidence, and delivery records | [Through-Y3V03 corpus map](04%20Year%203%20Rolling%20Second%20Pass/COTE_Y3_CORPUS_MAP_THROUGH_Y3V03.md) |
+| Frozen Y3V03 local reading, provisional synthesis, seventeen predecessor ledger homes, evidence, and delivery records | [Through-Y3V03 corpus map](04%20Year%203%20Rolling%20Second%20Pass/COTE_Y3_CORPUS_MAP_THROUGH_Y3V03.md) |
+| Y3V04 local reading, current provisional synthesis, all seventeen cumulative ledger successors, evidence, and delivery records | [Through-Y3V04 corpus map](04%20Year%203%20Rolling%20Second%20Pass/COTE_Y3_CORPUS_MAP_THROUGH_Y3V04.md) |
 | Inherited state and unchanged longitudinal responsibilities | [Year 3 entering-state and handoff register](04%20Year%203%20Rolling%20Second%20Pass/03%20Rolling%20Ledgers/COTE_Y3_ENTERING_STATE_AND_HANDOFF_REGISTER.md) |
 | Audited available source inventory | [Year 3 bootstrap source manifest](04%20Year%203%20Rolling%20Second%20Pass/00%20Corpus%20Administration/COTE_Y3_BOOTSTRAP_SOURCE_MANIFEST.json) |
 | Frozen Year 2 corpus and earlier-year routes | [Year 2 corpus map](03%20Year%202%20Definitive%20Second%20Pass/05%20Year-Level%20Synthesis/COTE_Y2_00_README_AND_CORPUS_MAP.md) |
