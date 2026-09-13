@@ -56,6 +56,12 @@ This rule applies to maintained analytical prose, rolling ledgers, readiness tab
 6. **Review the complete candidate diff.** Confirm every addition and deletion is intended, with no missing sections, rows, citations, authority fields, or history. Inspect unexpected size or line-count changes and formatting churn. Counts alone do not establish preservation, and an abbreviated provider diff is not sufficient if it omits changes. Require the applicable schema, link, evidence, and repository checks.
 7. **Handle concurrency and verify publication.** Recheck the target head and blob before writing. If the source changed, retrieve the new version, reconcile and reapply the intended edits, and repeat affected review. After a write, retrieve the exact resulting commit's file and compare it with the reviewed candidate; verify the resulting changed-file set. A success message alone does not establish a correct edit.
 
+### Multi-session analytical candidates
+
+When integrating a substantial artifact produced in another session, apply `../source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md`. Verify full delivered contents, base/source boundary, target identity, integrity, required evidence coverage, and drift from current state before replacement. Preserve supported analysis and historical freezes; record material claim revisions and unresolved obligations.
+
+Stage completion, semantic acceptance, repository validation, and authority promotion are distinct. The handoff does not expand approved paths, bypass exact-head/readback requirements, or transfer character curation or housekeeping ownership to the receiving author.
+
 ### GitHub connector limits and failed writes
 
 A GitHub contents or tree API may require the full updated file as its payload. That transport is allowed, but construct the payload from complete verified source contents plus targeted edits, not by generating an approximate replacement. Use current blob SHAs for contents updates and exact base/parent commits with non-forced ref updates for Git-data operations. A blob SHA alone does not prove that the branch has not advanced.
