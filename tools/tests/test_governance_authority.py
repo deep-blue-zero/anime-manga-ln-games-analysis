@@ -778,6 +778,11 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
     def test_local_and_github_connector_author_and_committer_identities_are_exact(self) -> None:
         owner_identities = [
+            # The owner's former GitHub username remains an exact approved pair.
+            {
+                "name": "peipw",
+                "email": "50891441+peipw@users.noreply.github.com",
+            },
             {
                 "name": "deep-blue-zero",
                 "email": "50891441+peipw@users.noreply.github.com",
