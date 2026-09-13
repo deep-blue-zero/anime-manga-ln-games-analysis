@@ -1,0 +1,825 @@
+{
+  "source_code": "Y3V01",
+  "source_sha256": "9036bb7750bdf14a323425b8307190932025ee4d09be4fee5e19edc2497cc47f",
+  "normalized_sha256": "d4a0387098448f41c0fd24b9b4ba3e272ea0dbae2b64a98a5f9af0529b19a3f8",
+  "source_boundary": "Y3V01",
+  "evidence": [
+    {
+      "id": "Y3V01-E001",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine11:para0008",
+      "last": "COTE:Y3V01:spine11:para0058",
+      "claim_types": [
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "CONTINUITY",
+      "evidence": "Horikita remembers the expelled classmates while anticipating a shared final year and another adjacent seat.",
+      "limit": "Her confidence belongs to a character who does not yet know the transfer; the reader inherits the Year 2 endpoint."
+    },
+    {
+      "id": "Y3V01-E002",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine12:para0104",
+      "last": "COTE:Y3V01:spine12:para0176",
+      "claim_types": [
+        "TF",
+        "IR"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "The school recognizes the private-point transfer; OAA moves Ayanokōji from A to the Sakayanagi-origin C roster. Horikita’s class now has 36 students.",
+      "limit": "An institutional record confirms membership, not motive, consensual relational preparation or total personal ability."
+    },
+    {
+      "id": "Y3V01-E003",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine12:para0217",
+      "last": "COTE:Y3V01:spine12:para0282",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "CONTINUITY",
+      "evidence": "Peers offer conflicting explanations; Hirata distinguishes voluntary transfer from expulsion, and Chabashira prevents collective blame for a lawful act.",
+      "limit": "Neither their containment nor the teacher’s earlier shock proves a neutral institution or universal student agreement."
+    },
+    {
+      "id": "Y3V01-E004",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine13:para0084",
+      "last": "COTE:Y3V01:spine13:para0113",
+      "claim_types": [
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "RELATIONSHIP_SPECIFIC_EXPRESSION",
+      "evidence": "Horikita entertains a rescue explanation and explicitly recognizes wishful thinking, fear and the wish to have been consulted.",
+      "limit": "Her self-belittlement is grief’s interpretation, not proof that only equal ability earns a right to explanation."
+    },
+    {
+      "id": "Y3V01-E005",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine13:para0166",
+      "last": "COTE:Y3V01:spine13:para0183",
+      "claim_types": [
+        "TF"
+      ],
+      "confidence": "A",
+      "delta": "REVELATION_OF_PRIOR_STATE",
+      "evidence": "Ayanokōji reveals Matsushita’s earlier competence and assistance before rival leaders.",
+      "limit": "This changes the audience’s knowledge; Matsushita has not suddenly acquired the capacity, and the disclosure is not hers to control."
+    },
+    {
+      "id": "Y3V01-E006",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine13:para0187",
+      "last": "COTE:Y3V01:spine13:para0227",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "He distinguishes earlier-informed parties from Horikita’s class, refuses her proposed private or later discussion, and withholds his reason.",
+      "limit": "The opportunity to leave the café is not equivalent to access to an informed alternative."
+    },
+    {
+      "id": "Y3V01-E007",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine14:para0011",
+      "last": "COTE:Y3V01:spine14:para0093",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "The new class is skeptical; Morishita participates in seating decisions and exposes his unfamiliarity with a children’s song.",
+      "limit": "A mundane knowledge gap is real but is not the strict Horikita-witnessed failure test."
+    },
+    {
+      "id": "Y3V01-E008",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine14:para0105",
+      "last": "COTE:Y3V01:spine14:para0163",
+      "claim_types": [
+        "TF"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Yoshida and Machida withhold a welcome until results; Morishita declines and then chooses her own outing.",
+      "limit": "Local refusal is observed without immediate punishment. Durable power over the leader’s ends is not established."
+    },
+    {
+      "id": "Y3V01-E009",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine14:para0184",
+      "last": "COTE:Y3V01:spine14:para0237",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Hashimoto has committed his insurance funds after an ultimatum linking cooperation to financing; no unconditional Class A guarantee is supplied.",
+      "limit": "Preexisting danger and Ayanokōji’s refusal of cooperation both shape the choice. It is neither literal mind control nor an equal bargain."
+    },
+    {
+      "id": "Y3V01-E010",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine14:para0244",
+      "last": "COTE:Y3V01:spine14:para0313",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Morishita sought enough information to assess the transfer and wants to inspect Ichinose’s value herself; classmates’ knowledge of transfer and alliance differs.",
+      "limit": "The whole class’s consent to a transfer does not certify equal access to every strategic purpose."
+    },
+    {
+      "id": "Y3V01-E011",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine14:para0315",
+      "last": "COTE:Y3V01:spine14:para0409",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "PROVISIONAL_TRAJECTORY",
+      "evidence": "The lower classes agree to cooperate until the four-class balance changes, including yielding a direct contest to the lower-point partner; they choose no written contract.",
+      "limit": "Additional fine terms are not fully disclosed. Flexibility and future compliance are claims, not already-tested guarantees."
+    },
+    {
+      "id": "Y3V01-E012",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine14:para0410",
+      "last": "COTE:Y3V01:spine14:para0438",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Ayanokōji rejects a subordinate alliance and Ichinose promises to accept even one C student’s opposition.",
+      "limit": "The anti-hierarchy reason matters; the promised veto is not exercised in this volume."
+    },
+    {
+      "id": "Y3V01-E013",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine14:para0443",
+      "last": "COTE:Y3V01:spine14:para0483",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "He deliberately times disclosure after the opening ceremony, expects peers to help Horikita recover, and explicitly invokes the Concorde effect to secure a trial period after investment.",
+      "limit": "His developmental aim qualifies the public cruelty but does not authorize its cost. Predicting peer recovery is not composing every peer act."
+    },
+    {
+      "id": "Y3V01-E014",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine14:para0500",
+      "last": "COTE:Y3V01:spine14:para0591",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "CONTINUITY",
+      "evidence": "Hirata obtains a private hearing, combines gratitude with distrust, and Ayanokōji recognizes that his absence might stabilize the former class.",
+      "limit": "Relationship-specific access is unequal; the critique preserves the benefits and harms of his earlier role."
+    },
+    {
+      "id": "Y3V01-E015",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine14:para0593",
+      "last": "COTE:Y3V01:spine14:para0611",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Students respond differently to a proposed return; Miyake explicitly offers continued friendship and consultation across class lines.",
+      "limit": "No return fund is actually paid and the original five-person group is not restored. Paragraph 597’s speaker is not explicitly named."
+    },
+    {
+      "id": "Y3V01-E016",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine15:para0022",
+      "last": "COTE:Y3V01:spine15:para0114",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Shiraishi’s modest aggregate OAA rating does not describe her incisive questioning; she makes Yoshida withdraw an indefinite early-arrival demand.",
+      "limit": "One concrete procedural correction does not make her wholly benevolent or prove a durable class constitution."
+    },
+    {
+      "id": "Y3V01-E017",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine15:para0115",
+      "last": "COTE:Y3V01:spine15:para0143",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "RELATIONSHIP_SPECIFIC_EXPRESSION",
+      "evidence": "Shiraishi uses Yoshida’s attraction to enlist his help while privately saying she would not choose him.",
+      "limit": "Her assistance to Ayanokōji and management of Yoshida coexist; a kind surface cannot settle her full purpose."
+    },
+    {
+      "id": "Y3V01-E018",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine15:para0146",
+      "last": "COTE:Y3V01:spine15:para0238",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "CONTINUITY",
+      "evidence": "Hōsen reports delegating leadership to Nanase; Chabashira learns the transfer decision predates her own Hoshinomiya problem.",
+      "limit": "Hōsen’s report is not a demonstrated complete transfer of governing power. The teacher’s concern mixes role and personal investment."
+    },
+    {
+      "id": "Y3V01-E019",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine15:para0241",
+      "last": "COTE:Y3V01:spine15:para0334",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Amasawa probes Ichinose through insinuation and disposability; Ichinose recognizes the attack and articulates a scarcity-based relationship model.",
+      "limit": "The model is Ichinose’s, not proof that she controls Ayanokōji or has complete relational information."
+    },
+    {
+      "id": "Y3V01-E020",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine15:para0335",
+      "last": "COTE:Y3V01:spine15:para0382",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "REVELATION_OF_PRIOR_STATE",
+      "evidence": "Ichinose’s claimed White Room disclosure is revealed to be a bluff using an overheard term; Ayanokōji has told her nothing. Amasawa revises her estimate of Ichinose.",
+      "limit": "The reader learns the bluff within this volume. Y1H-004 is not answered, and Amasawa’s final unnamed undertaking is not identified."
+    },
+    {
+      "id": "Y3V01-E021",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine16:para0002",
+      "last": "COTE:Y3V01:spine16:para0066",
+      "claim_types": [
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Horikita’s distress disrupts attention while classmates habituate differently; she denies losing track and internally calls that denial a lie.",
+      "limit": "Impairment is not a clinical diagnosis or proof that all prior independent judgment was counterfeit."
+    },
+    {
+      "id": "Y3V01-E022",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine16:para0067",
+      "last": "COTE:Y3V01:spine16:para0098",
+      "claim_types": [
+        "IR"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "A written test combines two whole-class wins and five representative duels. Penalties affect representatives only; disclosure is limited to participants.",
+      "limit": "The source distinguishes raw scores, adjusted outcomes and later OAA. No universal negative-score floor is added to the stated rules."
+    },
+    {
+      "id": "Y3V01-E023",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine16:para0102",
+      "last": "COTE:Y3V01:spine16:para0203",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Horikita computes a four-student shortfall against Ichinose; Hirata organizes consultation and Yukimura distinguishes subject knowledge from OAA averages.",
+      "limit": "Peer initiative is substantive even though the class loses. Score-band estimates are heuristics, not rating ceilings."
+    },
+    {
+      "id": "Y3V01-E024",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine16:para0205",
+      "last": "COTE:Y3V01:spine16:para0254",
+      "claim_types": [
+        "TF"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Shimazaki demands a basis beyond expected academic victory; Sanada proposes assessing selection and penalty reading.",
+      "limit": "This is negotiated provisional recognition, not an unconditional surrender of political voice."
+    },
+    {
+      "id": "Y3V01-E025",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine16:para0284",
+      "last": "COTE:Y3V01:spine16:para0300",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "RELATIONSHIP_SPECIFIC_EXPRESSION",
+      "evidence": "Ayanokōji lets Yamamura develop at her own pace publicly while privately valuing cultivation of a useful information source.",
+      "limit": "Morishita’s self-deprecating quotation is explicitly invented; it must not be attributed to Yamamura as testimony."
+    },
+    {
+      "id": "Y3V01-E026",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine16:para0316",
+      "last": "COTE:Y3V01:spine16:para0405",
+      "claim_types": [
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "CONTINUITY",
+      "evidence": "Ayanokōji distinguishes meaningful loss from winning, rejects perfect prediction of random choices and discusses penalty insurance.",
+      "limit": "The probability language needs exactly-versus-at-least interpretation; an early stated plan not to enter is not his final action."
+    },
+    {
+      "id": "Y3V01-E027",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine16:para0407",
+      "last": "COTE:Y3V01:spine16:para0497",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Morishita challenges the inference from apparent surveillance; Ryūen arrives, restrains Ishizaki physically, and Ishizaki reports Hiyori’s upset.",
+      "limit": "The spy inference awaits its later supporting ground. Hiyori’s feelings are reported, not her own moral intervention."
+    },
+    {
+      "id": "Y3V01-E028",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine16:para0506",
+      "last": "COTE:Y3V01:spine16:para0635",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Kushida retains audience-sensitive speech, fears exposure, and presses Horikita to act; shared meals have stopped and Horikita remains distressed.",
+      "limit": "Duty and antagonistic concern do not instantly restore functioning or dissolve the cost of lost everyday relations."
+    },
+    {
+      "id": "Y3V01-E029",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine16:para0637",
+      "last": "COTE:Y3V01:spine16:para0796",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Katsuragi teaches and contests cost; Ibuki threatens to leave a discussion that rejects dissent, and Ryūen asks for her reasoning while remaining uncertain.",
+      "limit": "Strategic voice exists, but there is no protected moral veto. Hypothetical large expenditure is not actual spending."
+    },
+    {
+      "id": "Y3V01-E030",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine17:para0015",
+      "last": "COTE:Y3V01:spine17:para0117",
+      "claim_types": [
+        "TF",
+        "CI",
+        "UA"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Ayanokōji credits romantic experience with improving interpretation, seeks an independent opinion of Hashimoto, and hears Nishikawa’s sexual-history rumors about Shiraishi.",
+      "limit": "Rumor is not biography; his refusal emphasizes class friction. Paragraph 55 apparently misnames the speaker; source bytes remain intact."
+    },
+    {
+      "id": "Y3V01-E031",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine17:para0131",
+      "last": "COTE:Y3V01:spine17:para0178",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "RELATIONSHIP_SPECIFIC_EXPRESSION",
+      "evidence": "Nishikawa arranges karaoke participation and proximity; Shiraishi releases Ayanokōji’s hand when asked.",
+      "limit": "The honored local refusal matters. His sense of being an experimental subject is suspicion, not an established hidden operation."
+    },
+    {
+      "id": "Y3V01-E032",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine17:para0179",
+      "last": "COTE:Y3V01:spine17:para0276",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "The class’s inherited study culture works without constant supervision. Shiraishi’s timing signal lets Ayanokōji catch Morishita’s eraser teasing.",
+      "limit": "He receives bounded help; that does not prove irreplaceability. Morishita’s kitten/lion defense does not settle the ethics of unwanted interference."
+    },
+    {
+      "id": "Y3V01-E033",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0002",
+      "last": "COTE:Y3V01:spine18:para0123",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Kei continues attending while grief persists. Ichinose knowingly asks why Kei ended a relationship she knows Ayanokōji ended.",
+      "limit": "Ichinose’s intent here is narrator-supported; Kei’s earlier impression that she feels no pressure is only Kei’s view."
+    },
+    {
+      "id": "Y3V01-E034",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0124",
+      "last": "COTE:Y3V01:spine18:para0169",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Ichinose sincerely says she prefers giving without return; Kei tests the universal-help claim and Ichinose retracts it, excluding her from prioritized care.",
+      "limit": "Sincere preference does not validate the claim that Kei caused the breakup by wanting reciprocity. Care scarcity does not necessitate extra cruelty."
+    },
+    {
+      "id": "Y3V01-E035",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0170",
+      "last": "COTE:Y3V01:spine18:para0181",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Ichinose reveals her meeting and uses the difference between dating and private intimacy to wound Kei, who hides her physical distress.",
+      "limit": "The account remains non-graphic. A truthful category distinction can still make an exchange cruel and informationally asymmetrical."
+    },
+    {
+      "id": "Y3V01-E036",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0183",
+      "last": "COTE:Y3V01:spine18:para0261",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Ryūen’s undisclosed selections keep all students studying under fear. He sacrifices victory, marks Ayanokōji with all 100 penalties, and aims to delay his mandate.",
+      "limit": "Tokitō disputes the use of collective effort. Ryūen’s belief that he has outread Ayanokōji is not the final outcome."
+    },
+    {
+      "id": "Y3V01-E037",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0263",
+      "last": "COTE:Y3V01:spine18:para0330",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Horikita delegates because she doubts her own calm; Hirata consults peers, limits leak accusations, and refuses to certify Kei’s Ayanokōji hypothesis as fact.",
+      "limit": "Kōenji was not told his final selection. Delegation, grief and a losing strategy are separable observations."
+    },
+    {
+      "id": "Y3V01-E038",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0361",
+      "last": "COTE:Y3V01:spine18:para0399",
+      "claim_types": [
+        "TF",
+        "IR"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Both lower classes win 6–1. Whole totals are A 2633/D 2712 and B 2327/C 2880; Ayanokōji scores 100 raw and zero after 100 penalties. Ichinose’s extra penalties cost 1.25 million private points.",
+      "limit": "The complete arithmetic is in the institution/exam snapshot. Neither losing class suffers the 7–0 deduction; no exact refreshed four-class point table is printed here."
+    },
+    {
+      "id": "Y3V01-E039",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0400",
+      "last": "COTE:Y3V01:spine18:para0404",
+      "claim_types": [
+        "TF"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Ichinose thanks Ayanokōji for the successful advice, and he credits her decision to trust it.",
+      "limit": "Later text establishes her own intelligence contribution; this exchange alone is not proof of one-way dependence."
+    },
+    {
+      "id": "Y3V01-E040",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0406",
+      "last": "COTE:Y3V01:spine18:para0490",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Ryūen’s group intrudes and physically intimidates classmates; Shimazaki’s apparently angry approach actually precedes recognition of Ayanokōji.",
+      "limit": "Hashimoto and Ryūen misread an expression. The eventual mandate must not be back-projected into universal initial acceptance."
+    },
+    {
+      "id": "Y3V01-E041",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0491",
+      "last": "COTE:Y3V01:spine18:para0544",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Shimazaki revises the evaluation criterion after seeing the exceptional raw score and rival’s maximal targeting. Ayanokōji explains why he deliberately entered to display the penalty.",
+      "limit": "This is public strategic visibility, not an error that gives Horikita protective authority. His claim to have scripted the whole sequence remains self-report with corroborating outcomes."
+    },
+    {
+      "id": "Y3V01-E042",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0545",
+      "last": "COTE:Y3V01:spine18:para0564",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "REVELATION_OF_PRIOR_STATE",
+      "evidence": "Ayanokōji explains that Ichinose obtained first-year witness information about paid recruits before the café. Classmates welcome him with handshakes.",
+      "limit": "The extra ground repairs the earlier incomplete spy explanation; earlier allies did not possess it at the time."
+    },
+    {
+      "id": "Y3V01-E043",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine18:para0566",
+      "last": "COTE:Y3V01:spine18:para0597",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Ryūen recognizes the failure of his leadership-delay strategy, punches the wall and questions whether he can win alone, recalling Sakayanagi.",
+      "limit": "A new question about dependence is not enacted shared sovereignty or Hiyori’s moral redirection."
+    },
+    {
+      "id": "Y3V01-E044",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine19:para0001",
+      "last": "COTE:Y3V01:spine19:para0085",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "After the loss, Ibuki kicks an unprepared Horikita and threatens separation; Horikita experiences pain and a bleeding hand.",
+      "limit": "The later suggestion of concern does not authorize the assault or make the violence the demonstrated cause of recovery."
+    },
+    {
+      "id": "Y3V01-E045",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine19:para0086",
+      "last": "COTE:Y3V01:spine19:para0159",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Kei offers practical help, avoids the injured hand, cleans the uniform and disputes Horikita’s sole responsibility; Horikita recognizes that Kei also suffers.",
+      "limit": "Concern about Ibuki’s motive is Kei’s inference from waiting. Horikita’s self-negating dependence claim remains her distressed judgment."
+    },
+    {
+      "id": "Y3V01-E046",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine19:para0160",
+      "last": "COTE:Y3V01:spine19:para0185",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Kei asks about attraction; Horikita’s denial is interrupted by memories of unfamiliar pleasure and embarrassment. Kei owns her own earlier misconduct.",
+      "limit": "Strong evidence of emerging attraction is not a fully articulated love confession; honest self-criticism is not universal moral perfection."
+    },
+    {
+      "id": "Y3V01-E047",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine19:para0186",
+      "last": "COTE:Y3V01:spine19:para0246",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Kei chooses to tell Horikita her history, including the engineered rescue and rooftop events. They exchange smiles, tears, touch and a shared future commitment.",
+      "limit": "Recipient knowledge changes after earlier partial accounts. This is Kei’s disclosure, not Ayanokōji’s, and one recovery scene does not prove permanent independence."
+    },
+    {
+      "id": "Y3V01-E048",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine19:para0261",
+      "last": "COTE:Y3V01:spine19:para0291",
+      "claim_types": [
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Ayanokōji remembers his initial social ignorance, notices near-absent memories of a White Room girl and becomes curious about former peers.",
+      "limit": "His proposed explanation in terms of mental resources is self-interpretation. This is not a clinical memory diagnosis or proof of emotionless permanence."
+    },
+    {
+      "id": "Y3V01-E049",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine19:para0299",
+      "last": "COTE:Y3V01:spine19:para0342",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "He asks Kushida to betray her class for payment, links refusal to lost secrecy protection, and allows her to publicize the offer because enemy unity also serves a purpose.",
+      "limit": "Multiple permitted responses can remain inside his authored aims. The threat is not withdrawn by saying refusal is free."
+    },
+    {
+      "id": "Y3V01-E050",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine19:para0343",
+      "last": "COTE:Y3V01:spine19:para0371",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "He acknowledges uncertainty and Ichinose’s independent intelligence work. Kushida asks for time, with payment to be specified before any future betrayal.",
+      "limit": "No betrayal agreement or action is completed. Her appraisal of him is not proof of romantic submission."
+    },
+    {
+      "id": "Y3V01-E051",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine20:para0009",
+      "last": "COTE:Y3V01:spine20:para0069",
+      "claim_types": [
+        "TF",
+        "CI",
+        "UA"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Tsubaki triggers memory of Yuki and a desire to see a non-family person; Ayanokōji then predicts that meeting would change little and declines to pursue it.",
+      "limit": "A possible connection between Tsubaki and the White Room girl remains a hypothesis. The flower association is not proof of kinship."
+    },
+    {
+      "id": "Y3V01-E052",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine20:para0071",
+      "last": "COTE:Y3V01:spine20:para0115",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "REVELATION_OF_PRIOR_STATE",
+      "evidence": "Kitō explains that he chose Sakayanagi for the chance of Class A, not personal devotion. Ayanokōji rebukes his failure to protect Sawada.",
+      "limit": "The new testimony revises an allegiance model; protection language coexists with unequal tolerance for powerful noncontributors."
+    },
+    {
+      "id": "Y3V01-E053",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine20:para0116",
+      "last": "COTE:Y3V01:spine20:para0177",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Kitō demands a force test, resists beyond one expected blow, loses, and accepts a handshake while reserving distrust and future challenge.",
+      "limit": "Ayanokōji adapts to resistance but does not lose control of the fight. No enforceable removal procedure is created."
+    },
+    {
+      "id": "Y3V01-E054",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine20:para0179",
+      "last": "COTE:Y3V01:spine20:para0249",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Morishita initiates observation without Ayanokōji, admits Shiraishi after argument, and warns that uninformed allies are being used as tools.",
+      "limit": "Her criticism is an independent assessment, not proof that Ayanokōji literally lacks a mind or all feelings."
+    },
+    {
+      "id": "Y3V01-E055",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine20:para0250",
+      "last": "COTE:Y3V01:spine20:para0267",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "RELATIONSHIP_SPECIFIC_EXPRESSION",
+      "evidence": "Shiraishi names his voice and danger as attractions; Morishita and Shiraishi turn a romance prompt into a carp pun.",
+      "limit": "The joke does not certify Morishita’s romantic attachment; Shiraishi’s stated interest does not verify Nishikawa’s earlier rumors."
+    },
+    {
+      "id": "Y3V01-E056",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine20:para0274",
+      "last": "COTE:Y3V01:spine20:para0304",
+      "claim_types": [
+        "TF",
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "DEVELOPMENT",
+      "evidence": "Horikita works effectively with Nanase, acknowledges pain and invites her for tea. Nanase values safe completion as well as Class A.",
+      "limit": "There is observed recovery and cross-year ordinary life, but no demonstrated reform of council resource allocation or correction rights."
+    },
+    {
+      "id": "Y3V01-E057",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine20:para0310",
+      "last": "COTE:Y3V01:spine20:para0345",
+      "claim_types": [
+        "TF",
+        "CI",
+        "UA"
+      ],
+      "confidence": "A",
+      "delta": "REVELATION_OF_PRIOR_STATE",
+      "evidence": "Nanase addresses a caller as Tsukishiro, states a continuing year of surveillance, handles two phones and discovers three listeners. She speculates about Ishigami and an unnamed first-year student.",
+      "limit": "The callers’ unheard side, sponsor, full mission and training origins remain unverified. Horikita has left; Ayanokōji is not shown learning this information."
+    },
+    {
+      "id": "Y3V01-E058",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine21:para0009",
+      "last": "COTE:Y3V01:spine21:para0018",
+      "claim_types": [
+        "CI"
+      ],
+      "confidence": "A",
+      "delta": "CHECKPOINT_ONLY",
+      "evidence": "The author calls this the final school year and tentatively expects a similar narrative length to earlier years.",
+      "limit": "Authorial paratext is not story fact or an observed complete Year 3 publication range."
+    },
+    {
+      "id": "Y3V01-E059",
+      "source_type": "LN-TEXT",
+      "first": "COTE:Y3V01:spine25:para0001",
+      "last": "COTE:Y3V01:spine25:para0018",
+      "claim_types": [
+        "TF"
+      ],
+      "confidence": "A",
+      "delta": "CHECKPOINT_ONLY",
+      "evidence": "The electronic colophon identifies ver.001 dated 2025-03-31, based on a print first edition dated 2025-03-25.",
+      "limit": "These are the supplied artifact’s colophon dates, not a fresh external publication-history verification."
+    }
+  ]
+}
