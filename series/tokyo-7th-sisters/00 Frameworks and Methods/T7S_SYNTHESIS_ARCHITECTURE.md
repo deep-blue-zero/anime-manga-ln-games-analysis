@@ -4,16 +4,16 @@ artifact_id: T7S_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; governing architecture applied through the exact T7S_B0001–T7S_B0069 horizon; no EPISODE 6.0, EPISODE NANASUTA, 2053, or other unadmitted story source"
+source_boundary: "c20260909-r484; governing architecture applied through the exact T7S_B0001–T7S_B0076 horizon; no EPISODE NANASUTA, 2053, or other unadmitted story source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-12
+last_updated: 2026-09-13
 ---
 
 # Tokyo 7th Sisters synthesis architecture
@@ -433,3 +433,4 @@ The initialization lock and a major-story-structure transition gate answer diffe
 - 2026-09-09 — V1 / 1.1: add the bounded opening-prerequisite criterion and OPA-0001 route; preserve independent source-recovery, readiness and execution-authorization requirements.
 - 2026-09-10 — V1 / 1.2: after complete EPISODE 1.0 closeout and a controlled synthesis-length test, add optional `arc_deep_reading` promotion for sustained horizon-bounded whole-arc literary/formal interpretation; preserve compact narrative-synthesis, ledger, bounded-reading and longitudinal specialist ownership, require the narrative synthesis as publication prerequisite, and prohibit promotion by length alone.
 - 2026-09-12 — V1 / 1.3: recognize the native 2034 and 2053 Main groupings as independently completed major story structures; require a full 2034 narrative/literary, declared-character, multimodal, promoted-subject, and completion-audit release before any 2053 semantic admission; reserve era-level artifact homes; preserve metadata-only 2053 reconnaissance and later evidence-typed cross-era bridges without allowing future knowledge to rewrite the frozen 2034 horizon.
+- 2026-09-13 — V1 / 1.4: apply the unchanged governing architecture through the complete T7S_B0076 / EPISODE 6.0 horizon; preserve EPISODE NANASUTA as the sole unopened 2034 Main family and keep 2053 semantic admission blocked.
