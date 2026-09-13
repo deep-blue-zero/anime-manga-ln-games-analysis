@@ -1,0 +1,1272 @@
+{
+  "artifact_type": "year3_bootstrap_source_manifest",
+  "created_at": "2026-09-12",
+  "source_boundary_read": "Y2SL",
+  "execution_mode": "single_operation",
+  "authorized_source_unit": "Y3V01",
+  "later_sources_inventory_only": true,
+  "sources": [
+    {
+      "source_code": "Y3V01",
+      "filename": "Classroom of the Elite - Year 3 - Volume 01 [Japanese].epub",
+      "bytes": 11586189,
+      "sha256": "9036bb7750bdf14a323425b8307190932025ee4d09be4fee5e19edc2497cc47f",
+      "opf": "OEBPS/content.opf",
+      "spine": [
+        {
+          "order": 1,
+          "href": "Text/cover.xhtml",
+          "id": "p-cover",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 2,
+          "href": "Text/part0000.xhtml",
+          "id": "p-fmatter-001",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 3,
+          "href": "Text/part0001.xhtml",
+          "id": "p-fmatter-002",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 4,
+          "href": "Text/part0002.xhtml",
+          "id": "p-fmatter-003",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 5,
+          "href": "Text/part0003.xhtml",
+          "id": "p-fmatter-004",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 6,
+          "href": "Text/part0004.xhtml",
+          "id": "p-fmatter-005",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 7,
+          "href": "Text/part0005.xhtml",
+          "id": "p-titlepage",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 8,
+          "href": "Text/part0006.xhtml",
+          "id": "p-caution",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 9,
+          "href": "Text/part0007.xhtml",
+          "id": "p-toc-001",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 10,
+          "href": "Text/part0008.xhtml",
+          "id": "p-toc-002",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 11,
+          "href": "Text/part0009.xhtml",
+          "id": "p-001",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 12,
+          "href": "Text/part0010.xhtml",
+          "id": "p-002",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 13,
+          "href": "Text/part0011.xhtml",
+          "id": "p-003",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 14,
+          "href": "Text/part0012.xhtml",
+          "id": "p-004",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 15,
+          "href": "Text/part0013.xhtml",
+          "id": "p-005",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 16,
+          "href": "Text/part0014.xhtml",
+          "id": "p-006",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 17,
+          "href": "Text/part0015.xhtml",
+          "id": "p-007",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 18,
+          "href": "Text/part0016.xhtml",
+          "id": "p-008",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 19,
+          "href": "Text/part0017.xhtml",
+          "id": "p-009",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 20,
+          "href": "Text/part0018.xhtml",
+          "id": "p-010",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 21,
+          "href": "Text/part0019.xhtml",
+          "id": "p-011",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 22,
+          "href": "Text/part0020.xhtml",
+          "id": "p-012",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 23,
+          "href": "Text/part0021.xhtml",
+          "id": "p-013",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 24,
+          "href": "Text/part0022.xhtml",
+          "id": "p-allcover-001",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        },
+        {
+          "order": 25,
+          "href": "Text/part0023.xhtml",
+          "id": "p-colophon",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 26,
+          "href": "Text/part0024.xhtml",
+          "id": "p-colophon2",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 27,
+          "href": "Text/part0025.xhtml",
+          "id": "p-bookwalker",
+          "media-type": "application/xhtml+xml",
+          "properties": "svg"
+        }
+      ],
+      "image_manifest": [
+        {
+          "href": "Images/embed0000_HD.jpg",
+          "id": "embed0000_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0001_HD.jpg",
+          "id": "embed0001_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0002_HD.jpg",
+          "id": "embed0002_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0003_HD.jpg",
+          "id": "embed0003_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0004_HD.jpg",
+          "id": "embed0004_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0005_HD.jpg",
+          "id": "embed0005_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0006_HD.jpg",
+          "id": "embed0006_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0007_HD.jpg",
+          "id": "embed0007_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0008.jpg",
+          "id": "embed0008",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0009.jpg",
+          "id": "embed0009",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0010.jpg",
+          "id": "embed0010",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0011_HD.jpg",
+          "id": "embed0011_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0012_HD.jpg",
+          "id": "embed0012_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0013_HD.jpg",
+          "id": "embed0013_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0014_HD.jpg",
+          "id": "embed0014_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0015_HD.jpg",
+          "id": "embed0015_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0016_HD.jpg",
+          "id": "embed0016_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0017_HD.jpg",
+          "id": "embed0017_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0018_HD.jpg",
+          "id": "embed0018_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0019_HD.jpg",
+          "id": "embed0019_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0020_HD.jpg",
+          "id": "embed0020_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0021_HD.jpg",
+          "id": "embed0021_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0022_HD.jpg",
+          "id": "embed0022_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0023_HD.jpg",
+          "id": "embed0023_HD",
+          "media-type": "image/jpeg"
+        },
+        {
+          "href": "Images/embed0024_HD.jpg",
+          "properties": "cover-image",
+          "id": "embed0024_HD",
+          "media-type": "image/jpeg"
+        }
+      ],
+      "zip_members": 64,
+      "crc_integrity": "PASS",
+      "narrative_read": false
+    },
+    {
+      "source_code": "Y3V02",
+      "filename": "Classroom of the Elite - Year 3 - Volume 02 [Japanese].epub",
+      "bytes": 11993182,
+      "sha256": "92a5833597c2bc703fc1f66076d22c364fb2c9561eb2c3f377023be76d2837c5",
+      "opf": "item/standard.opf",
+      "spine": [
+        {
+          "order": 1,
+          "media-type": "application/xhtml+xml",
+          "id": "p-cover",
+          "href": "xhtml/p-cover.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 2,
+          "media-type": "application/xhtml+xml",
+          "id": "p-fmatter-001",
+          "href": "xhtml/p-fmatter-001.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 3,
+          "media-type": "application/xhtml+xml",
+          "id": "p-fmatter-002",
+          "href": "xhtml/p-fmatter-002.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 4,
+          "media-type": "application/xhtml+xml",
+          "id": "p-fmatter-003",
+          "href": "xhtml/p-fmatter-003.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 5,
+          "media-type": "application/xhtml+xml",
+          "id": "p-fmatter-004",
+          "href": "xhtml/p-fmatter-004.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 6,
+          "media-type": "application/xhtml+xml",
+          "id": "p-fmatter-005",
+          "href": "xhtml/p-fmatter-005.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 7,
+          "media-type": "application/xhtml+xml",
+          "id": "p-titlepage",
+          "href": "xhtml/p-titlepage.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 8,
+          "media-type": "application/xhtml+xml",
+          "id": "p-caution",
+          "href": "xhtml/p-caution.xhtml"
+        },
+        {
+          "order": 9,
+          "media-type": "application/xhtml+xml",
+          "id": "p-toc-001",
+          "href": "xhtml/p-toc-001.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 10,
+          "media-type": "application/xhtml+xml",
+          "id": "p-toc-002",
+          "href": "xhtml/p-toc-002.xhtml"
+        },
+        {
+          "order": 11,
+          "media-type": "application/xhtml+xml",
+          "id": "p-001",
+          "href": "xhtml/p-001.xhtml"
+        },
+        {
+          "order": 12,
+          "media-type": "application/xhtml+xml",
+          "id": "p-002",
+          "href": "xhtml/p-002.xhtml"
+        },
+        {
+          "order": 13,
+          "media-type": "application/xhtml+xml",
+          "id": "p-003",
+          "href": "xhtml/p-003.xhtml"
+        },
+        {
+          "order": 14,
+          "media-type": "application/xhtml+xml",
+          "id": "p-004",
+          "href": "xhtml/p-004.xhtml"
+        },
+        {
+          "order": 15,
+          "media-type": "application/xhtml+xml",
+          "id": "p-005",
+          "href": "xhtml/p-005.xhtml"
+        },
+        {
+          "order": 16,
+          "media-type": "application/xhtml+xml",
+          "id": "p-006",
+          "href": "xhtml/p-006.xhtml"
+        },
+        {
+          "order": 17,
+          "media-type": "application/xhtml+xml",
+          "id": "p-007",
+          "href": "xhtml/p-007.xhtml"
+        },
+        {
+          "order": 18,
+          "media-type": "application/xhtml+xml",
+          "id": "p-008",
+          "href": "xhtml/p-008.xhtml"
+        },
+        {
+          "order": 19,
+          "media-type": "application/xhtml+xml",
+          "id": "p-009",
+          "href": "xhtml/p-009.xhtml"
+        },
+        {
+          "order": 20,
+          "media-type": "application/xhtml+xml",
+          "id": "p-010",
+          "href": "xhtml/p-010.xhtml"
+        },
+        {
+          "order": 21,
+          "media-type": "application/xhtml+xml",
+          "id": "p-011",
+          "href": "xhtml/p-011.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 22,
+          "media-type": "application/xhtml+xml",
+          "id": "p-012",
+          "href": "xhtml/p-012.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 23,
+          "media-type": "application/xhtml+xml",
+          "id": "p-allcover-001",
+          "href": "xhtml/p-allcover-001.xhtml",
+          "properties": "svg"
+        },
+        {
+          "order": 24,
+          "media-type": "application/xhtml+xml",
+          "id": "p-colophon",
+          "href": "xhtml/p-colophon.xhtml"
+        },
+        {
+          "order": 25,
+          "media-type": "application/xhtml+xml",
+          "id": "p-colophon2",
+          "href": "xhtml/p-colophon2.xhtml"
+        },
+        {
+          "order": 26,
+          "media-type": "application/xhtml+xml",
+          "id": "p-bookwalker",
+          "href": "xhtml/p-bookwalker.xhtml",
+          "properties": "svg"
+        }
+      ],
+      "image_manifest": [
+        {
+          "media-type": "image/jpeg",
+          "id": "allcover-001",
+          "href": "image/allcover-001.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "cover",
+          "href": "image/cover.jpg",
+          "properties": "cover-image"
+        },
+        {
+          "media-type": "image/png",
+          "id": "gaiji-0001",
+          "href": "image/gaiji-0001.png"
+        },
+        {
+          "media-type": "image/png",
+          "id": "gaiji-0002",
+          "href": "image/gaiji-0002.png"
+        },
+        {
+          "media-type": "image/png",
+          "id": "gaiji-0003",
+          "href": "image/gaiji-0003.png"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "h1",
+          "href": "image/h1.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "h4",
+          "href": "image/h4.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "i-bookwalker",
+          "href": "image/i-bookwalker.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "kuchie-001",
+          "href": "image/kuchie-001.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "kuchie-002",
+          "href": "image/kuchie-002.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "kuchie-003",
+          "href": "image/kuchie-003.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "kuchie-004",
+          "href": "image/kuchie-004.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "kuchie-005",
+          "href": "image/kuchie-005.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p028",
+          "href": "image/p028.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p133",
+          "href": "image/p133.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p199",
+          "href": "image/p199.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p211",
+          "href": "image/p211.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p224",
+          "href": "image/p224.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p246",
+          "href": "image/p246.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p252",
+          "href": "image/p252.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p293",
+          "href": "image/p293.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p307",
+          "href": "image/p307.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "p315",
+          "href": "image/p315.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "titlepage",
+          "href": "image/titlepage.jpg"
+        },
+        {
+          "media-type": "image/jpeg",
+          "id": "toc-001",
+          "href": "image/toc-001.jpg"
+        }
+      ],
+      "zip_members": 64,
+      "crc_integrity": "PASS",
+      "narrative_read": false
+    },
+    {
+      "source_code": "Y3V03",
+      "filename": "Classroom of the Elite - Year 3 - Volume 03 [Japanese].epub",
+      "bytes": 14630551,
+      "sha256": "d447de2effcfeeed3f5eedb266c3cf0fbf8dc6ba2491cc8f2becbb3bc057c9ff",
+      "opf": "content.opf",
+      "spine": [
+        {
+          "order": 1,
+          "id": "titlepage",
+          "href": "titlepage.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 2,
+          "id": "c9.xhtml",
+          "href": "OEBPS/c9.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 3,
+          "id": "cM.xhtml",
+          "href": "OEBPS/cM.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 4,
+          "id": "cX.xhtml",
+          "href": "OEBPS/cX.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 5,
+          "id": "c16.xhtml",
+          "href": "OEBPS/c16.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 6,
+          "id": "c1F.xhtml",
+          "href": "OEBPS/c1F.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 7,
+          "id": "c1S.xhtml",
+          "href": "OEBPS/c1S.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 8,
+          "id": "c21.xhtml",
+          "href": "OEBPS/c21.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 9,
+          "id": "c2A.xhtml",
+          "href": "OEBPS/c2A.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 10,
+          "id": "c2K.xhtml",
+          "href": "OEBPS/c2K.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 11,
+          "id": "c2X.xhtml",
+          "href": "OEBPS/c2X.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 12,
+          "id": "c36.xhtml",
+          "href": "OEBPS/c36.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 13,
+          "id": "c3R.xhtml",
+          "href": "OEBPS/c3R.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 14,
+          "id": "c5A.xhtml",
+          "href": "OEBPS/c5A.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 15,
+          "id": "cWJ.xhtml",
+          "href": "OEBPS/cWJ.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 16,
+          "id": "c215.xhtml",
+          "href": "OEBPS/c215.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 17,
+          "id": "c2XV.xhtml",
+          "href": "OEBPS/c2XV.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 18,
+          "id": "c3S9.xhtml",
+          "href": "OEBPS/c3S9.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 19,
+          "id": "c44R.xhtml",
+          "href": "OEBPS/c44R.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 20,
+          "id": "c4Z7.xhtml",
+          "href": "OEBPS/c4Z7.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 21,
+          "id": "c5WH.xhtml",
+          "href": "OEBPS/c5WH.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 22,
+          "id": "c6F3.xhtml",
+          "href": "OEBPS/c6F3.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 23,
+          "id": "c6G3.xhtml",
+          "href": "OEBPS/c6G3.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 24,
+          "id": "c6GC.xhtml",
+          "href": "OEBPS/c6GC.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 25,
+          "id": "c6GN.xhtml",
+          "href": "OEBPS/c6GN.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 26,
+          "id": "c6HW.xhtml",
+          "href": "OEBPS/c6HW.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 27,
+          "id": "c6J6.xhtml",
+          "href": "OEBPS/c6J6.xhtml",
+          "media-type": "application/xhtml+xml"
+        }
+      ],
+      "image_manifest": [
+        {
+          "id": "cover",
+          "href": "cover.jpeg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6K5.jpg",
+          "href": "OEBPS/image_rsrc6K5.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6K6.jpg",
+          "href": "OEBPS/image_rsrc6K6.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6K7.jpg",
+          "href": "OEBPS/image_rsrc6K7.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6K8.jpg",
+          "href": "OEBPS/image_rsrc6K8.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6K9.jpg",
+          "href": "OEBPS/image_rsrc6K9.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KA.jpg",
+          "href": "OEBPS/image_rsrc6KA.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KB.jpg",
+          "href": "OEBPS/image_rsrc6KB.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KC.jpg",
+          "href": "OEBPS/image_rsrc6KC.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KD.jpg",
+          "href": "OEBPS/image_rsrc6KD.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KE.jpg",
+          "href": "OEBPS/image_rsrc6KE.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KF.jpg",
+          "href": "OEBPS/image_rsrc6KF.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KG.jpg",
+          "href": "OEBPS/image_rsrc6KG.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KH.jpg",
+          "href": "OEBPS/image_rsrc6KH.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KJ.jpg",
+          "href": "OEBPS/image_rsrc6KJ.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KK.jpg",
+          "href": "OEBPS/image_rsrc6KK.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KM.jpg",
+          "href": "OEBPS/image_rsrc6KM.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KN.jpg",
+          "href": "OEBPS/image_rsrc6KN.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KP.jpg",
+          "href": "OEBPS/image_rsrc6KP.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KR.jpg",
+          "href": "OEBPS/image_rsrc6KR.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KS.jpg",
+          "href": "OEBPS/image_rsrc6KS.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KT.jpg",
+          "href": "OEBPS/image_rsrc6KT.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KU.jpg",
+          "href": "OEBPS/image_rsrc6KU.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KV.jpg",
+          "href": "OEBPS/image_rsrc6KV.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KW.jpg",
+          "href": "OEBPS/image_rsrc6KW.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KX.jpg",
+          "href": "OEBPS/image_rsrc6KX.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc6KY.jpg",
+          "href": "OEBPS/image_rsrc6KY.jpg",
+          "media-type": "image/jpeg"
+        }
+      ],
+      "zip_members": 63,
+      "crc_integrity": "PASS",
+      "narrative_read": false
+    },
+    {
+      "source_code": "Y3V04",
+      "filename": "Classroom of the Elite - Year 3 - Volume 04 [Japanese].epub",
+      "bytes": 14641419,
+      "sha256": "35255e4aa76a4b4b6b6a5c57bf38ba4aa1be577e20ed0847f7a11bd6cec76dee",
+      "opf": "content.opf",
+      "spine": [
+        {
+          "order": 1,
+          "id": "titlepage",
+          "href": "titlepage.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 2,
+          "id": "c9.xhtml",
+          "href": "OEBPS/c9.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 3,
+          "id": "cM.xhtml",
+          "href": "OEBPS/cM.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 4,
+          "id": "cX.xhtml",
+          "href": "OEBPS/cX.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 5,
+          "id": "c16.xhtml",
+          "href": "OEBPS/c16.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 6,
+          "id": "c1F.xhtml",
+          "href": "OEBPS/c1F.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 7,
+          "id": "c1S.xhtml",
+          "href": "OEBPS/c1S.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 8,
+          "id": "c21.xhtml",
+          "href": "OEBPS/c21.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 9,
+          "id": "c2B.xhtml",
+          "href": "OEBPS/c2B.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 10,
+          "id": "c2M.xhtml",
+          "href": "OEBPS/c2M.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 11,
+          "id": "c36.xhtml",
+          "href": "OEBPS/c36.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 12,
+          "id": "c5B.xhtml",
+          "href": "OEBPS/c5B.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 13,
+          "id": "c13G.xhtml",
+          "href": "OEBPS/c13G.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 14,
+          "id": "c2V5.xhtml",
+          "href": "OEBPS/c2V5.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 15,
+          "id": "c39K.xhtml",
+          "href": "OEBPS/c39K.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 16,
+          "id": "c3P4.xhtml",
+          "href": "OEBPS/c3P4.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 17,
+          "id": "c4ER.xhtml",
+          "href": "OEBPS/c4ER.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 18,
+          "id": "c55S.xhtml",
+          "href": "OEBPS/c55S.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 19,
+          "id": "c5PS.xhtml",
+          "href": "OEBPS/c5PS.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 20,
+          "id": "c6D7.xhtml",
+          "href": "OEBPS/c6D7.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 21,
+          "id": "c6ZF.xhtml",
+          "href": "OEBPS/c6ZF.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 22,
+          "id": "c6ZT.xhtml",
+          "href": "OEBPS/c6ZT.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 23,
+          "id": "c70R.xhtml",
+          "href": "OEBPS/c70R.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 24,
+          "id": "c710.xhtml",
+          "href": "OEBPS/c710.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 25,
+          "id": "c719.xhtml",
+          "href": "OEBPS/c719.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 26,
+          "id": "c71J.xhtml",
+          "href": "OEBPS/c71J.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 27,
+          "id": "c71V.xhtml",
+          "href": "OEBPS/c71V.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 28,
+          "id": "c724.xhtml",
+          "href": "OEBPS/c724.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 29,
+          "id": "c73B.xhtml",
+          "href": "OEBPS/c73B.xhtml",
+          "media-type": "application/xhtml+xml"
+        },
+        {
+          "order": 30,
+          "id": "c73N.xhtml",
+          "href": "OEBPS/c73N.xhtml",
+          "media-type": "application/xhtml+xml"
+        }
+      ],
+      "image_manifest": [
+        {
+          "id": "cover",
+          "href": "cover.jpeg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74N.jpg",
+          "href": "OEBPS/image_rsrc74N.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74P.jpg",
+          "href": "OEBPS/image_rsrc74P.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74R.jpg",
+          "href": "OEBPS/image_rsrc74R.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74S.jpg",
+          "href": "OEBPS/image_rsrc74S.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74T.jpg",
+          "href": "OEBPS/image_rsrc74T.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74U.jpg",
+          "href": "OEBPS/image_rsrc74U.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74V.jpg",
+          "href": "OEBPS/image_rsrc74V.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74W.jpg",
+          "href": "OEBPS/image_rsrc74W.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74X.jpg",
+          "href": "OEBPS/image_rsrc74X.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74Y.jpg",
+          "href": "OEBPS/image_rsrc74Y.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc74Z.jpg",
+          "href": "OEBPS/image_rsrc74Z.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc75A.jpg",
+          "href": "OEBPS/image_rsrc75A.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc75B.jpg",
+          "href": "OEBPS/image_rsrc75B.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc75C.jpg",
+          "href": "OEBPS/image_rsrc75C.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc75D.jpg",
+          "href": "OEBPS/image_rsrc75D.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc75E.jpg",
+          "href": "OEBPS/image_rsrc75E.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc750.jpg",
+          "href": "OEBPS/image_rsrc750.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc751.jpg",
+          "href": "OEBPS/image_rsrc751.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc752.jpg",
+          "href": "OEBPS/image_rsrc752.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc753.jpg",
+          "href": "OEBPS/image_rsrc753.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc754.jpg",
+          "href": "OEBPS/image_rsrc754.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc755.jpg",
+          "href": "OEBPS/image_rsrc755.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc756.jpg",
+          "href": "OEBPS/image_rsrc756.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc757.jpg",
+          "href": "OEBPS/image_rsrc757.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc758.jpg",
+          "href": "OEBPS/image_rsrc758.jpg",
+          "media-type": "image/jpeg"
+        },
+        {
+          "id": "image_rsrc759.jpg",
+          "href": "OEBPS/image_rsrc759.jpg",
+          "media-type": "image/jpeg"
+        }
+      ],
+      "zip_members": 67,
+      "crc_integrity": "PASS",
+      "narrative_read": false
+    }
+  ]
+}
