@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Monsterhood, personhood, body, and transformation evidence through V26
+scope: Monsterhood, personhood, body, and transformation evidence through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -457,3 +459,119 @@ Darkshine's V23 body is depicted as functionally invulnerable to Bug God and is 
 - **Manako:** monster morphology coexists with cooperative route behavior and local informational contribution.
 - **Invisible monster:** visibility is a tactical body property, not a personhood marker.
 - **Cross-volume rule — STRENGTHEN:** material substrate, visible form, agency, affiliation, cognition, and moral relation must remain independently represented.
+
+
+## V27 delta — shared body does not settle agency
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+- **REVISE settled-fusion shorthand:** Orochi initially invades/targets Psykos; Psykos later claims his body. Shared material form does not prove shared or permanently unified personhood. `OPM|V27|132|image:0015-0019`.
+- **STRENGTHEN distributed-body model:** local root damage produces centrally registered loss and sensation; nutrient/energy uptake also permits Tatsumaki's infiltration. Expansion creates vulnerability as well as reach. `OPM|V27|132|image:0027-0031`; `137|image:0170-0171`.
+- **Psykos-attributed ideology:** planetary incorporation is her claimed evolutionary endpoint. Power inflow associated with a God-like encounter does not establish the origin of her monsterhood or narrator approval of assimilation. `OPM|V27|136|image:0134-0143`.
+- **STRENGTHEN category/person distinction:** Saitama and Manako exchange names without resolving the institution's monster classification. `OPM|V27|135|image:0117`.
+- **STRENGTHEN contradiction:** Garou's aversion to bullying persists inside self-authored evil; altered body and moral distinctions cannot be collapsed. `OPM|V27|133|image:0057`.
+
+TF/VF/SF and bounded IR remain distinct. The cosmic entity's identity and the fusion's residual agency remain OPEN.
+
+## V28 delta — combined bodies do not determine moral or personal unity
+
+Propagated from the frozen [V28 reading](../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+- **REVISE a literal-fusion/cooperation binary:** Genos and Drive Knight actually combine as `戦術合体 龍王`, retain separate voices and responsibilities, and plan separation. The relevant contrast with Psykos/Orochi includes consent, purposes, control and retained agency, not merely whether bodies combine. `OPM / V28 / chapter:143 / image:0168–0174`.
+- **STRENGTHEN incorporation's contextual meaning:** Pig God's protective body use provokes Child Emperor's digestion fear, then the scene corrects it as injury. The rescue does not equate with the fused organism's consumption project. `139 / 0059–0063`.
+- **KEEP labels attributed:** Psykos's `バケモノ` reaction to Tatsumaki is fear/evaluation; Garou's `災害レベル神` is his envisioned identity. Neither establishes transformed species or contact with the unnamed cosmic presence. `138 / 0021–0024`; `141 / 0093–0101`.
+- **PRESERVE personal contradiction:** Amai conceals threatened ally-directed violence and restrains himself through memory and self-impact; ontology remains OPEN. Manako's ordinary reactions and attempted departure preserve individual agency without universal redemption. `140 / 0078–0087`; `143 / 0192–0193,0203`.
+- **OPEN distributed survival:** changed aircraft/body forms, detached material, a captured fragment and successive attacks do not establish that all Orochi-derived matter has died or that Psykos escaped. The prepared final spear has no depicted impact within this volume. `139 / 0043–0055`; `142 / 0148–0156`; `143 / 0186–0202`.
+
+## V29 body/personhood delta — vessels, patients and bodily boundaries
+
+Propagated after the frozen [V29 reading](../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+| Body/category problem | Observed distinction | Retained uncertainty | Evidence |
+|---|---|---|---|
+| Worthy vessel offer | unseen voice conditions power on qualification; Homeless Emperor separately judges vessels and human beauty | no accepted transfer; no automatic identification or endorsement of purity | `144 / 0012–0016`; `146 / 0070–0074` |
+| Particular monster recognized | Manako's conduct is cited in her defense and she is included | no universal acceptance or proof of the rescuer's initial hostile intention | `144 / 0021–0023` |
+| Human leadership and damaged humanlike bodies | Child Emperor praises humanity; Zombieman protects and is torn apart; Amai's face/body are attacked | speech ideology, morphology, moral status and terminal condition remain distinct | `144 / 0024–0029`; `146 / 0071–0075` |
+| Biological/hardware care | Fubuki suppresses heat and strengthens/recovers the biological portion, after which danger clears | not metal regeneration or unlimited healing; cost to healer is shown | `147 / 0098–0101` |
+| Ingestion and release | Pig God discharges survivors for care; Gums consumes heroes and ally; Fuhrer Ugly ruptures outward | same broad bodily form can protect or prey; swallowed does not mean dead, released does not mean fully healed | `148–149 / 0125–0165` |
+| Garment and patient | recoil precedes revival; sincere magic belief is marked; shattered bones still need care | no applied electrical shock shown and no certified supernatural mechanism | `149 / 0154–0155,0162` |
+| Altered Fuhrer Ugly | new viscous appearance and printed `G`/`ゲロ` label follow rupture; mirror evokes horror | no corrosive test, fuel rule or final prognosis established in V29 | `149 / 0164–0165` |
+| Water and replication | water survives slicing; incomplete connected cuts delay Black Sperm's immediate increase | ocean image is conjecture; neither tactic establishes destruction of every remnant | `150 / 0168–0189` |
+
+Fuhrer Ugly's face/dignity targeting is domination behavior, not a basis for treating physical appearance as moral essence. Darkshine's beauty investment can accompany real protection (`150 / 0170–0180`), complicating any simple heroes/monsters beauty binary.
+
+## V30 body/personhood delta — physical changes and ethical continuity
+
+Propagated after the frozen [V30 reading](../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+| Subject | New body evidence | Personhood / causal boundary |
+|---|---|---|
+| Garou | armored appearance, rapidly acquired art and a small facial crack during Bang's appeal (`151–155 / 0031–0086,0134–0135,0159`) | human history remains analytically relevant; conscious intent, final ontology and reversal remain open. Monsterization-as-adaptation-cause is Bomb's question |
+| Genos | progressive mechanical dismantling yet conscious rescue action and changed collateral policy (`154–155 / 0129–0130,0160–0167`) | less body does not equal less ethical agency; repeated narrative views do not establish a repair; former-self counterfactual is not a historical massacre |
+| FU / Gums | digestive surface melts bodies/blades; FU names inherited digestion, wants replenishment and revenge (`152–154 / 0057–0065,0087–0118`) | altered material effects now verified, complete maintenance/strengthening law not. Bodily ugliness alone is not the moral criterion; inflicted humiliation is conduct |
+| BS / GS | selective combination, separate cells, cellular accounting, golden resistance and severed right forearm (`153–156 / 0095–0101,0115–0118,0164,0182`) | concentration does not erase all dissent or personhood; exact totals are attributed; no literal political theory follows from metaphor |
+| Darkshine | real burns before comparison crisis and disabling blow (`152 / 0057–0061`; `154 / 0108–0113`) | confidence vulnerability coexists with injury and earlier protective action; no moral diagnosis from defeat or permanent incapacity inferred |
+| Atomic / sword | apparent response and brief altered performance followed by energy drain (`156 / 0173–0184`) | Atomic's assimilation question and GS's uncertainty about monsterization are not a confirmed new species/change mechanism |
+| ENW | returns after prior dispersion (`156 / 0185–0186`) | prior local defeat is qualified; no new broad personality or complete hostility-trigger rule |
+| Patient / swordmaster losses | slight TTM improvement; catastrophic deaths and terminally framed instruction (`151 / 0028–0030`; `152–153 / 0062–0065,0087–0094`) | treatment, survival, bodily restoration and certified terminal fate require separate evidence |
+
+Protective purpose is not entailed by a human shape or negated by a grotesque one. The volume's clearest ethical changes concern what people will do with available force and with others' vulnerability.
+
+## V31 body/personhood delta — merged, damaged and resistant persons
+
+Propagated after the frozen [V31 reading](../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+| Subject | Body evidence | Agency / boundary |
+|---|---|---|
+| Garou | cracked covering/exposed face, increasing integrated technique, eventual rival defeat (`158–161 / 0071–0073,0134–0167,0193–0199`) | body change does not decide affiliation; rescue effect and later memory gap qualify intention; no completed moral conversion |
+| Genos | severely dismantled yet conscious, doubtful and grateful (`160 / 0132–0133,0150–0155`) | ethical/person continuity exceeds intact hardware. Color core-touch sequence is recognition, not demonstrated installation |
+| Tatsumaki | injured under shirt, resists apparent offer, remains closed-eyed when real Blast comes (`161 / 0200–0213`) | vulnerability does not eliminate refusal; recognizing resistance is not physical healing |
+| Sperm collectivity | named current pools, separate insurance, ego contest and irreversible fusion; later fused body fragments (`157 / 0038–0049`; `161 / 0193–0199`) | participants value sacrificed lives; not every uncombined unit is erased. Exact V30/V31 quantity discrepancy stays open |
+| HE | claimed power/life revocation followed by burning body (`158 / 0078–0087`) | strong external interference case; apparition size/meadow do not prove common physical location or shared perception |
+| FU / water | FU collapses/dissolves; dispersed water returns at ocean scale (`159–161 / 0105–0120,0170–0173,0220–0221`) | visual destruction and persistence are case-specific; no universal acid immunity or water death inferred |
+| Sage Centipede | huge segmented emergence, explicit unknown threat class (`161 / 0214–0223`) | mission speech supplies narrow agency; origin and complete divine mechanism unproved |
+
+Manako's response to Flash strengthens separation of nonhuman body and ethical conduct (`0188`). Cover/contents poses do not certify healing or current chronology. No paired edition evidence supports a redraw finding.
+
+## V32 body delta — continuity through change does not cancel violence
+
+Propagated after the frozen [V32 reading](../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+| Subject | New body/conduct evidence | Boundary |
+|---|---|---|
+| Garou | conscious protection, reinforced exterior, fractured/apparently renewed hand, further spiked change, familiar greeting, violent program | appearance/personhood/intent separate. Anger causation is his question; no proved donor contact, ingestion or permanent limiter removal | `0013–0099,0193–0213` |
+| Bat | wounds accumulate amid increased output, collapses after encouraging Garou | narrated local resonance and protective maxim do not imply unlimited endurance or costless growth | `0076–0099` |
+| Sage | extracted core, failed regeneration, core destruction and longitudinal split | specific observed dependency, not all-regenerator biology; unnamed comparison inset remains unassigned | `0094–0120` |
+| Amai / Pig God | Amai upright after severe injury; gaunt eater later enlarged and swimming | survival/state transitions visible; neither healing nor full size/ingestion physiology explained | `0102–0104,0147–0150` |
+| Manako / Flash | caregiving misread as predation; Flash later holds Manako | nonhuman body does not settle conduct; Amai has no demonstrated belief revision | `0129–0133` |
+| Fubuki / Tatsumaki / Master / injured group | attempted energy aid, depletion, changed Master carrying, protected transport | body care is active; completed cure, restored agency and final released passengers not shown | `0134–0150` |
+| Evil Ocean Water | huge disruption with eye-bearing remnants and qualified death reports | no certified eradication; mechanism-only continuity retained | `0022–0033,0182` |
+
+Tareo recognizes a continuing uncle through the repeated survival greeting while still trembling; his highest-hero name is personal and his warning concerns others' judgment (`0205–0213`). Neither this recognition nor Saitama's costume interpretation supplies an exhaustive biological account. Endmatter poses and the bonus do not establish a new main-story state.
+
+## V33 body delta — altered capacity and divided agency
+
+Propagated after the frozen [V33 reading](../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+| Observation | Supported transition | Limit |
+|---|---|---|
+| Garou's arms/wings/mass, cracking and exposed human interior | further pre-grant transformation defeats a finished-body account | costume language is not biology; later grant cannot explain earlier changes retrospectively (`0010–0085`) |
+| Rejected hand still touched; transformed arrival explained later by flashback | external alteration can occur during refusal | no consenting handshake, complete autonomy, total possession or universal recipient rule (`0096–0105,0154–0168`) |
+| Near-loss, inherited flow, proxy mandate and partial personality inference | bodily change and retained deliberation coexist | Garou, donor, Bang and Blast have different access and authority (`0156–0172`) |
+| Radiation symptoms in humans and Manako; Genos continues operating | danger crosses the human/monster boundary; resistance varies | no complete death census, universal cyborg immunity or medical recovery claim (`0144,0162–0176`) |
+| Deliberate Genos destruction and retained core | a person is attacked through a relationship and a body remnant becomes focal evidence | future repair/identity continuity/permanent death remain open (`0191–0207`) |
+| Pig God/passenger release and Master reunion | recognizable continuity through unexplained change | full physiology, completed healing and destination safety unshown (`0087–0088`) |
+
+Garou's informed endorsement and deliberate targeted act forbid reducing harm to appearance or involuntary radiation alone. Continued attachment forbids treating the new body as proof that all earlier personhood disappeared. No blanket redemption or absolution follows.
+
+## V34 body delta — temporal continuity and care across appearance
+
+Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+**REVISE permanent-loss certainty:** the zero punch changes the local future before core extraction and collapse; conscious damaged Genos persists with his installed core, while the carried future core remains beside it and transfers memories. This establishes object/data continuity without a complete answer to personal identity or branch survival (`173–174 / 0131–0162`).
+
+**DISTINGUISH revocation stages:** the detached confiscation command precedes whitening and fragmentation during instruction; later past Garou radiates power and narrated `神通力` is lost. Salt is Saitama's question, not a chemical assay. These scenes do not establish identical physiology or agency in all recipients (`173–174 / 0120–0126,0141,0167`).
+
+**STRENGTHEN personhood beyond surface:** Tareo embraces still-transformed Garou; human appearance later accompanies continuing accountability. Body shape does not alone confer innocence or disqualify care. The pale figure is shown but unnamed as ghost, dream or temporal remnant (`174–175 / 0162–0166,0182–0184,0195–0203`).
+
+**PRESERVE material care:** Bofoi's medical report and actual deployment do not enumerate every final patient outcome. Genos moves from damaged torso to working limbs; Bang reports benefit without cyborg conversion. Fubuki's bilateral scars, fresh needle injuries and repaired garment are distinct traces/actions (`174–175/bonus / 0190–0193,0208,0214–0218`). Earlier other-body mysteries retain their own boundaries.

@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Satire, genre, and public narrative through V26
+scope: Satire, genre, and public narrative through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -455,3 +457,100 @@ Amai compares hero evaluation to elite restaurant grading and emphasizes citizen
 - **Saitama / Flash / Manako:** Flash's working model of Saitama lags the reader's operational knowledge, while Saitama does little to narrate or advertise his own history. Institutional ignorance is therefore not produced by one foolish observer alone; missing self-report and fragmented witness structure help sustain it.
 - **Garou / Darkshine:** Darkshine's finished-body rhetoric meets Garou's explicitly processual, pressure-driven growth. The battle genre's ideal of the completed powerful body is placed against a protagonist-antagonist body that keeps becoming something else under opposition.
 - **`大抜擢`:** the Hero Association accurately identifies staff competence and then redirects that competence toward sponsor-facing, idolized publicity work. The joke is purpose drift: merit recognition can be locally correct while institutional incentives redirect what the recognized person is used for.
+
+
+## V27 delta — cosmic rhetoric retains an ordinary counterweight
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+| Comic / formal mechanism | Target | Sincere value or constraint preserved | Evidence route |
+|---|---|---|---|
+| head-contact irritation causes distributed damage | inflated scale and body-horror grandeur | the system-wide injury remains causally real | `OPM|V27|132|image:0027-0031` |
+| tanktop language validates Mumen | eccentric heroic branding | useful rescue work and mutual recognition | `OPM|V27|135|image:0101-0104` |
+| heroes refuse to lose while visibly wounded | literal undefeated-hero rhetoric | persistence after actual defeat | `OPM|V27|135|image:0096-0111` |
+| Tatsumaki reduces total assimilation to ending alone | Psykos's prophetic/evolutionary grandiosity | the extraordinary power event is not denied; the desired endpoint is contested | `OPM|V27|136|image:0139-0143` |
+| ultimate-wisdom speech cuts to dinner and embarrassment | cosmic rhetoric's claim to monopolize importance | ordinary desire, distinct companions and pride continue | `OPM|V27|137|image:0189-0191` |
+
+SF/TF/VF -> IR: comedy changes the scale of attention without making danger or heroic labor unreal. No web/redraw comparison is inferred.
+
+## V28 delta — comic explanations beside useful action
+
+Propagated from the frozen [V28 reading](../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+- **Ordinary scale persists:** the laundry vignette, Saitama's concern for his home, and the missing-sword quarrel remain legible beside immense surface violence and the final unknown figure. The joke about avoiding a broken arm is corrected by the sword reveal; preserve the timing of that withheld referent. `OPM / V28 / 138 / 0032–0036`; `143 / 0192–0205`.
+- **Body comedy corrects mistaken danger:** Child Emperor fears digestion inside Pig God; injury explains the complaint. Protective incorporation retains an ungainly visual form. `139 / 0059–0063`.
+- **Encouragement is ethically untidy:** a heroic speech, pride/muscle wordplay, real kicks, recognition of training, and a threatened kiss all precede Darkshine's standing. Immediate bickering punctures Child Emperor's idealized view of reunited S-class heroes without cancelling their effective coordination. `141 / 0103–0123`.
+- **Sincere thanks can use a wrong theory:** Tanktop Master's garment explanation and Fubuki's private correction preserve both gratitude and causal error. It is not proof that the aid failed. `143 / 0165–0168`.
+- **Genre form also works literally:** tactical robot combination has real resource terms, risk and separate speakers; its comic/genre recognizability does not make it imaginary or mechanically unconstrained. `143 / 0168–0174`.
+- **Anti-spectacle public protection:** Watchdog Man's extra measures an incident through detection, travel, return, alarm lag and cleanup, ending in a quiet routine and an unknown-ability statement. A deity comparison belongs to local descriptive framing, not a new metaphysical identity. `extra:嗅覚 / 0206–0209`.
+
+## V29 satire delta — vanity, credit and rescue undercutting
+
+Propagated after the frozen [V29 reading](../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+- Cosmic ceremony is interrupted by failed light, reflective scalp and practical guide appraisal (`144 / 0010–0023`). The joke preserves Saitama's limited knowledge instead of turning ordinary speech into omniscience.
+- King is shown through incompatible private fear and favorable public interpretation; the strained thumbs-up and flight scream take meaning from both (`145 / 0043–0055`). Sekingar's sound work-allocation principle still operates with this false input.
+- Suiryu's declared seriousness meets a sibling who remembers his changing ambitions; injury play and an oversized citrus gift restore ordinary scale (`146 / 0058–0062`). The interruption tests credibility without proving the ambition false.
+- Bang's first-aid response to Genos and the tank-top recoil/revival interrupt expected technical or solemn rescue causality (`147 / 0091`; `149 / 0154–0155`). `※正気` confirms sincere belief, not a magic law; later shattered-bone urgency keeps the medical cost active.
+- Homeless Emperor aestheticizes attacks as music and purity while missing a decoy (`148 / 0104–0109`). Black Sperm's less elevated commentary can be tactically better. Speaker beauty claims remain ideologies.
+- Darkshine's protection becomes shower/polishing vanity and a protein/shine insult (`150 / 0170–0193`). Effective aid and vanity coexist; the final angry face withholds the consequence. Pig God's delivery of an angry survivor similarly refuses frictionless gratitude (`149 / 0143–0144`).
+
+Strongest limiting reading: repeated rescue entrances, graphic defeat and reversible deathlike states can function as serial comeback spectacle. The sustained-rescue thesis remains bounded to the actual dependencies and unfinished care work; it does not deny that genre pleasure or assert universal moral progress.
+
+## V30 satire delta — concern mistaken for capacity
+
+Propagated after the frozen [V30 reading](../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+| Mechanism | Evidence | Analytical consequence / limit |
+|---|---|---|
+| Contested resemblance | Fubuki rejects Bomb's head/disposition comparison (`151 / 0010–0011`) | serious care impulse rendered with comic denial; not equal psychic output or resolved sibling relation |
+| Engineering and deflected blame | Genos uses Tatsumaki's prior attack as data; she claims credit, he asks for reflection function (`152 / 0053`) | adaptation and reciprocal banter preserve conflict; not a completed apology |
+| Impulsive inquiry | Metal Bat destroys respondents before extracting information (`154 / 0116–0118`) | action undermines his own immediate information goal, not proof of global stupidity |
+| Misattuned rescue | PPP interrupts CE's farewell and reads protest as affection (`154 / 0127–0128`) | rescue can be effective while interpersonal interpretation is wrong |
+| Epic face / private panic | King breath read as contempt, private Genos concern, hoped-for Saitama replaced by cheering CE/PPP (`156 / 0189–0195`) | false beliefs cause real tactical choices; no completed victory or deliberate mastery of every bluff |
+| Mediated celebrity pose | elaborate fashion captions culminate in Saitama's irritated magazine reading (`extra / 0196–0201`) | literal untrained/private person and heroic presentation coexist; no verified editorial conspiracy, envy or confession |
+| Harmful pleasure | young Bang's enjoyment ideology and HE's killing rhythm (`155 / 0140`; `156 / 0171–0172`) | amusement can motivate cruelty in these cases; ordinary gaming is not equated with predation |
+
+V1's general reputation insight is preserved but sourced to distinct mechanisms. The extra is a publication satire, not another witnessed battlefield survival episode. Care, comedy and lethal stakes continue together without cancelling one another.
+
+## V31 satire delta — a causal replay inside an ultimate-technique myth
+
+Propagated after the frozen [V31 reading](../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+King's mundane intent, private panic and grand public reading repeatedly diverge: footing advice becomes hidden strategy, attempted gratitude becomes a fear of being killed, and an intended confession emerges as a mangled ultimate name (`0018–0023,0096–0097,0109`). CE's sugar excuse and revised delay theory preserve a false premise through increasing intellectual effort (`0036,0093`). The joke targets attribution and genre expectation, while Zombieman's restraint and later practical care retain real stakes.
+
+The Garou action sequence followed by explicitly normal-speed replay lets the reader know the cause before Metal Bat credits King (`0110–0119`). The full cover's thought cloud repeats the distinction between imagined spectacle and frightened person (`0231–0232`). Platinum's polished final-form rhetoric and Garou's interrupted/revised names satirize escalation without canceling actual danger (`0043–0049,0099,0164–0167,0193–0199`).
+
+The light lattice also receives a wrong public explanation while narration identifies three combatants (`0156–0157`). In contrast, King's accurate report of Genos's protection permits meaningful recognition (`0150–0155`): the volume does not say all public speech or praise is false. Cosmic recruitment uses flattery and trusted appearance; failure of the offer and real Blast's need for help qualify both solitary-savior glamour and unlimited borrowed-power fantasy (`0201–0213`).
+
+## V32 satire delta — quarrels, grand identity and the requested task
+
+Propagated after the frozen [V32 reading](../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+Paired bad-boy titles and poses, mutual kicks, rough imperatives, competing finishing claims and shared attack lettering make cooperation look like continued quarrel. Narration then specifies accidental unequal resonance, while the rescue goal was deliberately shared (`162–163 / 0037–0099`). Comedy exposes practical dependence without making injury or care fictitious.
+
+The sea spectacle becomes novice surfing and hazardous docking. Amai turns catastrophic injury into a trouser account and misreads a huge shirt as a tent; genuine escort concern coexists with revenge and his later attack on Manako. King's calm timing is knowledge of Saitama, whose roughness still earns a friend's private complaint (`162,164–165 / 0028–0032,0102–0104,0129–0146`).
+
+Garou's magnificent identity declaration encounters rescue observations, household-loss frustration and a hobby-moderation lecture. That puncture does not make the coercive assault, violent threat or tears harmless theater. Tareo's personal hero name and the final stop/defeat distinction make another person's desired outcome consequential (`166–167 / 0165–0176,0206–0223`). The bonus's enormous age, preparedness and concentrated weapons fail at a simple reflection; no corresponding deliberate grand strategy is attributed to Saitama (`反射 / 0224–0225`).
+
+## V33 satire delta — unwanted thanks and a questioned documentary
+
+Propagated after the frozen [V33 reading](../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+Garou's self-authored evil repeatedly produces unwanted gratitude. Saitama's exaggerated mastery praise and King analogy expose the mismatch; the attached King joke turns overestimation back toward Saitama. The later gratitude memory has real psychological consequence, so the gag cannot erase vulnerability or convert every rescue into intention (`0033–0057`).
+
+Ordinary costume/voice remarks and self-consciously stylish mode naming survive the cosmic spectacle, then give way to black space, rain, remembered dialogue, fallen bodies and enlarged serious-series typography. The ending supports an emotionally changed fight context without declaring a permanent genre conversion or a now-proven equal opponent (`0100–0125,0191–0212`).
+
+The bonus reverses its own evidence presentation. Hostile rumor and partisan expertise give way to lavish charitable imagery, then the television frame and official's suspicion reveal a publicity object. Drive Knight's repeated way-of-fighting formula moves from reported indifference to tactical acknowledgment. The joke depends on mediation and uncertainty, not on an independently proved list of lies (`0213–0217`).
+
+## V34 satire delta — cosmic body jokes and contested accounts
+
+Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+The table flip removes an arena frame; sneeze damages Jupiter; a startled fart follows an existing gate. Household/body gestures carry actual immense effects without independently printed labels or measurements being invented. Serious-punch squared and zero punch play on counting at opposite ends of a causal sequence (`172–173 / 0013,0047–0048,0088–0102,0134–0138`).
+
+Genos promises brevity and fills the page. Real memory access leads to a theory whose flattering interpretation is corrected by arrows saying Saitama is not listening and lacks memory. This targets overinterpretation, not all technical inquiry. Flash's naked-Blast rumor and King's effective engine deterrence assign very different social consequences to partial information (`174 / 0152–0169,0179–0182`).
+
+Garou's past manifesto is punctured by a food-payment interview; later assault inquiries and apologies remain acknowledged. Bang's outdated ranger stereotype elicits ordinary conversation. Child Emperor merchandise and Narinki's cramped-car self-credit bring hero images into childhood. Fubuki translates care into executive evaluation while her bandages reveal effort (`175/bonus / 0195–0218`).
+
+The strongest counter-reading remains that time reversal shelters the recurring comic baseline from catastrophe. Core memory, injuries, restitution, staffing pressure and lost household resist complete-erasure shorthand without proving equivalent compensation. No housing/neighbors satire is admitted before primary evidence.

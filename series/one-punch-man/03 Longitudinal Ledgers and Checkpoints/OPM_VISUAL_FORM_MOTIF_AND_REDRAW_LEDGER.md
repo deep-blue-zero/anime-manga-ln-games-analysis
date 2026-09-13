@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Visual form, motif, and redraw state through V26
+scope: Visual form, motif, and redraw state through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -453,3 +455,137 @@ Amai's clipboard/scoring posture disappears before Pig God's quiet ramen-shop ge
 - **Tatsumaki/Psykos/Orochi:** clean esper silhouettes give way to heart tissue, tendrils, mouths, veins, and distributed biomass; form itself denies one-body ontology.
 - **King/Tareo:** identical King sweat/rigidity can be read by King as fear and by observers as overwhelming aura, making interpretation a visual causal variable.
 - **`大抜擢`:** interview-room grids, labels, and administrative framing explode into an idol-hero publicity splash, formally enacting institutional reassignment.
+
+
+## V27 visual/form delta
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+- **Body/environment continuity:** roots turn architecture into anatomy; local contact transmits consequence across scale. `OPM|V27|132|image:0015-0031`.
+- **Darkshine scale inversion:** monumental musculature remains, but eyes, sweat, frightened expression and childhood memory redistribute visual attention toward the vulnerable self. `OPM|V27|133|image:0041-0061`.
+- **Protection inside destruction:** repeated small rescue spheres precede the decompressed urban lift; marked people remain distinct within environmental spectacle. `OPM|V27|134|image:0064-0083`.
+- **Planetary consequence:** viewpoints widen through horizon/curvature and return to displaced water and disaster response. `OPM|V27|136|image:0124-0133`; `137|image:0150-0154`.
+- **Cosmic/biological rhyme:** brain-like, cosmic and Jupiter-like comparisons accompany the God-like encounter; resemblance is not ontological identity. `OPM|V27|136|image:0134-0138`.
+- **Small consequential action:** energy-camouflaged infiltration makes causal importance diverge from panel/object size. `OPM|V27|137|image:0170-0171`.
+- **Closing contraction:** huge-scale imagery gives way to rubble, three bodies, dinner and embarrassment. `OPM|V27|137|image:0189-0191`.
+
+VF/SF -> IR; all claims derive from the frozen V27 visual reading. **Redraw state: NO CHANGE.** No actual web counterpart was compared and no revision history is reconstructed from memory.
+
+## V28 delta — bodies, helping hands, and two withheld endings
+
+Propagated from the frozen [V28 reading](../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+- **Torsion and recombination:** beam spirals, the twisted city/root system, shifting aircraft geometry and coordinated bodies recur across different mechanisms. Record a formal pattern (SF -> IR), not literal identity between powers. `OPM / V28 / 138 / 0011–0035`; `142 / 0148–0159`; `143 / 0168–0189`.
+- **Posture and available action:** Darkshine's large curled body gives way to standing and a missile-like attacking silhouette. Scale remains available even when self-confidence fails; later extension of the body is a visible local transition, not proof of complete psychological healing. `141 / 0103–0117`; `143 / 0183–0186`.
+- **Child and giant power:** Tatsumaki's tiny confined childhood body, abandoned-cell framing and rescue contrast with her immense present power while present incapacity still requires help. The sequence links vulnerability to relational history without claiming the facility created her ability. `142 / 0129–0147`.
+- **Recognition through touch and address:** Atomic/Iaian's clasp, Bang/Child Emperor's hand-on-shoulder thanks, Blast's reassurance and Tatsumaki/Genos's physical support give small gestures structural weight beside large attacks. Each relation and knowledge boundary stays distinct. `138 / 0011–0021`; `139 / 0062–0063`; `140 / 0083–0085`; `142 / 0127–0145`.
+- **Two rescue memories are not one dated event:** Amai focalization and Tatsumaki's eighteen-years-earlier account have separate triggers and framing. Recurring Blast image/voice supports comparison, not a common timestamp. `140 / 0083–0085`; `142 / 0134–0145`.
+- **Two unresolved main-sequence endpoints:** the raised luminous spear withholds impact, then the underground aperture withholds identification/explanation. The final figure occupies images 0204–0205; the following extra begins a distinct local story. `143 / 0190–0205`; `extra:嗅覚 / 0206–0209`.
+- **Paratext is not battle continuity:** attached illustrations and covers, including the bicycle grouping, are mapped as paratext. The four-page Watchdog Man extra has its own end mark at 0209; 0210–0216 are credits/edition/imprint/cover material.
+
+No official-web version, redraw, deleted scene, or later collected replacement has been compared in this reading. The preservation pilot remains narratively isolated and cannot supply formal evidence here.
+
+## V29 visual delta — hands, cavities and withheld endpoints
+
+Propagated after the frozen [V29 reading](../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+| Formal sequence | Analytical function | Boundary | Evidence |
+|---|---|---|---|
+| Small failed lights / abyss / controlled Blast gestures | distinguishes reader scale, character access and casual disproportionate ability | no shared sight of the immense form; title art not actual space travel | `144 / 0009–0023` |
+| Human-leadership talk / shove / retort / mutilation | puts category judgment beside costly protection and bodily destruction | no automatic final-death inference | `144 / 0024–0029` |
+| Hands, heat HUD, blood, collapse and catching | makes treatment and cost sequentially visible | not merely a healing speech or hardware-regrowth proof | `147 / 0095–0101` |
+| Bleeding hand / childhood isolation / held legs / softened face / restraint | makes sister recognition and continued control coexist in motion | no completed autonomy settlement | `148 / 0110–0119` |
+| Garment at shoulders / renewed departure | small returned care bridges received help and chosen action | ownership unspecified; no invented spoken thanks | `148 / 0120–0123` |
+| Enormous fist / curved redirection / carried patient | protection shapes technique geometry | a practitioner's absolute wording remains bounded by shown cases | `149 / 0151–0159` |
+| Prepared charged hands / fabric recoil / revival | panel order blocks premature defibrillation attribution | mechanism not explained by mere proximity | `149 / 0154–0155` |
+| Ingestion / release / rupture | bodily enclosure can shelter or prey depending on purpose and effects | similar form is not moral equivalence | `149 / 0143–0165` |
+| Shielding glossy body / shower poses / final detailed anger | protective use and self-display share a sequence; affront drives cliffhanger | no next form, new collapse or completed outcome | `150 / 0170–0193` |
+| Thin connected cut meshes | visible tactical adaptation preserves attachment while dividing form | immediate replication delay, not all-time suppression | `150 / 0185–0189` |
+
+The seven chapter spans and attached illustrations are locked in the source crosswalk. Images 0197–0199 are cover reproductions, not narrative extras or recovery scenes; the small Saitama yawn is paratext. No actual paired web/tankobon source was compared, so no RX/redraw claim follows from disagreement with legacy interpretation.
+
+## V30 visual delta — shrinking protective spaces and reflected selves
+
+Propagated after the frozen [V30 reading](../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+| Device | Direct form observation | Interpretation / boundary |
+|---|---|---|
+| Protective geometry | trench/corridor, moved fight, shrinking air pocket and teeth on clothing (`151–155 / 0023–0030,0043–0044,0123–0129,0162–0167`) | space becomes a condition of aid, not only spectacle scale |
+| Brothers across time | youth/current faces, mocking then earnest brother address, Bomb's answering look (`155 / 0137–0154`) | recognition of reform organized through contrasts; no narrator-certified universal redemption law |
+| Memory and present duty | Bang history, Atomic's remembered Nichirin and Bang, Genos's internal absent addressee (`155–156 / 0137–0167,0173–0176`) | temporal inserts change present meaning without supplying present arrival or speech by absent people |
+| Repeated dismantling | limbless Genos at 0129 revisited through 0160–0167, followed by composed portrait 0168 | intercut elaboration and contrast; no continuity error or unseen repair inferred |
+| Shine and damaged display | Darkshine's comparison, GS polished mass and lost arm (`153–156 / 0100–0113,0182`) | bodily presentation is destabilized by material interaction and comparison |
+| Water mirror | Atomic's inner concentration image amid defenders' strained labor (`156 / 0170–0176`) | inner quiet, not a literal sound-cancelling field; breakthrough remains socially supported |
+| King views | large imposing views yield to inward text, then extra portrait sequence ends in a small reader reaction (`156 / 0187–0195`; `extra / 0197–0201`) | panel scale/perspective can uphold and puncture apparent supremacy |
+| Moon / light | lunar framing beside HE's planetary-will speech (`151 / 0020`) | compositional association; no established lunar causal mechanism |
+
+All 207 images, attached illustrations, extra and cover/edition reproductions are mapped. No paired alternate edition has been inspected for this volume, so V1 discrepancies are analytical corrections rather than demonstrated redraws. Official-web pilot images remain narratively isolated.
+
+## V31 formal delta — fantasy, causation and close attention
+
+Propagated after the frozen [V31 reading](../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+| Device / locator | Function | Boundary |
+|---|---|---|
+| imposing King portraits / private mundane language (`0010–0023,0095–0101`) | separates fear, public face and projected power | giant perceived King not actual size change |
+| fusion and separate reserve (`0038–0049`) | contests singular ego and sacrificed plurality | imagery and valuation not complete biology or total stock extinction |
+| teacher/body contrast, graze, facial crack (`0052–0074,0103–0108`) | purpose persists through defeat; personal connection remains visible | later memory gap prevents automatic conscious-conversion claim |
+| moon, vast figure, color meadow, burning body (`0077–0087`) | abrupt register/scale makes external revocation disturbing | unequal perception, not universal common-location proof |
+| timer decomposition and normal-speed replay (`0109–0119`) | gives actual cause before public misattribution | not a second attack by King |
+| paired fists, diverted rush and color core touch (`0125,0128–0132,0151–0155`) | poses achievement comparison and enlarges attention to injured Genos | poses not power equality; touch not power installation |
+| light lattice and remote spectators (`0143–0147,0156–0157,0189–0200`) | contrasts perceived spectacle and actual fighters; density marks acceleration | no exact speed survey or literal neural-battle equation |
+| false face reveal then distinct portal (`0201–0213`) | separates deceptive likeness, resisted offer and actual cooperative help | same pronoun insufficient identity test; allies unidentified |
+| underground emergence, earth/sea pair (`0167–0173,0214–0223`) | expands scale and mission association | juxtaposition not complete summons/creation law |
+| assembled cover thought cloud (`0001,0231–0232`) | clarifies initially isolated golden blast as attributed fantasy | no additional King feat; paratext remains distinct from events |
+
+**No RX/redraw claim.** Only this locked edition was compared. Color-reproduction notice and different rendering modes do not independently establish a publication revision. V32 preview and posed recovered-looking cover figures cannot settle V31 narrative outcomes.
+
+## V32 formal delta — a tile stack becomes a contested graduation
+
+Propagated after the frozen [V32 reading](../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+| Device / locator | Analytical function | Boundary |
+|---|---|---|
+| Two helicopters, intercut passengers/defenders/news (`0041–0081`) | keeps actual protection and broadcast terror causally distinct | no single all-knowing public viewpoint |
+| Paired attacks and joined lettering (`0082–0093`) | stages interaction before explicit unequal-resonance explanation | not equal power or deliberate combined-technique design |
+| Core trajectory, curved Earth/moon, vertical body split (`0094–0126`) | links located mechanism and enormous completion image | no surveyed altitude or independent donor event |
+| Black-gutter dojo tiles, intact remainder, first-person type (`0112–0126`) | gives present boast a small personal antecedent | self-assessment not omniscient mastery |
+| Carrier orientations and bent hull (`0140–0146`) | makes environmental adjustment visible after attack | successive ship positions not multiple vessels; rescue still rough |
+| Replayed arrival, remembered blows, later explicit recall (`0151–0179`) | differentiates reader knowledge, unease and recognition | no second arrival, time travel or full recognition at first familiarity |
+| Repeated figures, hand/head close-ups (`0186–0196`) | sequential movement and physical test of the completed fist | no clones, measured speed or named hand-healing mechanism |
+| Current/remembered greeting, trembling legs, smile/tears (`0205–0209`) | continuity recognized through address at a visible emotional cost | no bodily reversion or absence of fear |
+| Provocation, head pat, displacement, question/nod and final face (`0214–0223`) | shifts attention toward a specific entrusted outcome | dramatic rendering not numeric output or achieved reform |
+| Separate two-page reflection bonus / endmatter (`0224–0231`) | compresses grand precautions into comic failure, then closes publication | no main-fight chronology from placement |
+
+**No RX/redraw claim.** One locked tankobon edition does not establish revision history. The V1 boundary error is an analytical placement error, not evidence of a changed manga edition. Covers/title/attached art remain distinct from timed events.
+
+## V33 formal delta — withheld contact, repeated fists and a retained object
+
+Propagated after the frozen [V33 reading](../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+| Device | Function | Boundary |
+|---|---|---|
+| Shelter fear / dark Saitama / final bright-eyed silhouette (`0033,0048,0081,0206`) | visual rhyme redistributes relations to overwhelming power | similar rendering does not prove identical psychology or monster biology |
+| Body to mountain to planet to hidden dimension (`0014–0070`) | expands consequence beyond the duel and differentiates witnesses | no universal shared perception or measured real-world scale |
+| Separated hands, changed arrival, delayed refusal flashback (`0096–0105,0154–0159`) | requires revision of an initially possible acceptance account | contact is later explained without rewriting what was initially shown |
+| Repeated movement, faces and technique names (`0125–0133,0183–0189,0206–0211`) | makes imitation legible and central | no output-equality formula; one hand retains the core |
+| Black page, rain, body parts, catch, memory and montage (`0192–0207`) | centers a relational remnant while retaining wider casualties | no permanent death census or future rescue outcome |
+| Television reveal after reportage (`0213–0217`) | changes the authority of preceding embedded images | strategy implicated, each deed's truth still open |
+| Single color 0160 title, 0212 main ending, 0213–0217 bonus | fixes actual reading and citation boundaries | printed offsets cannot be generalized blindly |
+
+**No RX/redraw claim.** Historical 2022 update credits and the 2025 digital color-edition note supply provenance, not paired-version evidence. Legacy chronology errors do not prove changed manga pages. Covers/endmatter carry no aftermath authority.
+
+## V34 visual delta — the retained object across changing scales
+
+Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+| Formal device | Interpretive consequence | Evidence / limit |
+|---|---|---|
+| Tiny core in planetary fields, copied stance and two-core diagram | attachment persists across scale, then becomes evidence carried through time | `172–174 / 0020–0028,0077–0085,0119–0126,0151–0154`; apparent right-hand core at 0027 retained as qualification |
+| Gates, fragment tracks, insect-cage simile and growth graphs | participant models fail in different ways; reader sees a changing arena and observer limit | `172–173 / 0029–0085`; no literal childhood memory or calibrated cosmology |
+| Repeated color framing and split マジ嚔 | delay/scale distribute a bodily action across spreads | `173 / 0087–0093`; adjacent similar pages preserved, substantial planet remains |
+| Whitening teacher, struck shell, merge and pale departing figure | bodies and knowledge have distinct temporal stages | `173–174 / 0120–0144,0162–0167`; ontologies not supplied by resemblance alone |
+| Child clings before engine deterrence; local King consultation appears afterward | formal order expands causal knowledge without erasing first intervention | `174 / 0174–0186` |
+| Dawn carry, shared digging, bandaged sewing and palms | ordinary touch/labor retain cost inside recovery | `174–175/bonus / 0193–0194,0214–0218` |
+
+Cover/title/dojo-flap compositions remain publication framing. First-publication updates at 0219 are 2022-07-07, 2022-07-21, 2022-08-04 and 2022-08-18; the digital colophon gives 2025 without month/day. No paired web/tankobon redraw comparison or episode-ID mapping has been made. All original archive renditions remain preserved.

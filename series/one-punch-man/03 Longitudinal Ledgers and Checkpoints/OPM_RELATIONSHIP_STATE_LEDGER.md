@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Directional relationship state through V26
+scope: Directional relationship state through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -636,3 +638,199 @@ V25 establishes a new contact relation through **reciprocal misclassification fo
 
 ### King ↔ Tareo
 **NEW rescue/trust relation:** Tareo reads King as immediate safety and follows him. King's public myth protects the child even while King's private fear remains intact.
+
+
+## V27 directional relationship delta
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+| Direction | State transition | Knowledge / register / uncertainty | Evidence route |
+|---|---|---|---|
+| Saitama -> Manako | route partner becomes named acquaintance | casual greeting; no general doctrine or durable friendship inferred | `OPM|V27|135|image:0117` |
+| Manako -> Saitama | asserts individual name and responds within shared travel/banter | mutual introduction does not erase power asymmetry | same; `137|image:0189-0191` |
+| Tatsumaki -> Fubuki | protection is operationally embedded in power use | Fubuki is an expected protected exception, not proof of uniform treatment | `OPM|V27|134|image:0064` |
+| Fubuki -> Tatsumaki | relies on that protection to position Bang/Bomb | reliance/knowledge remains directional | same |
+| King -> Tatsumaki | provides usable escort/hostage status | information changes her action envelope, not King's actual power | `OPM|V27|132|image:0031-0032` |
+| Tareo -> King | continues trusted-rescuer following | public myth persists; private fear is reader knowledge | `OPM|V27|134|image:0066-0089` |
+| Darkshine -> Garou | fear coexists with an escape warning | psychological defeat does not erase prosocial concern | `OPM|V27|133|image:0058-0061` |
+| Garou -> Darkshine | frightened opponent becomes an unwanted bully/victim relation | positive content of his desired evil remains undefined | `OPM|V27|133|image:0057` |
+| Orochi -> Psykos | former provider becomes intended sacrifice | remembers prior relation and acts independently | `OPM|V27|132|image:0015-0017` |
+| Psykos -> Orochi | insists on master/vessel hierarchy and claims victory | claim of ownership is not permanent narrator-certified sovereignty | `OPM|V27|132|image:0015-0019` |
+| Psykos -> Tatsumaki / Fubuki | non-recognition drives grievance; Fubuki becomes threatened leverage | full earlier relationship history remains OPEN | `OPM|V27|136|image:0141-0143`; `137|image:0173-0175` |
+| Tatsumaki -> Psykos | reads empowerment as predatory recruitment and rejects assimilation's endpoint | her self-reliance doctrine is a position, not omniscient adjudication | `OPM|V27|136|image:0141-0143` |
+| Genos -> Tatsumaki | claims beam-management role with rough peer address | complementary work despite abrasive speech; no mentor-disagreement checkpoint test | `OPM|V27|137|image:0187-0188` |
+| Tatsumaki -> Genos | initially rejects interference within a fight that receives his support | tactical interdependence does not establish affection or ideological reconciliation | same |
+| Genos -> Saitama | absent mentor remains the organizing reference for intervention duty | disciple identity allocates work; Saitama does not witness or reciprocate this speech | same |
+| Mumen Rider -> Tanktop Master | asks to contribute in civilian rescue | acknowledges role limits without withdrawing | `OPM|V27|135|image:0101-0104` |
+| Tanktop Master -> Mumen Rider | validates him as a useful hero | comic vocabulary retains sincere recognition | same |
+| Metal Bat -> Zenko | reassures her while returning to danger | persistence rhetoric does not promise literal safety | `OPM|V27|135|image:0096-0098` |
+
+TF/VF observations with conditional IR; `tankobon_canonical`, available from V27. No relationship is averaged into symmetry merely because both participants share a scene.
+
+## V28 directional relationship delta
+
+Propagated from the frozen [V28 reading](../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+| Direction | Observable transition | Knowledge / register / limit | V28 locator |
+|---|---|---|---|
+| Tatsumaki -> Genos | names and praises his useful intervention, helps his damaged body | acknowledgement does not establish affection or a settled peer policy | `138 / 0011–0021` |
+| Genos -> Tatsumaki | rejects a personally flattering account while giving help; later shields her unconscious body | rough address and protective action coexist | `138 / 0021`; `142 / 0132–0133` |
+| Fubuki -> Tatsumaki | calls and offers aid when her sister needs it | active agency, not only worry or dependence | `142 / 0128,0145–0147` |
+| Tatsumaki -> Fubuki | memory establishes sister as someone needing her; responds proudly to present aid | source links need, duty and identity without curing autonomy/control conflict | `142 / 0142–0147` |
+| Blast -> Tatsumaki | rescues child, recognizes suppressed power, gives family purpose and expectation warning | sister knowledge and later agenda unknown | `142 / 0137–0145` |
+| Tatsumaki -> Blast | recalls his intervention during incapacity | focalized memory, not current conversation or proof she applies every word correctly | `142 / 0133–0147` |
+| Blast -> Amai | remembered reassurance interrupts threatened violence | no date or full shared history supplied | `140 / 0083–0085` |
+| Amai -> Blast | memory provides a restraint reference under shame and aggression | stabilizing influence does not erase subsequent violence | `140 / 0078–0087` |
+| PPP -> Darkshine | recognizes training/self-investment, then threatens unwanted intimacy | supportive content and coercion both retained | `141 / 0109–0117` |
+| Amai -> Darkshine | kicks and humiliates, then challenges him through a shared struggle to rise | distinguish actual attacks from Garou-induced fear and imagined prior contempt | `141 / 0105–0116` |
+| Darkshine -> assembled heroes | moves from apologetic withdrawal to standing and an actual attack | situational re-entry, not full psychological recovery | `141 / 0103–0117`; `143 / 0183–0186` |
+| Zombieman -> Amai | says esteem increased a little | qualified public assessment, no access to hidden murder intention | `141 / 0122` |
+| Amai -> Zombieman | answers the approval with an insult | no smooth friendship inferred from recognition | `141 / 0122–0123` |
+| Pig God -> Iaian | credits him with assembling survivors | distributes recognition beyond most conspicuous rescuer | `139 / 0060` |
+| Iaian -> Atomic | tearfully reports survival in deferential language | attachment becomes explicit without a whole private biography | `139 / 0062–0063` |
+| Atomic -> Iaian | praises and clasps the survivor | protection/recognition, distinct from later abrasive peer register | `139 / 0063`; `141 / 0118–0123` |
+| Iaian -> Amai | notices distress and asks | concern is observed; private plan remains unknown to him | `140 / 0082` |
+| Amai -> Iaian / peers | hides the true problem with self-directed/public-surface explanations | reader knowledge must not be assigned to the group | `140 / 0086–0087` |
+| Bang -> Child Emperor | accepts the exclusion concern and thanks him for allowing a teacher's responsibility | personally owned Garou obligation, not completed resolution | `142 / 0127–0128` |
+| Child Emperor -> Bang | addresses the responsibility concern and responds tearfully to thanks/touch | no invented confession or omniscient motive account | `142 / 0127–0128` |
+| Tanktop Master -> Fubuki | thanks her through tanktop-centered causal language | sincere recognition may misidentify how the aid works | `143 / 0165–0168` |
+| Fubuki -> Tanktop Master | supports him and privately rejects garment-touch explanation; times coordinated action | practical aid without adopting his theory | `143 / 0165–0168,0175` |
+| Drive Knight -> Genos | proposes reactor combination as a gamble | tactical collaboration does not certify allegiance or benevolent motive | `143 / 0168–0173` |
+| Genos -> Drive Knight | assents and explains imminent core failure with a separation plan | real disclosure; source of combination proposal remains Drive Knight | `143 / 0169–0174` |
+| Saitama -> Flash | accommodates careful freeing, then disputes needless delay after sword reveal | practical care under mistaken referent; no remorse test forced | `143 / 0192–0198,0203` |
+| Flash -> Saitama | resists forceful extraction to protect sword, protests its loss | object valuation and pride, not a demonstrated weak arm | `143 / 0193,0197–0198,0203` |
+| Manako -> travelling pair | attempts departure during distraction | named acquaintance does not settle continuing loyalty | `143 / 0203` |
+
+Watchdog Man's relation to Q-City is a local duty pattern, not a reciprocal named friendship; institutional response is routed separately. No arrow is made symmetric solely because its participants share a rescue or combined body.
+
+## V29 directional relationship delta — recognition without assumed reciprocity
+
+Propagated after the frozen [V29 reading](../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+| Direction | Observable change | Register / knowledge / limit | Evidence |
+|---|---|---|---|
+| Fubuki -> Genos | accepts severe treatment cost under a leader's responsibility | subordinate membership is her claim, not his assent | `147 / 0095–0101` |
+| Genos -> Fubuki | reaches toward collapse, places garment on shoulders, later identifies his actual teacher | gratitude/aid need not be spoken or factional; no explicit dialogue praise or joining | `147 / 0100–0101`; `148 / 0120,0123` |
+| Fubuki -> Tatsumaki | asserts her own choice, restrains briefly, explains broader strength and promises trusted allies | rescue intention includes a demand for her agency; promise remains future | `148 / 0112–0116` |
+| Tatsumaki -> Fubuki | smiles and says she has become strong, then immobilizes and leaves her | explicit recognition does not yet produce reciprocal autonomy | `148 / 0117–0118` |
+| Fubuki -> Blast's influence | thinks he may have saved life but cursed her sister's heart | her interpretive judgment; no literal spell or verified malicious intention | `148 / 0119` |
+| Genos -> Saitama | uses remembered ethical lesson and asks inwardly if this is right; explicitly affirms discipleship | absent-teacher internal address; ethical learning still seeks imagined validation | `148 / 0121,0123` |
+| Genos -> Tatsumaki | offers shielding and carries her while damaged | non-mentor protection with remaining thermal/hardware limits | `148 / 0121`; `149–150 / 0150–0191` |
+| Bang / Bomb -> Fubuki | catch/support her and accept the local leader relation in warm language | affectionate `大将` is not an official rank or unlimited obedience | `147 / 0100–0101`; `148 / 0122–0123` |
+| Bang -> Genos | coordinates transport and entrusts Tanktop Master | acceptance of a particular task is distinct from the pupil relationship Genos explicitly names | `148 / 0123`; `150 / 0192` |
+| Tanktop Master -> Mumen Rider | sends credit for the gifted bed as part of their victory | victory contribution and subsequent personal defeat coexist | `148 / 0132` |
+| Mumen -> Tanktop Master | interprets vacated beds as thought for later wounded and pledges further rescue | inference and pledge are not omniscient motive or completed work | `149 / 0145–0146` |
+| Pig God -> injured captives / Master | delivers survivors, reassures anger and relays credit | does not demand gratitude; report reflects earlier knowledge | `149 / 0143–0146` |
+| Metal Bat -> Sekingar | accepts him as boss after differentiated-role explanation | respect is earned in a concrete work exchange, despite rough speech | `145 / 0046–0048` |
+| Sekingar -> rear group / King | values roles, credits rescue and helps launch | accurate role need coexists with inaccurate King assumptions | `145 / 0045–0055` |
+| Tareo -> King / unnamed uncle | asks protection for another rescuer; receives King's promise | no identification or fulfilled result supplied | `145 / 0050` |
+| Darkshine -> Iaian | places his body between pupil and jet | actual protection comes before vanity/polishing language | `150 / 0170–0173` |
+| Saitama -> Manako / Blast | vouches through practical conduct; Blast includes her | bounded acceptance, not a universal category settlement | `144 / 0021–0023` |
+| Suiko <-> Suiryu | rough sibling affection and competing succession expectations | separate her report of grandfather's wish from his declared present goal | `146 / 0058–0062` |
+| Drive Knight -> Genos | leaves on declared objective completion | demonstrated care limit of this collaboration, no settled hidden allegiance | `147 / 0091–0092` |
+
+V28's apparently shared sight of the final immense form is retrospectively narrowed by the trio's V29 inability to see. Earlier record is preserved; current knowledge boundaries govern new claims. No directional bond is made reciprocal merely because both people share a rescue.
+
+## V30 directional relationship delta — witnessed reform and misread help
+
+Propagated after the frozen [V30 reading](../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+| Direction / pairing | New evidence | Reciprocity and knowledge boundary | Locator |
+|---|---|---|---|
+| Bang -> Garou | accepts teacher failure, intends withdrawal from hero work and invites a new start through protective fighting | invitation not acceptance; heart-in-fists language not certified telepathy; responsibility not sole causation | `155 / 0156–0159` |
+| Garou -> Bang | acquired forms and body answer in combat | no explicit current conscious acceptance/rejection of the invitation | `153 / 0075–0086`; `155 / 0134–0135,0159` |
+| Bomb -> Bang | remembers nonlethal intervention, explains duty as brother to witness reform, privately recognizes growth | his construed message in hero entry is not literal broadcast dialogue; imagined winning alternative remains untested | `155 / 0137–0154` |
+| Bang -> Bomb | younger mockery becomes earnest request to watch | changed address supports trust and accountability; no universal relationship repair rule | `155 / 0138,0153` |
+| Genos <-> Tatsumaki | reciprocal combat help, personal alarm, adaptation banter and continued protection while dismantled | mutual concern does not complete apology or guarantee extraction | `152 / 0050–0054`; `155 / 0161–0167` |
+| Genos -> Saitama | internally asks whether ethical restraint is strength | pupil's development; absent teacher provides no new answer or stated claim to dispute | `155 / 0166–0167` |
+| Atomic -> Bang | retracts previous judgment, takes rival teacher as concentration model | direct revision; no corresponding new Bang response in this sequence | `151 / 0034–0036`; `156 / 0175–0176` |
+| Nichirin -> Atomic / Banehige | entrusts weapon/search; graduates pupil toward his own trusted sword path | actual instruction and object distinct from future mastery/legend | `153 / 0092–0094` |
+| Iaian + Banehige -> Atomic | maintain defense so he can draw; help after cost | breakthrough depends on assistance, not its obsolescence | `156 / 0170–0187` |
+| Bomb -> Fubuki; Fubuki -> sister/patient | resemblance judgment, shared-resource treatment and protection | likeness contested, transfer initiative not assumed fully negotiated, cure partial | `151 / 0010–0011,0028–0037`; `152 / 0043–0045` |
+| CE -> Bofoi / Zombieman | formal former-assistant appeal; possible moral-support hope and rescue priority | send not reception, hope not appointment, uncertain status retained | `154 / 0123–0127` |
+| PPP -> CE | real rescue with intrusive affection reading | child protests; rescue success does not validate rescuer's interpretation | `154 / 0127–0128` |
+| King -> Genos / others -> King | concern motivates exposure; myth motivates confidence, caution and changed deployment | King's private limit is not shared knowledge; no final victory | `156 / 0189–0195` |
+| Saitama -> represented King | silent irritated reading of publication | no new confrontation, jealousy finding or exposure plan | `extra / 0196–0201` |
+
+Historical relationships remain intact unless a specific later observation qualifies them. Future reconciliation, received communication and shared understanding are never inferred from one direction's hope alone.
+
+## V31 directional relationship delta — recognition without guaranteed understanding
+
+Propagated after the frozen [V31 reading](../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+| Direction | Change | Reciprocity / knowledge limit | Locator |
+|---|---|---|---|
+| King → heroes; heroes → King | real exposure/care versus invented strength/strategy | no public confession, and not every effect intended by King | `157–160 / 0010–0049,0090–0119,0148–0150` |
+| Zombieman ↔ CE | safety inquiry and practical collaboration after restraint | trust survives CE's faulty combat premise | `157 / 0025–0033` |
+| Bang → Garou | corrective teaching and inward appeal persist through bodily failure | intention not automatically received as conscious instruction | `158–159 / 0056–0073,0103` |
+| Garou → Bang | rescue effect, personal address and recalled advice | memory gap qualifies agency; no accepted reconciliation | `159–160 / 0105–0108,0122,0134–0135` |
+| Bomb → Bang | struggles to reach fallen brother, witnesses resolve and cost | concern not completed recovery | `158–159 / 0073–0074,0102–0108` |
+| King → Saitama | expresses fear/trust through grip and tears | false rescue credit not confirmed; prior promise not established | `160 / 0148–0149` |
+| Saitama → Genos | attends injured body, hears protection report, gives tentative broader recognition | partial knowledge; no cure or omniscient mentoring | `160 / 0129–0133,0150–0155` |
+| Genos → Saitama / Kuseno | exposes strength doubt and gives dual thanks | precise uptake and subsequent conduct unshown | `160 / 0151–0155` |
+| King → Tatsumaki | covers and accepts custody | no romance, full cure or mutually declared new relationship | `161 / 0200,0211–0213` |
+| Manako → Flash | rushes to fallen hero with concern | care intention direct, treatment/reciprocity unshown | `161 / 0188` |
+| Tatsumaki → remembered Blast / false visitor | remembered warning aids rejection after initial flattered response | no acceptance of transfer, not rejection of all help | `161 / 0201–0207` |
+| Blast → Tatsumaki / King / allies | recognizes growth, delegates care, returns to cooperative battle | allies unnamed; no evidence King limitation is known | `161 / 0208–0213` |
+| Garou ↔ Platinum / Flash | refuses alliance/instructions and defeats opponents | opponent's accusation is not Garou's spoken assent | `160–161 / 0137–0199` |
+| Giver → HE / Tatsumaki | lethal revocation in one case, deceptive invitation resisted in another | mechanisms and full motive not automatically identical or universal | `158 / 0077–0087`; `161 / 0201–0207` |
+
+Directional care can be effective without mutual understanding. Zombieman's interrogation retains lethal threats, qualifying any automatic equation of concern with nonviolence (`158 / 0076–0077`).
+
+## V32 directional relationship delta — reliance does not require agreement
+
+Propagated after the frozen [V32 reading](../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+| Direction | Change | Reciprocity / limit | Locator |
+|---|---|---|---|
+| Garou → Bat | proposes rescue task, relies on interception, follows net information, attacks together | insult/control and grievance survive; technique combination accidental | `162–163 / 0047–0099` |
+| Bat → Garou | revises judgment from action, aids decisive strike, urges victory, defers own settlement | retains monster label and rivalry; output unequal | `162–163 / 0047,0079,0091–0099` |
+| Garou → Tareo | knowingly protects, wants a monster victory witnessed, resents tears, threatens to break values | attachment is not respect for autonomous judgment or renunciation of coercion | `0013,0048–0049,0167,0205–0213` |
+| Tareo → Garou | recognizes continuing person through fear, personally names hero, challenges self-description/violence | true care testimony, incomplete causal knowledge, unsafe return | `167 / 0183,0204–0213` |
+| Saitama → Garou | cites rescue, refuses identity claim, answers assault, recalls misconduct, provokes then displaces fight | no perfect body diagnosis, omniscience or completed conversion | `166–167 / 0166–0176,0196–0199,0210–0221` |
+| Saitama ↔ Tareo | reassurance and touch, specific question, nod, accepted stop task | mutual local understanding of desired outcome; fulfillment unshown | `167 / 0219–0223` |
+| Garou → remembered Bang | tile memory, recalled advice and private completion boast | absent teacher does not hear or accept this; reconciliation open | `164,166 / 0112–0126,0162` |
+| King → Saitama / others → King | sight-based trust yields assurance; private credit/complaint versus public praise | relational knowledge and myth differ; no new King power | `165 / 0138–0146` |
+| Amai → Bat / stranger / Manako | carries peer, offers escort, attacks perceived predator | different directions preserve care and category violence together | `164–165 / 0102–0104,0129–0133` |
+| Manako ↔ Flash | wake/escape concern, later held during carrier hazard | particular reciprocity, not general reconciliation or complete rescue | `165 / 0129–0133` |
+| Fubuki / Master → Tatsumaki | attempted aid / rivalry expressed as wish to live | treatment, group assent and reciprocal recovery not established | `165 / 0134–0137` |
+| Sekingar → recruits; Gearsper ↔ One Shotter | confidence, complementary aiming, useful shot, calming after fumble | private confidence not a sent report; coordination remains imperfect | `163 / 0067–0074` |
+
+Saitama's final commitment is a new local relationship event. It does not retrospectively resolve Genos's precise uptake of the prior core touch, Bang's invitation or Garou's conflicting aims.
+
+## V33 relationship delta — copying force and instrumentalizing a bond
+
+Propagated after the frozen [V33 reading](../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+| Direction | Change | Reciprocity and boundary | Locator |
+|---|---|---|---|
+| Saitama → Garou | conducts a purpose inquiry, credits rescue, teases, notices child concern, later responds severely to Genos's destruction | perceptive but incomplete; accepted stop outcome unresolved | `0011–0013,0033–0049,0137–0138,0201–0207` |
+| Garou → Saitama | amateur dismissal becomes unfairness, revised mission referent, copying target and emotional manipulation | observations, self-claims and final result differ | `0021,0075–0085,0125–0136,0176,0191` |
+| Workers → Garou | thanks despite fear later destabilizes his resolve | genuine recipient uptake without reform or deliberate original rescue | `0033–0035,0057` |
+| Garou → Bang | knows false teacher from speech, credits real teaching, refuses present reclamation | gratitude and violence coexist; reconciliation not achieved | `0154–0172` |
+| Bang → Garou | senses alteration, demands return, interposes despite lethal proximity | knowledge intimate but diagnosis attributed; recipient rejects demand | `0163–0172` |
+| Garou → Tareo | remembered approval remains important; apology/farewell rationalized as safety | rejects child's preferred understanding; actual child harm unobserved by him | `0137,0159–0173` |
+| Donor → Garou | trusted likeness offers help, slight refusal-contact conveys grant and proxy role | no willing handshake; incomplete bestowal inferred, full control unsettled | `0093–0096,0154–0168` |
+| Genos → threatened group | ruined-body intervention and radiation-resistance claim | agency remains meaningful without success or a clean civilian-specific checkpoint trigger | `0174–0176` |
+| Garou → Genos → Saitama | disciple becomes deliberately targeted means of forcing teacher's response | extracted core is used as provocation; projected victory unproved | `0191–0200` |
+| Saitama → Genos | names, catches/retains core, recalls praise and doubts rescue timing | current emotional/material uptake; no response from Genos or retroactive proof of V31 mental state | `0200–0207` |
+| Blast → Garou / Bang / group | appeals to purposes, attempts transfer, protects/distances Bang, prioritizes evacuation | local resistance/overload; final safety not established | `0165–0190` |
+| Flash → Manako / Amai | defends local utility after monster accusation | nervous assent from Manako; no general doctrine or Amai conversion | `0144–0145` |
+| Sekingar → Waganma / King → sisters | shields child's eyes / shields fallen bodies with his position | concrete care, no immunity or complete rescue inferred | `0053,0202` |
+| Drive Knight ↔ official/public | favorable video reception leads to questions and tactical acknowledgment | strategy supported, authorship method and depicted factual truth unresolved | `0217` |
+
+## V34 relationship delta — reciprocal aid with unequal knowledge
+
+Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+| Direction / pair | New state | Retained asymmetry / limit | Evidence |
+|---|---|---|---|
+| Saitama → Genos / Genos → Saitama | held-core loss, secure keeping, reunion touch and salvage / memories and intensified witness duty | reciprocal attachment, unequal explanation; idealized total heroism is Genos's hypothesis | `172–175 / 0026–0028,0151–0162,0193,0214` |
+| Garou → Saitama / reverse | competitive copying becomes entrusted instruction / refusal to kill, acceptance and praise | present selves lack full future knowledge; later thanks concerns earlier monster-battle help | `173–175 / 0105–0138,0185,0203` |
+| Garou ↔ Tareo | particular harm breaks doctrine; rescue testimony preserves a future; child uses hero role, Garou asks after him | no live distant conversation, universal acquittal or certified ghost ontology | `173–175 / 0106–0118,0162–0166,0176–0184,0203–0207` |
+| Bang ↔ Garou | restitution, apology, sparring, found training place and awkward talk | teacher's found-purpose hypothesis remains modal; success and registration future | `174–175 / 0183,0198–0213` |
+| Saitama → King → crowd / Tareo → crowd | advice supports promise; King deters after child physically interrupts | distribute causal credit instead of total Saitama orchestration | `174 / 0174–0186` |
+| Fubuki → Genos / reverse | laborious repaired cloth and scent under status idiom / noticing and short response | no recruitment consent or certified romance | `bonus / 0216–0218` |
+| Tareo ↔ Waganma → peers | friendship access used for inclusion | status inequality and bullying not erased | `175 / 0204–0207` |
+
+No residential-neighbor or monster-pet relationship is admitted from V1. The unnamed final foreground remains unnamed.

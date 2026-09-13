@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Power, technique, limiter, God, and cosmic evidence through V26
+scope: Power, technique, limiter, God, and cosmic evidence through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -543,3 +545,147 @@ Revised safe matchup model through V26:
 `effective outcome = output × mechanism match × information × adaptation rate × geometry × endurance × coordination × constraint environment`.
 
 No new God/limiter equivalence is established in V26. Later cosmic escalation remains outside this boundary.
+
+
+## V27 delta — external empowerment and constrained deployment
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+The V26 effective-outcome relation is strengthened as a qualitative analytical aid, not a measured mathematical law.
+
+| Dimension | V27 evidence | Limit / classification |
+|---|---|---|
+| mechanism and geometry | Psykos reverses barrier orientation; Tatsumaki enters through obligatory root-energy intake | local mechanism advantage is not a permanent scalar ranking; `132|image:0025-0026`; `137|image:0170-0171` |
+| information and rescue constraints | child status, covert extraction and evacuation precede larger available force | capacity and safe deployment remain separate; `132|image:0031-0032`; `134|image:0064-0083` |
+| environmental consequences | planetary-curvature beam imagery followed by tsunami mitigation | visual scale does not alone decide the whole matchup; `136|image:0124-0133`; `137|image:0150-0154` |
+| external empowerment | Psykos reports `神の如き何か`, stopped time and power inflow | direct report plus extraordinary visual presentation; identity, motive, price, authorship of mandate and relation to earlier divine evidence OPEN; `136|image:0134-0143` |
+| endurance and coordination | Genos intercepts/deflects under the exact ten-second full-power limit | no equal-total-power claim; aftermath OPEN; `137|image:0181-0188` |
+| body and psychology | Darkshine remains genuinely capable while uncertain harm triggers fear | durability does not guarantee psychological stability; `133|image:0041-0049` |
+
+All routes use `OPM|V27`. Psykos's election/mandate reading and Tatsumaki's recruitment/pawn reading remain competing speaker interpretations. Do not equate this presence with Homeless Emperor's attributed God, Orochi's prior sacrificial imagery, or a limiter theory without new admissible evidence.
+
+## V28 delta — usable force requires time, geometry, condition and interpretation
+
+Propagated from the frozen [V28 reading](../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+| Dimension | Newly secured evidence | Boundary / explanatory limit |
+|---|---|---|
+| geometry and preparation | Tatsumaki's two-layer barrier answers reversal and retains escape control | do not turn one successful counter into a permanent overall ranking; `OPM / V28 / 139 / 0048–0050` |
+| time and body condition | Genos's interception allows extraction; both he and Tatsumaki need aid afterward; the text raises exhaustion questions | output, safe deployment and endurance remain separate; no quantified cause of every injury; `138 / 0011–0021`; `139 / 0038–0039`; `142 / 0129–0147` |
+| range and delivery | Atomic's earlier airborne technique cannot reach; later transport places him inside effective distance | altered geometry explains access without inventing an unexplained power upgrade; `139 / 0061`; `143 / 0175–0181` |
+| resource and adaptation | form changes, decoys, borrowed infrastructure power and risky reactor combination sustain pursuit | compatibility is a proposed gamble; core warning and separation plan bound the combination; `140 / 0076–0077`; `142 / 0148–0159`; `143 / 0168–0174` |
+| psychological availability | Darkshine retains trained strength while unable to stand; later actually attacks | willingness/access and capacity differ; one re-entry does not settle future fear; `141 / 0103–0117`; `143 / 0183–0186` |
+| reported operational performance | Watchdog Man intercepts and returns before a functional alarm response; 41 seconds is attached to this incident | speed of 250 km/h is reported (`とも言われる`), disaster level is estimated (`推定`), and real ability remains unknown; no maximum or universal kill-time claim; `extra:嗅覚 / 0206–0209` |
+| unresolved endpoint | luminous spear is prepared and an unnamed figure is revealed underground | no spear impact, final victory, figure identification or interaction is shown; `143 / 0190–0205` |
+
+**Cosmic evidence remains separated by type.** V27 contains Psykos's attributed encounter/power report. V28 shows a cube in Blast's childhood rescue memory, a heavy cube handled underground, moon imagery, and the final enormous crouched figure. Their juxtaposition permits a question, not an established identity chain or activation mechanism. The name of the figure, relation between cubes, cause of the aperture, any transfer of power, Blast's mission and a price or contract remain OPEN (`142 / 0140–0145`; `143 / 0191–0205`). No newly measured limiter law or universal scalar power formula is introduced.
+
+## V29 power delta — attributed mechanisms and protected deployment
+
+Propagated after the frozen [V29 reading](../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+| Mechanism / event | V29 evidence and action | Limit | Evidence |
+|---|---|---|---|
+| Cube/contact | conditional voice offer; Blast's device-like explanation, touch/space/contact account and collection | narrator proof of total purpose absent; confiscated object unspecified; no contract or transfer accepted | `144 / 0012–0017` |
+| Blast movement/time | outmaneuvers Flash's test, handles heavy cube on one finger, says time passes more slowly here, opens transport | no quantified ratio, teleport-versus-speed resolution or shown surface arrival | `144 / 0016–0023` |
+| Underground spear | prepared V28 attack visibly impacts | terminal fate of every root, Psykos or sample not certified | `144 / 0030–0035` |
+| Psychic cooling | Fubuki suppresses thermal motion and supports the biological portion; HUD clears, she collapses | not unlimited range, metal repair or cost-free cure | `147 / 0095–0101` |
+| Homeless Emperor supply / aim | repeated aerial orbs and conductor imagery; Tatsumaki evades using decoy recognized by Black Sperm | astonished unlimited language not measured infinity; suspected ordinary human body remains hypothesis | `146 / 0087`; `148 / 0104–0109` |
+| Bang redirection | patient carried through attack redirection; Fuhrer Ugly's force redirected onto himself and Gums | practitioner's ultimate-defense claim not all-force theorem | `149 / 0151–0161` |
+| Tanktop revival | charged hands prepared; garment recoil occurs before revival | no applied shock or universal resurrection mechanic; major injuries persist | `149 / 0154–0155,0162` |
+| Fuhrer Ugly | self-claims inferiority-driven strength; altered body follows ingestion/rupture | self-report not equation; no acid properties tested here | `146 / 0077–0078`; `149 / 0164–0165` |
+| Darkshine and water | jets fail visibly to injure shielding body; punch disperses immediate mass | favorable matchup not general immunity; all-remnant death unconfirmed | `150 / 0170–0180` |
+| Atomic and multiplication | leaves cut sections connected and explains no immediate increase unless divided | local delay, not no replication ever; remaining bodies keep pursuing | `150 / 0185–0190` |
+| Pig God's reserve | says current time differs from prophecy and withholds something for the end | ability, cost, prophecy source and fulfillment unknown | `149 / 0146` |
+
+Genos's five-kilometer evacuation instruction is not a measured explosion yield (`147 / 0093`). An arriving swordsman's nuclear comparison is not a nuclear-output measurement (`148 / 0124`). Iaian's imagined ocean-scale eyes are a conditional hazard model, not a completed assimilation (`150 / 0169`). No new limiter or unified God mechanism is inferred from these images.
+
+## V30 power delta — geometry, modality, response and cost
+
+Propagated after the frozen [V30 reading](../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+| Mechanism / claim | Demonstrated addition | Unresolved extent |
+|---|---|---|
+| Banehige / Nichirin | trench enables repeated penetrating thrusts; populated-setting horizontal use constrained (`151 / 0023–0027`) | no scalar rank equation or universal matchup win |
+| Shared treatment | Fubuki contacts Bomb/patient, swelling lessens and both tire (`151 / 0028–0030`) | partial recovery, total resource law and Pig God's contribution unshown |
+| Garou's acquisition | copied `剛醒呼法`, Bang identifies safe-manual route to sealed art (`153 / 0081`; `155 / 0134–0135`) | bodily-limit wording is not limiter removal; monsterization explanation remains a question |
+| Bang's reform | years construct protective `流水岩砕拳` after sealing offensive style (`155 / 0145–0146`) | purpose/history does not prove restraint always wins; Bomb's preferred old-art option untested |
+| Digestive acid / gold | bodies and blades damaged; GS claims gold's corrosion resistance and resists this attack (`152–153 / 0057–0065,0087–0100`) | local modality advantage, not every-chemical immunity or invulnerability |
+| Cells / combined form | separate food-denial force, three reported cell losses and remaining total, twelve-trillion right-arm claim (`154 / 0115–0118`; `155 / 0164`; `156 / 0182`) | no independent global cell census or final depletion calculation |
+| Sun Blade | inherited object; remembered responsive-sword lore; narrated response to concentration; cuts light barrage and GS arm, then drains Atomic (`153 / 0092–0094`; `156 / 0173–0184`) | local response confirmed, life/mind/origin and repeatability unsettled; Moon Blade/paired supremacy remain legend. No God linkage shown |
+| Genos | data-based burial escape and residual propulsion enable local protection (`152 / 0053`; `155 / 0162–0164`) | no invented intervening repair or tested collateral explosion |
+| HE | controls extensive light, plans betrayal and attributes action to planetary will (`151 / 0019–0020`; `154 / 0104–0107`; `156 / 0170–0186`) | infinity and authorization not independently established; moon framing not causal proof |
+| ENW | reappears after dispersal; Atomic proposes response to killing intent (`156 / 0185–0186`) | complete trigger and sustaining source remain open |
+| King | appearance and inherited reputation change enemy/ally decisions (`156 / 0187–0195`) | no physical power generated by belief; final tactical outcome withheld |
+
+The multidimensional outcome model is strengthened: geometry, material interaction, target knowledge, resources, mental state and others' assistance alter results. No new numeric equation, universal technique hierarchy, portal destination or unified cosmic mechanism is introduced.
+
+## V31 mechanism delta — attribution, revocation and bounded speed
+
+Propagated after the frozen [V31 reading](../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+| Mechanism / claim | Evidence update | Ceiling / unresolved variable |
+|---|---|---|
+| King reputation | inferred hidden intent and imagined blast versus Garou's actual timed attacks/replay (`0018–0036,0109–0119`) | no King output, supernatural intent-reading or touchless feat independently proved |
+| Finite sperm stocks/fusion | current 11兆4491億71万2554 plus 43兆, separate 100, later 54兆4491億71万2454; irreversible ego merger account (`0038–0046`) | current arithmetic coherent; V30 0164 lacks the extra 11兆. Preserve discrepancy without invisible repair or unsupported redraw claim; reserve fate open |
+| 爆心解放拳 | narration synchronizes heart pulse/impact and momentarily exceeds bodily limit; redirected blows still damage Bang (`0056–0057`) | this is local transient mechanism, not permanent limiter removal. Bang's monsterization-cause question remains a question (`0066`) |
+| Acquired martial synthesis | Garou says his fist absorbs all he has fought, revises name to 怪害神殺拳 (`0163–0167`) | finite experienced repertoire statement; no universal power copying or demonstrated god-killing. Disaster God is future ambition |
+| Timed cause/speed | original sequence, normal-speed replay; later faster/denser two-fighter lattice and neural simile (`0110–0116,0190–0192`) | comparative speed is direct; no surveyed distances, exact real-world speed or literal infinite sustainable acceleration |
+| HE revocation | giver names power and life, HE burns, Zombieman infers interference (`0077–0087`) | strong dependency case; full motive, transfer/cancellation rules and witness access unresolved |
+| Counterfeit offer | false Blast claims trained grant capacity, offers hand; Tatsumaki rejects, patterned face revealed (`0201–0207`) | claim is not authenticated Blast ability; no accepted power transfer |
+| Actual Blast testimony | separate portal arrival, cube/time-gap account, contact opportunity and explicit allies (`0208–0213`) | informed testimony; no complete spacetime system, duration, ally identities or all-cause unification |
+| Divine mission / earth and sea | Sage declares shared mission, EOW named; both 災害レベル不明 (`0218–0221`) | strengthens connection beyond imagery, but not independent creation/command proof or a God-level classification |
+| Water persistence | dispersal followed by ocean-scale presence (`0114–0115,0170–0173,0220–0221`) | expanded environmental coupling; full trigger, extent and defeat conditions open |
+
+The effective-outcome model still requires information, geometry, mechanism, adaptation, endurance, coordination and constraints. Genos's core-touch recognition supplies no new hardware upgrade; Platinum's human ceiling is polemic; Flash's four portraits are a comparison set, not equality among them. Sun/Moon Blade lore and Bofoi response receive no resolving evidence.
+
+## V32 mechanism delta — unequal resonance and self-assessed completion
+
+Propagated after the frozen [V32 reading](../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+| Mechanism / claim | Supported update | Ceiling / unknown |
+|---|---|---|
+| Garou/Bat resonance | rectangular narration: no intended combination, accidental resonance/amplification, large ability gap, Bat raised by Garou and Garou also benefits | actual local reciprocal effect; no equality, measured multiplier or permanent transfer |
+| Sage regeneration | repeated local `気` motivates core inference; extraction blocks repair, core then destroyed before body split | case-specific dependency; prior inset unnamed, no universal core or donor network |
+| Completed fist / blessing | tile memory and first-person language culminate in actual split | self-assessed martial graduation, not objective absolute ceiling, official God rank, gift or moral completion |
+| Garou further body change | hand cracks/apparently reforms; larger spikes and interrogative anger attribution; felt power increase | no demonstrated God transaction, Monster Cell, permanent limiter removal or measured output |
+| Saitama interventions | serious punch disperses water; support geometry prompts carrier surfing and later turning/wave redirection | force does not eliminate footing, ongoing rescue or collateral concerns; sea-creature final persistence open |
+| Assisted shot / attempted energy aid | Gearsper supplies effective vision; Fubuki offers power while depleted | no marksman eye repair, full protocol or completed Tatsumaki cure |
+| Bonus compression/reflection | fleet's named `大星光極限圧縮砲` reflects from bald head and destroys ships | participant age/weapon claims, local gag; no universal reflection rule or separate realm proved by organizational name |
+
+Locators respectively: `163 / 0086–0093`; `163–164 / 0094–0120`; `164 / 0112–0126`; `167 / 0193–0205`; `162,165 / 0020–0032,0140–0146`; `163,165 / 0067–0074,0136–0137`; `反射 / 0224–0225`.
+
+The exact shared attack typography joins Garou's `交牙竜殺` with Bat's `野蛮ハリ` and a shared `拳`/`ケーン` pun; layout does not imply equal strength. Sage's 6,666-leg coordination boast and Bat's protective `漢` maxim retain their speakers. V31 mission testimony remains stronger than mere imagery but does not gain independent donor proof here. Moon, curved Earth and eye/galaxy title art supply no measured altitude or complete cosmic mechanism. Legacy claims misplaced in V32 are excluded.
+
+## V33 power delta — narrated cosmic knowledge with local limits
+
+Propagated after the frozen [V33 reading](../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+| Mechanism / term | Evidence authority | Limit / locator |
+|---|---|---|
+| 神殺瞬撃 / 神殺昇撃 / 大発勁 / 極発勁 | exact distributed names; actual contact, structural and environmental results | names do not establish divine death, incapacitation or a final ceiling (`0018–0031,0061–0066`) |
+| Cosmic-force understanding | narrator links Bang's flow/reproduction method, Garou's copying and all cosmic force behavior | neither social omniscience nor absolute output parity (`0108–0109`) |
+| 全生命体根絶拳 / 核分裂 / ガンマ線バースト | named techniques, effects, ship diagnosis/response and qualified narrated astronomical explanation | no real-world yield calculations; protection upward is Saitama's explicit purpose (`0110–0143`) |
+| 借勁 / モード サイタマ | Garou's method account, stylish naming, visual/motor imitation | parity and eventual surpassing are his claims; final serious clash unresolved (`0125–0136,0208–0212`) |
+| False-master contact / proxy grant | donor's slight-contact statement, refusal flashback, Garou's near-loss/control account | selection, full grant extent, revocation and cross-encounter identity not fully established (`0154–0168`) |
+| 次元砲 / 重力拳 / 遮断 | named Blast actions, forced transfer and local return/copy | one local failure is not an absolute rule for all portals (`0177–0185`) |
+| Nuclear/gravity composite and gate overload | Garou combines observed operations; Blast explicitly explains excessive energy load | evacuation becomes priority; no universal capacity threshold or numeric scale (`0184–0190`) |
+| 地球が砕けるぞ warning / 二乗 title | dangerous incoming energy, mirrored labels and chapter boundary | no completed collision, Earth breakage, off-world displacement or numerical squaring formula by V33 (`0204–0212`) |
+
+The hidden-dimensional dialogue narrates its location but leaves the speakers and seal occupant unassigned; their geomagnetic/gravity diagnosis follows planetary disturbance (`0070`). No new limiter removal is independently certified. V1's later-location/result claims remain excluded; no web evidence or redraw comparison is imported.
+
+## V34 power delta — growth, geometry and entrusted temporal technique
+
+Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+| Mechanism / evidence class | Established change | Limit | Evidence |
+|---|---|---|---|
+| Collision and redirection / TF,VF | Blast needs allies to divert energy when gate distance is insufficient; recoil displaces fighters | exact selected destination, star count/yield and full ally taxonomy unshown | `172 / 0011–0028` |
+| Gates/terrain / VF,TF | Saitama grasps/kicks gates and destroys the stable spatial frame; Garou loses up/down | opponent's inevitability claim is defeated locally, not all spatial powers globally | `172 / 0029–0066` |
+| Growth / TF | narration specifies unprecedented emotional surge causing exponential rise; copying observer falls behind | no numerical axes, universal formula, mathematical infinity or total uncopyable ontology | `173 / 0077–0085` |
+| Sneeze and return / TF,VF | split serious-sneeze label; huge Jovian damage; Garou gate within sight; fart helps catch it | substantial Jupiter body remains; no independently named serious fart, independent gate creation or calibrated speed | `173 / 0088–0104` |
+| Grant/revocation / TF,VF | Garou's conditional responsibility, entrusted instruction and detached confiscation followed by whitening | total autonomy/puppetry and donor's embodied identity remain open | `173 / 0112–0126` |
+| Temporal method / TF | imagined inner universe, particle/antiparticle copying in Saitama, future-grown blow landing before thrown; zero-punch formulation | physical contact exists; scope is his constituents, not external universe or all divine faculties | `173 / 0122–0138` |
+| Memory and mastery / TF,VF | two Saitamas merge, he lacks memory; Garou forgets attained techniques; core transfers memories | demonstrated feat is not certified reusable conscious technique; Genos's branches are hypothetical | `173–175 / 0141–0162,0167,0203` |
+
+Effective outcome remains a relation among output, mechanism, information, rate, geometry, constraint and coordination. The retained core and Garou's instruction are causally meaningful. No new limiter-removal origin or exhaustive God/seal/landform identity is supplied.

@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Independent / civilian character state through V26
+scope: Independent / civilian character state through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 # One Punch Man — Independent / Civilian Character State Ledger
@@ -208,3 +210,96 @@ Tareo is alive and encounters King underground. He immediately treats King as re
 
 ### Civilian accounting as tactical constraint
 Tatsumaki explicitly distinguishes the named hostage from a second child and demands current location information while fighting Psykos. V26 therefore strengthens the rule that noncombatant location is a direct determinant of available hero force, not background sentiment.
+
+
+## V27 independent/civilian-state delta
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+- **Suiryu — STRENGTHEN, moderate preserved:** in hospital he distinguishes heroic resolve from comparative fighting ability and explicitly repeats his desire to become a hero. This extends the rescue-driven reorientation through another later context; registration and practical follow-through remain OPEN. `OPM|V27|135|image:0110-0111` (TF -> IR, high).
+- **Tareo — STRENGTHEN, emerging preserved:** remains the child following King toward safety; the escort's report now affects Tatsumaki's rescue accounting and usable force. Trust in King's public persona is not new knowledge of King's actual combat ability. `OPM|V27|132|image:0031-0032`; `134|image:0066-0089` (TF/VF -> IR).
+- **Zenko — NO NEW TIER:** her concern for the hospitalized Metal Bat is preserved in the hero/relationship routes; the brief exchange does not establish broad new independent behavior. `OPM|V27|135|image:0096-0098`.
+
+All observations are `tankobon_canonical`, available from V27. Charanko and other unaffected independent models receive **NO CHANGE**.
+
+## V28 independent/civilian-state delta
+
+Propagated from the frozen [V28 reading](../../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+- **Tareo — PRESERVE, emerging:** Garou remembers his question about monster identity after rescue. This strengthens the question's later causal availability to Garou, but supplies no new present-day decision by Tareo. `OPM / V28 / chapter:141 / image:0100–0101`.
+- **Q-City response personnel — bounded institutional evidence:** delayed alarm, hazard classification, cancellation of additional aid, and cleanup show work continuing after Watchdog Man's interception. These are functional roles, not sufficient individualized voices or biographies. `OPM / V28 / extra:嗅覚 / image:0206–0209`.
+- **Childhood facility personnel and parents — no invented character profiles:** Tatsumaki's abandonment and account of being sold support the institutional/family history recorded in her hero-state and technology routes. Anonymous roles and reported acts do not establish broad personal models. `OPM / V28 / chapter:142 / image:0134–0145`.
+- **Suiryu, Zenko, Charanko and unaffected models — NO CHANGE:** earlier readiness and open follow-through questions remain at their previously supported boundaries. No later-volume or web evidence is admitted.
+
+## V29 independent/civilian delta — recovery, gratitude and inherited obligation
+
+Propagated after the frozen [V29 reading](../../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+| Character / role | Added observation | Conditional interpretation / limit | Evidence |
+|---|---|---|---|
+| Suiryu | plays roughly with visiting sister, asks her to inherit the dojo, declares a hero goal and admits earlier shifting ambitions | moderate preserved; ordinary sibling history and embarrassment sharpen the repeated aspiration, but his insistence that this time is serious is not yet registration or follow-through | `146 / 0058–0062` |
+| Suiko | visits/pokes injured brother, claims training has overtaken him, reports their late grandfather's intended successor and challenges his history of whims | **emerging, bounded**: direct family register, training self-concept, obligation and skeptical affection form a coherent initial model. Comparative strength and grandfather intention are her claims; wider life and independent failure/recovery absent | `146 / 0058–0062` |
+| Suicho | named as deceased master in the grandfather label | historical relation and school position only; no reconstructable personality or independent corroboration of wishes | `146 / 0060` |
+| Tareo | embraces Waganma, credits the unnamed uncle and asks King not to let others bully him | emerging strengthened; gratitude and concern extend beyond personal escape. No name supplied in this exchange and King's promise remains unfulfilled | `145 / 0040–0042,0050` |
+| Waganma | returns the embrace, worries about Child Emperor's injuries/weapons and asks for rescue | emerging strengthened across earlier abandonment/confession/cost recognition; change is real but does not erase those earlier choices | `145 / 0040–0042` |
+| Narinki / rescued father | relief and payment language coexist | do not reduce all gratitude to money or infer a complete moral transformation | `145 / 0042–0043` |
+| Released captives | survive Pig God's bodily transport; an injured amputee angrily strikes him and is reassured | pain, anger and uncertainty remain compatible with being rescued; arm reattachment is proposed reassurance, not accomplished care | `149 / 0143–0144` |
+
+Unnamed victims and medical personnel remain role evidence where there is insufficient individual characterization. Suiko's earlier front illustration does not precede the narrative establishment of her name; packaged portraits are not post-battle recovery scenes.
+
+## V30 independent/civilian delta — bounded witness and publication roles
+
+Propagated after the frozen [V30 reading](../../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+The brothers' past includes victims and surrounding people, but the volume chiefly develops Bang and Bomb, routed in hero/relationship history (`155 / 0137–0146`). It supplies no broad individual model for unnamed bystanders. Nichirin and Banehige's martial roles are now routed explicitly in the hero-state/readiness homes; independence from an Association rank does not require duplicate personality ownership.
+
+The bookstore and King's printed advice imply a readership and address child fans (`extra / 0196–0201`). Printed anticipated reactions are not observed fan responses. No editor, interviewer, payment agreement or independently acting fan is shown sufficiently to model. Suiryu, Suiko, Tareo, Waganma, Narinki, Zenko and other unaffected independent/civilian profiles retain their last supported tiers and unresolved follow-through. Do not convert the rescue battle's hero injuries into new civilian-trigger evidence for Genos's checkpoint.
+
+## V31 independent/witness delta — perception and cross-category concern
+
+Propagated after the frozen [V31 reading](../../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+Manako emerges with Saitama and Flash, then rushes toward the fallen Flash with concerned フラッシュさん (`159–161 / 0123–0127,0188`). **Emerging retained.** This strengthens a particular bond across the hero/monster label, without completed treatment, reciprocal declaration or institutional acceptance. She does not acquire a broad new ideology from this one action.
+
+Remote spectators and offshore personnel witness light or the expanding water threat (`160 / 0156–0157,0170–0173`). Narration distinguishes public interpretation from the three actual fighters; the carrier's observed evacuation/damage does not supply an exact casualty count or broad crew models. Tareo's V32 preview image and the sisters' contents illustration are paratext, not new V31 reunions or domestic events (`0008,0224`). Unchanged civilian/independent profiles retain their previous boundaries. Blast's new direct conduct remains routed in his existing hero-state profile; silhouettes behind him remain unidentified.
+
+## V32 civilian delta — the protected child names a different goal
+
+Propagated after the frozen [V32 reading](../../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+**Tareo: emerging → moderate.** Cumulative peer/bullying, fandom, captive and reciprocal-protection contexts now gain independent moral agency under fear. He recognizes the uncle despite appearance, credits earlier protection, leaves the boat secretly, trembles, chooses not to run, recalls a human greeting, identifies a fourth rescue and personally names Garou the highest hero. He rejects monster play, does not want him misunderstood/hated, and objects that further attacks will make others think him a monster. He assents to Saitama's distinction between stopping and defeating (`162–163 / 0012–0013,0064`; `167 / 0183,0204–0223`).
+
+The model can now reconstruct a conditional response: experienced care can sustain attachment through frightening change, while that attachment motivates disagreement with the protector's desired values. This is not fearlessness, universal moral accuracy or endorsement of the threat. Tareo credits both enormous defeats too broadly and exposes himself to danger. Wider ordinary life, relationships independent of the crisis and post-intervention follow-through remain missing; no strong or specialist-ready tier follows.
+
+**Manako emerging retained.** She tries to wake Flash and flee; Amai mistakes the care for predation and attacks. Flash later holds her during the ship hazard (`165 / 0129–0133`). Particular reciprocal bodily concern strengthens, but no universal category reconciliation or completed safe arrival occurs.
+
+Waganma remains a helicopter/evacuation participant without a newly inferred ideological change. News crew, television viewers, carrier crew and boat passengers hold different evidence. Their fear and practical work deserve separate attribution, not one omniscient public viewpoint (`162 / 0028–0033,0041–0053`; `167 / 0182–0185`).
+
+## V33 civilian delta — gratitude and the limits of imagined protection
+
+Propagated after the frozen [V33 reading](../../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+**Tareo moderate retained.** His prior moral judgment is recalled by Garou, who privately apologizes and imagines separation as protecting him. Manako then sees the child collapsed with blood/hair loss. The memory adds present influence on Garou, not a new conscious child decision; the camera supplies harm without certifying permanent death or Garou's awareness (`170–171 / 0137,0159–0161,0171–0173`).
+
+**Manako emerging retained.** Nervous assent to Flash's practical defense is followed by attempted escape, bleeding and collapse. Her sight of Tareo establishes a particular knowledge position. Utility-based inclusion, reciprocal local care and vulnerability deepen without creating a general settlement of monster personhood (`170–171 / 0145,0173`).
+
+**Waganma emerging retained.** His alarm at a supposed drowned body is met by Sekingar shielding his eyes; later collapse follows prior care for Child Emperor. Sympathy does not erase his earlier abandonment, and victim status does not itself broaden readiness (`169,171 / 0053,0162,0202`).
+
+Shelter workers remain trapped because of evacuation duties, fear Garou yet thank the immediate rescuer after corrected attribution, and leave under instruction. Their gratitude affects him later. The school-trip teacher claims seniority while taking a lifeboat; rising land saves stranded pupils but leaves the teacher's final fate unclear. Unnamed workers/pupils/crew have bounded situational voices, not full newly routed profiles (`168–169 / 0032–0038,0057,0067–0070`).
+
+The bonus's citizens, critic and reporter are participants in a media construction. Their displayed statements and images remain embedded evidence, with no direct independent verification of every reported Drive Knight encounter (`0213–0217`).
+
+## V34 civilian delta — testimony, role revision and hospitality
+
+Propagated after the frozen [V34 reading](../../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+| Person / setting | Behavior / change | Limit | Evidence |
+|---|---|---|---|
+| Tareo / awakening | sees pale Garou figure, follows, questions whether it was a dream | encounter shown; dream/ghost/remnant ontology and full future memory not certified | `174 / 0162–0166` |
+| Tareo / execution | physically interrupts Amai, cites repeated rescue, rejects adult euphemism and embraces transformed Garou | moderate retained, new public moral agency; defense does not absolve all harm | `174 / 0174–0184` |
+| Tareo / peers | challenges imposed monster role as Garouman, then asks wealthy friend to include the others | agency and inclusion coexist with still-active bullying script | `175 / 0204–0207` |
+| Waganma | invites Tareo to game and agrees to include peers; shows hero merchandise | emerging retained; hospitality qualifies prior exclusion without erasing it or wealth asymmetry | `175 / 0205–0207` |
+| Narinki | credits his own parental example, then suffers crowded-car gag | self-credit is focalized, not demonstrated sole cause | `175 / 0207` |
+| Garou's parents / actress note | parents absent during detention; actress resembles mother but looks kind unlike her | narrow textual characterization, not complete family history or actor personality | `175 / 0198,0215` |
+
+Bang's report that the child is well is tested by actual peer behavior; the source shows both gain and continued conflict. Manako's prior vulnerability remains in its own history, without inventing a new individualized medical verdict from the collective aftermath.

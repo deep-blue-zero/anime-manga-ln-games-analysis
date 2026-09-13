@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Monster and antagonist character state through V26
+scope: Monster and antagonist character state through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -637,3 +639,123 @@ Drive Knight remains routed in the hero ledger, but his V25 conduct is antagonis
 
 ### Invisible monster near King/Tareo
 - **NEW bounded state:** complete invisibility is claimed by the monster itself; King's reputation makes ambiguous speech/action legible as exposure, causing flight. Cognition beyond this fear-response scene remains insufficient.
+
+
+## V27 antagonist-state delta
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+| Character | Observed state / claim | Interpretation and limit | Evidence route |
+|---|---|---|---|
+| Garou | dislikes looking like a bully when Darkshine is frightened; searches for the evil he ought to enact | sharpens a normative exclusion within self-authored evil; neither conventional redemption nor harmless violence follows | `OPM|V27|133|image:0057` |
+| Orochi | remembers Psykos supplying sacrifices, invades her and targets her for consumption | independent agency at fusion opening; later residual sovereignty remains OPEN | `OPM|V27|132|image:0015-0019` |
+| Psykos | fights for control and claims Orochi's body; reports a God-like encounter and power inflow; frames assimilation as mandate; reacts to non-recognition | separate observed control struggle, self-report, ideology and analyst inference; external empowerment does not certify her mandate or erase Orochi | `OPM|V27|132|image:0015-0019`; `136|image:0134-0143` |
+| Manako | asserts her name, exchanges introductions and participates in ordinary banter | strengthens a bounded individual/companion model; institutional acceptance and broad morality remain OPEN | `OPM|V27|135|image:0117`; `137|image:0189-0191` |
+
+Authority: `tankobon_canonical`, available from V27; TF/VF -> IR, high for reported conduct, bounded for psychological generalization. Psykos's prophetic vocabulary is her changed self-description. The God-like presence remains a mystery/power-ledger subject; V27 does not justify a reconstructable personality or identification with every earlier divine reference. Garou remains strong; Psykos and Manako retain emerging/bounded coverage; Orochi remains a bounded antagonist profile.
+
+## V28 antagonist-state delta — imagined universal fear and unsettled survival
+
+Propagated from the frozen [V28 reading](../../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+| Character | Observed conduct / attributed position | Interpretation and limit | Evidence route |
+|---|---|---|---|
+| Garou | imagines absolute shared terror ending bullying and conflict; uses disaster-level God as an aspiration; recollected Tareo question interrupts the formulation | positive content of his desired evil becomes clearer while his rescue behavior remains a contradiction; neither a completed equal society, renunciation, nor cosmic contact is shown | `OPM / V28 / chapter:141 / image:0093–0101` |
+| Psykos | converts the fused form into a jet, uses decoys and further adaptations, reads enemy geometry, makes repeated victory forecasts | adversarial learning persists under pressure; her claims about perfection and victory are claims; the final attack sequence does not certify death, complete escape, or permanent sovereignty over Orochi | `OPM / V28 / chapter:139 / image:0043–0055`; `142 / 0148–0156`; `143 / 0164,0175–0190` |
+| Orochi / fused biomass | roots are crushed and Drive Knight catches a fragment during successive attacks | local sample acquisition is visible; viability, distributed remnants, residual personhood, and complete organism death remain OPEN | `OPM / V28 / chapter:142 / image:0152`; `chapter:143 / image:0186–0190` |
+| Manako | travels with the pair, reacts to the heavy cube's landing, tries to use the distraction to leave, then sees the aperture | individualized practical self-interest and companionship coexist; no durable loyalty, institutional acceptance, or generalized moral conversion established | `OPM / V28 / chapter:143 / image:0192–0193,0203–0205` |
+
+Garou remains **strong**; Psykos and Manako remain **emerging/bounded**. Orochi retains a bounded antagonist profile. The unnamed final figure belongs in the mystery/power ledgers: its depiction supplies neither a name nor enough behavior for a personality model. V1's purported Tanktop Master/cadre destruction is rejected as V28 evidence without assigning it to an unread later volume.
+
+## V29 antagonist-state delta — rival claims and contested bodies
+
+Propagated after the frozen [V29 reading](../../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+| Subject | New evidence | Model boundary | Evidence |
+|---|---|---|---|
+| Fuhrer Ugly | names attacks after targeted damage to face, forearm, whole body and dignity; envies the gifted child's future; claims stronger power with deeper inferiority; abuses captives, suffers redirected force, ruptures out of Gums and reacts in horror to his face | **emerging, bounded** profile now supported by speech, envy, humiliation policy, rivalry and response to his own damage. Strength formula is self-report; altered form's acid or maintenance rules not demonstrated; sexual humiliation remains threatened, not performed | `146 / 0072–0088`; `148–149 / 0127–0165` |
+| Homeless Emperor | rejects others as unworthy vessels, frames violent force as chosen beauty and conducts an aerial symphony; misses the decoy that Black Sperm identifies | emerging preserved; aesthetic purity and power supply are ideological/mechanistic questions, not narrator endorsement or proof of infinity | `146 / 0070–0088`; `148 / 0104–0109` |
+| Black Sperm | questions the supply and human body limit of Homeless Emperor, recognizes Tatsumaki's decoy, attacks patient transport, infers a first-aid destination and begins escaping restraint; takes Darkshine's taunt badly | emerging preserved; sharper tactical and rival cognition; Homeless Emperor's body weakness remains conditional, healer location is inferred, final anger is not a new form | `146 / 0087–0088`; `148 / 0108–0109`; `150 / 0181–0193` |
+| Gums | ingests terrain, Tanktop Master and finally an ally; survives internal burning long enough to bite again; body is ruptured from within | insufficient personality breadth / stronger mechanism profile; no speech or broad motivation beyond appetite, no certified terminal state | `146 / 0084–0085`; `148–149 / 0125–0165` |
+| Evil Natural Water | reforms after cuts, emits stronger jets, threatens Iaian and is dispersed by Darkshine | emerging mechanism-only preserved; Iaian's ocean image is a conditional fear, and scattered eyes/water do not certify destruction of every remnant | `150 / 0168–0180` |
+| Manako | supplies multiple light/vision modes, objects to animalizing address, fears being identified as a monster and is defended as a particular useful companion | emerging preserved; fear does not prove Blast meant to kill her, and transport inclusion does not imply universal recognition | `144 / 0010–0011,0021–0023` |
+| Orochi / Psykos | the prepared spear impacts the underground structure | local impact resolved; survival of all remnants, sample viability and Psykos's location remain open | `144 / 0030–0035` |
+| Garou | remains a concern in others' speech and a subject of assigned watch; no new present action | strong tier and prior unresolved ideology preserved; no new encounter imported | `146 / 0066`; `148 / 0122` |
+
+The unseen voice offers power to a worthy vessel and threatens confiscation of an unspecified object. It is recorded as an attributed proposal, not accepted transfer or an adequately characterized person (`144 / 0012–0016`). The named altered Fuhrer Ugly label at 0165 does not itself demonstrate the later properties a reader may remember.
+
+## V30 antagonist delta — coercion, plurality and preserved human history
+
+Propagated after the frozen [V30 reading](../../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+| Subject | New observation | Conditional model / limit | Evidence |
+|---|---|---|---|
+| Garou | altered body retains/copied arts; fights Bomb then Bang; Bang identifies a secretly read offensive manual; small facial crack during teacher's appeal | strong retained from earlier breadth; no new explicit conscious ideology, accepted reform or demonstrated cosmic grant. Bomb proposes monsterization as an explanation for adaptation | `151–153 / 0031–0086`; `155 / 0134–0135,0159` |
+| Fuhrer Ugly | names Gums-derived digestion, attacks through humiliation, envies beautiful/strong bodies, wants to feed before torturing Bang; suffers allies' attacks and resistance | emerging retained; revenge and inferiority transmission are explicit, future strengthened digestion unperformed; damage does not establish final death | `152–154 / 0057–0065,0087–0118` |
+| Black Sperm / Golden Sperm | cells argue, combine selectively, retaliate against food access, retain separate bodies; gold form uses polite contempt, saves HE, loses arm and proposes coordinated attack on King | emerging retained; combined force does not erase all plurality; cellular totals attributed. Protection of ally defeats a blanket noncooperation claim; King assessment is wrong | `151 / 0013–0020`; `153–156 / 0095–0118,0164,0181–0193` |
+| Homeless Emperor | plans to use Black Sperm for extermination then destroy him; claims planetary will; imagines enslaving FU for amusement and practices pleasurable killing | emerging retained; plans and authorization are speaker claims, not achieved extermination/divine approval; surprise and GS intervention show dependence | `151 / 0019–0020`; `154 / 0104–0107`; `156 / 0170–0186` |
+| Evil Natural Water | visibly returns after prior dispersal, with altered threatening presentation | emerging mechanism-only retained; Atomic wonders about hostile stimulus, no omniscient complete trigger rule. Physical return adds no ordinary personality | `156 / 0185–0186` |
+
+Gums's digestive legacy is named by FU; it does not provide a new independent Gums scene or settle every mechanism. Manako/Blast/Flash/Saitama appearances in chapter-title art do not establish the portal group's arrival. No new tier is inferred from an attack's size or a body's appearance.
+
+## V31 antagonist delta — imposed identities and incomplete divine links
+
+Propagated after the frozen [V31 reading](../../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+| Subject | Supported change | Conditional model / boundary | Evidence |
+|---|---|---|---|
+| Garou | interrupts FU attack on Bang, uses ジジイ, later reports no surface memory; recalls advice, announces future reform through equal absolute evil; rejects MA/Platinum, integrates experienced arts, defeats rivals, attacks new threat | strong retained; protective effect is direct, degree of prior conscious intent uncertain. Self-authored evil and attachments coexist. 神 ambition/name not completed cosmic grant or god-kill | `159–161 / 0103–0108,0122,0134–0167,0189–0199,0218–0223` |
+| Black / Golden / Platinum Sperm | finite pool protection, separate reserve, irreversible merger and contested ego; polished contempt, proposed alliance, human-ceiling and hero-selfishness polemic; fused body destroyed | emerging retained under one continuity profile; no every-cell extinction, literal political system or independent truth of taunts. V30/V31 stock discrepancy remains explicit | `157 / 0028–0049`; `159–161 / 0098–0100,0138–0199` |
+| Homeless Emperor | projects hidden mastery onto King, fears bodily weakness, boasts during restraint, suffers power/life confiscation | emerging retained; strong revocable-dependency case, but witness access and donor motives/mechanics remain incomplete. No broader ordinary-life model appears | `157–158 / 0013–0028,0075–0087` |
+| Fuhrer Ugly | attempts revenge against fallen Bang, is struck through by Garou, then collapses/dissolves | emerging retained; terminal-looking consequence visible, no universal Garou acid immunity or new articulated transformation law | `159 / 0102–0108,0120` |
+| ENW → Evil Ocean Water | dispersed by Garou then appears offshore at immense scale and is named with unknown disaster level | existing emerging mechanism-only profile extended, not duplicated; no proved death after dispersal, full trigger rule or new broad personhood | `159–161 / 0114–0115,0170–0173,0220–0221` |
+| Sage Centipede | emerges, declares earth/sea divine mission and attacks Garou; name/classification explicit | newly routed insufficient; single combat/mission context and elevated voice do not establish broad goals or relationships. 災害レベル不明 retained; outcome open | `161 / 0214–0223` |
+
+The apparent giver's revocation and counterfeit recruitment are routed primarily in power/hidden-actor ledgers. A recognizable visual pattern and informed testimony support connections without a complete donor personality model or universal merger of supernatural causes.
+
+## V32 antagonist delta — conscious care and coercive recognition
+
+Propagated after the frozen [V32 reading](../../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+| Subject | Supported change | Conditional model / limit | Evidence |
+|---|---|---|---|
+| Garou | consciously protects child/aircraft, cooperates despite rivalry, extracts/destroys core and splits Sage; remembers tile failure, claims completed fist/blessing, wrongly assumes absent heroes finished, recognizes prior Saitama encounters, assaults, changes body and threatens to remake Tareo's values | strong retained; protection is now explicitly intended locally, not retroactive proof about V31 consciousness. Care and threatened mass coercion coexist. Self-assessed mastery, questioned anger causation and felt power are not narrator-certified universal mechanics | `162–167 / 0013–0099,0105–0126,0157–0213` |
+| Sage Centipede | infers attachment, exploits hostage, considers weaker Bat as alternative then discounts effect, judges opponents, faces failed regeneration and retrieves core | **insufficient → emerging** bounded model: reconstructable adaptive coercion policy, comparative reasoning and defeat response extend V31's mission declaration; no ordinary/private breadth or broad personhood model | `162–164 / 0014,0058–0059,0063–0098,0108–0120` |
+| Evil Natural Water → Evil Ocean Water | serious-punch disruption, eye-bearing remnants, observers' qualified death guesses | emerging mechanism-only retained under existing continuity profile; no new conversational personality or certified final eradication | `162,167 / 0016–0033,0182` |
+| Unnamed bonus commander / aide | dismissive Boros comparison, claimed great age, risk elimination by overwhelming concentrated weapon, astonishment at reflected attack | insufficient; a narrow failed-precaution role. `裏宇宙軍` does not establish a separate realm, and no exact placement within the Garou fight follows | `反射 / 0224–0225` |
+
+Garou's `絶対悪となる者だ` is prospective self-definition; his nonlethal opening still aims to break another person's spirit. Tareo's tears and rejection contest his desired witness response without producing renunciation. The large fist/galaxy/moon imagery and V1's misplaced claims do not establish donor contact here. Sperm reserve fate, the 11-trillion discrepancy and earlier hidden-actor questions remain open.
+
+## V33 antagonist delta — refusal, retained choice and lethal coercion
+
+Propagated after the frozen [V33 reading](../../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+| Subject / trigger | Response and updated model | Limit | Evidence |
+|---|---|---|---|
+| Garou / failed technical theories | revises tactics and body, cannot narrow perceived gap, compares unfairness to bullying, refuses to lose | strong retained; anatomy and parity explanations are his; repeated failure does not define every possible ceiling | `168–169 / 0010–0085` |
+| Garou / unwanted thanks | remembers gratitude shaking resolve, grows angry at his own susceptibility | actual psychological uptake without conversion; earlier deliberate rescues remain distinct from these unplanned consequences | `169 / 0056–0057` |
+| Garou / false-master offer | recognizes implausibly sweet speech and slaps away the hand; slight contact still grants power | refusal is real, near-loss is reported, full autonomy unproved | `170 / 0154–0158` |
+| Garou / inherited flow and proxy mandate | credits Bang for retained control, claims own will, remembers Tareo's judgment | attachment and agency claims coexist with external alteration, not complete possession or complete exoneration | `170–171 / 0157–0168` |
+| Garou / explicit lethal-proximity warning | welcomes terror value, self-names disaster-level God, excludes understanding and rationalizes farewell as for Tareo | informed endorsement of danger; child-specific present harm is not shown known to him | `171 / 0168–0173` |
+| Garou / learning Saitama's disciple tie | deliberately targets Genos and supplies core to force serious response, intending to copy and surpass | chosen interpersonal manipulation beyond passive radiation; success and output equality remain forecasts | `171 / 0176,0191–0212` |
+| Psykos / familiar light pattern | compares it questioningly with Homeless Emperor and divine power | emerging retained; survival/reaction supported, exact mechanism identity not independently certified | `170 / 0118` |
+| Unidentified donor / dimensional speakers | trusted likeness, help offer, slight-contact rule and proxy assignment / seal-disturbance discussion | topical mechanism evidence, not newly invented full biographies; identities and continuity across encounters remain qualified | `169–171 / 0070,0093–0105,0154–0168` |
+
+Pre-grant changes do not become retroactive evidence of the later contact. No new evidence closes sperm reserve fate, the 11-trillion discrepancy, Evil Ocean Water persistence or other absent antagonists' outcomes. Divine technique labels do not certify a killed god.
+
+## V34 Garou delta — entrusted power and unfinished restitution
+
+Propagated after the frozen [V34 reading](../../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+| Trigger / state | Response / model change | Limit | Evidence |
+|---|---|---|---|
+| Copying cannot catch growth | revises spatial theories, fears lethal next blow and seeks gate escape | actual lag is not proof all copying fails; visible-range rule is situated | `172–173 / 0033–0104` |
+| Learns Tareo was harmed by his proximity | withdraws, cries, accepts weak-hearted responsibility even if influenced, wishes execution as evil | specific knowledge is new; general radiation danger was already known in V33 | `173 / 0106–0118` |
+| Cannot realize imagined supreme fist | entrusts instruction to Saitama, persists through confiscation/whitening, sends him to defeat ominous future | reparative agency without completed atonement or total autonomy | `173 / 0117–0126` |
+| Surviving present after zero punch | cannot explain knockout/power loss; later denies external influence and allows beating | narrative ignorance and public own-will claim coexist; no full future-memory transfer | `173–174 / 0139–0149,0167–0174` |
+| Tareo's defense, King and Bang's intervention | survives execution pressure, resists gratitude verbally, escapes, then returns to teacher-guided life | no unanimity or acquittal; future harmful choices remain possible | `174–175 / 0176–0203` |
+| Police/apology path and renewed training | recounts past ideology during narrow questioning; seeks sparring without monsterization, asks after Tareo, shares television taste | ordinary ties retained while attained technique forgotten. Actress looks kind; no complete maternal biography or exact age | `175 / 0195–0215` |
+
+**Strong retained**, with substantial added ordinary, failure, repair and relationship breadth. Divine power loss differs from personhood: Tareo embraces the transformed survivor before human appearance returns. The future instructor and present disciple have unequal knowledge.
+
+The donor's detached confiscation voice is an actual revocation instance; embodied identity and universal terms remain open. No new verified Rover/Black Sperm domestic survival follows from this volume; V1's claims to that effect are rejected at V34 and quarantined after freeze. Earlier reserves and aquatic-monster persistence remain unresolved.

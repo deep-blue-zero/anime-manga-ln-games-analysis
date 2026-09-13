@@ -1,15 +1,17 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Open questions and mystery state through V26
+scope: Open questions and mystery state through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
@@ -567,3 +569,187 @@ Historical V1 Darkshine/Garou confidence-collapse material is **not V23 tankobon
 9. **Raid network:** whether fragmented hero reports can become coordinated surface action.
 10. **Hero Association purpose drift:** whether sponsor/publicity incentives materially distort crisis operations beyond the satirical extra.
 11. **V1 boundary controls:** later planetary/cosmic Psykos-Orochi state, full Darkshine breakdown, and expanded Fubuki/Psykos history remain outside V26 authority.
+
+
+## V27 open-question state
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+### Resolved or sharpened from V26
+
+- Tatsumaki's earlier restraint now has explicit child-accounting, covert extraction and rescue-geometry explanations; force becomes available under changed conditions (`132|image:0031-0032`; `134|image:0064-0083`; `137|image:0170-0171`).
+- Darkshine's breach is explained through real training, pleasant-victory preference and fear of uncertain harm; future recovery remains OPEN (`133|image:0041-0061`).
+- King/Tareo reach the surface rescue network; their report has operational consequences without resolving every later outcome (`132|image:0031-0032`; `134|image:0066-0089`).
+- Saitama/Manako gain named acquaintance; durable friendship or institutional acceptance remains OPEN (`135|image:0117`).
+- Fusion begins with contested sovereignty; Psykos's later ownership statement is a claim, not proof that residual Orochi agency is gone (`132|image:0015-0019`).
+
+### Questions carried into V28
+
+1. What is the God-like presence, and is it identical with, related to, or distinct from Homeless Emperor's attributed God or other earlier divine imagery?
+2. Does its apparent grant represent selection, exploitation, or something else? What are motive, price, conditions, reversibility and control mechanism?
+3. Does Psykos's assimilation doctrine originate with her, the external presence, Orochi, or their interaction? Temporal association does not prove authorship.
+4. Who ultimately controls the Psykos/Orochi body, and what ends the ongoing Tatsumaki/Genos battle?
+5. What is the earlier Psykos/Fubuki warning and recognition history?
+6. Can Darkshine rebuild confidence, and what survives of his prior self-model?
+7. What positive content does Garou assign to the evil he ought to enact; where and in what state does he emerge after restructuring?
+8. How durable is Tatsumaki's stated self-reliance alongside practiced rescue and complementary help?
+9. What is Genos's post-ten-second hardware state and cost?
+10. What follows Suiryu's repeated aspiration in action or institutional membership?
+11. What happens when Manako's local acquaintance encounters wider monster classification; how far will Flash's model of Saitama change?
+
+The detailed source routes and all fourteen frozen V27 questions remain in the reading's section 14. Earlier unresolved questions not addressed there—including Evil Natural Water's persistence/cognition, the Organization, Bofoi/Drive Knight, and institutional publicity incentives—remain OPEN, not silently retired. All short routes above mean `OPM|V27`; no V28+ answer is admitted.
+
+## V28 question-state transition
+
+Propagated from the frozen [V28 reading](../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+| Question / earlier uncertainty | V28 disposition | Evidence and remaining boundary |
+|---|---|---|
+| What positive content does Garou give evil? | **PARTLY RESOLVED / REVISE** | equal shared terror is now articulated; its conflict with remembered Tareo rescue remains OPEN, not renounced (`141 / 0093–0101`) |
+| Can Darkshine act again after his collapse? | **RESOLVED locally / OPEN longitudinally** | stands and performs a real attack; response to later fear and durable recovery unknown (`141 / 0103–0117`; `143 / 0183–0186`) |
+| How is Tatsumaki's self-reliance historically situated? | **PARTLY RESOLVED** | childhood sale/confinement, abandonment, rescue, sister need and warning are supplied; her future integration of received help remains OPEN (`142 / 0133–0147`) |
+| What is happening inside Amai's restraint? | **STRENGTHEN / OPEN** | private violence, remembered rescue, self-impact and public deflection shown; ontology, history and durable moral change unknown (`140 / 0078–0087`) |
+| What did the extraction leave of Zombieman and the ensemble? | **RESOLVED for depicted reunion** | Zombieman is whole and survivors reunite; no inferred death from the earlier eyeball-like image (`139 / 0059–0063`; `141 / 0091,0118–0123`) |
+| Can Atomic overcome the shown range problem? | **RESOLVED locally** | transport enables the close attack, not a new unlimited-range technique (`139 / 0061`; `143 / 0175–0181`) |
+| What was Flash protecting and can he be freed? | **RESOLVED** | he is freed and the sword breaks; earlier warning's omitted referent was not his arm (`143 / 0192–0198`) |
+| What is the aftermath of Genos's expended full-power hardware? | **STRENGTHEN / OPEN** | damage, reactor warning, risky combination and impending core failure are explicit; survival and separation outcome remain unknown (`138 / 0011–0021`; `143 / 0168–0174`) |
+| What does the final spear accomplish? | **OPEN** | prepared and aimed, no impact in V28 (`143 / 0190–0202`) |
+| Are Psykos and all Orochi-derived remnants defeated or dead? | **OPEN** | repeated attacks and fragment collection are shown; complete death, escape, residual agency and sample viability unconfirmed (`142 / 0152`; `143 / 0186–0202`) |
+| What are Blast's occupation, rescue history and cube purpose? | **OPEN, new evidence** | Tatsumaki rescue dated, Amai rescue undated; cube shown; source of sister knowledge and larger agenda unknown (`140 / 0083–0085`; `142 / 0140–0145`) |
+| Do the cubes, moon imagery, aperture and final figure form one causal mechanism? | **OPEN** | juxtaposition and shape similarity do not establish operation, identity, power transfer, cost or contract (`143 / 0191–0205`) |
+| Will Manako remain with her companions? | **OPEN** | attempted departure under distraction, then shared perception; no settled loyalty (`143 / 0203–0205`) |
+| What are Watchdog Man's actual upper limits and broader private motives? | **OPEN** | exceptional incident and ordinary routine shown, with reported/estimated qualifiers and explicit unknown ability (`extra:嗅覚 / 0206–0209`) |
+
+Earlier unanswered questions remain OPEN without new adjudication: Fubuki/Psykos history, the V27 reported entity's identity/motive/cost, Evil Natural Water's further state, Suiryu's practical follow-through, the Organization and Bofoi allegations, and institutional publicity consequences. No V1-only scene, V29 endpoint or pilot-web narrative is used to close them.
+
+## V29 question transition — local resolutions and continued care
+
+Propagated after the frozen [V29 reading](../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+| Question / entering state | V29 disposition | Evidence and limit |
+|---|---|---|
+| Does the prepared spear impact? | RESOLVED locally | `144 / 0030–0035`; organism-wide terminal fate remains open |
+| Did the trio see the vast V28 figure? | REVISE knowledge attribution | `144 / 0010–0011`: explicit inability to see; voice/form identity still open |
+| Cube, voice, confiscation and Blast's work | EXPAND / OPEN | `144 / 0012–0023`: conditional offer, qualified account, collection and route; no accepted transfer or final arrival |
+| Genos core crisis | RESOLVED locally, further condition OPEN | `147 / 0095–0101` costly cooling clears immediate danger; later hardware loss and patient transport continue |
+| Can Fubuki aid her sister and be recognized? | PARTLY ANSWERED / conflict OPEN | `148 / 0112–0119`: agency and explicit growth recognition coexist with renewed restraint |
+| Does Fubuki's leadership become mutually accepted membership? | OPEN | `147–148 / 0097–0123`: duty claim, elder praise and care do not establish Genos joining |
+| Tanktop Master condition and care | EXPAND / OPEN | `148–150 / 0131–0192`: contribution, defeat, revival, shattered bones, handoff; effective further treatment unshown |
+| Pig God's reserve / prophecy | NEW OPEN | `149 / 0146`: self-report only, no demonstrated release or cost |
+| Genos ethical learning and strength self-reproach | STRENGTHEN unresolved conjunction | `148 / 0121–0123`; `149 / 0163`: both remain active; unnamed pronoun not forced |
+| Darkshine confidence after return | STRENGTHEN action, durability OPEN | `150 / 0170–0193`: effective protection, no adverse fear retest or permanent cure |
+| Amai, Zombieman and Child Emperor condition | OPEN | `144–146 / 0029,0071–0082`: wounds/disrupted contact not final death or recovery |
+| Altered Fuhrer Ugly and Gums | NEW STATE / mechanics OPEN | `149 / 0164–0165`: rupture and viscous form; no acid/maintenance tests or certified terminal state |
+| Water and replication limits | PARTIAL local answers / OPEN | `150 / 0168–0193`: water dispersal, connected-cut delay; ocean is conjecture, remaining bodies still act |
+| Safe care route | OPEN | `150 / 0190–0192`: pursuit inferred, binding strains, Genos accepts patient; arrival unshown |
+| Suiryu ambition and dojo succession | STRENGTHEN / OPEN | `146 / 0058–0062`: sibling challenge and declaration; practical follow-through absent |
+| King promise to protect Tareo's uncle | NEW OPEN | `145 / 0050`: uncle unnamed in exchange; promise not fulfilled here |
+| Garou / Bang responsibility | PRESERVE OPEN | `146 / 0066`; `148 / 0122`: concern and watch, no present encounter |
+
+Legacy placement errors are analytical corrections, not mystery resolutions or revision evidence. No later V1 claim, remembered development or pilot-web narrative answers an open question.
+
+## V30 question transition — changed facts without completed outcomes
+
+Propagated after the frozen [V30 reading](../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+| Question | V30 transition | Boundary after the update |
+|---|---|---|
+| Garou's position and Bang encounter | RESOLVE location/encounter; STRENGTHEN inherited-art route | consciousness, full mechanism and acceptance of teacher's invitation OPEN (`0031–0086,0134–0159`) |
+| Bang's obligation / past | STRENGTHEN with offensive history, reform and self-critique | retirement and renewed teacher/pupil relation remain intentions (`0137–0159`) |
+| Genos's strength pursuit | REVISE through rejected collateral policy | rescue, recovery and response from Saitama OPEN (`0160–0167,0189`) |
+| King's battlefield role | RESOLVE presence and private concern trigger | no combat feat/final outcome; effects of collective attack proposal OPEN (`0187–0195`) |
+| Darkshine's confidence | REVISE: new collapse now directly occurs after injury/comparison | earlier aid preserved; recovery/permanence OPEN (`0057–0061,0108–0113`) |
+| TTM care / Pig reserve | PARTIAL factual improvement: slight recovery, further helper arrives | complete cure, exact further contribution and reserve OPEN (`0028–0030,0045`) |
+| FU altered surface | RESOLVE local corrosive effects; STRENGTHEN replenishment/vengeance intent | proposed strengthening, food denial outcome and final condition OPEN (`0057–0065,0087–0118`) |
+| BS / GS accounting | STRENGTHEN selective combination and reported losses | global remaining total and separate pools not independently certified (`0095–0101,0115–0118,0164,0182`) |
+| Sun/Moon Blades | NEW: actual Sun object and local response/cost | origin/life/mind, repeatability and paired supremacy legend OPEN (`0092–0094,0173–0184`) |
+| ENW defeat | REVISE finality: returns after earlier dispersion | sustaining source and precise stimulus OPEN (`0185–0186`) |
+| CE's message / mentor | NEW formal request is sent | reception/action/Bofoi intention OPEN; Zombieman/Amai survival and leadership role remain uncertain (`0123–0127`) |
+| Swordmaster succession | STRENGTHEN entrusted objects and pupil graduation | future path and mission completion OPEN (`0087–0094`) |
+| Portal / cosmic identity | PRESERVE OPEN | no current arrival or new independent endorsement; HE rhetoric and moon image do not close it (`0019–0020`) |
+| King's magazine | NEW published representation | production, literal intent, timing and Saitama's next act OPEN (`0196–0201`) |
+
+Local outcomes are not global resolutions. The mixed V1 reading cannot settle the open cells. All future answers must enter as later evidence with their own availability boundary; no V31 or web narrative is admitted.
+
+## V31 question delta — stronger links with explicit unresolved mechanisms
+
+Propagated after the frozen [V31 reading](../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+| Question | V31 transition | Boundary retained |
+|---|---|---|
+| What happens after King standoff? | REVISE: visible interventions, misattribution and care occur | no public confession/accurate institutional account, no new King attack |
+| Does Bang reach Garou? | STRENGTHEN / OPEN: rescue effect, personal address and memory | unconsciousness report qualifies intent; no accepted reconciliation/retirement |
+| What does Genos's non-explosion mean? | REVISE / OPEN: teacher offers tentative positive recognition | precise uptake, future action and repair remain unshown |
+| Is HE's power merely self-alleged? | STRENGTHEN: revocation/life loss and external interference | motive, universal rules and shared perception unresolved |
+| Can power contact exploit trusted identity? | STRENGTHEN: counterfeit offer resisted | full selection/range/transfer conditions unknown; Tatsumaki still injured |
+| Where is portal group / what does Blast do? | REVISE: trio returns, Blast later reports gap/contact and allies | ally identities, duration, full mission and mechanism open |
+| Did all sperm stock become Platinum? | REJECT: explicit separate insurance | reserve fate and extra 11-trillion discrepancy from V30 remain open |
+| Did water dispersal end threat? | REJECT: Evil Ocean Water named at ocean scale | extent, trigger and completed outcome unknown |
+| What are final threats' rank/origin? | OPEN: Sage and EOW both unknown; mission explicitly claimed | no independently proved creation or complete divine command chain |
+| What will Garou's equal absolute evil produce? | OPEN: declared reform/terror, new fist name, selective attachments | no demonstrated donor grant or settled reconciliation of ideology and care |
+| Who recovers / who survives? | OPEN: multiple damaged people remain | no blanket cure/casualty census; Amai/Darkshine offstage uncertainty persists |
+| What resolves swords, Bofoi and offstage obligations? | PRESERVE / OPEN | no new resolving reply, mastery, care completion or current-release evidence |
+
+The combined V31–V33 legacy comparison remains complete only for explicit V31 ranges; mixed/later prose is a future retrospective obligation. Heading exposure is disclosed and cannot close these primary-source questions. The technical web pilot remains narratively isolated.
+
+## V32 question delta — stopping is accepted, the outcome remains open
+
+Propagated after the frozen [V32 reading](../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+| Question | V32 transition | Boundary retained |
+|---|---|---|
+| Is current Garou protection conscious? | STRENGTHEN locally: explicit diversion thought and child priority | V31's qualified consciousness not retroactively resolved |
+| Can Garou/Bat cooperate? | REVISE: shared rescue and reciprocal local resonance | insults/rivalry persist; technique interaction accidental and unequal |
+| How does Sage regeneration fail? | STRENGTHEN: core extraction, failed repair, core destroyed and body split | unnamed prior inset, full origin/divine command and universal core rules unproved |
+| Is the completed fist final mastery? | REVISE: self-assessment after tile memory, soon contested | no official new class, absolute ceiling or gift |
+| Is Evil Ocean Water eliminated? | OPEN: huge disruption with remnants and death guesses | no certified final eradication |
+| How does further Garou change work? | OPEN: hand/body change, queried anger causation and felt gain | full trigger, limits, donor agency and permanent limiter status unproved |
+| Can protective attachment coexist with absolute evil? | STRENGTHEN contradiction: deliberate protection and threats to rescuers | no completed ethical conversion, child assent to values or settled outcome |
+| Does Tareo only witness rescue? | REVISE: fearful return, independent disagreement, personal hero judgment | incomplete causality, dangerous choice and wider-life breadth retained |
+| What task will Saitama perform? | STRENGTHEN / OPEN: asks stop rather than defeat, accepts nod | actual fulfillment beyond V32 main ending |
+| Are wounded survivors safe/healed? | OPEN: attempted treatment, carrying, boats and Pig God transport | destinations, released passengers, full medical accounting and Amai physiology unknown |
+| What follows for existing ties? | OPEN: private Bang completion boast, Bat deferral, group claim, King trust | no reconciliation/retirement, rematch, membership assent or Genos uptake/repair |
+| What resolves earlier cosmic/technical obligations? | PRESERVE / OPEN | sperm reserve/11-trillion discrepancy, Blast allies, donor rules, Bofoi and sword lore unresolved |
+
+The bonus commander identity and exact chronology remain unspecified. The bounded V32 legacy section contains unobserved later claims; they are rejected at this boundary and quarantined after disclosed exposure. They cannot close open questions or become verified V33 facts. Mixed/V33 legacy prose remains deferred; web narrative remains isolated.
+
+## V33 question delta — a collision deferred at the volume boundary
+
+Propagated after the frozen [V33 reading](../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+| Question | V33 transition | Remaining boundary |
+|---|---|---|
+| Does gratitude affect Garou? | STRENGTHEN: explicit destabilized resolve and anger at self | no conversion or retroactive proof of every prior rescue intention (`0057`) |
+| Was donor contact willingly accepted? | REJECT the handshake assumption; refusal still touches | total control, bestowal extent, selection and revocation open (`0154–0168`) |
+| Does external alteration erase agency? | REVISE: qualified personality and deliberate harmful choices coexist | exact division of influence/responsibility unresolved (`0163–0172,0191`) |
+| Does Garou know proximity is lethal? | STRENGTHEN after Blast's warning and his welcome | not shown aware of fallen Tareo (`0168–0173`) |
+| Does copied power settle parity? | OPEN | Garou's claims and mirrored labels are not a completed serious-clash test (`0135–0136,0208–0212`) |
+| Can Blast safely contain/evacuate? | REVISE with overload and reprioritization | final collision and everyone else's safety unshown (`0190,0212`) |
+| What becomes of Genos and the collapsed group? | OPEN with grave new harm and core retention | permanent mortality, repair, continuity and recovery unspecified (`0191–0207`) |
+| Can Saitama fulfill Tareo's stop task? | OPEN despite current insight/protection and later self-reproach | no achieved reconciliation, safe child or final outcome by 0212 |
+| Who are the dimensional speakers and seal occupant? | OPEN with new repair discussion | silhouettes and ヤツ remain unassigned (`0070`) |
+| Does Drive Knight's video reveal his ordinary life? | REVISE: questioned publicity object | production, factual accuracy, motive, chronology and allegiance open (`0213–0217`) |
+| Do older absent threads close? | OPEN | sperm reserve/11-trillion discrepancy, Evil Ocean Water persistence, body treatment, Bat rivalry, group assent, Bang future, Bofoi and sword lore retain prior limits |
+
+The V1 account's redirection/Io/Jupiter/continued-fight assertions are exposed only after V33 freeze and quarantined as unverified later claims. They cannot answer this ledger's open questions or become authority for an unopened volume. No current-web narrative enters the boundary.
+
+## V34 question delta — a saved present with incomplete accounts
+
+Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+| Question | V34 disposition | Still unresolved / next evidence needed |
+|---|---|---|
+| Final V33 clash | RESOLVED locally: collision, collective redirection and moon arrival | exact ally identities, destination control and black-field mechanism/count |
+| Challenge and Saitama's fulfillment | REVISE conditionally: full-strength chance without excitement under loss | future conditions beyond this grief episode; do not infer permanent disinterest |
+| Genos/core continuity | REVISE: surviving present, two cores and narrated memory transfer | full identity/branch ontology, recording scope, future actual disclosure |
+| Time mastery | OPEN after demonstrated feat and loss of memory/attainment | deliberate future reuse by either fighter is not certified |
+| Garou/donor agency | STRENGTHEN conflict: conditional self-blame, revocation, later own-will denial/ignorance | donor embodiment/taxonomy, exact control and selection terms |
+| Tareo's pale figure | OPEN | dream/ghost/remnant classification and memory scope |
+| Garou rehabilitation | STRENGTHEN path: restitution, teacher return, apology and sparring | success, reoffense, completed registration/rank and anticipated opposition |
+| Child relationships | STRENGTHEN local agency/inclusion | persistent bullying and wealth differences remain |
+| Medical/home recovery | REVISE: actual response, Bang benefit, Genos limbs and salvage | exhaustive cleanup/medical outcomes and restored household |
+| Fubuki/Genos | STRENGTHEN care and noticing | future relationship beyond recruitment idiom, consent and romance |
+
+Evidence: `172–175/bonus / 0011–0028,0106–0167,0174–0218`, with precise locators in the reading and topical homes. Earlier sperm reserves, aquatic-monster persistence, sword lore, dimensional seal/landform identities and Drive Knight publicity authenticity remain open at their earlier boundaries.
+
+V1's post-freeze housing/new-neighbor and Rover/Black Sperm domestic assertions are rejected as V34 evidence and quarantined as unverified later material. They cannot answer these questions; no fresh blindness is claimed entering V35. The technical web pilot remains isolated.
