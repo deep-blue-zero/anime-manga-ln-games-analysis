@@ -1,0 +1,711 @@
+{
+  "extractor_version": "COTE-Y3-EPUB-1.2",
+  "source_sha256": "92a5833597c2bc703fc1f66076d22c364fb2c9561eb2c3f377023be76d2837c5",
+  "source_bytes": 11993182,
+  "normalized_sha256": "406a65cbbae59712584a29d2b254a6253595a4e4aa438e43bd5f243f2414178f",
+  "normalization": "UTF-8 LF; nonempty p/h1-h4/li/figcaption in OPF spine order; trim boundary whitespace; replace CR/LF/tab runs with one space; ruby rt/rp excluded from base text; rb and ruby base retained; inline gaiji transcribed from source alt attributes; each glyph requires separate visual verification; glyph occurrences excluded from illustration numbering; original XHTML retained in EPUB; no invented print page numbers",
+  "paragraphs": 3756,
+  "characters": 148332,
+  "spines": [
+    {
+      "spine": 1,
+      "member": "item/xhtml/p-cover.xhtml",
+      "raw_sha256": "304b89ecd5bd7c7a75e0562d27a16271e934115a0ed7c18e7ad05fd082a825ec",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 2,
+      "member": "item/xhtml/p-fmatter-001.xhtml",
+      "raw_sha256": "9841886ed632c93dcb60b7f16b60fa8cde2f0170da289b193dbca0660025c467",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 3,
+      "member": "item/xhtml/p-fmatter-002.xhtml",
+      "raw_sha256": "35a6ff5b0631303063b70fafc7945c4f67a3bcd948881f24f6f7923707a4313b",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 4,
+      "member": "item/xhtml/p-fmatter-003.xhtml",
+      "raw_sha256": "6c1dfd2c36ea87dc9dc8f71584c8e7db071a36b7c1fff8bbee8c61d462157ab2",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 5,
+      "member": "item/xhtml/p-fmatter-004.xhtml",
+      "raw_sha256": "288c1e983dc53c33bc918a481947354b2b0114b93321e2ad21bfd6c6e02f2108",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 6,
+      "member": "item/xhtml/p-fmatter-005.xhtml",
+      "raw_sha256": "08e9c0659fc8f7d26636f90a3dd7c891d4c60ed34da6effed045d996d289d1e9",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 7,
+      "member": "item/xhtml/p-titlepage.xhtml",
+      "raw_sha256": "d552339cc6fc2e45628c72b2932f833d166a6e2c05cd984dcf7facdb1eb0bf8d",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 8,
+      "member": "item/xhtml/p-caution.xhtml",
+      "raw_sha256": "49c6724be5fe694366b3fb9b9f34b5b4d575a047ee916c7093e807669a02ec67",
+      "paragraphs": 3,
+      "characters": 112
+    },
+    {
+      "spine": 9,
+      "member": "item/xhtml/p-toc-001.xhtml",
+      "raw_sha256": "3907f029fc81f743d1b466649bf5849e1c74e34e143f31933335a17d4cd4a248",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 10,
+      "member": "item/xhtml/p-toc-002.xhtml",
+      "raw_sha256": "b13a2c206488484b9f47e877dc9f63ec6de7741d49606f5a8ded85aa59ae9b37",
+      "paragraphs": 10,
+      "characters": 64
+    },
+    {
+      "spine": 11,
+      "member": "item/xhtml/p-001.xhtml",
+      "raw_sha256": "973da23885486801796d96a3fadc10e75d19a6d2630174e1c8298928b7fceb46",
+      "paragraphs": 58,
+      "characters": 2036
+    },
+    {
+      "spine": 12,
+      "member": "item/xhtml/p-002.xhtml",
+      "raw_sha256": "dd5d2ac82bdcf52a3073696b615cdca4d74846863e3599257801337d62b2bba9",
+      "paragraphs": 475,
+      "characters": 19177
+    },
+    {
+      "spine": 13,
+      "member": "item/xhtml/p-003.xhtml",
+      "raw_sha256": "b4980d00c3b23c51d456666a994adf67d7eaa2bb858755baae1d6cce53350bf1",
+      "paragraphs": 360,
+      "characters": 15489
+    },
+    {
+      "spine": 14,
+      "member": "item/xhtml/p-004.xhtml",
+      "raw_sha256": "3b4ef3ce5a4745025d437d20ce251186b165e96b2b9f587df41a320555120a2e",
+      "paragraphs": 965,
+      "characters": 39160
+    },
+    {
+      "spine": 15,
+      "member": "item/xhtml/p-005.xhtml",
+      "raw_sha256": "7cfc7ad506851a86de9fa2dac6f0041c0b37ab1c6468f7aa5e9e25b3c058b1b3",
+      "paragraphs": 394,
+      "characters": 16441
+    },
+    {
+      "spine": 16,
+      "member": "item/xhtml/p-006.xhtml",
+      "raw_sha256": "02d5e94609540b13dcfbfdb973a50f5b0895e84e1cc894c0b5de7c18a1b7cca4",
+      "paragraphs": 467,
+      "characters": 16502
+    },
+    {
+      "spine": 17,
+      "member": "item/xhtml/p-007.xhtml",
+      "raw_sha256": "dd8a15e93d674884c92f0d22d6b9db7232e8be750df008cbbe46dbc97c8195b7",
+      "paragraphs": 464,
+      "characters": 17733
+    },
+    {
+      "spine": 18,
+      "member": "item/xhtml/p-008.xhtml",
+      "raw_sha256": "ea991395c5edad85e3410c873e26d86c14d2be07ecbd9d5772cb1e20d9ad9095",
+      "paragraphs": 290,
+      "characters": 11568
+    },
+    {
+      "spine": 19,
+      "member": "item/xhtml/p-009.xhtml",
+      "raw_sha256": "50725d01c6ea74612c78a0d38142dbc151ae9d977564e78b48695284964e8dc8",
+      "paragraphs": 234,
+      "characters": 8826
+    },
+    {
+      "spine": 20,
+      "member": "item/xhtml/p-010.xhtml",
+      "raw_sha256": "24407b03d1cc6480946318ba5c497af6b37f83984eb4461ae813c11f37eaaaef",
+      "paragraphs": 15,
+      "characters": 776
+    },
+    {
+      "spine": 21,
+      "member": "item/xhtml/p-011.xhtml",
+      "raw_sha256": "cf7f86b17ab50015a8a876546490e590a3d406c5ecea0a9a9f36628e70fd693a",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 22,
+      "member": "item/xhtml/p-012.xhtml",
+      "raw_sha256": "fcbb1fc993de2f06068ab93e465832a3d769bcd8e997ad6db07d2248a64048bf",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 23,
+      "member": "item/xhtml/p-allcover-001.xhtml",
+      "raw_sha256": "67e1e1110b1b52080a2d186ed74e8636ab506e45d41358f257e2a901fef601b5",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 24,
+      "member": "item/xhtml/p-colophon.xhtml",
+      "raw_sha256": "7a5b7a43378a7c4036e47fc00fce7ab5706cb525cc22408cb9b3543ced0936bc",
+      "paragraphs": 18,
+      "characters": 271
+    },
+    {
+      "spine": 25,
+      "member": "item/xhtml/p-colophon2.xhtml",
+      "raw_sha256": "a9a80ae992eb2cd99f6802f20d47ebf974581031e87e1709f0d62e9877eb8390",
+      "paragraphs": 3,
+      "characters": 177
+    },
+    {
+      "spine": 26,
+      "member": "item/xhtml/p-bookwalker.xhtml",
+      "raw_sha256": "65719179002ebb0468c3ba14986dda2049ad4c6a087daba3350b8c2189eeb97d",
+      "paragraphs": 0,
+      "characters": 0
+    }
+  ],
+  "images": [
+    {
+      "locator": "COTE:Y3V02:ill-01",
+      "spine": 1,
+      "after_paragraph": 0,
+      "member": "item/image/cover.jpg",
+      "bytes": 690192,
+      "sha256": "9e1c032fd71b146f7be32949423a6c5499dca40d18dbfc7d423e6f65fb9d5fb5"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-02",
+      "spine": 2,
+      "after_paragraph": 0,
+      "member": "item/image/kuchie-001.jpg",
+      "bytes": 627185,
+      "sha256": "f8f1556d79ed97ed9dd072963cbcf3c3af3d635801de85d70ba2d9aaab88dd5b"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-03",
+      "spine": 3,
+      "after_paragraph": 0,
+      "member": "item/image/kuchie-002.jpg",
+      "bytes": 799036,
+      "sha256": "6edef43cbe3a4438e33b4545a45a4eea0baa3a8f1584d15905764499a5fd54e5"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-04",
+      "spine": 4,
+      "after_paragraph": 0,
+      "member": "item/image/kuchie-003.jpg",
+      "bytes": 861531,
+      "sha256": "c05aa2a715341097913a1bf1341087864ffcd678f82e4ea6285eea7a7cafe59b"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-05",
+      "spine": 5,
+      "after_paragraph": 0,
+      "member": "item/image/kuchie-004.jpg",
+      "bytes": 633086,
+      "sha256": "d8bfbec05aad2a3922405c1283d0fe99e9cbbb86f3e72613d2f3b6163dcc8dd7"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-06",
+      "spine": 6,
+      "after_paragraph": 0,
+      "member": "item/image/kuchie-005.jpg",
+      "bytes": 335589,
+      "sha256": "2688a0050ab4da1e11d841984567cc64bc735beae69d6fa948e37a588c9de1df"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-07",
+      "spine": 7,
+      "after_paragraph": 0,
+      "member": "item/image/titlepage.jpg",
+      "bytes": 174410,
+      "sha256": "4e6bab6a959c36126f6cd1a41f76064332d0df07cffd38f9dcf322abde963cb2"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-08",
+      "spine": 9,
+      "after_paragraph": 0,
+      "member": "item/image/toc-001.jpg",
+      "bytes": 338746,
+      "sha256": "5fb910ddb10bc3ea0b0b5432d69a3aab6f6492907e79f9512ebbc57ab3d5525f"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-09",
+      "spine": 12,
+      "after_paragraph": 138,
+      "member": "item/image/p028.jpg",
+      "bytes": 378965,
+      "sha256": "bd35cd9e8c01aeb400039aa40509a4cf33dd067e388c67d7d512b45248ad4d0e"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-10",
+      "spine": 14,
+      "after_paragraph": 560,
+      "member": "item/image/p133.jpg",
+      "bytes": 538159,
+      "sha256": "145ff75bda4edf368216da48f888187d5dc93bad33276f196b75318d34583dd0"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-11",
+      "spine": 15,
+      "after_paragraph": 379,
+      "member": "item/image/p199.jpg",
+      "bytes": 473129,
+      "sha256": "8b2d682b40e2688bc0bc3a1e903e3672c407866a84f05370e0891d96682a8ba7"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-12",
+      "spine": 16,
+      "after_paragraph": 135,
+      "member": "item/image/p211.jpg",
+      "bytes": 524393,
+      "sha256": "d4f6d5270be87de4fcc6193ce96864c8f2944cc601d8ff80e535aae46bd3eecf"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-13",
+      "spine": 16,
+      "after_paragraph": 293,
+      "member": "item/image/p224.jpg",
+      "bytes": 439677,
+      "sha256": "cb81ebb47fadbb2c120bd7897925393c3cefe5e6cb4cf46e29b81c1725307cc7"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-14",
+      "spine": 17,
+      "after_paragraph": 81,
+      "member": "item/image/p246.jpg",
+      "bytes": 443268,
+      "sha256": "6e0b13cf423001db34a3e4cf2536ffc8d43adc320925f25f38aa77937569f46a"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-15",
+      "spine": 17,
+      "after_paragraph": 144,
+      "member": "item/image/p252.jpg",
+      "bytes": 381686,
+      "sha256": "0ec17c4b648491512179bd0ceee5ad1c6c7e4c4afaf2a7b557f0e115b1bf5a44"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-16",
+      "spine": 18,
+      "after_paragraph": 170,
+      "member": "item/image/p293.jpg",
+      "bytes": 463258,
+      "sha256": "006d4dd303ac669dd06cf9c3fe3aac1ffcc6750b677c5c8bd9a5bd378e89429f"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-17",
+      "spine": 19,
+      "after_paragraph": 27,
+      "member": "item/image/p307.jpg",
+      "bytes": 437792,
+      "sha256": "446434afb1981a0972734a5e57ab66c88e011dd7794a4ac70a2deee165da26f6"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-18",
+      "spine": 19,
+      "after_paragraph": 124,
+      "member": "item/image/p315.jpg",
+      "bytes": 496224,
+      "sha256": "26ca5a0c86931149a41ce5533305f599c4cb74053e83519dd4015b14811aed32"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-19",
+      "spine": 21,
+      "after_paragraph": 0,
+      "member": "item/image/h1.jpg",
+      "bytes": 660498,
+      "sha256": "a655dbeff1a848a2dcb5fe6c6c1071bc4fd2168d5a73377cfec40cc46a4d491c"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-20",
+      "spine": 22,
+      "after_paragraph": 0,
+      "member": "item/image/h4.jpg",
+      "bytes": 746373,
+      "sha256": "a97cfc3023e3147cc00055096d114af1440ac5ed2a7ef64908fbe3b13a9c8ea7"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-21",
+      "spine": 23,
+      "after_paragraph": 0,
+      "member": "item/image/allcover-001.jpg",
+      "bytes": 382530,
+      "sha256": "076872d499f3814b57b772434f2d156a3f50403792df314eed8fe750cc76fa44"
+    },
+    {
+      "locator": "COTE:Y3V02:ill-22",
+      "spine": 26,
+      "after_paragraph": 0,
+      "member": "item/image/i-bookwalker.jpg",
+      "bytes": 342205,
+      "sha256": "7cd722f5a19b77ac2c3b9e336a39ecc9803b7a4263dd236f4e8253f15adf2a4a"
+    }
+  ],
+  "glyphs": [
+    {
+      "spine": 12,
+      "paragraph": 247,
+      "member": "item/image/gaiji-0003.png",
+      "source_alt": "㎖",
+      "sha256": "9eddf3e2a472e2dffa05fde95ffadeacc7ec5b6de7c0394b101a229d42c39c9c"
+    },
+    {
+      "spine": 12,
+      "paragraph": 247,
+      "member": "item/image/gaiji-0003.png",
+      "source_alt": "㎖",
+      "sha256": "9eddf3e2a472e2dffa05fde95ffadeacc7ec5b6de7c0394b101a229d42c39c9c"
+    },
+    {
+      "spine": 12,
+      "paragraph": 257,
+      "member": "item/image/gaiji-0003.png",
+      "source_alt": "㎖",
+      "sha256": "9eddf3e2a472e2dffa05fde95ffadeacc7ec5b6de7c0394b101a229d42c39c9c"
+    },
+    {
+      "spine": 12,
+      "paragraph": 257,
+      "member": "item/image/gaiji-0003.png",
+      "source_alt": "㎖",
+      "sha256": "9eddf3e2a472e2dffa05fde95ffadeacc7ec5b6de7c0394b101a229d42c39c9c"
+    },
+    {
+      "spine": 12,
+      "paragraph": 315,
+      "member": "item/image/gaiji-0003.png",
+      "source_alt": "㎖",
+      "sha256": "9eddf3e2a472e2dffa05fde95ffadeacc7ec5b6de7c0394b101a229d42c39c9c"
+    },
+    {
+      "spine": 13,
+      "paragraph": 206,
+      "member": "item/image/gaiji-0002.png",
+      "source_alt": "－",
+      "sha256": "acf2e4e17282259d6b6b06893b83836b9281c4752f50139bd901cb38bc75cf8f"
+    },
+    {
+      "spine": 14,
+      "paragraph": 483,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 494,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 525,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 537,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 539,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 547,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 556,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 563,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 595,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 600,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 602,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 616,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 632,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 639,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 649,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 659,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 663,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 664,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 665,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 666,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 668,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 675,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 676,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 681,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 683,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 689,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 691,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 700,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 702,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 717,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 722,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 729,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 733,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 743,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 745,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 754,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 756,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 758,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 761,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 14,
+      "paragraph": 770,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    },
+    {
+      "spine": 19,
+      "paragraph": 32,
+      "member": "item/image/gaiji-0001.png",
+      "source_alt": "櫛",
+      "sha256": "012d2b8672ffac3f3b9f5f6f8461c3701bd3373f2a424083444bf219d3934128"
+    }
+  ],
+  "anomalies": [],
+  "source_code": "Y3V02",
+  "source_language": "Japanese",
+  "sequential_chunks_read": 51,
+  "sequential_chunks_total": 51,
+  "images_visually_inspected": 22,
+  "distinct_glyphs_visually_inspected": 3,
+  "glyph_occurrences": 47,
+  "future_narrative_used": false
+}
