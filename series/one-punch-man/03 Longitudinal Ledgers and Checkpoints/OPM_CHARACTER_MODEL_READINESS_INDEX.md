@@ -1,77 +1,91 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Character model readiness through V26
+scope: Character model readiness through V34
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V26
+source_boundary: Japanese tankobon V01-V34
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-08-28
+audited: 2026-09-13
+updated: 2026-09-13
+workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Character Model Readiness Index
 
-## Current readiness authority through V22
+## Current readiness routing through V34
 
-This table is the current tier-routing surface. The wider legacy-style matrix immediately below preserves earlier per-character snapshot fields and should not override later volume-transition entries where its boundary/tier cells are older. Current authority is this summary plus the latest per-volume transition sections.
+This table is the current tier-routing surface. The wider legacy-style matrix immediately below preserves earlier per-character snapshot fields and should not override later volume-transition entries where its boundary/tier cells are older. Current authority is this summary plus the latest per-volume transition sections, with the V34 update below governing newly changed coverage. Historical snapshot cells retain their stated earlier boundaries.
 
 | Character | Current readiness | Current boundary note |
 |---|---|---|
-| Saitama | **strong** | V19 `Real Punch` refines boredom into loss of progression process; hotpot/manhole scenes add low-stakes and anti-institutional action breadth |
-| Genos | **strong** | V20 adds a hard ten-second full-power constraint plus bargain-sale schedule knowledge; no tier change |
-| Garou | **strong** | V19 adds fear-as-monster-king criterion, rescue-label contradiction, multi-opponent adaptation, Rover stress, and Orochi adaptive-mirror evidence |
-| Fubuki | **moderate** | V20 `新フブキ組` repeats relational-to-faction naming; protection/control conflict with Tatsumaki also strengthens |
-| Bang | **moderate** | V20 adds explicit personally owned responsibility toward Garou under institutional distrust; no tier change |
-| Atomic Samurai | **moderate** | **emerging -> moderate in V13**; disciples/peer network, lethal-policy reasoning, Haragiri response, threat reprioritization |
+| Saitama | **strong** | V34 grief without combat pleasure, entrusted instruction, memory loss, restraint and practical reunion; strong retained |
+| Genos | **strong** | V34 real core memory, hypothetical/idealized explanation, polite disagreement, salvage and noticing care; reporting/ontology open |
+| Garou | **strong** | V34 Tareo harm, reparative instruction, present ignorance, unfinished restitution, sparring and ordinary talk; future reform open |
+| Fubuki | **moderate** | V34 novice sewing, scars, bandaged labor and returned care under recruitment idiom; consent/romance unproved |
+| Bang | **strong** | V34 restitution, retirement, bowing/apology burden, finding/training and ordinary conversation; succession/reform future |
+| Atomic Samurai | **moderate** | V30 explicit peer-judgment revision, entrusted blade, response to concentration and severe cost |
 | Speed-o'-Sound Sonic | **moderate** | V17 confirms Saitama-only instrumental motive and misreads two-kilogram illness loss as monster power |
-| Amai Mask | **moderate** | V22 adds controlled-human moral conflict, explicit contamination/purity logic, hidden nonhuman-looking body evidence and immediate public-image restoration; ontology OPEN |
-| Puri-Puri Prisoner | **moderate** | **emerging -> moderate in V23**; cumulative duty/adaptation evidence now coexists with explicit rejection of his unilateral relationship framing and preserves the coercive-history contradiction |
-| Superalloy Darkshine | **emerging** | **new current-tier entry in V23**; bounded invulnerability/body-ideal/self-calibration model, still combat-concentrated and pre-collapse |
-| Metal Bat | **moderate** | V11 Zenko hard-stop, fighting-spirit bound, and equipment preference added |
-| Mumen Rider | **moderate** | no material V11 tier change |
-| Tatsumaki | **moderate** | V20 plural `私達` after Fubuki threat strengthens protected-self category while autonomy contradiction remains |
-| Child Emperor | **strong** | **moderate -> strong in V22**; cumulative V19-V22 breadth now spans command, protection, technical failure, psychological manipulation, recognition deprivation/repair, institutional distrust, tool/self philosophy and ordinary companion behavior |
-| King | **moderate** | V20 false reputation drives further operational expectations while private survival routing shows real social judgment |
-| Tanktop Master | **moderate** | **emerging -> moderate in V13**; post-Garou injury plus hospital rescue and Mumen solidarity add longitudinal failure/recovery duty |
-| Metal Knight / Bofoi | **emerging** | V17 explicit hidden-threat distrust and one-person justice/security doctrine |
-| Tareo | **emerging** | V19 adds explicit institutional invisibility, second-hostage information, direct identity questioning, and observation of Garou growth |
+| Amai Mask | **moderate** | V34 asserts execution/social responsibility, dismisses child testimony and retreats before King; no reform inferred |
+| Puri-Puri Prisoner | **moderate** | V31 extracts Genos/Tatsumaki, later receives Saitama support; injury and earlier consent contradiction retained |
+| Superalloy Darkshine | **moderate** | V30 real acid injury then comparison crisis and defeat; earlier protective action preserved |
+| Metal Bat | **moderate** | V34 rejects beating injured Garou and directly denies claimed unanimity; distinct restraint policy |
+| Mumen Rider | **moderate** | V33 concern at Master reunion; established moderate tier retained, recovery outcome open |
+| Tatsumaki | **moderate** | V32 remains unresponsive during attempted care; no completed healing or newly inferred choice |
+| Child Emperor | **strong** | V33 identifies Pig God amid mistaken corpse concern; later collapse does not create a new motive |
+| King | **moderate** | V34 child-facing deterrence fulfills promise with Saitama advice; real protection without demonstrated combat output |
+| Tanktop Master | **moderate** | V33 altered-body reunion prompts hospital question; complete healing not certified |
+| Metal Knight / Bofoi | **emerging** | V34 nuclear detection, cleanup/analysis and compulsory care plus Bang benefit; operational breadth strengthened, hidden motives open |
+| Tareo | **moderate** | V34 public interruption/testimony, uncertain pale encounter, Garouman agency and peer inclusion; bullying persists |
 | Charanko | **emerging** | no V11 tier change |
 | Eyelashes | **emerging** | Fubuki Group bounded model |
 | Mountain Ape | **emerging** | Fubuki Group bounded model |
 | Zenko | **emerging** | new durable V11 model |
-| Suiryu | **moderate** | V21 hospital extra confirms durability of rescue-driven reorientation: he cannot sit still while heroes fight and says he now has a goal |
-| Snek | **moderate** | V14 hopeless rear-guard duty strengthens professional-protection identity |
-| Drive Knight | **emerging** | **insufficient -> emerging in V12**; independent combat/intelligence/coercion policy |
-| Pig God | **moderate** | **emerging -> moderate in V23**; V12 rescue/body-risk duty plus V23 consumption combat and secret low-stakes generosity create cross-context breadth |
-| Watchdog Man | **emerging** | **new V12**; bounded Q-City local-guardian/public-protection model |
-| Lightning Max | **emerging** | V14 hopeless rear-guard duty strengthens longitudinal professional-protection evidence |
-| Flashy Flash | **moderate** | **emerging -> moderate in V21**; V13 precision/collateral/peer-friction breadth plus V21 ninja-lineage, terrain choice, stress handling, technique modeling, simultaneous-kill planning and operational support use |
+| Suiryu | **moderate** | V32 qualified broadcast reading from non-downing and weak perceived killing intent; incomplete knowledge |
+| Snek | **moderate** | V32 protective removal of Tareo during alarming transformation and evacuation; moderate retained |
+| Drive Knight | **emerging** | V33 questioned television publicity and tactical reply deepen strategic model; ordinary deeds not independently verified |
+| Pig God | **moderate** | V33 recognizable return and passenger release; full physiology and final safety unresolved |
+| Watchdog Man | **emerging** | V28 extra adds detection, local routine and pre-alarm response; speed and unknown power do not supply broad personality |
+| Lightning Max | **emerging** | V33 search mobilization extends established duty evidence; emerging retained |
+| Flashy Flash | **moderate** | V34 impaired striker view creates Blast-like attribution; recalls God discussion without settled theory |
 | Death Gatling | **emerging** | V15 deliberate mixed-team encirclement of depleted Garou strengthens coalition policy |
 | Haragiri | **emerging** | **new bounded V13 model**; strength-first ideology, voluntary Monster Cell conversion, nonhuman self-identification, coercion |
 | Gouketsu | **emerging** | **insufficient -> emerging in V14**; human defeat/capture history, monsterization, coercive recruitment, hierarchy and strategic obedience |
 | Bakuzan | **emerging** | **new V14**; comparative resentment, voluntary Monster Cell use, sadistic dominance, post-conversion hierarchy response |
 | Armored Gorilla | **emerging** | **insufficient -> emerging in V15**; V02 antagonist/aftermath plus V15 ordinary shopping and non-hostile recurrence |
-| Bomb | **insufficient** | direct family/martial evidence remains too narrow; watch |
+| Bomb | **emerging** | V32 conditional treatment/timing judgment while injured; existing emerging tier retained |
 | Dr. Kuseno | **emerging** | **new V18**; survival-over-victory ethic, Genos caretaking, technical support, and ordinary gift/social interaction create coherent mentor model |
 | Dr. Genus | **emerging** | V18 post-failure ordinary life, Zombieman history, worldview collapse before Saitama, and speaker-qualified limiter theory broaden V02 evidence |
-| Zombieman | **moderate** | **emerging -> moderate in V22**; V18 investigation/Genus history plus V22 attritional combat, finite healing constraints, Child Emperor recognition relation and coffee-shop/work baseline create multi-context breadth |
+| Zombieman | **moderate** | V34 pauses violence to investigate external power and asks about will to live; shared mechanism inquiry incomplete |
 | Gyoro Gyoro | **emerging** | V19 supplies explicit coercive near-death research doctrine, no-refusal policy, Garou brainwashing intent, and Orochi-success methodology |
 | Machine God G5 | **emerging** | V18 Metal Knight sample collection/disassembly interest adds technological-acquisition policy to V17 Organization provenance |
-| Waganma | **emerging** | V23 adds self-implicating disclosure that fear of scolding delayed Tareo information; genuine accountability growth but still crisis-concentrated |
+| Waganma | **emerging** | V34 invites Tareo and includes peers; hospitality broadens prior model without erasing inequality |
 | Pureblood | **emerging** | V22 strengthens V18 seed with `本物の怪人` lineage claim, talent essentialism, prolonged Zombieman fight and failure to model attritional victory; still antagonist-context concentrated |
 | Captain Mizuki | **emerging** | **new V20**; athletics-as-combat cognition, explicit grappling limit, and training receptivity create a coherent but one-volume-concentrated model |
 | Rhino Wrestler | **emerging** | **new V20**; point-scoring evaluation, strongest aspiration, and pleasure in receiving then crushing techniques form a coherent bounded antagonist model |
 | Phoenix Man | **emerging** | V22 adds origin/rejection wound, monsterization-as-salvation doctrine, recognition-based recruitment, ideal-organization ideology and explicit costume/self fusion; still concentrated in one adversarial arc |
 | Do-S | **emerging** | **new V22**; pain/hypnosis coercion, controlled-human tactical use, domination/recruitment drive and Amai fixation form a coherent bounded antagonist model |
-| Homeless Emperor | **emerging** | **new V23**; human grievance/origin, reported God encounter, exterminatory interpretation and demonstrated luminous combat form a coherent but one-volume-concentrated model |
-| Black Sperm | **emerging** | **new V23**; explicit proliferation mechanism, distributed-body combat logic and Atomic-specific adversarial behavior create a bounded model |
+| Homeless Emperor | **emerging** | V31 false King model and power/life revocation; strong dependency case, full mechanism unknown |
+| Black Sperm | **emerging** | V31 exact pools, separate insurance, irreversible Platinum merger and defeat; reserve fate/account discrepancy open |
 | Nyan | **emerging** | **new V23**; imposed-affection aversion, explicit self-direction doctrine and tactical escape policy create a coherent bounded model |
 | Hellfire Flame | **emerging** | **new V21**; ninja lineage, intentional monsterization, Dragon-class speed, coordination and Flash-specific rivalry form a bounded specialist-antagonist model |
 | Gale Wind | **emerging** | **new V21**; paired ninja lineage, intentional monsterization, Dragon-class speed, coordination and Flash-specific rivalry form a bounded specialist-antagonist model |
+| Blast | **emerging** | V34 allied redirection after gate limit; practical familiarity and uncertain recoil destination; private breadth thin |
+| Iaian | **emerging** | V30 grief, continued defense, ENW recognition and support for exhausted master |
+| Psykos | **emerging** | V33 survives and questioningly compares cosmic effect with Homeless Emperor power; exact identity unproved |
+| Manako | **emerging** | V33 nervous utility defense, escape, bleeding/collapse and sight of Tareo; final safety open |
+| Sekingar | **emerging** | V34 future successor registration request in response to Bang retirement; no completed Garou enrollment |
+| Suiko | **emerging** | V32 frightened/skeptical reaction beside brother; existing emerging tier retained |
+| Fuhrer Ugly | **emerging** | V31 revenge interrupted by Garou, body collapses/dissolves; no universal acid-immunity rule |
+| Gums | **insufficient** | V29 strengthens predatory-consumption mechanism; broad cognition/personhood remains sparse |
+| Evil Natural Water | **emerging mechanism-only** | V32 Evil Ocean Water disrupted with eye-bearing remnants and qualified death reports; final eradication unproved |
+| Nichirin | **emerging** | **newly routed V30**: safety judgment, entrusted sword and pupil autonomy; private breadth limited |
+| Banehige | **emerging** | **newly routed V30**: professional deference, grief and continued defense; independent future path unshown |
+| Sage Centipede | **emerging** | V32 insufficient → emerging: adaptive hostage/attachment reasoning and core-loss response; bounded combat model, ordinary breadth absent |
 
 
 
@@ -528,3 +542,169 @@ V26 adds high-value breadth but does not justify automatic promotion by event sc
 | Tareo | emerging civilian | **STRENGTHEN** | rescue/trust behavior with King |
 
 Canonical character-model surfaces are now current through **V26**. No V27+ consequence is imported.
+
+
+## V27 readiness update
+
+Administrative propagation on 2026-09-12 from the already frozen [V27 reading](../02%20Sequential%20Readings/OPM_V27_DEEP_READING.md) and [Japanese audit](../08%20Audits%20and%20Manifests/OPM_V27_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) (PASS). This section adds no new source reading or V28+ evidence. Earlier boundary entries remain historical observations.
+
+This administrative closeout records added coverage from the frozen reading. It does not turn psychological clarity, attack scale, or a checkpoint confirmation into an automatic tier promotion.
+
+| Character | Inherited readiness | V27 coverage added | Remaining limitation / disposition |
+|---|---|---|---|
+| Saitama | strong | named acquaintance, bodily irritation, ordinary future plans | preserve strong; no broad new loss/failure regime |
+| Genos | strong | assertive peer coordination and live hardware-budget decisions | preserve strong; post-window cost and serious mentor-belief disconfirmation absent |
+| Garou | strong | explicit rejection of the bully position within self-authored evil | preserve strong; positive doctrine and post-restructuring state OPEN |
+| Tatsumaki | moderate | rescue accounting, covert tactics, sister-specific constraint, self-reliance ideology versus cooperation | materially strengthen; ordinary/private and recovery coverage still limited |
+| Superalloy Darkshine | emerging | childhood motive, sustained training, explicit uncertainty/fear and concern for opponent | materially strengthen depth; much evidence still belongs to one extended crisis, so no administrative tier promotion |
+| Fubuki | moderate | operational expectation of sister protection and field sensing | preserve; earlier Psykos history not supplied |
+| King | moderate | rescue/report contribution with private fear/public myth intact | preserve; V26's ambiguous 'strong/moderate' shorthand does not overturn the explicit V12-V20 moderate decisions |
+| Mumen Rider / Tanktop Master | moderate each | role-sensitive rescue and mutual validation after injury | preserve; not a broad ordinary-life expansion |
+| Metal Bat / Flashy Flash | moderate each | persistence/reassurance and pride-sensitive cooperative inconvenience, respectively | preserve; no new tier threshold |
+| Suiryu | moderate | repeated explicit aspiration and non-scalar hero-value judgment | preserve; concrete follow-through OPEN |
+| Psykos | emerging | mandate/recognition language, control struggle, recruitment vulnerability | stronger bounded model; ordinary and non-adversarial coverage sparse |
+| Orochi | bounded antagonist profile | independent appetite/memory and contested fusion agency | preserve bounded scope; no broad personality tier inferred |
+| Manako / Tareo | emerging, bounded | named individual exchange / continuing rescue trust | preserve; institutional or independent-context breadth limited |
+
+Canonical context, partner-specific register, evidence classes and locators are routed through the owning character/relationship ledgers. All tiers not mentioned retain their latest explicit prior disposition; candidate tiers remain candidates. No `specialist_ready` promotion is made.
+
+## V28 readiness transition — depth is separated from spectacle
+
+Propagated from the frozen [V28 reading](../02%20Sequential%20Readings/OPM_V28_DEEP_READING.md), with [Japanese/register audit PASS](../08%20Audits%20and%20Manifests/OPM_V28_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md). All new observations below are `tankobon_canonical`, available from V28. TF/VF/SF observations, speaker claims, and conditional IR are distinguished; confidence is high for depicted conduct and bounded for generalization. Earlier entries retain their original boundaries.
+
+**Superalloy Darkshine: emerging -> moderate.** The cumulative basis includes the V23 body/invulnerability ideal, V24 ordinary gym and social/training baseline (`extra / image:0201–0205`), V27 childhood weakness and real sustained training (`133 / image:0041–0061`), and V28 self-accusation, humiliating peer contact, recognition of investment, threatened intimacy and actual re-entry (`141 / image:0103–0117`; `143 / image:0183–0186`). This supports bounded conditional modeling across ordinary training, self-evaluation, fear and peer recognition. It does not establish durable recovery or strong readiness: much of the new evidence belongs to one continuing crisis, and wider private relationships and another independent fear/recovery episode remain missing.
+
+**Blast: insufficient -> emerging, bounded.** Two rescue memories provide coherent intervention/reassurance behavior, differentiated recipients and direct voice. Only Tatsumaki's is dated; ordinary life, sustained present conduct, motive, mission, relationship reciprocity and cube knowledge remain sparse or unknown. This promotion does not derive from rank or inferred cosmic power.
+
+| Character | V28 disposition / current tier | Breadth added | Important missing coverage / boundary |
+|---|---|---|---|
+| Saitama | STRENGTHEN / strong | physical task, practical care, referent misunderstanding, ordinary irritation, limited knowledge | final unknown encounter stops before a sustained response |
+| Genos | STRENGTHEN / strong | non-mentor peer assistance, request for help, partner risk disclosure and constrained collaboration | no new Saitama-belief disconfirmation or resolved core outcome |
+| Garou | STRENGTHEN / strong | explicit equal-terror ideal qualified by remembered rescue contradiction | durable ideological resolution remains absent |
+| Tatsumaki | STRENGTHEN / moderate | childhood/private injury, family purpose, rescue history, voiced limits, receiving help, peer acknowledgement | cumulative V10 private/off-duty breadth is retained; later autonomous integration and post-crisis recovery remain missing |
+| Amai Mask | STRENGTHEN / moderate | interior shame, imagined contempt, concealed violence, remembered reassurance, restraint, conflicted peer encouragement | ontology and intimate reciprocal relations remain unknown; no stable reform |
+| Fubuki | STRENGTHEN / moderate | active aid across sister and Tanktop Master, timing, private correction of gratitude's mechanism | sister autonomy conflict remains; full Psykos history absent |
+| Child Emperor | STRENGTHEN / strong | reunion emotion, contested institutional responsibility, receiving adult thanks | no automatic promotion beyond strong |
+| Atomic / Pig God / Bang / Zombieman | STRENGTHEN / moderate each | role credit, survival recognition, return to coordination, qualified peer esteem | distinguish each speaker/recipient; crisis collaboration is not complete private breadth |
+| PPP / Tanktop Master / Mumen / Flash | STRENGTHEN / moderate each | effort recognition with coercion; aided duty; rescue role; valued-object dispute | ethical contradictions, wrong causal beliefs and pride remain active |
+| Drive Knight | STRENGTHEN / emerging | sample policy, resource replenishment, temporary combination and partner negotiation | moderate candidacy strengthens, but independent ordinary/social motive and allegiance remain thin; no promotion solely for more mechanisms |
+| Iaian | STRENGTHEN / emerging | survival, gathering others, concern for Amai, explicit mentor emotion | ordinary independent life and wider private voice remain narrow |
+| Watchdog Man | STRENGTHEN / emerging | local operational routine, detection and pre-alarm response | little direct speech, private motive or varied relationship behavior; speed is not readiness |
+| Psykos / Manako | STRENGTHEN / emerging each | adversarial adaptation and conditional forecasts / practical self-interest and attempted departure | separate individual models; fused survival / durable loyalty unresolved |
+| Tareo / Suiryu / unaffected models | PRESERVE existing tiers | Tareo's remembered question gains downstream relevance | memory is no new present decision; no later evidence silently added |
+
+The current routing table above is refreshed for changed characters and previously omitted current entries; earlier snapshot matrices are historical. No model is promoted to `specialist_ready`. Readiness is evidence breadth for bounded reconstruction, not approval of conduct, combat rank, or success on the frozen prediction experiment.
+
+## V29 readiness transition — bounded new voices, substantial existing-model gains
+
+Propagated after the frozen [V29 reading](../02%20Sequential%20Readings/OPM_V29_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V29_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison and checkpoint adjudication. New evidence is `tankobon_canonical`, available from V29. Locators below give chapter / archive image within `OPM / V29`. Depicted acts and wording are TF/VF/SF; attributed beliefs remain speaker claims; conditional interpretations are IR. Earlier entries preserve their own boundaries.
+
+**Fuhrer Ugly: insufficient/seed -> emerging, bounded.** V29 now supplies a coherent motive/voice and response pattern across attacks on perceived beauty/talent, explicit inferiority claims, opportunistic rivalry, captive humiliation, failed dominance and horror at his own changed appearance (`146 / 0072–0088`; `148–149 / 0127–0165`). This is an antagonist reconstruction within the crisis, not a broad moderate model: ordinary life, non-adversarial ties and independent history remain absent. The tier is supported by behavior, not violence scale or a presumed acid mechanism.
+
+**Suiko: insufficient -> emerging, bounded.** Her hospital visit gives direct sibling speech, training self-concept, inherited-duty claims, rough affection and skepticism about her brother's shifting plans (`146 / 0058–0062`). It establishes a coherent initial conditional profile, with strength and grandfather-intention claims attributed to her. One short family context cannot support moderate readiness; independent goals beyond the dojo, wider relationships and failure/recovery remain missing.
+
+| Character | Current disposition / tier | V29 breadth added | Limit |
+|---|---|---|---|
+| Genos | STRENGTHEN / strong | receiving and returning care, ethical use of teaching, explicit affiliation, patient handoff, renewed self-reproach | no mentor-belief disconfirmation or completed resolution |
+| Fubuki | STRENGTHEN materially / moderate | costly specialized care, own-agency claim, explicit sister argument, future companionship promise | unilateral hierarchy and unresolved autonomy remain; extra crisis depth does not alone justify strong |
+| Tatsumaki | STRENGTHEN materially / moderate | explicit acknowledgment with renewed control, protection under exhaustion | no integrated recovery or stable new relational policy |
+| Bang / Bomb | STRENGTHEN / moderate / insufficient respectively | patient protection, receiving relief, warm peer response and watch assignment | Bomb gains cooperative detail but remains too thin for a broader independent personality promotion |
+| Metal Bat / Sekingar | STRENGTHEN / moderate / emerging respectively | repayment/child-facing dignity; role-fit command, acknowledged responsibility and direct contribution | Sekingar's broader ordinary/private contexts remain sparse; promote no tier from managerial clarity alone |
+| Suiryu | STRENGTHEN / moderate | sibling history, embarrassment and explicit repeated resolve | concrete hero follow-through remains open |
+| Pig God / Tanktop Master / Mumen | STRENGTHEN / moderate each | care despite anger, credit relay, prospective beds and sincere garment belief | prophecy and healing mechanisms unknown; no power-derived tier change |
+| Darkshine / Atomic / Iaian | STRENGTHEN / moderate / moderate / emerging | effective shielding with vanity; adapted cuts; conditional threat inference | no permanent fear cure, universal solution or actual ocean transformation |
+| Blast / Flash / Manako | STRENGTHEN / emerging / moderate / emerging | present rescue and explanation; failed test; fear and particular recognition | ordinary breadth/agenda and broad relationship outcomes remain open |
+| Child Emperor / King / Tareo / Waganma | STRENGTHEN / strong / moderate / emerging / emerging | corrected suspicion and ideals; promise under fear; concern for rescuers | no erasure of earlier errors, myths or abandonment |
+| Homeless Emperor / Black Sperm | STRENGTHEN / emerging each | aesthetics and perceptual miss; rivalry, decoy recognition and pursuit inference | largely adversarial/crisis concentration |
+| Gums / Evil Natural Water | stronger mechanism coverage / insufficient / emerging mechanism-only | ingestion after damage; reformation, jets and dispersal | insufficient broad personhood; appearance and output are not character readiness |
+| Garou / unaffected models | PRESERVE | no new present Garou action | earlier contradictions and tiers remain |
+
+Current routing is refreshed below/above only for materially changed coverage and previously omitted established entries. No `specialist_ready` promotion occurs. All eleven checkpoint decisions are NON_DIAGNOSTIC, independently of the substantial character evidence.
+
+## V30 readiness transition — Bang strong, Bomb and two sword voices bounded
+
+Propagated after the frozen [V30 reading](../02%20Sequential%20Readings/OPM_V30_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V30_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, bounded RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V30. Locators give chapter / archive image within `OPM / V30`; TF/VF/SF records, speaker claims and conditional IR remain distinct. Earlier entries retain their publication boundaries.
+
+**Bang: moderate -> strong.** The existing ordinary dojo, status, peer, rescue and teacher evidence now gains a long private history, a distinct younger ideology, defeat without reciprocated killing intent, years of reform, relationship-specific language and a present conflict between hero work and teaching. He identifies his own failure and proposes a changed life while sustaining the protective art under pressure (`151 / 0034–0036`; `153 / 0075–0086`; `155 / 0137–0159`). This supplies enough conditional breadth to reconstruct more than an old-master rescue archetype. It does not certify accepted reconciliation, completed retirement, perfect self-knowledge or a universally successful nonlethal policy.
+
+**Bomb: insufficient -> emerging.** Earlier supporting presence gains donation/protection choices, a past nonlethal intervention, direct private interpretation of Bang's reform and an explicit reason for accompanying him as brother (`151–152 / 0010–0011,0029–0044,0066–0071`; `155 / 0137–0154`). Family/crisis concentration and thin unrelated ordinary aims prevent moderate promotion.
+
+**Nichirin and Banehige: newly routed emerging profiles.** Nichirin's safety judgment, entrusted legacy and independent-path graduation establish a coherent professional/mentor policy. Banehige's formal teacher address, deployed technique, grief and continuing peer defense establish a bounded pupil/professional voice (`151 / 0023–0027`; `153 / 0087–0094`; `154 / 0119–0121`; `156 / 0170–0176`). Neither has sufficient varied private life and post-crisis follow-through for moderate status.
+
+| Changed profile | Context breadth | Relationship / language | Longitudinal / low-stakes | Stress evidence | Missing breadth |
+|---|---|---|---|---|---|
+| Bang — strong | dojo, public hero work, rescue, private past, family, teaching conflict | brother/pupil/peers/patients; youthful `俺` ideology, elder teaching register, changed `お兄ちゃん` | earlier ordinary scenes plus explicit years of change and remembered domestic/professional choices | defeat, ethical reform, present refusal of old means, confessed role failure | future retirement/reconciliation, wider life after current crisis |
+| Bomb — emerging | care, battle, brother history/witnessing | Fubuki/Bang/Garou; joking, interpretation, protective commands, private pride | earlier recurrence deepened by past; ordinary independent aims thin | donation, defeat, nonlethal confrontation and watching brother at risk | unrelated relationships/goals and repeated low-stakes choices |
+| Nichirin — emerging | sword school, safety judgment, crisis succession | pupil/Atomic/peers; matter-of-fact constraint and last instruction | remembered conversation adds narrow noncombat professional context | catastrophic injury while entrusting future work | ordinary private motivations, independent failure/recovery |
+| Banehige — emerging | technique, pupil role, grief, peer defense | teacher/Iaian/Atomic; formal deference and urgent care | recurrence plus current conduct, little private ordinary breadth | teacher loss followed by continued defense | chosen independent path and varied later relationships |
+
+Genos, Garou, Saitama and Child Emperor retain strong. Atomic, Darkshine, Tatsumaki, Fubuki, King, Metal Bat and PPP retain moderate despite material additions. Existing antagonist and mechanism tiers remain unchanged. Character readiness measures reconstructable conditional behavior, never fighting strength; all checkpoint results are independently NON_DIAGNOSTIC. No specialist-ready promotion occurs.
+
+## V31 readiness review — richer crisis evidence, existing tiers retained
+
+Propagated after the frozen [V31 reading](../02%20Sequential%20Readings/OPM_V31_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V31_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V31. Locators are chapter / archive image in `OPM / V31`; facts, speaker claims and interpretations remain distinct. Earlier entries retain their original boundaries.
+
+**No existing tier changes.** Saitama's care with admitted limits, Genos's vulnerable request, King's fear/contribution/care, Tatsumaki's identity discrimination, Blast's delegation and Flash's pride crisis materially improve conditional models. This is chiefly further evidence within established crisis/relationship contexts. Combat speed, one new divine declaration or dramatic scale alone cannot supply ordinary/private/longitudinal breadth.
+
+| Profile(s) | Added context / voice / relation | Readiness and missing breadth |
+|---|---|---|
+| Saitama / Genos | damaged-disciple care, tentative judgment, doubt and dual gratitude | strong retained; future uptake and consequences of nonphysical advice open |
+| King | attempted confession, private relief, explicit limited contribution, care for others | moderate retained; useful widened crisis conduct, repeated independent ordinary/long-term follow-through still limited |
+| Tatsumaki | exhausted temptation, remembered warning, initial pride then rejection | moderate retained; ordinary/private and post-crisis reciprocal follow-through still thin |
+| Blast | real arrival, testimony, recognition/delegation and allies | emerging retained; goals beyond narrow mission and ordinary/private relations unknown |
+| Flash / Manako | pride-conditioned defeat / concerned response across category | moderate/emerging retained; Flash's unrelated ordinary aims and Manako's wider contexts remain limited |
+| Bang / Bomb / Garou | purposeful defeat, witnessing, protective effect and uncertain consciousness | strong/emerging/strong retained; no completed reconciliation or new ordinary aftermath |
+| CE / Zombieman | flawed capability model / practical concern and coercive interrogation | strong/moderate retained; contradictions enrich existing breadth without requiring promotion |
+| HE / sperm forms / FU | dependency, collective ego/individual insurance, terminal violence | emerging retained; concentrated adversarial contexts, not broad ordinary models |
+| ENW → Evil Ocean Water | renewed persistence and expanded environmental body | emerging mechanism-only retained under existing profile; no duplicated personality model |
+| Sage Centipede | single combat emergence and elevated divine-mission declaration | newly routed insufficient; little context/relationship breadth, no low-stakes or independent longitudinal conduct |
+
+No specialist-ready promotion occurs. Checkpoint confirmation is independently scored and does not supply a readiness tier. Unchanged profiles retain their previous last-evidence notes.
+
+## V32 readiness review — independent judgment and adaptive coercion
+
+Propagated after the frozen [V32 reading](../02%20Sequential%20Readings/OPM_V32_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V32_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), bounded V1 comparison, RR and checkpoint adjudication. New observations are `tankobon_canonical`, available from V32. Locators are chapter / archive image in `OPM / V32`. Earlier histories retain their own boundaries; facts, participant claims and interpretations remain distinct.
+
+**Two justified tier changes:** Tareo **emerging → moderate** and Sage Centipede **insufficient → emerging**. All other current tiers are retained; no specialist-ready promotion occurs. Checkpoint outcomes do not supply readiness evidence.
+
+| Profile | Context / relation / voice / longitudinal addition | Tier and missing breadth |
+|---|---|---|
+| Tareo | Earlier peer bullying/fandom and captive/rescue experiences now support fearful self-directed return, personal highest-hero judgment, disagreement with protector and specific stop-task assent; child register and continuing attachment remain | moderate: wider ordinary independent relationships and post-crisis follow-through absent; no blanket moral/cause accuracy |
+| Sage Centipede | V31 divine-mission introduction extended by attachment inference, adaptive hostage alternatives, unequal-opponent calculation, regeneration dependency and response to losing core | emerging bounded antagonist: coherent decision policy, but one crisis context with little private/ordinary breadth |
+| Saitama / Garou | practical rescue and final wish-check / conscious care, premature mastery and coercive recognition demand | strong retained; accepted outcome and ideological follow-through open |
+| Bat / King / Amai | cooperation with grievance / friend-informed assurance versus false credit / care plus categorical attack | moderate retained; additional crisis evidence, no automatic breadth promotion |
+| Sekingar / Gearsper / One Shotter | uncertain professional judgment and withdrawal / effective assistance and imperfect execution | Sekingar emerging retained; others gain bounded operational evidence without invented broad profiles |
+| Manako / Flash | attempted care, predation misclassification and bodily reciprocal protection | emerging/moderate retained; wider independent goals and general reconciliation unshown |
+| Fubuki / Tatsumaki / Master / Pig God | attempted aid, unresponsive vulnerability, carrying/rivalry-care and changing-body transport | moderate tiers retained; treatment/release outcomes and mechanisms incomplete |
+| Genos / Bang / Bomb | care aftermath / remembered teaching and carried injury / conditional treatment assessment | strong/strong/emerging retained; no invented present reconciliation, retirement, repair or uptake |
+| Evil Natural Water → Evil Ocean Water | disruption plus visible remnants and qualified death reports | emerging mechanism-only retained under same profile, no personality duplication |
+| Bonus commander | boast, hierarchy, risk elimination and immediate failed precaution | insufficient; no durable broad reconstruction from one gag |
+
+Tareo's promotion rests on cumulative context and new autonomy, not importance or one emotional speech. Sage's promotion establishes a narrow conditional antagonist model, not moral complexity inferred from size. Historical snapshot matrices preserve their earlier boundaries; the current summary below/above routes present tiers.
+
+## V33 readiness review — deeper crisis evidence without a new tier
+
+Propagated after the frozen [V33 reading](../02%20Sequential%20Readings/OPM_V33_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V33_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V33. Locators are chapter / archive image in `OPM / V33`. Earlier histories retain their own boundaries. The main story ends before the final collision outcome; later claims exposed in V1 are quarantined.
+
+**No tier changes.** All current tiers remain as entered from V32; no specialist-ready promotion occurs. Checkpoint scores do not supply character evidence.
+
+| Profile | Added breadth and reconstructable response | Retained tier / missing evidence |
+|---|---|---|
+| Saitama | particular motive-reading, limited technical knowledge/protection, explicit loss/timing response and core retention | strong; sustained aftermath, generalized grief policy and stop-task fulfillment absent |
+| Garou | gratitude uptake, refusal based on teacher knowledge, retained-will claim, informed lethal endorsement and targeted manipulation | strong; exact external influence and later choices/outcomes open |
+| Genos / Bang | active intervention from a ruined body / costly personal reclamation and refusal of separation | strong each; repair/continuity and reconciliation unshown |
+| Blast | purpose-based persuasion, selective diagnosis, tactical transfer/gravity, local overload and evacuation priority | emerging, substantially stronger operational model; ordinary/private and relationship breadth still thin |
+| Drive Knight | final official exchange supports strategic publicity beyond earlier indifference | emerging; moderate candidacy strengthened, but purported ordinary deeds remain mediated and unverified |
+| Tareo / Manako / Waganma | remembered independent judgment and grave vulnerability / particular utility defense, escape and cross-species harm / sympathy and collapse | moderate/emerging/emerging; memories and victimhood do not independently add a new tier |
+| Flash / Amai / King / Child Emperor / Sekingar / Max | local companion defense / category policing / shielding posture / corrective recognition / shielding child / mobilization | moderate/moderate/moderate/strong/emerging/emerging; bounded acts deepen established models |
+| Psykos / donor / dimensional silhouettes | questioning familiar power / coercive contact stages / seal discussion | Psykos emerging; unidentified actors remain topical mechanisms without invented biographies |
+
+Drive Knight's video does not count as independent ordinary-life breadth merely because it depicts charity. The prior snapshot matrix retains historical field values; current routing plus these volume deltas govern the present model. Older absent profiles retain their exact tiers and evidence limits.
+
+## V34 readiness review — added ordinary and reparative breadth
+
+Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V34_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V34. Locators are chapter / archive image in `OPM / V34`. Earlier histories retain their own boundaries. No V35 or web narrative enters this delta.
+
+**No tier changes or new profiles.** Saitama, Garou, Genos and Bang retain strong models with substantial new grief, failure, instruction, knowledge, accountability and ordinary-care evidence. Tareo's public dissent and peer behavior, Fubuki's private labor, King's protective deterrence and the heroes' separate punishment/inquiry policies deepen existing moderate tiers. Bofoi and Blast gain operational evidence while private/ordinary breadth remains limited; Waganma gains actual hospitality without erasing earlier abandonment.
+
+Reconstruction must distinguish future Garou from the less-informed survivor, core data from Genos's theory, Saitama's absence of excitement from absence of engagement, and planned reform from completed success. Fubuki/Genos care is not consent or romance. The historical matrix remains a snapshot; the current routing notes and V34 deltas own new coverage. Checkpoint confirmation is not independent character evidence. Unknown allies and attributed institutional voices do not automatically become new readiness profiles.
