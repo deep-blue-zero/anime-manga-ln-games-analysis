@@ -2,7 +2,7 @@
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "6.0",
+  "version": "7.0",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -27,7 +27,7 @@
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "T7S_B0001 through T7S_B0060 are admitted and closed for 202 native Main primary documents: all 91 EPISODE 1.0 episodes, all 22 EPISODE.4U episodes, all 10 EPISODE 2.0 episodes, all 18 KARAKURI episodes, all 42 EPISODE 3.0 episodes, all 13 EPISODE 4.0 AXiS episodes, and all 6 EPISODE 0.0 episodes through 101000601, including every primary page, 33 attached AXiS inline movie-transcript documents, and all eleven authored choice branches in EPISODE 1.0; no EPISODE 0.7, EPISODE 5.0, other later Main, unrelated non-Main/additional, or supplemental story source is consumed",
+  "scope_admission": "T7S_B0001 through T7S_B0063 are admitted and closed for 205 native Main primary documents: all 91 EPISODE 1.0 episodes, all 22 EPISODE.4U episodes, all 10 EPISODE 2.0 episodes, all 18 KARAKURI episodes, all 42 EPISODE 3.0 episodes, all 13 EPISODE 4.0 AXiS episodes, all 6 EPISODE 0.0 episodes, and all 3 EPISODE 0.7 episodes through 811100103, including every primary page, 53 attached AXiS/EPISODE 0.7 inline movie-transcript documents, and all eleven authored choice branches in EPISODE 1.0; no EPISODE 5.0, other later Main, unrelated non-Main/additional, or supplemental story source is consumed",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -89,7 +89,10 @@
       "T7S_B0057",
       "T7S_B0058",
       "T7S_B0059",
-      "T7S_B0060"
+      "T7S_B0060",
+      "T7S_B0061",
+      "T7S_B0062",
+      "T7S_B0063"
     ],
     "consumed_sources": [
       {
@@ -1986,10 +1989,33 @@
       {"episode_id":"101000301","script_id":"memory_0003.json__654a8471e3003c54","document_ref":"primary","page_index":[0,65],"log_order_index":[0,65],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0057_DEEP_READING.md"},
       {"episode_id":"101000401","script_id":"memory_0004.json__0c38e39cd3d26582","document_ref":"primary","page_index":[0,55],"log_order_index":[0,55],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0058_DEEP_READING.md"},
       {"episode_id":"101000501","script_id":"memory_0005.json__c5abf5bd9a60ab29","document_ref":"primary","page_index":[0,77],"log_order_index":[0,77],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0059_DEEP_READING.md"},
-      {"episode_id":"101000601","script_id":"memory_0006.json__7996cc421a8086e0","document_ref":"primary","page_index":[0,197],"log_order_index":[0,197],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0060_DEEP_READING.md"}
+      {"episode_id":"101000601","script_id":"memory_0006.json__7996cc421a8086e0","document_ref":"primary","page_index":[0,197],"log_order_index":[0,197],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0060_DEEP_READING.md"},
+      {"episode_id":"811100101","script_id":"ing07_101001_01.json__cb6ea25c05263a53","document_ref":"primary","page_index":[0,715],"log_order_index":[0,740],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0061_DEEP_READING.md"},
+      {"episode_id":"811100101","script_id":"vo_ing07_01_m01.json__497b6252e21bf9a5","document_ref":"inline_movie_transcripts/0","page_index":[0,19],"log_order_index":[2,21],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0061_DEEP_READING.md"},
+      {"episode_id":"811100101","script_id":"vo_ing07_01_m02.json__2c967b33212dae2f","document_ref":"inline_movie_transcripts/1","page_index":[0,4],"log_order_index":[542,546],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0061_DEEP_READING.md"},
+      {"episode_id":"811100101","script_id":"vo_ing07_01_m04.json__5f0424489ce43062","document_ref":"inline_movie_transcripts/2","page_index":[0,4],"log_order_index":[741,745],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0061_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"ing07_101002_01.json__c7fbe8922e81715d","document_ref":"primary","page_index":[0,821],"log_order_index":[0,893],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"vo_ing07_02_m01.json__a3615f22b646a6b0","document_ref":"inline_movie_transcripts/0","page_index":[0,0],"log_order_index":[2,2],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"vo_ing07_02_m02.json__8b0dc2a21ff1aa38","document_ref":"inline_movie_transcripts/1","page_index":[0,60],"log_order_index":[201,261],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"vo_ing07_02_m03.json__700b0e97d03762aa","document_ref":"inline_movie_transcripts/2","page_index":[0,7],"log_order_index":[329,336],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100102","script_id":"vo_ing07_02_m04.json__8683cec4db077a28","document_ref":"inline_movie_transcripts/3","page_index":[0,1],"log_order_index":[347,348],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0062_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"ing07_101003_01.json__3920f6253c3cf0d8","document_ref":"primary","page_index":[0,946],"log_order_index":[0,1099],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m01.json__25a67f3862668154","document_ref":"inline_movie_transcripts/0","page_index":[0,2],"log_order_index":[99,101],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m02.json__4d306607ee6f4753","document_ref":"inline_movie_transcripts/1","page_index":[0,13],"log_order_index":[175,188],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m03.json__87ccc3a3731dc78f","document_ref":"inline_movie_transcripts/2","page_index":[0,3],"log_order_index":[200,203],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m04.json__e54be2f40e470742","document_ref":"inline_movie_transcripts/3","page_index":[0,7],"log_order_index":[206,213],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m06.json__5213fbee3e422685","document_ref":"inline_movie_transcripts/4","page_index":[0,0],"log_order_index":[248,248],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m07.json__486e89ae75789b44","document_ref":"inline_movie_transcripts/5","page_index":[0,2],"log_order_index":[731,733],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m08.json__ed3d4d8da018c5c5","document_ref":"inline_movie_transcripts/6","page_index":[0,31],"log_order_index":[736,767],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m09.json__8a98fbeed5225aa6","document_ref":"inline_movie_transcripts/7","page_index":[0,16],"log_order_index":[863,879],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m10.json__b26d48b7574b198b","document_ref":"inline_movie_transcripts/8","page_index":[0,2],"log_order_index":[882,884],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m11.json__b6808b36f6c1fe68","document_ref":"inline_movie_transcripts/9","page_index":[0,37],"log_order_index":[992,1029],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m12.json__de751f6338e9e8df","document_ref":"inline_movie_transcripts/10","page_index":[0,2],"log_order_index":[1066,1068],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m13.json__dadf0106c35e09b0","document_ref":"inline_movie_transcripts/11","page_index":[0,26],"log_order_index":[1071,1097],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"},
+      {"episode_id":"811100103","script_id":"vo_ing07_03_m14.json__39d2681306879559","document_ref":"inline_movie_transcripts/12","page_index":[0,0],"log_order_index":[1100,1100],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0063_DEEP_READING.md"}
     ],
-    "next_candidate_episode_id": "811100101",
-    "next_candidate_native_chapter_layer_id": 200020,
+    "next_candidate_episode_id": "911100101",
+    "next_candidate_native_chapter_layer_id": 200090,
     "authorized_story_boundary_complete": true
   },
   "collection_manifest": {
@@ -2001,7 +2027,7 @@
     "bytes": 5864910848,
     "schema": "t7s-query-index/1",
     "normalized_schema": "t7s-normalized-scenario/1",
-    "verification": "FULL_FILE_SHA256_MATCH_AT_BOOTSTRAP_AND_B0002_B0003_AND_B0003_CHAPTER_CLOSE_AND_B0004_CHAPTER_CLOSE_AND_B0005_CHAPTER_CLOSE_AND_B0006_CHAPTER_CLOSE_AND_B0007_OPENING_PREFLIGHT_AND_B0007_CHAPTER_CLOSE_PREFLIGHT_AND_B0008_CHAPTER_CLOSE_PREFLIGHT_AND_B0009_CHAPTER_CLOSE_PREFLIGHT_AND_B0010_OPENING_PREFLIGHT_AND_EPISODE_1_0_CLOSE_PREFLIGHT_AND_EPISODE_4U_CLOSE_PREFLIGHT_AND_NEXT_TWO_UNITS_CLOSE_PREFLIGHT_AND_EPISODE_3_0_CLOSE_PREFLIGHT_AND_EPISODE_4_0_AXIS_CLOSE_PREFLIGHT"
+    "verification": "FULL_FILE_SHA256_MATCH_AT_BOOTSTRAP_AND_B0002_B0003_AND_B0003_CHAPTER_CLOSE_AND_B0004_CHAPTER_CLOSE_AND_B0005_CHAPTER_CLOSE_AND_B0006_CHAPTER_CLOSE_AND_B0007_OPENING_PREFLIGHT_AND_B0007_CHAPTER_CLOSE_PREFLIGHT_AND_B0008_CHAPTER_CLOSE_PREFLIGHT_AND_B0009_CHAPTER_CLOSE_PREFLIGHT_AND_B0010_OPENING_PREFLIGHT_AND_EPISODE_1_0_CLOSE_PREFLIGHT_AND_EPISODE_4U_CLOSE_PREFLIGHT_AND_NEXT_TWO_UNITS_CLOSE_PREFLIGHT_AND_EPISODE_3_0_CLOSE_PREFLIGHT_AND_EPISODE_4_0_AXIS_CLOSE_PREFLIGHT_AND_EPISODE_0_0_CLOSE_PREFLIGHT_AND_EPISODE_0_7_CLOSE_PREFLIGHT"
   },
   "episode_catalog": {
     "artifact_id": "corpus:catalog/episodes.jsonl",
@@ -2825,6 +2851,57 @@
       },
       "boundary": "Exact, hole-free native Main EPISODE 0.0 family through episode 101000601; all primary pages consumed; no attached transcripts or authored choices; EPISODE 0.7 episode 811100101 remains metadata-only and unopened"
     },
+    "episode_0_7_close_verification": {
+      "checked_at": "2026-09-12T00:00:00-04:00",
+      "operation": "T7S_EPISODE_0_7_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "family_layer_id": 200020,
+      "native_category": "Main",
+      "recommendation_rank_range": [163, 165],
+      "source_order_index_range": [1188, 1190],
+      "episode_ids": ["811100101", "811100102", "811100103"],
+      "primary_episodes_verified": 3,
+      "unique_primary_source_hashes_verified": 3,
+      "attached_inline_movie_transcripts_verified": 20,
+      "primary_document_pages_verified": 2485,
+      "flattened_episode_pages_verified": 2741,
+      "text_pointers_verified": 2358,
+      "command_only_pages_verified": 383,
+      "native_voice_reference_pages_verified": 1338,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 23,
+      "canonical_deep_readings": 3,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 14,
+      "selected_backgrounds_verified": 10,
+      "blocking_movie_assets_sampled": 22,
+      "bounded_packet_sha256": "4dc4fb301d155440d49a455374518299f082fa70a953f2473be58f29cda2cdfe",
+      "bounded_packet_receipt_sha256": "4fed09ba1387abb65e583dd32c8903f10f826e9872a3138bd3ce668044c4010e",
+      "dialogue_export_sha256": "bec56886eb56b06c759c39f39d38e2fc52250f8b9b1050e759fe520be760207b",
+      "visual_reconstruction_receipt_sha256": "8139a5ae408aa40dca7b7ff46dfb265d94b789e60cf1b65b02fbd44debd4a5f9",
+      "character_contact_sheet_sha256": "0b7ef26fd5f00af9d8844f6ec61c4697d6ed85ef84ef42a2880bc07aa940b73e",
+      "background_contact_sheet_sha256": "18fec2a1b5e7f870ccf4aa8d00afa90ac277e81da803420afadebc143e1752f0",
+      "face_position_artifact_sha256": "99efbf5def485478cfef6a6069a2396373141be36ae5781587d2ceaa4eb2fbbf",
+      "blocking_movie_review_receipt_sha256": "a23d7ddadea81f42bd4ea46a72f36d47322c766239f0f4b54abd526323490286",
+      "blocking_movie_contact_sheet_sha256_by_episode": {
+        "811100101": "a5b5a3b4862a921a56ca37864b989aea659f62f3c180a90c2a6f800ebf303613",
+        "811100102": "827453f29f1a6328d655e1e6c541fc5aee510325caa9c0dc219034eda67283be",
+        "811100103": "726818abcdfcd0e06b04171fa9bbbec50580c6626d08763a4fbdba132e87592b"
+      },
+      "source_sha256_by_script": {
+        "ing07_101001_01.json__cb6ea25c05263a53": "f5a747927bcead416cef43309b11c148257132a73e6188279a40af8ffce50729",
+        "ing07_101002_01.json__c7fbe8922e81715d": "922f21478dd5dd69fbf544685c1e6cb8319184728843f48215f448cd0bf3f405",
+        "ing07_101003_01.json__3920f6253c3cf0d8": "92c87234900fd21711d047907b29722931aad2bb84f2a559865fb203e563a259"
+      },
+      "normalized_sha256_by_script": {
+        "ing07_101001_01.json__cb6ea25c05263a53": "7d6654974228bb20fd8202cc2184e1794de6725cf096a134aff49c5b27d84b10",
+        "ing07_101002_01.json__c7fbe8922e81715d": "805b1c823a96c372f42b8be3ab6b2725c114930d945086dc3e58fb0971f41194",
+        "ing07_101003_01.json__3920f6253c3cf0d8": "6212e448f82b18e0a04a4092abc649dd23e379ca72cfc9f29de97f5004dd5902"
+      },
+      "boundary": "Exact, hole-free native Main EPISODE 0.7 family through episode 811100103; all primary pages and 20 invoked inline movie transcripts consumed; 22 bound movie assets sampled; no authored choices; EPISODE 5.0 episode 911100101 remains metadata-only and unopened"
+    },
     "selected_media_recovery": [
       {
         "kind": "audio",
@@ -2850,7 +2927,7 @@
   },
   "limits": [
     "Extraction completeness is not analytical, listening or visual-review completeness",
-    "At source-lock version 6.0, the exact 202-primary-document horizon comprising complete native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, and EPISODE 0.0 through 101000601 plus 33 attached AXiS inline movie transcripts is the sole consumed story horizon; EPISODE 0.7, EPISODE 5.0, and every other later Main episode plus all Sub/Event, unrelated additional, and supplemental sources remain unconsumed",
+    "At source-lock version 7.0, the exact 205-primary-document horizon comprising complete native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, and EPISODE 0.7 through 811100103 plus 53 attached AXiS/EPISODE 0.7 inline movie transcripts is the sole consumed story horizon; EPISODE 5.0 and every other later Main episode plus all Sub/Event, unrelated additional, and supplemental sources remain unconsumed",
     "Repeated decoded hashes preserve distinct logical occurrence identities",
     "Unresolved/compound speakers and unbound media documents remain unresolved",
     "No full franchise, anime, live, studio-recording or complete lyric-edition admission is implied"
