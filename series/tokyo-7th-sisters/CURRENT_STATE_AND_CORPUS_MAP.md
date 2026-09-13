@@ -4,7 +4,7 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "8.0"
+version: "8.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -47,11 +47,33 @@ sequential_execution:
   next_candidate_episode_id: "1011100101"
   next_candidate_family_layer_id: "200100"
   next_candidate_status: METADATA_ONLY_NOT_AUTHORIZED
+major_story_structures:
+  T7S_STACK_2034:
+    native_main_group: "2034年"
+    analytical_role: FIRST_MAJOR_STORY_STRUCTURE
+    status: IN_PROGRESS
+    native_main_families_total: 11
+    closed_main_families: 9
+    remaining_main_family_layer_ids: ["200100", "200120"]
+    current_semantic_horizon: "through complete EPISODE 5.0 / T7S_B0069"
+    eligible_non_main_closeout: NOT_STARTED
+    declared_character_release: NOT_STARTED
+    era_narrative_reconstruction: NOT_CREATED
+    era_literary_synthesis: NOT_CREATED
+    era_completion_audit: NOT_CREATED
+    era_release_status: NOT_READY
+  T7S_STACK_2053:
+    native_main_group: "2053年"
+    analytical_role: SECOND_MAJOR_STORY_STRUCTURE
+    topology_status: INVENTORIED_METADATA_ONLY
+    semantic_admission_status: BLOCKED_PENDING_2034_ERA_RELEASE
+    permitted_before_transition: NON_SEMANTIC_TOPOLOGY_RECONNAISSANCE_ONLY
+    prerequisite_audit_status: NOT_ELIGIBLE
 ---
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**The opening-prerequisite audit remains satisfied, `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, and complete native Main EPISODE 5.0 -Fall in Love- is the latest recoverable analytical checkpoint after EPISODE 0.7.** T7S_B0064–T7S_B0069 close all six primary documents and ten invoked transcript documents in family `200090`. Recommendation ranks 166–171 and source indexes 1191–1196 converge for this unit. This is the sole current entrypoint for `series/tokyo-7th-sisters/`. The branch implements approved specification 1.1, including independent character reconstruction readiness and multimodal monograph maturity, and remains `EVOLVING`. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
+**The opening-prerequisite audit remains satisfied, `SEQUENTIAL_ANALYSIS_LOCK = OPEN`, and complete native Main EPISODE 5.0 -Fall in Love- is the latest recoverable analytical checkpoint after EPISODE 0.7.** T7S_B0064–T7S_B0069 close all six primary documents and ten invoked transcript documents in family `200090`. Recommendation ranks 166–171 and source indexes 1191–1196 converge for this unit. This is the sole current entrypoint for `series/tokyo-7th-sisters/`. The branch implements approved specification 1.1, including independent character reconstruction readiness, multimodal monograph maturity, and the mandatory 2034-major-story-structure release gate before 2053 semantic admission, and remains `EVOLVING`. Repository-primary effectiveness follows the governed integration process; a successful branch audit is not a merge.
 
 ## Governing and cumulative homes
 
@@ -191,6 +213,14 @@ The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0
 
 Across B0001–B0069 the repository now contains 69 bounded deep readings, nine compact unit narrative syntheses, nine promoted arc deep readings, 278 causal events, twenty world states, thirty-four threads, 255 typed edges, 70 bounded identity routes, 54 character states, 75 epistemic states, 186 directional relationship states, twenty-two unit/institution states, twenty-six retained R2 readiness decisions, 414 literary claims, thirty-three revisions, seven frozen predictions, and forty-one bounded AV-review records. Performed voice/music remains queued; the 33 AXiS runtime movies remain source-unresolved despite admitted transcripts, while all 22 recovered EPISODE 0.7 and all ten recovered EPISODE 5.0 blocking movies received bounded still-frame review. It creates no character model, monograph, relationship/unit synthesis, specialist synthesis, or full-series synthesis. Native 2034/2053 grouping, recommendation order, release chronology, diegetic time, and analytical family grouping stay separate.
 
+## Major-story-structure transition state
+
+`T7S_STACK_2034` and `T7S_STACK_2053` are independent analytical stacks corresponding to the two native top-level Main groupings; neither identifier assigns its label year to every contained scene. The 2034 stack is **in progress**, not merely a foundation for 2053. Its remaining Main families are EPISODE 6.0 FINAL (`200100`) and EPISODE NANASUTA (`200120`). Its eligible Sub/Event/additional/supplemental closeout, declared character release, era reconstruction, era literary synthesis, promoted longitudinal responsibilities, performed-voice work, and completion audit have not yet been completed.
+
+Accordingly, `T7S_STACK_2053.semantic_admission_status = BLOCKED_PENDING_2034_ERA_RELEASE`. The project-wide sequential lock being open permits an independently authorized next 2034 operation; it does not open 2053. Before that transition, 2053 access is limited to already recorded or newly necessary non-semantic topology facts such as IDs, hashes, native hierarchy, counts, source sizes, and capabilities. No 2053 dialogue, plot, characterization, outcome, performance, or thematic evidence may enter the 2034 analysis.
+
+The transition requires canonical `T7S_2034_ERA_NARRATIVE_RECONSTRUCTION`, `T7S_2034_ERA_LITERARY_SYNTHESIS`, a declared principal/secondary character release with its required mature multimodal monographs and bounded insufficiency findings, every independently warranted relationship/unit/institution/specialist synthesis, and `T7S_2034_ERA_COMPLETION_AUDIT`. Only a passing completion audit may mark 2034 `ERA_RELEASE_COMPLETE` and make 2053 eligible for a separate owner-authorized prerequisite audit. The two eventual franchise-wide syntheses remain downstream of completed 2034 and 2053 releases.
+
 ## Exposure and next operation
 
 Earlier preservation/design work exposed labels, small technical dialogue examples, four sampled script playbacks and external chronology discussion. This bootstrap performed metadata, hash and native-pointer equality checks, not a story reading. Preserve that exposure history; use exact bounded packets and entering-state records for future prospective work. No uncontaminated first encounter is claimed.
@@ -243,6 +273,8 @@ The [six EPISODE 5.0 readings](02%20Readings/T7S_B0064_DEEP_READING.md) follow f
 
 There is **no authorized next story operation after this closeout**. Native routing identifies EPISODE 6.0 FINAL layer `200100`, beginning with metadata-only episode `1011100101` at recommendation rank 172, as the next unopened family. Its story text remains unread. A future operation must first establish new owner authorization, recheck current authority and source binding, and perform prospective dependency review. Other later Main, Sub/Event, unconsumed additional, and supplemental sources remain outside the current story boundary. Metadata-only awareness is not story consumption.
 
+EPISODE 6.0 is a candidate **inside the unfinished 2034 stack**, not a route toward immediate 2053 continuation. After it, EPISODE NANASUTA and the complete 2034 release obligations above must be resolved. No request to “continue to the next major unit” may be interpreted as authority to cross into 2053 while its semantic-admission status remains blocked.
+
 Use `BOUNDED_STANDARD` for source/locator checks, `SUBSTANTIVE_ANALYSIS` for normal bounded readings and ledger updates, `DEEP_SYNTHESIS` for mature integration/reconstruction, and justified `PREMIUM_QUALITY_FIRST` for propagation-sensitive adversarial/final work. Stable classes do not hard-code a product or model mapping.
 
 No optional artifact is created merely for symmetry. The architecture documents promotion triggers for readings, characters, relationships/units, specialists, arc deep readings, arc/era narrative synthesis and full-series work. EPISODE 1.0 passes for renewal without replacement; EPISODE.4U for serial non-ending and accountable recurrence; EPISODE 2.0 for image-to-address/captured authenticity; KARAKURI for machine/thread/two-person/tomorrow; EPISODE 3.0 for composition without substitution and the recurrent space beside; AXiS for rail versus road, recursive authorship, and history made infrastructure; EPISODE 0.0 for backstage counterarchive, contested camera jurisdiction, and a jointly authored game ideal; EPISODE 0.7 for relational wings, transformed birdcage imagery, and a consent-sensitive taxonomy of separation; and EPISODE 5.0 for the role/person distinction, authorship through presence, usable memory, and irreplaceability without captivity. In each case the compact synthesis remains the causal/state instrument and the whole-arc reading passes only because deletion would remove a non-substitutable formal result. Length and symmetry supply no authority. Monographs may earn a textual home before audiovisual review, but `MONOGRAPH_MATURE` requires representative visual and performed-voice review, integrated argument and passing fidelity audit independently of R0–R5.
@@ -271,3 +303,4 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-09-12 — V1 / 6.0: close all six native Main EPISODE 0.0 memories as T7S_B0055–T7S_B0060; publish the compact synthesis and deletion-tested backstage-counterarchive arc reading; reconcile source, coverage, causal, entity, claim, and nine-composite static-visual evidence; preserve the earlier-memory/later-consumption distinction and unauditioned audio; and stop before metadata-only EPISODE 0.7 episode `811100101`.
 - 2026-09-12 — V1 / 7.0: close all three native Main EPISODE 0.7 primary documents and twenty attached inline movie transcripts as T7S_B0061–T7S_B0063; publish the compact synthesis and deletion-tested relational-wings arc reading; reconcile source, coverage, causal, entity, claim, static/background, and bounded blocking-movie evidence; preserve coercion/authorization distinctions and unauditioned audio; and stop before metadata-only EPISODE 5.0 episode `911100101`.
 - 2026-09-12 — V1 / 8.0: close all six native Main EPISODE 5.0 primary documents and ten attached inline movie transcripts as T7S_B0064–T7S_B0069; publish the compact synthesis and deletion-tested role/person arc reading; reconcile source, coverage, causal, entity, claim, static/background, and bounded blocking-movie evidence; advance Shirayuki, Manon, and Tasha to bounded reconstruction readiness; preserve Coney/Nicole as canonical spellings and continuing non-exhaustive identities; retain unauditioned audio; and stop before metadata-only EPISODE 6.0 episode `1011100101`.
+- 2026-09-12 — V1 / 8.1: establish independent `T7S_STACK_2034` and `T7S_STACK_2053` transition state; keep 2034 in progress through EPISODE 6.0 FINAL, EPISODE NANASUTA, non-Main eligibility, declared mature character/multimodal and promoted-subject work, era narrative/literary synthesis, and completion audit; block every 2053 semantic operation until the audited 2034 era release makes a separate prerequisite audit eligible.
