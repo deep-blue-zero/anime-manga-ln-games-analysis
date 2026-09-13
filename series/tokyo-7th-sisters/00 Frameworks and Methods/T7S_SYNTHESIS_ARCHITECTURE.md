@@ -4,21 +4,21 @@ artifact_id: T7S_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; architecture reviewed through complete native Main EPISODE 1.0 / T7S_B0001–T7S_B0011; no later or non-Main story source"
+source_boundary: "c20260909-r484; governing architecture applied through the exact T7S_B0001–T7S_B0069 horizon; no EPISODE 6.0, EPISODE NANASUTA, 2053, or other unadmitted story source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-10
+last_updated: 2026-09-12
 ---
 
 # Tokyo 7th Sisters synthesis architecture
 
-This V1 architecture implements the approved 1.1 design, its multimodal monograph amendment, and the evidence-driven arc-deep-reading promotion added after EPISODE 1.0 closeout. It is the current project method for accumulating and integrating analysis on this branch, subject to repository integration. No prior T7S analytical architecture is superseded; the local design remains historical proposal provenance. The initial source scope is the preserved Japanese offline game, with separately admitted future witnesses.
+This V1 architecture implements the approved 1.1 design, its multimodal monograph amendment, the evidence-driven arc-deep-reading promotion added after EPISODE 1.0 closeout, and the major-story-structure transition gate added during the 2034 sequence. It is the current project method for accumulating and integrating analysis on this branch, subject to repository integration. No prior T7S analytical architecture is superseded; the local design remains historical proposal provenance. The initial source scope is the preserved Japanese offline game, with separately admitted future witnesses.
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
@@ -28,7 +28,7 @@ Section letters retained from the approved design are cross-document references:
 
 This architecture follows the repository's [project-initiation policy](../../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [authority and supersession policy](../../../governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md), [sequential-execution scope policy](../../../governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md), and [change-integration checklist](../../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md). Current repository controls take precedence over historical examples. The source/extraction workspace remains outside Git analytical authority.
 
-The operational dependency chain is: source lock and locator checks → exact source/horizon admission → bounded reading with factual reconstruction and interpretation → synchronized causal/entity/claim state → coverage and contradiction reconciliation → coherent arc/era narrative reconstruction and, where promoted, a sibling whole-arc deep reading → justified character, relationship, unit and specialist synthesis → compact full-series narrative integration and separate literary synthesis → fidelity/role-gap/release audit. Smaller bounded specialists may develop during reading when their evidence is sufficient; final integration must reconcile their scopes and rivals. Reconstruction validation is independent of literary integration and cannot certify the latter.
+The operational dependency chain is: source lock and locator checks → exact source/horizon admission → bounded reading with factual reconstruction and interpretation → synchronized causal/entity/claim state → coverage and contradiction reconciliation → coherent arc narrative reconstruction and, where promoted, a sibling whole-arc deep reading → justified character, relationship, unit and specialist synthesis → complete major-story-structure narrative reconstruction and separate literary synthesis → major-story-structure completion audit → only then admission of the next major story structure → eventual full-series narrative integration and separate literary synthesis → fidelity/role-gap/release audit. Smaller bounded specialists may develop during reading when their evidence is sufficient; each major-story-structure release and final integration must reconcile their scopes and rivals. Reconstruction validation is independent of literary integration and cannot certify the latter.
 
 Anticipated specialist responsibilities are idol/professional institutions and creative labor; public/private/stage identity; intergenerational inheritance; ensemble coordination and rivalry; music/performance dramaturgy; visual and Japanese linguistic form; and cross-witness comparison after admission. These are questions to test, not findings or mandatory empty documents. Initially preserve evidence in the three ledgers and readings. Promote a specialist only when recurrent evidence and an independent argument or retrieval burden justify it; record whether the responsibility becomes mandatory for the declared release.
 
@@ -64,10 +64,36 @@ Authority status (`canonical`, `active_provisional`, `draft_noncurrent`, `supers
 | Relationship mechanism / collective identity | Typed relationship/unit rows | Relationship or unit synthesis |
 | Voice, visuals, performance findings | Claim rows with modality provenance and review status | Character monograph integrates character-identity findings; a specialist synthesis is promoted only for independent analytical/retrieval responsibility |
 | Sustained literary/formal interpretation of one completed arc | Bounded readings and claim rows | Optional arc deep reading for that exact horizon; it does not acquire state ownership |
-| Cross-era/generational causality | Event links and era reconstructions | Compact full-series narrative integration |
+| One major story structure as a complete narrative and literary object | Arc syntheses, ledgers, character/relationship/unit/specialist homes | Major-story-structure narrative reconstruction and separate literary synthesis, certified by its era-completion audit |
+| Cross-era/generational causality | Evidence-typed event links and completed major-story-structure reconstructions | Compact full-series narrative integration after both structures close |
 | Final literary/thematic argument | Converged lower-level claims | Full-series literary synthesis, separate from narrative reconstruction |
 
-The mature arc layer should consist of **compact coherent arc/era narrative syntheses plus optional promoted arc deep readings where literary density warrants them**. A shorter `T7S_FULL_SERIES_NARRATIVE_RECONSTRUCTION.md` integrates the narrative layer while preserving parallel lines, uncertainty and retrospective revelations. `T7S_FULL_SERIES_LITERARY_SYNTHESIS.md` owns final cross-arc interpretation. Neither full-series file is a repository for unfinished local work, and neither silently supersedes a horizon-bounded arc reading.
+The mature arc layer should consist of **compact coherent arc narrative syntheses plus optional promoted arc deep readings where literary density warrants them**. Above that layer, each major story structure receives its own complete narrative reconstruction and literary synthesis before the next structure is semantically admitted. A shorter `T7S_FULL_SERIES_NARRATIVE_RECONSTRUCTION.md` eventually integrates the completed 2034 and 2053 structures while preserving parallel lines, uncertainty and retrospective revelations. `T7S_FULL_SERIES_LITERARY_SYNTHESIS.md` owns final cross-structure interpretation. Neither full-series file is a repository for unfinished local or era work, and neither silently supersedes a horizon-bounded arc or major-story-structure release.
+
+### Major-story-structure stacks and the 2034 → 2053 gate
+
+The native Main menu groupings `2034年` and `2053年` are analytically treated as two **major story structures**, with stable local stack IDs `T7S_STACK_2034` and `T7S_STACK_2053`. “Stack” denotes a native narrative grouping and its independent analytical state; it is not a claim that every contained scene occurs in the label year. Native family, publication, diegetic time, narrative spine, reading order, and stack membership remain separate axes.
+
+Each stack has an independent source frontier, semantic-consumption frontier, causal/entity/claim-state horizon, character-release horizon, and completion state. A later stack cannot silently become the global “current state” of a person, relationship, unit, institution, or unresolved thread. Shared identity routes may connect evidence across stacks, but state remains stack- and interval-qualified until a supported bridge is recorded.
+
+`T7S_STACK_2034` is the first major story structure. Opening or continuing individual 2034 families remains governed by the ordinary sequential lock and prospective packet audits. **Semantic consumption of `T7S_STACK_2053` is separately blocked until the 2034 major-story-structure release passes.** Structural inventory, hashes, native hierarchy, source-size metadata, and other non-semantic reconnaissance may be retained before then; 2053 dialogue, plot, characterization, outcomes, performed content, and thematic evidence may not be screened or used to finish 2034 work.
+
+The 2034 release gate requires all of the following:
+
+1. Every 2034 Main family has an exact factual home and close reading, including EPISODE 6.0 FINAL and EPISODE NANASUTA; no family title or recommendation rank substitutes for consumption.
+2. The declared 2034-eligible Sub, Event, additional-script, supplemental, and audiovisual pools have been completely inventoried and semantically screened; every substantive narrative, ordinary-life, character, relationship, unit, institutional, or formal obligation is reconstructed and integrated at the warranted depth, while exclusions and unresolved source identity remain explicit.
+3. `T7S_2034_ERA_NARRATIVE_RECONSTRUCTION.md` provides the complete 2034 causal/state reconstruction across its arc syntheses, preserves chronology alternatives and open endings, and routes rather than duplicates local factual homes.
+4. `T7S_2034_ERA_LITERARY_SYNTHESIS.md` provides the independent 2034-wide literary/formal argument, with counterreadings, claim revisions, and material audiovisual limits. It is not the franchise-wide synthesis.
+5. A declared 2034 character roster classifies every in-scope subject as principal, secondary, incidental, unresolved, or outside the release. Every principal subject has a canonical character monograph at `MONOGRAPH_MATURE`, including representative visual and actually listened-to performed-voice review, integrated multimodal identity, and a passing scoped fidelity audit. Secondary subjects receive the warranted bounded document or an explicit evidence-insufficiency finding; silence is not completion. Character reconstruction/model readiness remains independently declared and cannot substitute for the monograph.
+6. Nanasta, Seven Sisters, 4U, KARAKURI, AXiS, SOL, and every other relationship, unit, institutional, or specialist responsibility that has become independently longitudinal receives its promoted synthesis. A native unit label alone does not force a document, but a demonstrated independent responsibility cannot be left dispersed merely to cross the gate.
+7. Cross-arc chronology, identity, knowledge, relationship, unit, institutional, claim, and audiovisual state is reconciled. Every load-bearing performance or character-identity claim meets its modality requirement; unavailable evidence narrows the release rather than becoming an implicit pass.
+8. `T7S_2034_ERA_COMPLETION_AUDIT.md` distinguishes deliberately open narrative outcomes from missing analysis, checks exact coverage and routes, verifies that no 2053 semantic knowledge contaminated the release, records every bounded exception, and returns `PASS` or an expressly scoped `PASS_WITH_BOUND` whose bounds do not negate a mandatory item above.
+
+Only the completion audit may transition the entrypoint's `T7S_STACK_2034` state to `ERA_RELEASE_COMPLETE` and the `T7S_STACK_2053` semantic-admission state from `BLOCKED_PENDING_2034_ERA_RELEASE` to `ELIGIBLE_FOR_PREREQUISITE_AUDIT`. That transition does not itself authorize a 2053 reading. The first 2053 operation must still receive owner authorization, verify source bindings, establish an entering-state packet, and resolve the necessary Asterline/Roots./other line-order question without converting fan order into source chronology.
+
+The completed 2034 reconstruction, literary synthesis, character monographs, promoted relationship/unit/specialist work, and audit freeze at their declared 2034 horizon. Later 2053 evidence may create explicit cross-era bridge records, successor editions, or retrospective revisions; it may not rewrite what the 2034-only release knew. Bridge records must distinguish literal personal continuity, institutional inheritance, transmitted knowledge or artifacts, remembered history, retrospective revelation, and structural/thematic parallel. A thematic resemblance is not a causal or identity edge.
+
+The same pattern applies at 2053 close: its own complete story-structure release precedes the two franchise-wide artifacts. `T7S_FULL_SERIES_NARRATIVE_RECONSTRUCTION.md` and `T7S_FULL_SERIES_LITERARY_SYNTHESIS.md` therefore sit above two completed structures, not between them and not in place of either one.
 
 The method and architecture must state a promotion/migration rule: move responsibility once, preserve stable IDs and history, add explicit routing/supersession, and stop maintaining the old duplicate content. A generated index is a projection, not another current authority.
 
@@ -206,12 +232,15 @@ series/tokyo-7th-sisters/
   [07 Arc and Era Synthesis/]
     [T7S_<SPINE>_NARRATIVE_SYNTHESIS.md]
     [T7S_<SPINE>_ARC_DEEP_READING.md]
+    [T7S_<STACK>_ERA_NARRATIVE_RECONSTRUCTION.md]
+    [T7S_<STACK>_ERA_LITERARY_SYNTHESIS.md]
   [08 Full-Series Synthesis/]
     [T7S_FULL_SERIES_NARRATIVE_RECONSTRUCTION.md]
     [T7S_FULL_SERIES_LITERARY_SYNTHESIS.md]
   09 Audits and Manifests/
     T7S_BOOTSTRAP_AND_GATE_RECORD.md
     [T7S_<SCOPE>_FIDELITY_AUDIT.md]
+    [T7S_<STACK>_ERA_COMPLETION_AUDIT.md]
   [90 Legacy/]
 ```
 
@@ -226,7 +255,7 @@ series/tokyo-7th-sisters/
 | `04 Characters` | Subject-specific integrated character interpretation and separate reconstruction models | Current monographs declare textual readiness or multimodal maturity; model releases retain independent readiness | Evidence-driven promotion in L; no mandatory separate visual/voice monograph |
 | `05 Relationships and Units` | Relational/collective synthesis | Current bounded syntheses | Promotion in M |
 | `06 Specialist Synthesis` | Independent recurrent thematic/AV/music question | Current argument citing shared claims | Independent retrieval need and evidence density |
-| `07 Arc and Era Synthesis` | Compact storyline reconstruction and optional whole-arc literary/formal interpretation | Separate bounded canonical releases after coverage reconciliation | Narrative closeout; arc deep reading only through the optional promotion gate |
+| `07 Arc and Era Synthesis` | Compact storyline reconstruction, optional whole-arc literary/formal interpretation, and complete major-story-structure releases | Separate bounded canonical arc releases and frozen era releases after coverage reconciliation | Narrative closeout; arc deep reading only through the optional promotion gate; era pair only through the stack-release gate |
 | `08 Full-Series Synthesis` | Narrative integration and literary interpretation | Separate mature releases | Lower-level convergence and completion audit |
 | `09 Audits and Manifests` | Initialization, fidelity and releases | Audit observations frozen; current state routed from entrypoint | Bootstrap and later material audits |
 | `90 Legacy` | Superseded/historical artifacts only | Explicit noncurrent authority; frozen | First actual supersession requiring relocation; preserve links |
@@ -269,6 +298,9 @@ Non-Markdown authority/schema metadata must be explicit in the source lock or go
 | `T7S_<TOPIC>_SPECIALIST_SYNTHESIS.md` | `specialist_synthesis`; independent theme/voice/visual/music question | A; current bounded argument | Recurrent cross-block evidence and independent retrieval need; claim/AV records |
 | `T7S_<SPINE>_NARRATIVE_SYNTHESIS.md` | `arc_era_narrative_synthesis`; coherent line/era; compact causal/state reconstruction and bounded explanatory interpretation | A; versioned bounded release | H's storyline/era closeout; coverage, factual readings, causal and entity state |
 | `T7S_<SPINE>_ARC_DEEP_READING.md` | `arc_deep_reading`; one completed coherent arc/spine and explicit source horizon; sustained whole-arc literary/formal interpretation without state ownership | A; versioned bounded canonical release, retrospective only within the declared horizon | Optional promotion after exact coverage and lower-layer reconciliation when cross-block literary density exceeds the compact narrative synthesis's responsibility; requires the canonical narrative synthesis as publication prerequisite |
+| `T7S_<STACK>_ERA_NARRATIVE_RECONSTRUCTION.md` | `major_story_structure_narrative_reconstruction`; one complete native major story structure | A; frozen horizon-bounded release, later successor editions explicit | All in-scope story obligations, arc syntheses, causal/entity state, chronology limits, and stack character roster reconciled |
+| `T7S_<STACK>_ERA_LITERARY_SYNTHESIS.md` | `major_story_structure_literary_synthesis`; one complete native major story structure | A; frozen horizon-bounded release, explicit claim revisions | Era narrative reconstruction complete; cross-arc form, characters, relationships, units, institutions, counterreadings, and material AV responsibilities integrated |
+| `T7S_<STACK>_ERA_COMPLETION_AUDIT.md` | `major_story_structure_completion_audit`; one stack and exact release tree | G audit of A claims; frozen result | Exact stack coverage, required character/AV and promoted responsibilities, open-versus-missing classification, contamination check, and release fidelity all pass |
 | `T7S_FULL_SERIES_NARRATIVE_RECONSTRUCTION.md` | `full_series_narrative_reconstruction`; admitted series scope; cross-era/line integration | A; frozen release, later witness editions explicit | Complete scoped narrative layer and reconciled chronology limits |
 | `T7S_FULL_SERIES_LITERARY_SYNTHESIS.md` | `full_series_literary_synthesis`; admitted series scope; final thematic/formal argument | A; frozen release, explicit revisions | Narrative maturity, specialists, counterreading and X's completion criteria |
 | `T7S_<SCOPE>_FIDELITY_AUDIT.md` | `fidelity_audit`; model/monograph/era/release; independent failure-seeking assessment | G audit of A claims; frozen result with reviewed hashes/versions | First mature model, promotion to `MONOGRAPH_MATURE`, material revision, and release closeout; use X's applicable checks |
@@ -278,6 +310,8 @@ Subject/spine tokens are stable local identifiers assigned from evidence, not gu
 ## U. Later/promoted artifacts
 
 Create readings only after OPEN. Create monographs/models, relationship/unit studies, specialist work, arc deep readings, and arc/era/full-series syntheses only under their inventory triggers. Promotion is part of normal analysis, not a separate infrastructure campaign that must finish before the first reading.
+
+The 2034 stack-release artifacts are exceptional only in timing, not evidence standards: once all 2034 source obligations are known, they become mandatory predecessors of any 2053 semantic operation. Their creation remains evidence-driven and occurs after the constituent work, not as empty placeholders. The current entrypoint exposes both stack states; `SEQUENTIAL_ANALYSIS_LOCK = OPEN` permits authorized 2034 continuation but never overrides a closed 2053 transition gate.
 
 A character monograph may be created and maintained at `MONOGRAPH_READY_TEXTUAL`, visibly carrying `PENDING_MULTIMODAL_MATURITY`. Promote the same artifact to `MONOGRAPH_MATURE` only through L/N/X's representative review, integration and audit. Accumulated reading-level visual/vocal findings feed this transition. No mandatory visual or voice specialist artifact is added; specialist promotion remains conditional on independent responsibility or retrieval burden.
 
@@ -325,6 +359,7 @@ Use `PASS` or `PASS_WITH_BOUND` only when both representative modality reviews a
 | Character reconstruction | For each declared target subject/state/domain, source and ordinary-life coverage are assessed; rules and rivals exist; required modality evidence and fidelity tests pass with named bounds; unsupported subjects/domains are explicitly incomplete or out of scope |
 | Character textual interpretation | May complete at `MONOGRAPH_READY_TEXTUAL` for an explicitly textual/narrative scope; audiovisual identity remains visibly `PENDING_MULTIMODAL_MATURITY`, with its outstanding obligations and source limits stated |
 | Mature character monograph | Requires `MONOGRAPH_MATURE` for every character declared mature in the project/release scope: textual foundation plus representative visual/illustrative and performed-voice review, integrated interpretation and passing multimodal fidelity audit |
+| Major-story-structure release | All in-scope Main and routed non-Main obligations have factual homes; the era narrative reconstruction and literary synthesis are complete; the declared principal-character roster is mature; independently warranted relationship/unit/specialist work is promoted; chronology, claims, and AV state reconcile; and the era-completion audit passes |
 | Full-series literary synthesis | Narrative layer mature for its declared source boundary; themes/form/characters/relationships/units are integrated with counterreadings and claim revisions; specialist dependencies and load-bearing AV questions are resolved or bounded |
 | Project release | Declared witness/source horizon fixed; all declared endpoint and monograph-maturity requirements meet their scoped criteria; evidence is recoverable, coverage holes and exceptions disclosed, authority/routes consistent, and final release/integration audit passes |
 
@@ -359,6 +394,7 @@ Completion is **scope-relative**, not a promise of every historical or future fr
 | Premature specialists | Promotion triggers; shared claim/evidence home first |
 | Long-form duplication or checklist inflation | Optional arc-deep-reading gate, compact core responsibilities, deletion/saturation tests and one-owner routing to character/relationship/unit/specialist homes |
 | Final synthesis precedes foundations | Completion gates require source coverage and reconciled causal/entity infrastructure |
+| 2053 analysis begins before 2034 becomes a complete analytical object | Independent stack states; mandatory 2034 narrative, literary, character, promoted-subject, AV, and completion release before any 2053 semantic admission |
 | Dedupe erases contextual occurrence | Retain logical source, edition, owner, document and occurrence independently of bytes |
 | NULL document or candidate cue becomes certainty | Explicit unresolved state; no default-primary or single-candidate invention |
 | Stale authority or concurrent ledger overwrite | Verified complete current reads, targeted patches, version comparison and exact final audits |
@@ -369,9 +405,9 @@ The architecture can support bounded work without solving the entire story chron
 
 | Question | Current decision | When it must be resolved |
 | --- | --- | --- |
-| Exact ordering of prequels, side Main families, NANASUTA, and later-era crossings | Preserve native topology and candidate dependencies; first block is EP1.0 introduction | Before admitting a block whose prospective boundary depends on that order |
-| Exact Asterline/Roots./other 2053 interleaving | Separate line/state frontiers; no fan-order conversion into source chronology | Before cross-line chronology or knowledge transfer is asserted |
-| Primary confirmation of 0.7/5.0 era settings | Retain attributed secondary chronology with explicit confidence | Before those dates become load-bearing causal/model assumptions; use admitted native/official evidence |
+| Exact ordering of remaining 2034 side Main material and NANASUTA | Preserve native topology and candidate dependencies; finish the complete 2034 source and analytical release before 2053 | Before admitting a 2034 block whose prospective boundary depends on that order |
+| Exact Asterline/Roots./other 2053 interleaving | Keep 2053 semantic admission blocked until the 2034 era audit passes; then establish separate 2053 line/state frontiers with no fan-order conversion into source chronology | In the first 2053 prerequisite audit, before any 2053 semantic consumption or cross-line knowledge transfer |
+| Primary confirmation of 0.7/5.0 era settings | Native 0.7 date cards and the Episode 5.0 festival report now confirm the load-bearing 2031/2032 and 2043 anchors; menu-group labels remain non-diegetic topology | Reopen only if a later source materially contradicts or narrows those anchors |
 | Completeness/version of the 215 lyric entries and matching recordings | Treat each as game-master wording; no studio/full-performance equivalence | At the first edition-sensitive lyric/music claim |
 | Ambiguous display/native identities across eras and card variants | Preserve unresolved routes and separate states | Before an affected character model or cross-era claim is promoted |
 | General production resolver | Documented query adapter and bounded-packet verification are the bootstrap route; no new service required | Revisit only when operational retrieval needs exceed verified queries |
@@ -389,8 +425,11 @@ Opening also requires a bounded prerequisite decision for the proposed first pac
 
 OPEN establishes architectural readiness. It does not start reading or expand execution authorization. A later single-block request consumes only its exact admitted source range and closes the entire reading/state/claim/coverage transaction before naming the next candidate. Continuous execution requires an explicit bounded continuation scope. Completed visual/voice reviews and mature monographs are later promotion obligations, not prerequisites for opening this initiation gate.
 
+The initialization lock and a major-story-structure transition gate answer different questions. The former permits sequential work inside the established project; the latter controls whether a new top-level story structure may be semantically entered. While `T7S_STACK_2034` remains below `ERA_RELEASE_COMPLETE`, `T7S_STACK_2053` must remain `BLOCKED_PENDING_2034_ERA_RELEASE` even though the project-wide sequential lock is open. Only the audited transition defined above can make 2053 eligible for its own prerequisite decision.
+
 ## Revision history
 
 - 2026-09-09 — V1 / 1.0: implement approved design 1.1, including independent monograph maturity, thirteen bootstrap files and meaningful zero-finding ledgers. Gate state and exact validation are owned by the bootstrap record and current entrypoint.
 - 2026-09-09 — V1 / 1.1: add the bounded opening-prerequisite criterion and OPA-0001 route; preserve independent source-recovery, readiness and execution-authorization requirements.
 - 2026-09-10 — V1 / 1.2: after complete EPISODE 1.0 closeout and a controlled synthesis-length test, add optional `arc_deep_reading` promotion for sustained horizon-bounded whole-arc literary/formal interpretation; preserve compact narrative-synthesis, ledger, bounded-reading and longitudinal specialist ownership, require the narrative synthesis as publication prerequisite, and prohibit promotion by length alone.
+- 2026-09-12 — V1 / 1.3: recognize the native 2034 and 2053 Main groupings as independently completed major story structures; require a full 2034 narrative/literary, declared-character, multimodal, promoted-subject, and completion-audit release before any 2053 semantic admission; reserve era-level artifact homes; preserve metadata-only 2053 reconnaissance and later evidence-typed cross-era bridges without allowing future knowledge to rewrite the frozen 2034 horizon.
