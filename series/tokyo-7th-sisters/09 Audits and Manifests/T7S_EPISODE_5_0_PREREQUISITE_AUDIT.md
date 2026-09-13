@@ -4,7 +4,7 @@ artifact_id: T7S_EPISODE_5_0_PREREQUISITE_AUDIT
 artifact_type: prerequisite_audit
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 decision: PASS
 scope: "Selection and evidence-isolation audit for native Main EPISODE 5.0 -Fall in Love- / layer 200090"
@@ -13,7 +13,7 @@ witness_id: T7S_GAME_OFFLINE_JA_R484
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: 2026-09-12
-last_updated: 2026-09-12
+last_updated: 2026-09-13
 ---
 
 # EPISODE 5.0 prerequisite audit
@@ -67,7 +67,7 @@ No load-bearing prerequisite requires an unconsumed Sub/Event episode, unrelated
 
 ## Source binding
 
-The evidence database was rehashed at `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87` and opened with `mode=ro&immutable=1`, `query_only=ON`, and `temp_store=MEMORY`. The derived master-data SQLite used for the bounded row cross-check has SHA-256 `f03f256694e9c951d4b58879952a3443dd8ba87b8e30632370e9c5646a9a7400`; native master authority remains the hashes in [T7S_SOURCE_LOCK.json](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json), not this convenience projection.
+The evidence database was rehashed at `1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87` and opened with `mode=ro&immutable=1`, `query_only=ON`, and `temp_store=MEMORY`. The derived master-data SQLite used for the bounded row cross-check has SHA-256 `4471a3d66129100b7632d8d7190f0b677e9cc78a727336d661b76430348d1699`; native master authority remains the hashes in [T7S_SOURCE_LOCK.json](../01%20Sources%20and%20Chronology/T7S_SOURCE_LOCK.json), not this convenience projection.
 
 Primary source SHA-256 values to verify during packet construction are:
 
@@ -87,3 +87,4 @@ The decision is `PASS`. The owner-authorized operation may read all six primary 
 ## Revision history
 
 - 2026-09-12 — V1 / 1.0: admit the complete six-episode EPISODE 5.0 family after exact family, source-order, recommendation-order, database-binding, and boundary checks; preserve all fictional findings for the subsequent reading transaction.
+- 2026-09-13 — V1 / 1.1: correct the derived master-data SQLite SHA-256 to the verified external-build value; the original Episode 5.0 selection decision, source authority, and literary boundary are unchanged.
