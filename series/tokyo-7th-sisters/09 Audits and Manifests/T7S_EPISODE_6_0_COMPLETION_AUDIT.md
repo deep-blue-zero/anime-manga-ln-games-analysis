@@ -4,7 +4,7 @@ artifact_id: T7S_EPISODE_6_0_COMPLETION_AUDIT
 artifact_type: completion_audit
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 decision: PASS
 scope: "Complete native Main EPISODE 6.0 FINAL -Someday, I'll walk on the Rainbow...- family / layer 200100"
@@ -98,8 +98,9 @@ No readiness level or character monograph is promoted. Existing `READY-0001–RE
 
 EPISODE 6.0 closes Dream★Age's immediate capture: Gotoda refuses the chairman's final command, the captives are released, eleven members publicly refuse a false live, Haru returns, and 777☆SISTERS performs only after restoring the missing participant and the right not to perform. Nanasta regains independence and expands its support structure. The ending does not resolve Dream★Age's legal fate, accountability or remedies; the chairman's outcome; Gotoda's repair; the group's permanent future; Haru's medical prognosis; or Nanasta's ownership, contracts, pay, privacy, safeguarding, and durable decision procedures.
 
-The next unopened Main family inside `T7S_STACK_2034` is EPISODE NANASUTA, layer `200120`, beginning with metadata-only episode `611100101` at recommendation rank 179. No EPISODE NANASUTA literary page, unrelated non-Main/additional story, or 2053 semantic source was opened. There is no authorized next story operation after this closeout, and 2053 remains blocked pending the complete audited 2034-era release.
+At this audit's original close, EPISODE NANASUTA was correctly identified as the next unopened Main family inside `T7S_STACK_2034`, layer `200120`, but its first episode was routed incorrectly. Post-close verification establishes that `611100101` / recommendation rank 179 is already-consumed EPISODE 3.0 family `200070`; the actual NANASUTA boundary begins at `1013100101` / rank 219. This erratum changes no Episode 6.0 finding, source range, or PASS decision and reconsumes no source. At the Episode 6.0 close, no NANASUTA literary page, unrelated non-Main/additional story, or 2053 semantic source had been opened; 2053 remained blocked pending the complete audited 2034-era release.
 
 ## Revision history
 
 - 2026-09-13 — V1 / 1.0: certify the complete seven-episode EPISODE 6.0 family after exact source, occurrence, packet, chronology, coverage, cumulative-state, deletion, modality, readiness, and frontier checks; retain performed-audio, safeguarding, accountability, governance, and later-source bounds.
+- 2026-09-13 — V1 / 1.1: correct only the post-close NANASUTA route from already-consumed EPISODE 3.0 episode `611100101` / rank 179 to actual NANASUTA episode `1013100101` / rank 219; preserve every Episode 6.0 source, finding, limit, and PASS decision.

@@ -2,7 +2,7 @@
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "9.0",
+  "version": "10.0",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -27,7 +27,7 @@
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "T7S_B0001 through T7S_B0076 are admitted and closed for 218 native Main primary documents: complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, and EPISODE 6.0 FINAL through 1011100107, including every primary page, 87 attached AXiS/EPISODE 0.7/EPISODE 5.0/EPISODE 6.0 inline movie-transcript occurrences across 86 unique source documents, and all eleven authored choice branches in EPISODE 1.0; no EPISODE NANASUTA, other later Main, unrelated non-Main/additional, supplemental story, or 2053 semantic source is consumed",
+  "scope_admission": "T7S_B0001 through T7S_B0079 are admitted and closed for 235 native Main primary documents: complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA through 1013100306, including every primary page, 87 attached AXiS/EPISODE 0.7/EPISODE 5.0/EPISODE 6.0 inline movie-transcript occurrences across 86 unique source documents, and all eleven authored choice branches in EPISODE 1.0; no unconsumed non-Main/additional, supplemental story, or 2053 semantic source is consumed",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -105,7 +105,10 @@
       "T7S_B0073",
       "T7S_B0074",
       "T7S_B0075",
-      "T7S_B0076"
+      "T7S_B0076",
+      "T7S_B0077",
+      "T7S_B0078",
+      "T7S_B0079"
     ],
     "consumed_sources": [
       {
@@ -2072,10 +2075,28 @@
       {"episode_id":"1011100107","script_id":"vp_ep6_07_m04.json__e7f96aad46eb6ce1","document_ref":"inline_movie_transcripts/4","page_index":[0,32],"log_order_index":[2092,2124],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
       {"episode_id":"1011100107","script_id":"vp_ep6_07_m05.json__7f107ccbd031175d","document_ref":"inline_movie_transcripts/5","page_index":[0,22],"log_order_index":[2127,2149],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
       {"episode_id":"1011100107","script_id":"vp_ep6_07_m06.json__5341c73a29abc80f","document_ref":"inline_movie_transcripts/6","page_index":[0,0],"log_order_index":[2152,2152],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
-      {"episode_id":"1011100107","script_id":"vp_ep6_07_m07.json__5bc1f599d50d2985","document_ref":"inline_movie_transcripts/7","page_index":[0,0],"log_order_index":[2155,2155],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"}
+      {"episode_id":"1011100107","script_id":"vp_ep6_07_m07.json__5bc1f599d50d2985","document_ref":"inline_movie_transcripts/7","page_index":[0,0],"log_order_index":[2155,2155],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0076_DEEP_READING.md"},
+      {"episode_id":"1013100101","script_id":"ep2034_001_01.json__44fe713c41e7d31a","document_ref":"primary","page_index":[0,134],"log_order_index":[0,134],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100102","script_id":"ep2034_001_02.json__e4b4ffcdfbd6e432","document_ref":"primary","page_index":[0,83],"log_order_index":[0,83],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100103","script_id":"ep2034_001_03.json__af56b70570ddb055","document_ref":"primary","page_index":[0,70],"log_order_index":[0,70],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100104","script_id":"ep2034_001_04.json__6d67767f172c03ac","document_ref":"primary","page_index":[0,75],"log_order_index":[0,75],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100105","script_id":"ep2034_001_05.json__6ea6de08456eac86","document_ref":"primary","page_index":[0,134],"log_order_index":[0,134],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0077_DEEP_READING.md"},
+      {"episode_id":"1013100201","script_id":"ep2034_002_01.json__7392e3442e131d5d","document_ref":"primary","page_index":[0,21],"log_order_index":[0,21],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100202","script_id":"ep2034_002_02.json__55de5acfb7188b02","document_ref":"primary","page_index":[0,150],"log_order_index":[0,150],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100203","script_id":"ep2034_002_03.json__c37d13dd81379a7b","document_ref":"primary","page_index":[0,112],"log_order_index":[0,112],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100204","script_id":"ep2034_002_04.json__673fa6e01f3dd04d","document_ref":"primary","page_index":[0,69],"log_order_index":[0,69],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100205","script_id":"ep2034_002_05.json__db643a27865d4d98","document_ref":"primary","page_index":[0,83],"log_order_index":[0,83],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100206","script_id":"ep2034_002_06.json__62c03830e327b9aa","document_ref":"primary","page_index":[0,157],"log_order_index":[0,157],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0078_DEEP_READING.md"},
+      {"episode_id":"1013100301","script_id":"ep2034_003_01.json__a0cd015d030307b4","document_ref":"primary","page_index":[0,44],"log_order_index":[0,44],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100302","script_id":"ep2034_003_02.json__88e18d0c46092fc1","document_ref":"primary","page_index":[0,102],"log_order_index":[0,102],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100303","script_id":"ep2034_003_03.json__1972f8d20f337e10","document_ref":"primary","page_index":[0,94],"log_order_index":[0,94],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100304","script_id":"ep2034_003_04.json__03283170c87b3144","document_ref":"primary","page_index":[0,106],"log_order_index":[0,106],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100305","script_id":"ep2034_003_05.json__1a88a2d92699fe2e","document_ref":"primary","page_index":[0,141],"log_order_index":[0,141],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"},
+      {"episode_id":"1013100306","script_id":"ep2034_003_06.json__7b60c33a07974b17","document_ref":"primary","page_index":[0,76],"log_order_index":[0,76],"choice_scope":"NONE","canonical_artifact":"02 Readings/T7S_B0079_DEEP_READING.md"}
     ],
-    "next_candidate_episode_id": "611100101",
-    "next_candidate_native_chapter_layer_id": 200120,
+    "next_candidate_episode_id": null,
+    "next_candidate_native_chapter_layer_id": null,
+    "next_candidate_status": "NONE_WITHIN_ADMITTED_2034_MAIN; 2053 semantic admission remains blocked pending complete audited 2034-era release",
     "authorized_story_boundary_complete": true
   },
   "collection_manifest": {
@@ -2087,7 +2108,7 @@
     "bytes": 5864910848,
     "schema": "t7s-query-index/1",
     "normalized_schema": "t7s-normalized-scenario/1",
-    "verification": "FULL_FILE_SHA256_MATCH_AT_BOOTSTRAP_AND_B0002_B0003_AND_B0003_CHAPTER_CLOSE_AND_B0004_CHAPTER_CLOSE_AND_B0005_CHAPTER_CLOSE_AND_B0006_CHAPTER_CLOSE_AND_B0007_OPENING_PREFLIGHT_AND_B0007_CHAPTER_CLOSE_PREFLIGHT_AND_B0008_CHAPTER_CLOSE_PREFLIGHT_AND_B0009_CHAPTER_CLOSE_PREFLIGHT_AND_B0010_OPENING_PREFLIGHT_AND_EPISODE_1_0_CLOSE_PREFLIGHT_AND_EPISODE_4U_CLOSE_PREFLIGHT_AND_NEXT_TWO_UNITS_CLOSE_PREFLIGHT_AND_EPISODE_3_0_CLOSE_PREFLIGHT_AND_EPISODE_4_0_AXIS_CLOSE_PREFLIGHT_AND_EPISODE_0_0_CLOSE_PREFLIGHT_AND_EPISODE_0_7_CLOSE_PREFLIGHT_AND_EPISODE_5_0_CLOSE_PREFLIGHT_AND_EPISODE_6_0_CLOSE_PREFLIGHT"
+    "verification": "FULL_FILE_SHA256_MATCH_AT_BOOTSTRAP_AND_B0002_B0003_AND_B0003_CHAPTER_CLOSE_AND_B0004_CHAPTER_CLOSE_AND_B0005_CHAPTER_CLOSE_AND_B0006_CHAPTER_CLOSE_AND_B0007_OPENING_PREFLIGHT_AND_B0007_CHAPTER_CLOSE_PREFLIGHT_AND_B0008_CHAPTER_CLOSE_PREFLIGHT_AND_B0009_CHAPTER_CLOSE_PREFLIGHT_AND_B0010_OPENING_PREFLIGHT_AND_EPISODE_1_0_CLOSE_PREFLIGHT_AND_EPISODE_4U_CLOSE_PREFLIGHT_AND_NEXT_TWO_UNITS_CLOSE_PREFLIGHT_AND_EPISODE_3_0_CLOSE_PREFLIGHT_AND_EPISODE_4_0_AXIS_CLOSE_PREFLIGHT_AND_EPISODE_0_0_CLOSE_PREFLIGHT_AND_EPISODE_0_7_CLOSE_PREFLIGHT_AND_EPISODE_5_0_CLOSE_PREFLIGHT_AND_EPISODE_6_0_CLOSE_PREFLIGHT_AND_EPISODE_NANASUTA_CLOSE_PREFLIGHT"
   },
   "episode_catalog": {
     "artifact_id": "corpus:catalog/episodes.jsonl",
@@ -3085,7 +3106,84 @@
         "ep6_101006_01.json__103d9606d2ad8c45": "2cbace1ed9a442aef7d69bb9d9aef0d7d546f45a8692dcdae086af51eb4ae4d5",
         "ep6_101007_01.json__57f2c3c61f3fe5c1": "8408d0c01d52c85096275a46cfc77e12222bfce9e429b73c456b4a1e931db6a1"
       },
-      "boundary": "Exact, hole-free native Main EPISODE 6.0 FINAL family through episode 1011100107; all primary pages and 24 invoked inline movie-transcript occurrences across 23 unique source documents consumed; all 41 distinct bound movies sampled; no authored choices; EPISODE NANASUTA episode 611100101 at recommendation rank 179 remains metadata-only and unopened"
+      "boundary": "Exact, hole-free native Main EPISODE 6.0 FINAL family through episode 1011100107; all primary pages and 24 invoked inline movie-transcript occurrences across 23 unique source documents consumed; all 41 distinct bound movies sampled; no authored choices. Post-close routing correction: episode 611100101 is already-consumed EPISODE 3.0 family 200070, not EPISODE NANASUTA; the actual NANASUTA boundary begins at 1013100101 / recommendation rank 219"
+    },
+    "episode_nanasuta_close_verification": {
+      "checked_at": "2026-09-13T00:00:00-04:00",
+      "operation": "T7S_EPISODE_NANASUTA_CLOSE",
+      "database_sha256": "1bc0bf5d140e675554cf38ed4e3108be3c8c932c375c494bd29d3e4bb7b2ed87",
+      "database_mode": "mode=ro&immutable=1; PRAGMA query_only=ON; PRAGMA temp_store=MEMORY",
+      "derived_master_sqlite_sha256": "4471a3d66129100b7632d8d7190f0b677e9cc78a727336d661b76430348d1699",
+      "family_layer_id": 200120,
+      "native_chapter_layer_ids": [301180, 301220, 301260],
+      "native_category": "Main",
+      "recommendation_rank_range": [219, 235],
+      "source_order_index_range": [1239, 1255],
+      "episode_ids": ["1013100101", "1013100102", "1013100103", "1013100104", "1013100105", "1013100201", "1013100202", "1013100203", "1013100204", "1013100205", "1013100206", "1013100301", "1013100302", "1013100303", "1013100304", "1013100305", "1013100306"],
+      "primary_episodes_verified": 17,
+      "unique_primary_source_hashes_verified": 17,
+      "attached_inline_movie_transcripts_verified": 0,
+      "primary_document_pages_verified": 1668,
+      "attached_transcript_pages_verified": 0,
+      "flattened_episode_pages_verified": 1668,
+      "text_pointers_verified": 1247,
+      "command_only_pages_verified": 421,
+      "native_voice_reference_pages_verified": 989,
+      "authored_choice_groups_verified": 0,
+      "coverage_records_reconciled": 17,
+      "canonical_deep_readings": 3,
+      "arc_era_syntheses": 1,
+      "arc_deep_readings": 1,
+      "selected_character_composites_verified": 17,
+      "selected_backgrounds_verified": 9,
+      "distinct_bound_movie_assets_sampled": 0,
+      "bounded_packet_sha256": "861d8b47370267d56cb20450ca8ee224ec66fde0e9115b4dd17a5c5f0698e8bc",
+      "bounded_packet_receipt_sha256": "9ee3f9735276903a716a10ace5842be97108c111af0cc879a2806726e1b638cc",
+      "dialogue_export_sha256": "7eacc3b5d1ca24ec1c322a0a2b1eca6efc6bc09635505ed115c7fd88f0a83db6",
+      "visual_reconstruction_receipt_sha256": "774eb4367aa73843163016425834376a077fb9174df217f9a86a997e00c7f3ce",
+      "character_contact_sheet_sha256": "11751e0c4ea7e7f2bd68e0d18ee3c3840557c5487787b682dda1bda3d9de9b54",
+      "background_contact_sheet_sha256": "46ec56a91f5f79b9017907385c63b3a73deb7335767570377eebcb5150f08db7",
+      "face_position_artifact_sha256": "99efbf5def485478cfef6a6069a2396373141be36ae5781587d2ceaa4eb2fbbf",
+      "source_sha256_by_script": {
+        "ep2034_001_01.json__44fe713c41e7d31a": "3f4d24b7b5a81a41fc36f68b0758b479cd161f5f085b657dfdc82b86deb701f0",
+        "ep2034_001_02.json__e4b4ffcdfbd6e432": "fe35e0115b6a3ae8653e5bde9fd17eee37d17cd0bba20c36ffc8a71cbf2716a3",
+        "ep2034_001_03.json__af56b70570ddb055": "8a0fada96cd9df30645639a78b3d3a5c3770884ef42684565c52e01480053532",
+        "ep2034_001_04.json__6d67767f172c03ac": "a4fc8221050670efa7c65a865d43f07af50e502a72d3ef1ad9bd09d2423e2eec",
+        "ep2034_001_05.json__6ea6de08456eac86": "c420e54f5e71abd5f15a8ee702e2f9710ca0dff4a59c0eda7891e17220a6ba72",
+        "ep2034_002_01.json__7392e3442e131d5d": "18879605663a6fff637b71b7fbf261b899d8ecbefa496f8e9cb79c852c5fa568",
+        "ep2034_002_02.json__55de5acfb7188b02": "fcbb86b4c694c53379f4a40f449b8e8f0c4be1904e15becc9bcd63ea8b5a78bc",
+        "ep2034_002_03.json__c37d13dd81379a7b": "a791c2e23159bd24c6c7a98f7277a1db6af4077d017ed4825cdbf7d2bc8b8544",
+        "ep2034_002_04.json__673fa6e01f3dd04d": "e333f286ee55efd3e25ab7172fde023529364f82322ca3eab36668d0b0fa9aeb",
+        "ep2034_002_05.json__db643a27865d4d98": "5fe544d4732e3ab98df241dab329408f5d4ad66b8d0173463fa3278c84b98148",
+        "ep2034_002_06.json__62c03830e327b9aa": "889b7882310b1df70daf7ea923a814c2a67030db4f1621d596dcd70aa9b63808",
+        "ep2034_003_01.json__a0cd015d030307b4": "4a4ea863f48a9fcbd1c9d214a16a8d6a9783dd1adff86d5f9de2edbfc7f8d8ff",
+        "ep2034_003_02.json__88e18d0c46092fc1": "de320f8000c0589a6d16b52186d3bf1822b5df343b117d428ce0103a2974cb69",
+        "ep2034_003_03.json__1972f8d20f337e10": "3b1633a69b54f2041c9c846387e30e032ae3d57cec59075ab209989cf5cf44fc",
+        "ep2034_003_04.json__03283170c87b3144": "72889400c8fc15dc871eb6bbca081e6b3e69280d55b2437c23b65d046ebaf59e",
+        "ep2034_003_05.json__1a88a2d92699fe2e": "db9816e59b44e84a5b068bbd92bd2cce437ab332a8136c7dfb48c6a3358ae640",
+        "ep2034_003_06.json__7b60c33a07974b17": "237bdb97a35b10f7fb7a8b0d21c6cf4c958157631b5dbd95222ba22cf3ca053b"
+      },
+      "normalized_sha256_by_script": {
+        "ep2034_001_01.json__44fe713c41e7d31a": "d4c80c4ba9b8a0574f385a230a8fd449cd70aa12822c924da3598574b2f44361",
+        "ep2034_001_02.json__e4b4ffcdfbd6e432": "3096c85f4b247ffab1732fe9f2234f2259430b3f2b9cb2571722fb7325ccf71c",
+        "ep2034_001_03.json__af56b70570ddb055": "ee1164de5a747cfcdce514e17f8c9dbee56536a2fc1815e38b0e191b24f577d7",
+        "ep2034_001_04.json__6d67767f172c03ac": "033734e6a1130ccfdc80fb65172b0b5238bee1c358456c6ef4ba71eb7fbbd082",
+        "ep2034_001_05.json__6ea6de08456eac86": "9b55ebc3e270ba9476e09e64953f70da11d567acd8839b4fcc975cdb85dddf82",
+        "ep2034_002_01.json__7392e3442e131d5d": "ce7d560c23f16bb2b10e85a67ba73e150bde5e02a0c481a48b2ee05bcc746905",
+        "ep2034_002_02.json__55de5acfb7188b02": "3dbf07cec63a544859db36e49aec4721519309bb0236d98eb36640d8a47aabe0",
+        "ep2034_002_03.json__c37d13dd81379a7b": "467a1aef8926bfbfebb69d6bbd47a9331ac29bfe64afbb24866d612728fdbf64",
+        "ep2034_002_04.json__673fa6e01f3dd04d": "7e8231f377008c0041ee1b3477dc799eb6fb62c465e26dcdda6c7e1b4bc2570d",
+        "ep2034_002_05.json__db643a27865d4d98": "8cc9eef329533daac3aaeff9f9e8eb30fbe96d13551389f7f1b76e1c0f990788",
+        "ep2034_002_06.json__62c03830e327b9aa": "221bec95bde24d7451c5126a24fb85019e0ab255b247e20a9ab7cb38441f080a",
+        "ep2034_003_01.json__a0cd015d030307b4": "c98dae783e46fa009871d0bd636ef88fe8160e30f53caa676a2d4264fad94e83",
+        "ep2034_003_02.json__88e18d0c46092fc1": "ce64a9993f80e11004fd8e85c49cbe7e3d87ca22f7f24cd0ac642f20ce68aa2a",
+        "ep2034_003_03.json__1972f8d20f337e10": "53c73c4c701f08cd39d81508c0712a8969f04033dc1f45adda3bbd14e522920e",
+        "ep2034_003_04.json__03283170c87b3144": "0150eb2e6d418ba87b949160de3c9c301ea8e63fa3566c6aad0a3d4e02876d22",
+        "ep2034_003_05.json__1a88a2d92699fe2e": "e8e6b40c6a786dd08710b21f43a7634b0b34111f758c267be5a6d27cc26c66e6",
+        "ep2034_003_06.json__7b60c33a07974b17": "baed1db0712cca396006ffd6096d422dbb28509a1155f7eb22117ac5a56d240f"
+      },
+      "routing_correction": "The prior candidate 611100101 is already-consumed EPISODE 3.0 family 200070. NANASUTA is 1013100101 through 1013100306 at recommendation ranks 219–235; no source was reconsumed.",
+      "boundary": "Exact, hole-free native Main EPISODE NANASUTA family through episode 1013100306; all 1,668 primary pages consumed; no inline movie transcript or authored choice; all eleven admitted 2034 Main families now complete; no further series-100020 candidate exists and every 2053 semantic source remains blocked"
     },
     "selected_media_recovery": [
       {
@@ -3112,7 +3210,7 @@
   },
   "limits": [
     "Extraction completeness is not analytical, listening or visual-review completeness",
-    "At source-lock version 9.0, the exact 218-primary-document horizon comprising complete native Main through EPISODE 6.0 FINAL episode 1011100107 plus 87 attached AXiS/EPISODE 0.7/EPISODE 5.0/EPISODE 6.0 inline movie-transcript occurrences across 86 unique source documents is the sole consumed story horizon; EPISODE NANASUTA and every other later Main episode plus all Sub/Event, unrelated additional, supplemental, and 2053 semantic sources remain unconsumed",
+    "At source-lock version 10.0, the exact 235-primary-document horizon comprising all eleven admitted 2034 native Main families through EPISODE NANASUTA episode 1013100306 plus 87 attached AXiS/EPISODE 0.7/EPISODE 5.0/EPISODE 6.0 inline movie-transcript occurrences across 86 unique source documents is the sole consumed story horizon; all unconsumed non-Main/additional, supplemental, and 2053 semantic sources remain unconsumed",
     "Repeated decoded hashes preserve distinct logical occurrence identities",
     "Unresolved/compound speakers and unbound media documents remain unresolved",
     "No full franchise, anime, live, studio-recording or complete lyric-edition admission is implied"
