@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: remediation_execution_inventory
 source_boundary: "Locked Japanese V01–V11 plus story-local V06.5/V08.5; no later source admitted"
-generation: V2.6
+generation: V2.7
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -16,9 +16,9 @@ execution_reasoning_control: Max
 
 ## 0. Current task boundary
 
-The owner first limited this work to identifying the analytical spine, then expressly authorized **R01–R03 and their upstream publication**. Those three tasks are now complete under the [longitudinal reconciliation audit](TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md). Literary authoring was reserved for a separate session. The owner subsequently supplied Fumiya’s and Hinami’s monographs and authorized repository integration. The [Fumiya review](TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami review](HINAMI_AOI_R04_INTEGRATION_REVIEW.md) pass both individual R04 responsibilities. R04 is complete at that pair’s scope. The owner subsequently supplied Kikuchi’s monograph for integration; its [review](KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) accepts her individual R05 role. R05 remains partial pending Mimimi; R06–R11 and R12’s literary release responsibility remain unfinished. No new source material is admitted.
+The owner first limited this work to identifying the analytical spine, then expressly authorized **R01–R03 and their upstream publication**. Those three tasks are now complete under the [longitudinal reconciliation audit](TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md). Literary authoring was reserved for a separate session. The owner subsequently supplied Fumiya’s and Hinami’s monographs and authorized repository integration. The [Fumiya review](TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami review](HINAMI_AOI_R04_INTEGRATION_REVIEW.md) pass both individual R04 responsibilities. R04 is complete at that pair’s scope. The owner subsequently supplied Kikuchi’s monograph for integration; its [review](KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) accepts her individual R05 role. The owner then supplied Mimimi’s monograph; its [review](NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) accepts the second R05 role and completes that pair. R06–R11 and R12’s literary release responsibility remain unfinished. No new source material is admitted.
 
-This inventory retains the original remaining-work identities and baseline deficiencies for continuity. The architecture and corpus map govern responsibility/readiness; the new audits record the actual R01–R03 source checks, correction propagation and bounded PASS. Sections 2–4 preserve the earlier dependency assessment, while §6 supplies current execution status, including the later R04 pair and Kikuchi R05 integrations.
+This inventory retains the original remaining-work identities and baseline deficiencies for continuity. The architecture and corpus map govern responsibility/readiness; the new audits record the actual R01–R03 source checks, correction propagation and bounded PASS. Sections 2–4 preserve the earlier dependency assessment, while §6 supplies current execution status, including the later R04 and R05 pair integrations.
 
 ## 1. Audited resumption baseline
 
@@ -132,7 +132,7 @@ The historical authored staging allowlist for the completed identification tranc
 1. `series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md` — new inventory and handoff only.
 2. `series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md` — a targeted link and task-boundary notice; no readiness promotion or substantive literary correction.
 
-No global character-registry/index or housekeeping-owned output is assigned to this author. Existing curated Tomozaki records point to the preserved effort spine; new discovery may lag under repository policy.
+No global character-registry/index or housekeeping-owned output is assigned to this author. At the identification baseline, existing curated Tomozaki records pointed to the preserved effort spine; later curation is recorded in §6.4. Discovery remains independently governed and may lag under repository policy.
 
 ## 6. Current execution receipt and handoff
 
@@ -144,7 +144,7 @@ R01–R03 began at `c20fa4359e34d549da3514a6106cda1756c1a962`; the initial fetch
 | R02 | **PASS.** ESC-01–ESC-12 have exact locked witnesses, member/paragraph routes, diagnostic wording, attributed adjudication and independent context review; 49 locator records and 92 paragraph-specific diagnostics verified. Story uncertainty is not discharged. |
 | R03 | **PASS at declared scope.** Twenty-four JVL rows cover seven principals through state, recipient, layer and exact-source controls. No complete habitual voice model is claimed. |
 | R04 | **PASS at the two-monograph scope.** Fumiya passes under the [Fumiya review](TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md); Hinami passes under the [Hinami review](HINAMI_AOI_R04_INTEGRATION_REVIEW.md). Both remain mutable literary authority at the V11 boundary. |
-| R05 | **PARTIAL.** Kikuchi passes her individual literary role under the [Kikuchi review](KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md); Mimimi remains unfinished. |
+| R05 | **PASS at the two-monograph scope.** Kikuchi passes under the [Kikuchi review](KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md); Mimimi passes under the [Mimimi review](NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md). Both remain mutable literary authority at the V11 boundary. |
 | R06–R09 | **RESERVED literary work remains unfinished.** Tama/Mizusawa/Yuzu require role adjudication and backfill; relationship/thematic specialists remain unfinished. |
 | R10–R11 | **CLOSED.** Cross-specialist convergence and full-series revision depend on the deferred literary work. |
 | R12 | **PARTIAL SUPPORT ONLY.** This tranche updates current routing, records its path/preservation manifest, and requires repository publication checks. It does not complete the future whole-corpus literary validation/release responsibility. |
@@ -152,6 +152,8 @@ R01–R03 began at `c20fa4359e34d549da3514a6106cda1756c1a962`; the initial fetch
 Current completion evidence is the [longitudinal reconciliation audit](TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md), [targeted source-locator audit](TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md), and [voice ledger](../03%20Longitudinal%20Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md). The exact authored allowlist and baseline preservation hashes for this execution are in [TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json](TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json); the earlier two-path allowlist in §5 is historical.
 
 Acceptance requires independent semantic review, verified correction propagation, preserved source-facing and literary candidates, valid links/routing, applicable staged-tree validators, normal push, successful source audit, completed housekeeping and successful exact-head integration status. Publication checks remain separate from the analytical PASS; CI cannot promote the deferred literary roles. The later session must read the successful reconciliation and actual cumulative evidence before writing any monograph or synthesis.
+
+The dated integration subsections below preserve each tranche’s historical acceptance and next-action state. The table above governs current task status; later receipts do not rewrite earlier scope declarations.
 
 ### 6.1 Later Fumiya-only R04 integration
 
@@ -172,3 +174,13 @@ The owner supplied Kikuchi’s expansion and handoff after the R04 pair’s publ
 Character-state §8.6, effort §78.5 and voice §5.1 receive bounded evidence on earlier agency, ordinary life, authorial responsibility and Haruka’s participation. The relationship owner already preserves the relevant early agency/Christmas state and remains unchanged. Both reviewed R04 monographs, their receipts and all prior cumulative additions survive. The [Kikuchi integration review](KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) and [ten-path manifest](KIKUCHI_FUKA_R05_PATH_AND_VALIDATION_MANIFEST.json) bind the new delta.
 
 Only Kikuchi’s R05 responsibility passes. Mimimi, R06–R09, R10 convergence, R11 drafting and whole-corpus R12 release remain unfinished; no derived-model gate opens. Publication checks attach to the exact resulting commit and remain distinct from this literary acceptance.
+
+### 6.4 Later Mimimi R05 integration and pair completion
+
+The owner supplied Mimimi’s expansion and handoff against author baseline `733e03ce27da9c255011fdac3114978c16bcac3f`. Fetch found main advanced to `a825ec0539deacfb9fe795181d8cd00222759cd2` through curation-only changes; the integrating branch reconciled that main at `54a4955f331b420bc911f8b170d9325a381e6032` before analytical edits. Mimimi’s before-image retained blob `cc42d1eed3b8fbdae5daa508a66766de485988a8`. Independent literary and primary review accepts her §7.3 responsibility, completing R05 with Kikuchi.
+
+The [Mimimi integration review](NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) records the exact source checks, local corrections and affected cumulative routes. The bounded enrichment preserves ordinary-life and process value, role loss, comparative self-worth and costly care. V09’s roughly week-long separation is followed by an actual resumed walk; forceful initiation remains distinct from later agreement to continue brief leaning. Mimimi’s partial affirmative self-regard is preserved alongside continuing vulnerability. Her report of a recent Kikuchi conversation establishes partial knowledge for Tomozaki without certifying the precise V08.5 scene identity or transferring all its private contents. Current contradictory shorthand is narrowly corrected; earlier source-facing states, stable cumulative identities and prior R04/R05 receipts remain intact.
+
+The [path and validation manifest](NANAMI_MINAMI_R05_PATH_AND_VALIDATION_MANIFEST.json) binds this authored delta and its preservation checks. Main’s independently governed catalog now discovers seven subjects: the earlier Tomozaki/Hinami/Mimimi effort records and four dedicated provisional-study records for Kikuchi/Tama/Mizusawa/Yuzu. That curation scope does not certify the separate local literary-role decisions; catalog-status review remains with the designated curation agent, and this author has no global catalog write responsibility.
+
+R04 and R05 now pass at their respective two-monograph scopes. Tama, Mizusawa and Yuzu remain provisional for R06 adjudication; R07–R09 specialists, R10 convergence, R11 drafting and whole-corpus R12 release remain unfinished. Mimimi’s illustrative scenarios confer no derived-model authority. Publication checks attach to the exact resulting repository commit and remain distinct from literary acceptance.

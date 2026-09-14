@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus story-locally routed Volumes 06.5 and 08.5"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.1
+generation: V1.2
 status: canonical
 release_state: mutable_active
 governing_method: ../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md
@@ -480,6 +480,8 @@ Frozen anchors:
 
 **Counterevidence and limit.** Local restraint is not a complete definition of wrongdoing or an indefinite duty of self-denial. The corpus does not establish whether love ends, changes form, or governs a future action.
 
+**R05 source precision — STRENGTHEN local development / PRESERVE open policy.** The [Mimimi integration review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) and [NM-P27–28](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md#nm-p27) preserve the quoted V09-C08 anchor and REC-14 at their initial window. Locked V09 `text/part0029.html` P122 establishes about a week of separate walks; P137–142 then shows an actual resumed private walk, initiated by Mimimi despite Tomozaki's initial protest. P174 directly voices liking the self who continues to love him despite nonreciprocation. This strengthens partial affirmative self-regard without proving global or durable stabilization. In `text/part0031.html` P18–19 he agrees to brief continuation of already begun leaning, not advance contact or standing access. The intervention matters, but P24–113 does not give him a complete relationship solution. Neither permanent abstention nor complete ethical governance follows.
+
 **Owners.** Relationship ledger; Tomozaki–Mimimi specialist; Mimimi monograph.
 
 ### CRI-TAM-001 — Tama changes interface while preserving evaluative authorship
@@ -658,6 +660,8 @@ Frozen anchors:
 - `V11-C37` — “The friend network repairs the student-council event and is proposed as a narrative party, showing durable chosen ties without restoring assigned group centrality.” (`STRENGTHEN chosen network / reject assigned-center equivalence`; DR11 §8)
 
 **Counterevidence and limit.** Network durability does not mean every relation is equally intimate, every member shares all information, or group action is consensual toward its target.
+
+**R05 knowledge qualification.** In the V09 resumed-walk context, Mimimi tells Tomozaki that she recently spoke with Kikuchi and reports shared reasons for liking him (`text/part0029.html` P233–239; NM-P27 and the review linked under CRI-MIM-003). Blanket continuing ignorance of any such conversation is therefore too broad. The exact identity of the V08.5 café scene, knowledge of the specific confession disclosure, and complete private contents remain unestablished. Relationship §14.6 owns the directional correction; neither a shared group ledger nor retroactive knowledge at the interstitial horizon follows.
 
 **Owners.** Relationship ledger; character monographs; peer-group and social-atmosphere specialists.
 
@@ -889,3 +893,5 @@ V1.0 is the first corpus-wide claim/revision/evidence crosswalk after completion
 
 
 V1.1 (2026-09-13) is the R01–R03 reconciliation. It retains every corpus identity, local quoted anchor, promoted manifest, and coverage count; connects all twelve queues to independently reviewed exact-source evidence; corrects mixed-person retrospective and unspoken-qualification attribution; retains the school-year tension; distinguishes an earlier confession from an unshown renewed one; narrows phone-disconnect agency; and routes the co-developed punishment formulation and teacher-question counterevidence. Claim resolution remains separate from retrieval completion. The six-owner audit records the surviving and abandoned formulations and the limited readiness change.
+
+V1.2 (2026-09-13) adds bounded Mimimi R05 source precision to CRI-MIM-003 and CRI-REL-006: temporary restraint, an observed resumed walk, partial affirmative self-regard, local contact agreement, and partial conversation knowledge. All claim identities, frozen anchor quotations, promoted manifests, coverage counts, original reconciliation decisions, and prior integration receipts remain unchanged. The new review owns this propagation check; no broader maturity or synthesis gate is promoted here.

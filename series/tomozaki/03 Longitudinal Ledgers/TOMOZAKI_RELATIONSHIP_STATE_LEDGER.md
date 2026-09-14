@@ -4,7 +4,7 @@ artifact_type: longitudinal_relationship_state_ledger
 scope: JP_LIGHT_NOVEL_V01-V11_PLUS_STORY_LOCAL_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus explicitly routed side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
 analytical_generation: V2_REMEDIATION
-generation: V1.3
+generation: V1.4
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -137,7 +137,7 @@ This matrix is a router into the detailed histories below, not a substitute for 
 | **Mimimi ↔ Tama** | Mutually regulative friendship: non-comparative recognition, humor, access, protection, and hidden care operate in both directions. | Each can over-assume responsibility for the other's self-worth or safety; durability under a new equivalent crisis is untested. | HIGH |
 | **Tomozaki ↔ Mizusawa** | Reciprocal friendship, correction, skill exchange, shared projects, and trusted private discussion. | Their trust becomes the vehicle for an unauthorized Hinami disclosure. Serious motive does not cure the consent defect. | HIGH |
 | **Tomozaki ↔ Rena** | Tomozaki has verbally refused sex, removed unwanted touch, and later receives Kikuchi's direct support in defending the relationship boundary. | Rena repeatedly escalates after narrow limits; Tomozaki continues some contact; no general contact, age, sexual, or relationship boundary is shown to have been accepted by Rena. | HIGH |
-| **Kikuchi ↔ Mimimi** | Each knows Mimimi's love; Mimimi discloses it, Kikuchi respects feeling without surrendering her partnership, and both show restraint. | Tomozaki does not know their V08.5 conversation occurred; no complete three-person rule or costless friendship state is established. | HIGH / bounded |
+| **Kikuchi ↔ Mimimi** | Each knows Mimimi's love; Mimimi discloses it, Kikuchi respects feeling without surrendering her partnership, and both show restraint. | By V09 Tomozaki hears Mimimi report a recent conversation with Kikuchi and shared reasons for liking him. Its exact identity with the V08.5 scene and full content transfer remain unestablished; no complete three-person rule or costless friendship state follows (§14.6). | HIGH / bounded |
 | **Peer network → Hinami** | Friends preserve student-council work, hold differentiated knowledge, and are proposed as a distributed narrative “party.” | Distributed interpretation corrects monopoly but does not create subject participation, permission, a stopping rule, or success. | HIGH on proposal; OPEN on execution |
 
 Two negative controls are essential. First, “Hinami is absent” does not mean the relationships have ceased; accumulated care, work, and conflict continue to organize action. Second, “the group cares” does not mean the group owns Hinami's history or recovery.
@@ -320,7 +320,7 @@ V08 preserves mutual bids. Kikuchi repeatedly asks for time, touch, knowledge, a
 
 Rena introduces a second failure. Tomozaki refuses sex and does not accept her invitation, but experiences attraction, keeps the call secret, and tells Kikuchi that Rena is merely someone met once. When Rena's notification references sexual conversation, it reveals not an affair but a materially incomplete disclosure. Kikuchi's handholding and questions are genuine agency, but she often apologizes for wanting information and substitutes reassurance-seeking for an explicit boundary. The V08 endpoint is an unprocessed breach.
 
-V08.5 Unit 3 is placed earlier than that crisis. Mimimi tells Kikuchi about her confession and continuing love. Kikuchi knows a fact Tomozaki did not give her, respects Mimimi's feeling, and does not surrender her relationship. Tomozaki does not know that conversation occurred. This asymmetry must not be projected into V08 dialogue as if all actors share one ledger.
+V08.5 Unit 3 is placed earlier than that crisis. Mimimi tells Kikuchi about her confession and continuing love. Kikuchi knows a fact Tomozaki did not give her, respects Mimimi's feeling, and does not surrender her relationship. At that interstitial horizon, Tomozaki is not shown knowing that conversation occurred. This asymmetry must not be projected into V08 dialogue as if all actors share one ledger; the later V09 report changes his information without establishing exhaustive transfer or exact scene identity (§14.6).
 
 #### Phase E — repair, false self-amputation, and mutual reselection (V09)
 
@@ -344,7 +344,7 @@ Her fiction later reaches Tomozaki when direct reassurance cannot. He apologizes
 |---|---|---|
 | **desired relation / end** | Explicitly selected and reselected romantic partnership; wants shared time, literary collaboration, and a future built through practice. | Explicitly chooses Tomozaki as boyfriend without requiring him to erase his other important ties; wants intimacy, information, time, and coauthored meaning. |
 | **standing** | Boyfriend, first reader/editorial interlocutor, peer-world bridge, and collaborator in the prospective Hinami-facing story. | Girlfriend, writer, interpreter, boundary speaker, and increasingly independent member of his broader networks. |
-| **knowledge** | Knows her writing ambition, habitat history in outline, jealousy, fear, desire, and ethical uncertainty. Does not know the V08.5 Mimimi/Kikuchi conversation occurred. | Knows Mimimi confessed and continues to love him; knows the NO NAME/coaching history with permission; knows Hinami is exceptionally important; knows enough of Rena and Tomozaki's conduct to object, but exhaustive disclosure is not established. |
+| **knowledge** | Knows her writing ambition, habitat history in outline, jealousy, fear, desire, and ethical uncertainty. By V09 also hears Mimimi report a recent Kikuchi conversation and their shared reasons for liking him; exact V08.5 scene identity and full disclosure remain unestablished (§14.6). | Knows Mimimi confessed and continues to love him; knows the NO NAME/coaching history with permission; knows Hinami is exceptionally important; knows enough of Rena and Tomozaki's conduct to object, but exhaustive disclosure is not established. |
 | **disclosure** | Progresses from honesty reset to naming his own jealousy, Hinami priority, errors, and apologies. Earlier Rena disclosure was materially incomplete; no evidence closes every omitted detail. | Progresses from indirect artifacts and apologetic questions to direct jealousy, anger, hurt, choice, and refusal. Fiction remains both disclosure medium and interpretive construction. |
 | **trust / reliance** | Entrusts her with intimate history, creative collaboration, and entry into his peer/family/game worlds. Risk: treats her willingness as renewable capacity. | Entrusts him with drafts, private ideals, fear, and selection. Relies on him without accepting that dependence makes her love invalid. |
 | **leverage** | Controls access to some networks and information; his broader social commitments create allocation power and cost. | Her interpretation and fiction can reorganize his perspective when direct speech fails. That communicative power does not make her account omniscient. |
@@ -395,7 +395,7 @@ V08 shows Mimimi continuing friendship and participating in the self-search grou
 
 V08.5 Unit 3 is interstitial, not post-crisis. Mimimi directly tells Kikuchi that she still loves Tomozaki and intends no wrongdoing. This is a real ethical limit, but “wrong” is not yet a complete conduct specification.
 
-V09 converts intention into one concrete boundary: at Kita-Yono, Mimimi tentatively proposes that they refrain from walking home together that day and acts on that local restraint because the routine may burden the relationship. The hedged proposal suspends one instance of valued routine; it does not institute a permanent no-contact rule (Section 14.4, LOC-V06). She also refuses neutrality when Tomozaki tries to amputate his social world. She identifies the maneuver as structurally similar to her own earlier self-erasure, tells Kikuchi, and helps make a repair possible. This action protects a valued person without claiming him romantically.
+V09 converts intention into one concrete boundary: at Kita-Yono, Mimimi tentatively proposes that they refrain from walking home together that day and acts on that local restraint because the routine may burden the relationship. The hedged proposal begins local restraint, not a permanent no-contact rule (Section 14.4, LOC-V06). Later narration describes about a week of separate walks before Mimimi insists on walking together and pulls him along despite his initial protest. The walk actually resumes. She tells him she can like the self who continues to love him despite nonreciprocation: direct, partial affirmative self-regard, not proof of complete or durable resolution. When she later asks to keep leaning against him briefly, he agrees to that bounded continuation; this does not retrospectively authorize the earlier pulling or contact (§14.6). She also refuses neutrality when Tomozaki tries to amputate his social world. She identifies the maneuver as structurally similar to her own earlier self-erasure, tells Kikuchi, and helps make a repair possible. This action protects a valued person without claiming him romantically.
 
 Continuing love and ethical restraint therefore coexist. Neither cancels the cost of proximity; neither makes every future interaction suspect.
 
@@ -403,7 +403,7 @@ Continuing love and ethical restraint therefore coexist. Neither cancels the cos
 
 V10 gives no new romantic pursuit or terminal rule. Mimimi contributes ordinary history and care to the Hinami birthday project. V11 gives more active boundary monitoring: she regulates physical and conversational proximity because Tomozaki is dating Kikuchi, enters student-council work, and supplies model-dependence insight. She is also named as part of the prospective group story.
 
-These roles demonstrate that non-selection has not reduced her to a waiting romantic option. She has friendship, institutional capacity, humor, sport, and group authority beyond the dyad. The source still does not establish that her love has ended, that private routine has resumed, or that a final stopping condition exists.
+These roles demonstrate that non-selection has not reduced her to a waiting romantic option. She has friendship, institutional capacity, humor, sport, and group authority beyond the dyad. The source still does not establish that her love has ended, that the locally resumed V09 walk becomes a settled future routine, or that a final stopping condition exists.
 
 ### 7.2 Directional state at the V11 boundary
 
@@ -411,14 +411,14 @@ These roles demonstrate that non-selection has not reduced her to a waiting roma
 |---|---|---|
 | **desired relation / end** | Chooses friendship and collaboration while remaining romantically committed to Kikuchi; no reciprocal Mimimi selection is established. | Continues to love him and also chooses friendship, his broader flourishing, and respect for the current couple. No final pursuit or withdrawal policy is named. |
 | **standing** | Friend, former campaign strategist, crisis collaborator, recipient of confession, and group peer. | Friend, admirer, former romantic candidate, corrective equal, performer, and emerging institutional leader. |
-| **knowledge** | Directly knows her romantic feeling and many of its reasons; does not know every private fear or her V08.5 disclosure to Kikuchi. | Knows his non-selection, relationship with Kikuchi, tendency toward self-amputation, social expansion, and Hinami priority in broad outline. She does not share all Hinami history. |
+| **knowledge** | Directly knows her romantic feeling and many of its reasons; hears her V09 report of a recent Kikuchi conversation and their shared reasons for liking him. Not every private fear, the full conversation, or her specific confession disclosure is thereby established as his knowledge (§14.6). | Knows his non-selection, relationship with Kikuchi, tendency toward self-amputation, social expansion, and Hinami priority in broad outline. She does not share all Hinami history. |
 | **disclosure** | Does not offer false reciprocity or consolation. His post-selection stance is clearest through choice and ordinary conduct rather than exhaustive verbal rulemaking. | Confesses directly, explains attraction, reiterates continuing love, and communicates selected boundaries to Kikuchi and through changed routine. |
 | **trust / reliance** | Relies on her humor, perception, courage, and group competence; must not treat emergency availability as unlimited capacity. | Trusts him as a person whose action can matter; also corrects him and does not make his judgment the sole basis of her worth. |
 | **leverage** | Romantic non-selection and existing partnership structure the available field, even without active coercion. | Her known love and repeated sacrifices create moral pressure, but she does not deploy them as debt or entitlement. |
 | **care / obligation** | Recognizes her effort and protects against exploiting it; earlier rescue language was corrected by Tama's relationship-specific authority. | Repeatedly helps at real cost: Kikuchi route, comedy recovery, social-amputation correction, group and council work. Care remains sincere and potentially overtaxing. |
-| **boundary / refusal** | Does not accept a romance obligation. No complete future rule for one-to-one contact is jointly stated. | Refrains from one private walk, monitors proximity, refuses to treat non-selection as self-erasure, and denies any promise of permanent love. These are local limits and future freedom, not a waiting deadline or terminal policy. |
+| **boundary / refusal** | Does not accept a romance obligation. No complete future rule for one-to-one contact is jointly stated. | Practices temporary separation, then initiates a resumed private walk despite his initial protest; later requests and receives agreement to brief continued leaning. Also monitors proximity, refuses to treat non-selection as self-erasure, and denies any promise of permanent love. These are local limits and future freedom, not a waiting deadline or terminal policy. |
 | **conflict / repair** | No betrayal conflict is staged between them; the primary burden is asymmetric feeling and its effects on Kikuchi. | Requests ordinary treatment after loss and converts later strain into changed conduct rather than sabotage. Cost remains. |
-| **ordinary presence** | Humor, food, walking, planning, performance, school work, and peer projects sustain a relation not reducible to confession. | Ordinary routine is both valued and ethically charged; the ended walk proves that mundane contact can be a substantive boundary. |
+| **ordinary presence** | Humor, food, walking, planning, performance, school work, and peer projects sustain a relation not reducible to confession. | Ordinary routine is both valued and ethically charged; temporary separate walks and the later resumption make mundane contact a substantive, revisable boundary rather than a settled policy. |
 | **third-party effect** | Tama is the irreplaceable regulator in Mimimi's V02 crisis; Kikuchi's partnership sets current romantic boundaries; Hinami remains comparison/model; group work gives Mimimi non-romantic authority. | Mimimi supports Kikuchi's route and later speaks to Kikuchi directly. Her care affects the couple without giving her a position inside it. |
 | **consent / authority** | Owns whom he selects and may accept friendship; does not own Mimimi's emotional timetable, sacrifices, or availability. | Owns feeling, disclosure, distance, and future change; does not own Tomozaki's romantic choice or Kikuchi's tolerance. |
 
@@ -631,7 +631,7 @@ Ordinary presence has capacity requirements. Affection can be sincere while a sc
 |---|---|---|---|
 | NO NAME/coaching history | Hinami and Tomozaki | Tomozaki tells Kikuchi in V09 with Hinami's permission. | Tomozaki tells Mizusawa related private history in V10 without permission. |
 | Nagisa and family meaning history | Hinami; the reader also receives interior retrospective access | V10 direct disclosure and V11 disclosure frame; the whole rendered retrospective is not automatically heard testimony (Section 14.4). | Tomozaki pursues Haruka contact and wider recruitment without a demonstrated onward-use agreement. |
-| Mimimi's confession and continuing love | Mimimi; Tomozaki knows confession | Mimimi tells Kikuchi directly in V08.5 Unit 3. | Tomozaki does not know that Mimimi/Kikuchi conversation occurred; he did not initially tell Kikuchi the confession. |
+| Mimimi's confession and continuing love | Mimimi; Tomozaki knows confession | Mimimi tells Kikuchi directly in V08.5 Unit 3. | He did not initially tell Kikuchi the confession. In V09 Mimimi reports a recent conversation and shared reasons for liking him; exact identity with V08.5, disclosure of the confession itself, and full contents remain unestablished as his knowledge (§14.6). |
 | Rena's sexualized conduct | Tomozaki and Rena | Tomozaki materially expands disclosure to Kikuchi in V09. | V08 account is incomplete; exhaustive disclosure of every call, image, touch, proposition, and response remains unestablished. |
 | Kikuchi's private motives and drafts | Kikuchi | She selects Tomozaki and later a broader party as readers/collaborators. | Recognizable Hinami-derived interior material reaches publication-facing space without demonstrated Hinami permission. |
 | Hinami-facing collective story | Kikuchi/Tomozaki as initiators | Party participation is proposed. | Hinami has not consented to being represented, receiving the story, or entering the intervention. |
@@ -734,7 +734,7 @@ This is a **dependency**, not a reason to reopen all volumes indiscriminately. P
 #### Tomozaki ↔ Mimimi
 
 - Does Mimimi retain romantic love, revise it, name a stopping condition, or choose a new relation?
-- Does the former private routine resume, remain bounded, or change form?
+- After the observed V09 resumption, what future pattern and mutually usable boundaries govern private contact?
 - Can she contribute to the party without again becoming the emergency performer whose cost disappears behind humor?
 - Can Tomozaki sustain ordinary friendship without guilt-driven distance or complacent reliance?
 
@@ -759,7 +759,7 @@ The ledger does **not** claim:
 - that Tomozaki's choice of Kikuchi is false, temporary, or invalidated by Hinami's importance;
 - that Kikuchi's cooperation erases jealousy or creates standing permission for future sacrifices;
 - that any repair completes privacy, scheduling, fictionalization, touch, or third-party governance;
-- that Mimimi has stopped loving Tomozaki, will wait indefinitely, intends sabotage, or has resumed former private routine;
+- that Mimimi has stopped loving Tomozaki, will wait indefinitely, intends sabotage, or has established a settled future private routine merely because a V09 walk resumes;
 - that Mizusawa's love is reciprocated, entitled to persistence, or governed by a terminal rule;
 - that Tama's concern for Hinami approves revenge or that Hinami has repaired the episode;
 - that Rena respects a consent, age, relationship, message, touch, or contact boundary after one resisted act;
@@ -883,6 +883,12 @@ Routes below point to the [effort/competition/goal-ownership ledger](TOMOZAKI_EF
 
 Section 13's promotion decisions survive this review: three central dyads remain mandatory; Mimimi/Tama retains a dedicated-or-coequal responsibility supported by its story-local role-loss and reliance evidence (CS-MIM-02–CS-MIM-04; EFF §31.2); the core-peer ensemble owns distributed participation and information (CRI-REL-005–CRI-REL-006; SOC-C17–SOC-C22). Class punishment mechanisms route to the social specialist, while lower-evidence dyads remain major cases rather than automatically receiving new files. These are routing decisions, not declarations that any downstream specialist or monograph is mature.
 
+### 14.6 R05 Mimimi source precision — temporary restraint, resumed contact, and partial knowledge
+
+The [Mimimi integration review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) and [Mimimi NM-P27–28](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md#nm-p27) route the bounded new check. Locked V09 `text/part0029.html` P122 describes about a week of separate walks; P137–142 shows her insistence, his initial protest, and an actual resumed walk. P174 is her spoken partial affirmative self-regard; P233–239 gives Tomozaki her report of a recent Kikuchi conversation and shared reasons for liking him. That report establishes some communication, not the exact identity of the V08.5 café scene, knowledge of the specific confession disclosure, or access to private narration. In `text/part0031.html` P1–20, already begun leaning precedes the request and agreement at P18–19. Consent concerns brief continuation. P24–113 preserves the intervention's limit: Tomozaki recognizes the problem but still approaches Kikuchi facing possible separation, rather than possessing a complete solution.
+
+**Disposition:** qualify current REL-C07 restraint and REL-C13 ordinary-presence applications; preserve all sixteen identities, REC-14/LOC-V06's initial local-restraint finding, the frozen readings, and prior integration receipts. Beneficial reception is not retroactive permission; partial self-regard is not total stabilization; local resumption is not a standing contact rule. The V08.5 knowledge asymmetry remains historical at its own horizon, while blanket V11 ignorance is withdrawn.
+
 ## 15. Downstream effects and maintenance protocol
 
 ### 15.1 Artifacts affected by this ledger
@@ -942,3 +948,7 @@ When a new admitted source is read:
 ### v1.3 — 2026-09-13 — bounded Hinami R04 integration
 
 - Added the earlier Hattori directional/access limits in §8.6 and exact V06 score in §5.1. Rechecked the already correct Tomozaki-initiated V09 pause without rewriting it. All REL identities, Fumiya’s Christmas enrichment, and prior history remain intact.
+
+### v1.4 — 2026-09-13 — bounded Mimimi R05 propagation
+
+- Reconciled the V09 temporary separation and resumed private walk, partial affirmative self-regard, bounded consent to continued leaning, and Tomozaki's partial conversation knowledge. Preserved all REL identities, historical source routes, earlier integration enrichments, and unresolved future policies.

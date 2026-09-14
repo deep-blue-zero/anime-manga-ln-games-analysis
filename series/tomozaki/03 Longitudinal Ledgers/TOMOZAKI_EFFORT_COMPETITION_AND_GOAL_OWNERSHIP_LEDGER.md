@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: longitudinal_ledger
 scope: EFFORT_COMPETITION_GOAL_OWNERSHIP_COMPARATIVE_SELF_WORTH
-generation: V1.5
+generation: V1.6
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -2187,3 +2187,14 @@ These strengthen the existing SR06.5 §7 and SR08.5 §8 routes. They do not supp
 V11 `item/xhtml/p-0025.xhtml` P118–146 makes the later problem precise: she acknowledges hurting Haruka for creative inquiry and retains liking while lacking a further reason for prioritizing writing over another person’s feelings. V11 therefore intensifies an earlier recognized responsibility; it does not introduce conscience or erase enjoyment and ambition. Haruka’s own invitations and request not to interrupt (`p-0023.xhtml` P188, P243–252) qualify the process without supplying Hinami’s permission or licensing publication. The later received reason and her search for her own remain separate at `p-0033.xhtml` P602–611.
 
 The [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) records primary verification; KF-P18–21/29–30/34 are local monograph routes. All twenty-nine EFFORT identities, prior crosswalk dispositions, Fumiya §31.5 and Hinami §78.4 are preserved. Completion, contract, sustainable career, subject consent and project results remain OPEN.
+
+### 78.6 R05 Mimimi: pleasure, stopping and self-inclusion — 2026-09-13
+
+The [Mimimi review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) strengthens existing EFFORT-H01/H04/H05/H11/H16/H17 with the [NM-P06–11/23–28](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md#nm-p06) returns. All twenty-nine identities and their prior crosswalk rows remain unchanged.
+
+- **H01/H04/H11 — distinguish local stopping from terminal policy.** In the post-V05/pre-V06 running story, V06.5 `OEBPS/Text/part0037.xhtml` P88–220, Mimimi redirects attention toward her own stride, wins one 100-metre race and refuses an immediate rematch. A personal-best aim is stated; no measured time verifies its achievement. High-jump specialization, sprint victory, process pleasure and the choice to stop have different scopes. Unresolved romance does not mean she never stops anything.
+- **H01/H05/H17 — preserve care, gladness and the helper’s own life.** V06.5 `part0033.xhtml` P1–350 gives real pleasure at Tama’s growth alongside loss of a helping role. `part0037.xhtml` P48–74 gives her mother’s work-grounded criticism of harmony maintained through Mimimi’s solitary endurance, with the admission of overheard muttering. This is a separate corrective resource, not parental omniscience or a cure. Ordinary preferences and reciprocal hidden accommodations in V05’s prior-volume bonus further prevent reducing every act to self-proof.
+- **H04/H11 — revise the current contact sequence and strengthen partial self-regard.** V09 `text/part0029.html` P122/P137–142 records about a week apart and the resumed walk; P174 voices liking for the self who loves Fumiya despite nonreciprocation. This qualifies a total inadequacy account. P233–239 communicates some conversation with Kikuchi, while `part0031.html` P24–113 leaves Fumiya’s practical solution unfinished. Effective help does not settle the couple’s governance or retroactively authorize forceful initiation.
+- **H16/H17 — capacity does not dictate future ownership.** V11 `item/xhtml/p-0028.xhtml` P1–94 distinguishes earlier refusal, newly chosen help and institutional permission. `p-0030.xhtml` P1–170 distinguishes novice participation, collaborator expertise, a bounded initial request and an acknowledged extension. Neither demonstrates formal succession, unlimited availability or a chosen career.
+
+The chronological effort spine, Fumiya §31.5, Hinami §78.4 and Kikuchi §78.5 remain historical and analytical dependencies. These qualifications are current cross-owner evidence, not retrospective changes to frozen hypotheses.

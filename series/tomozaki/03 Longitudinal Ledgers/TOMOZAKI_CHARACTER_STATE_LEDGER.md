@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_SUPPLEMENTS
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus story-locally routed Volumes 06.5 and 08.5"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.4
+generation: V1.5
 status: canonical
 release_state: mutable_active
 governing_method: "../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
@@ -36,7 +36,7 @@ The ledger has five responsibilities:
 
 It is not a plot synopsis, a substitute for the immutable prospective freezes, a relationship-state ledger, a diagnosis, a moral ranking, or a simulation guide. It does not establish post-V11 outcomes. The preserved volume readings remain authoritative for what the analyst could support at each historical boundary. This ledger is authoritative only for cumulative **state routing and revision** through the current source lock.
 
-The character monographs are downstream and retrospective; their individual maturity is routed by the current corpus map. They do not supply independent evidence to this ledger or outrank the sequential readings. The reviewed Fumiya, Hinami and Kikuchi expansions prompted the direct primary checks recorded in §§6.6, 7.7 and 8.6; the other four candidates remain provisional. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
+The character monographs are downstream and retrospective; their individual maturity is routed by the current corpus map. They do not supply independent evidence to this ledger or outrank the sequential readings. The reviewed Fumiya, Hinami, Kikuchi and Mimimi expansions prompted the direct primary checks recorded in §§6.6, 7.7, 8.6 and 9.6; the other three candidates remain provisional. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
 
 Governing artifacts:
 
@@ -420,7 +420,7 @@ Liking writing, demonstrated craft, professional aspiration, a conditional oppor
 | V07 | rescues Tomozaki's public performance and sends him back for Kikuchi's direct answer; feeling remains while future freedom is asserted | costly generosity is not uncomplicated maturity or proof of resolution | `DR07 §§11-12, 15, 20-21` |
 | V07-V08 interstitial | tells Kikuchi her confession and says she will not do wrongdoing; receives validation that feeling need not be false because it partly relies on another | local ethical intent is direct; conduct rule remains incomplete | `SR08.5 §9, §§13-14, 17` |
 | V08 | remains in ordinary contact and self-search, openly knows whom she loves, and shares family circumstances | no independent long-term end or stopping rule is established | `DR08 §§4.2, 4.4, 5.4, 9-10` |
-| V09 | ends the habitual one-to-one walk, protects the couple from her own access, and later prevents Tomozaki's total peer withdrawal | no-wrongdoing becomes concrete but not terminal; love remains | `DR09 §§4.1-4.2, 5.4, 8-9` |
+| V09 | initiates separate walks for roughly a week, then resumes a walk to challenge Tomozaki’s peer withdrawal; states partial self-regard and reports some Kikuchi-conversation content | local restraint is real and revised; love remains, the couple’s solution is still incomplete and no standing contact rule follows | `DR09 §§4.1-4.2, 5.4, 8-9`; §9.6 / NM-P27–28 |
 | V10 | contributes recipient-specific birthday care and respects the couple's known boundaries | no new pursuit or terminal rule | `DR10 §5.5, §§8-9` |
 | V11 | articulates the seesaw between skill confidence and self confidence; substitutes for council leadership, becomes an improvised commentator, and monitors physical boundaries around Tomozaki | performance and leadership are capacities, not yet selected vocation; love endpoint remains open | `DR11 §§4.4, 5.6, 8-9` |
 
@@ -445,7 +445,21 @@ Liking writing, demonstrated craft, professional aspiration, a conditional oppor
 
 ### 9.5 Current V11 boundary
 
-Mimimi has multiple demonstrated routes to value—Tama, friendship, athletics, leadership, and communication—but no independently selected long-horizon end. Her comparison sensitivity and romantic feeling remain open. The most defensible current model is **partial diversification of self-worth with persistent dependence on comparison and relational usefulness**, not cure and not stasis. (`DR11 §§5.6, 8-9`; `EFFORT §§73, 75-77`)
+Mimimi has multiple demonstrated routes to value—Tama, friendship, athletics, leadership, and communication—but no independently selected long-horizon end. Her comparison sensitivity and romantic feeling remain open. The most defensible current model is **partial diversification and affirmative self-regard with remaining vulnerability to comparison and relational usefulness**. V09’s explicit liking for the self who loves Tomozaki is a positive local change, not a guarantee of durable self-approval across contexts. (`DR09 §5.4`; NM-P27 / §9.6; `DR11 §§5.6, 8-9`; `EFFORT §§73, 75-77`)
+
+### 9.6 R05 Mimimi source enrichment — 2026-09-13
+
+The [Mimimi integration review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) accepts her individual literary role and routes selective source returns through [NM-E01–28 and NM-P01–28](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md#nm-e01). These additions strengthen existing CS-MIM-01–04; they create no new frozen claim identities.
+
+| State / access and source route | Reviewed observation | Current use and limit |
+|---|---|---|
+| V05 appended prior-volume bonus; Tama and Mimimi focalizations; DR05 §16; NM-P06 | Mimimi conceals a declined noisy group outing for Tama; Tama quietly omits shrimp. Mimimi enjoys crab pasta and they agree to a smaller karaoke trial. | Reciprocal care and positive preference, with uneven knowledge. No allergy, general seafood aversion, post-V05 chronology or observed completion of the trial. |
+| Post-V05/pre-V06 private Mimimi; SR06.5 §10.1; NM-P07 | Gladness at Tama’s growth can exceed sadness about being less needed. | Role-loss vulnerability coexists with support for independence; no wish to keep Tama dependent follows. |
+| Same routed running story; NM-P08–11 | Sensory running, grooming changes, navigation error, affectionate domestic care and the mother’s critique of harmony funded by one person’s endurance precede a personal-best aim, one 100-metre victory and a declined rematch. | Independent pleasure, received advice and an actual local stop qualify self-sacrifice and comparison accounts. High jump remains her specialty; no clocked personal best, family diagnosis or permanent cure. |
+| V09 addressed speech and Fumiya narration; DR09 §5.4; NM-P27–28 | A roughly week-long practice of separate walks is followed by an actual resumed walk; Mimimi says she likes the self who loves him and reports some conversation with Kikuchi. | Real partial self-regard and revised conduct. Her initial pulling precedes assent; later brief continuation of comforting contact is separately requested and accepted. No complete V08.5 knowledge, romantic endpoint or standing contact permission. |
+| V11 public/group and institutional contexts; DR11 §§4.4/5.6; NM-P23–26 | She distinguishes capacities from self, bounds her Hinami analogy, proposes council help after an earlier refusal, and participates as a novice commentator. | Teacher-approved assistance and playful acting-president language are not a new election or established appointment. New capacity and favorable reception do not select a vocation; task extension does not prove unlimited advance assent. |
+
+The original source-facing readings and earlier local-restraint audit remain valid at their actual boundaries. The [relationship ledger](TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md) carries the revised contact and knowledge sequence; effort §78.6 and voice §6.1 retain the narrower disciplinary implications.
 
 ## 10. Natsubayashi Hanabi / Tama
 
@@ -768,7 +782,7 @@ Each monograph should consume this ledger by claim ID and preserve the chronolog
 - retain current abstentions; and
 - avoid describing V11 as though it had always been latent and knowable.
 
-Fumiya and Hinami now satisfy their local monograph dependencies under the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md). Kikuchi now passes the same bounded role under the [R05 integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md). The other four monographs remain provisional retrieval aids until they demonstrably satisfy the contract.
+Fumiya and Hinami now satisfy their local monograph dependencies under the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md). Kikuchi and Mimimi pass the same bounded role under the [Kikuchi review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) and [Mimimi review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md). The other three monographs remain provisional retrieval aids until they demonstrably satisfy the contract.
 
 ### 17.2 To the relationship-state layer
 
@@ -803,3 +817,5 @@ V1.2 adds the independently reviewed R04 Fumiya ordinary-life source enrichment 
 V1.3 records the Hinami R04 checks in §7.7, precise V06 set scope and V09 pause agency, and both reviewed R04 monograph roles. Existing claim registers, Fumiya §6.6 and all prior maintenance history are preserved.
 
 V1.4 adds the reviewed Kikuchi R05 enrichment in §8.6 and records her local monograph acceptance. All chronological and claim-register rows, Fumiya §6.6, Hinami §7.7 and earlier maintenance history remain unchanged; R05 still requires Mimimi.
+
+V1.5 adds Mimimi §9.6 and narrows the current V09 chronology and V11 self-valuation formulation. All thirty CS identities, other character histories and the three earlier accepted monograph enrichments survive. R05’s pair now passes locally; later convergence remains unpassed.

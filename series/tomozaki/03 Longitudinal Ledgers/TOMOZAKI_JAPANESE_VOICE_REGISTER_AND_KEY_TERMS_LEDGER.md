@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Locked Japanese V01–V11 plus story-local V06.5/V08.5; exact-source samples are selective and edition-bound"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.2
+generation: V1.3
 status: canonical
 release_state: mutable_active
 created: "2026-09-13"
@@ -111,6 +111,14 @@ The orthographic elongations and joking forms are verified in these samples; the
 
 The private Mimimi focalizations in V06.5 remain story-locally routed by SR06.5 §6: the V03 girls' room, later second-term material before the declaration, the concurrent restaurant exchange, and its directly post-declaration continuation are different temporal units. This ledger makes no new exact Japanese quotation from them. Their existing inner-state evidence can contextualize a monograph after reconciliation, but cannot make Tomozaki hear what she did not tell him.
 
+### 6.1 R05 Mimimi: attested speech and permission sequence — 2026-09-13
+
+This v1.3 addition extends JVL-16–18 without replacing their twenty-four-row register or the earlier LOC-07/LOC-V06–07 findings. The [integration review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) and [NM-P12–28](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md#nm-p12) preserve exact source windows and state/recipient distinctions.
+
+V09 `text/part0029.html` P122/P137–142 adds the reported week of separate departures and an actual resumed walk to JVL-17’s initial local restraint. The forceful initiation is visible before any later assent. P174 explicitly supports partial affirmative self-regard, while P233–239 tells Fumiya of some conversation with Kikuchi and shared attraction reasons. This is communicated speech, unlike Mimimi’s unspoken supplemental self-questioning; it does not give him the entire V08.5 scene or prove the two encounter references identical. In the following `text/part0031.html` P18–19, a request and assent concern brief continuation of already begun comforting contact. They are not advance blanket permission.
+
+Ordinary teasing, the immediate private digital-checking aftermath, hesitant next-day continuity and serious disclosure occur in different states. V11’s reflective account is addressed in a group with Fumiya, Kikuchi and Mizusawa; it is neither private narration nor complete acceptance. The later novice commentary is prose-represented performance and Ashigaru’s appraisal, not an independently heard voice sample or proof of gaming expertise. These returns widen the attested repertoire without supplying frequencies, universal address rules or a simulation voice.
+
 ## 7. Natsubayashi Hanabi / Tama — particular valuation and changed communicative reach
 
 | ID | State / layer / recipient | Attested form and source route | Cumulative use and bounded disposition |
@@ -188,3 +196,5 @@ No reconstruction/simulation model is created by this ledger. No speech style is
 V1.1 adds independently checked R04 Hinami context under the existing JVL-06/09 responsibilities (§4.1). The original twenty-four rows, conceptual tables, source-locator audit and R01–R03 receipts are preserved.
 
 V1.2 adds reviewed Kikuchi R05 context in §5.1 under existing JVL-12/13/15 responsibilities. The original twenty-four rows and earlier receipts remain preserved; no complete speech model follows.
+
+V1.3 adds the independently reviewed Mimimi §6.1 context. All original JVL rows, prior Fumiya/Hinami/Kikuchi context and historical source-audit receipts remain intact.
