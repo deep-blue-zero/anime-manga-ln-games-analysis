@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 import unittest
 from pathlib import Path
@@ -10,6 +11,7 @@ TOOLS = Path(__file__).resolve().parents[1]
 ROOT = TOOLS.parent
 sys.path.insert(0, str(TOOLS))
 
+from analytical_preflight import ROUTING_OUTPUTS, routing_preflight  # noqa: E402
 from character_index_core import GitSnapshot, SnapshotEntry  # noqa: E402
 from validate_repository import (  # noqa: E402
     PROJECT_INITIATION_GATE_PATH,
@@ -402,6 +404,20 @@ class ProjectInitiationGateTests(unittest.TestCase):
                 for path, entry in snapshot.entries.items()
             },
         )
+        # A source checkout may legitimately await housekeeping. Normalize only
+        # routing in this disposable fixture, as fixture_baseline does in the
+        # analytical-preflight tests; never rewrite authored evidence or disk.
+        source = snapshot
+        for path in sorted(source.entries):
+            match = re.fullmatch(
+                r"((series|studies)/[a-z0-9][a-z0-9-]*)/\.repository/(series|study)-registry\.json",
+                path,
+            )
+            if match and match[3] == ("series" if match[2] == "series" else "study"):
+                snapshot, _ = routing_preflight(snapshot, match[1])
+        for path, entry in source.entries.items():
+            if path not in ROUTING_OUTPUTS:
+                self.assertEqual(snapshot.entries[path], entry, path)
         registry = json.loads(snapshot.entries["series/registry.json"].data)
         ids = {row["series_id"] for row in registry["series"]}
         self.assertTrue(

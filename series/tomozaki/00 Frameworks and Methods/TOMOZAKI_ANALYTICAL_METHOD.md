@@ -2,9 +2,12 @@
 series: TOMOZAKI
 artifact_type: analytical_method
 scope: JP_LIGHT_NOVEL_SEQUENTIAL_AND_LONGITUDINAL_ANALYSIS
-generation: V0.1
+generation: V0.2
 status: canonical
 release_state: mutable_active
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 ---
 
 # Bottom-Tier Character Tomozaki — analytical method
@@ -14,6 +17,8 @@ release_state: mutable_active
 This document governs source-facing analysis of the locked Japanese light-novel corpus for *Bottom-Tier Character Tomozaki* (`弱キャラ友崎くん`). Its responsibility is methodological: it defines how observations become claims, how volume-by-volume state is frozen and revised, and when recurring questions deserve their own canonical artifacts.
 
 It is **not** a plot summary, character monograph, romance ranking, thematic conclusion, or whole-series verdict. Those responsibilities belong downstream and must be earned by source evidence.
+
+The companion [`TOMOZAKI_SYNTHESIS_ARCHITECTURE.md`](TOMOZAKI_SYNTHESIS_ARCHITECTURE.md) governs where those downstream responsibilities live, how they depend on one another, and which completion gates are open. This method must not be used as a substitute for that architecture.
 
 ## 2. Current source and authority boundary
 
