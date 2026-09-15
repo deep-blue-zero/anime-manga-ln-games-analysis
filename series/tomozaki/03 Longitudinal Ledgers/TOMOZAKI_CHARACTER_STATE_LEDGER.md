@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_SUPPLEMENTS
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus story-locally routed Volumes 06.5 and 08.5"
 analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.0
+generation: V1.5
 status: canonical
 release_state: mutable_active
 governing_method: "../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
@@ -36,7 +36,7 @@ The ledger has five responsibilities:
 
 It is not a plot synopsis, a substitute for the immutable prospective freezes, a relationship-state ledger, a diagnosis, a moral ranking, or a simulation guide. It does not establish post-V11 outcomes. The preserved volume readings remain authoritative for what the analyst could support at each historical boundary. This ledger is authoritative only for cumulative **state routing and revision** through the current source lock.
 
-The current character monographs are useful retrieval aids, but they are downstream, retrospective, and provisionally subject to architecture remediation. They did not supply evidence to this ledger and do not outrank the sequential readings. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
+The character monographs are downstream and retrospective; their individual maturity is routed by the current corpus map. They do not supply independent evidence to this ledger or outrank the sequential readings. The reviewed Fumiya, Hinami, Kikuchi and Mimimi expansions prompted the direct primary checks recorded in §§6.6, 7.7, 8.6 and 9.6; the other three candidates remain provisional. Where a monograph and a frozen reading appear to differ, return first to the relevant frozen reading and then amend this ledger transparently if needed.
 
 Governing artifacts:
 
@@ -157,6 +157,19 @@ State rows use the following short codes. A citation such as `DR05 §4.1, §9.1,
 
 Quoted Japanese below is limited to wording already preserved in these artifacts. It is included only where an English paraphrase would lose a state distinction.
 
+### 4.1 Current correction layer and neighboring owners
+
+The [claim-revision/evidence index](TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md) (`CRI`), [relationship-state ledger](TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md) (`REL`), and [social-atmosphere/group-systems ledger](TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md) (`SOC`) supply neighboring ownership, not independent primary witnesses. `EFFORT` retains its existing route above. The [targeted source-locator audit](../08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md) (`LOC`) owns the exact locked-witness locations and paragraph convention. Section 15.1 crosschecks every CS identity against these cumulative owners. The corrections here preserve the frozen readings as historical records while controlling their current reuse.
+
+| Correction basis | Current character-state disposition | Evidence route |
+|---|---|---|
+| V11 family sequence is framed by Hinami speaking, then shifts through third-person Aoi-centered narration and first-person interiority | **REVISE attribution:** disclosure-framed, mixed-person internally focalized retrospective; reader access to depicted speech and thought does not establish an exhaustive transcript heard by Tomozaki. The formation inference remains bounded. | `LOC`, ESC-03, LOC-03A–C; V11 `item/xhtml/p-0030.xhtml` P721–750, P1092–1096; `DR11 §4.5` |
+| V10 calls Nagisa a sixth grader; V11 calls Aoi a sixth grader with Nagisa two years younger and later identifies Aoi/Haruka as sixth/third graders | **GENUINE_TEXTUAL_TENSION / OPEN chronology:** retain both accounts. No harmonized grade, date, edition correction, or intent follows. The road entry is reported in V10, not depicted from Nagisa's mind in V11. | `LOC`, ESC-02, LOC-02A–C; V10 `text/part0024.html` P139; V11 `item/xhtml/p-0030.xhtml` P826–827, P1010 |
+| Kikuchi speaks hurt at not being heard; narration then records that the call has ended | **REVISE action attribution:** her voiced hurt is direct; a deliberate hangup by her is not specified. This passage cannot alone prove an enacted stopping policy. | `LOC`, ESC-11, LOC-11E; V11 `item/xhtml/p-0033.xhtml` P97–98; qualifies `DR11 §5.3` |
+| Tomozaki affirms liking Hinami to Haruka and considers a person-level qualification without saying it | **PRESERVE specialness / OPEN classification:** the affirmative is speech; the qualification is thought. Haruka is not shown hearing the qualifier, and the moment does not settle permanent non-romance. | `LOC`, ESC-09, LOC-09C; V11 `item/xhtml/p-0019.xhtml` P239–240; `DR11 §5.1` |
+| Mizusawa has already confessed and been refused in V03 | **NARROW endpoint language:** V11 adds no renewed confession or resulting answer. His account of understanding Hinami is his interpretation; a future declaration and its response remain unobserved. | `DR03 §9.3`; `DR11 §5.5`; `CRI-MIZ-001`; `REL-C16` |
+| Hinami's V06 individual-game victory differs from her V11 set victory | **PRESERVE capacity / BOUND result:** V06 is a first-to-five set won 5–1 by Tomozaki (§7.7), so it does not establish Hinami set superiority; V11's 3–2 set defeats Tomozaki's stated credential in that encounter, not his universal worth or a permanent skill hierarchy. | `DR06 §4`; `DR11 §4.8`; `LOC`, ESC-06, LOC-06A and ESC-04, LOC-04B |
+
 ## 5. Corpus-wide developmental bands
 
 These bands are retrieval structure, not claims that every character develops at the same pace.
@@ -226,6 +239,15 @@ Tomozaki's available competencies remain broad: elite play, planning, public com
 
 Current open variables are recovery of an owned reason to play; school return; a non-savior support stance toward Hinami; professional route and exit governance; privacy and allocation rules with Kikuchi; and tolerance for being valuable without being uniquely necessary. (`DR11 §§5.1, 8-9`)
 
+### 6.6 R04 ordinary-life source enrichment — 2026-09-13
+
+These are targeted additions from the same locked supplements, independently reviewed during Fumiya integration. They strengthen existing learned-form and recipient-variation responsibilities without altering the numbered chronology or the thirty CS claim identities. TF-P identifiers remain local to the monograph; the source windows, not the downstream argument, supply the evidence. See the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md).
+
+| Story-local state | Observation and evidence class | Current use / limit | Exact evidence route |
+|---|---|---|---|
+| Early second term, V06.5 clothing unit | **DIRECT narrated action / reflection:** emerging coordination judgment coexists with vocabulary and fit errors; he reports shopping alone and receiving clerk advice, and enjoys the shared game-like exchange with Hinami. | **STRENGTHEN** uneven learned competence and ordinary pleasure. Advice is received, not explicitly solicited; purchases establish neither permanent style nor a favorite color. | SR06.5 §8 and V06.5-C06; locked V06.5 `OEBPS/Text/part0013.xhtml` P1–216, especially P54–67, P83–104, P194–216; Fumiya TF-P01. |
+| December 24 between V07 and V08 | **DIRECT narrated action / reflection:** a misshapen snowman, photograph and messages sustain pleasure; learned camera access serves a wanted memory. Kikuchi corrects his proposed substitution of meeting dates, and he accepts both. | **STRENGTHEN** particular affection and low-pressure receptivity; one occasion is not a habitual hobby, permanent privacy doctrine, or post-V08 repair. Relationship-state §6.1 owns the directional exchange. | SR08.5 Unit 1, V08.5-C02/C04; locked V08.5 `text/part0011.html` P1–35, P39–85, P89–101; Fumiya TF-P02. |
+
 ## 7. Hinami Aoi
 
 ### 7.1 Stable capacities and governing tendencies
@@ -243,8 +265,8 @@ Current open variables are recovery of an owned reason to play; school return; a
 | Diegetic layer | State evidence | Disclosure clock and limit | Evidence route |
 |---|---|---|---|
 | childhood | Aoi, Nagisa, and Haruka share games; Yoko supplies intense affection and retrospective meaning; Aoi trusts a world in which later good validates earlier pain | three-sister play first becomes direct in V08.5; the full meaning system enters in V11; no diagnosis or named doctrine follows | `SR08.5 §8.1`; `DR11 §4.5` |
-| Nagisa crisis | Nagisa opposes bullying under the `おにただ` ideal, becomes a target, deteriorates, questions correct action, enters a road, and dies | death is direct in V10; fuller context in V11; accident, physical collapse, and intentional entry remain unresolved | `DR10 §4.6`; `DR11 §4.5, §8` |
-| collapse of inherited meaning | Yoko calls Nagisa's death meaningful; Aoi experiences that as proof that the trusted system is false and the self formed within it is contaminated | strong formation mechanism, not a singular cause of every later trait | `DR11 §§4.5-4.6, 5.2, 8` |
+| Nagisa crisis | Nagisa opposes bullying under the `おにただ` ideal, becomes a target, deteriorates, questions correct action, enters a road, and dies | death is disclosed in V10; fuller context enters through the V11 retrospective; school-year accounts remain in tension (§4.1); accident, physical collapse, and intentional entry remain unresolved | `DR10 §4.6`; `DR11 §4.5, §8` |
+| collapse of inherited meaning | Yoko calls Nagisa's death meaningful; Aoi experiences that as proof that the trusted system is false and the self formed within it is contaminated | strong formation mechanism with reader/actor access separated (§4.1), not a singular cause of every later trait | `DR11 §§4.5-4.6, 5.2, 8` |
 | middle-school optimization | extensive labor, strategic self-sacrifice, experimental dating, first place as proof, no stopping condition | V06.5 supplies retrospective evidence after V06; initiating cause remains earlier and incompletely specified | `SR06.5 §7, §14` |
 | basketball to Atafami | she obtains team commitment to her national-first goal, experiences second as identity failure, rediscovers warmth through Haruka, and selects individual numerical proof | teammates' commitment is not equivalent ownership; Atafami is warmth **and** proof rather than one or the other | `SR08.5 §§8.2-8.4, §14` |
 | `NO NAME` formation | defeat by nanashi creates the owned target `nanashiを超える。`; the empty competitive name becomes a self-authored answer | relational aspiration is direct; later romantic selection is not | `SR08.5 §8.4` |
@@ -261,9 +283,9 @@ Current open variables are recovery of an owned reason to play; school return; a
 | V06 | she directly owns the final attack as revenge and says Tama's `正しくて` uncalculated integrity is beautiful; calculability appears as a chosen risk limit | owning motive is not apology, restitution, or doctrinal integration | `DR06 §§4-6, 19-20` |
 | V07 | public explanation appears centerless to two observers; historical witnesses support deliberate construction; family discrepancy ethically stops inquiry | empty-center model strengthens, but no family event or diagnosis is then available | `DR07 §§8-9, 20-21` |
 | V08 | elite Atafami produces visible frustration and enjoyment; career planning is detailed but desire-poor; one-sister report preserves the discrepancy | game desire is domain-bounded; detailed route is not proof of owned life end | `DR08 §§4.3-4.4, 5.3, 9-10` |
-| V09 | coaching is strongly reconstructed as a reproducibility experiment; she pauses it, practices alone, says `寂しくても平気`, and resists being changed | tolerance of loneliness is not absence of loneliness; method validation is not the only possible motive | `DR09 §§4.4, 4.6, 5.3, 8-9` |
+| V09 | coaching is strongly reconstructed as a reproducibility experiment; she accepts and formalizes Tomozaki’s proposed meeting pause, practices alone, says `寂しくても平気`, and resists being changed | tolerance of loneliness is not absence of loneliness; method validation is not the only possible motive | `DR09 §§4.4, 4.6, 5.3, 8-9` |
 | V10 | private rupture coexists with public functioning; unsolicited care produces affect; she voluntarily discloses Nagisa and describes causal unknowability and chosen solitude for truth | birthday consequence is not cure; direct disclosure is not acceptance of rescue | `DR10 §§4.1, 4.6, 5.3, 8-9` |
-| V11 | video reactivates the rejected meaning form; she declares `私は空っぽ`, `私は弱キャラ`, withdraws from school, retains game capacity, defeats Tomozaki, and says `人生はクソゲー` | crisis speech is direct but not an omniscient lifelong verdict; no affirmative future end or school return occurs | `DR11 §§4.2-4.8, 5.2, 8-9` |
+| V11 | video reactivates the rejected meaning form; she declares `私は空っぽ`, `私は弱キャラ`, withdraws from school, retains game capacity, wins the 3–2 set against Tomozaki, and says `人生はクソゲー` | crisis speech is direct but not an omniscient lifelong verdict; no affirmative future end or school return occurs | `DR11 §§4.2-4.8, 5.2, 8-9` |
 
 ### 7.4 Self-theory versus demonstrated state
 
@@ -286,13 +308,28 @@ Current open variables are recovery of an owned reason to play; school return; a
 | Nagisa / Yoko | loved sister and loved interpretive authority become the site of irreducible causal and moral rupture | love and rejection coexist; Yoko is not reduced to neglect or malicious indoctrination |
 | public school / council | polished, helpful, central, and repeatedly effective | V11 absence shows role deployment depends on governing reason; earlier contribution remains real |
 | Atafami | direct pleasure, disciplined study, numerical proof, family memory, and rivalry | still controlled and cultivated; not a pure unmasked essence |
-| Mizusawa | object of owned pursuit and claimed understanding | his insight and love are attributed; no V11 confession, consent, or answer exists |
+| Mizusawa | object of owned pursuit and claimed understanding | his insight and love are attributed; V03 confession/refusal precedes this state; no renewed V11 confession, resulting answer, or authorization for pursuit follows |
 
 ### 7.6 Current V11 boundary
 
-Hinami is in **cross-domain deployment suspension with retained local capacity**. School, council, coaching, and ordinary peer participation stop; Boxman analysis, family narration, refusal, and competitive execution remain. The formation mechanism behind proof, first place, self-responsibility, and causal control is substantially clearer, but the source still withholds an affirmative future end, Nagisa's intent, full adult/institutional response, and Hinami's response to the proposed collective project.
+Hinami is in **cross-domain deployment suspension with retained local capacity**. School, council, coaching, and ordinary peer participation stop; Boxman analysis, family disclosure, refusal, and competitive execution remain; the retrospective also grants reader access that cannot all be assigned to Tomozaki (§4.1). The formation mechanism behind proof, first place, self-responsibility, and causal control is substantially clearer, but the source still withholds an affirmative future end, Nagisa's intent, full adult/institutional response, and Hinami's response to the proposed collective project.
 
 Do not convert the party's care into consent. Do not make her V11 victory a proof of her worldview. Do not make crisis withdrawal the only authentic Hinami. (`DR11 §§5.2, 8-9`; `EFFORT §§71-77`)
+
+### 7.7 R04 Hinami source enrichment and precision — 2026-09-13
+
+Independent review of the same locked witnesses strengthens the existing Hinami responsibilities. These are source-facing additions, not evidence derived from the new monograph. The [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) records the checks; HA-P identifiers remain monograph-local. No CS claim identity, source boundary, or frozen reading changes.
+
+| State / access | Direct evidence | Current disposition and limit | Exact source route |
+|---|---|---|---|
+| Childhood sibling play, disclosed in V08.5 | Aoi loses to Nagisa, receives her physical celebration and shares the expressed enjoyment. | **STRENGTHEN** context-dependent competitiveness and affection; reject timeless inability to enjoy defeat, without importing this state into every later loss. | SR08.5 §8.1; V08.5 `text/part0013.html` P25–50; Hinami HA-P10. |
+| Middle-school family meal and private planning, disclosed in V08.5 | Mother and Haruka each identify cheese-filled hamburger steak as liked; Aoi’s response is managed. Results/graphs and goals are recorded in Excel/Word. | **STRENGTHEN** ordinary preference and material practice; liking is not a complete food hierarchy, and the depicted routine is not an established V11 timetable. | SR08.5 §8; `text/part0013.html` P176–187, P227–265; HA-P10. |
+| Middle-school private thought, disclosed in V06.5 | Hinami acknowledges luck and causes beyond personal control; she regards ignoring emotion as illogical. | **REVISE overbroad shorthand:** difficulty accepting contingency or granting feelings end-authority differs from never understanding either. These thoughts are not all spoken to Hattori. | SR06.5 §7; V06.5 `OEBPS/Text/part0011.xhtml` P53–64, P214–238; HA-P08. |
+| V01 coaching and game enthusiasm | Hinami explicitly calls `おにただ` a habit and explains its game origin, then becomes animated about game craft, world and characters. | **STRENGTHEN** attested local habit and particular enthusiasm; JVL-06 enrichment owns wording and recipient limits. No global frequency or all-context style follows. | DR01 §9; V01 `text/part0023.html` P155–177; HA-P02. |
+| Early-second-term shopping, disclosed in V06.5 | She teaches staged, affordable practice and learned intuition; comic exchanges and surprise at independent learning accompany instruction. | **STRENGTHEN** lower-stakes pedagogy. Tomozaki’s selected clothing is not her personal taste; retain the earlier Fumiya addition in §6.6. | SR06.5 §8; V06.5 `OEBPS/Text/part0013.xhtml` P1–216; HA-P09. |
+| V10 souvenir shop; narrated observation and addressed speech | Three Found mugs are in her shopping basket; she identifies the displayed item as a souvenir for her younger sister. | **PRESERVE** selection and stated gift purpose; payment, full allocation among recipients and symbolic meaning are not shown by this window. | DR10 §4.6; V10 `text/part0026.html` P43–75; HA-P17. |
+
+**Result and agency precision.** V06 `OEBPS/Text/part0008.xhtml` P9, P97–113 specifies first-to-five: Hinami wins the fifth game, then Tomozaki wins the sixth to finish 5–1. The frozen DR06 §4 phrase “five-game set” remains historical shorthand, not current rule/score authority. V11’s 3–2 Hinami set victory remains distinct. V09 `text/part0013.html` P75–98 attributes the meeting-pause proposal to Tomozaki and acceptance/formalization to Hinami; the §7.3 row is narrowed accordingly. Neither correction changes the established claim families or erases her later refusal.
 
 ## 8. Kikuchi Fuka
 
@@ -319,7 +356,7 @@ Do not convert the party's care into consent. Do not make her V11 victory a proo
 | V08 / interstitial baseline | early couple time is reciprocal; she advances to a newcomer-prize aim and repeatedly bids for time, knowledge, and touch; incomplete disclosure produces rupture | affection does not substitute for priority/disclosure rules | `SR08.5 §§7, 9, 11.2`; `DR08 §§4.1, 4.6, 5.2, 9-10` |
 | V09 | publishes fiction online, directly names jealousy and loneliness, gathers truth despite pain, mutually reselects Tomozaki, and rejects his self-amputation | repair is substantial but not exhaustive governance; fiction remains hypothesis | `DR09 §§4.4-4.6, 5.2, 8-9` |
 | V10 | chooses wider peer/professional participation and joins the Hinami project while naming fear and jealousy | chosen support has cost and does not transfer Hinami-facing authority | `DR10 §§4.2-4.3, 5.2, 8-9` |
-| V11 | receives conditional publication interest, harms Haruka with a substantially accurate inference, asks why she writes, sets boundaries with Rena and Tomozaki, reaches Tomozaki through fiction, and expands authorship to the group | publication, subject consent, completed manuscript, couple rules, and project result remain open | `DR11 §§4.9-4.11, 5.3, 8-9` |
+| V11 | receives conditional publication interest, harms Haruka with a substantially accurate inference, asks why she writes, sets boundaries with Rena and Tomozaki, reaches Tomozaki through fiction, and co-proposes extending authorship to the group | publication, subject consent, completed manuscript, couple rules, and project result remain open | `DR11 §§4.9-4.11, 5.3, 8-9` |
 
 ### 8.3 Self-theory versus demonstrated state
 
@@ -328,7 +365,7 @@ Do not convert the party's care into consent. Do not make her V11 victory a proo
 | fire people and snow women occupy incompatible habitats | recipient mismatch and a failed middle-school entry support the protective metaphor | **REVISE:** useful boundary model, not immutable essence; fit, shared objects, and selected participation create cross-habitat access (`SR06.5 §9`) |
 | an author must protect the whole world, even against private desire | public/private endings and concern for every character support real ethical range | **REVISE:** excluding the author from the world becomes self-erasure; her own desire is also world evidence (`DR07 §§7, 10, 13`) |
 | accurate characterization deserves pursuit | her models repeatedly illuminate other actors | **REVISE strongly:** Haruka's pain and Kikuchi's own question separate ability, desire, reason, consequence, and authority (`DR11 §§4.9-4.10`) |
-| she can support Tomozaki's special Hinami aim | she chooses collaboration while retaining jealousy and later stops a dismissive call | **PRESERVE as chosen local support; REJECT unlimited capacity:** consent must be renewable and cost speakable (`DR10 §4.2`; `DR11 §5.3`) |
+| she can support Tomozaki's special Hinami aim | she chooses collaboration while retaining jealousy and later voices hurt during a dismissive call; its ending has no specified terminating actor (§4.1) | **PRESERVE as chosen local support; REJECT unlimited capacity:** consent must be renewable and cost speakable (`DR10 §4.2`; `DR11 §5.3`) |
 
 ### 8.4 Relationship-conditioned variation
 
@@ -343,6 +380,21 @@ Do not convert the party's care into consent. Do not make her V11 victory a proo
 ### 8.5 Current V11 boundary
 
 Kikuchi is an increasingly agentic writer and partner whose central crisis is no longer whether she has talent or can enter social life. It is whether an owned vocation can justify and govern interpretive exposure. Her final group invitation reduces authorial monopoly and preserves her own need for an independent reason. It does not create permission from Hinami or complete relationship governance with Tomozaki. (`DR11 §§5.3, 8-9`)
+
+### 8.6 R05 Kikuchi source enrichment — 2026-09-13
+
+These additions strengthen existing CS-KIK-01–04 and CRI-KIK-001/002 responsibilities without changing their identities or the frozen readings. The [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) records independent source and literary checks. KF-P labels resolve in the [monograph’s primary register](../04%20Character%20Analysis/Kikuchi%20Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md#143-fresh-primary-source-register); exact witness/member/paragraphs below supply the evidence independently of that synthesis.
+
+| State / access / route | Bounded current addition | Disposition and limit |
+|---|---|---|
+| Middle-school formation disclosed in V06.5; Kikuchi-focalized retrospective; SR06.5 §9; `OEBPS/Text/part0018.xhtml` P1–288, `part0020.xhtml` P1–317; KF-P01–02 | Animated retelling and reciprocal library companionship precede Fumiya. Goda’s given name is 沙也加, with ruby supporting Sayaka at P45 of the first member. | **STRENGTHEN selected competence; REVISE transliteration only.** Frozen SR06.5 “Saya” remains historical. Neither one failed group entry nor the name correction supplies an exhaustive biography. |
+| V01-era private diary disclosed in V06.5; SR06.5 §§9/14; `OEBPS/Text/part0024.xhtml`–`part0027.xhtml`, embedded `image00216.jpeg`–`image00219.jpeg`; KF-P04 | May 3, June 7, June 11 and June 17 images connect irregular writing, a valued old book, friendship, the tissue encounter, workplace observation and manuscript disclosure. | **STRENGTHEN private chronology.** Actual images, not OCR; neither a daily routine nor contemporaneous Fumiya knowledge follows. |
+| V07–V08 winter interlude; Fumiya, Mimimi and Kikuchi focalizations remain separate; SR08.5 §§7/9/11.2; `text/part0009.html` P1–509, `part0011.html` P1–101, `part0019.html` P1–172, `part0021.html` P1–189; KF-P14–16 | She welcomes reception of the play, declines a large-group format while liking its participants, wants both dates, works at the café and engages Mimimi with sympathy and teasing. | **STRENGTHEN ordinary range and pre-V09 agency.** Preserve REL §6.1’s R04 Christmas evidence. No later rupture is repaired by these interstitial scenes; private Mimimi thoughts are not Kikuchi knowledge. |
+| V03 café and V08 New Year; Fumiya’s observation/inference; DR03 §6, DR08 §4.1; V03 `text/part0030.html` P275–425 and V08 `text/part0013.html` P35–40; KF-P05/21 | Omurice recurs; V08 P39 explicitly attributes a liking inference to Fumiya. | **STRENGTHEN bounded preference.** Repetition plus an attributed judgment supports liking, not a self-declared exclusive favorite or Hinami’s separate cheese preference. |
+| New Year’s Eve before V08; Kikuchi’s own narration; SR08.5 §11.2; `text/part0033.html` P1–30, `part0035.html` P1–153, `part0037.html` P1–68; KF-P17–19 | Warm sibling/family interaction, familiar speech and the annotated script as treasure supply a non-crisis baseline. Responsibility for probing Hinami is already explicitly questioned at `part0037.html` P22–26. | **STRENGTHEN ordinary life and earlier conscience.** Neither household competence nor a settled safeguard is inferred. V11 escalates a concern she has previously articulated. |
+| V11 Haruka inquiry; observed speech and distress, then Kikuchi self-assessment; DR11 §§4.9/5.3; `item/xhtml/p-0023.xhtml` P188–276 and `p-0025.xhtml` P109–146; KF-P29–30 | Haruka asks Kikuchi’s view (P188), stops Tomozaki’s interruption (P243–244), asks how she understands (P252), then cries. Kikuchi later acknowledges creative absorption and harm. | **STRENGTHEN participation/access precision.** Inquiry is not continued against an explicit Haruka refusal. Her participation does not establish informed anticipation of impact, Hinami’s consent or publication authority; the exact cause of each tear remains incompletely known. |
+
+Liking writing, demonstrated craft, professional aspiration, a conditional opportunity and an adequate reason for exposing living models remain distinct. The V11 question does not erase prior pleasure or ambition; effort §78.5 retains this distinction. All source clocks and the co-proposal/consent/result OPENs survive.
 
 ## 9. Nanami Minami / Mimimi
 
@@ -368,7 +420,7 @@ Kikuchi is an increasingly agentic writer and partner whose central crisis is no
 | V07 | rescues Tomozaki's public performance and sends him back for Kikuchi's direct answer; feeling remains while future freedom is asserted | costly generosity is not uncomplicated maturity or proof of resolution | `DR07 §§11-12, 15, 20-21` |
 | V07-V08 interstitial | tells Kikuchi her confession and says she will not do wrongdoing; receives validation that feeling need not be false because it partly relies on another | local ethical intent is direct; conduct rule remains incomplete | `SR08.5 §9, §§13-14, 17` |
 | V08 | remains in ordinary contact and self-search, openly knows whom she loves, and shares family circumstances | no independent long-term end or stopping rule is established | `DR08 §§4.2, 4.4, 5.4, 9-10` |
-| V09 | ends the habitual one-to-one walk, protects the couple from her own access, and later prevents Tomozaki's total peer withdrawal | no-wrongdoing becomes concrete but not terminal; love remains | `DR09 §§4.1-4.2, 5.4, 8-9` |
+| V09 | initiates separate walks for roughly a week, then resumes a walk to challenge Tomozaki’s peer withdrawal; states partial self-regard and reports some Kikuchi-conversation content | local restraint is real and revised; love remains, the couple’s solution is still incomplete and no standing contact rule follows | `DR09 §§4.1-4.2, 5.4, 8-9`; §9.6 / NM-P27–28 |
 | V10 | contributes recipient-specific birthday care and respects the couple's known boundaries | no new pursuit or terminal rule | `DR10 §5.5, §§8-9` |
 | V11 | articulates the seesaw between skill confidence and self confidence; substitutes for council leadership, becomes an improvised commentator, and monitors physical boundaries around Tomozaki | performance and leadership are capacities, not yet selected vocation; love endpoint remains open | `DR11 §§4.4, 5.6, 8-9` |
 
@@ -393,7 +445,21 @@ Kikuchi is an increasingly agentic writer and partner whose central crisis is no
 
 ### 9.5 Current V11 boundary
 
-Mimimi has multiple demonstrated routes to value—Tama, friendship, athletics, leadership, and communication—but no independently selected long-horizon end. Her comparison sensitivity and romantic feeling remain open. The most defensible current model is **partial diversification of self-worth with persistent dependence on comparison and relational usefulness**, not cure and not stasis. (`DR11 §§5.6, 8-9`; `EFFORT §§73, 75-77`)
+Mimimi has multiple demonstrated routes to value—Tama, friendship, athletics, leadership, and communication—but no independently selected long-horizon end. Her comparison sensitivity and romantic feeling remain open. The most defensible current model is **partial diversification and affirmative self-regard with remaining vulnerability to comparison and relational usefulness**. V09’s explicit liking for the self who loves Tomozaki is a positive local change, not a guarantee of durable self-approval across contexts. (`DR09 §5.4`; NM-P27 / §9.6; `DR11 §§5.6, 8-9`; `EFFORT §§73, 75-77`)
+
+### 9.6 R05 Mimimi source enrichment — 2026-09-13
+
+The [Mimimi integration review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) accepts her individual literary role and routes selective source returns through [NM-E01–28 and NM-P01–28](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md#nm-e01). These additions strengthen existing CS-MIM-01–04; they create no new frozen claim identities.
+
+| State / access and source route | Reviewed observation | Current use and limit |
+|---|---|---|
+| V05 appended prior-volume bonus; Tama and Mimimi focalizations; DR05 §16; NM-P06 | Mimimi conceals a declined noisy group outing for Tama; Tama quietly omits shrimp. Mimimi enjoys crab pasta and they agree to a smaller karaoke trial. | Reciprocal care and positive preference, with uneven knowledge. No allergy, general seafood aversion, post-V05 chronology or observed completion of the trial. |
+| Post-V05/pre-V06 private Mimimi; SR06.5 §10.1; NM-P07 | Gladness at Tama’s growth can exceed sadness about being less needed. | Role-loss vulnerability coexists with support for independence; no wish to keep Tama dependent follows. |
+| Same routed running story; NM-P08–11 | Sensory running, grooming changes, navigation error, affectionate domestic care and the mother’s critique of harmony funded by one person’s endurance precede a personal-best aim, one 100-metre victory and a declined rematch. | Independent pleasure, received advice and an actual local stop qualify self-sacrifice and comparison accounts. High jump remains her specialty; no clocked personal best, family diagnosis or permanent cure. |
+| V09 addressed speech and Fumiya narration; DR09 §5.4; NM-P27–28 | A roughly week-long practice of separate walks is followed by an actual resumed walk; Mimimi says she likes the self who loves him and reports some conversation with Kikuchi. | Real partial self-regard and revised conduct. Her initial pulling precedes assent; later brief continuation of comforting contact is separately requested and accepted. No complete V08.5 knowledge, romantic endpoint or standing contact permission. |
+| V11 public/group and institutional contexts; DR11 §§4.4/5.6; NM-P23–26 | She distinguishes capacities from self, bounds her Hinami analogy, proposes council help after an earlier refusal, and participates as a novice commentator. | Teacher-approved assistance and playful acting-president language are not a new election or established appointment. New capacity and favorable reception do not select a vocation; task extension does not prove unlimited advance assent. |
+
+The original source-facing readings and earlier local-restraint audit remain valid at their actual boundaries. The [relationship ledger](TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md) carries the revised contact and knowledge sequence; effort §78.6 and voice §6.1 retain the narrower disciplinary implications.
 
 ## 10. Natsubayashi Hanabi / Tama
 
@@ -449,7 +515,7 @@ Tama's current state is stable relative to the larger crises, but the evidentiar
 | V06 / retrospective V06.5 | continues direct pursuit and also enjoys other social activity; supplemental history shows desire existed while his earlier policy was to wait | waiting and pursuit are different methods, neither proof of absent ownership | `DR06 §12, §§19-20`; `SR06.5 §10.3, §14` |
 | V07-V09 | increasingly names a wish to be character-facing and supplies peer diagnosis; pursuit lacks a consent-sensitive terminal rule | perceptiveness is not moral maturity in every domain | `DR07 §14.1, §§20-21`; `DR09 §5.5, §§8-9` |
 | V10 | openly owns love, receives Hinami history without her consent, turns polished performance into an Endo agreement, and sees promotion/negotiation as possible vocation | serious motive does not authorize disclosure; one result is not a career | `DR10 §§4.3-4.4, 5.4, 8-9` |
-| V11 | explains love as a wish to understand Hinami's undisclosed loneliness and recognizes a possible hero fantasy | no confession, reply, stopping rule, or sustained vocation test occurs | `DR11 §5.5, §§8-9` |
+| V11 | explains love as a wish to understand Hinami's undisclosed loneliness and recognizes a possible hero fantasy | no renewed confession, resulting reply, stopping rule, or sustained vocation test occurs | `DR11 §5.5, §§8-9` |
 
 ### 11.2 Stable tendency, self-theory, and recipient variation
 
@@ -517,8 +583,8 @@ These entries are included because each carries a recurring state question not r
 
 ### 13.1 Nakamura Shuji — pride, effort, relationship history, and rough reciprocity
 
-| State movement | Evidence and bound | Route |
-|---|---|---|
+| State movement | Evidence | Bound | Route |
+|---|---|---|---|
 | defeated antagonist to recognized rival | excuses after the first loss give way to real training, Tomozaki's defense of that effort, `次は勝つ`, and acceptance of a controller | rivalry and acknowledgment are direct; early friendship is not | `DR01 §§4.2, 13, 17.5, 22-23`; `DR02 §23, §30` |
 | high-status peer with constrained disclosure | pride shapes how friends deliver information; he can tolerate Tomozaki's teasing and choose an outing with Yuzu | peer planning remains partly covert | `DR03 §§10, 13.3, 18-19` |
 | relationship owner | returns under Yuzu's direct appeal, begins dating her, and later explains irreplaceability through lived history | the relationship is not reducible to status or hypothetical optimization | `DR04 §§6, 8.1`; `DR07 §6, §14.5` |
@@ -552,7 +618,7 @@ Current state: active admirer, younger sister, council leader, and newly recruit
 
 | Boundary | State | Bound | Route |
 |---|---|---|---|
-| V08 | the twenty-year-old player rapidly sexualizes contact with seventeen-year-old Tomozaki; he refuses sex but withholds relevant detail from Kikuchi | refusal is direct; durable contact governance is absent | `DR08 §§4.6, 5.1, 8.3, 9-10` |
+| V08 | the twenty-year-old player rapidly sexualizes contact with seventeen-year-old Tomozaki; he directly denies wanting sexual contact with her but withholds relevant detail from Kikuchi | refusal is direct; durable contact governance is absent | `DR08 §§4.6, 5.1, 8.3, 9-10` |
 | retrospective V08.5 | exclusion from two peer groups is followed by using older men's sexual demand and status as a belonging/self-confirmation substitute; attached targets can intensify interest | formation explains continuity, not excuse, diagnosis, or involuntariness | `SR08.5 §10, §§13-14, 17` |
 | V09 | after a narrow message-content boundary, she sends lingerie imagery, touches without permission, and proposes sex; Tomozaki verbally and physically refuses; her relationship advice can still be perceptive | useful advice does not neutralize violation; Ashigaru's presence is a local safety control, not her internal stop | `DR09 §§4.1, 5.5, 7.4, 8-9` |
 | V11 | again takes Tomozaki's arm; he removes it and Kikuchi directly names the relationship boundary; Rena leaves amused | resistance is demonstrated; later broad compliance is not | `DR11 §5.3, §5.7, §§8-9` |
@@ -561,7 +627,7 @@ Current state: boundaries are repeatedly imposed from outside rather than shown 
 
 ### 13.5 Akiyama — subordinate participation and incomplete accountability
 
-Akiyama moves among follower, aggrieved subordinate, instrument in Hinami's plan, active retaliator, and later ordinary class participant. This multiplicity corrects category compression without making her innocent. V05 supports resentment, agency in confrontation, and some later capacity to approach Tama, while leaving the exact degree of coercion, prior participation, and confession unresolved. V06 preserves mutual criticism with Konno; V07 adds ordinary production participation without completed trust repair. (`DR05 §§7.1-8.2, 11.5, 17-18`; `DR06 §6`; `DR07 §14.4`)
+Akiyama moves among follower, aggrieved subordinate, instrument in Hinami's plan, active retaliator, and later ordinary class participant. This multiplicity corrects category compression without making her innocent. V05 supports resentment, agency in confrontation, and some later capacity to approach Tama, while leaving the exact degree of coercion, prior participation, and confession unresolved. V06 preserves mutual criticism with Konno; V07 supplies no comparable forward development for Akiyama. Konno's rehearsal contribution must not be transferred to her, and completed trust repair remains absent. (`DR05 §§7.1-8.2, 11.5, 17-18`; `DR06 §6`; `DR07 §14.4`)
 
 Current state: person-level complexity established; full acknowledgment and durable accountability remain open.
 
@@ -622,6 +688,45 @@ Current state: person-level complexity established; full acknowledgment and dura
 | CS-HAR-01 | Hinami's example creates genuine Haruka agency and a vulnerable external warrant | V11, with retrospective precursor | **STRENGTHEN / OPEN independence** | `SR08.5 §8.3`; `DR11 §§4.4, 5.4` |
 | CS-REN-01 | Rena's boundaries remain externally enforced; lost belonging explains but does not excuse the demand regime | V08-V08.5 | **STRENGTHEN** | `SR08.5 §10`; `DR09 §5.5`; `DR11 §5.7` |
 
+### 15.1 R01 cross-owner reconciliation of all 30 character claims
+
+This is a character-owner crosscheck through the existing V11 boundary, not new sequential evidence or an aggregate reconciliation PASS. `PRESERVE` below retains the claim and its existing §15 disposition; a correction to supporting attribution does not erase the historically earned claim. CRI families are cumulative retrieval joins, not proof by repeated assertion. The original L1 routes in §15 remain controlling alongside the exact corrections in §4.1. Neighboring IDs mark the relevant limit or ownership interface, not a claim that every owner independently analyzes the whole person.
+
+| CS identity | CRI family crosswalk | EFFORT sections | REL / SOC interface | Crosscheck disposition and evidence-plane limit |
+|---|---|---|---|---|
+| CS-TOM-01 | `CRI-TOM-001`; `CRI-EFF-002` | §§3.1–3.2, 4.1, 71, 76 | `REL-C11`; `SOC-C16` | **PRESERVE.** Repeated practice and match action establish domain capacity; V11 defeat and withdrawal do not retroactively establish general passivity or permanent inferiority. |
+| CS-TOM-02 | `CRI-TOM-002`; `CRI-TOM-003` | §§9, 13, 22–23, 31.5 | `REL-C01–C02`; `SOC-C10` | **PRESERVE.** Retrieval, refusal, adaptation, and learner-fitted teaching support ownership in use; a learned form or negotiated term alone does not prove universal autonomy. |
+| CS-TOM-03 | `CRI-TOM-004`; `CRI-REL-004`; `CRI-FORM-001` | §§12.4, 16, 24, 56–57, 66, 74–75 | `REL-C03–C05`, `REL-C09`; `SOC-C19`, `SOC-C22` | **PRESERVE.** Effective care and observed unauthorized transfer coexist. Good intent, accurate interpretation, and subsequent benefit cannot supply another actor's permission. |
+| CS-TOM-04 | `CRI-TOM-004`; `CRI-REL-006`; `CRI-EFF-001` | §§4.1, 38, 45, 57, 71, 75 | `REL-C11–C13`; `SOC-C16–C17` | **PRESERVE.** Causal review and plural ties support resilience under earlier tests; V11 credential-dependent collapse is counterevidence to unconditional resilience, not loss of every acquired resource. |
+| CS-HIN-01 | `CRI-HIN-001`; `CRI-HIN-006`; `CRI-EFF-002` | §§3.3, 31.1, 71, 76–77 | `REL-C11`; `SOC-C20` | **PRESERVE / BOUND game scope.** V06 game victory and V11 set victory are distinct actions (§4.1). Retained execution does not prove retained reason, school functioning, or universal superiority. |
+| CS-HIN-02 | `CRI-HIN-004`; `CRI-HIN-006` | §§3.3, 10.2, 31.1, 71 | `REL-C08`; `SOC-C20` | **PRESERVE.** Recipient-conditioned modes and labor undermine the fake/true binary; observer models and her crisis self-description do not identify an exhaustive essence. |
+| CS-HIN-03 | `CRI-HIN-002`; `CRI-HIN-005`; `CRI-HIN-006` | §§5, 31.1, 53, 60, 67, 72, 74, 77 | `REL-C02`, `REL-C11`; `SOC-C20–C21` | **PRESERVE with §4.1 attribution.** The warrant-system reconstruction draws on speech, conduct, and retrospective interiority; it is not all information transmitted to Tomozaki or an exhaustive single motive. |
+| CS-HIN-04 | `CRI-HIN-003`; `CRI-FORM-001` | §§5.2, 15.3, 25.1, 29, 46 | `REL-C15`; `SOC-C09`, `SOC-C11` | **PRESERVE.** Enjoyment and the named Tama value constrain the doctrine-only model. Hinami's admitted revenge is distinct from Tomozaki's punishment judgment; ownership of motive supplies neither justice nor repair. |
+| CS-HIN-05 | `CRI-HIN-005`; `CRI-EPI-002`; `CRI-HIN-002` | §§67, 72, 74, 77 | `REL-C09`; `SOC-C22` | **PRESERVE core / REVISE supporting attribution and chronology.** The mixed-person retrospective supports formation; actor access, Nagisa's intent, grade alignment, and total causation remain bounded or OPEN (§4.1). |
+| CS-KIK-01 | `CRI-KIK-001`; `CRI-REL-006` | §§30.3, 37, 47, 54.1 | `REL-C01`, `REL-C13`; `SOC-C15` | **PRESERVE.** Chosen literary habitat and later participation are compatible; private supplemental viewpoint does not become shared knowledge or a deficit diagnosis. |
+| CS-KIK-02 | `CRI-EPI-001`; `CRI-KIK-002`; `CRI-REL-004` | §§37.1, 58–59, 75, 77 | `REL-C09–C10`; `SOC-C19` | **PRESERVE.** Fiction gives direct access to an authored construction; correspondence with another person is interpretation, not that person's testimony or consent. |
+| CS-KIK-03 | `CRI-REL-002`; `CRI-EFF-001`; `CRI-EPI-003` | §§36–37, 47, 54.1, 58, 75 | `REL-C04–C06`, `REL-C14`; `SOC-C19` | **PRESERVE core / REVISE call-action support.** Reciprocal choice and voiced boundaries are observed; the V11 call's unspecified ending cannot establish her deliberate hangup or a durable stopping policy (§4.1). |
+| CS-KIK-04 | `CRI-KIK-002`; `CRI-EPI-001`; `CRI-FORM-001` | §§37.1, 59, 75, 77 | `REL-C09–C10`; `SOC-C19`, `SOC-C22` | **PRESERVE.** Recognition and concrete writing work strengthen vocation; exposure, motive, completion, publication, and impact governance remain distinct questions. |
+| CS-MIM-01 | `CRI-MIM-001`; `CRI-FORM-001`; `CRI-REL-006` | §§17.2, 38, 75–77 | `REL-C07`, `REL-C13`; `SOC-C17`, `SOC-C21` | **PRESERVE.** Performed brightness has observable social effects and disclosed cost; neither the effects nor the self-report warrants an always-false performance or costless-care model. |
+| CS-MIM-02 | `CRI-MIM-001`; `CRI-MIM-002`; `CRI-EFF-001` | §§6, 31.2, 75–76 | `REL-C07`; `SOC-C14`, `SOC-C21` | **PRESERVE.** Comparative self-worth explains more than fatigue alone; process-valued running and new competence diversify the record without proving stable self-worth at V11. |
+| CS-MIM-03 | `CRI-MIM-002`; `CRI-EFF-002` | §§7, 25.3, 31.2 | `REL §8.3`, `REL-C13`; `SOC §6.4`, `SOC-C17` | **PRESERVE.** Tama's person-specific recognition interrupts rank dependence; continued competition and ambition prevent an abolition-of-ranking conclusion. |
+| CS-MIM-04 | `CRI-MIM-003`; `CRI-EPI-003` | §§31.3, 36, 54.2, 75–76 | `REL-C06–C07`; `SOC-C17` | **PRESERVE / OPEN terminally.** Continuing love, costly help, and local restraint coexist. Neither waiting for a future reward nor a complete permanent conduct rule is established. |
+| CS-TAM-01 | `CRI-TAM-001`; `CRI-SOC-001` | §§17.1, 22–23 | `REL-C01`, `REL-C15`; `SOC-C07`, `SOC-C10` | **PRESERVE.** Strong baseline expression and hostile reception are different variables; the learner-specific repair does not make harassment Tama's responsibility. |
+| CS-TAM-02 | `CRI-TAM-001`; `CRI-TOM-002` | §§17.1, 22–23, 30.2, 48 | `REL-C01`, `REL-C15`; `SOC-C04`, `SOC-C10` | **PRESERVE.** Chosen skills change how her position reaches recipients; preserving her evaluative core is supported by repeated choices, not by a ban on change. |
+| CS-TAM-03 | `CRI-TAM-001`; `CRI-EPI-003` | §§30.2, 39, 48 | `REL-C13`, `REL-C15`; `SOC-C10–C11` | **PRESERVE / OPEN.** Later observed flexibility bounds the cage-risk hypothesis; no fresh hostile retest, settled vocation, or accountability result can be inferred from absence. |
+| CS-MIZ-01 | `CRI-MIZ-001`; `CRI-TOM-003`; `CRI-EFF-001` | §§11, 25.2, 31.4, 65, 75 | `REL-C16`; `SOC §6.5` | **PRESERVE.** Fluency, personally costly confession, and possible vocational fit are different states. V03 refusal remains historical evidence; V11 adds no renewed declaration (§4.1). |
+| CS-MIZ-02 | `CRI-MIZ-001`; `CRI-REL-004` | §§11, 25.2, 31.4, 66, 75 | `REL-C03`, `REL-C09`, `REL-C16`; `SOC-C19` | **PRESERVE / BOUND.** Risk and declared love are evidence of his ownership; claimed understanding is his interpretation and supplies no information, access, or pursuit right. |
+| CS-MIZ-03 | `CRI-MIZ-001`; `CRI-EFF-001` | §§65, 75–76 | `REL §8.4`; `SOC §6.5` | **PRESERVE / OPEN.** The negotiation performance supports a possible vocation; a career, sustained test, or stopping rule is not demonstrated. Social competence cannot substitute for those missing tests. |
+| CS-YUZ-01 | `CRI-YUZ-001`; `CRI-TOM-003` | §§12.3, 14, 30.1 | `REL-C13`; `SOC-C13` | **PRESERVE.** Her articulated affiliation reason and later practice support chosen accommodation; the presence of burden alone does not prove submission. |
+| CS-YUZ-02 | `CRI-YUZ-001`; `CRI-SOC-002` | §§25.4, 30.1, 76 | `REL-C13`; `SOC-C11`, `SOC-C13` | **PRESERVE.** Mediation and coexistence are observed capacities; absent apology, restitution, and accountability cannot be supplied by maintenance success. |
+| CS-YUZ-03 | `CRI-YUZ-001`; `CRI-EFF-001`; `CRI-EPI-003` | §§30.1, 39, 76 | `REL-C12–C13`; `SOC-C13–C14`, `SOC-C21` | **PRESERVE / OPEN.** Leadership and V11 guilt are source-visible; neither establishes a durable capacity boundary or warrants sole responsibility for the collective video. |
+| CS-NAK-01 | `CRI-EFF-002`; `CRI-REL-006`; `CRI-FORM-001` | §§3.4, 12.3, 18, 39 | `REL-C13`; `SOC-C17` | **PRESERVE, not idealize.** Effort, lived relationship testimony, and rough loyalty support movement; no dedicated Nakamura CRI family is invented, and blunt protection does not prove mature communication. |
+| CS-KON-01 | `CRI-KON-001`; `CRI-SOC-002`; `CRI-EPI-003` | §§24, 25.5, 31.6, 39 | `REL-C15`; `SOC-C08`, `SOC-C11–C12` | **PRESERVE dual state / OPEN repair.** Earlier harm and later help belong to the same actor. Konno's V07 rehearsal contribution is not transferable to Akiyama (§13.5) or evidence of apology. |
+| CS-HAR-01 | `CRI-FORM-001`; `CRI-REL-004`; `CRI-EFF-001` | §§53, 66, 73, 77 | `REL-C03`, `REL-C09`; `SOC-C14`, `SOC-C21–C22` | **PRESERVE / OPEN independence.** Election work and Haruka's account support real agency and model dependence; the benefit neither obligates Hinami to perform nor authorizes inquiry by others. |
+| CS-REN-01 | `CRI-REL-004`; `CRI-EPI-003` | §§47, 54.3, 61, 76 | `REL §8.5`, `REL-C14`; `SOC §6.4` | **PRESERVE.** Retrospective belonging history explains a demand pattern; present refusals remain external resistance, not an internalized boundary. These are functional CRI joins, not a dedicated Rena family. |
+
+All 30 identifiers retain their original scope and historical routes. This pass narrows supporting formulations rather than replacing the cumulative character models. Joint readiness belongs to the [longitudinal reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md); neither this crosswalk nor the presence of neighboring files promotes a monograph or synthesis.
+
 ## 16. V11 boundary registry: open questions and abstentions
 
 ### 16.1 Character-state questions that remain OPEN
@@ -631,13 +736,13 @@ Current state: person-level complexity established; full acknowledgment and dura
 | Tomozaki | Can he recover an owned reason to play and attend school without restoring unique-savior identity? |
 | Tomozaki | Can professional ambition survive route constraints, failure, family/university negotiation, and an exit condition? |
 | Hinami | Can she select an affirmative end that tolerates chance, received value, and relationship without returning to imposed retrospective meaning? |
-| Hinami | Will she return to school, council, friendship, coaching, or competition, and on whose terms? |
+| Hinami | Will she return to school, council, friendship, or coaching, and on whose terms? Can retained competition continue beyond the V11 set? |
 | Kikuchi | What reason for writing can govern consent, transformation, exposure, and harm under professional pressure? |
 | Kikuchi / Tomozaki | Can the couple form durable rules for time, privacy, Hinami priority, Rena, Mimimi, fictionalization, and third-party disclosure? |
 | Mimimi | Can self-worth become stable outside Hinami comparison and being the person who performs, rescues, or yields most? |
 | Mimimi | What terminal or revised rule governs continuing love for Tomozaki? |
 | Tama | Does the expanded interface remain freely revisable under a new hostile context, and does family-shop work become an owned vocation? |
-| Mizusawa | Does he confess, accept a reply, and adopt a stopping condition that does not turn interpretation into entitlement? |
+| Mizusawa | Does he confess again, accept a reply, and adopt a stopping condition that does not turn interpretation into entitlement? |
 | Yuzu | Can she set a capacity/absorber boundary while preserving chosen affiliation and leadership? |
 | Nakamura | Can rough loyalty become more explicit communication during group rupture and Yuzu's overload? |
 | Konno / Akiyama | Does either actor acknowledge harm, apologize, make restitution, or develop durable accountability? |
@@ -649,7 +754,7 @@ Current state: person-level complexity established; full acknowledgment and dura
 At the V11 boundary, this ledger does **not** establish:
 
 - any psychiatric diagnosis for any character;
-- Nagisa's intent, a named medical condition, a complete bullying chain, or a singular causal account of Hinami;
+- Nagisa's intent, a harmonized school-year chronology, a named medical condition, a complete bullying chain, or a singular causal account of Hinami;
 - one authentic Hinami beneath all roles, or literal emptiness as absence of value, attachment, or capacity;
 - Tomozaki/Hinami romance, permanent non-romance, or an eventual pairing;
 - successful rescue, consent to the collective story, Hinami's school return, or resumed coaching;
@@ -677,11 +782,11 @@ Each monograph should consume this ledger by claim ID and preserve the chronolog
 - retain current abstentions; and
 - avoid describing V11 as though it had always been latent and knowable.
 
-The existing monographs remain provisional retrieval aids until they demonstrably satisfy that dependency.
+Fumiya and Hinami now satisfy their local monograph dependencies under the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md) and [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md). Kikuchi and Mimimi pass the same bounded role under the [Kikuchi review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) and [Mimimi review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md). The other three monographs remain provisional retrieval aids until they demonstrably satisfy the contract.
 
 ### 17.2 To the relationship-state layer
 
-This ledger records **how a relationship changes a person's state**. A relationship-state ledger must separately own directional trust, disclosure, attraction, leverage, consent, repair, boundaries, address/register, and A-to-B versus B-to-A asymmetry. It should not infer reciprocity merely because both parties appear in this file.
+This ledger records **how a relationship changes a person's state**. The [relationship-state ledger](TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md) separately owns directional trust, disclosure, attraction, leverage, consent, repair, boundaries, address/register, and A-to-B versus B-to-A asymmetry. It should not infer reciprocity merely because both parties appear in this file.
 
 Priority dyads/networks are Tomozaki-Hinami, Tomozaki-Kikuchi, Tomozaki-Mimimi, Mimimi-Tama, Mizusawa-Hinami, Yuzu-Nakamura, Hinami-family, the V05 class network, and the V11 proposed party.
 
@@ -704,3 +809,13 @@ If a later numbered volume is admitted, begin prospectively from the V11 freeze 
 ## 18. Maintenance note
 
 V1.0 is the first cumulative character-state backfill after closure of the V01-V11 sequential chain. It promotes no EPUB locator, uses no adaptation or translation evidence, and leaves the preserved readings unchanged. Future revisions must be targeted, must name the new source boundary or correction basis, and must preserve obsolete formulations long enough to show why their disposition changed.
+
+V1.1 records the bounded R01 correction pass through the same source boundary. It adds the all-30-CS cross-owner check, separates V11 retrospective reader access from actor knowledge, retains the genuine school-year tension, narrows the phone-call and renewed-confession formulations, distinguishes game/set scope and retained competition, removes an unsupported V07 Akiyama advance, corrects the Nakamura table header, and routes the authored relationship owner. No sequential reading, monograph, or synthesis was rewritten. Exact-source retrieval and aggregate reconciliation remain separately reviewed in their owning audits.
+
+V1.2 adds the independently reviewed R04 Fumiya ordinary-life source enrichment in section 6.6 and updates monograph routing. Existing CS identities, chronological rows, and R01 correction dispositions remain unchanged.
+
+V1.3 records the Hinami R04 checks in §7.7, precise V06 set scope and V09 pause agency, and both reviewed R04 monograph roles. Existing claim registers, Fumiya §6.6 and all prior maintenance history are preserved.
+
+V1.4 adds the reviewed Kikuchi R05 enrichment in §8.6 and records her local monograph acceptance. All chronological and claim-register rows, Fumiya §6.6, Hinami §7.7 and earlier maintenance history remain unchanged; R05 still requires Mimimi.
+
+V1.5 adds Mimimi §9.6 and narrows the current V09 chronology and V11 self-valuation formulation. All thirty CS identities, other character histories and the three earlier accepted monograph enrichments survive. R05’s pair now passes locally; later convergence remains unpassed.
