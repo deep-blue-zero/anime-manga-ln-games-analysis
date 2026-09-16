@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Power, technique, limiter, God, and cosmic evidence through V34
+scope: Power, technique, limiter, God, and cosmic evidence through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -689,3 +689,47 @@ Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_
 | Memory and mastery / TF,VF | two Saitamas merge, he lacks memory; Garou forgets attained techniques; core transfers memories | demonstrated feat is not certified reusable conscious technique; Genos's branches are hypothetical | `173–175 / 0141–0162,0167,0203` |
 
 Effective outcome remains a relation among output, mechanism, information, rate, geometry, constraint and coordination. The retained core and Garou's instruction are causally meaningful. No new limiter-removal origin or exhaustive God/seal/landform identity is supplied.
+
+## V35 power delta — convergent God evidence and psychic futures
+
+Propagated after the frozen [V35 reading](../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+| Evidence class / mechanism | Established V35 change | Limit | Evidence |
+|---|---|---|---|
+| Homeless Emperor dissolution / TF,VF | meeting reopens his testimony and abrupt removal as donor evidence | witness interpretation and selection logic remain incomplete | `178 / 0085–0090` |
+| Manako vessel contact / TF | contact appears tied to touching a vessel and transmitted power offer | bounded observation, not a rule for every recipient or manifestation | `178 / 0091–0093` |
+| Blast/cubes / attributed TF | Sitch reports twenty-year cube collection, direct refusal and spacetime absence while opposing `神` | reported campaign, not independently shown full history or cosmology | `178 / 0094–0106` |
+| Limiter / character inference | Zombieman proposes removed limiter to explain Saitama | investigator hypothesis; mechanism/origin and narrator endorsement absent | `178 / 0107–0109` |
+| `Third Eye` / TF,VF | Psykos experiments for Shibabawa-like future sight, experiences terror and develops extermination doctrine | source, truth, inevitability and relation to `神` remain open | `181 / 0169–0180` |
+| Artificial esper / TF | Tatsumaki judges Tsukuyomi development has advanced somewhat; operative uses `念打` | comparative character appraisal without complete enhancement mechanism or ceiling | `181 / 0189–0192` |
+
+The volume strengthens a multi-witness intervention trend while preserving donor identity, cube function, bargain/revocation terms, Blast's allies and dimensional entry cause as open questions.
+
+## V36 power delta — measurement limits and unknown developmental capacity
+
+Propagated after the frozen [V36 reading](../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+| Evidence class / mechanism | Established V36 change | Limit | Evidence |
+|---|---|---|---|
+| Psychic signal imitation / TF | Tatsumaki copies the operative's wavelength and neutralizes the capsule mechanism | skilled countermeasure; full sensing range and technology/psychic interface remain open | `182 / 0029–0032` |
+| Institutional alarms / TF | sensors detect vibration and ultra-high energy, then fail or lose explanation | detection is not causal interpretation or comparative power scale | `184,187 / 0097–0103,0174–0178` |
+| Tatsumaki output / internal TF | she says she became absorbed, misjudged `出力限界` and thinks the output could throw Saitama into space | self-assessment, not observed spaceward feat or numerical equivalence | `187 / 0179–0187` |
+| Saitama durability / narrator TF | narrator states he is `当然のように 無傷` | strong local certification; mechanism and ultimate ceiling remain unstated | `187 / 0186` |
+| Unknown limit / Saitama claim | pre-training Saitama could not beat Wolf level; present weakness does not reveal a person's limit | supports developmental possibility, not guaranteed growth or a universal training mechanism | `187 / 0204–0207` |
+| Blast memory / attributed interiority | rescue, instruction and hoped-for recognition shape Tatsumaki's protective duty | psychological history; no new cube/God cosmology or Blast-current-status evidence | `187 / 0188–0196` |
+
+No limiter mechanism, God identity, cube rule or cosmic ceiling is newly resolved in V36.
+
+## V37 power delta — self-assessed upgrades, precision and social inference
+
+Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+| Evidence class / mechanism | Established V37 change | Limit | Evidence |
+|---|---|---|---|
+| `雷光核` / TF and VF | Genos activates a luminous electrical core and visibly upgraded parts | real hardware; no independent numerical ceiling or completed Dragon matchup | `190–191 / 0060–0084` |
+| Genos firepower / attributed self-assessment | judges firepower usable even against Dragon-level opposition | confidence/prospect, not narrator-certified capability | `190 / 0060–0064` |
+| Nichirin ki circulation / attributed explanation plus demonstrated result | circulates ki through weapon and prosthetic body; apple is actually cut too finely to separate | precision mechanism locally supported; not a universal sword or regeneration rule | `193 / 0151–0157` |
+| Atomic apple demonstration / visible result | produces a dense lattice of cuts while the fruit stays assembled | skilled control established; does not validate later inferences about King | `194 / 0174–0176` |
+| King test / VF and focalized inference | never unsheathes or cuts; observers imagine action too fine for sword and apple to notice | literal non-event governs; expertise cannot manufacture a feat | `194 / 0177–0198` |
+
+No limiter mechanism, God identity, cube rule or cosmic ceiling is newly resolved in V37. Evaluation failure is a social mechanism, not an undisclosed power.

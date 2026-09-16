@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Monster and antagonist character state through V34
+scope: Monster and antagonist character state through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -759,3 +759,45 @@ Propagated after the frozen [V34 reading](../../02%20Sequential%20Readings/OPM_V
 **Strong retained**, with substantial added ordinary, failure, repair and relationship breadth. Divine power loss differs from personhood: Tareo embraces the transformed survivor before human appearance returns. The future instructor and present disciple have unequal knowledge.
 
 The donor's detached confiscation voice is an actual revocation instance; embodied identity and universal terms remain open. No new verified Rover/Black Sperm domestic survival follows from this volume; V1's claims to that effect are rejected at V34 and quarantined after freeze. Earlier reserves and aquatic-monster persistence remain unresolved.
+
+## V35 antagonist delta — reduced survivors and Psykos's prehistory
+
+Propagated after the frozen [V35 reading](../../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+| Profile / trigger | Observed state and response | Retained limit | Evidence |
+|---|---|---|---|
+| Black Sperm after defeat | cell stock gone, too weak to beat a puppy; adopts pet disguise, seeks protein/shelter and later acknowledges complete defeat | emerging retained, ordinary survival breadth added; recovery scale, disclosure and moral conversion open | `176,bonus / 0027–0041,0196–0201` |
+| Pochi after defeat | survives much smaller, follows Saitama and accepts food/care | mechanism/history retained; docility under recovery, permission and independent intention remain open | `176–bonus / 0030–0041,0140–0152,0196–0201` |
+| Evil Natural Water remnant | tiny active survivor attacks Air and Pig God internally; Pig God says it is digested | mechanism-only emerging retained; local speaker resolution without independent recurrence test | `176 / 0022–0027` |
+| Psykos as captive | targeted as mutation/future-sight specimen; school flashback gives vice presidency, relative weakness, `Third Eye` research and future-triggered extermination doctrine | emerging retained, materially strengthened. Vision truth/source and present agency remain open; exploitation does not acquit prior acts | `180–181 / 0153–0180` |
+
+Fubuki/Psykos mirror organization is an analytical parallel, not a certified direct genealogy from the school society to the Monster Association. Tsukuyomi is routed as a hidden human organization, not silently classified as monster.
+
+## V36 antagonist delta — Tsukuyomi doctrine, off-list bodies and coerced civilians
+
+Propagated after the frozen [V36 reading](../../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+| Profile / trigger | Observed state and response | Retained limit | Evidence |
+|---|---|---|---|
+| Tsukuyomi operative | adulterates beauty supplement, uses psychic signal for sleep/poison, denounces inborn psychics as defective and opens demon cages | doctrine, mechanism and organizational intent strengthen; personal identity, hierarchy and survival after interrogation remain open | `182 / 0015–0037` |
+| Scarred responder / hidden actor | locates the reacting inorganic capsule and appears inside the compromised response system | affiliation and motive remain unidentified; do not merge him with Tsukuyomi without later evidence | `182 / 0022,0029–0030` |
+| Sonic | misreads Tatsumaki as Saitama's captor/opponent, attacks and loses narrative control through redirected force and mundane accident | unilateral rivalry model retained; no informed assessment or new readiness tier | `186 / 0151–0159` |
+| Kenzan Nezumi | receives Dragon classification, destroys responders and is displaced through the psychic fight | destructive function confirmed; defeat attribution and independent capability ceiling remain thin | `185–186 / 0132–0145` |
+| Gang around Erika | coercion, threat and false-hostage structure force her deception | episode-level antagonism only; no durable organization model | `185 / 0117–0131` |
+| Psykos in extraction | remains unconscious/contained while Fubuki moves her as a protected source and leverage object | present consent and agency are unavailable; rescue from exploitation does not settle accountability or personhood | `188 / 0217–0233` |
+
+No V37 consequence is imported for Tsukuyomi, Psykos, Child Emperor's probe or the remaining monster-body market.
+
+## V37 antagonist delta — altered organisms, reduced survivors and institutionalized danger
+
+Propagated after the frozen [V37 reading](../../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+| Profile / trigger | Observed state and response | Retained limit | Evidence |
+|---|---|---|---|
+| Forest Tribe / Forest King | seals Y-City, regenerates greenery through human corpses and escalates from an initially Tiger-rated mass to a Dragon-rated king | distinct organism/ecology mechanism; Genos declares intent but V37 does not show the final matchup | `190 / 0051–0064` |
+| Gachiwawa | extreme miniaturization turns a formerly domestic animal fearful and violently unstable outside containment; actual level is Demon | alteration and context explain behavior without making the public threat unreal or fixing every causal mechanism | `192 / 0101–0126` |
+| Black Sperm | survives at reduced scale, feeds Rover and says eating is his only present route to restoring cell count | survival and recovery aim confirmed; reserve scale, future allegiance and public risk remain open | `193 / 0161–0170` |
+| Rover | survives in reduced domestic form and occupies Forte's doghouse near Saitama | present accommodation is real; permission, recovery ceiling and future threat status remain unresolved | `193 / 0161–0170` |
+| Amai Mask hypothesis | changing face, absent records and troubling conduct support investigation of special ability or monsterization | unresolved personhood question, not canonical monster classification | `193 / 0141–0147` |
+
+The Association's gambling apparatus converts a genuine monster into a controlled prop and mistakes lethal divergence for successful theater. Institutional authorship does not make the creature imaginary (`192 / 0099–0132`).

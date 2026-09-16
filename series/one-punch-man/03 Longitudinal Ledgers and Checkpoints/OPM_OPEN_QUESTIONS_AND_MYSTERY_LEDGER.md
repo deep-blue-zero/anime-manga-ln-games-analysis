@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Open questions and mystery state through V34
+scope: Open questions and mystery state through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -753,3 +753,60 @@ Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_
 Evidence: `172–175/bonus / 0011–0028,0106–0167,0174–0218`, with precise locators in the reading and topical homes. Earlier sperm reserves, aquatic-monster persistence, sword lore, dimensional seal/landform identities and Drive Knight publicity authenticity remain open at their earlier boundaries.
 
 V1's post-freeze housing/new-neighbor and Rover/Black Sperm domestic assertions are rejected as V34 evidence and quarantined as unverified later material. They cannot answer these questions; no fresh blindness is claimed entering V35. The technical web pilot remains isolated.
+
+## V35 question delta — custody, hidden systems and provisional domesticity
+
+Propagated after the frozen [V35 reading](../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+| Question | V35 disposition | Still unresolved / next evidence needed |
+|---|---|---|
+| V34 legacy housing/neighbors/security leakage | independently verified after V35 freeze | neighbor relationship outcome, system repair, costs and public explanation |
+| Pochi/Black Sperm survival | verified in reduced forms with shelter/food | permission, disclosure, recovery scale, allegiance and future threat |
+| Evil Natural Water | Pig God reports digestion after active remnant attack | independent eradication and Pig God's medical state |
+| Saitama recognition | private models rise across Bofoi, Flash, Amai and Fubuki | public correction, direct approaches and conflict among ideals |
+| God campaign | reported twenty-year cube search and increasing intervention | donor/cube taxonomy, bargain/revocation rules, allies and dimensional entry cause |
+| Psykos's future | terror image precedes extermination doctrine | literal content, source, truth, inevitability and relation to God |
+| Tsukuyomi | paid access, brain/future-sight objective, artificial esper and Tatsumaki captivity link | operative identity, hierarchy, program scale, custody and ruse outcome |
+| Psychic communication | table inset conveys hidden coordination | no explicit mechanism label; telepathy versus another device open |
+| Association personhood policy | officials strip rights through monster designation | policy scope, challenge, accountability and Psykos outcome |
+| Luxury shelter | populated, marketed and contextually breached | social/financial consequences and durable class structure |
+
+Inherited second-core ontology, Garou restitution, Tareo's pale encounter, sword lore and complete post-radiation recovery receive no direct V35 resolution. Combined V1 V36 outcomes cannot answer these questions.
+
+## V36 question delta — partial relational change and detected institutional concealment
+
+Propagated after the frozen [V36 reading](../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+| Question | V36 disposition | Still unresolved / next evidence needed |
+|---|---|---|
+| Saitama/Fubuki label | explicitly only acquaintance, with action beyond indifference | whether either later names or practices a different relationship |
+| Tatsumaki and Blizzard Group | group voluntarily returns; Tatsumaki conditionally permits it | durable autonomy, future threat response and whether tolerance deepens |
+| Tatsumaki/Blast dependency | memory supplies rescue, duty, hoped-for praise and unanswered guidance | current Blast contact and whether ordinary relationships revise the ideal |
+| Saitama/Tatsumaki scale | narrator certifies Saitama unharmed; she cannot move him and misjudges output | no numerical ceiling, full mechanism or future relationship outcome |
+| Fubuki/Psykos extraction | Psykos removed through evidence/reputation bargain | consent, custody, testimony, recovery and Tsukuyomi response |
+| Association monster-body market | off-list storage/outside dealing exposed and folded into bargain | scope, buyers, accountability and remaining material |
+| Child Emperor investigation | improper concealment and intrusion detected | findings, allies, institutional reaction and reform consequence |
+| Tsukuyomi network | capsule/supply-chain/signal capabilities and operative survival established | hierarchy, scarred responder affiliation, program scale and next move |
+| Public Tatsumaki story | trust restored through selective monster-defeat account | correction, liability, damage payment and Saitama recognition |
+| `最初の勇気` youth | disclosure/contact and hero arrival begin support | future safety, agency and whether bullying ends |
+
+God/cube/limiter cosmology, Psykos's future ontology, surviving-monster recovery and the Association's wider legitimacy remain open. V37 and official-web narrative are the next admissible evidence only after their own source-first gates.
+
+## V37 question delta — competitive institutions and contested value
+
+Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+| Question | V37 disposition | Still unresolved / next evidence needed |
+|---|---|---|
+| Hero Association legitimacy | recruitment losses, sponsor gambling, coercive care and manipulated metrics form a systemic crisis | exposure, accountability, public response and durable reform |
+| Neo Heroes | recruiting scale, benefits and prior commitments make the rival credible | operational quality, governance, hidden costs and actual field results |
+| Genos growth / Mad Cyborg | `雷光核`, stronger self-assessment and four-year revenge purpose persist | independent capability test, target status, usable metric and purpose if target is gone |
+| Saitama–Genos feedback | relational failure acknowledged; transfer abandoned and proximity increased | reciprocal appraisal, individuation and whether Saitama recognizes the sacrifice |
+| Child Emperor investigation | fixed-match site and odds establish concrete adversarial evidence | disclosure route, allies, institutional retaliation and remedy |
+| Amai Mask body/personhood | history, face, records and conduct support investigation without verdict | identity, mechanism, moral status and stronger evidence |
+| Swordmaster succession | Yuta/Shidou inherit grief; Nichirin adapts ki/prosthesis; Atomic restarts training | readiness, vengeance outcome, council future and corrected King belief |
+| Rover / Black Sperm | survival and reduced domestic condition confirmed | recovery scale, authorization, allegiance, disclosure and future threat |
+| King reputation | literal non-feat produces stronger expert belief and useful discipline | whether false attribution is corrected and how consequences develop |
+| Darkshine readiness | bodily performance restored while battle fear remains | accessible return, support and future combat choice |
+
+God/cube/limiter cosmology, Tsukuyomi/Psykos custody, Garou restitution, Tareo's pale encounter and wider Blast/Bofoi questions retain their V36 limits. V38 and official-web narrative remain excluded until their own governed continuation.
