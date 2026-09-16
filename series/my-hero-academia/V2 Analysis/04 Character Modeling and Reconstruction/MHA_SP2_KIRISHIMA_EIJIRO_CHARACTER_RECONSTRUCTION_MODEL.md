@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: KIRISHIMA_EIJIRO
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Kirishima Eijiro
 readiness: strong
 supersedes: []
@@ -65,6 +65,38 @@ Japanese **俺**, contractions, direct thanks, forceful self-exhortation and **�
 Hardening varies in strength, duration and available recovery. Unbreakable can be broken; repeated re-hardening costs pain and effort (KE03). A simulation must specify current injury, timing and what ally action the defensive interval permits. He does not know a stranger's hidden trauma simply because he recognizes fear. His own middle-school experience can be part of his contemporary memory before the reader learns it in V16; an analyst freezing only the published V10 evidence cannot silently use the later disclosure.
 
 `PRESERVE` fear-compatible protective commitment; `REVISE` innate fearlessness and simple debt repayment; `REJECT` invulnerability; `OPEN` adult private breadth and unsampled moral conflicts. Given adult Kirishima offered rapid agency expansion with poorly supported junior staff, a concern about responsibility and workable support is better supported than automatic prestige acceptance. Medium confidence from KE06. A sudden rescue emergency would prioritize immediate protection; a distant business decision needs information rather than an invented instinctive answer.
+
+**Current supplemental qualification (KE-SUP-01–03):** School grooming and later willing disclosure of his reinvention now define an ordinary self-presentation change. The adult model should not replay school-era concealment whenever the past is mentioned; broader private relationship responses remain limited. See the [current source support](#supplemental-reconciliation-current-support).
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside KE-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### KE-SUP-01 — A limited early observer is not the whole self
+
+Aizawa’s early impression of few worries is an observer limit, not a contradiction of the later fear/inferiority history. Mina’s warning about overburdening himself and a continuing tactical limitation preserve effort under vulnerability.
+
+Source basis: [SUP-UA-037-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-037-01) (`UA:s0037`; OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAN-035-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-035-02) (`UAN:s0035`; EDITORIAL_SUMMARY, NARRATIVE, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY).
+
+### KE-SUP-02 — Disclosure becomes chosen public authorship
+
+Daily color shampoo maintains the school appearance. The author later specifies that he casually told classmates about his reinvention after the second battle and proudly discusses it professionally. The adult calendar’s popularity is reception of that presentation, not proof everyone approves.
+
+Source basis: [SUP-UAN-035-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-035-01) (`UAN:s0035`; EDITORIAL_SUMMARY, PROFILE_FACT; EARLIER_ONLY); [SUP-UAG-301-08](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-301-08) (`UAG:s0301`; AUTHOR_COMMENT; ENDPOINT); [SUP-UAG-048-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-048-01) (`UAG:s0048`; EDITORIAL_SUMMARY, PROFILE_FACT; ENDPOINT).
+
+### KE-SUP-03 — Kindness and unreciprocated aesthetics
+
+The guide explicitly joins manliness with kindness and explains protection for people he carries. The girls’ boyfriend-room ranking is a framed opinion about his decor, not an objective measure of masculinity or his own shame response.
+
+Source basis: [SUP-UAG-048-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-048-02) (`UAG:s0048`; DESIGN, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-049-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-049-02) (`UAG:s0049`; EDITORIAL_SUMMARY, NARRATIVE, GAG; EARLIER_ONLY).
+
+### Current use and remaining limits
+
+The early concealment and later willing public explanation are distinct states. Do not make an adult disclosure threat trigger the same reaction as a threatened school secret, or turn broad popularity into universal interpersonal success.
+
+Keep strong. Ordinary grooming and later disclosure policy improve; extensive independent adult/private interaction still remains thin. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe KE-V01: V16 → V29 reciprocal courage
 

@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: SPINNER_IGUCHI_SHUICHI
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Spinner / Iguchi Shuichi
 readiness: strong
 supersedes: []
@@ -65,7 +65,39 @@ His original Gecko capacity, added enhancements, cognitive deterioration and sub
 
 `PRESERVE` conscious affiliation and person-specific loyalty; `REVISE` passive follower or homogeneous movement spokesman; `REJECT` augmentation as costless empowerment and writing as proven pacifism; `OPEN` future readership, legal/reform trajectory, health course and a life beyond League-centered relations.
 
+**Current supplemental qualification (SP-SUP-01–03):** The book is now explicitly published with mixed reception, rather than only a proposed V42 project. That strengthens the memorial-author role while leaving Spinner’s private response to particular criticism and non-League relationships largely unshown. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given postwar Spinner asked to endorse a memorial calling Tomura only a monster, likely response is refusal and a demand that friendship and lived personhood remain recorded. High confidence in this relation. A memorial can be hostile to heroes without every factual claim being false; the model must distinguish testimony, interpretation and threatened symbolic use. Willingness to reconcile with a particular stranger remains low confidence.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside SP-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### SP-SUP-01 — A corrected ability and differentiated belonging
+
+UA’s sword-as-Quirk conjecture gives way to wall adhesion; official later accounts distinguish Stain identification from Tomura-specific attachment and name Spinner as the game partner. Do not use an early compact fanatic label to erase changed belonging.
+
+Source basis: [SUP-UA-155-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-155-01) (`UA:s0155`; EDITORIAL_SUMMARY, NARRATIVE, SELF_REPORT; UNRESOLVED); [SUP-UAN-233-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-233-02) (`UAN:s0233`; PROFILE_FACT, EDITORIAL_SUMMARY, RATING; EARLIER_ONLY); [SUP-UAG-304-05](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-304-05) (`UAG:s0304`; AUTHOR_COMMENT; EARLIER_ONLY).
+
+### SP-SUP-02 — Publication goes beyond the manga’s intended book
+
+The guide and author state the memoir was published, provoked heavy criticism and gained some historical recognition; Compress is shown receiving it positively. Those are distinct readers’ responses. Publication is no longer merely an intention, but broad acceptance and objective historical completeness remain unestablished.
+
+Source basis: [SUP-UAG-188-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-188-01) (`UAG:s0188`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-216-04](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-216-04) (`UAG:s0216`; EDITORIAL_SUMMARY, NARRATIVE; ENDPOINT); [SUP-UAG-305-04](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-305-04) (`UAG:s0305`; AUTHOR_COMMENT; ENDPOINT).
+
+### SP-SUP-03 — Friend-directed action can have unwanted consequences
+
+Trying to revive Tomura also strengthens AFO’s will, while added bodily powers cause pain and impairment. Intention, achieved effect and usable cognition must remain separate; fidelity does not make him an infallible interpreter of his friend.
+
+Source basis: [SUP-UAG-189-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-189-02) (`UAG:s0189`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY); [SUP-UAG-265-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-265-01) (`UAG:s0265`; EDITORIAL_SUMMARY, PROFILE_FACT; CONTINUING_WITH_SUPPORT).
+
+### Current use and remaining limits
+
+A later memorial/reader situation can now assume publication and mixed reception. It still cannot assume how Spinner privately responds to each critic or recover unrecorded adult relationships outside the League.
+
+Keep strong. Authorship now has an explicitly reported publication/reception context; private and non-League relationship breadth remains limited. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe SP-V01: V36 → V37 assigned movement role
 

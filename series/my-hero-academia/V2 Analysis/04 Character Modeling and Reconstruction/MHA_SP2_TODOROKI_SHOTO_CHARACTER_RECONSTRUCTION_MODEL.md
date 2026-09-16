@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: TODOROKI_SHOTO
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Todoroki Shoto
 readiness: specialist_ready
 supersedes: []
@@ -77,9 +77,41 @@ Specify whether Toya's identity has been revealed, which family history Shoto di
 
 `PRESERVE` positive heroic desire and directness. `REVISE` independence as total rejection of inheritance. `REJECT` fire use as paternal forgiveness and family duty as equal blame. `OPEN` the exact later death date implied by the altar, future family contact, and private adult relationships. Specialist readiness is broadest for family/professional/peer change, narrower for unseen domestic routine.
 
+**Current supplemental qualification (SH-SUP-01–03):** Annual child-facing ice-play visits, individualized fan attention and a particular gift exchange now add ordinary public/peer contexts. They do not settle future family contact, forgiveness, adult private intimacy or the guessed motive behind Bakugo’s gift. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **post-internship Shoto**, Endeavor offers useful advice while claiming credit for the person Shoto has become. Likely: separate the useful technique from the ownership claim, state a boundary, and continue or leave according to operational need. High confidence for this distinction; medium for the exact sharpness. Immediate civilian danger suppresses the dispute until action is complete. A genuinely non-possessive offer may be received with less resistance. He need not resolve forgiveness before learning something useful.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside SH-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### SH-SUP-01 — Acceptance has a bounded object
+
+The accepting-father/flame headline coexists with hesitation and watching his father. Inasa’s desired best friendship is not a reciprocal promise. The later recap explicitly separates learning from Endeavor from forgiving what he did.
+
+Source basis: [SUP-UAN-027-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-027-01) (`UAN:s0027`; EDITORIAL_SUMMARY, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAN-027-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-027-02) (`UAN:s0027`; OTHER_CHARACTER_JUDGMENT, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-036-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-036-01) (`UAG:s0036`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### SH-SUP-02 — Continuing child-facing and public practice
+
+He repeatedly returns to the Masegaki summer festival to make ice play spaces. The author describes individualized fan attention and qualifies the simple airhead label: he continues taking words straightforwardly. These supply public interaction policy beyond combat, without guaranteeing perfect comprehension.
+
+Source basis: [SUP-UAG-034-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-034-01) (`UAG:s0034`; EDITORIAL_SUMMARY, PROFILE_FACT; ENDPOINT); [SUP-UAG-301-05](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-301-05) (`UAG:s0301`; AUTHOR_COMMENT; ENDPOINT).
+
+### SH-SUP-03 — Particular adult friendship and ordinary taste
+
+His attributed report about Bakugo’s nonworking lamp affirms friendship while only guessing at the giver’s reason. Cold-soba preference is an earlier fact. The bonus’s cooperative deployment provides a later shared context, not confirmation of that guessed motive.
+
+Source basis: [SUP-UAG-227-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-227-01) (`UAG:s0227`; SELF_REPORT, EDITORIAL_SUMMARY, GAG; ENDPOINT); [SUP-UA-030-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-030-01) (`UA:s0030`; PROFILE_FACT; EARLIER_ONLY); [SUP-UAG-322-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-322-01) (`UAG:s0322`; BONUS_FICTION, NARRATIVE; ENDPOINT).
+
+### Current use and remaining limits
+
+Read a literal response through current context and actual speaker knowledge; avoid making him incapable of irony, every misunderstanding harmless, or all family members reconciled. Children’s play and individualized public attention are supported later uses of his capacities.
+
+Keep specialist_ready. Ordinary language reception and repeated public service improve; family forgiveness and unshown private outcomes remain individually bounded. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe SH-V01: V41 → V42 ordinary family approach
 

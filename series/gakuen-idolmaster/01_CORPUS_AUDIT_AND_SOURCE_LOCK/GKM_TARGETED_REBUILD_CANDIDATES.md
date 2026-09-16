@@ -9,14 +9,33 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: '2026-09-09'
-last_updated: '2026-09-09'
+last_updated: '2026-09-10'
 source_lock: GAKUMAS V2 Source Lock 1.0
-source_boundary: Repository control documents and recovered analytical release archives; no source-media reinspection or new measurements
+source_boundary: Original 2026-09-09 documentary audit plus imported AVE-FULL-20260910 source verification, measurements and sampled-still review; zero fresh direct listening or continuous-motion review
 ---
 
 # GKM TARGETED REBUILD CANDIDATES
 
 ## 1. Register status and boundary
+
+### Current disposition — AVE-FULL-20260910
+
+**The two documentary/measurement rebuild candidates are closed within their declared scope. Perceptual re-verification remains partial.** The imported current packets account for all 33 Hiro and 27 Misuzu source identities, populate the supported measurement responsibilities, review all 20/45 retained claims respectively, and synchronize the complete analytical documents. The user-authorized full rebuild expanded the original 29-identity reconciliation subset to the complete 60-source packet set; the older subset and acceptance criteria are retained below as history.
+
+| Candidate | Current state | Execution evidence and remaining boundary |
+|---|---|---|
+| `GKM-REBUILD-HIRO-01` | DOCUMENTARY / MEASUREMENT SCOPE CLOSED; PERCEPTUAL DEPENDENCIES OPEN | 33/33 verified identities, including H03 and the full H04 original; 33 whole-source loudness and native-channel feature records; 636 distinct inspected still points; 20 claim dispositions. [Source verification](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_SOURCE_VERIFICATION.md), [measurements](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_MEASUREMENTS.md), [comparisons](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_COMPARISONS.md), [claim review](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md). |
+| `GKM-REBUILD-MISUZU-01` | DOCUMENTARY / MEASUREMENT SCOPE CLOSED; PERCEPTUAL DEPENDENCIES OPEN | 27/27 verified identities; 27 whole-source loudness and native-channel feature records plus the bounded Dear-segment layer; 565 distinct inspected still points; 45 claim dispositions. [Source verification](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_SOURCE_VERIFICATION.md), [measurements](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_MEASUREMENTS.md), [Dear segments](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_DEAR_SEGMENTS.md), [claim review](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_CLAIM_REVIEW.md). |
+
+Current acquisition authority is the [Hiro rebuild manifest](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md) and [Misuzu rebuild manifest](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST_REBUILD.md), read with each `FULL_REBUILD_SOURCE_VERIFICATION.md`. The original JSON manifests retain their historical null/unmaterialized fields and must not be read as current acquisition status. H04 original and retained derivative identities remain distinct; bounded equivalence evidence does not make their whole files identical.
+
+The empty/ungenerated measurement responsibilities are discharged by the current populated technical documents and reproducibility records, not by claiming that the old `metrics_summary.md` was found. Whole-mix metrics do not isolate character voices; the Dear segmentation retains its documented boundary derivation and limits. Historical floor-sensitive RMS ratios are not interchangeable with new loudness-range values. The original measurement generations and release checksums remain identifiable.
+
+**Zero fresh direct listening and zero fresh continuous-motion review were performed.** The current image counts are sampled source points, not durations watched. The [Hiro](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md) and [Misuzu](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md) review-accounting reports distinguish displayed stills from generated evidence and inherited inspection claims. Open auditory, motion, causal and ethical dependencies remain in the per-claim review; documentary closure does not recertify the original full-inspection statements.
+
+### Original documentary audit — 2026-09-09
+
+The original audit text, prospective candidate table and Sections 2–6 below are preserved as the dated before-state. Their “open”, “prospective”, “unmaterialized” and “not executed” statements describe that audit, not the current AVE-FULL-20260910 disposition. The old 43-row Misuzu observation is retained as recorded; the current complete register contains 45 claim IDs. Later execution evidence and current authority are routed above.
 
 **Two prospective candidates are open: Hiro and Misuzu. No rebuild, new measurement, or source-media reinspection has been performed by this audit.** This register records the documentary gaps and the evidence required to close them. It does not establish that a historical inspection never happened, nor does it certify that the inspection claimed by a completion report occurred.
 
@@ -35,11 +54,11 @@ The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains the project 
 
 | Existing artifact | Observed gap or dependency |
 |---|---|
-| [GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST.json](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST.json) | 31 of 33 entries are materialized. Dear 021–027 and 028–037 have `local_materialized: false`, null hashes and null probe fields, while their authority notes claim direct inspection |
-| [GKM_PHASE3_HIRO_AV_TECHNICAL_METRICS_APPENDIX.md](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AV_TECHNICAL_METRICS_APPENDIX.md) | Section 1 says `metrics_summary.md` was not generated. Section 2 has a header-only song-form table and two `nan (n=0)` summaries |
-| [GKM_PHASE3_HIRO_AV_DELIVERY_AUDIT.md](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AV_DELIVERY_AUDIT.md) | Records 31/33 locally materialized objects alongside the release's completion claims |
-| [GKM_PHASE3_HIRO_AUDIOVISUAL_COMPLETION_REPORT.md](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AUDIOVISUAL_COMPLETION_REPORT.md) | Claims complete Dear 001–037 coverage; requires reconciliation with the saved source records |
-| [GKM_HIRO_AV_EVIDENCE_AND_METRICS_MATRIX.md](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/07_SHINOSAWA_HIRO/GKM_HIRO_AV_EVIDENCE_AND_METRICS_MATRIX.md) | Route any resulting source qualification or measured-claim correction to the affected evidence rows |
+| [GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST.json](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AUDIOVISUAL_SOURCE_MANIFEST.json) | 31 of 33 entries are materialized. Dear 021–027 and 028–037 have `local_materialized: false`, null hashes and null probe fields, while their authority notes claim direct inspection |
+| [GKM_PHASE3_HIRO_AV_TECHNICAL_METRICS_APPENDIX.md](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AV_TECHNICAL_METRICS_APPENDIX.md) | Section 1 says `metrics_summary.md` was not generated. Section 2 has a header-only song-form table and two `nan (n=0)` summaries |
+| [GKM_PHASE3_HIRO_AV_DELIVERY_AUDIT.md](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AV_DELIVERY_AUDIT.md) | Records 31/33 locally materialized objects alongside the release's completion claims |
+| [GKM_PHASE3_HIRO_AUDIOVISUAL_COMPLETION_REPORT.md](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_PHASE3_HIRO_AUDIOVISUAL_COMPLETION_REPORT.md) | Claims complete Dear 001–037 coverage; requires reconciliation with the saved source records |
+| [GKM_HIRO_AV_EVIDENCE_AND_METRICS_MATRIX.md](../05_AUDIOVISUAL_ANALYSIS/07_SHINOSAWA_HIRO/GKM_HIRO_AV_EVIDENCE_AND_METRICS_MATRIX.md) | Route any resulting source qualification or measured-claim correction to the affected evidence rows |
 
 `metrics_summary.md` is a **promised output explicitly recorded as ungenerated**, not a confirmed lost file. A later completed version or underlying working output may be recoverable, but its existence is not established by the package.
 
@@ -50,7 +69,7 @@ The [current-state map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains the project 
 3. Account for the source-metric summary and song-form comparison advertised by the appendix. If rebuilding is necessary, document the actual included source set, exclusions, sample counts, software/method parameters and interpretation limits. Replace empty/undefined results with supported values or an explicit decision not to promote that measurement layer. Repair the ungenerated filename reference consistently with the chosen delivery form.
 4. Audit only claims that depend on the disputed late-Dear inspection or missing quantitative support. Synchronize the manifest, appendix, evidence matrix and completion/audit wording. Amend the baseline or addendum only where a supported claim transition requires it.
 
-The former `みちなるひろがる` song-commu gap is already closed through the [China source manifest](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/06_KURAMOTO_CHINA/GKM_PHASE3_CHINA_AUDIOVISUAL_SOURCE_MANIFEST.json), source `AV-CHINA-010`. It is outside this candidate's pending source scope.
+The former `みちなるひろがる` song-commu gap is already closed through the [China source manifest](../05_AUDIOVISUAL_ANALYSIS/06_KURAMOTO_CHINA/GKM_PHASE3_CHINA_AUDIOVISUAL_SOURCE_MANIFEST.json), source `AV-CHINA-010`. It is outside this candidate's pending source scope.
 
 ## 3. Misuzu: acquisition accounting and empty technical tables
 
@@ -58,11 +77,11 @@ The former `みちなるひろがる` song-commu gap is already closed through t
 
 | Existing artifact | Observed gap or dependency |
 |---|---|
-| [GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST.json](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST.json) | All 27 entries are `listed_not_materialized`; filenames, hashes and technical measurements remain null |
-| [GKM_PHASE3_MISUZU_AV_TECHNICAL_METRICS_APPENDIX.md](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AV_TECHNICAL_METRICS_APPENDIX.md) | Both the source-level and Dear-segment metric tables contain only headers |
-| [GKM_MISUZU_AV_EVIDENCE_AND_METRICS_MATRIX.md](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/11_HATAYA_MISUZU/GKM_MISUZU_AV_EVIDENCE_AND_METRICS_MATRIX.md) | Repeats the two empty metric tables after 43 qualitative claim rows |
-| [GKM_PHASE3_MISUZU_AV_DELIVERY_AUDIT.md](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AV_DELIVERY_AUDIT.md) | Says Dear 021–027 was acquired through a raw/streaming route and is present, conflicting with the unmaterialized manifest row |
-| [GKM_PHASE3_MISUZU_AUDIOVISUAL_COMPLETION_REPORT.md](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_COMPLETION_REPORT.md) | Claims complete inspection and readiness; saved acquisition and metric records do not substantiate the full certification |
+| [GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST.json](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_SOURCE_MANIFEST.json) | All 27 entries are `listed_not_materialized`; filenames, hashes and technical measurements remain null |
+| [GKM_PHASE3_MISUZU_AV_TECHNICAL_METRICS_APPENDIX.md](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AV_TECHNICAL_METRICS_APPENDIX.md) | Both the source-level and Dear-segment metric tables contain only headers |
+| [GKM_MISUZU_AV_EVIDENCE_AND_METRICS_MATRIX.md](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_MISUZU_AV_EVIDENCE_AND_METRICS_MATRIX.md) | Repeats the two empty metric tables after 43 qualitative claim rows |
+| [GKM_PHASE3_MISUZU_AV_DELIVERY_AUDIT.md](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AV_DELIVERY_AUDIT.md) | Says Dear 021–027 was acquired through a raw/streaming route and is present, conflicting with the unmaterialized manifest row |
+| [GKM_PHASE3_MISUZU_AUDIOVISUAL_COMPLETION_REPORT.md](../05_AUDIOVISUAL_ANALYSIS/11_HATAYA_MISUZU/GKM_PHASE3_MISUZU_AUDIOVISUAL_COMPLETION_REPORT.md) | Claims complete inspection and readiness; saved acquisition and metric records do not substantiate the full certification |
 
 The mismatch establishes uncertainty in the saved documentation. It does not establish that all 27 source videos were absent from the historical workspace or that all qualitative readings were unperformed.
 
@@ -128,7 +147,7 @@ This table records the documentary screen, not a fresh verification of source me
 | Lilja | 22/22 canonical source hashes; populated appendix and exports; full release recovered | Release/provenance integration and separate map/ledger formulation review; no technical rebuild indicated |
 | China | 22/22 physical-source hashes for 21 logical objects plus a supplement; populated appendix | Correct routing/count summaries where inconsistent; no technical rebuild indicated |
 | Hiro | Two unmaterialized source records; ungenerated summary and empty song-form table | `GKM-REBUILD-HIRO-01` remains prospective |
-| Rinami | 27/27 source hashes; populated R2 appendix and delivery audit | Resolve the separately named reinspection-audit reference; existing R2 evidence covers the substantive transition |
+| Rinami | 27/27 source hashes; populated R2 appendix and delivery audit | Reference corrected to existing R2 evidence; separately named file is unverified and carries no collection or rebuild action |
 | Sumika | 22 logical sources; late-Dear surrogate has its own nested hash/probe; populated appendix; exports recovered | Preserve original/surrogate identities and integrate recovery; no technical rebuild indicated |
 | Ume | 21/21 source hashes; populated appendix; five exports recovered | Recovery integration; no technical rebuild indicated |
 | Misuzu | 27 unmaterialized rows and empty tables in two artifacts | `GKM-REBUILD-MISUZU-01` remains prospective |
@@ -137,7 +156,7 @@ This table records the documentary screen, not a fresh verification of source me
 
 ### Rinami routing responsibility
 
-The current-state map previously named `GKM_PHASE3_RINAMI_R2_HIGH_RESOLUTION_REINSPECTION_AUDIT.md`, which was not recovered as a separate file. The existing [R2 delivery audit](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/08_HIMESAKI_RINAMI/GKM_PHASE3_RINAMI_AV_DELIVERY_AUDIT.md) and [R2 technical appendix](../05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/08_HIMESAKI_RINAMI/GKM_PHASE3_RINAMI_AV_TECHNICAL_METRICS_APPENDIX.md) already record the upgraded Dear source qualities and D03/D04 elementary-audio-stream continuity. Resolve the filename through those verified responsibilities. A derivative transition note, if needed for navigation, must cite the existing evidence and must not claim a newly performed reinspection.
+The current-state map previously named `GKM_PHASE3_RINAMI_R2_HIGH_RESOLUTION_REINSPECTION_AUDIT.md`, which was not recovered as a separate file. The existing [R2 delivery audit](../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_PHASE3_RINAMI_AV_DELIVERY_AUDIT.md) and [R2 technical appendix](../05_AUDIOVISUAL_ANALYSIS/08_HIMESAKI_RINAMI/GKM_PHASE3_RINAMI_AV_TECHNICAL_METRICS_APPENDIX.md) already record the upgraded Dear source qualities and D03/D04 elementary-audio-stream continuity. The current-state map now routes this responsibility to those existing documents and the R2 README. User-supplied excerpts of the generating conversation show no separately named audit link, and their final R2 ZIP hash matches the recovered archive (`62603b68f5fc3dee9192d7c1e527046a9290c4375409874350d16ed40e8f9ea5`). Neither inspected release lists this file in its members or checksum inventory. These excerpts are not a complete session export and do not prove that no such file ever existed. The supported disposition is **LIKELY STALE / UNVERIFIED FILENAME REFERENCE — NO FURTHER COLLECTION ACTION**. No missing analytical responsibility or new reinspection is inferred.
 
 ### Temari recovery responsibility
 

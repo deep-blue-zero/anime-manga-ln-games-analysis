@@ -4,7 +4,7 @@ artifact_type: source_inventory
 scope: FULL_SERIES
 generation: V2
 status: active_provisional
-source_boundary: Google Drive MHA primary-source root; main Japanese tankobon sequence V01-V42 confirmed complete, supplemental boundary not yet frozen
+source_boundary: Japanese main tankobon sequence V01-V42 confirmed complete; owner-selected UA, UAN and UAG EPUB objects separately locked and reconciled; exhaustive franchise supplement inventory remains provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -42,6 +42,12 @@ do_not_use_as_current_authority: false
 
 
 # MHA SP2 — Primary Source Inventory
+
+## Current supplemental admission — 2026-09-10
+
+The owner has admitted three Japanese EPUBs for a bounded supplemental reconciliation: **Ultra Archive (UA), Ultra Analysis (UAN), and Ultra Age (UAG)**. The [supplemental source lock](MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md) identifies their exact filenames/hashes and the [spine map](MHA_SP2_SUPPLEMENTAL_SPINE_MAP.tsv) resolves every original page. These user-authorized local originals are preferred over the earlier UA/UAN CBZ objects. The first two EPUBs are not uniformly larger in pixel dimensions than the CBZs; edition and image quality must be assessed separately. Calibre-compatible copies are reading derivatives of these originals, not independent corroborating sources.
+
+The three named source objects are closed for this pass. UA, UAN and UAG now have complete page accounting with explicit source limits: [UA audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ARCHIVE_PARATEXT_AUDIT.md), [UAN audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ANALYSIS_PARATEXT_AUDIT.md), [UAG audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_AGE_PARATEXT_AUDIT.md). Cross-book character and analytical reconciliation is complete within this exact boundary; the [all-subject character audit](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) and [impact audit](../08%20Audits%20and%20Manifests/MHA_SP2_SUPPLEMENTAL_RECONCILIATION_IMPACT_AUDIT.md) record decisions, current-home integration and limits. This does not freeze an exhaustive all-franchise source inventory or reopen V01–V42. The historical Drive inventory and source-lock rule below retain their broader original scope. Existing volume locks and exclusions from sequential narrative are unchanged. Volume-embedded paratext remains a separate coverage question, not evidence declared worthless.
 
 ## Current source-admissibility correction — continuation
 

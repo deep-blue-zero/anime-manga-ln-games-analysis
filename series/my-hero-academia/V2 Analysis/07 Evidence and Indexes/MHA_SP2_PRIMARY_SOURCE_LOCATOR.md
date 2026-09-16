@@ -1,10 +1,10 @@
 ---
 series: MHA
 artifact_type: locator_index
-scope: V01-V42
+scope: V01-V42_PLUS_BOUNDED_SUPPLEMENTAL_ROUTING
 generation: V2
 status: canonical
-source_boundary: Japanese manga V2 reread; currently through Volume 42
+source_boundary: Completed Japanese V01-V42 manga locators preserved; separately locked UA/UAN/UAG spine routing admitted for ordered supplemental reconciliation
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2194,3 +2194,28 @@ Anchor checks: raw `0004` right=`p006`, left=`p007`; raw `0012` left=`p023`; raw
 | 431 | `p146`; title `p148` | counseling/voice `p149-155`; recruiting/vocation `p156-161`; adult group `p162-175`; Shoto `p166-168`; mutual more `p177-183` |
 
 All `p005-p183` pages were directly viewed during reconciliation. The formal/paratext distinction is applied page by page; no supplemental author comment is silently promoted as dialogue or a depicted event.
+
+
+## Supplemental source routing — 2026-09-10
+
+Existing `VXX:pNNN` entries retain their exact manga identities, offsets and exclusions. The newly admitted `UA:sNNNN`, `UAN:sNNNN` and `UAG:sNNNN` locators use original EPUB OPF spine positions. They do not change manga pagination or imply printed-page numbers. The [official supplemental source lock](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_OFFICIAL_SUPPLEMENTAL_SOURCE_LOCK.md) and [complete source/member/hash map](../01%20Source%20Lock%20and%20Inventory/MHA_SP2_SUPPLEMENTAL_SPINE_MAP.tsv) own exact retrieval; repaired EPUBs are only reading derivatives.
+
+The [UA audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ARCHIVE_PARATEXT_AUDIT.md) and [217-page coverage](../01A%20Supplemental%20Source%20Audits/MHA_SP2_UA_PAGE_COVERAGE.csv) record actual completed page accounting with seven limited-readability subparts; the [supplemental ledger](MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md) owns claim adjudication. Subsequent book progress is controlled by the [current map](../00%20Frameworks%20and%20Methods/CURRENT_STATE_AND_CORPUS_MAP.md#current-supplemental-reconciliation). Technical locks for UAN/UAG are not analytical review completion.
+
+The historical publication/source-reverification audit remains byte-identical and manga-only. This appendix does not add supplementary checks to its old SR series or alter the V27/V28, V31, V35 or V36 mapping corrections.
+
+## Ultra Analysis routing checkpoint — 2026-09-10
+
+The [UAN audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_ANALYSIS_PARATEXT_AUDIT.md) and [297-page coverage](../01A%20Supplemental%20Source%20Audits/MHA_SP2_UAN_PAGE_COVERAGE.csv) now establish complete original-page accounting, with bounded unreadable subparts on s0275. The [UAN ledger section](MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#ultra-analysis-checkpoint) records source claims and UA comparisons. UAG remains technically locked but analytically pending until this checkpoint's verification and commit.
+
+Narrow new manga checks use the existing original locators V23:p046–047 for Monoma's conditional disclosure and V13:p105 for Yaoyorozu's 94-point result. They are supplemental verification, not new sequential readings or retrospective additions to the historical source-reverification audit. Existing manga locator bodies and prior mapping corrections remain intact.
+
+## Ultra Age routing checkpoint — 2026-09-10
+
+The [UAG audit](../01A%20Supplemental%20Source%20Audits/MHA_SP2_ULTRA_AGE_PARATEXT_AUDIT.md) and [331-page coverage](../01A%20Supplemental%20Source%20Audits/MHA_SP2_UAG_PAGE_COVERAGE.csv) establish complete original-image accounting through the new Eri one-shot, afterword, credits, colophon and reproduced jacket/boards. The [UAG ledger index](MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#ultra-age-checkpoint) preserves 485 stable records with single detailed owners in two bounded partitions. Original spine ordinals, visible folios and reproduced manga locators remain different references.
+
+Narrow original-manga comparisons use V42:p129–130 for graduation/embers and the eight-year caption, and V23:p091–094 for genealogy context, with the material child statement at p092. These checks establish compatibility of the inspected passages with the more specific guide wording; they do not prove a timeline or genealogical contradiction. They supplement source verification without rewriting the historical source audit or frozen manga locators. Current character and full-series propagation follows the verified UAG checkpoint.
+
+## Completed supplemental reconciliation — 2026-09-10
+
+All three source checkpoints now converge through the [all-subject character audit](../04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) and [impact audit](../08%20Audits%20and%20Manifests/MHA_SP2_SUPPLEMENTAL_RECONCILIATION_IMPACT_AUDIT.md). Current interpretation and reconstruction use V01–V42 plus the exact UA/UAN/UAG sources; the historical checkpoint paragraphs above retain their former stage boundaries. The current coverage clears unprinted UAN folios at s0108, s0117 and s0262 and corrects verified UAG contents/poll labels. Original spine ordinals, archive members, image hashes, manga locators and the 1,095 stable evidence IDs are unchanged. Final model and literary use does not create a new source witness or alter a frozen manga probe.

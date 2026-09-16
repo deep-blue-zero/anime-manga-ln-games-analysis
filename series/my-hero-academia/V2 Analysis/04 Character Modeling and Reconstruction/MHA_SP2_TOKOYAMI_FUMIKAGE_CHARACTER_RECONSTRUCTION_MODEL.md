@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: TOKOYAMI_FUMIKAGE
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Tokoyami Fumikage
 readiness: strong
 supersedes: []
@@ -69,6 +69,38 @@ Japanese **俺**, formal or archaizing/metaphorical diction and carefully named 
 Darkness amplifies output; light/fire constrains it. Flight uses a learned arrangement, and carrying an injured person changes movement and protection demands (TF02–03). V38 storm/wind conditions and others' coordination matter to maximum action. No model should infer equivalent capacity in bright isolated conditions. The Quirk's visible person-like form also does not grant the analyst access to unspoken shared thoughts.
 
 `PRESERVE` mastery and mentor-specific loyalty; `REVISE` power magnitude as agency; `REJECT` replacing every stronger ally, epistemic certainty from trust, and V27 completed extraction; `OPEN` private adult breadth. Given late-school Tokoyami assigned a bounded aerial rescue role beside a stronger attacker, likely response is precise cooperation rather than status resentment. High confidence in that domain. Uncontrolled darkness, serious injury or endangered Hawks can materially change priority and execution.
+
+**Current supplemental qualification (TF-SUP-01–03):** Author-described childhood bedtime negotiation with Dark Shadow and admitted difficulty learning guitar add ordinary contexts. Later trained darkness control narrows an earlier limitation without proving mastery under every affective condition or providing broad adult private-human relationships. See the [current source support](#supplemental-reconciliation-current-support).
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside TF-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### TF-SUP-01 — Ordinary taste and imperfect skill
+
+Dark Crystal inspires his choker; his attributed guitar reply admits giving up at the F chord. Dramatic names express an aesthetic, not universal eloquence, hostility or competence in every cool-looking activity.
+
+Source basis: [SUP-UAN-039-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-039-01) (`UAN:s0039`; EDITORIAL_SUMMARY, SELF_REPORT; EARLIER_ONLY); [SUP-UAG-055-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-055-02) (`UAG:s0055`; EDITORIAL_SUMMARY, NARRATIVE, GAG; EARLIER_ONLY).
+
+### TF-SUP-02 — Childhood accommodation to a companion
+
+Horikoshi supplies the recurrent bedtime exchange: strong light prevents rampage, Tokoyami apologizes for it, and Dark Shadow accepts it. This is author-described backstory behind a brief V38 image, not a newly discovered extensive manga scene. It materially adds ordinary protective negotiation with the companion.
+
+Source basis: [SUP-UAG-302-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-302-01) (`UAG:s0302`; AUTHOR_COMMENT; EARLIER_ONLY).
+
+### TF-SUP-03 — Adult trust and conditional control
+
+He sometimes assists licensing examinations at Hawks’ request. The catalogue reports trained control in complete darkness, while the general entry still ties darkness to greater difficulty. Treat acquired control as situated capability; neither statement establishes immunity to all affective/stress conditions.
+
+Source basis: [SUP-UAG-054-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-054-01) (`UAG:s0054`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-245-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-245-01) (`UAG:s0245`; EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT); [SUP-UAG-266-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-266-01) (`UAG:s0266`; EDITORIAL_SUMMARY, PROFILE_FACT; CONTINUING_WITH_SUPPORT).
+
+### Current use and remaining limits
+
+Reciprocal accommodation is now better supported than a model of simply suppressing a tool. Keep Hawks-facing trust, dark-aesthetic peer talk and actual light/power constraints distinct. Named Dark Shadow is not another guise of Tokoyami.
+
+Keep strong. Ordinary companion care and adult instruction broaden the model; independent private-human relationships remain a specialist gap. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe TF-V01: V26 → V28 mentor rescue
 

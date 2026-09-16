@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: AMAJIKI_TAMAKI
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Amajiki Tamaki
 readiness: strong
 supersedes: []
@@ -71,7 +71,39 @@ Manifest depends on consumed inputs, combination and timing. It is an adaptive r
 
 He does not know every opponent's motive; AT03's admission is a positive epistemic boundary. Others' confidence is evidence about their evaluation and relation, not proof of a guaranteed win. `PRESERVE` inhibition plus competence; `REVISE` one-way dependence and belief as only burden; `REJECT` anxiety-free maturation and automatic victory; `OPEN` adult/private breadth and response outside sampled support relations.
 
+**Current supplemental qualification (AT-SUP-01–03):** Author-described curiosity in food now fills a concrete ordinary motive beyond combat inputs. Continued work with Fat Gum is chosen repayment; neither that choice nor rumored hypothetical rankings establishes inability to lead or broadly relaxed adult sociability. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given late-school Tamaki tasked with covering an ally's preparation interval, likely behavior is a concrete question about time/feasibility followed by a precise contribution, with visible doubt still possible. High confidence within trusted teams. A public ceremonial speech with no operational role may evoke much greater inhibition. Predict the context transition before predicting the tone.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside AT-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### AT-SUP-01 — Encouragement can also produce pressure
+
+Fat Gum’s praise and Kirishima’s intensity can burden or frighten him even when intended warmly. Friends can help him act without removing anxiety. Use the recipient’s reaction rather than treating all received support as immediately soothing.
+
+Source basis: [SUP-UAN-133-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-133-01) (`UAN:s0133`; EDITORIAL_SUMMARY, NARRATIVE, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UAN-181-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-181-01) (`UAN:s0181`; OTHER_CHARACTER_JUDGMENT, EDITORIAL_SUMMARY, NARRATIVE, GAG; EARLIER_ONLY); [SUP-UAG-090-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-090-02) (`UAG:s0090`; EDITORIAL_SUMMARY, DESIGN; CONTINUING_WITH_SUPPORT).
+
+### AT-SUP-02 — Food becomes curiosity rather than only equipment
+
+Horikoshi says childhood fear of foods was overtaken by pleasure in their manifestation and that he now eats with curiosity. This supplies a material ordinary-life change; it does not identify every preferred food, allergy, restaurant behavior or the end of all anxiety.
+
+Source basis: [SUP-UAG-303-04](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-303-04) (`UAG:s0303`; AUTHOR_COMMENT; ENDPOINT).
+
+### AT-SUP-03 — Chosen employment and qualified capability
+
+He remains Fat Gum’s sidekick to repay him; a hypothetical rank beyond Mirio is rumor. The great combined attack is called ineffective in the profile but arm-blowing in the move caption: record that tension and do not make an unlimited-Manifest slogan a guaranteed tactical result.
+
+Source basis: [SUP-UAG-090-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-090-01) (`UAG:s0090`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-091-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-091-01) (`UAG:s0091`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY); [SUP-UAG-252-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-252-01) (`UAG:s0252`; EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT).
+
+### Current use and remaining limits
+
+Curiosity around food is now better supported than universal instrumental eating. Gratitude-based employment is a choice, not inability to lead, while independent adult team-management response still lacks samples.
+
+Keep strong. A clear ordinary domain improves; catastrophic-power summaries do not resolve broad adult social/failure variation. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe AT-V01: V16 → V36 received belief under scale
 

@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: ENDEAVOR
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Endeavor
 readiness: specialist_ready
 supersedes: []
@@ -73,9 +73,41 @@ Fire output, overheating, injury, missing limb, available support, and later ret
 
 Specify whether he believes Toya dead, knows Dabi's identity, understands the current thermal risk, and knows the family's wishes. His later understanding of childhood failure cannot be retrojected as full contemporary awareness during the original harm. Conversely, lack of complete understanding is not lack of responsibility for choices he did make. `PRESERVE` expertise and persistence; `REVISE` their moral direction; `REJECT` rebirth, equal family blame, and entitlement through suffering; `OPEN` future contact, adequacy of restitution, and complete social accountability beyond the shown family scenes.
 
+**Current supplemental qualification (EN-SUP-01–03):** Current cane use, declined surgery and aid work are specified. The reason for declining surgery is not; public assistance and professional improvement still do not establish family permission, forgiveness or a settled future outcome. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **V42 Endeavor**, an estranged child refuses a meeting but communicates a practical need. Likely: meet the obligation without making access or appreciation a condition. High confidence from EN07; medium for the exact administrative arrangement. A request that endangers someone else requires a separate safety judgment, not automatic compliance as penance. A pre-reform version is much more likely to subordinate the interaction to his own project. The chronology difference must be explicit.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside EN-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### EN-SUP-01 — Public expertise and family permissions differ
+
+Denied access to Rei, unlike sibling reactions, and Shoto’s professional internship condition resist the books’ doting-parent jokes. Wanted contact or professional praise does not establish permission, forgiveness or benign earlier parenting.
+
+Source basis: [SUP-UAN-159-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-159-01) (`UAN:s0159`; PROFILE_FACT, EDITORIAL_SUMMARY, OTHER_CHARACTER_JUDGMENT, NARRATIVE; EARLIER_ONLY); [SUP-UAN-220-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-220-01) (`UAN:s0220`; SELF_REPORT, OTHER_CHARACTER_JUDGMENT, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-112-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-112-01) (`UAG:s0112`; NARRATIVE, EDITORIAL_SUMMARY, GAG; EARLIER_ONLY).
+
+### EN-SUP-02 — Later assistance and bodily choice
+
+He uses a cane and declined recommended surgery, whose reason is not given. Beyond compensation, he helps an All Might-led program for victims of villain crime. Do not invent self-punishment as the medical motive or treat public assistance as family absolution.
+
+Source basis: [SUP-UAG-110-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-110-01) (`UAG:s0110`; PROFILE_FACT; ENDPOINT); [SUP-UAG-110-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-110-02) (`UAG:s0110`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-304-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-304-02) (`UAG:s0304`; AUTHOR_COMMENT; ENDPOINT).
+
+### EN-SUP-03 — Collaborative instruction retains dependence
+
+The guide connects grief/powerlessness with a distorted effort ideal while its internship account specifies embodied workplace learning. Hawks’ assistance and the students’ rescue of his family remain necessary; retrospective explanation does not make every success solitary or inevitable.
+
+Source basis: [SUP-UAG-111-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-111-01) (`UAG:s0111`; NARRATIVE, EDITORIAL_SUMMARY, DESIGN; EARLIER_ONLY); [SUP-UAG-113-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-113-01) (`UAG:s0113`; NARRATIVE, EDITORIAL_SUMMARY; EARLIER_ONLY).
+
+### Current use and remaining limits
+
+Current restitution and physical limits are more specific. Predict a medical, family or work response only within its own permissions and evidence; an unexplained refusal is not a universal refusal of care.
+
+Keep specialist_ready. Civic and bodily aftermath improve; motives for the declined procedure and future family outcomes stay open. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe EN-V01: V38 → V39 family intervention
 

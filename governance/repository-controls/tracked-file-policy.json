@@ -172,6 +172,10 @@
   ],
   "allowed_commit_identities": [
     {
+      "name": "peipw",
+      "email": "50891441+peipw@users.noreply.github.com"
+    },
+    {
       "name": "deep-blue-zero",
       "email": "50891441+peipw@users.noreply.github.com"
     },
@@ -186,6 +190,10 @@
   ],
   "allowed_author_identities": [
     {
+      "name": "peipw",
+      "email": "50891441+peipw@users.noreply.github.com"
+    },
+    {
       "name": "deep-blue-zero",
       "email": "50891441+peipw@users.noreply.github.com"
     },
@@ -195,6 +203,10 @@
     }
   ],
   "allowed_committer_identities": [
+    {
+      "name": "peipw",
+      "email": "50891441+peipw@users.noreply.github.com"
+    },
     {
       "name": "deep-blue-zero",
       "email": "50891441+peipw@users.noreply.github.com"

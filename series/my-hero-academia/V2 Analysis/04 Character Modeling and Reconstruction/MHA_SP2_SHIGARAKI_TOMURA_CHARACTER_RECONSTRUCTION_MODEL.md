@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: SHIGARAKI_TOMURA
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Shigaraki Tomura
 readiness: specialist_ready
 supersedes: []
@@ -81,9 +81,41 @@ Decay changes in activation, propagation and scale; body augmentation permits ac
 
 `REVISE` a spontaneous-origin account with explicit engineering; `PRESERVE` family/social failures that were exploited and later relational development; `REJECT` both total AFO authorship and innocence-by-child-image; `OPEN` the exact causal weight of each formative factor and the life he might have chosen after survival. Physical death prevents validating rehabilitation. Recognition of the heart is an interpretation supported by encounter and later testimony, not access to an exhaustive terminal mental record.
 
+**Current supplemental qualification (SG-SUP-01–03):** The author distinguishes Spinner-specific gaming from mainly talking with others, while later identity/power disclosure further specifies imposed formation. This expands pre-death ordinary context; the memoir’s reception is other people’s posthumous activity, not Tomura’s continuing state. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **V40 Tomura under his own control**, AFO offers decisive power in exchange for abandoning a League-specific objective and accepting command. Likely: reject the ownership condition, possibly take or use available capability on his own terms, and preserve his destructive goal. High confidence for resisting active subordination; medium for the exact tactic. Actual override, severe bodily collapse, or new information can change the operative agent. A childhood Tenko or V30 overridden-body reconstruction requires a different model state, not merely a milder tone.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside SG-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### SG-SUP-01 — Ordinary affiliation within imposed formation
+
+AFO supplies games as training in ways of thinking; Horikoshi singles out Spinner as the game partner and mainly conversation with others, with poker only a possibility. Imposed materials and selected companionship can coexist; this does not make every League relationship equally close or every leisure act independently free of formation.
+
+Source basis: [SUP-UAG-166-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-166-01) (`UAG:s0166`; PROFILE_FACT, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-304-05](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-304-05) (`UAG:s0304`; AUTHOR_COMMENT; EARLIER_ONLY).
+
+### SG-SUP-02 — Control remains actor-specific
+
+Early guide origin knowledge is superseded by later engineering disclosure. The Tartarus assault is assigned to AFO’s inhabiting will, while regained destruction and the last friend-directed message remain Tomura-specific. Sweeping engineered-choice rhetoric does not remove the need to identify the actor in each scene.
+
+Source basis: [SUP-UAN-223-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-223-01) (`UAN:s0223`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-168-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-168-01) (`UAG:s0168`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY); [SUP-UAG-169-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-169-01) (`UAG:s0169`; EDITORIAL_SUMMARY, NARRATIVE; ENDPOINT).
+
+### SG-SUP-03 — A removed original power and posthumous reception
+
+Horikoshi identifies the base of AFO’s circular propulsion power as Tenko’s original, weaker power. This does not give adult Tomura that ability. Reception of Spinner’s published book is other people’s later activity, not a new autonomous postmortem Tomura state.
+
+Source basis: [SUP-UAG-304-04](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-304-04) (`UAG:s0304`; AUTHOR_COMMENT; EARLIER_ONLY); [SUP-UAG-305-04](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-305-04) (`UAG:s0305`; AUTHOR_COMMENT; ENDPOINT).
+
+### Current use and remaining limits
+
+A reconstruction must retain name/state/control boundaries and actual available powers. The ordinary Spinner relation becomes more precise, but no imagined redeemed adult or identical mind shared with AFO is established.
+
+Keep specialist_ready at the terminal boundary. Formation and ordinary relationship distinctions strengthen; no independent postmortem behavior is licensed. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe SG-V01: V41 → V42 separability and relation
 

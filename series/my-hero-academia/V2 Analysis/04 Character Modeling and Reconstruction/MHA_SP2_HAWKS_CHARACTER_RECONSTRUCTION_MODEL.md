@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: HAWKS
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Hawks
 readiness: specialist_ready
 supersedes: []
@@ -70,9 +70,41 @@ Fierce Wings permits precise sensing, rescue, transport and force, but feathers 
 
 Knowledge is compartmentalized. Infiltration does not supply complete villain schedules; Dabi withholds information; a state-trained agent can be deceived. V27 cannot use the full V31 family account, while a V42 reconstruction should include the commission's collapse and his experience of identity beyond its command. `PRESERVE` speed, practical care, and audience awareness; `REVISE` institutional obedience as exhaustive motivation; `REJECT` omniscient spy and automatic moral purification by reform; `OPEN` private grief, future institutional safeguards, and the adequacy of alternatives in the Twice crisis.
 
+**Current supplemental qualification (HK-SUP-01–03):** Later Commission work includes consultation with released Nagant. The author’s qualified account of retaining the childhood plush adds a private possession with particular meaning, not a complete home routine or a cure for the unresolved political consequences. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **V42 chair Hawks**, a formerly exploited operative declines a public rehabilitation opportunity. Likely: offer concrete resources and a route without requiring immediate trust or gratitude, while asking what would make participation possible. High confidence for respecting this particular kind of refusal from HK07; medium for how he would handle conflicting operational emergencies. Evidence of imminent serious harm changes the policy toward containment. His past warns that recognizing a person does not guarantee he will prioritize that person's preferred affiliation over others' safety.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside HK-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### HK-SUP-01 — Audience and knowledge boundaries
+
+Reader-facing name/intelligence knowledge differs from what the public knows. The later compressed Twice account must not replace the manga’s full lethal episode; infiltration, teaching and public explanation have different disclosure rules.
+
+Source basis: [SUP-UAN-161-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-161-01) (`UAN:s0161`; PROFILE_FACT, EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY); [SUP-UAN-161-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-161-02) (`UAN:s0161`; EDITORIAL_SUMMARY, SELF_REPORT, OTHER_CHARACTER_JUDGMENT, NARRATIVE; EARLIER_ONLY); [SUP-UAG-117-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-117-01) (`UAG:s0117`; EDITORIAL_SUMMARY, NARRATIVE; EARLIER_ONLY).
+
+### HK-SUP-02 — Changed body and institutional work
+
+The guide states Fierce Wings was stolen and Hawks subsequently left hero activity to chair the Commission. His stated support for people trying to act rightly is a criterion rather than blanket approval of every act. Nagant is later released and sometimes consulted by him; institutional employment does not restore his Quirk or demonstrate complete repair of the Commission.
+
+Source basis: [SUP-UAG-116-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-116-01) (`UAG:s0116`; PROFILE_FACT, EDITORIAL_SUMMARY, NARRATIVE; ENDPOINT); [SUP-UAG-118-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-118-01) (`UAG:s0118`; NARRATIVE, SELF_REPORT, EDITORIAL_SUMMARY; CONTINUING_WITH_SUPPORT); [SUP-UAG-198-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-198-01) (`UAG:s0198`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT).
+
+### HK-SUP-03 — A private object with a qualified meaning
+
+Horikoshi thinks the childhood Endeavor plush remains somewhere at home because Hawks cannot discard it; he does not display it or buy other merchandise. The author distinguishes this attachment from ordinary fandom. Retain the hedge and do not invent a nightly ritual or uncomplicated parental substitute.
+
+Source basis: [SUP-UAG-304-03](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-304-03) (`UAG:s0304`; AUTHOR_COMMENT; ENDPOINT).
+
+### Current use and remaining limits
+
+The object gives ordinary emotional texture while the later consultation relation adds a specific professional channel. No source licenses a single transparent motive behind every cover story or forgiveness for past violence.
+
+Keep specialist_ready. Private attachment and later institutional relationships sharpen; durability of reform and unshown personal routines remain uncertain. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe HK-V01: V27 → V31 freedom from command
 

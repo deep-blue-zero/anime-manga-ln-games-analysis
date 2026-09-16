@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: BAKUGO_KATSUKI
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Bakugo Katsuki
 readiness: specialist_ready
 supersedes: []
@@ -72,9 +72,58 @@ Competition favors assertive coordination; humiliation risks narrowed social int
 
 **Contradiction resolution:** `REVISE` “cooperation contradicts pride” into pride whose definition of winning changes through experience. `REJECT` “abusive speech makes him recruitable.” `PRESERVE` continuing communication problems. `OPEN` the exact adult limits of emotional disclosure outside the established friendships.
 
+**Current supplemental qualification (BK-SUP-01–03):** Terse parental replies, particular admiration expressed through the true-form autograph, and reciprocal adult teacher-directed banter now constrain ordinary speech. They do not establish intimate adult disclosure, universal politeness or how he responds privately to every criticism. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **adult Bakugo**, a trusted teammate offers help after he has overextended during a rescue. Likely: assess whether the help improves the operation, accept or assign it with a sharp directive, and resist being discussed as helpless. Confidence is high for operational cooperation, medium for the exact emotional response. A public implication that he is replaceable could produce a sharper retort; immediate danger to Midoriya or a civilian could override the argument. An unfamiliar helper with no demonstrated competence increases verification and resistance. None of this predicts a particular insult or authorizes ignoring known cardiac constraints.
+
+## Post-completion maturation: discriminative current support
+
+The following supports belong to the current full-series model. **BK04a–c and BK09 are outside BK-V01's historical frozen inputs.** The original BK01–BK08 table, recruitment probe, comparison and provenance remain unchanged. BK04's grouped V13:p094–109 reference must not be used to locate the guilt disclosure: the current discriminated locator for that disclosure is **V13:p180–182**, directly rechecked in the Japanese source. BK04c also makes the secret's V14:p050 narrative confirmation retrievable without altering the historical grouped row.
+
+| Current support / source | Actor state, partner, knowledge, trigger → observed behavior | Discriminative inference and limit |
+|---|---|---|
+| BK04a — [V11:p020–025](../02%20Sequential%20Readings/MHA_SP2_V11_DEEP_READING.md) | Captive Bakugo faces immediate danger while classmates create an escape route. Kirishima calls and offers the hand; Bakugo takes it. This occurs before All Might's final loss of active power and before the later private OFA discussion. | An established peer relation makes offered rescue usable without requiring softened speech. One explicit event, high confidence; later receipt of aid supplies recurrence in other states. Midoriya supplies the plan's relationship assessment, so its wording is not direct access to Bakugo's internal reasoning. Do not place the subsequent retirement guilt inside the earlier hand-taking decision. |
+| BK04b — [V13:p158–168, p180–182](../02%20Sequential%20Readings/MHA_SP2_V13_DEEP_READING.md) | After Kamino and his own license failure, Bakugo confronts Midoriya, has assembled an explanation connecting his new power to All Might, and demands a direct contest. During the fight he voices the belief that his capture ended All Might, explains that secrecy prevented disclosure, and admits he does not know what to do. | Rivalry, causal inference and unplaced guilt jointly organize this episode. The confession is explicit, high confidence; its causal account is Bakugo's self-accusation, not the model's verdict on responsibility. This is neither generic aggression nor a calm request for reassurance, and it does not yet include All Might's subsequent correction. |
+| BK04c — [V14:p043–046, p048–050, p055–056](../02%20Sequential%20Readings/MHA_SP2_V14_DEEP_READING.md) | All Might enters the aftermath, accepts adult responsibility, confirms secrecy at p046, and at p049 identifies the transfer as his own choice. Bakugo commits to secrecy and continued rivalry; p050 identifies a secret now held by three people. During the ensuing cleanup he gives Midoriya concrete technical criticism. | Authorized knowledge creates a new domain for useful peer scrutiny. High confidence for the changed information relationship and observed feedback; continued guilt intensity outside this scene is not measured. Learning the secret does not make Bakugo a co-holder, give him authority over Midoriya's future, or complete his later apology. |
+| BK09 — [V19:p073–077, p079–087](../02%20Sequential%20Readings/MHA_SP2_V19_DEEP_READING.md) | Classmates discover Bakugo's drum competence and recruit him at p073. At p074–076 he objects to the conciliatory stress-relief meaning of performing for students who blame Class A, then reframes the project as a serious musical challenge; Jiro commits at p077. The subsequent role and rehearsal sequence develops participation. **p078 is author character art and is excluded from narrative evidence.** | Skilled noncombat cooperation can be accepted through a demanding shared project while public status and the task's meaning remain charged. High confidence for this observed choice; medium for transferring the policy to an unfamiliar creative activity. Abrasiveness here is not evidence of either nonparticipation or uncomplicated agreement with every classmate's motive. |
+
+The three BK04 supports separate **accepting an offered route**, **disclosing private guilt**, and **acting with authorized knowledge**. They have different partners, available facts, stakes and speech functions. A trusted hand can be accepted before retirement creates its later burden; a confrontation with Midoriya can expose that burden before an adult supplies a better causal explanation. These transitions explain why one generic “resists help because of pride” rule loses predictive value. They do not license predicting the later apology from the rescue scene alone. Direct page inspection also excludes V13:p169's guest four-panel comics and V14:p047's blank separator from the new narrative supports.
+
+BK09 supplies a further distinction: participation is not the same as assent to a task's initial social framing. The new context is musical performance, with technique and collective timing making cooperation concrete. It is not his first noncombat reciprocity: [V11:p176–177](../02%20Sequential%20Readings/MHA_SP2_V11_DEEP_READING.md) already records repayment to Kirishima, and V14:p055–056 records useful criticism during cleanup. The musical episode expands the domains in which abrasive collaboration is observed; it does not require inventing a previously universal refusal of ordinary contribution.
+
+For a reconstruction **during festival preparation**, classmates seek his contribution to a project for which he has demonstrated skill. Likely: assess whether the role and shared standard justify the effort, challenge a framing he experiences as appeasement or status surrender, and participate forcefully if a meaningful demanding task emerges. Confidence is medium for a novel assignment. Lack of competence, an unworkable plan, or continuing disagreement about the project's purpose can change the answer; BK09 does not establish willingness to join every hobby. Preserve the difference between terse technical direction and humiliating a person. No new probe, score, or readiness promotion is claimed.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside BK-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### BK-SUP-01 — Post-finals anger before later guilt and disclosure
+
+The Horikoshi bonus dates itself just after finals. Bakugo’s withheld complaint during All Might’s debrief, Ochako’s unsolicited interpretation, and subsequent eruption are a separate situation from BK04’s later guilt duel and secret disclosure. Her fear interpretation remains hers; his changed expression and anger do not constitute an agreed explanation or reconciliation.
+
+Source basis: [SUP-UA-185-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-185-01) (`UA:s0185`; NARRATIVE, BONUS_FICTION, SELF_REPORT; EARLIER_ONLY); [SUP-UA-186-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-186-01) (`UA:s0186`; NARRATIVE, BONUS_FICTION, SELF_REPORT, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UA-187-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-187-01) (`UA:s0187`; NARRATIVE, BONUS_FICTION, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY); [SUP-UA-188-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-188-01) (`UA:s0188`; NARRATIVE, BONUS_FICTION; EARLIER_ONLY); [SUP-UA-189-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-ua-189-01) (`UA:s0189`; NARRATIVE, BONUS_FICTION, SELF_REPORT; EARLIER_ONLY).
+
+### BK-SUP-02 — Peer reception and family contact
+
+Editorially, rescue, retirement and learning the Quirk truth change his capacity to attend to teammates. His terse parental emails and classmates’ demands for names/better speech retain abrasive ordinary conduct. These statements neither negate change nor make other people’s tolerance consent to every insult.
+
+Source basis: [SUP-UAN-025-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-025-01) (`UAN:s0025`; EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAN-025-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-025-02) (`UAN:s0025`; PROFILE_FACT; EARLIER_ONLY); [SUP-UAN-062-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-062-01) (`UAN:s0062`; GAG, NARRATIVE, OTHER_CHARACTER_JUDGMENT; EARLIER_ONLY).
+
+### BK-SUP-03 — Adult cooperation and particular admiration
+
+The adult profile distinguishes independent work, mixed public reception and better reception in teams. The later bonus enacts cooperative deployment while he needles teacher Midoriya and receives a joke in return. Horikoshi separately confirms an autograph from true-form All Might and thinks Bakugo treasures the armor-remnant memory. Specific admiration and reciprocal banter do not establish uniform politeness; the author’s conjecture retains its qualification.
+
+Source basis: [SUP-UAG-028-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-028-01) (`UAG:s0028`; EDITORIAL_SUMMARY, PROFILE_FACT; ENDPOINT); [SUP-UAG-301-03](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-301-03) (`UAG:s0301`; AUTHOR_COMMENT; ENDPOINT); [SUP-UAG-322-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-322-01) (`UAG:s0322`; BONUS_FICTION, NARRATIVE; ENDPOINT).
+
+### Current use and remaining limits
+
+The choice of audience, available knowledge and current relational permission should govern reconstruction. A challenge from Ochako immediately after finals is not interchangeable with later accepted aid, guilt disclosure or adult banter. Mountain climbing/spicy-food preferences are earlier profile facts (SUP-UA-024-01), not ready-made behavioral scripts.
+
+Keep specialist_ready. Ordinary speech and state discrimination strengthen; the books do not remove documented injury limits or supply every adult private response. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe BK-V01: V09 → V10 recruitment
 

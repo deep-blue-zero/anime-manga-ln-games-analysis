@@ -5,7 +5,7 @@ analytical_role: distributed_character_claim_adjudication
 scope: KAYA_RINHA
 generation: V2
 status: canonical
-source_boundary: GAKUMAS V2 Source Lock 1.0 — corrected Kaya Rinha crosswalk of 118 deduplicated canonical source objects / 6,709 containing messages; 43 objects contain 621 logical Rinha dialogue messages after tagged-speaker parser correction; prior Phase-6 Systems I and side-character synthesis used only as claims-to-audit, not substitutes for primary evidence
+source_boundary: GAKUMAS V2 Source Lock 1.0 — corrected Kaya Rinha crosswalk of 118 deduplicated canonical source objects / 6,709 containing messages; 43 objects contain 620 logical Rinha dialogue messages after tagged-speaker parser correction; prior Phase-6 Systems I and side-character synthesis used only as claims-to-audit, not substitutes for primary evidence
 source_lock: GAKUMAS V2 Source Lock 1.0
 source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
@@ -14,11 +14,14 @@ governing_architecture: GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_
 governing_continuity: GKM_CONTINUITY_AND_STORY_STATE_MAP.md v2.1
 governing_crosswalk: GKM_KAYA_RINHA_SOURCE_CROSSWALK.md — Drive 16LQV0l604NU3E6-c5qusD7sy66xzu99a
 created: '2026-08-24'
+last_updated: '2026-09-11'
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 # GKM KAYA RINHA EVIDENCE MATRIX
+
+> **RINHA-AV-20260911 bounded revision.** [The AV packet](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) covers all 18 planned scenes through verified source text, selected-mix measurements and 538 distinct inspected still points. It adds zero direct listening and zero continuous-motion review. The exact-speaker audit corrects 621→620 messages and 63→49 full-width elongation marks; other listed lexical counts are unchanged. C052/C057 now distinguish story/observer/portrait evidence from heard performance; C070 explicitly allows sustained or accepted disclosure. C073 and the dossier perceptual gate remain open. All 73 claim IDs and Source Lock 1.0 are preserved.
 
 ## 0. Purpose and authority boundary
 
@@ -38,7 +41,7 @@ A second rule follows from the evidence audit:
 
 Before any claim was adjudicated, all 118 crosswalk objects were re-parsed from their exact matched dialogue bodies. The first crosswalk release had counted only plain speaker forms such as `燐羽:` and missed many metadata-tagged forms such as `燐羽 speaker=img_adv_speaker_krnh_000-005:`.
 
-Corrected result:
+Matrix-preflight result (historical checkpoint; the current exact-name total is 620 as audited above):
 
 - **118/118 unique source objects matched; source boundary unchanged.**
 - **43 direct-speaking objects**, not 28.
@@ -199,7 +202,7 @@ Promises, fans, Temari’s imitation, Misuzu’s challenge, Saki/Ume’s sister 
 | RINHA-C049 | Rinha has organizer/broker competence in addition to technical coaching. | STRENGTHEN | Coordinates Gokugetsu support, former-member training, fan handoff, Shuka’s approach, shared hangout logistics (`XW-036`, `065`, `074`, `097`). | SyngUp leader history and Gokugetsu contract role corroborate. | Not equivalent to being the sole relational manager. | Cross-context. | HIGH | NO | ALLOW_CORE |
 | RINHA-C050 | Rinha is comfortable performing fanservice/social play and coaching others in it. | STRENGTHEN | Directly demonstrates a new SyngUp fanservice bit and prompts Misuzu to do her own (`XW-022`); repeated hearts/kisses/playful address in later routes. | Fan attachment remains strong. | Exact sexual/romantic meaning of tactile play is separate. | Cidol + Dear support. | VERY HIGH | P1 | ALLOW_CORE |
 | RINHA-C051 | Rinha uses territorial “make it your song” competitive rhetoric as a performance principle. | STRENGTHEN — RHETORIC | Direct advice: overpower an existing song until the ability gap makes it effectively “your” song (`XW-027`). | Saki finds the framing useful; Rinha later critiques performances through competitive standards. | May be deliberately maximalist/comic rather than literal ownership philosophy. | C2/C4 cidol; useful trait evidence when bounded. | HIGH | P1 — tone | ALLOW_BOUNDED |
-| RINHA-C052 | High-fidelity mimicry/voice imitation is a real Rinha technical skill used pedagogically. | STRENGTHEN | She demonstrates Ume imitation as a training model and calls it her special skill (`XW-059`, `092`). | Misuzu recognizes the skill and its prior history. | Exact breadth/limits of mimicry not mapped. | D-UME/D-MISUZU converge. | VERY HIGH | P1 — audio highly informative | ALLOW_CORE |
+| RINHA-C052 | Mimicry/voice imitation is a story-established Rinha technical skill used pedagogically; real acoustic fidelity is a separate unverified question. | STRENGTHEN | She demonstrates Ume imitation as a training model and calls it her special skill (`XW-059`, ` 092`). | Misuzu recognizes the skill and its prior history. | Exact breadth/limits of mimicry not mapped. Ume015 at 1207s displays Ume’s report of hearing her own voice; script voice keys identify assets, not the real performer or measured fidelity. No direct listening in RINHA-AV-20260911. | D-UME/D-MISUZU converge. | VERY HIGH | P1 — audio highly informative | ALLOW_CORE |
 | RINHA-C053 | Rinha’s copying of Kei proves she has no independent performance identity. | REJECT / OPEN | Rinha accepts that a current performance imitates the “sun” to fulfill a promise (`XW-044`), but elsewhere demonstrates distinctive pedagogy, competitive rhetoric, fan behavior, and playful persona. | Temari explicitly models parts of her own persona on Rinha, showing Rinha herself was independently legible as a model. | Why/when she deliberately copies Kei is not equivalent to total identity absence. | D-TEMARI copy claim is bounded. | LOW as global claim | P0/P1 if performance comparison later staged | FORBID |
 | RINHA-C054 | Fan accountability is part of Rinha’s professional judgment of idols and competition. | STRENGTHEN | Rebukes Gokugetsu peers for behavior fans should not see (`XW-036`); evaluates Temari’s losing live partly by whether fans should be disappointed (`XW-068`); meticulously delegates fan care (`XW-097`). | Her own inflammatory past harmed fans, which she acknowledges (`XW-037`). | This creates genuine self-contradiction/history, not hypocrisy proof by itself. | Strong multi-context. | VERY HIGH | P1 | ALLOW_CORE |
 | RINHA-C055 | Rinha has substantial ordinary sociality outside high-stakes competition. | STRENGTHEN | Food teasing, merch, hangout-room claims, visits, dates/jokes, press interaction, H.I.F. spectatorship, ordinary trio attention (`XW-050`, `053`, `088`, `112–115`). | Ramen memory and broader support ecology corroborate. | Much ordinary material is playful; avoid flattening it into permanent softness. | Cross-context/support. | VERY HIGH | P1 selected scenes | ALLOW_CORE |
@@ -209,7 +212,7 @@ Promises, fans, Temari’s imitation, Misuzu’s challenge, Saki/Ume’s sister 
 | claim ID | bounded proposition | transition | direct Rinha evidence | observer / memory evidence | counterevidence / tension | continuity | confidence | AV | dossier action |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RINHA-C056 | Temari is simultaneously former student, imitation-descendant, rival, attachment figure, and person whose growth Rinha monitors. | STRENGTHEN | Direct coaching/praise, promise reactivation, continued training, casual visits, support, and concern (`XW-038–053`). | Temari’s automatic panic vocative and explicit idol imitation show reciprocal depth (`XW-109`; observer evidence). | Do not reduce relation to caretaker/child or enemy/rival alone. | D-TEMARI + support. | VERY HIGH | P0/P1 | ALLOW_CORE |
-| RINHA-C057 | Temari’s crying/need reliably penetrates Rinha’s defensive posture, but “Rinha always gives in to tears” is too absolute. | STRENGTHEN / REVISE | In `XW-038`, Temari’s crying visibly destabilizes Rinha and contributes to a changed course. | Misuzu calls Temari’s crying Rinha’s `大弱点` and says Rinha gives in (`XW-061`). | Rinha explicitly objects to that characterization; not every disagreement ends in capitulation. | D-TEMARI/D-MISUZU triangulation. | HIGH | P0 — `D-TEMARI 016` | ALLOW_BOUNDED |
+| RINHA-C057 | Temari’s crying/need reliably penetrates Rinha’s defensive posture, but “Rinha always gives in to tears” is too absolute. | STRENGTHEN / REVISE | In `XW-038`, Temari’s crying/need disrupts the exchange and contributes to a changed course. Fresh points separate Temari’s 3D tears, Rinha’s distressed-looking bust and Temari’s captioned question about Rinha crying; they do not establish heard crying or Rinha 3D body motion. | Misuzu calls Temari’s crying Rinha’s `大弱点` and says Rinha gives in (`XW-061`). | Rinha explicitly objects to that characterization; not every disagreement ends in capitulation. | D-TEMARI/D-MISUZU triangulation. | HIGH | P0 — `D-TEMARI 016` | ALLOW_BOUNDED |
 | RINHA-C058 | Misuzu and Rinha have durable old intimacy expressed through teaching history, rivalry, mutual reading, direct conflict, and continued separate-road friendship. | STRENGTHEN | Rinha taught Misuzu singing, proposes contest conditions, engages in explicit ranking/rivalry, later hangs out and supports (`XW-057`, `061`, `065`, `068–074`). | Misuzu can accurately challenge Rinha’s defensive persona and old wound, though her interpretations are still observer evidence. | Do not make Misuzu’s “kind/naive” description definitive by itself. | D-MISUZU + support. | VERY HIGH | P0 — `D-MISUZU 016/024` | ALLOW_CORE |
 | RINHA-C059 | Saki functions for Rinha as a live counterexample/mirror of the older-sister wound and becomes a genuine friend/collaborator, without replacing Rinha’s sister. | STRENGTHEN | Rinha directly explains the analogy and non-substitution (`XW-083`), later trains/supports Saki and calls the relation mutual enough that one-sidedness would be lonely (`XW-082`, `088`). | Project Stardust collaboration and song involvement deepen the relation. | The Saki route is especially rich and must remain D-SAKI bounded. | C1 @ D-SAKI. | VERY HIGH within route | P0/P1 | ALLOW_BOUNDED |
 | RINHA-C060 | Ume becomes a non-SyngUp fan/teacher/rival/sister-play relation and a counterexample to Rinha’s assumption about how younger sisters must respond to burning older sisters. | STRENGTHEN | Rinha calls herself Ume’s fan, coaches her, entrusts fans, uses sister-play, raises Saki concern, then accepts Ume’s different answer (`XW-089–100`). | Ume repeatedly seeks Rinha’s training while disliking/teasing her. | Do not infer Ume is a substitute younger sister. | C1 @ D-UME. | VERY HIGH within route | P0 — `D-UME 024`, P1 `029` | ALLOW_BOUNDED |
@@ -222,15 +225,15 @@ Promises, fans, Temari’s imitation, Misuzu’s challenge, Saki/Ume’s sister 
 
 | claim ID | bounded proposition | transition | direct Rinha evidence | observer / memory evidence | counterevidence / tension | continuity | confidence | AV | dossier action |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| RINHA-C065 | Rinha’s stable first-person form in the corrected direct corpus is `私`, not `あたし`. | STRENGTHEN | Across 621 logical Rinha messages, `私` appears 91 times and `あたし` 0 times in the extracted direct pool. | No observer evidence needed. | Corpus-bound frequency, not a claim that alternative first-person can never occur in future releases. | 43-object direct pool. | VERY HIGH | Audio not needed for lexical fact | ALLOW_CORE |
-| RINHA-C066 | Rinha’s surface register is strongly adversarial/directive: negative questions, `～してあげる`, `じゃない`, `でしょ`, imperatives, insults, and mock threats are recurrent. | STRENGTHEN | In 621 direct messages: `じゃない` 48, `でしょ` 40, `なさい` 22, `くれる？` 14, recurrent `してあげる`; insults/threats appear across hosts. | Observers repeatedly call her difficult/harsh; recipients still seek her out. | Lexical recurrence does not identify function or tone in any single scene. | Cross-context linguistic invariant. | VERY HIGH | P0/P1 for functional partition | ALLOW_CORE |
+| RINHA-C065 | Rinha’s stable first-person form in the corrected direct corpus is `私`, not `あたし`. | STRENGTHEN | Across 620 logical Rinha messages, `私` appears 91 times and `あたし` 0 times in the extracted direct pool. | No observer evidence needed. | Corpus-bound frequency, not a claim that alternative first-person can never occur in future releases. | 43-object direct pool. | VERY HIGH | Audio not needed for lexical fact | ALLOW_CORE |
+| RINHA-C066 | Rinha’s surface register is strongly adversarial/directive: negative questions, `～してあげる`, `じゃない`, `でしょ`, imperatives, insults, and mock threats are recurrent. | STRENGTHEN | In 620 direct messages: `じゃない` 48, `でしょ` 40, `なさい` 22, `くれる？` 14, recurrent `してあげる`; insults/threats appear across hosts. | Observers repeatedly call her difficult/harsh; recipients still seek her out. | Lexical recurrence does not identify function or tone in any single scene. | Cross-context linguistic invariant. | VERY HIGH | P0/P1 for functional partition | ALLOW_CORE |
 | RINHA-C067 | Rinha’s abrasive language is normally proof of genuine hostility. | REJECT | Same lexical forms coexist with praise, training, fan care, visits, emotional support, and accepted friendship (`XW-045`, `053`, `068`, `088`, `100`). | Recipients learn to interpret her abrasiveness differently by relationship/context. | Some hostility/anger is genuine; do not invert to “never hostile.” | Cross-context falsified as default equation. | VERY HIGH | AV REQUIRED for scene-level hostility classification | FORBID |
 | RINHA-C068 | Rinha’s abrasive language is always disguised affection. | REJECT | She sometimes expresses real contempt/anger, especially toward Gokugetsu peers or actions she judges unprofessional (`XW-036`); she explicitly marks some people/behaviors as disliked. | Affection often coexists with abrasive delivery elsewhere. | “All insults are love” would erase boundaries and professional anger. | Cross-context. | VERY HIGH | AV REQUIRED when disputed | FORBID |
 | RINHA-C069 | Affection and positive investment leak through the abrasive register via praise, hearts, kisses, explicit liking, fandom, concern, and embarrassment. | STRENGTHEN | Examples span `すごい`, `なら、よかった`, `結構好き`, `大好きなアイドル`, heart-marked address, kisses, worry (`XW-045`, `079/090`, `088`, `093`, `097`, `115`). | Misuzu describes Rinha as loyal/naive/kind; Temari interprets old actions as protective. | Observer warmth should not overwrite direct negative states; leakage is a pattern, not total hidden truth. | Cross-context. | VERY HIGH | P0/P1 | ALLOW_CORE |
-| RINHA-C070 | Rinha can disclose vulnerability directly, but often briefly and with immediate deflection, humor, or antagonistic recoding. | STRENGTHEN | Older-sister confession (`XW-083`), fan-handoff hesitation (`XW-093`), loneliness/friend admission (`XW-088`), unresolved-worry request (`XW-115`), emotional disruption by Temari (`XW-038`). | Observers often describe her as sensitive/naive despite hard presentation. | The Saki confession is unusually sustained, so “never direct” is false. | Cross-context. | HIGH | P0 — Saki026, Temari016, S3-0097-03 | ALLOW_CORE |
+| RINHA-C070 | Rinha can disclose vulnerability directly; endings include deflection/play, sustained supportive disclosure, and an accepted request without a subsequent Rinha deflection. | REVISE / STRENGTHEN | Older-sister confession (`XW-083`), fan-handoff hesitation (`XW-093`), loneliness/friend admission (`XW-088`), unresolved-worry request (`XW-115`), emotional disruption by Temari (`XW-038`). | Observers often describe her as sensitive/naive despite hard presentation. | The Saki confession is sustained and ends in encouragement. Support0097 part03 ends with Ume answering Rinha’s request, with no later Rinha message; immediate recoding is not universal. Softness and recovery timing remain unheard. | Cross-context. | HIGH | P0 — Saki026, Temari016, S3-0097-03 | ALLOW_CORE |
 | RINHA-C071 | Playful theatricality/hyperbole is a real part of Rinha’s ordinary register. | STRENGTHEN | Hearts, mock “kill” threats, “hate”/“annoying,” sister roleplay, mock-ownership, fanservice bits, exaggerated rivalry recur (`XW-022`, `050`, `053`, `079`, `088`, `100`). | Recipients often answer in the same heightened style. | Do not assume every threatening/hostile line is playful; scene classification remains necessary. | Cross-context. | VERY HIGH | P1 broad sample | ALLOW_CORE |
 | RINHA-C072 | A generic fandom label such as “tsundere” is sufficient as Rinha’s behavioral model. | REJECT | Direct corpus distinguishes professional severity, competitive provocation, defensive shame, explicit affection, technical teaching, public ethics, and genuine hostility. | Relationship-specific registers vary substantially. | Trope label collapses causal/function distinctions needed for simulation. | Methodological rejection. | VERY HIGH | NO | FORBID_AS_MODEL |
-| RINHA-C073 | Rinha’s register shifts by relationship and affective task even while lexical abrasiveness remains stable. | STRENGTHEN — AV DISCRIMINATION | Temari scenes show exasperation/embarrassment; Misuzu scenes show old-peer sparring; Saki/Ume show sister-play and tactile teasing; fans/public receive more controlled speech; technical coaching uses directive forms. | The same words (`嫌い`, `うっとうしい`, `してあげる`) serve different relational functions. | Text alone cannot fully partition playful, wounded, hostile, or embarrassed delivery. | 43-object multi-host pool. | HIGH | P0/P1 REQUIRED | ALLOW_CORE_AFTER_AV_REFINEMENT |
+| RINHA-C073 | Rinha’s register shifts by relationship and affective task even while lexical abrasiveness remains stable. | STRENGTHEN — AV DISCRIMINATION | Temari scenes show exasperation/embarrassment; Misuzu scenes show old-peer sparring; Saki/Ume show sister-play and tactile teasing; fans/public receive more controlled speech; technical coaching uses directive forms. | The same words (`嫌い`, `うっとうしい`, `してあげる`) serve different relational functions. | Text and sampled stills cannot fully partition playful, wounded, hostile, or embarrassed vocal delivery. RINHA-AV-20260911 adds relation-specific staging and actor attribution; direct listening and continuous-motion discrimination remain unperformed. | 43-object multi-host pool. | HIGH | P0/P1 REQUIRED | ALLOW_CORE_AFTER_AV_REFINEMENT |
 
 ## 4. Cross-context invariants that survive adversarial testing
 
@@ -375,7 +378,7 @@ Safe D-UME model:
 
 ### 7.1 Corpus counts
 
-The corrected 43-object direct pool contains **621 logical Rinha messages**. Simple lexical audit of that bounded pool gives:
+The corrected 43-object direct pool contains **620 logical Rinha messages**. Exact A1/A2 speaker audit of that bounded pool gives (the excluded fan scream explains the earlier 63→49 elongation-mark correction):
 
 | feature | observed count | safe interpretation |
 | --- | ---: | --- |
@@ -387,7 +390,7 @@ The corrected 43-object direct pool contains **621 logical Rinha messages**. Sim
 | `なさい` | 22 | directive register is genuinely common |
 | `くれる？` | 14 | requests often arrive as negative/pressuring or teasing questions |
 | `お姉ちゃん` | 33 | high-frequency relationship play, especially Saki/Hanami contexts |
-| full-width `～` | 63 | elongated playful/taunting prosody is textually marked often |
+| full-width `～` | 49 | elongated playful/taunting prosody is textually marked often |
 
 These counts are lexical anchors, not a substitute for voice acting. They should guide reconstruction away from generic polite speech or generic “tsundere” shorthand.
 
@@ -411,7 +414,7 @@ The crosswalk previously returned **WARRANTED — DEFERRED UNTIL MATRIX**. The m
 
 > **Dedicated targeted Kaya Rinha audiovisual baseline: REQUIRED before the dossier is finalized.**
 
-The corrected direct density (43 objects / 621 messages) is well above the threshold for a distinct acquisition responsibility, and several high-value claims depend on distinguishing **playful, defensive, wounded, embarrassed, professionally severe, and genuinely hostile** versions of very similar text.
+The corrected direct density (43 objects / 620 messages) is well above the threshold for a distinct acquisition responsibility, and several high-value claims depend on distinguishing **playful, defensive, wounded, embarrassed, professionally severe, and genuinely hostile** versions of very similar text.
 
 ### 8.1 P0 minimal discriminating set
 
@@ -529,7 +532,7 @@ This matrix adjudicates **73 bounded claims**. The dominant result is not wholes
 
 ### Completed by this artifact
 
-- corrected crosswalk direct-speaker audit incorporated: **118 objects / 43 direct objects / 621 Rinha messages**;
+- corrected crosswalk direct-speaker audit incorporated: **118 objects / 43 direct objects / 620 Rinha messages**;
 - direct versus mediated claims adjudicated;
 - prior Systems-I Rinha/SyngUp claims transitioned;
 - older-sister, idol-identity, fan, Gokugetsu, care, relationship, and register claims given explicit promotion ceilings;
@@ -540,12 +543,8 @@ This matrix adjudicates **73 bounded claims**. The dominant result is not wholes
 
 ### Next canonical operation
 
-Because architecture v2.4 requires audiovisual backfill when a distinct voiced-scene responsibility is justified, the next operation should be:
+The owner-approved [request plan](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md) has been executed for acquisition, text/source validation, selected-mix measurement and sampled-still inspection. All 18 targets are present. The [all-claim change report](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CLAIM_CHANGE_REPORT.md) records the 73 dispositions without claiming a complete perceptual pass.
 
-**`GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`**
-
-followed by the targeted acquisition/inspection of the matrix-selected P0/P1 scenes. After those findings are integrated, proceed to:
-
-**`GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`**.
+The next operation is documented direct listening and continuous-video review of the retained P0/P1 scenes, followed by reconciliation of C073 and other remaining tone/motion-dependent claims. Only after that gate is satisfied, proceed to **`GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`**.
 
 The dossier remains mandatory before Phase 6 can close.

@@ -5,8 +5,8 @@ document_type: "persistent ledger"
 version: "2.6"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-24 — Phase 6 Kaya Rinha evidence-matrix AV gate integrated"
-status: "active; 13/13 core baselines complete; Phase-6 Kaya Rinha targeted AV baseline REQUIRED — matrix-selected P0/P1 set pending acquisition/inspection"
+last_updated: "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open"
+status: "active; Rinha source/text, selected-mix and sampled-still pass delivered; listening, motion and dossier gate open"
 ---
 
 # AUDIOVISUAL VERIFICATION QUEUE
@@ -875,3 +875,18 @@ Prefer whole-scene/whole-episode captures that preserve pauses, BGM, facial anim
 
 **Next AV artifact:** `GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`.
 
+<!-- RINHA_AV_20260911 -->
+## Current Rinha target execution — perceptual gate OPEN
+
+All 11 P0 and 7 P1 targets from the matrix-selected plan are acquired and matched to 12 retained recordings. The [packet](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) accounts for 538 distinct inspected still points and 18 selected-mix measurements. No required media download remains for this plan.
+
+| Responsibility | Current status |
+| --- | --- |
+| Physical source identity / Japanese scene matching | COMPLETE within 18-target scope |
+| Source text / speaker recount | COMPLETE; 620 Rinha messages, support0097-02 nine |
+| Selected-mix computation / declared sampled-still pass | COMPLETE |
+| Direct listening / continuous-motion comparison | OPEN; 0 seconds reviewed in each modality |
+| C073 relation-conditioned performed register | OPEN; text/still distinctions supplied, audible discrimination pending |
+| Rinha dossier / Phase 6 closure | OPEN; cannot close from computations or still counts |
+
+The prior acquisition handoff is historical. Use the [target and metrics matrix](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md) for the retained sources and windows. Q1–Q7 now have bounded answers and explicit residual dependencies in the baseline.

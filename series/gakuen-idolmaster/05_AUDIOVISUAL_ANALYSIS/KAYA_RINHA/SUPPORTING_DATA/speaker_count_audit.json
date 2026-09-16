@@ -1,0 +1,522 @@
+{
+  "manifest_objects": 3777,
+  "direct_objects": 43,
+  "totals": {
+    "exact": 620,
+    "prefix": 621
+  },
+  "prefix_false_positives": [
+    {
+      "path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_02.txt",
+      "line": 143,
+      "message": "[message text=きゃ～～～～～～～～～～～～～～♡ name=燐羽様ファン"
+    }
+  ],
+  "decoding_errors": [
+    {
+      "path": "transcripts_raw/98_miscellaneous/musics.txt",
+      "bytes_prefix_hex": "fa060dc02e20a5b4"
+    }
+  ],
+  "direct_files": [
+    {
+      "path": "transcripts_raw/03_idol_communications/hmsz=Misuzu_Hataya/rank_3/episode_005/part_02.txt",
+      "message_count": 3
+    },
+    {
+      "path": "transcripts_raw/03_idol_communications/hski=Saki_Hanami/rank_3/episode_017/part_03.txt",
+      "message_count": 11
+    },
+    {
+      "path": "transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_009/part_02.txt",
+      "message_count": 4
+    },
+    {
+      "path": "transcripts_raw/04_support_card_stories/support_series_3/story_0096/part_02.txt",
+      "message_count": 2
+    },
+    {
+      "path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_01.txt",
+      "message_count": 10
+    },
+    {
+      "path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_02.txt",
+      "message_count": 9
+    },
+    {
+      "path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_03.txt",
+      "message_count": 9
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_012.txt",
+      "message_count": 18
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_014.txt",
+      "message_count": 13
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_016.txt",
+      "message_count": 27
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_020.txt",
+      "message_count": 19
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_021.txt",
+      "message_count": 2
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_023.txt",
+      "message_count": 16
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_024.txt",
+      "message_count": 27
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_025.txt",
+      "message_count": 1
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_034.txt",
+      "message_count": 6
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_014.txt",
+      "message_count": 18
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_016.txt",
+      "message_count": 14
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_017.txt",
+      "message_count": 1
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_024.txt",
+      "message_count": 13
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_025.txt",
+      "message_count": 20
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_026.txt",
+      "message_count": 26
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_034.txt",
+      "message_count": 16
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_012.txt",
+      "message_count": 14
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_013.txt",
+      "message_count": 12
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_015.txt",
+      "message_count": 17
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_016.txt",
+      "message_count": 16
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_019.txt",
+      "message_count": 1
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_024.txt",
+      "message_count": 27
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_029.txt",
+      "message_count": 22
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_014.txt",
+      "message_count": 22
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_015.txt",
+      "message_count": 18
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_016.txt",
+      "message_count": 37
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_017.txt",
+      "message_count": 26
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_020.txt",
+      "message_count": 7
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_024.txt",
+      "message_count": 32
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_025.txt",
+      "message_count": 20
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_026.txt",
+      "message_count": 17
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_027.txt",
+      "message_count": 2
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_030.txt",
+      "message_count": 18
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_032.txt",
+      "message_count": 9
+    },
+    {
+      "path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_035.txt",
+      "message_count": 13
+    },
+    {
+      "path": "transcripts_raw/06_story_events/event_016/main-03.txt",
+      "message_count": 5
+    }
+  ],
+  "interpretation": "43 exact-name A1 direct files agree one-for-one with 620 A2 logical dialogue entries. Exclude 燐羽様ファン. Lexical counting uses exact substrings within each accepted entry, with display line breaks joined; no cross-message concatenation.",
+  "a2_logical_entries": 620,
+  "a2_comparisons": [
+    {
+      "source_lock_path": "transcripts_raw/03_idol_communications/hmsz=Misuzu_Hataya/rank_3/episode_005/part_02.txt",
+      "a1_messages": 3,
+      "a2_logical_entries": 3,
+      "dialogue_path": "transcripts_dialogue_only/03_idol_communications/hmsz=Misuzu_Hataya/rank_3/episode_005/part_02.dialogue.txt",
+      "a2_sha256": "bc93ffb50bacc8268591fdee4b4151baab57479fd26ab6fb4b2f7dd5f2046a6b"
+    },
+    {
+      "source_lock_path": "transcripts_raw/03_idol_communications/hski=Saki_Hanami/rank_3/episode_017/part_03.txt",
+      "a1_messages": 11,
+      "a2_logical_entries": 11,
+      "dialogue_path": "transcripts_dialogue_only/03_idol_communications/hski=Saki_Hanami/rank_3/episode_017/part_03.dialogue.txt",
+      "a2_sha256": "c5c08e0a2afa60c861507f2381902da0a5ac2782874dbbb962430858ec62645f"
+    },
+    {
+      "source_lock_path": "transcripts_raw/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_009/part_02.txt",
+      "a1_messages": 4,
+      "a2_logical_entries": 4,
+      "dialogue_path": "transcripts_dialogue_only/03_idol_communications/ttmr=Temari_Tsukimura/rank_3/episode_009/part_02.dialogue.txt",
+      "a2_sha256": "3b41cdc182bc584184bc477dd4e1a42e04c00a1f59028e0102e99afb0f12bd47"
+    },
+    {
+      "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0096/part_02.txt",
+      "a1_messages": 2,
+      "a2_logical_entries": 2,
+      "dialogue_path": "transcripts_dialogue_only/04_support_card_stories/support_series_3/story_0096/part_02.dialogue.txt",
+      "a2_sha256": "1c49526eefcfa8acd860b2db35e4aff4633fcc747daba2b9c8b188149896c88d"
+    },
+    {
+      "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_01.txt",
+      "a1_messages": 10,
+      "a2_logical_entries": 10,
+      "dialogue_path": "transcripts_dialogue_only/04_support_card_stories/support_series_3/story_0097/part_01.dialogue.txt",
+      "a2_sha256": "457c6710e02023e896abbab0e55fa1ee003796ca312f4caf9c7fd0bd199d6eca"
+    },
+    {
+      "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_02.txt",
+      "a1_messages": 9,
+      "a2_logical_entries": 9,
+      "dialogue_path": "transcripts_dialogue_only/04_support_card_stories/support_series_3/story_0097/part_02.dialogue.txt",
+      "a2_sha256": "4b4862788eeed92b6894978b5bbd72213a6449f08f8110d6e03503e2ca22628c"
+    },
+    {
+      "source_lock_path": "transcripts_raw/04_support_card_stories/support_series_3/story_0097/part_03.txt",
+      "a1_messages": 9,
+      "a2_logical_entries": 9,
+      "dialogue_path": "transcripts_dialogue_only/04_support_card_stories/support_series_3/story_0097/part_03.dialogue.txt",
+      "a2_sha256": "9e283cddc9e0f126e129563c0fbbbbcb0fa92580f76d9ebe645d56c6e719da1d"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_012.txt",
+      "a1_messages": 18,
+      "a2_logical_entries": 18,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hmsz=Misuzu_Hataya/dear_012.dialogue.txt",
+      "a2_sha256": "3c89066e318c8bd94f6e06fd6d3fecfc55b6e6cb11ec0479162140262d99e59e"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_014.txt",
+      "a1_messages": 13,
+      "a2_logical_entries": 13,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hmsz=Misuzu_Hataya/dear_014.dialogue.txt",
+      "a2_sha256": "664d99d162b5d4cd07a8171c4d46f513b60a060e204cb2f95db0946cc090735d"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_016.txt",
+      "a1_messages": 27,
+      "a2_logical_entries": 27,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hmsz=Misuzu_Hataya/dear_016.dialogue.txt",
+      "a2_sha256": "28f63104184629f29c00bcf302e93e981a9c589df49e7917f242dabdc77812e8"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_020.txt",
+      "a1_messages": 19,
+      "a2_logical_entries": 19,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hmsz=Misuzu_Hataya/dear_020.dialogue.txt",
+      "a2_sha256": "7bed0682e22f42d2e8d2693f35e74746e8fb001607c3f5c367292ebfe2fd6704"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_021.txt",
+      "a1_messages": 2,
+      "a2_logical_entries": 2,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hmsz=Misuzu_Hataya/dear_021.dialogue.txt",
+      "a2_sha256": "fdccb785595158f094fe31b35b1e8dde804070444afe5cd9a5e1bb77862be8a7"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_023.txt",
+      "a1_messages": 16,
+      "a2_logical_entries": 16,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hmsz=Misuzu_Hataya/dear_023.dialogue.txt",
+      "a2_sha256": "39feb98f023155da256b4cc39fbb8ee1b860577914b357de7e14bebe9a0b4b00"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_024.txt",
+      "a1_messages": 27,
+      "a2_logical_entries": 27,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hmsz=Misuzu_Hataya/dear_024.dialogue.txt",
+      "a2_sha256": "1450da37faa893015191499e6b077d10a29ba1067bd325c9da987afb6c571537"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_025.txt",
+      "a1_messages": 1,
+      "a2_logical_entries": 1,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hmsz=Misuzu_Hataya/dear_025.dialogue.txt",
+      "a2_sha256": "3ff58e011ce934c212413be2f7b1cc57bcf1aa914dcdaea5e19aaecf83ec7f04"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hmsz=Misuzu_Hataya/dear_034.txt",
+      "a1_messages": 6,
+      "a2_logical_entries": 6,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hmsz=Misuzu_Hataya/dear_034.dialogue.txt",
+      "a2_sha256": "d14f0f746de45c60869e77dca6b312b7293272d518ce734e602e62c861ffaa70"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_014.txt",
+      "a1_messages": 18,
+      "a2_logical_entries": 18,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hski=Saki_Hanami/dear_014.dialogue.txt",
+      "a2_sha256": "05b49eb3d2fe0e781075cbf003b2a1499afe644df20f1710014a5b7c24c805a3"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_016.txt",
+      "a1_messages": 14,
+      "a2_logical_entries": 14,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hski=Saki_Hanami/dear_016.dialogue.txt",
+      "a2_sha256": "0623c611b856cd7f92bbfd0764a1106eab9759a38dba7a91924d5e1a9141f398"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_017.txt",
+      "a1_messages": 1,
+      "a2_logical_entries": 1,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hski=Saki_Hanami/dear_017.dialogue.txt",
+      "a2_sha256": "86990c3afd3246cb0237a05f33478b6ab8c3b28c80233aa8254f615dc40a04b5"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_024.txt",
+      "a1_messages": 13,
+      "a2_logical_entries": 13,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hski=Saki_Hanami/dear_024.dialogue.txt",
+      "a2_sha256": "2f1a3aae62cc0f69d4d6403db976f6c5195c084ab70592c2e6efb071bdd48668"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_025.txt",
+      "a1_messages": 20,
+      "a2_logical_entries": 20,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hski=Saki_Hanami/dear_025.dialogue.txt",
+      "a2_sha256": "26faadecce87ffe2e7e04a4cf3fc9a98e170d5a41b094b030bc7ea19a614c0a9"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_026.txt",
+      "a1_messages": 26,
+      "a2_logical_entries": 26,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hski=Saki_Hanami/dear_026.dialogue.txt",
+      "a2_sha256": "ff29eb6978fa1b41112b4245fc75d6c0d52571b2bf87a548119d2f6ffcd1acf2"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hski=Saki_Hanami/dear_034.txt",
+      "a1_messages": 16,
+      "a2_logical_entries": 16,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hski=Saki_Hanami/dear_034.dialogue.txt",
+      "a2_sha256": "18e54a6c69b8b7a346da593f761375b936cc11b8f09142a1840c28105058fa30"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_012.txt",
+      "a1_messages": 14,
+      "a2_logical_entries": 14,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hume=Ume_Hanami/dear_012.dialogue.txt",
+      "a2_sha256": "8ccd212bb29a6dbd2595f5835afd5385c591cd59ca02a4a565eed4b1346ddc86"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_013.txt",
+      "a1_messages": 12,
+      "a2_logical_entries": 12,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hume=Ume_Hanami/dear_013.dialogue.txt",
+      "a2_sha256": "47bd1741a7bd67bd3720575d2c09dd6474677829b7aa2da8417621977ea2a351"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_015.txt",
+      "a1_messages": 17,
+      "a2_logical_entries": 17,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hume=Ume_Hanami/dear_015.dialogue.txt",
+      "a2_sha256": "7813d886f80d7994bc7ba819f3a43c749ce59fcc67b2b947bdf4a6effdeb370c"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_016.txt",
+      "a1_messages": 16,
+      "a2_logical_entries": 16,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hume=Ume_Hanami/dear_016.dialogue.txt",
+      "a2_sha256": "8220e0d997ce36a56607d36ad99599aefed8134cf9a52c684d93eb0584facee5"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_019.txt",
+      "a1_messages": 1,
+      "a2_logical_entries": 1,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hume=Ume_Hanami/dear_019.dialogue.txt",
+      "a2_sha256": "0d23a31332054dcbc593aea1a8f59d698c10472b43e1575b79e6de03fe0858c1"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_024.txt",
+      "a1_messages": 27,
+      "a2_logical_entries": 27,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hume=Ume_Hanami/dear_024.dialogue.txt",
+      "a2_sha256": "f4c62c2b4c98f04ff8f402c0221eba936248ad2f23753ceb45d781352ea4b6bf"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_029.txt",
+      "a1_messages": 22,
+      "a2_logical_entries": 22,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/hume=Ume_Hanami/dear_029.dialogue.txt",
+      "a2_sha256": "7df600f93e53d8380c939f1e4e0ffc984382de50866048bbd1e698ca15a8b992"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_014.txt",
+      "a1_messages": 22,
+      "a2_logical_entries": 22,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_014.dialogue.txt",
+      "a2_sha256": "27844973d51e116f8454702e89237c1833ae79814c1a00789f180c13b9589e9a"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_015.txt",
+      "a1_messages": 18,
+      "a2_logical_entries": 18,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_015.dialogue.txt",
+      "a2_sha256": "c8d447af56456257c70c133f478d1f94dd02e9cb2ec7fcb9b1b7517736dbd729"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_016.txt",
+      "a1_messages": 37,
+      "a2_logical_entries": 37,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_016.dialogue.txt",
+      "a2_sha256": "07574b064dbe614ff9e3d98cf514cd2c5dbcc5e20f586306603f724463ba534e"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_017.txt",
+      "a1_messages": 26,
+      "a2_logical_entries": 26,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_017.dialogue.txt",
+      "a2_sha256": "616a5dae336002a63f51e3c91d85824651c2fc8fe1b00a7d21ac91cac02590b9"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_020.txt",
+      "a1_messages": 7,
+      "a2_logical_entries": 7,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_020.dialogue.txt",
+      "a2_sha256": "184c261440fabfb98b1035df895864434bf257eaafca45bd837fea47ff3af5fd"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_024.txt",
+      "a1_messages": 32,
+      "a2_logical_entries": 32,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_024.dialogue.txt",
+      "a2_sha256": "5741c0bdb71bf991a190fd7d65d756a82fbdf203ac9f3f9cc197c5a365e8a800"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_025.txt",
+      "a1_messages": 20,
+      "a2_logical_entries": 20,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_025.dialogue.txt",
+      "a2_sha256": "8a483faf16952c5d15223adda1ba686030fc2e88f2132afd0afb017382315770"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_026.txt",
+      "a1_messages": 17,
+      "a2_logical_entries": 17,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_026.dialogue.txt",
+      "a2_sha256": "5f942e63e6e1d468592a1f4643f6d1b7e0cd0daaca77dfb12d886ad0db2b70a7"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_027.txt",
+      "a1_messages": 2,
+      "a2_logical_entries": 2,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_027.dialogue.txt",
+      "a2_sha256": "f83633876b3f39a3f0f3b8ff9f20dd6aafc074ac198e2a33348cc5751d571c58"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_030.txt",
+      "a1_messages": 18,
+      "a2_logical_entries": 18,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_030.dialogue.txt",
+      "a2_sha256": "ed661a34e0541fa8d4bba1ac09b0a5d293e382d00a5f6d2e03a8728a6b99e633"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_032.txt",
+      "a1_messages": 9,
+      "a2_logical_entries": 9,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_032.dialogue.txt",
+      "a2_sha256": "7e7ffdc819cb93a6c87e425d6ba9e51fe52e298e7543f14efc2cf845f143beb0"
+    },
+    {
+      "source_lock_path": "transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_035.txt",
+      "a1_messages": 13,
+      "a2_logical_entries": 13,
+      "dialogue_path": "transcripts_dialogue_only/05_dear_idol/ttmr=Temari_Tsukimura/dear_035.dialogue.txt",
+      "a2_sha256": "2c5be48509b63a3122d5eb9492ffd3be0e206b42b7c5333bd2819e0ddc58d4b1"
+    },
+    {
+      "source_lock_path": "transcripts_raw/06_story_events/event_016/main-03.txt",
+      "a1_messages": 5,
+      "a2_logical_entries": 5,
+      "dialogue_path": "transcripts_dialogue_only/06_story_events/event_016/main-03.dialogue.txt",
+      "a2_sha256": "d1aec93596712853830743a9d560d661886a3eb5f399b2eb0e471ab97b8936d1"
+    }
+  ],
+  "lexical_counts_joined_linebreaks": {
+    "私": 91,
+    "あたし": 0,
+    "あなた": 68,
+    "じゃない": 48,
+    "でしょ": 40,
+    "なさい": 22,
+    "くれる？": 14,
+    "お姉ちゃん": 33,
+    "～": 49
+  },
+  "lexical_counts_preserved_linebreaks": {
+    "私": 91,
+    "あたし": 0,
+    "あなた": 68,
+    "じゃない": 48,
+    "でしょ": 40,
+    "なさい": 22,
+    "くれる？": 14,
+    "お姉ちゃん": 33,
+    "～": 49
+  }
+}

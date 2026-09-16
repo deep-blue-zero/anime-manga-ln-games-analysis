@@ -2,12 +2,12 @@
 title: Manga / Anime Project Initiation and Architecture Policy
 artifact_id: MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY
 artifact_type: project_initiation_architecture_policy
-version: 1.3
+version: 1.4
 status: canonical
 generation: V1
 scope: corpus-wide analytical project initiation and architecture governance
 created: 2026-08-27
-last_updated: 2026-08-27
+last_updated: 2026-09-13
 maintainer: ChatGPT + user
 source_boundary: "Corpus-wide governance for new and existing anime, manga, light-novel, novel, game, and related analytical projects"
 supersedes: null
@@ -200,6 +200,12 @@ This does not require creating empty infrastructure merely for symmetry. Only di
 Major planned operation types should inherit or explicitly assign stable reasoning classes from `MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md` when doing so is useful.
 
 Literal model names should not be hard-coded as durable architectural ontology when a stable reasoning class is sufficient.
+
+### Execution ownership and synthesis dispatch
+
+For substantial long-series work, the architecture should name preferred owners for framework/architecture design, sequential primary-source readings, synchronized ledgers, retrospective synthesis, required audiovisual completion, and repository integration. Apply the [long-series hybrid execution protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) and [capability-routing policy](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md); either environment may design architecture, with fresh cloud Pro preferred when adequately grounded.
+
+Identify how a frozen evidence state will be handed to a fresh synthesis session and how returned work will be accepted. The [analytical handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) governs the transfer. These execution descriptors do not satisfy the initiation gate by themselves, require new empty ledgers, or replace the current eligible method and synthesis/corpus architecture.
 
 ## 3.8 Sequential analysis lock
 
@@ -845,6 +851,11 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 ---
 
 # Changelog
+
+## v1.4 — 2026-09-13 — Hybrid execution ownership
+
+- Added execution ownership and synthesis-dispatch guidance through the capability, long-series, and handoff policies.
+- Preserved the existing initiation lock, semantic foundation requirements, and machine enforcement boundary.
 
 ## v1.3 — 2026-08-27 — Administrative terminology hardening
 

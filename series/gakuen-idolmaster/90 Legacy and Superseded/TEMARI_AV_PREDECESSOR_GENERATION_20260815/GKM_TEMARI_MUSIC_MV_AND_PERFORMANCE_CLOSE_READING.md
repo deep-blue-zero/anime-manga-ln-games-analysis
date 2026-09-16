@@ -10,7 +10,7 @@ created: "2026-08-14"
 status: historical_legacy
 historical_release_status: "canonical specialist AV artifact"
 do_not_use_as_current_authority: true
-superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/02_MV_AND_VISUAL_PERFORMANCE_CLOSE_READINGS/02_TSUKIMURA_TEMARI/GKM_TEMARI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md"
+superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_MUSIC_MV_AND_PERFORMANCE_CLOSE_READING.md"
 ---
 
 # TSUKIMURA TEMARI — MUSIC, MV, AND PERFORMANCE CLOSE READING

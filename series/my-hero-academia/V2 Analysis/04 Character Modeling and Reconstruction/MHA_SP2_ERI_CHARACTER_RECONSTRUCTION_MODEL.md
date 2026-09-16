@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: ERI
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Eri
 readiness: strong
 supersedes: []
@@ -73,7 +73,39 @@ Rewind returns a living body toward an earlier state; it is not ordinary healing
 
 `PRESERVE` care, curiosity and the significance of safe ordinary experience; `REVISE` rescue as extraction alone and guilt as true causal responsibility; `REJECT` child sacrifice as the normative endpoint and universal reset capacity; `OPEN` medical consequences, mature private identity and unobserved relationships.
 
+**Current supplemental qualification (ER-SUP-01–03):** Adolescent music, playful speech and an explicitly chosen boundary against borrowing famous friends’ publicity are now supported by profiles and new bonus fiction. Early-child speech is no longer the default for that later state; peer conflict, detailed care arrangements and medical prognosis remain limited. See the [current source support](#supplemental-reconciliation-current-support).
+
 Given post-festival Eri invited to a safe creative activity by trusted people, cautious interest and eventual enjoyment are well-supported possibilities. Given an unfamiliar adult demanding restoration as repayment, confident compliance is unsupported and the coercion history is materially relevant. Given final-war Eri learning a friend is injured, an urgent wish to help is highly plausible, but the model must request actual stockpile, supervision and risk information before selecting an action.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside ER-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### ER-SUP-01 — Ongoing life and a later care arrangement
+
+She becomes a high-school music-club member after singing with guitar in middle school. Mandalay volunteers to receive her after talks with the awakened boss, with Pussycats care shared. No legal-adoption date, exclusive residence or completed career is given.
+
+Source basis: [SUP-UAG-102-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-102-01) (`UAG:s0102`; EDITORIAL_SUMMARY, NARRATIVE; ENDPOINT); [SUP-UAG-150-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-150-01) (`UAG:s0150`; PROFILE_FACT; ENDPOINT); [SUP-UAG-306-06](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-306-06) (`UAG:s0306`; AUTHOR_COMMENT; ENDPOINT).
+
+### ER-SUP-02 — Affection without using borrowed celebrity
+
+The Horikoshi bonus directly shows her visiting familiar teachers with guitar/gifts and saying she does not want her first street performance to ride Deku’s or Lemillion’s fame. Loving them and wanting discreet attendance coexist. This is new adolescent self-presentation, not merely gratitude repaying rescue.
+
+Source basis: [SUP-UAG-319-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-319-01) (`UAG:s0319`; BONUS_FICTION, NARRATIVE; ENDPOINT); [SUP-UAG-320-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-320-01) (`UAG:s0320`; BONUS_FICTION, NARRATIVE; ENDPOINT).
+
+### ER-SUP-03 — Inspired independent effort
+
+Watching Midoriya at work prompts her own resolve while she remains with her guitar. Jiro’s teaching is schedule-dependent. Her musical action belongs to her own project; it is not renewed sacrifice of her horn, guaranteed trauma resolution or a medical prognosis.
+
+Source basis: [SUP-UAG-323-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-323-01) (`UAG:s0322, UAG:s0323`; BONUS_FICTION, NARRATIVE; ENDPOINT); [SUP-UAG-302-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-302-02) (`UAG:s0302`; AUTHOR_COMMENT; ENDPOINT).
+
+### Current use and remaining limits
+
+Do not mechanically simulate the adolescent as the silent self-blaming child. Familiar affection, playful speech and a chosen performance boundary are observed; the public debut is still future to the scene and cannot be claimed completed.
+
+Keep strong. Adolescent ordinary speech and motive differentiation improve substantially; peer conflict, sustained independent life and exhaustive Quirk prognosis still limit specialist readiness. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe ER-V01: V30 → V41 reciprocal aid under constraint
 

@@ -13,7 +13,7 @@ created: "2026-08-14"
 status: historical_legacy
 historical_release_status: "canonical completed Phase-3 Temari audiovisual baseline"
 do_not_use_as_current_authority: true
-superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/00_MUSICAL_IDENTITY_BASELINES/02_TSUKIMURA_TEMARI/GKM_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.md"
+superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_TEMARI_COMPLETE_AUDIOVISUAL_BASELINE.md"
 evidence_boundary: "direct inspection of supplied audio/video, exact Japanese ADV text, rendered staging, contact sheets, and conservative full-mix signal measurements; no isolated studio stems"
 ---
 

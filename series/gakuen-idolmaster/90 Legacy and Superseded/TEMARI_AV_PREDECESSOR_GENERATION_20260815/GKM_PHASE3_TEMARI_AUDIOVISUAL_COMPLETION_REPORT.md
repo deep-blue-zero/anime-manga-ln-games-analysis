@@ -10,7 +10,7 @@ created: "2026-08-14"
 status: historical_legacy
 historical_release_status: "canonical completed Temari AV tranche report; Phase 3 remains open for other idols"
 do_not_use_as_current_authority: true
-superseded_by: "series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/02_TSUKIMURA_TEMARI/GKM_PHASE3_TEMARI_AUDIOVISUAL_COMPLETION_REPORT.md"
+superseded_by: "series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/02_TSUKIMURA_TEMARI/GKM_PHASE3_TEMARI_AUDIOVISUAL_COMPLETION_REPORT.md"
 ---
 
 # PHASE 3 — TEMARI AUDIOVISUAL BASELINE COMPLETION REPORT

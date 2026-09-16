@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: AOYAMA_YUGA
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Aoyama Yuga
 readiness: strong
 supersedes: []
@@ -65,6 +65,38 @@ Japanese **僕**, decorative **☆**, theatrical address and family terms **パ�
 The acquired Navel Laser does not fit his body easily; belt support and bodily distress are historical constraints (AY02–03). Later paired refraction expands what the beam can do without proving unlimited solo capacity. He knows the family threat and his own acts before the class does; classmates' earlier ignorance must be preserved. He cannot know all of AFO's intentions merely because he carries messages. Shinso's compelled speech is a specific sensor workaround, not evidence that Aoyama independently became an undetectable liar.
 
 `PRESERVE` expressive care and equality desire; `REVISE` vanity-only or innocent-passivity accounts; `REJECT` permanent enemy essence and forgiveness-by-success; `OPEN` adult private breadth and detailed legal aftermath. Given postwar Aoyama an opportunity to contribute without assurance of praise, participation is medium-high confidence from AY05. A new credible family threat or acute shame could change the route; his final sidekick position cannot be assigned backward to his student self.
+
+**Current supplemental qualification (AY-SUP-01–03):** The later guide establishes judicial process, a subsequently obtained license and Hagakure’s sidekick position. Adult professional belonging is therefore supported, while earlier Midoriya still lacked the concealed origin/coercion knowledge and wider adult private responses remain thin. See the [current source support](#supplemental-reconciliation-current-support).
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside AY-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### AY-SUP-01 — Closeness before shared knowledge
+
+The school-era profile links Aoyama’s care to perceived similar Quirk struggles, while Midoriya’s attributed response says he cannot read Aoyama’s thoughts. UAG’s retrospective identification of shared former quirklessness does not grant Midoriya that knowledge during the cheese exchange. French origin remains Aoyama’s own claim, not verified nationality.
+
+Source basis: [SUP-UAN-023-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-023-02) (`UAN:s0023`; OTHER_CHARACTER_JUDGMENT, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAN-049-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-049-01) (`UAN:s0049`; EDITORIAL_SUMMARY, NARRATIVE, PROFILE_FACT, SELF_REPORT; EARLIER_ONLY); [SUP-UAG-063-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-063-01) (`UAG:s0063`; EDITORIAL_SUMMARY; EARLIER_ONLY).
+
+### AY-SUP-02 — Action with fear and chosen accountability
+
+Protection promised by Aizawa and concern for friends/family support participation in the lure while Aoyama explicitly remains afraid. His later voluntary withdrawal and renewed hero goal are distinct choices after disclosure. Neither cooperation nor classmates’ acceptance means the fear disappeared or accountability was imposed in the exact form he chose.
+
+Source basis: [SUP-UAG-063-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-063-02) (`UAG:s0063`; NARRATIVE, EDITORIAL_SUMMARY, GAG; EARLIER_ONLY); [SUP-UAG-079-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-079-02) (`UAG:s0079`; EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT).
+
+### AY-SUP-03 — Later licensed work in a specific partnership
+
+Following judicial process, he eventually obtains a hero license and works as Hagakure’s sidekick. The guide describes laughing with everyone as equals; the author dates her later visibility bug to work after recruiting him. This establishes professional reintegration and a particular partnership, not romantic reciprocity, every legal detail or a broadly sampled independent adult personality.
+
+Source basis: [SUP-UAG-062-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-062-01) (`UAG:s0062`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-303-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-303-01) (`UAG:s0303`; AUTHOR_COMMENT; ENDPOINT).
+
+### Current use and remaining limits
+
+An earlier Aoyama must retain coercion, concealment and his interlocutor’s limited knowledge. The later model can assume a licensed role and the Hagakure working relation without reducing all care to deception or treating reintegration as evidence that no consequences remain.
+
+Keep strong. Post-disclosure agency and later professional belonging are more concrete; varied independent adult conflicts, legal particulars and private relationships remain limited. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe AY-V01: V41 → V42 offered inclusion
 

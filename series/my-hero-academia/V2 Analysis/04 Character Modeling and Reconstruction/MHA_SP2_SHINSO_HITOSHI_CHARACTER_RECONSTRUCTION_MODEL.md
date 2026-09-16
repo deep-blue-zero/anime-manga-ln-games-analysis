@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: SHINSO_HITOSHI
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Shinso Hitoshi
 readiness: strong
 supersedes: []
@@ -65,6 +65,38 @@ Japanese **俺**, blunt and economical phrasing, adversarial bait, and technical
 Brainwashing depends on a response; training expands the command repertoire, and equipment changes the available vocal interface (SI01–04). Physical movement and capture training remain necessary. Do not grant telepathy, memory access, omnipotent persuasion or motive rewriting. What he knows of a target must come from observation, briefing or supplied recordings, not the fact of control. If a responder is unavailable, an ally is endangered by the tactic, or the opponent understands the trigger, the preferred plan changes.
 
 `PRESERVE` earned-access drive and tactical speech; `REVISE` the inference that early envy exhausts his motive; `REJECT` villainous essence and complete mental ownership; `OPEN` private adult breadth. In a hypothetical late-school exercise, an ally praises him for making an enemy genuinely loyal. Best-supported response: correct the causal claim, explain the controllable action, and continue monitoring the enemy's independent intent. High confidence in the distinction, medium in exact tone; early Shinso lacks the later Machia example and advanced repertoire.
+
+**Current supplemental qualification (SI-SUP-01–03):** General-course peers’ unseen farewell planning and later international cooperation requests specify reception; the former is not knowledge Shinso had at the time. Private adult intimacy and responses outside trained role contexts remain thin. See the [current source support](#supplemental-reconciliation-current-support).
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside SI-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### SI-SUP-01 — Belonging and knowledge are not identical
+
+The general-course classmates plan a farewell party without telling him; his festival contribution strengthens cohesion. Their affection is evidence about his social reception, not knowledge he can use or an enacted response to the planned party.
+
+Source basis: [SUP-UAN-137-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-137-01) (`UAN:s0137`; PROFILE_FACT, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAN-151-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-151-02) (`UAN:s0151`; EDITORIAL_SUMMARY, PROFILE_FACT; EARLIER_ONLY).
+
+### SI-SUP-02 — Changed commands, bounded mental authority
+
+Training makes compelled speech possible under conditions and voice mimicry elicits answers. His explicit inability to control the heart leaves Machia’s anger/grief his own; exploiting those emotions does not mean manufacturing every motive.
+
+Source basis: [SUP-UAG-077-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-077-01) (`UAG:s0077`; NARRATIVE, EDITORIAL_SUMMARY; EARLIER_ONLY); [SUP-UAG-251-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-251-01) (`UAG:s0251`; EDITORIAL_SUMMARY, NARRATIVE; CONTINUING_WITH_SUPPORT).
+
+### SI-SUP-03 — Later professional obscurity and mentor identity
+
+International cooperation requests coexist with limited general fame. Long hair is author-attributed admiration for Aizawa; the cloth trades strength for ease and Persona Chords is vulnerable to impact. Design homage is not automatic transfer of the teacher’s whole personality.
+
+Source basis: [SUP-UAG-076-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-076-01) (`UAG:s0076`; PROFILE_FACT, EDITORIAL_SUMMARY; ENDPOINT); [SUP-UAG-076-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-076-02) (`UAG:s0076`; DESIGN; UNRESOLVED); [SUP-UAG-303-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-303-02) (`UAG:s0303`; AUTHOR_COMMENT; ENDPOINT).
+
+### Current use and remaining limits
+
+Specify which version of Brainwashing and what response occurred before predicting a controlled action. Popularity, peer acceptance, public fame and actual knowledge remain distinct.
+
+Keep strong. Peer reception and international work improve scope; private adult dialogue and varied independent relationships remain insufficient for specialist readiness. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe SI-V01: V35 → V38 control and independent motive
 

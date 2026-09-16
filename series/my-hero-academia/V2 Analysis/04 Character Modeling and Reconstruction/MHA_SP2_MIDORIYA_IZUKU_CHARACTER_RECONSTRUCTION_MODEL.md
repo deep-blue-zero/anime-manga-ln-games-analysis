@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_model
 scope: MIDORIYA_IZUKU
 generation: V2
 status: canonical
-source_boundary: Japanese main manga V01–V42; chronology-specific restrictions below
+source_boundary: Japanese main manga V01–V42 plus source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims admitted under analytical method section 18
 character: Midoriya Izuku
 readiness: specialist_ready
 supersedes: []
@@ -80,9 +80,58 @@ State the available OFA percentage/techniques, additional factors, fatigue, inju
 
 Knowledge boundaries are stringent: early Midoriya lacks the full OFA history; V30's impression of Shigaraki is not yet the V41 causal disclosure; V41 cannot know V42 survival or adult outcomes. Other people's secrets and consent remain distinct from his sympathetic inferences. `PRESERVE` rescue sensitivity and analytical learning; `REVISE` solitary-successor identity through received care; `REJECT` power-loss identity death and guaranteed rescue conversion; `OPEN` precise final Tomura interiority, metaphysical traces, adult medical limits, and future relationship milestones.
 
+**Current supplemental qualification (MI-SUP-01–03):** History/hero-history teaching, national school/facility visits and later armored peer work are now positively specified. The remaining gap is case-specific classroom/private response, equipment endurance and unshown milestones, rather than absence of an adult ordinary vocation. See the [current source support](#supplemental-reconciliation-current-support).
+
 ## Conditional reconstruction
 
 For **adult teacher Midoriya**, a child with an apparently unpromising Quirk asks whether hero work is possible. Likely: listen, notice a specific use or trainable avenue, distinguish existing caring conduct from future qualification, and encourage practical development. High confidence from MI10; exact career outcome is low confidence. Immediate danger may trigger direct intervention, but the body/suit currently available determines how. A child who does not want a hero career should not be conscripted into one. If the question instead concerns the adult's own worth, he may acknowledge loss while affirming teaching and relationships rather than deny all sadness.
+
+## Post-completion maturation: discriminative current support
+
+These are additions to the current full-series model. **MI01a–c and MI11 are outside MI-V01's historical frozen inputs**, including where a child support returns to pages already named by MI01. MI01–MI10, the original probe, its comparison, and its source lock remain unchanged. The child labels distinguish evidence within MI01; they neither replace that historical row nor turn three observations into three independent confirmations of every inference attached to it.
+
+| Current support / source | Actor state, partner, knowledge, trigger → observed behavior | Discriminative inference and limit |
+|---|---|---|
+| MI01a — [V01:p043–059](../02%20Sequential%20Readings/MHA_SP2_V01_DEEP_READING.md) | Quirkless Midoriya sees Bakugo suffocating while professionals cannot resolve the encounter. He has received no OFA offer and has no superhuman means. Recognition of Bakugo's distressed face precipitates movement; his intervention does not independently defeat the villain. All Might supplies the decisive physical rescue. | Acute recognition can precede a feasible plan. This is one explicit emergency observation, high confidence; the repeated rescue tendency also has MI01c. Do not convert moral initiative into successful solo capability or infer that he knows another rescuer will act. |
+| MI01b — [V01:p069–085](../02%20Sequential%20Readings/MHA_SP2_V01_DEEP_READING.md) | Midoriya now knows All Might has offered transferable power and prescribed bodily preparation. During sustained beach cleanup and training, he adds work beyond the plan and reaches exhaustion; All Might corrects the self-defeating schedule. The immediate partner is his instructor, and the operative problem is preparation over time. | Discipline and excessive self-expenditure coexist. The repeated labor and stated wish to catch up to All Might are explicit; susceptibility to overwork under entrusted ambition is a strong inference, high confidence. This supports a susceptibility under entrusted responsibility, not the claim that every ordinary task triggers uncontrolled rescue reflex. |
+| MI01c — [V01:p105–109, p111–114](../02%20Sequential%20Readings/MHA_SP2_V01_DEEP_READING.md) | Newly empowered but unpracticed Midoriya sees Uraraka trapped during the entrance exam at p106. He knows the zero-pointer offers no advertised combat reward; he does not know the hidden rescue scoring or possess reliable output control. He expends power to destroy the obstacle at p108–109, recognizes his broken limbs at p112, and then requires Uraraka to arrest his fall at p114. **p110 is a Bakugo profile page and is excluded from narrative support.** | Available power changes what he attempts without removing the need for others. High confidence for the action and bodily consequence; the recurrence with MI01a concerns priority under visible danger. Receiving this emergency rescue does not by itself establish a general voluntary help-acceptance policy. |
+| MI11 — [V19:p020–023](../02%20Sequential%20Readings/MHA_SP2_V19_DEEP_READING.md) | In ordinary dorm life after the Hassaikai raid, Midoriya does not understand Aoyama's unusual attention. Aoyama says he noticed Midoriya's hurry, discloses a body/Quirk mismatch, and explains the surprise through what he himself would enjoy. Midoriya positively acknowledges the surprise at p022; p023 explicitly narrates their increased closeness. He has no knowledge of Aoyama's later disclosed coercion or the hidden history of his Quirk. | A legible caring intention can change Midoriya's interpretation of an awkward gesture and his relation to its giver. The response and relationship transition are explicit, high confidence; a general tendency to accept every unconventional approach remains unsupported. The delivery is not declared ideal merely because the relation improves. |
+
+MI11 adds **received ordinary care** to the model's evidence. Its sequence is more informative than a generic claim that Midoriya is kind: unfamiliar conduct initially remains unreadable; an explanation supplies a relevant bodily analogy and concern; his response acknowledges the intended care; the relation becomes closer. It therefore supports updating an initial social interpretation when a peer makes the intention intelligible. It does not support instant knowledge of concealed motives, nor a requirement to praise discomforting conduct in order to remain considerate. The [Aoyama model](MHA_SP2_AOYAMA_YUGA_CHARACTER_RECONSTRUCTION_MODEL.md), especially AY02, already owns the giver's projection and calibration; MI11 owns the recipient's response.
+
+For a reconstruction **after this V19 exchange but before the traitor revelation**, a familiar peer explains a clumsy, non-dangerous gesture as concern about Midoriya's strain. Likely: attend to the explanation, acknowledge the care, and permit greater peer closeness if the explanation fits what he knows. Confidence is medium for this novel situation, with MI11 providing a high-confidence observed example. He may remain embarrassed or ask for clarification. A coercive demand, a claim inconsistent with available evidence, or a gesture posing actual danger changes the decision; this scene does not settle how he would respond to those conditions. Dialogue should reflect a peer receiving care, without borrowing the urgency of a battlefield command or the later knowledge of Aoyama's circumstances.
+
+`STRENGTHEN` relationship-sensitive reception; `REVISE` any use of MI01 as one undifferentiated situation. MI07's V33 refusal remains compatible with MI11: that later exhausted state involves anticipated danger to friends and excessive personal responsibility. V19 demonstrates that ordinary care has already been received; it does not establish that knowledge of being cared for will always defeat a later judgment that accepting help endangers the giver. No new formal comparison or readiness change follows from these additions.
+
+## Supplemental reconciliation: current support
+
+These source-labeled additions are **outside MI-V01’s historical frozen inputs**, including where the books reproduce older manga pages. They revise current support only. The original evidence atoms, recorded predictions, outcomes, contamination limits and provenance below are unchanged. No new formal probe, score or blind-validation claim is created.
+
+Profile facts and author-described practices constrain a reconstruction without becoming enacted manga observations. Each linked ledger record retains its source class, actor, chronology, dependence and uncertainty; repeated panels or statements are not independent behavioral occasions.
+
+### MI-SUP-01 — Ordinary reception before the traitor disclosure
+
+He treasures letters from Kota and Eri. The relation map calls him close to Aoyama while his own attributed reply admits he cannot read Aoyama’s thinking. This strengthens MI11’s received care without granting him later knowledge of coercion or turning closeness into complete mutual understanding.
+
+Source basis: [SUP-UAN-023-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-023-01) (`UAN:s0023`; PROFILE_FACT; EARLIER_ONLY); [SUP-UAN-023-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uan-023-02) (`UAN:s0023`; OTHER_CHARACTER_JUDGMENT, EDITORIAL_SUMMARY; EARLIER_ONLY).
+
+### MI-SUP-02 — Adult teaching and public work
+
+The profile and author specify history/hero-history teaching, visits to children’s facilities and schools, and invited speaking alongside armored work. These are continuing roles, not a claim that teaching ceased when the suit arrived; particular classroom decisions remain sparsely dramatized.
+
+Source basis: [SUP-UAG-018-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-018-01) (`UAG:s0018`; EDITORIAL_SUMMARY, PROFILE_FACT; ENDPOINT); [SUP-UAG-301-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-301-01) (`UAG:s0301`; AUTHOR_COMMENT; ENDPOINT); [SUP-UAG-307-03](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-307-03) (`UAG:s0307`; AUTHOR_COMMENT; ENDPOINT).
+
+### MI-SUP-03 — Later equipment and reciprocal peer speech
+
+The author describes cables and simulated functions; the bonus shows cooperative deployment and an answering joke to Bakugo about their schooldays. The broadcast’s later No.4 is that scene’s chart state, not an intrinsic worth score. The suit does not restore his biological One For All, and the presenter’s conjecture about Bakugo is not Bakugo’s motive.
+
+Source basis: [SUP-UAG-301-02](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-301-02) (`UAG:s0301`; AUTHOR_COMMENT; ENDPOINT); [SUP-UAG-321-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-321-01) (`UAG:s0321, UAG:s0322`; BONUS_FICTION, NARRATIVE; ENDPOINT); [SUP-UAG-322-01](../07%20Evidence%20and%20Indexes/MHA_SP2_SUPPLEMENTAL_EVIDENCE_RECONCILIATION_LEDGER.md#sup-uag-322-01) (`UAG:s0322`; BONUS_FICTION, NARRATIVE; ENDPOINT).
+
+### Current use and remaining limits
+
+Adult encouragement and teaching now have specific ongoing contexts; confident reciprocal banter is also directly shown in the bonus. Neither source licenses a fabricated classroom disciplinary case, unlimited suit capacity or private access to Shigaraki’s feelings. The earlier manga-only heart/life distinction remains intact.
+
+Keep specialist_ready. Adult professional and ordinary-peer coverage improves; precise equipment endurance and unshown private/teaching responses remain open. The [readiness index](MHA_SP2_CHARACTER_MODEL_READINESS_INDEX.md) remains the tier authority; the [all-character reconciliation](MHA_SP2_SUPPLEMENTAL_CHARACTER_RECONCILIATION_AUDIT.md) records the broader review.
 
 ## Formal validation probe MI-V01: V41 → V42 rescue and identity
 
