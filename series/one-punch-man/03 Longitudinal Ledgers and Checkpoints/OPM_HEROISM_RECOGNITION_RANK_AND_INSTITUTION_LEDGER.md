@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Heroism, recognition, rank, and institution evidence through V34
+scope: Heroism, recognition, rank, and institution evidence through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -728,3 +728,45 @@ Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_
 **STRENGTHEN actual institutional work; OPEN outcome:** police question specific offenses and prior assault, Bang undertakes apologies and resigns, and Bofoi organizes detection/analysis/examination/cleanup. Sitch anticipates opposition and invokes prophecy pressure while withholding the proposed successor's identity; Sekingar wants registration. No completed Garou membership, inherited numerical rank or universal forgiveness is shown (`174–175 / 0190–0213`).
 
 Bang's relational discipline coexists with institutional processes. V1's Association-housing move, neighbors and security developments are absent from V34 and quarantined as unverified future claims. The closing actual setting is salvage (`0214`).
+
+## V35 institution delta — privatized safety and incompatible hero ideals
+
+Propagated after the frozen [V35 reading](../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+**STRENGTHEN safety as a commodity:** the Association sells fortified residence to wealthy customers, embeds A-Class guards and uses hero proximity as real-estate value/fundraising. Human protection is expressly nonabsolute; automation is sold as the supplement and fails through context-poor response (`177 / 0044–0068`).
+
+**STRENGTHEN fragmented recognition:** Saitama reaches A39 while Bofoi builds a threat file, Flash seeks a rival, Amai seeks ideal `華` and Fubuki infers `到達者`. Each reconstructs from partial evidence; public understanding and unified institutional credit remain stalled (`177–181 / 0075–0084,0101–0110,0117–0127,0191–0192`).
+
+**REVISE professional hierarchy:** A-Class neighbors use rank, age, seniority and celebrity as peer order; Saitama does not defer. Forte's accident prevents the status contest from becoming a clean combat resolution (`179–180 / 0129–0148`).
+
+**STRENGTHEN institutional personhood crisis:** officials convert monster classification into lost rights and unrestricted experiment while a sponsor purchases access. The volume exposes policy and financial need without establishing that one category exhausts danger, guilt or humanity (`180 / 0153–0180`).
+
+The emergency meeting confirms increasing `神` intervention but not shared cosmology or reform. Genos's demand, Sitch's unity appeal, Amai's ideal and Flash's ambition remain competing hero models (`178 / 0085–0110`).
+
+## V36 institution delta — force, public stories and concealed correction
+
+Propagated after the frozen [V36 reading](../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+**STRENGTHEN conduct over rank:** Saitama stops an S-Class hero, judges both sisters as heroes subject to the same anti-infighting/property boundary and refuses status deference. Forte privately revises upward, while public rank remains unchanged (`182–188 / 0041–0044,0197–0199,0212–0216`).
+
+**STRENGTHEN voluntary community:** Fubuki's formal dissolution creates a real exit; members return under stated risk and ask to be entrusted with her. Heroic solidarity is chosen but not thereby powerful enough or permanent (`185–187 / 0113–0116,0161–0168,0200–0206`).
+
+**REVISE public credit:** Fubuki and executives convert real monster destruction, institutional storage failure and massive collateral damage into a simplified Tatsumaki victory. The story restores trust while suppressing causation, extraction and accountability; it is manufactured and misleading, not wholly eventless (`188 / 0217–0235`).
+
+**STRENGTHEN internal legitimacy crisis:** Child Emperor detects intrusion and improperly concealed wrongdoing. Institutional correction now has an internal investigator, but no outcome enters before V37 (`188 / 0220,0236`).
+
+The bonus separates courage from rank and victory: disclosure of fear can be heroic before a stronger responder arrives (`bonus / 0237–0241`).
+
+## V37 institution delta — manipulated metrics and answerable recognition
+
+Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+**ADD competitive legitimacy:** Association advertising and recruitment anxiety meet outside protectors, prior rival commitments and Neo Heroes promises. The old institution has lost monopoly over organized hero labor, but V37 does not certify the rival's future practice (`189,191 / 0010–0034,0085–0097`).
+
+**STRENGTHEN corrupted appraisal:** hero gambling manipulates identity, rank, threat level, encounter conditions, odds and medical dependency. Wild Yankee is actually B-Class rank 4 while staged as C-Class rank 333 Papillon 800; Gachiwawa is genuinely Demon-level (`192 / 0099–0132`).
+
+**ADD conduct-based countermodel:** Mumen names strength in refusal to retreat from a stronger danger and disregards the false public labels. His recognition is bounded, revisable and answerable to action (`192 / 0133–0135`).
+
+**STRENGTHEN inverse recognition:** Saitama performs a real unscripted rescue and receives only local result-screen credit; King performs no feat while experts escalate his reputation. Actual consequence and public/expert attribution remain separable (`192,194 / 0124–0139,0172–0200`).
+
+Child Emperor's captured odds/site evidence converts V36's suspicion into an adversarial case. Investigation is not yet exposure or reform (`192 / 0130–0132`).

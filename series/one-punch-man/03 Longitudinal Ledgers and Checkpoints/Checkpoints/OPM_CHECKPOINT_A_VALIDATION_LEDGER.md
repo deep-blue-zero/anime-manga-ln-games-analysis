@@ -1,24 +1,24 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Checkpoint A held-out validation through V34
+scope: Checkpoint A held-out validation through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34; frozen Checkpoint A predictions unchanged
+source_boundary: Japanese tankobon V01-V37; frozen Checkpoint A predictions unchanged
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 checkpoint_source: OPM_V01-V06_CHECKPOINT.md / Drive ID 1N3kUv8_KksHwlMr5IeXJC8p6Nz8sTprP
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
 # One Punch Man — Checkpoint A Validation Ledger
 ## Frozen V01–V06 predictions tested only against later collected canon
 
-Current local validation boundary is V34; V35 is next. Earlier per-volume scores and "Next validation operation" sections preserve the historical boundary at their original entry. The final V34 section governs current routing. Bootstrap registry exposure is disclosed in `OPM_V28_BOOTSTRAP_AUDIT.md`; no new blind-test claim is made.
+Current local validation boundary is V37; V38 is next. Earlier per-volume scores and "Next validation operation" sections preserve the historical boundary at their original entry. The final V37 section governs current routing. Bootstrap registry exposure is disclosed in `OPM_V28_BOOTSTRAP_AUDIT.md`; no new blind-test claim is made.
 
 ## Governance
 
@@ -1089,3 +1089,90 @@ Genos's polite contradiction is a direct trigger-fitting replication, independen
 ### Next validation operation
 
 V35 begins only after V34 closeout PASS. Preserve all eleven predictions and earlier decisions. Prior exposure and V34 legacy housing/monster-companion leaks remain disclosed, not admitted as facts. V35 must independently establish its events before its own audit/freeze and retrospective reopen.
+
+
+## V35 adjudication
+
+**COMPLETE after prospective freeze, Japanese/register PASS, V1 comparison and RR.** The immutable checkpoint and validation registry were reopened only after those stages. Post-freeze candidate reinspection at 0064–0065 and 0129–0130,0135–0136 checked the controller response and neighbor hierarchy. Prior prediction exposure, V34 legacy leakage and the combined V1 source's V36 outcomes remain disclosed. Locators use `OPM / V35 / chapter / archive image`; no legacy assertion supplies an observation.
+
+| ID | Result | V35 observation | Locator / note | Model action |
+|---|---|---|---|---|
+| S-A-01 | **CONFIRM** | While crossing an automated monster-defense attack, Saitama reduces a physically trivial controller malfunction to `叩けば直る`, strikes it once and restores operation with no ceremony. | `177 / 0064–0065` | Strengthen the low-ceremony response to a mundane device problem. The score concerns the controller repair, not treating the surrounding lethal system as routine or validating the folk rule for all electronics. |
+| S-A-02 | **NON_DIAGNOSTIC** | Forte challenges Saitama, but no credible resistance is demonstrated before the car accident. Machine units, rank theater and Fubuki's later appraisal likewise do not isolate recognized novelty or resistance followed by a sharp engagement increase. | `177,179–181 / 0053–0068,0128–0148,0191–0192` | Do not substitute others' confidence, surveillance estimates or an interrupted duel for Saitama's experienced activation trigger. |
+| S-A-03 | **NON_DIAGNOSTIC** | King redirects the gate confrontation and several characters privately reconstruct Saitama's ability, but no scene shows Saitama consciously sacrificing desired recognition because it conflicts with a higher ethical or social value. | `177–181 / 0067–0075,0078–0084,0101–0110,0191–0192` | Unclaimed, misassigned or private recognition is not automatically costly sacrificed recognition. |
+| S-A-04 | **NON_DIAGNOSTIC** | The gate system and guards treat Saitama as involved in the destruction, but the confrontation is redirected by King before a clean false-causal-blame demand for remorse and a Saitama response are isolated. | `177 / 0067–0075` | Preserve his practical nonchalance without manufacturing the narrower false-blame/remorse trigger. |
+| S-A-05 | **NON_DIAGNOSTIC** | Saitama accepts neighbor care for Pochi, follows Fubuki to the detention floor and uses the demon-level containment floor as a pet-policy argument. None presents another person's outside-competence problem plus an explicit domain-limit admission and concrete supportive response. | `176,180–181 / 0040–0041,0149–0152,0195` | Do not broaden the test to delegation, accompaniment or comic analogy; these remain useful practical observations. |
+| S-A-06 | **CONFIRM** | Three A-Class neighbors present numerical rank, age, move-in seniority, celebrity and personalized fighting style as grounds for hierarchy. Saitama shows no deference, rejects the need for Forte's rhythm and receives the challenge on practical rather than status terms. | `179 / 0129–0136` | Strengthen status-insensitivity in an immediate peer/residential context. This does not deny the neighbors' real skill or prove how the interrupted fight would end in their view. |
+| G-A-01 | **NON_DIAGNOSTIC** | Genos joins the pet encounter and emergency meeting but makes no new choice of severe self-cost triggered by a concrete civilian threat. | `176,178 / 0032–0037,0085–0110` | Do not rescore prior combat sacrifices or treat reporting urgency as bodily self-cost. |
+| G-A-02 | **NON_DIAGNOSTIC** | Genos reports the erased future and presses the meeting toward a response, but no distinct mechanism inquiry is paired with a simultaneous decisive intervention in this volume. | `178 / 0088–0106` | Preserve evidence-bearing explanation and institutional pressure without collapsing sequential report into mechanism-under-action. |
+| G-A-03 | **NON_DIAGNOSTIC** | Genos remains deferential toward Saitama and forceful toward meeting participants, but no new challenge to a Saitama proposition under preserved `先生` register is isolated. | `176,178 / 0032–0037,0088–0106` | Do not transfer disagreement with Flash, Amai or officials into the mentor-specific speech test. |
+| G-A-04 | **NON_DIAGNOSTIC** | Genos recognizes Pochi and comments on the apparent monkey's chance to reconsider life, but does not newly notice an unspoken practical detail about Saitama. | `176 / 0032–0037` | Observing other beings and inferring their opportunity cannot substitute for the Saitama-detail prediction. |
+| G-A-05 | **NON_DIAGNOSTIC** | Genos's four-hour account magnifies Saitama's impossible victory rather than confronting him with a serious contradiction to Saitama-invincibility assumptions. | `178 / 0088–0104` | Disputed time travel and institutional disbelief concern evidence uptake, not a demonstrated defeat or inability of Saitama presented to Genos. |
+
+### V35 result and cumulative arithmetic
+
+**2 CONFIRM / 0 PARTIAL / 0 CONTRADICT / 9 NON_DIAGNOSTIC.** S-A-01 and S-A-06 confirm. Cumulative V07–V35: **38 CONFIRM / 3 PARTIAL / 0 CONTRADICT / 278 NON_DIAGNOSTIC**, **319 adjudications across 29 volumes**. Entering V34 totals remain 36 / 3 / 0 / 269.
+
+The controller repair is a clean low-ceremony response to a trivial physical malfunction even though the surrounding attack is not routine. The A-Class neighbor scene is a clean peer-status test: rank, age, seniority and celebrity fail to produce deference. Forte's interrupted challenge does not test novelty/resistance engagement, and King's intervention prevents the gate accusation from becoming a clean false-blame/remorse test. Genos supplies important evidence and institutional pressure without a new severe-cost, mechanism-under-action, mentor-disagreement, unspoken-detail or invincibility-disconfirmation trigger. No mismatch class activates. Frozen predictions and all prior decisions remain unchanged.
+
+### Next validation operation
+
+V36 begins only after V35 closeout PASS. Preserve all eleven predictions and earlier decisions. Prior exposure, V34 legacy leakage and combined-V1 V36 outcomes remain disclosed, not admitted as V35 facts. V36 must independently establish its events before its own audit/freeze and retrospective reopen.
+
+
+## V36 adjudication
+
+**COMPLETE after prospective freeze, Japanese/register PASS, V1 comparison and RR.** The immutable checkpoint and validation registry were reopened only after those stages. Post-freeze candidate reinspection at 0043–0044, 0197–0199 and 0213 checked intervention, explicit domain limits, conduct-level help and mundane aftermath. V1 preexposure remains disclosed and supplies no observation. Locators use `OPM / V36 / chapter / archive image`; V37 and official-web narrative remain closed.
+
+| ID | Result | V36 observation | Locator / note | Model action |
+|---|---|---|---|---|
+| S-A-01 | **NON_DIAGNOSTIC** | After the psychic conflict Saitama immediately notices his torn clothing, lost shoe and need to shop, but this is compressed practical aftermath rather than a clean routine problem whose handling can test the frozen rule. | `188 / 0212–0214` | Retain the ordinary-material reset as consistent texture; do not force a score without a discrete trivial task and response. |
+| S-A-02 | **NON_DIAGNOSTIC** | Tatsumaki supplies extreme force and novelty, yet narrator-certified invulnerability means she never becomes credible resistance to Saitama. His increased attention concerns collateral harm and her exhaustion rather than activation by a challenging opponent. | `183–187 / 0046–0108,0144–0199` | Do not substitute objective spectacle or another character's excitement for Saitama's experienced resistance trigger. |
+| S-A-03 | **NON_DIAGNOSTIC** | The public credits Tatsumaki and Saitama complains that he stopped her from being treated as a monster, but no scene shows him deliberately surrendering desired recognition because it conflicts with a higher ethical or social value. | `188 / 0227–0229` | Misassigned credit without a demonstrated choice is not costly sacrificed recognition. |
+| S-A-04 | **NON_DIAGNOSTIC** | Tatsumaki calls Saitama a pervert while he restrains her and others misread the destruction, but he is not placed under a clean false-causal-blame demand for conciliatory remorse. | `183–188 / 0076–0084,0227–0230` | Preserve blunt practical response without broadening insult or public misunderstanding into the frozen blame/remorse test. |
+| S-A-05 | **CONFIRM** | Facing an exhausted Tatsumaki's unresolved power-and-life problem, Saitama explicitly says he does not know what psychic training is like, recognizes her effort, and then supplies concrete help within competence: live as she likes, stop destroying other people's things and protect the immediate place. | `187 / 0197–0199` | Strengthen honest domain-limit plus practical-help behavior. The score concerns his explicit knowledge limit and bounded conduct advice, not expertise in trauma treatment or psychic training. |
+| S-A-06 | **CONFIRM** | Tatsumaki's S-Class rank and overwhelming reputation produce no deference. Saitama physically stops her threatened assault, calls the sister lecture excessive, treats both women as heroes subject to the same anti-infighting and property limits, and later evaluates her by conduct rather than rank. | `182,187 / 0041–0044,0197–0199` | Strengthen status-insensitivity across an extreme rank/power gap. This does not deny Tatsumaki's real ability or erase the risks in physically restraining her. |
+| G-A-01 | **NON_DIAGNOSTIC** | Genos appears only in the aftermath flower request and makes no new severe-self-cost choice triggered by a concrete civilian threat. | `188 / 0229` | Do not rescore earlier sacrifices or infer self-cost from an errand. |
+| G-A-02 | **NON_DIAGNOSTIC** | V36 provides institutional measurements, psychic mechanisms and Child Emperor's investigation, but no Genos scene combines mechanism inquiry with decisive action. | `182–188 / 0010–0236` | Other characters' analysis cannot test the Genos-specific prediction. |
+| G-A-03 | **NON_DIAGNOSTIC** | Genos does not challenge a Saitama proposition under preserved `先生` register in this volume. | `188 / 0229` | The brief aftermath appearance supplies no mentor-disagreement test. |
+| G-A-04 | **NON_DIAGNOSTIC** | Saitama asks Genos to bring flowers, but the volume does not show Genos independently noticing an unspoken practical detail about him. | `188 / 0229` | An explicit request is the opposite of the unspoken-detail trigger. |
+| G-A-05 | **NON_DIAGNOSTIC** | Nothing presented to Genos seriously contradicts Saitama-invincibility assumptions; Genos does not witness the Tatsumaki fight in a diagnostic exchange. | `183–188 / 0046–0229` | Do not treat off-panel absence or Tatsumaki's internal power estimate as Genos-facing disconfirmation. |
+
+### V36 result and cumulative arithmetic
+
+**2 CONFIRM / 0 PARTIAL / 0 CONTRADICT / 9 NON_DIAGNOSTIC.** S-A-05 and S-A-06 confirm. Cumulative V07–V36: **40 CONFIRM / 3 PARTIAL / 0 CONTRADICT / 287 NON_DIAGNOSTIC**, **330 adjudications across 30 volumes**. Entering V35 totals remain 38 / 3 / 0 / 278.
+
+The Tatsumaki aftermath is a clean outside-competence/help test: Saitama states that he does not know psychic training, then offers praise and a concrete anti-harm boundary rather than feigned technical or psychological expertise. Her S-Class position likewise fails to produce deference when threatened maiming and property destruction are at issue. The fight does not cleanly confirm novelty/resistance engagement because Tatsumaki never supplies credible resistance from Saitama's perspective, and the public-credit sequence contains no deliberate sacrifice of desired recognition. Genos's brief flower-errand appearance tests none of his five frozen predictions. No mismatch class activates. Frozen predictions and all prior decisions remain unchanged.
+
+### Next validation operation
+
+V37 begins only after V36 closeout PASS. Preserve all eleven predictions and earlier decisions. Prior combined-V1 exposure remains disclosed and is never admitted as V36 evidence. V37 must independently establish its events before its own audit/freeze and retrospective reopen.
+
+
+## V37 adjudication
+
+**COMPLETE after prospective freeze, Japanese/register PASS, V1 comparison and RR.** The immutable checkpoint and validation registry were reopened only after those stages. Post-freeze candidate reinspection at 0080–0084, 0094–0098, 0129–0132 and 0136–0139 checked feedback, recruitment, causal blame, mechanism inference, respectful disagreement and money motive. The partially preexposed V1 account supplies no observation. Locators use `OPM / V37 / chapter / archive image`; V38 and official-web narrative remain closed.
+
+| ID | Result | V37 observation | Locator / note | Model action |
+|---|---|---|---|---|
+| S-A-01 | **NON_DIAGNOSTIC** | The tiny-room cohabitation dispute and later money temptation are mundane in scale, but neither is a clean routine or physically trivial task: one is a relational boundary and the other a motive test around illegal gambling and rescue compensation. | `191–192 / 0065–0067,0136–0139` | Retain Saitama's compressed practical register as consistent texture; do not broaden the trigger from routine problem-solving to every ordinary-scale concern. |
+| S-A-02 | **NON_DIAGNOSTIC** | Genos's new core is visually novel but supplies no credible resistance to Saitama. Saitama agrees to the bout and notices glare and changed parts, yet his engagement does not sharpen into the activated challenge state predicted by a legible resistant opponent. | `191 / 0068–0084` | Do not count spectacle, cooperation or Genos's desire for appraisal as credible resistance experienced by Saitama. |
+| S-A-03 | **NON_DIAGNOSTIC** | Saitama declines promised higher treatment at Neo Heroes because transfer is troublesome, not because recognition conflicts with a higher ethical or social value. Returning a civilian reward corrects a money motive rather than sacrificing recognition or credit. | `191–192 / 0094–0097,0136–0139` | Keep institutional indifference and motive correction as evidence without substituting status or cash for the narrower recognition-conflict trigger. |
+| S-A-04 | **NON_DIAGNOSTIC** | McCoy angrily blames Saitama for independently interrupting the staged match, and Saitama rejects the corrupt normative premise by asking why defeating the monster causes anger. But Saitama really did disrupt the operation, so the scene is not a clean false-causal-blame test. | `192 / 0128–0131` | Preserve the blunt premise challenge as consistent behavior; distinguish false moral framing from a false causal allegation. |
+| S-A-05 | **PARTIAL** | Asked for expert feedback on whether Genos has become stronger, Saitama does not fabricate technical knowledge: he names changed parts and finally gives the truthful bounded observation that Genos was dazzling. He neither explicitly admits the limit nor supplies useful concrete guidance, and Genos experiences the answer as non-attention. | `191 / 0080–0084` | Strengthen the no-false-expertise component but preserve the failed-help boundary; the clean shortfall prevents CONFIRM and does not contradict the directional prediction. |
+| S-A-06 | **CONFIRM** | Genos reports that Neo Heroes value Saitama highly and would probably offer exceptional treatment, yet that status promise produces no deference or institutional loyalty: Saitama refuses because transfer is a hassle. Practical burden matters more than prestige, while his current relationship remains the operative context for Genos. | `191 / 0094–0097` | Strengthen status-insensitivity in a competitive institutional-recruitment context; refusal does not prove principled loyalty to the Hero Association or immunity to every possible offer. |
+| G-A-01 | **NON_DIAGNOSTIC** | Genos accompanies Saitama to the Gachiwawa incident and later monster alert, but V37 gives him no new choice of severe self-cost triggered by a concrete civilian threat. | `192 / 0124–0139` | Do not infer severe sacrifice from presence, pursuit or readiness to respond. |
+| G-A-02 | **NON_DIAGNOSTIC** | Genos infers that unnatural disaster levels and hero ranks may control betting odds, but this mechanism analysis follows Saitama's intervention and Child Emperor's disclosure rather than accompanying a decisive Genos action. His Dragon-level statement elsewhere is prospective self-assessment, not mechanism inquiry. | `190,192 / 0060–0064,0129–0132` | Retain the institutional inference as analytical evidence; do not relax the frozen simultaneity of explanation-seeking and decisive action. |
+| G-A-03 | **CONFIRM** | When Saitama proposes betting on himself, Genos repeatedly addresses him as `先生` while challenging the idea as foolish, warning that the organizer would try to recover losses and probing whether Saitama really means to repair his finances that way. Respectful register survives direct practical disagreement. | `192 / 0136–0137` | Strengthen respectful challenge outside combat or institutional debate; the result concerns register plus disagreement, not Genos's correctness about every hypothetical consequence. |
+| G-A-04 | **NON_DIAGNOSTIC** | Genos recognizes Saitama's glare response and infers a possible money motive after Saitama displays the odds, but neither is an independently noticed unspoken practical detail: the first is overt sensory behavior and the second follows Saitama's explicit proposal. | `191–192 / 0073–0084,0136–0137` | Preserve close attention without weakening the independent and unspoken requirements. |
+| G-A-05 | **NON_DIAGNOSTIC** | Genos's spar confirms rather than challenges Saitama's overwhelming advantage, and nothing else presented to him seriously contradicts Saitama-invincibility assumptions. | `191–192 / 0073–0084,0124–0139` | Do not convert lack of evaluative feedback or institutional undervaluation into power disconfirmation. |
+
+### V37 result and cumulative arithmetic
+
+**2 CONFIRM / 1 PARTIAL / 0 CONTRADICT / 8 NON_DIAGNOSTIC.** S-A-06 and G-A-03 confirm; S-A-05 is partial. Cumulative V07–V37: **42 CONFIRM / 4 PARTIAL / 0 CONTRADICT / 295 NON_DIAGNOSTIC**, **341 adjudications across 31 volumes**. Entering V37 totals remain 40 / 3 / 0 / 287.
+
+V37 cleanly extends status-insensitivity into competitive recruitment: a promise of exceptional treatment does not command Saitama's deference when practical hassle dominates. Genos also directly contests Saitama's gambling proposal while repeatedly preserving `先生`, a clean respectful-disagreement test. The feedback request partially supports Saitama's refusal to invent expertise, but his failure to state the limit or provide useful help is textually consequential and blocks confirmation. Genos's institutional-odds inference occurs after others act and therefore does not meet the mechanism-under-action rule. No mismatch class activates. Frozen predictions and all prior decisions remain unchanged.
+
+### Next validation operation
+
+V38 begins only after V37 closeout PASS and any corpus-wide audit gate required by the current continuation authority. Preserve all eleven predictions and earlier decisions. Limited V1 preexposure remains disclosed and is never admitted as V37 evidence. V38 or official-web narrative must independently establish events under its own source-first gate.

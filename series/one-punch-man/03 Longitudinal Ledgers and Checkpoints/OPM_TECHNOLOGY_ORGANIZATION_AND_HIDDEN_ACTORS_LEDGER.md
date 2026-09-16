@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Technology, organization, and hidden actors through V34
+scope: Technology, organization, and hidden actors through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -555,3 +555,45 @@ Propagated after the frozen [V34 reading](../02%20Sequential%20Readings/OPM_V34_
 **PRESERVE repair stages:** Saitama proposes Kuseno for Genos's limbs; working limbs appear at salvage with `SALT PROOF`. No comprehensive new body specification, observed repair-room sequence or all-environment immunity follows (`0193,0214`).
 
 Blast's allies add coordinated capability and reciprocal familiarity, with uncertain recoil destination and unnamed identities (`172 / 0015–0019`). Older Organization/Drive Knight questions remain open. Association residential infrastructure/security claims in V1 are excluded from the V34 evidence boundary.
+
+## V35 technology delta — surveillance, research markets and context failure
+
+Propagated after the frozen [V35 reading](../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+**STRENGTHEN automated capability and failure:** Metal Knight's gate network detects danger factors, escalates response and deploys costly units. Saitama destroys them; the system correctly sees hidden monsters but cannot model accompaniment or custody (`177 / 0050–0076`).
+
+**STRENGTHEN Bofoi intelligence:** cameras, unit-level logs, hacked records and physical-test data produce an S-Class-or-higher estimate and potential-enemy file on A39 Saitama. This is real analysis from incomplete observation, not omniscient identification (`178 / 0078–0084`).
+
+**STRENGTHEN fragmented secret organization map:** the emergency meeting joins Blast's reported cube campaign, Homeless Emperor, Manako and God hypotheses without common certainty. Information security does not create shared interpretation (`178 / 0085–0110`).
+
+**ADD Tsukuyomi as active hidden actor:** payment obtains Psykos access; the operative protects her brain/`Third Eye`, uses artificial psychic capability and is recognized by Tatsumaki as part of the organization that confined her as a guinea pig. Identity, hierarchy, program scale and ruse outcome remain open (`180–181 / 0149–0194`).
+
+The controller battery gag contrasts ordinary repair with expensive remote systems. Technical competence, institutional incentive and ethical adequacy remain distinct.
+
+## V36 technology delta — signal warfare, blind floors and negotiated concealment
+
+Propagated after the frozen [V36 reading](../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+**STRENGTHEN institutional opacity:** block-four's experimental monster floor has nonfunctioning cameras beneath a marketed residential fortress. Alerts identify location and energy without restoring causal understanding (`182,184,187 / 0010–0014,0097–0103,0174–0178`).
+
+**STRENGTHEN Tsukuyomi capability:** supplement-chain infiltration, psychic remote signal, poison contingency, artificial esper force and a responder able to locate a reactive inorganic capsule show layered technical/social penetration. The scarred responder's affiliation remains open (`182 / 0015–0032`).
+
+**ADD negotiated counter-secrecy:** Fubuki assembles security failure, off-list monster bodies, outside dealings and evidence into a bargain that moves Psykos and repairs the Association's story. Protective purpose does not make concealment transparent or accountable (`188 / 0217–0235`).
+
+**ADD internal detection:** Child Emperor finds anomalous intrusion and widespread improper concealment despite the public resolution. His probe is a new counter-system, not yet a completed reform (`188 / 0220,0236`).
+
+Tatsumaki's public leverage and the Association's dependence create a coalition around anomalies rather than clean hierarchical control.
+
+## V37 technology delta — rival infrastructure and engineered information
+
+Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+**ADD rival-institution promises:** Neo Heroes recruitment claims stronger anti-monster systems, better treatment, more than two thousand candidates and aggressive headhunting. These are credible offers within V37, not verified operational outcomes (`191 / 0085–0097`).
+
+**ADD gambling control system:** Association personnel release a target, stream it privately, disguise hero identity, manipulate rank/threat information and set odds for sponsors. The system fails when a real Demon-level threat diverges from its tests (`192 / 0099–0132`).
+
+**STRENGTHEN investigative counter-system:** Child Emperor locates the underground site and odds and Genos infers metric manipulation. Evidence gathering advances; organizational protection, disclosure and remedy remain open (`192 / 0130–0132`).
+
+**ADD upgrade without evaluative infrastructure:** Genos's `雷光核` and visible hardware change are technically real, but neither Saitama nor institutional promises supply a trustworthy comparative metric (`190–191 / 0060–0098`).
+
+Forte's doghouse and Genos's room demand turn headquarters infrastructure into a domestic proximity system for concealed survivors and disciples; comic use does not settle security or authorization (`193 / 0161–0170`).

@@ -1,25 +1,80 @@
 ---
 series: OPM
 artifact_type: manifest
-scope: Owner-authorized publication of the V34-complete and V35-interrupted checkpoint
+scope: Owner-authorized stable-branch publication of the collected V01-V37 completion state
 generation: V2
-status: active_provisional
-source_boundary: V01-V34 closed; V35 notes durable through image 0008; web pilot technical only
+status: canonical
+source_boundary: Japanese tankobon V01-V37 complete and V28-V37 corpus-audited; official-web narrative excluded
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-13
+updated: 2026-09-16
 ---
 
 # One Punch Man — branch publication manifest
 
-## Authorization and boundary
+## Completion publication — 2026-09-16
+
+The owner-authorized `series/one-punch-man` publication now covers the completed collected continuation through V37. V35, V36 and V37 have each passed source verification, complete sequential reading, Japanese/register audit, prospective freeze, V1 comparison, Checkpoint A adjudication, propagation and final readback. The [V28–V37 corpus-wide audit](OPM_V28-V37_CORPUS_WIDE_AUDIT.md) reports PASS across nineteen corpus dimensions, 410 per-volume closeout checks and 110 checkpoint decisions. The official-web layer remains excluded and will begin only after this branch publication establishes the collected baseline.
+
+The repository checkout was fast-forwarded to remote `series/one-punch-man` commit `1c8bd816a060e2ab5ab13e25495127b4f87a0768`, then reconciled with current `origin/main` commit `3618cec843f4ba82842ba193cd94d949f8e86fa2` in local merge `4814ea99e8d8626dca0f073b4c8598421412ba19`. Neither intervening history changed `series/one-punch-man/`. Branch publication and protected-main integration remain separate.
+
+Thirty-one authored paths are declared below: twenty-one updates and ten additions. They stay entirely inside `series/one-punch-man/`. No global routing output, character registry/index, governance file, source medium, cache, local verification receipt or `_staging/` path is included. The change is an ordinary update inside an existing registered series root, so no routing descriptor or housekeeping-owned output is authored.
+
+Repository copies retain the previously declared portable-location transformation. Seven changed files replace only reviewed private machine roots with `OPM_*` tokens; the local analytical corpus remains byte-preserved. All published files are normalized to LF, and no Windows absolute path remains. For V35–V37, the unchanged local prospective regions and their location-normalized Git hashes are:
+
+| Volume | Original local prospective SHA-256 | Published prospective SHA-256 |
+|---|---|---|
+| V35 | `7909228f25d518cf89d89576b5111380932b15e2b8839fde44e16bc6d63d56ad` | `dcef34267787bf5729d2033037bb8301212b2b895bd66f064fbad9cbff0df97e` |
+| V36 | `d32c53756d67f90ab4dd90a630c0b9dc960cfa895a3c6a141167a3062cdbc1e0` | `5da939a85a8381dd0e4fc1bc517db57886de62f5e5d8f3a53e9d40a73fdf030e` |
+| V37 | `93dfd8eda69b62ada67f53143d51f40681b8b78009ea64ffbcff5cd9633e1bb7` | `3b3a19b2984a8b71535384d6fb9f358ffa9e36126af33982f537f43219a2b000` |
+
+Before commit, verify exact-path staging, the complete diff, local-to-published hashes, append-only cumulative histories, immutable checkpoint bytes, frozen prospective regions, metadata, links, whitespace, approved owner identity and the stable-branch author preflight. Push normally without force, then verify the exact remote head and its repository audit/housekeeping state. Main integration remains owner-controlled and requires the fully synchronized final head with a successful `Repository integration audit`.
+
+## Completion authored path allowlist
+
+- `series/one-punch-man/CURRENT_STATE_AND_CORPUS_MAP.md`
+- `series/one-punch-man/01 Source Lock and Inventory/OPM_SOURCE_INVENTORY.md`
+- `series/one-punch-man/01 Source Lock and Inventory/OPM_TANKOBON_CHAPTER_AND_EXTRA_CROSSWALK.md`
+- `series/one-punch-man/01 Source Lock and Inventory/OPM_V35_SOURCE_AUDIT.md`
+- `series/one-punch-man/01 Source Lock and Inventory/OPM_V36_SOURCE_AUDIT.md`
+- `series/one-punch-man/01 Source Lock and Inventory/OPM_V37_SOURCE_AUDIT.md`
+- `series/one-punch-man/02 Sequential Readings/OPM_V35_DEEP_READING.md`
+- `series/one-punch-man/02 Sequential Readings/OPM_V36_DEEP_READING.md`
+- `series/one-punch-man/02 Sequential Readings/OPM_V37_DEEP_READING.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/Character State/OPM_HERO_CHARACTER_STATE_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/Character State/OPM_INDEPENDENT_CIVILIAN_CHARACTER_STATE_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/Character State/OPM_MONSTER_ANTAGONIST_CHARACTER_STATE_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/Character State/OPM_SAITAMA_CHARACTER_STATE_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/Checkpoints/OPM_CHECKPOINT_A_VALIDATION_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_HEROISM_RECOGNITION_RANK_AND_INSTITUTION_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_MONSTERHOOD_PERSONHOOD_BODY_AND_TRANSFORMATION_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_OPEN_QUESTIONS_AND_MYSTERY_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_POWER_TECHNIQUE_LIMITER_GOD_AND_COSMIC_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_SATIRE_GENRE_AND_PUBLIC_NARRATIVE_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_TECHNOLOGY_ORGANIZATION_AND_HIDDEN_ACTORS_LEDGER.md`
+- `series/one-punch-man/03 Longitudinal Ledgers and Checkpoints/OPM_VISUAL_FORM_MOTIF_AND_REDRAW_LEDGER.md`
+- `series/one-punch-man/08 Audits and Manifests/OPM_BRANCH_PUBLICATION_MANIFEST.md`
+- `series/one-punch-man/08 Audits and Manifests/OPM_V28-V37_CORPUS_WIDE_AUDIT.md`
+- `series/one-punch-man/08 Audits and Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md`
+- `series/one-punch-man/08 Audits and Manifests/OPM_V35_UPDATE_MANIFEST.md`
+- `series/one-punch-man/08 Audits and Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md`
+- `series/one-punch-man/08 Audits and Manifests/OPM_V36_UPDATE_MANIFEST.md`
+- `series/one-punch-man/08 Audits and Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md`
+- `series/one-punch-man/08 Audits and Manifests/OPM_V37_UPDATE_MANIFEST.md`
+
+## Historical checkpoint record — 2026-09-13
+
+### Authorization and boundary
 
 The owner requested committing and pushing generated documents to the new `series/one-punch-man` branch of `deep-blue-zero/anime-manga-ln-games-analysis`, then supplying a hand-off at the stopped point. This supersedes the earlier instruction to wait until V37 before any commit for this checkpoint publication. V01–V34 remain complete; V35 remains a noncurrent, unfrozen draft with saved observations through image 0008. Session-reported viewing of 0009–0024 has no durable notes/receipt and must be reinspected. V36/V37 narrative and the post-V37 web backlog remain unprocessed.
 
 The publication contains source audits, V28–V34 readings and Japanese/register audits, V27 reconciliation and V28–V34 closeouts, cumulative state through V34, the V35 partial source audit/draft, current routing and this hand-off. It also publishes an authored technical pilot report without image payloads. It does not certify the unfinished V28–V37 corpus-wide completion gate or a main merge.
 
-## Reconciliation and preservation
+### Reconciliation and preservation
 
 - Original staging baseline: `de8ae99f0792b2c6d714f1f602b76be02a35803a`; OPM tree `70c84b23666cb9e75e515cb25e01da8e33b586ed`.
 - Publication base: `82ed5e148dafe6411cce8c671622e7051a8d1c0a`, fetched current main before creating the branch. Every baseline OPM blob was compared with this base; none had upstream drift.
@@ -28,13 +83,13 @@ The publication contains source audits, V28–V34 readings and Japanese/register
 - Historical `workspace_state: local_staged_unintegrated` fields retain their original closeout provenance. The current map records the later branch-publication authorization and takes precedence for present publication routing. These fields do not claim a main merge.
 - Manga archives/images, raw acquisition/capture evidence, caches, scripts, verification JSON and `_staging/` remain local. The authored pilot report retains local evidence locations as plain paths and distinguishes capture-time V27 isolation from current V34 authority.
 
-## Verification responsibility
+### Verification responsibility
 
 Before commit, verify the exact allowlist, complete diff, authority metadata and source-preserving byte comparison, immutable checkpoint and prospective-region preservation, existing links/character references, approved identities, whitespace and the repository's staged stable-branch author preflight. After normal push, verify the remote branch and repository audit/housekeeping result on the exact final head. The local publication receipts under `_staging/git-publication/` record actual commands, hashes and outcomes; their existence is not a claim that an unperformed check passed. Git history and remote statuses identify the actual publication commit.
 
 V28–V34 individual closeout results and source hashes remain in their existing manifests. Their checks occurred at their respective local boundaries and should not be rerun indiscriminately after later drafts open. The V35 source hash is `160d07bd53253d99b32e168e5b388c608327c0c6c9aa974ec291da8f54e74c9d`; its 207-image archive passed mechanical verification, while semantic lock remains pending.
 
-## Declared publication transformation
+### Declared publication transformation
 
 The repository preflight prohibits publishing local absolute filesystem paths. Git copies therefore replace only the six reviewed location strings with portable root tokens: `OPM_SOURCE_ROOT` (immutable Japanese sources), `OPM_ANALYSIS_ROOT` (local analysis and cache workspace), `OPM_REPOSITORY_CHECKOUT`, `OPM_ORIGINAL_CONTINUATION_PROMPT` and `OPM_PYTHON`. The analysis-root token covers both path-separator spellings. Exact bindings and unmodified local readings remain in the local workspace; public readers must bind these locations to their own authorized environment. This is source-location normalization, not a change to narrative claims or evidence ordinals.
 
@@ -52,7 +107,7 @@ Original prospective hashes remain provenance of the locally frozen regions. Pub
 | V33 | `263fb7f1a6ab2a202d040e99044d5f8bad4d16ce16eca9acd0a2f759c1e0a1a2` | `138e82a8796cbffa671a583678920e9e57c2468b5016204dce301ddd3089407b` |
 | V34 | `27501ce386d1e41d7f3a07e58986dea832a784615cb65b49c32a62ce29178857` | `8bb6510d2ab9a0393515bb9190c4fe701413bc4834c077b4928800e8eec44aa9` |
 
-## Exact authored path allowlist
+### Historical checkpoint exact authored path allowlist
 
 - `series/one-punch-man/01 Source Lock and Inventory/OPM_SOURCE_INVENTORY.md`
 - `series/one-punch-man/01 Source Lock and Inventory/OPM_TANKOBON_CHAPTER_AND_EXTRA_CROSSWALK.md`
