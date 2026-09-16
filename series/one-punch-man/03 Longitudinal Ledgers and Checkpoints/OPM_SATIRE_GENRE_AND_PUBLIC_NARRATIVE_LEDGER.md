@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Satire, genre, and public narrative through V34
+scope: Satire, genre, and public narrative through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -554,3 +554,45 @@ Genos promises brevity and fills the page. Real memory access leads to a theory 
 Garou's past manifesto is punctured by a food-payment interview; later assault inquiries and apologies remain acknowledged. Bang's outdated ranger stereotype elicits ordinary conversation. Child Emperor merchandise and Narinki's cramped-car self-credit bring hero images into childhood. Fubuki translates care into executive evaluation while her bandages reveal effort (`175/bonus / 0195–0218`).
 
 The strongest counter-reading remains that time reversal shelters the recurring comic baseline from catastrophe. Core memory, injuries, restitution, staffing pressure and lost household resist complete-erasure shorthand without proving equivalent compensation. No housing/neighbors satire is admitted before primary evidence.
+
+## V35 satire delta — safety sales, rank theater and domestic monsters
+
+Propagated after the frozen [V35 reading](../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+Air turns recovery into masculine rank contest before Pig God saves him and resumes cleanup. Forte's personalized rhythm identity prevents him from hearing a car. These jokes puncture performance without erasing quick action or training (`176,179–180 / 0017–0027,0128–0148`).
+
+The shelter pitch converts permanent disaster into premium property, heroes into amenities and surveillance into reassurance. Its failure is specifically contextual: the hidden classification is detected, but no system understands why Saitama accompanies the targets (`177 / 0044–0076`).
+
+Genos's promised account consumes four hours; Amai's severe `華` theory becomes a flowerpot and producer merchandise. Knowledge and critique are absorbed into exposition and commodity form (`178–179 / 0088–0104,0114–0138`).
+
+The psychic arc descends through cells, paid experiments and a demon-level containment floor before Saitama turns the horror tableau into a dog-policy precedent. In the bonus, Black Sperm treats a banana as possible weapon/poison while heroes treat him as a frightened stray (`180–bonus / 0153–0201`).
+
+No V36 `外でやれ！`, fight, public cover story or later Association scandal outcome enters this V35 satire boundary.
+
+## V36 satire delta — psychic grandeur returned to bills, traffic and dog droppings
+
+Propagated after the frozen [V36 reading](../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+`外でやれ` turns city-shattering psychic conflict into the rule for quarrelling children: do not wreck the house. The joke becomes ethical structure because residents, cars, roads and repair costs remain real (`183–187 / 0065–0108,0144–0199`).
+
+Forte's self-authored fighting rhythm already caused a traffic accident; Sonic's rivalry drama is punctured by dog droppings. Style and myth remain vulnerable to ordinary infrastructure and bodies (`183,186 / 0049–0051,0151–0159`).
+
+Metal Bat's Dragon-level response competes with a traffic jam and Tama's delivery. Domestic obligation does not erase hero duty; it prevents disaster scale from becoming the only emotional register (`185 / 0132–0142`).
+
+The Association and Fubuki manufacture a useful Tatsumaki story from real monster destruction and concealed causation. Propaganda works precisely because it is partly true, repairs trust and distributes hero credit legibly (`188 / 0225–0235`).
+
+The bonus closes enormous power with the smaller comic/ethical proposition that telling someone one is afraid can be the first heroic act (`bonus / 0237–0241`).
+
+## V37 satire delta — labor markets, fixed matches and unfalsifiable expertise
+
+Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+Tatsumaki's dangerous commercial succeeds while executives privately discuss replacing or controlling exceptional heroes. Recruitment satire joins image management to institutional dependency (`189 / 0010–0020`).
+
+Hero gambling turns deployment into fixed sport: costumes, ranks, threat labels, medical care and sponsor odds become production inputs. The comedy darkens because authentic terror is praised as acting until Saitama resolves the real danger (`192 / 0099–0132`).
+
+Mumen's arrival restores genre seriousness inside the same chapter. He recognizes courage through conduct rather than the falsified display, without magically repairing its coercive material conditions (`192 / 0133–0135`).
+
+Reduced monsters, tiny rooms, a doghouse and a neighboring-room eviction compress postwar survival and attachment into household scale (`191,193 / 0065–0067,0161–0170`).
+
+King's apple test makes expertise unfalsifiable: fear, delay, inability and departure are each rewritten as deeper mastery. The false belief still produces Atomic's real humility, separating useful consequence from truthful premise (`194 / 0172–0200`).

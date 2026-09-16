@@ -6,17 +6,17 @@ artifact_type: corpus_map
 scope: V2 manga analytical corpus
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37 locally present and hash-inventoried; semantic lock and reading through V34; V35 next; isolated technical web pilot excluded from narrative authority
+source_boundary: Japanese tankobon V01-V37 locally present, hash-inventoried, semantically locked, read and corpus-audited; governed branch publication next; official-web narrative still excluded
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-13
+updated: 2026-09-16
 workspace_state: branch_publication_checkpoint
-analysis_completed_through: V34
-next_volume: V35
-sequential_analysis_lock: OPEN
-git_integration_gate: OWNER_AUTHORIZED_checkpoint_branch_publication_before_V37
+analysis_completed_through: V37
+next_volume: none_local_collected
+sequential_analysis_lock: COMPLETE_THROUGH_V37
+git_integration_gate: OWNER_AUTHORIZED_series_branch_publication_after_corpus_PASS
 ---
 
 
@@ -27,31 +27,32 @@ git_integration_gate: OWNER_AUTHORIZED_checkpoint_branch_publication_before_V37
 
 The owner explicitly requested that the generated documents be committed and pushed to `series/one-punch-man` and that a new-chat hand-off preserve the stopped point. This authorizes checkpoint publication before V37 and supersedes the earlier no-commit/no-push gate for this publication. It does not certify V35–V37 completion or the pending V28–V37 corpus-wide audit. Branch publication and main integration remain separate.
 
-**Resume at V35 image 0009.** The durable draft and receipt contain observations through 0008 of 0207. The interrupted session reported viewing 0009–0024 without saving those notes or advancing the receipt; re-inspect and record that interval before continuing at 0025. V35 remains unfrozen and noncurrent, cumulative analytical authority remains V34, and V36/V37 narrative and the web backlog remain unopened.
+**Historical resume point, now completed.** This checkpoint originally stopped at V35 image 0009, with 0009–0024 requiring reinspection. The continuation re-inspected that interval, completed all 207 images and 178 Japanese/register targets, froze the prospective account, compared V1, adjudicated Checkpoint A and propagated cumulative deltas. V35 is complete locally subject to final readback; V36/V37 narrative and the web backlog remain unopened.
 
 Use the [continuation hand-off](08%20Audits%20and%20Manifests/OPM_V35_CONTINUATION_HANDOFF.md) for execution details and the [publication manifest](08%20Audits%20and%20Manifests/OPM_BRANCH_PUBLICATION_MANIFEST.md) for scope and provenance. The [technical pilot report](08%20Audits%20and%20Manifests/OPM_TONARI_PRESERVATION_PILOT_REPORT.md) records preservation results only. Source images, caches, raw capture payloads and local verification JSON remain outside Git.
 
 Earlier per-volume `local_staged_unintegrated` metadata and no-Git-before-V37 statements below and in preserved historical artifacts describe their local closeout state; this publication checkpoint governs current Git permission. Their analytical freezes remain unchanged. The single current entrypoint and established topical homes are retained.
 
-## Local continuation authority — 2026-09-13
+## Local continuation authority — 2026-09-16
 
 - Analytical staging root: `OPM_ANALYSIS_ROOT`.
 - Immutable Japanese source root: `OPM_SOURCE_ROOT`.
 - Canonical repository home: `series/one-punch-man/`; effective repository authority remains Git primary.
-- Baseline: GitHub main `de8ae99f0792b2c6d714f1f602b76be02a35803a`, OPM tree `70c84b23666cb9e75e515cb25e01da8e33b586ed`, identical to the read-only local checkout's OPM tree.
-- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`: V34's 224-image reading, 139-image targeted Japanese/register PASS, prospective freeze, V1 comparison, checkpoint and propagation are saved. Final V34 readback returned PASS on 41 checks; V35 prospective review is in progress outside cumulative authority.
-- Steps 1–5 are complete. The user authorized step 6 through V37, gated Git publication, then post-V37 official-web continuation. V35 has opened after its individual gate passed; V36 remains unopened.
-- The owner has now authorized publishing this checkpoint on `series/one-punch-man`; the earlier local no-Git-before-V37 restriction is superseded for this publication. The V28–V37 analytical completion audit remains pending. Follow the publication checkpoint above and reread current governance before later integration.
+- Published checkpoint: `a458573821c1b1ab8f351b62654554275ff9464d` on `series/one-punch-man`. Later remote-only commits did not alter the One Punch Man tree when reconciled at continuation start. No Git mutation belongs to this V37 local closeout.
+- `SEQUENTIAL_ANALYSIS_LOCK = COMPLETE_THROUGH_V37`: V37's 207-image reading, 186-image Japanese/register PASS, prospective freeze, V1 comparison, checkpoint adjudication, propagation and final readback are complete.
+- `CORPUS_COMPLETION_AUDIT = PASS_V28_V37`: the ten-volume completion audit passes 19 dimensions, including 410 per-volume closeout checks, exact immutable source identities/maps, chronology, 110 checkpoint decisions, propagation, authority, metadata, links, naming, duplication and stale-gap controls.
+- Steps 1–7 are complete through the V28–V37 corpus-wide audit. Next: governed branch publication, then official-web overlap/capture/reading in sequence.
+- The owner-authorized checkpoint publication remains Git permission for the completed continuation, but does not bypass corpus audit or protected-main governance. Reread current governance and `CHANGE_INTEGRATION_CHECKLIST.md` before staging, committing, merging or pushing.
 - `_staging/` holds noncanonical receipts/tools/cache and the isolated technical pilot, excluded from Git and narrative authority.
 
-V28–V33 historical closeouts passed 35, 36, 37, 39, 39 and 41 checks. The [V34 source audit](01%20Source%20Lock%20and%20Inventory/OPM_V34_SOURCE_AUDIT.md), [canonical reading](02%20Sequential%20Readings/OPM_V34_DEEP_READING.md) and [V34 update manifest](08%20Audits%20and%20Manifests/OPM_V34_UPDATE_MANIFEST.md) govern the local V34 boundary and V35 gate. V35 mechanical preparation passed for 207 images / 208 entries. Frontmatter 0001–0008 has been directly reviewed; the [V35 source audit](01%20Source%20Lock%20and%20Inventory/OPM_V35_SOURCE_AUDIT.md) and [live prospective draft](02%20Sequential%20Readings/OPM_V35_DEEP_READING.md) own progress. V36 remains unopened.
+V28–V36 historical closeouts passed 35, 36, 37, 39, 39, 41, 41, 43 and 48 checks; V37 passed 51. The [V28–V37 corpus-wide audit](08%20Audits%20and%20Manifests/OPM_V28-V37_CORPUS_WIDE_AUDIT.md) closes the local collected completion gate and routes governed branch publication next. The [V37 source audit](01%20Source%20Lock%20and%20Inventory/OPM_V37_SOURCE_AUDIT.md), [canonical reading](02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register audit](08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md) and [V37 update manifest](08%20Audits%20and%20Manifests/OPM_V37_UPDATE_MANIFEST.md) remain the individual V37 authority. Official-web narrative remains unopened.
 
-V1 comparisons followed each prospective freeze. The combined V31–V33 account misplaced collision/redirection/Io and continued fighting; V34 independently establishes those outcomes without repairing V1's earlier boundary error. V34's own V1 account additionally asserts a residential move, new neighbors/security and Rover/Pochi/Black Sperm domestic developments absent from V34. Those claims are rejected at this boundary and quarantined as unverified future material after exposure, not reassigned to unopened volumes. Prior prediction/heading exposure remains disclosed. No fresh blindness is claimed; every admitted event requires primary-source support. The [bootstrap audit](08%20Audits%20and%20Manifests/OPM_V28_BOOTSTRAP_AUDIT.md) remains historical handoff context, and the web pilot remains narratively isolated.
+The V1 comparison followed prospective freeze. Only legacy lines 1–55 were exposed before the source-first pass; all 2,054 lines were reopened only after freeze and never supplied evidence. Twenty-nine claim groups and ten RR items retain the evaluation thesis while correcting Wild Yankee's identity/rank, Genos's capability modality, Nichirin's real cut, Amai's unresolved status and King's literal non-feat. The technical web pilot remains narratively isolated.
 
 ## Current project state
 
 
-This is the single current entrypoint for the One Punch Man V2 continuation. Artifact identities and canonical topical homes are preserved. This checkpoint is prepared for the owner-authorized series branch; check actual branch/main history for integration state. Cumulative analytical authority ends at V34; V35 is a noncurrent work in progress.
+This is the single current entrypoint for the One Punch Man V2 continuation. Artifact identities and canonical topical homes are preserved. The owner-authorized branch checkpoint remains publication authority; check actual branch/main history before integration. V37 is the completed local collected boundary, and the V28–V37 corpus-wide audit reports PASS. Governed branch publication is next.
 
 
 The V2 project is a source-grounded, sequential, revision-aware reread designed for a long and still-publishing manga. The governing analytical method, synthesis architecture, and character-modeling schema are active. The Japanese tankobon working corpus is physically present as a contiguous V01-V37 run. The supplied local build manifest now covers V01-V36; V37 retains its separate earlier direct archive audit. All object hashes are recorded, and V35-V36 close the former acquisition gap. Semantic source validation proceeds volume by volume along the contiguous sequence. The analytical official-web layer has no narrative ingested. An isolated three-release preservation pilot under `_staging/pilots/tonari_2026-09-12/` verified capture and restoration; it supplies no narrative evidence to the sequential reading.
@@ -74,8 +75,8 @@ The V2 project is a source-grounded, sequential, revision-aware reread designed 
 2. `00 Frameworks and Methods/OPM_ANALYTICAL_METHOD_V2.md`
 3. `00 Frameworks and Methods/OPM_SYNTHESIS_ARCHITECTURE_V2.md`
 4. `00 Frameworks and Methods/OPM_CHARACTER_MODELING_SCHEMA.md`
-5. `01 Source Lock and Inventory/OPM_SOURCE_INVENTORY.md` and `OPM_V01-V34_SOURCE_AUDIT.md`
-6. For continuation, the frozen V34 reading, Japanese audit and `OPM_V34_UPDATE_MANIFEST.md`; then V35 source readiness. Earlier readings remain available as bounded retrospective references. Do not redo V01–V34.
+5. `01 Source Lock and Inventory/OPM_SOURCE_INVENTORY.md`, `OPM_V01-V34_SOURCE_AUDIT.md`, `OPM_V35_SOURCE_AUDIT.md`, `OPM_V36_SOURCE_AUDIT.md` and `OPM_V37_SOURCE_AUDIT.md`
+6. For continuation, the frozen V37 reading, Japanese audit, `OPM_V37_UPDATE_MANIFEST.md` and passed `OPM_V28-V37_CORPUS_WIDE_AUDIT.md`. Earlier readings remain bounded historical references. Do not redo V01–V37; publish under current governance, then establish the official-web overlap.
 
 
 ## Canonical analytical architecture
@@ -116,7 +117,7 @@ Canonical character-modeling surfaces planned for Phase 0/Phase 1 are:
 Character state will preserve two authority horizons: canonical collected tankobon state and a separately marked `active_provisional` web-release overlay.
 
 
-### Active thematic longitudinal ledgers through V34
+### Active thematic longitudinal ledgers through V37
 
 
 - `03 Longitudinal Ledgers and Checkpoints/OPM_HEROISM_RECOGNITION_RANK_AND_INSTITUTION_LEDGER.md`
@@ -128,7 +129,7 @@ Character state will preserve two authority horizons: canonical collected tankob
 - `03 Longitudinal Ledgers and Checkpoints/OPM_OPEN_QUESTIONS_AND_MYSTERY_LEDGER.md`
 
 
-These were instantiated only once recurring evidence justified durable topical homes. They are current through V34 and remain cumulative responsibilities, not duplicate volume summaries.
+These were instantiated only once recurring evidence justified durable topical homes. They are current through V37 and remain cumulative responsibilities, not duplicate volume summaries.
 
 
 ## Primary-source architecture
@@ -151,12 +152,12 @@ The local tankobon root now contains V01-V37. The current build manifest covers 
 
 
 - Physical acquisition and object-hash inventory: **V01-V37**, continuous
-- Integrity evidence: inherited V01-V34 build audit; **V28–V34 freshly reverified PASS**; V35 fresh mechanical integrity PASS with semantic review in progress; V36 supplied build report with fresh full checks pending; V37 inherited separate audit and unchanged hash
+- Integrity evidence: inherited V01-V34 build audit; **V28–V37 freshly reverified PASS**; V35–V37 mechanical and semantic review complete; V37 remains outside the V01–V36 build manifest but has direct plus fresh per-volume verification
 - Current physical sequence gap: **none**; V35-V36 supplied and inventoried
-- Semantic chapter/extra mapping completed: **V01-V34**
-- Sequential deep reading completed/canonical: **V01-V34**
-- Sequential deep reading next/current operation: **V35 archive verification, semantic source lock and prospective deep reading after V34 readback PASS**
-- Character-model surfaces current through **V34**. Use `OPM_CHARACTER_MODEL_READINESS_INDEX.md` as the canonical tier and readiness surface; this corpus map intentionally does not duplicate its per-character ratings.
+- Semantic chapter/extra mapping completed: **V01-V37**
+- Sequential deep reading completed/canonical: **V01-V37**
+- Sequential deep reading next/current operation: **none among locally held tankobon; V28–V37 corpus audit PASS; governed branch publication precedes official-web continuation**
+- Character-model surfaces current through **V37**. Use `OPM_CHARACTER_MODEL_READINESS_INDEX.md` as the canonical tier and readiness surface; this corpus map intentionally does not duplicate its per-character ratings.
 - Official-web analytical overlay: **empty**; the technical preservation pilot is narratively quarantined
 
 
@@ -187,7 +188,7 @@ V2 must preserve materially distinct V1 reasoning as provenance while routing cl
 ## Current execution state
 
 
-**Phase 0 — Corpus Audit and Source Lock** now records the continuous physical holding V01-V37. All archive object hashes have been inventoried, including newly supplied V35-V36, and the unchanged V37 object is reconciled into the physical sequence. Fresh complete integrity checks and chapter/extra semantic validation remain incremental as each volume enters analysis; V28–V34 mechanical and semantic audits have passed.
+**Phase 0 — Corpus Audit and Source Lock** now records the continuous physical holding V01-V37. All archive object hashes have been inventoried, including newly supplied V35-V36, and the unchanged V37 object is reconciled into the physical sequence. Fresh complete integrity checks and chapter/extra semantic validation remain incremental as each volume enters analysis; V28–V37 mechanical and semantic audits have passed.
 
 
 Current Phase 0 source artifacts:
@@ -199,15 +200,15 @@ Current Phase 0 source artifacts:
 - `OPM_WEB_SERIALIZATION_AND_REVISION_CROSSWALK.md`
 
 
-**Phase 1 has completed and canonized `OPM_V01_DEEP_READING.md` through `OPM_V34_DEEP_READING.md`.** All thirty-four archives were hash-verified, unpacked, sequentially reviewed, chapter/extra mapped, and passed Japanese dialogue/register and ledger-propagation readback. The cumulative character-model surfaces are canonical through the V34 boundary.
+**Phase 1 has completed and canonized `OPM_V01_DEEP_READING.md` through `OPM_V37_DEEP_READING.md`.** All thirty-seven archives were hash-verified, unpacked, sequentially reviewed and chapter/extra mapped; V01–V37 passed individual final readback. The cumulative character-model surfaces are propagated through the V37 boundary.
 
 
-The durable thematic longitudinal homes are now current through V34: heroism/recognition/institution; monsterhood/personhood/body; power/explanatory systems; technology/hidden actors; satire/public narrative; visual form; and open questions/mystery state. V08 established King and Garou transitions; V09 made Garou/Fubuki durable models; V10 adds bounded-proxy/legibility; V11 adds coordination/constraint; V12 adds capacity-versus-purpose/domain; V13 adds strength-as-transformation/role/consequence; V14 adds asymmetry-as-ethics, Suiryu's helplessness/rescue-driven hero aspiration, explicit Monster Association terror/hostage/recruitment doctrine, and Gouketsu/Bakuzan emerging models; **V15 adds growth-after-model-failure, King as conceptual peer, Garou defeat-as-study, Sonic's failed procedural monsterization, explicit disaster-level revision mechanics, and eyewitness-driven King misattribution.** **V16 adds Garou multi-agent adaptation, lower-ranked hero coordination, Tareo-protection under lethal crossfire, Bang/Garou direct master-disciple conflict, and Glasses growth-process evidence. V17 adds Garou's childhood role-assignment grievance, Monster Association monsterhood testing, Elder Centipede/King-Saitama operational pairing, Blast autonomy, G5's external Organization provenance, and donor/private-force pressure. V18 adds competing monsterhood ontologies, Genus's speaker-qualified limiter theory, Gyoro's stress-engineering/Orochi claim, Kuseno's survival ethic, G5's Metal Knight sample acquisition, and Garou/Tareo as a high-value identity diagnostic.** **V19 adds Saitama's explicit progression-process envy, Garou's fear criterion and repeated Tareo protection, direct Tatsumaki/Fubuki protection-control evidence, Child Emperor raid-roster epistemology, Gyoro's coercive near-death research doctrine, Orochi's one-look martial copying, and corrected V1 chronology for Rover/Orochi.** **V20 adds hostage-first raid ethics, Sweet Mask's combat-power/responsibility distinction, lower-ranked specialist field competence, Bang's personally owned responsibility, Genos's hard ten-second full-power constraint, Tatsumaki's plural protected-self language, Rhino Wrestler's private scoring regime, and another correction to V1 per-volume chronology.** **V21 adds Flash's technique-form/speed model and moderate-tier promotion, Child Emperor's mission-over-victory ethics and frustration-at-contingency-failure, Phoenix Man's Demon-to-Dragon resurrection as a strong Gyoro-doctrine case, Brave Giant's explicit timer, Waganma's useful media knowledge, and Suiryu's durable future-goal statement.** **V22 resolves the Child Emperor/Phoenix Man recognition-and-role conflict through Zombieman recognition, Saitama non-coercion, the `inside`/borrowed-power distinction, and equipment sacrifice; adds Zombieman/Pureblood essence-versus-persistence evidence; exposes Amai Mask's coercive purity logic and hidden body anomaly; and corrects Homeless Emperor out of V22 chronology.** **V23 distinguishes representation from operational truth across G5/Atomic, rank/specialization, Black Sperm target mechanics, Homeless Emperor's attributed `God` revelation, PPP/Nyan consent-autonomy contrast, Pig God's quiet prosocial conduct, Darkshine's still-intact invulnerability self-model, and Amai Mask's exemplar doctrine. It promotes PPP and Pig God to moderate and keeps later Darkshine collapse outside the V23 boundary.**
+The durable thematic longitudinal homes are now current through V37: heroism/recognition/institution; monsterhood/personhood/body; power/explanatory systems; technology/hidden actors; satire/public narrative; visual form; and open questions/mystery state. V08 established King and Garou transitions; V09 made Garou/Fubuki durable models; V10 adds bounded-proxy/legibility; V11 adds coordination/constraint; V12 adds capacity-versus-purpose/domain; V13 adds strength-as-transformation/role/consequence; V14 adds asymmetry-as-ethics, Suiryu's helplessness/rescue-driven hero aspiration, explicit Monster Association terror/hostage/recruitment doctrine, and Gouketsu/Bakuzan emerging models; **V15 adds growth-after-model-failure, King as conceptual peer, Garou defeat-as-study, Sonic's failed procedural monsterization, explicit disaster-level revision mechanics, and eyewitness-driven King misattribution.** **V16 adds Garou multi-agent adaptation, lower-ranked hero coordination, Tareo-protection under lethal crossfire, Bang/Garou direct master-disciple conflict, and Glasses growth-process evidence. V17 adds Garou's childhood role-assignment grievance, Monster Association monsterhood testing, Elder Centipede/King-Saitama operational pairing, Blast autonomy, G5's external Organization provenance, and donor/private-force pressure. V18 adds competing monsterhood ontologies, Genus's speaker-qualified limiter theory, Gyoro's stress-engineering/Orochi claim, Kuseno's survival ethic, G5's Metal Knight sample acquisition, and Garou/Tareo as a high-value identity diagnostic.** **V19 adds Saitama's explicit progression-process envy, Garou's fear criterion and repeated Tareo protection, direct Tatsumaki/Fubuki protection-control evidence, Child Emperor raid-roster epistemology, Gyoro's coercive near-death research doctrine, Orochi's one-look martial copying, and corrected V1 chronology for Rover/Orochi.** **V20 adds hostage-first raid ethics, Sweet Mask's combat-power/responsibility distinction, lower-ranked specialist field competence, Bang's personally owned responsibility, Genos's hard ten-second full-power constraint, Tatsumaki's plural protected-self language, Rhino Wrestler's private scoring regime, and another correction to V1 per-volume chronology.** **V21 adds Flash's technique-form/speed model and moderate-tier promotion, Child Emperor's mission-over-victory ethics and frustration-at-contingency-failure, Phoenix Man's Demon-to-Dragon resurrection as a strong Gyoro-doctrine case, Brave Giant's explicit timer, Waganma's useful media knowledge, and Suiryu's durable future-goal statement.** **V22 resolves the Child Emperor/Phoenix Man recognition-and-role conflict through Zombieman recognition, Saitama non-coercion, the `inside`/borrowed-power distinction, and equipment sacrifice; adds Zombieman/Pureblood essence-versus-persistence evidence; exposes Amai Mask's coercive purity logic and hidden body anomaly; and corrects Homeless Emperor out of V22 chronology.** **V23 distinguishes representation from operational truth across G5/Atomic, rank/specialization, Black Sperm target mechanics, Homeless Emperor's attributed `God` revelation, PPP/Nyan consent-autonomy contrast, Pig God's quiet prosocial conduct, Darkshine's still-intact invulnerability self-model, and Amai Mask's exemplar doctrine. It promotes PPP and Pig God to moderate and keeps later Darkshine collapse outside the V23 boundary.** **V35 adds classification-without-context across rank, property, machine threat detection, branding and prisoner status; relocates Saitama's household without treating shelter as safety; strengthens fragmented knowledge of `神`; establishes Fubuki's school organizing history and Psykos's future-sight trauma; and exposes institutional rights-stripping and paid experimental custody. No readiness tier changes.** **V36 adds concern without ownership, current weakness as unknown potential, Blast-shaped protective obligation, voluntary Blizzard Group return, a mixed protective/concealing institutional bargain, and public truth manufactured from partial fact. No readiness tier changes.** **V37 adds competitive hero labor, fixed institutional appraisal, Genos's growth-without-usable-metric crisis, conduct-based Mumen recognition, unresolved Amai personhood inquiry, Nichirin precision and King's expert-authored non-feat. No readiness tier changes.**
 
 
-**Checkpoint A remains frozen in `03 Longitudinal Ledgers and Checkpoints/Checkpoints/OPM_V01-V06_CHECKPOINT.md`. V07-V34 are the first twenty-eight held-out validation volumes. `OPM_CHECKPOINT_A_VALIDATION_LEDGER.md` records a cumulative held-out total through V34 of 36 CONFIRM / 3 PARTIAL / 0 CONTRADICT / 269 NON-DIAGNOSTIC; no mismatch class is active. Current operation: V35 archive verification and prospective reading after V34 closeout readback PASS.** V35-V36 are now supplied, and the unchanged V37 is reconciled into the continuous physical holding. Later official-web material retains its separate provisional route. No new corpus root or restart of completed readings is required.
+**Checkpoint A remains frozen in `03 Longitudinal Ledgers and Checkpoints/Checkpoints/OPM_V01-V06_CHECKPOINT.md`. V07-V37 are the first thirty-one held-out validation volumes. `OPM_CHECKPOINT_A_VALIDATION_LEDGER.md` records a cumulative held-out total through V37 of 42 CONFIRM / 4 PARTIAL / 0 CONTRADICT / 295 NON-DIAGNOSTIC; no mismatch class is active. The V28–V37 corpus-wide audit reports PASS; governed branch publication is next.** V01–V37 form the complete locally held collected sequence. Official-web material retains its separate provisional route. No new corpus root or restart of completed readings is required.
 
-Historical boundary-advance entries below preserve what was current at each earlier freeze; their old next-operation statements do not override the current V35 routing above and final V34 closeout entry below.
+Historical boundary-advance entries below preserve what was current at each earlier freeze; their old next-operation statements do not override the current corpus-audit routing above and final V37 closeout entry below.
 
 ## V09 boundary advance — 2026-08-24
 
@@ -785,3 +786,36 @@ The volume distinguishes overpowering an opponent from preserving a human world:
 V34 checkpoint: **1 CONFIRM / 0 PARTIAL / 0 CONTRADICT / 10 NON_DIAGNOSTIC**. Cumulative V07–V34: **36 / 3 / 0 / 269**, 308 decisions across 28 volumes. Twenty-four V1 claim groups and ten RR items correct chronology, uncopyable-ontology shorthand, universal-public-unreadability claims and omitted agency. V1's housing/neighbors and monster-companion developments are absent from V34 and quarantined after freeze.
 
 **Next after readback PASS: V35 source verification and sequential primary reading.** V35 and current web narrative remain outside V34. Git remains gated until V37 and corpus-wide audit.
+
+
+## V35 boundary advance — 2026-09-15
+
+V35 is complete in local staging: 207 images, chapters 176–181, attached gags, `怖くないよ` and endmatter. Japanese/register PASS follows 178 distinct targeted reinspections. Sections 0–15 froze before the combined V1 source and current checkpoint reopened. Thirteen state ledgers plus validation carry the changes; the [V35 update manifest](08%20Audits%20and%20Manifests/OPM_V35_UPDATE_MANIFEST.md) owns final readback.
+
+The volume organizes aftermath through classification without context: rank, property, machine detection, secret files, branding and prisoner status see fragments and distort people when labels replace relationships. Pig God's rescue labor, Saitama's provisional shelter of Pochi and disguised Black Sperm, fragmented institutional knowledge of `神`, Fubuki's organizing history, Psykos's future-sight trauma and paid rights-stripping custody supply the strongest cumulative changes. Mechanism, innocence, conversion, vision truth and V36 outcomes remain open. No readiness tier changes.
+
+V35 checkpoint: **2 CONFIRM / 0 PARTIAL / 0 CONTRADICT / 9 NON_DIAGNOSTIC**. Cumulative V07–V35: **38 / 3 / 0 / 278**, 319 decisions across 29 volumes. Twenty-two V1 claim groups and ten RR items tighten speaker, ontology and volume-boundary limits. The combined legacy source's V36 fight, acquaintance, Blast, membership, cover-story and investigation outcomes remain quarantined.
+
+**Next after readback PASS: V36 source verification and sequential primary reading.** V36 and current web narrative remain outside V35. The owner-authorized branch publication checkpoint remains current Git authority; reread governance before later publication or integration.
+
+
+## V36 boundary advance — 2026-09-15
+
+V36 is complete in local staging: 247 images, chapters 182–188, `最初の勇気` and endmatter. Japanese/register PASS follows 226 distinct targeted reinspections. Sections 0–15 froze before V1 comparison and current checkpoint reopened. Thirteen state ledgers plus validation carry the changes; the [V36 update manifest](08%20Audits%20and%20Manifests/OPM_V36_UPDATE_MANIFEST.md) owns final readback.
+
+The volume organizes force around exertion, measurement and possible growth. Saitama's exact acquaintance vocabulary blocks a friendship upgrade while his conduct demonstrates concern without ownership. Tatsumaki's Blast memory explains protective control without excusing it; the Blizzard Group returns voluntarily without proving readiness. Fubuki's transaction protects Psykos and exposes institutional weakness while concealing causation, and Child Emperor detects the remaining rot. `最初の勇気` locates courage in telling someone before victory is known. No readiness tier changes.
+
+V36 checkpoint: **2 CONFIRM / 0 PARTIAL / 0 CONTRADICT / 9 NON_DIAGNOSTIC**. Cumulative V07–V36: **40 / 3 / 0 / 287**, 330 decisions across 30 volumes. Twenty-four V1 claim groups and ten RR items tighten friend/acquaintance, thought/narrator, possibility/guarantee and manufactured/wholly-false distinctions. Prior V1 exposure is disclosed; it supplied no evidence.
+
+**Next after readback PASS: V37 source verification and sequential primary reading.** V37 and current web narrative remain outside V36. The owner-authorized branch publication checkpoint remains current Git authority; reread governance before later publication or integration.
+
+
+## V37 boundary advance — 2026-09-16
+
+V37 is complete in local staging: 207 images, chapters 189–194, bonus image 0201 and endmatter. Japanese/register PASS follows 186 distinct targeted reinspections. Sections 0–15 froze before the full V1 account and current checkpoint reopened. Thirteen state ledgers plus validation carry the changes; the [V37 update manifest](08%20Audits%20and%20Manifests/OPM_V37_UPDATE_MANIFEST.md) owns final readback.
+
+The volume asks how value is known. Recruitment, hardware, rank, threat labels, sponsor odds, bodily evidence, inherited technique and expert testing all provide partial measures. Mumen's conduct-based recognition and Child Emperor's revisable evidence contrast with coercive gambling and Atomic's self-confirming reading of King. Genos grows without a usable metric; Saitama rescues without broad recognition and catches his own money motive. No readiness tier changes.
+
+V37 checkpoint: **2 CONFIRM / 1 PARTIAL / 0 CONTRADICT / 8 NON_DIAGNOSTIC**. Cumulative V07–V37: **42 / 4 / 0 / 295**, 341 decisions across 31 volumes. Twenty-nine V1 claim groups and ten RR items preserve the evaluation thesis while correcting identity/rank, self-assessed capability, real versus imagined cutting and hypothesis/verification boundaries. Limited V1 preexposure is disclosed and supplied no evidence.
+
+**Next after readback PASS: the V28–V37 corpus-wide audit.** Only after that audit should the completed continuation be published under current governance; official-web continuation then begins by establishing exact overlap from the V37 collected endpoint rather than jumping to the newest release.

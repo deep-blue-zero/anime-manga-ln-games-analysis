@@ -1,16 +1,16 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Saitama character state through V34
+scope: Saitama character state through V37
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V34
+source_boundary: Japanese tankobon V01-V37
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-audited: 2026-09-13
-updated: 2026-09-13
+audited: 2026-09-16
+updated: 2026-09-16
 workspace_state: local_staged_unintegrated
 ---
 
@@ -877,3 +877,47 @@ Propagated after the frozen [V34 reading](../../02%20Sequential%20Readings/OPM_V
 | Damaged body and household | proposes Kuseno repair then shared salvage; enjoys clam and seeks a pot | ordinary practical companionship returns; home restoration and later living arrangements unshown | `174–175 / 0193,0214` |
 
 **Strong retained.** The new grief condition, instructional receptivity and recovery deepen the model without collapsing it into a single need hierarchy. The frozen novelty prediction concerns engagement, so absence of excitement is not a scored contradiction. All six Saitama checkpoint items remain NON_DIAGNOSTIC; source observations above remain substantive evidence.
+
+## V35 Saitama delta — domestic reconstruction and context-first judgment
+
+Propagated after the frozen [V35 reading](../../02%20Sequential%20Readings/OPM_V35_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V35_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), combined-V1 comparison with V36 outcomes quarantined, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V35. Locators are chapter / archive image in `OPM / V35`. Earlier histories retain their own boundaries. No V36 or web narrative enters this delta.
+
+| Trigger / setting | Observed response | Conditional model and limit | Evidence |
+|---|---|---|---|
+| Pochi and an apparent monkey follow | recognizes the dog, likes dogs and allows proximity; never identifies Black Sperm | behavior-sensitive tolerance without a conscious two-monster rehabilitation policy | `176 / 0030–0041` |
+| Automated system attacks companions | walks through fire, destroys units and treats the route as practical access | institution sees category; he acts from immediate context. Targets' future safety remains open | `177 / 0053–0068` |
+| Controller malfunction | says electronics usually work if struck and restores it with one blow | clean low-ceremony trivial-problem response; not a universal technical rule | `177 / 0064–0065` |
+| A-Class neighbors assert rank, seniority and image | does not defer, rejects need for rhythm and accepts challenge without status ceremony | peer status remains practically irrelevant; interrupted duel gives no neighbor-side outcome | `179 / 0129–0136` |
+| Lost home and room 104 | brings chipped household goods, names the room his new home and prioritizes Pochi's care over recruitment housing | domestic location restored but permission, stability and companion identities remain open | `176,179–180 / 0029,0128–0152` |
+| Psychic custody conflict | follows Fubuki, identifies Psykos as house-destruction culprit and later treats demon containment as dog-policy precedent | practical grievance and analogy, not a complete position on personhood or psychic politics | `180–181 / 0149–0195` |
+
+**Strong retained.** Ordinary domestic concerns, pet care, property grievance and rank indifference materially broaden the post-cosmic model. Private upward recognition by Bofoi, Amai, Flash and Fubuki does not become public credit. Checkpoint S-A-01 and S-A-06 confirm from controller repair and neighbor hierarchy; the other four Saitama predictions remain NON_DIAGNOSTIC.
+
+## V36 Saitama delta — concern without ownership and possibility without guarantee
+
+Propagated after the frozen [V36 reading](../../02%20Sequential%20Readings/OPM_V36_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V36_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), prior-exposed combined-V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V36. Locators are chapter / archive image in `OPM / V36`. Earlier histories retain their own boundaries. No V37 or official-web narrative enters this delta.
+
+| Trigger / setting | Observed response | Conditional model and limit | Evidence |
+|---|---|---|---|
+| Tatsumaki threatens Fubuki's group | physically stops her, calls the sister lecture excessive and objects to heroes fighting | status and family authority do not override immediate conduct; restraint is practical, not a total trauma theory | `182 / 0041–0044` |
+| Asked what he is to Fubuki | rejects friend, comrade and friend-of-friend, choosing only `ただの知り合い`; later repeats the label while intervening | concern exceeds indifference without silently becoming friendship or ownership | `183,187 / 0058–0061,0185–0187` |
+| Psychic fight crosses homes, vehicles and roads | evacuates people, redirects the conflict and keeps returning to property/collateral limits | overwhelming force remains socially bounded; `外でやれ` is not permission for consequence-free violence | `183–187 / 0065–0108,0144–0187` |
+| Tatsumaki is exhausted and uncertain | says he does not know psychic training, recognizes effort, permits self-directed life and forbids destroying others' things | clean outside-competence admission plus practical help; not psychic or trauma expertise | `187 / 0197–0199` |
+| Tatsumaki calls the Blizzard Group weak | cites his pre-training inability to beat Wolf level and says no one knows a presently weak person's limit | present weakness is not fixed essence; possibility does not guarantee growth or deny current capability | `187 / 0204–0207` |
+| A-Class neighbors reassess him | treats same-rank peers as companions who should get along, then returns to damaged clothes and shoes | practical peer relation expands; public rank and official credit remain unchanged | `188 / 0212–0216` |
+
+**Strong retained.** V36 materially clarifies Saitama's explicit social and ethical vocabulary: narrow labels, nonpossessive intervention, status-insensitive boundaries and unknown future capacity. Checkpoint S-A-05 and S-A-06 confirm; the other four Saitama predictions remain NON_DIAGNOSTIC. None of this authorizes a friendship upgrade, paternal cure narrative or universal developmental promise.
+
+## V37 Saitama delta — unusable measurement, institutional indifference and motive correction
+
+Propagated after the frozen [V37 reading](../../02%20Sequential%20Readings/OPM_V37_DEEP_READING.md), [Japanese/register PASS](../../08%20Audits%20and%20Manifests/OPM_V37_JAPANESE_DIALOGUE_AND_REGISTER_AUDIT.md), limited-preexposure V1 comparison, RR and checkpoint adjudication. Observations are `tankobon_canonical`, available from V37. Locators are chapter / archive image in `OPM / V37`. Earlier histories retain their own boundaries. No V38 or official-web narrative enters this delta.
+
+| Trigger / setting | Observed response | Conditional model and limit | Evidence |
+|---|---|---|---|
+| Genos asks for another bout and appraisal | agrees, notices changed parts and glare, but cannot translate the power gap into useful feedback | truthful bounded observation prevents invented expertise yet fails relationally; Checkpoint S-A-05 is PARTIAL, not confirmation | `191 / 0065–0084` |
+| Neo Heroes promise higher valuation and treatment | refuses transfer because it is troublesome rather than defending his present institution | practical burden outweighs prestige; Checkpoint S-A-06 confirms without proving immunity to every offer | `191 / 0094–0097` |
+| A fixed match becomes a real Demon-level threat | destroys Gachiwawa, checks the injured hero and asks why success makes McCoy angry | responds to concrete danger outside the authored betting story; ignorance of the scheme is locally clarifying, not universal institutional wisdom | `192 / 0124–0132` |
+| His twenty-to-one odds suggest self-betting | entertains profit, runs to the next alert, then notices money replacing rescue as motive and returns a civilian reward | self-correction is real without implying purified motive or indifference to material need | `192 / 0136–0139` |
+| King receives expert credit for no feat | remains nearby and actually performs rescue while public/institutional recognition stays narrow | inverse recognition is structural, not proof that every observer always misreads him | `192,194 / 0124–0139,0168–0200` |
+
+**Strong retained.** V37 sharpens Saitama as an unusable comparative metric and a poor feedback giver even when he is cooperative. Status-insensitivity and motive self-correction strengthen, while failed communication remains evidence rather than being rationalized away.
