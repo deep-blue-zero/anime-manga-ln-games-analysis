@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: longitudinal_ledger
 scope: EFFORT_COMPETITION_GOAL_OWNERSHIP_COMPARATIVE_SELF_WORTH
-generation: V1.1
+generation: V1.6
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -1010,6 +1010,8 @@ Near the end of summer vacation Mizusawa already identifies Hinami as the person
 
 Tomozaki's ordinary clothing judgment shows repeated modeled exposure becoming rapid pattern recognition. A learned form can cease to feel like recitation without losing its history. This strengthens the ledger's separation between method origin and current ownership.
 
+**R04 source enrichment, 2026-09-13 — STRENGTHEN at the same early-second-term position.** The locked V06.5 clothing unit distinguishes motivational reports: Hinami says effort itself strongly motivates her, while Tomozaki inwardly says enjoyment is a prerequisite for his sustained game practice (P178–188). These are attributed self-accounts, not exhaustive laws about either person's behavior. P159–170 links price awareness and avoiding wasted wages to possible arcade/DLC spending; savings serve named leisure interests on this occasion. The earlier learned-form claim and all EFFORT identities remain intact. Route: V06.5 `OEBPS/Text/part0013.xhtml`, SR06.5 §8/V06.5-C06, Fumiya TF-P01, and the [Fumiya integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md).
+
 ### 31.6 Konno's prosocial effort does not settle accountability
 
 During V06 festival preparation Konno gives Yuzu competent help in investigating a feared relationship threat. The care is real and consistent with ongoing attachment. It does not include apology, restitution, or acknowledgment toward Tama or Akiyama and therefore cannot be counted as completed repair.
@@ -1992,6 +1994,8 @@ The distinction matters outside Hinami. Tomozaki also retains social support and
 
 ## 72. V11: retrospective meaning and antecedent control are different effort regimes
 
+**R01 attribution qualification.** The family sequence is a disclosure-framed, mixed-person retrospective with internally focalized access. Its remembered speech and rendered interiority supply formation evidence to the reader; they are not an exhaustive speech transcript that Tomozaki necessarily hears. The exact Nagisa school-year descriptions in V10 and V11 remain in textual tension. The temporal distinction analyzed below survives that unresolved chronology; it does not settle intent or total causation. See the [targeted source-locator audit](../08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md), ESC-02–ESC-03.
+
 Yoko's family system gives events meaning after they occur. A quarrel becomes preparation for a later relationship; pain makes a sweet shared object more valuable; adversity becomes a necessary trial. This structure can reduce despair and make continued action possible. It can also leave the causal situation unchanged and convert preventable harm into a reassuring story.
 
 Hinami's later regime reverses the temporal order:
@@ -2067,12 +2071,12 @@ Mimimi's improvised commentary produces attention and shows a new audience-facin
 
 | Character | Dominant observed effort regime | Goal origin / comparison reference | Success criterion | Stopping condition | Self-worth coupling | Current risk |
 |---|---|---|---|---|---|---|
-| Tomozaki | professional competition, invasive Hinami inquiry, and newly distributed rescue authorship | professional end and Hinami concern self-authored; final method co-authored with Kikuchi/party | improve transferable play; reach Hinami; create an affirming story | individual tournament/set bounded; Hinami intervention and career exit not bounded | strong-character identity attaches partly to nanashi superiority and unique usefulness | understanding and sacrifice mistaken for authority; defeat becomes total self-indictment |
+| Tomozaki | professional competition, invasive Hinami inquiry, and proposed distributed rescue authorship | professional end and Hinami concern self-authored; final method co-proposed with Kikuchi; other party members have not agreed | improve transferable play; reach Hinami; create an affirming story | individual tournament/set bounded; Hinami intervention and career exit not bounded | strong-character identity attaches partly to nanashi superiority and unique usefulness | understanding and sacrifice mistaken for authority; defeat becomes total self-indictment |
 | Hinami | antecedent control, measurable victory, reproducibility, and suspended public performance | substitute warrant after rejection of family meaning; nanashi rivalry | win, be required, and produce defensible causal results | game set bounded; life/proof loop unbounded | extremely coupled because victory substitutes for trusted self-belief | randomness becomes fault; admirer obligations and losses become impossible burdens |
-| Kikuchi | professional fiction, ethical inquiry, relationship defense, and collaborative authorship | desire is owned; immediate rescue reason borrowed from Tomozaki and accepted provisionally | finish truthful work without denying human consequence; reach Tomozaki/Hinami | can stop a harmful call; artistic consent and project exit rules incomplete | publication recognition matters without being shown as whole identity | insight and vocation naturalize exposure; group project obscures subject consent |
+| Kikuchi | professional fiction, ethical inquiry, relationship defense, and collaborative authorship | desire is owned; immediate rescue reason borrowed from Tomozaki and accepted provisionally | finish truthful work without denying human consequence; reach Tomozaki/Hinami | names failed reception before the call ends; no explicit hang-up actor; artistic consent and project exit rules incomplete | publication recognition matters without being shown as whole identity | insight and vocation naturalize exposure; group project obscures subject consent |
 | Haruka | model-guided self-development and student-council leadership | Hinami as admired standard; own effort executes the route | become like Hinami and perform the public role | none for model dependence | future confidence is materially tied to Hinami's coherence | sister becomes obligated to remain an ideal |
 | Mimimi | relational diagnosis, substitute student-council leadership, and improvised public communication | friendship with Hinami; own wish to help; comparison history remains relevant | preserve function, help Hinami/Haruka, communicate effectively | event tasks bounded; romantic rule incomplete | can distinguish skill confidence from self-confidence but remains comparison-sensitive | service and boundary caution postpone independent end selection |
-| Mizusawa | self-disclosure, Hinami interpretation, and continuing rescue-oriented love | own loneliness and belief he can understand hers | understand and help Hinami | no confession or terminal pursuit rule | usefulness as interpreter may support meaning | hero fantasy turns unilateral understanding into special entitlement |
+| Mizusawa | self-disclosure, Hinami interpretation, and continuing rescue-oriented love | own loneliness and belief he can understand hers | understand and help Hinami | no renewed confession or terminal pursuit rule at V11; earlier V03 confession/refusal preserved | usefulness as interpreter may support meaning | hero fantasy turns unilateral understanding into special entitlement |
 | Yuzu | repair initiation and practical maintenance | peer attachment and responsibility for the video | reconnect group; protect event continuity | no absorber limit | not rank-centered in shown evidence | guilt absorbs disproportionate causal responsibility |
 | Rena | renewed provocative contact | attention and reaction | obtain access/reaction | resisted locally; no internalized stop shown | not retested | others must repeatedly enforce boundaries |
 
@@ -2082,7 +2086,7 @@ This matrix is a retrieval state, not a diagnosis, moral ranking, or fixed endpo
 
 ### EFFORT-H03 — Hinami's motive remains the key unresolved variable
 
-**State:** HIGH / FORMATION MECHANISM SUBSTANTIALLY ANSWERED. The collapse of Yoko's retrospective meaning system after Nagisa's death directly grounds Hinami's turn toward control, victory, demand, and proof. No single-motive or total-trait account is authorized.
+**State:** HIGH / FORMATION MECHANISM SUBSTANTIALLY ANSWERED. The collapse of Yoko's retrospective meaning system after Nagisa's death supplies explicit retrospective formation evidence for Hinami's turn toward control, victory, demand, and proof. The narrative-layer qualification in §72 applies; no single-motive or total-trait account is authorized.
 
 ### EFFORT-H17 — Ownership includes capacity governance
 
@@ -2117,3 +2121,80 @@ This matrix is a retrieval state, not a diagnosis, moral ranking, or fixed endpo
 **State:** HIGH-MEDIUM / NEW. The final party plan recognizes that no single actor understands Hinami. Collective interpretation may improve fit, but Hinami's participation and refusal remain separate requirements.
 
 The current-publication ledger is closed through V11. Whole-corpus synthesis may integrate these states but must retain the unresolved Nagisa intent, Hinami end/consent, couple governance, romantic stopping, professional viability, and accountability lines. A later admitted numbered volume should resume prospectively from the frozen V11 claim state rather than rewriting it.
+
+## 78. R01 cumulative reconciliation — 2026-09-13
+
+### 78.1 Scope and correction record
+
+V1.2 preserves the chronological effort spine and all EFFORT-H01–H29 identities. This section gives their current V11 cross-owner disposition without converting an older volume's last hypothesis paragraph into a claim that nothing later happened. No new source unit or literary synthesis is introduced. The [longitudinal reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) owns the six-ledger gate review; the [claim index](TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md) owns corpus-family routing.
+
+The bounded corrections above abandon three overstatements in §76: participation by an already assembled party, an explicitly attributed Kikuchi hang-up action, and an unqualified absence of Mizusawa confession. The surviving states are a co-proposal awaiting participants, Kikuchi's direct failed-reception statement followed by the ended call, and an unexecuted **renewed** declaration after the V03 confession/refusal. Section 72 and EFFORT-H03 now distinguish internally focalized retrospective formation from a verbatim disclosure transcript. V10/V11 school-year tension remains OPEN. These corrections preserve the broader effort, motive, impact, and consent arguments.
+
+### 78.2 Current hypothesis-to-corpus crosswalk
+
+The reading shorthand below means the exact `TOMOZAKI_VNN_DEEP_READING.md` or `TOMOZAKI_VNN_N_SUPPLEMENTAL_READING.md` in `../02 Sequential Readings/`. CRI IDs resolve in the linked claim index. A `PRESERVE` result is an affirmative overlap review, not a claim of additional narrative resolution.
+
+| Effort identity | Current V11 disposition and reconciliation | Corpus owner and controlling reading route |
+|---|---|---|
+| **EFFORT-H01** | **PRESERVE.** Intensity does not identify value structure; professional play, authorship, care, proof, and pursuit retain different ends and costs. | CRI-EFF-001; V08 §4.4, V11 §§4.8–4.9 |
+| **EFFORT-H02** | **REVISE the older V08 limit.** V09 explicitly abandons assigned group centrality while defending chosen ties; allocation and intervention still lack complete governance. The V08 statement that this audit has not yet occurred is historical. | CRI-TOM-003, CRI-REL-002, CRI-REL-006; V09 §§4.2–4.5, V11 §§4.7–4.11 |
+| **EFFORT-H03** | **STRENGTHEN formation / OPEN total motive.** The V11 retrospective explains the turn toward antecedent control; narrative access, exact school-year alignment, death intent, and exhaustive causation remain separately bounded. | CRI-EPI-002, CRI-HIN-002, CRI-HIN-005; V11 §§4.5–4.6; locator audit ESC-02–ESC-03 |
+| **EFFORT-H04** | **PRESERVE.** Autonomous comparison targets make rank-dependent self-worth unstable; continuing love is not a fixed duty to wait or a terminal stopping rule. | CRI-MIM-001, CRI-MIM-003; V02 §§11–21, V07 §12, V11 §5.6 |
+| **EFFORT-H05** | **PRESERVE / OPEN durability.** Tama's person-specific valuation matters, but later routine is not an equivalent retest of the V02 collapse or proof of permanent stabilization. | CRI-MIM-002; V02 §§19–21; relationship ledger Mimimi/Tama history |
+| **EFFORT-H06** | **STRENGTHEN.** Owned ends can use supplied methods, while consent over other people remains independent. Kikuchi provisionally accepts an initial reason while reserving the search for her own. | CRI-TOM-003, CRI-KIK-002, CRI-REL-004; V10 §4.4, V11 §4.9 |
+| **EFFORT-H07** | **PRESERVE with countercase.** Inhabited failure can teach and reward; it need not do so immediately. The V11 set instead destabilizes Tomozaki's protected warrant. | CRI-EFF-002, CRI-TOM-004; V08 §4.5, V11 §4.8 |
+| **EFFORT-H08** | **REVISE scope of recognition.** Competition can make effort legible and can falsify an asserted credential. V06 contains an individual Hinami win but Tomozaki's set win; V11 contains Hinami's set win, not her first individual victory. | CRI-EFF-002, CRI-REL-001; V06 §4, V11 §4.8; ESC-04/ESC-06 |
+| **EFFORT-H09** | **STRENGTHEN.** Leaving a final choice open does not retrospectively authorize staged information, onward disclosure, or intervention inputs. | CRI-REL-004, CRI-FORM-001; V03 §10, V10 §§4.1–4.3 |
+| **EFFORT-H10** | **PRESERVE.** Tama's owned interface/craft changes retain governing judgment; successful accommodation under unfair conditions does not make the imposed cost fair. | CRI-TAM-001, CRI-SOC-002; V05 §§4–6, 10, V08 §4.4 |
+| **EFFORT-H11** | **PRESERVE.** Enjoyment and affection alter goal specification; affect is evidence of changing reasons, not automatic ethical justification. | CRI-TOM-005, CRI-REL-002; V08 §§4.4–4.6, V09 §§4.1–4.5 |
+| **EFFORT-H12** | **STRENGTHEN / LIMIT.** Recipient-specific estimation improves training and repair, but even an accurate model does not confer authority over that recipient. | CRI-TAM-001, CRI-REL-004; V05 §§4–6, V09 §§4.2–4.5, V11 §§4.7–4.10 |
+| **EFFORT-H13** | **PRESERVE.** Practice creates conditions for sincere interest and owned affiliation; it neither manufactures every desired object nor makes every practiced act sincere. | CRI-TOM-002, CRI-REL-006; V05 §§4–6, V08 §§4.2–4.3 |
+| **EFFORT-H14** | **PRESERVE as local strategy.** Calculability can be a chosen risk limit. It is not sufficient explanation for all Hinami effort or Tomozaki decisions. | CRI-HIN-002, CRI-EFF-002; V06 §4, V08 §4.3, V11 §4.8 |
+| **EFFORT-H15** | **STRENGTHEN.** Voluntary execution, a precise route, and an owned affirmative end remain separate; Hinami's retained skill does not settle her governing reason. | CRI-HIN-001, CRI-HIN-006; V07 §9, V11 §§4.2–4.8 |
+| **EFFORT-H16** | **STRENGTHEN beyond the older V08 state.** V10 care and V11 event substitution demonstrate distributed capacity. The next party remains a proposal, so its expected benefit is not an observed outcome. | CRI-REL-005, CRI-FORM-001; V10 §§4.1, 5.5, V11 §§4.3–4.4, 4.11 |
+| **EFFORT-H17** | **STRENGTHEN.** Capacity, allocation, governing reason, and continued participation move separately. No generalized regression-to-zero model survives V11. | CRI-TOM-004, CRI-HIN-001, CRI-EFF-001; V08 §4.6, V11 §§4.2–4.8 |
+| **EFFORT-H18** | **PRESERVE.** High stakes can produce underaction or excessive control; V09 network erasure and V11 intervention show different distortions rather than one fixed trait. | CRI-TOM-004, CRI-REL-004; V09 §§4.2–4.5, V11 §§4.7–4.8 |
+| **EFFORT-H19** | **STRENGTHEN.** Shared declared goals conceal different owners and defeat meanings; distributed care also contains unequal knowledge, motives, and cost. | CRI-EFF-001, CRI-REL-005; V08.5 §8.2, V10 §5.5 |
+| **EFFORT-H20** | **PRESERVE with narrative-layer limits.** Rank/demand can organize responses to lost belonging. Hinami and Rena retain distinct histories, ethics, and knowledge distributions. | CRI-HIN-004, CRI-REL-004; V08.5 §§8, 10; no automatic actor access |
+| **EFFORT-H21** | **PRESERVE capacity / LIMIT durability.** V09 confidence in revisability is real. Section 62 left its durability for later testing; V11 collapse now shows that this capacity does not immunize Tomozaki against reliance on a protected skill/hero warrant. No earlier immunity claim is imputed. | CRI-TOM-004, CRI-TOM-005; V09 §4.3, V11 §4.8 |
+| **EFFORT-H22** | **PRESERVE.** Mutual selection becomes clearer when alternatives and costs are visible; one costly consent does not waive later interests or settle privacy rules. | CRI-REL-002, CRI-REL-004; V09 §4.5, V10 §4.2 |
+| **EFFORT-H23** | **STRENGTHEN.** Vocational recognition and chosen care increase, rather than discharge, impact and permission responsibilities. No actual publication or completed consent regime follows. | CRI-KIK-002, CRI-REL-004; V11 §§4.9–4.10 |
+| **EFFORT-H24** | **STRENGTHEN.** Recognizable form can carry situated investment and consequences beyond its origin. Neither deliberate form nor beneficial reception decides every authenticity claim. | CRI-TOM-002, CRI-FORM-001; V10 §§4.1, 5.5, V11 §§4.3–4.4, 4.10 |
+| **EFFORT-H25** | **PRESERVE / OPEN causal answer.** More family evidence explains why uncertainty matters; it does not decide road-entry intent or repair the school-year tension. | CRI-EPI-002, CRI-HIN-005; V10 §4.6, V11 §§4.5–4.6; ESC-02 |
+| **EFFORT-H26** | **STRENGTHEN.** Haruka's attained role and received value survive criticism of Hinami's motive; benefit does not make the recipient owner of the model's future conduct. | CRI-FORM-001, CRI-REL-005; V11 §4.4 |
+| **EFFORT-H27** | **PRESERVE as comparative interpretation.** Retrospective meaning and antecedent control differ temporally and in failure mechanism; neither is an exhaustive account of family life or rational action. | CRI-HIN-002, CRI-EPI-002; V11 §§4.5–4.6; ESC-03 |
+| **EFFORT-H28** | **PRESERVE evidence / BOUND ethical inference.** Models and admirers supply reasons; proposed duties of care are analyst value judgments, not a demonstrated contract or right to compel performance. | CRI-REL-004, CRI-FORM-001; V11 §4.4 |
+| **EFFORT-H29** | **PRESERVE proposal / OPEN execution.** Multiple perspectives may improve fit; party membership, Hinami's participation, refusal, and effect remain unobserved. | CRI-REL-005, CRI-EPI-003; V11 §4.11 |
+
+### 78.3 Transfer boundary
+
+Source coverage through V11 is complete. Longitudinal review is evaluated separately in the reconciliation audit; character, relationship, thematic, and full-series maturity are separate later gates. Source checks may correct attribution or narrow an action without rewriting its original prospective reading. Future literary work must use this current crosswalk together with the character, relationship, social, claim, and Japanese-language owners, rather than treat a dated historical hypothesis as its final V11 formulation.
+
+### 78.4 R04 Hinami source qualifications — 2026-09-13
+
+This v1.4 addition refines existing EFFORT families through independently reviewed primary context; all twenty-nine identities and their earlier crosswalk dispositions survive. It preserves the Fumiya enrichment in §31.5 and does not reopen frozen source-facing states. The [Hinami integration review](../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) records the bounded review.
+
+- **H08 / H14 — precise rule and scope:** V06 `OEBPS/Text/part0008.xhtml` P9, P97–113 establishes first-to-five, a fifth-game Hinami win and sixth-game Tomozaki win, ending 5–1. DR06 §4’s “five-game set” shorthand must not mean five games total. V11’s 3–2 Hinami set win remains the later result; neither establishes timeless superiority.
+- **H14 / H27 — distinguish knowledge from integration:** middle-school Hinami explicitly acknowledges luck and events that action cannot control (V06.5 `OEBPS/Text/part0011.xhtml` P53–64). She also includes emotion within reasoning (P214–238). The later causal-warrant crisis is not evidence that she has never understood those concepts; knowing a limit and tolerating its consequences remain different variables.
+- **H15 / H19 / H20 — material practice and stopping:** V08.5 `text/part0013.html` P240–265 depicts results/graphs and goals in Excel/Word; `text/part0015.html` P90–105 depicts difficulty closing the failed team goal. The concrete historical practice does not establish a fixed V11 routine, and list completion cannot itself determine when proof is sufficient.
+
+These strengthen the existing SR06.5 §7 and SR08.5 §8 routes. They do not supply Nagisa’s intent, a general affirmative future end, or consent to the proposed party.
+
+### 78.5 R05 Kikuchi motive and responsibility precision — 2026-09-13
+
+**EFFORT-H06/H12/H23 — STRENGTHEN earlier concern; preserve unfinished justification.** SR08.5 §11.2’s New Year’s Eve occurs before V08. In `text/part0037.html` P22–26, Kikuchi already asks whether interpreting Hinami and investigating her circumstances was right and whether she had prepared for the responsibility. Her annotated script is a treasured record of shared work (`text/part0035.html` P15–16), while the V08 prize aspiration is explicitly a test of ability (`text/part0013.html` P37–50). These are distinct represented thoughts, preferences and aspirations, not evidence of a completed permission practice.
+
+V11 `item/xhtml/p-0025.xhtml` P118–146 makes the later problem precise: she acknowledges hurting Haruka for creative inquiry and retains liking while lacking a further reason for prioritizing writing over another person’s feelings. V11 therefore intensifies an earlier recognized responsibility; it does not introduce conscience or erase enjoyment and ambition. Haruka’s own invitations and request not to interrupt (`p-0023.xhtml` P188, P243–252) qualify the process without supplying Hinami’s permission or licensing publication. The later received reason and her search for her own remain separate at `p-0033.xhtml` P602–611.
+
+The [Kikuchi integration review](../08%20Audits%20and%20Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md) records primary verification; KF-P18–21/29–30/34 are local monograph routes. All twenty-nine EFFORT identities, prior crosswalk dispositions, Fumiya §31.5 and Hinami §78.4 are preserved. Completion, contract, sustainable career, subject consent and project results remain OPEN.
+
+### 78.6 R05 Mimimi: pleasure, stopping and self-inclusion — 2026-09-13
+
+The [Mimimi review](../08%20Audits%20and%20Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md) strengthens existing EFFORT-H01/H04/H05/H11/H16/H17 with the [NM-P06–11/23–28](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md#nm-p06) returns. All twenty-nine identities and their prior crosswalk rows remain unchanged.
+
+- **H01/H04/H11 — distinguish local stopping from terminal policy.** In the post-V05/pre-V06 running story, V06.5 `OEBPS/Text/part0037.xhtml` P88–220, Mimimi redirects attention toward her own stride, wins one 100-metre race and refuses an immediate rematch. A personal-best aim is stated; no measured time verifies its achievement. High-jump specialization, sprint victory, process pleasure and the choice to stop have different scopes. Unresolved romance does not mean she never stops anything.
+- **H01/H05/H17 — preserve care, gladness and the helper’s own life.** V06.5 `part0033.xhtml` P1–350 gives real pleasure at Tama’s growth alongside loss of a helping role. `part0037.xhtml` P48–74 gives her mother’s work-grounded criticism of harmony maintained through Mimimi’s solitary endurance, with the admission of overheard muttering. This is a separate corrective resource, not parental omniscience or a cure. Ordinary preferences and reciprocal hidden accommodations in V05’s prior-volume bonus further prevent reducing every act to self-proof.
+- **H04/H11 — revise the current contact sequence and strengthen partial self-regard.** V09 `text/part0029.html` P122/P137–142 records about a week apart and the resumed walk; P174 voices liking for the self who loves Fumiya despite nonreciprocation. This qualifies a total inadequacy account. P233–239 communicates some conversation with Kikuchi, while `part0031.html` P24–113 leaves Fumiya’s practical solution unfinished. Effective help does not settle the couple’s governance or retroactively authorize forceful initiation.
+- **H16/H17 — capacity does not dictate future ownership.** V11 `item/xhtml/p-0028.xhtml` P1–94 distinguishes earlier refusal, newly chosen help and institutional permission. `p-0030.xhtml` P1–170 distinguishes novice participation, collaborator expertise, a bounded initial request and an acknowledged extension. Neither demonstrates formal succession, unlimited availability or a chosen career.
+
+The chronological effort spine, Fumiya §31.5, Hinami §78.4 and Kikuchi §78.5 remain historical and analytical dependencies. These qualifications are current cross-owner evidence, not retrospective changes to frozen hypotheses.
